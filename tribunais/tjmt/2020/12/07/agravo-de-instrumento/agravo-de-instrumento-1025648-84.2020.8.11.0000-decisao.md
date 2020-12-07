@@ -1,0 +1,22 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por DANIEL PELEGRIN, com o fito suspender a decisão que, nos autos dos Embargos de Terceiro de no 0000978.16.2020.811.0059, ajuizados por HERVINO BERTF e DONATO LUIZ PEDROSA, deferiu o pedido liminar, a fim de determinar a manutenção dos autores, ora agravados, na área turbada, com 924,44ha, denominada Fazenda II Irmãos.
+Para tanto, o agravante alega que os Embargos de Terceiro protocolados na origem não passam de uma aventura jurídica dos agravados, os quais têm como objetivo única e exclusivamente especulação imobiliária.
+Pondera que os requeridos não comprovaram a sua posse e sequer delimitaram a área supostamente invadida, ao contrário do agravante, que colacionou robustas provas de que adquiriu a propriedade em 2008 e exerce a posse desde então, ou seja, há mais de 12 (doze) anos, sem nunca ter sido questionado.
+Afirma que os agravados nunca se opuseram ao cumprimento da liminar deferida em seu favor nos autos da Ação de Manutenção de Posse de no 4320-74.2016.8.11.0059 proposta em face de Alberto Francisco Vasques, devendo ser revogada a decisão que deferiu a tutela de urgência para manter os requeridos na posse da área.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, por mais que o agravante insista no contrário, não se observa a presença dos requisitos legais para a concessão da medida liminar pleiteada.
+É que, consoante se infere dos autos, além do que foi registrado na própria decisão censurada, constam informações que não refletem o direito alegado pelo recorrente sobre a área, ou, pelo menos, que desdigam o direito dos próprios autores, ora agravados.
+Mais especificamente, a liminar foi deferida na origem em razão de que o embargado, ora agravante, munido de decisão liminar que lhe concedeu o direito de permanecer na área correspondente às Fazendas Santa Clara e Alagados, mesmo sem a necessária delimitação da área em litígio, supostamente vem ameaçando não só a posse dos agravados, mas de pelo menos outros dois confrontantes das fazendas pertencentes ao requerente.
+As informações constantes dos autos demonstram que o agravante, se valendo da liminar deferida em seu favor nos autos da Ação de Manutenção de Posse de no 4320-74.2016.8.11.0059 proposta em face de Alberto Francisco Vasques, inclusive ateou fogo na casa dos agravados, forçando-os a abandonarem suas terras para preservar as suas vidas.
+Assim, ao menos por ora, não há nada o que reparar na decisão que determinou que os agravados permaneçam na posse dos seus imóveis, até que seja delimitada a área de terras pertencente a cada litigante ou, ao menos até a feitura do auto de constatação, já que, aparentemente, o agravante obteve a liminar naqueles autos sem delimitar ou informar os limites da sua propriedade/posse.
+Por tais fundamentos, ao menos nesse instante, impõe-se a manutenção da decisão de base.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se os agravados do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
