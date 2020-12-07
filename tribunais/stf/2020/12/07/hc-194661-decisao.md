@@ -1,0 +1,34 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por Bruno Lima Pontes, em favor de Francisco das Chagas Monteiro, contra decisão monocrática proferida por Ministro do STJ, nos autos do HC 628.428/CE.
+    Colho da decisão impugnada:
+    “Extrai-se dos autos que o paciente foi preso em flagrante em 6/4/2018 pela suposta prática de delitos tipificados no artigo 33, caput, da Lei n. 11.343/06, e no artigo 12, caput, da Lei n. 10.826/03 (tráfico de entorpecentes e posse irregular de arma de fogo de uso permitido). Referida custódia foi convertida em prisão preventiva (fls. 24/26). Em 15/4/2019, sobreveio sentença condenando-o à pena de 11 anos e 8 meses de reclusão, em regime inicial fechado, e ao pagamento de 1.166 dias-multa, por incursão no delito de tráfico de drogas, tendo sido absolvido pela acusação de porte ilegal de arma. Foi, ainda, negado o direito a recorrer em liberdade, mantida a segregação cautelar, com comando para a expedição de guia de execução provisória da pena.
+    Irresignada, a defesa interpôs recurso de apelação, pendente de julgamento.
+    Posteriormente, apresentou petição perante o Tribunal de origem, nos autos da apelação, para reavaliação da prisão preventiva com fulcro na Recomendação n. 62/2020 do Conselho Nacional de Justiça, tendo sido mantida a prisão cautelar do paciente (fls. 157/161).
+    No presente mandamus, aduz haver constrangimento ilegal consubstanciado na demora injustificada no julgamento do apelo, porquanto, interposto há aproximadamente 17 meses, a prisão preventiva perdura, no total, por mais de 2 anos e 7 meses, sem que haja previsão para julgamento da apelação.
+    Assevera que, em razão das restrições para contenção da pandemia de COVID19, não consegue acessar o conteúdo do processo nas dependências físicas da Corte estadual, o que tem dificultado o exercício da defesa, impossibilitada de manejar as razões recursais, sobremaneira porque o advogado que agora acompanha o caso no momento não é o mesmo que participou da instrução.
+    Sustenta suficiência, no caso concreto, da aplicação de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+    Requer, assim, em liminar e no mérito, a revogação de prisão preventiva, com a expedição do alvará de soltura.” (eDOC 7)
+    No STJ, o habeas corpus foi indeferido liminarmente, porquanto seria reiteração do HC 587.291/CE, em trâmite naquele Tribunal.
+    Neste writ, a defesa reitera os pedidos formulados naquele Tribunal.
+    Consulta ao sistema interno desta Corte revelou que este é o 10º (décimo) habeas corpus impetrado em favor do paciente; oito apenas neste ano.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    É que, ao contrário do que alega o impetrante, a jurisdição do STJ se esgota por meio de um pronunciamento colegiado. Ausente pronunciamento colegiado naquele Tribunal, não houve lá esgotamento da instância. Sem o esgotamento da instância, a análise por esta Corte resulta em sua supressão. Cito precedentes:
+    “Agravo regimental no habeas corpus. 2. Habeas corpus que impugna decisão monocrática de mérito proferida por Ministro do Superior Tribunal de Justiça. Supressão de instância. Ausência de pronunciamento colegiado. Necessidade de interposição de agravo regimental. 3. Superação do óbice possível apenas nos casos de flagrante ilegalidade. Não ocorrência no caso concreto. 4. Agravo não provido”. (AgR no HC 184.614, de minha relatoria, Segunda Turma, DJe 16.6.2020)
+    “Agravo regimental no habeas corpus. 2. Habeas corpus impetrado contra decisão monocrática proferida por Ministro de Tribunal Superior. Supressão de instância. Não há manifesta ilegalidade no caso concreto a autorizar a concessão da ordem. 3. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5 Agravo improvido”. (AgR no HC 180.489, de minha relatoria, Segunda Turma, DJe 14.4.2020)
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    Nos autos do HC 164.810, registrei:
+    “Na espécie, o paciente foi preso em sua residência, quando do cumprimento de mandado de busca e apreensão, ocasião em que foram encontrados 2,960 kg de cocaína, uma pistola .380 e R$ 24.392,00 em espécie. (eDOCs 10, 11 e 12)
+    Ao decretar a prisão preventiva, em audiência de custódia, assim registrou o Juízo:
+    "O próprio detido afirmou que o local onde foi encontrado o material seria o terreno de sua residência, tendo o material apreendido sido encontrado num armazém mais afastado. Vislumbro pois indícios de autoria. A grande quantidade de cocaína (quase 5 KG) e dinheiro apreendido denotam, além da gravidade concreta da conduta do agente, a prova da materialidade. O material apreendido, ao que tudo indica, seria distribuído para o abastecimento do comércio de drogas local ou regional, de modo que se percebe ser muito grave a conduta do agente. As cautelares do art. 319, CPP, parecem ser insuficientes para a tutela da ordem pública, abalada em razão da excessiva quantidade de dinheiro e drogas encontrados. Assim, presentes os requisitos do art. 312 e sendo insuficientes as cautelares do art. 319, todos do CPP, entendo por bem manter a prisão preventiva de Francisco das Chagas Monteiro, V. Rochão, tudo com finalidade de tutelar a ordem pública desta cidade.” (eDOC 10)
+    Neste writ, o impetrante alega excesso de prazo para o julgamento da apelação.
+    Consulta ao sítio eletrônico do TJ/CE revelou que a apelação teria sido recebida em 8.10.2019 e, no dia 19.10.2019, a defesa foi intimada para apresentar as razões do recurso.
+    Foi requerido, pela defesa, o acesso “às mídias em que foram gravados os depoimentos colhidos na instrução processual”. O relator deferiu o pedido em 16.3.2020.
+    Os autos estavam conclusos desde 6.4.2020, quando a defesa requereu a reavaliação da prisão preventiva, cuja revogação foi indeferida em 28.4.2020.
+    Muito embora o processo não esteja parado, ante o pronunciamento judicial por duas vezes, penso que é prudente recomendar celeridade no julgamento do recurso do paciente.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF), mas recomendo ao Relator da apelação 0006609-02.2018.8.06.0074, em trâmite na 2ª Câmara Criminal do Tribunal de Justiça do Ceará, que imprima celeridade no julgamento do recurso.
+    Publique-se.
+    Brasília, 7 de dezembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
