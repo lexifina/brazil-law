@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) No 0012309-93.2013.8.11.0041
+APELANTE: AGUAS CUIABA S.A. - CONCESSIONARIA DE SERVICOS PUBLICOS DE AGUA E ESGOTO
+APELADO: ERIVELTON DEBONI DOS SANTOS
+Manifesto minha suspeição para atuar no feito e incidentes posteriores.
+Redistribua-se.
+Cuiabá, 7 de dezembro de 2020.
+Des. Guiomar Teodoro Borges
