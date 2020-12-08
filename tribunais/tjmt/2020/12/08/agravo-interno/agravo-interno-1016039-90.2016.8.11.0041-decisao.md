@@ -1,0 +1,38 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO INTERNO NO RECURSO DE APELAÇÃO CÍVEL N. 1016039-90.2016.8.11.0041
+RECORRENTE(s): BANCO DO BRASIL S/A
+RECORRIDO(s): ROFAM'S IMPORTADORA E DISTRIBUIDORA DE PERFUMES E COSMÉTICOS EIRELI – EPP e ROZANE DE FATIMA MONTANA SILVA
+Vistos, etc.
+Trata-se de Recurso Especial (id. 67018988) interposto por BANCO DO BRASIL S/A, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão proferido pela Segunda Câmara de Direito Privado, assim ementado (id. 56901977):
+“AGRAVO INTERNO – DECISÃO MONOCRÁTICA – EMBARGOS DE DECLARAÇÃO – APELAÇÃO INTEMPESTIVA – FERIADO DE CARNAVAL – QUARTA-FEIRA DE CINZAS – DIA ÚTIL – PRECEDENTE DO STJ – INTEMPESTIVIDADE AFERIDA – EXTINÇÃO POR INTEMPESTIVIDADE – RECURSO CONHECIDO E DESPROVIDO.
+I - A sentença exarada nos autos foi disponibilizada em 05/02/2020, ocorrendo sua publicação somente dia 06/02/2020, por corolário, o prazo iniciou-se somente dia 07/02/2020; excluindo-se os dias 24 (segunda-feira), 25 (terça-feira) de fevereiro diante do feriado do carnaval, conforme portaria 1555.PREs., e, computando-se o dia 26 (quarta-feira de cinzas) portanto, verifica-se que o recurso de apelação foi aviado intempestivamente (03/03/2020), vez que o derradeiro dia do prazo para recorrer seu deu em 02/03/2020.
+II – “Em que pese o horário de expediente limitado ao período vespertino, a jurisprudência desta Corte Superior consolidou o entendimento segundo o qual a quarta-feira de cinzas é considerada dia útil para fins de contagem de prazo recursal. (...)” (STJ - AgRg no AREsp: 1409579 RS 2018/0321602-3, Relator: Ministro REYNALDO SOARES DA FONSECA, Data de Julgamento: 12/03/2019, T5 - QUINTA TURMA, Data de Publicação: DJe 25/03/2019)
+III – Considerando que o recurso de apelação foi interposto após o decurso do prazo recursal, tem-se que o mesmo não preenche um dos seus requisitos de admissibilidade, qual seja a tempestividade, fato que impede seu conhecimento.” (TJMT. AGRAVO INTERNO NO RECURSO DE APELAÇÃO CÍVEL N. 1016039-90.2016.8.11.0041. RELATOR DES. SEBASTIÃO DE MORAES FILHO. SEGUNDA CÂMARA DE DIREITO PRIVADO. Julgado em 02/09/2020. Publicado em 02/09/2020).
+Opostos Embargos de Declaração pelos Recorridos (id. 57582459), decidiu-se, in verbis (id. 63248549):
+“EMBARGOS DE DECLARAÇÃO – ERRO MATERIAL – CORREÇÃO – RECURSO ACOLHIDO.
+O Art. 494, I, do CPC permite, de ofício ou por requerimento de uma das partes, que sejam feitas correções de erros materiais da decisão.” (TJMT. EMBARGOS DE DECIARAÇÃO NO AGRAVO INTERNO NO RECURSO DE APELAÇÃO CÍVEL N. 1016039-90.2016.8.11.0041. RELATOR DES. SEBASTIÃO DE MORAES FILHO. SEGUNDA CÂMARA DE DIREITO PRIVADO. Julgado em 21/10/2020. Publicado em 27/10/2020).
+Alega violação aos artigos 214; 216 e 224, §1o do Código de Processo Civil, ao argumento de que a quarta-feira de cinzas não seria considerada dia útil para fins de contagem de prazo recursal, de modo que o Recurso de Apelação interposto nos autos seria tempestivo.
+Recurso tempestivo (id. 67234454). Custas judiciais devidamente recolhidas, nos termos da certidão de id. 67325473.
+Contrarrazões no id. 67810999.
+É o relatório.
+Decido.
+Não recolhimento da multa do art. 1021 do CPC
+O Recorrente, quando condenado ao pagamento da multa prevista no art. 1.021, § 4o, do CPC, somente poderá interpor Recurso Especial se realizar o depósito do valor correspondente à sanção pecuniária que lhe foi imposta, cuja comprovação consiste em pressuposto objetivo de recorribilidade expressamente reconhecido pelo STJ.
+Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA DO ART. 1.021, § 4o, DO CPC/2015 APLICADA.NECESSIDADE DE RECOLHIMENTO PRÉVIO À INTERPOSIÇÃO DE QUALQUER OUTRO RECURSO. AUSÊNCIA. RECURSO NÃO CONHECIDO. 1. Nos termos do § 5o do art. 1.021 do CPC/2015, a interposição de qualquer recurso está condicionada ao depósito prévio do valor da multa prevista no § 4o do mesmo artigo. 2. Na hipótese, os embargos de declaração foram opostos sem prévio recolhimento da multa. Está, portanto, ausente o pressuposto recursal objetivo. 3. Embargos de declaração não conhecidos.” (EDcl no AgInt no AREsp 1344843/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/05/2019, DJe 24/05/2019). (g.n.).
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSCRIÇÃO INDEVIDA EM CADASTRO DE ÓRGÃO RESTRITIVO DE CRÉDITO. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. AGRAVO INTERNO NÃO CONHECIDO. APLICAÇÃO DE MULTA. (...) 2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4o, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5o do citado artigo de lei.3. Agravo interno não conhecido, com aplicação de multa.” (AgInt no AREsp 1419184/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/05/2019, DJe 29/05/2019) (g.n.)
+Cumpre anotar que o acórdão proferido no Agravo Interno aplicou multa de 2% (dois por cento) sobre o valor atualizado da causa, com fundamento no art. 1.021, § 4o, do CPC (id. 59252997).
+Verifica-se, também, que os Recorrentes não recolheram a multa imposta, conforme certidão de id. 67325471, logo, ausente um dos requisitos de admissibilidade recursal.
+Frise-se, por oportuno, que o pressuposto objetivo de admissibilidade do recurso refere-se ao prévio recolhimento da multa, de modo que não há falar em concessão de prazo para sanar eventual irregularidade no pagamento da referida penalidade posteriormente à respectiva interposição.
+A propósito, não é outro o entendimento do Superior Tribunal de Justiça quanto à matéria, senão vejamos:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM NÃO CONHECIDOS. FALTA DE RECOLHIMENTO DA MULTA APLICADA NO AGRAVO INTERNO. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO. RECURSO ESPECIAL INTEMPESTIVO. AGRAVO INTERNO NÃO PROVIDO. 1. Os embargos de declaração não conhecidos por falta de recolhimento da multa prevista no art. 1.021, §4o, do CPC/2015 não têm o condão de interromper o prazo para a interposição de novos recursos. Por essa razão, o subsequente recurso especial apresentado há de ser considerado intempestivo. 2. "Como o pressuposto objetivo de admissibilidade do recurso diz respeito ao prévio depósito do valor da multa, não há que se cogitar da necessidade de concessão de prazo para que o vício seja sanado, sendo o pagamento posterior da penalidade admitido apenas nas hipóteses legalmente previstas" (AgInt no AREsp 1.149.021/SE, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/05/2018, DJe de 21/05/2018). 3. Agravo interno a que se nega provimento.” (AgInt no AREsp 1250886/RN, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), QUARTA TURMA, julgado em 20/09/2018, DJe 27/09/2018) (g.n.)
+Ante o exposto, ausente um dos pressupostos objetivos de admissibilidade, nego seguimento ao recurso.
+Em tempo, indefiro o pedido formulado pelos Recorridos (id. 67810996), de que seja determinado o depósito do valor referente à sanção pecuniária imposta no id. 59252997 na conta dos seus patronos, visto que a referida penalidade deve ser recolhida por meio de guia de depósito judicial emitida no sítio eletrônico deste Tribunal, na página do SISCONDJ.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 02 de dezembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVIII
