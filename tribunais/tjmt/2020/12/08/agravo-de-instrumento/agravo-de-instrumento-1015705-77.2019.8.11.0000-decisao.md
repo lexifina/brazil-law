@@ -1,0 +1,77 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial nos autos do Agravo de Instrumento 1015705-77.2019.8.11.0000
+RECORRENTE: LEANDRO BERNARDO DOS SANTOS
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial interposto por LEANDRO BERNARDO DOS SANTOS com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Público e Coletivo assim ementado (Id. 57993472):
+RECURSO DE AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - DIREITO À SAÚDE – DEMANDA DE PRESTAÇÃO CONTINUADA – CONDENAÇÃO DO ENTE PÚBLICO AGRAVADO A PRESTAR SERVIÇO NA MODALIDADE HOME CARE – COMPETÊNCIA ABSOLUTA DA PRIMEIRA VARA ESPECIALIZADA DA FAZENDA PÚBLICA DA COMARCA DE VÁRZEA GRANDE — RESOLUÇÃO TJ-MT/OE No 9, DE 25 DE JULHO DE 2019 — OBSERVÂNCIA – RECURSO DESPROVIDO.
+1 - A Resolução n. 9, de 25 de julho de 2019, que alterou a competência da 1a Vara Especializada da Fazenda Pública da Comarca de Várzea Grande, estabelecendo que o referido Juízo passaria a “processar e julgar, exclusivamente, os feitos relativos à saúde pública, ações civis públicas, ações individuais, cartas precatórias, incluindo as ações de competência da Vara da Infância e Juventude e os feitos de competência do Juizado Especial da Fazenda Pública relativos à saúde pública, em que figurassem como parte o Município de Várzea Grande individualmente e/ou o Estado de Mato Grosso em litisconsórcio com os Municípios do Estado”, não possui qualquer vício em sua criação, vez que apenas houve mera especialização de vara judicial já existente, não havendo a aludida alteração de hipótese de competência absoluta fixada em leis federais, ou mesmo infringência aos artigos 22 e 24, ambos da Constituição Federal de 1988, relativos a competência dos Entes Públicos em matéria legislativa.
+2 - No embate entre as regras de competência material e territorial previstas no Novo Código de Processo Civil, bem como as regras de competência previstas nas Leis 7.347/85 e 8.069/90, e a criada pela Resolução n. 9, de 25 de julho de 2019, que se trata de inegável competência absoluta em decorrência da matéria, no caso a saúde, e ocorre por meio da especialização da 1a Vara Especializada da Fazenda Pública da Comarca de Várzea Grande, deve prevalecer o Juízo especializado em temas afetos à saúde, vez que a hipótese sub judice, apresenta uma situação singular e põe o julgador frente à necessidade de tutelar o bem maior da vida, que é a saúde, exigindo que seja analisada a questão à luz da dignidade da pessoa humana.
+(N.U 1015705-77.2019.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, HELENA MARIA BEZERRA RAMOS, Vice-Presidência, Julgado em 14/09/2020, Publicado no DJE 21/09/2020)
+O Recorrente alega violação aos artigos 52, parágrafo único, e 516, II, do CPC, ao argumento de que: “No caso em tela, o Autor, pessoa hipossuficiente que necessita de prestação de saúde, propôs Ação de Obrigação de Fazer no foro de seu domicílio – qual seja, Rondonópolis/MT – e, ao arrepio de todas suas garantias legais, teve seu processo remetido à longínqua Comarca de Várzea Grande”.
+Assevera que: “Nesta toada, havendo indivíduos vulneráveis e hipossuficientes (jurídicos, econômicos e/ou circunstanciais) – como é o caso dos autos, eis que o Demandante é pessoa hipossuficiente com a saúde fragilizada – o acesso à Justiça tem que ser instrumentalizado de forma facilitada, ou seja, estabelecendo uma prerrogativa de foro processual, de forma a superar variados obstáculos que impedem o acesso ao Judiciário em condições de igualdade de oportunidades com os demais.
+Aduz que: “Em resumo, o declínio de competência realizado nos autos originários e mantido pelo Tribunal de Justiça de Mato Grosso, com fulcro na Resolução no 09/2019/TJ-MT/OE, deve ser revisto, eis que viola atrozmente as disposições de competência insertas no Código de Processo Civil (Lei no 13.105/15). Portanto, ante o altercado e tendo em vista o papel desempenhado por esta Colenda Corte Superior de Justiça, de guardiã da legislação federal, é fundamental a sua intervenção no presente caso para retificar o acórdão recorrido, afastando a violação da norma supramencionada e revogando a decisão que declinou da competência para a Primeira Vara Especializada da Fazenda Pública da Comarca de Várzea Grande”.
+Requer: “que seja revogada a decisão de declínio e restabelecida a competência originária da ação de piso, ato que se traduz no mais lídimo sentimento de justiça”.
+Recurso tempestivo (Id. 60424484).
+Sem contrarrazões, conforme certidão de Id. 68675958.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, incidindo, in casu, o disposto no artigo 1.030, V, “a”, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos
+Conforme relatado, a Câmara julgadora manteve a decisão proferida pelo Juízo a quo, que, nos autos de Cumprimento de Sentença em Ação de Obrigação de Fazer, declinou da competência para processar e julgar o feito para a Primeira Vara Especializada da Fazenda Pública da Comarca de Várzea Grande, em decorrência do disposto na Resolução n. 09/2019, do Egrégio Órgão Especial, deste Tribunal de Justiça.
+O Recorrente alega violação aos artigos 52, parágrafo único, e 516, II, do CPC, ao argumento de que: “No caso em tela, o Autor, pessoa hipossuficiente que necessita de prestação de saúde, propôs Ação de Obrigação de Fazer no foro de seu domicílio – qual seja, Rondonópolis/MT – e, ao arrepio de todas suas garantias legais, teve seu processo remetido à longínqua Comarca de Várzea Grande”.
+Assevera que: “Nesta toada, havendo indivíduos vulneráveis e hipossuficientes (jurídicos, econômicos e/ou circunstanciais) – como é o caso dos autos, eis que o Demandante é pessoa hipossuficiente com a saúde fragilizada – o acesso à Justiça tem que ser instrumentalizado de forma facilitada, ou seja, estabelecendo uma prerrogativa de foro processual, de forma a superar variados obstáculos que impedem o acesso ao Judiciário em condições de igualdade de oportunidades com os demais.
+Aduz que: “Em resumo, o declínio de competência realizado nos autos originários e mantido pelo Tribunal de Justiça de Mato Grosso, com fulcro na Resolução no 09/2019/TJ-MT/OE, deve ser revisto, eis que viola atrozmente as disposições de competência insertas no Código de Processo Civil (Lei no 13.105/15). Portanto, ante o altercado e tendo em vista o papel desempenhado por esta Colenda Corte Superior de Justiça, de guardiã da legislação federal, é fundamental a sua intervenção no presente caso para retificar o acórdão recorrido, afastando a violação da norma supramencionada e revogando a decisão que declinou da competência para a Primeira Vara Especializada da Fazenda Pública da Comarca de Várzea Grande”.
+Requer: “que seja revogada a decisão de declínio e restabelecida a competência originária da ação de piso, ato que se traduz no mais lídimo sentimento de justiça”. (58089510)
+Observa-se que houve o devido prequestionamento da matéria acima mencionada, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF.
+Além disso, a tese recursal não pretende alterar o quadro fático já reconhecido pelo acórdão, mas rever a moldura legal que lhe foi dada (não aplicação da Súmula 7 do STJ), não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Dessa forma, presentes todas as condições processuais necessárias, dou seguimento ao recurso pela aduzida afronta legal.
+Em interpretação conjunta do artigo 1.034, parágrafo único, do CPC, e à Súmula 292/STF, fica dispensado o exame dos demais dispositivos, supostamente, violados.
+Publique-se. Intimem-se.
+Cumpra-se.
+Cuiabá/MT, 02 de dezembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça
+XIV
+Recurso Extraordinário interposto nos autos do Agravo de Instrumento 1015705-77.2019.8.11.0000
+RECORRENTE: LEANDRO BERNARDO DOS SANTOS
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Extraordinário interposto por LEANDRO BERNARDO DOS SANTOS com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da da Primeira Câmara de Direito Público e Coletivo assim ementado (Id. 57993472):
+RECURSO DE AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - DIREITO À SAÚDE – DEMANDA DE PRESTAÇÃO CONTINUADA – CONDENAÇÃO DO ENTE PÚBLICO AGRAVADO A PRESTAR SERVIÇO NA MODALIDADE HOME CARE – COMPETÊNCIA ABSOLUTA DA PRIMEIRA VARA ESPECIALIZADA DA FAZENDA PÚBLICA DA COMARCA DE VÁRZEA GRANDE — RESOLUÇÃO TJ-MT/OE No 9, DE 25 DE JULHO DE 2019 — OBSERVÂNCIA – RECURSO DESPROVIDO.
+1 - A Resolução n. 9, de 25 de julho de 2019, que alterou a competência da 1a Vara Especializada da Fazenda Pública da Comarca de Várzea Grande, estabelecendo que o referido Juízo passaria a “processar e julgar, exclusivamente, os feitos relativos à saúde pública, ações civis públicas, ações individuais, cartas precatórias, incluindo as ações de competência da Vara da Infância e Juventude e os feitos de competência do Juizado Especial da Fazenda Pública relativos à saúde pública, em que figurassem como parte o Município de Várzea Grande individualmente e/ou o Estado de Mato Grosso em litisconsórcio com os Municípios do Estado”, não possui qualquer vício em sua criação, vez que apenas houve mera especialização de vara judicial já existente, não havendo a aludida alteração de hipótese de competência absoluta fixada em leis federais, ou mesmo infringência aos artigos 22 e 24, ambos da Constituição Federal de 1988, relativos a competência dos Entes Públicos em matéria legislativa.
+2 - No embate entre as regras de competência material e territorial previstas no Novo Código de Processo Civil, bem como as regras de competência previstas nas Leis 7.347/85 e 8.069/90, e a criada pela Resolução n. 9, de 25 de julho de 2019, que se trata de inegável competência absoluta em decorrência da matéria, no caso a saúde, e ocorre por meio da especialização da 1a Vara Especializada da Fazenda Pública da Comarca de Várzea Grande, deve prevalecer o Juízo especializado em temas afetos à saúde, vez que a hipótese sub judice, apresenta uma situação singular e põe o julgador frente à necessidade de tutelar o bem maior da vida, que é a saúde, exigindo que seja analisada a questão à luz da dignidade da pessoa humana.
+(N.U 1015705-77.2019.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, HELENA MARIA BEZERRA RAMOS, Vice-Presidência, Julgado em 14/09/2020, Publicado no DJE 21/09/2020)
+Alega ofensa aos artigos 22, I, e 24, XI da CF.
+Recurso tempestivo (Id. 60424484).
+Sem contrarrazões, conforme certidão de Id. 68675958.
+É o relatório.
+Decido.
+Da sistemática de repercussão geral
+Não foi encontrado no Supremo Tribunal Federal tema afetado que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de repercussão geral no caso concreto, incidindo, in casu, o disposto no art. 1.030, V, “a”, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos
+O Recorrente alega violação aos artigos 22, I, e 24, XI da CF ao argumentando que: “Na situação em tela, todavia, percebe-se que a Resolução não apenas extrapolou por completo o poder de organização administrativa conferido pela Constituição aos Tribunais, mas o próprio Tribunal, no acórdão recorrido, violou o artigo supracitado ao lhe distorcer completamente o sentido e utilizá-lo para justificar a sua inconstitucional elaboração de ato normativo primário. É perfeitamente possível que o Tribunal de Justiça modifique sua organização administrativa para torná-la mais condizente com o interesse público. Contudo, estas modificações de atribuições das varas, em hipótese nenhuma, poderiam contrariar as normas processuais estabelecidas pela União no exercício de sua competência privativa.
+Aduz: “Todavia, novamente a interpretação dada pelo Tribunal de Justiça de Mato Grosso foi equivocada, já que, como visto, a criação de nova competência absoluta não se trata de matéria procedimental, mas de matéria processual – que só poderia ser versada pela União”.
+Assevera que: “Por conseguinte, é indispensável a intervenção do Supremo Tribunal Federal neste caso, para assegurar a devida aplicabilidade do artigo 22, inciso I e 24, inciso XI, da Constituição Federal, e, realizando controle incidental de constitucionalidade, afastar a aplicabilidade da Resolução no 09/2019/ TJ-MT/OE ao presente caso, de maneira a determinar ao Tribunal de Justiça a quo a observância das regras de competência previstas nas normas editadas pela União com o retorno do feito à sua comarca originária”.
+Verifica-se que o Tribunal manteve a decisão de primeiro grau que declinou a competência da Segunda Vara Cível da Comarca de Tangara da Serra para Primeira Vara Especializada da Fazenda Pública da Comarca de Várzea Grande, com fundamento na Resolução TJ/MT n. 9 de 25 de julho de 2019, nos seguintes termos (ID 47045459):
+“(...). Trata-se de ação cominatória para cumprimento de obrigação de fazer (com pedido de tutela de urgência) proposta por Guilherme Abimael Barreiros da Silva contra o Estado de Mato Grosso e o Município de Tangará da Serra .
+[...] O menor Guilherme Abimael Barreiros da Silva tem 8 (oito) anos e 1 (um) mês de idade, porém foi constatado que o mesmo é portador de epilepsia, necessitando assim urgente de medicamentos, quais sejam ritalina, risperidona e divalproato de sódio.
+(...). No caso, o Tribunal de Justiça alterou a competência da Primeira Vara Especializada da Fazenda Pública da Comarca de Várzea Grande e estabeleceu, no ponto de interesse, na Resolução TJMT/OE no 9, de 25 de julho de 2019.
+[...] Art. 1o Alterar a competência da 1a Vara Especializada da Fazenda Pública da Comarca de Várzea Grande, nos termos do Anexo I desta Resolução.
+Art. 2o Sem prejuízo da competência absoluta de que trata o art. 1o deste Resolução, as ações em curso que envolvam os direitos à saúde pública, distribuídas até a data da entrada em vigor desta Resolução, continuarão a tramitar nos juízos em que se encontram, com exceção daquelas com prestação continuada, ainda que em fase de cumprimento de sentença.
+Dessa forma, constata-se que a pretensão nominada de ação cominatória para cumprimento de obrigação de fazer (com pedido de tutela de urgência) se enquadra na exceção do artigo 2o, por se tratar de prestação continuada, a autorizar a remessa dos autos ao Juízo da Primeira Vara Especializada da Fazenda Pública da Comarca de Várzea Grande. Essas, as razões por que voto no sentido de negar provimento ao recurso”. (g.n.).
+Observa-se que houve o devido prequestionamento da matéria acima mencionada, o que impede a incidência das Súmulas 282 e 356 do STF. Além disso, a tese recursal não pretende alterar o quadro fático já reconhecido pelo acórdão, mas rever a moldura legal que lhe foi dada (não aplicação da Súmula 279 do STF), não incidindo no caso concreto nenhuma outra súmula impeditiva.
+Dessa forma, presentes todas as condições processuais necessárias, dou seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 2 de dezembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XIV
