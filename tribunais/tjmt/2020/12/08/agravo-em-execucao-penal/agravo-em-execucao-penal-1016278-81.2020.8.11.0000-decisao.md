@@ -1,0 +1,31 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO EM EXECUÇÃO PENAL N. 1016278-81.2020.8.11.0000
+RECORRENTE: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+RECORRIDO: JANDILSON CONCEIÇÃO DO ESPÍRITO SANTO
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 60020486) interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO, com fundamento no art. 105, III, “a”, da Constituição Federal, contra o acórdão da Primeira Câmara Criminal deste Sodalício, assim ementado (Id. 54851487):
+“AGRAVO EM EXECUÇÃO PENAL – CONCESSÃO DE PROGRESSÃO DE REGIME DO FECHADO PARA O SEMIABERTO – IRRESIGNAÇÃO DO MINISTÉRIO PÚBLICO – NULIDADE DA DECISÃO ANTE A AUSÊNCIA DE PRÉVIA MANIFESTAÇÃO MINISTERIAL – INOCORRÊNCIA – EXISTÊNCIA DE PRÉVIA MANIFESTAÇÃO DO AGRAVANTE SOBRE O PEDIDO DE PROGRESSÃO – CONCESSÃO DO BENEFÍCIO LOGO APÓS A JUNTADA DO ATESTADO DE BOM COMPORTAMENTO CARCERÁRIO – PRETENDIDA REVOGAÇÃO DA DECISÃO QUE INDEFERIU O PEDIDO PARA INSTAURAÇÃO DE INCIDENTE JUDICIAL PARA APURAÇÃO DE FALTAS GRAVES – INVIABILIDADE – DECISÃO ABSOLUTÓRIA NOS PROCEDIMENTOS ADMINISTRATIVOS DISCIPLINARES INSTAURADOS PELA ADMINISTRAÇÃO PENITENCIÁRIA – PREJUÍZOS NÃO DEMONSTRADOS PARA A ACUSAÇÃO – REEDUCANDO QUE SE ENCONTRA CUMPRINDO AS CONDIÇÕES IMPOSTAS – RECURSO DESPROVIDO, EM DISSONÂNCIA COM O PARECER MINISTERIAL. Não há se falar em nulidade da decisão, por desrespeito ao que determina os artigos 67 e 112, §1o, da Lei de Execução Penal, quando é propiciado ao Ministério Público se manifestar, previamente, sobre a progressão de regime do reeducando. Preenchido o requisito temporal e tendo sido o agravado absolvido nos PADs instaurados pela Administração Penitenciária, inviável a revogação da decisão que indeferiu o pedido ministerial para abertura de procedimento judicial para apuração de faltas graves, mantendo-se a progressão de regime de pena, notadamente porque não verificada a ocorrência de irregularidades no processo administrativo e pelo fato de o reeducando vir regularmente cumprindo as condições a ele impostas.” (AgExPe 1016278-81.2020.8.11.0000, DES. ORLANDO DE ALMEIDA PERRI, PRIMEIRA CÂMARA CRIMINAL, Julgado em 01/09/2020).
+Alega violação aos arts. 52, 66, III, “f” e VII, 67, 112, §§1o e2o, todos da Lei n. 7.210/84, diante da não instauração de incidente judicial para apuração da falta grave cometida e do deferimento da progressão de regime sem a prévia oitiva do Ministério Público, e à revelia de certidão de comportamento carcerário.
+Recurso tempestivo (Id. 63287490).
+Contrarrazões - Id. 69236457.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Assim, passo ao exame dos demais pressupostos de admissibilidade.
+Deficiência de fundamentação. Súmula 284 do STF.
+Na interposição do Recurso Especial, é necessário que as razões recursais sejam redigidas com fundamentações precisas, identificando exatamente o suposto dispositivo legal violado, a controvérsia correspondente, bem como as circunstâncias de como teria ocorrido a afronta legal, conforme dispõe a Súmula 284 do STF.
+Ademais, se a parte não infirma os fundamentos do acórdão impugnado, aplica-se, igualmente, o enunciado de súmula acima mencionado.
+A propósito:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS E PROVAS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ E 284 DO STF. DECISÃO MANTIDA. (...) 2. A alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Não se revela admissível o recurso excepcional, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia. Incidência da Súmula 284-STF. (...) 5. Agravo regimental não provido.” (AgRg no AREsp 828.593/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/04/2016, DJe 18/04/2016) (destaquei)
+“PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. TRIBUNAL DO JÚRI. ALEGADA EXISTÊNCIA DE VÍCIO NA QUESITAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. INCIDÊNCIA DA AGRAVANTE POR TER SIDO O CRIME PRATICADO CONTRA CRIANÇA E DA QUALIFICADORA DA UTILIZAÇÃO DE RECURSO QUE DIFICULTE OU TORNE IMPOSSÍVEL A DEFESA DA VÍTIMA. AUSÊNCIA DE BIS IN IDEM. 1. Se, nas razões do recurso especial, a parte recorrente não infirma os fundamentos do acórdão recorrido, tem aplicação, por analogia, o Enunciado 284 da Súmula do Supremo Tribunal Federal. Precedentes. 2. Enquanto a agravante prevista art. 61, II, "h", do Código Penal é objetiva e incide em razão de ter sido praticado o crime contra criança, a qualificadora de que cuida o artigo 121, IV, do Código Penal envolve considerações específicas do caso concreto, para verificação acerca da presença de recurso que dificulte ou torne impossível a defesa da vítima, não havendo falar em bis in idem. 3. Agravo regimental improvido.” (AgRg no REsp 1634727/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2016, DJe 02/02/2017) (destaquei)
+In casu, a despeito de alegar violação aos arts. 52, 66, III, “f” e VII, 67, 112, §§1o e2o, todos da Lei n. 7.210/84, diante da não instauração de incidente judicial para apuração da falta grave e do deferimento da progressão de regime sem a prévia oitiva do Ministério Público, verifica-se que o Recorrente não infirmou especificamente os fundamentos consignados no aresto para a rejeição das teses apresentadas, o que obsta a admissão recursal, nos termos do enunciado sumular acima indicado.
+Ante o exposto, nego seguimento ao Recurso Especial.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 04 de dezembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
