@@ -1,0 +1,16 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO — MATÉRIA FÁTICA — INVIABILIDADE — AGRAVO —DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado de Minas Gerais reformou o entendimento constante na sentença, assentando a ilegitimidade ativa do sindicato, ante a ausência de comprovação do registro perante o Ministério do Trabalho. No extraordinário, o recorrente aponta a violação dos artigos 5º, inciso XXXV, e 8º, inciso III, da Constituição Federal. Argui a observância dos requisitos relativos à regularidade formal, estando apto à atuação em juízo.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão impugnado o seguinte trecho:
+    No caso em análise, ausente nos autos a comprovação acerca do registro no Ministério do Trabalho e Emprego.
+    Por ser indispensável o registro do Sindicato resta configurada a ilegitimidade para figurar como representante da categoria.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    A par desse aspecto, o ato atacado está em consonância com o entendimento do Tribunal. Confiram com a seguinte ementa:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. AÇÃO CIVIL PÚBLICA PROPOSTA PELO MINISTÉRIO PÚBLICO DO TRABALHO. RECLAMAÇÃO AJUIZADA NO SUPREMO TRIBUNAL FEDERAL. INTERPOSIÇÃO DE AGRAVO REGIMENTAL DE DECISÃO DE RELATOR. ARTIGO 8º, INCISOS I, II E III, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE LEGITIMIDADE DO SINDICATO PARA ATUAR PERANTE A SUPREMA CORTE. AUSÊNCIA DE REGISTRO SINDICAL NO MINISTÉRIO DO TRABALHO E EMPREGO. NECESSIDADE DE OBSERVÂNCIA DO POSTULADO DA UNICIDADE SINDICAL. LIBERDADE E UNICIDADE SINDICAL. 1. Incumbe ao sindicato comprovar que possui registro sindical junto ao Ministério do Trabalho e Emprego, instrumento indispensável para a fiscalização do postulado da unicidade sindical. 2. O registro sindical é o ato que habilita as entidades sindicais para a representação de determinada categoria, tendo em vista a necessidade de observância do postulado da unicidade sindical. 3. O postulado da unicidade sindical, devidamente previsto no art. 8º, II, da Constituição Federal, é a mais importante das limitações constitucionais à liberdade sindical. 4. Existência de precedentes do Tribunal em casos análogos. 5. Agravo regimental interposto por sindicato contra decisão que indeferiu seu pedido de admissão na presente reclamação na qualidade de interessado. 6. Agravo regimental improvido. (agravo regimental na reclamação nº 4.990, relatora ministra Ellen Gracie, Pleno, acórdão publicado no Diário de Justiça eletrônico de 27 de março de 2009).
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 10 de dezembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
