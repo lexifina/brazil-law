@@ -1,0 +1,23 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – APOSENTADORIA PROPORCIONAL – PROFESSOR – PRECEDENTES.
+CORREÇÃO MONETÁRIA – REPERCUSSÃO GERAL JULGADA – CORREÇÃO MONETÁRIA – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça de São Paulo confirmou o entendimento do Juízo quanto à procedência do pedido de revisão de aposentadoria, determinando a aplicação do divisor correspondente ao tempo exigido para a aposentadoria especial do professor. No extraordinário cujo trânsito busca alcançar, o recorrente aponta violados os artigos 40, § 1º, inciso III, alínea “a”, e 100 da Constituição Federal. Afirma não se aplicar ao cálculo da aposentadoria compulsória o tempo de serviço especial dos professores. Sustenta a aplicabilidade da Taxa Referencial como índice de correção monetária no período anterior à expedição do precatório.
+    2. Extraio o seguinte trecho do acórdão recorrido:
+    Nos termos do que dispõe a Constituição Federal, os requisitos de idade e de tempo de contribuição serão reduzidos em cinco anos para o professor que comprovar exclusivamente o tempo de serviço das funções de magistério na educação infantil e no ensino fundamental e médio (artigos 40, §5º e 201, §8º).
+    Assim, não há dúvida que a professora de educação básica tem o direito de se aposentar voluntariamente com vinte e cinco anos de tempo de contribuição, observada a idade mínima prevista.
+    Além disso, esta Col. Câmara tem decidido que os dispositivos constitucionais supramencionados conferem aos docentes que se aposentaram voluntariamente, de forma proporcional, o direito de terem seus proventos calculados de acordo com o tempo de contribuição reduzido.
+    [...]
+    Diante disso, ao contrário que sustenta a recorrente, não se aplica ao cálculo da aposentadoria da autora a regra geral, de 30 (trinta) anos de contribuição (divisor 30), e sim a regra específica prevista constitucionalmente aos docentes, de 25 (vinte e cinco) anos de contribuição (divisor 25).
+    [...]
+    Do mesmo modo, não tem razão a recorrente quanto à aplicação integral da Lei Federal nº 11.960/09.
+    O Eg. Supremo Tribunal Federal, nos autos do RE 870.947/SE, Tema nº 810 (DJe 20/11/2017), julgou inconstitucional o índice de atualização monetária previsto na referida norma para as condenações impostas à Fazenda Pública.
+    No tocante à forma de cálculo da aposentadoria, a decisão recorrida está em consonância com a jurisprudência do Supremo. Confiram com as seguintes ementas:
+    Professor do Estado de São Paulo: aposentadoria proporcional especial. Proventos. Art. 40, III, b, da CF/88 (redação original).
+    “Se o servidor faz jus a se aposentar com proventos proporcionais ao seu tempo de serviço, a proporcionalidade no cálculo de seus proventos só pode ser obtida mediante a consideração, como um dos termos da equação, do tempo de serviço exigido para a aposentadoria com proventos integrais (...), sendo o outro termo da equação, necessariamente, o tempo de efetivo exercício em funções de magistério” (cf. RE 214.852, 28.03.00, Ilmar Galvão, DJ 26.5.2000). (recurso extraordinário nº 459.188, relator ministro Sepúlveda Pertence, Primeira Turma, acórdão publicado no Diário da Justiça de 10 de março de 2003).
+    Agravo regimental no recurso extraordinário com agravo. Administrativo. Professor público em função exclusiva de magistério. Aposentadoria proporcional. Cálculo dos proventos com base no tempo exigido para aposentadoria integral da categoria. Precedentes. 1. A jurisprudência da Corte firmou-se no sentido de que, na aposentadoria proporcional de professor público que exerça função exclusiva de magistério, há de se observar, no cálculo dos proventos, o tempo exigido para a aposentadoria com proventos integrais da categoria. 2. Agravo regimental não provido. (agravo regimental no recurso extraordinário com agravo nº 902.865, relator ministro Dias Toffoli, Segunda Turma, acórdão publicado no Diário da Justiça de 11 de dezembro de 2015).
+    O mesmo se gia em relação à correção monetária. No julgamento do recurso extraordinário nº 870.947, sob a sistemática da repercussão geral Tema 810, assentou o Tribunal, sem modulação de efeitos, que o artigo 1º-F da Lei nº 9.494/1997, com a redação dada pela Lei nº 11.960/2009, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade.
+    3. Conheço do agravo e o desprovejo. Majoro os honorários recursais em 2%, observado o contido no § 3º do artigo 85 do Código de Processo Civil.
+    4. Publiquem.
+Brasília, 10 de dezembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
