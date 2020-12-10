@@ -1,0 +1,16 @@
+D E C I S Ã O
+    Trata-se de recurso extraordinário interposto, com fundamento em permissivo constitucional, contra acórdão do E. Tribunal de Justiça do Estado de São Paulo assim ementado:.
+    ICMS. Imunidade. Equipamentos médicos importados por entidade assistencial, sem fins lucrativos, para utilização em suas atividades sociais. Entidade que goza de imunidade tributária, a teor do art. 150, VI, c, § 4 0, da CF. Não incidência do ICMS. Segurança concedida. Recursos oficial, considerado interposto, e voluntário da Fazenda do Estado improvidos. Acórdão que, em razão de sua fundamentação, prejudica o exame da aplicabilidade da tese firmada no RE n° 439.796/PR. Retratação desnecessária. Acórdão mantido.
+    Esse o sucinto relatório. Decido.
+    De início, importante pontuar que, a respeito da matéria em causa, ambas as Turmas deste Supremo Tribunal Federal fixaram entendimento no sentido de reconhecer que a imunidade tributária prevista no art. 150, VI, “c” da Carta Magna alcança o ICMS incidente quando da importação dos bens utilizados na prestação dos serviços específicos das entidades de assistência social sem fins lucrativos. (AI 629.551 AgR/RS, Ministro Marco Aurélio, AI 785.459 - AgR/RS, Ministro Celso de Mello, RE 596.885 - AgR/RS, Ministra Rosa Weber; cujas ementas ouso transcrever abaixo):
+    “IMUNIDADE TRIBUTÁRIA – ASSISTÊNCIA SOCIAL – ICMS – IMPORTAÇÃO – CONTRIBUINTE DE DIREITO – DESPROVIMENTO. A imunidade prevista no artigo 150, inciso VI, alínea “c”, da Constituição Federal abrange o Imposto sobre Circulação de Mercadorias e Serviços incidente sobre a importação de mercadorias por entidades de assistência social, enquanto contribuinte de direito, e relacionadas às finalidades essenciais destas.”
+    “AGRAVO DE INSTRUMENTO - ICMS - INCIDÊNCIA - OPERAÇÃO DE IMPORTAÇÃO, POR ENTIDADE DE ASSISTÊNCIA SOCIAL SEM FINS LUCRATIVOS, DE BENS RELACIONADOS COM SUAS FINALIDADES ESSENCIAIS - IMPOSSIBILIDADE - TRANSGRESSÃO À NORMA CONSTITUCIONAL DA IMUNIDADE TRIBUTÁRIA (CF, ART. 150, VI, “c”) - RECURSO DE AGRAVO IMPROVIDO.”
+    “DIREITO CONSTITUCIONAL E TRIBUTÁRIO. ICMS. IMUNIDADE TRIBUTÁRIA. ENTIDADE SEM FINS LUCRATIVOS. IMPORTAÇÃO DE EQUIPAMENTOS MÉDICOS. CONSONÂNCIA DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA CRISTALIZADA DO SUPREMO TRIBUNAL FEDERAL. RECURSO EXTRAORDINÁRIO QUE NÃO MERECE TRÂNSITO. RECURSO MANEJADO SOB A VIGÊNCIA DO CPC/1973. 1. O entendimento da Corte de origem, nos moldes do assinalado na decisão agravada, não diverge da jurisprudência firmada no Supremo Tribunal Federal, no sentido de que a imunidade insculpida no art. 150, VI, “c”, da Constituição Federal se aplica ao ICMS. 2. As razões do agravo regimental não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. 3. Agravo regimental conhecido e não provido.”
+    O acórdão recorrido está em conformidade com o aludido entendimento.
+    Honorários advocatícios recursais
+    Ao fundamento de referir-se a recurso interposto em autos de mandado de segurança, o que atrai a incidência do Enunciado 512 da Súmula/STF , não se aplica o disposto no § 11 do art. 85 do CPC.
+    Em face do exposto, com fundamento no inciso VIII do art. 932 do CPC, c/c §1º do art. 21 do RISTF, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 10 de dezembro de 2020
+Ministro NUNES MARQUES
+Relator
