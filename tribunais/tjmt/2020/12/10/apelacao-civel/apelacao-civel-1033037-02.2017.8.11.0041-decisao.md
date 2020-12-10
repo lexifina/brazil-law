@@ -1,0 +1,28 @@
+VISTOS...
+Recurso de apelação cível aviado por Energisa Mato Grosso Distribuidora de Energia S/A, objetivando a reforma da sentença que julgou parcialmente procedente o pedido formulado na ação de cobrança, promovida por Companhia de Seguros Aliança do Brasil e condenou a apelante ao ressarcimento da quantia de R$ 40.399,71 (quarenta mil trezentos e noventa e nove reais e setenta e um centavos), acrescido de juros de mora de 1% ao mês, a partir da citação e correção monetária pelo INPC, a partir da data do desembolso, além do pagamento das custas processuais e honorários advocatícios fixados em R$ 2.000,00 (dois mil reais).
+Para tal desiderato sustenta preliminarmente, a ocorrência de cerceamento de defesa ante a necessidade de realização de prova pericial.
+E no mérito, pela não demonstração de nexo de causalidade e ônus probandi.
+A apelada por sua vez, em contrarrazões requer o desprovimento do recurso e majoração dos honorários (Id. 66406058).
+É o que merece registro.
+Decido.
+O presente apelo dispensa julgamento pelo Colegiado, eis que a matéria questionada já se encontra consolidada na jurisprudência desta Corte e de outros Tribunais de Justiça, sendo possível o seu julgamento monocrático, à luz do art. 1.011 c/c artigo 932, inciso II, alínea “a”, do CPC.
+Inicialmente, cumpre ressaltar que embora em situações semelhantes tenha decidido pelo não reconhecimento da preliminar de cerceamento de defesa, em análise mais acurada da controvérsia, adiro ao entendimento majoritário nesta Câmara, exarado na sessão de julgamento do dia 25 de novembro de 2020, no que tange ao acolhimento da preliminar de cerceamento de defesa, suscitada pela apelante, a fim de oportunizar a realização da perícia judicial, para a constatação da real responsabilidade da concessionária de energia, devido a importância da clareza e precisão do perito em suas informações técnicas, a fim de se evitar que a apelante, seja induzida a erro.
+Explico.
+Quanto ao cerceamento de defesa alegado, tem-se que, de fato, a apelante requereu, em contestação, a realização de perícia que não foi deferida pela magistrada de 1o grau que entendeu, em sentença, que o feito não demandava produção de provas.
+Como é sabido, compete ao magistrado, aferir a necessidade ou não da produção de provas, ou esclarecimentos sobre as realizadas, nos termos do que estabelece o artigo 370 e parágrafo único do CPC, in verbis:
+“Art. 370. Caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento do mérito.
+Parágrafo único. O juiz indeferirá, em decisão fundamentada, as diligências inúteis ou meramente protelatórias.” (destaquei)
+Vale dizer que, o juiz é o destinatário das provas cabendo a este analisar a pertinência na produção ou complementação probatória.
+Entretanto, quando há inversão do ônus da prova, com o requerimento da parte requerida para a realização da instrução probatória, justificando a necessidade da perícia judicial, para a demonstração dos fatos alegados, deve ser oportunizada a sua elaboração, sob pena de cerceamento de defesa.
+Mesmo porque, no caso em tela, o próprio magistrado utilizou como uma das razões de decidir, as provas trazidas unilateralmente pela Seguradora, ora apelada, sendo que a Energisa sequer teve a oportunidade de conhecê-las, acompanhá-las ou contestá-las no momento de sua produção.
+A propósito, nesse sentido é o entendimento jurisprudencial, in verbis:
+“APELAÇÃO CÍVEL - AÇÃO REGRESSIVA DE RESSARCIMENTO DE DANOS - PRODUÇÃO DE PROVA NÃO REALIZADA - CERCEAMENTO DE DEFESA VERIFICADO - PRELIMINAR ACOLHIDA - SENTENÇA CASSADA - RECURSO PROVIDO. Acolhe-se preliminar de cerceamento de defesa para cassar sentença de improcedência da lide quando não é propiciada a produção de provas.” (TJ-MT - AC: 00239637220168110041 MT, Relator: RUBENS DE OLIVEIRA SANTOS FILHO, Data de Julgamento: 19/02/2020, Quarta Câmara de Direito Privado, Data de Publicação: 21/02/2020) (destaquei)
+“APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANO MORAL - EMPRÉSTIMO CONSIGNADO - CONTRATO APRESENTADO PELO BANCO - ALEGAÇÃO DE FRAUDE - AUTORA ADUZ DESCONHECER A ASSINATURA APOSTA NA AVENÇA - PEDIDO DE PRODUÇÃO DE PROVA TESTEMUNHAL E PERICIAL - SENTENÇA QUE JULGOU ANTECIPADAMENTE A LIDE - NECESSIDADE DE INSTRUÇÃO PROCESSUAL - NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA - PRELIMINAR ACOLHIDA - SENTENÇA CASSADA - RETORNO DOS AUTOS À ORIGEM - RECURSO CONHECIDO E PROVIDO. O juízo a quo procedeu com o julgamento antecipado do feito por entender que se trata exclusivamente de matéria de direito, entretanto, no caso, embora se trate de tema corriqueira neste Sodalício, havendo a alegação de fraude entendo ser necessária a instrução processual para alcançar a verdade dos fatos.” (N.U 1000099-22.2018.8.11.0007, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, DIRCEU DOS SANTOS, Terceira Câmara de Direito Privado, Julgado em 19/02/2020, Publicado no DJE 28/02/2020) (destaquei)
+Ademais, não haverá prejuízo nem para a autora e nem para a apelada, pelo contrário, esclarecerá a matéria sub judice e dará maior suporte para o julgamento da demanda no sentido de atestar se os aparelhos de fato sofreram avarias, se foi necessária a troca ou se o reparo era suficiente, ou seja, verifica a existência de nexo causal a legitimar a indenização.
+Sendo assim, mostra-se imperioso o reconhecimento do cerceamento de defesa, com a anulação da sentença e o retorno dos autos para a devida instrução.
+Isso posto, acolho a preliminar de cerceamento de defesa, para o fim de anular a sentença recorrida e determinar o retorno dos autos, para seu normal prosseguimento.
+Intimem-se.
+Cumpram-se.
+Cuiabá, 07 de dezembro de 2020.
+José Zuquim Nogueira
+Desembargador Relator
