@@ -1,0 +1,24 @@
+D E C I S Ã O
+    Trata-se de reclamação em que se alega descumprimento ao teor da Súmula Vinculante nº 10 e ao quanto decidido por esta Suprema Corte no julgamento da ADPF 324/DF.
+    Colhe-se dos autos que o órgão judiciário reclamado reconheceu a existência de vínculo de emprego de trabalhador terceirizado diretamente com a empresa tomadora dos serviços, ora reclamante.
+    Sustenta a autora que, ao reputar ilícita a terceirização de atividade-fim desenvolvida pela parte reclamante, a Corte trabalhista desviou-se do entendimento firmado por este Tribunal na ADPF 324/DF, além de haver afastado, implicitamente, preceitos legais sem a instauração do incidente de inconstitucionalidade a que se refere o art. 97 da Carta Magna, o que constitui afronta à Súmula Vinculante nº 10.
+    É, no essencial, o relatório.
+    A presente reclamação é manifestamente incabível.
+    Com efeito, no que toca à suposta transgressão à Súmula Vinculante nº 10, não extraio da fundamentação do acórdão guerreado qualquer juízo, expresso ou velado, de inconstitucionalidade de preceitos normativos. Verifica-se, isso sim, mera atividade hermenêutica, a qual, por sua essencialidade, não pode ser dissociada do ofício jurisdicional (Rcl 12.122-AgR/DF, Ministro Gilmar Mendes; Rcl 13.514-AgR/SP, Ministro Celso de Mello).
+    Confira-se, a propósito, a seguinte passagem do acórdão combatido:
+    “Evidencia-se, no caso, a pessoalidade e a genuína subordinação jurídica do reclamante à reclamada, direta, porque a recorrente dirigia, de forma direta, a prestação pessoal de serviços do reclamante, tanto que a sua própria testemunha relata a manutenção das mesmas condições de trabalho, mesmo após a admissão pela reclamada, Banco Pan.
+    É nula, portanto, de pleno direito, a contratação do reclamante através de empresa interposta, integrante do mesmo grupo econômico da reclamada, nos termos do artigo 9º da CLT, pois efetuada com o único intuito de desvirtuar os preceitos da lei trabalhista.
+    Ademais, como exposto, restaram caracterizadas nos autos a pessoalidade, a onerosidade, a habitualidade e a subordinação na prestação - presentes, portanto, os pressupostos fático-jurídicos previstos nos artigos 2º e 3º da CLT -, destacando-se que o reclamante prestou serviços para a recorrente, desde a sua admissão ao emprego, em 16/06/2014, ainda que até 31/08/2016 essa prestação tenha se dado, irregularmente, através de empresa interposta.
+    Não se trata de refutar a possibilidade de terceirização, nem de considerar, de per si, inválida a terceirização, qualquer que seja a atividade explorada, mas de se verificar, no caso, que houve a contratação de trabalhadores por empresa interposta, ilegal, formando-se o vínculo, existentes a pessoalidade e a subordinação direta, diretamente com o tomador dos serviços, nos termos da Súmula nº 331, I, do E. Tribunal Superior do Trabalho.
+    O contrato de trabalho é regido pelo princípio da primazia da realidade, sendo inócuas manobras intentadas com o intuito de ocultar a verdadeira essência dos préstimos laborais.”
+    Resta claro, assim, que o órgão reclamado não promoveu o afastamento da incidência de qualquer preceito legal permissivo de contratação de mão de obra terceirizada, como, por exemplo, o art. 25, § 1º, da Lei nº 8.987/95 e o art. 94, inciso II, da Lei nº 9.472/97, mas tão somente deu ao caso concreto, com base em elementos dele extraídos, a solução jurídica que lhe pareceu mais apropriada.
+    Razões semelhantes levam-me a reputar insustentáveis as alegações de infringência à orientação vinculante emanada da ADPF 324/DF.
+    É que a Justiça Trabalhista não afirmou, genérica e abstratamente, que toda terceirização de atividade-fim é ilícita, apenas que a terceirização levada a cabo pela reclamante, com as especificidades de que se reveste, teve por intuito fraudar as leis protetivas do regime empregatício.
+    Não é demais relembrar que esta Suprema Corte não descartou, no julgamento da ADPF 324/DF, a possibilidade de a terceirização mostrar-se, concretamente, abusiva. Destaco o seguinte trecho da ementa do acórdão referente ao julgamento mencionado:
+    “3. A terceirização não enseja, por si só, precarização do trabalho, violação da dignidade do trabalhador ou desrespeito a direitos previdenciários. É o exercício abusivo da sua contratação que pode produzir tais violações.” (sem grifos no original)
+    Não vejo como divergir da conclusão a que chegou o órgão trabalhista sem reexaminar o conjunto probatório carreado aos autos, providência vedada pela jusrisprudência desta Corte (Rcl 19.849-AgR/RJ, Ministra Rosa Weber; Rcl 38.973/SP, Ministro Luiz Fux).
+    Por todo o exposto, não conheço da presente reclamação.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 11 de dezembro de 2020.
+Ministro NUNES MARQUES
+Relator
