@@ -1,0 +1,24 @@
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) 1026204-86.2020.8.11.0000
+AGRAVANTE: STILO CONSULTORIA TRIBUTÁRIA SOCIEDADE SIMPLES LTDA e outros
+AGRAVADO: VALOR TRIBUTÁRIO CONTAB E PLANEJAMENTO EMPRESARIAL SS - ME
+Vistos etc.
+Trata-se de agravo de instrumento interposto por STILO CONSULTORIA TRIBUTÁRIA SOCIEDADE SIMPLES LTDA e outros contra decisão proferida em Ação de Obrigação de Fazer no 1044847-66.2020.8.11.0041 da 6a Vara Cível da Comarca de Cuiabá/MT, ajuizada por VALOR TRIBUTÁRIO CONTAB E PLANEJAMENTO EMPRESARIAL SS - ME, em que se deferiu liminar “determinando seja oficiado às pessoas jurídicas que firmaram os contratos com as empresas litigantes deste processo, nominadas e relacionadas nas páginas 395-396 para que, caso venham realizar algum pagamento dos valores de honorários, que o façam por meio de depósito judicial vinculado a este processo” (id. 69932453).
+Em suma, sustentam as agravantes que “A parceria existiu, mas em casos pontuais e específicos, cujas cessões de créditos foram formalizadas. A parceria jamais consistiu em todos os contratos formalizados pelas Recorrentes, como quer transparecer a Recorrida”.
+Defendem que “toda relação existente entre as empresas litigantes sempre foram precedidas de formais pactuações contratuais, jamais houveram tratativas verbais entre elas, especialmente aquela consignada pela Recorrida em sua inicial da ação primitiva, que teria gerado obrigação de cessão de 50% da receita das Recorrentes. Absurda versão unilateral acolhida pelo Juízo de piso”.
+Aduzem que “após o óbito do sócio comum das litigantes, as Agravantes imediatamente procuraram os herdeiros e sucessores do falecido, ocasião em que realizaram alteração contratual incluindo o Espólio nos respectivos contratos sociais das Recorrentes, como forma de desenvolver atividade transparente para essa finalidade de liquidação das quotas sociais e apuração de haveres, enquanto perdura o processo de inventário”, bem como que “foi solicitado a última alteração contratual da Recorrida, para checar se, de fato, houve inclusão também do espólio do sócio falecido em seu contrato constitutivo, e pasme, nenhuma informação existe sobre esse fato (falecimento do sócio), contrariando a sua versão de necessidade de transparência para com os herdeiros e sucessores do sócio falecido”.
+Argumentam que “Não há um contrato de parceria, não há nenhum vínculo documental a alicerçar sua pretensão senão sua única versão unilateral dessa inverossímil construção fática que transfere uma obrigação verbal das Recorrentes de faturarem seus honorários em nome da Recorrida”.
+Declaram que “o sócio falecido de ANDERSON SAMPAIO DE OLIVEIRA, jamais poderia ter deliberado verbalmente a cessão de todos os créditos das Recorrentes sem a expressa anuência e participação dos demais sócios”, nos termos do contrato social e do CC.
+Aludem que a “decisão agravada ocasionará dano irreparável às Agravantes, que não terão caixa para fazer frente às despesas mais essenciais, como pagamento de funcionários, luz, telefone, internet, impostos, pró-labore de seus sócios, enfim, sem receita, está fadada ao fechamento e encerramento de suas atividades, principalmente no atual cenário mundial, onde as economias já se encontram extremamente abaladas por força da pandemia que assola o mundo”.
+Falam que a “suposta apuração de haveres que a agravada teria de fazer, para liquidar as quotas do sócio falecido perante os herdeiros e sucessores independe de informações financeiras e de prestação de serviços de empresas que não guardam qualquer relação jurídica entre elas”.
+Requerem o deferimento do efeito suspensivo ao recurso e provimento ao final, reformando a decisão agravada (id. 69928478).
+É a síntese.
+Decido.
+Nos termos do art. 300 do CPC/2015, “A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+O art. 1.015, inciso I, do mesmo diploma legal também dispõe que, recebido o agravo de instrumento, o relator “poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”.
+Entendo por manter a medida deferida em primeiro grau ao menos até o julgamento de mérito do recurso, buscando-se preservar o devido contraditório na esfera recursal e eventual resultado útil do processo em caso de desprovimento do recurso. A decisão agravada tem caráter acautelatório ao determinar o depósito judicial dos pagamentos pelas pessoas jurídicas que estritamente realizaram contrato com as partes deste feito, de maneira que prudente o aguardo de uma aferição mais madura do recurso.
+Ante o exposto, INDEFIRO O EFEITO SUSPENSIVO.
+Intime-se a parte agravada para que apresente contrarrazões em 15 (quinze) dias.
+Cumpra-se.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
