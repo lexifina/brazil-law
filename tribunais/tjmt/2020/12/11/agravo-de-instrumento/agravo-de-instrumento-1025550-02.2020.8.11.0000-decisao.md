@@ -1,0 +1,60 @@
+AGRAVANTE(S):
+VIANA AGRO MERCANTIL LTDA - ME e PEDRO GONCALVES VIANA NETO
+AGRAVADO(S):
+ESTADO DE MATO GROSSO
+Protocolo: 1025550-02.2020.8.11.0000
+LIMINAR
+Visto.
+Trata-se de recurso de agravo de instrumento interposto por VIANA AGRO MERCANTIL LTDA - ME e PEDRO GONCALVES VIANA NETO contra decisão proferida pelo Juízo da Vara Especializada de Execuções Fiscais da Comarca de Cuiabá-MT, que nos autos do Mandado de Segurança 1051160-43.2020.8.11.0041, indeferiu a liminar pleiteada na exordial para o fim de suspender a exigibilidade dos créditos tributários descritos na CDA no 006453/17a, novo número 2020527147, oriundos cobrança da TACIN, cujos fatos geradores ocorreram em 08/2011 e 08/2012 e autorizar a emissão de certidão de regularidade fiscal.
+Aduzem que tiveram ciência da CDA no 006453/17a, novo número 2020527147, a qual se deu por desmembramento da CDA no 20176453.
+Sustentam que os créditos cobrados na CDA impugnada são oriundos da cobrança da TACIN, cujos fatos geradores ocorreram em 08/2011 e 08/2012,
+Argumentam que foi reconhecido pelo STF a inconstitucionalidade da TACIN, motivo pelo qual devem ser suspensos todos os lançamentos relativos à essa TAXA.
+Asseveram, que diferente do que constou na decisão objurgada, embora o Ministro Dias Toffoli tenha proposto a modulação dos efeitos da ação direta de inconstitucionalidade, esse entendimento não prevaleceu na Suprema Corte.
+Afirmam que estão presentes os requisitos para deferir a suspensão do crédito sem a exigência de depósito do montante impugnado (art. 151, inciso IV, do CTN).
+Com base nestes fundamentos, pugnam pela concessão da tutela antecipada recursal, para determinar a suspensão da exigibilidade dos créditos tributários descritos na CDA no 006453/17a, novo número 2020527147, oriundos cobrança da TACIN, cujos fatos geradores ocorreram em 08/2011 e 08/2012, bem como para autorizar a emissão de certidão de regularidade fiscal. No mérito requerem que seja reformada a decisão objurgada, para deferir integralmente a liminar na forma como pleiteada na inicial.
+É o relatório.
+Decido.
+Para o deferimento da tutela antecipada ou efeito suspensivo ao Recurso de Agravo de Instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos, 300, 995, parágrafo único e 1.019, I, ambos do Código de Processo Civil, como cito:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão; [...]”.
+“Art. 995. [...]
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo”.
+Em análise aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de tutela antecipada recursal merece acolhimento. Vejamos.
+Pretendem os Agravantes a suspensão da exigibilidade dos créditos tributários descritos na CDA no 006453/17a, novo número 2020527147, oriundos cobrança da TACIN, cujos fatos geradores ocorreram em 08/2011 e 08/2012, bem como para autorizar a emissão de certidão de regularidade fiscal.
+Sobre o assunto, sabe-se que de acordo com o artigo 151, inciso IV, do Código Tributário Nacional, é possível a suspensão da exigibilidade do crédito tributário mediante deferimento de liminar nas ações mandamentais.
+Vejamos o disposto no Código Tributário Nacional:
+“Art. 151. Suspendem a exigibilidade do crédito tributário:
+I - moratória;
+II - o depósito do seu montante integral;
+III - as reclamações e os recursos, nos termos das leis reguladoras do processo tributário administrativo;
+IV - a concessão de medida liminar em mandado de segurança;
+V – a concessão de medida liminar ou de tutela antecipada, em outras espécies de ação judicial; (Incluído pela Lcp no 104, de 2001);
+VI – o parcelamento”.
+No entanto, a suspensão do crédito tributário com fulcro no inciso “IV” do artigo 151 do Código Tributário Nacional somente é possível se ficar demonstrado a presença dos requisitos necessários para a concessão da liminar, quais sejam: fumus boni iuris (probabilidade do direito vindicado) e o periculum in mora (perigo de dano ou o risco ao resultado útil do processo).
+Nessa vertente, vejamos a lição do Professor Eduardo de Moraes Sabbag na obra Manual de Direito Tributário:
+“A liminar em mandado de segurança sempre existiu como causa suspensiva da exigibilidade do crédito tributário [...] constando do inciso IV do artigo 151 do CTN. [...] Para tanto, o magistrado deverá verificar se estão presentes os pressupostos autorizativos dessa providência inaugural, a fim de que bem prolate a decisão interlocutória respectiva, em consonância com o inciso III do artigo 7o da Lei n.o 12.016/2009, quais sejam:
+- relevante fundamento do pedido, também conhecido pela expressão latina fumus boni iuris; e
+- ineficácia da medida, caso não seja deferida de imediato, também intitulada periculum in mora. [...]”. (SABBAG, Eduardo de Moraes. Manual de Direito Tributário – 11 ed. São Paulo: Saraiva Educação, 2019, p. 1074-1075)
+Na vertente hipótese, conforme mencionado alhures, os Agravantes pretendem a suspensão da exigibilidade de suspensão de exigibilidade de créditos tributários constituídos com base na TACIN, sob o fundamento que foi reconhecido pelo STF a inconstitucionalidade desse tributo.
+Sobre o assunto, sabe-se que o Supremo Tribunal Federal, em recente decisão proferida nos autos da ADI 2908 (DJ 11/10/2019, Publicação 06/11/2019), por maioria, declarou inconstitucional o dispositivo legal que instituiu a taxa de segurança contra incêndio no Estado de Sergipe, vejamos:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. TRIBUTÁRIO. LEI SERGIPANA N. 4.184/1999. INSTITUIÇÃO DE TAXAS REMUNERATÓRIAS DE ATIVIDADES DE ÓRGÃO DA SEGURANÇA PÚBLICA. CORPO DE BOMBEIROS MILITAR. TAXA ANUAL DE SEGURANÇA CONTRA INCÊNDIO E DE APROVAÇÃO DE PROJETOS DE CONSTRUÇÃO. ANÁLISE DE SISTEMAS DE SEGURANÇA CONTRA INCÊNDIO E PÂNICO. AÇÃO DIRETA JULGADA PARCIALMENTE PROCEDENTE. 1. As taxas são tributos vinculados a atividade estatal dirigida a sujeito identificado ou identificável, podendo decorrer do exercício do poder de polícia titularizado pelo ente arrecadador ou da utilização de serviço público específico e divisível posto à disposição do contribuinte. 2. A instituição de taxa exige que os serviços públicos por ela remunerados cumulem os requisitos de especificidade e divisibilidade. Os serviços autorizadores de cobrança de taxas não podem ser prestados de forma geral e indistinta a toda a coletividade (uti universi), mas apenas à parcela específica que dele frui, efetiva ou potencialmente, de modo individualizado e mensurável (uti singuli). 3. A taxa anual de segurança contra incêndio tem como fato gerador a prestação de atividade essencial geral e indivisível pelo corpo de bombeiros, sendo de utilidade genérica, devendo ser custeada pela receita dos impostos. 4. Taxa de aprovação de projetos de construção pelo exercício de poder de polícia. A análise de projetos de sistemas de prevenção contra incêndio e pânico é serviço público antecedente e preparatório de prática do ato de polícia, concretizado na aprovação ou não do projeto e, consequentemente, na autorização ou não de se obterem licenças e alvarás de construção. Serviços preparatórios específicos e divisíveis, voltados diretamente ao contribuinte que pretende edificar em Sergipe, podendo ser custeados por taxas. 5. Ação direta de inconstitucionalidade julgada parcialmente procedente”. (ADI 2908, Relator(a): Min. CÁRMEN LÚCIA, Tribunal Pleno, julgado em 11/10/2019, PROCESSO ELETRÔNICO DJe-242 DIVULG 05-11-2019 PUBLIC 06-11-2019)
+Com efeito, nos termos do citado julgado, o serviço de combate a incêndio não pode ser custeado pela cobrança de taxa, por se tratar de atividade específica do Corpo de Bombeiros, sendo dessa forma, declarada a inconstitucionalidade do referido tributo.
+Sobre o assunto, é sabido que a declaração de inconstitucionalidade tem eficácia contra todos e efeito vinculante, nos termos do art. 28, parágrafo único da Lei 9.868/99, gerando efeito ex tunc.
+Além disso, embora o Ministro Dias Toffoli tenha se manifestado no sentido de modular os efeitos da decisão, para estabelecer que a declaração de inconstitucionalidade do TACIN produzisse efeito a partir do exercício de 2020, esse entendimento não prevaleceu na Suprema Corte, conforme se verifica do julgamento dos embargos de declaração opostos na ação direta de inconstitucionalidade.
+A propósito:
+“EMENTA: EMBARGOS DE DECLARAÇÃO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. No acórdão embargado não prevaleceu proposta de modulação dos efeitos da declaração de inconstitucionalidade do inc. II do art. 1o da Lei n. 4.185/1999 de Sergipe. 2. A prosperar a pretensão da embargante de modulação dos efeitos da decisão para que tenha eficácia a partir do próximo exercício financeiro, estar-se-ia a dotar de infringência os embargos de declaração e a converter-se, no ponto, voto vencido em vencedor”. (STF - ADI 2908 ED, Relator(a): CÁRMEN LÚCIA, Tribunal Pleno, julgado em 03/04/2020, PROCESSO ELETRÔNICO DJe-097 DIVULG 22-04-2020 PUBLIC 23-04-2020)
+Destarte, os indícios se pairam no sentido de que deve ser suspensa a exigibilidade de todos os lançamentos tributários relativos à Taxa de Segurança Contra Incêndio - TACIN pretéritos.
+Têm-se, portanto, que se mostram relevantes os fundamentos arguidos nas razões recursais relativos à ilegalidade da cobrança dos TACIN ́s descritos na CDA no 006453/17a, novo número 2020527147.
+Assim, verifica-se a presença do requisito da probabilidade do direito pleiteado nas razões recursais.
+Da mesma forma, caso não seja deferida a tutela antecipada recursal, o contribuinte ficará impedido de emitir certidão de regularidade fiscal, de realizar transações comerciais e, ainda, poderá ter sua conta bancária bloqueada.
+Deste modo, os indícios se firmam no sentido de que seria possível a suspensão da exigibilidade do crédito tributário com fulcro no art. 151, IV, do Código Tributário Nacional.
+Outrossim, presentes os requisitos para a suspensão da exigibilidade do crédito tributário, se mostra possível a emissão de certidão positiva com efeito de negativa com fulcro no artigo 206 do Código de Processo Civil, se o motivo da não emissão se deu exclusivamente em razão da dívida impugnada na demanda, como cito:
+“Art. 206. Tem os mesmos efeitos previstos no artigo anterior a certidão de que conste a existência de créditos não vencidos, em curso de cobrança executiva em que tenha sido efetivada a penhora, ou cuja exigibilidade esteja suspensa”.
+Ante o exposto, defiro a tutela antecipada recursal, o que faço para suspender a exigibilidade dos créditos tributários descritos na CDA no 006453/17a, novo número 2020527147, oriundos cobrança da TACIN, cujos fatos geradores ocorreram em 08/2011 e 08/2012, até o julgamento do mérito do presente recurso. Determino, também, que seja autorizada a emissão de certidão positiva com efeito de negativa em favor dos recorrentes, se o motivo na negativa se der exclusivamente em razão do crédito impugnado presente demanda.
+Comunique-se o teor desta decisão ao Juízo a quo.
+Intime-se o Agravado, para querendo, apresentar resposta no prazo legal.
+À Procuradoria Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relato
