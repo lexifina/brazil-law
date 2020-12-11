@@ -1,0 +1,16 @@
+D E C I S Ã O
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça que, confirmado em sede de embargos de declaração, está assim ementado:
+    “PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DE MANEIRA ESPECÍFICA E PORMENORIZADA. AUSÊNCIA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. 2. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. Da análise do agravo interposto, verifica-se que o recorrente concentrou esforços em apenas repetir a tese sobre a necessidade de impronúncia do agravante por falta de provas judicializadas. Contudo, deixou de impugnar os fundamentos da decisão recorrida. Desse modo, não se desincumbiu o recorrente do ônus de impugnar os fundamentos da decisão de inadmissibilidade, atraindo para o caso a incidência da Súmula n. 182/STJ, que firma o entendimento segundo o qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". 2. Agravo regimental não conhecido ”
+    (AREsp 1.636.925-AgRg/MG, Ministro Reynaldo Soares da Fonseca)
+    Em suas razões, a parte impetrante requer, em síntese, “(...) a reforma da decisão impugnada, reconhecendo-se a absolvição do Paciente ou sua impronúncia, ante a ausência de provas hábeis a configurar o crime denunciado”.
+    Tal o contexto, reputo inadmissível o presente habeas corpus, eis que o acórdão impugnado não apreciou a pretensão formulada pela parte impetrante.
+    Esta Suprema Corte consolidou sua jurisprudência no sentido de não se conhecer de habeas corpus, quando as razões apresentadas pela parte impetrante não houverem sido apreciadas pelo Tribunal apontado como coator, por caracterizar-se inadmissível supressão de instância, conforme firme entendimento deste Supremo Tribunal Federal  (HC 192.077-AgR, Ministra Cármen Lúcia; HC 157.575-AgR, Ministro Dias Toffoli; HC 164.611-AgR, Ministro Edson Fachin; HC 190.387/RN, Ministro Gilmar Mendes; HC 189.201-AgR/SC, Ministro Luiz Fux; HC 190.319-AgR/RJ, Ministro Ricardo Lewandowski; HC 188.702- -AgR/SE, Ministro Roberto Barroso).
+    Para além disso, melhor sorte não socorre a parte impetrante.
+    É que, para o acolhimento da tese defensiva – absolvição por alegada ausência de provas –, seria indispensável o reexame de todo conjunto fático-probatório que levaram à condenação do ora paciente, fato esse inviável na via estreita do habeas corpus, que não admite dilação probatória, nos termos da jurisprudência pacífica desta Suprema Corte:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ABSOLVIÇÃO. SUPRESSÃO DE INSTÂNCIA. REEXAME DE FATOS E PROVAS. 1. Inviável o exame das teses defensivas não analisadas pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes. 2. Para concluir em sentido diverso quanto à tese de absolvição do crime de associação para o tráfico de drogas, imprescindível o reexame e a valoração de fatos e provas, para o que não se presta a via eleita. Precedentes. 3. Agravo regimental conhecido e não provido.”
+    (HC 157.952-AgR/SP, Ministra Rosa Weber – sem grifos no original)
+    Em face do exposto, não conheço do presente habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 11 de dezembro de 2020.
+Ministro NUNES MARQUES
+Relator
