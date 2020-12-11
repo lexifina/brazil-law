@@ -1,0 +1,122 @@
+APELANTE:
+APELANTE:
+RUTH PACHECO KCHIMEL
+ENERGISA MATO GROSSO DISTRIBUIDORA DE ENERGIA S.A.
+APELADO(S):
+APELADO(S):
+RUTH PACHECO KCHIMEL
+ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S.A.
+D E C I S Ã O M O N O C R Á T I C A
+Vistos etc.
+Trata-se de Recursos de Apelação Cível interpostos por RUTH PACHECO KCHIMEL e ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S.A., em face da sentença que, na Ação de Indenização por Danos Morais no 1038102-0.2019.8.11.0041, julgou procedentes os pedidos deduzidos na petição inicial para: a) condenar a requerida ao ressarcimento do valor de R$ 1.320,30 (um mil trezentos e vinte reais e trinta centavos), acrescidos de juros de mora de 1% ao mês e correção monetária pelo INPC a partir de cada desembolso; b) condenar a requerida ao pagamento de R$ 5.000,00 (cinco mil reais), a titulo de indenização por danos morais, acrescidos de juros de mora de 1% ao mês a partir da citação e correção monetária, pelo INPC, desde a prolação da sentença (Súmula 362/STJ); c) tornar definitiva a liminar concedida, fixando o valor da multa diária por descumprimento em R$ 2.000,00 (dois mil reais) até o limite de R$ 20.000,00 (vinte mil reais).
+Por fim, condenou a requerida ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 10% sobre o valor da condenação, nos termos do artigo 85, § 2o, ambos do CPC/15.
+Em síntese, defende a recorrente RUTH PACHECO KCHIMEL a reforma parcial da sentença, a fim de que seja majorado o valor da indenização por dano moral para R$ 50.000,00 (cinquenta mil reais), em observância aos requisitos da razoabilidade e proporcionalidade e acrescido de juros de mora e correção monetária desde o evento danoso.
+Aduz que em razão do descumprimento da liminar, a multa diária também deve ser majorada para o valor de R$ 806.525,83.
+Ao final, pugna pelo provimento do recurso com a reforma parcial da sentença, majorando-se o valor da indenização por dano moral, adequando-o aos parâmetros de arbitramentos atuais, bem como a multa diária, por descumprimento.
+Em contrarrazões (ID 69184551), a apelada argui a preliminar de falta de interesse recursal, eis que o recurso não enfrentou objetivamente as razões de decidir da sentença. No mérito, pugna pelo desprovimento do recurso.
+Contrarrazões pelo desprovimento (ID 69184551).
+Por sua vez, ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S.A., alega que a unidade consumidora da apelada estava suspensa, portanto, seria necessária primeiramente a realização de vistoria pela apelante a fim de verificar a regularidade das instalações do imóvel, conforme art. 30, da Resolução n. 414/2010, da ANEEL.
+Sustenta que em atendimento ao pedido de religação da Unidade Consumidora, a equipe da apelante foi até o local para estabelecer o serviço de energia elétrica, porém, constatou a existência de irregularidades, o que resultou na rejeição do pedido de religação tendo em vista a inadequação técnica e orientou ao responsável da unidade consumidora que providenciasse as adequações.
+Aduz que a apelada vem somente em 2017, ou seja, dois anos depois, se insurgir quanto à ausência de ligação de sua unidade consumidora.
+Assevera que as alegações da apelada de que a não religação do fornecimento de energia foi por mero descaso da empresa apelante não procede, pois conforme demonstrado, é necessário o atendimento de todas exigências contidas na legislação especial do setor elétrico para a continuidade do fornecimento de energia, sendo que a causa da demora na religação é de exclusiva responsabilidade da apelada.
+Diz que não há que cogitar em danos materiais, pois necessária a demonstração do nexo de causalidade entre a conduta indevida do terceiro e o efetivo prejuízo patrimonial que foi efetivamente suportado.
+Defende a inexistência de dano moral, uma vez que inexistente ato ilícito que pudesse causar ofensa a honra da apelada.
+Alternativamente, no caso de manutenção da sentença, postula pela redução do valor fixado a título de dano moral, em observância aos princípios da razoabilidade e proporcionalidade, bem como sejam os juros de mora e a correção monetária contados da data do acórdão.
+Por fim, prequestiona a matéria e pugna pelo provimento do recurso e inversão do ônus de sucumbência.
+Nas contrarrazões (ID 69184554), a apelada postula pelo desprovimento do recurso.
+É o relatório.
+Decido.
+PRELIMINAR – FALTA DE INTERESSE RECURSAL – VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE
+A parte requerida/apelada ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S.A., em suas contrarrazões, suscita preliminar de não conhecimento do recurso por violação ao princípio da dialeticidade, asseverando que a matéria apresentada pelo recorrente não enfrentou as razões de decidir da sentença a quo, incorrendo em falta de interesse recursal.
+Sobre a ausência de impugnação específica dos fundamentos da sentença, o artigo 932, inciso III, do CPC/15 estabelece que:
+“Art. 932. Incumbe ao relator:
+[...]
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;” (g.n.).
+Em comentário ao citado artigo e inciso, Nelson Nery Junior e Rosa Maria de Andrade Nery dispõem que:
+“10. Recurso que não ataca especificamente os fundamentos da decisão recorrida. É aquele no qual a parte discute a decisão recorrida de forma vaga, imprecisa, ou se limita a repetir argumentos já exarados em outras fases do processo, sem que haja direcionamento da argumentação para o que consta da decisão recorrida, o que acarreta o não conhecimento do recurso.” (in “Código de Processo Civil Comentado”, 16a edição revista, atualizada e ampliada, São Paulo: Editora Revista dos Tribunais, 2016, p. 1979).
+É cediço que a apelação deve atacar os fundamentos da sentença, em atendimento aos requisitos dispostos no artigo 1.010 do CPC/15. Confira-se:
+“Art. 1.010. A apelação, interposta por petição dirigida ao juízo de primeiro grau, conterá:
+I - os nomes e a qualificação das partes;
+II - a exposição do fato e do direito;
+III - as razões do pedido de reforma ou de decretação de nulidade;
+IV - o pedido de nova decisão.”.
+Nos termos do artigo supracitado, tem-se que a motivação configura um dos pressupostos do recurso, devendo constar a fundamentação na qual o recorrente baseia seu pedido de reforma da sentença. Tal fundamentação é responsável por limitar a matéria que será devolvida ao juízo de segundo grau.
+Sobre o tema, Theotonio Negrão e José Roberto F. Gouvêa dispõem que:
+“’Não é suficiente mera menção a qualquer peça anterior à sentença (petição inicial, contestação ou arrazoados), à guisa de fundamentos com os quais se almeja a reforma do decisório monocrático. À luz do ordenamento jurídico processual, tal atitude traduz-se em comodismo inaceitável, devendo ser afastado. O apelante deve atacar, especificamente, os fundamentos da sentença que deseja rebater, mesmo que, no decorrer das razões, utilize-se, também, de argumentos já delineados em outras peças anteriores. No entanto, só os já desvendados anteriormente não são por demais suficientes, sendo necessário o ataque específico à sentença. Procedendo dessa forma, o que o apelante submete ao julgamento do Tribunal é a própria petição inicial, desvirtuando a competência recursal originária do Tribunal’ (STJ-1a T., REsp 359.080, rel. Min. José Delgado, j. 11.12.01, negaram provimento, v.u., DJU 4.3.02, p. 213).” (in “Código de Processo Civil e legislação processual em vigor”, 39a edição, São Paulo: Saraiva, 2007, p. 663) (g.n.).
+Extrai-se do ensinamento acima que a parte apelante deve atacar, especificamente, os fundamentos da sentença que deseja rebater.
+No caso em exame, denota-se das razões recursais que a recorrente atendeu ao princípio da dialeticidade e aos requisitos previstos no artigo 1.010 do CPC/15, uma vez que a sentença de primeiro grau julgou procedente a ação para reconhecer condenar a concessionária de energia ao pagamento de danos morais e multa por descumprimento de liminar.
+Já as razões recursais referem-se ao pleito de majoração dos danos morais, bem como da multa diária por descumprimento do determinado em liminar, ou seja, de instalação de novo padrão de energia.
+Logo, a autora/apelante atendeu ao princípio da dialeticidade e aos requisitos previstos no artigo 1.010 do CPC/15, em especial o inciso II, trazendo os fundamentos de fato e de direito.
+Com essas considerações, rejeito a preliminar.
+M É R I T O
+Extrai-se dos autos que a parte autora RUTH PACHECO KCHIMEL ajuizou AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS em face da requerida ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENERGIA S.A., aduzindo que é idosa (84 anos de idade) e em 16/05/2015 esteve em sua residência uma equipe de funcionários da requerida para fazer uma vistoria da rede elétrica do imóvel e concluíram que o padrão da unidade consumidora n°6/307104-0 necessitava ser trocado, bem como toda a fiação elétrica.
+Alegou que tendo em vista as recomendações, comprou os equipamentos necessários e solicitou a empresa requerida a substituição do padrão e da fiação elétrica, mas a instalação foi feita no padrão antigo, aquele que segundo os técnicos da requerida, estava condenado e deveria ser substituído com urgência.
+Sustentou que após inúmeras tentativas de contato, a requerida se mostrou inerte ao problema, portanto, ajuizou a presente ação pugnando para que a requerida efetue a imediata instalação do padrão correto na unidade consumidora.
+A tutela de urgência foi conceda no ID 69183022.
+A requerida apresentou contestação genérica, que em nada condiz com os fatos alegados na inicial (ID 69183035).
+Impugnação no ID 69183038, informando o descumprimento da liminar concedida.
+A requerida pleiteou o julgamento antecipado da lide, enquanto a autora requereu a produção de provas oral e pericial.
+No ID 69183044, foi majorada a multa diária em caso de descumprimento da liminar para R$ 1.000,00 (um mil reais).
+A parte autora manifestou no ID 69184453, informando que a liminar ainda não havia sido cumprida, enquanto a requerida afirmou o cumprimento no ID 69184459.
+Decisão no ID 69184463, majorando a multa diária em caso do descumprimento da liminar para R$ 1.500,00 (um mil e quinhentos reais).
+A parte requerida manifestou-se no ID 69184468, informando a religação de novo padrão, e que a Unidade Consumidora encontrava-se em nome de Admilson Junior Leite. Posteriormente, a autora afirmou que a referida liminar ainda não havia sido cumprida, e que Admilson Junior Leite era o seu inquilino no imóvel objeto da presente demanda.
+Decisão no ID 69184488, majorando a multa diária em caso de descumprimento da liminar para R$ 2.000,00 (dois mil reais) até o limite de R$ 50.000,00 (cinquenta mil reais), bem como, determinando que a requerida procedesse com a instalação do novo padrão com a devida ligação na rede de energia elétrica, e ainda, que fosse registrada a Unidade Consumidora em nome da requerente.
+A parte requerida manifestou no ID 69184493, informando que cumpriu a liminar, com a devida instalação do novo padrão, e que havia sido gerada uma nova Unidade Consumidora de no 2897139, sob titularidade da requerente.
+Por outro lado, a autora informou mais uma vez, o descumprimento da liminar, já que o padrão continuava da mesma forma e com a energia desligada (ID 69184497).
+Intimada para manifestar, a requerida no ID 69184501, informou que retirou a ligação do CPRede e fez instalação de Caixa Tanquinho, juntando fotos.
+Decisão saneadora (ID 69184525), indeferindo o pedido de produção de provas, e intimando a autora para manifestar acerca da instalação da Caixa Tanquinho.
+Por fim, a parte autora manifestou-se, informando o cumprimento da liminar, e pugnando a condenação da requerida em multa por descumprimento da liminar desde 23/06/2017 até 01/06/2020.
+Ao apreciar o feito, a magistrada singular Dra. Vandymara Galvão R. P. Zanolo julgou procedentes os pedidos formulados na inicial, conforme relatado.
+Inconformadas, recorrem ambas as partes.
+Pois bem.
+Presentes os requisitos de admissibilidade, torna-se cabível o julgamento de plano do recurso, consoante o artigo 932 do CPC/15 e Súmula 568 do STJ.
+O art. 14 do CDC dispõe que:
+Art. 14 - O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+§ 3o - O fornecedor de serviços só não será responsabilizado quando provar:
+I – (...);
+II - a culpa exclusiva do consumidor ou de terceiro.
+Conforme estabelece o art. 14, § 3o, II, do CDC, o fornecedor de serviços só não será responsabilizado por eventuais prejuízos causados ao consumidor quando provar que, tendo prestado o serviço, o defeito inexiste e que a culpa é exclusiva do consumidor ou de terceiros.
+In casu, verifica-se que a autora/apelante cumpriu todos os procedimentos impostos pela apelada, como a compra dos materiais necessários para a religação da energia em novo padrão elétrico, uma vez que o padrão antigo encontrava-se condenado, necessitando ser trocado, conforme atestado pelos funcionários da concessionaria, em observância aos ditames de segurança, contudo, a empresa apelada permaneceu inerte.
+Salienta-se que, nos termos do art. 15 da Resolução 414/2010 da ANEEL, é de responsabilidade da apelada adotar as providências para manter o seu sistema elétrico até o ponto de entrega, ou seja, no caso, a instalação e ativação da energia elétrica, o que não ocorreu quando determinado, portanto, restou demonstrado que a autora desembolsou o valor total de R$ 1.320,30 (um mil trezentos e vinte reais e trinta centavos), fazendo jus, portanto, ao reembolso.
+Assim, comprovada a falha na prestação do serviço da empresa requerida, eis que a autora ficou de 2015 a 2020 sem a instalação do novo padrão, sendo exposta à vários riscos.
+De se ressaltar que a empresa requerida, como fornecedora de serviço público essencial, tem o dever de prestá-lo de forma eficiente, segura e contínua, conforme prevê o art. 22 do Código de Defesa do Consumidor:
+“Art. 22. Os órgãos públicos, por si ou suas empresas, concessionárias, permissionárias ou sob qualquer outra forma de empreendimento, são obrigados a fornecer serviços adequados, eficientes, seguros e, quanto aos essenciais, contínuos.
+Parágrafo único. Nos casos de descumprimento, total ou parcial, das obrigações referidas neste artigo, serão as pessoas jurídicas compelidas a cumpri-las e a reparar os danos causados, na forma prevista neste código.”
+Assim, atendendo o mandamento trazido pelo dispositivo legal transcrito, temos que todo aquele que se dispõe a exercer alguma atividade no campo do fornecimento de bens ou prestação de serviços tem o dever de responder pelos fatos e vícios resultantes do empreendimento, independentemente da existência de culpa.
+Desse modo, no que diz respeito ao dano moral, conforme consignado na sentença singular, a autora ficou cinco anos sem a instalação do padrão de energia, conforme determinado por decisão judicial.
+Destarte, não há dúvida de que a recorrente não se desincumbiu de seu ônus probatório, uma vez que não comprovou qualquer fato impeditivo, modificativo ou extintivo do direito da autora, nos termos do art. 373, inc. II, do CPC/15.
+Desta feita, certo é que ficou comprovado nos autos que a conduta adotada pela concessionária apelante restou acometida de abuso e importou em ofensa aos direitos básicos da consumidora, o que resulta na existência de ato ilícito a ensejar reparação por danos morais.
+Por conseguinte, o prejuízo de ordem moral configura lesão de ordem subjetiva, a qual dispensa a comprovação do reflexo patrimonial do prejuízo, dado o seu caráter in re ipsa (STJ, REsp no 1.059.663/MS).
+A propósito:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - CONCESSIONÁRIA DE ENERGIA ELÉTRICA – CORTE – PESSOA FÍSICA – VULNERABILIDADE TÉCNICA E ECONÔMICA DO CONSUMIDOR – INVERSÃO DO ÔNUS DA PROVA – FATURA PAGA – SUSPENSÃO INDEVIDA DO FORNECIMENTO – ATO ILÍCITO – DANOS MORAIS CONFIGURADOS – SENTENÇA REFORMADA - RECURSO CONHECIDO E PROVIDO.
+A inversão do ônus da prova constitui-se em prerrogativa legal da relação de consumo, estabelecida por critério legal em certos casos, nos termos do artigo 6o, VIII, do CDC.
+A responsabilidade civil da concessionária de serviço público é objetiva e independe da existência da culpa, porquanto decorrente do risco do empreendimento, ou seja, da atividade exercida, devendo, pois, responder pelos danos causados ao consumidor em razão de eventual falha na prestação de serviço (art. 14 do CDC).
+A indevida interrupção na prestação dos serviços essenciais de água, energia elétrica, telefone e gás configura o dano moral.
+(N.U 1004340-20.2019.8.11.0002, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, DIRCEU DOS SANTOS, Terceira Câmara de Direito Privado, Julgado em 04/11/2020, Publicado no DJE 11/11/2020)
+“APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS – FORNECIMENTO DE ENERGIA ELÉTRICA – FALHA NA PRESTAÇÃO DE SERVIÇO – COBRANÇA INDEVIDA – ÓRGÃOS DE PROTEÇÃO AO CRÉDITO – INSCRIÇÃO IRREGULAR - DANO MORAL - CONFIGURADO - SENTENÇA MANTIDA – RECURSO DESPROVIDO.
+Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova (STJ REsp n. 1.059.663/MS), pois o dano moral advém do próprio fato, a responsabilidade resulta do agente causador, dispensando a comprovação da extensão dos danos, sendo estes evidenciados pelas circunstâncias do fato (STJ AgRg no Ag 1365711/RS). A indenização por dano moral deve ser fixada em montante que não onere em demasia o ofensor, atenda à finalidade para a qual foi concedida, compensando o sofrimento da vítima e desencorajando a outra parte quanto aos outros procedimentos de igual natureza.” (TJMT, Primeira Câmara de Direito Privado, N.U 1001543-73.2016.8.11.0003, Relator Des. SEBASTIÃO BARBOSA FARIAS, j. em 16/07/2019, Publicado no DJE 19/07/2019).
+Em relação ao pleito recursal das partes autora e requerida, quanto à majoração e/ou redução do valor da indenização por dano moral, tenho que merece prosperar a tese da autora apelante.
+Com efeito, por não haver no ordenamento jurídico pátrio normas positivadas para a aferição objetiva do valor indenizável, sagrou-se no âmbito da doutrina e da jurisprudência nacional o entendimento de que a indenização deve ser justa a ponto de alcançar seu caráter punitivo e proporcionar satisfação ao correspondente prejuízo moral sofrido pelo ofendido.
+Assim, o quantum indenizatório deve ser estipulado como penalidade ao caráter da conduta, sem imputar valores abusivos que incentivem a indústria do dano moral ou representem enriquecimento sem causa. Enfim, deve observar os princípios da razoabilidade e proporcionalidade.
+Portanto, evidenciada a desídia da apelante, bem como os transtornos causados a consumidora/autora, a qual ficou cinco anos aguardando a instalação do novo padrão de energia, bem como considerando o grau de culpa da recorrente e a capacidade socioeconômica das partes, tenho que o valor da indenização por dano moral fixado em R$ 5.000,00 (cinco mil reais), deve ser majorado para R$ 20.000,00 (vinte mil reais).
+Assim, neste ponto, a sentença deve ser reformada para elevar o valor dos danos morais.
+No tocante à incidência dos juros de mora e da correção monetária, por se tratar de relação contratual, são devidos a partir da citação, nos termos do art. 405 do Código Civil, e a correção monetária desde o arbitramento (Súmula 362 do STJ).
+Portanto, neste ponto, deve ser mantida a sentença singular.
+Em relação à multa fixada pelo descumprimento da liminar, uma vez que a concessionária foi intimada pessoalmente, conforme documento de ID 69183024 e em seguida, vieram aos autos informações a respeito do descumprimento da medida liminar (ID 69183038).
+Embora a apelante afirme que cumpriu a determinação judicial, observa-se que os documentos acostados aos autos demonstram que a religação do novo padrão ocorreu em 01/06/2020.
+Desta feita, em razão do descumprimento da decisão singular, correta a condenação da parte apelante ao pagamento da multa coercitiva, nos termos do artigo 537, caput, do CPC/15.
+Já em relação ao valor da multa fixado em R$ 2.000,00 (dois mil reais) por dia até o limite de R$ 20.000,00 (vinte mil reais), a autora/apelante pleiteia a sua majoração.
+Sobre o tema leciona NERY que “o valor deve ser significativamente alto, justamente porque tem natureza inibitória. O juiz não deve ficar com receio de fixar o valor em quantia alta, pensando no pagamento. O objetivo das astreintes não é obrigar o réu a pagar o valor da multa, mas obrigá-lo a cumprir a obrigação na forma específica. A multa é apenas inibitória. Deve ser alta para que o devedor desista de seu intento de não cumprir a obrigação específica. Vale dizer, o devedor deve sentir ser preferível cumprir a obrigação na forma específica a pagar o alto valor da multa fixada pelo juiz.” (NERY, Nelson Jr. & Rosa Maria de Andrade, in CÓDIGO DE PROCESSO CIVIL COMENTADO E LEGISLAÇÃO EXTRAVAGANTE, 9a edição, São Paulo: Ed. RT – Revista dos Tribunais, 2006, p. 1184).
+Salienta-se que o valor atribuído à multa diária por descumprimento de ordem judicial deve ser razoável e proporcional e, além disso, guardar correspondência com a obrigação principal. (STJ, AgRg nos EDcl no AREsp 802.247/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 04/04/2016).
+In casu, observa-se que a multa diária foi arbitrada em R$ 1.000,00 (um mil reais) e na sentença retificada para R$ 2.000,00 (dois mil reais) até o limite de R$ 20.000,00 (vinte mil reais), em 20/08/2020, para o caso de descumprimento da decisão que determinou que a religação de novo padrão, sendo que tal determinação somente foi cumprida em 01/06/2020, conforme se vê do ID 69184530.
+Todavia, embora reprovável a conduta da apelante e o atraso no cumprimento da obrigação tenha causado dissabores e transtornos à autora, tal situação não deve gerar obrigação pecuniária excessiva, sob pena de causar enriquecimento ilícito, devendo ser adequada, portanto, deve ser mantida a sentença que fixou a multa diária em R$ 2.000,00 (dois mil reais) até o limite de R$ 20.000,00 (vinte mil reais), em observância aos princípios da razoabilidade e proporcionalidade e enriquecimento sem causa.
+A propósito:
+AGRAVO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO REGIMENTAL NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - ASTREINTES FIXADAS POR DESCUMPRIMENTO DE DETERMINAÇÃO RECURSO. INSURGÊNCIA DA RÉ.
+1. De acordo com a orientação firmada nesta egrégia Corte Superior, o valor fixado a título de astreintes encontra limitações na razoabilidade e proporcionalidade, sendo possível ao juiz, nos termos do § 6o do art. 461 do CPC, "de ofício, modificar o valor ou a periodicidade da multa, caso verifique que se tornou insuficiente ou excessiva". Isso é possível mesmo na hipótese de execução das astreintes, pois tal instituto, de natureza processual, tem como objetivo compelir o devedor renitente ao cumprimento da obrigação e não aumentar o patrimônio do credor.
+2. Tendo em vista que a finalidade da multa é constranger o devedor ao efetivo cumprimento da obrigação de fazer, tal penalidade não pode vir a se tornar mais atraente para o credor do que a própria satisfação do encargo principal, de modo a proporcionar o seu enriquecimento sem causa.
+3. O acórdão recorrido, ao reduzir o valor da multa em execução das astreintes de R$ 160.525,38 para R$ 10.000,00, agiu em consonância com o entendimento firmado nesta Corte Superior.
+4. Agravo regimental desprovido. (STJ, AgRg no REsp 1371369/RN, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/02/2016, DJe 26/02/2016)
+Com essas considerações, nos termos do artigo 932 do CPC/15 c/c Súmula no 568 do STJ, dou parcial provimento ao recurso da autora RUTH PACHECO KCHIMEL apenas para majorar os danos morais para R$ 20.000,00 (vinte mil reais), acrescidos de juros de mora desde a citação e correção monetária a partir do arbitramento e nego provimento ao recurso da ENERGISA MATO GROSSO – DISTRIBUIDORA DE ENRGIA S.A. razão pela qual elevo os honorários advocatícios para 20% sobre o valor da condenação, nos termos do §11 do art.85 do CPC/15.
+Cuiabá, 10 de dezembro 2020.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora
