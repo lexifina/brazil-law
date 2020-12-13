@@ -1,0 +1,47 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO RECURSO DE APELAÇÃO CÍVEL N. 1000099-70.2020.8.11.0033
+RECORRENTE(S): CNF - ADMINISTRADORA DE CONSÓRCIOS NACIONAL LTDA.
+RECORRIDO(S): OSMAR PEREIRA DA CRUZ
+Vistos, etc.
+Trata-se de Recurso Especial (id. 64837493) interposto por CNF ADMINISTRADORA DE CONSÓRCIOS NACIONAL LTDA, com fundamento no art. 105, III, alínea “c” da Constituição Federal, contra acórdão proferido pela Primeira Câmara de Direito Privado, assim ementado (id. 54186496):
+“APELAÇÃO CÍVEL – AÇÃO DE BUSCA E APREENSÃO – ALIENAÇÃO FIDUCIÁRIA – NOTIFICAÇÃO ENVIADA POR MEIO DE CARTA REGISTRADA FRUSTRADA – NOTIFICAÇÃO EDILÍCIA – NÃO ESGOTAMENTO DOS MEIOS PARA LOCALIZAÇÃO DO DEVEDOR – MORA NÃO COMPROVADA – EXTINÇÃO DO PROCESSO – NECESSIDADE QUE SE IMPÕE – AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO, EMBASADO NO ARTIGO 485, INCISO IV, DO CÓDIGO DE PROCESSO CIVIL – SENTENÇA REFORMADA – RECURSO PROVIDO.
+A comprovação da mora é condição imprescindível para o ajuizamento da ação de busca e apreensão.
+“1. É entendimento pacífico nesta Corte Superior que para a constituição em mora na ação de busca e apreensão é imprescindível a comprovação de encaminhamento de notificação extrajudicial ao endereço constante do contrato, bem como de seu efetivo recebimento, ainda que não pessoalmente pelo devedor. Precedentes”. (AgRg no AREsp 467.074/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/08/2014, DJe 04/09/2014)
+Inexistindo prova de que o credor esgotou todas as tentativas de localização do devedor, o protesto com intimação editalícia não pode ser considerado válido, pois se trata de medida subsidiária, somente admitida quando infrutíferos os meios para sua localização pessoal.
+2. “É assente o entendimento do Superior Tribunal de Justiça de que a comprovação da mora pode ser efetuada pelo protesto do título por edital, desde que, à evidência, sejam esgotados todos os meios de localização do devedor. ” (AgInt no AREsp 877.490/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/06/2016, DJe 01/07/2016).
+Não havendo a devida comprovação da mora, na forma preconizada no artigo 2.o, § 2.o do Decreto-lei 911/69, a extinção do processo por ausência de pressuposto de constituição e desenvolvimento regular do processo é medida que se impõe.” (TJMT. RECURSO DE APELAÇÃO CÍVEL N. 1000099-70.2020.8.11.0033. RELATORA DESA. NILZA MARIA POSSAS DE CARVALHO. PRIMEIRA CÂMARA DE DIREITO PRIVADO. Julgado em 12/08/2020. Publicado em 19/08/2020).
+Opostos Embargos de Declaração pela Recorrente (id. 55027450), e pelo Recorrido (id. 54687989), decidiu-se, in verbis (id. 60891485):
+“EMBARGOS DE DECLARAÇÃO INTERPOSTO POR AMBAS AS PARTES – APELAÇÃO CÍVEL – AÇÃO DE BUSCA E APREENSÃO – MORA NÃO COMPROVADA – EMBARGOS INTERPOSTOS PELA INSTITUIÇÃO FINANCEIRA – INEXISTÊNCIA DE OMISSÃO – MATÉRIA APRECIADA – PRETENSÃO RECURSAL QUE NÃO OBSERVA OS LIMITES DESSA ESPÉCIE RECURSAL – REEXAME DE MATÉRIA JÁ DECIDIDA – IMPOSSIBILIDADE – EMBARGOS INTERPOSTOS PELO DEVEDOR FIDUCIÁRIO – AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO VÁLIDA E REGULAR DO PROCESSO – EXTINÇÃO DA AÇÃO ORIGINÁRIA SEM RESOLUÇÃO DE MÉRITO – NECESSIDADE DE RESTITUIÇÃO DO BEM PELO CREDOR FIDUCIÁRIO – EMBARGOS DA INSTITUIÇÃO FINANCEIRA REJEITADOS – EMBARGOS DO DEVEDOR ACOLHIDOS.
+São incabíveis os Embargos de Declaração visando a rediscussão da matéria que foi objeto do julgamento, aduzindo omissão inexistente no acórdão objurgado.
+O fato de a decisão recorrida não ter acolhido a interpretação que, segundo o Embargante, deveria ter sido dada à questão, não torna o Acórdão omisso, obscuro ou contraditório.
+Os Embargos de Declaração devem ser acolhidos quando existe omissão a ser sanada no acórdão embargado.
+Não havendo a devida comprovação da mora, na forma preconizada no artigo 2.o, § 2.o do Decreto-lei 911/69, a extinção do processo por ausência de pressuposto de constituição e desenvolvimento regular do processo, com o retorno do bem ao devedor fiduciário é medida que se impõe.” (TJMT. EMBARGOS DE DECLARAÇÃO NO RECURSO DE APELAÇÃO CÍVEL N. 1000099-70.2020.8.11.0033. RELATORA DESA. NILZA MARIA POSSAS DE CARVALHO. PRIMEIRA CÂMARA DE DIREITO PRIVADO. Julgado em 06/10/2020. Publicado em 13/10/2020).
+A Recorrente alega divergência jurisprudencial quanto à interpretação do artigo 2o, §2o, do Decreto-Lei 911/1969, ao argumento de que o devedor teria sido devidamente constituído em mora. Salienta que “resta claro que a mora do Apelante foi efetivamente comprovada por meio das 2 (Duas) notificações por AR, bem como pelo protesto realizado. Em consequência, não há razão para extinção do feito como determinado no acórdão recorrido” (id. 64837493 – p. 8)
+Recurso tempestivo (id. 66029989) e devidamente preparado (id. 65763972).
+Contrarrazões no id. 69358987.
+É o relatório. Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso. Por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, portanto, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Com essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Reexame de matéria fática. Súmula 7 do STJ
+Nos termos do art. 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das Leis Federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A propósito:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. AUSÊNCIA DE REPASSE DE VALORES LEVANTADOS POR CAUSÍDICO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA. 1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ. (...) (AgInt nos EDcl no AREsp 1473022/SE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+No caso dos autos, ao apontar a divergência jurisprudencial quanto à interpretação do artigo 2o, §2o, do Decreto-Lei 911/1969, a Recorrente alega que o devedor teria sido devidamente constituído em mora e salienta que “resta claro que a mora do Apelante foi efetivamente comprovada por meio das 2 (Duas) notificações por AR, bem como pelo protesto realizado. Em consequência, não há razão para extinção do feito como determinado no acórdão recorrido” (id. 64837493 – p. 8)
+Quanto ao ponto, consignou-se no acórdão recorrido (id. 52782987):
+“Com efeito, o banco ao invés de proceder ao exaurimento dos meios disponíveis para localizar a devedora, procedeu diretamente ao Protesto do Título (id no 50527202), cuja intimação se deu por edital, o que, segundo a jurisprudência Pátria, não é admitido.
+Nota-se que mesmo sem o Aviso de Recebimento assinado, ainda que por terceiro, a Apelada após apenas 1 (uma) tentativa de notificação, entrou com protesto na data 27/12/2019 e já em seguida 10/02/2020 entrou com ação de busca e apreensão, sem esgotar os meios possíveis que dispunha para localizar a parte devedora, antes de proceder ao protesto por edital, sendo que tal conduta viola a legislação de regência e a jurisprudência Patria, merecendo o processo ser extinto por ausência de pressupostos de constituição e de desenvolvimento válido e regular do processo. (...)
+Portanto, não havendo esgotamento dos meios para localização do devedor, entendo que o protesto por edital não é válido para caracterizar a mora do Apelante.” (g.n.)
+Assim, infirmar a conclusão do Tribunal de Origem quanto à irregularidade da constituição em mora do devedor demandaria o reexame dos fatos e provas dos autos, atraindo o óbice sumular acima mencionado.
+Confira-se:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL. ENDEREÇO INDICADO NO CONTRATO. ENVIO. CONSTITUIÇÃO EM MORA. ENTREGA NÃO COMPROVADA. SÚMULA No 568/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. É válida a notificação extrajudicial, para a constituição em mora do devedor, desde que entregue no endereço de seu domicílio por via postal, com aviso de recebimento. Súmula no 568/STJ. 3. Acolher a pretensão recursal para afirmar que a notificação foi efetivamente entregue no domicílio do devedor demandaria o revolvimento do acervo fático-probatório dos autos, medida inviável ante a natureza excepcional da via eleita (Súmula n° 7/STJ). 4. Agravo interno não provido.” (AgInt no AREsp 1448000/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/09/2019, DJe 12/09/2019)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 11 de dezembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+XVIII
