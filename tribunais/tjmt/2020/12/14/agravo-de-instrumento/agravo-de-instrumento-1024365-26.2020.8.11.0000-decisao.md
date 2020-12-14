@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1024365-26.2020
+AGRAVANTE: LEDA FATIMA FRIZON.
+AGRAVADO: MARIA HELENA PEREIRA DE SOUZA.
+Vistos etc.
+Intime-se a recorrente, para que aponte nos autos, onde se encontram as razões recursais.
+Às providências.
+Desembargador DIRCEU DOS SANTOS
+Relator
