@@ -1,0 +1,24 @@
+Trata-se de Recurso de Agravo de Instrumento interposto por BRADESCO SAÚDE S.A em face de decisão prolatada pelo juízo da Quarta Vara Cível de Cuiabá, que nos autos n.o 1052467-32.2020.8.11.0041 – determinou que a Requerida autorize no prazo de 05 (cinco) dias a cobertura do tratamento denominado “hidroterapia”, cujo custeio deve limitar-se ao valor efetivamente contratado com o plano de saúde – ou seja, ao preços e tabelas estabelecidas no contrato firmado entre as partes – caso os procedimentos sejam realizados com profissionais não credenciados ao plano de saúde operado pela requerida.
+Inconformada em suas razões alega em síntese, que pese o entendimento exarado pelo juizo “a quo”, entende a decisão merece reforma, vez que esta agiu conforme o contrato de firmado entre as partes, assim como não restou comprovado o preenchimento dos requisitos norteadores da medida (art. 300 CPC), destacando -se que o magistrado apenas se limitou as informações prestadas pela agravada, sem ao menos possibilitar o devido contraditório.
+Afirma que recorrido é beneficiário da apólice de seguro-saúde coletivo empresarial denominado Saúde Grupos Especiais, cujo início de vigência se deu em 24/09/2019, na condição de dependente do Sr. Maike Koseki de Capua.
+Salienta que o tratamento solicitado – HIDROTERAPIA – não encontra previsão na Lei no 9.656/98, bem como, na Resolução Normativa 428/2017, relativa ao Rol de Diretrizes e Eventos da ANS, ou nas Condições Gerais.
+Que a Agravada tinha pleno conhecimento das condições contratuais do plano.
+Ainda, que a obrigação de prestar assistência à saúde de forma ilimitada, pertence exclusivamente ao Estado.
+Assevera que encontra -se amparada pela Resolução Normativa que atualiza o Rol de Procedimentos e Eventos em Saúde, bem como nas Condições Gerais da Apólice – artigo 757 e 760, do Código Civil.
+Sustenta ausência de perigo de dano irreparável, ainda, que nenhum dos relatórios médicos acostado aos autos aponta o caráter de urgência/emergência do atendimento, assim caracterizado pelo art. 35-C da Lei 9.656/98.
+Esclarece que, optando o segurado por realizar o tratamento em clínica ou profissional não referenciado, bem como, caso a seguradora não os possua em sua rede, o reembolso é realizado em consonância com o limite contratual estabelecido pelas Condições Gerais, mediante apresentação de nota fiscal discriminada.
+Sustenta a desproporcionalidade da multa aplicada.
+Requer-se a CONCESSÃO DE EFEITO SUSPENSIVO ao presente agravo, eis que restou cabalmente demonstrado pela agravante o preenchimento de todos os requisitos impostos pela lei. Por consequência, seja o agravado intimado para, querendo, apresentar contraminuta ao presente Recurso, bem como que seja dado PROVIMENTO ao agravo de instrumento, para REVOGAR A DECISÃO AGRAVADA, eximindo -a de qualquer penalidade imposta, pelos argumentos acima despendidos e por ser medida de escorreita JUSTIÇA! Acaso assim não entenda, que o valor arbitrado a título de multa, seja consideravelmente reduzido, ante a sua clara exces sividade, nos termos do artigo 537, caput e §1o, do Código de Processo Civil.
+DECIDO.
+Para o deferimento do efeito suspensivo através do Recurso de Agravo de Instrumento, necessário se faz os pressupostos autorizadores da medida de urgência, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, que exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 995, do Novo Diploma Processual.
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Em sede de cognição sumária, não visualizo, prima facie, a presença dos pressupostos autorizadores para deferir o efeito pleiteado.
+Diante do exposto, INDEFIRO o pleito dos Agravantes, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se os Agravados, na forma do art. 1.019, II do NCPC, para que respondam no prazo legal.
+Cumpra-se.
+Cuiabá, 14 de dezembro de 2020.
+Des. Sebastião Barbosa Farias.
+Relator
