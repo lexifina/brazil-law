@@ -1,0 +1,28 @@
+Decisão: Trata-se de embargos de divergência opostos em face de acórdãos da Segunda Turma por meio dos quais negado provimento ao agravo regimental e rejeitados os embargos de declaração, assim ementados (eDOCs 13 e 19):
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. RECURSO INTERPOSTO EM FACE DE DECISÃO MONOCRÁTICA. ESGOTAMENTO DE INSTÂNCIA. NÃO CONFIGURAÇÃO. SÚMULA 281/STF. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Não se esgota a instância de origem caso o recurso extraordinário seja interposto após a prolação de decisão monocrática em Tribunal. Súmula 281/STF.
+    2. Agravo regimental desprovido.
+    EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição ou obscuridade, o que não ocorre no presente caso.
+    2. O fato de a decisão monocrática impugnada contrariar interesse da parte implica apenas o cabimento do agravo regimental, mas não necessariamente o sucesso da sua pretensão recursal. Inteligência do art. 317 do RISTF.
+    3. O embargante busca indevidamente a rediscussão da matéria, com objetivo de obter excepcionais efeitos infringentes.
+    4. Embargos de declaração rejeitados.
+    Nas razões recursais (eDOC 22), invoca-se como paradigma o acórdão proferido pela Primeira Turma deste Tribunal no RE 451.490, da relatoria do Ministro Sepúlveda Pertence.
+    Sustenta-se, em suma, que “tanto no acórdão embargado, como no acórdão paradigma, os recursos apresentados pelas defesas não foram conhecidos, ao mesmo argumento, que seria a presença de vícios formais na sua interposição” e “a questão girou em torno do cerceamento de defesa e da possibilidade do Tribunal conceder de ofício habeas corpus reconhecendo a nulidade evidente”, mas as conclusões foram distintas, concedendo-se a ordem no caso examinado no paradigma e decidindo-se, nestes autos, “pelo não conhecimento do recurso por vício formal, não sendo analisada a possibilidade de concessão de habeas corpus de ofício”. Argumenta-se pela imprescindibilidade da perícia da arma apreendida, cuja não realização implicaria nulidade do julgamento do feito pelo Tribunal do Júri.
+    À vista do exposto, busca-se a declaração de nulidade por cerceamento de defesa.
+    É o relatório. Decido.
+    Não merece acolhida a pretensão recursal.
+    De acordo com o art. 331 do RISTF, “[n]ão cabem embargos, se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada”.
+    No caso dos autos, busca-se, por meio dos presentes embargos de divergência, o reconhecimento de nulidade consubstanciada no fato de não se ter submetido a exame pericial a arma de fogo apreendida.
+    Há, contudo, precedentes de ambas as turmas deste Tribunal no sentido de que a ausência dessa prova técnica, por si só, não acarreta nulidade, cuja constatação dependeria de um exame mais aprofundado do conjunto dos elementos de prova, o que não é possível, nem mesmo em sede de habeas corpus. Confiram-se:
+    EMENTA: HABEAS CORPUS. PROVA TESTEMUNHAL. INSUFICIÊNCIA. REEXAME DE PROVAS. A análise das alegações de insuficiência da prova testemunhal e da falta de preparo da juíza que presidiu o Tribunal do Júri demandaria reexame probatório, sendo certo que os autos não estão instruídos de modo a permitir inequívoca aferição dos fatos narrados. ARMA DE FOGO. EXAME PERICIAL. NEGATIVA. PREJUÍZO À DEFESA. EXISTÊNCIA DE OUTROS ELEMENTOS PROBATÓRIOS. Alegação de prejuízo causado pela ausência de exame pericial em arma de fogo. A circunstância, por si só, não compromete, em princípio, as conclusões a que pode chegar o órgão julgador no desempenho de sua função, desde que constem dos autos outros elementos suficientes à precisa caracterização do quadro fático em exame. Necessidade de ampla dilação probatória. COMPETÊNCIA. LOCAL DO CRIME. TEORIA DA UBIQÜIDADE. Local do crime e competência para processamento da ação criminal. A circunstância de o resultado da ação praticada ter ocorrido em local diferente daquele em que se dera a respectiva ação não invalida a competência do juízo da 2ª Vara Criminal Federal da Sessão Judiciária de Curitiba/PR para conhecer da ação criminal e processá-la, nos termos do art. 6º do Código Penal. Ordem de habeas corpus conhecida, mas denegada.
+    (HC 89248, Relator Min. JOAQUIM BARBOSA, Segunda Turma, julgado em 03/10/2006, DJ 06-11-2006 - grifei)
+    EMENTA: - Direito Processual Penal. "Habeas Corpus". Nulidades. Alegações de nulidade: 1. - da denuncia e da decisão que a recebeu, porque apresentada aquela e proferida esta, respectivamente, por Promotor de Justiça e Juiz de outra comarca; 2. - da pericia sobre a arma, por não informar se os projeteis encontrados, no corpo da vítima, foram daquela disparados; 3. - dos quesitos, perante o Júri, porque incorretamente formulados; 4. - por falta de ciência ao defensor, sobre carta precatória; 5. - porque inobservado o art. 499 do C.P.P. Alegações repelidas. "H.C." indeferido.
+    (HC 70994, Relator Min. SYDNEY SANCHES, Primeira Turma, julgado em 03/05/1994, DJ 24-06-1994)
+    Os presentes embargos, portanto, encontram-se em dissonância com a jurisprudência de ambas as Turmas desde Tribunal, razão pela qual são incabíveis.
+    Ante o exposto, nos termos dos arts. 21, § 1º, e 335, § 1º, do RISTF, inadmito os embargos de divergência.
+    Publique-se. Intime-se.
+    Brasília, 14 de dezembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
