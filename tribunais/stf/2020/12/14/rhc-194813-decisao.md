@@ -1,0 +1,21 @@
+D E C I S Ã O
+    Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO ESTUDO. APROVAÇÃO NO EXAME NACIONAL PARA A CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS - ENCCEJA. BASE DE CÁLCULO. 50 % DA CARGA HORÁRIA TOTAL. AGRAVO REGIMENTAL IMPROVIDO.
+    1. Nos termos do entendimento desta Sexta Turma, em caso de certificação do ensino médio pelo ENCCEJA, o Juiz, para fins de remição da pena, deverá considerar 50% de 1200 horas, que é a carga horária definida legalmente para o ensino médio, consoante o disposto na Recomendação do CNJ e no art. 4.º da Resolução n.º 03/2010 do Conselho Nacional de Educação, razão pela qual correta a base de cálculo adotada pelo Tribunal de origem: 50% da carga horária de 1.200 horas, ou seja, 600 horas, com a divisão desse total por 12 (um dia de pena para cada doze horas), o que corresponde a 50 dias de remição na hipótese de aprovação em todas as 5 áreas de conhecimento, acrescida de 1/3, totalizando 66 dias remidos. Precedentes.
+    2. Agravo regimental improvido. ”
+    (HC 583.650-AgRg/SC, Ministro Nefi Cordeiro)
+    Em suas razões, a parte recorrente, em síntese, pretende a revaloração da quantidade de dias remidos, por aprovação no ENCCEJA (Exame Nacional para Certificação de Competência de Jovens e Adultos).
+    O Ministério Público Federal emitiu parecer pelo desprovimento deste recurso ordinário em parecer assim ementado:
+    “RECURSO ORDINÁRIO EM ‘HABEAS CORPUS’. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO ESTUDO. APROVAÇÃO DO APENADO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTO (ENCCEJA). BASE DE CÁLCULO. OBSERVÂNCIA ÀS DISPOSIÇÕES EXPRESSAS DOS ARTS. 1º, IV, DA RECOMENDAÇÃO Nº 44/2013 DO CNJ E 4º, III, DA RESOLUÇÃO Nº 03/2010 DO CNE. ILEGALIDADE NÃO CONFIGURADA. PARECER PELO DESPROVIMENTO DO RECURSO ”
+    É o relatório. Decido.
+    O art. 126 da Lei de Execuções Penais garante ao condenado que cumpre pena em regime fechado ou semiaberto a remição da pena por estudo, na medida de um dia de pena a cada doze horas de frequência escolar. Além disso, garante um acréscimo de um terço na remição em caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena.
+    O Conselho Nacional de Justiça editou a Recomendação n° 44/2013, para regulamentar a remição por estudo, no caso de o condenado estudar por contra própria, ou seja, sem comprovada frequência escolar, e ser aprovado no ENCCEJA (Exame Nacional para Certificação de Competência de Jovens e Adultos) ou no ENEM (Exame Nacional do Ensino Médio).
+    O art. 1º, IV, da Recomendação n° 44/2013 do CNJ, que descreve a forma de cálculo da remição, possui a seguinte dicção:
+    “(...) considerar, como base de cálculo para fins de cômputo das horas, visando à remição da pena pelo estudo, 50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino [fundamental ou médio - art. 4º, incisos II, III e seu parágrafo único, todos da Resolução n. 03/2010, do CNE], isto é, 1600 (mil e seiscentas) horas para os anos finais do ensino fundamental e 1200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio”. (com meus grifos)
+    Esta Suprema Corte firmou entendimento no sentido de considerar válida a base de cálculo de 50% da carga horária definida em lei para cada nível de ensino, nos termos da Recomendação n° 44/2013 do CNJ. Ilustram esse entendimento as seguintes decisões: (HC 173.960/SC, Ministra Cármen Lúcia; RHC 173.208/SC, Ministro Gilmar Mendes; RHC 174.894-AgR/SC, Ministro Roberto Barroso; RHC 192.831-AgR/SC, Ministro Alexandre de Moraes).
+    Entendo, desse modo, que não merece reparo o acórdão recorrido, eis que, diversamente do que pretendido pela parte recorrente, ao valorar a quantidade de dias remidos, o Superior Tribunal de Justiça o fez de acordo com a jurisprudência firmada por esta Suprema Corte.
+    Em face do exposto, nego provimento ao recurso ordinário.
+    Intime-se. Publique-se.
+    Brasília, 14 de dezembro de 2020.
+Ministro NUNES MARQUES
+Relator
