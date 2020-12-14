@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Distrito Federal e Territórios confirmou o entendimento do Juízo quanto à improcedência do pedido de suprimento judicial de autorização para a instalação de fundação. No extraordinário cujo trânsito busca alcançar, a recorrente aponta violados os artigos 5º, inciso LVII, e 93, inciso IX, da Constituição Federal. Afirma nulo o julgamento dos embargos declaratórios por ausência de prestação jurisdicional. Alega se limitar a supervisão do Ministério Público sobre as fundações à análise da licitude do objeto, possibilidade de manutenção e prazo de existência. Sustenta violar o princípio da presunção de inocência a negativa de autorização para instalação de fundação em razão de condenação por improbidade administrativa não transitada em julgado.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Eis a síntese do acórdão recorrido:
+    AÇÃO SUPRIMENTO JUDICIAL. FIXAÇÃO PONTOS CONTROVERTIDOS DA LIDE. NULIDADE. INEXISTENTE. NEGATIVA DE AUTORIZAÇÃO DE INSTALAÇÃO DE FUNDAÇÃO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO. VIOLAÇÃO DO PRINCÍPIO DA PRESENUÇÃO DE INOCÊNCIA. INEXISTENTE. OBSERVÂNCIA DA MORALIDADE PÚBLICA. RECURSO NÃO PROVIDO.
+    Tendo a sentença julgado a lide com base nos pontos controvertidos nos autos, inexiste qualquer nulidade no processo, sobretudo se não trouxe prejuízo às partes (pas de nullité sans grief).
+    Nos termos do atual ordenamento jurídico brasileiro, em especial o Código Civil de 2002 e o Código Processual Civil, incumbe ao Ministério Público do Estado velar pelas fundações nele situadas, detendo sobre tais entidades rigoroso controle, desde sua constituição, passando pelos atos de administração extraordinário, até sua eventual extinção, sendo inconteste a legitimidade do Ministério Público para negar a autorização para instalação de fundação, devido ao amplo espectro de incidência de sua veladura.
+    Não se mostra razoável deferir autorização para instalação de fundação que responde a diversas ações civis públicas que colocam em questionamento a idoneidade da instituição, ante os fundados indícios de prática de atos de improbidade administrativa, os quais infringem a moralidade pública, não importando a negativa em violação ao princípio da presunção de inocência.
+    A tutela da coletividade se sobrepõe aos interesses individuais, sendo legítima a exigência de uma vida pregressa compatível com a relevância do interesse social perseguido por uma fundação, mormente ante a premente necessidade de robustecer a moralidade e probidade administrativas.
+    Apelação conhecida e não provida.
+    As razões do extraordinário partem de pressupostos fáticos estranhos à decisão atacada, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    O acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+     3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 14 de dezembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
