@@ -1,0 +1,15 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – SUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – INDEFERIMENTO.
+    1. O assessor William Akerman Gomes assim retratou o habeas corpus:
+    O Juízo da Vara Única da Comarca de Garopaba/SC, no processo nº 5002078-22.2020.8.24.0167, converteu em preventiva a prisão temporária do paciente, ocorrida em 6 de outubro de 2020, e de outras pessoas, ante o crime do artigo 2º (integrar organização criminosa) da Lei nº 12.850/2013. Aludiu a conteúdo de interceptações telefônicas determinadas no âmbito da “Operação Ordem Urbana”, a revelar a atuação do grupo perante a Administração Pública, na prática de parcelamento irregular de solo, movimentação de grande quantidade de dinheiro e realização de negócios imobiliários ilícitos. Destacou o papel do paciente, servidor público da Prefeitura de Imbituba/SC, responsável pelos negócios imobiliários da organização. Concluiu indispensável a custódia para garantir as ordens pública, econômica e a instrução criminal, realçando possuir, mesmo após a exoneração do cargo de Assistente de Chefe de Departamento da Secretaria Municipal de Desenvolvimento Urbano, influência e envolvimento com outros investigados, a demonstrar a possibilidade de reiteração.
+    No Superior Tribunal de Justiça, o Relator indeferiu o pedido de implemento de liminar no habeas corpus nº 630.780/SC.
+    Os impetrantes sustentam a insubsistência dos fundamentos da decisão que implicou a prisão preventiva. Apontam a exoneração do paciente e a suficiência de medidas cautelares diversas previstas no artigo 319 do Código de Processo Penal. Sublinham as condições pessoais – primário, bons antecedentes, residência fixa, família constituída e habilitação profissional lícita para corretagem de imóveis.
+    Requerem, no campo precário e efêmero, o afastamento. No mérito, buscam a confirmação da providência.
+    2. O Juízo, ao determinar a prisão, destacou materialidade e indícios de autoria, aludindo a conteúdo de interceptações telefônicas autorizadas, no que evidenciado o envolvimento do paciente e outros acusados em grupo voltado ao cometimento de crimes contra a Administração Pública de Garopaba e Imbituba, em Santa Catarina, consistentes em parcelamento irregular de solo, movimentação de grande quantidade de dinheiro e negócios imobiliários ilícitos. Salientou possuir influência e envolvimento com os demais investigados, mesmo após ser exonerado do cargo. O quadro indica em jogo a preservação da ordem pública. Sem prejuízo do princípio constitucional da não culpabilidade, a custódia mostrou-se viável, ante a periculosidade, ao menos sinalizada. Daí ter-se como fundamentado o ato. A inversão da ordem do processo-crime – no que direciona a apurar para, selada a culpa, em verdadeira execução da pena, prender – foi justificada, atendendo-se ao figurino legal.
+    3. Indefiro a liminar.
+    4. Colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 15 de dezembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
