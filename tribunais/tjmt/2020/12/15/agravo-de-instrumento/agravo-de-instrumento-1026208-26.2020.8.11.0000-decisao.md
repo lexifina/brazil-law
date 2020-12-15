@@ -1,0 +1,17 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pela H.M.C. - HOSPITAL E MATERNIDADE CLÍNICA DA CRIANÇA LTDA, com o fito de suspender a decisão que, nos autos da Ação de Imissão de Posse no 0005167-49.2020.811.0055, ajuizada por COOPERATIVA DE CRÉDITO DOS MÉDICOS, PROFISSIONAIS DA SAÚDE E EMPRESÁRIOS DE MATO GROSSO, deferiu o pedido de tutela de urgência e determinou que o agravante desocupe o imóvel objeto da lide, no prazo de 60 (sessenta) dias, sob pena de multa diária de R$ 2.000,00 (dois mil reais), limitada a R$ 400.000,00 (quatrocentos mil reais).
+Para tanto, o agravante alega que, ao contrário do entendimento exteriorizado pelo Juízo a quo, os requisitos da tutela de urgência concedida em favor da agravada não foram suficientemente demonstrados, sobretudo porque o procedimento extrajudicial que culminou na consolidação da propriedade do bem imóvel em favor da cooperativa agravada está repleto de vícios que o torna nulo.
+Afirma que, além de não terem sido intimados todos os devedores da realização do leilão, a agravada não apresentou a planilha analítica demonstrativa da dívida a ser purgada; encaminhou a notificação acerca dos leilões para endereço distinto daquele constante na cédula de crédito bancário e ainda a entregou à pessoa que não tinha legitimidade para recebê-la; publicou os editais dos leilões em comarca distinta da situação do imóvel e também não observou o prazo de 30 (trinta) dias para a realização da praça, conforme dispõe o art. 27 da Lei no 9.514/97.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre consentâneos com aqueles que, por outro lado, decorrem da decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Nesse sentido, os ensinamentos de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+É que, as supostas irregularidades acerca da realização das hastas públicas realizadas pela cooperativa agravada deveriam ter sido arguidas em tempo, quando da realização dos leilões e não somente agora, quando já consolidada a propriedade em favor da instituição financeira agravada, pelo que, em princípio, é inafastável o reconhecimento da preclusão.
+Ademais, desde o momento em que o agravante alienou fiduciariamente os imóveis em garantia da dívida contraída, tinha ciência de que o não pagamento do débito ensejaria a expropriação deles, o que reforça a inoportunidade do momento para as insurgências apontadas nas razões recursais.
+Assim, ao menos nesse instante, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
