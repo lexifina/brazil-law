@@ -1,0 +1,16 @@
+Decisão: Trata-se de embargos de declaração (eDOC 13) opostos em face de decisão monocrática por meio da qual não conheci do agravo interposto pela defesa no ponto em que foi aplicada a repercussão geral e neguei seguimento ao recurso quanto ao restante, e, na mesma assentada, dei provimento do recurso extraordinário do Ministério Público para reformar o acórdão do STJ que havia declarado a prescrição da pretensão punitiva (eDOC 11).
+    Nas razões recursais, os embargantes alegam que “[a] decisão ora embargada, ao negar seguimento ao apelo extremo dos ora embargantes, fez acarretar, em prejuízo dos réus, manifesta usurpação supressão de instância, porquanto pendentes de julgamento perante o STJ Embargos de Divergência manejados pela defesa.”
+    Afirmam, ademais, que a prescrição da pretensão punitiva se encontra consumada mesmo considerando o acórdão que confirmou a condenação como marco interruptivo.
+    À vista do exposto, requerem: a) seja a decisão embargada tornada sem efeito no que diz respeito à negativa de seguimento do recurso extraordinário interposto pelos réus; b) seja declarada a prescrição da pretensão punitiva no caso dos autos.
+    É o relatório. Decido.
+    Sem razão o embargante.
+    Registro, inicialmente, que os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, dúvida, contradição ou obscuridade, conforme dispõem os arts. 337 do RISTF e 619 do CPP, o que não ocorre no presente caso.
+    Verifico não ser o caso de supressão de instância quanto à negativa de seguimento ao recurso defensivo. Com efeito, é cabível o recurso extraordinário, para o Supremo Tribunal Federal, de causas decididas em única ou última instância, para discutir ofensa a matéria constitucional, nos termos do art. 102, III, a, da Constituição Federal, como se nota do recurso interposto contra acórdão do Tribunal de origem, em que se apontou ofensa ao art. 5º, XXXVII, LIII, LIV e LV, da Constituição Federal e à Súmula 696 desta Corte.
+    Ademais, importa ressaltar que não há risco de decisões conflitantes na apreciação dos recursos especial e extraordinário, tendo em vista que a matéria constitucional veiculada no apelo extremo interposto pela defesa sequer chegou a ser apreciada, em razão da ausência de fundamentação suficiente da existência de repercussão geral, o que obsta o conhecimento do recurso e, consequentemente, o exame das demais questões suscitadas pelos recorrentes.
+    De mais a mais, no que diz respeito ao reconhecimento da prescrição, ainda que se trate de matéria de ordem pública, verifico que, diante da possibilidade de ocorrência de causas impeditivas, interruptivas ou suspensivas do curso prescricional, recomendável que o pleito de reconhecimento da prescrição da pretensão punitiva seja enfrentado em sede própria, sobretudo porque, como alegado pela própria defesa, há embargos de divergência pendentes de apreciação pelo Superior Tribunal de Justiça.
+    Ante o exposto, rejeito os embargos de declaração, com fulcro no art. 21, § 1º, do RISTF, bem como no art. 620, § 2º, CPP.
+    Publique-se. Intime-se.
+    Brasília, 15 de dezembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
