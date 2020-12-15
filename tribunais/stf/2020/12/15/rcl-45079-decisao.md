@@ -1,0 +1,41 @@
+Decisão: Trata-se de reclamação constitucional proposta por Flávio da Costa Silva, em face do Juiz de Direito da Vara de Execuções Penais da Comarca de Ribeirão das Neves, por suposta violação ao Recurso Extraordinário 972.598/RS.
+    Na petição inicial, o reclamante alega que foi julgado por falta grave – fuga – pela Vara de Execuções Penais em 27.8.2020. Em razão deste julgamento, foi encaminhado à cela destinada a detentos que cumprem sanção disciplinar no dia 20 de novembro de 2020.
+    Afirma que foi também submetido a julgamento administrativo perante o Conselho Disciplinar da unidade prisional em razão da mesma falta grave, tendo sido apenado com 26 (vinte e seis) dias de isolamento.
+    Argumenta, ainda, ter tido seu direito à defesa cerceado, por ter sido privado de assistência de sua advogada perante o Conselho Disciplinar.
+    Requer, portanto, a anulação do procedimento administrativo disciplinar. (eDOC 1).
+    Solicitei informações à autoridade reclamada. (eDOC 11).
+    As informações foram prestadas. (eDOC 14).
+    É o relatório.
+    Decido.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Inicialmente, a respeito do cabimento da reclamação para o STF, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I – preservar a competência do tribunal;
+    II – garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    No caso, pretende o reclamante a observância ao decidido no Recurso Extraordinário nº 972.598/RS. No julgamento, ao apreciar o tema 941 da repercussão geral, este Tribunal firmou a seguinte tese:
+     "A oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena"
+    Vale acrescentar a ementa do referido julgado, que restou assim assentada:
+    “Processual penal. Recurso extraordinário. Execução penal. Prévio procedimento administrativo disciplinar para o reconhecimento de falta grave. Desnecessidade. Audiência em juízo na qual assegurados o contraditório e a ampla defesa. Provimento do Recurso. 1. O Supremo Tribunal Federal tem entendido que a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena. 2. No sistema de jurisdição una, o procedimento judicial conta com mais e maiores garantias que o procedimento administrativo, razão pela qual o segundo pode ser revisto judicialmente, prevalecendo a decisão judicial sobre a administrativa. 3. Por outro lado, em um sistema congestionado como o da Execução Penal, qualquer atividade redundante ou puramente formal significa desvio de recursos humanos da atividade principal do Juízo, inclusive e notadamente a de assegurar os benefícios legais para que ninguém permaneça no cárcere por período superior à condenação. 4. Desse modo, a apuração de falta grave em procedimento judicial, com as garantias a ele inerentes, perante o juízo da Execução Penal não só é compatível com os princípios do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF) como torna desnecessário o prévio procedimento administrativo, o que atende, por igual, ao princípio da eficiência de que cuida o art. 37 da Constituição Federal. 5. Provimento do Recurso com a afirmação da seguinte tese: “A oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena”. (RE 972598, Rel. Min. Roberto Barroso, Tribunal Pleno, DJe 06.08.2020)
+    Ao prestar informações, a autoridade coatora afirmou que inicialmente foi realizada audiência de justificação perante o Juiz da Execução Penal. Posteriormente, foi realizado o julgamento administrativo perante o Conselho Disciplinar da Penitenciária:
+    “O reclamante cumpre o remanescente de 07 anos de pena privativa de liberdade, em regime fechado.
+    Quanto ao alegado descumprimento dos parâmetros fixados no RE 972.598/RS, registro, por oportuno, o reconhecimento da falta grave (fuga com recaptura em 16.12.2019) em audiência de justificação realizada por videoconferência com a participação da defensora e do Ministério Público.
+    No momento da audiência de justificação, o Procedimento Administrativo Disciplinar não havia sido concluído e aplicaram-se as consequenciais judiciais do reconhecimento da falta grave, quais sejam, a anotação da falta, a regressão de regime e a fixação de novo marco para obtenção de benefícios.
+    Com o restabelecimento dos julgamentos pelo Conselho Disciplinar, que foram suspensos durante o período mais crítico da pandemia do novo coronavírus no Estado, a Unidade Prisional concluiu o julgamento administrativo dos fatos, com o reconhecimento da prática de falta grave e a aplicação da sanção de 26 dias de isolamento, cujo início de cumprimento ocorreu em 20.11.2020.
+     A Defesa do reclamante requereu, nos autos de execução de penas, a anulação do Procedimento Administrativo Disciplinar.
+    Este Juízo indeferiu o pedido e a Defesa agravou da decisão.
+    Salvo decisão soberana do Excelso Pretório, as esferas administrativa e judicial são independentes e o reconhecimento de falta grave em cada uma possui consequências diversas.” (eDOC 14)
+     Ou seja, a providência adotada pelo Juízo reclamado é destoante do teor do Recurso Extraordinário nº 972.598, no qual restou decidido que a oitiva do condenado pelo Juízo da Execução Penal em audiência de justificação afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD).
+    Conforme ressaltei no julgado do referido recurso extraordinário, os princípios constitucionais são pressupostos de validade do procedimento administrativo disciplinar, e não o contrário. O procedimento administrativo disciplinar não é pressuposto de validade para realização dos princípios constitucionais. A consequência lógica de tal equação jurídica é que o procedimento administrativo disciplinar é dispensável para a decisão judicial que reconhece a falta grave, no curso da execução penal, se o exercício do direito ao contraditório e à ampla defesa, por meio de defesa técnica devidamente habilitada, respeitando-se o devido processo legal, se der de forma plena, porém, de outro modo que não seja no curso do procedimento administrativo disciplinar.
+    Vale destacar que o contraditório e a ampla defesa foram assegurados na audiência de justificação, realizada por videoconferência com a participação da defensora e do Ministério Público. (eDOC 14, p. 3).
+    Ante o exposto, julgo procedente a reclamação para determinar ao Juiz de Direito da Vara de Execuções Penais da Comarca de Ribeirão das Neves a anulação do procedimento administrativo realizado no dia 19.11.2020, mantendo a condenação por falta grave definida na audiência de justificação.
+    Intimem-se. Publique-se.
+    Comunique-se com urgência.
+    Brasília, 15 de dezembro de 2020.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
