@@ -1,0 +1,22 @@
+DECISÃO MONOCRÁTICA
+Trata-se de embargos de declaração opostos por BANCO PAN S.A., por existência de omissão no acórdão embargado.
+Argumenta que a omissão se deu em relação ao termo inicial dos juros de mora, uma vez que deveria ser a partir da citação.
+Contrarrazões apresentadas no id. 63572494.
+Certificada a tempestividade no movimento de n. 62741530.
+É o breve relatório.
+Fundamento e Decido.
+Os Embargos de Declaração têm por finalidade aclarar obscuridade, resolver eventual contradição, suprir omissão encontrada ou, ainda, corrigir erro material.
+Trata-se, pois, de meio recursal expressamente vinculado aos vícios acima expostos, sendo inadmissível a sua utilização para a rediscussão do pronunciamento jurisdicional.
+No caso, a parte embargante insurge-se contra o acórdão que, por unanimidade, conheceu do recurso interposto e negou provimento.
+Deste modo, claramente, quer a embargante, por via transversa, a rediscussão do julgado, sendo que o tópico foi devidamente apreciado no acórdão.
+Desta feita, os embargos de declaração não são a via adequada para os casos de irresignação. Neste sentido, pacífica a jurisprudência do Superior Tribunal de Justiça e desta Turma Recursal:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. AUSÊNCIA DE DANOS MORAIS. MERO DESCUMPRIMENTO CONTRATUAL. PRECEDENTES. REEXAME. SÚMULA N. 7/STJ. HONORÁRIOS. OBRIGAÇÃO DE FAZER. ART. 20, § 4°, DO CPC/73. SÚMULA 83/STJ. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS. 1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso. 2. Embargos de declaração rejeitados. (EDcl no AgInt no REsp 1270321/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2020, DJe 17/03/2020)
+EMBARGOS DE DECLARAÇÃO – ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO NA APRECIAÇÃO DA PROVA – TESE DE VISTORIA UNILATERAL – EMBARGOS COM EFEITOS INFRINGENTES – TESES DEVIDAMENTE APRECIADAS – REDISCUSSÃO DA MATÉRIA – IMPOSSIBILIDADE – EMBARGOS DECLARATÓRIOS REJEITADOS. Os embargos declaratórios somente podem ser interpostos na estrita hipótese de obscuridade, contradição, omissão ou erro material porventura existente na decisão proferida, nos termos do artigo 48, da Lei no 9.099/95 c/c artigo 1.022 do Código de Processo Civil. Não havendo qualquer dos vícios acima apontados e tendo a matéria ora invocada sido devidamente enfrentada no julgamento devem os embargos ser rejeitados , por se tratar de mera tentativa de rediscussão da matéria, o que se mostra vedado. Embargos declaratórios rejeitados . (N.U 1000840-96.2018.8.11.0028, TURMA RECURSAL, LUCIA PERUFFO, Turma Recursal Única, Julgado em 12/03/2020, Publicado no DJE 13/03/2020)
+EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. AUSÊNCIA DE INCIDÊNCIA DAS HIPÓTESES LEGAIS DO ARTIGO 1.022, INCISOS I A III, DO NOVO CÓDIGO DE PROCESSO CIVIL E ARTIGO 48 DA LEI N.o 9.099/95. EMBARGOS CONHECIDOS E REJEITADOS . 1. O recurso de Embargos de Declaração não se presta à rediscussão de matéria já apreciada e, no caso, o que pretende a Embargante é a obtenção de nova decisão ou interpretação sobre questões de fato presentes nos autos, para amoldá-lo aos seus próprios interesses. 2. Assim, não se tem presentes quaisquer das hipóteses de cabimento dos embargos declaratórios. 3. Embargos de Declaração rejeitados . (N.U 0001677-52.2014.8.11.0015, TURMA RECURSAL, LAMISSE RODER FEGURI ALVES CORREA, Turma Recursal Única, Julgado em 13/02/2020, Publicado no DJE 14/02/2020)
+Dessa forma, sem que se aponte erro material, contradição, obscuridade ou omissão de questão fundamental à argumentação desenvolvida no decisum impõe-se o não acolhimento dos embargos.
+Por fim, registro que no presente caso trata-se de inexistência de vínculo contratual, sendo a responsabilidade extracontratual, nos termos da Súmula 54 do STJ, bem como os juros não foram objeto de discussão recursal.
+Ausente os vícios, CONHEÇO dos embargos opostos, porque tempestivos, mas rejeito-os, por ser inadmissível dentro das hipóteses legais.
+Intimem-se. Cumpra-se.
+Preclusa a via recursal, retornem os autos à origem.
+Juiz Antônio Veloso Peleja Júnior
+Relator
