@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de reclamação contra ato praticado pelo Juízo da 5ª Vara Federal Criminal do Rio de Janeiro em que se articula violação à Súmula Vinculante 14 nos autos da prisão temporária 5071578-65.2020.4.02.5101.
+    Pugna-se pela procedência da reclamação a fim de que seja garantido à defesa o direito de acesso ao referido processo.
+    É o relatório. Decido.
+    1. O cabimento da reclamação, instituto jurídico de natureza constitucional, deve ser aferido nos estritos limites das normas de regência, que somente a concebem para preservação da competência do Tribunal e para garantia da autoridade de suas decisões (art. 102, I, l, CF), bem como contra atos que contrariem ou indevidamente apliquem súmula vinculante (art. 103-A, § 3º, da CF).
+    Portanto, a função precípua da reclamação constitucional reside na proteção da autoridade das decisões de efeito vinculante proferidas pela Corte Constitucional e no impedimento de usurpação da competência que lhe foi atribuída constitucionalmente. A reclamação não se destina, destarte, a funcionar como sucedâneo recursal ou incidente dirigido à observância de entendimento jurisprudencial sem força vinculante.
+    2. Fixadas tais premissas, consigno que a Súmula Vinculante 14/STF enuncia que:
+    “É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.”
+    3. No caso concreto, a decisão reclamada indefere o pedido de acesso em razão de estar pendente o cumprimento de diligência autorizada (eDOC 5).
+    Nesse contexto, não verifico, por ora, qualquer violação à Súmula Vinculante 14 do STF. O indeferimento do pedido de acesso aos autos foi devidamente justificado em decorrência do necessário sigilo das diligências em curso, sob pena de frustrá-las.
+    Nessa linha:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. CONSTITUCIONAL E PROCESSUAL PENAL. DESCUMPRIMENTO DA  SÚMULA  VINCULANTE  14  NÃO VERIFICADO. ACESSO DOS ADVOGADOS AOS AUTOS DE INQUÉRITO, RESSALVADAS AS  DILIGÊNCIAS  EM ANDAMENTO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A reclamação perante o Supremo Tribunal Federal será sempre cabível para: (i) preservar a competência do Tribunal; (ii) garantir a autoridade de suas decisões; e (iii) garantir a observância de  enunciado de Súmula  Vinculante  e de decisão desta Corte em controle concentrado de constitucionalidade, nos termos do art. 988 do Código de Processo Civil. II – A decisão questionada está em perfeita consonância com o texto da   Súmula  Vinculante  14, pois indeferiu o pedido de vista dos autos do Inquérito Policial feito pela defesa do investigado, até que   diligências  em  curso  sejam concluídas. III – No decorrer da instrução criminal, a defesa poderá acessar todo o acervo probatório, na medida em que as  diligências  forem concluídas, sem que isso configure afronta à  Súmula  Vinculante  14. IV – A reclamação só pode ser utilizada para as hipóteses constitucionalmente previstas, não sendo meio adequado para discutir procedimentos ou eventual inidoneidade das  diligências  determinadas na investigação. V – Agravo regimental a que se nega provimento. (Rcl 38775 AgR, Relator Ricardo Lewandowski, Segunda Turma, DJe 31.03.2020)
+    4. Ante o exposto, com fulcro no art. 21, § 1°, do RISTF, nego seguimento à reclamação.
+    Publique-se. Intime-se.
+    Brasília, 16 de dezembro de 2020.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
