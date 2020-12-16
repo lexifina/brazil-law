@@ -1,0 +1,25 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA. INDEFERIMENTO DA AÇÃO. PRESERVAÇÃO DOS EFEITOS DA LIMINAR ATÉ A DATA DA DECISÃO. EMBARGOS ACOLHIDOS PARA ESCLARECER A PARTE DISPOSITIVA FINAL DO JULGADO.
+Relatório
+    1. Em 9.11.2020, o presente mandado de segurança foi indeferido, mantidos os efeitos da liminar concedida em razão do período alongado de sua vigência, em decisão com a seguinte ementa:
+    “MANDADO DE SEGURANÇA CONTRA ATO DE PRESIDENTE DA REPÚBLICA. CAPITALIZAÇÃO COMPOSTA DE JUROS NA DÍVIDA PÚBLICA DE ESTADO-MEMBRO. COMPOSIÇÃO DA LIDE. INDEFINIÇÃO DO QUADRO FÁTICO: AUSÊNCIA DE ATO ABUSIVO E ILEGAL LESIVO A DIREITO LÍQUIDO E CERTO. AUSÊNCIA DAS CONDIÇÕES CONSTITUCIONAIS DA IMPETRAÇÃO. PRECEDENTES. MANDADO DE SEGURANÇA INDEFERIDO” (e-doc. 148).
+    2. Intimada a União em 20.11.2020, opõe, tempestivamente, embargos de declaração (e-doc. 159).
+    A embargante retoma a exposição dos fatos e fundamentos havidos na decisão embargada assentando que “a Ministra Relatora extinguiu o presente mandado de segurança – por ausência de liquidez e certeza do direito invocado – mas manteve os efeitos da medida liminar, em razão “do período alongado de sua vigência” (fl. 4, e-doc. 159).
+    Afirma que, “por uma perspectiva objetiva, entende-se que a Ministra Relatora modulou os efeitos retroativos típicos da decisão de indeferimento do mandado de segurança. Isso significa que a medida liminar vigora até a data da decisão extintiva, a partir de quando perde os seus efeitos” (fl. 9, e-doc. 159).
+    Salienta os termos da “Súmula nº 405 desse STF, segundo a qual ‘Denegado o mandado de segurança pela sentença, ou no julgamento do agravo dela interposto, fica sem efeito a liminar concedida, retroagindo os efeitos da decisão contrária’” (fl. 4, e-doc. 159).
+    Assevera que “a redação da decisão dá margem a uma segunda interpretação: a de que os efeitos da medida liminar perdurariam apesar do indeferimento do mandado de segurança. Em outras palavras, mesmo que extinto o processo, o Estado do Amapá continuaria a gozar dos “termos dos ajustes negociados com os Estados, conforme a ata da reunião realizada no dia 20/6/16”, de modo indefinido no tempo” (fl. 6, e-doc. 159).
+    Pondera que, “a fim de apenas assegurar o fiel cumprimento da decisão pelos órgãos competentes, bem como evitar alegações de descumprimento ou recalcitrância, é salutar que seja esclarecido o dispositivo do decisum, para que conste expressamente que a manutenção dos efeitos da medida liminar limita-se à data de prolação da decisão que indeferiu o mandado de segurança” (fl. 6, e-doc. 159).
+    Pede “o conhecimento e provimento dos presentes embargos de declaração, a fim de que sejam prestados esclarecimentos quanto à parte dispositiva da decisão, na forma da fundamentação retro expendida” (fls. 6, e-doc. 159).
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. Razão jurídica assiste à embargante.
+    4. A análise da questão posta nos presentes embargos há de ser feita monocraticamente, nos termos do § 2º do art. 1.024 do Código de Processo Civil (RE n. 926.941-ED, Relator o Ministro Celso de Mello, DJe 20.5.2016; RE n. 759.624-ED, Relator o Ministro Roberto Barroso, DJe 16.5.2016; e ARE n. 938.544-ED, Relator o Ministro Celso de Mello, DJe 17.5.2016).
+    5. Pela legislação de regência e dos precedentes deste Supremo Tribunal os embargos de declaração prestam-se a sanar eventuais vícios de obscuridade, contradição ou omissão dos julgados, não podendo ser utilizados para provocar nova apreciação da matéria.
+    Na espécie, o mandado de segurança foi indeferido por não haver quadro fático definido caracterizador de ilegalidade ou abuso de poder, requisitos legais para a impetração e por ausência de certeza dos fatos resultante da indefinição antes mencionada, evidenciando a ausência de liquidez do direito alegado.
+    Foram , na parte dispositiva da decisão embargada, “os efeitos da liminar concedida em razão do período alongado de sua vigência” (fl. 9, e-doc. 148).
+    Pela necessidade de se dotar de segurança jurídica o quadro descrito nos autos, como conclui a embargante, “modul[aram-se] os efeitos retroativos típicos da decisão de indeferimento do mandado de segurança. Isso significa que a medida liminar vigora até a data da decisão extintiva, a partir de quando perde os seus efeitos” (fl. 4, e-doc. 159).
+    De se esclarecer, portanto, considerado o que posto no dispositivo, que a manutenção dos efeitos da liminar deferida nesta ação foram resguardados até a data da decisão de indeferimento do mandado de segurança, sem efeitos prospectivos.
+    6. Pelo exposto, acolho os presentes embargos para, esclarecendo a parte dispositiva da decisão, realçar que os efeitos da liminar deferida são mantidos até a data do indeferimento do mandado de segurança (§ 2º do art. 1.024 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de dezembro de 2020.
+Ministra CÁRMEN LÚCIA
+Relatora
