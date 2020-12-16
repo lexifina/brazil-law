@@ -1,0 +1,23 @@
+DECISÃO
+RECLAMAÇÃO – RECURSO EXTRAORDINÁRIO COM AGRAVO Nº 1.121.633 – REPERCUSSÃO GERAL – SUSPENSÃO – INOBSERVÂNCIA NA ORIGEM – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Avivar Alimentos Ltda. afirma haver o Relator do agravo de instrumento em recurso de revista nº 12545-63.2016.5.03.0057, integrante do Tribunal Superior do Trabalho, desrespeitado o decidido no recurso extraordinário com agravo nº 1.121.633, relator ministro Gilmar Mendes, submetido ao regime da sistemática da repercussão geral.
+    Narra estar em jogo, no recurso de revista interposto, discussão sobre a validade de norma coletiva por meio da qual suprimido o pagamento de horas em deslocamento. Ante a inadmissão deste, sobreveio agravo de instrumento, no que assentada a ausência de transcendência da matéria, surgindo o alegado descompasso.
+    Sustenta ter o Supremo, no processo objetivo dito inobservado, admitido a repercussão geral da matéria, a revelar inadequado impedir a sequência de agravo de instrumento em recurso de revista ante apontada falta de transcendência do tema. Conforme argumenta, o ministro Gilmar Mendes, com base no artigo 1.035, § 5º, do Código de Processo Civil determinou, em 28 de junho de 2019, a suspensão de todos os processos em curso nos quais debatida a questão.
+    Requereu, no campo precário e efêmero, a suspensão da decisão impugnada e do processo originário, até o desfecho do recurso extraordinário com agravo nº 1.121.633. Busca a confirmação da medida acauteladora e a cassação do pronunciamento atacado.
+    Vossa Excelência, em 23 de setembro de 2019, acolheu o pedido de implemento de liminar, determinando a suspensão da eficácia do acórdão atacado e da tramitação do processo até o julgamento do recurso extraordinário com agravo nº 1.121.633.
+    O Órgão Reclamado, em informações, sublinha alcançada a preclusão maior em 10 de setembro de 2019, ocasião na qual foi remetido o processo ao Tribunal Regional do Trabalho da 3ª Região em 13 de setembro seguinte. Frisa ter dado ciência ao Presidente do Regional quanto à suspensão determinada por Vossa Excelência.
+    A interessada, Fabriene Aparecida Santos Oliveira, não apresentou contestação, conforme certidão de 11 de fevereiro de 2020.
+    O Ministério Público Federal manifesta-se pela procedência do pedido. Diz ser o ato reclamado posterior à determinação de suspensão dos processos versando a temática do recurso extraordinário com agravo nº 1.121.633, tendo como presente, no caso em exame, interesses transcendentes à causa.
+    2. A leitura do pronunciamento do Tribunal Superior do Trabalho, de 16 de agosto de 2019, revela em discussão a possibilidade de supressão, por meio de norma coletiva, do pagamento de horas em deslocamento. Confiram o seguinte trecho do ato atacado:
+    […]
+    Com efeito, o Regional destacou a impossibilidade de se reconhecer as normas coletivas que suprimem completamente o pagamento das horas in itinere. Também ficou demonstrado que a região onde a reclamante laborava não era servida por transporte público regular. A decisão está de acordo com o atual entendimento do TST, reafirmado pelo Pleno desta Corte, em 26/9/2016, quando da apreciação de questão semelhante (E-RR-205900-57.2007.5.09.0325).
+    Em relação ao tempo à disposição do empregador, uma vez fixado que a autora despendia 16 minutos diários extras com outras atividades, encontra-se correta a aplicação da Súmula n.º 366 do TST.
+    [...]
+    A controvérsia envolve o tema da liberdade de negociação coletiva, objeto do recurso extraordinário com agravo nº 1.121.633, julgado sob sistemática da repercussão geral. O Relator, ministro Gilmar Mendes, a partir do artigo 1.035, § 5º, do Código de Processo Civil, determinou, em 28 de junho de 2019, a paralisação da tramitação de todas as causas pendentes, individuais ou coletivas, a versarem a matéria. Cumpre observar a determinação.
+    Uma vez admitida a repercussão geral da matéria, o ministro Gilmar Mendes, relator do recurso extraordinário com agravo nº 1.121.633, determinou, em 28 de junho de 2019, com fundamento no artigo 1.035, § 5º, do Código de Processo Civil, a suspensão de todos os processos pendentes, individuais ou coletivos, nos quais versada a aludida questão. Ao impedir a sequência do agravo de instrumento em recurso de revista, o Tribunal de origem acabou por desrespeitar o decidido no paradigma.
+    3. Julgo procedente o pedido para cassar a decisão do Tribunal Superior do Trabalho, formalizada no processo nº 12545-63.2016.5.03.0057, mantendo a suspensão desse último até o julgamento do recurso extraordinário com agravo nº 1.121.633.
+    4. Publiquem.
+Brasília, 16 de dezembro de 2020.
+Ministro MARCO AURÉLIO
+Relator
