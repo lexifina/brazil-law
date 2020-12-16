@@ -1,0 +1,27 @@
+Vistos, etc.
+Agravo de Instrumento interposto por NELSON JOSÉ VIGOLO contra decisão proferida nos autos da ação CARTA PRECATÓRIA no 1006959-17.2019.811.0035, 1a vara Cível da Comarca de Rondonópolis, oriunda da EXECUÇÃO DE TÍTULO EXTRAJUDICIAL n.o 0068224-68.2016.816.0014, em trâmite perante a Segunda Vara Cível da Comarca de Londrina/PR que determinou a expedição de mandado de avaliação, atualização do débito; determinou ainda a realização de leilão público para alienação do imóvel penhorado.
+Aduz o agravante que o valor atribuído ao imóvel em expropriação pelo Oficial de Justiça foi estipulado abaixo do praticado pelo mercado imobiliário regional, em nítido prejuízo ao agravante.
+Defende que a cifra imposta ao imóvel deve ser aquela do mercado imobiliário, a época da venda judicial, justamente para que não haja alienação por preço vil. Aduz que a avaliação não levou em consideração benfeitorias, tipo de soo, relevo, recursos hídricos, manejo, rede elétrica trifásica, acesso à área. Pugna pela realização de nova avaliação, por profissional habilitado.
+Adiante, defende que não houve intimação do devedor da data, hora e local da arrematação, por mandado, carta com aviso de recepção ou por outro meio idôneo.
+Explica que todas as cartas de intimação para realização do leilão retornaram ao remetente sem o devido cumprimento, com a finalidade de intimação para o ato, cujo edital não foi publicado.
+Quanto ao edital explica que “foi expedido com data diversa das praças realizadas na presente data. As datas descritas no Edital para 1a praça a se realizar seria início aos a partir das 08:00 horas até as 10:00 horas aos 16/12/2020, por preço não inferior ao da avaliação, e, 2a praça a partir das 10:01 horas sem previsão de término na data de 16/12/2020. (...) Destarte estamos diante de uma situação típica daquelas descritas na legislação mencionada e, ainda, que se encontrem cumpridas todas a formalidades legais que o caso requer. O Edital não foi publicado, em pleno desamparo ao previsto do códex, visto que a sua expedição se deu em 17 de novembro de 2020 conforme ID> 43716206.”.
+Mais a frente, pondera que “O não cumprimento do artigo supracitado pelo Sr. Leiloeiro fica demonstrada, pois o mesmo não manifestou nos autos com o fito de cumprir com a juntada de informativo de publicação de edital com características de mídia ou jornal de ampla circulação, além do que foi apresentado pela escrivania, cujo qual contém diversos erros na especificação do imóvel, constando apenas a medida da área, sobretudo as datas de realizações das praças.”.
+Defende que nos termos do artigo 889 do CPC, a citação deve ser pessoal do agravante, para a validade da arrematação, já que a parte tem o direito de ter conhecimento acerca do dia em seu bem será praceado, assim como o valor consignado ao bem objeto da execução. Portanto, não basta a intimação do advogado.
+Sob outro aspecto, defende que o juiz não determinou a atualização da avaliação antes da realização do leilão, o que resultou em subvalorização do mesmo.
+No tópico – Da necessidade de intimação dos terceiros interessados, explica que existente Alienação Fiduciária na matricula objeto da expropriação em favor do Banco Votoratim e Produquimica do Brasil, que não foi intimado, bem como não tem ciência da existência da demanda.
+Ao final, liminarmente, requer a concessão do efeito suspensivo, pois, o magistrado determinou a expropriação do imóvel, sem, conduto, levar à baila a conduta da agravada que indicou como parte do imóvel penhorado, porção diversa da constante no laudo de avaliação, que é de propriedade de terceiro; ainda, invoca a tese de essencialidade do imóvel a Empresa BOM JESUS AGROPECUÁRIA, que se encontra em recuperação judicial.
+É relatório.
+DECIDO.
+Para a concessão do efeito pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I – poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando o juiz sua decisão (...)”.
+Pois bem. Pelos documentos acostados aos autos, identifico “prima facie”, as presenças daqueles requisitos.
+Isso porque ao que tudo indica foi designado leilão, o que demonstra o risco ao resultado útil do recurso. Entretanto, imprescindível que a parte traga aos autos toda a documentação necessária para confirmação, pois, não anexou qualquer documento no recurso e não foi possível ter acesso à carta precatória.
+Necessário ainda que faça prova da tempestividade e que as matérias foram levadas a conhecimento do juízo “a quo”.
+Ante todo exposto, concessão, DEFIRO o efeito almejado, sem prejuízo de reanálise.
+Intime-se a parte Agravada, na forma do art. 1.019, II, para que responda no prazo legal.
+Comunique-se ao MM. Juiz da causa, solicitando-se informações complementares.
+Expeça-se o necessário.
+Des. Sebastião Barbosa Farias
+Relator
