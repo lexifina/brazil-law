@@ -1,0 +1,43 @@
+PODER JUDICIÁRIO
+DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+1026478-50.2020.8.11.0000
+AGRAVANTE: UNIMED CUIABA COOPERATIVA DE TRABALHO MEDICO
+AGRAVADO: JUCINEIA APARECIDA DE QUEIROZ
+DES. RUBENS DE OLIVEIRA SANTOS FILHO
+Agravo de Instrumento n. 1026478-50.2020.8.11.0000 de decisão da 7a Vara Cível da Comarca de Cuiabá que, em Ação de Obrigação de Fazer, deferiu a tutela de urgência “para que a parte Requerida UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO, no prazo de 24h (vinte e quatro horas), AUTORIZE TODOS OS PROCEDIMENTOS/TRATAMENTOS MÉDICOS descritos na exordial e indicados à Autora JUCINEIA APARECIDA DE QUEIROZ no combate a obesidade mórbida pós-bariátrica, inclusive em atendimento contínuo da urgência/emergência no hospital indicado para o atendimento pré e pós-operatório pelo tempo necessário à conclusão do tratamento, inclusive em rede não credenciada com aplicação das limitações contratuais que regem os casos de reembolso , até ulterior deliberação, sob pena de MULTA DIÁRIA no valor de R$ 1.500,00 (hum mil e quinhentos reais), em caso de DESCUMPRIMENTO da presente decisão, além das penalidades legais”.
+A agravante argui que “não tem obrigação legal ou contratual de custear procedimentos de caráter eminentemente ESTÉTICOS, sem previsão no rol da Agência Nacional de Saúde, como é o caso da ADBOMINOPLASTIA COM CORREÇÃO DE DIÁSTASE DE RETO ABDOMINAL, ASSOCIADA A TORSOPLASTIA COM RETALHO DE SOZER E LIPOASPIRAÇÃO COM LIPOENXERTIA EM ÁREAS DETERMINADAS, MASTOPEXIA COM PRÓTESES E BRAQUILOPLASTIA, CRUROPLASTIA, e sem que haja demonstração de se tratar de urgência/emergência”.
+Aduz que se passaram anos desde que a agravada fez a cirurgia bariátrica que resultou no excesso de pele, e por isso não há como alegar risco imediato de vida ou de lesões irreparáveis à sua saúde.
+Sustenta que o Rol da ANS não é exemplificativo e sim taxativo e por isso inexiste a obrigação de custeio.
+Argumenta que a medida concedida é irreversível, pois a paciente não teria condições de ressarci-la em caso de improcedência da Ação, além do quê ficaria impossibilitada da produção de prova pericial médica.
+Ressalta a necessidade de caução real ou fidejussória e pede, no final, o efeito suspensivo.
+É o relatório.
+A agravada ingressou em juízo sob a alegação de que em fevereiro de 2016 se submeteu a gastroplastia, custeada pelo plano de saúde (Unimed), e diminuiu aproximadamente 56 quilos.
+Aduz que, diante da expressiva perda de peso teve sobra de pele global e flacidez nos braços, coxas, abdome e mamas, com deformidade mamária e dos demais tecidos.
+Afirma que a agravada negou as cirurgias reparadoras pós-bariátrica.
+Esta, por sua vez, diz que não há previsão contratual nem legal para custear procedimentos estéticos.
+Não obstante as razões recursais, em análise sumária conclui-se que as intervenções pleiteadas não têm caráter estético, e são na verdade um desdobramento da cirurgia de redução de estômago, em que a agravada diminuiu seu peso em quase 56 quilos. Portanto a reparação irá proporcionar-lhe melhoria na qualidade de vida.
+Nesse sentido, acórdão do STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. PACIENTE PÓS-CIRURGIA BARIÁTRICA. DOBRAS DE PELE. CIRURGIAS PLÁSTICAS. NECESSIDADE. CARÁTER FUNCIONAL E REPARADOR. EVENTOS COBERTOS. FINALIDADE EXCLUSIVAMENTE ESTÉTICA. AFASTAMENTO. RESTABELECIMENTO INTEGRAL DA SAÚDE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ).
+2. Estão excluídos da cobertura dos planos de saúde os tratamentos com finalidade puramente estética (art. 10, II, da Lei no 9.656/1998), quer dizer, de preocupação exclusiva do paciente com o seu embelezamento físico, a exemplo daqueles que não visam à restauração parcial ou total da função de órgão ou parte do corpo humano lesionada, seja por enfermidade, traumatismo ou anomalia congênita (art. 20, § 1o, II, da RN/ANS no 428/2017).
+3. Há situações em que a cirurgia plástica não se limita a rejuvenescer ou a aperfeiçoar a beleza corporal, mas se destina primordialmente a reparar ou reconstruir parte do organismo humano ou, ainda, prevenir males de saúde.
+4. Não basta a operadora do plano de assistência médica se limitar ao custeio da cirurgia bariátrica para suplantar a obesidade mórbida, mas as resultantes dobras de pele ocasionadas pelo rápido emagrecimento também devem receber atenção terapêutica, já que podem provocar diversas complicações de saúde, a exemplo da candidíase de repetição, infecções bacterianas devido às escoriações pelo atrito, odores e hérnias, não se qualificando, na hipótese, a retirada do excesso de tecido epitelial como procedimento unicamente estético, ressaindo sobremaneira o seu caráter funcional e reparador. Precedentes.
+5. Apesar de a ANS ter apenas incluído a dermolipectomia no Rol de Procedimentos e Eventos em Saúde para o tratamento dos males pós-cirurgia bariátrica, devem ser custeados todos os procedimentos cirúrgicos de natureza reparadora, para assim ocorrer a integralidade de ações na recuperação do paciente, em obediência ao art. 35-F da Lei no 9.656/1998.
+6. Havendo indicação médica para cirurgia plástica de caráter reparador ou funcional em paciente pós-cirurgia bariátrica, não cabe à operadora negar a cobertura sob o argumento de que o tratamento não seria adequado, ou que não teria previsão contratual, visto que tal terapêutica é fundamental à recuperação integral da saúde do usuário outrora acometido de obesidade mórbida, inclusive com a diminuição de outras complicações e comorbidades, não se configurando simples procedimento estético ou rejuvenescedor.
+7. Em regra, a recusa indevida pela operadora de plano de saúde de cobertura médico-assistencial gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo, portanto, mero dissabor, ínsito às situações correntes de inadimplemento contratual.
+8. O Superior Tribunal de Justiça possui jurisprudência no sentido de que a operadora de plano de saúde deve arcar com os tratamentos destinados à cura da doença, incluídas as suas consequências.
+9. Agravo interno não provido. (AgInt no AREsp 1.434.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 26/8/2019, DJe 30/8/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. OMISSÃO E CONTRADIÇÃO. FUNDAMENTAÇÃO SUFICIENTE E COERENTE PELA CORTE BANDEIRANTE. HIGIDEZ DO ACÓRDÃO IMPUGNADO. INTERVENÇÃO CIRÚRGICA. RECUSA INDEVIDA DE PROCEDIMENTO MÉDICO. OBESIDADE MÓRBIDA. DEVER DE COBERTURA PELA OPERADORA. PRECEDENTES. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+(...)
+3. Esta Corte já se posicionou no sentido de que o plano de saúde pode estabelecer as doenças que terão cobertura, mas não pode limitar o tipo de tratamento a ser utilizado pelo beneficiário.
+4. A jurisprudência do STJ é de que, apesar de a ANS ter apenas incluído a dermolipectomia no Rol de Procedimentos e Eventos em Saúde para o tratamento dos males pós-cirurgia bariátrica, devem ser custeados todos os procedimentos cirúrgicos de natureza reparadora, para assim ocorrer a integralidade de ações na recuperação do paciente, em obediência ao art. 35-F da Lei no 9.656/1998, mormente porque tal terapêutica é fundamental à recuperação integral da saúde do usuário outrora acometido de obesidade mórbida, inclusive com a diminuição de outras complicações e comorbidades, não se configurando simples procedimento estético ou rejuvenescedor (AgInt no AREsp 1.434.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 26/8/2019, DJe 30/8/2019).
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido.
+6. Agravo interno não provido. (AgInt no REsp 1863936/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 26/08/2020)
+De qualquer forma a matéria será aprofundada no mérito, inclusive no tocante à necessidade de caução.
+Importante consignar que o Agravo de Instrumento tem tramitação célere e, tão logo apresentada a contraminuta, será imediatamente incluído em pauta para julgamento.
+Posto isso, indefiro o efeito suspensivo.
+Intime-se a parte adversa para oferecer resposta em 15 dias.
+Cuiabá, 16 de dezembro de 2020.
+Des. Rubens de Oliveira Santos Filho
+Relator
