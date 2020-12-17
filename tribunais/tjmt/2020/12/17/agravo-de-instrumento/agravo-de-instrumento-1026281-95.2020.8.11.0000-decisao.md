@@ -1,0 +1,53 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1026281-95.2020
+AGRAVANTES: ANA PAULA HANSEN E OUTRO
+AGRAVADOS: MARCOS ROBERTO SAEZ GUARDIA E OUTRO
+EMENTA – AÇÃO DE RESCISÃO CONTRATUAL DE CONTRATO DE LOCAÇÃO C/C CONSIGNAÇÃO EM PAGAMENTO E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS – DECISÃO QUE INDEFERIU A TUTELA DE URGÊNCIA QUE PRETENDIA CONSIGNAR EM PAGAMENTO VALORES E OBSTAR A INSCRIÇÃO DO NOME DOS AUTORES/AGRAVANTES NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO – PRESENÇA DOS REQUISITOS LEGAIS NECESSÁRIOS PARA A CONCESSÃO PARCIAL DA LIMINAR – LIMINAR PARCIALMENTE DEFERIDA.
+A simples impossibilidade de inscrição do nome das partes recorrentes nos cadastros restritivos de crédito ou do protesto, não causa qualquer prejuízo econômico aos interesses dos recorridos.
+Trata-se de recurso de agravo de instrumento com pedido liminar interposto por ANA PAULA HANSEN E OUTRO, contra a decisão proferida pela Juízo da 10a Vara Cível da Comarca de Cuiabá que, nos autos da AÇÃO DE RESCISÃO CONTRATUAL DE CONTRATO DE LOCAÇÃO C/C CONSIGNAÇÃO EM PAGAMENTO E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS de no 1026281-95.2020.8.11.0041, movida em desfavor de MARCOS ROBERTO SAEZ GUARDIA E OUTRO, indeferiu o pedido liminar de consignação em pagamento do valor de R$4.860,19 (quatro mil, oitocentos e sessenta reais e dezenove centavos) e de obstaculização da inscrição do nome dos autores, ora recorrentes, nos órgãos de proteção ao crédito e cartórios de protesto.
+Em suas razões, os agravantes alegam que firmaram contrato de locação de imóvel comercial com os agravados em 15.08.2019 pelo prazo de 36 (trinta e seis) meses, no valor mensal de R$3.800,00 (três mil e oitocentos reais) e que, após implementada as benfeitorias acordadas, tiveram problemas com o recorrido Marcos Guardia, vindo em 09.09.2020 optar pela rescisão contratual com apoio na cláusula 2a, § 1o do termo.
+Aduzem que ao comunicarem a imobiliária administradora, foram cobrados pela agravada Rosa Imóveis Ltda. multa no valor de R$7.612,42 (sete mil, seiscentos e doze reais e quarenta e dois centavos) mais o valor do aluguel proporcional ao mês da devolução do imóvel (outubro de 2020).
+Informam que solicitaram a emissão do boleto no valor que entendia devido, qual seja, R$4.860,19 (quatro mil, oitocentos e sessenta reais e dezenove centavos), contudo, lhes fora enviado um boleto na quantia de R$27.745,33 (vinte e sete mil, setecentos e quarenta e cinco reais e trinta e três centavos).
+Sustentam que o Juízo a quo entendeu de forma equivocada ao indeferir seus pleitos liminares, motivo pelo qual pugnam pela antecipação dos efeitos da tutela para obstar que as agravadas inscrevam os seus nomes nos órgãos de proteção ao crédito e cartórios de protesto bem como possibilitem a consignação em pagamento do valor que entendem correto.
+No mérito, pretendem a confirmação da medida liminar vindicada.
+Com as razões recursais, acompanham os documentos anexados ao sistema, dentre eles os exigidos pelo artigo 1.017, I, do CPC.
+É o relatório.
+Decido.
+Dispõe o artigo 1.015 do Código de Processo Civil que, das decisões interlocutórias proferidas pelo Juiz de primeiro grau no transcorrer do processo, o recurso a ser interposto é o agravo de instrumento.
+A tutela recursal postulada exige, para sua concessão, a possibilidade de os efeitos da decisão recorrida causar risco de dano grave, de difícil ou impossível reparação à parte recorrente e ficar demonstrada a probabilidade de provimento do recurso.
+Na espécie dos autos, atento ao expendido na exordial, ao exame da documentação acostada, em juízo provisório, e nos estritos limites da cognição sumária permitida a esta fase processual, tenho que restaram configurados os pressupostos autorizativos da medida excepcional.
+In casu, numa análise perfunctória, restou evidenciada a plausibilidade do direito somente com relação ao pedido de obstaculização da inscrição do nome dos recorrentes nos órgãos de proteção ao crédito e cartórios de protesto, uma vez que estes demonstram que ao tentarem rescindir o contrato de aluguel entabulado entre as partes, isto não foi possível amigavelmente, até mesmo porque há uma discrepância enorme entre os valores que os litigantes entendem ser devidos.
+Coaduno com o entendimento de que é possível, em sede de liminar, sustar os protestos ainda não efetivados e impedir a inscrição do nome do devedor nos órgãos de proteção ao crédito, cujos débitos estão sub judice, ou mesmo, suspender seus efeitos, caso já tenham sido realizados, sendo que, para isso, devem estar presentes os requisitos da concessão da liminar pretendida: fumus boni iuris e periculum in mora, conforme entendimento desta Exímia Câmara.
+Vejamos a seguinte orientação jurisprudencial:
+“RECURSO DE APELAÇÃO CÍVEL - MEDIDA CAUTELAR - SUSTAÇÃO DOS EFEITOS DE PROTESTOS - PROTESTOS CONSUMADOS - INTERESSE E POSSIBILIDADE PRESENTES - ANÁLISE DO PEDIDO LIMINAR - INDEFERIMENTO DA PETIÇÃO INICIAL - IMPOSSIBILIDADE - VIOLAÇÃO DO DUPLO GRAU DE JURISDIÇÃO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No exercício do poder geral de cautela, é possível eventual suspensão dos efeitos de protesto consumado, não havendo que se falar em falta de interesse por perda do objeto da demanda, ante a consumação do protesto, por ser inegável que os seus efeitos do protesto causam prejuízos ao devedor, sendo evidente a necessidade e utilidade do provimento jurisdicional.
+Seguindo o entendimento do STJ “(I) é possível a suspensão dos efeitos dos protestos quando há discussão judicial do débito; (II) a decisão cautelar de sustação de protesto de título insere-se no poder geral de cautela, previsto no art. 798 do CPC; e (III) a sustação de protesto se justifica quando as circunstâncias de fato recomendam a proteção do direito do devedor diante de possível dano irreparável, da presença da aparência do bom direito e quando houver a prestação de contra-cautela.” (REsp 627.759/MG)
+O magistrado, ao ver conclusa a petição inicial de uma ação cautelar, primeiro analisa se a defere ou não e, somente após, concluindo pelo deferimento, é que analisará eventuais medidas requeridas liminarmente.
+Desse modo, a apreciação da existência ou não dos requisitos para a concessão da liminar, nas situações onde houve a reforma do indeferimento da inicial, implica em analisar-se questão não decida pelo magistrado de origem e, bem por isso, pode ensejar violação ao duplo grau de jurisdição.”
+(TJ/MT – Quinta Câmara Cível – Recurso de Apelação Cível no. 92.917/2008 – Julgado em 29/10/2008) (grifo nosso)
+Já o perigo da demora está consubstanciado no fato de estar comprovada, ao menos, a iminência dos protestos e das restrições, o que inequivocamente acarreta malefícios de grande relevância para as partes agravantes.
+Sob tal égide, assim se manifestou o c. Superior Tribunal de Justiça:
+“PROCESSUAL CIVIL. RECURSO ESPECIAL. CAUTELAR DE SUSTAÇÃO DE PROTESTO. EFETIVAÇÃO DO PROTESTO. SUSPENSÃO DOS SEUS EFEITOS. POSSIBILIDADE. PODER GERAL DE CAUTELA E FUNGIBILIDADE ENTRE AS MEDIDAS CAUTELARES E AS ANTECIPATÓRIAS DOS EFEITOS DA TUTELA.
+- O princípio da fungibilidade entre as medidas cautelares e as antecipatórias dos efeitos da tutela confere poder ao juiz para deferir providência de natureza cautelar, a título de antecipação dos efeitos da tutela.
+- Segundo o entendimento do STJ: (i) é possível a suspensão dos efeitos dos protestos quando há discussão judicial do débito; (ii) a decisão cautelar de sustação de protesto de título insere-se no poder geral de cautela, previsto no art. 798 do CPC; e (iii) a sustação de protesto se justifica quando as circunstâncias de fato recomendam a proteção do direito do devedor diante de possível dano irreparável, da presença da aparência do bom direito e quando houver a prestação de contra-cautela.
+- De acordo com o poder geral de cautela e o princípio da fungibilidade entre as medidas cautelares e as antecipatórias dos efeitos da tutela, o perigo de dano pode ser evitado com a substituição da sustação do protesto pela suspensão dos seus efeitos, se o protesto já tiver sido lavrado na pendência da discussão judicial do débito. Recurso especial provido.”
+(STJ - Recurso Especial no 627.759 - MG (2004/0016326-4) – Relatora: Ministra Nancy Andrghi – Julgado em 25/04/2006).” (grifo nosso)
+“MEDIDA CAUTELAR. SERASA. PROTESTO. DÉBITO SUB JUDICE .
+Esta Corte tem decidido, reiteradamente, que a discussão judicial do débito impede o apontamento de informações restritivas quanto ao devedor junto aos órgãos de proteção ao crédito, bem como pela possibilidade da suspensão dos efeitos do protestos nessa hipótese. Liminar referendada.”
+(STJ - Medida Cautelar no 5.265 - SP (2002/0076170-2) - Relator: Ministro Castro Filho – Julgado em 15/08/2002) (grifo nosso)
+“TUTELA ANTECIPADA. SPC. SERASA.
+Contratos de dívida sub judice. Estando sub judice a matéria relacionada com os contratos e títulos da dívida, cabe deferir o pedido de sustação dos efeitos dos registros e protestos feitos contra os devedores com base naqueles contratos.
+Recurso conhecido em parte e provido.”
+(STJ – Recurso Especial no. 213.580 – Relator: Ministro Ruy Rosado de Aguiar – Julgado em 05/08/1999) (grifo nosso)
+Ademais, ressalte-se que as partes agravadas não sofrerão nenhum prejuízo, na medida em que durante a instrução do feito no primeiro grau, se restar constatado que as partes recorrentes utilizaram maliciosamente o Poder Judiciário para se furtar de compromissos perante terceiros, além da má-fé, responderão por perdas e danos.
+No tocante ao pedido de consignação em pagamento, neste momento processual recursal, não compete a sua análise.
+Dispositivo.
+Ante ao exposto, DEFIRO PARCIALMENTE A LIMINAR PLEITEADA para determinar que os recorridos se abstenham de inscrever o nome dos recorrentes nos órgãos de proteção ao crédito e cartórios de protesto , sob pena de multa diária de R$500,00 (quinhentos reais) por dia, limitada a R$ 30.000,00 (trinta mil reais).
+Oficie-se o r. Juízo a quo para, sendo possível, prestar as necessárias informações, principalmente se a parte agravante cumpriu a obrigação estabelecida pelo art. 1.018 do CPC.
+Intimem-se as partes agravadas, para, querendo, apresentarem contraminuta, no prazo legal, conforme determina o art. 1.019, II, do CPC, facultando-lhes a juntada de documentação que entenderem necessária.
+Por fim, advirto a possibilidade de aplicação da multa prevista no § 4o do art. 1.021 do CPC, nos casos de interposição de agravo interno, considerado, em votação unânime, manifestamente inadmissível ou improcedente.
+Às providências.
+Des. DIRCEU DOS SANTOS
+RELATOR
