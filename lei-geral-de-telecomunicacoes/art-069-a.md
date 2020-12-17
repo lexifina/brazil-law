@@ -1,0 +1,1 @@
+Art. 69-A. As políticas governamentais de telecomunicações serão financiadas por recursos do Fundo de Universalização dos Serviços de Telecomunicações (Fust), criado pela Lei nº 9.998, de 17 de agosto de 2000.
