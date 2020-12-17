@@ -1,0 +1,26 @@
+Decisão: Trata-se de recurso extraordinário interpostos em face de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (eDOC 5, p. 97):
+    “DIREITO TRIBUTÁRIO. PIS E COFINS. BASE DE CÁLCULO. EMPRESA DE RESSEGURO.
+    1. O PIS e a COFINS, segundo o artigo 195, inciso I, alínea 'b', da Constituição de 1988, possuem como fato gerador a receita ou o faturamento.
+    2. Empresas de resseguro são equiparadas às instituições financeiras, razão pela qual as receitas financeiras e aquelas decorrentes do pagamento de prêmios de seguro integram o faturamento e, em decorrência, a base de cálculo do PIS e da COFINS. 3. Apelação não provida.”
+    Os embargos de declaração foram desprovidos (eDOC 6, p. 11).
+    No recurso extraordinário, interposto com fulcro no art. 102, III, “a”, do permissivo constitucional, sustenta-se a violação aos artigos 150, II e 195, I, b, da Constituição Federal.
+    Nas razões do recurso, alega possuir o direito de recolher o PIS e a COFINS exclusivamente sobre o seu faturamento até a entrada em vigor da Lei n. 12.973/14.
+    Nesse sentido, busca demonstrar não se tratar de empresa equiparada à instituição financeira, asseverando que “(...) apenas pela análise do objeto social da Recorrente já é possível concluir que a mesma não pode ser igualada a uma instituição financeira na discussão pertinente aos autos, mas essa constatação também é corroborada pelos Demonstrativos de Apuração de Contribuições Sociais (DACON - fls. 129/178), nos quais a própria Secretaria da Receita Federal qualifica a Recorrente como "Sociedade seguradora, de capitalização ou entidade aberta de Previdência Complementar" e não como instituição financeira e equiparadas, de forma que até o próprio ente fazendário admite a diferença entre elas.” (eDOC 6, p. 39)
+    É o relatório. Decido.
+    Não assiste razão à parte recorrente.
+    O Tribunal de origem consignou o seguinte (eDOC 5, p. 88-90):
+    “O recurso não merece provimento. O Supremo Tribunal Federal declarou a inconstitucionalidade do artigo 3°, § 1°, da Lei n° 9.718/98, ao entender que esse dispositivo, ao ampliar o conceito de receita bruta para toda e qualquer receita, teria violado a noção de faturamento haurida do artigo 195, inciso I, da Constituição de 1988.
+    E, dentro dessa perspectiva, quer a impetrante que as receitas financeiras e as decorrentes do pagamento de seguro não integrem a base de cálculo das contribuições em questão. Entretanto, como sinalado na sentença, a atividade desenvolvida pela impetrante a equipara a uma instituição financeira, como até se verifica no artigo 1°, parágrafo único, inciso I, da Lei n° 7.492/86.
+    (…)
+    Mas, perseverando na tese desenvolvida na decisão recorrida, tanto a receita financeira como a receita oriunda do pagamento de prêmios de seguro integram o faturamento da impetrante. Pensar contrariamente importa na exclusão da principal elemento componente do faturamento de uma empresa de resseguros, o pagamento dos prêmios de seguro, sendo certo as suas atividades geram receitas de natureza financeira, também.
+    (…)
+    A nova redação dada pela Lei n° 12.973/2014, ainda que tenha alterado a incidência sobre o faturamento para a receita auferida pela empresa, não afasta a incidência, desde a criação da empresa, em janeiro de 2009, sobre o seu faturamento, integrado não só pelas receitas financeiras, como também pelo pagamento dos prêmios de seguro.”
+    Nesse sentido, uma vez assentado pelo Colegiado a quo a equiparação entre as empresas de resseguro e as instituições financeiras, eventual divergência ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas e o da legislação infraconstitucional aplicável à espécie, notadamente as Leis nº 7.492/86 e nº 12.973/14, de modo que o processamento do apelo extremo se encontra inviabilizado, seja pela incidência da Súmula 279 do STF ao caso, seja pela ausência de ofensa direta à Constituição Federal.
+    Acresce que o Plenário do Supremo Tribunal Federal, no julgamento do RE 598.572, de minha relatoria, DJe 30.03.16, já reconheceu a legitimidade da legislação que equipara, para fins tributários, a sistemática de tributação das instituições financeiras e empresas de seguros em geral. Na oportunidade, assentei:
+    “Finalmente, no que tange ao pedido do amicus curiae, no sentido de que esta Corte reconheça a “disparidade existente entre as empresas” arroladas no art. 22, § 1º, da Lei 8.212, deve-se, tal como a solução apontada para o recorrente, julgá-la improcedente. Em que pesem as razões indicadas pelo laudo técnico relativamente à lucratividade das empresas de seguro, a equiparação dessas empresas às demais instituições financeiras decorre de opção legislativa exercida, como expendido ao longo fundamentação, dentro de parâmetros constitucionais. Concluir-se de forma diversa, exigiria que o Poder Judiciário substituísse os critérios adotados pelo único órgão legitimado a estabelecer critérios diferenciadores entre os contribuintes.”
+    Ante o exposto, nego provimento ao recurso extraordinário, nos termos do art. 932, IV, a, do CPC c/c art. 21, §1º do RISTF.
+    Publique-se.
+    Brasília, 17 de dezembro de 2020.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
