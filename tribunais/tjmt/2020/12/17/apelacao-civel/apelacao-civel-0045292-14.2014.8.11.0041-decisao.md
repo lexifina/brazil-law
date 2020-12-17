@@ -1,0 +1,27 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CÍVEL N. 0045292-14.2014.8.11.0041
+RECORRENTE: BORIS FELSKY DOS ANJOS
+RECORRIDOA: SIDELVANIA TICIANEL RUCHINSQUE
+Vistos, etc.
+Trata-se de Recurso Especial (Id. 69639481), com pedido de efeito suspensivo, interposto por BORIS FELSKY DOS ANJOS, com fundamento no art. 105, III, “a”, da Constituição Federal, contra acórdão da Primeira Câmara de Direito Privado deste Sodalício, assim ementado (Id. 32587969):
+“ APELAÇÕES CÍVEIS – AÇÃO DE INDENIZAÇÃO POR DANO MORAL, MATERIAL E ESTÉTICOS - CERCEAMENTO DE DEFESA – NÃO CONFIGURADO – PROVAS INDEFERIDA – DECISÃO NÃO RECORRIDA – ILEGITIMIDADE PASSIVA – MATÉRIA PRECLUSA – APLICAÇÃO DO CDC - RESPONSABILIDADE DO HOSPITAL OBJETIVA – RESPONSABILIDADE DO MÉDICO OBJETIVA – DANO E CULPABILIDADE COMPROVADOS – LESÃO CORPORAL GRAVE – QUEIMADURA CAUSADA POR BISTURI ELÉTRICO – VALORES DAS INDENIZAÇÕES REDUZIDOS – SENTENÇA REFORMADA EM PARTE – RECURSO DA ASSOCIAÇÃO DE PROTEÇÃO A MATERNIDADE E A INFÂNCIA DE CUIABÁ DESPROVIDO – RECURSO DE BORIS FELSKY DOS ANJOS PROVIDO EM PARTE. Despacho saneador proferido sob a égide do CPC/73, que indeferiu provas e afastou a preliminar de ilegitimidade passiva, não atacado por meio de recurso previsto à época, impõe-se reconhecer a preclusão e de consequência, afastar a alegação de cerceamento de defesa. Em relação ao médico, aplica-se a responsabilidade subjetiva, na qual deve haver prova da culpa do agente, e já em relação ao hospital, a responsabilidade é objetiva. Ainda que o procedimento tenha sido realizado em hospital filantrópico e custeado pelo SUS, aplica-se o CDC. Comprovado o dano e o nexo causal, impõe-se a condenação por danos moral, material e estético, levando-se em conta os contornos e provas dos autos.” (Ap 0045292-14.2014.8.11.0041, DESA. NILZA MARIA POSSAS DE CARVALHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 03/03/2020)
+Os Embargos de Declaração de Id. 39927968 e 40047458 opostos contra o aresto foram parcialmente acolhidos em julgamento que assim restou ementado (Id. 57603453):
+“ EMBARGOS DE DECLARAÇÃO - APELAÇÕES CÍVEIS – OMISSÕES INEXISTENTES – REANALISE DE PROVAS – OBSCURIDADE – ERRO MATERIAL – VÍCIOS SANADOS – EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE. As alegadas omissões inexistem e na verdade demonstram o inconformismo com a valoração das provas e com o resultado do julgado. Constatada obscuridade e erro material no julgado, devem ser sanados.” (Ap 0045292-14.2014.8.11.0041, DESA. NILZA MARIA POSSAS DE CARVALHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 03/03/2020)
+Alega violação: (i) ao art. 364 do CPC, bem como aos arts. 6° e 7°, ambos do CPC, ao argumento de cerceamento de defesa diante da não apresentação de alegações finais após a instrução processual; (ii) aos arts. 330, II, 485, VI, e 489, §1o, VI, todos CPC, sob a assertiva de ausência de preclusão quanto a sua ilegitimidade passiva para a causa, visto que a argumentação suscitada em sede de Apelação é totalmente diversa daquela apreciada pela decisão saneadora; (iii) ao art. 14 do CDC, bem como aos arts. 186 e 927, ambos do CC, sob a assertiva de ocorrência de excludente de responsabilidade (caso fortuito) e ausência dos requisitos da responsabilização civil; (iv) ao art. 489, §1°, IV e VI, ao argumento de não enfrentamento dos argumentos deduzidos no processo capazes de infirmar a tese desenvolvida pelo julgador e a não demonstração de distinção dos precedentes invocados ao caso e (v) ao art. 8° do CPC, diante da exorbitância do quantum indenizatório fixado à luz dos parâmetros da razoabilidade.
+É a síntese.
+Decido.
+Nos termos do art. 995, parágrafo único, c/c art. 1.029, § 5o, do CPC, “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) dano grave de difícil ou impossível reparação.
+In casu, em uma análise sumária do feito, verifica-se que o órgão fracionário indicou os motivos de fato e de direito à luz do contexto dos autos que amparam a conclusão adotada quanto ao mérito do apelo, de modo a não se verificar evidências de violação aos arts. 489, §1°, IV e VI do CPC.
+Ademais, a análise das alegações relacionadas à ocorrência de cerceamento de defesa, inexistência de preclusão, ocorrência de excludente de responsabilidade, ausência dos requisitos para a responsabilização civil e exorbitância da indenização arbitrada exige o exame do conjunto fático-probatório dos autos, providência vedada em sede de Recurso Especial, fatores estes que atestam contra o primeiro requisito acima mencionado.
+Por derradeiro, não trouxe o Recorrente qualquer fundamento relacionado ao risco de dano grave de difícil ou impossível reparação, limitando-se a postular pelo recebimento do recurso com o efeito suspensivo.
+Dessa forma, por entender que não se encontram presentes os requisitos previstos no art. 995, parágrafo único do CPC, indefiro o pedido de atribuição de efeito suspensivo ao recurso.
+Intimem-se a parte contrária para, querendo, apresentar contrarrazões ao recurso, no prazo legal.
+Publique-se. Cumpra-se.
+Cuiabá/MT, 16 de dezembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça.
+v
