@@ -1,0 +1,10 @@
+ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+QUARTA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL (198) No 1007980-11.2019.8.11.0041
+APELANTE: AGUAS CUIABA S.A. - CONCESSIONARIA DE SERVICOS PUBLICOS DE AGUA E ESGOTO
+APELADO: INES ANTONIA MARQUES DE SOUZA
+Manifesto minha suspeição para atuar no feito e incidentes posteriores (art. 145 do CPC).
+Redistribua-se.
+Cuiabá, 18 de dezembro de 2020.
+Des. Guiomar Teodoro Borges
