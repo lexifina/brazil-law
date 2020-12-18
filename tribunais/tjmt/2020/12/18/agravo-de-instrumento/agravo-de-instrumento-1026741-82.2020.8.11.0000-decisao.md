@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por BONASA ALIMENTOS S/A, com o fito reformar a decisão que, nos autos do Embargos de Terceiro de no 1006658-07.2020.811.0045, manejados por MAIRDES PHILIPPSEN CEOLATTO, determinou a suspensão do leilão designado sobre os imóveis registrados sob as matrículas no 1.593 e 9.465 do Cartório de Registro de Imóveis de Sorriso/MT.
+Para tanto, a agravante alega que a penhora levada a termo nos autos da execução sequer atingiu a quota-parte da agravada, pois o edital previu a venda judicial apenas da parte ideal do devedor Ladi Ceolatto, esposo da requerida.
+Afirma que o fato de a avaliação do imóvel ter sido realizada sobre a área total do imóvel também não impede a efetivação do leilão, tendo em conta que a área foi avaliada de forma igualitária em toda a sua extensão, tendo todos os hectares o mesmo valor.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, verifica-se a presença dos requisitos legais para a concessão da medida liminar pleiteada.
+É que, a realização de diligências no sentido de dividir ou demarcar a área já foi rechaçada quando da análise dos RAIs 1026001-27 e 1025724-11, conforme excerto abaixo transcrito:
+“(...) Em termos mais específicos, até pelos primados da celeridade, da razoável duração do processo e da economia processual, não subsiste, às vésperas do leilão e depois de tanto tempo desde o início do processo executivo, a menor margem para a realização de novas diligências, em especial, com a antecipação de eventuais procedimentos divisórios e demarcatórios, cujos ônus, com a retificação do Edital, ficaram suficientemente claros na oferta e, assim, tanto devem ser assumidos pelo próprio arrematante quanto podem ser tratados ao depois, quando da imissão na posse”.
+Ademais, ainda que a área objeto da penhora não tenha sido delimitada, a agravada não terá qualquer prejuízo com a realização da hasta, pois a sua quota-parte, calculada sobre o valor da avaliação, será descontada, na sua integralidade, do produto da alienação e apenas o saldo será entregue ao credor para a satisfação da dívida, conforme previsão do art. 843 do CPC.
+Ante o exposto, CONCEDO A LIMINAR para reformar a decisão de base e determinar o prosseguimento da demanda executiva.
+Publique-se e intimem-se, advertindo-se a agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
