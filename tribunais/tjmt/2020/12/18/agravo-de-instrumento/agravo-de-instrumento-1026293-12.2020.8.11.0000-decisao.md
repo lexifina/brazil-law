@@ -1,0 +1,33 @@
+PODER JUDICIÁRIO
+DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+1026293-12.2020.8.11.0000
+AGRAVANTE: JOAO PEREIRA DE OLIVEIRA
+AGRAVADO: ZAMITA DAVID BARBOSA
+DES. RUBENS DE OLIVEIRA SANTOS FILHO
+Agravo de Instrumento com pedido de efeito suspensivo de decisão do Juízo da 2a Vara Cível da Comarca de Barra do Garças/MT que, na Ação Reivindicatória, deferiu a tutela de evidência e determinou a expedição de mandado de imissão de posse em favor da autora (Id 70102486).
+O agravante sustenta que vive no imóvel em litígio há mais de 18 anos e que o adquiriu em 2002 de Ananias Francisco de Moraes.
+Aduz que a agravada abandonou o local, tanto é que ele construiu ali uma casa e durante todo esse tempo ninguém reclamou a propriedade. Desse modo, entende que tem a posse mansa, pacífica e duradoura.
+Argumenta a necessidade da imediata suspensão da decisão atacada, tendo em vista o risco de prejuízo econômico e social (Id 70102470).
+É o relatório.
+A decisão impugnada está fundamenta no fato de que a probabilidade do direito à titularidade do domínio encontra-se na escritura pública, em que consta a agravada como legítima proprietária. Além disso, que as guias de recolhimento do IPTU em nome da autora revelariam sua condição de responsável pela obrigação tributária.
+Na Ação Reivindicatória, ao autor incumbe demonstrar o domínio e, consequentemente, a posse injusta do demandado, nos termos do art. 1.228 do Código Civil.
+Arnaldo Rizzardo ensina:
+“O primeiro pressuposto ou requisito necessário à reivindicação é a propriedade atual do titular. Deverá ele ter o jus possidendi, embora encontre perdido o jus possessionis. (...) O segundo elemento necessário é o tipo de posse exercida pelo réu. (...) O requisito para a ação é a posse injusta do réu, no sentido de falta de amparo ou de um título jurídico. Não tem ele o jus possidendi. (...) O terceiro requisito envolve a individualização do imóvel reivindicando, de modo a identifica-lo perfeitamente (...)” (Direito das Coisas. Rio de Janeiro: Forense, 2006, p. 213/216).
+Por outro lado, para a concessão da tutela de evidência com base no inc. IV do art. 311 do CPC, é preciso que o autor instrua a petição inicial com documentos que comprovem suficientemente os fatos constitutivos de seu direito, contra o qual o réu não oponha prova capaz de gerar dúvida razoável.
+Em cognição sumária a esta fase reservada, verifica-se que embora demonstrada a titularidade da agravada, a ocupação pelo agravante, a princípio, não se mostra injusta, o que afastaria a aplicação do inc. IV do art. 311 do CPC.
+A propósito:
+EMENTA AGRAVO DE INSTRUMENTO – AÇÃO REIVINDICATÓRIA – TUTELA DE URGÊNCIA – IMISSÃO NA POSSE – INDEFERIMENTO – AUSÊNCIA DOS REQUISITOS NECESSÁRIOS PARA A CONCESSÃO DA TUTELA DE URGÊNCIA – DECISÃO MANTIDA – RECURSO DESPROVIDO. Descabe a concessão da tutela antecipada, por ausência de verossimilhança das alegações, quando imprescindível dilação probatória para verificar se a alegada invasão do imóvel. Na hipótese, não se revela razoável o deferimento da tutela de urgência, embora demonstrada a propriedade do imóvel, se não ficou comprovada, desde logo, a posse injusta atribuída aos Agravados, razão pela qual deve ser mantida a decisão que indeferiu o pedido de tutela de urgência (imissão na posse).
+(TJ-MT - AI: 10076827920188110000 MT, Relator: CLARICE CLAUDINO DA SILVA, Data de Julgamento: 03/10/2018, Segunda Câmara de Direito Privado, Data de Publicação: 16/10/2018)
+AGRAVO DE INSTRUMENTO - AÇÃO REIVINDICATÓRIA - IMOVEIS URBANOS - PROVA DA PROPRIEDADE - ANTECIPAÇÃO DE TUTELA PARA REINTEGRAÇÃO DE POSSE - CONCEDIDA - AUSÊNCIA DOS REQUISITOS DO ART. 273 - PROVA DA POSSE INJUSTA - PERIGO DE DANO IRREPARÁVEL - AUSÊNCIA - DECISÃO REFORMADA - RECURSO PROVIDO A concessão da tutela antecipada pressupõe o preenchimento dos requisitos dispostos no artigo 273 do Código de Processo Civil. Para tanto, não basta a prova da propriedade, mas, necessário, também, a existência de posse injusta por quem se encontra no imóvel a título de conferir a verossimilhança do direito e, ainda, a demonstração do fundado receio de dano irreparável ou de difícil reparação.
+(TJ-MT - AI: 01793703420158110000 MT, Relator: GUIOMAR TEODORO BORGES, Data de Julgamento: 06/04/2016, QUARTA CÂMARA DE DIREITO PRIVADO, Data de Publicação: 11/04/2016)
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO REIVINDICATÓRIA. ANTECIPAÇÃO DE TUTELA. POSSE INJUSTA. ELEMENTOS DE PROVA. INEXISTÊNCIA. RECURSO DESPROVIDO. 1. O pedido de antecipação de tutela em ação reivindicatória deve ser rejeitado quando, a despeito da condição de proprietário, o autor deixa de comprovar, de plano, que a posse exercida pela contraparte é injusta, ou seja, é violenta, clandestina ou precária. 2. Recurso conhecido e desprovido. Vistos, relatados e discutidos estes autos de Agravo de Instrumento n. 1000298-10.2019.8.01.0000, "DECIDE A SEGUNDA CÂMARA CÍVEL NEGAR PROVIMENTO AO RECURSO, NOS TERMOS DO VOTO DA DESEMBARGADORA RELATORA. UNÂNIME.", e das mídias digitais arquivadas.
+(TJ-AC - AI: 10002981020198010000 AC 1000298-10.2019.8.01.0000, Relator: Regina Ferrari, Data de Julgamento: 18/06/2019, Segunda Câmara Cível, Data de Publicação: 26/06/2019)
+EMENTA: AGRAVO DE INSTRUMENTO - AÇÃO REIVINDICATÓRIA - GRATUIDADE DA JUSTIÇA - ART. 99, § 7o, DO ATUAL CÓDIGO DE PROCESSO CIVIL - IMISSÃO NA POSSE - ANTECIPAÇÃO DE TUTELA - REQUISITOS - AUSÊNCIA - DILAÇÃO PROBATÓRIA - NECESSIDADE - DECISÃO OBJURGADA REVOGADA - PROVIMENTO AO RECURSO. Demonstrada a hipossuficiência financeira do recorrente é possível o deferimento da gratuidade da justiça, nos termos do art. 99, § 7o, do novo Código de Processo Civil. Para a antecipação de tutela na ação reivindicatória, além dos requisitos do art. 300 do CPC/15, imprescindível a comprovação daqueles previstos no art. 1.228 do CC, a saber: a prova da titularidade do domínio, individualização do bem reivindicado e comprovação da posse ou detenção injusta exercida pela parte adversa. Havendo necessidade de dilação probatória para a aferição do exercício da posse injusta e observando-se que o risco de dano milita a favor da parte Ré, afigura-se pertinente a reforma da decisão para revogar a tutela provisória de imissão na posse concedida a favor da parte Autora.
+(TJ-MG - AI: 10012180010444001 Aiuruoca, Relator: Newton Teixeira Carvalho, Data de Julgamento: 07/11/2019, Câmaras Cíveis / 13a CÂMARA CÍVEL, Data de Publicação: 07/11/2019)
+Posto isso, defiro a tutela recursal e suspendo os efeitos da decisão agravada até a apreciação final pelo colegiado.
+Cientifique-se o teor deste decisum ao juiz da causa.
+Intime-se a agravada para, querendo, apresentar contraminuta.
+Cuiabá, 18 de dezembro de 2020.
+Des. Rubens de Oliveira Santos Filho
+Relator
