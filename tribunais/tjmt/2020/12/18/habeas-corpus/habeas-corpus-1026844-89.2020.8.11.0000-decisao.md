@@ -1,0 +1,20 @@
+Vistos etc.
+Em síntese, o Impetrante sustenta que VINICIUS SANTOS DE SOUZA vem sendo submetido a constrangimento ilegal pelo Juízo da 3a Vara Criminal da Comarca de Juína/MT, no bojo do processo executivo de pena a que responde, considerando a decisão prolatada em audiência de justificativa, por meio da qual o reeducando teve determinada sua regressão definitiva de regime.
+Aduz, em apertada síntese, que o paciente foi regredido para o regime de cumprimento de pena fechado sem a instauração de procedimento administrativo disciplinar, violando os imperativos constitucionais do contraditório, ampla defesa e contraditório e devido processo legal, bem como os arts. 47 e 48, parágrafo único, e o art. 54, “caput”, da Lei n. 7.210/84.
+Nesses termos, reclama ofensa ao teor da Súmula 533 do STJ.
+Anexou documentos (Id. 32144489/32144492).
+Feito esse breve relato, é importante registrar que ressalvada a hipótese de flagrante ilegalidade, o Habeas corpus não se presta à análise de questões relativas à execução da pena, para as quais existe a via específica do Agravo em Execução Penal, descrito no art. 197 da Lei no. 7210/84 (“Das decisões proferidas pelo Juiz caberá recurso de agravo, sem efeito suspensivo”).
+A propósito, eis o que preleciona o Supremo Tribunal Federal sobre a matéria, ad litteram:
+“As hipóteses de cabimento do writ são restritas, não se admitindo que o remédio constitucional seja utilizado em substituição a recursos ordinários ou de índole extraordinária, tampouco como sucedâneo de revisão criminal. (...). É cômodo não interpor o recurso ordinário quando se pode, a qualquer momento e considerado o estágio do processo-crime, buscar-se infirmar decisão há muito proferida, mediante o denominado habeas corpus substitutivo, alcançando-se, com isso, a passagem do tempo, a desaguar, por vezes, na prescrição. A situação não deve continuar, no que já mitigou a importância do habeas corpus e emperrou a máquina judiciária, sendo prejudicados os cidadãos em geral, a cidadania. (...). Assim, é o habeas corpus uma garantia da liberdade de locomoção - ir, vir e permanecer -, contra violência ou coação, pressupondo, portanto, uma prisão, uma ameaça de prisão ou pelo menos alguma espécie de constrangimento físico ou moral à liberdade física. Nos últimos anos, todavia, tem se verificado um desvirtuamento da garantia constitucional (...)”. (HC 116473/SP, Rel. Min. Dias Toffoli, DJE 15.3.2013). Destaquei.
+Nesses moldes, competia ao Reeducando interpor Recurso de Agravo em Execução Penal contra esse título judicial.
+Ora, partindo da premissa de que o writ não pode ser utilizado como sucedâneo recursal, sob pena de esvaziar o recurso próprio e o prazo estabelecido na legislação, inexiste outro caminho senão indeferir a petição inicial, dada a inadequação da via eleita.
+Seguindo essa linha de raciocínio, vale conferir ementa de julgado desta Corte, in litteris:
+“(...) Inalterado o panorama fático, com a repetição dos argumentos previamente postos no remédio heroico, imperiosa a manutenção da extinção da presente ação, porquanto o manejo do habeas corpus viabiliza-se apenas a questões que – ligadas à esfera da liberdade – possam ser demonstradas de plano, ou resultem de violação a literal disposição de lei ou, de qualquer modo, caracterize hipótese de teratologia, máxime diante da possibilidade de ser manejada a correta via recursal [Agravo em Execução!]” (Ag. Interno no HC no. 1003455-12.2019, Rel. Des. Alberto Ferreira de Souza, 2a Câmara Criminal, DJE 22.4.2019). Destaquei.
+Assim, com essas considerações e à vista da falta de interesse processual, sob a modalidade adequação, INDEFIRO a petição inicial, extinguindo este Habeas corpus sem resolução do mérito, nos termos do disposto no art. 485, I, do NCPC (aplicados, aqui, por força do art. 3o, do CPP) e no art. 51, inc. XIV, do RI/TJMT.
+Procedam-se aos registros, anotações e intimações necessárias.
+Com o trânsito em julgado, arquivem-se os autos.
+Às providências.
+Cumpra-se.
+Cuiabá, 18 de dezembro de 2020.
+Rondon Bassil Dower Filho
+Relator
