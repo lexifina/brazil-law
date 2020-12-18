@@ -1,0 +1,31 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO — AGRAVO DE INSTRUMENTO No 1008379-66.2019.8.11.0000 — CLASSE 202 — CNJ — CÍVEL — COMARCA DA CAPITAL
+AGRAVANTE: BMB MODE CENTER INDÚSTRIA, COMÉRCIO E SERVIÇOS LTDA.;
+AGRAVADO: ESTADO DE MATO GROSSO.
+Vistos etc.
+Agravo de instrumento, com pedido de tutela da pretensão recursal, interposto por BMB Mode Center Indústria, Comércio e Serviços Ltda. contra a decisão que, em ação anulatória de débito proposta contra o Estado de Mato Grosso, deferiu, em parte, a tutela provisória de urgência.
+Assegura que “não cometeu a infração apontada, nem tão pouco contribuiu para ela, porquanto não era a transportadora do produto no momento da infração, e, ademais, foi o próprio adquirente quem transportava o veículo no momento da atuação fiscal e, por sua vez, como adquiriu vários veículos, os transportava em veículos separados cada um com a respectiva nota fiscal de aquisição da mercadoria, acompanhado de uma única nota fiscal de industrialização de todos os veículos para os devidos fins”.
+Assevera que, no processo administrativo “demonstrou não ser a vendedora do produto ao consumidor final, juntando documentos que demonstram que a fabricante realizou a venda para o cliente A.S e Silva Filho & Cia, e que a agravante meramente recebeu o produto para customizá-lo em Resende/RJ, ou seja: para instalar um 2o eixo direcional, sendo que, após realizar esse serviço, devolveu o produto para a fabricante com a consoante nota fiscal da industrialização do produto”.
+Afiança que não é cabível a fixação de multa, porque não é a responsável pelo transporte de mercadorias, “nem tão pouco emitiu qualquer nota fiscal para a empresa que cometeu a infração, mas sim emitiu a consoante nota fiscal de faturamento do serviço de industrialização que fez para a fabricante (Man Latin)”. Acaso considerada a sua legalidade, deve ser limitada ao percentual de vinte por cento (20%).
+Requer a antecipação de tutela da pretensão recursal para determinar a suspensão da exigibilidade do crédito da Fazenda Pública.
+A Câmara, por maioria, ao julgar o agravo interno, proveu o recurso para afastar a decisão que não conheceu do agravo de instrumento (Id. 61065972).
+É o relatório.
+Eis, no ponto de interesse, o teor da decisão:
+[...] Com efeito, embora a tese da requerida referente ao contexto do fato gerador do tributo apresente congruência, ela não é capaz nesta aurora processual, de afastar a presunção de veracidade e legitimidade que milita em favor do ato administrativo.
+Deste modo, da análise perfunctória, não é possível afirmar com clareza solar, que a parte autora não cometeu a infração objeto do Termo de Apreensão e Depósito no. 1137827-7, já que ela mesma afirmou que o motorista apresentou a documentação irregular (reutilização da nota – infração do TAD) quando passou no posto fiscal. Assim, a questão relacionada a ausência de ingerência de sua parte para a concretização do fato gerador é matéria que prescinde de dilação probatória.
+Noutra senda, em relação a alegação do caráter confiscatório da multa aplicada, verifico plausibilidade a tese defendida, eis que há evidente desproporção entre o montante referente ao tributo e a multa aplicada.
+Mostra-se importante assinalar, neste ponto, que o valor do imposto devido é de R$ 41.268,71, enquanto a multa aplicada é de R$ 242.757,13 (id. 18975775), cerca de 588% (quinhentos e oitenta e oito por cento) do valor do tributo, o que por si só revela absoluta falta de razoabilidade da punição aplicada, que assume indubitavelmente caráter confiscatório, situação essa vedado pela Constituição Federal (art. 150, IV).
+[...]
+Isso posto, nos termos dos fundamentos apresentados e em juízo sumário e provisório de cognição, com amparo no artigo 300, caput e parágrafo 1o, do CPC, defiro parcialmente o pedido de tutela de urgência pelo que decreto a suspensão da exigibilidade da multa tributária objeto do Termo de Apreensão e Deposito no 1137827-7, no que exceder o limite de 100% do valor do tributo objeto do referido TAD. [...]. (Id. 8164110, fls. 30/31).
+Pontuo, de início, que a decisão agravada suspendeu a exigibilidade da multa decorrente do não cumprimento dos deveres instrumentais. Logo, o recurso se limita a analisar o indeferimento do pedido de suspensão da exigibilidade do ICMS decorrente da lavratura do termo de apreensão e depósito no 1137827-7.
+No caso, a nota fiscal eletrônica no 177680 descreve a operação de industrialização efetuada pela agravante, a pedido de Man Latin América Indústria e Comércio de Veículos Ltda., consistente na “instalação 2o eixo direcional com suspensor” (Id. 8163125, fls. 1), a qual foi realizada no Estado do Rio de Janeiro, com ICMS destacado no valor de R$ 43.696,30: quarenta e três mil seiscentos e noventa e seis reais e trinta centavos.
+Assim, à primeira vista, não se apresenta admissível a exigência de recolhimento de ICMS incidente sobre a mesma operação constante na nota fiscal eletrônica no 177680, mormente, porque, não se cuida de hipótese de cobrança de diferencial de alíquota de ICMS.
+Ademais, a entrada da mercadoria apreendida no território mato-grossense não decorreria da operação presente na nota fiscal eletrônica no 177680. Aliás, evidente o equívoco no termo de apreensão e depósito ao consignar que o destinatário seria Man Latin América Indústria e Comércio de Veículos Ltda. (Id. 8163114, fls. 1), porque localizada no Estado do Rio de Janeiro e não no Estado de Mato Grosso.
+De fato, a entrada da mercadoria apreendida no território mato-grossense teria como destinatário a empresa A. S. e Silva Filho & Cia Ltda., situada no Município de Arenapolis, a qual, a princípio, seria a proprietária do bem, com a nota de que teria adquirido de Man Latin América Indústria e Comércio de Veículos Ltda. (Id. 8163446, fls. 57 e fls. 62/64).
+Dessa forma, defiro, em antecipação de tutela, a pretensão recursal para determinar a suspensão da exigibilidade do ICMS decorrente da lavratura do termo de apreensão e depósito no 1137827-7 até o julgamento do mérito do recurso.
+Comuniquem-se o Juízo (Código de Processo Civil, artigo 1.019, I, parte final) e intimem-se o agravado para que responda (Código de Processo Civil, artigo 1.019, II).
+Após, à Procuradoria-Geral de Justiça.
+Intimem-se.
+Às providências.
+Cuiabá, 18 de dezembro de 2020.
+Des. Luiz Carlos da Costa
+Relator
