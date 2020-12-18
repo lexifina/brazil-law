@@ -1,0 +1,42 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial interposto nos autos do
+AGRAVO DE INSTRUMENTO n. 1004913-30.2020.8.11.0000
+Recorrente: GRACE ADELE BADRE TEIXEIRA
+Recorrido: BANCO SANTANDER BRASIL S. A.
+Vistos.
+Trata-se de Recurso Especial interposto por GRACE ADELE BADRE TEIXEIRA (id 71164983) com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão proferido pela PRIMEIRA CÂMARA DE DIREITO PRIVADO assim ementado (id 44648984):
+“AGRAVO DE INSTRUMENTO – CUMPRIMENTO DE SENTENÇA – IMPUGNAÇÃO TEMPESTIVA – INÍCIO DO PRAZO APÓS DECURSO DAQUELE PREVISTO PARA PAGAMENTO VOLUNTÁRIO – EXECUÇÃO DO VALOR ACUMULADO DAS MULTAS COMINATÓRIAS DIÁRIAS – AUSÊNCIA DE PROVA DO PERÍODO DE INCIDÊNCIA DA MULTA – DOCUMENTO APRESENTADO QUE NÃO CORRESPONDE À SITUAÇÃO OBJETO DA LIDE – OBRIGAÇÃO INEXIGÍVEL À FALTA DE CERTEZA – DECISÃO MANTIDA – RECURSO DESPROVIDO. 1. Conforme literal disposição do art. 525 do CPC, o prazo para apresentação de impugnação ao cumprimento de sentença inicia-se somente após decurso do prazo de pagamento voluntário. 2. Nos termos da jurisprudência do STJ, “a decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada” (STJ - REsp 1.333.988/SP, Rel. Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 09/04/2014, DJe 11/04/2014). 3. Cumpre à parte exequente instruir o seu pedido com documentos que demonstrem a exigibilidade da obrigação estampada no título executivo, como certeza, liquidez e exigibilidade, que são condições da pretensão executória.” (TJMT, RAI 1004913-30.2020.8.11.0000, DES. JOÃO FERREIRA FILHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 27/05/2020)
+Os Embargos de Declaração id 45546499 e 50699474 foram rejeitados, conforme acórdãos id 49812497 e 54776462.
+Já os Aclaratórios id 59301975 não foram conhecidos, conforme acórdão id 67623991.
+A parte Recorrente apresentou seu recurso especial com pedido de atribuição do efeito suspensivo para o fim de suspender a eficácia do acórdão ante suposta violação aos artigos 489, § 1o, IV e 1.022 do CPC, uma vez que não teriam sido analisadas as seguintes teses: “(...)1.Existência de certidão de intempestividade apresentado pela gestora. 2.Reconhecimento pelo Juízo sobre a intempestividade da impugnação ao cumprimento de sentença. 3.Existência de agravo de instrumento n. 136.852/2012 e 31.467/2013 que confirmou a aplicação das astreintes no caso concreto e seu descumprimento. 4 Trânsito em julgado da ação principal, COM CONDENAÇÃO do Banco em danos morais pela MESMA negativação indevida.”
+Afirma que houve afronta à coisa julgada, violando o disposto nos artigos 6o, § 3o da LINDB, 502 e 507 do CPC, uma vez que ainda em 2013 houve o reconhecimento do descumprimento da liminar que havia sido deferida em 2011.
+Entretanto, afirma que “(...)passados mais de 10 (dez) anos do ajuizamento da cautelar e da ação principal, em uma reviravolta inesperada e ilegal, os acórdãos ora recorridos, EM CLARA CONTRADIÇÃO COM TUDO O QUE JÁ FOI DECIDIDO PELO DES. JOÃO FERREIRA FILHO DESDE O ANO DE 2010, diz que não há comprovação de negativação realizada pelo Banco Embargado, motivo pelo qual não seria devida a multa arbitrada na liminar de Primeiro Grau, afrontando o disposto nos artigos 6o da LINDB, 502 e 507 do CPC (coisa julgada), e ainda, artigos 489 e 1.022, ambos do CPC, ante a não correção das omissões havidas no acórdão recorrido, complementado por três Embargos de Declaração.”
+Recurso tempestivo e preparado, conforme certidões id 68037485 e 68067987.
+A certidão id 71286467 traz a informação sobre o pagamento incorreto da multa aplicada pelo Relator ante a alegação de que os Embargos de Declaração seriam protelatórios.
+É o relatório.
+Decido.
+Estabelece o Art. 995, parágrafo único, do CPC, que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Como se vê, para a concessão do efeito suspensivo, devem estar presentes, simultaneamente, dois requisitos: (i) probabilidade de provimento do recurso e (ii) risco de dano grave de difícil ou impossível reparação.
+In casu, mediante uma análise sumária do feito, verifica-se que a parte Recorrente demonstrou os requisitos autorizadores da concessão do efeito suspensivo.
+Em relação ao perigo da demora, verifica-se que há sério risco de que os valores depositados em Primeiro Grau sejam levantados pelo Banco Recorrido.
+Sobre a probabilidade do direito, verifica-se que não houve pronunciamento no acórdão meritório sobre o trânsito em julgado dos Agravos de Instrumento n. 31.467/2013 e n. 136.852/2012, o que configura a omissão apontada pela parte Recorrente.
+E ainda, confirmando a probabilidade do direito invocado, em relação à coisa julgada, ainda em sede de cognição exauriente, o próprio Relator assim fundamentou o deferimento do efeito suspensivo ao Agravo de Instrumento id 36851498, in verbis:
+“(...)Sem delongas, esta eg. Corte de Justiça realmente já se pronunciou sobre o tema quando do julgamento do RAI no 136.852/2012, confirmando o acerto técnico da decisão que fixou multa cominatória para o caso de descumprimento da decisão deferitória do pedido de liminar de baixa da negativação, não se podendo mais discutir sobre a correlação entre a negativação mencionada na petição inicial e os contratos celebrados pelas partes.
+Ademais, o Banco/agravado deduz, na impugnação ao cumprimento de sentença, tese que diverge completamente da causa de pedir da medida cautelar e da ação indenizatória principal, que é a existência de negativação por devolução indevida de cheques por ausência de fundos na conta corrente, quando esta ausência decorre precisamente da realização de descontos irregulares pela própria instituição financeira.
+Ademais, a assertiva impugnatória prende-se exclusivamente ao documento juntado pela agravante apenas para reafirmar o descumprimento da ordem (cf. doc. Num. 36516994 - Pág. 5/6), e não àquele efetivamente anexado à petição inicial (cf. doc. Num. 35257472 - Pág. 1/3).
+Assim, como exibido nos autos cópia reprográfica do cheque no 014572 (cf. doc. Num. 35257471 - Pág. 5), precisamente aquele subjacente à negativação (cf. doc. Num. 35257472 - Pág. 1/3), realmente não há falar em inexigibilidade da multa exequenda.
+Não fosse tudo isso o bastante, cabe pontuar, ainda, que o próprio Banco/agravado confessa que houve trânsito em julgado da sentença que ratificou expressamente a ordem de baixa da negativação mencionada na petição inicial e a imposição das astreintes (cf. doc. Num. 36521453 - Pág. 2).
+Aliás, parece incongruente que o Banco diga que “a negativação não é do Banco Santander” (cf. doc. Num. 36521453 - Pág. 3), quando suficientemente demonstrado que a instituição financeira, nos autos principais, informou cumprimento da ordem de baixa da anotação restritiva de crédito.
+Pelo exposto, recebo o recurso nos termos do art. 1.019 do CPC/2015, e DEFIRO o pedido de concessão de efeito suspensivo ao recurso (CPC/2015, art. 1.019, I), ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.” – destaquei.
+Assim, aparenta restar configurada a ofensa à coisa julgada no momento em que o Relator reconhece que já houve o reconhecimento de que a liminar havia sido deferida e descumprida, conforme imagem constante das próprias razões do Recurso Especial, in verbis:
+Dessa forma, por entender que se encontram presentes os requisitos necessários à concessão da medida de urgência, nos termos do Art. 995, parágrafo único, do CPC, defiro o pedido de efeito suspensivo pleiteado, impedindo o levantamento dos valores depositados em Primeiro Grau até o julgamento do mérito do recurso especial.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade dos recursos interpostos.
+Intime-se a parte Recorrente para, no prazo de 05 (cinco) dias, corrigir o recolhimento da multa, uma vez que deve ser recolhida pelo sistema SISCONDJ, conforme certificado no id 71286467.
+Publique-se. Intimem-se.
+Cuiabá, 18 de Dezembro de 2020.
+Desa. Maria Helena G. Póvoas,
+Vice-Presidente do Tribunal de Justiça.
+vi
