@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 1039142-24.2019
+APELANTE: UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO.
+APELADO: V. P. R. representado por KAROLYNE DE ALVARENGA PINHEIRO.
+Vistos.
+Em cumprimento ao disposto no artigo 178 do CPC, colha-se o parecer da d. Procuradoria Geral de Justiça.
+Às providências.
+DES. DIRCEU DOS SANTOS
+Relator
