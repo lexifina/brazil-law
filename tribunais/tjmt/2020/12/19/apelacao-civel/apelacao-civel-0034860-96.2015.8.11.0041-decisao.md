@@ -1,0 +1,41 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial nos autos do Recurso Especial 0034860-96.2015.8.11.0041
+RECORRENTE: EVANGELISTA PASSOS AMORIM
+RECORRIDO: ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso Especial interposto por EVANGELISTA PASSOS AMORIM com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão proferido pela Segunda Câmara de Direito Público e Coletivo assim ementado (Id. 56683981):
+CONSTITUCIONAL E ADMINISTRATIVO – RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – HORAS EXTRAS E DESCANSO SEMANAL REMUNERADO – PRELIMINAR DE CERCEAMENTO DE DEFESA – NÃO ACOLHIDA – DIREITO DO RECEBIMENTO – PREVISÃO NO ARTIGO 39, § 3o, DA CONSTITUIÇÃO FEDERAL – NECESSIDADE DA COMPROVAÇÃO – ÔNUS DO RECORRENTE – ARTIGO 373, I, DO CÓDIGO DE PROCESSO CIVIL – SENTENÇA MANTIDA – RECURSO NÃO PROVIDO.
+“O julgamento antecipado da lide não ocasionou cerceamento de defesa, vez que existentes nos autos elementos suficientes à formação da convicção do magistrado. O magistrado possui a prerrogativa de afastar provas que se mostrem meramente protelatórias ou inúteis ao deslinde da questão”. (N.U 0000144-02.2013.8.11.0045, HELENA MARIA BEZERRA RAMOS, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 15/04/2019, Publicado no DJE 24/04/2019).
+Não é possível conceder o direito do recebimento de horas extras e demais verbas trabalhistas pleiteadas, se estas alegações não são provadas por meio de documentos contundentes, eis que o ônus da prova é do autor, conforme o artigo 373, I, do Código de Processo Civil.
+Recurso não provido.
+(N.U 0034860-96.2015.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PÚBLICO, MARCIO APARECIDO GUEDES, Segunda Câmara de Direito Público e Coletivo, Julgado em 02/09/2020, Publicado no DJE 05/11/2020)
+Os Embargos de Declaração de Id. 57635961, foram rejeitados, conforme acórdão de Id. 64754457.
+Alega violação ao artigo 442 do CPC e Tema 437/STJ, uma vez que houve cerceamento de defesa pelo indeferimento da produção da prova oral, e posterior julgamento de improcedência do pedido formulado pelo recorrente, além de divergência jurisprudencial.
+Recurso tempestivo (Id. 68279516).
+Contrarrazões sob Id. 68984993
+É o relatório.
+Decido.
+Sistemática de recursos repetitivos
+O Recorrente alega ao artigo 442 do CPC e Tema 437/STJ, sob a assertiva de que houve cerceamento de defesa pelo indeferimento da produção da prova oral, e posterior julgamento de improcedência do pedido formulado pelo recorrente.
+A questão abordada encontra-se afetada pela sistemática de recursos repetitivos, sendo necessária a sua aplicação no caso.
+No julgamento do recurso paradigma (REsp no 1.114.398/PR, Tema 437) o Superior Tribunal de Justiça concluiu que não configura cerceamento de defesa o julgamento antecipado da lide, ante os elementos documentais suficientes., consoante ementa a seguir transcrita:
+AÇÃO DE INDENIZAÇÃO - DANOS MATERIAIS E MORAIS A PESCADORES CAUSADOS POR POLUIÇÃO AMBIENTAL POR VAZAMENTO DE NAFTA, EM DECORRÊNCIA DE COLISÃO DO NAVIO N-T NORMA NO PORTO DE PARANAGUÁ - 1) PROCESSOS DIVERSOS DECORRENTES DO MESMO FATO, POSSIBILIDADE DE TRATAMENTO COMO RECURSO REPETITIVO DE TEMAS DESTACADOS PELO PRESIDENTE DO TRIBUNAL, À CONVENIÊNCIA DE FORNECIMENTO DE ORIENTAÇÃO JURISPRUDENCIAL UNIFORME SOBRE CONSEQUÊNCIAS JURÍDICAS DO FATO, QUANTO A MATÉRIAS REPETITIVAS; 2) TEMAS: a) CERCEAMENTO DE DEFESA INEXISTENTE NO JULGAMENTO ANTECIPADO, ANTE OS ELEMENTOS DOCUMENTAIS SUFICIENTES; b) LEGITIMIDADE DE PARTE DA PROPRIETÁRIA DO NAVIO TRANSPORTADOR DE CARGA PERIGOSA, DEVIDO A RESPONSABILIDADE OBJETIVA. PRINCÍPIO DO POLUIDOR-PAGADOR; c) INADMISSÍVEL A EXCLUSÃO DE RESPONSABILIDADE POR FATO DE TERCEIRO; d) DANOS MORAL E MATERIAL CARACTERIZADOS; e) JUROS MORATÓRIOS: INCIDÊNCIA A PARTIR DA DATA DO EVENTO DANOSO - SÚMULA 54/STJ; f) SUCUMBÊNCIA. 3) IMPROVIMENTO DO RECURSO, COM OBSERVAÇÃO.
+1.- É admissível, no sistema dos Recursos Repetitivos (CPC, art.
+543-C e Resolução STJ 08/08) definir, para vítimas do mesmo fato, em condições idênticas, teses jurídicas uniformes para as mesmas consequências jurídicas.
+2.- Teses firmadas: a) Não cerceamento de defesa ao julgamento antecipado da lide.- Não configura cerceamento de defesa o julgamento antecipado da lide (CPC, art. 330, I e II) de processo de ação de indenização por danos materiais e morais, movida por pescador profissional artesanal contra a Petrobrás, decorrente de impossibilidade de exercício da profissão, em virtude de poluição ambiental causada por derramamento de nafta devido a avaria do Navio "N-T Norma", a 18.10.2001, no Porto de Paranaguá, pelo período em que suspensa a pesca pelo IBAMA (da data do fato até 14.11.2001); b) Legitimidade ativa ad causam.- É parte legítima para ação de indenização supra referida o pescador profissional artesanal, com início de atividade profissional registrada no Departamento de Pesca e Aquicultura do Ministério da Agricultura, e do Abastecimento anteriormente ao fato, ainda que a emissão da carteira de pescador profissional tenha ocorrido posteriormente, não havendo a ré alegado e provado falsidade dos dados constantes do registro e provado haver recebido atenção do poder público devido a consequências profissionais do acidente; c) Inviabilidade de alegação de culpa exclusiva de terceiro, ante a responsabilidade objetiva.- A alegação de culpa exclusiva de terceiro pelo acidente em causa, como excludente de responsabilidade, deve ser afastada, ante a incidência da teoria do risco integral e da responsabilidade objetiva ínsita ao dano ambiental (art. 225, § 3o, da CF e do art. 14, § 1o, da Lei no 6.938/81), responsabilizando o degradador em decorrência do princípio do poluidor-pagador. d) Configuração de dano moral.- Patente o sofrimento intenso de pescador profissional artesanal, causado pela privação das condições de trabalho, em consequência do dano ambiental, é também devida a indenização por dano moral, fixada, por equidade, em valor equivalente a um salário-mínimo. e) termo inicial de incidência dos juros moratórios na data do evento danoso.- Nos termos da Súmula 54/STJ, os juros moratórios incidem a partir da data do fato, no tocante aos valores devidos a título de dano material e moral; f) Ônus da sucumbência.- Prevalecendo os termos da Súmula 326/STJ, a condenação em montante inferior ao postulado na inicial não afasta a sucumbência mínima, de modo que não se redistribuem os ônus da sucumbência.
+3.- Recurso Especial improvido, com observação de que julgamento das teses ora firmadas visa a equalizar especificamente o julgamento das ações de indenização efetivamente movidas diante do acidente ocorrido com o Navio N-T Norma, no Porto de Paranaguá, no dia 18.10.2001, mas, naquilo que encerram teses gerais, aplicáveis a consequências de danos ambientais causados em outros acidentes semelhantes, serão, como natural, evidentemente considerados nos julgamentos a se realizarem.
+(REsp 1114398/PR, Rel. Ministro SIDNEI BENETI, SEGUNDA SEÇÃO, julgado em 08/02/2012, DJe 16/02/2012)
+O órgão fracionário deste Tribunal, por sua vez, entendeu que a tese de cerceamento de defesa deve ser afastada, pois cabe ao juiz, como destinatário final das provas (art. 370 do CPC), avaliar a necessidade de sua produção, a fim de formar o seu convencimento, dispensando as que se mostram meramente protelatórias ou incapazes de modificar substancialmente o seu entendimento” (Id. 31667462).
+Assim, observa-se que o aresto recorrido se encontra em conformidade com a orientação do STJ, pois, para este caso, ambos os Tribunais entenderam que o julgamento antecipado da lide, quando fundamentado, não implica em cerceamento de defesa, em especial ante a inutilidade das provas pretendidas pelo recorrente, incapazes de modificar o julgamento da causa.
+Ante o exposto, com fundamento no art. 1.030, I, “b”, do CPC, e em face da conformidade do acórdão impugnado com o julgamento do recurso paradigma (Tema 437), nego seguimento ao Recurso Especial diante da sistemática de recursos repetitivos.
+Publique-se. Intimem-se.
+Cumpra-se.
+Cuiabá/MT, 7 de dezembro de 2020.
+Desa. MARIA HELENA G. PÓVOAS,
+Vice-Presidente do Tribunal de Justiça
+XIV
