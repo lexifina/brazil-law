@@ -1,0 +1,24 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1026644-82.2020.8.11.0000 - CLASSE 202 - CNJ - CAPITAL
+Agravante : PROPICIO CERILO DE CAMPOS
+Agravado : CONDOMINIO MORADA DO PARQUE
+Número do Protocolo: 1026644-82.2020.8.11.0000
+Trata-se de recurso de AGRAVO DE INSTRUMENTO interposto por PROPICIO CERILO DE CAMPOS contra a r. decisão proferida pela MMa. Juíza de Direito da 11a Vara Cível da Comarca de Cuiabá/MT, que nos autos da ação “Anulatória de Assembleia Condominial” (Proc. no 1054673-19.2020.8.11.0041), indeferiu o pedido de antecipação de tutela formulado pelo agravante para que seja sobrestada a posse da diretoria eleita, porque, na visão da magistrada, “não há nos autos, nesse momento processual, elementos suficientes acerca da conduta irregular da parte requerida ou vício na realização do ato de eleição, sendo necessária a oitiva da parte contrária para a averiguação da plausibilidade das alegações”, e, além disso, “em que pese a convocação para a assembleia geral ordinária prever a distinção na representação de pessoa física e jurídica para a votação, a convenção do condomínio apenas especifica que o instrumento de procuração deverá conter firma reconhecida publicamente, o que se observa, nesse momento processual, devidamente cumprido nos documentos acostados aos autos” (cf. Id. n. 70739975).
+O agravante narra que, junto ao ato de convocação da assembleia geral ordinária do condomínio, na qual seria realizada a eleição para vários cargos, foram divulgadas as orientações sobre a representatividade na assembleia, que previam que, caso o condômino fosse pessoa física, deveria apresentar procuração especifica com firma reconhecida em cartório, e caso o condômino fosse Pessoa Jurídica a procuração deveria ser pública.
+Alega que era um dos candidatos, e, no dia da assembleia, várias das procurações apresentadas pelos votantes não estavam de acordo com as regras, e, além disso, várias pessoas votaram sem procuração, o que influenciou no resultado da Eleição do condomínio.
+Pede, pois, o provimento do recurso, para determinar “que seja sobrestado a posse da diretoria eleita, até a realização de novas eleições que deverão ser convocadas no prazo legal constante na Convenção”, e para “declarar a nulidade da Assembleia de Eleição da Diretoria” (cf. Id. n. 70739974).
+É a suma.
+D E C I D O
+A concessão da antecipação dos efeitos da tutela recursal, e o mesmo vale para a concessão do efeito suspensivo, exige “elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo” (CPC, art. 300), ou seja, não se opera automaticamente só porque a parte quer e requer, exigindo fundamentos relevantes apoiados em prova idônea e, ainda, a demonstração de que o diferimento da análise do pleito recursal possa tornar inútil a pretensão almejada se mais tarde concedida.
+Compete, portanto, à agravante, alegar e provar, como condição de procedibilidade, que a não concessão do efeito suspensivo poderá causar lesão grave e de difícil reparação, sem perder de vista a relevância da fundamentação.
+Sobre a representação do condômino, a 13a cláusula da convenção do condomínio Morada do Parque prevê o seguinte:
+“É lícito a qualquer condômino fazer-se representar nas Assembleias por procurador com poderes legais especiais, seja este condômino ou não, cujo instrumento ficará arquivado no condomínio. No instrumento de eleição deverá estar a firma do outorgante devidamente reconhecida publicamente”.
+Como se vê, não consta do regramento do condomínio a distinção entre a representação de pessoa física e pessoa jurídica contida no aviso que acompanhou o ato de convocação da assembleia (cf. Id. n. 43971220 dos autos de origem).
+Neste caso, assim como mencionado na decisão agravada, a oitiva da parte contrária é essencial para melhor compreensão quanto ao regramento que prevalece no condomínio, e também, quanto aos acontecimentos ocorridos no dia da assembleia.
+Além disso, não vejo em que medida a manutenção da decisão agravada acarretará danos graves ou irreparáveis à agravante, ou, de outro modo, caracteriza risco de perecimento fatal ao direito buscado caso mantida a decisão até ulterior julgamento do mérito recursal.
+Assim, admito a interposição recursal tal como efetivada (CPC, art. 1.019), pelo que recebo e autorizo o processamento do agravo por instrumento, mas INDEFIRO os pleitos de antecipação da pretensão recursal e de concessão de efeito suspensivo, ficando o quadro assim acertado até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, especialmente pelo contraponto ofertado pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se o agravado, na forma do art. 1.019, II, do CPC, para que apresente as contrarrazões.
+Cuiabá-MT, 18 de dezembro de 2020.
+Des. JOÃO FERREIRA FILHO
+Relator
