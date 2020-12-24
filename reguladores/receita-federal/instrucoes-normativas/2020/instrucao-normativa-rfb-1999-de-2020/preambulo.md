@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 1999, de 23 de dezembro de 2020
+Dispõe sobre o preenchimento da Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social (GFIP).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, SUBSTITUTO, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284 de 27 de julho de 2020, e tendo em vista o disposto no art. 32 da Lei nº 8.212, de 24 de julho de 1991, no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, e no art. 47 da Instrução Normativa RFB nº 971, de 13 de novembro de 2009, resolve:
