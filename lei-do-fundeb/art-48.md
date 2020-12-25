@@ -1,0 +1,3 @@
+Art. 48. Os Municípios poderão integrar, nos termos da legislação local específica e desta Lei, o Conselho do Fundo ao Conselho Municipal de Educação, com instituição de câmara específica para o acompanhamento e o controle social sobre a distribuição, a transferência e a aplicação dos recursos do Fundo, observado o disposto no inciso IV do caput e nos §§ 1º, 2º, 4º e 5º do art. 34 desta Lei.
+§ 1º A câmara específica de acompanhamento e de controle social sobre a distribuição, a transferência e a aplicação dos recursos do Fundeb a que se refere o caput deste artigo terá competência deliberativa e terminativa.
+§ 2º Aplicar-se-ão para a constituição dos conselhos municipais de educação as regras previstas no § 5º do art. 34 desta Lei.

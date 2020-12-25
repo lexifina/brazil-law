@@ -1,0 +1,7 @@
+Art. 39. O Ministério da Educação atuará:
+I - no apoio técnico relacionado aos procedimentos e aos critérios de aplicação dos recursos dos Fundos, perante os Estados, o Distrito Federal e os Municípios e as instâncias responsáveis pelo acompanhamento, pela fiscalização e pelo controle interno e externo;
+II - na coordenação de esforços para capacitação dos membros dos conselhos e para elaboração de materiais e guias de apoio à sua função, com a possibilidade de cooperação com instâncias de controle interno, Tribunais de Contas e Ministério Público;
+III - na divulgação de orientações sobre a operacionalização do Fundo e de dados sobre a previsão, a realização e a utilização dos valores financeiros repassados, por meio de publicação e distribuição de documentos informativos e em meio eletrônico de livre acesso público;
+IV - na realização de estudos técnicos com vistas à definição do valor referencial anual por aluno que assegure padrão mínimo de qualidade do ensino;
+V - no monitoramento da aplicação dos recursos dos Fundos, por meio de sistema de informações orçamentárias e financeiras e de cooperação com os Tribunais de Contas dos Estados e Municípios e do Distrito Federal;
+VI - na realização de avaliações dos resultados da aplicação desta Lei, com vistas à adoção de medidas operacionais e de natureza político-educacional corretivas, devendo a primeira dessas medidas ser realizada em até 2 (dois) anos após a implantação do Fundo.

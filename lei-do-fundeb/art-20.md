@@ -1,0 +1,2 @@
+Art. 20. Os recursos dos Fundos serão disponibilizados pelas unidades transferidoras à Caixa Econômica Federal ou ao Banco do Brasil S.A., que realizará a distribuição dos valores devidos aos Estados, ao Distrito Federal e aos Municípios.
+Parágrafo único. São unidades transferidoras a União, os Estados e o Distrito Federal em relação às respectivas parcelas do Fundo cujas arrecadação e disponibilização para distribuição sejam de sua responsabilidade.

@@ -1,0 +1,4 @@
+Art. 28. Realizada a distribuição da complementação-VAAT às redes de ensino, segundo o art. 13 desta Lei, será destinada à educação infantil, nos termos do Anexo desta Lei, proporção de 50% (cinquenta por cento) dos recursos globais a que se refere o inciso II do caput do art. 5º desta Lei.
+Parágrafo único. Os recursos vinculados nos termos do caput deste artigo serão aplicados pelos Municípios, adotado como parâmetro indicador para educação infantil, que estabelecerá percentuais mínimos de aplicação dos Municípios beneficiados com a complementação-VAAT, de modo que se atinja a proporção especificada no caput deste artigo, que considerará obrigatoriamente:
+I - o déficit de cobertura, considerada a oferta e a demanda anual pelo ensino;
+II - a vulnerabilidade socioeconômica da população a ser atendida.
