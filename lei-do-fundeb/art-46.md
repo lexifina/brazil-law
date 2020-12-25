@@ -1,0 +1,1 @@
+Art. 46. O ajuste da diferença observada entre a distribuição dos recursos realizada no primeiro trimestre de 2021 e a distribuição conforme a sistemática estabelecida nesta Lei será realizado no mês de maio de 2021.

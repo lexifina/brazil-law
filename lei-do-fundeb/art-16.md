@@ -1,0 +1,13 @@
+Art. 16. O Poder Executivo federal publicará, até 31 de dezembro de cada exercício, para vigência no exercício subsequente:
+I - a estimativa da receita total dos Fundos, nos termos do art. 3º desta Lei;
+II - a estimativa do valor da complementação da União, nos termos do art. 5º desta Lei;
+III - a estimativa dos valores anuais por aluno (VAAF) no âmbito do Distrito Federal e de cada Estado, nos termos do art. 11 desta Lei;
+IV - a estimativa do valor anual mínimo por aluno (VAAF-MIN) definido nacionalmente, nos termos do art. 12 desta Lei, e correspondente distribuição de recursos da complementação-VAAF às redes de ensino;
+V - os valores anuais totais por aluno (VAAT) no âmbito das redes de ensino, nos termos do § 3º do art. 13 desta Lei, anteriormente à complementação-VAAT;
+VI - a estimativa do valor anual total mínimo por aluno (VAAT-MIN) definido nacionalmente, nos termos do art. 13 desta Lei, e correspondente distribuição de recursos da complementação-VAAT às redes de ensino;
+VII - as aplicações mínimas pelas redes de ensino em educação infantil, nos termos do art. 28 desta Lei;
+VIII - as redes de ensino beneficiadas com a complementação-VAAR e respectivos valores, nos termos do art. 14 desta Lei.
+§ 1º Após o prazo de que trata o caput deste artigo, as estimativas serão atualizadas a cada 4 (quatro) meses ao longo do exercício de referência.
+§ 2º A complementação da União observará o cronograma da programação financeira do Tesouro Nacional e contemplará pagamentos mensais de, no mínimo, 5% (cinco por cento) da complementação anual, a serem realizados até o último dia útil de cada mês, assegurados os repasses de, no mínimo, 45% (quarenta e cinco por cento) até 31 de julho, de 85% (oitenta e cinco por cento) até 31 de dezembro de cada ano e de 100% (cem por cento) até 31 de janeiro do exercício imediatamente subsequente.
+§ 3º O valor da complementação da União, nos termos do art. 5º desta Lei, em função da diferença, a maior ou a menor, entre a receita estimada para o cálculo e a receita realizada do exercício de referência, será ajustado, no primeiro quadrimestre, em parcela única, do exercício imediatamente subsequente e debitada ou creditada à conta específica dos Fundos, conforme o caso.
+§ 4º Para o ajuste da complementação da União, de que trata o § 3º deste artigo, os Estados e o Distrito Federal deverão publicar em meio oficial e encaminhar à Secretaria do Tesouro Nacional do Ministério da Economia, até o dia 31 de janeiro, os valores da arrecadação efetiva dos impostos e das transferências, nos termos do art. 3º desta Lei, referentes ao exercício imediatamente anterior.

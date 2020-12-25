@@ -1,0 +1,6 @@
+Art. 40. A partir da implantação dos Fundos, a cada 2 (dois) anos o Inep realizará:
+I - a avaliação dos efeitos redistributivos, da melhoria dos indicadores educacionais e da ampliação do atendimento;
+II - estudos para avaliação da eficiência, da eficácia e da efetividade na aplicação dos recursos dos Fundos.
+§ 1º Os dados utilizados nas análises da avaliação disposta no caput deste artigo deverão ser divulgados em diversos formatos eletrônicos, inclusive abertos e não proprietários, tais como planilhas e texto, de modo a facilitar a análise das informações por terceiros.
+§ 2º As revisões a que se refere o art. 60-A do Ato das Disposições Constitucionais Transitórias considerarão os resultados das avaliações previstas no caput deste artigo.
+§ 3º Em até 24 (vinte e quatro) meses do início da vigência desta Lei, o Ministério da Educação deverá expedir normas para orientar sua atuação, de forma a incentivar e a estimular, inclusive com destinação de recursos, a realização de pesquisas científicas destinadas a avaliar e a inovar as políticas públicas educacionais direcionadas à educação infantil, devendo agir em colaboração com as Fundações de Amparo à Pesquisa (FAPs) estaduais, o Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes).

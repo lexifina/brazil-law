@@ -1,0 +1,1 @@
+Art. 22. Nos termos do § 4º do art. 211 da Constituição Federal, os Estados e os Municípios poderão celebrar convênios para a transferência de alunos, de recursos humanos, de materiais e de encargos financeiros, bem como de transporte escolar, acompanhados da transferência imediata de recursos financeiros correspondentes ao número de matrículas assumido pelo ente federado.
