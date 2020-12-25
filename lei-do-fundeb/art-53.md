@@ -1,0 +1,1 @@
+Art. 53. Fica revogada, a partir de 1º de janeiro de 2021, a Lei nº 11.494, de 20 de junho de 2007, ressalvado o art. 12 e mantidos seus efeitos financeiros no que se refere à execução dos Fundos relativa ao exercício de 2020.

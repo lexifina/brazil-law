@@ -1,0 +1,3 @@
+Art. 11. A distribuição de recursos que compõem os Fundos, nos termos do art. 3º desta Lei, no âmbito de cada Estado e do Distrito Federal, dar-se-á, na forma do Anexo desta Lei, entre o governo estadual e os seus Municípios, na proporção do número de alunos matriculados nas respectivas redes de educação básica pública presencial, nos termos do art. 8º desta Lei.
+§ 1º A distribuição de que trata o caput deste artigo resultará no valor anual por aluno (VAAF) no âmbito de cada Fundo, anteriormente à complementação-VAAF, nos termos da alínea a do inciso I do caput do art. 6º desta Lei.
+§ 2º O não cumprimento do disposto neste artigo importará em crime de responsabilidade da autoridade competente, nos termos do inciso IX do caput do art. 212-A da Constituição Federal.

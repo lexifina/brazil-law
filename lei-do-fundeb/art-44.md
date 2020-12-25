@@ -1,0 +1,2 @@
+Art. 44. No primeiro trimestre de 2021, será mantida a sistemática de repartição de recursos prevista na Lei nº 11.494, de 20 de junho de 2007, mediante a utilização dos coeficientes de participação do Distrito Federal, de cada Estado e dos Municípios, referentes ao exercício de 2020.
+Parágrafo único. Em relação à complementação da União, será adotado o cronograma de distribuição estabelecido para o primeiro trimestre de 2020.

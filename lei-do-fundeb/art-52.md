@@ -1,0 +1,2 @@
+Art. 52. Na hipótese prevista no § 8º do art. 212 da Constituição Federal, inclusive quanto a isenções tributárias, deverão ser avaliados os impactos nos Fundos e os meios para que não haja perdas ao financiamento da educação básica.
+Parágrafo único. Para efeitos do disposto no caput deste artigo, deve-se buscar meios para que o montante dos recursos vinculados ao Fundeb nos entes federativos seja no mínimo igual à média aritmética dos 3 (três) últimos exercícios, na forma de regulamento.

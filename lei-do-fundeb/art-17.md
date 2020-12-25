@@ -1,0 +1,8 @@
+Art. 17. Fica mantida, no âmbito do Ministério da Educação, a Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade, instituída pelo art. 12 da Lei nº 11.494, de 20 de junho de 2007, com a seguinte composição:
+I - 5 (cinco) representantes do Ministério da Educação, incluídos 1 (um) representante do Inep e 1 (um) representante do Fundo Nacional de Desenvolvimento da Educação (FNDE);
+II - 1 (um) representante dos secretários estaduais de educação de cada uma das 5 (cinco) regiões político-administrativas do Brasil indicado pelas seções regionais do Conselho Nacional de Secretários de Estado da Educação (Consed);
+III - 1 (um) representante dos secretários municipais de educação de cada uma das 5 (cinco) regiões político-administrativas do Brasil indicado pelas seções regionais da União Nacional dos Dirigentes Municipais de Educação (Undime).
+§ 1º As deliberações da Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade serão registradas em ata circunstanciada, lavrada conforme seu regimento interno.
+§ 2º As deliberações relativas à especificação das ponderações constarão de resolução publicada no Diário Oficial da União até o dia 31 de julho de cada exercício, para vigência no exercício seguinte.
+§ 3º A participação na Comissão Intergovernamental de Financiamento para a Educação Básica de Qualidade é função não remunerada de relevante interesse público, e seus membros, quando convocados, farão jus a transporte e a diárias.
+§ 4º Para cada um dos representantes referidos nos incisos I, II e III do caput deste artigo, será designado o respectivo suplente.

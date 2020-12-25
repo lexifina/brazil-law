@@ -1,0 +1,1 @@
+Art. 2º Os Fundos destinam-se à manutenção e ao desenvolvimento da educação básica pública e à valorização dos profissionais da educação, incluída sua condigna remuneração, observado o disposto nesta Lei.

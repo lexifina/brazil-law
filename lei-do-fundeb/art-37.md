@@ -1,0 +1,1 @@
+Art. 37. As informações e os dados contábeis, orçamentários e fiscais disponibilizados pelos Estados, pelo Distrito Federal e pelos Municípios, conforme previsto no art. 163-A da Constituição Federal, deverão conter os detalhamentos relacionados ao Fundeb e à manutenção e ao desenvolvimento do ensino.

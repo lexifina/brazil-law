@@ -1,0 +1,1 @@
+Art. 27. Percentual mínimo de 15% (quinze por cento) dos recursos da complementação-VAAT, previstos no inciso II do caput do art. 5º desta Lei, será aplicado, em cada rede de ensino beneficiada, em despesas de capital.
