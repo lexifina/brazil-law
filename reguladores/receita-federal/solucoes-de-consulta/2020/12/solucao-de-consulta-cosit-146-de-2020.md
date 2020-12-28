@@ -1,0 +1,12 @@
+Solução de Consulta Cosit nº 146, de 18 de dezembro de 2020
+Assunto: Imposto sobre Operações de Crédito, Câmbio e Seguros ou relativas a Títulos ou Valores Mobiliários - IOF
+SEGURO RURAL. ISENÇÃO DO IOF. ATIVIDADE AGROPECUÁRIA. RETENÇÃO DO IOF PELA SEGURADORA. BENS DO ATIVO IMOBILIZADO. ARMAZENAMENTO. TRANSPORTES DE PRODUTOS INDUSTRIALIZADOS DA ATIVIDADE AGROPECUÁRIA.
+Enquanto não for implementado o fundo destinado à cobertura suplementar dos riscos do seguro rural nas modalidades agrícola, pecuária, aquícola e florestal que foi criado pela Lei Complementar nº 137, de 2010, o prêmio pago pelo segurado pela contratação de seguro rural não se sujeita à retenção do IOF, subsistindo a isenção desse imposto nos termos do inciso III do art. 23 do Decreto nº 6.306, de 2007.
+As modalidades de seguro rural são aquelas definidas nas resoluções do Conselho Nacional de Seguros Privados - CNSP e nas orientações da Superintendência de Seguros Privados - SUSEP;
+Além do seguro do produto da atividade agropecuária enquadrado na modalidade de seguro rural (leite in natura, carne, café, soja, algodão, milho, arroz, feijão, fumo, mel, etc.), o seguro dos bens pertencentes ao produtor rural ou à cooperativa agropecuária e utilizados diretamente na atividade rural, incluindo prédios para armazenamento, equipamentos agropecuários, e transporte da safra, enquadra-se na modalidade de seguro rural, estando, portanto, isento do IOF;
+Contudo, os seguros de produtos industrializados (por beneficiamento ou por transformação) ainda que originados da atividade agropecuária, tais como: leite em pó, creme de leite, achocolatados, etc., não podem ser enquadrados na modalidade de seguro rural, sujeitando-se à tributação do IOF. Da mesma forma, o seguro dos equipamentos industriais, dos prédios para armazenamento, e o seguro do transporte desses produtos industrializados não se enquadram na modalidade de seguro rural, mesmo que os equipamentos, prédios e veículos para transportes pertençam ao imobilizado da indústria agropecuária.
+Dispositivos Legais: Decreto-Lei nº 73, de 21 de novembro de 1966, art. 19; Decreto nº 6.306, de 14 de dezembro de 2007, art. 23, inciso III; Resolução do Conselho Nacional de Seguros Privados - CNSP nº 339, de 11 de maio de 2016, arts. 2º e 3º; Lei nº 8.023, de 1990, arts. 1º e 2º; Instrução Normativa RFB nº 1.700, de 2017, arts. 248, 249 e 250.
+FERNANDO MOMBELLI
+Coordenador-Geral
+SC Cosit nº 146-2020
+[arquivo anexo: SC Cosit nº 146-2020.pdf]
