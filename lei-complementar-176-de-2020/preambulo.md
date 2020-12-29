@@ -1,0 +1,2 @@
+Institui transferências obrigatórias da União para os Estados, o Distrito Federal e os Municípios, por prazo ou fato determinado; declara atendida a regra de cessação contida no § 2º do art. 91 do Ato das Disposições Constitucionais Transitórias (ADCT); e altera a Lei nº 13.885, de 17 de outubro de 2019.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei Complementar:
