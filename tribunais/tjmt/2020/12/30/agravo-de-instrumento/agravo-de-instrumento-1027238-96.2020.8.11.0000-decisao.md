@@ -1,0 +1,38 @@
+Visto.
+Trata-se de Agravo de Instrumento interposto por UNIMED CUIABÁ COOPERATIVA TRABALHO MÉDICO contra decisão proferida pelo Juízo do Plantão Cível da Comarca de Cuiabá/MT, nos autos da Ação de Obrigação de Fazer no 1058919-58.2020.8.11.0041 proposta por MARIANA AIRES MARIM, que deferiu a tutela de urgência determinando à agravante que forneça o procedimento de Terapia de Indução, com dois ciclos no intervalo de 12 (doze) meses, o primeiro programado para o dia 04/01/2021, para aplicação do fármaco Alentuzumabe, Metilprednisolona e Pré-medicações em cada dia de infusão junto ao Hospital Israelita Albert Einstein a agravada, diagnosticada com Esclerose Múltipla, sob pena de multa diária no valor de cinco mil reais até o limite de trinta mil reais.
+Aduz a agravante que “não tem obrigação legal ou contratual de custear tratamento em desconformidade com as Diretrizes de Utilização apontadas pela Agência Nacional de Saúde como é o caso do tratamento de TERAPIA DE INDUÇÃO, para tratar da esclerose múltipla, com aplicação o medicamento ALENTUZUMABE (LEMTRADA), sendo indicado para o referido tratamento o medicamento NATALIZUMABE, conforme determinado no rol da ANS, inclusive o medicamento pleiteado não consta no item 65 das Diretrizes de Utilização da ANS para o tratamento de Esclerose Múltipla”.
+Alega a inexistência de perigo de dano ou risco de resultado útil ao processo, ou seja, de urgência/emergência, por se tratar de tratamento de caráter eletivo.
+Sustenta a ausência de previsão do tratamento no rol da Agência Nacional de Saúde (ANS), que por sua vez desobriga o fornecimento/custeio pelos planos de saúde.
+Assevera que “jamais negou tratamento à agravada, sendo disponibilizado o medicamento NATALIZUMABE, o qual está disposto no rol da ANS para o caso da Agravada”.
+Alega ainda que o contrato não prevê a realização de tratamento em unidades de alto custo, como é o caso do Hospital Albert Einstein localizado em outro Estado da Federação e sim, cobertura no Estado de Mato Grosso em locais credenciados ao Sistema Unimed, já que se tratada de um Plano Super Class Individual Familiar Enfermaria.
+Assevera também que “o contrato de prestação de saúde entabulado entre as partes, prevê expressamente que em se tratando de atendimento fora da área de atuação, como no caso em testilha, a responsabilidade da operadora deve ser limitada aos valores de tabela praticados pela operadora”.
+Pretende a agravante, a concessão do efeito suspensivo para suspender a decisão agravada.
+No mérito, requerer a reforma da decisão questionada com a revogação da tutela de urgência.
+Subsidiariamente, pugna pela limitação do custeio do tratamento ao valor de tabela, ou seja, tratamento constante no rol da ANS e em hospital pertencente a rede credenciada ou ainda que, a agravada que preste caução idônea condizente com o valor de todo o tratamento requisitado.
+É o relatório.
+Decido.
+Extrai-se dos autos que a agravada, hoje com 22 anos de idade, é portadora de Esclerose Múltipla, forma recorrente (altamente ativa) de caráter agressivo com alta carga de lesões encefálicas.
+Com efeito, o médico assistente prescreveu o tratamento de Terapia de Indução (indicada para pacientes com a forma agressiva da doença, como é o caso dos autos), realizada com aplicação o medicamento ALENTUZUMABE (LEMTRADA) junto ao Hospital Israelita Albert Einstein, por entender que é potente e altamente eficaz, já que controla a doença rapidamente e promove uma “reprogramação imunológica” para que a doença não se desenvolva.
+Em seguida, a agravada solicitou autorização à agravante para início do tratamento com internação no dia 04/01/2021, que foi parcialmente deferida, sendo autorizado 35% (trinta e cinco) por cento das custas totais, uma vez que o tratamento/medicamento perquirido está e, desconformidade com as Diretrizes de Utilização da ANS.
+Ato contínuo, a agravada ajuizou uma demanda contra a Unimed Cuiabá, que foi deferida, motivando a interposição do presente recurso.
+Pois bem.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de concessão do efeito suspensivo merece acolhimento em parte, diante da presença dos pressupostos autorizadores para o seu deferimento.
+Não há dúvidas quanto a doença que acomete a agravada, bem como a necessidade do tratamento para conter o avanço da doença, que se encontra na fase ativa e agressiva com alta carga de lesões, conforme se extrai-se do laudo médico (ID 46542771).
+O profissional revela ainda que caso a paciente não receba o tratamento adequado há grande risco de incapacidades neurológicas permanentes, principalmente em relação a capacidade de andar.
+Assim, embora o medicamento ALENTUZUMABE (LEMTRADA) utilizado na terapia não esteja previsto no rol da ANS, as evidências são de que é mais eficaz no tratamento da doença, ante ao seu estágio agressivo, que pode conter o avanço das lesões encefálicas e medulares, conforme atestado pelo profissional que assiste a paciente.
+Tal fato, demonstra, por ora, a imprescindibilidade da mediação em detrimento as demais, visando a saúde e melhoria de vida da paciente, direitos fundamentais previsto na Constituição Federal.
+À proposito:
+“RECURSO DE APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANO MORAL – UNIMED - PLANO DE SAÚDE – ABRANGÊNCIA NACIONAL – TRATAMENTO DE QUIMIOTERAPIA – COBERTURA NEGADA – NÃO EXCLUSÃO CONTRATUAL – DANO MORAL CONFIGURADO – VALOR DA INDENIZAÇÃO MANTIDO – JUROS DE MORA A PARTIR DA CITAÇÃO – CORREÇÃO MONETÁRIA A PARTIR DO ARBITRAMENTO. RECURSO PROVIDO EM PARTE. “(...)2. O entendimento do Tribunal de origem está em consonância com a orientação do STJ de que não é possível a exclusão de tratamento considerado apropriado para resguardar a saúde e a vida do paciente (...)” (AgInt no AREsp 963.896/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/02/2017, DJe 18/04/2017). [...]” (TJMT, Ap 46062/2017, DESA. NILZA MARIA PÔSSAS DE CARVALHO, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 18/07/2017, Publicado no DJE 27/07/2017) – destaquei.
+Comprovada a probabilidade do direito não há que falar em reforma da decisão agravada nesse ponto.
+Por outro lado, não cabe a paciente escolher onde será realizado o tratamento, como fez no caso concreto, uma vez que não previsão legal/contratual para tanto.
+O contrato firmado entre as partes (Plano Super Class Individual Familiar Enfermaria) não prevê a realização de tratamento em unidades de alto custo, como é o caso do Hospital Albert Einstein localizado em outro Estado da Federação e sim, cobertura no Estado de Mato Grosso em locais credenciados ao Sistema Unimed.
+O pactuado entre contratante e contratado desobriga a Unimed a custear o tratamento no Hospital Albert Einstein em São Paulo, que é de alto custo.
+Assim, o tratamento deve ser custeado pela agravante no Estado de Mato Grosso em sua rede credenciada. Caso contrário, deverá custear o valor previsto em sua tabela e a agravada arcar com a diferença.
+Com efeito, na espécie, verifica-se a plausibilidade do direito invocado a revelar, nesta fase de cognição sumária, a relevância da pretensão recursal, bem como o perigo de dano.
+Ante o exposto, defiro parcialmente o efeito suspensivo vindicado, para que o tratamento requerido seja ofertado pela agravante no Estado de Mato Grosso em sua rede credenciada, caso contrário, que arque com os valores referentes a sua tabela, devendo o montante remanescente ser custeado pela parte agravada.
+Comunique-se o juízo de primeiro grau.
+Intime-se a agravada, para, querendo, apresentar contrarrazões.
+Após o retorno do expediente normal de trabalho, redistribua-se os autos na forma regimental.
+Cumpra-se.
+Des. Mario Roberto Kono de Oliveira
+Relator Plantonista
