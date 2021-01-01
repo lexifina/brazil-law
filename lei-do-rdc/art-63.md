@@ -1,6 +1,5 @@
 Art. 63. É instituído o Fundo Nacional de Aviação Civil - FNAC, de natureza contábil e financeira, vinculado à Secretaria de Aviação Civil da Presidência da República, para destinação dos recursos do sistema de aviação civil.
 § 1º São recursos do FNAC:
-II - os referidos no art. 1º da Lei nº 9.825, de 23 de agosto de 1999;
 III - os valores devidos como contrapartida à União em razão das outorgas de infraestrutura aeroportuária;
 IV - os rendimentos de suas aplicações financeiras;
 V - os que lhe forem atribuídos para os fins de que trata o art. 63-A; e
@@ -10,7 +9,9 @@ I - no desenvolvimento e no fomento do setor de aviação civil e das infraestru
 II - no incremento do turismo.
 § 3º As despesas do FNAC correrão à conta de dotações orçamentárias específicas alocadas no orçamento geral da União, observados os limites anuais de movimentação e empenho e de pagamento.
 § 4º Deverão ser disponibilizadas, anualmente, pela Secretaria de Aviação Civil da Presidência da República, em seu sítio eletrônico, informações contábeis e financeiras, além de descrição dos resultados econômicos e sociais obtidos pelo FNAC.
-§ 5º Os recursos do FNAC também poderão ser aplicados no desenvolvimento, na ampliação e na reestruturação de aeroportos concedidos, desde que tais ações não constituam obrigação do concessionário, conforme estabelecido no contrato de concessão, nos termos das normas expedidas pela Agência Nacional de Aviação Civil - ANAC e pela Secretaria de Aviação Civil da Presidência da República - SAC, observadas as respectivas competências.
+§ 5º Os recursos do FNAC também poderão ser aplicados:
+I - no desenvolvimento, na ampliação e na reestruturação de aeroportos concedidos, desde que tais ações não constituam obrigação do concessionário, conforme estabelecido no contrato de concessão, nos termos das normas expedidas pela Agência Nacional de Aviação Civil (Anac) e pela Secretaria de Aviação Civil (SAC) da Presidência da República, observadas as respectivas competências;
+II - no custeio de eventuais despesas decorrentes de responsabilidade civil perante terceiros, na hipótese de ocorrência de danos a bens e a pessoas, passageiros ou não, provocados por atentados terroristas, por atos de guerra ou por eventos correlatos contra aeronaves de matrícula brasileira operadas por empresas brasileiras de transporte aéreo público, excluídas as empresas de táxi aéreo.
 § 6º Os recursos do FNAC, enquanto não destinados às finalidades previstas no art. 63-A, ficarão depositados na Conta Única do Tesouro Nacional.
 § 7º Os recursos do FNAC poderão ser objeto e garantia de empréstimo, a ser celebrado até 31 de dezembro de 2020, aos detentores de concessão aeroportuária ou de concessão para a prestação de serviço regular de transporte aéreo e aos prestadores de serviço auxiliar ao transporte aéreo, desde que comprovem ter sofrido prejuízo decorrente da pandemia da Covid-19.
 § 8º Os limites de taxa de juros, de carência, de prazo de pagamento e das demais condições contratuais serão estabelecidos em regulamento, observados os seguintes parâmetros:
