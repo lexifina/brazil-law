@@ -1,1 +1,0 @@
-Art. 47. Nos 2 (dois) primeiros anos de vigência do Fundeb, a União alocará, além dos destinados à complementação ao Fundeb, recursos orçamentários para a promoção de programa emergencial de apoio ao ensino médio e para reforço do programa nacional de apoio ao transporte escolar.
