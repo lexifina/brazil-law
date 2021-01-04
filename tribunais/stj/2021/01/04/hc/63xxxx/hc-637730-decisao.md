@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ADRIANO DORENI DOS SANTOS DA SILVAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(HC n. 2020/2.210.900-0).
+Opaciente encontra-se preso desde o dia 2/12/2020, em cumprimento à condenação de 5 anos e9 mesesem regime semiaberto, pelo cometimento dos crimes tipificados nos arts. 288 e 313-Ado Código Penal.
+O impetrante sustenta que (fl. 9):
+Estando no regime semiaberto e trabalhando durante o dia e retornando a noite ao estabelecimento prisional, aumentará ainda mais, o risco de transmissão, tanto para o paciente quanto aos que ficam. Temos por evidenciado que o Estado não possui estrutura para encarcerados.
+A realidade do sistema prisional brasileiro é a de não comportar a quantidade de presos em cada unidade, eis que já há tempos há população carcerária acima da capacidade de vagas para toda essa massa carcerária, diante desta situação, ocorre risco enorme de proliferação entre eles do vírus.
+Caso haja a proliferação na unidade prisional, do coronavírus, o Estado não disporá de condições para suporta tamanho caos e, portanto, sofrerá prejuízos inestimáveis, por ferir indubitavelmente direitos assegurados pela Constituição Federal e Art. 14 da lei 7.210/84.
+Aduz, por fim, que "assome-se a toda a situação que está passando o Paciente, reiteramos que o mesmo realiza tratamento médico psiquiátrico (para CID F 43.2 F 23.0, em anexo), com uso de medicamentos (que de momento não está recebendo), em razão do encarceramento. Outra questão relevantíssima é a de que o Paciente/Reeducando é genitor de uma criança de 07 (sete) anos de idade (certidão de nascimento, em anexo) e que não está mantendo contato pessoal e podendo proceder a manutenção material da mesma, eis que não está cumprindo a pena no regime determinado (o semiaberto) no domicílio aonde possui atividade laboral formal e comprovada" (fls. 10-11).
+Requer"a concessão LIMINAR da ordem, para que seja dado cumprimento a pena do Paciente/Reeducando, no regime sentenciado, a ser cumprido no domicílio declarado, comprovado e com o qual o mesmo possui vínculo laboral e familiar. O presente pedido concessivo dá-se, também, pelos demais fundamentos lançados alhures. Requer, outrossim, seja o presente pedido de habeas corpus julgado procedente ao final, confirmando-se a decisão liminar" (fl. 13).
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão impugnada foi proferida por desembargador. Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça.
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
