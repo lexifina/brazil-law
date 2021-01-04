@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de MARCIEL VIEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Nº 1.0000.20.593592-7/000).
+O paciente encontra-se preso desde o dia 02 de dezembro de 2020, investigado pelo suposto cometimento dos delitos previstos no artigo 2º da Lei 12.850/2013; Art. 1º da Lei 9613/98; Art. 155, §6, do CP; Art. 17, da Lei 10.826/2003.
+Sustenta que a "prisão temporária do requerente não encontra guarida no rol do inc. III do art. 1º da Lei 7960/89" (fl. 16).
+Alega que o "pleito defensivo baseia-se no julgamento pela segunda turma do STF no HC 165704 que, por maioria de votos, determinou a substituição da prisão cautelar por domiciliar dos pais e responsáveis por crianças menores de 12 anos e pessoas com deficiência, desde que cumpridos os requisitos previstos no artigo 318 do Código de Processo Penal (CPP) e outras condicionantes" (fl. 4).
+Requer o "recolhimento do mandado de prisão temporária uma vez ausentes qualquer dos requisitos para sua decretação" e a "concessão da prisão domiciliar pela presença de filho menor de 12 anos (04 anos) que reside exclusivamente com o pai aqui no brasil (Habeas Corpus 165704). Por fim, requer a "substituição da prisão temporária por medidas alternativas constantes no art. 319 do CPP, principalmente por se tratar de figura pública (vereador)" (fls. 16-17).
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+.. (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular, porquanto, conforme consignado pela origem, "o investigado comprovou, por meio dos documentos acostados às fls. 296/305, que é pai de uma criança menor de 4 anos, contudo não demonstrou que ele é indispensável aos cuidados desse infante" (fl. 87).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
