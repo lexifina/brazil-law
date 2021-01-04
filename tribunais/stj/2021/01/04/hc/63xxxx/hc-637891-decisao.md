@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de HOMERO VIEIRA DE ALMEIDA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (HC n. 00266915-72.2020.8.08.0000).
+O paciente foi preso preventivamente dia 10/12/2020 pela suposta prática do comércio ilegal de arma de fogo, uso de documento falso e falsa identidade.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, por ofensa ao art. 10 do CPP. Aduz a ocorrência de excesso de prazo dada a manutenção da prisão preventiva frente a não conclusão da investigação policial, por prazo superior a 10 dias. Isso porque a autoridade policial não entregou o inquérito policial em juízo antes do recesso forense, assim como permanecem pendentes os atos processuais subsequentes (análise e oferecimento da denúncia, por parte do Ministério Público e análise e recebimento da denúncia, por parte do magistrado competente).
+O impetrante assevera, ainda, haver condições pessoais favoráveis (primário, portador de bons antecedentes, ter profissão lícita e endereço fixo na comarca de Vila Velha), sobretudo por ser genitor de duas crianças menores (uma com 6 meses de idade e outra com 3 anos). Por fim, sustenta que a prisão preventiva está despida de fundamentação idônea, por não preencher os requisitos autorizadores da prisão, nos moldes do art. 312 do CPP.
+Nesse panorama, requer o impetrante a revogação da prisão preventiva em razão do constrangimento ilegal a que vem sendo submetido, com aplicação de medidas cautelares diversas da prisão.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+.. (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
