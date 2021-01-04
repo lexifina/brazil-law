@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de NILTON CAETANO GOMES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Nº 1.0000.20.575685-1/000).
+Consta dos autos que "o Paciente foi condenado a 08 (oito) anos e 02 (dois) meses de reclusão, a ser cumprida inicialmente em regime fechado, pela prática do delito previsto no artigo 213 do Código Penal" e que lhe foi concedida a "progressão ao regime semiaberto e, também, autorização para trabalho externo", mas foi indeferido o pedido de prisão domiciliar (fl. 10).
+Sustenta que ao paciente deve ser concedida a prisão domiciliar "pelo risco do COVID-19 e como trata- se de pessoa idosa, atualmente com 77 anos de idade, e não somente a idade avançada, o requerente ainda é portador de hipertensão arterial, deficit de visão grave devido alteração na retina e além de ter dificuldades em realizar suas atividades diárias, como é elucidado por laudos médicos aqui acostados" (fl. 4).
+Requer, liminarmente, a concessão da prisão domiciliar ao paciente (fl. 8).
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+.. (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular, porquanto conforme consignado pela origem, "a simples inclusão do sentenciado em grupos mais vulneráveis à contaminação (idosos, diabéticos, hipertensos, tuberculosos, dentre outros) não os tornam vítimas iminentes da contaminação, especialmente em razão das medidas adotadas (tanto locais, quanto estaduais) para a preservação do público interno das unidades prisionais e da conreolada situação sanitária da unidade prisional local" (fl. 30).
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
