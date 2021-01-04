@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de reclamaçãocom pedido de liminarapresentada por FRANCISCO LISBOA DE MOURA contra julgado doTribunal de Justiça do Estado de São Paulo ementado nos seguintes termos:
+Agravo de instrumento. Ação de sobrepartilha. Verba previdenciária, sem constarem dependentes declarados. Questão sucessória que pode afetar direito de ascendente, nos termos do art. 1.829, II, do CC, sendo este o critério de composição do polo passivo da ação. Decisão mantida. Recurso desprovido.
+Sustenta o reclamante que o acórdão proferido no REsp n.1.368.123/SP, relatado pelo Ministro Raul Araújo, foi descumprido pelo julgado do TJSP, o que motivou a formulação da reclamação que ora se analisa.
+Narra que "não concorda com a divisão dos valores com a sogra Terezinha de Camargo Negrão, pois, conforme interpretação desse Egrégio Superior Tribunal de Justiça, no Recurso Especial nº 1.368.123/SP, datado de 22 de abril de 2015, trouxe um novo entendimento ao Novo Código Civil (NCC), artigo 1.829 e respectivos incisos" (fl. 11).
+O reclamante "entende ser o único herdeiro, até mesmo porque, conforme informado, a filha veio a óbito, poucos minutos antes da genitora. Existe um RPV (Requisição de Pequeno Valor), em favor daquele e ainda não recebido" (fl. 11).
+Requer, ao final, a suspensão do processo em caráter liminar, "para evitar o trânsito em julgado e possivelmente dano irreparável ou de difícil reparação, art. 989, inciso II, do Novo Código de Processo Civil" (fl. 17).
+É, no essencial, o relatório. Decido.
+A reclamação prevista no art. 105, I, f, da Constituição Federal é garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou para garantir a autoridade de suas decisões em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado aqui proferido.
+Nota-se que o reclamante insurge-se contra o acórdão do colegiado estadual, alegando que julgado do Superior Tribunal de Justiça que versou sobre herança, herdeiros necessáriose partilha de bensestá sendo violado.
+No entanto, o pleito não se enquadra em nenhuma das hipóteses de cabimento de reclamação, uma vez que inexiste decisão desta Corte proferida no caso concreto que estejasendo descumprida.
+Ademais, conforme reiterada jurisprudência do STJ, não é possível a formulaçãode reclamação como sucedâneo recursal para dirimir divergência jurisprudencial.
+Transcrevo julgado sobre o tema:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. CASO CONCRETO QUE NÃO SE AMOLDA A NENHUMA DAS HIPÓTESES AUTORIZATIVAS DA VIA ELEITA. ORIENTAÇÃO DESTA CORTE NO SENTIDO DE QUE É INADMISSÍVEL A UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. AFRONTA À AUTORIDADE DE DECISÃO PROFERIDA EM OUTRO PROCESSO. AUSÊNCIA DE EFEITO VINCULANTE. .. 2. Nos termos do art. 105, f, da CF c/c o art. 187 do RISTJ, a Reclamação é cabível para preservar a competência deste Tribunal ou para garantir a autoridade das suas decisões, não podendo servir como sucedâneo recursal para discutir o teor da decisão hostilizada ou como meio de dirimir divergência jurisprudencial. .. 4. Agravo regimental não provido. (AgRg na Rcl n. 24.962/MG, relator Ministro Mauro Campbell, Primeira Seção, DJe de 1º/7/2015.)
+Assim, inexistindo acórdão desta Corte no caso concreto envolvendo as mesmas partes ora em litígio, não há falar em admissibilidade da reclamação em análise, por ausência de pressuposto formal da ação.
+Ante o exposto, indefiro liminarmente a reclamação.
+Publique-se. Intimem-se.
