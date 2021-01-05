@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por MARIA NELI ROCHA DE MORAIS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que o recurso em mandado de segurança não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+Ademais, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, quedou-se inerte (fls. 457). Dessa forma, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Por fim, em relação ao pedido de tutela provisória formulado, de acordo com o que prevê o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos: fumus boni juris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido; e periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie, tendo em vista o não conhecimento deste recurso, fica prejudicado o pedido de efeito suspensivo porquanto ausente o primeiro pressuposto, fumus boni juris.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
