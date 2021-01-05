@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de mandado de segurançacom pedido de liminarimpetrado por MARIA DO SOCORRO ANTUNES DE MENDONCAcontra ato praticado por desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOque indeferiu o pedido de liminar formulado em anterior writao fundamento de que "a matéria já está jurisdicionalizada e não se enquadra nas hipóteses de competência do Plantão Judiciário de 2ª Instância" (fl. 165).
+Alega a impetrante que "o novo mandado de segurança, impetrado no Plantão Judiciário da Corte inferior e, que teve a sua jurisdição negada, não buscava, como o anterior referido equivocadamente pela d. autoridade coatora, assegurar a diplomação, inclusive que se fez comprovar documentalmente (doc. 05), mas sim, revogar a ilegal medida cautelar  art. 319, VI, do CPP  que violou direito líquido e certo da impetrante, eleita pelo sufrágio popular" (fl. 8).
+Requer seja deferida a liminar para "determinar o imediato sobrestamento da cautelar de suspensão da função pública, assegurando à impetrante o pleno exercício do cargo de vereança a partir da posse, em 01.01.2021,até o julgamento do mérito do presente writ ou, subsidiariamente, ante a negativa de jurisdição, que seja determinada a incontinenti apreciação do pedido liminar no mandado de segurança nº 2304079-17.2020.8.26.0000, pela d.autoridade coatora, considerando que a matéria no está jurisdicionalizada, pois, distintos objetos das impetrações aqui retratadas" (fl. 28).
+É, no essencial, o relatório. Decido.
+Segundo o art. 105, I, b, da Constituição Federal, que demanda interpretação restritiva, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, os mandados de segurança impetrados contra ato de ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Não fosse isso, o § 1º do art. 10 da Lei n. 12.016/2019, que disciplina o mandado de segurança, assevera que "do ato do relator caberá agravo para o órgão competente do tribunal que integre".
+Aplica-se ao caso, portanto, a Súmula n. 41 do STJ: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos."
+Ante o exposto, com fundamento no art. 212 do RISTJ, indefiro liminarmente este mandado de segurança em face da incompetência absoluta do Superior Tribunal de Justiça.
+Sem condenação em honorários (Súmula n. 105 do STJ).
+Publique-se. Intimem-se.
+Com o trânsito em julgado, arquivem-se os autos.
