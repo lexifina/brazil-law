@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JOSE RICARDO ALVESem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ(HC n. 0760092-27.2020.8.18.0000).
+Opaciente teve a prisão temporária decretada no dia 20/8/2020, estando preso desde o dia 3/12/2020, pelo cometimento, em tese docrime tipificado no art. 157, § 2º, do Código Penal.
+Oimpetrante sustenta que é"necessário destacar que o decreto de prisão temporária sequer apreciou a insuficiência das medidas cautelares alternativas, previstas no Art. 319 do Código de Processo Penal. Temos que a prisão temporária não é necessária, adequada ou proporcional. Além disso, o investigado é primário, possui defensor constituído, residência fixa, ocupação lícita, família constituída e está colaborando com a investigação, especialmente através da indicação de testemunhas. Ainda além, cumpre destacar que o investigado, caso não tenha o seu direito reconhecido, em respeito à justiça e superando qualquer assertiva que possa denotar fuga ou esquive da fiel aplicação da lei penal, será apresentado na Delegacia de Polícia, conforme protocolo nos autos do Inquérito Policial (IP - 005)" (fl. 6).
+Requer (fl. 7):
+(..) a superação excepcional da Súmula 691 do STF, diante da flagrante ilegalidade/inconstitucionalidade, para conhecer do presente writ e conceder a Ordem de Habeas Corpus, liminarmente, para revogar a medida constritiva cautelar, vez que viola o direito à não auto-incriminação e que inexiste o periculum libertatis, além de ser carente de fundamentação quanto à aplicação de cautelares alternativas, ou ainda, subsidiariamente, suspenda-se o decreto de prisão temporária até o julgamento de mérito, sob pena de perda do objeto e efetivação do constrangimento ilegal.
+Alternativamente, caso assim entenda esta Corte Superior, sejam adotadas medidas cautelares diversas da prisão, com fundamento nos art. 282 e 319 do Código de Processo Penal, confirmando-se a liminar quando do julgamento de mérito.
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão impugnada foi proferida por desembargador. Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça.
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
