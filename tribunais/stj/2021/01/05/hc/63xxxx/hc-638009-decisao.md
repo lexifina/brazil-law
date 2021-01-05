@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de FELLIX NYCOLLAS DE MORAES SILVA e FRANK ALAF DE MORAES SILVA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+O Tribunal local, em decisão rarefeita, ao denegar o pedido liminar formulado no writ originário de n. 1.0000.20.604526-2/000, manteve a segregação cautelar dos ora pacientes, decretada pela autoridade coatora da localidade, nos contornos do art. 310, inciso II, do CPP.
+Consta dos autos a prisão em flagrante dos custodiados, em 18/12/2020, ulteriormente convertida em preventiva, decorrente de suposta prática - em concurso material heterogêneo - dos delitos capitulados nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/06.
+Em suas razões, sustenta o impetrante a ocorrência de constrangimento ilegal, uma vez que a desarrazoada segregação processual dos pacientes, não precedida da regular e "intransponível" audiência de custódia, não preenche - como ultima ratio e em atenção ao hodierno entendimento perfilhado pelo Pretório Excelso sobre o tema - os requisitos autorizadores do cárcere guerreado, nos moldes dos arts. 282, § 6º; 310, § 4º; 312; 313, § 2º; e 315, todos do CPP.
+Nesse panorama, roga o impetrante pela relaxamento da prisão preventiva alhures, expedindo-se em favor dos pacientes os respectivos alvarás de soltura e, na sequência, sejam-lhes concedida a liberdade provisória incondicionada ou, residualmente, mediante cominação de medidas cautelares alternativas, não prisionais, ex vi dos arts. 316, caput, 319 e 654, § 2º, todos do CPP.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, a teor dos parcos elementos de convicção coligidos ao presente writ, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
