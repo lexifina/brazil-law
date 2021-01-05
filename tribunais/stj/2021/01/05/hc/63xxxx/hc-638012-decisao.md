@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de EDMILSON ELIAS DA COSTAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ(HC n. 0640180-69.2020.8.06.0000).
+Infere-se dos autos que o paciente teve a prisão domiciliar com monitoramento eletrônico-concedida em razão de seu enquadramento nas previsões contidas na Recomendação CNJ n. 62/2020- revertida pelo Juízo da 1ª Vara de Execução Penal da Comarca de Fortaleza em 17/12/2020com expedição do mandado de prisão no mesmo dia.
+Nos autos do writ de origem, o plantonista, Desembargador Mario Parente Teófilo Neto, deferiu "a liminar, mas em menor extensão, no sentido de que o juiz coator apresente e disponibilize a decisão judicial de revogação da prisão domiciliar", pois entendeu que haveria decisão revogatória da prisão domiciliar não disponível ao impetrante ou mesmo ao paciente, irregularidade que deveria ser sanada pelo juízo da execução(fl. 11):
+Empós análise das peças processuais acostadas nos autos, bem como diante de consulta dos autos sob nº 0131663-18.2009.8.06.0001, por meio do Sistema Eletrônico de Execução Unificado do Conselho Nacional de Justiça (SEEU-CNJ), verifica-se que consta mandado de prisão, tendo como motivo: "Prisão decretada em função de revogação de benefício", conforme movimentação no evento nº 44 (17/12/2020, às 17 h 42 min 11 s).
+Em que pese o impetrante explane que não há decisão judicial para revogar o benefício da prisão domiciliar, percebe-se que no evento nº 43 a seguinte movimentação processual "MOVIMENTAÇÃO SEM VISIBILIDADE EXTERNA"(17/12/2020, às 15 h 39 min 17 s). Ou seja, a priori, compreende-se que há uma decisão judicial que revogou a prisão em domiciliar, possivelmente em decorrência do descumprimento do monitoramento eletrônico, tendo inclusive manifestação do órgão ministerial (evento nº 40).
+Além disso, neste momento não se pode interpretar pela inexistência de uma decisão judicial, pois até pela cronologia das peças constantes no SEEU - CNJ, bem como pelos horários das movimentações processuais, pode-se compreender que há decisão judicial.
+No entanto, diante da ausência de visibilidade absoluta do ato processual, faz-se necessário deferir a liminar, mas em menor extensão  ..
+Oimpetrante sustenta que há flagrante ilegalidade ou teratologia na decisão supra, pois, embora reconheça a ausência de visibilidade absoluta do ato processual que revogou o benefício, não reconhece que o mandado de prisão carece de decisão judicial nos autos da execução.
+A propósito, consigna:
+Excelência, o mandado de prisão foi expedido em 17/12/2020, sendo que até a presente data(14 dias após)não há nos autos do processo qualquer decisão judicial. Não é possível saber quais os fundamentos da privação da liberdade do paciente.
+O paciente, a defesa técnica, bem como o próprio Tribunal de Justiça do Ceará não tem acesso à decisão judicial que fundamentou a prisão. É flagrante a ofensa direta ao art. 93, IX, da CF/88:
+Requer, liminarmente e no mérito, a concessão da ordem para suspender o mandado de prisão e manter a prisão domiciliar do paciente.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, pois, como bem destacou o magistrado na origem, a ausência de disponibilidade da decisão no sistema não significa que não existe decisão fundamentada.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
