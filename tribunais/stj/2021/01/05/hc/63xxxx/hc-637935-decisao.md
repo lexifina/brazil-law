@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JULIANO MASCARELLO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (1.0000.20.603802-8/000).
+O paciente teve a prisão preventiva decretada, em 18/12/2020, pela prática, em tese, dos crimes previstos no art. 2º, §§ 2º e 4º, inciso IV, da Lei n. 12.850/13.
+O impetrante aduz a excepcionalidade da prisão preventiva e afirma a carência de fundamentação e contemporaneidade do decreto prisional. Salienta a ausência dos requisitos da custódia cautelar, previstos no art. 312 do CPP, ressaltando inexistirem elementos que indiquem que o paciente soltoconturbará a ordem pública, a instrução criminal ou a aplicação da lei penal. Sustenta que não foi observado o disposto no art. 282, § 6º, do CPP.
+Afirma que, "em que pese toda a sua colaboração e apresentação espontânea, o encerramento regular da instrução processual, o uso de tornozeleira e a inexistência de qualquer fato novo nos últimos 3 anos em seu desfavor, eis que um dos Promotores entendeu de representar pela reativação do mandado de prisão, ignorando assim, o particular fato de que todos os réus foram soltos no processo em razão de excesso de prazo" (fl. 6).
+Requer o deferimento do pedido liminar, expedindo-se o respectivo alvará de soltura. No mérito, pugna pela concessão definitiva da ordem.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19. GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar. "
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto fundamentada a decisão proferida peloTJMG que consignou o seguinte:
+Em que pesem os relevantes argumentos suscitados pela parte impetrante, depreende-se dos autos que não estão presentes os requisitos que autorizam a concessão do pedido liminar ora pleiteado, a saber: o fumus boni iuris e o periculum in mora.
+ ..
+Digo isso porque, em uma análise sumária dos autos, constata-se que a decisão que impôs a segregação cautelar ao paciente (documento de ordem n. 02) está, aparentemente, embasada em elementos atuais e objetivos do caso, aliados aos pressupostos e requisitos da segregação cautelar.
+Assim, em um exame perfunctório, estão demonstradas, nessa decisão, as razões legais que motivaram a imposição da prisão processual, notadamente no fato de que o paciente se recusou a cumprir o pré-acordo de delação premiada firmado anteriormente - acordo esse que havia afastado os requisitos dispostos no art. 312 do CPP, que justificavam sua prisão - o que afasta, por ora, as alegações defensivas.
+Nesse viés, ressalto que é perfeitamente possível ao magistrado fazer referência à decisão anteriormente prolatada, sem que isso implique carência de fundamentação. Trata-se da chamada fundamentação aliunde ou per relationem, permitida pela jurisprudência do STJ.
+Percebe-se, então, que a decisão prolatada pelo nobre Magistrado encontra-se fundamentada, ainda que suscintamente, com base em elementos concretos. Certo é que demonstradas, nessa decisão, as razões legais que motivaram a imposição da prisão processual, notadamente na alteração fática que modificou os fundamentos da decisão anterior (documento de ordem n. 03).
+Além disso, vale ressaltar que o delito imputado, previsto no art. 2º da Lei 12.850/13, possui pena privativa de liberdade máxima cominada em 08 (oito) anos, de modo que a situação em apreço também se enquadra no pressuposto contido no inciso I do art. 313 do CPP.
+Isto é, não é possível verificar, em sede liminar, a carência de fundamentação da decisão agravada vergastada e a suposta ausência dos pressupostos e requisitos autorizadores da prisão preventiva, bem como a possibilidade de se aplicar medidas cautelares diversas da prisão.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
