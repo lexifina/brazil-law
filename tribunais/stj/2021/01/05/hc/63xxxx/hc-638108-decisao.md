@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ADRIANO CHAVES DE SOUZAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n. 1.0000.20.604593-2/000).
+O paciente teve a prisão em flagrante convertida em preventiva pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+No Tribunal de origem, o relator manteve a prisão preventiva do paciente em sede de liminar em habeas corpuscom base na seguinte motivação (fls. 72-73):
+No caso concreto, em um juízo de cognição sumária - próprio, aliás, desta fase processual - não vislumbro a presença de tais requisitos, ou seja, não se verifica de plano configurado o alegado constrangimento a ensejar o deferimento da medida de urgência.
+Relativamente a não realização de audiência de custódia prevista no Pacto de San Jose da Costa Rica, trata-se de tema que, segundo nossos tribunais, não tem induzido (menos ainda em sede de juízo perfunctório de análise liminar e no contexto de pandemia viral), a acenada eiva e a buscada consequência liberalizante, na medida em que os preceitos da norma internacional internalizados em nosso ordenamento revelam objetivos que os signatários, entre eles o Brasil,vêm perseguindo e implementando na medida de suas características e possibilidades concretas, como de fato hoje começa a ocorrer, inclusive no âmbito do Poder Judiciário mineiro. Não se pode, outrossim, consoante a principiologia processual penal pátria, presumir os supostos prejuízos, sendo certo que as limitações tecnológicas ainda existentes nos diversos rincões do país devem ser consideradas.
+Vale destacar, de novo, as adaptações transitórias impostas pela realidade da pandemia da covid-19 que assola o País.
+Observo, lado outro, ainda em avaliação perfunctória, a existência de indícios suficientes de autoria e prova da materialidade do crime, além dos requisitos do artigo 312 do Código de Processo Penal, explicitados na decisão constritiva, de onde se extrai que o paciente foi abordado na posse de cerca de 35g de maconha, além de ser apontado por agentes públicos, dotados da fé de seu ofício, como sendo o principal traficante da cidade (condição que, por óbvio, deverá ser objeto de instrução probatória, mas, tal como noticiada, numa análise de risco, revela indicativo de periculosidade social).
+É o que denota, em concreto, risco à ordem e à saúde pública e necessidade de especial atenção quanto à periculosidade do agente.
+O impetrante sustenta que deve ser revogada a prisão preventiva por não estarem presentes os requisitos previstos no art. 312 do CPP e pelo fato de a prisão estar fundada na gravidade abstrata do delito.
+Requer, liminarmente, a revogação da prisão preventiva ou, subsidiariamente, sua substituição por medidas cautelares diversas da prisão. No mérito, pugna pela concessão da ordem para que seja ratificada a liminar concedida.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
