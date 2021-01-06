@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EDSON ANDRADE AVELINO contra a decisão que indeferiu liminarmente o habeas corpus, em razão da aplicação de súmulas de admissibilidade recursal, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ.
+Em suas razões, sustenta a parte embargante que "houve uma OMISSÃOpor partedeVossa Excelência ao nãoapreciar a LESÃOou AMEAÇA ADIREITOsofrida pela Embargante,ou alternativamente,pornãotersido determinado que o Tribunal a quoprocedaem caráter de urgência visandoàsolução da lide que data se estendepormais de 04 (quatro) anos" (fl. 239).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Com efeito, consta da decisão embargada que:
+Por oportuno, consigne-se que a apreciação do excesso de prazo para a manifestação da instância de origem demanda cuidadoso exame dos autos, no qual devem ser sopesados não só o tempo da prisão provisória, mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal, o que não é compatível com a estreita via do habeas corpus (fl. 232).
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, relatora Ministra Eliana Calmon, DJ de 13/8/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/6/2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Hermna Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não háirregularidade a ser sanadapor meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
