@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ALEXANDRE MAGNO RODRIGUES VIEIRAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ(Habeas Corpusn. 0640183-24.2020.8.06.0000).
+O paciente encontra-se preso preventivamente por determinação do Juízo da Vara de Delitos de Organizações Criminosas da Comarca de Fortaleza/CE, para evitar a reiteração delitiva e, assim, resguardar a ordem pública, uma vez que as informações levantadas em investigação policial específica o aponta como indivíduo violento ede alta periculosidade, que integra e exerce papel de destaque dentro da facção criminosa conhecida por Comando Vermelho - CV.
+O impetrante sustenta que o paciente é portador da doença diabetesmellitus, tipo 2, com risco de amputação e cegueira,e que por isso integra o grupo de risco para oacovid-19. Alega que no cárcere o paciente está sujeito a risco de morte, dado àausência de tratamento adequado, razão por que entende cabível e necessáriaa sua colocação em prisão domiciliar.
+Requer, liminarmente, a imediata conversão da prisão preventiva em domiciliar. No mérito, pugna pela concessão da ordem para que seja confirmada a medida liminar.
+É, no essencial, o relatório. Decido.
+A matéria de fundo não foi apreciada pelo Tribunal de origem. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância. Confira-se precedente sobre a questão:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DIREITO PROCESSUAL. FURTO SIMPLES. PEDIDO DE INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA.DIMINUIÇÃO DA PENA NA PRIMEIRA FASE DA DOSIMETRIA. FUNDAMENTOS NÃO DESENVOLVIDOS NAS RAZÕES DO RECURSO DE APELAÇÃO. EFEITO DEVOLUTIVO DA APELAÇÃO CRIMINAL LIMITADO PELA PRETENSÃO DEDUZIDA NAS RAZÕES RECURSAIS OU NAS CONTRARRAZÕES. EXIGÊNCIA INCLUSIVE QUANTO ÀS MATÉRIAS DE ORDEM PÚBLICA. PRECEDENTES. PRECLUSÃO DA CONTROVÉRSIA NA ORIGEM. AGRAVO REGIMENTAL DESPROVIDO.
+1. A despeito de se conferir ao recurso de apelação efeito devolutivo amplo, seu conhecimento é limitado ao que fora deduzido nas razões recursais ou nas contrarrazões. Dessa forma,emhabeas corpusimpetrado nesta Corte, não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância.
+2. As questões de ordem pública, para estarem sujeitas à jurisdição do Superior Tribunal de Justiça na via do remédio heroico, também devem ultrapassar a formalidade processual acima. Precedentes.
+3. Embora o Agravante alegue que a matéria fora ventilada em embargos de declaração opostos contra o acórdão do julgamento da apelação, a oportunidade para suscitá-la estava preclusa. Consiste em inovação recursal a pretensão de análise de controvérsia deduzida somente nos embargos de declaração ou em agravo regimental.
+4. Recurso desprovido.(AgRg no HC n. 521.849/SC, relatoraMinistra Laurita Vaz, Sexta Turma, DJe de 19/8/2020.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
