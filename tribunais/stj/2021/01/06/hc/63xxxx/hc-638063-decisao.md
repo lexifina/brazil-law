@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de RODRIGO WELLISON DE MEDEIROSem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA(N. 0816317-51.2020.8.15.0000).
+O paciente foi condenado a uma pena de 6 anos e 6 meses de reclusãoem regime inicial semiaberto, pelo cometimento do delito homicídio simples, tipificado no art. 121, § 2º, I, II e IV, do Código Penal, e preso em28/12/2020 por força de mandado de prisão.
+O impetrante sustenta a ocorrência de constrangimento ilegal, uma vez que o paciente está preso em regime fechado, diverso daquele fixado na sentença condenatória. Afirma que buscou perante o juízo plantonista de primeiro graua apreciação de pedido de relaxamento da prisão ou a aplicação das medidas pertinentes ao regime inicial da pena aplicada, no entanto, a diligência foi infrutífera em razão de pendências na digitalização do processo no PJe.
+Relata que contatou o Cartório da 1ª Vara Mista de Patos - PB, foi informado de que as atividades apenas retornariam no dia 7/1/2021 enão foi possível acessar o processo eletrônico nem obter a expedição da guia de execução penal no cartório respectivo.
+Requer, liminarmente:a) o relaxamento da prisão do paciente;b)em não sendo concedida a liminar para relaxar a prisão ilegal, que seja determinado ao Cartório da 1ª Vara de Patos - PB ou ao cartório plantonista que proceda às retificações necessárias para finalizar o procedimento de migração dos autos físicos para o PJe, bem como realize a conclusão dos autos para decisão judicial, a permitir que o juízo possa analisar o pedido de revogação da prisão; e c)que seja determinada a imediata confecção da guia de execução da penapara que possa proceder às diligências necessárias a fim de instalar a tornozeleira eletrônica.
+No mérito, pugna pela concessão da ordem para confirmar a liminar.
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão impugnada foi proferida por desembargador. Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça.
+Extrai-se da decisão do desembargador plantonista no TJPB:
+Amora, portanto, não pode ser imputada ao cartório, pois o procedimento acima somente não foi adotado em razão do não comparecimento do acusado, quando intimado pela unidade judiciária. Ademais, não há previsão normativa que imponha ao cartório a expedição de guia de execução penal durante o recesso forense, razão pela qual deve-se aguardar o retorno da jurisdição ordinária para a adoção das diligências pertinentes. Ante o exposto, considerando que a supressão de instância impede a análise do pedido formulado na exordial, NÃO CONHEÇO DO HABEAS CORPUS.
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
