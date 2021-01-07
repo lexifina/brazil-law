@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de CRISTIANO CESAR AGUIARem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ(00754000420208160000).
+Consta dos autos que o paciente foi preso em flagrante na data de 22 de julho de 2020, posteriormente convertida em preventiva, pela suposta prática dos crimes de extorsão majorada, associação criminosa, resistência e desobediência.
+Sustenta o impetrante que os fatos imputados ao paciente não se enquadram formalmente aos tipos penais descritos na exordial, o que leva apenas àconfiguração do exercício arbitrário das próprias razões, e não do crime de extorsão. Em razão disso, com a capitulação jurídica correta, aduz que a prisão preventiva do paciente não está justificada pelos requisitos do art. 313 do CPP.
+Aduz, ainda, que o paciente não ostenta nenhumadas hipóteses situadas nos arts. 312 e 315 do CPP, e que outras medidas cautelares diversas da prisão já seriam suficientes.
+Por último, afirma a necessidade de substituição da prisão preventiva por prisão domiciliar em razão de orecorrente ser indispensável no sustento de seus 4 (quatro) filhos menores de idade.
+Requer a concessão da ordem, liminarmente, para que o paciente seja colocado em liberdade provisória, ou a conversão da prisão preventiva em medidas cautelares diversas.
+No mérito, pugna que o presente habeas corpus seja julgado integralmente procedente, confirmando-se a decisão liminar.
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão impugnada foi proferida monocraticamente por desembargador e não apresenta indícios de evidente ilegalidade. Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça.
+Consta da decisão do Desembargador relator no TJPR:
+"Como se vê, o cerne deste writ se compõe das mesmas teses que já foram aventadas e devidamente analisadas no anterior: inadequação típica, ausência dos requisitos da prisão preventiva, suficiência de medidas diversas e prisão domiciliar em razão da paternidade, tendo sido deduzidos os mesmos pleitos de revogação ou substituição do cárcere cautelar. Diante disso, já tendo este Tribunal reconhecido a legalidade da segregação preventiva do paciente no julgamento do Habeas Corpus nº 0048032-20.2020.8.16.0000- realizado há cerca de 20 dias, com acórdão publicado há apenas 06 dias-e considerando que o impetrante não trouxe nenhum fato novo relevante a ponto de desconstituir a decisão de outrora - além de esta não ser a via adequada para análise da prova produzida em audiência instrutória, o Juízo a quo, após o ato, já se pronunciou no sentido de que seguem hígidos os fundamentos da prisão -,conclui-se, em respeito à segurança jurídica, que o presente mandamus não deve ser admitido."
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
