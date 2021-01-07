@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpuscom pedido de liminar em favor de LUIZ CARLOS DA SILVA NETO e GESSILDA TAVARES NETO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro.
+O impetrado julgou ohabeas corpus nos seguintes termos:
+HABEAS CORPUS. Obrigação de pagar quantia certa reconhecida em título executivo judicial. Suspensão da validade dos passaportes dos devedores e de vedação a expedição de outros. Medida forte de indução ao convencimento, mas inserida na janela discricionária do art. 139, do CPC, à luz das circunstâncias do caso. Ato da autoridade judicial que não pode ser considerado ilegal ou fruto de abuso de poder. Dosimetria refinada da intensidade do ato, ou seja, o mero juízo de oportunidade e conveniência, não pode ser feito em sede de habeas corpus, havendo, para tanto, os recursos previstos no Código de Processo Civil. Ordem denegada.
+Sustenta a impetrante que "a suspensão dos passaportes emitidos em nome dos pacientes e, ainda, a vedação de que outros fossem expedidos tem o condão de ameaçar de forma direta e imediata o direito de ir e vir dos mesmos, pois os impedem de se locomoverem" (fl. 10).
+Aduz que "os pacientes/devedores nunca tiveram a intenção de deixar de pagar o seu débito, prova disso são as diversas tentativas de acordo no decorrer do processo de execução provisória, tendo sido todos eles frustrados" (fl. 11).
+Alega que o fumus boni iuris "está consubstanciado no fato de ter sido cerceado o direito do paciente Luiz Carlos de estar com suafamília, ou seja, de estar no seu ambiente familiar, visto que sem passaporte não poderá visitá-los" (fl. 27).
+Destaca, ainda, que a segunda paciente, que mora nos Estados Unidos, "não poderá exercer no exterior os direitos mais simples da vida civil, como comprar alimentos, se locomover, ou comparecer a seus estudos, uma vez que nenhum desses direitos são garantidos a estrangeiros que sequer possuem passaportes" (fl. 27).
+Requer, ao final, "a imediata revogação da decisão que suspendeu a validade dos passaportes dos pacientes" (fl. 28).
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A matéria suscitada no presente habeas corpus é a mesma discorrida nos autos do RHC n.140.750/RJ, cujo pedido de liminar foi decidido por esta Presidência em razão do recesso e das férias forenses.
+Constata-se, assim, a inadmissível reiteração, consoante o entendimento pacífico do Superior Tribunal de Justiça, cuja ementa transcrevo:
+REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR. REITERAÇÃO DE PEDIDO. NULIDADE DO PAD. OITIVA DE TESTEMUNHAS SEM A PRESENÇA DA DEFESA TÉCNICA. RECONHECIMENTO EM HC ANTERIOR. IMPOSSIBILIDADE DE REEXAME. AGRAVO DESPROVIDO. I - Inviável o reexame da alegada nulidade do PAD que reconheceu a prática de falta grave pelo paciente, no curso da execução penal, quando a matéria foi apreciada em habeas corpus anteriormente julgado, no qual foi decretada a nulidade do procedimento administrativo em razão da oitiva de testemunhas sem que estivesse presente a Defesa técnica. II - Configurada a inadmissível reiteração de pedido, o writ não pode prosseguir, nos termos do art. 210, do RISTJ. Agravo regimental desprovido. (AgRg no HC n. 444.220/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 23/5/2018.)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
