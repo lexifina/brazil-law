@@ -1,0 +1,27 @@
+DECISÃO:
+    Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "TRIBUTÁRIO. IMPOSTO SOBRE OPERAÇÕES FINANCEIRAS. IOF. COOPERATIVAS. ATO COOPERATIVO PRÓPRIO. NÃO INCIDÊNCIA. APELAÇÃO DESPROVIDA.
+    1. Remessa Necessária e Apelação Cível interposta em face da sentença que julgou parcialmente procedente o pedido autoral, declarando a inexistência de relação jurídico tributária, com a conseqüente inexigibilidade pela ré, que autorize a cobrança do IOF sobre a concessão de crédito pela Autora em favor de seus associados/cooperados.
+    2. A Constituição prevê no art. 174, § 2º, que a lei apoiará e estimulará o cooperativismo e outras formas de associativismo, e no art. 146, III, ‘c’, dispõe que caberá à lei complementar estabelecer normas sobre o adequado tratamento tributário ao ato cooperativo.
+    3. As cooperativas são sociedades de pessoas, com forma e natureza jurídica próprias, de natureza civil, não sujeitas à falência, constituídas para prestar serviços aos associados, para a consecução dos objetivos sociais, conforme definição dos art. 4º e 79 da Lei nº 5.764/71.
+    4. A concessão de crédito é uma das atividades principais da cooperativa e, é sob essa ótica, que a autora pretende afastar a incidência do IOF sobre os créditos concedidos por ela aos seus associados.
+    5. O Supremo Tribunal Federal sedimentou a orientação de que a Lei n. 5.764/71 afasta a tributação da COFINS, quanto ao ato cooperativo próprio, apenas e tão somente, quando presentes os elementos objetivo e subjetivo. Sob o aspecto objetivo, a busca da consecução dos fins pelos quais a cooperativa foi instituída, e, sob o aspecto subjetivo, a presença no ato ou negócio tanto da cooperativa quanto do cooperado. Logo, apenas os atos cooperativos próprios não se amoldam à tributação pela COFINS.
+    6. Da mesma forma, em relação ao IOF, deve também ser aplicado o disposto no artigo 79 da Lei n. 5.764/71, pois, no ato cooperativo próprio, não ocorre uma operação de mercado, nem contrato de compra e venda de produto ou mercadoria, o que deve ser entendido, aqui, como a não ocorrência do elemento material da hipótese de incidência tributária.
+    7. Diante da não ocorrência do fato gerador, nos atos cooperativos próprios, realizados entre a cooperativa de crédito e seus cooperados, é ilegítima a exigência de retenção dos valores devidos a título de IOF.
+    8. Remessa Necessária e Apelação a que se nega provimento."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 150, § 6º; 153, V; 174, § 2º; e 146, III, "c", da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 8 de janeiro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
