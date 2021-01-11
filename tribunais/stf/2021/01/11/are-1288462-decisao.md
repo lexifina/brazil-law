@@ -1,0 +1,26 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 7, p. 2):
+    “Ementa Ação ordinária Servidora estadual Médica - Pretensão de reconhecimento do direito e consequente pagamento dos proventos de aposentadoria com base na remuneração percebida na classe ocupada quando da inativação, ou seja, Classe III Admissibilidade Precedentes - Sentença de procedência da ação Desprovimento dos recursos da SPPREV e oficial, para manter a r. sentença recorrida, também por seus próprios e jurídicos fundamentos, nos termos do artigo 252 do Regimento Interno desta Corte.”
+    Não foram opostos embargos de declaração.
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos arts. 5º, XXXVI; 37, XIII e XV; 40, § 8º (na redação anterior à EC 41/03); todos da Constituição Federal e o entendimento jurisprudencial consolidado pelo STF, no julgamento do RE 606.199 (Tema 439), pela sistemática da repercussão geral, e, por fim, na súmula vinculante nº 37.
+    Nas razões recursais, sustenta-se, que “a pretensão da parte autora, de promoção após a aposentadoria ou falecimento, não está albergada pela Constituição Federal e contraria a legislação estadual vigente, além da lógica, porquanto nenhuma lei pode estabelecer critério promocional a quem não está em atividade!” (eDOC 10, p. 10).
+    Aduz-se, que “A promoção, evolução funcional, ou acesso, qualquer que seja o nome dado à ascensão de um cargo inferior para um superior, somente pode ocorrer quando servidor está em atividade" (eDOC 10, p. 11)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, assim asseverou: (eDOC 7, pp. 3-4)
+    “(...)
+    Outra não é a situação que se verifica dos autos, uma vez que a r. sentença recorrida, no essencial, bem estabeleceu a procedência da ação, destacando-se do decidido:
+    “[...]. A pretensão da autora é procedente.
+    Com efeito, o cálculo dos proventos de aposentadoria da autora foi realizado com base em entendimento da Administração de que os proventos de aposentadoria corresponderam aos vencimentos do cargo que o funcionário exerceu na ativa pelo período de pelo menos cinco anos. Assim, não tendo a autora exercício o cargo de médico, nível III, por cinco anos, entendeu que os proventos devem corresponder ao cargo de médico, nível I.
+    Não obstante, tal interpretação não se coaduna com o direito aplicável à espécie.
+    A distinção entre níveis diz respeito à forma em que o cargo foi estruturado em carreira, não correspondendo em distinção de cargo.
+    Consoante a Lei Complementar Estadual nº 1.193/2013, o cargo ocupado pela autora (médico), está instituída em carreira, possibilitando a evolução funcional, mediante promoção. Os níveis correspondem às promoções na carreira, não se tratando de cargos distintos.
+    Logo, não há que se falar em exercício mínimo de cinco anos no nível III para que se tenha direito a percepção de proventos equivalente, mas sim de cinco anos no cargo, devendo ser considerado o tempo de exercício em todos os níveis.”
+    Na espécie, verifica-se que o acórdão recorrido revela-se em consonância com a jurisprudência desta Corte, cujo entendimento encontra-se pacificado no sentido de que a promoção por acesso de servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado. Nesse sentido:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. PROMOÇÃO NO MESMO CARGO PARA CLASSE DISTINTA. INEXISTÊNCIA DE CONTRADIÇÃO AO ART. 40, § 1º, III, DA CONSTITUIÇÃO. PRECEDENTES. A jurisprudência do Supremo Tribunal Federal se orienta no sentido de que a promoção por acesso de servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado (AI 768.895, Rel.ª Min.ª Cármen Lúcia). Desse modo, a aposentadoria de servidor público promovido no mesmo cargo, mas em classe distinta, não está condicionada ao prazo de 5 anos estabelecido no art. 40, § 1º, III, da Constituição. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento.” (RE 590.762-AgR, Min. Roberto Barroso, Primeira Turma, DJe 2.2.2015).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO. PROMOÇÃO NO MESMO CARGO, PARA CLASSE DISTINTA. CÁLCULO DE PROVENTOS. AUSÊNCIA DE CONTRARIEDADE AO ART. 40, § 1º, INC. III, DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 768.895-AgR, Rel. Min. Cármen Lúcia, Primeira Turma, DJe 24.3.2011).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do CPC. Nos termos do artigo 85, § 11, CPC, majoro em ¼ (um quarto) a verba honorária fixada anteriormente (eDOC 7, p. 7), devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 11 de janeiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
