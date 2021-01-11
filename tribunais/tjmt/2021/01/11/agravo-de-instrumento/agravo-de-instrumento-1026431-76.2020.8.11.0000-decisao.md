@@ -1,0 +1,43 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+RECURSO DE AGRAVO DE INSTRUMENTO N. 1026431-76.2020.8.11.0000
+PROCESSO ORIGINÁRIO: AÇÃO CIVIL PÚBLICA N. 1000539-24.2020.8.11.0047
+AGRAVANTE: COMPANHIA HIDROELÉTRICA FIGUEIRÓPOLIS E CPFL ENERGIAS RENOVÁVEIS S.A.
+AGRAVADOS: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+INTERESSADO(AS): ESTADO DE MATO GROSSO.
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento, interposto pelas pessoas jurídicas Companhia Hidroelétrica Figueirópolis S/A e CPFL Energias Renováveis S/A, contra a decisão, proferida pelo Juízo da Vara Única da Comarca de Jauru, que, nos autos da Ação Civil Pública n. 1000539-24.2020.8.11.0047, proposta pelo Recorrido, deferiu, em parte, as medidas liminares vindicadas na inicial, para determinar, dentre outras providências, que:
+a) a SEMA notifique os empreendedores, no prazo de 30 dias, para que seja realizado estudo ambiental complementar no prazo de 2 anos, corrigindo as omissões e irregularidades anteriores, nos estudos que embasaram a Licença ambiental vigente, principalmente, a omissão quanto aos efeitos cumulativos e sinérgicos dos empreendimentos potencialmente poluidores, instalados na bacia do Rio Jauru;
+b) a SEMA exija, para os novos empreendimentos de geração de energia elétrica acima de 10 MW, localizados na bacia do Rio Jauru, por ocasião do requerimento de Licença Prévia – LP, a apresentação do EIA/RIMA, e;
+c) as Agravantes procedam, no prazo máximo de 02 (dois) anos, sob pena de suspensão da licença ambiental, à elaboração de estudo ambiental complementar com a finalidade corrigir as omissões e irregularidades anteriores, nos estudos que embasaram a Licença ambiental vigente, principalmente a omissão quanto aos efeitos cumulativos e sinérgicos dos empreendimentos potencialmente poluidores instalados na bacia do Rio Jauru.
+As Agravantes pretendem a reforma da decisão recorrida, alegando ser manifestamente equivocada, porque interfere e onera drasticamente os processos de licenciamento ambiental regulares, na medida que exige a posteriori a elaboração de estudo ambiental complexo, sem apresentar qualquer fundamento em lei ou ato normativo.
+Argumentam que o decisum recorrido desconsiderou a competência do órgão ambiental licenciador e a legalidade de seus atos, ao impor a elaboração de Estudo Ambiental Complementar que jamais foi cogitado pelo órgão competente que acompanha as suas atividades.
+Aduzem a impossibilidade de se imputar às Agravantes a obrigação de elaborar um novo EIA/RIMA (ainda que sob o nome de “estudos ambientais complementares”), porquanto o empreendimento já está em funcionamento há mais de uma década.
+Sustentam que o EIA e o RIMA somente podem ser exigidos na fase preliminar de implantação do empreendimento de significativo impacto, portanto, antes da implantação e, no caso, está funcionando há mais de 20 (vinte) anos.
+Salientam, por fim, tendo o órgão ambiental competente atestado a viabilidade da implantação do empreendimento, após a exigência e análise dos estudos técnicos pertinentes, a discussão quanto ao cabimento de “estudo ambiental complementar” no licenciamento ambiental em questão foge à alçada do Poder Judiciário, vez que se trata de matéria concernente ao conteúdo meritório do procedimento administrativo.
+Defendem que não foram considerados o regular licenciamento ambiental do empreendimento e os estudos ambientais que o embasaram, e que o empreendimento, nestes 20 anos, vem sendo acompanhado pelo órgão ambiental.
+Enfatizam que o Ministério Público já propôs várias ações nesse sentido e em todas não obteve êxito, que inexiste o periculum in mora, já que funcionam há mais de 20 (vinte) anos, e que há o dano reverso, pois demandará gasto excessivo com o estudo ambiental determinado.
+Questionam a inversão do ônus da prova e, ao final, afirmam que estão presentes os requisitos necessários à concessão do efeito suspensivo.
+É o relatório. Decido.
+Conforme consignado no relatório, as Agravantes pretendem suspender a determinação de elaboração do Estudo Ambiental Complementar, como condicionante para a renovação das licenças ambientais da Alto Jauru.
+Extrai-se, dos autos originários, que o Representante do Ministério Público de Mato Grosso ajuizou a Ação Civil Pública, em face do Estado de Mato Grosso, da empresa Companhia Hidroelétrica Figueirópolis e CPFL Energias Renováveis S.A., objetivando a responsabilização dos Requeridos, quanto às supostas irregularidades e danos ambientais existentes na Pequena Central Hidrelétrica (PCH) Figueirópolis, por não apresentarem efeitos cumulativos e sinérgicos deste e de outros empreendimentos energéticos, localizados no Rio Jauru.
+A propositura da ação decorreu da conclusão do Inquérito Civil Público n. 16/2013, instaurado para a apuração de possíveis danos ao meio ambiente, sobretudo a inobservância da legislação vigente, quanto às obrigações das empresas para a geração de eletricidade, na bacia do Rio Jauru.
+O Autor, na inicial, afirmou que o CONAMA, por meio da Resolução n. 01/1986, estipulou que as atividades que modificam o meio ambiente são obrigadas a elaborar o Estudo de Impacto Ambiental (EIA), incluindo as usinas de geração de eletricidade, acima de 10MW e de qualquer que seja a fonte primária.
+Ademais, registrou que a Lei Complementar Estadual n. 70/2000, que alterou a redação da Lei Complementar Estadual n. 38/1995, passou a permitir a concessão de licenças sem a elaboração do EIA, para a construção de usinas até o limite de 30MW, contrariando a legislação anterior, o que, no seu entender, é inconstitucional, porque incompatível com a Carta Magna. Contra aquela lei, noticiou o Autor que há a ADI n. 4529, ainda sem julgamento.
+Afirmou que, por meio do Relatório Técnico, os peritos do Centro de Apoio Operacional às Promotorias, engenheiro florestal, biólogo e geólogo, identificaram que não foram realizados o EIA e(ou) o RIMA, embora as atividades ali exercidas sejam de geração de eletricidade, superior a 10MW.
+Posto isso, diante das irregularidades legais e da comprovação dos danos ao meio ambiente e à população das cidades em volta do Rio Jauru, o Autor requereu, preliminarmente, a concessão da tutela de urgência para que seja determinada a notificação dos empreendedores da Bacia do Rio Jauru, para que realizem o estudo ambiental, como requisito para renovação da licença ambiental, observando o indicado no relatório técnico.
+Além disso, que não sejam mais expedidas novas licenças ambientais, sem o estudo prévio que analise os efeitos cumulativos e sinérgicos dos empreendimentos; seja determinada a limitação da regulação da vazão das turbinas, de acordo com o laudo pericial. Por fim, em caso de descumprimento, seja aplicada multa de R$100.000,00 (cem mil reais) por mês.
+Recebida a inicial, após a manifestação do Estado de Mato Grosso, a parte Requerida na ACP, o Douto Juízo deferiu, parcialmente, os pedidos do Autor.
+Sabe-se que o efeito pretendido pela parte recorrente será concedido nas hipóteses, em que houver a probabilidade de provimento do recurso, ou risco de dano grave ou difícil reparação, por aplicação analógica ao artigo 1.012, parágrafo 4o do CPC.
+Da análise perfunctória dos autos, entendo que a decisão do Juízo de Primeiro Grau deve ser mantida, uma vez que não visualizo, até o julgamento de mérito pelo Colegiado, a possibilidade de risco de dano grave ou de difícil reparação às Recorrentes.
+Ademais, a alegação de que o estudo demanda gasto excessivo encontra-se desprovida de qualquer prova nesse sentido, ou seja, não há nenhuma indicação dos valores necessários para atendimento da determinação judicial.
+Enfatizo que o fato de terem sido notificadas da decisão recorrida e, consequentemente, da determinação para iniciar o Estudo Ambiental Complementar, no prazo de 02 (dois) anos, não demonstra o preenchimento do segundo requisito exigido para a concessão do efeito suspensivo pleiteado.
+Dessa forma, não havendo o preenchimento de todos os pressupostos legais exigidos, deve ser negado o efeito suspensivo requerido pelas Agravantes.
+Saliento que a presente decisão não vincula o julgamento de mérito, oportunidade em que serão analisadas, com maior profundidade, as alegações e as provas trazidas pelas partes.
+Ante o exposto, NÃO CONCEDO o pleito do efeito ativo, postulado pelas empresas Companhia Hidroelétrica Figueirópolis e CPFL Energias Renováveis S.A.
+Intime-se a parte Agravada para contraminutar o Recurso, facultando-lhe juntar a documentação que entender necessária ao julgamento do Agravo.
+Por fim, encaminhem-se os autos à Procuradoria-Geral de Justiça e, após, retornem-nos à conclusão.
+Intimem-se.
+Cumpra-se.
+Cuiabá/MT, 11 de janeiro de 2021.
+Des. Márcio VIDAL,
+Relator.
