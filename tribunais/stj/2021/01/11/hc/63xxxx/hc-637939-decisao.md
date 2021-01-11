@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de MARCOS PAULO DE SOUZA RIBEIROem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS(4008822-24.2020.8.04.0000).
+Opaciente encontra-se preso em flagrante pelo cometimento, em tese, dos crimes tipificados noart. 33 da Lei n. 11.343/2006 (tráfico de drogas) e art. 14 da Lei n. 10.826/2003 (porte de arma de fogo). Posteriormente, a prisão foi convertida em preventiva pelo juízo da custódia.
+O Ministério Público emitiu parecer pela concessão da liberdade provisória cumulada com medida cautelar de monitoramento eletrôniconos termos do art. 319, IX, do CPP (fls. 26/27).
+O paciente sustenta que possui asma brônquica e, dessa forma, faz parte do grupo de risco para a covid-19 (fl. 10).
+Requer a concessão de liminar paraa substituição daprisão preventiva por medida cautelar diversa da prisão, ou prisão domiciliar. No mérito, pugna pela confirmação da liminar.
+É, no essencial, o relatório. Decido.
+O deferimento de liminar em habeas corpus é medida excepcional, cabível apenas em hipóteses de patente ilegalidade, demonstrada de plano.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, ressalte-se que o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o paciente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento prisional do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, a parte impetrante não demonstrou sequer ter sido a matéria apreciada pelo Juízo de primeiro grau, uma vez que a decisão de segundo grau combatida é exatamente de indeferimento do HC por entender não ter o paciente exaurido a primeira instância e cita, inclusive, jurisprudência desta Corte. Apresentou o relator os seguintes argumentos:
+ ..  considerando a inexistência de provimento jurisdicional do juiz originário acerca do suposto constrangimento ilegal, é inviável a análise do pleito neste grau de jurisdição, porquanto é vedada a esta instância, por questões de ordem principiológico-processuais, conhecer pedidos não examinados primeiramente pela autoridade competente, sob pena de se configurar a supressão de instância.07.De acordo com a jurisprudência pátria, a decisão que determinou a prisão deve ser em primeiro lugar combatida no próprio juízo de origem, e, só então, poderá ser analisada na instância superior.
+Assim, evidenciado está quenão houve análise do pedido objeto do presente writ pelo Tribunal de origem, razão pela qual é inviável sua apreciação pelo STJ, sob pena de indevida supressão de instância.
+Dispõe o art. 105, I, c, da Constituição Federal que compete ao Superior Tribunal de Justiça processar e julgar habeas corpus quando o coator for tribunal sujeito a sua jurisdição, hipótese que não é a dos autos. O pedido também não se enquadra em nenhuma das hipóteses de competência originária desta Corte.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
