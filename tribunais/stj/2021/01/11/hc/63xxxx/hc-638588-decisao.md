@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de MARCIO SILVEIRA RIZZIem que se aponta como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO(HC n. 5000160-53.2021.04.04.0000/RS).
+O paciente foi preso em flagrante em 19/10/2020, pela suposta prática do delito previsto no art. 330, do CP e art. 16, § 1º, inciso IV, da Lei n. 10.826/2003, cuja prisão foi posteriormente convertida em preventiva.
+O impetrante sustenta tratar-se de hipótese deabrandamento da Súmula n. 691 do STF, ao argumento de que a decisão apresentada como ato coator "negou-se a apreciar o pedido liminar de Habeas Corpus, sem proferir uma fundamentação pautada em elementos jurídicos alicerçado no âmbito da processualística penal e constitucional, bem como não trouxe nenhum elemento motivacional alicerçado ao caso concreto trazido pela parte ao juízo "a quo"para conhecimento da matéria" (fl. 5).
+Questiona, ainda, ausência de realização de audiência de custódia.
+Aduz que a defesa técnica foi contratada para atuar no período de recesso, ocasião na qual constatou irregularidades na homologação do flagrante e no decreto da prisão preventiva, o qual, sob sua ótica, carece de fundamentação idônea, além de configurar violação do disposto nos arts. 310 e316, parágrafo único, do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ou a substituição por prisão domiciliar, e a "abertura de procedimento administrativo para apurar a omissão e responsabilização da autoridade que se omitiu ao cumprimento da lei, quanto ao que disciplina o art. 310 e § 3º do CPP" (fl. 18).
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquantoa decisão impugnada não se mostrou teratológica, sendo fundamentada, ainda que de forma sucinta e reportando-se aos fundamentos da decisão que decretara a prisão preventiva e que recebera a denúncia, bem como a que indeferirao pleito de aprisionamento domiciliar, ressaltando a cronologia de suas ocorrências, para se entender que a questão não era passível de apreciaçãono regime excepcional do plantão, remetendo os autos ao relator natural, após o término do recesso forense, o que já ocorreu.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
