@@ -1,0 +1,1 @@
+Art. 30-A. As entidades desportivas profissionais poderão celebrar contratos de trabalho com atleta profissional por prazo determinado de, no mínimo, 30 (trinta) dias, durante o ano de 2020 ou enquanto perdurar calamidade pública nacional reconhecida pelo Congresso Nacional e decorrente de pandemia de saúde pública de importância internacional.
