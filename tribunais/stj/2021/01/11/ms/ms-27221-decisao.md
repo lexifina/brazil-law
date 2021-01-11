@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de mandado de segurança com pedido liminar impetrado por LUCAS HENRIQUE DA SILVA SANTOS contra ato do "Presidente da Junta de Saúde do HAR (Comando da Aeronáutica, Diretoria de Saúde do Hospital de Aeronáutica de Recife)" (fl. 3) consubstanciado emsua reprovação no exame médico do concurso público CFS 1 2021para o cargo de controle de tráfego aéreo.
+O impetrante alega quea justificativa apresentada para suareprovaçãofoi "arritmia cardíaca não especificada" (fl. 4). Todavia, argumenta que, "no concurso anterior, CFS 2 2020 o candidato estava totalmente apto cardiologicamente" (fl. 4), bem como que, a pedido da junta de saúde,realizou um exame Holter 24 horas, em que "foi constatado que não se tem arritmia, constatando apenas uma pequena pausa durante o sono" (fl. 5). Defende que se trata de algo comum, que não o incapacita para atividades físicas, conforme laudo médico juntado aos autos.
+Alega que impetrou o presentewritpara garantir sua participação napróxima fase do concurso (exame físico TACF, datadopara o dia 6/1/2020), bem como nas demais fases.
+Postula, liminarmente, "a imediata suspensão do ato impugnado considerando, a fim de que possa continuar fazendo a última fase do concurso reservada aos que tiveram aptidão nos recursos Exame Físico - TACF datado para o dia 06/01/2021, ou caso devido o breve prazo para análise que seja aplicada prova respectiva e abonadas quaisquer faltas decorrentes da necessidade dessa prévia decisória" (fls. 12-13).
+É, no essencial, o relatório. Decido.
+Defiro a gratuidade da justiça requerida.
+Nos termos do art. 105, I,b, da Constituição Federal, que demanda interpretação restritiva, o Superior Tribunal de Justiça é competente para processare julgar, originariamente, mandado de segurança impetrado contra ato de Ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Na espécie, a autoridade apontada como coatora não é o Comandante-Geral da Aeronáutica e, sim, o presidente da junta de saúde do HAR (Comando da Aeronáutica, Diretoria de Saúde do Hospital de Aeronáutica de Recife) (fl. 3), cujos atos estãosubmetidos a exame originário pelo Juízo federal.
+Ante o exposto, com fundamento no art. 212 do RISTJ, indefiro liminarmente este mandado de segurança em face da incompetência absoluta do Superior Tribunal de Justiça.
+Sem condenação em honorários (Súmula n. 105 do STJ).
+Publique-se. Intimem-se.
