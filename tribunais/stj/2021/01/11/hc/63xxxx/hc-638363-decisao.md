@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de LEONIDAS MURGIA DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (1.0000.20.604204-6/000).
+O paciente foi preso em flagrante, prisão esta posteriormente convertida em preventiva, pela suposta prática do delito tipificado no art. 14 da Lei n. 10.826/03 (porte de munições de uso permitido).
+O impetrante sustenta que a "Ação Penal está fadada ao fracasso diante da atipicidade da conduta imputada ao Paciente, tendo em vista que a ínfima quantidade de munições apreendidas, sem qualquer arma de fogo ao acesso do Paciente na hora da prática delitiva, autoriza a aplicação imediata do princípio da bagatela, o qual afasta a tipicidade jurídica da conduta delitiva". Entende que o caso se amolda à hipótese de absolvição sumária prevista no art. 397, III, do CPP.
+Requer que "seja concedida a presente ORDEM DE HABEAS CORPUS, EM "CARÁTER LIMINAR", a favor do Paciente, LEONIDAS MURGIA DOS SANTOS, determinando-se a suspensão provisória do curso da ação penal, objeto do presente feito, até julgamento final do presente writ, para determinar o TRANCAMENTO DA AÇÃO PENAL, ou, alternativamente, seja decretada SUA ABSOLVIÇÃO SUMÁRIA, devolvendo-lhe o sagrado direito constitucional de ir e vir, para poder aguardar o julgamento em liberdade, determinando-se incontinenti a expedição de ALVARÁ DE SOLTURA, por ser questão imperativa de direito e de justiça".
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19. GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ademais, o TJMG consignou o seguinte:
+Verifica-se, d.m.v., que não estão presentes os pressupostos autorizadores da medida liminar requerida, sendo certo que a concessão de tutela urgente, ainda em sede de cognição sumária e singular, exige a demonstração concomitante do fumus boni iuris e periculum in mora e, no caso concreto, não se evidencia, estreme de dúvidas, a plausibilidade do direito vindicado, o que desautoriza este Relator Plantonista, de forma prematura, a desconstituir o ato impugnado, que não se mostra, prima facie, desarrazoado ou carente de fundamentação, não obstante as razões lançadas pelo impetrante quanto à possibilidade de deferimento do pedido.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
