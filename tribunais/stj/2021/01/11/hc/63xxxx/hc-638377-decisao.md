@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de REGINA DE FATIMA DOS SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HC n. 0086111-84.2020.8.19.0000).
+A paciente foi presa preventivamente pela suposta prática do crime tipificado no art. 35 da Lei n. 11.343/06.
+O impetrante sustenta a ilegalidade da prisão, uma vez que ausentes os requisitos para o decreto da prisão ad custodiam, como também fundamentação idônea para sua perpetuação. Alega a inexistência da justa causa para a manutenção do cárcere.
+Aduz, ainda, que "a paciente, reside com a sua mãe, pessoa idosa e enferma, (Sra. DORVALINA DOS SANTOS), com 90 (NOVENTA) anos de idade, sendo ela, a única responsável pelos cuidados da idosa (pessoa que fornece os remédios de uso contínuo para a mãe, que alimenta e faz a higiene pessoal) ". Por fim, sustenta que "a paciente também possui idade avançada, 64 (sessenta e quatro anos) de idade e sofre com problemas de saúde, e que "sua prisão, neste momento de pandemia de COVID-19 pode colocar não só a sua vida em risco, mas também a vida da idosa".
+Requer a "concessão da presente ordem liminar de Habeas Corpus para converter a prisão preventiva em prisão domiciliar para a paciente Regina de Fátima dos Santos para a preservação da saúde da própria Paciente em decorrência da Pandemia da COVID-19, pois trata-se de pessoa idosa, portadora de comorbidades que agravam o risco de morte no caso de contaminação do novo coronavírus ou liberdade provisória (artigo 316 do CPP), ainda que cumuladas com medidas diversas da segregação (art. 282 c/c art. 319 do CPP)". Outrossim, "seja o presente pedido de habeas corpus julgado procedente ao final, confirmando-se a decisão liminar".
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19. GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar. "
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ademais, o TJRJ consignou o seguinte:
+À vista das informações prestadas pela Autoridade apontada como coatora, não verifico a presença dos requisitos ensejadores da concessão da medida liminar, eis que não vislumbro fundamento razoável (fumus boni iuris) para acolhimento do pleito de urgência, além de não exsurgir o periculum in mora.
+Portanto, ausentes os requisitos autorizadores da concessão do pleito liminar, tenho por INDEFERI-LO.
+Quanto à pretensão veiculada na petição intercorrente de fl. 22/23, encontra-se sob análise do Juízo de origem e eu enfrentamento, na instância ad quem, caracterizaria supressão de instância, razão pela qual indefiro.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, ressalte-se que o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o paciente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento prisional do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso em tela, não há qualquer comprovação da existência de problemas de saúde da pacienteque possam colocar sua vida em risco por causa de contaminação da covid-19, tampouco não há comprovação de que seja a única responsável pelos cuidados da sua genitora.
+A parte impetrante não demonstrou teratologia, flagrante ilegalidade ouimpossibilidade de a paciente receber tratamento no estabelecimento prisional em que se encontra, nem que há exposição a mais risco de contaminação no cárcere do que no ambiente social.
+Não se verifica, portanto, em juízo sumário, o desrespeito à Recomendação CNJ n. 62/2020.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
