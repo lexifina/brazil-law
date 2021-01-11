@@ -1,7 +1,0 @@
-Art. 57. Constituirão recursos para a assistência social e educacional aos atletas profissionais, aos ex-atletas e aos atletas em formação os recolhidos:
-I - diretamente para a federação das associações de atletas profissionais - FAAP, equivalentes a:
-a) 0,5% (cinco décimos por cento) do valor correspondente à parcela ou parcelas que compõem o salário mensal, nos termos do contrato do atleta profissional pertencente ao Sistema Brasileiro do Desporto, a serem pagos mensalmente pela entidade de prática desportiva contratante; e.
-b) 0,8% (oito décimos por cento) do valor correspondente às transferências nacionais e internacionais, a serem pagos pela entidade de prática desportiva cedente; e.
-II - diretamente para a Federação Nacional dos Atletas Profissionais de Futebol - FENAPAF, equivalentes a 0,2% (dois décimos por cento) do valor correspondente às transferências nacionais e internacionais de atletas da modalidade de futebol, a serem pagos no ato do recebimento pela entidade de prática desportiva cedente;
-§ 1º A entidade responsável pelo registro de transferências de atleta profissional de entidade de prática desportiva para outra deverá exigir, sob pena de sua não efetivação, além dos documentos necessários, o comprovante do recolhimento dos valores fixados neste artigo.
-§ 2º Os recursos de que trata este artigo serão integralmente aplicados em conformidade com programa de assistência social e educacional, previamente aprovado pelas entidades de que tratam os incisos I e II deste artigo, nos termos dos seus estatutos.
