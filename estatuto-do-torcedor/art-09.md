@@ -6,4 +6,5 @@ Art. 9º É direito do torcedor que o regulamento, as tabelas da competição e 
 § 5º É vedado proceder alterações no regulamento da competição desde sua divulgação definitiva, salvo nas hipóteses de:
 I - apresentação de novo calendário anual de eventos oficiais para o ano subseqüente, desde que aprovado pelo Conselho Nacional do Esporte - CNE;
 II - após dois anos de vigência do mesmo regulamento, observado o procedimento de que trata este artigo.
+III - interrupção das competições por motivo de surtos, epidemias e pandemias que possam comprometer a integridade física e o bem-estar dos atletas, desde que aprovada pela maioria das agremiações partícipes do evento.
 § 6º A competição que vier a substituir outra, segundo o novo calendário anual de eventos oficiais apresentado para o ano subseqüente, deverá ter âmbito territorial diverso da competição a ser substituída.
