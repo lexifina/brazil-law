@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança com pedido de liminar interpostopor FLÁVIO BUSSAB DELLA LÍBERAcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE.
+É, no essencial, o relatório. Decido.
+Constatou-se a irregularidade no preenchimento do formulário eletrônico das custas judiciais, uma vez que a parte indicou incorretamente o tipo de recurso interposto. Assim, em vez de recolher as custas do recurso em mandado de segurança, fez o recolhimento sob rubrica diversa.
+A parte, embora regularmente intimada para sanar referido vício, não regularizou o preparo. Isso porque juntou a petição de fls. 241-245, com apenas o comprovante de agendamento de pagamento do preparo, não tendo sido juntado o comprovante do efetivo pagamento.
+A propósito, o Superior Tribunal de Justiça entende que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, mutatis mutandis, os seguintes precedentes: AgInt no AREsp n. 1.132.940/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/8/2018; AgInt no AREsp n. 1.207.816/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018; e AgRg no AREsp n. 794.865/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018.
+Ressalte-se que o mero comprovante de agendamento do preparo não serve para a comprovação da quitação da obrigação do recorrente, resultando na deserção do recurso. Nesse sentido, confiram-se os seguintes precedentes: AgInt no REsp n. 1.709.931/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 27/8/2018; AgInt no AREsp n. 1.187.105/DF, relator Ministro Paulo de Tarso Sanseverino, Terceiro Turma, DJe de 29/6/2018; e AgInt no AREsp n. 1.074.130/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 2/5/2018.
+Não se pode considerar efetuado o pagamento se o próprio documento "traz em si a advertência de que não representa a efetiva quitação da transação" (AgInt no AREsp n. 1.143.559/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/3/2018.)
+Dessa forma, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva àdeserção do recurso.
+Ante o exposto,não conheço do recurso.
+Publique-se. Intimem-se.
