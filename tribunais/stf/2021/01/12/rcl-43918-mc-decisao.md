@@ -1,0 +1,20 @@
+Decisão:
+    Cuida-se de reclamação constitucional, com pedido liminar, por mim concedido, nos seguintes termos:
+    “Como se vê, a decisão do Plenário da Corte impede que a execução da pena extrapole os limites do título condenatório, afastando-se o regime mais gravoso na hipótese em que cumpridos os requisitos para regime mais benéfico.
+    Considerando o quadro delineado nos autos: em que não se negou a progressão, mas se reconheceu sua não efetivação em prazo longo – 60 dias – estão presentes os requisitos para a medida liminar pleiteada, consistente na colocação do apenado em regime mais favorável (prisão domiciliar), se for o caso de ausência de vagas no regime em que deveria estar cumprindo a pena que lhe foi imposta.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno deste Supremo Tribunal, concedo a tutela liminar pleiteada, para determinar, permanecendo a noticiada ausência de vagas no regime semiaberto, seja o reclamado posto em regime domiciliar com monitoramento por tornozeleira eletrônica.”
+    Sobreveio manifestação ministerial concordando com a procedência parcial do pedido, nos seguintes termos (eDoc. 16):
+    “Todavia, se a Administração Penitenciária, ao fundamento da pandemia do novo coronavírus, não está transferindo presos do regime semiaberto ao estabelecimento adequado, isso equivale, nos tempos excepcionais ora vivenciados de pandemia mundial, a ausência de vagas no semiaberto, devendo então se adotar os parâmetros e as providências escalonadas do enunciado n. 56 da súmula vinculante, a serem efetivados via decisão judicial pelo Juízo reclamado.
+    O JEP, ora reclamado, sempre pode determinar que a transferência do reclamante seja operacionalizada pela Administração Penitenciária, com os cuidados possíveis, ao preso e aos agentes penitenciários encarregados, de prevenção contra o vírus. E o estabelecimento prisional do semiaberto a que transferido o reclamante pode adotar, por determinado tempo, quarentena quanto ao reclamante em relação aos apenados que lá já estão. A quarentena de presos recém-ingressos em estabelecimentos prisionais e o isolamento dos presos do regime semiaberto com benefícios externos, são medidas que podem ser adotadas pelos estabelecimentos prisionais, conforme abaixo se detalhará.
+    E aí não se verifica a problemática da “reserva do possível” , de contexto de ingerência do Judiciário no Executivo, pois nova despesa não está sendo determinada à Administração Penitenciária, mas apenas sendo prolatada decisão quanto ao implemento de rotinas administrativas atinentes ao quanto determinado na LEP e em precedentes vinculantes deste e. STF.
+    Assim, essa RCL deve ser julgada parcialmente procedente, para que o JEP observe os parâmetros e as providências escalonadas da SV 56 e RE 641320, sendo que a prisão domiciliar deverá ser a última providência cogitada, na forma dos julgados vinculantes acima referidos e da liminar aqui concedida.”
+    Compulsando os autos, verifica-se das informações prestadas que o reclamante teria direito à progressão do regime semiaberto para o aberto em 6 de dezembro de 2020 (eDoc. 11):
+    “O paciente cumpre pena privativa de liberdade de 01 (um) ano e 11 (onze) meses de reclusão, em regime inicial fechado, por infração ao art. 155, § 1º § 4º, I, IV c/c art. 14, II e Art. 61 ‘caput’, II, ‘j’ todos do(a) CP, cujo término de cumprimento de pena será previsto para 27/02/2022. Na data de 26/09/2020, foi concedido ao sentenciado a progressão ao regime semiaberto, sendo que o direito objetivo ao Regime Aberto se consolidará em 06/12/2020. (...)
+    Diante desse cenário, tudo indica que o reclamante já fez jus à progressão de regime e que já esteja, pelo requisito temporal objetivo, em regime aberto, o que recomenda a renovação do pedido de informações ao juízo reclamado para que informe o atual andamento da execução da pena do reclamante.
+    Oficie-se ao juízo reclamado, com cópia desta decisão.
+    Com a resposta, retornem conclusos.
+    Oficie-se. Publique-se.
+    Brasília, 12 de janeiro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
