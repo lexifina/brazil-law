@@ -1,0 +1,15 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+GABINETE DO DES. PAULO DA CUNHA
+GABINETE DO DES. PAULO DA CUNHA
+APELAÇÃO CRIMINAL (417) 0005084-17.2019.8.11.0007
+APELANTE: KARINA RAMEIRO PERES, SIMONE CARLA FARIAS
+APELADO: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+À Procuradoria-Geral de Justiça, para parecer.
+Após, voltem-me os autos conclusos.
+Cumpra-se.
+Cuiabá, data registrada no sistema.
+Desembargador Paulo da Cunha,
+Relator.
