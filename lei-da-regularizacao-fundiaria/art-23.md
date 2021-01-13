@@ -1,6 +1,6 @@
 Art. 23. A legitimação fundiária constitui forma originária de aquisição do direito real de propriedade conferido por ato do poder público, exclusivamente no âmbito da Reurb, àquele que detiver em área pública ou possuir em área privada, como sua, unidade imobiliária com destinação urbana, integrante de núcleo urbano informal consolidado existente em 22 de dezembro de 2016.
 § 1º Apenas na Reurb-S, a legitimação fundiária será concedida ao beneficiário, desde que atendidas as seguintes condições:
-I - o beneficiário não seja concessionário, foreiro ou proprietário de imóvel urbano ou rural;
+I - o beneficiário não seja concessionário, foreiro ou proprietário exclusivo de imóvel urbano ou rural;
 II - o beneficiário não tenha sido contemplado com legitimação de posse ou fundiária de imóvel urbano com a mesma finalidade, ainda que situado em núcleo urbano distinto; e
 III - em caso de imóvel urbano com finalidade não residencial, seja reconhecido pelo poder público o interesse público de sua ocupação.
 § 2º Por meio da legitimação fundiária, em qualquer das modalidades da Reurb, o ocupante adquire a unidade imobiliária com destinação urbana livre e desembaraçada de quaisquer ônus, direitos reais, gravames ou inscrições, eventualmente existentes em sua matrícula de origem, exceto quando disserem respeito ao próprio legitimado.
