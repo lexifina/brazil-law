@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE SÃO CAETANO DO SUL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+CONCURSO PÚBLICO IMPETRAÇÃO VISANDO NOMEAÇÃO PARA O CARGO DE ASSISTENTE ADMINISTRATIVO CANDIDATA APROVADA DENTRO DO NÚMERO DE VAGAS DIREITO SUBJETIVO À NOMEAÇÃO MITIGAÇÃO DA DISCRICIONARIEDADE ADMINISTRATIVA QUE SE IMPÕE - CRISE FINANCEIRA NOTORIAMENTE PREEXISTENTE SEM INCIDENTE RECENTE DE FORÇA MAIOR E QUE NÃO É MOTIVO SUFICIENTE PARA SE NEGAR O DIREITO DA IMPETRANTE SEGURANÇA NEGADA EM PRIMEIRA INSTÂNCIA SENTENÇA REFORMADA APELAÇÃO PROVIDA.
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Isso porque, conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto".
+Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial.
+Esse entendimento possui respaldo em jurisprudência desta Corte Superior de Justiça, que no julgamento do AgInt no AREsp 1.479.509/SP, relator Ministro Francisco Falcão, assim definiu:
+PROCESSO CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. INCIDÊNCIA POR ANALOGIA DO ENUNCIADO N. 284 DA SÚMULA DO STF. DEFICIÊNCIA RECURSAL. ART. 1.029 DO CPC/2015. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que não houve a correta indicação do permissivo constitucional autorizador do recurso especial, aplicando-se, por conseguinte, a referida Súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+III - Conforme disposto no art. 1.029, II, do CPC/2015, a petição do recurso especial deve conter a "demonstração do cabimento do recurso interposto". Sendo assim, o recorrente, na petição de interposição, deve evidenciar de forma explícita e específica em qual ou quais dos permissivos constitucionais está fundado o seu recurso especial, com a expressa indicação da alínea do dispositivo autorizador. Este entendimento possui respaldo em antiga jurisprudência desta Corte Superior de Justiça, que assim definiu: "O recurso, para ter acesso à sua apreciação neste Tribunal, deve indicar, quando da sua interposição, expressamente, o dispositivo e alínea que autoriza sua admissão.
+ ..  (Segunda Turma, DJe de 22/11/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AgInt no AREsp n. 1.015.487/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 2/8/2017; AgRg nos EDcl no AREsp n. 604.337/RJ, relator Ministro Ericson Maranho (desembargador convocado do TJ/SP), Sexta Turma, DJe de 11/5/2015; e AgRg no AREsp n. 165.022/SP, relator Ministro Marco Aurélio Bellizze, Quinta Turma, DJe de 3/9/2013; AgRg no Ag 205.379/SP, relator Ministro José Delgado, Primeira Turma, DJ de 29/3/1999.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
