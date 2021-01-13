@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de mandado de segurança, com pedido de liminar, impetrado por MARIA DE NAZARE REBELO DAS CHAGAScontra ato praticado por MINISTRO DA SA DE, que determinou a cassação de sua aposentadoria.
+Alega que é servidora pública concursada, desde 5/9/1980, quando passou a ocupar o cargo de assistente de administração, vinculado ao Ministério da Saúde; e, em 17/1/1985, passou a ocupar o cargo de Professora vinculada àSecretária de educação do Município de Porto Velho/RO, ficando submetida, portanto, ao regime estatutário do funcionalismo federal e ao regime estatutário do funcionalismo municipal.
+Assevera que, em 2018, ingressou com processo de aposentadoria do cargo de Assistente de Administração, vinculado ao Ministério da Saúde.
+Narra que lhe foi aplicada a pena de cassação da aposentadoriado cargo de assistente de administração do Ministério da Saúde, em razão da ilegalidade de cumulação com o cargo de professor de nível superior na Prefeitura de Porto Velho/RO, conforme Portaria n. 2.599, de 19/10/2019 do Ministro de Estado da Saúde substituto, publicada no DOU de 3/10/2019.
+Argumenta que está caracterizada manifesta inconstitucionalidade da cassação, uma vez que não se enquadra em nenhuma das hipóteses do § 1º do artigo 41 da CF/88.
+Pontua que a descontinuidade do recebimento de proventos de aposentadoria confere grave risco de dano, prejudicando seu sustento e o de sua família.
+Requer, ao final, que seja concedida medida liminar para suspender os efeitos do ato administrativo impugnado, determinando que seja suspenso o ato de cassação e que haja recebimento do benefício da aposentadoria.
+É, no essencial, o relatório. Decido.
+Defiro os benefícios da gratuidade da justiça.
+Primeiramente, importa analisar o cumprimento do prazo decadencial para impetrar o mandado de segurança. Sabe-se que o direito de impetrar a presente ação constitucional é atingido pela decadência após o decurso do prazo de 120 (cento e vinte) dias, contados da data da ciência do ato coator.
+Há jurisprudência dessa colenda Corte federal no sentido de que a cassação de aposentadoria constitui-se ato único de efeitos concretos, que não se renova mês a mês, o que significa dizer que o prazo decadencial é contado a partir da ciência do ato que consuma a cassação, que na hipótese em epígrafe deu-se 3/10/2019 com a publicação no DOU da Portaria n. 2.599, de 19/10/2019, do Ministro de Estado da Saúde substituto.
+A esse respeito, cito por amostragem o seguinte precedente jurisprudencial do Superior Tribunal de Justiça: AgRg no REsp 1318594/GO, Relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 18/8/2014.
+De toda sorte, destaco que a concessão de medida liminar em mandado de segurança exige a satisfação simultânea de dois requisitos autorizadores, a saber, o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos expendidos no mandamus; e o periculum in mora, evidenciado ante a possibilidade do perecimento do bem jurídico objeto da pretensão resistida.
+Em análise sumária, verifica-se a ausência de fumaça do bom direito, uma vez que o mandado de segurança não configura a via adequada para o reexame das provas produzidas no processo administrativo disciplinar, o que demandaria dilação probatória no bojo de tal ação constitucional, que é exatamente a hipótese dos autos. Prevalece, na hipótese em epígrafe, a presunção de legitimidade do ato administrativo, inclusive com relação à conclusão de que os cargos que eram ocupados eram inacumuláveis.
+Por fim, não se deve descurar que o controle jurisdicional do PAD diz respeito tão somente ao exame da regularidade do procedimento, levando-se em conta os princípios do contraditório, da ampla defesa e do devido processo legal, o que não autoriza, portanto, nenhumaimersão no mérito administrativo.
+Ante o exposto, indefiro liminarmente o mandado de segurança.
+Sem condenação em honorários (Súmula n. 105 do STJ).
+Publique-se. Intimem-se.
