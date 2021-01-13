@@ -1,0 +1,6 @@
+Art. 2º-A. Considera-se empreendedor, para fins de parcelamento do solo urbano, o responsável pela implantação do parcelamento, o qual, além daqueles indicados em regulamento, poderá ser:
+a) o proprietário do imóvel a ser parcelado;
+b) o compromissário comprador, cessionário ou promitente cessionário, ou o foreiro, desde que o proprietário expresse sua anuência em relação ao empreendimento e sub-rogue-se nas obrigações do compromissário comprador, cessionário ou promitente cessionário, ou do foreiro, em caso de extinção do contrato;
+c) o ente da administração pública direta ou indireta habilitado a promover a desapropriação com a finalidade de implantação de parcelamento habitacional ou de realização de regularização fundiária de interesse social, desde que tenha ocorrido a regular imissão na posse;
+d) a pessoa física ou jurídica contratada pelo proprietário do imóvel a ser parcelado ou pelo poder público para executar o parcelamento ou a regularização fundiária, em forma de parceria, sob regime de obrigação solidária, devendo o contrato ser averbado na matrícula do imóvel no competente registro de imóveis;
+e) a cooperativa habitacional ou associação de moradores, quando autorizada pelo titular do domínio, ou associação de proprietários ou compradores que assuma a responsabilidade pela implantação do parcelamento.
