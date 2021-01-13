@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de FABIANO HENRIQUE PEREIRA DA SILVAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS(HC n. 0800012-75.2021.8.02.9002).
+O paciente foi preso em flagrante delito em 7/1/2021, pela suposta prática do delito previsto no art. 12,caput, da Lei n. 10.826/03, uma vez que foi encontrado em seu domicílio portando ilegalmente arma de fogo de uso permitido. Foi arbitrada fiança no valor de R$ 8.000,00pela autoridade policial.
+Sustenta que a fiança estipulada é excessiva e o paciente não tem condições financeiras de honrá-la, uma vez que trabalha como vendedor de caldo de cana. Alega que ostenta condições pessoais favoráveis.
+Requer, liminarmente, a isenção da fiança arbitrada e a revogação da prisão. No mérito, pugna pela concessão definitiva da ordem.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+Não visualizo, em juízo sumário, manifesta ilegalidade que autorizeo afastamento da aplicação do mencionado verbete,pois extrai-se da decisão da desembargadora plantonista:
+No caso em deslinde, porém, não se faz possível observar, de plano, a impossibilidade de arcar com qualquer valor atribuído a título de fiança, sendo indispensável a instrução do writ, com as respectivas informações da autoridade apontada como coatora no intuito de afastar outras questões que impeçam a dispensa da fiança. Não se desconhece o teor do habeas corpus coletivo nº 568.693/ES, de Relatoria do Ministro Sebastião Reis Júnior, apontado pelo impetrante à fl. 3. Contudo, assim como o juízo a quo, entendo que há periculum libertatis, em razão da reincidência delitiva do autuado, visto que o mesmo possui em andamento Execução da Penal (Processo n.º0073807-73.2010.8.02.0001) e Ação Penal em andamento perante a 1ª Vara de Coruripe (Processo n.º0712784-80.2013.8.02.0001), motivo pelo qual há risco de que se o agente for posto em liberdade possa criar embarassos (sic) à garantia da ordem pública e social.
+Observo que a fiança arbitrada pela autoridade policial não foi ratificada pelo juiz competente, o qual, atuando segundo a perspectiva do art. 310 do CPP, entendeucabível decretar a prisão preventiva, medidaposteriormente mantida pela desembargadora plantonista.
+Logo, não se trata de analisar a questão sob a perspectiva trazida pelo impetrante, a da hipossuficiência do paciente para o pagamento da fiança, razão pela qual a apreciação do habeas corpus encontra óbice da Súmula n. 691 do STF.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
