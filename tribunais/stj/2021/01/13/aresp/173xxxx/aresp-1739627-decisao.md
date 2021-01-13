@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por LABORSINOS PRODUTOS PARA LABORATORIOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE.
+HONORÁRIOS DE ADVOGADO. RECONHECIMENTO DO PEDIDO.
+1. É indevida a condenação da Fazenda Pública ao pagamento de honorários advocatícios quando reconhece integralmente a procedência do pedido, nos termos do artigo 19 da Lei 10.522, de 2002.
+2. Apelo improvido.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega violação e interpretação divergente do artigo 85 do CPC, no que concerne à condenação em honorários advocatícios, trazendo os seguintes argumentos:
+Pela falta de análise fática na respeitável decisão contida no Acórdão prolatado pelos nobres Desembargadores, divergência jurisprudencial, bem como em infringência ao artigo 85 do CPC/2015 requer-se reforma das decisões (fls. 156).
+A reforma da nobre decisão merece reforma no tocante aos honorários advocatícios. No caso em questão, a prescrição intercorrente que ocasionou a extinção do processo executivo foi arguida pelo apelante (evento 22) e não foi reconhecida de ofício pelo magistrado de origem. Desse modo, ocorrendo a extinção do feito por defesa arguida pelo procurador da parte apelante, é imperioso a condenação da exequente ao pagamento de honorários advocatícios (fls. 157).
+É, no essencial, o relatório. Decido.
+Quanto a ambas as alíneas, na espécie, o acórdão recorrido assim decidiu:
+Ademais a Segunda Turma desta Corte, no julgamento da apelação cível 50064021620174047001 pelo quórum estendido do art. 942 do CPC completo com membros desta Primeira Turma, afastou a imposição de honorários de advogado de sucumbência contra a Fazenda Pública nos casos em que a exequente reconhece expressamente a prescrição na primeira oportunidade em que se manifestar no processo após a fluência do prazo prescricional, ainda que provocada pela executada:
+EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. RECONHECIMENTO EXPRESSO PELA FAZENDA PÚBLICA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. Assim como na hipótese de reconhecimento de ofício da prescrição intercorrente, não cabe a fixação de honorários advocatícios contra a Fazenda Pública nos casos em que a exequente reconhece expressamente a ocorrência da prescrição na primeira oportunidade em que se manifestar nos autos após a fluência do prazo prescricional, ainda que provocada pela executada (art. 19 § 1º, I, da Lei nº 10.522/02).
+2. Hipótese em que o princípio da causalidade deve ser compatibilizado com o princípio da legalidade, porque a Fazenda Pública tem a obrigação de executar os seus créditos (fls.142).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
