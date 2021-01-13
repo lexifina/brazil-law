@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por AUTO PEÇAS BARTONI DE OURINHOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO REGIMENTAL - BENEFÍCIO DA GRATUIDADE INDEFERIDO EM r. DECISÃO MONOCRÁTICA.
+1 A declaração de pobreza firmada de próprio punho por aquele que pretende se beneficiar da gratuidade possui presunção relativa de veracidade;
+2 A própria Constituição Federal exige, em seu art. 5º, inc. LXXIV, comprovação da hipossuficiência - o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos. Patrimônio incompatível com o benefício pretendido.
+RECURSO IMPROVIDO.
+Alega a recorrente violação do art. 99, § 2º, do CPC, defendendo ter comprovado os requisitos legais para fazer jus ao benefício da justiça gratuita, trazendo os seguintes argumentos:
+Com efeito, entende a Recorrente que o v. acórdão acima colado contrariou de forma inaceitável a 1ª parte do texto do § 2º, do art. 99, da Lei Federal nº 13.105/2015, preenchendo, portanto, o pressuposto do artigo 105, inciso III, alínea  a , da Constituição Federal, não restando alternativa, senão socorrer-se a este Colendo Tribunal através do presente recurso, a fim de que seja reconhecido o direito da Recorrente.
+ ..
+É fato incontroverso nos autos que dos documentos elencados pela nobre Relatora na r. decisão de fls. 364, as DIRPS dos últimos 03 (três) anos, foram juntadas aos autos pela Recorrente (fls. 368/382), sendo o bastante e suficiente para comprovar sua incapacidade financeira de custear o pagamento do preparo recursal na época, haja vista não ter havido receita na empresa no período registrado nos referidos documentos.
+Ora, nobre e atilado Ministro Relator e demais Eminentes Ministros julgadores, ao contrário do que constou no v. acórdão ora recorrido, os requisitos autorizadores para concessão da justiça gratuita foram sim preenchidos pela Recorrente com a juntada aos autos dos documentos de fls. 368/383, diga-se de passagem, indicado pela nobre Relatora e emitido pela Receita Federal, e não impugnados pelo Apelado, ora parte Recorrida.
+ ..
+Fazendo-se a leitura dos autos, não se verifica haver qualquer elemento capaz de evidenciar a aptidão financeira da Recorrente de arcar com as custas e as despesas processuais ou a existência de razoável patrimônio, de modo que os elementos contidos nos autos não são contrários à pretensão da Recorrente declarada hipossuficiente.
+ ..
+Consoante todo exposto, resta claro que o Tribunal a quo contrariou a 1ª parte do texto do § 2º, do art. 99, da Lei Federal nº 13.105/2015, isto porque, a Recorrente comprovou sua hipossuficiência nos autos, devendo esse Egrégio Superior Tribunal de Justiça revalorar as provas documentais juntadas aos autos às fls. 368/371, e ademais, não há nos autos elementos que evidenciem a falta de pressuposto legal para a concessão da gratuidade processual à Recorrente. (fls. 444-445).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, determinado ao recorrente que ele juntasse documentos comprovando a sua atual situação financeira (declaração de bens e rendimentos, extratos bancários e de cartões de crédito) ele apenas juntou a DEFIS dos últimos três anos.
+Contudo, causa estranheza a alegação de que não possui conta corrente, ou mesmo de que não opere com cartões de crédito. Isso porque, se trata de um estabelecimento comercial e, mesmo considerando que tenha um porte pequeno, ele se encontra ativo, logo, deve haver receita.
+Assim, não comprovando o recorrente a sua incapacidade financeira, era mesmo o caso de rejeitar o pedido de concessão da gratuidade judiciária. (fl. 408)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
