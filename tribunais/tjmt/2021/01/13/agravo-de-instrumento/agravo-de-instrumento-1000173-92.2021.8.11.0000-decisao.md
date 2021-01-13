@@ -1,0 +1,17 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto pela Unimed Norte Mato Grosso – Cooperativa de Trabalho Médico, com o fito de suspender a decisão proferida pelo Juízo da 1a Vara Cível da Comarca de Nova Mutum, que concedeu a antecipação dos efeitos da tutela, pleiteada na Ação Cominatória de Obrigação de Fazer no 1004513-49.2020.8.11.0086, ajuizada por Mônica Lemos Agulhare, para determinar, à cooperativa requerida, que promova a emissão de guias de autorização e custeio integral do equipamento de Bomba de Insulina e insumos recomendados para o tratamento, no prazo de 10 (dez) dias, sob pena de multa diária de R$ 1.000,00 (mil reais), limitada a R$ 20.000,00 (vinte mil reais).
+Para tanto, a agravante alega, em breve resumo, que os insumos pleiteados pela autora são considerados próteses, conforme definição da ANS, por meio da Resolução Normativa RN no 428/2017, o que não encontra previsão de cobertura contratual.
+Desse modo, afirma que agiu no exercício regular de direito, ao negar a cobertura da bomba de insulina e insumos, porquanto inexiste a obrigação da agravante autorizar e custear os referidos produtos, conforme normativas editadas pela Agência Nacional de Saúde Suplementar – ANS.
+Por essas razões, pugna para que seja atribuído efeito suspensivo a este recurso.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre consentâneos com aqueles que, por outro lado, decorrem da decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Nesse sentido, os ensinamentos de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Apesar do esforço da agravante, por ora, não há nada que convença da liminar pleiteada.
+É que, em análise sumária, não se vislumbra qualquer desacerto na decisão combatida, pois estão presentes os requisitos autorizadores da tutela jurisdicional, dispostos no artigo 300 do Código de Processo Civil, quais sejam, o grau de probabilidade do direito invocado e a urgência da medida, consubstanciados na patologia da agravada (diabetes, tipo 1), conforme Laudo Médico de id no 71908958, que também indicou a necessidade, com extrema urgência, de tratamento com bomba de infusão contínua de insulina (SIC – Sistema de Infusão Contínua de Insulina), para a redução dos episódios de hipoglicemia severa, que a paciente tem apresentado, na maioria deles, inclusive, de forma assintomática.
+Desse modo, havendo a cobertura do tratamento da doença, da qual a agravada foi acometida, não pode a operadora de plano de saúde determinar qual o tipo de terapia e/ou medicação deverá ser utilizado.
+Diante desse quadro, ao menos nesse instante, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta.
+Cumpra-se.
