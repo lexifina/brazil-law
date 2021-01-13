@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCOS FABIO CORREIA MOTA e OUTROS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA. CONCURSO PÚBLICO.
+POLÍCIA MILITAR DO ESTADO DE SERGIPE. ELIMINAÇÃO DOS RECORRENTES DA ETAPA DA INVESTIGAÇÃO SOCIAL POR NÃO TEREM ATINGIDO A NOTA DE CORTE ESTIPULADA NO EDITAL. EDITAL FAZ LEI ENTRE AS PARTES. ESTIPULAÇÃO DE NOTA MÍNIMA E NOTA DE CORTE, ITENS 8.6 E 9.1 DO EDITAL. CLÁUSULA DE BARREIRA. LEGALIDADE.
+PRINCÍPIO DA VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO.
+DEMAIS ARGUMENTOS APONTADOS QUE NÃO SÃO APTOS A ANULAR O RESULTADO DO CONCURSO.
+INEXISTÊNCIA DE OFENSA AOS PRINCÍPIOS DA RAZOABILIDADE E ISONOMIA. IMPROCEDÊNCIA DA DEMANDA . SENTENÇA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO. À UNANIMIDADE.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 2º, caput, da Lei 9.784/99, no que concerne à interpretação de cláusula de edital de concurso público, trazendo o(s) seguinte(s) argumento(s):
+Antes de mais nada, deve-se observar que não se está a questionar a existência da cláusula de barreira, haja vista o próprio Supremo Tribunal Federal já ter se manifestado quanto a sua constitucionalidade. Por outro lado, no caso em comento o edital não é claro ao estabelecer se os candidatos seriam convocados em outra chamada, ou seriam eliminados. Sendo assim, as normas ambíguas devem ser interpretadas em favor do candidatos. Ressalte-se, por fim, que a inexistência de cláusula expressando a hipótese de eliminação é incontroversa, mas que o TJSE entendeu que esta seria automática com a não classificação para a etapa consecutiva. (fls. 654).
+Dessa forma, toda vez que for constatada uma ambiguidade e o comando do edital possuir duas interpretações possíveis, deve prevalecer aquela mais favorável ao candidato, conforme se observa o entendimento jurisprudencial abaixo colacionado (fls. 655).
+Sendo assim, o ato da administração pública de eliminar os candidatos sem que no edital dispusesse nenhuma cláusula que expressasse essa possibilidade, resta evidente a violação ao que estabelece o 2º, caput, da Lei 9.784/1999. (fls. 656).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega divergência jurisprudencial quanto ao mesmo artigos.
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, pelas alíneas "a" e "c", na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Com efeito, faz-se oportuno trazer à baila o parecer da Procuradoria, : in litteris "(..)Nesse concurso, fora estipulada cláusula de barreira, qual seja, a estipulação editalícia de que só poderá fazer as provas da fase seguinte um número certo e restrito de candidatos, observada a ordem de classificação na etapa anterior, sendo os demais candidatos eliminados do certame.
+Já a nota de corte, aliás, só se torna conhecida depois que a prova é realizada, diferentemente da pontuação mínima de habilitação, a qual já vem fixada de forma incondicional no edital e implica a eliminação do candidato que não consiga atingi-la em qualquer caso (independentemente das notas dos demais). (..)" Observa-se que os recorrentes obtiveram pontuação superior ao mínimo estabelecido em edital (portanto, aprovados) e inferior a 112,00 (cento e doze) pontos - nota de corte.
+É fato incontroverso que a parte demandante cumpriu apenas o primeiro requisito, não tendo obtido a nota de corte.
+Ora, a regra editalícia é clara, impessoal e legal (fls. 644).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
