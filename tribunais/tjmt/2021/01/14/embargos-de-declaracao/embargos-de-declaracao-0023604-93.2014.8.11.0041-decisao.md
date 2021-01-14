@@ -1,0 +1,26 @@
+Embargos de Declaração: 0023604-93.2014.2014.8.11.0041 (E)
+EMBARGANTE: G. TOMBINI & CIA LTDA – EPP
+EMBARGADO: ESTADO DE MATO GROSSO
+DECISÃO MONOCRÁTICA
+VISTOS,
+Cuida-se de recurso de Embargos de Declaração interposto pelo G. TOMBINI & CIA LTDA – EPP contra acórdão proferido no julgamento do Recurso de Apelação que, por unanimidade, negou provimento ao recurso.
+Em id. 33728989, o apelante ora embargante peticionou o pedido de desistência do presente recurso.
+É o relatório.
+Decido.
+Pois bem. Sabe-se que o art. 998 do Novo Código de processo Civil dispões que “o recorrente poderá, a qualquer tempo, sem anuência do recorrido ou dos litisconsortes, desistir do recurso”.
+Partindo dessa premissa, pontuam os ilustres doutrinadores Nelson Nery Júnior e Rosa Maria de Andrade Nery, que “desistência do recurso é negócio jurídico unilateral e não receptício, segundo o qual a parte que já interpôs recurso contra decisão judicial declara sua vontade em não ver prosseguir o procedimento recursal, que, em consequência da desistência, tem de ser extinto” (CPC Comentado e Legislação Extravagante, 13a ed., RT, ano 2012, p. 995).
+Diferente não é o entendimento do jurista MARINONI Luiz Guilheme e outros, ao comentarem o art. 998 na sua obra Código de Processo Civil Comentado:
+“1. Desistência. [...] Só pode desistir do recurso quem o interpôs [...] A desistência do recurso pode ocorrer a qualquer tempo enquanto não ultimado o seu julgamento (art. 998, CPC) [...]”. (MARINONI Luiz Guilheme e outros, Código de Processo Civil Comentado, São Paulo: Editora Revista dos Tribunais, 2015, p. 946)
+Ademais, não se pode olvidar, que a desistência pode ocorrer a qualquer tempo a partir da efetiva interposição do recurso, até o momento imediatamente anterior ao julgamento deste, inclusive deduzida oralmente na sessão de julgamento.
+Nesse sentido, colaciono precedente do Tribunal de Justiça do Rio Grande do Sul:
+“AGRAVO INTERNO. SERVIDOR PÚBLICO. PEDIDO DE DESISTÊNCIA DO RECURSO. HOMOLOGAÇÃO. O artigo 998 do CPC é expresso no sentido de que o recorrente poderá, a qualquer tempo, sem a anuência do recorrido ou dos litisconsortes, desistir do recurso. Trata-se, portanto, de ato de disposição da parte. No caso, a agravante peticionou requerendo a desistência do recurso. Sendo a parte capaz e outorgado poderes para desistência, cabe homologar a desistência. HOMOLOGADA A DESISTÊNCIA DO AGRAVO INTERNO.” (Agravo No 70070959127, Terceira Câmara Cível, Tribunal de Justiça do RS, Relator: Leonel Pires Ohlweiler, Julgado em 27/10/2016)
+Na mesma vertente tem se manifestado esta e. Corte:
+“RECURSO DE EMBARGOS DE DECLARAÇÃO – AGRAVO DE INSTRUMENTO – AÇÃO DE ARBITRAMENTO DE HONORÁRIOS – DESISTÊNCIA PROTOCOLADA ANTES DO ACÓRDÃO – HOMOLOGAÇÃO – ACÓRDÃO ANULADO - OMISSÃO SUPRIDA – EMBARGOS ACOLHIDOS. Na espécie, tendo o embargante pugnado pela desistência do recurso antes do julgamento do recurso de agravo de instrumento, faz-se necessária a homologação do pedido e a anulação do acórdão embargado”. (TJMT – RED 1000509-04.2018.8.11.0000- RASERLY MARCONDES ALVES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 25/07/2018, Publicado no DJE 26/07/2018)
+“RECURSO DE APELAÇÃO CÍVEL – AÇÃO CAUTELAR INOMINADA – LEGISLAÇÃO PROCESSUAL APLICÁVEL – CÓDIGO DE PROCESSO CIVIL ATUAL – PEDIDO DE DESISTÊNCIA DE RECURSO PELO RECORRENTE – HOMOLOGAÇÃO. [...] O pedido de desistência do recurso pode ocorrer a qualquer tempo a partir da efetiva interposição, até o momento imediatamente anterior ao julgamento deste, inclusive deduzida oralmente na sessão de julgamento (art. 998 do Novo Código de Processo Civil). Requerido oralmente na sessão de julgamento a desistência do recurso pela parte que o interpôs, é o caso de se homologação do respectivo pedido”. (TJMT - Ap 96987/2016, DRA. HELENA MARIA BEZERRA RAMOS, TERCEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 31/08/2016, Publicado no DJE 16/09/2016)
+Diante do exposto, tendo em vista que ainda não se iniciou o julgamento do presente recurso, homologo o pedido de desistência recursal formulado pelo recorrente, para que produza seus jurídicos e legais efeitos, com fulcro no artigo 998 do Diploma Processual Civil e artigo 51, X, do Regimento Interno deste e. Tribunal.
+Comunique-se ao Juízo a quo com cópia do presente decisum.
+Em seguida, arquivem-se os autos, com as cautelas de estilo.
+Intime-se. Cumpra-se.
+Cuiabá, data da assinatura digital.
+YALE SABO MENDES
+Juiz de Direito Convocado
