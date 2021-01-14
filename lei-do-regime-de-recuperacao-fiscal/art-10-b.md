@@ -1,0 +1,1 @@
+Art. 10-B. Durante a vigência do Regime de Recuperação Fiscal, o disposto no art. 4º da Lei Complementar nº 160, de 7 de agosto de 2017, não será aplicável aos incentivos e benefícios fiscais ou financeiro-fiscais concedidos com base nos §§ 7º e 8º do art. 3º da referida Lei Complementar.
