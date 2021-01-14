@@ -1,0 +1,1 @@
+Art. 5º O Plano de Promoção do Equilíbrio Fiscal poderá estabelecer metas e compromissos adicionais ao Programa de Acompanhamento e Transparência Fiscal e ao de Reestruturação e Ajuste Fiscal, nos termos da Lei nº 9.496, de 11 de setembro de 1997.

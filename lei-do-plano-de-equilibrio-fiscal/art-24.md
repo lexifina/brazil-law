@@ -1,0 +1,1 @@
+Art. 24. É a Secretaria do Tesouro Nacional do Ministério da Economia autorizada a realizar o pagamento de faturas referentes à participação do País nos foros, grupos e iniciativas internacionais discriminados no art. 5º da Lei nº 12.649, de 17 de maio de 2012, a partir de 1º de janeiro de 2019.

@@ -1,0 +1,2 @@
+Art. 8º O pedido de adesão do Estado ou do Distrito Federal ao Regime de Recuperação Fiscal instituído pela Lei Complementar nº 159, de 19 de maio de 2017, extingue o Plano de Promoção do Equilíbrio Fiscal em vigor, nos termos do regulamento.
+Parágrafo único. As dívidas decorrentes das operações de crédito contratadas no âmbito do Plano de Promoção do Equilíbrio Fiscal não estão sujeitas ao disposto no art. 9º da Lei Complementar referida no caput.
