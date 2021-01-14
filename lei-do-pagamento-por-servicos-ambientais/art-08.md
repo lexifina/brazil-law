@@ -1,0 +1,11 @@
+Art. 8º Podem ser objeto do PFPSA:
+I - áreas cobertas com vegetação nativa;
+II - áreas sujeitas a restauração ecossistêmica, a recuperação da cobertura vegetal nativa ou a plantio agroflorestal;
+III - unidades de conservação de proteção integral, reservas extrativistas e reservas de desenvolvimento sustentável, nos termos da Lei nº 9.985, de 18 de julho de 2000;
+IV - terras indígenas, territórios quilombolas e outras áreas legitimamente ocupadas por populações tradicionais, mediante consulta prévia, nos termos da Convenção 169 da Organização Internacional do Trabalho (OIT) sobre Povos Indígenas e Tribais;
+V - paisagens de grande beleza cênica, prioritariamente em áreas especiais de interesse turístico;
+VI - áreas de exclusão de pesca, assim consideradas aquelas interditadas ou de reservas, onde o exercício da atividade pesqueira seja proibido transitória, periódica ou permanentemente, por ato do poder público;
+VII - áreas prioritárias para a conservação da biodiversidade, assim definidas por ato do poder público.
+§ 1º (VETADO).
+§ 2º Os recursos decorrentes do pagamento por serviços ambientais pela conservação de vegetação nativa em terras indígenas serão aplicados em conformidade com os planos de gestão territorial e ambiental de terras indígenas, ou documentos equivalentes, elaborados pelos povos indígenas que vivem em cada terra.
+§ 3º Na contratação de pagamento por serviços ambientais em áreas de exclusão de pesca, podem ser recebedores os membros de comunidades tradicionais e os pescadores profissionais que, historicamente, desempenhavam suas atividades no perímetro protegido e suas adjacências, desde que atuem em conjunto com o órgão ambiental competente na fiscalização da área.
