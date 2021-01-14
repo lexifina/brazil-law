@@ -1,0 +1,1 @@
+Art. 20. É a Secretaria do Tesouro Nacional do Ministério da Economia autorizada a dispensar os entes que não atenderem a quaisquer dos requisitos do caput do art. 3º da Lei Complementar nº 159, de 19 de maio de 2017, da fixação das metas ou dos compromissos firmados no âmbito da Lei nº 9.496, de 11 de setembro de 1997, e da Medida Provisória nº 2.192-70, de 24 de agosto de 2001.
