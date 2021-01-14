@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por PINHEIRO TAHAN SOCIEDADE INDIVIDUAL DE ADVOCACIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. Inconformismo da parte autora.
+EXTINÇÃO DA EXECUÇÃO. Artigo 924, inciso II, do CPC/2015.
+ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS.
+Pagamento da RPV. Ausência de impugnação. INSS concordou com os cálculos apresentados. Art. 85, § 7º do CPC.
+PREQUESTIONAMENTO. Desnecessária a menção aos dispositivos legais enumerados. Questões postas decididas.
+RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, alega divergência de interpretação do art. 85, §§ 1º e 7º, do Código de Processo Civil, no que concerne ao cabimento dos honorários advocatícios sucumbenciais na hipótese, trazendo os seguintes argumentos:
+A controvérsia consiste no cabimento ou não dos honorários advocatícios sucumbenciais, em sede de cumprimento de sentença contra a Fazenda Pública, quando não houver impugnação e o valor do crédito for pago por meio de requisição de pequeno valor e não de precatório. (fl. 119).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que, nos termos da jurisprudência do STJ, não é conhecido o recurso especial interposto pela alínea "c" do permissivo constitucional "quando o recorrente apresenta como paradigma acórdão prolatado pelo Supremo Tribunal Federal no âmbito de recurso extraordinário". (AREsp 1164184/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 30/10/2017.)
+No mesmo sentido: "Apenas os acórdãos do Supremo Tribunal Federal fundados na interpretação de norma infraconstitucional podem servir como padrão de divergência, de modo a ensejar o cabimento do recurso especial, nos termos do art. 105, III, "c", da Constituição Federal, o que não é o caso dos autos". (REsp 1502678/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 18/12/2015.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.210.998/MS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 15/9/2015; AgInt no AREsp 903.411/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 6/2/2017; e AgInt no REsp 1.604.133/PR, relator Ministro Humberto Martins, Segunda Turma, DJe de 31/8/2016.
+Ademais, a mera transcrição de ementas não supre a necessidade de cotejo analítico, o qual exige a reprodução de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras, com a indicação da existência de similitude fática e de identidade jurídica entre o acórdão recorrido e os paradigmas indicados.
+Nesse sentido: "A recorrente não se desincumbiu de demonstrar o dissídio de forma adequada, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, tendo se limitado a transcrever e comparar trechos de ementas. Como é cediço, a simples transcrição de ementas com entendimento diverso, sem que se tenha verificado a identidade ou semelhança de situações, não revela dissídio, motivo pelo qual não é possível conhecer do recurso especial pela divergência". (AgRg no REsp 1.507.688/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.874.545/CE, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/6/2020; AgInt no AREsp 1.595.985/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgInt no AgInt no AREsp 1.397.248/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3/8/2020; e AgInt no REsp 1.851.352/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
