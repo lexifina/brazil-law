@@ -1,4 +1,4 @@
-Art. 59. O Poder Legislativo, diretamente ou com o auxílio dos Tribunais de Contas, e o sistema de controle interno de cada Poder e do Ministério Público, fiscalizarão o cumprimento das normas desta Lei Complementar, com ênfase no que se refere a:
+Art. 59. O Poder Legislativo, diretamente ou com o auxílio dos Tribunais de Contas, e o sistema de controle interno de cada Poder e do Ministério Público fiscalizarão o cumprimento desta Lei Complementar, consideradas as normas de padronização metodológica editadas pelo conselho de que trata o art. 67, com ênfase no que se refere a:
 I - atingimento das metas estabelecidas na lei de diretrizes orçamentárias;
 II - limites e condições para realização de operações de crédito e inscrição em Restos a Pagar;
 III - medidas adotadas para o retorno da despesa total com pessoal ao respectivo limite, nos termos dos arts. 22 e 23;
