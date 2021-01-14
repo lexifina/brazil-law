@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por CAIXA SEGURADORA S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. SEGURO DE VIDA. FALECIMENTO DO CÔNJUGE E PAI DOS AUTORES. SENTENÇA DE PROCEDÊNCIA. RECURSO INTERPOSTO PELA SEGURADORA.
+1. ALEGAÇÃO DE NULIDADE DE SENTENÇA EM RAZÃO DA NECESSIDADE DE MAIOR INSTRUÇÃO. NÃO ACOLHIMENTO. APELANTE QUE SEQUER NÃO PLEITEOU A FUNDAMENTA SUA PRETENSÃO E QUE, DE TODO MODO, PRODUÇÃO DE PROVAS NO MOMENTO OPORTUNO.
+2. ARGUMENTO DE AUSÊNCIA DE APRESENTAÇÃO DE DOCUMENTOS NA ESFERA ADMINISTRATIVA. NÃO DEMONSTRAÇÃO DE SUA IMPRESCINDIBILIDADE OU DA SOLICITAÇÃO DE COMPLEMENTAÇÃO.
+DOCUMENTOS APRESENTADOS PELOS REQUERENTES QUE SATISFATORIAMENTE COMPROVAM A SUA CONDIÇÃO DE BENEFICIÁRIOS, SENDO INCONTROVERSA A OCORRÊNCIA DO SINISTRO.
+3. APÓLICE QUE INDICA OS HERDEIROS LEGAIS COMO BENEFICIÁRIOS.
+DEMANDANTES QUE OSTENTAM ESTA QUALIDADE. MANUTENÇÃO DA SENTENÇA.
+4. FIXAÇÃO DE HONORÁRIOS RECURSAIS.
+RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, alega violação do art. 771 do CC, no que concerne à ausência de juntada da documentação referente ao sinistro, trazendo os seguintes argumentos:
+Ocorre que, até o presente momento esta Cia. Recorrente não recepcionou a documentação básica, contudo sem que haja a análise da documentação referente ao sinistro, fica esta Seguradora impossibilitada de regular e liquidar o evento danoso, sendo necessária a suspensão do processo de sinistro, o que não impede que, com a qualquer apresentação de documentação devida, o processo administrativo seja reaberto.
+Dito, insta, ainda, consignar que as condições gerais do produto estabelecem que, para o pagamento da indenização é necessário o envio da documentação básica para análise do sinistro bem como documentos complementares para esclarecimentos sendo estabelecido o prazo de 30 dias após o envio de toda a documentação solicitada para a finalização da análise e pagamento de indenização, quando devida.
+Nesse contexto, apesar de reiterada a solicitação de documentos, os beneficiários quedaram-se inertes, ou seja, não encaminharam a documentação necessária para análise e finalização do processo de sinistro.
+Com efeito, é imperioso destacar os termos do artigo 72, § 1º e § 2º, da Circular nº 302 da SUSEP, visto que determina o prazo de 30 dias, a partir da entrega de todos os documentos, para o pagamento de indenização do evento coberto. Portanto, caso a documentação não seja encaminhada ou, caso haja solicitação de novos documentos, o prazo será suspenso.
+ ..
+Sendo assim, encontra-se latente a ofensa ao Art. 771 do CC, posto que cabe ao Segurado fornecer toda a documentação cabível para que a Seguradora possa regular o sinistro da forma correta, conforme consta das Condições Gerais do produto adquirido, já amplamente explicado em peça de bloqueio e recurso de Apelação. (fls. 342-344).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Analisando os autos, verifico que restaram incontroversos a contratação de seguro de vida com a requerida (mov. 1.16) e o falecimento do segurado, decorrente de acidente de trânsito ocorrido em 28.06.2015 (mov. 1.13).
+A seguradora alegou que não realizou o pagamento na via administrativa em razão da ausência da apresentação de documentos, sendo este também o motivo de sua insurgência recursal, aduzindo que, dada a ausência deles, é indevida a cobertura securitária.
+Contudo, observo que sequer indicou quais são os documentos faltantes para a análise da cobertura ou postulou sua apresentação nos autos processuais, não alegando qualquer outro óbice ao pagamento da indenização além da ausência da apresentação dos documentos na via administrativa.
+Os autores comprovaram o protocolo de documentos nos Correios (mov. 1.15), tal como orientado pela seguradora, ao passo que a requerida não demonstrou que as correspondências enviadas solicitando complementação da documentação (mov 30.3 e 30.4, p. 06/07) foram, de fato, recebidas pela destinatária.
+Ora, em se tratando de fato impeditivo do direito da parte autora, cabia à parte ré a demonstração de que o processo administrativo não teve continuidade por negligência dos autores, conforme previsão do art. 373, II, do CPC/2015 , contudo, sequer apresentou cópia do processo administrativo ou dos documentos efetivamente apresentados pelos beneficiários, limitando-se a acostar cópias do Comunicado de Sinistro Unificado (mov. 30.4) e telas de seu sistema interno (mov. 30.5 e 30.6).
+De outro vértice, verifico que estão presentes nos autos documentos suficientes para comprovar a qualidade de beneficiários dos autores (mov. 1.12 e 1.13), bem como a ocorrência de sinistro passível de cobertura de indenização por morte (falecimento do segurado em decorrência de acidente de trânsito - mov. 1.13 e 1.16), a qual restou incontroversa, de modo que é devido o pagamento da cobertura securitária aos autores.
+ ..
+Por outro lado, observo que a apólice indica como beneficiários os "herdeiros legais" (mov. 1.16), ou seja, os descendentes e a esposa, conforme art. 1.829, I, do Código Civil.
+Portanto, a indenização securitária, devidamente acrescida dos consectários legais tais como fixados na r. sentença, haja vista a ausência de insurgência recursal neste ponto, deverá ser paga aos autores nos exatos termos determinados na origem (fls. 318-320).
+Assim, Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
