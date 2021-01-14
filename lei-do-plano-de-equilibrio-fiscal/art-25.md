@@ -1,0 +1,4 @@
+Art. 25. O art. 5º da Lei nº 12.649, de 17 de maio de 2012, passa a vigorar com a seguinte redação:
+"Art. 5º É o Poder Executivo federal autorizado a contribuir para a manutenção dos seguintes foros, grupos e iniciativas internacionais, nos montantes que venham a ser atribuídos ao Brasil nos orçamentos desses respectivos foros, grupos e iniciativas internacionais, nos limites dos recursos destinados, conforme o caso, à Unidade de Inteligência Financeira ou à Secretaria Especial da Receita Federal do Brasil, à Secretaria Especial de Comércio Exterior e Assuntos Internacionais e à Secretaria do Tesouro Nacional, consoante a Lei Orçamentária Anual:
+X - Rede de Relações Fiscais entre os Níveis de Governo (Network on Fiscal Relations across Levels of Government); e
+XI - Grupo de Trabalho sobre Gestão da Dívida Pública (Working Party on Public Debt Management)." (NR)
