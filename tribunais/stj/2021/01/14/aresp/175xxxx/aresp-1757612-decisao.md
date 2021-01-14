@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por UNIMED REGIONAL DA BAIXA MOGIANA COOPERATIVA DE TRABALHO MÉDICO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação cível. Plano de saúde. Obrigação de fazer. Cobertura para cirurgia em hospital não credenciado. Autora apresentava quadro de lesão infiltrativa de tronco cerebral.
+Sentença de improcedência.
+Relação de consumo configurada. Súmula 608 do C. STJ. Aplicação analógica das Súmulas 95 e 96 desta Corte de Justiça Objetivo contratual da assistência médica comunica- se, necessariamente, com a obrigação de restabelecer ou procurar restabelecer, através dos meios técnicos possíveis, a saúde do paciente. Ré alega ausência de cobertura de tratamento no Hospital Sírio Libanês. Ré que se limitou a indicar o nome de hospital credenciado para o tratamento da autora. Operadora que não é capaz de fornecer o tratamento adequado para o beneficiário dentro de sua rede credenciada. Ônus da prova não desincumbido a contento pela ré. Tratamento indicado pelo médico da autora devido à gravidade da moléstia e sua idade. Ré que deve se responsabilizar pelo custeio perante entidade não credenciada apta a prestar os serviços necessários. Sentença reformada.
+Recurso provido.
+Quanto à controvérsia, alega violação dos arts. 16, X, da Lei n. 9.656/98 e 421 do CC, no que concerne à ausência de cobertura do hospital escolhido pela parte recorrida, trazendo os seguintes argumentos:
+A Recorrida tinha plena ciência de que seu plano não cobria o Hospital escolhido para o tratamento da enfermidade, porquanto não credenciado e de alto custo, assim, não subsiste a alegação de que a UNIMED Regional da Baixa Mogiana não estaria cumprindo o contrato e as disposições da Lei nº 9.656/98, fatos que não coadunam com a realidade.
+A Recorrida não promoveu a solicitação na via administrativa, pois se tivesse sido solicitado o atendimento, lhe seriam indicados os hospitais que atendem o seu plano, mas não o fez, pois já sabia da negativa para atendimentos (i) hospitais não credenciados; (ii) hospital fora da área de cobertura; (iii) médico não credenciado; e (iv) hospitais de alto custo.
+Destaca-se, que nenhuma solicitação foi feita, não havendo qualquer negativa de prestação de serviço, portanto, não há que se falar em custeio de procedimentos efetuados de forma particular em credenciados.
+Conforme já exposto, embora haja cobertura para o procedimento pretendido, se faz primordial que haja solicitação administrativa para autorização do procedimento pretendido ou ao menos que os beneficiários procurem a sua rede de cobertura.
+Nesse diapasão, não houve qualquer descumprimento contratual por parte desta Recorrente, haja vista que não houve solicitação, tampouco negativa do procedimento pretendido pela Recorrida.
+Ainda na exordial, busca a tese de negativa de cobertura quando colaciona as súmulas 93 e 102, o que esse Recorrente lamenta. Porquanto não se negou a qualquer atendimento, todos os procedimentos sendo solicitado pela Recorrida seriam
+autorizados, já que possuem cobertura em sua rede credenciada, assim, não há que se falar de qualquer ofensa as tais súmulas.
+ ..
+O contrato empresarial prevê que a cobertura do plano de saúde se dá dentro da rede contratada/credenciada da UNIMED Regional da Baixa Mogiana, como já demonstrado alhures, sendo sua cobertura de nível municipal, entre os quais: Estiva Gerbe, Itapira, Mogi Guaçu e Mogi Mirim.
+Assim, o contrato que prevê a cobertura dispõe expressamente sobre o limite dos serviços, prevendo que se dá por meio da rede contratada e/ou credenciada.
+O tratamento necessitado pode ser realizado dentro da área de cobertura da UNIMED Regional da Baixa Mogiana.
+Importante informar aos ilustres julgadores, que o genitor da Recorrida (menor), é médico cooperado dessa Operadora e tinha ciência de como obter atendimento em sua rede de cobertura, bem como tinha ciência de que a abrangência de seu plano era municipal (fls. 453-454).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A ré afirma a ausência de cobertura do tratamento indicado para autora no Hospital Sírio Libanês, devido ao seu não credenciamento. Porém, se a operadora não é capaz de fornecer o tratamento adequado para beneficiário, dentro de sua rede credenciada, mas oferece cobertura para a doença que o acomete, deve se responsabilizar pelo custeio perante entidade não credenciada apta a prestar os serviços necessários.
+A regra é que o beneficiário realize o tratamento e procedimentos necessários quanto à doença que o acomete dentro da rede credenciada do plano de saúde.
+No caso, caberia à ré comprovar que há dentro do plano, profissionais habilitados para tratar da doença que acomete a autora, ônus do qual não se desincumbiu, vez que se limitou a mencionar o nome de hospitais e médicos, sem comprovar a capacidade dos mesmos em dar o tratamento adequado para autora.
+Além do que o tratamento foi recomendado para a autora, dado o grau avançado da moléstia, bem como a sua idade (4 anos, à época):
+ ..
+O objetivo contratual da assistência médica comunica-se necessariamente, com a obrigação de restabelecer ou procurar restabelecer, através dos meios técnicos possíveis, a saúde do paciente.
+Assim, de toda forma, é de rigor a imposição de custeio da cirurgia no Hospital Sírio Libanês, realizada em 27.07.2017, razão pela qual a sentença deve ser reformada (fls. 441-442).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
