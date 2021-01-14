@@ -1,0 +1,1 @@
+Art. 20. Para o cumprimento do disposto nesta Lei, a União poderá firmar convênios com Estados, com o Distrito Federal, com Municípios e com entidades de direito público, bem como termos de parceria com entidades qualificadas como organizações da sociedade civil de interesse público, nos termos da Lei nº 9.790, de 23 de março de 1999.

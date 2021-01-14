@@ -1,0 +1,2 @@
+Art. 14. Os contratos de pagamento por serviços ambientais que envolvam recursos públicos ou que sejam objeto dos incentivos tributários previstos no art. 17 desta Lei estarão sujeitos à fiscalização pelos órgãos competentes do poder público.
+Parágrafo único. Os serviços ambientais prestados podem ser submetidos à validação ou à certificação por entidade técnico-científica independente, na forma do regulamento.

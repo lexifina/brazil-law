@@ -1,0 +1,2 @@
+Art. 11. O poder público fomentará assistência técnica e capacitação para a promoção dos serviços ambientais e para a definição da métrica de valoração, de validação, de monitoramento, de verificação e de certificação dos serviços ambientais, bem como de preservação e publicização das informações.
+Parágrafo único. O órgão central do Sisnama consolidará e publicará as metodologias que darão suporte à assistência técnica de que trata o caput deste artigo.

@@ -1,0 +1,1 @@
+Art. 21. As receitas oriundas da cobrança pelo uso dos recursos hídricos de que trata a Lei nº 9.433, de 8 de janeiro de 1997, poderão ser destinadas a ações de pagamento por serviços ambientais que promovam a conservação e a melhoria da quantidade e da qualidade dos recursos hídricos e deverão ser aplicadas conforme decisão do comitê da bacia hidrográfica.
