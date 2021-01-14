@@ -27,3 +27,4 @@ b) Estadual, o Tribunal de Justiça e outros, quando houver.
 § 4º Nos Estados em que houver Tribunal de Contas dos Municípios, os percentuais definidos nas alíneas a e c do inciso II do caput serão, respectivamente, acrescidos e reduzidos em 0,4% (quatro décimos por cento).
 § 5º Para os fins previstos no art. 168 da Constituição, a entrega dos recursos financeiros correspondentes à despesa total com pessoal por Poder e órgão será a resultante da aplicação dos percentuais definidos neste artigo, ou aqueles fixados na lei de diretrizes orçamentárias.
 § 6º (VETADO)
+§ 7º Os Poderes e órgãos referidos neste artigo deverão apurar, de forma segregada para aplicação dos limites de que trata este artigo, a integralidade das despesas com pessoal dos respectivos servidores inativos e pensionistas, mesmo que o custeio dessas despesas esteja a cargo de outro Poder ou órgão.
