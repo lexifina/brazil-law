@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de TELLY ROBERTO SALINAS ALAVA e outrosem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO(Processo n.00102664420208080035).
+Os pacientes, cidadãos estrangeiros, legalmente residentes no Brasil, no dia 10 de setembro de 2020, foramalvos de cumprimento de mandado de prisão temporária, busca e apreensão em suas residências;aqueles contra os quaisnão havia mandado de prisão foram presos em flagrante, em razão da suposta prática de crimes contra a economia popular, ameaça, organização criminosa e extorsão.As prisões em flagrante e temporárias foram convertidas em prisões preventivas.
+O impetrante sustenta que os pacientes estão sofrendo constrangimento ilegal decorrente de situação de fragrante ilegalidade e abuso de poder, poisa prisão se mantém sem arealização da audiência de custódia, que foi dispensada pela autoridade judicial,. Afirma que estãoinexistentesos pressupostos para decretação da prisão preventiva, além de haver apossibilidade de aplicação das medidas cautelares diversas.Aduz que a situação excepcional de flagrante constrangimento ilegal e abuso de poder são autorizadores do afastamento do óbice da súmula 691/STF, e que e que estão presentes o fumus boni iuris e o periculum in mora, aptos a ensejar à concessão da liminar.
+Requer, liminarmente, a concessão da medida de urgência a fim de suspender a prisãodos pacientes, com aaplicação das medidas diversas contidas no art. 319 do CPP. No mérito, pugna pela concessão da ordem para que seja a liminar confirmada,com o relaxamento/revogação da prisão preventiva, e os pacientes possamresponder ao processo em liberdade.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
