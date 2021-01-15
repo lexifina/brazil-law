@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de reclamação com pedido de liminar apresentada por ELIANA MARCHESI BICALHO DE ANDRADE e JOSE CARLOS DE ANDRADE contra decisão do desembargador relator de mandado de segurança que tramita noTribunal de Justiça do Estado de Minas Gerais.
+Sustentam os reclamantes que "a presente reclamação visa dar efetividade ao entendimento proferido em julgamentos de Recursos Especiais e Agravos em Recursos Especiais, que conferiu a proteção possessória nos casos em que, no âmbito particular, apresentam-se compossuidores" (fl. 4).
+Alegam que o desembargador relator afrontou "o quanto definido por esta E. Corte", na medida em que "proferiu decisão negando o pedido liminar para manutenção da posse dos ora Reclamantes, de imóveis rurais sob os quais são também coproprietários" (fl. 4).
+Aduzem que "não buscam a posse indiscriminada do imóvel, mas sim que o recurso de apelação seja recebido no efeito suspensivo, mantendo-se a eficácia da medida liminar anteriormente concedida" (fl. 15).
+Requerem o deferimento da medida liminar a fim de que prevaleça "o entendimento firmado no julgamento do Recurso Especial nº 1.244.118/SC e Aresp nº 998.055/SP, determinando a cassação da decisão proferida nos autos do mandado de segurança" (fl. 23).
+É, no essencial, o relatório. Decido.
+A reclamação prevista no art. 105, I, f, da Constituição Federal é garantiaconstitucional destinada à preservação da competência do Superior Tribunal de Justiça ou para garantir a autoridade de suas decisões em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado aqui proferido.
+Nota-se que os reclamantes insurgem-se contra decisão monocrática que apenas indeferiu pedido de liminar, mas alegam que tal decisum violoua autoridade de julgados do Superior Tribunal de Justiça que versam sobre manutenção da posse de imóveis rurais.
+No entanto, o pleito não se enquadra em nenhuma das hipóteses de cabimento de reclamação, uma vez que inexiste decisão desta Corte proferida no caso concreto que esteja sendo descumprida.
+Ademais, conforme reiterada jurisprudência do STJ, não é possível a formulação de reclamação como sucedâneo recursal para dirimir divergência jurisprudencial.
+Transcrevo julgado sobre o tema:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECLAMAÇÃO. CASO CONCRETO QUE N ÃO SE AMOLDA A NENHUMA DAS HIPÓTESES AUTORIZATIVAS DA VIA ELEITA. ORIENTAÇÃO DESTA CORTE NO SENTIDO DE QUE É INADMISSÍVEL A UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO DE RECURSO. AFRONTA À AUTORIDADE DE DECISÃO PROFERIDA EM OUTRO PROCESSO. AUSÊNCIA DE EFEITO VINCULANTE.  ..  2. Nos termos do art. 105, f, da CF c/c o art. 187 do RISTJ, a Reclamação é cabível para preservar a competência deste Tribunal ou para garantir a autoridade das suas decisões, não podendo servir como sucedâneo recursal para discutir o teor da decisão hostilizada ou como meio de dirimir divergência jurisprudencial.  ..  4. Agravo regimental não provido. (AgRg na Rcl n. 24.962/MG, relator Ministro Mauro Campbell, Primeira Seção, DJe de 1º/7/2015.)
+Assim, inexistindo acórdão desta Corte no caso concreto envolvendo as mesmas partes ora em litígio, inadmissível a reclamação em análise, por ausência de pressuposto formal da ação.
+Ante o exposto, indefiro liminarmente a reclamação.
+Publique-se. Intimem-se.
