@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    O Estado do Maranhão assevera haver o Tribunal Regional do Trabalho da 16ª Região, no processo nº 0017271-76.2016.5.16.0006, inobservado o decidido nas ações diretas de inconstitucionalidade nº 3.247, 3.395, e, sob o ângulo da repercussão geral, nos recursos extraordinários nº 573.202 e 658.026.
+    Diz figurar como réu em demanda ajuizada por Dalvanira Maria Farias Gomes visando o pagamento de verbas salariais e depósitos do Fundo de Garantia do Tempo de Serviço. Menciona assentada a competência da Justiça do Trabalho, surgindo o descompasso.
+    Afirma em jogo contratação temporária, de caráter administrativo, a teor da Lei estadual nº 6.915/1997. Sustenta que o Supremo, nos precedentes, concluiu não caber à Justiça do Trabalho causa envolvendo o Poder Público e servidores, concernente a relação de cunho estatutário.
+    Requer, no campo precário e efêmero, a suspensão do processo originário. Busca, no mérito, a cassação do acórdão.
+    2. Relativamente aos pronunciamentos nos recursos extraordinários nº 573.202 e 658.026, a parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil indica que o cabimento da reclamação, objetivando ver assentada erronia quanto à observância da sistemática da repercussão geral, está condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando julgado agravo interposto contra eventual inadmissão de extraordinário. O requisito não foi atendido, porquanto direcionada a irresignação contra acórdão resultante do julgamento de recurso ordinário.
+    A liminar deferida na ação direta de nº 3.395, confirmada no exame definitivo, ficou restrita ao afastamento de interpretação do inciso I do artigo 114 da Lei Maior, na redação conferida pela Emenda de nº 45/2004, que implique a admissão da competência da Justiça do Trabalho para apreciar ações envolvendo o regime especial, de caráter jurídico-administrativo.
+    Conforme se extrai das peças que instruem a reclamação, a interessada não postulou, na origem, o recebimento de valores decorrentes de regime estatutário. Pretende a condenação do Estado ao pagamento de verbas trabalhistas, notadamente depósitos do Fundo de Garantia do Tempo de Serviço. Está presente a articulação, como causa de pedir, da regência do vínculo pela Consolidação das Leis do Trabalho. Define-se a competência conforme a ação ajuizada. Se a causa de pedir é relação regida pela Consolidação das Leis do Trabalho, cabe à Justiça do Trabalho, e não à comum, julgá-la.
+    Quanto à contrariedade ao decidido na ação direta nº 3.247, o Pleno conferiu ao artigo 2º, inciso VII, da Lei nº 6.915/1997 do Estado do Maranhão interpretação conforme a Constituição Federal, “de modo a possibilitar, tão somente, contratações temporárias pelo prazo máximo de doze meses, contados do último concurso público realizado para a investidura de professores do Estado do Maranhão”. Debateu-se a possibilidade de admissão temporária na área de saúde, nada se decidindo sobre competência de órgão judiciário para apreciação de ação. Inexiste identidade material entre o ato reclamado e o precedente.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 18 de janeiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
