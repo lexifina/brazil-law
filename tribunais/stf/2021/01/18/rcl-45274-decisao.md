@@ -1,0 +1,38 @@
+Decisão
+    Trata-se de Reclamação, com pedido de medida liminar, ajuizada em face ato da Secretaria Estadual de Fazenda do Estado do Rio de Janeiro, que teria desrespeitado o que decidido por esta CORTE no RE 198.088 (Rel. Min. ILMAR GALVÃO) e no RE 748.543 RG (Rel. Min. MARCO AURÉLIO, Red. p/ acórdão Min. ALEXANDRE DE MORAES).
+    Na inicial, a parte autora expõe as seguintes alegações de fato e de direito (fls. 2/4):
+    1. A presente Reclamação, fundada no art. 988, II, do CPC, objetiva garantir a observância do entendimento consagrado pelo STF no julgamento, com repercussão geral, do RE 198.088-SP (Pleno, Rel. Min. Ilmar Galvão, DJ de 05/09/2003) recentemente ratificado no julgamento do RE 748.543 (Pleno, Rel. Min. Marco Aurélio, redator do acórdão Min. Alexandre de Moraes, DJe 10/09/2020) notadamente na parte em que se chancelou o entendimento quanto a totalidade do ICMS que caberá, em sua totalidade, desde a remessa até o consumo ao Estado de Destino, conforme art. 155, §2º, X, alínea “b” da Constituição Federal, orientação essa descumprida pela autoridade fazendária estadual na lavratura da Nota de Lançamento de 51001256 – Processo Administrativo E-04/037.483/2013.
+    (…)
+    4. A Reclamante desenvolve a atividade empresarial de refino de petróleos conforme autorização da ANP e dentre os derivados resultantes do seu processo industrial é produzida a Gasolina “A”.
+    5. Para elucidar o ciclo de produção e circulação dos combustíveis derivados de petróleo a eminente Min. Ellen Gracie, no julgamento da ADI 4.171 (Doc. 06)de forma objetiva expõe:
+    “(...) É preciso ter em conta que, na cadeia de produção e comercialização da gasolina, as refinarias produzem os combustíveis derivados de petróleo, que são a gasolina tipo A e o diesel, enquanto as usinas produzem os combustíveis não derivados de petróleo (renováveis), que são o álcool etílico anidro combustível (AEAC) e biodiesel, referido este como B100. As distribuidoras, então, adquirem-nos para produzir a gasolina tipo C e o óleo diesel B5, fornecendo-os aos postos para comercialização ao consumidor final (...)”.
+    6. O trecho do acórdão supratranscrito descreve com exatidão a atividade desenvolvida pela Reclamante e expõe o cenário em que ocorrera as operações de circulação de combustível as quais culminaram na autuação pelo Fisco Fluminense.
+    7. A Fazenda do Estado do Rio de Janeiro lavrou em desfavor da ora Reclamante a Nota de Lançamento 51001256 originando o Processo Administrativo E-04/037.483/2013 no qual é exigido o Fundo Estadual de Combate e Erradicação da Pobreza – (FECP).
+    8. As operações relatadas descrevem a venda pela Reclamante (Refinaria) para uma Distribuidora de Petróleo (DÍNAMO) e, em seguida, a venda interestadual das Distribuidoras para postos de combustíveis situados no Estado de São Paulo (Estado de Consumo).
+    9. Com efeito, conforme se demonstrará a seguir, o tributo exigido “FECP” na referida Nota de Lançamento não são devidos ao Estado do Rio de Janeiro visto que cabe ao Estado de Consumo (SP), em sua totalidade, o ICMS incidente desde a remessa até o consumo, consoante pacífico entendimento desse C. STF.
+    Requer, ao final, a suspensão dos atos impugnados e, no mérito, seja julgada procedente a presente Reclamação, para que se determine a nulidade da Nota de Lançamento 51001256 listada no item (ii), comunicando-se a Reclamada (fl. 22).
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os arts. 102, I, l e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil de 2015:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    Cumpre destacar, inicialmente, que o parâmetro pautado no RE 198.088 (Rel. Min. ILMAR GALVÃO), não serve ao cotejo com o presente caso, fundamentalmente, porque trata-se de processo subjetivo destituído de caráter vinculante, sem que a parte autora tenha ocupado posição de sujeito processual na ação. Nessa linha:
+    AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGADA AFRONTA À AUTORIDADE DE DECISÃO PROLATADA EM PROCESSO DE ÍNDOLE SUBJETIVA EM QUE NÃO FIGUROU COMO PARTE O RECLAMANTE. AUSÊNCIA DE EFICÁCIA ERGA OMNES. NÃO CABIMENTO. O acórdão paradigma foi prolatado em processo de índole subjetiva, desprovido de eficácia erga omnes, em que não figurou como parte o reclamante, motivo pelo qual a sua invocação não se amolda ao previsto no art. 102, I, l , da Constituição da República. Agravo regimental conhecido e não provido. (Rcl 13.610-AgR, Rel. Min. ROSA WEBER, Tribunal Pleno, DJe de 18/6/2014).
+    Logo, no que concerne a esse paradigma, a presente Reclamação é manifestamente incabível.
+    O parâmetro de controle remanescente é a decisão proferida no RE 748.543 RG (Rel. Min. MARCO AURÉLIO, Red. p/ acórdão Min. ALEXANDRE DE MORAES), que resultou no Tema 689 da Repercussão Geral, a seguir transcrito:
+    “Segundo o artigo 155, § 2º, X, b, da CF/1988, cabe ao Estado de destino, em sua totalidade, o ICMS sobre a operação interestadual de fornecimento de energia elétrica a consumidor final, para emprego em processo de industrialização, não podendo o Estado de origem cobrar o referido imposto"
+    Pois bem. Em relação a esse paradigma de confronto, a Reclamação também é manifestamente incabível. A invocação pautada em desrespeito a Recurso Extraordinário, julgado sob a sistemática da repercussão geral, pressupõe que o conteúdo do decidido no recurso repetitivo tenha sido aplicado por órgão jurisdicional. Diversamente, no caso em análise, o ato impugnado sequer decorre de processo judicial, pois refere-se à lavratura, pela Secretaria de Estado de Fazenda do Rio de Janeiro, da Nota de Lançamento 51001256, que deu origem ao Processo Administrativo E-04/037.483/2013 no qual é exigido o Fundo Estadual de Combate e Erradicação da Pobreza – o que não autoriza o ajuizamento da presente ação.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 18 de janeiro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
