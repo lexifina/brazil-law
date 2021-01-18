@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RICARDO FURLAN RODRIGUES em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que (fls. 330/331):
+Conforme consta nos autos em apreço, em 02.9.2020, o embargante acostou aos presentes autos, certidão de interdição da parte agravante Evely Maria de Oliveira, noticiando que em razão disso, ao menos em tese, todos os atos praticados após a interdição deveriam ser anulados, já que o artigo 71 do Código de Processo Civil dispõe que uma pessoa interditada não pode demandar ou ser demandada.
+(..)
+Uma vez que existem nulidades instransponíveis, que acarretarão a renovação dos atos praticados após a decretação da interdição da agravante, necessário se faz assim, aclarar a decisão embragada a fim de ser sanada a omissão ora apontada, indicando as razões de fato e de direito que impedem a nulidade ou a renovação dos atos praticados após a decretação da interdição.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+O Ministério Público foi intimado a manifestar-se em relação à nulidade apontada nos aclaratórios (fls. 352/353), o qual opinou pela rejeição de tal arguição (fls. 357/360).
+Veja (fls. 359/360):
+A arguição da nulidade mostra-se infundada. Com efeito, o ato que marca a abertura da jurisdição do Superior Tribunal de Justiça acerca do tema aqui vertido é o agravo em recurso especial, o qual fora interposto em 3 de abril de 2020. A decisão impositora da curatela, por seu turno data de 19 de agosto de 2019.
+Desde o dia 19 de agosto de 2019 os patronos da recorrente e ela estavam cientes da necessidade de se fazer representar no processo. Mas, quedaram-se inerte quanto a essas questões, não tecendo uma linha a respeito do tema.
+Por isso, aplica-se a regra do artigo 276 do CPC, no sentido de vedar o aproveitamento da nulidade por quem lhe deu causa. Constata-se na espécie a ocorrência da chamada "nulidade de algibeira ou de bolso", porquanto a conduta processual da parte denota omissão deliberada, eis que arguida a nulidade após julgamento desfavorável.
+(..)
+No mais, conforme o entendimento do Superior Tribunal de Justiça, "A declaração da nulidade dos atos processuais depende da demonstração da existência de prejuízo à parte interessada ("pas de nullité sans grief")" (AgRg no REsp 1.390.650/RS, Relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 7/4/2015, DJe 13/4/2015).
+Neste caso, não se verifica qualquer prejuízo às partes apto a ensejar decretação de nulidade. Na simples e genérica alegação de que houve grave prejuízo aos peticionários, não se mostra, per se, razão para acolhimento do pleito. Cumpre ressaltar que o Recurso Especial dos ora agravantes nem sequer ultrapassou a barreira da admissibilidade, e que possíveis defeitos relacionados à representação da então recorrida em nada influíram na conclusão alcançada por essa Corte Superior, pois não houve comprometimento do direito ao contraditório e à ampla defesa das partes.
+Ainda que assim não fosse, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: Súmula 282/STF e Súmula 7/STJ.
+Portanto, o agravo em recurso especial restou prejudicado pela ausência de preenchimento dos pressupostos recursais, que obstou a abertura desta instância superior e a produção do efeito translativo.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração por entender que não há qualquer nulidade e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
