@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de FRANCISCO MIGUEL LIMA PEREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ.
+Consta da inicial a prisão em flagrante do paciente, ulteriormente convertida em preventiva, no dia 18 de dezembro de 2020, pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico, respectivamente capitulados nos artigos 33 e 35 da Lei 11.343/2006, com incidência da causa de aumento prevista no art. 40, inciso VI, da referida lei.
+Aduz o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar formulado em habeas corpus impetrado perante o tribunal de origem, visando a revogação da prisão preventiva do paciente.
+Em suas razões, sustenta o impetrante que a segregação processual do paciente, com condições pessoais favoráveis, além de despida de fundamentação idônea, não preenche os requisitos autorizadores da prisão, nos moldes dos arts. 312 e 315 do CPP. Alega, ainda, que o decreto prisional não fundamentou de maneira adequada a razão pela qual deixou de aplicar as medidas cautelares diversas da prisão, previstas no art. 319 do CPP, cuja imposição seria suficiente ao caso concreto.
+Requer a concessão da ordem, liminarmente, para que seja revogada a prisão preventiva do paciente, e, no mérito, requer a concessão definitiva da ordem. Subsidiariamente, requer a substituição da medida extrema por medidas cautelares diversas da prisão.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Como bem salientado pelo Tribunal a quo:
+A certidão de antecedentes de fls. 58/61 mostra que, a despeito de eventual absolvição no bojo da Ação Penal nº 0011534-43.2015.8.06.0075, o paciente teve aberto contra si, ainda esse ano, o Termo Circunstanciado de Ocorrência nº 0050779-85.2020.8.06.0075, envolvendo "Crimes contra o Meio Ambiente e Patrimônio Genético" e "Posse de Drogas para Consumo Pessoal". Dessa vez, o paciente foi flagranteado na posse dos entorpecentes "cocaína" e "crack", dinheiro trocado e na companhia de uma menor de idade. (fls. 190)
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
