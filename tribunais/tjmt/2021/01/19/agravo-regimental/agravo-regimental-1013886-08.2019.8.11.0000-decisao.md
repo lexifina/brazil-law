@@ -1,0 +1,10 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+AGRAVO REGIMENTAL CÍVEL (206) 1013886-08.2019.8.11.0000
+AGRAVANTE: ATIVOS S.A. SECURITIZADORA DE CREDITOS FINANCEIROS
+AGRAVADO: TURMA RECURSAL DOS JUIZADOS ESPECIAIS CÍVEIS
+Vistos etc.
+Renove-se o ato, intimando a terceira interessada.
+Cumpra-se.
+Cuiabá, 19 de janeiro de 2021.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
