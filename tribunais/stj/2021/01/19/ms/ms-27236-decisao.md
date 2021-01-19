@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de mandado de segurança, com pedido de liminar, impetrado por ANGELICA DE FÁTIMA SAMPAIO contra ato do Desembargador Miguel Kfouri Neto, da 1ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná, nos autos do HC n. 0000593-76.2021.8.16.0000, que determinou que a beneficiária das medidas protetivas desocupe o imóvel localizado no Alphaville-Graciosa, retornando ao apartamento que lhe pertence, bem como que o paciente volte a residir na sua moradia.
+Aduz que seu lar sempre foi a casa de Alphaville, que não possui outro local para residir e/ou possibilidade de manter sua subsistência sem o auxílio da parte adversa.
+Requer, ao final, a concessão da segurança, para que a liminar concedida em habeas corpus seja revogada e a medida protetiva, proferida nos Autos n. 0021432-20.2020.8.16.0013, mantida, uma vez que se trata de direito líquido e certo da impetrante.
+É, no essencial, o relatório. Decido.
+Defiro a gratuidade da justiça.
+Segundo o art. 105, I, b, da Constituição Federal, que demanda interpretação restritiva, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, os mandados de segurança impetrados contra ato de ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Aplica-se ao caso, dessarte, a Súmula n. 41 do STJ: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos."
+Importa salientar que o entendimento desta Corte federal é no sentido de que o cabimento de mandado de segurança contra decisão judicial é admitido somente de forma excepcional, quando se tratar de ato manifestamente ilegal e/ou teratológico, se não houver instrumentos recursais próprios na via ordinária, previstos na legislação processual, de modo a impedir a lesão ou a ameaça de lesão a direito líquido e certo, cuja comprovação também dispensa instrução probatória.
+Não é ahipótese dos autos, na qual há mera inconformidade com o resultado do julgado que lhe foi negativo, sendo utilizado o mandado de segurança, portanto, indevidamente como um sucedâneo recursal.
+Ressalte-se que a jurisprudência do STJ é pacífica no sentido de que o mandado de segurança não pode ser utilizado como sucedâneo recursal, em decorrênciada Súmula n. 267 do STF, sob pena de desnaturação de sua essência constitucional.
+Segue transcrição de precedente: "O mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais pode se verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo." (AgInt no MS n. 24.230/DF, Corte Especial, relator Ministro Felix Fischer, DJe de 13/9/2018.)
+Ante o exposto, com fundamento no art. 212 do RISTJ, indefiro liminarmente o mandado de segurança em face da incompetência absoluta do Superior Tribunal de Justiça para dele conhecer e julgá-lo.
+Sem condenação a honorários (Súmula n. 105 do STJ).
+Publique-se. Intimem-se.
