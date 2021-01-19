@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JOÃO GUILHERME DA SILVAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Habeas Corpusn. 70084862291).
+O paciente encontra-se segregado cautelarmente, desde 17/3/2020, e denunciado pela prática, em tese, do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+O impetrante sustenta a ilegalidade da prisão preventiva por suposto excesso de prazo na condução do processo-crime, sobretudo porque designadaa audiência de instrução e julgamento somente para o dia 4/5/2021.
+Requer, liminarmente, a revogação da preventiva mediante a aplicação de medidas cautelares diversas da prisão. No mérito, pugna pela concessão da ordem para que seconfirme a medida liminar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS (250 G DE MACONHA). WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU PEDIDO LIMINAR. EXCESSO DE PRAZO.TERATOLOGIA OU ILEGALIDADE MANIFESTA. AUSÊNCIA. SÚMULA 691/STF.APLICABILIDADE ANALÓGICA.
+1. O mandamus foi impetrado contra decisão monocrática de Desembargador, relator na Corte local da apelação interposta pelo ora agravante, que indeferiu pedido de liberdade provisória. Em tais casos, esta Corte, seguindo o preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal Federal, tem entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta. Precedentes.
+2. A decisão recorrida está de acordo com entendimento jurisprudencial desta Corte Superior, uma vez que não é possível concluir pelo excesso de prazo da prisão cautelar, especialmente diante do quantum de pena pelo qual foi condenado (HC n. 507.698/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 26/6/2020).
+3. Agravo regimental improvido.
+(AgRg no HC 592.389/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/09/2020, DJe 25/09/2020)
+Confira-se, também, a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+A propósito, esses foram os fundamentos considerados na origem para afastar a alegação de excesso de prazo e, assim, indeferir a medida liminar pleiteada pela defesa do paciente (e-STJ fls. 300-301):
+Como dito, pelo exame dos documentos acostados aos autos e razões apresentadas pelo impetrante, verifica-se que o paciente está segregado desde 17.03.2020.
+Em sede de plantão, considerando que está preso há aproximadamente seis meses, com os elementos trazidos, não vislumbro flagrante ilegalidade a propiciar o deferimento liminar.
+A gravidade do delito, conforme entendimento consolidado é causa de autorização a prisão preventiva, sendo medida constitucional. É o caso. Tráfico de drogas. Assim necessária a prisão não há falar ematributos pessoais ou aplicação de medidas cautelares diversas. Nesse sentido, não se vislumbra flagrante ilegalidade para deferir-se medida liminar, notadamente em sede de Plantão.
+Ademais, sendo o tráfico de drogas crime hediondo e para evitar a reiteração delitiva, própria da natureza do delito, e para garantia da ordem pública é constitucional a prisão preventiva, não havendo falar também em questões de antecipação de pena.
+No que toca a eventual excesso de prazo, a análise não se faz de forma aritmética podendo ser compensado durante a fase processual, não sendo tais prazos absolutos, devendo-se observar o princípio da razoável duração do processo, de acordo com complexidade da causa e outros fatores que interferem no devido andamento processual.
+A decisão apresenta-se adequada, em princípio, ao entendimentodesta Corte Superiorde que "o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais" (AgRg no RHC 137.237/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
