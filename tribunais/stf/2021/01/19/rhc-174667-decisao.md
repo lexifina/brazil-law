@@ -1,0 +1,25 @@
+Recurso ordinário em habeas corpus. Execução penal. Comutação de pena. Decreto 9.246/2017. Resgate da pena no regime semiaberto. Requisito objetivo não cumprido. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de recurso ordinário em habeas corpus interposto pela Defensoria Pública do Estado de Mato Grosso do Sul em favor de Ezequiel Dias dos Santos, contra acórdão da Sexta Turma do Superior Tribunal de Justiça, da lavra do Ministro Nefi Cordeiro, que negou provimento ao agravo regimental no HC 491.923/MS.
+    O Juízo da execução penal da 2ª Vara da Comarca de Campo Grande/MS concedeu ao Recorrente o benefício da comutação de pena prevista no art. 7º, inciso I, ‘b’, do Decreto Presidencial 9.246/2017. Em sede de agravo em execução, o benefício foi revogado pela Corte local.
+    Extraio do acórdão recorrido:
+    ‘AGRAVO REGIMENTAL NO HABEAS CORPUS. DECRETO PRESIDENCIAL 9.246/2017. NÃO PREENCHIMENTO DE REQUISITO OBJETIVO DA NORMA. IMPOSSIBILIDADE DE COMUTAÇÃO DE PENAS. INTERPRETAÇÃO EXTENSIVA DAS REGRAS. INCURSÃO INDEVIDA EM COMPETÊNCIA EXCLUSIVA DO PRESIDENTE DA REPÚBLICA. REGIMENTAL IMPROVIDO. 1. Não cumprido requisito objetivo do decreto presidencial, não se tem direito à comutação de pena, nos termos da determinação expressa contida no texto legal. Precedentes.
+     2. A interpretação extensiva das restrições contidas no decreto concessivo de comutação de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, não preenchidos os requisitos estabelecidos na norma legal para a concessão do indulto ou da comutação, o benefício deve ser indeferido, sob pena de ofensa ao princípio da legalidade. Precedentes. 3. Agravo regimental improvido’.
+    A Defesa alega, em síntese, que o recorrente faz jus à comutação de pena. Argumenta que o Decreto 9.246/2017 não veda a concessão do benefício para os custodiados que resgatam pena no regime fechado ou semiaberto (caso do Recorrente). Requer o restabelecimento da decisão de primeiro grau para conceder ‘a comutação da pena prevista no artigo 7º, inciso I, alínea “b”, do Decreto 9.246/2017, por preencher o Recorrente todos os requisitos legais’.
+    O Ministério Público Federal, em parecer da lavra do Subprocurador-Geral da República Edson Oliveira de Almeida, opina pelo não provimento do recurso (evento 4).
+    É o relatório.
+    Decido.
+    O Superior Tribunal de Justiça ratificou o entendimento do Tribunal local pelo não preenchimento do requisito objetivo para a comutação de pena, à compreensão de que ‘o fato de o paciente não estar cumprindo a pena em regime aberto ou estar na fruição do livramento condicional inviabiliza a pretensão defensiva, por se confrontar com o regramento válido previsto no Decreto Presidencial 9.246/2017, que, taxativamente, em seu art. 8º, determina que “Os requisitos para a concessão do indulto natalino e da comutação de pena de que trata este Decreto são aplicáveis à pessoa que: [...] II - esteja cumprindo a pena em regime aberto; [...] ou IV - esteja em livramento condicional’”.  Concluiu não existir constrangimento ilegal na hipótese, ‘uma vez que não cumprido o requisito objetivo, não tem o paciente direito à comutação de pena, nos termos da determinação expressa contida no próprio texto legal.’ (original sem destaques).
+    A solução do acórdão recorrido não se apresenta flagrantemente ilegal, porquanto o Decreto 9.246/2017 não contempla, entre os beneficiários com o indulto ou comutação de penas, os custodiados que resgatam pena em regime fechado ou semiaberto, como é o caso do Recorrente.
+    Art. 8º : Os requisitos para a concessão do indulto natalino e da comutação de pena de que trata este Decreto são aplicáveis à pessoa que:
+    I - teve a pena privativa de liberdade substituída por restritiva de direitos;
+    II - esteja cumprindo a pena em regime aberto;
+    III - tenha sido beneficiada com a suspensão condicional do processo; ou
+    IV - esteja em livramento condicional. (Grifo nosso).
+    A solução do acórdão recorrido também não diverge dos precedentes desta Suprema Corte, para os quais não cabe a concessão da comutação de penas com base em requisitos não previstos no Decreto 9.246/2017, cuja competência é privativa do Chefe do Poder Executivo Federal (RHC 172.124, Rel. Min. Roberto Barroso). Na mesma linha, ‘[s]e o apenado não estava em regime aberto ou livramento condicional à época da vigência do Decreto Presidencial em comento, inviável que a benesse ali disposta seja a ele estendida, por manifesta ausência de preenchimento de requisito objetivo’ (RHC 175.514, Rel. Min. Edson Fachin).
+    Portanto, estando o Recorrente, na época da publicação do Decreto Presidencial 9.246/17, resgatando pena no regime semiaberto, resulta inaplicável o benefício da comutação de penas, à falta de cumprimento do requisito objetivo.
+    Ante o exposto, nego seguimento ao presente recurso ordinário em habeas corpus (art. 21, § 1º, e 192 do RISTF).
+    Publique-se.
+    Brasília, 19 de janeiro de 2021.
+Ministra Rosa Weber
+Relatora
