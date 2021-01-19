@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de BRUNA DIAS DA SILVAe RAFAEL CAETANO SACRAMENTOem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL(5005260-31.2021.8.21.7000/RS).
+Ospacientes foram presos no dia 12 de janeiro de 2020pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2003.
+Sustenta o impetrante que a paciente "BRUNA DIAS DA SILVA é mãe de três (03) crianças menores de idade, sendo uma delas de nome WESLEY GABRIEL DA SILVA RIBEIRO, de seis (06) anos de idade, conforme comprova com a juntada da cópia da CERTIDÃO DE NASCIMENTO, ANEXA" (fl. 5).
+Alega que, em razão disso, "A ACUSADA BRUNA FAZ JUS ÀLIBERDADE PROVISÓRIA, CONSOANTE HABEAS CORPUS N.º 143.641/STF, ALÉM DO ART. 318, INCISOS III e V, ALIADO A ALTERAÇÃO DO ART. 318, COM A INCLUSÃO DO ART. 318-A, INCISO I e II, TODOS DO CPP, ALTERADO PELA LEI N.º 13.769, DATADA DE 19/12/2018" (fl. 6).
+Aduz que a prisão é ilegal porque não havia mandado de busca e apreensão decretado por juiz de direito e que foi ferida a inviolabilidade de domicílio pelos policiais, devendo, portanto, ser reconhecidaa nulidade apontada, "desconsiderando-se o flagrante e a prova ilegalmente obtida conforme o art. 5º, inciso LVI, da CF/88, bem o art. 157do Código de Processo Penal" (fl. 26).
+Requer a revogação das prisões preventivas, com deferimento de prisão domiciliar para a paciente, impondo medidas cautelares. Subsidiariamente, requer a liberdade provisória em razão da nulidade porfalta de decreto de mandado de busca e apreensão(fl.28).
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto, conforme consignado pelo Tribunal de origem (fl.32):
+Sobre a necessidade da prisão domiciliar, diante da existência de filhos menores, reforço que a paciente supostamente é integrante de grupo criminoso atuante no comércio ilegal de entorpecentes. Reforço que o fato de a paciente possuir filhos menores de 12 anos - por si só - não autoriza a concessão de prisão domiciliar, eis que subsiste a necessidade da prisão preventiva.
+Frisa-se que, a princípio, a paciente traficava em sua própria casa, local onde reside com os filhos, juntamente com o corréu. Ou seja, a concessão de prisão domiciliar ou de medidas cautelares menos gravosas, ao que parece, não só permitiria o prosseguimento das atividades criminosas pela paciente, mas também colidiria com os interesses dos menores, expondo-os a ambiente degradante onde ocorrem as práticas delitivas. Registre-se, por fim, que a inclusão do artigo 318 pela Lei nº13.769/18, respalda situação excepcionalíssima e não a concessão de liberdade de maneira indiscriminada.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
