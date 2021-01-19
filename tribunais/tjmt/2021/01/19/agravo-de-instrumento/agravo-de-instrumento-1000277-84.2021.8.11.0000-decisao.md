@@ -1,0 +1,26 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO – AGRAVO DE INSTRUMENTO N. 1000277-84.2020.8.11.0000 –– COMARCA DE CAMPO NOVO DOS PARECIS
+Agravante: Cooperativa de Crédito de Livre Admissão do Sudoeste de Mato Grosso – Sicredi Sudoeste/MT
+Agravados: Estado de Mato Grosso e Aparecido de Lira Ramos
+Trata-se de agravo de instrumento, com pedido de antecipação da tutela recursal, interposto pela Cooperativa de Crédito de Livre Admissão do Sudoeste de Mato Grosso – Sicredi Sudoeste/MT, com fundamento no art. 1.015, inciso I, do CPC, em face da decisão proferida pelo juízo da 1a Vara Cível da Comarca de Campo Novo dos Parecis/MT, que indeferiu o pedido por tutela de urgência formulado pela agravante, com vistas ao cancelamento da restrição sobre o veículo placa OBA 4582, Chassi 9BM958453CB88137, Renavam 00497756706.
+Relata a agravante que opôs embargos de terceiro em primeiro grau (autos n. 1003856-21.2020.8.11.0050) em razão da efetivação de restrição, por meio do sistema RENAJUD, sobre o referido veículo, com bloqueio de transferência, em decorrência de decisão prolatada na execução fiscal n. 2718-17.2012.8.11.0050, em trâmite na 2a Vara Cível de Campo Novo dos Parecis/MT.
+Informa que, em 16/12/2012, o veículo em questão foi oferecido como garantia, em alienação fiduciária, na Cédula de Crédito Bancário firmada por Aparecido de Lira Ramos, quem, ao deixar de honrar com suas obrigações contratuais, entregou “amigavelmente” (sic) o automóvel que garantia o contrato em 27/11/2018.
+Narra que, nesse ínterim, o Estado de Mato Grosso ajuizou ação de execução fiscal em desfavor de Aparecido de Lira Ramos e, para garantir a execução, foi determinada e realizada a penhora sobre o referido automóvel em 13/12/2020, vindo a agravante a opor embargos de terceiro, pleiteando liminarmente o cancelamento das restrições lançadas via RENAJUD.
+Esclarece que o juízo a quo indeferiu o pedido por tutela de urgência sob o argumento de que estariam ausentes os requisitos necessários para manutenção da posse, menoscabando, porém, o quanto disposto no parágrafo único do art. 678 do CPC, de onde se depreende que não seria imprescindível a apresentação de caução antecipadamente, mas apenas se e quando eventual decisão condicionasse a ordem de manutenção da posse a tanto.
+Realça, ainda, que, em embargos de terceiro, é possível antecipar a tutela jurisdicional quando demonstrada a plausibilidade da posse/propriedade do bem, pelo que não há falar em indeferimento do pedido de cancelamento da restrição sobre o bem por se tratar de pleito de caráter satisfativo.
+Argumenta que a decisão combatida merece reforma, seja porque se comprovou que detinha a propriedade fiduciária do veículo desde a celebração da Cédula de Crédito Bancário, o que se consolidou quando o devedor entregou o bem em dação em pagamento no acordo realizado nos autos de busca e apreensão (n. 14461-96.2018.8.11.0055, Tangará da Serra), seja porque a restrição sobre o veículo impede a satisfação da referida dívida, ficando impedida de exercer plenamente o seu direito de posse, de transferência da propriedade do veículo ou de venda a terceiro.
+Requer, pois, seja concedida a antecipação da tutela, com o cancelamento da restrição realizada sobre o veículo placa OBA-4582, Chassi 9BM958453CB88137, Renavam 00497756706. Ao fim, pretende o conhecimento e provimento do recurso, confirmando-se a decisão liminar.
+É o relatório.
+Decido.
+Preenchidos os pressupostos de admissibilidade recursal, conheço do vertente agravo de instrumento.
+Após breve análise do caderno processual, observa-se que o pedido de antecipação da tutela recursal não merece acolhimento, porquanto não se verifica, em cognição sumária, a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação, nos termos dos artigos 300 e 1.019, I, do Código de Processo Civil.
+Infere-se que o Extrato de Veículo de Placa OBA 4582, emitido em 15/12/2020, apresenta, em seu histórico de impedimentos, não só o aludido bloqueio de transferência de propriedade efetivado em razão da decisão proferida na execução fiscal n. 2718-17.2012.8.11.0050, mas também outra restrição ativa, via RENAJUD, advinda dos autos n. 31209-43.2017.8.11.0055, realizada em 07/09/2018, data essa anterior ao mencionado acordo de entrega do bem pelo devedor à agravante, de sorte que, a princípio, não se depreende, de forma inequívoca, a probabilidade do direito invocado.
+Ademais, a agravante não logrou demonstrar efetivamente o perigo de dano irreparável ou de difícil reparação, limitando-se a suscitar, no ponto, argumentos genéricos, inaptos ao fim pretendido.
+Desse modo, reputo prudente e necessário oportunizar aos agravados o contraditório para, assim, formar juízo de valor mais seguro a respeito da pretensão veiculada.
+Ante o exposto, indefiro o pedido liminar.
+Comunique-se o juízo de primeiro grau.
+Intime-se o agravado para apresentar contrarrazões, facultando-lhe a juntada da documentação que entender necessária para o julgamento do recurso.
+À Procuradoria-Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Cuiabá, 18 de janeiro de 2021.
+Alexandre Elias Filho
+Relator Convocado
