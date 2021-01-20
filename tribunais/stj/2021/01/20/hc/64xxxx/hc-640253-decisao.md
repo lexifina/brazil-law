@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de EDSON RODRIGUES ROSA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5012467-65.2021.8.09.0000).
+O paciente cumpre pena de 15 anos e3 meses de reclusão em regime fechado.
+O impetrante sustentaque o paciente deve ser colocado em prisão domiciliar, uma vez que integraria o grupo de risco por ser "portador de hipertensão, ansiedade, insônia, se queixando de forte dores e supostamente está com câncer de próstata" (e-STJ fl. 4)
+Alega a necessidade de realização de procedimento de biopsia para confirmar o diagnósticode câncer de próstata, aduzindo que o paciente tem plano de saúde e poderia realizar o exame com maior agilidade.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja deferida a prisão domiciliar "ainda que provisoriamente, possibilitando assim a imediata realização de todos os exames necessários, instruindo o habeas corpus do TJGO originário (nº 5012467-65.2021.8.09.0000) com os resultados, para ao final, quando do julgamento do mérito, seja possível avaliar com definitividade o estado de saúde do paciente" (e-STJ fl. 12)
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE QUASE 3kg DE MACONHA. WRIT IMPETRADO CONTRA DECISÃO QUE
+INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi decretada em razão da periculosidade social do agravante, evidenciada a partir das circunstâncias concretas colhidas do flagrante, notadamente pela apreensão de expressiva quantidade de droga - quase 3kg de maconha.Precedentes. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.(AgRg no HC 629.203/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto a decisão foi fundamentada.
+No ponto, colhe-se da decisão combatida (e-STJ fl. 67):
+ ..
+Do exame dos autos, verifica-se a necessidade de contato com as informações a ser prestadas pela autoridade nominada coatora para que se possa analisar as alegações deduzidas, até porque, partindo de um juízo de cognição superficial, infere-se que o magistrado indeferiu a substituição da medida extrema pela prisão domiciliar por não preencher os requisitos elencados no artigo 117, inciso II, da Lei de Execução Penal, frisando que a possibilidade de doença grave não basta para a concessão da medida, até mesmo porque inexiste relatório médico conclusivo sobre a biópsia determinada.
+Nesse ponto, destaca-se que o relatório elaborado pelo médico da unidade prisional, no dia 05 de dezembro de 2020, atestou que a biópsia poderia ser marcada pelos familiares do paciente em comum acordo com a administração da unidade prisional, contudo, deveria ser apresentado laudo do médico especialista sobre o preparo a ser seguido e o local de realização, se dentro ou fora da unidade, o que não foi seguido.
+Além disso, o paciente foi encaminhado, em caráter de urgência, para avaliação com urologista, na clínica de especialidades do município, sendo ressaltada a possibilidade de agendamento com médico particular, conforme o protocolo determinado pelo CIS, o que também não foi feito.
+Assim sendo, a liminar em sede de habeas corpus justifica-se quando existe flagrante ilegalidade, sendo por isso medida extraordinária, cujo caráter de providência cautelar exige a análise rigorosa e cumulativa acerca dos elementos autorizadores da sua concessão, por isso, como anteriormente citado, faz-se necessária a coleta de informes do juízo a quo como forma de assegurar a eficácia do direito a ser proferido no julgamento definitivo do remédio constitucional invocado.
+Nesse trilhar, no presente caso, não se demonstram, de forma cristalina, os pressupostos legais para a concessão do pleito, eis que ausentes, cumulativamente, o periculum in mora e o fumus boni iuris.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
