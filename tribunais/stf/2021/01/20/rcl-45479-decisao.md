@@ -1,0 +1,44 @@
+DECISÃO
+    Trata-se de Reclamação, com pedido liminar, proposta contra ato do Juiz de Direito da 2ª Vara de Crimes Dolosos Contra a Vida e Tribunal do Júri da Comarca de Goiânia, do Tribunal de Justiça do Estado de Goiás (processo n. 5650378-40.2020.8.09.0051 – representação da prisão temporária n. 5633758.50), que teria violado o disposto na Súmula Vinculante n. 14.
+    Na inicial, a defesa alega que "o reclamante está sendo investigado por uma suposta participação em um homicídio cometido em 07/09/2020, no Jardim Novo Mundo, nesta Comarca. Foi representado pela prisão temporária, posteriormente deferida pelo reclamado. O mandado foi cumprido em desfavor do reclamante em 16/12/2020, enquanto trabalhava.".
+    Aduz, ainda, que "a defesa pugnou pela revogação da prisão temporária em 18/12/2020, bem como requereu pelo acesso e habilitação nos autos principais. Não obstante, o reclamado negou acesso aos autos principais, em 12/01/2021, argumentando que existiriam diligências a serem cumpridas e que o acesso à defesa prejudicaria o curso das investigações.".
+    Observa que, "em que pese o notável saber jurídico do magistrado, o indeferimento de acesso aos autos é uma nítida violação a Súmula Vinculante 14, desta Corte, bem como ao princípio da ampla defesa.".
+    Afirma que "a defesa somente teve acesso à representação e à decisão que decretou a prisão temporária por meio do delegado, após insistente requerimento. Já foram colhidos inúmeros depoimentos, mas defesa não obteve acesso a nenhum deles. Em razão dessa omissão em franquear o acesso imediato do material probatório já produzido, está ocorrendo a violação das prerrogativas da defesa, bem como a Súmula Vinculante 14.".
+    Por fim, noticia que "a defesa requereu e aguardou vários dias a resposta do juízo, todavia, com o passar do lapso temporal, a única saída foi acionar esta Suprema Corte. O indeferimento do acesso impede que a defesa tenha acesso ao material já produzido viola, de forma cristalina, o direto estampado na súmula supramencionada.".
+    Assim, requer, "a concessão de medida liminar inaudita altera parte, com fundamento no artigo 989, inciso II, do Código de Processo Civil, para determinar o imediato acesso integral aos autos, pelos advogados constituídos pelo reclamante.".
+    No mérito, "seja julgada totalmente procedente a presente Reclamação Constitucional para o fim de reconhecer a violação à Súmula Vinculante nº 14 e, por conseguinte, confirmando-se a liminar acima requerida e acolhendo todos os requerimentos supra.".
+    É o relatório. Decido.
+    A respeito do cabimento da Reclamação para o SUPREMO TRIBUNAL FEDERAL, dispõem o art. 102, I, "l", e o art. 103-A, caput e §3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    [...]
+    §3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I – preservar a competência do tribunal;
+    II – garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    O parâmetro invocado é a Súmula Vinculante n. 14, cujo teor é o seguinte:
+    É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.
+    Importante ressaltar que o precedente paradigma da Súmula Vinculante acima transcrita foi o HC 88.190/RJ (Rel. Min. CEZAR PELUSO, Segunda Turma, DJe de 06/10/2006), assim ementado:
+    ADVOGADO. Investigação sigilosa do Ministério Público Federal. Sigilo inoponível ao patrono do suspeito ou investigado. Intervenção nos autos. Elementos documentados. Acesso amplo. Assistência técnica ao cliente ou constituinte. Prerrogativa profissional garantida. Resguardo da eficácia das investigações em curso ou por fazer. Desnecessidade de constarem dos autos do procedimento investigatório. HC concedido. Inteligência do art. 5°, LXIII, da CF, art. 20 do CPP, art. 7º, XIV, da Lei nº 8.906/94, art. 16 do CPPM, e art. 26 da Lei nº 6.368/76 Precedentes. É direito do advogado, suscetível de ser garantido por habeas corpus, o de, em tutela ou no interesse do cliente envolvido nas investigações, ter acesso amplo aos elementos que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária ou por órgão do Ministério Público, digam respeito ao constituinte.
+    Como se observa, o paradigma tido como violado confere ao defensor do investigado o acesso aos elementos já documentados nos autos.
+    No caso, a própria defesa confirmou que "somente teve acesso à representação e à decisão que decretou a prisão temporária por meio do delegado.".
+    Por outro lado, infere-se que o Juiz de Direito da 2ª Vara de Crimes Dolosos Contra a Vida e Tribunal do Júri da Comarca de Goiânia, do Tribunal de Justiça do Estado de Goiás (processo n. 5650378-40.2020.8.09.0051 – representação da prisão temporária n. 5633758.50), ao decidir sobre o pleito da defesa, afirmou:
+    Vieram os autos conclusos para análise do pedido defensivo realizado na movimentação nº 14, para habilitação dos patronos do investigado PAULO RENATO DOS SANTOS nos autos principais de nº 5633758.50.
+    Nos termos da súmula vinculante nº 14, “é direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa”.
+    Ocorre que o direito do investigado de ter acesso aos autos não compreende diligências sigilosas em andamento e, em análise aos autos principais, estão indisponíveis à defesa justamente por conterem pendências de diligências sigilosas.
+    A súmula vinculante, portanto, não é aplicável ao presente caso, ao menos na presente fase procedimental.
+    Destarte, indefiro o pedido constante na movimentação nº 14, vez que os autos contém pendências de diligências sigilosas que perderão eficácia se tornadas de conhecimento público.
+    Intimem-se.
+    Verifica-se, portanto, a ausência de justificativa para a negativa de acesso do advogado aos documentos já juntados no âmbito do processo n. 5650378-40.2020.8.09.0051 e representação da prisão temporária n. 5633758.50.
+    É direito do defensor, no interesse do representado, ter acesso amplo aos elementos de prova que, já documentados e que não se refiram a diligências em andamento, que possam ser prejudicadas, existentes em procedimento investigatório realizado por órgão com competência de polícia judiciária, digam respeito ao exercício do direito de defesa.
+    Nessas circunstâncias, em que a negativa de acesso integral aos autos não possui justificativa plausível, há aparente ofensa aos termos da Súmula Vinculante n. 14.
+    Diante do exposto, com base no art. 161, parágrafo único, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, JULGO PROCEDENTE o pedido para garantir ao advogado portador de procuração nos autos, no prazo de 24 (vinte e quatro) horas, o acesso aos elementos de prova já documentados e que não se refiram a diligências em andamento, que possam ser prejudicadas, existentes no processo n. 5650378-40.2020.8.09.0051 – representação da prisão temporária n. 5633758.50, em trâmite na 2ª Vara de Crimes Dolosos Contra a Vida e Tribunal do Júri da Comarca de Goiânia, do Tribunal de Justiça do Estado de Goiás.
+    Publique-se. Intime-se.
+    Brasília, 20 de janeiro de 2021.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
