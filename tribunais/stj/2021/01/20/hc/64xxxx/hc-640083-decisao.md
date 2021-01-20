@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor GABRIEL FERNANDES ROMÃO; MIRIAN MEDALHA MOREIRA; CAROLLINE FERNANDES DIAS eMATHEUS DE SANTANA COELHO, em que se aponta como autoridade coatora o Tribunal de Justiça de Minas Gerais (HC n. 1.0000.20.604482-8/000).
+Os pacientes encontram-se presos preventivamente e denunciados pelo suposto cometimento das condutas descritas nos art. 273, §1º, "b", incisos I e V, do Código Penal; no art. 1º, caput e § 4º, da Lei n. 9.613/98 e no art. 22 da Lei n. 12.850/13.
+Alega o impetrante a ocorrência de excesso de prazo para formação da culpa, na medida em que os pacientes estãopresos cautelarmente desde 29.09.2020, sem que a instrução criminal tenha se iniciado. Sustenta que o decreto de prisão não foi revisto em 90 dias. Defende que não existe prova de que os pacientes tivessem conhecimento de que os produtos objetos da investigação seriam irregulares junto à ANVISA.
+Requer, liminarmente e no mérito, a concessão da ordem pra relaxar a prisão dos pacientes.
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A decisão impugnada foi proferida por desembargador. Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, especialmente quando, a exemplo deste caso, não encontra-se patente a alegada ilegalidade, uma vez que da decisão do TJMG (fls. 22-24) se extrai:
+"Verifica-se, d.m.v., que não estão presentes os pressupostos autorizadores da medida liminar requerida, sendo certo que a concessão de tutela urgente, ainda em sede de cognição sumária e singular, exige a demonstração concomitante do fumus boni iuris e do periculum in mora e, no caso concreto, não se evidencia, estreme de dúvidas, a plausibilidade do direito vindicado, o que desautoriza este Relator Plantonista, de forma prematura, a desconstituir o ato impugnado, que não se mostra, prima facie, desarrazoado ou carentede fundamentação, não obstante as razões lançadas pelo impetrante quanto à possibilidade de deferimento do pedido."
+Registre-se que "a competência do STJ para examinar habeas corpus, na forma do art. 105, I, "c", da CF, somente é inaugurada quando a decisão judicial atacada tiver sido proferida por tribunal, o que implica a exigência de exaurimento prévio da instância ordinária, com manifestação do órgão colegiado" (AgRg no HC n. 600.555/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
