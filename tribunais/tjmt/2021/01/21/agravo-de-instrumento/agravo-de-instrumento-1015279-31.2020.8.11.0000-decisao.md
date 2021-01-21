@@ -1,0 +1,12 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1015279-31.2020
+AGRAVANTE: NOVA SINOP EMPREENDIMENTOS E PARTICIPACOES LTDA.
+AGRAVADO: LEANDRO MUSSI.
+Vistos etc.
+Classifique-se os autos para Embargos de Declaração (Id. 69436965).
+Após, intime-se o Embargado LEANDRO MUSSI, para querendo, apresentar contrarrazões.
+Às providências.
+Desembargador DIRCEU DOS SANTOS
+Relator
