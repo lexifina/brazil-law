@@ -1,0 +1,12 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO RECURSO EM SENTIDO ESTRITO N. 1001218-68.2020.8.11.0000
+RECORRENTE: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+RECORRIDO: MARIVALDA SOARES DE SOUZA
+Vistos.
+Devolvam-se os autos ao Juízo de origem para o cumprimento da decisão proferida pelo Superior Tribunal de Justiça (Id 71554984).
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
