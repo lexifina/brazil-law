@@ -1,0 +1,23 @@
+DESPACHO
+RECURSO EXTRAORDINÁRIO. PROCESSUAL PENAL. COMPETÊNCIA. FURTO QUALIFICADO TENTADO E DANO QUALIFICADO. BENS PERTENCENTES AO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS. VISTA À PROCURADORIA-GERAL DA REPÚBLICA.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Distrito Federal e Territórios:
+    “PENAL E PROCESSO PENAL. FURTO QUALIFICADO TENTADO E DANO QUALIFICADO. PRELIMINAR DE INCOMPETÊNCIA ABSOLUTA. NULIDADE. NÃO OCORRÊNCIA. MATERIALIDADE E AUTORIA COMPROVADAS. DOLO CONFIGURADO. SUFICIÊNCIA DE PROVAS. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO APLICAÇÃO. ESTADO DE ENTORPECIMENTO POR SUBSTÂNCIA PSICOTRÓPICA. NÃO EXCLUSÃO DA IMPUTABILIDADE PENAL. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE EM RAZÃO DA PRESENÇA DE MAIS DE UMA QUALIFICADORA. POSSIBILIDADE. MAJORANTE DO REPOUSO NOTURNO E FURTO QUALIFICADO. INCOMPATIBILIDADE. PARCIAL PROVIMENTO.
+    1. O Tribunal de Justiça do Distrito Federal e Territórios, embora organizado e mantido pela União, é órgão da estrutura orgânica do Distrito Federal, não havendo lesão direta a bens, serviços e interesses da União quando um crime é praticado contra o patrimônio do Poder Judiciário Distrital, competindo ao próprio Tribunal de Justiça julgar tais infrações penais. Precedentes do STJ.
+    2. Inviável o pleito absolutório, se a condenação vem lastreada em provas cabais da materialidade, da autoria e do dolo dos crimes de furto qualificado tentado e dano qualificado, produzidas sob o crivo do contraditório e da ampla defesa.
+    3. Inaplicável o princípio da insignificância nos casos de furto, se o crime é qualificado pelo rompimento de obstáculo e pela escalada, o acusado é reincidente, ostentando condenação anterior por delito de roubo, e o crime é cometido em face do patrimônio público.
+    4. A alegação de que o réu teria praticado o crime em estado de inconsciência pelo uso de substância psicotrópica não tem o condão de afastar a condenação, porque a embriaguez voluntária ou culposa não exclui e imputabilidade penal (art. 28, II, CP).
+    5. A jurisprudência se firmou no sentido de que, em caso de existência de duas circunstâncias qualificadoras, uma delas pode ser utilizada para qualificar o delito e a outra para exasperar a pena-base. Precedentes do STJ.
+    6. A causa de aumento prevista no § 1° do artigo 155 do CP não se aplica ao furto qualificado, no qual as penas já são mais severamente agravadas pelo legislador.
+    7. Recurso conhecido e parcialmente provido” (fls. 13-14, e-doc. 7).
+    2. O recorrente alega ter o Tribunal de origem contrariado o inc. XIII do art. 21 e o inc. IV do art. 109 da Constituição da República.
+    Sustenta a competência da Justiça Federal para o julgamento do processo pois “a conduta imputada ao réu afetou bem pertencente ao patrimônio da União” (fl. 24, e-doc. 8).
+    Afirma que “conforme se verifica na sentença proferida pelo juízo de primeiro grau, o mesmo admitiu que o crime de dano foi cometido contra bens do fórum do Itapoã/DF, cuja propriedade é da União” (fl. 24, e-doc. 8).
+    Argumenta que, “uma vez que a denúncia foi oferecida para a 1ª Vara Criminal do Paranoá-DF, verifica-se que o referido juízo não seria competente para processar e julgar o feito, uma vez que o fato teria se dado em detrimento de bens da União, visto ser esta a responsável pela organização e manutenção do Poder Judiciário do Distrito Federal. Não obstante tal constatação, a existência de nulidade por incompetência absoluta, suscitada em sede de apelação, não logrou êxito em ser reconhecida pelo tribunal a quo” (fl. 24, e-doc. 8).
+    Ressalta que “uma vez que as condutas delitivas, em tese cometidas pelo recorrente, se deram em detrimento de patrimônio de órgão judiciário do Distrito Federal, cuja organização e manutenção cabe à União, resta claro o interesse desta em processar e julgar os crimes em tese cometidos. Nesse sentido, não resta dúvida de que, no caso em análise, estaria atraída sobremaneira a competência da Justiça Federal para processar e julgar o feito” (fl. 25, e-doc. 8).
+    Pede a reforma do “v. acórdão recorrido a fim de sanar violação Constitucional em seu artigo 109, inciso IV e art. 21, inciso XIII, ambos da Constituição Federal de 1988, fazendo justiça necessária para que sejam anulados todos os atos processuais contaminados com a violação da competência processual para o julgamento do pleito, determinando-se a remessa dos autos para a Justiça Federal da Seção Judiciária do Distrito Federal” (fl. 25, e-doc. 8).
+    3. Manifeste-se a Procuradoria-Geral da República .
+    Publique-se.
+    Brasília, 21 de janeiro de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
