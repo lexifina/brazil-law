@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de LUCAS SESTER GALVAO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(HC n. 2303289-33.2020.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva em 16/12/2020, em razão da suposta prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/06 por cultivar69 vasos com pés da espécie Cannabis Sativa L em um ambiente com 14 lâmpadas tubulares e 04 placas metálicas.
+O impetrante sustenta "que o Paciente possui histórico de uso prolongado e crônico de maconha, farta documentação de comorbidade crônica, o qual o Paciente alega alívio com o referido uso, - inclusive com relatório médico(e-STJ fl. 4).
+Alega, ainda,nulidadedadecisãoque decretou a prisão preventiva por falta de fundamentação idônea e que não se faz necessária a manutenção de sua prisão preventiva, diante da atual pandemia da Covid-19, uma vez que é pai de criança menor de doze anos e é portador de asma, doença respiratória crônica.
+Requer, liminarmente, a concessão da liberdade provisória, expedindo-se ordem de soltura. No mérito, pugna pela concessão da ordem para que seja confirmado o pleito sumário.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, principalmente diante do exposto na decisão atacada(e-STJ fl. 62):
+Com efeito, aquilatou-se na origem a grande quantidade de plantas de maconha apreendidas não só na residência do paciente, mas também dos corréus, além de insumos, instrumentos e toda uma gama estrutural para o cultivo da droga ilícita, bem assim elevada quantidade de dinheiro, o que não se compatibilizaria, a princípio, com o mero consumo pessoal, mas com organizada produção e beneficiamento de maconha para o comércio.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, ressalte-se que o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o paciente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à Covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, a parte impetrante não demonstrou a flagrante ilegalidade da decisão atacada, principalmente porque o relator na origem expôs o seguinte (e-STJ fl. 62):
+Ademais, nada de contemporâneo foi trazido aos autos no sentido de que o paciente, ainda que integrante de grupo de risco (exames datam de fevereiro de 2013, outubro de 2019 e janeiro de 2020, sem informações atualizadas), esteja especialmente vulnerável ao contágio pelo SARS-CoV-2, valendo aqui ressaltar que a vasta gama de medidas adotadas pela Secretaria de Administração Penitenciária para abrandar os deletério efeitos da pandemia no ambiente intramuros.
+Não se verifica, portanto, em juízo sumário, o desrespeito à Recomendação CNJ n. 62/2020.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
