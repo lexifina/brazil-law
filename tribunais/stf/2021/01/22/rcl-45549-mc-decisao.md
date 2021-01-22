@@ -1,0 +1,29 @@
+Trata-se de reclamação com pedido de liminar proposta pelo Município de Canoas/RS contra decisão proferida pelo Tribunal Superior do Trabalho, nos autos do Processo 0021081-09.2018.5.04.0205, que teria usurpado a competência desta Corte ao negar seguimento ao recurso de revista por ausência de transcendência (documento eletrônico 1).
+    O reclamante aduz que
+    “[a] decisão reclamada apontou que o recurso de revista do Município de Canoas não possui transcendência com relação aos reflexos gerais de natureza econômica, política, social ou jurídica, inobstante versar o recurso sobre padrão decisório de ‘tese’ vinculativa obrigatória firmada em sede de recurso extraordinário repetitivo (RE 760.931), com repercussão geral definida como “tema” 246, e dando interpretação em desconformidade com julgamento proferido em controle concentrado de constitucionalidade (ADC 16)” (pág. 2 da inicial, grifos no original).
+    Argumenta que
+    “[o] exame da causa demonstra que a interpretação conferida pela autoridade reclamada ao art. 896-A da Consolidação das Leis do Trabalho não pode se opor ao que fixado por este Supremo Tribunal em precedente de repercussão geral, compreensão que deve abranger também as decisões proferidas em sede de controle abstrato de constitucionalidade e as súmulas vinculantes. Assim, os temas sobre os quais este Supremo Tribunal tenha se pronunciado, produzindo decisões com eficácia erga omnes e/ou vinculante, dispõem de presumida relevância, não podendo, por isso mesmo, ter seu exame pela via recursal obstado sob alegação de outro órgão jurisdicional de não dispor de transcendência.
+    Na espécie em exame, ao recusar o processamento de recurso de revista sobre a matéria em foco e, com isso, impedir todos os meios de acesso à jurisdição constitucional, a autoridade reclamada usurpou a competência deste Supremo Tribunal, que assentou ter repercussão geral a controvérsia sobre ‘responsabilidade subsidiária da Administração Pública por encargos trabalhistas gerados pelo inadimplemento de empresa prestadora de serviço’ (Tema 246).
+    A usurpação da competência teria o propósito de o reclamado impor a manutenção de decisão em aparente confronto com a orientação jurisprudencial vinculante emanada deste Supremo Tribunal na Ação Declaratória de Constitucionalidade n. 16/DC e ratificada no julgamento da repercussão geral no Recurso Extraordinário n. 760.931.
+    Por fim, ainda que a decisão se tenha como irrecorrível, a irrecorribilidade é de âmbito interno do TST, o que não importa em seu transito em julgado material, posto se tratar de questão de cunho constitucional sujeito a revisão pela autoridade superior na hierarquia da CF.
+    Ademais, impende, por último, registrar que o juízo de transcendência como hoje se está a se perfazer sem fixação de tema por questões que deem ao jurisdicionado uma previsibilidade não subjetiva acaba por ferir o propósito último desse instituto de evitar o assoberbamento dos tribunais com questões de interesse das unicamente das partes e não da coletividade, de forma que conflitos desnecessários decorrentes de uma litigância lotérica prevaleçam” (págs. 15-16 da inicial).
+    Ao final, requer:
+    “[...]
+    b) seja, em sede de liminar, suspensa a tramitação da Reclamatória Trabalhista nº 21081-09.2018.5.04.0205, a fim de evitar dano irreparável ao Município de Canoas, nos termos da fundamentação supra;
+    c) seja, ao final, julgada procedente a presente ação, para garantir a autoridade da decisão proferida nos autos do RE 760931/DF, da Ação Direta de Constitucionalidade nº 16-DF e a aplicação da Súmula Vinculante nº 10 deste C. STF e, como via de consequência, determinar a cassação da decisão guerreada, exorbitante de seu julgamento, ou determinar medida adequada à observância de sua jurisdição, nos termos do art. 161, inciso III do RISTF […]” (pág. 16 da inicial).
+    É o relatório. Decido.
+    Bem examinados os autos, observo que não assiste razão ao reclamante quanto ao pedido liminar.
+    Em um exame perfunctório, próprio dessa fase processual, verifico que o Tribunal trabalhista reconheceu a ausência de transcendência da questão, uma vez que o acórdão não contraria a tese fixada por este Supremo Tribunal.
+    É o que se percebe da decisão reclamada:
+    “[...] a instância recorrida não desrespeita jurisprudência sumulada do TST ou do STF, logo, não demonstra ter transcendência política a matéria recorrida.
+    Não se observa transcendência social quando o recurso de revista é interposto por reclamada ou quando o recurso de revista interposto pelo reclamante não versa sobre direito social constitucionalmente assegurado.
+    Por fim, cumpre destacar que o debate da matéria impugnada no recurso de revista não é novo na seara trabalhista, de forma que inexiste questão nova a ser enfrentada pela Justiça do Trabalho. Nesse contexto, inviável cogitar de transcendência jurídica no recurso de revista.
+    Ante o exposto, diante da ausência de transcendência da matéria impugnada no recurso de revista interposto pela parte agravante, nos termos dos arts. 896-A, § 5º, da CLT e 118, X, do Regimento Interno do Tribunal Superior do Trabalho, NEGO SEGUIMENTO ao agravo de instrumento” (pág. 172 do documento eletrônico 3, grifei).
+    Assim, não constato a presença de periculum in mora e a plausibilidade jurídica suficientes para justificar a concessão da liminar requerida.
+    Isso posto, indefiro a liminar, sem prejuízo de ulterior exame da questão no julgamento de mérito desta reclamação constitucional.
+    Requisitem-se informações à autoridade reclamada (art. 989, I, do CPC/2015).
+    Cite-se a beneficiária do ato impugnado para, querendo, apresentar contestação, nos termos do art. 989, III, do CPC/2015.
+    Publique-se.
+    Brasília, 22 de janeiro de 2021.
+Ministro Ricardo Lewandowski
+Relator
