@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de GUSTAVO STEFER CABRAL em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo em execuçãon. 0000966-65.2020.8.24.0018).
+O paciente cumpre pena de 6anos e 8 meses de reclusão, emregime semiaberto, pela prática do delito preceituado no art. 157,§ 2º, I e II, do Código Penal.
+A impetrante insurge-se contra o indeferimento do pedido de saída temporária.
+Afirma que o reeducando preenche os requisitos objetivo e subjetivo necessários à concessão do benefício.
+Acrescenta que a existência de faltas graves anteriores não possui o condão de obstar o deferimento do pedido, tendo em vista a proibição, pelo direito pátrio, de sanções de caráter perpétuo e da dupla valoração de gravames punitivos.
+Requer, liminarmente e no mérito, a cassação da decisão proferida pela autoridade coatora, para que seja deferido o benefício de saída temporária ao paciente.
+É, no essencial, o relatório. Decido.
+Em juízo de cognição sumária, verifica-se que inexiste flagrante ilegalidade que justifique o deferimento do pleito liminar em regime de plantão, pois o acórdão atacado, ao confirmar o indeferimento do pedido de saída temporária, assim se pronunciou (e-STJ fl. 43):
+De início, cumpre registrar, quanto ao tema, que o art. 123 da Lei de Execução Penal prescreve que "A autorização será concedida por ato motivado do Juiz da execução, ouvidos o Ministério Público e a administração penitenciária e dependerá da satisfação dos seguintes requisitos: I - comportamento adequado; II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário, e 1/4 (um quarto), se reincidente; III - compatibilidade do benefício com os objetivos da pena".
+In casu, a questão se refere ao requisito de cunho subjetivo previsto pelo art. 123 da Lei de Execução Penal, ou seja, relativo ao comportamento carcerário ostentado pelo reeducando, se satisfatório para viabilizar a concessão do benefício em tela.
+É bem verdade que a conduta do apenado precisa ser minimamente testada e que é necessário certo período de tempo em cárcere para que se avalie o seu comportamento e suas ações no interior do ergástulo, a fim de demonstrar o reeducando, após a prática de falta grave ou de eventual descumprimento de condições impostas pelo juízo, comprometimento e senso de responsabilidade.
+Nesse sentido, verifica-se que, muito embora a última falta grave do reeducando tenha sido praticada há pouco mais de 02 (dois) anos da decisão atacada - circunstância, inclusive, que já foi objeto de penalização -, bem como que o Atestado de Comportamento Carcerário emitido em 10/09/2020 confirmou que o reeducando vem mantendo um bom comportamento carcerário (fl. 323 do Evento 256 dos autos da execução penal), tais condições são insuficientes para o preenchimento do requisito subjetivo.
+Isso porque " ..  mesmo no caso de comportamento bom, que não é mais do que a obrigação dos apenados, o magistrado de primeiro grau não deve deixar de levar em consideração o contexto de vida carcerária do preso, sob pena de agir de maneira irresponsável" (TJSC - Agravo de Execução Penal n. 0004124-59.2019.8.24.0020, de Criciúma, Primeira Câmara Criminal, Rela. Desa. Hildemar Meneguzzi de Carvalho, j. em 15/08/2019).
+Entendo, assim, que a natureza dos atos de indisciplina perpetrados pelo apenado - cometimento de um novo delito e fuga, diga-se de passagem, por intermédio da escavação de túnel sob o estabelecimento prisional -, denotam contornos de especial censurabilidade.
+Deve-se considerar, ainda, que, na oportunidade em que esteve em liberdade, infringiu normas legais com o cometimento do novo delito.
+Além disso, observa-se que consta no relatório do apenado que, desde o início deste ano, incidiu em quatro faltas médias no interior do ergástulo, refletindo a falta de seu comprometimento para com a ressocialização (fl. 322 do Evento 256 dos autos da execução penal).
+Desse modo, reitera-se que o requisito subjetivo exigido deve ser apreciado de forma abrangente, não fazendo jus ao benefício aquele que ostenta histórico carcerário ruim.
+Considerando, desse modo,que o pedido se confunde com o próprio mérito da impetração, deve-se reservar ao órgão competente a análise mais aprofundada da matéria por ocasião do julgamento definitivo.
+Ante o exposto, indefiro o pedido de liminar.
+Solicitem-se informações ao Tribunal de origem, que deverão ser prestadas preferencialmente por malote digital e com senha de acesso para consulta ao processo.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
