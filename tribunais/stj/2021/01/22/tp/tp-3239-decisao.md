@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de pedido de tutela provisória apresentado pelo MUNICÍPIO DE PRAIA GRANDE no qual se busca a atribuição de efeito suspensivo ao agravo emrecurso especial interposto contra acórdão proferido nos autos de mandado de segurança julgado pelo Tribunal de Justiça do Estado de São Paulo, com a seguinte ementa:
+MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - Guarda Civil Municipal - PM de Praia Grande - Reprovação no teste de aptidão física - Alegação de que realizou 33 repetições de exercícios abdominais, mas o avaliador contou apenas 31 destas, alegando que este não estava executando da forma correta, sendo considerado inapto - Liminar concedida para realização de novo teste - Confirmada a liminar em definitivo, com o prosseguimento do candidato no concurso - Realização do teste de aptidão em 01.04.2019, com o prosseguimento do candidato nas demais fases - Ausência de qualquer utilidade no presente recurso - Teoria do fato consumado - Recurso prejudicado - Perda superveniente do objeto da ação.
+Reexame necessário não conhecido.
+O julgado impugnado, a favor do ora requerido,"concedeu a segurança para reconhecer o direito líquido e certo do impetrante em refazer o teste físico (que havia sido reprovado) e prosseguir nas demais fases do concurso público de guarda civil municipal" (fl. 3).
+Sustenta o requerente que "ao deixar de analisar o mérito da questão, o Tribunal incorreu em claro descumprimento ao que determina o procedimento previsto no art. 14, § 1º Lei do Mandado de Segurança (L. 12.016/09)" (fl. 5).
+Aduz que "a tutela cautelar de urgência se justifica em razão de que recentemente o impetrante ingressou com o cumprimento provisório de sentença para participar das demais fases do concurso" (fl. 6).
+Alega que "haverá alto custo ao erário municipal em proceder com a formação de guarda a um candidato apenas, uma vez que exige a contratação de empresa que preste serviço de teste psicotécnico" (fl. 6).
+Requer a atribuição de efeito suspensivo ao agravo interposto contra a inadmissão do recurso especial.
+É o relatório. Decido.
+De acordo com o que prevê o art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo. Ou seja, o deferimento do pedido de tutela provisória de urgência exige a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido; e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na espécie, não está evidenciado o perigo na demora, ou seja, que haja risco de inutilidade do processo, caso se aguarde o processamento do agravo interposto na origem.
+É certo que o argumento de que será alto o custo para a municipalidade, se tiver que cumprir eventual decisão da sentença, não preenche o pressuposto do periculum in mora.
+Ante o exposto, indefiro o pedido de tutela provisória.
+Publique-se. Intimem-se.
