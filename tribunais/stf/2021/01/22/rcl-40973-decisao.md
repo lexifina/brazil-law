@@ -1,0 +1,21 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Eduardo Lasmar Prado Lopes prestou as seguintes informações:
+    O Município de Caraguatatuba afirma haver a Oitava Turma do Tribunal Superior do Trabalho, no agravo de instrumento em recurso de revista nº 0010426- 78.2016.5.15.0063, usurpado a competência do Supremo e olvidado o decidido, sob a sistemática da repercussão geral, no recurso extraordinário nº 760.931 – Tema nº 246 –, e na ação declaratória de constitucionalidade nº 16.
+    Narra estar em debate, no recurso de revista, a responsabilidade subsidiária da Administração Pública observados encargos trabalhistas devidos a empregado de prestadora de serviços. Ante a atribuição, ao Poder Público, de obrigação subsidiária, menciona a formalização de recurso de revista, inadmitido em virtude da ausência de transcendência da questão. Ressalta interposto agravo.
+    Sustenta inobservada a competência deste Tribunal uma vez assentada a falta de transcendência de matéria em relação à qual o Supremo admitiu configurada a repercussão maior. Salienta fixada tese, no recurso extraordinário nº 760.931, a revelar que o inadimplemento de encargos trabalhistas dos empregados do contratado não implica transferência automática de responsabilidade ao Poder Público contratante, em caráter solidário ou subsidiário. Aponta que o cabimento do recurso prescinde de prequestionamento.
+    Requer, no campo precário e efêmero, a suspensão do ato reclamado. Busca a cassação.
+    2. O exame da parte final do artigo 988, § 5º, inciso II, do Código de Processo Civil sinaliza estar o cabimento da reclamação, objetivando ver reconhecida erronia quanto ao regime da repercussão geral, condicionado ao esgotamento das instâncias ordinárias, o que somente ocorre quando julgado agravo protocolado em face de inadmissão de extraordinário. A medida se presta a aferir a adequação do juízo de admissibilidade do recurso interposto. O requisito não foi observado no caso concreto. A irresignação está direcionada contra pronunciamento surgido da inadmissão de recurso de revista. Consulta ao sítio do Tribunal Superior do Trabalho revela haver sido interposto agravo interno.
+    Da leitura da decisão atacada verifica-se que o insucesso do recurso de revista decorreu de vício formal, consubstanciado na falta de destaque da parte do acórdão a evidenciar o prequestionamento. Confiram trecho:
+    [...]
+    Todavia, impende ressaltar que, interposto o recurso de revista sob a égide da Lei nº 13.015/2014, a parte recorrente, sob pena de não conhecimento do apelo, deve indicar precisamente o trecho do acórdão regional que consubstancia o prequestionamento da controvérsia, devendo, ainda, impugnar todos os fundamentos jurídicos do julgado, “(...) inclusive mediante demonstração analítica de cada dispositivo de lei, da Constituição Federal, de súmula ou orientação jurisprudencial cuja contrariedade aponte”, conforme determina o artigo 896, § 1º-A, I e III, da CLT.
+    No caso dos autos, porém, o segundo reclamado, no referido apelo, não atendeu regularmente às disposições em comento, pois transcreveu, no início das razões recursais, diversos trechos do acórdão, sequencialmente, não reproduzindo, nos tópicos próprios, os trechos correspondentes a cada qual e não realizando, ponto a ponto, o necessário cotejo analítico.
+    A propósito, havendo pluralidade de matérias debatidas no recurso de revista, não cabe ao julgador pinçar das razões recursais os trechos extraídos do acórdão regional e cotejá-los com os diversos fundamentos trazidos no apelo. Tal ônus incumbe à parte, como expressamente previsto nas supracitadas disposições consolidadas.
+    Ante a inobservância dos requisitos formais, resta inviabilizado o exame das controvérsias, não havendo como reconhecer a transcendência da causa.
+    […]
+    Não há identidade material considerados o pronunciamento questionado e os formalizados no recurso extraordinário nº 760.931 e na ação declaratória de constitucionalidade nº 16. Inexiste, no primeiro, discussão quanto à imposição, ao Poder Público, de responsabilidade subsidiária por verbas trabalhistas em virtude do inadimplemento de empresa prestadora de serviços.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 22 de janeiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
