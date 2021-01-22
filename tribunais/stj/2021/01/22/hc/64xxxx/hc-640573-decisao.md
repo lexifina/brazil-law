@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de CARLOS ALBERTO SANTOS NOVAES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA (HC n. 8035889-63.2020.8.05.0000).
+Opacientefoi presopreventivamente pela suposta prática dos delitos previstos nos arts. 33, caput, da Lei n. 11.343/06,12 e16,caput, ambos da Lei n.10.826/03, na forma do art. 69do Código Penal.
+A impetrantesustentaque o decreto constritivo careceria de fundamentação idônea,mormente porque os predicados pessoais do apenado permitiriam que respondesse ao processo em liberdade.
+Ressalta que se faz necessária, a cada 90 dias, a verificação da permanência dos elementos autorizadores da segregação cautelar, procedimento que não teria sido realizado no caso em testilha, violando o disposto no art. 316 do Código de Processo Penal.
+Alega que o acusado encontra-se custodiado há mais de 07 meses, o que tornaria a prisão ilegal por excesso de prazo.
+Argumenta, a excepcionalidade da medida extrema, enfatizando que a prisãopreventiva poderia ser substituída por cautelares descritas no art. 319 do CPP,notadamente diante da pandemia de coronavírus, consoante o disposto na Recomendaçãon. 62/2020 e na Resolução n.313/2020, ambas do CNJ.
+Destaca, por fim, a possibilidade, em caso de condenação, da fixação de regime inicial diverso do fechado, evidenciando a desproporcionalidade da prisão cautelar.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva, expedindo-se alvará de soltura emfavor do paciente. Subsidiariamente, pugna pelaliberdade provisória, mediante aplicação de medidas cautelares diversas da prisão, ou pela prisão domiciliar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19. GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido.
+(AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto, ao decretar a prisão preventiva do paciente, o magistrado singular consignou que (fls. 103-104):
+A prisão preventiva, denatureza cautelar, é medida excepcional, e pode ser decretada Magistrado em qualquer fase do inquérito policial ou da instrução criminal, desde que se entenda pelanecessidade da custódia, o que se afere através da presença dos pressupostos consignados nos arts. 312 e do Código de Processo Penal.Examinando-se os presentes autos, verifica-se a existência de indícios acerca da autoria e prova da materialidade dos citados crimes, portanto, estão presentes os pressupostos autorizadores dodecreto preventivo.
+ ..
+Outrossim, muito embora a certidão de pg. 21 não nos informe a existência de anotações penais em desfavor do Autuado, é certo que as circunstâncias em que se deu a sua prisão, detido na posse substâncias ilícitas, além de portar uma arma de fogo sendo uma submetralhadora de fabricação artesanale mais diversas munições, bem como outros materiais utilizados nesta prática ilícita do tráfico de drogas, reforçam nossa convicção quanto à necessidade de manutenção da sua custódia, sendo certo que as medidas cautelares alternativas à prisão não se revelam suficientes para conter sua conduta criminosa.
+Como forma de evitar a reiteração de atos desta natureza pelo Flagranteado, portanto, afigura-se pertinente a permanência da segregação, com espeque na garantia da ordem pública e da aplicação da lei Penal, não se revelando, neste momento, seja indicada a sua soltura.
+Por fim, a despeito do atual estado de pandemia relacionado ao novo coronavirus, entendemosque são graves os fatos noticiados, sendo certo que o Flagranteado desprezou essa condição excepcional em que se encontra a sociedade ao resolver praticar crime, e, inclusive, violar a recomendação de isolamento,não podendo tal circunstância, isoladamente considerada, implicar na concessão de liberdade ao mesmo.
+Diante do exposto, homologando o flagrante lavrado pela Autoridade Policial, acolho o opinativo ministerial e converto a prisão em flagrante de CARLOS ALBERTO SANTOS NOVAES, qualificado nos autos em prisão preventiva, diante da necessidade da garantia da ordem pública.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
