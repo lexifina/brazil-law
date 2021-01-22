@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de GILBERTO ALVES DE OLIVEIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2292739-76.2020.8.26.0000).
+O paciente foi preso preventivamente em decorrência das investigações que culminaram na Operação Fast Track, na qual se apura a prática do crime de organização criminosa por membros do Primeiro Comando da Capital - PCC, que teriam estruturado um núcleo destinado à administração de imóveis reservadosàabrigar familiares de integrantes da facção.
+Os impetrantes sustentam que o acusado não se enquadraria em quaisquer das células investigadas pelo Ministério Público, inexistindo indícios mínimos de que teria praticado os crimes de lavagem de dinheiro e de falsidade documental.
+Aduzemque teria atuado exclusivamente na qualidade de advogado militante, não tendo praticado crimes.
+Alegam que se estaria diante de flagrante ilegalidade, passível de afastar o óbice contido no enunciado 691 da Súmula do Supremo Tribunal Federal.
+Argumentam que a custódia cautelar do réuestaria fundamentada na gravidade abstrata dos delitos que lhe foram imputados, não estando presentes os requisitos necessários para a decretação da medida extrema.
+Afirmam que o paciente faria jus ao benefício da liberdade provisória.
+Requerem, liminarmente e no mérito, que o paciente possa responder ao processo em liberdade, expedindo-se alvará de soltura em seu favor.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE QUASE 3kg DE MACONHA. WRIT IMPETRADO CONTRA DECISÃO QUE
+INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi decretada em razão da periculosidade social do agravante, evidenciada a partir das circunstâncias concretas colhidas do flagrante, notadamente pela apreensão de expressiva quantidade de droga - quase 3kg de maconha.Precedentes. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.(AgRg no HC 629.203/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020;sem grifos no original)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto a autoridade impetrada, ao indeferir a liminar nomandamusoriginário, fundamentou suficientemente a manutenção da custódia do pacientenos seguintes termos (fls. 302/304):
+A concessão de liminar em sede de habeas corpus se restringe à pronta demonstração de manifesto constrangimento ilegal.
+Não é o caso dos autos.
+Consta dos autos que o Paciente está sendo investigado por, supostamente, integrar Célula dedicada ao tráficode drogas e lavagem de dinheiro correlata; Célula de lavagem de dinheiro vinculada ao Setor das Ajudas (Setor CDHU), por meio da aquisição de imóveis em nome de terceiros, mas que permanecem sob a gestão do Primeiro Comando da Capital, para moradia de faccionados e familiares; Célula de falsidades documentais, utilizadas para assegurar a impunidade de faccionados foragidos, viabilizar cadastros em aplicativos de transporte (Uber), para driblar a fiscalização estatal em transportes ilícitos, permitir a realização de visitas a faccionados, ocultando a real identidade dos visitantes, entre outros; e Célula jurídica (Sintonia dos Gravatas), voltada à assistência jurídica permanente à organização criminosa, viabilizando o funcionamento seguro desta, com atuação direta em atos de lavagem de dinheiro, com transmissão de mensagens entre faccionados presos e em liberdade e até mesmo em tráfico de drogas, núcleos esses pertencentes à organização criminosa denomina Primeiro Comando da Capital (PCC).
+A decisão de fls. 225/288 que decretou a prisão preventiva do Paciente está fundamentada a contento, visto que há prova de materialidade e indícios suficientes de autoria de que o Paciente integrava organização criminosa Primeiro Comando da Capital, não se vislumbrando, ao menos por ora, constrangimento ilegal a ser sanado por via liminar.
+Trata-se de caso bastante complexo, envolvendo diversos réus cujas ações foram realizadas em Estados da Federação diversos, requerendo maior cautela na apreciação do feito.
+Destarte, é impossível admitir, pela via provisória da decisão liminar, a pronta solução das questões defundo. A medida não se presta a antecipar a tutela jurisdicional.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
