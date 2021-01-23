@@ -6,6 +6,7 @@ Seção I
 Disposições Gerais
 Seção II
 Da Verificação e da Habilitação de Créditos
+Seção II-A
 Das Conciliações e das Mediações Antecedentes ou Incidentais aos Processos de Recuperação Judicial'
 Seção III
 Do Administrador Judicial e do Comitê de Credores
@@ -21,7 +22,9 @@ Seção III
 Do Plano de Recuperação Judicial
 Seção IV
 Do Procedimento de Recuperação Judicial
+Seção IV-A
 Do Financiamento do Devedor e do Grupo Devedor durante a Recuperação Judicial'
+Seção IV-B
 Da Consolidação Processual e da Consolidação Substancial'
 Seção V
 Do Plano de Recuperação Judicial para Microempresas e Empresas de Pequeno Porte
@@ -55,10 +58,17 @@ Seção XII
 Do Encerramento da Falência e da Extinção das Obrigações do Falido
 CAPÍTULO VI
 DA RECUPERAÇÃO EXTRAJUDICIAL
+CAPÍTULO VI-A
+DA INSOLVÊNCIA TRANSNACIONAL
+Seção I
 Disposições Gerais
+Seção II
 Do Acesso à Jurisdição Brasileira
+Seção III
 Do Reconhecimento de Processos Estrangeiros
+Seção IV
 Da Cooperação com Autoridades e Representantes Estrangeiros
+Seção V
 Dos Processos Concorrentes
 CAPÍTULO VII
 DISPOSIÇÕES PENAIS

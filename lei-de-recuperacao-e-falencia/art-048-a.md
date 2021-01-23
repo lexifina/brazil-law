@@ -1,0 +1,1 @@
+Art. 48-A. Na recuperação judicial de companhia aberta, serão obrigatórios a formação e o funcionamento do conselho fiscal, nos termos da Lei nº 6.404, de 15 de dezembro de 1976, enquanto durar a fase da recuperação judicial, incluído o período de cumprimento das obrigações assumidas pelo plano de recuperação.
