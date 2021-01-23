@@ -1,0 +1,1 @@
+Art. 69-B. A modificação em grau de recurso da decisão autorizativa da contratação do financiamento não pode alterar sua natureza extraconcursal, nos termos do art. 84 desta Lei, nem as garantias outorgadas pelo devedor em favor do financiador de boa-fé, caso o desembolso dos recursos já tenha sido efetivado.

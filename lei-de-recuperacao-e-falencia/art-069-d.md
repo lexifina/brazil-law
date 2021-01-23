@@ -1,0 +1,2 @@
+Art. 69-D. Caso a recuperação judicial seja convolada em falência antes da liberação integral dos valores de que trata esta Seção, o contrato de financiamento será considerado automaticamente rescindido.
+Parágrafo único. As garantias constituídas e as preferências serão conservadas até o limite dos valores efetivamente entregues ao devedor antes da data da sentença que convolar a recuperação judicial em falência.

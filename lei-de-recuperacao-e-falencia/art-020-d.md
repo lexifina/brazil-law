@@ -1,0 +1,1 @@
+Art. 20-D. As sessões de conciliação e de mediação de que trata esta Seção poderão ser realizadas por meio virtual, desde que o Cejusc do tribunal competente ou a câmara especializada responsável disponham de meios para a sua realização.

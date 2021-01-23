@@ -1,0 +1,3 @@
+Art. 167-L. Após o ajuizamento do pedido de reconhecimento do processo estrangeiro, e antes de sua decisão, o juiz poderá conceder liminarmente as medidas de tutela provisória, fundadas em urgência ou evidência, necessárias para o cumprimento desta Lei, para a proteção da massa falida ou para a eficiência da administração.
+§ 1º Salvo no caso do disposto no inciso IV do caput do art. 167-N desta Lei, as medidas de natureza provisória encerram-se com a decisão sobre o pedido de reconhecimento.
+§ 2º O juiz poderá recusar-se a conceder as medidas de assistência provisória que possam interferir na administração do processo estrangeiro principal.
