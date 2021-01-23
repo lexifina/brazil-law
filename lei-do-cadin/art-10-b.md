@@ -1,0 +1,6 @@
+Art. 10-B. O empresário ou a sociedade empresária que pleitear ou tiver deferido o processamento da recuperação judicial, nos termos dos arts. 51, 52 e 70 da Lei nº 11.101, de 9 de fevereiro de 2005, poderá parcelar os seus débitos para com a Fazenda Nacional existentes, ainda que não vencidos até a data do protocolo da petição inicial da recuperação judicial, relativos aos tributos previstos nos incisos I e II do caput do art. 14 desta Lei, constituídos ou não, inscritos ou não em dívida ativa, em até 24 (vinte e quatro) parcelas mensais e consecutivas, calculadas de modo a observar os seguintes percentuais mínimos, aplicados sobre o valor da dívida consolidada:
+I - da primeira à sexta prestação: 3% (três por cento);
+II - da sétima à décima segunda prestação: 6% (seis por cento);
+III - da décima terceira prestação em diante: percentual correspondente ao saldo remanescente, em até 12 (doze) prestações mensais e sucessivas.
+§ 1º O disposto no art. 10-A desta Lei, exceto quanto aos incisos V e VI do caput, ao § 1º-B e ao inciso III do § 4º-A, aplica-se ao parcelamento de que trata este artigo.
+§ 2º As microempresas e as empresas de pequeno porte farão jus a prazos 20% (vinte por cento) superiores àqueles regularmente concedidos às demais empresas.

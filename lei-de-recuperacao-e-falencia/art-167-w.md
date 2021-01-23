@@ -1,0 +1,1 @@
+Art. 167-W. No processo falimentar transnacional, principal ou não principal, nenhum ativo, bem ou recurso remanescente da liquidação será entregue ao falido se ainda houver passivo não satisfeito em qualquer outro processo falimentar transnacional.
