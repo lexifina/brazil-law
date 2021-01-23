@@ -1,0 +1,1 @@
+Art. 69-F. Qualquer pessoa ou entidade pode garantir o financiamento de que trata esta Seção mediante a oneração ou a alienação fiduciária de bens e direitos, inclusive o próprio devedor e os demais integrantes do seu grupo, estejam ou não em recuperação judicial.
