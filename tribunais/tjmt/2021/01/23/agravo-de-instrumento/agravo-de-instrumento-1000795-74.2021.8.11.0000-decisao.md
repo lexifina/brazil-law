@@ -1,0 +1,29 @@
+AGRAVANTE:
+P. V. A. da C., representado por sua genitora Thayla Marina Batista de Araújo
+AGRAVADO(S):
+MUNICÍPIO DE COLÍDER
+ESTADO DE MATO GROSSO
+Vistos em Plantão Judiciário...
+Trata-se de Agravo de Instrumento com pedido liminar de antecipação dos efeitos da tutela recursal, interposto pelo menor impúbere P. V. A. da C., neste ato representado por sua genitora Thayla Marina Batista de Araújo, em face da r. decisão interlocutória proferida pelo d. Juízo da Primeira Vara Especializada da Fazenda Pública da Comarca de Várzea Grande/MT nos autos da Ação de Obrigação de Fazer c/c tutela específica de urgência n.o 1001292-82.2021.8.11.0002, em que foi deferida em parte a tutela de urgência reclamada, a fim de determinar aos requeridos, ora agravados, que promovam, no prazo máximo de 30 (trinta) dias, o agendamento e a submissão do agravante à consulta em neurocirurgia pediátrica, por intermédio do órgão de saúde responsável por providenciar o fornecimento da consulta em questão, bem assim que o ente municipal viabilize o adequado transporte e a locomoção do infante ao referido desiderato.
+Nas razões recursais disponíveis no ID 73219980, o agravante sustenta ser portador de hidrocefalia (CID 10 – G 91.9), motivo por que necessita ser submetido à consulta com médico especialista em neurocirurgia pediátrica, com vistas a realizar o tratamento cirúrgico de Derivação Ventrículo Peritoneal ou outro a ser indicado pelo expert, alegando também que, ante a situação de perigo iminente à sua vida e ao seu estado de saúde, o recorrente não poderia aguardar o prazo de 30 (trinta) dias conferido aos agravados sem que venha a sofrer prejuízos graves e irreversíveis, ao que agrega ainda o pedido de concessão dos benefícios da Justiça Gratuita.
+Com base nestes argumentos, requer, liminarmente, a atribuição de efeito ativo ao agravo de instrumento, antecipando-se os efeitos da tutela recursal, com a subsequente reforma da decisão reprochada, a fim de que seja determinado aos agravados que, no prazo de 24h (vinte e quatro horas), encaminhem o agravante à avaliação com médico especialista em neurocirurgia pediátrica, e consequente realização do procedimento cirúrgico de Derivação do Ventrículo Peritoneal ou outro que se faça necessário, incluindo o transporte de sua residência ao hospital, além de tratamentos anteriores e posteriores imprescindíveis, sem prejuízo de outras medidas de urgência necessárias para a obtenção do resultado prático equivalente a que se destina a ação, a teor do art. 536 e seguintes do CPC.
+Ao final, pugna pelo provimento da vertente insurgência, para tornar definitiva a liminar eventualmente deferida.
+As razões recursais vieram instruídas com os documentos anexados no ID 73219981 e ID 73219982.
+Distribuídos os autos durante o Plantão Judiciário, especificamente à 01h19min do dia 23/01/2021, vieram conclusos a este Relator às 08h53min da mesma data, para análise da tutela de urgência vindicada.
+É o relatório.
+DECIDO.
+A teor do que preceitua a redação do art. 300 e art. 1.019, inc. I, ambos do CPC, a antecipação dos efeitos da tutela recursal, tal qual vindicada pelo agravante, condiciona-se, necessariamente, à existência de elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+In casu, embora inexista dúvida quanto ao quadro clínico do agravante e quanto à necessidade de atendimento médico especializado, e não obstante a saúde constitua direito fundamental e social, indissociável do direito à vida e assegurado a todo cidadão, cuja garantia compete ao Estado, nos termos do art. 6.o e art. 196, ambos da Constituição Federal, por outro lado, não se verifica patente ilegalidade ou teratologia na decisão impugnada, o que mitiga, em um primeiro momento, a presença in casu dos requisitos previstos no art. 300 do CPC.
+Isto porque, o documento de solicitação de consulta em neurologia pediátrica acostado no ID 73219982 - Pág. 35 aponta que o pedido administrativo foi aviado junto aos SISREG III em 08/12/2020 (Cód. Unificado 0301010072), ao passo que a manifestação do Núcleo de Apoio Técnico/NAT atesta que a consulta em questão, de média complexidade, detém caráter eletivo (ID 73219982 - Pág. 46).
+Deste modo, a priori, não se apresenta irrazoável o prazo de 30 (trinta) dias conferido aos ora agravados pelo d. juízo a quo na decisão impugnada, consoante se infere do Enunciado n.o 93 da III Jornada de Direito da Saúde do Conselho Nacional de Justiça, cuja redação dispõe, in verbis:
+“Nas demandas de usuários do Sistema Único de Saúde – SUS por acesso a ações e serviços de saúde eletivos previstos nas políticas públicas, considera-se excessiva a espera do paciente por tempo superior a 100 (cem) dias para consultas e exames, e de 180 (cento e oitenta) dias para cirurgias e tratamentos”. – Destaquei.
+Não discrepa a jurisprudência do eg. TJMT:
+“(...) III - Em se tratando de cirurgia eletiva, o caso não se amolda aos requisitos necessários à concessão da tutela de urgência, razão pela qual a decisão de base deve ser mantida”. (N.U 1019597-57.2020.8.11.0000, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, SERLY MARCONDES ALVES, Quarta Câmara de Direito Privado, Julgado em 28/10/2020, Publicado no DJE 05/11/2020) – Sublinhei.
+“(...) Na hipótese dos autos, a despeito de restar comprovada a necessidade da consulta médica, não há comprovação da alegada urgência, conforme parecer técnico emitido pelo NAT (Núcleo de Apoio Técnico)”. (N.U 1012456-21.2019.8.11.0000, TURMA RECURSAL CÍVEL, JORGE ALEXANDRE MARTINS FERREIRA, Turma Recursal Única, Julgado em 09/10/2020, Publicado no DJE 14/10/2020) – Sublinhei.
+Com tais considerações, INDEFIRO a tutela de urgência.
+Sobrevindo o reinício do expediente forense, distribuam-se os autos, na forma regimental.
+Intime-se.
+Cumpra-se.
+Cuiabá-MT, 23 de janeiro de 2021.
+Desembargador Gilberto Giraldelli
+Relator Plantonista
