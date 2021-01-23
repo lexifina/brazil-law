@@ -1,0 +1,1 @@
+Art. 70-A. O produtor rural de que trata o § 3º do art. 48 desta Lei poderá apresentar plano especial de recuperação judicial, nos termos desta Seção, desde que o valor da causa não exceda a R$ 4.800.000,00 (quatro milhões e oitocentos mil reais).
