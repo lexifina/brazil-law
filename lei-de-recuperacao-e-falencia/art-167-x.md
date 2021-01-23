@@ -1,0 +1,1 @@
+Art. 167-X. O processo de falência transnacional principal somente poderá ser finalizado após o encerramento dos processos não principais ou após a constatação de que, nesses últimos, não haja ativo líquido remanescente.

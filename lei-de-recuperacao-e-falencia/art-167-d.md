@@ -1,0 +1,3 @@
+Art. 167-D. O juízo do local do principal estabelecimento do devedor no Brasil é o competente para o reconhecimento de processo estrangeiro e para a cooperação com a autoridade estrangeira nos termos deste Capítulo.
+§ 1º A distribuição do pedido de reconhecimento do processo estrangeiro previne a jurisdição para qualquer pedido de recuperação judicial, de recuperação extrajudicial ou de falência relativo ao devedor.
+§ 2º A distribuição do pedido de recuperação judicial, de recuperação extrajudicial ou de falência previne a jurisdição para qualquer pedido de reconhecimento de processo estrangeiro relativo ao devedor.'

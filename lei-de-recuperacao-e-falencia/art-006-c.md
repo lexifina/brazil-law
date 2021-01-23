@@ -1,0 +1,1 @@
+Art. 6º-C. É vedada atribuição de responsabilidade a terceiros em decorrência do mero inadimplemento de obrigações do devedor falido ou em recuperação judicial, ressalvadas as garantias reais e fidejussórias, bem como as demais hipóteses reguladas por esta Lei.

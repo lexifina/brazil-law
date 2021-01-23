@@ -1,0 +1,4 @@
+Art. 167-P. O juiz deverá cooperar diretamente ou por meio do administrador judicial, na máxima extensão possível, com a autoridade estrangeira ou com representantes estrangeiros, na persecução dos objetivos estabelecidos no art. 167-A desta Lei.
+§ 1º O juiz poderá comunicar-se diretamente com autoridades estrangeiras ou com representantes estrangeiros, ou deles solicitar informação e assistência, sem a necessidade de expedição de cartas rogatórias, de procedimento de auxílio direto ou de outras formalidades semelhantes.
+§ 2º O administrador judicial, no exercício de suas funções e sob a supervisão do juiz, deverá cooperar, na máxima extensão possível, com a autoridade estrangeira ou com representantes estrangeiros, na persecução dos objetivos estabelecidos no art. 167-A desta Lei.
+§ 3º O administrador judicial, no exercício de suas funções, poderá comunicar-se com as autoridades estrangeiras ou com os representantes estrangeiros.
