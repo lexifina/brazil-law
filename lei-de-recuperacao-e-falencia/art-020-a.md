@@ -1,0 +1,1 @@
+Art. 20-A. A conciliação e a mediação deverão ser incentivadas em qualquer grau de jurisdição, inclusive no âmbito de recursos em segundo grau de jurisdição e nos Tribunais Superiores, e não implicarão a suspensão dos prazos previstos nesta Lei, salvo se houver consenso entre as partes em sentido contrário ou determinação judicial.
