@@ -1,0 +1,1 @@
+Art. 69-E. O financiamento de que trata esta Seção poderá ser realizado por qualquer pessoa, inclusive credores, sujeitos ou não à recuperação judicial, familiares, sócios e integrantes do grupo do devedor.
