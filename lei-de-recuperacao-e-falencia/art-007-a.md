@@ -1,0 +1,21 @@
+Art. 7º-A. Na falência, após realizadas as intimações e publicado o edital, conforme previsto, respectivamente, no inciso XIII do caput e no § 1º do art. 99 desta Lei, o juiz instaurará, de ofício, para cada Fazenda Pública credora, incidente de classificação de crédito público e determinará a sua intimação eletrônica para que, no prazo de 30 (trinta) dias, apresente diretamente ao administrador judicial ou em juízo, a depender do momento processual, a relação completa de seus créditos inscritos em dívida ativa, acompanhada dos cálculos, da classificação e das informações sobre a situação atual.
+§ 1º Para efeito do disposto no caput deste artigo, considera-se Fazenda Pública credora aquela que conste da relação do edital previsto no § 1º do art. 99 desta Lei, ou que, após a intimação prevista no inciso XIII do caput do art. 99 desta Lei, alegue nos autos, no prazo de 15 (quinze) dias, possuir crédito contra o falido.
+§ 2º Os créditos não definitivamente constituídos, não inscritos em dívida ativa ou com exigibilidade suspensa poderão ser informados em momento posterior.
+§ 3º Encerrado o prazo de que trata o caput deste artigo:
+I - o falido, os demais credores e o administrador judicial disporão do prazo de 15 (quinze) dias para manifestar objeções, limitadamente, sobre os cálculos e a classificação para os fins desta Lei;
+II - a Fazenda Pública, ultrapassado o prazo de que trata o inciso I deste parágrafo, será intimada para prestar, no prazo de 10 (dez) dias, eventuais esclarecimentos a respeito das manifestações previstas no referido inciso;
+III - os créditos serão objeto de reserva integral até o julgamento definitivo quando rejeitados os argumentos apresentados de acordo com o inciso II deste parágrafo;
+IV - os créditos incontroversos, desde que exigíveis, serão imediatamente incluídos no quadro-geral de credores, observada a sua classificação;
+V - o juiz, anteriormente à homologação do quadro-geral de credores, concederá prazo comum de 10 (dez) dias para que o administrador judicial e a Fazenda Pública titular de crédito objeto de reserva manifestem-se sobre a situação atual desses créditos e, ao final do referido prazo, decidirá acerca da necessidade de mantê-la.
+§ 4º Com relação à aplicação do disposto neste artigo, serão observadas as seguintes disposições:
+I - a decisão sobre os cálculos e a classificação dos créditos para os fins do disposto nesta Lei, bem como sobre a arrecadação dos bens, a realização do ativo e o pagamento aos credores, competirá ao juízo falimentar;
+II - a decisão sobre a existência, a exigibilidade e o valor do crédito, observado o disposto no inciso II do caput do art. 9º desta Lei e as demais regras do processo de falência, bem como sobre o eventual prosseguimento da cobrança contra os corresponsáveis, competirá ao juízo da execução fiscal;
+III - a ressalva prevista no art. 76 desta Lei, ainda que o crédito reconhecido não esteja em cobrança judicial mediante execução fiscal, aplicar-se-á, no que couber, ao disposto no inciso II deste parágrafo;
+IV - o administrador judicial e o juízo falimentar deverão respeitar a presunção de certeza e liquidez de que trata o art. 3º da Lei nº 6.830, de 22 de setembro de 1980, sem prejuízo do disposto nos incisos II e III deste parágrafo;
+V - as execuções fiscais permanecerão suspensas até o encerramento da falência, sem prejuízo da possibilidade de prosseguimento contra os corresponsáveis;
+VI - a restituição em dinheiro e a compensação serão preservadas, nos termos dos arts. 86 e 122 desta Lei; e
+VII - o disposto no art. 10 desta Lei será aplicado, no que couber, aos créditos retardatários.
+§ 5º Na hipótese de não apresentação da relação referida no caput deste artigo no prazo nele estipulado, o incidente será arquivado e a Fazenda Pública credora poderá requerer o desarquivamento, observado, no que couber, o disposto no art. 10 desta Lei.
+§ 6º As disposições deste artigo aplicam-se, no que couber, às execuções fiscais e às execuções de ofício que se enquadrem no disposto nos incisos VII e VIII do caput do art. 114 da Constituição Federal.
+§ 7º O disposto neste artigo aplica-se, no que couber, aos créditos do Fundo de Garantia do Tempo de Serviço (FGTS).
+§ 8º Não haverá condenação em honorários de sucumbência no incidente de que trata este artigo.

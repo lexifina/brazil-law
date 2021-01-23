@@ -1,0 +1,2 @@
+Art. 167-R. Após o reconhecimento de um processo estrangeiro principal, somente se iniciará no Brasil um processo de recuperação judicial, de recuperação extrajudicial ou de falência se o devedor possuir bens ou estabelecimento no País.
+Parágrafo único. Os efeitos do processo ajuizado no Brasil devem restringir-se aos bens e ao estabelecimento do devedor localizados no Brasil e podem estender-se a outros, desde que esta medida seja necessária para a cooperação e a coordenação com o processo estrangeiro principal.

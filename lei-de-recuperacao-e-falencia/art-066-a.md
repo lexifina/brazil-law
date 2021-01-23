@@ -1,0 +1,1 @@
+Art. 66-A. A alienação de bens ou a garantia outorgada pelo devedor a adquirente ou a financiador de boa-fé, desde que realizada mediante autorização judicial expressa ou prevista em plano de recuperação judicial ou extrajudicial aprovado, não poderá ser anulada ou tornada ineficaz após a consumação do negócio jurídico com o recebimento dos recursos correspondentes pelo devedor.
