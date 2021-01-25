@@ -1,0 +1,38 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 0000390-77.2013.8.11.0051
+RECORRENTE: USINA SANTA HELENA DE AÇÚCAR E ÁLCOOL S.A. - EM RECUPERACAO JUDICIAL
+RECORRIDO: EMERSON RICARDO DE BARROS - ME
+Vistos.
+Trata-se de Recurso Especial (id 39156486) interposto por USINA SANTA HELENA DE AÇÚCAR E ÁLCOOL S.A. - EM RECUPERAÇÃO JUDICIAL, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, assim ementado (id 30473994):
+“RECURSO DE APELAÇÃO – AÇÃO DE COBRANÇA – CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE TERRAPLANAGEM – PAGAMENTO POR MEIO DE CHEQUES DEVOLVIDOS POR INSUFICIÊNCIA DE FUNDOS – ILEGITIMIDADE PASSIVA – REJEIÇÃO – A EMITENTE DA CÁRTULA TEM LEGITIMIDADE PARA RESPONDER A AÇÃO - PRESCRIÇÃO – REJEIÇÃO – INTELIGÊNCIA DO ARTIGO 206, §5o, INCISO I, DO CÓDIGO CIVIL - MÉRITO – ALEGAÇÃO DE INEXISTÊNCIA DE DÉBITO – AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO – INTELIGÊNCIA DO ARTIGO 373, II DO CPC – SENTENÇA MANTIDA - RECURSO DESPROVIDO. O prazo para ajuizar ação de cobrança de contrato de prestação de serviços de terraplanagem lastreado em cheque sem força executiva é quinquenal, a contar do dia seguinte à da emissão estampada na cártula. Se o credor promove a ação dentro do respectivo prazo, não há falar em prescrição decorrente da demora na citação do requerido, notadamente porque com o despacho que determina a citação, o prazo fica interrompido (artigo 202, inciso I, do CC). O emitente do cheque tem legitimidade passiva para responder ação de cobrança lastreada no respectivo título de crédito. Ao requerido em ação de cobrança lastreada com cártulas pelo mesmo emitidas, cumpre provar o fato extintivo ou modificativo do autor, a teor do que dispõe o artigo 373, II do CPC”. (Ap. 0000390-77.2013.8.11.0051, DES. GUIOMAR TEODORO BORGES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 22/01/2020).
+Opostos Embargos de Declaração (id 31759956), estes foram rejeitados no acórdão de id 36965994.
+Na espécie, o presente recurso foi interposto contra o aresto que, em sede de Apelação interposta por Usina Santa Helena de Açúcar e Álcool S.A. – em Recuperação Judicial, manteve a sentença que, na Ação de Cobrança que lhe move Emerson Ricardo de Barros - ME, afastou o argumento de prescrição dos títulos e julgou procedente os pedidos iniciais para condenar a requerida, ora Recorrente, ao pagamento do débito no valor de R$ 102.399,55 (cento e dois mil, trezentos e noventa e nove reais e cinquenta e cinco centavos), já acrescido dos encargos desde o inadimplemento até a data da distribuição do processo.
+A Recorrente alega violação aos artigos 491 do Código de Processo Civil, e 49 da Lei n. 11.101/2005, além de divergência jurisprudencial, ao argumento de que o crédito perseguido pelo Recorrido é de natureza concursal e, portanto, sujeito à recuperação judicial.
+Recurso tempestivo (id 39158998) e preparado (id 39200953).
+Contrarrazões no id 39593497.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos (Tema 1.051)
+A partir da provável ofensa aos artigos 491 do Código de Processo Civil e 49 da Lei n. 11.101/2005, além de divergência jurisprudencial, a Recorrente sustenta que o crédito perseguido pelo Recorrido é de natureza concursal, porquanto as cártulas que instruem a exordial datam de 13/08/2008, ou seja, foram emitidas antes do pedido de recuperação judicial (20/11/2008), bem como anterior ao seu deferimento, e, sujeitando-se, portanto, ao seu regime
+A indigitada questão encontra-se afetada pela sistemática de recursos repetitivos, sendo necessária, portanto, a sua aplicação no caso.
+Pois bem. No julgamento dos paradigmas REsp 1843332/RS, REsp 1842911/RS, REsp 1843382/RS, REsp 1840812/RS, REsp 1840531/RS (Tema 1.051), o Superior Tribunal de Justiça firmou a tese no sentido de que “para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador”, consoante ementa a seguir transcrita:
+“RECURSO ESPECIAL REPETITIVO. DIREITO EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO. EXISTÊNCIA. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO JUDICIAL. ART. 49, CAPUT, DA LEI No 11.101/2005. DATA DO FATO GERADOR.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ).
+2. Ação de reparação de danos pela cobrança indevida de serviços não contratados. Discussão acerca da sujeição do crédito aos efeitos da recuperação judicial.
+3. Diante da opção do legislador de excluir determinados credores da recuperação judicial, mostra-se imprescindível definir o que deve ser considerado como crédito existente na data do pedido, ainda que não vencido, para identificar em quais casos estará ou não submetido aos efeitos da recuperação judicial.
+4. A existência do crédito está diretamente ligada à relação jurídica que se estabelece entre o devedor e o credor, o liame entre as partes, pois é com base nela que, ocorrido o fato gerador, surge o direito de exigir a prestação (direito de crédito).
+5. Os créditos submetidos aos efeitos da recuperação judicial são aqueles decorrentes da atividade do empresário antes do pedido de soerguimento, isto é, de fatos praticados ou de negócios celebrados pelo devedor em momento anterior ao pedido de recuperação judicial, excetuados aqueles expressamente apontados na lei de regência.
+6. Em atenção ao disposto no art. 1.040 do CPC/2015, fixa-se a seguinte tese: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.
+7. Recurso especial provido”. (REsp 1843332/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 09/12/2020, DJe 17/12/2020). (g.n.)
+Nesse contexto, a respeito da ocasião em que se considera constituído o crédito, consta trecho expresso do voto lançado no referido paradigma, no sentido de que “conclui-se que a submissão do crédito aos efeitos da recuperação judicial não depende de sentença que o declare ou o quantifique, menos ainda de seu trânsito em julgado, bastando a ocorrência do fato gerador”.
+O órgão fracionário deste Tribunal, por sua vez, concluiu que “(...) não se conhece do pedido para que a correção do débito tenha como data limite o pedido da Recuperação Judicial da apelante, porquanto postulado apenas em grau de recurso, além de que a constituição do crédito em favor do apelado se deu apenas com a sentença de procedência da presente ação”. (id 30473993 - p. 3)
+Denota-se, portanto, que o aresto impugnado se encontra em aparente desconformidade com a orientação do Superior Tribunal de Justiça, pois o órgão fracionário deste Sodalício decidiu que, para fins de analisar se o crédito da Recorrida é anterior ao pedido de recuperação judicial, deve-se levar em conta a prolação de sentença condenatória em ação de cobrança, ao passo que o Superior Tribunal de Justiça entendeu que “a submissão do crédito aos efeitos da recuperação judicial não depende de sentença que o declare ou o quantifique, menos ainda de seu trânsito em julgado, bastando a ocorrência do fato gerador”.
+Ante o exposto, e em face da aparente desconformidade do acórdão recorrido com o entendimento do Superior Tribunal de Justiça, manifestado no recurso paradigma (Tema 1.051), determino a devolução dos autos à Terceira Câmara de Direito Privado, nos termos dos artigos 1.030, II, do CPC, para possível juízo de retratação.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
