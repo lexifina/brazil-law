@@ -1,0 +1,18 @@
+DECISÃO
+AUTUAÇÃO – RETIFICAÇÃO.
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Heloísa Helena Giovannini e outras insurgem-se contra atos do Município de Juiz de Fora/MG e do Juízo do Terceiro Juizado Especial da Vara da Fazenda Pública da Comarca de Juiz de Fora/MG, este no processo nº 5030390-17.2019.8.13.0145, ante a inobservância do decidido na ação direta de inconstitucionalidade nº 4.467.
+    Afirmam instaurado procedimento voltado à seleção dos membros dos Conselhos Tutelares municipais, para o quadriênio 2020/2024, mediante a resolução nº 1, de 13 de março de 2019. Ressaltam editada a Resolução nº 2, de 3 de abril seguinte, do Conselho Municipal da Criança e do Adolescente, com a finalidade de regulamentar o procedimento de escolha, a prever, no artigo 34, inciso I, que, para o exercício do direito de voto, deveriam os cidadãos maiores de dezesseis anos apresentar título de eleitor e documento oficial de identidade. Argumentam que a exigência de submissão concomitante dos documentos implica afronta ao assentado, pelo Pleno, na ação direta, de ser possível o voto mediante apresentação apenas de documento oficial com foto, sendo dispensável o título de eleitor.
+    Dizem prejudicadas no pleito de reeleição aos cargos, uma vez que muitos cidadãos não puderam votar. Sublinham ajuizada demanda voltada à declaração de nulidade das eleições realizadas. Destacam não acolhido pedido de implemento de liminar, direcionado à suspensão da posse dos eleitos e à manutenção nos cargos dos então ocupantes, surgindo o descompasso.
+    Requerem, no campo precário e efêmero, a suspensão ou a “revogação dos atos”, mantendo-se os então ocupantes nos cargos. Pretendem, no mérito, a declaração de nulidade das eleições, sendo designada nova data, com a dispensa da apresentação de título de eleitor para fins de exercício do direito de voto.
+    O então Presidente, ministro Dias Toffoli, em 13 de janeiro de 2020, assentou não haver aderência estrita entre os atos impugnados e o acórdão do processo objetivo.
+    Por meio das petições/STF nº 1.587 e 21.292, ambas de 2020, as reclamantes insistem no deferimento da medida acauteladora. Articulam com a inconstitucionalidade da Resolução nº 2/2019, do Conselho Municipal da Criança e do Adolescente. Com a de nº 23.200/2020, anexaram cópia do ato dito inobservado.
+    2. Da leitura da inicial constata-se que a irresignação se faz voltada não apenas contra pronunciamento do Juízo, mas também em face de ato do Município de Juiz de Fora. Cumpre à Secretaria retificar a atuação, para incluí-lo.
+    O Pleno, na Sessão Virtual encerrada em 19 de outubro de 2020, ao chancelar liminar implementada na ação direta de inconstitucionalidade nº 4.467, conferiu, aos artigos 91-A da Lei nº 9.504/1997 e 47, § 1º, da Resolução nº 23.218/2010, do Tribunal Superior Eleitoral, interpretação conforme à Constituição, assentando que a ausência do título de eleitor, no momento da votação, não constitui impedimento ao exercício do sufrágio.
+    Em jogo faz-se discussão sobre seleção de cidadãos para comporem Conselhos Tutelares no âmbito do Município de Juiz de Fora, considerada a Resolução nº 2/2019, do Conselho Municipal da Criança e do Adolescente. O pedido formulado alicerça-se na transcendência dos motivos determinantes da decisão proferida. Parte-se de exercício interpretativo para guindar, com queima de etapas, controvérsia a este Tribunal.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 25 de janeiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
