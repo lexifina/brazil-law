@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de DENYS DA SILVA PORTELA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA (Agravo em execuçãon. 5073996-33.2020.8.24.0023).
+O paciente cumpre pena de 9anos de reclusão, emregime incialmente fechado, pela prática do delito preceituado no art. 2º, §§ 2º e 4º, I e IV, da Lei n. 12.850/13.
+A impetrante insurge-se contra o indeferimento do pedido de saída temporária.
+Afirma que o reeducando preenche os requisitos objetivo e subjetivo necessários à concessão do benefício. Acrescenta que a prorrogação do gozo da primeira saída temporária concedida ao reeducando- em razão da pandemia daCovid-19- não possui o condão de afastar o deferimento do pedido atual, em conformidade com o disposto no art. 122 da LEP.
+Requer, liminarmente e no mérito, a cassação da decisão proferida pela autoridade coatora, para que seja deferido o benefício de saída temporária ao paciente.
+É, no essencial, o relatório. Decido.
+Em juízo de cognição sumária, verifica-se que inexiste flagrante ilegalidade que justifique o deferimento do pleito liminar em regime de plantão, pois o acórdão atacado, ao confirmar o indeferimento do pedido de saída temporária, assim se pronunciou (e-STJ fl. 273):
+Sabe-se que, nos termos do artigo 124 da Lei de Execução Penal, " A autorização  da saída temporária  será concedida por prazo não superior a 7 (sete) dias, podendo ser renovada por mais 4 (quatro) vezes durante o ano".
+No presente caso, em virtude da pandemia do novo coronavírus, verifica-se que o Juízo a quo autorizou a saída temporária do apenado no dia 30/04/2020, com gozo da benesse até 21/05/2020 (Evento 43 dos autos da execução penal).
+A prorrogação do benefício, contudo, durou até 20/08/2020, oportunidade em que o reeducando retornou ao estabelecimento prisional (Evento 69 dos autos da execução penal).
+Denota-se, portanto, que o acusado teve sua saída temporária estendida, usufruindo período de tempo muito superior ao máximo previsto no art. 124 da lei de execução penal.
+Nesse sentido, como bem asseverou o douto Procurador de Justiça, " ..  ainda que se possa ver pertinência na flexibilização do número de saídas permitidas ao longo do ano, e até mesmo no lapso temporal que deve ser observado entre a concessão de uma e outra, tudo, por evidente, reclamando a devida motivação, a mesma tolerância já não deve ser aceita em relação ao prazo total que deve ser respeitado no período de um ano.
+Dos autos, vê-se que a prorrogação, à época, foi concedida pelo magistrado em observância as orientações do CNJ que sobrevieram em razão do quadro de saúde pública decorrente da declaração de pandemia (evento 43 do PEC), tratando-se, pois, de situação excepcional que tornou possível o gozo da benesse por período ininterrupto, e que revelou-se como uma solução razoável aos conflitos trazidos pelo quadro de saúde pública atual, e que, muito antes de ferir, preserva os direitos do apenado, que até então estava com o referido benefício em suspensão. (TJSC, Agravo de Execução Penal n. 0001642-95.2020.8.24.0023, da Capital, rel. Sérgio Rizelo, Segunda Câmara Criminal, j. 01-09-2020).
+E, de fato, a medida encontra-se em consonância àquelas aplicadas pelos demais magistrados em todo o Estado, em atenção, principalmente, à saúde da população carcerária. Assim, e tendo ele usufruído do referido direito em ato único, e até por lapso de tempo superior àquele estabelecido na legislação para gozo no período de um ano, ainda que tal tenha se dado em face dos riscos causados à saúde pública pelo quadro de pandemia instalado, não há dizer que teria direito a outras saídas". (Evento 07).
+Desse modo, porquanto o apenado já usufruiu os 35 (trinta e cinco) dias previstos no art. 124 da Lei de Execução Penal do benefício da saída temporária, de forma contínua, a negativa de renovação do benefício é medida que se impõe.
+Em caso semelhante, assim decidiu este Sodalício: (..)
+Considerando, desse modo,que o pedido se confunde com o próprio mérito da impetração, deve-se reservar ao órgão competente a análise mais aprofundada da matéria por ocasião do julgamento definitivo.
+Ante o exposto, indefiro o pedido de liminar.
+Solicitem-se informações ao Tribunal de origem, que deverão ser prestadas preferencialmente por malote digital e com senha de acesso para consulta ao processo.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
