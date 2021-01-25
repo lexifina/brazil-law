@@ -1,0 +1,43 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Recurso Especial na Apelação Cível n. 0029079-59.2016.8.11.0041
+RECORRENTE: MARIA STAEL GARCIA RODRIGUES
+RECORRIDO: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Recurso Extraordinário na Apelação Cível n. 0029079-59.2016.8.11.0041
+RECORRENTE: MARIA STAEL GARCIA RODRIGUES
+RECORRIDO: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Do Recurso Especial na Apelação Cível n. 0029079-59.2016.8.11.0041
+Trata-se de Recurso Especial interposto por MARIA STAEL GARCIA RODRIGUES, com fundamento no artigo 105, III, alínea “a” da Constituição Federal, contra acórdão proferido pela Primeira Câmara de Direito Público e Coletivo.
+Conforme certidão de id. 66478958, a Recorrente apresentou Recurso Especial sem o devido recolhimento do preparo recursal em decorrência de falha na digitação do item “Número do Processo que Consta no Acórdão Recorrido”.
+Intimado para regularizar o pagamento (artigo 1.007, §2o, do CPC), sob pena de deserção (id 66956972), a Recorrente juntou manifestação, da qual foi certificado o seguinte: “Certifico que o Recurso Especial foi interposto neste Tribunal em 08/12/2020, anexa a Guia de Recolhimento da União-GRU no 2850419, id. 69809481, referente as custas judiciais, acompanhada de documento bancário com a informação de pagamento datado para dia 09/12/2020.” (id. 70378454).
+É o relatório.
+Decido.
+Em observância ao artigo 1.007, § 2o, do CPC, o não pagamento do preparo ou o pagamento parcial sem complementação, após a intimação da parte para regularização, conduz à deserção do recurso, obstando, assim, o seu seguimento.
+Na espécie, após a devida intimação para a regularização do preparo recursal, sobreveio certidão (id. 70378454) informando a juntada apenas de comprovante de agendamento de pagamento referente à guia do Recurso Especial.
+Como se vê da manifestação da Recorrente e da supracitada certidão, foi acostada aos autos, em 08/12/2020, a Guia de Recolhimento da União-GRU no 2850419 (id. 69809481), acompanhada de comprovante de agendamento de pagamento para a data de 09/12/2020 (id. 69809480).
+Ocorre que o comprovante do preparo deve ser apresentado concomitantemente no ato de interposição do recurso, não bastando a mera juntada de comprovante de agendamento, uma vez que este é sujeito a posterior cancelamento e não demonstra o devido recolhimento do preparo, e, por consequência, inviabiliza o seguimento recursal.
+A respeito, já decidiu o STJ em situação semelhante, senão vejamos:
+“PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS POR ACIDENTE AUTOMOBILÍSTICO. PREPARO. JUNTADA DO COMPROVANTE DE AGENDAMENTO DE PAGAMENTO. INADMISSIBILIDADE. DESERÇÃO DO RECURSO. NECESSIDADE DE COMPROVAÇÃO DO EFETIVO RECOLHIMENTO DO PREPARO NO ATO DA INTERPOSIÇÃO DO RECURSO. SÚMULA 568/STJ. 1. Ação de indenização por danos materiais e compensação por danos morais em decorrência de acidente automobilístico. 2. A jurisprudência do STJ é no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido. 3. Recurso especial conhecido e não provido”. (STJ - AgInt no REsp: 1878568 AM 2020/0138370-1, Relator: Ministra NANCY ANDRIGHI, Data de Julgamento: 26/10/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 29/10/2020) (g.n.)
+“CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESERÇÃO DO RECURSO. APRESENTAÇÃO DE COMPROVANTE DE AGENDAMENTO. DETERMINAÇÃO DE RECOLHIMENTO DO PREPARO EM DOBRO. ART. 1.007, § 4o, NCPC. NÃO COMPROVAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO. 1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo no 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. Na falta de comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado para realizá-lo em dobro, sob pena de deserção, nos termos do art. 1.007, § 4o, do NCPC. 3. No caso dos autos, houve apenas a apresentação do comprovante de agendamento e, mesmo após a intimação, a parte deixou de realizar o recolhimento do preparo em dobro. Deserção mantida. 4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos. 5. Agravo interno não provido”. (STJ - AgInt no AREsp: 1416009 DF 2018/0331748-2, Relator: Ministro MOURA RIBEIRO, Data de Julgamento: 17/02/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 19/02/2020) (g.n.)
+Nessa perspectiva, a Recorrente não cumpriu a determinação judicial, o que enseja o não conhecimento do recurso.
+Do Recurso Extraordinário na Apelação Cível n. 0029079-59.2016.8.11.0041
+Trata-se de Recurso Extraordinário interposto por MARIA STAEL GARCIA RODRIGUES, com fundamento no artigo 102, III, alínea “a” da Constituição Federal, contra acórdão proferido pela Primeira Câmara de Direito Público e Coletivo.
+Conforme certidão de id. 66478959, a Recorrente interpôs Recurso Extraordinário sem o devido recolhimento do preparo recursal em decorrência de falha na digitação do item “Número do Processo que Consta no Acórdão Recorrido”.
+Intimado para regularizar o pagamento (artigo 1.007, §2o, do CPC), sob pena de deserção (id 66956972), a Recorrente juntou manifestação, da qual foi certificado o seguinte: “Certifico que o Recurso Especial foi interposto neste Tribunal em 08/12/2020, anexa a Guia de Recolhimento da União-GRU no 2850419, id. 69809481, referente as custas judiciais, acompanhada de documento bancário com a informação de pagamento datado para dia 09/12/2020.” (id. 70378454).
+É o relatório.
+Decido.
+Em observância ao artigo 1.007,§ 2o, do CPC, o não pagamento do preparo ou o pagamento parcial sem complementação, após a intimação da parte para regularização, conduz à deserção do recurso, obstando, assim, o seu seguimento.
+Na espécie, após a devida intimação para a regularização do preparo recursal, sobreveio certidão (id. 70378454) de que foi juntado apenas comprovante de agendamento de pagamento referente à guia do Recurso Especial.
+Como se vê da manifestação da Recorrente e da supracitada certidão, foi acostada aos autos, em 08/12/2020, a Guia de Recolhimento da União-GRU no 2850419 (id. 69809481), acompanhada de comprovante de agendamento de pagamento para a data de 09/12/2020 (id. 69809480), os quais fazem referência apenas ao Recurso Especial.
+Ora, apesar de devidamente intimada, a Recorrente não procedeu com a devida regularização do preparo recursal, haja vista que não houve qualquer juntada relativa à correta emissão e pagamento da Guia de Recolhimento referente ao Recurso Extraordinário, o que implica na deserção recursal, consoante o artigo 1.007, caput, do CPC.
+Nesse sentido, é a jurisprudência pacífica do Supremo Tribunal Federal, in verbis:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO EXTRAORDINÁRIO. PREPARO. RECOLHIMENTO IRREGULAR. COMPLEMENTAÇÃO. PRAZO. INOBSERVÂNCIA. DESERÇÃO. 1. A jurisprudência do STF é firme no sentido de que compete à parte Recorrente o ônus de comprovar o recolhimento do preparo no momento da interposição do recurso, ou, no caso de insuficiência do valor, no prazo para sua complementação. Precedentes. 2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4o, CPC. Nos termos do art. 85, § 11, do CPC, majoro em 1/4 (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2o e 3o do mesmo dispositivo, bem como os §§ 3o e 4o do art. 98. (ARE 1177573 AgR, Relator (a): Min. EDSON FACHIN, Segunda Turma, julgado em 15/05/2020, PROCESSO ELETRÔNICO DJe-127 DIVULG 21-05-2020 PUBLIC 22-05-2020).” (STF - AgR ARE: 1177573 PR - PARANÁ 0006673-19.2012.8.16.0179, Relator: Min. EDSON FACHIN, Data de Julgamento: 15/05/2020, Segunda Turma, Data de Publicação: DJe-127 22-05-2020). (g.n.)
+Nessa perspectiva, a Recorrente não cumpriu a determinação judicial, o que enseja o não conhecimento do recurso.
+Ante o exposto, nego seguimento aos recursos Especial e Extraordinário interpostos por MARIA STAEL GARCIA RODRIGUES.
+Por derradeiro, intime-se o Recorrido para apresentar contrarrazões aos recursos da Assembleia Legislativa do Estado de Mato Grosso, no prazo legal.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
