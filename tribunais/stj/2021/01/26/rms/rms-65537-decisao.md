@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, com pedido de liminar, interposto com fulcro no art. 105, inciso II, "b", da Constituição Federal e na lei n. 8.038/90, apresentado pelo DEPARTAMENTO ESTADUAL DE TRÂNSITO - DETRAN/RS contra acórdão do TRIBUNAL REGIONAL DEFERAL DA 4ª REGIÃO que denegou o writ.
+Alega o recorrente, ter sido condenado ao pagamento de astreintes, em razão da demora no cumprimento de ordem judicial no valor de valor de R$ 622.703,00 (seiscentos e vinte e dois mil, setecentos reais). Acrescenta que a 7ª Turma do TRF/4ª, em agravo de instrumento, manteve a denegação da segurança.
+Assevera como desproporcional a aplicação da referida multa e caracteriza como ato ilegal a não observância do direito à ampla defesa, contraditório e do devido processo legal.
+Requer "requer o processamento e a admissão do presente Recurso Ordinário, com a suspensão da decisão impugnada até julgamento final, em face dos graves danos causados ao recorrente em suas finanças, capaz de comprometer serviços públicos essenciais e, ao final, seja-lhe dado provimento para reformar a decisão proferida pela 7ª Turma do Tribunal Regional Federal da 4ª Região que denegou a segurança pleiteada".
+É, no essencial, o relatório. Decido.
+A concessão de medida liminar em recurso em mandado de segurança exige a satisfação simultânea de dois requisitos autorizadores, a saber, o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no mandamus, e o periculum in mora, consubstanciado na possibilidade do perecimento do bem jurídico objeto da pretensão resistida.
+Em análise sumária, verifica-se que o periculum in mora não está evidenciado, pois não há risco de ineficácia da concessão da ordem mandamental na hipótese de a liminar não ser desde logo deferida. O recorrente não comprovou o risco de dano irreparável, uma vez que nenhuma medida de constrição dos referidos valores foi demonstrada nos autos.
+Ademais, no presente caso, o pedido de liminar, no que diz respeito a cobrança de astreintes devidas pelos entes públicos, se confunde com o próprio mérito do recurso, circunstância que demonstra a natureza satisfativa do pleito, cuja análise pormenorizada compete ao colegiado no momento oportuno.
+Ante o exposto, diante da ausência de um dos requisitos autorizadores da tutela de urgência, indefiro o pedido de liminar sem prejuízo de ulterior deliberação pelo relator do feito.
+Dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
