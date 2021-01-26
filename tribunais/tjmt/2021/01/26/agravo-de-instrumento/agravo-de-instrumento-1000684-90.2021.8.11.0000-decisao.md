@@ -1,0 +1,23 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por ANDREIA NUNES MACHADO, com o fito de obter a reforma da decisão que, nos autos da Ação Declaratória e Condenatória de no 1022616-62.2020.8.11.0003, proposta pela agravante em face de RODOBENS ADMINISTRADORA DE CONSÓRCIOS LTDA, indeferiu o pedido de tutela de urgência com que buscava obter a retirada de protesto realizado pela agravada em seu nome.
+Para tanto, a agravante alega que os requisitos autorizadores da tutela de urgência restaram preenchidos, aduzindo, quanto à plausibilidade jurídica da pretensão, que o protesto impugnado se tornou ilegítimo a partir do trânsito em julgado de sentença que, nos autos de Ação de Busca e Apreensão proposta pela agravada, consolidou em favor desta a propriedade e posse do automóvel cujo financiamento gerou a dívida objeto de protesto, de modo que incumbiria exclusivamente à credora a retirada imediata da restrição junto ao Cartório de Títulos competente.
+Pugna pela atribuição liminar de efeito ativo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e, ao final, decido:
+Diferentemente do efeito suspensivo, a atribuição de efeito ativo ao recurso de agravo de instrumento varia tanto quanto variem os pressupostos da tutela jurisdicional perseguida.
+Como já dizia Luiz Guilherme Marinoni:
+Os requisitos para concessão da tutela antecipatória variam de acordo com o contexto litigioso em que se insere o recorrente. Dependem, em suma, da espécie de tutela do direito que se quer antecipada. (Código de processo civil comentado artigo por artigo. São Paulo: Revista dos Tribunais, 2008, P. 542).
+Tratando-se de tutela de urgência requerida em caráter liminar, é imprescindível a concomitância dos requisitos dos artigos 300 do CPC, quais sejam, a probabilidade do direito invocado (fumus boni iuris) e o perigo de dano ou risco ao resultado útil do processo (periculum in mora):
+Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+Na espécie, em que pese o esforço argumentativo da agravante, não se vislumbra a plausibilidade jurídica (fumus boni iuris) de sua pretensão.
+Isso porque, nos termos do art. 2o da Lei n. 6.690/1979, compete ao devedor, e não ao credor, providenciar a baixa do protesto regularmente efetuado, mediante a apresentação, em cartório, do título correspondente:
+Art. 2o Será cancelado o protesto de títulos cambiais posteriormente pagos mediante a exibição e a entrega, pelo devedor ou procurador com poderes especiais, dos títulos protestados, devidamente quitados, que serão arquivados em cartório.
+O mesmo artigo legal estabelece, em seu segundo parágrafo, que, na falta do título protestado, compete ao devedor, a fim de obter o cancelamento da restrição, apresentar declaração de anuência rubricada pelo credor:
+§ 2o - Na impossibilidade de exibir o título protestado, o devedor, para obter o cancelamento do protesto, deverá apresentar declaração de anuência de todos que figurem no registro de protesto, com qualificação completa e firmas reconhecidas, devendo ser arquivada em cartório a referida declaração.
+Considerando que a agravante não contesta a legitimidade da antiga dívida, mas apenas a manutenção do protesto após a conclusão da ação de busca e apreensão proposta pela agravada, é de ser reconhecida a ausência de plausibilidade jurídica do pedido liminar, eis que competia exclusivamente à devedora, nos termos da lei de regência, diligenciar a fim de obter a baixa da restrição; máxime tendo em vista a inexistência de afirmação ou prova de que a credora, instada a fazê-lo, recusou-se indevidamente a fornecer a declaração de anuência.
+A propósito:
+“APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - PROTESTO - MANUTENÇÃO APÓS AÇÃO DE BUSCA DE APREENSÃO - BAIXA DO PROTESTO- ÔNUS DEVEDOR - INTELIGÊNCIA DO ART. 2o DA LEI 6.690/79. A responsabilidade em cancelar o protesto legítimo, após a quitação do débito, é do devedor, cabendo ao mesmo requerer a carta de anuência e realizar os trâmites necessários para baixar o protesto.”
+(TJ-MG - AC: 10352120056994001 MG, Relator: Otávio Portes, Data de Julgamento: 24/10/2018, Data de Publicação: 05/11/2018)
+Logo, a ausência de plausibilidade jurídica inviabiliza o deferimento da liminar.
+Ante o exposto, NÃO ATRIBUO efeito ativo ao recurso.
+Publique-se e intimem-se, advertindo-se os agravados do prazo de 15 (quinze) dias de que dispõem para a apresentação de resposta, bem como todos os litigantes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
