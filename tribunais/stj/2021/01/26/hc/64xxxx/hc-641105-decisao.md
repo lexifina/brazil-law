@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JOAO VITOR ROSA BORGES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(Processon. 3500727-28.2020.8.13.0480).
+O paciente foi condenado às penas de 8 anos e 4 meses de reclusão, em regime inicial fechado, e de 210 dias-multa, pela prática dos crimes previstos nos arts. 157, § 2º, II e § 2º-A, inciso I, do Código Penal e 33, § 4º, Lei n. 11.343/2006, mantida a sua prisão preventiva.
+Sustenta o impetrante a ocorrência de constrangimento ilegal, tendo em vista que, passados mais de 181 dias da prolação da sentença, ainda não teria havido qualquer reavaliação acerca da necessidade de manutenção da custódia cautelar, nos termos do art. 316 do Código de Processo Penal.
+Alega excesso de prazo no julgamento da apelação, causadopelo Poder Judiciário, pois o recurso teria sido recebidoem 21.8.2020, mas remetidoao Tribunal Estadual apenas em 27.10.2020. Ademais, embora o curso do processamento recursal do paciente estivesse regular, o desembargador relator teria determinado a baixa dos autos em diligência para que o corréu fosse intimado a constituir novo defensor, quando o correto seria desmembrar o feito.
+Aduz ofensa aos princípios da inocência, da dignidade da pessoa humana e da razoável duração do processo e defende a relativização das Súmulas ns. 21 e 52 deste Tribunal Superior.
+Por último, argumenta que a saúde do réu estaria em risco, haja vista o atual estado de emergência sanitária decorrente da pandemia de Covid-19.
+Requer, liminarmente e no mérito, a concessão da ordem a fim de que seja relaxada a prisão preventiva do paciente, com a expedição de alvará de soltura em seu favor, ainda que mediante a aplicação de medidas cautelares diversas previstas no art. 319 do CPP.
+É, no essencial, o relatório. Decido.
+Em juízo de cognição sumária, verifica-se que inexiste flagrante ilegalidade que justifique o deferimento do pleito liminar em regime de plantão, haja vista que opedido se confunde com o próprio mérito do recurso, devendo-se reservar ao órgão competente a análise mais aprofundada da matéria por ocasião do julgamento definitivo.
+Ademais, ressalte-se que "o prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. Precedentes" (AgRg no RHC n. 137.237/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/12/2020), o que torna a liminar em sede de plantão, a priori, momento inadequado ao acolhimento da alegação de excesso de prazo.
+Ante o exposto, indefiro o pedido de liminar.
+Dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
