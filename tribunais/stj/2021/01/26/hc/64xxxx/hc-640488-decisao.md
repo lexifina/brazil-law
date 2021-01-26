@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PAULO ROBERTO RIBEIRO DOS SANTOS à decisão que indeferiu liminarmente o habeas corpus, nos termos do art. 21-E, XIII, c, c/c o art. 210, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Sustenta a omissão e a contradição desta Presidência em relação aos argumentos suscitados na petição inicial dohabeas corpus, especialmente no que se refere à supressão de instância quanto ateseque não teria sido suscitada pela defesa no mandamus, bem como quanto à utilização do mesmo fundamento para não apreciar matériaque estaria expressamente pontuada no acórdão recorrido e que teria sido impugnada pela parte na impetração.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado.
+No tocante ao vício da tese que não teria sido suscitada pela defesa, não severifica nenhum dos vícios passíveis de correção via recurso integrativo.
+Isso porque, de fato, a defesa pleiteou em sua inicial "proclamar a desclassificação do art. 16, caput, da Lei n. 10.826/2003 para o art. 12 da mesma Lei, tendo em vista a vigência do Decreto Presidencial n. 9.847/2019, publicado em 25.06.2019, que ampliou a potência das armas de fogo, tornando a munição de calibre 45 de uso permitido e não mais de uso restrito "(fl. 18), não havendo discussão no aresto impetrado acerca da matéria, especialmente àluz do Decreto presidencial.
+Contudo, no tocante a alegação de atipicidade da conduta descrita no art. 16 da Lei de armas, necessita de esclarecimentos a decisão embargada.
+Com efeito, deve ser destacado que, nos termos da jurisprudência deste Sodalício a alteração das conclusões operadas na origem e que evidenciem"qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária."(AgRg no HC 559.054/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 26/05/2020, DJe 03/06/2020), de forma que não se vislumbra, em princípio, ilegalidade patente de deferimento do pleito liminar no presente momento processual, sendo adequadoremeter sua análise ao momento oportuno, qual sejado exame do mérito da impetração.
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, para indeferir a liminar pleiteada.
+Solicitem-se informações ao Tribunal de origem, que deverão ser prestadas preferencialmente por malote digital e com senha de acesso para consulta ao processo.
+Após, dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
