@@ -1,0 +1,25 @@
+HABEAS CORPUS N.o 1000887-52.2021.8.11.0000 – CLASSE CNJ 307 – COMARCA DE RONDONÓPOLIS
+IMPETRANTE: DR. ALAN SALVIANO DOS SANTOS
+PACIENTE: ADILSON DE ALMEIDA LIMA
+Vistos em Plantão Judiciário...
+Resumidamente, trata-se de habeas corpus, com pedido de concessão liminar, impetrado em favor do paciente acima identificado, contra suposto ato coator atribuído ao d. Juízo da 2a Vara Criminal da Comarca de Rondonópolis/MT, por decretar a prisão preventiva em seu desfavor no Auto de Prisão em Flagrante n.o 1001124-77.2021.8.11.0003, pelo suposto cometimento do crime tipificado no art. 171 do Código Penal.
+Contextualizando os fatos da presente impetração, o nobre causídico inicia relatando que o paciente foi preso em flagrante no dia 20/01/2021 e, por ocasião da homologação do auto flagrancial, teve o recolhimento pré-cautelar convolado em prisão preventiva, todavia, à míngua de fundamentação jurídica válida.
+Aduz, em síntese, que o decreto segregatício está lastreado na gravidade em abstrato do delito, em referência à hipotética dedicação do paciente a condutas ilícitas, bem como em argumentação genérica que guarda correspondência tão-somente com eventual materialidade e autoria delitivas, sem revelar concretamente o periculum libertatis (art. 312, CPP), tampouco a imprescindibilidade da cautelar extrema ou a insuficiência de medidas menos severas.
+Por tudo o que expõe, o impetrante requer a concessão in limine da ordem em favor do paciente, para que seja revogada a sua prisão preventiva, com a consequente expedição de alvará de soltura. No mérito, reclama a ratificação da tutela de urgência porventura deferida, concedendo-se em definitivo o writ.
+A exordial foi instruída com os documentos digitais anexados no ID 73394546 ao ID 73419460.
+Os autos do processo eletrônico foram distribuídos durante o Plantão Judiciário noturno de 25/01/2021, especificamente às 19h12min, vindo-me conclusos para decisão às 19h25min da mesma data.
+É a síntese do necessário.
+Decido.
+Constitui entendimento sedimentado no Supremo Tribunal Federal que o deferimento liminar da ordem de habeas corpus configura medida excepcionalíssima, justificada apenas quando a decisão impugnada estiver eivada de flagrante ilegalidade.
+Significa dizer que a antecipação dos efeitos da tutela exige que o direito postulado transpareça límpido e despido de qualquer incerteza [fumus boni iuris], bem como que a demora para o julgamento definitivo da causa implique perecimento ou dano grave e de difícil reparação sobre o aludido direito [periculum in mora].
+Partindo dessas premissas, e atento aos argumentos vertidos no remédio heroico, bem como à reduzida prova pré-constituída, não constato, prima facie, patente ilegalidade, teratologia ou abuso de poder aptos a ensejar a extravagante concessão liminar da ação de habeas corpus.
+Ao que se depreende da singela prova pré-constituída encartada na ação constitucional, a custódia cautelar imposta ao paciente aparentemente fez-se necessária diante do risco oferecido à ordem pública, aferida a partir de elementos de informação noticiando a recalcitrância delitiva do agente, tendo aquele d. juízo a quo referido-se às declarações do próprio investigado perante a autoridade policial, quando teria confirmado a prática habitual do crime de estelionato, a despeito de sua primariedade, assim como a fim de garantir a regularidade da instrução criminal, “diante da natureza cibernética dos delitos, cuja investigação, portanto, pode eventualmente ser prejudicada caso o autuado seja colocado em liberdade e venha, por exemplo, a apagar elementos de prova relevantes para o deslinde das ocorrências em apuração” sic ID 73394545 - Pág. 8.
+Ocorre que tal raciocínio exsurge de excertos colacionados no bojo da petição inicial, estando, portanto, desacompanhados da integralidade do título ora impugnado, inclusive do contexto da investigação preliminar, e igualmente do ato nela referido, qual seja, o interrogatório do réu, defluindo a conclusão de que o impetrante não se desincumbiu do seu ônus de evidenciar o constrangimento ilegal alardeado, descurando de juntar aos autos o decreto de prisão respectivo, tampouco anexou outros elementos de informação efetivamente relacionados à custódia do paciente, com o fito de permitir a análise quanto à adequação da medida adotada, valendo salientar que tal inércia não deve ser suprida por este juízo plantonista, cumprindo, sim, ao juiz natural a eleição da providência que entender pertinente.
+Sendo assim, assegurada a confiança depositada ao juiz da causa, porquanto mais próximo à realidade dos autos, descabe reconhecer, por ora, irregularidades processuais ou determinar que a segregação imposta ao paciente é indevida, razão pela qual estou convencido de que a antecipação dos efeitos da tutela configura medida desaconselhada.
+Destarte, INDEFIRO a tutela de urgência reclamada em prol do paciente ADILSON DE ALMEIDA LIMA.
+Com o retorno do ordinário expediente forense, distribuam-se os autos, na forma regimental.
+Intime-se o impetrante acerca do ora deliberado.
+Cumpra-se.
+Cuiabá-MT, 25 de janeiro de 2021.
+Desembargador Gilberto Giraldelli
+Relator Plantonista
