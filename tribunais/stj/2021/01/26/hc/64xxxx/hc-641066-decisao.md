@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de FRANKLIN NUNES ALVES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 70084884717).
+O paciente teve decretada contra si prisão preventiva e foi denunciadopela prática, em tese, de crimede tráfico e de associação para fins de tráfico.
+O impetrante alega, em síntese, que: (a) não há prova de autoria que relacione o ora paciente com os fatos investigados; (b) não há prova de materialidade, haja vista que não foi apreendido qualquer entorpecente com o paciente, sendo certo que ele é apenas proprietário do estabelecimento em que o corréu Felipe trabalhava; (d) a decisão que decretou a preventiva carece de fundamentação idônea, porquanto baseada na gravidade abstrata do delito; (e) não há indícios de que em liberdade o paciente venha a comprometer a instrução penal ou furtar-se à aplicação da lei penal, considerando o fato de queo paciente tem ocupação lícita, residência fixa e forte laços familiares;
+Requer, liminarmente e no mérito, que seja revogada a prisão preventiva, concedendo ao paciente liberdade provisória. Subsidiariamente pugna pela aplicação de medidas cautelares diversas da prisão.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.
+GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.
+INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto, segundo observa-se da decisão que indeferiu o pedido de liminar na origem assim o fundamentou:
+"No caso, verifica-se que a decisão que decretou a prisão preventiva,assim como a que indeferiu o pedido de liberdade,estãobem fundamentadas, não se mostrando cabível, no momento, a concessão de outras medidas cautelares diversas da segregação.Cumpre salientar que condições pessoais favoráveis não tem o condão de assegurar a liberdade postulada, ainda mais quando presentes os requisitos que autorizam a prisão preventiva, como no presente caso.Igualmente, convém ressaltar que quaisquer alegações que busquem, mesmo indiretamente, questionar ou iniciar análise da provase mostram inoportunas, dada a via eleita.Anoto, por fim, que, em matéria de prisão preventiva, deve ser observado o princípio da confiançano Juiz do processo de origem, uma vez que está presente no local onde o crime é supostamente cometido e conhece as peculiaridades do caso concreto, sendo, portanto, o melhor a avaliar a necessidade dasegregação cautelar." (Fl. 23).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
