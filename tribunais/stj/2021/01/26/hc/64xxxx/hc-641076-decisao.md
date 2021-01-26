@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de VITOR SAMUEL DIAS DE OLIVEIRAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (HC n. 5008860-60.2021.8.21.8.7000).
+O paciente encontra-se preso preventivamente desde o dia 20/01/2021, pelo cometimento, em tese, do crime de tráfico ilícito de entorpecentes.
+O impetrante sustenta que "além de não ter respeitado o prazo de 24 horas para homologação da prisão em flagrante e decreto de prisão cautelar, o que por si só, enseja o reconhecimento da nulidade da prisão decretada, verifica-se que a decisão em comento não analisou todas as circunstâncias fáticas e jurídicas do fato, apresentando, inclusive, trecho de decisão proferida em outro feito, denotando a prática de ctrl  c e ctrl  v, o que é inadmissível em um decreto prisional e/ou condenatório." (fl. 05).
+Alega, por fim, que "Ressalta-se que deve ser analisado que no presente feito não há qualquer indicativo de que a droga apreendida fosse de propriedade do Acusado, diante de sua negativa em depoimento, onde firme e coerentemente negou a prática delituosa e relatando abusos perpetrados pelos Policiais Militares, consistentes em socos, chutes, uso de "facão" e spray de pimenta (MESMO ESTANDO O ACUSADO ALGEMADO E NÃO RESISTIDO À PRISÃO), causando diversas lesões descritas pelo Requerente o que é comprovado pelas fotos anexas ao presente writ, não havendo como se utilizar apenas do prontuário médico que NUNCA atesta lesões; ou seja, não há, ainda que mínima, evidência da autoria do delito de tráfico de drogas."(fl. 12).
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva ou a aplicação de medidas cautelares diversas da prisão.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19.GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA.INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto, o Desembargador ao justificar a revogação da prisão preventiva, o fez nos seguintes termos:
+O pedido de liminar para liberação de réu ou indiciado preso provisoriamente ou outra situação penalmente restritiva é medida cautelar satisfatória. Assim sendo, só pode ser atendida, quando, pelas provas trazidas pelo impetrante, há inquestionável constrangimento ilegal para o paciente.
+Não é o caso em testilha. As questões levantadas na impetração não demonstram, de imediato, que o constrangimento do paciente é ilegal. A autoridade judicial, ao decretar a sua prisão preventiva, entendeu da necessidade, em princípio, da detenção provisória, o que, por ora, deve ser respeitado.
+Deste modo, indefiro-a (liminar). Solicitem-se informações à autoridade judicial. Após, vista ao Ministério Público (fl. 122)
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
