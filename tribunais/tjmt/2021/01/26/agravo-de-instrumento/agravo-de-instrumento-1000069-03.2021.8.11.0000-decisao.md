@@ -1,0 +1,38 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+Gabinete do Desembargador Márcio Vidal
+AGRAVO DE INSTRUMENTO N. 1000069-03.2021.8.11.0000
+AGRAVANTE: CARGILL AGRÍCOLA S. A.
+AGRAVADO: ESTADO DE MATO GROSSO
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento, com pedido de antecipação da tutela recursal, interposto pela Cargill Agrícola S.A., contra a decisão, prolatada pelo Juízo da Quarta Vara Especializada da Fazenda Pública da Comarca de Cuiabá, que, nos autos da Ação Anulatória n. 1036627-84.2017.8.11.0041, julgou parcialmente procedente o pedido cautelar antecedente, “para declarar garantida a dívida relativa ao NAI 1245810020000432011111, objeto do e-process 5011541/2011 e 5016477/2015, e garantir a expedição de certidão negativa ou positiva com efeitos negativos, nos termos do artigo 206 do CTN, em favor do autor, e indeferir a suspensão da exigibilidade do crédito tributário”, bem assim, determinou a citação do Requerido, ora Agravado, para contestar os pedidos da sobredita Ação Anulatória.
+O Agravante defendeu, em síntese, a atecnia da decisão, porque, no seu entender, não poderia ter sido externalizada por meio de uma sentença, mas, sim, por uma decisão interlocutória.
+Sustentou, ademais, quanto ao mérito do decisum, a necessidade da suspensão da exigibilidade do crédito tributário e, consequentemente, a sua exclusão do Regime Administrativo Cautelar, diante do oferecimento do seguro garantia e dos fundamentos da Ação Anulatória.
+Com essas considerações, pretendeu o deferimento da antecipação da tutela recursal, “para, tomando-se a decisão recorrida como decisão interlocutória, nos termos do CPC/15, posto não ter dado fim ao processo, seja deferido o pedido de suspensão da exigibilidade do crédito tributário, e, por conseguinte, o pedido para que a Agravante não seja incluída em regime especial e seja determinada a manutenção dos benefícios fiscais outorgados, diante da probabilidade do direito e do perigo da demora evidenciados”.
+Juntou documentos.
+É o relatório. Decido.
+Nesta fase de cognição sumária, a questão resume-se em saber se é o caso de conceder, liminarmente, a antecipação da tutela recursal pretendida, consoante a norma procedimental do artigo 1.019, inciso I, do Código de Processo Civil (Lei 13.105/2015).
+É cediço que a antecipação da pretensão recursal somente será concedida nos casos em que houver probabilidade de provimento do recurso e diante do perigo de dano ou risco ao resultado útil do processo, a teor do que dispõe o artigo 300 do CPC.
+Nessa esteira, analisando não só os fundamentos deste Recurso, como também a moldura fático-jurídica da demanda, entendo que o pleito liminar não merece deferimento, haja vista a incerteza de seu provimento.
+Com efeito, quanto à forma do ato atacado, embora a decisão tenha sido estampada por meio de uma sentença, verifico que não houve a resolução dos pedidos da Ação Anulatória do débito fiscal, mas o julgamento dos pedidos cautelares antecedentes, tanto que, após a deliberação desses pleitos, foi determinada a citação do Estado de Mato Grosso, ora Agravado, para contestar os requerimentos da Ação Anulatória, como se vê do id. n. 25119574, do feito de origem.
+Como consignou o Magistrado a quo, na decisão que decidiu os Embargos de Declaração,
+(...) conforme extrai-se dos autos, o autor iniciou a ação pedindo tutela cautelar em caráter antecedente de forma satisfativa, o que se mostra incoerente na essência do pedido, pois, sem embargos de entendimento diverso, a cautelar não tem por finalidade satisfazer a tutela definitiva.
+Não obstante, procedimento cautelar antecedente é descrito nos artigos 305 e seguintes do Código de Processo Civil.
+Na petição que iniciou o processo o autor apenas se limitou a indicar a lide a ser composta no futuro processo principal, art. 305 do CPC.
+Dando prosseguimento ao procedimento instaurado, os artigos 306 e 307 do CPC, prescreve uma fase inicial para resolver o pedido cautelar que, após a citação do réu para responder ao pedido cautelar no prazo de cinco dias, o juiz resolve o pedido cautelar.
+Dessa forma, o pedido principal apresentado não obsta a finalização do procedimento prévio instaurado, motivo pelo qual se fez necessário, nos termos do artigo 307 do CPC, o juiz resolver a questão por decisão interlocutória dando seguimento a ação, agora observando o rito comum na forma do artigo 334 do CPC, conforme disposto no artigo 308 do mesmo diploma legal.
+Ou seja, o que se fez no id 25119574 foi organizar o rito processual, resolvendo o pedido cautelar antecedente realizado, motivo pelo qual os argumentos postos não se enquadram nos pressupostos dos declaratórios. (Destaquei).
+Diante desse cenário, não obstante a divergência quanto à forma do ato atacado, extrai-se que a decisão não encerrou o processo anulatório, mas resolveu o pedido cautelar, de sorte que não verifico, a princípio, prejuízo ao Agravante, que justifique a reforma da decisão.
+Quanto ao mérito, ou seja, a necessidade de se suspender a exigibilidade do crédito tributário, e, por conseguinte, o pedido para que a Agravante não seja incluída em regime especial tributário, anoto que essa questão está sendo objeto de análise nos autos do Recurso de Agravo de Instrumento n. 1013781-02.2017.8.11.0000, da relatoria, atualmente, do Magistrado Convocado Yale Sabo Mendes, e que se encontra pendente de julgamento.
+Não obstante, na ocasião da apreciação do pedido de liminar recursal, vazado naquele Recurso de Agravo de Instrumento, fiz consignar:
+Nessa esteira, analisando não só os fundamentos deste recurso, como também os documentos e o objeto da ação de base, verifico que, in casu, não está demonstrada a probabilidade do direito invocado, uma vez que, como bem assinalado pelo Magistrado singular, a apresentação de seguro garantia não é suficiente para a suspensão da exigibilidade do crédito tributário, e, nesse sentido, obstar a inclusão da Requerente no Regime Cautelar Administrativo da Resolução SARP 07/2008, uma vez que, em conformidade com o art. 151, V, do CTN, a suspensão da exigibilidade do crédito tributário só é possível pelo depósito integral, em dinheiro, do crédito tributário discutido.
+Ante o exposto, NÃO CONCEDO a liminar pleiteada neste recurso. (id. 1457766 – RAI n. 1013781-02.2017.8.11.0000).
+Nesse contexto, parece-me, ao menos nessa fase de cognição não exauriente, que, ausente alteração do contexto fático, desde a época daquela análise, não há falar no acolhimento da tese recursal, que defende a necessidade da suspensão do crédito tributário e, consequentemente, da sua exclusão do Regime Administrativo Cautelar, pelo fato de ter sido oferecido o seguro garantia.
+De outro giro, o argumento de ser insubsistente o sobredito NAI, conforme a fundamentação externada no aditamento que deu origem à Ação Anulatória, demanda melhor aferição após a análise das provas, que serão levadas a efeito na instrução processual na instância de piso, de sorte que o reconhecimento da ilegalidade da autuação, nesse momento processual, como quer o Recorrente, afigura-se prematuro e temerário.
+Desse modo, tenho que a decisão invectivada merece ser mantida, de sorte que não verifico, em cognição sumária, a probabilidade do provimento do presente Recurso.
+Ante o exposto, NÃO CONCEDO a antecipação da tutela recursal, pleiteada pela Cargill Agrícola S.A.
+Intime-se a parte Agravada para contraminutar o Recurso, facultando-lhe juntar a documentação que entender necessária para o julgamento do Agravo.
+Após, colha-se o parecer da Procuradoria-Geral da Justiça.
+Intimem-se e cumpra-se.
+Cuiabá/MT, 25 de janeiro de 2.021.
+Des. Márcio VIDAL,
+Relator.
