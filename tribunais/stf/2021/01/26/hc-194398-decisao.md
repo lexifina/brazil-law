@@ -1,0 +1,28 @@
+Decisão: Trata-se de habeas corpus com pedido de medida liminar, impetrado por Renato Da Costa Garcia, em favor de Gabriel Henrique Araújo Da Silva , contra decisão proferida pelo Ministro Reynaldo Soares Da Fonseca do Superior Tribunal de Justiça (STJ), que negou provimento ao HC 620.896/SP.
+    Consta dos autos que o paciente se encontra preso preventivamente, pela suposta prática do crime de homicídio qualificado, desde 8/8/2017.
+    Irresignada, a defesa impetrou habeas corpus no TJSP e no STJ, alegando, em, suma, excesso de prazo para formação da culpa, pois o acusado encontra-se preso há mais de 3 anos e 2 meses, sem que tenha havido o seu julgamento perante o Egrégio Tribunal do Júri.
+    Ademais, afirma que a pandemia de covid-19 faz com que não haja perspectiva para julgamento do réu neste ano.
+    Ambos foram denegados. (eDOC 21 e 22)
+    Neste writ, a impetrante reitera os pedidos pretéritos e reconhece ainda a necessidade de interposição de agravo regimental junto ao STJ para que fosse possível a presente impugnação.
+    É o relatório.
+    Passo a decidir.
+    No caso, novamente destaco que a decisão impugnada do STJ é monocrática e não houve a interposição de agravo regimental. No ponto, registro que, na Turma, tenho-me posicionado, juntamente com Sua Excelência o Ministro Celso de Mello, no sentido da possibilidade de conhecimento do habeas corpus em casos idênticos.
+    Ocorre que a Segunda Turma já se posicionou no sentido de não conhecer dos writs (HC 119.115/MG, Rel. Ministro Ricardo Lewandowski, sessão de 6.11.2013), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, inciso II, a , da Constituição Federal.
+    No mesmo sentido, já havia se firmado o entendimento da Primeira Turma desta Corte. A esse propósito, cito: RHC 111.935/DF, Rel. Min. Luiz Fux, DJe 30.9.2013; RHC 111.639/DF, Rel. Min. Dias Toffoli, DJe 30.3.2012; e RHC 108.877/SP, Rel. Min. Cármen Lúcia, DJe 19.10.2011.
+    Contudo, ressalte-se que, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    No entanto, não vislumbro constrangimento ilegal manifesto a justificar excepcional conhecimento deste HC.
+    Isso porque a prisão do acusado estaria lastreada, sobretudo, na gravidade concreta do delito.
+    Ademais, no que concerne à alegação de excesso de prazo apontado pela defesa, também não verifico possibilidade de acolhimento.
+    Ressalto que, em tais casos, o STF tem deferido ordem de habeas corpus somente em hipóteses excepcionais, nas quais a mora processual: a) seja decorrência exclusiva de diligências suscitadas pela atuação da acusação (cf.: HC 85.400/PE, rel. Min. Eros Grau, 1ª Turma, unânime, DJ 11.3.2005; e HC 89.196/BA, rel. Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 16.2.2007); b) resulte da inércia do próprio aparato judicial em atendimento ao princípio da razoável duração do processo, nos termos do art. 5º, LXXVIII (cf.: HC 85.237/DF, Pleno, unânime, rel. Min. Celso de Mello, DJ 29.4.2005; HC 85.068/RJ, rel. Min. Sepúlveda Pertence, 1ª Turma, unânime, DJ 3.6.2005;); e, por fim, c) seja incompatível com o princípio da razoabilidade (cf.: HC 84.931/CE, rel. Min. Cezar Peluso, 1ª Turma, unânime, DJ 16.12.2005), ou, quando o excesso de prazo seja gritante (cf.: HC 81.149/RJ, rel. Min. Ilmar Galvão, 1ª Turma, unânime, DJ 5.4.2002; RHC 83.177/PI, rel. Min. Nelson Jobim, 2ª Turma, unânime, DJ 19.3.2004).
+    É certo que a inserção do inciso LXXVIII ao art. 5º da CF refletiu o anseio de toda a sociedade de obter resposta para solução dos conflitos de forma célere, pois a demora na prestação jurisdicional constitui verdadeira negação de justiça.
+    Por outro lado, não se pode imaginar ação penal em que o provimento seja imediato. É característica de todo processo durar, não ser instantâneo ou momentâneo, prolongar-se. O processo implica sempre um desenvolvimento sucessivo de atos no tempo.
+    Sobre o tema, registro, ainda, que é firme o entendimento deste Supremo Tribunal Federal no sentido de que somente o excesso indevido de prazo imputável ao aparelho judiciário traduz situação anômala que compromete a efetividade do processo, além de tornar evidente o desprezo estatal pela liberdade (HC 85.237-DF, rel. Min. Celso de Mello, Tribunal Pleno, DJ 29.4.2005).
+    Como ressaltou o STJ, o processo penal segue o trâmite normal, haja vista as peculiaridades do caso concreto e a situação excepcional enfrentada com a pandemia de COVID-19.
+    Nesse passo, não há se falar em não configuração, na espécie, de nenhuma das hipóteses autorizadoras da prisão preventiva, porquanto a custódia cautelar desponta imprescindível, independente de suas condições pessoais, não só para a garantia da ordem pública, mas também por conveniência da instrução criminal e, ainda, para assegurar a aplicação da lei penal, nos termos do artigo 312, caput, do Código de Processo Penal, pelos motivos relacionados pela autoridade impetrada, não podendo dar lugar, consequentemente, a nenhuma das medidas cautelares alternativas à prisão preventiva ou à liberdade provisória, que, no caso, se revelam inadequadas e insuficientes.
+    Feitas essas considerações, ressalvo a minha posição pessoal, mas, em homenagem ao princípio do colegiado, adoto a orientação no sentido de não conhecer do presente HC.
+    Ante o exposto, nego seguimento ao habeas corpus, por ser manifestamente incabível (artigo 21, § 1º, do RI/STF).
+    Publique-se.
+    Brasília, 26 de janeiro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
