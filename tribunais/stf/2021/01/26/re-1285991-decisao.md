@@ -1,0 +1,23 @@
+Decisão
+    Trata-se de Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (Vol. 9):
+    “EMENTA: Locação de imóvel - Cumprimento de sentença.
+    1. Penhora de bem de família do fiador - Admissibilidade - Questão pacificada nas Cortes Superior e Suprema em recursos julgados sob o regime de repetitivo e repercussão geral, respectivamente - Recurso Extraordinário recentemente julgado em sentido inverso - Irrelevância - Matéria que não foi novamente afetada e atualmente controvertida naquela Corte - Indeferimento do pedido.
+    2. Gratuidade de justiça Pessoa física - Declaração de pobreza - Presunção de veracidade corroborada por documentos acostados aos autos - Deferimento do benefício - Efeitos “ex nunc”.
+    3. Agravo parcialmente provido”.
+    Opostos Embargos de Declaração, foram rejeitados (Vol. 13).
+    No apelo extremo (Vol. 16), interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que o acórdão recorrido “violou os princípios da dignidade da pessoa humana, proteção à família e da proteção da moradia face à alienação forçada de bem de família de fiador, oriundo de contrato de locação comercial” (fl. 34, Vol. 16). Aduz que o inciso VII do artigo 3º da Lei 8.009/1990, que prevê a possibilidade de penhora do bem de família por obrigação decorrente de fiança concedida em contrato de locação, não foi recepcionado pela Emenda Constitucional 26/2000, que introduziu a moradia no rol de direito fundamentais. Assevera que no julgamento do RE 605.709/SP, DJe de 18/2/2019, de relatoria do Min. DIAS TOFFOLI, redatora para acórdão a Min. ROSA WEBER, afastou a penhora de bem objeto de contrato de locação comercial.
+    É o relatório. Decido.
+    Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+    A obrigação do recorrente de apresentar, formal e motivadamente, a repercussão geral que demonstre, sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional, legal e regimental (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do Código de Processo Civil de 2015 e art. 327, § 1º, do Regimento Interno do Supremo Tribunal Federal), não se confunde com meras invocações, desacompanhadas de sólidos fundamentos e de demonstração dos requisitos no caso concreto, de que (a) o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico; (b) a matéria não interessa única e simplesmente às partes envolvidas na lide; ou, ainda, de que (c) a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras alegações de igual patamar argumentativo (ARE 691.595-AgR, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 25/2/2013; ARE 696.347-AgR-segundo, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 14/2/2013; ARE 696.263-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 19/2/2013; AI 717.821-AgR, Rel. Min. JOAQUIM BARBOSA, Segunda Turma, DJe de 13/8/2012).
+    Não havendo demonstração fundamentada da presença de repercussão geral, incabível o seguimento do Recurso Extraordinário.
+    De outro lado, o Plenário do SUPREMO TRIBUNAL FEDERAL, no julgamento do RE 612.360-RG (Rel. Min. ELLEN GRACIE, Tema 295), fixou a seguinte tese:
+    “É constitucional a penhora de bem de família pertencente a fiador de contrato de locação, em virtude da compatibilidade da exceção prevista no art. 3°, VII, da Lei 8.009/1990 com o direito à moradia consagrado no art. 6° da Constituição Federal, com redação da EC 26/2000.”
+    Veja-se a ementa do referido julgado:
+    “CONSTITUCIONALIDADE DA PENHORA DO BEM DE FAMÍLIA DO FIADOR. RATIFICAÇÃO DA JURISPRUDÊNCIA FIRMADA POR ESTA SUPREMA CORTE. EXISTÊNCIA DE REPERCUSSÃO GERAL.” (Tribunal Pleno, DJe de 03/09/2010)
+    O acórdão recorrido observou esse entendimento, razão pela qual merece ser mantido.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.
+    Publique-se.
+    Brasília, 26 de janeiro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
