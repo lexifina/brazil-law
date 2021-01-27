@@ -1,0 +1,12 @@
+Mandado de segurança. Tribunal de Contas da União. Glosa de “opção” (art. 193 da Lei nº 8112/90) em proventos de aposentadoria. Suposta violação da ampla defesa. Questão fática controvertida. Alegação de impossibilidade de alteração de entendimento administrativo. Caracterização de ato complexo em relação à homologação de aposentadoria. Art. 14 c.c. Art. 13, VIII, do RISTF. Situação de urgência não identificada.
+    Vistos etc.
+    Trata-se de mandado de segurança, com pedido de liminar, impetrado por Daisy da Silva Floro Souza contra ato praticado pelo Tribunal de Contas da União, por meio do qual suprimida parcela denominada “opção” (art. 193 da Lei nº 8112/90) de seus proventos de aposentadoria (Acórdão nº 6102/2020-TCU, Processo TC nº 028975/2019-7).
+    Sustenta ocorrência de violação da ampla defesa, pois desrespeitado pedido expresso de intimação por e-mail a respeito da sessão de julgamento, assim como ignorado pleito de realização de sustentação oral, prerrogativas que reputa asseguradas pela Lei nº 9784/99. Afirma, ainda, inviabilidade de aplicação retroativa de alteração de entendimento administrativo, à consideração de que o ato inicial de concessão de aposentadoria aplicou posicionamento então vigente no próprio TCU, assim como a legalidade da manutenção da “opção” expurgada.
+    A respeito do periculum in mora, aduz que já se encontra, neste mês, a sofrer o desconto da parcela controversa, além de lhe ser imposta obrigação de devolução de valores retroativos.
+    Os autos (distribuídos ao Ministro Luís Roberto Barroso) vieram a mim conclusos nesta data, 27.01.2021 (art. 14 do RISTF).
+    A disciplina processual aplicável aos processos do Tribunal de Contas da União segue regramento próprio, ao qual deve atentar o advogado constituído nos autos administrativos. No caso, há controvérsia fática a respeito da existência de notificação tempestiva para exercício de sustentação oral (doc. 16). Além disso, o ato de aposentadoria é complexo, só se perfazendo após análise dos aspectos formais e materiais da concessão inicial pelo TCU. Por fim, não houve demonstração do alegado desconto retroativo, supostamente a incidir já no presente mês de janeiro. Assim, o presente caso não se amolda à hipótese prevista no art. 13, VIII, do Regimento Interno deste Supremo Tribunal Federal.
+    Findo o recesso, encaminhem-se os autos ao Ministro Luís Roberto Barroso, a quem distribuído o feito (doc. 30).
+    Publique-se.
+    Brasília, 27 de janeiro de 2021.
+Ministra Rosa Weber
+Vice-Presidente (no exercício da Presidência)
