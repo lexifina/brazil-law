@@ -1,0 +1,16 @@
+DECISÃO
+RECLAMAÇÃO – COMPETÊNCIA DO SUPREMO – USURPAÇÃO – LIMINAR – DEFERIMENTO.
+    1. O assessor Eduardo Lasmar Prado Lopes prestou as seguintes informações:
+    A União afirma haver a Sétima Turma do Tribunal Superior do Trabalho, no recurso de revista nº 555-08.2018.5.23.0006, usurpado a competência do Supremo e olvidado o decidido, sob a sistemática da repercussão geral, no recurso extraordinário nº 760.931, e na ação declaratória de constitucionalidade nº 16.
+    Narra estar em debate, no recurso de revista, a responsabilidade subsidiária da Administração Pública observados encargos trabalhistas devidos a empregado de prestadora de serviços, considerada a terceirização de mão de obra. Ante a atribuição, ao Poder Público, de obrigação subsidiária, menciona a formalização de recurso de revista, inadmitido, em virtude da ausência de transcendência da questão, surgindo o descompasso.
+    Destaca atendido o requisito atinente ao prévio esgotamento das instâncias ordinárias, tendo em conta a irrecorribilidade da decisão reclamada. Sustenta inobservada a competência deste Tribunal, uma vez assentada a falta de transcendência de matéria em relação à qual o Supremo admitiu configurada a repercussão maior no recurso extraordinário nº 760.931, de modo a impedir a interposição de extraordinário neste caso. Diz proclamada, na declaratória de nº 16, a validade do artigo 71, § 1º, da Lei nº 8.666/1993. Salienta fixada tese, no extraordinário de nº 760.931, a revelar que o inadimplemento de encargos trabalhistas dos empregados do contratado não implica transferência automática de responsabilidade ao Poder Público contratante, em caráter solidário ou subsidiário. Evoca jurisprudência.
+    Requer, no campo precário e efêmero, a suspensão imediata dos efeitos do ato. Busca, alfim, a cassação.
+    2. Da leitura da decisão impugnada, proferida em 18 de novembro de 2020, depreende-se, a despeito de assentada a ausência de transcendência da matéria veiculada, em jogo discussão sobre a imposição de responsabilidade ao Poder Público observados créditos de empregado de prestadora de serviços ante falha na fiscalização do contrato de terceirização.
+    O Pleno, em 24 de novembro de 2010, julgou procedente o pedido formulado na ação declaratória de constitucionalidade nº 16 e proclamou a harmonia, com a Constituição Federal, do § 1º do artigo 71 da Lei nº 8.666/1993, no que excluída a atribuição, automaticamente, de responsabilidade subsidiária à tomadora dos serviços, à Administração Pública. Em 30 de março de 2017, reiterou a óptica, ao concluir, sob o ângulo da repercussão geral, a apreciação do extraordinário de nº 760.931.
+    Ao assentar a falta de transcendência do tema mediante decisão dita irrecorrível, o Tribunal Superior do Trabalho, além de desconsiderar a envergadura maior da controvérsia, impediu a sequência do processo originário, de forma a ver submetida a lide, com questão constitucional, ao Supremo.
+    3. Defiro a liminar, para suspender a eficácia da decisão prolatada pelo Tribunal Superior do Trabalho, em 18 de novembro de 2020, no recurso de revista nº 555-08.2018.5.23.0006.
+    4. Citem o interessado e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 27 de janeiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
