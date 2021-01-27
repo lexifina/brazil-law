@@ -1,0 +1,15 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+GABINETE DO DES. PAULO DA CUNHA
+GABINETE DO DES. PAULO DA CUNHA
+REVISÃO CRIMINAL (12394) 1000152-19.2021.8.11.0000
+REQUERENTE: MIRO ARCANGELO GONCALVES DE JESUS
+REQUERIDO: MINISTERIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos,
+À Procuradoria-Geral de Justiça, para parecer.
+Após, voltem-me os autos conclusos.
+Cumpra-se.
+Cuiabá, data da assinatura digital.
+Desembargador Paulo da Cunha,
+Relator.
