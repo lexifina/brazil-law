@@ -1,0 +1,13 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – INVIABILIDADE – PROCEDIMENTO DE REGISTRO DE PARTIDO POLÍTICO – ARTIGO 102, INCISO III, DA CARTA FEDERAL – AGRAVO – DESPROVIMENTO.
+    1. Na espécie, não se trata de recurso extraordinário contra ato judicial que haja resultado no julgamento da causa. O recurso extraordinário foi interposto em face de decisão proferida em procedimento de registro de partido político, não caracterizando julgamento de causa. Confiram com a seguinte ementa:
+    RECURSO EXTRAORDINÁRIO - REGISTRO PARTIDÁRIO - RECUSA DE REGISTRO DEFINITIVO PELO TRIBUNAL SUPERIOR ELEITORAL - PROCEDIMENTO DE CARÁTER MATERIALMENTE ADMINISTRATIVO - INEXISTÊNCIA DE CAUSA - INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO - AGRAVO IMPROVIDO.
+    São impugnáveis na via recursal extraordinária apenas as decisões finais proferidas no âmbito de procedimento judicial que se ajuste ao conceito de causa (CF, art. 102, III). A existência de uma causa - que atua como inafastável pressuposto de índole constitucional inerente ao recurso extraordinário - constitui requisito formal de admissibilidade do próprio apelo extremo. A locução constitucional "causa" designa, na abrangência de seu sentido conceitual, todo e qualquer procedimento em cujo âmbito o Poder Judiciário, desempenhando sua função institucional tipica, pratica atos de conteúdo estritamente jurisdicional. Doutrina e jurisprudência.
+    O procedimento de registro partidário, embora formalmente instaurado perante órgão do Poder Judiciário (Tribunal Superior Eleitoral), reveste-se de natureza materialmente administrativa. Destina-se a permitir ao TSE a verificação dos requisitos constitucionais e legais que, atendidos pelo Partido Político, legitimarão a outorga de plena capacidade jurídico-eleitoral a agremiação partidária interessada. A natureza jurídico-administrativa do procedimento de registro partidário impede que este se qualifique como causa para efeito de impugnação, pela via recursal extraordinária, da decisão nele proferida.
+    (agravo regimental no recurso extraordinário nº 164.458, Pleno, relator o ministro Celso de Mello, publicado no Diário da Justiça de 2 de junho de 1995)
+    Assim, o extraordinário não se enquadra no permissivo do inciso III do artigo 102 da Constituição Federal, que estabelece a competência do Supremo para examinar, mediante o citado recurso, as causas decididas em única ou última instância, quando o pronunciamento recorrido contrariar dispositivo constitucional, declarar a inconstitucionalidade de tratado ou lei federal ou, ainda, julgar válida lei ou ato de governo local contestado em face da Carta da República.
+    2. Conheço e desprovejo o agravo.
+    3. Publiquem.
+Brasília, 27 de janeiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
