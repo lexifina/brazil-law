@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de DANILO CORREIA MINHARROem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0007592-22.2020.8.26.0996).
+O paciente obteve a progressão para o regime semiaberto. O Ministério Público interpôs agravo em execução, que foi provido para cassar a decisão que deferiu a progressão,determinandoa realização de novo cálculo de penas, considerando-se como data base para a progressão ao regime aberto, aquela em que preencheu os dois requisitos necessários para a progressão ao regime intermediário, objetivo e subjetivo.
+A impetrante sustenta quenão se pode considerar observado o cumprimento do requisito subjetivo tão somente após a realização do exame criminológico, afirmando que referido exametem natureza meramente declaratória.
+Aduz queexame teria sido concluídosomente em 20 de fevereiro de 2020, embora o requisito objetivo que motivou a declaração da data-base tenha ocorrido em 28 de abril de 2018.
+Requer, liminarmente e no mérito, a concessão da ordem paraestabelecer que a data-base para fins de cálculo de progressão ao regime aberto corresponda ao dia do cumprimento do requisito objetivo para o ingresso no regime semiaberto, independentemente do dia em que realizado o exame criminológico, haja vista a natureza declaratória do correspondente decisum e do exame criminológico.
+É, no essencial, o relatório. Decido.
+Em juízo de cognição sumária, verifica-se que inexiste flagrante ilegalidade que justifique o deferimento do pleito liminar em regime de plantão, porquanto o entendimentoda Corte de origem possui fundamentação no seguinte sentido (e-STJ fls. 73/74):
+"E na espécie, muito embora tenha esta Relatoria, até recentemente, adotado entendimento contrário quanto ao tema, no sentido de que a decisão de concessão da progressão de regime tem natureza constitutiva, há que se acolher o decidido no Incidente de Resolução de Demandas Repetitivas nº 2103746-20.2018.8.26.0000, da Comarca de São Paulo, julgado pela Turma Especial Criminal deste Tribunal de Justiça, pelo qual, todavia, a decisão proferida pela maioria, admitido o incidente, foi no sentido de recepção da natureza declaratóriada decisão concessiva de progressão, observando-se como marco inicial para a progressão a data em que o condenado preencheu tanto o requisito objetivo, quanto o subjetivo, para tal fim."
+Assim, considerando que o pedido se confunde com o próprio mérito da impetração, deve-se reservar ao órgão competente a análise mais aprofundada da matéria por ocasião do julgamento definitivo.
+Ante o exposto, indefiro o pedido de liminar.
+Solicitem-se informações ao Tribunal de origem, que deverão ser prestadas preferencialmente por malote digital e com senha de acesso para consulta ao processo.
+Dê-se vista ao Ministério Público Federal.
+Publique-se. Intimem-se.
