@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de ALISON VICENTE PEREIRA E OUTROS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA(HC n.5046311-23.2020.8.24.0000).
+Do que se depreende dos autos, os pacientes foram denunciados em 29/01/2020,como incursos nos arts. 2º, § 2º e § 4º, inciso I, da Lei n. 12.850/2013, e33, caput, da Lei n. 11.343/2006, sendo o terceiro paciente apenas pelo primeiro delito, tendo a inicial acusatória sido recebida em 21/02/2020.
+Impetrado prévio writ na origem, a ordemfoi denegada.
+Os impetrantes sustentam que haveria abuso de autoridade por parte do magistrado singular que ainda não teria se manifestado em relação à determinação do Tribunal de origem, acerca da necessidade de reanálise dos fundamentos da prisão decretada em desfavor dos pacientes, nos termos do art. 316 do CPP, de forma que a segregação deveria ser desconstituída.
+Requerem, liminarmente e no mérito, seja expedido alvará de soltura em favor dos pacientes.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE QUASE 3kg DE MACONHA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO.SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi decretada em razão da periculosidade social do agravante, evidenciada a partir das circunstâncias concretas colhidas do flagrante, notadamente pela apreensão de expressiva quantidade de droga - quase 3kg de maconha.Precedentes. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.
+(AgRg no HC 629.203/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto, nos termos do explicitado pelo Desembargador relator ao indeferir o pleito liminar "em análise perfunctória dos documentos carreados ao remédio constitucional, verifica-se, em sede de liminar, ao menos, que não há ilegalidade no ato vergastado. Ademais, a liminar requerida se confunde com o próprio mérito da impetração, obstando o Relator de, nesta fase de cognição sumária, deferir a medida, pois implicaria antecipação da prestação jurisdicional de competência exclusiva do órgão colegiado, no exercício de sua prerrogativa constitucional. Desse modo, os fundamentos do pedido não permitem a verificação, de plano, do constrangimento ilegal apontado, pelo que se afigura prudente aguardar as informações da apontada autoridade coatora e o parecer da Procuradoria-Geral de Justiça, para então encaminhar a questão controvertida à apreciação do órgão colegiado" (fl.8).
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
