@@ -1,0 +1,67 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento no 1017343-14.2020.8.11.0000
+RECORRENTE: RODOLIDER TRANSPORTES RODOVIARIOS DE CARGAS LTDA
+RECORRIDO: OLIVO & ZANDONADI ADVOGADOS ASSOCIADOS
+Vistos.
+Trata-se de Recurso Especial (ID 68435487) interposto por com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado (ID 57638479):
+AGRAVO DE INSTRUMENTO – AÇÃO DE EXECUÇÃO – EMBARGOS À EXECUÇÃO RECEBIDOS COM EFEITO SUSPENSIVO – IMPOSSIBILIDADE – AUSÊNCIA DE SEGURANÇA DO JUÍZO – CPC, ART. 919, §1o - EXECUÇÃO NÃO GARANTIDA – BEM IMÓVEL NOMEADO À PENHORA DE VALOR INSUFICIENTE PARA A GARANTIA DA DÍVIDA – EXECUÇÃO QUE SE PROCESSA NO INTERESSE DO CREDOR – DECISÃO REFORMADA – AGRAVO PROVIDO. “Consoante posicionamento desta Corte Superior, é lícita a recusa de bens indicados à penhora pelo devedor, porquanto a execução é feita no interesse do credor. Precedentes. (...)” (STJ - AgRg no AgRg no AREsp 634.814/CE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/06/2017, DJe 14/06/2017). (AI no 1012755-61.2020.8.11.0000, Primeira Câmara de Direito Privado, Rel. Des. João Ferreira Filho, julgado em 20.09.2020).
+Opostos Embargos de Declaração (ID), estes foram rejeitados no acórdão de ID 64489472.
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de Agravo de Instrumento, aviado por OLIVO & ZANDONADI ADVOGADOS ASSOCIADOS, que reformou a decisão proferida pelo Juízo da 8a vara cível da Comarca de Cuiabá /MT, para cassar o efeito suspensivo aos embargos à execução, ante a insuficiência de bens para garantia da dívida e determinar o regular prosseguimento da execução.
+O Recorrente alega que o órgão fracionário deste tribunal incorreu em violação aos artigos 8o, 835 § 1o do Código de Processo Civil e à Súmula 417 do Superior Tribunal de Justiça, fulcrado dos seguintes argumentos (a) ferimento ao princípio da menor onerosidade ao devedor; (b) o juiz pode alterar a ordem de penhora prevista no caput do artigo 835 de acordo com as circunstâncias do caso concreto; (c) o bem dado em garantia era suficiente para pagamento da dívida; (d) na execução civil, a penhora de dinheiro na ordem de nomeação de bens não tem caráter absoluto.
+Por fim, sustenta o Recorrente que o órgão fracionário deste tribunal conferiu interpretação divergente ao tema que o dado por outros tribunais, trazendo acórdãos de ID 68435489 e ID 68435490 objetivando comprovar o dissídio.
+Recurso tempestivo (ID 68450951) e preparado (ID 68446989).
+Com contrarrazões (ID 73188462).
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2 - Violação aos artigos 835 §1o e 8o do CPC. Ausência de prequestionamento e análise de fatos e provas - Súmulas no 211 e 07 do STJ.
+Com o objetivo de evitar a supressão de Instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 211/STJ, segundo a qual é “inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo”.
+Saliente-se, ainda, que nos termos do artigo 1.025 do CPC, “consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade”.
+No entanto, segundo a jurisprudência do Superior Tribunal de Justiça, na hipótese de a questão controvertida não ter sido abordada no aresto impugnado, e a parte recorrente ter suscitado a matéria nas razões dos Embargos de Declaração, por si só, tal fato não implica em prequestionamento ficto.
+Isso porque, a Corte Superior já firmou o entendimento no sentido de que “a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO.INSURGÊNCIA DA AUTORA.
+1. A ausência de enfrentamento da matéria inserta nos dispositivos apontados como violados pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+1.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+2. O Tribunal a quo, com base no conjunto fático e probatório carreado aos autos, entendeu que o episódio narrado nos autos não gerou dano moral indenizável. A alteração de tais conclusões demanda a incursão nas questões de fato e de prova dos autos, inadmissível por esta via especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido”. (AgInt no AREsp 1711642/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/11/2020, DJe 04/12/2020). (g.n.)
+Dessa forma, a Recorrente assevera que o órgão fracionário deste tribunal não observou, ao cassar o efeito suspensivo dos embargos à execução, que a ordem de penhora não é absoluta, posto que vigora no ordenamento jurídico o princípio da menor onerosidade ao devedor.
+No entanto, as questões não foram abordadas pelo acórdão impugnado, e, embora tenham sido opostos Embargos de Declaração, para o prequestionamento destes dispositivos legais, não houve alegação de violação ao artigo 1.022 do CPC, situação que obsta o seu exame pelo Superior Tribunal de Justiça e impede a admissão do recurso, ante a incidência da Súmula 211/STJ.
+Para ilustrar:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PENHORA. BEM OFERTADO. ORDEM LEGAL. INOBSERVÂNCIA. RECUSA. POSSIBILIDADE.CONSTRIÇÃO ON LINE. BACENJUD. ESGOTAMENTO DE DILIGÊNCIA. DESNECESSIDADE. PREQUESTIONAMENTO. AUSÊNCIA. PRINCÍPIO DA MENOR ONEROSIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Em execução fiscal, o ente exequente pode recusar a nomeação de bem oferecido à penhora, quando fundada na inobservância da ordem legal, prevista no art. 11 da Lei n. 6.830/1980, não havendo que se falar em ofensa ao princípio da menor onerosidade.
+3. Segundo orientação do Superior Tribunal de Justiça, apresenta-se "desnecessário o esgotamento das diligências na busca de bens a serem penhorados, a fim de autorizar-se a penhora on-line (sistemas Bacen-jud, Renajud ou Infojud), em execução civil ou fiscal, após o advento da Lei n. 11.382/2006, com vigência a partir de 21/01/2007" (AREsp 1.528.536/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 19/11/2019, DJe 19/12/2019).
+4. A tese vinculada ao disposto nos arts. 8o, 9o, 10 e 805 do CPC/2015 não foi prequestionada, não obstante a oposição de embargos de declaração, o que atrai a incidência do óbice da Súmula 211 do STJ na espécie, não havendo que falar em prequestionamento implícito.
+5. O exame da alegada violação do princípio da menor onerosidade, da idoneidade e da viabilidade do bem oferecido à penhora demandaria, na hipótese, reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp 1571886/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020).
+Por outro giro, é importante registrar que ainda que superado o óbice do prequestionamento, as questões vinculadas no apelo extremo, a respeito da viabilidade do bem oferecido a penhora, demandaria inconteste revolvimento da matéria fática, encontrado óbice na Súmula 07 do STJ.
+A respeito, colaciono o seguinte aresto:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. PENHORA DE DINHEIRO. POSSIBILIDADE. USURPAÇÃO DE COMPETÊNCIA POR PARTE DO TRIBUNAL DE ORIGEM AO PROFERIR DECISÃO DE ADMISSIBILIDADE.AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS. INCIDÊNCIA DA SÚMULA 211 DO STJ. PENHORA DE VALORES EM CONTA-CORRENTE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. POSSIBILIDADE. ENTENDIMENTO DESTA CORTE SUPERIOR. PRECEDENTES.
+1. Não há falar em usurpação de competência do Superior Tribunal de Justiça ou em ausência da análise dos pressupostos processuais, sob o argumento de que houve ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, porquanto constitui atribuição do Tribunal a quo, nessa fase processual, examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia, a teor da Súmula 123 do STJ.
+2. Da leitura do v. acórdão recorrido, verifica-se que o Tribunal de origem, a despeito da oposição dos embargos de declaração, não analisou a questão sob o enfoque dos arts. 1o, 3o, II, 35, I, c, 40 e 43, caput, e parágrafo único, da Lei no 6.435/77, 3o da LC 108/2001, 1o, 7o, 9o, 18, §§ 2o e 3o, e 19 da LC 109/2001 e ao artigo 37 do Decreto 4.206/2002, tendo em vista que a questão foi decidida com base em outros fundamentos, dissociados de tais dispositivos. Incidência da Súmula 211 do STJ.
+3. Diante do quadro fático delineado pelas instâncias ordinárias, é inviável, na via estreita do recurso especial, discutir-se acerca da menor onerosidade da penhora para o executado, da suficiência dos bens nomeados, bem como da existência de outros bens passíveis de constrição, tendo em vista o óbice da Súmula 7/STJ.
+4. Além disso, o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que "é possível a penhora sobre dinheiro depositado em conta bancária de titularidade de pessoa jurídica, sem que haja afronta ao princípio da menor onerosidade da execução disposto no art. 620 da Norma Processual (REsp nos 528.227/RJ e 390.116/SP)" (AgRg no Ag 1.123.556/RS, Rel. Min. LUIS FELIPE SALOMÃO, Quarta Turma, DJe de 28/9/2009).
+5. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1284772/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/05/2013, DJe 11/06/2013)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por faltar o requisito do prequestionamento e demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
