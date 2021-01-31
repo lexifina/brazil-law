@@ -1,0 +1,48 @@
+Proc. 1029131-22.2020.8.11.0001
+EMENTA - DECISÃO MONOCRÁTICA
+RECURSO INOMINADO. NEGATIVAÇÃO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. NEGATIVA DE RELAÇÃO JURÍDICA. AUSÊNCIA DE PROVA DA ORIGEM DO DÉBITO. DANO MORAL “IN RÉ IPSA”. PEDIDO DE MAJORAÇÃO. VALOR DA INDENIZAÇÃO FIXADO NOS CRITÉRIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. MANUTENÇÃO. DECISÃO MONOCRÁTICA ART. 932, IV, “a” DO CPC. NEGADO PROVIMENTO AO RECURSO.
+Considera-se que a negativação do nome da parte autora nos órgãos de proteção ao crédito ocorreu de forma indevida, se esta nega a existência de relação jurídica e a credora não comprova o vínculo contratual.
+A negativação indevida em órgãos de proteção ao crédito gera dano moral “in re ipsa”.
+Mantem-se o valor da indenização a título de dano moral, se fixada nos parâmetros da razoabilidade e da proporcionalidade.
+Decisão monocrática em face ao disposto no art. 932, IV, “a”, do Código de Processo Civil, no Enunciado 102 do FONAJE - Fórum Nacional dos Juizados Especiais e Súmula 01 da Turma Recursal Única de Mato Grosso.
+Recurso a que se nega o provimento.
+DECISÃO MONOCRÁTICA
+Vistos etc.
+Dispensado o relatório em face ao disposto no art. no 46 da Lei no 9.099 de 26 de setembro de 1995.
+Trata-se de recurso inominado intentado contra a sentença que apresentou a seguinte parte dispositiva:
+“Ante o exposto, com fulcro no art. 487, I do CPC c.c. art. 6o e 20 da Lei no. 9.099/95, julgo PARCIALMENTE PROCEDENTES os pedidos da inicial para:
+a) DECLARAR a inexistência do débito discutido nos autos, no valor de R$ 201,13 (duzentos e um reais e treze centavos);
+b) CONDENAR a Reclamada ao pagamento de indenização por danos morais, no valor de R$ 2.000,00 (dois mil reais), com juros de mora de 1% ao mês, a partir do evento danoso e correção monetária (INPC) a partir desta data (súmula 362 do STJ).”.
+A parte Reclamante interpôs recurso visando a majoração do valor da condenação a título de dano moral.
+A parte Recorrida não conseguiu comprovar neste feito a origem do débito para justificar a negativação do nome da parte Recorrente nos órgãos de proteção ao crédito, por débito, em tese, indevido, no valor de R$ 201,13, fato que configura falha na prestação do serviço e gera a obrigação de indenizar a título de dano moral.
+Deste modo, entendo que a inclusão do nome da parte Recorrente no cadastro do banco de dados dos serviços de proteção ao crédito, configura falha na prestação do serviço e gera a obrigação de indenizar a titulo de dano moral, na modalidade “in re ipsa”.
+A jurisprudência de nossos tribunais, inclusive do Colendo Superior Tribunal de Justiça é pacífica no sentido de que a negativação indevida em cadastros de maus pagadores gera dano moral presumido - in re ipsa -, não sendo necessária, portanto, a prova do prejuízo.
+"Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica." (STJ - REsp 1059663⁄MS, Rel. Min. NANCY ANDRIGHI, DJe 17⁄12⁄2008).
+“A inscrição/manutenção indevida do nome do consumidor em cadastro de inadimplentes constitui ato ilícito passível de indenização a título de dano moral. Caracterização de dano in re ipsa. Precedentes” (STJ – 4a Turma – AgRg no AREsp 322.079/PE – Rel. Ministro MARCO BUZZI – j. 15/08/2013, DJe 28/08/2013).
+Eis como tem decidido o egrégio Tribunal de Justiça do Estado de Mato Grosso, em casos similares:
+A simples negativação indevida já constitui motivo suficiente para responsabilizar quem a ela deu causa, não havendo necessidade da efetiva comprovação dos danos morais, pois, trata-se de dano moral “in re ipsa”, presumido, que dispensa a demonstração da extensão do dano.
+(TJMT – Apelação Cível 52271/2014 – Rel. Desembargadora Cleuci Terezinha Chagas Pereira da Silva, J. 24.09.2014 – fonte site TJMT)
+Uma vez constatado que a parte autora foi vítima de cobrança e negativação de seu nome perante os órgãos de proteção ao crédito, indevidamente. Circunstancia que caracteriza defeito na prestação do serviço pela operadora do serviço público. Prática de ato ilícito que acarretou a inscrição injusta do nome do nome do demandante no rol de inadimplentes, dispensando-se, assim, a prova do efetivo prejuízo, eis que se trata de dano moral “in re ipsa”.
+(TJMT – Apelação Cível 52271/2014 – Rel. Desembargador Adilson Polegato de Freitas, J. 18.11.2014 – fonte site TJMT)
+Há muito tempo esta Turma Recursal também tem entendimento no mesmo sentido, ou seja, que a indevida negativação do nome em órgãos de proteção ao crédito gera dano moral, in re ipsa, isto é, prescinde de prova.
+1 – A inscrição sem causa dos dados da parte Autora em cadastro de inadimplentes, assegura-lhe o direito à indenização pelo dano moral que decorre da própria ação ilícita, não se exigindo prova de efetivo prejuízo sofrido. É o chamado dano moral “in re ipsa”.
+(TRU-MT – Recurso inominado no 001.2010.020.196-9 - Rel. Juiz de Direito João Bosco Soares da Silva, J. 23.08.2012)
+A inscrição indevida do nome do autor nos órgãos de proteção ao crédito, é causa que enseja o recebimento de indenização por dano moral, uma vez que se trata de dano moral “in re ipsa” e, portanto, dispensa a comprovação da extensão dos danos experimentados. Assim, restando comprovado nestes autos que a inscrição fora indevida, posto que decorrente de cobrança indevida, o dano moral resta configurado, especialmente quando não comprovada a contratação.
+(TRU-MT – Recurso inominado no 574/2013 - Rel. Juíza de Direito Lúcia Peruffo, J. 12.11.2012)
+Dessa forma, como vem reiteradamente decidindo diversos Tribunais, inclusive o colendo Superior Tribunal de Justiça e esta Turma Recursal, a negativação indevida em órgãos de proteção ao crédito é suficiente para emergir direito à indenização a título de dano moral, “in re ipsa”.
+No tocante ao quantum fixado na sentença recorrida está de acordo com os critérios da razoabilidade e da proporcionalidade que tem sido estabelecido por esta Turma Recursal, levando em consideração o fato da Recorrente possuir 02 (duas) outras restrições posteriores referente a dívidas, e também restrição referente a 08 (oito) CCFs, referente a cheques devolvidos sem provisão de fundos.
+Assim, rejeita-se a pretensão da Recorrente. Deste modo, não deve ser alterada a sentença recorrida e sim mantida por seus próprios e jurídicos fundamentos a teor do disposto no art. 46 da Lei 9.099/95.
+Esta Turma Recursal tem reiteradamente aplicado as orientações supras nos julgamentos dos recursos inominado, de forma que se a sentença recorrida delas não destoou inexiste razão jurídica para ser reformada.
+Na atual redação do artigo 932, IV, “a” do CPC/2015 observa-se apenas a sua delimitação em relação à questão conceitual, ou seja, se determinado assunto já foi ou não submetido a Súmula do STF, STJ ou do Tribunal de Origem, sendo que, exatamente o que se discute nestes autos, sendo a questão da valoração subjetiva e impossível de ser sumulada e cada caso tem as suas peculiaridades, sendo perfeitamente possível o julgamento monocrático.
+O relator pode, monocraticamente, negar provimento a recurso que esteja em desacordo com a jurisprudência dominante do respectivo Tribunal, é o que dispõe o art. 932, inciso IV, alínea “a” do Código de Processo Civil, podendo ser aplicada multa, caso haja interposição de agravo inadmissível ou infundado, in verbis:
+Art. 932. Incumbe ao relator:
+(...)
+IV - negar provimento a recurso que for contrário a:
+a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal;
+A Turma Recursal editou a Súmula no 01, com a seguinte redação: “O Relator, em decisão monocrática, poderá negar seguimento a recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificadamente os fundamentos da decisão recorrida ou, negar provimento a recurso que esteja dentro dos ditames do artigo 932, IV, "a", "b" e "c" do Novo CPC, cabendo recurso de agravo interno, no prazo de 15 (quinze) dias, para a decisão colegiada da Turma Recursal”.
+O valor estabelecido na sentença recorrida, a título de dano moral, está de acordo com os parâmetros que tem sido fixado por esta Turma Recursal para casos semelhantes, ou seja, em conformidade com os critérios da razoabilidade e da proporcionalidade.
+O prazo para interposição de agravo interno passou para 15 (quinze) dias, em face ao disposto no art. 1.070 do Código de Processo Civil, in verbis: “Art. 1.070. É de 15 (quinze) dias o prazo para a interposição de qualquer agravo, previsto em lei ou em regimento interno de tribunal, contra decisão de relator ou outra decisão unipessoal proferida em tribunal”.
+Ante o exposto, como a sentença recorrida fixou o valor da indenização a título de dano moral nos critérios da proporcionalidade e da razoabilidade que atualmente tem sido adotado por esta Turma Recursal, em face ao disposto no art. 932, inciso IV, “a” do Código de Processo Civil/2015 e na Súmula no 01 desta Turma Recursal, monocraticamente, NEGO PROVIMENTO AO RECURSO. Condeno a Recorrente a pagar honorários advocatícios que os fixo em 10% (dez por cento) sobre o valor da condenação.
+Intimem-se. Cumpra-se.
+Valmir Alaércio dos Santos
+Juiz de Direito, Relator
