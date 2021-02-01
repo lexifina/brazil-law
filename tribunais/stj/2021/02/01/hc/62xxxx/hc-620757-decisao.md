@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MARCO ANTONIO DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 1508482-09.2020.8.26.0050.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 anos de reclusão, em regime fechado, e ao pagamento de 12 dias-multa, como incurso no art. 157, §1º, do Código Penal (roubo majorado).
+No julgamento da apelação, o Tribunal de origem negou provimento ao recurso da defesa, mantendo incólume a sentença condenatória. Eis a ementa do acórdão (e-STJ fl. 38):
+APELAÇÃO ROUBO IMPRÓPRIO - Materialidade e autoria delitivas nitidamente demonstradas - Palavras da vítima corroboradas pelo conjunto probatório - Validade - Depoimentos dos policiais que se revestem de fé-pública - Ausência de interesse em prejudicar o réu -Condenação de rigor - Pena e regime bem fixados - Acusado reincidente - Recurso desprovido.
+No presente habeas corpus, a impetrante defende que "o magistrado fixou a pena-base do crime de roubo em 5 anos, o que se mostra absolutamente desproporcional no caso em concreto" (e-STJ fl. 4).
+Afirma que "o paciente não possui inúmeras execuções. Aliás, a última pena que cumpriu foi extinta em 2019, mas as condenações referidas pelo juiz sentenciante e pelo Desembargador relator do v. acórdão são extremamente antigas com término de cumprimento de pena em 1997, 2000, 2004" (e-STJ fl. 4).
+Requer, ao final, a fixação da pena-base no mínimo legalou, subsidiariamente, pleiteia que seja reduzida a fração de aumento aplicada.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem (e-STJ fls. 110/115).
+É o relatório.
+Decido.
+In casu, colhe-se do acórdão recorrido (e-STJ fl. 43):
+Na primeira fase a pena-base foi fixada acima do mínimo, em 05 anos de reclusão, tendo em vista a personalidade do réu desajustada ao crime, havendo inúmeras execuções em sua FA, a indicar, portanto, que faz do crime seu meio de vida. Em seguida, não obstante o réu tenha admitido apenas parcialmente os fatos, eis que negou o emprego da violência, a magistrada sentenciante acabou neutralizando a agravante da reincidência com a atenuante da confissão, o que deve ser mantido à míngua de recurso ministerial, tornando, assim, a reprimenda definitiva.
+Conforme o excerto acima transcrito, as instâncias ordinárias fixaram a pena-base em 5 anos de reclusãotendo em vista o demérito dos antecedentes do paciente.
+Em primeiro lugar, alega a defesa que a maioria das condenações utilizadas para caracterizar os maus antecedentes é demasiadamente antiga, uma vez que tais condenações contam"com término de cumprimento de pena em 1997, 2000, 2004" (e-STJ fl. 4)
+Quanto aos antecedentes, a orientação jurisprudencial desta Corte Superior de Justiça firmou-se na possibilidade de valoração negativa, como maus antecedentes, das condenações alcançadas pelo período depurador de cinco anos, previsto no art. 64, I, do Código Penal.
+Entretanto, recente entendimento adotado na Sexta Turma preconiza que, "quando os registros da folha de antecedentes do réu são muito antigos, como no presente caso, admite-se o afastamento de sua análise desfavorável, em aplicação à teoria do direito ao esquecimento. Não se pode tornar perpétua a valoração negativa dos antecedentes, nem perenizar o estigma de criminoso para fins de aplicação da reprimenda, pois a transitoriedade é consectário natural da ordem das coisas. Se o transcurso do tempo impede que condenações anteriores configurem reincidência, esse mesmo fundamento - o lapso temporal - deve ser sopesado na análise das condenações geradoras, em tese, de maus antecedentes" (REsp n. 1.707.948/RJ, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/4/2018, DJe de 16/4/2018).
+Na hipótese, infere-se que as condenações utilizadas para o reconhecimento dos maus antecedentes tornaram-se definitivas há mais de 16 anos (e-STJ fls. 9/10). Assim, o caso dos autos atrai a aplicação do raciocínio exposto no precedente citado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. ROUBO IMPRÓPRIO. PENA-BASE. CONDENAÇÕES PRETÉRITAS ALCANÇADAS PELO PERÍODO DEPURADOR DO ART. 64, I, DO CÓDIGO PENAL. CONFIGURAÇÃO DE MAUS ANTECEDENTES. POSSIBILIDADE. EXCEÇÃO NO CASO DE LONGO PERÍODO DECORRIDO DESDE AS CONDENAÇÕES.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. O Supremo Tribunal Federal, por ocasião do julgamento do RE n. 593.818/SC, no dia 18/8/2020, consolidou o entendimento - já adotado nesta Casa - de que "não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal" (Tese n. 150 da repercussão geral, acórdão não publicado).
+3. Entretanto, em que pese à possibilidade de recrudescer a pena-base com respaldo em condenações alcançadas pelo prazo depurador de 5 anos, admite-se excepcionar esse entendimento se as particularidades do caso concreto assim recomendarem. Na hipótese, a condenação antecedente transitou em julgado cerca de 16 anos antes da prática do crime em análise, revelando-se demasiadamente antiga.
+4. É cediço que a dosimetria da pena não se revela uma operação aritmética com modelos estanques, mas, ao contrário, se insere em âmbito de discricionariedade judicial para permitir a fixação da pena adequada e suficiente para reprovação e prevenção do crime.
+5. Agravo regimental desprovido.
+(AgRg no HC 590.439/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 06/10/2020, DJe 13/10/2020, grifei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VALORAÇÃO NEGATIVA DOS ANTECEDENTES. DECURSO DO PERÍODO DEPURADOR. CONSIDERAÇÃO POSSÍVEL, SALVO REGISTROS ANTIGOS. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Embora, nos termos do entendimento jurisprudencial dominante no Superior Tribunal de Justiça, segundo o qual o transcurso do período depurador de 5 anos, previsto no art. 64, I, do Código Penal, afaste a reincidência, mas não retira os maus antecedentes, admite-se, excepcionalmente nas hipóteses em que decorrido longo tempo desde a extinção da pena, seja afastado o trato negativo da vetorial maus antecedentes.
+2. Eventual existência de contradição/equívoco no julgado deve ser sanado mediante a oposição de embargos de declaração, sem o que se opera, em favor do réu, a preclusão. Precedente.
+3. Agravo regimental improvido.
+(AgRg no REsp 1832385/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/05/2020, DJe 25/05/2020, grifei)
+Procedo, assim, à readequação da pena do paciente, mantendo os parâmetros adotados pelo colegiado local.
+Na primeira fase, estabeleço a pena-base em 4 anos de reclusão, mais pagamento de 10 dias-multa.
+Na segunda etapa, mantenho a compensação da agravante da reincidência com a atenuante da confissão espontânea.
+Na terceira fase, diante da ausência de outras causas modificadoras, a pena definitiva é fixada em 4 anos de reclusão, mais pagamento de 10 dias-multa.
+À vista de tais pressupostos, concedo a ordem para redimensionar a reprimenda do paciente para 4 anos de reclusão e 10 dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
