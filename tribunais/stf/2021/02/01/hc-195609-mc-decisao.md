@@ -1,0 +1,24 @@
+D E C I S Ã O
+    Trata-se habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. FRAÇÃO DO REDUTOR. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. O disposto no art. 33, § 4º, da Lei n. 11.343/2006 estabelece apenas os requisitos necessários para a aplicação da minorante nele prevista, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+    2. Tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas.
+    3. No caso, a Corte regional – dentro do seu livre convencimento motivado – fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução mínima prevista em lei, havendo destacado, em síntese, a quantidade de substâncias entorpecentes apreendidas e as circunstâncias em que perpetrado o crime de tráfico de drogas, em um ônibus que realizava o itinerário Ponta Porã/MS – Campo Grande/MS, depois de importar a substância do Paraguai.
+    4. O juiz, ao reconhecer a presença dos quatro requisitos necessários ao reconhecimento da benesse em questão, não está obrigado a aplicar o patamar máximo de redução de pena, já que possui plena discricionariedade para, à luz das peculiaridades do caso concreto, efetivar a diminuição no quantum que entenda suficiente e necessário para a prevenção e a repressão do delito perpetrado, tal como ocorreu no caso.
+    5. Agravo regimental não provido. ”
+    (AREsp 1.717.415-AgR/MS, Ministro Rogerio Schietti Cruz)
+    Em suas razões, a parte impetrante, em síntese, pretende revisar a fração aplicada na redução da pena relativa ao tráfico privilegiado.
+    Inicialmente, insta destacar a autorização regimental deste Supremo Tribunal Federal para o julgamento imediato do presente feito pelo Relator, independentemente de prévia manifestação do Ministério Público Federal (RISTF, arts. 21, §1º e art. 52, parágrafo único).
+    É o relatório. Decido.
+    Consta dos autos que o Tribunal Regional da 3ª Região, ao realizar a dosimetria da pena, na terceira fase, aplicou a redução de pena do tráfico privilegiado (art. 33, §4º, da Lei 11.343/06) em um terço, ou seja, em fração inferior à máxima prevista em lei, com fundamento na grande quantidade de drogas e nas circunstâncias do delito, como bem ressaltou o Superior Tribunal de Justiça:
+    “No caso, a Corte regional – dentro do seu livre convencimento motivado – fundamentou, com base em argumentos idôneos e específicos dos autos, o porquê da redução de pena no patamar de 1/3. Para tanto, destacou, em síntese, a quantidade de drogas apreendidas (999 g de cocaína) e as circunstâncias em que perpetrado o crime de tráfico de drogas, em um ônibus que realizava o itinerário Ponta Porã/MS - Campo Grande/MS, depois de importar a substância entorpecente do Paraguai (fl. 508), motivo pelo qual não há como acolher a apontada violação do art. 33, § 4º, da Lei n. 11.343/2006. ”
+    Esta Suprema Corte consagrou sua jurisprudência no sentido de que a dosimetria da pena possui certo grau de discricionariedade, que não afasta o controle de legalidade e constitucionalidade dos critérios e da motivação utilizados (HC 178.716-AgR/MG, Ministro Edson Fachin; HC 187.002-AgR/SP, Ministro Roberto Barroso).
+    Observo, desse modo, que a revisão da fração aplicada no diminuição da pena relativa ao tráfico privilegiado, na terceira fase da dosimetria da pena, é inviável na via estreita do habeas corpus, que não admite dilação probatória, nos termos da jurisprudência pacífica desta Excelsa Corte:
+    “1. A dosimetria da pena, bem como os critérios subjetivos considerados pelos órgãos inferiores para a sua realização, não são passíveis de aferição na via estreita do ‘habeas corpus’, por demandar minucioso exame fático e probatório inerente a meio processual diverso. Precedentes:  HC 97058, Segunda Turma, Relator o Ministro Joaquim Barbosa, DJ de 29.03.11; HC 94073, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJ de 24.11.10. ”
+    (RHC 118.991/DF, Ministro Luiz Fux – com meus grifos)
+    Não vislumbro, desse modo, a ocorrência de ilegalidade na dosimetria da pena.
+    Em face do exposto, indefiro o pedido de habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 1º de fevereiro de 2021.
+Ministro NUNES MARQUES
+Relator
