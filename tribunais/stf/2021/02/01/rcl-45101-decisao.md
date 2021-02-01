@@ -1,0 +1,17 @@
+D E C I S Ã O
+    Cuida-se de reclamação em que se alega descumprimento à decisão proferida por esta Corte no julgamento da ADI 3.395/DF.
+    Colhe-se dos autos que o órgão trabalhista reclamado reconheceu a competência da Justiça do Trabalho para julgar demanda ajuizada por trabalhador contratado pelo Município reclamante para exercer o cargo de Agente de Combate às Endemias.
+    Pede-se, ao final, seja julgada procedente a demanda, a fim de ser desconstituído o acórdão proferido pelo órgão trabalhista.
+    Essa reclamação, contudo, é manifestamente inadmisível.
+    Esta Suprema Corte julgou recentemente o mérito da ADI 3.395/DF, Ministro Alexandre de Moraes, para, confirmando a medida cautelar anteriormente concedida, firmar o entendimento de que a norma disposta no art. 114, inciso I, da Constituição Federal não abrange as causas fundadas em vínculo de natureza jurídico-estatutária, razão pela qual devem ser excluídas da competência da Justiça do Trabalho as demandas instauradas entre o Poder Público e seus servidores (em sentido estrito).
+    Por outro lado, o órgão judiciário reclamado reconheceu a competência da Justiça do Trabalho para apreciar a ação trabalhista de origem sob o fundamento de que consta do contrato pactuado entre as partes disposição expressa acerca da regência da Consolidação das Leis do Trabalho sobre a relação jurídica firmada entre as partes.
+    O exame dos autos revela, ainda, que a previsão contratual acima referida encontra amparo na Lei Municipal nº 3.427/2013, a qual prevê a submissão dos contratos de trabalho para admissão de Agentes de Combate às Endemias ao regime jurídico instituído pela CLT.
+    Essas considerações levam-me a concluir que o caso concreto ora em apreço não guarda similitude com o tema jurídico discutido no julgamento da ADI 3.395/SP, cujo objeto, repita-se, circunscreveu-se ao exame de relações funcionais de natureza estatutária ou jurídico- -administrativa.
+    Transcrevo, nesse sentido, o seguinte precedente:
+    “AGRAVO INTERNO NA RECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. EMPREGADO PÚBLICO MUNICIPAL. ADMISSÃO APÓS A CONSTITUIÇÃO DA REPÚBLICA DE 1988, SOB O REGIME CELETISTA, NOS MOLDES DA LEI 100/1998 DO MUNICÍPIO DE SÃO JOAQUIM DA BARRA. ALEGAÇÃO DE OFENSA AO ACÓRDÃO PROFERIDO NO JULGAMENTO DA MEDIDA CAUTELAR DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 3.395. INOCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. A fixação da competência da Justiça Comum ou da Justiça do Trabalho, em casos envolvendo o Poder Público, demanda a análise da natureza do vínculo jurídico existente entre o trabalhador – termo aqui tomado em sua acepção ampla – e o órgão patronal. 2. Com efeito, o fato de o processo originário envolver vínculo firmado entre o servidor e o poder público, sob o regime jurídico celetista, nos termos da Lei Municipal 100/1998, descaracteriza a competência da Justiça Comum para análise do feito. 3. O cotejo analítico entre o paradigma e caso concreto consiste em pressuposto lógico para o cabimento da via reclamatória nessas hipóteses, de sorte que a ausência de demonstração de conflito entre eles representa óbice intransponível ao seguimento da reclamação. 4. Agravo interno desprovido”.
+    (Rcl 41.984-AgR, Rel. Min. Luiz Fux, Primeira Turma – com meus grifos)
+    Pelo exposto, não conheço da presente reclamação.
+    Intime-se. Publique-se.
+    Brasília, 1º de fevereiro de 2021.
+Ministro NUNES MARQUES
+Relator
