@@ -1,0 +1,22 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por URBANO CARLOS DO CARMO CURADO, CARLOS AUGUSTO DO CARMO CURADO, CRISTINA ISABEL CURADO DE SOUZA em face de decisão que negou seguimento ao recurso especial fundamentado no artigo 105, inciso III, alínea"a"da Constituição Federal, contra acórdão do Tribunal e Justiça do Estado de São Paulo, que restou assim ementado:
+SOBREPARTILHA  Negócio jurídico tendo por objeto imóvel sobrepartilhado ( matricula 14.731 do 8º CRI-SP  cf. fls. 183) - Situação narrada e comprovada documentalmente que configura típico caso de venda a non domino, ou seja, realizada por quem não tinha poder de disposição sobre a coisa ou ceder em sua integralidade os direitos  Caso dos autos  Cessão de direito entabulado com terceiro à revelia do apelante - Ineficácia com relação à fração ideal do apelante que também é herdeiro - Cessão de direito alheio que é ineficaz perante outros titulares - Recurso parcialmente provido , observando-se que a hipótese não é a rigor de nulidade da avença , mas de sua ineficácia.
+Opostoembargos de declaração, estes foram rejeitados(e-STJ fls. 772/777).
+Nas razões recursais a parte recorrente alega, além de dissídio jurisprudencial, violação aos artigos 113, 141, 278, 322, 422, 489, § 1º, 492, 507, 627, e 1022 do CPC, sustentando, negativa de prestação jurisdicional; violação ao princípio da congruência, uma vez que o pleito foi de nulidade do negócio jurídico; inépcia da apelação; falta de interesse recursal do recorrido;preclusão do direito do recorrido de se opor ao negócio e boa-fé da cessionária.
+É o relatório.
+Passo a decidir.
+Assiste razão a parte recorrente.
+Nos embargos de declaração de fls. e-STJ 767/769, os ora recorrentes alegaramque o acórdão foi omisso acerca de questõespertinentes ao princípio da dialeticidade; interesse recursal do recorrido; preclusão da impugnação do plano de partilha e boa-fé da cessionária.
+Com efeito, na análise detida dos autos, percebe-se que o Tribunal de origem não se manifestou, em sede de apelaçãoe de embargos de declaração, acerca das omissõessuscitadas pela parte recorrente.
+O Tribunal de origem, no julgamento do embargos de declaração limitou-se a asseverar que:
+O julgamento lançado no v. Acórdão, publicado a fls. 662, representa a manifestação e o entendimento do colegiado que compôs a Turma Julgadora. Por unanimidade, acolheu-se o voto do Relator e, fundamentadamente, deram provimento em parte ao recurso.
+Os embargantes reiteram argumentos trazidos em sede de contrarrazões com a pretensão de rediscutir a matéria com o consequente provimento dos embargos.
+Os presentes embargos de declaração não se enquadram em qualquer das hipóteses acima referidas, não havendo, portanto, falha a ser sanada pela via eleita, uma vez que os temas objeto da insurgência recursal foramdevidamente enfrentados pelo v. Acórdão, havendo explicação clara e fundamentada dos motivos que determinaram a solução adotada.
+A pretensão em tela tem caráter infringente, não permitindo apreciação em sede de embargos de declaração, que só tem trânsito para declarar a omissão e solucionar a contradição que impedem a compreensão do decidido em afronta à cláusula sobre direito constitucional que impõe a amplitude da defesa. A maior elasticidade que lhe reconhece, excepcionalmente, em casos de erro material evidente ou de manifesta nulidade da sentença, não justifica, sob pena de grave disfunção jurídico -processual dessa modalidade de recurso, a sua inadequada utilização com o propósito único de questionar a correção do julgado e obter, em consequência, a desconstituição do ato decisório.(e-STJ fls. 775/776).
+Desse modo, é de rigor o acolhimento da alegação de ofensa ao art. 1022 do Código de Processo Civil, para que seja suprida a omissão concernentes ao princípio da dialeticidade; interesse recursal do recorrido; preclusão da impugnação do plano de partilha e boa-fé da cessionária.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, desde logo, dar-lhe provimento a fim de determinar o retorno dos autos ao Tribunal de origem para que, em novo julgamento dos embargos de declaração de fls. 767/769, sejam sanadas as omissõesacima apontadas, como se entender de direito.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/2015.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OCORRÊNCIA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA SANEAMENTO DE OMISSÃO NO ACÓRDÃO RECORRIDO.
+AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
