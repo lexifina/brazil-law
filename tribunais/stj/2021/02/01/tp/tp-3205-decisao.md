@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de pedido de tutela provisória, com pedido de liminar, formulado por RUY MORAES TERRA e SILVIA VOLPON MORAES TERRA, a fim de que seja atribuído efeito suspensivo a agravo em recurso especial.
+Os requerentes afirmam que, proferido o acórdão, ambas as partes opuseram embargos de declaração buscando aclaramento sobre critérios de divisão das verbas sucumbenciais. Os embargos foram acolhidos por maioria.
+Argumentam que, nesse contexto, era necessária a técnica do julgamento ampliado, nos termos do artigo 942 do Código de Processo Civil de 2015. Solicitaram, então, a inclusão em pauta do julgamento estendido. Nada obstante, a demandada, PASSARELLI SILVA ADVOCACIA S/S, ajuizou o cumprimento de sentença dos honorários sucumbenciais, antes do julgamento ampliado.
+Nesse ínterim, o Tribunal de Justiça do Estado do Mato Grosso do Sul proferiu acórdão em que afirmou não ser cabível o julgamento ampliado, ao fundamento de que não se tratava de julgamento de mérito, mas sobre verbas sucumbenciais.
+Foi, então, interposto recurso especial, que não foi admitido e, em seguida, o agravo em recurso especial ao qual se busca atribuir efeito suspensivo.
+Os requerentes afirmam o perigo de dano de difícil reparação, pois estão sendo praticados atos de execução das verbas sucumbenciais, que a demandada afirma ser de R$ 1.900.188,89 (um milhão, novecentos mil, cento e oitenta e oito reais e oitenta e nove centavos). Dizem que a demandada está para sacar a quantia sem todavia prestar caução.
+Aduzem que a aparência do bom direito consiste em que há precedente desta Corte que consagra o entendimento de que a técnica de julgamento ampliado é cabível também em embargos de declaração.
+Assim posta a questão, verifico assistir razão aos requerentes.
+Com efeito, sobre a técnica do julgamento ampliado, esta Corte tem decidido o seguinte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMPRESARIAL.
+AGRAVO DE INSTRUMENTO. JULGAMENTO DE MÉRITO. NÃO UNÂNIME. TÉCNICA DE AMPLIAÇÃO DO COLEGIADO (ART. 942 DO cpc/2015/EMBARGOS INFRINGENTES(ART. 530 DO CPC/73). OBRIGATORIEDADE.
+1. "A técnica de ampliação do julgamento prevista no CPC/2015 possui objetivo semelhante ao que possuíam os embargos infringentes do CPC/1973, que não mais subsistem, qual seja a viabilidade de maior grau de correção e justiça nas decisões judiciais, com julgamentos mais completamente instruídos e os mais proficientemente discutidos, de uma maneira mais econômica e célere. Contudo, diferentemente dos embargos infringentes do CPC/1973 - que limitava, no caso da apelação, a incidência do recurso aos julgamentos que resultassem em reforma da sentença de mérito -, a técnica de julgamento prevista no CPC/2015 deverá ser utilizada quando o resultado da apelação for não unânime, independentemente de ser julgamento que reforma ou mantém a sentença impugnada"(REsp 1733820/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/10/2018, DJe 10/12/2018).
+2. É firme a jurisprudência do STJ no sentido de que são cabíveis embargos infringentes (art. 530 do CPC/73), equivalente a técnica de ampliação do colegiado prevista no art. 942 e § 3º do CPC, quando o acórdão não unânime houver acolhido preliminar de ilegitimidade ativa.
+3. Na hipótese, o Tribunal a quo, de forma não unânime, afastou a legitimidade ativa das recorrentes - pessoas jurídicas do mesmo grupo econômico - para, em litisconsórcio ativo, ajuizar o pedido de recuperação judicial, sem que houvesse, como seria de rigor, a extensão do julgamento colegiado, nos termos do art. 942, § 3º do CPC.
+4. Agravo interno não provido.
+(AgInt no REsp 1836819/BA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/08/2020, DJe 09/09/2020)
+Nos termos desse entendimento, não há restrição para o julgamento ampliado em relação à decisão sobre os honorários advocatícios
+Outrossim, o julgado citado na decisão do Tribunal de origem que não admitiu o recurso especial refere-se a embargos de declaração opostos a acórdão deste Tribunal Superior, que não julga os recursos elencados no art. 942 do Código de Processo Civil.
+Ao menos nessa análise preliminar, própria do julgamento de pedido de tutela provisória, é possível entrever a possibilidade de êxito do recurso especial para que se oportunize o julgamento ampliado.
+Ante o exposto, defiro a liminar para atribuir efeito suspensivo ao recurso especial.
+Intime-se a parte contrária para oferecer resposta no prazo legal.
