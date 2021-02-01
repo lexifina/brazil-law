@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul sob o pálio da seguinte ementa:
+E M E N T A - APELAÇÃO CÍVEL - AÇÃO DE MANUTENÇÃO DE AUXÍLIO-DOENÇA C/C CONVERSÃO PARA AUXÍLIO- DOENÇA POR ACIDENTE DE TRABALHO C/C APOSENTADORIA POR INVALIDEZ - PEDIDO DE RESTABELECIMENTO DE PAGAMENTO DE BENEFÍCIO E CONVERSÃO - IMPOSSIBILIDADE - AUSÊNCIA DE PROVA DO NEXO DE CAUSALIDADE ENTRE O ACIDENTE/DOENÇA DE TRABALHO E A ENFERMIDADE QUE ACOMETE O SEGURADO - RECURSO CONHECIDO E DESPROVIDO.
+Para que seja possível a concessão de algum benefício previdenciário acidentário, a lesão/doença deve ter origem em acidente de trabalho, sendo indispensável a comprovação do nexo causal entre ambos.
+Se as provas produzidas nos autos não são conclusivas quanto à existência do nexo de causalidade entre o acidente e a lesão apresentada e quanto à própria natureza incapacitante, não deve ser concedido o benefício previdenciário de natureza acidentária.
+Embargos de Declaração não acolhidos às fls. 276-279.
+Recurso Especial às fls. 335-368.
+Decisão pela inadmissibilidade do Recurso Especial às fls. 377-383.
+O agravante ataca os fundamentos que ensejaram a inadmissão do recurso excepcional e, no mais, repisa os argumentos nele deduzidos. Pleiteia, em suma (fl. 395, e-STJ):
+Já no tocante ao benefício previdenciário pleiteado na exordial, em que pese o notável saber jurídico de Vossas Excelências, não se pode concordar com referido entendimento do caso em apreço, Doutos Julgadores é de solar clareza ser devido ao Suplicante a manutenção do benefício auxílio-doença bem como da sua conversão em auxílio-acidente e posterior conversão em APOSENTADORIA POR INVALIDEZ ao Autor, haja vista ter sido demonstrada no bojo dos autos bem como corroborado pelo laudo pericial, onde o expert afirmar que o Recorrente não poderá exercer sua antiga profissão a qual garantia sua subsistência, além de NÃO PODER EXERCER NENHUM OUTRO LABOR que lhe exija qualquer esforço físico, sendo que foram estes labores que sempre garantiram a sua sobrevivência.
+Decisum do Tribunal de origem que mantém a decisão agravada por seus próprios fundamentos, à fl.439.
+É o relatório.
+Decido
+Os autos foram recebidos neste Gabinete em 10.12.2020.
+O Tribunal de origem, ao decidir a controvérsia, consignou (fls. 244-245, e-STJ):
+Assim, nas ações previdenciárias, para a concessão de benefícios de origem acidentária, necessária a existência do nexo causal entre o acidente sofrido e a atividade laboral desenvolvida pelo segurado.Dispõe o artigo 19, da Lei n.º 8.213/1991 que acidente do trabalho é o que ocorre pelo exercício do trabalho a serviço da empresa ou pelo exercício do trabalho dos segurados especiais, provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente ou temporária, da capacidade para o trabalho.
+No caso, a perícia médica atestou que o autor é portador de espondilose ou espondiloartrose cervical. Ainda, em resposta aos quesitos, o expert atestou que "não existem provas da ocorrência de acidente de trabalho" (f. 185).
+Assim, o apelante não tem direito à percepção de benefício previdenciário acidentário, na medida em que não restou suficientemente demonstrado que a limitação da capacidade funcional tenha origem em acidente/doença de trabalho.
+O apelante não comprovou de forma satisfatória que o acidente noticiado nos autos ocorreu e tampouco que há alguma relação com a atividade exercida. Ou seja, ainda que seja reconhecida a perda da capacidade laborativa (parcial ou total), não houve comprovação do nexo de causalidade entre doença narrada na petição inicial e o acidente sofrido.
+Saliente-se que, em casos de concessão de benefícios previdenciários, incumbe à parte postulante o dever de comprovar a origem acidentária do infortúnio, o que não se verificou na hipótese.
+Portanto, verifica-se que o Tribunal a quo decidiu a matéria após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que a análise dos fundamentos que serviram de base a sua convicção envolve ampla análise do contexto fático-probatório dos autos, providência incabível em Recurso Especial, nos termos da Súmula 7/STJ.
+Consubstanciado o que previsto na Súmula Administrativa 7/STJ, condena-se a parte recorrente ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Pelo exposto, conhece-se do Agravo para não se conhecer do Recurso Especial.
+Publique-se.Intimem-se.
