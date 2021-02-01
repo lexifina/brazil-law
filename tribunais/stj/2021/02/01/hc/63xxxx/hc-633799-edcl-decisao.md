@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BRENO CESAR BRAGA SOUZA, em face de decisão de minha lavra, a qual indeferiu liminarmenteowritimpetrado contra decisão monocrática de em. desembargador relator do eg. Tribunal de origem (fls. 55-59).
+Nas razões dos aclaratórios, o embargante alega que houve obscuridade e contradição no decisum impugnado. Aduz, nesse sentido, que: " ..  primeiramente, não se aplica a Súmula 210 do Regimento Interno do Superior Tribunal de Justiça, uma vez que não se trata de repisar pretensão anterior.
+Pelo contrário, são fatos novos e inclusive destacados nas páginas 4 e 5 do Habeas Corpus ora embargado" (fl. 63, grifei).
+Assevera, ainda,que: " ..  o que se pretende com os presentes Embargos Declaratórios é que se satisfaça a contradição apontada entre a Decisão Monocrática e o objeto do Habeas Corpus n. 633799, já que a Colenda Oitava Câmara Criminal confundiu o objeto do HC anterior com o HC impetrado pela Defensoria Pública, à época da Audiência de Custódia, razão pela qual deixou de analisar seu mérito." (fl. 64).
+Requer, ao final, o acolhimento do incidente aclaratório, a fim de que sejam sanados os vícios apontados.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço dos embargos.
+Inicialmente, insta consignar que apenas são cabíveis embargos declaratórios quando houver na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª edição, 1999, p. 1045):
+"Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têm caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado".
+Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua interposição.
+In casu, alega o embargante que houve omissão e contradição no decisum embargado, sustentando que "não se aplica a Súmula 210 do Regimento Interno do Superior Tribunal de Justiça, uma vez que não se trata de repisar pretensão anterior.
+Pelo contrário, são fatos novos e inclusive destacados nas páginas 4 e 5 do Habeas Corpus ora embargado"(fl. 63, grifei).
+Ocorre que, diferente do alegado pelo ora embargante, owrit, foi indeferido liminarmenteem razão de se insurgircontra decisão monocrática, proferida por nobre Desembargador do eg. Tribunal de origem, tendo em vista que da decisão monocrática que negou seguimento ao habeas corpus originário não houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão Colegiado e viabilizar a impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Consta do Decisum embargado ainda, que, segundo disposição do art. 105, inciso II, a, da Constituição Federal, este Superior Tribunal de Justiça é competente para julgar os recursos ordinários nos habeas corpus denegados em única ou última instância pelos Tribunais sujeito à sua jurisdição.
+Vale dizer, falece competência a este Superior Tribunal de Justiça, a teor do art. 105, inciso II, a, da Constituição Federal, para julgar recurso ordinário em habeas corpus ou habeas corpus substitutivo de recurso ordinário interposto ou impetrado contra decisão monocrática, proferida por Desembargador Relator.
+Acrescentou-se que, dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para então ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste habeas corpus substitutivo de recurso ordinário.
+Dessarte, ao contrário do alegado pelo embargante, houve expressa manifestação quanto às alegações postas no presente recurso integrativo, embora de forma contrária à pretendida pelo embargante, não havendo, na hipótese, qualquer vício a ser sanado.
+O que pretende o embargante, na verdade, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios. Assim, verifica-se que o julgado recorrido não padece de qualquer omissão, porquanto indeferido liminarmente o mandamus em decisão devidamente fundamentada, e ante a manifesta incompetência deste Tribunal Superior.
+Ante o exposto, rejeito os embargos de declaração.
+P. e I.
