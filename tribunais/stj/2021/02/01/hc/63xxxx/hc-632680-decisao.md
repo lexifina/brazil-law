@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de "HABEAS CORPUS PREVENTIVO/REPRESSIVO COM PEDIDO LIMINAR DE NATUREZA COLETIVO", apontando como autoridade coatora o Exmo. Governador do Estado de Santa Catarina, em decorrência da edição do Decreto970, de 4 de dezembro de 2020.
+No presente writ, os impetrantes afirmam que o Governador do Estado de Santa Catarina instituiu o "toque de recolher", em atenção aos incisos I e II do Artigo 1ºdo Decreto 970, restringindo a circulação e aglomeração de pessoas, todos os dias da semana, da meia-noite às 5 horas da manhã, em espaços públicos, privados e nas ruas, limitando a liberdade de locomoção das pessoas que transitam pelo território catarinense.
+Asseveram que está demonstrado a flagrante ameaça ao direito de ir e vir dos cidadãos, notadamente dos vulneráveis moradores de rua.
+Alegam: "Constitucionalmente, a restrição da liberdade de ir e vir, com edição de "Toque de Recolher", é uma das medidas editadas APENAS durante a vigência do Estado de Sítio ou de Guerra, onde ambas as situações apenas podem ser decretadas pelo Presidente da República, conforme preceitua a Constituição Federal nos artigos 137 a 141."
+Afirmam ser patentea inconstitucionalidade do ato editado pelo Chefe do Poder Executivo Estadual.
+Requerem, em liminar e no mérito (e-STJ, fl. 13):
+i) Seja concedida medida LIMINAR para sustar os efeitos do Decreto nº 970 do Governo do Estado de SC, nos incisos I e II do Art. 1ºque visa instituir toque de recolher em todos os Municípios de nosso Estado;
+ii) No mérito, seja confirmada a liminar e anule o Decreto, no texto que institui o toque de recolher fora das hipóteses de prévia decretação de Estado de Sítio ou de Guerra declarada;
+iii) Alternativamente, seja concedida a ordem para obstar seja conduzido todo e qualquer cidadão em viaturas policiais a prisões que não tenham prévia garantia de asseio e de respeito à observância da distância de 1,5 m dentre as pessoas envolvidas na condução ou recolhidas ao mesmo local;
+É o relatório.
+Decido.
+Em conformidade com o que consta na inicial do presente Habeas Corpus, os impetrantes apontam constrangimento ilegal na edição, pelo Governador do Estado de Santa Catarina, do Decreto 970, de 4 de dezembro de 2020, que estabeleceu, entre outras medidas, a restrição de circulação e de aglomeração de pessoas em espaços, públicos e privados, e em vias públicas, como medida de controle da disseminação da COVID-19, com prazo de vigênciade quinze (15) dias.
+Inicialmente, ressaltoque o exame deeventual inconstitucionalidade do referido Decreto, não compete ao Superior Tribunal de Justiça, sob pena de usurpação da competência do Supremo Tribunal Federal. Neste sentido, decisões nosseguintes feitos: AgRg no HC 480.459/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe de 10/4/2019; AgInt nos EDcl no REsp 1.687.565/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 25/9/2018; AgRg no AgRg no AREsp 1.275.927/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 24/10/2018.
+Ademais, constato que esteHabeas Corpus foi impetrado contra ato normativo em tese, o que é proibido, em conformidade com pacífica jurisprudência desta Corte Superior de Justiça, como se infereda seguinte lição jurisprudencial: "normas de caráter geral e abstrato, ainda que consideradas em desarmonia com a Constituição Federal, não podem ser impugnadas por meio de habeas corpus." (AgRg no HC 201.203/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 1º/06/2011).
+Diante do exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente Habeas Corpus.
+Publique-se.
+Intimem-se.
