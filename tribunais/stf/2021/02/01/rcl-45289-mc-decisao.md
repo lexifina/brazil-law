@@ -1,0 +1,27 @@
+Decisão:
+    Cuida-se reclamação, com pedido de liminar, ajuizada por Jorive Correa da Cruz contra decisão do Presidente da 1ª Turma Recursal dos Juizados Especiais do Distrito Federal nos autos do Processo nº 0713029-95.2019.8.07.0016, por alegada usurpação da competência do Supremo Tribunal Federal para julgar agravo em recurso extraordinário.
+    Jorive Correa da Cruz argumenta que a gratuidade de transporte público prescrita no art. 88 da Lei distrital nº 4.317/2009 e no art. 1º da Lei distrital nº 566/93 alcança “apenas aqueles portadores, em grau acentuado, de deficiências físicas, sensoriais ou mentais”, impossibilitando seu acesso ao direito.
+    Afirma que, por meio da reclamação, pretende fazer respeitar a competência do STF para julgar agravo em recurso extraordinário que veicula matéria constitucional concernente à inadequação de “regras criadas pelo Distrito Federal para concessão de transporte gratuito”, com fundamento a violação aos arts. 193 e 203, IV, da CF/88.
+    Requer o deferimento do pedido liminar para suspender o trânsito em julgado da Decisão ID 21433204 proferida no feito nº 0713029-95.2019.8.07.0016 até o julgamento final da presente reclamação. No mérito, pleiteia a reforma da decisão reclamada para garantir o correto seguimento do recurso extraordinário interposto.
+    É o relatório. Decido.
+    Alega-se usurpação da competência do Supremo Tribunal Federal para conhecer e julgar recurso de agravo do art. 1.042 CPC, reforçada a tese na Súmula nº 727 do STF, in verbis:
+    “Não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo de instrumento interposto da decisão que não admite recurso extraordinário, ainda que referente a causa instaurada no âmbito dos juizados especiais.”
+    Em juízo de delibação, entendo que a autoridade reclamada negou seguimento ao recurso extraordinário, assentando, em síntese, ausência de prequestionamento da violação aos arts. 193 e 203, IV, da CF/88, bem como por entender que a controvérsia fora decidida à luz da legislação infraconstitucional e da prova dos autos, fazendo incidir os óbices previstos nas Súmulas STF nºs 279, 280, 282 e 356, as quais possuem a seguinte redação:
+    “Para simples reexame de prova não cabe recurso extraordinário.” (Súmula STF nº 279)
+    “Por ofensa a direito local não cabe recurso extraordinário.” (Súmula STF nº 280)
+    “É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.” (Súmula STF nº 282)
+    “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.” (Súmula STF nº 356)
+    Não obstante a referência a julgado na sistemática da repercussão geral na decisão reclamada – a saber, o julgado no RE nº 584.608 RG, Rel. Min. Ellen Gracie, DJe 13.3.19 -, identifico que a menção deu-se não em razão da identidade com a matéria submetida ao STF no paradigma e adequação à tese de observância obrigatória; mas sim para aplicar o entendimento de
+    “ser ‘cabível a atribuição dos efeitos da declaração de ausência de repercussão geral quando não há matéria constitucional a ser apreciada ou quando eventual ofensa à Carta Magna ocorra de forma indireta ou reflexa” (RE 584.608 RG, Min. ELLEN GRACIE, DJe de 13/03/2009), o que obsta o exame do presente apelo. “ (eDOC 2, p. 91)
+    Em juízo de delibação, entendo que não houve, de fato, aplicação de entendimento firmado em repercussão geral. Isso porque o Tema 144 RE 584.608 RG, utilizado como fundamento para reputar a ausência de repercussão geral, tem a seguinte tese:
+    “I - A questão da definição do termo inicial da prescrição da ação de cobrança das diferenças dos expurgos inflacionários reconhecidos pela Lei Complementar n. 110/2001, para atualização monetária do Fundo de Garantia por Tempo de Serviço - FGTS, incidentes na multa de 40% (quarenta por cento) sobre os depósitos dessa conta vinculada tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral;
+    II - A questão da responsabilidade do empregador pelo pagamento das diferenças de expurgos inflacionários reconhecidos pela Lei Complementar n. 110/2001, para atualização monetária do Fundo de Garantia por Tempo de Serviço - FGTS, incidentes na multa de 40% (quarenta por cento) sobre os depósitos dessa conta vinculada, tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral.”
+    A inadmissibilidade de recurso extraordinário por ausência de prequestionamento da matéria constitucional ou por se entender que eventual ofensa aos arts. 193 e 203, IV, da CF/88 se daria tão somente de maneira reflexa não é alcançada pela ressalva contida na parte final do art. 1.042, caput, do CPC, razão pela qual, ao menos nessa análise preliminar, entendo configurada a usurpação da competência do STF para apreciar o agravo em recurso extraordinário.
+    Ante o exposto, defiro o pedido liminar para suspender o Processo nº 0713029-95.2019.8.07.0016, em trâmite na 1ª Turma Recursal dos Juizados Especiais do Distrito Federal, até o julgamento final da presente reclamação.
+    Cite-se a parte beneficiária da decisão reclamada (art. 989, III, CPC).
+    Solicitem-se informações e comunique-se a autoridade reclamada acerca do deferimento da medida liminar.
+    Publique-se. Int..
+    Brasília, 1º de fevereiro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
