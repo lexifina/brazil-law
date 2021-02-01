@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fls. 30):
+Apelação. Furto. Art. 155, §4º, IV c.c. art. 14, II, ambos do Código Penal (CP). Autoria e materialidade comprovadas.
+Furto privilegiado não configurado. Penas devidamente aplicadas. Confissão de Anderson não reconhecida devidamente. Regime semiaberto de rigor aplicado em relação a ele.
+Impossibilidade de abrandamento. Réu reincidente.
+Recurso não provido.
+Alega a defesa, em síntese, que indevidamente fixada a pena do paciente, pois viola o princípio da proporcionalidade utilizar condenação pretérita pelo art. 28 da Lei de Drogas para fins de reincidência. Afastando-se tal ilegalidade, deve ser fixado regime mais brando para o cumprimento da pena. Ademais, que deve ser feita a detração.
+Requer, liminarmente, que o paciente seja posto em liberdade até o julgamento final do presente writ. No mérito, que seja afastada a reincidência, redimensionando-se a pena do paciente e fixando-se regime mais brando. Subsidiariamente, que seja feita a detração.
+Indeferida a liminar e prestadas as informações, manifestou o Ministério Público pela concessão da ordem.
+É o relatório.
+DECIDO.
+Em relação à dosimetria, consta os seguintes fundamentos do acórdão impugnado (fls. 39/40):
+A pena-base foi fixada no piso legal para ambos os apelantes.
+Na segunda fase, não foram consideradas atenuantes ou agravantes para VALDIR.
+De outro lado, presente a agravante da reincidência para ANDERSON, a reprimenda foi devidamente exasperada em 1/6, perfazendo 02 (dois) anos e 04 (quatro) meses de reclusão e pagamento de 11 (onze) dias-multa.
+Correta a decisão do d. juízo a quo que não reconheceu a atenuante da confissão em favor de ANDERSON.
+Tem-se que não é possível a redução da pena pela aplicação da atenuante da confissão, pois esta não ocorreu, já que ele procurou justificar suas ações, afirmando que não cometeu furto algum e que os objetos estavam abandonados no local. Ainda, negou a participação de VALDIR na empreitada criminosa.
+Por fim, tendo em vista o artigo 14, inciso II, do CP, necessária a redução da reprimenda, a qual foi operada em 2/3, resultando em pena de 08 (oito) meses de reclusão e pagamento de 03 (três) dias-multa para VALDIR e 09 (nove) meses e 10 (dez) dias de reclusão e pagamento de 03 (três) dias-multa para ANDERSON.
+O regime inicial aplicado foi o aberto para VALDIR e o semiaberto para ANDERSON, o qual deve ser mantido, por se tratar de réu reincidente, estando em conformidade com o determinado no artigo 33, do CP.
+Inviável a substituição da pena privativa de liberdade em relação a ANDERSON, pelas mesmas razões, havendo vedação do artigo 44, do CP.
+No caso, segundo consta da certidão de objeto e pé, consta a existência de anterior condenação pelo art. 28 da Lei 11.343/06, em que foi utilizada para reconhecimento da reincidência, diante da prática de novo delito, tipificado no art. 155, §4º, IV c.c. art. 14, II, ambos do Código Penal.
+Quanto ao tema, anteriormente, prevalecia o entendimento, na Sexta Turmadesta Corte, no sentido de que a condenação definitiva pretérita peloporte de substância entorpecente para consumo próprio, prevista no art. 28da Lei 11.343/2006, geraria reincidência, porquanto tal conduta foi apenasdespenalizada pela vigente Lei de Drogas, mas não descriminalizada.
+Ocorre que, no julgamento do REsp 1.672.654/SP, passou a prevalecer novaorientação a respeito do tema, no sentido de que a condenação anteriorpelo art. 28 da Lei 11.343/06 apenas admite valoração como reincidência seo novo crime praticado for da mesma espécie, o que não ocorre na presente hipótese. Nesse norte:
+RECURSO ESPECIAL. DIREITO PENAL. TRÁFICO DE ENTORPECENTES. CONDENAÇÃO ANTERIOR PELO DELITO DO ARTIGO 28 DA LEI DE DROGAS. CARACTERIZAÇÃO DA REINCIDÊNCIA. DESPROPORCIONALIDADE.
+1. À luz do posicionamento firmado pelo Supremo Tribunal Federal na questão de ordem no RE nº 430.105/RJ, julgado em 13/02/2007, de que oporte de droga para consumo próprio, previsto no artigo 28 da Lei nº11.343/2006, foi apenas despenalizado pela nova Lei de Drogas, mas nãodescriminalizado, esta Corte Superior vem decidindo que a condenaçãoanterior pelo crime de porte de droga para uso próprio configurareincidência, o que impõe a aplicação da agravante genérica do artigo 61,inciso I, do Código Penal e o afastamento da aplicação da causa especialde diminuição de pena do parágrafo 4º do artigo 33 da Lei nº 11.343/06.
+2. Todavia, se a contravenção penal, punível com pena de prisão simples,não configura reincidência, resta inequivocamente desproporcional aconsideração, para fins de reincidência, da posse dedroga para consumopróprio, que conquanto seja crime, é punida apenas com "advertência sobreos efeitos das drogas", "prestação de serviços à comunidade" e "medidaeducativa de comparecimento a programa ou curso educativo", mormente seconsiderar que em casos tais não há qualquer possibilidade de conversão empena privativa de liberdade pelo descumprimento, como no caso das penassubstitutivas.
+3. Há de se considerar, ainda, que a própria constitucionalidade do artigo28 da Lei de Drogas, que está cercado de acirrados debates acerca dalegitimidade da tutela do direito penal em contraposição às garantiasconstitucionais da intimidade e da vida privada, está em discussão peranteo Supremo Tribunal Federal, que admitiu Repercussão Geral no RecursoExtraordinário nº 635.659 para decidir sobre a tipicidade do porte dedroga para consumo pessoal.
+4. E, em face dos questionamentos acerca da proporcionalidade do direitopenal para o controle do consumo de drogas em prejuízode outras medidasde natureza extrapenal relacionadas às políticas de redução de danos,eventualmente até mais severas para a contenção do consumo do que aquelasprevistas atualmente, o prévio apenamento por porte de droga para consumopróprio, nos termos do artigo 28 da Lei de Drogas, não deve constituircausa geradora de reincidência.
+5. Recurso improvido.
+(REsp 1672654/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2018, DJe 30/08/2018)
+Desse modo,desproporcional o reconhecimento da agravante da reincidênciadecorrente de condenação anterior pelo delito do art. 28 da Lei n.11.343/2006.
+Ademais, como bem ressaltado no parecer ministerial,o entendimento dessa Corte Superior de Justiça é no sentido de que quando o delito praticado não é grave, como ocorre no caso em tela, a reincidência configurada em posse de drogas para consumo próprio não deve ser considerada para fins de estabelecimento de regime de cumprimento de pena(fl. 73).
+Considerando o afastamento da reincidência, torno definitiva a pena de Anderson em 8 meses de reclusão, mais o pagamento de 3 dias-multa, no regime aberto, nos termos do art. 33, §§ 2º e 3º, do CP, bem como admito a substituição da pena privativa de liberdade por restritivas de direitos, diante da ausência de motivação idônea na origem para negativa das benesses legais.
+Ante o exposto, concedo o habeas corpuspara reduzir a pena de ANDERSON SANTANA GONÇALVES para 8 meses de reclusão e 3 dias-multa, no regime aberto, bem como determino à conversão da pena privativa de liberdade em restritivas de direitos, a serem fixadas pelo Juízo da execução.
+Publique-se.
+Intimem-se.
