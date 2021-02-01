@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de reclamação proposta por Meirilaine Jesus Borges Duarte, com fundamento na Resolução (STJ)n. 12, de 14/12/2009, contra decisão monocrática do Relator do Recurso Inominado Cível n. 0800495-83.2019.8.12.0018, da Primeira Turma Recursal Mista do Estado de Mato Grosso do Sul, com o seguinte teor:
+Visto.
+A Recorrente foi intimada à f. 105 para efetuar o recolhimento do preparo recursal em 48 horas, sob pena de deserção, ante o indeferimento do benefício da gratuidade da justiça (f. 102/104). Dessarte, deixou transcorrer o prazo sem comprovação do referido pagamento.
+Diante do exposto, deixo de conhecer do Recurso Inominado, em razão da deserção, nos termos do art. 42, § 1º, da Lei 9.099/95, bem como do Enunciado n. 80 do FONAJE.
+Condeno na Recorrente em custas processuais e honorários advocatícios, que arbitro em 10% do valor da condenação, com amparo no Enunciado 122 do Fonaje.
+Intime-se. Com o trânsito em julgado desta decisão e após as baixas de praxe, arquive-se. (e-STJ fl. 42.)
+A reclamante alega que a decisão reclamada "é absurda e teratológica, uma vez que contrariou Jurisprudência desta Corte, quanto à preferência na intimação, bem como entendimento de que, para a concessão dos benefícios da assistência judiciária gratuita, basta que o postulante afirme não possuir condições de arcar com as custas e despesas processuais sem prejuízo ao sustento próprio e de sua família ressalvado ao juiz indeferir a pretensão, se tiver fundadas razões para tanto, conforme reza o art. 5º da Lei 1.060/1950  .. , o que não ocorreu nos autos principais, uma vez que o juízoa quodeferiu os benefícios da Justiça gratuita, conforme fl. 91" (e-STJ fls. 6/7).
+Afirma que "não houve intimação da Reclamante via Pje, pois o Despacho, determinando a apresentação de provas apenas foi publicado no Dje, contrariando, assim o entendimento desta Corte" (e-STJ fl. 7). Cita decisão monocrática proferida noAgInt no AREsp n. 1.436.235/RJ, da minha relatoria, DJe 1º/6/2020.
+Quanto ao direito à concessão degratuidade de justiça,mediante simples declaração de pobreza, invocao acórdão proferido no REsp n. 1.666.680/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 16/6/2017.
+Sustenta que, "em sede da Decisão supracitada, o juiz relator fez amplo juízo de valor, o que segundo o ministro do STJ, Reynaldo Soares da Fonseca, relator do HC 354.800, torna nula a decisão" (e-STJ fl. 9).
+Pede a "suspensão do processo, de modo a evitar dano irreparável ocasionado pelo trânsito em julgado da Decisão Monocrática (artigo 989, inciso II, do CPC)" (e-STJ fl. 11).
+A gratuidade de justiça foi deferida (e-STJ fl. 51).
+É o relatório.
+Decido.
+A Resolução n. 12/2009, que regulava "o processamento, no Superior Tribunal de Justiça, das reclamações destinadas a dirimir divergência entre acórdão prolatado por turma recursal estadual e a jurisprudência desta Corte", foi revogada pela Emenda Regimental n. 22, de 16/3/2016.
+A decisão reclamada foi publicada na vigência da Resolução n. 3 do STJ, de 8 de abril de 2016, ainda em vigor, que assim dispõe:
+Art. 1º Caberá às Câmaras Reunidas ou à Seção Especializada dos Tribunais de Justiça a competência para processar e julgar as Reclamações destinadas a dirimir divergência entre acórdão prolatado por Turma Recursal Estadual e do Distrito Federal e a jurisprudência do Superior Tribunal de Justiça, consolidada em incidente de assunção de competência e de resolução de demandas repetitivas, em julgamento de recurso especial repetitivo e em enunciados das Súmulas do STJ, bem como para garantir a observância de precedentes.
+É patente, pois, a incompetência desta Corte Superior para processar e julgar o presente pedido. A propósito, em hipóteses envolvendo o mesmo órgão ora reclamado, as seguintes decisões: Rcl n. 38.376/SP, Relator Min. MARCO BUZZI, publicada em 19/8/2019, Rcl n. 25.268/SP, Relator Min. NAPOLEÃO NUNES MAIA FILHO, publicada em 25/6/2019, Rcl n. 37.491/SP, Relator Min. BENEDITO GONÇALVES, publicada em 1º/3/2019, entre outras.
+Portanto, com base no art. 34, XVIII, do RISTJ, INDEFIRO LIMINARMENTE a presente reclamação no âmbito do STJ, determinando sua remessa ao Tribunal de Justiça de Mato Grosso do Sulpara que decida como entender de direito, nos termos do art. 1º da Resolução n. 3/STJ, de 8 de abril de 2016.
+Publique-se e intimem-se.
