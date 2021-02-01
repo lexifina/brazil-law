@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Wueverson Jackson Xavier contra o acórdão proferido pelo Tribunal de Justiça de Santa Catarina, que denegou o Habeas Corpus n. 5038193-58.2020.8.24.0000/SC (fl. 54):
+HABEAS CORPUS. CRIMES DE HOMICÍDIO QUALIFICADO TENTADO, POR DUAS VEZES, E TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.ADUZIDA ILEGALIDADE. IDENTIFICAÇÃO DO PACIENTE REALIZADADE FORMA EQUIVOCADA. UTILIZAÇÃO DE HISTÓRICO CRIMINAL DETERCEIRA PESSOA COMO FUNDAMENTO DA PRISÃO PREVENTIVA. RETIFICAÇÃO REALIZADA PELO JUÍZO DE PRIMEIRO GRAU, QUE ENTENDEU ESTAREM PRESENTES OS REQUISITOS DA CUSTÓDIA, EM RAZÃO DA GRAVIDADE CONCRETA DOS DELITOS. TENTATIVA DEHOMICÍDIO PRATICADA EM LOCAL PÚBLICO, MEDIANTE DISPAROS DE ARMA DE FOGO, COM O INTENTO DE GARANTIR A PRÁTICA DOCRIME DE TRÁFICO DE DROGAS. PERICULOSIDADE DO AGENTE. PRISÃO DEVIDAMENTE FUNDAMENTADA. EQUÍVOCO SANADO. INEXISTÊNCIA DE PREJUÍZO. TESE AFASTADA. RECOMENDAÇÃO PARA CANCELAMENTO DO MANDADO DE PRISÃO EXPEDIDO EM NOME DE TERCEIRO E EXPEDIÇÃO DE MANDADO DE PRISÃO EM NOME DO PACIENTE, PARA FINS DE SANEAMENTO DO FEITO. ALEGADO EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INEXISTÊNCIA DE DEMORA OU ATRASO INJUSTIFICADO. ATUAÇÃO DILIGENTE DO JUÍZO. PACIENTE PRONUNCIADO. PROCESSO QUEJÁ SE ENCONTRA EM FASE DE PREPARAÇÃO DO TRIBUNAL DOJÚRI. EXEGESE DA SÚMULA 21 DO STJ. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA
+Consta dos autos que o recorrente foi preso em flagrante e posteriormente denunciado pela prática, em tese, dos delitos previstos nos arts.121, § 2º, V e VII, c/c art. 14, II, do Código Penal, e artigo 33, caput, da Lei 11.343/2006.
+No presente recurso, alega-se, em síntese, o seguinte (fls. 73/84):
+A prisão em flagrante do paciente foi convertida em preventiva na Audiência de Custódia, Evento 12 da Ação Penal, na época fundamentada, erroneamente, no fato de um indivíduo chamado Weverton Cristian Xavier, pessoa que não é o paciente, ser reincidente específico no crime de tráfico de drogas. No Evento 17 resta o Mandado de Prisão também no nome deste Wueverton.
+Cumpre observar desde já que o PACIENTE que de fato foi preso trata-se de pessoa primária, conforme será apontado mais futuramente e que o erro não foi corrigido naquela audiência em razão de estar o Paciente hospitalizado, não comparecendo ao ato.
+ ..
+Ou seja, observa-se que após a correção do erro material, com a efetiva retificação do nome do acusado, o magistrado de piso RATIFICOU, pelos próprios fundamentos a homologação da prisão em flagrante, ressaltando que a entrevista (apresentação do acusado após alta hospitalar) não teve o condão de alterar os fundamentos da decisão anterior.
+Com relação a prisão preventiva, pontuou que persistem os requisitos da ordem pública, PELOS FUNDAMENTOS EXPOSTOS NA DECISÃO PELA QUAL FOI DECRETADA SUA PRISÃO PREVENTIVA. Contudo, Ilustres Ministros, a prisão preventiva inicialmente foi decretada diante da suposta periculosidade, pelo acusado ser reincidente específico em delito de tráfico de drogas. O que se mostrou INVERÍDICO, eis que WUEVERSON é réu primário!!, sem antecedentes que o desabonem, possui residência fixa na comarca da culpa, é trabalhador e arrimo de família!
+ ..
+Ou seja, as prisões em flagrante foram convertidas em preventivas, mas não em desfavor de WUEVERSON, mas sim de WEVERTON, pessoa alheia aos autos da Ação Penal, e que ao contrário de Wueverson não era réu primário. Com efeito, o que a prisão preventiva do Paciente efetivamente fez foi transferir os efeitos da pena de outro indivíduo (Weverton) para o ora Paciente (Wueverson), ato este vedado pela Constituição Federal, em seu art. 5º, inciso XLV, transcrito abaixo:
+ ..
+O mandado de prisão também foi em desfavor de WEVERTON CRISTIAN XAVIER. Mesmo após a correção do erro material, em momento algum fora expedido novo mandado de prisão no nome do réu. Tal fato, por si só, torna a prisão ilegal, visto que viola o art. 288 do Código de Processo Penal, que dispõe:
+ ..
+Convenhamos Excelências, não há nenhuma demora nos autos causadas pela defes, ou seja, a demora existente, eis que os acusados se encontram presos preventivamente desde março de 2019, ou seja, mais de 1 ano e sete meses, certamente não é culpa da defesa.
+E sendo assim, requer igualmente o reconhecimento do excesso de prazo, eis que ainda pende perícia, sem data para possível realização do plenário do júri.
+Requer-se, em liminar e no mérito, a revogação da prisão preventiva.
+É o relatório.
+Pelo exame dos autos, o presente recurso em habeas corpus não deve ser conhecido.
+Isso porque o impetrante não se desincumbiu do ônus de instruir suficientemente o writ com a cópia dadecisão que decretou a prisão preventiva, das decisões posteriores relacionadas com a prisão, bem como da sentença de pronúncia,peças essenciaispara a verificação da verossimilhança das alegações e que poderia dar suporte à premissa da defesa.
+Como é sabido, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em virtude de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante.
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional do habeas corpus (ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ: HC n. 437.808/RJ, Ministro Jorge Mussi, Quinta Turma, DJe de 28/6/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração do writ, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 526.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 17/9/2019).
+E ainda: HC n. 155.877/PB, Ministra Laurita Vaz, Quinta Turma, DJe 2/2/2012; HC n. 211.459/PB, Ministro Jorge Mussi, Quinta Turma, DJe 19/12/2011; e HC n. 187.273/PE, da minha relatoria, Sexta Turma, DJe 1º/2/2012.
+Ante o exposto, não conheço do presente recurso em habeas corpus.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. AÇÃO DE NATUREZA MANDAMENTAL, QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO RECORRENTE.
+Recurso em habeas corpus não conhecido.
