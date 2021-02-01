@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO. REVISÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. LABOR ESPECIAL NÃO RECONHECIDO.
+- A questão em debate consiste na possibilidade de se reconhecer o trabalho especificado na inicial em condições especiais e a sua conversão, para somados aos demais lapsos de trabalho em regime comum, propiciar a revisão da aposentadoria por tempo de serviço.
+- , para comprovar a especialidade da atividade do período questionado, de 15/08/1979 a In casu 17/12/2003, em que alega ter laborado em condições agressivas em virtude do contato com eletricidade, líquidos inflamáveis e óleo Diesel, o requerente carreou com a inicial o laudo técnico pericial ID 21777081 pág. 01/32 e 21777086 pág. 01/06, produzido nos autos de reclamação trabalhista movida contra a ex-empregadora, informando que exerceu a função de "técnico de telecomunicação", na empresa Telecomunicações de São Paulo S.A - TELESP.
+- Contudo, observa-se que tal documento não demonstra a especialidade da atividade nos termos exigidos pela legislação previdenciária, notadamente a exposição a agentes agressivos, de forma habitual e permanente, que prejudiquem a saúde ou a integridade física do trabalhador.
+- Da leitura do referido laudo, depreende-se quanto aos líquidos inflamáveis e óleo Diesel que o requerente não executava qualquer atividade com exposição direta aos referidos agentes químicos. No tocante à tensão elétrica, destaque-se que o laudo aponta que o requerente trabalhava com equipamentos energizados de 48 volts, o que impossibilita o enquadramento, tendo em vista que a legislação regente exigia exposição à tensão acima de 250 v.
+- A atividade profissional do requerente, como técnico em telecomunicações, não está entre as categorias profissionais elencadas pelo Decreto nº 83.080/79 (Quadro Anexo II).
+- A parte autora não faz jus ao reconhecimento da especialidade do labor no período questionado.
+- Apelo da parte autora não provido.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega:
+Pois bem, de acordo com a legislação brasileira, o recorrente faz jus ao reconhecimento do tempo especial, em razão da atividade laboral que o expôs a inflamáveis e a energia elétrica, da qual é considerada como atividade perigosa, enquadrando-se, portanto, como periculosidade.
+A título de esclarecimento, a atividade exercida pelo recorrente, em virtude da periculosidade decorrente da exposição a substâncias inflamáveis, dá ensejo ao reconhecimento da especialidade da atividade porque sujeita o segurado à ocorrência de acidentes que podem causar danos à sua saúde ou à sua integridade física, nos termos do Anexo n. 02 da NR n. 16, aprovada pela Portaria MTB n. 3.214/78, que dispõe sobre as "Atividades e Operações Perigosas com Inflamáveis", e Súmula n. 198 do TFR (periculosidade).
+Neste ínterim, o laudo pericial trabalhista foi claro ao afirmar que a atividade desempenhada pelo recorrente é considera periculosa em virtude da exposição a energia elétrica e líquidos inflamáveis.
+A periculosidade decorrente da exposição a substâncias inflamáveis dá ensejo ao reconhecimento da especialidade da atividade, porque sujeita o segurado à ocorrência de acidentes que podem causar danos à saúde ou à sua integridade física.
+(..)
+No que tange ao enquadramento da atividade como especial em razão da periculosidade decorrente da exposição a substâncias inflamáveis, há que ser levada em conta a sujeição do segurado à ocorrência de acidentes passíveis de causar danos à saúde ou à integridade física. Em se tratando de locais onde há armazenamento de inflamáveis e presença de bomba abastecedora, é considerável o risco de explosão e incêndio, o que evidencia a periculosidade da atividade laboral.
+Foram apresentadas Contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.12.2020.
+O Tribunal a quo consignou:
+Na espécie, questiona-se o período de 15/08/1979 a 17/12/2003, pelo que ambas as legislações (tanto a antiga CLPS, quanto a Lei nº 8.213/91), com as respectivas alterações, incidem sobre o respectivo cômputo, inclusive quanto às exigências de sua comprovação.
+, para comprovar a especialidade da atividade do período questionado, em que alega ter In casu laborado em condições agressivas em virtude do contato com eletricidade, líquidos inflamáveis e óleo Diesel, o requerente carreou com a inicial o laudo técnico pericial ID 21777081 pág. 01/32 e 21777086 pág. 01/06, produzido nos autos de reclamação trabalhista movida contra a ex-empregadora, informando que exerceu a função de "técnico de telecomunicação", na empresa Telecomunicações de São Paulo S.A - TELESP.
+Contudo, observa-se que tal documento não demonstra a especialidade da atividade nos termos exigidos pela legislação previdenciária, notadamente a exposição a agentes agressivos, de forma habitual e permanente, que prejudiquem a saúde ou a integridade física do trabalhador.
+Nesse sentido, da leitura do referido laudo, depreende-se quanto aos líquidos inflamáveis e óleo Diesel que o requerente não executava qualquer atividade com exposição direta aos referidos agentes químicos. No tocante à tensão elétrica, destaque-se que o laudo aponta que o autor trabalhava com equipamentos energizados de 48 volts, o que impossibilita o enquadramento, tendo em vista que a legislação regente exigia exposição à tensão acima de 250 v.
+É inviável analisar a tese defendida no Recurso Especial de que o laudo juntado demonstra a especialidade das atividades reivindicadas, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial e condeno a parte recorrente ao pagamento de honorários advocatícios (art. 85, § 11, do CPC/2015) correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem, observando-se eventual concessão do benefício da Justiça Gratuita deferida nos autos.
+Publique-se.
+Intimem-se.
