@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por EDGAR ADRE DE ANDRADE, com respaldona alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOassim ementado (e-STJ fl. 161):
+PROCESSUAL CIVIL. AÇÃO COLETIVA. FALECIMENTO. FATO OCORRIDO ANTES DO AJUIZAMENTO DA AÇÃO DE CONHECIMENTO. EXECUÇÃO. HERDEIRO. AUSÊNCIA DE LEGITIMIDADE ATIVA. APELAÇÃO IMPROVIDA.
+1. Nos termos do art. 8º, III, da CF, compete ao sindicato a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas. Não obstante, não há substituição processual quando o pensionista não mais integrava a categoria profissional, porquanto falecido.
+2. Cuida-se, na origem, de cumprimento individual de sentença coletiva proposta pelo autor, na condição de herdeiro de ex-pensionista, com o objetivo de garantir o pagamento das diferenças de Gratificações de Desempenho entre ativos e inativos.
+3. O título executivo judicial que embasa o pedido de execução foi produzido nos autos da Ação Civil Pública nº 0002954-77.2011.4.05.8400, ajuizada pelo Sindicato dos Aposentados e Pensionistas do RN - SINDAP/RN em face da União Federal no dia 20/05/2011, segundo dados da pesquisa processual.
+4. Hipótese em que a ex-pensionista já havia falecido antes do ajuizamento da ação coletiva, de forma que não havia substituição processual na espécie, por não mais integrar a categoria profissional, não havendo, portanto, condição de exequibilidade do título.
+5. Apelação improvida. Honorários recursais fixados em 10% dos honorários sucumbenciais arbitrados na sentença, os quais devem permanecer sobrestados, conforme descrito na sentença.
+Embargos de declaração rejeitados (e-STJ fls. 190/193).
+Em suas razões, a parte recorrente aponta violação dos arts. 81 e 103 do Código de Defesa do Consumidor, argumentando queo sindicato tem legitimidade para representar também os pensionistas e sucessores do substituído falecido antes do ajuizamento da ação coletiva.
+Contrarrazões às e-STJ fls. 217/227.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 229.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa anotação, verifico que pretensão recursal não merece prosperar.
+Em recentíssimo julgado do STJ, a Primeira Turma entendeu que, tendo falecido o servidor em momento anterior à propositura da ação coletiva, o sindicato já não representava o de cujus ou mesmo seus herdeiros, de modo que o título executivo não lhes aproveita. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO EM MANDADO DE SEGURANÇA. ÓBITO DE SERVIDOR ANTES DA IMPETRAÇÃO DO MANDADO DE SEGURANÇA COLETIVO. IMPOSSIBILIDADE DE ESPÓLIO PLEITEAR A EXECUÇÃO DO TÍTULO COLETIVO.
+1. Na origem, a União opôs embargos à execução, insurgindo-se contra à legitimidade ativa dos exequentes - espólio do ex-servidor falecido em 26/2/1999 -, visando à satisfação das diferenças decorrentes da aplicação do índice de reajuste de 3,17%, direito reconhecido na Ação Coletiva n. 1999.71.00.023240-3.
+2. O Juiz julgou procedente os embargos, a fim de extinguir a execução, entendo que o "sindicato, por ocasião da propositura da ação coletiva, que deu origem ao título executado, não mais representava o servidor falecido e tampouco os seus herdeiros".
+3. Não desconheço da jurisprudência desta Corte Superior no sentido de que "o óbito de um de servidor, abrangido pela atuação do sindicato representativo de toda a classe, antes da impetração do mandado de segurança coletivo, não tem relevância para a formação do título judicial, cujo efeito erga omnes possibilita que eventual pensionista pleiteie, em nome próprio ou por substituição, os direitos alcançados pela concessão da segurança no procedimento executivo" (cf. AgInt na ExeMS 10.424/DF, Rel. Ministro Rogerio Schietti Cruz, Terceira Seção, DJe 3/4/2019).
+4. Todavia, no caso dos autos, como bem consignado na sentença, o "sindicato, por ocasião da propositura da ação coletiva, que deu origem ao título executado, não mais representava o servidor falecido e tampouco os seus herdeiros".
+5. Agravo interno da União provido, dando provimento ao recurso especial, a fim de restabelecer a sentença, pedindo as mais respeitosas vênias ao Relator, Ministro Napoleão Nunes Maia Filho.
+(AgInt no REsp 1623812/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 13/10/2020, DJe 21/10/2020).
+No caso, não só o próprio servidor, mas também a ex-pensionista, já havia falecido quando da propositura da ação de conhecimento.
+Forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
