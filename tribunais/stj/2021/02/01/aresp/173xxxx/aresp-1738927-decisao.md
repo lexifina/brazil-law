@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por SÍLVIA REGINA FONTOURA DE SIQUEIRA E OUTROS, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+" AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA. SEGURO- GARANTIA. NÃO PREVISTO NO ROL DO ART. 151 DO CTN. SUSPENSÃO A EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. NÃO OCORRÊNCIA. I - A tutela de urgência há de ser concedida somente quando evidenciada a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, nos moldes do artigo 300, Código de Processo Civil. II- In casu, o seguro-garantia não pode ser equiparado a dinheiro para fins de autorizar a suspensão da exigibilidade do crédito (CTN, art. 151, II), fim alcançável, somente, mediante o depósito em dinheiro. III - Não se faz presentes os requisitos que autorizam a suspensão do crédito tributário por meio da tutela provisória apontada no art. 151, V do CTN. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO"(fl. 2.222e).
+No Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante apontou violação ao art. 151, V, do CTN, sustentando, em síntese, que, como o crédito tributário está garantidopelo seguro garantia ofertado, é de se deferir a liminar para suspender a sua exigibilidade, na forma do art. 151, V, do CTN (fls. 2.236/2.248e).
+Inadmitido o Recurso Especial (fl. 2.278e), foi interposto o presente Agravo em Recurso Especial (fls. 2.286/2.298e).
+A irresignação não merece prosperar.
+Com efeito, cumpre ressaltar que é pacífica a jurisprudência desta Corte no sentido de que somente o depósito integral e em dinheiro gera a suspensão da exigibilidade do crédito tributário.
+À guisa de mero exemplo, confira-se a seguinte ementa:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. CDA. EXIGIBILIDADE DO CRÉDITO. SEGURO GARANTIA. SUSTAÇÃO DE PROTESTOS. EQUIPARAÇÃO AO DEPÓSITO EM DINHEIRO. IMPOSSIBILIDADE. JURISPRUDÊNCIA SÓLIDA DO STJ. SÚMULA 83/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A irresignação não merece conhecimento.
+2. Com efeito, o acórdão recorrido encontra-se em harmonia com a jurisprudência do STJ de ser inviável a equiparação do seguro garantia ou da fiança bancária ao depósito judicial em dinheiro e integral para efeito de suspensão de exigibilidade do crédito não tributário ou tributário; na verdade, somente o depósito em dinheiro viabiliza a suspensão determinada no artigo 151 do CTN (REsp. 1.156.668/DF, Primeira Seção, Rel. Min. Luiz Fux, Dje 10.12.2010; AgRg na MC 19.128/SP, Rel. Min. Francisco Falcão, DJe 24.8.2012).
+3. Dessume-se, portanto, que o acórdão recorrido está em total sintonia com o atual entendimento do Superior Tribunal de Justiça, razão pela qual incide a regra estabelecida na Súmula 83/STJ.
+4. Prejudicada a análise do dissídio jurisprudencial.
+5. Recurso Especial não conhecido" (STJ, REsp 1.796.295/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 22/04/2019).
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 568 desta Corte, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+I.
