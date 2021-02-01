@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de JOSE RAIMUNDO DE MORAIS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.21.009124-5/000).
+O pacientefoi denunciado pela suposta prática dos crimes de homicídioconsumadoe tentado,posse ilegal de arma de fogo e munições de uso permitido (fl. 5), e encontra-se em gozo de liberdade provisória, cumulada com medidas cautelares diversas da prisão(fl. 33).
+Marcado o interrogatório do réu, por meiopresencial, para o dia 04/02/2021, às 16h, a defesaimpetrou prévio writ, para que o ato processual pudesse ser realizado por meio de videoconferência. Contudo,opleitoliminar foiindeferidopelo Desembargador relator.
+Na presente impetração, os impetrantes sustentam a existência deconstrangimento ilegal, haja vista queo cenário pandêmico criado pelacovid-19e aRecomendação CNJ n. 62/2020tornariamobrigatória a realização do interrogatório do paciente pelo meio postulado.
+Aduzemque asubmissão do réuao comparecimento presencial para prestar depoimento em outra comarca, distante 400 km de sua residência, aumentaria a exposição aocontágio da doença, considerando, especialmente,quefazparte do grupo de risco.
+Alegam tratar-se de hipótese de abrandamento da Súmula n. 691 do STF.
+Requerem, liminarmente e no mérito, que seja deferida a realização do interrogatório do paciente no dia 4.2.2021, às 16h, bem como a participação de seus defensores, por meio de videoconferência.
+É o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO.INDEFERIMENTO LIMINAR DO WRIT. AUSÊNCIA DE FLAGRANTE ILEGALIDADE.MITIGAÇÃO DA SÚMULA 691/STF. INDÍCIOS DE AUTORIA E MATERIALIDADE.DILAÇÃO PROBATÓRIA. CONTEMPORANEIDADE, EXCESSO DE PRAZO E ERRO DE FUNDAMENTAÇÃO NO DECRETO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA.FUNDAMENTAÇÃO IDÔNEA. VIOLAÇÃO DO ART. 316, PARÁGRAFO ÚNICO, DO CPP.IMPOSSIBILIDADE DE ANÁLISE EM JUÍZO PERFUNCTÓRIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. No procedimento do habeas corpus, não se permite a produção de provas, pois a ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, razão pela qual não é possível aferir a materialidade e a autoria delitiva.
+2. As questões referentes à contemporaneidade, excesso de prazo e erro de fundamentação não foram debatidas pelo Tribunal de origem, não devendo ser conhecidas diretamente por esta Corte Superior, sob pena de supressão de instância.
+3. Apresentada fundamentação concreta, evidenciada no fato do agravante integrar organização criminosa e na reiteração delitiva, não há ilegalidade no decreto prisional.
+4. O prazo de 90 dias para reavaliação da prisão preventiva, determinado pelo art. 316, paragrafo único, do CPP, é examinado pelo prisma jurisprudencialmente construído de valoração casuística, observando as complexidades fáticas e jurídicas envolvidas, admitindo-se, assim, uma eventual e não relevante prorrogação da decisão acerca da manutenção da necessidade das cautelares penais.
+5. Não havendo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+6. Agravo regimental improvido.
+(AgRg no HC 624.342/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/12/2020, DJe 07/12/2020)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, considerando os fundamentos explicitados pelo Desembargador relator que teceufundamentos idôneos para indeferir o pleito cautelar. Ficou pontuado no decisum:
+"Vê-se que, ao contrário do apontado na inicial, o ora paciente não se encontra em prisão domiciliar, mas, sim, em liberdade provisória cumulada com medidas cautelares, consoante se extrai da movimentação processual da ação penal n.º 0004032-78.2019.8.13.0120, disponível do site deste eg. TJMG, bem como dar. decisão de ordem 08. Outrossim, conforme se infere da Portaria n.º 6.414/CGJ/2020, que "disciplina o procedimento experimental de realização de audiências por videoconferência nas unidades judiciárias da Justiça de Primeira Instância do Estado de Minas Gerais, no período de isolamento social decorrente da pandemia de Coronavírus (COVID-19)", somente há previsão para realização de interrogatório por videoconferência de réu preso.
+Ademais, verifica-se que "todos os atos sanitários de prevenção para a não contaminação pelo coronavírus estão sendo realizados "na Comarca de origem, como consignado pelo MM. Juiz a quo(ordem 08).
+Verifico, ainda, que os temas propostos na medida de urgência confundem-se com o mérito do writ, e sua análise compete à colenda Turma Julgadora, e não ao Relator isoladamente." (fl. 18).
+Em arremate, registra-se a ausência de demonstração inequívoca da defesa de que o paciente, de fato, se encontra em situação de grave enfermidade.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
