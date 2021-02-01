@@ -1,0 +1,60 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 1008955-96.2020.8.11.0041
+Vistos etc.
+Cuida-se de 02 (dois) Recursos de Apelação Cível interposto pela Porto Seguro Companhia de Seguros Gerais (Id. 69516496) e, também, pela advogada Wellen Candido Lopes (ID. 69516498) em virtude da sentença proferida pelo Juiz da 9.a Vara Cível da Comarca de Cuiabá que, que julgou parcialmente procedente o pedido formulado por Alice Fernandes da Silva, Beatriz Fernandes Boeira da Silva e Roseni Zocal.
+A Juíza singular condenou a Seguradora ao pagamento de R$ 13.500,00 (treze mil e quinhentos reais) a título de indenização securitária, com juros de 1% a.m. a partir da citação e correção monetária pelo INPC, desde o evento danoso.
+Condenou as partes ao pagamento das custas e despesas processuais na proporção de 50% para cada uma.
+Quanto aos honorários advocatícios, fixou em 10% do valor da condenação na proporção de 50% em favor da requerida e 50% em favor da autora.
+A seguradora Porto Seguro Companhia de Seguros Gerais arguiu, em preliminar, a ocorrência de cerceamento de defesa.
+No mérito, sustentou que o Apelado não comprovou o fato constitutivo do seu direito e, em decorrência disto, deve arcar com o ônus de sucumbência.
+Sob esses argumentos, pugna pela improcedência dos pedidos.
+Contrarrazões sob o ID 69516502.
+No recurso de Apelação apresentado pela Advogada Wellen Candido Lopes, pretende que os honorários advocatícios sejam suportados na integralidade pela Seguradora.
+Contrarrazões da Seguradora sob o ID. 701004167.
+Eis o relatório. DECIDO.
+As questões trazidas a debate referem-se à indenização de seguro obrigatório DPVAT. Acerca do tema, o Superior Tribunal de Justiça firmou entendimento sob a sistemática de Recursos Repetitivos (REsp 1483620 / SC , REsp 1418347 / MG, REsp 1388030 / MG , REsp 1303038 / RS, REsp 1357813 / RJ, REsp 1246432 / RS, REsp 1098365 / PR e REsp 1120615 / PR) e aprovou Súmulas abrangendo diversos aspectos da indenização securitária obrigatória, de modo que é possível decidir monocraticamente, com base no Verbete Sumular 568 do STJ.
+Ressai do caderno processual que Alice Fernandes da Silva, Beatriz Fernandes Boeira da Silva e Roseni Zocal ajuizaram Ação de Cobrança de Seguro Obrigatório DPVAT c/c Pedido de Danos Morais em face da Porto Seguro Companhia de Seguros Gerais, alegando que, em 26 de dezembro de 2019, o Senhor Denacir Pedro Boeira da Silva, esposo de Roseni Zocal e pai de Alice e Beatriz, foi vítima de acidente de trânsito que ocasionou sua morte.
+Na petição inicial, postularam a condenação da Seguradora ao pagamento de R$ 13.500,00 (treze mil e quinhentos reais) a título de indenização securitária, indenização por danos morais no valor de R$ 1.000,00 (um mil reais) e honorários advocatícios.
+Na sentença, a Juíza da causa julgou parcialmente procedentes os pedidos, condenou a Seguradora ao pagamento da indenização securitária no valor de R$ 13.500,00 (treze mil e quinhentos reais), bem como ao pagamento de custas e despesas processuais na proporção de 50% para cada parte e honorários advocatícios que fixou em 10% do valor da condenação na proporção de 50% para cada um.
+Esta sentença deu azo à interposição de recurso de Apelação Cível por ambas as partes.
+Do Recurso da Porto Seguro Companhia de Seguros Gerais (Id. 69516496)
+Preliminar- Cerceamento de Defesa:
+A Apelante suscita, preliminarmente, cerceamento de defesa, sob o argumento de que a ação foi julgada antecipadamente, sem oportunizar o depoimento pessoal e a pretensão de expedição de ofício ao INSS, a fim de esclarecer a existência de possíveis herdeiros.
+Da análise da questão, verifica-se que a matéria arguída pela Apelante se confunde com o mérito do recurso, de modo que serão analisadas em conjunto.
+Mérito
+Embora a Seguradora alegue cerceamento de defesa por ausência de depoimento pessoal das beneficiárias e, também, por não oportunizar a produção de prova por meio de expedição de Ofício ao INSS, uma vez que o juízo singular não lhe possibilitou especificar as provas que ainda pretendia produzir, isso por si só, não tem o condão de modificar o julgado.
+A Lei 6.194/74, regulamentadora do seguro obrigatório, dispensa maiores complexidades para o requerente buscar a cobertura devida, consoante o artigo 5.o, §§ 1e 3o, da Lei 6.194/74:
+Art . 5o O pagamento da indenização será efetuado mediante simples prova do acidente e do dano decorrente, independentemente da existência de culpa, haja ou não resseguro, abolida qualquer franquia de responsabilidade do segurado.
+§ 1o A indenização referida neste artigo será paga com base no valor vigente na época da ocorrência do sinistro, em cheque nominal aos beneficiários, descontável no dia e na praça da sucursal que fizer a liquidação, no prazo de 30 (trinta) dias da entrega dos seguintes documentos:
+a) certidão de óbito, registro da ocorrência no órgão policial competente e a prova de qualidade de beneficiários no caso de morte;
+b) Prova das despesas efetuadas pela vítima com o seu atendimento por hospital, ambulatório ou médico assistente e registro da ocorrência no órgão policial competente - no caso de danos pessoais.
+§ 2o Os documentos referidos no § 1o serão entregues à Sociedade Seguradora, mediante recibo, que os especificará.
+§ 3o Não se concluindo na certidão de óbito o nexo de causa e efeito entre a morte e o acidente, será acrescentada a certidão de auto de necrópsia, fornecida diretamente pelo instituto médico legal, independentemente de requisição ou autorização da autoridade policial ou da jurisdição do acidente. (sem destaques no original)
+Na hipótese, os documentos que instruem o feito preenchem os requisitos exigidos pela Lei, tornando irrelevante a apresentação de outras provas, verbis:
+1) certidão de óbito, onde consta que a causa da morte foi traumatismo encefálico, fratura craniana, acidente de trânsito, (ID 69516467);
+2) exame necroscópico descrevendo no histórico “Vitima de acidente de trânsito, na rodovia MT 170, próximo à Vila Cabaçal, município de Curvelândia/MT. Ocorreu capotamento do veículo que conduzia no dia 26/12/2019 (...), (ID 69516467);
+3) Boletim de ocorrência expedido pela autoridade policial competente (ID 69516465);
+Outrossim, a condição de Beneficiárias ficou demonstradamediante apresentação dos seguintes documentos:
+1) certidão de casamento (ID 69516461);
+2) Certidões de nascimento (Ids 69516463 e 69516462);
+3) Certidão de óbito, que declara nas averbações que o falecido deixou esposa e duas filhas (ID 69516467).
+Assim, não prospera a alegação de cerceamento de defesa por não ter sido expedido ofício ao INSS, uma vez não demonstrada a necessidade de tal providência, uma vez que cabia à Seguradora produzir provas contrárias àquelas constantes dos autos e não limitar-se a suposições.
+Sem maiores digressões, o ônus de produzir a prova é de quem alega, não constituindo dever do magistrado determinar a sua produção, ainda mais sendo estas de possível acesso da parte, as quais deveriam ter sido apresentadas juntamente com a contestação.
+Neste sentido:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - SEGURO DPVAT - CERCEAMENTO DE DEFESA - AUSÊNCIA DE DETERMINAÇÃO PARA OFICIAR AO INSS SOLICITANDO VERIFICAÇÃO DE OUTROS HERDEIROS - DILIGÊNCIA QUE NÃO COMPETE AO JUÍZO - PRELIMINAR REJEITADA - DECLARAÇÃO DE ÚNICOS HERDEIROS - DESNECESSIDADE - CONDIÇÃO DEMONSTRADA NOS AUTOS - INDENIZAÇÃO DEVIDA – HONORÁRIOS RECURSAIS – CABIMENTO - RECURSO NÃO PROVIDO. Não compete ao juízo diligenciar junto ao INSS ou qualquer outro órgão a fim de obter informações sobre a existência de outros herdeiros, pois cumpre à seguradora produzir provas contrárias das constante dos autos, e não apenas limitar-se a fazer suposições. Se porventura surgirem novos herdeiros, estes deverão pleitear o crédito em outra demanda, a ser ajuizada contra os autores, que receberam supostamente sem terem esse direito, não havendo prejuízo à seguradora. Não se cogita reservar cota-parte para eventuais demais herdeiros quando os autores comprovam essa condição, não cabendo a eles providenciar a respectiva Declaração já que nem sequer há essa exigência legal. Nos termos do art. 85, § 11, do CPC/2015, ao julgar o Recurso, o Tribunal deverá majorar os honorários anteriormente fixados, levando em conta o trabalho adicional realizado nessa fase.
+(TJ-MT - AC: 00283159420178110055 MT, Relator: RUBENS DE OLIVEIRA SANTOS FILHO, Data de Julgamento: 29/08/2018, Quarta Câmara de Direito Privado, Data de Publicação: 03/09/2018). (sem destaque no original)
+Portanto, não constitui cerceamento de defesa o julgamento antecipado da lide quando as provas pleiteadas forem irrelevantes ou inúteis para a solução da controvérsia, como no caso dos autos, em que, constatada a ocorrência do sinistro, a expedição de ofício ao INSS e a oitiva pessoal dos demandantes, como afirma a seguradora, em nada contribuiria para alterar o nexo de causalidade e a condição de beneficiários declarada pela parte autora.
+Ademais, observa-se que as Apeladas demonstraram serem herdeiras do falecido, bem como que a morte foi ocasionada por acidente de veículo, o que justifica a manutenção da sentença em todos os seus termos.
+Mantenho, assim, a condenação da Seguradora ao pagamento de R$ 13.500,00 (treze mil e quinhentos reais), a título de indenização securitária.
+Do recurso de Wellen Candido Lopes (ID. 69516498):
+A Apelante é advogada das Beneficiárias na Ação de Cobrança de Seguro Obrigatório (DPVAT) e pretende que os honorários sucumbenciais sejam suportados em sua integralidade pela Seguradora.
+É sabido que a sucumbência recíproca se caracteriza quando cada litigante é, em parte, vencedor e vencido, conforme preceitua o artigo 86 do CPC/15.
+Na hipótese, as Beneficiárias pleitearam, além da indenização securitária, a indenização por danos morais. Como obteve êxito apenas quanto ao primeiro pedido, não há como considerar que o objeto da ação seria apenas o pagamento da indenização do seguro DPVAT e, por isso, a sucumbência recíproca deve ser mantida.
+A porpósito:
+RECURSO DE APELAÇÃO CÍVEL – AÇÃO SUMÁRIA DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT) C/C PEDIDO DE DANOS MORAIS – PARCIAL PROCEDÊNCIA – ALEGAÇÃO DE SUCUMBÊNCIA MÍNIMA DA SEGURADORA – CONDENAÇÃO EM VALOR INFERIOR AO ATRIBUÍDO A CAUSA NÃO CARACTERIZA SUCUMBÊNCIA MÍNIMA – INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ARTIGO 86 DO CPC/15 – SUCUMBÊNCIA RECÍPROCA CARACTERIZADA – PARTE AUTORA VENCEDORA EM APENAS UM DOS SEUS PEDIDOS – IMPROCEDÊNCIA DOS DANOS MORAIS – APLICAÇÃO DA REGRA DO CAPUT DO ARTIGO 86 DO CPC/15 – PRETENDIDA REDUÇÃO DOS HONORÁRIOS SUCUMBENCIAIS – DESCABIMENTO – CAUSA DE PEQUENA MONTA – FIXAÇÃO POR APRECIAÇÃO EQUITATIVA – REGRA PREVISTA NO § 8o DO ART. 85 DO CPC/15 – ENTENDIMENTO PACIFICADO NO STJ ARESP 1337674/DF E RESP 1746254/SP – SENTENÇA REFORMADA EM PARTE – RECURSO PROVIDO PARCIALMENTE. Se a parte autora pediu em sua inicial a condenação da seguradora ao pagamento da indenização securitária e ao pagamento da indenização por danos morais e tendo sido julgado procedente apenas o pedido referente à indenização do seguro obrigatório DPVAT, caracterizada está a sucumbência recíproca, motivo pelo qual cada uma das partes deve responder na mesma proporção pelas custas processuais e honorários advocatícios, nos termos do que dispõe a regra do artigo 86 do CPC/15. A teor do § 8o do artigo 85 do CPC/15, nas causas em que não houver condenação em valores ou se este for inestimável ou de pequena monta, os honorários podem ser arbitrados por meio de análise equitativa do magistrado, desde que respeitados os parâmetros estabelecidos no § 2o do mesmo dispositivo legal.-
+(TJ-MT - AC: 10316432320188110041 MT, Relator: MARILSEN ANDRADE ADDARIO, Data de Julgamento: 01/07/2020, Segunda Câmara de Direito Privado, Data de Publicação: 08/07/2020). (sem destaque no original)
+Com essas considerações, nego provimento a ambos os apelos e mantenho a decisão hostilizada.
+Considerando que ambos os recursos foram desprovidos, majoro os horários sucumbenciais para 15% do valor da condenação, a serem pagos na forma pro rata.
+Intimem-se. Cumpra-se.
+Cuiabá, 31 de janeiro de 2.021.
+Des.a Clarice Claudino da Silva
+Relatora
