@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOABISON RODRIGUES SANTOScontra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0002470-95.2020.8.26.0521.
+Consta dos autos que o Paciente foi condenado à pena de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, e 166 (cento e sessenta e seis) dias-multa, como incurso no art. 33, § 4.º, da Lei n.11.343/2006.
+Após o cumprimento de 1/3 (um terço) da pena pelo Paciente, o Juízo das Execuções Criminais, em 21/04/2020,deferiu-lheo livramento condicional (fls. 23-24).
+Ao analisar o agravo em execução interposto pelo Ministério Público, o Tribunal de origem deu provimento ao recurso, em decisão assim ementada (fl. 33):
+"AGRAVO EM EXECUÇÃO - Condenado por tráfico de drogas a cumprirpena inferior a dois anos de reclusão - Pedido de cassação da decisãoque concedeu o livramento condicional ao agravado, eis que o beneficio,conforme o artigo 83 do CP, é destinado a condenados com pena igualou superior a dois anos - Vedação legal à concessão - Recurso providopara cassar a decisão devendo o agravado retornar ao cumprimento desua reprimenda no regime prisional em que se encontrava anteriormente."
+Daí o presente mandamus, em que a Parte Impetrante alega constrangimento ilegal, ao argumento de que o regime inicial fechado foi estabelecido com base em fundamentação inidônea, além de ser cabível a substituição da pena reclusiva por restritivas de direitos. Argumenta, para tanto, que foi ofendido o princípio constitucional da individualização da pena. Aduz que o Tribunal estadual não aplicou a jurisprudência do Superior Tribunal de Justiça a respeito do regime inicial adequado aos condenados pelo crime de tráfico privilegiado.
+Requer, liminarmente e no mérito, a modificação do regime de cumprimento de pena do Paciente e a sua substituição pelas restritivas de direitos.
+É o relatório.
+Decido.
+Verifico que as matérias formuladas no presente habeas corpus não foram objeto de manifestação no acórdão apontado como coator, nem sequer foi juntada a cópia de eventual julgado anterior pelo Tribunal estadual no processo-crime. Dessa forma, o respectivo exame per saltum pelo Superior Tribunal de Justiça caracterizaria a indevida supressão de instância.Em outras palavras, à Corte Superior não cabe conhecer de habeascorpus que veicula questão não ventilada/decidida nofeitojulgado pelo Tribunal local.
+Ressalto quanto ao livramento condicional que, embora não impugnado pelo writ, não constato ilegalidade patente para a concessão da ordem de oficio, uma vez queo entendimento adotado pelo Tribunal de Justiça do Estado de São Paulo encontra-se conformado à jurisprudência do Superior Tribunal de Justiça, de que é exemplo o seguinte julgado:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PENA INFERIOR A DOIS ANOS (ART. 83, CP). INVIABILIDADE DA PRETENSÃO DEFENSIVA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Conforme determina o caput do artigo 83, do Código Penal, o livramento condicional é admitido para condenados a pena superior a dois anos de reclusão (HC 120.733/RS, Rel. Ministro CELSO LIMONGI (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 10/02/2009, DJe 02/03/2009).
+2. Restando, apenas, 9 meses e 1 dia de pena a cumprir, mostra-se inviável a pretensão defensiva de concessão da liberdade condicional, nos estritos termos do art. 83 do Código Penal.
+3. Agravo regimental improvido." (AgRg no HC 515.987/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/02/2020, DJe 12/02/2020; sem grifo no original.)
+Ante todo o exposto, com fundamento no art. 210 do Regimento Interno doSuperior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE APLICAÇÃO DO REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA RECLUSIVA POR RESTRITIVAS DE DIREITOS. MATÉRIA NÃO EXAMINADA NO ACÓRDÃO IMPUGNADO. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL.
