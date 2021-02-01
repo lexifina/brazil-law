@@ -1,0 +1,14 @@
+DECISÃO
+Joana Darc Pereira da Silva impetra o presente mandado de segurança, com pedido de liminar, em confusa petição, da qual se extrai, em síntese, que sua irresignação está voltada contra a majoração da verba honorária determinada pela instância ordinária,no Tribunal de Justiça do Distrito Federal e dos Territórios, em processo originário no qual alega a existência deuma série de vícios.
+Aponta como ato coator a decisão do Presidente da Corte, nos autos do Agravo Interno no AREsp n. 1.719.062/DF, que manteve a decisão de não conhecimento do agravo em recurso especial, em razão da ausência de impugnação específica aos fundamentos da decisãoa quode inadmissibilidade do recurso especial e, ao final, determinou a distribuição do agravo interno (fls. 67-68).
+Sustentando que não seria cabível a majoração da verba honorária somente contra ela, que foi lesada pelos autores da ação ilegal de reparação de danos, e invocando que " ..  não mais cabe recurso no âmbito do STJ  .. ",afirma a presença dos necessário requisitos para a concessão da liminar, nos seguinte termos (fl. 64):
+ ..  para reconhecer e declarar o direito líquido e certo da impetrante, de não ser processada nem condenada sem praticar falta, ato ilícito civil, criminal nem qualquer outro tipo de ilícito contra os Reclamados, nem contra outras pessoas.
+Gratuidade de justiça deferida no tocante às custas (fl. 163).
+É o relatório. Decido.
+Verifica-se queesta não é aprimeira ação mandamental movida pela impetrante, por meio da qual, em verdade, nada mais pretende atacar, do que o processo indenizatório movido em seu desfavor. Nos autos do MS n. 27.029/DFfoi proferida decisão de indeferimento da inicial, sem resolução de mérito.
+De certo modo, ainda que a impetrante invoque a decisão do citado Agravo Interno no Agravo em Recurso Especial, é evidente que sua pretensão é, por via transversa e inadequada, atacar a decisão proferida pelo Tribunal de Justiça do Distrito Federal e dos Territórios no respectivo feito indenizatório.
+O próprio pedido liminar se mostra evidentemente desconectado com a fundamentação da decisão desta Corte que aponta como ato violador de seu direito líquido e certo.
+Ademais, a alegação de quea decisão no referido Agravo seria definitiva, é totalmente impertinente, pois conformejá ressaltado, por entender não se tratar de caso de retratação, o Ministro Presidente determinou adistribuição do agravo, o que significa que ele será analisado por um ministro relator ou por órgão colegiado.
+Ante o exposto, ausentes as necessárias condições da ação, indefiro a inicial, com fundamento no art. 212 do RISTJ, art. 10, da Lei n. 12.016/2009 e art. 34, XIX, do RISTJ, julgando prejudicado o pedido liminar.
+Sem condenação em honorários advocatícios, nos termos do art. 24 da Lei n.12.016/2009 e da Súmula n. 105/STJ.
+Publique-se. Intimem-se.
