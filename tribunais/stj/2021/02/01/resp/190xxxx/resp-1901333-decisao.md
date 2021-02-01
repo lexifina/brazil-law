@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto porEMPREENDIMENTOS IMOBILIÁRIOS PARAÍSOLTDA.contra acórdão assim ementado:
+AÇÃO DE RESCISÃO DE CONTRATO. JULGADA PARCIALMENTE PROCEDENTE.APELAÇÃO CÍVEL 01 -- TEORIA DO ADIMPLEMENTO SUBSTANCIAL - INAPLICÁVEL - VALOR EFETIVAMENTE PAGO (26% DO CONTRATO) QUE NÃO É SUFICIENTE PARA A OBSERVÂNCIA DA REFERIDA TEORIA - DA POSSIBILIDADE DE CUMULAÇÃO DOS PEDIDOS DE RESOLUÇÃO DE CONTRATO COM REINTEGRAÇÃO NA POSSE - DA REGULARIDADE DA NOTIFICAÇÃO EXTRAJUDICIAL - DA IMPOSSIBILIDADE DE REVISÃO DE OFÍCIO DAS CLÁUSULAS CONTRATUAIS - ALUGUERES DEVIDOS - INDENIZAÇÃO POR BENFEITORIAS E RETENÇÃO DO IMÓVEL JÁ DETERMINADA PELO MAGISTRADO DE I GRAU - RESTITUIÇÃO DE VALORES EM FAVOR DO APELANTE A SER VISTA NA LIQUIDAÇÃO DE SENTENÇA - ÔNUS SUCUMBENCIAIS - APLICABILIDADE DO PARÁGRAFO ÚNICO DO ARTIGO 86 DO CPC - SENTENÇA MANTIDA - HONORÁRIOS RECURSAIS - APELAÇÃO NÃO PROVIDA APELANÇÃO CÍVEL 02 - TERMO INICIAL ALUGUERES - CONSTITUIÇÃO EM MORA DO DEVEDOR - SENTENÇA MANTIDA - APELAÇÃO CÍVEL NÃO PROVIDA.
+1. Resolvido o contrato em virtude da inadimplência do promitente comprador, a indenização a ser paga deve compreender o valor dos alugueis que seriam pagos desde a data da sua constituição em mora, até a efetiva desocupação do imóvel.
+(TJPR - 7ª C.Cível - AC - 1151719-6 - Curitiba - Rel.: Fábio Haick Dalla Vecchia - Unânime - J. 25.03.2014)
+Os embargos de declaração opostos foram rejeitados (fls. 618 - 621, e-STJ).
+Nas razões de recurso especial, alega a ora recorrente, em suma, divergência jurisprudencial e violação aos artigos 402, 475 e 884, do CódigoCivil; e 1.022 do Código de Processo Civil de 2015.
+Sustenta a nulidade do acórdão por omissão acerca dos dispositivos de Lei alegadamente violados.
+Informa que a Corte local, ao determinar a rescisão do contratode compra e venda de imóvelpor inadimplência da parte recorrida (compradora), adotou posicionamento equivocado por fixar comotermo inicialpara fins de reparação material a data de constituição da parte devedora em mora, ressaltando que a recomposição indenizatória deveriaabranger o período completo de ocupação do imóvel, considerando-sea data do início da posse.
+Não foram apresentadas contrarrazões.
+O recurso foi admitido na origem, nos termos da decisão de fls. 744 - 746, e-STJ.
+Assim posta a questão, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Assiste parcial razão à parte recorrente.
+Inicialmente, quanto à alegada violação do artigo 1.022 do CPC de 2015, cumpre ressaltar que os embargos de declaração, ainda que opostos para prequestionamento, são cabíveis quando o provimento jurisdicional padece de omissão, contradição ou obscuridade, bem como para sanar erro material, vícios inexistentes na espécie.
+Observo que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia. Registre-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre os considerados suficientes para fundamentar sua decisão, o que foi feito. Nesse sentido: Edcl no AgRg no Ag nº 492.969/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJ de 14.2.2007; AgRg no Ag nº 776.179/SP, Relator Ministro José Delgado, Primeira Turma, DJ de 12.2.2007; e REsp 523.659/MG, Relator Ministro João Otávio de Noronha, Segunda Turma , DJ de 7.2.2007.
+No ponto, ao oposto de apresentar omissão, a Corte local concluiu, com base na análise de fatos e provas levados aos autose de forma fundamentadaque o termo inicial para fins de indenização pela ocupação do imóvel deveria coincidir com data da constituição do devedor em mora, conforme se depreende do trecho do acórdão abaixo reproduzido (e-STJ, fls. 576 - 577):
+A EMPREENDIMENTOS IMOBILIÁRIOS PARAÍSO LTDA.sustenta a incorreção na fixação do período de apuração dos alugueres, eis que devidos desde a assinatura do contrato até a efetiva saída do lote, sob pena de enriquecimento indevido do promitente comprador.
+Sem razão.
+Esta 7ª Câmara Cível possui entendimento quanto ao termo inicial dos alugueres serem a constituição em mora do devedor até a efetiva desocupação.
+Nesse sentido:
+(..)
+Assim nego provimento ao apelo 02.
+Quanto ao tema, todavia, verifica-se que a Corte local adotou posicionamento em sentido oposto ao perfilhado pela jurisprudência desta Corte Superior, segundo o qual o termo inicial, para fins de indenização devida pela ocupação do imóvel, em casos de rescisão do contrato de compra e venda por inadimplência do comprador, deve coincidir com a data da efetiva disponibilização do bem. A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA PARTE ADVERSA. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+(..)
+2. "Decretada a resolução do contrato de compra e venda de imóvel, com a restituição da s parcelas pagas pelo comprador, o retorno das partes ao estado anterior implica o pagamento de indenização pelo tempo em que o comprador ocupou o bem, desde a data em que a posse lhe foi transferida. Precedentes." (AgInt no REsp 1216477/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/04/2018, DJe 07/06/2018).
+3. Agravo interno desprovido (AgInt nos EDcl no AREsp 1657021 / SP, Relator: Ministro MARCO BUZZI, QUARTA TURMA, Julgamento, 21/9/2020, DJe 24/9/2020)
+Em face do exposto, dou parcialprovimento ao recurso especial determinando o retorno dos autos à origem para que seja fixado como termo inicial daindenização em apreço, a data da efetiva disponibilização do imóvel para posse da parte recorrida.
+Intimem-se.
