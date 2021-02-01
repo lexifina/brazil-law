@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIANE SOUZA FIGUEIREDO e ELAINE MARTINS DE MOURA LIMA, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fls. 343/344):
+ADMINISTRATIVO. APELAÇÃO. CONCURSO PÚBLICO. CARGO DE FARMACÊUTICO.CANDIDATAS APROVADAS COM QUALIFICAÇÃO DIVERSA DA EXIGIDA PELO EDITAL DO CERTAME. PRINCÍPIO DA VINCULAÇÃO AO EDITAL. APTIDÃO PARA O CARGO NÃO DEMONSTRADA. APELAÇÃO IMPROVIDA.
+1. Hipótese em que a pretensão recursal cinge-se em saber se a escolaridade apresentada pelas candidatas, ora apelantes, supre a escolaridade exigida no Edital nº 84/2016 do concurso público realizado pela Universidade Federal de Pernambuco para a investidura no cargo de código nº 48, denominado "Farmacêutico".
+2. A inscrição no certame implica a adesão a todas as regras contidas no Edital, bem como que, uma vez estabelecidas e aceitas as normas, vige o princípio da vinculação ao edital (regime jurídico-administrativo de sujeição especial). O edital é o instrumento hábil para qualificar as exigências e condições necessáriasà postulação da vaga. Ao exigir um diploma superior em determinada área, busca-se garantir que o candidato tenha conhecimentos necessários ao melhor exercício das atribuições do cargo.
+3. Na espécie, embora possam ser verificadas semelhanças de área e a identidade de algumas atribuições entre os farmacêuticos bioquímicos e os biomédicos, a função e os currículos dessas profissões não guardam suficiente identidade a justificar o pleito de equiparação de tratamento, razão pela qual, não observo como ilegal a discriminação editalícia de limitar a concorrência de cargo de Farmacêutico para os profissionais em farmácia/farmácia bioquímica.
+4. Apelação não provida.
+Rejeitados os aclaratórios (e-STJ fls. 380/382).
+Nas suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 4º e 5º da Lei n.6.684/1979, 4º do Decreto n.88.439/1983 e 3º, caput e § 1º, I, da Lei n.8.666/1993, sustentando quea habilitação debiomédico supriria as exigências editalícias para o cargodisputado (farmacêutico).
+Contrarrazões às e-STJ fls. 421/428.
+Juízo positivo de admissibilidade pelo Tribunal de origem àe-STJ fl. 43 0.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Com efeito, entendeu a Corte a quoque, "ainda que possam ser verificadas semelhanças de área e a identidade de algumas atribuições entre os farmacêuticos bioquímicos e os biomédicos, a função e os currículos dessas profissões não guardam suficiente identidade a justificar o pleito de equiparação de tratamento, razão pela qual não se reconheceu a ilegalidade da limitação editalícia quanto à concorrência de cargo de Farmacêutico para os profissionais em farmácia/farmácia bioquímica"(e-STJ fls. 381).
+Assim, verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático- probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
