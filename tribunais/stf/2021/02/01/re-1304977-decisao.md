@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da 3ª Turma Recursal do Estado de Santa Catarina, assim ementado:
+    “SERVIDOR PÚBLICO. PROFESSOR ATIVO DA UNIVERSIDADE FEDERAL DE SANTA CATARINA - UFSC E PROCURADOR DA FAZENDA NACIONAL APOSENTADO. CUMULAÇÃO DE REMUNERAÇÃO E PROVENTOS. TETO CONSTITUCIONAL. INCIDÊNCIA ISOLADA EM CADA VÍNCULO. POSSIBILIDADE. CORREÇÃO MONETÁRIA. IPCA-E.
+    1. O servidor público com dois vínculos estatutários federais, professor em atividade e Procurador da Fazenda Nacional aposentado, atende ao requisito do art. 37, XI, da Constitucional Federal que permite aplicação isolada do teto constitucional para cada remuneração. Orientação do Tema 377 do STF - "Nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a incidência do art. 37, inciso XI, da Constituição Federal pressupõe consideração de cada um dos vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente público.".
+    2. Correção monetária pelo IPCA-E, nos termos do RE 870.974 (Tema 810) e do REsp 1.495.146 (Tema 905).
+    3. Sentença mantida pelos próprios fundamentos.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação ao art. 37, XI, da CF.
+    O recurso extraordinário não deve ser provido, tendo em vista que acórdão recorrido está em consonância com o entendimento firmado pelo Plenário do Supremo Tribunal Federal (STF), que, no RE 612.975, Rel. Min. Marco Aurélio, submetido à sistemática de repercussão geral (Tema 377), fixou a tese de que, nos casos autorizados constitucionalmente de acumulação de cargos, empregos e funções, a incidência do art. 37, XI, da Constituição Federal pressupõe consideração de cada um dos vínculos formalizados, afastada a observância do teto remuneratório quanto ao somatório dos ganhos do agente público.
+    Ademais, o Tribunal de origem assentou a licitude da acumulação dos cargos pelo autor. Para dissentir desse entendimento e chegar à conclusão pretendida pelo recorrente, seria necessário analisar os fatos e provas constantes dos autos, bem como a legislação infraconstitucional pertinente, providências inviáveis de serem realizadas neste momento processual (Súmula 279/STF).
+    Vale ressaltar que, observado o art. 37, XVI, da CF, é desnecessária a comprovação de compatibilidade de horários na hipótese de acumulação de proventos de aposentadoria com o exercício de cargo público de dedicação exclusiva. Veja-se:
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Servidor público. Acumulação de proventos com vencimentos. Cargos acumuláveis. Compatibilidade de horário. Comprovação. Desnecessidade. Precedentes.
+    1. Nos casos em que for admissível a acumulação, não há falar em comprovação da compatibilidade de horários quando o servidor público pretender acumular proventos de aposentadoria com remuneração.
+    2. Agravo regimental não provido.” (ARE 802.177-AgR, Rel. Min. Dias Toffoli)
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+          Brasília, 1º de fevereiro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
