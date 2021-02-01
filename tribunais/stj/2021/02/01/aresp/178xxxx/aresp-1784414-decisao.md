@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de dois Agravos de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/88) interposto contra acórdão assim ementado (fl. 412, e-STJ):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PEDIDO DE REMOÇÃO POR MOTIVO DE SAÚDE DE DEPENDENTE. INSTITUIÇÕES FEDERAIS DE ENSINO DIVERSAS. POSSIBILIDADE. POSSIBILIDADE.
+1. O art. 36, III, alínea "b", da Lei 8.112/90, faculta ao servidor obter remoção, independentemente do interesse da Administração, quando motivado por doença própria, do cônjuge ou de dependente, condicionada à comprovação do alegado estado de saúde por junta médica oficial, a ser instaurada no âmbito administrativo.
+2. A jurisprudência desta Corte e do STJ orienta-se no sentido de que, para fins de aplicação do artigo 36 da Lei 8.112/1990, o cargo de professor de Universidade Federal deve ser interpretado como pertencente a um quadro único, vinculado ao Ministério da Educação.
+3. Considerando a existência de parecer da Junta Médica O cial favorável ao pedido, em razão do filho do servidor ser portador de enfermidade cujo tratamento não pode ser realizado na localidade de exercício atual de lotação, é de ser reconhecido o pedido deremoção, enquanto durar o motivo de saúde que a condiciona e autoriza.
+Os Embargos de Declaração foram rejeitados (fls. 440-441, e-STJ).
+Sustenta a Fundação Universidade Federal do Rio Grande - FURG(fls. 459-465, e-STJ):
+Pondera-se que os embargos de declaração foram interpostos exatamente para elucidar as questões, visando buscar uma clara resposta jurisdicional acerca da matéria aduzida nos mesmos, sendo que se manteve a negativa em sanear as omissões demonstradas.
+(..)
+De acordo com a Lei nº 8.112/90, somente a remoção pode se dar por motivo de doença do servidor ou dependente que viva as suas expensas, independente do interesse da Administração. A redistribuição, por sua vez, ocorre somente no interesse da Administração.
+Por sua vez, assim se manifesta a Fundação Universidade Federal do Pampa - UNIPAMPAem suas razões recursais (fls. 467-490, e-STJ):
+No intuito de aperfeiçoar o prequestionamento da matéria, a autarquia ou fundação pública federal demandada opôs os pertinentes embargos declaratórios discutindo violação a (i) art. 1º, § 6º ; art. 12 , § 4º ; art. 14 , § 4º, todos da Lei n.º 12.772/2012 ;(ii) art. 36, inc. III, alínea "b", da Lei n.º 8.112/90.
+(..)
+Em detalhe, discutiu-se sobre a existência de diversidade entre os quadros de pessoal das Instituições Federais de Ensino (IFE), com o que impossível a ilimitada transferência desde um quadro de pessoal para um diferente quadro de pessoal, (a) seja dentro do Ministério da Educação, seja dentro do Ministério da Defesa, (b) seja entre entes dois Ministérios.
+(..)
+Como antes dito, a Administração entende que a criação de um plano de carreiras e de cargos não implica dizer que todos os servidores de todas as instituições federais de ensino compõem uma única carreira em que podem se deslocar livremente esem qualquer obstáculo; em verdade, o diploma traz uma uniformização das relações mantidas entre servidores e instituições de ensino, mantendo-se em cada uma dessas instituições uma carreira com cargos próprios.
+Contrarrazões às fls. 501-508, e-STJ.
+Ambos os recursos não foram admitidos na instância de origem, o que deu ensejo à interposição dos Agravos ora julgados (fls. 528-533 e539-544, e-STJ).
+Contraminutas às fls. 557-563, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 9.12.2020.
+Os recursos não merecem prosperar.
+Trata-se, na origem, de Ação Ordinária ajuizada pelo ora recorrido na qual pretende seja concedida sua remoção definitiva por motivos de saúde de seu dependente.
+1 - Recurso daFundação Universidade Federal do Rio Grande - FURG
+Inicialmente, a parte recorrente sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria ter-se pronunciadoa instância ordinária, nem demonstrar a relevância delas para o julgamento do feito.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Cito precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. CONTRATO DE TRANSPORTE DE PESSOAS. ACIDENTE COM VÍTIMA FATAL. PENSÃO MENSAL. FIXAÇÃO COM BASE NO SALÁRIO MÍNIMO. DANO MORAL CARACTERIZADO. QUANTUM. RAZOABILIDADE. OFENSA AO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/1973). ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. OFENSA A DISPOSITIVO CONSTITUCIONAL. RECURSO ESPECIAL - VIA INADEQUADA. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.(AgInt no AREsp 510.571/PE, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 6/12/2016, DJe 19/12/2016)
+Por fim, na hipótese dos autos, o Tribunal a quo consignou (fl. 741, e-STJ):
+Na hipótese, após realização de avaliação psicossocial com psicóloga e assistente social da UNIPAMPA, a Junta Médica Oficial deu parecer favorável ao pedido de remoção, sob o argumento que o menor é portador de enfermidade cujo tratamento não pode ser realizado na localidade de exercício atual do servidor, devendo este ser removido para outra localidade. Ademais, ressaltou a necessidade de a remoção ser concretizada em local onde o familiar (menor) reside e realiza tratamento.
+É inviável, portanto, analisar as teses defendidas no Recurso Especial - remoção por necessidade de tratamento de saúde de dependente menor -, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+2 - Recurso daFundaçãoUniversidade Federal do Pampa - UNIPAMPA
+Inicialmente constato que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, Corte Especial, DJe 27/5/2015.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte recorrente. Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas trazidos à tutela jurisdicional, no momento processual oportuno.
+Por fim, não se pode conhecer da irresignação contra a ofensa aos arts. 1º, § 6º,12 , § 4º, e 14 , § 4º, todos da Lei 12.772/2012, pois a tese legal apontada não foi analisada pelo acórdão hostilizado.
+Assim, perquirir, nesta via estreita, a ofensa às referidas normas, sem que se tenha explicitado a tese jurídica no juízo a quo, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. No ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+No mesmo sentido, os enunciados das Súmulas211 do STJ e 356 do STF. Assente nesta Corte o entendimento de que é condição sine qua non para que se conheça do Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+Por fim, na hipótese dos autos, o Tribunal a quo consignou (fl. 741, e-STJ):
+Na hipótese, após realização de avaliação psicossocial com psicóloga e assistente social da UNIPAMPA, a Junta Médica Oficial deu parecer favorável ao pedido de remoção, sob o argumento que o menor é portador de enfermidade cujo tratamento não pode ser realizado na localidade de exercício atual do servidor, devendo este ser removido para outra localidade. Ademais, ressaltou a necessidade de a remoção ser concretizada em local onde o familiar (menor) reside e realiza tratamento.
+É inviável, portanto, analisar as teses defendidas no Recurso Especial - remoção por necessidade de tratamento de saúde de dependente menor -, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor das agravantes, em10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Por tudo isso, conheço de ambos os Agravos para não conhecer dos Recursos Especiais.
+Honorários advocatícios majorados em 10% (dez por cento) do valor já arbitrado.
+Publique-se.
+Intimem-se.
