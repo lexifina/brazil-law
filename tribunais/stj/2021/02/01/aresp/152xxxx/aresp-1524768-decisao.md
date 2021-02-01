@@ -1,0 +1,22 @@
+DECISÃO
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. APELAÇÃO EM MANDADO DE SEGURANÇA. DOMICÍLIO ELETRÔNICO DO CONTRIBUINTE - DEC. - NOTIFICAÇÃO. ACÓRDÃO FUNDADO NA INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL (LEI ESTADUAL PAULISTA 13.918/2009). SÚMULA 280/STF. ALÉM DISSO, O TRIBUNAL DE ORIGEM AFIRMOU EXPRESSAMENTE QUE FORAM ASSEGURADOS O CONTRADITÓRIO E A AMPLA DEFESA, NÃO SENDO TAL PREMISSA PASSÍVEL DE DESCONSTITUIÇÃO SEM UMA NOVA ANÁLISE DO ACERVO PROBATÓRIO DA CAUSA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que negou seguimento ao Recurso Especial de RK TRADING LTDA., interposto com fulcro no art. 105, III,a e cda Constituição Federal, contra acórdão proferido pelo egrégio TJ/SP, assim ementado:
+Apelação Cível. Tributário.
+Mandado de Segurança Contribuinte cadastrado no sistema denominado Domicílio Eletrônico do Contribuinte DEC (L.13.918/2009) Notificação Ausência de comunicação do resultado do julgamento em âmbito administrativo Publicação ocorrida apenas no Diário Oficial Eletrônico Assegurados os princípios do contraditório e da ampla defesa A impetrante deveria ter observado a observação contida na notificação acerca da apresentação de sua defesa, fazendo uso do sítio eletrônico denominado e-PAT Sentença mantida Recurso desprovido.
+Nega-se provimento ao recurso interposto (fls. 371).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 406/412).
+3. A argumentação do Apelo Nobre está exposta, em suma, na seguinte tese:
+(..) o voto vencedor do v. acórdãorecorrido (fls. 409/417), por meio do qual foi desprovido o apelo da Recorrente, (i) encampou grave erro material, consistente na ausência de aplicação do artigo 942 o do Código de Processo Civil in casu, a desaguar na nulidade absoluta dojulgamento; bem como (ii) contém várias omissões, relativas a argumentosexpostos na apelação e que poderiam alterar o resultado da lide (artigo 1022 c.c. artigo 489, §1o., inciso IV, ambos do Código de Processo Civil), (..) - (fls. 418/419).
+4.Com contrarrazões (fls. 497//530), o recurso foi inadmitido na origem (fls. 536/538).
+5. É o relatório.
+6.A irresignação não merece acolhimento.
+7. Inicialmente, não se vislumbra a alegada violação dos arts. 489 e 1.022 do Código Fux.A lide foi resolvida integralmente e com fundamentação adequada ao seu deslinde, inexistindo mácula no julgado que conduza ao acolhimento do pleito, no ponto.
+8.Quanto ao mais, observa-se que, a despeito da alegação de deafronta à norma infraconstitucional (art. 942 do Código Fux), a fundamentação do acórdão recorrido está alicerçada na interpretação e alcancede norma local (Lei Estadual paulista 13.918/2009), de sorte que sua modificação fica obstada pela incidência da Súmula 280/STF. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ICMS. ANÁLISE DA LEI ESTADUAL 13.918/2009.IMPOSSIBILIDADE. SÚMULA 280/STF. COMPETÊNCIA DEFERIDA AO STF: CF, ART. 102, III, "D".
+1. Verifica-se que o Tribunal a quo valeu-se da interpretação de legislação local (Lei Estadual 13.918/2009) para decidir a controvérsia. Na esteira da jurisprudência desta Corte Superior, nesses casos, não há a abertura da via especial, em virtude do óbice contido na Súmula 280/STF.
+2. Outrossim, após a edição da Emenda Constitucional 45/04, a competência para o julgamento de causas nas quais lei local é contestada em face de lei federal foi transferida para o Supremo Tribunal Federal, consoante dispõe o art. 102, III, "d", da Carta Magna.
+3. Agravo Interno não provido (AgInt no AREsp. 945.537/SP, Rel. Min.HERMAN BENJAMIN, DJe 1o.2.2017).
+9. Assinale-se quea Corte local, da moldura fática analisada, em observância à legislação local mencionada, consignou expressamente que foram assegurados àora agravante os princípios do contraditório e da ampla defesa (fls. 378). Dessa forma a,modificação do julgado, tal como pretende aagravante, não dispensaria a revisão do acervo probatório da causa, tarefa defesa em Recurso Especial.
+10. Com fundamento na alínea c do permissivo constitucional, o recurso também não merece êxito, porquanto não foram atendidos os requisitos de admissibilidade sob esse fundamento, tal como previsto nos arts. 1.029 do Código Fux e 255 do RI/STJ, notadamente à falta da demonstração da semelhança fática entre os arestos confrontados.
+11. Ante o exposto, nega-se provimento ao Agravo da Empresa.
+12. Publique-se. Intimações necessárias.
