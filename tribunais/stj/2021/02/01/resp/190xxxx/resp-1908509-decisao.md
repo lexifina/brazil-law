@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de Recursos Especiais(art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal Regional Federal da 4ª Região sob o pálio da seguinte ementa:
+DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. URP. DECADÊNCIA. VALORES RECEBIDOS POR TEMPO SUPERIOR AO DEVIDO, POR FORÇA DE DECISÃO JUDICIAL PRECÁRIA, POSTERIORMENTE REVOGADA. BOA-FÉ DOS SERVIDORES. RESTITUIÇÃO INDEVIDA.
+- Tratando-se de implantação de rubrica na folha de pagamento de servidor, que decorre de cumprimento de decisão judicial, não se aplica o art.54, da Lei 9.784/99.
+- Os valores relativos à URP/1989, reconhecidos como devidos pela Justiça do Trabalho, mas recebidos por período de tempo mais extenso do que o devido, tendo em vista decisão judicial precária, posteriormente revogada, não precisam ser restituídos aos cofres públicos, porque constituem verba alimentar recebida de boa-fé pelo servidor, nos termos da jurisprudência consolidada do STF
+Os Embargos de Declaração foram acolhidos apenas para efeito de prequestionamento às fls. 604-608.
+A servidora pública, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação legal, pleiteando, em síntese:
+Ora, se o que obrigou a administração a manter o pagamento da verba salarial em tela (a partir de maio de 2002) foi a concessão da antecipação de tutela nos autos da Ação Ordinária nº 2002.72.00.002565-6, parece evidente que por ocasião da superveniente revogação dessa ordem(em 26 de setembro de 2007), viu-se ela completamente livre para agir segundo seu interesse, sendo rigorosamente desnecessário que aguardasse o trânsitoem julgado da lide para só então adotar a debatida providência de reposição ao erário
+À vista de tais elementos, e tendo-se em conta que entre o dia 26 de setembro de 2007 (quando a União viu ser perfeitamente conformado seu interesse de agir,tanto em promover a supressão do pagamento da verba salarial em tela quanto sua reposição ao erário), e a data em que efetivamente agiu nesta direção, ou seja, em 22 de novembro de 2013, transcorreram mais 6 (seis) anos, mostra-se inequívoca a completa fluência dosprazos prescricional e decadencial, a fulminar a pretendida reposição ao erário.
+REQUERIMENTOAnteo exposto,e dos melhores de direito -que Vossas Excelências bem haverão de reconhecer -é o presente para requerer seja recebido e admitido o presenteRecurso Especial, e dando-lhe provimentopara declarar que incide no caso a incidência da decadência administrativa.
+A União, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação legal, pleiteando, em síntese:
+Diante do exposto, a União requer Vossas Excelências admitam e deem provimento ao presente Recurso Especial, para anular o acórdão recorrido e determinar o retorno dos autos à origem, a fim de que sejam analisadas todas as questões trazidas em sede de embargos declaratórios. Caso assim não se entenda, requer-se Vossas Excelências, ao exame da matéria, admitam e deem provimento ao presente Recurso Especial, para reformar o acórdão recorrido e julgar improcedente a ação, imprimindo, dessa forma, a melhor aplicação ao direito federal aqui versado, restaurando-se a vigência plena dos artigos violados, garantindo a inteireza positiva, de autoridade e uniformidade de interpretação da legislação federal, com a condenação da parte adversa nos ônus de sucumbência, conforme adrede expendido.
+Contrarrazões apresentadas.
+Decisõesde admissibilidade do Recurso Especial às fls. 669-670 e 672-673.
+É o relatório.
+Decide-se
+Os autos foram recebidos neste Gabinete em 16.12.2020.
+Cuida-se de inconformismo contra acórdão do Tribunal de origem que entendeu que "os valores relativos à URP/1989, reconhecidos como devidos pela Justiça do Trabalho, mas recebidos por período de tempo mais extenso do que o devido, tendo em vista decisão judicial precária, posteriormente revogada, não precisam ser restituídos aos cofres públicos, porque constituem verba alimentar recebida de boa-fé pelo servidor".
+No enfrentamento do mérito, consigna-seque a controvérsia envolve a obrigatoriedade ou não da autora, servidora pública federal vinculada à Secretaria da Receita Federal do Brasil em Santa Catarina, de restituir os valores pagos (URP de fevereiro/89) por força da decisão judicial proferida na ação trabalhista 725/1989, ajuizada pelo SINDPREVS/SC. Com a incorporação do reajuste, a referida verba passou a ser paga em rubrica específica, até que em 2002 a Administração, reanalisando a questão, reputou que o percentual deveria ser deduzido em datas-bases posteriores, o que acarretaria a cessação ainda em dezembro de 1989.
+Os Recurso Especiais serão analisados separadamente.
+1 - Recurso Especial da União
+A União demonstrouque houve omissão acerca dos seguintes dispositivos legais em confronto com a matéria em discussão na lide: art. 535, IV do novo CPC e arts. 876, 884 e 885 do CC; arts. 113, 114, 115, 502 e 520 do novo CPC; arts. 46 e 114, da Lei nº 8.112/90;arts. 876 e 884 do Código Civil; art. 296, art. 297, § único, art. 300, § 3º, art. 519, art. 520, I e II, art. 927, III, todos do CPC; art. 53 da Lei 9.784/99.
+Como já relatado, a parte recorrente opôs Embargos de Declaração com intuito de provocar a manifestação sobre anecessidade de integração do INSS ao polo passivo da presente demanda e avalidade da exigência de reposição ao erário.
+Embora o Sodalício a quo tenha provido os Aclaratórios para fins de prequestionamento, não houve o devido aprofundamento das matérias, nem análise de eventuais fatos e provas,
+Transcreve-se a ementa do acórdão que analisou os Aclaratórios (fl.604-605):
+EMBARGOS DECLARATÓRIOS. HIPÓTESES. PREQUESTIONAMENTO.- São cabíveis embargos de declaração contra qualquer decisãojudicial para esclarecer obscuridade, eliminar contradição, suprir omissão oucorrigir erro material, consoante dispõe o artigo 1.022 do CPC.- A modificação do julgado é admitida apenas excepcionalmente eapós o devido contraditório (artigo 1.023, § 2º, do CPC).- Não há a necessidade do julgador mencionar os dispositivos legaise constitucionais em que fundamenta sua decisão, tampouco todos os citadospelas partes.- Embargos acolhidos tão somente para efeitos deprequestionamento.
+É conhecido o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida que, portanto, não abrange toda a controvérsia.
+No caso, os fundamentos asseverados pelo Tribunal a quo não são hábeis para afastar a argumentação tida como ignorada. Mesmo com os Aclaratórios opostos para suprir a lacuna, a Corte de origem deixou de se manifestar sobre o ponto.
+Ainda que a decisão recorrida estabeleça o contexto probatório como suficiente, é importante destacar a plausibilidade da matéria de defesa não apreciada.
+Reconhece-se, portanto, a existência de omissão no acórdão impugnado e, por conseguinte, a ofensa ao art. 1.022 do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE.
+1. O aresto proferido no julgamento da apelação não emitiu pronunciamento acerca da legitimidade de condicionar a liberação de mercadoria importada à prestação de garantia, nos termos do art. 80 da Medida Provisória nº 2.158, de 24.08.01, argüida em contestação e nas razões de apelo. Há violação do artigo 535 do CPC quando a Corte de origem se descuida de apreciar matéria relevante ao deslinde da controvérsia posta em julgamento, cujo conhecimento lhe foi devolvido por ocasião de recurso voluntário e da remessa oficial.
+2. Regresso dos autos à origem para que novo acórdão seja proferido nos embargos de declaração. 3. Recurso especial provido.
+(REsp 936.858/RN, Rel. Ministro CASTRO MEIRA, DJ 16.8.2007.)
+PROCESSUAL CIVIL - EMPRÉSTIMO COMPULSÓRIO - CORREÇÃO MONETÁRIA - VIOLAÇÃO DO ART. 535 DO CPC - OCORRÊNCIA - RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Omissão sobre teses relevantes para a solução do litígio suscitadas oportunamente em embargos de declaração e que não foram examinadas pelo Tribunal de origem.
+2. Necessidade de rejulgamento dos embargos, diante da contrariedade ao art. 535 do CPC. 3. Recurso especial provido.
+(REsp 781.965/RJ, Rel. Min. Eliana Calmon, DJ 13.8.2007.)
+2 - Recurso Especial da servidora pública prejudicado.
+3 - Conclusão
+Pelo exposto, dá-se parcial provimento ao Recurso Especial, a fim de anular o v. aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao egrégio Tribunal de origem para que profira novo julgamento e aborde a matéria omitida.Recurso Especial da servidora pública prejudicado.
+Publique-se.
+Intimem-se.
