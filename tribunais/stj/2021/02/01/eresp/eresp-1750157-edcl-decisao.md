@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos contra decisão monocrática que indeferiu liminarmente os Embargos de Divergência sob a seguinte fundamentação (fl. 1.146, e-STJ):
+É consolidada a jurisprudência no sentido de que "O recurso uniformizador tem por finalidade precípua dirimir dissídio decorrente da interpretação da legislação federal existente entre julgados proferidos nesta Corte Superior, não servindo para nova discussão acerca da utilização ou não de regra técnica de admissibilidade ou conhecimento do recurso especial, ocorrida no caso concreto e devidamente chancelada pelo respectivo órgão fracionário" (AgInt nos EAREsp 1.380.659/DF, Relator Min. Jorge Mussi, Corte Especial, DJe 17.10.2020).
+Na mesma linha, os seguintes julgados desta Corte: AgInt nos EAREsp 685.795/RS, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 31.8.2017; AgRg nos EAREsp 111.594/SP, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 29.05.2013; AgRg nos EREsp 1.134.638/MT, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 31.8.2011; AgRg nos EREsp 1.277.034/PE, Rel. Ministro Herman Benjamin, Corte Especial, DJe 24.3.2014; AgInt nos EAREsp 1.618.775/SP, Relatora Min. Regina Helena Costa, Primeira Seção, DJe 21.8.2020.
+Quanto ao alegado dissídio em relação ao art. 1.022, também não há como conhecer da irresignação: "o Superior Tribunal de Justiça consolidou o entendimento de que não cabe embargos de divergência para a verificação de ofensa ao art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973), porque o julgamento dos embargos de declaração depende da análise das peculiaridades do caso concreto, o que obsta o reconhecimento da similitude fático-jurídica entre os arestos confrontados" (AgInt nos EREsp 1.703.328/DF , Relator Min. Jorge Mussi, Corte Especial, DJe 27.10.2020).
+Diante do exposto, com fundamento no art. 266-C do RISTJ, indefiro liminarmente os Embargos de divergência.
+Alega o embargante que o STJ suspendeu todos os processos referentes ao tema da taxa de juros compensatórios aplicável às ações de desapropriação e, por isso, "no caso dos autos, por se tratar de servidão administrativa, cuja aplicação dos juros compensatórios segue a mesma sistemática das ações de desapropriação, necessáriaa suspensão do feito, a fim de aguardar o julgamento da revisão das teses firmadas nos temas repetitivos" (fl. 1.151, e-STJ).
+Afirma que "é sabido que são cabíveis os referidos embargos, quando o conteúdo do recurso esteja sendo comparado com acórdão de mesma sorte, ainda que se trate de matéria meramente processual ou aborde os requisitos de admissibilidade recursal" (fl. 1.153, e-STJ).
+Impugnação às fls. 1.162-1.166, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16 de dezembro de 2020.
+Não merece acolhimento opedido de sobrestamento do feito, que a embargante baseia na suspensão determinada na Questão de Ordem no Recurso Especial 1.328.993(DJe 4.9.2018).
+O requerimento está sendo formulado extemporaneamente: aCorte Especial já decidiu que a superveniência de tese adotada sob a sistemática dos Recursos Especiais repetitivos não pode ser invocada em segundos Embargos de Declaração (EDcl nos EDcl nos EDcl no AgRg nos EREsp 1.019.717/RS, Rel. Min. João Otávio de Noronha, Rel. p./ acórdão, Min. Nancy Andrighi, Corte Especial, DJe 27/11/2017).
+No caso, está sendo postuladaa suspensão do feito em Embargos de Declaração contra decisão que rejeitou liminarmente Embargos de Divergência, depois de sucessivas decisões anteriores em que a questão deixou de ser agitada.
+Ademais, o Recurso Especial interposto pela embargante jamais ultrapassou o juízo de admissibilidade no STJ.
+Quanto às demais alegações, não podem ser acolhidas pois o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Diante do exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
