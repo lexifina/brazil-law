@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal do Juizado Especial Cível de Dourados - SJ/MS (suscitante) e o Juízo de Direito da Vara Única de Deodápolis - MS(suscitado), em sede de cumprimento de sentençaapresentado por LENI DIAS NUNES DOS SANTOS BOEINGcontra o Instituto Nacional de Seguro Social - INSS.
+OJuízo de Direito da Vara Única de Deodápolis - MS declinou da competência e determinou a remessa dos autos à Justiça Federal, assinalandoque"o art. 15, inciso III, da Lei n.5.010/66, com a redação dada pela Lei n. 13.876/2019, limitou o exercício da competência delegada à Comarca de domicílio do segurado localizada a mais de 70 (setenta quilômetros) de Municípios e de de Vara Federal" (fl. 7).
+O JuízoFederal, por seu turno, suscitou conflito negativo de competência, consignando que"o artigo 4º diz que a ações ajuizadas anteriormente a 1º de janeiro de 2020, independentemente da fase em que se encontrem atualmente, deverão continuar a ser processadas e julgadas no juízo estadual" (fl. 5).
+É O RELATÓRIO.
+Cuida-se de conflito negativo de competência que contém controvérsia a ser dirimida no Incidente de Assunção de Competência instaurado nos autos do Conflito de Competência170.051/RS, relator Min. Mauro Campbell Marques, DJe 18/12/2019, assim ementado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL INVESTIDO NA JURISDIÇÃO DELEGADA. ART. 109, § 3º, DA CF. EMENDA CONSTITUCIONAL Nº 103/2019. LEI FEDERAL Nº 13.876/2019. REDISTRIBUIÇÃO DE PROCESSOS EM TRAMITAÇÃO. RECONHECIMENTO DOS REQUISITOS DO INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA (ART. 947 DO CPC/2015). AFETAÇÃO AD REFERENDUM DA 1ª SEÇÃO DO STJ. LIMINAR DEFERIDA PARA DETERMINAR A SUSPENSÃO DOS ATOS DE REDISTRIBUIÇÃO DOS PROCESSOS.
+No aludido Incidente de Assunção de Competênciadeterminou-se:
+c) Em caráter liminar, em razão da iminência de atos judiciais declinatórios de competência, observado o princípio da segurança jurídica, DETERMINO a imediata suspensão, em todo o território nacional, de qualquer ato destinado a redistribuição de processos pela Justiça Estadual (no exercício da jurisdição federal delegada) para a Justiça Federal, até o julgamento definitivo do presente Incidente de Assunção de Competência no Conflito de Competência.
+d) Esclareço que os processos ajuizados em tramitação no âmbito da Justiça Estadual, no exercício da jurisdição federal delegada, deverão ter regular tramitação e julgamento, independentemente do julgamento do presente Incidente de Assunção de Competência no Conflito de Competência.
+Assim, em consonância com a determinação expressa, os autos deverão retornar ao Juízo estadual para regular tramitação e julgamento.
+ANTE O EXPOSTO, conheço do conflito para declarar competente oJuízo de Direito da Vara Única de Deodápolis - MS, o suscitado.
+Dê-se ciência aos Juízos envolvidos e ao MPF.
+Publique-se.
