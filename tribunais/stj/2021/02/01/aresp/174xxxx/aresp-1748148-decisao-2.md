@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO BRADESCO S/A contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. RECURSO DO RÉU. ALEGADA FALTA DE CONDUTA ANTIJURÍDICA APTA A GERAR ABALO ANÍMICO. TESE ACOLHIDA. RESTRIÇÃO AO NOME DA AUTORA DECORRENTES DE EXECUÇÕES AJUIZADAS EM FACE DE SOCIEDADE DE NOME EMPRESARIAL SEMELHANTE. EVIDENTE EQUÍVOCO. PROVAS DE QUE O DEMANDADO MANEJOU EXECUÇÕES CONTRA A DEVEDORA, INFORMANDO CORRETAMENTE OS DADOS DA EXECUTADA. ERRO NO CADASTRO PROTETIVO SEM PROVA DO CONCURSO DO BANCO. RELAÇÃO DE CONSUMO QUE NÃO SUBTRAI DA DEMANDANTE O ENCARGO DE PROVAR O SUPORTE FÁTICO AMPARADOR DE SUA PRETENSÃO (ART. 373, I, DO CPC/15). AUSÊNCIA DE RESPONSABILIDADE DO APELANTE. REDISTRIBUIÇÃO DO ÔNUS SUCUMBENCIAL. APLICAÇÃO DO ART. 86, CAPUT, DO CPC/2015. DESPESAS E HONORÁRIOS ESTIPULADOS DE FORMA PRO RATA. HONORÁRIOS RECURSAIS DESCABIDOS DIANTE DO SUCESSO DO INCONFORMISMO.
+RECURSO CONHECIDO E PROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta violação doart. 85, §§6º e8º,do Código de Processo Civil/2015 ao defender a redução dos honorários de sucumbência por considerá-los exorbitantes.
+Alegaque a demanda é de baixa complexidade, bem como suscita dissídio jurisprudencial.
+Foram apresentadas contrarrazões (e-STJ, fls. 283/292).
+Assim delimitada a controvérsia, passo a decidir.
+Destaco que a decisão recorrida foi publicada depois da entrada em vigor da Lei nº 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 2015, conforme dispõe o Enunciado Administrativo nº 3/2016 do Superior Tribunal de Justiça.
+A Corte estadual, ao negar provimento ao pedido inicial de indenização por danos morais, reformou a verba de sucumbência, nos seguintes termos(fls. 184/185):
+Apesar de a sentença acolher todos os pleitos, o Colegiado deu parcial provimento ao reclamo para afastar a condenação por abalo anímico.
+Nessa ordem de ideias, impõe-se a condenação dos litigantes ao pagamento pro rata das custas processuais e da verba honorária; devendo a demandante suportar 50% (cinquenta por cento) das despesas processuais, além de honorários advocatícios, estes fixados em 10% (dez por cento) do valor atualizado da causa em favor do causídico do réu; observados o lugar da prestação dos serviços profissionais, a pouca complexidade da matéria e o trabalho por ele desenvolvido, consistente na apresentação de contestação, consoante o art. 85, §§ 2º e 6º, do CPC/15.
+Doutra banda, toca ao demandado o pagamento da metade restante das despesas do processo, mais os honorários, arbitrados também em 10% do valor corrigido da ação, em prol da procuradora da postulante, atentando - se também ao local dos serviços prestados (escritório e ação com trâmite naComarca de Tijucas  fl. 09), a baixa complexidade da questão e o labor concretizado, representado pela peça inicial e impugnação à contestação, tudo conforme o § 2º, do art. 85, do CPC/15.
+Fica vedada a compensação da verba honorária, em consonância com o § 14, do art. 85, do CPC/2015.
+Com efeito, verifico que o entendimento adotado está em consonância com a jurisprudência do STJ, no sentido de que, nos termos do art. 85 do CPC/2015,a base de cálculo dos honorários será o valor da condenação ou do proveito econômico obtido e, no caso de não haver estes dois, poderá ser adotado o valor atualizado da causa.
+A propósito, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/1973. PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DA PRETENSÃO DE DIREITO MATERIAL. OCORRÊNCIA. CONTRADITÓRIO PRÉVIO À SENTENÇA DE EXTINÇÃO EXISTÊNCIA. POSSIBILIDADE DE DECLARAÇÃO DA PRESCRIÇÃO. TESE FIRMADA NO TEMA 1 DO IAC, PRECEDENTE DE OBSERVÂNCIA OBRIGATÓRIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. APLICAÇÃO DA EQUIDADE PREVISTA PELO ART. 85, § 8º, DO CPC/2015 EM CASO DE ELEVADO VALOR DA CAUSA E DE PROVEITO ECONÔMICO DE VALOR RELEVANTE IDENTIFICADO. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. Os honorários advocatícios devem, ordinariamente, ser arbitrados com fundamento nos limites percentuais estabelecidos pelo art. 85, § 2º, do CPC/2015 sobre o proveito econômico obtido, ou, na impossibilidade de identificá-lo, sobre o valor atualizado da causa. A equidade prevista pelo § 8º do referido artigo somente pode ser utilizada subsidiariamente, apenas quando não possível o arbitramento pela regra geral ou quando inestimável ou irrisório o valor da causa.
+3. Agravo interno desprovido.
+(AgInt no AREsp 983554/PR, Rel. Min. MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 14.8.2018, DJe 24.8.2018).
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - SOCIEDADE ANÔNIMA - BÔNUS DE SUBSCRIÇÃO E OPÇÃO DE COMPRA DE AÇÕES - DECISÃO MONOCRÁTICA DANDO PROVIMENTO AO RECURSO ESPECIAL PARA JULGAR IMPROCEDENTE A AÇÃO - INSURGÊNCIA DO AUTOR.
+(..)
+2. Nas causas em que não houver condenação, em razão da improcedência da demanda, os honorários advocatícios serão arbitrados com base no valor atualizado da causa, atendendo aos critérios estabelecidos no artigo 85, § 2º, CPC/2015, quais sejam: o grau de zelo do profissional; o lugar de prestação do serviço; a natureza e a importância da causa; o trabalho realizado pelo advogado e o tempo exigido para o seu serviço. Na hipótese, foram observados tais preceitos, não havendo razão para reduzir a verba honorária fixada.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1305165/RJ, Rel. Min. MARCO BUZZI, Quarta Turma, julgado em 18.5.2017, DJe 30.5.2017).
+Dito isso, inviável a reforma do valor arbitrado a título de honorários de sucumbência ante o entendimento da Súmula 83 desta Casa.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
