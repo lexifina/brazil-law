@@ -1,0 +1,29 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por UNIMED GOIÂNIA COOPERATIVA DE TRABALHO MÉDICO contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS que não admitiu recurso especial manejado contra acórdão assim ementado:
+DIREITO CIVIL E DO CONSUMIDOR APELAÇÃO CÍVEL PLANO DE SAÚDE AÇÃO DE OBRIGAÇÃO DE FAZER FORNECIMENTO DE ÓRTESE NEGATIVA DE COBERTURA TRATAMENTO FORA DO ROL DA ANS PRESCRIÇÃO MÉDICA VERIFICAÇÃO A OPERADORA DE PLANO DE SAÚDE PODE ESCOLHER AS DOENÇAS QUE SERÃO COBERTAS MAS NÃO O TRATAMENTO QUE SERÁ DISPONIBILIZADO AO BENEFICIÁRIO DE FORMA QUE HAVENDO NECESSIDADE E REQUERIMENTO MÉDICO A COBERTURA É OBRIGATÓRIA O ROL APRESENTADO PELA RESOLUÇÃO NORMATIVA N 4282017 DA ANS É DE NATUREZA EXEMPLIFICATIVA E NÃO PODE IMPEDIR A REALIZAÇÃO DO TRATAMENTO ADEQUADO E PRESCRITO SOB PENA DE OFENSA AO OBJETO DO CONTRATO QUE É A ASSISTÊNCIA INTEGRAL À SAÚDE DO CONTRATANTE
+Nas razões do recurso especial a parte aponta ofensa ao artigo 10 da Lei 9.656/98, alegando em que pese o rol seja definido como meramente exemplificativo, não exaustivo, tem-se que o artigo 10, inciso VII, da Lei nº 9.656/98, bem como a Resolução Normativa nº 428/2017, da ANS, permitem a exclusão de cobertura do fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico, isto é, não implantáveis. Nesse sentido, a negativa de custeio de confecção da órtese não implantável, com base em cláusula de exclusão de cobertura expressa, possui respaldo legal. (e-STJ Fls.526)
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A controvérsia diz respeito à recusa de cobertura do fornecimento de órteses não implantáveis.
+O Tribunal de origem concluiu serabusiva a negativa de cobertura de tratamento prescrito pelo médico para doença coberta pelo plano, destacando, corretamente, ser impertinente o fato de não se encontrar ele previsto no rol de procedimentos da ANS.
+Verifica-se que o acórdão recorrido trilhou caminho alinhado à jurisprudência da Terceira Turma desta Corte Superior, no sentido de que, "O fato de eventual tratamento médico não constar do rol de procedimentos da ANS não significa, per se, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se de rol exemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor."(AgRg no AREsp 708.082/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/02/2016, DJe 26/02/2016)
+Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AUTOGESTÃO. RECUSA DE COBERTURA A PROCEDIMENTO PRESCRITO PELA EQUIPE MÉDICA. ABUSIVIDADE. ALEGAÇÃO DE PROCEDIMENTO NÃO PREVISTO NO ROL DA ANS. IRRELEVANTE. ENUMERAÇÃO EXEMPLIFICATIVA. PRECEDENTES. DANO MORAL CONFIGURADO. REVISÃO SÚMULA 7/STJ.
+1. Descabida a negativa de cobertura de procedimento indicado pelo médico como necessário para preservar a saúde e a vida do usuário do plano de saúde.
+2. O fato de o procedimento não constar no rol da ANS não significa que não possa ser exigido pelo usuário, uma vez que se trata de rol exemplificativo.
+3. Verificado pela Corte de origem, com suporte nos elementos probatórios dos autos, que a recusa da operadora do plano de saúde em custear o tratamento para o câncer em estado avançado ocasionou danos morais.
+4. O acolhimento do recurso, quanto à inexistência de dano moral, demandaria o vedado revolvimento do substrato fático-probatório constante dos autos, a teor da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1442296/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 23/03/2020, DJe 25/03/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. PLANO DE SAÚDE. RECUSA DE ATENDIMENTO. INEXISTÊNCIA DE CLÁUSULA DE EXCLUSÃO OU LIMITAÇÃO DE COBERTURA. RECUSA INDEVIDA/INJUSTIFICADA. DANO MORAL CARACTERIZADO. ROL DA ANS EXEMPLIFICATIVO. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Está firmada a orientação de que é inadmissível a recusa do plano de saúde em cobrir tratamento médico voltado à cura de doença coberta pelo contrato sob o argumento de não constar da lista de procedimentos da ANS, pois este rol é exemplificativo, impondo-se uma interpretação mais favorável ao consumidor, de modo a atrair a aplicação da Súmula n. 83 do STJ.
+2. Agravo interno desprovido.
+(AgInt no REsp 1723344/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/03/2019, DJe 28/03/2019)
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 11% sobre o valor da causa(e-STJ fls. 518), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 14% sobre o valor da causa é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto,conheço do agravo para, desde logo, negar provimentoao recurso especial, com majoração de honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PRESCRIÇÃO MÉDICA. DOENÇA COBERTA PELO PLANO CONTRATADO. AUSÊNCIA NO ROL DA ANS NÃO AFASTA O DEVER DE COBERTURA. RECUSA INDEVIDA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DA TERCEIRA TURMA DO STJ.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
