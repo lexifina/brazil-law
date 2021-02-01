@@ -1,0 +1,12 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por CONSORCIO OPERACIONAL BRT, contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ACIDENTE NO BRT. LEGITIMIDADE DO CONSÓRCIO PARA FIGURAR NO POLO PASSIVO. Ação de responsabilidade civil na qual o Autor requer a condenação da Ré ao pagamento de danos morais em decorrência de acidente ocorrido durante viagem em um de seus coletivos. Sentença que acolheu a preliminar de ilegitimidade passiva da Ré. Reforma que se impõe. Ausência de personalidade jurídica do ente consorcial que não se confunde com sua capacidade processual, reconhecida expressamente no art. 75, IX do CPC. Aplicação da teoria da causa madura uma vez que a demanda foi devidamente instruída. Responsabilidade civil objetiva. Os fatos apontados pelo Autor restaram devidamente demonstrados pelos documentos acostados, destacando-se especialmente os atestados e os receituários médicos, confirmando o fato de que em decorrência de acidente sofrido no interior do veículo do BRT precisou imobilizar a sua perna esquerda por mais de 15 dias. Ré que se limitou a sustentar, de forma genérica, que o Auto r não demonstrou os fatos constitutivos de seu direito. Dano moral que decorre da própria situação danosa experimentada, sendo inegável o abalo psicológico ocasionado pelas lesões sofridas, somado ao fato de que não houve qualquer auxílio prestado por prepostos da Ré bem como anecessidade de ficar por mais de 15 dias afastado de suas atividades. Condenação da Ré em R$ 5.000,00 que se mostra razoável e proporcional. RECURSO PROVIDO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 214/220).
+Em seu recurso especial, a recorrente alega ofensa aos arts.28,§ 3º da Lei 8.078/90; 33,Vda Lei 8.666/93; 19, § 2º e25 da Lei 8.987/95; 278, § Iº da Lei 6.404/76;186 e265 do Código Civil, sustentando ilegitimidade passiva. Suscita dissídio jurisprudencial.
+É o relatório.
+Passo a decidir.
+Merece guarida a pretensão recursal.
+Com efeito, diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interpostos, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial, procedendo-se à conversão.
+Intime-se.
