@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de revisão criminal, com pedido liminar, impetrado em favor de DOUGLAS VIEIRA, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0096412-47.2017.8.26.0050.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 3(três) anos, 2 (dois) meses e 15(vinte) dias de reclusão, em regime inicial semiaberto, mais o pagamento de 15(quinze) dias-multa, como incurso na sanção do art. 155, § 4º, incisos III e IV, do Código Penal (fls. 204-216).
+Inconformada, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, que, à unanimidade, deu parcialprovimento ao apelo defensivo, para reduzir a sanção corporal para o patamar de 2 (dois) anos, 4 (quatro) meses e 24 (vinte e quatro)dias de reclusão, mais o pagamento de 12(doze) dias-multa, mantidos os demais termos da condenação, nos termos do v. acórdão de fls. 284-290, sem ementa no original.
+Daí o presente mandamus, no qual alega o impetrante que o paciente sofre constrangimento ilegal, em razão de ter sido denunciado pelo delito de furto qualificado na modalidade tentada, e condenado pelo delito na sua modalidade consumada.
+Requer, ao final, a redução da pena aplicada pela metade, em razão da tentativa, levando-se em consideração o iter-criminis percorrido.
+As informações foram prestadas às fls. 356-379.
+O Ministério Público Federal manifestou-se pela denegação da ordem, nos termos de parecer de fl. 381, sem ementa no original.
+É o relatório.
+Decido.
+O presente writ não comporta conhecimento.
+Isso porque, da análise do v. acórdão objurgado, verifica-se que amatériaora suscitadasequer foianalisadapela eg. Corte a quo, nos autos do recurso de apelação n. 0096412-47.2017.8.26.0050, objeto da presente impetração, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.
+Nesse sentido:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. NEGATIVA DE AUTORIA E INEXISTÊNCIA DE PROVA DE MATERIALIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DA DROGA APREENDIDA. CIRCUNSTÂNCIAS DO DELITO. PERICULOSIDADE DOS AGENTES. ANTECEDENTES. GARANTIA DA ORDEM PÚBLICA. NULIDADE DO FLAGRANTE. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. QUESTÕES NÃO ANALISADAS PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO PARCIALMENTE CONHECIDO E, NA EXTENSÃO, DESPROVIDO.
+1. A análise da tese relativa à negativa de autoria e à ausência de prova de materialidade demanda o exame aprofundado de todo conjunto probatório como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória.
+ ..
+5. A alegada nulidade da prisão em flagrante, em razão da não realização da audiência de custódia no prazo legal, bem como quanto à demora injustificada na instrução processual não foram objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância.
+6. Recurso parcialmente conhecido e, na extensão, desprovido." (RHC 101.839/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 08/03/2019, grifei).
+"HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E ROUBO MAJORADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO SUFICIENTE. EXCESSO DE PRAZO PARA ENCERRAMENTO DA INSTRUÇÃO. NÃO OCORRÊNCIA. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. A decisão que decretou a custódia preventiva evidenciou o fundado risco de reiteração delitiva, ante os indícios de o acusado ser um dos integrantes de organização criminosa voltada à prática de diversos crimes contra o patrimônio (roubo de cargas), bem como o modus operandi empregado nas ações delituosas.
+3. Diante da gravidade da conduta perpetrada e do risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. A matéria relativa ao excesso de prazo não foi efetivamente analisada pelo Tribunal de Justiça estadual, o que não autoriza a inauguração, neste ponto, da competência do Superior Tribunal de Justiça. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+5. O exame da suposta ausência de indícios suficientes da autoria delitiva demandaria ampla dilação probatória, incompatível com a via estreita do habeas corpus. Portanto, não conheço do pedido.
+6. Ordem denegada." (HC 462.815/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 11/03/2019, grifei).
+Ante o exposto, com fulcro no artigo 34, inciso XX, do RISTJ, não conheço do presente habeas corpus.
+P. e I.
