@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO ECAD,com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado do Paraná assim ementado (e-STJ, fl. 99):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE HOMOLOGOU OS CÁLCULOS APRESENTADOS PELO CONTADOR. AGRAVANTE QUE ALEGA A NULIDADE PROCESSUAL, ANTE A AUSÊNCIA DE INTIMAÇÃO A RESPEITO DA DECISÃO QUE DEFERIU A COMPENSAÇÃO DE VALORES. VÍCIO NÃO VERIFICADO. ADVOGADO DA PARTE QUE FOI DEVIDAMENTE INTIMADO, MAS DEIXOU DE SE INSURGIR CONTRA A DECISÃO. MATÉRIA PRECLUSA. DECISÃO MANTIDA.RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 131):
+EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. INEXISTÊNCIA. MERO INCONFORMISMO DA PARTE COM A DECISÃO. RECURSO QUE NÃO É CABÍVEL PARA CORREÇÃO DE ERROR IN JUDICANDO. RECURSO CONHECIDO E DESPROVIDO.
+Em suas razões de recurso especial (e-STJ, fls. 142-164), a agravante alegou violação aos arts. 267, 301, § 3º, e 485 do CPC/1973 e 1.022, II, do CPC/2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito da suscitadaviolação à coisa julgada, imprescindível para a solução da controvérsia.
+Ressaltou que a ofensa à coisa julgada pode ser suscitada a qualquer momento, inclusive ser reconhecida de ofício, não estando sujeita à preclusão.
+Não foram apresentadas contrarrazões (e-STJ, fl. 192).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta foi apresentada (e-STJ, fls. 227-229).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no argumento da parte em relação à coisa julgada, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a esse ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Quanto à tese em si de afrontaà coisa julgada, o Tribunal de origem, com base no acervo fático-probatório dos autos, dirimiu a controvérsia nos seguintes termos (e-STJ, fls. 101-102):
+Na petição de mov. 1.87, o agravado concordou com o cálculo elaborado, requerendo, todavia, a compensação do valor devido a título de honorários a seu procurador e o abatimento das custas processuais, "uma vez que já foram quitadas integralmente".
+O pedido de compensação foi deferido na decisão de mov. 1.88, ocasião em que também foi determinada a intimação do executado para pagamento.
+O executado apresentou o comprovante de pagamento (mov.1.90) e, não obstante a determinação do Juízo a quo, o agravante não foi intimado para se manifestar acerca do depósito (10/10/2013).
+Em seguida, o exequente alegou a insuficiência do depósito, ante a inobservância da decisão que considerou compensáveis os honorários arbitrados em favor do executado com aqueles arbitrados ao exequente na execução (mov.1.92).Em razão da divergência entre os valores indicados, foi determinada a elaboração dos cálculos pelo contador do Juízo (mov. 1.104).
+Na decisão agravada, o Magistrado reconheceu a preclusão a respeito da compensação de valores e homologou os cálculos apresentados pelo contador, determinando a intimação da parte exequente para o pagamento de R$381,50.
+Pois bem.
+Sustenta o recorrente a nulidade processual, uma vez que a compensação de valores foi deferida sem sua intimação. Ainda, alega que a decisão fere a coisa julgada, uma vez que "em momento algum fora autorizado a compensação de valores entre os honorários devidos ao procurador da agravada e o valor original, devido ao autor."
+Ocorre que o procurador do agravante, Ludovico Albino Savaris, foi devidamente intimado da decisão que deferiu o pedido, como se vê da certidão de publicação e prazo de mov. 1.88.
+Ressalte-se que a decisão da qual não foi intimado foi, na verdade, aquela que determinou a manifestação a respeito do depósito realizado pelo executado (mov. 1.91), sendo que o vício foi sanado por meio da intimação realizada em 20/01/2014.
+Por conseguinte, se a parte entende pela impossibilidade de compensação e, ainda, que o decisum violou a coisa julgada, deveria ter interposto o recurso cabível, todavia, deixou de se insurgir contra a decisão, razão pela qual a matéria resta preclusa.
+Dessarte, deve ser mantida a decisão agravada
+A respeito do tema, nos termos da jurisprudência consolidada pelo Superior Tribunal de Justiça, "as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já foram objeto de anterior manifestação jurisdicional" (AgInt no REsp 1.756.189/SP, Rel. Ministro Paulo deTarso Sanseverino, Terceira Turma, julgado em 08/06/2020, DJe de 12/06/2020).
+Ademais, a revisão das conclusões estaduais demandaria, necessariamente, o reexame de fatos e provas, providência inviável na via estreita do recurso especial, ante a aplicação da Súmula 7/STJ.
+Por fim, não se pode conhecer do recurso também pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
