@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito de competência suscitado por Comércio e Indústria Refiate Ltda. - em recuperação judicial e Topfilme Indústria de Materiais Plásticos Ltda. - em recuperação judicial, com pedido de liminar, em face do Juízo de Direito da 2ª Vara Cível de Vespasiano/MG e do Juízo da 2ª Vara do Trabalho de Pedro Leopoldo/MG.
+Aduzem que o Juízo da 2ª Vara do Trabalho de Pedro Leopoldo - MG, nos autos de reclamação trabalhista, rejeitou exceção de pré-executividade apresentada pelas suscitantes e determinou que fosse dado prosseguimento à execução, não obstante as empresas estarem em recuperação judicial, bem como o crédito em questão sujeito ao concurso de credores, que será pago nos exatos termos do Plano de Recuperação Judicial, devidamente aprovado em Assembleia Geral de Credores.
+Liminar deferida às fls. 217/220, informações doJuízo da 2ª Vara do Trabalho de Pedro Leopoldo/MG às fls. 227/241, sendo que oJuízo de Direito da 2ª Vara Cível de Vespasiano/MG, apesar de reiteradamente oficiado para se manifestar, quedou-se silente. Parecer do Ministério Público Federal às fls. 244/247 opinando pelo conhecimento do conflito, declarando-se competente o Juízo da recuperação judicial.
+Eis os fundamentos pelos quais deferi a liminar:
+Assim postos os fatos, verifico que a questão discutida nos autos já foi, reiteradamente, decidida por esta Corte que entendeu que, "com a edição da Lei 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o juízo universal para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais (..)" (CC 110941/SP, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, DJe 1º/10/2010).
+Tal entendimento tem como finalidade dar efetividade aos princípios norteadores do instituto da recuperação judicial, notadamente ao disposto no art. 47 da Lei nº 11.101/05, segundo o qual "a recuperação judicial tem por objetivo viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica".
+Desse modo, são, pois, incompatíveis com a recuperação judicial os atos de execução proferidos por outros órgãos judiciais de forma simultânea com o curso da recuperação ou da falência da empresa devedora.
+Nesse sentido são, dentre outros, os seguintes acórdãos:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. Após o deferimento da recuperação judicial, é do juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados com reclamações trabalhistas movidas contra a empresa recuperanda.
+2. Competência da Justiça do Trabalho que se limita à apuração do respectivo crédito, sendo vedada a prática de atos que comprometam o patrimônio da empresa em recuperação.
+3. A data do ajuizamento da reclamação trabalhista não é o que define a aplicação do art. 49 da Lei nº 11.101/2005, tampouco a data do provimento jurisdicional que reconhece a existência do crédito, mas, sim, o momento em que é prestada a atividade laboral que dá ensejo à propositura da demanda trabalhista.
+4. Agravo interno não provido.
+(AgInt nos EDcl no CC 160.280/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 30/04/2019, DJe 06/05/2019)
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIAL EM FACE DE JUÍZO DO TRABALHO. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. A execução individual trabalhista e a recuperação judicial apresentam nítida incompatibilidade concreta, porque uma não pode ser executada sem prejuízo da outra.
+2. O Juízo universal é o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução, ainda que o crédito seja anterior ao deferimento da recuperação judicial, devendo, portanto, se submeter ao plano, sob pena de inviabilizar a recuperação. Precedentes do STJ.
+3. Competência do Juízo de Direito da 1.ª Vara Cível de Santa Helena de Goiás/GO, para o prosseguimentos de execuções trabalhistas. 4. Agravo interno desprovido.
+(AgInt no CC 148.536/GO, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 08/03/2017, DJe 15/03/2017)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. O tema não é novo nesta Corte, que já firmou entendimento no sentido de que, após o deferimento da recuperação judicial, é do Juízo de falências e recuperação judicial a competência para o prosseguimento dos atos de execução relacionados a reclamações trabalhistas movidas contra a empresa.
+2. Nesses casos, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação (procedimento de execução).
+3. Agravo interno não provido.
+(AgInt no CC 144.592/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 03/11/2016)
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÕES TRABALHISTAS. ATRATIVIDADE. LEI N. 11.101/05. INTERPRETAÇÃO SISTEMÁTICO-TELEOLÓGICA DOS SEUS DISPOSITIVOS. MANUTENÇÃO DA ATIVIDADE ECONÔMICA.
+A manutenção de execuções trabalhistas individuais, aplicando-se isoladamente o disposto no art. 6º, §5º, da LF n. 11.101/05, afrontaria os princípios reitores da recuperação judicial.
+Prevalência do princípio da preservação da empresa (art 47). Competência do Juízo universal.
+..
+(CC 111074/DF, rel. Ministro PAULO DE TARSO SANSEVERINO, Segunda Seção, DJe de 04/10/2010)
+Verifico que, de fato, no presente caso, foi deferida a recuperação judicial das suscitantes pelo Juízo de Direito da 2ª Vara Cível de Vespasiano/MG (fls. 40/41), e que o Juízo da 2ª Vara do Trabalho de Pedro Leopoldo/MG determinou o prosseguimento da execução, ao fundamento de que já foi ultrapassado o prazo de 180 dias de suspensão previsto na Lei 11.101/2055 (fls. 91/92).
+OJuízo da 2ª Vara do Trabalho de Pedro Leopoldo/MG afirmou que não existem valores bloqueados nem determinação de atos constritivos em desfavor das reclamadas Topfilme Indústria de Materiais Plásticos Ltda. - EPP em recuperação judicial e Comércio e Indústria Refiate - em recuperação judicial no processo objeto dos autos, tendo determinado a expedição de certidão de habilitação de crédito junto ao Juízo da recuperação judicial (fls. 237/238).
+Entendo que, desse modo, não está configurado o conflito de competência, dado não ter o Juízo do trabalho praticado atos que afetem o patrimônio das empresas suscitantes.
+Em face do exposto, revogo aliminar deferida e não conheço do conflito de competência.
+Intimem-se.
