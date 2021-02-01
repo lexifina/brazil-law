@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DA PARAÍBA, com base nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado (e-STJ fl. 118):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL NOTURNO. BASE DE CÁLCULO. 200 HORAS MENSAIS. ART. 19 DA LEI 8.112/90. PRECEDENTES DO STJ. JUROS E CORREÇÃO MONETÁRIA. APELAÇÃO DESPROVIDA.
+1. Busca o apelante a reforma de sentença que julgou procedente a pretensão do autor, servidor público ocupante do cargo de vigilante, consistente na aplicação do fator de divisão 200, para fins de cálculo do adicional noturno.
+2. Ajurisprudência assente no col. STJ já consolidou entendimento no sentido de que o adicional noturno deve ser calculado com base no divisor de 200 (duzentas) horas mensais, tendo em conta que a jornada máxima de trabalho dos servidores públicos federais passou a ser de 40 (quarenta) horas semanais com o advento da Lei n. 8.112/90.
+3. Precedentes do STJ: AGRESP 201100362300, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJE 06/10/2011; RESP 200502109062, Min. LAURITA VAZ, Quinta Turma, DJE 20/04/2009.
+4. Juros e correção monetária nos termos do Manual de Cálculos da Justiça Federal, conforme entendimento firmado por esta eg. Corte no julgamento dos Embargos Declaratórios em Embargos Infringentes n.º 0800212-05.2013.4.05.8100 (Rel. Des.
+Federal Rogério Fialho, TRF5 - Pleno, j. 17/06/2015).
+5. Apelação desprovida.
+Rejeitados os aclaratórios (e-STJ fls. 139/142).
+Nas suas razões, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 19 da Lei n. 8.112/1990 e1º-F da Lei n.9.494/1997, sustentando a incorretaaplicação do fator de divisão 200,ao invés de 240,para a cômputo do valor da hora de serviço extraordinário/adicional noturno, bem como se insurgindocontra a correção monetária aplicada.
+Juízo positivo de admissibilidade parcial pelo Tribunal de origem à e-STJ fls. 215/221; no tocante à matéria repetitiva, a inadmissão se deu com fundamento no art. 1.040, I, do CPC/2015.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No que tange à matéria não abrangida pelainadmissãocom fundamento no art. 1.040, I, do CPC/2015, o STJ entende que os adicionais noturno e de serviço extraordinário devem ser calculados com base no divisor de 200 (duzentas) horas mensais, tendo em conta que a jornada máxima de trabalho dos servidores públicos federais é de 40 (quarenta) horas semanais, nos termos do art. 19 da Lei n. 8.112/1990. A propósito:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ADICIONAL NOTURNO. SERVIÇO EXTRAORDINÁRIO. BASE DE CÁLCULO. 200 HORAS MENSAIS.
+1. A jurisprudência desta Corte firmou-se no sentido de que o adicional noturno e o serviço extraordinário deve ser calculado com base no divisor de 200 (duzentas) horas mensais, tendo em conta que a jornada máxima de trabalho dos servidores públicos federais passou a ser de 40 (quarenta) horas semanais, nos termos do art. 19, da Lei n.º 8.112/90. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no AgRg no REsp 1531976/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/08/2018, DJe 23/08/2018)
+ADMINISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC PREJUDICADA. ANÁLISE DO MÉRITO. SERVIDOR PÚBLICO FEDERAL. ADICIONAL DE HORAS EXTRAS.AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. PRECEDENTES. ESCALA DE REVEZAMENTO. 24X72 HORAS. DIVISOR. 200 HORAS MENSAIS. ART. 19 DA LEI N. 8.112/90. PRECEDENTES. TOTAL DE HORAS MENSAIS INFERIOR. RECURSO ESPECIAL PROVIDO.
+I - Recurso especial provido para afastar o pagamento de horas extras aos servidores públicos.
+II - O Supremo Tribunal Federal já se manifestou sobre a inexistência de matéria constitucional em relação ao pagamento de horas extras a servidor público submetido a regime de plantão, o que afasta a exigência de interposição de recurso extraordinário.Precedentes: RE 597.761 AgR, Relator(a): Min. Roberto Barroso, Primeira Turma, julgado em 28/4/2015, Acórdão Eletrônico DJe-096 Divulg 21/5/2015 PUBLIC 22/5/2015; ARE 866847 AgR, Relator(a): Min.
+Dias Toffoli, Segunda Turma, julgado em 28/4/2015, Acórdão Eletrônico DJe-108 Divulg 5/6/2015 Public 8/6/2015; e ARE 825545 AgR, Relator(a): Min. Cármen Lúcia, Segunda Turma, julgado em 14/10/2014, Acórdão Eletrônico DJe-209 Divulg 22/10/2014 Public 23/10/2014.
+III - Nos termos do art. 19 da Lei n. 8.112/90, a jornada máxima de trabalho dos servidores públicos federais corresponde a 40 horas semanais. Nesse contexto, e conforme a jurisprudência consolidada desta Corte, o divisor adotado no cálculo do adicional decorrente do serviço extraordinário é de 200 horas mensais. Precedentes: AgRg no REsp 1227587/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 2/8/2016, DJe 12/8/2016; AgRg no REsp 1132421/RS, Rel. Ministro Ericson Maranho (desembargador Convocado do TJ/SP), Sexta Turma, julgado em 13/10/2015, DJe 3/2/2016; REsp 805.437/RS, Rel. Ministra Laurita Vaz, Quinta Turma, julgado em 24/3/2009, DJe 20/4/2009; e REsp 1019492/RS, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 3/2/2011, DJe 21/2/2011.
+IV - Ocorre que escalas de trabalho em regime de revezamento de 24 horas de trabalho por 72 horas de descanso perfazem, quando muito, 8 (oito) dias de trabalho mensal, o que multiplicado por 24 horas equivale a apenas 196 (cento e noventa e seis) horas de trabalho ao logo do mês, ou seja, número inferior ao divisor de 200 (duzentas) horas mensais relativas aos servidores públicos federais regidos pela Lei n. 8.112/90, o que afasta a pretensão de percepção de horas extras.
+V - Agravo interno improvido.
+(AgInt nos EDcl no REsp 1553781/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 01/03/2018, DJe 06/03/2018)
+O aresto hostilizado não diverge da orientação aludida.
+Assim, aplica-sena hipótesea Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
