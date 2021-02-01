@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interpostopeloESTADO DE MINAS GERAIS,com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade da Federaçãoassim ementado (e-STJ fl. 139):
+EMENTA: MANDADO DE SEGURANÇA - DIREITO ADMINISTRATIVO - SERVIDORES PÚBLICOS ESTADUAIS - ESPECIALISTA EM POLÍTICAS DE GESTÃO DA SAÚDE- TÍTULO DE PÓS-GRADUAÇÃO "ESTRITO SENSU" ANTERIOR À POSSE - ARTS. 10 E 11 DA LEI ESTADUAL 15.462/05 - DIREITO AO POSICIONAMENTO INICIAL NO NÍVEL IV DA CARREIRA - CONCESSÃO DA SEGURANÇA. Nos termos do disposto nos arts. 10 e 11 da Lei Estadual 15.462/2005, o servidor aprovado em concurso para provimento do cargo de Especialista em Políticas e Gestão da Saúde que já possuir título de pós-graduação "strito sensu" quando da sua posse, faz jus a ser posicionado no primeiro grau do Nível IV da carreira desde seu ingresso no serviço público. Segurança concedida.
+Rejeitados, com aplicação de multa, os aclaratórios (e-STJ fls. 237/249).
+Nas suas razões, a parte recorrente aponta violação dos arts. 1.022, 1026, § 2º,do CPC/2015 e do art. 1º-F da Lei n. 9.494/1997, sustentando negativa de prestação jurisdicional,bem como ausência de caráter protelatório nos embargos opostos.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 322/325.
+O Ministério Público Federal opina pelo provimento do recurso(e-STJ fls. 453).
+Passo a decidir.
+Em relação ao art. 1.022 do CPC/2015, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 719.983/PE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016, e AgRg no AREsp 811.706/PR, Rel. Ministra DIVA MALERBI (desembargadora convocada do TRF da 3a Região), Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016).
+No que tange à alegação de contrariedade do art. 1º-F da Lei n. 9.494/1997, a parte recorrente não teceu nenhuma fundamentação que justificasse a sua irresignação, não podendo o apelo, portanto, ser conhecido. Incide, na espécie, a Súmula 284 do STF.
+Por fim, no tocante à sanção específica dos aclaratórios, com razão a parte recorrente.
+Isso porque os únicos embargos declaratórios opostos foram utilizados com o propósito de prequestionar dispositivos respeitantes à controvérsia de fundo, atraindo o entendimento firmado na Súmula 98 do STJ, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório."
+Nesse sentido: REsp 1.597.969/RJ, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 09/06/2016, DJe 21/06/2016; EDcl no AREsp 156.071/ES, Rel. Ministro OLINDO MENEZES (desembargador convocado do TRF 1ª Região), Primeira Turma, julgado em 18/02/2016, DJe 25/02/2016.
+Ante o exposto, com base no art. 255, § 4º, I e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO apenas para afastar a multa aplicada quando do julgamento dos embargos de declaração.
+Publique-se. Intimem-se.
