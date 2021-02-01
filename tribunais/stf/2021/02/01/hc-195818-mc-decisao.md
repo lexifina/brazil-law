@@ -1,0 +1,22 @@
+D E C I S Ã O
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL EM ‘HABEAS CORPUS’. FURTO QUALIFICADO PELO CONCURSO DE AGENTES. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. PERICULOSIDADE SOCIAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES. INADEQUAÇÃO. VIOLAÇÃO AOS PRINCÍPIOS DA HOMOGENEIDADE E DA INSIGNIFICÂNCIA. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO NÃO PROVIDO.
+    1. A defesa se insurge contra a decisão monocrática desta relatoria que não conheceu do ‘habeas corpus’, por inadequação da via eleita e no mérito, de ofício, afastou a existência de constrangimento ilegal hábil a permitir a concessão da ordem por esta Corte Superior.
+    2. No particular, o agravante foi preso em flagrante, e convertida a custódia em preventiva, pela suposta prática do crime de furto qualificado (subtração, em concurso de pessoas, de vinte metros de cabos de telefonia, de fio de cobre, avaliados em R$ 631,00).
+    3. A prisão preventiva do agravante está fundamentada na necessidade de garantia da ordem pública, tendo em vista a reiteração do agente na prática delitiva: a sua vida pregressa registra condenações por tráfico de drogas, com último término de cumprimento de pena em 2013; e ação penal em andamento, em grau de recurso, pela prática de furto qualificado, no ano de 2016 - sentença proferida em agosto/2019, fixada a pena de reclusão de 3 anos, 7 meses e 16 dias, em regime semiaberto), o que evidencia periculosidade social e justifica a manutenção da prisão.
+    4. A persistência do agente na prática criminosa justifica a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública.
+    5. Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, embora não possam exasperar a pena-base (Súmula n. 444/STJ), constituem indicativos de risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva para garantia da ordem pública.
+    6. Condições subjetivas favoráveis não são impeditivas à decretação da prisão cautelar, caso estejam presentes os requisitos autorizadores da referida segregação. Precedentes.
+    7. Violação aos princípios da homogeneidade e da insignificância. Não é possível inferir, neste momento processual e na estreita via do habeas corpus, acerca de causa excludente da tipicidade, bem como acerca de eventual regime prisional a ser fixado em caso de condenação (e consequente violação dos princípio da homogeneidade). A confirmação da tipicidade da conduta do agente e da sua culpabilidade depende de ampla dilação probatória, com observância aos princípios do contraditório e da ampla defesa, o que não se coaduna com a finalidade da presente ação constitucional. Inadequação da via eleita.
+    8. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+    9. Agravo regimental conhecido e não provido.”
+    (HC 603.342-AgRg/MT, Ministro Reynaldo Soares da Fonseca – com meus grifos)
+    Em suas razões, a parte impetrante, em síntese, pretende a “(...) a liberdade provisória ao Paciente, aplicando se necessário, medidas cautelares até o julgamento do mérito do ’writ´, expedindo-se o imediato alvará de soltura”.
+    Tal o contexto e abstendo-me de qualquer pronunciamento acerca do mérito do pedido, a mim me parecem ausentes os requisitos necessários à concessão da medida liminar pleiteada.
+    Em casos fronteiriços, Ministros desta Suprema Corte têm indeferido medidas liminares requeridas em habeas corpus com fundamento na carência de demonstração de probabilidade do direito invocado e de perigo da demora. Ilustram essa orientação as seguintes decisões: HC 190.587-MC/MG, Ministro Celso de Mello; HC 190.943-MC/PR, Ministro Edson Fachin; HC 191.847-MC/AC, Ministra Cármen Lúcia.
+    Em face do exposto, indefiro o pedido de medida liminar.
+    Vista ao Ministério Público Federal.
+    Intime-se. Publique-se.
+    Brasília, 1º de fevereiro de 2021.
+Ministro NUNES MARQUES
+Relator
