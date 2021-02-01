@@ -1,0 +1,15 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Heverson Henrique Pedro- preso preventivamente e pronunciado pela suposta prática dos crimes de homicídio tentado e porte ilegal de arma de fogo de uso restrito(Ação Penal n. 0029008-17.2017.8.24.0023, em curso na Vara do Tribunal do Júri de Florianópolis/SC) - sob alegaçõesde inidoneidade na fundamentação do decreto de prisão preventiva eexcesso de prazo na formação da culpa,requer-se, em liminar e no mérito,a revogação da prisão preventiva e, subsidiariamente,a substituição da prisão por cautelares diversas.
+É o relatório.
+O presentewritfoi impetrado contra a decisão que indeferiu pedido liminar emmandamusimpetrado no Tribunala quo, circunstância que atrai a incidênciado enunciado da Súmula 691/STF, observado também por esta Corte, segundo oqual não cabehabeas corpuscontra indeferimento de pedido liminar emoutrowrit.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, seevidenciada dos autos a configuração de flagrante ilegalidade ou abuso depoder.
+Com relação à tese de inidoneidade dos fundamentos do decreto de prisão, não há como sequer aferir a existência ou não de ilegalidade flagrante, pois o impetrante não juntou a cópia da sentença de pronúncia que manteve a segregação cautelar.
+Como é cediço, o habeas corpus, ação constitucional denatureza mandamental destinada a afastar eventual ameaça ao direito de ire vir, tem, em razão de seu escopo, natureza urgente e, por essa razão,não comporta dilação probatória e exige prova pré-constituída dasalegações, a qual deve ser trazida no momento do seu ajuizamento, cabendoo ônus da instrução ao impetrante, em especial, quando se tratar deadvogado (STF: AgRg no HC n. 103.240/RS, Ministro Ayres Britto, SegundaTurma, DJe 29/3/2011; HC n. 107.350/RS, Ministra Cármen Lúcia, PrimeiraTurma, DJe 19/5/2011; STJ: HC n. 197.183/RJ, Ministro Jorge Mussi, QuintaTurma, DJe 30/6/2011; e HC n. 119.702/PE, Ministra Jane Silva(Desembargadora convocada do TJ/MG), Sexta Turma, DJe 2/3/2009).
+No que se refere ao aventado excesso de prazo, não diviso ilegalidade flagrante apta a superar o Enunciado Sumular n. 691/STF.
+Ora, pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução(Súmula 21/STJ).
+Quanto ao lapso temporal subsequente, ou seja, a partir da sentença de pronúncia,verifica-se a interposição de recurso em sentido estrito contra a referida sentença e a situação de pandemia verificada, circunstâncias que afastam, em princípio, a existência de mora excessiva no julgamento da ação penal.
+Ante o exposto,indefiro liminarmenteohabeas corpus(art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO TENTADO E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO.EXCESSO DE PRAZO EILEGALIDADE NOS FUNDAMENTOS DODECRETO DE PRISÃO PREVENTIVA.WRIT IMPETRADO CONTRA INDEFERIMENTO DE LIMINAR EM HABEAS CORPUS. APLICAÇÃO DA SÚMULA 691/STF. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE CÓPIA DA SENTENÇA DE PRONÚNCIA. EXCESSO DE PRAZO. SÚMULA 21/STJ. LAPSO TEMPORAL SUBSEQUENTE. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE.
+Writ indeferido liminarmente (art. 210do RISTJ).
