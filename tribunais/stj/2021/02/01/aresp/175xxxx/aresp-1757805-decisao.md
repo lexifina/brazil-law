@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por LIDUVINA SILVA PAIXÃO contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sulassim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA - CONTRATO DE FINANCIAMENTO QUITADO - OBRIGAÇÃO DA SEGURADORA EXTINTA - SEGURO HABITACIONAL - VÍCIOS DE CONSTRUÇÃO - NÃO DEMONSTRADOS - AUSÊNCIA DE PROVA - PRESCRIÇÃO ÂNUA - INTELIGÊNCIA DO ART. 373, I, DO CPC - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO.
+Quitado o financiamento, extingue-se a obrigação e, no âmbito do Sistema Financeiro da Habitação, a quitação extingue, tanto o contrato de financiamento imobiliário, quanto o contrato acessório de seguro habitacional, não havendo falar em obrigações que se protaem no tempo, pois, se assim se pudesse presumir, seria imputada à seguradora uma responsabilidade vitalícia de garantia de eventuais danos em imóveis sem que houvesse, em contrapartida, pagamento da correlativa prestação da outra parte.
+Em obediência ao disposto no art. 178, § 6º do CC/1916, a pretensão do beneficiário contra o segurador no caso de seguro habitacional de responsabilidade civil por vício de construção prescreve em 1 (um) ano a contar da data do conhecimento do sinistro. Ainda que se trate de danos de natureza sucessiva e gradual, trata-se de vícios estruturais cuja evidência não é tardia, mas ocorre logo nos primeiros anos de uso do imóvel, não sendo, portanto, factível que seja cobrado o valor do seguro se o contrato foi formulado há quase três décadas" (fl. 561e-STJ).
+No recurso especial, além de dissídio jurisprudencial, a agravante alegou a violação dos artigos727, 757, 779 e 799 do Código Civil.
+Sustentou, em síntese, que a seguradora é responsável pelo pagamento de indenização securitária decorrente dosvícios de construção ocorridos durante a vigência do contrato, independentemente de sua quitação.
+Após a apresentação de contrarrazões,o recurso especial foi inadmitido esobreveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+No caso dos autos, a Corte local entendeu que inexiste cobertura contratual para o pagamento do seguro em relação aosvícios construtivos, consoante se observa nos seguintes trechos do acórdão recorrido:
+"(..)
+Em análise à exordial, denota-se que a autora/apelante propôs a presente demanda contra a seguradora/apelada, com o objetivo de obter o ressarcimento de prejuízos advindos de supostos problemas na construção de imóvel urbano (infiltrações; rachaduras nos tetos, pisos e paredes; recobos esfarelando; apodrecimento do telhado e assoalho de madeira), localizado em Conjunto Habitacional, nesta capital.
+(..)
+Colhe-se das provas acostadas aos autos que o contrato de financiamento relacionado ao imóvel da apelante foi quitado no ano de 2013. Ora, quitado o financiamento, extingue-se a obrigação e, no âmbito do Sistema Financeiro da Habitação, a quitação extingue, tanto o contrato de financiamento imobiliário, quanto o contrato acessório de seguro habitacional, não havendo falar em obrigações que se protraem no tempo, pois, se assim se pudesse presumir, seria imputada à seguradora uma responsabilidade vitalícia de garantia de eventuais danos em imóveis sem que houvesse, em contrapartida, pagamento da correlativa prestação da outra parte.
+(..)
+Em relação ao alegado sinistro, também carece de comprovação acerca de quando teria ocorrido. Como bem aduziu a magistrada singular "Daí que mesmo que formulado de forma genérica, observa-se que a requerente pretende a indenização por danos decorrentes da construção, vejamos: ""ordem estrutural, infiltrações e rachaduras generalizadas nos tetos, pisos e paredes, rachaduras em rebocos, rebocos esfarelando, madeiramento do telhado e assoalho com apodrecimentos e /ou infestadas de cupins e traças".
+E, a apólice prevê como riscos excluídos os prejuízos que se verificarem em decorrência, direta ou indireta do uso e desgaste (fl. 72 - item 4.1, f e 4.2)".
+Ora se a apelante alega que o sinistro ocorreu enquanto vigente o contrato, deveria ter comprovado nos autos suas alegações, no entanto, sequer delimita o período em que teria ocorrido, assim, a autora/apelante não se desincumbiu de seu ônus probatório, a teor do prescrito no art. 373, I, do CPC" (fls. 562/564 e-STJ).
+De fato, este Tribunal Superior tem posicionamento firmado no sentido de que, nos contratos de seguro habitacional obrigatório, no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, nos termos previstos na apólice.
+Confira-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CIVIL.TEMPESTIVIDADE DO RECURSO. FERIADO LOCAL COMPROVADO POSTERIORMENTE. POSSIBILIDADE. DECISÃO AGRAVADA RECONSIDERADA. MÉRITO. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. AGRAVO INTERNO PROVIDO. NOVO JULGAMENTO. RECURSO ESPECIAL DESPROVIDO.
+(..)
+5. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+(..)
+7. Agravo interno provido, para reconsiderar a decisão ora agravada, e, em novo julgamento, negar provimento ao recurso especial" (AgInt no REsp 1.629.413/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 28/9/2018 - grifou-se).
+No entanto, rever a conclusão firmada pelas instâncias ordinárias,de que inexiste risco de desmoronamento do imóvel a ensejar o pagamento da indenização, demandaria o reexame do contexto fático-probatório e a análise de cláusulas contratuais, procedimentos estes vedados na estreita via do recurso especial, a teor das Súmulas nº 5 e nº 7 do Superior Tribunal de Justiça.
+No mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. SEGURO HABITACIONAL. VÍCIOS CONSTRUTIVOS. ATRAÇÃO DOS ENUNCIADOS 5 e 7/STJ E 284/STF.
+1. "A ausência de indicação do dispositivo de lei federal supostamente violado ou a que se tenha atribuído interpretação divergente impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal." (AgRg no AREsp 869.536/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2016, DJe em 13/04/2016).
+2. Para o conhecimento do recurso especial pela alínea "c" do permissivo constitucional é essencial a demonstração das similitudes fático-jurídicas mediante cotejo analítico, desservindo a inerte transcrição de fundamentos, máxime a ausência de indicação dos dispositivos de lei federal que teriam sido interpretados de modo dissonante nos acórdãos.
+3. A improcedência do pedido diante da ausência de cobertura securitária,expressa exclusão do risco alegado, e afastamento da ameaça de desmoronamento, não pode ser revista sem que se proceda ao exame das cláusulas e do contrato celebrado, além das provas coligidas. Atração dos enunciados 5 e 7/STJ.
+4. AGRAVO INTERNO DESPROVIDO" (AgInt no REsp 1.582.988/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 25/02/2019, DJe 28/02/2019).
+Ademais, extrai-se das razões recursais que a parte recorrente não refutou os fundamento de que seu direito se encontra prescrito.
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade dereexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinzepor cento) sobre o valor atualizado da causa, os quais devem ser majorados para 17,5% (dezessete vírgula cincopor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
