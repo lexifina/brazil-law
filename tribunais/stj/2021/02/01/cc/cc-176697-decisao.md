@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido de liminar, instaurado por CONSTRUÇÕES ENGENHARIA E PAVIMENTAÇÃO ENPAVI - EM RECUPERAÇÃO JUDICIAL, envolvendo o r. Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais de São Paulo/SP, no qual se processa a recuperação judicial das suscitantes (Processo nº 1050778-50.2020.8.26.0100), e o r. Juízo da 8ª Vara do Trabalho de São Paulo/SP, onde tramita a Reclamação Trabalhista nº 1001517-61.2017.5.02.0708, movida por JOÃO BATISTA DE MELO FILHO.
+Aduzem as suscitantes, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contrabens de seus sócios nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alegam, é o foro competente para tratar de atos que afetem seu patrimônio.
+Citam, em favor de sua tese, os seguintes julgados deste STJ: Agint no CC 136571/MG, Relator: Ministro MARCO AURÉLIO BELLIZZE,DJe de 31/05/2017;AgInt no CC 147032/RJ, Rel.Min. RICARDO VILLAS BÔAS CUEVA, DJE de 19/09/2017.
+Diante disso, requerem a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição prossiga e inviabilize o processo de soerguimento ao qual estãosubmetidas.
+No mérito, pugnam pela declaração de competência do Juízo da Recuperação Judicial.
+É o relatório.
+Decisão.
+O pedido liminar não comporta acolhimento.
+1. Isso porque, para hipóteses deste jaez, a jurisprudência do STJ consolidou-se no sentido de que não traduz violação ao juízo atrativo da falência e da recuperação judicial o prosseguimento, perante a Justiça do Trabalho, de execuções contra sóciosnão atingidos pelo plano de recuperação ou pela decretação da falência. Nesse sentido, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DO JUÍZO TRABALHISTA PARA RECONHECIMENTO DA DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DECISÃO MANTIDA.
+1. A jurisprudência do STJ consolidou-se no sentido de que "não traduz violação ao juízo atrativo da falência e da recuperação judicial o prosseguimento, perante a Justiça do Trabalho, de execuções contra sócios não atingidos pelo plano de recuperação ou pela decretação da falência" (AgRg no CC 136.779/MT, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 26/11/2014, DJe 02/12/2014).
+2. Agravo interno a que se nega provimento.
+AgInt nos EDcl no CC 161953/GO, Rel. Min. Antonio Carlos Ferreira, DJe de 22/08/2019.
+E ainda:AgRg no CC9.583/RJ, Rel. Ministro ALDIR PASSARINHO JUNIOR, SEGUNDA SEÇÃO, julgado em 24/06/2009, DJe 17/08/2009; AgRg nos EDcl no CC n. 121.613/GO, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/2/2014, DJe 6/3/2014; AgRg no CC n. 110.730/SP, Relator Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), SEGUNDA SEÇÃO, julgado em 23/2/2011, DJe 2/3/2011; AgRg nos EDcl no CC n. 140.495/SP, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 26/8/2015, DJe 24/9/2015.
+Com esse norte hermenêutico, observa-se que o r. juízo laboral, atento ao entendimento supramencionado, consignou in verbis "(..)Pela análise da decisão de admissão da recuperação judicial nos autos do processo 10050778-50.2020.8.26.0100, não há determinação expressa para que a suspensão executória abranja também o patrimônio dos sócios, mas tão somente, refere-se às empresas CONSTRUÇÕES,ENGENHARIA E PAVIMENTAÇÃO ENPAVI LTDA, AULIPAV PARTICIPAÇÕES LTDA e USINAS SP PAVIMENTAÇÃO E TECNOLOGIA LTDA."(fl. 421)
+2. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ, indefiroo pedido liminar.
+Oficie-se aos juízos suscitados, com urgência, comunicando e solicitando informações pormenorizadas do andamento da execução fiscal.
+Após, à Douta Subprocuradoria-Geral da República.
+Publique-se. Intimem-se.
