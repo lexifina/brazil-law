@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 456, e-STJ):
+Apelação  Ação revisional de contrato - Compromisso de compra e venda  Cobrança comissão de corretagem e taxa SATI - Procedência parcial  Inconformismo das partes - Autor postulando a restituição dobrada e a Ré insistindo na ilegitimidade passiva e regularidade dos pagamentos - Acolhimento parcial do recurso da Ré e desprovimento do apelo do Autor - Reapreciação da questão à luz do art. 1.030, II, do CPC - Comissão de corretagem que, no caso concreto, não poderia ser repassada à compradora, porquanto aplicável à hipótese o decidido no recurso especial nº 1.601.149-RS, julgado em 13/06/2018, pelo STJ, sob a sistemática dos repetitivos (Tema 960), que assentou ser válida a cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda do Programa Minha Casa Minha Vida, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem, ressalvada a denominada Faixa 1, em que não há intermediação imobiliária - Hipótese dos autos que se enquadra na referida faixa -Precedente do STJ em procedimento de recursos repetitivos  Sentença mantida  Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 472/473, e-STJ).
+Em suas razões, a parte recorrente alega a existência de divergência jurisprudencial. Sustenta, em síntese, que a parte recorrida não faz jus à isenção da comissão de corretagem, por não se enquadrar na faixa 1 do Programa Minha Casa, Minha Vida.
+Não foram apresentadas contrarrazões, conforme certidão de fl. 550, e-STJ.
+O recurso foi admitido na origem, nos termos da decisão de fls. 553/554, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+De início, registro que a parte recorrente não indicou os dispositivos de lei federal aos quais o Tribunal de origem teria dado interpretação divergente. Essa situação configura deficiência na fundamentação e atrai, assim, o óbice da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CANCELAMENTO INDEVIDO. DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. FALTA DE INDICAÇÃO DOS DISPOSITIVOS OBJETO DE INTERPRETAÇÃO DIVERGENTE. SÚMULA N. 284/STF. DECISÃO MANTIDA.
+1. É indispensável - mesmo no recurso interposto com base na alínea "c" - indicar o dispositivo de lei federal objeto de interpretação divergente, providência não adotada no recurso, o que atrai a incidência da Súmula n. 284/STF.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1731553/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/11/2020, DJe 9/12/2020)
+Ademais, o recurso especial não merece conhecimento nos casos em que o dissídio jurisprudencial não for demonstrado na forma exigida pelos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, parágrafos 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça.
+A simples transcrição de ementas ou votos, sem a exposição clara e precisa das circunstâncias que identifiquem ou assemelhem os casos confrontados, não autoriza haver por atendida a suposta divergência. Tais circunstâncias prejudicam a compreensão da controvérsia e atraem o óbice contido no enunciado n. 284 da Súmula do STF.
+A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. VALOR. CORREÇÃO MONETÁRIA. TERMO INICIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial fundamentado na alínea "c" do permissivo constitucional exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. Não se considera comprovado o dissídio jurisprudencial, se não houve demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas (art. 541, parágrafo único, do CPC/1973).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1450854/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/8/2019, DJe 22/8/2019)
+Ainda que assim não fosse, a análise do mérito do recurso especial esbarraria na Súmula 7/STJ.
+Com efeito, o Tribunal de origem, à vista dos fatos e das provas juntadas, concluiu que a parte recorrida se enquadrava na Faixa 1 do Programa Minha Casa, Minha Vida, de modo que, conforme entendimento do STJ, não lhe seria possível a cobrança da comissão de corretagem (fls. 457/459, e-STJ):
+A hipótese trata de ação declaratória, cumulada com restituição de indébito (fls. 1/11).
+A r. sentença julgou PROCEDENTE o pedido formulado por LUIS FERNANDO SOARES em face de MRV ENGENHARIA E PARTICIPAÇÕES LTDA e o faço para declarar nula a cláusula impositiva do pagamento da comissão de corretagem e assessoria técnica pela autora e condenar as rés solidariamente ao pagamento de R$3.046,00, corrigido desde a data do pagamento e acrescido de juros de mora de 1% ao mês a partir da citação, provimento ratificado pelo V. Acórdão de fls. 240/246, ensejando o manejo do Recurso Especial e agravo regimental.
+Em que pese o julgamento proferido às fls. 240/246, o inconformismo manifestado pela Ré não comporta acolhida.
+Consoante decidido pelo C. Superior Tribunal da Justiça, em sede de recursos repetitivos (recurso especial 1601149/RS, Rel. Min. Paulo de Tarso Sanseverino, sendo relator para o acórdão o ministro Ricardo Villas Bôas Cueva, por acórdão publicado em 15.8.2018)
+"Ressalvada a denominada Faixa 1, em que não há intermediação imobiliária, é válida a cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda do Programa Minha Casa, Minha Vida, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem".
+No caso em tela, conforme, recentemente, decidido pelo C. STJ, em relação à possibilidade de cobrança de comissão de corretagem efetuada em contratos do PMCMV (Temas 960 e 961), viável a cobrança da comissão de corretagem em contratos desse programa governamental, desde que preenchidos os requisitos estabelecidos. A decisão a respeito já transitou em julgado, conforme ementa que se transcreve:
+(..)
+Como visto, apenas na "Faixa 1" do programa habitacional está vedada a cobrança da comissão de corretagem. Atualmente, a renda abrangida pela "Faixa 1" é de até R$ 1.800,00 ( http://www.caixa.gov.br/voce/habitacao/minha-casa-minha - vida/urb ana/Paginas/default.aspx), sendo que no contrato firmado entre o autor e a Instituição Financeira consta, expressamente, que a renda do requerente era de R$ 1.640,00 (fls. 376), encontrando-se, portanto, dentro da referida faixa de isenção.
+Desta feita, a r. sentença proferida não merece reparo, devendo, pois, subsistir porquanto não abalada em seus sólidos fundamentos.
+A revisão desse entendimento exigiria o reexame da matéria fática, procedimento vedado em recurso especial, nos termos da Súmula 7/STJ.
+Cumpre registrar, por fim, que os recursos interpostos com fundamento no art. 105, III, alínea "c", da Constituição Federal, atraem, regularmente, a incidência da Súmula 7/STJ, quando necessário examinar o contexto fático-probatório dos autos, senão vejamos:
+PROCESSUAL CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso, com base na qual a Corte de origem deu solução à causa.
+3. Agravo não provido.
+(AgRg no AREsp 494.763/RS, Relatora a Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/8/2014, DJe 18/8/2014)
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
