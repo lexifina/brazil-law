@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de THIAGO BATISTA CABRAL contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n.0004364-39.2020.8.26.0996.
+Colhe-se nos autos que o Paciente cumpre pena total de 14 (quatorze) anos de reclusão, pela prática do crime de homicídio qualificado, com término de cumprimento previsto para 10/08/2031.
+Nos autos da Execução da Pena n.0001486-15.2018.8.26.0996, o Reeducando formulou pedido de progressão ao regime semiaberto, que foi indeferido pelo Juízo das Execuções Penais.
+Irresignada, a Defesa interpôs agravo em execução, ao qual o Tribunal de origem negou provimento.
+Nestewrit, a Parte Impetrante alega, em síntese, que o Paciente preenche todos os requisitos para a obtenção da progressão ao regime semiaberto, "não podendo ser referida progressão negada apenas sob os argumentos de que o PACIENTE ostenta longa pena a cumprir e que os crimes por ele praticados são graves" (fl. 11).
+Requer, em liminar e no mérito, seja deferida ao Paciente a progressão ao regime intermediário, independentemente da realização de exame criminológico.
+O pedido liminar foideferidoas fls. 52-55.
+As informações solicitadas foram prestadas às fls. 60-64 e 67-77.
+O Ministério Público Federal manifestou-se às fls. 83-86, opinando pelo não conhecimento da impetração, mas pela concessão da ordem, de ofício, "para cassar o acórdão do Tribunal de Origem e determinar que o Juízo das Execuções Criminais reaprecie o pedido de progressão de regime com base nos fatos ocorridos no curso da execução da pena do Paciente".
+É o relatório.Decido.
+O Juízo das Execuções Criminais indeferiu o pedido de progressão ao regime semiaberto formulado pelo Paciente com base nas seguintes razões (fl. 40):
+"A pretensão é improcedente.
+A despeito do cumprimento do requisito objetivo, o sentenciado não reúne méritos subjetivos para alcançar a progressão e possui longa pena por cumprir, conforme cálculo de liquidação de penas.
+E mais. Tratando-se de crime cometido com violência ou grave ameaça à pessoa, no presente caso, homicídio, demonstram a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando.
+Diante do exposto, por ora, INDEFIRO a promoção de Thiago Batista Cabral, RG: 42725277, RG: 51.774.574, RJI: 170279741-03, recolhido no(a) Penitenciária Compacta de Flórida Paulista, ao regime semiaberto."
+A Corte Estadual, por sua vez, negou provimento ao agravo em execução interposto pela Defesa, consignando,in verbis(fls. 47-49):
+"O presente agravo não merece provimento.
+Em que pese ter o sentenciado cumprido o tempo para alcançar o benefício pretendido, de fato, não satisfaz o requisito subjetivo. Senão vejamos.
+Com efeito, o sentenciado cumpre pena total de 14 (quatorze) anos de reclusão, pela prática de crime grave e violento (homicídio qualificado), além de que o término do cumprimento da reprimenda está previsto para 10.08.2031 (fls. 24).
+Não se olvide que, o sentenciado havia sido beneficiado com liberdade provisória aos 31.08.2012, sendo novamente preso em flagrante delito aos 21.02.2015, período em que cometeu os dois roubos qualificados pelos quais foi condenado.
+Apesar das alegações da i. Defesa, não há nos autos elementos que demonstrem, com segurança, que o sentenciado esteja introjetando os valores e a disciplina, a contento, o que seria de rigor.
+Tendo em vista sua condenação por delito de homicídio qualificado consumado e sua observância em regime fechado por tempo exíguo, com longa pena pela frente, exige-se maior cautela na aferição de seu mérito para obtenção de benefícios no curso da execução, especialmente o regime semiaberto.
+Tais peculiaridades do caso sub judice impedem a formação de prognose favorável que leve à segura conclusão de que o sentenciado venha introjetando valores e assimilando a terapêutica penal, a ponto de merecer, inclusive, descontar o restante de sua reprimenda em semiliberdade.
+Com efeito, em sede de execução penal, o princípio que rege é o in dubio pro societate. Em caso de dúvida se o condenado deve, ou não, obter o benefício, há de ser resolvida em favor da sociedade, a qual não é obrigada a conviver na insegurança.
+Destarte, não demonstrando méritos concretos e indicativos com razoável certeza de que está apto a se beneficiar do regime intermediário, deve o agravante, por ora, continuar a descontar sua pena em regime fechado.
+Por fim, observado o presente caso com o devido cuidado, ponderando que contra o sentenciado há apenas uma execução em curso e que não se vislumbram infrações disciplinares até o momento, este Relator recomenda seja o agravante submetido a exame criminológico para a aferição segura de seu mérito para a promoção carcerária, após o que o i. Magistrado de 1º Grau deverá reavaliar a questão ora ventilada."
+Verifica-se, das decisões supratranscritas, que o Magistrado singularbaseou-se, essencialmente, na gravidade abstrata dodelito cometidopelo Paciente e na longa pena a cumprir, para concluir pela ausência de preenchimento do requisito subjetivo para a progressão de regime.
+De igual modo, a Corte de origem entendeu pela necessidade darealização deexame criminológico sem declinar elementos concretos,ocorridos durante o cumprimento da pena, que apontassem desabono ou demérito do Paciente - o que não é admitido pela jurisprudência desta Corte, nos termos doentendimento sedimentado na Súmula n.439, cuja inteligência exige, para a determinação de exame criminológico, a precedência de fundamentação concreta.
+Nesse sentido:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME.CONDICIONADA À REALIZAÇÃO DE EXAME CRIMINOLÓGICO.GRAVIDADE ABSTRATA DOS DELITOS DA CONDENAÇÃO. LONGA PENA A CUMPRIR. FUNDAMENTOS INIDÔNEOS. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+II - O Tribunal a quo, ao determinar a realização de exame criminológico como condição para o deferimento de benefícios da execução penal, fundamentou sua decisão unicamente na gravidade dos crimes que originaram a execução penal e na longa pena a cumprir. Não foram apontados elementos concretos, observados durante a execução penal, aptos a demonstrar a ausência do requisito subjetivo.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o v. acórdão vergastado e restabelecer a r. decisão do d. Juízo da Execução, que concedeu a progressão de regime de pena ao paciente." (HC 536.162/SP, Rel.Ministro LEOPOLDO DE ARRUDA RAPOSO, DESEMBARGADOR CONVOCADO DO TJ/PE, QUINTA TURMA, julgado em 26/11/2019, DJe 03/12/2019; sem grifos no original.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME INDEFERIDA. REQUISITO SUBJETIVO. GRAVIDADE DO DELITO. LONGA PENA A CUMPRIR. AGRAVO DE EXECUÇÃO PENAL NÃO INTERPOSTO. WRIT ORIGINÁRIO NÃO CONHECIDO. SUPRESSÃO DE INSTÂNCIA. FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1.  .. .
+4. Esta Corte possui o entendimento de que a gravidade dos delitos pelos quais restou condenado o paciente, bem como a sua longa pena ainda por cumprir não são fundamentos idôneos para recusar os benefícios da execução penal. (HC 429.176/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 14/3/2018).
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo da Execução reaprecie o pedido de progressão do paciente, com urgência, levando-se em consideração apenas elementos concretos da execução penal." (HC 438.454/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 17/04/2018, DJe 02/05/2018; sem grifos no original.)
+Ante o exposto, CONCEDO a ordem de habeas corpus, em extensão diversa, para, confirmando a liminar, determinar que o Juízodas Execuções Criminais, incontinenti, prossiga na análise do pedido de progressão de regime formulado pelo Paciente, afastadas as circunstâncias que obstaram o reconhecimento da configuração do requisito subjetivo consignadas em primeiro grau de jurisdição, quais sejam, a gravidade abstrata dodelitoe a longa pena a cumprir, bem como a exigência de exame criminológico.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA, EM EXTENSÃO DIVERSA.
