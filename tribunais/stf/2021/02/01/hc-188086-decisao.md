@@ -1,0 +1,27 @@
+D E C I S Ã O
+    Trata-se de habeas corpus impetrado contra decisão emanada do Superior Tribunal de Justiça que está assim ementada:
+    “AGRAVO REGIMENTAL EM ‘HABEAS CORPUS’. TRÁFICO INTERESTADUAL DE DROGAS. DOSIMETRIA DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. QUANTIDADE DA DROGA. 426G DE MACONHA. ‘MODUS OPERANDI’. MINORANTE. NÃO INCIDÊNCIA. REEXAME. ASPECTOS FÁTICOS. IMPOSSIBILIDADE.
+    1. Tendo o Tribunal de origem negado a aplicação da minorante do § 4º do art. 33 da Lei n. 11.343/2006 pelas circunstâncias do caso, em especial a quantidade de droga apreendida, as quais evidenciariam a dedicação a atividades criminosas, a pretendida revisão do julgado implicaria reexame do material cognitivo dos autos (AgRg no AREsp n. 1.142.920/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 21/5/2018), o que é vedado no âmbito do ‘habeas corpus’, que possui rito célere e cognição sumária.
+    2. Agravo regimental improvido.”
+    (HC 459.515-AgRg/SP, Ministro Sebastião Reis Júnior)
+    Em síntese, os impetrantes pretendem seja aplicada a causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei nº 11.343/2006 e ingresso do ora paciente em regime de execução de pena menos gravoso (semiaberto).
+    Por não vislumbrar plausibilidade jurídica no pleito cautelar formulado pelos impetrantes, o Ministro Celso de Mello, então Relator, indeferiu o pedido de medida liminar.
+    O Ministério Público Federal, ao opinar pelo não conhecimento deste habes corpus, formulou parecer assim ementado:
+    “PENAL E PROCESSUAL PENAL. ‘HABEAS CORPUS`. TRÁFICO INTERESTADUAL DE DROGAS. CONDENAÇÃO TRANSITADA EM JULGADO. INADMISSIBILIDADE DO HC SUBSTITUTIVO DE REVISÃO CRIMINAL. SITUAÇÃO EXCEPCIONAL NÃO CARACTERIZADA. PRETENSÃO À INCIDÊNCIA DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI Nº 11.343/06 EM SEU GRAU MÁXIMO, E À FIXAÇÃO DO REGIME INICIAL DIVERSO DO FECHADO. MINORANTE INAPLICÁVEL. AGENTE QUE SE DEDICA A ATIVIDADES CRIMINOSAS (NÃO APENAS EM RAZÃO DA NATUREZA E QUANTIDADE DA DROGA APREENDIDA, MAS TAMBÉM PELAS CIRCUNSTÂNCIAS CONCRETAS DA PRÁTICA DELITIVA, ENVOLVENDO O TRANSPORTE INTERESTADUAL DE DROGAS). REGIME SEMIABERTO JÁ ALCANÇADO PELO PACIENTE MEDIANTE PROGRESSÃO DE REGIME. PERDA DE OBJETO. IMPOSSIBILIDADE DE CONCESSÃO DO REGIME ABERTO. QUESTÃO NÃO EXAMINADA PELO JUÍZO DA EXECUÇÃO. SUPRESSÃO DE INSTÂNCIA. PARECER PELO NÃO CONHECIMENTO DO ‘WRIT’.”
+    Tal o contexto, reputo inadmissível este habeas corpus.
+    Com efeito, consta dos autos que a condenação do ora paciente transitou em julgado em momento anterior a presente impetração.
+    Esta Excelsa Corte consagrou sua jurisprudência no sentido da inviabilidade da ação de habeas corpus como sucedâneo de revisão criminal. Ilustram esse entendimento os seguintes acórdãos: (HC 144.323- -AgR/SP, Ministro Ricardo Lewandowski; HC 149.653- -AgR/SP, Ministro Dias Toffoli; HC 163.627/SP, Ministro Alexandre de Moraes; HC 177.098/SP, Ministro Luiz Fux; HC 186.333-AgR/SC, Ministra Rosa Weber; HC 193.043-AgR/SP, Ministra Cármen Lúcia; RHC 181.896- -AgR/RJ, Ministro Edson Fachin.
+    Mesmo que se pudesse superar tal óbice, melhor sorte não socorreria a parte impetrante no que toca à aplicação da causa especial de diminuição de pena prevista no §4º do art. 33 da Lei nº 11.343/2006.
+    É que para o acolhimento da tese defensiva – no sentido de que o paciente não se dedica a atividades criminosas – seria indispensável o reexame do todo conjunto fático-probatório que levou ao afastamento, no caso, da aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º da Lei nº 11.343/2006, fato esse inviável para a via estreita  do habeas corpus, que não admite dilação probatória, nos termos da jurisprudência de ambas as Turmas desta Suprema Corte  (HC 123.430/SP, Ministro Luiz Fux; HC 192.230-AgR/MS, Ministra Cármen Lúcia; HC 191.788-AgR/MT, Ministro Alexandre de Moraes; HC 188.400-AgR/SP, Ministro Roberto Barroso; HC 154.301-AgR/SP, Minstro Edson Fachin):
+    “’HABEAS CORPUS’. PENAL. TRÁFICO ILÍCITO DE DROGAS. INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. IMPOSSIBILIDADE. RÉU QUE SE DEDICAVA A ATIVIDADE CRIMINOSA. ORDEM DENEGADA.
+    I – O indeferimento da causa especial de redução do § 4º do art. 33 da Lei 11.343/2006 foi devidamente fundamentado, havendo a comprovação de que o paciente já vinha colaborando para a disseminação do tráfico, utilizando-se, inclusive, de menores para a prática da traficância, e, por isso, responde a outro processo pelo mesmo delito.
+    II – Para se chegar a conclusão contrária à adotada pelas instâncias ordinárias e confirmada pelo STJ, seria necessário o reexame de fatos e provas, providência incabível em ‘habeas corpus’, por se tratar de instrumento destinado à proteção de direito demonstrável de plano, que não admite dilação probatória.
+    III – Ordem denegada.”
+    (HC 110.983/RS, Ministro Ricardo Lewandowski – sem grifos no original)
+    Não vislumbro, desse modo, a ocorrência de ilegalidade na dosimetria da pena.
+    Já quanto ao pedido de ingresso no regime semiaberto, este pleito perdeu seu objeto, como bem assinalado pelo Ministério Público Federal ao destacar que “(...) em 16 de dezembro de 2019, o Juízo das Execuções concedeu ao paciente a progressão ao regime semiaberto”.
+    Em face do exposto, não conheço deste habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 1º de fevereiro de 2021.
+Ministro NUNES MARQUES
+Relator
