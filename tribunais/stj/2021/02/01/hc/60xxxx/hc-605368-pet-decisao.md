@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Petição n. 703414/2020 em que a defesa pleiteia que seja determinado ao Juízo da execução a imediata apreciação do pedido de livramento condicional, alegando - além do preenchimento do requisito objetivo - que o boletim informativo e o atestado de conduta carcerária do sentenciado estão conclusos desde o dia 14/9/2020.
+Aponta, portanto, constrangimento ilegal à liberdade de locomoção do paciente, pois desde a concessão parcial da ordem em decisão por mim proferida (e-STJ fls. 50/55)"já se passaram mais de 01 (um mês) até o presente momento" (e-STJ fl. 64).
+Assim, conclui a defesa rogando " ..  seja determinado ao juiz singular que aprecie imediatamente tal pedido, visto que, a demora está causando injustiça ao direito do paciente, uma vez que, já possui direito ao livramento condicional desde 21 de janeiro de 2020, ou seja, há 09 (nove) meses, que está tendo seu direito violado e a morosidade em julgar seu pedido, está causado grande ilegalidade ao seu direito de liberdade. Caso entenda também, que conceda a ordem do habeas corpus, a fim de conceder ao paciente o livramento condicional, ante o cumprimento de TODOS os requisitosexigidos pela lei" (e-STJ fl. 64).
+É orelatório.
+Decido.
+Inicialmente, relembro que a defesa, no habeas corpus impetrado nesta Corte (e-STJ fls. 3/12), apontou como ato coator o acórdão estadual que havia denegado a ordem na origem e mantiverao indeferimento do livramento condicional por entender necessário que o sentenciado vivenciasse primeiramente o regime semiaberto.
+Em 18/8/2020 (e-STJ fls. 50/55), concedi liminarmente a ordem, de forma parcial, para determinar que o magistrado singular analisasse o pleito de livramento condicional nos termos da lei, afastada a necessidade de permanência em regime intermediário como óbice à concessão do livramento condicional.
+Nesta petição, o requerente aponta ilegalidade produzida pelo Juízo singular. Sustenta que a delonga na análise do pedido de livramento condicional está ofendendo a sua liberdade de locomoção.
+Como se vê, a pretensão - exame imediato do pedido de livramento condicional - não foi analisada pelo colegiado estadual, de maneira que fica obstado o exame da matéria diretamente por esta Corte, sob pena de indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e devido processo legal.
+Em outras palavras, percebe-se a incompetência desta Corte para o processamento e julgamento da controvérsia, já que inexiste, no ponto, ato coator emanado de tribunal sujeito à jurisdição do Superior Tribunal de Justiça, nos moldes do que exige o art. 105, I, "c", da Constituição Federal.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
