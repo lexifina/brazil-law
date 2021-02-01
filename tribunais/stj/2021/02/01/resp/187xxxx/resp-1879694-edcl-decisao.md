@@ -1,0 +1,58 @@
+DECISÃO
+BANCO DO BRASIL S. A. opõe embargos de declaração à decisão por meio da qual dei provimento ao seu recurso especial.
+Recomenda a suspensão do processo, já que o Supremo Tribunal Federal (STF) reconheceu a repercussão geral da questão concernente ao limite (territorial/geográfico) da eficácia do título oriundo da ação civil pública, matéria trazida no recurso especial.
+Pronunciei-me fundamentada, objetiva e claramente sobre o alcance territorial do título exequendo.
+Transcrevo, para certeza, excerto da decisão ora embargada:
+" ..
+A parte recorrente alega que o acórdão recorrido contrariou os artigos 397, 398 e 405 do Código Civil; os artigos 82, 93, 95, 97, 98 e 103 do Código de Defesa do Consumidor; os artigos 468, 472, 474 e 475-B do CPC de 1973; o artigo 16 da Lei 7.347/1985; e os artigos 240, 485, 509 e 783 do CPC de 2015.
+ ..
+Discute a eficácia territorial do título exequendo.
+ ..
+Primeiramente, registro que a questão da legitimidade para executar o título oriundo da ação civil pública 1998.01.1.016798-9, o qual condenou o BANCO DO BRASIL S.A. a pagar diferenças de correção monetária (expurgos inflacionários oriundos da implementação do Plano Verão - janeiro de 1989) relativas a valores mantidos em contas de poupança, não comporta mais discussão, dada a eficácia da coisa julgada. Esse óbice - coisa julgada - também se aplica ao debate em torno da eficácia/abrangência/limitação territorial (alcance geográfico) do título oriundo da ação civil pública mencionada. O título referido beneficiou todos os titulares de conta de poupança no banco réu, independentemente da residência ou domicílio do poupador, podendo este ajuizar a execução individual no foro de seu domicílio ou no de prolação do título exequendo (Distrito Federal). Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. PLANO VERÃO. 1. SUSPENSÃO DO PROCESSO. DESCABIMENTO. 2. AÇÃO COLETIVA AJUIZADA PELO IDEC E FAVORÁVEL A TODOS OS POUPADORES, SEM LIMITAÇÃO TERRITORIAL. LEGITIMIDADE ATIVA. 3. LEGITIMIDADE PASSIVA DO HSBC. SUCESSÃO DO BANCO BAMERINDUS. NECESSIDADE DE REEXAME DE PROVAS E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. 4. AGRAVO IMPROVIDO.
+(..)
+2. A jurisprudência da Segunda Seção, no julgamento dos REsps n. 1.243.887/PR e 1.391.198/RS, relatados pelo Ministro Luis Felipe Salomão e submetidos à sistemática dos recursos repetitivos (art. 543-C do CPC/1973), consolidou o entendimento de que a sentença proferida na ação civil pública, a qual condenou determinado banco ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança, é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança daquela instituição financeira, independentemente de sua residência ou domicílio no órgão prolator, consignou, também, que os poupadores ou seus sucessores detêm legitimidade ativa - independentemente de fazerem parte ou não dos quadros associativos, no caso, do IDEC - de ajuizarem o cumprimento individual daquela sentença coletiva no órgão prolator ou em foro diverso deste.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 616.160/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/05/2019, DJe 24/05/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. LEGITIMIDADE ATIVA. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ EM SEDE DE RECURSO REPETITIVO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Esta Corte Superior firmou o entendimento, em sede de recurso repetitivo, no sentido de que:
+a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;
+b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+(..)
+4. Agravo interno não provido.
+(AgInt no REsp 1619272/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/04/2017, DJe 03/05/2017)
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil:
+a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;
+b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido.
+(REsp 1.391.198/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 2.9.2014)
+Incide, no ponto, a Súmula 83 do STJ.
+ .. "
+Como se pode ver, oassunto(limite territorial da eficácia do título exequendo) abordadonos embargos de declaração foiexaminadoexpressamente.
+Aproveita lembrar que, no caso, o título exequendo é oriundo da ação civil pública 1998.01.1.016798-9, que tramitou na 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília (DF), ajuizada pelo INSTITUTO BRASILEIRO DE DEFESA DO CONSUMIDOR (IDEC).
+O Superior Tribunal de Justiça (STJ), examinando questão surgida na fase de execução do mesmo título judicial que é objeto do presente cumprimento de sentença, decidiu que, em decorrência da necessidade de ser observada a coisa julgada formada na fase de conhecimento, não seria possível, na fase de execução, reduzir o alcance subjetivo da coisa julgada (para limitar esse alcance ao âmbito da competência territorial do juízo prolator do título exequendo).
+Leia-se:
+AÇÃO CIVIL PÚBLICA. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. SENTENÇA PROFERIDA PELO JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA/DF NA AÇÃO CIVIL COLETIVA N. 1998.01.1.016798-9 (IDEC X BANCO DO BRASIL). EXPURGOS INFLACIONÁRIOS OCORRIDOS EM JANEIRO DE 1989 (PLANO VERÃO). EXECUÇÃO/LIQUIDAÇÃO INDIVIDUAL. FORO COMPETENTE E ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. OBSERVÂNCIA À COISA JULGADA.
+1. Para fins do art. 543-C do Código de Processo Civil:
+a) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva n. 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal;
+b) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do Idec, de ajuizarem o cumprimento individual da sentença coletiva proferida na Ação Civil Pública n. 1998.01.1.016798-9, pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF.
+2. Recurso especial não provido.
+(REsp 1391198/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 2.9.2014).
+O título judicial em apreço beneficiou todos que tinham conta de poupança no banco executado, independentemente do domicílio do poupador, que pode ajuizar a demanda individual (liquidação/execução) tanto em seu domicílio como no do juízo prolator da sentença coletiva.
+Não cabe falar, portanto, em incompetência do juízo ou ilegitimidade para o ajuizamento da execução.
+Em virtude da coisa julgada sobre a questão, reconhecida no referido repetitivo, deve ser indeferida a suspensão pleiteada.
+Em embargos de declaração opostos à decisão proferida no Recurso Extraordinário 1.101.937/SP, a qual determinou a suspensão das demandas que tratem da questão, o ministro Alexandre de Moraes esclareceu que os processos em que o ponto encontra-se precluso não devem ser suspensos:
+A respeito dos pontos agitados pelo embargante, convém esclarecer: serão suspensos os processos nos quais esteja pendente de deliberação a aplicação do art. 16 da Lei 7.347/1985.
+A diretriz vale para processos em qualquer grau de jurisdição; seja qual for a fase em que estejam (conhecimento, cumprimento de sentença, ou execução); independentemente da matéria em discussão; individuais ou coletivos.
+Agora, uma observação se faz necessária: processos em que tal questão não tenha sido invocada, ou sobre a qual já exista decisão preclusa, evidentemente não devem ser paralisados.
+Reitere-se: a ordem de suspensão também alcança processos em fase de cumprimento de sentença, ou de execução, além de ações rescisórias -DESDE QUE, NESSES ESPECÍFICOS PROCEDIMENTOS, TENHA SIDO SUSCITADA A APLICAÇÃO DO ART. 16 DA LEI 7.347/1985, E QUE ESTA QUESTÃO AINDA NÃO ESTEJA DEFINITIVAMENTE RESOLVIDA.
+Finalmente, é permitido aos órgãos julgadores decidir a incidência do art. 16 da Lei 7.347/1985, desde que a fundamentação seja alheia aos argumentos colocados em jogo neste leading case.
+Exemplificativamente: a alegação é intempestiva, ou preclusa.
+Excetuadas estas motivações, absolutamente estranhas ao que se discute neste RE com repercussão geral, cabe enfatizar, pela última vez: não deve prosseguir qualquer processo em que tenha sido aventada a aplicabilidade, ou não, do art. 16 da Lei 7.347/1985, se tal ponto estiver na expectativa de solução definitiva.
+Em conclusão, a decisão sobre a constitucionalidade do artigo 16 da Lei 7.347/1985 não tem influência na presente execução, pois há coisa julgada formada na fase de conhecimento da demanda coletiva.
+Não incide, assim, a suspensão referente ao tema 1.075/STF.
+Em face do exposto, rejeito os embargos.
+Intimem-se.
