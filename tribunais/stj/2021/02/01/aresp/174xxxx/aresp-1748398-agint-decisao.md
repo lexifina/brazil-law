@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto por Nilson Fermiano de Assis, contra decisão proferida pela Presidência desta Corte às fls. 384/386, que negou provimento ao agravo em recurso especial.
+Do exame acurado dos autos, observa-se que,no presente recurso, discute-se a possibilidade de cobrança de valores recebidos indevidamente a título de benefício previdenciário via dívida ativa, questão que foi afetada pela Primeira Seção, nos termos do art. 1.036 do CPC/2015, conforme o Tema Repetitivo nº 1.064:
+Possibilidade de inscrição em dívida ativa para a cobrança dos valores indevidamente recebidos a título debenefício previdenciário: verificação da aplicação dos §§3º e 4º, do art. 115, da Lei n. 8.213/91 aos processos em curso.
+Ainda sobre o tema repetitivo, verifica-se que houve expressasuspensão do julgamento de todos os processos envolvendo a matéria, conforme o art. 1.037, II, do CPC/2015.
+Do exposto, reconsidero a decisão de fls. 384/386, e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: I) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; II) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, I e II, do novo CPC/2015).
+Publique-se.
