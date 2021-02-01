@@ -1,0 +1,16 @@
+DECISÃO:
+Ementa: Processual Penal. Habeas corpus. Tentativa de homicídio qualificado. Intimação pessoal do acórdão da apelação. Desnecessidade. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a medida cautelar requerida nos autos do HC 630.975, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 6 anos e 8 meses de reclusão, em regime inicial semiaberto, pelo crime previsto no art. 121, § 1º e § 2º, II, c/c o art. 14, II, do Código Penal, assegurado o direito de recorrer em liberdade.
+    3. O Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento à apelação da defesa, a fim de reduzir a pena para 5 anos e 4 meses de reclusão.
+    4. Após o trânsito em julgado da condenação, a defesa impetrou habeas corpus no TJ/RS, não conhecido. Ato contínuo, interpôs agravo regimental, não provido. Na sequência, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 630.975, Ministro Reynaldo Soares da Fonseca, indeferiu a medida cautelar. Contra essa decisão, foi interposto agravo regimental, desprovido.
+    5. Neste habeas corpus, a parte impetrante sustenta que o paciente não foi pessoalmente intimado do acórdão da apelação. Afirma que “houve tão somente a intimação pessoal da Defensoria Pública do resultado da apelação e que houve a publicação da decisão pelo Diário de Justiça Eletrônico, da qual (o paciente) nunca teve ciência. Tal situação lhe retirou a oportunidade de deliberar sobre a conveniência ou não da interposição dos pertinentes recursos às instâncias superiores. Daí a afronta ao devido processo legal, mais especificamente nas vertentes do contraditório e da ampla defesa (art. 5º, LIV e LV, da Constituição Federal)”.
+    6. A defesa requer a concessão da ordem a fim de que “seja anulado o trânsito em julgado do acórdão proferido pela 1ª Câmara Criminal do TJRS, nos autos da Apelação Crime nº 70080752843 (CNJ nº 0047193-40.2019.8.21.7000), determinando-se a reabertura do prazo para eventuais recursos defensivos”.
+    7. Decido.
+    8.  O Supremo Tribunal Federal (STF) firmou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do Supremo Tribunal Federal e de decisões teratológicas.
+    9. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF, notadamente se se considerar que o entendimento do STF é no sentido de que “o art. 392 do CPP dispõe sobre a necessidade de intimação pessoal do réu apenas na hipótese de sentença condenatória e não do acórdão proferido no julgamento da apelação” (HC 114.107, Rel. Min. Ricardo Lewandowski). No mesmo sentido: HC 110.100, Rel. Min. Celso de Mello; HC 75.536, Rel. Min. Sydeney Sanches; HC 81.691, Rel. Min. Cezar Peluso).
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 1º de fevereiro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
