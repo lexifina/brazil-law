@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por Supremo Distribuidora de Discos e Gravações Ltda - Massa Falida, com base no art. 105, III, "a" e "c", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Estado de São Pauloementado nos seguintes termos (e-STJ, fl. 551):
+APELAÇÃO E REEXAME NECESSÁRIO. DIREITO TRIBUTÁRIO. CREDITAMENTO, ESCRITURAÇÃO E TRANSFERÊNCIA DE ICMS. MASSA FALIDA. PRESCRIÇÃO. Prescrição reconhecida. Pretensão autoral de natureza mista, não se limitando a mera declaração e, portanto, sujeita à prescrição. Prazo quinquenal na espécie. Inteligência do artigo 38, § 3º, da Lei Estadual nº 6.374/89 e do art. 1º do Decreto nº 20.910/32. Suspensão do prazo prescricional previsto no art. 6º da Lei de Falências que atinge apenas as ações em que a massa falida se encontra no polo passivo, não se projetando às ações em que a mesma é autora. Sentença de procedência revista. Remessa necessária provida para reconhecer a prescrição. Recursos voluntários prejudicados.
+Os embargos de declaração opostos contra a aludida decisão foram rejeitados.
+Alega o agravante, nas razões do recurso especial, violação do art. 1.022 do CPC/2015, ao argumento de que o acórdão foi omisso quanto às diligências promovidas pelo administrador judicial no processo administrativo.
+Sustenta, outrossim, que o acórdão ofendeu os arts. 371 do CPC; 22, III, "d", da Lei n. 11.101/2005; 3º, II e 26,§ 3º, da Lei n. 9.784/1999, "ao considerar válida, para fins de início do fluxo do prazo prescricional da pretensão da Recorrente, a intimação encaminhada para o endereço que funcionava a Recorrente, antes do decreto sua falência (fls. 532/533), mesmodiante da manifestação do Sr. Administrador Judicial (fls. 509/514) e da intimação anterior que lhe foi endereçada (fls. 515) pela Recorrida" (e-STJ, fl. 632).
+Alega, ainda, que há divergência jurisprudencial em torno da validade da intimação, nos termos em que efetivada.
+A negativa de admissibilidade teve por fundamento a inexistência de omissão, assim como o óbice da Súmula 7/STJ.
+Impugnados os fundamentos da decisão agravada, passo à análise do recurso especial.
+É o relatório.
+Assiste razão à parte recorrente no ponto em que sustenta violação do art. 1.022, II, do CPC/2015, pois uma análise detida das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 550-562e 592-599), em cotejo com os recursos da recorrente (e-STJ, fls. 570-574e 623-644), revela que houve omissão no acórdão combatido quanto à suposta informação, nos autos do processo administrativo, do endereço do administrador judicial, para fins de intimação.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a parte deve vincular a interposição do recurso especial à tese de violação do art. 1.022 do CPC/2015, quando, mesmo após a oposição de embargos declaratórios, o Tribunal a quo mantém-se em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum, ou, ainda, quando persista desconhecendo omissão ou contradição arguida como existente no decisum.
+Por estar configurada a agressão ao disposto no art. 1.022 da legislação processual, impõe-se a decretação de nulidade do acórdão que apreciou os embargos declaratórios, a fim de que os vícios sejam sanados.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÕES NÃO EXAMINADAS E IMPRESCINDÍVEIS À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola os arts. 489 e 1022 do CPC/2015.
+2. Agravo interno não provido.
+(AgInt no REsp 1.781.464/MG, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em2/12/2019, DJe 4/12/2019.)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação,para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em declaratória.
+Publique-se. Intimem-se.
