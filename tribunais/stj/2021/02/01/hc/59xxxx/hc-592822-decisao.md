@@ -1,0 +1,21 @@
+DECISÃO
+Com a alegação de excesso de prazo para julgamento do recurso deapelação, pretende-se, neste writ, a concessão liminar da ordem liberatória a Felipe Barbosa Nunes, preso cautelarmente e condenado como incurso nos arts. 159, § 1º, e 288, ambos do Código Penal (Processo n. 0000336-04.2018.4.01.4302 - 1ª Vara de Gurupi),a cumprir 13anos e 6meses de reclusão, em regime inicial fechado (fls. 70/78).
+Argumenta-se que os autos foram recebidos pela autoridade coatora no dia 21/8/2019, tendo sido designada a sessão de julgamento do recurso para a data de 17/3/2020; contudo,em razão daCovid-19, a indigitada sessão foi suspensa, aguardando nova inclusão até a presente data(fl. 4).
+Ressalta-se, ademais, a necessidade de se avaliar os motivos do decreto prisional, conforme disposto no art. 316, parágrafo único,do Código de Processo Penal.
+Em 1º/7/2020, indeferi a liminar, sob estes fundamentos (fls. 89/91):
+O deferimento de liminar em habeas corpus é medida de caráter excepcional, cabível apenas quando a decisão impugnada estiver eivada de ilegalidade flagrante, demonstrada de plano.
+Relativamenteao alegado excesso de prazo, segundo o entendimento jurisprudencial desta Corte, eventual retardamento no julgamento do recurso de apelação só invalida a prisão se demonstrado que, em razão dessa demora, o paciente sofre constrangimento por tempo superior ao que seria razoável em face do dispositivo da sentença condenatória (HC n. 230.694/SP, Ministro Gilson Dipp, Quinta Turma, DJe 30/4/2012)
+Assim, tomando por conta a condenação imposta ao ora paciente em primeiro grau - 13anos e 6 mesesde reclusão -, aliada, outrossim, à informação constante da própria petição inicial que os autos já se encontravam prontos para julgamento, inclusive com designação da data 17/3/2020 para a sessão, não ocorreu, infelizmente, em razão da situaçãoexcepcionalíssimapor que passa atualmente o País - pandemia do coronavírus (Covid-19) - (fl. 4) -, não diviso, ao menos por ora, nesta fase de cognição sumária e perfunctória, flagrante ilegalidade a ensejar o deferimento da tutela de urgência, cabendo, por prudência e cautela, reservar o exame do thema decidendum ao Colegiado.
+Indefiro, pois, a liminar, determinando ao Desembargador Relator do Tribunal Regional Federal da 1ª Região (ref. Processo n. 0000336-04.2018.4.01.4302), nos termos do art. 316 do Código de Processo Penal, parágrafo único, acrescentado pela Lei n. 13.964/2019, denominada "Pacote Anticrime", conjugado, outrossim, ao disposto na Recomendação n. 62/2020 do CNJ (recomenda aos Tribunais e magistrados a adoção de medidas preventivas à propagação da infecção pelonovo coronavírus - Covid-19 - no âmbito do sistema de justiça penal), que proceda, a cada 90 dias, à revisão sobre a necessidade de manutenção dos fundamentos que ensejaram a constrição cautelar do paciente, devendo, em caso de insubsistência dos argumentos, revogá-la.
+Solicitem-se informações à autoridade tida coatora sobre os fatos alegados na inicial, notadamente acerca da previsão de data para julgamento do recurso de apelação interposto em prol deFelipe Barbosa Nunes, bem como o tempo de tramitação desseno âmbito da Corte a quo, no prazo de 20 dias, e, com essas,abra-se vista ao Ministério Público Federal.
+Após, devolvam-se os autos.
+Publique-se.
+Informações prestadas às fls. 95/96 e 99/102.
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal de origem dão conta de que, em 4/8/2020, os integrantes da TerceiraCâmara do Tribunal Regional Federal da 1ª Região, por votação unânime, negaram provimento ao recurso de apelação interposto em prol do ora paciente, mantendo, na íntegra, a sentença recorrida.
+Tal o contexto, nos termos dos arts. 659 do Código de Processo Penal, 38 da Lei n. 8.038/1990, e 34, XI, do RISTJ, julgo prejudicado o presente writ, por perda superveniente de seu objeto.
+Publique-se.
+EMENTA
+PROCESSO PENAL. HABEAS CORPUS. EXCESSO DE PRAZO PARA A APRECIAÇÃO DA APELAÇÃO INTERPOSTA NO TRIBUNAL A QUO. JULGAMENTO DO RECURSO. PERDA DE OBJETO.
+1. Fica sem objeto o habeas corpus impetrado por eventual demora na apreciação de recurso de apelação interposto na Corte a quo, em razão de seu julgamento. Precedentes.
+2. Writ prejudicado.
