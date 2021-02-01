@@ -1,0 +1,33 @@
+D E C I S Ã O
+    Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE LINGUAGEM. INOCORRÊNCIA. DECISÃO DE PRONÚNCIA. MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. DECISÃO MANTIDA. PRECEDENTES. ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS E A DISPOSITIVOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. IMPOSSIBILIDADE. COMPETÊNCIA DO PRETÓRIO STF.
+    I - Esta Corte Superior de Justiça possui entendimento consolidado no sentido de que "o Magistrado, ao pronunciar o réu, apenas se referiu a circunstâncias relativas ao binômio autoria/materialidade que circunstanciavam o evento, não havendo que se falar em excesso de linguagem, pois obedeceu fielmente à legislação de regência, mormente ao comando dos arts. 413 e 414 do Código de Processo Penal." (REsp n. 1.729.033/MG, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 3/3/2020).
+    II - Nos termos do entendimento consolidado no âmbito desta eg. Corte Superior, é incabível a verificação de eventual violação a princípios ou a dispositivos de extração constitucional, em sede de recurso especial ou de seus respectivos recursos, ainda que para fins de prequestionamento, por importar expressa violação a competência constitucional atribuída ao Pretório Supremo Tribunal Federal.
+    Agravo regimental desprovido. ”
+    (AREsp 1.682.539-AgRg/SC, Ministro Felix Fischer)
+    Em suas razões, a parte impetrante, em síntese, sustenta a nulidade da decisão que pronunciou o paciente, pela ocorrência de excesso de linguagem.
+    O Ministério Público Federal, ao opinar pela denegação da ordem, formulou parecer assim ementado:
+    “PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE LINGUAGEM NA SENTENÇA DE PRONÚNCIA. ALEGAÇÃO IMPROCEDENTE. INDICAÇÃO DOS ELEMENTOS DE CONVICÇÃO. FUNDAMENTAÇÃO NECESSÁRIA AO ACOLHIMENTO DA ACUSAÇÃO. AUSÊNCIA DE EXPRESSÕES OU TERMOS INADEQUADOS. PRECEDENTES DO STF. PARECER PELA DENEGAÇÃO DA ORDEM.”
+    É o relatório. Decido.
+    Conforme previsto no art. 413, § 1º, do CPP, o juiz ao pronunciar o acusado deverá “limitar-se-á à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo o juiz declarar o dispositivo legal em que julgar incurso o acusado e especificar as circunstâncias qualificadoras e as causas de aumento de pena.”(com meus grifos).
+    Assim, ao determinar a pronúncia, o magistrado não poderá manifestar qualquer juízo de certeza acerca da autoria, sob pena de indevida substituição ao juízo natural da causa que, nos casos submetidos ao Júri, é o Conselho de Sentença.
+    Outro não é o entendimento da doutrina, valendo destacar fragmento dos ensinamentos de Aury Lopes Jr. na obra “Direito processual penal” – 16. ed. – São Paulo: Saraiva, 2019:
+    “Mais do que em qualquer outra decisão, a linguagem empregada pelo juiz na pronúncia reveste-se da maior importância. Deve ela ser sóbria, comedida, sem excessos de adjetivação, sob pena de nulidade do ato decisório. Nesse sentido, entre outras decisões, citamos o HC 85.260/RJ, Relator Min. SEPÚLVEDA PERTENCE, julgado em 15/02/2005.
+    (...)
+    Com isso, pretende-se, essencialmente, evitar os excessos do juiz na pronúncia e, principalmente, o uso abusivo dessa decisão, no plenário, por parte do acusador. Essa prática, tão disseminada até então, gerava gravíssimos prejuízos para a defesa, pois a decisão de pronúncia e, principalmente, o acórdão confirmatório dela, eram utilizados pelos acusadores como “argumento de autoridade”, induzindo os jurados a afirmarem a autoria e a materialidade e, por consequência, condenarem o réu.”(com meus grifos).
+    Fixadas tais premissas, observo que, no caso em exame, o magistrado não utilizou excesso de linguagem na decisão que pronunciou o ora paciente, como bem ressaltou o Superior Tribunal de Justiça:
+    “O MM. Juízo de primeiro grau, ao prolatar a decisão de pronúncia, no que importa ao caso, assim se manifestou:
+    (...)
+    Materialidade
+    Acerca da materialidade concernente aos crimes dolosos contra a vida imputados aos acusados na denúncia, restou devidamente evidenciada pelo Relatório Policial de p. 68-91, Auto Circunstanciado de p. 283, Laudos Papiloscópicos de p. 64- 67, 438-450 e 1188-1196, Termos de Apreensão de p. 466, 527-528, 735, Laudo Pericial de p. 1097, Laudo de Local de Crime de p. 2118-2159 e Laudos Periciais Cadavéricos de p. 388-398, 399-409, 410-420, 421-428 e 429-436, todos atestando as causas das mortes das vitimas Katya Gaspar Lemos, Leandro Gaspar Lemos, Paulo Gaspar Lemos Júnior, Paulo Gaspar Lemos e Ricardo Lora, como sendo asfixia, produzida por energia de ordem físico- química.
+    Autoria
+    Tocante à autoria, os indícios são suficientes para o juízo de admissibilidade da denúncia em relação aos denunciados Francisco José da Silva Neto, Michelangelo Alves Lopes e Ivan Gregory Barbosa de Oliveira." (fls. 2.300-2.321, grifei).”
+    (...)
+    Não há, no caso dos autos, que se falar em excesso de linguagem, porquanto em nenhum momento foi emitido juízo de valor acerca da conduta apurada nos autos. Ao contrário, da análise dos excertos acima colacionados, verifico que o eg. Tribunal de origem declinou, de forma explícita, o motivo pelo qual não houve o mencionado excesso de linguagem – ao ponderar que "o Juízo de primeiro grau analisou a materialidade e os indícios de autoria dos supostos delitos de homicídio e conexos, em tese praticado pelos recorrentes, de forma comedida, ou seja, sem adentrar no mérito, conforme os ditames do art. 413, § 1°, do CPP" (fl. 2.695).” (com meus grifos)
+    Esse mesmo entendimento tem sido observado pelo Supremo Tribunal Federal em casos fronteiriços (HC 154.314-AgR/SC, Ministro Celso de Mello; HC 182.281-AgR/PR, Ministro Roberto Barroso; RHC 121.221-AgR/PE, Ministro Luiz Fux, HC 178.173/SP, Ministro Marco Aurélio):
+    “II - A decisão ora atacada está em perfeita consonância com a jurisprudência desta Corte, sedimentada no sentido de que não se mostra ilegal, nem excessiva, a sentença de pronúncia que se limita a expor, fundamentadamente, os motivos do convencimento do juiz sobre a materialidade e a autoria, conforme dispõe o art. 413 do Código de Processo Penal.”
+    (HC 168.426-AgR/MA, Ministro Ricardo Lewandowski – com meus grifos)
+    Em face do exposto, indefiro o pedido de habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 1º de fevereiro de 2021.
+Ministro NUNES MARQUES
