@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 27):
+HABEAS CORPUSPREVENTIVO - PEDIDO PARA AFASTAR EVENTUAL VIOLAÇÃO AO STATUS LIBERTATIS POR AUSÊNCIA DE VAGAS EM ESTABELECIMENTO PRISIONAL ADEQUADO AO REGIME SEMIABERTO - CONSTRANGIMENTO ILEGAL INEXISTENTE; 2) PRETENSÃO À CONCESSÃO DE PRISÃO DOMICILIAR - INVIABILIDADE - AUSÊNCIA DOS PRESSUPOSTOS LEGAIS. ORDEM DENEGADA.
+O paciente foi condenado à pena de 3 anos de reclusão, em regime semiaberto, por ofensa ao art. 16, parágrafo único, IV, da Lei 10.826/2003.
+Pugna o impetrante, liminarmente e no mérito, pela concessão de custódia domiciliar diante do risco de contaminação pela Covid-19 no interior do presídio.
+É o relatório.
+DECIDO.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+No entanto, não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A crise mundial da Covid-19 trouxe já uma realidade diferenciada de preocupação com a saúde em nosso país e faz ver como ainda de maior risco o aprisionamento - a concentração excessiva, a dificuldade de higiene e as deficiências de alimentação naturais ao sistemas prisional, acarretam seu enquadramento como pessoas em condição de risco.
+Nesse momento, configurado o gravíssimo risco à saúde, o balanceamento dos riscos sociais frente ao cidadão merece diferenciada compreensão. Apenas crimes com violência, praticados por agentes reincidentes ou claramente incapazes de permitir o regular desenvolvimento do processo, poderão justificar o aprisionamento. Crimes eventuais e sem violência, mesmo com justificada motivação legal, não permitem a geração do grave risco à saúde pela prisão.
+Acerca da Recomendação 62/2020 do CNJ, confira-se oart. 5º:
+ .. Art. 5º Recomendar aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+I - concessão de saída antecipada dos regimes fechado e semiaberto, nos termos das diretrizes fixadas pela Súmula Vinculante no 56 do Supremo Tribunal Federal, sobretudo em relação às:
+a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até 12 anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência e demais pessoas presas que se enquadrem no grupo de risco;
+b) pessoas presas em estabelecimentos penais com ocupação superior à capacidade, que não disponham de equipe de saúde lotada no estabelecimento, sob ordem de interdição, com medidas cautelares determinadas por órgão de sistema de jurisdição internacional, ou que disponham de instalações que favoreçam a propagação do novo coronavírus;
+II - alinhamento do cronograma de saídas temporárias ao plano de contingência previsto no artigo 9º da presente Recomendação, avaliando eventual necessidade de prorrogação do prazo de retorno ou adiamento do benefício, assegurado, no último caso, o reagendamento da saída temporária após o término do período de restrição sanitária;
+III - concessão de prisão domiciliar em relação a todos as pessoas presas em cumprimento de pena em regime aberto e semiaberto, mediante condições a serem definidas pelo Juiz da execução;
+IV - colocação em prisão domiciliar de pessoa presa com diagnóstico suspeito ou confirmado de Covid-19, mediante relatório da equipe de saúde, na ausência de espaço de isolamento adequado no estabelecimento penal; ..
+Sobre o tema, assim se manifestou o Tribunal local (fls. 29-30 - com destaques):
+ .. Por outro lado, anote-se que a situação de pandemia causada pela Covid 19 não autoriza, por si só, a concessão automática da prisão domiciliar a todos aqueles que se encontram presos que até mesmo não é o caso do paciente, que está foragido.
+As normativas editadas a respeito não possuem caráter vinculante, bem como a situação carcerária do país ou o fato de o paciente supostamente se enquadrar em um grupo de risco não são suficientes para a concessão do benefício, já que a existência de perigo de contaminação é muito menor na prisão do que na sociedade diante da limitação de convívio social.
+A Defesa não apresentou qualquer comprovação de que o paciente se enquadra no grupo de vulneráveis do Covid-19, tampouco a impossibilidade de receber eventual tratamento no estabelecimento prisional.
+Importante mencionar que a mera expectativa de risco de contágio não se enquadra na Resolução 62 do CNJ, sendo certo que o sistema prisional conta com meios para prevenção da enfermidade.
+Conforme bem observado pelo Parquet nos autos do habeas corpus nº 0013574-95.2020.8.26.0000, a sociedade já está em risco na área da saúde pública em razão da pandemia. Mostra-se desarrazoado e até teratológico que seja exposta a risco ainda maior (de segurança pública), com a soltura de pessoas encarceradas justamente porque representam risco à ordem pública. Ora, seria verdadeiro contrassenso que diante do risco à ordem pública causado pela pandemia, a solução das autoridades seja justamente liberar pessoas que causam risco ao convívio social, duplicando o risco da sociedade em geral.
+Por estas razões, diante da ausência de justificativa concreta do perigo iminente de contaminação em situação bem diferente daquela imposta ao cidadão comum, ou, ainda, de comprovação que o paciente não teria eventual atendimento na unidade prisional em que se encontra, não há como se conceder qualquer benefício nesta estreita via do habeas corpus. ..
+Como se vê, não ficou comprovado pelo paciente, nascido em 13/9/1995 (fl. 12), a comorbidade que possui e que o poria em risco elevado dentro do presídio, ressaltando-se, ainda, como informado pelo próprio impetrante, que o mandado de prisão sequer foi cumprido, inviabilizando-se a análise da pretensão trazida nestavia, de rito célere e sumário, em virtude deseu viés probatório, insuscetível de ser aqui revisto.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
