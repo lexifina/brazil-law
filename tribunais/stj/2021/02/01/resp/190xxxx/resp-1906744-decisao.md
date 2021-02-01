@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ENGECO PROJETOS E CONSTRUCOES LTDA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITABRUTA EM SUBSTITUIÇÃO À FOLHA DE SALÁRIOS. EC 42/03 E LEIN. 12.546/11. BASE DE CÁLCULO.
+O contribuinte não tem o direito de excluir o ISS e o PIS/COFINS da base de cálculo da contribuição previdenciária sobre a receita bruta -CPRB instituída pela Lei nº 12.546, de 2011" (fl. 250e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 261/264e), os quais restaram rejeitados (fls. 272/274e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aos arts. 7º, 8º, e 9º, § 7º, da Lei12.546/2011, e 110 do CTN,sustentando, em síntese, a "exclusão do ISS, PIS e COFINS da base de cálculo da base de cálculo da contribuição substitutiva sobre a receita bruta - CPRB". Afirma, em conclusão, "que o alcance do termo "receita bruta" disposto nos artigos 7º e 8º da Lei nº 12.546/11, com as limitadas exclusões da base de cálculo autorizadas pelo art. 9º, § 7º, é ilegal pelas seguintes razões: - Por atribuir à nova contribuição previdenciária base de cálculo mais abrangente do que aquela autorizada pelo art. 195, I, aliena "b"do texto constitucional, em clara ofensa ao permissivo constitucional que será objeto de Recurso Extraordinário, mas violando também de forma direta ao art. 9, I e 97 do Código Tributário Nacional; - Porque a interpretação conferida pela Administração à abrangência do termo "receita" ou "receita bruta" é contraditória, confronta com as regras gerais contábeis e altera a significação do instituto em seu benefício, em clara afronta ao art. 110 do CTN" (fl. 302e).
+Por fim, requer, o provimento do recurso para "reformar ov. acórdão vergastado, para o fim de excluir da base de cálculo da Contribuição Previdenciária instituída pela Lei nº12.546/11, o ISS, o PIS, a COFINS, por configurarem receita dos entes tributantes" (fl. 303e).
+Contrarrazões a fls. 344/352e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 355/356e).
+A irresignação não merece conhecimento.
+Verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Com efeito, "segundo orientação do STJ, a discussão referente ao conceito de faturamento e receita bruta, notadamente no que se refere à definição da base de cálculo, implica análise de matéria constitucional, o que é vedado no Superior Tribunalde Justiça, sob pena de usurpação da competência do Supremo Tribunal Federal" (STJ, AgInt no REsp 1.592.093/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDATURMA, DJe de 17/10/2016).
+No mesmo sentido:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. PIS E COFINS SOBRE SUAS PRÓPRIAS BASES DE CÁLCULO. CONCEITO DEFATURAMENTO E RECEITA BRUTA. MATÉRIA DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL.
+1. Esta Corte já reconheceu que a discussão quanto ao conceito de faturamento e receita bruta no que se refere à definição debase cálculo implica análise de matéria constitucional, o que é vedado ao STJ, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes.
+2. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.825.532/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 12/12/2019).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
