@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+AÇÃO RESCISÓRIA. VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. ART. 1"-F DA LEI Nº 9.494/97, COM A REDAÇÃO DADA PELO ART. 5" DA LEI Nº 11.960/09. SISTEMÁTICA DE ATUALIZAÇÃO DO PASSIVO. TEMA Nº 810 DO STF.SÚMULA N" 343 DO STF.
+1. O Plenário do Supremo Tribunal Federal, no julgamento do RE nº 590.809, assentou que a superveniente alteração de sua jurisprudência não autoriza, por si só, a rescisão de decisão proferida à luz de entendimento daquele Tribunal Superior que à época de sua prolação era firme. Precedente da Corte Especial deste Tribunal.
+2. À época em que proferida a decisão rescindenda não era firme a jurisprudência do Supremo Tribunal Federal acerca da inconstitucionalidade do art. 1"-F da Lei n" 9.494/97, com a redação que lhe foi dada pela Lei nº 11.960/09, o que somente veio a ocorrer após o julgamento do Tema n" 810, em 20-09-2017. Assim, inaplicável a Súmula n" 343 do STF.
+3. Acórdão parcialmente rescindido, no tocante ao índice de correção monetária aplicável, para adequar o julgado ao que decidido no Tema riº 810 do STF.
+A parte recorrente alega:
+Por todo o exposto, urna vez demonstrada contrariedade á legislação federal  artigo 966, inciso V, CPC (art. 485, inciso V, CPC/73)  c julgamento de maneira divergente entre tribunais (TRF4 e STJ), o INSS requer seja o recurso conhecido e provido, a fim de que seja reformado o acórdão recorrido para julgar improcedente a ação rescisório.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.12.2020.
+Cuida-se, na origem, de Ação Rescisória na qual arecorridabusca a desconstituição de julgado que entendeu ser aplicávelo disposto no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, ao índice de correção monetária.
+Inicialmente, esclareço que a violação a lei, para justificar a procedência da demanda rescisória nos termos do art. 966, V, do CPC/2015, deve ser de tal modo evidente que afronte o dispositivo legal em sua literalidade. Caso o acórdão rescindendo opte por uma entre várias interpretações possíveis, ainda que não seja a melhor, a demanda não merecerá êxito, conforme entendimento consolidado no verbete da Súmula343 do STF.
+Da mesma forma, não se configura a hipótese específica do art. 485, V, do CPC/1973 (966, V, do atual CPC/2015) quando o tema não for objeto de jurisprudência pacífica nos tribunais.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ORIENTAÇÃO JURISPRUDENCIAL CONTROVERTIDA À ÉPOCA EM QUE PROFERIDO O JULGADO RESCINDENDO. INCIDÊNCIA DO ÓBICE DA SÚMULA 343/STF.
+1. O acórdão recorrido está em conformidade com a orientação jurisprudencial do Superior Tribunal de Justiça de que a ação rescisória interposta com base em violação à disposição literal de lei somente se justifica quando a ofensa se mostre cristalina, consubstanciada no desprezo do sistema jurídico, não sendo adequado a situações de interpretação controvertida, como na hipótese.
+2. A mudança de orientação jurisprudencial por si só não é suficiente para a desconstituição da coisa julgada. O tema é alcançado pela Súmula 343 do STF: "Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto de interpretação controvertida nos tribunais." 3. O Supremo Tribunal Federal, no julgamento do RE 590.809/RS, DJe 9/6/2011, sob a relatoria do Ministro MARCO AURÉLIO MELLO e sob o regime de repercussão geral, pacificou o entendimento de que deve ser aplicada a Súmula 343/STF mesmo quando a controvérsia de interpretação jurídica se basear na aplicação de norma constitucional.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1163874/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 28/10/2016).
+Na hipótese em exame, o Tribunal a quo, ao analisar a controvérsia, consignou:
+A partir do julgamento, pelo Supremo Tribunal Federal, das ADIs 4.357 e 4.425, que declarou inconstitucional o art. 1º-F da Lei n.º 9.494, com a redação dada pelo art. 5º da Lei nº 11.960, de 29/07/2009, afastando a TR na fixação dos juros dos débitos tributários, passou a 3ª Seção desta Corte a aplicar o índice de correção monetária previsto antes da alteração legislativa (INPC, para os débitos previdenciários).
+Da mesma forma, o Superior Tribunal de Justiça, em sede de recurso repetitivo (art. 543- C do CPC/1973), entendia que "em virtude da declaração de inconstitucionalidade parcial do art. 5º da Lei 11.960/09: (a) a correção monetária das dívidas fazendárias deve observar índices que reflitam a inflação acumulada do período, a ela não se aplicando os índices de remuneração básica da caderneta de poupança; e (b) os juros moratórios serão equivalentes aos índices oficiais de remuneração básica e juros aplicáveis à caderneta de poupança, exceto quando a dívida ostentar natureza tributária, para as quais prevalecerão as regras específicas" (REsp 1270439/PR, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 26/06/2013, DJe 02/08/2013).
+Somente com o julgamento, pelo STF, do RE 870.947/SE é que houve a pacificação sobre a aplicabilidade da incidência de correção monetária e juros de mora instituídos pela Lei 11.960/2009, sendo a decisão rescindenda anterior à admissão da repercussão geral sobre o tema.
+Assim, o julgado rescindendo foi proferido na linha do entendimento à época predominante ou, ao menos, controvertido, o que torna a Ação Rescisória incabível, na forma da súmula 343 do Supremo Tribunal Federal.
+Diante do exposto, dou provimento ao Recurso Especial para julgar improcedente a ação, com a inversão dos ônus sucumbenciais, devendo ser observada eventual concessão do benefício da justiça gratuita na origem.
+Publique-se.
+Intimem-se.
