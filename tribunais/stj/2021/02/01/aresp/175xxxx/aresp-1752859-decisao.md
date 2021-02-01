@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+SISTEMA FINANCEIRO DA HABITAÇÃO. COBERTURA SECURITÁRIA. ALAGAMENTO. INTERDIÇÃO PELA DEFESA CIVIL. DANOS MORAIS. PRESCRIÇÃO.
+1. É trienal a prescrição relativa à pretensão de obter cobertura de seguro feito por imposição legal, em que os mutuários são beneficiários da estipulação, e a CEF é a segurada quanto ao crédito que financiou (art. 206, § 3º, IX, do Código Civil). O fluxo do prazo é paralisado quando há requerimento de cobertura até a ciência da negativa pela companhia seguradora (Súmula 229 do STJ).
+2. Interditado o imóvel pela Defesa Civil, que constatou os riscos para os moradores e os danos decorrentes de alagamento por chuvas, fica afastada a alegação da seguradora, de não haver hipótese de cobertura. O ônus da prova de eventual excludente de cobertura, em razão de alegados vícios de construção de imóvel, incumbia às Rés (art. 373, II, do CPC), que nada requereram neste sentido.
+3. Incabível a compensação por danos morais, pois não houve qualquer causa de pedir autônoma sobre o tema, na petição inicial, e não se deve julgar que a mera negativa de cobertura, por si, gere a reparação moral. Sentença reformada, neste ponto. Apelação parcialmente provida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, alega a ora agravante violação dos artigos 1.022 do Código de Processo Civil de 1973 e 206, § 1º, II, "b", do Código Civil, além de divergência jurisprudencial.
+Merece reforma a decisão agravada.
+Com efeito, consignou o Tribunal de origem (fl. 436/e-STJ):
+Esta ação foi proposta em outubro de 2011, e vê-se que não houve prescrição.
+Ao contrário do alegado pela seguradora, a prescrição é trienal, nos termos do art. 206, § 3º, IX, do Código Civil, pois a hipótese é de seguro por imposição legal, em que os mutuários são beneficiários da estipulação, e a CEF é segurada quanto ao crédito que financiou.
+Diante do alegado sinistro ocorrido em janeiro de 2007, a cobertura foi negada em dezembro de 2008, e é apenas a partir daí que flui o prazo prescricional, novamente suspenso, aliás, por novo pedido de cobertura.
+Esta ação foi proposta em outubro de 2011, e basta mencionar o enunciado 229 da súmula do STJ.
+Ocorre que, no direito brasileiro, não há mais dúvida acerca de ser anual o prazo de prescrição para o ajuizamento de ação de mutuário contra a seguradora, no caso de seguro vinculado a contrato de mútuo habitacional, celebrado no âmbito do Sistema Financeiro da Habitação. Nesse sentido, confiram-se, entre muitos outros:
+RECURSO ESPECIAL. SEGURO HABITACIONAL. SISTEMA FINANCEIRO DA HABITAÇÃO. SFH. PRESCRIÇÃO ANUAL. ART. 178, § 6º DO CÓDIGO CIVIL DE 1916. INAPLICABILIDADE DO ART. 27 DO CDC.
+1. Aplica-se o prazo de prescrição anual do art. 178, § 6º, II do Código Civil de 1916 às ações do segurado/mutuário contra a seguradora, buscando a cobertura de sinistro relacionado a contrato de mútuo habitacional celebrado no âmbito do Sistema Financeiro da Habitação.
+2. Não incidência da regra do art. 27 do CDC, porquanto restrito às hipóteses de fato do produto ou do serviço. Ressalva de fundamentação de voto vogal no sentido de que tal dispositivo se aplicaria quando buscada cobertura securitária por vício de construção, do que não se cogita no caso em exame.
+3. Hipótese em que a ação foi ajuizada quando decorrido mais de um ano da negativa de cobertura por sinistro de invalidez.
+4. Recurso especial provido.
+(REsp 871.983/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 25/04/2012, DJe 21/05/2012)
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA POR VÍCIOS CONSTRUTIVOS - SEGURO HABITACIONAL - PRAZO PRESCRICIONAL ÂNUO - PRECEDENTES DO STJ. INCONFORMISMO DA SEGURADA.
+1. Acórdãos oriundos da mesma turma que apreciou o julgado embargado não são aptos a demonstrarem o dissídio jurisprudencial que enseja a admissão dos embargos de divergência.
+2. Aplica-se às ações ajuizadas por segurado/beneficiário em desfavor de seguradora, visando à cobertura de sinistro referente a contrato de mútuo celebrado no âmbito do Sistema Financeiro da Habitação - SFH, o prazo prescricional anual, nos termos do art. 178, § 6º, II, do Código Civil de 1916.
+3. Embargos de divergência parcialmente conhecidos e, nessa parte, desprovidos.
+(EREsp 1272518/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 24/06/2015, DJe 30/06/2015)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. INVALIDEZ PERMANENTE DE MUTUÁRIO. COBERTURA. PRESCRIÇÃO ÂNUA. PRECEDENTES. TERMO INICIAL DO PRAZO. DATA EM QUE O SEGURADO TEVE CIÊNCIA INEQUÍVOCA DO CARÁTER PERMANENTE DA INVALIDEZ. SUSPENSÃO ENTRE A COMUNICAÇÃO DO SINISTRO E A DATA DA RECUSA DO PAGAMENTO DA INDENIZAÇÃO. SÚMULAS N. 229 E 278 DO STJ. PRETENSÃO PRESCRITA. REFORMA DO ACÓRDÃO RECORRIDO E DA SENTENÇA. IMPROCEDÊNCIA DA DEMANDA. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. INTERPOSIÇÃO DO RECURSO ESPECIAL COM AMPARO NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. TESE RECURSAL QUE MERECE ACOLHIMENTO APENAS EM RELAÇÃO À ALÍNEA A. PRESCINDIBILIDADE DE DEMONSTRAÇÃO DO DISSÍDIO PRETORIANO. AGRAVO DESPROVIDO.
+1. A jurisprudência do STJ é pacífica no sentido de que o mutuário do Sistema Financeiro da Habitação tem o prazo de apenas 1 (um) ano para cobrar a indenização securitária em caso de sinistro coberto pelo seguro obrigatório contratado.
+2. Nos termos das Súmulas n. 229 e 278 desta Corte, o cômputo do prazo ânuo começa a correr da data em que o segurado teve ciência inequívoca da incapacidade laboral, permanecendo suspenso entre a comunicação do sinistro e a data da recusa do pagamento da indenização.
+3. Na hipótese, a aposentadoria do segurado por invalidez ocorreu em 23/2/2012 e o pedido administrativo de indenização securitária foi realizado em fevereiro de 2013, ou seja, transcorrendo aproximadamente um ano. O aludido pleito foi negado em 11/4/2013 e a presente demanda foi ajuizada em 10/6/2015, somando-se mais de dois anos ao lapso anterior. Assim, considerando o transcurso de pouco mais de 3 (três) anos entre a data da ciência inequívoca da invalidez do segurado e o ajuizamento da presente demanda, é mister reconhecer o advento da prescrição.
+(..)
+(AgInt no AREsp 1423604/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2019, DJe 21/11/2019)
+Da mesma forma, esta Corte superior sumulou o entendimento de que "O pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão" (Súmula 229).
+No caso, conforme se depreende do acórdão recorrido, a negativa de cobertura ocorreu em dezembro de 2008 e a ação foi proposta apenas em outubro de 2011, ou seja, mais de um ano após a ciência da decisão administrativa que recusara a cobertura, depois de esgotado o prazo de prescrição.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, para considerar prescrita a presente pretensão, ficando prejudicada a análise de violação do artigo 1.022 do CPC. Custas processuais e honorários de advogado, fixado em R$ 700,00 (setecentos reais), pela parte agravada, respeitando, caso necessário, o disposto na Lei nº 1.060/50.
+Intimem-se.
