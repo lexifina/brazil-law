@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim relatado(fls.14-16):
+A d. DEFENSORIA PÚBLICA DO ESTADO DE SÃO PAULO, através da digna Defensora Pública, doutora MARIANA ZAKIA CAVALCANTI, impetra habeas corpus em favor de UBIRATAN GUIMARÃES DOS SANTOS, afirmando que ele estaria sofrendo constrangimento ilegal por ato do MM. Juízo de Direito da 1ª Vara Criminal da Comarca de Campinas que, nos autos de Processo nº 1501283-91.2020.8.26.0548, instaurado por infração ao art. 33, caput, da Lei nº 11.343/06, condenou-o à pena de 04 anos e 02 meses de reclusão, e 416 dias-multa, impondo o regime prisional mais rigoroso, embasando-se, para tanto, na gravidade abstrata do delito e na quantidade de pena aplicada.
+Sustenta, a Impetrante, que ".. o Paciente faz jus a regime prisional inicial menos gravoso, qual seja, o semiaberto. Isso porque, além de primário, o crime em questão foi cometido sem violência ou grave ameaça a pessoa, e o "quantum" da pena, fixada em 04 anos e 02 meses de reclusão, permite a imposição de regime menos gravoso ..".
+Acrescenta, ainda, que, ".. o estabelecimento do regime prisional em função exclusivamente da gravidade abstrata do delito implica em infringência ao princípio constitucional da individualização da pena ..".
+Defende que ".. no caso da Lei de Drogas, as circunstâncias do artigo 42 (natureza, quantidade da substância ou do produto, personalidade e conduta social do agente) prevalecem sobre as do artigo 59, do Código Penal, para a aplicação da pena-base. E mesmo assim devem ser todas consideradas favoráveis ao paciente ..".
+Alega que ".. a autoridade coatora vedou o apelo em liberdade e deixou de aplicar a detração, prevista no artigo 387, § 2º, do Código de Processo Penal. No caso em apreço, o paciente encontra-se em prisão cautelar desde 12/05/2020 ..".
+Em suma, pleiteia, em liminar e no mérito, a concessão da ordem em favor do Paciente para que seja concedido o regime inicial semiaberto para cumprimento da pena, expedindo-se Alvará de Soltura (fls. 01/10).
+A liminar foi indeferida (fls. 59/61).
+Diante da peculiaridade dos dias atuais, foi dispensada a vinda de Informações.
+A d. Procuradoria Geral de Justiça ofertou Parecer no sentido de não conhecimento da ordem (fls. 69/71).
+Constato que foi impetrado em favor do Paciente o HC nº 2099822-30.2020.8.26.0000, no qual foi julgado em Sessão permanente e virtual de 10.06.2020, sendo que esta Colenda TERCEIRA CÂMARA DE DIREITO CRIMINAL denegou a ordem, Voto nº 14.820, da Relatoria doDD. Desembargador ANDRADE DE CASTRO, à época, Juiz Substituto de Segundo Grau.
+Decorrido o prazo para as partes se manifestarem acerca de eventual oposição ao julgamento virtual, nos termos do art. 1º, da Resolução nº 549/2011, com redação estabelecida pela Resolução nº 772/2017, ambas do Colendo Órgão Especial deste Egrégio Tribunal de Justiça do Estado de São Paulo, não houve oposição a esta forma de julgamento.
+É o relatório.
+O paciente foi condenado às penas de 4anos e 2 meses de reclusão e à pena pecuniária consistente no pagamento de 416 dias-multa, por ter infringido o disposto no artigo 33, "caput", da Lei nº 11.343/06.
+Impetrado habeas corpus, a ação constitucional não foi conhecida, e interposta apelação, o recurso encontra-se pendente de julgamento.
+Sustenta a impetrante ausência de fundamentação para a imposição do regime prisional fechado, razão pela qual requer a concessão da ordem, liminarmente, para fixar o regime semiaberto ao paciente.
+É o relatório.
+DECIDO.
+As alegações relativas à fixação do regime prisional não foram debatidas pelo Tribunal de origem, conforme cópia do acórdão de fls. 13-17.
+Constata-se, ainda,que a condenação é objeto de Apelação que pende de julgamento, não podendo a impetração ser conhecida por estaCorte Superior, sob pena de indevida supressão de instância. Nesse sentido, entende estaCorte Superiorque,não tendo sido analisado o mérito dowritde origem, em razão da pendência de julgamento do recurso competente (apelação),torna-se inviável a apreciação da matéria, diretamente por esta Corte Superior, sob pena de supressão de instâncias.Em sentido análogo:
+PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. ROUBO. REGIME PRISIONAL. WRIT NÃO CONHECIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO DE APELAÇÃO PENDENTE. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Tendo sido proposto simultaneamente habeas corpus e recurso de apelação em face da mesma sentença, não há falar em constrangimento ilegal praticado pelo Tribunal de origem que não conhece do writ.
+2. Não havendo, ainda, pronunciamento do Tribunal a quo sobre o regime prisional, não é da competência desta Corte Superior conhecer da impetração, sob pena de incorrer em supressão de instância.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento. (PET no HC 528.210/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/10/2019, DJe 29/10/2019).
+RECURSO EM HABEAS CORPUS. ROUBO. NEGATIVA DO RECURSO EM LIBERDADE. PRISÃO PREVENTIVA DECRETADA NA SENTENÇA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. REITERAÇÃO DELITIVA. REGIME INICIAL. SUPRESSÃO DE INSTÂNCIA. APELAÇÃO PENDENTE. RECURSO NÃO PROVIDO.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. O Juiz, conforme o art. 387, § 2º, do CPP, decretou a prisão preventiva na sentença para garantir a ordem pública, ante a periculosidade do paciente, que, no curso do processo em questão, foi novamente preso em flagrante pela prática do mesmo delito.
+3. A matéria relativa ao regime inicial não foi efetivamente analisada pelo Tribunal de Justiça estadual, o que não autoriza a inauguração, neste ponto, da competência do Superior Tribunal de Justiça. Não pode esta Corte, portanto, conhecer diretamente do ponto, sob pena de inadmissível supressão de instância. Ademais, consta apelação pendente de julgamento, oportunidade em que o tema será mais bem debatido, em razão da sua amplitude.
+4. Recurso não provido. (RHC 106.861/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/02/2019, DJe 12/03/2019)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
