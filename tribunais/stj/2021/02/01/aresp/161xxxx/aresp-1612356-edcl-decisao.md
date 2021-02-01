@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESTADO DO MATO GROSSO DO SUL contra decisão por mim proferida, em que conhecido agravo para conhecer do recurso especial doparticular e dar-lhe provimento, cassando o acórdão e determinando novo julgamento.
+A parte embargantealega, em síntese, que há omissão da decisão quanto às preliminares levantadas em suas contrarrazões de recurso especial, especialmente acerca dos óbices das súmulas 7 e 83 do STJ, 282, 284 e 291 do STF.
+Impugnação apresentada.
+É o relatório.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observonãohaver vício de integração a ser sanado.
+De início, é inaplicável o óbice da Súmula 7 do STJ, uma vez que, para se apreciar as questões suscitadas no recurso especial,não há necessidade de revolvimento de questões fáticas ou probatórias.
+Com efeito, questionava-se a possibilidade de se presumir a dissolução irregular da sociedade a partir da informação de mudança doendereço conhecidode sua filial, bem como a possibilidade de aplicação do entendimento firmado na Súmula 435 do STJ com base apenas na tentativa frustrada de citação pelos correios.
+Estes temas não contradizem o contexto fático descrito pelas instâncias ordinárias em suas manifestações anteriores e tratam apenas de questão de direito que podem ser dirimidas com base nos argumentos trazidos pelas partes e na jurisprudência consolidada nesta Corte Superior.
+Segundo, o agravo impugnou corretamente a alegação de existência de óbice da Súmula 83 do STJ ao afirmar que a jurisprudência consolidada nesta Corte em sede de repetitivo não escudava a conclusão adotada pelo Tribunala quo, especificamente quanto à questão da unidade patrimonial da sociedade.
+Ademais, os precedentes trazidos pela Cortea quopara afastar o conhecimento do recurso não tinha relação com o tema, tratando de questões outras relativa à presunção de dissolução da empresa se ela deixar de funcionar no endereço conhecido.
+Vê-se, ainda, que os precedentes colacionados na decisão agravada também não versavam acerca do segundo tema em discussão: se a mera tentativa frustrada de citação pelos correios seria suficiente para a presunção de dissolução irregular.
+Terceiro,inaplicáveis os óbices das Sumulas 282 e 284 do STF.
+Isso porqueo tema da suficiência da tentativa frustrada de citação pelos correios para a presunção de dissolução irregular da sociedade é central ao acórdão atacado, tendo o Tribunala quoassim se manifestado:
+In casu, foi determinada a citação pelos Correios, tendo a Carta com Aviso de Recebimento retornado sem cumprimento com a justificativa "Mudou-se" (f. 23).
+Dentro desta perspectiva, infere-se que houve mudança do domicíliofiscal da empresa sem que tal fato fosse informado para a Administração Fazendária, sendo presumida sua dissolução irregular.
+Insta anotar que no caso o não cumprimento da carta citatória ocorreu em razão de mudança de endereço e não em razão de ausência de intimação de pessoa com poderes para tal ato. Assim, é de se ver que a própria justificativa constante na A.R já é suficiente para respaldar o reconhecimento da dissolução irregular em razão de mudança de endereço, não havendo que se falar em necessidade de novo ato citatório por meio de Oficial de Justiça ou Edital.
+Dessarte, o tema está prequestionado e o recurso impugna corretamente os fundamentos do acórdão recorrido.
+Por fim, paraa apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional), o recorrente precisa demonstrar o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) do cotejo analítico, com atranscrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, o recorrente promoveucorretamente o cotejo analítico,atendendo, portanto, os pressupostos específicos à configuração do dissenso jurisprudencial.
+Assim, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
