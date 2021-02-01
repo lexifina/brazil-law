@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de pedido de reconsideração da decisão que indeferiu o pedido liminar parasuspender "os efeitos da decisão do Juízo da VEP que declarou cessada a competência e determinou o arquivamento do processo de execução provisória, determinando-se a imediata análise dos pedidos defensivos, (fl. 22) bem como a retificação da guia de execução da pena".
+O requerente afirma que aQUINTA TURMA, na sessão do dia 15/12/2020, ao julgar do RHC n. 131.502/PR, determinou que o Juízo da Vara de Execuções Penais do Rio de Janeiro examine a progressão de regime do paciente, referente à Ação Penal n. 5051606-23.2016.4.04.7000/PR. Sustenta que tal determinação reforça a necessidade de imediata reautuação do PEC do paciente para o devido enfrentamento dos pedidos de concessão dos benefícios da execução, dentre os quais o pedido de progressão de regime (fl. 101).
+É o relatório.
+Decido.
+A QUINTA TURMA, no julgamento do referido RHC n. 131.502/PR,entendeu subsistir a prisão preventiva decretada pelo Juízo da 13ª Vara Federal de Curitiba, na Ação Penal n. 5051606-23.2016.4.04.7000/PR, ressaltando que a concessão da prisão domiciliar não significa que o órgão emissor da prisão preventiva já não vislumbre perigo aos bens jurídicos tutelados pela segregação cautelar, mas apenas que, no caso, sua proteção deve ser relativamente sacrificada com o fim de resguardar um bem maior.Ao final, determinouao Juízo de Direito da Vara de Execuções Penais do Rio de Janeiro que examine, nos autos do Processo de Execução Penal Provisória n. 0141978-93.2019.8.19.0001, se o recorrente cumpriu os requisitos objetivos e subjetivos para a progressão de regime prisional.
+Dessa forma,verifico a perda de objeto do presente habeas corpus, no qual a defesa alega justamente que ainda remanesce a prisão preventiva do paciente e, em consequência, a competência do Juízo da Vara de Execuções do Rio de Janeiro para apreciar os benefícios da execução.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimações necessárias.
