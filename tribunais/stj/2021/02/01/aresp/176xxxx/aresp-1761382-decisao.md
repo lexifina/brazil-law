@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. INVENTÁRIO. Despacho determinou que somente seria admitida a partilha de bens ou direitos de titularidade do falecido desde que comprovados documentalmente. Irresignação dos agravantes. Não acolhimento. Discussões sobre sonegação de bens e pedido de prestação de contas pela inventariante, os quais transbordam os limites do inventário, demandando ampla dilação probatória. Necessidade de interposição de ação própria. Decisão mantida. RECURSO IMPROVIDO.
+Nas razões de recurso especial, alega a parte agravante violação dos artigos 396, 612, 618, 621, 622, 627, 641, 1022 do Código de Processo Civil de 2015; 544, 1791, 1846, 1992, 1993, 1996, 2002, 2003 do Código Civil.
+Assim posta a questão, observo que o acórdão recorrido se manifestou de forma suficiente e motivada sobre o tema em discussão nos autos. Ademais, não está o órgão julgador obrigado a se pronunciar sobre todos os argumentos apontados pelas partes, a fim de expressar o seu convencimento. No caso em exame, o pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido. Afasto, pois, a alegada violação do artigo 1022 do CPC.
+Quanto ao mais, o recurso não poderáser acolhido sem reexame de prova. Os agravantes afirmam a existência de bens sonegados. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 46):
+De fato, em que pese a irresignação dos recorrentes, não poderia ser acolhida a pretensão de prestação de contas dentro do inventário com o escopo de averiguar a gestão do patrimônio do de cujus pela inventariante.
+Aliás, as questões discutidas nos autos a respeito da sonegação de bens transbordam os limites do inventário, demandando a necessidade de investigação sobre os fatos, os quais deverão ser analisados com ampla cognição e exercício do contraditório em ação própria.
+Portanto, diante da necessidade de interposição de ação autônoma com ampla dilação probatória, impõe-se a manutenção da decisão agravada.
+A sonegação que os agravantes procuram demonstrar deve ser, portanto, discutida nas vias ordinárias. Não há como afastar as conclusões transcritas em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
