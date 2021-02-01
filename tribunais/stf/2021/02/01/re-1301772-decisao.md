@@ -1,0 +1,17 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – SEGUIMENTO – NEGATIVA.
+    1. Eis a síntese do acórdão recorrido:
+    TRIBUTÁRIO. IMUNIDADE RECÍPROCA. ART. 150, VI, “A”, DA CRFB/88. AUTARQUIA CONCESSIONÁRIA DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. NATUREZA DE SERVIÇO PÚBLICO.
+    O Plenário do STF (RE nº 581.947, Rel. Min. Eros Grau, 27/08/2010) reconheceu que a geração e a transmissão de energia elétrica são serviços públicos, autorizando a concessionária a promover “desapropriações e a constituição de servidões de áreas declaradas pelo poder concedente como de utilidade pública”. Outrossim, o STF reconheceu que as prestados de serviço público, como as autarquias concessionárias de distribuição de energia elétrica, fazem jus à imunidade recíproca (art. 150, VI, a, CF/88).
+    Segundo o STF, "A submissão ao regime jurídico das empresas do setor privado, inclusive quanto aos direitos e obrigações tributárias, somente se justifica, como consectário natural do postulado da livre concorrência (CF, art. 170, IV), se e quando as empresas governamentais explorarem atividade econômica em sentido estrito, não se aplicando, por isso mesmo, a disciplina prevista no art. 173, § 1º, da Constituição, às empresas públicas (caso da INFRAERO), às sociedades de economia mista e às suas subsidiárias que se qualifiquem como delegatárias de serviços públicos" (RE 363.412-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe 19.9.2008).
+    Reconhece-se, por consequência, a imunidade do Departamento Municipal de Energia de Ijuí.
+    No extraordinário, a recorrente aponta violados os artigos 21, inciso XII, alínea “b”, 22, inciso IV, 150, inciso VI, alínea “a”, e § 2º, 173 e 175 da Constituição Federal. Discorrendo sobre a competência exclusiva da União para explorar os serviços e instalações de energia elétrica, sustenta a impossibilidade de se reconhecer a imunidade tributária ao Departamento Municipal de Energia Elétrica de Ijuí sob a premissa de que a autarquia representaria extensão do Poder Municipal. Afirma caracterizada o exercício de atividade econômica por parte do DMEE, articulando a cobrança de tarifa em face dos usuários. Alude à distribuição de receitas auferidas, mediante a exploração do serviço, ao respectivo Município.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, procedida, na maioria das vezes, mediante o recurso por excelência a apelação. Atua-se em sede excepcional a partir da moldura fática delineada soberanamente pelo Colegiado de origem, das premissas constantes do acórdão impugnado. A jurisprudência é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula do Supremo:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se, em última análise, o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce revelar o pronunciamento impugnado a interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter a análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    3. Ante o quadro, nego seguimento ao extraordinário.
+    4. Publiquem.
+Brasília, 1º de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
