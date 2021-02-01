@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão, de minha lavra, na qual tornei sem efeito o decisum de e-STJ fls. 312/315e dei provimento ao recurso especial dos pensionistas para restabelecer a sentença que reconheceu indevido o pagamento da pensão em valor inferior ao salário mínimo(e-STJ fls. 329/332).
+Em suas razões, com fundamento no art. 1.022, III, do CPC,a autarquia alega que o julgado embargado incorreu em premissa equivocada, ao considerar que aCorte de origem teria utilizado a prescrição como fundamento para julgar improcedente o pleito dos pensionistas.
+Contudo, segundo defende,o Tribunal a quo"deu provimento à apelação para reconhecer que o INSS demonstrou que a cota que os embargados agora demandam judicialmentesimplesmente não lhes pertenciam, em razão da existência de outros dependentes" (e-STJ fl. 335) (Grifos acrescidos).
+Desse modo, aduz queo valor supostamente devido não estaria relacionado a uma "falta de requerimento administrativo" ou a uma "ocorrência de prescrição" e sim "por ausência de direito ao recebimento desse valor!"(e-STJ fl. 335).
+Impugnação às e-STJ fls. 341/343 e reiterada às e-STJ fls. 345/347 e 349/352.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.In casu, não ocorreu nenhum dos vícios supracitados.
+O alegado erro material invocadopela parte embargante manifestao seu inconformismo com o decisum embargado, desiderato inadmissível em sede de embargos declaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA. HIPÓTESES DO ART. 535 DO CPC. AUSÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração apenas são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido, admitindo-se também esse recurso para se corrigir eventuais erros materiais constantes do pronunciamento jurisdicional.
+2. No caso, está evidenciado o intuito do embargante em rediscutir a matéria já integralmente decidida pelo órgão judicial recorrido, o que não se admite nos estreitos limites do art. 535 do CPC.
+3. Embargos de declaração rejeitados. (EDcl no AgRg nos EAREsp 540.453/RS, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª REGIÃO), Primeira Seção, julgado em 24/02/2016, DJe 04/03/2016).
+De toda sorte, cumpre chamar atenção para o fato de que a decisão ora embargadaadotou a premissa de prescrição de cotas-partes de alguns dependentes, motivo pelo qual houve reconsideração do decisum.
+Ademais, consta dojulgado embargado que o restabelecimento da sentença foi motivado pelo reconhecimentode ser indevido o pagamento da pensão em valor inferior ao permitido por lei, in verbis (e-STJ fl. 330):
+Conforme reconhecido pela sentença de procedência, o INSS somente pagou o retroativo na quantia de metade do salário mínimo aos dois filhos menores de 16 anos. Com efeito, o procedimento da autarquia descumpriu o disposto no § 2º do art. 29 da Lei n. 8.213/1991, segundo o qual o valor do salário de benefício não será inferior ao de um salário mínimo. Essa disposição advém do comando constitucional que estabelece que nenhum benefício substituto do salário de contribuição ou dos rendimentos do segurado será inferior a um salário mínimo (art. 201, § 2º, CF/1988).
+Outrossim, mostra-se indevido o pagamento parcial da pensão aos menores no período entre o falecimento e o requerimento na via administrativa, visto que o art. 75 da Lei n. 8.213/1991 disciplina que o valor da pensão por morte será de cem por cento da aposentadoria que o segurado recebia ou daquela a que teria direito se estivesse aposentado por invalidez na data de seu falecimento. Eventual rateio se dará tão somente quando houver mais de um pensionista, nos moldes descritos no art. 77 da Lei de Benefícios. (Grifos acrescidos).
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
