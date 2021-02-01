@@ -1,0 +1,23 @@
+D E C I S Ã O
+    Trata-se recurso ordinário em habeas corpus interposto contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “’HABEAS CORPUS’ SUBSTITUTIVO DE RECURSO PRÓPRIO. DUPLO HOMICÍDIO QUALIFICADO. PEDIDO DE PRISÃO DOMICILIAR. PACIENTE CONDENADA À 37 ANOS E 4 MESES DE RECLUSÃO QUE AINDA NÃO ATINGIU O LAPSO NECESSÁRIO PARA A PRIMEIRA PROGRESSÃO DE REGIME. IMPOSSIBILIDADE. CONDENAÇÃO DEFINITIVA. PACIENTE NOMEADA CURADORA DO NETO RELATIVAMENTE INCAPAZ. REQUISITOS DO HC N. 143.641/STF NÃO PREENCHIDOS. ‘WRIT’ NÃO CONHECIDO.
+    1. A Suprema Corte, por ocasião do julgamento do HC 143.641/SP, concedeu ‘habeas corpus’ coletivo às mulheres presas preventivamente, gestantes, puérperas ou mães de crianças e de pessoas com deficiência, bem assim às adolescentes sujeitas a medidas socioeducativas em idêntica situação no território nacional, observadas determinadas restrições. Na ocasião, o voto condutor do acórdão, proferido pelo Ministro Ricardo Lewandowski indicou a impossibilidade do benefício para: a) crimes cometidos mediante violência ou grave ameaça, b) delitos perpetrados contra os descendentes ou c) em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas.
+    2. A situação evidenciada nos presentes autos, extrai-se que a paciente está presa em decorrência do início da execução da pena após o trânsito em julgado de condenação por crime praticado mediante violência à pessoa (duplo homicídio qualificado), o que justifica o afastamento da incidência da benesse.
+    3. Ademais, as instâncias ordinárias afirmaram que o neto da paciente, embora apresente transtorno psiquiáticos, ‘teria capacidade, ainda que parcial, para gerir a si próprio, exceto os atos de natureza patrimonial’ não sendo imprescindível os cuidados da avó. Assim, desconstituir tais conclusões demandaria o aprofundado revolvimento fático-probatório, vedado na via estreita do ‘habeas corpus’.
+    4. ‘Habeas Corpus’ não conhecido.”
+    (HC 504.868/SP, Ministro Joel Ilan Paciornik)
+    Em suas razões, a parte recorrente, em síntese, pretende cumprir a pena em regime domiciliar, com fundamento no art. 117, III, da Lei de Execuções Penais.
+    A Procuradoria-Geral da República emitiu parecer pelo não provimento do presente recurso ordinário.
+    Tal o contexto, entendo que esta Suprema Corte consolidou sua jurisprudência em sentido oposto ao que pretende a recorrente.
+    E o fez ao entendimento que a concessão da prisão domiciliar prevista no art. 117 da LEP tem como pressuposto a execução da pena em regime aberto (HC 170.637-AgR/SP, Ministro Roberto Barroso, HC 174.023/RJ, Ministro Marco Aurélio).
+    Não há dúvida, no caso, que a recorrente cumpre pena em regime fechado, o que caracteriza o não preenchimento de requisito essencial à sua pretensão.
+    Melhor sorte não socorre a recorrente no que toca à alegada indispensabilidade de sua presença para os cuidados necessários ao neto.
+    É que, para acolher referida tese, como bem ressaltou o Superior Tribunal de Justiça, seria indispensável o reexame do todo conjunto fático-probatório que levou as instâncias inferiores a concluirem “que o neto da paciente, embora apresente transtorno psiquiáticos, ‘teria capacidade, ainda que parcial, para gerir a si próprio, exceto os atos de natureza patrimonial’ não sendo imprescindível os cuidados da avó”, fato esse inviável para a via estreita do habeas corpus, que não admite dilação probatória, nos termos da jurisprudência de ambas as Turmas desta Suprema Corte: HC 175.924- -AgR/PR, Ministro Gilmar Mendes; HC 182.710-AgR/SP, Ministro Alexandre de Moraes; HC 190.845-AgR/PE, Ministro Ricardo Lewandowski; RHC 143.055-AgR/PR, Ministro Edson Fachin:
+    “’HABEAS CORPUS’ – SITUAÇÃO DE ILIQUIDEZ QUANTO AOS FATOS SUBJACENTES AO PROCESSO PENAL – CONTROVÉRSIA QUE IMPLICA EXAME APROFUNDADO DE FATOS E CONFRONTO ANALÍTICO DE MATÉRIA ESSENCIALMENTE PROBATÓRIA – INVIABILIDADE NA VIA SUMARÍSSIMA DO PROCESSO DE ‘HABEAS CORPUS’ – RECURSO DE AGRAVO IMPROVIDO.
+    – O processo de ‘habeas corpus’, que tem caráter essencialmente documental, não se mostra juridicamente adequado quando utilizado com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (HC 125.131-AgR/DF, Ministro Celso de Mello)
+    Em face do exposto, nego provimento a este recurso ordinário em habeas corpus.
+    Intime-se. Publique-se.
+    Brasília, 1º de fevereiro de 2021.
+ Ministro NUNES MARQUES
+Relator
