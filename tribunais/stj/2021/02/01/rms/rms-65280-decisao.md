@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por LAYSSA LOPES DAMASCENO, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Geraisassim ementado (e-STJ fl. 478):
+DIREITO CONSTITUCIONAL - DIREITO ADMINISTRATIVO - REEXAME NECESSÁRIO - REALIZAÇÃO DE OFÍCIO - APELAÇÃO - MANDADO DE SEGURANÇA - CONCURSO PÚBLICO - MUNICÍPIO DE BRÚNAS - EDITAL 01/2015 - CARGO DE ODONTÓLOGO I - PRETENSÃO DE NOMEAÇÃO - CANDIDATA CLASSIFICADA ALÉM DO NÚMERO DE VAGAS PREVISTAS NO EDITAL - MERA EXPECTATIVA DE DIREITO - REALIZAÇÃO DE CONTRATAÇÃO TEMPORÁRIA - NOMEAÇÃO PRETERIDA DE FORMA ARBITRÁRIA E IMOTIVADA - NÃO CONFIGURAÇÃO - AUSÊNCIA DE ATO ILEGAL - VIOLAÇÃO DE DIREITO LÍQUIDO E CERTO - INOCORRÊNCIA - SENTENÇA REFORMADA - RECURSO PREJUDICADO.
+Na origem, a parte recorrente impetroumandado de segurança contra ato omissivo do Prefeito Municipal de Braunas, em que pleiteou a convocação e nomeação dela no cargo deOdontólogo II, para o qual estavaprevista1vaga.
+O Juízo de piso concedeu a segurança para "DETERMINAR que ao Município- impetrado nomeie a impetrante para o cargo de Odontóloga, no prazo de 60 (sessenta) dias - em virtude da pandemia de Coronavírus que assola o País -, sob pena de multa diária no valor de R$ 200,00 (duzentos reais), limitada inicialmente a R$ 50.000,00 (cinquenta mil reais), a ser arcada pela autoridade coatora e pelo Município, solidariamente, sem prejuízo da responsabilização pessoal a que se refere o art. 26 da Lei n.12.016/2009 (e-STJ fl. 428).
+Irresignados, o ente Municipal e Jovani Duarte Menezes manejaram recurso de apelação (e-STJ fls. 435/440).
+O Tribunal de origem, em reexame necessário, reformou a sentença e julgou prejudicado aludido recurso (e-STJ fls. 478/485).
+No recurso ordinário, sustenta a parte recorrente que "não há dúvida de que, necessitando de suprir seu quadro de odontólogos, em vez deproceder a nomeação de profissional qualificado e aprovado em concurso para preencher o cargo, o Município optou por contratar, de forma precária durante o prazo de validade do certame, a odontóloga Tatiane Alvarenga Brandão" (e-STJ fl. 556).
+Nesse contexto, estaria sendo preterida, em patente ofensa ao seu direito líquido e certo de sernomeada.
+Ao final, pleiteia a reforma do acórdão atacado com a concessão da ordem.
+Contrarrazões (e-STJ fls. 585/591).
+O Ministério Público Federal manifestou pelo não provimento do recurso (e-STJ fls. 610/613).
+Passo a decidir.
+Inicialmente, decidiu o Plenário do STJ que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feita essa consideração, constato que o recurso ordinário em apreço é manifestamente incabível, visto que o acórdão recorrido não cuida da hipótese prevista no art. 102, III, "b", da Constituição Federal, de denegação de mandado de segurança de competência originária do TJ/MG(julgamento em única instância).
+Conforme relatado, o julgado ora impugnado foi proferido em sede de apelação manejadacontra sentença, ocasião em que a Corte estadual, em reexame necessário, reformou o decisum e julgou prejudicado o referido recurso.
+A utilização de recurso ordinário nesses casos configura erro grosseiro, impossibilitando a aplicação do princípio da fungibilidade recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM "PETIÇÃO". "RECURSO NA FORMAORDINÁRIA". RECURSO MANIFESTAMENTE INCABÍVEL.1. O recurso ordinário (art. 1027 do CPC/2015) só é admissível nashipóteses do art. 105, inciso II, alíneas, da Constituição da República.2. In casu, em se tratando de julgamento de apelação em embargos àexecução fiscal, a interposição de recurso, na forma ordinária ao invés dorecurso especial, implica em erro grosseiro e impede o conhecimento dainsurgência.3. Agravo interno não provido.(AgInt na Pet 12.022/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/12/2017, DJe 13/12/2017).
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ORDEM CONCEDIDA.INTERPOSIÇÃO DERECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA.HIPÓTESE DE RECURSO ESPECIAL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. IMPOSSIBILIDADE. ERRO GROSSEIRO.
+1. O artigo 105, II, "b", da Constituição Federal atribui ao STJ a competência para apreciar Recurso Ordinário interposto contra as decisões que denegam a segurança.
+2. No caso dos autos, a ordem foi concedida, razão pela qual a irresignação da parte recorrente deveria ser manifestada por meio do Recurso Especial. Saliente-se, por oportuno, que é inaplicável o princípio da fungibilidade recursal no presente caso, por se tratar de erro grosseiro. Precedentes do STJ. 3. Agravo Interno não provido.
+(AgInt no RMS 51.501/AP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 7/2/2017, DJe 6/3/2017.).
+Ante oexposto, não conheço do recurso ordinário em mandado de segurança,com fundamento no art. 34, XVIII, a, do RISTJ.
+Publique-se. Intimem-se.
