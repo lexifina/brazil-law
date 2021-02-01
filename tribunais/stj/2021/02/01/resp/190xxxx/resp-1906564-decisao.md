@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial interposto contra acórdão do Tribunal de Justiça do Distrito Federal assim ementado:
+APELAÇÃO CÍVEL. PROCESSO CIVIL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E MORAIS. PRELIMINAR DE NULIDADE DA SENTENÇA. VIOLAÇÃO AOS PRINCÍPIOS DA CONGRUÊNCIA E DA NÃO SURPRESA. NÃO CARACTERIZADA. FUNDO PASEP. BANCO DO BRASIL S.A. CÁLCULO DE ATUALIZAÇÃO MONETÁRIA E INCIDÊNCIA DE JUROS SOBRE O SALDO CREDOR DE CONTA INDIVIDUAL DO PASEP. SUPOSTA FALHA NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE DO BANCO DO BRASIL S/A.AFASTADA. MERO DEPOSITÁRIO DOS VALORES PROVENIENTES DO FUNDO PASEP.SENTENÇA MANTIDA.
+1. É certo que o juiz não resolverá o mérito, na forma do artigo 485, inciso VI, do Código de ProcessoCivil, quando verificar a ausência de legitimidade das partes, pressuposto processual de validade subjetivo relativo às partes, ou de interesse processual, pressuposto processual de validade objetivo intrínseco, na linha do entendimento de Fredie Didier Jr., o que não pode ser compreendido como julgamento citra petita.
+2. Não há que se falar em cerceamento de defesa e consequente nulidade da sentença, por adoção defundamento surpresa, se o argumento apresentado na decisão era de conhecimento das partes desde o ajuizamento da ação, tendo se manifestado expressamente sobre o tema.
+3. O Banco do Brasil, como mero depositário dos recursos provenientes do fundo PASEP, não possuilegitimidade passiva para figurar nas lides em que se discute a atualização monetária dos valores depositados.
+4. Em razão da semelhança da matéria, aplica-se às ações propostas em face do Banco do Brasil relativasao PASEP o mesmo entendimento contido no enunciado de súmula nº 77, do colendo Superior Tribunal de Justiça, segundo o qual a Caixa Econômica Federal não detém legitimidade para compor o polo passivo das lides ajuizadas por empregados que versem sobre as cotas do PIS depositadas em sua conta individual.
+Aponta-se no Recurso Especial ofensa aoart. 5º da Lei Complementar 8/1970. Defende-se a legitimidade passiva do Banco do Brasil.
+Contrarrazões às fls. 1.232-1.236, e-STJ.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 25/11/2020.
+A irresignação merece prosperar.
+Cuida-se, na origem, de Ação Indenizatória por danos materiais e morais proposta por particular contra o Banco do Brasil S/A, por suposta má administração de conta PASEP, o que teria lhe acarretadoprejuízos.
+A controvérsia reside na possibilidade de a referida instituição financeira figurar no polo passivo de demandas que versam sobre contas PASEP. O Tribunal de origem consignou, em síntese, que a ilegitimidade do Bancojustifica-se pelo fato de a instituição ser mera administradora de tais contas, não sendo responsável pelos recursos depositados.
+Nesta conjuntura, verifico que o acórdão recorrido está em descompasso com a jurisprudência desta Corte. É pacífica a orientação, firmada pela Primeira Seção do STJ e consubstanciada na Súmula 42/STJ, de que a Justiça Estadual é competente para processar e julgar ações cíveis que tratam do PASEP, cuja administração é do Banco do Brasil, razão pela qual se evidencia sua legitimidade para constar no polo passivo da demanda.Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AÇÃO DE INDENIZAÇÃO CONTRA INSTITUIÇÃO BANCÁRIA.BANCO DO BRASIL. ATUALIZAÇÃODOS VALORES DEPOSITADOS NA CONTA DOPASEP.JUÍZO FEDERAL EXCLUIU A UNIÃO DO POLO PASSIVO DA DEMANDA. SÚMULAS 150, 254 E 42 DO STJ. SUCEDÂNEO RECURSAL. DESCABIMENTO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Tendo a Justiça Federal reconhecido a ilegitimidade passiva da União para figurar nos autos de ação revisional cumulada com indenização por danos materiais e morais, em decorrência daatualizaçãodos depósitos realizados na conta doPASEPda parte autora, deve-se reconhecer a competência da Justiça Estadual para o julgamento da lide, uma vez que não figura no litígio quaisquer dos entes enumerados no art. 109 da CF/1988. Inteligência das Súmulas 150 e 254 do STJ.
+2. Eventual irresignação da parte contra a decisão que excluiu a União da lide não encontra guarida no âmbito do conflito de competência, o qual se limita a declarar o juízo competente a partir dos elementos e das partes que, efetivamente, figuram na demanda. Na linha da jurisprudência pacificada do STJ, não se admite que o presente incidente seja utilizado como sucedâneo recursal.
+3. Tratando-se de ação ajuizada por particular contra oBanco do Brasil,cuja natureza jurídica é de sociedade de economia mista, aplica-se a orientação contida na Súmula 42/STJ, o que acarreta o reconhecimento da competência da Justiça Estadual para o julgamento do litígio.
+4. Agravo interno a que se nega provimento. (AgInt no CC 171.648/DF, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 18/08/2020, DJe 24/08/2020)
+CONFLITO DE COMPETÊNCIA. PASEP. SAQUES INDEVIDOS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. BANCO DO BRASIL. INSTITUIÇÃO GESTORA. SOCIEDADE DE ECONOMIA MISTA. SÚMULA 42/STJ. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 12ª VARA CÍVEL DE RECIFE-PE.
+1. A Primeira Seção desta Corte tem entendimento predominante de que compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal).
+2. Incide, à espécie, a Súmula 42/STJ: Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento.
+3. Conflito de Competência conhecido para declarar competente o Juízo de Direito da 12ª Vara Cível de Recife-PE.
+(CC 161.590/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe 20/02/2019)
+CONFLITO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL. CORREÇÃO DOS DEPÓSITOS DO PIS/PASEP. BANCO DO BRASIL S/A.
+1. Sociedade de economia mista não tem foro na Justiça Federal, "ex-vi" do art. 109/CF e das Súmulas 508 e 517, do STF, e 92, do STJ.
+2. Conflito conhecido para declarar competente o 1º Tribunal de Alçada Civil de São Paulo, suscitado.
+(CC 31.432/SP, Rel. Ministro FRANCISCO PEÇANHA MARTINS, PRIMEIRA SEÇÃO, julgado em 10/04/2002, DJ 17/06/2002, p. 183)
+No mesmo sentido são as recentes decisões no REsp 1.879.888, DJe 28/9/2020, e no REsp 1.874.404, DJe 1/6/2020, ambos de relatoria da Ministra ASSUSETE MAGALHÃES; no REsp 1.890.185, DJe 23/9/2020, e no REsp1.852.193, DJe 5/2/2020, todos de relatoria do Ministro SÉRGIO KUKINA; no REsp 1.887.215, DJe 22/9/2020, e no REsp 1.869.872, DJe 29/5/2020, ambos de minha relatoria, eno REsp 1.885.995, DJe 18/9/2020, da relatoria do Ministro MAURO CAMPBELL MARQUES.
+Dessume-se que o acórdão recorrido não está em sintonia com o atual posicionamento do STJ, razão pela qual merece prosperar a irresignação.
+Diante do exposto,dou provimento ao Recurso Especialpara declarar alegitimidade passiva doBanco do Brasil, devendo os autos retornar à origem para análise das demais questões aventadas no Recurso de Apelação.
+Publique-se.
+Intimem-se.
