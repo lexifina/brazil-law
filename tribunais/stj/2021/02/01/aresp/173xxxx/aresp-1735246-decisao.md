@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu o Recurso Especial porque não houve fundamentação hábil a demonstrar a possível violação aos dispositivos legais citados.
+O acórdão foi assim ementado (fls. 1237- 1243, e-STJ):
+TRIBUTÁRIO. APELAÇÃO. DECADÊNCIA NÃO VERIFICADA. PECULIARIDADE. COMPENSAÇÃO REALIZADA POR FORÇA DE DETERMINAÇÃO JUDICIAL. DÉBITO INEXISTENTE. IMPOSSIBILIDADE FÁTICA DE LANÇAMENTO. SUPERVENIENTE RECONHECIMENTO DA INEXISTÊNCIA DE CRÉDITO PRÊMIO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+1. Controverte-se nesta demanda se ocorreu a decadência para a constituição e consequente cobrança de créditos tributários, compensados por força de decisão judicial com créditos de IPI (de terceiros), que vieram a ser posteriormente declarados inexistentes.
+2. A matéria posta em debate já foi enfrentada pela Quarta Turma desta Corte em sede de agravo de instrumento (0809992-43.2018.4.05.0000, acórdão proferido em 09/10/2018, já transitado em julgado) interposto pela demandante contra a decisão do Juízo de origem que indeferiu o pedido liminar nesta demanda.
+3. Em face da determinação judicial de expedição de DCCs - Documentos Comprobatórios de Compensação, proferida nos autos do processo 0008031-26.1999.4.05.8000, em princípio, não poderia o fisco federal ter procedido ao lançamento dos débitos.
+4. Os DCCs são documentos que extinguem o crédito tributário, o que apenas não ocorreu na casuística, pois a existência do crédito-prêmio de IPI estava sub judice. Segue, portanto, que as compensações reconhecidas pelos DCCs ocorreram de forma precária, sujeitas a condição resolutória, que se perfectibilizou quando do julgamento do Agravo Regimental no REsp 582.776/AL, momento a partir do qual restou assentado que o crédito-prêmio de IPI, utilizado para fins de compensação, não existia.
+5. Em estando o pedido de compensação vinculado à determinação judicial, não se poderia exigir da Fazenda Nacional o seu indeferimento ou mesmo a constituição do crédito tributário pelo lançamento, porquanto inexistente.
+6. A decadência é conseqüência da inércia do titular de direito, a sua configuração pressupõe a possibilidade de exercício do direito, razão pela qual não se pode computar em desfavor da Fazenda Pública a fluência de prazo decadencial em relação a exercício de direito obstado por força de decisão judicial.
+7. Apelação cujo provimento é negado.
+Os Embargos de Declaração foram desacolhidos (fls.1.296-1.300, e-STJ)
+O recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 489, § 1º, IV, e 1.022 do CPC; 74, § 6º, da Lei 9.430/1996; 63 da Lei 6.430/1996; 151, IV e V, CTN. Sustenta que o lançamento de ofício deve ser primordial para prevenir a decadência nas hipóteses de débitos com exigibilidade suspensa por decisão liminar em Mandado de Segurança ou de tutela antecipada em outras espécies de ação judicial.
+Contrarrazões às fls. 1358-1368, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2 de dezembro de 2020.
+A controvérsia encontra-se assim posta:
+a empresa procura demonstrar que o r. acórdão incorreu em obscuridades e omissões que comprometem diretamente o resultado do julgado, posto que:
+i) não enfrentou o fato de a decisão liminar, que autorizou as compensações, ter ressalvado expressamente o poder/dever da Receita Federal em Alagoas de fiscalizar as compensações, procedendo, em sendo caso, aos lançamentos "para fins de prevenir a decadência";
+ii) aplica retroativamente o §6º do art. 74 da Lei nº 9.430/96 para as compensações anteriores a 31.10.2003;
+iii) a nulidade das cobranças relativas aos tributos compensados após 31.10.2003, sem a prévia notificação do contribuinte para exercer o seu direito de defesa;
+O Tribunal de origem consignou:
+Controverte-se nesta demanda se ocorreu a decadência para a constituição e consequentecobrança de créditos tributários, compensados por força de decisão judicial com créditos de IPI (de terceiros), que vieram a ser posteriormente declarados inexistentes.
+ ..
+Os DCCs são documentos que extinguem o crédito tributário, o que apenas não ocorreu na casuística, pois a existência do crédito-prêmio de IPI estava sub judice. Segue, portanto, que as compensações reconhecidas pelos DCCs ocorreram de forma precária, sujeitas a condição resolutória, que se perfectibilizou quando do julgamento do Agravo Regimental no REsp 582.776/AL, momento a partir do qual restou assentado que o crédito-prêmio de IPI, utilizado para fins de compensação, não existia.
+ ..
+Em estando o pedido de compensação vinculado à determinação judicial, não se poderia exigir da Fazenda Nacional o seu indeferimento ou mesmo a constituição do crédito tributário pelo lançamento, porquanto inexistente.
+ ..
+A decadência é consequênciada inércia do titular de direito, a sua configuração pressupõe a possibilidade de exercício do direito, razão pela qual não se pode computar em desfavor da Fazenda Pública a fluência de prazo decadencial em relação a exercício de direito obstado por força de decisão judicial.
+ ..
+Ressalte-se, que ficou evidenciado nos autos que não se trata de apuração de diferenças, mas da cobrança do próprio valor em si, em virtude de cassação de provimento judicial que antes legitimava a compensação.
+ ..
+Por fim, quanto à decadência levantado pelo recorrente, reproduzo trecho do acórdão combatido, o qual adoto como razão de decidir:
+" A decadência é consequência da inércia do titular de direito, a sua configuração pressupõe a possibilidade de exercício do direito, razão pela qual não se pode computar em desfavor da Fazenda Pública a fluência de prazo decadencial em relação a exercício de direito obstado por força de decisão judicial." ..
+Não há mácula no acórdão embargado, pois o acórdão recorrido fez a devida distinção do presente caso com o entendimento consolidado no STJ, segundo o qual as diferenças referentes às DCTFs apresentadas antes de 31/10/2003 não constituíam o crédito tributário, motivo pelo qual seria necessário a realização de lançamento.
+Note-se que a decisão vergastada foi bastante clara quanto aos seus termos, fundamentando suficientemente todas as suas conclusões, não havendo motivo para a insurgência do Embargante.
+Ressalte-se, que ficou evidenciado nos autos que não se trata de apuração de diferenças, mas da cobrança do próprio valor em si, em virtude de cassação de provimento judicial que antes legitimava a compensação.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+Ainda que assim não fosse, o acórdão encontra amparo em julgamento do STJ no sentido de que enquanto não transitar a lide que discute o direito à compensação, não se verifica certeza, liquidez e exigibilidade a amparar a cobrança, não correndo prazo prescricional para o Fisco exigir o crédito. Veja-se:
+TRIBUTÁRIO. OMISSÃO INEXISTENTE. COMPENSAÇÃO EFETIVADA POR FORÇA DE ORDEM JUDICIAL. CONSTITUIÇÃO DO CRÉDITO. SÚMULA N. 436/STJ. CASSAÇÃO DO ÓBICE. TERMO INICIAL DA EFETIVA COBRANÇA DO VALOR DECLARADO. PRONTA EXIGIBILIDADE DECORRENTE DA REVERSÃO DO AMPARO JUDICIAL.
+1. Inexiste violação do art. 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida, com enfrentamento e resolução das questões abordadas no recurso.
+2. No caso dos autos, a compensação e consequente quitação dos débitos tributários foram feitos mediante transferência de créditos decorrentes de decisão proferida em mandado de segurança, impetrado por empresa cedente, em que a concessão da ordem reconheceu-lhe o direito de crédito-prêmio de IPI bem como a legalidade de cessão dos créditos a terceiros, transferência da qual se beneficiou a recorrente.
+3. Contudo, o amparo judicial foi cassado no Recurso Especial 1020969/RJ para reconhecer a inexistência de valores em favor da impetrante, visto que o crédito-prêmio teria sido extinto em 4.10.1990 e impetrado o writ em 2000, eventuais valores estariam todos prescritos, porquanto incidente na hipótese a prescrição contida no art. 1º do Decreto n. 20.910/32.
+4. Incontroverso que o contribuinte constituiu seu crédito efetuando compensação com créditos amparado em provimento concedido em mandado de segurança, e a cobrança fiscal efetivou-se apenas após o STJ dar provimento ao recurso especial da Fazenda Nacional e, consequentemente, cassar o amparo judicial que legitimava a sistemática compensatória engendrada.
+5. Nesse contexto, é de se reconhecer que os valores declarados constituíram efetivamente o valor devido pelo contribuinte ("A entrega de declaração pelo contribuinte reconhecendo débito fiscal constitui o crédito tributário, dispensada qualquer outra providência por parte do fisco" - Súmula n. 436/STJ), pois a glosa não decorreu de discordância perpetrada pelo Fisco, mas do efeito lógico-jurídico da cassação do provimento mandamental, visto que, ausente a causa impeditiva da atuação da administração para a cobrança do crédito, nasce então seu poder/dever de exigir o adimplemento do valor declarado.
+6. "Revogada, suspensa ou cassada a medida liminar ou denegada a ordem, pelo juiz ou pelo Tribunal, nada impede a Fazenda Nacional de obter a satisfação do crédito tributário, retomando-se o curso do lapso prescricional, ainda que penda de exame recurso desprovido de eficácia suspensiva ou de provimento acautelatório, se não concorre outra causa de suspensão prevista no artigo 151 do Código Tributário Nacional" (EREsp 449.679/RS, Rel. Ministro HAMILTON CARVALHIDO, PRIMEIRA SEÇÃO, julgado em 13/12/2010, DJe 1º/2/2011.)
+7. Nesse ínterim, não há decadência, menos ainda prescrição a ser declarada. Agravo regimental improvido. (AgRg no REsp 1.220.888/RS Rel. Min. Humberto Martins, Segunda Turma, DJe 19.6.2015; AgRg no REsp 1.477.243/RS, Rel. Min. Humberto Martins, Segunda Turma, DJe 17.11.2014)
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+Sem razões para modificar o juízo de admissibilidade que concluiu pela falta de fundamentação hábil a demonstrar a possível violação aos dispositivos legais citados.
+Por tudo isso, não conheço do Agravo em Recurso Especial e condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem.
+Publique-se.
+Intimem-se.
