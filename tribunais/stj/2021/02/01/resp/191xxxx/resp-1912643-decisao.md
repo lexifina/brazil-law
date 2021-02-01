@@ -1,0 +1,30 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Deirivânia Pereira Teixeira Benigno e outras, com amparo nas alíneas a e c do inciso III do art. 105 da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Cearáassim ementado (e-STJ, fl. 227):
+CONSTITUCIONAL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. ILEGITIMIDADE PASSIVA DO ENTE PÚBLICO MUNICIPAL. RECONHECIMENTO. VALORES ALMEJADOS PASSARAM A INTEGRAR O PATRIMÔNIO DO INSTITUTO DE PREVIDÊNCIA. AUTARQUIA DOTADA DE PERSONALIDADE JURÍDICA PRÓPRIA E AUTONOMIA FINANCEIRA E ADMINISTRATIVA. PROVIMENTO. SENTENÇA REFORMADA E PROCESSO EXTINTO SEM RESOLUÇÃO DO MÉRITO.
+1.As autoras ajuizaram ação com o objetivo de restituição de contribuições previdenciárias descontadas de seus contracheques até maio/2018, vez que a partir desse instante não houve mais esses abatimentos. A cobrança, portanto, envolve valores que já passaram a integrar o patrimônio do Instituto de Previdência do Município de Itapipoca em momento anterior ao protocolo da demanda judicial.
+2. O ITAPREV foi criado pela Lei nº 047/2008, sob a forma de Autarquia com personalidade jurídica própria, para gerir o regime de previdência dos servidores no âmbito municipal, sendo-lhe outorgada autonomia administrativa para conduzir a gestão financeira, contábil e atuarial dos recursos destinados ao RPPS.
+3. Por essa legislação específica, constitui receita própria do instituto as contribuições previdenciárias compulsórias exigidas dos servidores ativos, sendoresponsável pela manutenção do regime, pela prestação de contas junto ao respectivo TCM e pelo suporte na captação de ativos financeiros recolhidos pelo órgão a que se vincule o servidor.
+4. Nesse contexto, verifica-se que o Município de Itapipoca não possui legitimidade para figurar no polo passivo da ação, pois a repetição do indébito se volta contra o acervo financeiro vinculado ao Instituto de Previdência Municipal, que possui o encargo de efetivar eventual restituição dessa natureza. Precedentes do STJ e do TJCE.
+5. Apelação conhecida e provida.
+A parte insurgente alega a existência de contrariedade ao art. 17 do CPC, ao argumento de que o recorrido é parte legítima para figurar no polo passivo da presente demanda.
+Defende, ainda, que há divergência jurisprudencial em torno do tema.
+Foram apresentadas contrarrazões.
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+É o relatório.
+O Tribunal de origem afirmou que o recorrido é parte ilegítima para figurar no polo passivo da demanda, pois os valores já se encontravam integrados ao patrimônio do Instituto de Previdência do Município de Itapoca.
+Verifica-se (e-STJ, fl 230):
+Acontece que o ITAPREV foi criado pela Lei nº 047/2008, sob a forma de Autarquia, com personalidade jurídica própria, para gerir o regime de previdência dos servidores no âmbito municipal, sendo-lhe outorgada autonomia administrativa para conduzir a gestão financeira, contábil e atuarial dos recursos destinados ao RPPS.
+Por essa legislação específica, constitui receita própria do instituto as contribuições previdenciárias compulsórias exigidas dos servidores ativos, sendo responsável pela manutenção do regime, pela prestação de contas junto ao respectivo TCM e pelo suporte na captação de ativos financeiros recolhidos pelo órgão a que se vincule o servidor (arts. 1º, 2º, 106, 107, 111 e 139, todos da Lei nº 047/2008).
+Nesse contexto, verifico que o Município de Itapipoca não ostenta legitimidade para figurar no polo passivo da ação, pois a repetição do indébito se volta contra o acervo financeiro vinculado ao Instituto de Previdência Municipal, que possui o encargo de efetivar eventual restituição dessa natureza.
+Para afastar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. SUSPENSÃO INDEVIDA DE PERMISSÃO PARA REALIZAR TRANSPORTE COLETIVO. LEGITIMIDADE PASSIVA AD CAUSAM. RECONHECIMENTO, PELO ACÓRDÃO RECORRIDO, À LUZ DOS FATOS E PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. DANOS MORAIS E MATERIAIS. OCORRÊNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de Ação de Indenização, ajuizada pela parte agravada em face do Município de São Paulo e de São Paulo Transportes S/A - SPTRANS, com o objetivo de obter indenização por danos materiais e morais, além de lucros cessantes, em razão da suspensão indevida de permissão para realizar transporte coletivo. O acórdão do Tribunal de origem manteve a sentença, que julgara procedente, em parte, o pedido.
+III. O entendimento firmado pelo Tribunal a quo, à luz dos fatos e provas dos autos, no sentido da legitimidade passiva ad causam do recorrente, não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. Precedentes do STJ.
+IV. Do mesmo modo, a revisão das conclusões do Tribunal de origem, que reconheceu a ocorrência de danos morais e materiais indenizáveis, não prescindiria do reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, de forma a atrair, uma vez mais, a incidência da Súmula 7/STJ.
+V. Agravo interno improvido.
+(AgInt no AREsp 1.481.093/SP, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 5/9/2019, DJe 16/9/2019.)
+Ante o exposto, com fulcro no art. 932, III, do CPC, não conheço do recurso especial.
+Publique-se. Intimem-se.
