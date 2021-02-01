@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ROBERTA DE AGUIAR COSTA MASCARENHAS, contra decisão que negou seguimento a recurso especial fundamentado naalínea"a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 05/03/2020.
+Atribuído ou concluso ao gabinete em: 30/11/2020.
+Ação: de indenização por danos materiais ajuizada pela agravante em face de CITIGROUP GLOBAL MARKETS BRASIL, CORRETORA DE CÂMBIO, TÍTULOS E VALORES MOBILIÁRIOS S/A e OUTROS, em razão de inadimplemento contratual.
+Sentença: julgou parcialmente procedente o pedido inicial, para condenar EVALDO RUI ROCHA ao pagamento de indenização por danos materiais, no valor de R$ 44.500,00.
+Acórdão: deu parcial provimento aos recursos interpostos pela autora e pelo segundo réu,nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE ADMINISTRAÇÃO E GESTÃO E RECURSOS PARA INVESTIMENTO NO MERCADO DE VALORES MOBILIÁRIOS. DISPOSIÇÕES CONTRATUAIS EM DESACORDO COM A REGULAMENTAÇÃO PERTINENTE.INADIMPLEMENTO CONTRATUAL CARACTERIZADO.DANO MATERIAL. INSTITUIÇÃO FINANCEIRA.RESPONSABILIDADE SOLIDÁRIA.
+Se o "Contrato de Prestação de Serviços de Administração e Gestão de Recursos" firmado entre investidora e pessoa física administrador de carteira de negócios contempla previsões absolutamente em desacordo com as normas que disciplinam a matéria, há que ser o contratado responsabilizado pelos prejuízos experimentados pelo contratante em razão da atuação irregular.
+A instituição financeira na sua atuação na qualidade de intermediadora de operações no mercado de valores mobiliários é solidariamente responsável pelos prejuízos experimentados pela investidora em decorrência da atuação irregular do administrador de carteira de negócios. Com efeito, os serviços que as instituições bancárias colocam à disposição dos clientes estão regidos pelas normas constantes na Lei nº.8.078/90, e se inserem no conceito consagrado no § 2º, do art.3º, da Lei 8.078/90. Tratando-se de relação de consumo, a responsabilidade da instituição financeira decorrente da falha do serviço é de natureza objetiva, independente, pois, da apuração de culpa pelos atos que redundaram na sua ocorrência.
+Mesmo prescindindo da demonstração do elemento subjetivo - culpa em sentido amplo - esse emerge inconteste se a instituição financeira deixa de observar deveres impostos pela Comissão de Valores Mobiliários para a atuação de agentes que com ela operam no mercado de investimentos de valores mobiliários.(e-STJ, fls. 2.018/2.019)
+Embargos de Declaração: opostos pelaagravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489 e 1.022, I, do CPC/15. Alega negativa de prestação jurisdicional, sustentando que "o v. Acórdão que julgou as apelações interpostas pelas partes foi omisso e contraditório quando deixou de condenar os Réus/Recorridos quanto a integralidade dos aportes financeiros realizados pela Recorrente no decorrer da relação contratual" (e-STJ fl. 2.330).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência nesta Corte, no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da questão tida como omissa pela agravante, conforme se observa do trecho a seguir:
+No que tange às alegações da ora terceira embargante, vê-se, nitidamente, o seu inconformismo com o valor da indenização que lhe foi assegurada, sem que, contudo, se constate a existência de quaisquer dos vícios por ela alegados.
+No particular, no voto condutor do aresto ficou expressamente assentado que a controvérsia ficou adstrita à aferição da responsabilidade de Evaldo e à responsabilidade solidária da Corretora, a qual restou reconhecida e, nesse ponto, salientou-se que o contrato firmado entre a ora terceira embargante e Evaldo era datado 20/10/2005 e, conforme apurações realizadas na Auditoria da Bovespa, nos termos da planilha acostada à fl. 148, os repasses de valores comprovadamente realizados pela ora terceira embargante após essa contratação foram apenas dois, um de R$ 19.000,00 (dezenove mil reais), em 04/11/2005, e outro de R$ 25.500,00 (vinte e cinco mil e quinhentos reais), em 05/05/2006, totalizando o importe de R$ 44.500,00 (quarenta e quatro mil e quinhentos reais).
+Destacou-se, ainda, que a responsabilidade solidária da Corretora estaria adstrita a esse montante, eis que as outras movimentações realizadas precediam a contratação de Evaldo e, portanto, seriam anteriores à sua atuação, não lhe podendo ser imputadas.
+Constata-se, assim, que as razões de direito contidas na fundamentação do julgado embargado, assim como as conclusões alcançadas no julgamento quanto à responsabilidade da primeira e do segundo embargantes quanto aos prejuízos experimentados pela terceira embargante possuem correlação lógica, sem qualquer omissão ou contradição entre os fundamentos consignados e a parte dispositiva do julgado.(e-STJ fls 2.296).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno a parte recorrente que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.
+1. Ação de indenização por danos materiais.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
