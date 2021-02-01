@@ -1,0 +1,10 @@
+DECISÃO
+Trata-sede habeas corpus com pedido liminar impetrado pela DEFENSORIA PÚBLICA DO ESTADO DE SANTA CATARINA em favor de ADRIANO DE OLIVEIRA e DAVID SILVA SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0017859-76.2017.8.24.0038).
+Omandamus não foi conhecido, conforme decisão proferida em 26/3/2020 (e-STJ fls. 427/438), a qual transitou em julgado em 14/5/2020(e-STJ fl. 444). Posteriormente, em 10/12/2020, a DEFENSORIA PÚBLICA DA UNIÃO apresentou petição (e-STJ fl. 394/410), por meio da qual pretende assumir a defesa do paciente, deduzindo os seguintes pedidos: a) Declarar a nulidade da intimação exclusiva da Defensoria Pública do Estado de Santa Catarina; b) Desconstituir o trânsito em julgado da decisão de 13 de fevereiro de 2020; c) Intimar a Defensoria Pública da União, abrindo o prazo para oportunizar a manifestação nos autos e o exercício em plenitude do contraditório e da ampla defesa.
+É o relatório. Decido.
+A Quinta Turma desta Corte, no julgamento de Questão de Ordem na PET no AREsp n. 1.513.956/AL, de minha relatoria, julgada em 17/12/2019 (DJe 4/2/2020), firmou compreensão no seguinte sentido:
+ ..  existindo representação em Brasília, conforme a jurisprudência consolidada desta Corte, ou viabilizada a intimação eletrônica das Defensorias Públicas dos Estados em virtude de adesão ao Portal de Intimações Eletrônicas, impõe-se o indeferimento do pedido da Defensoria Pública da União no sentido de assumir a defesa de pessoas já assistidas pelas Defensorias Públicas estaduais.
+No caso, os pacientes foramrepresentados pela DEFENSORIA PÚBLICA DO ESTADO DE SANTA CATARINA, então impetrante, a qual encontrava-se cadastrada no Portal de Intimações Eletrônicas e foi regularmente intimada da decisão monocrática retro, em 13/4/2020 (e-STJ fl. 441).
+Assim, não obstante a DEFENSORIA PÚBLICA DO ESTADO DE SANTA CATARINA tenha solicitado o seu descadastramento do Portal da Intimação em 5/5/2020, todas as intimações realizadas até esse termo são plenamente válidas e eficazes, produzindo seus efeitos.
+Ante o exposto, indefiro o pedido formulado pela DEFENSORIA PÚBLICA DA UNIÃO.
+Intimem-se.
