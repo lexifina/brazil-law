@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JADSON SANTOS DE JESUS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que foi decretada a regressão cautelar do paciente para o regime fechado, devido ao descumprimento de medidas referentes ao regime aberto no qual se encontrava cumprindo pena.
+Impetrado habeas corpusna origem, do writnão se conheceu monocraticamente. Interposto, na sequência, agravo regimental, foi negado provimento ao recurso. O acórdão está assim ementado (e-STJ fl. 103):
+AGRAVO INTERNO EM HABEAS CORPUS . DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO WRIT. REMÉDIO CONSTITUCIONAL QUE SE INSURGE CONTRA A DECISÃO QUE DETERMINOU A REGRESSÃO CAUTELAR DE REGIME. AUSÊNCIA DE FLAGRANTE ILEGALIDADE QUE PERMITISSE CONHECER DO REQUERIMENTO PELA VIA ELEITA.INSURGÊNCIA QUE DEVE SER DISCUTIDA NO RECURSO PRÓPRIO.AGRAVO DESPROVIDO.
+Aduz a defesa, na presente impetração, que "há ilegalidade flagrante no ato que determinou a regressão cautelar do Paciente, a saber, a falta de fundamentação idônea quanto à urgência da medida excepcional" (e-STJ fl. 5).
+Requer, liminarmente, seja determinado o sobrestamento dos efeitos da decisão que regrediu cautelarmente o paciente.
+É, em síntese, o relatório.
+O exame dos fundamentos declinados no acórdão impugnado evidencia que a matéria veiculada na impetração não foi examinada pelo Tribunal de origem.
+Flagrante, portanto, tratar-se de situação configuradora de supressão de instância, que impede o conhecimento da ordem.
+Contudo, o Superior Tribunal de Justiça consolidou o entendimento de que "é bem verdade que o STJ não mais tem admitido a impetração dehabeascorpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá concederhabeascorpus deofício.Inteligência do art. 654, § 2º, do CPP" (HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).
+No mesmo sentido:
+PROCESSUAL PENAL.HABEASCORPUS. WRIT SUBSTITUTIVO DE RECURSO ORDINÁRIO. TRÁFICO ILÍCITO DE ENTORPECENTES.HABEASCORPUS ORIGINÁRIO NÃO CONHECIDO PELO TRIBUNAL DE ORIGEM POR SUPOSTA INADEQUAÇÃO DA VIA ELEITA. QUESTÃO DE DIREITO QUE INDEPENDE DA ANÁLISE FÁTICO-PROBATÓRIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RETORNO DOS AUTOS À ORIGEM. NÃO CONHECIMENTO. ORDEM DEOFÍCIO.
+1. O Superior Tribunal de Justiça não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, agravo emexecução,recurso especial), tampouco à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, deofício,da ordem dehabeascorpus.
+2. Hipótese em que o Tribunal de origem não conheceu da impetração originária - versando sobre a legalidade na imposição do regime inicial fechado-, por suposta inapropriação da via eleita. Não tendo havido o exaurimento da matéria pelas instâncias de origem, inviável a apreciação por esta Corte Superior de Justiça, sob pena de supressão de instância.
+3. Tratando-se de matéria exclusivamente de direito, não demandando revolvimento fático-probatório, inexiste óbice à análise do pedido formulado nohabeascorpus originário, ainda que deofício,nos termos do art. 654, §2º, do CPP. Precedentes.
+4. Writ não conhecido. Ordem concedida, deofício,para determinar, o retorno da impetração ao Tribunal de 2º Grau para que esteexamineo mérito doHabeasCorpus originário, decidindo como entender de direito, mormente quanto à possibilidade de concessão da ordem, deofício
+(HC 349.445/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 12/04/2016, DJe 22/04/2016).
+Portanto, a ausência de manifestação do Tribunal de Justiça do Estado de Santa Catarinaacerca do pedido formulado na impetração originária configura indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não necessita de revolvimento de matéria probatória, envolvendo apenas questão de direito.
+Nesse contexto, tratando-se de questão relevante de direito, deve a Corte estadual analisar a matéria suscitada no writ originário.
+Ante o exposto, não conheço da impetração, masconcedoliminarmente a ordem deofíciopara determinar que o Tribunal de Justiça de origem aprecie o mérito dohabeascorpus originário como entender de direito.
+Publique-se. Intimem-se.
