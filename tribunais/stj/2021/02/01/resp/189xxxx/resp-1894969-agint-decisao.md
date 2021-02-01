@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 527-536, e-STJ) que negou seguimento ao Recurso Especial, com base na jurisprudência do STJ.
+As agravantes sustentam, em suma (fl. 541, e-STJ):
+Portanto, em não havendo o trânsito em julgado do mandamus coletivo, mostra-se inviável a presente ação de cobrança de valores concernentes ao período anterior à impetração.
+Com efeito, mostra-se necessário aguardar o julgamento final do mandado de segurança, a fim de que se tenha juízo assertivo quanto aos limites do título judicial que ampara a presente ação de cobrança.
+Com base nesse entendimento, devem ser reformadas as r. decisões, haja vista a impossibilidade de se executar as verbas pretéritas à impetração sem que tenha havido o trânsito em julgado da demanda coletiva.
+Pleiteiam a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+Decido.
+Diante da argumentação trazida pelas agravantes, reconsidero a decisão agravada na parte em que julgou o recurso estatal e passo à nova análise do recurso do Estado de São Paulo e São Paulo Previdência.
+Trata-se de Recurso Especial interposto por São Paulo Previdência e pela Fazenda do Estado de São Paulo (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado:
+POLICIAIS MILITARES. Quinquênios e sexta-parte sobre os vencimentos integrais de período anterior ao ajuizamento de mandado de segurança coletivo por associação de policiais militares.
+É fato notório que o Estado deixava de considerar para efeito dos adicionais temporais vantagens de natureza permanente como GAP, AOL, ALE e adicional de insalubridade e que os dos autores teriam dificuldade para reunir os elementos correspondentes, em relação ao período postulado, de 29-08-2003 a 28-08-2008, que a Administração terá melhores condições de apresentar, o que pode ser relegado para o momento da liquidação, cumprindo, por isso, afastar o fundamento adotado pela sentença para a improcedência da demanda.
+Ação proposta por policiais militares inativos e da ativa.
+Ilegitimidade passiva de São Paulo Previdência, dado que no período a que se refere a postulação, de 29-08-2003 a 28-08-2008, ainda eram do Estado os encargos das aposentadorias de todos os servidores públicos estaduais.
+Não ocorrência do trânsito em julgado no mandado de segurança coletivo que não constitui óbice à demanda pelo período anterior ao seu ajuizamento.
+Não é caso de suspensão do processo porque haverá nova incursão no pedido e na causa de pedir, atendendo, ainda, à garantia de inafastabilidade da jurisdição.
+Ressalvado entendimento em contrário, adota-se a orientação fixada pelo Superior Tribunal de Justiça, pela interrupção da prescrição com o ajuizamento do mandado de segurança coletivo, voltando a fluir, pela metade, após o trânsito em julgado no referido processo.
+Legitimidade ativa. Repercussão geral que não abrange essa hipótese. Legitimidade extraordinária da associação no mandado de segurança coletivo. Não se exige autorização expressa dos associados, nem comprovação do momento da filiação e tampouco apresentação de rol dos associados. Toda a categoria é beneficiada.
+Matéria de fundo. Quinquênios e sexta parte. Incidência sobre todas as verbas não eventuais que integram a remuneração regular dos servidores e os proventos de aposentadoria. Cabimento. Regramento do artigo 129 da Constituição do Estado aplicável também aos servidores militares. Norma de superior hierarquia que prevalece sobre o dimensionamento mais restrito da Lei Complementar 731/1993.
+Adicional de Insalubridade e Adicional de Local de Exercício que integram a remuneração dos policiais militares em caráter regular e por isso serão considerados para efeito dos quinquênios e da sexta-parte.
+Recomposição das correspondentes diferenças dos cinco anos anteriores ao ajuizamento do mandado de segurança coletivo. Parcial impedimento parcial de litispendência ou coisa julgada.
+Para evitar repetição de embargos de declaração com objetivo de acesso aos tribunais superiores, são abordados os questionamentos que neles vêm sendo formulados.
+Recurso parcialmente provido para, extinguindo o processo, por ilegitimidade passiva, em relação a São Paulo Previdência, julgar procedente a demanda somente em relação ao Estado.
+Não foram opostos Embargos de Declaração.
+As razões dos entes públicos resumem-se ao questionamento acerca da legitimidade ativa dos servidores, da ocorrência de prescrição, da impossibilidade de execução provisória dos pedidos e dos índices aplicáveis para fins de correção monetária e de juros moratórios.
+Quanto ao primeiro ponto, é pacífico o entendimento sobre a desnecessidade da apresentação de relação nominal dos filiados à época da impetração do Mandado de Segurança Coletivo e suas respectivas autorizações, visto que as entidades sindicais e associações têm legitimidade para atuar judicialmente no interesse de toda a categoria.
+No que tange à alegação sobre a ocorrência de prescrição, o acórdão agravado está em consonância com a jurisprudência desta Corte, consoante a qual "a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional de modo que tão somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição da Ação Ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ." (AgRg no AREsp 122.727/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 11/9/2012).
+No tocante à prescrição das parcelas relativas ao período imediatamente anterior ao quinquênio que antecede a interposição da ação, a alegação de prescrição merece prosperar.
+O STJ possui o entendimento no sentido de que a citação do Estado na mencionada Ação Coletiva não teve o condão de impedir o reconhecimento da prescrição quinquenal para pagamento das parcelas pretéritas, a qual, contudo, atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da presente Ação Individual, nos termos da Súmula 85/STJ.
+Destaco que, no que toca à interrupção da prescrição pelo ajuizamento da Ação Coletiva, esta Corte Superior de Justiça já pacificou sua jurisprudência no sentido de que "a propositura de ação coletiva interrompe a prescrição apenas para a propositura da ação individual. Contudo, em relação ao pagamento das parcelas vencidas, deverá "o termo inicial da prescrição recair na data da propositura da presente ação individual, garantindo-se à parte segurada o recebimento das parcelas relativas aos cinco anos anteriores ao ajuizamento da presente demanda, nos exatos termos do que dispõe o parágrafo único do art. 103 da Lei n. 8.213/91"
+Diante do exposto, reconsidero a decisão monocrática de fls. 527-536, na parte em que julga o recurso do ente estatal e, ato contínuo, dou provimento ao Recurso Especial nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
