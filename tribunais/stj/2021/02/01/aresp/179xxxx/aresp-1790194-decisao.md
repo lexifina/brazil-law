@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto (art. 105, III, "a" e "c", da Constituição da República) contra acórdão do Tribunal de Justiça de São Pauloassim ementado (fl. 121, e-STJ):
+AGRAVO DE INSTRUMENTO. Execução Fiscal. Município de Mogi Mirim. IPTU dos exercícios de 2008 e 2009. Indícios de dissolução irregular da empresa executada - Possibilidade de inclusão do sócio no polo passivo da execução. Aplicação da Súmula nº 435 do STJ e do art. 135 do CTN - Pedido de inclusão do sócio formulado pela Municipalidade quando transcorridos menos de cinco anos após a citação da empresa. Prescrição não configurada. Precedentes do STJ - Aplicação de multa e condicionamento da interposição de recursos ao respectivo pagamento afastados. Hipóteses previstas no art. 1.026 do CPC não configuradas - Recurso parcialmente provido.
+Os Embargos de Declaração foram rejeitados (fls. 145-152 e-STJ).
+Aparterecorrentealegaque ocorreu violação preliminar do art. 1.022, II, do CPC/2015, pois o Tribunal de origem não teria se manifestado sobre o art. 240, § 1º, do mesmo Código. No mérito, afirma que foram ofendidos os arts. 174 do CTN e 240, § 1º, do CPC/2015, além de que houve divergência jurisprudencial.
+Aponta, em suma, que a Execução Fiscal contra ele promovida está prescrita e que " ..  a simples ausência do pagamento do tributo não autoriza a inclusão do sócio da pessoa jurídica no polo passivo da ação executiva" (fl. 166, e-STJ).
+Contrarrazões às fls. 181-198, e-STJ.
+Sem contraminuta (fl. 490, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 7/12/2020.
+Cuida-se, na origem, de Agravo de Instrumento interposto por particular contra decisão que afastou sua alegação de prescrição de Execução Fiscal promovida pelo Município de Mogi Mirim/SP e redirecionada a ele, por ser sócio da empresa executada.
+O Tribunal de origem deu parcial provimento ao recursosomente para afastar a aplicação de multa.
+Preliminarmente, constato que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado sob a alegação de que o Tribunal a quo não se pronunciou sobre o art. 240, § 1º, do CPC/2015. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, só muito excepcionalmente admitida.
+No caso, a Corte de origem examinoue decidiu, fundamentadamente, todas as questões postas ao seu crivo, não havendo negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos da decisão recorrida (fls. 123-127, e-STJ):
+O despacho inicial foi prolatado em 06/01/2009 e a citação ocorreu via edital publicado em 26/05/2015 (fls.45), após o insucesso das tentativas de citação nos endereços indicados pela exequente.
+Após o prazo para pagamento do débito ou nomeação de bem, a tentativa de penhora via Renajud restou infrutífera, tendo em vista que não foram encontrados veículos em nome da parte executada (fls.46/49).
+Em razão de tal informação, em 20/04/2016 a Municipalidade requereu a inclusão do representante legal da executada no polo passivo do feito, ora agravante, o que foi deferido (fls. 50/51).
+É sabido que, havendo dissolução irregular da sociedade, o redirecionamento da execução fiscal para os sócios-administradores é possível, conforme previsão dos artigos 135, "caput" e inciso III, do Código Tributário Nacional  .. .
+ ..
+Destarte, considerando-se que a empresa não foi localizada, presumiu-se o encerramento irregular de suas atividades (sem comunicação aos órgãos competentes), fato que permite ao credor o redirecionamento da execução.
+Como já mencionado, a executada foi citada em 26/05/2015, passando a fluir desta data o prazo prescricional de cinco anos para o redirecionamento da execução aos sócios.
+ ..
+Assim, considerando-se que a exequente requereu o redirecionamento dos sócios em 20/04/2016, menos de cinco anos após a citação, o lapso prescricional não havia se esgotado em relação a eles.
+Não há como reformar o entendimento da instância de origem sobre a ocorrência da dissolução irregular da empresa, bem como sobre o fracasso das tentativas de citação, ou mesmo de outros meios de execução da dívida, sem o reexame do conteúdo fático-probatório da causa, vedado emRecurso Especial, conformea Súmula 7 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR. RESPONSABILIDADE DO SÓCIO-GERENTE. ÔNUS DA PROVA. DISTINÇÕES.
+1. Na imputação de responsabilidade do sócio pelas dívidas tributárias da sociedade, cumpre distinguir a relação de direito material da relação processual. As hipóteses de responsabilidade do sócio são disciplinadas pelo direito material, sendo firme a jurisprudência do STJ no sentido de que, sob esse aspecto, a dissolução irregular da sociedade acarreta essa responsabilidade, nos termos do art. 134, VII e 135 do CTN (v.g.: EREsp 174.532, 1ª Seção, Min. José Delgado, DJ de 18.06.01; EREsp 852.437, 1ª Seção, Min. Castro Meira, DJ de 03.11.08; EREsp 716.412, 1ª Seção, Min. Herman Benjamin, DJ de 22.09.08).
+2. Sob o aspecto processual, mesmo não constando o nome do responsável tributário na certidão de dívida ativa, é possível, mesmo assim, sua indicação como legitimado passivo na execução (CPC, art. 568, V), cabendo à Fazenda exeqüente, ao promover a ação ou ao requerer o seu redirecionamento, indicar a causa do pedido, que há de ser uma das hipóteses da responsabilidade subsidiária previstas no direito material. A prova definitiva dos fatos que configuram essa responsabilidade será promovida no âmbito dos embargos à execução (REsp 900.371, 1ª Turma, DJ 02.06.08; REsp 977.082, 2ª Turma, DJ de 30.05.08), observados os critérios próprios de distribuição do ônus probatório (EREsp 702.232, Min. Castro Meira, DJ de 26.09.05).
+3. No que se refere especificamente à prova da dissolução irregular de sociedade, a jurisprudência da Seção é no sentido de que "a não-localização da empresa no endereço fornecido como domicílio fiscal gera presunção iuris tantum de dissolução irregular (EREsp 716.412/PR, Rel. Min. Herman Benjamin, DJe de 22.09.08; EREsp 852.437, 1ª Seção, Min. Castro Meira, DJ de 03.11.08).
+4. No caso, o acórdão recorrido atestou que a empresa não funciona no endereço indicado, estando com suas atividades paralisadas há mais de dois anos, período em que não registrou qualquer faturamento.
+5. Recurso especial improvido.
+(REsp 1.096.444/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 19/03/2009, DJe 30/03/2009)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO. DISSOLUÇÃO IRREGULAR DA SOCIEDADE ACOLHIDA PELA INSTÂNCIA ORDINÁRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que somente é permitido o redirecionamento da execução fiscal aos sócios-gerentes da empresa executada nas hipóteses de obrigações tributárias resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos, ou no caso de dissolução irregular da sociedade empresária, independentemente da natureza do débito excutido.
+2. Na hipótese dos autos, a Corte a quo entendeu caracterizada a dissolução irregular, acolhendo o redirecionamento do feito executivo. Nesse contexto, infirmar as conclusões a que chegou o acórdão recorrido demandaria a incursão na seara fático-probatória dos autos, tarefa soberana às instâncias ordinárias, o que impede o reexame na via especial em virtude do óbice da Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.727.210/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ANULATÓRIA DE RESPONSABILIDADE POR DÉBITO TRIBUTÁRIO. OMISSÃO INEXISTENTE. RESPONSABILIDADE SOLIDÁRIA COM BASE NO ART. 8º DO DECRETO-LEI 1.736/1979. INCONSTITUCIONALIDADE FORMAL RECONHECIDA NO STJ. REDIRECIONAMENTO AO SÓCIO-DEVEDOR. ART. 135, III, DO CTN. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+ ..
+6. Em relação ao redirecionamento da Execução Fiscal para o sócio, modificar o acórdão recorrido, de modo a acolher a tese da recorrente de que está devidamente configurada a dissolução irregular da empresa executada, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial". Precedentes: AgInt no REsp 1.379.776/PR, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 23.10.2017; AgInt no REsp 1.646.648/SP, Rel. Min Gurgel de Faria, Primeira Turma, DJe 28.11.2017.
+7. Agravo Interno provido para conhecer do AREsp e conhecer parcialmente do Recurso Especial, somente quanto à tese de violação do art. 1.022, II, do CPC/2015 para, nessa parte, negar-lhe provimento.
+(STJ, AgInt no AREsp 1.642.786/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 07/05/2020)
+No que concerne à alegação de prescrição, o entendimento firmado pelo Órgão julgador está em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual, em Execução Fiscal, "constituindo a citação da pessoa jurídica o marco interruptivo da prescrição, extensível aos devedores solidários (art. 125, III, do CTN), o redirecionamento com fulcro no art. 135, III, do CTN deve ocorrer no prazo máximo de cinco anos, contado do aludido ato processual (citação da pessoa jurídica)" (REsp 1.201.993/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 08/05/2019, DJe 12/12/2019).
+Se a citação da empresa da qual o recorrente é sócio ocorreu em 26/05/2015 e a solicitação de redirecionamentoem 20/04/2016 (fls. 123-127, e-STJ), não há que se falar em prescrição, já que o prazo de cinco anos não foi desrespeitado.
+Por fim, em relação ao dissídio jurisprudencial, destaco que fica prejudicado o seu exame se a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional. Assim:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANO MORAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO URBANO DE TRANSPORTE COLETIVO DE PASSAGEIROS. IMPORTUNAÇÃO OFENSIVA AO PUDOR. RESPONSABILIDADE OBJETIVA.
+1. Ação de compensação por dano moral.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7 do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não-usuários do serviço.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.669.120/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/09/2020, DJe 17/09/2020, grifei)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
