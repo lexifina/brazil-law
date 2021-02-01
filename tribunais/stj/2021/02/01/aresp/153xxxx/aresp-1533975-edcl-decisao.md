@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Gaivotas Empreendimentos Imobiliários SPE Ltda. e Graúna Construções Civis Eireli à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 347):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. 1. ÍNDICE DE CORREÇÃO MONETÁRIA. QUESTÃO NÃO SUSCITADA NOS ACLARATÓRIOS. TESE DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONHECIDA. 2. DEMAIS QUESTÕES. AUSÊNCIA DE OMISSÃO. 3. REDISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. 4. HONORÁRIOS SUCUMBENCIAIS. EXISTÊNCIA DE CONDENAÇÃO. BASE DE INCIDÊNCIA. VALOR DA CONDENAÇÃO. PRECEDENTE DA SEGUNDA SEÇÃO. 5. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, PROVER-LHE EM PARTE.
+Em suas razões (e-STJ, fls. 354-359), sustentam que a decisão embargada seria contraditória ao afirmar não ser possível aferir o percentual em que cada parte foi vencedora e vencida e, ao mesmo tempo, majorar a verba honorária em desfavor do único insurgente.
+Pretendem o acolhimento dos aclaratórios, com efeitos infringentes, para que seja reduzida a verba honorária fixada em seu desfavor, sob a assertiva de que esta relatoria teria incorrido em reformatio in pejus ao redimensioná-la, bem como sejam arbitrados honorários sucumbenciais em favor de seus causídicos.
+Sem impugnação (e-STJ, fl. 362).
+Brevemente relatado, decido.
+Os embargos de declaração constituem modo de impugnação à decisão judicial de fundamentação vinculada, sendo apenas cabíveis nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, a omissão, a obscuridade e contradição, bem como para sanar erro material.
+O recurso em comento visa unicamente aperfeiçoar as decisões judiciais, de modo a prestar a tutela jurisdicional de forma clara e completa, não tendo por finalidade revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissão, prestam-se os aclaratórios a modificar o julgado.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ADICIONAL DE QUALIFICAÇÃO. REQUISITOS PARA PERCEPÇÃO. ART. 56, INCISO III, §§ 4 E 5º, DA LEI 11.907/09. AUSÊNCIA DE REGULAMENTAÇÃO. IMPERTINÊNCIA DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. INCAPACIDADE DE INFIRMAR O ARESTO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO NÃO COMBATIDO. SÚMULA 283/STF. SÚMULA 126/STJ. EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DAS HIPÓTESES PREVISTAS DO ART. 1.022 DO CPC/2015. PRETENSÃO DE REEXAME E ADOÇÃO DE TESE DISTINTA.
+1. Nos termos do art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual se deveria pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material.
+2. Não são cabíveis os embargos de declaração cujo objetivo é ver reexaminada e decidida a controvérsia de acordo com tese distinta.
+(..)
+Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no REsp 1589590/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/08/2016, DJe 23/08/2016)
+No caso, verifica-se que assiste parcial razão às embargantes.
+Com efeito, o Tribunal de origem havia fixado a verba honorária no patamar de 11%sobre o valor da causa (R$ 12.712,65 - doze mil, setecentos e doze reais e sessenta e cinco centavos). Na decisão ora embargada, esta relatoria conheceu do agravo para dar parcial provimento ao recurso especial das ora embargantes, a fim de adotar o valor da condenação como base para o cálculo dos honorários sucumbenciais, arbitrando-os no percentual de 20% (vinte por cento) sobre o valor da condenação (75% de R$ 14.137,38 - quatorze mil, cento e trinta e setereais e trinta e oito centavos).
+Nesse sentido, observa-se que, ao redimensionar os honorários- arbitrados em desfavor das ora embargantes -, esta relatoria realmente incorreu em reformatio in pejus, pois fixou a verba em quantia superior à estabelecida pela segunda instância.
+Dessa forma, impõe-se a redução da verba honorária para o percentual de 11% (onze por cento) sobre o valor da condenação.
+No mais, inexiste contradição na decisão monocrática por ter aplicado o enunciado n. 7 da Súmula do STJ à pretensão de arbitramento de honorários sucumbenciais em favor dos causídicos das ora embargantes.
+Conforme consignado na decisão embargada, é entendimento desta Corte Superior que a conclusão pela existência de sucumbência mínima ou recíproca das partesé questão que não comporta exame na via especial, por envolver aspectos fáticos e probatórios.
+Ante o exposto, acolho em parte os embargos de declaração apenas para redimensionar os honorários sucumbenciais devidos à parte contrária, fixando-os no patamar de 11% (onze por cento) sobre o valor da condenação.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. 1. HONORÁRIOS SUCUMBENCIAIS. NECESSIDADE DE REDIMENSIONAMENTO. PRINCÍPIO DA VEDAÇÃO DA REFORMATIO IN PEJUS. 2. PRETENSÃO DE FIXAÇÃO DA VERBA HONORÁRIA EM FAVOR DOS CAUSÍDICOS DAS EMBARGANTES. AUSÊNCIA DE CONTRADIÇÃO. 3. EMBARGOS PARCIALMENTE ACOLHIDOS, COM EFEITOS INFRINGENTES.
