@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido liminar impetrado em favor de JEIZIEL DE OLIVEIRA ROSA apontando como autoridade coatora o Tribunal de Justiça do Estado de Goiás (HC n. 5267175-18.2020.8.09.0000).
+Consta dos autos que o paciente foi preso em flagrante, custódia essa convertida em preventiva, pela suposta prática dos crimes previstos no art. 33 da Lei n. 11.343/2006 e no art. 16 da Lei n. 10.826/2003, ante a apreensão de 50 munições calibre 9mm, uma arma de fogo calibre 380, 17 munições calibre 380, cerca de 650g (seiscentos gramas) de maconha e de 2,5g (dois gramas e cinco decigramas) de cocaína, além de 46 comprimidos de ecstasy - e-STJ fls.132/137.
+Impetrado habeas corpus no Tribunal de origem objetivando a soltura do paciente, a ordem foi denegada nos termos da seguinte ementa (e-STJ fl. 207):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO. FLAGRANTE ILEGAL. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DOS REQUISITOS DA CUSTÓDIA CAUTELAR. PREDICADOS FAVORÁVEIS. MEDIDAS CAUTELARES. INSUFICIENTES. VIOLAÇÃO DE PRINCÍPIOS.INOCORRÊNCIA. 1 - Eventuais irregularidades na prisão flagrancial restam superadas, ante o superveniente decreto da prisão preventiva. 2 - Não há ilegalidade a ser reparada pela via do remédio heroico, mormente quando atendido o princípio constitucional da motivação das decisões e as circunstâncias fáticas recomendam a manutenção da custódia cautelar do paciente. 3 - Restando comprovadas a inadequação e a insuficiência da substituição da custódia provisória por quaisquer das medidas cautelares alternativas elencadas no art. 319 do CPP, não há que se falar ilegalidade do constrangimento. 4 - Condições pessoais favoráveis não têm o condão de isoladamente desconstituir a custódia preventiva, se circunstâncias outras justificam a medida extrema. 5 - Não viola os direitos e garantias constitucionais, pois o inciso LXI do artigo 5º da Constituição Federal permite a possibilidade de prisão por ordem escrita e fundamentada da autoridade competente, requisito implementado no caso. ORDEM CONHECIDA E DENEGADA
+No presente writ, sustenta o impetrante a ilegalidade da prisão em razão da não realização da audiência de custódia e da violação de domicílio sem ordem judicial, bem como alega inexistir motivação idônea para a segregação antecipada, visto que não apontada, concretamente, a presença dos requisitos do art. 312 do Código de Processo Penal.
+Aduz que militam em favor do paciente condições pessoais favoráveis, tais como primariedade, bons antecedentes, residência fixa e ocupação lícita.
+Busca, inclusive liminarmente, seja revogada a custódia cautelar do paciente.
+Liminar indeferida às e-STJ fls. 211/213.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writou pela denegação da ordem (e-STJ fls. 252/257).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência de sentença condenatória em desfavor do ora paciente.
+Assim, fica sem objeto este writ à vista da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTENHA A CUSTÓDIA CAUTELAR. NOVO TÍTULO. P REJUDICIALIDADE DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cediço que não cabe a interposição de embargos de declaração contra decisão monocrática que julga prejudicado recurso, mas, em consonância ao princípio da fungibilidade recursal, há que se receber esta irresignação como agravo regimental.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no RHC 78.448/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017.)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
