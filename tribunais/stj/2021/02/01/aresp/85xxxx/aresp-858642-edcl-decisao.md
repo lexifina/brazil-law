@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BILLA SANT"ANA RANGELcontra decisão em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, em virtude da ausência de ofensa do art. 535 do CPC/1973, da incidência da Súmula 7 do STJ em relação a ambas as alíneas do permissivo constitucional, além do fato de que o apelo nobre não se presta à análise de insurgência fundada em dispositivos da Constituição Federal,nem em súmula (e-STJ fls. 715/720).
+A parte embargante alegaomissão no julgado, porquanto não houve pronunciamento acerca de alegações de suma relevância ao deslinde da controvérsia, em especial, no que se refere à falha do ente público ao deixar de dar cumprimento ao caráter mandamental do julgado, bem como relação à iliquidez das parcelas, em flagrante ausência de plena prestação jurisdicional.
+Acrescenta que não pretende a análise de matéria fático-probatória.
+Busca, ao final, o acolhimento dos aclaratórios de forma a vir explicitada e aclarada a situação processual havida.
+Impugnação às e-STJ fls. 861/866.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+In casu, não ocorreu nenhum dos vícios supracitados.
+Com efeito, na decisão embargada, ficou explicitamente registrado que o recurso especial não é o remédio processual adequado para conhecer de insurgência fundada na alegada afronta a preceito constitucional (art. 5º, XXXVI, da CF).
+Tratou-se de firmar, também, que a análise acerca da apontada violação deSúmulas (106 do STJ e 216 do STF), resta obstada por não se enquadrarem no conceito de lei federal, na forma do art. 105, III, "a", da CF.
+Com relação à apontada violação do art. 535 do CPC/1973, igualmente, carece odecisumembargado de omissão, posto queos elementos e fundamentos postos no acórdão recorrido foram sopesados, de modo a concluir que não se configurou a negativa de prestação jurisdicional, por parte do Tribunal de origem, como entendeu a parte ora embargante.
+Além do mais,ficou firmado que a pretensão recursal esbarra no óbice da Súmula 7 do STJ, tendo em vista que, para alterar a conclusão de que a alegação de existência de valores pendentes ocorreu quando já havia ocorrido a prescrição, seria necessária a análise do suporte fático-probatório dos autos.
+Posto isso,observa-se que, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco rebater uma a uma das premissas trazidas, desde que os argumentos utilizados tenham sido suficientes para o embasamento da decisão, tal como se dá na espécie. Nesses termos:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACÓRDÃO LIVRE DE OMISSÃO. TRIBUTÁRIO. EXECUÇÃO FISCAL. O SIMPLES PEDIDO DE PARCELAMENTO DE CRÉDITO TRIBUTÁRIO QUE ESTEJA EM FASE DE COBRANÇA JUDICIAL E GARANTIDO POR PENHORA, SE NÃO FOR INFORMADO AO JUIZ DA EXECUÇÃO ANTES DA ARREMATAÇÃO, NÃO TEM O CONDÃO DE SUSPENDER A EXIGIBILIDADE DA DÍVIDA EXECUTADA, PARA O QUE SE EXIGE, AINDA, A HOMOLOGAÇÃO DO PARCELAMENTO. PRECEDENTES DO STJ. ACÓRDÃO, QUE, ADEMAIS, É EXPRESSO AO AFIRMAR A MÁ-FÉ DA RECORRENTE EM DEIXAR DE COMUNICAR, TÃO LOGO FOSSE POSSÍVEL, A REALIZAÇÃO DO PARCELAMENTO, AINDA QUE TAL COMUNICAÇÃO TENHA OCORRIDO ANTES DA ARREMATAÇÃO. SÚMULA 7/STJ. NEGADO PROVIMENTO AO AGRAVO REGIMENTAL.
+1. Trata-se, na origem, de embargos à arrematação em execução fiscal do INSS em que a executada alega a suspensão do crédito tributário pelo parcelamento e sua comunicação ao Juízo antes da arrematação, pleiteando, assim, sua desconstituição.
+2. A alegada violação ao art. 535, II do CPC não ocorreu, pois a lide foi fundamentadamente resolvida nos limites propostos. As questões postas a debate foram decididas com clareza, não se justificando o manejo dos Embargos de Declaração. Ademais, o julgamento diverso do pretendido não implica ofensa à norma ora invocada. Tendo encontrado motivação suficiente, não fica o órgão julgador obrigado a responder, um a um, todos os questionamentos suscitados pelas partes, mormente se notório seu caráter de infringência do julgado. Precedente: AgRg no AREsp 12.346/RO, Rel. Min. ARNALDO ESTEVES LIMA, DJe 26.08.2011.
+ ..
+5. Agravo Regimental desprovido. (AgRg no AREsp 163.417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014).
+Nesse contexto, exsurge certo que não há nenhuma omissão a ser sanada.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
