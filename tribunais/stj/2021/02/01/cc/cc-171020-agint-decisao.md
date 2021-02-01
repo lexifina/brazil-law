@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo interno (fls. 212/267e), interposto pelo MUNICÍPIO DE BARRA BONITA, mediante o qual se impugna decisão, de minha lavra, que conheceu do Conflito de Competência para declarar competente o Juízo do TRIBUNAL REGIONAL DO TRABALHO DA 15ª REGIÃO, ao fundamento de que, "nos termos do art. 31 da Lei Complementar 117/2014, o vínculo empregatício firmado com o ente público regeu-se pela Consolidação das Leis do Trabalho" (fl. 206e).
+Sustenta a parte agravante, em suma, o seguinte:
+"Data venia, mostra-se imprescindível o provimento do agravo interno do Município.
+Em relação ao mérito da demanda, resta improcedente em razão da ADI nº 2098696- 76.2019.8.26.0000 que declarou a inconstitucionalidade do cargo exercido pelo servidor, qual seja de "Assessor da Secretaria Municipal de Controle Ambiental".
+Transcrevemos trecho da ADI, assim fundamentada:
+(..)
+Por esta razão, incabível que a ação seja julgada na Justiça do Trabalho, e sua equivocada procedência pode resultar na necessidade futura de o agravante ingressar com ação rescisória em razão de eventuais pagamentos que forem realizados indevidamente ao agravado, como forma de evitar dano ao erário e enriquecimento ilícito da parte autora.
+De tal modo, a decisão recorrida possui entendimento divergente da própria Ministra relatora em outros julgados, de outros Ministros da mesma turma, contrariando, ademais, entendimento do STF sobre o tema.
+Portanto, a Fazenda Municipal espera a reforma da r. decisão que declarou a competência da Justiça do Trabalho para julgamento da demanda"(fls. 227/2285e).
+Tendo em vista a relevância dos argumentos esposados pela parte agravante, reconsidero a decisão de fls. 202/207e.
+Passo, novamente, à análise do Conflito de Competência.
+Trata-se de Conflito Negativo de Competência instaurado entre o JUÍZO DE DIREITO DO JUIZADO ESPECIAL CÍVEL E CRIMINAL DE BARRA BONITA - SP, suscitante, e o TRIBUNAL REGIONAL DO TRABALHO DA 15ª REGIÃO, suscitado, nos autos da Reclamação Trabalhista, proposta por DANIEL GIOCONDO RODRIGUES DE OLIVEIRA, em desfavor de MUNICÍPIO DE BARRA BONITA.
+A demanda foi originalmente distribuída ao Juízo Trabalhista, que declinou de sua competência, em grau de Recurso Ordinário, e enviou os autos à Justiça Comum, nos seguintes termos:
+"No presente caso. o reclamante foi admitido pelo Município para exercer o cargo em comissão de "Assessor da Secretaria Municipal de Controle Ambiental", de 08/04/2014 a 01/01/2017 (fl. 17).
+Eis a jurisprudência do Col. TST:
+(..) Assim, é imperioso concluir que o período do contrato de trabalho em questão possui natureza jurídica de cunho administrativo, sendo da competência da Justiça Comum a análise do conflito.
+Portanto, seguindo o norte traçado pelo STF no julgamento da ADI 3.395-MC, ampliado pela decisão da Reclamação constitucional (Rcl) nº 5.381/AM (DJE 8.08.2008), a Justiça do Trabalho não possui competência material para processar e julgar a presente ação movida por ocupante de cargo cm comissão" (fls. 142/143e).
+O Juízo Estadual, por sua vez, suscitou o Conflito de Competência, nos seguintes termos:
+"O processo, ajuizado na Justiça do Trabalho, no entender desta magistrada, e segundo se infere da inicial, assim se deu justamente em razão da natureza do vínculo celetista de trabalho do autor com o réu, quepleiteia direitos dispostos na Consolidação das Leis Trabalhistas-CLT.
+Assim, inevitável a atração da competência da Justiça do Trabalho para análise e julgamento da presente ação" (fl. 196e).
+De início, dispenso a oitiva do Parquet, em prestígio aos princípios da celeridade e da economia processual e por não estarem envolvidas, na espécie, as temáticas previstas no art. 178 do CPC/2015.
+Conheço do Conflito, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, a teor do que preceitua o art. 105, I, d, da Constituição da República.
+Com razão o Juízo suscitado.
+Em face do advento da Emenda Constitucional 45/2004, a competência para conhecer das ações oriundas da relação de trabalho, abrangidos entes de direito público externo e da Administração Pública Direta e Indireta da União, dos Estados, do Distrito Federal e dos Municípios, passou a ser da Justiça do Trabalho.
+O STF, porém, ao analisar a questão nos autos da ADIn 3.395/DF, em 05/04/2006, referendou liminar anteriormente concedida, que suspendera qualquer interpretação do inciso I do art. 114 da CF/88, alterado pela EC 45/2004, que atribuísse à Justiça do Trabalho a competência para apreciar causas instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Tem-se, pois, que, se o vínculo estabelecido entre o Poder Público e o servidor for estatutário, a competência para análise das controvérsias trabalhistas será da Justiça Comum Estadual ou Federal, conforme o caso, ao passo que, na hipótese de vínculo trabalhista, regido pela CLT, caberá à Justiça Laboral o julgamento dos litígios daí advindos.
+Destaque-se que o Supremo Tribunal Federal já decidiu que "ao examinar a Medida Cautelar na Ação Direta de Inconstitucionalidade nº 3.395, não excluiu da Justiça Trabalhista a competência para apreciar relação jurídica entre o Poder Público e servidor regida pela Consolidação das Leis do Trabalho" (STF, Rcl 8406 AgR-segundo, Relator Min. MARCO AURÉLIO, PRIMEIRA TURMA, julgado em 13/05/2014, DJe 29-05-2014).
+Outrossim, a definição da competência jurisdicional se dá em razão dos elementos identificadores ou constitutivos da demanda, a dizer, as partes, o pedido e a causa de pedir. No caso da Justiça do Trabalho, a causa de pedir é o elemento que atrai sua competência, esta relacionada com a fundamentação jurídica.
+In casu, os autos versam sobre demanda ajuizada por servidora ocupante de cargo em comissão, conforme atestam as portarias de nomeação e exoneração a fls. 64/69e.
+Com efeito, é firme o entendimento no âmbito desta Corte, no sentido de que, o exercício de cargo em comissão atrai a competência da Justiça Comum para julgamento da ação decorrente dessa relação jurídica, o que atrai a incidência da Súmula 218/STJ, segundo a qual "compete à Justiça dos Estados processar e julgar ação de servidor estadual decorrente de direitos e vantagens estatutárias no exercício de cargo em comissão".
+Nesse sentido, assim já decidiu esta Corte, em feitos análogos ao presente: STJ, CC 169.920/MG, Rel. Min. OG FERNANDES, DJe de 18/02/2020; CC 166.686/MG, Rel. Min. SÉRGIO KUKINA, DJe de 28/06/2019; CC 164.375/MG, Rel. Min. OG FERNANDES, DJe de 08/04/2019.
+Ante o exposto, reconsidero a decisão agravada econheço do Conflito para declarar competente o JUÍZO DE DIREITO DO JUIZADO ESPECIAL CÍVEL E CRIMINAL DE BARRA BONITA - SP, ora suscitante, para que, afastada a preliminar de incompetência, prossiga no julgamento do mérito do aludido recurso de apelação, decidindo-o como entender de direito.
+I.
