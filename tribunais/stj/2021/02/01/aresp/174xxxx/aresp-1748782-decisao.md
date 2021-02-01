@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fls. 267-268, e-STJ):
+Apelação cível. Ação anulatória de lançamento fiscal. A sentença julgou a ação improcedente e deve ser mantida. Cinge- se a discussão acerca da ocorrência (ou não) do fenômeno decadencial. O juízo aplicou o direito à hipótese com correição e tecnicidade. Não houve, na hipótese, a materialização da decadência. Inteligência do artigo 173, inciso II do CTN. O fisco municipal realizou o lançamento fiscal tempestivamente. No entanto, o referido lançamento fora alvo de questionamento, em sede judicial, por parte do contribuinte/devedor. Tal fato, por óbvio, impedia o fisco de realizar um novo lançamento, enquanto a questão ainda permanecia sub judice, diante da incerteza dos valores a serem lançados. Sob esse enfoque, havia verdadeira condição suspensiva, diante do fato de ainda estar pendente uma decisão judicial que estabelecesse a legalidade do tributo em referência, de modo especial, o quantum devido. Outrossim, uma vez estabelecido o valor correto a ser lançado, o fisco implementou o que lhe competia: lançou o tributo, depois de encerrada a discussão na esfera judicial, com base no artigo 142, caput e parágrafo único do CTN. Não há, dessarte, lastro jurídico a sustentar as alegações e apontamentos da parte demandante/apelante. Nega-se provimento ao recurso.
+Aponta a parte recorrente, em Recurso Especial, violação, no mérito, do art. 173, I, do Código Tributário Nacional (CTN). Afirma:
+O caso em debate refere-se à anulação de lançamento de IPTU anterior por vício material e à aplicação do inciso I do artigo 173 do CTN
+(..)
+O lançamento do IPTU de 2004 do imóvel inscrito na Prefeitura de Mauá sob o no 09.002.014, na época própria, foi objeto de ação anulatória de lançamento fiscal, processo no 0002990-51.2004.8.26.0348, que tramitou perante a 5a Vara Cível da Comarca de Mauá.
+Ao final de todo o trâmite processual, restou consignada em definitivo a anulação do lançamento efetuado no exercício de 2004
+Pela leitura integral da sentença, em especial da passagem acima destacada, resta claro que o motivo para anulação do lançamento do IPTU do exercício de 2004 do imóvel no 09.002.014 foi ocasionado pela existência de vício material, decorrente da ilegalidade na majoração do tributo.
+A anulação do lançamento por ilegalidade na majoração do tributo é considerada vício material, o que enseja a contagem do prazo de decadência nos termos do artigo 173, inciso I, do CTN.
+No entanto, a Colenda Câmara do TJ/SP ao proferir o acórdão de folhas 266/271 perpetrou a ofensa ao artigo 173 do CTN ao desconsiderar a anulação do IPTU por vício material.
+No entendimento da Desembargadora Beatriz Braga da 18a Câmara de Direito Público, destaque-se, oposto ao manifestado anteriormente, o artigo 173 não tem nenhuma influência, sendo a simples existência de ação judicial questionando o tributo suficiente para prorrogar o prazo decadencial.
+A única causa possível para alterar o prazo decadencial de lançamento tributário está prevista na exceção do inciso II do artigo 173, CTN, quando o lançamento é anulado por vício formal, o que frise-se, não ocorreu no presente caso.
+Ressalte-se que não havia nenhuma causa impeditiva ou suspensiva para evitar o lançamento tributário.
+Desse modo, tem-se que novo lançamento do IPTU do exercício de 2004 do imóvel cadastrado na Prefeitura de Mauá sob o no 09.002.014, só poderia ser efetuado dentro do prazo decadencial de 5 (cinco) anos, contados a partir do seu termo inicial, qual seja "primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado".
+Assim, o termo inicial para contagem do prazo decadencial do lançamento de IPTU do exercício de 2004 é 01/01/2005, e seu termo final ocorreu em 01/01/2010. 01/01/2010.
+O novo lançamento efetuado pela Prefeitura Municipal, para o qual pretende- se a anulação, ocorreu apenas em agosto/2014 (folhas 73/80), ou seja, transcorridos mais de 10 (dez) anos do fato gerador e mais de 4 (quatro) anos após o término do prazo decadencial.
+Portanto, resta claro que o crédito tributário de IPTU do exercício de 2004 do imóvel nº 09.002.014, que ora é exigido pela RECORRIDA, está extinto pela decadência, nos termos do artigo 156, inciso V 7 , do CTN.
+Contrarrazões às fls. 296-308 , e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3 de dezembro de 2020.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (fls. 270-271, e-STJ):
+Na espécie, o fisco municipal realizou o lançamento fiscal tempestivamente. No entanto, o referido lançamento fora alvo de questionamento, em sede judicial, por parte do contribuinte/devedor.
+Tal fato, por óbvio, impedia o fisco de realizar um novo lançamento, enquanto a questão ainda estava sub judice, uma vez que havia incerteza acerca dos valores a serem lançados, isto é, o lançamento só poderia ser feito quando houvesse definição da questão pelo judiciário.
+Sob esse enfoque, havia verdadeira condição suspensiva, diante do fato de ainda estar pendente uma decisão judicial que estabelecesse a legalidade do tributo em referência, de modo especial, o quantum devido.
+Assim sendo, a fazenda não poderia efetuar novo lançamento, inscrevê-lo na dívida ativa e ajuizar a correlata demanda executiva, já que não havia certeza acerca da obrigação tributária.
+Por conseguinte, não prosperam alegações no sentido do reconhecimento da decadência do lançamento fiscal, pois após o desenrolar do processo, uma vez estabelecido o valor correto a ser lançado, o fisco implementou o que lhe competia: lançou o tributo, depois de encerrada a discussão na esfera judicial, com base no artigo 142, caput e parágrafo único do CTN.
+Não se operou, portanto, a decadência da constituição e lançamento do crédito fiscal.
+O caso demanda, portanto, seja ratificado o julgado recorrido, nos termos facultados pelo artigo 252 do Regimento Interno deste E. Tribunal de Justiça. O dispositivo faculta às relatorias recursais da segunda instância a manutenção integral das decisões recorridas quando suficientemente motivadas aquiescerem com estas e seus respectivos fundamentos.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Assim, afasta-se de ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
