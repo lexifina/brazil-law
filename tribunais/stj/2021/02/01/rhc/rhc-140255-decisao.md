@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpuscom pedido liminar interposto por CLEIFIMAR LIBERIO DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC n.1.0000.20.566826-2/000).
+Depreende-se dos autos que o recorrente cumpre pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime fechado, mais 668 (seiscentos e sessenta e oito) dias-multa, pela prática do delito tipificado no art. 33,caput, da Lei n. 11.343/2006.
+O Juízo da Vara de Execuções Penais da Comarca de Buritis/MG indeferiu ao réu opleito de progressão antecipada de regime e posterior prisão domiciliar em razão da atual pandemia (e-STJ fs. 320/322).
+Posteriormente, foram declarados remidos 33 (trinta e três) dias do total da pena privativa de liberdade a ser cumprida pelo sentenciado (e-STJ fls. 353/354).
+Foi impetradohabeas corpusna origem, em que se postulouo reconhecimento do lapso em que o réu permaneceu preso provisoriamente; no entanto, o Tribunal local não conheceu da ordem em acórdão assim ementado (e-STJ fl. 398):
+HABEAS CORPUS SUBSTITUTIVO DE AGRAVO EM EXECUÇÃO - RETIFICAÇÃO DO ATESTADO DE PENA - INVIABILIDADE DA VIA ELEITA - ORDEM NÃO CONHECIDA.
+- Eventual debate acerca de incidentes da execução penal deve ser realizado em sede de recurso específico previsto em lei, não podendo o presente habeas corpus ser enquadrado como sucedâneo recursal.
+Nesterecurso, a defesa informa que,"conforme consta dos autos, tendo sido condenado a uma reprimenda de 6 (seis) anos e 8 (oito) meses no regime fechado, por ser reincidente, sua progressão para o regime semiaberto ocorreria com o cumprimento de exatos 4 (quatro) anos (3/5), ocorre que, conforme o atestado de pena do recorrente atualizado na presente data, já cumpriu até o momento 4 (quatro) anos e 19 (dezenove) dias, ou seja, além do mínimo legal exigido em lei, sendo que a previsão de alcance do regime semiaberto está prevista para 25/03/2021, a saber, um excesso de mais de quatro meses de cumprimento de pena" (e-STJ fl. 417).
+Alega que, na hipótese,houve negativa de prestação jurisdicional pela Corte estadual aonão conhecer da ordem lá impetrada e aduz morosidade no julgamento do agravo de execução interposto na origem, razão pela qual se mostrou necessária a interposição do presente recurso.
+Reforça que "otempo alusivo à prisão preventiva é tido como de efetivo cumprimento da reprimenda, ou seja, como efetiva execução da pena privativa de liberdade, devendo ser computado para todos os fins e benefícios da execução penal, entre eles, a progressão de regime"(e-STJ fl. 420), nos termos do disposto no art. 387, § 2º do CPP.
+Dessa forma, requer, liminarmente e no mérito, " .. que seja o período da sua prisão preventiva/provisória computada para todos os fins e benefícios da execução da pena, notadamente à progressão de regime, devendo ser determinada a sua progressão de regime em caráter de urgência tendo em vista a implementação do prazo previsto em lei"(e-STJ fl. 422).
+É o relatório.
+Decido.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Na hipótese, os temas em apreço não foram apreciados pelo Tribunal a quo,sob o argumento de que "eventual debate acerca de incidentes da execução pena deverá ser feito em sede de recurso específico previsto em lei, qual seja o Agravo em Execução .. " - e-STJ fl. 400.
+Assim, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias. Informa a própria defesa que já interpôs o recurso de apelação no Tribunal local.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
