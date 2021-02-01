@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdãoassim ementado (fls. 123/124):
+Apelação. Tráfico de drogas. Pleito ministerial visando o afastamento da figura do tráfico privilegiado, a fixação do regime fechado para o início do cumprimento da reprimenda e o afastamento da substituição da pena privativa de liberdade por restritiva de direitos.
+1. Condenação adequada. Prova da materialidade e de autoria. Depoimentos das agentes penitenciárias uniformes e convergentes. Credibilidade que não foi afetada diante da ausência de prova em sentido contrário. Modelo probatório que não se filiou ao sistema das provas legais segundo o qual os meios de prova registrariam valores aprioristicamente determinados pelo legislador. Livre convencimento motivado. Ré confessa.
+2. Dosimetria da pena que merece reparos. Presença de maus antecedentes a serem valorados na primeira e na terceira fase. Inexistência de violação à garantia do ne bis in idem. Precedentes. Reconhecimento da atenuante da confissão espontânea a qual foi utilizada pela i. Magistrada para embasar o édito condenatório. Sumula 545 do STJ. Prática do crime no interior de estabelecimento prisional. Maus antecedentes que impedem a aplicação do redutor previsto no artigo 33, §4º, da Lei de Drogas.
+3. Afastamento da substituição da pena privativa de liberdade por restritiva de direitos.
+4. Fixação do regime inicial semiaberto.
+5. Recurso conhecido e parcialmente provido.
+Apaciente foi condenadapelo crime previsto no art. 33, caput, §4º, c/co art.40, III, todos da Lei 11.343/06, à pena de 2anos, 3meses e 6 diasde reclusão, no regime inicial aberto, substituída a sanção corporal por duas medidas restritivas de direitos, além de 226dias-multa.
+Interposta apelação defensiva, foi o recurso parcialmente provido paraa) reconhecer, na primeira fase, os maus antecedentes; b) afastar a consideração da excessiva quantidade de droga na primeira fase da dosimetria da pena, mantendo-se a fração de aumento em 1/6; c) reconhecer a presença da atenuante da confissão espontânea com redução de pena no patamar de 1/6; d) afastar a figura do tráfico privilegiado; e) fixar o regime inicial semiaberto; f) afastar a substituição da pena privativa de liberdade por restritiva de direitos, readequando, por fim, a pena imposta à réem 5 anos, 10 meses de reclusão, em regime inicial semiaberto, e ao pagamento de 583 dias-multa.
+Neste writ, requerem os impetrantes a aplicação do redutor do art. 33, § 4º, da Lei 11.343/06, bem como de seus consectários legais.
+Por fim, requerema fixação de prisão domiciliar, nos termos do art.318, inciso V, do CPP, eis que a paciente é mulher com filho menor de 12anos.
+É o relatório.
+DECIDO.
+Não havendo divergência da matéria no órgão colegiado, admissível seu examein liminepelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Quanto à dosimetria das penas, a Corte a quoafastou a minorante reconhecida na sentença, sob os seguintes fundamentos (fl. 132):
+Ainda na terceira fase, diante da ausência de elementos indicativos de que a ré se dedicasse à prática de atividades ilícitas, ou mesmo que integrasse organização criminosa, a i. Magistrada reduziu a pena em 2/3. A operação comporta reparo.
+Como exposto, a acusada possui maus antecedentes, consubstanciados por condenação definitiva relacionada com a prática de tráfico de drogas o que, por si só, impede a concessão do beneficio. Não se olvide, nesse sentido, do consolidado entendimento jurisprudencial segundo o qual a afirmação de maus antecedentes, como circunstância judicial desfavorável, e a vedação da causa de diminuição pelo mesmo motivo não implicam violação da garantia do ne bis in idem. Nesse sentido:
+Como se vê, na terceira fase, os maus antecedentes dapaciente obstam a aplicação da minorante do art. 33, § 4º, da Lei 11.343/06, por expressa violação aos requisitos constantes do citado regramento.
+Nesta toada, há de se pontuar que os Tribunais Superiores vêm adotando o direito ao esquecimento para aquelas condenações já transitadas em julgados há muito tempo ou cujo longínquo cumprimento da pena não mais serve para a aferição da personalidade do agente.
+No presente caso, porém, percebe-se que o comportamento delitivo dapaciente não deve ser alcançado pelo direito ao esquecimento, poisa ré já havia sido condenada pela mesma prática delitiva, sendo que, relativamenteao delito considerado para a negativação dos antecedentes, a extinção da pena ocorreu em 12/11/2012 e o crime ora apurado foi cometido em 28/11/2018, transcorrendoapenas 6 anos entre os citados marcos temporais.
+Ademais, esclareço que o Supremo Tribunal Federal, em Sessão de 18/8/2020 e quando da análise do RE n. 593.818/SC, sob o rito de Repercussão Geral, cujo acórdão ainda está pendente de publicação, firmou a tese n. 150: "Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal."
+Por fim, em consulta eletrônica ao site do TJSP, extrai-se a informação de queo v. acórdão transitou em julgado, em 29/10/2020, para o Ministério Público e, em 19/10/2020, para a(s) defesa(s).
+Assim, nos termos do entendimento deste Superior Tribunal de Justiça,não cabe, no caso, a concessão de prisão domiciliar com fulcro no art. 318 do CPP e no entendimento firmado pela Suprema Corte no HC coletivo 146.641/SP, porquanto definitivaa presente condenação.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
