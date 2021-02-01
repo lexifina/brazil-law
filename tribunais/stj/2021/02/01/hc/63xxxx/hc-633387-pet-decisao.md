@@ -1,0 +1,6 @@
+DECISÃO
+Na petição de fls. 96-97, e-STJ, a defesa requer providências por parte deste Superior Tribunal de Justiça, uma vez que o magistrado singular não teria cumprido a decisão proferida nos autos, a qual declarou a nulidade da conversão da prisão em flagrante em preventiva dos requerentes, nos autos do Processo 1524126-40.2020.8.26.0228.
+O Juízo da 5ª Vara Criminal da Comarca de São Paulo/SP, ao ser intimado da decisão desta Corte, decretou a prisão dos réus, ressaltando que "acolho  e  a recente manifestação ministerial de páginas 234/235, referente aos pacientes, estando presentes os requisitos do artigo 312 do Código de Processo Penal, e DECRETO  A  a prisão preventiva dos réus LUCIANO NASCIMENTO DA SILVA e BRUNO ROGER DE ARAÚJO SILVA" (e-STJ, fl. 108).
+De fato, o Ministério Público, instado a se manifestar em pedido de revogação da prisão preventiva dos acusados, requereu, em 2/12/2020, o indeferimento do pedido (e-STJ, fls. 100-101), o que atende àressalva da "possibilidade de nova decretação da prisão, ou aplicação de medidas cautelares previstas no art. 319 do CPP, desde que precedidas de requerimento" (e-STJ, fl. 90).
+Ante o exposto, indefiro o pedido.
+Após cumpridas as diligências, encaminhem-se os autos ao arquivo.
