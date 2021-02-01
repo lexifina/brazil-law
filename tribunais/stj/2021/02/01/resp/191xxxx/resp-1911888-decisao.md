@@ -1,0 +1,83 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por FLAVIO XAVIER DA SILVA, com fundamento no art. 105, III, c, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+"APELAÇÃO - AÇÃO ORDINÁRIA - Soldado PMTemporário - Pretensão de recebimento de décimo terceirosalário, férias acrescidas do terço constitucional, adicionalde insalubridade, adicional de local de exercício, regimeespecial de trabalho policial (RETP), gratificação poratividade de polícia (GAP) e contagem do tempo deserviços para fins previdenciários - Inconstitucionalidadedas Leis ns. 10.029/2000 e 11.064/2002 declarada pelo
+Órgão Especial - Pagamento das vantagens garantidasconstitucionalmente (13º salário e Férias  1/3) -Condições para o pagamento do adicional de insalubridadee do adicional de local de exercício que devem sercomprovadas pela autora - Descumprimento do disposto noartigo 333, inciso I do CPC - Impossibilidade depagamento do RETP e GAP, vantagens pagasexclusivamente a integrantes da corporação - Possibilidadeda contagem do tempo para fins previdenciários, comobservação  Correção monetária e juros de mora - Permanece aplicável o art. 1º-F da Lei nº. 9.494/97, com aredação da Lei nº 11.960/09, pois a definição ainda seencontra pendente em incidente de Repercussão Geral(Tema nº 810 do STF - atrelada ao RE nº 870947) -Sucumbência recíproca _ Sentença de improcedênciareformada - Recurso parcialmente provido" (fl. 155e).
+Ainda inconformada, sustenta a parte recorrente:
+"Trata-se de ação pelo rito comum ordinário em que o recorrentevindicou direito sociais suprimidos ao tempo que serviu como Soldado PMTemporário à Polícia Militar do Estado de São Paulo.
+(..)
+Nas razões de decidir, o MM. Juízo "a quo", não obstante tenhareconhecido a inconstitucionalidade da Lei 10.029, de 20 de outubro de 2000 eLei estadual 11.064, de março de 2002, negou os direitos sociais eprevidenciários do recorrente. Vejamos:
+(..)
+Por essas razões a r. sentença foi guerreada com recurso deapelação.
+Todavia, o E. TJ/SP conheceu do recurso e deu parcial provimentopara reconhecer tão apenas o direito à percepção de diferenças de décimo terceirosalário e férias acrescidas do terço constitucional, bem como ao recolhimento dacontribuição previdenciária com averbação do tempo de serviço. Vejamos odispositivo:
+(..)
+Data venia, este julgamento dissente de sólida jurisprudência dopróprio E. Tribunal de Justiça de São Paulo. E mostraremos essa discrepância deentendimento colacionando um julgado da 11ª Câmara de Direito Público doTJ/SP cujo entendimento deve prosperar no caso concreto.
+(..)
+Por outro lado, como dito acima, a 11ª Câmara de Direito Públicoem demanda que questiona o mesmo direito material assim decidiu o TJ/SP nosautos da Apelação 0010233-94.2012.8.26.0597:
+(..)
+Ora, Ilustres Ministros, trata-se de dois casos em que o direitomaterial é o mesmo, mas o desfecho dado pelo Tribunal de Justiça de São Paulo,sem razão de ser é dispare. Nas duas situações os demandantes foram SoldadosPM Temporários da Polícia Militar do Estado de São Paulo.
+No caso paradigma o demandante teve reconhecimento do direitoao adicional de insalubridade, adicional operacional de localidade (AOL),adicional de local de exercício (ALE). Já na presente demanda esses carosdireitos lhe foram tolhidos.
+Como se sabe, as funções exercidas pelos Soldados PMTemporários eram as próprias dos servidores estatutários. Guarda de quartel,auxiliar de Centro das Operações Policiais e atendente de telecomunicações, etc.
+Portanto, por ter exercido atividades nas mesmas condições dasenfrentadas pelos servidores públicos militares de cargo efetivo e principalmentepor estar sujeito às implicações do Regulamento Disciplinar da Polícia Militar doEstado de São Paulo, o recorrente deve ter declarado os mesmíssimos direitos.
+A r. decisão recorrida confronta os precedentes do Egrégio Tribunalde Justiça de São Paulo em verdadeiro desrespeito ao instituto do contempt ofcourt.
+(..)
+Ora, não se pode negar as garantias sociais elencadas no art. 39,par. 3º, do CF.
+Não se pode negar, ainda, a contabilização desse período paratodos os fins de direito.
+A constituição do Estado de São Paulo traz consignado em seutexto, mais especificamente no artigo 126, o que passa a transcrever:
+(..)
+O tratamento infra-constitucional da matéria é feito pela LeiComplementar Estadual nº 1010/2007, artigo 2º, "caput" e inciso II, nosseguintes termos:
+(..)
+Por fim, vejamos mais alguns julgados do TJ/SP sobre o temadiscutido nos autos:
+(..)
+Deste modo, requer seja reconhecido o preenchimento dosrequisitos do Recurso Especial para conferir ao recorrente os direitos que faz jus"(fls. 164/172e).
+Requer, ao final, "SEJA PROCESSADO, CONHECIDO E TOTALMENTEPROVIDO O PRESENTE RECURSO ESPECIAL, para reformar a r.sentença, consoante os argumentos em alhures, a fim de reconhecer os direitos dorecorrente e condenar a recorrida nos termos da requesta vestibular"(fl. 172e).
+Não foram apresentadas contrarrazões (fl. 202e).
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 208/209e).
+A irresignação não merece prosperar.
+Com efeito, verifica-se que a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo de lei federal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno.
+2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Outrossim,não se presta como aresto paradigma, para fins de comprovação do dissídio jurisprudencial, a indicação de julgado do próprio Tribunal prolator do acórdão recorrido, o que atrai a incidência da Súmula 13/STJ, segundo a qual "a divergência entre julgados do mesmo tribunal não enseja recurso especial".
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COTEJO ANALÍTICO. AUSÊNCIA DE COMPROVAÇÃO NOS MOLDES DOS ARTS. 1.029, § 1º, DO CPC/2015 E 255, § 1º, do RISTJ.
+1. O indigitado dissídio pretoriano não foi comprovado nos moldes exigidos nos arts. 1.029, § 1º, do CPC/2015 (correspondente ao art. 541, parágrafo único, do CPC/1973) e 255, § 1º, do Regimento Interno do STJ, uma vez que as partes recorrentes apenas transcreveram a ementa do julgado que entendeu favorável à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida no precedente invocado como paradigma e no aresto impugnado.
+2. A alegação de dissídio jurisprudencial exige a comprovação da divergência através da juntada de certidões ou cópia dos acórdãos confrontados ou a citação do repositório oficial, autorizado ou credenciado, nos quais se achem publicados, inclusive em mídia eletrônica, o que não ocorreu no caso em tela.
+3. Não se conhece do apelo extremo diante do óbice contido na Súmula 13 do Superior Tribunal de Justiça, segundo a qual "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+4. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.227.348/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 26/06/2018).
+"PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONCESSÃO DE BENEFÍCIO ACIDENTÁRIO. REDUÇÃO DA CAPACIDADE LABORATIVA E NEXO CAUSAL. REVISÃO. REEXAME DE PROVAS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 7/STJ. INCIDÊNCIA. PARADIGMA JULGADO PELO PRÓPRIO TRIBUNAL PROLATOR DO ACÓRDÃO. IMPOSSIBILIDADE. SÚMULA N. 13 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - In casu, rever o entendimento do Tribunal de origem, que consignou que não houve comprovação da incapacidade laborativa, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - É incabível o exame do Recurso Especial pela alínea c do permissivo constitucional, quando incidente na hipótese a Súmula n.
+7/STJ.
+IV - É entendimento pacífico dessa Corte que o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto a parte recorrente, para demonstrar o dissídio jurisprudencial, trouxe como paradigma julgado proferido pelo Tribunal prolator do acórdão recorrido, incidindo na espécie a orientação da Súmula n. 13/STJ.
+V - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+VI - Honorários recursais. Não cabimento.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido" (STJ, AgInt no REsp 1.653.433/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 23/05/2018).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO. DANO MORAL. VIOLAÇÃO DO ART. 267 DO CPC/1973, DOS ARTS. 186 E 927 DO CC/2002 E DO ART. 374, I, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. ALÍNEA "C". DIVERGÊNCIA JURISPRUDENCIAL. ACÓRDÃOS RECORRIDO E PARADIGMA PROFERIDOS PELO MESMO TRIBUNAL. INCIDÊNCIA DO ENUNCIADO 13 DO STJ.
+1. Não se pode conhecer da irresignação contra a ofensa ao art. 267 do CPC/1973, aos arts. 186 e 927 do CC/2002 e ao art. 374, I, do CPC/2015, pois as teses legais apontadas não foram analisadas pelo acórdão hostilizado.
+2. Ressalte-se que não houve sequer interposição de Embargos de Declaração, o que seria indispensável para análise de uma possível omissão no julgado.
+3. Assim, perquirir, nesta via estreita, a ofensa das referidas normas, sem que se tenham explicitado as teses jurídicas no juízo a quo, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+4. No mesmo sentido, os enunciados sumulares 211 do STJ e 356 do STF. Assente no STJ o entendimento de que é condição sine qua non para que se conheça do Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como malferidos.
+(..)
+6. A divergência que enseja a interposição do Recurso Especial ao STJ é aquela verificada entre julgados de tribunais diversos. Caso contrário, esbarra-se no óbice da Súmula 13 desta Corte, in verbis: "a divergência entre julgados do mesmo Tribunal não enseja Recurso Especial".
+7. No caso concreto, o acórdão tido por conflitante foi exarado pelo mesmo Tribunal, a saber, o Tribunal de Justiça do Estado de São Paulo.
+8. Recurso Especial não conhecido" (STJ, REsp 1.705.451/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017).
+Ainda que assim não fosse, deve-se ressaltar que o Recurso Especial interposto pela alínea c do permissivo constitucional, além da comprovação da divergência - por meio da juntada de certidões ou cópias autenticadas dos acórdãos apontados divergentes, permitida a declaração de autenticidade, pelo próprio advogado, ou a citação de repositório oficial, autorizado ou credenciado, em que os julgados se achem publicados -, nos termos do art. 541, parágrafo único, do CPC/73 e art. 255 do RISTJ, exige a demonstração do dissídio, com a realização do cotejo analítico entre os acórdãos, nos termos legais e regimentais, não bastando a mera transcrição de ementas.
+Nesse sentido:
+"PROCESSUAL CIVIL. DECLARATÓRIA DE NULIDADE DE ATO ADMINISTRATIVO C. C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. IMPROCEDÊNCIA DO PEDIDO. REDUÇÃO DE PROVENTOS AO TETO CONSTITUCIONAL. ART. 37, XI, DA CONSTITUIÇÃO FEDERAL. INVOCADA DECADÊNCIA PARA A ADMINISTRAÇÃO PÚBLICA. INEXISTÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICÁVEL. OFENSA A PRINCÍPIOS CONSTITUCIONAIS. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE CONSTITUCIONAL. REVISÃO POR MEIO DE RECURSO ESPECIAL. INVIÁVEL. AUSÊNCIA DE DEMONSTRAÇÃO DE COTEJO ANALÍTICO. AGRAVO INTERNO IMPROVIDO.
+I - No que concerne ao ausência de prequestionamento, verifica-se que a Corte de origem não se pronunciou, ainda que implicitamente, acerca do art. 2º da Lei n. 9.784/99. A análise da controvérsia foi feita, na verdade, sob perspectiva constitucional, mediante análise do dispositivo do art. 37, inciso XI, da Constituição Federal e princípios como o direito adquirido, ato jurídico perfeito e irredutibilidade de vencimentos. Assim, incide no caso o enunciado da Súmula 211 do Superior Tribunal de Justiça.
+II - De outra sorte, o Tribunal de origem, ao decidir a controvérsia, assim o fez com suporte em preceitos eminentemente constitucionais. Incabível a análise da decisão combatida pela via eleita, pois, nos termos do art. 105, III, da CF/88, o recurso especial destina-se à uniformização do direito federal infraconstitucional, sendo reservada ao STF a análise de possível violação de matéria constitucional.
+III - Ademais, o recurso não pode ser conhecido pela divergência, pois os recorrentes não realizaram o necessário cotejo analítico, bem como não apresentaram, adequadamente, o dissídio jurisprudencial. Apesar da transcrição de ementas, deixaram de demonstrar as circunstâncias identificadoras da divergência entre o caso confrontado e os arestos paradigmas.
+IV - Agravo interno improvido" (STJ, AgInt no AREsp 1.145.301/PR, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 21/03/2018).
+Na hipótese, contudo, a parte recorrente não se desincumbiu de seu ônus, porquanto não realizou o cotejo analítico entre os julgados trazidos como paradigmas e o acórdão impugnado, mediante a indicação de circunstâncias que identifiquem ou assemelhem os casos confrontados.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Deixo de majorar os honorários advocatícios, tendo em vista que o Recurso Especial foi interposto contra acórdão publicado na vigência do CPC/73, tal como dispõe o Enunciado administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC").
+I.
