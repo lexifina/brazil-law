@@ -1,0 +1,59 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interpostopeloESTADO DE SÃO PAULOcontra acórdão prolatado, por unanimidade, pela 11ª Câmara de Direito Públicodo Tribunal de Justiça do Estado de São Paulono julgamento de apelação, assim ementado (fls. 623/642e):
+Ação Indenizatória - Responsabilidade Civil do Estado - Criança que foi vitima de disparo de arma de fogo efetuada por policial militar -Nexo causal devidamente comprovado -Caracterização da responsabilidade objetiva do Estado (artigo 37, § 6º, da CF) - Ocorrência de danos morais e de danos estéticos -Valores distintos fixados em face da impossibilidade de reparação de toda dor suportada pelo autor e em razão da irreversibilidade da lesão física (perda do rim direito e da vesícula biliar) - Recurso do autor provido em parte e improvido o recurso da ré.
+Opostos embargos de declaração, foram rejeitados (fls. 653/659e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+i) Art. 20, § 4º, do Código de Processo Civil- "o valor fixado como honorários para esta ação (10% da condenação) que equivale a 30 salários mínimos, há evidente descompasso como o artigo 20, parágrafos 3º. e - 4º. da lei processual civil, pois a quantia fere o princípio da razoabilidade e proporcionalidade" (fl. 672e); e
+ii) Art. 1º-F da Lei n. 9.494/1997 - "a partir de 30 de junho de 2009 (data da publicação e vigência da Lei Federal 11.960/2009), a Fazenda do Estado de São Paulo apenas poderá ser condenada judicialmente a aplicar uma única vez, para fins de correção monetária, remuneração do capital e compensação da mora, os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança" (fl. 680e).
+Alega, ainda, "o laudo pericial concluiu que o recorrido não tem incapacidade laborativa e não é portador de qualquer doença relacionada com o evento, remanescendo apenas uma cicatriz abdominal, que diga-se, pode ser melhorada através de cirurgia plástica. Vê-se, portanto, que não há como indenizá-lo pelo dano físico, mas tão somente pelo dano moral" (fl. 671e).
+Comcontrarrazões (fls. 704/708e), o recurso foi admitido (fls. 748/749e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Quanto à alegação de exorbitância do valor fixado a título de danos morais, observo que o Recorrente não apontou o dispositivo de lei federal que teria sido violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência da orientação contida na Súmula 284, do Supremo Tribunal Federal segundo a qual "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OCUPAÇÃO DE TERRA PÚBLICA. ÁREA DE PRESERVAÇÃO PERMANENTE. DEMOLIÇÃO DE CONSTRUÇÃO. OMISSÃO NÃO CARACTERIZADA. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA N. 280 DO STF. ACÓRDÃO A QUO QUE CONCLUI, COM BASE NOS FATOS E PROVAS DOS AUTOS, PELA IRREGULARIDADE DA EDIFICAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTO AUTÔNOMO INATACADO. SÚMULA N. 283 DO STF. ALEGADA VIOLAÇÃO À LEI FEDERAL. DISPOSITIVOS NÃO INDICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF.
+(..)
+5. Revelam-se deficientes as razões do recurso especial quando o recorrente limita-se a tecer alegações genéricas, sem, contudo, apontar especificamente qual dispositivo de lei federal foi contrariado pelo Tribunal a quo, fazendo incidir a Súmula 284 do STF.
+6. Agravo regimental não provido.
+(AgRg no AREsp 438.526/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 08/08/2014).
+PROCESSUAL CIVIL. JUROS MORATÓRIOS. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL.
+1. Quanto aos juros moratórios, o Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Agravo Regimental não provido.
+(AgRg nos EDcl no AREsp 87.521/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2013, DJe 10/05/2013).
+Verifico que o acórdão recorrido está em confronto com orientação desta Corte, segundo a qual aLei n. 11.960/2009 tem incidência imediata, alcançando, portanto, os processos em andamento.
+Nesse sentido:
+EMBARGOS DE DIVERGÊNCIA. JUROS DE MORA. FAZENDA PÚBLICA.
+A Lei n. 11.960, de 2009, que dispõe sobre os juros de mora devidos pela Fazenda Pública, tem incidência imediata, alcançando, portanto, os processos em andamento.
+Embargos de divergência a que se dá provimento.
+(EREsp 1180065/PR, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 05/11/2014, DJe 16/12/2014)
+No entanto, aaplicação do art. 1º-F da Lei n. 9.494/1997, na redação dada pela Lei n. 11.906/2009, deve obedecer a conclusões do Supremo Tribunal Federal que julgou a constitucionalidade de suas disposições.
+A Primeira Seção desta Corte, em precedente submetido ao rito do art. 543-C do Código de Processo Civil, firmou entendimento segundo o qual, vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou o da condenação, nos termos do art. 20, § 4º, do CPC, ou, ainda, um valor fixo, segundo o critério de equidade, em acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N.º 08/2008. AÇÃO ORDINÁRIA. DECLARAÇÃO DO DIREITO À COMPENSAÇÃO DO INDÉBITO TRIBUTÁRIO. HONORÁRIOS. ART. 20, §§ 3º E 4º, DO CPC. CRITÉRIO DE EQUIDADE.
+1. Vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade.
+2. Nas demandas de cunho declaratório, até por inexistir condenação pecuniária que possa servir de base de cálculo, os honorários devem ser fixados com referência no valor da causa ou em montante fixo.
+3. Precedentes de ambas as Turmas de Direito Público e da Primeira Seção.
+4. Tratando-se de ação ordinária promovida pelo contribuinte para obter a declaração judicial de seu direito à compensação tributária segundo os critérios definidos na sentença - não havendo condenação em valor certo, já que o procedimento deverá ser efetivado perante a autoridade administrativa e sob os seus cuidados -, devem ser fixados os honorários de acordo com a apreciação equitativa do juiz, não se impondo a adoção do valor da causa ou da condenação, seja porque a Fazenda Pública foi vencida, seja porque a demanda ostenta feição nitidamente declaratória.
+5. Recurso especial não provido. Acórdão sujeito ao regime do art. 543-C do CPC e da Resolução STJ n.º 08/2008.
+(REsp 1.155.125/MG, Rel. Ministro CASTRO MEIRA, PRIMEIRA SEÇÃO, julgado em 10/03/2010, DJe 06/04/2010).
+Em regra, a reavaliação do critério de apreciação equitativa adotada pelo Tribunal de origem para a fixação da verba honorária esbarra no óbice da Súmula 7/STJ, ressalvadas apenas as hipóteses excepcionais de valor irrisório ou excessivo.
+O Tribunal de origem, após minucioso exame dos elementos fáticos e probatórios contidos nos autos, reconheceu como adequado o valor fixado a título de honorários advocatícios, nos seguintes termos (fl. 640/641e):
+O provimento da apelação do autor pari fixação de danos físicos e morais revela que se deu a integra procedência do pedido, do que resulta a condenação da ré, sernecessidade de discussão quanto ao disposto no artigo 21 doCódigo de Processo Civil, ao pagamento de honorários advocatício l fixados em 10% do valor da condenação, observando que não háem nosso sistema jurídico, qualquer óbice à condenação daFazenda Pública em pagar honorários fixados em percentual sobre a condenação (..).
+(..)
+Por fim, não merece provimento o reclamo do autor com relação à majoração do percentual relativo ã verbal honorária, uma vez que atende ao disposto no § 4% do artigo 20 do Código de Processo Civil e a base de cálculo já foi elevada com acolhimento da postulação de aumento do valor da condenação.
+No caso, considerando as circunstâncias abstraídas no acórdão recorrido, não vislumbro excepcionalidade a justificar a revisão do quantum fixado, o que enseja a aplicação da Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. OFENSA AO ART. 535/CPC. INEXISTÊNCIA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. ACÓRDÃO ALICERÇADO EM FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. RECONVENÇÃO. NECESSIDADE DE A PRETENSÃO SER CONEXA COM A DO AUTOR. PRECEDENTES. PERÍCIA. REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. FUNDAMENTO BASILAR NÃO ATACADO. SÚMULA 283/STF. SUCUMBÊNCIA. AFERIÇÃO. SÚMULA 7/STJ.
+(..)
+8. Mostra-se inviável a aferição do grau de sucumbência entre as partes, para fins de distribuição da condenação nos honorários advocatícios, tendo em vista a necessidade de revisão do contexto fático-probatório dos autos, providência defesa em recurso especial, ante o enunciado da Súmula 7/STJ.
+9. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.038.925/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/03/2016, DJe 08/03/2016).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. RESTITUIÇÃO DE INDÉBITO PELO IMPORTADOR. PIS/COFINS-IMPORTAÇÃO. OPERAÇÕES POR CONTA E ORDEM DE TERCEIROS. IMPOSSIBILIDADE. ART. 18 DA LEI Nº 10.865/04. LIMITES SUBJETIVOS DO PROVIMENTO MANDAMENTAL. REVOLVIMENTO DO TÍTULO EXECUTIVO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. EMBARGOS À EXECUÇÃO. AÇÃO AUTÔNOMA. REVISÃO DO QUANTUM. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+(..)
+5. No caso dos autos, os honorários foram fixados em 1% sobre o valor do excesso de execução, percentual que não representa valor exorbitante para fins de revisão em sede de recurso especial. É cediço nesta Corte que, salvo as hipóteses excepcionais de valor excessivo ou irrisório, não se conhece de recurso especial cujo objetivo é rediscutir o montante da verba honorária fixada pelas instâncias de origem, a teor do enunciado n. 7, da Súmula do STJ.
+6. Agravo regimental não provido.
+(AgRg no REsp 1573681/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2016, DJe 10/03/2016).
+Posto isso, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, DOU PARCIAL PROVIMENTO ao Recurso Especial, para reconhecer quea Lei n. 11.960/2009 tem incidência imediata, alcançando, portanto, os processos em andamento.
+Publique-se e intimem-se.
