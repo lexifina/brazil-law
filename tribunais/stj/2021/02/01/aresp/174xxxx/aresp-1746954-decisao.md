@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravos em Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 1.648, e-STJ):
+APELAÇÕES CÍVEIS. AÇÃO CIVIL PÚBLICA POR ATOS DE IMPROBIDADE ADMINISTRATIVA. SERVIDOR APROVADO EM CONCURSO PARA EXERCER O CARGO DE TELEFONISTA. NOMEAÇÃO PARA O EXERCÍCIO DE CARGOS EM COMISSÃO APENAS PARA FINS DE MAJORAÇÃO DOS VENCIMENTOS, SEM A EFETIVA REALIZAÇÃO DE ATIVIDADES DE DIREÇÃO, CHEFIA OU ASSESSORAMENTO. CESSÃO DO SERVIDOR PARA REALIZAR SERVIÇOS COMO ESCRIVÃO "AD HOC" EM DELEGACIA DE POLÍCIA, À MINGUA DE CONVÊNIO COM O ESTADO DO PARANÁ. APLICAÇÃO DA LEI 8.429/1992 A AGENTES POLÍTICOS. POSSIBILIDADE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. CITAÇÃO DO MUNICÍPIO E DO ESTADO DO PARANÁ. DESNECESSIDADE. LITISCONSÓRCIO FACULTATIVO. LEGITIMIDADE "AD CAUSAM" DO MINISTÉRIO PÚBLICO. INTELIGÊNCIA DO ARTIGO 17 DA LEI 8.429/1992. JUSTA CAUSA PARA O AJUIZAMENTO DA AÇÃO DEVIDAMENTE APRECIADA NA DECISÃO QUE RECEBEU A PETIÇÃO INICIAL. NULIDADE DO INQUÉRITO CIVIL. EVENTUAL VÍCIO QUE NÃO INVALIDA A AÇÃO CIVIL PÚBLICA PROPOSTA. SENTENÇA DEVIDAMENTE FUNDAMENTADA. NULIDADE INEXISTENTE. DOLO GENÉRICO DOS RÉUS DEVIDAMENTE DEMONSTRADO. ATOS DE IMPROBIDADE DE IMPORTARAM EM ENRIQUECIMENTO ILÍCITO E QUE CAUSARAM DANOS AO ERÁRIO. PREJUÍZOS DEVIDAMENTE COMPROVADOS. NECESSIDADE DE APLICAÇÃO DAS SANÇÕES PREVISTAS NO ARTIGO 12, I E II, DA LEI 8.429/1992. APELO Nº 1 DESPROVIDO. APELO Nº 2 PROVIDO.
+Ivone Sconton Rodrigues, Juliana Aparecida Rodrigues, Alessandra Maria Rodrigues e Mariane Renata Rodrigues apontam, em Recurso Especial, violação, em preliminar, dos arts. 489 e 1022 do CPC, diante da suposta deficiência de fundamentação na decisão que determinou a inclusão das herdeiras do corréu falecido no polo passivo da demanda, para eventual ressarcimento ao erário.
+No mérito, afirmam a ocorrência de contrariedade ao art. 12, I e II, da Lei de Improbidade administrativa, sob o argumento de que " A  cumulação de sanções, reparação e multa, só podem atingir a pessoa do agente e não de seus sucessores, cabendo à estes apenas, no limite das heranças recebidas, efetuar a reparação dos danos causados" (fls. 1421). Requerem, assim, o provimento do recurso para que seja afastada a pena de multa civil aplicada.
+Por sua vez, Gilmar Alves dos Santos e Reinaldo Gimenez Milan aduzem, nas suas razões recursais, ofensa, em preliminar, aos arts. 489 e 1022 do CPC; no mérito, afronta ao art. 12 da LIA, "diante da condenação à perda da atual função pública exercida por GILMAR ALVES DOS SANTOS. Por fim, alegam que as penalidades aplicadas são desproporcionais aos atos ímprobos cometidos.
+Contrarrazões às fls. 1558-1569, e-STJ.
+Contraminuta às fls. 1607-1611, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3 de dezembro de 2020.
+Para maior clareza, analiso separadamente cada recurso.
+1. Agravo em Recurso Especial de Ivone Sconton Rodrigues, Juliana Aparecida Rodrigues, Alessandra Maria Rodrigues e Mariane Renata Rodrigues.
+Preliminarmente, constata-se que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fl.1401):
+Considerando que o ressarcimento ao erário não é penalidade, nos termos apresentados pelo Apelante, é certo que todos os réus - inclusive os herdeiros do falecido Milton de Jesus Rodrigues - devem responder pelo pagamento de multa civil.
+O acórdão recorrido está em sintonia com o entendimento do Superior Tribunal de Justiça no tocante à responsabilização, nos limites da herança, dos sucessores do condenado por ato de improbidade administrativa previsto nos art. 9º e 10º da LIA pelo ressarcimento ao erário e, também, pelo pagamento da multa civil.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Ademais, dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do inciso III doart. 105 da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+2. Gilmar Alves dos Santos e Reinaldo Gimenez Milan
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 06/12/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+(..)
+(AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 13/10/2016, grifei).
+No mérito, vale destacar que, diante do contexto fático delineado no acórdão recorrido, a questão relativa à proporcionalidade, ou não, das penas de suspensão dos direitos políticos e de pagamento de multa civil, demandaria o revolvimento do conjunto fático-probatório dos autos, tarefa vedada nesta via recursal pelo enunciado da Súmula 7/STJ.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Assim, afasta-se de ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+A pena de perda da função pública, em razão da prática de ato de improbidade, deve abranger qualquer função que o condenado exerça no momento da acusação. A hipótese legal é ampla e deve abranger qualquer função que o condenado exerça no momento da condenação.
+3. Conclusão.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravos para não conhecer dos Recursos Especiais.
+Publique-se.
+Intimem-se.
