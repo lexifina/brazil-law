@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de MARJORY AUGUSTO LIMA DE SOUZA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2273009-79.2020.8.26.0000.
+Consta nos autos que o Juízo das Execuções Penais indeferiu o pedido de livramento condicional formulado pelo Apenado sob o fundamento de que é necessária a sua permanênciapor período razoável no regime intermediário (fls. 40-43).
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, o qual não foi conhecido nos termos do acórdão assim ementado (fl. 54):
+"HABEAS CORPUS -IRRESIGNAÇÃO CONTRA A DECISÃO QUE INDEFERIU O PEDIDO DE LIVRAMENTO CONDICIONAL -NÃO ACOLHIMENTO -Inadmissível a utilização do habeas corpus como substituto de recurso ordinário, no caso, o Agravo em Execução, nos termos do artigo 197 da Lei nº 7.210/84. Indeferimento in limine do pedido."
+No presente writ, aduz a Parte Impetrante que não há vedação para o benefício do livramento condicional a quem esteja cumprindo pena em regime fechado.
+Requer, liminarmente e no mérito, seja reconhecida "a ilegalidade da decisão que indeferiu o benefício do livramento condicional" (fl. 10).
+É o relatório.
+Decido o pedido urgente.
+No caso, verifico que a Corte estadual não apreciou a tese ventilada no presente habeas corpus, como se observa dos seguintes trechos (fls. 55-56; sem grifos no original):
+" S e o Paciente não se conformou com decisão proferida pelo Juízo das Execuções, deveria ter expressado tal inconformismo pela via própria, dada a previsão de recurso específico, qual seja, Agravo em Execução.
+Ora, o artigo 197, da Lei 7210/84, dispõe: "Das decisões proferidas pelo juiz caberá recurso de agravo, sem efeito suspensivo".
+Portanto, inadmissível a utilização do Habeas Corpus como substitutivo de recurso ordinário, pois está evidente o intuito reformador das decisões atacadas.
+ ..
+Assim, o presente Habeas Corpus deve ser indeferido in limine, nos termos do artigo 663 do Código de Processo Penal, c.c. o artigo 248 do Regimento Interno deste Egrégio Tribunal de Justiça."
+Dessa forma, sem manifestação do Tribunal de origem no ponto, é vedado a esta Corte Superior examinar tal questão, sob pena de indevida supressão de instância.
+No entanto, ressalto que, apesar de ser o agravo de execução penal orecurso próprio cabível, não há óbice ao manejo do habeas corpus quando aanálise da legalidade do ato coator prescindir do exame aprofundado deprovas e existir possibilidade de lesão à liberdade de locomoção doindivíduo, como na espécie (apreciação daobrigatoriedade de que oApenado passe pelo regime semiaberto para obter o benefício do livramentocondicional).
+Mutatis mutandis, cito os seguinte julgados:
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. EXECUÇÃO PENAL.PROGRESSÃO DEREGIME.HABEAS CORPUSNÃO EXAMINADO PELO TRIBUNAL DE JUSTIÇA POR SERCABÍVEL NA ESPÉCIE AGRAVO EM EXECUÇÃO. SUPRESSÃO DEINSTÂNCIA. AGRAVODESPROVIDO. ORDEM DEHABEAS CORPUSCONCEDIDA DE OFÍCIO.
+1. O pedido de cassação da decisão proferida pelo Juízo das Execuções, quedeterminou a realização de exame criminológico para a análise do pedido deprogressão, não foi apreciado pelo Tribunal a quo, que indeferiuliminarmente à ordem originária por entender que era inviável a análise damatéria, na via do habeas corpus, por haver previsão de recurso específicopara impugnar ato do Juiz das Execuções Penais.
+2. Como a matéria arguida não foi analisada pelo Tribunal a quo, não podeser originariamente examinada pelo Superior Tribunal de Justiça, sob penade indevida supressão de instância. Precedentes.
+3. A existência de recurso específico não inviabiliza a impetração deordem dehabeas corpuspara a aferição de eventual ilegalidade na fase deexecução da pena, quando a análise recai sobre questão pacificada emeramente de direito, consubstanciada na tese a respeito da previarealização do exame criminológico para fins de progressão de regime. Arecusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidadeflagrante.
+4. Agravo regimental desprovido. Ordem dehabeas corpusconcedida, deofício, para determinar que o Tribunal de Justiça do Estado de São Pauloaprecie o mérito do HC n.º 2165621-88.2018.8.26.0000, como entender dedireito." (AgRg no HC 465.318/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA,DJe 10/04/2019; sem grifos no original.)
+"EXECUÇÃO PENAL. RECURSO ORDINÁRIO EMHABEAS CORPUS.INCONFORMISMO COM ASUSPENSÃO DO LIVRAMENTO CONDICIONAL E A NÃO CONCESSÃO DE INDULTO. TEMASNÃO APRECIADOS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ANÁLISE NOPRÉVIOWRIT. POSSIBILIDADE. RECURSO PROVIDO.
+1. Hipótese em que as teses deduzidas neste recurso não foram debatidas nainstância originária pelo Tribunal a quo, ao fundamento de que a estreitavia do habeas corpus não é meio idôneo para análise dos pedidos deconcessão de indulto e revogação de decisão que suspende o benefício delivramento condicional. Impossibilidade de exame por esta Corte, sob penade incorrer em supressão de instância.
+2. Nada obstante a existência derecurso específico, mostra-se cabível aimpetração dehabeas corpussempre que a alegada ilegalidade estiverinfluenciando na liberdade de locomoção do indivíduo, o que ocorre nosautos (AgRg no HC 298.290/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe09/10/2014, e HC 294.717/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe14/10/2014).
+3. Recurso provido para determinar que o Tribunal de origem examine omérito da impetração."(RHC 74.291/RJ, Rel. Ministro RIBEIRO DANTAS,QUINTA TURMA, DJe 28/09/2016; sem grifos no original.)
+Ante o exposto,INDEFIRO LIMINARMENTE a petição inicial. Todavia, CONCEDO a ordemdehabeas corpus, DE OFÍCIO, para determinar que o Tribunal de Justiça doEstado de São Pauloreaprecie, como julgar de direito, o HC n.2273009-79.2020.8.26.0000, afastado o entendimento de que a via eleita éinadequada.
+Publique-se. Intime-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DESNECESSIDADE, NA ESPÉCIE, DE EXAME APROFUNDADO DA PROVA. EXISTÊNCIA DE QUESTÃO DE DIREITO. VIABILIDADE DO MANDAMUS ORIGINÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT INDEFERIDO LIMINARMENTE. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO.
