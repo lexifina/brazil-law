@@ -1,0 +1,15 @@
+DECISÃO
+AGRAVO EM RECURSO ESPECIAL. TRIBUTÁRIO. ICMS. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX CONFIGURADA. AGRAVO CONHECIDO. RECURSO ESPECIAL DA EMPRESA PROVIDO.
+1. Agrava-se de decisão que inadmitiu Recurso Especial de EUCATEX S.A. INDÚSTRIA E COMÉRCIO, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, com a seguinte ementa:
+RECURSO DA EMPRESA IMPETRANTE - Mandado de segurança - Alegação de terem sido efetuados os recolhimentos, em operações de importação por conta e ordem de terceiros, ao Estado do Espírito Santo, nos termos do Convênio ICMS n. 36/3010, editado pelo CONFAZ, que autorizou o Fisco Paulista a reconhecer os aludidos recolhimentos - Ilegalidade da decisão que indeferiu o pedido administrativo de extinção de crédito tributário do Estado de São Paulo - Pretensão da medida que assegure o reconhecimento dos recolhimentos efetuados, ao Espírito Santo, formulado no processo, em cujo bojo tramita o pedido de remissão - Ausência de direito líquido e certo - Ausência de fundamentação por parte da impetrante do recolhimento de imposto, relativamente às operações, no período protegido pelo Convenio 36/2010 e passível de remissão e nas posteriores (após o mês de maio de 2009) - Descumprimento da cláusula segunda do Convênio 36/2010 que excluiu as benesses à operações realizadas por contribuintes que deixaram de observar o Protocolo ICM 23/2009 - Precedente deste Egrégio Tribunal de Justiça de São Paulo - Sentença que denegou a segurança, mantida - Recurso da empresa impetrante, improvido.
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Nas razões do Apelo Nobre, a recorrente alega preliminar de ofensa aos arts. 489 e 1.022 do Código Fux, reputando omisso o acórdão recorrido, não obstante a oposição dos Aclaratórios.
+4. No mérito, apontanegativa de vigência aos artigos 156, V e 173, do CTN, por permitir o acórdãoa suposta cobrança de débitos relativos a fatos geradores ocorridos em 2009 e que não foram objeto de lançamento tributário.
+5. Inadmitido o Recurso Especial, sobreveio Agravo.
+6. É o relatório.
+7. Assiste razão à parte agravante quanto à preliminar do Recurso Especial.
+8. Com efeito, a despeito da oposição dos Aclaratórios, a Corte de origem não apreciou a suposta contradição apontada na análise do contexto fático da cobrança, notadamente a alegação de queas DI que deram causa ao indeferimento do pedido de remissão registradas não foram constituídas no referido AIIM; e de que a verificação de tal afirmativa seria evidenciada pelo cotejo entre o Ato Coator (fl. 135), o auto de infração (fls. 111/126) e manifestação expressa da Administração Pública (fl. 185).
+9. Nesse contexto, evidencia-se a ofensa ao art. 1.022 do Código Fux, a ensejar o retorno dos autos à origem para a adequada prestação jurisdicional em sede de Embargos de Declaração, sanando a omissão apontada.
+10. Ante o exposto, conheço do Agravo para dar provimento ao Recurso Especial da Empresa, determinando o retorno dos autos para nova apreciação dos Aclaratórios, considerando a questão omitida do item 8 desta decisão.
+11. Publique-se.
+12. Intimações necessárias.
