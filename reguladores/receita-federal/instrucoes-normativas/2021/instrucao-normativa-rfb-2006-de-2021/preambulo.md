@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2006, de 29 de janeiro de 2021
+Aprova o programa multiexercício do recolhimento mensal obrigatório (carnê-leão), relativo ao Imposto sobre a Renda da Pessoa Física (IRPF), disponível em ambiente web.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 16 da Lei nº 9.779, de 19 de janeiro de 1999, nos arts. 118 a 123 do Decreto nº 9.580, de 22 de novembro de 2018, e na Instrução Normativa RFB nº 1.500, de 29 de outubro de 2014, resolve:
