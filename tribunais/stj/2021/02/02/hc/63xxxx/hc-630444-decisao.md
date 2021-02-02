@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Wallace Pessanha dos Santos, em que se aponta como autoridade coatora a Oitava Câmara Criminal do Tribunal de Justiça do Rio de Janeiro.
+Consta dos autos que o paciente foi denunciado como incurso no art. 33, caput, da Lei Antidrogas, pela prática da conduta de trazer consigo a quantidade de 280 g de cocaína e 700 tubos de plástico, conhecidos como pinos de eppendorf(fls. 33/34).
+Na sentença (Processo 0000067-54.2019.8.19.0014), o paciente foi condenado pelo Juízo do Cartório da 1ª Vara Criminal da comarca de Campos dos Goytacazes/RJà pena de 4 anos e 2 meses de reclusão, em regime semiaberto, e 416 dias-multa (fls. 46/50).
+Em sede de apelação, a defesa pediu a absolvição do paciente e a redução da pena, bem como a aplicação doart. 33, § 4º, da Lei n.11.343/2006, em fração intermediária, ao argumento de que a quantidade de droga apreendida não é excessiva. AOitava Câmara Criminal do Tribunal de Justiça do Rio de Janeiro negou provimento ao recurso (fls. 14/32).
+No presente writ, a defesa requera aplicação do redutor da pena do art. 33, § 4º, da Lei n.11.343/2006, em fração superior, ao fundamento de não ser a quantidade de drogas excessiva para justificar a fração de apenas 1/6 (fls. 3/13).
+Parecer ministerial opinando pela concessão da ordem (fls. 69/71).
+É o relatório.
+Na dosimetria, para negar o pedido da defesa quanto àelevação da fração relativa à causa de diminuição da pena, o Julgador estadual trouxe como fundamentos (fl. 24):
+ ..  O Magistrado de piso, ao aplicar o redutor acima mencionado, o fez ponderadamente e de maneira fundamentada, ressaltando a natureza e a quantidade de droga apreendida, qual seja, 280 g (duzentos e oitenta gramas) de cocaína, acondicionados em 700 (setecentos)tubos plásticos, tipo eppendorf  .. .
+Entendo que razão assiste à defesa. O paciente é primário e sem antecedentes e a quantidade de drogas, ainda que não seja ínfima, também não se mostra excessiva, a ponto de lhe ser negado a redução do privilégio em sua fração máxima. A justificativa pelanatureza e a quantidade da droga apreendida (280 g de cocaína) não pode ser utilizada em toda a condenação para o tráfico de drogas, uma vez que ao incidir nesse crime, alguma quantidade de drogas sempre será apreendida, e toda a droga é maléfica para a sociedade, de modo que a sua natureza sempre será prejudicial.A fração mínima de diminuição da pena deve reservar-se paracasos extremos, que se mostrem fora da normalidade para o cometimento do delito.
+Na hipótese, vê-se que a pena-base foi fixada no piso mínimo, todas as circunstâncias judiciais do art. 59 do Código Penal foram consideradas favoráveis, o que também deve ser levado em consideração quando sopesada a fração de redução na terceira fase da pena. Assim, aplica-se aqui a fração de 2/3, de modo que a pena definitiva passa a ser de 1 ano e 8 meses de reclusão, e 166 dias-multa.
+O regime de cumprimento da pena deve ser abrandado para o aberto. No entanto, levando-se em consideração que a quantidade de drogas estava acondicionada em porções individuais para o comércio ilícito,não se mostra recomendável a substituição da pena privativa de liberdade por restritiva de direitos, como pedido pela defesa.
+Ante o exposto, concedo a ordema fimderedimensionar a pena do paciente para 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. PEDIDO DA DEFESA PELO AUMENTO DA FRAÇÃO DE REDUÇÃODA PENA DO § 4º DO ART. 33 DA LEI N.11.343/2006. FRAÇÃO MÍNIMA DE 1/6. PACIENTE PRIMÁRIO E SEM ANTECEDENTES. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. POSSIBILIDADE DA APLICAÇÃO DA FRAÇÃO EM 2/3. REDIMENSIONAMENTO DA PENA. REGIME ABERTO.
+Ordem concedidanos termos do dispositivo.
