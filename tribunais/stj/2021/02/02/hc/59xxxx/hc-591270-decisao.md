@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ELIESER CARVALHO PEREIRA DE ALENCAR e LUIZ HENRIQUE GREGORATO contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2062449-62.2020.8.26.0000).
+Os pacientes tiveramas prisõesem flagrante convertidas em preventivas pelo magistrado(fls. 106-107) e foramdenunciados em razão da suposta prática dosdelitosdescritosnosarts. 33, caput, da Lei n. 11.343/2006,c/c o art. 29, caput, do Código Penal.
+O decreto prisional fundou-se naquantidade de entorpecenteapreendida (14porções de cocaína);no fato do paciente ELIESER CARVALHO PEREIRA DE ALENCAR ter oferecido drogas aos policiais, emviatura descaracterizada, situação que demonstra a sua comercialização; epor ele ter empreendido fuga no momento da abordagem policial.
+A defesa alega inexistência de fundamento idôneo paraamparar o decreto preventivo. Afirmaque os pacientes sãoprimários e têm bons antecedentes.
+Requer a revogação das prisõespreventivas ou a substituição por medidas cautelares diversas (art. 319 do CPP).
+O pedido de liminar foi indeferido (fls. 148-150).
+Prestadas as informações (fls. 155-158 e 159-184), o Ministério Público Federal opinou pela denegação da ordem (fls. 191-195).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício de flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção das prisõespreventivas, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 137-139):
+Ao contrário do asseverado na impetração, inexiste qualquer constrangimento ilegal em manter-se os ora pacientes cautelarmente recolhidos ao cárcere, uma vez que, analisados os fatores motivadores da decretação das prisões preventivas, vê-se deverem estes restar confirmados por esta Corte.
+Luiz Henrique Gregorato e Elieser Carvalho Pereira de Alencar foram presos em flagrante em 25 de março de 2020, com a conversão das prisões em preventivas, pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/06.
+Consta do relatório final elaborado pela autoridade policial investigadora que, no dia 25 de março de 2020, na Comarca de São José do Rio Preto, os acusados estavam vendendo e tinham em depósito 14 porções de cocaína, sem autorização legal, que se destinavam a venda, bem como o valor de R$ 20,00 relacionado ao comércio de drogas.
+Informam os policiais civis que, durante diligências investigativas no bairro João Paulo II, ao passarem pelo local dos fatos, avistaram os ora pacientes em atividade de comercialização de entorpecente. Ato contínuo, os policiais teriam abordado Luiz Henrique, sendo que, após revista, localizaram um maço de cigarro com porções de cocaína.
+O corréu Elieser, após perseguição policial, também acabou sendo revistado, portando apenas R$ 20,00 em espécie. Por sua vez, durante abordagem, Luiz Henrique afirmou que a droga era de Elieser e que somente atendeu ao pedido dele, no sentido de pegar o maço de cigarro com as porções de cocaína, afirmando ainda que Elieser realiza a venda de drogas naquele local já havia algum tempo.
+Não obstante, ambos os acusados, em seus respectivos interrogatórios, teriam confessado o comércio de entorpecente (fls. 14 e 16 da ação penal).
+ ..
+Analisado o caso concreto, chega-se a conclusão de não ser efetivamente recomendado que os ora pacientes respondam ao processo em liberdade.
+Existem, ademais, indícios suficientes nos autos de autoria e materialidade delitivas, sem contar o perigo gerado por eventual restabelecimento do estado de liberdade dos imputados.
+Importa ainda consignar que, apesar de os ora pacientes serem tecnicamente primários, o caso ora em apreço exige uma análise mais criteriosa em razão da espécie e da forma como estava acondicionada a substância. Embora a quantidade de entorpecente apreendida seja relativamente pequena, o laudo concluiu tratar-se de "cocaína", substância altamente viciante e dotada de grande potencial nocivo para a saúde dos usuários.
+ ..
+Tudo isso recomenda sejam observadas medidas assecuratórias da ordem pública, do bom andamento da instrução criminal, bem como da aplicação da lei penal, razão pela qual, acaba sendo forçoso reconhecer não ser recomendável que o paciente responda ao processo em liberdade.
+Não se cogita, assim, de decorrer a manutenção das custódias cautelares exclusivamente da gravidade abstrata da conduta, eis que vêm elas escoradas tanto no exame dos pressupostos legais como à situação inerente ao caso concreto.
+No presente caso, a quantidade deentorpecentes apreendida(14porções de cocaína) foi considerada pelo Juízo de primeiro grau  para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para adecretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+Não visualizo, assim, ilegalidade ou abuso de poder que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
