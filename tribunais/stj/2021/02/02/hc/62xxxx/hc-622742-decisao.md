@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em benefício de SEBASTIÃO PEREIRA DA SILVA, contra decisão do Tribunal de Justiça do Estado do Piauí que não conheceu do HC n. 0757145-97.2020.8.18.0000 (e-STJ fls. 79/81).
+Noticia a defesa que o paciente, preso em flagrante em 11/7/2017, convertida a custódia em preventiva e, posteriormente, substituída a segregação por medidas cautelares, dentre elas a monitoração eletrônica (em 31/10/2018), foi condenado, pela suposta prática de tráfico de drogas e associação para o tráfico, sendo negado o direito de recurso em liberdade. O recurso de apelação interposto foi julgado e os embargos de declaração encontram-se pendentes de julgamento perante o Tribunal de Justiça local.
+A defesa pleiteou a revogação das medidas cautelares, nos termos do que havia sido deferido ao corréu Fábio, mas o Tribunal de Justiça local não conheceu da impetração, por se considerar incompetente para a apreciação do pleito, em acórdão assim ementado:
+"HABEAS CORPUS". AUTORIDADE COATORADESEMBARGADOR DO TRIBUNAL DE JUSTIÇA.COMPETÊNCIA PARA PROCESSAR E JULGAR DO C. STJ.NÃO CONHECIDO.1. Quando a autoridade coatora de habeas corpus for desembargador do Tribunal de Justiça dos Estados, a competência para processar e julgar o habeas corpus é do C.STJ, na forma do disposto no art. 105, I, alíneas "a" e "c" da CF/88.3. Habeas Corpus não conhecido. Esta é a decisão impugnada.
+Na presente impetração, a defesa sustenta haver excesso de prazo nas medidas cautelares (cerca de 2 anos) e no total de tempo das restrições impostas ao paciente (3 anos e 3 meses).
+Destaca que ao corréu Fábio foi concedida, pelo Tribunal de Justiça local, a revogação da medida cautelar de monitoramento eletrônico, no bojo do HC n. 0703723-81.2018.8.18.0000, benefício que deve ser estendido ao paciente. Este foi o pedido pleiteado ao Tribunal de origem, e por isso a ordem originária deveria ter sido conhecida.
+Requer o impetrante, liminarmente e no mérito, a revogação das medidas cautelares impostas ao paciente ou, subsidiariamente, a revogação da medida cautelar de monitoração eletrônica.
+A defesa manifesta, por fim, interesse em sustentar oralmente as suas teses.
+A liminar foi indeferida (e-STJ fls. 84-86), as informações foram prestadas (e-STJ fls. 91-397)e o Ministério Público Federal opinou pelo não conhecimento do writ.
+É o relatório, decido.
+Inicialmente, oacórdãoapontadocomo ato coator não atrai a competência para julgamento desta Corte nos termos do art. 105 da Constituição Federal.
+Ainda, está " s edimentado nesta Corte Superior o entendimento segundo o qual o pedido de extensão deve ser formulado nos autos do processo no qual foi prolatada a decisão cujos efeitos se pretende estender, o que não se verifica na presente hipótese."(HC 424.399/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/08/2018, DJe 04/09/2018).
+Ante o exposto, não conheço do presente habeas corpus. Deverá, todavia,o TJPI apreciar o pedido de extensão ofertado,nos autos doHC n. 0703723-81.2018.8.18.0000. Extraia-se, portanto, cópia integral deste HC para fins de juntada e exame no writ em comento.
+Intimem-se.
