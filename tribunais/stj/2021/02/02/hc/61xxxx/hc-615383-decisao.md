@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido de liminar, impetrado em benefício deWillian Andre Pereira Soares, em que se aponta como autoridade coatora a Décima Segunda Câmara Criminal do Tribunal de Justiça de São Paulo.
+Tem-se dos autos que o paciente e outros acusados foram presos em flagrante pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico de drogas, tendo o Juízode Direito da 1ª Vara Criminal da comarca de Jaú/SP, nos autos de n.1500818-44.2020.8.26.0302, homologado a prisão em flagrante e convertido-aem preventiva, com fundamento na garantia da ordem pública e resguardo na aplicação da lei penal (fls. 136/137).
+A defesa, então, impetrouhabeas corpusna Corte estadual, que, por sua vez, denegou a ordem, mantendo a constrição cautelar do paciente (fls. 166/173 -Habeas Corpusn.2105896-03.2020.8.26.0000).
+Daí o presentewrit,em que se alega constrangimento ilegal na prisão preventiva decretada em desfavor do paciente, porque carente de fundamentos a embasar o decreto prisional.
+Diz-se queos fundamentos da prisão cautelar não têm vínculo com o risco concreto à ordem pública, apoiando-se na gravidade abstrata do delito e em elementos que, em tese, servem à comprovação do próprio crime, isto é, a quantidade e natureza de drogas. Em última análise, a decisão está firmada na opinião pessoal e imutável do órgão prolator que acredita não ser viável a concessão de liberdade provisória diante da prática de tráfico, dada sua gravidade(fl. 6).
+Requer-sea concessão liminar da ordempara que seja expedido competente alvará de soltura em favor do paciente, tendo em vista que não estão presentes os requisitos legais para sua manutenção no cárcere.
+A liminar foi indeferida.
+Solicitadas as informações às autoridades apontadas como coatoras, foram prontamente prestadas às fls. 184/203; 206/226.Em seguida, encaminhados os autos ao Ministério Público Federal para parecer que, emitiu relatório favorável pela concessão da ordem, à vista dos fundamentos sintetizados na seguinte ementa (fls. 228/232):
+HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL DECORRENTE DA AUSÊNCIA DE REQUISITOS PARA A PRISÃO PREVENTIVA. POUCA QUANTIDADE. TRÁFICO PRIVILEGIADO. PRECEDENTES. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. CABIMENTO. PELA CONCESSÃO DA ORDEM.
+É o relatório.
+De acordo com as informações obtidas no endereço eletrônico do Tribunal deJustiça de São Paulo, por sentença publicada em 27/1/2021,o ora pacientefoi condenado à pena privativa de liberdade de 9 anos e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 1.399 dias-multa,pela prática dos crimes previstos nos arts. 33 e 35 da Lei n. 11.343/2006, em concurso material, nos autos da Ação Penal n. 1500818-44.2020.8.26.0302, da 1ª Vara Criminal do Foro de Jaú/SP.Na oportunidade, foi-lhe negado o recurso emliberdade.
+Desse modo, na linha da jurisprudência desta Corte, fica prejudicado opedido de análise dos fundamentos da prisão preventiva, uma vez que acustódia decorre, agora, de título diverso, consubstanciado em novosfundamentos, quais sejam, garantia da ordem pública e aplicação da lei penal,cujos requisitos específicos, desafiam, portanto, impugnaçãoprópria no Tribunal de origem.
+Nesse sentido, os seguintesjulgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma,DJe 15/6/2020; AgRg no RHC n. 92.522/AL, minha Relatoria, Sexta Turma, DJe16/3/2020; eAgRg no RHC n. 110.729/MA, minha Relatoria, Sexta Turma, DJe20/2/2020.
+Tal o contexto, julgo prejudicado o presente habeas corpus (arts. 659 do
+CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIADE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS. GARANTIA DA ORDEM PÚBLICA E APLICAÇÃO DA LEIPENAL. NOVO TÍTULO JUDICIAL LEGITIMADOR DACONSTRIÇÃO CAUTELAR QUE DEVE SER ANTES SUBMETIDO À ANÁLISE DO TRIBUNAL AQUO. PRECEDENTES DESTA CORTE SUPERIOR. PERDA DE OBJETO.
+Writ prejudicado.
