@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO SANTOS DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido na Apelação n.0054750-69.2018.8.26.0050.
+Consta dos autos que o Paciente foi condenado
+"a(06) seis anos, (09) nove meses e (20) vinte dias de reclusão e pagamento de 680 (seiscentos e oitenta) dias multa, por incorrer nas penas do artigo 33, "caput", da Lei 11.343/06, também à pena de (03) três anos e (06) seis meses de reclusão e pagamento de (11) onze dias multa, por infração ao artigo 16, parágrafo único, inciso IV, da Lei 10.826/03, e, por fim, à pena de (01) um ano e (02) dois meses de reclusão e pagamento de (11) onze dias multa por incorrer nas penas do artigo 180, caput, do Código Penal. As penas do réu Paulo deverão ser somadas pelo concurso material. As privativas de liberdade em regime fechado de ambos os acusados" (fl. 25).
+O Tribunal de origem negou provimento aos recursos de apelação interpostos pela Defesa e pela Acusação (fl. 27).
+Nas razões do presente writ, a Defesa entende que "deverá ser aplicado o princípio da consunção no que concerne ao delito previsto no artigo 16, parágrafo único, inciso IV, da Lei 10.826/03" (fl. 6).
+Requer, liminarmente e no mérito, que seja aplicado o princípio da consunção para o "crime de tráfico descrito no artigo 33, caput, com a causa de aumento do artigo 40, inciso IV, ambos da Lei 11.343/06 absorver aquele descrito no artigo 16, parágrafo único, inciso IV, da Lei 10.826/03, considerando o aumento mínimo de 1/6" (fl. 8).
+O pedido liminar foi indeferido (fls. 47-50).
+Foram prestadas informações às fls. 54-83.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 85-89).
+É o relatório.
+Decido.
+De início, observa-se que a Corte localconsignouque o crime de posse de arma de fogo de uso restrito foi praticado de maneira autônoma em relação ao delito de tráfico de drogas, razão pela qual não seria possível a sua absorção pela aplicação da majorante prevista no art. 40, inciso IV, da Lei n. 11.343/2006. Vejamos (fl. 35; sem grifos no original):
+"A condenação de Paulo quanto ao delito do artigo 16, parágrafo único, inciso IV, da Lei nº 10.826/03, também era de rigor, tendo em vista que, em sua residência, foi apreendida uma arma de fogo, com numeração raspada, municiada, apta a realizar disparos, conforme atestado no laudo de fls. 209/214, não havendo que se falar, ao contrário do que pretende a defesa, em consunção com o tráfico ou na incidência da causa de aumento prevista no art. 40, IV, da Lei de Drogas.
+E isso porque, em que pese a arma tenha sido encontrada no mesmo local em que foram encontradas as drogas e o dinheiro, o artefato não estava sendo utilizado para a prática do tráfico de drogas, que não foi praticado com violência, grave ameaça ou qualquer processo de intimidação difusa ou coletiva.
+Ressalte-se, ademais, que delito previsto no art. 16, da Lei 10.826/03 é de mera conduta e de perigo abstrato, não exigindo resultado naturalístico para sua configuração"
+Nesse contexto, a revisão da conclusão alcançada acerca da dinâmica dos fatos para atender à pretensão defensiva exigiria amplo reexame fático-probatório, o que não é possível nos estreitos limites do habeas corpus.
+Nesse sentido:
+"HABEAS CORPUS.  ..  TRÁFICO DE DROGAS. ABSOLVIÇÃO. POSSE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. NÃO CONFIGURAÇÃO DE CRIME AUTÔNOMO. INCIDÊNCIA DA CAUSA DE AUMENTO PREVISTA NA LEI DE DROGAS. NECESSIDADE DE REVOLVIMENTO APROFUNDADO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE NA VIA ESTREITA DO MANDAMUS. LIVRE CONVENCIMENTO MOTIVADO. FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO CONDENATÓRIO. COAÇÃO ILEGAL INEXISTENTE.
+1. A pretendida absolvição do paciente quanto ao tráfico de drogas, e a almejada exclusão do delito de posse ilegal de arma de fogo de uso restrito, aplicando-se a majorante prevista no artigo 40, inciso IV, da Lei 11.343/2006, são questões que demandam aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via estreita do remédio constitucional. .. " (HC 384.840/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 01/06/2017, DJe 07/06/2017, sem grifos no original).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. VIOLAÇÃO DE DOMICÍLIO. DENÚNCIA ANÔNIMA. FUNDADAS RAZÕES A JUSTIFICAR A AÇÃO POLICIAL. PRISÃO EM FLAGRANTE. APREENSÃO TOTAL DE 454,5 G DE MACONHA E DE 3.670,6 G DE COCAÍNA, BALANÇAS DE PRECISÃO, ARMAS DE FOGO, MUNIÇÕES, AGENDA COM ANOTAÇÕES DO COMÉRCIO, ELEVADA QUANTIA EM DINHEIRO, ETC. PRINCÍPIO DA CORRELAÇÃO. ADITAMENTO. MERA RETIFICAÇÃO. PRINCIPIO DA CONSUNÇÃO. AUTONOMIA DOS DESÍGNIOS. APREENSÃO DE PISTOLA CALIBRE 9MM EM CONTEXTO DIFERENTE. DOSIMETRIA. NATUREZA E QUANTIDADE DA DROGA. ELEVAÇÃO DA PENA-BASE. ELEMENTOS CONCRETOS. PROPORCIONALIDADE. APLICAÇÃO DA CAUSA ESPECIAL DE REDUÇÃO DA PENA. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME DE FATOS E PROVAS. INVIABILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+ ..
+5. Concluindo as instâncias ordinárias pela autonomia dos desígnios do paciente, bem como pela inaplicabilidade do princípio da consunção, dada a ocorrência isolada dos crimes, é incabível a desclassificação do crime de porte ilegal de arma de fogo de uso restrito para a imputação do art. 40, IV, da Lei n. 11.343/2006, como causa de aumento, ante o inadmissível revolvimento do contexto fático-probatório para adoção de entendimento diferente.
+ ..
+8. Ordem denegada." (HC 422.936/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/05/2018, DJe 11/05/2018; sem grifos no original)
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. POSSE ILEGAL DE ARMA DE FOGO. RECEPTAÇÃO. PRINCÍPIO DA CONSUNÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ORDEM DE HABEAS CORPUSDENEGADA.
