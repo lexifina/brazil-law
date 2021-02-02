@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto por GERÊNCIA HOSPITALAR LTDA, DÉBORA VIVIANE CARDOSO MATOS e GUALBERTO ALFREDO CARDOSO DE MATOS, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/RS.
+Ação: de execução de título extrajudicial proposta por BANCO DO BRASIL S.A. em face dos ora recorrentes.
+No curso da ação, foi deferida a penhora no rosto dos autos de processo de execução, cujo crédito exequendo, segundo alegaram os ora recorrentes, têm natureza alimentar.
+Decisão: deferiu a penhora no rosto dos autos do processo nº 032/1.04.0003051-5, o qual tramita junto ao Juízo da 1ª Vara Cível da Comarca de São Jerônimo/RS.
+Acórdão: negou provimento ao recurso de agravo de instrumentointerposto pelos recorrentes, conforme ementa a seguir:
+AGRAVO DE INTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EXECUÇÃO.CESSÃO DE HONORÁRIOS SUCUMBENCIAIS. IMPENHORABILIDADE.
+Conforme dispõe o IV do artigo 833 do Código de Processo Civil de 2015, são impenhoráveis os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvadas as hipóteses do § 2º do referido dispositivo legal. No caso dos autos, no entanto, verifica-se que tal verba foi adquirida pelo agravante por meio de cessão de crédito, conforme demonstra o Instrumento Particular de Cessão de Direitos e Obrigações (e-fls. 42-43), de modo que não há como reconhecer a extensão da impenhorabilidade à parte agravante. Ademais, quanto ao pedido de impenhorabilidade da verba de até o valor de 50 salários mínimos mensais, sequer há previsão legal para tanto, tendo em vista que o §2º do artigo 833 do Código de Processo Civil apenas possibilita, nos casos do previstos no seu inciso IV, a penhora acima de 50 salários mínimos, não havendo possibilidade de se aplicar o cálculo apresentado pelos agravantes.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Embargos de declaração: opostos pelos recorrentes, foram rejeitados pelo Tribunal local.
+Recurso especial: suscita violação ao art. 833, IV e § 2º, do CPC/2015, além de dissídio jurisprudencial com julgado desta Corte (REsp 1.264.358/SC) e do TJ/RS. Afirmaque o crédito foi recebido pelo devedor originário para pagamento de honorários e foi cedido com a mesma finalidade. Sustenta, com base em precedente deste Tribunal, a possibilidade de penhora apenas do montante que exceder 50 (cinquenta) salários mínimos mensais.
+Admissibilidade: o Tribunal de origem inadmitiu o apelo nobre, ensejando a interposição do recurso cabível, o qual foi convertido em recurso especial, para melhor exame da matéria.
+RELATADOS OS AUTOS, DECIDE-SE.
+I. Do reexame de fatos e provas e da interpretação contratual
+O Tribunal Estadual, ao examinar as provas presentes nos autos, concluiu que:
+No caso dos autos, no entanto, verifica-se que tal verba foi adquirida pelo agravante, Sr. Gualberto Alfredo Cardoso Matos, por meio de cessão de crédito, conforme o Instrumento Particular de Cessão de Direitos e Obrigações (e-fls. 42-43), em processo onde atuou o advogado Dr. Cylon Scherer Rassier, de modo que não há como reconhecer a extensão da impenhorabilidade à parte agravante.
+Cumpre destacar que, realizada a cessão de crédito, o crédito cedido perde a sua natureza alimentar, uma vez que se torna um objeto de negociação. Assim, já não importa a finalidade da cessão, se para pagamento de honorários ou não, pois se está diante de um caráter específico do crédito, que não se estende ao adquirente.
+Assim, entendo por manter a decisão agravada, porquanto o trabalho realizado no processo que originou os honorários cedidos não foi desempenhado pelo agravante, não havendo, desta forma, a proteção da impenhorabilidade.
+Nesse contexto, a alteração do decidido no acórdão recorrido não exigeuma simples revaloração das provas, como refere o recorrente, mas sim verdadeiro reexame do conjunto probatório, além da interpretação do contrato de cessão de créditos celebrado com terceiro, o que é vedadoem sede de recurso especial (Súmulas 5 e 7 do STJ).
+II. Da divergência jurisprudencial
+A interposição do recurso especial sob o fundamento de divergência jurisprudencial inviabiliza o exame do tema, pois: (i) entre os acórdãos trazidos à colação, não há a necessária comprovação da similitude fática, elemento indispensável à demonstração da divergência, nos termos dos arts. 1.029, §1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ; (ii) a utilização de julgado proferido pelo mesmo Tribunal prolator do acórdão recorrido não se presta a demonstrar a divergência jurisprudencial (Súmula 13/STJ), além de que (iii) a incidência da Súmula 7 desta Corte impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+III. Da conclusão
+Forte nessas razões, NÃO CONHEÇO do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUCIAL. PENHORA. ALEGAÇÃO DE IMPENHORABILIDADE. HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Aalteração do decidido no acórdão recorrido não exige apenasa revaloração das provas, como refere o recorrente, mas sim verdadeiro reexame do conjunto probatório, além da interpretação do contrato de cessão de créditos celebrado com terceiro, o que é vedado em sede de recurso especial (Súmulas 5 e 7 do STJ).
+2. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+3. Recurso especial não conhecido.
