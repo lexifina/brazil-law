@@ -1,0 +1,8 @@
+DECISÃO
+De acordo com os autos, ONEIDE GOMES DONADIO e RICARDO GOMES DONADIO, impetraram o presente Mandado de Segurança contra ato do MINISTRO DE ESTADO DA MULHER, DA FAMÍLIA E DOS DIREITOS HUMANOS, consubstanciado na ausência de decisão no Requerimento de Anistia 2002.01.08470 e anexos.
+No acórdão de fls. 171/176e, publicado em 01/09/2020, a Primeira Seção do STJ concedeu, "em parte, a segurança, para o fim de determinar que a autoridade impetrada decida, como entender de direito, no prazo do art. 49 da Lei 9.784/99, o requerimento de Concessão de Anistia n.º 2002.01.08470 e requerimentos anexos".
+Os impetrantes opuseram Embargos de Declaração, requerendo fosse "suprida omissão quanto aos pedidos supracitados - para cominação de astreinte com base no art. 497, do CPC, e 83, §§ 1º e 2º, do Estatuto do Idoso, por dia de não cumprimento da ordem, e aplicação de multa civil no valor de R$ 50,00 (cinquenta reais), com base no art. 58, par. único, do Estatuto do Idoso, desde a data de 04/10/2018 até o seu proferimento" (fl. 191e).
+Tendo em vista o teor do ofício de fls. 206/2010e, no qual a autoridade impetrada informou que a "decisão judicial foi devidamente cumprida, conforme Portaria nº 2.568 (1415968), de 26 de outubro de 2020", os embargantes foram intimados a dizerem, justificadamente, se ainda teriam interesse no julgamento dos Embargos de Declaração de fls. 189/192e.
+Na petição de fl. 224e, os embargantes informam "que não têm interesse no julgamento dos Embargos".
+Ante o exposto, tendo em vista o cumprimento da ordem, pela autoridade impetrada, a manifestação dos embargantes e o disposto nos arts. 34, XI, do RISTJ e 998 do CPC/2015,não conheço dos Embargos de Declaração de fls. 189/192e.
+I.
