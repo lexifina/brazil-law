@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ADRIANO ROBERTO DE SOUSA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n.2089113-33.2020.8.26.0000.
+Consta nos autos que o Paciente foi preso em flagrante, em 10/03/2020, com posterior conversão em custódia preventiva, pela suposta prática do crime disposto no art. 155, § 4.º, inciso I, c.c. o art. 61, inciso II, alíneas e e h, todos do Código Penal, pois, nos termos da denúncia:
+" M ediante rompimento de obstáculo, subtraiu para si 1 bolsa de couro, cor marrom; 1 bolsa térmica, cor amarela, com escrita Crystal Beer; 1 garrafa de cerveja, 600ml, Crystal; 1 lata de cerveja Brahma, 300ml; 1 litro de raiz amarga; 1 litro de Pepper Mint; 1 litro de groselha, marca Arco-Íris; 2 litros de pinga Arara; 3 litros de Paratini; 3 litros de pinga, marca Vila Velha; 1 litro de licor Paulista; 3 frascos de refrigerante, marca Saboraki, 300 ml; 2 frascos de Coca-Cola, 1 litro; 1 lata de Coca- Cola, 350ml; 1 garrafa de refrigerante, marca Roller, 300ml; 1 garrafa pet de 2 litros, marca Furia; avaliados em R$212,00 (duzentos e doze reais) a fls. 28/30; bem como R$ 22,00 (vinte e dois reais) em dinheiro, tudo pertencente à vítima Maria Luzia de Carvalho de Souza, maior de sessenta anos" (fls. 36-37).
+A Defesa pleiteou junto ao Juízo processante a soltura do Réu em razão da pandemia daCovid-19, pleito que foi indeferido, conforme decisão acostada às fls. 42-45.
+Inconformada com a manutenção da prisão preventiva, a Defesa impetrou prévio habeas corpus perante o Tribunal de origem, cuja ordem foi denegada nos termos do acórdão de fls. 46-54.
+Neste writ, a Parte Impetrante sustenta, em síntese, que o Paciente faz jus à "revogação da prisão preventiva e/ou sua substituição por medidas cautelares alternativas em atenção à Recomendação nº 62/2020 do Conselho Nacional de Justiça - CNJ e, igualmente, forte no artigo 316 do Código de Processo Penal - CPP" (fl. 8).
+Menciona o quadro atual da pandemia pelo coronavírus, bem como a precariedade das instalações dos estabelecimentos prisionais no Estado de São Paulo e sua inadequação às necessidades de higiene e salubridade para impedir a contaminação e disseminação da doença, notadamente em razão da superlotação.
+Insurge-se contra a prisão preventiva do Paciente, ao argumento de que sua decretação se deu somente com base na reincidência, o que não é suficiente para justificar o encarceramento cautelar, tampouco o indeferimento da revogação da prisão em razão da pandemia.
+Por fim, alega o excesso de prazo da prisão para a formação da culpa, com base no argumento de que a marcha processual foi interrompida em razão da pandemia do coronavírus.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferido às fls. 59-66.
+As informações foram prestadas às fls. 74-106 e 128-140.
+Às fls. 111-127, a Defesa informa a transferência do Paciente para outra penitenciária, que encontra-se superlotada e aumenta, de forma significativa, o risco de contaminação do Paciente pelo novo coronavírus. Requer, assim, a revisão da prisão preventiva do Acusado.
+O Ministério Público Federal, em seu parecer de fl. 154, opina pela denegação da ordem.
+É o relatório. Decido.
+Conforme informações obtidas junto ao sítio eletrônico mantido pelo Tribunal de origem, em 10/09/2020, foi revogada a prisão preventiva do Paciente, com expedição de alvará de soltura.
+Posteriormente, em 15/01/2021, foi proferida sentença condenatória em desfavor do Paciente, condenando-o àpena de 3 (três) anos e 6 (seis) meses de reclusão, em regime fechado, pelo delito de furto qualificado. Todavia, o Juiz sentenciante afirmou que " p oderá o condenado recorrer em liberdade, pois responde ao processo em liberdade e, por ora, não se vislumbra os requisitos e pressupostos da prisão preventiva (art. 312 e 313 do CPP)."
+Assim, tendo em vista a revogação da prisão preventiva do Paciente e a superveniência de sentença condenatóriaque o permite recorrer em liberdade, observo a perda do objeto do presente mandamus, em que a Defesa se insurgia contra a prisão preventiva do Paciente e contra o aventado excesso de prazo para a formação da culpa, argumentos que não mais subsistem.
+Ante o exposto, JULGO PREJUDICADA a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. FURTO QUALIFICADO. INSURGÊNCIA QUANTO AOS FUNDAMENTOS DA PRISÃO PREVENTIVA E ALEGAÇÃO DE EXCESSO DE PRAZO DA PRISÃO. PRISÃO PREVENTIVA REVOGADA PELO JUIZ DE PRIMEIRO GRAU E SUPERVENIÊNCIA DA SENTENÇA CONDENATÓRIA, PERMITINDO O RECURSO EM LIBERDADE. ORDEM DE HABEAS CORPUS PREJUDICADA.
