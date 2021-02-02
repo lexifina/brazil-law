@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por SHINAIDER IGREJA DA SILVA LOPES, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0024949-88.2020.8.19.0000).
+O recorrente foi condenado em primeiro grau, no dia 29/11/2019, pela prática dos delitos previstos noart. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006, tendo sido mantida a prisão preventiva anteriormente decretada.
+A defesa impetrou habeas corpus no Tribunal de origem, que manteve a segregação cautelar,pois não ficou caracterizado constrangimento ilegal decorrente de excesso de prazo, uma vez que o processo transcorreranormalmente. O Tribunaldestacou ainda a inexistência de fato concreto ou de moléstia grave que justificasse o relaxamento da prisão em razão da pandemia decovid-19.
+O recorrente alega estar sofrendo constrangimento ilegalem razão do excesso de prazo para formação da culpa, sendo cabível a substituição da custódia preventiva por medidas cautelares alternativas (art. 319 do CPP). Aponta ainda inobservância à Recomendação CNJ n. 62/2020.
+Requer, liminarmente e no mérito, a revogação da segregação cautelar.
+A liminar foi indeferida (fls. 194-195).
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso em habeas corpus (fl. 222).
+É o relatório. Decido.
+No que concerne ao alegado excesso de prazo para a formação da culpa, verifica-se, em consulta ao site do Tribunal de origem e aos documentos anexados aos autos, que, em 29/11/2019, o recorrente foi condenado às penas de 9 anos e 10 meses de reclusão em regime inicial fechado e de 1.510 dias-multa, por infração do art. 33, caput, c/c o art.40, VI, da Lei n. 11.343/2006 (Processo n. 0188894-88.2019.8.19.0001).
+Ademais, no dia 10/3/2020, os autos foram remetidos ao Tribunal de origem para o julgamento do recurso de apelação, que, ao que tudo indica, segue regularmente seu curso.
+Registre-se que, "não havendo notícia de qualquer ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie" (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, o recorrente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada, que consignou o seguinte (fl. 32):
+Com relação a alegada pandemia como causa justificadora de medida alternativa à sua prisão, certo é que o pedido formulado se apresenta genérico, sem apontar qualquer fato concreto ou moléstia grave que tenha acometido o paciente, a demandar um atendimento especial, específico e pontual.
+Por fim, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado no recurso em habeas corpus.Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
