@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por Walmir Felipe de Souza Lima contra a decisão proferida pelo Tribunal de Justiça do Amazonas, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele manifestado com fundamento no art. 105, III, a, do permissivo constitucional, impugnando, por sua vez, os acórdãos prolatados na Apelação Criminal n. 0633336-62.2017.8.04.0001 e nos Embargos de Declaração n. 0007262-52.2019.8.04.0000, assim ementado (fls. 253/254 e 310/311):
+EMENTA: PENAL E PROCESSO PENAL. APELAÇÃO CRIMINAL. ROUBO MAJORADO. MAJORANTE DO EMPREGO DE ARMA DE FOGO. DESNECESSIDADE DE LAUDO PERICIAL. ATENUANTE DA CONFISSÃO ESPONTÂNEA. REPRIMENDA FIXADA NO MÍNIMO LEGAL. IMPOSSIBILIDADE DE REDUÇÃO. INTELIGÊNCIA DA SÚMULA 231 DO STJ. INOCORRÊNCIA DE CRIME ÚNICO. CONCURSO FORMAL. FRAÇÃO DE AUMENTO RAZOÁVEL E PROPORCIONAL. RECURSO NÃO PROVIDO.
+1. De acordo com os precedentes do Superior Tribunal de Justiça, bem como da Primeira Câmara Criminal deste egrégio Tribunal, a perícia da arma é prescindível para a caracterização da majorante do art. 157, § 2.º-A, I, do Código Penal, posto que a lesividade do instrumento é in re ipsa.
+2. Por inteligência da Súmula nº 231 do Superior Tribunal de Justiça, o reconhecimento da atenuante da confissão espontânea não pode conduzir a sanção para patamar inferior ao mínimo legal.
+3. Conforme preconiza o art. 70 do Código Penal, o concurso formal de crimes caracteriza-se quando, mediante uma única ação ou omissão, o agente pratica um dois ou mais crimes, sendo que, se era da vontade do autor a prática de todos eles, trata-se de concurso formal impróprio, situação em que as penas devem ser aplicadas cumulativamente.
+4. Na hipótese, é cristalino que o acusado pretendia atingir o patrimônio de mais de um indivíduo, tanto que subtraiu o dinheiro do caixa do estabelecimento e aparelhos celulares de vítimas distintas.
+5. Todavia, o Juízo a quo aplicou a regra do concurso formal próprio, a qual deve ser mantida, em razão da ausência de recurso da acusação, em observância ao princípio da proibição da reformatio in pejus.
+6. O aumento pena na fração de 1/3 (um terço), em razão do concurso formal, revela-se razoável e proporcional ao caso concreto, tendo em vista que a conduta atingiu várias vítimas e diversos patrimônios.
+EMENTA: EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. IRRESIGNAÇÃO QUANTO À DOSIMETRIA. SUPOSTA OMISSÃO. PLEITO NÃO VENTILADO NAS RAZÕES DO RECURSO. MATÉRIA DE ORDEM PÚBLICA. CONCURSO FORMAL. SOMA DAS PENAS. AUSÊNCIA DE DESÍGNIOS AUTÔNOMOS. RECONHECIMENTO DO CONCURSO FORMAL PRÓPRIO. REPRIMENDA MANTIDA. NON REFORMATIO IN PEJUS. EMBARGOS ACOLHIDOS SEM EFEITO MODIFICATIVO.
+1. Nos moldes dispostos no art. 619 do Código de Processo Penal, a oposição de embargos declaratórios exige a presença de ambiguidade, obscuridade, contradição ou omissão.
+2. Não obstante o pleito suscitado sequer tenha sido requerido na apelação, por se tratar de matéria de ordem pública, merece ser apreciado por este Colegiado.
+3. É cediço que o que difere o concurso formal próprio (ou perfeito) e o concurso formal impróprio é o elemento subjetivo do agente, ou seja, a existência ou não de desígnios autônomos.
+4. Na hipótese, assiste razão ao Embargante, na medida em que o Juízo a quo aplicou a regra do concurso formal impróprio e procedeu à soma das penas. Todavia, trata-se de concurso formal próprio, cenário em que a pena mais grave deveria ser acrescida de 1/6 (um sexto) até a metade.
+5. Entretanto, caso operada a reforma, a reprimenda definitiva seria prejudicial ao réu, de modo que a sanção estabelecida pelo Magistrado de Primeiro Grau deve ser mantida, em observância ao princípio da proibição da reformatio in pejus.
+6. Embargos acolhidos, porém sem efeito modificativo.
+Nas razões do especial, apontou a Defensoria Pública ofensa aos arts. 156 e 157, § 2º, I e II, do Código Penal. Sustentou, em resumo, o afastamento da majorante do emprego de arma, dada a ausência de laudo pericial, não sendo possível a inversão do ônus da prova em desfavor da defesa (fls. 328/337).
+Apresentadas contrarrazões (fls. 342/347), o Tribunal local não admitiu o recurso, por incidência da Súmula 7/STJ (fls. 349/353).
+Contra essa decisão a Defensoria interpõe agravo (fls. 359/365).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso, nos seguintes termos (fl. 385):
+AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. MAJORANTE DO INCISO I DO ARTIGO 157, § 2º DO CÓDIGO PENAL. AUSÊNCIA DE APREENSÃO E PERÍCIA DO ARTEFATO. POSSIBILIDADE. COMPROVAÇÃO DA UTILIZAÇÃO DA ARMA ATRAVÉS DE OUTROS MEIOS DE PROVA. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ SOBRE O TEMA. SÚMULA 83/STJ. DESPROVIMENTO DO RECURSO.
+É o relatório.
+Com razão o nobre parecerista: a irresignação não merece acolhimento.
+Consta do acórdão recorrido (fls. 256/258 - grifo nosso):
+ ..  1) DA MAJORANTE DO EMPREGO DE ARMA DE FOGO
+Em que pese o alegado pela defesa, é cediço que a incidência da majorante de arma de fogo prescinde de laudo pericial, conforme se extrai da jurisprudência do colendo Superior Tribunal de Justiça:
+ ..
+Assim, à luz do teor dos precedentes mencionados anteriormente, conclui-se que a perícia da arma, para que fosse verificado seu potencial lesivo efetivo, é prescindível para a caracterização da majorante do art. 157, § 2.º-A, I, do Código Penal, pois a lesividade do instrumento se encontra in re ipsa.
+Há de se ressaltar que desnecessária, inclusive, a apreensão do artefato, quando comprovado seu uso por outros elementos probatórios.
+Na hipótese, as declarações das vítimas e testemunhas foram uníssonas no sentido de que o Acusado utilizou uma arma de fogo durante a empreitada criminosa, tendo o condutor do flagrante relatado que "(..) foi encontrado na cintura de WALMIR FELIPE DE SOUZA LIMA, 01 (UM) REVÓLVER 38, NºD3768  , CABO DE COR BRANCA, CAPACIDADE CINCO DISPAROS, CONTENDO UMA MUNIÇÃO INTACTA NO TAMBOR (..)" (fl. 34).
+À vista do exposto, deve ser mantida a condenação do Recorrido pelo crime de roubo majorado pelo uso de arma de fogo, porquanto não há nos autos provas que atestem que o armamento não era lesivo à integridade física das vítimas.
+ ..
+Nos moldes da jurisprudência desta Corte, mesmo após a superveniência das alterações trazidas, em 24/5/2018, pela Lei n. 13.654/2018, essa Corte Superior, no que tange à causa de aumento do delito de roubo prevista no art. 157, § 2º, I , do Código Penal - nos casos em que utilizada arma de fogo -, manteve o entendimento exarado por sua Terceira Seção, no sentido de ser desnecessária a apreensão da arma utilizada no crime e a realização de exame pericial para atestar a sua potencialidade lesiva, quando presentes outros elementos probatórios que atestem o seu efetivo emprego na prática delitiva, uma vez que seu potencial lesivo é in re ipsa (AgRg no HC n. 473.117/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 14/2/2019).
+Confiram-se, também, o HC n. 620.723/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/12/2020; o AgRg no HC n. 589.733/SP, Ministro Felix Fischer, Quinta Turma, DJe 23/9/2020; o AgRg no AREsp n. 1.660.264/TO, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/8/2020, e o AgRg no AREsp n. 1.403.414/PA, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/6/2019.
+Agiu, pois, com acerto o Tribunal local em manter a incidência da referida causa de aumento, não havendo falar, pois, em violação do art. 157, § 2º, I, do Código Penal.
+Outrossim, para infirmar a conclusão do Tribunal estadual, no sentido do emprego de arma de fogo, seria necessário revolver o contexto fático-probatório dos autos, providência vedada na via especial, conforme o teor da Súmula 7/STJ (AgRg no AREsp n. 1.738.888/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/12/2020).
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, c/c a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. INCIDÊNCIA DA CAUSA DE AUMENTO DE PENA PREVISTA NO ART. 157, § 2º, I, DO CPP. APREENSÃO E REALIZAÇÃO DE PERÍCIA. DESNECESSIDADE. PRECEDENTES. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. DESCABIMENTO. SÚMULA 7/STJ.
+Agravo conhecido para negar provimento ao recurso especial.
