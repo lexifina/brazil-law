@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interno contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Em virtude das razões apresentadas no agravo de fls.545/557(e-STJ), reconsidero a decisão de fls. 539/542 (e-STJ) e passo a novo exame do agravo em recurso especial interposto por MDA SOM, LUZ ESTRUTURAS ESPECIAIS LTDAcontra decisão que negou seguimento a recurso especial fundamentado na alínea"a"do permissivo constitucional.
+Agravo em recurso especial interposto em: 21/05/2020.
+Concluso ao gabinete em:31/08/2020.
+Ação:monitória ajuizada por PROSHOWS COMÉRCIO DE ELETRO ELETRÔNICOS S.A. em face da agravante visando a cobrança de vendas de mercadorias por meio de notas fiscais/ duplicata
+Sentença:rejeitou os embargos monitórios, reconhecendo a ocorrência da prescrição quanto a pretensão de ressarcimento de gastos da agravante, e julgou parcialmente procedente a ação monitória para declarar constituído os títulos emitidos pela agravante em título executivo judicial.
+Acórdão:deu parcial provimento à apelação da agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO MONITORIA. EMBARGOS MONITÓRIOS E RECONVENÇÃO. COMPROVAÇÃO DO PAGAMENTO DE UMA DAS SETE PRESTAÇÕES COBRADAS EM RELAÇÃO A UMA DAS NOTAS FISCAIS OBJETO DO PEDIDO MONITÓRIO. REDUÇÃO DO VALORDA DÍVIDA. INADIMPLEMENTO CONTRATUAL DAAUTORA/RECONVINDA. ENTREGA PARCIAL OS EQUIPAMENTOS CONTRATADOS REFERIDOS NAS DUASNOTAS FISCAIS QUE FUNDAMENTAM A COBRANÇA. APLICAÇÃO DA EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. APURAÇÃO EM SEDE E LIQUIDAÇÃO O MONTANTE DEVIDO PELA RÉ/RECONVINTE. PRESCRIÇÃO DA PRETENSÃO RECONVENCIONAL. MANUTENÇÃO DA SENTENÇA NO PONTO.
+1. Comprovado pela ré/reconvinte que quitou uma das prestações cobradas pela autora/reconvinda, no tocante a uma das notas fiscais que embasam o pedido monitório, impõe-se a exclusão desse valor do montante devido.
+2. Demonstrado que a autora/reconvinda não entregou a totalidade dos equipamentos mencionados nas duas notas fiscais que embasam o pedido monitório, cabível a aplicação da exceção do contrato não cumprido, afastando-se a obrigação da ré/reconvinte de pagar o valor integral das prestações em aberto, devendo ser apurado em sede de liquidação o valor dos bens não enviados e o montante do débito remanescente.
+3. O abrandamento da teoria finalista, que considera consumidor apenas o destinatário final fálico do produto fornecido no mercado de consumo, é admitido pela jurisprudência do STJ e deste egrégio Tribunal de Justiça no caso de manifesta vulnerabilidade (económica ou fática, jurídica e técnica) da parte que adquire o produto para reempregá-lo em sua cadeia produtiva.
+4. Se a ré/reconvinte não é a destinatária final fática do produto adquirido, utilizando-o como insumo para sua atividade econômica, e se não há disparidade econômica significativa entre as partes da relação jurídica, não se há de falar na aplicação do CDC e do prazo prescricional quinquenal previsto no art. 27, desse diploma legal.
+5. O termo iniciai da contagem do prazo prescricional é a data efetiva da ocorrência do dano. Passados mais de três (03) anos entre as datas dos danos alegados pela ré/reconvinte e a apresentação de reconvenção, impossibilita-se a reforma da sentença no ponto em que, com base no art. 206, § 3º, inciso V, do CC, reconheceu a prescrição da pretensão de reparação civil formulada na reconvenção.
+6. Apelo parcialmente provido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados com a aplicação de multa por intuito protelatório. Novos embargos declaratórios foram novamente rejeitados, com a majoração da multa para 10% sobre o valor da causa.
+Recurso especial: alega violação dos arts. 1022,1025 e 1026 do CPC e 27 e 29 do CDC. Além de negativa de prestação jurisdicional quanto à análise da vulnerabilidade econômica e social da parte agravante na relação contratual com a agravada e quanto à não caracterização dos embargos de declaração opostos como protelatórios,sustenta que ante a notória vulnerabilidade da agravante, caracterizada estaria a relação de consumo e a aplicação do CDC. Desse modo, o prazo prescricional aplicável seria o quinquenal previsto no art. 27 do CDC.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da não caracterização da relação de consumo entre as partes, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do art. 27 do CDC, indicado como violado, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à não caracterização da vulnerabilidade econômica, fática, jurídica ou técnica, e, por consequência, a não caracterização da relação de consumo, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da multa por embargos de declaração protelatórios
+No julgamento da apelação da agravante, a Corte de origem afastou a aplicação do CDC ao caso concreto, pois não caracterizada sua vulnerabilidade a fim de verificar a existência de relação de consumo. Desse modo, rejeitou os primeiros embargos de declaração que apontavam omissa a análise da caracterização da vulnerabilidade, e aplicou multa em razão do intuito protelatório do recurso.
+A parte agravante novamente opõe embargos de declaração, visando a manifestação da Corte de origem sobre a necessidade de prequestionamento da matéria, a afastar o intuito protelatório do recurso.
+Da atenta análise dos autos, verifica-se que os embargos de declaração foram opostos pela agravante para forçar o Tribunal de origem a reexaminar questões já decididas anteriormente de maneira clara, o que caracteriza o manifesto intuito protelatório e autoriza a aplicação da multa prevista no 1.026, § 2º do CPC/15. Nesse sentido: EDcl nos EDcl no AgRg no AREsp 614.094/RO, 3ª Turma, DJe 04/10/2016 e EDcl nos EDcl no AgRg no AREsp 650.036/MG, 4ª Turma, DJe de 30/05/2017.
+Forte nessas razões, torno sem efeito a decisão de fls. 539/542 (e-STJ) e CONHEÇO do agravo para, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHECERPARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa (e-STJ fls. 323) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. RELAÇÃO DE CONSUMO. NÃO CARACTERIZAÇÃO.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.CARÁTER PROTELATÓRIO DOS EMBARGOS DE DECLARAÇÃO. MULTA NÃO AFASTADA.
+1. Ausentes os vícios do art.1022 do CPC, rejeitam-se os embargos de declaração.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4.A oposição de embargos de declaração para forçar o Tribunal de origem areexaminar questões já decididas anteriormente de maneira clara, caracteriza o manifesto intuito protelatório do embargante e autoriza aaplicação da multa prevista no art. 1026, § 2º, do CPC/15. Precedentes.
+5. Torno sem efeito a decisão de fls. 539/542 (e-STJ). Agravo conhecido. Recurso especial parcialmente conhecido e desprovido.
