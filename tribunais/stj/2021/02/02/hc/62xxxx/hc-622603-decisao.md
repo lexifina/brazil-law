@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor Leonardo Alves dos Santos, apontando-se como ato coator o acórdão proferido pelo Tribunal de Justiça de São Paulo no julgamento da Apelação n.0000638-05.2017.8.26.0530, resumido nos termos desta ementa (fl. 35):
+TRÁFICO ILÍCITO DE ENTORPECENTES. Recurso defensivo.
+ABSOLVIÇÃO. Impossibilidade. Autoria e materialidade bem delineadas.
+DOSIMETRIA. Penas bem estabelecidas. Inaplicabilidade do redutor do § 4º e das benesses do CP, art. 44. Regime fechado preservado.
+IMPROVIMENTO.
+Consta dos autos que o paciente foicondenado pelo Juízo da 1ª Vara Criminal da comarca de Ribeirão Preto/SP a 6 anos, 5 meses e 23 dias de reclusão,em regime fechado, além de multa, como incurso no art. 33, caput, c/c o art. 40, IV, da Lei de Drogas, por trazer consigo e guardar 305 g de cocaína.
+Alega a impetrante que a pena do acusado, na terceira etapa da dosimetria, deve ser reduzida em 2/3, em razão da fundamentação inidônea utilizada para afastar a causa redutora prevista na Lei de Drogas.
+Aduz que o Tribunal de origem utilizou apenas a quantidade de drogas para a finalidade acima mencionada, uma vez que a dedicação do paciente a atividades criminosas não passa de mera presunção.
+Sustenta quecindir os momentos de aplicação das circunstâncias da natureza e quantidade da droga, utilizando cada uma delas em etapas diferentes, representa um manifesto subterfúgio para tentar evitar que ocorra o bis in idem(fl. 8).
+Defende, ainda, que a quantidade de aumento da pena-base (1/3) é incabível na hipótese, já quejá que a droga em questão, cocaína, não se mostra com maior poder vulnerante em relação às demais.
+Requer a concessão da ordem a fim de que seja aplicado o redutor previsto no art. 33, § 4º, da Lei 11343/2006, e, ainda, a redução da pena-base ao mínimo legal ou a diminuição da fração de aumento.
+Sem pedido liminar, os autos seguiram ao Ministério Público Federal que opinou nos seguintes termos (fl. 57):
+HABEAS CORPUS. APELAÇÃO. TRÁFICO.APLICAÇÃO DA PENA. QUANTIDADE E NATUREZA DA DROGA. CAUSA DE DIMINUIÇÃO.
+- Ao negar a aplicação do binômio natureza- quantidade da droga, para não incidir em bis in idem na aferição da causa de diminuição, apontando somente a natureza como fator de aumento da pena, o TJ violou o art. 42 da Lei de Drogas e, ainda, deixou de fundamentar, com base em elementos concretos, o aumento da pena.
+Pelo não conhecimento, mas concessão da ordem, de ofício, para excluir da pena-base o aumento de 1/3.
+É o relatório.
+Na primeira fase da dosimetria, o Juízo singular fixou a reprimenda em 1/3 acima do mínimo legalpela quantidade e natureza da droga apreendida (maior potencialidade lesiva maior da cocaína), nos termos do art.42 da Lei n.11.343/2006(fl. 32).
+A Corte estadual, por sua vez, considerou que as iniciais partiram com acréscimo de 1/3, 6 anos, 8 meses de reclusão e 666 dias-multa, alicerçado na quantidade e natureza da droga (cocaína), de alto poder vulnerante, nos termos da Lei de Drogas, art.42. Embora idôneos os argumentos, válido somente o segundo - sem alteração nas penas -, porquanto o primeiro será utilizado unicamente na terceira etapa do trifásico para afastar a minorante do § 4º, evitando-se assim o famigerado bis in idem(fl. 38).
+Vê-se que a instância ordinária fundamentou o afastamento da pena-base do seu mínimo legal na valoração negativa da vetorial natureza da droga.
+Ocorre que, in casu, não obstante a natureza da substância tóxica - cocaína -, a quantidade apreendida (cerca de 300 g)não se revela exorbitante aponto de justificar o afastamento da pena-base do seu mínimo legal,devendo ser decotado o acréscimo aplicado em decorrência da mensuraçãonegativa da referida moduladora. Na mesma linha, o AgRg no AREsp n. 1.701.726/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 31/8/2020.
+Outra não é a opinião da parecerista, para quem quantidade e qualidade devem ser analisadas em conjunto, tal como determina o art. 42 da Lei 11. 343/2006. Assim, aonegar a aplicação do binômio, apontando somente a natureza da droga como fator de aumento da pena, o TJ violou o dispositivo citado e, ainda, deixou de fundamentar, com base em elementos concretos, o aumento da pena (fl. 60).
+Quanto à causa especial de redução da pena, este Tribunal Superior vem decidindo que a quantidade e a natureza do entorpecente apreendido, isoladamente, não legitima o afastamento da causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, se dissociada de outros elementos de prova aptos a atestar que o agente se dedica a atividades criminosas ou que integra organização criminosa(AgRg no HC n. 623.460 / MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJe 23/11/2020).
+O decisum de primeirograu, ao afastar o benefício em questão,apontou outras circunstâncias fáticas adicionais, além da quantidade da droga apreendida, a fim de que se pudesse concluir pela dedicação do sentenciado ao tráfico. Confira-se (fls. 29/32 - grifo nosso):
+ ..
+A quantidade, a variedade e a divisão típica de mercancia das substâncias entorpecentes, consistente em 305,030g de cocaína, acondicionadas em 516 micro tubos, tipo eppendorf, por sua vez acondicionados no interior de uma mochila de cor cinza, pronta para a entrega a consumo de terceiros, é prova bastante de que tinha aquela finalidade.
+Tamanha quantidade de droga denota o tráfico em larga escala, pois suficiente a servir a 516 usuários, diante da forma como dividida, sem contar que o acusado armazenava outras várias cápsulas do mesmo tipo vazias em sua residência.
+Do mesmo modo, há evidente há evidente ligação com o crime organizado, o que se conclui diante da traficância empreendida por ele, pois servia ao abastecimento das biqueiras próximas de sua residência, utilizando-se de adolescentes, que distribuíam diretamente a cocaína aos usuários.
+Ainda, pequeno traficante não tem condição financeira de adquirir aquele montante de entorpecente, tampouco de manter essa estrutura toda de pessoal.
+O próprio policial militar Alexandre esclareceu que o réu, ao lhe confessar informalmente o crime disse que ele estava segurando a droga, exercendo uma espécie de gerência, sendo o responsável por liberar as drogas para outros menores venderem no Ipiranga, bem como que o traficante maior entregava lotes para que ele exercesse tal função.
+ ..
+Deixo de reduzir a pena nos termos do artigo 33, § 4º, da Lei nº 11.343/06, devido a quantidade de drogas ser expressiva e, pela análise das circunstâncias acima expostas, ter se evidenciado o tráfico em larga escala e a ligação com a criminalidade organizada.
+ ..
+Conforme bem ponderou aSubprocuradora-Geral da República Ela Wiecko V. de Castilho, as instâncias de origemenfatizaram elementos físicos constantes da ação penal para formação de convicção, quais sejam,o fato de terem sido encontrados petrechos (eppendorfs vazios), com também caderno de contabilidade. Assim, justificado o afastamento da minorante, apesar da primariedade e bons antecedentes (fl. 63).
+Tal o contexto,passo ao redimensionamento da pena.Na hipótese, afastado o recrudescimento dapena-base, fica reprimenda inicial estabelecida em 5 anos de reclusão e 500 dias-multa.Na segunda-fase,apesar da menoridade relativa, mantém-se a pena no mínimo legal (Súmula 231/STJ). Reconhecida a causa de aumento do art. 40, VI, da Lei n. 11.343/2006, eleva-se em 1/6 o apenamento, nos termos do acórdão, tornando a penadefinitiva em 5 anos e 10 meses de reclusão, e pagamento de 583 dias-multa.
+No tocanteao regime prisional, considerando a readequaçãodoquantumfinaldapena, bem como a ausência de circunstâncias judiciaisnegativas do paciente, deve-seaplicar oregime semiaberto, nos termos do art. 33, § 2º, b, do CódigoPenal.
+Ante o exposto, acolho o parecer e concedoparcialmenteordem para, redimensionando a pena, fixá-la em 5 anos e 10 meses de reclusão, e pagamento de 583 dias-multa, em regime inicial semiaberto.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA.PENA-BASE. EXASPERAÇÃO.FUNDAMENTAÇÃO INIDÔNEA. REDUÇÃO AOMÍNIMO LEGAL.NECESSIDADE. CAUSA ESPECIAL DE REDUÇÃO (ART. 33, § 4º, DA LEI N. 11.343/2006). MOTIVAÇÃO SUFICIENTE. READEQUAÇÃO DA DOSIMETRIA E REGIME PRISIONAL. PARECER ACOLHIDO.
+Ordem parcialmente concedida, nos termos do dispositivo.
