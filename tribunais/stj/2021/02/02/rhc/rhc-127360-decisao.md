@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional em habeas corpus, com pedido liminar, interposto por ANDRÉ LUIS SANTANA FERNANDES contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n.1.0000.20.047827-9/000).
+Colhe-se nos autos que o Recorrente encontra-se preso desde o flagrante, ocorrido em 17/10/2019, e posteriormente denunciado pela prática do crime tipificado no art. 33, caput, c.c. o art. 40, inciso V, ambos da Lei n.11.343/2006, pois transportava em seu veículo 9.820g de cocaína, entre Estados da Federação, sem autorização e em desacordo com determinação legal ou regulamentar, para fins de mercancia (fl. 16).
+Contra a segregação foi impetrado pela Defesa habeas corpus perante o Tribunal de origem, cuja ordem foi denegadanos termos da seguinte ementa (fl. 92):
+"EMENTA: HABEAS CORPUS -TRÁFICO DE DROGAS -PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA -EXCESSO DE PRAZO -LAPSO TEMPORAL APONTADO COMO LIMITE IDEAL PARA O ENCERRAMENTO DA INSTRUÇÃO HÁ POUCO ULTRAPASSADO-RELAXAMENTO DA PRISÃO -DESCABIMENTO-RECOMENDAÇÃO.
+1. O prazo para a formação da culpa não pode constituir-se numa simples soma aritmética do tempo ideal para cada ato processual, devendo ser avaliado, cotejado e submetido às particularidades do caso concreto. 2. Tendo em vista que o prazo apontado como limite ideal para o encerramento da instrução foi há pouco ultrapassado e que, segundo o Juiz de base, a audiência de instrução será designada logo após a intimação da defesa e cumprimento de determinada diligência -de modo a sinalizar forte indicativo do virtual encerramento da instrução -, desarrazoado se mostra o relaxamento do acautelamento do paciente. 3. Recomenda-se que a autoridade apontada como coatora dispense especial atenção à presidência do processo quanto à aceleração de seu trâmite, evitando-se prejuízo e constrangimento futuro ao paciente."
+Daí as presentes razões, em que o Recorrente alega, em suma, constrangimento ilegal em razão do excesso de prazo para o encerramento da instrução criminal, visto que se encontra preso cautelarmentehá 218 dias, sem que sequer tenha previsão para a realização da audiência de instrução e julgamento.
+Requer, liminarmente e no mérito, o relaxamento da prisão cautelar.
+É o relatório. Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, verifiquei que o Juiz de primeiro graujulgou procedente a denúncia para condenar o Pacientecomo incurso no art. 33,caput, c.c. art. 40, III, ambos da Lei n.11.343/2006, às penas de 06 (seis) anos, 05 (cinco) meses e 23 (vinte e três) dias de reclusão, em regime inicial fechado, e 606 (seiscentos e seis) dias-multa, sendo-lhe negado o direito de apelar em liberdade.
+Constata-se, portanto, a perda de objeto da presente insurgência, quebuscava o reconhecimento do excesso de prazo para a formação da culpa.
+Ante o exposto, JULGO PREJUDICADO o recurso emhabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DO INTERESSE JURÍDICO. RECURSOPREJUDICADO.
