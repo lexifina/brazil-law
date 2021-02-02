@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RENATO DO VALE SANTANA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HCn. 2189762-06.2020.8.26.0000).
+Consta dos autos que, determinada pelojuízo da execução a realização do exame criminológico do paciente para a análise do pedido de livramento condicional e progressão de regime, a defesa impetrou o writ na origem, tendo aordem sidodenegada pela12ª Câmara de Direito Criminal do TJSP.
+Alega oimpetrante que não há, nos autos da execução, nenhum elemento que possa fundamentar suficientemente o exame no presente caso, pois o paciente tem bom comportamento carcerário e não praticou nenhuma falta, o que demonstra estar pronto para a reintegração social.
+Sustenta que o paciente encontra-se recolhido em estabelecimento prisional superlotado ecom registro de infectados por covid-19.
+Destaca os termos da Recomendação CNJ n. 62/2020 e afirma que, desde 21/2/2020, não se realizam avaliações criminológicas, nem háprevisão para a sua realização.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus para que seja afastada a necessidade do examecriminológicopara análise de benefícios,ou determinada a imediata remoção do paciente para o regime semiaberto,ou deferido seu livramento condicional, até realização da referida avaliação.
+O pedido de liminar foi indeferido (fls.38-39).
+As informações foram prestadas às fls. 45-75.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 77-79).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus emsubstituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento daimpetração, salvo se identificada flagrante ilegalidade no ato judicial impugnado.
+No caso dos autos, o Tribunal a quo expôs o seguinte (fls. 51-54, destaquei):
+Razoável ponderar que o MM. Juiz de 1º Grau à época dos referidos pedidos de progressão ao regime semiaberto e livramento condicional formulados em favor do paciente, não tinha sua convicção formada acerca do mérito do mesmo para a concessão dos benefícios em questão.
+Dessa forma, determinou a submissão do paciente à realização de exame criminológico mediante decisão devidamente fundamentada, em razão da gravidade em concreto das condutas perpetradas, consistentes em latrocínio, roubos majorados e porte ilegal de arma de fogo, tratando-se de reincidente, além de constatar que nas vezes sem que beneficiado com a progressão a regime prisional mais brando, tornou a delinquir, conforme se extrai de seu histórico prisional constante do boletim informativo, contexto a indicar concreta possibilidade de reiteração criminosa, visando-se, dessa forma, melhor instruir os pedidos e garantir a preservação da segurança jurídica.
+ ..
+Afastar a obrigatoriedade da investigação criminológica não significa dizer que o exame tenha sido proibido pela legislação, mormente em casos como o do paciente que cumpre pena por crime gravíssimo em que é necessária sua realização, não se cogitando da ocorrência de constrangimento ilegal o deferimento para sua realização.
+Nesse contexto, não se verifica a ocorrência de flagrante ilegalidade que justifique aconcessão da ordem de habeas corpus de ofício, uma vez que a instância ordinária não reconheceu opreenchimento do requisito subjetivo, desenvolvendo fundamentos idôneos para obstar a progressão deregime e o livramento condicional do paciente sem a efetivação do exame criminológico.
+Embora o art. 112 da Lei de Execução Penal, com a nova redação dada pela Lei n.10.792/2003, não estabeleça a necessidade do exame criminológico para aferir o preenchimento dorequisito subjetivo necessário à progressão de regime e ao livramento condicional, é facultado aomagistrado condicionar sua realização com base em elementos concretos do cumprimento da pena.
+A propósito, dispõe a Súmula n. 439 do STJ o seguinte: "Admite-se o exame criminológicopelas peculiaridades do caso, desde que em decisão motivada".
+Confiram-se estes precedentes:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBOMAJORADO. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONALDETERMINAÇÃO DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. POSSIBILIDADE(SÚMULA VINCULANTE N. 26/STF E SÚMULA 439/STJ). FUNDAMENTAÇÃO IDÔNEA.APENADO REINCIDENTE EM CRIME COMETIDO COM VIOLÊNCIA OU COM GRAVEAMEAÇA À PESSOA E HISTÓRICO DE INFRAÇÕES DISCIPLINARES.CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. A Lei n. 10.792/2003 alterou o art. 112 da Lei n. 7.210/1984, retirando a obrigatoriedade do
+exame criminológico para a concessão de benefícios da execução penal, tendo este Superior Tribunale o colendo Supremo Tribunal Federal sumulado o entendimento de ser possível a determinação doaludido exame, desde que em decisão devidamente fundamentada (Súmula Vinculante 26/STF eSúmula 439/STJ).
+2. Caso em que o exame criminológico foi determinado com fundamento nas circunstânciasconcretas do caso, consistentes no fato de o apenado ser reincidente em crime cometido comviolência ou com grave ameaça à pessoa, e ostentar faltas disciplinares de natureza grave.
+3. Agravo regimental improvido. (AgRg no HC n. 579.921/SP, relator Ministro Sebastião ReisJúnior, Sexta Turma, DJe de 30/6/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO ENFRENTAMENTO DOSFUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO,COM RECOMENDAÇÃO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnarespecificamente os fundamentos estabelecidos na decisão agravada.
+II - Na decisão atacada pelo presente recurso, tem-se que já foi devidamente explicada aimpossibilidade de julgamento da progressão de regime, que aguarda a realização de examecriminológico, em supressão de instância, embora recomendada a celeridade na realização do referidoexame pelo eg. Tribunal a quo.
+III - Importante destacar que o eg. Tribunal de origem, inclusive, confirmou a necessidade do
+exame criminológico, com base na "gravidade concreta dos delitos cometidos, considerando, ainda, areincidência, o histórico prisional conturbado, com a prática de faltas disciplinares durante ocumprimento da pena", destacados no bojo do v. acórdão vergastado.
+IV - No mais, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai aSúmula n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que nãoimpugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.Reiterada a recomendação de celeridade ao eg. Tribunal de origem. (AgRg no HC n. 562.274/SP,relator Ministro Felix Fischer, Quinta Turma, DJe de 28/5/2020.)
+No que diz respeito à Recomendação CNJ n. 62/2020, o acórdão de origem consignou (fls. 50-55):
+Verte das informações prestadas pela digna autoridade judiciária em 13 de agosto de 2020, in verbis:
+ ..
+Por fim, consigno que estão sendo tomadas medidas administrativas pela SAP com o fim de minimizar os riscos de contágio da população carcerária que naturalmente já se encontra em isolamento social, como a ampla divulgação de medidas preventivas e limitação do ingresso de pessoas no âmbito prisional e outras medidas de acordo com a portaria interministerial n. 07 de 18 de março de 2020"(fls. 32).
+ ..
+Por fim, no que diz respeito à aplicação da Recomendação nº 62/2020, do Conselho Nacional de Justiça, oportuno consignar que esta Colenda Câmara já analisou a questão no habeas corpus nº 2148784-2020.8.26.0000, ocasião em que o paciente teve denegada a ordem, considerando-se que as circunstâncias do caso concreto autorizam a manutenção do paciente encarcerado, sem que ocorra qualquer violação à aludida recomendação.
+Por não se vislumbrar o alegado constrangimento ilegal, que possa estar a sofrer o paciente, a solução que melhor se afigura é a denegação da ordem.
+Em relação ao referido normativo, o STJ firmou a orientação de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a comprovação de que o preso preenche os seguintes requisitos: a)inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamentono estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação noestabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relatorMinistro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+Ausente a demonstração de enquadramento do paciente nas situações acima descritas, não há desrespeito ao mencionado ato normativo, nem se constata a ocorrência de constrangimento ilegal.
+Ademais, para rever as conclusões adotadas pela instância ordinária, seria preciso revolver matéria fático-probatória dos autos, procedimento vedado em habeas corpus. A propósito, confiram-se precedentes: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma,DJe de 9/9/2020.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
