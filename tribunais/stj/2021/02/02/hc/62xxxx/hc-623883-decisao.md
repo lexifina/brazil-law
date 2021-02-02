@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO ROBERTO FRUTUOSO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 0025231-36.2011.8.26.0554).
+A impetrante narra, em sua inicial, que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 30 anos de reclusão, em regime prisional inicial fechado, e 15 dias-multa, pela prática do crime previsto no art. 157, §3º, do Código Penal.
+Irresignada, a defesa interpôs recurso de apelação, o qual foi improvido (e-STJ fls. 16/23), por acórdão assim ementado:
+LATROCÍNIO CONSUMADO - Confissões judiciais parciais de dois dos réus corroboradas pelas demais provas dos autos - Prova suficiente para o decreto condenatório - Participação de menor importância afastada, eis que, mesmo que somente um dos agentes tenha efetuado os disparos, como no caso dos autos, todos devem responder pelo delito previsto no artigo 157, § 3º, parte final, do Código Penal, porquanto vigente no ordenamento jurídico brasileiro a teoria unitária ou monista (artigo 29, caput, do Código Penal) - Confissão parcial que não vale como atenuante - Lei que estimula o agente a confessar a infração, por razões práticas, concedendo-lhe um prêmio pela sinceridade demonstrada e por ter evitado uni maior desgaste na máquina judiciária, o que não se evidenciou no caso dos autos - Penas e regimes prisionais mantidos - Recursos desprovidos.
+No presente mandamus (e-STJ, fls. 4/15), a impetrante sustenta que o paciente sofre constrangimento ilegal, em razão do aumento da pena-base e do não reconhecimento da atenuante da confissão espontânea.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que a pena imposta ao paciente seja reduzida.
+O pedido liminar foi indeferido, foram solicitadas as informações pertinentes e determinada a intimação da Defensoria Pública do Estado de São Paulo, tendo em vista a impetração foi writpor pessoa leiga (e-STJ fls. 29/30).
+As informações foram prestadas às e-STJ fls. 37/50, 52/56 e 58/62, as quais incluíram apenas a cópia do acórdão impugnado.
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 64/65).
+Às e-STJ fls. 70/75, a Defensoria Pública do Estado de São Paulo, devidamente intimada a ingressar no feito, apresentou petição sustentando a existência de constrangimento ilegal pela ausência de reconhecimento da atenuante de confissão espontânea. Aponta, ainda, constrangimento ilegal pela valoração negativa dos antecedentes e da reincidência, ainda que referentes a condenações distintas, o que caracteriza o indevido bis in idem.
+Requer, assim, a concessão da ordem de ofício para reconhecer a confissão, compensar com a reincidência e, ainda, afastar os maus antecedentes e suas consequências jurídicas (e-STJ fl. 74).
+É o relatório. Decido.
+A impetração não merece conhecimento, por deficiência na instrução, ante a ausência da cópia da sentença condenatória, peça essencial à verificação do apontado constrangimento ilegal em razão dadosimetria da pena realizada pelas instâncias ordinárias.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA MANTIDA EM PRONÚNCIA. INSTRUÇÃO DEFICIENTE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Súmula n.º 182 desta Corte).
+2. Cabe ao impetrante o escorreito aparelhamento do habeas corpus, bem como do recurso ordinário dele originado, indicando, por meio de prova pré-constituída, o constrangimento ilegal alegado.
+3. É inviável divisar, de forma meridiana, a alegação de constrangimento, diante da instrução deficiente dos autos, no qual se deixou de coligir cópia da decisão que decretou a prisão preventiva do acusado, documento imprescindível à plena compreensão dos fatos aduzidos no presente recurso.
+4. Agravo regimental desprovido. (AgRg no RHC 48.939/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, DJe 23/4/2015).
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC 54.626/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 2/3/2015).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA IMPETRAÇÃO. ART. 210 DO REGIMENTO INTERNO DESTA CORTE. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU O PEDIDO DE LIMINAR NO WRIT ORIGINÁRIO. INCIDÊNCIA DA SÚMULA 691 DO STF. EXCEPCIONALIDADE NÃO EVIDENCIADA. SUPERVENIÊNCIA DE JULGAMENTO DO MÉRITO PELO TRIBUNAL DE ORIGEM. NOVO TÍTULO. SUPRESSÃO DE INSTÂNCIA. APRESENTAÇÃO POSTERIOR DE DOCUMENTAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE PROVA PRÉ-CONSTITUÍDA E VEDAÇÃO DE DILAÇÃO PROBATÓRIA. MANUTENÇÃO DA DECISÃO.
+I - Nos termos do art. 210, do Regimento Interno desta Corte, o Relator está autorizado a indeferir liminarmente pedido manifestamente incabível, quando manifesta a incompetência do Tribunal para dele conhecer originariamente, ou for reiteração de outro com os mesmos fundamentos.
+ ..
+III - A expedição de novo provimento judicial, de cognição exauriente, prejudica os fundamentos invocados pelo Paciente, visto que não foram objeto de insurgência na presente ação mandamental impetrada contra o indeferimento do pedido de liminar. Precedentes.
+IV. O conhecimento do writ pressupõe prova pré-constituída do direito pleiteado, revelando-se impossibilitada a dilação probatória. Precedentes.
+V - A decisão agravada não merece reparos, porquanto proferida em consonância com a jurisprudência desta Corte Superior.
+VI - Agravo Regimental improvido (AgRg no HC 291.856/SP, Rel. Ministra REGINA HELENA COSTA, Quinta Turma, DJe 12/5/2014).
+No caso, tendo em vista a impetração por pessoa leiga, oportunizou-se a juntada de informações pela apontada autoridade coatora, a qual trouxe aos autos apenas cópia do acórdão impugnado.
+Devidamente intimada, a Defensoria Pública do Estado de São Paulo apenas reiterou o pedido formulado na exordial, à ele acrescentando outro, referente ao apontado bis in idemna exasperação da pena-base em razão dos maus antecedentes e da consideração da reincidência do paciente, a despeito de referir-se a condenações distintas.
+Tais pedidos, por se referirem à dosimetria da pena, devem ser acompanhados pelas decisões proferidas na origem, sob pena de inviabilizar a análise do constrangimento ilegal apontado.
+Não se desincumbiu a Defensoria, assim, do ônus de instruir devidamente o feito.
+Ante o exposto, não verificado o constrangimento ilegal apontado, com base no art. 34, inciso XX, do Regimento Interno do STJ, não conheço do presente habeas corpus.
+Intimem-se.
