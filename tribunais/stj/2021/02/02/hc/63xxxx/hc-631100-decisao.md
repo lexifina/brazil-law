@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Marcos Gomes da Silva - cumprindo pena privativa de liberdade, em regime fechado, em razão de condenação pela prática do crime de roubo majorado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que indeferiu a liminar no writ ali impetrado (Habeas Corpus n. 2275811-20.2020.8.26.0000), mantendo a decisão do Juízo de Direito da Vara de Execuções Criminais da comarca de Presidente Prudente/SP, que condicionou a análise da progressão ao regime semiaberto à realização de exame criminológico (Autos n. 0009616-23.2020.8.26.0996).
+Alega o impetrante, em síntese, constrangimento ilegal na imposição do exame criminológico ao paciente, ao argumento de que, para a realização de exame técnico, por não decorrer mais de exigência legal, mister se faz motivação satisfatória e idônea, conforme dispõe o art. 93, IX, da CF/1988, e, data máxima vênia, a fundamentação declinada pelo Magistrado de 1º grau visando a realização de tal exame é imprecisa, sendo medida de rigor a imediata remoção do sentenciado, ora Paciente, ao regime aberto (fl. 15).
+Postula, então, a superação da Súmula 691 do STF para que, deferida a liminar, seja determinada a análise do pedido de progressão de regime formulado pela defesa, independentemente da realização de exame criminológico.
+Em 2/12/2020, deferi o pedido liminar paradeterminar que o Juízo de Direito da Vara de Execuções Criminais da comarca de Presidente Prudente/SP examinasse a possibilidade de concessão da progressão de regime, independentemente da realização de exame criminológico (fls. 267/269).
+Prestadas as informações pelas instâncias ordinárias (fls. 274/276 e 279/292), o Ministério Público Federal opinou pela prejudicialidade da impetração (fls. 294/297).
+É o relatório.
+Busca a impetração o afastamento do exame criminológico determinado pelo Juízo de primeiro grau, ao argumento da ausência de fundamentação idônea para tanto.
+Da análise das informações prestadas pelas instâncias ordinárias, observa-se que, além de o paciente encontrar-se em regime semiaberto em razão da liminar deferida no presente writ, sobreveio o julgamento do mérito da impetração originária, tendo sido denegada a ordem.
+Assim, a liminar anteriormente deferida carece de confirmação, sob pena de se restabelecer o ilegal constrangimento.
+De fato, o Magistrado singular, ao impor a realização de exame criminológico, deixou de fundamentar adequadamente a decisão, limitando-se a afirmar que (fl. 236 - grifo nosso):
+ ..
+Com razão o Ministério Público.
+No caso dos autos, verifica-se que o sentenciado praticou crime grave, cometido com violência ou grave ameaça à pessoa e possui considerável pena por cumprir.
+Assim, considerando que o regime semiaberto prepara o condenado para o retorno ao convívio social, torna-se imprescindível a realização do exame criminológico para verificação da provável e frutífera adaptação no regime menos rigoroso.
+Diante do exposto, determino que seja oficiado à Direção do Presídio, requisitando a realização de exame criminológico no sentenciado(a) MARCOS GOMES DA SILVA, MT: 1100879-4, RG: 29681311, RJI: 180590557-58, recolhido(a) no(a) Penitenciária Compacta de Paraguaçu Paulista, a fim de instruir o pedido em epígrafe, cujos laudos deverão ser apresentados no prazo de 60 (sessenta) dias, juntamente com o relatório conjunto de avaliação, a ser realizado pelos Diretores da Unidade Prisional, Assistente Social e Psicólogo, devendo ser conclusivo, favorável ou contrário ao benefício, nos termos da Resolução SAP nº 88/2010.
+ ..
+Ocorre que, apenas se admite o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada (Súmula 439/STJ).
+Ora, fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime ou livramento condicional, de modo que o exame criminológico somente poderá se fundar em fatos ocorridos no curso da própria execução penal (AgRg no HC n. 590.666/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 13/8/2020).
+Em outras palavras, a longevidade da pena, bem como a gravidade abstrata dos delitos praticados, por si sós, não servem como fundamentos para impedir a progressão de regime prisional, devendo ser levados em consideração, para esse fim, os fatos ocorridos no curso da execução penal (HC n. 385.529/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/9/2017).
+Em face do exposto, concedo a ordem impetrada, confirmando a medida liminar, para determinar que o Juízo de Direito da Vara de Execuções Criminais da comarca de Presidente Prudente/SP examine a possibilidade de concessão da progressão de regime, independentemente da realização de exame criminológico.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO DE REGIME E EXAME CRIMINOLÓGICO. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. SUPERAÇÃO POR OCASIÃO DA ANÁLISE DO PEDIDO LIMINAR. SUPERVENIÊNCIA DE APRECIAÇÃO DO MÉRITO DO WRIT ORIGINÁRIO. DENEGAÇÃO DA ORDEM. CONFIRMAÇÃO DA TUTELA DE URGÊNCIA QUE SE IMPÕE. IMPOSIÇÃO DE EXAME CRIMINOLÓGICO SEM FUNDAMENTAÇÃO IDÔNEA PARA TANTO. SÚMULA 439/STJ. APLICABILIDADE.
+Ordem concedida nos termos do dispositivo.
