@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão proferida pelo Tribunal Regional Federal da 3ª Regiãoque inadmitiu recurso especial interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+A controvérsia foi bem delimitada pelo Parquet Federal em parecer cujo relatório transcrevo a seguir (e-STJ fls. 9.240/9241):
+São submetidos à apreciação ministerial agravos em recurso especial interpostos por BENJAMIM WERCELENS NETO, FRANCISCO JOSÉ WERCELENS DE CARVALHO e pelo MINISTÉRIO PÚBLICO FEDERAL, com fulcro no art. 544 do Código de Processo Civil - em sua redação modificada pela Lei nº 12.322/10 - e na Lei nº 8.038/90, contra decisões proferidas pela Terceira Vice-Presidência do Tribunal Regional Federal da Terceira Região, denegatórias de seguimento a recursos especiais ali ajuizados pelos ora Agravantes.
+A Terceira Vice-Presidência da aludida Corte Regional Federal negou seguimento aos apelos especiais ajuizados por BENJAMIM WERCELENS NETO e FRANCISCO JOSÉ WERCELENS DE CARVALHO, por reputá-los extemporâneos, uma vez que suas interposições precederam o julgamento dos embargos de declaração opostos pelos corréus ANDREZA DE OLIVEIRA RUSSO e MANOEL ABDIA DA SILVA NETO, não havendo sido, posteriormente, ratificadas (fls. 8.910/8.915 e 8.917/8.922).
+O Pretório Regional Federal da Terceira Região inadmitiu, também, o reclamo nobre interposto pelo MINISTÉRIO PÚBLICO FEDERAL, sob a compreensão de não ter havido contrariedade ao art. 41, inciso I, da Lei 11.343/06, achando-se o acórdão impugnado em perfeita sintonia com a posição desse Superior Tribunal de Justiça. Destacou, ainda, não estar devidamente demonstrado o dissídio jurisprudencial aventado, porausência de similitude fática entre o julgado recorrido e aqueles trazidos como paradigma (fls. 8.924/8.935).
+Agora, para essa Corte Superior, pedem os ora Agravantes a reconsideração dos decisum que inadmitiram seus reclamos especiais, sustentando estarem presentes os requisitos de admissibilidade (fls.8.981/8.996, 8.997/9.012 e 9.103/9.115).
+Intimado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo (e-STJ fls. 9.241/9242):
+AGRAVOS EM RECURSOS ESPECIAIS AJUIZADOS CONTRA DECISÕES DENEGATÓRIAS DE SEGUIMENTO A RECURSOS ESPECIAIS. RECURSOS DO PRIMEIRO E SEGUNDO AGRAVANTES AGITADOS NA PENDÊNCIA DE JULGAMENTO DE EMBARGOS DE DECLARAÇÃO OPOSTOS POR CORRÉUS, SEM POSTERIOR RATIFICAÇÃO.EXTEMPORANEIDADE FLAGRANTE.INCIDÊNCIA DA SÚM. 418 DO STJ.INVIABILIDADE DE CONHECIMENTO DO RECLAMO INTERPOSTO PELO PARQUET, POR DEIXAR DE ATACAR, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ENUNCIADO 182 DA SÚMULA DO STJ.PARECER PELO CONHECIMENTO E PELO IMPROVIMENTO DOS RECURSOSAJUIZADOS PELO PRIMEIRO E SEGUNDO AGRAVANTES, BEM ASSIM PELO NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL AGITADO PELO MINISTÉRIO PÚBLICO.
+É, em síntese, o relatório.
+Decido.
+Esta Corte não deve conhecer do agravo, uma vez que o agravante deixou de impugnar ofundamentoda decisão agravada relativoà aplicação do enunciado83 da Súmula do Superior Tribunal de Justiça, limitando-se o agravante a afirmar, basicamente, que "não há que se negar admissão ao Recurso Especial interposto, vez que cabe apenas ao Colendo Superior Tribunal de Justiça analisar os meandros do mérito recursal  .. " (e-STJ fl. 9.111).
+Assim, não havendo impugnação específica acerca de todos os fundamentos da decisão questionada, deve ser aplicado, por analogia, o enunciado sumular 182 do Superior Tribunal de Justiça.
+Nesse sentido, confira-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento (EDcl no AREsp 614.968/SP, relator Ministro NEFI CORDEIRO, DJe 29/02/2016, grifei).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
