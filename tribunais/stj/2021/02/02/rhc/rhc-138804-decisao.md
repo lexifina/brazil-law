@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 109):
+HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. REQUISITOS DOS ARTIGOS 312 E 313 DO CPP. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS. ORDEM DENEGADA.
+I) Paciente preso em flagrante, em situação indicativa de prática do tráfico de drogas.
+II) Decisão que decretou a prisão preventiva devidamente motivada, em observância ao disposto no art. 93, inciso IX, da Constituição Federal.
+III) Fumus comissi delicti e periculum libertatis evidenciados. Presença de prova da existência do crime e indícios suficientes de autoria. Prisão preventiva que se justifica para garantir a ordem pública e a instrução criminal, ante a periculosidade demonstrada pelo paciente, flagrado em situação que indica a traficância, Expressiva quantidade de droga. 2.940 gramas de maconha, subdivididos em 04 tijolos, além de um telefone celular, dinheiro, mochila, uma bicicleta e passagem de ônibus.
+IV) Eventuais condições pessoais favoráveis ao paciente (primário, residência fixa) não impedem a decretação da custódia preventiva se presentes os seus requisitos, como é o caso dos autos.
+V) O risco genérico de contaminação pelo Covid-19, não é suficiente para colocação do paciente em liberdade.
+VI) Constatada a necessidade da prisão preventiva, inviável a adoção de medidas cautelares alternativas, que, na espécie, não se mostrariam suficientes ou eficazes para a manutenção da garantia da ordem pública.
+VII) Requisitos dos artigos 312 e 313, do CPP, presentes. Segregação cautelar mantida.
+PRECEDENTES DO STJ E TJRS.
+ORDEM DENEGADA, POR MAIORIA.
+O paciente foi preso em flagrante em 20/5/2020, convertido em preventiva, pela prática dos delitos tipificados nos arts. 33 e 35 da Lei 11.343/2006.
+Neste recurso, argumenta, em suma, ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual, mormente diante do risco de contaminação pela Covid-19 no interior do presídio.
+Na origem, verifica-se que o processo0001162-80.2020.8.21.0030, oriundo da 1ª Vara Criminal de São Borja/RS, encontra-se na fase de apresentação de defesa prévia, vistaao Ministério Público em 07/01/2021,conforme informações processuais eletrônicas extraídas do site do TJRS em 12/01/2021.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que converteu a prisão em flagrante em preventiva foi assim proferida (fl. 70 - com destaque):
+ .. No caso, há prova da existência dos fatos e fundados indícios de autoria. Inviável a menos gravosas aos flagrados, já que não se tratam de hipóteses suficientes à garantia da ordem pública, dada as peculiares da situação narrada de grande quantidade de droga apreendida, com ramificações intermunicipais, para distribuição de grande abrangência, o que evidencia indício de participação em organização criminosa. ..
+Como se vê, consta do decreto prisional fundamentação que deve ser considerada idônea, com esteio na grande quantidade de droga apreendida em poder do réu, ora recorrente, qual seja, 2.940 gramas de maconha, consoante destacado na ementa acima, destinada ao tráfico intermunicipal.
+Pacífico é o entendimento nesta Corte de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Por outro lado, a crise mundial daCovid-19 trouxe uma realidade diferenciada de preocupação com a saúde em nosso país e faz ver como ainda de maior risco o aprisionamento - a concentração excessiva, a dificuldade de higiene e as deficiências de alimentação naturais ao sistemas prisional acarretam seu enquadramento como pessoas em condições de risco.
+O Judiciário brasileiro permanece atuando, mas com redução de audiências e suspensão dos prazos, assim prolongando a conclusão dos feitos, daí gerando também maior risco pela demora das prisões cautelares.
+Nesse momento, configurada a dificuldade de rápida solução ao mérito do processo e o gravíssimo risco à saúde, o balanceamento dos riscos sociais frente ao cidadão acusado merece diferenciada compreensão, para restringir a prisão cautelar. Apenas crimes com violência, praticados por agentes reincidentes ou claramente incapazes de permitir o regular desenvolvimento do processo, poderão justificar o aprisionamento. Crimes eventuais e sem violência, mesmo com justificada motivação legal, não permitem a geração do grave risco à saúde pela prisão.
+Esse é o sentido da Recomendação 62/2020 do CNJ, art. 4º:
+ .. Art. 4º - Recomendar aos magistrados com competência para a fase de conhecimento criminal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+I - a reavaliação das prisões provisórias, nos termos do art. 316, do Código de Processo Penal, priorizando-se:
+a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até doze anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência ou que se enquadrem no grupo de risco;
+b) pessoas presas em estabelecimentos penais que estejam com ocupação superior à capacidade, que não disponham de equipe de saúde lotada no estabelecimento, que estejam sob ordem de interdição, com medidas cautelares determinadas por órgão do sistema de jurisdição internacional, ou que disponham de instalações que favoreçam a propagação do novo coronavírus;
+c) prisões preventivas que tenham excedido o prazo de 90 (noventa) dias ou que estejam relacionadas a crimes praticados sem violência ou grave ameaça à pessoa; ..
+Sobre o tema, assim se manifestou o Tribunal local (fls. 126-127):
+ ..  Com relação à pandemia de COVID-19 e a Recomendação nº 62 do CNJ, não é fundamento para que a prisão preventiva seja revogada,na medida em que o risco genérico de contaminação não é suficiente para colocação dopaciente em liberdade. ..
+Como visto, entendeu o TJRS queo risco genérico de contaminação pela Covid-19 não é suficiente para a colocação do réu em liberdade, ressaltando-se que o ora recorrente, nascido em 23/3/1976 (fl. 45), não alegou no seu recurso que continha qualquer comorbidade que pudesse ser agravada em virtude da infecção pelo coronavírus.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
