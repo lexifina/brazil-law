@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial em virtude da ausência de violação dos arts. 489 e 1.022 do CPC/2015 e da incidência das Súmulas n. 5 e 7 do STJ e 282 do STF(e-STJ fls. 390/394).
+O acórdão recorrido está assim ementado (e-STJ fl. 240):
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO - CARTÃO DE CRÉDITO VINCULADO A MARGEM CONSIGNÁVEL - ALEGAÇÃO DE ABUSIVIDADE PRATICADA PELA INSTITUIÇÃO REQUERIDA - INEXISTÊNCIA.
+1. Inexistindo nos autos a prova de ato abusivo ou ilegal praticado pela instituição financeira na celebração do termo de adesão a cartão de crédito vinculado a margem consignável, devidamente autorizada pelo autor, afastadas restam as pretensões deduzidas na inicial, notadamente quanto ao alegado excesso na cobrança de juros remuneratórios, eis que em índice bem inferior àqueles praticados em contratos de cartão de crédito sem a garantia de pagamento mínimo.
+2. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 261/265).
+No especial (e-STJ fls. 268/290), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de dissídio jurisprudencial, ofensa aos arts. 4º, III, 6º, V e VII, 14, 47, 51, IV, e § 1º, III, 52, IV e V do CDC, 113, 187, 421, 422, 423, 2.035, parágrafo único, do CC/2002, 5º da Lei n. 4.595/1964, 489 e 1.022 do CPC/2015. Sustentou, em síntese, que:
+a) "reiterando pedido de vênia, se não restar clara ao Tribunal Superior, em razão da omissão legislativa aqui apontada, dever-se-á reconhecer a afronta aos arts. 141, 489, II e 1.022, II, do Código de Processo Civil. E, por conseguinte, declarar a nulidade do acórdão dos embargos de declaração, a fim de que outro seja proferido, com o exame da matéria em apreço" (e-STJ fl. 270),
+b) "mostra-se incompatível e contraditório a modalidade contratual aplicada, extremamente onerosa e lesiva a parte recorrente com a utilização de juros de cartão de crédito com garantia de contrato de empréstimo consignado em folha de pagamento" (e-STJ fl. 278),
+c) "a parte recorrida, em nome do princípio da boa-fé negocial, haveria de cientificar o consumidor de que seus pagamentos mensais consignados não seriam suficientes para quitação do débito, oportunizando assim, um parcelamento adequado através de boleto bancário, possibilitando uma redução significativa de juros do capital cedido" (e-STJ fl. 288) e
+d) "cabível a indenização por danos morais, ante a má-fé negocial da parte recorrida, ausência de transparência. Ressalta-se que a indenização tem como finalidade amenizar a dor sentida, além de punir o ofensor, com intuito de coibi-lo a não reincidir na prática do ato danoso" (e-STJ fl .289).
+No agravo (e-STJ fls. 397/410), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fls. 413/414).
+É o relatório.
+Decido.
+Na origem, foi julgada improcedente ação de obrigação de fazer cumulada com indenização por danos morais. A Corte estadual negou provimento à apelação.
+Em relação à afronta ao art. 1.022, II, do CPC/2015, os embargos de declaração são cabíveis somente quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material.
+No caso dos autos, a Justiça local decidiu a matéria controvertida, ainda que contrariamente aos interesses da parte. Não há, portanto, omissão alguma a ser sanada.
+Quanto à ofensa ao art. 489, II, do CPC/2015, não assiste razão ao recorrente, visto que o Tribunal a quo solucionou o litígio, mesmo que em desfavor de sua pretensão, não incorrendo em nenhum vício previsto no dispositivo mencionado. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo.
+Por outro lado, o Tribunal de origem reputou legal o contrato de cartão de crédito firmado pelo recorrente, nos seguintes termos (e-STJ fls. 245/247):
+Examinando os autos, verifica-se que entre as partes restou firmado o termo de adesão constante do documento de ordem 19, atinente a contratação de cartão de crédito vinculado a reserva de margem de empréstimo consignado, fixando o autor que a taxa cobrada, a título de juros remuneratórios, mediante os descontos em folha de pagamento, revela-se exacerbada, impedindo o cumprimento da obrigação.
+Com efeito, as partes celebraram um contrato de cartão de crédito, conferindo ao autor a possibilidade de quitar regularmente as faturas do cartão, em razão de compras eventualmente realizadas ou, caso assim não ocorra, autorizando o desconto em folha de pagamento, no valor mínimo da fatura.
+Nessa liça, uma vez realizadas compras com o cartão de crédito e não efetuado o pagamento da fatura, os descontos são levados a efeito sobre a margem consignável autorizada pelo contrato.
+É óbvio, portanto, que, pagando a parcela mínima, permanece um saldo devedor a ser quitado, o que, não ocorrendo, impõe novo desconto, em valor mínimo, na margem consignável perante a fonte pagadora do autor.
+Dessa forma, conforme consignado na sentença, não logrou êxito o autor, ora apelante, em comprovar a ocorrência de qualquer ilegalidade praticada pelo requerido, que, ao contrário, tem se pautado nos termos do contrato firmado entre as partes, sendo certo que a não quitação, pelo autor, das faturas que lhe são enviadas, seja em valor máximo, seja em valor mínimo, autoriza que a instituição financeira, em caso de não pagamento, realize o desconto do valor mínimo da fatura perante o órgão pagador, observada a margem consignável autorizada pelo requerente.
+(..)
+Note-se que, nos termos do que dispõe o art. 373, I, do CPC/15, para o reconhecimento da procedência dos pedidos, incumbe ao requerente demonstrar as circunstâncias básicas e essenciais a que se lhe reconheça o direito postulado na inicial, já que se trata de fato constitutivo de seu direito.
+Destarte, não tendo o autor se desincumbido de comprovar a legitimidade de suas alegações, bem como a existência de qualquer ato praticado pelo requerido que fosse estranho ao que restou pactuado e que lhe pudesse causar algum dano, a improcedência da ação se impunha, nos exatos termos da sentença.
+Para alterar os fundamentos supratranscritos e reconhecer a abusividade do contrato celebrado entre as partes, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Registre-se, por fim, que a incidência da Súmula n. 7/STJ também obsta o conhecimento do recurso especial interposto pela alínea "c" do permissivo constitucional, pois impede que se verifique a similitude fática entre os acórdãos confrontados. A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. REEXAME DE PROVAS E INTERPRETAÇÃO CONTRATUAL, EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. CONHECIMENTO DE RECURSO, AINDA QUE POR DIVERGÊNCIA JURISPRUDENCIAL, QUE EXIJA REVISÃO DA MOLDURA FÁTICA APURADA PELA CORTE DE ORIGEM. INVIABILIDADE.
+1. Orientam as Súmulas 5 e 7/STJ que, em sede recurso especial, é inviável interpretação contratual e reexame de provas.
+2. Conforme a remansosa jurisprudência desta Corte, a Súmula 7/STJ obsta também o conhecimento do recurso especial interposto pela alínea "c", do permissivo constitucional.
+3. Agravo regimental não provido.
+(AgRg no REsp n. 914.335/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/9/2012, DJe 1º/10/2012.)
+Por fim, observa-se que a tese da suposta existência de dano moral constituiu indevida inovação recursal em sede especial, o que a jurisprudência desta Corte Superior não admite, até porque implica ausência de prequestionamento. Sob tal aspecto:
+DIREITO CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. REEMBOLSO DEVIDO. AUSÊNCIA DE PROFISSIONAL HABILITADO NA REDE CREDENCIADA DO CONVÊNIO. NECESSIDADE DE REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. INOVAÇÃO RECURSAL. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso, entendeu o Tribunal de origem que o beneficiário do plano faria jus ao ressarcimento total do valor gasto com o procedimento cirúrgico porque, apesar de seu convênio cobrir o problema de saúde detectado, não havia profissional habilitado, na rede credenciada, para realizar a operação necessária ao tratamento.
+Alterar esse entendimento exigiria reexame do acervo probatório dos autos, providência incabível em recurso especial.
+4. Inviável o conhecimento da matéria apresentada apenas no agravo interno, sob pena de indevida inovação recursal. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.443.943/SP, de minha relatoria, julgado em 14/10/2019, DJe 16/10/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.IMPENHORABILIDADE. BEM DE FAMÍLIA. INDENIZAÇÃO. ATO ILÍCITOINOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO CONHECIMENTO DO RECURSO POR AMBAS AS ALÍNEAS AUTORIZADORAS. SÚMULAS 211/STJ, 282 E 356/STF. MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. AGRAVO NÃO PROVIDO.
+1. A alegação de que a impenhorabilidade prevista na Lei 8.009/90 não é oponível ao credor de indenização por ato ilícito foi suscitada apenas em sede de embargos de declaração, razão pela qual não foi analisada pela Corte Estadual, por se tratar de indevida inovação recursal. Portanto, carece de prequestionamento, nos termos das Súmulas 211/STJ, 282 e 356/STF.
+2. É inviável o recurso especial quando ausente o prequestionamento, sequer implícito, do dispositivo da legislação federal apontado como violado.
+3. "A falta de prequestionamento inviabiliza o recurso especial também pela alínea "c" do permissivo constitucional, diante da impossibilidade de configuração do dissídio jurisprudencial, por não haver como ser feita a demonstração da similitude das circunstâncias fáticas em relação ao direito aplicado" (AgRg nos EDcl no AREsp 174.853/RJ, Rel. Ministro SIDNEI BENETI, Terceira Turma, julgado em 28/5/2013, DJe de 14/6/2013).
+4. A jurisprudência desta Corte é firme no sentido de que, na instância especial, é vedado o exame de questão não debatida na origem, ainda que se trate de matéria de ordem pública.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.317.107/ES, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INCONFORMISMO DA DEMANDADA.
+1. Consoante se observa dos embargos declaratórios opostos em face do acórdão estadual ora recorrido, a agravante não ventilou a tese, agora defendida, de novidade da prova. A matéria, portanto, não foi objeto de apreciação pela instância ordinária, quando do exame do recurso integrativo, carecendo do devido prequestionamento e constituindo em indevida inovação recursal.
+2. Incide, na hipótese, o enunciado da Súmula 7 do STJ, porquanto a Corte Estadual, mediante o exame de provas e contratos, reconheceu a vinculação da agravante como integrante da associação de moradores.
+3. É incabível a majoração dos honorários em grau recursal, a teor do art. 85, §§ 11, do CPC, quando a instância especial fora inaugurada em momento anterior à vigência da nova norma. Precedentes.
+4. Agravo interno desprovido.
+(AgInt nos EDcl nos EDcl no AREsp 366.050/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/10/2018, DJe 29/10/2018.)
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
