@@ -1,0 +1,17 @@
+DECISÃO
+Este recurso em habeas corpusinterposto porLaucemir Gomes da Silva, que buscava a revogação da prisão preventiva, perdeu o objeto.
+Em 19/3/2020, deferi o pedido liminar para substituir a prisão preventiva por prisão domiciliar como monitoramento eletrônico.
+Em 18/11/2020, a defesa pleiteou a substituição da prisão domiciliar pela aplicação de medidas cautelares diversas da prisãosob a alegação de quea renda familiar auferida pela companheira do ora peticionário, vem suportando a duras penas as despesas familiares. Desta forma, para auxílio de sua companheira e manutenção da família, necessário o retorno do ora peticionário ao trabalho na oficina de funilaria e mecânica, para composição da renda familiar, uma vez que em prisão domiciliar não consegue desenvolver essa atividade(fl. 353).
+Em informações atualizadas, prestadas pelo Juízo de origem, foi noticiado o seguinte (fl. 368 - grifo nosso):
+ ..
+Certidão do Centro Integrado de Movimentação e Informação Carcerária (Centro de Detenção Provisória "Dr. Felix Nobre de Campos" de Taubaté-SP), informando que o réu Laucemir Gomes da Silva foi colocado em liberdade na data de 24/03/2020, tendo o acusado declarado seu endereço como sendo na Rua Bicharra José Salomão, nº 120, CECAP Alta, Lorena-SP (fl. 736).
+Petição à fl. 743 informando como atual endereço do réu a Estrada Municipal Santa Terezinha, nº 448, Vila Hepacaré -CEP. 12608-100.
+Petição comunicando mudança de endereço para a Rua Ângelo Paz da Silva, nº92, Residencial Mantiqueira, CEP. 12.446-450, Pindamonhangaba-SP (fls. 747/748).
+Certidão Cartorária datada de 01/12/2020 (fl. 760), informando que os autos se encontravam no processamento, quando foram retirados com carga pelo patrono do denunciado Bruno Augusto de Toledo em 29/09/2020 e devolvidos em 30/11/2020 por solicitação da serventia. Informa ainda que, em consulta ao site do TJ/SP foi verificado que a carta precatória de fl. 724 foi devolvida, conforme certidão negativa de fl. 757, tendo em vistaque o réu já fora solto. Que foram oficiados à SEAP/RJ, bem como a 167ª DP desta Comarca, conforme determinado às fl. 722/723 para fins de monitoramento da prisão domiciliar, o que restou inviabilizado, uma vez que o réu se encontrava acautelado no Estado de São Paulo e, ainda, no momento da soltura declinou endereço naquele Estado: Rua Bicharra José Salomão, nº 120, CECAP Alta, Lorena -SP. Tampouco consta dos autos comprovação de que o réu tenha assinado o termo de compromisso de fl. 726, onde constou a obrigação de comparecimento à SEAP/RJ para implantação do monitoramento eletrônico.
+ ..
+Assim, embora o recorrente mencione que está cumprindo rigorosamente a prisão domiciliar estabelecida (fl. 352), o Juízo de primeiro grau informou que, oficiado ao órgão competente acerca do monitoramento eletrônico, foi dito que não há comprovação de queo réu tenha assinado o termo de compromisso de fl. 726, onde constou a obrigação de comparecimento à SEAP/RJ para implantação do monitoramento eletrônico(fl. 368 - grifo nosso).
+Ante o exposto, à vista da nova realidade fática, julgo prejudicadoso recurso, cassando a liminar anteriormente deferida, e o pedido de fls. 352/353.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. LIMINAR DEFERIDA. AUSÊNCIA DE COMPROVAÇÃO DE QUE O RECORRENTE ESTÁ CUMPRINDO A PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. NOVA REALIDADE FÁTICA. PERDA DO OBJETO. LIMINAR CASSADA.
+Recurso prejudicado. Liminar cassada. Pedido de fls. 352/353 prejudicado.
