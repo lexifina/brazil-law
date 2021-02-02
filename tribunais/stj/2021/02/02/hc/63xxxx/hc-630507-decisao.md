@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar, impetrado em favor deBruno Hugo Cesar Moreira, apontando-se como autoridade coatora o Tribunal de Justiça São Paulo (Apelação Criminal n.0000513-53.2017.8.26.0557).
+Narram os autos que o paciente foi condenado a 6 anos de reclusão e 600 dias-multa, em regime inicial fechado, pela prática do crime de tráfico de drogas. Na oportunidade, foi-lhe vedado o direito de recorrer em liberdade, expedindo-se o mandado de prisão.
+A defesa interpôs apelação criminal que, até o momento, não foi julgada pela Corte estadual.
+Daí o presentemandamus, em que o impetrante alega, em síntese, excesso de prazo no julgamento da apelação criminal, destacando que, em 6/2/2020, os autos foram conclusos ao relator do recurso.
+Requer, inclusive, em liminar, a revogação da prisão cautelar a fim de que o paciente aguarde o julgamento da apelação criminal em liberdade.
+Indeferida a liminar, prestadasas informações, foi noticiado queo referido recurso está sendo amplamente examinado e, nos próximos dias, será encaminhado para o Julgamento Virtual(fl. 544).
+O Ministério Público Federal opinou pela denegação da ordem, recomendando-se ao Tribunal de Justiça celeridade no julgamento do apelo defensivo.
+Em consulta à página eletrônica da Corte de origem, observa-se que ainda não há data prevista para o julgamento da Apelação Criminal n.0000513-53.2017.8.26.0557.
+É o relatório.
+Insurgindo-se o impetrante contra o excesso de prazo no julgamento da apelação criminal interposta pelo ora paciente, busca a revogação da prisão cautelar,a fim de que ele aguarde o julgamento do recursoem liberdade.
+Na espécie, contudo, não há ilegalidade passível de ser afastada medianteo deferimento da ordem pretendida.
+Vejamos, no ponto, o que disse o Magistrado de pisoao manter a prisão dopaciente na sentença condenatória (fl. 384 - grifo nosso):Assim, a custódia cautelar dos réus é necessária para a garantia da ordem pública. Não obstante, a liberdade provisória deferida pela superior instância, a condicionou, entre outras condições, "enquanto não sobrevier fato relevante que determine nova prisão". No caso em tela, ambos os acusados foram presos e condenados pelo mesmo delito de tráfico, a demonstrar ser imperiosa a revogação da liberdade outrora deferida - Processos n.280-40.2018.8.26.0066 (Anderson) e n.1500269-97.2019.8.26.0066 (Bruno).
+Pois bem. No que se refere à manutenção da prisão preventiva, não divisoilegalidade flagrante, notadamente diante da informação, contida na sentença, de que Bruno, ora paciente, foi condenado pelo mesmo crime, reiterando assim a conduta criminosa.
+Dessa forma, considerada essa reiteração delitiva, nãohá como reconhecer ailegalidade do título prisional ora questionado,poiso Superior Tribunalde Justiça tem firme entendimento de queapráticaanterior de delitospelo agente indica a configuração da cautelaridadenecessária para avalidade da medida processual mais grave, notadamente emrazão danecessidade de se resguardar a ordem pública(AgRg no HC n.580.730/SP,Ministra Laurita Vaz, DJe 23/6/2020 - grifo nosso).
+Ainda nesse sentido: AgRg no RHC n. 126.818/MS, Ministro Ribeiro Dantas,Quinta Turma, DJe 23/11/2020; eAgRg no RHC n. 129.846/DF, MinistroAntonio Saldanha Palheiro, Sexta Turma, DJe 16/10/2020.
+Acerca do excesso de prazo no julgamento da apelação criminal, com razão o Ministério Público Federal quando, em seu parecer, disse que,muito embora transcorrido prazo considerável desde a data da conclusão do processo ao relator (6/2/2020), não se pode considerá-lo excessivo na perspectiva da pena aplicada, de 6 anos de reclusão(fls. 547/548).
+Nesse sentido, a propósito, consoante entendimento pacificado nesta Corte, eventual excessode prazo no julgamento da apelação deve ser mensurado de acordo coma quantidade de pena imposta na sentença condenatória(AgRg no RHC n. 122.616/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/5/2020).
+Ante o exposto, denego a ordem com recomendação de celeridade no julgamento da Apelação Criminal n. 0000513-53.2017.8.26.0557, do Tribunal de Justiça de São Paulo.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. ÓBICE AO DIREITO DE RECORRER EM LIBERDADE. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA.EXCESSO DE PRAZO PARA A JULGAMENTO DA APELAÇÃO CRIMINAL. INEXISTÊNCIA DE DESÍDIA DO JUDICIÁRIO.OBSERVÂNCIA DO PRINCÍPIO DA RAZOABILIDADE QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. PARECER ACOLHIDO.
+Ordem denegadacom recomendaçãode celeridade no julgamento da Apelação Criminal n. 0000513-53.2017.8.26.0557, do Tribunal de Justiça de São Paulo.
