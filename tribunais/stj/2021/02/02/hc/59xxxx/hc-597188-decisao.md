@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor deKenedy Junio Gualberto,em que se aponta como autoridade coatora o Tribunal de Justiçade Minas Gerais, que denegou a ordem noHC n. 1.0000.20.440793-6/000.
+Colhe-se dos autos que o paciente teve a prisão em flagrante convertida em preventiva,ex officio,no dia 6/4/2020, pelo Juízo de Direitoda 2ª Vara da comarca de Arcos/MG,em razão da suposta prática do delito previsto no art. 33 da Lei n. 11.343/2006 (fls. 91/98).
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quodenegou a ordem nos termos da seguinte ementa (fl. 134):
+HABEAS CORPUS-TRÁFICO DE DROGAS -AUSÊNCIA DEREALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA -NULIDADE -INOCORRÊNCIA - PRISÃO PREVENTIVA -NECESSIDADE - PRESENÇADOS REQUISITOS DO ART. 312 DO CPP - REQUISITOS DARECOMENDAÇÃO 62/2020/CNJ E DA PORTARIA CONJUNTA19/PRTJMG/2020 NÃO PREENCHIDOS -GARANTIA DA ORDEM PÚBLICA- CONSTRAGIMENTO ILEGAL NÃO DEMONSTRADO -HABEAS CORPUSDENEGADO.
+- Com base na leitura do art. 310 do CPP, infere-se que o magistradodeverá converter a prisão em flagrante em preventiva, independente deser provocado pela autoridade policial ou Ministério Público quandoestiverem presentes os requisitos previstos nos artigos 312 e 313 doCódigo de Processo Penal.
+- A ausência de realização de "Audiência de Custódia" não implica emilegalidade na prisão, pois, além de não ser regulamentada noordenamento jurídico pátrio, verifico que as garantias constitucionaisasseguradas a todo cidadão foram devidamente observadas na hipótesedos autos.
+- Não caracteriza constrangimento ilegal a manutenção da segregação,se a decisão que decretou a prisão preventiva do paciente estáfundamentada na motivação arrolada na lei processual penal: art. 312 doCPP.
+- A prisão domiciliar é medida excepcional, sendo imprescindível parasua concessão a demonstração, mediante prova inequívoca, de suanecessidade e do preenchimento dos requisitos dispostos naRecomendação 62/2020/CNJ e na Portaria Conjunta 19/PRTJMG/2020.
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Sustenta-se que a custódia preventiva está fundamentada na gravidade abstrata do delito, de forma genérica.
+Aduz-seilegalidade da medida em razão da decretação, de ofício, e de necessidade de se ter em conta a atual situação de pandemia.
+Deferido por mim o pedido de liminarem 3/8/2020 (fls. 153/154).
+O Ministério Público Federal, em seu parecer, opinou pelonão conhecimento dowrite, se conhecido, pela denegação da ordem (fls. 161/165).
+É o relatório.
+In casu, confirmando a liminar, verifiquei constrangimento ilegal apto a ensejar a concessão da ordem paraaplicar medidas cautelares diversas da prisão.
+Diz a nossa jurisprudência que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade e não em meras suposições ou conjecturas. Ademais, a custódia cautelar não pode ser imposta com base, essencialmente, na gravidade abstrata do delito, assentada a motivação em elementos inerentes ao próprio tipo penal. Cumpre ao magistrado vincular seudecisuma fatores reais de cautelaridade, o que não ocorreu na espécie com relação ao ora paciente.
+O Juízo de origem, ao converter a prisão em flagrante em preventiva, assim fundamentou sua decisão no que interessa (fls. 92/55):
+ ..
+Não há necessidade de ouvir previamente o Ministério Público para decidir sobre adecretação daprisão em flagrante, por ausência de previsão legal, estando autorizada a decretação da prisão preventiva de ofício(nesse sentido, STJ, HC393.980/SC, Rel. Ministro Félix Fischer;TJMG, HC Criminal 1.0000.19.113831-2/000, RelatorDes. Eduardo Machado).
+De acordo com o art. 312 do CPP, a prisão preventiva poderá ser decretada comogarantia da ordem pública, da ordemeconômica, por conveniência da instrução criminal, oupara assegurar a aplicação da lei penal, quando houver prova da existência do crime eindício suficiente da autoria.
+ ..
+Há prova da materialidade do crime, diante dos laudos de constatação juntados,segundo os quais na substância apreendida havia cocaína, que é proibida no país.
+Também existem indícios de autoria, especialmente diante do que disseram osmilitares que participaram da prisão do agente.
+ ..
+No caso, a prisão preventiva do flagrado se justificaplenamente, diante do risco dereiterar na prática de infrações penais. De acordo com osmilitares que participaram daocorrência que terminou na prisão do agente, as informaçõesrecebidas davam conta de queeste vinha exercendo o tráfico há muito tempo.
+Em relação à quantidade de droga, é um grave erroconsiderar isoladamente aquantidade de substância apreendida no momentoda prisão em flagrante. Não é crívelsupor que o traficante somente teve adroga apreendida. Muito provavelmente ele játraficou outras drogas e parte da substânciaarrecadada. O tráfico de drogas geralmente éuma atividade, praticadade modo reiterado. Não é sensato supor, vale ser frisado, que apessoa adquiriu drogas paratraficar em uma única oportunidade. A quantidade de droga dizalguma coisa, mas multo pouco.
+ ..
+O Tribunal estadual, por sua vez, manteve a custódia cautelar e denegou a ordem (fls. 134/147).
+Como se vê, não se está diante de prisão preventiva desmotivada. A decisão que decretou a constrição cautelar do paciente não revela inidoneidade, uma vez que alicerçada em fator real de cautelaridade, qual seja, apreensão de 9,3 g de cocaínae o fato de o acusado ostentar condenação anterior por crime de furto. Contudo, a meu ver, em termos de proporcionalidade, não comporta a medida extrema adotada na origem e confirmada, depois, pelo Tribunal estadual, sendo suficiente a aplicação de medidas cautelares alternativas, uma vez que o crimeimputadonão foicometidocom violência ou grave ameaça à pessoa.
+Ademais, considerando tratar-se de crime cometido sem violência ou grave ameaçae haja vista a máxima excepcionalidade exigida, tendo em conta a Recomendação CNJ n. 62/2020 como medida, inclusive, de contenção da pandemia mundialmente causada pelo coronavírus (Covid-19), entendo que a custódia cautelar deve ser substituída por medidas cautelares alternativas.
+No mesmo sentido, confiram-se os seguintes precedentes:
+RECURSO ORDINÁRIO EMHABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RECURSO PROVIDO.
+1. Sabe-se que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, antes da confirmação da condenação pelo Tribunal de Justiça, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência dopericulum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. Na hipótese, o Juízo de primeira instância não apontou nenhuma circunstância idônea que pudesse evidenciar a necessidade da custódia cautelar do paciente para o resguardo da ordem pública, da ordem econômica, para a conveniência da instrução processual ou para assegurar a aplicação da lei penal, nos moldes do que preconiza o art. 312 do Código de Processo Penal. Assim, considerando que do decreto prisional não se extrai a imprescindibilidade da medida extrema e que, notadamente, o recorrente ostenta condições pessoais favoráveis, já que primário e portador de bons antecedentes, não há óbice a que responda ao processo em liberdade.
+3. Recurso provido.
+(RHC n. 82.043/MG, Sexta Turma, Ministro Nefi Cordeiro, Rel. p/ Acórdão Ministro Antonio Saldanha Palheiro, DJe 9/4/2018)
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE ENTORPECENTES. RESISTÊNCIA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. REDUZIDA QUANTIDADE DA DROGA APREENDIDA. RÉU PRIMÁRIO. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL EM PARTE DEMONSTRADA.WRITNÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O STF passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício.
+2. A aplicação de medidas cautelares, aqui incluída a prisão preventiva, requer análise, pelo julgador, de sua necessidade e adequação, a teor do art. 282 do CPP, observando-se, ainda, se a constrição é proporcional ao gravame resultante de eventual condenação.
+3. A prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar e quando realmente se mostre necessária e adequada às circunstâncias em que cometido o delito e às condições pessoais do agente. Exegese do art. 282, § 6º, do CPP.
+4. No caso, não obstante a reprovabilidade da conduta, mostra-se devida e suficiente a imposição de medidas cautelares alternativas, dada a apreensão de ínfima quantidade de estupefaciente e a primariedade do paciente.
+ ..
+(HC n. 438.701/SP, Ministro Jorge Mussi,Quinta Turma, DJe 28/6/2018 - grifo nosso)
+Por outro lado,colhe-se dos autos que o Magistrado, ao receber o auto de prisão em flagrante, converteu a prisão em flagrante em preventiva, de ofício, em absoluto descompasso com a redação do art. 311 do Código de Processo Penal (na forma da Lei n. 13.964/2019):
+Art. 311. Em qualquer fase da investigação policial ou do processo penal, caberá a prisão preventiva decretada pelo juiz, a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial.
+Portanto, destaco que ficou assentado pela Segunda Turma do Supremo Tribunal Federal, no julgamento do HC n. 188.888/MG, o entendimento de que é ilegal a custódia preventiva decretada, de ofício,orientação à qual me filio.
+Ante o exposto, confirmando a liminar, concedo a ordem ao paciente para substituir a prisão preventiva imposta pelas medidas cautelares previstas no art. 319, I, II, IV e V, do Código de Processo Penal, salvo prisão por outro motivo e sem prejuízo da aplicação, ou não, de outras medidas alternativas à prisão, fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. DESPROPORCIONALIDADE. CRIMESEM VIOLÊNCIA OU GRAVE AMEAÇA. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA. LIMINAR CONFIRMADA.
+Ordem concedida nos termos do dispositivo.
