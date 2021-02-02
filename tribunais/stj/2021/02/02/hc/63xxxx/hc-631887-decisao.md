@@ -1,0 +1,10 @@
+DECISÃO
+SIMONE APARECIDA RIBEIRO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n.1500150-12.2019.8.26.0560).
+Consta dos autos que a paciente foi condenada à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput e § 4º, c/c o art. 40, III, ambos da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, a concessão de prisão domiciliar à acusada, sob o argumento de que "está amamentando, cuida do marido que está em regime domiciliar por conta das doenças crônicas, e sua piora no estado de saúde (tanto que lhe foi concedido a prisão domiciliar), e não teve nenhum envolvimento em qualquer prática ilícita, devendo receber uma chance para prover os cuidados com o filho recém-nascido" (fl. 8). Pugna, ainda, pela fixação do regime aberto.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração, com a concessão de habeas corpus, de ofício, nos termos do parecer de fls. 91-112.
+Decido.
+Quanto à pretendida concessão de prisão domiciliar à paciente, verifico que essa matéria não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+Em relação ao regime de cumprimento de pena, não identifico nenhuma ilegalidade manifesta de que estaria sendo vítima a paciente, pois, embora fosse tecnicamente primária ao tempo do delito e possuidora de bons antecedentes, e não obstante tenha tido a pena-base fixada no mínimo legal, certo é que foi definitivamente condenada a reprimenda superior a 4 anos, o que evidencia ser o regime inicial semiaberto o mais adequado para a prevenção e a repressão do delito perpetrado. Inteligência do art. 33, § 2º, "b", do CP.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
