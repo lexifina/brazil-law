@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Antônio Carlos Celetzki, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça de Santa Catarina.
+Consta dos autos que o paciente foi denunciado como incurso no art. 155, caput, do Código Penal. Na sentença (Processo n. 0009535-60.2017.8.24.0018/SC), o paciente foi condenadopelo Juízo da 2ª Vara Criminal da comarca de Chapecó/SCà pena de 1 ano de reclusão, em regime semiaberto, e 10 dias-multa (fls. 301/313).
+Em sede de apelação (Apelação n. 0009535-60.2017.8.24.0018), a defesa postula a absolvição, por insuficiência de provas. A Primeira Câmara Criminal do Tribunal de Justiça de Santa Catarina negou provimento ao recurso (fls. 406/448).
+Opostos embargos de declaração, esses não foram conhecidos (fls. 443/448).
+No presente writ, a defesa requer seja suspenso o julgamento da apelaçãoe que seja feita a conversão em diligênciapara que o Ministério Público Federal seja intimado para oferecer acordo de não persecução penal.
+Decisão deste Relatorindeferindo a liminar (fls. 507/508).
+Parecer ministerialopinando pelo não conhecimento do writ (fls. 511/514).
+É o relatório.
+O pleito da defesa é de que seja aplicado retroativamente o acordo de não persecução penal (ANPP), previsto no art. 28-A, § 14º, do Código de Processo Penal, às ações penais em curso. A Corte local entendeu não ser possívelestender o benefício a todos os processos em trâmite, especialmente aqueles já sentenciados, como no caso em tela, isso porque, salvo melhor juízo, o marco temporal para a proposta é o recebimento da denúncia, que, na hipótese, ocorreu em 17/11/2017(fl.446).
+Existem divergências a respeito da matéria. A Sexta Turma desta Corte entende pela retroatividade do benefício para os processos ainda não transitados em julgado. Nesse sentido:
+PEDIDO DE EXTENSÃO NO AGRAVO REGIMENTAL DO HABEAS CORPUS. FRAUDE ÀLICITAÇÃO E FALSIDADE IDEOLÓGICA. PENAS MÍNIMAS SOMADAS INFERIORES ÀQUATRO ANOS DE RECLUSÃO. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-ADO CÓDIGO DE PROCESSO PENAL. PACOTE ANTICRIME. NATUREZA MISTA DANORMA. RETROATIVIDADE. PEDIDO EXTENSIVO DEFERIDO.
+1. Dispõe o art. 580 do Código de Processo Penal que, "No caso de concurso de agentes, a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+2. O cumprimento integral do acordo de não persecução penal gera a extinção da punibilidade, previsto no art. 28-A do CPP, com a redação dada pela Lei 13.964/2019, de modo que, como norma de natureza jurídica mista e mais benéfica ao réu, deve retroagir em seu benefício em processos não transitados em julgado
+3. Estando o ora requerente nas mesmas condições fáticas, faz jus à extensão do efeitos da ordem concedida ao corréu.
+4. Pedido de extensão deferido a PANTALEÃO ESTEVAM DE MEDEIROS.(PExt no AgRg no HC n. 575.395/RN,Ministro Nefi Cordeiro, Sexta Turma, DJe 18/12/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FRAUDE À LICITAÇÃO. FALSIDADEIDEOLÓGICA. ACORDO DE NÃO PERSECUÇÃO PENAL. PACOTE ANTICRIME. ART.28-A DO CÓDIGO DE PROCESSO PENAL. NORMA PENAL DE NATURA MISTA.RETROATIVIDADE A FAVOR DO RÉU. NECESSIDADE DE INTIMAÇÃO DOMINISTÉRIO PÚBLICO. DECISÃO RECONSIDERADA. AGRAVO REGIMENTAL PROVIDO.1. É reconsiderada a decisão inicial porque o cumprimento integral do acordo de não persecução penal geraa extinção da punibilidade(art. 28-A, § 13, do CPP), de modo que como norma de natureza jurídica mistae mais benéfica ao réu, deve retroagir em seu benefício em processos não transitados em julgado (art. 5º, XL, da CF).2. Agravo regimental provido, determinandoa baixa dos autos ao juízo de origem para quesuspendaa ação penal e intime o Ministério Público acerca de eventual interesse na propositurade acordo de não persecução penal, nos termos do art. 28-A do CPP(introduzido pelo Pacote Anticrime - Lei n. 13.964/2019).(AgRg no HC n. 575.395 / RN,Ministro Nefi Cordeiro, Sexta Turma, DJe 14/9/2020)
+No entanto, na hipótese dos autos, o feito está sentenciado e houve também condenação pelo Tribunal, já estando portanto transitado em julgado. Assim, ainda que fosse relevada a questão do art. 59 do Código Penale superada a negativação dos antecedentes para que se aplicasse a retroatividade, essa não seria possível por já estar definitiva a condenação.
+Ante o exposto,denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. FURTO SIMPLES. PEDIDO DE APLICAÇÃO DA RETROATIVIDADE PARA ACORDO DE NÃO PERSECUÇÃO PENAL. IMPOSSIBILIDADE. ANTECEDENTES CONSIDERADOS NEGATIVOS. PROCESSO JÁ TRANSITADO EM JULGADO.
+Ordem denegada.
