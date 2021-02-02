@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDERSON DE MORAES COSTA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelação n. 0000416-80.2015.8.26.0603).
+Depreende-se dos autos que o paciente, em primeiro grau, foi absolvido da acusação de ter praticadoo crime previsto no art. 288 do Código Penal (associação criminosa), e condenado a 1 ano e 4 meses de reclusão, no regime inicialmente aberto, pela prática do delito inscrito no art. 155, § 4º, I e IV, c/c o art. 14, II, ambos também do Código Penal (furto qualificado tentado);substituída a sanção por restritivas de direitos.
+Interposta apelação pela acusação, o Tribunal de origem deu provimento ao recurso "para condenar  ..  ANDERSON DE MORAES COSTA e ANDRÉ LUÍS ALMEIDA DA SILVA às penas de 2 anos, 6 meses e 20 dias de reclusão e 7 dias- multa;  ..  carcerárias sob regime prisional fechado e pecuniárias no valor unitário mínimo, por incursos nos artigos, 155, § 4º, incisos I e IV, c.c. 14, inciso II, e 288, caput, na forma do 69, caput, todos do Código Penal" (e-STJ fl. 61).
+Daí o presente writ, no qual sustenta a defesa que a redução da pena, em razão do reconhecimento da figura tentada em relação ao crime de furto, deve se dar em uma fração maior, notadamente em razão das peculiaridades da atuação do paciente na prática delitiva.
+Além disso, aduz ser adequada a fixação do regime inicial aberto.
+Requer, liminarmente e no mérito, a aplicação do redutor pela tentativa de furto na fração máxima e a fixação do regime aberto.
+O pedido liminar foi deferido para garantir ao paciente que permanecesse no regime aberto até o julgamento final da impetração (e-STJ fls. 95/97).
+O Ministério Público Federal manifestou-se pela concessão da ordem de habeas corpus de ofício (e-STJ fls. 104/108).
+É, em síntese,o relatório.
+Examino, em primeiro lugar, o pleito de redução da pena do crime de furto qualificado.Pretende a defesa, nesse ponto, a aplicação de uma fração maior, na terceira fase da dosimetria, haja vista que o Tribunal de origem, mediante os fundamentos a seguir transcritos, diminuiu a pena no mínimo legal. Confira-se (e-STJ fl. 69):
+Na terceira fase da dosimetria, mantida a redução mínima pela tentativa, compatível com o extenso iter criminis percorrido pelos agentes, que chegaram a arrombar "a porta que guarnecia a sala dos cofres" (laudo de fl. 253), perfazem, as reprimendas, 1 ano e 4 meses de reclusão e 6 dias-multa, para os réus Mauricio e Juliano; 1 ano, 6 meses e 20 dias de reclusão e 7 dias - multa, para os réus Anderson e André; 1 ano, 7 meses e 6 dias de reclusão e de 8 dias-multa, para Rodrigo, e; 1 ano, 9 meses e 23 dias de reclusão e 8 dias-multa, para David.
+Vê-se que a redução mínima deu-se em razão de ter sido percorrido longo iter criminis, tendo o crime quase alcançado a consumação.
+Essa orientação ajusta-se ao entendimento firmado nesta Corte o qualpreconizaque "ocritério do redutor fracionário da tentativa leva em conta a proximidade do momento consumativo do crime, ou seja, quanto mais próximo da consumação, menor será a redução da reprimenda" (HC n. 534.173/RJ, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/12/2019, DJe 19/12/2019).
+No mais, verificar se, de fato, a conduta do paciente alcançou esse grau de aproximação da consumação exigiria ampla incursão no acervo probatório, procedimento incompatível coma via eleita.
+Passo ao exame do regime prisional.
+Aqui, assiste parcial razão à defesa.
+O acórdão impugnado condenou o paciente, pelos crimes de furto qualificado tentado e associação criminosa, a 2 anos, 6 meses e 20 dias de reclusão, fixando o regime inicial fechado nos seguintes termos (e-STJ fl. 70):
+Em se tratando de ousado delito patrimonial praticada, a tentativa de furto, contra agência bancária, que visava subtração do conteúdo existente no cofre do estabelecimento praticado por grupo numeroso (seis indivíduos),com o emprego de ferramentas pesadas (pé de cabra e maçarico), cometido em concurso material com o crime de associação criminosa, inviável se mostra a fixação de regime prisional diverso do fechado, até porque tais condutas demonstram personalidade desvirtuada de seus autores e são altamente desestabilizadoras da paz social. Ademais, David e Rodrigo são reincidentes em crimes contra o patrimônio.
+Contudo, o regime fechado não se revela apropriado, uma vez que o paciente é primário e sua pena final não ultrapassa 4 anos de reclusão.
+Assim, de acordo os §§ 2º e 3º do art. 33 do Código Penal, tendo em vista a pena estabelecida, as circunstâncias judiciais desfavoráveis e a primariedade do réu, o regime inicial para cumprimento de pena é o semiaberto.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. FURTO QUALIFICADO. REPRIMENDA INFERIOR A 4 (QUATRO) ANOS. PENA- BASE FIXADA ACIMA DO MÍNIMO LEGAL. FIXAÇÃO DE REGIME MAIS GRAVOSO (SEMIABERTO). CABIMENTO. AGRAVO DESPROVIDO.
+1. Fixada a pena-base acima do mínimo legal, em virtude da presença de circunstâncias judiciais desfavoráveis, é cabível a fixação do regime semiaberto para o início de cumprimento de pena, nos termos do art. 33, §§ 2.º e 3.º, do Código Penal, ainda que a reprimenda definitiva tenha sido inferior a 4 (quatro) anos de reclusão.
+2. Agravo regimental desprovido.(AgRg no HC 511.164/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/02/2020, DJe 21/02/2020)
+Ante o exposto, concedo parcialmente a ordem para fixar o regime inicial semiaberto.
+Publique-se. Intimem-se.
