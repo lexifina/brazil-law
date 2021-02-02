@@ -1,0 +1,58 @@
+DECISÃO
+CARLOS GILBERTO BOLT (CARLOS) ajuizou ação declaratória de inexigibilidade de débito contra UNIMED DE LONDRINA COOPERATIVA DE TRABALHO MÉDICO LTDA. (UNIMED), alegando que os valores exigidos em virtude de internação hospitalar são indevidos, além de pleitear indenização por danos morais.
+A sentença julgou parcialmente procedente o pedido, para limitar o débito ao montante de 30% sobre os gastos, haja vista a cláusula de coparticipação do contrato de plano de saúde, determinar a manutenção do vínculo contratual e a abstenção de inscrição do nome de CARLOS em cadastro de proteção ao crédito até a liquidação. Ainda, condenaram-se as partes ao pagamento de custas processuais e honorários advocatícios, estes fixados em 10% sobre o valor da condenação, a serem suportados na proporção de 70% por CARLOS e 30% por UNIMED (e-STJ, fls. 165/175).
+A apelação interposta por CARLOS foi parcialmente provida pelo TJ/PR nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE INEXIGIBILIDADE DE DÉBITO E INDENIZAÇÃO POR DANO MORAL. - PLANO DE SAÚDE. COPARTICIPAÇÃO EM PERCENTUAL SOBRE O CUSTO DO TRATAMENTO EM INTERNAÇÃO. IMPOSSIBILIDADE. VEDAÇÃO CONTIDA NA RESOLUÇÃO Nº 08/1998 DO CONSU. - DANO MORAL. INOCORRÊNCIA. COBRANÇA COM BASE EMCONTRATO. NÃO ADOÇÃO DE MEDIDA RESTRITIVA DE CRÉDITO OU DE NEGATIVA DE ATENDIMENTO DE SAÚDE. SITUAÇÃO QUE NÃO ULTRAPASSA O MERO DISSABOR. - SUCUMBÊNCIA RECÍPROCA ENTRE AS PARTES. - HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO COM FUNDAMENTO NO ART. 85, § 2º DO CPC SOBRE O PROVEITO ECONÔMICO. - RECURSO CONHECIDO E PARCIALMENTE PROVIDO (e-STJ, fl. 536).
+Os embargos de declaração opostos por UNIMED foram rejeitados (e-STJ, fls. 589/591).
+Inconformada, UNIMED manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 47, 51 e 54, §4º, do CDC, ao sustentar que (1) CARLOS teve ciência da cláusula de coparticipação de forma clara; e (2) as disposições da Resolução CONSU nº 8/98 são aplicáveis apenas quando houver financiamento integral pelo usuário ou grave fator restritivo ou onerosidade excessiva ao consumidor.
+Foram apresentadas as contrarrazões (e-STJ, fls. 640/644).
+O apelo nobre não foi admitido em virtude da (1) ausência de violação do art. 1.022 do NCPC; e, (2) incidência da Súmula nº 83 do STJ (e-STJ, fls. 647/650).
+Nas razões do agravo em recurso especial, UNIMED afirmou que houve violação do art. 1.022 do NCPC e não se aplica a Súmula nº 83 do STJ (e-STJ, fls. 660/672).
+Foi apresentada contraminuta (e-STJ, fls. 695/696).
+O agravo em recurso especial não foi conhecido em decisão da Presidência do STJ, em virtude da ausência de impugnação à Súmula nº 83 do STJ (e-STJ, fls. 711/713).
+Nas razões do presente agravo interno, UNIMED defendeu que impugnou todos os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 715/721).
+Não foi apresentada impugnação.
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 711/713 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 715/721.
+Do agravo em recurso especial
+O recurso merece prosperar.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) e (2) Da incidência da Súmula nº 568 do STJ
+Nas razões do presente recurso, CARLOS afirmou a violação dos arts. 47, 51 e 54, §4º, do CDC, sustentando que CARLOS teve ciência da cláusula de coparticipação de forma clara. Ainda, alegou que as disposições da Resolução CONSU nº 8/98 são aplicáveis apenas quando houver financiamento integral pelo usuário ou grave fator restritivo ou onerosidade excessiva ao consumidor.
+Sobre o tema o TJ/PR consignou que é ilegal a cobrança de coparticipação em percentual sobre despesas decorrentes de internação não relacionada a saúde mental, confira-se:
+No que se refere a coparticipação em percentual sobre o custo de tratamento, cabe ressaltar que a sua previsão é proibida apenas nos casos de internação, e somente para os eventos que não tenham relação com a saúde mental. Neste caso os valores devem ser prefixados.
+(..)
+Concluindo-se que as cobranças com valor total de R$35.462,17 são resultado da incidência do percentual de coparticipação de 30% sobre os procedimentos realizados enquanto o autor esteve internado e com base nos arts. 2º, VII e VIII, e 4º, VII, da Resolução CONSU nº 8/1998, e na jurisprudência do STJ no sentido de que a coparticipação em percentual sobre o custo do tratamento é proibida no caso de internação, a sentença deve ser modificada a fim de afastara cobrança de 30% sobre os gastos e despesas decorrentes da internação da parte autora (e-STJ, fls. 539/540).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que não se admite a cobrança de coparticipação em percentual sobre valores decorrentes de internação quando não relacionada a saúde mental do usuário, permitida apenas a exação em valores prefixados.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. INTERNAÇÃO E EVENTOS NÃO RELACIONADOS À SAÚDE MENTAL. COPARTICIPAÇÃO EM PERCENTUAL. VEDAÇÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+2. É vedada a coparticipação em percentual em casos de internação e relativos a eventos não relacionados à saúde mental. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.692.230/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 09/03/2020, DJe 16/03/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM PEDIDO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. JULGAMENTO MONOCRÁTICO. SÚMULA 568/STJ. COPARTICIPAÇÃO. PERCENTUAL. PREVISÃO CONTRATUAL. HIPÓTESES DE CABIMENTO. AGRAVO PARCIALMENTE PROVIDO.
+1. Nos termos da Súmula 568/STJ, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema". 2. A ausência de cobrança de coparticipação em novos planos de saúde comercializados pelo agravante não tem o condão de afastar previsão contratual expressa constante do contrato celebrado entre as partes.
+3. Em regra, não é ilegal a contratação de plano de saúde em regime de coparticipação, em valor fixo ou percentual, desde que não implique financiamento quase integral do procedimento pelo próprio usuário, sendo vedada a coparticipação em percentual apenas em casos de internação e relativamente a eventos não referentes a saúde mental.
+4. Agravo interno parcialmente provido.
+(AgInt no REsp 1.587.174/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, j. em 26/06/2018, DJe 29/06/2018)
+RECURSO ESPECIAL. CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE. COPARTICIPAÇÃO DO USUÁRIO EM VALORES PERCENTUAIS. PREVISÃO CONTRATUAL CLARA E EXPRESSA. TRATAMENTO SEM INTERNAÇÃO. LEGALIDADE. FATOR DE RESTRIÇÃO SEVERA AOS SERVIÇOS. INEXISTÊNCIA. ABUSIVIDADE. AFASTAMENTO.
+1. Cinge-se a controvérsia a saber se é abusiva cláusula contratual de plano de saúde que prevê a coparticipação do usuário nas despesas médico-hospitalares em percentual sobre o custo do tratamento.
+2. Os planos de saúde, instituídos com o objetivo de melhor gerir os custos da assistência privada à saúde, podem ser integrais (completos) ou coparticipativos.
+3. O art. 16, VIII, da Lei nº 9.656/1998 permitiu a inclusão de fatores moderadores, paralelos às mensalidades, no custeio dos planos de saúde, como a coparticipação, a franquia e os limites financeiros, que devem estar devidamente previstos no contrato, de forma clara e legível, desde que também não acarretem o desvirtuamento da livre escolha do consumidor. Precedente.
+4. A adoção da coparticipação no plano de saúde implica diminuição do risco assumido pela operadora, o que provoca redução do valor da mensalidade a ser paga pelo usuário, que, por sua vez, caso utilize determinada cobertura, arcará com valor adicional apenas quanto a tal evento.
+5. Os fatores moderadores de custeio, além de proporcionar mensalidades mais módicas, são medidas inibitórias de condutas descuidadas e pródigas do usuário, visto que o uso indiscriminado de procedimentos, consultas e exames afetará negativamente o seu patrimônio. A prudência, portanto, figura como importante instrumento de regulação do seu comportamento.
+6. Não há falar em ilegalidade na contratação de plano de saúde em regime de coparticipação, seja em percentual sobre o custo do tratamento seja em montante fixo, até mesmo porque "percentual de co-participação do consumidor ou beneficiário" (art. 16, VIII, da Lei nº 9.656/1998) é expressão da lei. Vedação, todavia, da instituição de fator que limite seriamente o acesso aos serviços de assistência à saúde, a exemplo de financiamentos quase integrais do procedimento pelo próprio usuário, a evidenciar comportamento abusivo da operadora.
+7. A coparticipação em percentual sobre o custo do tratamento é proibida apenas nos casos de internação, e somente para os eventos que não tenham relação com a saúde mental, devendo, no lugar, ser os valores prefixados (arts. 2º, VII e VIII, e 4º, VII, da Resolução CONSU nº 8/1998).
+8. O afastamento da cláusula de coparticipação equivaleria a admitir-se a mudança do plano de saúde para que o usuário arcasse com valores reduzidos de mensalidade sem a necessária contrapartida, o que causaria grave desequilíbrio contratual por comprometer a atuária e por onerar, de forma desproporcional, a operadora, a qual teria que custear a integralidade do tratamento.
+9. Recurso especial provido.
+(REsp 1.566.062/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 21/06/2016, DJe 01/07/2016)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHECER do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em favor de CARLOS para 7% sobre o valor do proveito econômico, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. PLANO DE SAÚDE. RECONSIDERAÇÃO. COPARTICIPAÇÃO. PERCENTUAL. INTERNAÇÃO. EVENTO NÃO RELACIONADO A SAÚDE MENTAL. IMPOSSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
