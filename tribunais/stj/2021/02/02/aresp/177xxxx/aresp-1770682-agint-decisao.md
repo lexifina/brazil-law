@@ -1,0 +1,71 @@
+DECISÃO
+MANUELA JAKAB FERNANDES e outro (MANUELA e outro) ajuizaram ação de cobrança contra PRUDENTIAL DO BRASIL VIDA EM GRUPO S.A. (PRUDENTIAL), pleiteando seguro de vida em decorrência do falecimento de Wilson Fernandes Junior.
+Em primeira instância, o pedido foi julgado procedente, condenando-se PRUDENTIAL ao pagamento de indenização securitária por morte acidental e despesas referentes a auxílio funeral (e-STJ, fls. 165/175).
+A apelação interposta por PRUDENTIAL não foi provida pelo TJ/SP nos termos do acórdão de relatoria da Des. SILVIA ROCHA, assim ementado:
+Seguro de vida - Ação de cobrança de indenização securitária - Recusa de pagamento de indenização da ré fundada em informação constante do teste toxicológico do segurado, falecido, sobre a ingestão mínima de álcool -Seguro de dano, como é o exemplo de seguro de veículos, tem premissas distintas dos seguros de danos pessoais, como é o de vida - Aos seguros de vida, basta a verificação da boa-fé do segurado, que é o suficiente para o pagamento de indenização - Súmula 620 do Superior Tribunal de Justiça - Não pode a seguradora se eximir do pagamento de indenização por morte acidental sob o fundamento de agravamento de risco, por suposta embriaguez do segurado, o que torna abusiva, e portanto, nula, toda e qualquer cláusula que assim estabeleça - Mesmo que, supostamente o autor tenha ingerido álcool, não há prova de que a quantidade aferida tenha sido capaz de embriagá-lo e contribuído diretamente para a ocorrência do acidente - Colisão em ultrapassagem lícita - Necessidade de prova do nexo causal entre a ingestão de álcool e o acidente de trânsito, do que a ré não se desincumbiu - Sentença mantida - Recurso não provido (e-STJ, fl. 447).
+Inconformada, PRUDENTIAL manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação do art. 768 do CC/02, bem como dissídio jurisprudencial, ao sustentar que o segurado dirigia em total embriaguez, agravando o risco objeto do seguro de vida, o que afasta o dever de indenizar.
+Foram apresentadas as contrarrazões (e-STJ, fls. 492/505).
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 83 do STJ (e-STJ, fls. 514/517).
+Nas razões do presente agravo em recurso especial, PRUDENTIAL afirmou que a jurisprudência do STJ entende que a embriaguez ao volante agrava o risco, afastando o direito à indenização por seguro de vida (e-STJ, fls. 520/527).
+Foi apresentada contraminuta (e-STJ, fls. 530/537).
+O agravo em recurso especial não foi conhecido em decisão da Presidência do STJ, em virtude da ausência de impugnação à incidência da Súmula nº 83 do STJ (e-STJ, fls. 544/546).
+Nas razões do presente agravo interno, PRUDENTIAL defendeu que impugnou a aplicação da Súmula nº 83 do STJ (e-STJ, fls. 551/560).
+Foi apresentada impugnação (e-STJ, fls. 562/569).
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 544/546 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 520/527.
+Do agravo em recurso especial
+O recurso não merece prosperar.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da incidência das Súmulas nºs 7 e 568 do STJ
+Nas razões do presente recurso, PRUDENTIAL afirmou a violação do art. 768 do CC/02, sustentando que o segurado dirigia em total embriaguez, agravando o risco objeto do seguro de vida, o que afasta o dever de indenizar.
+Sobre o tema o TJ/SP consignou que a seguradora não pode deixar de indenizar os beneficiários de seguro de vida, sob a alegação de agravamento do risco fundado em embriaguez do segurado, confira-se:
+Não há controvérsia acerca da existência de contrato de seguro entre ré e o segurado e que os autores, seus filhos, foram indicados como beneficiários do seguro.
+Seguro de dano, como é o exemplo de seguro de veículos, tem premissas distintas dos seguros de danos pessoais, como é o de vida.
+No primeiro, é relevante aferir se houve, ou não, agravamento de risco pela ingestão de bebida alcóolica, sendo lícita, portanto, a exclusão de cobertura fundada nesta hipótese.
+Ao segundo, entretanto, basta a verificação da boa-fé do segurado, que é o suficiente para o pagamento de indenização.
+Deste modo e com base na jurisprudência consolidada do Superior Tribunal de Justiça sobre o assunto, editou-se a Súmula nº 620, que dispõe: "A embriaguez do segurado não exime a seguradora do pagamento da indenização prevista em contrato de seguro de vida."
+ ..
+Por tudo, não pode a seguradora eximir-se do pagamento de indenização por morte acidental sob o fundamento de agravamento de risco, por suposta embriaguez do segurado, o que torna abusiva e, portanto, nula, toda e qualquer cláusula que assim estabeleça, mormente a cláusula 26, "b", das condições gerais do seguro (fl. 273) (e-STJ, fls. 450/451).
+No mesmo sentido, esta Corte Superior possui entendimento sumulado de que a embriaguez do segurado não exime a seguradora do pagamento da indenização prevista em contrato de seguro de vida (Súmula nº 620 do STJ).
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. ACIDENTE DE TRÂNSITO. MORTE DO SEGURADO. NEGATIVA DE COBERTURA PELA SEGURADORA. ALEGAÇÃO DE AGRAVAMENTO DO RISCO.EMBRIAGUEZ. SÚMULA Nº 620 DO STJ. AGRAVO INTERNO DESPROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. O juízo de admissibilidade recursal realizado na origem representa uma análise perfunctória, e não vinculante a respeito dos requisitos intrínsecos e extrínsecos necessários ao conhecimento do recurso. Precedentes.
+3. Nos termos da Súmula nº 620 do STJ: A embriaguez do segurado não exime a seguradora do pagamento da indenização prevista em contrato de seguro de vida.
+4. Pelo princípio do ne reformatio in pejus, impede-se que a situação jurídica da parte recorrente (e não da parte recorrida) seja prejudicada em razão do julgamento do recurso.
+5. Tampouco há como sustentar a existência de decisão preclusa determinado que o cálculo da indenização securitária observasse determinados parâmetros se tanto a sentença quanto o acórdão estadual julgavam improcedente o pedido.
+6. Agravo interno não provido.
+(AgInt no REsp 1.796.415/SP, de minha relatoria, Terceira Turma, j. em 11/05/2020, DJe 14/05/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. SEGURO DE VIDA. ACIDENTE DE TRÂNSITO. EMBRIAGUEZ DO SEGURADO. ALEGAÇÃO DE EXCLUSÃO DE COBERTURA CONTRATUAL POR AGRAVAMENTO DO RISCO. NÃO ACOLHIMENTO. HIPÓTESE DIVERSA DO CONTRATO DE SEGURO DE DANO. JURISPRUDÊNCIA ASSENTE DO STJ. PEDIDO SUBSIDIÁRIO. DELIMITAÇÃO DE COBERTURA CONTRATUAL. REVOLVIMENTO DE CLÁUSULA CONTRATUAL. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. É entendimento assente desta Corte de que "A embriaguez do segurado não exime a seguradora do pagamento da indenização prevista em contrato de seguro de vida" (Súmula 620/STJ).
+2. Ao contrário do que ocorre no seguro de automóvel, é vedada a exclusão de cobertura na hipótese de sinistros ou acidentes decorrentes de atos praticados pelo segurado em estado de insanidade mental, de alcoolismo ou sob efeito de substâncias tóxicas (Carta Circular SUSEP/DETEC/GAB nº 8/2007)" (AgInt no REsp 1728428/SC, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 01/03/2019).
+3. Ausentes alegações capazes de infirmar os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+4. Agravo interno não provido.
+(AgInt nos EDcl na TutPrv no REsp 1.786.848/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 31/08/2020, DJe 29/09/2020)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Ademais, ainda que não incidisse a Súmula nº 568 do STJ, o Tribunal Paulista também consignou que sequer fora comprovada a efetiva embriaguez do segurado nem esta tenha sido causa determinante do acidente que o levou a óbito, nos termos da seguinte fundamentação:
+De qualquer modo, o Boletim de ocorrência de fls. 18/21, ao contrário do que alega a ré, não conta com informações pormenorizadas do acidente, mas apenas consigna que "Comparece nesta unidade policial o SD PM Rodoviário Lucinei RE: 922154-9 VTR. R: 1529 noticiando que foi acionado via DER para atender uma ocorrência de acidente de trânsito com vítima fatal. Chegando no local deparou o caminhão incendiado e o veículo acidentado na vegetação devido a gravidade do acidente. Foi acionado o cepol/Santos onde compareceu a perita Mariane que para fazer a perícia do local do acidente conforme talão 2219. Os veículos foram encaminhados ao pátio do DER. Conforme declaração do policial rodoviário o veículo Logan estava fazendo uma ultrapassagem onde os veículos colidiram lateralmente. Foi acionado a funerária onde comparece o motorista Marcio para transportar a vítima ao IML/Guarujá/SP para fazer exame Necroscópico. Nada mais" (fl. 21).
+Por meio de pesquisa no Google Maps, aliás, o exato local do acidente contava com faixa de rolamento que permitia a ultrapassagem, ao contrário do que afirma a ré.
+A despeito de o exame toxicológico realizado ter revelado "resultado POSITIVO para ÁLCOOL ETÍLICO na concentração de 0,6 g/l" (fl. 38), tal conclusão, por si só, não faz prova de que o autor estava embriagado e, por consequente, com a sua capacidade de dirigir alterada
+A conclusão a que se chega é a de que, ainda que o autor tenha ingerido álcool, não há prova nos autos de que, repito, a quantidade aferida tenha sido capaz de embriagá-lo e contribuído diretamente para a ocorrência do acidente.
+Não se pode dizer, inclusive, que o acidente era improvável e que ocorreu, exclusivamente, em razão da influência de álcool, já que, como constou do boletim de ocorrência, ele colidiu quando realizava ultrapassagem lícita.
+Além do mais, a ingestão de álcool, por si só, não seria capaz de afastar a cobertura securitária, havendo necessidade de prova do nexo causal entre ela e o acidente de trânsito, isto é, que este tenha sido consequência determinante daquela (e-STJ, fls. 451/452).
+Assim, rever as conclusões quanto à embriaguez do segurado e à falta de comprovação da causa determinante do acidente demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO VEICULAR. ACIDENTE DE TRÂNSITO. EMBRIAGUEZ DETERMINANTE. AGRAVAMENTO DO RISCO. REEXAME DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. MAJORAÇÃO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. AUSÊNCIA DE HONORÁRIOS FIXADOS NA ORIGEM. PROVIMENTO PARCIAL DO AGRAVO INTERNO.
+1. "É firme a jurisprudência de ambas as turmas da Segunda Seção de que a embriaguez, em sendo causa determinante do sinistro, agrava intencionalmente o risco contratado, não se restringindo aos casos em que o próprio segurado se encontra alcoolizado, devendo abranger, também, os condutores principais (familiares, empregados e prepostos) que estejam na direção do veículo, haja vista a violação do dever de vigilância e de escolha adequada a quem confia a prática do ato, seja por o dolo ou culpa grave do segurado" (AgInt nos EDcl no REsp 1.602.690/PE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 27/11/2018, DJe 4/12/2018).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e revisão das cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+3. Na origem, o Tribunal de origem analisou a prova dos autos para concluir que existe cláusula na apólice excluindo a cobertura se o veículo for guiado por pessoa embriagada, e que esse estado de embriaguez foi determinante para o sinistro. Alterar tal conclusão é inviável em recurso especial, a qual também está em conformidade com a orientação atual do STJ.
+4. Não devem ser majorados os honorários recursais no STJ quando estes não foram fixados na instância de origem. Precedente da Corte Especial.
+5. Agravo interno a que se dá provimento parcial.
+(AgInt no AREsp 1.319.648/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 30/03/2020, DJe 01/04/2020)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em favor de MANUELA e outro em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. SEGURO DE VIDA. RECONSIDERAÇÃO. ACIDENTE DE TRÂNSITO. SUPOSTA EMBRIAGUEZ. SEGURO DE VIDA DEVIDO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULAS NºS 568 E 620 DO STJ. EMBRIAGUEZ NÃO DEMONSTRADA. CAUSA DETERMINANTE DO ACIDENTE NÃO EVIDENCIADA. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
