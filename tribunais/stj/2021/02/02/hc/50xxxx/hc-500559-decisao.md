@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de URBANO NOGUEIRA SANTIAGO NETO e de ODAIR CARLOS FARIA contra acórdão do Tribunal de Justiça do Estado de São Paulo que não conheceu do HC n.2004207-47.2019.8.26.0000.
+Consta dos autos que os Pacientes foram denunciados, em 1.º/02/2018, como incursos no art. 2.º, inciso II, da Lei n.8.137/1990, feito autuado sob o n.1000765-58.2018.8.26.0604, em tramitação na Vara do Juizado Especial Cível e Criminal da Comarca de Sumaré/SP.
+Irresignada, a Defesa impetrouhabeas corpus perante a 2.ª Turma Cível, Criminal e da Fazenda do Colégio Recursal de Americana/SP, pleiteando o trancamento da ação penal. Todavia, a ordem foi denegada (fls. 773-777).
+Em seguida, foi impetrado habeas corpus perante o Tribunal de origem, que não conheceu da impetração (fls. 805-808).
+Nas razões deste writ, sustenta-se, inicialmente, a existência de flagrante ilegalidade pelo não conhecimento da impetração originária pelo Tribunal de origem, pois a jurisprudência atualizada preconiza que compete aos Tribunais de Justiça o julgamento de habeas corpus quando a autoridade coatora for Turma Recursal dos Juizados Especiais.
+Alega-se, ainda, que a denúncia é inepta e que não há justa causa para ação penal na hipótese em apreço, pois não há indícios suficientes de autoria delitiva, bem como os fatos em apuração já foramobjeto de inquérito policial arquivado.
+Pleiteia-se, liminarmente, a suspensão da audiência de instrução designada para 27/03/2019e, no mérito,o trancamento da ação penal.
+O pedido liminar foi declarado prejudicado às fls. 818-820.
+Informações prestadas às fls. 825-842, 844-943 e944-948.
+O Ministério Público Federal opinou pela concessão da ordem de habeas corpuspara determinar ao Tribunal de Justiça do Estado de São Paulo que examine o mérito da impetração como entender de direito (fls. 950-953).
+É o relatório. Decido.
+De início, verifica-se que nenhuma das teses referentes ao trancamento da ação penal foi objeto de análise pela Corte estadual no acórdão impugnado, o que impede o exame destasmatérias nesta Corte Superior, sob pena de indevida supressão da instância.
+Todavia, a ordem de habeas corpus deve ser concedida, pois há manifesta ilegalidade na negativa de prestação jurisdicional em que incorreu o Tribunal estadual.
+No caso, a Corte de origem não conheceu do habeas corpus sob o fundamento de que "descabe ao Tribunal de Justiça a revisão das decisões proferidas no Colégio Recursal, órgão colegiado de reexame dos julgados no juizado criminal (Jecrim)" (fl. 807).
+Todavia, o entendimento adotado no acórdão impugnado écontrário ao entendimento jurisprudencial desta Corte Superior, que orienta no sentido de que compete ao Tribunal de Justiça estadual julgar o habeas corpusimpetrado contra decisões proferidas pelas Turmas Recursais dos Juizados Especiais Criminais.
+Sobre o tema, confira-se:
+"PENAL E PROCESSO PENAL. 1. HABEAS CORPUS CONTRA DECISÃO DE TURMA RECURSAL. INCOMPETÊNCIA DO STJ. ART. 105, I, "C", DA CF. 2. MANDAMUS QUE DEVE SER MANEJADO PERANTE O TRIBUNAL DE ORIGEM. ENTENDIMENTO SEDIMENTADO DO STF E DO STJ. 3. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não é possível conhecer do mérito da presente impetração.Conforme verificado, trata-se de mandamus impetrado contra decisão proferida por Juízes de Direito que compõem a Turma Recursal Cível e Criminal do Colégio Recursal de Jaboticabal/SP. Como é cediço, o julgamento proferido por Turma Recursal de Juizado Especial Criminal não se encontra abrangido pelo termo "tribunal" previsto no art.105, I, "c", da Constituição Federal. Dessarte, não há se falar em competência do Superior Tribunal de Justiça para conhecer do presente writ.
+2. Conforme entendimento há muito sedimentado pelo Supremo Tribunal Federal, o habeas corpus contra as decisões de turmas recursais deve ser impetrado perante o Tribunal de Justiça, uma vez que os Juízes que compõem as Turmas Recursais estão subordinados ao respectivo Tribunal. Assim, apenas após o exame da alegada ilegalidade pelo respectivo Tribunal de origem, é que se tornará possível o manejo de mandamus perante esta Corte.
+3. Agravo regimental improvido."(AgRg no HC 421.161/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/11/2017, DJe 13/11/2017, sem grifos no original).
+"RECURSO ORINÁRIO EM HABEAS CORPUS. WRIT NÃO CONHECIDO PELO TRIBUNAL A QUO. REMÉDIO CONSTITUCIONAL AJUIZADO EM FACE DE DECISÃO ORIUNDA DE TURMA RECURSAL. CANCELAMENTO DO ENUNCIADO N.º 690 DA SÚMULA DO STF.COMPETÊNCIA DA CORTE ESTADUAL PARA APRECIAR O MANDAMUS.
+1. Diante do cancelamento do enunciado n.º 690 da Súmula do Supremo Tribunal Federal, compete ao Tribunal de Justiça do Estado apreciar e julgar ato acoimado de ilegal oriundo de Turma Recursal.
+2. Recurso provido para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito da impetração registrada sob o nº 0302936-42.2011.8.26.0000."(RHC 33.018/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 09/10/2012, DJe 05/11/2012, sem grifos no original).
+"HABEAS CORPUS. DIREITO PROCESSUAL PENAL. PEDIDO DEDUZIDO CONTRA A TURMA RECURSAL. COMPETÊNCIA. TRIBUNAL DE JUSTIÇA. SUPERAÇÃO DA SÚMULA Nº 690/STF.
+1. Compete ao Tribunal de Justiça o julgamento dos pedidos de habeas corpus quando a autoridade coatora for Turma Recursal dos Juizados Especiais.
+2. Com o entendimento firmado no julgamento do Habeas Corpus nº 86.834/SP pelo STF e tendo em vista a jurisprudência já assentada nesta Corte Superior, a competência para apreciar as decisões das Turmas Recursais é dos Tribunais de Justiça e não mais da Corte Suprema, como anteriormente vinha sendo decidido, restando, pois, superado o entendimento firmado pela Súmula n.º 690 daquela Corte.
+3. Ordem concedida para que o Tribunal a quo examine o mérito da impetração como entender de direito."(HC 122.126/RS, Rel. Ministro OG FERNANDES, SEXTA TURMA, julgado em 27/10/2009, DJe 16/11/2009, sem grifos no original).
+Ante o exposto, CONCEDO a ordem de habeas corpus para determinar que o Tribunal de origem conheça do Habeas Corpus n.2004207-47.2019.8.26.0000, decidindo o mérito das alegações nele veiculadas conforme entender de direito.
+Comunique-se ao Juízo de origem e ao Tribunal estadual.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.CRIME DE SONEGAÇÃO FISCAL. PLEITO DE TRANCAMENTO DA AÇÃO PENAL. NÃO CONHECIMENTO DO HABEAS CORPUS PELO TRIBUNAL ESTADUAL.WRIT IMPETRADO CONTRA ATO DE TURMA RECURSAL DOS JUIZADOS ESPECIAIS CRIMINAIS.COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA. PRECEDENTES. NEGATIVA DE PRESTAÇÃO JURISISDICONAL.ORDEM DE HABEAS CORPUS CONCEDIDA.
