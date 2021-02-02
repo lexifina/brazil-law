@@ -1,0 +1,21 @@
+DECISÃO
+ALEX RODRIGO ARAÚJO MACHADO alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, que não conheceu do HC n. 5003625-16.2020.8.24.0000.
+Informam os autos que o recorrente - preso em flagrante pelo crime de tráfico de drogas em 9/1/2020 - teve a custódia convertida em prisão preventiva.
+Neste recurso, alega a defesa, em suma, que: a) a busca domiciliar e as provas dela obtidas seriam ilícitas, uma vez que os policiais realizaram a abordagem sem prévia autorização judicial após suposta informação da prática de ilícito pelo paciente, tendo adentrado no terreno murado e supostamente visualizado o mesmo dentro de sua residência por uma janela e pela porta, as quais não possibilitariam vislumbrar o que se passava no interior do recinto; b) os policiais não teriam efetuado diligências para apurar a veracidade da denúncia anônima e não haveria nos autos elementos a comprovar o registro desta; c) o paciente foi agredido quando da abordagem policial, apesar de não apresentar resistência, e a filmagem da ação foi gravada apenas após o ingresso dos agentes no local; d) os valores em espécie encontrados na residência do paciente seriam derivados do trabalho lícito e registrado de sua esposa; e) o celular apreendido era de uso pessoal do paciente, os entorpecentes encontrados seriam para consumo e a balança de precisão estaria quebrada e não haveria prova de que a ele pertenceria; f) o acusado possui residência fixa e labor lícito.
+A defesa requer o seguinte:
+a. Seja conhecido e provido o presente Recurso Ordinário Constitucional, reformando a decisão do juízo a quo, concedendo que as provas obtidas sejam consideradas como ilícitas e por consequência seja determinado o trancamento do processo, por conta da ilegalidade que as corrompe, fazendo com que seja decretada a extinção de punibilidade do paciente, com base no art. 397, inciso IV, do Código de Processo Penal e concedida de imediata a liberdade do paciente;
+b. Seja conhecida a nulidade processual pelo cerceamento de defesa, com base nos artigos art. 158 e 564, inciso III, "b", do Código de Processo Penal, bem como a Súmula 523 do Supremo Tribunal Federal;
+c. O reconhecimento das demais alegações e provas contidas nesse Recurso Ordinário Constitucional.
+Os autos foram enviados ao Ministério Público Federal, que oficiou pelo não provimento do recurso, in verbis:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGAÇÃO DE NULIDADE DA BUSCA E APREENSÃO EM RAZÃO DE SUPOSTA VIOLAÇÃO DE DOMICÍLIO. MATÉRIA NÃO ANALISADA NA DECISÃO RECORRIDA. PLEITO DE DECLARAÇÃO DE NULIDADE DAS PROVAS OBTIDAS E DE RESTITUIÇÃO DE OBJETOS APREENDIDOS. PEDIDOS NÃO SUBMETIDOS AO JUÍZO DE PRIMEIRO GRAU. SUPRESSÃO DE INSTÂNCIA. PARECER PELO NÃO PROVIMENTO DO RECURSO. (fls. 155-157)
+Decido.
+Com razão o Parquet Federal, ao afirmar que, "quanto à alegação de nulidade da busca realizada na residência do recorrente, a qual teria sido feita mediante violação de domicílio, o tribunal de origem não conheceu do habeas corpus, em razão de já ter examinado a questão em writ anterior. Assim, como a decisão recorrida não se manifestou quanto ao tema, inviável a análise por esta Corte Superior".
+Acrescenta o parecer que, "no mesmo sentido, não foram conhecidos os pedidos de restituição de objetos (quantia em dinheiro e telefone celular) e de declaração de nulidade das provas, pois não foram submetidos ao Juízo de primeiro grau", concluindo que "a matéria também não poderá ser objeto de análise no Superior Tribunal de Justiça, sob pena de supressão de instância".
+Com efeito, não tendo sido as matérias ventiladas pela defesa analisadas pela Corte local, evidencia-se a impossibilidade de conhecimento do writ, sob pena de vedada supressão de instância. Nesse sentido:
+ ..
+2. A tese relativa ao excesso de prazo na formação da culpa não foi apreciada pelo Tribunal de origem, de modo que não pode ser conhecida originariamente por esta Corte, sob pena de supressão de instância.
+ ..
+6. Ordem de habeas corpus conhecida em parte e, nessa extensão, denegada.
+(HC 592.596/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020)
+À vista do exposto, indefiro liminarmente o recurso.
+Publique-se. Intimem-se.
