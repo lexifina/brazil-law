@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de IVAN TEIXEIRA DA COSTA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+A defesa alega que não foram preenchidos os requisitos ensejadores da segregação cautelar. Aduz que o paciente estaria sofrendo constrangimento ilegal, tendo em vista a pandemia causada pela covid-19, nos termos da Recomendação CNJ n. 62/2020.
+Requer a concessão da ordem a fim de que seja revogada a prisão preventiva, expedindo-se alvará de soltura em favor do paciente.
+O pedido de liminar foi indeferido às fls. 48-49.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus(fls. 80-84).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 13-14):
+A presente ordem é de ser denegada.
+Isto porque, é dos autos, que a prisão preventiva do paciente foi decretada em decisão amplamente fundamentada, conforme se depreende de fls. 21/22, não havendo se falar na ausência dos pressupostos autorizadores da adoção da medida, notadamente levando-se em conta a quantidade de bens subtraídos (fls. 15/16), o fato de o paciente não possuir endereço fixo e, ainda, o fato de ainda não ter sido apurada a sua real identidade, havendo o Juízo monocrático demonstrado a necessidade da manutenção da custódia cautelar, mormente para garantia da ordem pública, cumprindo assim o disposto no artigo 93, inciso IX, da Constituição Federal, e artigos 312 e 315, do Código de Processo Penal.
+ ..
+Conquanto o delito imputado ao paciente não envolva violência ou grave ameaça à pessoa, no caso sub examine estão presentes os requisitos expressos no artigo 312, do Código de Processo Penal, razão pela qual a prisão preventiva deve ser mantida.
+De fato, revela-se necessária a garantia da ordem pública, pois a prisão não visa apenas à proteção do processo ou da pretensão condenatória, mas também à proteção da ordem pública, interesse que vai além do feito, levando-se em conta a sociedade como um todo, coibindo-se a repetição de condutas criminosas que põem em risco a sociedade.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o paciente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+Confira-se o que registrou o Tribunal de origem ao analisar referido pleito (fls. 15-16):
+De outro modo, insta referir que a recomendação n.º62/20, dentre outras medidas adotadas pelas autoridades com o objetivo de desacelerar o contágio pelo covid-19, não constituem licença para a soltura indiscriminada de indivíduos presos, seja provisoriamente, seja em cumprimento de pena.
+Quanto à possibilidade de aplicação de uma das medidas cautelares previstas no artigo 319 do Código de Processo Penal, verifica-se que estas não se mostram suficientes, adequadas e proporcionais ao caso sub examine.
+Assim, como não foram demonstradas as situações descritas, não se verifica desrespeito à Recomendação CNJ n. 62/2020.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público.
