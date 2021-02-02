@@ -1,0 +1,57 @@
+DECISÃO
+No Processo n. 0008024-24.2016.8.26.0077, o Juízo da 2ª Vara Criminal da comarca de Birigui/SP condenou Jose Viviano Bitu da Silva como incurso no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais 583 dias-multa.
+À apelação da defesa, o Tribunal paulista negou provimento.
+Sobreveio este writ, em que se postula, em liminar, a colocação do paciente em regime semiaberto e, no mérito, a aplicação da redutora do art. 33, § 4º, da Lei n. 11.343/2006, e o afastamento da causa de aumento de pena prevista no art. 40, III, do mesmo diploma legal, com a readequação do regime prisional para o aberto.
+O pedido de liminar foi deferido (fls. 44/45).
+Prestadas as informações (fls. 53/124), o Ministério Público Federal, em parecer exarado pelo Subprocurador-Geral da República José Adonis Callou de Araújo Sá, manifestou-se pelo não conhecimento do writ (fls. 142/144).
+É o relatório.
+Consoante informações prestadas peloTribunal de Justiça de São Paulo, a condenação do paciente já é definitiva, ante o trânsito em julgado do acórdão (fl. 127).
+Assim, o presente habeas corpus é sucedâneo de revisão criminal.
+Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, uma vez que não houve interposição de recurso especial, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR. Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, de minha relatoria, Sexta Turma, DJe 11/4/2019).
+ ..
+1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.  ..
+(HC n. 288.978/SP, de minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018 - grifo nosso).
+Na hipótese, contudo, há constrangimento ilegal a ser sanado.
+Ao fixar a pena, asseverou o Magistrado de primeiro grau (fl. 32 - grifo nosso):
+Adotando-se o critério trifásico previsto no artigo 68, do Código Penal, a dosagem da pena a ser aplicada deve ser feita nos seguintes termos.
+Na primeira fase da fixação da pena, verifica-se que o réu não possui maus antecedentes, de sorte que pena pode ser fixada no mínimo legal. Dito isso, fixo a pena-base em 05 (cinco) anos de reclusão e pagamento de 500 dias-multa.
+Superada esta primeira fase, não estão presentes no caso concreto circunstâncias agravantes ou atenuantes da pena, de modo que a mantenho como já fixada.
+Na terceira fase de dosimetria da pena, restou cabalmente demonstrado que o réu praticou o delito de tráfico nas dependências de transporte público, razão pela qual aumento a pena em 1/6 (um sexto), resultando, assim, em 05 (cinco) anos e 10 (dez) meses de reclusão, e pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Não deve incidir a causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/06, haja vista a quantidade expressiva de entorpecentes apreendidos - 84 porções de cocaína - não fazendo jus à minorante em apreço.
+Fixo o regime inicial fechado para o cumprimento da pena, eis que o tráfico de entorpecentes se trata de ilícito penal equiparado aos crimes hediondos. Por identidade de razões, incabível a substituição de pena privativa de liberdade por restritiva de direitos por incompatibilidade lógica.
+O Tribunal a quo, ao revisar a condenação, confirmou a integralidade da sentença.
+Assim, da fundamentação transcrita, observa-se que não há como prevalecer a conclusão de afastamento da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006. Isso porque aquantidade da droga apreendida (37,8 g de crack - fl. 8), por si só, não justificao afastamento da benesse, já que não se mostrasuficientepara concluir pela dedicação do ora paciente a atividades criminosas.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. APLICABILIDADE DA CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006 NO GRAU MÁXIMO.
+QUANTIDADE DE DROGA NÃO EXORBITANTE. AUSÊNCIA DE ELEMENTOS A DEMONSTRAR QUE O PACIENTE SE DEDICA A ATIVIDADE CRIMINOSA OU INTEGRA ORGANIZAÇÃO CRIMINOSA. PORTE DE ARMA E DISPARO EFETUADO CONTRA A GUARNIÇÃO POLICIAL JÁ SOPESADOS NA CONDENAÇÃO PELO CRIME DE RESISTÊNCIA.
+1. O art. 33, § 4º, da Lei de Drogas dispõe que o agente poderá ser beneficiado com a redução de 1/6 a 2/3 da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+2. As instâncias ordinárias, embora tenham reconhecido a primariedade do paciente, concluíram que o paciente não fazia jus à aplicação da causa especial de diminuição de pena, tendo em vista a quantidade da droga apreendida e o porte de arma de fogo, aliás disparada contra os agentes da segurança pública.
+3. Esta Corte tem reiterada orientação de que a quantidade e a natureza da droga, associadas ao contexto em que se deu a sua apreensão, podem evidenciar a dedicação à atividade criminosa.
+4. Não obstante ser válido o argumento adotado pelas instâncias de origem acerca da quantidade da droga apreendida, tal argumento, por si só, não justifica o afastamento da benesse.
+5. A apreensão de 122,8g de maconha, 9,5g de crack e 33,8g de cocaína não se mostra suficiente para concluir pela dedicação do ora agravado à atividade criminosa, razão pela qual cabe a concessão da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 na fração máxima.
+6. O porte de arma de fogo, disparada contra os agentes da segurança pública, não tem o condão de afastar o privilégio, tendo em vista que o agravado, no mesmo processo, foi condenado pelo crime de resistência. O porte de arma, per si, não comprovou a dedicação a atividades criminosas, e o mesmo fato não pode ser valorado duas vezes, sob pena de constatação de odioso bis in idem.
+7. Agravo regimental desprovido.
+(AgRg no HC n. 493.172/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/6/2020).
+Nesse contexto, entendo ser o caso de aplicação da causa de diminuição de pena previstano § 4º do art. 33 da Lei n. 11.343/2006, no seu patamar máximo (2/3), na medida em que, não obstante a nocividade da droga, a quantidade apreendida não se apresenta expressiva o suficiente a ponto de ultrapassar a censurabilidade ínsita ao tipo penal.
+Outrossim, deve ser excluída a majorante do transporte público. Com efeito, o entendimento deste Superior Tribunal é de que, para a caracterização da majorante do art. 40, III, da Lei n. 11.343/2006, é necessária a efetiva oferta ou a comercialização da droga no interior do veículo público, não bastando, para a sua incidência, o só fato de o agente ter se utilizado dele como meio de locomoção e transporte da substância ilícita (HC n. 455.652/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/9/2018).
+Confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CAUSA DE AUMENTO RELATIVA AO ART. 40, III, DA LEI 11.343/2006. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO. 1. Esta Corte e o Supremo Tribunal Federal firmaram o entendimento de que o simples fato de o agente utilizar-se de transporte público para conduzir a droga não atrai a incidência da causa especial de aumento de pena prevista no inciso III do art. 40 da Lei n. 11.343/2006, que deve ser aplicada apenas quando constatada a efetiva intenção de comercialização da substância em seu interior. Ressalva de entendimento. 2. No caso em exame, a droga estava escondida no interior de um bote inflável levado no bagageiro do ônibus, motivo pelo qual não incide referida majorante. 3. Agravo regimental não provido.
+(AgRg no REsp n. 1.379.010/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/8/2019)
+ ..
+4. Esta Corte Superior de Justiça consolidou o entendimento no sentido de que, para a incidência da majorante prevista do inciso III do art. 40 do Diploma Antidrogas, é imprescindível a demonstração da efetiva prática da comercialização do entorpecente no interior do veículo, não sendo suficiente para a exasperação da reprimenda com fulcro no referido dispositivo legal a mera utilização do transporte público como meio de locomoção. Na espécie, ante a ausência de comprovação do comércio ilícito no interior do veículo de transporte público coletivo, não há falar em majoração da pena.  ..
+(HC n. 410.323/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 26/3/2018).
+Fixadas essas premissas, e obedecidas as demais diretrizes estabelecidas pelas instâncias ordinárias, passo à dosimetria da pena.
+Mantém-sea pena-base fixada no mínimo legal de 5 anos de reclusão e pagamento de 500 dias-multa. Ausentes agravantes e atenuantes. Na terceira fase, concedidaa minorante prevista no art. 33, § 4º, da Lei de Drogas, no seu patamar máximo de 2/3, a pena torna-se definitiva em 1 ano e 8 meses de reclusão, e pagamento de 166 dias-multa, no valor unitário do mínimo legal, tendo em vista a exclusão da causa de aumento de pena prevista no art. 40, III, da Lei n. 11.343/2006.
+Quanto ao regime de cumprimento da pena, declarada pelo Supremo Tribunal Federal a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990 (Habeas Corpus n. 111.840/ES), sua fixação deve atender aos comandos previstos no art. 33, §§ 2º e 3º, do Código Penal.
+Sendo assim, em razão do quantum da pena aplicada, da primariedade do paciente e por não existirem circunstâncias judiciais negativas, deve ser fixado o regime aberto para o início do cumprimento da reprimenda.
+Pelos mesmos fundamentos, deve ser concedido ao réuo direito à substituição da pena privativa de liberdade por restritiva de direitos (art. 33, § 2º, c, e art. 44, ambos do CP).
+Ante o exposto, não conheço do habeas corpus. Concedo, contudo,a ordemde ofício, para reduzir a pena dopaciente a 1 ano e 8 meses de reclusão, em regime aberto, e pagamento de 166 dias-multa, com a substituição da pena privativa de liberdade por duas restritivas de direitos, a serem estipuladas pelo Juízo da execução.
+Comunique-secom urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (37,8 G DE CRACK). WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. ILEGALIDADE FLAGRANTE A SER RECONHECIDA, DE OFÍCIO. DOSIMETRIA DA PENA.ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE DE DROGA NÃO EXACERBADA.FUNDAMENTAÇÃO INIDÔNEA. MINORANTE. INCIDÊNCIA. CAUSA DE AUMENTO PREVISTA NO ART. 40, III, DA LEI N. 11.343/2006. ILEGALIADDE.REDIMENSIONAMENTO DA PENA. REGIME ABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS
+Habeas corpus não conhecido. Ordem concedidade ofício, nos termos do dispositivo.
