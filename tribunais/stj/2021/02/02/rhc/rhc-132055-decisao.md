@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por JOSÉ ROBERTO MUDESTO DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul (HC n. 1408001- 81.2020.8.12.0000).
+Depreende-se dos autos que o recorrente foi preso em flagrante (e-STJ fls. 14/47), tendo sido a prisão convertida em preventiva pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 48/50), ante a apreensão de 895g (oitocentos e noventa e cinco gramas) de maconha, duas balanças de precisão e material para embalar o entorpecente (e-STJ fl. 49).
+O pedido de revogação da custódia foi indeferido (e-STJ fls. 51/54).
+Impetrado habeas corpus na origem, o Tribunal local denegou a ordem em acórdão assim ementado (e-STJ fls. 103/104):
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - PRESENÇA DOS PRESSUPOSTOS LEGAIS - CONSTRANGIMENTO ILEGAL INEXISTENTE - RISCO DE REITERAÇÃO DELITIVA - SUBSTITUIÇÃO POR MEDIDAS CAUTELARES - INSUFICIENTE - PRISÃO DOMICILIAR - ALEGADA DOENÇA GRAVE E RISCO DE CONTÁGIO PELO COVID-19 - INCABÍVEL - NÃO DEMONSTRADO QUE O AGENTE SE ENCONTRA EXTREMAMENTE DEBILITADO E QUE O ESTABELECIMENTO PRISIONAL NÃO POSSA SUPRIR AS NECESSIDADES MÉDICAS - MEDIDAS DE COMBATE À DISSEMINAÇÃO DO VÍRUS ADOTADAS PELAS AUTORIDADES PÚBLICAS - ORDEM DENEGADA.
+1. Há na hipótese, prova da materialidade, indícios suficientes de autoria do fato delituoso e a necessidade de garantir a ordem pública, pois o paciente, em tese, mantinha em depósito substância entorpecente - 01 tablete e 03 trouxas de maconha, pesando 895 gramas, bem como 02 balanças. Além disso, possui registros de atos infracionais e delitos anteriores. Evidente o risco de reiteração delitiva e a necessidade de se resguardar a ordem pública. Desse modo, não há falar em constrangimento ilegal, pois presentes os motivos ensejadores para a prisão cautelar. Ademais, a imposição de medidas cautelares diversas da prisão se revelariam inadequadas e insuficientes (art. 310, II, CPP).
+2. À luz do art. 318, II do CPP, é admissível o cumprimento de prisão preventiva em regime domiciliar desde que o agente comprove, por prova idônea, que está extremamente debilitado por motivo de doença grave. Além disso, para a concessão dessa medida, é imprescindível que seja comprovada a incapacidade do estabelecimento prisional em suprir as necessidades médicas do interno. No caso, não há comprovação sobre qualquer uma dessas situações fáticas, o que desautoriza, portanto, a submissão do paciente ao regime domiciliar.
+3. A manutenção da prisão do paciente não importa a conclusão de que estará mais suscetível ao vírus, tendo em vista que, no âmbito carcerário, estão sendo adotadas medidas sanitárias condizentes com as providências sugeridas pela OMS a fim de conter o contágio e disseminação do vírus.
+Outrossim, inexistem informações de que o local onde o paciente está segregado existem casos confirmados de contaminação pelo COVID-19.
+Ainda que o paciente pertença ao grupo de risco do COVID 19, é necessária a demonstração de que a unidade prisional deixou de adotar todas as medidas do protocolo do Ministério da Saúde.
+Com o parecer, ordem denegada.
+No presente recurso, a defesa aponta constrangimento ilegal decorrente da não concessão da prisão domiciliar ao recorrente.
+Sustenta que o recorrente "sofre de doença cardiorrespiratória, é paraplégico, crônico renal portador de bexiga neurogênica, colostomizado e necessita de acompanhamento médico diário" e pontua que "o tratamento médico do recorrente é tão necessário e de difícil acesso que não pode ser oferecido pelo sistema prisional" (e- STJ fl. 125).
+Informa que, "em relação a antecedentes criminais o requerente possui somente uma condenação de 03 meses pelo delito do artigo 329 do CP em seu desfavor" (e-STJ fl. 127).
+Ressalta, ainda, a ocorrência da atual pandemia e invoca a Recomendação n. 62/2020 do CNJ.
+Dessa forma, requer, liminarmente e no mérito, "a conversão da prisão preventiva do recorrente em prisão domiciliar com imposições rígidas de recolhimento total em sua residência por todo período, exceto para ir ao médico, nos termos do artigo 318, II do CPP, bem como entendimento firmado no TJMS e STJ e com base na Recomendação 62/2020 do CNJ com a imposição de tornozeleira eletrônica para monitoramento para a finalidade de resguardar o cumprimento de seus deveres com o processo  .. " - e-STJ fl. 134.
+Liminar indeferida às e-STJ fls. 168/170.
+Prestadas as informações, o Ministério Público Federal opinou pelo provimento do recurso (e-STJ fls. 199/207).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 17/11/2020, de sentença condenatória em desfavor do ora recorrente, ocasião em que lhe foi concedido o direito de recorrer em liberdade, expedido o competente alvará de soltura.
+Assim, fica sem objeto este recurso.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
