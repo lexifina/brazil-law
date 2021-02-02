@@ -1,0 +1,48 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por OI S.A com arrimo no art. 105, inciso III, alínea"a", da Constituição da República em face do acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul conforme a seguinte ementa (fl. 403):
+AGRAVO DE INSTRUMENTO. BRASIL TELECOM. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. LEVANTAMENTO DE VALORES À EXECUTADA. CIENTIFICAÇÃO DO ADMINISTRADOR JUDICIAL. Necessária a cientificação do administrador judicial, para o levantamento de valores depositados em favor da Companhia recuperanda, considerando a sua função fiscalizadora, prevista no art. 64, da Lei 11.101/2005. Precedentes desta Câmara. Agravo de instrumento desprovido.
+Opostos embargos de declaração, estes restaram rejeitados nos seguintes termos (fl. 427):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. BRASIL TELECOM. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. LEVANTAMENTO DE VALORES À EXECUTADA. CIENTIFICAÇÃO DO ADMINISTRADOR JUDICIAL.MATÉRIA APRECIADA. PREQUESTIONAMENTO.
+1. Rediscussão da matéria. Os embargos de declaração não constituem meio recursal adequado para reapreciação questão decidida no acórdão, notadamente quando ausente omissão, obscuridade ou contradição. O mero inconformismo da parte com o resultado do julgamento não se coaduna com a via estreita do recurso integrativo.
+2. Prequestionamento. O prequestionamento de normas constitucionais e infraconstitucionais ficou implicitamente atendido nas razões de decidir do acórdão, dispensando manifestação individual acerca de cada dispositivo legal suscitado, sendo certo, ademais, que se consideram incluídos no acórdão os elementos que o embargante suscitou, para fins de prequestionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, acaso o tribunal superior considere existente erro, omissão, contradição ou obscuridade, consoante art. 1.025 do CPC. Embargos de declaração desacolhidos.
+Em suas razões de recurso especial, a recorrente alegou afronta aoart.170, § 1º, da Lei nº. 6.404/76 e aos arts. 502, 505 e 525, inciso V, do Código de Processo Civil. Requereu, por fim, o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+O Ministério Público Federal ofertou parecer às fls. 475/478, para o não conhecimento do recurso especial.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece conhecimento.
+Em suas razões, a recorrente alegou que não há necessidade de intimação do administrador judicial para o levantamento de valores da sociedade empresária em recuperação judicial.
+Entretanto, o Ministério Público Federal, em seu parecer, de lavra do Subprocurador-Geral da República Dr. MAURICIO VIEIRA BRACKSasseverou que (fls. 477/478):
+(..)
+Todavia, esse fundamento central do v. acórdão recorrido-art. 64, da Lei nº 11.101/2005- não foi impugnado em passagem alguma das razões recursais, aplicando-se analogicamente à súplica especial a Súmula 283do STF, segundo a qual "É INADMISSÍVEL O RECURSO EXTRAORDINÁRIO QUANDOA DECISÃO RECORRIDA ASSENTA EM MAIS DE UM FUNDAMENTO SUFICIENTE EO RECURSO NÃO ABRANGE TODOS ELES."
+09. Além disso, fica ainda mais patente a deficiência de fundamentação da súplica especial, ao se constatar que os dispositivos apontados como violados (art. 170, §1º, da Lei nº 6.404/1976, e arts. 502, 505 e 525, V, todos do CPC/2015) são completamente dissociados da questão decidida pelo v. acórdão recorrido, fazendo o recurso esbarrar no óbice da Súmula 284, do STF1, aplicada de forma analógica.
+Com efeito, a petição que se insurge contra a decisão atacada sem enfrentar os respectivos fundamentos e com argumento baseado em circunstância diversa da constante dos autos inviabiliza a compreensão da controvérsia e atrai a incidência, por analogia, do Enunciado n.º 284/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.042 DO CÓDIGO DE PROCESSO CIVIL DE 2015. DECISÃO DE ADMISSIBILIDADE. RECURSO REPETITIVO. RECURSO CABÍVEL. AGRAVO INTERNO. ART. 1.030, § 2º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. ERRO GROSSEIRO. RAZÕES DISSOCIADAS. SÚMULA Nº 284/STF. RECURSO MANIFESTAMENTE IMPROCEDENTE. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Consoante o disposto no art. 1.030, § 2º, do Código de Processo Civil de 2015, a decisão do presidente ou vice-presidente do tribunal local que nega provimento a recurso especial com base em entendimento firmado em recurso repetitivo deve ser impugnada por meio de agravo interno.
+3. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que, sob a égide do Código de Processo Civil de 2015, a interposição de agravo em recurso especial com tal finalidade constitui erro grosseiro, inviabilizando a aplicação do princípio da fungibilidade. Precedentes.
+4. A petição que se insurge contra a decisão atacada sem enfrentar os respectivos fundamentos e com argumento baseado em circunstância diversa da constante dos autos inviabiliza a compreensão da controvérsia e atrai a incidência, por analogia, da Súmula nº 284/STF.
+5. A manifesta improcedência do agravo interno atrai a incidência da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015.
+6. Agravo interno não provido. (AgInt no AREsp 1717595/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+Ademais, a pretensão de alterar o entendimento firmado, quanto ao não preenchimento dos requisitos impostos pelo juízo da recuperação judicial para levantamento dos valores em questão, demandaria o revolvimento do suporte fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a o Enunciado n.º 7/STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RECUPERAÇÃO JUDICIAL. LEVANTAMENTO DE VALORES. IMPOSSIBILIDADE. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. É entendimento desta Corte Superior que a penhora determinada em processo executivo anteriormente ao deferimento do pedido de recuperação judicial não obsta a inclusão do crédito no plano de recuperação da sociedade devedora.
+2. Na hipótese em exame, o juízo recuperacional deliberou que, para o levantamento de valores relativos a créditos concursais nos autos de qualquer execução ou cumprimento de sentença em face da companhia telefônica, faz-se necessário o preenchimento, cumulativamente, de dois requisitos: (1) valores depositados antes de 21.06.2016; e (2) trânsito em julgado/preclusão da decisão prolatada em embargos à execução ou da decisão final de impugnação do cumprimento de sentença que tenha definido o quantum debeatur anteriormente a 21.06.2016.
+3. No caso dos autos, o bloqueio judicial do valor executado foi realizado em 17.11.2015, mas a decisão da impugnação do cumprimento de sentença transitou em julgado apenas em 29.06.2018, de modo que não há falar em situações ou fatos processuais já consumados, a fim de autorizar a liberação de valores, ainda que depositados em data anterior à recuperação judicial.
+4. A pretensão de alterar o entendimento firmado, quanto ao não preenchimento dos requisitos impostos pelo juízo da recuperação judicial para levantamento dos valores em questão, demandaria o revolvimento do suporte fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+5. Agravo interno não provido. (AgInt nos EDcl no AREsp 1597017/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ART. 489 DO CPC/2015. CARÊNCIA DE FUNDAMENTAÇÃO NÃO CONFIGURADA. LEVANTAMENTO DE VALORES. PREENCHIMENTO DE EXIGÊNCIAS LEGAIS. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO IMPROVIDO.
+ ..
+3. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fá tico-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto na Súmula 7/STJ.
+4. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça.
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 1.352.131/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 22/3/2019)
+Ante o exposto, com arrimo no art. 932, inciso III, do Código de Processo Civil, não conheço do recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LEVANTAMENTO DE VALORES. CIENTIFICAÇÃO DO ADMINISTRADOR JUDICIAL. INCIDÊNCIA DOS ENUNCIADOS N.º 284/STF E 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1.Apetição que se insurge contra a decisão atacada sem enfrentar os respectivos fundamentos e com argumento baseado emcircunstância diversa da constante dos autos inviabiliza a compreensão da controvérsia e atrai a incidência, por analogia, do Enunciado n.º 284/STF.
+2. A pretensão de alterar o entendimento firmado, quanto ao não preenchimento dos requisitos impostos pelo juízo da recuperação judicial para levantamento dos valores em questão, demandaria o revolvimento do suporte fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a o Enunciado n.º 7/STJ.
+3. RECURSO ESPECIAL NÃO CONHECIDO.
