@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CAROLINE LOPES DIONISIO e de LUCAS RICHARD ALMEIDA DA SILVA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2194381-76.2020.8.26.0000).
+Os pacientes foram presos preventivamente, pela suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na apreensão de quantidade e variedade de entorpecentes - 2.273 microtubos de cocaínae 470 porções de maconha - e de R$ 470,15 sem origem comprovada (fl. 131).
+No presente writ, a defesa sustenta que a prisão preventiva não foi devidamente fundamentadae que não estão presentes os requisitos para suadecretação.
+Aduz que os pacientes correm risco devido à pandemia de covid-19, bem como fazem jus às medidas cautelares diversas da prisão ante os predicados pessoais.
+Defendeainda que a prisão preventiva não seria proporcional a eventual pena a ser aplicada aos pacientes.
+Requer, inclusive liminarmente, a imediata soltura dos pacientes com ou sem a imposição de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido às fls. 141-142.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem (fls. 154-156).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Em relação à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, o impetrante não demonstrou a existência de constrangimento ilegal decorrente da decisão impugnada, que consignou o seguinte (fls. 34-35):
+In casu, não há comprovação de que, dentro do estabelecimento prisional, não terão os pacientes atendimento e proteção adequados, uma vez que é cabível ao Estado o dever de cuidado e saúde ao preso.
+Também não se provou que atualmente há risco concreto, no presídio onde os pacientes se encontram, maior do que aquele suportado pelas pessoas em geral, que estão em meio livre, de contrair o já referido maldito vírus.
+Para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus.Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ademais, a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No presente caso, além da quantidade e variedade da droga (2.273 microtubos de cocaína e 470 porções de maconha), a quantia de R$ 470,15 em dinheiroe a apreensão deuma balança de precisão e de petrechos para o tráficoforam consideradas para a decretação da prisão preventiva, tendo o Tribunal de origem destacado o seguinte (fls. 28-30):
+Caroline e Lucas foram detidos, abordados e, em revista pessoal, encontraram 3 microtubos de cocaína com ela e outros 49 microtubos, com ele, todos da mesma espécie de drogas.  ..
+Não obstante, com o auxílio de cães farejadores, os policiais encontraram, em um matagal próximo, 2221 microtubos, idênticos aos traficados pelos pacientes.  ..
+Eles não se intimidaram na prática do tráfico, ao trazerem consigo 52 microtubos de cocaína, e guardarem, em local próximo, mais 2221 microtubos, totalizando 2273 porções da mesma espécie de entorpecentes, além da apreensão de uma balança de precisão e petrechos para o tráfico (fls.36/43)
+O entendimento acima está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva. Nesse sentido: AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020.
+Registre-se ainda que o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do paciente não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+Por fim, no que diz respeito à proporcionalidade entre a prisão preventiva eeventual pena a ser aplicada aos pacientes, a questão não foi enfrentada pela instância de origem. Também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
