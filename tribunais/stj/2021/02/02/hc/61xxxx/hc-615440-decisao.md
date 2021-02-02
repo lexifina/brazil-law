@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar, impetrado em favor deRamires Santos de Matos, apontando-se como autoridade coatora o Primeiro Grupo Criminal do Tribunal de Justiça do Rio Grande do Sul (Embargos Infringentes e de Nulidade n. 70083316059).
+Narram os autos que o paciente foi denunciado pela suposta prática do crime de tráfico de drogas, mas, ao final da instrução, foi absolvido. Inconformado, o Ministério Público interpôs apelação criminal, à qual o Tribunal gaúcho, por maioria, deu parcial provimento e condenou o réu a 4 anos e 2 meses de reclusão, em regime semiaberto, e 420 dias-multa, pela prática do crime de tráfico de drogas privilegiado.
+A defesa opôs embargos infringentes e de nulidade, os quaisforam desprovidos.
+Daí o presentemandamus, em que a Defensoria Pública alega ilegalidade na dosimetria, sustentando que o paciente faz jus àaplicação da causa de diminuição do tráfico de drogas privilegiado em fração maior que 1/6.
+Destaca que foram apreendidospouco mais de 200 (duzentos) gramas de maconha, exclusivamente. Pequena quantidade e ainda uma erva já com possibilidade de aplicação medicinal no Brasil(fl. 4).
+Requer, em liminar, a suspensão da execução da pena até o julgamento destehabeas corpus.No mérito, pugna pela anulação dadecisão que aplicou aminorante prevista no art.33, §4º, da Lei n. 11.343/2006, em 1/6, a fim de que outra seja proferida(fl. 6).
+A liminar foi indeferida (fls. 653/654).
+O Ministério Público do Rio Grande do Sul apresentou manifestação às fls. 667/669.
+Prestadas as informações de praxe, o Ministério Público Federal opinou pela concessão da ordema fim de que seja aplicada a minorante do tráfico privilegiado em seu grau máximo, com substituição da pena privativa de liberdade por restritiva de direitos e fixação do regime aberto para o cumprimento da pena(fls. 713/716).
+É o relatório.
+In casu, a ordem comporta concessão.
+Quanto ao percentual de diminuição previsto no art. 33, § 4º, da Lei deDrogas, ficou consignado, no voto vencedor, o seguinte (fl 593 - grifo nosso):Mantenho-a em cinco anos de reclusão, com respeito a Ramires, pois vai observada a vetorial precitada na determinação do quantumda reclusão pela observância da causa de diminuição de que trata o art. 33, §4ºda Lei n.11.343/2006 (um sexto), como que resulta a sanção carcerária em quatro anos e dois meses de reclusão. Com respeito à pena cumulativa, observando a necessária proporcionalidade, resta estabelecida em quinhentos e setenta dias-multa (Anderson) e quatrocentos e vinte dias-multa (Ramires), no valor unitário determinado pelo relator.Por derradeiro, o regime prisional inicial é o semiaberto para ambos os réus.
+Tal fundamentação, contudo,não se mostra idônea.
+Com razão o Ministério Público Federal quando destacou, em seu parecer, quea quantidade de droga apreendida não se mostra tão expressiva assim a ponto de afastar a aplicação máxima da minorante do tráfico privilegiado. É certo que, nos termos do disposto no § 4º do art. 33 da Lei nº 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrar organizações criminosas, sendo que, no caso, todos os requisitos foram preenchidos pelo paciente, inclusive para obtenção da redução na fração de 2/3(fl. 715 - grifo nosso).
+Desse modo, diante da plausibilidade jurídica do direito alegado, entendo ser possível a incidência da citada causa especial de diminuição da pena no patamar de 2/3, pois a quantidade de droga apreendida (230 g de maconha) apesar de não ser insignificante, não é nada fora do padrão. Ademais, o paciente é primário, possui bons antecedentes e, ao que parece, não integra organização criminosa.
+Com a incidência da causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006 na fração de 2/3, como acima explanado, as penas ficam estabelecidas em 1 anoe 8 meses de reclusão, e 166 dias-multa.
+Outrossim, verifico que o acórdão não invocou fundamentação concreta a justificar o regime prisional mais severo, já que amparado na Lei n. 8.072/1990 e em motivação genérica e abstrata (fl. 593).
+Nessas circunstâncias, diante doquantumda pena, o regime inicialabertomostra-se o mais adequado para o início do cumprimento da pena. Pelas mesmas razões, cabível a substituição da pena privativa de liberdade.
+Ante o exposto,concedoa ordem paraoreduzir oquantumde pena aplicada ao paciente para 1 anoe 8 meses de reclusão,e 166 dias-multa, em regime inicial aberto,com a substituição da pena privativa de liberdade porduas restritivas de direitosa serem escolhidas pelo Juízo de origem.
+Intime-se o Ministério Público estadual do teor desta decisão.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (230 G). APLICAÇÃO DO § 4º DO ART. 33 DA LEI DE DROGAS NA FRAÇÃO MÁXIMA.POSSIBILIDADE. REGIME INICIAL ABERTO E SUBSTITUIÇÃO DA PENA. CABIMENTO.RÉU PRIMÁRIO. PENA-BASE NO MÍNIMO LEGAL. QUANTIDADE DE DROGA QUE NÃO FOGEDO PADRÃO. CONSTRANGIMENTO ILEGAL EVIDENTE. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
