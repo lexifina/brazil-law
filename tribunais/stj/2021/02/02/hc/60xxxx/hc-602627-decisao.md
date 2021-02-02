@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de EDVANIA JANUARIO LUCAS, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte.
+Colhe-se dos autos que a paciente foi condenada como incursa nos arts. 33 e 35, ambos da Lei n. 11.343/2006, à pena total de 9 anos e 3 meses de reclusão, em regime inicial fechado, tendo sido negado o apelo em liberdade.
+Nesta Corte, o impetrante sustenta que a paciente é mãe de 5 filhos, todos menores de 12 anos. Ressalta que o menor deles possui apenas 1 anode vida, sendo a paciente lactante, de modo que faz jus à colocação em regime domiciliar, nos termos do art. 318, V do CPP.
+Pleiteia a substituição da prisão preventiva por prisão domiciliar.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O pedido de substituição da prisão preventiva pela prisão domiciliar já foi analisado por esta Corte, quando do julgamentodo RHC 188.337/RN.
+Na ocasião destacou-se a impossibilidade de concessão do regime domiciliar, estando configurada hipótese excepcional de indeferimento do referido benefício, por ser a paciente integrante de associação criminosavoltada para a prática do tráfico de drogas, sendo ela responsável por auxiliar o grupo criminoso no armazenamento e distribuição de entorpecentes, além de atuar no recrutamento de novos membros, conforme destacado no acórdão ora impugnado (e-STJ, fl. 60). Ressaltou-se, ademais, que a paciente permaneceu foragida por 2 anos, a demonstrar a insuficiência do regime domiciliar, como forma de acautelamento da ordem pública.
+É o que consta da mencionada decisão:
+" ..  Ademais, ao que tudo indica, não parece ser o caso de flagrante ilegalidade a justificar a concessão de prisão domiciliar, de ofício.
+Isto porque, nos termos do que restou decidido no habeas corpus coletivo concedido pelo STF (HC n. 143.641/SP), a substituição da prisão preventiva por prisão domiciliar não é recomendada, entre outros casos, "em situações excepcionalíssimas, as quais deverão ser devidamente fundamentadas pelos juízes que denegarem o benefício".
+In casu, conforme indicado pelo juízo de primeiro grau, a recorrente seria integrante de organização criminosa, além de ter ficado foragida por 2 anos (e-STJ, fl. 29). Consta também do acórdão recorrido que "há indícios de a inculpada supostamente integrar grupo criminoso voltado à narcotraficância, com envolvimento de familiares, tendo a autoridade coatora destacado ser a parte responsável pelo abastecimento de drogas na localidade" (e-STJ, fls 95-96).
+No mesmo sentido, em consulta realizada no site do Tribunal de origem, verificou-se decisão do Juiz de primeiro grau negando prisão domiciliar sob fundamento de que "a requerente faz parte de grupo criminoso investigado, na operação denominada "chave de ouro", onde, conforme se vislumbra das transcrições das interceptações telefônicas anexas às fls. 04/18 dos autos principais, ter, a requerente, importante participação na administração das atividades operadas pelo grupo, coordenando e negociando valores de venda de drogas junto de seu companheiro (também preso preventivamente) e demais integrantes."
+Assim, segundo se infere dos documentos juntados ao feito, parece-me estar configurada situação excepcionalíssima de não ser recomendável a colocação da recorrente em prisão domiciliar."
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
