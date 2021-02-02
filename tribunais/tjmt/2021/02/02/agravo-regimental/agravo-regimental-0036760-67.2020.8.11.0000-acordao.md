@@ -1,0 +1,82 @@
+AGRAVANTE(S):
+JÚLIA SKAF DOS SANTOS ROCHA E OUTRA(s)
+AGRAVADO(S):
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA
+
+Número do Protocolo: 36760/2020
+Data de Julgamento: 02-02-2021
+
+E M E N T A
+
+RECURSO DE AGRAVO REGIMENTAL EM APELAÇÃO JULGADA MONOCRATICAMENTE – NÃO CONHECIMENTO - INTEMPESTIVIDADE – EMBARGOS DE DECLARAÇÃO NÃO CONHECIDO – RECURSO DESPROVIDO.
+Deve ser mantida a decisão que não conheceu do recurso de apelação interposto diante da sua intempestividade, posto que não há interrupção do prazo recursal quando os embargos não são conhecidos em 1º grau.
+
+AGRAVANTE(S):
+JÚLIA SKAF DOS SANTOS ROCHA E OUTRA(s)
+AGRAVADO(S):
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA
+
+R E L A T Ó R I O
+EXMA. SRA. DESA. NILZA MARIA PÔSSAS DE CARVALHO
+Egrégia Câmara:
+Trata-se de recurso de agravo interno interposto por JÚLIA SKAF DOS SANTOS ROCHA E MARIANA SKAF DOS SANTOS ROCHA face à decisão proferida por esta magistrada que não conheceu do recurso de apelação por ela interposto em face de SYNGENTA PROTEÇÃO DE CULTIVOS LTDA, diante de sua intempestividade.
+Em razões recursais a agravante pretende, em síntese, a reforma da decisão, “o conhecimento e provimento do presente Agravo Interno, declarando nula a decisão que não conheceu o Recurso de Apelação, retornando os autos à Desembargadora Relatora para que julgue as demais alegações postas no recurso de apelação, as quais somente não foram julgadas por não ter sido enfrentado o mérito do recurso face ao seu não conhecimento por uma suposta intempestividade.”
+Em contrarrazões, a agravada sustenta pelo não conhecimento do recurso diante da ofensa ao princípio da dialeticidade recursal. No mérito, requer o desprovimento do recurso, com aplicação da multa prevista no art. 1021, §4º, do CPC.
+A agravante se manifestou sobre a preliminar sustentada em contrarrazões.
+É o relatório.
+
+V O T O
+EXMA. SRA. DESA. NILZA MARIA PÔSSAS DE CARVALHO (RELATORA)
+Egrégia Câmara:
+Conforme relatado, trata-se de recurso de agravo interno interposto por JÚLIA SKAF DOS SANTOS ROCHA E MARIANA SKAF DOS SANTOS ROCHA face à decisão proferida por esta magistrada que não conheceu do recurso de apelação por ela interposto em face de SYNGENTA PROTEÇÃO DE CULTIVOS LTDA, diante de sua intempestividade.
+Inicialmente, afasto a preliminar suscitada em contrarrazões posto que da leitura da inicial do presente recurso pode se denotar que a agravante requer a reforma da decisão que não conheceu do apelo por ela interposto, razão pela qual necessária o enfrentamento da tese recursal.
+Quanto ao mérito, por oportuno, transcrevo a decisão agravada que é objeto do presente recurso de agravo interno:
+“Trata-se de recurso de apelação interposto por JÚLIA SKAF DOS SANTOS ROCHA e MARIANA SKAF ESTEVES DA ROCHA contra r. sentença proferida pelo MM. Juiz da 1ª Vara da Comarca de Campo Verde que, nos autos ação anulatória em face de SYNGENTA PROTECAO DE CULTIVOS LTDA., julgou parcialmente procedentes os pedidos aduzidos na inicial para declarar a invalidade das cláusulas moratórias previstas nas cédulas industriais mencionadas nos autos, autorizando a sub-rogação pelo valor indicado nos termos correspondentes, mas acrescidos dos encargos remuneratórios previstos no título, majorado em 1% ao ano, sem prejuízo da correção monetária pelo INPC. Na oportunidade, determinou que “caberá à Requerida Syngenta proceder à devida correção da dívida até a data da celebração da transação, hipótese em que o valor ao final homologado haverá de substituir aquele indicado na Cláusula 2.1 da aludida transação. A partir da transação, os encargos acessórios serão aqueles que nela se consignaram. De resto, DECLARO a validade da transação de p. 157/162, incluindo a Cláusula de Pontualidade e o aditivo de R$ 504.719,21, bem como do instrumento de ratificação que apenas confirmou a vigência de parte de suas cláusulas, suficiente, então, a obrigar todos os transatores. Tendo sido reconhecida a idoneidade do instrumento de transação, DECLARO a higidez da Execução 1174-40.2002.811.0051, Código 5258. Ainda em razão da legalidade da transação, DECLARO prejudicados os pedidos indenizatórios feitos pelas Requerentes. MANTÊM-SE os contratos bancários, os títulos de crédito emitidos e o aval prestado pelo Sr. Marco Antônio Esteves da Rocha tal como originalmente emitidos, obrigando aqueles que neles houverem servido nos exatos termos consignados nos instrumentos correspondentes, sem declarar, em relação àqueles, natureza jurídica diversa, tal como pleiteado na inicial. Porque de outra forma não poderia fazer, DECLARO, ainda, a responsabilidade das Requerentes pelas dívidas firmadas e/ou garantidas pelo Sr. Marco Antônio Esteves da Rocha e, também, pelo Espólio, por intermédio de sua Inventariante, Sra. Analuiza Skaf, até o limite da herança, julgando improcedentes todos os pedidos que o contrário pleiteavam. CONDENO a Requerida Syngenta ao pagamento dos honorários advocatícios dos ilustres Procuradores das Requerentes, arbitrados no que corresponder a 15% da diferença entre o valor original da Cláusula 2.1 da transação de p. 157/162 e aquele posteriormente calculado por força da modificação dos encargos acessórios determinada nesta sentença. CONDENO as Requerentes ao pagamento das custas e dos honorários advocatícios dos nobres Procuradores da Requerida Syngenta, arbitrados também em 15% do valor da transação, corrigido nos termos do parágrafo anterior. Em razão da gratuidade da Justiça, a exigibilidade das verbas sucumbenciais fixadas contra as Requerentes ficará sobrestada pelo prazo máximo de cinco anos, nos termos do art. 98, § 3º, do NCPC.” Embargos de declaração não conhecidos.
+As apelantes, devidamente intimadas, se manifestaram acerca da possibilidade do não conhecimento do recurso diante da sua intempestividade.
+É o Relato. DECIDO.
+O presente recurso não merece ser conhecido.
+Isso porque, foi prolatada sentença que julgou parcialmente procedente os pedidos foi prolatada em 25/06/2018. Opostos embargos de declaração, o recurso não foi conhecido. Acerca do não conhecimento, não se insurgiu o apelante em 1º grau, em nenhum momento, tratando-se, pois, de matéria preclusa. O recurso de apelação foi interposto em 03/09/2018.
+Pois bem. Como se sabe, impende destacar que a oposição dos embargos de declaração interrompe o prazo para a interposição do recurso de apelação cível, exceto quando os aclaratórios resultarem não conhecidos, quer por incabíveis ou intempestivos.
+Em caso análogo, o Tribunal de Justiça do Rio de Janeiro decidiu:
+APELAÇÃO. EMBARGOS DE DECLARAÇÃO OPOSTOS CONTRA A SENTENÇA NÃO CONHECIDOS. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO DA APELAÇÃO. DECISÃO NÃO RECORRIDA. PRECLUSÃO. INTEMPESTIVIDADE VERIFICADA. NÃO CONHECIMENTO DA APELAÇÃO. O conhecimento de quaisquer recursos está adstrito à observância dos requisitos acima listados, merecendo destaque, no caso em apreço, a sua interposição dentro do prazo legal. Os embargos de declaração opostos contra a sentença sequer foram conhecidos, não se operando o efeito interruptivo do prazo recursal da apelação. O apelante deixou de recorrer da decisão que não conheceu dos embargos de declaração, o que torna preclusa a questão. Desse modo, resta patente a ausência de interrupção do prazo para apelação e por conseguinte, a sua intempestividade. Recurso não conhecido. (TJ-RJ - APL: 00778448020088190021, Relator: Des(a). RENATA MACHADO COTTA, Data de Julgamento: 05/02/2020, TERCEIRA CÂMARA CÍVEL)
+No mesmo sentido, é a jurisprudência do Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. EMBARGOS DE DECLARAÇÃO INTERPOSTOS NA ORIGEM NÃO CONHECIDOS POR INTEMPESTIVIDADE. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. AGRAVO NÃO PROVIDO. 1. É intempestivo o recurso especial interposto após o prazo legal de 15 dias. 2. A jurisprudência, visando coibir abusos e o desvirtuamento do efeito interruptivo dos embargos, firmou a compreensão de que a oposição de embargos aclaratórios, quando intempestivos ou manifestamente incabíveis, não tem o condão de interromper o prazo para a interposição do recurso especial (ut, AgInt no AREsp 1265139/RR, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 09/10/2018) 3. Agravo regimental não provido. (STJ - AgRg nos EDcl no AREsp 1322344/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/11/2018, DJe 10/12/2018).
+A propósito, este Sodalício:
+APELAÇÃO CÍVEL – AÇÃO DE EXECUÇÃO PARA ENTREGA DE COISA INCERTA – EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS – PRAZO RECURSAL NÃO INTERROMPIDO – INTEMPESTIVIDADE CONFIGURADA - RECURSO NÃO CONHECIDO. 1. A oposição dos embargos de declaração interrompe o prazo para a interposição do recurso de apelação cível, exceto quando os aclaratórios resultarem não conhecidos, quer por incabíveis ou intempestivos.2. Como consequência do não conhecimento dos embargos de declaração, o prazo para a interposição deste apelo não foi interrompido, de modo que sua contagem teve início quando da publicação da sentença impugnada, resultando, pois, intempestivo. (N.U 0007473-56.2011.8.11.0006, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, SERLY MARCONDES ALVES, Quarta Câmara de Direito Privado, Julgado em 22/05/2019, Publicado no DJE 27/05/2019).
+RECURSOS DE APELAÇÃO CÍVEL – AÇÃO ORDINÁRIA DE COBRANÇA – URV - MÉRITO - INTEMPESTIVIDADE – SENTENÇA IMPROCEDENTE - AUSÊNCIA DE INTERESSE RECURSAL – RECURSO DO AUTOR NÃO CONHECIDO – RECURSO DO REQUERIDO NÃO CONHECIDO. Não se conhece de recurso de apelação intempestivo. Carece de interesse recursal o recurso de apelação que postula pretensão já acolhida na sentença. (TJMT - Ap 86213/2016, DESA. ANTÔNIA SIQUEIRA GONÇALVES RODRIGUES, SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 27/06/2017, Publicado no DJE 14/07/2017).
+AGRAVO REGIMENTAL - APELAÇÃO CÍVEL - DECISÃO MONOCRÁTICA - ART. 557, CAPUT, DO CPC - NEGATIVA DE SEGUIMENTO – INTEMPESTIVIDADE CONFIRMADA - DECISÃO MANTIDA - RECURSO NÃO PROVIMENTO. Dentre os requisitos extrínsecos de admissibilidade do recurso está a tempestividade, que é o dever de observância da parte ao prazo legal para a sua interposição, sob pena de não conhecimento, e na apelação é de 15 dias (art. 508 do CPC). (TJMT - AgR, 64006/2014, DES.RUBENS DE OLIVEIRA SANTOS FILHO, SEXTA CÂMARA CÍVEL, Data do Julgamento 04/06/2014, Data da publicação no DJE 09/06/2014).
+No mesmo diapasão:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. Os embargos de declaração interrompem o prazo para interposição de outros recursos, entretanto, para que a parte se beneficie desta interrupção, é necessário que os embargos sejam conhecidos. Descabida, no caso, a contagem do prazo recursal com base na publicação da decisão que não conheceu dos embargos declaratórios. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO ACOLHIDA. UNÂNIME. (Agravo de Instrumento Nº 70059961565, Décima Sétima Câmara Cível, Tribunal de Justiça do RS, Relator: Liege Puricelli Pires, Julgado em 14/08/2014) (TJ-RS - AI: 70059961565 RS, Relator: Liege Puricelli Pires, Data de Julgamento: 14/08/2014, Décima Sétima Câmara Cível, Data de Publicação: Diário da Justiça do dia 19/08/2014).
+APELAÇÃO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. CONSEQUENTE INTEMPESTIVIDADE DA APELAÇÃO. 1. A oposição de embargos de declaração, que não foram conhecidos, porquanto incabíveis ou intempestivos, não interrompem o prazo para interposição de apelação, computando-se como termo inicial desse prazo a data de publicação da sentença embargada. 2. O prazo para interposição do recurso de apelação, sob a égide do novo Código de Processo Civil, é de quinze (15) dias úteis, a teor do art. 1.003, § 5º. 3. Havendo interposição do recurso fora desse prazo, configura-se a ausência de um dos requisitos para sua admissibilidade, qual seja a tempestividade, o que acarreta o não conhecimento do apelo. 4. Apelação não conhecida. (Acórdão n.1128852, 20160110713606APC, Relator: ARNOLDO CAMANHO 4ª TURMA CÍVEL, Data de Julgamento: 26/09/2018, Publicado no DJE: 10/10/2018. Pág.: 286/295).
+AGRAVO INTERNO. NÃO CONHECIMENTO DA APELAÇÃO POR INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO, OPOSTOS CONTRA A SENTENÇA, QUE NÃO FORAM CONHECIDOS PELO MM. JUÍZO A QUO. DECISÕES PROFERIDAS NA VIGÊNCIA DO CPC/73. NÃO INTERRUPÇÃO DO PRAZO PARA A INTERPOSIÇÃO DE OUTROS RECURSOS. APELAÇÃO INTEMPESTIVA. DECISÃO MANTIDA. AGRAVO INTERNO IMPROVIDO. Os embargos de declaração, ainda que opostos tempestivamente, não ensejam a interrupção do prazo para a interposição de outro recurso quando não são conhecidos. Caso em que, não tendo sido conhecidos os embargos declaratórios opostos contra a sentença, não houve interrupção do prazo para a interposição de outros recursos, sendo intempestiva a apelação manejada quando já transcorridos mais de 15 dias da publicação do julgamento de mérito. Sentença e decisão inadmitindo os embargos proferidas na vigência do CPC/73, quando o julgador não estava obrigado a analisar e afastar, um a um, os argumentos aduzidos pelas partes, se apenas algum ou alguns deles já fossem suficientes para lastrear o pronunciamento judicial, e não havia, tampouco, a obrigatoriedade de intimação da parte para emenda da petição recursal caso constatado defeito sanável na sua elaboração. Decisão mantida. Agravo interno improvido. (Classe: Agravo,Número do Processo: 0514550-71.2013.8.05.0001/50000, Relator (a): Telma Laura Silva Britto, Terceira Câmara Cível, Publicado em: 12/06/2018 ) (TJ-BA - AGV: 0514550712013805000150000, Relator: Telma Laura Silva Britto, Terceira Câmara Cível, Data de Publicação: 12/06/2018)
+Assim sendo, é imperioso o reconhecimento da intempestividade deste recurso eis que interposto, ou seja, fora do prazo legal, de quinze dias.
+Por fim, o art. 1.011, I, cumulado com 932, III, ambos do NCPC permitem a prolação de decisão monocrática nos casos de inadmissibilidade do recurso.
+Pelo exposto, NÃO CONHEÇO do presente recurso, restando prejudicada a análise da matéria recursal.”
+Assim, o presente recurso de agravo interno não merece provimento, visto que a agravante não traz argumentos relevantes para a modificação da decisão supracitada.
+Não há nas razões do agravo interno elementos que indiquem que a decisão ora agravada está em desacordo com os elementos até então existentes nos autos, mesmo em fase inicial, razão pela qual merece a mesma ser mantida.
+Ressalta-se, por oportuno, que a jurisprudência deste Tribunal entende que “a oposição dos embargos de declaração interrompe o prazo para a interposição do recurso de apelação cível, exceto quando os aclaratórios resultarem não conhecidos, quer por incabíveis ou intempestivos”, exatamente como no caso dos autos.
+A propósito:
+“APELAÇÃO CÍVEL. INTERPOSIÇÃO. PRAZO RECURSAL. INOBSERVÂNCIA. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO. NÃO CONHECIDO. INTERRUPÇÃO. AUSÊNCIA. NÃO CONHECIMENTO DO RECURSO. Não se conhece de apelação interposta fora do prazo do art. 1.003, §5º, do CPC por reputar-se manifestamente inadmissível o recurso, motivo pelo qual a ela deve ser negado seguimento. Os embargos de declaração não conhecidos por intempestividade não tem o condão de interromper o prazo para a interposição do recurso de apelação.” (TJ-MG - AC: 10000204609663001 MG, Relator: Cabral da Silva, Data de Julgamento: 15/09/2020, Data de Publicação: 24/09/2020).
+
+Por fim, é de se ressaltar que esta Câmara já confirmou pela inviabilidade do conhecimento do apelo interposto em processos que envolvem a mesma lide, qual seja, os RAR 0003304-22.2010.8.11.0051 e 000310-29.2010.8.11.0051.
+
+Com essas considerações, DESPROVEJO o recurso.
+É como voto.
+
+VOTO
+EXMO. SR. DES. JOÃO FERREIRA FILHO (1º VOGAL )
+Acompanho o voto da relatora.
+
+VOTO
+EXMO. SR. DES. SEBASTIÃO BARBOSA FARIAS (2º VOGAL)
+Acompanho o voto da relatora.
+
+.
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a PRIMEIRA CÂMARA DE DIREITO PRIVADO do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência do DES. SEBASTIÃO BARBOSA FARIAS, por meio da Câmara Julgadora, composta pela DESA. NILZA MARIA PÔSSAS DE CARVALHO (Relatora), DES. JOÃO FERREIRA FILHO (1º Vogal) e DES. SEBASTIÃO BARBOSA FARIAS (2º Vogal), proferiu a seguinte decisão: À UNANIMIDADE, DESPROVEU O RECURSO.
+
+Cuiabá, 2 de fevereiro de 2021.
+
+-------------------------------------------------------------------------------------------
+DESEMBARGADORA NILZA MARIA PÔSSAS DE CARVALHO - RELATORA
