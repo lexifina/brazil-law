@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela ASSOCIAÇÃO ARTIGO 19 BRASIL, em face de decisão proferida pelo Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. AMICUS CURIAE. INDEFERIMENTO NO JUÍZO A QUO. IRRECORRIBILIDADE. INTELIGÊNCIA DO ARTIGO 138 DO CPC. RECURSO NÃO CONHECIDO.
+Opostos embargos de declaração, foram rejeitados em acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. NÃO CABIMENTO DE AGRAVO DE INSTRUMENTO CONTRA DECISÃO QUE INDEFERE A INTERVENÇÃO DO AMICUS CURIAE. REAPRECIAÇÃO DA MATÉRIA. IMPOSSIBILIDADE.RECURSO REJEITADO.
+Nas razões do recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, sustenta o recorrente que o Tribunal a quo violou os artigos 138 e 1.015, IX, do CPC, ao argumento de que o artigo 138 do CPC fundamenta que, em casos de admissão ou solicitação da intervenção de amicus curiae no processo, a decisão é irrecorrível e que, por outro lado, a decisão que não admite a intervenção é recorrível. Ademais, indica a existência de dissídio jurisprudencial quanto à interpretação desses dispositivos, indicando como paradigma acórdão do TJSP.
+Foram apresentadas contrarrazões.
+O recurso especial foi inadmitido pelo Tribunal local à consideração de que o posicionamento acolhido pelo Colegiado está em perfeita harmonia com a orientação do Superior Tribunal de Justiça e de que não houve prequestionamento do artigo 1.015, IX, do CPC.
+Nas suas razões de agravo, a agravante impugnou os fundamentos da decisão de inadmissibilidade.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+A agravante impugnou a fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+No caso dos autos, conforme se extrai do acórdão recorrido, cuida-se de agravo de instrumento, interposto em face de decisão proferida em ação civil pública, ajuizada pela Defensoria Pública do Estado do Paraná em face do Estado do Paraná, por meio da qual foi indeferida a participação da agravante como amicus curiae por ausência de representatividade adequada.
+O Tribunal local não conheceu do recurso, ao fundamento de que a decisão que indefere a intervenção do amicus curiae, nos termos do artigo 138 do CPC, é irrecorrível.
+Não assiste razão à recorrente.
+Isso porque a Corte Especial deste Tribunal Superior, por unanimidade, em 01.08.2018, no julgamento da Questão de Ordem no REsp 1.696.396/MT - afetado sob o rito dos recursos repetitivos, decidiu que "a leitura do art. 138 do CPC/15, não deixa dúvida de que a decisão unipessoal que verse sobre a admissibilidade do amicus curiae não é impugnável por agravo interno, seja porque o caput expressamente a coloca como uma decisão irrecorrível, seja porque o §1º expressamente diz que a intervenção não autoriza a interposição de recursos, ressalvada a oposição de embargos de declaração ou a interposição de recurso contra a decisão que julgar o IRDR" (STJ, Questão de Ordem no REsp 1.696.396/MT, Rel. Ministra Nancy Andrighi, Corte Especial, j. 05.12.2018, DJe 19.12.2018).
+A propósito, os seguintes precedentes:
+PROCESSUAL CIVIL. IRRECORRIBILIDADE DA DECISÃO QUE INDEFERE INGRESSO DE AMICUS CURIAE. EXEGESE DO ART. 138 DO CPC.
+1. A Corte Especial do STJ, no julgamento da Questão de Ordem no REsp 1.696.396/MT, afetado ao julgamento no rito dos recursos repetitivos, decidiu que "a leitura do art. 138 do CPC/15 não deixa dúvida de que a decisão unipessoal que verse sobre a admissibilidade do amicus curiae não é impugnável por agravo interno, seja porque o caput expressamente a coloca como uma decisão irrecorrível, seja porque o § 1º expressamente diz que a intervenção não autoriza a interposição de recursos, ressalvada a oposição de embargos de declaração ou a interposição de recurso contra a decisão que julgar o IRDR" (STJ, Questão de Ordem no REsp 1.696.396/MT, Rel. Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2018).
+2. Agravo Interno não conhecido.
+(AgInt no REsp 1734471/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/08/2020, DJe 09/09/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. REQUERIMENTO INCIDENTAL PARA ADMISSÃO NO FEITO NA QUALIDADE DE AMICUS CURIAE. É IRRECORRÍVEL A DECISÃO QUE REJEITA TAL PLEITO. PRECEDENTE DO STF.
+1. Em 17/10/2018, o Plenário do STF, no julgamento do RE 602.584, assentou o entendimento de ser irrecorrível a decisão que rejeita o requerimento para ingresso no feito na qualidade de amicus curiae.
+2. Agravo interno não conhecido.
+(AgInt na PET no MS 24.246/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 08/05/2019, DJe 13/05/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. PORTARIA 1.287/2017, DO MINISTÉRIO DO TRABALHO. INDEFERIMENTO DO REQUERIMENTO PARA ADMISSÃO DE AMICUS CURIAE. INTERPOSIÇÃO DE AGRAVO INTERNO. NÃO CABIMENTO. PRECEDENTES DA CORTE ESPECIAL E PRIMEIRA SEÇÃO DESTA CORTE E DO SUPREMO TRIBUNAL FEDERAL. AGRAVO INTERNO NÃO CONHECIDO.
+ ..
+III - A intervenção do amicus curiae tem por escopo a prestação de elementos informativos à lide, a fim de melhor respaldar a decisão judicial que irá dirimir a controvérsia posta nos autos.
+IV - A Corte Especial deste Tribunal Superior, por unanimidade, em 01.08.2018, no julgamento da Questão de Ordem no REsp 1.696.396/MT - afetado sob o rito dos recursos repetitivos, decidiu que "a leitura do art. 138 do CPC/15, não deixa dúvida de que a decisão unipessoal que verse sobre a admissibilidade do amicus curiae não é impugnável por agravo interno, seja porque o caput expressamente a coloca como uma decisão irrecorrível, seja porque o §1º expressamente diz que a intervenção não autoriza a interposição de recursos, ressalvada a oposição de embargos de declaração ou a interposição de recurso contra a decisão que julgar o IRDR" (STJ, Questão de Ordem no REsp 1.696.396/MT, Rel. Ministra Nancy Andrighi, Corte Especial, j. 05.12.2018, DJe 19.12.2018).
+V - O Supremo Tribunal Federal, em sessão plenária de 17.10.2018, no julgamento do Recurso Extraordinário n. 602.584/DF, relator para o acórdão o Ministro Luiz Fux, pendente de publicação, uniformizou entendimento de que não cabe a interposição de agravo regimental para reverter decisão de relator que tenha inadmitido no processo o ingresso de determinada pessoa ou entidade como amicus curiae.
+VI - Agravo Interno não conhecido.
+(AgInt na PET no MS 24.195/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 27/03/2019, DJe 03/04/2019)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IRRECORRIBILIDADE DA DECISÃO QUE INDEFERE INGRESSO DE AMICUS CURIAE. EXEGESE DO ART. 138 DO CPC. PRECEDENTES. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
