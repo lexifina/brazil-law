@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no qual alega violação dos artigos 139, 789, 797, 835, 854, 831, 829, § 2º e 1.022 do CPC/2015 e dos artigos 10 e 11 da Lei n. 6.830/1980, sustentando "desnecessário o esgotamento de diligências para que seja efetivada a consulta ao sistema INFOJUD" (fl. 55).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 2 do Plenário do STJ).
+O acesso da parte exequente às informações constantes do Infojud não depende de exaurimento de outras diligências possíveis; e o fato de a procuradoria poder acessar o sistema, por conta própria, não impede a providência, pois é mecanismo criado em prol do credor. A respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. ADMINISTRATIVO. EXECUÇÃO FISCAL. INFOJUD. DESNECESSIDADE DE ESGOTAMENTO DAS BUSCAS POR BENS DO DEVEDOR.
+1. Consoante orientação deste Superior Tribunal de Justiça, após a edição da Lei nº 11.382/2006, não mais se exige a comprovação do esgotamento das vias extrajudiciais em busca de bens penhoráveis para a utilização do Sistema BACENJUD, não havendo, pois, a obrigatoriedade de exaurimento de diligências por parte da exequente para a localização de bens do devedor (Nesse sentido: EREsp 1.086.173/SC, 1ª Seção, Rel. Min. Mauro Campbell Marques, DJe de 1º.2.2011). Esse mesmo entendimento deve ser aplicado também ao INFOJUD, porquanto se trata de meio colocado à disposição dos credores para simplificar e agilizar a busca de bens aptos a satisfazer os créditos executados.
+2. Agravo interno não provido.
+(AgInt no AREsp 1398071/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 12/03/2019, DJe 15/03/2019)
+No mesmo sentido: AREsp 1528536/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/11/2019, DJe 19/12/2019; AgInt no AREsp 1571886/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020; AgInt no AREsp 1730314/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 23/11/2020, DJe 30/11/2020; REsp 1845322/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/12/2019, DJe 25/05/2020.
+Por oportuno, cumpre anotar que seria mais eficiente e econômico à parte recorrente tomar as medidas administrativas a seu cargo para a utilização do sistema, ao invés de exaurir as instâncias recursais, mormente em se tratando de pretensão relacionada à procura de bens penhoráveis.
+Ante o exposto, dou provimento ao recurso especial do INSS para oportunizar o acesso às informações do sistema infojud.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. INFOJUD. ACESSO ÀS INFORMAÇÕES PELA PARTE EXEQUENTE. POSSIBILIDADE. RECURSO PROVIDO.
