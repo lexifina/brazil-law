@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento ao apelo defensivo (fl. 340):
+APELAÇAO CRIMINAL ROUBO MAJORADO - DESCLASSIFICAÇÃO PARA FURTO - DESCABIMENTO - RECONHECIMENTO DA MINORANTE DA TENTATIVA - INVIABILIDADE - PARTICIPAÇÃO DE MENOR IMPORTÂNCIA QUANTO A UM DOS AGENTES - INOCORRÉNCIA - REDUÇÃO DA PENA-BASE DE UM DOS ACUSADOS AO MÍNIMO LEGAL - INVIABILIDADE - RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA - DESCABIMENTO.
+1. Demonstrado que os acusados, em unidade de desígnios, subtrairam, mediante grave ameaça, certa quantia pertencente à vítima, impõe-se a manutenção de suas condenações nas penas do art.157, §20, II, do Código Penal.
+2. Para a consumação do delito de roubo basta a simples inversão da posse da "res", sendo irrelevante que o apossamento espúrio pelo agente se perfaça de forma mansa e pacífica. Súmula 582 do STJ.
+3. Tendo os acusados agido em unidade de designios e divisão de tarefas, sendo que ambos detinham o domínio do fato, inviável o reconhecimento da participação de menor importância em relação a um deles.
+4. Ante a presença de dado concreto de reprovabilidade extraído dos autos, não há que se falar em redução da pena-base de um dos agentes, pois estipulada de forma suficiente e necessária ao alcance de suas finalidades, quais sejam, prevenção e reprovação do delito na espécie.
+5. Para a caracterização da circunstância atenuante da confissão espontânea, mister que o agente confitente confirme, nas vezes em que inquirido, a materialização de toda a estrutura típica que informa o injusto penal.
+V.V. 1. Confessada a existência do crime e a autoria pelos agentes, ainda que parcialmente, deve-se reconhecer a atenuante da confissão espontânea em favor deles.
+2. Nos termos da Súmula nº. 231 do STJ, a pena não pode ser reduzida para aquém do mínimo legal em razão da incidência de circunstâncias atenuantes. 3. Em se tratando de confissão qualificada, não há que se falar na compensação da atenuante do art. 65, III, "d" do CP com a agravante da reincidência, devendo esta preponderar sobre aquela.
+Consta dos autos que o recorrente foi condenado pela prática do crime previsto no art. 157, § 2º, do Código Penal, à pena de 7 anos de reclusão e 18 dias-multa, em regime fechado.
+O Tribunal, no julgamento da apelação defensiva, manteve, por maioria, a sentença condenatória.
+Opostos embargos infringentes, foram rejeitados.
+Sustenta a defesa violação do art. 65, III, d, do Código Penal.
+Aduz que o recorrente confessou o delito de roubo, negando apenas a violência.
+Requer o provimento do recurso, a fim de que seja reconhecida a atenuante da confissão, que deve ser integralmente compensada com a reincidência.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+DECIDO.
+A respeito da aplicação da atenuante da confissão, assim consta do acórdão recorrido (fls. 349/352):
+Apesar de as defesa requererem o reconhecimento da atenuante da confissão espontânea, não julgo ser possível o acolhimento do pedido.
+Conforme se extrai do processo e inclusive das peças recursais fica claro que os agentes não confessaram a prática do delito imputado na denúncia e pelo qual foram condenados.
+Ora, em sede judicial, eles negaram a prática do crime de roubo e sustentaram que apenas subtrairam a quantia que estava no caixa do estabelecimento comercial.
+Contudo, pelo cotejo dos elementos coligidos, sobretudo pelas declarações da vítima, foi possível aferir a prática de crime diverso daquele que os agentes disseram ter cometido.
+ ..
+Quanto ao reconhecimento da atenuante, ponto de divergência do voto revisor, tenho que a confissão do réu - que admitiu a subtração, contudo, negando o emprego da violência ou grave ameaça - não deve atenuar a pena.
+Muito embora viéssemos decidindo pela incidência da atenuante em casos que tais, diante de decisões neste sentido exaradas pelo colendo Superior Tribunal de Justiça, recentemente aquela Corte pacificou a matéria em sentido diverso, afastando a aplicação da atenuante nessas hipóteses no crime de tráfico de drogas, editando a Súmula 630, como seguinte teor:
+"A incidência da atenuante da confissão espontânea no crime de tráfico ilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio."
+A meu ver, em que pese a referida súmula referir-se especificamente ao crime de tráfico de drogas, tenho que a situação se apresenta análoga para o delito de roubo, em que paciente confessa tipo diverso ao negar o emprego da violência ou grave ameaça para a prática do crime.
+Extrai-se, ainda, dos voto condutor dos embargos infringentes (fl. 378):
+Nota-se que o embargante, embora tenha assumido a subtração do bem da vítima, negou o uso da ameaça, elementar do tipo penal pelo qual se vê acusado.
+E, para a caracterização da referida circunstância atenuante, mister que o agente confitente confirme a materialização de toda a estrutura típica que informa o injusto penal, até porque
+(..) não é possível que o réu se beneficie de uma circunstancia legal para amenizar sua pena se houver agido sem qualquer espontaneidade, apenas para locupletar-se de algum benefício legal (NUCCI, Guilherme deSouza. Código Penal comentado. Versão compacta. São Paulo: RT, 2009,p. 399).
+Ora, aquela outrora tida como rainha das provas somente pode trazer algum benefício ao acusado acaso venha a se consubstanciar em certeza e conforto moral ao Órgão responsável pela jurisdição, o que definitivamente não ocorre quando o interrogando sequer confirma que agiu com ameaça contra a vítima, sustentando apenas a subtração da res.
+Portanto, não tendo sido integral a confissão e, estando a condenação arrimada também em elementos de convicção outros, e não apenas na versão apresentada pelo réu, não vejo como possível a aplicação da atenuante prevista no art.65, III, "d", do Código Penal.
+Como se vê, o Tribunal de origem não reconheceu a incidência da confissão espontânea, no caso em apreço, sob o fundamento de que o réu negou a prática do crime de roubo e sustentou que apenas subtraiu a quantia que estava no caixa do estabelecimento comercial.
+Tal entendimento é contrário à jurisprudência desta Corte, no sentido de que Ainda que o Paciente tenha declarado em juízo conjuntura que pareça a descrição de simples subtração - o que configuraria crime diverso -, tal conduta também constitui elementar do delito de roubo, por se tratar de crime complexo, consistente na prática de furto associada à violência ou grave ameaça (HC 525.885/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/08/2020, DJe 02/09/2020).
+No mesmo sentido:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO SIMPLES. ATENUANTE DE CONFISSÃO ESPONTÂNEA. OCORRÊNCIA. ASSUNÇÃO DE CRIME DE FURTO. COMPENSAÇÃO COM A AGRAVANTE DO ART. 61, II, "h", do CP. POSSIBILIDADE. REGIME ABERTO. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que a confissão do acusado, quando utilizada para a formação do convencimento do julgador, deve ser reconhecida na dosagem da pena como circunstância atenuante, nos termos do art. 65, III, "d", do CP, mesmo quando eivada de teses defensivas, descriminantes ou exculpantes. Inteligência da Súmula n. 545/STJ (Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal).
+2. Embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo - crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial (HC n. 396.503/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 24/10/2017, DJe 6/11/2017).
+3. De acordo com a jurisprudência desta Corte de Justiça, bem como a do Supremo Tribunal Federal, a confissão espontânea está ligada à personalidade do agente (EREsp n. 1.154.752/RS, Terceira Seção, Relator Ministro SEBASTIAO REIS JUNIOR, DJe 4/9/2012 e HC N. 101.909, Relator Ministro AYRES BRITTO, Segunda Turma, DJe 19/6/2012). Por sua vez, a agravante do art. 61, II, "h", do CP diz respeito à circunstância subjetiva da vítima (HC n. 299.760/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 29/8/2016), não possuindo, portanto, nenhum elemento preponderante previsto no art. 67 do CP (motivos determinantes do crime, personalidade do agente e reincidência).
+4. De acordo com o enunciado n. 440 da Súmula do STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"; e com o enunciado n. 719 da Súmula do STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea". In casu, não obstante a sanção básica ter sido fixada no mínimo legal, o recorrente ser primário, com as circunstâncias judiciais do artigo 59 do Código Penal favoráveis, verifica-se que não foram empregados fundamentos concretos e suficientes para a determinação do regime mais gravoso. Portanto, em observância ao art. 33, §§ 2º e 3º, "c", do Código Penal, estabeleço o regime aberto para o cumprimento da reprimenda.
+5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1864871/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/05/2020, DJe 14/05/2020)
+Reconhecida, portanto, a atenuante da confissão espontânea, passo à nova dosimetria da pena.
+Mantenho a pena-base fixada pelas instâncias de origem em 4 anos e 6 meses de reclusão com o pagamento de 11 dias-multa.
+Na segunda fase, reconhecida a atenuante da confissão espontânea, promovo a compensação integral com a agravante da reincidência, preservando o quantum da pena em 4 anos e 6 meses de reclusão com o pagamento de 11 dias-multa.
+Na última fase, presente a majorante disposta no art. 157, §2º, II, do CP, mantenho a fração no patamar de 1/3, conforme fixado pelas instâncias ordinárias, razão pela qual torno a reprimenda definitiva em 5 anos e 4 meses de reclusão, com o pagamento de 14 dias-multa, a ser cumprida em regime fechado.
+Ante o exposto, dou provimento ao recurso especial para reduzir a pena do recorrente a 5 anos e 4 meses de reclusão, a ser cumprida em regime fechado.
+Publique-se.
+Intimem-se.
