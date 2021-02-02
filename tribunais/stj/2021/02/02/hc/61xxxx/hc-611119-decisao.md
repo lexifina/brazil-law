@@ -1,0 +1,5 @@
+DECISÃO
+ERISRAEL LUIS GABRIEL APARECIDO PIRESalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado de São Paulono HC n.2174899-45.2020.8.26.0000.
+Em consulta à página eletrônica da Corte de origem, o gabinete verificou que, em 1º/10/2020, foi proferida sentença na ação penal objeto destewritpara condenar o réu à pena de 2 anos de reclusão, em regime inicial aberto, e 10 dias-multa, como incurso no art. 155, § 4º, IV, do Código Penal, substituída a pena privativa de liberdade por duas restritivas de direitos e concedido ao acusado o direito de recorrer em liberdade. Em 4/11/2020, foicertificado o trânsito em julgado da condenação e expedida a guia de recolhimento, circunstância que evidencia a prejudicialidade do pleito formulado nesta impetração- revogação da decisão que convolou a prisão em flagrante em custódia preventiva.
+À vista do exposto,julgo prejudicado o habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
