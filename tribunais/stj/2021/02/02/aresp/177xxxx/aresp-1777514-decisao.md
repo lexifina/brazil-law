@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por ADEVANIR ALVES FERREIRA em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa é a seguinte (e-STJ fls. 508):
+APELAÇÃO CRIME- PORTE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA - ARTIGO 16, CAPUT, DA LEI 10.826/2003 - AUTORIA E MATERIALIDADE INCONTROVERSAS- CRIME DE MERA CONDUTA E DE PERIGO ABSTRATO- DEPOIMENTOS POLICIAIS QUE POSSUEM VALOR PROBATÓRIO- AUSÊNCIA DE INDÍCIOS DE ACUSAÇÃO INVERÍDICA - CONDENAÇÃO MANTIDA - PLEITO DE CONCESSÃO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA - COMPETÊNCIA DO JUÍZO DA EXECUÇÃO - RECURSO NÃO CONHECIDO NESTA PARTE - RECURSO PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO- FIXAÇÃO DE HONORÁRIOS AO DEFENSOR DATIVO.
+Nas razões do recurso especial (e-STJ fls. 528/533), fundado na alínea "a"do permissivo constitucional, alega a parte recorrente violação doartigo 386, incisos IV e V, do CPP.Sustentaa absolvição do acusado, uma vez que ele não era o proprietário, nem o possuidor da arma apreendida.
+Apresentadas contrarrazões (e-STJ fls. 540/542), o Tribunala quonão admitiu o recurso especial (e-STJ fls. 550/551), tendo sido interposto o presente agravo.
+O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimento do recurso (e-STJ fls.592/595).
+É o relatório.Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada,conheçodo agravo.
+O recurso não merece acolhida.
+O Tribunala quo,em decisão devidamente motivada, analisando os elementos probatórios colhidos nos autos, sob o crivo do contraditório, concluiu pela comprovação da autoriado delito, conforme trecho abaixo (e-STJ fls. 511/512):
+E a autoria é certa, recaindo sobre o ora apelante.
+As testemunhas de acusação LUIS HENRIQUE BERNARDINO DA COSTA (mov. 32.3) e CRISTIANO COSTA BATISTA (mov. 1.6), Guardas Municipais, relataram, na fase extrajudicial, que estavam em patrulhamento quando avistaram um veículo na Rua Pomba Branca em atitude suspeita. Relataram que, após a equipe se aproximar e o Apelante tentar fugir do local, este foi abordado, sendo ADEVANIR já conhecido no meio policial. Disseram que visualizaram o momento em que, antes de sair do automóvel, o Apelante dispensou um objeto no interior do veículo. Declararam que havia seis pessoas no carro, e que nada de ilícito foi encontrado com eles. Porém, informaram que, em revista no interior do veículo, foi encontrado no banco do condutor um revólver calibre 38, com cinco munições intactas.
+Em Juízo, LUIS HENRIQUE confirmou as alegações apontadas, esclarecendo que a arma de fogo foi encontrada embaixo do tapete do condutor do veículo. Reiterou que visualizou o momento em que o Apelante dispensou a arma de fogo antes de ser realizada a abordagem (mov. 127.4).
+O informante ANTONIO MARCELINO REINOSO ORTEGA, amigo do Apelante, assumiu a propriedade da arma de fogo (mov. 127.5).
+O informante GUILHERME FELIPE ORTEGA DE OLIVEIRA, amigo do Apelante, indicou que seu tio, ANTONIO, era o proprietário do revólver (mov. 127.6).
+No mesmo sentido foram as palavras da informante RAFAELA MARTINS DE CAMPOS, esposa do Apelante (mov. 127.7). Frisa-se que, em depoimento na Delegacia de Polícia, GUILHERME e RAFAELA relataram que não tinham conhecimento do proprietário da arma de fogo apreendida, todavia, em Juízo, afirmaram com certeza que era ANTONIO, demonstrando a clara finalidade de desviar a responsabilidade penal do Apelante.
+Assim, rever tais fundamentospara concluir pela absolvição do envolvido, em razão da ausência de prova concreta para a autoria,como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula n. 7/STJ.
+Ante o exposto,com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ,conheçodo agravo paranão conhecerdo recurso especial.
+Intimem-se.
