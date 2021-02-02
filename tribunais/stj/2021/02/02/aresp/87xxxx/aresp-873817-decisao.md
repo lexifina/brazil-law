@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo, desafiando decisão do c. Tribunal de Justiça do Estado do Amazonas, interposto pela TRIÂNGULO INCORPORAÇÕES LTDA, que não admitiu seurecurso especial, sob o fundamento de incidência doverbete7/STJ.
+É o relatório.
+Passo a decidir.
+O recurso não merece sequer conhecimento.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamentono CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma neleprevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Na hipótese, a parte agravante não rebateu, como lhe competia, os fundamentos da decisão que inadmitiu o apelo especial. Com efeito, limitou-se reiterar questões relativas ao mérito recursal.Olvidou-se, entretanto, de atacar, especificadamente, o óbice do enunciado 7/STJ.
+Com efeito, o princípio da dialeticidade, que rege os recursosprocessuais, impõe ao recorrente, como requisito para a própriaadmissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja doponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento(error in judicando), porquanto não atende aoprincípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamentebalizada, os fundamentos adotados na decisão que busca reformar, atraindo, na hipótese, o disposto no art. 544, § 4º, I, do CPC de 1973 (art. 932,III, do Código de Processo Civil de 2015).
+Ademais, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não se conhecerá do agravo emrecurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DO MINISTROPRESIDENTE QUE NÃO ADMITIU RECURSO ESPECIAL. PARTE QUE DEIXOU DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃOADMITIU O RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS.AGRAVO INTERNO NÃO PROVIDO.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado naorigem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo.
+2. Era esse o entendimento segundo a inteligência do disposto no inciso I,do § 4º, do art. 544 do Código de Processo Civil de 1.973, incluído pela Lei nº 12.322/2010, que tratava da sistemática dos agravos contra osdespachos denegatórios dos recursos dirigidos a esta Corte e consigna ser dever do agravante atacar especificamente os fundamentos da decisãoagravada, sob pena de não conhecimento de sua irresignação.
+3. Continua a ser esse o entendimento na vigência do Novo Código de Processo Civil, ao estipular que o relator não deve conhecer de recursoque não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, Novo CPC).
+4. Agravo interno não provido." (AgInt no AREsp 888.667/RJ, Rel. MinistroLUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/10/2016, DJe de 18/10/2016)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃOQUE INADMITIU O ESPECIAL. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admitiu o especial, caso em tela, impede o conhecimento do agravo emrecurso especial, nos termos do que dispõe o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III,
+do Novo Código de Processo Civil/2016 e no art. 253, parágrafo único, I,do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+2. Agravo interno não provido." (AgInt no AREsp 821.472/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/09/2016, DJe de06/10/2016)
+Assim, incide, na hipótese, por analogia, o princípio cristalizado nasúmula 182 do Superior Tribunal de Justiça, segundo a qual é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente osfundamentos da decisão agravada.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
