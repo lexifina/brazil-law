@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido de liminar, impetrado em benefício dePaulo Rodrigues de Souza, em que se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios.
+Tem-se dos autos que o Juízo da Vara Criminal e do Tribunal do Júri de Águas Claras/DF, acolhendo a representação formulada pela autoridade policial,decretou a prisão preventiva do paciente pela suposta prática do crime de tentativa de homicídio, com fundamento na garantia da ordem pública, na aplicação da lei penal e na conveniência da instrução criminal (fls. 126/128 - Processo n. 0711161-36.2020.8.07.0020).
+A defesa, então, impetrouhabeas corpusnoTribunal de Justiça, que, por sua vez, denegou a ordem, mantendo a constrição cautelar do paciente (fls. 333/345 -Habeas Corpusn.0743081-88.2020.8.07.0000).
+Daí o presentewrit,em que se alega constrangimento ilegal na prisão preventiva decretada em desfavor do paciente, visto que ausentes os requisitos do art. 312 do Código de Processo Penal.
+Requer-se, assim, a concessão liminar da ordempara revogar a medida preventiva, com a expedição do respectivo alvará de soltura e, no mérito, a confirmação da liminar, caso deferida.
+A liminar foi indeferida. Pedido de reconsideração apresentado pela defesa, também indeferido.
+Solicitadas informações às autoridades apontadas como coatoras, foram prontamente prestadas às fls. 364/405; encaminhados os autos ao Ministério Público Federal para parecer queopinou pelonão conhecimento do writ e, caso conhecido, pelo seu indeferimento (fls. 409/413).
+É o relatório.
+Do decreto de prisão preventivaextrai-se (fls. 127/128 - grifo nosso):
+ .. Quanto aos indícios suficientes de autoria, conforme descrito acima, os documentos anexados aos autos evidenciam que sobre o investigado repousam elementos suficientemente necessários para a decretação da prisão preventiva, conforme se verifica no detalhado Relatório Policial nº 523/2020  38a DP (ID 71614025).
+Do periculum libertatis:
+Demonstrada a adequação da medida, ora analisada, passemos a analisar a necessidade da medida constritiva de liberdade, ou seja, se há necessidade de resguardar a garantia da ordem pública, da aplicação da lei penal, da garantia da instrução criminal e da ordem econômica. O relatório policial concluiu que PAULO RODRIGUES foi reconhecido por uma testemunha ocular; a munição encontrada em sua casa possui características semelhantes àquela encontrada na caminhonete da vítima;e que houve imediata fuga do local do crime e da residência que habitava.
+Sendo assim, depreende-se dos autos que a prisão preventiva se mostra necessária para aplicação da lei penal, visto que,conforme consta no Relatório Policial, o representado se evadiu do local,além da conveniência da instrução criminal, uma vez que se trata de pessoa conhecida na região onde praticou o crime, fato que pode inibir as testemunhas de prestarem declarações.
+Ademais, está atendido o requisito da contemporaneidade da medida, haja vista que o crime foi praticado em data próxima e recente.
+Para mais, os delitos imputado aos investigado possui pena máxima abstratamente considerada maior que 04 (quatro) anos (artigo 312, inciso I, do CPP), e, considerando as ponderações acima expostas, as medidas cautelares previstas no art. 319, do CPP, não se mostram adequadas e suficientes ao presente caso.
+Nesse diapasão, verifico que demonstrado ofumus comissi delictie opericulum libertatis, portanto, evidenciada a adequação e a necessidade da medida constritiva da liberdade, por lógica, resta demonstrada que a aplicação de medidas cautelares diversas da prisão se mostram inócuas a prevenir a garantia da ordem pública.
+No mesmo sentido, asseverou a Corte de Justiça (fls. 336/337):
+ .. Sendo assim, depreende-se dos autos que a prisão preventiva se mostra necessária para a aplicação da lei penal, visto que, conforme consta do Relatório Policial, o representado se evadiu do local, além da conveniência da instrução criminal, uma vez que se trata de pessoa conhecida na região onde praticouo crime, fato que pode inibir as testemunhas de prestarem declarações.
+Pois bem,considerando as circunstâncias delineadas, evidenciadas ao fato de o paciente serpessoa conhecida na região onde praticou o crime, fato que pode inibir as testemunhas de prestarem declarações,entendo como devidamente fundamentada a prisão preventiva decretada em desfavor do acusado.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTO IDÔNEO. REITERAÇÃO DO RHC 116.318/PE.COVID-19. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO NÃO VERIFICADO.CONTEMPORANEIDADE. NECESSIDADE DA CUSTÓDIA. AGRAVO IMPROVIDO.
+1. Nada se alterando no quadro fático, não se conhece de impugnação aos fundamentos da prisão decretada em sentença de pronúncia, onde apontada a gravidade do crime e riscos à instrução criminal.
+2. No tocante ao pleito de revogação da prisão preventiva, em razão da atual situação de pandemia, causada pelo Covid-19, nota-se que o Tribunal de origem não se manifestou a respeito do tema, sendo, portanto, indevido o debate diretamente por esta Corte superior, sob pena de incorrer em indevida supressão de instâncias.
+3. Não se detecta ilegalidade apta a ensejar a concessão da ordem, porque, embora o crime tenha sido cometido em 10/7/2007 e a denúncia seja de 8/9/2008, a prisão preventiva foi decretada tão somente em 18/3/2019, a sentença de pronúncia já transitou em julgado, e a sessão plenária que ocorreria em 16/4/2020 foi cancelada ante a pandemia da Covid-19.
+4. O fundamento que justificou a segregação cautelar (já analisado no RHC n. 116.318/PE) foi relativo a intimidação das testemunhas (fl. 36), não havendo se falar, portanto, em ausência de contemporaneidade, por ainda se manter atual o risco à instrução em plenário do Júri.
+5. Agravo regimental improvido.
+(AgRg no HC n. 587.774/PE, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/12/2020)
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIOS QUALIFICADOS CONSUMADOS E TENTADO. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA DE PRONÚNCIA. RÉU PRESO DURANTE TODA A INSTRUÇÃO. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. AMEAÇA A TESTEMUNHAS. FUNDAMENTAÇÃO IDÔNEA.ORDEM DENEGADA.
+1. Nos termos da jurisprudência desta Corte, " a  referência pelo juiz, na pronúncia, à primitiva decretação da preventiva, para manter a custódia cautelar não é causa de ilegalidade, notadamente tendo em conta que a decisão segregatória original reveste-se de fundamentos concretos" (AgRg no HC 419.500/PA, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/10/2017, DJe 27/10/2017).
+2. A prisão preventiva foi devidamente fundamentada, nos exatos termos do art. 312 do Código de Processo Penal, destacando-se a necessidade da custódia para garantia da ordem pública, considerando, em especial, a gravidade concreta dos delitos supostamente praticados pelo Acusado - "atuação como mandante do homicídio de seu irmão e cunhada, tendo como motivação questões relacionadas com herança" - e para assegurar a conveniência da instrução criminal, tendo sido ressaltado que o Paciente teria ameaçado testemunhas, no caso, familiares seus. Não há falar, assim, em revogação da prisão preventiva.
+3. Não é possível, em habeas corpus, afastar a afirmação das instâncias ordinárias quanto à situação do Paciente para acolher a alegação de que não teria havido ameaça, pois demandaria dilação probatória, inviável na via eleita.
+4. Ordem de habeas corpus denegada.
+(HC n. 538.715/ES,Ministra Laurita Vaz, Sexta Turma, DJe 20/11/2020)
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL.HABEAS CORPUS.TENTATIVA DE HOMICÍDIO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA, APLICAÇÃO DA LEI PENAL E CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. FUNDAMENTAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
