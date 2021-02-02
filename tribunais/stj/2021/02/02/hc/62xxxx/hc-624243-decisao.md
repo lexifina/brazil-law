@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar,impetrado em favor de FERNANDO REGINALDO KOEGLERcontra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o paciente foi condenado às penas de 04 (quatro) anos e 06 (seis) meses de reclusão, em regime inicial semiaberto, e 21 (vinte e um dias-multa), pela prática dos delitos dispostos nos arts. 180 e 180, §§ 1º e 2º, do Código Penal, por duas vezes, em concurso material e formal.
+Irresignada, a defesa interpôsrecurso de apelação ao Tribunal de origem, que negou provimento ao apelo, nos termos do acórdão juntado às fls. 232-243.
+No presente writ, o impetrante aduz que houve violação aos princípios da razoabilidade e da proporcionalidade, na terceira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a incidência do concurso formal de crimes na dosimetria.
+Requer, ao final, a concessão da ordem, "para afastar a aplicação de concurso formal no que tange à narrativa atinente ao fato 2 da exordial acusatória, ou, subsidiariamente determine ao Tribunal de Justiça de Santa Catarina que fundamente o juízo de certeza quanto à violação de patrimônios distintos" (fls. 3-7).
+O pedido liminar foi indeferido (fls. 257-258).
+As informações foram prestadas às fls. 262-314 e 316-324.
+O Ministério Público Federal, às fls. 328-331, manifestou-se nos termos da seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CONHECIMENTO. PORTE ILEGAL DE ARMA DE FOGO. TRANCAMENTO DA AÇÃO PENAL. AUSÊNCIA DE JUSTA CAUSA.CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.- Habeas Corpus substitutivo de recurso próprio. Não conhecimento.- O paciente restou condenado pela prática dos crimes descritos no artigo 180, caput (fato 1), e artigo 180, §§ 1º e 2º (fato 2), ambos do Código Penal, à pena de 4 anos e 6 meses de reclusão, em regime inicial semiaberto.- As instâncias ordinárias aumentaram a pena do paciente, com fundamento no art. 70 do Código Penal, diante da possibilidade deque a aquisição dos motores dos veículos objeto de furto tenha ocorrido no mesmo dia e que houve lesão a patrimônios de pessoas distintas.- Contudo, referida conclusão não se baseia em elementos probatórios produzidos nos autos, mas apenas em presunção, o que não é suficiente para fundamentar o entendimento de que houve lesão a patrimônios distintos e, portanto, a prática de dois crimes de receptação.- Parecer pelo não conhecimento do habeas corpus e pela concessão da ordem, de ofício, para afastar o concurso formal de crimes."
+É o breve relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Destarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante aduz que houve violação aos princípios da razoabilidade e da proporcionalidade, na terceira etapa da dosimetria da pena, ao argumento de que não houve fundamentação idônea a justificar a incidência do concurso formal de crimes na dosimetria.
+Inicialmente, cumpre registrar que a via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+Acerca do punctum saliens, o Tribunal a quo, quando do julgamento do recurso de apelação, assim se pronunciou, in verbis:
+"Por fim, requereu a Defesa o afastamento do concurso formal aplicado ao fato 2 narrado na denúncia. Todavia, o pleito há de ser afastado.
+Sem maiores digressões, cumpre ressaltar que no caso em apreço a polícia militar logrou êxito em localizar em posse do recorrente, num mesmo contexto fático, dois motores de veículos com registro de furto, de forma a possibilitar a aplicação do concurso formal de crimes, já que houve lesão a patrimônios de pessoas distintas."
+A teor do que dispõe o art. 70 do Código Penal, verifica-se o concurso formal de crimes quando o agente, mediante uma só ação ou omissão, pratica dois ou mais crimes, idênticos ou não.
+No caso, há concurso formal entre os crimes, porquanto o Tribunal a quo asseverou, expressamente, que "a polícia militar logrou êxito em localizar em posse do recorrente, num mesmo contexto fático, dois motores de veículos com registro de furto", assim como exarou que"houve lesão a patrimônios de pessoas distintas".
+Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com osestreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+A propósito:
+"HABEAS CORPUS.ROUBO DUPLAMENTE MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. CONCURSO FORMAL VERSUS CRIME ÚNICO. VÍTIMAS DIFERENTES. MANIFESTO CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Praticado o crime de roubo em um mesmo contexto fático, mediante uma só ação, contra vítimas diferentes, tem-se configurado o concurso formal de crimes, e não a ocorrência de crime único, visto que violados patrimônios distintos. Precedentes.
+2. No caso, o paciente, mediante uma só ação, subtraiu bens pertencentes a vítimas diversas, o que evidencia a duplicidade de resultados e, consequentemente, a ocorrência de concurso formal de crimes.
+3.Habeas corpus não conhecido".
+(HC 255.972/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 18/09/2014,DJe02/10/2014) .
+"PENAL. HABEAS CORPUS. ART. 157, §2.º, I E II, (POR TRÊS VEZES) C.C. ART. 70, DO CÓDIGO PENAL. (1) WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. INVIABILIDADE. VIA INADEQUADA. (2) AUSÊNCIA DE APREENSÃO DA ARMA DE FOGO UTILIZADA. IRRELEVÂNCIA. (3) MAJORANTES. QUANTUMDE ACRÉSCIMO. SÚMULA Nº 443 DESTA CORTE. ILEGALIDADE MANIFESTA. (4) CRIME COMETIDO MEDIANTE UMA SÓ AÇÃO. PATRIMÔNIOS DIVERSOS. CRIME ÚNICO. IMPOSSIBILIDADE. CONCURSO FORMAL. (5) REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. (6) NÃO CONHECIMENTO. ORDEM DE OFÍCIO.
+(..)
+4. É assente neste Tribunal Superior que, praticado o crime de roubo mediante uma só ação, contra vítimas diferentes, não há se falar em crime único, mas sim em concurso formal, visto que violados patrimônios distintos. Precedentes.
+5. Não obstante a estipulação da reprimenda final em patamar inferior a8(oito) anos de reclusão, encontra-se motivada a sujeição a regime mais gravoso quando alicerçado em elementos concretos, a despeito desses não terem sido empregados na fixação da pena-base, estabelecida no mínimo legal. Na espécie, as instâncias de origem salientam particularidade fática, que revela umplusde reprovabilidade na conduta do paciente, impedindo o abrandamento do regime inicial de cumprimento da pena.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente para6(seis) anos e 8 (oito) meses de reclusão, mais 16 (dezesseis) dias-multa, mantidos os demais termos da sentença e do acórdão".
+(HC 275.122/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/06/2014,DJe04/08/2014).
+Ante o exposto, não conheço do writ.
+P. e I.
