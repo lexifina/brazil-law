@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que negou provimento aos apelos da acusação e da defesa.
+Sustenta o Ministério Público violação dos arts. 155, § 4º, I, do Código Penal e arts. 158, 167, 315, § 2º, IV, 381, III, 619 e 620, todos doCódigo de Processo Penal, ao deixar dereconhecer a qualificadora do rompimento de obstáculo, desprezando a impossibilidade fática em se proceder ao exame pericial direto.
+Requer, assim, o provimento do recurso, redimensionando a pena imposta.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso.
+É o relatório.
+DECIDO.
+Cinge-se a pretensão do Ministério Públicoao reconhecimentoda qualificadora dorompimentodeobstáculo.
+Acerca do tema, a Corte de origem decidiu (fl. 383):
+Pois bem, é exigência da lei que haja o laudo pericial para o reconhecimento da qualificadora. Nessa esfera, não há discricionariedade ao juízo da causa, conforme elencado nos artigos acima, havendo apenas exceção elencada no artigo 167 do CPP , ou seja, quando impossível a realização do laudo pelo  2  desaparecimento dos vestígios, o que não é o caso dos autos.
+Com isso, o caso em tela não demonstra o desaparecimento dos vestígios e o depoimento do síndico do condomínio menciona valor pago para o conserto, sobretudo sem comprovar com recibo, tampouco com registros, e mesmo que o fizesse, tais informações não faz as vezes do laudo previsto em lei a fim de que se apliquem os efeitos da qualificadora.
+Ao julgar os embargos de declaração, asseverou o Tribunala quo ainda (fl. 425):
+In casu, verifica-se que o v. acórdão tratou detalhadamente das insurgências trazidas nas razões recursais do apenado, não cabendo reanálise tão somente pela insurgência do resultado do julgado, até mesmo porque o estudo da decisão baseou-se tão somente nas provas anexadas no caderno processual.
+Com efeito, reforço que o síndico do condomínio foi ouvido em juízo mencionando que não foi realizada perícia no portão, porém o reparo custou R$ 200,00 (duzentos reais), porquanto restou danificado o sensor do controle eletrônico, e não possui a nota fiscal do conserto, também não fotografou as avarias do portão.
+Ademais, como bem ponderou a r. sentença condenatória, a polícia científica compareceu ao local apenas 1 mês após os fatos.
+Outrossim, como já mencionado, o artigo 171 é expresso em exigir o exame pericial.
+Portanto, a fundamentação do acórdão, é clara e certeira, devendo ser afastada a alegação de omissão ou obscuridade.
+Por fim, é certo que pretendem o embargante, em verdade, o reexame de questões analisadas e, como sabido, eventual intento em modificar o acórdão deve ser realizado por via adequada e não em sede de embargos de declaração.
+De fato, consta da sentença que a perícia compareceu ao local após um mês do fato criminoso para a constatação da ocorrência ou não do rompimento, assim concluindo pelo não cabimento da qualificadora(fls. 251/250):
+A qualificadora alusiva ao rompimento de obstáculo -definida no inciso Ido § 4º do art. 155 do Código Penal -, todavia, não se sustenta,porquanto o Estado-Administração negligenciou o cumprimento da regra prevista no caput do art. 169 do Código de Processo Penal -que é extremamente clara ao determinar que, "para o efeito de exame do local onde houver sido praticada a infração, a autoridade providenciará imediatamente para que não se altere o estado das coisas até a chegada dos peritos, que poderão instruir seus laudos com fotografias, desenhos ou esquemas elucidativos" , vindo a Policia Científica, ao revés, a comparecer ao local do crime mais de m mês após os fatos e quando os vestígios materiais do crime já haviam sido suprimidos! Ressalte-se, neste passo, que nem mesmo a norma excepcional prevista no art. 167 do Código de Processo Penal  que estabelece que a prova testemunhal poderá suprir a falta do exame de corpo de delito no caso de desaparecimento dos vestígios  poderá ser invocada para o suprimento da deficiente prova técnica, uma vez que o referido dispositivo somente é aplicável às hipóteses de desaparecimento dosvestígios por fato imputável ao acusado ou por caso fortuito ou força maior, e nãoporque o Estado-Administração, em violação aos princípios constitucionais da ilegalidade e da eficiência administrativas (art. 37, caput, da Constituição do Brasil de 1988), negligenciou o cumprimento oportuno da regra prevista no caput do art. 169 do mesmo Código.
+Prevalece nesta Corte o entendimento de que, para incidir a qualificadora prevista no art. 155, § 4º, I, do Código Penal, faz-se indispensável a realização deperícia,sendo possível substituí-la por outros meios de prova se o delito não deixar vestígios, ou esses hajam desparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo, ressalvado entendimento pessoal diverso.
+No caso, como se observa dos trechos acima transcritos, a perícia não foi realizada por desídia do estado, que compareceu ao local do crime com mais de um mês dos fatos, de modo que incabível o reconhecimento da qualificadora por prova testemunhal.
+Em caso semelhante, já decidiu esta Corte Superior:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO MEDIANTE ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PERÍCIA. DESÍDIA ESTATAL NA NÃO REALIZAÇÃO DO LAUDO DE CONSTATAÇÃO DIRETO. AUSÊNCIA DE JUSTIFICATIVA DE TAL AUSÊNCIA PELAS INSTÂNCIAS INFERIORES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior orienta-se no sentido da imprescindibilidade da realização de perícia, a fim de se caracterizar a circunstância qualificadora do crime de furto, nas infrações que deixam vestígios.
+2. Na hipótese, porém, o poder público não se desincumbiu do dever de proceder à necessária perícia técnica direta, tendo as instâncias ordinárias se limitado a ouvir as testemunhas do delito, que constataram o rompimento de obstáculo, não havendo nenhuma justificativa plausível para a não realização do laudo de constatação direto nos autos.
+Agravo regimental desprovido.
+(AgRg no AgRg no REsp 1660041/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 07/11/2017, DJe 14/11/2017)
+Não há, portanto, falar em negativa de prestação jurisdicionalquando o acórdão aprecia, fundamentadamente, todas as questões necessárias à solução da controvérsia, adotando solução contrária aos interesses da parte,a afastar a tese de violação dos arts. 619 e 620, ambos do CPP.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
