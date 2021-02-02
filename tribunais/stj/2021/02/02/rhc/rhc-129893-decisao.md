@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por TIAGO CORREIA DUARTE, em que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, o qual denegou a ordem em acórdão assim ementado:
+""Habeas Corpus". Roubo majorado e furto simples. Conversão da prisão em flagrante em preventiva. Decisão fundamentada nos preceitos legais e em detalhes do caso concreto, nada infirmando a segregação. Inteligência dos artigos 312 e 313, inciso I, do Código de Processo Penal. Necessidade da medida constritiva para assegurar a ordem pública. Crime ao qual se comina pena de reclusão máxima superior a quatro anos também autorizando a custódia (artigo 313, I, do Código de Processo Penal), sem se verificar situação condizente com medidas cautelares diversas. Constrangimento ilegal não verificado de plano. Ordem denegada liminarmente, dispensadas informações da autoridade apontada como coatora." (e-STJ, fl. 119)
+Consta dos autos que o recorrente teve a prisão em flagrante convertida em preventiva no dia 10/2/2020, pela suposta prática dos delitos previstos nos arts. 155, § 4º, IV, e 157, § 2º, II, do Código Penal.
+Nas razões recursais (e-STJ, fls. 127-138), a defesa alega, em suma, a ausência dos requisitos autorizadores da prisão preventiva. Aponta as condições pessoais favoráveis do paciente e a possibilidade de substituição da prisão preventiva por uma medida cautelar diversa. Requer, inclusive liminarmente, a revogação da custódia preventiva. Alternativamente, pugna pela aplicação de uma das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+Consta às e-STJ, fls. 161-167, petição da defesa informando que o paciente se encontra custodiado há 165 dias, sem formação de culpa e reforça os pedidos formulados no recurso.
+A liminar foi indeferida (e-STJ, fls. 169-170). As informações foram prestadas (e-STJ, fls. 180-192) e o Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 196-201).
+É o relatório.
+Decido.
+É manifesta a superveniente ausência de interesse de agir que atingiu esta impetração, pois, consoante informações colhidas na página eletrônica do Tribunal de origem (Ação Penal n. 1500149-53.2020.8.26.0637), foi prolatada sentença condenatória em 27/10/2020, tendo sido vedado o direito de apelar em liberdade ao recorrente, em razão da garantia da ordem pública, uma vez que o réu responde por outros crimes patrimoniais.
+Cabe, ainda, destacar que o recorrente ingressou com apelação em 4/12/2020.
+Assim, a discussão posta acerca do decreto de prisão preventiva do recorrente encontra-se superada, pois, configurando a sentença um novo título, necessária a prévia submissão da matéria ao Tribunal a quo, sob pena de indevida supressão de instância.
+Ante o exposto, nos termos do art. 34, XX, do Regimento Interno do STJ, julgo prejudicado este recurso emhabeas corpus.
+Publique-se. Intime-se.
