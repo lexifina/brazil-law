@@ -1,0 +1,15 @@
+DECISÃO
+FLAVIO AUGUSTO DOS SANTOS SILVAalega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo,na Apelação n. 0008208-70.2015.8.26.0220, que deu parcial provimento ao apelo da defesa, a fim de fixar a pena de 1 ano e 4 meses de reclusão, mais multa, mantido o regime semiaberto imposto na sentença,resultante da condenação pelo delito de receptação.
+Requer, liminarmente e no mérito, a concessão do regime inicial aberto, ao argumento de a modalidade intermediária foi fixada sem fundamentos concretos, em violação à Súmula n. 440 do STJ.
+Decido.
+A pretensão comporta pronta solução, pois o aresto está em conformidade com a Súmula n. 269 do STJ.
+O Juiz de primeiro grau condenou o réu pela prática do delito de receptação, à pena de 3 anos de reclusão. O regime semiaberto foi fixado, pois, "em virtude da reincidência, o regime aberto não é adequado para a reprovação e prevenção do crime praticado" (fl. 24).
+A Corte estadual deu parcial provimento ao recurso da defesa, a fim de redimensionar a pena para 1 ano e 4 meses de reclusão, mas manteve o regime intermediário, "diante da reincidência específica do apelante" (fl. 14).
+Quanto à almejada modificação do regime inicial do paciente para o aberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ª T., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+O art. 33, § 3º, do Código Penal estabelece que "a determinação do regime inicial de cumprimento de pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Portanto, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena.
+No caso dos autos, em que pese a reduzida pena aplicada, o regime semiaberto foi fixado, em razão da reincidência ostentada pelo paciente, nos termos daSúmula n. 269 deste Superior Tribunal, "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais."
+Saliento, ainda, a impossibilidade de concessão do regime aberto, pois tal modalidade, a teor do art. 33, § 2º, do CP, é reservada ao "condenado não reincidente".
+À vista do exposto, com fulcro no art. 34, XX, do RISTJ, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
