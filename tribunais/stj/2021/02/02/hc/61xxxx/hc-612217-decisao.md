@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PAULO RICARDO LEAL BERNARDES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+Consta dos autos que o paciente foi preso pela suposta prática do crime de tráfico de drogasporque (e-STJ fls. 13/14):
+ ..  uma equipe da ROTAM em patrulhamento tático avistou Paulo Ricardo Leal Bernardes, ora paciente, em atitude suspeita, motivo pelo qual decidiram abordá-lo. Durante a busca pessoal foi encontrada uma porção de maconha no seu bolso, também foi verificado que o mesmo usava tornozeleira eletrônica e possuía antecedente pelo crime de tráfico. Realizadas buscas em sua residência foram encontradas apenas embalagens plásticas do tipo zipper. Questionado sobre a possível existência de substâncias entorpecentes, este relatou que o local de guarda/depósito seria a casa de Marco Alan de Souza, indicando o endereço.
+Diante disso, os policiais se dirigiram até a casa de Marco Alan, que tentou fugir, mas foi detido. No seu quarto foram encontrados uma porção de maconha pesando aproximadamente 475g (quatrocentos e setenta e cinco gramas), uma porção de cocaína pesando aproximadamente 76,496g (setenta e seis gramas, quatrocentos e noventa e seis miligramas), além de balança de precisão, papel filme e um caderno com anotações (exame de constatação provisório, mov. 01 - arq. 02).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça, que denegou a ordem nos termos da seguinte ementa (e-STJ fl. 18):
+HABEAS CORPUS. TRÁFICO. LEGALIDADE DA PRISÃO PREVENTIVA DECRETADA DE OFÍCIO. PRISÃO PREVENTIVA. SUBSTITUIÇÃO PELAS MEDIDAS CAUTELARES. INVIABILIDADE.
+I- O Juízo de 1º Grau, ao receber o auto de prisão em flagrante, verificando sua legalidade e inviabilidade de substituição por medida diversa, pode convertê-la em preventiva ao reconhecer a existência dos requisitos preconizados nos artigos 312 e 313 do Código de Processo Penal, independente de representação ou requerimento, ante o risco de liberdade até o início da instrução processual. Precedentes STJ.
+II- Cabalmente demostrada a necessidade de segregação do paciente do meio social, evidenciada pela gravidade dos fatos (quantidade e diversidade das drogas apreendidas - maconha e cocaína), bem como, a reincidência por crime da mesma natureza, resta inviabilizada a substituição dessa por qualquer das medidas cautelares diversas da prisão.
+ORDEM DENEGADA.
+A presente impetração funda-se na ilegalidade da conversão ex officio da prisão do paciente.
+Diante disso, pleiteia a defesa, em tema liminar e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferido (e-STJ fls. 47/49).
+Sobreveio decisão do Supremo Tribunal Federal,proferida pela Ministra Carmem Lúcia, concedendo a ordem de ofício "apenas para determinar ao juízo da Segunda Vara Criminal da Comarca de Aparecida de Goiânia/GO realize, de imediato, audiência de custódia, física ou virtual, com a presença do paciente, da defesa técnica e do órgão do Ministério Público, observadas as peculiaridades locais da prestação jurisdicional em razão da pandemia de Covid-19, e decida como de direito sobre a manutenção ou não da prisão cautelar" (e-STJ fl. 77).
+Prestadas as informações, o Ministério Público Federal opinou pela concessão do writa fim de revogar a prisão preventiva (e-STJ fls. 85/90).
+É, em síntese, o relatório.
+Decido.
+Das informações obtidas no sítio eletrônico do Tribunal de origem, extrai-se que, em cumprimento à decisão do STF, foi realizada audiência de custódia na presença da defesa e do representante ministerial em 23/10/2020, oportunidade em que foi proferida decisão mantendo a custódia cautelar, conforme pleito ministerial.
+Além do mais, em 3/12/2020 foi proferida sentença condenatória pelo Juízo de piso, aplicando ao ora paciente as penas de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, e multapela prática do crime descrito na denúncia -negado o direito de recorrer em liberdade.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
