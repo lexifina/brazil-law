@@ -1,0 +1,34 @@
+DECISÃO
+ALEXSANDRO DA SILVA SOUZA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n.0006018-13.2016.8.26.0637.
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, VI, ambos da Lei de Drogas.
+A defesa aduz que o processo instaurado em desfavor do paciente é nulo, porquanto foi deflagrado a partir de elementos de informação ilícitos, obtidos por meio de invasão de domicílio.
+Subsidiariamente, afirma que estão preenchidos todos os requisitos necessários para a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006. Por fim, considera ser devida a fixação do regime inicial semiaberto.
+Requer a concessão da ordem, nos seguintes termos (fl. 20):
+1. Após fazer uma análise detalhada dos autos, haja a declaração de NULIDADE das provas colhidas, ante a violação de domicílio pelos policiais militares;
+2. Ante a primariedade, bons antecedentes, bem como a ausência de fatos concretos que indique que o paciente se dedicava a atividade criminosa como exaustivamente exposto, requeiro a aplicação do redutor previsto no parágrafo 4º do artigo 33 da lei de drogas, reduzindo-se a pena aplicada;
+3. Seja fixado regime aberto ou, ao menos, regime semiaberto - em observância a quantidade da pena aplicada e a primariedade do paciente, nos termos do artigo 33, §§2º e 3º, do Código Pena, convertendo-se a pena privativa de liberdade em restritivas de direitos, nos moldes do artigo 44 do CP;
+A liminar foi indeferida e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pela concessão parcial da ordem, "para que a causa especial de diminuição de pena seja aplicada em sua fração máxima, com a fixação do regime aberto e posterior substituição da reprimenda corporal por sanções restritivas de direitos" (fl. 123).
+Decido.
+I. Invasão de domicílio
+No que tange à alegação de que "a prisão em flagrante ocorreu de forma ilegal, eivada de nulidade absoluta, eis que os policiais militares invadiram a residência onde se encontrava o paciente sem haver justa causa prévia e a devida autorização", verifico que essa matéria não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+II. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Quanto ao pretendido reconhecimento da minorante prevista no § 4º do art. 33 da Lei de Drogas, constato que essa matéria também não foi apreciada pela Corte estadual, circunstância que impossibilita o conhecimento do habeas corpusem relação a esse ponto, sob pena de, novamente, incorrer-se na inadmissível supressão de instância.
+III. Regime inicial de cumprimento de pena
+A Corte de origem assim fundamentou a manutenção do regime inicial fechado, in verbis (fls. 108-110):
+Por fim, inviável que o regime prisional inicial seja outro diverso do fechado. Sendo que tal tratamento mais severo corresponde à eficiente medida político-criminal, que busca harmonizar a legislação pátria aos Tratados de Direito Internacionais que tangem ao combate a narcotraficância, dos quais o país é signatário.
+Além disso, é certo que a traficância ilícita fomenta a prática de outros delitos. O que faz com quea conduta do réu mereça maior reprovabilidade por parte do Estado.
+ ..
+O próprio artigo 33 em seu parágrafo terceiro determina que na fixação do regime inicial o magistrado deverá observar não só o quantum de pena, mas também o disposto no artigo 59 do Código Penal.
+Eis que, no caso em tela o réu não apresenta circunstâncias judiciais favoráveis, pois demostra elevada periculosidade, sendo detido em poder de inúmeras porções individuais de narcóticos de diversa variedade, sendo parte de especial nocividade, colocando assim os mesmos a disposição de diversos usuários, mantendo nefasto vício, que cada vez ceifa mais vidas jovens, demonstrando assim total descaso com a vida alheia na busca pelo lucro pessoal. Notando-se que o mesmo ainda se valia do auxílio de menor de idade para a prática deste horrendo delito.
+Assim, a determinação do regime inicial como diverso daquele previsto no artigo 33, § 2º do Código Penal, é faculdade do juiz, que pode dosar a qualidade da pena.
+Sobre a matéria posta em discussão, faço o registro de que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do
+Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+No caso, embora a Corte de origem haja feito breves considerações acerca da gravidade abstrata do delito e dos malefícios gerados pelo tráfico de drogas à sociedade como um todo, certo é que justificou a fixação do regime inicial mais gravoso com base, também, nas peculiaridades do caso concreto, notadamente na diversidade e na natureza de uma das drogas apreendidas (cocaína) e no fato de o delito haver envolvido adolescente, elementos que, de fato, justificam a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada.
+Portanto, em homenagem ao princípio do livre convencimento motivado e uma vez que foram apontados argumentos concretos e específicos dos autos para a escolha do regime prisional fechado, não há como esta Corte simplesmente se imiscuir no juízo feito pelo Tribunal de origem para fixar regime inicial mais brando de cumprimento de pena ao acusado.
+Deve, portanto, ser mantida inalterada a imposição do regime inicial fechado.
+IV. Substituição da pena por restritiva de direitos
+Por fim, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida a negativa de substituição da pena privativa de liberdade por restritivas de direitos, em razão da ausência de cumprimento do requisito objetivo previsto no art. 44, I, do CP (pena superior a 4 anos de reclusão).
+V. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se e intimem-se.
