@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento nas Súmulas 7 e 83 do STJ.
+Nas razões do especial, aponta o Ministério Público do Estado do Paraná, violação do art. 42 da Lei n. 11.343/2006, pleiteando a reforma da dosimetria da pena, a fim de que seja aumentado a fração relativa à natureza da droga.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo provimento do agravo.
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O Tribunal local deu provimento ao recurso de apelação ministerial, condenando o recorrido à pena de10anos, 04 meses e 15 dias de reclusão, em regime fechado, além de 711dias-multa, pela prática dos crimes previstos nos arts. 33, caput, da Lei n. 11.343/2006 e 16, IV, da Lei n. 10.826/2003.
+Insurge-se o recorrente quanto à fração eleita na primeira fase da dosimetria da pena a título da natureza da droga.
+Sobre o tema, consta do acórdão de apelação(fls. 800-801):
+12. Quanto ao delito de tráfico ilícito de entorpecentes, na primeira etapa, devem ser sopesadas as circunstâncias judiciais do artigo 59 do Código Penal e também do artigo 42 da Lei de Drogas.
+Primeiramente, de se dizer que a quantidade de droga apreendida não se mostrou relevante a ponto de incrementar a pena-base. Por outro lado, a natureza do entorpecente - crack - é verdadeiramente nociva à saúde humana, pelo que merece ser negativada.
+A culpabilidade em sentido lato, como juízo de reprovação da conduta praticada pelo acusado, em nada destoou do normal ao tipo penal.
+Quanto aos antecedentes, de se notar que o réu ostenta uma condenação definitiva pelo crime de roubo, praticado em 28 de janeiro de 2017 - portanto antes do cometimento deste ilícito - e transitada em julgado na data de 16 de outubro de 2018 (mov. 238.1, p. 09). Assim, em que pese não se enquadre no conceito técnico de reincidência, perfeitamente possível que tal aresto condenatório seja considerado nesta primeira etapa do cálculo dosimétrico, a fim de desvalorar os antecedentes de CHARLES.
+Seguindo, nada nos autos indica o desajustamento de sua conduta social, assim como não existem elementos suficientes para aferir com segurança sua personalidade.
+O motivo do crime, outrossim, não é mais repugnante do que o inerente ao próprio tipo penal. As circunstâncias e as consequências do crime não foram graves o bastante para ensejar valoração negativa.
+Por fim, em relação ao comportamento da vítima, vez que se trata do próprio Estado, de se constatar que em nada contribuiu para a prática do delito.
+Assim, restando valoradas negativamente a natureza da droga e os antecedentes do acusado, deve a pena-base ser estipulada um pouco acima domínimo legal, no patamar de 07 (sete) anos de reclusão, além de 700 (setecentos) dias-multa.
+Opostos embargos de declaração, foram rejeitados, conforme a seguir (fl. 847):
+Trata-se de solução mais adequada ao balizamento das sanções na primeira etapa do cálculo, garantindo a proporcionalidade do quantum definido.
+Assim, tendo a Lei de Drogas incluído mais duas circunstâncias judiciais às oito já definidas pelo artigo 59 do Código Penal, coerente que a fração de aumento passe a ser de 1/10 (um décimo).
+Por outro lado, a solução apresentada pelo Parquet  de aplicação da fração de 1/6 (um sexto) para o caso de negativaçã o das circunstâncias definidas no artigo 42, da Lei nº 11.343/2006  além de não ser majoritária no âmbito do Tribunal da Cidadania, ainda tem potencialidade de gerar situação teratológica e ilegal. Explico.
+Uma vez aplicada a tese defendida pela acusação, caso fossem desvaloradas a natureza e a quantidade do entorpecente apreendido e havendo a negativação de 06 (seis) das 08 (oito) circunstâncias judiciais definidas no artigo 59 do Código Penal ultrapassado estaria, ainda na primeira etapa do cômputo, o limite máximo da sanção abstratamente cominada, em flagrante ofensa à ordem legal.
+Assim sendo, constata-se que, além de estar alinhada com o raciocínio desenvolvido por este Colegiado, a definição do quantum de aumento na fração de 1/10 (um décimo) para cada circunstância judicial em casos envolvendo tráfico de drogas se revela medida proporcional e que garante, em qualquer cenário enfrentado, o mais amplo respeito aos termos da Lei.
+Como é consabido, via de regra, não se presta o recurso especial à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, o reexame da aplicação das penas, nas hipóteses de manifesta violação aos critérios dos arts. 59 e 68 do Código Penal, sob o aspecto da ilegalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+Esta Corte firmou o entendimento, ainda, no sentido de que a exasperação da pena-base, assim como o recrudescimento de qualquer tratamento direcionado ao réu acima do mínimo previsto em lei, deve ser fundamentado em elementos extraídos dos dados concretos constantes dos autos.
+No caso, as instâncias ordinárias exasperaram em 2 anos a pena-base relativa ao crime do art. 33 da Lei 11.343/2006 tendo em vista a valoração negativa de 2 circunstâncias judiciais - antecedentes do acusado natureza da droga.
+Cumpre ressaltar queA jurisprudência deste Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria da pena. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto, decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade(AgRg no REsp 1756022/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/06/2019, DJe 02/08/2019).
+Com efeito, inexiste um critério puramente aritmético na primeira fase da dosimetria, cabendo ao julgador, a quem a lei confere certo grau de discricionariedade, sopesar cada circunstância judicial desfavorável à luz da proporcionalidade, consoante seu prudente arbítrio.
+No caso, a Corte a quo utilizou, para cada circunstância judicial negativa, fração de aumento de 1/10 (um décimo) do intervalo entre o mínimo e o máximo das penas abstratamente cominadas.
+Nesse contexto, não há falar em ofensa à proporcionalidade, diante do quantum da pena aplicado pelas instâncias ordinárias na exasperação da pena-base, tendo em vista, sobretudo, o mínimo e o máximo da penacominadaabstratamente ao delito de tráfico (de 5 a 15 anos de reclusão), uma vez fundamentado em elementos concretos e dentro do critério de discricionariedade vinculada do magistrado. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. EXPRESSIVA QUANTIDADE DE DROGAS. EXASPERAÇÃO JUSTIFICADA. TRÁFICO PRIVILEGIADO. MULA. REDUÇÃO EM 1/6 PROPORCIONAL. PRISÃO DOMICILIAR. INEXISTÊNCIA DE EFEITO AUTOMÁTICO. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO. PEDIDO DE PRISÃO DOMICILIAR NÃO CONHECIDO.
+ ..
+2. Não há falar em ofensa à proporcionalidade, diante do quantum da pena aplicado pelas instâncias ordinárias na exasperação da pena-base, tendo em vista, sobretudo, o mínimo e o máximo das penas cominadas abstratamente ao delito de tráfico de drogas (de 5 a 15 anos de reclusão), uma vez fundamentado em elementos concretos e dentro do critério de discricionariedade vinculada do magistrado.
+ ..
+5. Agravo regimental improvido e pedido de prisão domiciliar não conhecido (AgRg no AREsp 1466397/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/08/2019, DJe 12/08/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. PENA-BASE. QUANTUM DE AUMENTO. DISCRICIONARIEDADE VINCULADA DO MAGISTRADO. ILEGALIDADE. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+ ..
+2. O quantum de aumento a ser aplicado em decorrência do reconhecimento de circunstância judicial desfavorável fica adstrito ao prudente arbítrio do Juiz, não havendo como proceder ao seu redimensionamento na via estreita do habeas corpus, salvo manifesta ilegalidade, não verificada na hipótese.
+3. O aumento implementado na primeira fase da dosimetria do crime imputado ao Paciente revela-se proporcional e fundamentado, considerando-se a negativação de duas circunstâncias judiciais, bem como a pena abstratamente cominada para o crime de tráfico: cinco a quinze anos de reclusão.
+4. Agravo regimental desprovido (AgRg no HC 490.703/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019).
+Impõe-se, portanto, a manutenção do acórdão recorrido, incidindo o óbice contido na Súmula 83/STJ - também empregado em recursos interpostos com fulcro na alínea a do permissivo constitucional -, segundo a qual:Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
