@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por LEANDRO FERREIRA DA SILVA contra acórdão do Tribunal de Justiça do Estado de Alagoas (HC n. 0800583-23.2020.8.02.0000).
+O recorrente teve a prisão em flagrante convertida em preventivapelasuposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se naquantidade e na variedade dos entorpecentes apreendidos - 1,250kg de maconha e600g de cocaína -, além de umabalança de precisão, que indicariam a mercancia da droga (fl. 11).
+Sustenta o recorrente que o decreto prisional não foi devidamente fundamentado e que não estão presentes os requisitos para a decretação da prisão preventiva.
+Alega que faz jus às medidas cautelares diversas da prisão em virtude deseus predicados pessoais.
+Requer, inclusive liminarmente, sua imediata soltura com ou sem a imposição de medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 79-80.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso às fls. 104-106.
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No presente caso, além da quantidade e variedade da droga (1,250kg de maconha e600g de cocaína)e da apreensão deuma balança,a reiteração delitiva foi considerada para a decretação da prisão preventiva, tendo o Tribunal de origem destacado o seguinte (fl. 42):
+ ..  os policiais foram ao local e, lá chegado, abordaram e revistaram a residência do elemento descrito, ora denunciado, LEANDRO FERREIRA DA SILVA, sendo encontrado em seu quarto 01 (uma) mochila com 1,250kg (um quilo e duzentos e cinquenta gramas) de substância aparentando ser maconha, 600g (seiscentos gramas) de substância de cocaína, o valor de R$217,00 (duzentos e dezessete reais) e 01 (uma) balança de precisão. 3.Vale aduzir que o denunciado já é afeito a prática delitiva, visto que responde à outros processos criminais, conforme fl. 44. 4. O denunciado, em seu interrogatório perante a autoridade policial, negou a prática delitiva afirmando que a droga provavelmente era pertencente ao seu parceiro Ramos. Asseverou ainda que já foi condenando duas vezes pelo crime de roubo.
+Conforme orientação do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ademais, o entendimento acima está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva. Nesse sentido: AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020.
+Por fim, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do recorrente não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+Ante o exposto, com base no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
