@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, apontando-se como autoridade coatora o Tribunal de Justiça da Bahia.
+Consta dos autos que opaciente foi condenado às penas de 10 anos, 7 meses e 15 dias de reclusão, em regime inicial fechado, por ofensa ao art. 33,caput, da Lei 11.343/2006, sendo-lhe denegado recorrer em liberdade.
+Argumenta o impetrante, em suma, ausência de fundamentação à negativa de recorrer em liberdade e excesso de prazo no julgamento da apelação, requerendo, liminarmente e no mérito, a revogação da prisão preventiva.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Da sentença, extrai-se (fls. 21-22 - com destaque):
+ .. DENEGO ao condenado o direito de recorrer em liberdade, visto que presentes os motivos concretos autorizadores de sua segregação cautelar corporal, uma vez que a liberdade do condenado põe em risco à ordem pública, com possibilidade de reiteração delitiva,visto encontrar-se respondendo a mais dois procedimentos criminais pela prática de furto e lesão grave nos autos nº 0500655-51.2017.805.0244e 0503148-64.2018.805.0244, conforme consulta ao E-SAJ. Ademais, se o acusado for posto em liberdade, apesar de condenado, muito provavelmente continuará na prática de tráfico de drogas, como é corriqueiro entre os traficantes condenados e autorizados a responder o processo em liberdade. Outrossim, a manutenção da custódia cautelar faz-se imprescindível à aplicação da lei penal, visto que dificilmente o réu apresentar-se-á para cumprir a pena após o julgamento em segundo grau de jurisdição, como é de costume. Ressalte-se que o réu permaneceu preso durante toda a instrução processual, não havendo motivos para a liberdade após a conclusão do feito nesta instância. Dessa forma, considero persistentes os requisitos autorizadores da manutenção da segregação cautelar corporal do acusado, nos termos do art. 312 do CPP. ..
+Como antecipado liminarmente, consta dodecisumacima fundamentação quedeve ser considerada idônea à negativa de recorrer em liberdade, haja vista a vivência delitiva do paciente,visto encontrar-se respondendo a mais dois procedimentos criminais pela prática de furto e lesão grave nos autos nº 0500655-51.2017.805.0244e 0503148-64.2018.805.0244, conforme consulta ao E-SAJ.
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+No mais, aos prazos consignados na lei processual deve-se atentar o julgador às peculiaridades de cada ação criminal. O prazo de 90 dias para reavaliação da prisão preventiva, determinado pelo art. 316, paragrafo único, do CPP, é examinado pelo prisma jurisprudencialmente construído de valoração casuística, observando as complexidades fáticas e jurídicas envolvidas, admitindo-se, assim, eventual e não relevante prorrogação da decisão acerca da manutenção da necessidade das cautelares penais.
+De igual modo, no tocante ao excesso de prazo para o julgamento da apelação, tal argumentosó pode ser reconhecidoquando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Na hipótese, segundo as informações prestadas pela autoridade coatora (fls. 37-59), a sentença foi proferida em 21/2/2020, sendo interposto recurso de apelação defensivo em 17/4/2020.
+Em 11/5/2020, o representante do Parquet estadual apresentou contrarrazões e, em 10/7/2020, o recurso de apelação foi distribuído ao Tribunala quo.
+Em 11/8/2020, os autos foram recebidos pelo Desembargador Relator, o qual, por despacho de 18/8/2020, requisitou ao Juízo de piso mídia audiovisual referente à audiência de instrução.
+Em 14/12/2020, foi juntado aos autos do recurso a referida mídia audiovisual e, no dia imediatamente seguinte, os autos foram enviados ao MP para parecer.
+Assim, não se verifica o apontado constrangimento ilegal, considerando que fez-se necessário a juntada de documentação pertinente para a apreciação do apelo, o qual está prestes de ser julgado, tendo em vista a o encaminhamento dos autos ao Ministério Público estadual para parecer.
+Não constatada mora estatal em ação penal onde a sucessão de atos processuais infirma a ideia de paralisação indevida, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
