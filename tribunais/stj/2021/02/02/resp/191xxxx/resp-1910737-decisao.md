@@ -1,0 +1,53 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela FAZENDA NACIONAL, contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 446e):
+PROCESSUAL CIVIL E TRIBUTÁRIO. JUÍZO DE ADEQUAÇÃO. CONTRIBUIÇÃO SOCIAL (FUNRURAL). EMPREGADOR RURAL PESSOA NATURAL. INCIDÊNCIA SOBRE A RECEITA BRUTA DA COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. LEI Nº 10.256/2001.CONSTITUCIONALIDADE. PRECEDENTE DO EGRÉGIO SUPREMO TRIBUNAL FEDERAL.
+1. O egrégio Supremo Tribunal Federal, no julgamento do RE 596177, sob o rito do art. 543-B do Código de Processo Civil de 1973 (Repercussão Geral), declarou inconstitucional a alteração da Lei nº 8.212/1991 pela Lei nº 8.540/1992, por ofensa formal (necessidade de lei complementar para tratar da matéria).
+2. Em decisão proferida pelo eminente relator Min. Ricardo Lewandowski, em embargos de declaração opostos pela União, nos autos do RE 596177, acima mencionado, restou explicitado que: "a discussão do tema com enfoque na Lei 10.256/2001 teve sua repercussão geral reconhecida nos autos do RE 718.874/RS, de minha relatoria. Assim, o julgamento desse feito será a oportunidade adequada para o enfrentamento da matéria".
+3. Sobre o tema nº 669, o egrégio Supremo Tribunal Federal, em julgamento sob o rito do art. 543- B do Código de Processo Civil de 1973 (Repercussão Geral), nos autos do RE 718874/RS, em 30/03/2017, fixou a seguinte tese: "É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção".
+4. Assim, a Suprema Corte reconheceu que a Lei nº 10.256/2001 afastou a inconstitucionalidade da exação questionada, vez que foi editada posteriormente à Emenda Constitucional nº 20/1998, que deu nova redação ao inciso I do art. 195 da Constituição Federal.
+5. Prescreve o art. 1.035, § 11, do NCPC que: "A súmula da decisão sobre a repercussão geral constará de ata, que será publicada no diário oficial e valerá como acórdão", restando afastados os argumentos de que os efeitos da Repercussão Geral só poderão ocorrer após o trânsito em julgado do aresto, devendo ser observados também o disposto nos incisos II e III do art. 1.040 do NCPC.
+6. Em juízo de adequação, apelação e a remessa oficial, tida por interposta, providas. Mantido o acórdão quanto ao provimento da apelação do autor para afastar a contribuição social sobre a folha de salários.
+Opostos embargos de declaração, foram rejeitados (fls. 454/457e).
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente aponta ofensa a dispositivos legais, alegando, em síntese:
+- Art. 1.022 do CPC/2015 - o tribunal de origem não enfrentou as questões cruciais levantadas em sede de embargos de declaração;
+Art. 85 do CPC/2015 - Na fixação da verba honorária, deve prevalecer a regra processual vigente quando do julgamento do recurso de apelação fazendário.
+Sem contrarrazões, o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos dodo art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Inicialmente, verifico a ausência de demonstração precisa de como a alegada violação ao1.022 do CPC/2015 teria ocorrido, o que impede o conhecimento do recurso especial, nesse ponto.
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+No mais, esta Corte firmou posicionamento na mesma linha do acórdão recorrido, segundo o qual a sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+Nesse sentido:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL.
+PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA.
+DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015.PROLAÇÃO DA SENTENÇA. PRESERVAÇÃO DO DIREITO ADQUIRIDO PROCESSUAL.
+1. Em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova.
+2. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+3. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado. Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+4. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de o Tribunal de origem ter reformado a sentença já sob a égide do CPC/2015, incidem, quanto aos honorários, as regras do diploma processual anterior.
+5. Embargos de divergência não providos.
+(EAREsp 1255986/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/03/2019, DJe 06/05/2019).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso,com fundamento no art. 932, III, IV, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, conheço em parte e nego provimento ao Recurso Especial.
+Publique-se e intimem-se.
