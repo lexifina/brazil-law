@@ -1,0 +1,43 @@
+EMENTA
+ADMINISTRATIVO. DESAPROPRIAÇÃO. IMISSÃO PROVISÓRIA. REQUISITOS. ART. 15 DO DL 3.365/1941. DEMONSTRAÇÃO DA URGÊNCIA E DEPÓSITO INICIAL. AUSÊNCIA DE DEPÓSITO PRÉVIO DO VALOR DO BEM. DESCUMPRIMENTO DOS REQUISITOS LEGAIS. REVISÃO DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Discute-se o direito à imissão provisória na posse, conforme o art. 15 do DL 3.365/1941.
+2. No REsp 1.185.583/SP, julgado sob a sistemática dos recursos repetitivos, o STJ firmou a orientação de que, demonstrada a urgência na desapropriação e depositado o valor de cadastro do bem, utilizado para lançamento do IPTU ou do ITR, deve ser deferida a imissão provisória independentemente de citação do réu e da avaliação prévia. Confira-se: REsp 1.185.583/SP, Rel. Ministro Benedito Gonçalves, Rel. p/ Acórdão Ministro Cesar Asfor Rocha, Primeira Seção, DJe 23/8/2012.
+3. Na hipótese dos autos, o Tribunal de origem consignou no acórdão recorrido que o recorrente demonstrou a urgência na imissão na posse e apresentou laudo de valor estimado do bem de R$ 22.502,57, sem efetuar depósito prévio, verbis: "No presente caso. embora o pressuposto da urgência esteja presente, por cuidar-se de obra pública paralisada, o agravante não efetuou o depósito prévio da indenização, conforme determina a legislação." (fl. 353, e-STJ).
+4. Em que pese a desnecessidade de perícia, verifica-se que não se realizou depósito prévio, motivo por que não estão preenchidos os requisitos do art. 15, § 1º, do Decreto-Lei 3.365/1941 para que o expropriante obtenha a imissão provisória na posse.
+5. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+6. Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+7. Ademais, para acolher os argumentos de que não foi oportunizada a realização do citado depósito, é proceder ao reexame do conjunto fático-probatório, e não simplesmente atribuir nova valoração aos elementos de prova referidos no acórdão, o que esbarra no óbice da Súmula 7/STJ.
+8. Recurso Especial não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do recurso, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da CF/1988, contra acórdão assim ementado (fl. 170):
+AGRAVO DE INSTRUMENTO - AÇÃO DE DESAPROPRIAÇÃO - IMISSÃO PROVISÓRIA NA POSSE - AUSÊNCIA DE DEPÓSITO PRÉVIO - AVALIAÇÃO UNILATERAL FEITA PELO EXPROPRIANTE - IMPOSSIBILIDADE - NECESSIDADE DE PERÍCIA JUDICIAL - MANUTENÇÃO DA DECISÃO.
+1. É inviável a imissão provisória na posse dos bens quando, embora demonstrada a urgência, não foi efetuado o depósito prévio da indenização.
+O recorrente aponta ofensa ao art. 15, § 1º, do DL 3.365/1941. Sustenta que os requisitos legais para a imissão provisória na posse do imóvel são a urgência e o depósito prévio, não podendo seu valor condicionar-se à realização de perícia, pois a oferta tem como base o preço de mercado do bem, conforme laudo administrativo com presunção de legitimidade.
+Contrarrazões às fls. 390-396, e-STJ.
+O MPF opinou pelo desprovimento do Recurso Especial (fls. 423-427, e-STJ).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Discute-se o direito à imissão provisória na posse, conforme o art. 15 do DL 3.365/1941.
+No REsp 1.185.583/SP, julgado sob a sistemática dos recursos repetitivos, o STJ firmou a orientação de que demonstrada a urgência na desapropriação e depositado o valor de cadastro do bem, utilizado para lançamento do IPTU ou do ITR, deve ser deferida a imissão provisória independentemente de citação do réu e da avaliação prévia. Confira-se:
+RECURSO ESPECIAL. REPETITIVO. ART. 543-C DO CPC. DESAPROPRIAÇÃO. IMISSÃO PROVISÓRIA NA POSSE. DEPÓSITO JUDICIAL. VALOR FIXADO PELO MUNICÍPIO OU VALOR CADASTRAL DO IMÓVEL (IMPOSTO TERRITORIAL URBANO OU RURAL) OU VALOR FIXADO EM PERÍCIA JUDICIAL.
+- Diante do que dispõe o art. 15, § 1º, alíneas "a", "b", "c" e "d", do Decreto-Lei n. 3.365/1941, o depósito judicial do valor simplesmente apurado pelo corpo técnico do ente público, sendo inferior ao valor arbitrado por perito judicial e ao valor cadastral do imóvel, não viabiliza a imissão provisória na posse.
+- O valor cadastral do imóvel, vinculado ao imposto territorial rural ou urbano, somente pode ser adotado para satisfazer o requisito do depósito judicial se tiver "sido atualizado no ano fiscal imediatamente anterior" (art. 15, § 1º, alínea "c", do Decreto-Lei n. 3.365/1941).
+- Ausente a efetiva atualização ou a demonstração de que o valor cadastral do imóvel foi atualizado no ano fiscal imediatamente anterior à imissão provisória na posse, "o juiz fixará independente de avaliação, a importância do depósito, tendo em vista a época em que houver sido fixado originalmente o valor cadastral e a valorização ou desvalorização posterior do imóvel" (art. 15, § 1º, alínea "d", do Decreto-Lei n. 3.365/1941).
+- Revela-se necessário, no caso em debate, para efeito de viabilizar a imissão provisória na posse, que a municipalidade deposite o valor já obtido na perícia judicial provisória, na qual se buscou alcançar o valor mais atual do imóvel objeto da apropriação.
+Recurso especial improvido. (REsp 1.185.583/SP, Rel. Ministro BENEDITO GONÇALVES, Rel. p/ Acórdão Ministro CESAR ASFOR ROCHA, PRIMEIRA SEÇÃO, DJe 23/8/2012).
+Ressalte-se que o depósito prévio não é condição de procedibilidade da ação desapropriatória, pois é requisito apenas para a imissão na posse, como determina o art. 15 do Decreto-lei 3.365/1941, e sua ausência impede tão somente que o Poder Público seja imitido na posse do imóvel. Nesse sentido: REsp 1.831.286/TO, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 16/9/2019.
+Na hipótese dos autos, o Tribunal de origem consignou no acórdão recorrido que o recorrente demonstrou a urgência na imissão na posse e apresentou laudo de valor estimado do bem de R$ 22.502,57, sem efetuar depósito prévio. Confira-se (fls. 352-352, e-STJ):
+Primeiramente, esclarece-se, o Departamento de Edificações e Estradas de Rodagem do Estado de Minas Gerais  DEER/MG ajuizou ação visando desapropriar o terreno dos Agravados, a fim de promover melhorias na Rodovia MG-020.
+Para tanto, apresentou laudo unilateral de avaliação do imóvel, cujo valor estimado é de R$ 22.502,57 (documento de ordem 02).
+(..)
+No presente caso. embora o pressuposto da urgência esteja presente, por cuidar-se de obra pública paralisada, o Agravante não efetuou o depósito prévio da indenização, conforme determina a legislação.
+Além disso, consoante o Superior Tribunal de Justiça, a indenização não pode se fundar apenas no valor apurado em avaliação unilateral feita pelo expropriante, como se extrai dos seguintes julgados:
+(..)
+Em que pese a desnecessidade de perícia, verifica-se que não foi realizado o depósito prévio, motivo por que não estão preenchidos os requisitos do art. 15, § 1º, do Decreto-Lei 3.365/1941 para que o expropriante obtenha a imissão provisória na posse.
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do art. 105, III, da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+Ademais, para acolher os argumentos de que não foi oportunizada a realização do citado depósito, é imprescindível proceder ao reexame do conjunto fático-probatório, e não simplesmente atribuir nova valoração aos elementos de prova referidos no acórdão, o que esbarra no óbice da Súmula 7/STJ.
+Diante do exposto, não conheço do Recurso Especial.
+É como voto.
