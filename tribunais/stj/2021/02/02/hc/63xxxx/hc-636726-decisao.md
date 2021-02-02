@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de RAFAEL DA SILVA PACHECO, impugnando acórdão do Tribunal de Justiça do Ceará(HC n. 0638390-50.2020.8.06.0000).
+Consta, nos autos, que o paciente foi condenado à pena de 5 (cinco) anos e 4 (quatro)meses de reclusão em regime semiaberto, tendo o Juiz da TerceiraVara Criminal de Fortalezadeterminado o imediato cumprimento da execução provisória da reprimenda.
+A defesa sustenta que o paciente está cumprindo pena em estabelecimento prisional incompatível com o regime semiaberto, o que não se admite. Ressalta que estão preenchidos os requisitos para a progressão de regime.
+Liminar indeferida às e-STJ fls. 36/37.
+Manifestação do Ministério Público Federal pelo nãoconhecimento do writ às e-STJ fls. 47/50.
+É o relatório. Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Não vislumbro, contudo, flagrante ilegalidade na hipótese dos autos.
+De acordo com as informações prestadas às e-STJ fls. 43/4, paciente está cumprindo pena em regime semiaberto na Unidade Prisional Centro de Triagem e Observação Criminológica, sendo-lhe garantido os benefícios próprios do mencionado regime, como remição de pena, saída temporária e trabalho externo, desde que preenchidos os requisitos legais.
+Referida decisão está em conformidade com a jurisprudência desta Corte . Confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. APENADO QUE CUMPRE PENA EM REGIME SEMIABERTO. AUSÊNCIA DE VAGA ESPECÍFICA. CUMPRIMENTO DA PENA EM LOCAL SEMELHANTE, COM GARANTIA DOS DIREITOS INERENTES. POSSIBILIDADE. ALTERAÇÃO DAS CONCLUSÕES DA CORTE DE ORIGEM SOBRE AS CONDIÇÕES DO RECOLHIMENTO. INCURSÃO NO ARCABOUÇO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ESTREITA DO WRIT.AGRAVO DESPROVIDO.
+1. Nos termos da Súmula Vinculante n.º 56/STF, " a  falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS".
+2. O Tribunal de origem, ao dar provimento ao agravo de execução ministerial, levou em consideração os critérios estabelecidos pelo Supremo Tribunal Federal no mencionado RE n.º 641.320/RS e complementados nos julgamentos das Reclamações Constitucionais n.ºs 25.123/SC e 24.728/SC, nomeadamente a aceitabilidade de estabelecimentos que não se qualifiquem, no que se refere ao regime semiaberto, como colônia agrícola ou industrial, desde que sejam considerados adequados a tal regime.
+3. Alterar o entendimento adotado pelo Tribunal a quo, no tocante às conclusões firmadas acerca das condições atinentes ao recolhimento, conforme veiculado nas razões do writ, demandaria, necessariamente, a análise de matéria fático-probatória, o que não se revela compatível com a via estreita do habeas corpus.
+4. Agravo desprovido.(AgRg no HC 570.431/SC, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 23/06/2020)
+Ademais, para verificar se a instalação na qual o paciente está recolhido é inadequada para pacientes condenados ao regime semiaberto seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+Por fim, anota-se que o pedido de prisão domiciliar, conforme informações,foi indeferido tendo em vista que o apenado não demonstrou o preenchimento dos requisitos para a concessão excepcional do benefício, notadamente por não esta enquadrado no grupo de risco para o contágio da Covid-19.
+Ante o exposto, não conheço do presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
