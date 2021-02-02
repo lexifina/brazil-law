@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, receber o pedido de reconsideração como agravo regimental, ao qual se negaprovimento.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO TENTADO.DECRETAÇÃO DA PRISÃO PREVENTIVA POR OCASIÃO DO RECEBIMENTO DA DENÚNCIA. VEDAÇÃO DO ART. 313, § 2º DO CÓDIGO DE PROCESSO PENAL-CPP. ALEGAÇÃO NÃO ENFRENTADA PELO ARESTO COMBATIDO. SUPRESSÃO DE INSTÂNCIA CARACTERIZADA. EMBARGOS DE DECLARAÇÃO REJEITADOS PELA CORTE ESTADUAL.INEXISTÊNCIA DE OMISSÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Pedido de reconsideração recebido como agravo regimental, interposto dentro do quinquídio legal, em respeito ao princípio da fungibilidade, da instrumentalidade das formas e da efetividade do processo.
+2. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos. A irresignação do agravante cinge-se à suposta violação ao art. 313, § 2º, do CPP, tese esta não enfrentada pelo aresto vergastado, razão pela qual não foi conhecida pela decisãoora agravada,por caracterizar indevida supressão de instância.
+3. Os embargos opostos perante o Tribunal estadual foram rejeitadosao argumento de inexistência de omissão no julgado impugnado, tratando-se, portanto, de mera irresignação da defesacom o resultado do julgamento proferido pela Corte a quo. O Órgão Julgador não é obrigado a refutar todos os argumentos trazidos pelas partes sobre a questão. Precedente.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de pedido de reconsideração apresentado por EVELON OLIVEIRA DA SILVA contra decisão de minha lavra, na qual não conhecio habeas corpus impetrado em seu favor.
+Sustenta a defesa que o Tribunal de origem analisou a matéria atinente à inadmissibilidade da prisão preventiva em decorrência do recebimento da denúncia, por expressa vedação legal (art. 313, § 2º, do CPP), ainda que mediante fundamentos teratológicos e inidôneos, pois foram opostosembargos de declaração para que o órgão se manifestasse acerca da questão, porém, restaram rejeitados.
+Requer, assim, a reconsideração do decisumou o recebimento como agravo regimental para o julgamento pela Colenda Quinta Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO TENTADO.DECRETAÇÃO DA PRISÃO PREVENTIVA POR OCASIÃO DO RECEBIMENTO DA DENÚNCIA. VEDAÇÃO DO ART. 313, § 2º DO CÓDIGO DE PROCESSO PENAL-CPP. ALEGAÇÃO NÃO ENFRENTADA PELO ARESTO COMBATIDO. SUPRESSÃO DE INSTÂNCIA CARACTERIZADA. EMBARGOS DE DECLARAÇÃO REJEITADOS PELA CORTE ESTADUAL.INEXISTÊNCIA DE OMISSÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Pedido de reconsideração recebido como agravo regimental, interposto dentro do quinquídio legal, em respeito ao princípio da fungibilidade, da instrumentalidade das formas e da efetividade do processo.
+2. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos. A irresignação do agravante cinge-se à suposta violação ao art. 313, § 2º, do CPP, tese esta não enfrentada pelo aresto vergastado, razão pela qual não foi conhecida pela decisãoora agravada,por caracterizar indevida supressão de instância.
+3. Os embargos opostos perante o Tribunal estadual foram rejeitadosao argumento de inexistência de omissão no julgado impugnado, tratando-se, portanto, de mera irresignação da defesacom o resultado do julgamento proferido pela Corte a quo. O Órgão Julgador não é obrigado a refutar todos os argumentos trazidos pelas partes sobre a questão. Precedente.
+4. Agravo regimental desprovido.
+VOTO
+Preliminarmente, em respeito aos princípios da fungibilidade, da instrumentalidade das formas e da efetividade do processo, recebo o presente pedido de reconsideração como agravo regimental, tendo em vista ter sido interposto dentro do quinquídio legal.
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+A irresignação do agravante cinge-se à suposta violação ao art. 313, § 2º, do CPP, tese esta não enfrentada pelo aresto vergastado, razão pela qual não foi conhecida por caracterizar indevida supressão de instância.
+Em que pese a alegação de que foram opostos embargos de declaração para que o Tribunal de origem sanasse a omissão sobre omomento inoportuno do decreto da prisão preventiva, como expressa vedação legal (art. 313, § 2º, do CPP),o embargante não comprovou a existência de omissão no julgado e seus argumentos demonstraram tão somente o inconformismo com o resultado do julgamento.
+Ressalte-se que oÓrgão Julgador não é obrigado a refutar todos os argumentos trazidos pelas partes sobre a questão.
+Nesse sentido:
+PENAL E PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE NO ACÓRDÃO EMBARGADO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. DESNECESSIDADE DE REBATER TODOS OS ARGUMENTOS.RAZÕES DE DECIDIR DEVIDAMENTE APRESENTADAS. MOTIVAÇÃO SATISFATÓRIA E SUFICIENTE AO DESLINDE DA CAUSA. IMPOSSIBILIDADE DE REDISCUSSÃO EM EMBARGOS. POSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA, AINDA QUE PRATICADO NO CONTEXTO DE TRÁFICO DE DROGAS. PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- Os embargos de declaração possuem fundamentação vinculada. Dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal.
+A mera irresignação com o entendimento apresentado na decisão, que concedeu a ordem de ofício, não viabiliza a oposição dos aclaratórios.
+- Ademais, nos termos da jurisprudência desta Corte, "o julgador não é obrigado a rebater cada um dos argumentos aventados pela defesa ao proferir decisão no processo, bastando que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões da parte" (AgRg no AREsp 1009720/SP, Rel.
+Ministro JORGE MUSSI, Quinta Turma, julgado em 25/4/2017, DJe 5/5/2017).
+- Nesses termos, não verifico nenhum dos vícios constantes do art.619 do Código de Processo Penal, não havendo que se falar em acolhimento dos embargos.
+- Ademais, ainda que considerado o contexto de tráfico de drogas, em que apreendidos 8 cartuchos de calibre.38, as circunstâncias fáticas não denotam especial gravidade, a afastar a incidência do princípio da insignificância, dada a quantidade não expressiva de entorpecentes - 259,57 gramas de maconha e 36,22 gramas de crack (e-STJ, fl. 200) -, associada à primariedade e aos bons antecedentes do paciente. Precedentes.
+- Embargos de declaração rejeitados(EDcl no AgRg no HC 534.279/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 26/5/2020, DJe 2/6/2020).
+Ante o exposto, voto no sentido de negar provimento ao presente agravo regimental.
