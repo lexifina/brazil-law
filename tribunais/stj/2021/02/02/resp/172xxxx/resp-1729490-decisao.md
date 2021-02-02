@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alínea"a", da CF, contra acórdão do TJTO assim ementado (e-STJ fl. 1.179):
+APELAÇÃO CÍVEL. AÇÃO DE REINTEGRAÇÃO DE POSSE. POSSE ANTERIOR NÃO COMPROVADA. PEDIDO DE REINTEGRAÇÃO DE POSSE IMPROCEDENTE. APELO NÃO PROVIDO.
+1. Ausência dos requisitos do artigo 927 do Código de Processo Civil - Não comprovação, pelos autores, de sua posse, assim como do alegado esbulho atribuído ao réu. Para que ocorra a reintegração de posse, devem ser comprovados a posse anterior, o esbulho praticado e a resultante perda da posse (art. 927 do CPC/73 ou 561 CPC/15).
+2. Comprovado por documentos e testemunhas que a parte adversa exercia posse anterior, falta um dos requisitos do art. 927 do CPC/73, pelo que a improcedência do pedido de reintegração de posse se impõe. Hipótese em que a sentença avaliou corretamente os elementos fáticos e jurídicos apresentados pelas partes, dando à causa o justo deslinde necessário, no tocante à improcedência da reintegração de posse.
+3. Recurso de apelação conhecido, a que se nega provimento.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.363/1.371).
+Os segundos aclaratórios também foram rejeitados (e-STJ fls. 1.416/1.426).
+A recorrente, em suas razões (e-STJ fls. 1.441/1.464), apontou violação:
+(i) do art. 1.022, II, do CPC/2015, porque (e-STJ fl. 1.454):
+As provas desconsideradas trazem premissas capazes de dar novos rumos ao processo, e sobre elas não se manifestou o tribunal estadual, não obstante tenha sido instado a fazê-lo mediante interposição de dois recursos de embargos, abrindo-se via para o conhecimento do apelo extremo, pela nulidade da decisão estadual.
+(ii) dos arts. 141, 369, 371, 373, 405 e 489do CPC/2015, pois (e-STJ fls. 1.458/1.461):
+ .. o acórdão não analisou a prova produzida pela recorrente, evidenciando vulneração frontal de todas essas regras. Da ementa do acórdão é possível abstrair um julgamento que invoca motivos genéricos que se prestariam a justificar qualquer outra decisão, sem enfrentar os argumentos deduzidos pela recorrente, capazes de infirmar a conclusão adotada pelo colegiado, tolhendo precocemente o direito da postulante, exatamente, com base na conjeturada ausência de prova.
+ .. Robustecendo a tese da recorrente, é preciso destacar que tais provas derivam de documentos públicos que, a teor do artigo 405 do CPC, fazem prova dos fatos que o servidor declarar que ocorreram em sua presença. A pergunta que se faz é: por que esses documentos foram desconsiderados sem a devida fundamentação  De mais a mais, além da odiosa omissão, o acórdão alega fatos contrários à realidade. Basta um superficial confronto entre as conclusões tecidas pelo acórdão e a realidade extraída do processo.
+(iii) ao art. 492do CPC/2015, pois (e-STJ fls. 1.462):
+ .. a lide deve ser decidida nos limites em que foi proposta (Art. 141, CPC), sendo defeso prolatação de decisão divergente ou omissa sobre a controvérsia instaurada (Art. 492, CPC).
+ .. Não obstante, para o indeferimento do pedido apresentado, mesmo que com várias razões de pedir, é indispensável a fundamentação quanto às razões de pedir. A recusa em enfrentar o conjunto probatório do processo, sem dúvida, nulificou o acórdão.
+Os recorridos apresentaramcontrarrazões (e-STJ fls. 1.468/1.486).
+O especial foi admitido na origem (e-STJ fls. 1.488/1.492).
+É o relatório.
+Decido.
+Da omissão
+De início, no que se refere à suposta ofensa ao art. 1.022 do CPC/2015, a recorrente se limitou a citar o dispositivo e arguir a omissão na análise e provas, sem demonstrar, de forma específica, em que consistiu a omissão cometida pelo Tribunal de origem, quais provas não foram referidas, bem como quais as teses que não foram enfrentadas.
+Com efeito, diante da deficiente fundamentação recursal que impede a exata compreensão da controvérsia, é inafastável a incidência da Súmula n. 284/STF. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DO DIREITO DE DEFESA. REEXAME. SÚMULA Nº 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. O recurso especial que indica violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.140.214/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/11/2017, DJe 20/11/2017.)
+Da prova
+A Corte local assim entendeu (e-STJ fls. 1.176/1.177):
+Da prova testemunhal (evento 132, dos autos originários)efetivamente não se retira a comprovação de que a empresa autora/apelante teria exercido efetivamente a posse do imóvel anteriormente, isto é, não traz prova do fato constitutivo do seu direito, ônus que lhe incumbe, nos termos do art. 373, I, do CPC/15, ou art. 333, I, do CPC/73, e, ao contrário, restou robustamente comprovado que os apelados foram quem efetivamente construíram casa e benfeitorias no imóvel, tal fato não se extrai somente da prova testemunhal, mas da farta prova documental. Portanto, a autora/apelante não comprovou posse anterior.
+Estranha-se o fato de que está a buscar a reintegração da posse com base no domínio, e que tal domínio já não lhe pertença mais há muitos anos, pois já teria transferido a propriedade para outrem, conforme se observa da certidão vintenária juntada aos autos (evento 1, cert matr8/cert matr10, dos autos originários).
+A prova documental citada pela autora/apelante - georreferenciamento; notícia de grilagem e que o imóvel advém do Estado do Piauí - que alega não ter sido analisada pela sentença vergastada não impressiona, pois o georreferenciamento é documento unilateral que a parte interessada manda fazer; e pouco importa a origem do imóvel ou a conduta da parte em relação a notícias publicadas, pois o que deve ser investigado no caso vertente é a melhor posse e os requisitos estabelecidos no art. 927 do Código de Processo Civil de 1973  ..
+O esbulho somente restaria caracterizado pelos vícios objetivos da posse enumerados no art. 1.200 do Código Civil, que são: a) ato de violência (força ou ameaça contra a pessoa do possuidor ou seus detentores); b) precariedade (conduta de quem se recusa a restituir o bem após o término da relação contratual que lhe conferiu a posse direta); clandestinidade (conduta daquele que, aproveitando-se da ausência do vizinho, por exemplo, arreda as dividas do imóvel, de modo a alterar-lhe os limites). No caso presente, o esbulho teria sido praticado pela empresa autora/apelante, já que restou patente a prova da posse anterior pelos réus/apelados.
+No julgamento dos aclaratórios (e-STJ fl. 1.421):
+Os documentos públicos ou particulares juntados nos autos e que interessam para a análise da prova da posse foram observados. Veja-se nesse aspecto parte do voto condutor em comento:
+A prova documental citada pela autora/apelante - georreferenciamento; notícia de grilagem e que o imóvel advém do Estado do Piauí - que alega não ter sido analisada pela sentença vergastada não impressiona, pois o georreferenciamento é documento unilateral que a parte interessada manda fazer; e pouco importa a origem do imóvel ou a conduta da parte em relação a notícias publicadas, pois o que deve ser investigado no caso vertente é a melhor posse e os requisitos estabelecidos no art. 927 do Código de Processo Civil de 1973, aplicável à espécie.
+A certidão emitida pelo oficial de justiça (ev. 27), datada de 02/06/2014 que atestou que há mais de 10 (dez) anos o réu não aparecia na região e que o imóvel está na posse da autora conforme seu funcionário encontrado no local, não está de acordo com as demais provas carreadas aos autos. Esclareça que, como constou no voto condutor do acórdão do apelo, "restou robustamente comprovado que os apelados foram quem efetivamente construíram casa e benfeitorias no imóvel, tal fato não se extrai somente da prova testemunhal, mas da farta prova documental."
+Dissentir das conclusões do acórdão impugnado para entender que foi provada a alegação de posse da recorrente, conforme requerido no especial, exigiria o reexame do acervo fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ.
+Da ofensa ao art. 492 do CPC/2015
+Verifico que não há qualquer correlação entre a tese de falta de fundamentaçãoe o disposto no art. 492 do CPC/2015, que trata apenas do princípio da congruência. Ademais, a irresignação com o resultado adverso no julgamento do recurso de apelação não importa em violação do referido dispositivo legal
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do STF.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
