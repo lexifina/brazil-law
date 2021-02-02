@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Gilberto Marinho de Moura contra o acórdão proferido pelo Tribunal de Justiça de Pernambuco, que denegou a ordem no HC n. 0000499-19.2020.8.17.9480.
+Infere-se dos autos que o recorrente foi preso em flagrante pela suposta prática do delito de tráfico de drogas. A custódia foi convertida em preventiva pelo Juízo singular em 29/3/2020(fls. 25/27).
+O pedido de revogação da custódia cautelar foi indeferido pelo Magistrado singular em 21/5/2020 (fls. 28/30).
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quodenegou a ordem nos termos da seguinte ementa (fl. 61):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPOSTA AUSÊNCIA DOSPRESSUPOSTOS E FUNDAMENTOS LEGAIS. INOCORRÊNCIA. CONTUMÁCIA DO PACIENTE NAPRÁTICA DE CRIMES. CONDIÇÕES PESSOAS FAVORÁVEIS QUE NÃO IMPEDEM A DECRETAÇÃODA PRISÃO. ORDEM DENEGADA.
+1. As condições pessoais favoráveis não constituem empecilho à manutenção da prisão preventiva,quando presente seus requisitos, conforme já sedimento pelo Tribunal de Justiça de Pernambuco (TJPE).Súmula 86/TJPE.
+2. Omodus operandicom que o crime foi praticado permite vislumbrar, com razoável clareza, apericulosidade do paciente, que jácondenado pela prática do mesmo delito e pelo crime de porte ilegal dearma de fogo, ficando preso cautelarmente por mais de dois anos, o que demonstra propensão a retornarà prática delitiva. Sendo assim, a prisão preventiva mostra-se como sendo a melhor medida para dissuadi-lo da reiteração criminosa e, consequentemente, assegurar a ordem pública.
+3. O tráfico de drogas tem se revelado o delito mãe de diversos outros crimes de igual ou maior gravidade.Assim, o combate ao tráfico de drogas, seja em caráter eminentemente preventivo ou preventivo-punitivo,tem elevado alcance social. Por isso, a prisão cautelar neste tipo de crime em particular se reveste,automaticamente, em medida do maior interesse à ordem pública.
+4. Ordem denegada.
+No presente recurso, o recorrente alega que não há fundamentação no decreto prisional e que não se encontram presentes os requisitos necessários para a custódia cautelar.
+Os predicados favoráveis foram destacados pelo recorrente.
+Requer, assim, a revogação do decreto prisional para que possa responder ao processo em liberdade ou a imposição de medidas cautelares alternativas à prisão.
+Deferido por mim o pedido de liminarem 23/9/2020 (fls. 98/99).
+O Ministério Público Federal, em seu parecer, opinou pelo não provimento do recurso(fls. 105/107).
+É o relatório.
+Busca o recorrente a revogação da prisão preventiva imposta, ao argumentoda ausência de fundamentação para tanto.
+Diz a jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+In casu,verifiqueiconstrangimento ilegal apto a ensejar o provimento do recurso para aplicar medidas cautelares diversas da prisão.
+Pelo que consta dos autos, o Juízo singular, ao converter a prisão em flagrante do recorrente, apresentou os seguintes fundamentos (fls. 26/27):
+ ..
+No caso em apreço, os depoimentos colhidos, na fase inquisitiva, apontam para o envolvimento do autuado no crime em questão, além de haver, a priori, prova suficiente da existência do crime, estando presentes, portanto, os pressupostos nos quais se justifica a decretação da custódia preventiva (prova da materialidade e indícios da autoria), atendendo, assim, o requisito do fumus commissi delicti.
+No tocante ao periculum libertatis (fundamento da custódia provisória), verifico que o modus operandi permite vislumbrar, com razoável clareza, a periculosidade do autuado, que, segundo suas declarações perante a Autoridade Policial, já praticou ato semelhante, ficando preso cautelarmente por mais de dois anos, o que demonstra propensão a retornar à prática delitiva. Sendo assim, a reprimenda corporal, ora analisada, mostra-se como sendo a melhor medida para dissuadi-lo da reiteração criminosa e, consequentemente, assegurar a ordem pública.
+Com efeito, comportamentos dessa natureza são graves e de grande reprovabilidade social, já que provocam indignação da comunidade local, fato que acaba por abalar a ordem pública, no seu matiz de credibilidade social.
+Presentes, pois, os pressupostos e fundamentos que autorizam a prisão preventiva do investigado, razão pela qual deve ser indeferido o pedido de liberdade provisória em seu favor.
+De outra banda, entendo, inicialmente, revelarem-se inadequadas e insuficientes a aplicação de medidas cautelares diversas da prisão previstas no art. 319 do CPP, bem como desaconselhável a concessão de liberdade provisória, razão pela qual mantenho a prisão cautelar do investigado, agora sob o manto da segregação preventiva.
+ ..
+O Tribunal estadual, por sua vez, manteve a custódia cautelar e denegou a ordem (fls. 60/65).
+Como se vê, não se está diante de prisão preventiva desmotivada. A decisão que decretou a constrição cautelar do recorrentenão revela inidoneidade, uma vez que alicerçada em fator real de cautelaridade, qual seja, apreensão de 20 g de crack e o fato de o acusado ser reincidente específico (crime cometido em 2012). Contudo, a meu ver, em termos de proporcionalidade, não comporta a medida extrema adotada na origem e confirmada, depois, pelo Tribunal local, sendo suficiente a aplicação de medidas cautelares alternativas, uma vez que os crimes imputados não foram cometidos com violência ou grave ameaça à pessoa.
+Ademais, considerando tratar-se de crime cometido sem violência ou grave ameaçae haja vista a máxima excepcionalidade exigida, tendo em conta a Recomendação CNJ n. 62/2020 como medida, inclusive, de contenção da pandemia mundialmente causada pelo coronavírus (Covid-19), entendo que a custódia cautelar deve ser substituída por medidas cautelares alternativas.
+No mesmo sentido, confiram-se os seguintes precedentes:
+RECURSOORDINÁRIO EMHABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. RECURSO PROVIDO.
+1. Sabe-se que o ordenamento jurídico vigente traz a liberdade do indivíduo como regra. Desse modo, antes da confirmação da condenação pelo Tribunal de Justiça, a prisão revela-se cabível tão somente quando estiver concretamente comprovada a existência dopericulum libertatis, sendo impossível o recolhimento de alguém ao cárcere caso se mostrem inexistentes os pressupostos autorizadores da medida extrema, previstos na legislação processual penal.
+2. Na hipótese, o Juízo de primeira instância não apontou nenhuma circunstância idônea que pudesse evidenciar a necessidade da custódia cautelar do paciente para o resguardo da ordem pública, da ordem econômica, para a conveniência da instrução processual ou para assegurar a aplicação da lei penal, nos moldes do que preconiza o art. 312 do Código de Processo Penal. Assim, considerando que do decreto prisional não se extrai a imprescindibilidade da medida extrema e que, notadamente, o recorrente ostenta condições pessoais favoráveis, já que primário e portador de bons antecedentes, não há óbice a que responda ao processo em liberdade.
+3. Recurso provido.
+(RHC n. 82.043/MG, Sexta Turma, Ministro Nefi Cordeiro, Rel. p/ Acórdão Ministro Antonio Saldanha Palheiro, DJe 9/4/2018)
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE ENTORPECENTES. RESISTÊNCIA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. REDUZIDA QUANTIDADE DA DROGA APREENDIDA. RÉU PRIMÁRIO. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL EM PARTE DEMONSTRADA.WRITNÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O STF passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício.
+2. A aplicação de medidas cautelares, aqui incluída a prisão preventiva, requer análise, pelo julgador, de sua necessidade e adequação, a teor do art. 282 do CPP, observando-se, ainda, se a constrição é proporcional ao gravame resultante de eventual condenação.
+3. A prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar e quando realmente se mostre necessária e adequada às circunstâncias em que cometido o delito e às condições pessoais do agente. Exegese do art. 282, § 6º, do CPP.
+4. No caso, não obstante a reprovabilidade da conduta, mostra-se devida e suficiente a imposição de medidas cautelares alternativas, dada a apreensão de ínfima quantidade de estupefaciente e a primariedade do paciente.
+ ..
+(HC n. 438.701/SP, Ministro Jorge Mussi,Quinta Turma, DJe 28/6/2018 - grifo nosso)
+Ante o exposto, confirmando a liminar,dou provimentoao recurso emhabeas corpuspara substituir a prisão preventiva imposta ao recorrente pelas medidas cautelares previstas no art. 319, I, II, IV e V, do Código de Processo Penal, salvo prisão por outro motivo e sem prejuízo da aplicação, ou não, de outras medidas alternativas à prisão, fundamentadamente.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. DESPROPORCIONALIDADE. CRIMESEM VIOLÊNCIA OU GRAVE AMEAÇA. MEDIDAS CAUTELARES ALTERNATIVAS. ADEQUAÇÃO E SUFICIÊNCIA. COAÇÃO ILEGAL DEMONSTRADA. LIMINAR CONFIRMADA.
+Recurso emhabeas corpusprovido nos termos do dispositivo.
