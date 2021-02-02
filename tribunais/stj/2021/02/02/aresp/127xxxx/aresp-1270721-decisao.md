@@ -1,0 +1,38 @@
+DECISÃO
+Trata-s e  de  agravo  nos  próprios  autos  interposto  contra  decisão  que  inadmitiu  o  recurso  especial  por  ausência  de  negativa de  prestação  jurisdicional  e  por  incidência  da  Súmula  n.  7  do  STJ  (e-STJ  fls.  386/387).
+O  acórdão  recorrido  está  assim  ementado  (e-STJ  fl.  329):
+DISSOLUÇÃO  PARCIAL  DE  SOCIEDADE.  Apuração  dos  haveres  do  sócio  retirante.  Valor  da  participação  integralizada  pelo  sócio  a  ser  aferido  no  momento  em  que  foi  excluído.  Apuração  do  valor  real  das  quotas,  mediante  levantamento  em  balanço  de  liquidação,  que  deve  considerar  o  valor  de  bens  e  direitos,  tangíveis  e  intangíveis,  que  integram  o  ativo,  bem  como  o  fundo  de  comércio.  Precedentes  do  STJ.  Critérios  estabelecidos  em  Acórdão  que  julgou  o  recurso  de  Apelação  nº  0158241  -  59.2006.8.26.0100.  Recurso  provido.
+Os  embargos  de  declaração  foram  rejeitados  (e-STJ  fls.  345/352  e  361/367).
+Nas  razões  do  recurso  especial  (e-STJ  fls.  369/381),  interposto  com  fundamento  no  art.  105,  III,  "a",  da  CF,  os  recorrentes  alegam  ofensa  aos  arts.  489,  §  1º,  IV,  e 1.022,  I,  II  do  CPC/2015.
+Afirmam  que  (e-STJ  fl.  377):
+11.  A  violação  aos  artigos  1.022, I  e  II,  e  489,  §  1º,  IV,  do  Código  de  Processo  Civil  é  verificada  pela  ausência  de  fundamentação,  o  não  enfrentamento  de  argumentos  deduzidos  no  processo  capaz  de  infirmar  a  conclusão  adaptada  pelo  julgador  no  ultimo  acórdão.
+12.  A  contrariedade  existente  entre  o  acordão  dos  primeiros  embargos  de  declaração  e  do  acordão  do  agravo  foi  efetivamente  constatada  pelo  i.  Relator  no  acórdão  que  julgou  os  segundos  embargos  de  declaração,  que  mesmo  a  reconhecendo  não  acolheu  os  segundos  embargos,  por  entender  que  a  divergência  existente  não  tinha  relevância,  pois  não  foi  manejada  pela  parte  contrária  e  que  o  equívoco  cometido,  no  final  das  contas  foi  benéfico  ao  devedor.  Acreditando  que  as  dúvidas  estavam  sanadas,  esclareceu  que  o  método  que  deveria  prevalecer  era  o  método  do  lucro  ajustado,  como  critério  de  liquidação,  limitando-se  a  indicar  que  as  razões  para  escolha  estavam  conditas  nos  acórdãos  anteriores.
+Defendem  que  (e-STJ  fl.  380):
+26.  O  v.  acordão  recorrido  foge  completamente  da  discussão  do  cerne  da  fase  de  cumprimento  de  sentença  -  quais  elementos  de  cálculo  aplicados  nos  dois  métodos  que  os  distinguem  estão  corretos,  trazendo  elementos  que  não  estão  dentro  do  laudo  pericial,  ainda  sem  relacioná-los  à  argumentação  formulada  pelas  partes,  não  explicando  racionalmente  a  escolha.  Era  sobre  esse  ponto  que  se  bus cava  aclaramento,  o  que  não  foi  aclarado  nos  embargos.  A  recorrente,  como  esculpido  no  art.  489  do  CPC/15,  tem  direito  a  análise  de  tais  questões  e  seu  aclaramento  e  a  não  observância  desse  preceito  legal,  torna  a  decisão  nula.
+27.  Não  se  trata  de  inconformismo,  mas  de  direito  de  saber  o  efetivo  fundamento  que  levou  o  i.  desembargador  a  modificar  decisão  anterior,  a  contrariedade  existente  nos  acórdãos  e  seus  fundamentos  não  permite  aferir  quais  foram  os  fundamentos  jurídicos  incorporados  à  nova  decisão.  Não  há  nos  acórdãos  qualquer  menção  a  qualquer  artigo  de  lei  aplicável  ao  presente  caso,  apenas  conceitos  vagos  como  "questão  de  justiça",  questões  isoladas  de  fatos  e  opinião  pessoal  do  i.  julgador,  segundo  o  que  entende  correto  segundo  a  sua  mera  opinião.
+Ao  final  (e-STJ  fl.  381):
+29.  Requer  assim  o  recorrente  seja  o  presente  recurso  especial  processado  e  a  final  provido  para  o  fim  de  reconhecer  a  violação  aos  artigos  1.022,  I  e  II,  art.  489,  §  1º,  II  e  IV,  do  Código  de  Processo  Civil,  com  anulação  dos  acórdãos  e  determinação  de  novo  julgamento  que,  após  a  análise  do  conjunto  probatório,  confirmará  a  r.  decisão  de  primeira  instância.
+Nas  razões  deste  recurso  (e-STJ  fls.  390/399),  os  agravantes  reiteram  as  razões  do  especial.
+O  recorrido  apresentou  contraminuta  (e-STJ  fls.  402/406).
+É  o  relatório.
+Decido.
+O  agravo  que  deixa  de  refutar  especificamente  os  fundamentos  da  decisão  agravada  não  é  passível  de  conhecimento,  em  virtude  de  expressa  previsão  legal  (art.  544,  §  4º,  I,  do  CPC/1973  e  art.  932,  III,  do  CPC/2015)  e  da  aplicação  da  Súmula  n.  182  do  STJ.  A esse respeito:
+AGRAVO  INTERNO  EM  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  QUE  DEIXA  DE  IMPUGNAR  ESPECIFICAMENTE  OS  FUNDAMENTOS  DA  DECISÃO  ORA  AGRAVADA.  INCIDÊNCIA  DOS  ARTS.  932,  III,  E  1.021,  §  1º,  DO  CPC/2015  E  DA  SÚMULA  182  DO  STJ.  AGRAVO  NÃO  CONHECIDO.
+1.  Inexistindo  impugnação  específica,  como  seria  de  rigor,  aos  fundamentos
+da  decisão  ora  agravada,  essa  circunstância  obsta,  por  si  só,  a  pretensão
+recursal,  pois,  à  falta  de  contrariedade,  permanecem  incólumes  os  motivos
+expendidos  pela  decisão  recorrida.  Incide  na  espécie  o  disposto  no  arts. 932,  III  e  1.021,  §  1º,  do  Código  de  Processo  Civil  de  2015  e  a  Súmula  n.
+182  do  Superior  Tribunal  de  Justiça.
+2.  Agravo  interno  não  conhecido.
+(AgInt  no  AREsp  n.  1.258.610/SC,  Relator  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA TURMA,  julgado  em  13/12/2018,  DJe  18/12/2018.)
+CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  CPC/73.  INDENIZAÇÃO  POR  DANO  MORAL  E  MATERIAL.  PACOTE  TURÍSTICO.  RESPONSABILIDADE  SOLIDÁRIA.  ACÓRDÃO  ALINHADO  À  JURISPRUDÊNCIA  DESTA  CORTE.  AUSÊNCIA  DE  IMPUGNAÇÃO.  SÚMULA  Nº  182  DO  STJ.  QUANTUM  INDENIZATÓRIO.  FIXAÇÃO  COM  BASE  NAS  CIRCUNSTÂNCIAS  PECULIARES  DO  CASO  CONCRETO.  IMPOSSIBILIDADE  DE  REVISÃO.  SÚMULA  Nº  7  DO  STJ.  AGRAVO  REGIMENTAL  PARCIALMENTE  CONHECIDO  E  NÃO  PROVIDO.
+1.  Inaplicabilidade  do  NCPC  a  este  julgamento  ante  os  termos  do  Enunciado  Administrativo  nº  2  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/1973  (relativos  a  decisões  publicadas  até  17  de  março  de  2016)  devem  ser  exigidos  os  requisitos  de  admissibilidade  na  forma  nele  prevista,  com  as  interpretações  dadas  até  então  pela  jurisprudência  do  Superior  Tribunal  de  Justiça.
+2.  É  pacífico  o  entendimento  desta  Corte  no  sentido  de  que  o  agravante  deve  impugnar  especificamente  todos  os  fundamentos  da  decisão  agravada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  especial  interposto,  sob  pena  de  não  ser  conhecido,  conforme  os  termos  da  Súmula  nº  182  do  STJ.
+3.  Ocorrendo  a  majoração  do  valor  do  dano  moral  pelo  Tribunal  local  com  base  na  peculiaridade  das  circunstâncias  fáticas  delineadas  na  lide,  inviável  a  sua  revisão  no  âmbito  do  recurso  especial.  Tem  aplicação  a  Súmula  nº  7  do  STJ.
+4.  Agravo  parcialmente  conhecido  e  não  provido.
+(AgRg  no  AREsp  n.  795.251/RJ,  Relator  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  23/6/2016,  DJe  1/7/2016.)
+No  caso,  não  foi  impugnado  o  fundamento  relativo  à  incidência  da  Súmula  n.  7  do  STJ.
+Assim,  é  inafastável  a  aplicação  da  Súmula  n.  182  desta  Corte.
+Ante  o  exposto,  NÃO  CONHEÇO  do  agravo.
+Publique-se  e  intimem-se.
+EMENTA
