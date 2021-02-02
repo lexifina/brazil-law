@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 24):
+Agravo de Instrumento Ação civil pública Dispensa de adiantamento para o recolhimento de custas e despesas processuais Indeferimento do benefício Inadmissibilidade Art. 18 da Lei nº 7.347/85 Precedente do Colendo Superior Tribunal de Justiça Recurso desprovido
+O recorrente alega violação do artigo18, da Lei Federal n. 7.347/1985, ao argumento de que,salvo comprovada má-fé, faz jus aoafastamento definitivo do pagamento das despesas processuais, ante à isonomia dos colegitimados na ação civil pública.
+Sem contrarrazões.
+Juízo negativo de admissibilidade às fls. 51.
+Conversão do agravo em recurso especial.
+É o relatório. Passo a decidir.
+O Tribunala quomanifestou-se quanto ao ponto controverso adotando as seguintes razões de decidir (fl. 24/25):
+No caso em exame, portanto, não há falar-se em isenção no pagamento de quaisquer despesas processuais, uma vez que o benefício previsto na Lei de Ação Civil pública não dispensa o agravante de arcar com as custas edespesas processuais ao final do processo, tendo em vista que não se confunde com o benefício da justiça gratuita. A propósito, observa Theotonio Negrão: "Não haverá "adiantamento", diz a lei, o que significa que o vencido deverá pagar essas despesas a final" (Código de Processo Civil, editora Saraiva, 31ª edição 2000, Ação Civil Pública, art. 18:1, página 951)
+Por outro lado, consoante entendimento do Colendo Superior Tribunal de Justiça, os terceiros não estão obrigados a tirar da própria remuneração os valores para o custeio de diligências requeridas pela Fazenda Pública (REsp nº 1144687/SP, Rel. Min. Luiz Fux, DJe 12.05.2010), de modo que perfeitamente aplicável ao caso o disposto no artigo 1.028 das Normas de Serviço da Corregedoria Geral de Justiça do Estado de São Paulo, que determina: "O ressarcimento de que trata o artigo 1.027 far-se-á no mês seguinte ao do cumprimento de mandados, desde que entregue a relação até o dia 5 (cinco) daquele mês, e será efetuado através de depósito em conta corrente do oficial de justiça, aberta consoante o artigo 1.022, § 1º".
+Evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamentonas Normas de Serviço da Corregedoria Geral de Justiça do Estado de São Paulo, razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+Ademais,tem-se por incabívelo recurso especial que busca contestar a validade de lei local em face de norma contida em lei federal, o que evidencia o caráter eminentemente constitucional da demanda.Nesse sentido, já se decidiu que "não compete ao Superior Tribunal de Justiça, em Recurso Especial, apreciar a existência de conflito entre lei local e lei federal ou dispositivo constitucional, sob pena de incorrer em usurpação de competência própria do STF, constante do art. 102, III, d, da Constituição Federal". (AgInt no REsp 1.778.730/MA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/5/2020.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.AÇÃO CIVIL PÚBLICA. DESPESAS PROCESSUAIS.INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. RECURSO NÃO CONHECIDO.
