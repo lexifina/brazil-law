@@ -1,0 +1,14 @@
+SUSPENSÃO DE TUTELA PROVISÓRIA. SUBSTITUIÇÃO DA DECISÃO IMPUGNADA. AUSÊNCIA DE INTERESSE PROCESSUAL. ART. 485, VI E §3º, DO CPC. INCIDENTE DE SUSPENSÃO QUE SE JULGA EXTINTO SEM JULGAMENTO DE MÉRITO.
+    Decisão: Trata-se de pedido de Suspensão de Tutela Provisória ajuizado pela União em face de decisão do Relator da Ação Direta de Inconstitucionalidade nº 5.942/DF, em trâmite nesta Suprema Corte, com o fito de obter a suspensão dos efeitos da medida liminar deferida naquele processo, a qual havia suspendido a eficácia do Decreto nº 9.355, de 25 de abril de 2018, até ulterior pronunciamento do Tribunal.
+    Em decisão proferida em 11/01/2019, o Eminente Ministro Presidente, Dias Toffoli, deferiu o pedido liminar, “para suspender os efeitos da decisão liminar proferida no dia 19 de dezembro de 2018, nos autos da ADI nº 5.942/DF, até que o colegiado maior aprecie a matéria, já pautada para o dia 27 de fevereiro deste ano, consoante calendário de julgamento publicado no DJe de 19/12/2018”.
+    É o relatório. DECIDO.
+    A legislação prevê o incidente de contracautela como meio processual autônomo de impugnação de decisões judiciais, franqueado ao Ministério Público ou à pessoa jurídica de direito público interessada exclusivamente quando se verifique risco de grave lesão à ordem, à saúde, segurança e à economia públicas no cumprimento da decisão impugnada (art. 4º, caput, da Lei 8.437/1992; art. 15 da Lei 12.016/2009 e art. 297 do RISTF).
+    Dada a natureza do instituto, a cognição do Presidente do Tribunal a quem compete a análise do incidente de contracautela deve se limitar à aferição da existência de risco de grave lesão ao interesse público, além de um juízo mínimo de plausibilidade do fundamento jurídico invocado, não cabendo-lhe a manifestação quanto ao mérito propriamente dito do que discutido no processo originário, eis que o mérito deverá ser oportunamente apreciado pelo Tribunal competente na via recursal própria.
+    In casu, consulta ao andamento da ADI 5.942/DF, em trâmite nesta Suprema Corte, revela ter havido a substituição da decisão cuja suspensão se buscava, tendo o Tribunal Pleno julgado improcedente o pedido formulado na ação direta de inconstitucionalidade, na sessão virtual de 2.10.2020 a 9.10.2020.
+    Haja vista a superação da decisão liminar impugnada no presente feito, com o julgamento de mérito da referida ação direta de inconstitucionalidade, resta prejudicado o presente incidente de contracautela, que, como é sabido, não se presta ao papel de sucedâneo recursal e não pode obstar a eficácia da coisa julgada.
+    Ex positis, EXTINGO SEM JULGAMENTO DE MÉRITO o presente pedido de suspensão, com fundamento nos artigos 13, XIX, e 21, IX, do RISTF, combinado com o art. 485, VI e §3º, do CPC.
+    Publique-se. Int.
+    Brasília, 2 de fevereiro de 2021.
+Ministro Luiz Fux
+Presidente
+Documento assinado digitalmente
