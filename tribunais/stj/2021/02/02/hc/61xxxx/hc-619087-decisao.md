@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WELLINGTON LUCIO SILVA PALAZZIN contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n. 0007183-46.2020.8.26.0996.
+O Juízo de Direito da Vara de Execuções Penais concedeu ao Paciente o pedido de progressão ao regime semiaberto. Contudo, indeferiu o pleito de livramento condicional, assinalando que "deve o sentenciado passar primeiramente pelo regime intermediário, como prova de que irá absorver a terapia penal, para, posteriormente, fazer jus a imediato livramento" (fl. 52).
+Interposto agravo em execução pela Defesa, a Corte local desproveu o recurso.
+Neste writ, o Impetrante alega, em síntese, que o Paciente faz jus ao livramento condicional desde 29/05/2019, e que, mesmo com exame criminológico favorável, o Magistrado singular negou-lhe o benefício. Afirma ser "desnecessário passar pelo regime semiaberto antes da obtenção do livramento condicional" (fl. 6).
+Requer, liminarmente e no mérito, a concessão do livramento condicional.
+A liminar foi deferida, em menor extensão, para determinar ao Juiz das Execuções Criminais que "reavalie o pleito de livramento condicional, nos termos do art. 83 do Código Penal, desconsiderando a exigência do cumprimento da pena no regime intermediário, as faltas disciplinares antigas e a gravidade em abstrato do crime cometido ou a longa pena a cumprir" (fl. 99).
+As informações foram prestadas às fls. 111-133.
+O Ministério Público Federal opinou pelo "não conhecimento do habeas corpus, concedendo-se a ordem de ofício, conforme liminar já deferida" (fl. 110).
+É o relatório.
+Decido.
+A ordem deve ser concedida.
+Consoante dispõe o Código Penal, são requisitos para o livramento condicional:
+"Art. 83 - O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+I - cumprida mais de um terço da pena se o condenado não for reincidente em crime doloso e tiver bons antecedentes;
+II - cumprida mais da metade se o condenado for reincidente em crime doloso;
+III - comprovado:
+a) bom comportamento durante a execução da pena;
+b) não cometimento de falta grave nos últimos 12 (doze) meses;
+c) bom desempenho no trabalho que lhe foi atribuído; e
+d) aptidão para prover a própria subsistência mediante trabalho honesto;
+IV - tenha reparado, salvo efetiva impossibilidade de fazê-lo, o dano causado pela infração;
+V - cumpridos mais de dois terços da pena, nos casos de condenação por crime hediondo, prática de tortura, tráfico ilícito de entorpecentes e drogas afins, tráfico de pessoas e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.
+Parágrafo único - Para o condenado por crime doloso, cometido com violência ou grave ameaça à pessoa, a concessão do livramento ficará também subordinada à constatação de condições pessoais que façam presumir que o liberado não voltará a delinqüir."
+No caso, ao indeferir o pedido de livramento condicional, o Juiz da Vara das Execuções assinalou que o Paciente possui atualmente "bom comportamento carcerário" (fl. 52)e que o exame criminológico viabiliza a progressão de regime.
+Contudo, entendeu o Magistrado que:"Nada obstante,deve o sentenciado passar primeiramente pelo regime intermediário, como prova de que irá absorver a terapia penal, para, posteriormente, fazer jus a imediato livramento" (fl. 52; sem grifos no original).
+O Tribunal a quo manteve o decisum, mencionando a prática de falta disciplinar grave pelo Paciente (em 2016) e a gravidade dos crimes que resultaram na condenação do Apenado.
+Confira-se o seguinte trecho do aresto atacado (fl. 82-84; sem grifos no original):
+"A decisão agravada deve ser mantida, restando desprovido o agravo interposto.
+Com efeito, fora o agravante condenado pela prática de crimes de roubo qualificado e roubo duplamente qualificado, estabelecido o regime prisional fechado, fixadas suas penas privativas de liberdade no total de quatorze (14) anos, quatro (04) meses e vinte e sete (27) dias de reclusão.
+Verifica-se pelas informações contidas no Boletim informativo, que ele cometeu falta disciplinar de natureza grave, em 2016; a decisão agravada deferiu a progressão para o intermediário e indeferiu o pedido de livramento - apesar de preencher os requisitos legais, pois cumprira o lapso temporal necessário da pena, e possuía atestado de bom comportamento carcerário -, com base na alegação da necessidade dele demonstrar, no cumprimento do regime intermediário, que está absorvendo a terapia penal.
+Em que pese o esforço da combativo defensor constituído, tem-se que a decisão denegatória, à época dos fatos, fora proferida de maneira correta e infensa a mudanças, pois na data deste julgamento, ainda que alcançado tempo suficiente para o reconhecimento do requisito objetivo temporal para a concessão do livramento condicional (cf. artigo 83 do Código Penal, e, artigo 131 e seguintes, da L.E.P.), tem-se que a decisão do Magistrado de Primeira Instância não padece de qualquer irregularidade.
+Ali restou estabelecido que à época da interposição do agravo, embora o sentenciado houvesse cumprido, ao menos, o lapso temporal exigido de suas penas, não preenchia o requisito de ordem subjetiva. Trata-se, na verdade, de sentenciado que se envolveu na prática de crimes patrimoniais graves, cometidos com violência e/ou grave ameaça, além do que apresenta histórico prisional conturbado, repita-se, a demonstrar que se trata de pessoa de acentuada perigosidade, que não externa qualquer indicação de que se esforça para assimilar a terapêutica penal, o que impõe rigorosa análise dos pedidos, sendo necessária uma demonstração efetiva de que ele estaria apto ao retorno ao convívio da sociedade. Era necessário aferir, com maior grau de certeza, se ele possui méritos e condições subjetivas favoráveis para ser agraciado com a referida benesse.
+ ..
+Conforme bem salientou o combativo defensor constituído a oficiar nos autos, não existe qualquer vedação legal a condicionar a concessão do livramento condicional à progressão de regime prisional. A corroborar esta posição, deve ser citada a lição de CELSO DELMANTO, que assim preleciona  .. . Ainda assim, diante das peculiaridades do caso em apreço, a denegação do benefício era medida de rigor, pois a favorecer o sentenciado há apenas a notícia de seu bom comportamento carcerário, restando temerária a concessão, neste momento, tendo em vista a impossibilidade de se verificar o cumprimento das condições inerentes ao estágio intermediário, haja vista sua recente colocação neste regime 08 de julho de 2020. Os demais requisitos, bom desempenho no trabalho, aptidão para prover à própria subsistência mediante trabalho honesto e reparação dos danos, salvo efetiva impossibilidade de fazê-lo e a constatação de condições pessoais que façam presumir que o liberado não voltará a delinquir (cf. artigo 83, incisos III, IV e parágrafo único, do Código Penal), não foram demonstrados nos autos."
+Ocorre que é pacífica a orientação desta Corte Superior no sentido de que: a) não há obrigatoriedade de o sentenciado cumprir regime intermediário para obter o benefício do livramento condicional, diante da inexistência de previsão legal no art. 83 do Código Penal; b) faltas disciplinares antigas e reabilitadas não podem impedir o livramento condicional; e c) a gravidade abstrata dos crimes praticados pelo apenado não constitui fundamentação idônea a justificar o indeferimento de benefícios no âmbito da execução penal.
+A esse respeito:
+" ..
+4. Na espécie, foi indeferido o benefício do livramento condicional pelo Juízo das Execuções Criminais, tão somente em virtude da necessidade de observar-se o comportamento do sentenciado durante o cumprimento da pena em regime semiaberto antes de lhe propiciar a liberdade condicional.
+3. Sobre a matéria, a jurisprudência deste Tribunal consolidou entendimento no sentido de que não há obrigatoriedade de o apenado passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal." (RHC 116.324/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/09/2019, DJe 18/09/2019; sem grifos no original.)
+" ..
+1. É assente o entendimento nesta Corte, segundo o qual, a gravidade abstrata do delito e a longa pena a cumprir não justificam diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao crime são determinantes da pena aplicada, mas não fundamentam tratamento diverso à negativa da progressão de regime ou livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução.
+Precedentes do STJ.
+2. Agravo regimental improvido." (AgRg no HC 567.402/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/06/2020, DJe 08/06/2020; sem grifos no original.)
+" ..
+IV - Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional. Precedentes.
+Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar o v. acórdão impugnado, e determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada." (HC 459.985/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/08/2018, DJe 31/08/2018; sem grifos no original.)
+Ante o exposto, confirmando a liminar, CONCEDO, em menor extensão, a ordem de habeas corpus para, tão somente, determinar ao Juízo das Execuções Penais que reaprecie o pleito de livramento condicional nos termos do art. 83 do Código Penal, desconsiderando a exigência do cumprimento da pena no regime intermediário, a falta disciplinar antiga e a gravidade em abstrato do crime cometido ou a longa pena a cumprir.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. PRÉVIO CUMPRIMENTO DA PENA NO REGIME INTERMEDIÁRIO. GRAVIDADE EM ABSTRATO DO DELITO. FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. LIMINAR CONFIRMADA. ORDEM DE HABEAS CORPUS CONCEDIDA EM MENOR EXTENSÃO.
