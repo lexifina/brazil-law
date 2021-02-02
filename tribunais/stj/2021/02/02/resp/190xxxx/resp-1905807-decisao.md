@@ -1,0 +1,74 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por FINAMBRAS HOLDING LTDA, contra acórdão prolatado, por unanimidade, pela 3ª Turma do Tribunal Regional Federal da 3ª Região, em sede de apelação, assim ementado (fls. 738/739e):
+CONTRIBUIÇÃO PREVIDENCIÁRIA. FATO GERADOR. PRESTAÇÃO DE SERVIÇOS. ACORDO HOMOLOGADO NA JUSTIÇA DO TRABALHO. ARTIGOS 43 §§ 1º E 2º DA LEI Nº 8.212/91. DECRETO Nº 3.048/99. ARTIGO 150, DA CF.
+1. Revendo posicionamento anteriormente adotado pelo relator, nos termos do previsto no artigo 276 do Decreto nº 3.048/99, bem como em obediência ao artigo 195, I, a da Constituição Federal, havendo determinação de incidência de contribuição  previdenciária sobre parcelas salariais por força de decisão judicial proferida na Justiça Trabalhista, os juros e a multa moratória relativos à contribuição previdenciária deverão incidir apenas a partir do dia dois do mês seguinte ao da efetiva liquidação da sentença.
+2. O artigo 150 da Constituição Federal: "Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: III - cobrar tributos: a) em relação a fatos geradores ocorridos antes do inicio da vigência da lei que os houver instituído ou aumentado". Assim, a Lei nº 11.941/2009 não pode retroagir, sob pena de ofensa ao artigo 150, III, "a", da Constituição Federal.
+3. Quanto ao pedido da autora de restituição do crédito tributário, por meio de compensação ou repetição de indébito, feito às fls. 524/525, em momento posterior à apresentação da contestação, destaco que,intimada, a União Federal manifestou discordância ao pedido formulado, em razão de configurar inovação do pedido inicial.Assim, nos termos do artigo 264 do Código de Processo Civil "feita a citação, é defeso ao autor modificar o pedido ou a causa de pedir, sem o consentimento do réu, o que não ocorreu, seu pleito não merece procedência no que toca a este ponto.
+4. Sucumbência invertida, tendo em vista que o pedido inicial foi procedente.
+5. Apelação da autora parcialmente provida.
+Opostos embargos de declaração, foram rejeitados (fls. 794/802e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos legais a seguir relacionados, alegando-se, em síntese, que:
+Art. 535, II, do CPC/1973 - o tribunal de origem omitiu-se acerca da "(i) a não prejudicialidade do pedido de repetição e (ii) a fixação da data de vencimento, vez que esta pode ser alterada a qualquer momento, como de fato foi" (fl. 822e);
+Arts. 5º, LXXVIII da Constituição da República e 125, 165 e 168 do CTN - em homenagem ao princípio da efetividade jurisdicional e à economia processual o direito à repetição do indébito não está condicionado ao ajuizamento de outra ação, ainda que o pedido não conste da inicial;
+Art. 30, I, b, da Lei n. 8.212/1991 - o acórdão recorrido extrapolou o necessário ao fixar o vencimento da obrigação tributária no dia dois de qualquer mês.
+Com contrarrazões (fls. 989/991e), o recurso foi admitido.
+Feito breve relato, decido.
+Por primeiro,consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Inicialmente, observo que aparte recorrente sustenta a existência de omissão no acórdão recorrido, não sanada no julgamento dos embargos de declaração.
+Ao prolatar o acórdão recorrido, bem como aquele mediante o qual os embargos de declaração foram analisados, o tribunal de origem enfrentou a controvérsia, nos seguintes termos (fls. 737/798e):
+Quanto ao pedido da autora de restituição do crédito tributário, por meio de compensação ou repetição de indébito, feito às fls. 524/525, em momento posterior à apresentação da contestação, destaco que, intimada, a União Federal manifestou discordância ao pedido formulado, em razão de configurar inovação do pedido inicial. Assim, nos termos do artigo 264 do Código de Processo Civil "feita a citação, é defeso ao autor modificar o pedido ou a causa de pedir, sem o consentimento do ré", o que não ocorreu, seu pleito não merece procedência quanto a este ponto.
+ ..
+Quanto aos embargos de declaração da autora, reitero o já apreciado no Acórdão: "no que pertine à restituição do crédito tributário, por meio de compensação ou repetição de indébito, feito às fls. 524/525, em momento posterior à apresentação da contestação, destaco que, intimada, a União Federal manifestou discordância ao pedido formulado, em razão de configurar inovação do pedido inicial. Assim, nos termos do artigo 264 do Código de Processo Civil "feita a citação, é defeso ao autor modificar o pedido ou a causa de pedir, sem o consentimento do ré".
+Se não houve o pedido de restituição na inicial e, feito posteriormente à contestação, não houve concordância do réu, não há como lhe dar guarida.
+Quanto à data do vencimento da obrigação, como bem salientou a autora em seus embargos, à época das decisões trabalhistas, o ordenamento legal determinava o dia 02 como de recolhimento e, nesse caso, não há como determinar outra data que não essa para o caso específico, ainda que posteriormente tenha sido alterada.
+No caso, não verifico omissão acerca de questão essencial ao deslinde da controvérsia e oportunamente suscitada, tampouco de outro vício a impor a revisão do julgado.
+E depreende-se da leitura do acórdão integrativo que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v.g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+Acerca da suposta violação aoart. 5º, LXXVIII da Constituição da República, ressalto que orecurso especial possui fundamentação vinculada, destinando-se a garantir a autoridade da lei federal e a sua aplicação uniforme, não constituindo, portanto, instrumento processual destinado a examinar a questão constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal, conforme dispõe o art. 102, III, da Carta Magna.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. ISENÇÃO. ÁREA DESAPROPRIADA. MATÉRIA DECIDIDA PELO TRIBUNAL DE ORIGEM SOB O ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. Na hipótese, o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentemente constitucionais, escapando sua revisão, assim, à competência desta Corte em sede de recurso especial.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 537.171/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/09/2014, DJe 16/09/2014 - destaques meus).
+REAJUSTE CONCEDIDO. VANTAGEM PECUNIÁRIA INDIVIDUAL. NATUREZA DIVERSA. CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE.
+1. A Corte local concluiu pela diversidade da natureza jurídica da VPNI, instituída pela Lei 10.698/2003 em relação à Revisão Geral Anual, prevista no art. 37, X, da CF/1988.
+2. Verifica-se que o acórdão recorrido contém fundamento exclusivamente constitucional, sendo defeso ao STJ o exame da pretensão deduzida no recurso especial, sob pena de usurpação da competência do STF.
+3. Agravo Regimental não provido.
+(AgRg no AREsp 467.850/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2014, DJe 22/04/2014 - destaques meus).
+No mais,verifico a ausência de demonstração precisa de como a alegada violação aos art. 125 do CPC/1973 teria ocorrido, o que impede o conhecimento do recurso especial.
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Outrossim, a Recorrente busca reformar o acórdão recorrido, defendendo a tese segundo a qual,em homenagem ao princípio da efetividade jurisdicional e à economia processual o direito à repetição do indébito não estariacondicionado ao ajuizamento de outra ação, ainda que o pedido não conste da inicial.
+Para tal propósito, cita como contrariados os seguintes dispositivos legais:
+Arts. 165 e 168 do CTN:
+Art. 165. O sujeito passivo tem direito, independentemente de prévio protesto, à restituição total ou parcial do tributo, seja qual for a modalidade do seu pagamento, ressalvado o disposto no § 4º do artigo 162, nos seguintes casos:
+I - cobrança ou pagamento espontâneo de tributo indevido ou maior que o devido em face da legislação tributária aplicável, ou da natureza ou circunstâncias materiais do fato gerador efetivamente ocorrido;
+II - erro na edificação do sujeito passivo, na determinação da alíquota aplicável, no cálculo do montante do débito ou na elaboração ou conferência de qualquer documento relativo ao pagamento;
+III - reforma, anulação, revogação ou rescisão de decisão condenatória.
+Art. 166. A restituição de tributos que comportem, por sua natureza, transferência do respectivo encargo
+Art. 168. O direito de pleitear a restituição extingue-se com o decurso do prazo de 5 (cinco) anos, contados:
+I - nas hipótese dos incisos I e II do artigo 165, da data da extinção do crédito tributário;
+II - na hipótese do inciso III do artigo 165, da data em que se tornar definitiva a decisão administrativa ou passar em julgado a decisão judicial que tenha reformado, anulado, revogado ou rescindido a decisão condenatória.
+Observo que a pretensão recursal não é extraída de tais dispositivos.
+É firme o posicionamento desta Corte segundo o qual se revela incabível conhecer do recurso especial quando o dispositivo de lei federal tido por violado não possui comando normativo capaz de impugnar os fundamentos do acórdão recorrido, incidindo, por analogia, a orientação contida na Súmula n. 284, do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. PESSOA JURÍDICA. QUALIFICAÇÃO COMO AGROINDÚSTRIA. ART. 489 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. REENQUADRAMENTO DA EMPRESA. EXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. CONSULTA. FISCALIZAÇÃO IN LOCO. SITUAÇÃO FÁTICA DIVERSA. SÚMULA 284 DO STF. INCIDÊNCIA. LANÇAMENTO FISCAL. MULTA ISOLADA E DE OFÍCIO. RETROATIVIDADE DA LEGISLAÇÃO MAIS BENÉFICA. SÚMULA 283 DO STF. CARÁTER CONFISCATÓRIO. DIVERGÊNCIA NÃO DEMONSTRADA. SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. AUSÊNCIA. HONORÁRIOS RECURSAIS. CABIMENTO.
+ ..
+4. O art. 100 do CTN não possui comando normativo suficiente para infirmar o entendimento da Corte Regional de que as soluções de consulta não vinculam o Fisco na hipótese da ocorrência de fiscalização tributária in loco, na qual se verifica situação fática diversa daquela apresentada pelo consulente, incidindo no ponto o óbice da Súmula 284 do STF.
+ ..
+(AgInt nos EDcl no AREsp 1.343.527/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 19/11/2019, DJe 03/12/2019).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA VISANDO A EXCLUSÃO DO ICMS DA BASE DE CÁLCULO DO PIS E DA COFINS. SEGURANÇA CONCEDIDA, COM LIMITAÇÃO TEMPORAL DOS EFEITOS DO JULGADO A 31/12/2014, EM FACE DA LEI 12.973/2014. ALEGADA VIOLAÇÃO AOS ARTS. 1.039, CAPUT, E 1.040, III, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. DISPOSITIVOS PROCESSUAIS APONTADOS QUE, ADEMAIS, NÃO POSSUEM COMANDO NORMATIVO APTO A SUSTENTAR A TESE DA RECORRENTE. INCIDÊNCIA DA SÚMULA 284/STF, POR ANALOGIA. IMPOSSIBILIDADE, AINDA, DE ANÁLISE, EM RECURSO ESPECIAL, DA ADEQUAÇÃO DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM, EM JUÍZO DE RETRATAÇÃO, COM A TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA, SOB PENA DE ANÁLISE, POR VIA REFLEXA, DE QUESTÃO CONSTITUCIONAL. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+ ..
+VII. De todo modo, em relação à alegada violação aos arts. 1.039, caput, e 1.040, III, do CPC/2015, os referidos dispositivos legais não possuem comando normativo apto a infirmar a conclusão, tal como posta no acórdão recorrido, em relação à limitação temporal dos efeitos do julgado a 31/12/2014, de forma a atrair, no ponto, a aplicação analógica da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+ ..
+(AgInt no AREsp 1.510.210/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/11/2019, DJe 29/11/2019).
+Prosseguindo no exame do recurso, verifico, ainda, alegação de ofensa art. 30, I, b, da Lei n. 8.212/1991, ao argumento deque oacórdão recorrido extrapolou o necessário ao fixar o vencimento da obrigação tributária no dia dois de qualquer mês.
+Diferentemente do que quer fazer crer a Recorrente, o tribunal a quo não fixou o vencimento da obrigação no dia dois de qualquer mês, indistintamente, mas tão somente para a o caso específico, como segue (fl. 798e):
+Quanto à data do vencimento da obrigação, como bem salientou a autora em seus embargos, à época das decisões trabalhistas, o ordenamento legal determinava o dia 02 como de recolhimento e, nesse caso, não há como determinar outra data que não essa para o caso específico, ainda que posteriormente tenha sido alterada.
+Das razões recursais, extrai-se que a Recorrente não discorda do acórdão recorrido ao fixar a data do vencimento para o caso específico, mas tão somente acerca de eventuaisefeitos futuros da decisão (fl. 827e):
+ ..  é verdade que o vencimento dessas obrigações, que vigia quando da prolação dos acórdãos trabalhistas sobre os quais o acórdão recorrido e embargado se pautou, era efetivamente todo dia 2 e não dia 20.
+Hoje, porém, o vencimento das obrigações tributárias para com a Seguridade Social se dá nos dias 20 de cada mês.
+Sem prejuízo, futuramente pode ser alterado mais uma vez esse vencimento.
+Desse modo, não vislumbro interesse de recorrer quanto a esse ponto.
+Posto isso, com fundamento no art. 557 do CPC/1973, nego seguimento ao recurso especial.
+Publique-se e intimem-se.
