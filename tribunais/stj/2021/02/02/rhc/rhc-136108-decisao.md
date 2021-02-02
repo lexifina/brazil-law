@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpuscoletivointerposto, por intermédio daDefensoria Pública do Estado de Rondônia, em favor detodas a pessoas presas provisoriamente na Casa de Detenção José Mário Alves da Silva (Urso Branco) em Rondônia e que se enquadram no grupo de risco relacionado ao vírus COVID-19, contra acórdão do Tribunal de Justiça do Estado de Rondônia (HC n. 0803703-19.2020.8.22.0000).
+Consta dos autos que a Defensoria Pública do Estado de Rondônia impetrouhabeas corpuscoletivo na Corte estadual questionando, em síntese, os cuidados oferecidos pela referida unidade prisional aos presos em relação à pandemia causada pelo vírus COVID-19 (e-STJ fl. 36). O Tribunal de origem, contudo, denegou a ordem (e-STJ fls. 169/174).
+No presente recurso, a defesa alega ser cabível a substituição da prisão preventiva por domiciliar de todos os presos provisórios integrantes de grupo de risco quanto ao Covid-19 da unidade prisional "Urso Branco".
+O Ministério Público Federal opinou pelo não provimento do recurso (e-STJ fls. 222/225).
+É o relatório. Decido.
+Verifica-se que o presente recurso consiste em mera reiteração do HC 610.550/RO, autuado nesta Corte em 3/9/2020, e cuja liminar foi indeferida em 8/9/2020.
+A utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual o presente recurso não pode prosseguir.
+Isto por que "embora o recurso ordinário em habeas corpus consista no meio próprio para a apreciação da irresignação, a defesa optou por impetrar, também, habeas corpus substitutivo, o qual primeiramente foi despachado nesta Corte. Desse modo, a tese idêntica não pode ser simultaneamente analisada em impetrações/interposições posteriores" (AgRg no RHC n. 103.808/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 27/11/2018, DJe 10/12/2018).
+Nesse ponto, cumpre salientar que, embora esta Corte entenda ser, de início, incabível o habeas corpus substitutivo de recurso, em homenagem ao princípio da ampla defesa, é de rigor o exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício. Destarte, não haverá qualquer prejuízo ao recorrente em ter as teses ora levantadas analisadas quando do julgamento do writ e não do presente recurso ordinário.
+Ante o exposto, nego seguimento ao presente recurso.
+Intimem-se.
