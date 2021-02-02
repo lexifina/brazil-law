@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por MILTON DE JESUS BARROS NETO, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2175990-73.2020.8.26.0000).
+O recorrente foi preso em flagrante, pela suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006. A prisão em flagrante foi convertida em preventivamediante requerimento do Ministério Público (fls. 35-39).
+O decreto prisional fundou-sena necessidade de garantia da ordem pública, tendo em vista aquantidade de drogas apreendidas - 27 invólucros com 41,5g cocaína, 48 porções de crack, 41 invólucros com 113g de maconha -,além de R$ 237,00, bem como nosmaus antecedentes criminais do recorrente.
+O Tribunal de origem manteve a custódia cautelar, pois entendeu que estavam preenchidos os requisitos autorizadores da medida extrema. Na mesma oportunidade, ressaltou a incompatibilidade da aplicação das medidas cautelares do art. 319 do CPP com o caso concreto.
+O recorrente alega que não integra organização criminosa e que "não reiterou em qualquer ação criminosa pelo período em que está em liberdade" (fl. 138).
+Requer a concessão de liminar para a revogação de sua prisão preventiva, pois não foram preenchidos os requisitos da medida extrema, devendo ser aplicadas medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 152-153.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 170-171).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 117):
+Referidas decisões fazem menção à presença dos pressupostos e fundamentos da prisão preventiva, deixando clara a existência de prova da materialidade da infração, de indícios de autoria, a gravidade do crime, equiparado a hediondo, e ao fato de o ora paciente responder a processo pela prática do mesmo delito tratado nos presentes autos, tudo a revelar a necessidade da medida para garantia da ordem pública, conveniência da instrução criminal e, em tese, aplicação da lei penal (fls. 68/72 e 111/113 dos autos principais).
+Assim, estando devidamente motivadas pela autoridade impetrada, cuja convicção não pode ser desconsiderada, pois é ela quem está próxima dos fatos, dos acusados e das testemunhas neles envolvidas, e, por isso, pode avaliar, com maior precisão e segurança, a necessidade da custódia cautelar, as decisões merecem ser prestigiadas.
+É importante salientar, ainda, que o tráfico de entorpecentes é delito de gravidade diferenciada, tanto que legalmente equiparado aos hediondos, deixa em sobressalto a população, abala a tranquilidade social e, portanto, afronta à ordem pública.
+Ressalte-se que, no caso, o deferimento de prisão domiciliar ou de qualquer outra medida cautelar diversa da prisão ao paciente seria claramente inadequado, insuficiente e geraria sentimento de impunidade, ainda mais em razão das circunstâncias já mencionadas e se tratando de crime tão nefasto, como o tráfico de entorpecentes.
+Outrossim,confira-se excerto da decisão que decretou a segregação cautelar (fls. 36-37):
+No caso em tela, a decretação da prisão preventiva do indiciado é medida adequada, conforme bem ressaltado pelo i. Representante do Ministério Público.
+O delito imputado ao acusado prevê pena privativa de liberdade máxima superior a 04 (quatro) anos.
+ ..
+Assim, em princípio, verifica-se que o indiciado estava na posse de grande quantidade de drogas (27 invólucros contendo 41,5g cocaína, 48 porções de crua, 41 invólucros contendo 113g de maconha), além de R$ 237,00, quando foi abordado pelos policiais, havendo forte suspeita de que seria o responsável pela distribuição de drogas.
+Evidente, portanto, a periculosidade do indiciado, sendo medida absolutamente necessária a decretação de sua custódia cautelar para garantia da ordem pública, já que, em liberdade, existe a probabilidade de reiteração criminosa, conclusão esta que deriva da própria análise da conduta imputada ao representado, a qual, concretamente, não deixa dúvidas quanto à sua periculosidade.
+Portanto, a decretação da custódia é medida proporcional e adequada para se evitar que o réu volte a delinquir.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Por fim, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação.Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
