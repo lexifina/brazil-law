@@ -1,0 +1,52 @@
+DECISÃO
+HERMENEGILDO JOSÉ DOS SANTOS estaria sofrendo coação ilegal em seu direito de locomoção, em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2015.0000898777.
+O apenado requereu indulto com fundamento no Decreto n. 8.380/2014. No momento da avaliação de seu pedido, havia nos autos da execução apenas uma guia de recolhimento, relacionada ao Processo n. 300578/2013. O pedido, foi então, deferido pelo Juízo das Execuções de São Paulo, em 26/3/2015, declarando-se extinta a pena imposta ao sentenciado.
+A Secretaria de Administração Penitenciária, ao receber o alvará expedido em razão do indulto, localizou mandado de prisão em nome do sentenciado, expedido pelo Juízo da VEC de Campo Grande. O Juízo de São Paulo, em 4/11/2015, após esclarecer o fato, reconheceu o erro material da sentença e retratou-se, de ofício, indeferindo o pedido de indulto com fundamento no Decreto n. 8.380/2014.
+Nesta Corte, a Defensoria Pública assere que o Ministério Público foi intimado da declaração do indulto em 30/3/2015 e não interpôs recurso, transitando em julgado o decisum. Assim, o Juízo das Execuções não poderia modificar uma decisão transitada em julgado, "sem qualquer provocação", ainda que tenha incorrido em erro material (fl. 4).
+Requer, liminarmente e no mérito, a anulação da decisão monocrática que cassou seu próprio decisório, mantendo o indulto pleno da pena.
+Indeferida a liminar (fls. 64-65), veio o parecer do Ministério Público Federal (fls. 76-79), que opinou pela denegação da ordem.
+Decido.
+A decisão que concedeu o indulto pelo Juízo da 2ª Vara de Execuções Criminais de Presidente Prudente referiu o seguinte:
+O sentenciado cumpriu mais de metade (1/2) da pena imposta até 25 de dezembro de 2.014, preenchendo assim o requisito objetivo.
+Observe-se que a requerente não registra prática de falta disciplinar de natureza grave nos últimos doze meses de pena, conforme dispõe o art. 5º de referido diploma legal.
+Assim, preenchido o requisito temporal, satisfeitas as condições de caráter pessoal e inexistindo causas impeditivas, o indulto é de ser deferido.
+E mais. A nova redação da Lei nº 10.792/03 relegou ao diretor do estabelecimento penal o exame do bom comportamento carcerário, visando de forma precípua a simplificar a apuração do mérito do sentenciado (STJ - HC nº 45.268/SP -j. 03.08.2006); logo, sem argumentos concretos autorizantes de um Juízo objetivo de necessidade, não se sustenta o pedido de realização de exame criminológico.
+E para isso, à evidência, não bastam alegações subjetivas amparadas somente na gravidade abstrata do delito e no tempo de pena a cumprir, pena de se transformar a exceção em regra (fl. 35).
+Posteriormente, o referido Juízo retratou-se dodecisum, pois:
+Sobreveio então a notícia de fls. 31 da unidade prisional anotando que após a chegada do alvará concedido em razão do Indulto, a Penitenciária realizou consultas, localizando mandado de prisão em nome do sentenciado, expedido pelo d. Juízo da VEC de Campo Grande.
+Este Juízo, por tais razões, sustou o cumprimento da decisão, bem como o regime semiaberto, requisitando a remessa dos autos de execução à VEC de Campo Grande e eventuais condenações existentes na Comarca de Candido Sales/BA (fls. 37).
+Foram apensados a estes autos mais quatro guias de recolhimento, sendo atualizado o cálculo no apenso de Roteiro de Penas (fls. 18/23).
+É O RELATÓRIO. DECIDO.
+Este Juízo foi levado a erro uma vez que não se tinha notícia nos autos, na época da prolação da sentença, das condenações ora juntadas, bem como da existência de qualquer mandado de prisão em aberto contra o sentenciado.
+Ademais, com a atualização do cálculo, constatou-se que o sentenciado possui pena superior a oito anos em razão de delito praticado mediante violência ou grave ameaça (homicídio - execução n. 02), não cabendo o benefício nos a termos do art. 1º, inciso I do Decreto 8380/2014 (fl. 53, destaquei).
+A Corte local denegou a ordem,nos seguintes termos:
+Não se demonstrou e não se vislumbra ilegalidade flagrante ou teratologia da r. decisão de primeiro grau de jurisdição, que indeferiu o pedido de indulto com base no Decreto 8.380/14, retratando-se de anterior r. decisão que, indevidamente, concedera o beneficio em tela.
+Verificado o equívoco no cálculo de pena inicial, que, indevidamente, desconsiderou a existência de outras condenações criminais, era de rigor sua retificação, e, em consequência, a devida análise dos requisitos para o benefíciopleiteado, em vista do princípio reitor da execução penal, qual seja, in dubio pro societate.
+Não há que se falar em ofensa ao princípio constitucional do devido processo legal ou à coisa julgada, pois a r.decisão que reconhece a presença dos requisitos do indulto não faz coisa julgada material.
+Por outro lado, considerado o princípio reitor da execução criminal, o in dubio pro societáte, apresenta-se como razoável admitir-se a nova análise dos requisitos para a concessão do beneficio de indulto em casos como o presente, em que houve erro relativo às informações juntadas aos autos.
+Não há que se falar, portanto, em violação do devido processo legal ou da coisa julgada (fls. 59-60, grifei).
+O erro material reconhecidopelo Juízo das execuções, de fato, não foi objeto de impugnação pelo Ministério Público. Mesmo havendo sido intimado da declaração do indulto, em 30/3/2015, não interpôs recurso, o que permitiu o trânsito em julgado da respectiva decisão.
+Entendo não ser possível a desconstituição de decisão concessiva de indulto, após o seu trânsito em julgado, pela própria autoridade decidente. Isso porque, ao contrário do processo civil, no processo penal erros dessa natureza não podem ser remediados de ofício, dado o evidente prejuízo ao apenado.
+Verifico, sob tais premissas, ilegalidade passível de ser corrigida por meio de habeas corpus de ofício, pois o Juízo de origem foialém dos limites do seu poder de retratação quando reconheceu suposto erro material de decisão, não impugnada pelo Ministério Público e com trânsito em julgado,em confronto, analogamente, com a Súmula n. 160 do Supremo Tribunal Federal, in verbis: "É nula a decisão do tribunal que acolhe, contra o réu, nulidade não arguida no recurso da acusação, ressalvados os casos de recurso de ofício".
+Ilustrativamente:
+PENAL E PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. INDULTO.CONCESSÃO POR ERRO MATERIAL. REVOGAÇÃO POSTERIOR DO BENEFÍCIO.AGRAVAMENTO DA SITUAÇÃO DO RÉU. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO NO MOMENTO PROCESSUAL OPORTUNO. APLICAÇÃO ANALÓGICA DA SÚMULA 160/STF. RECURSO ORDINÁRIO PROVIDO.
+1 - O exame dos requisitos legais para o deferimento do indulto não pode ser corrigido como mero erro material.
+2 - Diferentemente do processo civil, no processo penal não podem sequer ser corrigidos de ofício os erros materiais, pelo prejuízo evidenciado ao condenado e em razão da não reformatio in pejus.
+3 - Não tendo o Ministério Público impugnado o indulto concedido, ilegal é a revogação do benefício por erro na aferição de seus requisitos, somente constatado mais de seis meses após.
+4 - Recurso ordinário provido para cassar a decisão do juízo de 1º grau que revogou a concessão anterior do indulto.
+(RHC n. 54.540/SC, Rel. MinistroNefi Cordeiro, 6ª T., DJe 29/6/2016, grifei).
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. SUSPENSÃO CONDICIONAL DO PROCESSO. CONCESSÃO POR ERRO MATERIAL. REVOGAÇÃO POSTERIOR DO BENEFÍCIO. AGRAVAMENTO DA SITUAÇÃO DO RÉU. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO NO MOMENTO PROCESSUAL OPORTUNO. APLICAÇÃO ANALÓGICA DA SÚMULA 160/STF. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Eventual erro material no exame do preenchimento dos requisitos legais para o deferimento do benefício não pode dar causa ao agravamento da situação do réu sem que tenha sido apresentada a respectiva impugnação no momento oportuno pelo acusador.
+3. Considerando que, na hipótese, o Ministério Público não formulou pedido nem apresentou recurso no prazo legal, resta evidenciado o constrangimento ilegal, decorrente da revogação da suspensão condicional do processo, porquanto o réu já detinha, contra si, ação penal em andamento, não tendo ela sido proposta no período de prova.
+4. Incidência, por aplicação analógica, do enunciando da Súmula 160/STF (É nula a decisão do Tribunal que acolhe, contra o réu, nulidade não arguida no recurso da acusação, ressalvados os casos de recurso de ofício).
+5. Recurso ordinário provido para cassar a decisão do juízo de 1º grau que revogou a suspensão condicional do processo.
+(RHC n. 47.035/RN, Rel. MinistroNefi Cordeiro, 6ª T., DJe 16/11/2015, grifei).
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. SENTENÇA CONDENATÓRIA COM TRÂNSITO EM JULGADO. ERRO MATERIAL CORRIGIDO QUANDO DA EXPEDIÇÃO DA CARTA DE GUIA. IMPOSSIBILIDADE. INDEVIDA REVISÃO CRIMINAL PRO SOCIETATE. ORDEM CONCEDIDA.
+1. Tratando-se, como se trata, de Direito Penal adjetivo, não se pode falar em correção ex officio de "erro material", mormente em detrimento do réu.
+2. Na esfera penal prevalece o princípio do non reformatio in pejus que impede o agravamento da situação do réu sem uma manifestação formal e tempestiva da acusação nesse sentido. Inteligência do enunciado n.º 160 da Súmula do STF.
+3. "Trata-se da cabal confirmação do entendimento de que, neste, como noutros temas, o processo penal não é estruturado por princípios comuns ao processo civil, senão por regras próprias, em razão da prevalência dos interesses públicos que constituem a substância e o objeto permanente do conflito jurídico típico que se presta a decidir e, sobretudo, por força do valor supremo do jus libertatis, do qual o processo é concebido e disciplinado como instrumento de tutela".(STF, HC 83.545/SP, Rel. Ministro CESAR PELUSO, Primeira Turma, DJ 3.6.2006.) 4. Nesse viés, seja por nulidade absoluta, seja por erro material, não se pode agravar (quantitativamente ou qualitativamente) a situação do réu sem recurso próprio do acusador, sob pena de configurar indevida revisão criminal pro societate. Precedentes do STJ.
+5. Ordem concedida para que no cumprimento da reprimenda imposta ao paciente seja observado o quantum de 4 (quatro) anos e 2 (dois) meses de reclusão constante da parte dispositiva da sentença condenatória.
+(HC n. 162.063/PE, Rel. MinistroJorge Mussi, 5ª T.,DJe 29/3/2012, destaquei).
+À vista do exposto,concedo a ordem, a fim de restabelecer a decisão que concedeu o pedido deindulto ao paciente (fl. 35).
+Publique-se e intimem-se.
