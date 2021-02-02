@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de Movida Locação de Veículos S.A., fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Ação anulatória. IPVA. Locadora de veículos. Atividade empresarial exercida na cidade de São Paulo. Legalidade da cobrança pelo Fisco Paulista. Lei nº 13.296/08 declarada constitucional pelo C. Órgão Especial. Aplicabilidade da norma. Multa adequada. Ausência de caráter confiscatório. Impossibilidade de sujeição à redução de alíquota. Sentença de parcial procedência mantida. Recurso improvido.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, a recorrente alega violação dos seguintes dispositivos: a) arts. 489, II e § 1º, IV e V, e 1.022, II, Código de Processo Civil, sustentando que o acórdão recorrido padece de nulidade; b)arts. 110 e 127 do Código Tributário Nacional, art. 120 do Código de Trânsito Brasileiroe arts. 75, § 1º, 1196 e 1228 do Código Civil, aduzindo ser ilegal o art. 4º, § 1º, item 2, alínea "c" da Lei Estadual n. 13.296/08 na medida em que amplia a hipótese de incidência do IPVA.
+Houve contrarrazões (e-STJ fls. 564/581).
+Sobreveio juízo negativo de admissibilidade pela incidência das Súmulas n. 7/STJ e 280/STF.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Não houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Preliminarmente, argumenta-se que o aresto combatido padeceria de omissões uma vez que não teria analisado os seguintes pontos (e-STJ fls. 518/519):
+(i) nulidade dos lançamentos dos créditos tributários em foco por erro na identificação do sujeito passivo (artigos 5º,parágrafo único, "1", e 33, ambos da Lei Estadual nº 13.296/2008); (ii) ofensa ao artigo 155, inciso III, da Constituição c.c. artigo 110 do CTN c.c. artigos 1.196 e 1.228 do Código Civil pela indevida ampliação do aspecto material da hipótese de incidência tributária; (iii) violação ao disposto no artigo 75 do Código Civil e nos artigos 110 e 127, inciso II, ambos do CTN tendo em vista a indevida ampliação do aspecto espacial da hipótese de incidência do IPVA; (iv) a inconstitucionalidade formal da Lei Paulista nº 13.296/2008 (ofensa aos artigos 22, inciso I, e 146, incisos I e III, da Constituição); e (iv) violação da Lei Paulista n" 13.296/2008 por acarretar indevida bitributação no que tange à constituição e cobrança do IPVA sobre os veículos em foco; e (v) a manifesta ofensa ao art. 158, II, da CF, porque o produto da arrecadação do IPVA, nas condições previstas na apontada Lei, não será destinado ao Município.
+A preliminar não comporta acolhida.
+Isso porque, ao acolhimento da violação do art. 1.022 do CPC,não basta a simples oposição dos aclaratórios na origem.
+É necessária a demonstração, de forma fundamentada que: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma. Tais demonstrações não ocorreram in casu, razão pela qual incide o óbice da Súmula n. 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. RESTITUIÇÃO DE VALORES. PRESCRIÇÃO. DATA DA CITAÇÃO. EXISTÊNCIA DE PROCESSO ADMINISTRATIVO. SÚMULA 7/STJ. REVISÃO DOS VALORES ARBITRADOS A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS. SÚMULA 7/STJ. JUROS. ART. 1º-F DA LEI 9.494/97. DECISÃO DO TRIBUNAL DE ORIGEM EM CONFORMIDADE COM A ORIENTAÇÃO DO STJ. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+1. As razões de recorrer quanto à violação do art. 1.022 do CPC/2015, são genéricas e desprovidas de argumentação jurídica, fazendo incidir o óbice da Súmula 284/STF.
+2. A análise acerca da existência ou não de processo administrativo para fins de aferição de data da contagem da prescrição demanda a incursão na seara fático-probatória dos autos, o que encontra óbice na S mula 7/STJ.
+3. Fixados os honorários advocatícios pelas instâncias ordinárias sob apreciação eqüitativa, sem que seja configurado valor excessivo ou irrisório, a revisão do quantum é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+4. Tendo natureza tributária, aplica-se ao caso da Lei 11.960/09, devendo ser de 0,5% ao mês os juros de mora, de acordo com a modulação estabelecida nas ADIs 4357 e 4425.
+5. O conhecimento de Recurso Especial fundado na alínea "c" do art. 105, III, da CF/1988 exige a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas ou votos (artigos 1.029, § 1º do Código de Processo Civil de 2015 e 255, § 1º, do RISTJ). In casu, constata-se que a parte agravante não cumpriu as exigências insculpidas nos mencionados dispositivos, pois limitou-se a transcrever a ementa do julgado paradigma, restando ausente o necessário cotejo analítico a comprovar o dissídio pretoriano e a similitude fática.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1220449/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/08/2018, DJe 20/08/2018)
+No mérito, cuida-sede ação anulatória versando acerca do lançamento de IPVA no estado de São Paulo com relação a veículos que, apesar de registrados no estado de Minas Gerais, foram colocados em circulação no estado paulista.
+Nas razões recursais, a recorrente pleiteia a desconstituição dos créditos tributários.
+Melhor sorte não assiste a parte.
+Ocorre que, ao analisar o lançamento tributário, o Tribunal a quo o fez à luz da Lei Estadual n.13.296/08, consoante se depreende do excerto (e-STJ fls. 494/495):
+No exercício da competência tributária , o Estado de São Paulo editou a Lei nº 13.296/08 que autoriza a exigência de IPVA em discussão. Confira-se:
+Artigo 3º - Considera-se ocorrido o fato gerador do imposto:
+( )
+X - relativamente a veículo de propriedade de empresa locadora:
+( )
+b) na data em que vier a ser locado ou colocado à disposição para locação no território deste Estado, em se tratando de veículo usado registrado anteriormente em outro Estado;
+c) na data de sua aquisição para integrar a frota destinada à locação neste Estado, em se tratando de veículo novo.
+Parágrafo único: O disposto no inciso X deste artigo aplica-se às empresas locadoras de veículos qualquer que seja o seu domicílio, sem prejuízo da aplicação das disposições dos incisos II a IX, no que couber.
+Com essa alteração legislativa, houve mero aclaramento de critérios relativos ao domicílio tributário. Note-se que a alteração legislativa atendeu à anterioridade de exercício e que não houve criação de tributo e nem majoração do imposto.
+Registre-se, ainda, que a constitucionalidade dessa Lei já foi afirmada pelo C. Órgão Especial desta Corte nos autos da Arguição de Inconstitucionalidade nº 0127403-35.2012.8.26.0000, estando pendente de julgamento a ADI nº 4.376 no C. STF.
+Note-se que , embora as autoras queiram afastar a incidência da Lei Estadual nº 13.296/08 com argumentos relativos à situação de fato, tais como o registro do veículo no estado mineiro, a discussão se limita às teses quanto à inconstitucionalidade da Lei paulista.
+Logo, e porque é incontroverso nos autos que a circulação dos veículos se realiza no estado paulista, não pode ser afastado o lançamento tributário.
+Assim, afastar o entendimento firmado pelo acórdão recorrido exigiria, necessariamente, o exame da legislação local, atraindo a incidência da Súmula n. 280/STF.
+A propósito, o seguinte precedente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.CERCEAMENTO DE DEFESA. ANÁLISE. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. BASE DE CÁLCULO DO TRIBUTO. ACÓRDÃO FUNDADO EM LEGISLAÇÃO ESTADUAL. INCIDÊNCIA DA SÚMULA 280/STF.
+1. O Tribunal de origem, soberano na análise das provas, afirmou que não houve cerceamento de defesa, no presente caso. Assim, para afastar o entendimento a que chegou a Corte a quo, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." 2. A discussão acerca da base de cálculo demandaria o exame de legislação local, tendo em vista que o Tribunal de origem adotou como fundamento do decisum a Lei estadual n. 10.259/1989 e o Decreto estadual n. 27.764/2005.
+3. Tal circunstância torna inviável o acolhimento do recurso especial, consoante a aplicação analógica do enunciado 280 constante da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." 4. Os mesmos óbices aplicáveis ao recurso especial interposto com base na alínea "a" impedem a análise do recurso especial fundado na alínea "c".
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1323271/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 29/04/2020, DJe 05/05/2020)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. IPVA. LOCADORA DE VEÍCULOS. MATÉRIA DECIDIDA À LUZ DA LEGISLAÇÃO ESTADUAL. SÚMULA N. 280/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
