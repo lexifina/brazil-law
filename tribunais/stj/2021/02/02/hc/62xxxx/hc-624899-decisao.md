@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GERALDO BRUNO DA SILVA VITOR no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás.
+Consta dos autos que, comunicado acerca do flagrante, o Juízo de Catalão/GO converteu a prisão de GERALDO em preventiva, pelo suposto crime previsto no art. 33 da Lei n. 11.343/2006, ante a apreensão de aproximadamente 15kg (quinze quilos) de maconha.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça, que denegou a ordem nos termos da ementa assim definida (e-STJ fl. 129):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NEGATIVA DE AUTORIA. NÃO CONHECIMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO DE MANUTENÇÃO DA PRISÃO PREVENTIVA. INOCORRÊNCIA. DECISÃO DEVIDAMENTE FUNDAMENTADA E JUSTIFICADA. PREDICADOS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. 1) É incabível examinar, na via estreita do habeas corpus, matérias referentes ao mérito, como ausências de provas da autoria e materialidade ou desclassificação do delito, por demandar dilação probatória e aprofundado exame dos elementos de convicção. 2) Presente nos autos decisão constritiva de liberdade, a qual encontra-se satisfatoriamente justificada, eis que alicerçada em fundamentos concretos dos autos, e assentada na necessidade de garantia da ordem pública e conveniência da instrução criminal, mormente em razão da grande quantidade de droga apreendida, não se evidencia ilegalidade a reclamar a sua desconstituição, sendo irrelevante a alegação de que são bons os predicados pessoais. ORDEM PARCIALMENTE CONHECIDA E, NESSA PARTE, DENEGADA.
+A presente impetração funda-se na alegação de falta de fundamentação idônea para a decretação da segregação cautelar, porquanto não preenchido nenhum dos requisitos legais para tanto (e-STJ fl. 5).
+Alega a defesa, outrossim, que "o paciente é primário, nunca praticou delito algum em toda sua vida, é trabalhador, possui residência fixa, trabalha honestamente como motorista de aplicativo na cidade de Uberlândia, estado de Minas Gerais, para diariamente prover o seu sustento e de sua família" (e-STJ fl. 8).
+Diante disso, pleiteia, em liminar e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi por mim indeferido (e-STJ fls. 188/189).
+Prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 218/219).
+É, em síntese, o relatório.
+Decido.
+O objeto da presente impetração cinge-se à verificação da existência de fundamentação no decreto que impôs a segregação cautelar ao paciente.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus comissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, inciso LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, foram estes os fundamentos invocados para a conversão da prisão em flagrante em preventiva(e-STJ fl. 22):
+Os autuados foram flagrados na posse de aproximadamente 15 (quinze) quilos de droga, fato que revela a gravidade concreta da conduta praticada e a necessidade da prisão preventiva para a garantia da ordem pública, ante o notável acesso dos sujeitos a elevados volumes de entorpecentes.
+Ademais, sabe-se que é iterativo o entendimento dos tribunais de que os atributos favoráveis dos agentes, tais como primariedade, bons antecedentes, endereço fixo, etc, não bastam para a concessão da liberdade provisória, se presentes os requisitos da custódia preventiva, como é o caso dos autos.
+Infere-se, portanto, a necessidade da custódia cautelar dos flagrados, visando proteger o meio social e garantir a ordem pública.
+Vê-se, da leitura do decreto combatido, que a prisão preventiva foi decretada em decorrência da gravidade concreta da conduta imputada ao paciente, que, na companhia de outro indivíduo, foi flagrado transportando para a cidade de Catalão/MG expressiva quantidade de substância entorpecente, aproximadamente 15kg (quinze quilogramas) de maconha.
+Dessarte, justifica-se a manutenção da prisão preventiva, nos termos do art. 312 do Código de Processo Penal, a fim de acautelar a ordem pública, haja vista a grande quantidade de droga apreendida em poder do paciente, bem como de fazer cessar a atividade delitiva.
+Na linha da orientação firmada nesta Corte, tais circunstâncias autorizam a imposição da segregação cautelar. Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A decisão que decreta ou mantém a prisão preventiva tem que ser fundada em motivação concreta, vedadas considerações abstratas sobre a gravidade do crime.
+2. Na espécie, houve a apresentação de fundamentação idônea para conversão da prisão em flagrante em preventiva (quantidade da droga apreendida - 113 porções de cocaína).
+3. Ordem denegada. (HC 350.643/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/05/2016, DJe 16/05/2016.)
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE ENTORPECENTES. FUNDAMENTAÇÃO CONCRETA. EXCESSO DE PRAZO. SÚMULA 52 DO STJ. ILEGALIDADE. AUSÊNCIA. RECURSO IMPROVIDO.
+1. Apresentada fundamentação concreta para a decretação da prisão preventiva, evidenciada na quantidade e variedade das drogas apreendidas, bem como das circunstâncias em que encontradas, não há que se falar em ilegalidade a justificar a concessão da ordem de habeas corpus.
+2. Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo (Súmula 52/STJ).
+3. Recurso em habeas corpus improvido. (RHC 69.164/PI, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/04/2016, DJe 02/05/2016.)
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO SUFICIENTE. HABEAS CORPUS DENEGADO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que a determinação de segregar o réu, antes de transitada em julgado a condenação, deve efetivar-se apenas se indicada, em dados concretos dos autos, a necessidade da cautela (periculum libertatis), à luz do disposto no art. 312 do CPP.
+2. O Juízo de primeiro grau apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, evidenciada pela gravidade concreta da conduta delitiva, ao destacar a considerável quantidade e a diversidade das drogas apreendidas, a saber, 32 pinos de cocaína (21,22 g), 5 pinos de crack (2,73 g) e 23 porções de maconha (21,57 g), além dos já citados apetrechos relacionados à prática delitiva como, por exemplo, "saquinho (sic) plásticos comumente utilizados para embalar droga" (fl. 22). Aduziu, ainda, a decisão impugnada que a traficância ilícita de drogas estava relacionada com a prática de roubos.
+3. Habeas corpus denegado. (HC 332.839/SP, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/02/2016, DJe 25/02/2016.)
+Assim, os fundamentos acima delineados indicam a necessidade de manter o paciente segregado, não se revelando adequado, por outro lado, possibilitar-lhe responder ao processo em liberdade.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
