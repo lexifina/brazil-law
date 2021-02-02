@@ -1,0 +1,21 @@
+DECISÃO
+EMBARGOS DE DECLARAÇÃO NA AÇÃO CÍVEL ORIGINÁRIA. PARAÍBA. REGIME PÚBLICO DE PREVIDÊNCIA SOCIAL. EMISSÃO DE CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA. DEMONSTRATIVO DE INFORMAÇÕES PREVIDENCIÁRIAS E REPASSES – DIPR. LEI FEDERAL N. 9.717/1998. DECRETO N. 3.788/2001. ABSTENÇÃO DE INSCRIÇÃO DE ESTADO-MEMBRO NO CADPREV, CAUC E CADIN. AÇÃO JULGADA PARCIALMENTE PROCEDENTE. NECESSIDADE DE ESCLARECIMENTOS SOBRE O ALCANCE DA DECISÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+Relatório
+    1. Ação cível originária, com requerimento de medida liminar, ajuizada pela Paraíba, em 23.5.2018, contra a União para obter a declaração de inconstitucionalidade formal e material da Lei n. 9.717/1998 e do Decreto n. 3.788/2001, a renovação do Certificado de Regularidade Previdenciária – CRP e não ser incluída no Sistema de Informações dos Regimes Públicos de Previdência Social – CADPREV ou demais cadastros de inadimplência pelas sanções contidas no art. 7º da Lei n. 9.717/1998.
+    2. Em 7.5.2020, julguei parcialmente procedente a ação para determinar à União que emitisse o Certificado de Regularidade Previdenciária – CRP ou renovasse-o, se fosse o caso, e se abstivesse de incluir a Paraíba no Sistema de Informações dos Regimes Públicos de Previdência Social – Cadprev ou em qualquer outro cadastro federal de inadimplência.
+    3. Pela Petição/STF n. 6000/2020, a União opõe embargos de declaração pedindo esclarecimento sobre o alcance da decisão embargada (e-doc. 47).
+    Explica que “o pleito autoral decorre de irregularidade relacionada ao item Demonstrativo de Informações Previdenciárias e Repasses – DIPR, ‘decorrente da ausência de pagamento da parte patronal por parte do Tribunal de Justiça do Estado da Paraíba (meses de dezembro e março) e da Universidade Estadual da Paraíba (mês de dezembro)” (fl. 4, e-doc. 46).
+    Alega que “a decisão final de mérito, por seu turno, determinou na parte dispositiva – sem expressamente vincular tais ordens às irregularidades discutidas nesta demanda – que a União ‘emita o Certificado de Regularidade Previdenciária – CRP ou renove-o, se for o caso, e abstenha-se de incluir a Paraíba no Sistema de Informações dos Regimes Públicos de Previdência Social – Cadprev ou em qualquer outro cadastro federal de inadimplência” (fls. 4-5, e-doc. 46).
+    Afirma que “o provimento judicial se encontra restrito aos limites objetivos da lide, por força do princípio da adstrição entre o objeto da ação e o objeto da sentença” (fl. 5, e-doc. 46).
+    Alerta que “faz-se necessário suprir a omissão ora apontada, a fim de que conste expressamente que o provimento final de mérito se limita à irregularidade apontada na petição inicial” (fl. 7, e-doc. 46).
+    Pede sejam acolhidos os embargos de declaração para, “sanada a omissão apontada, sejam esclarecidos os pontos levantados, sem prejuízo deste ente público aviar o competente recurso em face da decisão final de mérito no momento oportuno” (fl. 8, e-doc. 46).
+    Paraíba apresenta contrarrazões e alega que a “decisão embargada está totalmente adstrita aos pedidos formulados na inicial da presente ACO, e acolheu o pedido na forma como deduzido pelo Estado ora embargado” (fl. 2, e-doc. 49).
+    Analisados os elementos havidos no processo, DECIDO.
+    4. Assiste razão à embargante.
+    Conforme ressaltei no relatório da decisão embargada, a Paraíba afirmou ter sido apontada irregularidade denominada de Demonstrativo de Informações Previdenciárias e Repasses – DIPR, “decorrente da ausência de pagamento da parte patronal por parte do Tribunal de Justiça do Estado da Paraíba (meses de dezembro e março) e da Universidade Estadual da Paraíba (mês de dezembro)” (fl. 2, e-doc. 39).
+    Essa delimitação não constou da parte dispositiva da decisão.
+    5. Pelo exposto, acolho os embargos de declaração, sem efeito modificativo, apenas para explicitar que a ação foi julgada procedente para determinar à União que emita o Certificado de Regularidade Previdenciária – CRP ou renove-o, se for o caso, e abstenha-se de incluir a Paraíba no Sistema de Informações dos Regimes Públicos de Previdência Social – Cadprev ou em qualquer outro cadastro federal de inadimplência, quanto às irregularidades apontadas na petição inicial (§ 2º do art. 1.024 do Código de Processo Civil).
+    Publique-se.
+    Brasília, 2 de fevereiro de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
