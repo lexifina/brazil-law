@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de RENATO LUIZ DA COSTA ORSIM, contra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2080747-05.2020.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 21/4/2020 por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de entorpecentes). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão acostado às fls. 87/90.
+No presente mandamus,alega nulidade da prisão em flagrante decorrente de tortura infligida ao recorrente pelos policiais militares. Pontua que o exame de corpo de delito do IML não foi juntado aos autos.
+Afirma que o paciente é usuário de drogas e que estava no local onde foi efetuada a prisão para adquirir entorpecentes para o seu consumo pessoal. Argumenta que o corréu assumiu a propriedade integral das drogas apreendidas.
+Aponta o risco de contaminação do acusado por Covid-19, sendo recomendável medidas diversas da prisão, pois o crime imputado é cometido sem violência ou grave ameaça.
+Requer, liminarmente e no mérito, a concessão de liberdade provisória ao paciente ou, alternativamente, a prisão domiciliar.
+A liminar foi indeferida às fls. 97/98. Informações prestadas às fls. 105/127 e 131/136. O Ministério Público Federal opinou pelo não conhecimento dowritem parecer acostado às fls. 138/143.
+É o relatório.
+Inicialmente, em consulta ao andamento processual no sítio eletrônico do Tribunal de origem, verifica-se que, na Ação Penal n. 1501101-08.2020.8.26.0548, que aqui se cuida, em 1º/12/2020, foi revogada a prisão preventiva do paciente, tendo sido expedido alvará de soltura em seu favor.
+Desse modo, constata-se a perda superveniente do objeto do presente mandamus nesse ponto.
+Noutro giro, com relação à alegada nulidade da prisão em flagrante e a negativa de autoria, conforme se vêda leitura integral do acórdão impugnado, as questões não foram examinadas na Corte de origem. Com isso, resta afastada a competência do Superior Tribunal de Justiça para a análise das matérias trazidas no presente writ, a qual deve ser previamente apreciadas por órgão colegiado do Tribunal a quo, sob pena de se incidir em indevida supressão de instância.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIDO LIMINARMENTE. TRÁFICO DE ENTORPECENTES. RELAXAMENTO DA PRISÃO PREVENTIVA. MATÉRIA NÃO VEICULADA NO MANDAMUS DA ORIGEM. TESES DE DOSIMETRIA. PENDÊNCIA DE JULGAMENTO DA APELAÇÃO CRIMINAL. MATÉRIAS NÃO EXAMINADAS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO DO WRIT NA ORIGEM. LEGALIDADE. ENTENDIMENTO PACIFICADO PELA TERCEIRA SEÇÃO DESTA CORTE SUPERIOR. AGRAVO DESPROVIDO.
+- Este Superior Tribunal de Justiça não poderia, originariamente, decidir acerca do pedido de relaxamento da prisão preventiva, que não foi veiculado no writ da origem, sob pena de incorrer em indevida supressão de instância.
+- Como é de conhecimento, a Terceira Seção do Superior Tribunal de Justiça, no julgamento do Habeas Corpus n. 482.549/SP, firmou o entendimento de que a interposição do recurso cabível contra o ato impugnado e a concomitante impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita imediatamente na liberdade do paciente. Nas demais hipóteses, o habeas corpus não deve ser admitido e o exame das questões idênticas deve ser reservado ao recurso previsto para a hipótese, ainda que a matéria discutida resvale, por via transversa, na liberdade individual (HC n. 482.549/SP, Ministro ROGERIO SCHIETTI CRUZ, Terceira Seção, DJe de 3/4/2020).
+- Não se verifica ilegalidade no fato de o Tribunal de origem não ter analisado a matéria relativa à dosimetria da pena em sede de habeas corpus, uma vez que o tema, além de não impactar diretamente na liberdade do paciente, será oportunamente examinado no recurso pendente de julgamento.
+- Agravo regimental desprovido(AgRg no HC 625.102/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/12/2020, DJe 07/12/2020).
+Pelo exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se
