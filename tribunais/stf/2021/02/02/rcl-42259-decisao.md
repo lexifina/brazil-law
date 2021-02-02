@@ -1,0 +1,40 @@
+Decisão: Trata-se de reclamação, com pedido de liminar, proposta por AUTO MOTO ESCOLA AVANT LTDA -ME e outros contra decisão proferida pelo Juízo da 1ª Vara da Comarca de Jandira, confirmada pelo Tribunal de Justiça do Estado de São Paulo, nos autos do processo n. 2075475-30.2020.8.26.0000, por suposto desrespeito à autoridade do decidido por esta Corte na ADI 2.998/DF.
+    Na origem, foi proposta ação desconstitutiva em face do Departamento Estadual de Trânsito de São Paulo, objetivando a suspensão da tramitação e dos efeitos do Processo Administrativo Disciplinar 208/18, além da declaração incidental de inconstitucionalidade ou ilegalidade da Portaria 101/2016 do DETRAN/SP e da Resolução 358/2010 do CONTRAN.
+    Consta dos autos que o pedido de tutela de urgência foi indeferido sob o fundamento de que o ato administrativo é dotado de presunção de legalidade e de legitimidade e que nele constam indícios das irregularidades apuradas por agentes públicos. Interposto agravo de instrumento, a 5ª Câmara de Direito Público manteve o indeferimento do pedido de tutela provisória de urgência.
+    A reclamante sustenta, em síntese, que o ato judicial reclamado, ao considerar válida autuação administrativa que se fundamentou apenas na resolução n. 358/2010 do Conselho Nacional de Trânsito, acabou por violar a decisão proferida por esta Corte na referida ação direta de inconstitucionalidade. Defende que a base normativa para a autuação foi apenas a Resolução, e não o Código de Trânsito Brasileiro,
+    Sustenta, em síntese: a inconstitucionalidade da Resolução 358/10 do Conselho Nacional de Trânsito e da Portaria 101/16 do Departamento Estadual de Trânsito, por inobservância do princípio da reserva legal; o desrespeito à autoridade da decisão proferida pela Suprema Corte no julgamento da ADI 2.998/DF; vício de competência quanto ao ato de instauração, instrução e julgamento do processo administrativo; violação do devido processo legal administrativo; ausência de justa causa para imposição da penalidade.
+    Requereu liminarmente a suspensão dos efeitos do Processo Administrativo Disciplinar n. 208/2018. Após a regular instrução e processamento, requer seja julgada totalmente procedente a reclamação para cassar a decisão administrativa proferida.
+    Contestação apresentada pelo Estado de São Paulo no eDOC 88.
+    As informações foram prestadas nos eDOC 87.
+    A Procuradoria-Geral da República opinou pelo não conhecimento da reclamação, em parecer assim ementado:
+    RECLAMAÇÃO. CONSTITUCIONAL. ADMINISTRATIVO. RESOLUÇÃO 358/2010 DO CONTRAN. ALEGADO DESCUMPRIMENTO DA DECISÃO PROFERIDA NA ADI 2.998/DF. AUSÊNCIA DE ESTRITA ADERÊNCIA ENTRE A DECISÃO RECLAMADA E O PARADIGMA. NÃO CONHECIMENTO DA RECLAMAÇÃO. 1. Reclamação ajuizada por suposta afronta à autoridade da decisão proferida na ADI 2.998/DF. 2. Inexistindo identidade material entre a decisão reclamada e o paradigma apontado, há de se reconhecer ausentes os requisitos processuais viabilizadores do regular trâmite da reclamação. — Parecer pelo não conhecimento da reclamação, prejudicado o pedido de medida liminar. (eDOC 93)
+    É o relatório. Decido.
+    Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência, garantia da autoridade de suas decisões e da observância das Súmulas Vinculantes (arts. 102, I, l, e 103-A, § 3º da CF/88). Nesse sentido, o Código de Processo Civil de 2015 também regulamentou a matéria e assentou as seguintes hipóteses de cabimento da reclamação:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…).
+    Entretanto, no caso em apreço não se verifica nenhuma dessas hipóteses.
+    A reclamante alega ofensa à decisão proferida em sede de controle concentrado pelo Plenário do STF, na ADI 2.998, cuja ementa recebeu a seguinte redação:
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. IMPUGNAÇÃO A DIVERSOS DISPOSITIVOS CONSTANTES DO CÓDIGO DE TRÂNSITO BRASILEIRO – CTB. PREJUDICIALIDADE DA ANÁLISE QUANTO AO ART. 288, § 2°; IMPROCEDÊNCIA DA AÇÃO COM RELAÇÃO AOS ARTS. 124, VIII; 128 E 131, § 2°. APLICAÇÃO DE INTEPRETAÇÃO CONFORME AO PARÁGRAFO ÚNICO DO ART. 161: IMPOSSIBILIDADE DE ESTABELECIMENTO DE SANÇÃO POR PARTE DO CONSELHO NACIONAL DE TRÂNSITO - CONTRAN. CONTRARIEDADE AO PRINCÍPIO DA RESERVA LEGAL: INCONSTITUCIONALIDADE DA EXPRESSÃO ‘OU RESOLUÇÕES DO CONTRAN’ CONSTANTE DO CAPUT DO ART. 161. AÇÃO JULGADA PARCIALMENTE PROCEDENTE.
+    I – O § 2° do art. 288 do CTB foi revogado pela Lei 12.249/2010.
+    II – Não há qualquer inconstitucionalidade quanto aos arts. 124, inciso VIII; 128; 131, § 2º.
+    III - É inconstitucional o estabelecimento de sanção por parte do Conselho Nacional de Trânsito – CONTRAN. Ação julgada procedente quanto ao parágrafo único do art. 161.
+    IV – A expressão ‘ou das resoluções do CONTRAN’ constante do caput do art. 161 contraria o princípio da reserva legal.
+    V – Ação julgada parcialmente procedente.” (ADI 2.998/DF, em que fui designado como Relator para Acórdão, Tribunal Pleno)
+    No julgamento da referida ação, a Suprema Corte pontuou que o reconhecimento do espaço normativo conformador conferido ao CONTRAN pelo Código de Trânsito Brasileiro não autoriza que o órgão edite atos normativos que extrapolem os limites do arcabouço legal pertinente.
+    O art. 161 (caput e parágrafo único) do Código de Trânsito Brasileiro, que foi objeto de análise em sede de controle, está inserido no Capítulo XV, que trata sobre as infrações de trânsito praticas por condutores, proprietários de veículos e pedestres.
+    Não se vislumbra na espécie ofensa ao precedente indicado. A Resolução 358/2010 do CONTRAN,  que regulamenta o credenciamento de instituições ou entidades públicas ou privadas para o processo de capacitação, qualificação e atualização de profissionais, e de formação, qualificação, atualização e reciclagem de candidatos e condutores e dá outras providências, dispõe sobre o procedimento administrativo para aplicação daquilo que se prevê no art. 12, inciso X, do Código de Trânsito Brasileiro, in verbis:
+    Art. 12. Compete ao CONTRAN:
+    I - estabelecer as normas regulamentares referidas neste Código e as diretrizes da Política Nacional de Trânsito;
+     (…)
+    X - normatizar os procedimentos sobre a aprendizagem, habilitação, expedição de documentos de condutores, e registro e licenciamento de veículos;
+    Conforme se extrai do relatório opinativo constante do eDOC 71, utilizado como fundamento da decisão administrativa, as irregularidades constatadas estavam relacionadas a inserção de dados falsos no sistema, uma vez que foram encontrados, no estacionamento da autoescola, dois veículos que deveriam estar em aula. O DETRAN/SP concluiu evidenciada a prática de fraude no processo de formação e avaliação de condutores, motivo pelo qual aplicou e penalidade administrativa de cassação do registro de credenciamento da empresa e dos respectivos diretores.
+    Assim, a reclamação é incabível, por evidente ausência de estrita aderência entre a decisão reclamada e o parâmetro de controle invocado. Nesse sentido, ressalvadas as diferenças relativas ao caso concreto, cito decisões monocráticas proferidas nas seguintes reclamações: Rcl 37.548/RS, Rel. Min. Cármen Lúcia; Rcl 39.866/RS, Rel. Min. Edson Fachin; Rcl 41.529/RS, Rel. Min Luiz Fux; Rcl 37.556/RS, Rel. Min. Marco Aurélio.
+    Isso posto, nego seguimento à presente reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 2 de fevereiro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
