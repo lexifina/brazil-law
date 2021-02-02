@@ -1,0 +1,13 @@
+DECISÃO
+PATRÍCIO FERREIRA SANTOSalega sofrer coação ilegal em face de acórdão do Tribunal de Justiçaa quo.
+A Defensoria Pública acoima de ilegal a decisão que indeferiu o livramento condicional ao paciente. Aponta a ausência de fundamentação idônea e requer a declaração do benefício, em liminar e no mérito.
+Decido.
+O apenado deve preencher os requisitos objetivo e subjetivo para fazer jus ao livramento condicional.A ausência de bom comportamento durante a execução legitima o indeferimento dolivramento condicional, com base no art. 83 do Código Penal.
+O "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC 572.409/SP, 6ª T., Rel. Ministro Rogerio Schietti, DJe 10/6/2020).
+Ademais: "As faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo"(HC n. 564.292/SP, 5ª T., Rel. Ministro Joel Ilan Paciornik, DJe 23/6/2020).
+A defesa assinala que a benesse foi negadasob fundamentação inidônea, "de que seria melhor a permanência  do apenado  no regime intermediário, para aguardar sua evolução" (fl. 6). Sem razão. Essa nem sequer foi a motivação das instâncias ordinárias.
+Em 30/09/2020, o Juiz da VEC decidiu: "conquanto tenha preenchido o requisito objetivo  .. ,o sentenciado praticou faltas disciplinares durante o cumprimento da pena, uma delas consistente em prisão em flagrante durante o cumprimento de regime aberto, o que lhe custou a condenação pelo crime inscrito na 9ª GR, bem como abandono durante saída temporária, sendo-lhe reconhecida a prática de falta disciplinar grave, fatos que, apesar de não provocarem a interrupção do período aquisitivo, a teor da Súmula 441 do Egrégio STJ, são suficientes para afastar a presença do requisito subjetivo" (fl. 24).
+O Tribunal, por sua vez, tambémdestacou "apesar de cumprido o requisito objetivo,  o reeducando  cometeu falta grave recente, consistente em abandono do regime semiaberto" (fl. 7).
+O indeferimento do livramento condicional ocorreu em razão da ausência do requisito subjetivo, à vista docomportamentodesabonador do reeducando durante a execução de sua pena, o que está em consonância com o art. 83 do CP. Não é possível identificar flagrante ilegalidade que justifique a concessão da ordem.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
