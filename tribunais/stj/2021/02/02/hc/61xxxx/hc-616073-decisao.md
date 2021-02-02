@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido de liminar, impetrado em favor deCarlos Pasqual Junior,em que se aponta como autoridade coatora o Tribunal de Justiçade São Paulo (Processo n. 0003296-55.2011.8.26.0063).
+O paciente foi condenado, em segundo grau de jurisdição, às penas de 2anos, 9meses e 10 dias de reclusão, em regime semiaberto, e 27 dias-multa, pela prática do crime previsto no art. 171,caput,do Código Penal. O Tribunal de origem determinou que, encerrada aquela instância, fosse expedido mandado de prisão para a execução provisória da pena.
+Nestewrit,oimpetrante requer a concessão de liminar para a imediata soltura do paciente.
+Em um breve relato, assevera queo paciente até a data de 23/9/2020 estava em liberdade até chegar intimação deste Tribunal de São Paulo referente ao acordão da apelação em que determinava expedição de mandado de prisão, em que a Juíza de primeiro grau requereu a prisão do paciente sem se ater a inexistência de trânsito em julgado. Ressalta-se que conforme faz prova documento incluso o referido processo AINDA ESTÁ EM GRAU DE RECURSO NO SUPREMO TRIBUNAL FEDERAL AINDA NÃO TENDO TRANSITADO EM JULGADO.Portanto sendo incorreta a prisão de Carlos pois deveria estar em liberdade até o transito em julgado de seu processo(fl. 7).
+Requer, assim,a IMEDIATA CASSAÇÃO DA R. DECISÃO QUE DETERMINOU A EXPEDIÇÃO DE MANDADO DE PRISÃO, com a expedição do competente ALVARÁ DE SOLTURA em favor do paciente(fl. 12).
+Deferi o pedido de liminar,para assegurar ao paciente o direito de aguardar em liberdade o trânsito em julgado da condenação, ressalvada a possibilidade de decretação de nova prisão por decisão devidamente fundamentada.
+Solicitei, também, informações às autoridades apontadas como coatoras, as quaisforam prestadas às fls. 78/120 e123/194. Em seguida, encaminhados os autos ao Ministério Público Federal para parecer, queconcluiu pela concessão da ordem, à vista dos fundamentos sintetizados na seguinte ementa (fl. 196):
+Habeas Corpus. Estelionato. Condenação confirmada em segundo grau. Determinação de prisão antes do trânsito em julgado. Paciente que permaneceu em liberdade durante a tramitação do processo. Encarceramento que, inexistindo as condições do artigo 312 do CPP, somente pode ocorrer após o trânsito em julgado da condenação. Precedentes do STJ. Parecer pela concessão do writ, a fim de anular a prisão imposta ao paciente, confirmando-se a liminar deferida.
+É o relatório.
+Em conformidade com oParecer do Ministério Público Federal,conforme informações prestadas pelo TJSP, não houve ainda o trânsito em julgado da condenação (fls. 79/80). Noto que o fundamento da prisão está no entendimento, já superado, da possibilidade de prisão para execução da pena após a confirmação da condenação por órgão colegiado (fls. 45/46) -(fl. 196).
+Com efeito, o Pretório Excelso decidiu pela constitucionalidade do art. 283 do Código de Processo Penal, dispositivo esse que admite a prisão em flagrante, ou por ordem escrita e fundamentada, em decorrência de sentença condenatória transitada em julgado ou, no curso do processo ou investigação, em virtude de prisão provisória ou temporária.
+Por conseguinte, considerou-se inconstitucional e ilegal a execução provisória da pena pelo mero esgotamento da jurisdição ordinária.
+Ante o exposto, concedo a ordem, confirmando a liminar deferida,para cassar o acórdão no ponto em que determinou a expedição de mandado de prisão em desfavor do paciente, ressalvada a possibilidade de decretação de nova prisão por decisão devidamente fundamentada.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ESTELIONATO. CONDENAÇÃO. EXECUÇÃO DA PENA ANTES DO TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. ORIENTAÇÃO MAIS ATUAL DO STF.
+Ordem concedida nos termos do dispositivo.
