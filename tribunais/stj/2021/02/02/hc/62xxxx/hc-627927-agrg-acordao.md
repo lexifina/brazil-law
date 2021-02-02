@@ -1,0 +1,44 @@
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. MAUS ANTECEDENTES. REINCIDÊNCIA ESPECÍFICA. REITERAÇÃO CRIMINOSA CONFIGURADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, este Tribunal Superior tem entendimento pacificado no sentido de que há a atipicidade material da conduta pela incidência do princípio da insignificância quando estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+III - In casu, a despeito do baixo valor atribuído à res furtiva - R$ 70,00 (setenta reais) -, nos termos da jurisprudência deste Sodalício, "não se aplica o princípio da insignificância ao reincidente específico" (AgRg no AREsp n. 1.019.592/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 17/02/2017). Ademais, nota-se que o paciente possui maus antecedentes (fl. 219), situação a configurar junto com a reincidência específica a reiteração criminosa, circunstância apta a afastar o princípio da bagatela. Confira-se: HC n. 507.090/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 07/06/2019; HC n. 584.268/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/06/2020; e AgRg no REsp n. 1.483.580/RS, Quinta Turma, Rel. Min. Walter de Almeida Guilherme (Desembargador convocado do TJ/SP), DJe de 02/02/2015).
+Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por ISAC ZEFERINO SOUZA contra a decisão de fls. 254-256, que não conheceu do habeas corpus.
+Nas razões do presente inconformismo (fls. 262-269), a parte agravante alega que o furto qualificado por si só não impede a aplicação do princípio da insignificância.
+Pondera que "o modus operandi não extrapola o tipo penal, pois se furtou apenas R$ 70,00 da máquina registradora do caixa, sem operador, tendo sido percebido por colaboradores que na sequência foram atrás do paciente e recuperaram tais valores" (fl. 267).
+Sustenta que a reincidência não é suficiente para afastar a benesse pleiteada.
+Requer a reconsideração do decisum agravado ou a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+DIREITO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. MAUS ANTECEDENTES. REINCIDÊNCIA ESPECÍFICA. REITERAÇÃO CRIMINOSA CONFIGURADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, este Tribunal Superior tem entendimento pacificado no sentido de que há a atipicidade material da conduta pela incidência do princípio da insignificância quando estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+III - In casu, a despeito do baixo valor atribuído à res furtiva - R$ 70,00 (setenta reais) -, nos termos da jurisprudência deste Sodalício, "não se aplica o princípio da insignificância ao reincidente específico" (AgRg no AREsp n. 1.019.592/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 17/02/2017). Ademais, nota-se que o paciente possui maus antecedentes (fl. 219), situação a configurar junto com a reincidência específica a reiteração criminosa, circunstância apta a afastar o princípio da bagatela. Confira-se: HC n. 507.090/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 07/06/2019; HC n. 584.268/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/06/2020; e AgRg no REsp n. 1.483.580/RS, Quinta Turma, Rel. Min. Walter de Almeida Guilherme (Desembargador convocado do TJ/SP), DJe de 02/02/2015).
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER (Relator): Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+A parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, assim proferida:
+"A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a absolvição do paciente, ante a aplicação do princípio da insignificância.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Na hipótese em apreço, em que pese o valor ínfimo subtraído, segundo consta na peça acusatória (R$ 70,00 - fls. 60-62, que perfaz aproximadamente 7% do salário mínimo vigente à época dos fatos), não se mostra possível afirmar que é mínimo o grau de reprovabilidade do comportamento do apelante, ainda que tenha sido restituído os valores ao proprietário, visto que o presente caso não representa um fato isolado em sua vida, já que é reincidente.
+Ademais, consoante a certidão de antecedentes criminais (fl. 46), o apelante é reincidente específico em crime de furto (processo n. 0010614-87.2012.8.24.0038), fato este que maximiza o grau de reprovabilidade do comportamento do agente e, por conseguinte, impede a aplicação do instituto.
+A concessão do benefício, ademais, não pode servir de incentivo à prática de pequenos delitos, sendo destinada a casos específicos em que a prática do crime caracterize exceção na vida pregressa do agente, bem como a lesão ao bem jurídico seja irrelevante ao direito criminal.
+ ..
+Desse modo, na situação vertente, não ficou demonstrado o reduzido grau de reprovabilidade do comportamento do apelante, motivo pelo qual não há como reconhecer a atipicidade material da conduta decorrente do princípio da insignificância" (fls. 190-192).
+Com efeito, este Tribunal Superior tem entendimento pacificado no sentido de que há a atipicidade material da conduta pela incidência do princípio da insignificância quando estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+A despeito do baixo valor atribuído à res furtiva - R$ 70,00 (setenta reais) -, nos termos da jurisprudência deste Sodalício, "não se aplica o princípio da insignificância ao reincidente específico" (AgRg no AREsp n. 1019592/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 17/02/2017).
+Ademais, nota-se que o paciente possui maus antecedentes (fl. 219), situação a configurar junto com a reincidência específica a reiteração criminosa, circunstância apta a afastar o princípio da bagatela. Confira-se: HC n. 507.090/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 07/06/2019; HC 584.268/PR, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 23/06/2020; e AgRg no REsp n. 1483580/RS, Quinta Turma, Rel. Min. Walter de Almeida Guilherme (DESEMBARGADOR CONVOCADO DO TJ/SP), DJe 02/02/2015).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I."
+A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
