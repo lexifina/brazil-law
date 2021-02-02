@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo DISTRITO FEDERAL contra acórdão assim ementado (e-STJ fl. 137):
+APELAÇÃO CÍVEL. PROCESSO CIVIL E TRIBUTÁRIO. TERCEIRO PREJUDICADO. ARROLAMENTO SUMÁRIO. PARTILHA AMIGÁVEL. HOMOLOGAÇÃO DA PARTILHA DE BENS. PAGAMENTO DOS IMPOSTOS GERADOS PELOS BENS DO ESPÓLIO. OBRIGATORIEDADE. RECOLHIMENTO PRÉVIO DE ITCMD. DESNECESSIDADE.
+1. No CPC/1973, a expedição do formal de partilha estava condicionada à certificação do trânsito em julgado da sentença de homologação e verificação pela Fazenda Pública do pagamento de todos os tributos devidos, inclusive o ITCMD.
+2. A seu turno, o art. 659, § 2o, do CPC/I5 prescreve bastar o trânsito cm julgado da decisão que homologa a partilha dos bens do espólio para a expedição dos alvarás competentes, ressalvando a intimação do Fisco em momento posterior, a fim de que promova administrativamente o lançamento dos tributos pertinentes, que não podem ser objeto de discussão no arrolamento de bens.
+3. A nova regulação da matéria não afronta o disposto no art. 192 do CTN, mas apenas dissocia a ultimação do processo de arrolamento sumário da obrigação de pagamento dos tributos de transmissão da propriedade dos bens do espólio, cabendo ainda ao Fisco realizar a cobrança do referido imposto e demais tributos eventualmente devidos em procedimento administrativo.
+4. Diante das modificações legislativas referentes ao tema, em se tratando de arrolamento sumário, o magistrado deve exigir a comprovação de recolhimento dos tributos relativos aos bens do espólio e às suas rendas para homologar a partilha e, após o trânsito em julgado da sentença, expedir os formais de partilha e cartas de adjudicação, encerrando o processo, independentemente do pagamento do imposto de transmissão - ITCMD.
+5. Apelação conhecida e parcialmente provida.
+Por meio da Petição n. 01064913/2020, o recorrente, ora requerente, informa acompetência da Primeira Seção, em razão da natureza da relação jurídica discutida no processo.
+Nos autos, discute-se a obrigatoriedade do recolhimento o ITCMDantes dahomologação da partilha de bens, matéria que se insere na competência da Primeira Seção (art. 9º, § 1º, IX do RISTJ).
+Em face do exposto, determino a remessa dos autos à Coordenadoria de Análise e Classificação de Temas Jurídicos e Distribuição de Feitos, para que proceda à redistribuição do processo a uma das Turmas que integram a Primeira Seção.
+Publique-se.
