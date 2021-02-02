@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 15):
+HABEAS CORPUS PREVENTIVO. OPERAÇÃO HOMEM ANJO. HOMICÍDIO. TRÁFICO INTERNACIONAL DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO TEMPORÁRIA DECRETADA. EXPEDIÇÃO DE SALVO CONDUTO. TRANCAMENTO DO INQUÉRITO POLICIAL. IMPOSSIBILIDADE.
+1. A legalidade do decreto de prisão temporária do paciente já foi analisada nos autos do HC nº 5020991-59.2020.4.04.0000, impetrado anteriormente pela defesa do paciente, tendo esta 7J Turma, em sessão realizada em 30-06-2020, decidido, por unanimidade, denegar a ordem de habeas corpus.
+2. Consoante restou assentado naquela ocasião, existem indícios robustos do envolvimento do paciente com a organização criminosa investigada, por ser o responsável pelo fornecimento das embarcações por ela utilizadas, sendo que a tese de que o paciente não sabia da destinação ilícita das embarcações, mesmo referindo que nessa região fronteiriça isso é muito comum, necessita de dilação probatória para a sua confirmação.
+3. O fato de o paciente ainda não ter sido encontrado para o cumprimento do mandado de prisão, além de reforçar as suspeitas que recaem sobre a sua pessoa, indicam, também, que este, ao contrário do sustenta a sua defesa, não quer colaborar com as investigações.
+4. Ausentes fatos novos a ensejar a revisão de tal entendimento, não merece acolhimento o pleito de expedição de salvo conduto em favor do paciente, o mesmo ocorrendo com o pedido de trancamento do inquérito policial, pois existem fundados indícios de que este colabora com organização criminosa voltada para o contrabando, o descaminho e o tráfico internacional de drogas por meio fluvial, não havendo motivos para frear as investigações, ao menos no presente momento.
+5. Ordem de habeas corpus denegada.
+Consta dos autos prisão temporária decreta no bojo da Operação Homem Anjo, na qual se investigam crimes de associação criminosa, tráfico internacional de drogas e homicídio.
+Alega, em síntese, o impetrante que não estão preenchidos os requisitos autorizadores da cautelar de prisão, bem como que o paciente não praticou nenhum crime, inexistindo provas ou mesmo condutas típicas.
+Busca a revogação da prisão decretada e o trancamento do inquérito policial.
+A liminar foi indeferida e a manifestação ministerial pelo não conhecimento.
+É o relatório.
+DECIDO.
+Como consignado no exame liminar, em consulta ao sistema processual eletrônico desta Corte Superior, verificou-se que o presente writ, quanto à prisão temporária, é mera reiteração do habeas corpus 594.286/PR, denegado em 3/8/2020.
+Acerca do pleito de trancamento do inquérito policial por insuficiência de provas, assim se manifestou o Tribunal local (fl. 11/12):
+Consoante restou assentado naquela ocasião, existem indícios robustos do envolvimento do paciente com a organização criminosa investigada, por ser o responsável pelo fornecimento das embarcações por ela utilizadas.
+Note-se que a condição de construtor dos barcos não é negada pela sua defesa, a qual insiste na tese de que o paciente não sabia da destinação ilícita das embarcações, mesmo referindo que nessa região fronteiriça isso é muito comum, necessitando de dilação probatória para a sua confirmação.
+Ademais, o fato de o paciente ainda não ter sido encontrado para o cumprimento do mandado de prisão, além de reforçar as suspeitas que recaem sobre a sua pessoa, indicam, também, que este, ao contrário do que sustenta o impetrante, não quer colaborar com as investigações.
+ ..
+Dessa forma, não havendo fatos novos a ensejar a revisão de tal entendimento, não merece acolhimento o pleito de expedição de salvo conduto em favor do paciente, o mesmo ocorrendo com o pedido de trancamento do inquérito policial, pois, como dito, existem fundados indícios de que este colabora com organização criminosa voltada para o contrabando, o descaminho e o tráfico internacional de drogas por meio fluvial, não havendo motivos para frear as investigações, ao menos no presente momento.
+Como se observa, o Tribunal local atestou a existência de fortes indícios do envolvimento do paciente com a prática criminosa, o que justifica a manutenção das investigações.
+Nos termos da jurisprudência da Corte, otrancamento do inquérito policial, assim como da ação penal, é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria e de provas sobre a materialidade do delito, veja-se:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. CRIME DE HOMICÍDIO CULPOSO POR OMISSÃO DE SOCORRO MÉDICO. DENÚNCIA QUE DESCREVE QUE A AGRAVANTE SE RECUSOU A REALIZAR ATENDIMENTO MÉDICO-HOSPITALAR ALEGANDO "INCAPACIDADE PARA TRABALHAR PELO NERVOSISMO". FALTA DE ATENDIMENTO CÉLERE E EFICAZ, DURANTE SEU PLANTÃO MÉDICO. TRANCAMENTO DA AÇÃO PENAL, SOB OS ARGUMENTOS DE ATIPICIDADE DA CONDUTA E AUSÊNCIA DE JUSTA CAUSA. IMPOSSIBILIDADE.
+MEDIDA EXCEPCIONAL. DEMONSTRAÇÃO DE MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. O trancamento do inquérito policial, assim como da ação penal, é medida excepcional, só sendo admitida quando dos autos emergirem, de plano, e sem a necessidade de exame aprofundado e exauriente das provas, a atipicidade da conduta, a existência de causa de extinção da punibilidade e a ausência de indícios de autoria e de provas sobre a materialidade do delito.
+2. A angusta via do habeas corpus não permite que as teses de maior indagação ou questionamentos jurídicos ou probatórios, como, por exemplo, se a omissão foi penalmente relevante ou não, sejam examinadas a contento, porquanto ação de manejo rápido.
+3. Demonstrada a materialidade e havendo indícios suficientes da autoria, há que ser reconhecida a justa causa para o oferecimento da denúncia pelo Ministério Público e seu recebimento pela autoridade Judiciária.
+4. O Tribunal de origem reconheceu a higidez da acusação. O princípio constitucional do devido processo legal substancial exige que o processo tenha um desfecho qualitativo, desbordando na condenação ou absolvição dos acusados, não podendo ser encerrado de maneira imotivada e prematura. Precedentes.
+5. A análise acerca das conclusões do laudo pericial, da conduta da agravante e suas consequências deve ser feita pelas instâncias ordinárias, em cognição vertical e exauriente. Ademais, o magistrado deve se valer da pletora probatória contida nos autos para, dentro de uma livre apreciação das provas, chegar a uma conclusão qualitativa.
+6. Agravo regimental desprovido.
+(AgRg no RHC 128.524/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 15/12/2020)
+Assim, inviável o trancamento do inquérito policial na espécie, já que paradesconstituir as conclusões das instâncias ordinárias acerca da existência de indícios delitivos, acolhendo a tese de insuficiência probatória, é medida que impõe o profundo exame dos elementos informativos dos autos, o que é vedadopela via dohabeas corpus.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
