@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por JEAN RODRIGUES DA SILVA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.501845-0/000).
+O recorrente foi preso preventivamente, pela suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade e variedade de drogas apreendidas (14,78g de maconha e 32,53cg de cocaína).
+O Tribunal de origem manteve a custódia cautelar com base na variedade das drogas apreendidas e na reincidência específica do recorrente.
+O recorrente argumenta estarem ausentes os requisitos autorizadores da prisão preventiva.
+Ressalta primariedade, bons antecedentes e residência fixa como bons predicados.
+Requer a concessão de liminar para a revogação de sua prisão preventiva ou a substituição da custódia por medidas cautelares alternativas (art. 319 do CPP).
+O pedido de liminar foi indeferido às fls. 144-145.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso emhabeas corpus (fls. 277-279).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 129):
+Observa-se, ao exame do writ, que o Magistrado, ao converter a prisão em flagrante em prisão preventiva, o fez de modo fundamentado, como determina o art. 93, inciso IX, da Constituição Federal, que prevê o Princípio do livre convencimento fundamentado ou da persuasão racional do juiz (Ordens nº 07).
+Ademais, conforme se verifica da CAC, o paciente é reincidente, já tendo sido definitivamente condenado por delito da mesma natureza (tráfico ilícito de entorpecentes), anteriormente ao cometimento fato sub judice. Nesse viés, existe a necessidade da manutenção da prisão cautelar para a garantia da ordem pública, de sorte que, suficientemente, justificou a medida na existência de condições pessoais desfavoráveis ao paciente (Ordem nº 06).
+Vê-se, portanto, que as condições pessoais do paciente não lhe favorecem, eis que está a demonstrar periculosidade, o que autoriza a manutenção da prisão cautelar, em nome da garantia da ordem pública. Não há, portanto, falar-se em constrangimento ilegal. Por estes motivos, mantém-se a segregação cautelar do paciente.
+Confira-se também excerto da decisão que decretou a segregação cautelar (fls. 31 e 33-34):
+Verifico, aqui, que estão de fato vigentes os requisitos da prisão preventiva elencados no art. 312 do CPP, visíveis aqui os vários deles: indícios suficientes da autoria delitiva; clamor público diante de tão grave crime; conveniência da instrução criminal diante das provas ainda por serem colhidas e que certamente tornariam o crime de difícil elucidação com os réus soltos e as testemunhas à sua mercê; bem como a prova da existência de crime grave, que aqui por enquanto restringe-se à materialidade do delito, já insinuada com a confecção do laudo toxicológico de constatação positiva de droga proscrita.
+ ..
+Esse mesmo colendo TJMG também entende de maneira remansosa que a dedicação criminosa do suposto autor ao tráfico, de maneira reiterada, profissional, monocórdia, impede que a este suspeito se dê tratamento jurídico-penal mais brando e geralmente vinculado ao tipo penal menos grave descrito no parágrafo 4º, do art. 33 da Lei de Tóxicos. Assim o fazendo, o mencionado sodalício autoriza, como reiterados precedentes, a decretação da prisão preventiva ou sua manutenção (TJMG - Apelação Criminal 1.0188.11.007900-4/001, Relator(a): Des.(a) Cássio Salomé, 7ª CÂMARA CRIMINAL, julgamento em 11/09/2014, publicação da súmula em 19/09/2014).
+ ..
+E relação às outras medidas cautelares criminais descritas no art. 319 do mesmo diploma, verifico serem meros placebos que não assegurariam a instrução criminal, não garantiriam a vindoura aplicação da lei penal, tampouco preservando a paz pública e social, fins maiores do Direito e do processo.
+Com efeito, a reincidência específica evidencia maior envolvimento do paciente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Por fim, eventuais condições subjetivas favoráveis do recorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
