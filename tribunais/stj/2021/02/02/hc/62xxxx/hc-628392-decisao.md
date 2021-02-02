@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado:
+APELAÇÃO CRIMINAL. CRIME DE POSSE IRREGULAR DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA (ARTIGO 16, PARÁGRAFO ÚNICO, INCISO IV, DA LEI N. 10.826/03). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO. PRETENSA ABSOLVIÇÃO. ATIPICIDADE. ALEGADA CAUSAS EXCLUDENTES DA LEGÍTIMA DEFESA E DO ESTADO DE NECESSIDADE. INOCORRÊNCIA. RÉU QUE POSSUÍA E MANTINHA EM DEPÓSITO ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA, ALÉM DE DIVERSAS MUNIÇÕES. PRESSUPOSTOS DOS ARTIGOS 24 E 25, AMBOS DO CÓDIGO PENAL NÃO PREENCHIDOS. RISCO A INTEGRIDADE FÍSICA DO ACUSADO NÃO COMPROVADO. INEXISTÊNCIA DE PERIGO ATUAL E INEVITÁVEL. CAUSAS EXCLUDENTES NÃO CONFIGURADAS. CONDUTA TÍPICA. CRIME DE MERA CONDUTA E PERIGO ABSTRATO. ADEMAIS, ABSOLVIÇÃO PELA INEXIGIBILIDADE DE CONDUTA DIVERSA NÃO EVIDENCIADO. AUSÊNCIA DE PROVAS CONCRETAS. EXEGESE DO ARTIGO 156 DO CÓDIGO DE PROCESSO PENAL. DECRETO CONDENATÓRIO MANTIDO. PLEITO SUBSIDIÁRIO. ALMEJADA DESCLASSIFICAÇÃO DO DELITO PARA O DO ARTIGO 12 DA LEI N. 10.826/03. INVIABILIDADE. CONDUTA DE POSSE DE ARMAMENTO COM NUMERAÇÃO SUPRIMIDA, DE USO RESTRITO OU NÃO, COM TIPIFICAÇÃO EXPRESSA NO ARTIGO 16 § ÚNICO, INCISO IV, DO ESTATUTO DO DESARMAMENTO. IRRELEVÂNCIA DE DOLO ESPECÍFICO. ADEMAIS, HIPÓTESE DE ERRO DE TIPO NÃO VERIFICADA. CONDUTA CRIMINOSA DESCRITA NO ESTATUTO DO DESARMAMENTO E REPASSADAS DIARIAMENTE PELOS MEIOS DE COMUNICAÇÃO. RECURSO CONHECIDO E DESPROVIDO.
+O paciente foi condenado à pena de 3 anos de reclusão, no regime aberto, substituída a prisão por penas restritivas de direitos, como incurso no art. 16, parágrafo único, IV, da Lei 10.826-03 c.c 65, I e III, d, do CP.
+Daí o presente writ, no qual a defesa alega que o TJSC deixou de reconhecer, de ofício, ilegalidade quanto ao não oferecimento, pelo juízo a quo, de acordo de não persecução penal (fl. 5).
+Requer, liminarmente, a suspensão do processo, a fim de se obstar o trânsito em julgado, e ao final, a concessão da ordem do Habeas Corpus em favor GABRIEL RAMOS DE MEDEIROS, para que seja determinado ao Tribunal de Justiça que converta o feito em diligência para oferta de ANPP.
+A liminar foi indeferida.
+Prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+DECIDO.
+Compulsando os autos, verifica-se das informações prestadas às fls. 412-415, que: O Ministério Público entendeu que, pelo fato de o réu ter sido beneficiado duas vezes pela transação penal nos últimos cinco anos, pela prática da conduta prevista no art. 28 da Lei. 11.343/06, seria esta circunstância impeditiva do benefício (evento 164).
+Com efeito, o art. 28-A do CPP, introduzido pela Lei 13.964/2019, estabeleceu a possibilidade de realização de acordo de não persecução penal pelo Ministério Público ao investigado, antes do oferecimento da denúncia, assentado que, não sendo caso de arquivamento do inquérito e, tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições ajustadas cumulativa e alternativamente.
+Não obstante, prevê o art. 28-A, §2º, III, do CPP que:
+"O disposto no caput deste artigo não se aplica nas seguintes hipóteses:
+..
+III - ter sido o agente beneficiado nos 5 (cinco) anos anteriores ao cometimento da infração, em acordo de não persecução penal, transação penal ou suspensão condicional do processo;  ".
+Desse modo, cumpre ressaltar que, a despeito das diversas teses suscitadas pela Defensoria Pública na impetração, o não preenchimento de uma das condições legais cumulativas para a almejada proposição do acordo afasta a possibilidade de aplicação do instituto.
+Ademais, constituindo oacordo de não persecução penalum negócio processual a ser celebrado pelo membro do Ministério Público e a defesa, tendo o Parquet declinado fundamentadamente as razões para o não oferecimento do acordo, ante o não preenchimento dos requisitos legais, não há constrangimento ilegal a ser sanado.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
