@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Luciano Gomes de Melo e Marcos Antonio Vitorino de Alvarenga Loureiro, no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação n. 1500600-75.2019.8.26.0617 - fls. 20/34), por manter a sentença do Juízo de Direito da 5ª Vara Criminal da comarca de São José dos Campos/SP, que oscondenou como incursos no art. 155, §§ 1º e 4º, I e IV, do Código Penal, à pena de 4 anos e 8 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 22 dias-multa (fls. 14/19).
+A defesa pretende, em suma, a aplicação do princípio da insignificância, com consequente absolvição dos pacientes. Subsidiariamente, pretende a fixação do regime semiaberto para o início do cumprimento dareprimenda.
+Liminar indeferida (fls. 47/48); informações prestadas (fls. 59/127), o Ministério Público Federal opinou pelo não conhecimento do writ, por meio de parecer exarado pelo Subprocurador-Geral da República Nívio de Freitas Silva Filho, assim ementado (fl. 129):
+HABEAS CORPUS. FURTO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. RÉUS MULTIREINCIDENTES EM CRIMES PATRIMONIAIS.CONDENAÇÃO EM PRIMEIRA INSTÂNCIA MANTIDA PELO TRIBUNAL A QUO. CRITÉRIOS OBJETIVOS NÃO PREENCHIDOS. REGIME INICIAL MAIS GRAVOSO DEVIDAMENTE JUSTIFICADO. NÃO CONHECIMENTO.
+É o relatório.
+As instâncias ordinárias não aplicaram o princípio da bagatela, tendo em vista o valor dos bens apreendidos (2 botijões de gás, avaliados em R$ 200,00 - duzentos reais - fls. 14), bem como em razão da multirreincidência dos réus.
+Dessa forma, decidiram em harmonia com a jurisprudência desta Corte, que temafastado a incidência do princípio da insignificância nos casos em que o valor do bem subtraído ultrapassa o percentual de 10% do salário mínimo vigente à época dos fatos, bem como quando se tratar de acusado reincidente, contumaz na prática de delitos, como na hipótese desses autos.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. REINCIDÊNCIA. VALOR NÃO IRRISÓRIO DA RES FURTIVA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "A jurisprudência desta Corte Superior está firmada no sentido da não incidência do princípio da insignificância nas hipóteses de reiteração de delitos e reincidência, como é o caso dos autos" (AgRg no AREsp n. 896.863/RJ, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 13/6/2016).
+2. Ademais, no caso, a res furtiva foi avaliada em R$ 110,00 (cento e dez reais), valor que não pode ser considerado insignificante, pois representava mais de 10% (dez por cento) do salário mínimo vigente à época do fato (julho de 2020 - R$ 1.045,00), situação que corrobora a notória tipicidade material da conduta.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 620.815/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/12/2020 - grifo nosso).
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL.FURTO DUPLAMENTE QUALIFICADO. DISSÍDIO JURISPRUDENCIAL E VIOLAÇÃO DOS ARTS. 1º DO CP E 158 DO CPP. PLEITO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVAE: UM BOTIJÃO DE GÁS, BEM CUJO VALOR NÃO SE REVELA ÍNFIMO. REFERENCIAL ACIMA DE 21% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. JURISPRUDÊNCIA DO STJ. INAPLICABILIDADE DA BAGATELA.
+1. O Tribunal de origem asseverou que, no caso dos autos, o valor do bem subtraído não pode ser considerado como de pequena monta, pois perfaz mais de 21% do valor do salário mínimo da época dos fatos, R$ 937,00, conforme laudo de avaliação indireta de fl. 103.  ..  Ademais, há periculosidade social na ação perpetrada pelos réus, estando longe de se caracterizar como um indiferente penal. Ora, o furto foi duplamente qualificado - praticado em concurso de pessoas e mediante arrombamento, o que demonstrada maior reprovabilidade da conduta, e torna incompatível a aplicação do Princípio da Insignificância.
+2. In casu, constata-se que o valor das res furtivae - 2 (dois) botijões de gás cheios, estimados em R$ 200,00 (duzentos reais) e um rádio, avaliado em R$ 270,00 (duzentos e setenta reais) - é superior a 10% (dez por cento) do salário mínimo vigente à época dos fatos. Logo, a referida quantia, nos termos do entendimento pacífico do Superior Tribunal de Justiça, não pode ser considerada insignificante (AgRg no AREsp n. 1.619.041/MS, Ministra Laurita Vaz, Sexta Turma, DJe 23/6/2020).
+3. Agravo regimental improvido.
+(AgRg no REsp n. 1.836.446/MG,de minha relatoria, Sexta Turma,DJe 28/9/2020).
+Por fim, foi fixado o regime fechado para o início do cumprimento da pena de 4 anos e 8 meses de reclusão, em razão da multirreincidência dos réus. Ora, nos termos da jurisprudência desta Corte, não obstantetenha sido imposta reprimenda superior a 4 e inferior a 8 anos de reclusão, tratando-se de réu reincidente, não há falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", do Estatuto Repressor(HC n. 543.261/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 19/12/2019).
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. RECEPTAÇÃO QUALIFICADA. PLEITO ABSOLUTÓRIO OU PELA DESCLASSIFICAÇÃO PARA A MODALIDADE SIMPLES DO DELITO. INVERSÃO DO JULGADO. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. PENA SUPERIOR A 4 ANOS E INFERIOR A 8 ANOS DE RECLUSÃO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL E MULTIRREINCIDÊNCIA. CABIMENTO DO REGIME INICIAL FECHADO.PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Diante da existência de circunstância judicial negativa e da tripla reincidência, é adequada a imposição do modo prisional imediatamente mais gravoso do que o permitido pela quantidade de pena aplicada - 5 (cinco) anos e 3 (três) meses de reclusão -, qual seja, o regime inicial fechado, nos moldes do art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.820.397/SP, Ministra Laurita Vaz, Sexta Turma,DJe 19/11/2020 - grifo nosso).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. CONDENAÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. PRETENSÃO. IMPOSSIBILIDADE.VALOR DO BEM. MULTIRREINCIDÊNCIA. REGIME. PENA INFERIOR A 8 ANOS DE RECLUSÃO. REGIME FECHADO. APLICAÇÃO. RÉUS REINCIDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
