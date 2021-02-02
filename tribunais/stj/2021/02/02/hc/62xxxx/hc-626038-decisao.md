@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor deSARAH MARIA DE ARAÚJO,presa preventivamente aos 9/8/2019 e denunciada por infração ao art. 121,§2º, I, III e IV, do Código Penal, contraacórdão do Tribunal de Justiça do Estado de Minas Gerais (HC 1.0000.20.492976-4), assim ementado (e-STJ, fl. 230):
+EMENTA: HABEAS CORPUS - HOMICÍDIO QUALIFICADO - PRISÃO DOMICILIAR - AUSÊNCIA DE APRECIACÃO PELO JUIZ A QUO - SUPRESSÃO DE INSTÂNCIA - PRECEDENTES DO STJ - EXCESSO DE PRAZO - AUDIÊNCIA DE INSTRUÇÃO REALIZADA - RELAXAMENTO DA PRISÃO - DESCABIMENTO. 1. Não havendo demonstração de que o pedido de substituição da prisão preventiva ao cárcere por domiciliar foi deduzida e apreciada no juízo de base,fica o tema insuscetível de conhecimento "por salto" neste grau jurisdicional, já que injurídica a pretensa supressão de instância. 2. O prazo para a formação de culpa não pode constituir-se numa simples soma aritmética do tempo ideal para cada ato processual, devendo ser avaliado, cotejado e submetido às particularidades do caso concreto. 3. Realizada a audiência de instrução, desarrazoado se mostra relaxar-se o acautelamento da paciente no presente momento processual.
+Na presente oportunidade, a defesa alega a ocorrência de constrangimento ilegal, por excesso de prazo para a formação da culpa.
+Afirma quea paciente passou por um incidente de insanidade mental, testemunhas foram ouvidas e a acusação pediu por um novo incidente de insanidade mental. Contudo, até o presente momento o laudo do perito responsável pelo segundo incidente de insanidade não se pronunciou, logo, não foi possível a realização de audiência de pronúncia e por consequência não houve o término da instrução.(e-STJ, fl. 5).Sustenta não ser a hipótese de aplicação da súmula n. 52/STJpois a instrução probatória não se encerrou, em razão de diligência solicitada pela acusação.
+Requer, liminarmente e no mérito, o relaxamento da prisão preventiva, com a concessão de liberdade provisória.
+A liminar foi indeferida (e-STJ fls. 249/251), as informações foram prestadase o Ministério Público Federal manifestou-se pela superação da alegação, em parecer assim resumido (e-STJ fl. 493):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO.NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. TENTATIVA DEFRAUDE PROCESSUAL. PRISÃO PREVENTIVA. EXCESSO DEPRAZO PARA FORMAÇÃO DA CULPA. ALEGAÇÃO SUPERADA.PROLAÇÃO DE PRONÚNCIA. SÚMULA N.º 21/STJ. Parecer pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem
+É o relatório, decido.
+Com razão o parecer ministerial. Consoante informações prestadas pelo Juízo de primeiro grau, em 14/12/2020 sobreveio sentença reconhecendo a imputação e determinando o julgamento da ré pelo Tribunal do Júri (e-STJ fls. 463/475), contexto que atrai a aplicação do enunciado n. 21 da Súmula desta Corte.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA.SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. SÚMULA Nº 21 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. PERDA DE OBJETO. RECURSO DESPROVIDO.
+- Sobrevindo sentença de pronúncia, fica prejudicado o pedido de revogação da prisão por excesso de prazo, nos termos do Enunciado n.21 da Súmula desta Corte.
+Agravo regimental desprovido.
+(AgRg no HC 299.188/MG, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 20/08/2015, DJe 10/09/2015)
+Ante o exposto, com fundamento no art. 34, XVIII, a,nego provimentoaorecurso ordinário em habeas corpus.
+Intimem-se.
