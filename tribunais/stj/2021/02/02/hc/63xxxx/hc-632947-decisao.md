@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Rodrigo Daniel Pereda, contra quem foi instaurado peloMinistério Público do Rio Grande do Sul procedimento investigatório criminal para apurar a existência, em tese, de uma organização criminosa no Município de Imbé/RS (envolvendo o Prefeito Municipal, agentes públicos de diversas pastas, agentes do setor privado e servidores municipais), a qual estaria operando um esquema de direcionamento de licitações em benefício de familiares do chefe do Executivo e de empresários locais (Operação Afinidade).
+Alegando haver indícios suficientes da tentativa de interferência na colheita da prova e da reiteração da prática dos delitos investigados, requereu o Parquet o afastamento cautelar do paciente, assessor jurídico da prefeitura, da função pública, assim como a proibição de frequentar as dependências do Poder Público Municipal, em sede liminar (Medidas Cautelares n.70084373414).
+A liminar foi deferida pelo DesembargadorRogério Gesta Leal, integrante da Quarta Câmara Criminal do Tribunal estadual, para afastar o paciente da função pública pelo prazo mínimo de 30 dias, proibindo-o, ainda, de frequentar as dependências do Poder Executivo Municipal durante esse período, a pretexto de preservar a instrução criminale evitar a continuidade de condutas delituosas.
+O pedido de reconsideração formulado pelo pacientefoi indeferido pelo Relator, mas o agravo regimental está pendente de apreciação pelo colegiado.
+Antes que expirasse o prazo do afastamento cautelar, o Ministério Público postulou a sua prorrogação, o que foi deferido em parte pelo Relator na origem, por mais 10 dias, exceto quanto ao Prefeito Municipal de Imbé, igualmente investigado noinquérito (Autos n.70084373414).
+Daí o presente writ, em que os advogados Ana Luiza Mercio Lartigau e André Luiz Arêa Leão sustentam quea prorrogação dessa medida extrema configura constrangimento ilegal, porquanto não estaria amparada em elementos concretos. Segundo eles, está alicerçadaemraciocínios especulativos, que alcançam conclusões não autorizadas pelo contexto fático que emoldura o caso(fl. 8).
+Argumentam que foramdevidamente cumpridas as medidas de busca e apreensão, a maior parte dos investigados já foi ouvida, inclusive o próprio paciente, no último dia 3/12/2020, não havendo razão para sacrificar o direito a sua livre locomoção por conta disso(fl. 9).
+Sustentam que não há qualquer tratativa espúria para "tratar sobre o emprego de máquinas nas obras da prefeitura" (fl. 1069) e os telefonemas citados não demonstram que a orientação do paciente "para que tais horas sejam pagas" ao investigado Magno (MGA Ltda.) configure conduta ilegal(fl. 13).
+Registram que,não só o próprio Prefeito Municipal retornou ao seu cargo, por força da decisão judicial parcialmente  .. transcrita, mas que, também, por via de consequência, foi permitida a retomada dos contratos inicialmente suspensos (Doc. 3), sobre os quais o Des. Relator da Medida Cautelar intentada, explicitamente, se manifestou em análise de petição juntada aos autos pelo Município de Imbé ..  (fl. 17).
+Mencionam, ainda, quehá o risco iminente de o julgamento do referido agravo regimental pelo Colegiado tornar-se inútil, principalmente quando se sabe que o mandato da atual Administração está a poucos dias de terminar, eis que o Prefeito atual encerra o segundo mandato para o qual foi eleito em 31 de dezembro (fl. 18).
+Assim, pleiteiama suspensão dos efeitos do decreto cautelar impugnado, a fim de que o paciente possa retomar o exercício da função pública no cargo de Procurador do Município, franqueando-lhe o acesso a quaisquer dependências do poder público municipal(fl. 18). Ao final, buscam a concessão da ordem para permitir que o paciente retome o pleno exercício da função pública e do direito de livre locomoção.
+Indeferi o pedido liminar (fls. 2.668/2.671).
+Depois de prestadas informações (fls. 2.675/2.710), opinou o Ministério Público Federalpelo não conhecimento do write, no mérito, se conhecido, pela denegação da ordem (fls. 2.717/2.725).
+É o relatório.
+Estou de acordo com oSubprocurador-Geral da RepúblicaRodolfo Tigre Maia. De fato, perdeu o objeto o presente feito.
+A decisão ora questionada de prorrogação da medida cautelar por mais 10 dias data de 3/12/2020, quer dizer, exauriu-se em dezembro passado.
+Eis, a propósito, o parecer no ponto (fls. 2.719/2.720 - grifo nosso):
+ ..
+7. Preliminarmente, tem-se que o presente writ perdeu seu objeto.
+8. Consoante as informações presentes nos autos, a prorrogação das medidas cautelares em 10 (dez) dias se exauriu em dezembro de 2020. À míngua de notícias de nova prorrogação, não se constata ameaça ou lesão à liberdade de locomoção do paciente. Forçoso reconhecer, portanto, a prejudicialidade do presente writ, já que impetrado exclusivamente contra as medidas cautelares que não mais subsistem, a que tudo indica.
+9. Na hipótese de não se reconhecer a prejudicialidade da ordem, ainda assim o mandamus não deve ser conhecido, porque impetrado contra decisão monocrática do Tribunal de origem. Consoante jurisprudência do Superior Tribunal de Justiça, há necessidade de esgotamento da instância colegiada originária para que se inaugure a competência dessa Corte.  ..
+Pelo exposto, julgo prejudicadoeste habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUSCONTRA A PRORROGAÇÃO DEMEDIDACAUTELAR. AFASTAMENTO DO CARGO PÚBLICO. PROIBIÇÃO DE COMPARECIMENTO À REPARTIÇÃO PÚBLICA. EXAURIMENTO DA MEDIDA.PERDA DE OBJETO. PARECER ACOLHIDO.
+Writ prejudicado.
