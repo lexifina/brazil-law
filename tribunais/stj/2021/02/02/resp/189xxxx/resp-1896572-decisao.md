@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 267):
+FURTO SIMPLES TENTADO. Recurso defensivo. Absolvição. Impossibilidade. Autoria e materialidade bem delineadas. "Princípio da insignificância" não caracterizado.
+DOSIMETRIA. Alijamento do incremento operado nas iniciais. Penas diminuídas, com reconhecimento do privilégio (CP, art. 155, § 2º) e aplicação exclusiva de multa.
+PROVIMENTO PARCIAL.
+Nas razões do especial, sustenta a defesa, em síntese, violação doart.155 do CP, tendo em vista o afastamentodo princípio da insignificância in casu.
+Destaca a mínima ofensividade da conduta, pois o valor do bem subtraído é R$ 72,00, a condição econômica da vítima (uma empresa de transportes urbanos), as circunstâncias do delito (fruto simples tentado) e o resultado do crime (nenhum prejuízo já que o montante foi restituído à empresa). Destaca, outrossim, que a recorrente é primária e de bons antecedentes.
+Requer o provimento do recurso especial paraabsolver a recorrente pela atipicidade da conduta, em razão da incidência do princípio da insignificância.
+Apresentadas contrarrazõeseadmitido na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso especial.
+É o relatório.
+DECIDO.
+De plano, quanto à apontada violação do art. 155 do CP, e ao princípio da insignificância, extrai-se do acórdão (fls. 268-269):
+Também não há que se falar em atipicidade da conduta, com lastro no "princípio da insignificância".
+Tal instituto deve ser analisado em correlação com os postulados da fragmentariedade e da intervenção mínima do Direito Penal, para excluir ou afastar a própria tipicidade da conduta, examinada em seu caráter material, observando-se, ainda, a presença dos seguintes vetores: "(I) mínima ofensividade da conduta do agente; (II) ausência total de periculosidade social da ação; (III) ínfimo grau de reprovabilidade do comportamento e (IV) inexpressividade da lesão jurídica ocasionada (conforme decidido nos autos do HC n. 84.412/SP, de relatoria do Ministro Celso de Mello, DJU 19/4/2004)" (STJ - AgRg no REsp 1441116/SP - Min. ROGÉRIO SCHIETTI CRUZ - Sexta Turma - DJe 02/10/2014).
+Verifica-se, assim, que o valor subtraído - R$ 72,00 (fl. 10) - não é o único elemento para se aferir a causa supralegal.
+Não se pode afirmar ser mínima a ofensividade da conduta perpetrada, tampouco reduzido o grau de reprovabilidade do comportamento de agente que ingressa em coletivo estacionado na via pública, demonstrando ousadia e desdém ao alheio, circunstância incompatível com o combatido postulado.
+O Tribunal de origem concluiupela inaplicabilidade do princípio da insignificância considerando a tentativa defurto deR$ 72,00, aproximadamente 7,68% do salário mínimo vigente à época (2017).
+Com efeito, a incidência do princípio da bagatela pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento; e d) inexpressividade da lesão jurídica provocada.
+A habitualidade delitiva tem sido compreendida como obstáculo inicial à tese da insignificância, ressalvada excepcional peculiaridade do caso penal. A esse respeito: EAREsp 221.999/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 11/11/2015, DJe 10/12/2015.
+A subsidiariedade do direito penal, porém, não permite tornar o processo criminal instrumento de repressão moral, de condutas reprováveis mas sem efetivo dano.
+A falta de interesse estatal pelo reflexo social da conduta, por relevante dado à esfera de direitos da vítima, torna inaceitável a intervenção estatal-criminal.
+Na espécie, o não grande valor da quantia, R$ 72,00, de vítima com proporcionalmente relevante capacidade financeira - estabelecimento comercial, Vip Transportes Urbanos Ltda(fl. 62) - faz ver que a esta o dano não foi relevante e, considerando a própria restituição dares furtivae o fato de a ré ser primária, verifico que nenhum interesse social existe na onerosa intervenção estatal. Nesse sentido:
+PENAL. PROCESSUAL PENAL. HABEAS CORPUS. FURTO QUALIFICADO TENTADO.ALIMENTO E PRODUTOS DE HIGIENE.PRINCÍPIO DA INSIGNIFICÂNCIA.APLICABILIDADE. BENS AVALIADOS EM R$ 107,28. BAIXO VALOR.RESTITUIÇÃO À VÍTIMA. ANTERIOR CONDENAÇÃO.PRECEDENTES DO STJ.  .. .
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+2. A despeito da vivência delitiva dos pacientes, o pequeno valor da res furtiva (R$ 107,28, correspondendo a 11,45% do salário mínimo então vigente), aliado ao fato que se tratava de alimentos e produtos de higiene pessoal subtraídos de um supermercado, permite a incidência do princípio da insignificância, pois nenhum interesse social existe na onerosa intervenção estatal.
+ ..
+(HC 469.177/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/11/2018, DJe 24/04/2019)
+HABEAS CORPUS.  .. .FURTO QUALIFICADO POR CONCURSO DE PESSOAS CONTRA ESTABELECIMENTO COMERCIAL. VALOR ÍNFIMO PARA A VÍTIMA. INSIGNIFICÂNCIA NO CONTEXTO DE CRIME FAMÉLICO. PROSSEGUIMENTO DA PERSECUÇÃO PENAL.IMPOSSIBILIDADE, SEJA PELA ATIPICIDADE MATERIAL, SEJA PELA INCIDÊNCIA DA CAUSA DE JUSTIFICAÇÃO ESTADO DE NECESSIDADE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Consoante entendimento jurisprudencial, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentaridade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.
+(..) Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (HC nº 84.412-0/SP, STF, Min. Celso de Mello, DJU 19.11.2004)
+3. A insignificância afasta a tipicidade material, tendo em vista a inexpressiva afetação do bem jurídico. Já o caráter famélico do furto desveste o comportamento da antijuridicidade (RODRÍGUEZ, Víctor Gabriel. Fundamentos de Direito Penal brasileiro. São Paulo: Atlas, 2010, p. 229-230).
+4. No caso, os pacientes subtrairam alimentos, bens avaliados em R$ 101,48, não havendo prejuízo material para a vítima, tendo em vista que os bens foram restituídos à empresa Hipermercados Extra.
+Reconhece-se, então, o caráter bagatelar do comportamento imputado, não havendo falar em afetação do bem jurídico patrimônio, em especial pelo ínfimo valor dos bens. Flagrante ilegalidade.
+5. Writ não conhecido. Ordem concedida, ex officio, aplicado o princípio da insignificância, para, reconhecendo a atipicidade material da conduta, trancar a ação penal.
+(HC 400.041/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 26/06/2018, DJe 02/08/2018)
+AGRAVO REGIMENTAL EM HABEAS CORPUS.FURTO SIMPLES. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICABILIDADE. INEXPRESSIVA LESÃO AO BEM JURÍDICO TUTELADO. RESTITUIÇÃO DOS BENS AO OFENDIDO. ATIPICIDADE MATERIAL DA CONDUTA. RESTABELECIMENTO DA DECISÃO QUE REJEITOU A DENÚNCIA.
+1. O furto a hipermercado, consistente na subtração de dois jogos de talheres, avaliados em R$ 139,80 (cento e trinta e nove reais e oitenta centavos), aproximadamente 15% do valor do salário mínimo vigente à época dos fatos, representa inexpressiva lesão ao bem jurídico tutelado, de modo a autorizar a incidência do princípio da insignificância e o restabelecimento da decisão de primeiro grau que rejeitou a denúncia.
+2. Agravo regimental improvido. (AgRg no HC 492.033/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/03/2019, DJe 02/04/2019).
+Dessarte, no particular, merece prosperar o recursopara, reconhecendo a atipicidade material da conduta pela aplicação do princípio da insignificância, absolver a recorrente.
+Ante o exposto, dou provimento ao recurso especial para reconhecer a atipicidade material da conduta pela aplicação do princípio da insignificância, absolvendo a recorrente RENATA BAPTISTA DE OLIVEIRA pela prática do delito tipificado no art. 155 do Código Penal.
+Publique-se.
+Intimem-se.
