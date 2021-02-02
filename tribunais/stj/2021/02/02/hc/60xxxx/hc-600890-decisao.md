@@ -1,0 +1,40 @@
+DECISÃO
+JHONATAS COUTINHOalega sofrer constrangimento ilegal em decorrência de acórdão prolatado peloTribunal de Justiça do Estado de São Paulo(HC n. 2166172-97.2020.8.26.0000).
+Nesta Corte, a defesa sustenta otempo excessivodeprisão provisóriado réu, pela suposta prática docrimede quadrilha ou bando, que remonta, segundo a defesa,ao dia 8/4/2016.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a substituição da preventiva por providências alternativas.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Expõem os autos que o Magistrado de primeiro grau decretou a prisão preventiva do acusado, nos seguintes termos:
+No caso em exame, embora o crime atribuído aos acusados não tenha sido praticado com violência ou grave ameaça, verifica-se que o mesmo causa inquietude e comoção à sociedade, por cuidar de furto a caixa eletrônico de banco mediante arrombamento.
+Nesse particular, a forma como ocorrem os referidos furtos deixam a sociedade apreensiva, uma vez que são feitos com o uso de artefatos explosivos, gerando um clima de insegurança.
+Ademais, há notícias nos autos que os delitos são praticados por quadrilha especializada e têm ocorrido com frequência em diversas cidades.
+Assim, necessária se faz a decretação da prisão preventiva dos investigados para a garantia da ordem pública (fl. 32, destaquei).
+Quanto ao excesso de prazo, Tribunal de origem denegou a impetração originária, nos seguintes termos:
+Conforme se extrai da petição inicial, o paciente foi denunciado pela suposta prática do crime de quadrilha ou bando. É dos autos, ainda, que a instrução foi encerrada e os autos aguardam a apresentação de alegações finais pelos corréus (fls. 01/10).
+Portanto, com o encerramento da instrução, resta superada eventual alegação de excesso de prazo da prisão preventiva. Nesse sentido, a jurisprudência sumulada do C. Superior Tribunal de Justiça (Súmula 52/STJ:"Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo") (fl. 74, destaquei).
+De acordo com as informações prestadas pelo Juízo de primeiro grau, ficou esclarecido o seguinte:
+Feitas essas considerações, informo que Luis Fernando de Melo, juntamente com Anilton de Oliveira Coelho, Júlio César Nunes Machado, Maicon André Schlup, José Carlos Moreira e Francivaldo Ferreira do Nascimento foram denunciados como incursos no artigo 155, parágrafo 4º, incisos I, III e IV, artigo 61, incisos I e IV, e artigo 288, "caput", cc. Artigos 29 e 69, todos do Código Penal. Por sua vez, nos mesmos autos, o ora paciente Jhonatas Coutinho e o corréu Valdecir dos Santos foram denunciados como incursos no artigo 288, "caput", cc. o artigo 29, ambos do Código Penal.
+Segundo a denúncia, no dia 20 e na madrugada do dia 21/01/2013, na Rua 11, 2247, centro, nesta cidade de Jales/SP, Anilton, Júlio, Luis, Maicon, José e Francivaldo, agindo em concurso de agentes, com unidade de desígnios, conjugação de esforços e divisão de tarefas, subtraíram para si, mediante destruição e rompimento de obstáculos e emprego de chave falsa, a importância de R$ 90.050,00, da agência do Banco do Brasil.
+Narra, ainda, a denúncia, que no período compreendido entre novembro de 2012 e março de 2013, na cidade de Jales/SP e nas cidades de Joinville/SC, Birigui/SP, Nhandeara/SP, Avanhadava/SP, Nova Granada/SP, Guararapes/SP, Castilho/SP, Tupã/SP e Monte Aprazível/SP, Anilton, Júlio, Luis, Maicon, José Francivaldo, o ora paciente Jhonatas e Valdecir associaram-se em quadrilha ou bando para o fim de cometerem crimes de furto contra agências bancárias, consignando-se que uma das funções do ora paciente Jhonatas era fazer o monitoramento externo das agências e auxiliar os demais no interior dos bancos.
+Precedeu a denúncia autos de interceptação telefônica, o qual apontou inicialmente José Carlos Moreira como um dos participantes do furto ao Banco do Brasil de Jales/SP e, posteriormente, os demais denunciados.
+Anteriormente ao oferecimento da denúncia, o Ministério Público representou pela prisão preventiva de Maicon, Luis, Anilton, Júlio e do ora paciente Jhonatas, o que foi deferido por este Juízo, para garantia da ordem pública.
+A denúncia foi recebida em 01/08/2013.
+Os acusados foram devidamente citados, bem como foram apresentadas defesas prévias, seguindo os autos seu curso processual.
+No decorrer da instrução, em audiência de instrução, debates e julgamento realizada em 23 de setembro de 2014, foi concedida liberdade provisória ao ora paciente Jhonatas mediante cumprimento de condições, expedindo-se alvará de soltura em seu favor, o qual foi cumprido sem impedimento.
+Posteriormente, diante da notícia de que o ora paciente teria voltado a praticar crimes, com prática de novo delito no Estado de Santa Catarina, foi revogada a liberdade provisória anteriormente concedida ao ora paciente, expedindo-se mandado de prisão em seu desfavor.
+Veio aos autos informação de que o ora paciente se encontrava preso em virtude de flagrante delito no CPPL PCP de Itaitinga / CE, e, por tal motivo, o mandado de prisão expedido nos autos foi encaminhado para cumprimento àquele r. Juízo, por intermédio de carta precatória, lá registrada sob nº 0012276-20.2020.8.06.0099, não devolvida cumprida até o momento.
+Encerrada a instrução processual, aguarda-se a apresentação de alegações finais pela Defesa.
+Entendo serem estas informações suficientes para o deslinde da questão e coloco- me à disposição de Vossa Excelência para, se for o caso, complementá-las (fls. 111-112, destaquei).
+Em consulta ao sítio eletrônico da Corte estadual, verificou-se quefoi encerrada a instrução criminal, com abertura de prazo para juntada das alegações finais em 30/11/2020, encontrando-se os autos conclusos para sentença.
+Feitos esses registros, passo ao exame das pretensões da defesa.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da Constituição da República), considerando cada caso e suas particularidades.
+Consoante a orientação deste Superior Tribunal, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. MinistroFelix Fischer, 5ª T., DJe 17/9/2015).
+In casu, as informações a que se tem notícia até então indicam que a instrução processual está encerrada, o que atrai a incidência daSúmula n. 52 do STJ,verbis: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Portanto, verificadas a compatibilidade da duração do processo com as particularidades do caso concreto e a diligência do Estado no processamento do feito,que já está na fase de alegações finais, fica afastada, ao menos por ora, a afirmação de excesso de prazo. Ademais, conforme bem pontuado pelo Juízo de origem, "o mandado de prisão expedido nos autos foi encaminhado para cumprimento àquele r. Juízo, por intermédio de carta precatória, lá registrada sob nº 0012276-20.2020.8.06.0099, não devolvida cumprida até o momento".
+No mesmo sentido:
+PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NÃO CONFIGURADO.
+ .. conquanto a prisão do paciente já perdure por mais de um ano, vê-se queo feito tem tido regular andamento, não havendo que se falar em excesso de prazo. Tanto é assim que, segundo informações obtidas no sítio disponibilizado pelo Tribunal de origem,a instrução já se encerrou, estando o processo na fase de apresentação de alegações finais, o que atrai a incidência doverbete 52 da Súmula desta Corte.
+4. Ordem denegada.
+(HC n. 461.763/ES, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 22/10/2018, destaquei.)
+À vista do exposto,denego a ordem.
+Publique-se e intimem-se.
