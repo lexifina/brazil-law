@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ELIZEU TOLEDO COIMBRA e IRENE ALVES contra decisão de minha relatoria que não conheceu ohabeas corpus, contudo, concedeu a ordem para redimensionar a pena dos embargantes (e-STJ fls. 440/445).
+A defesa argumenta que houve omissão na decisão, tendo em vistaque não houve o reconhecimento da prescrição, uma vez que as penas fixadas são inferiores a 2 anos de reclusão eno caso em tela, entre a data do recebimento da denúncia e a publicação da sentença condenatória transitada em julgado para a acusação transcorreu o lapso prescricional superior de 04 (quatro) anos, razão pela qual se operou a prescrição da pretensão punitiva retroativa (e-STJ fl. 451).
+Dessa forma, requer o provimento dos embargos de declaração com o reconhecimento da prescrição da pretensão punitiva retroativa e, consequentemente, a extinção da punibilidade.
+É o relatório.Decido.
+Passoa apreciar o alegado lapso prescricional, na modalidade retroativa, entre a data do recebimento da denúncia e a da publicação da sentença penal condenatória.
+Assiste razão aos embargantes.
+De fato,o recebimento da denúncia ocorreu em 11/12/2012 (e-STJ fl. 153), tendo sido os acusados condenados pela prática do crime previsto nos arts. 33 e 35 ambos da Lei n. 11.343/2006,à pena de 10 anos de reclusão, no regime inicial fechado por meio de sentença condenatória proferida em 28/5/2018 (e-STJ fl. 318). As penas foramreformadas pelo Tribunal local para 2 anos e 6 meses de reclusão e 250 dias-multa,e por esta Corte Superior para 1 ano e 8 meses de reclusão e 166 dias-multa, em regime inicial aberto.
+Dessa forma, considerando-se a pena definitivamentefixada (1 ano e 8 meses de reclusão)a prescrição ocorre em 04 anos, por força do art. 109, V, do Código Penal e do art. 110, § 1º, do Código Penal.Assim, decorridos mais de 4 anos entre o recebimento da denúncia e a intimação pessoal da sentença,caracterizada a prescrição retroativa.
+Ante o exposto, acolho os embargos para reconhecer a extinção da punibilidade dos embargantes pelo delito do art. 33, § 4º, da Lei n. 11.343/2006,nos termos do artigo 110, § 1º, c/c o artigo 109, inciso V, do Código Penal, nos autos da Ação Penal n. 0065555-34.2012.8.12.0001.
+Intimem-se.
