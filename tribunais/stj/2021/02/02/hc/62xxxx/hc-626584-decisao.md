@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de habeas corpus, com pedidoliminar, impetrado em face de acórdão assim relatado (fl. 40):
+AGRAVO EM EXECUÇÃO INDULTO DECRETO PRESIDENCIAL nº 8.380/2014 RECURSO MINISTERIAL.
+Irresignação contra da decisão que deferiu pedido de indulto de penas, com base no Decreto 8.380/2014. Impossibilidade de concessão da benesse com relação a penas que se encontram extintas, evitando-se a formação de "crédito" em favor do apenado, a ser descontado em eventuais penas futuras ADMISSIBILIDADE Para efeito de comutação previsto no art. 1º, inciso I, do Decreto de 2014, dispõe:
+"Art. 1º Concede-se o indulto coletivo às pessoas, nacionais e estrangeiras: I - condenadas a pena privativa de liberdade não superior a oito anos, não substituída por restritivas de direitos ou multa, e não beneficiadas com a suspensão condicional da pena que, até 25 de dezembro de 2014, tenham cumprido um terço da pena, se não reincidentes, ou metade, se reincidentes". As penas já extintas pelo cumprimento não podem ser computadas no cálculo para análise do benefício. Penas corporais relativas às Execuções 02 e 03 integralmente cumpridas antes da formulação do pedido de indulto.
+Agravo provido.
+Afirma o impetrante, em síntese, constrangimento ilegal, poisfoi desprezado o montante de penas como um conjunto indivisível para o caso em tela, vez que o Tribunal coator não avaliou a porcentagem do período efetivamente cumprido em relação à somatória total das condenações.
+Requer, assim, inclusive liminarmente, seja cassada a decisão do Tribunal coator pararestabelecer a decisão de primeiro grau que deferiu ao Paciente o indulto pleno das penas das execuções 02 e 03, com base no Decreto Presidencial n. 8.380/2014.
+É o relatório.
+DECIDO.
+Consoante relatado, busca a defesa a concessão de indulto de penas do paciente, com base no Decreto Presidencial n. 8.380/2014.
+Do acórdão proferido pelo Tribunal local, extrai-se (fls. 42-50):
+Conforme consta da r. decisão recorrida, o agravado, à época do decreto indulgente, condenado a pena privativa de liberdade, com o total não superior a 08 anos, por delito não hediondo, não reincidente, cumpria pena em regime fechado, atingindo 1/3 da sua pena privativa de liberdade em 29/12/2012 (fls. 14/15). Da pesquisa SIVEC juntada, extrai-se que cumpre pena total de 20 anos, 02 meses e 17 dias, com início em 10/02/2011 e término previsto para 17/07/2031 (FA às fls. 26 e pesquisa SIVEC às fls. 27).
+Foi formulado pedido de concessão de indulto de penas, com fulcro no artigo 1º, inciso I, do Decreto Presidencial nº 8.380/2014, sendo-lhe deferido o pleito, por decisão de 02 de junho de 2020  ..
+O recurso ministerial comporta provimento.
+O indulto é um benefício concedido ao sentenciado que preencher os requisitos objetivos e subjetivos, expressamente previstos no Decreto Presidencial.
+A concessão de tal benesse é de competência privativa do Chefe do Poder Executivo, que, analisando a conveniência de sua outorga, estabelecerá os requisitos subjetivos e objetivos a serem cumpridos.
+A Carta Magna, no tocante ao indulto, defere aoPresidente da República a competência para concedê-lo e comutar penas (art. 84, inciso XII, c.c. o art. 5º, XLIII) e o exercício dessa faculdade de clemência constitui uma prerrogativa política, à qual não são oponíveis, pelo Ministério Público, pelo Poder Judiciário ou pelo Poder Legislativo, razões de prudência e rigor, para excluir da graça pessoas que hajam cometido determinados crimes ou, de modo geral, para reduzir a incidência do decreto.
+ ..
+O Decreto Presidencial nº 8.380/2014, como ato normativo privativo do Presidente da República, prevê expressamente as situações nas quais os sentenciados fazem jus ao favor do indulto depenas em seu artigo 1º.
+ ..
+No caso em testilha, referentemente à Execução nº 02, considerando que o agravado iniciou o cumprimento da pena em 10/02/2011 com término em 14/09/2016, e em relação à Execução nº 03 iniciou a reprimenda em 15/09/2016 com término em 08/03/2017 (fls.27) vez que ambas cumpridas continuamente, sem interrupção ele já havia resgatado mais de 1/3 das penas então impostas, até a data de 25 de dezembro de 2014, conforme simulação de cálculo de benefícios (fls. 30).
+Diante disso, quando da promulgação do Decreto nº 8.380/2014, o agravado fazia jus ao benefício.
+Com efeito, o indulto se refere às penas ainda não integralmente resgatadas, tendo por parâmetro, pois, o total das expiações que estão por cumprir ou em cumprimento.
+Contudo, o pedido de concessão de indulto foiformulado pela defesa após o integral cumprimento das penas corporais registradas nas Execuções 02 e 03, eis que o término da primeira foi em 14/09/2016, e o da segunda se deu em 08/03/2017.
+ ..
+Assim, entendo que o término do cumprimento de tal pena torna prejudicada a discussão sobre a concessão de quaisquer benesses executórias.
+Embora o agravado esteja cumprindo as penas de forma ininterrupta, por lógica, os períodos anteriores não devem ser considerados para fins de benefícios diversos (art. 75, § 2º do Código Penal e art. 111, parágrafo único da LEP).
+Do contrário, tal como asseverado pela nobre representante do Ministério Público, se estaria admitindo a computação de penas inexistentes para se aferir o requisito objetivo na análise do cabimento da benesse ora suscitada, funcionando como uma espécie de "crédito" a favor do sentenciado, o que, por consectário lógico, não seadmite.
+É cediço que pena cumprida é pena extinta, não havendo com se restaurar a pena integral do agravado para dela abater o período que se pretende indultar.
+Ante o exposto, dá-se provimento ao Agravo de Execução para cassar a r. decisão de Primeiro Grau que deferiu o indulto previsto no Decreto nº 8.172/2013, em relação às penas dos processos 62668/2009 (Execução 02) e 564260/2009 (Execução 03), afastando as consequências advindas de sua concessão.
+Por oportuno, trago à colação o que dispõe o Decreto n. 8.380/2014, no que interessa:
+Art. 1º. Concede-se o indulto coletivo às pessoas, nacionais e estrangeiras: I - condenadas a pena privativa de liberdade não superior a oito anos, não substituída por restritivas de direitos ou multa, e não beneficiadas com a suspensão condicional da pena que, até 25 de dezembro de 2014, tenham cumprido um terço da pena, se não reincidentes, ou metade, se reincidentes;  ..
+Art. 8º. As penas correspondentes a infrações diversas devem somar-se, para efeito da declaração do indulto e da comutação de penas, até 25 de dezembro de 2014.
+Parágrafo único. Na hipótese de haver concurso com crime descrito no art. 9º, não será declarado o indulto ou a comutação da pena correspondente ao crime não impeditivo, enquanto a pessoa condenada não cumprir dois terços da pena, correspondente ao crime impeditivo dos benefícios.  ..
+Art. 10. Para a declaração do indulto e comutação das penas não se exigirá requisito outro, senão os previstos neste Decreto. ..
+Constata-se que, no caso corrente, para a concessão do indulto e comutação das penas é suficiente o preenchimento dos requisitos previstos nos arts. 1º e 8º do decreto em comento.
+No entanto, como visto da da decisão do Tribunal local,o pedido de concessão de indulto foi formulado pela defesa após o integral cumprimento das penas corporais registradas nas Execuções 02 e 03, eis que o término da primeira foi em 14/09/2016, e o da segunda se deu em 08/03/2017.
+Demais disso, como bem pontuou o Parquet (fl.89)o que pretendem os Impetrantes é que o Decreto n. 8380/2014 gere efeito sobre a atual execução do paciente, iniciada em 2017 (e-STJ Fl. 83), o que não se admite, eis que, nos termos da jurisprudência acima, o ato normativo só pode alcançar penas em cumprimento quando da sua edição, não podendo surtir efeitos prospectivos, ressaltando-se o caráter restritivo que deve possuir a interpretação de tais benefícios presidenciais.
+Cumpre observar que a teor dos precedentes desta Corte, a comutação incide sobre as execuções em curso no momento da edição do decreto presidencial. Não é possível considerar na base de cálculo do benefício as penas já extintas em face do integral cumprimento (AgRg no HC 482.585/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/06/2019, DJe 02/08/2019). No mesmo sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. DECRETO N. 8.615/2015. COMUTAÇÃO DE PENAS. INCIDÊNCIA SOBRE PENA JÁ EXTINTA. IMPOSSIBILIDADE. WRIT NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. "Não é possível se decidir acerca da incidência de indulto ou de comutação sobre reprimenda já extinta, quando os benefícios não foram nem mesmo pleiteados no curso do desconto da reprimenda." (HC 414.534/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/11/2017, DJe 06/12/2017).
+3. No caso, quando da publicação do Decreto Presidencial nº 8.615/2015, a pena imposta ao paciente pela prática do crime hediondo já estava extinta pelo integral cumprimento (delito mais grave - art. 76 do Código Penal), o que afasta o apontado constrangimento ilegal.
+4. Habeas corpus não conhecido. Liminar sem efeito.
+(HC 433.073/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
