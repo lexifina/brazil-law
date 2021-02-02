@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por ELIAS PEREIRA LIMAcontra acórdão do Tribunal de Justiça do Estado de Pernambuco (HC n. 005129-74.2019.8.17.0000).
+O recorrente teve a prisão preventiva decretada pela suposta prática dos delitos descritos nos arts. 33, caput, e 35 ambos da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade do entorpecente apreendido - 500g de maconha -, no modus operandi e na sua fuga(fls. 65-68).
+Alega que o decreto prisional não foi devidamente fundamentado e que não estão presentes os requisitos para a decretação da prisão preventiva.
+Salienta que inexiste contemporaneidade entre os fatos objeto de apuração e o decreto de prisão. Sustenta que faz jus às medidas cautelares diversas da prisão ante os predicados pessoais.
+Requer, inclusive liminarmente, a sua imediata soltura.
+O pedido de liminar foi indeferido às fls. 138-139.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso às fls. 193-198.
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No presente caso, além da quantidade da droga (500g de maconha), o recorrente teria resistido à prisão, tendo empurrado contra os policiais uma motocicleta, empreendendo fuga em seguida, tendo o Magistrado de primeiro grau destacado o seguinte (fls. 195-19):
+Consta dos autos que, no dia dos fatos, os acusados transportavam pela BR 232, nesta cidade, 500g de maconha, sem autorização legal ou regulamentar tal mister.
+Segundo emerge da peça inicial acusatória, a droga foi apreendida dentro do calção de um doa acusados, logo após, os policiais rodoviários darem ordem de parada e proceder à revista pessoal, entretanto, resistiram à prisão, no momento em que estavam sendo algemados, empurrando contra os policiais uma motocicleta, empreendendo fuga em seguida, sendo que o acusado Elias Lima deixou cair um aparelho celular e após diligências, foi possível identificar os acusados.
+ ..
+Diante da gravidade do crime supostamente perpetrado pelos acusados, pelos elementos probatórios encartados até o momento, verifica-se que a primariedade, a residência fixa dentre outros atributos, não possuem o condão de ilidir a prisão dos mesmos, já que estão presentes os requisitos legais autorizadores, conjugados aos depoimentos prestados em sede extraprocessual, bem como demais documentos integrantes do petitório, que sinalizam, ao menos por ora que os acusados não se encontram aptos ao convívio social, conforme já explanado, fazendo-se necessário tutelar a ordem pública e a aplicação da lei penal.
+O entendimento acima está em consonância com a jurisprudência do Supremo Tribunal Federal, de que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ressalte-se ainda que o fato de o recorrente estar foragido, pois, até o presente momento, o mandado de prisão expedido em seu desfavor não foi cumprido, reforça que a medida extrema é indispensável para assegurar a aplicação da lei penal (AgRg no HC n. 616.706/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/11/2020).
+Nota-se que os argumentos utilizados forama quantidade da droga e as ações tomadas pelo recorrente durante a abordagem policial. Dessa forma, o entendimento acima está em consonância com a jurisprudência do STJ de quenão há falar em ausência de contemporaneidade do modus operandi do delito, por constituir fundamento idôneo para a custódia cautelar, razão pela qual a alegação de ausência de contemporaneidade não tem o condão de revogar a segregação provisória.
+Por fim, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do recorrente não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+Ante o exposto, com base no art. 34, XVIII, b , do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
