@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 1.042 do CPC/2015) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal (e-STJ fl. 305).
+O acórdão recorrido está assim ementado (e-STJ fl. 248):
+Recuperação judicial Compensação Créditos e débitos originários de contratos de empréstimo e de swap Interpretação da Lei 11.101/2005 Inviabilidade Indeferimento mantido Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 264/270) :
+No especial (e-STJ fls. 275/284), fundamentado no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 368 e 380 do CC/2002 e 49 da Lei n. 11.101/2005, sustentando, em síntese, ser possível a compensação do crédito decorrente de operação financeira envolvendo mútuo e swap. Acrescentou que tal possibilidade não ofenderia nenhum dos institutos específicos da recuperação judicial.
+No agravo (e-STJ fls. 307/321), afirma a presença de todos os requisitos de admissibilidade do especial.
+Parecer ministerial pelo desprovimento do recurso (e-STJ fls. 335/340).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 249/250):
+Quando do julgamento da Apelação 9069695-73.2009.8.26.0000 pela antiga Câmara Especial de Falências e Recuperações Judiciais, em 9 de junho de 2009, o Desembargador Romeu Ricupero, de maneira muito precisa, expôs que a vigente Lei 11.101/2005 "só dispõe de dispositivo acerca da compensação na hipótese de falência, ou seja, o art. 122, não existindo, ao contrário do que acontecia na legislação revogada, norma semelhante ao art. 164 do Decreto-Lei n.7.661/45, prevendo compensação de créditos e débitos em concordata preventiva". Conclui, então, que "na recuperação judicial, não há que se falar em compensação de créditos e débitos".
+É evidente a submissão do crédito decorrente do empréstimo concedido aos efeitos da recuperação judicial, dado o disposto no artigo 49 da Lei 11.101. O mútuo em moeda estrangeira foi concedido para a obtenção de capital de giro (fls.115) e com amortização para ser feita em parcelas mensais (fls.113), tendo sido, também, instituídas garantias pessoais (fls.121 e 123/124), sem referência direta a uma coligação com o contrato de swap.
+De outra parte, a invocada Cláusula 4ª do contrato de swap celebrado (fls.135/136), em particular seu item 4.2.1, colide com a legislação vigente. Tal cláusula só pode ser interpretada no sentido de permitir a compensação de créditos e débitos apurados no dia de encerramento da operação, como fruto da execução do próprio contrato e da liquidação dos derivativos comprados e vendidos, os quais se encontram especificados na Cláusula 1ª (fls.134).
+A conjugação ampla, de créditos e débitos originários de vários contratos e em benefício da instituição financeira, criaria uma desequiparação não contemplada pelo legislador pátrio. Ela não pode ser admitida.
+A decisão recorrida, portanto, merece ser mantida, eis que é inviável a compensação proposta pela instituição financeira.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. Um dos fundamentos centrais do acórdão impugnado é a conclusão de que a invocada Cláusula 4ª do contrato de swap celebrado (fls.135/136), em particular seu item 4.2.1, colide com a legislação vigente. Acrescentou ainda que, na recuperação judicial, não há falar em compensação de créditos e débitos. Tais pontos, aptos, por si sós, a sustentar o juízo emitido, não foram rebatidos nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Além disso, para alterar os fundamentos acima transcritos e afastar a abusividade da cláusula contratual indicada de forma a se permitir eventual compensação, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
