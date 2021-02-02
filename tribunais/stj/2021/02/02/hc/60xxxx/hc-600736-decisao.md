@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus que busca o afastamento do trânsito em julgado do acórdão combatido e a devolução do prazo processual para recurso às instâncias superiores.
+O paciente foi condenado incurso no art. 157, § 2º, II e V, do Código Penal, às penas de 7 anos, 9 meses e 10 dias de reclusão, em regime inicial fechado, e 18dias-multa.
+A liminar foi indeferida e a manifestação ministerial pela denegação.
+É o relatório.
+DECIDO.
+Aduz a impetração que houve cerceamento de defesa poissomente após ter sido cobrada, tanto por e-mail como por petição (Documento n.º 01/02) no que se refere ao julgamento dos Embargos de Declaração pré questionatórios, interpostos e devidamente protocolados de forma tempestiva, juntou aos autos, de forma quase que imediata todos osprocedimentos quanto ao julgamento dos referidos Embargos como competentes certidões, todas com protocolo datado do mesmo dia, já com o transito em julgado, sendo flagrante portanto o constrangimento ilegal  .. a zelosa serventia sequer noticiou, consignou ou mesmo citou de qualquer forma, nos autosprincipais, pois segundo esta mesmo falsamente juntou os embargos declaratórios como subprocesso, não tendo conforme dito, informado de qualquer maneira, a existência de tal recurso nos autos principais, o que seria o mínimo a ser feito e, não o fez pelo simples fato que na verdade errou, esquecendo-se de juntar aos autos os devidos andamentos processuais e, de maneira vil e criminosa tentou encobrir o seu erro.
+O Tribunal local prestou informações narrando que os embargos de declaração opostos pelo paciente foramjulgados em 09/06/2020, com publicação no DJE em 16/06/2020, e certificação do trânsito em julgado para a defesa em 02/07/2020(fl. 53). Apublicação do acórdão dos embargosfoi feitaem nome dos advogadosAdriano Guimarães Giannelli, OAB: 234307/SP,eSanta Vernier, OAB: 101984/SP(fl. 68).
+Não se vislumbra o constrangimento alegado, já que o impetrante foi formalmente cientificado por meio de publicação no Diário de Justiça Eletrônico acerca do teor do julgamento dos embargos de declaração,meio formal ordinário previsto por lei para ciência de tais atos, e a não apresentação do andamento dos embargos de declaração nos autos principais da apelação criminal não implica em nulidade processual, já que satisfeitos os requisitos mínimos para publicidade dos atos jurisdicionais. Outrossim, conforme precedente da Corte,eventual omissão no relatório de movimentação processual não é fundamento idôneo para a devolução de prazo processual quando a parte tiver sido devidamente intimada pelos meios oficiais, como ocorreu no caso, veja-se:
+PROCESSUAL PENAL. HABEAS CORPUS. NULIDADE. ANDAMENTO PROCESSUAL SEM INFORMAÇÃO SOBRE O JULGAMENTO DE EMBARGOS DECLARATÓRIOS.IRRELEVÂNCIA. DEFENSOR CONSTITUÍDO. REGULAR INTIMAÇÃO PELA IMPRENSA OFICIAL.
+1. Para o Superior Tribunal de Justiça, as informações processuais disponíveis no sítio eletrônico dos Tribunais não substituem a publicação ou a intimação dos atos processuais pelos meios formais.
+Assim, eventual omissão no relatório de movimentação processual não é fundamento idôneo para a devolução de prazo processual quando a parte tiver sido devidamente intimada pelos meios oficiais, como ocorreu no caso. Precedentes.
+2. A intimação de decisões proferidas em segunda instância dá-se pela publicação na imprensa oficial, salvo quando o acusado é assistido pela defensoria pública ou por defensor dativo, situação em que a defesa técnica deve ser intimada pessoalmente.
+3. In casu, o advogado de defesa foi regularmente intimado do julgamento dos embargos de declaração mediante publicação no Diário da Justiça eletrônico.
+4. Ordem denegada.
+(HC 322.605/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 10/12/2015, DJe 05/02/2016)
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
