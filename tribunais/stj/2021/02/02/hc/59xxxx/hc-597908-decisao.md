@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim ementado (fl. 104):
+Habeas Corpus - Tráfico de drogas - Acusado que respondeu preso ao processo - Imposição do regime fechado - Apelo em liberdade - Não cabimento - Constrangimento ilegal - Inexistência - Ordem denegada.
+Consta dos autos que o paciente foi condenado por ter praticado a infração penal tipificada no artigo 33, caput, c.c art. 40, inciso III, da Lei nº 11.343/2006, à pena de 9 (nove) anos e 4 (quatro) meses de reclusão e ao pagamento de 800 (oitocentos) dias- multa, no valor de 1/30 (um trigésimo) do salário mínimo vigente à época da infração para cada dia-multa.
+A impetrante sustenta que "após ser regularmente processado, foi ao final condenado, nos termos da denúncia. No entanto, na r. sentença condenatória, de ofício, a magistrada sentenciante decretou a prisão preventiva do ora paciente, em total desconformidade com o que enuncia o art. 311 do CPP, que impede a prisão preventiva de ofício. O fundamento da prisão cautelar foi que estaria devidamente comprovada a existência do crime de tráfico de drogas, bem como a necessidade de proteção a ordem pública e resguardo da aplicação da lei penal, já que em liberdade há o risco que o paciente volte a delinquir. Saliente-se que o paciente está preso por outro processo, inclusive praticou o crime em cumprimento de pena, no interior de penitenciária, mas, respondeu a todo o processo sem que fosse decretada sua prisão cautelar".
+A liminar foi deferida e a manifestação ministerial pela manutenção da decisão liminar.
+É o relatório.
+DECIDO.
+A sentença condenatória, na parte em que tratou da prisão preventiva, assim dispôs (fl. 98):
+ ..
+Da análise da Folha de Antecedentes e das certidões denota-se com clareza franciscana que o réu se dedica a atividades criminosas e está envolvido com o tráfico, situação que caracteriza de forma veemente perigo à sociedade.
+Assim, comprovada a prática da mercancia ilícita, como também diante do teor desta decisão e da pena ora imposta, há demonstração suficiente de que, solto, o réu voltará a delinquir. Dessa maneira, com escopo de se resguardar a ordem pública e para assegurar a aplicação da lei penal, bem como a necessidade de se evitar a reiteração de condutas proibidas, indefiro ao réu o direito de recorrer em liberdade e decreto sua prisão preventiva. Expeça-se, pois, o competente mandado de prisão.
+Como já antecipado na decisão liminar, ainda que conste na sentença a vivência delitiva do paciente, ressaltando-se que "da análise da Folha de Antecedentes e das certidões denota-se com clareza franciscana que o réu se dedica a atividades criminosas e está envolvido com o tráfico, situação que caracteriza de forma veemente perigo à sociedade", ele respondeu ao processo em liberdade, e essa circunstância já era conhecida pelo Juiz, não sendo agregado ao decreto prisional nenhum fato novo.
+Pacífico é o entendimento de que a urgência intrínseca às cautelares, notadamente à prisão processual, exige a contemporaneidade dos fatos justificadores dos riscos que se pretende com a prisão evitar: HC 214921/PA - 6ª T - unânime - Rel. Min. Nefi Cordeiro - DJe 25/03/2015; HC 318702/MG - 5ª T - unânime - Rel. Min. Reynaldo Soares da Fonseca - DJe 13/10/2015.
+Deste modo, a falta de contemporaneidade do delito imputado ao paciente e a inocorrência de fatos novos a justificar, nesse momento, a necessidade de segregação, torna a prisão preventiva ilegal, por não atender ao requisito essencial da cautelaridade.
+Ante o exposto, concedo ohabeas corpusparaa soltura do paciente, João Alberto Perez dos Santos, o que não impede a determinação de medidas cautelares diversas de prisão, por decisão fundamentada.
+Publique-se.
+Intimem-se.
