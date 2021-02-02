@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Antonio Carlos Mathias Pereira contra ato coator proferido pela Oitava Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do HC n.2180737-66.2020.8.26.0000, denegou a ordem pleiteada, mantendo o paciente preso preventivamente pela suposta prática de tráfico de drogas (processo n. 1501168-32.2020.8.26.0302).
+O impetrante alega, em síntese, que o decreto de prisão está mal fundamentado, apoiando-se na gravidade do própriofato contido na denúncia, não estando claramente demonstrados os requisitos do art. 312 do Código de Processo Penal.
+Sustenta ser desnecessária a manutenção da prisão preventiva, haja vista a falta do fumus comissi delicti. A droga apreendida é de pequeno potencial lesivo e o suposto crime foi cometido sem violência ou grave ameaça à pessoa.
+Afirma não haver óbice à concessão da liberdade provisória, visto que preenchidos os requisitos do art. 310 do Código de Processo Penal.
+Menciona o disposto no incido LXVI do art. 5º da Constituição Federal e a inconstitucionalidade em parte do art. 44 da Lei n. 11.343/2006.
+Pede a concessão da liberdade provisória com ou sem fiança (fls. 3/9).
+Liminar indeferida às fls. 223/224.
+Informações prestadas pela origem às fls. 230/283 e 286/303.
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus, conforme os termos da seguinte ementa do parecer (fl. 305):
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INADEQUAÇÃO DA VIA ELEITA. AUSÊNCIA DE PREVISÃO CONSTITUCIONAL PARA OCABIMENTO DE WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. GRANDE QUANTIDADE DE DROGA APREENDIDA. PROPENSÃO À REITERAÇÃO DELITIVA. RÉU REINCIDENTE ESPECÍFICO. MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE. INSUFICIÊNCIA, SE PRESENTES OS REQUISITOS DA SEGREGAÇÃO PROVISÓRIA.CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. NÃO CONHECIMENTO DO HABEAS CORPUS.
+- A jurisprudência do STJ e do STF assentou o entendimento de que o habeas corpus não deve ser conhecido quando consistir em utilização inadequada da garantia constitucional, em substituição aos recursos ordinariamente previstos nas leis processuais.
+- A prisão preventiva se justifica para garantia da ordem pública, ante a gravidade concreta da conduta, notadamente pela grande quantidade da droga apreendida em poder do ora paciente e sua comparsa. A medida extrema se faz necessária também para evitar a reiteração delitiva, na media em que o acusado é reincidente específico e recém-egresso do sistema prisional, além de ocupar posição de destaque em organização criminosa, razões tais que, outrossim, tornam insuficiente a aplicação de quaisquer das medidas cautelares subsidiárias à prisão, previstas no art. 319 do CPP.
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+A impetração pretende a revogação da prisão preventiva, tendo em vista a falta de fundamentação suficiente para a prisão e a ausência de fundamentação acerca da suficiência das cautelares.
+A impressão que tive ao indeferir a liminar se mantém.
+A prisão preventiva foi decretada aos seguintes fundamentos(fl. 238):
+Ademais, consta da decisão que decretou a prisão preventiva, que, "Em cognição superficial, considerando os elementos colhidos pela Autoridade Policial até o momento, mostram-se presentes os requisitos legais para a decretação da prisão preventiva do representado.
+Há indícios suficientes de autoria para sustentar a participação dele nos delitos de tráfico de drogas e associação para o tráfico. As investigações indicavam o comércio ilícito pelo investigado em associação com sua esposa e primos. Tais pessoas, à exceção de Antonio Carlos, foram presas em flagrante e os elementos colhidos corroboram a acusação que lhe é imputada. Segundo relato de uma das autuadas (fls. 13/14), Antonio Carlos ocupa posição de destaque na organização criminosa.
+As peculiares circunstâncias da hipótese indicam traficância habitual e permanente e a posse de entorpecente em quantidade relevante denotam elevado potencial de disseminação.
+Ademais, o representado é reincidente específico e recém-egresso do sistema penitenciário (fls. 96/99), o que denota sua periculosidade e reforça a necessidade da medida para impedir a reiteração criminosa.
+Por fim, tais fatores revelam a inviabilidade de aplicação de qualquer medida alternativa à prisão, sem adequação e insuficientes frente à notória gravidade dos crimes, às circunstâncias do fato e às condições pessoais do(a) representado.
+Nestes termos, estando presentes os requisitos legais, decreto a prisão preventiva de ANTONIO CARLOS MATHIAS PEREIRA, nos termos dos arts. 282, § 6º, 310, II, e 312,"caput", todos do Código de Processo Penal. Expeça(m)-se, pois, com as cautelas de praxe, mandado(s) de prisão, cuja data de validade deverá coincidir com a do prazo prescricional em abstrato.(fls. 251/252 dos autos originais).
+Mais à frente, chancelando os fundamentos do decreto de prisão, denegou a ordem aos seguintes fundamentos (fl. 226):
+Verifico, assim, que a I. Magistrada que decretou a prisão preventiva e indeferiu o pedido de liberdade provisória os fez de forma fundamentada, considerando não somente a gravidade abstrata do delito, mas a existência de indícios de autoria e de prova da materialidade, as circunstâncias concretas do caso, bem como as condições pessoais do Paciente, reveladoras da necessidade da conversão da manutenção da prisão preventiva, atendendo ao disposto no artigo 312 do CPP.
+Com efeito, considerando as circunstâncias concretas em que, em tese, praticados os delitos, tendo em vista a variedade e a quantidade de drogas apreendidas, somadas à quantia em dinheiro, possível produto da venda de outras porções, além de materiais comumente utilizados para embalar entorpecentes, a demonstrar altíssima reprovabilidade da sua conduta, conforme a denúncia (fls. 1/4 dos autos originais); bem como considerando que a decisão que decretou a prisão preventiva foi proferida em 17.7.2020 (fls. 251/252 dos autos originais) eaté o presente momento, não consta que o mandado de prisão tenha sido cumprido, a manutenção da prisão preventiva era mesmo de rigor, para atender às finalidades previstas no artigo 312 do Código de Processo Penal.
+Conforme entendimento doSuperior Tribunal de Justiça, a existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso denotam o risco de reiteração delitiva econstituem também fundamentação idônea a justificar a segregação cautelar (HC n. 473.991/SC, Ministra Laurita Vaz, Sexta Turma, DJe 4/2/2019).
+De fato, os documentos às fls. 137/149 demonstram a existência de antecedentes desfavoráveis específicosdo paciente, o que permite a imposição da prisão cautelar, conforme jurisprudência pacífica.
+Ausente constrangimento ilegal a ser sanado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. REQUISITOS. DEMONSTRAÇÃO DO FUMUS COMISSI DELICTI. REITERAÇÃO DELITIVA. REINCIDÊNCIA. PRECEDENTES.
+Ordem denegada.
