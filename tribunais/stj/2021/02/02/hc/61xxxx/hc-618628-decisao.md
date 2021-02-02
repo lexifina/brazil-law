@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GABRIEL HENRIQUE DE OLIVEIRA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Processo n. 2212589-11.2020.8.26.0000).
+O paciente foi presoem razão da suposta prática dos delitos descritos nos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006.
+O decreto da preventiva baseou-se na quantidade de drogae valores apreendidos- 2 tijolos de maconha, R$ 1.095,85 em espécie e anotações de contabilidade do tráfico de drogas-, registrando-se também a existênciade antecedentes criminais do paciente.
+O Tribunal de origem manteve a segregação cautelar, pois entendeu que estavam preenchidos os requisitos autorizadores da medida extrema. Na mesma oportunidade, ressaltou a incompatibilidade da aplicação das medidas cautelares do art. 319 do CPP com o caso concreto.
+O impetrante requer a concessão de liminar para a revogação da prisão preventiva do paciente ou sua substituição por medidas cautelares diversas (art. 319 do CPP).
+Alega ser o paciente primário, possuir residência fixa e trabalho lícito.
+O pedido de liminar foi indeferido às fls. 79-80.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 107-109).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Juízo de primeira instância ao decretar a preventiva (fl. 64):
+ ..  No caso vertente, considerando o conjunto das circunstâncias e os antecedentes criminais dos autuados; considerando a expressiva quantidade de drogas apreendida com eles (dois tijolos de maconha); e por fim, considerando o parecer fundamentado e favorável à prisão lavrado pelo DD. Promotor de Justiça nas fls.59/60, tenho que é caso de conversão da prisão em flagrante em prisão preventiva por estarem presentes os pressupostos legais (CPP, arts. 310, inciso II e 312). O tráfico ilícito de drogas é considerado um crime hediondo e tem alto potencial lesivo para a sociedade em geral. Os autuados também registram antecedentes criminais, não sendo o caso, por ora, de acolhimento dos pedidos das Defesas de fls. 62/72. Nem podem os infratores se esquivarem da custódia sob a alegação da pandemia desencadeada pelo "coronavírus", até porque, a própria pandemia não serviu para impedir os seus impulsos para o crime hediondo.
+Por fim, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
