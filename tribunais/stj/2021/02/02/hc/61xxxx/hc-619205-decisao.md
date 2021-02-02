@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 402):
+EMENTA: HABEAS CORPUS. FURTO QUALIFICADO.DECRETO DE PRISÃO PREVENTIVA. FUNDAMENTOS.SUFICIÊNCIA. Imperativa a manutenção da decisão que homologou o flagrante e decretou a prisão preventiva, porquanto preenchidos os pressupostos e fundamentos legais ensejadores da segregação preventiva (CPP, art. 312), estando a constrição da liberdade satisfatoriamente alicerçada em elementos concretos dos autos a respeito da existência de materialidade do crime e de indícios suficientes de autoria, fulcrada, ainda, na sua gravidade e na reincidência específica, restando insuficiente a aplicação de medidas cautelares diversas da prisão (CPP, art. 319). REGIME DECUMPRIMENTO DA PENA. O hipotético regime de cumprimento da pena não autoriza a concessão da liberdade provisória, quando vislumbrada, por ora, a necessidade da manutenção no ergástulo. PRINCÍPIO CONSTITUCIONAL. Havendo decisão judicial, devidamente fundamentada em elementos concretos, a custódia preventiva não ofende o princípio da inocência, nem há falar-se em antecipação depena. PREDICADOS PESSOAIS. Bons predicados pessoais, por si sós, não garantem ao paciente o direito de respondera o processo em liberdade. COVID-19. Não se conhece do pleito de liberdade em razão da pandemia do COVID-19,quando não apreciado pelo juízo singular, para não incorrerem supressão de instância e porque o paciente não fez prova de que pertence a um grupo de maior risco de contaminação. ORDEM PARCIALMENTE CONHECIDA E DENEGADA.
+Consta dos autos que o paciente foi preso em flagrante em 26/7/2020 e teve sua prisão convertida em preventiva no dia 28/7/2020, restandodenunciado pela prática docrimedescritonoart. 155, § 4º, II, do Código Penal.
+Sustenta a impetrante, em síntese, ausência dos requisitos ensejadores da prisão preventiva, ofensa ao princípio da homogeneidade,bem como a necessidade de restabelecimento da liberdade, especialmente diante do risco de contágio da nova epidemia.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para revogar a prisão preventiva ou, subsidiariamente, a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimentoda ordem.
+Na origem, Processo n. 5364369-59.2020.8.09.0051, verifica-se a prolação de sentença condenatória 18/10/2020,oportunidade em que houve a revogação da prisão preventiva, conforme informações extraídas no site do Tribunal a quo em 8/1/2021.
+É o relatório.
+DECIDO.
+Conforme relatado, foi proferida sentença(fls. 441-446) em que o ora paciente foi condenado a 1 ano e 2 meses de reclusão pela prática do delito previsto no art.do 155, caput, do Código Penal, no regime semiaberto, sendo revogada a prisão preventiva.
+Desse modo, não há como negar a prejudicialidade deste writ, ante a perda superveniente do objeto.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
