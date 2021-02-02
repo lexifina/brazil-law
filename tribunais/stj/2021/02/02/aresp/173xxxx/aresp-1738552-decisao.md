@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento naSúmula7 do STJ.
+Nas razões do especial, aponta a defesa violação do art. 65, III,d, do CP, uma vez que o Tribunal a quo não reconheceu a confissão espontânea, pois "o recorrente confessou os fatos em sede policial, bem como não negou sua autoria em sede judicial, apenas alertando que não se lembrava dos fatos como estava sendo narrado, dando sua versão" (fl. 265).
+Argumenta que "se a confissão foi utilizada para condenar, deve ser utilizada como atenuante, conforme entendimento firmado na Súmula 545, STJ (..) (fl. 268).
+Requer, assim, o provimento do recurso especial para que, reconhecendo-se a atenuante da confissão espontânea, seja redimensionada a pena.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não provimento do agravo.
+É o relatório.
+DECIDO.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+O Tribunala quo, para não reconhecer a incidência da atenuante da confissão espontânea, utilizou-se dos seguintes fundamentos (fls. 257-258):
+Não verificada, por sua vez, a confissão espontânea do delito por parte do apelante. Em verdade, embora tenha confessado na fase administrativa, na fase judicial ateve-se ele alegar que não se recordava do acontecimento na data dos fatos.
+É de se ressaltar que a Constituição Federal, em seu artigo 5º, XXXVIII, alínea "c", confere ao Tribunal do Júri Popular a soberania dos veredictos, de sorte que os jurados possuem liberdade para resolver a causa da maneira que mais lhe afigure justa e correta, provendo suas decisões da íntima convicção, sendo garantido o sigilo das votações (art. 5º, XXXVI, alínea "b" da CF/88).
+Tais características impossibilitam, portanto, o conhecimento dos motivos que ensejaram a decisão do Conselho de Sentença, não sendo viável, como na hipótese, saber se a confissão do réu serviu de amparo ao veredicto.
+Por outro lado, a arguida confissão do réu não foi utilizada pelo Juízo de base como fundamento para a valoração negativa das circunstâncias judiciais do art. 59 do CP, razões pelas quais não deve incidir a atenuante prevista no art. 65, III, "d" do CP.
+O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, que orienta-se no sentido de que, nos julgamentos realizados perante o Tribunal do júri, as circunstâncias agravantes ou atenuantes somente poderão ser consideradas na formulação da dosimetria da pena quando debatidas em plenário. Confira-se:
+PENAL. AGRAVOREGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO. TRIBUNAL DO JÚRI. APLICAÇÃO CONCOMITANTE DO PRIVILÉGIO DO ART. 121, § 1º, DO CP E DA ATENUANTE DO ARTIGO 65, INCISO III, ALÍNEA "C" DO CP. IMPOSSIBILIDADE. ATENUANTE DA CONFISSÃO ESPONTÂNEA. NÃO OCORRÊNCIA. NECESSIDADE DE A TESE TER SIDO DEBATIDA EM PLENÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A jurisprudência desta Corte Superior de Justiça é no sentido de que a confissão do acusado, quando utilizada para a formação do convencimento do julgador, deve ser reconhecida na dosagem da pena como circunstância atenuante, nos termos do art. 65, III, "d", do CP, mesmo quando eivada de teses defensivas, descriminantes ou exculpantes. Inteligência da Súmula n. 545/STJ (Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal). No presente caso, o acusado não faz jus à diminuição de pena decorrente da atenuante, uma vez que não houve a confissão pela prática do crime de homicídio qualificado.
+4. Mesmo que assim não fosse,as circunstâncias agravantes ou atenuantes, entre elas a confissão, somente poderão ser consideradas no Tribunal do Júri pelo Juiz Presidente, na formulação da dosimetria penal, quando debatidas em plenário. Pela leitura da sentença e do acórdão recorrido, verifica-se que não foi discutida a questão referente à incidência ou não da atenuante da confissão durante os debates em plenário do Tribunal do Júri, não podendo ser aplicada, uma vez que não há como precisar que, mesmo se existisse, ela tenha sido determinante para a formação do convencimento do jurados.
+5. Agravo regimental não provido(AgRg no REsp 1835054/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/10/2019, DJe 04/11/2019).
+HABEAS CORPUS. PENAL. HOMICÍDIO QUALIFICADO EM CONCURSO MATERIAL COM TENTATIVA DE HOMICÍDIO QUALIFICADO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME FÁTICO. READEQUAÇÃO DA PENA. INCIDÊNCIA DA CONFISSÃO QUALIFICADA. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, CONCEDIDA.
+ ..
+5.No rito do Júri, em que as decisões do Conselho de Sentença não são motivadas, por serem baseadas em íntima convicção, não há como a Corte local precisar se a confissão foi ou não determinante para a formação do convencimento do Jurados. Desse modo, a incidência da atenuante fica condicionada à sua alegação durante os debates em plenário. Precedentes do STJ.
+6. Ordem dehabeas corpusparcialmente conhecida e, nessa extensão, concedida para reconhecer a existência da atenuante da confissão qualificada e readequar a pena ao patamar de 18 (dezoito) anos de reclusão, mantido o regime inicial fechado(HC 478.741/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 20/02/2019)
+No caso, o acórdão dispôs, de forma expressa, "Não verificada, por sua vez, a confissão espontânea do delito por parte do apelante".
+Impõe-se, portanto, a manutenção do acórdão recorrido, incidindo, no ponto, o óbice contido na Súmula 83/STJ - também empregado em recursos interpostos com fulcro na alínea a do permissivo constitucional -, segundo a qual Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
