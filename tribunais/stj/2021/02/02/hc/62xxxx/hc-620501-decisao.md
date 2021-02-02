@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo, com pedido liminar, impetrado em favor de PAULO CESAR PORTALETE, apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+O suposto ato coator restou assim ementado:
+"HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA, EM TESE, DOS CRIMES DESCRITOS NOS ARTIGOS 171, CAPUT C/C 14, II, NA FORMA DOS ARTIGOS 29 E 69 TODOS DO CP. PLEITO DE TRANCAMENTO DA AÇÃO PENAL. ALEGADA NECESSIDADE DE REPRESENTAÇÃO DA VÍTIMA. RETROATIVIDADE DA LEI 13.964/2019. NORMA DE NATUREZA MISTA (CARÁTER PROCESSUAL COM CONTEÚDO MATERIAL). RETROATIVIDADE DA LEI PENAL MAIS BENÉFICA PARA FATOS JÁ PRATICADOS, MAS QUE AINDA NÃO FORAM OBJETO DE DENÚNCIA. PARA CASOS EM ANDAMENTO (EM QUE A DENÚNCIA JÁ FOI OFERECIDA, A SENTENÇA JÁ FOI PROLATADA OU, A APELAÇÃO JÁ FOI JULGADA, TODOS ATOS JURÍDICOS PERFEITOS E ACABADOS), A NOVA CONDIÇÃO DE PROCEDIBILIDADE NÃO SE APLICA. ADEMAIS, REGRA DE
+PROCEDIBILIDADE QUE NÃO EXIGIRIA MAIOR FORMALIDADE CASO APLICADA IMEDIATAMENTE. PRECEDENTES DO STF. DOCUMENTOS CONTANTES DOS AUTOS IDÔNEOS E SUFICIENTES PARA CONTINUIDADE DA AÇÃO PENAL. ORDEM DENEGADA." (e-STJ, fl. 466).
+Nesta instância, reitera seu pleito de retroatividade benéfica da Lei 13.964/19, de modo a se exigir a representação dos ofendidos para que se dê continuidade à ação penal em andamento.
+Pleiteia, liminarmente, a suspensão da ação penal. E, no mérito, o seu trancamento definitivo.
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal ofertou parecer pelo não conhecimento do writ ou pela sua denegação.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Com efeito, anote-se que o entendimento desta Quinta Turma não se coaduna com a pretensão defensiva:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. ENUNCIADO 691 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. NULIDADE DA AUDIÊNCIA DE CUSTÓDIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. COAÇÃO ILEGAL INEXISTENTE.
+ ..
+3. Esta colenda Quinta Turma já decidiu que "além do silêncio do legislador sobre a aplicação do novo entendimento aos processos em curso, tem-se que seus efeitos não podem atingir o ato jurídico perfeito e acabado (oferecimento da denúncia), de modo que a retroatividade da representação no crime de deve se restringir à fase policial, não alcançando o estelionato processo", pois, "do contrário, estar-se-ia conferindo efeito distinto ao estabelecido na nova regra, transformando-se a representação em condição de prosseguibilidade e não procedibilidade" (HC 573093/SC HABEAS CORPUS 2020/0086509-0, Ministro REYNALDO SOARES DA FONSECA, T5 - QUINTA TURMA, Data do Julgamento: 09/06/2020, DJe 18/06/2020), não havendo que se falar, assim, em flagrante ilegalidade passível de afastar o óbice contido no verbete 691 da Súmula do Supremo Tribunal Federal.
+4. Agravo regimental desprovido."
+(AgRg no HC 603.062/RN, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/08/2020, DJe 25/08/2020; grifou-se).
+"AGRAVO REGIMENTAL NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIME DE ESTELIONATO. PRETENDIDA APLICAÇÃO RETROATIVA DA REGRA DO § 5º DO ART. 171 DO CÓDIGO PENAL, ACRESCENTADO PELA LEI N. 13.964/2019 (PACOTE ANTICRIME). INVIABILIDADE. ATO JURÍDICO PERFEITO. CONDIÇÃO DE PROCEDIBILIDADE. DOUTRINA. RECURSO NÃO PROVIDO.
+1. A Lei n. 13.964/2019, de 24 de dezembro de 2019, conhecida como "Pacote Anticrime", alterou substancialmente a natureza da ação penal do crime de estelionato (art. 171, § 5º, do Código Penal), sendo, atualmente, processado mediante ação penal pública condicionada à representação do ofendido, salvo se a vítima for: a Administração Pública, direta ou indireta; criança ou adolescente;
+pessoa com deficiência mental; maior de 70 anos de idade ou incapaz.
+2. Observa-se que o novo comando normativo apresenta caráter híbrido, pois, além de incluir a representação do ofendido como condição de procedibilidade para a persecução penal, apresenta potencial extintivo da punibilidade, sendo tal alteração passível de aplicação retroativa por ser mais benéfica ao réu. Contudo, além do silêncio do legislador sobre a aplicação do novo entendimento aos processos em curso, tem-se que seus efeitos não podem atingir o ato jurídico perfeito e acabado (oferecimento da denúncia), de modo que a retroatividade da representação no crime de estelionato deve se restringir à fase policial, não alcançando o processo. Do contrário, estar-se-ia conferindo efeito distinto ao estabelecido na nova regra, transformando-se a representação em condição de prosseguibilidade e não procedibilidade. Doutrina: Manual de Direito Penal: parte especial (arts. 121 ao 361) / Rogério Sanches Cunha - 12. ed. rev., atual. e ampl. - Salvador: Editora JusPODIVM, 2020, p. 413.
+3. Ademais, na hipótese, há manifestação da vítima no sentido de ver o acusado processado, não se exigindo para tal efeito, consoante a jurisprudência desta Corte, formalidade para manifestação do ofendido.
+4. Agravo regimental improvido."
+(AgRg na PET no AREsp 1649986/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Conforme se infere do acórdão atacado, a hipótese dos autos está em perfeita sintonia com o entendimento deste Órgão julgador. Confira-se o seguinte excerto:
+"Na prática, contudo, para os casos em andamento, a questão da retroação merece tratamento orientado por razoabilidade. Isso quer dizer que, para fatos já praticados, mas que ainda não foram objeto de denúncia, evidente a necessidade de se aplicar a regra e buscar a manifestação de vontade da vítima ou de seu representante a fim de viabilizar a propositura da ação penal. Por outro lado, nos casos em que a denúncia já foi oferecida, a sentença já foi prolatada ou, a apelação já foi julgada, todos atos jurídicos perfeitos e acabados, a nova condição de procedibilidade não se aplica." (e-STJ, fl. 469)
+Dessa forma, não vislumbro qualquer ilegalidade a permitir a concessão da ordem por esta Corte Superior.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
