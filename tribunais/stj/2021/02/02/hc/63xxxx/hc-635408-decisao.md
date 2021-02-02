@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Diego Pereira Gonçalves, no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação Criminal n. 1501528-17.2020.8.26.0544- fls. 35/47), por manter a sentença do Juízo deDireito da 3ª Vara Criminal da comarca de Jundiaí/SP, que o condenoucomo incurso nos arts. 33, caput, da Lei n. 11.343/2006, e 180, caput, do Código Penal, à pena de 7anos, 2 meses e 12 dias de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 612 dias-multa(fls. 14/19).
+Nesta Corte, a defesa pretende, em suma, a fixação do regime semiaberto para o início do cumprimento da reprimenda.
+Sem pedido liminar, informações prestadas (fls. 54/79), o Ministério Público Federal opinou pelo não conhecimento do writ, por meio de parecer proferido pelo Subprocurador-Geral da República Roberto dos Santos Ferreira, assim ementado (fl. 81):
+HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. TRÁFICO DE DROGAS E RECEPTAÇÃO. ACÓRDÃO TRANSITADO EM JULGADO. EXECUÇÃO PENAL. REGIME PRISIONAL FECHADO PARA O CUMPRIMENTO DA PENA.FUNDAMENTAÇÃO CONCRETA.PRECEDENTES. PARECER PELO NÃO CONHECIMENTO DA ORDEM DE HABEAS CORPUS.
+É o relatório.
+Inicialmente, observo que o presente habeas corpus é substitutivo de revisão criminal, porquanto impetrado contra acórdão proferido no âmbito de apelação criminal, já transitado em julgado, de acordo com as informações constantes à fl. 54.
+Ora, nos termos da jurisprudência desta, se o habeas corpus foi impetrado contra acórdão do Tribunal de Justiça de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido (HC n. 288.978/SP, da minha relatoria, rel. p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018 - grifo nosso).
+Ademais, não há ilegalidade a ser sanada de ofício, poisas instâncias ordinárias fixaram o regime fechado para o início do cumprimento da pena imposta aopaciente, principalmente, em razão de suareincidência.
+Com efeito,fixada a pena privativa de liberdade em patamar superior a 4 (quatro) anos e inferior a 8 (oito) anos de reclusão e verificada a reincidência  ..  admite-se o regime inicial fechado para o cumprimento da pena, a teor do art.33, § 2.º, alínea b, e § 3º, do Código Penal(AgRg no AREsp n.1.603.857/SP,Ministra Laurita Vaz, Sexta Turma, DJe 12/11/2020).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E RECEPTAÇÃO.SENTENÇA CONDENATÓRIA. ACÓRDÃO DA APELAÇÃO JÁ TRANSITADO EM JULGADO. HC SUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. NECESSIDADE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL VERIFICADO DE OFÍCIO.
+Habeas corpus não conhecido.
