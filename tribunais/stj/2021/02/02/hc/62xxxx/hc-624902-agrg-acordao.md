@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A REVISÃO DA PRISÃO PREVENTIVA.WRIT QUE INVESTE CONTRA OMISSÃO DE JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DESTA CORTE. MATÉRIA NÃO ANALISADA PELO EG. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DE APRECIAÇÃO DA MATÉRIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Verifica-se que o presente writ se insurge contra omissão de Juiz de primeiro grau, em razão do excesso de prazo para a revisão nonagesimal da prisão preventiva imposta ao ora agravante.
+II - Falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, "c", da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra omissãode Juiz de primeiro grau. Precedentes.
+III -Quanto à alegação de que há omissão por parte do eg. Tribunal de origem, porquanto não foi realizada a revisão periódica da necessidade de manutenção da segregação cautelar do agravante, insta consignar que não há nos autos qualquer manifestação do eg. Tribunal de Justiça do Estado de São Paulo, eesta eg. Corte Superior firmou entendimento no sentido de que "compete apenas ao órgão emissor da decisão a obrigação de revisar a prisão, ou seja, ao juiz ou tribunal que decretar a custódia preventiva" (AgRg nos EDcl no HC n. 605.590/MT, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/10/2020).
+Agravo Regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER:Trata-se de agravo regimental interposto por FABIO AMARAL DE SOUSA, em face de decisão proferida por esta relatoria, que indeferiu liminarmente o writ, às fls. 100-101.
+Depreende-se dos autos que o d. juízo de primeiro condenou o ora agravante pela prática do delito previsto no art. 33, c/c art. 40, inciso VI da Lei n. 13.343/06, à pena de 6 anos de reclusão, em regime inicial fechado, sendo negado-lhe o direito de recorrer em liberdade.
+Irresignada a defesa interpôs recurso de apelação perante o eg. Tribunal de Justiça do Estado de São Paulo, o qual se encontra pendente de apreciação.
+Sobreveio então o presente mandamus, no qual aduziu o impetrante a existência de constrangimento ilegal, em razão do alegado excesso de prazo para a constrição cautelar, porquanto não realizada a revisão periódica da prisão preventiva, além de alegar ausência de fundamentação do decreto prisional.
+Requereu, assim, a revogação da prisão preventiva do ora agravante.
+Em decisão monocrática, às fls. 100-101, indeferi liminarmente o writ, reconhecendo a incompetência desta Corte Superior para apreciar a matéria aventada.
+Daí o presente agravo regimental, no qual alega-seque "a decisão combatida não é a do Juízo de primeira instância, mas sim é autoridade coatara o N. Desembargador do Egrégio Tribunal de Justiça, Dr. LAURO MENS DE MELLO, em razão de manutenção de decreto de prisão preventiva em desfavor do PACIENTE" (fl. 104).
+No ponto, salienta-se"a necessidade utilidade do remédio tramitar diretamente perante" esta eg. Corte Superior "em razão da "OMISSÃO"por parte do Relator em fundamentar a custódio do paciente" (fl. 104), uma vez que"Até a presente data não houve qualquer manifestação da necessidade da custódia do paciente, ora agravante" (fl. 105).
+Requer-se, ao final, seja exercido o juízo de retratação ou submetido o agravo ao Colegiado para julgamento, a fim de que seja revogada a prisão preventiva.
+O Ministério Público Federal, às fls. 114-117, manifestou-se pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO ILÍCITO DE DROGAS. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO. ART. 316 DO CPP. NÃO CONHECIMENTO.1.O habeas corpus, quando utilizado como substituto de recursos próprios, não deve ser conhecido, somente se justificando a concessão da ordem de ofício quando flagrante a ilegalidade apontada.2. Inviável a análise de inobservância dos arts. 312 e 316, ambos do Código de Processo Penal, bem como do alegado excesso de prazo sob pena de indevida supressão de instância.3. Parecer pelo não conhecimento do writ." (fl. 114).
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO PARA A REVISÃO DA PRISÃO PREVENTIVA.WRIT QUE INVESTE CONTRA OMISSÃO DE JUIZ DE PRIMEIRO GRAU. INCOMPETÊNCIA DESTA CORTE. MATÉRIA NÃO ANALISADA PELO EG. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DE APRECIAÇÃO DA MATÉRIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Verifica-se que o presente writ se insurge contra omissão de Juiz de primeiro grau, em razão do excesso de prazo para a revisão nonagesimal da prisão preventiva imposta ao ora agravante.
+II - Falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, "c", da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra omissãode Juiz de primeiro grau. Precedentes.
+III -Quanto à alegação de que há omissão por parte do eg. Tribunal de origem, porquanto não foi realizada a revisão periódica da necessidade de manutenção da segregação cautelar do agravante, insta consignar que não há nos autos qualquer manifestação do eg. Tribunal de Justiça do Estado de São Paulo, eesta eg. Corte Superior firmou entendimento no sentido de que "compete apenas ao órgão emissor da decisão a obrigação de revisar a prisão, ou seja, ao juiz ou tribunal que decretar a custódia preventiva" (AgRg nos EDcl no HC n. 605.590/MT, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/10/2020).
+Agravo Regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Presentes os pressupostos processuais, conheço do agravo regimental.
+Sustenta o agravante a necessidade de reforma do decisum, ao argumento deque, em realidade, o presentemandamusinveste contraomissão de em. Desembargador do eg. Tribunal a quo.
+Contudo, o agravo não merece provimento.
+De plano se percebe, por mais uma oportunidade, a incompetência desta Corte para o apreço deste writ, uma vez que este deveria ter sido impetrado perante a autoridade hierarquicamente superior àquela de onde provém o alegado constrangimento ilegal.
+Vale dizer, falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, c, da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato ou omissão de Juiz de primeiro grau. Frise-se que não há nos autos qualquer manifestação do eg. Tribunal de Justiça do Estado de São Paulo.
+Nesse sentido, a título ilustrativo:
+"EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. ALEGAÇÕES DE AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO DE PRISÃO PREVENTIVA E DE EXCESSO DE PRAZO NA INSTRUÇÃO. WRIT NÃO CONHECIDO POR INCOMPETÊNCIA DO STJ, COM DETERMINAÇÃO DE REMESSA DOS AUTOS AO TRIBUNAL COMPETENTE. 1. PRETENDIDO EFEITOS INFRINGENTES DOS ACLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. 2. MATÉRIA SUSCITADA SOMENTE NESTA VIA MANDAMENTAL. IMPOSSIBILIDADE, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE PRÉVIO EXAME DAS MATÉRIAS NA INSTÂNCIA ORDINÁRIA. 3. RECURSO IMPROVIDO.
+ ..
+2. "De acordo com a Constituição Federal, não compete ao Superior Tribunal de Justiça processar e julgar habeas corpus, quando o ato contra o qual se insurge a defesa foi praticado por Juiz de primeiro grau" (AgRg no HC nº 268.759/PA, Rel. Ministro CAMPOS MARQUES (Desembargador convocado do TJ/PR), DJe 24.6.13).
+3. Embargos declaratórios recebidos como agravo regimental, e, nestes termos, não provido" (AgRg no HC 271.471/PR, Quinta Turma, Rel. Min. Moura Ribeiro, DJe de 25/2/2014).
+Quanto à alegação de que háomissão por parte do eg. Tribunal de origem, porquantonão foi realizada a revisão periódicada necessidade demanutenção da segregação cautelar do agravante,insta consignar que esta eg. Corte Superior firmou entendimento no sentido de que"compete apenas ao órgão emissor da decisão a obrigação de revisar a prisão, ou seja, ao juiz ou tribunal que decretar a custódia preventiva"(AgRg nos EDcl no HC n. 605.590/MT, Quinta Turma, Rel. Min.Reynaldo Soares da Fonseca, DJe de 15/10/2020).
+Portanto, a teor do disposto no art. 105 da Carta Magna, exsurge a incompetência desta Corte para apreciação do mandamus.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
