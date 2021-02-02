@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por Valdeci Vargas Alves - espólio com fundamento nas alíneas a e c do inciso III do artigo 105 da Constituição Federal contra acórdão da Terceira Turma do Tribunal Regional Federal da 4ª Região, assim ementado (fls. 372-375):
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. 28,86%. CORREÇÃO MONETÁRIA E JUROS. PREQUESTIONAMENTO
+1. A partir de julho de 2009 os juros moratórios devem ser calculados com base no índice oficial de remuneração básica e juros aplicados à caderneta de poupança, nos termos da regra do art. 1º-F da Lei nº 9.494/97, com a redação da Lei nº 11.960/09, e a correção monetária, por força da declaração d e inconstitucionalidade parcial do art. 5º da Lei nº 11.960/2009, deverá ser calculada com base no IPCA, índice que melhor reflete a inflação acumulada.
+2. Embora não tenha ocorrido ofensa aos dispositivos legais e constitucionais mencionados pela parte, dá-se por prequestionada a matéria para evitar embargos de declaração.
+Os embargos de declaração foram rejeitados (fls. 413-417).
+A recorrente alega inicialmente violado o artigo 535, II, do CPC/1973 ao argumento de que o Tribunal de origem, mesmo à vista dos embargos de declaração, "não se manifestou sobre a violação à coisa julgada" (fl. 479).
+No mérito, defende que não pode, sob pena de ofensa à coisa julgada, alterar os critérios de cálculo de juros e atualização monetária fixados na decisão exequenda.
+Requer, ao final, o provimento do recurso, a fim de que seja reconhecida a "inviabilidade de redução da taxa de juros de mora para 6% aa, após a edição da MP n. 2.180-35/01 ou mesmo após a edição do artigo 5º da Lei n. 11.960/2009" (fl. 490).
+Contrarrazões às fls. 808-815.
+Admissibilidade à fl. 867.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+Breve relato
+Em sede de execução de sentença ajuizada para haver débito relativo ao índice de reajuste devido em ação civil pública, a União sustentou ser devida a aplicação imediata das alterações efetuadas no art. 1º-F da Lei nº 9.494/99, seja pela MP nº 2.180-35, seja pela Lei nº 11.960/09, que determinou a aplicação nas condenações impostas à Fazenda Pública dos índices oficiais de remuneração da poupança, previstos no art. 12 da Lei nº 8.177/91, com incidência de juros na forma simples.
+O Juiz julgo parcialmente procedentes os embargos, para que a execução "prossiga com base no cálculo da contadoria do evento 24 (valor total de R$ 40.765,72, atualizado até novembro de 2010), resolvendo o processo com julgamento do mérito, nos termos do art. 269, I, do CPC/1973" (fl. 297, dispositivo da sentença).
+O Tribunal de origem manteve a sentença ao fundamento de que a partir de julho de 2009 incidem os critérios do art. 1º-F da Lei nº 9.494/97, com a redação da Lei nº 11.960/09, independentemente do que tenha sido determinado no título judicial anteriormente.
+Dessa forma, na espécie, em sede de execução de sentença, a questão posta em causa restringe-se unicamente à aplicação do regime de juros e atualização monetária previstos na Lei n. 11.960/2009, ajuizada para haver débito relativo ao índice de reajuste reconhecido devido em ação civil pública.
+Passo ao exame dos autos
+Como relatado, a embargante alega inicialmente violado o artigo 535, II, do CPC/1973 ao argumento de que o Tribunal de origem "não se manifestou sobre a violação à coisa julgada" (fl. 479).
+Sem razão a recorrente. Isso porque o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+O recurso no dissídio jurisprudencial não merece conhecimento, visto que não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NATUREZA PREVIDENCIÁRIA. RECURSO FUNDADO NA ALÍNEA "C" DO ART. 105, III, DA CF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. REQUISITOS DOS ARTS. 1.029, §1º, DO CPC E 255, §1º, DO RISTJ. AUSÊNCIA DE COTEJO ANALÍTICO. ALEGAÇÃO DE OFENSA AO ENUNCIADO 33 DO CRPS. IMPOSSIBILIDADE DE ANÁLISE POR SE TRATAR DE ATO INFRALEGAL. DIVERGÊNCIA JURISPRUDENCIAL. JULGADOS DO TRIBUNAL A QUO. INCIDÊNCIA DO ENUNCIADO N. 13 DA SÚMULA/STJ.
+1. A interposição do recurso especial com fundamento na alínea "c" do permissivo constitucional exige o atendimento dos requisitos contidos no art. 1.029, § 1º, do CPC e no art. 255, §1º, do RISTJ, para a devida demonstração do alegado dissídio jurisprudencial. Nesse contexto, a jurisprudência desta Corte Superior é pacífica no sentido de que "o dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas" (AgInt no AREsp 1.623.496/GO, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 1º/7/2020), o que não ocorreu nos presentes autos.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.687.978/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 18/12/2020)
+Além disso, consoante jurisprudência desta Corte Superior, a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução, inexistindo ofensa à coisa julgada. No mesmo sentido: AgInt nos EDcl no AREsp 1.440.094/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 16/11/2020.
+Por fim, cabe ressaltar que no Juízo da execução houve o cumprimento do determinado na sentença, onde os cálculos foram realizados "com base no cálculo da contadoria do evento 24". Assim, "rever o entendimento consignado pela Corte regional, no sentido de que os cálculos elaborados pela Contadoria Judicial não apresentam erros materiais, inexistindo ofensa à coisa julgada, requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ" (REsp 1744880/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 20/11/2018)
+Ante o exposto, conheço parcialmente do recurso especial para, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+Brasília, 02 de fevereiro de 2021.
+Ministro Benedito Gonçalves
+Relator
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. AUSÊNCIA. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. CORREÇÃO MONETÁRIA E JUROS. ART. 1º-F DA LEI 9.494/97. LEI 11.960/2009. DISSÍDIO. AUSÊNCIA DE COTEJO ANALÍTICO. RECURSO PARCIALMENTE CONHECIDO E IMPROVIDO
