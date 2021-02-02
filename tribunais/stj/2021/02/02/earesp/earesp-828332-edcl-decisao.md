@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUIZ FERNANDO PERDIGAO DE OLIVEIRA,contra decisão que indeferiu liminarmente os embargos de divergência.
+Sustenta o embargante a ocorrência de omissões na decisão ora combatida, ao argumento de que esta relatoria teria desprezadoo cerne do dissídio pretoriano, consistente no momento do desfazimento do litisconsórcio, para fins de aplicação do art. 191 do CPC 73.
+Insiste na tese de que há divergênciaentre os julgados, notadamente "sobre se o desfazimento litisconsorcial ocorre quando da ocorrência de trânsito em julgado para o litisconsorte inerte; ou ante a mera não oposição de embargos declaratórios, que, como cediço, não repercutem no trânsito em julgado para o litisconsorte inerte" (e-STJ fl. 6.832).
+Requer o acolhimento dos aclaratórios para que os defeitos apontados sejam sanados.
+Contrarrazões, às e-STJ fls. 6.838-6.840 e 6.848-6.855.
+É o relatório.
+Inicialmente, tendo em vista que a decisãoimpugnadafoi publicadaem 15/10/2020 (e-STJ fl. 6.828), cumpre atestar a tempestividade dos embargos declaratórios, pois opostos em 22/10/2020(e-STJ fl. 6.830).
+O art. 1.022 do Código de Processo Civil disciplina que cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e para corrigir erro material.
+Da análise da decisãoembargada, conclui-se que não há qualquer mácula a ser corrigida, uma vez que esta Vice-Presidênciajustificou adequadamente as razões pelas quais rejeitou liminarmente os embargos de divergência.
+Com efeito, consignou-se que não restou demonstrada a divergência apontada pela parte, no que tange ao momento do desfazimento do litisconsórcio,a ponto de autorizar o avanço no mérito do recurso uniformizador, conforme se infere do seguinte trecho (e-STJ fls. 6.824-6.827):
+ ..
+No caso posto, constou no acórdão paradigma que, após o julgamento da ação ordinária envolvendo duas partes no polo passivo da demanda, apenas uma delas interpôs apelação, que foi desprovida pelo Tribunal de origem. Na sequência, o recurso especial foi considerado intempestivo, por não mais se aplicar, à hipótese, a regra prevista no art. 191 do CPC/1973. O colegiado não conheceu dos embargos de divergência, em virtude da ausência de atualidade do paradigma, o que atraiu a aplicação da Súmula 168 do STJ.
+A propósito, confira-se o seguinte excerto extraído do voto condutor, no que importa:
+ ..
+No mais, vê-se que há identidade de situações processuais somente entre o acórdão embargado e o primeiro dos paradigmas indicados.
+ ..
+Contudo, no primeiro paradigma (REsp 10198/SP, Rel. Ministro PAULO GALLOTTI, SEGUNDA TURMA, julgado em 12/12/2000, DJ 24/09/2001, p. 262), decidiu-se que "Havendo litisconsórcio passivo, representadas as partes por procuradores distintos, aplica-se a regra do art. 191 do CPC, mesmo quando somente um dos co-réus tenha recorrido." Naquele caso, somente um dos litisconsortes havia interoposto agravo de instrumento e, em seguida, também só ele manejou recurso especial, sendo o prazo deste contado em dobro.
+E o acórdão embargado, como se viu, decidiu diversamente, no sentido de que, "se a decisão recorrida é prejudicial aos litisconsortes, mas apenas um recorre, o prazo em dobro existe em relação ao prazo desse recurso, mas passa a ser simples para os recursos posteriores."
+Entretanto, deixo de admitir os embargos de divergência porque, a despeito da dissidência entre os julgados, o paradigma foi prolatado há mais de uma década, e a jurisprudência deste Superior Tribunal de Justiça, nesse ínterim, se consolidou no sentido do acórdão embargado, razão pela qual deve incidir o verbete sumular n.º 168 desta Corte:
+"Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado."
+ ..  (e-STJ fls. 6.756-6.759).
+Eis a ementa do julgado:
+EMBARGOS DE DIVERGÊNCIA. PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. CONTRATO DE COMPRA E VENDA DE GÁS NATURAL. LITISCONSÓRCIO PASSIVO. ART. 191 DO CPC. PRAZO EM DOBRO PARA RECORRER. APELAÇÃO INTERPOSTA APENAS POR UM DOS LITISCONSORTES. AFERIÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL. PRAZO SIMPLES. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA N.º 168 DO STJ. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS.
+1. Hipótese em que o acórdão embargado decidiu em consonância com a jurisprudência consolidada do Superior Tribunal de Justiça, no sentido de que, "se a decisão recorrida é prejudicial aos litisconsortes, mas apenas um recorre, o prazo em dobro existe em relação ao prazo desse recurso, mas passa a ser simples para os recursos posteriores."
+2. Precedentes citados: AgRg no Ag 1249316/DF, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 18/02/2010, DJe 02/03/2010; AgRg no Ag 1.085.026/SC, Rei. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/05/2009; AgRg no Ag 1.219.570/SP, SEGUNDA TURMA, Rei. Min. HUMBERTO MARTINS, DJe de 10/03/2010; EDcl no Ag 1154207/SP, Rel. Ministro PAULO FURTADO - Desembargador convocado do TJBA, TERCEIRA TURMA, julgado em 03/08/2010, DJe 20/08/2010; AgRg no Ag 1258459/MT, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 18/10/2012, DJe 26/10/2012; AgRg no REsp 1050250/DF, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/09/2010, DJe 11/10/2010.
+3. Incidência da Súmula n.º 168 do STJ: "Não cabem embargos de divergência, quando a jurisprudência do tribunal se firmou no mesmo sentido do acórdão embargado."
+4. Embargos de divergência não conhecidos(e-STJ fls. 6.748-6.749).
+De sua vez, no acórdão embargado, consignou o eminente relator, in verbis:
+ ..
+Com efeito, consoante entendimento jurisprudencial consolidado nesta Corte, "a regra que anuncia o prazo em dobro para litisconsortes com diferentes procuradores, previsto do art. 191 do CPC/1973, deixa de incidir quando apenas um dos litisconsortes apresenta recurso.
+ ..
+Desse moco, embora os embargos de declaração possuam fundamentação vinculada, destinada ao suprimento de omissão, obscuridade ou omissão da decisão, bem como à correção de erro material, é inquestionável a sua natureza de recurso, o que se afigura suficiente para interromper a contagem do prazo recursal em dobro para a interposição dorecurso especial se, como no caso, após o julgamento da apelação, somente o ora recorrente é que opôs os embargos.
+Aliás, com vistas à aplicação da orientação jurisprudencial em questão, é desinfluente a natureza do recurso interposto, se dotado de natureza preponderantemente integrativa, como é o caso dos declaratórios, ou com maior âmbito de devolutividade, a fim de permitir o reexame da decisão recorrida, de que é exemplo a apelação.
+O efeito interruptivo peculiar aos embargos de declaração, introduzido com a Lei n. 8.950/1994, tem por objetivo apenas assegurar que o eventual recurso cabível poderá ser interposto posteriormente ao julgamento daqueles, modificando o sistema anterior que previa tão somente a suspensão do prazo.
+Também é desinfluente se, com o julgamento dos embargos de declaração, abre-se prazo para os demais litisconsortes apresentarem o respectivo recurso especial contra o acórdão da apelação. Isso porque não se deve confundir interesse recursal com prazo para a interposição de recurso.
+Do mesmo modo, não se sustenta a assertiva de que "não era exigível do ora agravante adivinhar se os demais litisconsortes interporiam ou não recurso especial para valer-se da regra da contagem dobrada" (e-STJ, fls. 6.612-6.613).
+Para saber se o prazo para a interposição do recurso especial deveria ser contado em dobro, bastaria que o ora embargante verifica-se, no momento do julgamento dos embargos de declaração, se algum outro corréu também havia embargado o acórdão da apelação. Em caso afirmativo, permaneceria a contagem do prazo na forma do art. 191 do CPC/1973. Todavia, se apenas um dos apelantes embargou, como aconteceu no caso, desfeito estava o litisconsórcio para efeito de contagem do prazo recursal.
+Vale lembrar que o vínculo jurídico que une os litisconsortes é de natureza subjetiva e decorre da relação de direito material afirmada em juízo, que é comum a todos, razão pela qual a interposição de um recurso por um litisconsorte, em regra, estende os seus efeitos aos demais consortes, desde que se afirme entre eles solidariedade.
+Sob esse enfoque, a referência ao "desfazimento do litisconsórcio", assim como foi consignado na decisão agravada, deve ser interpretado apenas para efeito da contagem do prazo em dobro, na forma do que dispõe o referido dispositivo processual, sem alcançar, contudo, o vínculo de natureza subjetiva existente entre eles, o qual permanece, inclusive, para efeito de interposição de recursos futuros (e-STJ fls. 6.648-6.650).
+Depreende-se da leitura dos fundamentos acima transcritos, que o acórdãoembargado adotou a mesma tese jurídica consignada no aresto paradigma, não restando demonstrada a divergência jurisprudencial alegada pela embargante. Tanto assim o é que, como reforço de fundamentação, o acórdão embargado colacionou a ementa do acórdão da Corte Especial, indicado como paradigma no presente recurso uniformizador (e-STJ fls. 6.648-6.649).
+Essa realidade, além de evidenciar a ausência de dissídio jurisprudencial entre os arestos, atrai a incidência da Súmula 168 do STJ, no sentido de que "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado."
+Não se constata, portanto, nenhum defeito no julgado questionado, tendo este colegiado demonstrado, de forma fundamentada, as razões pelas quais não se verificou a presença dos requisitos necessários ao conhecimento dos embargos de divergência, estando-se diante de mera irresignação com o resultado do julgamento, o que revela o descabimento dos embargos declaratórios.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1011452/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2020, DJe 05/08/2020, grifos acrescidos.)
+No mesmo diapasão:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRETENSÃO DE REEXAME DA CAUSA. INEXISTÊNCIA DE VÍCIOS NO JULGADO. EMBARGOS REJEITADOS.
+1. Consoante a literalidade do artigo 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, e/ou corrigir eventual erro material.
+2. O recurso aclaratório possui finalidade integrativa e, portanto, não se presta à reforma do entendimento aplicado ou ao rejulgamento da causa, conforme pretende o embargante.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no RE nos EDcl nos EDcl nos EDcl no REsp 1338942/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 10/03/2020, DJe 13/03/2020, grifos acrescidos.)
+Ante o exposto, com fundamento no art. 22, § 2º, inciso I, alínea "a", do Regimento Interno deste Superior Tribunal de Justiça,rejeitam-seos embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. OMISSÃO.VÍCIO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
