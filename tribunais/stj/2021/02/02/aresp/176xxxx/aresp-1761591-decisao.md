@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ELENA MARIA SILVA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/11/2019.
+Concluso ao gabinete em: 19/01/2021.
+Ação: declaratória de inexibilidade de débito com pedido de compensação por danos morais movida pela agravante, contra BANCO BMG SA, na qual alega que sua intensão foi a de contratar crédito consignado, no entanto, recebeusem qualquer solicitação cartão de crédito.
+Sentença: julgou parcialmente procedentes os pedidos da inicial, para declarar a inexibilidade do débitos
+Acórdão: deu parcial provimento à apelação do banco agravado e negou provimento à apelação da agravante, nos termos da ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE C/C REPETIÇÃO DEINDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA.IRRESIGNAÇÃO DE AMBAS AS PARTES.APELAÇÃO (1). IRRESIGNAÇÃO DO BANCO REQUERIDO. PRESCRIÇÃO QUINQUENALRECONHECIDA EM SENTENÇA. AUSÊNCIA DE INTERESSE RECURSAL NO PONTO.CONTRATO DE CARTÃO DE CRÉDITO COM RESERVA DE MARGEM CONSIGNÁVEL.ADESÃO INEQUÍVOCA POR PARTE DA AUTORA. EMPRÉSTIMO NÃO CONTESTADO.EFETIVA UTILIZAÇÃO DO CARTÃO DE CRÉDITO PARA AQUISIÇÃO DE BENS E SERVIÇOSDIVERSOS. MODALIDADE DE CRÉDITO LÍCITA. VIOLAÇÃO AO DEVER DE INFORMAÇÃONÃO COMPROVADA. NEGÓCIO JURÍDICO VÁLIDO. INVIABILIDADE DE RESTITUIÇÃO EMDOBRO E INDENIZAÇÃO POR DANOS MORAIS. SENTENÇA QUE DEVE SER REFORMADA,COM INVERSÃO DO ÔNUS DE SUCUMBÊNCIA E ARBITRAMENTO DE NOVA VERBAHONORÁRIA. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, PROVIDO.APELAÇÃO (2). INSURGÊNCIA DA AUTORA. PRESCRIÇÃO. TERMO INICIAL. DATA DOSLANÇAMENTOS REALIZADOS AO LONGO DA RELAÇÃO JURÍDICA. PRETENSÃO, PELAPARTE AUTORA, DE RESTITUIÇÃO NA FORMA DOBRADA E FIXAÇÃO DE VERBAINDENIZATÓRIA. PREJUDICIALIDADE DIANTE DO PROVIMENTO DO APELO DAINSTITUIÇÃO FINANCEIRA. RECURSO PREJUDICADO (e-STJ fl. 437)
+Recurso especial: alega violação dos arts. 4º, III, 6º, III, 51, IV, 52, do CDC; e 187 do CC/02 bem como dissídio jurisprudencial. Assevera que o banco agravado feriu os direitos de informação e transparência previstosno Código Consumerista uma vez que em momento algum foi informada que o empréstimo foi feito na forma de saque em cartão de crédito e apenas o valor mínimo mensal da fatura do cartão de crédito seria debitado em seu contracheque. Aduz a conduta resultou em uma dívida muito maior que o valor inicialmente contratado e impossível de ser adimplida totalmente.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da existência de fundamento não impugnado
+A agravante não impugnou o fundamento utilizado pelo TJ/PR, de que a autora assinou os termos contratuais e fez o uso do cartão de crédito emitido pelo banco agravado, não obstante alegar que não tinha a intenção de contratá-lo (e-STJ fls. 439), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao instrumento contratual não infringir o direito de informação ao consumido somado ao fato de a autora ter aderido ao referido termo para a ciência das condições contratuais (e-STJ fls 439), exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Ademais, não se considera, no caso, comprovada a divergência jurisprudencial, uma vez que "não se consideram "tribunal" as Turmas Recursais de Juizados Especiais, que igualmente não compõem a Justiça comum, estando alheias ao propósito constitucional de pacificação da jurisprudência exercido pelo STJ" (REsp n. 1.032.779/PE, relator Ministro Aldir Passarinho Junior, Quarta Turma, DJe de 25.8.2008). Ainda nesse sentido:REsp 1391085/SC, 3ª Turma, DJe 16/03/2015.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa(e-STJ fls. 440) para 14%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIBILIDADE DE DÉBITO COM PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação declaratória de inexibilidade de débito com pedido de compensação por danos morais.
+2. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Não se consideram "tribunal" as Turmas Recursais de Juizados Especiais para fins de comprovação de dissídio jurisprudencial.
+6. Agravo conhecido. Recurso especial não conhecido.
