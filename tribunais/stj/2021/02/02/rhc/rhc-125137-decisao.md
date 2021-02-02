@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por GUSTAVO DE CARVALHO PUGLIESI contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento do HC n. 2213837-46.2019.8.26.0000, conforme acórdão de fls. 792/795.
+No presente recurso, pretende o recorrente "trancar a Ação Penal em desfavor do Réu Gustavo (UNICAMENTE), inclusive no que tange às condições para suspensão do processo impostas, haja vista, dentre outras razões, sua manifesta ILEGITIMIDADE para figurar no polo passivo", uma vez que não tinha poder de gestão na administração da pessoa jurídica, tendo sido denunciado exclusivamente por ser sócio na referida empresa.
+Requer, que, "seja dado integral provimento ao Recurso Ordinário, reformando-se o o Acórdão recorrido, para trancar a presente ação penal unicamente em relação ao Recorrente Gustavo de Carvalho Pugliese, haja vista sua ilegitimidade em figurar no polo passivo, tudo consoante adrede expendido e comprovado documentalmente, inclusive quando às condições do sursis processual impostas" (fl. 810).
+A liminar foi indeferida por decisão de fls. 825/826.
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+O Ministério Público Federal assentou em seu parecer:
+"O Recurso deve ser conhecido e, no mérito desprovido.
+Colhe-se dos autos que a acusação é de que o paciente e corréus, entre os meses de janeiro a dezembro de 2014 e janeiro a julho de 2015, na empresa de laticínios Galba Ltda, na qual são sócios-administradores, teriam deixado de recolher, no prazo legal, valor de ICMS total de R$ 264.648,91 (duzentos e sessenta e quatro mil, seiscentos e quarenta e oito reais e noventa e um centavos), por 18 (dezoito)vezes, na qualidade de substituto tributário, gerando grave dano à coletividade.
+Ao analisar as alegações defensivas, o r. Juízo de origem entendeu por ratificar o recebimento da denúncia, porquanto atendidos os requisitos do art. 41 do CPP. Na oportunidade, pontuou que "a defesa não comprovou a falta de justa causa, nem tampouco a exatidão dos fatos, observando que a denúncia estava amparada em documentação colhida extrajudicialmente" (fl. 794).
+A respeito da alegação de ilegitimidade do paciente para figurar no polo passivo da demanda, o Tribunal a quo destacou (fl. 795):
+" ..  Ademais, a análise dos documentos que instruem o presente "habeas corpus"evidencia que o paciente foi admitido como sócio da empresa aos 26/03/1997 e, ao tempo dos fatos, constava no contrato social como um dos sócios administradores. A retirada da sociedade se deu posteriormente, em 20.12.2016.
+A tese de ilegitimidade passiva é inerente ao mérito da ação penal, suspensa condicionalmente, exigindo revolvimento fático probatório, exercício impróprio nesta seara restrita do habeas corpus.  .. "
+Como é sabido, o trancamento de ação penal pela via do habeas corpus somente deve ocorrer quando evidenciada, de plano, ausência de justa causa, inexistência de elementos indiciários demonstrativos da autoria e da materialidade do delito ou quando presente alguma causa excludente da punibilidade, situações inexistentes na hipótese.
+Analisar a tese de ilegitimidade passiva exige amplo revolvimento fático-probatório dos autos, o que é incabível na via eleita. Nesse sentido:
+"PENAL E PROCESSUAL. RECURSO ORDINÁRIO EMHABEASCORPUS. PECULATO E APROPRIAÇÃOINDÉBITA. TRANCAMENTO DA AÇÃO PENAL. INÉPCIADA DENÚNCIA. NÃO OCORRÊNCIA. AUSÊNCIA DEJUSTA CAUSA. NECESSIDADE DE EXAME DOCONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. O trancamento da ação penal somente é possível no âmbito do habeas corpus ou do seu recurso ordinário quando se constatar, primo ictu oculi, a atipicidade da conduta, a inexistência de
+indícios de autoria, a extinção da punibilidade ou quando for manifesta a inépcia da exordial acusatória (RHC 54.798/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 25/2/2015) e que "só deve ser adotada quando se apresenta indiscutível a ausência de justa causa e em face de inequívoca ilegalidade da prova pré-constituída". (STF, HC 107948AgR/MG, Rel. Min. Luiz Fux, Primeira Turma, DJe 14.05.2012).
+2. Descabe falar em inépcia da inicial acusatória, por ausência de delimitação pormenorizada de quando ocorreu o fato delituoso, quando aquela peça traz elementos suficientes à identificação temporal da prática delitiva, sem comprometer o exercício do direito de defesa, delineando suficientemente a conduta do acusado na empreitada criminosa (desvio de recursos públicos mediante requisições simuladas de exames realizados no laboratório de sua propriedade).
+3. Verificado que o fato típico e a autoria delitiva acham-se calcados em elementos indiciários aptos à deflagração da persecução penal, mostra-se prematuro trancar a ação criminal através da via estreita do habeas corpus, no bojo do qual se mostra inadequada a dilação probatória, devendo ser prestigiado o princípio do in dubio pro societate. Ademais, tal exame implicaria incursão no acervo fático-probatório, o queé inviável na via estreita do writ.
+4. Habeas corpus não conhecido." (HC 340.676/RS, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, julgado em 02/02/2016, DJe 25/02/2016)
+Ante o exposto, o MINISTÉRIO PÚBLICO FEDERAL opina pelo desprovimento do recurso ordinário." (fls. 830/832)
+Como visto, das bem lançadas razões do parecer ministerial, as quais adoto como razões de decidir, o acolhimento da pretensão recursal demandaria o exame aprofundado de provas, procedimento incabível na via eleita.
+Com efeito, consta do acórdão atacadoque o recorrente entre os meses de janeiro de 2014 até julho de 2015na empresade laticínios Galba Ltda, na qualidade de sócio gerente, deixou de recolher R$ 264.648,91 (duzentos e sessenta e quatro mil, seiscentos e quarenta e oito reais e noventa e um centavos).
+Desta forma, qualquer conclusão nosentido de que o recorrente não ocupava a direção da empresa necessita da análise aprofundadado acervo probatório dos autos.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
