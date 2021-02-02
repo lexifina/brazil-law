@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor dePaulo Henrique da Silva Soares, apontando-se como autoridade coatora a Quinta Câmara Criminal do Tribunal de Justiça de São Paulo (Apelação Criminal n. 15048884-95.2020.8.26.0228).
+Narram os autos que o paciente foi condenadoa 8 anos de reclusão, em regime inicial fechado, e 18 dias-multa, pela prática do crime de roubo majorado. À apelação criminal interposta pela defesa o Tribunal a quonegou provimento.
+Daí o presente mandamus, em que a Defensoria Pública alega queé incontroverso que o réu admitiu a prática de roubo, inclusive confessando o uso de arma branca, tão somente negando ter consumado o delito. Portanto, o acusado narrou todas as elementares do tipo penal estabelecido no art.157, § 2º, inciso VII, do Código Penal(fl. 5).
+Destaca que demonstrada a necessidade de aplicação da atenuante da confissão espontânea, deve esta ser compensada com a reincidência, afastando-se o aumento de um quarto na segunda fase da dosimetria(fl. 6).
+Requer a aplicação da atenuante da confissão espontânea e a integral compensação entre com a reincidência.
+Não houve pedido liminar.
+Prestadas as informações de praxe, o Ministério Público Federal opinou pela denegação da ordem, mas se reconhecida a circunstância atenuante da pena, pela concessão da ordem tão somente para que a reincidência seja parcialmente compensada com a confissão(fl. 127).
+É o relatório.
+In casu, a ordem comporta concessão, em menor extensão.
+Segundo consta da sentença,interrogado, o réu confessou apenas em parte os fatos. Disse que havia usado crack e estava sob o efeito desta substância, então realmente ameaçou a vítima com a faca, mas não colocou o objeto em seu pescoço e nem mesmo conseguiu pegar a bolsa da vítima. Disse que desistiu da subtração quando a vítima gritou, saindo correndo do local. Confirmou que já foi preso em outras oportunidades, mas seus processos estão todos extintos pelo cumprimento(fl. 13 - grifo nosso).
+Contudo, ao dosar a pena, disse o Magistrado que, por outro lado, deixo de considerar a confissão do réu no caso do autos, pois parcial, tendo em vista que relativa apenas a umroubo na forma tentada(fl. 15 - grifo nosso).
+O Tribunal de Justiça, por sua vez, sobre o tema, disse que,diversamente do alegado pela douta defesa, é certo que não houve verdadeira confissão do apelante que, em juízo, tentou fazer crer que sequer chegou a subtrair bens da vítima(fl. 22).
+Ocorre que, não obstante o entendimento do Tribunal a quo, este Tribunal Superior tem entendimento firmado no enunciado de n. 545 da súmula de sua jurisprudência, que, quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal", sendo indiferente que a admissão da autoria criminosa seja parcial, seja qualificada, seja acompanhada de alguma causa excludente de ilicitude ou de culpabilidade (AgRg no AREsp n. 583.205/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 14/12/2018 - grifo nosso).
+Assim, no caso dos autos, a atenuante da confissão, que envolve a personalidade do agente, e a agravante da reincidência são igualmente preponderantes, razão pela qual devem ser compensadas, ainda quando se tratar de reincidência específica. Isso, aliás, é o que foi decidido pela Terceira Seção no julgamento do HC n. 365.963/SP, Ministro Felix Fisher, DJe 23/11/2017.
+Contudo, tal entendimento sofre alteração quando reconhecida a situação de réu multirreincidente, hipóteses nas quais, como regra, não será devida a compensação integral entre a confissão e a reincidência. 2. Tratando-se de réu multirreincidente, cabível a compensação parcial da atenuante da confissão espontânea com a agravante da reincidência (AgRg no AREsp n. 713.657/DF, Ministro Nefi Cordeiro, Sexta Turma, DJe 23/4/2018 - grifo nosso).
+Com essas considerações, passo ao redimensionamento da pena do paciente.
+Na primeira fase da dosimetria, permanece a pena-base fixada em 4 anos 9 meses e 18 dias de reclusão, e 12 dias-multa. Na segunda fase, diante da multirreincidência, aumento a pena em 1/6, uma vez que a compensação com circunstância atenuante da confissão espontânea é parcial, ficando a pena intermediáriaestipulada em 5 anos 7 meses e 6 dias de reclusão, e 14 dias-multa. Na terceira fase, permanece o aumento de 1/3, elevando a pena para 7 anos 5 meses e 18 dias de reclusão, e 18 dias-multa, a qual torno definitiva.
+Ante o exposto, concedoa ordemem menor extensão, a fim de reconhecer a incidência da circunstância atenuante da confissão espontânea e compensá-la parcialmente com a multirreincidência do paciente, redimensionando sua pena para 7 anos 5 meses e 18 dias de reclusão, e 18 dias-multa, mantido, no mais, a sentença condenatória.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA PARCIAL. RECONHECIMENTO. NECESSIDADE.MULTIRREINCIDÊNCIA. COMPENSAÇÃO PARCIAL. LEGALIDADE.
+Ordem concedidaem menor extensão, nos termos do dispositivo.
