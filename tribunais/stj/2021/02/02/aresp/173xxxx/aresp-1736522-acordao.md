@@ -1,0 +1,69 @@
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. PRESCRIÇÃO. SÚMULA 85/STJ. CONTATO COM APARELHOS DE RAIOS X. JORNADA DE TRABALHO. LEI 1.234/1950. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ.
+1. No que diz respeito à prescrição, observa-se que o acórdão combatido decidiu em consonância com a orientação do STJ de que o pleito relacionado ao pagamento de valores decorrentes de aumento de carga horária é de trato sucessivo, conforme contido na Súmula 85 do STJ, sendo incogitável prescrição do fundo de direito.
+2. O acórdão recorrido se alinhou ao entendimento do STJ, segundo o qual, consoante o art. 19, caput, da Lei 8.112/1990, os servidores públicos cumprirão jornada de trabalho de duração máxima de 40 (quarenta) horas semanais. Contudo, o seu § 2º excepciona a adoção de jornada laboral diferenciada para servidores públicos submetidos a legislação especial.
+3. Assim, o art. 1º da Lei 1.234/1950 estabelece que os servidores da União, civis e militares, e os empregados de entidades paraestatais de natureza autárquica que operam diretamente com raios-X e substâncias radioativas, próximos às fontes de irradiação, terão direito a regime máximo de 24 (vinte e quatro) horas semanais de trabalho. Nesse sentido: AREsp 1.673.853/RJ, Rel. Ministro Herman Benjamin, Segunda Turma DJe 6/10/2020; AgInt no AREsp 1.501.336/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/4/2020; e AgInt no REsp 1.569.119/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15/4/2016.
+4. Agravo conhecido para negar provimento ao Recurso Especial.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, conheceu do agravo para negar provimento ao recurso especial, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo em Recurso Especial (art. 105, III, "a", da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 2ª Região assim ementado:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. RAIOS X. SUBSTÂNCIAS RADIOATIVAS. LEI 1.234/50. REDUÇÃO DA JORNADA DE TRABALHO. 24 HORAS. HORAS EXCEDENTES. LIMITE DE 2 HORAS DIÁRIAS.
+Correta a sentença que condenou a COMISSAO NACIONAL DE ENERGIA NUCLEAR - CNEN a submeter o autor à carga horária semanal de 24 horas e a pagar as diferenças relativas a 2 horas de trabalho extraordinário por jornada, com incidência do percentual de 50% em relação à hora normal e repercussão na remuneração de repouso semanal, férias e 13º salário, observada a prescrição quinquenal. Os servidores federais operadores de raios X estão sujeitos a regime horário da lei especial, e não ao regime geral.
+Requisitos para trabalho com carga horária semanal de 24 horas preenchidos, conforme atos exarados pela própria CNEN (fruição de férias semestrais de vinte dias corridos e pagamento do adicional de radiação ionizante) e não refutados. Remessa e apelo da CNEN desprovidos.
+Os Embargos de Declaração opostos foram desprovidos.
+Nas razões do apelo especial, a recorrente alega violação dos arts. 1º do Decreto 20.910/1932 e 2º do Decreto-Lei 4.597/1942
+Sustenta, em suma:
+Como se infere dos documentos trazidos aos autos pela autora, a mesma alega fazer jus à jornada semanal de 24 horas há mais de cinco anos contados do ajuizamento da ação. Assim, tendo, de acordo com as alegações autorais, a lesão ao seu direito surgido há mais de cinco anos contados do ajuizamento da demanda, tem-se que, quando a mesma foi promovida, a pretensão já estava prescrita.
+Do exposto no presente tópico, clara é a violação do Acórdão recorrido aos artigos 1º do Decreto nº 20.910/1932 e 2º do Decreto-Lei nº 4.597/1942 (fl. 266, e-STJ).
+Aduz ainda ofensa aos arts. 7º do Decreto 81.384/1978; 4º, "a", da Lei 1.234/1950; 19 e 253 da Lei 8.112/1990; 26, caput, e § 1º, da Lei 8.691/1993 e 15 da MP 1.548-37/1997, ao argumento de que não há direito à redução de jornada, pois a jornada de trabalho da recorrida seria regida pela Lei 8.112/1990.
+Contrarrazões às fls. 281-307, e-STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 1º de dezembro de 2020.
+No que diz respeito à prescrição, observa-se que o acórdão combatido decidiu a matéria em consonância com a orientação do STJ de que o pleito relacionado ao pagamento de valores decorrentes de aumento de carga horária é de trato sucessivo, conforme contido na Súmula 85 do STJ, não se cogitando prescrição do fundo de direito.
+Confiram-se:
+ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. AUMENTO DE JORNADA. RETRIBUIÇÃO PECUNIÁRIA. PRESCRIÇÃO. SÚMULA Nº 85/STJ.
+1. O direito à retribuição pecuniária decorrente do aumento da jornada de trabalho não envolve o reconhecimento de uma nova situação jurídica. É simples consectário de uma posição jurídica já definida. Incidente a Súmula nº 85/STJ. Precedente.
+2. Agravo interno não provido.
+(AgInt no AREsp 1460380/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/08/2019, DJe 19/08/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDORES ESTADUAIS. PRETENSÃO AO RECEBIMENTO DE REFLEXOS FINANCEIROS (HORAS-EXTRAS), DECORRENTES DE ALTERAÇÃO DE JORNADA DE TRABALHO. LEI COMPLEMENTAR ESTADUAL 155/2010. PRESCRIÇÃO DO DIREITO DE AÇÃO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. ACÓRDÃO IMPUGNADO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. REVISÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. SÚMULA 280/STF. PRECEDENTES DO STJ, EM CASOS ANÁLOGOS. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 15/03/2018, que julgou recurso interposto contra decisão que inadmitira Recurso Especial, publicada na vigência do CPC/2015.
+II. Na origem, trata-se de demanda proposta por servidores estaduais - policiais civis do Estado de Pernambuco -, objetivando diferenças decorrentes da Lei Complementar estadual 155/2010, que majorou a carga horária, deixando a Administração, todavia, de pagar acertadamente os devidos reflexos na remuneração (horas-extras).
+III. O Tribunal Estadual decidiu em sintonia com a orientação jurisprudencial do STJ, segundo a qual, nas ações em que se discute o recebimento de reflexos de vantagem pecuniária, inexistindo manifestação expressa da Administração Pública, negando o direito reclamado, não ocorre a prescrição do direito de ação, mas tão somente das parcelas anteriores ao qüinqüênio que precedeu a propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+IV. (..)
+V. Agravo interno improvido.
+(AgInt no AREsp 1243226/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/06/2018, DJe 19/06/2018)
+No mais, melhor sorte não assiste à recorrente.
+O Tribunal de origem, ao dirimir a controvérsia, se manifestou deste modo:
+No que concerne à vigência da Lei nº 1.234/50, ela foi recepcionada por nosso ordenamento constitucional e não foi revogada pela Leinº8.112/90, com redação dada pela Leinº8.270/91, ou pelo Decretonº 1.590/95, ou, ainda, pelaLeinº 8.691/93.
+ALeinº1.234/50, ao conferir direitos e vantagens a servidores que operam com raios X e substâncias radioativas, estabeleceu, em seu artigo 1º, o regime máximo de 24 horas semanais, nos seguintes termos:
+"Art. 1º Todos os servidores da União, civis e militares, e os empregados de entidades paraestatais de natureza autárquica, que operam diretamente com Raios X e substâncias radioativas, próximo às fontes de irradiação, terão direito a:
+a) regime máximo de vinte e quatro horas semanais de trabalho;
+b) férias de vinte dias consecutivos, por semestre de atividade profissional, não acumuláveis;
+c) gratificação adicional de 40% (quarenta por cento) do vencimento."
+E o artigo 19 da Leinº 8.112/90, conforme disposição do seu § 2º, não se aplica à duração de trabalho estabelecida em leis especiais, assim como o artigo 1º do Decreto nº1.590/95 (fl. 239, e-STJ).
+Ao assim decidir, o acórdão recorrido também se alinhou ao entendimento do STJ, segundo o qual, consoante o art. 19, caput, da Lei 8.112/1990, os servidores públicos cumprirão jornada de trabalho de duração máxima de 40 (quarenta) horas semanais. Contudo, o seu § 2º excepciona a adoção de jornada laboral diferenciada para servidores públicos submetidos a legislação especial.
+Assim, o art. 1º da Lei 1.234/1950 estabelece que os servidores da União, civis e militares, e os empregados de entidades paraestatais de natureza autárquica, que operam diretamente com raios-X e substâncias radioativas, próximos às fontes de irradiação, terão direito a regime máximo de 24 (vinte e quatro) horas semanais de trabalho.
+Sobre o tema:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONTATO COM APARELHOS DE RAIOS X. JORNADA DE TRABALHO. LEI 1.234/50. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO DO STJ.
+1. O acórdão recorrido se alinhou ao entendimento do STJ, segundo o qual, consoante o art. 19, caput, da Lei 8.112/1990, os servidores públicos cumprirão jornada de trabalho de duração máxima de 40 (quarenta) horas semanais. Contudo, o seu § 2º excepciona a adoção de jornada laboral diferenciada para servidores públicos submetidos a legislação especial.
+2. Assim, o art. 1º da Lei 1.234/1950 estabelece que os servidores da União, civis e militares, e os empregados de entidades paraestatais de natureza autárquica, que operam diretamente com raios-X e substâncias radioativas, próximos às fontes de irradiação, terão direito a regime máximo de 24 (vinte e quatro) horas semanais de trabalho. Nesse sentido: REsp 1.66.6513/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20/6/2017; AgInt no REsp 1.569.119/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 15/4/2016; AgRg no REsp 1.117.692/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, DJe 8/10/2015.
+3. Consigne-se que a alteração das conclusões da Corte regional quanto à não ocorrência de prescrição, in casu, requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+4. Agravo conhecido para negar provimento ao Recurso Especial.
+(AREsp 1673853/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CNEN. APLICAÇÃO DA LEI 1.234/1950. REDUÇÃO DA JORNADA DE TRABALHO. EXPOSIÇÃO DIRETA E PERMANENTE A RAIOS-X E SUBSTÂNCIAS NOCIVAS. LIMITE DE 24 HORAS SEMANAIS. AGRAVO INTERNO DA COMISSÃO NACIONAL DE ENERGIA NUCLEAR A QUE SE NEGA PROVIMENTO.
+1. O art. 1º. da Lei 1.234/1950, que é especial, estabelece que os servidores da União, civis e militares, e os empregados de entidades paraestatais de natureza autárquica, que operam diretamente com raios-x e substâncias radioativas, próximos às fontes de irradiação, terão direito a regime máximo de 24 (vinte e quatro) horas semanais de trabalho.
+2. Com efeito, não há que se falar, na hipótese dos autos, na incidência das disposições contidas na Lei 8.691/1993, que limitou-se a regular o enquadramento funcional, a tabela de vencimentos e a jornada laboral dos Servidores da CNEN, nada dispondo acerca do regime diferenciado previsto em lei especial, qual seja, a Lei 1.234/1950.
+3. Ademais, não há se que se falar na incidência da Súmula 283/STF, uma vez que a questão afeta à ausência de direito adquirido a manutenção de regime jurídico não se alinha ao caso dos autos, sobretudo pelo fato de que a parte autora não postulou a manutenção de ordenamento jurídico revogado, mas tão somente a incidência da disposição contida na Lei 1.234/1950 - regime máximo de 24 horas semanais, que não foi objeto de regulamentação pela Lei 8.691/1993.
+4. Agravo Interno da COMISSÃO NACIONAL DE ENERGIA NUCLEAR a que se nega provimento.
+(AgInt no AREsp 1501336/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/04/2020, DJe 23/04/2020).
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR. CNEN. APLICAÇÃO DA LEI 1.234/50. REDUÇÃO DA JORNADA DE TRABALHO. EXPOSIÇÃO DIRETA E PERMANENTE A RAIOS X. REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Discute-se nos autos a possibilidade de redução da jornada de trabalho de 40 para 24 horas semanais de servidor que atua, de forma habitual, exposto à radiação, conforme o disposto no art. 1º da Lei 1.234/50.
+2. Nos termos do art. 19, caput, da Lei 8.112/90, os servidores públicos cumprirão jornada de trabalho de duração máxima de 40 horas semanais. Contudo, o seu § 2º excepciona a adoção de jornada laboral diferenciada para os servidores públicos submetidos a legislação especial.
+3. O art. 1º da Lei 1.234/50 estabelece que os servidores da União, civis e militares, e os empregados de entidades paraestatais de natureza autárquica, que operam diretamente com Raios X e substâncias radioativas, próximo às fontes de irradiação, terão direito a regime máximo de vinte e quatro horas semanais de trabalho.
+4. Hipótese em que o Tribunal de origem, em conformidade com as provas dos autos, expressamente consignou que o autor exerce cargo público que o expõe habitualmente a raios X e substâncias radioativas. Desse modo, modificar o acórdão recorrido para afastar a aplicação da referida lei como pretende a ora agravante requer, necessariamente, o reexame de fatos e provas, o que é vedado ao STJ, em recurso especial, por esbarrar no óbice da Súmula 7/STJ.
+Agravo interno improvido.
+(AgInt no REsp 1569119/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/04/2016, DJe 15/04/2016).
+Diante do exposto, conheço do Agravo para negar provimento ao Recurso Especial.
+É como voto.
