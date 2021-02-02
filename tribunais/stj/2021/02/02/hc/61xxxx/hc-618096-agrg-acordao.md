@@ -1,0 +1,65 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS.TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA.ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE CONSIDERÁVEL DE DROGA. POSSIBILIDADE DE MODULAÇÃO DA FRAÇÃO. AGRAVO IMPROVIDO.
+1. Conforme o entendimento firmado pelo STJ, a quantidade, a natureza e a variedade da droga apreendida constituem fundamento idôneo a justificar a não aplicação da minorante do tráfico em sua fração máxima.
+2. O Tribunal de Justiça entendeu que não era o caso de aplicação da causa de diminuição da pena pelo tráfico privilegiado no grau máximo, em razão da quantidade de droga apreendida, que, de fato, é expressiva, pois trata-se de 624 gramas de maconha.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Rogerio Schietti Cruz.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão de fls. 462-466 que denegou o habeas corpus.
+O agravante sustenta que "ainda que não se considere irrisória a quantidade de droga apreendida, não há nenhum outro fundamento que possa legitimar a decisão pela redução mínima a que se procedeu. Como dito, ainda que não seja irrisória a quantidade apreendida, não se está diante de uma apreensão de crack ou de cocaína, mas de maconha, substância de uso difundido, com relação à qual nem mesmo se pode atribuir com a necessária segurança o potencial de indução à dependência química. E não é só: já se sabe que são muitos os usos terapêuticos da referida substância, sendo muitas as razões pelas quais a abordagem jurídica do porte da maconha não deve ser a mesma dedicada a drogas altamente lesivas como a cocaína, o crack ou a heroína - esta, ainda rara por aqui".
+Ele pretende "a ampliação da redução prevista no §4º do art. 33 da Lei nº 11.343/06, se não em sua fração máxima, em outra que desta se aproxime, de qualquer forma, em patamar que possibilite a definição do regime aberto para início de cumprimento da pena privativa de liberdade, cuja substituição por restritivas de direitos também se requer, uma vez que autorizada pelas circunstâncias".
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Como relatado, o agravante argumenta quedeve ser aplicada a diminuição da pena pela minorante do tráfico privilegiado ao paciente em grau máximo, sendo inidônea a fundamentação utilizada para afastá-la, uma vez que o Tribunal local reconheceu a redutorano patamar de 1/6.
+O paciente foi condenado pelo crime previsto no artigo 33, caput e seu §4º, da Lei nº 11.343/2006 à pena de 4 anos e 2 meses de reclusão, em regime inicial aberto, mais o pagamento de 510 dias-multa.
+A decisão agravada assim dispôs (fls. 462-466):
+ ..
+É o relatório.
+DECIDO.
+Conforme relatado, pleiteia a defesa a aplicação da redutora do tráfico em seu grau máximo, com realização de nova dosimetria.
+No tema, assim se manifestou a Corte de origem (fl. 435):
+ .. .
+Lado outro, melhor sorte não assiste à defesa quando busca a incidência da redutora em grau máximo.
+Isso porque a aplicação da benesse em 1/6 se mostra justificada nas circunstâncias do caso concreto, uma vez que o acusado trazia consigo expressiva quantidade de drogas (624g de maconha), o que justifica o afastamento da benesse de seu patamar máximo, o qual se destina a traficante eventual que esteja com pequena quantidade de drogas, o que não ocorre no presente feito.
+ .. .
+O Juízo sentenciante assim se manifestou (fl. 326):
+ .. .
+Em face da incidência da causa de diminuição de pena prevista no art. 33. 44 9 da Lei de Drogas, diminuo a pena provisória no patamar de 1/6. considerando-se a elevada quantidade de droga apreendida.
+ .. .
+Como se vê, o Tribunal de Justiça entendeu que não era o caso de aplicação dacausa de diminuição da pena pelo tráfico privilegiado no grau máximo, em razão da quantidade de droga apreendida(624g de maconha).
+Com efeito, nos termos do entendimento firmado pelo STJ, de fato, a quantidade, a natureza e a variedade da droga apreendida constituem fundamento idôneo a justificar a não aplicação da minorante do tráfico, sua aplicação em frações inferiores ao máximoe a imposição do regime mais severo, inexistindo, portanto, ilegalidade a ser sanada. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICODE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N.11.343/2006. QUANTIDADE E NATUREZA DA DROGA UTILIZADA PARA MODULAR AFRAÇÃO DE REDUÇÃO. POSSIBILIDADE. REGIME PRISIONAL. QUANTIA E ESPÉCIE DOENTORPECENTE. MODO SEMIABERTO. ADEQUADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DELIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITOSUBJETIVO. TRÁFICO DE DROGAS PRIVILEGIADO. NATUREZA DE CRIME COMUM.AFASTAMENTO DA HEDIONDEZ. POSSIBILIDADE. ENTENDIMENTO DO SUPREMO TRIBUNALFEDERAL E DO STJ. MANIFESTA ILEGALIDADE VERIFICADA. WRIT NÃO CONHECIDO.ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, oscondenados pelo crime de tráfico de drogas terão a pena reduzida, de umsexto a dois terços, quando forem reconhecidamente primários, possuírembons antecedentes e não se dedicarem a atividades criminosas ou integraremorganizações criminosas.
+3. Na falta de parâmetros legais para se fixar o quantum dessa redução, osTribunais Superiores decidiram que a quantidade e a natureza da drogaapreendida, além das demais circunstâncias do delito, podem servir para amodulação de tal índice ou até mesmo para impedir a sua aplicação, quando
+evidenciarem o envolvimento habitual do agente no comércio ilícito deentorpecentes. Precedentes.
+ ..
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, paraestabelecer o regime semiaberto para início da pena reclusiva, afastado ocaráter hediondo do delito.(HC 513.752/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em13/08/2019, DJe 20/08/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES.DOSIMETRIA. TRÁFICO PRIVILEGIADO. RECONHECIMENTO. IMPOSSIBILIDADE.CIRCUNSTÂNCIAS QUE DENOTAM A DEDICAÇÃO ÀS ATIVIDADES ILÍCITAS.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - O parágrafo 4º, do art. 33, da Lei n. 11.343/06, dispõe que as penas do crime de tráfico de drogas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. Na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n.11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+IV - Na espécie, houve fundamentação concreta e idônea para o afastamento do tráfico privilegiado, lastreada na grande quantidade de entorpecentes apreendidos, assim como pelo fato de que o paciente já respondeu por atos infracionais análogos ao crime de tráfico de entorpecentes, elementos aptos a justificar o afastamento da redutora do art. 33, parágrafo 4º, da Lei n. 11.343/06, pois demostram que o paciente se dedicava às atividades criminosas.
+V - O Plenário do col. Supremo Tribunal Federal declarou inconstitucional o art. 2º, § 1º, da Lei n. 8.072/90 - com redação dada pela Lei n. 11.464/07, não sendo mais possível, portanto, a fixação de regime prisional inicialmente fechado com base no mencionado dispositivo. Para tanto, devem ser observados os preceitos constantes dos arts. 33 e 59, ambos do Código Penal.
+VI - In casu, o regime adequado à hipótese é o inicial fechado, uma vez que houve fundamentação idônea a lastrear a aplicação do regime mais gravoso, lastreada na grande quantidade de entorpecentes apreendidos, em consonância com o entendimento desta Corte, ex vi do art. 33, parágrafo 2º, b, e parágrafo 3º, do Código Penal, e art.42 da Lei n. 11.343/06.
+Agravo regimental desprovido.(AgRg no HC 604.121/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/10/2020, DJe 20/10/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.TRÁFICO DE DROGAS. DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DA PENA.ART. 33, § 4º, DA LEI N. 11.343/2006. INVIABILIDADE. PACIENTE QUE SE DEDICAVA À COMERCIALIZAÇÃO DE DROGAS. NÃO ATENDIMENTO DAS DIRETRIZES EXIGIDAS PARA O RECONHECIMENTO DO PRIVILÉGIO.REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO HABEAS CORPUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+- Nos termos do art. 33, § 4º, da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organização criminosa.
+- Não foram atendidas as diretrizes previstas para o reconhecimento do privilégio, uma vez que as instâncias de origem reconheceram expressamente que o paciente se dedicava à comercialização de drogas, haja vista não apenas a quantidade de maconha apreendida tanto com ele quanto em sua residência - 264,480 gramas de maconha, todas embaladas de forma individual -, além de uma faca com resquícios de droga, um rolo de plástico filme, e R$ 1.034,00 em notas diversas, mas principalmente pelo fato de ele haver admitido aos policias que efetuaram sua prisão em flagrante que estava praticando tráfico há aproximadamente dez dias naquele imóvel (e-STJ, fls. 16/17) -, tudo isso a indicar que ele não era traficante eventual, não fazendo, portanto, jus à referida minorante. Precedentes.
+- Agravo regimental não provido.(AgRg no HC 597.929/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/10/2020, DJe 20/10/2020)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉS QUE SE DEDICAM A ATIVIDADE CRIMINOSA. ALTERAÇÃO DESSE ENTENDIMENTO.REEXAME DE FATOS. REGIME FECHADO. GRANDE QUANTIDADE DE DROGA.RECURSO NÃO PROVIDO.
+1. A teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Hipótese em que Corte de origem afastou o redutor do tráfico privilegiado, por entender que as circunstâncias fáticas do crime denotam a habitualidade delitiva das rés, sobretudo o fato de estarem cientes de que estavam a serviço de organização criminosa, no transporte de grande quantidade de drogas. Logo, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus.
+3.Embora as ora agravantes sejam primárias e a pena tenha sido estabelecida em 5 anos e 10 meses de reclusão, a quantidade de droga apreendida (26,79kg de maconha) justifica a imposição do regime inicial fechado, conforme destacado pelas instâncias ordinárias.
+4. Agravo regimental não provido.
+(AgRg no HC 564.483/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/10/2020, DJe 20/10/2020)
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
+Não se verifica motivo para reformar a decisão agravada, porque o Tribunal de Justiça entendeu que não era o caso de aplicação da causa de diminuição da pena pelo tráfico privilegiado no grau máximo, em razão da quantidade de droga apreendida, que, de fato, é expressiva, pois trata-se de 624 gramas de maconha.
+Com efeito, nos termos do entendimento firmado pelo STJ, de fato, a quantidade, a natureza e a variedade da droga apreendida constituem fundamento idôneo a justificar a não aplicação da minorante do tráfico, sua aplicação em frações inferiores ao máximo e a imposição do regime mais severo, inexistindo, portanto, ilegalidade a ser sanada.
+Ante o exposto, voto por negar provimento ao agravo regimental.
