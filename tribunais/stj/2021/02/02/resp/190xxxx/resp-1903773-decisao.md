@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado de São Paulo contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+AGRAVO DE INSTRUMENTO. Execução Fiscal. Exceção de Pré-Executividade. Decisão que acolheu a exceção de pré-executividade, afastando a incidência dos juros calculados com base na Lei Estadual nº 13.918/2009, dada a declaração de inconstitucionalidade pelo C. Órgão Especial deste E. Tribunal de Justiça. Arbitramento de honorários de sucumbência sobre o proveito econômico obtido pela excipiente. Cabimento. Princípio da causalidade. Precedentes. Decisão mantida
+A parte recorrente alega, além da ocorrência de divergência jurisprudencial, violação dos art. 85 do CPC/2015, sustentando, em síntese, não ser cabível o arbitramento de verba honorária de sucumbência, na hipótese em que, apresentada exceção de pré-executividade, não há extinção da execução fiscal, mas o só decote de parcela atinente a juros moratórios (fls. 24/34).
+Sem contrarrazões pela parte recorrida (fl. 40).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 15/22):
+Revendo posicionamento anterior e aderindo ao entendimento preponderante atual Colendo Superior Tribunal de Justiça, imperioso reconhecer que, embora tenha sido acolhida questão meramente acessória ao débito principal, que não causou a extinção da execução, em razão do princípio da causalidade era mesmo o caso de arbitramento de honorários de sucumbência em favor dos patronos da excipiente.
+A Fazenda Estadual calculou o débito fiscal exequendo utilizando-se dos índices previstos nos arts. 85 e 96 da Lei Estadual n. 6.374/89, com a redação dada pela Lei Estadual n. 13.918/09, índices estes que foram declarados inconstitucionais no julgamento da Arguição de Inconstitucionalidade n. 0170909-61.2012.8.26.0000.
+Assim, de se reconhecer que a Fazenda Estadual deu causa ao incidente do qual saiu sucumbente, e, ainda que não tenha sido extinta a execução, deve arcar com a honorária correspondente, esta fixada em percentual a ser calculado sobre o valor do proveito econômico obtido pelo excipiente, observados os critérios estabelecidos no art. 85, §§2º e 3º, do CPC
+Pois bem.
+A Primeira Seção, no REsp 1.185.036/PE, sob a relatoria do em. Min. Herman Benjamin, decidiu ser "possível a condenação da Fazenda Pública ao pagamento de honorários advocatícios em decorrência da extinção da Execução Fiscal pelo acolhimento de Exceção de Pré-Executividade".
+Possível, não obrigatória, pois só "é cabível a fixação da verba honorária quando a exceção de pré-executividade for acolhida para extinguir total ou parcialmente a execução, em homenagem aos princípios da causalidade e da sucumbência" (AgInt nos EDcl no REsp 1769192/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/11/2019, DJe 18/11/2019). No mesmo sentido, dentre outros: AgInt no AREsp 1249589/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 15/12/2020, DJe 18/12/2020.
+No caso dos autos, o acórdão está em conformidade com a orientação deste Tribunal, pois se verifica que houve sucumbência parcial do Estado ao incluir na cobrança juros moratórios superiores ao permitido na legislação; assim, embora a cobrança continue a tramitar pelo saldo remanescente, nada impede o arbitramento de verba honorária sobre o respectivo valor extirpado do título executivo.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
