@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de conflito de competência em que são suscitantes WAGNER CANHEDO AZEVEDO e IZAURA VALERIO AZEVEDO (WAGNER e outra), tendo como suscitados o JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP (JUÍZO DA FALÊNCIA DA VASP), o JUÍZO DA 11ª VARA DO TRABALHO DE SÃO PAULO - SP (JUÍZO LABORAL - Deprecante) e o JUÍZO DA 1ª VARA DO TRABALHO DE SÃO JOSÉ DO RIO PRETO - SP (JUÍZO LABORAL - Deprecado).
+Os suscitantes afirmaram que não obstante o juízo da falência tenha determinado o bloqueio imediato de seus bens para não prejudicar os demais credores, o Juízo da 11ª Vara do Trabalho de São Paulo - SP determinou a penhora de bens de sua propriedade, que posteriormente foram adjudicados pelo reclamante e, atualmente, encontra-se na fase de expedição da carta de adjudicação.
+Sustentaram, em síntese, que o juízo trabalhista não possui competência para a prática de atos executórios após a decretação da falência, devendo ser preservado patrimônio da massa falida.
+Ademais, haveria desconformidade com a ordem de bloqueio emanada pelo juízo falimentar.
+Requereram, ao final, a concessão de medida liminar com a antecipação da tutela para que seja determinada a imediata suspensão do registro da Carta de Adjudicação e imissão na posse dos imóveis de propriedade dos Suscitantes até o trânsito em jugado do presente Conflito de Competência, declarando NULOS os atos executórios praticados pelo MM. Juízo da 11ª Vara do Trabalho de São Paulo (e-STJ, fl. 25).
+O pedido de concessão de medida liminar foi indeferido (e-STJ, fls. 215/217).
+Contra essa decisão foi interposto agravo interno (e-STJ, fls. 233/327).
+As informações foram prestadas pelos juízos suscitados às e-STJ, fls. 330/333 e 334/345.
+O Ministério Público Federal opinou no sentido de ser declarado competente o Juízo da 11ª Vara do Trabalho de São Paulo - SP (e-STJ, fls. 347/350).
+Em decisão monocrática da minha lavra conheci do conflito para declarar a competência do JUÍZO DA 11ª VARA DO TRABALHO DE SÃO PAULO - SP, para ultimar os atos referentes à adjudicação dos bens imóveis pelo exequente, ATILIO BERTOLDI NETO, nos autos nº 0048600-92.1990.5.02.0011, julgando prejudicado o agravo interno de e-STJ, fls. 233/327. A decisão recebeu a seguinte ementa:
+CONFLITO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO NCPC. RECLAMAÇÃO TRABALHISTA NA FASE DE EXECUÇÃO NO JUÍZO LABORAL. DETERMINAÇÃO DE INDISPONIBILIZAÇÃO DE BENS MÓVEIS E IMÓVEIS DOS ADMINISTRADORES DA FALIDA DEFERIDA PELO JUÍZO DA FALÊNCIA DA VASP. ADJUDICAÇÃO DOS BENS IMÓVEIS NA JUSTIÇA LABORAL QUE OCORREU ANTES DA DECISÃO DO JUÍZO FALIMENTAR QUE DETERMINOU A INDISPONIBILIDADE DOS BENS DO DIREITOR-PRESIDENTE DA VASP. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DA 11ª VARA DO TRABALHO DE SÃO PAULO - SP. (e-STJ, fl. 353)
+Contra essa decisão WAGNER e outra opuseram embargos de declaração sustentando que o julgado é omisso e contraditório porque o auto de adjudicação e seu registros foram efetuados pelo Juízo laboral em data posterior ao decreto da quebra da VASP (e-STJ, fls. 362/385).
+Posteriormente, os advogados que representavam os suscitantes protocolaram a renúncia ao mandato que lhes foi outorgado (e-STJ, fls. 374/377).
+Determinada a regularização processual dos suscitantes, após certificado pela Coordenadoria a ausência de manifestação quanto ao decidido (e-STJ, fl. 382), foi protocolada a petição às e-STJ, fls. 386/389.
+Os embargos de declaração não foram conhecidos, em decisão assim ementada:
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL EXTEMPORÂNEA. EMBARGOS NÃO CONHECIDOS. (e-STJ, fl. 392)
+Nesta oportunidade WAGNER e outra interpuseram agravo interno pleiteando seja reconsiderada a decisão que deixou de conhecer os embargos de declaração opostos anteriormente por falta de representação processual porque a intimação para regularizar a representação processual deveria ter sido direcionada exclusivamente à parte, por intimação pessoal, e não publicada no DJe, como ocorreu (e-STJ, fls. 399/411).
+A impugnação não foi apresentada, conforme certificado à e-STJ, fl. 412.
+É o relatório.
+DECIDO.
+O recurso merece provimento, devendo ser reconsiderada a decisão monocrática proferida às e-STJ, fls. 392/395 que não conheceu dos embargos de declaração sob o fundamento de que eles eram intempestivos.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, conforme o Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conforme constou no relatório, em decisão monocrática de minha lavra não conheci dos embargos de declaração sob o fundamento de que os suscitantes, WAGNER e outra, não regularizaram a representação processual no prazo que lhes foi determinado, ocorrendo a preclusão temporal da prática do ato.
+Contra essa decisão foi interposto agravo interno por WAGNER e outra sustentando que a intimação para regularizar a representação processual deveria ter sido direcionada exclusivamente à parte, por intimação pessoal, e não publicada no DJe, como ocorreu.
+Conforme se extrai dos autos, aos 12/9/2019, os antigos patronos de WAGNER e outra renunciaram ao mandato. Na sequência, a Coordenadoria de Processamento de Feitos de Direito Privado certificou que os agravantes estavam sem representação nos autos e, portanto, na data de 4/12/2019, foi proferida decisão para regularizar a representação processual no prazo de 5 (cinco) dias, a qual foi publicada no DJe de 5/12/2019. No entanto, independente da intimação pessoal dos agravantes, eles regularizaram sua representação processual aos 16/12/2019.
+O agravo interno deve ser provido para reconsiderar a decisão que não conheceu dos embargos de declaração, uma vez verificada a tempestividade da regularização da representação processual dos agravantes.
+A jurisprudência desta Corte é firme no sentido de que, uma vez
+constatada a deficiência na representação processual é necessária a intimação pessoal da parte para que supra tal vício, não sendo suficiente a intimação do advogado pelo órgão de imprensa local, como ocorreu no presente caso.
+Nesse sentido, confiram-se os precedentes:
+APELAÇÃO. AUSÊNCIA DE PROCURAÇÃO AO ADVOGADO DO APELANTE.
+NECESSIDADE DE INTIMAÇÃO PESSOAL DA PARTE PARA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. ACÓRDÃO QUE NÃO CONHECE DA APELAÇÃO INSUBSISTENTE. RECURSO ESPECIAL PROVIDO. ANULAÇÃO DO ACÓRDÃO PARA NOVO JULGAMENTO. DESNECESSÁRIA, CONTUDO, AGORA, A INTIMAÇÃO PESSOAL DA APELANTE, VISTO QUE JUNTOU A PROCURAÇÃO COM O RECURSO ESPECIAL.
+I - A jurisprudência deste Tribunal é pacífica no sentido de que, se a apelação é assinada por Advogado sem procuração, deve a parte ser intimada pessoalmente para sanar a falha, não sendo suficiente a mera intimação do Advogado que, sem procuração, subscreve o recurso.
+Precedentes uniformes deste Tribunal.
+II - Juntada de procuração, contudo, quando da interposição do Recurso Especial, de modo que superada a necessidade de intimação pessoal, restando apenas a insubsistência do julgamento da apelação, que deve ser renovado.
+Recurso Especial provido. Acórdão anulado, para que, sem necessidade de intimação pessoal, seja realizado novo julgamento da apelação.
+(REsp 887.656/RS, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. 9/6/2009, DJe 18/6/2009)
+APELAÇÃO. ADVOGADO QUE ASSINA APELAÇÃO SEM A DEVIDA REPRESENTAÇÃO PROCESSUAL. NECESSIDADE DE INTIMAÇÃO PESSOAL DA PARTE. PRECEDENTES.
+1. Deve o Tribunal propiciar à parte, mediante intimação pessoal, que supra a deficiência da representação do advogado que assina a apelação, se, feita a intimação deste, o prazo escoa sem manifestação.
+2. Recurso especial conhecido e provido.
+(REsp: 555.561/MG, Relator Ministro CARLOS ALBERTO MENEZES DIREITO, Terceira Turma, j. 14/6/2004, DJe 29/9/2004)
+Portanto, é o caso de dar provimento do agravo interno, passando-se à análise dos embargos de declaração opostos às e-STJ, fls. 362/385.
+WAGNER e outra opuseram embargos de declaração contra a decisão monocrática da minha lavra que conheceu do conflito para declarar a competência do JUÍZO DA 11ª VARA DO TRABALHO DE SÃO PAULO - SP, para ultimar os atos referentes à adjudicação dos bens imóveis pelo exequente, ATILIO BERTOLDI NETO, nos autos nº 0048600-92.1990.5.02.0011, julgando prejudicado o agravo interno de e-STJ, fls. 233/327.
+Nas razões dos aclaratórios sustentaram que o julgado é omisso e contraditório porque o auto de adjudicação e seus registros foram efetuados pelo Juízo laboral em data posterior ao decreto da quebra da VASP.
+O recurso em análise se constitui em tentativa de se alterar o julgado, pelo simples fato de não ter sido favorável, o que não se admite na via dos aclaratórios.
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+3. Na presente hipótese, ficou claro no aresto embargado que a alegação de desídia da parte ora embargada, que teria deixado de apresentar a procuração da parte contrária no momento da interposição do agravo de instrumento na origem (art. 525, I, do CPC/73), foi veiculada em momento inoportuno de modo a caracterizar inovação recursal.
+4. Ao STJ não é permitido interferir na competência do STF, sequer para prequestionar questão constitucional suscitada em sede de embargos de declaração, sob pena de violar a rígida distribuição de competência recursal disposta na Constituição. (EDcl no AgRg no AREsp 305.582/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 6/6/2013, DJe 13/6/2013).
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+A ocorrência de ponto controvertido se verifica quando existem na decisão assertivas que se excluem reciprocamente, ou quando da fundamentação não decorra a conclusão lógica.
+WAGNER sustentou que a decisão é contraditória e omissa porque o Juízo da VASP decretou a indisponibilidade de bens dos sócios da empresa do Grupo Canhedo antes da adjudicação do bem na Justiça do Trabalho.
+A decisão destacou que os imóveis objeto do presente conflito de competência foram devidamente penhorados e adjudicados no JUÍZO LABORAL aos 8/5/2012, momento em que ainda não havia sido declarada a indisponibilidade dos bens dos Diretores e Vice-Diretores Presidentes da VASP pelo JUÍZO DA FALÊNCIA DA VASP - 12/11/2013, sendo válidos e eficazes os atos praticados pelo Juízo Trabalhista.
+Sob o pretexto de que há ponto contraditório e omisso na decisão embargada WAGNER e outra pretendem, por via transversa, alterar o resultado da decisão monocrática que determinou a competência do Juízo Trabalhista para prosseguir com os atos de constrição.
+Ao contrário do alegado no recurso, a data a ser considerada é aquela em que o JUÍZO DA FALÊNCIA DA VASP declarou a indisponibilidade dos bens dos Diretores e Vice-Diretores Presidentes da VASP - 12/11/2013, não a data do decreto da falência da VASP, que ocorreu aos 4/9/2008. Na data do decreto da falência da VASP não havia nenhuma decisão declarando a indisponibilidade dos bens dos sócios da empresa, inexistindo competência do juízo universal para decidir sobre a constrição de bens não abrangidos pelo processo falimentar.
+Em suma, é manifesto o caráter infringente da pretensão, uma vez que os embargos de declaração foram utilizados indevidamente como sucedâneo recursal e não com o intuito de sanar vício processual.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão de e-STJ, fls. 392/395, nos termos do art. 1.021, § 2º, do NCPC, para conhecer dos embargos de declaração e, no mérito, rejeitá-los.
+Publique-se. Intimem-se
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO NCPC. REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. NECESSIDADE DE INTIMAÇÃO PESSOAL DA PARTE. AGRAVO INTERNO PROVIDO PARA CONHECER DOS EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO NCPC. CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. AGRAVO PROVIDO PARA CONHECER DOS EMBARGOS DE DECLARAÇÃO E REJEITÁ-LOS.
