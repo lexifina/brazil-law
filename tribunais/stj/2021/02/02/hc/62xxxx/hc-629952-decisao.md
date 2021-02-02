@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de TALES REGIS BREHM DA SILVA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (N. 0042584-59.2019.8.21.0001).
+O paciente teve a prisão em flagrante convertida em preventiva por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+Posteriormente, foi-lhe concedida liberdade provisória pelo Juízo a quo (fl. 22), mas o Tribunal de origem revogou referida benesse ao julgar o Recurso em Sentido Estrito n. 0263747-66.2019.8.21.7000 (fls. 23-27).
+A revogação da liberdade provisória fundou-se no fato de o paciente responder a outro processo penal por tráfico de drogas, associação para o narcotráfico e porte ilegal de arma de fogo com numeração suprimida.
+A defesa interpôs embargos infringentes. O Tribunal de origem não os acolheu (fls. 362-370) em razão da quantidade e diversidade de drogas apreendidas (122g de maconha e 4 comprimidos de ecstasy), das mensagens extraídas do aparelho de telefonia móvel que evidenciavam dedicação ao narcotráfico e do fato de o paciente responder a outro processo penal pela prática dos delitos de tráfico de drogas, associação para o tráfico e porte ilegal de arma de fogo com numeração suprimida.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.
+Ressalta que o paciente é réu primário, tem residência fixa e ocupação lícita, além de ter alcançado a liberdade provisória em 5/8/2019, isto é, há mais de 1 ano.
+Afirma que o paciente tem dois filhos menores de idade.
+Por fim, aponta excesso de prazo na duração do processo.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva do paciente.
+O pedido de liminar foi indeferido às fls. 377-378.
+O Ministério Público manifestou-se pela concessão da ordem (fls. 408-414).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+No que diz respeito às condições favoráveis, ao excesso de prazo na duração do processo e ao fato de o paciente ter filhos menores de idade, verifica-se que tais questões não foram enfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar as matérias, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018). Portanto, nesses pontos, o writ não merece conhecimento.
+Ademais, a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confiram-se excertos da decisão que não acolheu os embargos infringentes (fls. 362-370):
+Não bastasse isso, está-se diante de agente que dispunha, como visto, de significativa quantidade de drogas diversas (122g de maconha e 04 comprimidos de ecstasy), o que confere concreta gravidade crime e determina a segregação cautelar, resultando reforçada a necessidade da prisão, sem o que não estará resguardada a ordem pública.
+ ..
+Merece registro, ainda, a circunstância consistente em que o embargante figura como réu em ação penal outra, pela prática anterior dos delitos de tráfico de drogas, associação para o tráfico e porte ilegal de arma de fogo com numeração suprimida (nQ 001/2.18.0012865-5), resultando reforçada a necessidade da prisão, sem o que não estará resguardada a ordem pública, mormente quando a análise das mensagens extraídas do aparelho de telefonia móvel apreendido está a indicar a dedicação ao narcotráfico (fls. 185-206).
+No caso, a quantidade e variedade dos entorpecentes apreendidos (122g de maconha e 04 comprimidos de ecstasy) e o fato de o paciente responder a outra ação penal foram considerados pelo Tribunal de origem para restabelecer a prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Por fim, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Públic o Federal.
