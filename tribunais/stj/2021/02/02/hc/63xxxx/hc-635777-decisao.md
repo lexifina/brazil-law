@@ -1,0 +1,11 @@
+DECISÃO
+JOI NUNES DA SILVA alega sofrer coação ilegal em seu direito de locomoção, ante acórdão do Tribunal a quo. Busca, em liminar e no mérito, a detração, como pena efetivamente cumprida, do período em que submeteu-se a medidas cautelares diversas da prisão.
+Decido.
+O writ comporta pronta solução, pois o aresto recorrido está em conformidade com a jurisprudência desta Corte.
+O art. 42 do CP não prevê a detração penal do tempo de cumprimento de medidas cautelares diversas da prisão. Esta Corte admite, em alguns julgados, ainterpretação extensiva do dispositivo em relação a providências correlatasà clausura, como o recolhimento domiciliar, situação não verificada da espécie, uma vez que o paciente,durante o trâmite da ação penal, ficou sujeito às seguintes medidas do art. 319 do CPP:
+(a) comparecimento perante a autoridade competente sempre que for intimadopara atos da instrução criminal, para o julgamento;(b) proibição de mudar de residência, sem prévia permissão da autoridade processante;(c) proibição de se ausentar por mais de 08 (oito) dias, sem comunicar o Juízo o lugar onde poder ser encontrado; (d) comparecimento mensal a Juízo para informar e justificar suas atividades.
+Aplica-se ao caso o entendimento de que:"não é possível a detração do período em que o sentenciado submeteu-se a medidas cautelares diversas da prisão na pena privativa de liberdade, em razão da ausência de previsão legal" (AgRg no HC n. 494.693/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 27/2/2020).
+Confira-se: "Não é possível a detração, na pena privativa de liberdade, do tempo em que o réu foi submetido a medida cautelar diversa da prisão, em razão da ausência de previsão legal. Precedentes. 4. Agravo regimental desprovido. (AgRg no AREsp 1406675/GO, Rel. Ministra Laurita Vaz, 6ª T., DJe 05/06/2019).
+Ainda: "descabe detrair das penas o período de cumprimento de medidas cautelares diversas da prisão, em especial a medida consistente no comparecimento periódico em Juízo, porquanto o art. 42 do Código Penal não prevê a aplicabilidade do benefício a essas hipóteses. Precedentes. 2. Agravo regimental improvido. (AgRg no REsp 1737976/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 04/2/2019.)
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
