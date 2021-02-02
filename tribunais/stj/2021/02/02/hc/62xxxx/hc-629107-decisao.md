@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se dehabeas corpus, substitutivo de recurso especial, com pedido liminar, impetrado em favor deANA APARECIDA BARBOSA VANO, contra o v. acórdão proferido pelo eg.Tribunal de Justiça do Estado de São PaulonoAgravo em Execução n. 0008287-63.2020.8.26.0482.
+Depreende-se dos autos que o d. Juízo da Vara de Execuçõesindeferiuo pleito defensivo de remição de penas em razão da aprovação da apenada noENCCEJA - Exame Nacional para Certificação de Competências de Jovens e Adultos - Ensino Fundamental(fls. 58-59).
+Irresignada, a Defesa interpôs agravo em execução perante o eg. Tribunal de origem, que negou provimento ao recurso, conforme v. acórdão de fls. 86-90 assim ementado:
+"AGRAVO DE EXECUÇÃO PENAL - REMIÇÃO - Pedido de remição com base na aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) - Indeferimento pelo Juízo da Execução por ausência de amparo legal - Indeferimento que deve ser mantido, não pelos fundamentos do Juízo de origem, mas em razão do vínculo da agravante com atividades regulares de ensino no próprio estabelecimento prisional - Recurso não provido."
+No presentewrit,alega que,"em caso de aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA, que certifica a conclusão do Ensino Fundamental, a remição pode totalizar 133 (cento e trinta e três) dias (1.600 horas divididas por 12 meses)"(fl. 6).
+Aduz que,"sendo um dos objetivos da LEP, ao instituir a remição, incentivar o bom comportamento do sentenciado e sua readaptação ao convívio social, a interpretação extensiva do mencionado dispositivo impõe-se no presente caso, o que revela, inclusive, a crença do Poder Judiciário no estudo como método factível para o alcance da harmônica reintegração à vida em sociedade"(fl. 7).
+Sustenta que"foi editada a Recomendação nº 44/2013 do Conselho Nacional de Justiça, órgão este presidido pelo Presidente do Supremo Tribunal Federal (art. 103-B, I, da CF).A esse respeito, a jurisprudência do TJ/SP admite a remição pela aprovação no ENCCEJA quando preenchidos os demais requisitos previstos na Recomendação n. 44/13 do Conselho Nacional de Justiça, que recomenda a interpretação da LEP nesse mesmo sentido"(fl. 7).
+Requer, ao final, a concessão da ordem, inclusive liminarmente,"a fim de se cassar o r. decisum atacado e de se aplicar o acréscimo de 1/3, referentes à aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos - ENCCEJA, na forma do 1º, inciso IV, da Recomendação nº 44, de 26 de novembro de 2013, do Conselho Nacional de Justiça, e artigo 126, parágrafo 5º, da Lei de Execução Penal"(fl. 10 - grifei).
+Pedido liminarindeferidoàs fls. 93-95.
+As informações foram prestadas às fls. 102-123 e 126-144.
+O Ministério Público Federal, às fls. 146-147, manifestou-se pela denegação da ordem,em parecer com a seguinte ementa:
+"HABEAS CORPUS. EXECUÇÃO PENAL. APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS - ENCCEJA. ACRÉSCIMO DE 1/3. CONCLUSÃO DO ENSINO FUNDAMENTAL. IMPOSSIBILIDADE. DUAS FALTAS GRAVES NO CURSO DA EXECUÇÃO. ART. 127 DA LEP.
+PARECER PELA DENEGAÇÃO DA ORDEM."
+É o relatório.
+Decido.
+ATerceira Seção desta Corte,seguindo entendimento firmado pelaPrimeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitirhabeas corpusem substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia dohabeas corpuscomo instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Desta forma, incabível o presentemandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Como relatado, a controvérsia cinge-seem se verificar o direito da ora paciente em obter o acréscimo de1/3 (um terço) do tempo remido em razão da aprovação total no ENCCEJA - Ensino Médio, conformeinterpretação dada à Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+De fato, oConselho Nacional de Justiça editou a Recomendação n. 44 de 26/11/2013, que, em seu art. 1º, inc. IV, dispõe sobre a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão de ensino fundamental (ENCCEJA),verbis:
+"RECOMENDAÇÃO Nº 44 DE 26/11/2013
+Dispõe sobre atividades educacionais complementares para fins de remição da pena pelo estudo e estabelece critérios para a admissão pela leitura.  ..
+O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ), no uso de suas atribuições legais e regimentais,
+RESOLVE:
+Art. 1º Recomendar aos Tribunais que:
+ ..
+IV - na hipótese de o apenado não estar, circunstancialmente, vinculado a atividades regulares de ensino no interior do estabelecimento penal e realizar estudos por conta própria, ou com simples acompanhamento pedagógico, logrando, com isso,obter aprovação nos exames nacionais que certificam a conclusão do ensino fundamental Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) ou médio Exame Nacional do Ensino Médio (ENEM), a fim de se dar plena aplicação ao disposto no § 5º do art. 126 da LEP (Lei n. 7.210/84), considerar, como base de cálculo para fins de cômputo das horas, visando à remição da pena pelo estudo,50% (cinquenta por cento) da carga horária definida legalmente para cada nível de ensino fundamental ou médio - art. 4º, incisos II, III e seu parágrafo único, todos da Resolução n. 03/2010, do CNE , isto é,1600 (mil e seiscentas) horas para os anos finais do ensino fundamentale 1200 (mil e duzentas) horas para o ensino médio ou educação profissional técnica de nível médio;" (grifei).
+E por sua vez,o art. 126 da Lei de Execuções Penais traz a seguinte disposição:
+"Art. 126. O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+ ..
+§ 5º O tempo a remir em função das horas de estudo será acrescido de 1/3 (um terço) no caso de conclusão do ensino fundamental, médio ou superior durante o cumprimento da pena, desde que certificada pelo órgão competente do sistema de educação." (grifei)
+Em tal contexto, écerto que a paciente jáfoi beneficiada com a remição decarga horária parcial em razão de estudos do mesmo nível médio, como salientou o eg. Tribunal de origem, o que caracterizaria a duplicidade do benefício, no caso de deferimento de nova remição de pena.
+Todavia, verifica-seque a paciente não havia concluído o ensino médio em sua totalidade, bem como foramremidos apenas parte do tempo; assim,tendo logrado êxito em ser aprovada no ENCCEJA,concluindo o Ensino Médio, demonstramérito nos estudos e faz jus ao acréscimo de 1/3 (um terço) previsto no § 5º do art. 126 da Lei de Execução Penal.
+Ante o exposto,não conheço do habeas corpus.
+Contudo, concedo a ordem, de ofício,para reconhecer o direito dapacienteao acréscimo de 1/3 (um terço) do tempo remido,previsto no § 5º do art. 126 da Lei de Execução Penal, em razão de sua aprovação no ENCCEJA e conclusão do Ensino Médio.
+P. I.
