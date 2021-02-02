@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim relatado (fls. 141):
+Em benefício da ré Brenda Roberta Rangel Felix, o advogado Henrique Azarias Reis impetrou "habeas corpus", com pedido de liminar, alegando sofrer a paciente constrangimento ilegal por parte do MM. Juiz de Direito em exercício no Plantão Judiciário da Comarca de Taubaté, nos autos nº 15000990-08.2020.8.26.0618, porque detida pela suposta prática do crime de tráfico de drogas, associação para o tráfico e posse ilegal de um carregador de pistola calibre 765, a prisão em flagrante foi convertida em preventiva por decisão carente de idônea fundamentação, embora ausentes os requisitos para a medida extrema. Aduz não ter sido considerado ser a paciente primária, de bons antecedentes e com residência fixa e ocupação lícita, além de ser ré confessa e estar grávida, o que a insere no grupo de risco para o contágio da COVID-19, tudo a indicar que faz jus a ser imediatamente libertada.
+Por tais motivos, pleiteia a concessão da ordem para ser deferida liberdade provisória à paciente, com ou sem imposição de medidas cautelares diversas do cárcere, expedindo-se alvará de soltura.
+Indeferida a liminar e dispensada a requisição de informações à autoridade impetrada, a ilustrada Procuradoria de Justiça opinou pela denegação da ordem.
+É a síntese do necessário.
+Alegao impetrante a ocorrência de constrangimento ilegal decorrente da ausência da ausência de fundamentação da decisão que decretou a prisão preventiva da paciente, a qual, segundo entende, baseou-se na gravidade abstrata do delito.
+Salienta as condições pessoais favoráveis e afirma que cabíveis medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, que seja determinada a liberdade provisória da paciente com aplicação demedidas cautelares diversas da prisão.
+A liminar foi indeferida. Prestadas as informações, o Ministério Público Federal se manifestou pelo não conhecimento da impetração ou pela denegação da ordem.
+É o relatório.
+DECIDO.
+No tocante àprisão preventiva do paciente, o decreto prisional assim dispôs(fls. 102-103):
+ ..
+Flagrante formalmente em ordem, vez que preenchidos os requisitos do artigo 302 do CPP. A existência de grande quantidade de droga e petrechos para produçãode porções individuais evidenciam, em sede perfunctória, o intuito de traficância.
+Ademais, a manutenção de drogas em depósito, para fins de tráfico, e a posse ilegal de arma de fogo configuram situação de flagrante permanente, o que autoriza o ingresso dos policiais na residência independentemente de mandado de busca e apreensão.
+Os delitos em tese praticados são consideravelmente graves, sendo um deles equiparado a hediondo.
+Além disso, a averiguada mantinha em depósito quantidade elevada de maconha, algumas porções de cocaína, bem como anotações de contabilidade do tráfico, faca e balança de precisão, o que não só demonstra claramente que os entorpecentes eram destinados à produção de porções individuais para venda em varejo, como evidencia que a indiciada se dedica de forma habitual e profissional à atividade criminosa.
+Assim, embora primária, aparentemente faz do tráfico seu meio de subsistência, tornando evidente que as medidas cautelares diversas do cárcere não serão suficientes para impedir sua reiteração delitiva, sendo a decretação da segregação cautelar a única medida apta a garantir a ordem pública.
+Por fim, ao contrário do quanto alegado pela defesa, não há no interrogatório da indiciada nem nas informações sobre sua vida pregressa a menção de que esteja grávida, não se inserindo, assim, no grupo de risco da Covid-19 ou no âmbito de proteção do HC coletivo recentemente concedido pelo STF.
+Como se vê, o Juiz de primeiro grau determinou a segregação preventiva com basenascircunstâncias fáticas, diante daapreensão de quantidade elevada de maconha, algumas porções de cocaína, bem como anotações de contabilidade do tráfico, faca e balança de precisão.
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade das drogas apreendidas. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego a ordem.
+Publique-se.
+Intimem-se.
