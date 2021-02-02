@@ -1,0 +1,33 @@
+Decisão: Trata-se de impugnação à execução apresentada pela União, relativa ao cumprimento de sentença em favor do Estado do Amazonas, o qual apontou como devido o valor de R$ 1.200,00 (mil e duzentos reais).
+    A União informa que discorda dos cálculos apresentados pelo Estado do Amazonas, porque o exequente estendeu indevidamente à Superintendência da Zona Franca de Manaus (Suframa) a majoração de verba honorária que dizia respeito apenas à cota-parte devida pela União.
+    Explica, in verbis, que:
+    “Com efeito, a decisão final de mérito condenou a União e a SUFRAMA ‘ao pagamento dos honorários advocatícios (R$ 1.000,00 – mil reais) devidos aos procuradores do Estado do Amazonas, a serem divididos igualmente (R$ 500,00 para cada), de forma solidária’.
+    Em face dessa decisão final de mérito, apenas a União interpôs agravo interno. Ao negar provimento ao recurso do ente central, esse STF majorou a cota-parte devida pela União em 20%, conforme se constata da leitura do seguinte trecho do acórdão:
+    ‘Ante o exposto, nego provimento ao agravo, de sorte que, considerando que o valor dos honorários advocatícios foi fixado em quantia certa (art. 85, § 8º, do CPC), a majoração do art. 85, § 11, do CPC ocorrerá em percentual de 20% sobre essa base de cálculo. Assim, majoro a verba honorária em 20% (vinte por cento) sobre o valor anteriormente fixado, R$ 500,00 (quinhentos reais), totalizando o importe de R$ 600,00 (seiscentos reais), observados os limites previstos nos § § 2º e 3º do referido dispositivo’ (fl. 13, Peça nº 84)
+    Assim, apesar de a condenação de honorários ter se dado de forma solidária, a majoração de honorários, em virtude do recurso da União, não pode atingir a cota-parte da SUFRAMA, tendo em vista que aquele ente não recorreu da decisão final de mérito.
+    Diante disso, a União discorda do valor apresentado pelo exequente (R$ 1.200,00), pois entende que a sua cota-parte perfaz R$ 600,00 (seiscentos reais), com a majoração determinada pelo acórdão de julgamento do agravo interno, enquanto a cota-parte da SUFRAMA permanece os R$ 500,00 (quinhentos reais) inicialmente fixados. Por esse motivo, a União indica o excesso de execução no montante de R$ 100,00 (cem reais), sendo que o valor total devido totaliza R$ 1.100,00 (mil e cem reais)”.
+    É o breve relatório. Decido.
+    A irresignação merece prosperar.
+    De fato, conforme demonstrado pela União, em que pese a condenação ao pagamento em honorários advocatícios ter ocorrido de forma solidária entre a União e a Suframa, a interposição de agravo interno em face da decisão monocrática foi realizada exclusivamente pela União.
+    Negado provimento ao recurso, os honorários advocatícios, anteriormente fixados, foram majorados em 20%, nos termos do art. 85, § 11, do Código de Processo Civil, tal como constante no trecho citado pela União:
+    “Art. 85. omissis.
+    (…)
+    § 11. O tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento’. (grifo nosso)
+    “Ante o exposto, nego provimento ao agravo, de sorte que, considerando que o valor dos honorários advocatícios foi fixado em quantia certa (art. 85, § 8º, do CPC), a majoração do art. 85, § 11, do CPC ocorrerá em percentual de 20% sobre essa base de cálculo. Assim, majoro a verba honorária em 20% (vinte por cento) sobre o valor anteriormente fixado, R$ 500,00 (quinhentos reais), totalizando o importe de R$ 600,00 (seiscentos reais), observados os limites previstos nos § § 2º e 3º do referido dispositivo (fl. 13, Peça nº 84, grifo nosso)”.
+    Tendo em vista que essa majoração foi imposta, em razão de recurso interposto exclusivamente pela União, incide, na hipótese, a regra constante do art. 278 do Código Civil, o qual reza:
+    “Art. 278. Qualquer cláusula, condição ou obrigação adicional, estipulada entre um dos devedores solidários e o credor, não poderá agravar a posição dos outros sem consentimento destes”. (grifo nosso)
+    Assim, em razão da Suframa não ter interposto recurso em face da decisão monocrática ou anuído expressamente às razões recursais da União, os ônus sucumbenciais adicionais, diante do agravamento material, não podem ser cobrados pelo credor em face de codevedor que não deu causa à majoração.
+    Destarte, em relação à condenação em honorários advocatícios, sua execução deverá ser cobrada com o adicional de 20% (R$ 100,00), somente em relação à quota-parte devida pela União (R$ 500,00), devendo ser excluída da parcela devida pela Suframa.
+    Desse modo, asssiste razão à União ao afirmar que a execução deve prosseguir ser na quantia de R$ 1.100,00 (mil e cem reais), de forma solidária, apesar de materialmente serem devidos R$ 600,00 pela União e R$ 500,00, pela Suframa.
+    2) Honorários advocatícios da fase de cumprimento de sentença
+    Nos termos do § 7º do art. 85 do CPC, “Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada”, motivo pelo qual, a contrario sensu, sendo impugnada, é cabível, em tese, condenação em honorários.
+    Sob a sistemática do CPC/2015, na fase de cumprimento de sentença, o proveito econômico obtido por cada parte e não a quantidade de pedidos acolhidos ou rejeitados propriamente é de crucial importância, nos termos do § 2º do art. 85. (“Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa (...)“ ).
+    Desse modo, considerando que o proveito econômico obtido pela União foi de R$ 100,00 (cem reais), aliado o fato de que o tempo de trabalho realizado pelos advogados foi ínfimo, além da ausência de complexidade da peça produzida, em cotejo à proporcionalidade de ser fixada quantia irrisória, considero ser o caso de aplicar a norma da sucumbência mínima, razão pela qual deixo de fixar honorários nesta fase de cumprimento de sentença, aplicando-se analogicamente o disposto no parágrafo único do art. 86 do CPC.
+3) Decisão
+    Diante do exposto, acolho a impugnação da União para fixar como devida a quantia de R$ 1.100,00 (mil e cem reais), com a incidência dos acréscimos legalmente devidos desde sua fixação.
+    Sem condenação em honorários.
+    Publique-se. Intimem-se.
+    Brasília, 2 de fevereiro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
