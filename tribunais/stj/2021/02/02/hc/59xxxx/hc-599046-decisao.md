@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de DAMIAO RAFAEL GONCALVES, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado do Paraná.
+Depreende-se dos autos prisão em flagrante, convertida em preventiva, pela suposta prática do crime de tráfico ilícito de entorpecentes.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS - TRÁFICO ILÍCITO DE DROGAS - NEGATIVA DE AUTORIA E CONDIÇÃO DE USUÁRIO DE TÓXICOS - MATÉRIA DE MÉRITO - ALEGADA VIOLAÇÃO DE DOMICÍLIO - AUTORIZAÇÃO DA GENITORA DO PACIENTE PARA O INGRESSO NA MORADIA - FLAGRANTE REALIZADO POR GUARDAS MUNICIPAIS - POSSIBILIDADE - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA - PRISÃO PREVENTIVA - MOTIVAÇÃO INIDÔNEA - AUSÊNCIA DE INDICAÇÃO DE ELEMENTOS CONCRETOS A JUSTIFICAR O ENCARCERAMENTO - DECRETO PRISIONAL DISSOCIADO DOS FATOS - ILEGALIDADE MANIFESTA - ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO PARCIALMENTE CONCEDIDA, COM EXPEDIÇÃO DE ALVARÁ DE SOLTURA EM FAVOR DO PACIENTE, SE POR OUTRO MOTIVO NÃO ESTIVER PRESO, COM COMUNICAÇÃO AO MAGISTRADO"(fl. 30).
+Daí o presente mandamus, no qual o impetrante assevera, além da negativa de autoria, a existência de constrangimento ilegal, consubstanciado na ausência de fundamentação idônea a justificar a decretação de sua segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva e, subsidiariamente, a substituição da prisão preventiva por medida cautelar diversa, prevista no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 431-433.
+As informações foram prestadas às fls. 442-464.
+O Ministério Público Federal, às fls. 468-470, manifestou-se pelo não cabimentoda ordem.
+É o relatório.
+Decido.
+O habeas corpus está prejudicado.
+Isto porque, em conformidade com informações disponíveis no sítio eletrônico do eg. Tribunal de Justiça do Estado do Paraná, nos autos da Ação Penal n. 0002512-23.2020.8.16.0037, o paciente foi condenado à pena de 7 anos e 6 meses de reclusão, em regime semiaberto, pela prática docrimede tráfico de drogas, ocasião em que foi negado--lhe o direito de recorrer em liberdade
+Contudo, impetrado habeas corpus, a eg. Corte local concedeu-lhe a ordem para permitir-lhe recorrer em liberdade, consoante se denota da seguinte ementa:
+"HABEAS CORPUS - TRÁFICO ILÍCITO DE ENTORPECENTES - SENTENÇA CONDENATÓRIA - AUSÊNCIA DE FUNDAMENTAÇÃO ACERCA DA MANUTENÇÃO DA PRISÃO PREVENTIVA - QUESTÃO SEQUER ABORDADA NO DECISUM - INFRINGÊNCIA AO ARTIGO 387, § 1º DO CPP - CONSTRANGIMENTO ILEGAL MANIFESTO - ORDEM CONCEDIDA, PARA ASSEGURAR O DIREITO DO PACIENTE DE RECORRER EM LIBERDADE, COM COMUNICAÇÃO A MAGISTRADA, PARA A EXPEDIÇÃO DE ALVARÁ DE SOLTURA, SE POR OUTRO MOTIVO NÃO ESTIVER PRESO. A prisão como efeito automático da sentença condenatória recorrível encontra-se revogada pela Lei n.º 11.719/08. Consoante disposto no art. 387, § 1.º, do CPP, na sentença condenatória, o juiz decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta (HC 371.872/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 11/10/2016, DJe 28/10/2016) (STJ, HC 367.002/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/11/2016, DJe 02/12/2016)".
+Desse modo, expedido o alvará de soltura em 29/10/2020 e pendente de julgamento o recurso de apelação, forçoso reconhecer a prejudicialidade da presente impetração, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, incisos XI e XX, do RISTJ, julgo prejudicado o presente habeas corpus.
+P. e I.
