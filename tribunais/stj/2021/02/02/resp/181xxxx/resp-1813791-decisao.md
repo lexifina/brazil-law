@@ -1,0 +1,64 @@
+DECISÃO
+1. Cuida-se de recurso especial fundado no art. 105, III, alínea"a", da Constituição Federal, interposto contra acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RESPONSABILIDADE CIVIL - Ação cominatória e indenizatória Condomínio autor que busca reparação contra a incorporadora relativamente a danos em seu edifício cuja causa é atribuída a vícios construtivos - Decisão que afastou prejudiciais de mérito de decadência e de prescrição Inconformismo da ré Não acolhimento - Prazos de garantia (decadenciais) previstos no art. 26 do Código de Defesa do Consumidor inaplicáveis ao caso - Pedidos que não se confundem com abatimento do preço, substituição da coisa ou devolução de quantia paga Aplicação do prazo prescricional do art. 206, § 3º, inciso V, do Código Civil, de três anos, contado da data do ato ou fato que autorizar a reparação De qualquer forma, impossível a fixação do termo inicial da contagem do referido prazo, em razão da progressividade dos danos descritos Decadência e prescrição não configuradas - Recurso não provido
+(fl. 725)
+A recorrente, nas razões do recurso especial, sustenta, em síntese, que: a) estaria caracterizada a decadência do direito da parte recorrida ante o transcurso do lapso temporal previsto no parágrafo único do art. 618 do Código Civil; e b) tendo em vista que a parte recorrida tomou conhecimento dos vícios a partir do primeiro semestre de 2012, estaria cristalizada a prescrição de sua pretensão, uma vez que transcorrido o lapso temporal previsto no incido V do § 3º do art. 206 do Código Civil.
+Contrarrazões às fls. 743-749.
+O recurso recebeu crivo positivo de admissibilidade na origem (fl. 750-751).
+É o relatório.
+DECIDO.
+2. No que diz respeito à violação aoparágrafo único do art. 618 do Código Civil, tem-se, no ponto, inviável o debate. Isso porque não se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação das teses recursais apresentadas, sob pena de supressão de instâncias.
+De fato, não se extrai do acórdão recorrido pronunciamento a respeito de controvérsia apoiada na normatividade dodispositivolegalsupostamente violado.
+Com efeito, observa-se que a Corte de origem não enfrentou a tese segundo a qual estaria caracterizada a decadência do direito da parte recorrida ante o transcurso do lapso temporal previsto no parágrafo único do art. 618 do Código Civil.
+Não se extrai do acórdão recorrido pronunciamento a respeito da referida controvérsia, limitando-se a Corte de Origem a afastar a incidência do art. 26 do Código de Defesa do Consumidor,verbis:
+À partida, realmente não há de se falar em decadência.
+Isso porque não se aplica ao caso o prazo decadencial previsto no art. 26 do Código de Defesa do Consumidor, afinal, não se perseguem abatimento do preço, substituição da coisa ou devolução da quantia paga, e sim o prazo prescricional do art. 206, § 3º, inciso V, do Código Civil, de três anos, contado da data do ato ou fato que autorizar a reparação.
+(fl. 726)
+Observa-se, portanto, que em momento algum o Tribunal a quo enfrentou a tese segundo a qual não houve ciência pela recorrente da desconsideração da personalidade jurídica autorizada e de que a impugnação ao cumprimento de sentença foi o primeiro momento em que foi possível aduzir a ilegitimidade aduzida.
+Frise-se que ao STJ cabe julgar, em sede de recurso especial, conforme dicção constitucional, somente as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios. Observa-se a incidência, pois, por analogia, dos óbices das Súmulas 282 e 356 do STF.
+Assim, quanto ao ponto em mote, ausente um dos requisitos de admissibilidade do apelo especial, qual seja o prequestionamento (Enunciados Sumulares n. 282 e n. 356 do C. STF).
+Por oportuno, leiam-se estes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. 1. SUSPENSÃO DO JULGAMENTO DO AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. 2. ILEGITIMIDADE DA CVM E INÉPCIA DA INICIAL. QUADRO FÁTICO DELINEADO PELO ACÓRDÃO RECORRIDO. MODIFICAÇÃO. INVIABILIDADE. SÚMULA 7/STJ. 3. AGRAVO DESPROVIDO.
+1. A ausência de prequestionamento se evidencia quando o conteúdo normativo contido nos dispositivos supostamente violados não foi objeto de debate pelo tribunal de origem. Hipótese em que incidem os rigores das Súmulas n. 282 e 356/STF.
+2. As instâncias ordinárias consignaram a ausência de algum indício de que a autarquia federal teria alguma responsabilidade no dano, inexistindo atuação da CVM capaz de ensejar o dever de reparar.
+Infirmar as conclusões do acórdão recorrido demandaria o reexame de provas, o que atrai a incidência da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1400466/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 12/09/2017, DJe 15/09/2017)  g.n.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/73. AUSÊNCIA DE OBSCURIDADE, OMISSÃO OU CONTRADIÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 e 356/STF. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULA 5/STJ. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação do art. 535 do Código de Processo Civil/73 pois o Tribunal de origem dirimiu as questões pertinentes ao litígio - tal como lhe foram postas e submetidas -, apresentando todos os fundamentos jurídicos pertinentes, à formação do juízo cognitivo proferido na espécie. 2. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. Incidência das Súmulas 282/STF e 356/STF.
+3. O Tribunal de origem consigna que foi fornecido aos recorrentes todas as informações necessárias para a celebração e execução do contrato, informando-lhes de todas as circunstâncias relevantes para o negócio efetivado, além de ter-lhes sido indenizado os prejuízos ocorridos até o montante de três milhões de reais, tal qual previsto em cláusula contratual. De tal modo, aponta que não se verifica violação do princípio da boa-fé objetiva e reconhece a isenção de responsabilidade da recorrida pelos prejuízos supervenientes. A reforma do aresto, nestes aspectos, demanda inegável necessidade de interpretação de cláusula contratual e reexame de matéria probatória, providências inviáveis de serem adotadas em sede de recurso especial, ante o óbice das Súmulas 5 e 7 desta Corte.
+4. Agravo interno não provido.
+(AgInt no AREsp 992.489/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/05/2017, DJe 23/05/2017)  g.n.
+Dessa forma, caberia à parte recorrente, entendendo ter havido omissão por parte do órgão julgador, opor embargos de declaração, apontando os referidos dispositivos legais violados, e, caso entendesse não sanado o vício apontado, aduzir, em sede de recurso especial, violação ao art. 1.022 do CPC, providência, todavia, da qual não se desincumbiu, o que impede o conhecimento do apelo especial, máxime porque o acórdão vergastado teorizou acerca da matéria sub examine, sem emitir posicionamento específico quanto às ofensas assestadas.
+3. Ademais, obtempera a parte recorrente que,tendo em vista que a parte recorrida tomou conhecimento dos vícios a partir do primeiro semestre de 2012, estaria cristalizada a prescrição de sua pretensão, uma vez que transcorrido o lapso temporal previsto no incido V do § 3º do art. 206 do Código Civil.
+A Corte de origem, não obstante, soberana no exame do arcabouço fático-probatório acostado aos autos, consignou que não haveria que se falar em prescrição, pois, diante do surgimento progressivo dos danos descritos, não haveria como estabelecer o termo inicial do prazo prescricional,verbis:
+Nessa esteira, atente-se que os danos descritos surgiram de forma progressiva, agravando-se com o decorrer do tempo. Não há data precisa de seu início e, bem por isso, não há se falar em ocorrência da prescrição da pretensão autoral, pois, diante de tal contexto fático, não há como estabelecer uma data para o início da contagem do prazo.
+Em casos análogos, no mesmo sentido já decidiu esta Câmara: e.g. AI 2180594-82.2017.8.26.0000, j. em 22.01.2018.
+(fl. 726)
+Nesse contexto, importa consignar que, sem a fixação, pelas instâncias ordinárias, do termo inicial para a contagem do prazo prescricional, não é possível, em sede de recurso especial, reconhecer o advento da prescrição, sob pena de esbarrar nos óbices dos enunciados das Súmulas 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INCONFORMISMO DA SEGURADORA.
+1. As questões postas em discussão foram dirimidas pela Corte Estadual de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 535 do CPC/73. Consoante entendimento do Superior Tribunal de Justiça, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela seguradora, decidindo de modo integral a controvérsia posta.
+2. Aplica-se, por analogia, o enunciado da Súmula 283 do STF no tocante à questão relativa à fixação da competência, porquanto a insurgente deixou de refutar a fundamentação posta pelo Tribunal de origem de que a matéria se encontrava preclusa, uma vez que, em sede de conflito de competência, o Superior Tribunal de Justiça, na hipótese, já havia determinado que a justiça estadual julgasse a presente lide securitária.
+3. Sem a fixação, pelas instâncias ordinárias, do termo inicial para a contagem do prazo prescricional não é possível, em sede de recurso especial, reconhecer o advento da prescrição, sob pena de esbarrar nos óbices dos enunciados das Súmulas 7 e 83 do STJ.
+4. Nos termos da jurisprudência consolidada do Superior Tribunal de Justiça é devida aos mutuários a multa decendial, pactuada entre as partes para o caso de atraso do pagamento da indenização, limitada ao valor da obrigação principal.
+5. Agravo interno desprovido.
+(AgInt no REsp 1725181/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/09/2018, DJe 27/09/2018)  g.n.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DIREITO DE VIZINHANÇA. MURO DANIFICADO. TERMO INICIAL DO PRAZO PRESCRICIONAL NÃO VERIFICADO. MODIFICAÇÃO DE PREMISSA FÁTICA. DESCABIMENTO. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Sem a fixação, pelas instâncias ordinárias, do "termo inicial para a contagem do prazo prescricional não é possível, em sede de recurso especial, reconhecer o advento da prescrição", sob pena de esbarrar no óbice do enunciado sumular n. 7 do Superior Tribunal de Justiça (AgRg no REsp n. 1.505.087/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/6/2015, DJe 3/8/2015).
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 771.114/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2015, DJe 03/02/2016)  g.n.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. FCVS. CAIXA ECONÔMICA FEDERAL. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. JURISPRUDÊNCIA. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA 7/STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS.
+ ..
+3. Não tendo o acórdão fixado um marco inicial para a fluência do prazo prescricional, não se revela possível, na via especial, reconhecer a prescrição, uma vez que demandaria reexame de provas. Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 533.161/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/09/2014, DJe 23/09/2014)  g.n.
+Destarte, não merece prosperar a irresignação da recorrente também quanto a este ponto sob pena de violação do enunciado da Súmula 7 do STJ.
+4.Ante o exposto, com fulcro nos fundamentos acima aduzidos, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL. DECADÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. PRAZO PRESCRICIONAL. TERMO INICIAL. SÚMULA 7 DO STJ.
+1.No que diz respeito à violação ao parágrafo único do art. 618 do Código Civil, tem-se, no ponto, inviável o debate, porquantonão se vislumbra o efetivo prequestionamento, o que inviabiliza a apreciação das teses recursais apresentadas, sob pena de supressão de instâncias.
+2.Sem a fixação, pelas instâncias ordinárias, do termo inicial para a contagem do prazo prescricional não é possível, em sede de recurso especial, reconhecer o advento da prescrição, sob pena de esbarrar nos óbices dos enunciados das Súmulas 7 do STJ.
+3. Recurso especial não provido.
