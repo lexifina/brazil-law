@@ -1,0 +1,8 @@
+DECISÃO
+ROSANGELA DA SILVA NASCIMENTO pede a reconsideração do decisum de fls. 42-43, em que indeferi o habeas corpus liminarmente, ante a sua deficiente instrução.
+Nada obstante, o documento de fls. 47-50 não se trata do decreto prisional, cuja revogação se pleiteia, mas sim do deferimento da medida de busca e apreensão nas residências dos investigados.
+Ademais, somente foi colacionada ao feito a ementa exarada pela 2ª Câmara Criminal do Tribunal de origem, no julgamento do HC n. 5038982-57.2020.8.24.0000/SC, não o acórdão ora rechaçado, com o voto condutor da denegação da ordem (fl. 46).
+No entanto, deixei claro, na decisão anterior, que não foram colacionados a este writ o decreto de segregação temporária, eventual decisão que impôs à paciente o cárcere preventivo, nem tampouco o acórdão impugnado, circunstância que inviabiliza o exame dos pedidos formulados no mandamus (fl. 42), dada a indispensabilidade dos referidos documentos para a análise da suposta ilegalidade na preservação da custódia cautelar da investigada.
+Assim, mais uma vez, sublinho que, "Malgrado ser a acusada mãe de criança de tenra idade, que, segundo o impetrante, se encontra sob os cuidados do filho adolescente" (fl. 42, destaquei), a ausência de prova pré-constituída das alegações - imprescindível para a análise da ação constitucional de natureza mandamental, cuja natureza urgente não comporta dilação probatória -, rejeito o pleito de reconsideração.
+Nada impede, porém, à vista dos princípios da celeridade e da economia processuais que, caso a parte traga os documentos faltantes, o pedido seja considerado e analisado.
+Publique-se e intimem-se.
