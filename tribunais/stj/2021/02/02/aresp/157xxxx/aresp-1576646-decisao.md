@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto contra a decisão que inadmitiu recursoespecial (com fundamento no art. 105, III, a, da CF) apresentadopeloMinistério Público do Distrito Federal e Territórioscontra o acórdãoproferidopelo Tribunal de Justiça distrital(Agravo de Execução Penal n.20180020089963), que reformou a decisão do Juízo da Vara de Execuções Penais do Distrito Federal,concedendoao apenado (Wanderson Silva de Lima) o benefício do livramento condicional.
+Nas razões do recurso especial, o órgão ministerial suscitou violação do art. 83, III, do Código Penal, aduzindo que a Corte de origem incorreu em ilegalidade ao considerar apenas o lapso temporal compreendido nosúltimos 6 meses, ignorando faltas graves anteriores na execução, que subsidiaram a conclusão do Juízo no sentido de que o apenado não tinha mérito subjetivo para o benefício almejado (fls. 66/76).
+A Corte de origem inadmitiu o recurso com fundamento naSúmula7/STJ(fls. 94/96).
+Contra odecisumo órgão ministerial interpôs o presente agravo (fls. 1.671/1.698).
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 129/132).
+É o relatório.
+O agravo preenche os requisitos de admissibilidade, pois é tempestivo e impugnou o fundamento da decisão de inadmissão.
+Quanto ao recurso especial em si, a insurgência também é admissível e, no mérito, merece acolhida.
+Ao reformar a decisão do Juízo da Execução paraconceder ao apenado (agravado)o benefício do livramento condicional, a Corte de origem firmou quepara aferição do comportamento do apenado deve ser observada a existência de infrações disciplinares apenas nos seis meses que antecedem a análise do pedido de benefício(fl. 57).
+O referido entendimento, no entanto, destoa manifestamente da orientação consolidada nesta Corte, no sentido de quea conduta do reeducando, no curso do cumprimento da pena, deve ser avaliada de forma global e contínua, sendo inadmissível qualquer limitação temporal para a consideração das faltas por ele cometidas na análise do preenchimento do requisito subjetivo.
+Nesse sentido: AgRg no AREsp n. 943.328/MS, Ministro Joel Ilan Paciornik, Quinta Turma,DJe 26/9/2016; AgRg no AREsp n. 933.539/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/8/2016.
+Orientação essa que persiste mesmocom o advento da Lei n. 13.964/2019 - que alterou a redação do art. 83 do Código Penal -, pois orequisito previsto no art. 83, III, b, do Código Penal,inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.Ora,anorma anterior já previa a necessidade de comportamento satisfatório durante a execução da pena para o deferimento do livramento condicional. E não se pode negar que a prática de falta disciplinar de natureza grave acarreta comportamento insatisfatório do reeducando(HC n. 612.296/MG, de minha relatoria, Sexta Turma, DJe 26/10/2020 - grifo nosso).
+É o caso, pois, de cassar o acórdão impugnado e restabelecer a decisão do Juízo da execução.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de cassar o acórdão exarado no julgamento doAgravo de Execução Penal n. 20180020089963 e restabelecer a decisão do Juízo da Vara deExecuções Penais do Distrito Federal, que indeferiu o benefício do livramento condicional, ante a ausência do requisito subjetivo (Processo n.0033153-85.2015.8.07.0015).
+Dê-se ciência ao Tribunala quoe ao Juízo da execução.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ACÓRDÃO IMPUGNOU QUE LIMITOU O LAPSO TEMPORAL PARA AFERIÇÃO DO BENEFÍCIO, NO QUE SE REFERE AO MÉRITO SUBJETIVO,AO PERÍODO DE 6 MESES. ENTENDIMENTO QUE DESTOA DA ORIENTAÇÃO CONSOLIDADA NESTA CORTE. SÚMULA 568/STJ. ACÓRDÃO CASSADO, DECISÃO DO JUÍZO DA EXECUÇÃO RESTABELECIDA.
+Agravo conhecido para dar provimento ao recurso especial, nos termos do dispositivo.
