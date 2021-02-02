@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminarimpetrado em favor de JUAREZ JOSÉ DA SILVA, contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado (fl. 14):
+Habeas Corpus. Feminicídio. Decretação da prisão preventiva -Descabimento da concessão de liberdade provisória ou substituição da custódia cautelar por outras medidas Decisão do MM. Juiz lastreada no caso concreto - Delito praticado com grave violência contra a vítima e elevada culpabilidade Necessidade de acautelamento da ordem pública demonstrado - Presentes os requisitos necessários para a segregação cautelar, sua manutenção é de rigor - Ausência de violação à Recomendação nº 62 do CNJ, editada em razão da pandemia de Covid-19 - Inexistência de constrangimento ilegal - Ordem denegada.
+A defesa alega que o paciente enquadra-se no grupo de risco previsto naRecomendação n. CNJ n. 62/2020, motivo pelo qual a prisão preventiva deveria ser revogada ou substituída por medidas cautelares alternativas.
+Requer, liminarmente e no mérito, a concessão da ordem para que se revogue a atual prisão cautelar ou, subsidiariamente, para que se imponha prisão domiciliar ao paciente.
+O pedido de liminar foi indeferido às fls. 602-603.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls. 619-623).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o presopreenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+Confira-se o que registrou o Tribunal de origem ao analisar referido pleito (fls. 16-18):
+Preservado o princípio constitucional da não culpabilidade, o paciente está envolvido em fato grave, praticado com violência contra a vítima, de sorte que as condições pessoais favoráveis, como primariedade, eventual residência fixa e ocupação lícita, não desautorizam a prisão cautelar; esta decorre da infração em análise, não da condição pretérita do agente.
+ ..
+Aliás, a garantia da ordem pública deve ter por norte a gravidade da infração e sua repercussão social.
+Por fim, é de rigor ressaltar que o enfrentamento da pandemia de Covid-19, por si só, não autoriza a concessão automática e generalizada dos pedidos de liberdade provisória, o que afrontaria a preservação dasegurança pública, e a impetração sequer demonstrou que os pacientes estivessem em quaisquer dos grupos de risco indicados pela Organização Mundial de Saúde, tampouco que apresentassem comorbidades que os tornassem especialmente suscetíveis à doença em questão.
+Assim, como não foram demonstradas as situações descritas, não se verifica desrespeito à Recomendação CNJ n. 62/2020.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
