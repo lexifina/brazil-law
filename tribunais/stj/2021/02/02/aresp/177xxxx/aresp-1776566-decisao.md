@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo que objetiva o destrancamento de recurso especial fundado no art. 105, III, a, CF, arguindo violação aos artigos 33, §4º e 59, todos do Código Penal e art. 42, Lei de Drogas.
+A inadmissão do apelo nobre se deu com base na Súm. 7 e 83/STJ e por falta de prequestionamento.
+Busca-se o redimensionamento da pena, modificação do regime e substituição de pena.
+A manifestação ministerial foi pelo desprovimento.
+É o relatório.
+DECIDO.
+O Tribunal local assim se manifestou(fl. 642/645):
+Ademais, além de estar sobejamente comprovada a conduta criminosa imputada à acusada Marilene na denúncia, não se pode falar que o crime por ela cometido se amolda à figura do tráfico privilegiado, prevista no art. 33, § 4º, da Lei de Drogas. Diante das provas já examinadas, mostram-se escorreitas as seguintes considerações e conclusões alcançadas pelo Juízo a quo:
+Ambos os policiais afirmaram que havia denúncias informando que MARILENE coordenava o tráfico no local fornecendo drogas a usuários e pequenos traficantes e que, no dia dos fatos, ela repassou uma sacola contendo porções de crack, que estava armazenada na casa de MÔNICA, para dois usuários, bem como que LUIZ HENRIQUE levou uma balança de precisão ao local a pedido de MARILENE sabendo que ela seria utilizada para pesar drogas.
+ ..  Embora MARILENE tenha tentado se esquivar de sua responsabilidade na prática do tráfico as interceptações realizadas nos autos 2017.01.1.012621-7, demonstram que a dinâmica do envolvimento de MARILENE no delito é aquela apontada pelos agentes policiais, onde ela era a responsável pela entrega de drogas a usuários a pedido do filho SAMUEL.
+ ..  Finalmente, verifico que no presente caso não é possível a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n.º 11.343/2006 para a ré MARILENE, uma vez que ela, apesar de primária, se dedicava à atividade criminosa com habitualidade, pois as diversas denúncias anônimas, conforme informado pelos policiais em juízo, e informações, ela auxiliava no tráfico praticado pelo filho Samuel há pelo menos seis meses, e a própria ré afirmou em juízo auxiliá-lo há pelo menos dois meses, demonstrando a habitualidade no tráfico, o que impede a aplicação da aludida causa de diminuição, conforme entendimento do TJDFT:
+ ..
+Com relação à ré Marilene, não houve desproporcionalidade na fixação da sua pena.
+Na primeira fase da dosimetria, diante da circunstância preponderante do art. 42, da Lei nº 11.343/2006, tendo em vista a considerável quantidade e a natureza da droga apreendida (669,20g de crack), a juíza sentenciante aplicou o razoável aumento de 01 (um) ano e 6 (seis) meses.
+Ora, se cada uma das circunstâncias ordinárias do art. 59, do CP, pelo conhecido critério objetivo-subjetivo, autorizaria um aumento de 01 (um) ano e 3 (três) meses, não se pode considerar excessivo um aumento de 01 (um) ano e 6 (seis) meses em decorrência da circunstância especial do art.42, da LAT.
+Portanto, deve ser mantida a pena-base de 6 (seis) anos e 6 (seis) meses de reclusão e 650 (seiscentos e cinquenta) dias-multa.
+Na segunda fase, tendo como parâmetro o aumento feito na fase inicial da dosimetria, reconhecida a confissão espontânea apenas parcial, também se afigura proporcional a redução de 6 (seis) meses e 50 (cinquenta) dias-multa.
+Assim, não reclama reparo a pena ambulatória de 6 (seis) anos de reclusão e 600 (seiscentos) dias-multa, pena que se torna definitiva em razão da ausência de majorantes e minorantes.
+Frise-se que o benefício do tráfico privilegiado foi corretamente afastado em relação à ré Marilene em razão de ter restado demonstrada sua habitualidade na traficância.
+Anote-se, ademais, que a pena pecuniária guarda estreita correlação com a pena corporal aplicada naespécie. A mesma proporção foi usada no cálculo das duas reprimendas. Não há se falar em excesso, nem em desconsideração da condição social da ré, mesmo porque a razão de cálculo para cada dia-multa foi mantida no mínimo legal.
+Fica mantido o regime inicial semiaberto, tendo em vista que a pena aplicada supera quatro anos de reclusão (art. 33, § 2º, "b", do CP). Por semelhante razão não se mostra possível a substituição da pena corporal por restritivas de direitos (art. 44, I, do CP).
+Como se observa, as instâncias ordinárias fixaram a pena-base acima do mínimo legal, em 6 anos e 6 meses de reclusão, considerandoa considerável quantidade e a natureza da droga apreendida (669,20g de crack).
+Nos termos da jurisprudência da Corte o Legislador não delimitou parâmetros exatos para a fixação da pena-base, de forma que a sua majoração fica adstrita ao prudente arbítrio do Magistrado, que deve observar o princípio do livre convencimento motivado e os limites máximos e mínimos abstratamente cominados a cada delito, inexistindo critério matemático AgRg no REsp 1817386/PB, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/10/2020, DJe 12/11/2020.
+Assim, considerando o princípio da discricionariedade do magistrado, bem como o intervalo entre as penas mínima e máxima abstratamente cominadas ao delito previsto no art. 33, Lei de Drogas - 5 a 15 anos de reclusão -, não se verifica desproporcionalidade na exasperação da basilar em 1 (um) ano e 6(seis) meses acima do mínimo legal, considerando-se a existência de 1 circunstânciajudicialnegativa.
+Na segunda etapa da dosimetria foi aplicada redução de 6 meses pela atenuante da confissão em razão de ter sido parcial. Na espécie, verifica-se desproporcionalidade no tamanho da redução, em especial pelo critério utilizado para exasperação da pena-base diante de uma vetorial negativa. Assim, de rigora aplicação da atenuante para diminuir a pena ao patamar mínimo, 5 anos de reclusão e 500 dias multa.
+Na terceira etapa da dosimetria, não foi aplicado o redutor do tráfico privilegiado em razão da constatação pelas instâncias ordinárias de prática delitiva reiterada. Desconstituir tal premissa implicaria em inevitável reexame de provas, vedado pela Súm. 7/STJ.
+Assim, faz jus a recorrente à redução da pena ao patamar de 5 anos de reclusão e 500 dias-multa, em regime semiaberto.
+Ante o exposto, conheço do agravo para dar parcial provimentorecurso especial e redimensionar a pena à 5 anos de reclusão e 500 dias-multa, em regime semiaberto.
+Publique-se.
+Intimem-se.
