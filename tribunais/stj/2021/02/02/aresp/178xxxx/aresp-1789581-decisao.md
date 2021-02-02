@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravointerposto por RAYDAN FABRICIO GOMES PEREIRA, em adversidade à decisão que inadmitiu recurso especial manejado com fundamentona alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Maranhão, cuja ementa é a seguinte (e-STJ fl. 256):
+CRIME CONTRA O PATRIMÔNIO. ROUBO. CONDENAÇÃO.APELAÇÃO CRIMINAL. DESCLASSIFICAÇÃO PARA FURTO.REDIMENSIONAMENTO DA PENA. IMPROV1MENTO.
+- Comprovada a ameaça para a prática do delito, não há que se falarem desclassificação para furto.
+- Pena corretamente dosada, atendidos os requisitos do art. 59, CP eobedecidos os princípios da razoabilidade e da proporcionalidade.
+- Recurso conhecido eno mérito improvido.
+Nas razões do recurso especial (e-STJ fls. 274/281), alega a parte recorrente violação do artigo 59, do Código Penal e da Súmula 444/STJ.
+Sustenta, em síntese, (i) a fixação da pena-base no mínimo legal, sob o argumento de que a existência de ações penais em andamento não configura maus antecedentes, não constituindo fundamento idôneo para justificar o afastamento da basilar do seu mínimo legal; e (ii) subsidiariamente, a desproporcionalidade da exasperação aplicada em 1 (um) ano, diante da valoração negativa deuma única circunstância judicial (antecedentes).
+Apresentadas contrarrazões (e-STJ fls. 311/318), o Tribunal a quo inadmitiu o recurso especial (e-STJ fls. 320/321), dando ensejo à interposição do agravo ora apreciado (e-STJ fls. 325/331).
+O Ministério Público Federal, instado a se manifestar nesta instância, opinou pelo conhecimento do agravo para dar provimento ao recurso especial, nos termos do parecer assim ementado(e-STJ fl. 355):
+AGRAVO EM RECURSO ESPECIAL. ROUBO. DOSIMETRIA. PRIMEIRA FASE. É VEDADA A UTILIZAÇÃO DE INQUÉRITOS OU DE AÇÕES PENAIS AINDA EM CURSO PARA ELEVAR A PENA-BASE. SÚMULA 444, DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA PARA A ELEVAÇÃO DA PENA-BASE EM FRAÇÃO SUPERIOR A 1/6. PARECER PELO CONHECIMENTO DO AGRAVO, PARA QUE SEJA PROVIDO O RECURSO ESPECIAL.
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+Passo, então, à análise do recurso especial.
+No que concerne à fixação da pena-base acima do mínimo legal, cumpre registrar que a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito.
+A jurisprudência desta Corte Superior de Justiça é no sentido de que a pena-base não pode ser fixada acima do mínimo legal com fundamento em elementos constitutivos do crime ou com base em referências vagas, genéricas, desprovidas de fundamentação objetiva para justificar a sua exasperação. Precedentes: HC 272.126/MG, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 8/3/2016, DJe 17/3/2016; REsp 1.383.921/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 16/6/2015, DJe 25/6/2015; HC 297.450/RS, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 21/10/2014, DJe 29/10/2014.
+Na espécie, o Juízo sentenciante atribuiu valoração negativa à vetorial antecedentes, consignando para tanto que " ..  existem nos autos informações de que o acusado responde outras ações penais, conforme documentos de fls. 16/17  .. "(e-STJ fl. 192).
+O Tribunal de origem, por sua vez, ao analisar a dosimetria das penas, assim se manifestou para manter o desvalor da aludida vetorial(e-STJ fls. 261/265):
+ ..
+Nesse ponto, tenho, primeiro, que por "maus antecedentes" deve-se entender todo o histórico criminal do agente, sem que, com isso, haja ofensa ao princípio da presunçãode não culpabilidade. Etal porque defender entendimento contrário seria violar outro princípio, o da isonomia, de sorte que um agente com inúmeros processos einquéritos policiais não podeser tratado da mesma forma que um indivíduo sem qualquer registro criminal.
+ ..
+De todo modo, no caso destes autos, conforme documento de fls. 16/17, alémde uma condenação definitiva, o Apelante possui outros registros criminais, tendo sido umaconsiderada como reincidência e os demais para a valoração negativa dos antecedentes. Agiucorretamente o Juízo,portanto.
+ .. .
+Colhe-se dos excertos acima transcritos que,in casu, os antecedentesforam negativamente sopesados com base na existência de ações penais em desfavor do acusado(e-STJ fl. 192 e 265).
+Acerca da matéria, é firme o entendimento desta Corte Superior no sentido de que, considerando o princípio da presunção da inocência, inquéritos policiais ou ações penais em andamento não se prestam a majorar a reprimenda, seja a título de maus antecedentes, conduta social negativa ou personalidade voltada para o crime, em respeito ao princípio da presunção de não culpabilidade, nos termos da Súmula444/STJ, que assim dispõe:"É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base".
+Assim, merece prosperar a pretensão defensiva.
+Afastada a desfavorabilidade da moduladora antecedentes, na primeirafase da dosimetria, e mantidos os demais critérios da condenação, torno as penasdo recorrente definitivamente fixadas em 4 (quatro) anos e 8 (oito) meses de reclusão e 11 (onze) dias-multa.
+Ante o exposto, com fundamento no art. 932, inciso V, alínea "a", do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial,para,na primeira fase da dosimetria, afastar a valoração negativa da circunstância judicial relativa aos antecedentes, redimensionando as penas do recorrente RAYDAN FABRICIO GOMES PEREIRA, pela prática do delito do art. 157,caput, do CP,para 4 (quatro) anos e 8 (oito) meses de reclusão, mantidos os demais termos da condenação.
+Intimem-se.
