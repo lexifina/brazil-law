@@ -1,0 +1,55 @@
+DECISÃO
+Em razão do indeferimento do pedido liminar formulado no HC n. 5347920.82.2020.8.09.0000, que tramita no Tribunal de Justiça de Goiás/GO, impetrou-se este writ, no qual se pretende a superação do óbice da Súmula 691/STF e a imediata revogação da prisão preventiva decretada contra Diego de Sousa Leite no Processo n. 5322682.28.2020.8.09.0011, em curso na 2ª Vara Criminal da comarca de Aparecida de Goiânia/GO, ao argumento, em resumo, de falta de fundamentação idônea a amparar a custódia.
+Aduz-se que, no processo em que sejustifica a decretação da prisão pela reiteração delitiva, houve desclassificação da conduta para a infração do art. 28 da Lei n. 11.343/2006. Afirma-se, ainda, que o paciente se enquadra no grupo de risco, já que possui patologia respiratória grave, tendo ficado internado recentemente em estado grave em unidade de terapia intensiva.
+Pleiteia-se a concessão da ordem a fim de que o paciente seja colocado em liberdade, com ou sem medidas cautelares. Subsidiariamente, requer-seque sua prisão preventiva seja substituída por domiciliar, com ou sem uso de monitoramento eletrônico, tendo em vista a comprovação de que o paciente faz parte do grupo de risco (fl. 22).
+Liminar deferida às fls. 202/205.
+Informações prestadas pelo Tribunal a quo e pelo Juiz singular, respectivamente, às fls. 236/242e 210/215.
+O Ministério Público Federal opinou, às fls. 262/265, pela concessão da ordem.
+É o relatório.
+Inicialmente, cumpre ressaltar que apesar de ter sido prolatada decisão terminativa no habeas corpus impetrado na origem, verificou-se que a decisão se deu no sentido de reconhecer a prejudicialidade do writ na origem em razão da soltura do paciente, determinada por esta Corte, em liminar. Sendo assim, prossigo no julgamento deste writ.
+Na espécie, incide o enunciado da Súmula 691/STF, observado também por esta Corte, segundo o qual não cabe habeas corpus contra indeferimentode pedido liminar em outro writ, salvo no caso de flagrante ilegalidade.
+Esse posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada dos autos a configuração de flagrante ilegalidade ou abuso de poder.
+A hipótese enquadra-se na situação extraordinária.
+Eis o que observou o Juiz singularao decretar a preventiva em desfavor do paciente (fls. 75/76):
+ ..
+Assim, necessária se faz a custódia cautelar do conduzido, ante a gravidade concreta do delito supostamente praticado por Diego de Sousa Leite, que transportava no interior do veículo que conduzia a quantidade 72 frascos de substância entorpecente conhecida como "Lança Perfume".
+Verifica-se ainda que crime de tráfico de drogas impulsiona a violência, destrói lares e está intimamente ligado a outros delitos, como, por exemplo, homicídios, furtos, roubos e receptações.
+Ademais, verifica-se através da certidão de antecedentes constante do evento 3 que o autuado Diego responde a outro processo de tráfico de drogas, n.º 201900312845, indicativo de que em liberdade poderia voltar a prática de condutas delituosas.
+Esclareça-se que o conceito de ordem pública não se limita a prevenir a reprodução de fatos criminosos, mas também acautelar o meio social e a própria credibilidade da justiça, sob pena de a comunidade afetada visualizar uma situação de anarquia e impunidade de indivíduos que desafiam a ordem constituída, quer pela personalidade voltada à atividade criminosa, quer por entender que estão fora do alcance do poder repressivo do Estado.
+Por isso, deve o Poder Judiciário demonstrar que está presente para a prevenção e reprovação dessas práticas, cabendo-lhe, juntamente com as autoridades que atuam no setor da segurança pública, zelar pela ordem pública, coibindo atividades criminosas, com a segregação cautelar de indivíduos que oferecem risco para o meio social e que põem em xeque a credibilidade da Justiça.
+Portanto, na análise que é possível neste momento, a qual pela própria natureza é superficial ante a ausência de mais elementos de convicção, tenho que a segregação cautelar de Diego de Sousa Leite é a medida necessária e conveniente para garantia da ordem pública, haja vista a gravidade objetiva do crime imputado ao flagrado, que transportava no interior do veículo que conduzia a quantidade 72 frascos de substância entorpecente conhecida como "Lança Perfume".
+A medida extrema deve ser decretada ainda pela conveniência a instrução criminal, para que os fatos possam ser melhor elucidados e possíveis testemunhas não sejam intimidadas, bem como para assegurar uma eventual aplicação da lei penal, como prevê o artigo 312 do Código de Processo Penal.
+ ..
+Não obstante a reiteração delitiva específica citada pelo Juiz singular, entendo devida a concessão da liberdade provisória com medidas cautelares diversas, uma vez que o crime foi cometido sem violência e grave ameaça, não há indicativo de que o paciente participe de forma relevante de organização criminosa, a quantidade de droganão se mostrou aviltante - 72 frascos de lança-perfume - e o tipo de droga apreendida (lança-perfume) não se mostra como dos mais relevantes.
+Ressalta-se que o impetrante traz aos autos consulta processual informando que, no processo a que se refere a instância ordinária como motivador da prisão em razão da reiteração delitiva, houve desclassificação para o delito previsto no art. 28 da Lei de Drogas.
+Ademais, não se pode olvidar que o Conselho Nacional de Justiça editou a Resolução n. 62/2020, em que recomenda aos Tribunais e magistrados a adoção de medidas preventivas à propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos sistemas de justiça penal e socioeducativo, determinando, inclusive, a excepcionalidade de novas ordens de prisão.
+Dispõe o art. 4º da referida recomendação (grifo nosso):
+ ..
+Art. 4º Recomendar aos magistrados com competência para a fase de conhecimento criminal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+I - a reavaliação das prisões provisórias, nos termos do art. 316, do Código de Processo Penal, priorizando-se:
+a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até doze anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência ou que se enquadrem no grupo de risco;
+b) pessoas presas em estabelecimentos penais que estejam com ocupação superior à capacidade, que não disponham de equipe de saúde lotada no estabelecimento, que estejam sob ordem de interdição, com medidas cautelares determinadas por órgão do sistema de jurisdição internacional, ou que disponham de instalações que favoreçam a propagação do novo coronavírus;
+c) prisões preventivas que tenham excedido o prazo de 90 (noventa) dias ou que estejam relacionadas a crimes praticados sem violência ou grave ameaça à pessoa;
+II - a suspensão do dever de apresentação periódica ao juízo das pessoas em liberdade provisória ou suspensão condicional do processo, pelo prazo de 90 (noventa) dias;
+III - a máxima excepcionalidade de novas ordens de prisão preventiva, observado o protocolo das autoridades sanitárias.
+ ..
+Diante desse cenário, necessário dar imediato cumprimento à recomendação do Conselho Nacional de Justiça, como medida de contenção da pandemia mundialmente causada pelo coronavírus (Covid-19), devendo a custódia cautelar ser substituída por medidas cautelares diversas.
+No mesmo sentido, o parecer do Ministério Público Federal (fls. 264/265):
+ ..
+Depreende-se que não houve julgamento do mérito pelo juízo a quo, contudo há constrangimento ilegal para afastar a súmula 691 em razão da excepcionalidade do caso: o paciente é portador de grave doença respiratória.
+Confira-se o entendimento jurisprudencial do Superior Tribunal de Justiça:
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA.QUANTIDADE DE DROGA APREENDIDA. PACIENTE CARDIOPATA E DIABÉTICO.GRUPO DE RISCO PARA COVID-19. DELITO SEM VIOLÊNCIA OU GRAVE AMEAÇA.RECOMENDAÇÃO N. 62/2020. CONCESSÃO DA ORDEM.PARECER ACOLHIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada pois, segundo a decisão que a impôs, o paciente foi flagrado com elevada quantidade de substância entorpecente (quase 2kg - dois quilogramas - de maconha). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Entretanto, considerado o contexto de pandemia de COVID e sopesada a Recomendação n. 62/2020 do Conselho Nacional de Justiça, de rigor a revogação da prisão preventiva no caso em tela, em que o delito praticado foi o de tráfico de drogas - ou seja, sem violência ou grave ameaça contra pessoa - e o agente tem cardiopatia e diabetes.
+4. Na mesma linha a manifestação da Procuradoria-Geral da República, para quem "a prisão preventiva do paciente deve ser revogada, tendo em vista a excepcionalidade da pandemia do Covid-19, que atinge toda sociedade, inclusive com riscos agravados à população carcerária e aos portadores de comorbidades (caso do paciente), em atenção a Recomendação nº. 62/2020 do CNJ, como medida de contenção da doença dentro do sistema penitenciário nacional".
+5. Ordem concedida, confirmada a liminar e acolhido o parecer ministerial." (HC 573.563/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 26/06/2020) ( in verbis )
+A complexidade e excepcionalidade do cenário atualmente enfrentado, diante da declaração de pandemia causada pelo Coronavírus - Covid 19 -, revela que a imposição de medidas cautelares diversas da prisão se mostram como necessárias para o atingimento da finalidade almejada pela Recomendação n.62/2020 do CNJ, que é a de redução de riscos epidemiológicos. Contudo, a Recomendação n.62/2020 do Conselho Nacional de Justiça não determinou a soltura imediata dos presos, mas a reavaliação da custódia dos pacientes.
+No caso em comento, o paciente integra grupo de risco em relação ao Covid-19 e não cometeu crime com violência ou grave ameaça. Assim, é fundamento hábil a decretar, de plano, a soltura do réu com imposição de medidas cautelares diversas.
+ ..
+Em face do exposto, acolhendo parecer ministerial, concedo a ordem, confirmando a liminar anteriormente deferida, para substituir a prisão cautelar imposta ao paciente por medidas alternativas à prisão a serem estabelecidas e fiscalizadas pelo Magistrado singular, salvo prisão por outro motivo, podendo o Juízo de primeiro grau decretar novamente a segregação cautelar, desde que fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. 72 FRASCOS DE LANÇA-PERFUME. CRIME SEM VIOLÊNCIA OU GRAVE AMEAÇA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS. RAZOABILIDADE DA MEDIDA.EVIDENTE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
