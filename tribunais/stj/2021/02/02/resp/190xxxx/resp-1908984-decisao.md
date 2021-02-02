@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por DAYVID WILLIAN LEMOS VIEIRA, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que a eg. Corte a quonegou provimento ao recurso para manter a decisão proferida pelo juízo da execução criminal que reconheceu o cometimento de falta disciplinar de natureza grave, consistente na posse de aparelho de telefonia celular e seus componentes essenciais, e decretou a perda de 1/3 dos dias remidos e o reinício do lapso aquisitivo da progressão de regime, além da regressão do regime semiaberto ao regime fechado.
+Eis a ementa do decisum (fl. 169):
+"Agravo em execução penal. Falta disciplinar grave. Absolvição. Impossibilidade. Suficiente comprovação da autoria e materialidade da falta, na esteira da sindicância apuradora. Valorização do depoimento de agentes penitenciários. A posse ou uso de aparelho de telefonia celular e seuscomponentes essenciais, a saber, bateria, placa eletrônica, chip e cabo carregador, dentre outros, configura infração disciplinar grave prevista no art.50, inciso VII, da LEP, incluído pela Lei nº 11.466/07, independentemente de perícia para constatação da funcionalidade do aparelho. Consequências da falta grave bem dosadas. Desprovimento do recurso." (fl. 169)
+Opostos embargos de declaração, estes foram rejeitados (fls. 200-204).
+Nas razões do recurso especial, a Defesa sustentaviolação ao art. 158 do Código Penal, em razão daausência de comprovação da materialidade da falta disciplinar, pelainexistência de exame de corpo delito. A parte sustentaa ausência de justa causa para reconhecimento da materialidade da falta disciplinar com base no depoimento testemunhal dos agentes penitenciários, ao argumento de que trata-se de infração que deixa vestígios.
+Apresentadas as contrarrazões (fls. 212-216) orecurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+O Ministério Público Federal apresentou parecer pelo não conhecimentodo recurso especial (fls. 228-230).
+É o relatório.
+Decido.
+Nas razões recursais, busca o insurgente seja reconhecida a ausência de justa causa para reconhecimento da materialidade da falta disciplinar com base no depoimento testemunhal dos agentes penitenciários, ao argumento de que trata-se de infração que deixa vestígios.
+Contudo, o pedido está prejudicado, pois trata de matéria já submetida à apreciação deste eg. Superior Tribunal de Justiça, no julgamento do HC585.539/SP.
+O mandamus não foi conhecido, por decisão monocrática, e interposto agravo regimental, este foi desprovido, estando o v. acórdão assim ementado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA.EXECUÇÃO PENAL. FALTA GRAVE. PERÍCIA PARA COMPROVARUTILIZAÇÃO DE APARELHO DE TELEFONIA CELULAR APREENDIDO.PRESCINDIBILIDADE. NULIDADE NÃO CONFIGURADA. HABEAS CORPUSNÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO REGIMENTALDESPROVIDO. I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos. II - O Superior Tribunal de Justiça tem decidido que, para o reconhecimento da falta grave pelo apenado, é dispensável, inclusive, a apreensão do aparelho celular, se comprovada a sua utilização pelo preso, sendo desnecessária a realização de laudo pericial no aparelho de telefonia para comprovação da sua utilização. Precedentes .Agravo regimental desprovido"
+Assim, resta esvaziado o objeto do presente recurso especial.
+Ante o exposto, com fulcro no art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheçodo recurso especial, porquanto prejudicado.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. AGRAVO EM EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE.ANÁLISE DAS ALEGAÇÕES EM SEDE DE HABEAS CORPUS. PRETENSÃO PREJUDICADA. RECURSO ESPECIAL NÃO CONHECIDO.
