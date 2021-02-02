@@ -1,0 +1,22 @@
+DECISÃO
+DIEGO FERNANDES GON agrava de decisão na qual a Vice-Presidência desta Corte indeferiu liminarmente este habeas corpus, para não incorrer em indevida supressão de instância.
+O agravante argumenta ter direito subjetivo a iniciar o cumprimento de sua pena em regime semiaberto e entende que a Corte estadual, ao não conhecer o habeas corpus, negou-lhe a devida prestação jurisdicional, de modo que não há que se falar em supressão de instância.
+Requer a concessão da ordem para que seja alterado o modo de resgate da sanção. Subsidiariamente, pleiteia seja determinado à Corte estadual que aprecie a matéria a ela submetida.
+Decido.
+O agravo regimental é tempestivo e atacou os fundamentos da decisão vergastada, razões pelas quais comporta conhecimento.
+O Tribunal de origem, ao deixar de conhecer do habeas corpus lá impetrado, assim fundamentou (fls. 11-12, grifei):
+Se no presente caso, pretendem os Impetrantes que o Paciente seja beneficiado com regime mais brando, claro está que o presente writ não é a via adequada para solucionar tal questão, pois não constitui sucedâneo da Revisão, prevista em Lei.
+Com isso, resta evidente a ausência de interesse de agir dos Impetrantes, na modalidade de adequação, vez que para o caso sub examine há expressa previsão em lei de recurso específico, não sendo possível, assim, admitir o presente mandamus como substitutivo do recurso cabível.
+Ademais, a pretensão dos Impetrantes sugere interesse no reexame de provas, o que não comporta conhecimento, afinal a via estreita desta ação penal constitucional, no particular, não autoriza avaliação aprofundada do conjunto probatório.
+Vale consignar que, segundo consta dos autos de origem, constato que a sentença condenatória transitou em julgado para as partes aos06.05.2020 (fls. 211, autos de origem).
+Ante todo o exposto, NÃO CONHEÇO da presente ordem de habeas corpus, formulada por DIEGO FERNANDES GON, qualificado nos autos, determinando o seu arquivamento.
+Da leitura do decisum acima, constato a existência de flagrante ilegalidade a ensejar a concessão liminar da ordem, ainda que em menor extensão, uma vez que, consoante entendimento consolidado neste Superior Tribunal, não há óbice à utilizado de habeas corpus quando, havendo lesão ou ameaça de lesão à liberdade de locomoção do paciente, tratar-se de matéria exclusivamente de direito e quando não houver a necessidade do exame aprofundado de provas ou a necessidade de dilação fático-probatória, exatamente como ocorre na espécie dos autos.
+Nesse sentido, embora o Tribunal a quo haja entendido que o exame do pleito de alteração de regime de cumprimento da pena demandaavaliação aprofundada do conjunto probatório, essa compreensão não está em consonância com a jurisprudência do STJ. Ilustrativamente:
+ ..
+3. É perfeitamente cabível a análise, em habeas corpus, da questão suscitada perante a Corte estadual e aqui reiterada, qual seja, a ausência de fundamentação para imposição do regime inicial fechado, por quanto a matéria não requer análise de controvérsia factual, nem demanda produção de provas.
+4. Habeas corpus concedido para assegurar ao paciente o direito de responder à ação penal em liberdade, ressalvada a possibilidade de nova decretação da custódia cautelar se efetivamente demonstrada a sua necessidade, sem prejuízo de fixação de medida cautelar alternativa, nos termos do art. 319 do CPP, e, ainda, para determinar que o Tribunal de Justiça do Estado de São Paulo se pronuncie acerca da ocorrência de eventual ilegalidade na imposição do regime inicial de cumprimento da pena.
+(HC n. 363.607/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 04/10/2016, grifei)
+Assim, tenho como perfeitamente cabível a análise, em habeas corpus, das questões suscitadas perante a Corte estadual e aqui reiteradas, porquanto elas não requerem análise de controvérsia factual, nem demandam revolvimento do material fático-probatório.
+Ademais, em consulta processual realizada na página eletrônica do TJSP, verifico que não houve o ajuizamento de revisão criminal, o que reforça o apontado constrangimento ilegal de que estaria sendo vítima o paciente.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, reconsidero a decisão de fls. 39-40 econcedo a ordem, in limine, apenas para determinar ao Tribunal de Justiça do Estado de São Paulo que prossiga no julgamento do HC n. 2288195-45.2020.8.26.0000 e analise, concretamente, a eventual ocorrência de ilegalidade manifesta no ato lá apontado como coator.
+Publique-se e intimem-se.
