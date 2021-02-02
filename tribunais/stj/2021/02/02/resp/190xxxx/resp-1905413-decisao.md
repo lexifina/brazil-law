@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial fundado no art. 105, III, a, CF, arguindo violação aos artigo 387, parágrafo único, CPP.
+Os recorrentes foram condenados pelo crime de roubo, à pena de cinco anos e quatro meses de reclusão e treze dias-multa, tendo sido fixado regime fechado para Anderson e semiaberto para Lucas.
+Busca-se a modificação do regime inicial para cumprimento da pena considerando o tempo de prisão provisória já decorrido.
+A manifestação ministerial foi pelo desprovimento.
+É o relatório.
+DECIDO.
+Dos autos verifica-se por ocasião do julgamento do ARESP1.168.684, foi determinado ao Tribunal local que aprecie, como entender de direito, o pedido de detração do tempo de prisão cautelar para a fixação do regime imposto, em observância do art. 387, § 2º, do Código de Processo Penal (fl. 319).
+Ao cumprir a determinação supra, o Tribunal local assim se manifestou (fl. 349/350):
+De fato, o artigo 387, § 20, do Código de Processo Penal, estabelece que o juiz deve computar o tempo de prisão provisória para o fim de determinar, na sentença, o regime inicial de cumprimento da pena privativa de liberdade.
+Impossível, contudo, aplicá-lo no caso dos autos devido à ausência de elementos de natureza subjetiva que revelem o mérito do condenado para progredir de regime.
+ ..
+Como se vê, não se cogita aplicar detração penal, prevista na Lei nº 12.736/12, que deu nova redação ao artigo 387 do Código de Processo Penal, em razão de ser necessária a aferição do requisito subjetivo, que só pode ser feita em sede de execução, não bastando o tempo de prisão provisória cumprida para a obtenção de tal benesse, porquanto se estaria negando vigência ao que estabelece o artigo 112 da Lei de Execuções Penais, acarretando nulidade indicada no artigo 564, inciso I, do Código de Processo Penal.
+Como se observa, o Tribunal local ao novamente examinar o pleito de detração do tempo de prisão provisória dos recorrentes para fins de fixação do regime prisional, negou provimento entendendo que não se cogita aplicar detração penal, prevista na Lei nº 12.736/12, que deu nova redação ao artigo 387 do Código de Processo Penal, em razão de ser necessária a aferição do requisito subjetivo, que só pode ser feita em sede de execução, não bastando o tempo de prisão provisória cumprida para a obtenção de tal benesse, porquanto se estaria negando vigência ao que estabelece o artigo 112 da Lei de Execuções Penais
+Já em relação à necessidade de detração da pena cumprida em caráter provisório, assentou a jurisprudência da Corte que com o advento da Lei n. 12.736/2012, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. Ainda, entende-se que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado. Nesse sentido: HC 351.957/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/04/2016, DJe 02/05/2016; HC 332.043/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/11/2015, DJe 30/11/2015; HC 331.595/ES, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/06/2016, DJe 28/06/2016; HC 353.618/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/06/2016, DJe 28/06/2016.
+Assim, considerando que o Tribunal a quo deixou de aplicar o art. 387, §2º, CPP, diante de argumentos que confundem-se com o instituto da progressão da pena, deve os autos voltar à origem para sanar a irregularidade do acórdão.
+Ante o exposto, dou provimento ao recurso especial para determinar que o Tribunal a quo aplique ao caso a detração disposta no art. 387, §2º, CPP.
+Publique-se.
+Intimem-se.
