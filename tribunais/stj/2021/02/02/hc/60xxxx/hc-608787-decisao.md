@@ -1,0 +1,30 @@
+DECISÃO
+MARCOS DE OLIVEIRA AREIAS alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2157910-61.2020.8.26.0000.
+Nesta Corte, a defesa sustenta a ausência de fundamentação idônea para a converter a prisão em flagrante do acusado, pela suposta prática dos crimes previstos nos arts. 33 e 35, ambos da Lei n.11.343/2006, em custódia preventiva. Assevera que foram apreendidos cerca de 80 g de crack em poder do paciente, "quantidade que não pode ser considerada expressiva a ponto de justificar, por si só, a segregação cautelar" (fl. 11). Ressalta os predicados pessoais favoráveis do réu.
+Requer, liminarmente e no mérito, revogação da custódia provisória ou a sua substituição por cautelares diversas.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento dowrit.
+Decido.
+Extrai-se dos autos que o ora paciente foi preso em flagrante, juntamente com outras três pessoas, pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico. O flagrante foi convertido em prisão preventiva sob a seguinte motivação (fl. 165, grifei):
+ ..  Verifica-se que os averiguados mantinham em depósito enorme quantidade de droga e teriam se associado para prática reiterada do tráfico, indicando que fazem do crime seus meios de vida. Além disso, Wellington e Igor ostentam condenações por tráfico, sendo que o primeiro estava foragido havia mais de ano. Nathale já foi processada por tráfico anteriormente, emconcurso com seu marido Wellington, mas restou absolvida.
+ ..  Conquanto se reconheça a gravidade da pandemia decorrente da COVID-19 e a Recomendação nº 62/2020 do CNJ, inviável a libertação indiscriminada de autores de crimes graves em face da necessidade de garantia da ordem pública. Presentes os requisitos do art. 312, do Código de Processo Penal. Não há comprovação de que os averiguados estejam em grupo de risco, embora tenham declarado algumas das situações na pesquisa própria.
+O laudo de constatação de entorpecente aponta a captura total, com os quatro investigados, de plantas com 1.100g de maconha, 31 porções com 104,95g de maconha e 223 pedras com 78,98g de crack (fl. 88).
+Irresignada, a defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem.
+A prisão preventiva é compatível com a presunção de não culpabilidade doacusado desde que não assuma natureza de antecipação da pena e nãodecorra, automaticamente, da natureza abstrata do crime ou do atoprocessual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicialdeve apoiar-se em motivos e fundamentos concretos, relativos a fatos novosou contemporâneos, dos quais se possa extrair o perigo que a liberdadeplena do investigado ou réu representa para os meios ou os fins doprocesso penal (arts. 312 e 315 do CPP).
+Na hipótese, são idôneos os fundamentos exarados no decreto de prisãoprovisória, por evidenciarem a gravidade concreta da conduta supostamente perpetrada - diante da apreensão de elevada quantidade de entorpecentes- eo risco de reiteração delitiva, em face dosindícios de que o paciente e os demais acusados integrariam associaçãovoltada à prática habitual do tráfico de drogas.
+A respeito do tema, a jurisprudência desta Corte Superior é firme emassinalar que "se justifica a decretação de prisão de membros deorganização criminosa como forma de interromper as atividades do grupo"(RHC n. 70.101/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe5/10/2016, destaquei).
+Na mesma linha de raciocínio, o Supremo Tribunal Federal também possui oentendimento de que "a necessidade de interromper a atuação de organizaçãocriminosa e o risco concreto de reiteração delitiva justificam adecretação da custódia cautelar para a garantia da ordem pública" (AgR noHC n. 138.522/DF, Rel. Ministro Roberto Barroso, 1ª T., DJe 19/6/2017, destaquei).
+Além disso, em casos que envolvem organizações voltadas à reiteradaprática de delitos, a jurisprudência do Superior Tribunal de Justiça temmantido a custódia preventiva dos investigados mesmo quando não háindicação detalhada da atividade por eles desempenhada em tal associação,mas apenas menção à existência de sinais de que integram o grupocriminoso.Ilustrativamente:
+ ..
+2. No caso, as decisões proferidas pelas instâncias ordináriasdemonstraram a necessidade da segregação provisória, ressaltando que opaciente figura como membro ativo de organização criminosa especializadaem cometer roubos e furtos de defensivos agrícolas, utilizando sempre omesmo modus operandi em suas ações ilícitas, agindo nos Estados de MatoGrosso e Mato Grosso do Sul.
+3. A vinculação com o grupo criminoso demonstra a periculosidade dopaciente, evidenciando a probabilidade concreta de continuidade nocometimento de delitos. A propósito, "a necessidade de se interromper oudiminuir a atuação de integrantes de organização criminosa enquadra-se noconceito de garantia da ordem pública, constituindo fundamentação cautelaridônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC- 95.024/SP, Rel. Min. Cármen Lúcia, DJe de 20/02/2009).
+ ..
+8. Habeas corpus denegado, com recomendação de urgência no prosseguimentodo feito.
+(HC n. 357.396/MT, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe3/10/2016, grifei)
+Com base nos elementos descritos, nota-se a insuficiência e ainadequaçãoda substituição da custódia provisória por cautelaresdiversas, porquantotais medidas não se prestariam a evitar o cometimentode novas infraçõespenais (art. 282, I, do CPP). A propósito:
+ ..
+V - Adequada fundamentação do decisum a quo demonstrando arealpossibilidade de reiteração das condutas delitivas, portanto, não sefazviável a substituição da custódia por medidas cautelares diversasdaprisão, em razão dos múltiplos riscos à ordem pública.
+Agravo Regimental desprovido.
+(AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T.,DJe13/4/2018, destaquei)
+Logo, não constato flagrante ilegalidade na espécie.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
