@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão daincidência daSúmula7 doSTJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl.561, e-STJ):
+EMBARGOS DE DECLARAÇÃO EM RECURSO DE APELAÇÃO - INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO.
+Os embargos de declaração destinam-se ao aperfeiçoamento do julgado, desde que presente algum dos vícios previstos no art. 1.022 do Código de Processo Civil. O recurso é rejeitada quando inexiste obscuridade, contradição, omissão ou erro a ser sanado.
+Recurso conhecido e rejeitado.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente sustenta ofensa aoartigo477, §2º , II, do CPC/2015, sob os seguintes argumentos: (a) ausente esclarecimento acerca dos critérios expostos pelo assistente da recorrente, haja vista a omissão quanto à faixa de servidão utilizada para definição da área, em violação aodevido processo legal, ampla defesa e contraditório; (b) a indicação precisa acerca da faixa de servidão utilizada para a definição da área é questão imprescindívelde análise, pois implica de forma relevantena conclusão quanto à área total da servidão.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A Corte de origem, com base no acervo fático-probatório dos autos, concluiu pela presença de resposta do perito às indagações apresentadas pelo assistente técnico (em sede de laudo complementar) após aconversão do julgamento em diligência. Referiu que o esclarecimento ocorreu através da elaboração de croqui,confrontando as coordenadas da faixa de segurança em consonância com a Resolução da ANEEL n. 5.452/2015 e a matrícula n. 110.898, georreferenciada e certificada pelo INCRA. Senão, vejamos (e-STJ, 467-469):
+O julgamento da apelação foi convertido em diligência (f. 437/441). O perito foi intimado para responder as indagações do assistente técnico da empresa autora.
+ ..
+A preliminar de cerceamento de defesa perdeu objeto, pois, embora o magistrado não tenha intimado o perito judicial para manifestar-se sobre o parecer do assistente técnico da empresa autora antes da sentença ser proferida, conforme determina o artigo 477, § 2º, inciso II, do Código de Processo Civil, essa falha processual foi corrigida com conversão do julgamento da apelação em diligência.
+O perito judicial apresentou laudo pericial complementar (f. 447/450) e as partes apresentaram novas manifestações (f. 456/457 e 458/460). Por isso, julgo prejudicada a preliminar de cerceamento de defesa.
+ ..
+Após conversão do julgamento da apelação em diligência, o perito judicial reconheceu seu equívoco e retificou o laudo pericial (f. 447/450). Com fundamento na norma ABNT NBR - 5422/1985, disse que o eixo da faixa de segurança no circuito simples é determinado por intersecção deste plano vertical com a superfície do terreno. Elaborou croqui confrontando as coordenadas da faixa de segurança em consonância com a Resolução da ANEEL n. 5.452/2015 e a matrícula n. 110.898, georreferenciada e certificada pelo INCRA. Com essa nova fórmula de cálculo, reduziu o tamanho da área afetada pela servidão administrativa de 11.958,52 m  para 11.898,02 m .Tendo em vista a redução do tamanho da área afetada pela servidão administrativa, imprescindível reduzir o valor da condenação da empresa autora para R$ 292.234,31 (duzentos e noventa e dois mil, duzentos e trinta e quatro reais e trinta e um centavos), pois não houve modificação do valor do metro quadrado do imóvel adotado pelo perito (R$ 57,12 - cinquenta e sete reais e doze centavos).
+Assim, não há que se falar em violação doartigo 477, §2º , II, do CPC/2015,sendo certo que, para se chegar a entendimento diverso do contido na decisão hostilizada, necessário seria proceder-se ao revolvimento das provas apresentadas, finalidade que escapa ao âmbito do apelo manejado, nos termos do enunciado n. 7 da súmula do STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EMRECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PRESTAÇÃO DESERVIÇO MÉDICO. PROVA PERICIAL. NEXO DE CAUSALIDADE AFASTADO.CERCEAMENTO DE DEFESA INOCORRENTE. IMPOSSIBILIDADE DE REVISÃO.REEXAME DE MATÉRIA PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+1. A Corte de origem, de acordo com as provas dos autos eespecialmente da perícia realizada, concluiu que: i) não houve nexode causalidade entre a conduta médica e os danos causados ao autor,que são decorrentes exclusivamente da própria fratura sofrida; e ii)as indagações foram satisfatoriamente respondidas pelo perito, nãose podendo confundir falha no laudo com a não adequação do mesmo aosinteresses da parte recorrente.
+2. A revisão de tal entendimento demandaria a reapreciação doconjunto fático-probatório dos autos, o que não é cabível no âmbitodo recurso especial, conforme estabelece a Súmula 7 do STJ.
+3. Agravo regimental não provido. (AgRg no AREsp 60455 / RJ, Rel. Min. Benedito Gonçalves, 1ª Turma,DJe 02/03/2012). (grifei).
+Ademais, os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à insuficiência de esclarecimento do referido laudo complementar, oque acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias na vigência do CPC/2015, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESPOSTA DO PERITO ÀS INDAGAÇÕES, EM SEDE DE LAUDO COMPLEMENTAR.PROVA DOS AUTOS EM CONSONÂNCIA COM A RESOLUÇÃO DA ANEEL E MATRICULA CERTIFICADA PELO INCRA.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO DE TESE. SÚMULA 282/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
