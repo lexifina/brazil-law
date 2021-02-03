@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 173/174):
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PARCELAMENTO. MP  38/2002. ENCARGO LEGAL. DECRETO-LEI  1.025/69. VALOR CALCULADO SOBRE
+O DÉBITO REDUZIDO.
+1. Cuida-se de apelação contra a extinção de execução fiscal pelo pagamento da dívida.
+2. A questão controvertida imbrica-se ao cálculo do valor devido a título do encargo legal previsto no Decreto-lei nº 1.025/69: se incidente sobre o valor parcelado e pago ou sobre o valor originário.
+3. No caso, a executada procedeu ao seu pagamento considerando o eletivo valor despendido para quitação do débito parcelado.
+4. Ora, não obstante seja devido aludido encargo, a adesão ao parcelamento implica na redução do valor do debito, de sorte que implicaria cm enriquecimento ilícito a incidência do encargo legal sobre valores, que por benesse do fisco c previamente previstos em lei, no caso, a MP 38/02, foram excluídos do valor originário.
+Precedentes desta E. Corte.
+5. Por fim, o valor a ser pago pelo contribuinte, quando da adesão ao parcelamento, foi regularmente consolidado e quitado. Ora, se não houve insurgencia da União a propósito do montante relativo ao encargo legal na época, é porque o entendeu correio. De outro modo o contribuinte deveria ter sido intimado a refazer o cálculo, o que não ocorreu.
+6. Cabível a pretendida redução dos honorários a que foi condenada a União por suscitar a questão c exigir o recebimento de saldo remanescente indevido, ora fixada cm R$ 5.000,00 (cinco mil reais), considerados os critérios dos §§ 3º e 4º, do art. 20, do CPC.
+7. Apelo da União a que dá parcial provimento, para reduzir a verba honorária.
+Não foram opostos embargos de declaração.
+A parte recorrente aponta violação aos arts. 11 da Medida Provisória 38/2002, 111 do CTN; 1º, 4º e 11 da Lei 10.522/2002. Sustenta, em resumo, que "havendo disposição legal determinando a incidência do encargo legal como parcela da Dívida Ativa e sendo certo que o benefício da MP 38/2002 alcançou exclusivamente, as multas moratórias ou punitivas, nos termos do seu artigo 11, é de se concluir que o encargo do Decreto-lei 1.025/69 incide sobre o valor do débito, sem as reduções decorrentes da MP 38/02" (fl. 187).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+De início, destaca-se a seguinte fundamentação do aresto impugnado:
+Não é demasia assinalar que, nos termos da manifestação da Fazenda Nacional de fls. 43/44, exigia-se um total de R$ 88.705,39 a título do aludido encargo legal, resultante da diferença entre o devido (R$ 180.268,19) e o pago (R$ 91.562,80); e da outra, o valor de R$ 835.636,44, resultante da diferença entre o valor devido (R$ 1.723 627,48) e o recolhido (RS 887.991,04).
+Assim, no primeiro caso o contribuinte pagou no parcelamento R$ 457.814,00 e, no segundo, RS 4.439.955,20, num total de R$ 4.897.769,20.
+O encargo cobrado eqüivaleria, no entender da União, a R$ 1.903.895,67, ou seja, cerca de 40%do débito, o que se revela um despautério.
+Por fim, o valor a ser pago pelo contribuinte, quando da adesão ao parcelamento, foi regularmente consolidado e quitado. Ora, se não houve insurgência da União a propósito do montante relativo ao encargo legal na época, é porque o entendeu correto. De outro modo o contribuinte deveria ter sido intimado a refazer o cálculo, o que não ocorreu.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, se não houve insurgência da União a propósito do montante relativo ao encargo legal na época, é porque o entendeu correto. De outro modo o contribuinte deveria ter sido intimado a refazer o cálculo, o que não ocorreu, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
