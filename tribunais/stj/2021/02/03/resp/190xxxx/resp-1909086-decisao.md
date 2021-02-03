@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, interposto em desfavor de acórdãoproferidopelo Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que o recorrente foi condenado pela prática dos delitos tipificados nos art. 33, § 4º,da Lei Federal n. 11.343/06 (tráfico ilícito de drogas)e art. 12 da Lei Federal n. 10.826/03 (posse ilegal de munição),à pena de 02(dois) anos e 08(oito) meses de reclusão, em regime inicial aberto, e ao pagamento de 176 (cento e setenta e seis) dias-multa, substituída por duas penas restritivas de direitos.
+Irresignada, a defesa interpôs recurso de apelação, que, por maioria, restou parcialmente provido apenas para reconhecer a atenuante da confissão.
+Opostos embargos infringentes, estes restaram rejeitados, poracórdão assim ementado:
+EMBARGOS INFRINGENTES  CRIME DO ARTIGO 12 DA LEI N.º 10.826/03  VIOLAÇÃO DO PRINCÍPIO DA LESIVIDADE  INOCORRÊNCIA. O crime previsto no artigo 12 do Estatuto do Desarmamento é de perigo abstrato e prescinde de comprovação da efetiva lesividade da conduta, considerando-se que o resultado advindo de sua prática tem caráter normativo. V.V. - Diante da apreensão de munições sem a respectiva arma, resta caracterizada a atipicidade da conduta, já que não há como causar dano ou risco à incolumidade pública, não podendo ser reconhecido como um delito de perigo abstrato no caso concreto.
+Na petição de recurso especial, a defesa aponta violação ao disposto no art. 12 da Lei Federal n. 10.826/03, art. 1º do Código Penal e art. 386, III, do Código de Processo Penal.Sustenta, em síntese, que "(..)a simples posse de munição, sem qualquer arma de fogo correspondente, torna impossível o dano que o legislador quis evitar" (fl. 281).
+Contrarrazões às fls. 293/297.
+Admitido o recurso (fls. 299/302), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo desprovimento do recurso (fls. 315/317).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+De início, "Permanece hígida a jurisprudência do Superior Tribunal de Justiça, bem como a do Supremo Tribunal Federal, no sentido de que a posse de munição, mesmo desacompanhada de arma apta a deflagrá-la, continua a preencher a tipicidade penal, não podendo ser considerada atípica a conduta" (AgRg no HC 594.431/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/12/2020, DJe 07/12/2020).
+Ademais, apesar de não apreendida arma de fogo com o réu, asua condenação pela prática do delito de tráfico de drogas, em concurso de crimes, revela a impossibilidade de reconhecimento da atipicidade da conduta do delito do art. 12, caput, da Lei 10.826/2003. A particularidade do caso demonstra a efetiva lesividade desta conduta.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE  ILEGAL DE MUNIÇÃO  DE  USO  PERMITIVO. ALEGAÇÃO DE ATIPICIDADE DA CONDUTA. NÃO APREENSÃO DE ARMA DE FOGO. PLEITO DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. CRIME DE PERIGO ABSTRATO. QUANTIDADE DE MUNIÇÃO. CONDENAÇÃO POR TRÁFICO DE DROGAS. MOLDURA FÁTICA A DEMONSTRAR A TIPICIDADE DA CONDUTA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Apesar de não apreendida arma de fogo com o réu, a sua condenação pelo outro crime (tráfico de drogas) revela a impossibilidade de reconhecimento da atipicidade da conduta do delito do art. 14, caput, da Lei 10.826/2003. A particularidade do caso demonstra a efetiva lesividade desta conduta. Precedentes.
+(..)
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1748322/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 24/11/2020, DJe 27/11/2020 - Grifo Nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. POSSE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO. PRINCÍPIO DA INSIGNIFICÂNCIA.IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. No caso, não está evidenciado o reduzidíssimo grau de reprovabilidade do comportamento do agravante. Isso porque foram encontradas, em seu poder, 4 munições calibre 38, de uso permitido, além de 4 trouxinhas de cocaína, pesando 2,10 gramas, e mais 32 papelotes e 14 tabletes de maconha, totalizando 6,490 kg (seis quilos, quatrocentos e noventa gramas). Nesse cenário, a posse irregular de munições por agente dotada de periculosidade (possui envolvimento com tráfico de drogas), mesmo sem arma de fogo a pronto alcance, reduz de forma relevante o nível de segurança pública, afigurando-se formalmente e materialmente típica a conduta.
+3. Agravo regimental não provido.(AgRg no AREsp 1692553/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/10/2020, DJe 12/11/2020 - Grifo Nosso).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE POSSE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. APREENSÃO DE POUCOS CARTUCHOS. CRIME DE PERIGO ABSTRATO. APREENSÃO DAS MUNIÇÕES EM CONTEXTO DE TRÁFICO DE DROGAS. QUANTIDADE DE ESTUPEFACIENTES QUE AFASTA A ATIPICIDADE MATERIAL DA CONDUTA. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE, NA ESPÉCIE, CONSIDERANDO AINDA O FATO DE A VEXATA QUAESTIO TER SIDO AVENTADA EM REVISÃO CRIMINAL NA ORIGEM.
+(..)
+2. In casu, contudo, conquanto o agravante possuísse apenas duas munições de calibre .38, desacompanhadas de qualquer arma de fogo, o contexto em que se deu a apreensão dos artefatos não autoriza o reconhecimento da ausência de ofensividade, porquanto "na ocasião da apreensão o revisionando também praticava o tráfico de drogas, tanto que também foi condenado pelo crime  .. " (e-STJ fls. 93/94), tendo sido apreendidos aproximadamente 200g (duzentos gramas) de cocaína, montante esse que não pode ser considerado inexpressivo para o fim colimado.
+(..)
+4. Agravo regimental desprovido.(AgRg no REsp 1841973/AP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/09/2020, DJe 28/09/2020 - Grifo Nosso).
+AGRAVO INTERNO NO RECURSO ESPECIAL. TRÁFICO DE DROGAS E POSSE DE MUNIÇÃO. DENÚNCIA CONTROVERTIDA, CERCEAMENTO DE DEFESA E DESPACHO DE RECEBIMENTO DA DENÚNCIA SEM MOTIVAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS FEDERAIS VIOLADOS. SÚMULA 284/STF. PEDIDO DE DESCLASSIFICAÇÃO. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. SÚMULA 7/STJ. PRINCÍPIO DA INSIGNIFICÂNCIA.INVIABILIDADE. REPROVABILIDADE DA CONDUTA. LAUDO TOXICOLÓGICO VÁLIDO. ASSINADO POR PERITO OFICIAL. RECURSO NÃO PROVIDO.
+(..)
+7. No caso em exame, conquanto seja possível, excepcionalmente, reconhecer a atipicidade material dos crimes elencados na Lei n. 10.826/2003, verifica-se que o réu foi preso em flagrante no contexto de atividade de tráfico de drogas e na posse de variada quantidade de munição (7 cartuchos calibre .380; 7 cartuchos calibre .22; 2 estojos calibre .12), sendo, portanto, descabida a flexibilização do entendimento consolidado desta Corte, já que não restam preenchidos os requisitos para o reconhecimento do princípio da insignificância, máxime o reduzido grau de reprovabilidade da conduta (STF, HC n. 84.412-0/SP, STF, Rel. Ministro CELSO DE MELLO, DJU 19.11.2004).
+(..)
+9. Agravo interno não provido. (AgInt no REsp 1542351/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 12/02/2019, DJe 19/02/2019 - Grifo Nosso).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
