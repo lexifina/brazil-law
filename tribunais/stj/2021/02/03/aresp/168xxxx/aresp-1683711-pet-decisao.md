@@ -1,0 +1,7 @@
+DECISÃO
+Instado a se manifestar sobre o fato de, objetivando questionar o acórdão de fls. 864-871(e-STJ), haver ingressado com cinco idênticas petições de embargos de declaração (e-STJ, fls. 876-887, 889-900, 902-913, 915-926 e 928-939), o embargante protocolizou as Petiçõesn. 1.020.873/2020 e 1.020.915/2020 (e-STJ, fls. 965-966 e 968-969), de mesmo teor, por meio das quais informou que as alegações feitas nos embargos "foram repetidamente peticionadas em face da pane ocorrida nesse Egrégio Tribunal, qual, naqueles momentos, não dava a conformidade e a certeza dos protocolos das aludidas petições".
+Em linha com essa explicação, pondera que, "em face das circunstâncias, não há necessidade de todas as 5 (cinco) petições serem objeto de julgamento, bastando uma delas".
+Acatando, pois, a solicitação da parte embargante, serãooportunamente levadosa julgamento no órgão colegiado os embargos veiculados na Petição n. 907.289/2020 (e-STJ, fls. 876-887), por tratar-se da primeira a ter sido protocolizada.
+Quanto aos embargos de declaração manifestados nas Petições n. 907.300/2020 (e-STJ, fls. 889-900), 907.326/2020 (e-STJ, fls. 902-913), 907.330/2020 (e-STJ, fls. 915-926) e 907.343/2020 (e-STJ, fls. 928-939), julgo-os prejudicados.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, devolver os autos conclusos para julgamento dos embargos de fls. 876-887 (e-STJ).
+Publique-se.
