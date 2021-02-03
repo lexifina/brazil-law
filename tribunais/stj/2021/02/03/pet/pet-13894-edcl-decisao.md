@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARIA DA CONCEIÇÃO SANTOS e OUTROcontra decisão, da lavra deste signatário, acostada às fls. 116/117, que indeferiu pedido liminar aforado no bojo da presente petição ante à inexistência de demonstração objetiva depericulum in mora.
+Inconformada, a ora embargante aduz, em resumo, que "(..)estando o país, a nação inteira, senão a própria humanidade, em verdadeira derrocada sócio/econômica, por efeitos irresistíveis da chamada pandemia de COVID 19,com fechamentos dos estabelecimentos condutores dasatividades produtoras, em abundância de publicidade de que a mídia dá exaustivas notícias diárias e, especialmente, em face da comprovação de que uma seguradora já pediu recuperação, não basta a prova, do fato público e notório, que dispensa, processualmente, demonstração rigorosa, de que haja risco evidente de que o mesmo possa acontecer com a executada  "
+Pede, assim, "(..)na forma preconizada pelo art. 1.022/CPC, requerem ao douto Relator se digne de suprir as omissões que o ilustrado decisório contém, apontadas ou não, nesta passagem."
+Impugnação juntada às fls. 126/216.
+É o relatório.
+Decisão.
+Os presentes embargosde declaração não merecem acolhimento.
+1. Nos estreitos lindes do artigo e artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargosde declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a embargante.
+Nesse sentido, registros os seguintesprecedentes desta Corte: AgRg no AREsp 609.464/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 02/06/2015, DJe 12/06/2015; EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+No caso, as razões dos embargosrevelam tão somente o intuito de reapreciação da causa e a sua insatisfação com o resultado do julgado - que indeferiu pedido liminar -, o que não se admite com a objetividade do recurso manejado.
+É que, a pretexto de omissão, na verdade, pretende a modificação da decisão, cuja via processual é inadequada porquanto a referida decisão consignou, expressamente, que: "(..)Na hipótese, não se verifica a caracterização do perigo de dano no caso, justo que não houve a demonstração de ato específico e concreto que pudesse gerar dano irreversível aos requerentes, de modo que a identificação dessa circunstância é apta a fragilizar o argumento da existência de periculum in mora, necessário àconcessão excepcional de medida liminar nesta eg. Corte Superior."
+Na oportunidade, para corroborar odecisumforam citados os seguintes julgados:AgInt no TP 1.477/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/08/2018, DJe 22/08/2018;AgInt nos EDcl no AREsp 1293666/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/10/2018, DJe 05/11/2018
+Com efeito, cabe recordarà ora embargante, ante a redação do art. 1026, §2º, do NCPC, a possibilidade de aplicação de multa a recursos interpostos sem fundamentação idônea, constituindo-se, na realidade, em mero inconformismo com a decisão proferida por este órgão colegiado.
+2. Do exposto, rejeitoos presentes embargosde declaração.
+Publique-se. Intimem-se. Após, arquivem-se.
