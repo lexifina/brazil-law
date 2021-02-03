@@ -1,0 +1,5 @@
+DECISÃO
+Estando pendente o julgamento dos embargos de declaração opostos por General Mills Brasil Alimentos Ltda. (e-STJ, fls. 694-704), vem a embargante, por intermédio da Petição n. 41.479/2021 (e-STJ, fls. 720-721), informar que, em razão de fatos supervenientes, os presentes declaratóriosnão têm mais utilidade.
+Em decorrência, portanto, da perda superveniente do objeto destes embargos de declaração, expressamente reconhecida pela embargante,julgo-os prejudicados, a teor do art. 34, XI, do RISTJ.
+Por não haver necessidade de se aguardar o decurso do prazo recursal, cuide a Coordenadoria de, tão logo publicada esta decisão, certificar o trânsito em julgado e providenciar a baixa dos autos à origem.
+Publique-se.
