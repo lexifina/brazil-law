@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Ministério Público Federal (MPF)com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 631):
+DIREITO AMBIENTAL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. DANO AMBIENTAL. EXISTÊNCIA DE LITÍGIO PRECEDENTE EM QUE FOI RECONHECIDA A NULIDADE DO AUTO DE INFRAÇÃO, EM RAZÃO DA INAPLICABILIDADE DA LEGISLAÇÃO ORA SUSCITADA. TRÂNSITO EM JULGADO. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EFEITOS REFLEXOS DA COISA JULGADA.
+1. Ao terceiro, que não é parte na lide, não é oponível a indiscutibilidade e imutabilidade da coisa julgada, que se restringe às partes. Contudo, a existência da coisa julgada não pode ser desconsiderada enquanto fato jurídico.
+2. Reconhecida a inexistência de ilegalidade na edificação impugnada, porquanto observados os regramentos ambientais constantes no Plano Diretor e no Código de Obras do Município de Bombinhas/SC, malgrado o Código Florestal definir um distanciamento superior da obra em relação ao corpo hídrico, a decisão que decretou a nulidade do auto de infração ambiental produz efeitos reflexos na ação em que pretendida a condenação do empreendedor à recuperação do meio ambiente degradado e ao pagamento de indenização
+Opostos embargos declaratórios pelo Ibama e pelo MPF, foram parcialmente providos para fins de prequestionamento .
+A parte recorrente aponta violação aos arts. 468, 469, 470 e535do CPC/73.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Este relator, ao examinar o recurso especial manejado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), determinou o retorno nos autos à origem, onde, nos termos do art. 1.030 do CPC/2015, deverá ser realizado o juízo de conformação ou manutenção do acórdão local, frente ao que fordecidido por este Superior Tribunal de Justiça na apreciação do Tema Repetitivo n. 1010.
+Nesse contexto, ante a impossibilidade de cisão do julgamento, o presente recurso especial não deverá ser examinado neste momento processual, sendo imperioso aguardar a definição do referido tema repetitivo, bem como o esgotamento da instância ordinária para o outro recorrente, antes de ser submetido a este Superior Tribunal de Justiça.
+ANTE O EXPOSTO, determino o sobrestamento do recurso especial manejado pelo Ministério Público Federal.
