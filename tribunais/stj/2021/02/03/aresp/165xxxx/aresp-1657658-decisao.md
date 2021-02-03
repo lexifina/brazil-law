@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interposto por RENATO LUIZ LOPES DA COSTA de decisão que inadmitiu na origem seu recurso especial, manifestado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado (fl. 274):
+ADMINISTRATIVO - MILITAR - LICENCIAMENTO - TUTELA ANTECIPADA - REINTEGRAÇÃO - RECURSO IMPROVIDO.
+- Pretende o ora apelante, a percepção de indenização em razão de férias, ajuda de custo relacionada ao seu segundo licenciamento da Força Aérea Brasileira e o adicional de férias, considerando-se os períodos aquisitivos completos e incompletos, em razão do tempo que permaneceu nas fileiras da OM devido à antecipação da tutela, posteriormente cassada por força de sentença proferida na ação nº 0029831-12.2009.4.02.5101.
+- Improsperável o recurso, forte na fundamentação medular da decisão de piso, que ora se adota como razão de decidir. Com efeito.
+-Certo que a antecipação dos efeitos da tutela tem caráter precário não gerando para a parte direito adquirido, de modo a lhe garantir o direito ao recebimento das parcelas pretendidas.
+-Assim, a questão posta nos autos se amolda perfeitamente ao julgado do Tema 692 -Recurso Repetitivo, onde fixado o entendimento de que quaisquer valores, eventualmente recebidos, deverão ser ressarcidos, como bem apontado pelo d. sentenciante.
+- Portanto, conferir ao ora recorrente sua pretensão é beneficiar indevidamente o ex militar e gerar enriquecimento sem causa.
+-Destarte, não se mostram os argumentos trazidos pela parte apelante idôneos a infirmar o convencimento explicitado no decisum vergastado pelo que, de rigor sua manutenção.
+-Precedentes.
+-Recurso desprovido. Majorado em 1% (um por cento) o montante total devido a título de honorários advocatícios (art. 85, §11, do CPC) pela parte apelante, observado o artigo 98, §3º,do CPC.
+A esse acórdão foram opostos embargos de declaração, os quais restaram rejeitados (fls. 295/308).
+No recurso especial inadmitido, sustenta a parte agravante violação aos arts. 1º da Lei 7.963/1989, 2º, II, d, 3º, XI, b, e 9º, II, da MP 2.215-10, e 80, § 1º e 81, § 1º, do Decreto 4.307/2002, nos seguintes termos (fls. 318/321):
+III - DOS FUNDAMENTOS PARA A REFORMA DA DECISÃO
+1) Da Violação dos arts. 1º da Lei 7.963/89: artigos 2º. inciso II. alínead, 3º, inciso XI. alínea b e 9º, inciso II, da medida provisória 2215-10;artigos 80, § 1º, e 81. 51º, do decreto 4.307/2002.
+Em primeiro plano, cabe destacar-se que não há como se depreender arelação do Recorrente com o que se refere aos arts. .1º da Lei 7.963/89; artigos2º, inciso II, alínea d, 3º, inciso XI, alínea b e 9º, inciso II, da medida provisória2215-10; artigos 80, §1º e 81, §1º, do decreto 4.307/2002, posto que não foram produzidas provas suficientes para tanto. Aos referidos dispositivos constam:
+ ..
+Requerer-se, pois, que a expressa análise da questão em foco, pois a questão infraconstitucional não pode ser suscitada originalmente no próprio Recurso Especial.
+Com efeito, para o requerimento não basta que a questão constitucional e infraconstitucional sejam suscitadas pela parte, sendo necessário o seu debate pelo Tribunal de origem.
+Assim, diante do acima exposto e da prova constante dos autos do processo e do presente instrumento, encontra-se presente o requisito da prova inequívoca que conduz à verossimilhança das alegações do recorrente.
+É evidente, pois, a verossimilhança das alegações autorais com base na argumentação acima deduzida apta a suprir todas as omissões constantes do acórdão recorrido.
+Preenchidos, pois, os requisitos dos arts. 300, 1.019, inciso I, 1.022, inciso II, do Código de Processo Civil/2015, juntamente com a reforma da decisão recorrida a antecipação da tutela recursal deve ser deferida, sob pena de violação dos referidos dispositivos, assim como dos arts. 1º da Lei 7.963/89; artigos 2º, inciso II, alínea d, 3º, inciso XI, alínea b e 9º, inciso II, da medida provisória 2215-10; artigos 80, §1º e 81, §1º, do decreto 4.307/2002.
+Aduziu ainda, alternativamente, que,acaso se entenda não prequestionada a referida matéria federal, que se reconheça a existência de afronta ao art. 1.022 do CPC/2015.
+Nas razões do agravo, alega que "não há se falar em suposto revolvimento de matéria fático-probatório para julgamento do recurso especial" (fl. 394), repoisando, no mais, os argumentos do apelo nobre.
+Contraminuta às fls. 416/418.
+É O RELAT"ROIO. PASSO À FUNDAMENTAÇÃO.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do próprio recurso especial.
+Verifica-se que a parte recorrente, nas razões do apelo nobre, limitou-se apontar afronta genérica aos arts. 1º da Lei 7.963/1989, 2º, II, d, 3º, XI, b, e 9º, II, da MP 2.215-10, e 80, § 1º e 81, § 1º, do Decreto 4.307/2002, sem, contudo, deduzir argumentos claros, precisos e congruentes a demonstrar em que consistiria tal violação, o que caracteriza deficiência de fundamentação, nos termos da Súmula 284/STF, aplicada por analogia.
+Especificamente no que tange aos arts.80, § 1º e 81, § 1º, do Decreto 4.307/2002, impende acrescentar que ajurisprudência desta Corte de Justiça tem entendimento de quenão é possível, pela via do recurso especial, a análise de eventualofensa a decreto regulamentar, uma vez que tal ato administrativonão se insere no conceito de legislação federal. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONTRATAÇÃO DA EBSERH POR HOSPITAL UNIVERSITÁRIO. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO FUX. NÃO CABIMENTO DO APELO NOBRE POR OFENSA A DECRETO REGULAMENTAR. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA RECURSAL DO STF.AGRAVO INTERNO DO SINDICATO A QUE SE NEGA PROVIMENTO.
+1. O presente Recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+2. Inexiste a alegada violação dos arts. 489 e 1.022 do Código Fux, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa às normas ora invocadas.
+3. A tese de violação do art. 1o. do Decreto 2.271/1997 não pode ser conhecida, pois é inviável a apreciação de eventual ofensa a Decreto Regulamentar em sede de Recurso Especial, uma vez que tal espécie normativa não se equipara a Lei Federal para fins de interposição do Apelo Nobre. Julgados: AgInt no AREsp. 1.455.435/RJ, Rel. Min.SÉRGIO KUKINA, DJe 19.12.2019; REsp. 1.822.029/PE, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2019.
+4. Tanto o acórdão recorrido (fls. 1.246/1.250) como a argumentação recursal pautam-se em fundamentação eminentemente constitucional.
+Afinal, apesar de indicar ofensa a dispositivos de normas federais, o que a parte recorrente defende, em suma, é a inconstitucionalidade da Lei que disciplina as atividades da EBSERH, matéria constitucional, cuja apreciação compete ao STF.
+5. O Agravo Interno não afasta estas conclusões, pois se limita a aduzir que o acórdão recorrido violou dispositivos de Leis Federais - sem, contudo, atentar que o reconhecimento da inconstitucionalidade da Lei 12.550/2011 não é fundamento recursal válido para a interposição de Recurso Especial.
+6. Agravo Interno do Sindicato a que se nega provimento.
+(AgInt no REsp 1.846.294/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 8/9/2020) - Grifo nosso
+Nessa linha de ideias, tendo em vista os óbices acima elencados que impendem o conhecimento do recurso especial, fica prejudicada a tese subsidiária de eventual ofensa ao art. 1.022 do CPC/2015.
+Por fim, considerando-se que a sentença foi prolatada já na vigência do CPC/2015 e, outrossim, tendo em vista o não acolhimento da pretensão recursal da parte ora agravante, é cabível a condenação desta em honorários advocatícios recursais, na forma do art. 85, § 11, do CPC/2015. Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3 E 7/STJ. EMBARGOS DE DECLARAÇÃO. VÍCIO NO JULGADO. OCORRÊNCIA. SUPRESSÃO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. ART. 85, § 11, DO CPC/2015. FIXAÇÃO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Tendo em vista o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo nº 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e o trabalho adicional realizado em grau recursal, impõe-se a fixação dos honorários advocatícios a título de sucumbência recursal.
+2. Embargos de declaração acolhidos.
+(EDcl no AREsp 1.679.208/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURM A, DJe 3/12/2020)
+Logo, os honorários advocatícios de sucumbência arbitrados pelas Instâncias ordinárias deverão ser majorados em 10%, a título de honorários de sucumbência recursais.
+ANTE O EXPOSTO, conheço do agravo para não conhecer do recurso especial. Condeno a parte agravante ao pagamento de honorários advocatícios recursais arbitrados em 10% sobre a verba honorária total fixada pelas Instâncias ordinárias, nos termos do art. 85, § 11, do CPC/2015.
+Publique-se.
