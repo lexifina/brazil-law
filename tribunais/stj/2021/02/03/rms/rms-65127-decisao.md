@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Miguel Alves da Silva Nettocontra o acórdão às fls. 1.550/1.558, proferido à unanimidade de votos pela 2.ª Câmara Cível do Tribunal de Justiça do Estado de Goiás e resumido pela seguinte ementa:
+MANDADO DE SEGURANÇA. QUADRO DE ACESSO PARA PROMOÇÃO DA PMGO . MILITAR RESPONDENDO A INQUÉRITO POLICIAL MILITAR . ARQUIVAMENTO POR FALTA DE PROVAS PARA JUSTIFICAR A AÇÃO PENAL. PRETERIÇÃO INEXISTENTE.
+1. Não há ilegal e não configura violação ao princípio da presunção de inocência a exclusão do impetrante do quadro de acesso a promoção por estar respondendo a inquérito policial (precedentes desta Corte e do STF).
+2. O arquivamento do inquérito policial por falta de provas para justificar a ação penal não faz coisa julgada na esfera cível e administrativa, não configurando, também, preterição a ser ressarcida.
+SEGURANÇA DENEGADA.(fl. 1.558)
+Nas razões recursais, fls. 1.567/1.575, o recorrente aduz que, "pelo raciocínio do acórdão recorrido, que só é possível o ressarcimento de preterição com a sentença absolutória, referido direito é inalcançável pelo recorrente haja vista que sem a propositura da Ação penal, não poderá apresentar sua defesa e nem ter sentença absolutória" (fl. 1.571),razão pela qual requer a reforma do acórdão recorrido.
+O Estado de Goiás não apresentou contrarrazões ao recurso, conforme certificou a Corte Estadual às fls. 1.587/1.588.
+O Ministério Público Federal, pelaSubprocuradora-Geral da República Darcy Santana Vitobello, manifestou-se pelo provimento do recurso, nos termos do parecer às fls. 1.596/1.599, assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO.MILITAR. PROMOÇÃO EM RESSARCIMENTO DE PRETERIÇÃO A CABO DA PM/GO. EXCLUSÃO DO QUADRO DE ACESSO POR ANTIGUIDADE. POLICIAL INVESTIGADO EM INQUÉRITO POLICIAL MILITAR. ARQUIVAMENTO POR FALTA DE PROVAS. DIREITO LÍQUIDO E CERTO. PELO PROVIMENTO DO RECURSO.(fl. 1.596)
+Representação regular (fl. 14).
+Custas recursais (fls. 1.576/1.577).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A viabilidade do recurso ordinário pressupõe, desde logo, a demonstração de erro - de procedimento ou de aplicação do direito - na formação do acórdão recorrido.
+Na hipótese, o Tribunal de origem declarou que o impetrante, policial militar, permaneceu excluído dos quadros de promoção, tendo em vista que respondia ao inquérito policial n. 2018.01.00993, o qual foi arquivado em 20/11/2019, decisão esta transitada em julgado em 02/12/2019.
+Porém, quanto a isso, desviou-se do cerne da questão que lhe foi proposta. É que, desde a exordial, a alegação foi fundada na promoção extraordinária de que cuida o art. 12 da Lei Estadual n. 15.704/2006. A Corte, avaliando a causa pela ótica do art. 15 da referida norma, concluiu ser legítima a exclusão do praça do quadro de acesso durante o período em que respondeu ao processo judicial.
+Ora, o impetrante requer a sua promoção à graduação de CABO de forma retroativa a 21/09/2019, data em que teria sido promovido caso não tivesse sido retirado do Quadro de acesso à promoção, em razão de responder a inquérito policial militar. O fundamento, por ele mesmo indicado, seria o apontado art. 12. O pedido é de promoção extraordinária.
+Contudo, a Corte estadual, interpretando o art. 15 da Lei 15.704/2006, entendeu que "o caso, porém, não se trata de absolvição, mas de arquivamento de inquérito por falta de provas, não havendo que se falar em ressarcimento de preterição" (fl. 1.556).
+Para se contrapor ao fundamento, argumenta o recorrente que,"pelo raciocínio do acórdão recorrido, que só é possível o ressarcimento de preterição com a sentença absolutória, referido direito é inalcançável pelo recorrente haja vista que sem a propositura da Ação penal, não poderá apresentar sua defesa e nem ter sentença absolutória" (fl. 1.571).
+Com razão o recorrente quando afirma ser inviável exigirsentença de absolviçãona hipótese de prévio arquivamento de inquérito policial, em que a ação penal nem sequer foi oferecida.
+Com efeito, conforme precedentes do Supremo Tribunal Federal e deste Superior Tribunal de Justiça, a promoção extraordináriaem ressarcimento de preterição é devida aos militares que não foram promovidos durante o período em que estavam respondendo a inquéritos policias, posteriormente arquivados, ou a processos penais cuja sentença foi de absolvição. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO N. 3/STJ.POLICIAL MILITAR. EXCLUSÃO DO QUADRO DE ACESSO. ABSOLVIÇÃO EM PROCESSO CRIMINAL. RESSARCIMENTO. PROMOÇÃO EXTRAORDINÁRIA. AGRAVO INTERNO NÃO PROVIDO.
+1. O recorrido é policial militar que permaneceu excluído dos quadros de promoção por 4 anos por ser réu em processo na Justiça Militar, no qual foi absolvido. Após a absolvição desse processo criminal, o recorrido foi promovido em sede de recurso administrativo.
+2. A impetração do mandado de segurança se refere à possibilidade de efeitos retroativos à data em que deveria ter sido promovido nos termos da Lei n. 12 da LE n. 15.704/2006.
+3. Infere-se que o recorrido preenche os requisitos legais para ascensão na carreira, posto que já foi efetivamente promovido pela própria Administração Pública. Ademais, consta nos autos que o Poder Público aduziu que o recorrido esteve impedido de figurar no quadro de acesso por responder processo penal. Logo, descabida a alegação em agravo interno do Estado de Goiás pela ausência de comprovação dos requisitos para a promoção.
+4. Deve-se reconhecer a jurisprudência do Superior Tribunal de Justiça pela ausência de ofensa ao princípio da presunção de inocência quando o militar, mesmo antes do trânsito em julgado da ação penal a qual responde, é impedido de ascender na carreira.Portanto, o ora recorrido esteve impedido de promover durante o período em que esteve respondendo processos judiciais na área criminal.
+5. Contudo, o art. 12, § 1º, da LE n. 15.704/2006 reconhece direito à promoção extraordinária para o militar quando constatada absolvição de imputação criminosa que o impediu de promover anteriormente.
+6. Conforme precedente do STF e do STJ, a promoção em ressarcimento de preterição é devida aos militares que não promoveram durante o período em que estavam respondendo a inquéritos policiais, posteriormente arquivados, ou a processos penais cuja sentença foi de absolvição. Agravo interno não provido.
+7. Agravo interno não provido.
+(AgInt nos EDcl no RMS 60.901/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 27/08/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015.APLICABILIDADE. POLICIAL MILITAR. NÃO INCLUSÃO NO QUADRO DE ACESSO A PROMOÇÃO, EM RAZÃO DA EXISTÊNCIA DE PROCESSO CRIMINAL EM CURSO.VIOLAÇÃO AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. INEXISTÊNCIA.PREVISÃO DE RESSARCIMENTO EM CASO DE ABSOLVIÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte orienta-se no sentido de que não fere o princípio da presunção de inocência o fato de o Recorrente não ter sido incluído no Quadro de Acesso a Promoções em face de denúncia em processo criminal, desde que previsto o ressarcimento em caso de absolvição, como é o caso dos autos.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido.
+(AgInt no RMS 42.602/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 24/03/2017)
+RECURSO EXTRAORDINÁRIO. OFICIAL DA POLÍCIA MILITAR. EXCLUSÃO DA LISTA DE PROMOÇÃO. OFENSA AO ART. 5º, LVII DA CONSTITUIÇÃO. INEXISTÊNCIA.
+1. Pacificou-se, no âmbito da Primeira Turma do Supremo Tribunal Federal, o entendimento segundo o qual inexiste violação ao princípio da presunção de inocência (CF/88, art. 5º, LVII) no fato de a legislação ordinária não permitir a inclusão de oficial militar no quadro de acesso à promoção em face de denúncia em processo criminal, desde que previsto o ressarcimento em caso de absolvição.
+2. Precedentes.
+3. Recurso extraordinário conhecido e provido.
+(RE 356119/RN, Rel. Min. ELLEN GRACIE, PRIMEIRA TURMA, DJe 07/02/2003)
+Por isso não se vislumbra nenhuma razão forte para dar ao presente apelo um desfecho diverso.
+ANTE O EXPOSTO, com fundamento no artigo 932, incisos VIII,do CPC, bem como no artigo 34, XVIII, "c", do RISTJ, dou provimento ao presente recurso ordinário parareformar o acórdão recorrido, conceder a segurança e reconhecer o direito do impetrante à promoção em ressarcimento por preterição.
+Publique-se.
