@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de conflito positivo de competência instaurado por CONVEN SERVIÇOS TRANSPORTES E GUINDASTES LTDA - EM RECUPERAÇÃO JUDICIAL, apontando como suscitados o Juízo de Direito da 1.ª Vara Cível de Brumadinho/MG, onde se processa a recuperação judicial da suscitante, e o Juízo da 5ª Vara do Trabalho de Cubatão/SP, onde tramita Reclamação Trabalhista movida por Severino Farias de Mello (Processo nº 1000551-07.2014.5.02.0255).
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio.
+Cita, em favor de sua tese, os seguintes julgados deste STJ: AgRg no CC 129.079/SP,Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 11/03/2015; REsp 1173735/RN, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/04/2014; AgInt no CC 154.731/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 23/05/2018.
+Diante disso, requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+Às fls. 1323/1325, este signatário indeferiu o pedido liminar formulado.
+Opostos embargos de declaração (fls. 1341/1344), esses aguardam julgamento.
+Prestadas as informações (fls. 2112/2117, 2165/2176), o MPF ofertou parecer no sentido do não conhecimento do incidente. (fls. 2119/2122)
+É o relatório.
+Decisão.
+1.De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente conflito, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2.Nos termos da jurisprudência desta Corte Superior, a Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face de empresa a ele pertencente (ut.AgRg no CC 140.410/DF, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 23/09/2015, DJe 01/10/2015).
+Na mesma linha, confira-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO DE CRÉDITO TRABALHISTA. INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO. AUSÊNCIA DE INVASÃO DE ATRIBUIÇÕES JUDICIAIS. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da iterativa jurisprudência desta Corte, a Justiça do Trabalho tem competência para decidir acerca da desconsideração da personalidade jurídica da sociedade em recuperação judicial, bem como para, em consequência, incluir coobrigado no polo passivo da execução, pois tal mister não é atribuído com exclusividade a um determinado Juízo ou ramo da Justiça.
+2. Nas hipóteses em que bens de terceiros, de sócios, de coobrigados, de devedores solidários ou de sociedade do mesmo grupo econômico, não submetidos ao plano de recuperação judicial, são chamados para responder à execução ajuizada contra a sociedade em recuperação judicial, a jurisprudência desta egrégia Corte firmou o entendimento de não reconhecer a existência de conflito de competência, porquanto não há dois juízes decidindo acerca do destino do mesmo patrimônio.
+3. Em casos assim, a sociedade em recuperação judicial é até mesmo beneficiada com a continuidade da execução contra os sócios ou coobrigados, pois em um primeiro momento fica desonerada daquela obrigação, que somente depois lhe será exigida, se for o caso, regressivamente.
+4. Incidência da Súmula 480 desta Corte: "O juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa."
+5. Agravo interno desprovido.
+AgInt no CC 160384/SP, Rel. Min. Raul Araújo, DJe de 30/10/2019.
+E ainda: AgInt nos EDcl no CC 153.864/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe de 30/04/2018; (AgInt nos EDcl no CC 155.003/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, DJe de 28/02/2018.
+Diante dos precedentes supramencionados, observa-se às fls. 1315/1318, corroboradas pelas informações prestadas,que o r. juízo trabalhista determinou o processamento do incidente de desconsideração de personalidade jurídica a fim de incluir sócios no polo passivo da demanda.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/c Súmula 568/STJ não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Fica, pois, prejudicado o exame dos embargos de de declaração de fls. 1341/1344.
