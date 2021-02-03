@@ -1,0 +1,36 @@
+Decisão: Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 5ª Região assim ementado (eDOC 01, p. 240):
+    “PROCESSUAL CIVIL. EMBARGOS DO DEVEDOR. EXECUÇÃO DE TÍTULO JUDICIAL. CÁLCULOS DO CONTADOR.
+    I – Apelação de sentença que julgou parcialmente procedentes embargos opostos pela União, contra o Município de Belém/PB, objetivando discutir o valor exigido nos autos da Execução de sentença referente ao pagamento dos recursos do FUNDEF no período de 05.07.2002 até a data da extinção.
+    II – Devem ser aplicados na execução os valores apurados pela Contadoria do Juízo, por serem equidistantes dos interesses litigantes e merecem fé de ofício.
+    III – Apelação improvida.”
+    No recurso extraordinário (eDOC 2, p. 8-22), interposto com base no art. 102, III, a, do permissivo constitucional, aponte-se ofensa aos arts. 5º, XXXVI, LIV e LV; 93, IX; e 100, § 12, da Constituição Federal, bem como o art. 60 do ADCT.
+    Nas razões recursais busca-se, sucessivamente: a nulidade do acórdão, por omissão na apreciação de argumentos apresentados pelo recorrente; a extinção da execução de que cuidam os autos, ante a extinção do FUNDEF e da legislação que lhe dava suporte jurídico; a extirpação do excesso contábil e a proibição de expedição de precatório com retenção de honorários advocatícios contratuais.
+    Em 1º.08.2018, determinei a remessa dos autos ao Tribunal de origem, para a adequação ao disposto no artigo 328 do RISTF, considerando que questões sucscitadas no recurso extraordinário estavam abrangidas por temas da repercussão geral (eDOC 7).
+    Na origem, a Vice-Presidência do Tribunal a quo negou seguimento ao recurso extraordinário em relação ao art. 60 do ADCT, por falta de prequestionamento, e, em relação aos demais dispositivos, negou seguimento com base no art. 1.030, I, a e b, do CPC (eDOC 13, p. 114-115)
+    É o relatório. Decido.
+    De início, observo que o conhecimento do presente recurso é possível apenas quanto às alegadas ofensas ao art. 60 do ADCT, porquanto, em relação à parcela remanescente do recurso extraordinário, foi proferida, por ocasião da realização do juízo de admissibilidade no Tribunal a quo, decisão de negativa de seguimento com aplicação de entendimento firmado em regime de repercussão geral.
+    Passo ao exame da parte admitida do recurso.
+    Nesse ponto, a irresignação merece prosperar.
+    O acórdão recorrido diverge da jurisprudência do STF, quando não considera a vinculação necessária entre as verbas complementares da União e a manutenção e desenvolvimento da educação básica e na valorização dos profissionais da educação.
+    A esse respeito, impende registrar que o Tribunal Pleno do STF na ACO 648, de relatoria do Ministro Marco Aurélio e com acórdão por mim redigido, j. 06.09.2017, fixou as seguintes teses de julgamento:
+    “1 – O valor da complementação da União ao FUNDEF deve ser calculado com base no valor mínimo nacional por aluno extraído da média nacional;
+    2 – A complementação ao FUNDEF realizada a partir do valor mínimo anual por aluno fixada em desacordo com a média nacional impõe à União o dever de suplementação de recursos, mantida a vinculação constitucional a ações de desenvolvimento e manutenção do ensino.”
+    Na ocasião, a temática foi especificamente tratada e objeto de manifestação dos julgadores, transcrevo excerto relevante:
+    “O SENHOR MINISTRO EDSON FACHIN: (...) De pronto, impende ressaltar que o adimplemento das referidas obrigações por parte da União e respectiva disponibilidade financeira aos Autores vinculam-se à finalidade constitucional de promoção do direito à educação, única possibilidade de dispêndio dessas verbas públicas.
+    (...)
+    O SENHOR MINISTRO LUÍS ROBERTO BARROSO - (…) E também, eu até vou ler a minha tese de julgamento, mas eu preciso aditá-la com uma observação feita pelo Ministro Luiz Edson Fachin, a quem estou acompanhando, portanto, que este aporte de recursos, esta diferença ingressará, no Tesouro, vinculado ao gasto com a educação, porque esta é a destinação desses recursos.
+    (…)
+    O SENHOR MINISTRO EDSON FACHIN - Senhora Presidente, peço escusas aos eminente Ministros-Relatores. Eu li a proposição do Ministro Barroso - não até o final -, contendo expressamente aquilo que houvera proposto, qual seja:
+    (...) mantida a vinculação constitucional, ações de desenvolvimento e manutenção do ensino.
+    Apenas para deixar claro o que já estava no meu voto.”
+    Nesse contexto, a derivação da finalidade constitucional das receitas públicas reverbera nos honorários contratuais advocatícios, como se extrai do assentado pelo Plenário do Tribunal de Contas da União no Acórdão 1.824/2017, de relatoria do Ministro Walton Alencar Rodrigues, j. 23.08.2017, assim ementado:
+    “REPRESENTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL, MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO E MINISTÉRIO PÚBLICO DE CONTAS DO MARANHÃO. IRREGULARIDADES NA DESTINAÇÃO DO PAGAMENTO DE DIFERENÇAS DE COMPLEMENTAÇÃO DEVIDA PELA UNIÃO NO ÂMBITO DO EXTINTO FUNDEF. AÇÃO CIVIL PÚBLICA CONDENANDO A UNIÃO AO PAGAMENTO DOS VALORES JÁ TRANSITADA EM JULGADO. CONTRATAÇÃO DE TRÊS ESCRITÓRIOS DE ADVOGACIA, POR INEXIGIBILIDADE DE LICITAÇÃO, COM A FIXAÇÃO DE HONORÁRIOS CORRESPONDENTES A 20% DO ÊXITO, POR CENTO E DEZ MUNICÍPIOS DO ESTADO DO MARANHÃO. RISCO DE DESVIO DE RECURSOS CONSTITUCIONALMENTE VINCULADOS À EDUCAÇÃO PARA O PAGAMENTO DE HONORÁRIOS CONTRATUAIS EM RAZÃO DO ARTIGO 22, §4º, DA LEI 8906/1994. VINCULAÇÃO DE ORDEM CONSTITUCIONAL. IMPOSSIBILIDADE DE APLICAÇÃO EM FINALIDADE DIVERSA. PLÚRIMAS IRREGULARIDADES. DANO AO ERÁRIO. RESPONSABILIDADE PESSOAL DO AGENTE QUE DEU CAUSA AOS DESVIOS. IRREGULARIDADES GRAVÍSSIMAS. DETERMINAÇÕES.” (grifos nossos)
+    Confira-se, ainda, a seguinte ementa:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM ENTENDIMENTO FIXADO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE 636.978-RG (TEMA 422). VINCULAÇÃO DE VERBAS DA UNIÃO PARA A MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA. INVIABILIDADE DO USO DOS RECURSOS PARA DESPESAS DIVERSAS. PROVIMENTO PARCIAL. 1. O acórdão não divergiu do entendimento firmado pelo Plenário desta CORTE, no julgamento do mérito da repercussão geral reconhecida no RE 841.526-RG (Rel. Min. LUIZ FUX, Tema 592). 2. As verbas do FUNDEF não podem ser utilizadas para pagamento de despesas do Município com honorários advocatícios contratuais. 3 . Agravo interno a que se dá parcial provimento.” (ARE 1066281 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, DJe 26.11.18)
+    Ante o exposto, conheço do agravo e dou provimento a parte não prejudicada do recurso extraordinário, com a finalidade de reformar parcialmente o acórdão recorrido, nos termos do art. 21, §2º, do RISTF, determinando a vinculação necessária entre as verbas complementares da União e a manutenção e desenvolvimento da educação básica e na valorização dos profissionais da educação, inclusive no tocante ao honorários advocatícios contratuais.
+    Ônus e custas processuais ex lege.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
