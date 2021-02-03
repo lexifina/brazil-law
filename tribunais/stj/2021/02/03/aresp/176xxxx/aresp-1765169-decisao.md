@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelo Município de São Paulo contra decisão que negou seguimento a recurso especial, com amparo nas alíneas "a" e "c" do permissivo constitucional, em oposição a acórdão assim ementado:
+APELAÇÃO CÍVEL - Ação Anulatória - Auto de Infração - ITBI. 1) Lançamento suplementar com base no "valor pelo qual o imóvel foi posteriormente alienado" sem contraditório - Não cabimento - Base de cálculo que deve ser fixada em razão do preço de mercado, revelado pelo instrumento de compra e venda - Possibilidade do Município impugnar o valor, com base no art.
+148 do CTN - Ausência de processo administrativo no caso sub judice - Precedente desta Câmara. 2) Sucumbência recursal - Honorários advocatícios fixados em R$ 2.000,00 majorados para R$ 2.200,00 - Inteligência do § 11 do art. 85 do CPC. Sentença mantida - Recurso improvido.
+O agravante alegaviolação dos arts. 148,149, V,e 150, § 4º, do CTN.
+Decido.
+A lide foi solvida com a seguinte fundamentação:
+Com efeito, conforme se vê da escritura pública de fls.20/23, bem como da certidão de matrícula do registro de imóveis (fls.28/33) o valor da compra do imóvel pela contribuinte foi de R$ 3.200.000,00, valor este, inclusive, superior àquele utilizado pelo Município para fins de recolhimento de ITBI (R$ 2.535.605,00), conforme se vê do documento de fls. 34, sendo, por isso, o tributo calculado sobre aquele valor com a emissão da guia para pagamento (fls. 27).
+Ressalta-se ainda que não há nos autos nenhum outro documento apto a indicar que os documentos acima referidos não mereçam fé.
+De sorte que, há de se aferir para efeito do pagamento de ITBI qual o valor de mercado do imóvel quando do registro do instrumento de compra e venda. Em outras palavras, se o instrumento de compra e venda coincidir de forma estreme de dúvidas com o valor de mercado, será esta a base de cálculo a ser considerada, caso contrário, o Município tem a sua disposição o art. 148 do CTN para exigir eventuais diferenças, como inclusive consta do relatório circunstanciado anexo ao auto de infração (fls. 35/38).
+Por sua vez, com base unicamente no valor de compra e venda posterior, o Município entendeu que na primeira transação os valores ali consignados não refletiram a realidade, lavrando o auto de infração. No entanto, deveria, nos termos do art. 148 do CTN, ter instaurado o procedimento administrativo com o devido processo legal, abertura do contraditório, possibilitando a ampla defesa por parte da contribuinte.
+Ocorre que não se mostra cabível, nesta via, perquirir acerca da razoabilidade da conclusão do acórdão recorridodevido ao óbice constante da Súmula 7/STJ. Os fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo. E, se a violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre:
+Recurso especial.
+Não ofende o princípio da Súmula 7 emprestar-se, no julgamento do especial, significado diverso aos fatos estabelecidos pelo acórdão recorrido. Inviável é ter como ocorridos fatos cuja existência o acórdão negou ou negar fatos que se tiveram como verificados. (AgRg nos EREsp 134.108/DF, Rel. Ministro EDUARDO RIBEIRO, CORTE ESPECIAL, julgado em 2/6/1999, DJ 16/8/1999, p. 36)
+PROCESSUAL CIVIL E ADMINISTRATIVO. REGISTRO NO CRQ. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. INVIABILIDADE DE UTILIZAÇÃO COMO VIA RECURSAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO DEMONSTRADA. EXISTÊNCIA DE MATÉRIA NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF, APLICÁVEIS POR ANALOGIA. VERIFICAÇÃO DA OCORRÊNCIA DE FATO GERADOR. AFERIÇÃO DA ATIVIDADE PREPONDERANTE DE SOCIEDADE EMPRESÁRIA. SÚMULAS 5 E 7 DO STJ.
+ ..
+4. O Tribunal de origem entendeu, à luz do contrato social e das provas dos autos, que as indústrias vinícolas e os associados representados pelo SINDUSVINHO possuem, como objetos sociais, produção, engarrafamento e comercialização de vinhos, ou seja, atividades não inerentes à química, o que afastaria a obrigatoriedade de registro no Conselho Regional de Química. Insuscetível de revisão o referido entendimento, por demandar interpretação de cláusulas contratuais e reexame do conjunto fático-probatório, atraindo a aplicação das Súmulas 5 e 7 do STJ.
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1.425.008/SP, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 4/11/2014, DJe 14/11/2014.)
+Ante o exposto, com fulcro no art. 932, III, do CPC de 2015,conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
