@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em face de acórdãoassim ementado (fl. 40):
+Tráfico de entorpecentes Recurso ministerial Pedido exclusivo de majoração das penas-base Majoração dessas reprimendas que se justificam em razão da quantidade e nocividade das drogas apreendidas (96 eppendorfs de cocaína e 2 invólucros de plástico com maconha). Recurso provido, com reflexo nas penas. Recurso defensivo Pedidos de absolvição, sob o argumento da insuficiência de provas e, subsidiariamente, de aplicação da detração penal Autoria e materialidade bem demonstradas, assim como a destinação das drogas ao mercado ilícito Detração penal, para o fim de progressão a regime mais favorável, que deve ser pleiteada ao r. juízo competente das Execuções Penais, eis que necessária a verificação dos requisitos objetivos e subjetivos correspondentes Prisão cautelar do apelante que fica mantida, nada obstante o decidido pelo STF nas Ações Diretas de Constitucionalidade de n os 43, 44 e 54, no dia 7.11.2019, ante a presença dos requisitos do art. 312 do Cód. de Processo Penal, nos termos da fundamentação contida no acordão. Recurso desprovido.
+O paciente foi condenado à pena de 5anos de reclusão, regime inicialmente fechado, além do pagamento de 500 dias-multa, pela prática do crime previsto no artigo 33, caput, da Lei 11.343/2006 (tráfico de drogas).
+Em sede de apelação, foi negado provimento ao recurso da Defesa e dado parcial provimento ao apelo do Ministério Público, aumentando a sanção imposta para 5 anos e 10 meses de reclusão, mais 583 dias-multa.
+Diante disso,a Defesa busca a redução da pena-base, em síntese, sob a alegação dequeA quantidade de drogas é absolutamente comum à espécie.No caso concreto, o peso líquido é de 25,05g de cocaína e 38,41g de maconha.Evidencia-se que não há excepcionalidade a justificar o aumento da pena-base, sendo um caso comum como diversos outros que tratam do mesmo delito(fl. 5).
+Sem pedido liminar.
+Prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus e a concessão da ordem, de ofício, a fim de estabelecer a pena-base no mínimo legal.
+É o relatório.
+DECIDO.
+Em sede de apelação, foi dado parcial provimento ao apelo do Ministério Público, aumentando-se a pena-base imposta para 5 anos e 10 meses de reclusão, mais 583 dias-multa, sob os seguintes fundamentos (fls. 43-45):
+Por outro lado, merece prosperar o pleito ministerial de majoração das penas-base.
+O legislador brasileiro, ao instituir a norma do artigo 42 da Lei11.343/06, impôs aos juízes o dever de ponderar, no momento da fixação das penas dos delitos previstos nessa lei especial, "a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente", e isto "com preponderância sobre o previsto no art. 59 do Código Penal".
+A esse respeito, aliás, cabe frisar que o Supremo Tribunal Federal já se pronunciou no sentido de que a mera circunstância da primariedade não determina o estabelecimento das penas-base nos mínimos patamares previstos na lei antidrogas  sem destaques nos originais :
+ ..
+Há que se considerar que, além de maconha, o sentenciado foi surpreendido na posse de 96 eppendorfs contendo cocaína, droga altamente lesiva à saúde dado o seu altíssimo poder viciante e que é utilizada para a preparação do crack, a espécie de entorpecente que mais rapidamente se expande no meio social.Daí infere-senaturalmente uma afetação especialmente grave à saúde pública, o bem jurídico tutelado pelos tipos penais da Lei nº 11.343/2006 (e, indiretamente, da segurança pública), razão suficiente para justificar o aumento de 1/6 de suas penas, redundando em 5 anos e 10 meses de reclusão, e 583 dias-multa.
+Na hipótese, o paciente foi condenado por trazer consigo 25,05 gramas de cocaína e 38,41 gramas de maconha(fl. 21),circunstâncias que denotam menor gravidade da conduta delitiva, a autorizar tratamento menos rigoroso ao paciente primário.
+Entende esta Corte Superior que a quantidade não relevante e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, etc.) não autorizam a exasperação da pena-base, a vedação da minorante do tráfico no seu patamar máximo de 2/3, o agravamento do regime prisional ou a negativa à substituição das penas (AgRg no HC 529.431/SP, de minha relatoria, SEXTA TURMA, julgado em 03/12/2019, DJe 09/12/2019).
+Diante desse cenário fático, impõe-se o decote do aumento da pena-base, que resta fixada em 5 anos de reclusão, mais500 dias-multa.
+Na segunda fase, mantenho a pena inalterada, em razão da compensação da agravante da reincidência com a atenuante da confissão, conforme reconhecido pelas instâncias ordinárias.
+Por fim, ausentes quaisquer causas de aumento ou diminuição, fica a pena final estabelecida em 5 anos de reclusão, mais 500 dias-multa.
+Tendo em vista a pena superior a 4 anos (5 anos de reclusão)e a reincidência do réu, correta a fixação do regime fechado, nos termos do art. 33 do Código Penal.
+Ante o exposto, concedo o habeas corpus para fixar a pena definitiva do paciente em 5 anos de reclusão, em regime fechado, mais 500 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
