@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARINA DE HO contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, discutindo a decisão de improcedência de embargos de terceiro.
+A parte recorrente alega, além da ocorrência de divergência jurisprudencial, violação do art. 373 do CPC/2015, sustentando, em síntese (fls. 187/206):
+Exigir que a recorrente comprove que não se beneficiou da dívida contraída pelo seu ex-marido significa exigir prova negativa, impossibilitando sua ampla defesa. Como já esclarecido, a divida é exclusiva do Sr. Milton Wu, não tendo a recorrente participação nas circunstancias que deram origem ao titulo executivo, tampouco reversão de qualquer proveito dai decorrente entidade familiar.
+Na hipótese em foco, a União não fez prova de que o endividamento fiscal resultou em enriquecimento do casal. E nem poderia, pois o casal está separado há mais de 24 (vinte e quatro) anos! 00714298320040001 Aliás, a união sequer contestou os Embargos de Terceiro e, frisa-se, não há prova mínima nos autos da execução fiscal de que a divida do devedor tenha beneficiado a recorrente. Não obstante, corroborando com as afirmações da recorrente, fora constatado pelo ilustre Oficial de Justiça nos autos da Execução Fiscal e reconhecido pelo próprio devedor, Juizo da Execução Fiscal e pela própria recorrida que a recorrente está separada de fato do devedor Milton Wu há anos.
+Os atos realizados pelo Oficial de Justiça são dotados de fé pública, o que significa dizer que, até prova em contrário, devem ser tidos como verdadeiros.
+Contrarrazões apresentadas pela FAZENDA NACIONAL, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 207/221).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 128/135):
+A despeito de os imóveis terem sido constritos no bojo da Execução Fiscal nº 0501693-46.2007.4.02.5101, intentada em desfavor de WILTON WU, seu ex-marido, a apelante propôs os presentes embargos de terceiro alegando ser proprietária de parcelados imóveis por ter sido casada pelo regime de comunhão parcial de bens com o executado.
+Não há dúvida de que os documentos anexados nos eventos 3 a 6 indicam que, de fato, a apelante consta como coproprietária dos imóveis constritos na Execução Fiscal nº 0501693-46.2007.4.02.5101.
+Assim, como bem autoriza o art. 674, §2º, I, do Código de Processo Civil de 2015, a apelante, outrora embargante, além de deter legitimidade para propor apresente ação, ostenta interesse no julgamento do mérito da demanda.
+ ..
+A partir do novo regramento trazido pelo Código de Processo Civil de 2015, o bem indivisível somente poderá ser alienado se o valor de alienação for suficiente para assegurar ao coproprietário não responsável 50% (cinquenta por cento) do valor de avaliação do bem (art. 843, § 2º, do CPC/2015).Entretanto, para impedir que a penhora recaia sobre a sua meação, o cônjuge meeiro deve comprovar que a dívida executada não foi contraída em benefício da família.
+No entanto, a apelante não produziu as provas necessárias para afastar tal presunção. De outra maneira, alega, sem razão, que seria ônus da União comprovar que o endividamento fiscal resultou em enriquecimento do casal. Ainda sobre o ponto, a apelante defende que as dívidas fiscais não poderiam ser atribuídas à manutenção da família, porque estaria separada de fato do executado há 17 anos.
+Em verdade, como bem percebeu o juízo sentenciante, "apesar de alega rser "ex esposa" do executado, não foi juntado qualquer documento nesse sentido, o que indica, ao menos por enquanto, que permanece em vigor a manutenção do vínculo conjugal".
+Aqui, diferentemente do que pressupõe a apelante, não é suficiente que o Oficial de Justiça tenha eventualmente "atestado" estarem o Sr. Milton Wu e ela separados de fato por determinado período. Trata-se de indício de prova inapto a formar a convicção deste Relator a respeito da matéria, especialmente considerando a presunção de liquidez e certeza de que se reveste a certidão de dívida ativa que aparelha a execução fiscal.
+Repise-se: não há, nos autos, qualquer comprovação de que o vínculo matrimonial entre apelante e executado foi desfeito.
+Desse modo, se mostra inviável conferir, nesta sede e neste momento, o direito previsto no art. 843, §§1º e 2º, do CPC/2015 à apelante. Reformo a sentença para afastar a extinção do processo, sem exame de mérito e, na forma do art. 1.030, § 3º, I, do CPC/2015, julgo improcedentes os pedidos formulados nos embargos de terceiro.
+Pois bem.
+O conhecimento do recurso encontra óbice na Súmula 7 do STJ, pois não há como se alterar a conclusão do acórdão recorrido sem reexame fático-probatório. De fato, a convicção do órgão julgador derivou de análise do acervo probatório, de tal sorte que não há como se rever o acórdão recorrido na via do especial.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
