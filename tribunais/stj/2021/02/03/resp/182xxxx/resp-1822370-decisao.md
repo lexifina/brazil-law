@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por KS Indústria de Metais Ltda. com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 117):
+MANDADO DE SEGURANÇA. CONTRIBUIÇÃO. FOLHA DE SALÁRIOS.
+RECEITA BRUTA. LEI Nº 12.546, DE 2011. LEI Nº 13.670, DE 2018. ANO CALENDÁRIO. IRRETRATABILIDADE. INEXISTÊNCIA.
+Não há ato ilegal da Administração Tributária ao exigir a retomada da contribuição sobre a folha de salários em razão da alteração legislativa promovida pela Lei nº 13.670, de 2018, que exclui da opção pela contribuição substitutiva pessoas jurídicas que fabricam determinados produtos, sendo que a irretratabilidade prevista no art. 9º, §13, da Lei nº 12.546, de 2011, opera se mantido o mesmo contexto fático e jurídico, ou seja, de acordo com a cláusula rebus sic stantibus.
+Opostos embargos de declaração, foram rejeitados (fls. 140/142).
+Nas razões do recurso especial, a recorrente aponta, além de divergência jurisprudencial, violação ao art. 9º, §13, da Lei 12.546/2011. Sustenta, em resumo, que "o artigo 1º da Lei n. 13.670/2018, ao revogar a partir de 1º de setembro de 2018 a desoneração da folha para diversos setores econômicos, entre eles se encontra a atividade exercida Recorrente, violou o artigo 9º, §13 da Lei 12.546/2011, segundo o qual a opção pelo recolhimento diferenciado da contribuição previdenciária era irretratável no ano calendário" (fl. 159).
+Recurso Extraordinário admitido às fls. 206/207.
+Parecer do Ministério Público Federal às fls. 223/226, pelo não conhecimento do recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Quanto à controvérsia dos autos, destaca-se, da fundamentação do acórdão recorrido, o seguinte trecho (fls. 120/121):
+Por meio do presente mandado de segurança, a impetrante pretendia manter-se no pagamento da contribuição substitutiva até o final de 2018, a pretexto de que, nos termos do §13 do art. 9º da Lei nº 12.546, de 2011, sua opção seria irretratável para todo o ano calendário.
+Ocorre que a irretratabilidade opera se mantido o mesmo contexto fático e jurídico, ou seja, de acordo com a cláusula rebus sic stantibus. Havendo, como no caso, alteração legislativa que não mais admite a forma de tributação inicialmente estabelecida para o contribuinte, a irretratabilidade não tem os efeitos pretendidos pela apelada.
+Não há, assim, ato ilegal da Administração Tributária ao exigir a retomada da contribuição sobre a folha de salários.
+Acresce que no âmbito tributário a segurança jurídica é contemplada pelas limitações constitucionais ao poder de tributar, as quais foram respeitadas pelo legislador ao garantir a observância da anterioridade quanto à retomada da contribuição sobre a folha de salários. De resto, no caso não se trata de isenção ou de figura equiparável, que faça incidir o art. 104 do Código Tributário Nacional.
+Enfim, há muito vige o entendimento de que não existe direito adquirido a regime jurídico instituído por lei (cf., v.g., STF, RE 248188, Tribunal Pleno, DJ 01-06-2001 PP-00090 EMENT VOL-02033-05 PP-00913; RE 227755 AgR, Primeira Turma, DJe-208 PUBLIC 23-10-2012; RE 706240 AgR, Segunda Turma, DJe-157 PUBLIC 15-08-2014).
+Com efeito, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRIBUIÇÃO PREVIDENCIÁRIA. LEI Nº 12.546/2001. ACÓRDÃO RECORRIDO AMPARADO EM FUNDAMENTOS EMINENTEMENTE CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE PELO STJ.
+1. Não ocorreu ofensa ao artigo 535 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. O Tribunal de origem adotou o entendimento de que a Lei nº 12.546/2001, que teria promovido a substituição da tributação sobre a folha de salários por nova contribuição sobre receita bruta das empresas, com o intuito de desonerar a folha de salários de determinados setores da economia, seria constitucional. Assim, evidenciado que a matéria em debate tem contornos eminentemente constitucionais, não é possível o exame da questão por esta Corte Superior, sob pena de usurpação da competência do STF.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.490.048/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 03/03/2016, DJe 09/03/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. SUBSTITUIÇÃO DA BASE DE CÁLCULO. RECEITA BRUTA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.524.115/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/08/2015, DJe E 28/08/2015).
+Ademais, apesar de a recorrente aduzir violação ao art. 9º, § 13, da Lei 12.546/2011, toda a fundamentação de seu recurso pauta-se em preceitos constitucionais, a saber, nos princípios constitucionais da segurança jurídica, da razoabilidade, da proteção da confiança legítima, da isonomia e da boa-fé objetiva (cf. fl. 162), o que traduz pretensão insuscetível de ser apreciada em recurso especial, sob pena de usurpação de competência do Supremo Tribunal Federal.
+Verifica-se, também, que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o de que "não existe direito adquirido a regime jurídico instituído por lei"(fl. 121). A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+Por fim, observe-se que o mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional impede a análise recursal pela alínea c, restando prejudicada a análise do dissídio jurisprudencial.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
