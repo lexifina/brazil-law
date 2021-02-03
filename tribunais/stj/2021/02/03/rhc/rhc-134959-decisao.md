@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus sem pedido de liminar interposto por UENDEL IGOR DE LIMA GOMES contra acórdão do Tribunal de Justiça do Estado de Rondônia (HC n. 0805745-41.2020.8.22.0000).
+O recorrente teve a prisão em flagrante convertida em preventivapor suposta prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006 e 14, caput, da Lei n. 10.826/2003.
+O decreto prisional fundou-se na expressiva quantidade de entorpecentes apreendidos, valores e apetrechos encontrados com o recorrente, bem como no modus operandi e nos disparos de arma de fogo contra os policiais (fl. 60).
+Sustenta o recorrente que o decreto prisional não foi devidamente fundamentado e que não estão presentes os requisitos para a decretação da prisão preventiva.
+Alega que faz jus às medidas cautelares diversas da prisão ante os predicados pessoais.
+Requer, inclusive liminarmente, sua imediata soltura com ou sem a imposição de medidas cautelares alternativas.
+O Ministério Público manifestou-se pelo desprovimento do recurso ordinário em habeas corpus (fls. 202-210).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 60, destaquei):
+ ..
+Consta nos autos que uma guarnição em patrulhamento recebeu informações de que um veículo MARCH, placa NDZ 6736, estava realizando a entrega de entorpecentes. A guarnição ao localizar o veículo, realizou a abordagem, sendo o condutor identificado como sendo Gabriel do Nascimento Monteiro, que de imediato informou aos policiais que no interior do veículo continha 02 (duas) porções de maconha, além da quantia de R$ 139,15 (cento e trinta e nove reais e quinze centavos). Quando indagado sobre a droga, informou que os fornecedores chamavam-se "Bob" (Uendel Igor de Lima Comes) e (Sabrina de Lima Ferreira).
+Ainda durante a abordagem, Uendel Igor de Lima Gomes e Sabrina de Lima Ferreira compareceram ao local em um veículo, e que ao ser solicitado que descessem do automóvel, não obedeceram, sendo que Uendel apontou uma arma de fogo aos policiais e usou o carro na intenção de atingir a guarnição ali presente, porém sem êxito.
+Os policiais realizaram alguns disparos e iniciou-se a perseguição, Uendel não obedeceu as ordens de parada dadas e ainda efetuou disparos contra a guarnição. O veículo foi alcançado na Rua Boca Júnior, 787, Bairro Floresta, dada a ordem para que saíssem do veículo, Uendel desceu e informou que Sabrina havia sido atingida por um disparo na perna.
+Realizadas as buscas no carro, foram apreendidos 01 (uma) balança de precisão, porções de droga, e outros bens pessoais. Na bolsa de Sabrina. foi encontrado a quantia de RS 10.761.00 (dez mil setecentos e sessenta e um reais), além de documentos e outros pertences.
+Indagados sobre a origem do dinheiro, ambos informaram que Sabrina era a responsável pela contabilidade das vendas dos entorpecentes.
+Quando indagado sobre a arma de fogo, Uendel informou que havia jogado pela janela durante a fuga. após a chegada de outras guarnições foram realizadas as buscas e localizado o revólver, marca taurus, calibre .38, com duas munições deflagradas e uma intacta.
+Uendel disse ainda que realizava a entrega de drogas junto com sua namorada aos seus "entregadores. Informou ainda que havia mais drogas em sua casa, contudo, não foi possível encontrar o imóvel pois Uendel entrou em contradição, não informando com exatidão onde residia.
+Sabrina foi encaminhada ao Pronto Socorro João Paulo II, para atendimento em razão do ferimento causado durante a perseguição.
+O laudo toxicológico preliminar atestou que as substancias apreendidas tratam-se de 565, 64g de MACONHA. .. "
+No presente caso, a quantidade de entorpecente(565,64g de maconha) e o modus operandi foram considerados pelo Tribunal de origem manter a prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Por fim, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do recorrente não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
