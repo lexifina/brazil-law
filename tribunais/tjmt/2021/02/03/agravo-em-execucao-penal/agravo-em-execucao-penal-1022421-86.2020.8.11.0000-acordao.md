@@ -1,0 +1,200 @@
+ESTADO DE MATO GROSSO
+
+PODER JUDICIÁRIO
+
+SEGUNDA CÂMARA CRIMINAL
+
+Número Único
+:
+
+1022421-86.2020.8.11.0000
+Classe:
+
+AGRAVO DE EXECUÇÃO PENAL (413)
+Assunto:
+
+[Pena Privativa de Liberdade]
+Relator:
+Des(a).
+LUIZ FERREIRA DA SILVA
+
+Turma Julgadora:
+
+[DES(A). LUIZ FERREIRA DA SILVA, DES(A). PEDRO SAKAMOTO, DES(A). RUI RAMOS RIBEIRO]
+
+Parte(s):
+
+[WELLINGTON FREITAS SILVA (AGRAVANTE), MINISTERIO PUBLICO (AGRAVADO), MINISTERIO PUBLICO (CUSTOS LEGIS), MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO (AGRAVADO), MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO (CUSTOS LEGIS)]
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a SEGUNDA CÂMARA CRIMINAL do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência Des(a).
+
+RUI RAMOS RIBEIRO, por meio da Turma Julgadora, proferiu a seguinte decisão:
+POR UNANIMIDADE, PROVEU O RECURSO.
+
+E M E N T A
+
+RECURSO DE AGRAVO EM EXECUÇÃO PENAL – CÁLCULO DE LIQUIDAÇÃO DA PENA PRIVATIVA DE LIBERDADE – INCONFORMISMO DO AGRAVANTE – PRETENDIDA A ADOÇÃO DA FRAÇÃO DE 2/5 (40%) PARA FINS DE PROGRESSÃO DE REGIME PRISIONAL COM BASE NA SUA REINCIDÊNCIA GENÉRICA – POSSIBILIDADE – INTELIGÊNCIA DO INCISO V DO ART. 112 DA LEI N. 7.210/84, INCLUÍDO PELA LEI N. 13.964/19 – NECESSIDADE DE REINCIDÊNCIA ESPECÍFICA PARA A APLICAÇÃO DA FRAÇÃO CORRESPONDENTE A 3/5 (60%) – PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA – DECISÃO REFORMADA – RECURSO PROVIDO.
+
+Não há como aplicar de forma extensiva e prejudicial ao reeducando reincidente simples o quantitativo correspondente a 60% (sessenta por cento) previsto no inciso VII do art. 112 da Lei n. 7.210/84, na medida em que tal dispositivo diz respeito apenas aos casos de reincidência no cometimento de crime hediondo ou equiparado (reincidência específica), merecendo, ante a omissão legislativa para o seu caso, o uso da analogia
+in bonam partem
+para aplicar o percentual de 40% (quarenta por cento), previsto no inciso V do aludido dispositivo legal.
+
+Agravo provido.
+
+R E L A T Ó R I O
+
+Egrégia Segunda Câmara Criminal:
+
+Trata-se de recurso de agravo em execução manejado por
+Wellington Freitas Silva
+, contra a decisão prolatada pelo Juízo da 4ª Vara Criminal da Comarca de Rondonópolis que, no Processo Executivo de Pena n. 2000384-84.2019.8.11.0064, fixou a fração de 3/5 (três quintos) para fins de progressão de regime prisional para o cálculo do prazo em relação ao crime de tentativa de latrocínio pelo qual foi condenado (art. 157, § 3º, II c/c 14, II, do Código Penal), a despeito de inciso VII do art. 112 da Lei de Execução Penal, incluído pela Lei n. 13.964/2019, preconizar que tal quantitativo se aplica apenas aos reincidentes específicos, situação na qual não se enquadra o agravante.
+
+O agravante, forte nas razões encontradiças no Id 64168471, almeja a reforma do referido
+decisum
+, para que seja considerado o percentual de 30% (trinta por cento) ou, subsidiariamente, de 40% (quarenta por cento), ou seja, na fração de 2/5 (dois quintos), para o cômputo do prazo necessário à progressão do regime que lhe foi estabelecido, argumentando que não é reincidente específico em crime hediondo.
+
+Nas contrarrazões encartadas no Id 64168469, o Ministério Público postula a manutenção do édito reprochado, destacando
+“que o pedido da defesa fere de morte o princípio da proporcionalidade, pois trata o reeducando primário e o reincidente não específico, da mesma forma, ou seja, aplicando-se a ambos a hipótese prevista no inciso V, artigo 112 da LEP”
+.
+
+Em juízo de retratação (Id 64168468), foi mantido o aludido
+decisum
+e determinado a remessa deste agravo a este Sodalício.
+
+Nesta instância revisora, a Procuradoria-Geral de Justiça opinou pelo desprovimento deste recurso (Id 68449992), apresentando o seguinte resumo da manifestação:
+
+Agravo em Execução Penal – Requestada a modificação da fração utilizada para progressão de regime – Impossibilidade – Réu reincidente, para progredir de regime, deve cumprir 3/5 (três quintos) de sua pena – Lei nº 13.964/2019 (Pacote Anticrime), não trouxe nenhuma alteração na situação do agravante.
+Pelo desprovimento do recurso.
+
+Negritos no original
+
+É o relatório.
+
+V O T O R E L A T O R
+
+No caso em apreciação, verifica-se que o agravante foi condenado ao cumprimento das seguintes penas:
+
+1. Ação Penal n. 0044734-79.2007.822.0009, delito: disparo de arma de fogo (art. 15 da Lei n. 10.826/03), sentença condenatória: 08.10.2013, data do trânsito em julgado: 15.12.2013, pena: 2 anos de reclusão (informação trazida na sentença encartada no Id 64168473);
+
+2. Ação Penal n. 15333-84.2018.811.0064 (código 684371), delito: tentativa de latrocínio (art. 157, § 3º, II c/c 14, II, do Código Penal), data do fato: 16.01.2018, sentença condenatória: 09.09.2019 e pena: 11 anos e 8 meses de reclusão (p. 55/56 do Id 64168473);
+
+Consta, ainda, destes autos, que no decorrer da execução penal, o juízo de primeiro grau fixou a fração de 3/5 (três quintos) ou 60% (sessenta por cento) de cumprimento da pena imposta ao agravante, para efeito de progressão de regime prisional aos crimes hediondos ou equiparados (que, na espécie, refere-se à pena fixada para o delito de tentativa de latrocínio, cuja guia está descrita no item 2
+supra
+), por entender que o recorrente, sendo reincidente em crime comum, não pode progredir com a incidência dos quantitativos de 30% (trinta por cento) ou 40% (quarenta por cento) descritos nos incisos IV e V do art. 112 da Lei n. 7.210/84, incluídos pela Lei n. 13.964/19 (pacote anticrime), porquanto o primeiro percentual é aplicado aos reincidentes por crimes não hediondos cometido com violência ou grave ameaça e este último percentual aplica-se, tão-somente, aos condenados primários (decisão agravada encontradiça no Id 64168472).
+
+Por tais razões, o juízo de primeiro grau afastou a interpretação literal do inciso VII do art. 112 da Lei n. 7.210/84 – que determina o cumprimento de 60% (sessenta por cento) da sanção apenas no caso de o reeducando ser reincidente específico – para realizar uma exegese sistemática que já era aplicada em relação ao revogado § 2º do art. 2º da Lei n. 8.072/90 e, assim, concluir que bastava ostentar a condição de reincidente, seja comum ou específico, para se aplicar a percentual mais gravoso, qual seja, 60% (sessenta por cento).
+
+Entretanto, a referida decisão deve ser reformada na medida em que está em dissonância com o entendimento majoritário externado no âmbito do Superior Tribunal de Justiça que tem firmado posicionamento no sentido de que a Lei n.
+13.964/19 não previu a situação específica da progressão do condenado por crime hediondo sem resultado morte e que seja reincidente simples, de modo que, nessas circunstâncias, não
+é possível integrar a norma utilizando, para tanto, interpretação extensiva em prejuízo do agravante, mas, sim, empregando a analogia
+in bonam partem
+para reconhecer-lhe o direito à progressão com o cumprimento de pena de 40% (quarenta por cento), nos termos do inciso V do art. 112 da Lei n. 7.210/84, incluído pela aludida Lei n. 13.964/19.
+
+Para melhor elucidar as afirmações postas no parágrafo anterior, colacionam-se os as ementas destes julgados da Quinta e Sexta Turmas do Superior Tribunal de Justiça:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIA INADEQUADA. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS.
+REINCIDÊNCIA EM CRIME COMUM (FURTO QUALIFICADO). HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA.
+ORIENTAÇÃO REVISTA. AGRAVO REGIMENTAL PROVIDO. CONCESSÃO DE HC DE OFÍCIO.
+
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+
+2. Firmou-se nesta Superior Corte o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90. Precedentes.
+
+3. Com a entrada em vigor da Lei 13.964/19 - Pacote Anticrime-, foi revogado expressamente o art. 2º, §2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+
+4.
+A nova redação dada ao art. 112 da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos e específicos para cada grupo, a depender especialmente da natureza do delito.
+
+5.
+No caso, o paciente foi sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pelo crime de furto qualificado (delito comum).
+
+Para tal hipótese, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+
+6.
+Em direito penal não é permitido o uso de interpretação extensiva, para prejudicar o réu, devendo a integração da norma se operar mediante a analogia in bonam partem.
+
+Princípios aplicáveis:
+Legalidade das penas, Retroatividade benéfica e in dubio pro reo.
+
+- A lei penal deve ser interpretada restritivamente quando prejudicial ao réu, e extensivamente no caso contrário (favorablia sunt amplianda, odiosa restringenda) - in NÉLSON HUNGRIA, Comentários ao Código Penal, v. I, t.I, p. 86.
+
+Doutrina:
+HUMBERTO BARRIONUEVO FABRETTI e GIANPAOLO POGGIO SMANIO, Comentário ao Pacote Anticrime, Ed. Atlas, 2020; RENATO BRASILEIRO DE LIMA. Pacote Anticrime: Comentários à Lei 13.964/19, Ed. JusPodium, 2020; PAULO QUEIROZ, A nova progressão de regime - Lei 13.964/2019, https://www.pauloqueiroz.net; ROGÉRIO SANCHES CUNHA, Pacote Anticrime: Lei n. 13.964/2019 - Comentários às alterações no CP, CPP e LEP. Salvador: Editora JusPodvim, 2020; e PEDRO TENÓRIO SOARES VIEIRA TAVARES e ESTÁCIO LUIZ GAMA LIMA NETTO; NETTO LIMA, Pacote Anticrime: As modificações no sistema de justiça criminal brasileiro. e-book, 2020.
+
+Precedentes:
+HC n 581.315/PR, Rel. Min. SEBASTIÃO REIS JÚNIOR e HC n. 607.190/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, ambos julgados em 06/10/2020.
+
+7.
+Agravo regimental provido, concedendo habeas corpus de ofício para que se opere a transferência do paciente a regime menos rigoroso com a observância, quanto ao requisito objetivo, do cumprimento de 40% da pena privativa de liberdade a que condenado, salvo se cometida falta grave
+.
+
+(STJ, AgRg no HC 613.268/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 15/12/2020).
+Negritos no original e grifos nossos
+
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PLEITO
+DE RETIFICAÇÃO DO CÁLCULO DA PENA. ART. 112, VII, DA LEI DE EXECUÇÃO PENAL (INCLUÍDO PELA LEI N. 13.964/2019). PACOTE ANTICRIME. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. NÃO APLICAÇÃO. APENADO CONDENADO POR CRIME HEDIONDO E REINCIDÊNCIA NÃO ESPECÍFICA. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO INCISO V. DO ART. 112 DA LEP. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS CONCEDIDO.
+
+1. Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+
+2. Ocorre que
+a alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+
+3.
+Não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V
+.
+
+4. Agravo regimental improvido.
+
+(STJ, AgRg no HC 598.802/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/12/2020, DJe 07/12/2020).
+Destacamos
+
+Por sua vez, esta Segunda Câmara Criminal também perfilha o entendimento consignado nos acórdãos citados no parágrafo anterior, tal como se extrai das ementas abaixo transcritas:
+
+AGRAVO EM EXECUÇÃO PENAL – DECISÃO QUE APLICOU O ÍNDICE DE 60% PARA O CÁLCULO DA PROGRESSÃO DE REGIME – RETROATIVIDADE DA LEI N. 13.964/2019 – APENADO CONDENADO POR TRÁFICO DE DROGAS NÃO REINCIDENTE EM CRIME HEDIONDO OU EQUIPARADO – PRINCÍPIO DO FAVOR REI E DA RETROATIVIDADE DA LEI PENAL MAIS BENÉFICA – APLICAÇÃO DO ÍNDICE DE 40% PARA O CÔMPUTO DA PROGRESSÃO – RECURSO PROVIDO.
+
+À luz da revogação do § 2º do artigo 2º da Lei n. 8.072/1990 e da nova redação dada ao artigo 112 da Lei de Execução Penal, pela Lei n. 13.964/2019, deve ser aplicado ao reeducando condenado por crime hediondo ou equiparado, sem resultado morte, e não reincidente em delito dessa natureza, o índice de 40% para o cômputo da progressão de regime, ainda que já possua condenações por crimes comuns
+.
+
+(
+TJMT, N.U 1022286-74.2020.8.11.0000, CÂMARAS ISOLADAS CRIMINAIS, PEDRO SAKAMOTO, Segunda Câmara Criminal, Julgado em 02/12/2020, Publicado no DJE 04/12/2020
+).
+Destacamos
+
+AGRAVO EM EXECUÇÃO – FRAÇÃO DE 2/5 (DOIS QUINTOS) OU 40% (QUARENTA POR CENTO) ADOTADA PELO MAGISTRADO DE PRIMEIRO GRAU PARA PROGRESSÃO DE REGIME – INSURGÊNCIA MINISTERIAL – REQUER FIXAÇÃO DA FRAÇÃO DE 3/5 (TRÊS QUINTOS) OU 60% (SESSENTA POR CENTO) PARA PROGRESSÃO DE REGIME – INVIABILIDADE – CASO DE REINCIDÊNCIA SIMPLES E NÃO ESPECIFICA EM CRIME HEDIONDO E EQUIPARADO – LACUNA LEGISLATIVA – INTERPRETAÇÃO EXTENSIVA FAVORÁVEL AO SENTENCIADO – UNIFICAÇÃO DAS PENAS DE RECLUSÃO E DETENÇÃO-
+
+IMPOSSIBILIDADE – INCOMPATIBILIDADE DE CUMPRIMENTO DAS PENAS – RECURSO DESPROVIDO.
+
+A fração de 2/5 (dois quintos) ou 40 (quarenta por cento) deve ser aplicada ao reincidente simples, “não deve incidir o percentual de 60%, previsto no art. 112, VII, da LEP, introduzido pela Lei 13.964/2019, uma vez que lá o executado deve ser reincidente específico” (STJ, HC Nº 533016 - Relator: Min. Reynaldo Soares Da Fonseca - 31.3.2020)
+.
+
+Quanto ao cumprimento simultâneo das penas de detenção e reclusão, cumpre ressaltar que, no caso em examine, não se pode realizar o somatório das penas como previsto no art. 111, da Lei de Execução Penal, eis que se trata de crimes apenados com pena de reclusão e detenção, razão pela qual, deve-se atentar para a regra prevista no art. 33, caput e art. 76, ambos do Código Penal.
+
+(
+TJMT, N.U 1019910-18.2020.8.11.0000, CÂMARAS ISOLADAS CRIMINAIS, RUI RAMOS RIBEIRO, Segunda Câmara Criminal, Julgado em 25/11/2020, Publicado no DJE 28/11/2020)
+.
+Destacamos
+
+Daí por que procede o pleito do agravante visando a aplicação do percentual de 40% (quarenta por cento) para a progressão de regime concernente à sua condenação pelo cometimento do crime de latrocínio tentado, pois a reincidência reconhecida em seu desfavor diz respeito a uma
+condenação definitiva pela prática do delito de disparo de arma de fogo (Ação Penal n. 0044734-79.2007.822.0009 – TJRO) que, de fato, não é crime hediondo e, por conseguinte, o recorrente não ostenta a condição de reincidente específico para justificar a incidência do
+quantum
+de cumprimento de pena correspondente a 60% (sessenta por cento), descrito no inciso VII do art. 112 da Lei n.
+
+7.210/84, incluído pela aludida Lei n. 13.964/19.
+
+Cumpre ressaltar, outrossim, que a pretensão do recorrente de aplicação do percentual de 30% (trinta por cento) para a progressão de regime não é cabível, tendo em vista que, conforme já consignado, esse percentual é aplicado aos reincidentes por crime
+não hediondo
+cometido com violência à pessoa ou grave ameaça, não sendo essa a hipótese vertente, uma vez que o crime de latrocínio, como é de trivial sabença, integra o rol dos crimes hediondos elencados na Lei n. 8.072/90.
+
+Posto isso, em dissonância com parecer da Procuradoria-Geral de Justiça, dou provimento
+
+ao recurso interposto por
+Wellington Freitas Silva
+, para determinar a incidência do quantitativo correspondente a 40% (quarenta por cento) para o cálculo dos prazos para a progressão de regime concernente à condenação pelo cometimento do crime de tentativa de latrocínio (art. 157, § 3º, II c/c 14, II, do Código Penal) de que trata a Ação Penal n.
+15333-84.2018.811.0064 (código 684371)
+.
+
+É como voto.
+
+Data da sessão:
+Cuiabá-MT, 03/02/2021
