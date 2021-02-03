@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fulcro no art. 105, III, alínea "a", da Constituição Federal.
+Consta dos autos que aagravante foi condenadapela prática do delito tipificado no art. 180do Código Penal (receptação), à pena de 01 (um) ano e 04(quatro) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 13 (treze) dias-multa, substituída por uma pena restritiva de direitos.
+Irresignados, defesa e acusação interpuseram recurso de apelação. O Tribunal de origem negou provimento ao apelo defensivo e deu provimento ao apelo ministerial para fixar o regime prisional fechado e afastar a substituição da pena privativa de liberdade.
+O acórdão restou assim ementado:
+APELAÇÃOCRIMINAL. Receptação. Sentença condenatória. Ministério Público pretende a fixação do regime inicial fechado e o afastamento da substituição da pena corporal por restritiva de direitos. Defesa alega, em preliminar, a presença de nulidade por ilicitude da prova. No mérito, pretende a absolvição por insuficiência de provas. Subsidiariamente, pede a desclassificação para a modalidade culposa do delito, a fixação das basilares no mínimo e o abrandamento do regime prisional. Preliminar rejeitada. Ausência de demonstração de prejuízo. Crime de receptação é e natureza permanente. Flagrante dentro dos requisitos legais. No mérito, autoria e materialidade devidamente comprovadas. Versão defensiva infirmada pela prova oral e material. Comportamento do réu indica que sabia da origem espúria do objeto. Caracterizada a figura tipificada no artigo 180, caput, do Código Penal. Conjunturas fáticas o incriminam. Condenação de rigor. Dosimetria. Fixação das basilares acima do mínimo devidamente justificada. Necessária a fixação do regime inicial fechado, como pretende o Ministério Público. Impossibilidade de substituição da pena corporal por restritiva de direitos. Preliminar rejeitada. No mérito, recurso defensivo improvido e recurso ministerial provido.
+Em sede de recurso especial, a defesa daagravante aponta violação ao disposto nos arst. 33, § 2º, "b" e § 3º, 44 e 59, todos do Código Penal. Sustenta, preliminarmente, a ocorrência da prescrição e, no mérito, a fixação do regime prisional semiaberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+A r. decisão agravada inadmitiu o recurso especial, haja vista a inviabilidade da análise de ofensa a dispositivos constitucional, ausência de prequestionamento e os óbices contidos nas Súmulas n. 284/STF e n. 07/STJ.
+Em agravo em recurso especial, a defesa refutou o aludido argumento.
+Contraminuta às fls. 278/283.
+O Ministério Público Federal opinou pelo parcial provimento do recurso (fls. 298/303).
+É o relatório. Decido.
+Atendidos os requisitos de admissibilidade e impugnados os fundamentos da decisão agravada, conheço do agravo.
+Passo à análise do recurso especial.
+O recurso merece parcial provimento.
+De início, passo ao exame da prescrição, conforme pleiteado pela defesa.
+Considerando o quantum de pena aplicado (01 ano e 04 meses de reclusão), em que se aplica o prazo prescricional previsto no art. 109, V, do CP (04 anos), além do recebimento da denúncia ocorrida em 24/07/2018, da sentença penal condenatória ocorrida em 11/03/2019 e do acórdão confirmatório ocorrido em 23/01/2020, não há falar em prescrição da pretensão punitiva, permanecendo hígido o jus puniendi estatal.
+Acerca da pretensão recursal, o Tribunal de origem consignou o seguinte (fls. 233/234):
+Isso porque, considerando-se as peculiaridades concretas dos autos, tem-se que a ré demonstrou completo desrespeito pela ordem jurídica de nosso país. Como já explicitado, mesmo estando em regime aberto, a ré não honrou com a confiança depositada em sua pessoa e adquiriu produto cuja origem era nitidamente espúria, cometendo, assim, novo delito.
+Ora, por óbvio, não merece ser agraciada, de plano, com a fixação do regime intermediário, necessitando, em verdade, de maior rigor durante a expiação de sua pena com o intuito de que, com isso, seja capaz de assimilar a terapêutica penal e arrefecer seu intento criminoso.
+Assim, o regime fechado é o apropriado, posto que a ré demanda segregação total até que, paulatinamente, possa ser reinserida no corpo social.
+Ao Magistrado compete estabelecer o regime inicial de cumprimento da pena que acreditar suficiente para reprovação e prevenção do delito, respeitados os ditames legais.
+O regime fechado é aquele que mais se coaduna com os objetivos acima e com o caráter ressocializador da pena, incutindo na acusada a terapêutica prisional.
+(..)
+Por fim, o ilustre Juízo de primeiro grau substituiu a pena corporal por uma restritiva de direitos.
+Neste ponto, o Ministério Público pretende o afastamento da referida substituição.
+Novamente, com razão.
+Isso porque, como já mencionado, as peculiaridades concretas dos autos indicam que a conduta da apelante/apelada ultrapassou a normalidade à espécie, necessitando de resposta estatal mais severa. Tais circunstâncias não autorizam a substituição da pena corporal por restritiva de direitos, não preenchendo os requisitos do artigo44 do Código Penal.
+A existência de circunstâncias judiciais desfavoráveis impede a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44, III, do CP.Por outro lado, considerando o quantum de pena (01 ano e 04 meses), revela-se mais adequada a imposição do regime prisional semiaberto para cumprimento da pena.
+A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. FUNDAMENTAÇÃO IDÔNEA. ELEVADO VALOR DO PREJUÍZO CAUSADO. CONSEQUÊNCIAS DO CRIME DESFAVORÁVEIS. DESCONSTITUIÇÃO DO ENTENDIMENTO DAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. FIXAÇÃO DO REGIME SEMIABERTO E AFASTAMENTO DA SUBSTITUIÇÃO DA SANÇÃO CORPORAL POR RESTRITIVAS DE DIREITOS. FUNDAMENTAÇÃO IDÔNEA. PRISÃO DOMICILIAR E BIS IN IDEM NA FIXAÇÃO DA PENA. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+5. "Consoante entendimento assente neste Tribunal Superior, a análise desfavorável das circunstâncias judiciais justifica a fixação do regime semiaberto, bem como o afastamento da substituição da sanção corporal por restritivas de direitos, ainda que a pena imposta ao agravante seja inferior a 4 anos de reclusão, tendo em vista o disposto nos arts. 33, § 3º, e 44, III, c/c o art. 59, todos do Código Penal" (AgRg no AREsp 1473857/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 18/2/2020, DJe 27/2/2020) (AgRg no AgRg no AREsp 1649330/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 2/6/2020, DJe 15/6/2020)"(AgRg nos EDcl no AgRg no AREsp 1673711/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/10/2020, DJe 13/10/2020 - Grifo Nosso).
+Diante do exposto, com fundamento na Súmula n. 568/STJ, dou parcialprovimento ao recurso especial apenas para fixar o regime inicial semiaberto.
+Publique-se. Intimem-se.
