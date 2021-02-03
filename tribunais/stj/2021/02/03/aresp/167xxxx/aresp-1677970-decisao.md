@@ -1,0 +1,10 @@
+DECISÃO
+EDILSON FIGUEIREDO DE SOUZA e MARCIA MADEIRA NOGUEIRA agrava de decisão que inadmitiu o processamento do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região, que deu parcial provimento à apelação defensiva.
+Em suas razões, afirmam os insurgentes que, diversamente do consignado na decisão impugnada, não era cabível os embargos infringentes e que não houve a interposição do recurso extraordinário porque o tema é de natureza eminentemente infraconstitucional. Por isso requerem o regular processamento do especial, no qual alega a incompetência da Justiça Federal.
+Contrarrazoado (fls. 5.612-5.614) o agravo, foram os autos ao Ministério Público Federal, que se manifestou pelo seu não provimento (fls. 5.727-5.729).
+Decido.
+Embora o caso não admita a oposição de embargos infringentes, como destacou o decisum impugnado, na medida em que o voto dissidente era desfavorável aos recorrentes, não há como deixar de reconhecer que há fundamento constitucional, relativo à fixação da competência, que também sustenta a pretensão da defesa. Aliás, o art. 109 da Constituição Federal é referenciado no próprio especial.
+Tal situação, portanto, implicaria na interposição concomitante do recurso extraordinário, o que não foi feito na espécie, a atrair a incidência da Súmula n. 126 do STJ. No particular, precisas as ponderações do Ministério Público Federal, quando afirmou (fl. 5.729):
+Não obstante o esgotamento das instâncias ordinárias, o Recurso Especial não deve ser conhecido em razão do óbice previsto na Súmula 126 do STJ, haja vista que o acórdão recorrido tem fundamentos constitucionais e infraconstitucionais, mas o agravante não interpôs Recurso Extraordinário, apesar de sustentar ofensa ao art. 109 da Constituição Federal, por suposta incompetência da Justiça Federal para processamento e julgamento do feito.
+À vista do exposto, com fundamento no art. 34, XVIII, "b", do RISTJ, nego provimento ao agravo em recurso especial.
+Publique-se e intimem-se.
