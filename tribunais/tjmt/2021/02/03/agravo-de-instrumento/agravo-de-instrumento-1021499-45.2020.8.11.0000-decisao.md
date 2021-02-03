@@ -1,0 +1,11 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1021499-45.2020.8.11.0000 - CLASSE 202 - CNJ - CAPITAL
+Agravante : BANCO JOHN DEERE S.A
+Agravados : ESCAVASUL CONSTRUCOES E ENGENHARIA LTDA E OUTROS
+Número do Protocolo: 1021499-45.2020.8.11.0000
+Intime-se o Administrador Judicial FORTUNATO PLANEJAMENTO FINANCEIRO E CONSULTORIA LTDA – ME, para apresentar contrarrazões ao recurso de agravo de instrumento.
+Cumpra-se, expedindo o necessário.
+Cuiabá/MT, 02 de fevereiro de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
