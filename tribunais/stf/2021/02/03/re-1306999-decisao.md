@@ -1,0 +1,19 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. AGENTE PENITENCIÁRIO. QUINQUÊNIO. INCIDÊNCIA SOBRE OS VENCIMENTOS INTEGRAIS, INCLUIÍDOS OS ADICIONAIS E AS GRATIFICAÇÕES DE NATUREZA PERMANENTE. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL: TEMA 702. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Colégio Recursal de Jundiaí/SP:
+    “RECURSO INOMINADO – servidor público – agente penitenciário – adicional por tempo de serviço (quinquênio) – incidência sobre os vencimentos integrais, excluídas verbas eventuais e transitórias, observado o prazo prescricional – inclusão da gratificação especial de suporte à saúde (GESS) na base de cálculo de adicional por tempo de serviço (quinquênio) – verba de caráter remuneratório e permanente – RE n. 563708/MT não adotou o entendimento de que a incidência deveria se dar apenas sobre o vencimento básico – juros e correção monetária devem ser adequados ao entendimento do C. STF em sede de apreciação de tema de repercussão geral (tema 810) – desfecho da discussão judicial da questão no Pretório Excelso, com rejeição dos embargos declaratórios que buscavam modulação do julgado (03/10/2019) – manutenção do julgado – negado provimento” (e-doc. 13).
+    2. A recorrente alega ter o órgão judiciário de origem contrariado o inc. XIV do art. 37 da Constituição da República.
+    Argumenta que, conforme o julgamento do “RE 1.153.964/SP, os adicionais temporais devem incidir apenas sobre o vencimento, isto é, o salário ou padrão base, não sendo devida a inclusão em sua base de cálculo de quaisquer outras parcelas, independentemente de sua natureza, sendo irrelevante, pois, se permanente ou eventual” (fl. 6, e-doc. 15).
+    Pede “o conhecimento e provimento do presente RE para que seja anulado ou reformado o acórdão, para o reconhecimento da contrariedade ao art. 37, XIV, da CF e consequente aplicação do entendimento firmado por esse egrégio STF nos autos do RE 1.153.964/SP” (fl. 7, e-doc. 15).
+    Examinados os elementos havidos no processo, DECIDO.
+    3. Razão jurídica não assiste ao recorrente.
+    4. No julgamento do Recurso Extraordinário n. 764.332, Relator o Ministro Joaquim Barbosa, este Supremo Tribunal reconheceu sem repercussão geral a controvérsia sobre “a incidência do adicional por tempo de serviço (quinquênio) sobre a integralidade dos vencimentos de servidor público” (Tema 702):
+    “ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. QUINQUÊNIO. INCIDÊNCIA SOBRE OS VENCIMENTOS INTEGRAIS, INCLUINDO OS ADICIONAIS E AS GRATIFICAÇÕES REPUTADOS COMO DE NATUREZA PERMANENTE. INTERPRETAÇÃO DE LEGISLAÇÃO ESTADUAL. MATÉRIA DE ÍNDOLE INFRACONSTITUCIONAL. ATRIBUIÇÃO DOS EFEITOS DA AUSÊNCIA DE REPERCUSSÃO GERAL. RECURSO EXTRAORDINÁRIO NÃO CONHECIDO” (DJe 21.3.2014).
+    Declarada a ausência de repercussão geral, os recursos extraordinários e agravos nos quais suscitada a mesma questão constitucional devem ter o conhecimento negado pelos respectivos relatores, conforme o inc. III do art. 932 e o art. 1.035 do Código de Processo Civil e o § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal.
+    Nada há a prover quanto às alegações do recorrente.
+    5. Pelo exposto, não conheço do recurso extraordinário (inc. III do art. 932 e art. 1.035 do Código de Processo Civil e § 1º do art. 327 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 3 de fevereiro de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
