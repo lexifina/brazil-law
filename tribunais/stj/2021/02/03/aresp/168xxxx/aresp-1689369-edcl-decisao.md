@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CGR Engenharia Eireli contra decisão que negou provimento ao agravo em recurso especial, sob o fundamento de incidência das Súmulas 283do STF e 7 do STJ.
+Alega a parte embargante que "no caso em tela, é manifesta a premissa equivocada lançada no decisum singular, isso porque, a CGR comprovou (na origem - via EMBARGOS DE DECLARAÇÃO) ser a proprietária do imóvel dado em garantia (atualmente já penhorado nos autos), não havendo, portanto, como permanecer o argumento de que o imóvel está gravado com cláusula de indisponibilidade.Este fato repele o argumento de incidência da Súmula n. 283/STF.Ademais, não há que se falar no "reexame de provas", para atrair a incidência do óbice sumular n. 7/STJ, isso porque, como visto, o apelo vista discutir, apenas e tão somente, a ofensa dos dispositivos apontados nas razões frente (eis que a execução estar devidamente garantida) aos fundamentos apontados no acórdão combatido." (fl. 3.795).
+Impugnação às fls. 3.809/3.812.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão atacada ou para correção de erro material.
+Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado na decisão embargada que, "o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, não comprovou a executada a titularidade do imóvel ofertado, uma vez que acostou aos autos a respectiva matrícula atualizada somente até 25.07.2018, e da qual consta cláusula de indisponibilidade do referido bem, determinada em Ação Civil Pública (averbação 15 da Matrícula nº 22.619 do Registro de Imóveis da 3ª Circunscrição Campo Grande/MS fls. 3.390/3.395), esbarra, pois, no obstáculo da Súmula 283/STF  ..  Ademais, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ." (fl. 3.787)
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegada omissão do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material a ser corrigido, conforme exige o art. 1.022 do novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CARÁTER INFRINGENTE. INTUITO PROTELATÓRIO. MULTA.
+1. Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento, ausentes in casu.
+3. O inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+4. A insurgência revela o propósito manifestamente protelatório e a utilização indevida dos aclaratórios, justificando a incidência da sanção prevista no art.
+538, parágrafo único do CPC.
+5. Embargos de Declaração rejeitados, com fixação de multa de 1% sobre o valor da causa.
+(EDcl no AgRg nos EDcl no AgRg no REsp 1.317.962/PI, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/12/2014, DJe 02/02/2015)
+TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir qualquer obscuridade, contradição ou erro material.
+2. A contradição que autoriza os embargos de declaração é aquela interna do acórdão, verificada entre sua fundamentação e conclusão.
+3. Resumindo-se irresignação do embargante ao seu mero inconformismo com o resultado do julgado, desfavorável à sua pretensão, não há nenhum fundamento que justifique a interposição de embargos.
+4. Embargos de declaração rejeitados.
+(EDcl nos EDcl no AgRg no AREsp 10.023/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 07/08/2012, DJe 20/08/2012)
+Ainda na linha de nossa jurisprudência, "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida." (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/05/2016, DJe 31/05/2016).
+ANTE O EXPOSTO, rejeito os embargos declaratórios.
+Publique-se.
