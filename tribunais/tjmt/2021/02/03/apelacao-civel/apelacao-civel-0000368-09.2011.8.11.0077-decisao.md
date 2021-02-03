@@ -1,0 +1,32 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 0000368-09.2011.8.11.0077
+RECORRENTE: INTERLIGACAO ELETRICA DO MADEIRA S/A
+RECORRIDO: GUAPORE MINERAÇÃO LTDA
+Vistos.
+Trata-se de Recurso Especial (id 6619855) interposto por INTERLIGACAO ELETRICA DO MADEIRA S/A com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Terceira Câmara de Direito Privado assim ementado (id 51639482):
+“APELAÇÃO CÍVEL – AÇÃO DE CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA – JUROS COMPENSATÓRIOS E JUROS MORATÓRIOS – CUMULAÇÃO – LEGALIDADE – INTELIGÊNCIA DAS SÚMULAS No 12 E No 102 DO STJ – JUROS COMPENSATÓRIOS FIXADOS EM 12% AO ANO – POSSIBILIDADE – SÚMULA No 618 DO STF E No 408 DO STJ – JUROS MORATÓRIOS – INAPLICABILIDADE DO ART. 15-B DO DL 3.365/1941 – CONDENAÇÕES EM QUANTIA CERTA NÃO SE SUBMETE AO REGIME DE PRECATÓRIO – SENTENÇA MANTIDA – RECURSO CONHECIDO E DESPROVIDO. Ao contrário do que ocorre nas desapropriações promovidas por pessoas jurídicas de direito público, nas desapropriações manejadas por concessionárias de serviço público pode haver cumulação de juros compensatórios e moratórios, consoante os termos da Súmula n° 12 do STJ (Em desapropriação, são cumuláveis juros compensatórios e moratórios). Segundo a jurisprudência assentada no STJ, a Medida Provisória 1.5 77/97, que reduziu a taxa dos juros compensatórios em desapropriação de 12% para 6% ao ano, é aplicável no período compreendido entre 11.06.1997, quando foi editada, até 13.09.2001, quando foi publicada a decisão liminar do STF na ADIn 2.332/DF, suspendendo a eficácia da expressão ‘de até seis por cento ao ano’, do caput do art. I5-A do Decreto-lei 3.365/41, introduzida pela referida MP. Nos demais períodos, a taxa dos juros compensatórios é de 12% (doze por cento) ao ano, como prevê a súmula 618/stf ” (REsp 1.111.829/SP).Quanto aos juros moratórios, a sistemática do art. 15 - B do DL 3.365/1941, no que tange ao marco inicial de incidência, é inaplicável às ações de desapropriação ajuizadas por concessionarias de serviços públicos, cujas condenações em quantia certa não estão sujeitas ao regime de precatório estabelecido no art. 100 da Constituição da República (...) (TJRJ; APL 0000272-50.1982.8.19.002” (TJMT – Terceira Câmara de Direito Privado – RAC n. 0000368-09.2011.8.11.0077, Relator: DIRCEU DOS SANTOS, j. em 22/07/2020).
+Opostos Embargos de Declaração, estes foram rejeitados no acórdão de id 62492988.
+Na espécie, o presente recurso foi interposto contra o aresto proferido em sede de Apelação, interposta por INTERLIGACAO ELETRICA DO MADEIRA S/A que manteve a sentença para: “(i) confirmar a Liminar de imissão da parte autora na posse da área serviente descrita na exordial; (ii) declarar constituída a servidão administrativa em favor da atividade desenvolvida pela empresa autora sobre a área serviente descrita na exordial, a qual deverá ser registrada na matrícula do imóvel no Cartório de Registro de imóveis, nos termos do art. 29 do Decreto-Lei 3.365/41; (iii) condenar a parte autora ao pagamento da indenização no valor de R$43.850,00 (quarenta e três mil, oitocentos e cinquenta reais), corrigidos monetariamente pelo INPC desde a data da avaliação (26/04/2017) e acrescido de juros de mora de 1% ao mês desde a citação, até a data do efetivo pagamento, na forma da lei; (iv) condenar a parte autora ao pagamento de juros compensatórios, fixados em 12% ao ano, sobre o valor da diferença da condenação com os valores depositados nos autos às fls. 90/93, a contar da data da imissão na posse (10.06.2011), nos termos do art. 15-A do Decreto-Lei n° 3.365/41, em consonância com as Súmulas 408 do STJ e 618 do STF; e (v) em razão do princípio da causalidade, condenar a parte autora ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em 5% diferença entre o valor da indenização e o valor ofertado na inicial, conforme estabelece o art. 27, §1°, do Decreto-Lei 3.365/41. (id 19750480 e 19750488)”.
+A Recorrente alega violação aos artigos 15–A, 15–B, do Decreto Lei n. 3365/41, Súmula 70/STJ, além de divergência jurisprudencial, ao argumento de que os juros compensatórios devem ser estabelecidos no percentual de 6% ao ano e os juros moratórios em 6% ao ano desde o trânsito em julgado, conforme determina a legislação vigente.
+Recurso tempestivo (id 68777452)
+Contrarrazões no id 72592956.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, incidindo, in casu, o disposto no artigo 1.030, V, “a”, do CPC
+Passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos
+A partir da provável aos artigos 15–A, 15–B, do Decreto Lei n. 3365/41537, a Recorrente alega que o termo inicial para aplicação dos juros moratório é o trânsito em julgado da decisão, conforme determina a legislação vigente.
+O acórdão recorrido manteve a sentença que condenou a parte autora ora Recorrente ao pagamento da indenização no valor de R$43.850,00 (quarenta e três mil, oitocentos e cinquenta reais), corrigidos monetariamente pelo INPC desde a data da avaliação (26/04/2017) e acrescido de juros de mora de 1% ao mês desde a citação, até a data do efetivo pagamento, na forma da lei.
+Em caso análogo, o Superior Tribunal de Justiça decidiu que os juros moratórios são devidos a contar do trânsito em julgado. (REsp 1742915/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/09/2018, DJe 27/11/2018)”.
+Diante desse quadro, constata-se que a matéria acima mencionada, além de ter sido discutida no aresto impugnado, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF, é exclusivamente de direito, porquanto não se pretende reexaminar fatos e provas, (não aplicação da Súmula 7 do STJ), não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Dessa forma, presentes todas as condições processuais necessárias, dou seguimento ao recurso pela aduzida afronta legal.
+Em interpretação conjunta do artigo 1.034, parágrafo único, do CPC, e à Súmula 292/STF, fica dispensado o exame dos demais dispositivos supostamente violados.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
