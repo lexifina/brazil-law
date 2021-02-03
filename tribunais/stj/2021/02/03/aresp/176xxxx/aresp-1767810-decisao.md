@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porNOBRE ADMINISTRADORA DE BENS LTDA,contra decisão que negou seguimento a recurso especial fundamentado nasalíneas"a" e"c" do permissivo constitucional.
+Ação:de execução de título extrajudicial ajuizada pela agravante, em desfavor de GASTRONOMY - EVENTOS E GASTRONOMIA LTDA, LIA CARMEN DE CARVALHO POLONI, CLEMENTE AURELINO BERTONCELLO, decorrente do inadimplemento docontrato de locação comercial celebrado entre a agravante e a primeira agravada, .
+Decisão interlocutória: determinou a realização de nova avaliação de um dos bens penhorados ereconheceu a impenhorabilidade do bem de família do fiador Clemente Aurelino Bertoncello.
+Acórdão:negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TITULO EXTRAJUDICIAL. CRÉDITO PROVENIENTE DE LOCAÇÃO COMERCIAL. LEVANTAMENTO DE PENHORA EFETIVADA SOBRE IMÓVEL DO FIADOR. RECURSO DA EXEQUENTE. EXCEÇÃO À IMPENHORABILIDADE DO BEM DE FAMÍLIA, SOB A ÓTICA DO ART. 3º, INC. VII, DA LEI N. 8.009/1990, NÃO APLICÁVEL NO PRESENTE CASO. DISPOSITIVO INCIDENTE SOMENTE À S HIPÓTESES DE LOCAÇÃO RESIDENCIAL. PRECEDENTE DO STF. RESGUARDO AO DIREITO DE MORADIA. ENTENDIMENTO ALBERGADO PELA JURISPRUDÊNCIA DESTA CORTE. IMÓVEL DO FIADOR IMPENHORÁVEL. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Recurso especial: alega violação doart. 3º, VII, da Lei n. 8.009/90, bem como dissídio jurisprudencial, sustentando que a exceção à regra do art. 3º da Lei n. 8.009/90, prevista no inciso VII, não faz distinção entre contrato de locação residencial ou comercial, estando plenamente vigente a Súmula 549/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da possibilidade de penhora de bem de família de fiador de contrato de locação (Tema repetitivo 708 - Súmula 549/STJ)
+O acórdão recorrido, ao concluir pela impenhorabilidade do bem de família pertencenteaofiadorde contrato de locação comercial, decidiu em desconformidadecom a jurisprudência do STJ, firmada em sede de recurso repetitivo, no sentido de queé legítima a penhora de apontado bem de família pertencente a fiador de contrato de locação, ante o que dispõe o art. 3º, inciso VII, da Lei 8.009/90. Nesse sentido:REsp 1363368/MS (2ª Seção, DJe 21/11/2014).
+Não prospera o argumento doTribunal de origem referente à inaplicabilidade da tese constante no Tema repetitivo 708 aos contratos de locação comercial, em razão do julgado proferido pela 1ª Turma do E. STF no RE 605.709, publicado em 18/02/2019,o qual afastou a possibilidade de penhora do bem de família do fiador de contrato de locação comercial. Necessário frisar que a 2ª Turma doSTF, no julgamento do ARE 1.128.251 AgR (Dje 19/12/2018),possibilitou a penhora do bem de família do fiador em locação comercial, reafirmando o Tema 295 (É constitucional a penhora de bem de família pertencente a fiador de contrato de locação, em virtude da compatibilidade da exceção prevista no art. 3º, VII, da lei 8.009/90 com o direito à moradia consagrado no art. 6º da CF, com redação da EC 26/20)estabelecido pelo Plenário da Suprema Corte.
+Logo, nos termos do Tema repetitivo 708 e da Súmula 549/STJ, o acórdão recorrido merece reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para manter a penhora do imóvel matriculado sob o n. 5.811, do Ofício do Registro de Imóveis de Xanxerê.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO COMERCIAL. PENHORA DE IMÓVEL. FIADOR. BEM DE FAMÍLIA. POSSIBILIDADE. SÚMULA 549/STJ.
+1. Ação de execução de título extrajudicial. Contrato de locação comercial.
+2.É legítima a penhora de apontado bem de família pertencente a fiador de contrato de locação, ante o que dispõe o art. 3º, inciso VII, da Lei n. 8.009/90. Tema repetitivo 708. Súmula 549/STJ.
+3. Agravo conhecido. Recurso especial conhecido e provido.
