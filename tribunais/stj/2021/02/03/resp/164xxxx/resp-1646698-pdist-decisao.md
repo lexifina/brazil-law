@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela SIEMENS LTDA. contra decisão por mim proferida, às e-STJ fls. 552/554, em que determinei o sobrestamento do recurso especial até a realização do juízo de conformação pela Corte de origem com o acórdão a ser proferido em recurso extraordinário com repercussão geral reconhecida, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja efetivada.
+A embargante sustenta que "os temas abordados em cada um dos recursos serão distintos, não ocorrendo, portanto, dupla impugnação sobre a mesma matéria" e que "não há ofensa ao princípio da unirrecorribilidade, uma vez que, no caso de interposição de ambos recursos excepcionais contra o mesmo acordão, este se desdobra em vários capítulos e, "para fins de recorribilidade cada capítulo é considerado como uma decisão per se", ou seja, o capítulo é considerado como uma decisão por si só" (e-STJ fl. 561).
+Aduz que, "apesar do Ministro Relator Luiz Fux ter reconhecido a repercussão geral da questão constitucional suscitada no RE 928.943/SP, em nenhum momento, determinou naquele recurso excepcional a suspensão nacional de todos os processos pendentes que tratam do mesmo tema, até a decisão final daquela Corte Superior" (e-STJ fl. 562).
+A parte embargada não apresentou impugnação (e-STJ fl. 569).
+Passo a decidir.
+Inicialmente, recebo os embargos como pedido de distinção preceituado pelo art. 1.037, § 9º, do CPC/2015, in verbis: "Demonstrando distinção entre a questão a ser decidida no processo e aquela a ser julgada no recurso especial ou extraordinário afetado, a parte poderá requerer o prosseguimento do seu processo. "
+Após nova análise dos autos, verifica-se que a irresignação da requerente não merece acolhimento.
+Com efeito, nas razões do especial, alegou a recorrente a ilegalidade da CIDE por violação do art. 98 do CTN e do art. 12 do Acordo firmado entre o Brasil e a Alemanha, bem como contrariedade dos arts. 1º, 3º e 6º, § 1º, da LICC.
+Consoante assentei na decisão ora impugnada, O Supremo Tribunal Federal, nos autos do RE 928.943/SP, Relator o em. Ministro Luiz Fux, reconheceu a repercussão geral da questão referente à "constitucionalidade da Contribuição de Intervenção no Domínio Econômico - CIDE sobre remessas ao exterior, instituída pela Lei n. 10.168/2000, posteriormente alterada pela Lei n. 10.332/2001 - Tema n. 914", em aresto assim ementado:
+RECURSO EXTRAORDINÁRIO. TRIBUTÁRIO E CONSTITUCIONAL. CONTRIBUIÇÕES DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO INCIDENTES SOBRE REMESSAS AO EXTERIOR. LEIS 10.168/2000 E 10.332/2001. PERFIL CONSTITUCIONAL E PARÂMETROS PARA O EXERCÍCIO DA COMPETÊNCIA DA UNIÃO. RELEVÂNCIA DA MATÉRIA E TRANSCENDÊNCIA DE INTERESSES. TEMA 914. EXISTÊNCIA DE REPERCUSSÃO GERAL.
+Do que se observa, a pretensão deduzida no presente recurso especial guarda estreita relação com a tese a ser firmada pelo STF no recurso extraordinário afetado.
+Ante o exposto, INDEFIRO o pedido de distinção.
+CORRIJA-SE a autuação, a fim de que a Petição 00696031/2020 passe a constar como pedido de distinção.
+Publique-se. Intimem-se.
