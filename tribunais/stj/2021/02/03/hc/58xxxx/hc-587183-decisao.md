@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FELIPE DA SILVA LEITE, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2081995-06.2020.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva e foi denunciado por suposta prática do delito descrito no art. 33 da Lei n. 11.343/2006.
+O impetrante alega que a fundamentação do decreto preventivo é genérica, ressaltando ser o paciente primário.
+Sustenta não estarem presentes os requisitos da custódia cautelar e ser a medida desproporcional.
+Aduz que a gravidade abstrata do crime não é fundamento idôneopara a manutenção da segregação.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva. Subsidiariamente, pugna pela aplicação de medidas cautelares diversas da prisão.
+Opedido de liminar foi indeferido (fls. 70-72).
+Prestadas as informações (fls. 78-93 e 99-100), o Ministério Público Federal opinou pelo não conhecimento ou pela denegação da ordem (fls. 104-107).
+Em ofício, o Supremo Tribunal Federal informou que concedeu medida liminar no HC n. 188.524/SP, "apenas para determinar ao juízo da Primeira Vara Criminal da Comarca de Limeira/SP realize a audiência de custódia com a presença do paciente, da defesa técnica e do órgão do Ministério Público, física ou virtual, observadas as peculiaridades locais da prestação jurisdicional em razão da pandemia da Covid-19, e decida como entender de direito sobre a prisão cautelar", sem prejuízo da análise do mérito deste writ(fl. 124).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fl. 18):
+No caso em exame, há a certeza sobe a materialidade do delito, com a apreensão de mais de meio quilo de maconha, bem como material para sua embalagem.
+E quanto aos indícios de autoria, estão presentes pelos relatos dos policiais militares que participaram da detenção do investigado, já tendo informações pretéritas sobre seu envolvimento com a venda de drogas, valendo-se de seu ofício de moto-taxista, vindo a ser ele abordado, tendo algumas porções de tóxicos com ele e feita uma busca em sua casa, encontraram outras vinte e cinco porções de maconha em mais de um cômodo, bem como material para sua embalagem, tendo o próprio indiciado confessado ao menos a posse da droga perante a autoridade policial.
+No presente caso, a quantidade e a forma de acondicionamento do entorpecente(500g de maconha e de outras 25 porções), bem como a apreensão de material para embalagem, foram consideradas pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
