@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por DANIELIO FRANCISCO DE SOUZA contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.062408-8/001).
+O recorrente teve a prisão em flagrante convertida em preventiva, por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.  O decreto prisional fundou-se na quantidade de entorpecente apreendido e nos maus antecedentes (fls. 81-82).
+Sustenta que o decreto prisional não foi devidamente fundamentado e que não estão presentes os requisitos para a decretação da prisão preventiva.
+Aduz que se encontra em risco devido à pandemia de covid-19 e faz jus às medidas cautelares diversas da prisão.
+Requer, inclusive liminarmente, a sua imediata soltura com ou sem a imposição de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido às fls. 237-238.
+O Ministério Público manifestou-se pelo provimento do recurso ordinário em habeas corpus (fls. 282-287).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 115-117, destaquei):
+Com efeito, ao contrário do aduzido na inicial do writ, tem-se que as circunstâncias em que se deu a prisão do Paciente e os elementos de prova colhidos pela Autoridade Policial ensejam o reconhecimento da presença dos pressupostos do art. 312 do Código de Processo Penal, valendo citar os fundamentos da decisão que converteu a prisão em flagrante do Paciente em custódia preventiva, in verbis:
+ ..
+In casu, encontram-se presentes os requisitos mencionados. Isso porque, há provas da materialidade e indícios suficientes da autoria do flagranteado, conforme se extrai das declarações prestadas pelos policiais militares responsável pelo flagrante, do auto de apreensão e do laudo toxicológico preliminar apontaram a apreensão de quantia significativa em dinheiro aproximadamente R$ 2000,00, aparelho celular e duas barras de maconha pesando mais de 1kg. Portanto, presente fumus comissi delicti.
+No tocante ao periculum libertatis, consubstancia-se na gravidade em concreto do delito supostamente praticado, bem como na alta probabilidade de reiteração delitiva caso autuado seja colocado em liberdade. Isso porque, flagranteado demonstra conduta voltada á prática criminosa conforme consta de sua -FAC/CAC, ele já foi condenado pelo delito tráfico de drogas e esta sendo processado pelo crime de roubo.
+O entendimento acima está em consonância com a jurisprudência do STJ, de que a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Por fim, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do recorrente não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, a questão não foi enfrentada pela instância de origem, que entendeu não ter ocorrido o devido prequestionamento ao Juízo de primeiro grau. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus
+Publique-se. Intimem-se.
