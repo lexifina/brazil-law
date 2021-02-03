@@ -1,0 +1,17 @@
+DECISÃO
+O JUÍZO DE DIREITO DA VARA ÚNICA DE IBATIBA - ES suscita conflito de competência, em inquérito policial, diante do reconhecimento de incompetência efetivado pelo JUÍZO FEDERAL DA 1ª VARA DE CACHOEIRO DE ITAPEMIRIM - SJ/ES.
+Cinge-se este incidente processual em saber a competência para a prática de atos jurisdicionais em investigação que apura a suposta prática de roubo circunstanciado ocorrido no interior da agência dos correios do Município de Ibatiba - ES.
+Ouvido, manifestou-se o Ministério Público Federal pela competência do Juízo Federal da 1ª Vara de Cachoeiro de Itapemirim - SJ/ES, ora suscitado (fls. 290-293).
+Decido.
+A Constituição Federal, ao dispor sobre a competência penal da Justiça Federal, prevê em seu art. 109, IV:
+Art. 109. Aos juízes federais compete processar e julgar:
+IV - os crimes políticos e as infrações penais praticadas em detrimento de bens, serviços ou interesse da União ou de ou de suas entidades autárquicas ou empresas públicas, excluídas as contravenções e ressalvada a competência da Justiça Militar e da Justiça Eleitoral; (Destaquei.)
+O caso em tela, de fato, enseja alguma dúvida quanto à competência para o julgamento do feito, na medida em que os correios são uma empresa pública federal.
+Entretanto, além da fixação da competência variar de acordo com o regime de exploração econômica do serviço prestado pelas agências dos Correios, haja vista que, no contexto de franquia, a agência franqueada é responsável por eventuais perdas ou danos de bens cedidos pelo franqueador (ECT), há situações nas quais o delito, a despeito de praticado em agência propriamente franqueada, repercute interesse da União.
+Na hipótese, observa-se que a EBCT foi lesionada. Embora o prejuízo sofrido por ela (R$ 391,14) haja sido muito menor do que aquele experimentado pelo Banco do Brasil (R$ 96.057,72), ambos foram vítimas do roubo e não há como desprezar tal circunstância.
+A jurisprudência desta Corte tem decidido, reiteradamente, ser da competência da justiça federal não só o julgamento de processos em que haja o envolvimento de agência da ECT, cuja exploração da atividade seja direta - agência própria dos Correios (v.g. CC n. 112.424/PR, Rel. Ministro Gilson Dipp, DJe 17/11/2011; CC n. 114.196/SP, Rel. Ministro Jorge Mussi, DJe 6/5/2011, entre outros), como também nos casos em que, mesmo sendo agência franqueada, houver repercussão direta ao serviço-fim dos correios ou prejuízo ao seu patrimônio. Esta última hipótese corresponde a dos autos e, nesse sentido, já decidiu esta Corte em caso similar:
+ ..  embora o Banco do Brasil tenha suportado, proporcionalmente, maior prejuízo patrimonial, "o prejuízo sofrido pelos Correios não pode ser considerado ínfimo à luz da jurisprudência do Superior Tribunal de Justiça - STJ relativa ao rincípio da insignificância" Precedente: CC 173.659/ES, de minha relatoria, TERCEIRA SEÇÃO, DJe 14/9/2020).
+3. Na espécie, constata-se ter havido infração penal praticada em detrimento de patrimônio de empresa pública federal o que configura competência da Justiça Federal nos termos do art. 109, inciso IV, da Constituição Federal.
+4. Conflito de competência conhecido para declarar competente o Juízo Federal da 2ª Vara Criminal de Vitória - SJ/ES, o suscitado. (CC n. 174.265/ES, Rel. Ministro Joel Ilan Paciornik, DJe 27/11/2020)
+À vista do exposto, conheço do conflito e declaro competente o Juízo Federal da 1ª Vara de Cachoeiro de Itapemirim - SJ/ES, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
