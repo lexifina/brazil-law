@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da CF, contra acórdão do TRF da 4ª Região, o qual rejeitou a pretensão dos servidores de determinar pagamento de parcela supostamente incontroversa, por entender que "a parcela incontroversa desta execução é a que foi requisitada em fl. 303, dependendo o pagamento do remanescente da ausência de qualquer controvérsia acerca do valor exequendo, a fim de evitar ali multiplicação de atos processuais, como o incidente em apreço, que prejudica própria condução racional do feito." (e-STJ fls. 228/234).
+Contra este acórdão, opuseram-se Embargos de Declaração, os quais foram rejeitados.
+Sustentam os particulares que, ao não suprir a omissão apontada nos aclaratórios opostos, o acórdão impugnado mitigou a norma do art. 535 do CPC/1973. Alegam, ainda, violação dos arts. 497 e 542do CPC/1973.
+Contrarrazões (e-STJ fls. 279/285).
+Passo a decidir.
+Em primeiro lugar, registro que não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+É o caso dos autos.
+Da simples leitura do acórdão acima transcrito se permite observar que o decisum vergastado se manifestou clara e expressamente em relação aos pontos controvertidos indicados pelos recorrentes (impossibilidade de expedição de requisição de pagamento por conta de pendências jurídicas ainda não solucionadas por completo na ação principal), em razão dissonão era exigido abordar, um a um, todos os dispositivos invocados neste apelo especial.
+Note-se que os fundamentos invocados pela recorrente em sede de embargos de declaração (inexistência de suspensão da execução e exceção do caso à decisão proferida no feito originário  ação coletiva ) foram os mesmos que já haviam sido apresentados, enfrentados e rejeitados pela Corte Regional em sede de Agravo Regimental.
+Ocorre que o recurso especial se destina ao estrito controle de legalidade dos julgados por ele desafiados, não se caracterizando como novo recurso ordinário apto a consertar eventual erro de julgamento decorrente de má percepção do suporte fático considerado pelo Tribunal local, especialmente quando se alega violação do art. 535 do CPC/73.
+No que toca à alegada agressão aos arts. 497 e 542do CPC/1973, a irresignação é toda relacionada ao contexto fático da ação (violação ou não do título executivo formado na ação de conhecimento e possibilidade de execução de valores incontroversos, por inexistir efeito suspensivo à decisão principal).
+Com efeito, a revisão das conclusões a que chegou o juízo originário esbarra no óbice da Súmula 7 desta Tribunal.
+Ante o exposto, CONHEÇO EM PARTE do Recurso Especial interposto pelos particulares e, nessa extensão, NEGO-LHE PROVIMENTO.
