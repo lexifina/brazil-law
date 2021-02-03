@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo manejado por Banco Santander (Brasil) S.A contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 411):
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO FISCAL. SENTENÇA DE IMPROCEDÊNCIA. NULIDADE DA CDA. NÃO OCORRÊNCIA. PREENCHIMENTO DE TODOS OS REQUISITOS CONTIDOS NO ART. 202 DO CTN. ALEGAÇÃO DE DECADÊNCIA DO CRÉDITO TRIBUTÁRIO. INCABÍVEL. ANULAÇÃO DO AUTO DE INFRAÇÃO POR MERO VÍCIO FORMAL. RECURSO NÃO PROVIDO.
+Opostos embargos declaratórios, foram rejeitados (fls. 448/450).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 11, 489, 1.022 do CPC/2015; 173, I e II, 202, III, 203 do CTN; 2º, §5º, III, §6º, da Lei 6.830/80. Sustenta, em síntese: (I) omissão do Tribunal de origem sobre questões necessárias ao deslinde da controvérsia, apesar dos aclaratórios opostos; (II) "a nulidade da Certidão de Divida Ativa em comento se constata na medida em que não atende a requisito essencial à sua constituição, qual seja, a indicação da origem do pretenso crédito fiscal, não individualizando os fatos geradores tributados" (fl. 469); (III) "a pretexto de que o vício que tornou nulos os lançamentos de origem teria natureza meramente formal, a colenda Câmara Julgadora do egrégio Tribunal a quo manteve a exação pretendida pelo Município, desconsiderando que, ao serem excluídas parte das atividades originariamente autuadas e respectivas receitas, sob o argumento de que tais não são sujeitas ao ISS, com o consequente decreto de nulidade de tais lançamentos, tal vício, fora de qualquer dúvida, se caracteriza como de natureza material, e não formal, com o que, à evidência toda, aplicável à espécie a norma do inciso I do art. 173, e não a do inciso II, conforme assente no v. aresto" (fl. 475).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+No que se refere à alegação de nulidade da CDA, reconheceu o Tribunal de origem à fl. 412:
+Cinge-se a controvérsia recursal em torno da nulidade da CDA e ocorrência da decadência do apelado em constituir o crédito tributário executado.
+Conforme dispõe o art. 202 do CTN:
+ ..
+Da análise do artigo supramencionado frente à CDA colacionada aos autos - MOV 1.1 - Execução Fiscal nº 0000102-43.204.8.16.0185, tem-se que estão presentes todas as informações pertinentes e necessárias para a constituição da referida certidão.
+Não há dúvidas quanto à existência, quantificação e origem do crédito tributário ora discutido, razão pela qual não há como acolher a preliminar ora pretendida
+Nesse contexto, verifica-se que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais, com relação à alegação de que a anulação do lançamento ocorrera por vício material, reconheceu o Tribunal de origem à fl. 413:
+Já em relação à alegada decadência do crédito tributário discutido, tem-se, que em que pese o julgamento da Apelação Cível nº 579870-9, originada da Ação Anulatória nº 1397/2004, ter declarado a ilegalidade da incidência de ISS sobre as atividades de "manutenção de contas inativas" e "contratações de operações ativas" e, por essa razão, terem sido anulados os respectivos auto de infração e, consequentemente, ter havido novo lançamento e, posteriormente, nova execução, como bem fundamentado pelo , juízo singular "a correta interpretação a ser dada ao caso é a de que, a despeito do novo lançamento, este resumiu-se à, cumprindo a decisão judicial, simplesmente viabilizar a exigibilidade daqueles valores reconhecidamente legítimos e despidos de vícios".
+O que pode-se concluir é que a anulação do auto de infração se deu por vício formal, ou seja, equívoco no processo de formação do lançamento e, por isso, não há que se falar em inexistência de dívida, tão somente defeito na sua formalização.
+Neste sentido:
+ ..
+Dessa forma, quanto à apontada ofensa aos arts. 173, I e II, do CTN, verifica-se que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
