@@ -1,0 +1,34 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto pelo BANCO PAULISTA SA em face de acórdão do Tribunal de Justiça do Estado do Rio Grande do Norte assim ementado:
+EMENTA: PROCESSO CIVIL. APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. SENTENÇA QUE EXTINGUIU O FEITO, POR ABANDONO DA CAUSA, COM FULCRO NO ART. 267, III, DO CPC/73. AUSÊNCIA DE ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS. APELANTE QUE PLEITEIA A CONDENAÇÃO. OBSERVÂNCIA DO PRINCÍPIO DA CAUSALIDADE. FIXAÇÃOEM 10% (DEZ POR CENTO) DO VALOR DA CAUSA. CONHECIMENTO E PROVIMENTO DA APELAÇÃO.A fixaçãodos honorários advocatícios édevida mesmo em casos de extinçãodo processo sem resolução do mérito, mediante a verificação da sucumbência e aplicação do princípio da causalidade. (REsp 1782078/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/04/2019, DJe 15/04/2019)
+Os embargos de declaração foram rejeitados.
+No recurso especial, o recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 85 do CPC/15 e 884 do CC, sustentando que (a) à luz do princípio da causalidade, a condenação ao pagamento dos honorários advocatícios sucumbenciais deveria recair sobre o recorrido, pois foi quemdeu causa ao ajuizamento da ação de busca e apreensãoe (b) na remota hipótese do Superior Tribunal de Justiça considerar válida a condenação do autor,estar-se-ia dando azo ao enriquecimento ilícito do patrono do recorrido, cuja atuação se limitou à juntada de uma procuração.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+Como se sabe, o recurso especial é recurso excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa.
+Com efeito,colhe-se dos autos que oacórdão recorrido, ao dar provimento à apelação do recorrido,condenou o recorrente ao pagamento de honorários advocatícios sucumbenciais à luz do que dispunha o Código de Processo Civil de 1973 (art. 20, § 3º).
+Apesar disso, as razões recursais se limitaram a apontarviolação ao art. 85 do Código de Processo Civil de 2015.
+Ora, onovo Código de Processo Civil promoveu expressivas mudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+Assim,revela-se deficiente a fundamentação recursal que aponta violação a dispositivo de lei que não se aplica àespécie,hipótese que atraia aplicação, por analogia, do óbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Caberia ao recorrente ter apontado violação, por exemplo,ao art. 20, § 4º, do CPC/73, que cuidava, justamente, da possibilidade de arbitramento dos honorários advocatícios por equidade nas hipóteses em que não há condenação.
+Por outro lado, da maneira como proposta insurgência, ou seja, limitada a questão ao que dispõe o art. 85 do CPC/15,olvidou-se o recorrente do teor do seu§ 6º, que contraria a sua tese: "Os limites e critérios previstos nos §§ 2º e 3º aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito".
+Quanto à apontada violação aoart. 884 do CC, o recurso especial também não pode ser conhecido, pois, sobre a matéria de que trataessanorma, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+Com efeito, não houve o prequestionamento da tese jurídica de que "com o único objetivo de enriquecimento ilícito, o recorrido interpôs apelação buscando a condenação do recorrente em honorários advocatícios".
+Ora,"para que se configure o prequestionamento da matéria, háque se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal" (AgInt no AREsp 1035542/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/06/2017, DJe 23/06/2017), o que inocorre na hipótese dos
+Ainda que superados esses graves óbices, especialmente no tocante à alegada inobservância do princípio da causalidade, presente em ambos os ordenamentos processuais, apretensão recursal não mereceamparo.
+Há que se convir que, por diversas vezes, o próprio autor admitiu que "por um lapso e pelo alto volume de processos, o recorrente deixou de dar andamento ao processo".
+Nesse cenário, "não se pode dizer que o réu deu causa ao ajuizamento da ação, ante o débito alegado, pois o direito de cobrança nem sequer foi examinado. Por isso, é correto imputar à autora a responsabilidade pelos ônus sucumbenciais, pois deu causa à instauração do processo e ocasionou sua extinção por abandono" (AgInt no AREsp 1542033/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe 25/05/2020).
+Por fim, registro que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, o que prejudica a análise do dissídio jurisprudencial.
+Como se não bastasse, o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Não houve o devido cotejo analítico de modo a demonstrar a identidade fática e jurídica entre a hipótese dos autos e os acórdãos paradigmas, sendo certo que a simples transcrição de ementas não é suficiente para a comprovação do dissídio.
+É indispensável que a parte recorrente transcreva os trechos aptos a demonstrar que o aresto paradigma tenha apreciado matéria idêntica à dos autos, à luz da mesma legislação federal analisada pelo acórdão recorrido, dando-lhe solução distinta para que se tenha por configurada a divergência jurisprudencial, oque não se verificou no presente caso.
+Diante do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários advocatíciosdevidos ao(s) advogado(s) da parte recorrida de 10% sobre o valor da causa para 11%.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/73. AÇÃO DE BUSCA E APREENSÃO. EXTINÇÃO DA AÇÃO POR ABANDONO DA CAUSA. ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS. LEGISLAÇÃO APLICÁVEL: CÓDIGO DE PROCESSO CIVIL DE 1973. INSURGÊNCIA RECURSAL QUE APONTA VIOLAÇÃO A DISPOSITIVO DO NOVO CÓDIGO DE PROCESSO CIVIL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO AO ART. 884 DO CC. ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.PRINCÍPIO DA CAUSALIDADE. ÔNUS DA PARTE AUTORA.DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+RECURSO ESPECIAL DESPROVIDO.
