@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Edinei Rodrigues de Souzacontra decisão que negou seguimento a recurso especial, com amparo nas alíneas a e c do permissivo constitucional, em oposição a acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - AGENTE COMUNITÁRIO DE SAÚDE - INCENTIVO FINANCEIRO ADICIONAL - SERVIDOR OCUPANTE DO CARGO DE AJUDANTE GERAL - NÃO COMPROVAÇÃO DO FATO CONSTITUTIVO DO DIREITO ALEGADO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Não se desincumbindo o autor do ônus que lhe competia quanto ao fato constitutivo de seu direito, na forma do art. 373, I, do Código de Processo Civil, de rigor a manutenção da sentença de improcedência do pedido inicial.
+A agravante alegou violação do art. 371 do CPC.
+Decido.
+A Corte de origem assim aferiu a situação dos autos:
+Cuida-se de apelação cível interposta por Ednei Rodrigues de Souza, objetivando a reforma da sentença de improcedência proferida pelo Juízo da 1ª Vara da Comarca de Caarapó nos autos da ação ordinária proposta em desfavor do Município de Caarapó.
+Em síntese, extrai-se da petição inicial que o autor afirma exercer a função de agente comunitário de saúde, porém, aduz que o Município réu não vem lhe reconhecendo o direito à percepção da parcela denominada incentivo financeiro adicional previsto nas Portarias Federais nºs 674/GM/2003, 648/GM/2006, 650/GM/2006 e 2.488/GM/2011.
+Ocorre que o autor, na verdade, é servidor público da municipalidade ocupante do cargo de ajudante geral, consoante externa o termo de compromisso de posse de f. 24. E, em que pese afirmar em suas razões recursais que se encontra emreadaptação exercendo a função de agente de saúde, nada trouxe aos autos para corroborar tal assertiva, conforme decidiu o i. Magistrado sentenciante:
+"Embora seja reconhecido o incentivo financeiro, não ficou demonstrado que o autor exerce a função de Agente Comunitário de Saúde. Os documentos de f. 19-24, apresentados pelo autor, comprovam que seu cargo é o de Ajudante Geral.
+(..) No caso dos autos, a parte autora não comprovou o fato constitutivo de seu direito, qual seja, exercer o cargo de Agente Comunitário de Saúde.
+Percebe-se, portanto, que o autor não fez prova efetiva da ocorrência dos fatos, ainda que minimamente, e desta forma, somente alegar e não trazer nenhuma prova demonstrando os fatos, não condiz com a imposição prevista no artigo 373 do CPC. Por conseguinte, não deve ser julgada procedente a ação" (f. 243/244).
+Logo, afigura-me irrepreensível a decisão recorrida, haja vista que, de fato, a parte autora não se desincumbiu do ônus de provar o fato constitutivo do direito alegado, na forma do art. 373, I, do Código de Processo civil. Inclusive, nem se diga que não lhe foi dada a oportunidade para tanto, eis que, intimada para especificar as provas que pretendiam produzir, pugnou pelo julgamento antecipado da lide (f. 236).
+Ocorre que não se mostra cabível, nesta via, perquirir acerca da razoabilidade da conclusão de que a insurgentenão funcionava como agente comunitário de saúde.Não existe desvio de funçãodevido ao óbice constante da Súmula 7/STJ. Os fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo. Sea violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre:
+Recurso especial.
+Não ofende o princípio da Súmula 7 emprestar-se, no julgamento do especial, significado diverso aos fatos estabelecidos pelo acórdão recorrido. Inviável é ter como ocorridos fatos cuja existência o acórdão negou ou negar fatos que se tiveram como verificados. (AgRg nos EREsp 134.108/DF, Rel. Ministro EDUARDO RIBEIRO, CORTE ESPECIAL, julgado em 2/6/1999, DJ 16/8/1999, p. 36)
+PROCESSUAL CIVIL E ADMINISTRATIVO. REGISTRO NO CRQ. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. INVIABILIDADE DE UTILIZAÇÃO COMO VIA RECURSAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO DEMONSTRADA. EXISTÊNCIA DE MATÉRIA NÃO PREQUESTIONADA. SÚMULAS 282 E 356 DO STF, APLICÁVEIS POR ANALOGIA. VERIFICAÇÃO DA OCORRÊNCIA DE FATO GERADOR. AFERIÇÃO DA ATIVIDADE PREPONDERANTE DE SOCIEDADE EMPRESÁRIA. SÚMULAS 5 E 7 DO STJ.
+ ..
+4. O Tribunal de origem entendeu, à luz do contrato social e das provas dos autos, que as indústrias vinícolas e os associados representados pelo SINDUSVINHO possuem, como objetos sociais, produção, engarrafamento e comercialização de vinhos, ou seja, atividades não inerentes à química, o que afastaria a obrigatoriedade de registro no Conselho Regional de Química. Insuscetível de revisão o referido entendimento, por demandar interpretação de cláusulas contratuais e reexame do conjunto fático-probatório, atraindo a aplicação das Súmulas 5 e 7 do STJ.
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1.425.008/SP, Rel. Min.HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 4/11/2014, DJe 14/11/2014.)
+Ante o exposto, com fulcro no art. 932, III, do CPC de 2015, correspondente ao art. 544, § 4º, I, do CPC de 1973, c/c o art. 1º da Resolução STJ n. 17/2013, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
