@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de petição apresentada por AUTOFORTE VEÍCULOS LTDA na qual argue a existência de vício de representação do Agravado, uma vez que a procuração utilizada pelos patronos da ação foi assinada por representante legal constituído de forma diversa à prevista em seu contrato social, que previa que o administrador não sócio só poderia ser nomeado com a aprovação de 2 (dois) sócios.
+Alega, assim, que a ação foi proposta por pessoa que não possui poderes, sendo nulos todos os atos praticados nos autos até a presente data.
+Requer sejam declarados nulos os atos praticados pelo administrador não sócio.
+É, no essencial, o relatório.
+Não merece acolhida a pretensão do requerente.
+O defeito de forma só deve acarretar a anulação do ato processual impassível de ser aproveitado e que, em princípio, cause prejuízo à defesa dos interesses das partes ou sacrifique os fins de justiça do processo, em consagração ao axioma pas des nullité sans grief.
+A inadequada representação da parte é defeito sanável uma vez que este requisito visa a aferir se a pessoa jurídica, no processo, está manifestando sua vontade societária pela pessoa física dotada desse poder. Neste sentido, a nomeação de representante ou administrador, bem como a própria outorga de procuração por um só dos sócios, em demanda a favor da sociedade, não revela defeito capaz de conduzir à extinção do processo. O sistema processual é informado pelo princípio da instrumentalidade das formas e somente a inutilidade que sacrifica os fins de justiça do processo deve ser declarada. Ademais, intimada, a então sócia, hoje única sócia, da empresa agravada, mesma pessoa que a requerente/agravante alega ter faltado para o ato de nomeação do Sr. Mário Jorge de Melo como administrador não sócio, sana os autos apresentando procuração que outorga ao mesmo administrador os mesmos poderes antes conferidos, inclusive declarando ratificar e convalidar todos os atos processuais ocorridos no processo judicial n. 0710902-20.2018.8.02.0001.
+Pelo exposto, indefiro o pedido.
+Publique-se. Intimem-se.
