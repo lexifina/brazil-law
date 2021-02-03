@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de Pavão contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 310):
+REMESSA NECESSÁRIA - APELAÇÃO CÍVEL - DIREITO ADMINISTRATIVO - CONSELHO TUTELAR - FUNCIONAMENTO - OBRIGAÇÃO DO MUNICIPIO - DISPOSIÇÕES LEGAIS - PRINCÍPIO DALEGALIDADE.- A instalação e o funcionamento dos Conselhos Tutelares estão regidos pelo ECAI2009 e Resoluções que exigem a observância dos Administradores Públicos, sob pena de violação do princípio da legalidade.- O princípio da legalidade é diretriz da atividade administrativa, somente considerando válida a atuação administrativa quando existir legislação que a autorize.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489 e 1.022, II, do CPC/2015.
+Sustenta, em síntese,que o acórdão recorrido foi omisso ao deixar de se pronunciar a respeito do argumento de que o Município agravante nãopossui dotação orçamentária específica para a contratação de motorista exclusivo para o Conselho Tutelar.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não provimento do agravo (fls. 418/422).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera, pois o Tribunal local foi expresso ao asseverar que (fls. 315/316):
+Incabível a argumentação deque a atual Administração Pública não pode ser responsabilizada pela situação em que encontrou o Conselho Tutelar Municipal, pois a disputa de eleição é ato de livre e espontânea vontade do candidato, do qual se presume que se tenha, o candidato, conhecimento da situação administrativa do município. Quem responde pela ação é o Município Apelante e não o Prefeito. O Município em 2012, quando as primeiras denúncias foram feitas, é o mesmo de agora.
+Desse modo, averiguando detalhadamente o feito, apuro que não há qualquer prova no sentido deque o Apelante tenha se desincumbido do ônus de comprovar a concessão de uma infraestrutura mínima ao funcionamento do Conselho Tutelar Municipal,o que engloba o fornecimento de telefonia eficiente e permanente, bem como transporte que atenda ao órgão.
+Mesmo a carência de recursos financeiros devidos pelos Governos Federal e Estadual não foram comprovados no feito. A defesa produzida no feito não passou de argumentações sem comprovações, o que se exige no litígio processual.
+Em contrapartida, a infinidade de ofícios, memorandos, inquérito, fotos e relatos comprovam que a situação do órgão é crítica e merece atenção.
+De outra forma, permanecerão as crianças e adolescentes do Município Apelante e região desassistidas quanto aos seus direitos fundamentais, considerando a inexistência de meios de comunicação, dada a telefonia precária e intermitente, bem como a falta de internet no local de trabalho, inexistindo computador hábil para o trabalho, e a privação de transporte que atende ao público. Ressalvo que tudo isto segue previsto nas disposições legais acima mencionadas.
+Isto posto, não entendo que a sentença impugnada mereça reforma, ocasião em que a confirmo e julgo prejudicado o recurso voluntário.
+Assim, verifica-se não ter ocorrido ofensa aos arts. 489e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
