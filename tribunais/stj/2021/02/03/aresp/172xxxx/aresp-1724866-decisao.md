@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo (e-STJ, fls. 1319-1329) interposto por ELUANA JACOBSON SOUZA, contra decisão do Tribunal Regional Federal da 3ª Região, que não admitiu seu recurso especial, manejado com apoio no art. 105, III, "a", da Constituição Federal.
+Nas razões do apelo excepcional (e-STJ, fls. 1152-1179), a recorrente aponta violação do art. 386, V, do Código de Processo Penal; do art. 33, § 4º, da Lei n. 11.343/2006; e do art. 5º, LVII, da Constituição Federal.
+Alega, em suma, que não foram produzidas as provas necessárias à sua condenação, razão pela qual requer seja absolvida do crime de tráfico de drogas, com a prevalência do princípio da presunção de inocência.
+Subsidiariamente, alega que faria jus à causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, em sua fração máxima.
+Requer, por fim, o provimento do recurso, para que seja reformado o acórdão recorrido, com atribuição de efeito suspensivo.
+Contrarrazões apresentadas (e-STJ, fls. 1280-1293), o recurso especial foi inadmitido pelo Tribunal de origem, por ser intempestivo (e-STJ, fls. 1307-1312). Daí este agravo (e-STJ, fls. 1319-1329).
+O Ministério Público Federal opina pelo desprovimento do agravo (e-STJ, fls. 1404-1411).
+É o relatório.
+Decido.
+A irresignação não prospera.
+No caso, verifica-se que o recurso especial não deve ser conhecido, diante da intempestividade.
+Com efeito, o acórdão recorrido foi considerado publicado no dia 17/9/2019 (e-STJ, fl. 1144), iniciando-se o prazo para a interposição do apelo excepcional em 18/9/2019 (quarta-feira), com término no dia 2/10/2019 (quarta-feira). Todavia, constata-se que o especial foi protocolizado apenas em 4/10/2019 (e-STJ, fl. 1152), havendo expirado, portanto, o prazo legal.
+A contagem em dias corridos decorre da não incidência da norma do art. 219 do CPC/2015 no processo penal, conforme jurisprudência pacificada desta Corte. Por seu caráter elucidativo, citam-se os seguintes precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. ENFERMIDADE DO PATRONO. AUSÊNCIA DE COMPROVAÇÃO. PRAZO DE 15 DIAS CONTÍNUOS. INCIDÊNCIA DO ART. 798 DO CÓDIGO DE PROCESSO PENAL. LEGISLAÇÃO ESPECÍFICA. INAPLICABILIDADE DO NOVO CÓDIGO DE PROCESSO CIVIL. INTEMPESTIVIDADE.
+ ..
+III - A contagem de prazo em dias úteis, prevista no art. 219 do novo CPC, não se aplica ao recurso especial, que versa sobre matéria penal, haja vista a existência de legislação própria e específica regulamentando o assunto. O Código de Processo Penal, em seu art. 798, caput, estabelece que os prazos "serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado", ou seja, nesse caso a contagem do prazo para a interposição do recurso será feita em dias corridos.
+Agravo regimental desprovido."
+(AgRg no AREsp 1.495.602/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 01/10/2019, DJe 09/10/2019).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO APÓS O LAPSO LEGAL. INTEMPESTIVIDADE. NÃO APLICAÇÃO DOS ARTS. 219 E 220 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL DESPROVIDO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, inciso VI, c.c. os arts. 1.003, § 5.º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+2. A jurisprudência desta Corte é firme no sentido de que " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/2/2017, DJe 22/2/2017).
+3. O entendimento do Superior Tribunal de Justiça está fixado no sentido de que "a suspensão do curso dos prazos processuais prevista no art. 220 do NCPC, regulamentada pela Resolução CNJ n. 244, de 19/9/2016, não incide sobre os processos de competência da Justiça Criminal, visto que submetidos, quanto a esse tema, ao regramento disposto no art. 798, caput e § 3º, do CPP. A continuidade dos prazos processuais penais é afirmada, no caso, pelo princípio da especialidade" (AgRg no AREsp 1.070.415/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/05/2017, DJe de 22/05/2017.).
+4. No caso, o acórdão recorrido foi publicado em 11/12/2017 (fl. 471), e o recurso especial foi interposto em 20/01/2018 (fl. 484), quando já havia escoado o prazo para a sua interposição.
+5. Agravo regimental desprovido, e acolhido requerimento do MPF, para determinar o envio de cópia dos autos ao Juízo competente a fim de que adote as providências cabíveis quanto à execução provisória da pena imposta ao Agravante."
+(AgRg no AREsp 1.321.389/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 13/11/2018, DJe 04/12/2018).
+Noutro giro, não prospera a afirmação da defesa de que deveria ter sido considerada a data da postagem na agência dos correios em 02/10/2019 (e-STJ, fl. 1236), porquanto segundo jurisprudência desta Corte Superior, "Afere-se a tempestividade do recurso na data em que protocolado no Tribunal de origem, não na da postagem. Enunciado da Súmula n. 216 do STJ."(AgRg no AREsp 878.304/CE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 20/06/2017, DJe 26/06/2017).
+Em situação análoga à presente, esta Corte Superior assim decidiu, com destaque:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Após o julgamento do AgRg no Ag n. 1.417.361/RS pela Corte Especial deste Superior Tribunal de Justiça, firmou-se o entendimento de ser possível a interposição de recurso especial por meio de protocolo integrado postal, desde que estabelecido convênio entre o Tribunal de Justiça estadual e a Empresa Brasileira de Correios e Telégrafos (EBCT), mediante de norma local, para tal fim.
+2. É ônus da parte comprovar, por intermédio de documento idôneo, a existência de convênio entre o Tribunal local e a EBCT, o que não ocorreu na espécie.
+3. O carimbo aposto na agência dos correios não serve para aferir a tempestividade do recurso interposto na vigência do CPC/1973. Inteligência da Súmula n. 216 do STJ.
+4. Nos termos do enunciado administrativo n. 2 do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+5. Agravo regimental não provido."
+(AgRg no AREsp 925.559/RO, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/10/2018, DJe 16/10/2018).
+Corroboram, ainda, os seguintes julgados:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TEMPESTIVIDADE. AFERIÇÃO. DATA DO PROTOCOLO DA PETIÇÃO NO TRIBUNAL DE ORIGEM. SÚMULA 216/STJ.
+1. A orientação desta Corte é no sentido de que a tempestividade do recurso interposto na vigência do CPC/1973, deve ser aferida pela data do protocolo da petição na Secretaria do Tribunal de origem, e não pela data da postagem na agência dos Correios, nos termos da Súmula 216 do STJ.
+2. A Corte Especial do STJ passou a admitir, para fins de verificação da tempestividade recursal, a data do protocolo postal integrado, desde que haja previsão em norma local. No presente caso, o recurso especial foi protocolizado em 2014, quando vigia a Resolução 747/TJMG, que vedava o uso do protocolo postal para recursos dirigidos aos Tribunais Superiores.
+3. Agravo interno não provido."
+(AgInt no REsp 1703632/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 11/12/2018, DJe 04/02/2019).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AFERIÇÃO DA TEMPESTIVIDADE DO RECURSO ESPECIAL PELA DATA DO PROTOCOLO NA SECRETARIA DO TRIBUNAL DE ORIGEM. IRRELEVÂNCIA DA DATA DA POSTAGEM NOS CORREIOS. SÚMULA 216 DO STJ. AGRAVO REGIMENTAL DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. É irrelevante a data em que a petição foi postada nos Correios, uma vez que a tempestividade do recurso é aferida pelo protocolo da petição na secretaria do Tribunal de origem, e não pela data da entrega na agência dos Correios, sendo imperiosa a incidência da Súmula 216/STJ ao caso, conforme firme posicionamento deste Sodalício: AgRg no AREsp. 154.677/MG, Rel. Min. HERMAN BENJAMIN, DJe 22.8.2012; AgRg no AREsp. 36.060/MG, Min. OG FERNANDES, DJe 2.4.2012; AgRg no AREsp. 221.129/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 24.10.2012;
+2. O Tribunal de origem consignou que o Serviço de Protocolo Postal, instituído por meio da Resolução 642/2010/TJMG, não se aplica às petições de Recursos Especial e Extraordinário, conforme dispõe expressamente o inciso VIII do § 1o. do seu art. 4o., inserido pela Resolução 747/2013/TJMG. Precedentes: AgRg no AREsp. 757.474/RS, Rel. Min. ASSUSETE MAGALHÃES, DJe 13.12.2017; AgRg no AREsp. 186.250/PA, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 11.10.2017.
+3. Agravo Regimental da Contribuinte a que se nega provimento."
+(AgRg no AREsp 751.332/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 12/03/2018).
+Nesse contexto, é inegável a intempestividade do recurso especial, visto que foi protocolizado após o prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029 do Código de Processo Civil/2015, e do art. 798 do Código de Processo Penal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
