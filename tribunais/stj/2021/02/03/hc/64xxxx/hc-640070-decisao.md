@@ -1,0 +1,33 @@
+DECISÃO
+Relatou o Ministro Vice-Presidenteno exercício da Presidência,Jorge Mussi, ao deferir a liminar (fl. 15):
+ ..
+Cuida-se de habeas corpus com pedido liminar impetrado pela DefensoriaPública estadual em favor de RAFAEL LUIZ FERREIRA em que se aponta comoautoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ (AG n.1.670.185-2).
+O paciente cumpre a pena 47 anos e 20 dias de reclusão, em regime inicialfechado, pela prática de roubos majorados e homicídio qualificado.
+Sustenta a impetrante existência de constrangimento ilegal, uma vez que aCorte de origem definiu que a data base para a obtenção de benefícios pelo condenadoé a do trânsito em julgado para a acusação da última condenação.
+Requer, liminarmente e no mérito, seja restabelecida da data-base para aprogressão de regime como o dia da última prisão.
+ ..
+Informações prestadas (fls. 22/38 e 40/48), o Ministério Público Federal ofereceu parecer pela concessão da ordem (fls. 50/54).
+É o relatório.
+Estou de acordo com o parecer oferecido peloSubprocurador-Geral da RepúblicaRodolfo Tigre Maia, cujos fundamentos a seguir transcritos adoto como razão de decidir (fls. 52/54 - grifo nosso):
+ ..
+8. No mérito, a ordem deve ser outorgada.
+9. Como relatado, o Tribunal local entendeu, à unanimidade, que "( ) o termoinicial de contagem do prazo para a concessão de benefícios, nos casos de novacondenação no curso da execução, é o trânsito em julgado da sentença condenatóriasuperveniente. ( ) Impõe-se, portanto, a reforma da decisão recorrida, a fim de fixar a datado trânsito em julgado, para a acusação, da última condenação do Sentenciado como iníciodo prazo exigido à progressão de regime prisional.(  )" (fls. 11/12, g.n.).
+10. De se ver, todavia, que a Terceira Seção do Superior de Justiça aojulgar o REsp nº 1.557.461/SC, sob a relatoria do em. Ministro Rogerio Schietti Cruz,sedimentou o entendimento de que "(  ) a alteração da data-base para concessão denovos benefícios executórios, em razão da unificação das penas, não encontra respaldo legal.Portanto, a desconsideração do período de cumprimento de pena desde a última prisãoou desde a última infração disciplinar, seja por delito ocorrido antes do início daexecução da pena, seja por crime praticado depois e já apontado como falta disciplinargrave, configura excesso de execução (  )" (g.n.). Em consequência, a Cortepassou a considerar como marco inicial, para fins de concessão de novosbenefícios em sede execução penal, a data da última prisão do apenado.Neste diapasão, consolidou-se a jurisprudência hegemônica nessa CorteSuperior, e.g.:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL.SUPERVENIÊNCIA DE NOVA CONDENAÇÃO. UNIFICAÇÃO DAS PENAS.ALTERAÇÃO DA DATA-BASE PARA A CONCESSÃO DE BENEFÍCIOSEXECUTÓRIOS. DATA DO TRÂNSITO EM JULGADO DA NOVA CONDENAÇÃO.IMPOSSIBILIDADE. EXCESSO NA EXECUÇÃO. ENTENDIMENTO FIRMADOPELO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO RECURSOESPECIAL N.º 1.557.461/SC. RECURSO DESPROVIDO.
+1. A Terceira Seção desta Corte Superior, ao apreciar o REsp n.1.557.461/SC, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, julgado em02/02/2018, concluiu que "a desconsideração do período decumprimento de pena desde a última prisão ou desde a última infraçãodisciplinar, seja por delito ocorrido antes do início da execução da pena,seja por crime praticado depois e já apontado como falta disciplinargrave, configura excesso de execução".
+2. Agravo regimental desprovido. (AgRg no HC 499.157/RS, Rel.Ministra Laurita Vaz, Sexta Turma, DJe 27/05/2020, g.n.);
+"AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDOMONOCRATICAMENTE. EXECUÇÃO PENAL. SUPERVENIÊNCIA DE NOVACONDENAÇÃO. UNIFICAÇÃO. DATA-BASE PARA A CONCESSÃO DE NOVOSDIREITOS. DATA DA ÚLTIMA PRISÃO, RESSALVADO, QUANTO AO BENEFÍCIODA PROGRESSÃO DE REGIME, EVENTUAL FALTA GRAVE SUBSEQUENTE.JURISPRUDÊNCIA PACIFICADA DO STJ.
+1. A Terceira Seção do Superior Tribunal de Justiça pacificou oentendimento de que a unificação das penas, por si só, não altera adata-base para concessão de novos benefícios, devendo serconsiderada a data da última prisão ou a data da última infraçãodisciplinar (REsp n. 1.557.461, Ministro Rogerio Schietti Cruz, DJe15/3/2018).
+2. A alteração do termo a quo para fins de concessão de benefíciosdurante a execução da pena constitui afronta ao princípio da legalidadee ofensa à individualização da pena, motivo pelo qual o marcointerruptivo anterior à unificação das penas deve prevalecer. Registre-se, ainda, que, caso o crime cometido no curso da execução tenha sidoapenado como infração disciplinar, seus efeitos já repercutiram no bojodo cumprimento da pena, não podendo, portanto, a superveniência dotrânsito em julgado da sentença condenatória servir para a análise domérito do apenado, sob pena de flagrante bis in idem. Idênticoraciocínio aplica-se ao delito praticado antes do início da execução dapena, porquanto preexistente ao início da execução em curso, sendoestranho ao processo (REsp n. 1.835.094, Ministro Nefi Cordeiro, DJe11/10/2019).
+3. A nova orientação desta Casa alinha-se ao postulado pela defesa.
+4. Agravo regimental improvido". (AgRg no HC 456.329/MT, Rel.Ministro Sebastião Reis Júnior, Sexta Turma, DJe 28/02/2020,g.n.).
+11. Os benefícios de livramento condicional, indulto e comutação da pena,no entanto, tem disciplina diferenciada, eis que "( ) Firmou-se nesta CorteSuperior de Justiça entendimento de que a superveniência de nova condenação nocurso da execução penal acarreta a unificação das penas e a interrupção do prazo paraobtenção de novos benefícios, exceto indulto, comutação da pena e livramentocondicional ( )" (HC 452563/SP, 6ª Turma, Rel Min. Reynaldo Soares daFonseca, DJe 24/08/2018, g.n.).
+12. Deste modo, o entendimento adotado pelo acórdão combatido,no que concerne ao marco inicial para unificação de penas, não está emconsonância com a jurisprudência Superior Tribunal de Justiça, razão pelaqual deve ser reformado nos termos do pleito defensivo.
+ ..
+Ante o exposto, acolhendo o parecer ministerial, confirmo a liminar e concedo a ordem para estabelecer a data daúltima prisão do paciente, ou a data do cometimento da última falta grave,como a data-base para a aquisição de benefícios na execução da pena,observado o disposto nas Súmulas 441, 534 e 535/STJ.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. NOVA CONDENAÇÃO. UNIFICAÇÃO DE PENAS. MARCO INICIAL PARA BENEFÍCIOS. DATA DA ÚLTIMA PRISÃO OU FALTA GRAVE. ENTENDIMENTO FIRMADO NO RESP N. 1.557.461/SC, JULGADO PELA TERCEIRA SEÇÃO.CONSTRANGIMENTO ILEGAL CONFIGURADO. PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
