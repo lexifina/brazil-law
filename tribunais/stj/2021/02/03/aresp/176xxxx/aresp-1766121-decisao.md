@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recursoespecialmanejado pelaFundação Universidade Federal do Rio Grande - FURGcontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 87):
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. AUTO DE INFRAÇÃO. SUSPENSÃO.
+1. A tutela de urgência será concedida quando houver elementos suficientes que atestem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo, nos termos do disposto no art. 300 do CPC.
+2. Demonstrada a probabilidade do direito, consistente na abusividade na lavratura dos autos de infração a ensejar a sua suspensão, determinada a sustação do protesto do título, bem como a retirada do nome e CNPJ da autora de cadastros restritivos de crédito.
+Opostos embargos de declaração, foram rejeitados (fls. 117/124).
+Nas razões do recurso especial, a parte agravanteaponta violação aos arts.38 da Lei 6.830/1980 e 7º da Lei 10.522/2002. Sustenta, em resumo, que: (I) o ajuizamento da ação ordinária sem que haja odepósito integraldo valor não tem o condão de suspender a exigibilidade do crédito; e (II)"somente com garantia idônea e suficiente, quando discutido o débito em ação judicial, a recorrida pode deixar de ser inscrita no CADIN" (fl. 134).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, constata-se queo presente recurso especial foi interposto contra acórdão proferido em agravo de instrumento, por meio do qual o Tribunal local manteve decisão doJuízo singular que deferiu a tutela de urgência no bojo da ação n. 5003588-51.2019.4.04.7101/RS.
+Contudo, cumpre dizer que não é cabível, em regra, recurso especial para reexaminar os fundamentos utilizados pelas instâncias de origem em decisões precárias para deferir ou indeferir medidas liminares ou antecipações de tutela.
+Dessarte, na hipótese dos autos não se está, ainda, diante de"causa decidida em única ou última instância", apta a ensejar a abertura da via especial, o que atrai a incidência da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar").
+Ademais, é certo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de asseverar que não se encontram presentes na espécie os requisitos autorizadores da tutela de urgência, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse vértice:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. ANTECIPAÇÃO DE TUTELA. RECURSO ESPECIAL CONTRA ACÓRDÃO QUE DEFERE OU INDEFERE LIMINAR. EXAME.IMPOSSIBILIDADE. SÚMULA 735/STF.
+1. Na origem, trata-se de Agravo Interno interposto contra decisão monocrática que negou provimento ao Agravo de Instrumento interposto contra decisão que indeferiu pedido de tutela provisória para possibilitar a garantia do crédito tributário por meio de saldo em nome da autora no FIES.
+2. Constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+3. Não se pode conhecer do recurso, porque o Tribunal a quo apenas examinou os requisitos da tutela de urgência pleiteada para concluir pela inexistência do perigo de dano e da probabilidade do direito.
+Nesses termos, aplica-se a Súmula 735 do STF, na hipótese sub judice.
+4. Com efeito, o juízo de valor precário, emitido na concessão de medidas liminares de natureza cautelar ou antecipatória, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da Súmula 735/STF.
+5. Agravo conhecido para conhecer parcialmente do Recurso Especial, apenas em relação ao art. 1.022 do CPC/2015, e, nessa parte, não provido.
+(AREsp 1.581.846/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/11/2019, DJe 3/2/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.DISSOLUÇÃO E LIQUIDAÇÃO DE SOCIEDADE. AFASTAMENTO DE SÓCIO MAJORITÁRIO. ANTECIPAÇÃO DE TUTELA. REQUISITOS CONFIGURADOS.REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, em consonância com o entendimento firmado pelo eg. Supremo Tribunal Federal na Súmula 735, consolidou-se no sentido de ser incabível, em princípio, recurso especial de acórdão que decide sobre pedido de antecipação de tutela, admitindo-se, tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa. Precedentes.
+2. No caso, o Tribunal de origem, com base nos elementos fáticos e probatórios dos autos, concluiu pela presença dos requisitos autorizadores da tutela cautelar. A alteração da conclusão a que chegou a instância ordinária demanda o reexame do acervo fático-probatório dos autos, inviável em sede de recurso especial.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.538.311/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/11/2019, DJe 12/12/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. TUTELA DE URGÊNCIA. LIMINAR DEFERIDA. DECISÃO PRECÁRIA. SÚMULA 735/STF.
+1. A jurisprudência desta Corte é no sentido de que não é cabível recurso especial contra acórdão que defere ou indefere medida liminar ou antecipação dos efeitos da tutela, haja vista a natureza precária da decisão e a necessidade de revisão dos elementos probatórios dos autos. Incidência das Súmulas 735/STF e 7/STJ.Precedentes: AREsp 1.522.423/ES, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11/10/2019; AgInt no AREsp 1.447.307/RJ, Rel. Min.Francisco Falcão, Segunda Turma, DJe 09/09/2019; AgInt no AREsp 771.526/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 23/2/2017; AgInt no AREsp 975526/PB, Primeira Turma, Rel. Ministro Napoleão Nunes Maia Filho, DJe 11/10/2018.
+2. Apenas a violação direta do dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir sobre a interpretação dos preceitos legais que dizem respeito ao mérito da causa (AgRg no AREsp 233.015/RS, Rel. Ministro Humberto Martins, Segunda Turma, DJe 25/10/2012).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.398.413/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/3/2020, DJe 25/3/2020)
+ANTE O EXPOSTO, nego provimento ao agravo emrecurso especial.
+Publique-se.
