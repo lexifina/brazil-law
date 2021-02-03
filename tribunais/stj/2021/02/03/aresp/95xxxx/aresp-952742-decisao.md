@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto pelo SINDICATO DOS EMPREGADOS EM ESTABELECIMENTOS BANCÁRIOS E FINANCIARIOS DE BAURU E REGIÃO contra decisão de inadmissibilidade de recurso especial, com fundamento naalínea"a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (e-STJ fls. 288/289):
+MANDADO DE SEGURANÇA - IRPF - PAGAMENTO A TÍTULO DE "ABONO ÚNICO" (LIBERALIDADE DO EMPREGADOR), POR OCASIÃO DE ACORDO COLETIVO DE TRABALHO : TRIBUTAÇÃO LEGÍTIMA - DENEGAÇÃO DA SEGURANÇA
+1. Decorre a tributação do Imposto de Renda - IR da conquista, pela pessoa, de acréscimo patrimonial pecuniário (este o interessante ao particular) decorrente ou de proventos de qualquer natureza, cláusula residual expressiva, ou de renda, esta fruto do trabalho, do capital ou da combinação de ambos, art. 43, do CTN.
+2. Também estrutural ao tributo em questão, por sua abrangência ou força impositiva, consagrado resta somente não incida sua força, embora um ou outro signo de riqueza a se verificar em concreto, quando a lei assim o exprimir, exemplos muitos traduzidos nos incisos do art. 6º, da Lei 7.713/88.
+3. Têm as Cortes Pátrias firmado entendimento pela não -tributação, sob tal rubrica, dos ganhos fruídos em tom de recompensa, assim de cunho indenizatório, quando impossibilitado (por circunstância alheia à vontade do contribuinte) o gozo, por exemplo, das férias.
+4. Põe-se o caso vertente a diferir do cenário supra mencionado, pois a postular o impetrante reconhecimento de natureza indenizatória a verba (abono) advinda(o) de Acordo Coletivo de Trabalho, aliás sob o fundamento, conforme seu recurso, de compensar o não -reajuste salarial, isso mesmo ..
+5. Evidentemente que a paga sob tal rubrica a ensejar tributação, afigurando-se incabível a exclusão, de referido montante, da pertinente incidência de IR, extraindo-se nítida liberalidade por parte do empregador, no tocante ao proclamado "Abono Único", ao conceder enfocada vantagem,portanto inexistente suporte fático a escusar os contribuintes do pagamento do pertinente Imposto de Renda. Precedentes.
+6. Consoante todo o cenário encartado nos autos, sepulta de insucesso a si mesmo o pleito demandante/apelante, ante a natureza salarial da verba denominada "Abono Único", afigurando-se legítima a incidência de Imposto de Renda sobre tais cifras, com efeito.
+7. Não provimento à apelação. Improcedência ao mandamus.
+Não foram apresentados embargos de declaração.
+No especial, a parte alega, em síntese, violação das Súmulas125 e 136 do STJ,do art. 6º, V, da Lei n. 7.713/1988e do art. 43, incisos I e II, do CTN, ao argumento de que não incide o Imposto de Renda sobre a verba recebida, em razão da sua natureza estritamente indenizatória, para recompensar os representados ante a não implantação do Plano de Cargos e Salários.
+Sustenta que "falta a referidas verbas o requisito da periodicidade. Em outras palavras, a verba recebida a título de indenização não são fontes permanentes, pois não são concedidas por um período regular de tempo, mais tão somente para recompensar um dano sofrido pelos bancários" (e-STJ fl. 302).
+Contrarrazões apresentadas àse-STJ fls. 315/317.
+Parecer do MPF pelo não provimento do recurso especial (e-STJ fls. 401/420).
+Passo a decidir.
+De início, registro que, conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça(Enunciado Administrativo n. 2).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de mandado de segurança por meio do qual o SINDICATO DOS EMPREGADOS EM ESTABELECIMENTOS BANCÁRIOS E FINANCIARIOS DE BAURU E REGIÃO busca provimento jurisdicional que impeça a autoridade impetrada de exigir o recolhimento do Imposto de Renda incidente sobre o valor pago aos funcionários da Caixa Econômica Federal a título de abono único.
+Na primeira instância, a segurança foi denegada.
+Irresignada, a impetrante interpôs recurso de apelação, não provido pelo Tribunal de origem. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 285/287):
+Como de sua essência, decorre a tributação do Imposto de Renda - IR da conquista, pela pessoa, de acréscimo patrimonial pecuniário (este o interessante ao particular) decorrente ou de proventos de qualquer natureza, cláusula residual expressiva, ou de renda, esta fruto do trabalho, do capital ou da combinação de ambos, art. 43, do CTN.
+Também estrutural ao tributo em questão, por sua abrangência ou força impositiva, consagrado resta somente não incida sua força, embora um ou outro signo de riqueza a se verificar em concreto, quando a lei assim o exprimir, exemplos muitos traduzidos nos incisos do art. 6º, da Lei 7.713/88.
+Da mesma forma, têm as Cortes Pátrias firmado entendimento pele não -tributação, sob tal rubrica, dos ganhos fruídos em tom de recompensa, assim de cunho indenizatório, quando impossibilitado (por circunstância alheia à vontade do contribuinte) o gozo, por exemplo, das férias.
+Todavia, põe-se o caso vertente a diferir do cenário supra mencionado, pois a postular o impetrante reconhecimento de natureza indenizatória a verba (abono) advinda(o) de Acordo Coletivo de Trabalho, fls.
+06, item II, e fls. 07, item IV, aliás sob o fundamento, conforme seu recurso, de compensar o não -reajuste salarial, isso mesmo..
+Ora, evidentemente que a paga sob tal rubrica a ensejar tributação, afigurando-se incabível a exclusão, de referido montante, da pertinente incidência de IR, extraindo-se nítida liberalidade por parte do empregador, no tocante ao proclamado "Abono Único", ao conceder enfocada vantagem, portanto inexistente suporte fático a escusar os contribuintes do pagamento do pertinente Imposto de Renda.
+Neste sentido, a v. jurisprudência, in verbis:
+ ..
+Por conseguinte, consoante todo o cenário encartado nos autos, sepulta de insucesso a si mesmo o pleito demandante/apelante, ante a natureza salarial da verba denominada "Abono Único", afigurando-se legítima a incidência de Imposto de Renda sobre tais cifras, com efeito.
+Portanto, refutados se põem os demais ditames legais invocados em pólo vencido, tais como o artigo 43, CTN, que objetivamente a não socorrer, com seu teor e consoante este julgamento, ao mencionado pólo (artigo 93, IX, CF).
+Ante o exposto, pelo improvimento à apelação.
+Pois bem.
+Segundo a jurisprudência deste Superior Tribunal de Justiça, entende-se que "incide Imposto de Renda sobre as verbas recebidas a título de abono salarial, concedidas por meio de convenção coletiva em substituição a reajuste de vencimentos, porquanto configurada sua natureza salarial"(AgRg no Ag 1.261.172/PI, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 03/05/2016, DJe 16/05/2016).
+Ainda nesse sentido são os julgados:
+PROCESSUAL CIVIL. TRIBUTÁRIO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IRRF. ABONO SALARIAL CONCEDIDO POR MEIO DE CONVENÇÃO COLETIVA. NATUREZA SALARIAL. INCIDÊNCIA DO TRIBUTO. PRECEDENTES. MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC. AFASTAMENTO.
+1. Inexiste violação dos arts. 458 e 535 do CPC quando a prestação jurisdicional é dada na medida da pretensão deduzida.
+2. Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, a despeito da oposição dos embargos de declaração. Incidência da Súmula 211/STJ.
+3. A jurisprudência desta Corte há muito se cristalizou no sentido de que as verbas recebidas a título de abono salarial em virtude de acordo ou convenção trabalhista possuem natureza remuneratória, porquanto substituem reajuste salarial e, assim, constituem fato gerador do imposto de renda, sendo passíveis, portanto, de incidência do imposto de renda na fonte.
+4. Precedentes: AgRg no REsp 1110000/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 17.6.2010, DJe 30.6.2010; REsp 1089066/PR, Rel. Min. Castro Meira, Segunda Turma, julgado em 10.2.2009, DJe 2.3.2009; REsp 974.631/SP, Rel. Min. Teori Albino Zavascki, julgado em 12.2.2008; AgRg no REsp 885.006/MG, Rel. Min.
+Humberto Martins, Segunda Turma, julgado em 17.5.2007, DJ 31.5.2007, p. 424; AgRg no Ag 764.115/PI, Rel. Min. Castro Meira, DJ de 25.8.2006, p. 326.
+5. Arreda-se a multa aplicada pelo Tribunal de origem em embargos declaratórios, quando estes não possuem o necessário caráter protelatório a autorizar a manutenção da penalidade insculpida no art. 538, parágrafo único, do Código de Processo Civil.
+Recurso especial conhecido em parte e provido.
+(REsp 1.244.365/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/04/2011, DJe 26/04/2011).
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA. ASSOCIAÇÃO. IMPOSTO SOBRE A RENDA. ABONO CONCEDIDO EM DISSÍDIO COLETIVO. NATUREZA SALARIAL. AQUISIÇÃO DE RENDA. INCIDÊNCIA DO REFERIDO IMPOSTO.
+1. Emerge dos autos que a ora agravante ajuizou ação ordinária, objetivando o reconhecimento do direito de seus associados, funcionários da CEF no Estado de São Paulo, de reaver os valores recolhidos a título de imposto de renda, retido na fonte, incidente sobre abono concedido em Acordo Coletivo de Trabalho.
+2. O abono concedido em razão de dissídio coletivo de trabalho tem natureza remuneratória, razão pela qual sobre ele incide o Imposto de Renda. Precedentes: AgRg no Ag 1010975/DF, Rel. Ministra Denise Arruda, Primeira Turma, DJe 11/06/2008; AgRg no Ag 764.115/PI, Rel.
+Ministro Castro Meira, Segunda Turma, DJ 25/8/2006.
+3. Quanto aos honorários advocatícios, considerando deficiente a fundamentação, por não ter indicado, com clareza e objetividade, em que consiste a ofensa à lei federal, incide, na espécie, a Súmula 284/STF.
+4. Agravo regimental não provido.
+(AgRg no Ag 1.267.516/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 12/04/2011, DJe 15/04/2011).
+Forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", que é cabível quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
