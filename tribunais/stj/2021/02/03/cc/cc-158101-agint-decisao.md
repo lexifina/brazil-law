@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interno interposto por MARIO BRUNIcontra decisão da lavra deste signatário, acostada às fls. 348/350, que conheceu do presente conflito e, por conseguinte, declarou a competência do r. juízo da 1ª Vara Empresarial do Rio de Janeiro/RJ.
+Em resumo, trata-se de conflito positivo de competência, instaurado por GOL LINHAS AÉREAS S.A e GOL LINHAS AEREAS INTELIGENTES S/A, envolvendo o Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro/RJ, no qual se processa a recuperação judicial da VARIG S/A e outros (arrematada pelas suscitantes), e o Juízo da 2ª Vara do Trabalho de Salvador/BA, onde tramita a ação reclamatória n.º 0109000-85.2008.5.05.0002, movida por Mario Bruni.
+As ora suscitantes sustentaramque, apesar de existir decisão do juízo da recuperação judicial, declarando não ter havido a sucessão empresarial na hipótese, o magistrado trabalhista está lhe atribuindo a responsabilidade por obrigações das empresas do Grupo VARIG. Aduziram, nesse contexto, que "(..) há bloqueio nas contas das empresas Suscitantes para garantir as execuções, em alguns casos, na iminência de serem levantados os valores." (fls. 1/8)
+Em caráter liminar, pugnaram pelo sobrestamento do processo n.º 0109000-85.2008.5.05.0002, ajuizado por Mario Bruni, em trâmite no Juízo da 2ª Vara do Trabalho de Salvador/BA, bem como a designação do Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro/RJ para a apreciação de questões urgentes.
+No mérito, requereram seja declarada a competência do Juízo da recuperação judicial.
+Às fls. 258/260 este signatário deferiu o pedido liminar para determinar o sobrestamento do processo 0109000-85.2008.5.05.0002, em curso no Juízo da 2ªVara do Trabalho de Salvador/BA, e designar o Juízo de Direito da 1.ª Vara Empresarial do Rio de Janeiro/RJ para resolver, em caráter provisório, as medidas urgentes, até ulterior deliberação deste relator.
+Opostos embargos de declaração (fls. 275/306), esses foram rejeitados às fls. 321/322.
+Interposto agravo interno (fls. 333/342), estes aguardam julgamento.
+Prestadas as informações (fls. 269/273), o MPF opinou pelo reconhecimento da competência do r. juízo da recuperação judicial. (fls. 327/331)
+Às fls.348/350, este signatárioconheceu do presente conflito e, por conseguinte, declarou a competência do r. juízo da 1ª Vara Empresarial do Rio de Janeiro/RJ, tendo sido declarada a prejudicialidade doagravo interno de fls. 333/342.
+Inconformado, o ora agravante - MARIO BRUNI - sustenta, em suas razões, que: i) "(..)não se trata de ação demandada contra empresa recuperanda ou falida, que possa dar ensejo ao seu processamento na vara empresarial onde corre o processo de recuperação."; ii) "(..)Aqui, a devedora é a própria GOL LINHAS AÉREAS S/A que SUCEDEU O CONTRATO DE TRABALHO DO RECLAMANTE ORA AGRAVANTE, e não por que teria sucedido a VRG Linhas Aéreas, nos termos do art. 10 e 448 da CLT, pois para ela trabalhou após a arrematação e, também, teve o contrato desfeito pela GOL, conforme Termo de Rescisão apontado no acórdão do TST da Reclamação Trabalhista Originária, que instruiu, mediante certidão, a petição do recurso horizontal de embargos.";iii)"(..)o vínculo do Autor foi reconhecido como único, pois prestou serviços a GOL, ex VRG Linhas Aéreas mesmo após a arrematação dos bens da VARIG, sem solução de continuidade e, inclusive, foi a suscitante quem rescindiu o contrato de trabalho do embargante e arcou com o ônus do pagamento das verbas rescisórias."
+Pediu, assim, a reconsideração do julgado ou sua apresentação em mesa para julgamento colegiado. (fls. 359/368)
+A impugnação foi juntada às fls. 372/378.
+É o relatório.
+Decisão.
+Ante as razões do agravo interno, reconsidera-se a decisão de fls. 348/350, para não conhecer do presente conflito de competência.
+1. Isso porque,consoante orientação pacífica da eg. Segunda Seção destacadamente no enunciado da Súmula 480/STJ,não há conflito de competência quando o direcionamento da execução trabalhista atinge empresas do mesmo grupo econômico que não estão submetidas ao regime de recuperação judicial.
+Nessa linha, confira-se:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. JUÍZO TRABALHISTA E JUÍZO FALIMENTAR. EXECUÇÃO. RESPONSABILIDADE PELA DÍVIDA. QUESTÃO DECIDIDA NO ÂMBITO DA JUSTIÇA TRABALHISTA. INEXISTÊNCIA DE CONFLITO ENTRE OS JUÍZOS SUSCITADOS.
+1. O processamento da execução de sentença trabalhista em relação à sociedade com personalidade jurídica distinta daquela que adentrou a fase de recuperação ou logrou a quebra - ainda que do mesmo Grupo Econômico -, e que não está em processo de reorganização ou submetida a concurso universal, não viola o juízo atrativo da falência, não se verificando, assim, conflito entre os juízos suscitados.
+2. Precedentes específicos desta Corte.
+3. Entendimento em conformidade com o enunciado n.º 480 da Súmula do STJ.
+4. AGRAVO REGIMENTAL NÃO PROVIDO.
+AgRg no CC 123.860/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 28/08/2013, DJe 04/09/2013.
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - JUÍZO UNIVERSAL E JUÍZO TRABALHISTA - RESPONSABILIZAÇÃO DE OUTRA EMPRESA DO GRUPO ECONÔMICO, SEM AFETAR O ACERVO PATRIMONIAL DA SOCIEDADE EM RECUPERAÇÃO/FALÊNCIA - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO INCIDENTE. INSURGÊNCIA DA SUSCITANTE.
+1. Não há conflito de competência quando o direcionamento da execução trabalhista atinge empresas do mesmo grupo econômico que não estão submetidas ao regime de recuperação judicial.
+1.1.Precedentes: AgRg no CC 140.410/DF, Rel. Min. Maria Isabel Gallotti, DJe 01/10/2015; AgRg no CC 106.998/SP, desta Relatoria, DJe 05/11/2015; AgRg no CC 123.860/SP, Rel. Min. Paulo de Tarso Sanseverino, DJe 04/09/2013.
+2. Dirigida a execução de sentença trabalhista contra sociedade com personalidade jurídica distinta daquela que obteve o deferimento do pedido de processamento da recuperação não resta violado o juízo atrativo, sendo de rigor a manutenção da demanda naquela justiça especializada trabalhista, ensejando-se, por conseguinte, o não conhecimento do presente conflito de competência, ante a expressa redação do art. 66 do NCPC/2015. Precedentes da Segunda Seção.
+3. Agravo interno desprovido.
+AgInt no CC 157.835/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 22/05/2019, DJe 30/05/2019.
+No mesmo sentido:AgRg no CC 106.998/SP, desta Relatoria, DJe 05/11/2015; AgRg no CC 123.860/SP, Rel. Min. Paulo de Tarso Sanseverino, DJe 04/09/2013; EDcl no CC 100.592/MG, Rel. Min. João Otávio de Noronha, DJe 03/09/2010; Agint no CC 173.060/RJ, Rel. Min. Maria Isabel Gallotti, julgado em 29/09/2020.
+Na hipótese, verifica-se da leitura da decisão de fl. 292/306, que o vínculo trabalhista do ora agravante permaneceu hígido em relação à ora agravada - GOL LINHAS AÉREAS - de modo a afastar a existência de conflito positivo de competência, a teor do art. 66 do CPC/15.
+2. Do exposto, com fundamento no art. 955, do NCPC c/c Súmula 568/STJ, após reconsiderar a decisão de fls. 348/350, não conheço do presente conflito de competência.
+Publique-se. Intimem-se. Após, arquivem-se.
