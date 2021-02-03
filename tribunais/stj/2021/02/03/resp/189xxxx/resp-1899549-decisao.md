@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto porBugio Agropecuária Ltda., com amparo no art. 105, III, da CF, em oposição a acórdão do TRF da 4ª Regiãoementado nos seguintes termos (e-STJ, fl. 122):
+TRIBUTÁRIO. MANDANDO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. LIMITAÇÃO. 20 SALÁRIO MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. A limitação de 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei nº 6.950/81, também foi revogada junto com o caput do mesmo artigo, pelo Decreto-Lei nº 2.318/86, uma vez que não é possível subsistir em vigor o parágrafo, estando revogado o artigo correspondente.
+É o relatório.
+Verifica-se que a matéria deduzida no presente recurso especial ("Definir se o limite de 20 (vinte) salários mínimos é aplicável à apuração da base de cálculo de "contribuições parafiscais arrecadadas por conta de terceiros", nos termos do art. 4º da Lei n. 6.950/1981, com as alterações promovidas em seu texto pelos arts. 1º e 3º do Decreto-Lei n. 2.318/1986") foi afetada para julgamento sob a sistemática do repetitivo, Tema 1.076, nos autos do REsp 1.898.532/CE e do REsp 1.905.870/PR, de relatoria da Ministra Regina Helena Costa, submetidos ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC.
+Nesse contexto, faz-se necessária a devolução dos autos à Corte regionalpara a observância da sistemática dos recursos repetitivos, consoante determinam os arts. 1.040 e 1.041 do Código de Processo Civil, que possuem a seguinte redação:
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+ ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.
+§ 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se
