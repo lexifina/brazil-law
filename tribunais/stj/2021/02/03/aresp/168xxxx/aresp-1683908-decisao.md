@@ -1,0 +1,27 @@
+DECISÃO
+ADRIANO MACIEL PEDROSOagrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação n.0001360-24.2017.8.26.0535.
+Nas razões do especial, a defesa apontou a violação dos arts.593, III, "d", e § 3º, 208, in fine, ambos do Código de Processo Penal, 23, II, 25 e 18, I, todos do Código Penal. Aduziu que a decisão dos jurados, que condenou o agente por homicídio simples, é manifestamente contrária à prova dos autos, porque o réu agiu em legítima defesa.
+Afirmou: "as testemunhas, estas sim, compromissadas, atestaram o perfil da vítima e foram descartadas pelo Nobre Julgador ao passo que informantes, interessados no deslinde, e atestaram o perfil do recorrente. Estão em pé de igualdade, salvo pelo compromisso de dizer a verdade, e foram valoradas de maneira injustificadamente diferente" (fl. 762).
+Requereu a anulação da sentença.
+O Tribunal estadual não admitiu o recurso pelo óbice das Súmulas n. 7 do STJ e 284 do STF, por falta de prequestionamento e pela alegação de infringência de dispositivo constitucional, o que ensejou esta interposição.
+O Ministério Público Federal opinou pelo não provimento do agravo (fls. 853-856).
+Decido.
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, motivo peloqual não merece conhecimento.
+A Corte local não admitiu o REsp porque as razões recursais veiculavam pretensão de reconhecer inobservância de princípios e dispositivos constitucionais,estavam fundamentadas deficientemente (Súmula n. 284 do STF),demandavam revolvimento fático-probatório para examinar o pleito defensivo (Súmula n. 7 do STJ), além da matéria não haver sido prequestionada.
+Oagravanterefutou os óbices de admissibilidade conforme se vê (fls.819-820, grifei):
+Ocorre que o referido Recurso Especial, no presente caso, em nada se assemelha àquele citado na r. decisão que não o admitiu.
+Desta forma, a manutenção da decisão que impede o seguimento do Recurso Especial, retirará do agravante a possibilidade exaurir a sua capacidade de defesa nas ações realizadas em seu desfavor.
+Em que pese toda a capacidade Técnica do Desembargador que não admitiu o seguimento do Recurso Especial, ousamos divergir da sua decisão.
+Os requisitos exigidos pelo artigo acima citado foram demonstrados a sobejo. A exposição fática foi amplamente demonstrada nas razões recursais, bem como a exposição do direito que foi violado e faria jus o Agravante.
+A Defensoria Técnica destacou com veemência a violação disposto na norma federal, violação essa que foi amplamente discutida desde o primeiro piso judicial, levantadas e atacadas pela defesa do Agravante.
+Na mesma toada, as razões de pedir do Agravante sobre a reforma da decisão recorrida foi evidenciado nas razões recursais especiais, de forma que os requisitos exigidos no artigo 1.029 da Lei 13.105/15 (Código de Processo Civil) foram preenchidos.
+Cumpre-nos ressaltar que destacamos exatamente o ponto da controvérsia gerada, de modo que ficou claramente destacada a compreensão do reclamo defensivo.
+A única pretensão desta Assistência da Acusação (sic), que é direito subjetivo do ofendido e de seus familiares e não deve ser atentada ou deturpada, é da verificação de violações à Lei Federal.
+Por mais que a Súmula nº 7/STJ vigore e exerça efeitos jurídicos na jurisdição pátria, temos que sua interpretação e aplicação está por se dar de maneira exacerbada: a pretensão de mero reexame de fatos e prova deve ser rechaçada, sim, quando for um fim em si mesmo.
+Agora, se for meio para se analisar as violações legais, e, mais ainda, for o ÚNICO meio para se analisar as violações legais reclamadas, que se analise a prova e que se cumpra a importantíssima função constitucional atribuída a este E. STJ porque a Ela (Constituição) todos devemos absoluta submissão e perpétua tutela. É este o nosso juramento.
+O formalismo exagerado fere o direito, e porisso não poderemos nos calar.
+Inicialmente, constato que a defesa nada mencionou acerca da inadequação de se alegar violação dedispositivo constitucional.Quanto aos demais óbices, formulouassertivas genéricas- e, portanto, insuficientes-de que o tema estava prequestionado ede que haveria fundamentado suficientemente as razões recursais. O agravante deve expor, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos.
+Por fim, no tocante à Súmula n. 7 do STJ, a parte nem sequer a refutou e reiterou que o exame das provas dos autos seria "o único meio para se analisaras violações legais reclamadas". Com efeito, o recurso especial deve apresentar uma questão federal, e não mera irresignação acerca das especificidades da causa decidida pelas instâncias ordinárias, a quem compete a cognição vertical do caderno fático-probatório do processo.
+Assim, é inegável que a parte não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 desta Corte Superior, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
