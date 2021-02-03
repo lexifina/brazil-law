@@ -1,0 +1,16 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo do Terceiro Departamento de Inquéritos Policiais e Polícia Judiciária (DIPO 3) do Foro Central Criminal da Barra Funda, Comarca da Capital/SP, no processo nº 1520235-60.2020.8.26.0050, converteu em preventiva a prisão temporária dos pacientes, ante o crime do artigo 157, § 2º, inciso II (roubo com causa de aumento alusiva ao concurso de pessoas), do Código Penal. Destacou materialidade e indícios de autoria, mencionando imagens de câmera de segurança do momento do crime. Reportando-se ao fato de o veículo utilizado ser de propriedade de Gabriel e ao interrogatório policial de Davy, no que confessou o crime, assentou necessária a custódia para garantia da ordem pública.
+    Chegou-se ao Superior Tribunal de Justiça com o habeas corpus nº 626.466/SP, inadmitido pelo Presidente.
+    O impetrante sustenta a insubsistência dos fundamentos da decisão, dizendo-a lastreada na gravidade abstrata do crime. Sublinha não atendidos os requisitos do artigo 312 do Código de Processo Penal.
+    Requer, no campo precário e efêmero, o afastamento. No mérito, busca a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 1º de fevereiro corrente, revelou encontrar-se o processo-crime na fase de instrução.
+    2. A análise do pronunciamento por meio do qual determinada a prisão preventiva indica haver sido considerada a imputação. Inexiste a custódia automática, ante o crime supostamente cometido, levando à inversão da ordem do processo-crime, que direciona, ante o princípio constitucional da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. A materialidade do crime e os indícios de autoria são elementos neutros, insuficientes a respaldarem o argumento relacionado à preservação da ordem pública. Essa fica vinculada à observância da legislação em vigor, devendo a prisão basear-se no artigo 312 do Código de Processo Penal. O combate à delinquência não há de fazer-se a ferro e fogo, mas mediante política criminal normativa. O Juízo, aludindo ao fato de Gabriel ser o proprietário do veículo e à confissão, em sede policial, de Davy, realçou a necessidade de garantir-se a ordem pública. Partiu da capacidade intuitiva, olvidando que a presunção seria de postura digna, ante o fato de acharem-se os pacientes submetidos aos holofotes da Justiça. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvarás de soltura a serem cumpridos com as cautelas próprias: caso os pacientes não estejam presos por motivo diverso da custódia preventiva formalizada no processo nº 1520235-60.2020.8.26.0050 da Trigésima Segunda Vara Criminal da Comarca da Capital. Advirtam-nos da necessidade de permanecerem com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informarem possível transferência e de adotarem a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 3 de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
