@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Município de Meruoca com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fls. 124/125):
+EMENTA: REEXAME NECESSÁRIO E APELAÇÃO CÍVEL. ADMINISTRATIVO. AÇÃO ORDINÁRIA DE COBRANÇA. SERVIDOR PÚBLICO MUNICIPAL.ADICIONAL POR TEMPO DE SERVIÇO (ANUÊNIO). EXPRESSA PREVISÃO NO ART. 116, XXIII, DA LEI MUNICIPAL Nº 584/2003.PRESCRIÇÃO QUINQUENAL. INCIDÊNCIA DA SÚMULA 85 DO STJ. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 8º, DO CPC.REMESSA DESPROVIDA. APELAÇÃO PARCIALMENTE PROVIDA.
+1.Nos termos do art. 116, XXIII, da Lei Municipal nº 589/2003, o servidor do Município de Meruoca faz jus ao adicional de 1% (um por cento) na remuneração, por anuênio de tempo de serviço.
+2.Como, no direito brasileiro, em regra, as leis não retroagem, dependendo a retroatividade de previsão expressa, inexistente no caso em tela, a Lei Municipal nº 584/2003 começou a produzir efeitos com sua entrada em vigor em 19/9/2003.
+3.Incidência da Súmula 85 do STJ:"Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação." 4.Como a autora foi admitida no serviço público municipal em 1º/2/1998, faz jus à incorporação dos anuênios a partir de 19/9/2004, após um ano de tempo de serviço, contado do início da vigência da lei que instituiu o adicional. No entanto, ela só tem direito ao pagamento das parcelas vencidas a partir de janeiro de 2011, cinco anos antes da propositura da ação.
+5.Sendo o valor da causa muito baixo, impõe-se a fixação dos honorários sucumbenciais por apreciação equitativa, conforme estabelecido no § 8º do art. 85 do CPC.
+6.Remessa necessária e apelação conhecidas.
+Desprovida a remessa e parcialmente provido o apelo.
+Opostos embargos declaratórios, foram rejeitados (fls. 161/167).
+A parte recorrente aponta, além de dissídio jurisprudencial, violação aoart. 1º do Decreto 20.910/32. Sustenta a ocorrência da prescrição no caso, sob o argumento de que "é pacifico na jurisprudência a aplicação da prescrição quinquenal sobre os efeitos financeiros decorrentes da retificação do percentual da gratificação adicional por tempo de serviço concedida pela Administração.Na hipótese, foi implantado para a servidora o anuênio em 2015, e a ação requerendo valores e atualização de percentual protocolada em 2016, razão pela qual os direitosanteriores a 2011 estariam prescritos, inclusive a implatanção de percentual acessório ao Direito perseguido." (fls. 180/181).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, o Tribunal de origem afastou a ocorrência da prescrição do fundo de direito, sob a seguinte fundamentação (fls. 127/128):
+A autora foi admitida como servidora efetiva no serviço público municipal em 1º/2/1998, mas como já dito, a Lei nº 584/2003 entrou em vigor em 19/9/2003 e, em consequência, o pagamento do primeiro anuênio só será devido a partir de 19/9/2004.
+O julgador singular aplicou a prescrição quinquenal, afirmando que o recebimento de vantagens pecuniárias configura-se relação de trato sucessivo, sendo aplicável à espécie a Súmula 85 do STJ e o art. 1º do Decreto nº 20.910/32. Entendo oportuno o esclarecimento acerca da aplicação dos dispositivos referidos.
+O art. 1º do Decreto 20.910/32 dispõe que:
+(..)
+No caso em tela, temos uma relação de trato sucessivo em que não houve negação do próprio direito reclamado. Assim não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação em 15/1/2016.
+Isso quer dizer que a servidora autora tem direito à incorporação de um anuênio a cada ano de serviço público efetivamente prestado, ou seja, a partir de 19/9/2004, um ano após a vigência da lei que instituiu o adicional, mas só tem direito ao pagamento das parcelas vencidas a partir de janeiro de 2011, cinco anos antes da propositura da ação. Desse modo, em janeiro de 2011 ela faz jus ao pagamento do percentual de 7% pois já terá completado 7 anuênios; de 8% a partir de 19/9/2011 quando terá completado 8 anuênios; de 9% a partir de 19/9/2012 e assim sucessivamente.
+Destarte, o entendimento adotado pelo Tribunal a quo encontra-se em harmonia com a jurisprudência desta Corte, firme no sentido de queas ações em que se discute o recebimento de vantagem pecuniária, inexistindo manifestação expressa da Administração Pública negando o direito reclamado, não ocorre a prescrição do chamado fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu a propositura da ação, ficando caracterizada relação de trato sucessivo (Súmula 85/STJ).
+Em reforço, confiram-se:
+ENUNCIADO ADMINISTRATIVO Nº 2/STJ. ADMINISTRATIVO. SERVIDOR PÚBLICO.ADICIONAL DE TEMPO DE SERVIÇO. JORNADA DUPLA. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA.
+1. "Os profissionais da área de saúde que optam pelo regime de trabalho de 40 horas semanais, nos termos da Lei n. 9.436/97, possuem o direito à incidência do adicional de tempo de serviço em relação aos dois turnos de 20 horas, por força do art. 1º, § 3º, do referido diploma legal, em convergência ao art. 4º, §§ 1º ao 3º, da Lei n. 8.216/91 e ao conceito de vencimentos" Precedentes.
+2. "Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior a propositura da ação". Súmula nº 85/STJ.
+3. Recurso especial não provido.
+(REsp 1865032/PB, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/05/2020, DJe 01/06/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO INATIVO. MUNICÍPIO DE SANTOS. PLANO DE CARGOS, CARREIRAS E SALÁRIOS. CÁLCULO DO ADICIONAL POR TEMPO DE SERVIÇO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ. APLICAÇÃO.
+1. A orientação jurisprudencial do STJ é pela não ocorrência da prescrição do fundo de direito das ações em que se pleiteia o pagamento dos adicionais por tempo de serviço. Aplicação da Súmula 85/STJ.
+2. Recurso Especial parcialmente provido para afastar a prescrição de fundo, retornando os autos à origem, para que julgue o caso como entender de direito.
+(REsp 1712895/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/02/2018, DJe 12/03/2019)
+ADMINISTRATIVO. COMPLEMENTAÇÃO DE APOSENTADORIA. FEPASA. SEXTA PARTE. PRESCRIÇÃO DO FUNDO DE DIREITO NÃO CONFIGURADA. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Este Tribunal entende que, "nos casos em que se pleiteia pagamento dos adicionais por tempo de serviço e da sexta-parte, não ocorre a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação. Incidência do disposto na Súmula 85/STJ" (AgRg no REsp 1.429.464/SP, Rel.Ministro Humberto Martins, Segunda Turma, julgado em 20/3/2014, DJe 28/3/2014).
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1501389/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/02/2015, DJe 26/02/2015)
+ANTE O EXPOSTO, nego provimento ao recurso especial. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
