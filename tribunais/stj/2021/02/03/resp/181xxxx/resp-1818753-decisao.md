@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especialmanejado pela Fazenda Nacional, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 480):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. ALEGAÇÃO EXCESSO. IMPOSTO DE RENDA. COMPLEMENTAÇÃO DE APOSENTADORIA. PREVIDÊNCIA PRIVADA (LEI 7.713/88). COMPENSAÇÃO COM VALORES PAGOS ADMINISTRATIVAMENTE. ÔNUS DA PROVA DA PARTE EMBARGANTE. NÃO COMPROVAÇÃO. 2
+1. Devem ser compensados eventuais pagamentos já realizados na via administrativa, desde que devidamente comprovados nos autos, a tempo e modo, a fim de se evitar o bis in idem e o enriquecimento sem causa dos exequentes. Precedentes.
+2. Em análise detida dos autos, bem como de acordo com as considerações do Juízo a quo, a FN não comprova a ocorrência dos pagamentos administrativos, ou seja, não comprova cabalmente a ocorrência do excesso de execução, portanto, não se desincumbindo do ônus que lhe cabia, qual seja provar e demonstrar o valor que entende correto.
+3. Apelação não provida.
+Opostos embargos declaratórios, foram rejeitados (fls. 491/496).
+A parte recorrente aponta violação aos arts. 489 e 1.022 do CPC/15 e 77, I, 375,378, 396 e 917, §3º, do CPC.
+Sustenta, em resumo, que:
+(I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso "quanto ao fato de que o v. aresto regional manifestou-se pela impossibilidade de compensação ante a ausência de comprovação da ocorrência dos pagamentos administrativos, sem, no entanto, observar que a ausência de comprovação se deu em razão de os documentos necessários à realização dos cálculos estarem na posse de terceiros (ELETROPAULO e CESP). Ou seja, a União ficou impossibilitada de apresentar os cálculos" (fl. 515); e
+(II) ocorreu cerceamento de defesa, uma vez que "a União (Fazenda Nacional) não pôde apresentar a planilha de cálculos, pois os documentos necessários para o cálculo encontravam-se com terceiros. Ressalte-se que a União se desincumbiu de seu ônus, pois oficiou as empresas públicas e o próprio juízo assim o fez também (fl.378)"(fl. 519).
+Contrarrazões apresentadas (fls. 526/544).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/2015.
+Com efeito, no julgamento da apelação cível, a Corte de origem assim deliberou (fls. 454/456):
+Para cumprir tal mister, qual seja, para poder apurar e se posicionar sobre os valores apresentados pelos contribuintes, necessita de subsidio e informações da ELETROPAULO. Por isso, enviou ofícios a ELETROPAULO e também a CESP, solicitandoas seguintes informações: 1) informe quais os valores de IR que incidiram, para cada contribuinte, sobre as contribuições vertidas no período de Io de janeiro de 1989 a 31 de dezembro de 1995; 2) informar o período de contribuição de cada contribuinte e a data do inicio de recebimento da aposentadoria complementar; 3) quais os valores de IR que incidiram para cada autor, sobre contribuições vertidas no período de Io de janeiro de 1898 a 31 de dezembro de 1995; e 4) se houve períodos em que a exigibilidade do IR esteve suspensa.
+Nas razões dos embargos de declaração, a ora recorrente, referindo haver omissão no acórdão embargado, pugnou pelo pronunciamento da Corte de origem, nestes termos (fl. 488):
+Como se vê, embora reconhecendo que a embargante à execução, sob pena de indeferimento da inicial dos embargos, deva trazer, desde já, os respectivos cálculos, tal doutrina exige temperamentos quando se trata de Fazenda Pública, em razão da indisponibilidade dos interesses envolvidos. E isto só pode nos levar à conclusão de que a doutrina de indeferimento liminar quando não apresentados os respectivos valores, PRINCIPALMENTE QUANDO A DEMORA FOR CAUSADA POR TERCEIROS, só vale nas execuções privadas, não nas execuções públicas.
+Contudo, o Tribunal de origem quedou-se silente sobre tal argumentação, rejeitando os pertinentes aclaratórios da ora recorrente, em franca violação ao art. 1.022 do CPC/2015, porquanto não prestada a jurisdição de forma integral (cf. fls. 491/496).
+ANTE O EXPOSTO, dou provimento ao recurso especialpor violação do art. 1.022 do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos de declaração.
+Publique-se.
