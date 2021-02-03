@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto com base no art. 105, II, "b", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de Goiás, que pronunciou a decadência do direito.
+Alega o recorrente que o início do prazo decadencial para impetração do writ foi deflagrado quando o 10º Comando Regional da Polícia Militar de Goiás concluiu não mais ser possível o reconhecimento do ato de bravura, e não quando recebeu condecoração por medalha, em vezdaquela qualificação.
+Contrarrazões às e-STJ fls. 261/268.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ fl. 287).
+Passo a decidir.
+Adianto que o recurso não merece acolhimento.
+Antes de enfrentar a controvérsia em si, transcrevo trecho do acórdão impugnado que apresenta ocontexto dos fatos:
+Apura-se que foi impetrado mandado de segurança, pleiteando o impetrante, soldado da PM -GO, o reconhecimento de ato de bravura, por ter empreendido exitosa ação policial no dia de sua folga, em 12.11.2006, ao apreender meliante, evitando a consumação do crime de sequestro para fins de roubo.
+No caso em tela, em que pese o solicitante alegue que possui o direito líquido e certo ao reconhecimento de seu ato de bravura, desde o princípio, o seu requerimento, datado em 29 de dezembro de 2010, pugna pelo reconhecimento de ação meritória (f. 12/13). A sindicância de f. 11 e o despacho do Comandante do100 CRPM também são nesse sentido.
+Atendendo ao pedido do requerente, parecer de f. 66/70, determinou a apuração da ação meritória e o CRPM remeteu os autos à Comissão do 10º Comandante Permanente de Medalhas (f. 72/76). Referidos documentos foram subscritos em 01/03/2011.
+Em 27 de abril de 2011 o militar foi condecorado com a medalha Destaque Anhanguera no grau Ouro (f. 80/81).
+Insatisfeito com referida condecoração, o impetrante subscreve, em 25/11/2011, requerimento ao Comandante do 10º CRPM-GO pugnando pela averiguação de ato de bravura, objetivando a promoção (f. 82/84). Reitera tal pleito em 05/01/2012 (f. 88/90).
+Em resposta às solicitações do insurgente, o Comandante Wagner Borges de Lima, Comandante do 14º BPM, informou não ser a instância adequada para a análise do pleito e sugeriu fosse efetuado pedido de reconsideração de ato, direcionado ao Comandante do 10º Comando Regional (f. 91/92).
+Em 01/03/2012 o autor insiste na averiguação do ato de bravura e o Tenente Coronel Walter Azeredo Veríssimo, respondendo pelo Comando do 10º CRPM, em 26/03/2012, o informa que não tem competência para determinar a abertura de outra sindicância para tratar do mesmo fato e que não cabe recurso na esfera administrativa da PMGO (f. 96). A notificação do impetrante de referido ato ocorreu em 20/04/2012 (f. 96).
+A controvérsia é saber qual o ato que deflagrou o início do prazo para impetração do mandado de segurança: se o primeiro - o qual o condecorou com a medalha, em vez dequalificar a ação como ato de bravura, ou o último, quenotificou o impetrante sobre a impossibilidade de rever o resultado da primeira sindicância.
+Com efeito, a solução da questão exige a análise da pretensão exposta na inicial. Dela se extrai que a irresignação do impetrante é quanto ao fato de ter recebido a qualificação equivocada após sindicância sobre seu ato, tendo sido condecorado com medalha (ação meritória), quando entende que deveria receber promoção por ato de bravura.
+Como se sabe, previa o art. 18, da Lei n. 1.533/1951, a qual disciplinava o mandado de segurança, que o direito de requerer o tal remédio constitucional se extinguia decorridos cento e vinte dias contados da ciência, pelo interessado, do ato impugnado.
+A mesma redação foi mantida no art. 23 da atual lei que disciplina o mandado de segurança.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que a contagem do prazo decadencial para impetração da ação mandamental se inicia a partir da ciência, pelo interessado, do ato único concreto de efeitos permanentes (AgInt no RMS 37.738/TO, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 18/08/2020, DJe 26/08/2020)
+No caso, sem razão o particular ao alegar que o prazo deveria ser contado da última manifestação da Administração, quando entendeu não ser cabível a revisão da sindicância e não caber recurso em relação à condecoração. Em verdade, a pretensão do impetrante já existia desde o ato concreto e único, de efeitos permanentes, em que o Poder Público concluiu que sua conduta deveria ser reconhecida mediante a honraria de medalha, e não da qualificação da ação como ato de bravura.
+Com efeito, com razão a decisão recorrida, que se encontra consonante com o entendimento deste Tribunal.
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
