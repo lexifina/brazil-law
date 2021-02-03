@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se, na origem, de agravo de instrumento apresentado por Elisa de Barros contra decisão interlocutória por meio da qual foi autorizada a alienação de bem imóvel situado na Rua Morro Verde, Pacaembu-SP, para fins de pagamento de dívidas, tributos e despesas do espólio.
+O Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso para obstar a venda do imóvel em questão, conforme acórdão assim ementado (e-STJ, fl. 260):
+Inventário. Insurgência contra a decisão que determinou a venda de imóvel para pagamento de dívidas, tributos e outras despesas. Discordância dos herdeiros/filhos, havendo, inclusive, notícia de que dois deles residiam no referido bem. Plano de partilha apresentado em que constam outros 26 imóveis de titularidade do "de cujus". Ausência de óbice para que outro imóvel seja alienado. Agravo provido.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 282-286).
+Alegou, em síntese, que, ao inventariante, caberia dispor de bens do espólio em prol da boa administração deste, razão pela qual a alienação de imóvel do espólio dispensaria a autorização dos herdeiros, bastando a determinação judicial.
+Sustentou, ainda, que "o referido imóvel foi indicado para a venda pelo Sr. Inventariante, na medida em que se trata do bem de maior liquidez do Espólio e, portanto, de fácil alienação e que possui o valor necessário à quitação de suas elevadas dívidas" (e-STJ, fl. 270).
+Contrarrazões apresentadas às fls. 290-296, 298-302 e 304-308 (e-STJ).
+A Presidência da Seção de Direito Privado do TJSP inadmitiu o apelo excepcional, ao fundamento de que as questões de fato e de direito teriam sido devidamente analisadas no acórdão recorrido e que, para se chegar a conclusão diversa daquela alcançada pela Turma julgadora, seria necessário revolver fatos e provas, o que esbarra na Súmula 7/STJ.
+Irresignada, Guiomar Tarabay Kalil apresentaagravo e rebate todos os argumentos explicitados na decisão recorrida.
+Contraminuta às fls. 329-331 (e-STJ).
+O Ministério Público Federal, às fls. 345-347 (e-STJ), opinou pelo desprovimento do agravo.
+Brevemente relatado, decido.
+A Corte local, ao tratar da questão referente ao pedido do inventariante dativo para efetuar a venda de determinado imóvel do espólio, consignou o seguinte (e-STJ, fls. 261-262):
+3. Versam os autos sobre ação de inventário dos bens deixados por Adhemar de Barros Filho, tendo a herdeira Carolina formulado requerimento de venda de bens, em diversas ocasiões, para o pagamento de dívidas, que teriam se avolumado desde a abertura do inventário, págs. 3.967/3.968, 3.695/3.696, 3.724/3.726 3.967/3.968, todas dos autos de origem, salientando que diante da patente litigiosidade, é inviável a manutenção de condomínio entre os herdeiros.
+A viúva indicou o imóvel situado na rua Morro Verde, 171, Pacaembu, para a alienação e utilização do valor para o pagamento de dívidas, págs. 3.998/3.999, assim como o inventariante dativo, págs. 4.113/4.114.
+Todos os herdeiros/filhos do de cujus discordaram da venda do referido imóvel, ressaltando-se que Adhemar de Barros Neto informou que reside no bem com a irmã Elisa, ora agravante, indicando outros para serem vendidos, págs. 4.280/4.281, págs. 4.298/4.301 e 4.354/4.361, todas dos autos de origem.
+Insta observar que, conforme se infere do plano de partilha apresentado, págs. 2.342/2.379, dos autos de origem, o de cujus deixou 27 bens imóveis, além de veículos, joias, quotas sociais e valores em espécie.
+Assim, nada obsta que haja a venda de outro imóvel ou bens para pagamento das dívidas, sobretudo diante da resistência apresentada por alguns herdeiros, devendo o inventariante elencar as dívidas do espólio, com a indicação de outros bens para a quitação.
+4. Com base em tais fundamentos, dá-se provimento ao agravo de instrumento.
+Consoante se extrai do acórdão combatido, os fundamentos adotados pela Corte de origem foram a discordância da venda do imóvel em questão por todos os herdeiros e a existência de mais 27 imóveis, "além de veículos, joias, quotas sociais e valores" (e-STJ, fl. 262).
+O Superior Tribunal de Justiça, tratando daquestão da anuência dos herdeiros para a venda de bens do imóvel, adota o entendimento de que "O inventariante tem seus poderes plenamente delimitados pelos arts. 991 e 992 do Código de Processo Civil, sendo imperativa a autorização dos herdeiros para a venda de bens, coberta a nulidade do ato nos termos do art. 145, IV, do Código Civil" (REsp 140.369/RS, Rel. Ministro CARLOS ALBERTO MENEZES DIREITO, TERCEIRA TURMA, julgado em 22/09/1998, DJ 16/11/1998, p. 87).
+Além disso, ao enfrentar a matéria atinente aoslimites à alienação dos bens do espólio, essa Corte superior firmou posicionamento de que "Os herdeiros devem ser ouvidos acerca de alienação de bem do espólio, mas a venda deve ser autorizada caso oposta objeção injustificada e não apontada outra fonte para a quitação das dívidas" (REsp 972.283/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 07/04/2011, DJe 15/04/2011 - grifos acrescidos).
+Nesse panorama, o recurso especial não merece prosperar, pois o acórdão de origem está em sintonia com a jurisprudência do STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUTORIZAÇÃO JUDICIAL PARA ALIENAÇÃO DE DETERMINADO BEM IMÓVEL DO ESPÓLIO REQUERIDA POR INVENTARIANTE DATIVO. NECESSIDADE DE AUTORIZAÇÃO DOS HERDEIROS. EXISTÊNCIA DE OUTROS BENS IMÓVEIS E DE NATUREZAS DIVERSAS. VENDA OBSTADA. JULGADOS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
