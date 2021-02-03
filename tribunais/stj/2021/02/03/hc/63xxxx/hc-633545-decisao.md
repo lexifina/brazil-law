@@ -1,0 +1,24 @@
+DECISÃO
+ALEXANDRA RIANI DA SILVAalega sofrer coação ilegal, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0000458-88.2017.8.26.0594.
+Depreende-se dos autos que apaciente foi condenadaà pena de 5anos de reclusão, em regime inicial fechado, mais multa, por infração ao art. 33, caput,da Lei n. 11.343/2006.
+Nas razões deste mandamus, postula o impetrante, resumidamente, a incidência da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 ea fixação de regime menos gravoso.
+A liminar foi indeferida e, dispensadas as informações, o Ministério Público Federal opinoupelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+Decido.
+I. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Quanto ao almejado reconhecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, o Tribunal de origem entendeu pela não incidência do redutor, conforme trecho abaixo (fls. 29-30, grifei):
+A ré dispunha de mais de um quilo e duzentos gramas (1,2g) de "maconha", quantidade considerável, que deve ser apreciada na dosimetria, como estabelece o artigo 42, da Lei Antidrogas.
+Em razão da quantidade, a pena é ligeiramente elevada na base, alcançando cinco (5) anos e dez (10) meses de reclusão e quinhentos e oitenta e três (583) dias/multa.
+Por outro lado, a ré tem a seu favor a atenuante da confissão espontânea, razão pela qual o acréscimo é compensado, ficando a pena concretizada em cinco (5) anos de reclusão e quinhentos (500) dias/multa.
+Não é caso de incidir o redutor, porque os policiais esclareceram que dispunham de informações de que a ré vinha praticando o tráfico na residência dela, e mais importante, ela não era neófita na prática da traficância. O agente que dispõe dessa quantidade de droga já está enfronhado com a traficância;não é neófito.
+A causa especial de redução deve ser reservada ao agente que pratica o tráfico miúdo, praticamente aquele que vende a droga para o sustento do próprio vício, mas esta não é a hipótese em exame, porque ficou demonstrado que a ré se dedicava às atividades criminosas.
+Na espécie, observo que a quantidadeda droga apreendida foi utilizada tanto para exasperar a pena-base quanto para afastar a incidência da minorante.
+Por ocasião do julgamento dos HCs n. 109.193/MG e 112.776, em sessão plenária ocorrida no dia 19/12/2013, o Supremo Tribunal Federal, por maioria de votos, firmou o posicionamento de que as circunstâncias relativas à natureza e à quantidade de drogas apreendidas só podem ser usadas, na dosimetria da pena, ou na primeira ou na terceira fase, sempre de forma não cumulativa. Esse fato privilegia, de acordo com o Relator (Ministro Teori Zavascki), o poder de discricionariedade concedido ao juiz na dosimetria, como também o princípio constitucional da individualização da pena. Para o Relator, sopesar a natureza e a quantidade de drogas em duas fases do cálculo da pena caracteriza bis in idem.
+Em 4/4/2014, a matéria foi objeto de nova apreciação pelo Supremo Tribunal Federal, em repercussão geral no ARE n. 666.334/AM, de relatoria do Ministro Gilmar Mendes, em que se reafirmou o entendimento de que as circunstâncias da natureza e da quantidade de drogas apreendidas devem ser levadas em consideração apenas em uma das fases da dosimetria da pena.
+Sobre a matéria posta em discussão, menciono o seguinte julgado desta Sexta Turma, em que já se seguiu a compreensão consagrada pelo Plenário da Suprema Corte: HC n. 294.636/SP, Rel. Ministra Maria Thereza de Assis Moura, DJe 29/9/2014. Na oportunidade, determinou-se que o Magistrado de primeiro grau procedesse à nova dosimetria da pena, utilizando a quantidade e/ou a natureza da droga somente em uma das etapas da dosimetria.
+Menciono, também, precedentes da Corte Suprema que seguiram a orientação do Pleno: HC n. 123.999/MT, Rel. Ministra Rosa Weber, 1ª T., DJe 28/10/2014; HC n. 123.534/RJ, Rel. Ministra Cármen Lúcia, DJe 10/10/2014.
+Dessa forma, uma vez que o mesmo fundamento (quantidadede entorpecentes apreendidos) foi utilizado para justificar tanto a exasperação da pena-base quanto para afastar a minorante do § 4º do art. 33, tenho como caracterizada a ofensa ao princípio do ne bis in idem.
+Como a ilegalidade adveio de ato emanado do Tribunal de origem, caberá a ele realizar nova dosimetria da pena, com a menção à tal circunstância em somente uma das etapas da dosimetria.
+II. Dispositivo
+À vista do exposto, concedo em parte a ordem, para, em face do indevido bis in idem, determinar à Corte de origem que proceda à nova dosimetria da pena, com a utilização da quantidade da droga apreendida em somente uma das etapas do cálculo, seguida de novo exame a respeito do regime inicial de cumprimento da reprimenda.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias.
+Publique-se e intimem-se.
