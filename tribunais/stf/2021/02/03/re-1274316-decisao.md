@@ -1,0 +1,11 @@
+Decisão:
+    1. Trata-se de recurso extraordinário interposto contra acórdão da 14ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “Reexame Necessário e Apelação Cível Execução Fiscal IPTU do exercício de 2012 Exceção de Pré-Executividade acolhida para reconhecer o direito da executada à imunidade tributária – Alegação de inadequação da via processual eleita afastada CDHU Sociedade de economia mista que desempenha função eminentemente estatal Atuação deficitária, sem visar ao lucro Participação societária do Governo do Estado de São Paulo é de 99,9% Inexistência de concorrência com entes privados Cabimento da concessão de imunidade Precedentes do E. STF Sentença mantida Recursos Oficial e Voluntário de Apelação da Municipalidade não providos”.
+    2. O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 150, VI, a; e 173, § 2º, ambos da Carta. Sustenta que: (i) ao reconhecer a imunidade da recorrida, o Tribunal de origem partiu de pressupostos equivocados; (ii) a recorrida exerce atividade econômica com objetivo de lucro; (iii) o regime jurídico imposto às empresas públicas e sociedades de economia mista, equivale ao das empresas privadas.
+    3. O Plenário do Supremo Tribunal Federal, ao apreciar o ARE 1.289.782-RG, reconheceu a repercussão geral da matéria em exame. Confira-se a ementa:
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. IMUNIDADE RECÍPROCA. ARTIGO 150, VI, A, DA CONSTITUIÇÃO FEDERAL. EXTENSÃO. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO ESSENCIAL. CONSTRUÇÃO DE MORADIAS VOLTADAS À POPULAÇÃO DE BAIXA RENDA. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. DISSENSO JURISPRUDENCIAL. PAPEL UNIFORMIZADOR DO SUPREMO TRIBUNAL FEDERAL. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. AGRAVO PROVIDO PARA EXAME DO RECURSO EXTRAORDINÁRIO. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL”. (ARE 1.289.782-RG, Rel. Min. Luiz Fux, Tema 1.122 da Repercussão Geral)
+    4. Diante do exposto, com base no art. 1.036, do CPC/2015, e no art. 328, parágrafo único, do RI/STF, determino a devolução dos autos à origem, a fim de que seja observada a sistemática da repercussão geral.
+    Publique-se.
+          Brasília, 03 de fevereiro de 2021.
+Ministro Luís Roberto Barroso
+Relator
