@@ -1,0 +1,8 @@
+DECISÃO
+JULIETA ODETE MAFRA DE ANDRADE peticiona, às fls. 353-355, com o objetivo de ver reconsiderado o acórdão que não conheceu dos embargos de declaração, os quais foram opostos contra o acórdão que negou provimento ao agravo regimental.
+A requerente alega que "no dia da publicação da decisão embargada" seu patrono encontrava-se afastado de suas atividades laborativas em razão do óbito de seu genitor, conforme certidão acostada à fl. 354. Por isso, requer "a devolução do prazo, aos opostos embargos" (fl. 353).
+Entretanto, o pedido é manifestamente incabível. Deveras, contra decisão proferida pelo Órgão Colegiado da Sexta Turma, em embargos de declaração, não é possível que a defesa se utilize, como forma impugnativa, de pedido de reconsideração. Eventual irresignação da parte deve ser suscitada pelo meio processual adequado.
+Além disso, nos termos da Jurisprudência desta Corte, "a doença que acomete o advogado somente se caracteriza como justa causa, a ensejar a devolução do prazo, quando o impossibilita totalmente de exercer a profissão ou de substabelecer o mandato (EDcl no AREsp n. 225.773/SP, Rel. Min. Antonio Carlos Ferreira, DJe de 28/3/2014)" (AgInt nos EAREsp n. 1.534.425/MA, Rel. Ministro Felix Fischer, Corte Especial, DJe 12/11/2020), circunstância que não ficou caracterizada nos autos.
+Por fim, verifica-se à fl. 131 que o subscritor dos embargos opostos intempestivamente, Dr. Fábio de Andrade, substabeleceu, sem reservas, os poderes a ele outorgados aos Drs. Haroldo Francisco Paranhos Cardella, Rodolfo Nóbrega Luz e Bruna Cerone Loiola.
+À vista do exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço do pedido de reconsideração.
+Publique-se e intimem-se.
