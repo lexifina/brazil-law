@@ -1,0 +1,41 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por Luiz Humberto Franciosi Junior, em favor de Simone Scozzo da Silva, contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça, nos autos do HC 639.861/PE.
+    Colho da decisão impugnada:
+    “Cuida-se de habeas corpus com pedido de liminar impetrado em favor de SIMONE SCOZZO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (HC n. 0018607-81.2020.8.17.9000).
+    A paciente foi presa preventivamente pela suposta prática dos delitos previstos no art. 171, caput; no art. 171, caput c/c art. 14, inciso II; no art. 288 e no art. 304 c/c arts. 297 e 298, todos do Código Penal.
+    Sustenta que não estariam presentes os requisitos necessários à custódia cautelar, nos termos do art. 312 do Código de Processo Penal, porquanto a paciente ostenta condições pessoais favoráveis, é mãe de filho com 16 anos de idade e integra o grupo de risco referente à Covid-19.
+    Requer, liminarmente, a revogação da prisão preventiva com a expedição de alvará de soltura ou a imposição de medidas cautelares alternativas. No mérito, pugna pela concessão definitiva da ordem. (eDOC 7)
+    No STJ, o habeas corpus foi indeferido liminarmente. Ainda está aberto o prazo para interposição do agravo regimental.
+    Nesta Corte, a defesa reitera os pedidos formulados naquele Tribunal.
+    Os autos me vieram conclusos por prevenção, porquanto apreciei o HC 197.181, impetrado em favor do corréu Alessandro Ribeiro Magno.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que o mérito da controvérsia não foi apreciado pelo colegiado do Tribunal de Justiça nem do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em dupla supressão de instância.
+    Segundo jurisprudência consolidada deste Tribunal, não tendo sido a questão objeto de exame definitivo pelo Superior Tribunal de Justiça ou ausente prévia manifestação colegiada das demais instâncias inferiores, a apreciação do pedido da defesa implica supressão de instância, o que não é admitido. Nesse sentido: HC-AgR 131.320/PR, Rel. Min. Teori Zavascki, Segunda Turma, DJe 10.2.2016; HC 140.825/PR, Rel. Min. Luiz Fux, decisão monocrática, DJe 3.3.2017; e HC 139.829/SP, Rel. Min. Dias Toffoli, decisão monocrática, DJe 8.3.2017.
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que é o caso dos autos.
+    Conforme se verifica da decisão proferida no Tribunal de Justiça, a impetrante alegou que, devido ao recesso forense, não conseguiu ter acesso aos autos, razão por que teria manejado o habeas corpus desacompanhado de todas as peças necessárias.
+    Quanto ao mérito, conforme já verificado no HC 197.181, a paciente “dirigiu-se a uma agência do Banco do Brasil, em Olinda/PE, e, utilizando-se de documentos falsos, conseguiu sacar aproximadamente R$ 28.000,00 (vinte e oito mil reais) a título de um suposto crédito de RPV (“Requisição de Pequeno Valor”). No dia seguinte, 25/11/2020, ela voltou àquela mesma agência, com um comparsa, e este tentou levantar um dinheiro relativo a outra RPV emitida. Ocorre que, desta vez, percebeuse a fraude, e a autoridade policial foi acionada. Com a chegada da Polícia Civil ao local, promoveram-se algumas diligências, disso resultando que, no hotel em que os sujeitos estavam hospedados, foi encontrada outra mulher, que, da mesma forma, estava na posse de documentos falsos. Não bastasse, a Polícia terminou se deparando com o companheiro desta (que é, exatamente, Alexandre Ribeiro Magno, o ora paciente), e, no quarto em que eles estavam acomodados, também havia uma documentação fraudulenta, inclusive a que havia sido utilizada no dia anterior (24/11/2020), por aquela primeira integrante do grupo, na realização do saque indevido.”
+    Foi negado seguimento ao habeas corpus impetrado em favor do corréu Alessandro, em razão, sobretudo, de seus registros criminais anteriores.
+    O caso da paciente é distinto do seu, entretanto.
+    A paciente, primária e sem qualquer registro criminal anterior ou ação penal em andamento, foi presa por estelionato e quadrilha ou bando, crimes cometidos sem violência ou grave ameaça e com pena mínima de 1 (um) ano de reclusão.
+    Da leitura do decreto prisional (eDOC 6, p. 2), não vislumbro razões concretas para a manutenção da paciente no cárcere, motivo por que penso que outras medidas cautelares podem ser o bastante para acautelar o processo e a ordem pública.
+    Pesam contra a paciente acusações de saques de contas judiciais em valores razoáveis, de modo que a cautelar de fiança me parece adequada à espécie do delito.
+    Não que a fiança seja meio de indenização ou ressarcimento, tampouco que ela seja apropriada apenas em crimes econômicos, mas, em tais crimes, a fiança exerce seu papel acautelatório com maior propriedade, porquanto atinge o ponto nuclear do processo penal.
+    Aliás, o próprio CPP recomenda a análise da natureza da infração, quando do arbitramento da fiança. (art. 326, CPP)
+    A Lei 12.403 de 2011 implantou reformas favoráveis que aprimoraram o processo penal e deram maior efetividade à realização da justiça. Importante ressaltar a reformulação quase integral do artigo 325 do CPP, que dispõe sobre o instituto da fiança.
+    Regula-se a fiança agora por critérios concretos e aplicáveis: a) quando se tratar de infração cuja pena privativa de liberdade, no máximo em abstrato, não superar quatro anos, a fiança deve ser fixada entre um e cem salários mínimos; b) tratando-se de infração cuja pena privativa de liberdade, no máximo em abstrato, ultrapassar quatro anos, fixa-se um valor entre dez e duzentos salários mínimos.
+    Da leitura do referido dispositivo legal, verifico que a fiança deve ser fixada de maneira que não se torne obstáculo indevido à liberdade, nem caracterize montante irrisório, meramente simbólico, que torne inócua sua função de garantia processual.
+    Registro, ainda, que a jurisprudência do Supremo Tribunal Federal é sensível à redução da fiança originariamente fixada em valores não razoáveis. Menciono, nesse sentido: Inq 4.633/DF, rel. Min. Edson Fachin, decisão monocrática, DJe 24.11.2017, e HC 149.312 MC/SP, por mim relatado, decisão monocrática, DJe 6.11.2017.
+    Importante também mencionar os critérios para a escolha do valor da fiança, descritos no artigo 326 do CPP. Vejamos:
+    “Art. 326. Para determinar o valor da fiança, a autoridade terá em consideração a natureza da infração, as condições pessoais de fortuna e vida pregressa do acusado, as circunstâncias indicativas de sua periculosidade, bem como a importância provável das custas do processo, até final julgamento”.
+    Portanto, considerados os parâmetros traçados nos artigos 325 e 326 do CPP, especialmente a gravidade da infração e as condições financeiras do paciente, aribro a fiança para R$ 20.000,00 (vinte mil reais).
+    Assim, em face do decidido pela Segunda Turma, em 10.10.2017 e 18.12.2017, ao apreciar os HCs 143.247/RJ, 146.666/RJ e 147.192/RJ e 156.730/DJ (DJe 7.2.2018, 10.4.2018, 23.2.2018 e 29.6.2018, respectivamente), em que se entendeu pela concessão da ordem para substituir as prisões preventivas por medidas cautelares diversas da prisão, verifico, no caso, a ocorrência de constrangimento ilegal suficiente para conceder o presente writ, na forma do artigo 319 do CPP.
+    Ante o exposto, concedo a ordem a fim de revogar a prisão decretada em desfavor da paciente, se por outro motivo não estiver presa. Em substituição, determino a imposição das seguintes medidas cautelares diversas da prisão, na forma do art. 319 do CPP:
+    a) comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz de origem, para informar e justificar atividades (inciso I);
+    b) proibição de se ausentar da comarca sem autorização do Juízo de primeiro grau; e
+    c) fiança no valor de R$ 20.000,00 (vinte mil reais)
+    O alvará somente pode ser expedido após o recolhimento da fiança.
+    Publique-se. Comunique-se com urgência.
+    Brasília, 3 de fevereiro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
