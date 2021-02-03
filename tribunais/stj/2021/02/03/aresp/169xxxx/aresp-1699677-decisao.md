@@ -1,0 +1,15 @@
+DECISÃO
+MANOEL BERNARDO DE GOIS CASSIANO agrava de decisão que inadmitiu o processamento do recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, que negou provimento à apelação defensiva.
+Em suas razões, afirma o insurgente que, diversamente do consignado na decisão impugnada, o exame do caso prescinde do reexame de provas, mas de sua revaloração. Assinala que a absolvição do réu é medida que se impõe, na medida em que há dúvida razoável acerca de sua inimputabilidade. Subsidiariamente, objetiva a anulação da sentença, com a suspensão do processo.
+Contrarrazoado (1.997-2.000) o agravo, foram os autos ao Ministério Público Federal, que se manifestou pelo seu não provimento (fls. 2.022-2.025).
+Decido.
+A decisão que inadmitiu o processamento do especial não merece reparos. O acórdão recorrido, ao afastar a inimputabilidade do réu, destacou o seguinte (fls. 1907-1908):
+Como o experto não conclui sobre a inimputabilidade do réu, mas lançou dúvidas sobre a sua completa capacidade de compreender inteiramente a ilicitude da sua conduta, subsume-se a situação em apreço à hipótese do parágrafo único do art. 26 do CP, acima descrito.
+Os esclarecimentos prestados pelo referido réu à polícia e em juízo quanto ao fato de nunca ter trabalhado em determinada empresa, e que apenas recebeu o benefício previdenciário porque trabalhava como autônomo, sem que, perante tais autoridades, fosse apresentado nenhum aspecto indicativo de enfermidade, incapacidade mental ou estado mental prejudicado antes de ser acometido do AVC, afastam a tese de inimputabilidade sustentada pela defesa.
+ ..
+Percebe-se que a intenção do legislador é a proteção do direito de autodefesa do acusado, uma vez que civilmente incapaz, não poderia exercê-la de maneira eficaz.
+Na hipótese, não houve violação ao referido bem jurídico.
+É que, conforme destacou a Procuradoria Regional da República em seu parecer (Parecer nº 6760/2019, id 4050000.14928989), o incidente de insanidade mental foi requerido pelo Ministério Público Federal em 28 de julho de 2017, com fundamento em uma certidão que informou, em 21 do mesmo mês que o apelante sofreu em 21 de julho de 2016 um AVC, apresentando um quadro clínico de perda de memória de fatos recentes. Deste modo, verifica-se que o interrogatório do réu foi realizado antes de tal data, em 01/06/2016, " ocasião em que ele se apresentou sem qualquer sinal de estado mental prejudicado, consoante se pode constatar do registro audioivisual da respectiva audiência".
+Tal quadro, decidido em consonância com a orientação desta Corte, está lastreado em todo o material cognitivo produzido pelas instâncias ordinárias, cujas conclusões não podem ser infirmadaspela via escolhida, dada a necessidade de reexame de provas (incidência da Súmula n. 7 do STJ).
+À vista do exposto, com fundamento no art. 34, XVIII, "b", do RISTJ, nego provimento ao agravo em recurso especial.
+Publique-se e intimem-se.
