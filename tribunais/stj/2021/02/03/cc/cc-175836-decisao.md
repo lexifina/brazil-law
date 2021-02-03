@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado de São Paulo, em relação ao Juízo Federal do Juizado Especial Cível de Jaú- SJ/SP, nos domínios de ação proposta contra o Instituto Nacional do Seguro Social - INSS, mediante a qual pretende a parte autora o restabelecimento de auxílio-doença e/ou a concessão de aposentadoria por invalidez.
+De acordo com o Juízo suscitado (e-STJ, fl. 130):
+Com isso, o laudo é conclusivo em que a origem da incapacidade laboral é "acidentária". Isto porque é nítido que a incapacidade do autor, que tem origem na artrose inicial do joelho sequelar de fratura do platô tibial, é decorrente de acidente sofrido no percurso entre a residência e o local de trabalho.
+Ao caso tem aplicabilidade o disposto no artigo 21, IV, "d", da Lei n.º 8.213/91, que dispõe:
+Art. 21. Equiparam-se também ao acidente do trabalho, para efeitos desta Lei:
+ ..  IV - o acidente sofrido pelo segurado ainda que fora do local e horário de trabalho..
+ ..  a) no percurso da residência para o local de trabalho ou deste para aquela, qualquer que seja o meio de locomoção, inclusive veículo de propriedade do segurado.
+Patenteada a natureza da causa relacionada a acidente do trabalho, é de se reconhecer a incompetência deste Juízo para apreciação da lide. O art. 109, I, da Constituição Federal, afasta da competência federal as causas que versem sobre acidente de trabalho. Ao encontro dessa norma constitucional, as Súmulas 15 do Egr. Superior Tribunal de Tribunal e as de ns. 235 e 501 do Egr. Supremo Tribunal Federal dispõem, respectivamente:
+ ..
+Do ponto de vista do Juízo suscitante, entretanto (e-STJ, fls. 211-212):
+Insta salientar, por oportuno, que de acordo com o disposto no artigo 43 do Código de Processo Civil de 2015: "Determina-se a competência no momento do registro ou da distribuição da petição inicial, sendo irrelevantes asmodificações do estado de fato ou de direito ocorridas posteriormente, salvo quando suprimirem órgão judiciário ou alterarem a competência absoluta  .. "
+Não era diferente a orientação contida no art. 87 do CPC/1973: "Determina-se a competência no momento em que a ação é proposta."
+Nunca é demais lembrar que a petição inicial delimita a competência da justiça em razão da matéria, pois, após o saneamento do processo, é vedada a alteração e/ou inclusão de pedido ou da causa de pedir, sem a anuência do requerido, consoante exegese do artigo 329 do novo Código de Processo Civil, perenizando, assim, o objeto da lide.
+No caso em epígrafe não resta dúvida de que o suplicante objetiva o deferimento de auxílio-doença previdenciário ou aposentadoria por invalidez previdenciária em razão de incapacidade laborativa decorrente de moléstias na coluna e de lesões nos membros inferiores, sem, contudo, relacionar ao labor, mesmo porque sequer noticiou na petição inicial que suas lesões tivessem decorrido das condições agressivas e especiais de trabalho ou mesmo de um acidente típico de trabalho ou de trajeto; ao contrário, anotou que faria jus ao restabelecimento de um benefício temporário de espécie previdenciária, por ser portador de doenças na coluna e de sequela na tíbia em face de um acidente de motocicleta.
+Inclusive, por reconhecer a natureza previdenciária da demanda, ajuizou a presente ação perante o Juizado Especial Federal Cível de Jaú/SP.
+Assim, restringiu o seu pedido com base na legislação previdenciária e, assim, norteou a demanda e a competência da Justiça Federal.  ..
+Parecer do Ministério Público Federal pela competência do Juízo estadual (e-STJ, fls. 243-246).
+É o relatório.
+Registro, inicialmente, que, segundo se infere dos autos, a postulação deduzida pela parte autora diz respeito ao restabelecimento do benefício de auxílio-doençaou, alternativamente, à concessão de aposentadoria por invalidez, nada referindo a possível acidente de trabalho.
+A definição da competência em razão da matéria é feita, a partir da petição inicial, pela aferição da natureza jurídica da demanda contida no pedido e na causa de pedir. Esse é o entendimento pacificado pelo Superior Tribunal de Justiça, conforme se observa no seguinte precedente:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O PROCESSAMENTO E JULGAMENTO DAS DEMANDAS QUE VERSEM SOBRE CONCESSÃO E REVISÃO DE BENEFÍCIO DECORRENTE DE ACIDENTE LABORAL. SÚMULAS 15/STJ E 501/STF. COMPETÊNCIA FIXADA DE ACORDO COM O PEDIDO EXPRESSO NA PETIÇÃO INICIAL. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL A QUE SE NEGA PROVIMENTO.
+1. A Justiça Estadual é competente para processar e julgar ação relativa a acidente de trabalho, estando abrangida nesse contexto tanto a lide que tem por objeto a concessão de benefício decorrente de acidente de trabalho, como também as relações daí decorrentes (restabelecimento, reajuste, cumulação),uma vez que o art. 109, I da CF não fez qualquer ressalva a este respeito. Súmulas 15/STJ e 501/STF.
+2. O teor da petição inicial é elemento essencial ao deslinde do conflito, uma vez que a definição de competência decorre da verificação da causa de pedir e do pedido apresentados na inicial.  ..  (AgRg no CC 141.868/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017.)
+No caso, o pleito formulado na inicial é de concessão de benefício de auxílio-doença ou aposentadoria por invalidez, nada afirmando quanto a vínculo com o labor do autor.
+Ante o exposto, com fulcro nos arts. 66, II, e 955, parágrafo único, I, do CPC, conheço do conflito e declaro competente o Juízo Federal do Juizado Especial Cível de Jaú - SJ/SP, o suscitado.
+Publique-se. Intimem-se.
