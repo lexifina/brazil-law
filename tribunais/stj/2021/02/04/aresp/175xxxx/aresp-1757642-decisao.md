@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por Marcio Jardim, com base na alíneas a do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 246):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE.HONORÁRIOS DE ADVOGADO, RECONHECIMENTO DO PEDIDO.
+1. É indevida a condenação da Fazenda Pública ao pagamento de honorários advocatícios quando reconhece integralmente a procedência do pedido, nos termos do artigo 19 da Lei 10.522, de 2002.
+2. Apelo improvido.
+No apelo especial, a parte recorrente aponta violação ao art. 85, caput, § 2º do CPC/2015. Sustenta, em síntese, que o ente fazendário deve ser condenado ao pagamento da verba honorária sucumbencial na hipótese dos autos, porquanto "Uma vez acolhida a exceção oposta pela recorrente, no entender da parte recorrente, a fixação deveria ser fundada na lei - art. 85, §2º, do CPC - que determina ser o critério percentual de 10 a 20% do valor da causa, ao revés do que faz a decisão recorrida, que nada impõe à parte vencida" (fl. 261).
+É O RELATÓRIO. SEGUE-SE A FUNDAMENTAÇÃO.
+A pretensão não comporta guarida.
+Acerca da questão controvertida, assim se manifestou a Corte de origem (fls. 247/248):
+Requer o executado a condenação da exequente ao pagamento de honorários de advogado, com base no princípio da sucumbência.
+Para o deslinde da controvérsia cumpre considerar os termos do inc. I do § 1º do art. 19 da L 10.522/2002, que assim dispõe:
+Art. 19. Fica a Procuradoria-Geral da Fazenda Nacional autorizada a não contestar, a não interpor recurso ou a desistir do que tenha sido interposto, desde que inexista outro fundamento relevante, na hipótese de a decisão versar sobre:
+(..) II - matérias que, em virtude de jurisprudência pací ca do Supremo Tribunal Federal, do Superior Tribunal de Justiça, do Tribunal Superior do Trabalho e do Tribunal Superior Eleitoral, sejam objeto de ato declaratório do Procurador- Geral da Fazenda Nacional, aprovado pelo Ministro de Estado da Fazenda;
+§ 1o Nas matérias de que trata este artigo, o Procurador da Fazenda Nacional que atuar no feito deverá, expressamente:
+I - reconhecer a procedência do pedido, quando citado para apresentar resposta, inclusive em embargos à execução  scal e exceções de pré-executividade, hipóteses em que não haverá condenação em honorários;  ..  A recorrida expressamente reconheceu a ocorrência da prescrição intercorrente e requereu a extinção do feito (ev3- DESPADEC48-p2).
+Ademais a Segunda Turma desta Corte, no julgamento da apelação cível 50064021620174047001 pelo quórum estendido do art. 942 do CPC completo com membros desta Primeira Turma, afastou a imposição de honorários de advogado de sucumbência contra a Fazenda Pública nos casos em que a exequente reconhece expressamente a prescrição na primeira oportunidade em que se manifestar no processo após anuência do prazo prescricional, ainda que provocada pela executada:
+EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. RECONHECIMENTO EXPRESSO PELA FAZENDA PÚBLICA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+1. Assim como na hipótese de reconhecimento de ofício da prescrição intercorrente, não cabe a  xação de honorários advocatícios contra a Fazenda Pública nos casos em que a exequente reconhece expressamente a ocorrência da prescrição na primeira oportunidade em que se manifestar nos autos após a  uência do prazo prescricional, ainda que provocada pela executada (art. 19 § 1º, I, da Lei nº 10.522/02).
+2. Hipótese em que o princípio da causalidade deve ser compatibilizado com o princípio da legalidade, porque a Fazenda Pública tem a obrigação de executar os seus créditos.
+Não são devidos honorários de advogado de sucumbência neste caso, pelo que não merece reparo a sentença.
+Da leitura do excerto supracitado, verifica-se que o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, o de que nos casos em que a exequente reconhece expressamente a prescrição na primeira oportunidade em que se manifestar no processo após anuência do prazo prescricional, afasta-se a imposição da condenação em honorários, ainda que a Fazenda Pública seja provocada pela parte executada, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 9/3/2012.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
