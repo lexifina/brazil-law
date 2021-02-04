@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Geraldo de Oliveira, em que se aponta como autoridade coatora a Sétima Turma do Tribunal Regional Federal da 4ª Região.
+Na denúncia, constou que o paciente, na condição de advogado, efetuou saques indevidos em contas de precatórios judiciais de titularidade de terceiros, apresentando procurações e carteiras de identidade ideologicamente falsas, de pessoas já falecidas quando da assinatura das procurações.
+Consta dos autos que o paciente foi condenado à pena de 6 anos, 5 meses e 10 dias de reclusão, e 366 dias-multa, por ter sido incurso no art. 171, § 3º, do Código Penal, por 8 vezes, na modalidade do art. 71 do Código Penal (fls. 23/71).
+Em sede de apelação, a defesa apontou ausência de provas para a condenação e pediu, ainda, a revisão da dosimetria. A Sétima Turma do Tribunal Regional Federal da 4ª Região manteve a sentença de condenação e determinou o início da execução provisória das penas (fls. 72/73).
+No presente writ, a defesa apontou bis in idem, com a utilização dascircunstâncias e das consequências do crime, para exasperar a pena do paciente (fls. 3/21).
+Parecer ministerialopinando pelo não conhecimento do writ (fls. 87/88).
+É o relatório.
+Quanto à tese defensiva de ausência de dolo nas condutas praticadas, torna-se inviável, em sede de habeas corpus, o reexame do conjunto fático-probatório, por demandar a análise de comprovantes de saques de precatórios e de emissão de procurações, bem como da obtenção de vantagens ilícitas, por meio de fraudes.
+Na dosimetria, o Magistrado analisou, separadamente, todos os fatos praticados e constou dos autos que a culpabilidade foi consideradanegativa, por ser o acusado advogadoe conhecedor da lei.
+Para o primeiro fato, quanto às circunstâncias judiciais, verifica-conhecimento para encontrar os precatórios pendentes, em valores altos de pessoas já mortas, o que, de fato, revela muita ousadia e determinação para auferir vantagens de maneira incorreta. Assim, não há ilegalidade nessa vetorial. Também quanto às circunstâncias do crime, entendo que não há o que ser alterado no julgado, pois foi comprovado que o paciente aliciou sua ex-esposa para receber os valores levantados de maneira indevida.Além disso, providenciou procurações em cidades diferentes, para dificultar o rastreamento da sua conduta. Da mesma forma, as consequências foram sopesadas de maneira adequada contra o paciente, uma vez que o prejuízo da Caixa Econômica Federal foi de R$ 137.006,30, uma quantia extremamente alta que certamente trouxe muito prejuízo, por ter tido que prestar conta aos herdeiros. A pena-base foi elevada para 2 anos de reclusão.
+A agravante foi reconhecida e a pena foi elevada em 1/3, na segunda fase, chegandoa 3 anos, 1 mês e 10 dias de reclusão, e 152 dias-multa.
+Para todos os 8 fatos praticados, foram consideradas essas vetoriais como negativas, sendo diferentes os valores arcados pela Caixa Econômica Federal, como prejuízo. Para o segundo fato, o prejuízo foi deR$ 143.161,58; para o terceiro fato, o prejuízo foi de R$ 141.672,05; para o quarto fato, o prejuízo foi de R$ 141.846,98; para o quinto fato, o prejuízo foi de R$ 148.202,04; para o sexto fato, o prejuízo foi de R$ 138.194,85; para o sétimo fato, o prejuízo foi de R$ 141.672,05 ;e para o oitavo fato, o prejuízo foi deR$ 142.590,75.
+Procedendo-se ao concurso de crimes, foi acrescentada a fração de 2/3 à maior pena fixada, ou seja, 3 anos, 10 meses e 20 dias de reclusão, chegando, assim, ao total definitivo de 6 anos, 5 meses e 10 dias de reclusão, e 366 dias-multa.
+Não há constrangimento ilegal a ser sanado, em sede de habeas corpus, uma vez que a sentença está fundamentada de maneira concreta e a elevação da pena não foi feita de forma excessiva.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ESTELIONATO MAJORADO. CAIXA ECONÔMICA FEDERAL. PRECATÓRIO. DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. FIXAÇÃO DA PENA FEITA DE MODO PROPORCIONAL.
+Ordemdenegada.
