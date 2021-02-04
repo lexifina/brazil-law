@@ -1,0 +1,32 @@
+D E C I S Ã O
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça que está assim ementado:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. ‘HABEAS CORPUS’ NÃO CONHECIDO. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR Nº 182/STJ. AGRAVO DESPROVIDO.
+    I – Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+    II – ‘In casu’, a Defesa limitou-se a reprisar os argumentos do ‘habeas corpus’, o que atrai o Enunciado Sumular nº 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+    Agravo regimental desprovido.”
+    (HC 618.615-AgRg/SP, Ministro Felix Fischer)
+    Em suas razões, a parte impetrante pretende, com fundamento no art. 117, III, da Lei de Execução Penal, que seja concedida prisão domiciliar ao paciente, eis que “o mesmo é o único responsável pelo seu filho menor de 12 (doze) anos”.
+    Inicialmente, insta destacar a autorização regimental deste Supremo Tribunal Federal para o julgamento imediato do presente feito pelo Relator, independentemente de prévia manifestação do Ministério Público Federal (RISTF, arts. 21, §1º e art. 52, parágrafo único).
+    Tal o contexto, entendo não assistir razão à parte impetrante.
+    Do exame dos presentes autos, é possível constatar que o ora paciente, que é pai de menor de 12 (doze) anos, está cumprindo pena definitiva em regime fechado.
+    É certo que, excepcionalmente, esta Suprema Corte, assim como o Superior Tribunal de Justiça, tem admitido a extensão do benefício da prisão domiciliar, previsto no art. 117 da LEP, a presos em cumprimento de pena mais gravoso do que o regime aberto, desde que a peculiaridade do caso concreto indique ser a prisão domiciliar a medida mais adequada para o caso (HC 193.272/SP, Ministro Dias Toffoli; HC 194.217/RS, Ministra Cármen Lúcia).
+    Ocorre que, conforme largamente corroborado pelas instâncias ordinárias, a parte impetrante não se desobrigou de comprovar a imprescindibilidade do paciente aos cuidados do filho menor, o que leva, forçosamente, ao indeferimento do benefício pleiteado.
+    Nesse mesmo sentido foi a conclusão do acórdão ora atacado:
+    “(...) Conforme se depreende, não há que se falar em constrangimento ilegal no presente caso. O eg. Tribunal ‘a quo’ indeferiu o pedido de prisão domiciliar em razão de se tratar de sentenciado que cumpre pena em regime fechado, salientando que ‘o menor se encontrar sob os cuidados da tia (irmã do paciente), e não dos avós, como mencionado no ‘decisum’, não modifica o entendimento, até porque com a saúde debilitada daqueles, a situação mais favorável ao infante é mesmo permanecer sob a guarda da tia que, como parente, também é responsável pela criança. Assim, não restando demonstrado nos autos que o paciente seja a única pessoa capaz de dispensar os cuidados para a criança’ (fl. 21); deixa claro, ainda, que não restou demonstrado, de forma cabal, a imprescindibilidade dos cuidados com a criança a ponto de justificar a relativização do cumprimento de suas penas.
+    Destarte, as decisões proferidas pelas instâncias ordinárias estão de acordo com entendimento deste eg. Tribunal Superior sobre o tema, no sentido de que a concessão de prisão em regime domiciliar a apenados que cumpram sua reprimenda em regime prisional diverso do aberto necessita de comprovação, no caso, da imprescindibilidade dos cuidados do apenado, o que não restou demonstrado.” (com meus grifos)
+    Cabe transcrever, em razão da sua similitude ao presente caso, a ementa do seguinte julgado proferido por este Supremo Tribunal Federal, cuja interpretação é idêntica à que ora se aplica:
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. PEDIDO DE PRISÃO DOMICILIAR.  ARTIGO 117 DA LEI DE EXECUÇÕES PENAIS. NÃO PREENCHIMENTO DOS REQUISITOS AUTORIZADORES. ABRANDAMENTO. EXCEPCIONALIDADE NÃO COMPROVADA NOS AUTOS.
+    (…)
+    3. Na dicção do art. 117 da Lei de Execuções Penais, ‘somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de: I – condenado maior de 70 (setenta) anos; II – condenado acometido de doença grave; III – condenada com filho menor ou deficiente físico ou mental; IV – condenada gestante’.
+    4. As instâncias anteriores, ao apreciarem exaustivamente a matéria, consignaram que a Defesa não demonstrou a imprescindibilidade da ora recorrente para os cuidados com os filhos.
+    5. Agravo regimental conhecido e não provido.”
+    (HC 185.404-AgR/SC, Ministra Rosa Weber – com meus grifos)
+    Registre-se, por fim, que para divergir do entendimento fixado pelas instâncias de origem no sentido de que o paciente “não é a única pessoa capaz de dispensar os cuidados para a criança”, seria indispensável o reexame de todo conjunto fático-probatório produzido nos autos, providência inviável na via estreita do habeas corpus, que não admite dilação probatória nos termos da jurisprudência pacífica desta Suprema Corte: HC 175.924-AgR/PR, Ministro Gilmar Mendes; HC 182.710- -AgR/SP, Ministro Alexandre de Moraes; HC 190.845-AgR/PE, Ministro Ricardo Lewandowski; RHC 143.055-AgR/PR, Ministro Edson Fachin:
+    “‘HABEAS CORPUS’ – SITUAÇÃO DE ILIQUIDEZ QUANTO AOS FATOS SUBJACENTES AO PROCESSO PENAL – CONTROVÉRSIA QUE IMPLICA EXAME APROFUNDADO DE FATOS E CONFRONTO ANALÍTICO DE MATÉRIA ESSENCIALMENTE PROBATÓRIA – INVIABILIDADE NA VIA SUMARÍSSIMA DO PROCESSO DE ‘HABEAS CORPUS’ – RECURSO DE AGRAVO IMPROVIDO.
+    – O processo de ‘habeas corpus’, que tem caráter essencialmente documental, não se mostra juridicamente adequado quando utilizado com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (HC 125.131-AgR/DF, Ministro Celso de Mello)
+    Em face do exposto, indefiro o pedido de habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 04 de fevereiro de 2021.
+Ministro NUNES MARQUES
+Relator
