@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo contra decisão denegatória de recurso especial interposto pela FAZENDA NACIONAL contra acórdão assim ementado (e-STJ fls. 3.762/3763):
+TRIBUTÁRIO E PROCESSUAL CIVIL. REMESSA NECESSÁRIA E APELAÇÃO DA UNIÃO.INCLUSÃO DO ISS NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS.IMPOSSIBILIDADE. CONCEITO CONSTITUCIONAL DE FATURAMENTO. RECEITA DE TERCEIRO. PRECEDENTE FIRMADO PELO STF EM JULGAMENTO DE RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL RECONHECIDA. DIREITO À COMPENSAÇÃO. HONORÁRIOS ADVOCATÍCIOS NO CPC/15. LITIGÂNCIA DE MÁ-FÉ DA UNIÃO AFASTADA.
+1. A jurisprudência do STF é pacífica no sentido de que, para a aplicação da orientação firmada em repercussão geral, não é necessário aguardar o trânsito em julgado do acórdão ou tampouco a apreciação de eventual pedido de modulação de efeitos. Basta a publicação da ata do julgamento do recurso extraordinário no Diário de Justiça.
+2. Ao julgar o RE nº 574.706/PR, sob a sistemática da repercussão geral, o Supremo Tribunal Federal fixou a tese de que "o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS", na medida em que o imposto estadual não corresponde a faturamento ou mesmo receita da pessoa jurídica, por não se incorporar ao patrimônio desta, mas apenas transitar pela respectiva contabilidade.
+3. Orientação que observa, além do art. 195, I, b, da CRFB/88, os princípios da capacidade contributiva e da isonomia tributária (arts. 145, § 1º, e 150, II).
+4. Direito à compensação dos valores indevidamente recolhidos pela Autora nos cinco anos anteriores ao ajuizamento da ação, acrescidos de taxa SELIC, com outros tributos administrados pela SRFB, observado o art. 170-A do CTN.
+5. Embora o Juízo de origem tenha limitado o direito à compensação nos termos do art. 26, parágrafo único, da Lei 11.457/2007, a Autora não interpôs recurso contra tal limitação. Diante disso, a sentença deve ser mantida quanto ao ponto.
+6. Nos casos em que a sentença for ilíquida, o percentual relativo aos honorários deve ser fixado após a liquidação, quando só então será apurado o valor da condenação ou do proveito econômico obtido (art. 85, § 4º, do CPC/15).
+7. ApelaçãodaUniãoaquesenegaprovimento.Remessanecessáriaaquesedáparcialprovimento.
+Contra esse acórdão, foraminterpostos recurso especial e recurso extraordinário.
+Passo a decidir.
+A questão, objeto do apelo extremo interposto na origem, teve a repercussão geral reconhecida pelo Supremo Tribunal Federal no julgamento do RE 592.616-RS (Tema 118), nestes termos:
+DIREITO TRIBUTÁRIO. ISS. INCLUSÃO NA BASE DE CÁLCULO DA CONTRIBUIÇÃO AO PIS E DA COFINS. CONCEITO DE FATURAMENTO. EXISTÊNCIA DE REPERCUSSÃO GERAL.
+Nesse contexto, reconheço que a existência de recurso extraordinário, que trata do mérito da matéria acima identificada, é prejudicial à análise do recurso especial de mesmo objeto, razão pela qual os autos deverão retornar ao Tribunal de origem para que lá seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja realizada.
+Publique-se. Intimem-se.
