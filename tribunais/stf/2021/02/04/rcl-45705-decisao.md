@@ -1,0 +1,46 @@
+Decisão
+    Trata-se de reclamação contra acórdão proferido pelo Superior Tribunal de Justiça, o qual teria desrespeitado a decisão desta CORTE no julgamento da RE 98.740 (Rel. Min. OSCAR CORREA).
+    Na inicial, o reclamante expõe as seguintes alegações de fato e de direito (fls. 3/5):
+    Ao apreciar AgREsp nº 1.120.471-MG (2017/0142762-2), o eminente Ministro Relator deu provimento ao recurso do Reclamante, através da seguinte r. Decisão monocrática:
+    “PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. CONSELHO REGIONAL DE MEDICINA VETERINÁRIA. ATIVIDADE BÁSICA DE ABATEDOURO/FRIGORÍFICO. NECESSIDADE DE REGISTRO NO CONSELHO REGIONAL DE MEDICINA VETERINÁRIA. ENQUADRAMENTO NO ART. 5º, F, DA LEI 5517/1968. AGRAVO CONHECIDO. RECURSO ESPECIAL DO CONSELHO REGIONAL A QUE SE DÁ PROVIMENTO.” (fl. 463/468 – autos anexos).
+    Nesta inquestionável Decisão, Sua Excelência mencionou à ocasião, em suas razões de decidir, os precedentes existentes no Colendo SUPERIOR TRIBUNAL DE JUSTIÇA sobre a matéria, fazendo, inclusive, referência ao prequestionamento pelo ora Reclamante quanto ao RECURSO EXTRAORDINÁRIO nº 98.740-MG, proferido por esse Excelso SUPREMO TRIBUNAL FEDERAL, transitado em julgado e havido entre as mesmas partes.
+    (...)
+    Contudo, já na terceira Decisão proferida no AgInt nos EDcl no Agravo em REsp nº 1.120.471-MG (2017/0142762-2), sem qualquer justificativa de ordem legal ou jurisprudencial e, desprezando a legislação então invocada, os recentes precedentes de jurisprudência da própria Colenda Corte a quo, sobretudo, o julgamento em regime de Repercussão Geral no RECURSO ESPECIAL nº 1.696.531/SC sobre o mesmo dispositivo do Art. 5º, “f”, da Lei nº 5.517/68 (1ª Turma – Julg. 03.05.2018 – DJ-e de 14.05.2018), sua Excelência adotou nova e radical decisão contrária ao seu posicionamento anterior, verbis:
+    “PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ATIVIDADE BÁSICA DE ABATEDOURO/FIRGORÍFICO. DESNECESSIDADE DE REGISTRO NO CONSELHO REGIONAL DE MEDICINA VETERINÁRIA. AGRAVO INTERNO PROVIDO PARA, RECONSIDERANDO A DECISÃO DE FLS. 459/464, NEGAR PROVIMENTO AO AGRAVO EM RECURSO ESPECIAL DO CONSELHO REGIONAL DE MEDICINA VETERINÁRIA DO ESTADO DE MINAS GERAIS.”
+    Diante disso, o Reclamante interpôs, então, o AgInt no AgInt nos EDcl no Agravo em REsp nº 1.120.471/MG, tendo a Primeira Turma do Colendo SUPERIOR TRIBUNAL DE JUSTIÇA, através do v. Acórdão objeto desta RECLAMAÇÃO, ratificado a última Decisão do Ministro Relator.
+    (...)
+    O Reclamante interpôs Embargos de Declaração, em razão de omissão do julgado proferido pela Primeira Turma, em razão da demonstrada especificidade do caso sub examine, prequestionada desde a primeira instância, relacionada à COISA JULGADA proferida no bojo de ação de mesmo pedido e objeto havida entre as mesmas Partes, em pronunciamento final e definitivo por esse Excelso SUPREMO TRIBUNAL FEDERAL, no julgamento do RECURSO EXTRAORDINÁRIO nº 98.740-MG que, em Decisão de mérito, obrigou o registro da empresa SADIA S/A, sucedida por BRFoods S/A, junto ao Conselho ora Reclamante – CRMV/MG (cf. Acórdão – fls. 60/74), sendo este o ponto central desta RECLAMAÇÃO, ora em debate.
+    Com efeito, aludido julgado desse Excelso SUPREMO TRIBUNAL FEDERAL, proferido em ação de mesmo pedido e objeto havida entre as mesmas Partes, conferiu idêntica interpretação àquela que havia sido afirmada pela primeira r. Decisão de fls. 459/464 do eminente Ministro Relator deste AgREsp. 1.120.471-MG, no tocante ao expresso enquadramento legal das atividades da empresa BRFoods S/A ao disposto no Art. 5º, alínea “f”, da Lei nº 5.517/68, devidamente recepcionado pela Carta Constitucional de 1988.
+    (...)
+    O Reclamante aviou, então, RECURSO EXTRAORDINÁRIO aduzindo a violação à COISA JULGADA proferida no bojo de ação de mesmo pedido e objeto havida entre as mesmas Partes, em pronunciamento final e definitivo por esse Excelso SUPREMO TRIBUNAL FEDERAL, no julgamento do RECURSO EXTRAORDINÁRIO nº 98.740-MG.
+    Não obstante, foi negado seguimento ao recurso do Reclamante (fls. 696/697).
+    Em seguida, por Decisão colegiada da Colenda Corte a quo, entendeu-se pelo descabimento e não conhecimento do Agravo em RExt, negando-se a subida do apelo extraordinário (fls. 731/736).
+    Pela presente RECLAMAÇÃO, pretende-se GARANTIR A AUTORIDADE DA DECISÃO dessa MAGNA CORTE, proferida no RECURSO EXTRAORDINÁRIO nº 98.740-MG, transformado em COISA JULGADA, tendo por base as mesmas partes (SADIA S/A – sucedida pela BRFoods S/A), o mesmo objeto e pedido e as mesmas Leis vigentes (f. 60/74 – autos anexos).
+    Ao final, requer a concessão de medida liminar para de suspender o processo e, no mérito, a procedência da reclamação, para que seja cassada a Decisão ora impugnada, convalidando-se a Decisão unânime proferida por essa MAGNA CORTE no RECURSO EXTRAORDINÁRIO nº 98.740-MG  (fl. 9).
+    É o relatório. Decido.
+    A respeito do cabimento da reclamação para o Supremo Tribunal Federal, dispõem os arts. 102, I, l e 103-A, caput e § 3º, ambos da Constituição Federal:
+    Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+     I - processar e julgar, originariamente:
+    (...)
+    l) a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões;
+    Art. 103-A. O Supremo Tribunal Federal poderá, de ofício ou por provocação, mediante decisão de dois terços dos seus membros, após reiteradas decisões sobre matéria constitucional, aprovar súmula que, a partir de sua publicação na imprensa oficial, terá efeito vinculante em relação aos demais órgãos do Poder Judiciário e à administração pública direta e indireta, nas esferas federal, estadual e municipal, bem como proceder à sua revisão ou cancelamento, na forma estabelecida em lei.
+    (...)
+    § 3º Do ato administrativo ou decisão judicial que contrariar a súmula aplicável ou que indevidamente a aplicar, caberá reclamação ao Supremo Tribunal Federal que, julgando-a procedente, anulará o ato administrativo ou cassará a decisão judicial reclamada, e determinará que outra seja proferida com ou sem a aplicação da súmula, conforme o caso.
+    Veja-se também o art. 988, I, II e III, do Código de Processo Civil:
+    Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    O paradigma de confronto invocado é o decidido por esta CORTE no julgamento do RE 98.740, Rel. Min. OSCAR CORREA, DJ de 9/9/1983, que conforme a parte autora, transformou-se em coisa julgada, tendo por base as mesmas partes, o mesmo objeto e pedido e as mesmas Leis vigentes.
+    Na presente hipótese, o Superior Tribunal de Justiça, ao julgar o agravo interposto contra decisão denegatória de recurso extraordinário, não conheceu do recurso, por este ser manifestamente incabível. Decerto, tal decisão não merece reparo, uma vez que, incabível dar trânsito ao Agravo em Recurso Extraordinário em razão da negativa de seguimento ao RE com esteio em orientações do STF estabelecidas sob o rito da repercussão geral, não burlando, por consequência, o disposto na Súmula 640 deste TRIBUNAL.
+    No voto condutor do acórdão do STJ, houve a seguinte determinação expressa: Certifique-se o trânsito em julgado da decisão que negou seguimento ao recurso extraordinário. Considerando tal decisão, tem-se que a data da certificação do trânsito do processo originário deu-se em 30/9/2020.
+    Nesse contexto, a pretensão da parte autora é manifestamente incabível, visto que o presente reclamação foi proposta somente em 2/2/2021.
+    Desse modo, é aplicável, ao caso sob exame, o art. 988, § 5º, inciso I, do CPC, assimilação, pelo novo código processual, de antigo entendimento do STF, enunciado na Súmula 734 (Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal), razão pela qual a presente reclamação é manifestamente incabível.
+    Dessa forma, a postulação não passa de simples pedido de revisão do entendimento aplicado na origem, o que confirma a inviabilidade desta ação. Esta CORTE já se pronunciou, por diversas vezes, no sentido de que a reclamação constitucional não deve ser utilizada como sucedâneo recursal ou atalho processual para postular diretamente no STF a observação de precedente vinculante estabelecido sob a sistemática da Repercussão Geral, por não ser substitutivo de recurso ou de ação rescisória (Rcl 31.486 AgR, Rel. Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 19/11/2018, DJe de 26/11/2018; (Rcl 16.038 AgR, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 30/10/2014).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO À RECLAMAÇÃO.
+    Por fim, nos termos do art. 52, parágrafo único, do Regimento Interno do Supremo Tribunal Federal, dispenso a remessa dos autos à Procuradoria-Geral da República.
+    Publique-se.
+    Brasília, 4 de fevereiro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
