@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo manejado por Energisa Sul-Sudeste - Distribuidora de Energia Elétrica S.A. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (fl. 409):
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA - COBRANÇA DE BANDEIRA TARIFÁRIA INSTITUÍDA PELA ANEEL - INSURGÊNCIADO CONSUMIDOR - LEGITIMIDADE DA CONCESSIONÁRIA DEENERGIA ELÉTRICA - PRECEDENTE DO EG. SUPERIOR TRIBUNALDE JUSTIÇA - TRAMITAÇÃO DO FEITO PERANTE A JUSTIÇAESTADUAL.RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação ao art.114 do CPC/2015. Sustenta que a Agência Nacional de Energia Elétrica - ANEEL detém legitimidade para figurar no pólo passivo da lide pela existência de litisconsórcio passivo necessário posto que"a natureza da relação jurídica controvertida cinge-se à discussão quanto a legalidade da resolução normativa 547/2013 editada pela ANEEL, por sua vez, no que tange à eficácia da sentença, a eventual declaração da ilegalidade da resolução normativa 547/2013 impactará diretamente sobre a politica tarifária executada pela agência reguladora, cabendo exclusivamente a ela a adoção das medidas necessárias a adequação do sistema elétrica ao fim do sistema de bandeiras tarifárias." (fl. 436).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta êxito, poisamatéria pertinente ao art. 114do CPC/20105 não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
