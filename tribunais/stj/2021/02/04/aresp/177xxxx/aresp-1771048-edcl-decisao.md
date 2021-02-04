@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interposto por JOSÉ ANTONIO CAMARGO e TEREZINHA DE FÁTIMA DE LIMA CAMARGO contra decisão que não conheceu do recurso especial interposto pela própria embargante.
+Nas razões dos embargos de declaração, a parte sustenta que "os julgados desta c. Corte que compõem a decisão estabelecem o valor de 300 (trezentos)a 500 (quinhentos) salários mínimos para cada familiar, afigurando-se o valor arbitrado como evidentemente vil aos parâmetros jurisprudenciais desta Colenda Corte" (e-STJ. fl. 883).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte Embargada foi devidamente intimada para contrarrazoar estes aclaratórios.
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese, pois todas as questões aduzidas em sede de especial foram devidamente analisadas.
+Vale ressaltar que o Tribunal de origem, soberano na análise das provas carreadas aos autos, entendeu que a fixação de quantum indenizatório de 25 mil reais para cada um dos recorrentes é razoável e proporcional ao dano e as condições econômicas dos evolvidos, assim como a forma como se deu o acidente.
+Consolidou-se no Superior Tribunal de Justiça o entendimento de que, em âmbito de recurso especial, os valores fixados a título de indenização por danos morais, porque arbitrados com fundamento nas peculiaridades fáticas de cada caso concreto, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, o que não se vislumbra no caso em tela.
+Assim, alterar o entendimento da Corte local que, com base nas premissas do caso em comento, fixou o valor a ser indenizado em 50 mil reais, 25 mil para cada recorrente, demandaria o revolvimento do acervo fático probatório dos autos. O que encontra óbice na Súmula 7/STJ.
+Ademais, "o STJ firmou entendimento no sentido de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto" (AgInt no AgInt no AREsp 879.722/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/11/2016, DJe 16/11/2016).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Ilustrativamente, veja-se o seguinte precedente: EDcl no AgRg nos EREsp 1315507/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/08/2014, DJe 28/08/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (artigo 1.026, § 2.º, do Código de Processo Civil).
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, elimin ar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+2. Embargos de declaração rejeitados.
