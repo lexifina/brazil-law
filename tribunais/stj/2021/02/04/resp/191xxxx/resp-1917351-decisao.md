@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de recurso especial interposto porCONSTRUÇÕES E COMÉRCIO CAMARGO CORRÊA S/A, com fundamento na alínea "a" do permissivo constitucional.
+Recurso especial interposto em:24/01/2020.
+Concluso ao gabinete em:01/02/2021.
+Ação:indenização por danos materiais,morais e responsabilidade civil ajuizada por PORTO MADEIRA TURISMO LTDA,em face darecorrente, em razão de terem sido queimados veículos da autora que realizava o transporte de funcionários da recorrente.
+Sentença:julgou parcialmente procedentes os pedidos para condenar arecorrenteao pagamento de indenização referente aos quatro veículos incendiados, cujo valor deverá ser apurado em liquidação de sentença.
+Acórdão:negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+Apelação cível. Reparação de danos. Materiais. Morais.Legitimidade passiva. Responsabilidade contratual e extracontratual.Obrigação de ressarcimento. Configuração. Dano moral.Comprovação de abalo. Ausência.
+A legitimidade passiva no caso, está diretamente ligada à existência de vínculo jurídico entre as partes, a qual facilmente se observa pelo contrato firmado entre ambas Havendo previsão contratual de responsabilidade da empresa contratante, deve esta indenizar os prejuízos causados à empresa contratada.
+Responde a empresa por ato doloso de seus empregados, os prejuízos causados a terceiro, decorrente do postulado civilista inserido no art. 932, do Diploma Substancial conjugado com a Súmula 341 do STF.
+Não havendo provas de danos morais em virtude de abalo da credibilidade e bom nome, não há como acolher o pedido de indenização. (e-STJ fl. 1.270).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial:Sustenta violação dos arts. 11, 373, II, 476, 489, § 1º, IV, 642, 932, 942, 1.022 do CPC/15; 186, 844, 944 e 927 do CC/02. Além de negativa de prestação jurisdicional, sustentaque "demonstrou estar isenta do dever de indenizar uma vez que o Inquérito Policial nº 027/2011-DERFRESEF foi contundente em atestar que o motim dos trabalhadores não era esperado  ao contrário, a conclusão da investigação conduzida pela autoridade policial foi a de que a revolta foi desencadeada "quando um trabalhador foi agredido por motoristas que transportam os operários dentro e fora da obra" (fls. 734 e 734-vº), ou seja, foi provocada por um fato fortuito ("briga") que se deu de forma imprevista.Além disso, como a recorrida não contratou o seguro  fato reconhecido pelo acórdão  , não tem ela o direito de reclamar a indenização da recorrente, pois, em cláusulacontratual expressa válida, ela havia se comprometido a isentar a "CONTRATANTE de quaisquer responsabilidades por eventuais danos sofridos aos equipamentos em consequência de acidentes durante a prestação dos serviços ora avençados""(e-STJ fls. 1.375/1.376)
+Aduz, ainda, sua ilegitimidade passiva, pois os danos gerados nos veículos da recorrida, foram resultado de uma revolta ocorrida no canteiro de obras.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art.1.022 do CPC/15.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão assim decidiu quanto aos supostos pontos omissos, no tocante à comprovação da responsabilidade e dever de indenizar, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+- Do reexame de fatos e provas e da interpretação de cláusulacontratual
+O TJ/RO assim se manifestou para o deslinde da controvérsia:
+Em que pese o depoimento das testemunhas tenha sido citado na sentença, certo é que foram analisadas todas as provas colacionadas nos autos, inclusive o IP 07/2011 DERFRESEF foi necessário para apuração do feito, pois juntado por ambas as partes, e seu relatório é preciso, apontando a causa da revolta dos operários no canteiro de obras, com entrevista a várias testemunhas dentre policiais, funcionários e empresários que também foram prejudicados pelo fato ocorrido nas dependências do canteiro de obras da Usina de Jirau no mês de março de 2011.
+Destaca-se que, quando da fase de especificação de provas, somente a Porto Madeira requereu a oitiva de testemunhas, o que foi deferido pelo juízo, por isso, somente estas foram ouvidas, pois, por outro lado, a Camargo Corrêa pediu o julgamento antecipado da lide.
+Ressalta-se, ainda, que as testemunhas arroladas foram ouvidas como informantes, mas todo o teor dos depoimentos estava em consonância com os descritos no inquérito policial, portanto, válidos como prova.
+No curso da instrução processual, incumbe ao juiz decidir livremente pelo deferimento ou indeferimento das provas requeridas pelas partes, sempre motivadamente. Neste caso, foi oportunizada a especificação de provas, e somente a autora se manifestou.
+Ainda assim, foram ouvidos os representantes das partes, as testemunhas arroladas somente pela autora e, no mais, o processo está instruído com grande conjunto de provas, em especial, o inquérito policial e os contratos firmados entre as partes, comprovando a relação jurídica, portanto, não há que se falar em desvalorização do conjunto probatório.
+Da Ilegitimidade Passiva A requerida Camargo Corrêa afirma não ser parte legítima para figurar no polo passivo da demanda, atribuindo a causa dos danos a vândalos. Diz que a responsabilidade do empregador restringe-se aos atos praticados pelos empregados, no exercício do trabalho ou em razão deles.
+A legitimidade, no caso, está diretamente ligada à existência de vínculo jurídico entre as partes, o qual facilmente se observa pelo contrato firmado entre ambas.
+Com relação à obrigação contratual, vejo a responsabilidade apontada pela autora da ação.
+Os autos demonstram que os veículos que faziam o transporte diário dos funcionários ficavam estacionados na rodoviária existente nas dependências da Usina de Jirau, administrada pela Camargo Corrêa, logo, era de sua responsabilidade vigiar e guardar o local, pois assumiu os riscos relativos às atividades desenvolvidas, portanto, possui legitimidade passiva para atuar no feito.
+(..)
+Na espécie, os atos de vandalismo foram praticados por vários prepostos da ré, e estes têm relação direta com os danos suportados pela autora.
+Há de se considerar que, embora a Camargo Corrêa alegue que os atos tenham sido praticados por criminosos, não sendo possível identificá-los, o que se vê é que já havia prévio conhecimento de que uma situação de greve ocorreria no canteiro de obras, pois os funcionários estavam insatisfeitos com um diferencial no ticket alimentação, diminuição da visita às famílias, dentre outras reivindicações que não haviam sido atendidas.
+A prova testemunhal, tanto dos autos, quanto do inquérito policial, indicam que o motim dos trabalhadores já era esperado e, mesmo assim, a empresa não buscou meios de evitar ou coibir os atos perpetrados por seus funcionários.
+Verifica-se, portanto, que a demandada foi negligente ao deixar de adotar medidas de segurança pra evitar ou danos. Embora, seja de conhecimento que a ré também tenha emergido em prejuízos, tal fato não a isenta da responsabilidade pelo que aconteceu com os veículos da requerente, pois contribuiu para que os seus funcionários se amotinassem, causando os danos, logo, deve responder pelos riscos das atividades que explora.
+Desse modo, quer seja pela obrigação contratual presente nos autos, quer pela responsabilidade extracontratual, deve a requerida indenizar a requerente. (e-STJ fls. 1.274/1.277).
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva, comprovação do ato ilícito e excludente de responsabilidade, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO PARCIALMENTE do recurso especial e, nessa parte, NEGO-LHE PROVIMENTO, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS E RESPONSABILIDADE CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de indenização porde danos materiais, morais e responsabilidade civil.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva, comprovação do ato ilícito e excludente de responsabilidade, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+5.Recurso especial parcialmente conhecido e, nessa parte, não provido.
