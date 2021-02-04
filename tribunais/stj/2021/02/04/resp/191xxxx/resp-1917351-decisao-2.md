@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PORTO MADEIRA TURISMO LTDA, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/07/2020.
+Concluso ao gabinete em: 01/02/2021.
+Ação: indenização por danos materiais, morais e responsabilidade civil ajuizada por PORTO MADEIRA TURISMO LTDA, em face da CONSTRUÇÕES E COMÉRCIO CAMARGO CORRÊA S/A, em razão de terem sido queimados veículos da autora que realizava o transporte de funcionários da recorrida.
+Sentença: julgou parcialmente procedentes os pedidos para condenar a recorrida ao pagamento de indenização referente aos quatro veículos incendiados, cujo valor deverá ser apurado em liquidação de sentença.
+Acórdão: negou provimento às apelações interpostas por ambas as partes, nos termos da seguinte ementa:
+Apelação cível. Reparação de danos. Materiais. Morais. Legitimidade passiva. Responsabilidade contratual e extracontratual. Obrigação de ressarcimento. Configuração. Dano moral. Comprovação de abalo. Ausência.
+A legitimidade passiva no caso, está diretamente ligada à existência de vínculo jurídico entre as partes, a qual facilmente se observa pelo contrato firmado entre ambas Havendo previsão contratual de responsabilidade da empresa contratante, deve esta indenizar os prejuízos causados à empresa contratada.
+Responde a empresa por ato doloso de seus empregados, os prejuízos causados a terceiro, decorrente do postulado civilista inserido no art. 932, do Diploma Substancial conjugado com a Súmula 341 do STF.
+Não havendo provas de danos morais em virtude de abalo da credibilidade e bom nome, não há como acolher o pedido de indenização. (e-STJ fl. 1.270).
+Recurso especial: Sustenta violação dos arts. 186, 420 e944 do CC/02. Sustenta que tem direito a indenização por danos morais e lucros cessantes, alegando que "ainda nas hipóteses em que o tomador não tenha dado causa diretamente ao infortúnio laborai, certo é que ele há de responder pelos danos sofridos pela vítima que lhe prestava serviço, no caso a Recorrente" (e-STJ fl. 1.438); e que"a Recorrente deixou de receber a remuneração pela prestação de serviço de transporte contratados, que é de sua natureza" (e-STJ fl. 1.440).
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusula contratual
+O TJ/RO assim se manifestou para o deslinde da controvérsia:
+Quanto aos lucros cessantes, alega que tinha um contrato com a ré, de R$15.800,00 por veículo locado, acrescido de R$3,47 (três reais e quarenta e sete centavos) por quilômetro rodado, o que perfazia uma média mensal de R$36.117,19 (trinta e seis mil cento e dezessete reais e dezenove centavos) por ônibus. Diz que deixou de receber remuneração pela prestação de serviços de transportes contratados, o que, desde março de 2011, corresponde ao valor de R$2.591.692,14 (dois milhões quinhentos e noventa e um mil, seiscentos e noventa e dois reais e quatorze centavos) corrigido e atualizado até 5/3/2014.
+Observa-se, do conjunto probatório, que a demandante apresentou a cópia do 8º termo aditivo ao Contrato de Prestação de Serviços nº. 4600050911, firmado entre as partes (fls. 321/32-e), o qual teve como objeto a alteração de vigência do contrato e inclusão de quantidade na planilha de preços.
+Referido termo, datado de 30 de novembro de 2012, após a ocorrência do sinistro, revela que as partes continuaram com a contratação e que a Porto Madeira continuou sendo remunerada, pois a vigência do contrato passou a ser de 1º/3/2009 a 31/3/2014, e o valor do contrato, que inicialmente era de R$7.110.000,00 (sete milhões, cento e dez mil reais) passou a ser de R$18.514.354,28 (dezoito milhões, quinhentos e quatorze mil, trezentos e cinquenta e quatro reais e vinte e oito centavos).
+Ou seja, a autora não deixou de lucrar. Não há, no termo aditivo, informações de que os serviços ficaram suspensos por algum período. Ademais, certo é que a frota estava comprometida com o contrato discutido, não havendo sinais de que a autora tivesse outro contrato com outras empresas que tenha deixado de cumprir com seu encargo ou sofrido prejuízo, portanto, não há lucro cessante a ser indenizado.
+Quanto aos danos materiais inerentes a impostos, taxas e despesas, verifica-se que autora não comprovou que arcou com tais despesas, o que impossibilita ressarcimento.
+Quanto aos alegados danos morais, em virtude de ter passado por sérias dificuldades financeiras e abalo de crédito, não vislumbro no caso, até porque a autora foi paga na sua integralidade pelo contrato e não conseguiu comprovar que os diversos protestos em seu nome a impediram de praticar atos da empresa ou se estão relacionados ao fato objeto dos autos, não demonstrando o abalo à honra objetiva. (e-STJ fls. 1.277/1.278).
+Desse modo, alterar o decidido no acórdão impugnado, no que se refere à legitimidade passiva, comprovação do ato ilícito e excludente de responsabilidade, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo para NÃO CONHECER do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS,MORAIS E RESPONSABILIDADE CIVIL.REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ.
+1. Ação de indenização por danos materiais, morais e responsabilidade civil.
+2. Alterar o decidido no acórdão impugnado, no que se refere aos lucros cessantes, e à indenização por danos materiais e morais, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+3. Agravo conhecido. Recurso especial não conhecido.
