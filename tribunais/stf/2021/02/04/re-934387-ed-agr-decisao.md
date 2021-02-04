@@ -1,0 +1,27 @@
+Trata-se de agravo regimental interposto pela União contra decisão que, ao acolher parcialmente os embargos de declaração opostos por Yolanda Participações S/A, deu parcial provimento ao recurso extraordinário interposto contra o acórdão proferido pelo Tribunal Regional Federal da 2ª Região (documento eletrônico 47).
+    A agravante aponta que, ante a ausência de quórum para declarar a inconstitucionalidade da tributação sobre empresas controladas situadas fora dos chamados paraísos fiscais,
+    “[...] o entendimento firmado pela Suprema Corte, em complemento ao precedente indicado no decisum, é da validade do art. 74 da Medida Provisória 2.158-35, de 2001, independentemente da localidade da controlada no exterior”
+    Registra que,
+    “[...] em momento posterior à ADI 2588, a Corte ao apreciar o RE 541.090/SC, decidiu que também a regra de tributação imposta pelo art. 74 seria constitucional em relação às controladas fora de paraísos fiscais ou regimes fiscais privilegiados” (pág. 2 do documento eletrônico 50).
+          pois,
+    “[...] o STF considerou que a situação das empresas controladas situadas fora de países com tributação favorecida não foi objeto de julgamento na ADI 2.588/DF, razão pela qual foi mantida a constitucionalidade da cobrança com base no art. 74 do MP nº 2.158-35/01” (pág. 3 do documento eletrônico 50).
+    A agravada, por outro lado, anota que inexiste qualquer precedente vinculante que tenha reconhecido a constitucionalidade do art. 74 da MP 2.158-35/2001 “[...] para a hipótese de controlada não sediada em paraíso fiscal” (pág. 2 do documento eletrônico 52).
+    Aduz que a ADI 2.588/DF não declarou a constitucionalidade do art. 74 da MP 2.158-35/2001, com efeitos erga omnes, para a situação de empresa controlada que não se situe em paraíso fiscal, enquanto o RE 611.586/PR, de relatoria do Ministro Joaquim Barbosa, apenas reproduziu a tese ali fixada (pág. 3 do documento eletrônico 52).
+    Esclarece que o RE 541.090/SC, que teve o Ministro Teori Zavascki como redator para o acórdão, foi provido apenas para “[...] considerar ilegítima a tributação retroativa nos termos do parágrafo único do art. 74 da MP nº 2.158-35/01”, nada referindo quanto à constitucionalidade do citado dispositivo legal (págs. 3-4 do documento eletrônico 52).
+    Narra, ainda, que é entendimento da Coordenação-Geral de Tributação da Receita Federal
+    “[...] a inexistência de decisão do Plenário desse Supremo Tribunal Federal com eficácia erga omnes e efeito vinculante para aplicação da regra prevista no art. 74 da MP nº 2.158-35/01 à situação das empresas controladas em países sem tributação favorecida” (pág. 5 do documento eletrônico 52).
+    Reconhece, contudo, a partir de quadro esquemático, a constitucionalidade do art. 74 da MP 2.158-35, independentemente da empresa controlada estar localizada em país com ou sem tributação favorecida (pág. 5 do documento eletrônico 52).
+    Assevera que tal discussão, por exigir a análise de normas infralegais e de provas, não alcança o viés constitucional necessário a prover o recurso interposto pela agravante (pág. 6 do documento eletrônico 52).
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico que assiste razão à agravante.
+    O julgamento da ADI 2.588/DF, de relatoria da Ministra Ellen Gracie, e Redator para acórdão o Ministro Joaquim Barbosa, iniciou-se em 5 de fevereiro de 2003 e encerrou-se em 10 de abril de 2013. Como destacou o Ministro Gilmar Mendes, “[...] A complexidade do tema, ademais, se comprova pela dificuldade de se colher o voto médio na ADI 2.588, diante de não menos do que quatro entendimentos diferentes sobre o caso”.
+    Tais entendimentos foram bem definidos pelo Ministro Teori Zavascki em debate dos quais transcrevo o seguinte trecho:
+    “[...]
+    Em suma, nós temos quatro hipóteses possíveis, diante das distinções que Vossa Excelência fez e que a Ministra Ellen fez: as coligadas em paraíso fiscal, as coligadas fora de paraíso fiscal, as controladas em paraíso fiscal e as controladas fora de paraíso fiscal. Coligadas em paraíso fiscal deu cinco a cinco; coligadas fora de paraíso fiscal deu seis a quatro pela inconstitucionalidade; controladas em paraíso fiscal deu seis a quatro pela constitucionalidade; e controladas fora de paraíso fiscal deu cinco a cinco. Em duas situações se tem seis votos e em duas situações se tem cinco a cinco“ (grifei).
+     Com a proclamação do resultado do julgamento da ADI 2.588/DF, remanesceram duas questões que seriam tratadas na apreciação dos REs 611.586/PR e 541.090/SC, de relatoria do Ministro Joaquim Barbosa: a referente às empresas controladas fora de paraíso fiscal e as coligadas em paraíso fiscal.
+    Essas matérias tiveram o mérito julgado em repercussão geral no RE 611.586/PR, de relatoria do Ministro Joaquim Barbosa e no RE 541.090/SC, também de relatoria do Ministro Joaquim Barbosa e redator para o acórdão o Ministro Teori Zavascki que, ao fim e ao cabo, concluíram pela validade do art. 74 da MP 2.158-35/2001 para empresas controladas e coligadas, independentemente de estarem localizadas em países com regime fiscal privilegiado ou não.
+    Isso posto, reconsidero a decisão agravada (documento eletrônico 47) para rejeitar os embargos de declaração opostos por Yolanda Participações S/A, ficando consequentemente prejudicado o agravo regimental interposto (documento eletrônico 50).
+    Publique-se.
+    Brasília, 4 de fevereiro de 2021.
+Ministro Ricardo Lewandowski
+Relator
