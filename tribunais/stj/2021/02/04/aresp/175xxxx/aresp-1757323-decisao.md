@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por MANOEL MACARIO DA SILVAcontra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Alagoas.
+Nas razões do recurso especial, o recorrente alega violação doart. 59 do Código Penal.
+Aduzqueo acórdão, ao manter a consideração desfavorável da culpabilidade, não estaria devidamente fundamentado, não permitindo a elevação da pena-base.
+Ressalta que "se o crime tivesse sido cometido em local inóspito, então, o comportamento do agente seria menos ousado do que o aqui discutido " (e-STJ, fl. 599, grifos no original).
+Afirma que a Corte local teria considerado, indevidamente, a forma de execução do delito para valorar negativamente a culpabilidade.
+Requer, assim, o provimento do recurso para que seja reformado o acórdão recorrido.
+Apresentadas as contrarrazões (e-STJ, fls. 608-612), o recurso foi inadmitido com fundamento na Súmula 7 do STJ (e-STJ, fls. 615-620). Daí este agravo (e-STJ, fls. 630-636).
+O Ministério Público Federal opina pelo não provimento do recurso (e-STJ, fls. 663-667).
+É o relatório.
+Decido.
+Consta dos autos que o agravante foi condenado como incurso no art.155, § 4º, IV, do Código Penal à pena de 3 (três) anos, 2 (dois) meses e 14 (quatorze) dias de reclusão, mais multa.
+No que diz respeito à dosimetria da pena-base, assim constou do acórdão recorrido, no que interessa (e-STJ, fls. 585-586, com destaque):
+"Convém transcrever, por oportuno, o trecho do decisum relativo à primeira fase da dosimetria da pena:
+Culpabilidade. É alta reprovabilidade da conduta sendo praticado o crime de modo consciente, fato ocorrido em 30/02/2015, por volta das 06h30min, na Rua da Alegria, Vila Brejal, no bairro da Levada, nesta capital, em conjunto com seu corréu LEVI SOARES DA SILVA cometeu o crime de furto qualificado, em razão de ter subtraído fios de cobre da empresa Oi Telecomunicações. Na ocasião, o corréu LEVI SOARES DA SILVA havia lhe oferecido R$ 10,00 (dez) reais para pudesse ajudar a empurrar o carrinho que continha os fios de cobre. Desse modo, a empreitada criminosa foi realizada em local movimentado, o que demonstra certa audácia da acusada (sic), tratando o ato delituoso de forma leviana, principalmente quando se tratando do caso à baila, conforme se vê através das provas carreadas aos autos, sendo o item valorado de forma negativa para o Réu.
+ ..
+Diante desse contexto, observa-se, quanto à culpabilidade, que, embora o Magistrado de 1º grau tenha feito apontamentos genéricos sobre a consciência da ilicitude do ato praticado (o que não serve para justificar a elevação da reprimenda), também fundamentou a negativação da referida circunstância no fato de o réu ter praticado o delito em local de intensa movimentação de pessoas, o que denota a audácia do acusado e a elevada intensidade do dolo, evidenciando, portanto, uma maior censurabilidade da conduta.
+Assim, há de ser mantida a avaliação firmada na origem, no sentido de considerar a culpabilidade como sendo desfavorável ao apelante, uma vez que devidamente lastreada em elementos concretos extraídos dos autos."
+Como é cediço, a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+In casu, verifica-se dos autos que a culpabilidade foi valoradade forma desfavorável ao réu.
+No tocante à culpabilidade, para fins de individualização da pena, esta deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, a maior ou menor censura do comportamento do réu, não se tratando de verificação da ocorrência dos elementos da culpabilidade, para que se possa concluir pela prática ou não de delito.
+Não assiste razão ao ora agravante, na medida em que aaudácia do réu, ao cometer o delito em local de grande circulação de pessoas, indica maior reprovabilidade da conduta, autorizando a fixação da pena-base acima do mínimo legal.
+Nesse sentido, com destaques:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE ROUBO. DOSIMETRIA DA PENA. DELITO COMETIDO EM LOCAL DE GRANDE CIRCULAÇÃO DE PESSOAS.EXASPERAÇÃO DA PENA-BASE. CULPABILIDADE. DECISÃO MANTIDA.
+1. A ousadia do agente em cometer o delito em local de grande circulação de pessoas configura fundamento válido a exasperar a pena-base no tocante à culpabilidade.
+2. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+3. Agravo regimental desprovido."
+(AgRg no HC 587.995/AC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 13/10/2020, DJe 19/10/2020).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO.FURTO QUALIFICADO. DOSIMETRIA. PENA-BASE ACIMA DO PISO LEGAL.CIRCUNSTÂNCIAS, CONSEQUÊNCIAS E ANTECEDENTES. MOTIVAÇÃO IDÔNEA DECLINADA. CONFISSÃO ESPONTÂNEA. INCIDÊNCIA DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO INTEGRAL COM A AGRAVANTE DA REINCIDÊNCIA. PENA REVISTA. REGIME PRISIONAL SEMIABERTO MANTIDO. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade.
+3. Para fins do art. 59 do Código Penal, as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o delituoso. In casu, não se infere ilegalidade na primeira fase da dosimetria, pois o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de furto qualificado, pois o paciente arrombou o veículo ao meio dia, na esquina entre as avenidas São João e Ipiranga, área de intenso movimento, o que revela maior audácia, restando, portanto, motivado o incremento da pena-base pelas circunstâncias do delito.
+ .. ."
+(HC 524.452/SP, de minha relatoria, QUINTA TURMA, julgado em 19/09/2019, DJe 24/09/2019).
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL.ROUBO SIMPLES. VIOLAÇÃO DOS ARTS. 59 DO CP E 386, VII, DO CPP.PLEITO DE ABSOLVIÇÃO POR CARÊNCIA DE PROVAS. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL.CIRCUNSTÂNCIAS JUDICIAIS NEGATIVADAS. PLEITO DE REDUÇÃO AO MÍNIMO LEGAL. IMPROCEDÊNCIA. NEGATIVAÇÃO DOS ANTECEDENTES AFASTADA PELA CORTE DE ORIGEM E FUNDAMENTAÇÃO IDÔNEA DA CULPABILIDADE. RECURSO EXCLUSIVO DA DEFESA. POSSIBILIDADE DE MANUTENÇÃO DA PENA-BASE.EFEITO DEVOLUTIVO PLENO DA APELAÇÃO. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. QUANTUM DA PENA NÃO AGRAVADA. PEDIDO DE AUMENTO DA FRAÇÃO DE DIMINUIÇÃO DECORRENTE DA MENORIDADE (ART. 65, I, DO CP).DISCRICIONARIEDADE DO JUÍZO SENTENCIANTE. PROPORCIONALIDADE.VERIFICAÇÃO. OCORRÊNCIA.
+ ..
+3. Quanto ao pleito de redução da pena-base, tem-se que, embora o Tribunal a quo tenha afastado a negativação dos antecedentes, foi justificada, de forma idônea, o desvalor concebido à culpabilidade, sob a tese de que o réu cometera o delito em via de grande movimentação, em plena luz do dia, o que demonstra a sua maior ousadia em perpetrar o delito, bem como a maior reprovabilidade de sua conduta, não havendo que se falar em violação do princípio non reformatio in pejus.
+4. Conforme descrito na decisão ora agravada, segundo a jurisprudência dessa Corte Superior, o efeito devolutivo pleno do recurso de apelação possibilita à Corte de origem, mesmo que em recurso exclusivo da defesa, a revisar as circunstâncias judiciais do art. 59 do Código Penal, bem como a alterar os fundamentos para justificar a manutenção ou redução das reprimendas ou do regime inicial; não sendo o caso de apontar reformatio in pejus se a situação do recorrente não foi agravada, como no caso sob análise, em que a pena definitiva imposta na sentença foi preservada.
+5. Este Superior Tribunal de Justiça firmou entendimento no sentido de que é possível que o Tribunal, ainda que em recurso exclusivo da defesa, revise a fundamentação apresentada na dosimetria da pena realizada na sentença, desde que não modificada a sanção cominada, sem que tal procedimento caracterize indevida reformatio in pejus.
+ ..
+8. Agravo regimental improvido."
+(AgRg no REsp 1781652/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/05/2019, DJe 24/05/2019).
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
