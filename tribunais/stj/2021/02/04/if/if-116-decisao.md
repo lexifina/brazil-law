@@ -1,0 +1,10 @@
+DECISÃO
+No despacho de fls. 205-206, assim me manifestei:
+"Verifica-se dos autos que o pedido de Intervenção Federal foi julgado procedente pela eg. Corte Especial deste Superior Tribunal de Justiça (fls. 500-514).
+De acordo com o art. 315 do Regimento Interno do Superior Tribunal de Justiça, após o julgamento do pedido, compete ao Presidente do STJ às devidas comunicações e requisição de intervenção.
+Dessa forma, encaminhem os autos ao Presidente do STJ para deliberação acerca das medidas cabíveis."
+Verifico ainda que oMinistro Presidente deste Superior Tribunal de Justiça exarou despacho com o seguinte conteúdo (fls. 212-214):
+"Conforme destacou o relator da presente intervenção, o art. 315 do RISTJ prevê que, "julgado procedente o pedido, o Presidente do Tribunal comunicará imediatamente a decisão aos órgãos interessados do Poder Público e requisitará a intervenção ao Presidente da República".
+A competência administrativa atribuída ao Presidente do STJ para dar prosseguimento à intervenção federal não macula as determinações anteriormente proferidas pelos então relatores da ação, pois visavam apenas dar efetividade ao estabelecido no acórdão da Corte Especial. Ressalte-se que ratifico os atos processuais praticados pelos Ministros Felix Fischer e Paulo de Tarso Sanseverino.
+No mais, dado o lapso de tempo entre a última manifestação da Presidência da República (8/9/2016) e a do Ministério da Justiça e Segurança Pública (19/12/2019), solicitem-se-lhes informações atualizadas sobre as providências adotadas para cumprir o acórdão do Superior Tribunal de Justiça que deferiu o pedido de intervenção federal com o objetivo de dar efetividade à decisão do Tribunal de Justiça do Estado do Paraná que julgara procedente o pedido de reintegração de posse ."
+Dessa forma, devolvam-se os autos à Coordenadoria da Corte Especial, devendo a serventia observar que os atos referente à execução do julgado são de competência do Ministro Presidente do Superior Tribunal de Justiça, conforme despachos acima transcritos.
