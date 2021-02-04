@@ -1,0 +1,7 @@
+DECISÃO
+O Superior Tribunal de Justiça, nos autos dos REsp 1.830.508, REsp1.831.371, REsp 1.831.377, todos de Relatoria do Ministro Napoleão NunesMaia Filho, por intermédio da Primeira Seção, em votação eletrônica,submeteu ao rito do recurso especial repetitivo a questão atinente àpossibilidade de reconhecimento da especialidade da atividadede vigilante, exercida após a edição da Lei 9.032/1995 e do Decreto2.172/1997, com ou sem o uso de arma de fogo, Tema Repetitivo 1031.
+A admissão de recurso especial como representativo da controvérsia impõeque os processos que tratem da mesma questão central fiquem suspensos atéo pronunciamento definitivo do STJ e os recursos já interpostos fiquemsobrestados perante o Tribunal de origem, consoante artigo 1.037 doCPC/2015.
+Posteriormente, tais recursos devem ser apreciados na forma prevista nosartigos 1.040 e 1.041 do CPC/2015.
+Nesse contexto, considerando que os demais temas tratados no recursoespecial apresentam relação de prejudicialidade ao tema central, determinoa devolução dos autos ao Tribunal de origem, com baixa da distribuição,para que, após publicados os acórdãos relativos aos recursosrepresentativos da controvérsia, o recurso especial: 1) tenha seguimentodenegado na hipótese de o acórdão recorrido coincidir com a orientação doSuperior Tribunal de Justiça, ou, 2) seja novamente examinado peloTribunal de origem, na hipótese de o acórdão recorrido divergir daorientação do Superior Tribunal de Justiça, observados os artigos 1.040 e1.041 do CPC/2015.
+Publique-se.
+Intimem-se.
