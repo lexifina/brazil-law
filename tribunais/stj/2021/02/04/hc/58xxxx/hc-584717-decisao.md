@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MAICON MOTA CASTANHEIRO apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Habeas Corpus n. 5009013-94.2020.8.24.0000).
+Os autos dão conta de que o paciente foi preso em flagrante pela suposta prática dos crimes previstos nos arts. 14 e 15 da Lei n. 10.826/2003 (porte ilegal de arma de fogo e disparo de arma de fogo em via pública), isso porque (e-STJ fl. 21):
+Extrai-se dos autos que policiais militares foram acionados para atendimento de uma ocorrência de disparos de arma de fogo no bairro Jardim Eldorado, na rua Nossa Senhora Aparecida, sendo que o indivíduo que teria efetuado os disparos estava em um veículo Spacefox, de cor prata.
+Chegando próximo ao local indicado, os agentes públicos visualizaram o veículo informado, conduzido pelo autuado, sendo, então, realizada a sua abordagem. Em buscas no automóvel, foi encontrada, embaixo de um banco, uma pistola marca Taurus, calibre .380, sem munição. Em revista do local dos fatos, foram localizadas duas munições, estando umas delas já deflagrada.
+Na delegacia, o conduzido confessou a prática do delito, esclarecendo que teria efetuado os disparos de arma de fogo porque terceiros estariam "mexendo" com ele.
+Ao ser comunicado da prisão em flagrante, o Juízo da 2ª Vara Criminal da Comarca de Palhoça/SC converteu a prisão em flagrante em preventiva (e-STJ fls. 21/24).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem (e-STJ fls. 18/19).
+No presente writ, a defesa alega que não estão presentes os requisitos autorizadores da prisão preventiva e que, na espécie, "poderá ser aplicado ao feito o princípio da consunção, ou seja, a conduta mais leve é absorvida pela mais grave, quando comprovado o mesmo contexto fático" (e-STJ fl. 11).
+Acrescenta que "o país se encontra em estado excepcional de alerta geral, em virtude da superveniência da pandemia de VÍRUS COVID19 (Coronavírus), tendo sido abordadas diversas medidas de prevenção ao longo de todo o território nacional, com o fito de preservar a saúde pública", e que, é "consabido, o sistema prisional brasileiro é precário e não oferece condições de higiene básicas aos internos, restando impossibilitados de cumprir as recomendações, inclusive, não há possibilidade de sequer manter o distanciamento entre os internos, diante da superlotação. Outrossim, necessário dispor que mesmo diante de todas as medidas tomadas, é quase impossível impedir a disseminação da doença no sistema carcerário" (e-STJ fl. 13 e 14/15).
+Por isso, requer, inclusive liminarmente, seja "concedida a ordem para que seja concedida a prisão domiciliar a MAICON MOTA CASTANHEIRO, a fim de impedir que o Paciente tenha acesso a vários fatores de risco existentes dentro do estabelecimento prisional diante da iminência de propagação do vírus/doença COVID-19" (e-STJ fl. 17).
+Liminar indeferida às e-STJ fls. 39/43.
+Prestadas as informações, o Ministério Público Federal opinou pela prejudicialidade dohabeas corpus (e-STJ fls. 452/458).
+É o relatório.
+Decido.
+Pois bem. Das informações enviadas pelo Juízo de primeiro grau (e-STJ fls. 94/110), verifica-se a superveniência de sentença condenatória em desfavor do paciente, ocasião em que a pena privativa de liberdade foi substituída por restritivas de direitos, concedido a ele, ainda, o direito de recorrer em liberdade, e expedido o competentealvará de soltura.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
