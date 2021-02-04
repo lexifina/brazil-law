@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 9A VARA CRIMINAL DE SÃO PAULO - SJ/SP em face do JUÍZO FEDERAL DA 1A VARA DE ITAJAÍ - SJ/SC.
+O Juízo suscitado declinou de sua competência sob o argumento de que, nos termos da orientação jurisprudencial do Superior Tribunal de Justiça, o juízo competente para processar e julgar o delito de interposição fraudulenta de terceiros em operação de importação seriao do local da sede fiscal da pessoa jurídica responsável pela inserção da informação falsa, com ocultação do real importador.
+O Juízo suscitante, por sua vez, adotandoa manifestação ministerial, declarou-se igualmente incompetente e suscitou o presente conflitocom os seguintes fundamentos (e-STJ fl. 552):
+Conquanto a 3ª Seção do Col. STJ tem recentemente entendido, nos casos de interposição fraudulenta de terceiros em operação de importação, pela competência do local da sede fiscal da pessoa jurídica que inseriu a informação falsa, ocultando o real adquirente das mercadorias, não é esse o único crime investigado nos autos.
+Verifica-se que, além da falsidade ideológica e uso de documento falso, teria ocorrido: a) a prática de ilusão de parte de pagamento de tributo devido pela entrada de mercadorias, como se constata no Relatório Fiscal da Alfândega da Receita Federal do Brasil no Porto de Itajaí - Auto de Infração e Termo de Apreensão e Guarda Fiscal nº 0927800/00191/18 (fl. 11/12 - ID 31698660): "(..) estima-se que o valor do FOB efetivo da mercadoria importada é de U$ 84.475,00, mas o declarado foi de U$40,295,00conduta enquadrada no artigo 334 do CP; b) e importação fraudulenta de mercadoria atentatória à ordem pública, conforme consta do Relatório Fiscal(fl. 19/21 - ID 31698660), pois "foi constatado no website do INMETRO que o CERTIFICADO n 006040/2017 (que constava nas lâmpadas importadas) foi CANCELADO em 26/10/2018(..)" e como as importações de lâmpadas de LED estão sujeitas à certificação compulsória do INMETRO (Portaria INMETRO nº 144/2015), constata-se que houve importação de parte das mercadorias sem autorização do órgão fiscalizador da eficiência energética e segurança dessas lâmpadas, que conduta que se amolda ao artigo 334-A do CP.
+Houve apreensão dessas mercadorias (fls. 22-ID 31698660) e decretação de perdimento (fl. 31 -ID 31698660).
+Constata-se, portanto, a ocorrência de concurso de crimes de descaminho e contrabando, além da falsidade ideológica e uso de documento falso e que o Juízo que primeiro atuou no feito foi o da 1ª Vara de Itajaí/SC.
+A competência para processamento dos crimes de descaminho e contrabando se definem pelo local da apreensão do bem, nos termos do que determina a Súmula 151 do Col. STJ.
+In casu, a mercadoria foi apreendida em Itajaí/SC, local em que foi lavrado o Auto de Infração e Termo de Guarda Fiscal e onde melhor poderá ser colhida a prova, inclusive em eventual caso de realização de perícia nos bens apreendidos, não sendo o caso excepcional de relativizar a aplicação da Súmula 151 do Col. STJ.
+O Ministério Público Federal manifestou-se pela competência do Juízo suscitado em parecer assim ementado (e-STJ fl. 560):
+CONFLITO NEGATIVO DE COMPETÊNCIA. DIVERSAS CONDUTAS DELITIVAS. DENTRE ELAS, CONTRABANDO E DESCAMINHO.
+COMPETÊNCIA PARA PROCESSAMENTO DO FEITO. LOCAL DA APREENSÃO DOS BENS. SÚMULA 151/STJ.
+PARECER PELO CONHECIMENTO DO CONFLITO. DECIDINDO-SE PELA COMPETÊNCIA DO SUSCITADO. O JUÍZO FEDERAL DA 1ª VARA DE ITAJAÍ- SJ/SC.
+É o relatório.
+Decido.
+Cuida-se de incidente instaurado entre juízes vinculados a tribunais diversos, razão pela qual, nos termos do art. 105, I, d, da Constituição Federal, conheço do conflito.
+O cenário delineado nos autos indica, a meu ver, a prática do crime de falsidade tão somente como meio para a consumação do delito de descaminho. Por isso, não procedem as razões do Juízo suscitado ao apontar o local da consumação do primeiro como critério para determinar a competência.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE FALSO. CONSUNÇÃO. EXAURIMENTO NO CRIME FIM. AGRAVO DESPROVIDO.
+1. Conforme precedente firmado em julgamento submetido ao rito dos recursos repetitivos, "o delito de uso de documento falso, cuja pena em abstrato é mais grave, pode ser absorvido pelo crime-fim de descaminho, com menor pena comparativamente cominada, desde que etapa preparatória ou executória deste, onde se exaure sua potencialidade lesiva." (REsp 1.378.053/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 10/8/2016, DJe 15/8/2016).
+2. Agravo regimental desprovido. (AgRg no REsp 1349157/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/06/2018, DJe 01/08/2018.)
+RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. RITO PREVISTO NO ART. 543-C DO CPC. DIREITO PENAL. PRINCÍPIO DA CONSUNÇÃO. DESCAMINHO. USO DE DOCUMENTO FALSO. CRIME-MEIO. ABSORÇÃO. POSSIBILIDADE. RECURSO ESPECIAL IMPROVIDO.
+1. Recurso especial processado sob o rito do art. 543-C, § 2º, do CPC e da Resolução n. 8/2008 do STJ.
+2. O delito de uso de documento falso, cuja pena em abstrato é mais grave, pode ser absorvido pelo crime-fim de descaminho, com menor pena comparativamente cominada, desde que etapa preparatória ou executória deste, onde se exaure sua potencialidade lesiva. Precedentes.
+3. Delimitada a tese jurídica para os fins do art. 543-C do CPC, nos seguintes termos: Quando o falso se exaure no descaminho, sem mais potencialidade lesiva, é por este absorvido, como crime-fim, condição que não se altera por ser menor a pena a este cominada
+4. Recurso especial improvido. (REsp 1378053/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 10/08/2016, DJe 15/08/2016.)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. FALSIFICAÇÃO E USO DE DOCUMENTO FALSO. DESCAMINHO. ABSORÇÃO. CONSUNÇÃO. ACÓRDÃO A QUO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTE TRIBUNAL.
+1. De acordo com a jurisprudência deste Tribunal Superior, é possível que o crime de falso seja absorvido pela figura delitiva do descaminho quando servir como mero instrumento para a consumação do crime de importação irregular de mercadorias, nele esgotando sua potencialidade lesiva.
+2. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+3. Agravo regimental improvido. (AgRg no REsp 1317010/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/08/2015, DJe 20/08/2015.)
+Dessa forma, aplica-se ao caso em exame a orientação sufragada na Súmula n. 151 desta Corte: "a competência para o processo e julgamento por crime de contrabando ou descaminho define-se pela prevenção do Juízo Federal do lugar da apreensão dos bens".
+Competente, portanto, o juízo do local da apreensão dos bens, qual seja, oJuízo Federal da 1ªVara de Itajaí -SJ/SC.
+Ante o exposto, conheço do conflito e dou por competente o Juízo suscitado.
+Publique-se. Comunique-se.
