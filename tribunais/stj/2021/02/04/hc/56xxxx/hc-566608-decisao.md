@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de APARECIDA INDIANARA ZANON em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 7002098-10.2019.8.26.0344).
+Consta dos autos que a paciente foi definitivamente condenada ao cumprimento da pena de 8 anos, 2 meses e 20 dias de reclusão pela prática de roubo majorado e furto qualificado.
+Entendendo haver preenchidos os requisitos legais (cumprimento de 1/6 da pena e bom comportamento carcerário), a apenada postulou a progressão ao regime semiaberto ao Juízo da Vara das Execuções Criminais da Comarca de Marília/SP, tendo sido a postulação deferida (e-STJ fl. 13).
+Irresignado, o Ministério Público estadual interpôs agravo em execução, tendo o recurso sido provido, em acórdão assim ementado (e-STJ fl. 16):
+AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. INSURGÊNCIA MINISTERIAL. AUSÊNCIA DO REQUISITO SUBJETIVO. CRIME GRAVE. HISTÓRICO PRISIONAL DESFAVORÁVEL. REALIZAÇÃO DE EXAME CRIMINOLÓGICO. NECESSIDADE. DECISÃO REFORMADA. 1. A progressão de regime está condicionada ao preenchimento de requisitos de ordem objetiva e subjetiva, nos termos do art. 112, caput, da Lei de Execução Penal. 2. No caso, a agravada foi promovida ao regime semiaberto por ter cumprido o lapso temporal necessário à progressão e por ostentar bom comportamento carcerário. 3. No entanto, a reeducanda foi condenada por roubo, delito praticado com violência ou grave ameaça a pessoa e, mais relevante, ostenta histórico prisional desfavorável, com registro de prática de falta disciplinar grave recentes, além de ter descumprido pena substitutiva, o que torna imprescindível uma análise mais aprofundada do mérito à progressão, por meio de exame criminológico, em respeito ao princípio in dubio pro societate. 4. Agravo ministerial provido, para cassar a decisão recorrida e determinar o retorno da agravada ao regime anterior, com realização de exame criminológico.
+Na presente impetração, a Defensoria Pública do Estado de São Paulo critica o retorno da sentenciada ao regime fechado, sob submissão ao exame criminológico, não só por haver a paciente preenchido os requisitos objetivos e subjetivos para a progressão mas também porque " a s faltas graves, que se mencionam, remontam a longas datas, tendo sido purgadas pela paciente" (e-STJ fl. 12).
+Assevera que, com o advento da Lei n. 10.792/2003, a obrigatoriedade da confecção do exame criminológico caiu por terra, diante da nova redação do art. 112 da Lei de Execução Penal, que prevê como requisito subjetivo o bom comportamento do apenado, comprovado por meio de atestado assinado pelo Diretor da Unidade Prisional.
+Diante disso, requer, liminarmente, a cassação do acórdão impugnado, restabelecendo-se o regime semiaberto concedido pelo Juízode primeiro grau. No mérito, postula a concessão da ordem de habeas corpus, com a manutenção da decisão de primeira instância (e-STJ fls. 13/14).
+A medida liminar foi indeferida (e-STJ fls. 25/27).
+Informações prestadas às e-STJ fls. 34/35, 49/50 e 57/98.
+O Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 39/42).
+Éo relatório.
+Decido.
+Nas informações prestadas pelo Juízo da execução penal (e-STJ fl. 57), verifica-se que apaciente foi beneficiadacom progressão para o regime aberto em 20/7/2020.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
