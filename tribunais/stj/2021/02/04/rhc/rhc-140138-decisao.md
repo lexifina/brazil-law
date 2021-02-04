@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por DAIANE CARVALHO MUNIZ contra acórdão do Tribunal de Justiça do Estado do Pará (HC n. 0809093-89.2020.8.14.0000).
+Consta dos autos que a recorrente foi presa em flagrante pela prática do delito referido no art. 121, § 2º, II, na forma do art. 14, II, do CP (homicídio qualificado tentado), por tentar matar, com uso de uma faca, uma adolescente, na região do abdômen, em razão do ciúme que a ora recorrente tinha de seu namorado, "pois acreditava que a vítima estava interessada nele" (e-STJ fl. 21). A prisão emflagrante foi posteriormente convertidaem preventiva.
+Na ação originária, alegou a defesa ausência de fundamentação idônea do decreto de prisão - e-STJ fl. 78.
+No entanto, a Corte de origem conheceu parcialmente da impetração e denegou a ordem(e-STJ fls. 77/90).
+Nas razões do presente recurso ordinário, a defesa reafirma as alegações originárias, asseverando, além da falta de fundamentação idônea para a decretação da segregação cautelar, o fato de a recorrente ser "mãe de 03 (três) crianças menores de 12 (doze) anos de idade  .. ", e que, segundo o genitor da recorrente, ela "seria responsável pelo sustento, educação e guarda deles, conforme consta na declaração juntada ao habeas corpus" (e-STJ fl. 96).
+Diante disso, pleiteia, liminarmente, que a acusada aguarde em liberdade o julgamento final deste recurso e, no mérito, a revogação do decreto de custódia preventiva, com a expedição do competente alvará de soltura, para que a recorrente responda solta ao processo, ou, subsidiariamente, que seja substituída a custódia por prisão domiciliar. Por fim, "caso não sejam acolhidos os pedidos anteriores, a defesa requer que estes autos sejam remetidos ao juízo de origem (3 vara criminal de Marabá/PA), para que o juízo coator reavalie a necessidade da manutenção da prisão preventiva da recorrente, de acordo com a recomendação n. 62/2020 do CNJ" (e-STJ fls. 97/98).
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo desprovimento do recurso.
+É o relatório.
+Informações prestadas pelo Juízo singular dão conta de que, "em 18/12/2020, por meio de decisão fundamentada, foi convertida a prisão preventiva da ora paciente em prisão domiciliar; sendo no mesmo dia expedido alvará de soltura e termo de ciência de medidas cautelares diversas da prisão(cópia anexa)" -e-STJ fl. 125.
+Diante disso, nada mais há a ser apreciado nesta oportunidade, tendo em vista que fica sem objeto o pedido contido no recurso, cujos fundamentos foram superados.
+Ante o exposto, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
