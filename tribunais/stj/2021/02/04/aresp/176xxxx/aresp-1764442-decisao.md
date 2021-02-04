@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SABRINA DA PENHA BATISTA em face de decisão proferida no TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS - TJDFTque não admitiu o seu recurso especial com fulcro no art. 105, III, "a" e "c", da Constituição Federal - CF.
+Consta dos autos que aagravante foi condenadapela prática do delito tipificado no art. 129, § 1º, I e III, do Código Penal - CP (lesão corporal de natureza grave), à pena de 1 ano e 9 meses de reclusão, em regime inicial semiaberto (fls. 177/178).
+Acusação edefesa interpuseram recursos de apelação que foramparcialmente providos, sem reflexo na pena definitiva (fl. 254). O acórdão ficou assim ementado:
+RECURSOS DE APELAÇÃO CRIMINAL. CRIME DE LESÃO CORPORAL DE NATUREZA GRAVE. RECURSO DO MINISTÉRIO PÚBLICO. DOSIMETRIA DA PENA. AVALIAÇÃO DESFAVORÁVEL DA CIRCUNSTÂNCIA JUDICIAL DA CULPABILIDADE. ACOLHIMENTO. ANÁLISE NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME. INVIABILIDADE. FUNDAMENTO INIDÔNEO.RECURSO DA DEFESA. REDUÇÃO DO DE AUMENTO NA QUANTUM PRIMEIRA FASE DA DOSIMETRIA. DESPROPORCIONALIDADE. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA. VIOLENTA EMOÇÃO APÓS INJUSTA PROVOCAÇÃO. NÃO OCORRÊNCIA. RECURSOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+1. Justifica-se a análise desfavorável da circunstância judicial da culpabilidade se a ré, além de lesionar gravemente a vítima, utiliza as redes sociais para continuar importunando e ridicularizando a ofendida por causa das agressões ocorridas, o que demonstram maior reprovabilidade da conduta da acusada.
+2. Inviável acolher o pleito ministerial pela avaliação negativa das circunstâncias do crime, pois não há, nos autos, elementos concretos que justifiquem um juízo de reprovação mais rigoroso.
+3. O Magistrado possui certa discricionariedade no momento de estabelecer o de quantum aumento da pena-base, devendo atender, no entanto, aos princípios da proporcionalidade e da razoabilidade. Na espécie, verifica-se que a majoração da pena na primeira fase da dosimetria do crime se deu em patamar desproporcional, razão pela qual deve ser reduzida.
+4. Não havendo provas nos autos de que a ré tenha agido sob o domínio de violenta emoção logo em seguida à injusta provocação da vítima é inaplicável o privilégio previsto no § 4º do artigo 129 do Código Penal.
+5. Recursos conhecidos e parcialmente providos para, mantida a condenação da ré nas sanções do 129, § 1º, incisos I e III, do Código Penal (lesão corporal de natureza grave), avaliar negativamente a circunstância judicial da culpabilidade e reduzir o de quantum aumento da pena-base, mas sem reflexo na pena, que se mantém em 01 (um) ano e 09 (nove) de reclusão, em regime inicial semiaberto (fls. 243/244).
+Em sede de recurso especial, a defesa invoca dissídio jurisprudencial, bem como aponta violação legal na aplicação do art. 129, § 4º, do CP, porque o TJDFT, ao contrário do paradigma do TRIBUNAL DE JUSTIÇA DE SÃO PAULO- TJSP, manteve a inaplicabilidade da referida causa de diminuição de pena, embora haja depoimento testemunhal no sentido de que a agressão ocorreu sob domínio de violenta emoção, após provocações verbais da vítima.Requer seja reconhecida a causa de diminuição de pena.
+Contrarrazões (fls. 284/286).
+O recurso especial não foi admitido haja vista o óbice do revolvimento fático- probatório, vedado conforme Súmula 7 do SUPERIOR TRIBUNAL DE JUSTIÇA -STJ (fls. 288/290).
+Em agravo em recurso especial, a defesa refuta oreferidoóbice(fls. 294/300).
+Contraminuta (fl. 303).
+O MINISTÉRIO PÚBLICO FEDERAL - MPF opinou pelo não conhecimento do agravo ou desprovimento do recurso especial (fls. 319/326).
+É o relatório.
+Decido.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Sobre a violação ao art. 129, § 4º, do CP, o TJDFT refutoua causa de diminuição de pena nos seguintes termos:
+Percebe-se que o privilégio só pode ser concedido na hipótese de ter o réu cometido o crime impelido por motivo de relevante valor social ou moral ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vítima.
+ ..
+Na espécie, não há elementos que demonstrem que a recorrente agiu sob domínio de violenta emoção, logo após a injusta provocação da vítima.
+Isso porque a ré deixou de ser ouvida em Juízo, pois foi decretada a sua revelia, em conformidade com a regra prevista no artigo 367 do Código de Processo Penal, uma vez que, embora devidamente intimida, não compareceu à audiência de instrução e julgamento (ID 13254320, pág. 1).
+No entanto, a ofendida apresentou versões coerentes e harmônicas a respeito dos fatos, tanto naDelegacia como em Juízo, tendo enfatizado que foi perseguida pela recorrente, em razão de uma discussão prévia ocorrida na casa em que a vítima morava, pois nela estavam a acusada e o ex-marido da ofendida, , tampouco é suficiente para o que não pode ser considerado como injusta provocação demonstrar, com segurança, que a ré estava sob o domínio de violenta emoção.
+Com efeito, segundo depoimentos prestados pela vítima Joelma da Silva Oliveira, na fase inquisitiva e judicial, a ré e seu ex-companheiro estavam na casa em que a ofendida morava quando ela chegou para buscar seus pertences, haja vista ter se separado do então companheiro um dia antes da ocorrência dos fatos. Explicou que quando viu a ré na casa começaram a discutir, proferindo ofensas recíprocas.
+Acrescentou que decidiu ir embora para a casa da sua mãe, momento em que a ré a seguiu de carro.
+Informou que parou o carro porque acreditou que a ré queria continuar a discutir, mas que percebeu que a recorrente desceu de seu carro com uma faca na mão e foi em direção à ofendida, desferindo a facada enquanto Joelma ainda estava dentro do carro (ID 13254253, pág. 4 e IDs 13254352, 13254354 e 13254355).
+E, ainda que o ex-companheiro da vítima, que estava se relacionando com a acusada, tenha dito perante à Delegacia que houve agressões mútuas e que Sabrina teria agredido Joelma porque esta a provocou, sua versão dos fatos não foi corroborada em Juízo e a Defesa não trouxe provas, como exame de corpo de delito, que comprovem as supostas agressões sofridas pela ré.
+Em verdade, no caso em apreço, consoante depoimentos coerentes e harmônicos da vítima, constata-se que os motivos que levaram a recorrente à lesionar a ofendida foram desproporcionais aos fatos que antecederam a essa conduta, inviabilizando a aplicação da causa de diminuição prevista no artigo 129, § 4º, do Código Penal.
+ ..
+Desse modo, a conduta da ré revelou-se desarrazoada e desproporcional, não havendo prova de que a ação da ré decorreu de injusta provocação da vítima, de forma que não há como acolher o pleito recursal (fls. 252/254).
+Depreende-se do trecho acima que, embora tenha havido prévia discussão entre recorrente e vítima, a vítima já havia deixado o local da desavença, tendo sido seguida pela recorrente para o cometimento do delito. Assim, as instâncias ordinárias não constataram o domínio da violenta emoção. Cito trecho da sentença:
+26. Por fim, inviável o pleito defensivo de reconhecimento da causa de diminuição de pena prevista no § 4º. O privilégio somente pode ser concedido na hipótese de ter o réu cometido o crime impelido por motivo de relevante valor social ou moral ou sob o domínio de violenta emoção, logo em seguida a injusta provocação da vitima, o que não ocorreu na espécie.
+27. Não há provas de que a ré tenha sido dominada por violenta emoção, tampouco que tenha havido injusta provocação da vitima. Ressalte-se que o ciúme pode configurar até mesmo motivação torpe, nos termos da jurisprudência (fl. 176).
+De fato, para se concluir de modo diverso, seria necessário o revolvimento fático-probatório, vedado conforme Súmula 7 do STJ. Cito precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.LESÃO CORPORAL. PEDIDOS DE ABSOLVIÇÃO POR FALTA DE PROVAS, DE RECONHECIMENTO DA LEGÍTIMA DEFESA OU DA LESÃO CORPORAL PRIVILEGIADA.SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF.
+1. Os pleitos de absolvição por falta de provas, de reconhecimento da legítima defesa ou da lesão corporal privilegiada, da forma como colocados, demandam o reexame dos elementos fático-probatórios constantes dos autos, o que é defeso em recurso especial, em virtude do que preceitua a Súmula 7 desta Corte.
+ ..
+3. Agravo regimental desprovido(AgInt no AREsp 1064099/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 25/09/2017).
+,PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CAUSA DE DIMINUIÇÃO DO ARTIGO 129, § 4º, DO CÓDIGO PENAL.RELEVANTE VALOR SOCIAL E MORAL. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Para desconstituir o entendimento firmado pelo Tribunal de origem e concluir que o recorrente cometeu o crime impelido por motivo de relevante valor social ou moral ou sob o domínio de violenta emoção, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+ ..
+4. Agravo regimental não provido(AgRg no AREsp 434.504/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA,DJe 12/05/2017).
+Cumpre ressaltar que o óbice da Súmula 7 do STJ também se aplica à análise do dissídio jurisprudencial. Cito precedentes:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO DE ENERGIA ELÉTRICA. AUTORIA DELITIVA. INSUFICIÊNCIA PROBATÓRIA.VERIFICAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. A pretensão condenatória demandaria incursão vertical nos elementos probatórios dos autos, o que é vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ, óbice também extensivo ao alegado dissídio jurisprudencial.
+4. Agravo regimental não provido(AgRg no AREsp 1518718/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 30/10/2019).
+PENAL E PROCESSO PENAL. SEGUNDOS EMBARGOS DE DECLARAÇÃO. AGRAVO NO RECURSO ESPECIAL. 1. ACLARATÓRIOS RECEBIDOS COMO AGRAVO REGIMENTAL.INTUITO INFRINGENTE. 2. EMENDA AO RECURSO ESPECIAL. OMISSÃO QUANTO AO EXAME. PRECLUSÃO CONSUMATIVA E TEMPORAL. IMPOSSIBILIDADE DE CONHECIMENTO. 3. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. 4. MATÉRIA QUE DEMANDA REVOLVIMENTO DE FATOS E PROVAS. SÚMULA 7/STJ. 4. EMBARGOS CONHECIDOS COMO AGRAVO REGIMENTAL PARA NEGAR-LHE PROVIMENTO.
+ ..
+4. Ademais, ambas as divergências jurisprudenciais trazidas no recurso especial dependem do incursionamento no arcabouço fático e probatório dos autos, o que não é admitido na via eleita, nos termos do óbice trazido no enunciado n. 7 da Súmula do Superior Tribunal de Justiça. Assim, "conforme a jurisprudência desta Corte, a incidência da Súmula 7/STJ impede o exame do dissídio jurisprudencial aventado nas razões do apelo nobre" (AgRg no REsp 1532799/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 22/03/2018, DJe 03/04/2018).
+5. Embargos de declaração conhecidos como agravo regimental, para negar-lhe provimento(AgRg nos EDcl no AgRg no AREsp 1229041/AM, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 14/09/2018).
+Ante o exposto, admito o agravo em recurso especial e, com fundamento na Súmula 568 do STJ, nego-lhe provimento.
+Publique-se.
+Intimem-se.
