@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de habeas corpus impetrado contra acórdão proferido no âmbito do Superior Tribunal Militar, assim ementado (eDOC 5, p. 35):
+    APELAÇÃO. DEFENSORIA PÚBLICA DA UNIÃO (DPU). POSSE DE DROGA. ART. 290, CAPUT, DO CÓDIGO PENAL MILITAR (CPM). PRESENÇA DE DOLO. CRIME DE PERIGO ABSTRATO. BAGATELA IMPRÓPRIA. NÃO CABIMENTO. GRAVIDADE DA CONDUTA. RECURSO DESPROVIDO. DECISÃO UNÂNIME.
+    I – Descabida a absolvição quando os depoimentos testemunhais estiverem em harmonia com o descrito na Inicial Acusatória. A confissão do Réu, que confirmou ter esquecido a substância entorpecente entre os seus pertences ao adentrar no aquartelamento, aliado aos demais elementos probatórios, impõe a manutenção da condenação.
+    II – A tese defensiva de ausência de dolo não se ampara nos autos. O simples esquecimento da posse do entorpecente não o exime da imputabilidade penal. Ainda que o Acusado não tivesse a intenção de utilizar a droga em local sujeito à Administração Militar, o fato é que ele a levou para o quartel. O crime é de perigo abstrato e não exige dolo específico ou efetivo dano ao bem jurídico tutelado.
+    III- Inexiste respaldo para aplicação do princípio da bagatela imprópria no caso concreto. A imposição da reprimenda é medida necessária à prevenção geral e especial do crime de posse de entorpecentes em local sujeito à Administração Castrense, delito extremamente grave e pernicioso às instituições militares.
+    IV – Recurso desprovido. Decisão unânime.
+    Narra o impetrante que: a) o paciente, Soldado do Exército à época dos fatos, foi denunciado como incurso no art. 290, caput, do Código Penal Militar; b) em razão do licenciamento do paciente, o Juiz Federal Substituto da Justiça Militar, em atenção à Lei 13.774/2018, realizou “deslocamento interno de competência” e sentenciou pela absolvição do réu; c) o STM deu provimento ao apelo do Ministério Público Militar para anular a decisão e restabelecer a competência do Conselho Permanente de Justiça; d) no julgamento pelo Conselho, o paciente, já ex-Soldado, foi condenado pela prática do delito previsto no art. 290, caput, do CPM, à pena de 1 (um) ano de reclusão, decisão mantida pelo STM; e) o constrangimento ilegal decorre da incidência da reformatio in pejus, uma vez que o novo julgamento deveria ser ater aos limites do julgamento anulado; f) segundo a jurisprudência do STF, “mesmo no caso de incompetência de jurisdição, não se pode negar a existência da Sentença do Julgador se ela foi de absolvição”.
+    À vista do exposto, requer seja cassado o acórdão do STM e restabelecida a primeira sentença.
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do writ (eDOC 10).
+    É o relatório. Decido.
+    1. No caso dos autos, a apontada ilegalidade não pode ser aferida de pronto.
+    Com efeito, a matéria ora articulada não foi previamente examinada pelo Superior Tribunal Militar, de modo que o conhecimento originário por esta Corte configuraria supressão de instância. Calha enfatizar que Supremo não detém competência para revisar, em habeas corpus e diretamente, atos jurisdicionais emanados das instâncias ordinárias:
+    “Inviável o exame das teses defensivas não analisada pelo Superior Tribunal de Justiça e pela Corte Estadual, sob pena de indevida supressão de instâncias. Precedentes” (RHC 135560 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 21.10.2016).
+    “A inexistência de manifestação do STJ sobre o mérito da impetração impede o exame da matéria por esta Corte, sob pena de incorrer-se em indevida supressão de instância, com evidente extravasamento dos limites de competência descritos no art. 102 da Constituição Federal” (HC 135949, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 04.10.2016).
+    “A supressão de instância impede o conhecimento de Habeas Corpus impetrado per saltum, porquanto ausente o exame de mérito perante a Corte Superior” (HC 130375 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 13.09.2016).
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF, ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem.
+    2. Posto isso, com fulcro no art. 21, §1º, do RISTF, nego seguimento ao recurso ordinário em habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 4 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
