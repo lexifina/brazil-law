@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de LEONARDO POHLMANN apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 0016899-68.2020.8.21.7000).
+Foi o paciente denunciado pelos crimes de tráfico de entorpecentes e corrupção de menores.
+Nos termos da peça acusatória, o paciente, em comunhão de esforços e acordo de vontades com o adolescente R C DA S S, trazia consigo, para fins de venda e fornecimento a consumidores,12 porções e um tijolo de maconha, pesando cerca de 41,30g (quarenta e um gramas e trinta centigramas) e 336g (trezentos e trinta e seis gramas), respectivamente, além de 31 pinos de cocaína, estes pesando aproximadamente 19,5g (dezenove gramas e cinco decigramas).
+Superadas as demais fases processuais, o paciente foi condenado à pena de 9 anos de reclusão, a ser cumprida inicialmente no regime fechado, bem assim ao pagamento de 70 dias-multa.
+Contra o édito condenatório insurgiu-se a defesa.
+Os Desembargadores integrantes da Terceira Câmara Criminal do Tribunal de Justiça local deram parcial provimento ao recurso defensivo para absolver o réu do delito de corrupção de menor, com base no art. 386, inciso VII, do Código de Processo Penal, e reduzir a pena definitiva do crime de tráfico de drogas para 6 anos de reclusão, em regime inicial semiaberto.
+No Superior Tribunal de Justiça, sustenta a Defensoria Pública estarem preenchidos todos os requisitos necessários à incidência da causa especial de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Destaca que a existência de outros processos em curso contra o paciente não impede a aplicação do referido benefício.
+Diante dessas considerações, pede a aplicação da referida minorante, bem como a alteração do regime inicial de cumprimento da sanção e a substituição da pena privativa de liberdade por medidas restritivas de direitos.
+O pedido liminar foi indeferido (e-STJ fls. 534/535).
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem (e-STJ fls. 538/544).
+É o relatório.
+Decido.
+Passo a análise do pedido de aplicação da causa especial de diminuição de pena descrita no § 4º do art. 33 da Lei n. 11.343/2006.
+In casu, colhe-se do acórdão recorrido (e-STJ fl. 480):
+Na terceira fase, além dos maus antecedentes por tipo penal análogo, o acusado também responde a outros dois feitos criminais específicos pelo delito de tráfico, por fatos anteriores ao que ora se está a analisar. Há, pois. indicativos de que o acusado se dedica a atividades criminosas, circunstânciaimpeditiva ao reconhecimento da privilegiadora.
+No ponto, estou a rever entendimento anterior, diante da sedimentada jurisprudência do Superior Tribunal de Justiça, no sentido de que a existência de condenações sem trânsito em julgado e de processos criminais em curso justificamo afastamento da privilegiadora.
+Nos termos do disposto no aludido dispositivo legal, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. Evidente, portanto, que o benefício descrito no art. 33, § 4º, da Lei n. 11.343/2006 tem como destinatário o pequeno traficante, ou seja, aquele que inicia sua vida no comércio ilícito de entorpecentes, muitas das vezes até para viabilizar seu próprio consumo, e não para os que, comprovadamente, fazem do crime seu meio habitual de vida.
+Por oportuno, confiram-se estes excertos da exposição de motivos da Lei n. 11.343/2006:
+Outra questão tratada pelo projeto, e que em sendo objeto de profunda discussão, é a que se refere ao pequeno traficante, de regra dependente, embora imputável, para quem sempre se exigiu tratamento mais benigno . Não olvidando a importância do tema, e a necessidade de tratar de modo diferenciado os traficantes profissionais e ocasionais, prestigia estes o projeto com a possibilidade, submetia ao atendimento a requisitos rigoroso como convém, de redução das penas, ao mesmo tempo em que se determina sejam submetidos, nos estabelecimentos em que recolhidos, ao necessário tratamento. (http://www2.camara.leg.br/legin/fed/lei/2006/lei-11343-23-agosto-2006-545399-norma-pl.html)
+Sobre o tema, ensina Guilherme de Souza Nucci:
+Cuida-se de norma inédita, visando à redução da punição do traficante de primeira viagem, o que merece aplauso. Portanto, aquele que cometer o delito previsto no art. 33, caput ou § 1º, se for primário (indivíduo que não é reincidente), vale dizer, não cometeu outro delito, após ter sido definitivamente condenado anteriormente por crime anterior, no prazo de cinco anos, conforme arts. 63 e 64 do Código Penal) e tiver bons antecedentes (sujeito que não ostenta condenações definitivas anteriores), não se dedicando às atividades criminosas, nem integrando organização criminosa, pode valer-se da pena mais branda. (NUCCI, Guilherme de Souza. Leis penais e processuais penais comentadas. 9.ed. rev., atual. e ampl. Rio de Janeiro: Forense, 2015, pp. 358-359).
+O meu entendimento consoa com o do acórdão.
+Exige o art. 33, § 4º, da Lei n. 11.343/2006, sabemos todos, que o agente não se dedique às atividades criminosas, "o que significa dizer que o acusado deve desenvolver algum tipo de atividade laborativa lícita e habitual, não apresentando personalidade voltada para a criminalidade, sendo o crime de tráfico a ele imputado naquele processo um evento isolado na sua vida" (LIMA, Renato Brasileiro. Legislação Criminal Especial Comentada. Salvador: Editora Juspodivm, 2015, p. 763).
+Nesse palmilhar, entendo que o benefício em análise não foi pensado para situações como a retratada neste processo, em que o paciente possui outras ações penais em andamento por fatos anteriores.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. REDUTOR DO ART. 33, § 4.º, DA LEI N.º 11.343/2006. NÃO APLICABILIDADE. CONDENAÇÃO POR FATO POSTERIOR. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONFIGURAÇÃO. AGRAVO IMPROVIDO.
+1. Inquéritos policiais e ações penais em curso, ainda que relativos a fatos posteriores aos do delito questionado, muito embora não configurem maus antecedentes e tampouco reincidência, podem ser utilizados para afastar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/06, por indicarem que o agente se dedica a atividades criminosas. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC 553.258/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/06/2020, DJe 29/06/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO APLICAÇÃO. AÇÕES PENAIS EM CURSO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONFIGURAÇÃO. QUANTIDADE E VARIEDADE DE DROGAS. EXASPERAÇÃO DA PENA-BASE E AFASTAMENTO DO REDUTOR. AGRAVO DESPROVIDO.
+1. O reconhecimento do tráfico privilegiado, com a aplicação da causa de diminuição de pena prevista o art. 33, § 4º, da Lei n. 11.343/2006, exige que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa.
+2. Inquéritos policiais e ações penais em andamento, embora não possam ser considerados como maus antecedentes para fins de exasperação da pena-base (Súmula n. 444 do STJ), podem ser utilizados para afastar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, por indicarem que o agente se dedica a atividades criminosas.
+3. Agravo regimental desprovido.
+(AgRg no HC 605.968/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 17/11/2020, DJe 20/11/2020)
+Por fim, os pedidos de alteração do regime inicial de cumprimento da pena e de substituição da pena privativa de liberdade por restritiva de direitos encontram-se prejudicados, porquanto mantida a sanção final tal como fixada.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
