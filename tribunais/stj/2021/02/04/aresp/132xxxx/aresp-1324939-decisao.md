@@ -1,0 +1,52 @@
+DECISÃO
+DGBT FOMENTO MERCANTIL LTDA. - EPP (DGBT) ajuizou ação monitória contra TATONI & CIA LTDA. (TATONI), alegando inadimplemento de cheques.
+Citada, TATONI opôs embargos à monitória, aduzindo a prescrição dos cheques.
+Em primeira instância, os embargos à monitória foram acolhidos, julgando-se improcedente o pedido formulado na ação monitória, condenando-se DGBT ao pagamento das custas processuais e dos honorários advocatícios, estes fixados em R$ 2.000,00 (dois mil reais) (e-STJ, fls. 170/173).
+A apelação interposta por DGBT foi provida pelo Tribunal Paulista nos termos do acórdão de relatoria do Des. Jacob Valente, assim ementado:
+MONITÓRIA - CHEQUE - Sentença que entendeu que os títulos cobrados nos autos já foram fulminados pela prescrição - Insurgência da empresa autora - Acolhimento - Cártulas que ficaram em poder de autoridades policiais por quase seis anos - Irrelevância na relação de subordinação entre os fatos que se pretendia apurar na esfera penal e o juízo cível - A inexistência de relação entre as esferas penal e cível só foi decidida quando da prolação da sentença dada na justiça penal - Credora que não pode dispor dos títulos a fim de perseguir seu crédito - Ausência de desídia - Incidência do disposto no art. 200 CC - Documento que comprova que as Cártulas constavam da relação de documentos apreendidos apenas quando da fase de especificação de prova - Possibilidade, quer diante do momento processual oportuno, quer diante da busca pela verdade real que deve nortear todo o ordenamento jurídico - Higidez das Cártulas que possibilitam sua cobrança - Decreto de prescrição afastado - Sentença reformada -Apelo provido (e-STJ, fl. 281).
+Os embargos de declaração opostos por TATONI foram rejeitados (e-STJ, fls. 299/301).
+Irresignada, TATONI interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação do art. 200 do CC/02, ao sustentar que houve prescrição da pretensão de cobrança dos cheques, porquanto, embora apreendidos pela autoridade policial, competia à credora instruir eventual demanda com cópias dos cheques, não tendo sido diligente para tanto, não havendo suspensão do prazo prescricional porquanto não se trata de ação indenizatória.
+Foram apresentadas as contrarrazões (e-STJ, fls. 370/378).
+O apelo nobre não foi admitido em virtude da (1) ausência de demonstração de ofensa a lei federal; (2) incidência da Súmula nº 7 do STJ; e (3) inexistência de similitude fática entre os julgados (e-STJ, fls. 391/392)
+Nas razões do presente agravo em recurso especial, TATONI afirmou que (1) demonstrou a violação da lei federal; (2) a matéria é unicamente de direito; e (3) foi demonstrada a identidade entre os julgados (e-STJ, fls. 395/413).
+Foi apresentada contraminuta (e-STJ, fls. 414/424).
+É o relatório.
+DECIDO.
+Da incidência da Súmula nº 568 do STJ
+Nas razões do presente recurso, TATONI afirmou a violação do art. 200 do CC/02, ao sustentar que houve prescrição da pretensão de cobrança dos cheques, porquanto, embora apreendidos pela autoridade policial, competia à credora instruir eventual demanda com cópias dos cheques, não tendo sido diligente para tanto, não havendo suspensão do prazo prescricional porquanto não se trata de ação indenizatória.
+Sobre o tema o TJ/SP consignou que a prescrição não foi implementada, na medida em que as cártulas haviam sido apreendidas pela Polícia Federal em 2004, ficando suspenso o processo até o trânsito em julgado da ação penal, confira-se:
+No caso dos autos, não se verifica a desídia do credor necessária para caracterização do instituto.
+Isso porque restou suficientemente comprovado que os cheques objeto da demanda foram apreendidos pela Polícia Federal quando do cumprimento de mandando de busca e apreensão em razão de ação penal que apurava a prática de crime contra o sistema financeiro nacional que teria sido praticado por um dos sócios da empresa autora. Tais cártulas somente foram restituídas anos depois, em 30.06.2010, por ordem da Justiça Federal, justamente porque os cheques apreendidos seriam posteriores ao encerramento das atividades ilícitas descritas na denúncia (fls. 33).
+Ainda que o art. 200 do Código Civil preveja uma hipótese de relação de subordinação entre o fato a ser provado na ação penal e o desenvolvimento regular da ação cível a fim de se evitar decisões conflitantes, não se pode desprezar o fato de que as cártulas foram apreendidas justamente para verificar se guardavam relação ou não com o delito que se pretendia apurar.
+E, conforme se observa do documento de fls. 33, foi apenas quando da prolação da sentença proferida na ação penal, que se concluiu que os cheques aqui discutidos não guardavam relação com os fatos apurados, tanto que foram restituídos à autora.
+Ou seja, por quase seis anos, os cheques ficaram em poder das autoridades policiais, sem que a autora pudesse deles dispor para buscar o recebimento do crédito lá estampado.
+Bem por isso é que se diz que durante o período de 15.09.2004 a 30.06.2010 a prescrição das cártulas estava suspensa, nos termos do art. 200 do Código Civil.
+Assim, como os cheques datam de julho de 2004 e a demanda foi distribuída em 30.07.2014 - devendo ser computado o período em que o prazo prescricional estava suspenso - tem-se que permanece hígida a possibilidade da autora buscar o recebimento de seu crédito através da presente ação.
+Além disso, deve-se ter em mente que para a ocorrência da prescrição não basta apenas o transcurso o lapso temporal, sendo imprescindível a configuração da inércia do credor, o que, como se disse, não se verificou nos autos (e-STJ, fls. 283/284).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que a suspensão do prazo prescricional mencionada no art. 200 do CC/02 é aplicável na hipótese em que verificada relação de prejudicialidade entre as esferas cível e criminal, ou seja, quando a ação indenizatória é radicada em fato que deve ser apurado perante o juízo criminal.
+Nessa linha, em ações monitórias fundadas em cheques apreendidos em operações policiais, a jurisprudência das Turmas que compõem a Segunda Seção é assente quanto à inaplicabilidade da suspensão do art. 200 do CC/02, porquanto poderia o credor buscar o recebimento dos cheques por outras vias.
+Aliás, a Quarta Turma inclusive já apreciou caso envolvendo o mesmo credor (DGBT), que alegava suspensão em face da mesma operação policial, oportunidade em que decidiu aquele órgão fracionário que a prescrição estaria mesmo fulminada. Veja-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CHEQUE PRESCRITO. PRAZO PRESCRICIONAL. TÍTULOS EXECUTIVOS. APREENSÃO POLICIAL.
+1. O prazo para ajuizamento de ação monitória em face do emitente de cheque sem força executiva é quinquenal, a contar do dia seguinte à data de emissão estampada na cártula.
+2 . A suspensão do início do prazo prescricional preceituada no art. 200 do CC ocorre quando há relação de prejudicialidade entre as esferas cível e penal, isto é, quando a ação civil reparatória tem origem em fato que deve ser apurado no juízo criminal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.039.519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 18/02/2020, DJe 26/02/2020)
+Confiram-se ainda os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. COBRANÇA DE CHEQUE. PUBLICAÇÃO PRÉVIA DA PAUTA DE JULGAMENTO. INTIMAÇÃO. SUSTENTAÇÃO ORAL. DESCABIMENTO EM AGRAVO REGIMENTAL. PRESCRIÇÃO. ALEGAÇÃO DE INTERRUPÇÃO. INAPLICABILIDADE. RECURSO DESPROVIDO. PRAZO QUINQUENAL. PRECEDENTES. ENTENDIMENTO FIRMADO EM SEDE DE RECURSO ESPECIAL SOB O RITO DOS REPETITIVOS.
+1. O julgamento em mesa do agravo regimental, sem prévia notificação do agravante acerca da data, não gera nulidade conforme arts. 91 e 159 do RISTJ.
+2. O comando inserto no art. 200 do CC/02 somente incide quando houver relação de prejudicialidade entre as esferas cível e penal, o que foi afastado pelas Cortes locais.
+3. Para fins do art. 543-C do Código de Processo Civil: "O prazo para ajuizamento de ação monitória em face do emitente de cheque sem força executiva é quinquenal, a contar do dia seguinte à data de emissão estampada na cártula. (REsp 1.101.412/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 11/12/2013, DJe 03/02/2014) 4. Agravo regimental não provido.
+(AgRg no AREsp 721.112/DF, de minha relatoria, Terceira Turma, j. em 06/08/2015, DJe 24/08/2015)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO MONITÓRIA. CHEQUE. APREENSÃO EM PROCEDIMENTO CRIMINAL. DESNECESSIDADE DE TÉRMINO DA AÇÃO PENAL. PRESCRIÇÃO. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS.
+1. "O prazo para ajuizamento de ação monitória em face do emitente de cheque sem força executiva é quinquenal, a contar do dia seguinte à data de emissão estampada na cártula" (Súmula n. 503/STJ).
+2 . A suspensão do início do prazo prescricional preceituada no art. 200 do CC ocorre quando há relação de prejudicialidade entre as esferas cível e penal, isto é, quando a ação civil reparatória tem origem em fato que deve ser apurado no juízo criminal.
+3. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.517.762/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. em 06/08/2015, DJe 12/08/2015)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Diante do exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de afastar a suspensão do prazo reconhecida e determinar a remessa dos autos ao Tribunal Paulista, a fim de que proceda à aferição de eventualprescrição à luz do entendimento do STJ.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. CHEQUE. APREENSÃO EM OPERAÇÃO POLICIAL. JUÍZOS CÍVEL E CRIMINAL. PREJUDICIALIDADE. INEXISTÊNCIA. PRESCRIÇÃO. SUSPENSÃO DO PRAZO. INOCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
