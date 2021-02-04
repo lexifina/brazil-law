@@ -1,0 +1,2 @@
+DECISÃO
+Devidamente cumprida a comissão, conforme atestamosdocumentosde fls. 100-211, determinoa devolução dos autos à Justiça rogante,por intermédio da autoridade central competente (art. 216-X do RISTJ), juntamentecom a documentação referida, inclusive os depoimentos gravados em meio digital audiovisual, que não consta anexado ao processo em razão de motivos técnicos, consoante a certidão de fl. 212.
