@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto porTUAM MATHEUS DA FONSECA DA SILVAcontra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul(HC n. 70084365758).
+O recorrente teve a prisãopreventiva decretada mediante representação da autoridade policial(fls. 101-103)e foi denunciadopor suposta prática dodelitodescritonoart. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se no fato de que o paciente integra articulado esquema de venda e distribuição de drogas em significativa quantidade, tendo sido apreendido, em sua residência, um caderno de contabilidade acerca da venda dos entorpecentes.
+Impetradowritoriginário, a ordem foi denegada.
+Alega o recorrente que está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.Afirma que a prisão é desproporcional a possível condenação.
+Requera revogação daprisão preventivaousua substituiçãopor medidas cautelares diversas.
+A liminar foi indeferida (fls. 314-315).
+Prestadas as informações pelo Tribunal de origem (fls. 320-232; 325-367), o Ministério Público Federal opinou pelo desprovimento do recurso ordinário(fls. 371-373).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 258-267):
+Posteriormente, após a deflagração de grande e complexa investigação, inclusive com a análise dos elementos constantes dos aparelhos telefones apreendidos quando do cumprimento do mandado de busca, foi averiguado que o paciente e o corréu estão associados, em tese, desde 2017, para o fim de exercer a mercancia de substâncias entorpecentes.
+Em 17/05/2020, dois indivíduos foram abordados com grande quantidade de drogas no interior do veículo (14kg de crack e 1kg de cocaína). Interrogados, estes disseram que foram contratados pelo corréu, parar o transporte da droga.
+ ..
+No caso em comento, aliás, subsistem elementos indiciários suficientes para nova decretação da prisão preventiva, tendo em vista o material aprendido na casa do paciente, em cumprimento ao mandado de busca e apreensão, principalmente a agenda, a qual continha as despesas (arma, gasolina, depósito), bem como os nomes e ao lado as quantidades das substâncias.
+Portanto, nada há a reparar na decisão hostilizada, posto que esta restou devidamente fundamentada, expondo com clareza a existência do fumus comissi delicti e do periculum libertatis do agente, demonstrando a necessidade de que, ao menos por ora, o paciente permaneça constrito cautelarmente.
+Assim, diante dos elementos trazidos aos autos, não há falar em constrangimento ilegal a ser sanado em sede habeas corpus, estando autorizada a manutenção da prisão preventiva, posto que preenchidos os requisitos elencados no artigo 312 do Código de Processo Penal.
+Em casos como o dos presentes autos, se faz necessária a pronta intervenção estatal como forma de assegurar a ordem pública, o que não configura antecipação de pena e muito menos afronta ao princípio da presunção de inocência.
+ ..
+Finalmente, ressalto que tal fato não resta isolado na vida do paciente, que ostenta sentença condenatória transitada em julgado por roubo majorado (010/2.13.0020764-4), além de responder a os processos por tráfico ilícito de entorpecentes (010/2.17.0012696-0) e homicídio qualificado tentado (010/2.17.0017523-5 e 010/2.18.0001104-8), mostrando-se imperiosa a segregação cautelar e denotando a ineficácia das medidas cautelares diversas da prisão, elencadas no artigo 319 do Código de Processo Penal.
+Conforme orientação jurisprudencial do STJ, o suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública (AgRgno RHC n. 128.253/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 24/8/2020; eAgRgno RHC n. 127.592/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 17/9/2020)
+Ademais, justifica-se a prisão preventiva para garantia da ordem pública quando o paciente, beneficiado por liberdade provisória em ação penal diversa, comete novainfração ,hipótese em que está evidente o risco de reiteração delitiva (AgRgno HC 613.145/GO, relator Ministro Felix Fischer, Quinta Turma,DJede 18/11/2020).
+Registre-se que a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Aindasegundo a jurisprudência do STJ, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínimado delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+No caso, o recorrente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
