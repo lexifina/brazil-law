@@ -1,0 +1,63 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM. HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. RECURSO NÃO PROVIDO.
+1. Firmou-se nesta Superior Corte o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90. Precedentes.
+2. Com a entrada em vigor da Lei 13.964/19 - Pacote Anticrime-, foi revogado expressamente o art. 2º, §2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+3. A nova redação dada ao art. 112 da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos e específicos para cada grupo, a depender especialmente da natureza do delito.
+4. No caso, o paciente foi sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pela prática de crime comum. Para tal hipótese, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+5. Em direito penal não é permitido o uso de interpretação extensiva, para prejudicar o réu, devendo a integração da norma se operar mediante a analogia in bonam partem. Precedentes.
+6. Recurso não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão monocrática que não conheceu do habeas corpus, concedendo, no entanto, a ordem de ofício para que a transferência do ora agravado ao regime menos rigoroso observe, quanto ao requisito objetivo, o cumprimento de 40% da pena privativa de liberdade a que condenado.
+O agravante se insurge contra essa decisão alegando que "o percentual de 60% destina-se ao condenado reincidente na prática de crime hediondo ou equiparado, o que, a princípio, afasta a incidência desse percentual para o condenado reincidente não específico. Todavia, o percentual de 40% pretendido pela defesa também, por expressa previsão legal, destina-se ao condenado pela prática de crime hediondo ou equiparado, desde que primário, não se aplicando, portanto, ao condenado reincidente, ainda que não específico." (e-STJ fl. 144).
+Ressalta que "a Lei nº 13.964/2019 implementou modificações na Lei de Execução Penal tendo como objetivo não minimizar o sistema progressivo de execução de pena, sobretudo cm se tratando de condenado por crime hediondo, mas, ao contrário, aperfeiçoar tal sistema, dificultando a progressão de regime, de modo que a interpretação do inciso Vil do art. 112 da LEP no sentido de que o condenado por crime hediondo ou equiparado reincidente na prática de crime comum poderá progredir com o mesmo lapso temporal como se primário fosse destoa dos propósitos da Lei Anticrime, revelando-se descabida e isolada se comparada com os demais incisos." (e-STJ fl. 145)
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM. HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. RECURSO NÃO PROVIDO.
+1. Firmou-se nesta Superior Corte o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90. Precedentes.
+2. Com a entrada em vigor da Lei 13.964/19 - Pacote Anticrime-, foi revogado expressamente o art. 2º, §2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+3. A nova redação dada ao art. 112 da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos e específicos para cada grupo, a depender especialmente da natureza do delito.
+4. No caso, o paciente foi sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pela prática de crime comum. Para tal hipótese, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+5. Em direito penal não é permitido o uso de interpretação extensiva, para prejudicar o réu, devendo a integração da norma se operar mediante a analogia in bonam partem. Precedentes.
+6. Recurso não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental é tempestivo e rechaçou os fundamentos da decisão combatida, razões pelas quais merece conhecimento. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos.
+Em 24/12/2019 foi sancionada a Lei 13.964/19, conhecida como Lei do Pacote Anticrime, que entrou em vigor em 23 de janeiro de 2020. Com a nova lei, diversos dispositivos do Código Penal, do Código de Processo Penal e de outras leis foram revogados, alterados ou acrescentados.
+A exemplo, podemos citar a revogação expressa do art. 2º, §2º, da Lei n. 8.072/90 pelo art. 19 da Lei n. 13.964/19, passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+E, com a nova redação dada ao art. 112 da Lei de Execução Penal, a sistemática foi modificada por completo, sendo introduzidos critérios e percentuais distintos e específicos, a depender especialmente da natureza do crime.
+Vejamos:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+I - 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça;
+II - 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça;
+III - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça;
+IV - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça;
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for:a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ouc) condenado pela prática do crime de constituição de milícia privada;
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;
+VIII - 70% (setenta por cento) da pena, se o apenado for reincidente em crime hediondo ou equiparado com resultado morte, vedado o livramento condicional.
+§1º Em todos os casos, o apenado só terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão.
+§ 2º A decisão do juiz que determinar a progressão de regime será sempre motivada e precedida de manifestação do Ministério Público e do defensor, procedimento que também será adotado na concessão de livramento condicional, indulto e comutação de penas, respeitados os prazos previstos nas normas vigentes.
+ ..
+§5º Não se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no §4º do art. 33 da Lei n. 11.343, de 23 de agosto de 2006.
+§ 6º O cometimento de falta grave durante a execução da pena privativa de liberdade interrompe o prazo para a obtenção da progressão no regime de cumprimento da pena, caso em que o reinício da contagem do requisito objetivo terá como base a pena remanescente.
+Como se pode observar, a intenção do legislador foi manter os condenados mais tempo no regime estabelecido para o início do cumprimento da pena. A novatio legis insere dispositivos prejudiciais à situação jurídica do condenado, os quais somente poderão ser aplicados aos crimes praticados após a sua entrada em vigor, em respeito ao princípio da anterioridade (art. 5º, XL, CF e art. 1º do CP). Em se tratando, contudo, de hipótese benéfica ao apenado, haverá a aplicação retroativa.
+Com essas considerações, passo ao caso concreto.
+Na hipótese em exame, o Tribunal de Justiça Estadual ao negar provimento ao agravo cm execução interposto pela defesa assim se manifestou:
+Extrai-se dos autos que o Agravante cumpre pena total de 08 (oito)anos e 02 (dois) meses, pela prática dos crimes previstos nos artigos 33, caput, c/c 40,V, ambos da Lei 11.343/06, 244-B, caput, do ECA, 155, § 4º, IV, c/c 14, II, do CP e155, § 4º, I e IV, do CP.
+Em resumo, trata-se de um crime de furto qualificado pelo arrombamento de obstáculo e concurso de agentes, uma tentativa de furto qualificado por concurso de agentes, um tráfico de entorpecente interestadual e também incidiu na corrupção de menor.Inicialmente, cumpre frisar que a reincidência sabidamente constitui circunstância pessoal que adere ao reeducando durante toda a execução penal.
+Porconseguinte, enquadra-se o Agravante, no disposto no artigo 112, VII, da Lei de Execução Penal, cujo patamar não sofreu alteração em relação ao art. 2o, §2º, da Lei de Crimes Hediondos, que até então vigente previa a fração de 3/5 para progressão aos reincidentes.
+Inclusive, referida fração de 3/5 já fora mantida anteriormente com o advento da Lei n.º 13.769/18, que alterou a redação do art. 2º, § 2º, da Lei dos Crimes Hediondos, ocasião em que se confirmou jurisprudencialmente que a diferenciação se baseia na recidiva isoladamente, independentemente da natureza do crime anterior.
+Ou seja, o patamar mais rigoroso é aplicado ao reincidente, genérico ou específico, condenado por crime comum ou hediondo ou equiparado, pois cm todo tempo, a única distinção feita pelo legislador para fixação dos patamares de progressão refere-se ao primário e reincidente, por questão lógica de política criminal que não podebeneficiar de maneira idêntica aquele que tem o crime como fato isolado em sua vida,do que se apresenta contumaz no cometimento de ilícitos.
+ ..
+Portanto, agiu corretamente o julgador singular, eis que, como jádito, a progressão de regime a partir 3/5 (três quintos), ou seja, 60% da pena se aplica aqualquer modalidade de reincidência, seja ela específica ou genérica, devendo sermantida a decisão objurgada. (e-STJ fls. 95/100)
+Pelos trechos acima transcritos, o Tribunal manteve, para fins de progressão de regime, o percentual de 60%, nos termos do previsto no art. 112, VII, da Lei 7.210/84. O inciso, contudo, é taxativo e abarca tão somente a hipótese de reincidência na prática de crime hediondo ou equiparado.
+No caso, todavia, o paciente foi sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pelo crime de furto qualificado -delito comum.
+Para tal hipótese - condenado por crime hediondo, mas reincidente em razão da prática de crime comum -, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes em crimes hediondos ou equiparados, com ou sem resultado morte.
+Assim, considerando que o paciente, condenado pela prática de tráfico de drogas, é reincidente genérico, impõe-se a aplicação do percentual equivalente ao que é previsto para o primário - 40%.
+Dessa forma, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
