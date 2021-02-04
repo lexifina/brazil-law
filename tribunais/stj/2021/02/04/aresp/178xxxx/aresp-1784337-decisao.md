@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por THIAGO JUFO RODRIGUES, contra decisão que inadmitiu o recurso especial, do eg. Tribunal de Justiça do Estado do Espírito Santo.
+Consoante se extrai dos autos, o agravante foi condenado, em primeiro grau, à pena de 2 (dois)anos e 6 (seis)) meses de reclusão, em regime inicial aberto, e 250 (duzentos e cinquenta)dias-multa, substituída por 2 (duas) penas restritivas de direitos, pela prática do crime de tráfico de drogas, previsto no art. 33, caput, da Lei n. 11.343/2006.
+O eg. Tribunal a quo, negouprovimento à apelação da Defesa.Eis a ementa do julgado (fl. 281):
+"APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO. RECURSO IMPROVIDO. 1. Não há que se falar em absolvição, eis que o conjunto probatório constante dos autos revela de forma inconteste a autoria e materialidade dos fatos ora apurados. Recurso Improvido."
+Os embargos de declaração opostos pela Defesa foram rejeitados em acórdão (fls. 295-300).
+Nas razões do recurso especial interposto com fulcro na alínea a, do permissivo constitucional (fls. 303-307), a Defesa apontou violação do art. 386, inc.VII do CPP e do art.33 da Lei n. 11.343/2006, pleiteando a desclassificação para o art. 28 da Lei n. 11.343/2006, ao afirmar que o recorrente é usuário de drogas, e que "Não ficou demonstrado em nenhum momento na instrução probatória qualquer indicio que levasse a caracterização comercial da droga apreendida" (fl. 307)
+Aduziu, outrossim, que "não há proporcionalidade em considerar a quantidade insignificante de 41,6 gramas de maconha uma quantidade que por si só daria suporte para afastar a hipótese de consumo" (fl. 307).
+Apresentadas as contrarrazões (fls. 315-325), o recurso especial foi inadmitido na origem, pela incidência daSúmula7 do STJ (fls. 327-328).
+Nas razões do agravo postula-se o processamento do apelo nobre (fls. 331-334).
+O Ministério Público Federal, em seu d. parecer, opinou pelo não provimento (fl. 358).
+Eis o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Como relatado, o recurso especial foi inadmitido na origem pela incidência da Súmula 7 do STJ (fs. 328-328).
+Nas razões do agravo (fls. 331-334),a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a impossibilidade de incidência da Súmula 7/STJ.
+O agravante, em uma breve explanação, apenas limitou-se a dizer que "no presente Recurso se está discutindo a evidente necessidade do reconhecimento da ilegalidade diante da tese se a quantidade de drogas, 41,11 gramas de maconha, poderia ser considerada como caracterização de trafico ou uso de entorpecentes, na eventual condenação pelo primeiro crime.. Nesse aspecto, cumpre destacar que não se busca o reexame probatório já vedado também por esta instância superior por meio da súmula supramencionada, mas sim que esse Colendo Superior Tribunal de justiça realize a denominada revaloração jurídica da prova" (fl. 332).
+Com efeito, das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveria o agravante indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático- probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Nesta toada:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM. 182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento" (AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018, grifei).
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos." (AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido." (AgRg no AREsp 1667698/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 29/05/2020)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017, grifei)
+Diante do exposto, com fundamento no art. 253, parágrafo único, inciso I, do RISTJ, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. PROCESSUAL PENAL. AGRAVO EM RECURSO ESPECIAL.CRIME DE TRÁFICO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO NÃO CONHECIDO.
