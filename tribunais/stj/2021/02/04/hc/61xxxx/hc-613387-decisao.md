@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Fernando João dos Santos, que foi condenado como incurso no art. 157, caput, do Código Penal, ao cumprimento de 4 anos de reclusão, em regime inicial semiaberto, mais o pagamento de 10 dias-multa.
+Ataca-se o acórdão do Tribunal de Justiça de São Paulo na Apelação Criminal n 1527729-58.2019.8.26.0228, alegando-se, em síntese, que não há motivação idônea para a fixação do regime mais gravoso e que não foram observadas as circunstâncias judiciais previstas no art. 59, tampoucoatendido o disposto no § 3º do art. 33, ambos do Código Penal.
+Requer-se, em liminar e no mérito, a concessão da ordem para estabelecer o regime inicial aberto.
+A liminar foi indeferida às fls. 71/72.
+Solicitadas informações, essas foram devidamente prestadas às fls. 79/80.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do mandamus,mas pela concessão da ordemde ofício, para que seja fixado o regime aberto no cumprimento inicial da pena (fls. 101/103).
+É o relatório.
+Assiste razão à impetrante.
+No caso, é digno de nota o parecer do Ministério Público Federal, cujas razões passo a adotar (fls. 101/103- grifo nosso):
+O juiz da 5ª Vara Criminal da comarca de São Paulo condenou o paciente pela prática do crime de roubo, em razão da subtração, mediante simulação de emprego de arma de fogo, de um aparelho celular. Fixou a pena-base no mínimo legal.
+Deixou de aplicar a atenuante da confissão, por incidência da Súmula n. 231/STJ. Sem causa de aumento ou diminuição, estabeleceu a reprimenda final em quatro anos de reclusão. Ao lhe impor o regime aberto de cumprimento de pena, consignou:
+ ..  O regime inicial de cumprimento da pena corporal deve ser o aberto, a teor do artigo 33, parágrafo segundo, "c" do Código Penal. O réu está preso desde novembro do ano passado e ostenta bons antecedentes criminais conforme certidão de páginas 99/100 (foi beneficiado com transação penal em 2016). Ademais, tem 31 anos de idade, sem histórico de prática de crimes violentos  ..  (f. 32).
+O TJ/SP confirmou a sentença e, quanto ao regime prisional, afirmou:
+ ..  o regime mais brando se revela insuficiente para a reprovação e prevenção do crime praticado pelo insurgente, na medida em que este cometeu delito de singular gravidade, exercido mediante grave ameaça e violência, dentro de um coletivo cheio de passageiros, revelando, assim, ousadia e periculosidade não condizentes com o regime aberto, tal como fixado pelo Juízo de primeiro grau. Todavia, em se tratando de crime de roubo simples, praticado sem a presença de nenhuma majorante, entendo perfeitamente cabível a imposição do regime inicial semiaberto, o qual se releva razoável e suficiente para a reprovação e prevenção do delito praticado pelo réu  ..  (f. 24).
+Tem razão o impetrante. O regime prisional deve adequar-se ao quantum da reprimenda, não sendo idôneo, para impor modalidade mais gravosa, o fundamento de uma gravidade do crime que não foi valorada na fixação da pena-base, imposta no mínimo legal.
+A propósito, corroborando o parecerista, confiram-se estes precedentes:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. ROUBO SIMPLES. ART.33, § 2º, C, DO CP. REGIME PRISIONAL. PRIMARIEDADE. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENA-BASE DOSADA NO MÍNIMO LEGAL. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO GENÉRICA. SUPORTE EM ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. SÚMULAS 718 E 719/STF.SÚMULA 440/STJ. PENA DEFINITIVA ESTIPULADA EM 4 ANOS DE RECLUSÃO.MANUTENÇÃO DO REGIME ABERTO QUE SE IMPÕE.
+1. A questão veiculada no recurso especial diz respeito à verificação da ofensa ao art. 33, § 2º, c, do Código Penal, notadamente porque desconsiderada a individualização da pena, ao ser fixado regime mais gravoso a condenado primário e sem circunstâncias judiciais negativadas.
+2. Foram utilizados fundamentos abstratos e genéricos na fixação do regime de cumprimento de pena mais grave. Todas as circunstâncias judiciais foram consideradas favoráveis, sendo fixada a pena-base do crime de roubo no mínimo legal (4 anos de reclusão). Não há fundamento para dar lastro à imposição de regime prisional mais severo do que o permitido pelo quantum da pena, ex vi da Súmula 440/STJ.
+3. O argumento colacionado pelo agravante, de que o agravado se aproximou por trás da vítima, deu-lhe um empurrão, derrubou o ofendido ao solo, arrancou o celular das mãos de João Tadeu e fugiu correndo, revela algo intrínseco ao tipo penal violado, não tendo o condão de justificar a exasperação do regime prisional.
+4. A grave ameaça ou violência, o emprego de arma de fogo e o concurso de agentes são elementos inerentes ao tipo penal e à causa de aumento, não servindo para impor modo de resgate mais gravoso do que aquele previsto no art. 33, § 2º, do CP, haja vista tais circunstâncias já terem sido sopesadas pelo legislador quando da definição das penas em abstrato (AgRg no REsp n. 1.563.247/SP, Ministro Jorge Mussi, Quinta Turma, DJe 11/3/2016).
+5. Fixada a pena-base no mínimo legal (4 anos - art. 157, caput, do CP) e não ostentando o agravado antecedentes criminais, é descabida a fixação de regime mais gravoso sem a existência de fundamentação idônea.
+6. Levando em consideração que todas as circunstâncias judiciais foram consideradas favoráveis, e não ostentando o agravante antecedentes criminais, tem-se como descabida a fixação de regime mais gravoso. Com efeito, não há fundamento para dar lastro à imposição de regime prisional mais severo do que o permitido pelo quantum da pena, ex vi da Súmula 440/STJ (AgRg no REsp n.1.807.436/SP, de minha relatoria, Sexta Turma, DJe 2/8/2019).
+7. Agravo regimental improvido.
+(AgRg no REsp 1831830/SP, da minha relatoria, Sexta Turma,DJe 5/11/2019 - grifo nosso)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL.DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. ILEGALIDADE FLAGRANTE. ROUBO SIMPLES. PRIMARIEDADE.CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. AUSÊNCIA. REGIME INICIAL FECHADO. ILEGALIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+ ..
+3. A imposição do regime inicial fechado mostra-se ilegal, porque o Agravante é primário, não tendo sido valorada negativamente nenhuma vetorial do art. 59 do Código Penal na fixação da pena-base, e lhe foi imposta a pena final de 4 (quatro) anos de reclusão. É cabível, portanto, o regime aberto.
+4. A Corte estadual justificou a manutenção do regime fechado, sob o fundamento de que se cuidava de roubo circunstanciado, quando, na verdade, cuidou-se da forma simples do delito. Além disso, o fato de que houve violência física contra a vítima é inerente ao tipo penal, salvo quando demonstrada sua excepcionalidade, o que não ocorreu no caso concreto.
+5. Agravo regimental não conhecido. Habeas corpus concedido, de ofício, para fixar o regime aberto, mediante condições a serem fixadas pelo Juízo de primeiro grau, com observância da Súmula n. 493 do Superior Tribunal de Justiça.
+(AgRg no AREsp 1745764/SP, Ministra Laurita Vaz, SextaTurma, DJe 16/12/2020 - grifo nosso)
+Nesse contexto, considerando-se a primariedade do paciente, o quantum final da pena (4anosde reclusão) e a ausência de fundamentos concretos a justificar o regime mais gravoso, correto, portanto, restabelecer-se o regime aberto para o início de cumprimento da pena, nos termos do art. 33, § 2º, c, do Código Penal, econforme dicção das Súmulas 440 do STJ e718 e 719 do STF.
+Assim,com base nos precedentes e no parecer ministerial, concedo a ordempara restabelecero regime aberto para o início de cumprimento da pena imposta ao paciente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO SIMPLES.ART. 33, § 2º, C, DO CP. REGIME PRISIONAL. PRIMARIEDADE. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. PENA-BASE DOSADA NO MÍNIMO LEGAL. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO GENÉRICA. SUPORTE EM ELEMENTOS INERENTES AO TIPO PENAL VIOLADO. SÚMULAS 718 E 719/STF. SÚMULA 440/STJ. PENA DEFINITIVA ESTIPULADA EM 4 ANOS DE RECLUSÃO. MANUTENÇÃO DO REGIME ABERTO QUE SE IMPÕE.PARECER ACOLHIDO.
+Ordem concedida nos termos do dispositivo.
