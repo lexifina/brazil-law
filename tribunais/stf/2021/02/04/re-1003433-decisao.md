@@ -1,0 +1,15 @@
+Petição/STF nº 110.536/2020
+DECISÃO
+PROCESSO SUBJETIVO – TERCEIRO – INTERVENÇÃO – INADMISSÃO.
+    1. A Assessoria prestou as seguintes informações:
+    O extraordinário foi interposto, com alegada base na alínea “a” do inciso III do artigo 102 da Lei Maior, contra acórdão mediante o qual a Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro assentou a ilegitimidade do Estado para executar multa aplicada, pelo Tribunal de Contas estadual, a ex-agente político de Município. Salientou que o fato de inexistir, no âmbito municipal, Corte de Contas não implica autorização, ao Estado, para que proceda à cobrança, sendo a municipalidade titular do crédito, observado o artigo 30, inciso III, da Constituição de 1988.
+    Em 12 de abril de 2013, este Tribunal reconheceu configurada a repercussão geral da questão constitucional – Tema 642 –, em acórdão assim resumido:
+    LEGITIMIDADE – EXECUÇÃO DE MULTA APLICADA PELO TRIBUNAL DE CONTAS DO ESTADO – DANOS AO ERÁRIO MUNICIPAL – MATÉRIA CONSTITUCIONAL – RECURSO EXTRAORDINÁRIO – REPERCUSSÃO GERAL VERIFICADA. Possui repercussão geral a controvérsia acerca da legitimidade para promover a execução de multa aplicada pelo Tribunal de Contas estadual a agente político, por danos causados ao erário municipal – se do estado ou do município no qual ocorrida a irregularidade.
+    Associação Nacional dos Auditores de Controle Externo dos Tribunais de Contas do Brasil – ANTC, mediante petição subscrita por advogada regularmente credenciada, busca a admissão no processo como interessada. Afirma possuir representatividade, ressaltando ser entidade de classe de âmbito nacional com objetivo de proteger os interesses dos titulares de cargo de provimento efetivo com atribuições para o exercício da fiscalização contábil, financeira, orçamentária, operacional, patrimonial e demais ações de controle externo essenciais ao exercício, pelos 33 Tribunais de Contas do Brasil. Destaca a atuação em defesa do Estado Democrático de Direito, do Documento Básico e das normas não conflitantes, considerado os princípios, fundamentos e objetivos estatutários que regem a entidade. Discorre sobre o pano de fundo, manifestando-se pelo provimento do recurso. Pretende realizar sustentação oral. Junta documentos constitutivos e procuração.
+    Consulta ao sítio do Supremo revela que, iniciado o exame do recurso, com o voto de Vossa Excelência dando-lhe provimento, acompanhado pelo ministro Edson Fachin, o julgamento foi suspenso, em virtude do pedido de vista formulado pelo ministro Gilmar Mendes.
+    2. Há certa flexibilidade quanto ao momento do ingresso de interessados, tendo em conta a relevância dos temas discutidos nos recursos com repercussão geral. Ocorre que o exame do extraordinário foi iniciado. Sob o ângulo da conveniência da intervenção, surge suplantada a fase apropriada ao debate. O quadro revela, presente a organicidade do Direito, inoportuno o requerimento formulado.
+    3. Indefiro o pedido formulado. Devolvam à requerente a peça e os documentos que a acompanham.
+    4. Publiquem.
+Brasília, 4 de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
