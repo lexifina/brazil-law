@@ -1,0 +1,33 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por WAGNER CESAR VIEIRA em face de acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado:
+APELAÇÃO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. AUSÊNCIA DE FUNDAMENTAÇÃO. NULIDADE DA SENTENÇA. INOCORRÊNCIA. REQUISITOS LEGAIS DISPOSTOS NO PRÓPRIO DOCUMENTO. ART. 783 DO CPC INOBSERVÂNCIA. FORÇA EXECUTIVA. AUSÊNCIA. LEI Nº 8.906/1995 ESTATUTO DA OAB. PRESCRIÇÃO QUINQUENAL. RECONHECIMENTO DE OFÍCIO.
+1. Rejeita-se a preliminar de nulidade da sentença por insuficiência de fundamentação ante a indicação satisfatória dos argumentos fáticos e jurídicos que convenceram o Juiz a indeferir a inicial e extinguir o processo.
+2. De acordo com o art. 783 do CPC, o título executivo judicial precisa conter crédito líquido, certo e exigível para que possua força executiva.
+3. O desatendimento dos requisitos legais no documento apresentado afasta sua força executiva e inviabiliza o cumprimento de sentença.
+4. Prescreve em cinco anos a pretensão de cobrança de honorários de sucumbência, contado o prazo do trânsito em julgado da decisão que os fixar, nos termos do art. 25, II da Lei nº 8.906/1994 do Estatuto da OAB. Embora o caso não diga respeito a uma ação de cobrança, mas sim ao cumprimento de sentença em que se pleiteia honorários advocatícios sucumbenciais, a Súmula nº 150 do STF orienta que "Prescreve aexecução no mesmo prazo de prescrição da ação".
+5. Prescrição reconhecida de oficio. Recurso conhecido e não provido.
+Os embargos de declaração foram rejeitados.
+No recurso especial,aponta-se, além de dissídio jurisprudencial, ofensa aos arts. 22,24, § 1º, e 25, I e IV, da Lei 8.906/94 e 189 e205 do CC,alegando, em síntese, que (a) a execução dos honorários advocatícios pode ser promovida nos mesmos autos da ação em que tenha atuado o advogado, incluindo-se o a possibilidade de arbitramento do quantum proporcional devido ao recorrente, (b) a decisão homologatória de autocomposição judicial é título executivo, e (c) o prazo prescricional aplicável é o decenal.
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+O recurso especial pode ser conhecido.
+Além da prescrição, o acórdão recorrido assentou o seguinte:
+24. A controvérsia recursal cinge-se em aferir se o documento apresentado como título executivo judicial possui força executiva e, por conseguinte, pode embasar o cumprimento de sentença.
+25. Nos termos do art. 783 do CPC, a ação de execução deve ser proposta com documento que contenha os requisitos essenciais para que seja considerado título executivo judicial ou extrajudicial: crédito líquido,certo e exigível.
+26. A certeza representa a existência da obrigação, que, no caso, relaciona-se à condenação em honorários sucumbenciais. No entanto, a sentença apresentada como título executivo não faz qualquer "menção à condenação do pagamento de honorários sucumbenciais, como destacou a sentença ora impugnada.
+27. Além disso, o apelante afirma que foi contratado pela primeira apelada para prestação de serviços advocatícios e que, após a rescisão contratual, o segundo apelado foi contratado e passou a atuar nas causas em que o recorrente laborou. Em razão disso, defende que foi firmado contrato oral entre si e o segundo apelado, com o intuito de que este lhe pagasse os honorários advocatícios proporcionais.
+28. É ônus do exequente comprovar os fatos constitutivos do seu direito (art. 373, I do CPC). A necessidadede dilação probatória demonstra que a questão não poderia ser deduzida por intermédio de cumprimento de sentença.
+29. Sobre o tema, Daniel Amorim Assumpção Neves leciona que:
+"por exigibilidade entende-se a inexistência de impedimento à eficácia atual da obrigação, que resulta do seu inadimplemento e da ausência de termo, condição ou contraprestação. A prova da exigibilidade dá-se geralmente pelo simples transcurso da data de vencimento ou da inexistência de termo ou condição. Se do advento do termo do implemento da condição ou necessária a provado cumprimento da contraprestação, ela deve ser pré-constituída - invariavelmente documental -, não podendo ser" (Novo Código de Processo Civil Comentado, Ed. Juspodivm, 2016, p. produzida durante a execução1239/1240)  grifo na transcrição
+30. O desatendimento dos requisitos legais dispostos no próprio documento afasta sua força executiva. Vale lembrar que o cumprimento de sentença deve guardar estrita relação com o título judicial que o fundamenta,uma vez que tem como premissa a "subsistência de obrigação revestida de liquidez, certeza e provida de exigibilidade, o que é traduzido no que restara decidido, que, diante da eficácia preclusiva que o contorna, (Acórdão 1259956,deve modular e pautar a efetivação do resolvido como expressão da res judicata". 07262413720198070000, Relator: TEÓFILO CAETANO, 1ª Turma Cível, data de julgamento: 24/6/2020,publicado no DJE: 9/7/2020. Pág.: Sem Página Cadastrada.).
+As razões recursais, no entanto,não refutam direta e especificamente os fundamentos dispostos - ausência dos requisitos essenciais do título executivo judicial e de comprovação dos fatos constitutivos do direito alegado -, atraindo o óbice do enunciado da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso nãoabrange todos eles".
+O mesmoóbiceimpostoà admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", o que prejudica aanálise do dissídio jurisprudencial.
+Por fim, considerando o contexto que deu origem à interposição do recurso especial, em prestígio às normas fundamentais positivadas pelo novo regramento processual civil da boa-fé objetiva, da cooperação entre as partes e da efetividade do processo (arts. 4º, 5º e 6º do CPC), fica o recorrente advertido, desde logo, que a apresentação deincidentes protelatórios poderá dar azo à aplicação de multa (arts. 1.021, § 4º e 1.026, § 2º, do CPC), podendo, inclusive,ser considerada litigância de má-fé (art. 80, VII, do CPC), dando azo à aplicação de multa calculada em salários-mínimos, tendo em vista a irrisoriedade do valor da causa.
+Diante do exposto, não conheço do recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE MENÇÃO, NO TÍTULO EXECUTIVO, DE CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. AUSÊNCIA DE REQUISITO ESSENCIAL. ART. 786 DO CPC.FUNDAMENTO SUFICIENTE, POR SI SÓ, PARA MANTER O ACÓRDÃO RECORRIDONÃO ATACADO. SÚMULA 283/STF.
+RECURSO ESPECIAL NÃO CONHECIDO.
