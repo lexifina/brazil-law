@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em facede acórdão assim relatado (fl. 15):
+Trata-se de habeas corpus, com pedido de liminar, impetrado pelos advogados Luciano Pereira Da Cruz e Mariana Alves Pereira Da Cruz, em favor de FERNANDO ROCHA ALVES, que estaria experimentando constrangimento ilegal por ato do d. juízo de direito da 3ª Vara Criminal da comarca da Capital -Central/SP, o qual, julgando procedente ação penal (Processo Crime nº 1506469-85.2020.8.26.0228), em que condenado o paciente como incurso nos artigos 33, caput, e 35, da Lei nº 11.343/06, às penas de 10 anos e 6 meses de mreclusão, e 1516 dias-multa, sob regime prisional inicial fechado e negou-lhe o direito ao recurso em liberdade. Ponderam os impetrantes faltar fundamentação concreta na decisão hostilizada, porquanto ausentes os requisitos da preventiva. Argumenta, por fim, com a necessidade de se colocar o paciente em prisão domiciliar, dada a pandemia do coronavírus (COVID-19), nos termos da Recomendação nº 62/90 do Conselho Nacional de Justiça.
+A liminar foi indeferida.
+Foram prestados informes.
+Sobreveio parecer da Ilustrada Procuradoria Geralde Justiça pela denegação da ordem.
+É o relatório.
+O paciente foi condenado à pena de 10 anos e 6 meses de reclusão, em regime fechado, pelos delitos de tráfico de drogas e associação para o tráfico.
+A defesa aponta enquadramento em grupo de risco de contágio da Covid-19, por ser idoso e portador de comorbidades, e assevera que não está recebendo assistência médica adequada.
+Portanto, requer a concessão de custódia domiciliar humanitária.
+É o relatório.
+DECIDO.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A crise mundial da Covid-19 trouxe uma realidade diferenciada de preocupação com a saúde em nosso país e faz ver como ainda de maior risco o aprisionamento - a concentração excessiva, a dificuldade de higiene e as deficiências de alimentação naturais ao sistema prisional acarretam seu enquadramento como pessoas em condição de risco.
+O Judiciário brasileiro permanece atuando, mas com redução de audiências e suspensão dos prazo, assim prolongando a conclusão dos feitos.
+Nesse momento, configurada a dificuldade de rápida solução ao mérito do processo e o gravíssimo risco à saúde, o balanceamento dos riscos sociais frente ao cidadão acusado merece diferenciada compreensão, para restringir a prisão. Apenas crimes com violência, praticados por agentes reincidentes ou claramente incapazes de permitir o regular desenvolvimento do processo, poderão justificar o aprisionamento.
+Crimes eventuais e sem violência, mesmo com justificada motivação legal, não permitem a geração do grave risco à saúde pela prisão.
+Esse é o sentido da Recomendação n. 62/2020 do CNJ, arts. 1º e 5º:
+Art. 1º Recomendar aos Tribunais e magistrados a adoção de medidas preventivas à propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos estabelecimentos do sistema prisional e do sistema socioeducativo.
+Parágrafo único. As recomendações têm como finalidades específicas:
+I - a proteção da vida e da saúde das pessoas privadas de liberdade, dos magistrados, e de todos os servidores e agentes públicos que integram o sistema de justiça penal, prisional e socioeducativo, sobretudo daqueles que integram o grupo de risco, tais como idosos, gestantes e pessoas com doenças crônicas, imunossupressoras, respiratórias e outras comorbidades preexistentes que possam conduzir a um agravamento do estado geral de saúde a partir do contágio, com especial atenção para diabetes, tuberculose, doenças renais, HIV e coinfecções;
+II - redução dos fatores de propagação do vírus, pela adoção de medidas sanitárias, redução de aglomerações nas unidades judiciárias, prisionais e socioeducativas, e restrição às interações físicas na realização de atos processuais; e III - garantia da continuidade da prestação jurisdicional, observando-se os direitos e garantias individuais e o devido processo legal.
+ ..  Art. 5º Recomendar aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+I - concessão de saída antecipada dos regimes fechado e semiaberto, nos termos das diretrizes fixadas pela Súmula Vinculante nº 56 do Supremo Tribunal Federal, sobretudo em relação às:
+a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até 12 anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência e demais pessoas presas que se enquadrem no grupo de risco;
+ .. .
+Art. 5º Recomendar aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+I - concessão de saída antecipada dos regimes fechado e semiaberto, nos termos das diretrizes fixadas pela Súmula Vinculante no 56 do Supremo Tribunal Federal, sobretudo em relação às:
+a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até 12 anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência e demais pessoas presas que se enquadrem no grupo de risco;
+b) pessoas presas em estabelecimentos penais com ocupação superior à capacidade, que não disponham de equipe de saúde lotada no estabelecimento, sob ordem de interdição, com medidas cautelares determinadas por órgão de sistema de jurisdição internacional, ou que disponham de instalações que favoreçam a propagação do novo coronavírus;
+II - alinhamento do cronograma de saídas temporárias ao plano de
+contingência previsto no artigo 9º da presente Recomendação, avaliando eventual necessidade de prorrogação do prazo de retorno ou adiamento do benefício, assegurado, no último caso, o reagendamento da saída temporária após o término do período de restrição sanitária;
+III - concessão de prisão domiciliar em relação a todos as pessoas presas em cumprimento de pena em regime aberto e semiaberto, mediante condições a serem definidas pelo Juiz da execução; IV - colocação em prisão domiciliar de pessoa presa com diagnóstico suspeito ou confirmado de Covid-19, mediante relatório da equipe de saúde, na ausência de espaço de isolamento adequado no estabelecimento penal;
+V - suspensão temporária do dever de apresentação regular em juízo das pessoas em cumprimento de pena no regime aberto, prisão domiciliar, penas restritivas de direitos, suspensão da execução da pena (sursis) e livramento condicional, pelo prazo de noventa dias;
+Parágrafo único. Em caso de adiamento da concessão do benefício da saída temporária, o ato deverá ser comunicado com máxima antecedência a presos e seus familiares, sendo-lhes informado, assim que possível, a data reagendada para o usufruto, considerando as orientações das autoridades sanitárias relativas aos riscos epidemiológicos e em observância ao contexto local de disseminação do novo coronavírus.
+Sobre o tema, o Tribunal de origem assim se manifestou (fl. 19):
+Por derradeiro, como cediço, a pandemia provocada pelo coronavírus não implica em concessão automática da concessão de prisão domiciliar, e na presente hipótese, inexiste nos autos comprovação de modo suficiente de que esteja o paciente com a saúde fragilizada, a demandar assistência diferenciada, tampouco se demonstrou que a unidade prisional não tenha condições de fornecer tratamento adequado ou, ainda, que não possua condições de eventual transferência para determinado estabelecimento de saúde, caso necessário.
+Tendo em vista a Recomendação 62/CNJ, que enseja juízo de reavaliação dos benefícios no cumprimento da pena e não conteúdo vinculante quanto às orientações, o paciente não demonstrou ao Tribunal de origem seu estado de saúde debilitado ou impossibilidade do estabelecimento prisional em fornecer assistência médica.
+Desse modo, não se verifica a ocorrência de manifesta ilegalidade, pois o art. 5º da Recomendação 62/CNJ dispõe que cabe ao magistrado sopesar a situação em observância ao contexto local de disseminação do vírus, não havendo a indicação de que exista, atualmente, a possibilidade de agravamento do seu estado geral de sua saúde a partir do contágio no estabelecimento prisional.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
