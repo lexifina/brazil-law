@@ -1,0 +1,41 @@
+DECISÃO
+FÁBIO MARCELO DE SOUZA (FÁBIO) ajuizou ação de rescisão contratual cumulada com devolução de valores pagos contra QUADRA CONSTRUTORA LTDA (CONSTRUTORA).
+Narrou que firmou contrato de promessa de compra e venda de imóvel em construção e que, por circunstâncias alheias à sua vontade, não conseguiu realizar o financeiro bancário do saldo devedor exigido pela construtora, razão pela qual não mais pode manter o contrato. Pugnou, assim, pela rescisão da avença.
+Em primeira instância os pedidos foram julgados procedentes para declarar rescindido o contrato firmado entre as partes e determinar a fixação de cláusula penal em 10% dos valores pagos, os quais deverão ser atualizados pelos índices do contrato,desde a data de cada desembolso, e somente após, deduzidos os 10% a título de cláusula penal, com juros de 1% a mês, contados desde a citação.
+Condenou, ainda, a CONSTRUTORA ao pagamento das custas, despesas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação (e-STJ, fls. 300/303).
+O apelo da CONSTRUTORA foi parcialmente provido para fixar a cláusula penal em 20% dos valores pagos e fixar o termo inicial dos juros de mora a partir do trânsito em julgado da decisão, nos termos do acórdão a seguir ementado:
+AÇÃO DE RESCISÃO DE CONTRATO. CONTRATO DE COMPRA E VENDA. IMÓVEL DA PLANTA. INADIMPLEMENTO DO PROMITENTE COMPRADOR. PEDIDO JULGADO PARCIALMENTE PROCEDENTE. RECURSO DE APELAÇÃO DA RÉ: 1.CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PROVAS SUFICIENTES PARA O JULGAMENTO DA LIDE. 2. FALTA DE FUNDAMENTAÇÃO DA SENTENÇA. PEDIDOS DEVIDAMENTE ANALISADOS. VÍCIO NÃO EVIDENCIADO. 3. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICABILIDADE. 4. RESCISÃO DO CONTRATO. ART. 53 DO CDC. DEVER DE RESTITUIÇÃO DA CONSTRUTORA DE PARTE DOS VALORES PAGOS. SÚMULA 543 DO STJ. RETENÇÃO. PERCENTUAL DE 20%. RAZOABILIDADE.JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO.PRECEDENTES STJ. RECURSO PARCIALMENTE PROVIDO.
+1. Nos contratos de promessa de compra e venda de unidades imobiliárias a relação é de consumo, eis que as partes se enquadram nos conceitos previstos, respectivamente, nos artigos 2º e 3º da Lei nº 8.078/90, sujeitando-se, assim, à incidência de todas as disposições constantes na legislação consumerista.
+2. Recuperados os direitos sobre o imóvel, este será renegociado pela construtora, motivo pelo qual não soa razoável que mantenha retidos integralmente os valores desembolsados pelos autores.
+3. "No que diz respeito a razoabilidade da retenção de valores nas rescisões de contrato de compra e venda por culpa do consumidor, o Superior Tribunal de Justiça fixou o entendimento de que se mostram razoáveis os percentuais fixados entre 10% a 25% sobre o valor pago, conforme as circunstâncias de cada caso e os prejuízos suportados" (TJPR - 18ª C.Cível - 0001597-95.2017.8.16.0160 - Sarandi - Rel.:
+Marcelo Gobbo Dalla Dea - J. 18.06.2018).
+4. "Os juros moratórios, na hipótese de resolução do compromisso de compra e venda de imóvel por iniciativa dos promitentes compradores, devem incidir a partir da data do trânsito em julgado, posto que inexiste mora anterior do promitente vendedor"
+(REsp 1617652/DF, Rel.Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/09/2017, DJe 29/09/2017). (e-STJ, fls. 387/388).
+Os embargos de declaração opostos por FABIO foram rejeitados (e-STJ, fls.432/435).
+No recurso especial, interposto com fundamento no art. 105, III, a e c, da Constituição Federal, a CONSTRUTORA alegou, a par de dissídio jurisprudencial, violação dos arts.186, 389, 402, 413, 421, 422, 475 e 944 do Código Civil; e 51 do Código de Defesa do Consumidor, ao sustentar, em suma, a majoração do percentual de retenção para 29,26% dos valores pagos pelo promitente comprador, mais o montante pago a títulode comissão de corretagem (R$ 7.160,00 - sete mil, cento e sessenta reais).
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem, advindo agravo em recurso especial, a que conheci, em decisão monocrática de minha relatoria, para dar parcial provimento ao recurso especial, nos termos da ementa a seguir transcrita:
+AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIADO NCPC. ART. 1022 DO NCPC.COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE VALORES. DESISTÊNCIA DO PROMITENTE COMPRADOR.PERCENTUAL DE RETENÇÃO. MAJORAÇÃO PARA 25% NOS TERMOS DO RESP N. REsp N. 1.723.519/SP (28/8/2019). AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+No presente recurso integrativo, FABIO alegou omissão na decisão embargada, que não se manifestou acerca do argumento deduzido na sua contraminutaao agravo em recurso especial, de que houve pedido expresso, na inicial, para fixação do percentual de retenção entre 10% e 25%, tal como deferido na decisão embargada, de sorte que não há falar em sucumbência recíproca, ante o acolhimento total do pedido autoral; (2) caso assim, não se entenda, sustenta que houve, em referida contraminuta, a alegação acerca sucumbência mínima do agravado, ora embargante, de sortequea CONSTRUTORA deverá responder integralmente pelas despesas e pelos honorários advocatícios, nos termos do § 2º, do art. 86, do NCPC (e-STJ, fls. 591/594).
+Foi apresentada impugnação (e-STJ, fls. 597/600).
+É o relatório.
+DECIDO.
+O presente recurso comporta acolhimento
+Da violação do art. 1022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+No caso vertente, FABIO alegou omissão no julgado,que não se manifestou acerca do argumento deduzido na sua contraminuta ao agravo em recurso especial, de que houve pedido expresso, na inicial, para fixação do percentual de retenção entre 10% e 25%, tal como deferido na decisão embargada, de sorte que não há falar em sucumbência recíproca, ante o acolhimento total do pedido autoral.
+Razão assiste à insurgência.
+De fato,houve, na peça de ingresso, pedido subsidiário de retenção dos valores pagos entre os índices de 10% e 25% (cf. e-STJ, fls. 15).
+Assim, com o conhecimento do agravo em recurso especial para dar parcial provimento ao apelo nobre da CONSTRUTORA, alterando de 20% para 25% o percentual de retenção dos valores pagos por FABIO em virtude do desfazimento contratual motivado por interesse exclusivo do comprador, não houve decaimento da parte autora em relação à sucumbência, pois, de fato, houve o provimento integral dos pedidos deduzidos na inicial.
+Contudo, entendo que não houve omissão na decisão ora embargada, mas mero erro material, que ora corrijo para alterar a parte dispositiva do julgado, de modo a que
+onde se lê:
+Nessas condições, CONHEÇO do agravo para, desde logo, DAR PARCIAL PROVIMENTO ao recurso especial para fixar em 25% a retenção sobre os valorespagos pelo adquirente.
+Em razão da sucumbência recíproca, arcará a CONSTRUTORA com o pagamento de 70% (setenta por cento) e o adquirente com 30% (trinta por cento) das custas processuais e dos honorários advocatícios, que ora fixo em 10% (dez por cento) sobre o valor da condenação.
+Publique-se. Intimem-se.
+leia-se:
+Nessas condições, CONHEÇO do agravo para, desde logo, DAR PARCIAL PROVIMENTO ao recurso especial para fixar em 25% a retenção sobre os valores pagos pelo adquirente, mantida a sucumbência fixada na origem.
+Publique-se. Intimem-se.
+Nessas condições, ACOLHO os embargos de declaração, com efeitos infringentes, nos termos acima explicitados.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. CONSUMIDOR. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. ART. 1022 DO NCPC. OMISSÃO INEXISTENTE. ERRO MATERIAL VERIFICADO. HONORÁRIOS ADVOCATÍCIOS. AÇÃO JULGADA PROCEDENTE. SUCUMBÊNCIA INTEGRAL DA PARTE DEMANDADA. EMBARGOS ACOLHIDOS, COM EFEITO INFRINGENTE.
