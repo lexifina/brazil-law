@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado:
+APELAÇÃO CRIMINAL. CRIMES CONTRA O PATRIMÔNIO. FURTOS QUALIFICADOS EM CONTINUIDADE DELITIVA (ART. 155, § 4º, INC. I E IV (DUAS VEZES), DO CP E ART. 155, § 4º, INC. IV, DO CP, NA FORMA DO ART. 71, DO CP). SENTENÇA CONDENATÓRIA. INCONFORMISMO DEFENSIVO. PRETENDIDO AFASTAMENTO DA QUALIFICADORA DO CONCURSO DE PESSOAS. INVIABILIDADE. QUALIFICADORA COMPROVADA POR MEIO DAS PROVAS DOS AUTOS. PLEITO DEFENSIVO REPELIDO. COMPENSAÇÃO DA REINCIDÊNCIA COM A CONFISSÃO ESPONTÂNEA. IMPOSSIBILIDADE. RÉU REINCIDENTE ESPECÍFICO EM CRIMES CONTRA O PATRIMÔNIO. CIRCUNSTÂNCIA QUE JUSTIFICA A PREPONDERÂNCIA DA AGRAVANTE.ENTENDIMENTO PACÍFICO DESTA CORTE. MANUTENÇÃO. RECURSO DESPROVIDO.
+O paciente foi condenado, à pena de 3 anos, 4meses e 24 dias de reclusão,em regime inicial aberto, substituída a pena privativa de liberdade por uma medida restritiva de direitos, como incurso nas sanções do art. 155, §4º, I e IV (duas vezes) c/c o art. 61, I, e art.65, III, "d", todos do CP; artigo 155, §4º, IV (uma vez), c/c o art. 61, I, e art. 65, III, "d", todos do CP, na forma do art. 71, caput, do Código Penal.
+Pugna a impetrante, liminarmente e no mérito, pela compensação da atenuante da confissão espontânea com a agravante da reincidência.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+É o relatório.
+DECIDO.
+Tendo em vista a ocorrência de erro material na parte final da decisão anterior, constando nome de outro paciente, cumpre torná-lasem efeito.
+Passo, assim, ao exame do recurso.
+Acerca da questão aqui aduzida, o Tribunal de Justiça assim se manifestou (fls. 621-622):
+Pleiteia a defesa a compensação total entre a atenuante da confissão e a agravante da reincidência.
+Entretanto, melhor sorte não socorre à defesa.
+Ao sopesar a agravante e a atenuante, o magistrado assim consignou:
+Na segunda fase, presente a agravante da reincidência (fls. 90 e 93), tratandose de uma condenação transitada em julgada por crime contra o patrimônio (roubo e furto), MAJORO a pena para 3 (três) anos e 4 (quatro) meses de reclusão. Não obstante, percebe-se que o réu confessou espontaneamente a prática delitiva, aplicável no caso a atenuante do art. 65, III, "d" do Código Penal, REDUZO a pena para 2 (dois) anos e 10 (dez) meses de reclusão, não realizando a compensação pois o acusado é reincidente específico, demonstrando a maior gravidade da agravante preponderante da reincidência (Evento 136).
+Na linha de entendimento do magistrado, tem decidido reiteradamente esta Corte - que a reincidência específica obsta a compensação com alguma atenuante na segunda fase dosimétrica.
+ ..
+Sendo assim, deve ser mantida no ponto a sentença tal qual proferida pelo magistrado a quo.
+Como se vê, na segunda fase da dosimetria da pena, as instâncias ordinárias entenderam que a reincidência específica obsta a compensação com alguma atenuante na segunda fase dosimétrica.
+Entretanto, a Terceira Seção desta Corte, em 23/5/2012, por ocasião do julgamento do EREsp 1.154.752/RS, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante. Em 10/4/2013, o entendimento foi reafirmado no julgamento do REsp 1.341.370/MT, submetido ao rito dos recursos repetitivos.
+Revisitando o tema, em 11/10/2017, no julgamento do HC 365.693/SP, a Terceira Seção deste Tribunal firmou orientação no sentido de que a reincidência específica não impede a integral compensação com a atenuante da confissão espontânea. O acórdão foi assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO. REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - Na espécie, a incidência da atenuante prevista no art. 65, III, "d", do Código Penal, independe se a confissão foi integral ou parcial, especialmente quando utilizada para fundamentar a condenação. Incidência da Súmula n. 545/STJ.
+IV - A col. Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013), firmou entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+VI - A fração de aumento decorrente da continuidade delitiva foi fixada em 1/5 (um quinto) com base em elementos concretos e de acordo com a jurisprudência desta Corte sobre o tema, inexistindo flagrante ilegalidade ou desproporcionalidade na majoração da reprimenda.
+VII - Ainda que estabelecida a pena-base no mínimo legal, sendo o paciente reincidente e fixada a pena em 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, o regime inicial fechado é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, "b", do Código Penal.
+VIII - A eventual possibilidade de aplicação do § 2º do art. 387 do Código de Processo Penal não foi enfrentada pelo Tribunal de origem, sendo inviável sua análise neste Tribunal Superior, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação. (HC 365.963/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017).
+Passo, assim, à nova dosimetria.
+Em relação ao delito previsto no art. 155 § 4º, I e IV: Na primeira fase, mantenho a pena fixada em 2 anos e 8 meses de reclusão e 12 dias-multa, a qual deve ser mantida na segunda fase da dosimetria, compensando-se integralmente a agravante da reincidência com a atenuante da confissão. Ausentes causa especial de aumento ou de diminuição de pena, fixo a pena definitiva de 2 anos e 8 meses de reclusão e 12 dias-multa.
+Por fim, em decorrência do reconhecimento da continuidade delitiva, mantenho a elevação da pena em 1/5, perfazendo-se, assim, a pena definitiva em 3 anos, 2 meses e 12 dias de reclusão, além de 12 dias-multa, mantendo-se, no mais, o decreto condenatório.
+Ante o exposto, TORNO SEM EFEITO a decisão anterior de fls. 696-699, econcedo o habeas corpus para alterar a pena do paciente, tornando-a definitiva em 3 anos, 2 meses e 12 dias de reclusão, além de 12 dias-multa, mantendo-se, no mais, o decreto condenatório.
+Comunique-se.
+Publique-se.
+Intimem-se.
