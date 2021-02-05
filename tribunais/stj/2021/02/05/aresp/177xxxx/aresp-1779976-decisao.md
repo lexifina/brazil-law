@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. PENSÃO POR MORTE DE CÔNJUGE.DEPENDÊNCIA ECONÔMICA PRESUMIDA. QUALIDADE DESEGURADO ESPECIAL. TRABALHADOR RURAL. DEMONSTRAÇÃO.TUTELA ESPECÍFICA.
+1. Presumida a dependência econômica e demonstrada a qualidade de segurado especial, trabalhador rural, é de ser mantida a sentença que concedeu o benefício de pensão por morte a contar da citação, pois ausente recurso da parte no ponto e sob pena de reformatio in pejus.
+2. Determina-se o cumprimento imediato do acórdão naquilo que se refere à obrigação de implementar o benefício em favor da parte autora, por se tratar de decisão de eficácia mandamental que deverá ser efetivada mediante as atividades de cumprimento da sentença stricto sensu previstas no art. 497 do CPC/15, sem a necessidade de um processo executivo autônomo(sine intervallo).
+Os embargos de declaração opostos foram parcialmente providos, sem efeitos infringentes.
+Inicialmente, em seu recurso especial, o INSS suscitou contrariedade ao art. 1.022 do CPC/2015, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca de questões essenciais ao deslinde da controvérsia.
+Em seguida, ainda em suas razões de insurgência, o recorrente aponta como violados os arts. 55 da Lei n. 8.213/1991 e 1.035 do CPC/2015, sustentando, em síntese, que (i) é indevida a concessão de pensão por morte a cônjuge do falecido, em virtude da ausência da comprovação dos requisitos legais e que (ii) os juros e a correção monetária do débito devem obedecer aos critérios estabelecidos na Lei n. 11.960/2009.
+Após decisum que negou seguimento ao recurso especial, na parcela referente aos critérios dos consectários legais, e inadmitiu o recurso especial, na parte atinente à comprovação dos requisitos para a concessão da pensão por morte, com base na Súmula n. 7/STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Primeiramente, diante da negativa de seguimento à parcela recursal referente aos critérios dos consectários legais, em virtude do entendimento firmado no Tema n. 905/STJ, pelo juízo de admissibilidade realizado no Tribunal de origem, deve-se frisar que o presente recurso especial versará apenas acerca da parcela remanescente, qual seja, a ausência de comprovação dos requisitos para a concessão da pensão por morte.
+Em relação à indicada violação do art. 1.022, II, do CPC/2015, não se vislumbra a alegada omissão da questão jurídica apresentada pelo recorrente.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. BENEFÍCIO DE GRATUITA DA JUSTIÇA. DECLARAÇÃO DE POBREZA. COMPROVAÇÃO DE CAPACIDADE DE ARCAR COM AS CUSTAS DO PROCESSO. MULTA. LITIGÂNCIA DE MÁ-FÉ. ART. 4º, §1º, DA LEI 1.060/50. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.625.513/SC, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 2/2/2017, DJe 8/2/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Configura erro grosseiro a interposição de agravo regimental em face de decisão colegiada, de modo que não é cabível a aplicação do princípio da fungibilidade recursal para conhecer do recurso como embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp n. 958.813/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 2/2/2017, DJe 13/2/2017.)
+Por outro lado, é irrefutável que o Tribunal de origem, ao analisar o conteúdo fático e probatório dos autos, consignou expressamente que é "inconteste a dependência econômica que, no caso, é presumida, e comprovada a qualidade de segurado especial do falecido, trabalhador rural (..)", concluindo, em seguida, que é "correta a sentença que concedeu o benefício de pensão por morte.".
+Dessa forma, para rever tal posição e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
