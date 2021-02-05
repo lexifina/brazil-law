@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por REFINARIA DE PETROLEOS DE MANGUINHOS S/A - EM RECUPERACAO JUDICIAL contra decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, a parte embargante sustenta a existência de omissão nos seguintes termos:
+9. Porém, sempre com o máximo respeito, houve omissão na análise da tese proposta no Recurso Especial em toda a sua extensão e profundidade.
+10. As razões recursais buscaram demonstrar que a discussão sobre os efeitos jurídicos do depósito judicial não se desenvolve no campo das relações jurídicas processuais mantidas na ação cautelar e na execução fiscal, mas sim na seara da relação jurídica material tributária, que é una, a despeito de seus múltiplos sujeitos passivos.
+11. O Recurso Especial demonstrou que quando se fala em suspensão da exigibilidade do crédito tributário, se fala na suspensão do vínculo material tributário, cuja condição de sujeito passivo é compartilhada pela Embargante com a empresa Goiasa.
+12. O impedimento de ajuizamento de uma execução fiscal é mera consequência da suspensão do ciclo de cobrança da obrigação material tributária.
+ ..
+16. Ainda sob esse prisma, não há qualquer relevância na possível e eventual diferença entre as teses adequadas à extinção dos vínculos materiais direto e por solidariedade, pois tratou-se de recurso meramente retórico que não se prestou a fundamentar a decisão.
+17. Como se vê, a impugnação de todos os fundamentos do v. acórdão recorrido decorreu da abordagem e desconstrução de sua premissa maior, a qual se fiou unicamente nas relações processuais envolvidas.
+18. Conclui-se que a r. decisão ora embargada se omitiu em relação à tese recursal, por não vislumbrar a extensão impugnatória de todos os fundamentos do v. acórdão recorrido.
+19. Além disso, houve omissão sobre o fato lógico e notório de que o Estado de Goiás há muito está em posse do crédito tributário que procura executar nos autos originários. 5 20. Como se vê, o Embargado ajuizou execução fiscal de crédito tributário depositado e colocado à sua livre disposição, procurando dupla garantia para o mesmo débito.
+21. A matéria é de ordem pública, pois se trata de permitir ao Estado receber duas vezes o valor que lhe é devido, em indubitável enriquecimento ilícito (fls. 282-284).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp n. 1.642.531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
