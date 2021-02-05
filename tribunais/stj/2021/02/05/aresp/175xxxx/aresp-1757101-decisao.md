@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE SANTO ANDRÉ contra a decisão que não admitiu o seu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da CF/1988, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO MUNICÍPIO DE SANTO ANDRÉ - EXECUÇÃO FISCAL Decisão agravada que acolhe exceção de pré- executividade e reconhece ilegitimidade passiva em relação a um dos executados - Valor do feito inferior ao de alçada, na forma do IPCA-E, divulgado pelo IBGE, segundo o STJ em regime de Recurso Repetitivo, Tema 365 Decisão interlocutória - Agravo não cabível, conforme precedentes do Egrégio STJ e das 14ª, 15ª e 18ª Câmaras desta Corte - RECURSO NÃO CONHECIDO.
+Nas razões do recurso especial obstado na origem, alega violação dos arts. 2º, § 2º, e 34, § 1º, da Lei n. 6.830/1980, no que concerne ao cabimento do agravo de instrumento na origem, haja vista que o tribunal desconsiderou o valor dos encargos legais, suficientes para alcance do valor de alçada, trazendo o seguinte argumento:
+A violação é clara e evidente, uma vez que, declaradamente, o tribunal paulista, ao citar em sua fundamentação que "No caso, cuida-se de execução fiscal proposta em novembro de 2015 com o fim de receber R$ 779,99 (fls. 1)", não atentou para os termos do artigo 2º, parágrafo 2º e principalmente os termos do parágrafo 1º do artigo 34 da LEF.
+Não foram considerados, no valor da dívida (art.34, §1º, LEF), os valores dos encargos legais, descritos inclusive na petição inicial, quando de sua distribuição (fl. 135).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice das Súmulas n. 282/STF e n. 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
