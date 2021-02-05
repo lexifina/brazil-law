@@ -1,0 +1,21 @@
+Embargos de Declaração no 1015931-76.2020.8.11.0002.
+Origem: Juizado Especial Cível do Cristo Rei.
+Embargante: Maria Aparecida da Paz Zozomazore.
+Embargado: Banco Itaucard S/A.
+E M E N T A – DECISÃO MONOCRÁTICA
+EMBARGOS DE DECLARAÇÃO - INTEMPESTIVIDADE - FLUÊNCIA DO PRAZO RECURSAL A PARTIR DA DATA DA SESSÃO DE JULGAMENTO - ENUNCIADO 85 DO FONAJE - EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+Os embargos de declaração devem ser opostos no prazo de 05 (cinco) dias, a partir da data da sessão de julgamento, consoante artigo 49 da Lei no 9.099/95 e Enunciado no 85 do FONAJE - Fórum Nacional dos Juizados Especiais.
+Embargos de declaração não conhecidos.
+Decisão Monocrática
+Trata-se de embargos de declaração opostos contra o acórdão proferido por este órgão colegiado.
+Pretende a embargante o acolhimento dos embargos para reformar o acordão.
+O artigo 49 da Lei no 9.099/95 determina que os embargos de declaração serão opostos por escrito ou oralmente, no prazo de 05 (cinco) dias, contados da data da ciência da decisão.
+Com relação à data de início da contagem do prazo de recurso, prevê o Enunciado no 85 do FONAJE - Fórum Nacional dos Juizados Especiais, segundo o qual “O Prazo para recorrer da decisão de Turma Recursal fluirá da data do julgamento.”.
+Deve-se observar ainda o disposto no art. 12-A da Lei 9.099/95, o qual dispõe que na contagem do prazo em dias computar-se-ão somente os dias úteis.
+In casu, denota-se que a decisão embargada foi proferida em 11/12/2020, porém, os embargos somente foram opostos em 11/1/2021, sendo, portanto, intempestivos.
+O relator pode, monocraticamente, não conhecer do recurso inadmissível, nos termos do art. 932, III, do CPC.
+Diante do exposto, NÃO CONHEÇO dos embargos de declaração opostos, em razão da sua intempestividade.
+Intimem-se as partes.
+Transitada em julgado, arquive-se.
+Valdeci Moraes Siqueira
+Juíza Relatora
