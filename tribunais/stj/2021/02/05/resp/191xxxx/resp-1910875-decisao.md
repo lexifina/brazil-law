@@ -1,0 +1,61 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por RAFAEL APARECIDA BARBOSA DE SOUZA contra acórdão prolatado, por unanimidade, pela 17ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo no julgamento de apelação, assim ementado (fls. 194/201e):
+PROCESSUAL CIVIL SENTENÇA ILÍQUIDA FAZENDA PÚBLICA REM ESSA NECESSÁRIA. Sentença que condena o INSS ao pagamento de benefício acidentário.
+Desconhecimento do real valor da condenação. Sentença ilíquida. Remessa necessária que se considera interposta.
+Inteligência da Súmula 490 do STJ.
+ACIDENTÁRIO ACIDENTE DE TRAJETO. Perícia, amparada nos demais elementos probatórios constantes nos autos, que reconhece, categoricamente, a existência de sequela incapacitante decorrente de acidente " in itinere" . Auxílio- acidente devido.
+ACIDENTÁRIO AUXÍLIO-ACIDENTE. Termo " a quo" de pagamento. Em havendo prévio deferimento administrativo de auxílio-doença, deve o benefício ser pago desde o dia seguinte ao da cessação do benefício, nos termos do artigo 86, §2º, da Lei 8.213/ 1991.
+PROCESSUAL CIVIL E ACIDENTÁRIO JUROS E CORREÇÃO MONETÁRIA. Juros e correção monetária que obedecem ao disposto no artigo 1º-F, da Lei 9.494/ 1997, com a redação conferida pela Lei 11.960/ 2009, ao menos até que proceda o Supremo Tribunal Federal ao julgamento do RE 870.947/ SE, com repercussão geral reconhecida. Ressalva- se à parte o direito a eventuais diferenças decorrentes do julgamento.
+PROCESSUAL CIVIL PRECATÓRIOS JUROS E CORREÇÃO MONETÁRIA. A forma de cálculo do precatório é matéria atinente ao processo de execução, não cabendo sua apreciação na ação de conhecimento.
+PROCESSUAL CIVIL AÇÃO ACIDENTÁRIA HONORÁRIOS.
+Percentual a ser apurado em fase de liquidação.
+Inteligência do art. 85, §4º, do NCPC.
+Remessa necessária conhecida de ofício e parcialmente provida. Recurso de apelação do réu provido e do autor parcialmente provido.
+Opostos embargos de declaração, foram rejeitados (fls. 218/221e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 535 do Código de Processo Civil - omissão quanto à análise do art. 28, parágrafo único, da Lei n. 9.868/1999; eArt. 28, caput e parágrafo único, da Lei n. 9.868/1999 - " d e fato, à ótica do recorrente a declaração de inconstitucionalidade proferida em sede de Ação Direta de Inconstitucionalidade tem eficácia erga omnes e efeito vinculante em relação aos órgãos do Poder Judiciário (art. 28, caput, da Lei nº 9.868/99), sendo que, para que a decisão possa ter eficácia é desnecessário seu trânsito em julgado, bastando a publicação no DJU c DOU, que, no caso dos autos, ocorreu em 19 de dezembro de 2013  .. ." (fl. 228e)
+Sem contrarrazões (fls. 244).
+Em reexame da matéria (art. 1.040, II, do Código de Processo Civil de 2015), o acórdão foi parcialmente retificado (fls. 250/254e):
+PROCESSUAL CIVIL  RETRATAÇÃO DO JULGADO. Julgamento do Mérito do REsp nº 1.492.221/PR, Tema nº 905 dos recursos repetitivos. Decisão conflitante com a proferida pelo Supremo Tribunal Federal no RE 870.947/SE, Tema nº 810 de repercussão geral. Nesse contexto, deve prevalecer a decisão proferida pelo Pretório Excelso. Correção monetária que deve seguir o IPCA-E a partir de 3C/06/2009, ante a declaração da inconstitucionalidade da TR como índice de atualização dos débitos fazendários.
+Acórdão parcialmente alterado em sede de juízo de retratação.
+Após o juízo de retratação, o recurso foi admitido (fls. 259/260e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Verifico a inviabilidade da apreciação da apontada violação ao art. 535 do Código de Processo Civil de 1973, porquanto o Recurso Especial se encontra regido pelo Código de Processo Civil de 2015, visto que o acórdão recorrido foi publicado na vigência da novel legislação, conforme Enunciado n. 3 do Pleno desta Corte. Desse modo, considero deficiente a fundamentação do recurso no ponto, razão pela qual aplico o enunciado da Súmula n. 284/STF.
+No sentido do não conhecimento do recurso quando alegada ofensa a dispositivo legal revogado, destaco os seguintes precedentes:
+ADMINISTRATIVO. PROCESSUAL CIVIL. DESAPROPRIAÇÃO. HONORÁRIOS. BASE DE CÁLCULO. JUROS MORATÓRIOS E COMPENSATÓRIOS. INCIDÊNCIA.
+1. O recurso alega contrariedade ao art. 27, § 1º, do Decreto-Lei 3.365/1941; contudo indica em suas razões a redação de artigo que na data da alegada violação já se encontrava revogado pela Medida Provisória 2.183-56 de 2001. Desse modo, incide o óbice da Súmula 284 do STF, o que impede o conhecimento do recurso quanto a esse ponto.
+(..)
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.654.661/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/05/2017, DJe 11/05/2017).
+Na mesma linha: AREsp 234.479/RS, Rel. Min. Assusete Magalhães, DJe de 13.03.2015; REsp 1.164.698/RJ, Rel. Min. Jorge Mussi, DJe de 18.06.2012; AgRg no REsp 1.343.924/SP, Rel. Min. Marco Aurélio Bellizze, DJe de 25.09.2013; e AREsp 141.134/RR, Rel. Min. Mauro Campbell Marques, DJe de 27.03.2012.
+No que se refere à questão da eficácia da declaração de inconstitucionalidade, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado art. 28, caput e parágrafo único, da Lei n. 9.868/1999.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+REsp 1.183.546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010, destaques meus).
+Cabe ressaltar, ainda, que o Recorrente deveria ter alegado afronta ao art. 1.022 do Código de Processo Civil, de forma fundamentada, caso entendesse persistir omissão, contradição ou obscuridade no acórdão impugnado, possibilitando, assim, a análise de eventual negativa de prestação jurisdicional pelo tribunal de origem, sob pena de não conhecimento da matéria por ausência de prequestionamento, como ocorreu no presente caso.
+Por fim, o Recurso Especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, pois a parte recorrente deixou de proceder ao cotejo analítico entre os arestos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o Recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. EXECUÇÃO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL EM VIRTUDE DE PROPOSITURA DE DEMANDA JUDICIAL PELO DEVEDOR NA QUAL O DÉBITO É IMPUGNADO. ALEGADA AUSÊNCIA DE PRECLUSÃO. RECURSO ANCORADO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. Além do que, para se comprovar a divergência, não basta a mera transcrição de ementas, é indispensável o cotejo analítico entre os julgados, de modo que ressaia a identidade ou similitude fática entre os acórdãos paradigma e recorrido, bem como teses jurídicas contrastantes, a demonstrar a alegada interpretação oposta.
+4. Agravo Regimental do IRGA desprovido.
+(AgRg no REsp 1.355.908/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/08/2014, DJe 15/08/2014).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+In casu, diante da não atribuição dos ônus sucumbenciais a uma das partes em razão da sucumbência mínima (art. 86, parágrafo único, do CPC/2015), impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
