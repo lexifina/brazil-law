@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 16):
+Habeas corpus. Impetração contra sentença transitada em julgado. Tráfico de drogas. Pleito de redução da pena e fixação do regime semiaberto. Mecanismo processual inadequado, não servindo o habeas corpus como sucedâneo da revisão criminal. Precedentes do STJ. Inexistência de flagrante ilegalidade apta a permitir a concessão da ordem de ofício. Paciente condenado por transportar 17kg de cocaína. Pena-base fixada acima do mínimo legal em virtude dos maus antecedentes. Regime fechado justificado. Ordem indeferida in limine, nos termos do art. 663 do CPP.
+O paciente foi condenado às penas de 4 anos, 10 meses e 10 dias de reclusão, em regime fechado, e 485 dias-multa, por ofensa ao art. 33, caput, da Lei 11.343/2006.
+As impetrantes argumentam, em suma, a ocorrência de bis in idem, porquanto o juízo de 1º grau fixou a pena basilar acima do mínimo legalem razão de condenação anterior por contravenção penal, negando a incidência da minorante prevista na Lei de Drogas e aplicando o regime mais gravoso pela mesma motivação.
+Requerem, liminarmente e no mérito, a revisão da dosimetria da pena e a alteração do regime prisional para o semiaberto.
+A liminar foi indeferida.
+As informações foram prestadas.
+Manifestou-se o Ministério Público Federal pela denegação do writ.
+É o relatório.
+DECIDO.
+De início, a alegação da ocorrência de bis in idem não foi debatida pelo Tribunal estadual, inviabilizando a sua análise nesta sede sob pena de indevida supressão de instância.
+Sobre as demais pretensões aqui trazidas, assim se manifestou o Tribunal local (fl. 19):
+ .. Conforme se denota dos autos, o paciente condenado por estar transportando 20 tijolos de cocaína, com peso aproximado de 17,31Kg, de forma que a gravidade concreta da infração justifica o regime inicial fechado. Outrossim, a pena-base foi fixada acima do mínimo legal posto ostentar condenações definitivas pela contravenção penal de exploração de jogo de azar. Assim, não verifico qualquer error in judicando apto a demandar a concessão da ordem. ..
+Da sentença, extrai-se (fls. 24-25 - com destaques):
+ .. Nos termos do artigo 59, do Código Penal, c.c. artigo 42, da Lei n.º 11.343/06, considerando que o réu possui condenação anterior pela prática de contravenção penal (fls. 81/83, processo 0002103-49.2015.8.26.0003 e processo 0004019-89.2013.8.26.0003, da 1.ª Vara Criminal do Foro Regional III), fixo a pena-base um sexto (1/6) acima do mínimo legal, em cinco (05) anos e dez (10) meses de reclusão e pagamento de quinhentos e oitenta e três (583) dias-multa. .. O regime inicial para desconto da reprimenda privativa de liberdade deve ser o fechado em razão do antecedente criminal ostentado e da quantidade de substância entorpecente apreendida em poder do réu que demonstra que sua conduta ensejaria a circulação de droga em larga escala, fatos que denotam que apenas tal regime é o suficiente para a repressão e prevenção (art. 33, do C.P.). ..
+Como se vê, o juízo de 1º grau majorou a pena basilar do paciente em 1/6 - o que se revela proporcional e razoável-devido a duas condenações anteriores pela prática de contravençõespenais, valorando-se, assim, os maus antecedentes.
+Entende esta Corte que, embora a contravenção penal não autorize o reconhecimento da agravante da reincidênciapor expressa previsão legal, é legítima para a exasperação da pena-basecomomaus antecedentes, razão pela qual não se verifica a apontada violação do art. 59 do Código Penal.Nesse sentido: RHC 20.951/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/2/2014, DJe 24/02/2020, e, ainda:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CORRUPÇÃO ATIVA. FIXAÇÃO DA PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES. CONTRAVENÇÕES PENAIS JÁ ALCANÇADAS PELO PERÍODO DEPURADOR QUINQUENAL. POSSIBILIDADE. REGIME INICIAL SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MAIOR REPROVABILIDADE DA CONDUTA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. NÃO PREENCHIMENTO DO REQUISITO DE ORDEM SUBJETIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+- A Terceira Seção decidiu ser possível, desde que com base em motivação concreta, estabelecer regime prisional mais gravoso do que aquele que corresponderia, como regra geral, à pena aplicada. Tal fundamentação, porém, deve ser aferida caso a caso.
+- Não há ilegalidade na exasperação da pena-base no caso, pois não obstante não caracterize reincidência, a contravenção penal pode ser considerada como reveladora de maus antecedentes (AgRg no AREsp n.896.312/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 21/6/2016, DJe 29/6/2016).
+ ..
+- Agravo regimental não provido. (AgRg no HC 396.444/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/06/2018, DJe 20/06/2018).
+Por fim, de acordo com o entendimento pacificado desta Corte, a expressiva quantidade de droga apreendida em poder do paciente- 17,31 quilos de cocaína- autoriza o agravamento do regime prisional, mesmo com a sanção final sendo inferior a oito anos de reclusão. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS.PENA-BASE NO MÍNIMO. SANÇÃO FINAL INFERIOR A 8 ANOS. REGIME INICIAL MAIS GRAVOSO. FUNDAMENTO CONCRETO. ELEVADA QUANTIDADE DE DROGA APREENDIDA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRECEDENTES DO STJ. AGRAVO IMPROVIDO.
+1. Consoante as regras insertas no art. 33 do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da sanção final aplicada, a existência de circunstâncias judiciais desfavoráveis e, em se tratando dos delitos previstos na Lei 11.343/2006, a natureza e a quantidade da substância ou do produto, nos termos do art. 42 da Lei 11.343/06.
+2. A despeito de a pena-base ter sido fixada no mínimo legal e da sanção final inferior a 8 anos de reclusão, há fundamento concreto para o regime inicial fechado, tendo em vista a elevada quantidade de droga apreendida - 39,5 kg de maconha. Precedentes do STJ.
+3. Agravo regimental improvido. (AgRg no HC 608.921/SP, de minha relatoria, SEXTA TURMA, julgado em 01/12/2020, DJe 07/12/2020).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
