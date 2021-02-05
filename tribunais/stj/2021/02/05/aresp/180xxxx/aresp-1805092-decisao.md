@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUCAS PEREIRA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ROUBO SIMPLES QUADRO PROBATÓRIO QUE SE MOSTRA SEGURO E COESO PARA EVIDENCIAR MATERIALIDADE E AUTORIA AUSÊNCIA DE CONFISSÃO DO RÉU VERSÃO EXCULPATÓRIA DESPROVIDA DE ELEMENTOS PROBATÓRIOS DESCLASSIFICAÇÃO PARA CONSTRANGIMENTO ILEGAL INADMISSÍVEL PRINCÍPIO DA INSIGNIFICÂNCIA AFASTADO IRRELEVÂNCIA DO VALOR DA RES OU DA RESTITUIÇÃO À VÍTIMA GRAVE AMEAÇA COMPROVADA E RÉU REINCIDENTE PENA CORRETA REGIME FECHADO MANTIDO RECURSO IMPROVIDO
+Quanto à primeira controvérsia, alega violação do artigo 65, III, "d", do Código Penal, no que concerne ao reconhecimento da atenuante da confissão espontânea, trazendo o(s) seguinte(s) argumento(s):
+Note-se que a decisão recorrida nega vigência a norma contida no art. 65, III. "d" do CP, ao não incidir a atenuante por confissão. (fls. 235).
+Ora Excelências, como se vê, os nobres julgadores reconheceram que o recorrente ADMITIU A AUTORIA DO DELITO e, inclusive, utilizaram tais palavras como elemento de convicção para a condenação. No ponto, o fato de LUCAS ter negado o emprego de grave ameaça não tem o condão de afastar a atenuante. (fls. 235).
+É necessário voltar ao texto legal (art. 65 do CP), que não exige confissão completa, integral e detalhada nem sua adequação ao tipo penal indicado pela acusação. Basta o agente "confessar a autoria do crime". E isso não há divergências de que LUCAS fez. Ele confessou ter pedido, insistentemente, dinheiro para vítima, até lograr êxito, empreendendo fuga. (fls. 235).
+Portanto, é de rigor a aplicação da atenuante da confissão espontânea no presente caso. (fls. 237).
+Quanto à segunda controvérsia, requer a compensação entre a agravante da reincidência com a atenuante da confissão espontânea, trazendo o(s) seguinte(s) argumento(s):
+Reconhecida a incidência da circunstância atenuante da confissão, ela deve ser compensada com a reincidência nos termos do artigo 67 do Código Penal. (fls. 237).
+Assim, uma reconhecida a atenuante da confissão espontânea, necessário se faz a sua compensação, reduzindo a pena ao patamar mínimo legal e, por conseguinte, fixando o regime inicial semiaberto para o cumprimento da reprimenda. (fls. 240).
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso, quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Ao contrário do sustentado pela d. Defensoria Pública o réu não confessou o delito. O réu admitiu ter pedido dinheiro à vítima, negando assim a subtração bem como negando a grave ameaça.
+Ausente a confissão, não se há falar em compensação com a agravante da reincidência que estou comprovada a fls. 67/68. (fl. 203).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ademais, no que tange à segunda controvérsia, na espécie, dada a inviabilidade de análise acerca do reconhecimento da benesse postulada na primeira controvérsia, resta prejudicado o pleito relacionado à compensação entre a agravante da reincidência com a atenuante da confissão espontânea.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
