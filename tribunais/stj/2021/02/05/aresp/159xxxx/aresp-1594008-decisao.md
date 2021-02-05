@@ -1,0 +1,4 @@
+DECISÃO
+Compulsando os autos verifico petição nº 1061612/2020 - Ofício nº953/2020 encaminhada pelo Juízo de Direito da 1ª Vara Criminal da Comarca de Rio Grande/RS, referente ao processo nº 023/2.13.0005170-3 (CNJ:.0015372-07.2013.8.21.0023), ressaltando que "Diante da manifestação ministerial, por meio da qual suscita a existência de erro material na decisão do colendo Superior Tribunal de Justiça, encaminho cópias dos documentos das fls. 290-307" (fl. 4, do Exp. Avulso).
+Determino resposta ao Ofício com as informações processuais de queo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL foi intimado da decisão monocrática proferida nestes autos de agravo em recurso especialem 13/12/2019, transcorrido o prazo in albis, semmanifestação sobre eventualerro material, motivo pelo qual a decisãotransitou em julgado.
+Cumpra-se.
