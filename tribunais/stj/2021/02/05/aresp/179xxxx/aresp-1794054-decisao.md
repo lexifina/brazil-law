@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo BANCO SAFRA S.A. contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO EMBARGOS À EXECUÇÃO RECEBIDOS COM EFEITO SUSPENSIVO NA ORIGEM IRRESIGNAÇÃO DO EMBARGADO REQUISITOS PRESENTES NO CASO CONCRETO PARÁGRAFO PRIMEIRO DO ARTIGO 919 DO CÓDIGO DE PROCESSO CIVIL RECURSO DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 919, §§ 1º e 5º, do CPC, no que concerne ao indevido sobrestamento do feito executório, visto que ausente a garantia do juízo, trazendo o(s) seguinte(s) argumento(s):
+A despeito da manutenção do efeito suspensivo, o Tribunal de origem entendeu que o fato de se encontrar garantida a execução e a existência de ação revisional intentada para a discussão dos contratos exequendos são elementos suficientes para o sobrestamento do feito executório.
+Todavia, é de sabença que a regra esculpida no § 1º do art. 919 do CPC condiciona a possibilidade de concessão de efeito suspensivo à presença cumulativa dos três requisitos ali descridos, qual seja: a) relevância dos fundamentos dos embargos; b) risco de dano grave ou de difícil ou incerta reparação; e c) garantia do juízo.
+No que toca especificamente à segurança do juízo - real motivo da presente insurgência - importa anotar que, no caso em concreto, a mesma se constitui através da medida de arresto cautelar outrora deferido pelo juízo singular nos autos de execução, cuja legitimidade vem sendo alvo de discussão em outra contenda recursal (AI nº 2041341-11.2019.8.26.0000), na qual foi concedido efeito suspensivo para impedir a sua convolação em penhora.
+Ocorre, a teor do que estabelece o § 5 do dispositivo legal em análise, a garantia do juízo só poderá ser aceita a partir do ato de formalização das penhoras, através da lavratura dos respectivos termos para posterior anotação junto ao registro competente.
+Em outras palavras, o art. 919, em seu § 5" traz disposição expressa no sentido de que a concessão de efeito suspensivo aos embargos não impede a efetivação dos atos de penhora e de avaliação dos bens.
+Neste cenário, tem-se que a solução adotada pelas instâncias ordinárias, para além de violar frontalmente a disposição legal, acaba por criar, em última análise, um insolúvel impasse de ordem prática, na medida em eventual provimento do recurso correlato, com revogação do arresto, esvaziará por completo a garantia do juízo ensejadora da concessão do efeito suspensivo aos embargos.
+ ..
+Claramente o juízo não está seguro por meio do arresto dos imóveis, cujo valor, registre-se, sequer guarda a devida proporção com o débito referido na inicial da execução (fls. 5.786-5.788).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Porém, o § 1º do artigo 919 do Código de Processo Civil possibilita ao juiz conferir o efeito suspensivo aos embargos desde que verificados os requisitos para a concessão da tutela provisória e desde que a execução esteja garantida por penhora, depósito ou caução suficiente.
+ ..
+No caso concreto, a decisão está devidamente fundamentada, fazendo alusão a todos estes requisitos. A ação de embargos aponta o trâmite de ação revisional de contrato movida contra o agravante, na qual são especificadas as cláusulas que os agravados classificam como abusivas. De fato, independentemente do resultado do julgamento do mérito dessa ação, existe minudente especificação dessas supostas abusividades na inicial.
+Por seu turno, o perigo de dano é patente, haja vista a possibilidade de iminente constrição e expropriação de bens.
+Finalmente, o juízo apontou a existência de bens penhorados, suficientes para garantir a execução (fl. 5.774).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
