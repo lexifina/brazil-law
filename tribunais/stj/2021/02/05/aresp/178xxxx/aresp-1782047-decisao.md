@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por RENÉ ROSALDO DOS SANTOS contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a" da CF/1988, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+EMBARGOS DE DECLARAÇÃO - ART. 1.022 DO NCPC - COMISSÃO DE CORRETAGEM - COBRANÇA DE VALOR PAGO  RECIBO DE PAGAMENTO  DEVOLUÇÃO EM DOBRO  QUESTÃO AVENTADA NAS RAZÕES RECURSAIS  APLICAÇÃO DO ART. 940 DO CÓDIGO CIVIL  BOA-FÉ PRESUMIDA EM RELAÇÃO AOS NEGÓCIOS JURÍDICOS QUE FOI AFASTADA NA INSTRUÇÃO PROBATÓRIA CONFORME O ÔNUS DA PROVA FIXADO PELO JUIZO DE PRIMEIRO GRAU NO DESPACHO SANEADOR  MÁ-FÉ CARACTERIZADA  REDISTRIBUIÇÃO DA SUCUMBÊNCIA. OMISSÃO SANADA COM ATRIBUIÇÃO DE EFEITO INFRINGENTE. APELAÇÃO DOS EMBARGANTES A QUE SE DEVE DAR PARCIAL PROVIMENTO. HONORÁRIOS SUCUMBENCIAIS DEVIDOS.
+EMBARGOS PROVIDOS.
+EMBARGOS ACOLHIDOS COM EFEITO INFRINGENTE (fl. 548).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação do art. 940 do CC, no que concerne à ausência de má-fé, trazendo os seguintes argumentos:
+A aplicação da sanção prevista no art. 940 do CC somente pode ser feita quando há prova da má-fé do credor, o que inexiste no caso. Dessa forma, verifica-se que a conclusão do r.Acórdão recorrido quanto a não existência de má-fé na conduta do Recorrente decorreu da análise do conjunto fático-probatório dos autos.
+ ..
+Não PODE existe má fé ou pagamento em dobro de algo que o Recorrente jamais recebeu, está ocorrendo uma confusão por parte do Desembargador em entender que a fazenda foi vendida por 02 (duas) vezes, sendo que na primeira venda o Recorrente recebeu R$100.000,00(cem mil reais), primeira venda esta que acabou sendo desfeita pelos próprios Recorridos e na segunda venda feita da fazenda o Recorrente não recebeu nada (fls. 623-624).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+É incontroverso nos autos que o percentual fixado a titulo de pagamento de comissão de corretagem, que no caso em tela, foi pactuado sobre o valor da venda recebido em espécie. Assim como, incontroverso que o valor sobre o qual incidiu o percentual da comissão é de R$ 3.500.000,00 (três milhões e quinhentos mil reais).
+A respeito, destaca-se o que constou do acórdão embargado:
+ ..
+No tocante ao recibo de pagamento de R$ 100.000,00 (cem mil reais), de fato, compulsando os autos em primeiro grau, verifica-se que os embargantes foram acionados judicialmente para pagamento da comissão, com a inclusão do respectivo valor.
+Contudo, em resposta à contestação, o embargado atribui ao valor consignado no recibo de quitação de R$ 100.000,00 (cem mil reais) a uma outra suposta negociação. Circunstância que durante a instrução processual foi afastada pela produção de provas, como, aliás, foi consignado na fundamentação da sentença recorrida, a saber:
+ ..
+Não obstante a fundamentação da sentença, não se pode atribuir à cobrança excessiva pelo embargado, que tenha se dado de boa-fé. Da mesma forma, verifica-se nos autos que não decorreu de interpretação equivocada das disposições contratuais, porquanto, em impugnação o ora embargado impugnou o recibo, atribuindo-o a outro suposto negócio que teria ocorrido entre as partes, o que foi devidamente comprovado ao longo da instrução de que não ocorrera tal negócio.
+A redação do art. 940 do Código Civil não deixa dúvida:
+ ..
+A aplicação da pena prevista no art. 940 do Código Civil ao caso em comento, exige verificar se a parte autora, aqui embargada, agiu com má-fé ao demandar por dívida já paga. Registre-se, ainda, que a boa-fé se presume, dependendo da prova em contrário para a sua desconstituição, sendo importante, portanto, aferir de quem era o ônus da prova a respeito.
+A partir deste contexto e, novamente em atenta análise do feito em primeiro grau, extrai-se do despacho saneador (mov. 113.1), que o juízo de primeiro grau fixou os pontos controvertidos e, especificamente em relação ao recibo de quitação do valor de R$ 100.000,00, atribui ao autor embargado o ônus da prova, no seguinte sentido:
+ ..
+Com efeito, não logrando êxito a parte autora em provar o item "a" conforme transcrito acima, conclui-se que agiu de má-fé ao cobrar parte da dívida que já sabia haver recebido, e mesmo depois da contestação deixou de fazer qualquer ressalva nesse sentido.
+Assim, recebo os embargos de declaração para sanar a omissão a respeito da aplicação do art. 940 do Código Civil, atribuindo-lhe efeito infringente com lastro na fundamentação consignada no voto, de modo que deve ser dado parcial procedência ao recurso de apelação dos embargantes para declarar a cobrança de parte de dívida já paga a ser restituída em dobro, sem prejuízo da parte procedente da ação de cobrança no tocante à base de cálculo sobre a qual incidiu a comissão de corretagem, valores que serão compensados na fase de cumprimento de sentença (fls. 550/551).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita - Súmula n. 7/STJ". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
