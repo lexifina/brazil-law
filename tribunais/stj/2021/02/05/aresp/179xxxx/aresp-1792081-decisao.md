@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOSE FERNANDO FAIOLI contra a decisão que não admitiu o seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. REVISÃO DA RMI DA APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. COMPROVAÇÃO DAS CONDIÇÕES ESPECIAIS. RUÍDO. USO DE EPI. IMPLEMENTAÇÃO DOS REQUISITOS. JUROS E CORREÇÃO MONETÁRIA. MANUAL DE CÁLCULOS NA JUSTIÇA FEDERAL E LEI Nº 11.960/2009. SUCUMBÊNCIA RECÍPROCA.
+1. São requisitos para a concessão da aposentadoria por tempo de contribuição, de acordo com os arts. 52 e 142 da Lei 8.213/91, a carência e o recolhimento de contribuições, ressaltando-se que o tempo de serviço prestado anteriormente à Emenda Constitucional 20/98 equivale a tempo de contribuição, a teor do seu art. 4º.
+2. Deve ser observada a legislação vigente à época da prestação do trabalho para o reconhecimento da natureza da atividade exercida pelo segurado e os meios de sua demonstração.
+3. A especialidade do tempo de trabalho é reconhecida por mero enquadramento legal da atividade profissional (até 28/04/95), por meio da confecção de informativos ou formulários (no período de 29/04/95 a 10/12/97) e via laudo técnico ou perfil profissiográfico previdenciário (a partir de 11/12/97).
+4. Para o agente ruído, considera-se especial a atividade desenvolvida acima do limite de 80dB até 05/03/1997, quando foi editado o Decreto nº 2.172/97, a partir de então deve-se considerar especial a atividade desenvolvida acima de 90dB. A partir da edição do Decreto nº 4882 em 18/11/2003, o limite passou a ser de 85dB.
+5. O uso de Equipamento de Proteção Individual - EPI para o agente nocivo ruído, desde que em níveis acima dos limites legais, não descaracteriza o tempo de serviço especial.
+6. Reconhecidas as atividades especiais, deve o INSS proceder ao recálculo da renda mensal inicial (RM1) do beneficio da parte autora.
+7. Juros e correção monetária de acordo com os critérios do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal, naquilo que não conflitar com o disposto na Lei nº 11.960/2009.
+8. Sucumbência recíproca.
+9. Apelação da parte autora parcialmente provida.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 57, § 5º, e 58 da Lei n. 8.213/91 e 68 do Decreto n. 3.048/99, no que concerne à comprovação do exercício de atividade nociva para fins de reconhecimento de aposentadoria especial, trazendo o(s) seguinte(s) argumento(s):
+A pretensão do Recorrente vem amparada nos artigos 57 e seu parágrafo 5º, artigo 58 e a sua regulamentação dada pelo Decreto 3.048/99 em seu artigo 68, onde resta assegurado o reconhecimento da especialidade do período laborado exposto a agentes nocivos definidos pelo Poder Executivo, devidamente comprovado nos PPP"s anexo nos autos (fl. 238- 239).
+ ..
+Foram apresentado diversos formulários, em nome do Recorrente para comprovar a atividade nociva no período de 04/12/1998 a 27/10/2007.
+ ..
+Sendo assim, os períodos do Recorrente estão devidamente comprovados e se submetem aos temos da norma retro elencada (fl. 239).
+Portanto, Excelências, por todos os ângulos vistos, é clara a violação as normas elencadas acima (fl. 240).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto ao reconhecimento da insalubridade, o período de 04.12.98 a 19.12.2000, laborado na empresa Cia. Americana Industrial de Ônibus, na função de supervisor da seção de Revisão Elétrica, não é passível de ser considerado como trabalhado em condições especiais, tendo em vista a necessidade de aferição da intensidade efetiva da exposição ao agente nocivo ruído, a que a parte autora estava sujeita, não bastando a informação "superior a 85 dB(A)", constante dos documentos (PPP - Perfil Profissiográfico Previdenciário, formulário DSS-8030 e laudo técnico) acostados às fls. 30/32 e 36.
+Com relação ao período de 01.09.2001 a 14.06.2007, laborado na Induscar Indústria e Comércio de Carrocerias Ltda., na função de supervisor de produção do setor de Montagem, Acabamento, Revisão e Pintura, verifico a inviabilidade do reconhecimento como especial do período de 01.09.2001 a 18.11.2003, à vista da comprovação da exposição a ruído inferior (oscilando de 81,3 a 85,5 decibéis) conforme consta do PPP - Perfil Profissiográfico Previdenciário emitido em 14.06.2007 (fls. 37/38), ao limite fixado na norma previdenciária para o período, que era de 90 decibéis (fl. 190).
+ ..
+Por fim, registro a ausência de comprovação nos autos relativa ao pleito de reconhecimento da especialidade das atividades exercidas nos períodos de 20.12.2000 a 30.08.2001 e de 15.06.2007 a 27.10.2007 (fl. 191).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
