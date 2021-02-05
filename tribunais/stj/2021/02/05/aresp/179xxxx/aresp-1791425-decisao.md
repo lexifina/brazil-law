@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por LEONARDO BARBASTEFANO e OUTRO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO.
+IMPUGNAÇÃO. EMENDA À INICIAL. ACOLHIMENTO.
+VERIFICADOS DEFEITOS E IRREGULARIDADES NA PETIÇÃO INICIAL DA EXECUÇÃO, COMUNICADAS PELO EXEQUENTE QUANDO DO OFERECIMENTO DE IMPUGNAÇÃO AOS EMBARGOS OPOSTOS PELO DEVEDOR, JUSTIFICA-SE O ACOLHIMENTO DA EMENDA À INICIAL.
+TÍTULOS EXECUTIVOS EXTRAJUDICIAIS E PLANILHA DE DÉBITO QUE SE REFERIAM A PERÍODOS DIVERSOS DOS CONTIDOS NA INICIAL, JUSTIFICANDO CORREÇÃO. SITUAÇÃO QUE SE AMOLDA À DISPOSIÇÃO CONTIDA NO ART. 321 DO CPC. INOCORRÊNCIA DE DECISÃO ULTRA OU EXTRA PETITA, PORQUANTO HOUVE PEDIDO EXPRESSO DE EMENDA, O QUE, ADEMAIS, PODERIA SER DETERMINADO DE OFÍCIO PELO MAGISTRADO.
+AGRAVO DE INSTRUMENTO DESPROVIDO (fl. 206).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação do art. 329, II, do CPC, no que concerne à impossibilidade de emenda da inicial sem a anuência dos réus, trazendo os seguintes argumentos:
+Como se vê no caso concreto, a emenda da inicial se deu após a defesa dos ora recorrentes, sem a anuência dos mesmos.
+Ocorre que os embargantes não consentiram com o pedido extemporâneo de aditamento da inicial feito pelo autor, até porque já haviam embargado a execução, pelo que merece ser reformada a decisão para que seja feita a verdadeira Justiça.
+ ..
+Verifica-se assim que num momento a pretensão do agravado foi interpretada como ADITAMENTO À INICIAL e mais adiante essa mesma conclusão é negada sob o argumento que a situação não seria de aditamento à inicial, afastando a incidência do artigo 329 do CPC e a necessidade de concordância da parte adversa.
+Ora Excelências, referida situação trazida no acórdão evidencia verdadeira contradição entre as conclusões trazidas na fundamentação do julgado, porquanto ora defende a posição de que houve expressamente o pedido de aditamento da inicial, ora refere não poder ser confundida a situação com o aditamento da inicial.
+Partindo do pressuposto que efetivamente houve o pedido de aditamento à inicial e por isso estaria o julgador autorizado a deferir o pedido, como ficaria a incidência do artigo 329 do CPC  uma vez que dita norma exige o consentimento do réu após a citação (caso dos autos).
+Desta forma, mostra-se inadequada a decisão que desacolheu os embargos declaratórios dos ora recorrentes e também a decisão de origem, porquanto não levou em consideração o fato de já estar embargada a execução (fls. 241-242).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Da cópia integral do processo de execução contante no Evento 14, verifica-se que, apesar de na inicial constar que as cotas em atraso eram as dos meses de "julho/2017 a maio/2017 (unidades 103, 105 e 106) e janeiro de 2017 (unidade 103)" os docs de condomínio e a planilha de fls. 86-87 dos autos físicos da execução ("Outros" - Evento 14 dos Embargos - 50167150920198210001) demonstram que os valores efetivamente cobrados são aqueles vencidos entre julho de 2014 e maio de 2016.
+Por esta razão, em resposta aos embargos dos devedores, os exequentes ofertaram impugnação informando o equívoco e requerendo, expressamente o seu recebimento como emenda à inicial (fl. 02 do documento "IMPUGNAÇÃO1" do Evento 14):
+ ..
+Destarte, de plano já se afasta a alegação de que a decisão agravada teria desbordado os limites do pedido (extra ou ultra petita), porquanto houve requerimento de emenda à inicial.
+No caso, ademais, a adequação procedida pelo magistrado a quo se deu em observância ao CPC/15 que, em seu art. 321 determina que "o juiz, ao verificar que a petição inicial não preenche os requisitos dos arts. 319 e 320 ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de 15 (quinze) dias, a emende ou a complete, indicando com precisão o que deve ser corrigido ou completado"
+No caso a irregularidade foi informada pelo próprio exequente. Contudo, tal situação não se confunde com a hipótese de aditamento da petição inicial constante no art. 329, do CPC, pela qual o autor altera sua pretensão, dependendo do consentimento do réu. Porquanto o que houve foi mera correção de erro material, já que evidente que a pretensão contida na inicial não refletia o teor do título executivo extrajudicial e demais documentos que a instruíam.
+Trata-se, também, de medida que busca a efetivação dos princípios da economia processual, efetividade e razoável duração do processo com busca a uma decisão de mérito justa e efetiva, exemplificados nos artigos 4º, 6º 139, II, IX, do CPC.
+Inegável, todavia, que ao executado deve ser reaberta a oportunidade de manifestar oposição ou pagar o débito com os benefícios do § 1º do art. 827 e 916 do CPC (fl. 204) - grifo nosso.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
