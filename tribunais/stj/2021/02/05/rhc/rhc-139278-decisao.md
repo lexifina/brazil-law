@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscompedido de liminar interposto por MARCELINO FERREIRA DA SILVAcontra acórdão do Tribunal de Justiça do Estado de São Paulo(Processo n. 2133304-66.2020.8.26.0000).
+O recorrenteteve aprisão em flagrante convertida em preventiva a pedido do Ministério Público e foi denunciado(fls. 34-38)em razão da suposta prática dodelitodescritonoart. 33 da Lei n. 11.343/2006.
+O decreto prisional fundou-se na expressiva quantidade enocividade dos entorpecentes apreendidos.
+O recorrente alega que a decretação da prisão preventiva carece de fundamentação eque não estão preenchidos os requisitos autorizadores da custódia cautelar. Argumenta que é primário, possui ocupação lícita e residência fixa.
+Requer, liminarmente e no mérito, seja revogada sua prisão preventiva, expedindo-se o alvará de soltura, pois o caso se enquadra nas hipóteses referidas na Recomendação CNJ n. 62/2020.
+O Tribunal de Justiça do Estado de São Pauloapresentou informações às fls. 462-488 e 493-608.
+O Ministério Público Federal opinou pelo desprovimento do recursoordinário(fls. 610-612).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fls. 233 e 234):
+Segundo apurado, em data anterior a 06/06/2020, os denunciados se associaram com o fim de praticar o tráfico de drogas, objetivando levar até a parte interna do Aeroporto Internacional de Guarulhos uma grande quantidade de cocaína, consistente em 67 (sessenta e sete) tijolos, com aproximadamente 1 kg cada. As porções de cocaína estavam acondicionadas em três malas de viagem no porta-malas, além de ter sido apreendida a quantia de R$ 67.422,00 em dinheiro.
+ ..
+Assim, a expressiva quantidade de entorpecentes 67 tijolos, de aproximadamente 1 kg cada e natureza da droga (cocaína), apontam para estabilidade e profissionalismo, de modo que a gravidade do crime e periculosidade do agente evidenciada pelas circunstâncias concretas extraídas do crime no momento do flagrante justificam a mantença do paciente no cárcere.
+No presente caso, a expressiva quantidade de entorpecenteapreendidafoi considerada pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivas favoráveis do recorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabeleci mento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, a defesa não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Por fim, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus.Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ante o exposto,com fundamento no art. 34, XVIII,b,do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
