@@ -1,0 +1,2 @@
+DECISÃO
+Devidamente cumprida a comissão, conforme atestam os documentos de fls. 158-159 e 162, determino que, por intermédio da autoridade central competente (art. 216-X do RISTJ), devolvam-se os autos à Justiça rogante com a mídia que se encontra acautelada na Coordenadoria de Processamento de Feitos de Direito Privadodo Superior Tribunal de Justiça (fl. 166), independentemente do trânsito em julgado.
