@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por LEANDRO FREITAS RAMOS CLAUDINO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CRIMINAL CRIME CONTRA A INCOLUMIDADE PÚBLICA INCÊNDIO MAJORADO (ART 250 § 1º II A DO CÓDIGO PENAL) SENTENÇA ABSOLUTÓRIA RECURSO DO MINISTÉRIO PÚBLICO PLEITO CONDENATÓRIO VIABILIDADE MATERIALIDADE E AUTORIA DELITIVAS DEVIDAMENTE COMPROVADAS DEPOIMENTOS DA VÍTIMA E DA TESTEMUNHA FIRMES E COERENTES LAUDO PERICIAL QUE CONFIRMA A HIPÓTESE DE INCÊNDIO DOLOSO INSURGIDO QUE ATEOU FOGO À CASA QUE ERA HABITADA POR SUA COMPANHEIRA CONDENAÇÃO QUE SE IMPÕE RECURSO CONHECIDO E PROVIDO
+Quanto à controvérsia, alega violação do artigo 155, caput, do CPP, no que concerne à absolvição do recorrente em razão da ausência de provas produzidas sob o contraditório , trazendo o(s) seguinte(s) argumento(s):
+Dessarte, em razão da manifesta ofensa ao art. 155 do Código de Processo Penal, notadamente em razão da ausência de provas produzidas sob o contraditório em relação à autoria do delito, deve o RECORRENTE ser absolvido da acusação pela infração ao art. 250, § 1º, II, "a", do Código Penal. (fls. 159).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+ ..
+Apesar das alegações da defesa de que ninguém visualizou o insurgido ateando fogo no imóvel, tem-se que Juliane e Franciele narraram, de modo uníssono, que o apelado, além de ameaçar sua companheira, saiu da residência momentos antes do fogo poder ser avistado.
+Ademais, Franciele afirmou, em ambas as fases da persecução penal, que o recorrido confessou-lhe que ateou fogo no imóvel.
+Assim, percebe-se que o insurgido, que já havia ameaçado atear fogo na residência, era a única pessoa que se encontrava no domicílio no momento em que se iniciou o incêndio, fato este que elide qualquer dúvida acerca da autoria delitiva.
+Portanto, tendo em vista que a perícia técnica concluiu que o incêndio foi iniciado "de maneira provocada", e que o insurgido era a única pessoa na edificação quando da conflagração do fogo, é lícito concluir que recorrido foi o responsável por iniciar o incêndio.
+Nesse quadro, porquanto demonstrado que o apelado causou incêndio que expôs a perigo número indeterminado de pessoas e bens, faz-se necessário reformar a sentença absolutória para condenar Leandro Freitas Ramos Claudino pela prática do crime descrito no art. 250, § 1º, II, "a", do Código Penal. (fls. 140/141).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
