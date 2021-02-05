@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de conflito de competência suscitado pelo d. JUÍZO DE DIREITO DA 3ª CÍVEL DO FORO REGIONAL V DE SÃO MIGUEL PAULISTA/SP em face do JUÍZO DE DIREITO DA 2ª ZONA ELEITORAL DE SÃO PAULO/SP.
+O conflito de competência, segundo o relato feito pelo d. Juízo suscitantefoi estabelecido em:"ação ajuizada por candidato a Vereador junto à Justiça Eleitoral de São Paulo, pugnando pela retirada de publicações efetuadas na rede social Facebook pelo requerido. De acordo com a inicial, o réu, também candidato a Vereador, publicou informação de que ocorreria um debate ao qual não anuiu, com intuito exclusivo de denegrir sua imagem. Afirma que a medida contribui para desinformação, além de representar uso não autorizado de sua imagem. Por isso, pediu que o réu seja compelido à exclusão da publicação, sem prejuízo de condenação por danos morais" (decisão do Juízo suscitante, fls.2/3).
+O d. Juízo suscitante afirma, ainda, que:"aação foi distribuída ao juízo da 353" Zona Eleitoral que, reconhecendo tratar-se de lide cuja causa de pedir é propaganda eleitoral, declinou da competência, remetendo-a à 2 a Zona Eleitoral, que, por força da Resolução TRE/SP 487/2020, tem competência para processamento e julgamento de representações e reclamações relativas à propaganda eleitoral, neste Município" (fls. 2/3).
+Por fim assinala que "ojuízo da 2a Zona Eleitoral declinou novamente da competência, afirmando que a inicial não preenche os requisitos da Resolução TSE nº 23.608, já que é uma "ação ordinária, com pedido de obrigação de fazer, de cunho indenizatório, não possível de ser conhecida na Justiça Eleitoral, cuja competência érestrita às hipóteses do art. 35 do Código Eleitoral" (fl. 3). Em seguida, afirmou que, conforme Resolução TSE nº 23.610, art. 23, fixou-se ser de competência do juízo cível o julgamento de demandas que ensejam reparação moral por calúnia, injúria ou difamação" (fls. 2/3).
+A Subprocuradoria-Geral da República opina pela competência doJUÍZO DE DIREITO DA 2ª ZONA ELEITORAL DE SÃO PAULO/SP.
+É o relatório.
+Passo a decidir.
+Como de sabença, as eleições municipais do ano de 2020 já terminaram, inclusive com a posse dos candidatos eleitos.
+Desse modo, o eventual conteúdo eleitoral que a pretensão de remoção de conteúdo da web possa ter, já foi exaurido, o que permite concluir que a natureza da ação é de conteúdo civil o que é reforçado pelo anexo pedido de indenização por danos morais.
+Essa conclusão, conforme já destacado pelo d. Juízo suscitante, encontra respaldo no § 7º do art. 38 da Resolução TSE nº 23.610/2019:
+§ 7º Realizada a eleição, as ordens judiciais de remoção de conteúdo da internet não confinnadas por decisão de mérito transitada em julgado deixarão de produzir efeitos, cabendo à parte interessada requerer a remoção do conteúdo por meio de ação judicial autônoma perante a Justiça Comum.
+Logo, verifica-se que o objeto da lide é de natureza cível,sendo competente para o julgamento o Juízo Comum Estadual.
+Ante o exposto, conheço do conflito para declarar a competência do d.JUÍZO DE DIREITO DA 3ª CÍVEL DO FORO REGIONAL V DE SÃO MIGUEL PAULISTA/SP.
+Publique-se.
