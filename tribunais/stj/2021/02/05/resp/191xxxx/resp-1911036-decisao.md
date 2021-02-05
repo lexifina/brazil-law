@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Instituto Nacional do Seguro Social, com amparona alínea "a" do permissivo constitucional, em oposição a acórdão assim ementado:
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO. AÇÃO REVISIONAL DE AUXÍLIO-ACIDENTE. MANUTENÇÃO DA SENTENÇA QUE JULGOU PROCEDENTE O PEDIDO. PRESCRIÇÃO E DECADÊNCIA NÃO. VALOR SALARIAL RECONHECIDO EM AÇÃO CONFIGURADAS TRABALHISTA QUE NADA MAIS É DO QUE UM DIREITO JÁ CONQUISTADO E INCORPORADO AO PATRIMÔNIO DO SEGURADO. MEMORANDO- CIRCULAR 21/DIRBEN/PFEINSS - PRAZO QUINQUENAL. RECONHECIMENTO AO DIREITO DE REVISÃO DO BENEFÍCIO. INTERRUPÇÃO DO PRAZO. CORREÇÃO MONETÁRIA. ALTERAÇÃO EM REEXAME NECESSÁRIO. INAPLICABILIDADE DO ART. 1º-F DA LEI 9.494/97. TESE DE REPERCUSSÃO GERAL FIRMADA NO RE 870947 (TEMA 810). APLICAÇÃO DO INPC. ADOÇÃO DOS CRITÉRIOS ESTABELECIDOS PELO E. STJ. TEMA 905. JUROS DE MORA. APLICAÇÃO DO ÍNDICE OFICIAL DE REMUNERAÇÃO BÁSICA E JUROS APLICADOS A CARDENETA DE POUPANÇA, NOS TERMOS DA REGRA DO ART. 1º-F DA LEI 9.494/97. HONORÁRIOS ADVOCATÍCIOS POSTERGADOS PARA A FASE DE LIQUIDAÇÃO. SENTENÇA APELAÇÃO CONHECIDA E DESPROVIDA.
+REFORMADA, EM REEXAME NECESSÁRIO, ACRESCIDA EM RELAÇÃO À SÚMULA VINCULANTE 17, REFORMADA NO TOCANTE AOS CONSECTÁRIOS LEGAIS E ALTERADA QUANTO À FORMA DE FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS.
+A Corte de origem alega violação do art.9º do Decreto n. 20.910/1932.
+Decido.
+Ocorre que não se mostra cabível, nesta via, perquirir acerca dos termos do Memorando Circular 21/DIRBEN/PFEINSS devido ao óbice constante da Súmula 7/STJ. Os fatos são aqui recebidos tal como estabelecidos pelo Tribunal a quo. E, se a violação do dispositivo legal invocado perpassa pela necessidade de se fixar premissa fática diversa da que consta do acórdão impugnado, inviável o apelo nobre:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. REVISIONAL. CÁLCULO DO BENEFÍCIO.MARCO INTERRUPTIVO DA CONTAGEM DO PRAZO PRESCRICIONAL.MEMORANDO-CIRCULAR CONJUNTO 21/DIRBEN/PFEINSS. IMPOSSIBILIDADE DE EXAME DO CONTEÚDO DE MEMORANDO EM SEDE DE RECURSO ESPECIAL. SÚMULA 7/STJ. RECURSO ESPECIAL DA SEGURADA A QUE SE NEGA PROVIMENTO.
+1. A Corte de origem, analisando o teor do Memorando-Circular Conjunto 21/DIRBEN/PFEINSS, entendeu que o ato administrativo, tão-somente, estabeleceu regras de processamento administrativo das revisões, não importando em qualquer reconhecimento de direito, consignando que o memorando expedido pelo ente público nada mais é do que uma comunicação interna, no qual expõe diretrizes a serem adotadas por determinado setor, tendo em vista o novo posicionamento adotado na apuração da renda mensal inicial. Razão pela qual entendeu não ser o ato capaz de justificar a interrupção da contagem do prazo prescricional.
+2. De fato, é firme a orientação desta Corte que somente o ato inequívoco da Administração de reconhecimento do direito é que pode caracterizar interrupção da prescrição.
+3. Ademais, em sede de Recurso Especial, não se poderia reexaminar o conteúdo da aludida norma interna, ante o óbice enunciado na Súmula 7/STJ.
+4. Recurso Especial da Segurada a que se nega provimento.
+(REsp 1.589.991/SC, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/8/2019, DJe 5/9/2019.)
+Ante o exposto, com fulcro no art. 253, parágrafo único, inc. II, "a", do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
