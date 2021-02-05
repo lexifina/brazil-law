@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdãoassim ementado:
+Agravo em execução. Progressão de regime. Retificação do cálculo. Sentenciado reincidente específico em crime equiparado a hediondo. Condenação anterior como incurso no artigo 12 da Lei nº 6.368/76. Aplicação do percentual de 60% previsto na Lei Anticrime. Cálculo mantido. Recurso improvido.
+Alega, em síntese, quena nova redação doart. 112, VII, aLei de Execução Penal tem-se queo lapso de 60% da pena,se o apenado for reincidente na prática de crime hediondo ou equiparado,está, implicitamente, referindo-se à reincidência específica.
+Entendea defesaquea lacuna da lei, ao não prever o caso de reincidênciasimples, deve favorecer o apenado, acarretando que lhe seja fixado o lapsode 40%, nos termos doinciso V do mesmo art. 112.
+Requera aplicação da lei penal mais benéfica ao paciente, com aretificação do cálculo de penas para constar o prazo de 40% para fins deprogressão de regime prisional, nos termos da nova redação do artigo 112,inciso V, da Lei de Execução Penal.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal ofertou parecer, manifestando-se pela denegação da ordem.
+É o relatório.
+DECIDO.
+O acórdão impugnado assim referiu (fls. 17/24):
+Com efeito, a Lei n.º 8.072/90 previa em seu artigo 2º, §2º, que a progressão de regime prisional dos crimes previstos no citado artigo, dar- se-ia após o cumprimento de 2/5 (dois quintos) da pena, se o apenado fosse primário, e de 3/5 (três quintos), se reincidente.
+Ao uniformizar a aplicação do artigo 2.º, § 2.º, da Lei nº 8.072/90, o C. Superior Tribunal de Justiça firmou posicionamento no sentido de que, para a aplicação da fração de 3/5 (três quintos) para progressão de regime, bastava que o sentenciado fosse reincidente.
+Confira-se:
+ ..
+Contudo, em 23 de janeiro de 2020, passou a viger a Lei n.º 13.964/2019, conhecida como "Pacote Anticrime". Dentre outras inovações, a nova Lei alterou o artigo 112 da Lei de Execução Penal, escalonado os percentuais de tempo de cumprimento de pena exigidos para a progressão de regime prisional:
+ ..
+Com base nessa nova redação, o agravante argumenta que somente do reincidente específico seria exigível o cumprimento de 60% (sessenta por cento) da pena imposta, ou seja, 3/5 (três quintos) para progredir de regime prisional. Assim, não sendo ele reincidente na prática de crime hediondo ou equiparado, deve retroagir a lei, por ser mais benéfica, aplicando-se o percentual de 40% (quarenta por cento) ou 2/5 (dois quintos), consoante o artigo 112, inciso V, da LEP.
+Ocorre que, se a Lei Anticrime passou a prever critérios diferenciados para sentenciados primários e reincidentes quando antes limitava-se às frações de 1/6 (um sexto) para os crimes comuns, havendo essa distinção apenas quando se tratasse dos crimes previstos na Lei nº 8.072/90 -, com claro intuito de impor mais rigor às regras de progressão de regime prisional, seria contraditório prever um lapso mais benéfico ao condenado por crime hediondo, mas reincidente comum, aplicando-lhe o mesmo lapso do condenado primário, principalmente porque a lei anterior não fazia essa diferença entre reincidência comum e específica para resgatar o lapso de 3/5 (três quintos).
+Destaco que a referida interpretação tem sido adotada pela Quinta Turma do Col. Superior Tribunal de Justiça:
+ ..
+É certo, contudo, que há decisões contrárias proferidas, especialmente, no âmbito da Sexta Turma do Colendo Superior de Justiça, mediante a aplicação da analogia in bonam parte, dado o silêncio da Lei de Execução Penal em relação ao reincidente não específico.
+De um lado, portanto, há orientação que, em primeiro lugar, prestigia o maior rigor do legislador ao editar a Lei n.º 13.964/2019 a fim de impor maior severidade àqueles que cometem crimes hediondos e, em segundo lugar, porque se cuida de posicionamento em conformidade com a jurisprudência pacificada no Colendo Superior Tribunal de Justiça e desta Corte paulista.
+De outro, não se pode olvidar entendimento diametralmente oposto, na mesma Corte Superior, determinando a aplicação do percentual menos severo.
+Considerada essa situação de orientações contrapostas na Corte Superior, o entendimento majoritário atual desta Col. Segunda Câmara de Direito Criminal, é no sentido de que a Lei Anticrime estabeleceu hipótese mais benéfica ao sentenciado reincidente, exigindo ocumprimento de fração inferior a 60% da pena para progressão de regime.
+Entretanto, destaco que o caso em análise não se enquadra nessa hipótese mais benéfica tratada acima.
+Explico. O agravante cumpre a pena total de 13 anos, 1 mês e 15 dias de reclusão imposta pela prática de dois delitos de tráfico de drogas e resistência. Realizado cálculo de pena em 14 de abril de 2020, por ser reincidente em crime doloso, adotou-se a fração de 3/5 (três quintos) para a progressão de regime prisional do crime hediondo (fls. 18/21), tendo sido o referido cálculo homologado pelo Juízo a quo.
+Insurge-se a Defesa pleiteando a retificação do cálculo, para que seja adotado o percentual de 40% (2/5), por não se tratar de reincidente específico em crime hediondo.
+Contudo, observo que o agravante é, de fato, reincidente específico em crime equiparado a hediondo, uma vez que, embora as condenações nos processos nº 0022535-54.2012.8.26.0566 e 0004815-69.2015.8.26.0566 (em relação aos quais o agravante cumpre pena) refiram-se a fatos que não caracterizam a reincidência específica entre eles, pois o segundo foi praticado antes do trânsito em julgado do primeiro, o agravante foi condenado definitivamente como incurso no artigo 12 da Lei nº 6.368/76 à pena de 03 anos e 04 meses de reclusão nos autos nº 685/2002, da 1ª Vara Criminal da Comarca de São Carlos, cuja extinção da punibilidade pelo cumprimento ocorreu em 31 de maiode 2010.
+Portanto o crime de tráfico de drogas apurado nos autos de nº 0022535-54.2012.8.26.0566, pelo qual o agravante ainda cumpre pena, foi praticado antes da superação do período depurador da condenação no processo nº 685/2002, de sorte que o agravante é reincidente específico em crime equiparado a hediondo.
+Assim, como indicado acima, sendo o agravante é reincidente específico em tráfico de drogas, será exigível, para a progressão de regime, o lapso de cumprimento de 60% (sessenta por cento) do total da pena.
+Ressalte-se que, nos termos da jurisprudência desta Corte, aalteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+Desse modo, não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia "in bonam partem" para aplicar o percentual de 40%, previsto no inciso V. Nesse sentido:AgRg no HC 616.267/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 15/12/2020; eAgRg no HC 623.200/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.
+Contudo, a presentehipótese se mostra diversa, porquanto, segundo consignado no acórdão impugnadoo crime de tráfico de drogas apurado nos autos de nº 0022535-54.2012.8.26.0566, pelo qual o agravante ainda cumpre pena, foi praticado antes da superação do período depurador da condenação no processo nº 685/2002, de sorte que o agravante é reincidente específico em crime equiparado a hediondo.
+Desse modo, constatado que o paciente é reincidente específico em crime hediondo, deve ser mantido o patamar de 60%, nos termos do art. 112, VII, da Lei de Execução Penal.
+Destaca-se que a desconstituição das premissas fáticas do julgado demandaria o revolvimento do conjunto fático-probatório, inadmissível pela via dowrit.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
