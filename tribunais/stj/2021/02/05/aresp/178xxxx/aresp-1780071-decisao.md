@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICIPIO DE GUARANTA DO NORTE contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+APELACAO CIVEL E REEXAME NECESSÁRIO AÇÃO CIVIL PÚBLICA DANOS AMBIENTAIS ATERRO SANITÁRIO LIXÃO PRELIMINAR DE OFENSA AO PRINCIPIO DA DIALETICIDADE REJEITADA MÉRITO NÃO CONHECIMENTO DO REEXAME NECESSÁRIO CONDENAÇÃO DO MUNICIPIO NA OBRIGAÇÃO DE FAZER PROVIDÊNCIAS PARA REGULARIZAÇÃO DO ATERRO CONDENAÇÃO MANTIDA DILAÇÃO DO PRAZO FIXADO MULTA COMINATÓRIA CONTRA O MUNICÍPIO AFASTADA RECURSO PARCIALMENTE PROVIDO.
+A parte recorrente alega violação do art. 489, § 1º, IV, do CPC, no que concerne à ausência de enfrentamento dos argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador, trazendo os seguintes argumentos:
+Ora Excelência, tendo em vista que este município ainda não possui aterro sanitário que atenda às regularizações que este Judiciário entendeu por necessárias, somado ao fato de não poder colocar mais os resíduos naquele local em questão, onde poderia ser dispensado estes objetos até a implementação do aterro  (fl. 462).
+É sobre este ponto, abordado no recurso manejado pelo município, inquestionavelmente capo de infirmar a conclusão adotada pelo Juízo de pisos, e, simplesmente ignorada pelo tribunal recorrido (fl. 462).
+Assim sendo, na forma como prolatado o acórdão recorrido acabou contrariando expressamente o que determina o inciso IV do § 1º do artigo 489, do Código de Processo Civil (fl. 462).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia alegada, na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
