@@ -1,0 +1,40 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NO AGRAVO EM EXECUÇÃO PENAL N. 1017138-82.2020.8.11.0000
+RECORRENTE: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+RECORRIDO: TADEU DE OLIVEIRA LOPES
+Vistos.
+Trata-se de Recurso Especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO, com fundamento no art. 105, III, alínea “a” da Constituição Federal, contra o acórdão da Primeira Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, deu parcial provimento ao recurso, nos termos da seguinte ementa (Id. 61163478):
+“AGRAVOS DE EXECUÇÃO PENAL – ROUBO, FURTO, RECEPTAÇÃO E TRÁFICO DE DROGAS – CONCESSÃO DE INDULTO EM RELAÇÃO AO FURTO E FRAÇÃO DE 3/5 (TRÊS QUINTOS) OU 60% (SESSENTA POR CENTO) ADOTADA PARA PROGRESSÃO DE REGIME PARA O TRÁFICO DE DROGAS – RECURSO DO MINISTÉRIO PÚBLICO – NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO PARA CONCESSÃO DO INDULTO – PLEITO DE “CASSAÇÃO” DO INDULTO – RECURSO DA DEFESA – APLICAÇÃO DO PERCENTUAL DE 20% (VINTE POR CENTO), OU 40% (QUARENTA POR CENTO) PARA PROGRESSÃO DE REGIME PELO TRÁFICO DE DROGAS – PEDIDO DE PERCENTUAL MAIS BENÉFICO – NÃO COMETIMENTO DE FALTA GRAVE NO PERÍODO DE VEDAÇÃO DO INDULTO EM RELAÇÃO AO DELITO DE FURTO – INEXISTÊNCIA DE ÓBICE PARA CONCESSÃO DO BENEFÍCIO – ENTENDIMENTO STJ – PACOTE ANTICRIME – FRAÇÃO DE 1/6 (UM SEXTO) OU 16% (DEZESSEIS POR CENTO) INAPLICÁVEL – AGRAVANTE NÃO OSTENTA PRIMARIEDADE – PATAMAR DE 20% (VINTE POR CENTO) NÃO APLICAÇÃO – REINCIDENTE EM CRIME COM VIOLÊNCIA OU GRAVE AMEAÇA – EXPRESSA VEDAÇÃO LEGAL – AGRAVANTE REINCIDENTE SIMPLES – FRAÇÃO DE 3/5 (TRÊS QUINTOS) OU 60% (SESSENTA POR CENTO) – EXIGÊNCIA DE REINCIDÊNCIA ESPECÍFICA – LACUNA LEGISLATIVA – INTERPRETAÇÃO EM FAVOR DO RÉU – LIÇÃO DOUTRINÁRIA – DIVERGÊNCIA JURISPRUDENCIAL NO STJ – DECISÃO MONOCRÁTICA DO TJMT – JULGADOS DO TJMG E TJDF – PERTINÊNCIA DA FRAÇÃO DE 2/5 (DOIS QUINTOS) OU 40% (QUARENTA POR CENTO) – PREQUESTIONAMENTO – PRECEITO NORMATIVO OBSERVADO E APLICADO – RECURSO DO MINISTÉRIO PÚBLICO DESPROVIDO E RECURSO DA DEFESA PROVIDO PARCIALMENTE PARA DETERMINAR NOVO CÁLCULO DE LIQUIDAÇÃO DE PENA COM APLICAÇÃO DO PATAMAR DE 2/5 (DOIS QUINTOS) OU 40% (QUARENTA POR CENTO) PARA A PROGRESSÃO DE REGIME POR TRÁFICO DE DROGAS.
+O c. STJ firmou “entendimento no sentido de que o óbice à concessão de indulto ou comutação ocorrerá se a falta grave tiver sido cometida dentro do prazo previsto no decreto ” (AgRg no REsp no 1638367/MG).
+A fração de 1/6 (um sexto) ou 16% (dezesseis por cento) afigura-se inaplicável quando o reeducando não ostenta primariedade; igualmente o patamar de 20% (vinte por cento), se for reincidente em crime com violência ou grave ameaça por expressa vedação legal [LEP, art. 112, I, II ].
+O patamar de 3/5 (três quintos) ou 60% (sessenta por cento) exige a reincidência específica, em crimes hediondos e equiparados, para que seja aplicada, haja vista que “estamos diante de uma lacuna, cuja integração, por óbvio, deverá observar o princípio do in dubio pro reo” (CUNHA. Rogério Sanches, Pacote Anticrime: Lei no 13.964/2019 - Comentários às alterações no CP, CPP e LEP. Salvador: Editora JusPodvim, 2020. p. 371).
+A fração de 2/5 (dois quintos) ou 40% (quarenta por cento) deve ser aplicada ao reincidente simples, “à luz do princípio do favor rei e da retroatividade da lei penal benéfica” (TJMT, HC N.U. 1016820-02.2020.8.11.0000).
+“Quanto à progressão de regime, para os condenados por crimes hediondos, mas reincidentes simples, a Lei 13.964/19 constituiu ‘novatio legis in mellius’, de forma que deve retroagir para beneficiar o apenado, sendo de rigor a retificação do atestado de penas.” (TJMG, AgExPe no 10525.13.00879-9/001)
+“1. A nova redação do art. 112, caput e incs. V e VII, da Lei de Execuções Penais, dada pela Lei n. 13.964/2019, estabelece como condição para a progressão de regime prisional, no caso de condenado por delito hediondo e equiparado sem resultado morte, o resgate da fração de 40% (quarenta por cento) da pena para o apenado primário, e 60% (sessenta por cento) para o reincidente na prática de crime hediondo ou equiparado. 2. Diante da lacuna legal, [...] reincidente em delito comum (não hediondo ou equiparado), impõe-se aplicar o requisito temporal de 40% (quarenta por cento) do cumprimento da pena para fins de progressão prisional, percentual previsto ao primário sentenciado por crime hediondo ou equiparado (art. 112, inc. V, da LEP), por ser esta a hipótese que melhor se adequa à situação do apenado, sem lhe trazer prejuízo.” (TJDF, AgExPe no 07112459720208070000)”
+Nas razões do Recurso Especial (Id. 65463997), o Recorrente sustenta violação ao artigo 112, V e VII, da Lei n. 7.210/84, ao argumento de que, consoante determinação da Lei n. 13.964/19 (Pacote Anticrime), a fração de 2/5 (40%) para fins de progressão de regime para condenados pela prática de crimes hediondos é prevista somente para os apenados primários.
+Alega que o disposto no inciso VII, do artigo 112, da LEP, não determina que a reincidência deva ser específica, o que atrai a sua aplicação à reincidência genérica.
+Recurso tempestivo (Id. 66188480).
+Transcorreu in albis o prazo assinalado para apresentação das contrarrazões (Id. 73541099).
+É o relatório.
+Passo ao juízo de admissibilidade.
+Do exame dos autos, observa-se que o recurso especial atende aos pressupostos genéricos de admissibilidade, quais sejam: tempestividade, legitimidade e interesse em recorrer.
+Da sistemática de recursos repetitivos
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Pressupostos satisfeitos.
+O órgão fracionário desta Corte, ao dar parcial provimento ao Agravo em Execução Penal interposto por Tadeu de Oliveira Lopes, consignou que:
+“O agravante possui condenações por roubo, furto e receptação, a caracterizar reincidência simples.
+(...)
+Com efeito, a fração de 1/6 (um sexto) ou 16% (dezesseis por cento) afigura-se inaplicável, visto que o agravante [TADEU DE OLIVEIRA LOPES] não ostenta primariedade; igualmente o patamar de 20% (vinte por cento) por ser reincidente em crime com violência ou grave ameaça [ roubo] por expressa vedação legal [LEP, art. 112, I, II ].
+Lado outro, o patamar de 3/5 (três quintos) ou 60% (sessenta por cento) adotada pelo Juízo da Execução Penal exige a reincidência específica, em crimes hediondos e equiparados, para que seja aplicada, o que não ocorre.
+(...)
+Sendo assim, mostra-se pertinente aplicar o patamar de 2/5 (dois quintos) ou 40% (quarenta por cento) para a progressão de regime referente ao tráfico de drogas, sobretudo para se evitar prejuízo ao reeducando.” (Id. 58371985).
+Nesse contexto, ao apontar violação ao artigo 112, V e VII, da Lei n. 7.210/84, defende o Recorrente, que consoante nova redação dada aos referidos dispositivos pela Lei n. 13.964/19 (Pacote Anticrime), a fração de 2/5 (40%) para fins de progressão de regime para condenados pela prática de crimes hediondos ou equiparado é prevista somente para os apenados primários, devendo o agente reincidente, específico ou genérico, condenado por tais crimes cumprir a fração de 3/5 (60%).
+No caso, observa-se que a matéria acima mencionada, além de ter sido discutida no aresto impugnado, o que impede a incidência das Súmulas 211 do STJ, 282 e 356, do STF, é exclusivamente de direito, porquanto não se pretende reexaminar fatos e provas, (não aplicação da Súmula 7 do STJ), não incidindo, também, no caso concreto, nenhuma outra súmula impeditiva.
+Ante o exposto, preenchidos os requisitos específicos de admissibilidade, dou seguimento ao recurso especial com fundamento no art. 105, III, alínea “a” da Constituição Federal.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
