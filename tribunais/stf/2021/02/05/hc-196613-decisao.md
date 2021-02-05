@@ -1,0 +1,18 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Davi da Silva Melo Santos, apontando como autoridade coatora o Ministro Humberto Martins, Presidente do Superior Tribunal de Justiça, que indeferiu liminarmente o HC nº 637.618/RJ.
+    O impetrante sustenta, em suma, a não demonstração da imprescindibilidade da prisão temporária.
+    Em suma, o cerne da controvérsia trazida nesta impetração diz respeito ao título da prisão temporária do paciente que, na visão da defesa, seria desprovido de fundamentação idônea.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão temporária do paciente, estabelecendo-se medidas cautelares diversas.
+    Examinados os autos, decido.
+    Consideradas as datas da decisão que decretou a prisão temporária do paciente (4/12/20) e de cumprimento do mandado de prisão (15/12/20), bem como o período de duração da medida (30 dias) e ausência de notícia nos autos de sua prorrogação até a presente data, verifica-se que houve alteração no quadro processual que indica a perda de objeto da presente impetração.
+    Tem-se, portanto, que o quadro fático atinente ao tema apresentado neste writ foi supervenientemente alterado, causando, portanto, a sua prejudicialidade, na linha de precedentes:
+    “HABEAS CORPUS. PRISÃO TEMPORÁRIA. SUPERVENIÊNCIA DA PRISÃO PREVENTIVA, QUE CONSTITUI NOVO TÍTULO DA PRISÃO. HABEAS CORPUS NÃO-CONHECIDO. 1. A superveniência do decreto de prisão preventiva, que constitui novo título da prisão, prejudica a alegação de ausência de fundamentação cautelar válida para a prisão temporária. 2. Habeas corpus não-conhecido.” (HC nº 96680/SP, Primeira Turma, Relatora a Ministra Cármem Lúcia, DJe de 7/8/09).
+    “Processual Penal. Habeas Corpus substitutivo de agravo regimental. Tráfico de entorpecentes, Associação para o tráfico, Receptação e Porte de arma de fogo. Prisão preventiva. Inadequação via eleita. 1. Não cabe habeas corpus em substituição ao agravo regimental cabível na origem. 2. É pacífica a jurisprudência da Primeira Turma do STF, no sentido de que a superveniente alteração do quadro processual da causa prejudica a análise da impetração. 3. Ausência de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. 4. Habeas Corpus extinto, sem resolução do mérito, por inadequação da via eleita.” (HC nº 112985/SC, Primeira Turma, Relator para acórdão o Ministro Roberto Barroso, DJe de 2/3/17);
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. DECISÃO MONOCRÁTICA. INEXISTÊNCIA DE ARGUMENTAÇÃO APTA A MODIFICÁ-LA. MANUTENÇÃO DA NEGATIVA DE SEGUIMENTO. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. Nas hipóteses de crime praticado mediante violência ou grave ameaça contra a pessoa, em que se verifica, como regra, periculosidade inerente a condutas dessa natureza, o ônus argumentativo a legitimar a prisão processual é reduzido. Inexistência, no caso concreto, de teratologia. 3. A superveniência de atos processuais, com alteração do quadro probatório, não permite a análise originária desta Corte quanto ao afastamento da autoria delitiva, pena de inversão da ordem recursal, incumbindo às instâncias próprias o enfrentamento oportuno do tema . 4. Agravo regimental desprovido” (HC nº 133.254-AgR/MG, Primeira Turma, Relator o Ministro Edson Fachin, DJe de 5/9/16).
+    Ante o exposto, nos termos do art. 21, inciso IX, do RISTF, julgo prejudicado o habeas corpus, bem assim o pedido de liminar.
+    Publique-se.
+    Brasília, 5 de fevereiro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
