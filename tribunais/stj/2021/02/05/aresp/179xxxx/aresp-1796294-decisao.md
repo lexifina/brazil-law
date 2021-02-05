@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+AGRAVO DE INSTRUMENTO PLANO DE SAÚDE AÇÃO DE COBRANÇA E INDENIZAÇÃO CUMPRIMENTO DE SENTENÇA HOMOLOGAÇÃO DO CÁLCULO DO CREDOR ALEGAÇÃO DE NULIDADE DA INTIMAÇÃO PARA MANIFESTAÇÃO DA EXECUTADA NOS AUTOS QUESTÃO NÃO OBJETO DE DELIBERAÇÃO PELA DECISÃO COMBATIDA DESCABIMENTO DA ANÁLISE DA PRETENSÃO RECURSAL SOB PENA DE SUPRESSÃO DE INSTÂNCIA RECURSO NÃO CONHECIDO
+Alega a recorrente violação do art. 1.013, § 3º, do CPC, defendendo que o Tribunal a quo deveria ter aplicado a teoria da causa madura, trazendo os seguintes argumentos:
+6. Ora, ao contrário do exposto no acordão recorrido é possível o conhecimento do agravo de instrumento, pois se aplica neste caso a teoria da causa madura, não havendo o que se falar em supressão de instância, pois aplicável ao caso o teor do art. 1.013, §3º do CPC. Senão veja-se o teor do artigo referido. (fls. 157).
+7. Apesar do artigo citado expressar sua aplicação somente quanto ao recurso de apelação, a doutrina e jurisprudência já reconhecem sua aplicação a todos os demais recursos, senão veja-se as lições da doutrina. (fls. 157).
+8. Seguindo a mesma linha, segue precedente do STJ sobre o tema, no qual se admite a aplicação da teoria da causa madura em sede de agravo de instrumento quando não for prejudicada a produção de provas pela parte de forma exauriente. (fls. 159).
+9. Desta forma, foi violado frontalmente o disposto no artigo 1.013, §3º do CPC, estando o processo em plenas condições para julgamento em sede de agravo de instrumento e se tratar a questão de matéria exclusivamente de direito, não havendo o que se falar de supressão de instância neste caso. (fls. 162).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
