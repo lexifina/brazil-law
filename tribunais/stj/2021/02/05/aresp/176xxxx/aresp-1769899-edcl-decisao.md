@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SM21 ENGENHARIA E CONSTRUÇÕES LTDA à decisão de fls. 604/605, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Aconteceu que - de fato - a então apelante confundiu comprovantes e juntou os boletos e recibos vinculados à outro processo, porém após o despacho, logrou éxito em comprovar o correto recolhimento, inclusive em estrita observancia das regras próprias vinculadas à matéria.
+ ..
+Não ficou claro também, qual seria a divergência entre os códigos de barras da guia recolhida, pois em atenção aos documentos carreados aos autos, não se verifica qualquer divergência paupável. Vejamos os documentos in natura:  ..  (fls. 609/610).
+Alega ainda que:
+Porém a decisão parece ignorar as razões aviadas no bojo da petição que introduziu o recurso. Na ocasião, tratou-se de apresentar, ponto- a-ponto, os fatos que deram ensejo a tempestividade e a adequação do feito às hipóteses previstas pelo códex processual vigente e a Carta Magna. Restou descrito:
+ ..
+Por ocasião de interposição do apelo, a apelante descreveu os fatos e indicou as fontes de deslocamento da tempestividade à contento.
+O que ficou estabelecido, é que houve ato emitido pelo CNJ, com suspensões de prazos entre o dia 20 de maio e o dia 31 do mesmo mês, levando então à inequívoca tempestividade da medida.
+A então recorrente demonstrou cabalmente as razões de tempestividade, lhe sendo inaplicáveis a hipótese do § 6º do Art. 1.003 do CPC/2015, porquanto não tratar-se de mesma hipótese.
+Assim, se faz imperioso a aclaração da declaração que deixa de conhecer a validade e aplicabilidade de ato emitido pelo CNJ, em atenção à Resolução 318/2020 e ratificado pelo ofício 29 do TRF-2 (documento anexo) (fls. 611/612).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Como já consignado na decisão ora embargada, que agora se repete, quando da interposição do recurso especial, a parte indicou erroneamente o "Número do Processo que consta no Acórdão Recorrido" na guia de recolhimento das custas judiciais juntada aos autos, uma vez que o número utilizado não corresponde aos existentes na origem.
+Percebida, no STJ, a irregularidade, a parte foi intimada para sanar o vício, contudo, não regularizou, uma vez que há divergência entre o número constante no código de barras da guia de preparo e o comprovante de pagamento apresentados às fls. 597/598.
+Na verdade, foi apresentado o mesmo comprovante de pagamento da guia juntada no ato da interposição do recurso na qual o número de origem é diverso do que consta nos autos.
+Assim, a parte trouxe nova guia com a indicação correta do número do acórdão recorrido, porém desacompanhada do respectivo comprovante de pagamento.
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Quanto à intempestividade do recurso especial, cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Ressalte-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ n. 313, de 19 de março de 2020, voltando a fluir o prazo, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso, o que de fato não ocorreu.
+Registre-se ainda que a Corte Especial, por maioria, acolheu a questão de ordem para reconhecer que a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita aos recursos interpostos até 17/11/2019 e alcança apenas o feriado de segunda-feira de carnaval, ou seja, não se aplica aos demais feriados, inclusive aos feriados locais. (QO no REsp 1813684/SP, relatora Ministra Nancy Andrighi, Corte Especial, DJe de 28/2/2020.) Assim, só a segunda-feira de carnaval até 2019 poderia ser comprovada posteriormente, excluindo-se qualquer outro feriado, como no caso dos autos.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
