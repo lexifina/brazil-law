@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se dehabeas corpus,com pedido de liminar, impetrado em favor de JEFERSON MAICO DE SOUSA DE OLIVEIRAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Agravo em Execução n. 0006652-052020.8.26.0496).
+O paciente teve reconhecida em seu desfavor a prática defalta grave durante o curso de execução penal e, assim,regrediuaoregime fechado, além de ter sido determinada a perda de 1/3 dos dias remidos e a interrupção do lapso necessário à progressão do regime prisional.
+A impetrante sustenta que seria necessária aoitiva judicial do apenado para a regressão ao regime anterior como consequência da aplicação da falta grave, nos termos do art. 118, § 2º, da Lei de Execução Penal, o que ensejaria o restabelecimento da benesse anteriormente concedida.
+Requer, liminarmente e no mérito, concessãoda ordem para que o paciente seja colocado no regimemais benéfico.
+Liminar indeferida às e-STJ fls. 118/119.
+Manifestação do Ministério Público Federal pela denegação da ordem às e-STJ fls. 185/186.
+É o relatório.Decido.
+O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+Nesse sentido, confiram-se os seguintes julgados, exemplificativos dessa nova orientação das Cortes Superiores do País: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015; e STF, HC n. 113.890/SP, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Assim, de início, incabível o presente habeas corpus substitutivo de recurso próprio. Todavia, em homenagem ao princípio da ampla defesa, passa-se ao exame da insurgência, para verificar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+O Tribunal de Justiça de São Paulo assim se manifestou sobre a necessidade de nova oitiva do apenado para a regressão de regime:
+Não prospera a alegação da Defesa, cabendoassinalar que o agravante foi ouvido sobre o fato na presença deadvogado (fls. 34/35), nada exigindo a repetição do ato em juízo,mesmo porque a apuração da infração disciplinar ocorreadministrativamente, observado o contraditório (TJESP, Agravo emExecução nº. 9000046-70.2019.8.26.0129, Relator DesembargadorRICARDO TUCUNDUVA, julgado 03-10-2019), mostrando-se sempropósito a tese sustentada.
+Ainda a respeito, importa registrar que a lei nãoexige a reinquirição do reeducando mesmo diante de falta disciplinarcapaz de acarretar a regressão de regime prisional, limitando-se adeterminar sua prévia oitiva acerca dos fatos imputados (artigo 118, §2o, da LEP), tal como ocorreu na hipótese.
+ ..
+Além disso, verifica-se que a Defesa não pleiteou adiligência no momento oportuno (fls. 52), daí a preclusão.
+De outra parte, consta do procedimentoadministrativo que, na noite de 06 de fevereiro de 2.020, no Centrode Progressão Penitenciária II de Bauru, agentes penitenciários,durante o procedimento de revista quando do retorno dos presos dotrabalho externo, verificaram que JEFERSON havia engolido 25invólucros de maconha.
+No caso, tem-se que, em face de conduta prevista noartigo 52 da Lei de Execução Penal, promoveu-se sindicânciadestinada a apurar a infração disciplinar, cuja materialidade vemestampada no auto de comunicação do evento (fls. 11), bem como noboletim de ocorrência (fls. 17/19), no auto de exibição e apreensão(fls. 20) e, finalmente, no laudo de exame quimico-toxicológicoobservado a fls. 30/32.
+Anote-se que o sentenciado, ouvido durante oprocedimento administrativo na presença de advogado da FUNAP,admitiu a infração disciplinar (fls. 34/35). (e-STJ fls. 102/106)
+Observa-se que o entendimento do Tribunal de origem está em perfeita harmonia com a jurisprudência desta Corte superior. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. EXECUÇÃO PENAL. PAD. AUDIÊNCIA DE JUSTIFICAÇÃO. AUSÊNCIA DE REGRESSÃO DE REGIME. APENADO QUE ESTAVA EM REGIME FECHADO. OFENSA À SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta eg. Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO DO ART. 118, § 2º, DA LEP. FALTA GRAVE COMETIDA EM REGIME FECHADO. AUSÊNCIA DE REGRESSÃO. AUDIÊNCIA DE JUSTIFICAÇÃO JUDICIAL.PRESCINDIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com o entendimento consolidado neste Superior Tribunal de Justiça, é prescindível a realização de audiência de justificação judicial, prevista no art. 118, § 2º, da Lei de Execução Penal, se o apenado já tiver sido ouvido em procedimento administrativo disciplinar, no qual foram observados os direitos à ampla defesa e ao contraditório, e não houver regressão de regime.
+2. Agravo regimental a que se nega provimento  (AgRg no REsp n. 1.864.865/MS, Quinta Turma, Rel. Min.
+Ribeiro Dantas, DJe de 27/05/2020).
+III - In casu, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.(AgRg no HC 591.515/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 09/09/2020 - grifo nosso)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 118, § 2º, DA LEP. FALTA GRAVE COMETIDA EM REGIME FECHADO.AUSÊNCIA DE REGRESSÃO. AUDIÊNCIA DE JUSTIFICAÇÃO JUDICIAL.PRESCINDIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com o entendimento consolidado neste Superior Tribunal de Justiça, é prescindível a realização de audiência de justificação judicial, prevista no art. 118, § 2º, da Lei de Execução Penal, se o apenado já tiver sido ouvido em procedimento administrativo disciplinar, no qual foram observados os direitos à ampla defesa e ao contraditório, e não houver regressão de regime.
+2. Agravo regimental a que se nega provimento.(AgRg no REsp 1864865/MS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 27/05/2020 - grifo nosso)
+Diante do exposto, não conheço do habeas corpus.
+Intimem-se.
