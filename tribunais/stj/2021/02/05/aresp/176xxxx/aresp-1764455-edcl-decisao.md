@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL, à decisão de fls. 297/298, que não conheceu do recurso.
+Sustenta a parte embargante que "ocorre que houve omissão por parte do relator, uma vez que não analisou os documentos juntados aos autos que demonstram justamente o contrário, isto é, que o número CNJ 324220-18.2019.8.21.7000 consta do recurso especial, do acórdão recorrido e da guia de custas paga e anexa ao recurso especial" (fl. 300).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Conforme já consignado na decisão ora embargada, que agora se repete, no ato da interposição, o recolhimento das custas devidas ao STJ foi realizado em desacordo com o disposto na Resolução do STJ vigente à época da interposição do recurso, a qual dispõe que, nos processos recursais, o campo "Processo na Origem" da GRU deverá ser preenchido com o número do processo no Tribunal de origem.
+De fato, a parte fez a indicação errônea do "Processo na Origem" na guia de recolhimento das custas devidas ao STJ juntada aos autos, uma vez que o número utilizado é dissociado dos existentes na origem.
+Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo - consistente na indicação errônea do processo na origem -, no ato da interposição do recurso especial, caracteriza a sua deserção.
+Percebida, no STJ, a irregularidade, a parte foi intimada para sanar o vício, contudo, não regularizou, uma vez que se quedou inerte (fl. 294).
+Registre-se que o número do processo na origem constante dos autos é CNJ: 0324220-18.2019.8.21.7000, e o número apresentado na guia do preparo é 324220-18.2019.8.21.7000, diferente do número do processo na origem.
+Portanto, não tendo cumprido a determinação, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp n. 1.202.915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
