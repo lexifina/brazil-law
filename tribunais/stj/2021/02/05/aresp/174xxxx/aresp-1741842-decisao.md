@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por MISAEL ESTEVAM ROZA contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal.
+Na origem, Mizael Estevam Roza ajuizou ação ordinária com valor da causa atribuído em R$ 74.421,48 (setenta e quatro mil, quatrocentos e vinte e um reais e quarenta e oito centavos), em 12/07/2018, objetivando a concessão de aposentadoria voluntária especial com paridade e integralidade, nos termos do art. 40, § 4º, da CF.
+Após sentença que julgou improcedente a demanda, o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO negou provimento à apelação do Autor, ficando consignado que, quando do julgamento dos Mandados de Injunção nºs 6770, 6773, 6780, 6874 e 6515, a discutir a aposentadoria especial com fulcro no art. 40, § 4º, II, da CF, o C. Supremo Tribunal Federal consolidou o entendimento jurisprudencial no sentido de que os guardas municipais não têm direito à aposentadoria especial, uma vez que as atividades por eles desempenhadas não são inequivocamente perigosas, bem como por não integrarem o conjunto de órgãos que compõem a estrutura de segurança pública prevista no artigo 144, da Constituição Federal.
+O referido acórdão foi assim ementado, in verbis:
+SERVIDOR PÚBLICO - APOSENTADORIA ESPECIAL - GUARDA CIVIL MUNICIPAL - Pretensão à aposentadoria especial com a paridade e integralidade de proventos, fundamentada no art. 40, § 4º, II, da CF e Lei Federal nº 8.2313/91 - Orientação recente do STF externada no julgamento dos Mandados de Injunção nºs 6770, 6773, 6780, 6874 e 6515, no sentido de que os guardas civis municipais não possuem direito à aposentadoria especial, à medida que a atividade por eles desempenhada não se mostra inequivocamente perigosa, e por não integrarem o conjunto de órgãos que compõem a estrutura de segurança pública (art. 144 da Constituição Federal) - Precedentes jurisprudenciais - Manutenção do decreto de improcedência, ainda que por fundamento diverso - Recurso desprovido.
+Não foram opostos embargos de declaração.
+Contra a decisão cuja ementa se encontra acima transcrita, Mizael Estevam Roza interpôs recurso especial, apontando violação dos arts. 57 e 58 da Lei nº 8.213/91, bem como divergência jurisprudencial.
+Defende, em síntese, que faz jus à aposentadoria especial, mormente ante a ausência de legislação municipal específica e por ter cumprido os requisitos previstos na Lei nº 8.213/91.
+Não foram apresentadas contrarrazões.
+Após decisum que inadmitiu o recurso especial, com base no enunciado nº 7 da Súmula do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+A questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial.
+Assim, concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+A propósito, confiram-se trechos do julgado recorrido, os quais corroboram o referido entendimento, litteris:
+Busca o autor o reconhecimento de direito à aposentadoria voluntária especial após o preenchimento dos requisitos legais, e cujo pedido sequer chegou a ser admitido em âmbito administrativo, com fundamento no art. 40, § 4º, II, da CF, Lei Complementar 51/85, arts. 57 e 58 da Lei 78.213/91, e Súmula Vinculante nº 33, com as garantiras de paridade e de integralidade.
+Partindo de uma abordagem legislativa sobre o tema, releva anotar o que dispõe a norma constitucional sobre a adoção de requisitos e critérios diferenciados para concessão de aposentadoria:
+(..)
+Outrossim, quando do julgamento dos Mandados de Injunção nºs 6770, 6773, 6780, 6874 e 6515, a discutir a aposentadoria especial com fulcro no art. 40, § 4º, II, da CF, o C. Supremo Tribunal Federal consolidou o entendimento jurisprudencial no sentido de que os guardas municipais não têm direito à aposentadoria especial, uma vez que as atividades por eles desempenhadas não são inequivocamente perigosas, bem como por não integrarem o conjunto de órgãos que compõem a estrutura de segurança pública prevista no artigo 144, da Constituição Federal.
+A respeito, confira-se:
+Direito administrativo. Agravo interno em mandado de injunção. Guarda municipal. Alegada atividade de risco. Aposentadoria especial. 1. Diante do caráter aberto da expressão atividades de risco (art. 40, § 4º, II, da Constituição) e da relativa liberdade de conformação do legislador, somente há omissão inconstitucional nos casos em que a periculosidade é inequivocamente inerente ao ofício. 2. A eventual exposição a situações de risco a que podem estar sujeitos os guardas municipais e, de resto, diversas outras categorias, não garante direito subjetivo constitucional à aposentadoria especial. 3. A percepção de gratificações ou adicionais de periculosidade, assim como o porte de arma de fogo, não são suficientes para reconhecer o direito à aposentadoria especial, em razão da autonomia entre o vínculo funcional e o previdenciário. 4. Agravo provido para denegação da ordem.( STF - MI 6770 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Relator(a) p/ Acórdão: Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 20/06/2018, PROCESSO ELETRÔNICO DJe-251 DIVULG 23-11-2018 PUBLIC 26-11-2018).
+Digno de nota reproduzir parte do voto proferido no referido julgado, apresentado pelo e. Min. Roberto Barroso ao tratar da questão atinente à aposentadoria especial:
+O art. 40, § 4.º, cuida de aposentadoria no setor público e tem a seguinte dicção:
+§ 4.º É vedada a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria aos abrangidos pelo regime de que trata este artigo, ressalvados, nos termos definidos em leis complementares, os casos de servidores:
+(..)"
+Esse é o dispositivo central.
+Também tem relevância o art. 144, que cuida da segurança pública e enuncia quais serão os órgãos responsáveis pela segurança pública: A Polícia Federal, Polícia Rodoviária Federal, Polícia Ferroviária Federal e as Polícias Civis e as Polícias Militares. Não consta deste elenco constitucional as guardas municipais.
+As guardas municipais vêm disciplinadas, no § 8.º do art. 144, não como integrantes da estrutura da Segurança Pública, mas com a seguinte missão:
+"§ 8.º Os Municípios poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei."
+Com essas considerações, ainda que por motivo diverso àquele adotado na r. sentença combatida, o pedido não comporta acolhida, sendo a improcedência de rigor. (fls. 319-322)
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+No mesmo sentido, destaco os seguintes precedentes:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. LEI 12.546/2011. MP 774/2017. ACÓRDÃO RECORRIDO FUNDAMENTADO EM MATÉRIA EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+(..)
+2. Ao decidir a lide, o Tribunal de origem se apoiou em fundamentação eminentemente constitucional, referente aos princípios da anterioridade nonagesimal, com previsão no art. 195, § 6o. da CF/1988, e da legalidade. Assim, não há como alterar as conclusões obtidas pelo acórdão recorrido sem que haja usurpação da competência do Supremo Tribunal Federal. Precedente: REsp. 1.793.237/PR, Rel. Min. HERMAN BENJAMIN, DJe 22.4.2019.
+(..)
+4. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no REsp 1859437/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020)
+TRIBUTÁRIO E PROCESSUAL CIVIL. IPTU. IMUNIDADE RECÍPROCA. RFFSA. SOCIEDADE DE ECONOMIA MISTA. ACÓRDÃO DE ORIGEM AMPARADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL.
+(..)
+2. Da leitura do acórdão recorrido depreende-se que o Tribunal analisou a controvérsia sob o aspecto exclusivamente constitucional (imunidade tributária recíproca  art. 150, VI, a, da CF/88 e jurisprudência do STF).
+3. Vê-se, assim, que a análise de questão cujo deslinde reclama apreciação de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, sendo sua apreciação de competência do STF, conforme dispõe o art. 102, III, da Constituição Federal.
+4. Agravo conhecido para negar provimento ao Recurso Especial.
+(AREsp 1692609/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 06/10/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Com fundamento no art. 85, § 11, do CPC/2015, majoro a condenação da verba honorária fixada na origem em 1 ponto percentual, sopesado, para a definição do quantum ora aplicado, o trabalho adicional realizado pelos advogados.
+Publique-se. Intimem-se.
