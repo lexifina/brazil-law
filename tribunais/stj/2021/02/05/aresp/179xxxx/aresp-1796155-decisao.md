@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARCIO FERREIRA DE SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CRIMINAL - CRIME DE TRÁFICO DE ENTORPECENTES - ART 33 CAPUT DA LEI N 1134306 - CONDENAÇÃO - PEDIDO DE ABSOLVIÇÃO ANTE A INSUFICIÊNCIA PROBATÓRIA -IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS- FIRMEZA E COERÊNCIA DOS TESTEMUNHOS DOS AGENTES POLICIAIS - RÉU QUE CONFESSOU ENTREGAR O ENTORPECENTE A UM TERCEIRO - PRETENSÃO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO ARTIGO 33 § 4 DA LEI DE TÓXICOS - ACOLHIMENTO - REQUISITOS LEGAIS DEVIDAMENTE PREENCHIDOS - CONDENAÇÃO POSTERIOR À DENÚNCIA QUE NÃO PODE SER USADO PARA JUSTIFICAR A DEDICAÇÃO EM ATIVIDADES CRIMINOSAS - PRECEDENTES - READEQUAÇÃO DOSIMÉTRICA - FIXAÇÃO DO REGIME ABERTO - APELO CONHECIDO E NO MÉRITO PARCIALMENTE PROVIDO
+Quanto à controvérsia, alega violação dos arts. 155 e 386, V, do CPP, no que concerne à absolvição do recorrente em razão da insuficiência de provas de autoria, trazendo o(s) seguinte(s) argumento(s):
+Desta feita, em relação à autoria, não há justificativa nos autos. A bem da verdade, o fato de a polícia ter revistado toda a casa, inclusive com cães treinados, e não ter encontrado NADA de ilícito, é um forte elemento de convicção da inocência do Recorrente. (fls. 454).
+Desta feita, considerando que o único indício de autoria é depoimento colhido em sede policial, e que posteriormente foi negado em juízo pelo próprio declarante (mov. 32), percebe-se que o Acórdão Recorrido negou vigência ao art. 386, inc. V do CPP, conforme art. 5 2 , LVII da CF, merecendo reforma por este Egrégio Tribunal. (fls. 456).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No que concerne à autoria, esta é certa e recai sobre o apelante.
+Pois bem. Observa-se que o conjunto probatório evidenciou que o apelante realizava o tráfico de entorpecentes, restando isolada a tese defensiva pela absolvição. Deste modo, destaca-se elementos probatórios relevantes que corroboram com a denúncia ministerial. (fl. 430)
+ ..
+Ademais, de se ressaltar que o próprio apelante confessou que havia entregado a substância entorpecente a um terceiro, caracterizando, portanto, delito de tráfico de drogas.
+Não obstante, no caso em análise, apesar de ter sido apreendido apenas um tipo de droga, foi localizado na residência do apelante certa quantidade em dinheiro, bem como uma balança de precisão. Some-se isto ao fato dos policiais alegarem a existência de várias denúncias em relação a região de abordagem.
+Logo, uma vez configurado o crime de tráfico de drogas, não há como se falar em absolvição, eis que o conjunto probatório se mostra firma a manter a condenação. (fl. 433)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
