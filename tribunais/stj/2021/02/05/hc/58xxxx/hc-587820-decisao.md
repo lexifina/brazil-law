@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor JOSIANO DA SILVEIRA RUFINO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.064970-5/000).
+O paciente foi condenado, em primeiro grau, às penas de 5 anos e 10 meses de reclusão em regime fechado e de 583 dias-multa, pela prática do delito descrito no art. 33, caput, c/c o art. 40, VII, da Lei n. 11.343/2006. A pena-base foi fixada no mínimo, exasperada a pena em 1/6 no tocante à causa de aumento e afastado o tráfico privilegiado. Foi-lhe indeferido o direito de recorrer em liberdade, pois, durante toda a instrução, esteve preso cautelarmente. Impetrado writ originário, a ordem foi denegada.
+A defesa requer, liminarmente e no mérito, a revogação da prisão preventiva, pois imposta sem elementos concretos, bem comoa fixação do regime semiaberto para o início do cumprimento da pena.
+A liminar foi indeferida às fls. 71-72.
+As informações foram prestadas às fls. 79-118.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 135-136).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não constato a existência de flagrante constrangimento ilegal que autorize a atuação ex officio
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Confira-se excerto da sentença, que, ao condenar o paciente às penas de 5 anos e 10 meses de reclusão em regime fechado e de 583 dias-multa, considerou presentes os requisitos para manutenção de segregação cautelar (fls. 66-67):
+Mantenho, neste momento, a prisão cautelar do acusado, porquanto a lei que disciplina o rito veda de forma expressa a liberdade provisória. Em bora exista divergência sobre a matéria, há vários precedentes, tanto do cole ido Supremo Tribunal Federal como do egrégio TJMG, no sentido deque a vedação em abstrato não ofende o princípio da presunção de não culpabilidade.
+Além disso, não vislumbro dos autos qualquer alteração no contexto fático, capaz de autorizar a revogação da prisão preventiva do acusado.
+A propósito, assim se manifestou o Tribunal a quo (fls. 30-31):
+Com efeito, observa-se que o il. Magistrado a quo apontou as razões que justificaram a negativa ao sentenciado do direito de recorrer em liberdade, motivo pelo qual, a meu ver, não há que se falar em ausência de fundamentação. O d. magistrado sentenciante justificou o indeferimento da revogação da prisão preventiva ao fundamento da subsistência dos motivos que deram ensejo à sua decretação, e que mantiveram o paciente preso durante toda instrução processual, em especial a necessidade de garantir a ordem pública e evitar reiteração delitiva
+Nesse sentido, permanecendo presentes os mesmos motivos que justificaram a prisão durante a instrução do processo e ,inexistindo fato novo que proporcione a soltura do paciente, não há que se falar em constrangimento ilegal
+.Logo, constata-se que a manutenção da custódia cautelar do paciente mostra-se necessária à garantia da ordem pública, restando satisfeitos, portanto, os requisitos autorizadores da prisão preventiva, nos termos do art. 312 do CPP, de modo que inviável qualquer consideração acerca da revogação da segregação cautelar do paciente
+Mantidas as circunstâncias que justificaram a decretação da prisão preventiva do paciente, que ficou preso durante toda a instrução processual, não há ilegalidade na sentença condenatória por não lhe conceder o direito de recorrer em liberdade (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e AgRg no HC n. 568.997/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 27/5/2020).
+A matéria relativa à alteração do regime inicial de cumprimento de pena não foi apreciada pelo Tribunal a quo, que assim decidiu (fl. 31):
+. De relevo salientar, por fim, que a via eleita não se mostra adequada para discutir as teses relativas à alteração do regime prisional imposto na sentença condenatória haja vista a necessidade revolvimento do conjunto probatório encartado aos autos, o que refoge à via estreita do Habeas Corpus, que possui cognição e instrução sumárias.
+Nesta esteira, certo é que ,havendo recurso próprio, deve tal pleito ser discutido no seu bojo. Vale destacar que, conforme informado pelo d. Juízo de origem(documento de ordem nº 10), já foi interposta apelação em desfavor da sentença condenatória, recurso devidamente recebido.
+Assim, há que se observar o Princípio da Unirrecorribilidade, que veda a interposição concomitante de dois ou mais recursos em face da mesma decisão.
+Assim, o exame dessa questão pelo Superior Tribunal de Justiça ensejaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, I, c, da Constituição Federal (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
