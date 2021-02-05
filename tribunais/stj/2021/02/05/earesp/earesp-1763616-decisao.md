@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de embargos de divergência interpostos por SONIA DA SILVA LOPES e PASCHAL DIM contra acórdão da Sexta Turma desta Corte, assim ementado:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. OPOSIÇÃO DE SEGUNDOS DECLARATÓRIOS QUE NÃO APONTAM DEFEITO NO ACÓRDÃO QUE JULGOU OS PRIMEIROS ACLARATÓRIOS, MAS CUJAS RAZÕES RECURSAIS SE DIRIGEM CONTRA O ARESTO PROFERIDO NO JULGAMENTO DA APELAÇÃO PELO TRIBUNAL A QUO. MANIFESTAMENTE INCABÍVEL. INTERRUPÇÃO DO PRAZO RECURSAL. IMPOSSIBILIDADE. INTEMPESTIVIDADE DO APELO NOBRE. INARREDÁVEL. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça está fixada no sentido de que " o s segundos embargos de declaração estão restritos ao argumento da existência de vícios no acórdão proferido nos primeiros aclaratórios, sendo descabida a discussão acerca da decisão anteriormente embargada, pois o prazo para a respectiva impugnação extingue-se em virtude da preclusão consumativa" (EDcl nos EDcl no AgRg nos EREsp 1.230.609/PR, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe 26/10/2016).
+2. A oposição de segundo recurso integrativo deve restringir-se a vício pretensamente ocorrido no acórdão relativo aos primeiros embargos de declaração, devendo ser considerado intempestivo o recurso caso as razões da nova insurgência se dirijam ao aresto prolatado em momento anterior.
+3. A oposição de embargos de declaração intempestivos ou manifestamente incabíveis, tal como ocorre na hipótese dos autos, não interrompem o prazo para a interposição de outros recursos.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1.763.616/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+No presente recurso, os embargantes sustentam que, ao considerar que a oposição de embargos de declaração manifestamente incabíveis não interrompe o prazo para a interposição de outros recursos, a Sexta Turma teria divergido do entendimento da própria Sexta Turma e da Corte Especial deste Tribunal sobre o tema.
+Aponta, como acórdãos paradigmas os seguintes julgados:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO. JÚRI. DECISÃO CONTRÁRIA À PROVA DOS AUTOS. ANULAÇÃO. INEXISTÊNCIA. COAÇÃO MORAL IRRESISTÍVEL. SÚMULA 07/STJ.
+1- OS EMBARGOS DE DECLARAÇÃO, MESMO EM MATÉRIA CRIMINAL, INTERROMPEM O PRAZO PARA A INTERPOSIÇÃO DE OUTROS RECURSOS (CPC - ART. 538 C/C O ART. 3. DO CPP), O QUE SIGNIFICA DIZER: DESPREZA-SE POR COMPLETO O TEMPO TRANSCORRIDO PRECEDENTEMENTE.
+2- A ANULAÇÃO DE DECISÃO DO TRIBUNAL DO JÚRI, SOB O FUNDAMENTO DE CONTRARIA A PROVA DOS AUTOS, BEM COMO A ANÁLISE ACERCA DA NÃO CONFIGURAÇÃO DA EXCLUDENTE REFERENTE A COAÇÃO MORAL IRRESISTÍVEL, REQUEREM EXAME APROFUNDADO DE PROVA, OBSTADO PELA SÚMULA N. 07 DESTA CORTE.
+3- RECURSO ESPECIAL NÃO CONHECIDO.
+(REsp 134.757/DF, Rel. Ministro FERNANDO GONÇALVES, SEXTA TURMA, julgado em 07/10/1997, DJ 27/10/1997, p. 54848) - negritei.
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. INTERRUPÇÃO. ART. 538, CAPUT, DO CPC C/C O ART. 3º DO CPP.
+I - O Código de Processo Penal não prevê a interrupção de prazo para outros recursos quando opostos embargos de declaração, como ocorre no Código de Processo Civil, em seu art. 538, caput. Contudo, por força do disposto no art. 3º da citada Lei Adjetiva Penal, o mesmo princípio pode ser aplicado nos embargos de declaração na área processual penal.
+II - Os embargos de declaração sempre acarretam o efeito interruptivo, salvo quando intempestivos.
+III - Embargos de divergência conhecidos e providos.
+(EREsp 287.390/RR, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, CORTE ESPECIAL, julgado em 18/08/2004, DJ 11/10/2004, p. 211) - negritei.
+Pedem, assim, o provimento dos presentes embargos de divergência, para que seja reconhecida a tempestividade de seus recursos especiais.
+É o relatório. Passo a decidir.
+Observo, inicialmente, que, nos termos do art. 12, parágrafo único, I, do Regimento Interno do STJ, somente cabe às Seções desta Corte julgar embargos de divergência "quando as Turmas divergirem entre si ou de decisão da Seção que integram".
+Como, no caso concreto, os embargantes apontam divergência entre o acórdão recorrido e precedentes da Sexta Turma e da Corte Especial do STJ, o presente recurso somente será analisado no que toca à suposta divergência entre julgados de Turmas da 3ª Seção, cabendo à Corte Especial, nos termos do disposto no art. 11, XIII, do RISTJ, decidir sobre a tese de dissenso entre o acórdão recorrido e julgado paradigma proferido pela Corte Especial.
+Passo, assim, a examinar os embargos de divergência na parte em que aponta dissenso entre a decisão adotada no acórdão recorrido e o paradigma e o REsp 134.757/DF, RelatorMinistro FERNANDO GONÇALVES, Sexta Turma, julgado em 7/10/1997, DJ 27/10/1997.
+Com efeito, o § 3º do art. 1.043 do novo CPC (Lei 13.105/2015) trouxe inovação admitindo a possibilidade de discussão, em sede de embargos de divergência, de dissenso dentro da mesma Turma julgadora quando sua composição tiver se alterado em mais da metade de seus membros. Ambos os paradigmas apontados preenchem o requisito.
+Isso não obstante, o recurso não merece ser conhecido.
+A uma, porque os embargantes não cuidaram de fazer o indispensável cotejo analítico entre a situação fática e jurídica examinada no acórdão recorrido e aquela objeto de deliberação no acórdão apontado como paradigma, exigência contida no § 4º do art. 266 do RISTJ, que assim dispõe:
+Art. 266. Cabem embargos de divergência contra acórdão do órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal sendo:
+(..)
+§ 4º - O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+A duas, porque não há similitude fática entre os acórdãos da Sexta Turma desta Corte postos em comparação. Senão vejamos.
+De um lado, o acórdão recorrido afirma que os segundos embargos de declaração que não se dedicam a impugnar vício ocorrido no julgamento dos primeiros embargos de declaração manejados pela mesma parte devem ser considerados recurso manifestamente inadmissível que, por consequência, não interrompe o prazo para interposição de outros recursos.
+Por sua vez, o julgado paradigma da mesma Sexta Turma do STJ no REsp 134.757/DF se limita a analisar se os embargos de declaração opostos, em matéria penal, interrompem ou suspendem o prazo para interposição de outros recursos, concluindo, ao final, que os aclaratórios interrompem o prazo. Não há nenhuma manifestação a respeito de serem reputados inadmissíveis (ou manifestamente incabíveis) os segundos embargos de declaração manejados pela mesma parte impugnando os mesmos vícios apontados anteriormente nos primeiros embargos de declaração.
+Vê-se, assim, que cada um dos julgados postos em comparação examinou questão processual jurídica diferente, não havendo que se falar, portanto, em divergência de entendimento entre acórdãos de Turma sobre um mesmo tema.
+Recordo que a finalidade dos embargos de divergência é a uniformização da jurisprudência do Superior Tribunal de Justiça, razão pela qual não podem ser utilizados como nova via recursal, visando a corrigir eventual equívoco ou controvérsia advinda do julgamento do próprio agravo em recurso especial.
+Tenho, portanto, como incabíveis os embargos de divergência.
+Ante o exposto, com fundamento no art. 266-C c/c art. 34, XVIII, alínea "a", do Regimento Interno desta Corte, na redação da Emenda Regimental n. 22, de 16/03/2016, indefiro liminarmente os presentes embargos.
+Transcorrido in albis o prazo recursal, remeta-se o recurso para a Corte Especial, para que seja analisada a divergência de sua competência.
+Intimem-se.
