@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por JANDERSON DOS SANTOS LOPEScontra decisão do Tribunal de Justiça do Estado de Mato Grosso,que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição Federal.
+Nas razões do presente recurso, oagravante alega, além de divergência jurisprudencial, em suma, violação: a) aos arts. 184 e 386, VII, ambos do CPP, diante da dispensa, sem prévia manifestação da Defesa, da realização da perícia de voz inicialmente deferida, a ensejar a absolvição por insuficiência de provas eb) ao art. 564, IV, do CPP, ao argumento de cerceamento de defesa diante do indeferimento da oitiva da testemunha Francisco Soares Lacerda.
+Requer o provimento do recurso, para cassar/rescindir a sentença proferida nos autos com o fito de manter a perícia de voz anteriormente deferida pelo Juízo de Primeiro Grau nos áudios referentes ao recorrente, bem como para deferir a oitiva da testemunha.
+Foram apresentadas contrarrazões (e-STJ, fls. 599-605).
+O recurso foi inadmitido em razão da incidência doóbicedaSúmula284 do STF(e-STJ, fls. 8304-8305). Daí este agravo (e-STJ, fls. 606-609).
+O Ministério Público Federal opina pelo não conhecimento do recurso (e-STJ, fls. 654-657).
+É o relatório.
+Decido.
+A irresignação não merece conhecimento.
+Conforme constante da decisão agravada, "in casu, a despeito de alegar ofensa aos arts. 184, 386, VII e 564, IV, todos do CPP, além de divergência jurisprudencial, verifica-se que o Recorrente se limitou a reproduzir, de forma praticamente literal, as razões contidas na Revisão Criminal, ignorando por completo os fundamentos consignados no acórdão recorrido para a rejeição das teses apresentadas" (e-STJ fl.609).
+Por outro lado, orecorrente não refutou adequadamente taisfundamentos da decisão agravadano tocante à aplicação daSúmula284/STF. Com efeito, nas razões do agravo, continuou limitando-se apenas a reiterar o contido no recurso especial, e, como bem ponderou o Ministério Público Federal em seu parecer,"o agravante limitou-se a reafirmar genericamente que preencheu os requisitos de admissibilidade do recurso especial, o que, por certo, não supre a exigência de dialeticidade do recurso"(e-STJ, fl. 656).
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Ademais, tem-se que"ajurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016).
+Por fim, acrescenta-se que, em recente julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Ante o exposto, com apoio no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
