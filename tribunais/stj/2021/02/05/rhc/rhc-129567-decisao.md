@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, impetrado em favor de OLIVER CANO GARCIA MENEGUEL contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado São Paulo, nos autos do writ n. 2277615-87.2019.8.26.00.
+Depreende-se dos autos que, em primeira instância, foi "proferida sentença absolutória imprópria, aplicando a medida de segurança de internação em hospital de custódia e tratamento psiquiátrico pelo prazo mínimo de 01 ano", ao paciente que fora denunciado pela prática do delito descrito no art. 157, § 2º, I, do Código Penal (fl. 46).
+Inconformada, a defesa impetrou habeas corpus perante o eg. Tribunal de origem, que, por unanimidade, denegou a ordem, consoante voto condutor do v. acórdão de fls. 56-60.
+Daí o presente recurso ordinário, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois o tratamento de internação é incompatível com as condições apresentadas pelo paciente.
+Afirma que, "da data da prolação da sentença, já se passaram vários anos, sem o Paciente ter atendimento do Estado e deve-se salientar a falta de estabelecimentos hospitalares próprios" (fl. 68).
+Sustenta que "o Magistrado, sem fundamentação lógica, nega-se a revogação da medida de segurança; mesmo tendo em mãos laudos comprovando a melhora do Paciente. Inadmissível o Estado interferir na vida do cidadão para privá-lo da chance de cura e de uma vida digna, ferindo todos os preceitos constitucionais" (fl. 69).
+Expõe que, "após anos, com tratamento em Clínica especializada de boa qualidade,  o Estado  tenta obrigá-lo a permanecer um ano internado em manicômio ou hospital psiquiátrico e, causar grave prejuízo a saúde mental do paciente" (fl. 69).
+Assere que, "longe de ser a principal alternativa terapêutica, a internação psiquiátrica passa a ser o derradeiro recurso, buscando todas as outras alternativas terapêuticas não institucionais se mostrarem ineficazes. A internação psiquiátrica limita-se aos casos de surto e duram exclusivamente o tempo de permanência do surto" (fl. 70).
+Aduz que "a escolha terapêutica não está mais condicionada em acordo com a espécie de pena do delito praticado (detenção ou reclusão). A opção e tipo de tratamento leva em conta preferencialmente o indivíduo portador do sofrimento mental, sua moléstia e suas necessidades" (fls. 70-71).
+Pondera que, "após o delito, o Paciente permaneceu internado na Clínica Maia, no município de Juquitiba, de 09/08/2012 a 26/04/2013 e depois no período de 11/06/2013 a21/11/2013,por mais de um ano para tratamento contra o alcoolismo, drogas e estabilidade de seu transtorno mental. Após o período de internação foi encaminhado para a continuidade do tratamento psiquiátrico em regime de Hospital -dia (ambulatorial), de 2" a 6" feira, permanecendo das 9:00às 17:00 horas; na mesma clínica na Unidade Paraíso em São Paulo. O Paciente tem o acompanhamento de sua mãe e curadora, em razão da doença o Paciente está interditado pela 4". Vara da Família e dasSucessões do Foro Cível Central da Comarca de São Paulo (Processon.1051051-05.2015.8.26.0100 e está aposentado por invalidez (Processo n. 0088973-30.2014.4.03.6301) do Juizado Especial Cível Federal - 3". Região da Comarca de São Paulo" (fl. 71).
+Requer, assim, a concessão da ordem para "a expedição decontra mandado de captura -internação, para Oliver poder dar continuidade ao seu tratamento, ora na fase ambulatorial, pelo tempo necessário para a sua recuperação mental" (fl. 87).
+A liminar foi indeferida (fls. 102).
+Informações prestadas às fls. 113-116.
+O Ministério Público Federal, às fls. 113-116, manifestou-se pelo parcial provimento do recurso, em parecer sem ementa.
+É o relatório.
+Decido.
+Conforme relatado, busca-se na presente impetração a cassação da decisão que determinou a internação do paciente, a fim de cumprir medida de segurança, de modo a permitir o tratamento ambulatorial.
+Todavia, observa-se que a referida tese não foi enfrentada pela eg. Corte de origem.
+Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Nesse sentido: HC n. 480.651/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 10/04/2019; e HC n. 339.352/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 28/08/2017.
+Ante o exposto, não nego provimento ao recurso ordinário em habeas corpus.
+P. e I.
