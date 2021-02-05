@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PEDRO HENRIQUE FERREIRA DOS SANTOS e de ADRIEL DIAS DOS SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Tocantins (Processo n. 0008732-93.2020.8.27.2700/TO).
+A prisão temporária dos pacientes foi convertida em preventiva em razão da suposta prática do crime descrito no art. 121, § 2º, IV, c/c o art. 29, caput, do Código Penal.
+A defesa sustenta que não estão presentes os requisitos da prisão preventiva e que a prisão foi decretada com base na gravidade abstrata do delito. Aponta a necessidade de observância da Recomendação CNJ n. 62/2020.
+Requer a concessão de liminar para que seja determinada a liberdade provisória dos pacientes ou, subsidiariamente, sejam aplicadas medidas cautelares diversas (art. 319 do CPP).
+O pedido de liminar foi indeferido (fls. 58-59).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 69-73).
+Sobreveio nova petição, em que a Defensoria Pública requer a concessão do habeas corpus a fim de que sejam revogados os decretos preventivos e expedidos alvarás de soltura (fls. 75-77).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A questão da falta de fundamentação do decreto prisional não foi apreciada pelo Tribunal a quo. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, a impetrante não demonstrou a flagrante ilegalidade da decisão atacada, principalmente porque o relator na origem expôs o seguinte (fl. 53):
+No caso dos autos, não restou comprovado pelo impetrante que os pacientes são portadores de comorbidades, a fim de enquadrarem-se no grupo de risco. Não há qualquer evidência de que fora do sistema prisional o risco de contaminação seja menor. Outrossim, além das medidas preventivas já adotadas, não se pode descuidar dos motivos da prisão, notadamente diante da natureza do crime (artigo 121, § 2º, IV, c/c 29, caput, do Código Penal), a justificar a denegação da ordem em definitivo. A natureza do crime atribuído aos pacientes, praticado mediante violência(homicídio qualificado) e o fato de não haver notícias que se enquadram no grupo de risco ou que o quadro clínico apresenta agravamento, autorizam a manutenção da segregação, sem que ocorra qualquer violação à Recomendação nº 62 do Conselho Nacional de Justiça.
+Não se verifica, portanto, desrespeito à Recomendação CNJ n. 62/2020.
+Ante o e xposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
