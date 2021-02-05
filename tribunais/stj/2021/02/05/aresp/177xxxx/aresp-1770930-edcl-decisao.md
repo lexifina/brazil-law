@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TRIUNFANTE BRASIL DISTRIBUIDORA DE ALIMENTOS LTDA e OUTRO à decisão de fls. 692/693, que não conheceu do recurso.
+Sustenta a parte embargante que:
+O cerne da questão da tempestividade gira em torno do feriado de Corpus Christi, feriado móvel que foi celebrado no ano de 2019 em 20 de junho, ou seja, antes mesmo da publicação da intimação no âmbito do Tribunal a quo (fl. 697).
+ ..
+Conforme infere-se da Certidão acima colacionada, a intimação foi disponibilizada no Diário de Justiça no dia 19/06/2019, considerando-se como data da publicação o primeiro dia útil subsequente, iniciando-se o prazo no primeiro dia útil que seguir ao da publicação, nos termos do art. 224, §§ 2º e 3º do Código de Processo Civil.
+No ano de 2019, o Tribunal a quo havia determinado que não haveria expediente no feriado de Corpus Christi, consoante o disposto no Ato nº 06/2018 - Órgão Especial (fl. 698).
+ ..
+Acerca do feriado em comento, nos termos do que dispõe o art. 2º da Lei Federal n. 9.093, de 12/09/1995, "São feriados religiosos os dias de guarda, declarados em lei municipal, de acordo com a tradição local e em número não superior a quatro, neste incluída a Sexta-Feira da Paixão".
+Ademais, existiu legislação federal no ordenamento jurídico brasileiro que dispunha sobre a antecipação da comemoração de feriados, qual seja, a Lei n. 7.320/1985, que previa no seu art. 1º que (fl. 699).
+ ..
+Posteriormente, a referida norma foi revogada expressamente pela Lei n. 8.087, de 29/10/1990, que foi editada especificamente para vedar a autorização de antecipação dos feriados.
+Além disso, é de conhecimento notório que tal festividade é comemorada nacionalmente, inclusive sendo reconhecido por este Superior Tribunal, conforme previu o art. 1º, inciso VI da Portaria STJ/GP nº 37 de 06 de fevereiro de 2019, onde constava a ausência de expediente forense nessa data (disponível no site: https://www.stj.jus.br/static_files/STJ/Midias/arquivos/calendario_stj.pdf):
+ ..
+Não bastasse isso, o Tribunal a quo, em juízo primário de admissibilidade do Apelo Superior em questão, ao não admitir o referido recurso não utilizou como fundamento a intempestividade, sendo certo que a não admissão se deu por outros fundamentos (fl. 700).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não procede a alegação de que é desnecessária a comprovação do feriado local de Corpus Christi por ser período absolutamente conhecido, tratando-se, portanto, de fato notório. A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso, providência que não foi cumprida.
+A propósito, confira-se este precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. DIA DE CORPUS CHRISTI. INEXISTÊNCIA DE FERIADO NACIONAL. AUSÊNCIA DE NOTORIEDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. Esta Corte adota o entendimento de que o Dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar no ato da interposição do recurso, por documento idôneo, a suspensão do expediente forense no Tribunal estadual, o que não ocorreu na hipótese.
+ ..
+5. A existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional.
+6 . Agravo interno não provido
+(AgInt nos EDcl no AREsp 1465673/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/05/2020.)
+Outrossim, para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Ademais, cumpre esclarecer que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
