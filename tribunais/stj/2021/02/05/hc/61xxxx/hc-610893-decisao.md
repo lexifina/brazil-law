@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de NARCISO ARAÚJO DA SILVA JUNIOR contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n.2149426-57.2020.8.26.0000.
+Consta dos autos que o Paciente cumpre pena de 14 (quatorze) anos, 2 (dois) meses e 4 (quatro) dias de reclusão, no regime fechado, pela prática de crimes de roubo circunstanciado, com previsão de término de cumprimento em 05/12/2028. Em decisão proferida em 15/06/2020, o Sentenciado teve indeferidos pedidos de progressão antecipada da pena, substituição da custódia por prisão domiciliar e livramento condicional.
+Inconformada, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem (fls. 34-40).
+Nestewrit, a Impetrante narra que a Secretaria de Administração Penitenciária, atendendo a requisição da Defensoria Pública, encaminhou lista dos sentenciados que se enquadram no grupo de risco da Covid-19, na qual consta o nome do Paciente, "pois sofre de tuberculose" (fl. 3), e aduz que, "Apesar de a Defensoria Pública não possuir laudo médico para comprovar a doença, a informação contida no documento anexo goza de presunção de veracidade" (fls. 9-10).
+Sustenta que, "Diante da pandemia do COVID-19 deve ser antecipada a saída do requerente do sistema prisional" (fl. 6).
+Alega que a unidade prisional na qual o Paciente cumpre pena "tem número de presos cerca de duas vezes maior do que sua capacidade" (fl. 7).
+Requer, liminarmente e no mérito, a concessão de prisão domiciliar ou saída antecipada ao Paciente.
+O pedido liminar foi indeferido às fls. 158-161.
+Foram prestadas informações às fls. 166-170.
+O Ministério Público Federal manifestou-se às fls. 174-179, opinando pelo não conhecimento dohabeas corpus.
+É o relatório. Decido.
+O Juízo de primeiro grau indeferiu o pedido de prisão domiciliar com os seguintes fundamentos(fls. 99-101; grifos diversos dooriginal):
+"Constata-se, em análise dos autos, que o sentenciadocumpre pena no regime fechado, pela prática de crimes graves, cometidos mediante violência ou grave ameaça à pessoa.
+Embora houvesse alcançado o requisito objetivo para fins de progressão de regime e livramento condicional,não preenche o requisito subjetivo, uma vez queostenta mau comportamento carcerário.
+Além de que, possui pena por cumprir até 05/12/2028, tendo praticado faltas disciplinares no curso do cumprimento da pena, demonstrando ausência de senso de responsabilidade e não assimilação da terapêutica penal aplicada, o que demanda cautela na concessão de benefícios executórios.
+Pertinente à prisão domiciliar, de efeito, consigne-se que no caso em exame, o sentenciado cumpre pena no regime fechado, o que impede, objetivamente, receber o benefício da prisão domiciliar.
+Anote-se, aliás, que em 31/10/19, pedido pelos mesmos fundamentos (aexceção, obviamente, da pandemia "COVID-19") foi indeferido pela E. Superior Instância:
+ ..
+Ademais, não existe previsão legal para a progressão direta ao regime aberto sem o cumprimento dos requisitos legais.
+Como é notório, os fatos noticiados pelo defensor não se enquadram no permissivo legal do artigo 117 da Lei nº 7.210/84, eis que este dispositivo se refere ao beneficiário que esteja em regime aberto, que não é o caso do sentenciado.
+No caso dos autos, o sentenciado não preenche nem o requisito do regime prisional, muito menos as condições pessoais previstas no artigo 117 da LEP.
+Ressalte-se que a prisão domiciliar prevista no artigo 318 do CPP, tange à medida cautelar de prisão domiciliar, cabível em substituição à prisão preventiva e não prisão definitiva decorrente de condenação transitada em julgado.
+No que concerne à saúde do sentenciado, não restou demonstrado pela defesa comprovação inequívoca e recente de que o estabelecimento prisional está impossibilitado de oferecer o tratamento necessário ao segregado.
+E mais, cumpre ressaltar que a assistência à saúde será prestada pela Direção do Estabelecimento Prisional conforme estabelece os artigos 14 e 120, inciso II e parágrafo único, ambos da LEP, que poderá ser oferecida dentro da unidade ou pelo Sistema Público de Saúde.
+De mais a mais, a realização de perícia médica, agora, não se mostra viável, afinal, suspensos os serviços desta natureza frente as medidas de prevenção a contaminação.
+Por conseguinte, diante da impossibilidade jurídica do pedido de prisão domiciliar e estando o sentenciado no cárcere, em cumprimento de pena no regime fechado,deve se valer do tratamento à saúde que lhe é dispensado pelo sistema penitenciário.
+Em arremate, em que pesem os argumentos apresentados pela defesa, observa-se que a Recomendação nº 62, de 17/03/2020 do CNJ, a toda evidência, não equivale à ordem imediata de soltura ou concessão de outro beneficio, mas à realização de análise, caso a caso, levando em consideração toda a complexidade gerada pelostatus libertatisno qual se encontra a parte interessada e o problema de saúde pública enfrentado pela sociedade.
+Outrossim, a liminar da Arguição de Descumprimento de Preceito Fundamental (ADPF) 347, não foi referendada pelo plenário do Supremo Tribunal Federal (STF), além do mais"O Judiciário não tem atribuição de induzir uma forma atípica de indulto"(Ministro Luiz Edson Fachin).
+Observe-se, inclusive, que sendo o isolamento a principal medida preventiva, a manutenção dos segregados na unidade, sem contato com terceiros, é situação que melhor atende a preservação de sua condição.
+Também necessário pontuar que as visitas de familiares estão temporariamente suspensas, para se evitar a disseminação da COVID-19 nas unidades prisionais do Estado.
+Registre-se, aliás, por fim que, a Coordenadoria de Saúde do Sistema Penitenciário da Secretaria da Administração Penitenciária - SAP, elaborou Plano de Contingência para o enfrentamento da emergência da saúde pública no domínio do sistema penitenciário paulista, adotando medidas preventivas contra a disseminação da COVID-19, com vistas à proteção tanto dos servidores como da população carcerária.
+Assim, diante do exposto, INDEFIRO o pedido de progressão ao regime semiaberto, livramento condicional e prisão domiciliar, postulados em favor de NARCISO ARAUJO DA SILVA JUNIOR, MTR: 896086-6, RG: 47.834.289, RGC: 71.345.485-4, RJI:170195597-71, recolhido no(a) Penitenciária de Junqueirópolis."
+O Tribunal de origem, por sua vez, ressaltou que, "em que pese o ora paciente seja acometido de tuberculose, não demonstrado comprometimento do estado de saúde" (fl. 38).
+Em consulta ao endereço eletrônico do Tribunal de origem, constata-se que foi juntado aos autos da execução relatório de saúde do Paciente, no qual consta que:
+"Foi solicitado no dia 02/09/2019, exame para tuberculose em campanha de busca ativa.
+No dia 26/09/2019, o laboratório do Instituto Adolfo Lutz de Presidente Prudente, informou resultado do exame positivo. Foi iniciado o tratamento de tuberculose conforme protocolo estabelecido pelo Ministério da Saúde.
+O sentenciado realizou exames de baciloscopia para controle nos dia: 22/10/2019, 26/11/2019, 07/01/2020, 22/01/2020,029/02/2020.
+No dia 27/03/2020 foi avaliado e recebeu alta do tratamento de tuberculose por cura.
+Em 23/04/2020 foi avaliado pelo Dr. Gabriel N. Giorgi CRM: 161.959, foi medicado conforme prescrição médica.
+Em 08/04/2020, realizou coleta de baciloscipia para tuberculose com resultado negativo.
+No dia 17/09/2020, passou por atendimento médico com oDr. Gabriel N. Giorgi CRM: 161.959, foi avaliado, medicado conforme prescrição médica e liberado.
+No momento, apresenta-se em bom estado geral, consciente, orientado, deambulando sem queixas. Sinais vitais inalterados."
+O art. 117 da Lei de Execução Penal (LEP) prevê a prisão domiciliar apenas aos que cumprem pena em regime aberto, maiores de 70 (setenta) anos de idade, não fazendo nenhuma referência a outros regimes prisionais ou idades.
+Não se desconhece que "o Superior Tribunal de Justiça tem decidido que é possível o deferimento de prisão domiciliar ao sentenciado recolhido no regime fechado ou semiaberto sempre que a peculiaridade concreta do caso demonstrar sua imprescindibilidade" (HC 404.006/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 14/11/2017, DJe 22/11/2017).
+Contudo, para prisão domiciliar humanitária, concedida aos apenados acometidos de moléstias graves, exige-se a comprovação da debilidade do condenado e a constatação de que o tratamento adequado ao restabelecimento de sua saúde encontra-se comprometido, diante da inexistência de assistência necessária no interior do estabelecimento prisional, o que não é o caso dos autos.
+Com efeito, em razão da pandemia causada pelo novo coronavírus, não se ignora a necessidade de realizar o juízo de risco inerente à custódia cautelar com maior preponderância das medidas alternativas ao cárcere, a fim de evitar a proliferação da Covid-19; todavia, essa exegese da Recomendação do CNJ não permite concluir pela automática substituição da prisão preventiva pela domiciliar.
+No âmbito deste Superior Tribunal, inclusive, há precedentes no sentido de ser necessário que o eventual beneficiário do instituto demonstre:a)sua inequívoca adequação no chamado grupo de vulneráveis da Covid-19;b)a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; ec)orisco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, causa mais risco do que o ambiente em que a sociedade está inserida; circunstâncias não demonstradas no caso. A propósito: AgRg no HC 561.993/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/04/2020 (DJe 04/05/2020).
+No caso, asseverou o Juízo das Execuções que "não restou demonstrado pela defesa comprovação inequívoca e recente de que o estabelecimento prisional está impossibilitado de oferecer o tratamento necessário ao segregado", o que foi corroborado pelo relatório de saúde do Paciente, no qual consta que ele recebeu "alta do tratamento de tuberculose por cura".
+Desse modo, não há como infirmar a conclusão de que a substituição da segregação cautelar por domiciliar, no caso, não atende ao disposto na Recomendação n. 62 do CNJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL EMHABEAS CORPUS.COVID-19.GRUPO DE RISCO. AUSÊNCIA DE DOCUMENTAÇÃO COMPROBATÓRIA. MEDIDAS PROFILÁTICAS ADOTADAS NA UNIDADE PRISIONAL. RECOMENDAÇÃO 62/CNJ. ILEGALIDADE.INEXISTÊNCIA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Em que pese ter o recorrente juntado aos autos acórdão que denegou owritna origem, percebe-se que permanecem os motivos pelos quais a impetração não deve prosperar.
+2.No julgamento na origem, entendeu-se que o fato de o paciente ser idoso não necessariamente o levaria à concessão da saída antecipada, porquanto não há nos autos notícias de que possui estado de saúde debilitado, uma vez que não foi acostado nenhum laudo médico comprovando que possua enfermidades. Ademais, foi salientado que foram adotadas pelo presídio medidas profiláticas necessárias para a diminuição dos riscos de contágio da Covid-19.
+3. Agravo regimental improvido."(AgRg no HC 576.476/SP, Rel.Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTROHABEAS CORPUSNA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+ ..
+4.Quanto ao pleito de prisão domiciliar, fundamentado na situação de pandemia decorrente do Covid-19, o recurso também não prospera. O Relator do feito na origem assinalou não ter sido demonstrada qualquer situação concreta de risco à vida do Agravante, afirmando, ainda, que"não há comprovação de que, dentro do estabelecimento prisional, não terá o Paciente atendimento e proteção adequados", não servindo a Recomendação n.º 62/2020 do CNJ como salvo conduto indiscriminado.
+5. A alegação de excesso de prazo embasada no art. 4.º, inciso I, alíneac, da mencionada recomendação também não procede, notadamente porque o Magistrado singular, em observância ao disposto no art. 316, parágrafo único, do Código de Processo Penal, reavaliou a prisão preventiva do Agravante e a manteve.
+6. Agravo regimental desprovido."(AgRg no HC 582.122/SP, Rel.Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/06/2020, DJe 29/06/2020; sem grifos no original.)
+Ante o exposto, DENEGO A ORDEM dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO PENAL. PANDEMIA DE COVID-19CAUSADA PELO NOVO CORONAVÍRUS. PEDIDO DE PRISÃO DOMICILIAR FUNDADO NA RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. JUÍZODA VARA DE EXECUÇÕES PENAIS-MAIS PRÓXIMODA REALIDADE CARCERÁRIA DA LOCALIDADE-QUE AFASTOU FUNDAMENTADAMENTE A POSSIBILIDADE DE PERIGO IMINENTE À SAÚDE DOPACIENTE. CONTEXTO DE MAIOR RISCO NÃO DEMONSTRADO. ORDEM DEHABEAS CORPUSDENEGADA.
