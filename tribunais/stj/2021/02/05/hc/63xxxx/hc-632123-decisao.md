@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim ementado (fl. 101):
+EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS - CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA DE OFÍCIO - POSSIBILIDADE - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - ART. 310, II, C/C OS ARTS. 312 E 313, TODOS DO CPP - DECISÃO FUNDAMENTADA - GRAVIDADE CONCRETA - RISCO À ORDEM PÚBLICA - WRIT DENEGADO. 1. Não há ilegalidade na conversão da custódia flagrancial em preventiva pelo Magistrado sem prévia manifestação do Ministério Público ou requerimento da Autoridade Policial. 2. A gravidade concreta do crime e a periculosidade revelada pelo modus operandi da conduta são motivos suficientes à custódia processual para garantia da ordem pública. 3. Atendidos os requisitos instrumentais do art. 313 do CPP, bem como presentes os pressupostos e ao menos um dos requisitos do art. 312 do CPP (garantia da ordem pública), deve ser a prisão preventiva mantida, não havendo que se falar em sua revogação, ou mesmo em substituição pelas medidas cautelares diversas da prisão previstas no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes. 4. Denegado o habeas corpus.
+Consta dos autos que o paciente teve a prisão em flagrante convertida em preventiva, sendo, posteriormente, denunciadopela prática docrimeprevistonoart.33 da Lei 11.343/06.
+Neste writ, afirma aimpetrante que o juízo primitivo, em contrariedade à nova redação do art. 311 do CPP, conferida pela Lei 13.964/2019,converteu, de ofício,a prisão em flagrante em preventiva.
+Requer, liminarmente e no mérito, a concessão da ordem, a fim de que a ilegalidade seja superada.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ e, no mérito, pela denegação da ordem.
+É o relatório.
+DECIDO.
+Quanto à possibilidade de conversão, de ofício, da prisão em flagrante em preventiva, o voto condutor foi assim entabulado (fl. 103):
+Esclareço, ab initio, que anteriormente à Lei n.º 13.964/2019 vinha me manifestando, de forma reiterada, no sentido de que seria possível a conversão da custódia flagrancial em preventiva de ofício pela Magistrada.
+Após as alterações promovidas no Código de Processo Penal pela referida lei, denominada "Pacote Anticrime", venho meditando sobre tal tema e, por ora, entendo que ainda é desnecessária, previamente à conversão da custódia flagrancial em preventiva, a representação da Autoridade Policial e/ou o requerimento do Ministério Público.
+Nos mesmos termos do acórdão impugnado, entende a 6ª Turma desta Corte que, embora a lei nova tenha excluído a possibilidade de decretação da custódia cautelar de ofício, no caso corrente, trata-se, como relatado, de conversão da prisão em flagrante em preventiva, hipótese distinta e resguardada pela norma específica do art. 310, II, da mesma lei processual.
+Logo, inexiste ilegalidade ou contrariedade ao sistema acusatório no ato jurídico em debate, porquanto a conversão do flagrante em preventiva, de ofício, encontra-se amparada em expressa previsão legal. Nesse sentido:
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONVERSÃO DO FLAGRANTE EM PREVENTIVA, DE OFÍCIO. POSSIBILIDADE. PRECEDENTE. FUNDAMENTAÇÃO CONCRETA. CAUTELARES DO ART. 319 DO CPP. SUFICIÊNCIA. LIMINAR CONFIRMADA. HABEAS CORPUS CONCEDIDO.
+1. As alterações promovidas pela Lei n. 13.964/2019 não impedem a conversão da prisão em flagrante em preventiva, de ofício, pelo Juízo singular, se presentes os requisitos do art. 312 do CPP e a necessidade urgente da cautela processual. Precedente.
+2. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+3. O Magistrado evidenciou a necessidade de algum acautelamento da ordem pública, porquanto destacou a gravidade concreta do crime: a quantidade de drogas apreendidas. Entretanto, a motivação não denota a periculosidade exacerbada dos pacientes, a ponto de, por si só, justificar o emprego da cautela máxima sem nenhum outro dado desabonador relativo aos réus.
+4. Em juízo de proporcionalidade, alternativas legais menos aflitivas se mostram idôneas e suficientes para proteger o bem ameaçado pela irrestrita e plena liberdade dos acusados, de modo que é aplicável ao caso a substituição do cárcere pelas cautelares previstas no art. 319, I, IV e V, do CPP.
+5. Habeas corpus concedido, para, confirmada a liminar, substituir a prisão preventiva dos réus pelas medidas elencadas, sem prejuízo do restabelecimento da mais gravosa pelo Juiz se sobrevier situação que configure a sua exigência.
+(HC 614.155/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/12/2020, DJe 11/12/2020)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
