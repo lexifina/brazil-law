@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA DE FATIMA VIDOTTI NUNES DE SOUZA e OUTRO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO PRESCRIÇÃO RECONHECIMENTO DE OFÍCIO EXTINÇÃO DA EXECUÇÃO HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA DESCABIMENTO.
+Ocorrendo a extinção da execução pelo reconhecimento, de ofício, da ocorrência da prescrição, é incabível o arbitramento de honorários ao advogado do executado, pois não houve trabalho de sua parte que enseje a remuneração.
+Quanto à controvérsia, pela alínea "a" e alínea "c" do permissivo constitucional, alega violação e interpretação divergente do art. 85, § 3º, do CPC, no que concerne ao cabimento de fixação de honorários advocatícios em favor do executado no caso de extinção da execução por reconhecimento da prescrição intercorrente de ofício pelo juiz, trazendo o(s) seguinte(s) argumento(s):
+Considerando o trabalho despendido, ainda que não tenha a prescrição sido suscitada pelo patrono da causa, tem-se que os honorários devem ser fixados nos termos do artigo 85, § 3º do CPC, já que há envolvimento com a Fazenda Pública.
+Os prejuízos os quais o Executado permaneceu exposto são extremamente gravosos, tanto o são que constituiu procurador para patrociná-lo e cuidar de seus interesses (fl. 501).
+ ..
+Ademais, com relação a fixação de honorários advocatícios nos casos da extinção da execução de ofício do Juiz, o colendo Superior Tribunal de Justiça consolidou seu entendimento no sentido que, desimporta se o feito foi extinto por ato de ofício do juiz ou a pedido da parte (fl. 501).
+ ..
+No presente caso, verifica-se, de fato, houve a angularização da execução fiscal, tendo a executada constituído procurador e se manifestado no feito.
+Destarte, o acórdão ora guerreado ofendeu o artigo 85 do CPC ao não imputar a União (exequente) arcar com os honorários advocatícios decorrentes de execução fiscal em que foi reconhecida a prescrição intercorrente.
+Dessa maneira, restando a União sucumbente, mesmo que em função do reconhecimento de ofício da prescrição intercorrente, deve a exequente ser condenada ao pagamento dos honorários advocatícios. A condenação em honorários advocatícios pauta-se pelo princípio da causalidade e da sucumbência, impondo-se àquele que deu azo à instauração do processo o dever de pagar a verba honorária à parte contrária.
+Ressalta-se que os honorários advocatícios não guardam relação com a inadimplência da parte (que deu causa a execução), mas ao trabalho despendido pelo patrono da causa (fl. 503).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, verifica-se que os dispositivos legais sobre os quais teria havido o dissídio jurisprudencial não foram examinados pela Corte de origem.
+Dessa forma, reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado". (AgInt no AREsp 1.639.095/RJ, relator Marco Aurélio Bellizze, Terceira Turma, DJe de 19/5/2020.)
+Sobre o tema, confiram-se os seguintes precedentes: AgInt no REsp 1.862.546/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp 1.486.884/RS, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 19/2/2020; e EDcl no REsp 1.274.569/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
