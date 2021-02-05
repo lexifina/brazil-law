@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DE MATO GROSSO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+AGRAVO INTERNO INTERPOSTO NO RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - URV PRESCRIÇÃO DE FUNDO DE DIREITO PEDIDO DE RETRATAÇÃO DA DECISÃO - IMPOSSIBILIDADE PRECEDENTES JURISPRUDENCIAIS RECURSO DESPROVIDO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 189 do CC e do art. 1º do Decreto n. 20.910/32, sustentando a prescrição de fundo de direito do servidor público pleitear a conversão da URV tendo em vista transcorridos mais de 5 anos da reestruturação da carreira, trazendo o(s) seguinte(s) argumento(s):
+Nesse contexto, importa ressaltar que, de acordo com o entendimento do Supremo Tribunal Federal (STF), esposado no RE 561836/RN, as leis que promoveram a reestruturação remuneratória da carreira são o termo final para a percepção de qualquer parcela decorrente da errônea conversão da URV, por não haver direito ad aeternum de parcela de remuneração ao servidor público. Colaciona-se trecho do julgado do STF a respeito do tema:
+ ..
+Ora, se o termo final para a percepção de qualquer vantagem decorrente da conversão da URV é a reestruturação remuneratória da carreira, a ocorrência da reestruturação financeira fulmina a pretensão autoral, nos cinco anos subsequentes à reestruturação.
+Isto porque, o direito foi violado definitivamente (nas palavras do STF, o término da incorporação), com a reestruturação remuneratória da carreira, nascendo, a partir de então, a pretensão que se extingue com o prazo prescricional quinquenal para postular quaisquer dívidas à Fazenda Pública (Art. 189 do Código Civil de 2002 e Art. 1º do Decreto nº 20.190/1932) - fls. 389-392.
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega dissenso jurisprudencial sobre a matéria.
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Quanto à segunda controvérsia, verifica-se que os dispositivos legais que teriam sido utilizados como fundamentos para o dissídio jurisprudencial não foram examinados pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim.
+Dessa forma, reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. DIVERGÊNCIA JURISPRUDENCIAL. FALTA DE PREQUESTIONAMENTO. NÃO CABIMENTO DO RECURSO PELA ALÍNEA "C" DO PERMISSIVO CONSTITUCIONAL.
+1. O cabimento de recurso especial fundado na alínea "c" do permissivo constitucional requer o prequestionamento do dispositivo de lei federal cuja interpretação se alega divergente por outro Tribunal.
+2. Uma vez reconhecida a ausência de prequestionamento do dispositivo de lei federal apontado como ofendido pela parte recorrente, é desnecessário o exame do cabimento do recurso especial quanto à alínea "c" do inciso III, do art. 105, da Constituição Federal, em relação ao mesmo dispositivo.
+3. Embargos de declaração rejeitados. (EDcl no REsp n. 1274569/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
