@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por MORAES BECATTINI REPRESENTACOES LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação. Preliminar. Alegação de que a testemunha não foi questionada sobre interesse na causa. Art. 457, CPC/15. Irrelevância do depoimento impugnado para o deslinde do feito. Mérito. Representação comercial. Representante, apelante, que pretende a indenização pela rescisão imotivada da avença. Artigo 27, j, Lei n. 4.886/65 que impõe indenização do representado para o representante em caso de rescisão fora das hipóteses do art. 35 da mesma lei. Não demonstração da rescisão. Tese pautada na diminuição do repasse de subsídio do representante, em proposta de distrato bilateral e em remoção do representante do grupo de whatsapp com a finalidade de impor a rescisão ao representante. Não demonstração. Prova testemunhal que corrobora a tese defensiva de não diminuição específica em desfavor da representante apelante de subsídios para o exercício de suas atividades. Proposta de distrato bilateral que não se afigura ilegal. Exclusão da rede social não demonstrada. Sentença mantida. Recurso improvido. (fls. 405)
+O recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 27, j, e 34 da Lei 4.886/65, no que concerne à condenação em indenização por rescisão de contrato de representação comercial, trazendo os seguintes argumentos:
+19. Consoante disposto no art. 27, "j"5, a rescisão do contrato de Representação Comercial fora das hipóteses elencadas no art. 35 ensejará o pagamento de indenização em favor do Representante Comercial, que não poderá ser inferior a 1/12 do total da remuneração auferida enquanto exerceu a representação.
+20. Contudo, em dezembro de 2015 a Recorrida, sem qualquer prévia comunicação ou justificativa, simplesmente suprimiu o fornecimento de subsídios necessários à efetiva prestação da representação comercial pela Recorrente.
+21. Tal movimento (de supressão do envio dos subsídios), por si só", seria suficiente para caracterização da rescisão do Contrato de Representação comercial, no entanto, em respeito aos 14 (quatorze) anos de relacionamento, a Recorrente seguiu tentando, mesmo em situação adversa, exercer o papel que lhe cumpria na relação.
+22. Em agosto de 2016 a Têxtil Fávero lhe encaminhou notificação extrajudicial, para exigir o pagamento de uma dívida forjada (porquê jamais contraída e sequer relacionada à Apelante), acompanhada da - sugestão - de que, caso fosse interesse da Moraes Becattini, o contrato de Representação Comercial poderia ser rescindido e a dívida forjada seria compensada das verbas que Moraes Becattini deveria receber, em razão da rescisão contratual.
+ ..
+24. Desse modo, não há dúvidas quanto ao característico movimento de rescisão imotivada do Contrato de Representação Comercial, que ensejou a propositura da ação, seja pela supressão parcial do envio de materiais, seja pela imputação falsa de dívida ao Representante Comercial, exigindo seu pagamento e sugerindo o rompimento contratual com a compensação da dívida, nas verbas indenizatórias. (fls. 419-421)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A oitiva da testemunha Tiago deixa claro de que não houve qualquer diminuição no fluxo de material especificamente ao representante comercial apelante:
+ ..
+Ao contrário, sustenta que, quando houve diminuição, decorreu diretamente da redução das vendas em todo o setor decorrente da crise econômica:
+ ..
+Nem se sustente que a falta de e-mails, torna incontroverso o não subsídio a partir de dezembro de 2015, porque a prova testemunhal dá conta de cenário diverso e não há prova em sentido diverso pela apelante, a quem incumbia o ônus de comprovar o fato constitutivo de seu direito (art. 373, I, CPC/15).
+E a tese de que houve rescisão imotivada pela apelada não convence, porque como destacado pelo i. sentenciante e como consta na notificação realizada pela apelada, houve mera proposta de encerramento do contrato de parceria:
+ ..
+Tanto é assim, que o assunto da notificação é sobre a "devolução de valores recebidos diretamente dos clientes da representada Têxtil Fávero Ltda." (fs. 23) e não a rescisão desmotivada da avença.
+Não configura qualquer ilegalidade a proposta de distrato bilateral do negócio.
+Em síntese, repita-se, não se desincumbiu a apelante do seu ônus processual de demonstrar a rescisão imotivada do contrato de representação comercial, por seu fato constitutivo de seu direito (art. 373, I, CPC/15), razão pela qual fica afastada a pretensão indenizatória.
+ ..
+A ausência de demonstração de rescisão imotivada do negócio já é suficiente para afastar a pretensão indenizatória. (fls. 409-412)
+Assim, portanto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
