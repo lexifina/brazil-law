@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Hard Polímeros para Indústria Ltda. e Hard Comércio de Fixadores e Resinas Ltda., com amparo nas alíneas a e cdo inciso III do art. 105 da CF, contra acórdão proferido pelo TRF da 4ª Região assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES. LIMITE PREVISTO NO ART. 4º DA LEI Nº 6.950/81. INAPLICABILIDADE. DISPOSITIVO REVOGADO PELO DECRETO-LEI Nº 2.318/86.
+1. A limitação de 20 salários mínimos, prevista no parágrafo único do artigo 4º da Lei nº 6.950/81, foi revogada juntamente com o caput do artigo 4º, pelo Decreto-Lei nº 2.318/86, pois não é possível subsistir em vigor o parágrafo estando revogado o artigo correspondente.
+2. Sentença mantida.
+Refere a parteinsurgente, em síntese, que haveria ofensa ao parágrafo único do art. 4º da Lei n. 6.950/1981, sustentando, em suma, que as contribuições parafiscais destinadas a terceiros precisam respeitar o limite de 20 (vinte) salários mínimos, nos termos do referido dispositivo legal.
+É o relatório.
+Verifica-se que a matéria deduzida no presente recurso especial ("Definir se o limite de 20 (vinte) salários mínimos é aplicável à apuração da base de cálculo de "contribuições parafiscais arrecadadas por conta de terceiros", nos termos do art. 4º da Lei n. 6.950/1981, com as alterações promovidas em seu texto pelos arts. 1º e 3º do Decreto-Lei n. 2.318/1986") foi afetada para julgamento sob a sistemática do repetitivo, Tema 1.076, nos autos dosREsps1.898.532/CE eREsp1.905.870/PR, de relatoria da MinistraRegina Helena Costa, submetidos ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, de modo que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
