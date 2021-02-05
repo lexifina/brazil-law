@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por RAFAEL RODRIGUES BONFIM contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins (HC n. 0005311-95.2020.8.27.2700), assim ementado (fls. 47-48):
+HABEAS CORPUS. PROCESSO PENAL. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. REITERAÇÃO E FIM DA INSTRUÇÃO CRIMINAL. SÚMULA N. 52/STJ. MEDIDAS CAUTELARES ALTERNATIVAS. PANDEMIA COVID-19. NÃO ENQUADRAMENTO ÀS HIPÓTESES PREVISTAS NA RECOMENDAÇÃO 62/2020 DO CONSELHO NACIONAL DEJUSTIÇA. COSNTRANGIMENTO ILEGAL NÃO VERIFICADO NAESPÉCIE. ORDEM DENEGADA. REVISÃO PRISÃO PREVENTIVA. ART. 316, PARÁGRAFO ÚNICO DO CPP.SUPRESSÃO INSTÂNCIA.
+1 -A impetração anterior de habeas corpus em favor do ora Paciente, com identidade objeto do presente writ quanto à alegação de excesso de prazo para conclusão da instrução, caracterizada a reiteração de pedido neste ponto. Ademais, estando o processo em fase de alegações finais, há que se reconhecer a incidência da súmula 52 do STJ, segundo a qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+2 - Não se identificou, no caso, constrangimento ilegal pela inobservância do dever de revisar a prisão preventiva, conforme determinações da novel Lei nº.13.964, de 2019, tendo em vista que não era exigível (e nem possível) que fosse aplicada em data anterior à sua entrada em vigor da referida lei - 24/01/2020 - razão pela qual, não tinha surgido, quando da impetração, ao juízo originário o dever de proceder à reavaliação a manutenção da prisão cautelar.
+3 - O CNJ, editou a Recomendação n.º 62/20, determinando aos magistrados com competência para a fase de conhecimento criminal, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do coronavírus, que considere a reavaliação das prisões provisórias, nos termos do art. 316, do Código de Processo Penal.
+4 - Ordem denegada. No entanto, recomenda-se ao juízo de origem que reavalie a necessidade da prisão preventiva do paciente, em atenção ao disposto no parágrafo único do art. 316 do Código de Processo Penal, caso ainda não tenha feito.
+O recorrente foi denunciado e preso preventivamentepela prática do delito previsto no art. 2º da Lei n.12.850/2013, apontado como integranteda facção criminosa denominada "Primeiro Comando da Capital", voltada para a prática de crimes de tráfico de drogas, associação para o tráfico, roubos e homicídios.
+Neste recurso ordinário, afirmaestar configurado constrangimento ilegal, por excesso de prazo para formação da culpa. Aponta descumprimento do disposto no parágrafo único do art. 316 do CPP. Sustenta a ausência dos requisitos para a manutenção da custódia cautelar.
+Postula a aplicação das medidas previstas na Recomendação CNJ n. 62/2020, pelo risco de contaminação pela covid-19.
+Requer medida liminar deliberdade provisória. No mérito, pleiteia a concessão definitiva da ordem(fls. 51-63).
+A medida liminar foi indeferida (fls. 74-77).
+Prestadas informações, o Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 108-120).
+É o relatório. Decido.
+O presente recurso está prejudicado.
+Consta do site do Tribunal de Justiça doTocantins que, em 24/11/2020, o Juízo de origem prolatou sentença condenatória, pela qual imposta ao recorrente apena de 3 anos de reclusão em regime aberto, substituída a reprimenda por duas penas restritivas de direitos. Ao final, concedeu ao recorrente o direito ao recurso em liberdade e determinou a expedição de alvará de soltura.
+Assim, considerando a alteração na realidade fático-processual, manifesta a perda superveniente de objeto dorecurso.
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
