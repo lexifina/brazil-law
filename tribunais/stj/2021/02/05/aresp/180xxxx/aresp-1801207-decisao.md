@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por P.A.M. BASSO EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+Apelação. Ação de rescisão contratual, cumulada com restituição de valores. Compromisso de compra e venda de lote. Sentença de procedência.
+Insurgência da corré alegando ausência de responsabilidade pelo atraso que culminou na rescisão contratual. Descabimento. Corré que é proprietária da gleba, requereu o registro do loteamento e o ofereceu em hipoteca. Injustificado atraso na entrega não impugnado.
+Responsabilidade solidária da corré, à luz dos arts.
+14 e 18 do CDC. Sentença mantida. Majoração da verba honorária para 20% do valor atualizado da condenação, conforme artigo 85, §11, do CPC.
+Recurso não provido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 186, 264, 265, 275 e 475, todos do CC, no que concerne à exclusão da responsabilidade solidária, trazendo o(s) seguinte(s) argumento(s):
+O pano de fundo da demanda é o atraso da execução das obras de infraestrutura do loteamento. Razão disso, os Recorrido, pediram a rescisão do contrato de compra e venda do lote e incluíram a Recorrente no polo passivo por ter sido a mesma proprietária do imóvel objeto do loteamento - mas conforme documentos carreados nos autos, a gleba não mais lhe pertence.
+ .. .
+In casu, a Recorrente está sendo responsabilizada a indenizar os Recorridos por "ato ilícito" que não praticou ou mesmo tenha dado causa.
+ .. .
+Portanto, data máxima vênia, demonstrado está o desacerto do v. Acórdão recorrido que ante o conjunto probatório aplicou entendimento divergente da Lei o que impõe o seu conhecimento. (fls. 401/403).
+É, no essencial, o relatório. Decido.
+Na espécie, sobretudo em relação ao art. 186 do CC, o Tribunal de origem se manifestou nos seguintes termos:
+Não há que se falar em falta de responsabilidade da corré P.A.M.
+Basso Eirelli ME para responder pelos desdobramentos do inadimplemento decorrente da falta de realização das obras de infraestrutura do loteamento objeto do terreno compromissado e discutido nesta lide.
+Isso porque, a análise dos autos revela que as rés atuaram de forma única na concretização do empreendimento.
+De fato, apesar do compromisso de compra e venda ter sido celebrado pelo autores apenas com a corré Victória Brasil Empreendimentos e Construções SPE Ltda., em 18/8/2015, a apelante é também proprietárias da gleba e ambas requereram o registro do loteamento (fls. 32/44 e fls. 52/53).
+ .. .
+Assim, e sendo incontroverso o descumprimento contratual perpetrado importando aqui observar que a apelante não nega e nem se insurge contra a parte da r. sentença que reconheceu a inexplicável e injustificável demora de quatro anos para simples obras de regularização do loteamento , devem as rés responder solidariamente, pois atuaram unidas no curso da realização do loteamento, não podendo a omissão ser debitada restritivamente contra uma das coobrigadas (fls. 373/375).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Além disso, em relação aos arts. 264, 265, 275 e 475, todos do CC, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente não demonstrou, de forma direta, clara e particularizada, como o acórdão recorrido violou cada um dos dispositivos de lei federal apontados, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal. Em relação à afronta aos arts. 13 da Lei n. 10.559/2002 e 943 do Código Civil, verifica-se a ausência de demonstração precisa de como tal violação teria ocorrido, limitando-se a parte recorrente em apontá-la de forma vaga, o que impede o conhecimento do recurso especial". (AgInt no REsp n. 1.496.338/RS, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 27/8/2020.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.826.355/RN, relator Ministro Og Fernandes, Segunda Turma, DJe de 4/8/2020; AgInt no AREsp n. 1.552.950/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020; AgInt no AREsp n. 1.617.627/RJ, AgInt no AREsp n. 1.617.627/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg no REsp n. 1.690.449/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 5/12/2019; AgRg no AREsp n. 1.562.482/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 28/11/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
