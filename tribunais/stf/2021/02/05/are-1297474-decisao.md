@@ -1,0 +1,36 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 3, p. 135):
+    “ADMINISTRATIVO. SECRETÁRIO PARLAMENTAR. SERVIDOR PÚBLICO OCUPANTE DE CARGO EM COMISSÃO SEM VÍNCULO EFETIVO COM A ADMINISTRAÇÃO. APOSENTADORIA CONCEDIDA ANTES DO ADVENTO DA LEI N. 8.647/93. REQUISITOS DESCUMPRIDOS.
+    1. Os servidores públicos, ocupantes exclusivamente de cargo comissionado, têm direito à aposentadoria estatutária, desde que implementadas todas as condições legalmente exigidas antes do advento da Lei n. 8.647/93, que acrescentou o parágrafo único ao art. 183 da Lei n. 8.112/90.
+    2. Antes da vigência da norma citada, o art. 193 da Lei n. 8.112/90 dispunha que o servidor que tivesse exercido função de direção, chefia, assessoramento, assistência ou cargo em comissão, por período de 5 (cinco) anos consecutivos, ou 10 (dez) anos interpolados, poderia aposentar-se com a gratificação da função ou remuneração do cargo em comissão, desde que exercido por um período mínimo de 2 (dois) anos.
+    3. O impetrante exerceu o cargo comissionado por período inferior a 2 anos, pelo que não faz jus ao benefício pleiteado.
+    4. Apelação desprovida.”
+    Os embargos de declaração foram rejeitados (eDOC 3, p. 165).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 5º, caput e XXXVI; e 40, III, c, da Constituição Federal.
+    Nas razões recursais, sustenta-se, que (eDOC 4, p. 19):
+    “O Recorrente impetrou mandado de segurança para obter sua aposentadoria no cargo em comissão de Secretário Parlamentar, que exerceu na Câmara dos Deputados no período de 19 de janeiro de 1990 a 3 de março de 1991.
+    (…)
+    o Recorrente preencheu todos os requisitos necessários à sua aposentadoria, na forma estabelecida na alínea "c" do inciso III do art. 40 da Constituição Federal de 1988, dc a alínea "c" do inciso III do art.186 da Lei n0 8.112, de 1990, e contava à época com o tempo de serviço de 31 (trinta e um) anos, 1 (um) mês e 14 (quatorze) dias, conforme atestado pela própria Câmara dos Deputados.”
+    Ao final, acrescentou-se, que (eDOC 4, p. 20):
+    “Assim, o Recorrente tem o direito liquido e certo de aposentar-se, com proventos proporcionais, pela Câmara dos Deputados, no cargo em comissão de Secretário Parlamentar, correspondentes a 31/35 (trinta e um trinta e cinco avos), porque preencheu todos os requisitos para a aposentação antes do advento da Lei nO 8.647, de 1993.”
+    A Vice-Presidência do TRF/1ª Região inadmitiu o recurso extraordinário por entender que a análise da controvérsia demandaria a interpretação de normas infraconstitucionais (eDOC 4, p. 46-47).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento da apelação, assim asseverou (eDOC 3, p. 129-130):
+    “Pretende o apelante o reconhecimento do direito à aposentadoria no cargo em comissão de Secretário Parlamentar da Câmara de Deputados, sob a alegação de que implementou os requisitos necessários até a edição da Lei n. 8.647/93.
+    Os servidores públicos, ocupantes exclusivamente de cargo comissionado, têm direito à aposentadoria estatutária, desde que implementadas todas as condições legalmente exigidas antes do advento da Lei n. 8.647/93, que acrescentou o parágrafo único ao art. 183 da Lei n. 8.112/90, cuja redação é seguinte, in verbis :
+    "Art. 183. A União manterá Plano de Seguridade Social para o servidor e sua família. Parágrafo único. O servidor ocupante de cargo em comissão que não seja, simultaneamente, ocupante de cargo ou emprego efetivo na administração pública direta, autárquica e fundacional, não terá direito aos benefícios do Plano de Seguridade Social, com exceção da assistência à saúde."
+    Ocorre que, mesmo antes da vigência da norma acima, o art. 193 da Lei n. 8.112/90, assim dispunha:
+    "Art. 193. O servidor que tiver exercido função de direção, chefia, assessoramento, assistência ou cargo em comissão, por período de 5 (cinco) anos consecutivos, ou 10 (dez) anos interpolados, poderá aposentar-se com a gratificação da função ou remuneração do cargo em comissão, de maior valor, desde que exercido por um período mínimo de 2 (dois) anos."
+    In casu, consoante afirmação feita pelo próprio impetrante, ele exerceu o cargo comissionado por período inferior a 2 anos, pelo que não faz jus ao benefício pleiteado.
+    (…)
+    Ademais, o próprio Departamento de Pessoal da Coordenação de Legislação de Pessoal Estatuário da Câmera dos Deputados emitiu parecer, às fls. 134/138, contrário a pretensão do recorrente, no qual se destaca o seguinte trecho: em manifestações reiteradas em processos anteriores de mesma natureza, sempre foi que o art. 193 (então vigente da Lei n.° 8.112/90 e hoje revogado pela Lei n.° 9.527/97) exigia o exercício de função comissionada por 5 (cinco) anos consecutivos ou 10 (dez) interpolados para a aposentadoria, com a gratificação da função ou remuneração do cargo em comissão, aos detentores de cargo efetivo. Ora, se este pré -requisito era exigido aos servidores efetivos, infere-se a sua extensão, também, aos servidores ocupantes de cargo em comissão. Portanto, com o intuito de preservar o princípio isonômico entre os servidores, esta questão passou a ser observada nos pedidos de aposentadoria dos servidores comissionados.
+    Logo, chega a ser desarrazoado conceder benefício de aposentadoria por tempo de serviço, previsto na Lei n.° 8.112/90, exclusivo de servidor público, no presente caso, uma vez que o impetrante exerceu cargo comissionado de Secretário Parlamentar, por apenas 01 ano, 01 mês e 14 dias, na Câmera dos Deputados, ou seja, tempo esse inferior ao mínimo exigido para que o servidor público efetivo, aquele aprovado em concurso público, pudesse aposentar com a gratificação da função ou remuneração do cargo em comissão, conforme aplicação do art. 193, a Lei n.° 8.112/90, vigente à época, o que fatalmente iria ferir o princípio isonômico entre os servidores.”
+    Conforme se depreende dos fundamentos que constam no acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo, no que concerne ao período de exercício em cargo comissionado exigido para fazer jus ao benefício de aposentadoria, demandaria o reexame da legislação infraconstitucional (Leis Federais 8.112/1990 e 8.647/1993). Dessa forma, resta demonstrada a não ocorrência de ofensa constitucional direta, o que inviabiliza o processamento do apelo extremo.
+    Ademais, ressalta-se que o Supremo Tribunal Federal já assentou a inexistência da repercussão geral quando a alegada ofensa aos princípios do devido processo legal, da ampla defesa, do contraditório, da legalidade e dos limites da coisa julgada é debatida sob a ótica infraconstitucional (ARE-RG 748.371, Rel. Min. Gilmar Mendes, DJe 1º.08.2013, tema 660 da sistemática da RG).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, b, do Código de Processo Civil.
+    Incabível a aplicação do disposto no art. 85, § 11, do CPC, nos termos da Súmula 512 do STF.
+    Publique-se.
+    Brasília, 05 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
