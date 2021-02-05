@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por WILLIAN DE SOUZA CARDENEScontra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado do Amazonas.
+Sustenta a defesa, nas razões do recurso especial, violação do art. 33, § 4º, da Lei n. 11.343/2006.
+Aduzque o recorrente faria jus à causa de diminuição da pena prevista no referido dispositivo legal, ressaltando que "possui duas ações penais em curso, todavia, nenhuma dessas com trânsito em julgado" (e-STJ, fl. 248), devendo ser observado, portanto, o princípio da presunção de inocência, com a concessão do benefício.
+Cita precedentes do Supremo Tribunal Federal em defesa da sua tese e salienta que a aplicação do mencionado redutor é direito subjetivo do acusado, de modo que, para ser afastado, exige fundamentação idônea, a qual, no seu entender, não ocorreu na hipótese dos autos.
+Requer o provimento do recurso, "a fim de que seja reconhecida a incidência do § 4º do art. 33, da Lei de Drogas, em razão do preenchimento de todos os requisitos taxativos do dispositivo penal, bem como por não ser possível - à luz do princípio presunção de inocência -utilizar-se ações penais em curso para afastar direito subjetivo à benesse" (e-STJ, fl. 253).
+Apresentadas as contrarrazões (e-STJ, fls. 258-264), o recurso foi inadmitido com fundamento na Súmula 7 do STJ (e-STJ, fls. 265-266). Daí este agravo (e-STJ, fls. 272-281).
+O Ministério Público Federal opina pelo não provimento do agravo (e-STJ, fls. 301-306).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+Consta dos autos que o Tribunal a quo, ao dar provimento à apelação interposta pelo Ministério Público Estadual, afastou a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, mediante a seguinte fundamentação (e-STJ, fls. 220-222):
+" ..  o agente que responde a outra ação penal referente à prática de crime da mesma natureza - tráfico de drogas, não tem direito à aludida minorante, já queresta evidenciada a sua dedicação às atividades criminosas, circunstância essa a ser levada em consideração para obstar a causa de diminuição da reprimenda. Neste sentido, ressalte-se que o Superior Tribunal de Justiça possui entendimento de que ações penais em curso, embora não sirvam para aumentar a pena-base, são perfeitamente aptas para afastar a incidência da minorante, quando indicarem que o agente se dedica a atividades criminosas.
+ ..
+In casu, percebe-se, conforme consulta no SAJ-TJAM, que o recorrido responde a mais 2 (dois) processos criminais, quais sejam: n.0661737-37.2018.8.04.0001 (2ª VECUTE  tráfico e associação ao tráfico) e n.0247544-53.2016.8.04.0001 (6ª vara criminal  Roubo majorado e corrupção de menor).
+Portanto, não faz jus à aludida minorante, por pender em seu desfavor outros processos criminais, dentre os quais um deles refere-se à prática de crimes de mesma jaez - tráfico de drogas, o que demonstra a sua dedicação às atividades criminosas."
+No que tange à pretensão de aplicação da minorante, como é sabido, os requisitos legais para o deferimento da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas são: agente reconhecidamente primário, com bons antecedentes e que não se dedique a atividades criminosas ou integre organização criminosa. Segundo entendimento desta Corte, o mencionado dispositivo legal tem como objetivo beneficiar apenas pequenos e eventuais traficantes, não alcançando aqueles que fazem do tráfico de drogas um meio de vida (AgRg no AREsp 648.408/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 5/10/2015; AgRg no REsp 1423806/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/8/2015).
+Na hipótese, verifica-se que a dedicação dorecorrenteàs atividades criminosas se infere da existência de ações penais em andamento - duas, sendo uma delas pelo mesmo delito - tráfico de drogas e, ainda, associação para o tráfico. Releva salientar que "A Terceira Seção, no julgamento do EResp n. 1.413.091, da relatoria do Ministro Felix Fischer, assentou o entendimento de que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para a formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006""(AgRg no AREsp 1635211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/05/2020, DJe 11/05/2020).
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 619 DO CPP. INOCORRÊNCIA. AUSÊNCIA DE OMISSÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. APLICAÇÃO DA MINORANTE. ATIVIDADE CRIMINOSA. INQUÉRITO POLICIAIS E AÇÕES PENAIS EM CURSO. FUNDAMENTO PARA AFASTAR O PRIVILÉGIO. ERESP N. 1.431.091/SP.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - In casu, o agravante, ao que se observa, muito embora tenha colacionado os motivos de sua irresignação, não logrou refutar a devida prestação jurisdicional e a idoneidade na negativa de aplicação da benesse do art. 33, § 4º, da Lei n. 11.343/2006.
+Agravo regimental desprovido."
+(AgRg no AREsp 1588252/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020, grifou-se).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. LEI N. 11.343/06. CAUSA DE DIMINUIÇÃO DE PENA (§ 4º DA LEI DE DROGAS). DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AÇÃO EM ANDAMENTO. FUNDAMENTAÇÃO IDÔNEA. REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. REGIME FECHADO. NATUREZA DAS DROGAS. WRIT NÃO CONHECIDO.
+ ..
+2. Ação penal em andamento pode evidenciar a dedicação do indivíduo a atividades criminosas e, assim, impedir a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/06, como no caso em análise. Além disso, para se concluir que os pacientes fazem jus a essa causa de diminuição de pena, é necessário o reexame de matéria fática, inviável na via eleita.
+ ..
+4. Habeas corpus não conhecido."
+(HC 554.127/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/02/2020, DJe 02/03/2020, com destaque).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. EXISTÊNCIA DE PROCESSOS CRIMINAIS EM CURSO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS CONFIGURADA. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. No julgamento do EREsp n. 1.431.091/SP, por sua Terceira Seção, esta Corte sedimentou o entendimento de que inquéritos policiais e ações penais em curso, referentes a fatos pretéritos, podem ser utilizados para afastar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por indicarem que o agente se dedica a atividades criminosas.
+2. Agravo regimental improvido."
+(AgRg no HC 510.179/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/10/2019, DJe 18/10/2019).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. FLAGRANTE ILEGALIDADE. SÚMULA N. 444/STJ. MINORANTE DO ART. 33, §4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. CONDENAÇÃO ANTERIOR E PRÁTICA DE NOVO DELITO EM GOZO DO BENEFÍCIO DE LIVRAMENTO CONDICIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Por outro lado, a Terceira Seção desta Corte Superior de Justiça possui entendimento de que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica à atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/06"(EREsp n. 1.431.091/SP, relator Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 14/12/2016, DJe de 1º/2/2017), de maneira que, havendo condenação anterior pelo delito de tráfico e tendo o ora agravante cometido novo delito quando estava em livramento condicional, não há flagrante ilegalidade decorrente da não aplicação da minorante contida no art. 33, § 4º, da Lei n. 11.343/2006.
+4. Agravo regimental desprovido."
+(AgRg no HC 530.329/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/10/2019, DJe 18/10/2019).
+Não há dúvida, portanto, que o acórdão do Tribunal de origem está em consonância com o posicionamento desta Corte, o que atrai a incidência da Súmula 83/STJ.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
