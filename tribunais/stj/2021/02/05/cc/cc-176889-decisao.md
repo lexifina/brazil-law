@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de conflito negativo de competência estabelecido entre a Justiça Federal e a Justiça Estadual nos autos de ação de indenização de seguro adjeto a mútuo habitacional, movido em face da Caixa Econômica Federal - CEF e da Caixa Seguradora S/A.
+O d. Juízo Federal, reconhecendo a ilegitimidade passiva da CEF, declinou da competência em favor da Justiça Estadual (fl. 216).
+Por sua vez, o d. Juízo Estadual, suscitou o presente conflito de competência, sob o fundamentode que,"ao analisar detidamente os autos, verificou a pendência de um recurso dirigido ao TRF da 1º Região, quando por despacho de ID 125463230 determinou o retorno dos autos para a Justiça Federal até o julgamento do apelo aviado contra decisão daquele juízo" e que, contudo,"oDouto juízo informou não haver sentença neste processo e assim, nada a prover, retornando, novamente, os autos a este julgador" (fl. 252).
+É o relatório.
+Passo a decidir.
+Na hipótese em tela, não há propriamente conflito entre as competências da Justiça Federal e da Justiça Estadual, porquanto o d. Juízo suscitante não se declarou incompetente para decidir o mérito dalide, apenas pretende a devolução dos autos para que a Justiça Federal conheça de recurso manejado contra decisão proferida no âmbito da Justiça Federal e ainda não apreciado.
+Logo, não se encontra estabelecido o conflito de competência.
+Noutro passo, a fim de nortear a atividade das instanciasordinárias, verificoque o Plenário do egrégio Supremo Tribunal Federal, no julgamento do RE 827.996/PR, após haver reconhecido a repercussão geral da matéria, assentou o entendimento de que, nos contratos firmados no âmbito do Sistema Financeiro Habitacional - SFH, comvinculaçãoao Fundo de Compensação de Variação Salarial (FCVS - apólices públicas, ramo 66), há interesse jurídico da Caixa Econômica Federal (CEF) na condição de administradora do FCVS.
+Nesse passo consignou que a "competência para processar e julgar demandas desse jaez após a MP 513/2010: em caso de solicitação de participação da CEF (ou da União), por quaisquer das partes ou intervenientes, após oitiva daquela indicando seu interesse, o feito deve ser remetido para análise do foro competente: Justiça Federal (art. 45 c/c art. 64 do CPC), observado o § 4º do art. 1º-A da Lei 12.409/2011".
+A propósito, confira-se a ementada do precedente vinculante:
+Recurso extraordinário. Repercussão geral.
+2. Sistema Financeiro da Habitação (SFH). Contratos celebrados em que o instrumento estiver vinculado ao Fundo de Compensação de Variação Salarial (FCVS) - Apólices públicas, ramo 66.
+3. Interesse jurídico da Caixa Econômica Federal (CEF) na condição de administradora do FCVS.
+4. Competência para processar e julgar demandas desse jaez após a MP 513/2010: em caso de solicitação de participação da CEF (ou da União), por quaisquer das partes ou intervenientes, após oitiva daquela indicando seu interesse, o feito deve ser remetido para análise do foro competente: Justiça Federal (art. 45 c/c art. 64 do CPC), observado o § 4º do art. 1º-A da Lei 12.409/2011. Jurisprudência pacífica.
+5. Questão intertemporal relativa aos processos em curso na entrada em vigor da MP 513/2010. Marco jurígeno. Sentença de mérito. Precedente.
+6. Deslocamento para a Justiça Federal das demandas que não possuíam sentença de mérito prolatada na entrada em vigor da MP 513/2010 e desde que houvesse pedido espontâneo ou provocado de intervenção da CEF, nesta última situação após manifestação de seu interesse.
+7. Manutenção da competência da Justiça Estadual para as demandas que possuam sentença de mérito proferida até a entrada em vigor da MP 513/2010.
+8. Intervenção da União e/ou da CEF (na defesa do FCVS) solicitada nessa última hipótese. Possibilidade, em qualquer tempo e grau de jurisdição, acolhendo o feito no estágio em que se encontra, na forma do parágrafo único do art. 5º da Lei 9.469/1997.
+(RE 827996, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 29/06/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-208 DIVULG 20-08-2020 PUBLIC 21-08-2020)
+É importante salientar que, dado o caráter vinculante de que são providos os acórdãos do Supremo Tribunal Federal exarados sob o manto da repercussão geral, publicado o precedente qualificado, o Juízo que estiver processando provisoriamente o feito deverá, fundamentadamente e com suficiente análise documental a) promover a continuidade da ação ou b) determinar o retorno dos autos ao Juízo/Tribunal Suscitado, a depender do entendimento firmado na Suprema Corte.
+Ante o exposto, não conheço do conflito de competência e determino o retorno dos autos ao d. Juízo Federal suscitante para que dê cumprimento ao acórdão acima assinalado, tudo à luz das provas contidas nos autos originários, bem como para que encaminhe à instancia adequada o recurso pendente de apreciação.
+Publique-se.
+Cumpra-se.
