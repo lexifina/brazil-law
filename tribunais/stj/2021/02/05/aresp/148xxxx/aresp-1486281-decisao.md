@@ -1,0 +1,37 @@
+DECISÃO
+Adriano Sabino da Silva ajuizou ação contra Centrais Elétricas de Santa Catarina S.A. pleiteando, em suma, indenização decorrente de um vazamento de óleo em subestação da ré, que culminou em poluição, sendo o autor lesionado por não poder exercer sua atividade de maricultura.
+A sentença julgou o pedido improcedente (fls. 324-326), condenando a ré ao pagamento por danos materiais sobre a arrecadação das safras de 2012 a 2014, e em danos morais no valor de R$ 30.000,00 (trinta mil reais).
+O Tribunal de Justiça do Estado de Santa Catarina reformou odecisum,julgando improcedente a ação,nos termos assim ementados (fls. 452-453):
+PROCESSUAL CIVIL E RESPONSABILIDADE CIVIL - NULIDADE DA REDISTRIBUIÇÃO RECURSAL - INOCORRÊNCIA
+O juízo prevento é o juízo natural para o julgamento de ações que têm por base a mesma situação fática.
+"Serão reunidos para julgamento conjunto os processos que possam gerar risco de prolação de decisões conflitantes ou contraditórias caso decididos separadamente, mesmo sem conexão entre eles" (CPC, art. 55, § 3º).
+Precedente: IAC n. 0017699-38.2013.8.24.0023, Desa.Maria do Rocio Luz Santa Ritta).
+SUSPENSÃO DOS AUTOS - DESNECESSIDADE - PREJUDICIAL EXTERNA NÃO CARACTERIZADA
+A ação civil pública, ajuizada pelo Ministério Público Federal com o escopo de proteger direito coletivo e transindividual, não constitui prejudicial externa determinante da sus- pensão do presente processo individual, que analisa a responsabilidade civil sob a ótica da teoria do risco criado, bem como as peculiaridades inerentes a cada ofendido e os prejuízos efetivamente comprovados, passando ao largo da discussão atinente à ocorrência ou não de dano ambiental.
+CIVIL E PROCESSUAL CIVIL - VAZAMENTO DE ÓLEO DOS TRANSFORMADORES DA SUBESTAÇÃO DA CE- LESC - MARICULTURA - ATIVIDADE DESENVOLVIDA EM PALHOÇA - ÁREA AFETADA PELO EMBARGO POR A- PENAS 4 DIAS - TEMPO INSUFICIENTE PARA IMPEDIR A EXTRAÇÃO DOS MOLUSCOS - DANOS PASSIVEIS DE INDENIZAÇÃO NÃO EVIDENCIADOS - ÔNUS QUE IN- CUMBIA À AUTORA (CPC/1973, ART. 333, I; NCPC, ART.373, I)
+1 "Se o embargo sobre a área de cultivo de moluscos perdurou por tempo insuficiente - quatro dias - para prejudi- car a safra do autor, e não há comprovação de danos pela invocada queda na comercialização dessa produção - nem mesmo comprovantes de rendimento de safras anteriores -, inviável a caracterização da responsabilidade civil, até por- que a comercialização dos frutos pelos restaurantes não foi atingida pela limitação" (AC n. 0017667-33.2013.8.24.0023,Des. Henry Petry Junior).
+2 Nos termos do art. 333, I, do Código de Processo Civil de 1973, incumbe ao autor a prova do fato constitutivo de seu direito, sob pena de improcedência dos pedidos.
+O dano moral, em regra, não precisa ser provado. O que reclama inequívoca demonstração é o ato lesivo e a sua capacidade de causar gravame ao ofendido. Ausente esta prova ou mesmo a exposição dos correspondentes fatos ju- rídicos, rompe-se o nexo causal e afasta-se a responsabilidade do suposto ofensor.
+A inexistência de documento indispensável à propositura da ação que evidencie concretamente os prejuízos sofridos pelo autor impõe a improcedência do pedido de indenização a título de danos materiais.
+A prova testemunhal, ademais, em casos semelhantes, somente seria admissível se houvesse início de prova documental, pois inviável a produção exclusiva de prova testemunhal para evidenciar ou mensurar os danos materiais sofridos, mormente em se tratando de lucros cessantes.
+Adriano Sabino da Silva interpõerecurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando que seu processo deveria aguardar o julgamento da citada Ação Civil, invocando jurisprudência do STJ que dispõe sobre a necessidade de suspensão dos feitos individuais, inclusive em temas repetitivos.
+Aduz, ainda, violação dos arts. 43, 59 e 976, do CPC/2015, dissertando sobre a competência para o feito e alegando que caso ultrapassado o entendimento acerca da suspensão, o correto seria a instauração do Incidente de Resolução de Demandas Repetitivas.
+Aponta negativa de vigência aos arts. 927 do Código Civil,374 do CPC/2015 e14, §1º, da Lei n. 6.938/1971,invocando seu direito à indenização pleiteada, na medida em que os fatos porele alegados são incontroversos.
+Após a apresentação de contrarrazões (fls. 595-612), o Tribunal de origem inadmitiu o recurso especial (fls. 617-620), tendo sido interposto o presente agravo.
+O Ministério Público Federal opinou pelo improvimento do recurso (fls. 675-679).
+É o relatório. Decido.
+Considerando que o agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+No que diz respeito à pretensão de suspensão da ação, o recorrente não cuidou de apresentar qual dispositivo de lei federal teria sido afrontado pelo decisum, incidindo o recurso no óbice da Súmula n. 284/STF.
+Sobre a alegada violação dos arts.43, 59 e 976, do CPC/2015, assim como os temas neles insertos, verifica-se que o acórdão recorrido nada deliberou a respeito, e sequer houve oposição de embargos de declaração com tal intuito,pelo que carece o recurso do indispensável requisito do prequestionamento, fundamental para a interpretação normativa exigida.
+Incide na hipótese o óbice constante da Súmula n. 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Nas demais alegações de violação de lei federal, relativas à pleiteada indenização, a análise recursal esbarra na vedação da Súmula n. 7/STJ, na medida em que reformar o entendimentoa quoa esse respeitodemandaria incursão na seara fático-probatória dos autos, considerando que fora assim deliberado:
+Em outras palavras, apesar de a petição inicial referir fatos e fundamentos concernentes aos prejuízos sofridos por maricultor, não trouxe qualquer informação acerca do impacto do evento tido por danoso no faturamento dodemandante ou de acontecimentos que subsidiariam o abalo moral passível de 13 indenização.
+Como se vê, de qualquer perspectiva que se analise o caso concreto, não é viável a pretensão pretendida pelo requerente, em razão da deficiência da peça inaugural e do correspondente conjunto probatório.
+Sendo ônus do autor a produção das provas constitutivas do seu direito - no caso, a especificação dos danos sofridos em razão do embargo peloprazo de 4 (quatro) dias -, incabível se torna o reconhecimento da procedênciados pedidos.
+Assim, a sentença há de ser reformada para os pedidos iniciais serem julgados improcedentes.
+O pleiteante, portanto, não comprovou ou sequer alegou quais os prejuízos sofridos em razão do vazamento de óleo da subestação desativada da requerida no bairro da Tapera em novembro de 2012.
+Ademais, a demonstração dos danos patrimoniais deveria ser objeto de prova documental, porquanto configuraria documento indispensável à propositura da ação e, por essa razão, deveria ter acompanhado a petição inicial o (CPC, art. 320, CPC/1973, art. 283).
+Não há como conceber, por fim, a prova exclusivamente testemunhal para fins de comprovação dos danos materiais com o intuito de fundamentar o pedido indenizatório ora analisado.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecerdo recurso especial,implicando, ainda, majoração da verba honorária em 2% sobre o valor arbitrado à fl. 469.
+Publique-se. Intimem-se.
