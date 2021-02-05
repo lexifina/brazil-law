@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por LUCAS DE OLIVEIRA SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por LUCAS DE OLIVEIRA SANTOS, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CRIMINAL. ROUBO MAJORADO. CONDENAÇÃO. MANTIDA. CONTINUIDADE DELITIVA. FRAÇÃO. ALTERAÇÃO.
+1 - Demonstradas satisfatoriamente, a autoria e materialidade dos roubos, mantém-se as condenações. 2 Considerando que foram praticados cinco crimes de roubo em a continuidade delitiva, modifica-se a fração para 1/3 (um terço), conforme entendimento jurisprudencial sedimentado.
+Apelações parcialmente providas,.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 155, 156 e 386, V e VII, do CPP, no que concerne à falta de comprovação de autoria pelo recorrente do crime que lhe foi imputado, trazendo os seguintes argumentos:
+"No presente caso, ao ser ouvido em juízo, o recorrente asseverou que não são verdadeiros os fatos narrados na denúncia. Disse que não tinha conhecimento de que ALEXANDRO MESQUITA DE SOUZA e MATHEUS FIGUEIRA DE OLIVEIRA tinham a intenção de praticar assaltos, tendo apenas lhes dado carona na ocasião dos fatos.
+ ..
+No caso em apreço, a acusação, competia o ônus da prova dos fatos narrados na denúncia, e nada conseguiu provar durante a instrução criminal. Conforme nossa melhor doutrina e jurisprudência dominante, no direito penal da culpa não há espaço jurídico para a presunção de culpabilidade. O ônus processual da prova pertence à acusação e não ao sujeito defesa, que de forma alguma precisa demonstrar a veracidade de suas desculpas, vez que o que impera é a tutela do silencio. Vale dizer, acusado não está obrigado a provar que é inocente.
+Ora, veja que são meros indícios que amparam a condenação e não provas diretas da culpabilidade. Não há prova concreta a ilidir a presunção de inocência.
+ ..
+Por fim, todas as violações acima descritas também acabam por demonstrar, sem sobra de dúvidas, a ofensa ao artigo 386, incisos V e VII do CPP, pois, ao interpretar indícios como provas diretas, acabou-se por construir urna decisão em flagrante violação ao citado dispositivo, transformando onde só há penumbras e incertezas, em fato claro e cristalino" (fls. 863/865).
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado por LUCAS DE OLIVEIRA SANTOS, quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Lucas em juízo contou que encontrou com os acusados na distribuidora quando pediram para levá-los para buscar um dinheiro; que foram até a padaria e pediram para parar na porta, sendo que logo voltaram falando que o rapaz não estava lá; pediram para ir até o Setor Universitário; foram até o supermercado e só soube do roubo quando os acusados voltaram correndo; não viu a arma porque estava dentro da mochila; que fugiu porque os policiais começaram a atirar e ficou com medo (mídia fl. 378).
+Não obstante a tentativa de Lucas eximir-se da responsabilidade penal, aduzindo que não teve participação nas subtrações e que desconhecia a intenção de seus comparsas, sua versão não é crível.
+Confirma-se pelas contradições nas versões dos réus. Observa-se que toda dinâmica apresentada demonstra que sua conduta desde a fase inicial foi de relevância para o sucesso da empreitada, dando fuga a Alexandro e Matheus, que anunciavam os assaltos.
+Dessa forma, deve ser mantida condenação (artigo 157, §2º-A, inciso I, do CP)." (fls. 830/831).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
