@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo CONSELHO REGIONAL DE ENFERMAGEM DO RIO GRANDE DO SUL contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre apresentado pelo CONSELHO REGIONAL DE ENFERMAGEM DO RIO GRANDE DO SUL, fundamentado no art. 105, inciso III, alínea "a" e alínea "c", da CF/1988, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+EXECUÇÃO FISCAL CONSELHO PROFISSIONAL NOTIFICAÇÃO EXIGÊNCIA.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega violação e divergência jurisprudencial quanto à aplicação dos arts. 3º e 6º, § 1º, da Lei n. 6.830/1980, no que concerne à impossibilidade de o juízo exigir, em esfera de execução fiscal, documentação não prevista em lei e à presunção de certeza e liquidez do débito inscrito em dívida ativa e dissídio jurisprudencial, trazendo o(s) seguinte(s) argumento(s):
+Trata-se de evidente desobediência à vigência da Lei nº 6.830/80. Nos termos do artigo 6º, §1º, da LEF, a petição inicial deve somente ser instruída com a Certidão de Dívida Ativa, sendo que esta goza de presunção de certeza e liquidez (art. 3º da LEF).
+Não pode, portanto, o MM. Juízo exigir documentação não prevista em lei, atacando frontalmente a presunção legal.
+ ..
+Consabido, o judiciário somente pode reconhecer ex officio as matérias de ordem pública, sendo que os demais casos somente podem ser alegados pela defesa, sob pena de ferir o princípio da inércia e a própria impessoalidade do Juízo. Sendo assim, a decisão do juízo a quo, que extinguiu a ação por considerar que não houve comprovação do envio da notificação, merece reforma (fl. 174).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+A falta de notificação regular invalida o lançamento, como bem esclarecido na decisão proferida no AREsp 1664450 pelo Ministro João Otávio de Noronha em 19 de março de 2020:
+ ..
+Ao que tudo indica, os carnês não foram remetidos na data oportuna, tendo sido enviada uma notificação, muitos anos mais tarde e cujo conteúdo não se conhece. Assim, por falta de notificação regular, andou bem a sentença ao extinguir a execução.
+Caso o Conselho profissional, instado a comprovar a regularidade da regular notificação, não o faça, está o magistrado autorizado a extinguir o feito por falta de constituição regular do crédito. Nesse sentido já decidiu a PrimeiraSessão dessa Corte (AI n. 5012007-23.2019.404.0000/RS, Rel. Des. Federal Rômulo Pizzolatti, 07.11.2019) - fl. 154-155.
+Aplicável, portanto, quanto às alíneas "a" e "c", o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
