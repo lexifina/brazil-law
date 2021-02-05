@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por ARTHUR FERNANDO DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por ARTHUR FERNANDO DOS SANTOS, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+PENAL. RECEPTAÇÃO. USO DE DOCUMENTO FALSO - CRLV. PRISÃO EM FLAGRANTE. PRINCÍPIO DA CONSUNÇÃO - INAPLICABILIDADE. CONDUÇÃO DE VEÍCULO FURTADO. CIÊNCIA DA ORIGEM ILÍCITA DO BEM. CULPABILIDADE - NEUTRALIDADE DA VETORIAL. PENAS RESTRITIVAS DE DIREITO. PRESTAÇÃO PECUNIÁRIA - VALOR. EXECUÇÃO PROVISÓRIA AUTORIZADA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 386, VII, do CPP, no que concerne à falta de provas suficientes para a condenação do recorrente , trazendo o(s) seguinte(s) argumento(s):
+"Analisando detidamente o acervo probatório, percebe-se que a acusação não conseguiu demonstrar a autoria e o dolo do recorrente para a configuração dos delitos em tela.
+ ..
+Ocorre que o recorrente foi vítima de um golpe. Isto porque Arthur Fernando efetuou a compra da caminhonete por um preço comum no mercado de venda de veículos, considerando que o valor que foi pago é o mesmo que consta na tabela FIPE, conforme bem demonstrado na audiência.
+ ..
+Excelências, caso o recorrente soubesse que o veículo tinha documentos adulterados, bem como que fosse fruto de uma receptação, jamais faria tantas paradas no caminho para, inclusive, visitar familiares.
+ ..
+Esses apontamentos demonstram com toda a clareza que o recorrente não tinha nenhum conhecimento da procedência ilícita do veículo que adquiriu.
+Vale dizer que o Recorrente foi vítima de um golpe, sendo enganado, já que o veículo estava com as mesmas placas que quando da sua apreensão, o documento que lhe foi apresentado pelo vendedor é o mesmo da apreensão, sendo que antes de fechar o negócio, inclusive verificou junto ao site do DETRAN a situação do veículo que estava regular" (fls. 333/335).
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado por ARTHUR FERNANDO DOS SANTOS, quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Na espécie, o réu foi flagrado conduzindo veículo proveniente de crime, sem que a Defesa tenha apresentado qualquer prova acerca da origem lícita do bem.
+Ao contrário, a versão apresentada pelo acusado, no sentido de ter comprado o veículo não é crível. Veja-se que o réu alegou ter adquirido o automóvel (camionete Mitsubish L200 Triton - ano 2012) mediante pagamento de R$ 5.000,00 reais, como entrada, e o restante em parcelas mensais de R$ 1.200,00 (60 parcelas do financiamento), para um veículo com valor de mercado aproximado de R$ 70.000,00. Não obstante, declarou ter renda mensal por volta de R$ 1.700,00 (ev. 57 - TERMOAUD1) e não ter recibo do pagamento ou qualquer outro documento a comprovar a negociação. Também não soube informar o nome do vendedor ou outros dados de identificação, nem mesmo telefones de contado ou eventual comprovante das tratativas.
+Registro, por pertinente, ser inusual no comércio de veículos que se faça a venda sem qualquer documentação, seja mediante preenchimento do DUT - documento único de transferência, seja mediante contrato simples ou mesmo por procuração outorgada pelo antigo proprietário ao efetivo vendedor.
+Do caderno probatório exsurge, assim, não demonstrada a origem lícita do bem, pelo contrário.
+Diante do exposto, não merece reparos o decisum, ao concluir no sentido de que ARTHUR tinha consciência de estar conduzindo veículo de origem ilícita, como se extrai de todas as circunstâncias fáticas acima retratadas.
+Demonstrado no caderno processual, portanto, que a conduta do réu está perfeitamente adequada ao tipo imputado, a conseqüência devida é sua condenação pelo delito descrito no tipo 180, caput, do Código Penal" (fls. 274/275).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal no propósito de infirmar as conclusões do acórdão recorrido demandaria, a toda evidência, o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
