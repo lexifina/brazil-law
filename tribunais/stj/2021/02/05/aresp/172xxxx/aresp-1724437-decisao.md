@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo interposto por Docilia Cunha Faustinocontra a decisão que inadmitiu o recurso especial fundando no art. 105, III, a e c, da Constituição Federal.
+Na origem, Docilia Cunha Faustino,pensionista de ex-ferroviário da extinta FEPASA - Ferrovia Paulista S/A, ajuizou ação ordinária contra a Fazenda Pública do Estado de São Paulo, tendo como objetivo obter o reajuste de sua pensãoem14% a partir de 1/5/2003, bem como as diferenças corrigidas, respeitada a prescrição quinquenal.
+Deu-se à causa o valor de R$ 65.500,00 (sessenta e cinco mil e quinhentos reais) em maio de 2019.
+A sentença julgou procedente o pedido.
+O Tribunal de Justiça do Estado de São Paulo deu provimento ao recurso estadual, em acórdão assim ementado(fls. 354):
+ORDINÁRIA. COMPLEMENTAÇÃO DE APOSENTADORIA. FEPASA Pensionista. Pretensão ao reajuste de 14%, conforme sentença normativa proferida no Dissídio Coletivo TST- DC-92590/2003. PRESCRIÇÃO DO FUNDO DE DIREITO. INEXISTÊNCIA. Em se tratando de relações de trato sucessivo, aplica-se a Súmula STJ nº 85. INADMISSIBILIDADE, todavia, de extensão à autora que têm como paradigma os ferroviários da CPTM e não da RFFSA. Enunciado nº 10 da Seção de Direito Público. Precedentes desta C. Câmara e Corte de Justiça. Improcedência da ação decretada por este Colegiado. Honorários recursais ora fixados. Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fls. 366-369).
+Contra a decisão cuja ementa se encontra acima transcrita, Docilia Cunha Faustino interpôs o presente recurso especial, apontando violação dos arts. 1.013, §§ 1º e 2º, e1.022, II, do CPC/2015, alegando omissão no julgado.Aduz ainda violação doart. 947, § 3º, do CPC/2015.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido às fls. 386-408.
+Após decisum que inadmitiu o recurso especial, por ausência de violação do art. 1022, II, do CPC/2015 e incidência da Súmulan. 7/STJ, foi interposto o presente agravo, tendo arecorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2.015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que aagravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+A respeito da apontada contrariedade aos arts. 1.013, §§ 1º e 2º, e 1.022 do CPC/2015, sem razão a recorrente a esse respeito, tendo o Tribunal a quo decidido a matéria de forma fundamentada, analisando todas as questões que entendeu necessárias para a solução da lide.
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação da embargante diante dos fundamentos adotados pela decisão, o que não viabiliza o referido recurso.
+Ademais, em sede de embargos de declaração, o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+Assim, descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. BENEFÍCIO DE GRATUITA DA JUSTIÇA. DECLARAÇÃO DE POBREZA. COMPROVAÇÃO DE CAPACIDADE DE ARCAR COM AS CUSTAS DO PROCESSO. MULTA. LITIGÂNCIA DE MÁ-FÉ. ART. 4º, § 1º, DA LEI 1.060/50. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgInt no REsp 1625513/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/02/2017, DJe 08/02/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Configura erro grosseiro a interposição de agravo regimental em face de decisão colegiada, de modo que não é cabível a aplicação do princípio da fungibilidade recursal para conhecer do recurso como embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AgRg no REsp 958.813/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/02/2017, DJe 13/02/2017.)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação da embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+No mais, oacórdão resolveu a questão nos seguintes termos (fls. 357-358):
+(..)
+A Lei Estadual nº 9.343/96, em seu artigo 4º, §§ 1º e 2º, deixou expressamente consignado o seguinte:
+"Art. 4º - Fica mantida aos ferroviários, com direito adquirido, a complementação dos proventos das aposentadorias e pensões, nos termos da legislação estadual específica e do Contrato de Trabalho 1995/1996.
+§ 1º - As despesas decorrentes do disposto no caput deste artigo serão suportadas pela Fazenda do Estado, mediante dotação própria consignada no orçamento da Secretaria de Estado dos Negócios do Transporte.
+§ 2º - Os reajustes dos benefícios das complementações e pensões a que se refere o caput deste artigo serão fixados, obedecendo os mesmos índices e datas, conforme acordo ou convenção coletiva de trabalho, ou dissídio coletivo, na data base da respectiva categoria dos ferroviários."
+Nesta linha, os reajustes salariais conferidos aos trabalhadores da ativa podem ser estendidos aos pensionistas e inativos, desde que o parâmetro adotado seja a equivalência com a categoria dos ferroviários do Estado de São Paulo.
+Destarte, o direito existe apenas com relação aos reajustes concedidos aos trabalhadores da CPTM, vez que é nesta companhia que os ferroviários paulistas exercem seus trabalhos.
+Nesse sentido, consolidou-se o enunciado nº 10 do Centro de Apoio ao Direito Público - CADIP, que dispõe: "Os ferroviários daextinta FEPASA têm como parâmetro de complementação a equivalência com os servidores da CPTM".
+Dessa forma, tendo em vista que o Dissídio coletivo de 2003 tem como objeto a concessão de abono salarial aos funcionários da RFFSA, não há que se falar na sua extensão aos servidores da extinta FEPASA, como é o caso da autora.
+(..)
+Verifica-se que a questão demanda a análise da lei local, providência vedada em sede de recurso especial. Desse modo, aplicável, por analogia, o enunciado da Súmula n. 280, do STF, segundo o qual por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial.
+Nesses termos:
+ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DA SUMULA 280 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Verificar a violação apontada ao art. 1º da Lei Complementar Federal 51/1985 demanda a análise de lei local (Lei Complementar Estadual 1.062/2008), o que não é adequado em Recurso Especial (Súmula 280 do STF).
+2. Fica prejudicada a análise da divergência jurisprudencial, uma vez que a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional. Precedentes do STJ.
+3. Recurso Especial não conhecido.
+(REsp 1672416 / SP, 2017/0104622-0, Rel. Ministro Herman Benjamin, julgado em 05/09/2017, DJe 13/09/2.017)
+Ademais, ainda que assim não fosse, a interpretação de dispositivos legais que exija o reexame dos elementos fático-probatórios não é viável em sede de recurso especial, em vista do óbice contido no enunciado n. 7 (a pretensão de simples reexame de prova não enseja recurso especial) da Súmula do STJ.
+No mais,acompetência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Nesse contexto, apresenta-se impositiva a indicação do dispositivo legal que teria sido contrariado pelo Tribunal a quo, sendo necessária a delimitação da violação do tema insculpido no regramento indicado, viabilizando assim o necessário confronto interpretativo e o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Da mesma forma, fica inviabilizado o confronto interpretativo acima referido quando o recorrente, apesar de indicar dispositivos infraconstitucionais como violados, deixa de demonstrar como tais dispositivos foram ofendidos.
+Nesse diapasão, verificado que o recorrente deixou de explicitar os motivos pelos quais consideraria violada a legislação federal, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. VIOLAÇÃO DO ART. 557, § 1º, DO CPC/73. INEXISTÊNCIA. SÚMULAS 282, 356 E 284 DO STF.
+1. Não há de se falar de violação do art. 557, § 1º, do CPC/73 quando o colegiado mantém a decisão por não haver comprovação de efetivo prejuízo da parte.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 461.849/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 2/5/2017, DJe 5/5/2017.)
+PROCESSUAL CIVIL. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRIMEIROS QUINZE QUE ANTECEDEM O AUXÍLIOS DOENÇA OU ACIDENTE. FALTA DE INTERESSE RECURSAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF.
+1. O Tribunal de origem concluiu pela não incidência de contribuição previdenciária sobre a importância paga pelo empregador ao empregado durante os primeiros quinze dias de afastamento por motivo de doença ou acidente. Dessa forma, ausente o interesse recursal quanto ao ponto.
+2. Não se conhece do pedido de compensação em razão da deficiência da fundamentação. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF". (AgRg no REsp n. 919.239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007.)
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.595.285/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 6/10/2016, DJe 17/10/2016.)
+Por fim,com relação ao dissídio jurisprudencial apontado, verifica-se que arecorrenteapenas transcrevetrechos de julgados que, no seu entender, teriam divergido do entendimento esposado pela Corte de origem, sem realizar o necessário cotejo analítico entre os mencionados paradigmas e o aresto recorrido. Assim, não foram evidenciadas as circunstâncias que identifiquem ou assemelhem os casos confrontados, não tendo sido devidamente demonstrada a suposta divergência jurisprudencial alegada pela defesa.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Aplica-se o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), pelo que, majoro em um ponto o percentual já fixado, relativo aos honorários advocatícios, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso.
+Publique-se. Intimem-se.
