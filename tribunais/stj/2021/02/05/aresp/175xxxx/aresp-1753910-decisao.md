@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por JORNAL DO OESTE LTDA - EPP eWALDEMIRO MERLO, contra decisão do Tribunal de Justiça do Estado do Paraná, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. CUMPRIMENTO DE SENTENÇA. MULTA CIVIL. APLICAÇÃO EM FACE DE PARTICULAR. CABIMENTO. LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURADA. RECURSO CONHECIDO E DESPROVIDO" (fl. 218e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante apontaviolação aoartigo12, III, da Lei8.429/92,sustentando que "oTJPR contrariou norma federal ao manter a aplicação da multa civil a quem não fora condenado a tanto, porque a sentença da improbidade destacou que as penas do art. 12 seriam aplicadas "na medida de suas particularidades"(é dizer: na medida das particularidades de cada réu). Essa frase não pode ficar sem sentido, devendo entender - se que a condenação (inclusive em homenagem ao princípio do in dubio pro reo) da multa civil somente atinge o agente público réu da improbidade" (fl. 241e).
+Contrarrazões a fls. 254/257e.
+Inadmitido o Recurso Especial, foi interposto o presente Agravo.
+A irresignação não merece prosperar.
+Acerca da presente controvérsia, o Tribunal de origem assim se manifestou:
+"De fato, algumas sanções previstas na Lei 8.429/92 só fazem sentido quando aplicadas a determinadas pessoas, como é o caso da sanção de perda de cargo ou função pública, que não é possível de ser aplicada a particulares. Entretanto, isto não ocorre quando da aplicação da multa civil, prevista no art. 12, III, da Lei de Improbidade Administrativa.
+(..)
+Ainda, quando se aplica a multa civil à particular, deve-se utilizar a remuneração do agente público envolvido como parâmetro para a fixação do valor da multa, que pode ser estabelecida em até cem vezes o valor da remuneração percebida pelo agente. Veja-se:
+(..)
+Portanto, quando a r. sentença determinou o pagamento de multa civil em vinte vezes o valor da maior remuneração percebida pelo requerido Derli Antônio Donin à época dos fatos, apenas utilizou-se da remuneração do agente público como parâmetro para fixação da multa. Logo, equivocada a interpretação dos Agravantes de que apenas o Sr. Derli Antônio Donin estaria condenado ao pagamento da referida multa.
+Ademais, não há o que se falar em ofensa à coisa julgada pela decisão agravada, posto que, embora não tenha constado o nome dos agravantes na condenação do acórdão, este confirmou a decisão de primeiro grau, logo, não houve alteração quanto a condenação imposta na r. sentença" (fls. 221/222e).
+Assim, a alteração do entendimento do Tribunal de origem, no sentido de que teria ocorrido a condenação ao pagamento de multa civil na sentença, acatando as alegações recursais em sentido contrário, ensejaria, inevitavelmente, a comparação entre peças processais, procedimento vedado, pela Súmula 7 desta Corte.
+Nesse sentido, "a pretensão que enseja a necessária comparação entre peças processuais, com o cotejo entre o disposto no título executivo judicial e as conclusões do acórdão recorrido, encontra óbice na Súmula 7/STJ. Precedentes" (STJ, EDcl no REsp 1.265.835/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 23/04/2013).
+Ademais, tal fundamento de inexistência de ofensa à coisa julgadanão foi impugnado, de forma específica, pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a,do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
