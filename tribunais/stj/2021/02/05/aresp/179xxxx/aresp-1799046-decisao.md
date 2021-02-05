@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLEYTON DA COSTA MONTEIRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ACRE, assim resumido:
+PENAL PROCESSO PENAL APELAÇÃO CRIMINAL ROUBO MAJORADO DUAS VEZES RECONHECIMENTO DA CONTINUIDADE DELITIVA INADMISSIBILIDADE CRIMES AUTÔNOMOS VÍTIMAS E MOMENTOS DISTINTOS 1 INVIÁVEL O RECONHECIMENTO DA CONTINUIDADE DELITIVA SE OS DELITOS FOREM AUTÔNOMOS PRATICADOS CONTRA VÍTIMAS DISTINTAS EM MOMENTOS E CIRCUNSTÂNCIAS DIFERENTES 2 APELO CONHECIDO E DESPROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 71 do Código Penal, no que concerne à aplicação da continuidade delitiva na pena, trazendo os seguintes argumentos:
+Como visto, o Tribunal de Justiça do Acre negou provimento ao Recurso de Apelação interposto pela Defesa, por unanimidade, que pleiteava a aplicação da continuidade delitiva na pena do ora recorrente. Ocorre que a tese ratificada pelo Tribunal de Justiça viola diretamente o que dispõe o artigo 71, ambos do Código Penal, visto que a argumentação utilizada incorre em um ato no qual o magistrado a quo fundamentou injustificadamente em sua respeitável sentença, os motivos que o levaram a elevar a pena acima do seu patamar mínimo legal. O magistrado, ao prolatar a sentença, condenou o ora recorrente pela prática de 02 crimes de roubo, reconhecendo o instituto do concurso formal, e posteriormente, o condenou por mais dois roubos, com aplicação do concurso formal, onde, ao final, realizou aplicação do concurso material material em relação aos crimes de roubo, somando com o furto e porte de arma de fogo. (fls. 215).
+No caso em tela, os delitos foram praticados pelo mesmo modo de execução, arma de fogo e concurso de pessoas. O crime continuado é uma ficção jurídica, criada pela lei. Na realidade há uma pluralidade de delitos, mas o legislador, por uma ficção, presume que eles constituem um só crime, apenas para efeito de sanção penal. Assim, não deve prevalecer a sentença fixada, que aplicou 30 anos e 08 meses de reclusão. (fls. 215).
+Assim, impõe-se a diminuição da pena em favor do ora recorrente, em relação aos crime de roubo, reconhecendo-se que foram praticados em continuidade delitiva. Logo, deve - se reconhece um crime de roubo e aplicar o aumento decorrente da continuidade delitiva, e não aplicar a regra do concurso formal duas vezes e depois somá-las. (fls. 216).
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Os fatos imputados ao Recorrente correspondem com o disposto no concurso material de crimes, caracterizado pela pluralidade de condutas e de resultados, sendo irrelevante se os fatos ocorreram ou não no mesmo contexto fático.
+O Juízo Primevo assim reconheceu o Concurso Material - fls. 137/141:
+ ..
+Pois bem.
+Não se pode confundir habitualidade criminosa com continuidade delitiva.
+ ..
+Com efeito, os delitos foram praticados em desfavor de vítimas diferentes, em locais distintos e de forma autônoma, dessa forma, não há que falar em unidade de desígnios, o que rechaça a incidência do crime continuado. (fls. 197/199)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
