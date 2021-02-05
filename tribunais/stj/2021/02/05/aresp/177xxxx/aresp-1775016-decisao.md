@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de dois agravos interpostos por MAX ANI MENDES e EMERSON JULIO RIBEIRO e OUTROS, contra decisão que inadmitiu recursos especiais com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos recursos de MAX ANI MENDES e EMERSON JULIO RIBEIRO e OUTROS, os recursos especiais foram protocolados na origem com irregularidade no recolhimento dos respectivos preparos.
+Ainda, percebido, no Tribunal de origem, haver essa irregularidade no recolhimento dos preparos, as partes foram intimadas para regularizarem o vício. Porém, apesar de suas manifestações, os preparos ainda restaram irregulares, tendo em vista um equívoco na fundamentação do despacho de regularização.
+Na verdade, não tendo as partes comprovado o recolhimento do preparo no ato de interposição dos recursos, como ocorreu no caso, o Tribunal de origem deveria ter intimado as partes para efetuarem o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+Sendo assim, foi percebido esse equívoco no STJ, que determinou nova intimação das partes nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanarem, no prazo de cinco dias, o vício apontado, complementando o recolhimento das custas.
+Porém, as partes quedaram-se inertes. Dessa forma, os recursos especiais não foram devida e oportunamente preparados, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção dos recursos.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor das partes recorrentes, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço dos recursos.
+Publique-se. Intimem-se.
