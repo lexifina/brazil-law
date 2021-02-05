@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por Benedito Jorge Camargocontra a decisão que inadmitiu o recurso especial fundando no art. 105, III, a, da Constituição Federal.
+Na origem, Benedito Jorge Camargo, ex-servidor público municipal, ajuizou ação ordinária contra Município de São José dos Campos, objetivando a anulação do ato administrativo que culminou com a penalidade de sua demissão do serviço público, bem como a sua reintegração ao cargo que ocupava e o recebimento dos vencimentos em atraso, desde a data do ato demissionário até a sua efetiva reintegração.
+A sentença julgou o pedido inicial improcedente.
+Deu-se à causa o valor de R$ 40.000,00 (quarentamil reais) em agosto de 2018.
+O Tribunal de Justiça do Estado de São Paulomanteve a sentença, em acórdão assim ementado (fl. 891):
+SERVIDOR MUNICIPAL. Afastada a pretensão do autor de anular o ato administrativo de demissão do cargo para o qual foi aprovado por meio de concurso público, uma vez que regular o processo administrativo instaurado para esse fim. Precedentes. Ação improcedente. Sentença mantida. RECURSO DESPROVIDO.
+Opostos embargos de declaração, foram estes rejeitados (fls. 958-964).
+No presente recurso especial, o recorrenteapontaviolação dos arts. 489, II, e 1022,doCPC/2015, sustentando, em síntese, que o acórdão recorrido deixou de se manifestar sobre questão essencial ao deslinde da controvérsia.
+Sustentam ainda violação dos arts.5º, LV e 93, IX, da CF, aduzindo para tanto cerceamento do direito de defesa.
+Contrarrazões apresentadas às fls. 978-989.
+Após decisão que inadmitiu o recurso especial, por inexistência de violação do art. 489, II, e 1022 do CPC/2015, foi interposto o presente agravo, tendo orecorrenteapresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma de novo CPC".
+Considerando que oagravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrouimpugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+De início, da análise do acórdão, no que tange à indicada violação dos arts. 489, II, e 1022, do CPC/2015, não se vislumbra a alegação de que o acórdão recorrido não se manifestou acerca de pontos tidos como essenciais para o julgamento da lide.
+De acordo com a orientação do Superior Tribunal de Justiça, os embargos de declaração destinam-se a suprir eventual omissão, obscuridade ou contradição, não tendo o Órgão Julgador a obrigação de se manifestar expressamente acerca de todos as disposições legais que as partes entendam ser aplicáveis, devendo, é claro, motivar suas decisões, de maneira fundamentada.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME PROBATÓRIO. SÚMULA 7/STJ. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada, tal qual se constata no caso concreto.
+3. A análise da tese recursal que busca afastar a aplicação da Súmula 106/STJ demanda incursão na seara probatória, o que não é cabível na via especial. Incidência da Súmula 7/STJ.
+4. Esta Corte Superior possui entendimento de que a existência de penhora no rosto dos autos do processo falimentar impõe à Fazenda Pública a paralisação do executivo fiscal até que se verifique a possibilidade de satisfação do crédito, sem que essa paralisação seja imputada à inércia do ente público.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 600.416/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017.)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+No mais,quanto ao dispositivo constitucional citado, é cediço que não cabe ao STJ a análise de suposta violação a dispositivos constitucionais, ainda que para fins de prequestionamento, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do STF, consoante disposto no art. 102, III, da Constituição Federal. Nesse sentido: AgInt no REsp 1604506/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp 1611355/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/2/2017, DJe de 24/2/2017.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, na parte conhecida, negar-lhe provimento.
+Aplica-se o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), pelo que, majoro em um ponto o percentual já fixado, relativo aos honorários advocatícios, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso.
+Por ser o autor beneficiário de AJG, os valores de sucumbência a cargo dele só poderão ser exigidos com a comprovação de que deixou de existir a situação de insuficiência de recursos que justificou a concessão de gratuidade, nos termos do art. 98, §3º, do CPC/2015.
+Publique-se. Intimem-se.
