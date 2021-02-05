@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, em que foram majorados os honorários recursais de 10% para 15%, com base na importância discutida e na complexidade da causa.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente apontou, além de dissídio jurisprudencial, a violação ao art. 85, caput, § 2º, 4º e § 11, do CPC/2015, sustentando, em síntese, que a verba honorária recursal foi majorada de forma desproporcional pelo Tribunal de origem, ao negar provimento ao recurso de apelação, pois deveria se ater à diferença devolvida pelo recurso ao Tribunal.
+É o relatório. Decido.
+O recurso não comporta seguimento.
+O Juízo de primeira instância fixou os honorários advocatícios em 10% (dez por cento) sobre o valor da condenação. Por sua vez, o Tribunal de origem majorou os honorários sucumbenciais para o patamar de 15% (quinze por cento), em obediência ao § 11 do art. 85 do CPC/2015.
+Com efeito, o valor atribuído à causa foi de R$ 44.524,91 (quarenta e quatro mil, quinhentos e vinte e quatro reais e noventa e um centavos), montante que é inferior a 200 (duzentos) salários mínimos. Diante disso, a condenação sucumbencial deve estar enquadrada entre 10% (dez por cento) e 20% (vinte por cento), nos termos do § 3º do art. 85 do CPC/2015.
+Mesmo após a majoração da verba sucumbencial para o patamar de 15% (quinze por cento), em virtude do disposto no § 11 do art. 85 do CPC/2015, o Tribunal de origem fixou os honorários advocatícios dentro do intervalo percentual permitido pelo inciso I do § 3º do art. 85 do CPC/2015, qual seja, entre 10% (dez por cento) e 20% (vinte por cento), levando-se em consideração a complexidade fática e jurídica do caso em concreto.
+O Superior Tribunal de Justiça tem pacificado o entendimento de que a majoração ou diminuição do valor relativo aos honorários advocatícios, consubstanciada na tese de que houve condenação em valor fora dos parâmetros legais, requer a apreciação de critérios legais primordialmente factuais, quais sejam: o grau de zelo profissional, o lugar da prestação do serviço, a natureza da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+Dessa forma, para rever tal posição e interpretar o dispositivo legal indicado como violado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o Enunciado Sumular n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
