@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a" da CF/1988, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL.
+CONCESSÃO DO BENEFÍCIO. CARÊNCIA CUMPRIDA. COMPROVADA A ATIVIDADE RURAL. PROVA MATERIAL NO PERÍODO DE CARÊNCIA. CARTEIRA DE TRABALHO E PREVIDÊNCIA SOCIAL.
+AGRAVO PROVIDO.
+- A agravante colacionou registros em Carteira de Trabalho e Previdência Social - CTPS, corroborados pelo extrato do Cadastro Nacional de Informações Sociais - CNIS indicando vínculos rurais, em interregnos intermitentes a partir de 18 de dezembro de 1972, sendo o mais recente de 15 de agosto de 2002 até 15 de janeiro de 2015, totalizando período de atividade rural superior a 180 meses.
+- As anotações de contratos de trabalho insertas em Carteira de Trabalho e Previdência Social - CTPS gozam de presunção juris tantum de veracidade e se erigem em prova plena do desempenho do labor no período lá assinalado, de maneira a prevalecerem as averbações nela contidas até inconteste demonstração em sentido adverso (Enunciado TST n.º 1 2).Ademais, responde o empregador pelo recolhimento das contribuições previdenciárias, cumprindo ao trabalhador, tão somente, a demonstração dos vínculos laborais.
+- Agravo provido.
+Alega violação dos arts. 48, 24, 25,11 e 27 da Lei n. 8.213/1991, no que concerne à não possibilidade de se computar o período de auxílio-doença como período de carência, trazendo o(s) seguinte(s) argumento(s):
+Não é plausível computar o tempo em beneficio por incapacidade como carência, mas tão somente como tempo de serviço e, como se verá, como tempo em que será considerado como salário de contribuição no interregno, o salário de beneficio que serviu para o cálculo do beneficio (fls. 251).
+É inconcebível que se compute o período de usílio- I)oença/Aposentadoria por Invalidez como carência, tendo cm conta que no período não há contribuição do segurado, mas tão somente percepção dc beneficio pago pela autarquia (fls. 252).
+Em nenhum momento a lei afirma que o período afistado é salário de contribuição. O que faz é considerar salários -de -contribuição o salário -de -beneficio que serviu de base para o cálculo do beneficio, O termo "considerar como" não é o mesmo que afirmar que o salário de beneficio durante a incapacidade é salário de contribuição. Neste momento a lei se refere a cálculo, de modo que para fins de cálculo. considera-se no interregno, por ficção, o salário de beneficio como se fosse salário de contribuição. A finalidade está na contagem do tempo de incapacidade como tempo de sers iço, contudo não valendo como tempo de contribuição, muito menos como carência (fl. 253).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula n. 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
