@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELEANDRO CASTRO DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CRIME - RESISTÊNCIA E DESACATO - ARTIGOS 329 E 331 DO CÓDIGO PENAL - PLEITO ABSOLUTÓRIO DE AMBOS OS CRIMES ANTE A INSUFICIÊNCIA PROBATÓRIA - NÃO ACOLHIMENTO - MATERIALIDADE E AUTORIA DELITIVA DEVIDAMENTE COMPROVADAS - PALAVRAS DOS POLICIAIS HARMÔNICAS E COESAS E EM CONSONÂNCIA COM AS DEMAIS PROVAS DOS AUTOS - DOLO DEMONSTRADO RECURSO CONHECIDO E DESPROVIDO
+Quanto à controvérsia, alega violação dos arts. 329 e 331 do Código Penal, e art. 386, II e VII, do CPP, no que concerne à absolvição do recorrente em razão da ausência de provas suficientes para comprovação dos delitos de resistência e desacato, trazendo o(s) seguinte(s) argumento(s):
+No presente caso, o V. Acórdão contraria o princípio do in dúbio pro reo, ao ponto que sequer existem provas suficientes para manutenção da condenação e documentos comprobatórios acerca da existência do fato, eis que, conforme exaustivamente explanado nas razões recursais da apelação criminal o recorrente há insuficiência probatória nos autos. (fls. 739).
+No presente caso, inexiste nos autos provas suficientes para comprovar os delitos de resistência e desacato, haja vista que para configuração do primeiro, é necessário que o recorrente tenha se oposto à execução do ato legal mediante violência, com o emprego de força física, ou de ameaça e para a configuração do segundo é imprescindível a materialização, da vontade livre e consciente do agente em desrespeitar ou menosprezar a equipe policial, o que não ocorreu. (fls. 739).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+ ..
+In casu, restou comprovado pelos depoimentos dos milicianos que o réu, por meio de ofensas buscou desqualificar os policiais e colocá-los em uma situação vexatória no momento em que utilizavam meios proporcionais e adequados para desempenhar a sua função de resguardar a segurança dos presentes no local. Ao se referir aos agentes de segurança como "porcos" o réu inegavelmente tinha o dolo específico de humilhá-los, logo, não há que se falar em absolvição nesse caso. (fl. 722)
+ ..
+Desse modo, sendo robustas as provas, não há como acolher o pleito de absolvição dos crimes de resistência e desacato. (fl. 723)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
