@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA SONIA DA SILVA MACHADO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO APOSENTADORIA PROCESSUAL CIVIL AUXÍLIO POR INVALIDEZ INCAPACIDADE TEMPORÁRIA LAUDO PERICIAL REQUISITOS PREENCHIDOS BENEFÍCIO BENEF ÍCIO DE AUXÍLIODOENÇA DEVIDO DESCONTO DO NOS PERÍODOS EM QUE AUTORA TRABALHOU INDEVIDO CORREÇÃO MONETÁRIA JUROS DE MORA HONORÁRIOS ADVOCATÍCIOS APELAÇÃO DO INSS PROVIDA EM PARTE RECURSO ADESIVO PROVIDO EM PARTE.
+Quanto à controvérsia, alega violação dos arts. 42 e 59 da Lei n. 8.213/91, no que concerne à concessão de benefício previdenciário em razão de incapacidade, trazendo o(s) seguinte(s) argumento(s):
+Todavia, como se constata nestes autos, a Recorrente comprovou através das Perícias Médicas Judiciais, bem como nos Atestados e Receituários Médicos, bem como de Exames Médico colacionados aos autos que está totalmente incapacitada, principalmente, para desempenhar sua atividade habitual fazendo jus, portanto, a percepção da aposentadoria por invalidez.
+ ..
+Neste passo, importante considerar a atividade habitual da Recamara (trabalho braçal) e o seu nível sécio econômico e cultural (analfabeta); eis que, diante das patologias apresentadas, a Recorrente não conseguirá retomar ao concorrido mercado de trabalha (fls. 451-458).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, a autora, operadora de produção, nascida em 1960, alega estar totalmente incapacitada para o trabalho.
+A perícia médica judicial com especialista em ortopedia, realizada em 7/5/2014, atestou que a autora não está inválida conquanto portadora de alguns males (burso e tendinopatia).
+Segundo o experto, a autora apresenta incapacidade parcial e temporária para atividades laborativas pesadas e repetitivas, inclusive para sua atividade habitual (ti 143/146).
+A perícia médica com especialista em psiquiatria, realizada em 15/12/2014, atestou que a autora estava total e temporariamente incapacitada para o trabalho, em razão de quadro depressivo recorrente grave (f. 196/199).
+O perito esclareceu: "Do exame constata-se ser a examinada em tela portadora de doença mental do grupo das doenças afetivas, especificamente Quadro Depressivo Recorrente Grave (CID 10 - F33.2), estando comprometida sua capacidade laborativa para toda e qualquer função, porém temporariamente de acordo com a evolução do quadro, tendo início a incapacidade atual a partir do ano de 2012, sendo sugerido, frente ao exame, um período de 02 (dois) anos de licença saúde a partir deste exame pericial e reavaliação pericial após este período e manutenção de seu tratamento psiquiátrico".
+Ou seja, ao menos por ora, afigura-se possível a reversão do quadro clínico da autora.
+Assim, não patenteada a incapacidade total e definitiva para quaisquer serviços, não é possível a concessão de aposentadoria por invalidez. (fl. 402).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
