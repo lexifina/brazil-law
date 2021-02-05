@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SUL AMÉRICA COMPANHIA DE SEGURO SAÚDE à decisão de fls. 379/380, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No entanto, excelência, não foi observado que a embargante no momento da interposição do ARESP veio SIM ABORDAR A QUESTÃO DA TEMPESTIVIDADE, VEJA-SE:
+ ..
+Permissa vênia , DD. Julgador, o ilustríssimo ministro relator veio a ser omisso vez que a embargante veio comprovar sim a regular tempestividade do recurso no momento da sua interposição. (fl. 383)
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, o que define a aplicação do CPC de 2015 é a data de intimação do decisum recorrido, que, no presente caso, ocorreu na vigência do novo código.
+Nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Consta dos autos (fl. 373) que a parte registrou ciência da decisão que negou seguimento ao recurso especial no dia 4/6/2020. Realizada a "consulta" no dia 4/6/2020, considera-se efetivamente intimada a parte no dia 5/6/2020 (art. 231, V, do CPC). Exclui-se o dia 5/6/2020, primeiro dia do prazo (art. 224 do CPC), prosseguindo-se na contagem de 15 dias úteis a partir de 5/6/2020, primeiro dia da efetiva contagem do prazo.
+Dessa forma, o prazo recursal de 15 dias úteis (art. 994, VI e VIII, c/c os arts. 1.003, § 5º, 1.029, 1.042, caput, e 219, caput, todos do CPC) terminou em 26/6/2020, mas o recurso foi interposto somente em 29/6/2020.
+O STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.)
+É certo que os feriados nacionais não precisam ser comprovados. Porém, o dia 11/6/2020 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Além disso, não há nenhum documento do tribunal de origem certificando a data final para a interposição do recurso, conforme alegado pela parte ora embargante. O andamento ou expediente a que o embargante faz referência à fl. 335 do seu agravo, deveria ter sido juntado no ato da interposição do recurso a fim de demonstrar que o recurso era tempestivo, o que de fato não ocorreu.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
