@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Viviane Gonçalves Cassetari Correa Saraiva, indicando-se como autoridade coatora o Desembargador do Tribunal de Justiça de São Paulo, que indeferiu o pedido liminar no HC n. 2061951-63.2020.8.26.0000, mantendo incólume a segregação cautelar.
+Narram os autos que a paciente foi presa em razão de decreto de prisão preventiva, juntamente com outros acusados, nos autos da Ação Penal n.1513024-07.2019.8.26.0050, em curso na 16ª Vara Criminal da comarca da Capital/SP, pela prática dos crimes dos arts. 158, §§ 1º e 3º, e 288, parágrafo único, do Código Penal, por terem extorquido as vítimas mediante o uso de arma de fogo e restrição da liberdade, com o intuito de obterem vantagem indevida.
+Mantida a segregação cautelar pelo Tribunal de Justiça bandeirante, a defesa aponta, na presente impetração, constrangimento ilegal na segregação cautelar, pela falta de seus requisitos, pela fundamentação na gravidade em abstrato do delito, além da necessidade de reavaliação da prisão preventiva à luz da Recomendação n. 62/CNJ.
+Diz que, independentemente de estar ou não no grupo de mais atenção, a decisão desconsidera a precária situação carcerária existente, com superlotação (aglomeração), umidade, casos latentes de tuberculose, precária situação de saúde, presumindo - data maxima venia - um universo descolado da realidade. Ora, a bem da verdade é que, se em condições extramuros asituação do Covid-19 já é alarmante, mobilizando o mundo inteiro para conter sua disseminação, tal situação é ainda mais degradante aos que estão sujeitos ao sistema prisional (fl. 21).
+Assevera que, em que pese a interpretação conferida pela Autoridade Coatora, a mencionada recomendação descreve a necessidade de reavaliação das "prisões preventivas que tenham excedido o prazo de 90 (noventa) dias ou que estejam relacionadas a crimes praticados sem violência ou grave ameaça à pessoa" (art. 4º., I, alínea "c"), em evidente criação de duas hipóteses, de que dispõe a conjunção "ou" (fl. 24).
+Sustenta que a acusação da paciente se cinge em, supostamente, participar da empreitada criminosa porque valores foram " ..  parcialmente transferidos para  ..  VIVIANE GONÇALVES CASSETARI" (doc. 5), mesma situação na qual o eminente Relator Ministro Sebastião Reis Júnior concedeu a liberdade da mãe da paciente, no habeas corpus nº. 534.991/SP, em que reconheceu que "o envolvimento da paciente na empreitada criminosa se limitou à cessão da conta bancária para recebimento dos valores provenientes do ilícito, procedendo à divisão do numerário entre alguns outros envolvidos" (fls. 24/25).
+Defende haver patente excesso de prazo, que prorrogou a prisão preventiva da paciente para condições que extrapolam a razoabilidade, sobretudo porque está presa há 348 (trezentos e quarenta e oito) dias, sem qualquer contribuição da defesa para a perpetuação do constrangimento ilegal (fl. 26).
+Requer, com o pedido liminar, a expedição de alvará de soltura ou a substituição da prisão preventiva por medidas cautelares diversas.
+A liminar foi deferida às fls. 1.271/1.274.
+Solicitadas informações, essas foram prestadas às fls. 1.286/1.289.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do writ, revogando-se a liminar deferida (fls. 1.280/1.284).
+É o relatório.
+O presente mandamus perdeu o objeto.
+Em consulta à página do Tribunal local, na Internet, observei que, em 10/9/2020, o Juízo de primeiro grau, na Ação Penal n. 1513024-07.2019.8.26.0050, proferiu sentença em que julgou procedente o pedido de condenação.
+Ora, a superveniência de sentença condenatória torna prejudicado o writ que tem por escopo revogar a prisão cautelar, pois constitui novo título judicial a motivar a segregação. Assim, prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decisum não foi submetido à análise do Tribunal a quo.
+Ante o exposto, à vista da nova realidade fática, julgo prejudicado o habeas corpus, cassando a liminar anteriormente deferida.
+Publique-se
+EMENTA
+HABEAS CORPUS. EXTORSÃO QUALIFICADA E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVA REALIDADE FÁTICA. PERDA DO OBJETO.
+Writprejudicado. Liminar cassada.
