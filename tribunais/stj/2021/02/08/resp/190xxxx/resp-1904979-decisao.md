@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL TRANSPORTE. TRANSPORTE AÉREO. PONTOS QUALIFICÁVEIS. INOVAÇÃO RECURSAL. SENTENÇA. MÉRITO. MANUTENÇÃO.
+1. Inovação recursal: a alegação da ré, apenas em sede de apelo, de que o valor pleiteado a título de grava me patrimonial afigurar-se-ia excessivo, desborda os limites da contestação, violando, assim, os princípios da correlação e estabilidade da lide. É que descabe conhecer de matéria de defesa não debatida pela parte ré em sua contestação, como lhe cabia, na forma do artigo 336 do Código de Processo civil. Se o recurso inova em grau de apelo, aduzindo tese jurídica diversa da contestação, deixa-se de conhecê-lo, por inovação. Inteligência do artigo 336 do CPC. Princípio da Eventualidade.
+2. Mérito: sentença de parcial procedência da ação indenizatória que se transcreve e se adota como razões de decidir: (i) por um lado, diante da confissão judiciai da ré de ter subtraído os pontos da conta do autor; (ii) por outro, porque, diante da subtração indevida, consectário direito e imediato é a restituição dos pontos.
+3. Honorários advocatícios: pedido de minoração dos honorários advocatícios que se acolhe, com base no art. 85 do CPC.
+Apelação parcialmente conhecida e parcialmente provida.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Verifico que a controvérsia dos autos trata do tema afetado à Segunda Seção deste Superior Tribunal, sob o rito dos repetitivos - artigo 1.036 do Código de Processo Civil de 2015, nos RESPs 1.812.301/SC e 1.822.171/SC, Relator o Ministro Raul Araújo, vinculado ao Tema 1.046 - "A possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015".
+Com efeito, as ementas das propostas de afetação acolhidas pela Segunda Seção em 26/3/2020, com idêntico teor, têm a seguinte redação:
+PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA (CPC, ART. 85, §§ 2º E 8º). NECESSIDADE DE FIXAÇÃO DE TESE CONCENTRADA E VINCULANTE.
+1. Delimitação da controvérsia: 1.1. Para os efeitos dos arts. 927 e 1.036 do CPC, propõe-se a afetação do tema relativo à: 1.2. "A possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015."
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, devem ser devolvidos os autos ao Tribunal de origem, nos termos do artigo 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do artigo 1.037, II, do Código de Processo Civil, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito dos recursos recebidos como representativos da controvérsia (Tema 1.046), e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do referido código.
+Intimem-se.
