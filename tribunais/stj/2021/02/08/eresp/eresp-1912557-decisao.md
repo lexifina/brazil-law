@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIMED CAMPINAS - COOPERATIVA DE TRABALHO MÉDICO com fulcro no art. 105, inciso III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. Plano de Saúde. Diabetes. Bomba de infusão insulínica, insulina e insumos de monitorização de glicemia. Negativa de custeio. Alegação de inexistência de previsão no rol da ANS e de vedação legal para custeio de medicamentos de administração domiciliar. Irresignação parcialmente procedente. A bomba de infusão insulínica, no caso clínico apresentado nos autos, é essencial à terapêutica e a negativa de custeio implicaria inadimplir a obrigação de custeio do tratamento da doença. A insulina e os insumos de monitoramento glicêmico, entretanto, já eram de responsabilidade do usuário durante o tratamento tradicional, com injeções, e não há razão plausível para o plano passar a custeá-los. Sentença parcialmente reformada. Recurso a que se dá parcial provimento"(fl. 220e-STJ).
+No especial, além de dissídio jurisprudencial, a recorrente aponta violação dos artigos 10, § 4º e 35-Fda Lei nº 9.656/1998, argumentando, em síntese, que não está obrigada legalmente e contratualmente a cobrir procedimentos não constantes do rol taxativo editado pela ANS, inexistindo abusividade na negativa de cobertura.
+Com as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia acerca da negativa de custeio de medicamentos nos seguintes termos:
+"(..)
+A controvérsia recursal versa acerca da obrigatoriedade de cobertura de bomba de infusão insulínica e equipamentos acessórios, além da própria insulina e insumos para o controle de glicemia.
+(..)
+Ocorre que no caso clínico do autor há histórico de insucesso no controle de glicemia pelos métodos tradicionais sendo a bomba de insulina o único meio eficaz para o reestabelecimento da sua saúde, não tendo a ré apresentado argumentos científicos que demonstrassem a existência de outras terapias.
+Há que se fazer, portanto, distinção relevante. Uma situação é o paciente lograr êxito no controle de insulina por meio de injeções, mas desejar utilizar a bomba insulínica como meio de comodidade e maior eficiência à terapêutica; outra, é não lograr êxito no controle com injeções e não haver outro tratamento mais eficaz além da aplicação de insulina por meio de bomba de infusão contínua.
+Ora, nesta última circunstância, a bomba insulínica se o próprio tratamento para a moléstia e negar seu custeio equivaleria inadimplir a obrigação de custeio de tratamento da moléstia.
+E ainda que assim não fosse, e apenas para os casos em que se afigura o insucesso no controle insulínico por injeções, a terapia por bomba de infusão contínua apresenta vantagens tanto para a operadora quanto para o usuário porque se elimina o risco de atendimento de urgência por hipoglicemias graves, além de evitar, a longo prazo, os riscos de microangiopatias, retinopatias e nefropatias, trazendo melhor qualidade de vida ao paciente e redução dos custos de tratamento à operadora.
+Assim, não se revela lícita a recusa de custeio da bomba de insulina e seus acessórios"(fls. 221/222e-STJ).
+Com efeito, a Terceira Turma desta Corte Superior reafirmou a jurisprudência no sentido do caráter meramente exemplificativo dorolde procedimentos daANS,reputando abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+Isso porque compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir sobre o tratamento, mas custear as despesas de acordo com a melhor técnica.
+Assim, ainda que admitida a possibilidade de conter o contrato de plano de saúde cláusulas limitativas dos direitos do consumidor, revela-se abusiva a que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento de doença coberta pelo plano.
+Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL (CPC/2015). CIVIL. PLANO DE SAÚDE NA MODALIDADE AUTOGESTÃO. RECUSA DE COBERTURA DE CIRURGIA PARA TRATAMENTO DE DEGENERAÇÃO DA ARTICULAÇÃO TEMPOROMANDIBULAR (ATM). DIVERGÊNCIA QUANTO À ADEQUAÇÃO DO PROCEDIMENTO. INGERÊNCIA NA RELAÇÃO CIRURGIÃO-PACIENTE. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA TURMA. APLICABILIDADE ÀS OPERADORAS DE AUTOGESTÃO. PRECEDENTE EM SENTIDO CONTRÁRIO NA QUARTA TURMA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DESTA TURMA.
+1. Controvérsia acerca da recusa de cobertura de cirurgia para tratamento de degeneração da articulação temporomandibular (ATM), pelo método proposto pelo cirurgião assistente, em paciente que já se submeteu a cirurgia anteriormente, por outro método, sem obter êxito definitivo.
+2. Nos termos da jurisprudência pacífica desta Turma, o rol de procedimentos mínimos da ANS é meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde. Aplicação do princípio da função social do contrato.
+3. Caso concreto em que a necessidade de se adotar procedimento não previsto no rol da ANS encontra-se justificada, devido ao fato de o paciente já ter se submetido a tratamento por outro método e não ter alcançado êxito.
+4. Aplicação do entendimento descrito no item 2, supra, às entidades de autogestão, uma vez que estas, embora não sujeitas ao Código de Defesa do Consumidor, não escapam ao dever de atender à função social do contrato.
+5. Existência de precedente recente da QUARTA TURMA no sentido de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS.
+6. Reafirmação da jurisprudência desta TURMA no sentido do caráter exemplificativo do referido rol de procedimentos.
+7. AGRAVO INTERNO DESPROVIDO" (AgInt no REsp 1.829.583/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/06/2020, DJe 26/06/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer cumulada com reparação por danos morais, fundada na negativa de cobertura de medicamento.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. É abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda não previsto em rol da ANS, e, portanto, experimental, quando necessário ao tratamento de enfermidade objeto de cobertura pelo contrato.
+Precedentes.
+4. Agravo interno no recurso especial não provido" (AgInt no REsp 1.849.149/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. 1. TRATAMENTO PRESCRITO PELO MÉDICO.
+CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. SÚMULA 83/STJ. 2. LIMITAÇÃO DE SESSÕES DE TERAPIA E COBRANÇA DE COPARTICIPAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. Com efeito, a jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que  não é cabível a negativa de tratamento indicado pelo profissional de saúde como necessário à saúde e à cura de doença efetivamente coberta pelo contrato de plano de saúde . E o  fato de eventual tratamento médico não constar do rol de procedimentos da ANS não significa, per se, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se de rol exemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor  (AgRg no AREsp 708.082/DF, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/2/2016, DJe 26/2/2016).
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+2.1. Cumpre ressaltar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos declaratórios na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício.
+3. Agravo interno improvido" (AgInt no AREsp 1.471.762/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/03/2020, DJe 30/03/2020).
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dezpor cento) sobre o valor da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte ora recorrida, nos termos do art. 85, § 11, do CPC/2015.
+Publique-se.
+Intimem-se.
