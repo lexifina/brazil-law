@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por DIANA IDALINA DE SOUSA NASCIMENTO em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto em face do v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"PLANO DE SAÚDE - CANCELAMENTO POR INADIMPLÊNCIA - INVIABILIDADE - FALTA DE PROVA DE REGULAR NOTIFICAÇÃO - VIOLAÇÃO AO ART. 13 DA LEI 9656/98 - SÚMULA N. 94 DO TJSP - DANO MORAL INEXISTENTE - SUCUMBÊNCIA RECÍPROCA - SENTENÇA REFORMADA EM PARTE - RECURSO PARCIALMENTE PROVIDO." (fl. 720)
+Nas razões do apelo especial, a recorrente aponta violação aos arts. 14 do CDC, 186, 927 do Código Civil e dissídio jurisprudencial, sustentando, em síntese, que "a indenização pelo prejuízo moral é devida à recorrente, na medida em que se trata de dano moral in re ipsa, que decorre do próprio cancelamento indevido e abusivo do plano de saúde pela recorrida" (fl. 741).
+Contrarrazões às fls. 719/722.
+É o relatório.
+Na espécie, o Tribunal de origem julgou procedente o pedido de restabelecimento do contrato de plano de saúde, dado o seu cancelamento irregular pela operadora do plano, mas negou à autora a indenização por danos morais, por entender que não ocorreu lesão significativa a algum direito da personalidade.
+Cita-se trecho do acórdão recorrido:
+"Em assim sendo, correta a interpretação dada pelo h. Magistrado de Primeiro Grau que considerou ilegal a conduta da Ré de cancelar unilateralmente o contrato sem nem sequer notificar o consumidor acerca do atraso, ainda que se admita, nos termos da Resolução 195 da ANS, que o contrato firmado entre as partes estabeleça o cancelamento dos serviços após trinta dias de inadimplemento.
+Destarte, nesse aspecto, a sédula decisão, está correta; outra solução não haveria que não a levada a efeito pelo honrado Julgador.
+No que se refere ao dano moral, porém, não havia de ser acolhido tal pleito, já que a rescisão do contrato, por si só, não configura motivo suficiente para gerar abalo que justifique a indenização, o que no muito pode ter causado algum aborrecimento ao Requerente em razão da impossibilidade de utilização do Plano de Saúde, e nada mais que isso. Cabe ressaltar, ademais, que a A. colaborou para o cancelamento do contrato, tendo em vista a falta de pagamento da mensalidade e o instituto vem brandido de forma equivocada, por obter a parte enriquecimento indevido.
+De todo modo, o Requerente se socorrera da via judicial para proteção de seus direitos, o que foi garantido com a antecipação da tutela deferida, não havendo repercussão moral a seu desfavor, e não estando configurados os pressupostos da reparabilidade, quais sejam, ofensa à imagem, à intimidade ou à honra da pessoa e de aí afastada a indenização arbitrada." (fls. 721)
+Com efeito, a revisão do entendimento do eg. TJSP demandaria o reexame das provas dos autos, sobretudo para investigar se a conduta da ré foi de tal modo grave a ponto de causar à autora danos de ordem moral. Afinal, conforme anotado no acórdão recorrido, além de a demandante ter dado causa à rescisão do contrato, ela não foi prejudicada pela sustação temporária do serviço de plano de saúde.
+Incide na espécie o óbice da Súmula n. 7/STJ.
+Com semelhante raciocínio:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. CANCELAMENTO DA CONDIÇÃO DO AUTOR DE DEPENDENTE DO PLANO POR ATO ABUSIVO DA ESTIPULANTE. ATO ILÍCITO. COMPETÊNCIA DA JUSTIÇA COMUM. DANO MORAL CARACTERIZADO. VALOR DA INDENIZAÇÃO. SÚMULA 7 DO STJ.
+1. Tratando-se a demanda de litígio acerca da manutenção de dependente do empregado em plano de saúde coletivo, cuja natureza é preponderantemente civil, a competência para processar e julgar a demanda é da Justiça Comum Estadual.
+2. A convicção a que chegou o acórdão acerca da ocorrência de dano moral no presente caso decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+3. Nos termos da jurisprudência deste Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+4. Agravo interno não provido.
+(AgInt no AREsp 1475736/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/09/2019, DJe 24/09/2019)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do Regimento Interno, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado do recorrido de R$ 1.000,00 para R$ 1.100,00, observado o benefício da gratuidade da justiça deferido à autora.
+Publique-se.
