@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DONIZETE APARECIDO SANTOS ALVES contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo de Execução Penal n.0005429-59.2020.8.26.0482.
+Consta dos autos que o Juízo das Execuções Criminais deferiu o pleito de progressão de regime requerido pelo Paciente, mas indeferiu pedido de livramento condicional (fls. 43-44).
+Irresignada, a Defesa interpôs agravo em execução penal perante o Tribunal estadual, que negou provimento ao recurso(fls. 57-64).
+No presente habeas corpus, alega-se que "nos incidentes de execução penal, compete ao d. Juízo da execução criminal analisar o merecimento do sentenciado ao benefício postulado. Todavia, a apreciação judicial deve se pautar por elementos concretos, verificados no decorrer do cumprimento da sanção" (fl. 6), e não na gravidade abstrata do delito ou na necessidade de que o Reeducando experiencie, antes do livramento condicional, uma passagem pelo regime intermediário.
+Acrescenta que o Paciente não cometeu qualquer falta disciplinar no decorrer da execução penal.
+Requer-se, liminarmente e no mérito, a concessão do livramento condicional.
+Liminar indeferida pela Presidência desta Corte (fl. 75).
+Informações prestadas às fls. 83-94.
+O Ministério Público Federal opinou pela concessão do livramento condicional (fls. 754-757).
+É o relatório.
+Decido.
+Verifico que foram apresentados argumentos concretos para o indeferimento do livramento condicional, pois ressaltou o Juízo de primeiro grau que o Apenado "possui histórico desfavorável à imediata liberdade, ainda que condicional, eis que praticou delitos no curso de regime aberto antes concedido, sendo recomendável o postulante passar primeiro pelo regime intermediário, como prova de que irá absorver a terapia penal para, posteriormente, fazer jus à liberdade condicional" (fl. 44), circunstância ocorrida, portanto, durante o cumprimento da pena.
+Registro, por oportuno, que não desconheço a inclusão da alínea b no inciso III do art. 83 do Código Penal pela Lei n. 13.964/2019, introduzido com o objetivo de impedir a concessão do livramento condicional quando há falta grave nos últimos 12 (doze) meses. Todavia, isso não significa que a ausência de falta grave no mencionado período seja suficiente para satisfazer o requisito subjetivo exigido para a concessão do livramento condicional nem que eventuais faltas disciplinares ocorridas anteriormente não possam ser consideradas pelo Juízo das Execuções Penais para aferir fundamentadamente o mérito do Apenado.
+Com efeito, em princípio, entendo ser legítimo que o julgador considere, no caso concreto, motivadamente, a impossibilidade de concessão do benefício executório devido ao cometimento de infrações disciplinares há mais de 12 (doze) meses, em razão da existência do requisito cumulativo contido na alínea a do art. 83 do inciso III do Código Penal, o qual determina que será concedido livramento condicional apenas aos que demonstrarem bom comportamento durante a execução da pena.
+Assim, diante das ponderações acima expostas e considerando que o requisito disciplinado no art. 83, inciso III, alínea a, do Código Penal (bom comportamento durante a execução da pena) permanece em pleno vigor, verifico que o indeferimento do benefício foi devidamente fundamentado pelas instâncias de origem, em razão do não preenchimento do requisito subjetivo, haja vista que o Paciente cometeu falta grave, em 10/10/2019, consistente no delito do art. 155, §§ 1.º e 4.º, do Código Penal.
+Todavia, do boletim informativo de fls. 36/40, observa-se que o encerramento da pena dar-se-ia em 10/12/2020. Portanto, apesar de aindanão haver informaçõesno sítio eletrônico mantido pelo Tribunal de origem, dado que se trata de execução penal que tramita em autos físicos, considero prejudicado o pedido, uma vez que ultrapassado o prazo para o referido encerramento da pena.
+Ante o exposto, JULGO PREJUDICADO o pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ART. 83 DO CÓDIGO PENAL COM REDAÇÃO DADA PELA LEI N. 13.964/2019. AUSÊNCIA DO REQUISITO SUBJETIVO. EXISTÊNCIA DE FALTA GRAVE. PRAZO PARA O ENCERRAMENTO DA PENA ATINGIDO. PEDIDO DE HABEAS CORPUS PREJUDICADO.
