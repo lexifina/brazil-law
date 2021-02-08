@@ -1,0 +1,48 @@
+DECISÃO
+ELOINA VALENTIM TORRES (ELOINA)ajuizou ação de obrigação de fazercontra NOTRE DAME INTERMÉDICA SAÚDE S.A. (OPERADORA) alegando que houve negativa de cobertura de procedimento cirúrgico indicado por médico para alívio de dores na coluna cervical.
+Em primeira instância, a liminar foi confirmada e o pedido autoral foi julgado procedente para obrigar a OPERADORAa autorizar a prática da cirurgia solicitada.A OPERADORA foi condenada a arcar com o pagamento das custas processuais e da verba honorária fixada em R$ 3.500,00 (três mil e quinhentos reais) (e-STJ, fls. 355/357).
+A apelação interposta pela OPERADORAe o recurso adesivo de ELOINA não foram providos pelo Tribunal Paulista, nos termos do acórdão de relatoria do Des. JOSÉ JOAQUIM DOS SANTOS, assim ementado:
+APELAÇÃO CÍVEL. Plano de saúde. Ação de obrigação de fazer.Negativa de custeio, após realização de junta médica, baseada em divergência parcial quanto aos materiais solicitados.
+Necessidade da cirurgia e dos materiais incontroversa diante de relatório médico. Não cabe à operadora escolher o tipo de procedimento ou material a ser utilizado na cirurgia, mas ao corpo clinico responsável pelo tratamento. Abusividade configurada.Honorários advocatícios majorados apenas em razão da fase recursal. R. sentença mantida. Recursos improvidos(e-STJ, fl. 399).
+Inconformada, a OPERADORA interpôs recurso especial com fulcro no art. 105, III, a e c, da Constituição Federal apontando a violação dos arts. 421, 422 e 436 do CC, além de dissídio jurisprudencial, ao sustentar que devem ser privilegiados a liberdade de contratar, bem comoos princípios da probidade e da boa-fé. Ressaltou que inexistiu qualquer abusividade na conduta da recorrente, pois a recorrida tinha plena ciência dos limites de cobertura de seu contrato(e-STJ, fls. 405/415).
+Foram apresentadas as contrarrazões (e-STJ, fls. 428/437).
+O apelo nobre não foi admitido em virtude da (1) ausência de demonstração da alegada ofensa aos dispositivos arrolados;(2) incidência das Súmula nºs 5 e 7 do STJ;e, (3) falta de demonstração de dissídio jurisprudencial nos moldes legais(e-STJ, fls. 438/441)
+Nas razões do presente agravo em recurso especial, a OPERADORAafirmou que (1) houve ofensa aos dispositivos de lei federal;(2) os óbices sumulares são inaplicáveis ao caso; e, (3)a divergência jurisprudencial foi devidamente demonstrada(e-STJ, fls. 444/453).
+Foi apresentada contraminuta (e-STJ, fls. 458/467).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da incidência da Súmula nº282 do STF
+Nas razões de seu recurso,a OPERADORA alegouofensa aos arts. 421, 422 e 436 do CC e dissídio jurisprudencial sustentando que devem ser privilegiados a liberdade de contratar, bem comoos princípios da probidade e da boa-fé. Ressaltouque inexistiu qualquer abusividade na conduta da recorrente, pois a recorrida tinha plena ciência dos limites de cobertura de seu contrato.
+Verifica-se que o TJSP não emitiu pronunciamento sobre o conteúdo dos dispositivos de lei federal e não foram opostos embargos de declaração para sanar omissão.
+Assim, não há como ser analisada a tese trazida no recurso especial quanto à liberdade de contratar e os princípios da probidade e boa-fé, em virtude da falta de prequestionamento.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.QUIMIOTERAPIA. NEGATIVA DE COBERTURA. CARÁTER ABUSIVO. ALEGAÇÃO DE AFRONTA AOS ARTIGOS 165 E 458, II, DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PROVA PERICIAL.INDEFERIMENTO. CERCEAMENTO DE DEFESA NÃO DEMONSTRADO. AGRAVO DESPROVIDO.
+1. As matérias referentes aos arts. 421 e 422 do CC/2002; 4º, III, e 46 do CDC não foram debatidas pelo col. Tribunal de origem, tampouco foram opostos embargos de declaração visando à discussão das questões. Ante a falta de prequestionamento, incide o princípio cristalizado nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. O Superior Tribunal de Justiça entende que não configura cerceamento de defesa o julgamento da causa, sem a produção de prova pericial, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento.
+3. O cerceamento de defesa fica afastado, ainda, quando os temas apontados dispensam a perícia técnica, considerando a fundamentação acolhida pelo julgado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 299.482/MG, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 5/2/2015, DJe 23/2/2015 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.FALÊNCIA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. 2.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. 3. HONORÁRIOS ADVOCATÍCIOS. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O CRÉDITO É CONCURSAL, NOS TERMOS DO ACORDO CELEBRADO ENTRE AS PARTES, ANTES DA RECUPERAÇÃO JUDICIAL. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.
+O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional. 2. De fato, o art. 1.025 do CPC/2015 admite o prequestionamento pela mera oposição dos embargos de declaração. No entanto, cabe destacar que os aclaratórios opostos pelo agravante (e-STJ, fls. 245-249) limitaram-se à violação dos arts. 523 do CPC/2015; 22 da Lei n.8.906/1994; e 84 da Lei n. 11.101/2005, acerca da época da obrigação do pagamento do crédito proveniente dos honorários advocatícios sucumbenciais; e do caráter extraconcursal do citado crédito. 2.1.
+Na hipótese dos autos, verifica-se que o Tribunal de origem não se manifestou expressamente sobre os arts. 421 e 422 do CC/2002, sendo certo que se trata de verdadeira inovação recursal. Ausente, portanto, o prequestionamento da matéria. Incide, na espécie, o óbice da Súmula n. 282 do STF, por analogia.
+3. Para reverter a conclusão do Tribunal estadual - acerca do fato de que os honorários advocatícios já estavam reservados, nos termos do acordo celebrado entre as partes, e, portanto, anteriormente ao pedido de recuperação judicial, além de ter a tese de extraconcursalidade, em razão da garantia fiduciária do acordo, sido apontada somente por ocasião dos embargos e sem os documentos comprobatórios dessa condição, assim como em relação ao índice aplicado -, demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.433.720/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 12/8/2019, DJe 2008/2019 - sem destaques no original)
+Incide, quanto ao ponto, o óbice da Súmula nº282 do STF, por analogia.
+É de se ressaltar que a jurisprudência desta Casa já proclamou que a ausência de prequestionamento de dispositivo de lei tido por malferido impede a análise do apelo nobre com fundamento no dissenso interpretativo. Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPLEMENTO DE SUBSCRIÇÃO DE AÇÕES DE TELEFONIA FIXA E MÓVEL. 1. ARTIGOS DE LEI TIDOS POR VIOLADOS. MATÉRIA NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF. 2. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA. 3. AGRAVO INTERNO DESPROVIDO.
+1. Incidem as Súmulas 282 e 356 do STF, na espécie, porquanto ausente o prequestionamento acerca da matéria relativa à inobservância do deliberado em AGE na data de 10/4/2007, no sentido de que o lote de 1.000 (mil) ações foi agrupado na proporção de 1.000 (mil) para 1 (uma) ação da respectiva espécie.
+2. O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.504.589/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 10/2/2020, DJe 13/2/2020 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253
+do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor deELOINA, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. PLANO DE SAÚDE. RECUSA INDEVIDA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº282DOSTF, POR ANALOGIA. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DE ÓBICE SUMULAR.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
