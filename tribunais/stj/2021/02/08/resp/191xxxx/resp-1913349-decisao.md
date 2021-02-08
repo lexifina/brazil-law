@@ -1,0 +1,26 @@
+DECISÃO
+ALAN HENRIQUE DOMINGOS interpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0012643-48.2019.8.26.0996.
+Nas razões recursais, a defesa aponta violação do art. 112 da Lei de Execução Penal, além de dissídio jurisprudencial. Para tanto, argumenta que o termo inicial para a implementação do critério objetivo do art. 112 da LEP é a data em que o apenado preencheu os requisitos para a progressão ao regime prisional anterior, e não a do decisum que deferiu o benefício.
+Requer o provimento do recurso, a fim de que seja determinada a reelaboração dos cálculos de pena do recorrente.
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 100-103).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivos pelos quais avanço na análise de mérito da controvérsia.
+Extrai-se dos autos que o Juízo da Execução Penal homologou o cálculo que considerou a data da decisão que concedera a progressão de regime semiaberto como termo inicial para a aferição do tempo necessário à progressão ao modo aberto.
+A Corte estadual assim se manifestou sobre a controvérsia (fls. 50-51):
+Ora, a adoção do entendimento ventilado nas razões recursais pela i. defesa de Alan implicaria censurável progressão per saltum, pois permitiria, por exemplo, que um sentenciado cumprindo pena em regime fechado alcançasse o lapso para progressão ao regime aberto sem resgatar o mínimo de 1/6 da expiação no regime semiaberto (ou o mínimo de 2/5 quando se tratar de condenação por crime hediondo ou a este equiparado). Haveria evidente afronta à Súmula 491 do STJ, segundo a qual "É inadmissível a chamada progressão "per saltum" de regime prisional".
+ ..
+Dessa forma, necessária se faz a permanência do sentenciado no regime intermediário, pelo prazo estipulado em lei, antes que seja colocado em meio aberto, evitando-se a frustração da finalidade ressocializadora da pena.
+A Quinta e a Sexta Turma deste Superior Tribunal se alinharam ao posicionamento do Supremo Tribunal Federal de modo a fixar, como data-base para subsequente progressão de regime, aquela em que o reeducando preencheu os requisitos objetivo e subjetivo do art. 112 da LEP e não aquela em que: a) o Juízo da VEC deferiu o benefício anterior ou b) ocorreu o efetivo ingresso no regime atual.
+Prevalece o entendimento de que a decisão que defere a progressão de regime é declaratória, e não constitutiva. Embora se espere celeridade da análise do benefício, é cediço que a providência jurisdicional, por vezes, demora meses para ser implementada (como in casu). Nesse cenário, não se pode desconsiderar, em prejuízo do reeducando, o período em que, mesmo atendidos os requisitos legais, ele permaneceu cumprindo pena em regime mais gravoso enquanto o Judiciário processava seu pedido de progressão ou providenciava sua transferência para unidade prisional adequada.
+Confira-se o posicionamento do Supremo Tribunal Federal:
+ ..
+2. Execução Penal. Progressão de regime. Data-base.
+3. Nos termos da jurisprudência do STF, obsta o conhecimento do habeas corpus a falta de exaurimento da jurisdição decorrente de ato coator consubstanciado em decisão monocrática proferida pelo relator e não desafiada por agravo regimental. Todavia, em casos de manifesto constrangimento ilegal, tal óbice deve ser superado. 4. Na execução da pena, o marco para a progressão de regime será a data em que o apenado preencher os requisitos legais (art. 112, LEP), e não a do início do cumprimento da reprimenda no regime anterior.
+5. A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva.
+6. Deve ser aplicada a mesma lógica utilizada para a regressão de regime em faltas graves (art. 118, LEP), em que a data-base é a da prática do fato, e não da decisão posterior que reconhece a falta.
+7. Constrangimento ilegal reconhecido, ordem concedida."
+(HC n. 115.254, Rel. Ministro Gilmar Mendes, 2ª T., DJe 26/2/2016, grifei).
+Deveras: "a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112 da Lei n. 7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo" (HC n. 414.156/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 29/11/2017, destaquei).
+À vista do exposto, com fundamento no art. 932, VIII, do Código de Processo Civil, c/c o art. 3º do Código de Processo Penal, e no art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, a fim de determinar que o Juiz da VEC observe, para fins de futura progressão ao regime aberto, a data em que o recorrente preencheu os requisitos objetivo e subjetivo do art. 112 da LEP, não aquela em que foi deferida sua promoção ao regime semiaberto.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
