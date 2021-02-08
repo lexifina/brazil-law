@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Sinfin Participações Ltda., com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRF da 4ª Regiãoassim ementado (e-STJ, fl. 2.790):
+EMBARGOS À EXECUÇÃO FISCAL.REDIRECIONAMENTO. PRESCRIÇÃO INTERCORRENTE. INOCORRÊNCIA. ACTIO NATA. GRUPO ECONÔMICO RECONHECIDO EM MEDIDA CAUTELAR FISCAL. RESPONSABILIDADE SOLIDÁRIA.
+1. A prescrição intercorrente em relação aos corresponsáveis não tem como termo inicial a citação da pessoa jurídica, mas sim o momento da actio nata, ou seja, o momento em que restou configurada a possibilidade de redirecionamento da execução fiscal.
+2. O mero transcurso de prazo não pode ser interpretado como inércia ou falta de interesse, sujeitando-se à avaliação das circunstâncias concretas. Em medida cautelar fiscal a União buscou o reconhecimento da formação de grupo econômico, a desconsideração da personalidade jurídica das pessoas envolvidas e a responsabilização destas. Assim, não há falar intempestividade,porque exercido o direito de ação.
+3. Prescrição não configurada.
+Os embargos de declaração opostos contra a aludida decisão foram improvidos.
+A recorrente alega a existência de contrariedade aos arts. 151 e 174do CTN, ao argumento de que as hipóteses de suspensão e interrupção do prazo prescricional são taxativas.
+Assevera, ainda, que o art. 13, I, da Lei n. 8.397/1992 foi ofendido, pois, "se ajuizada a medida cautelar no curso de execução fiscal, "a medida cautelar fiscal, quanto aos administradores tem natureza preparatória, e sua eficácia está condicionada a pedido de redirecionamento no prazo previsto no art. 13, I, da Lei 8.397/1992"" (e-STJ, fl. 2.805).
+Suscita, ainda,divergência jurisprudencial em torno do termo a quo da contagem do prazo prescricional para o redirecionamento da execução fiscal.
+Foram apresentadas contrarrazões.
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+É o relatório.
+O recurso especial não pode ser conhecido.
+Da análise do voto condutor do acórdão, observa-se que nenhum dos preceitos normativos invocados nas razões do apelo extremo e as teses a eles vinculadas foram objeto de debate e deliberação pela Corte de origem, mesmo com a oposição dos embargos de declaração, o que redunda em ausência de prequestionamento da matéria, aplicando-se, ao caso, a orientação firmada na Súmula 211/STJ (Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo).
+Sobre o tema:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO DEMONSTRADA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MULTA APLICADA PELA ANS. INTERNAÇÃO HOSPITALAR. ATIVIDADE DE INSTRUMENTAÇÃO CIRÚRGICA. RECUSA DA OPERADORA. OBRIGATORIEDADE DE COBERTURA.
+1. Ao fundamentar o pedido de reconhecimento de violação dos arts. 489 e 1.022 do CPC/2015, a recorrente alega: "A propósito, observa-se que a fundamentação apresentada no voto que conduziu a definição espelhada no acórdão recorrido, não analisou com a merecida atenção a questão de fato em que se assentou a autuação da ANS, tal como arguido pela recorrente, já na petição inicial (item 2.3 - Da inexistência de prova do desembolso). No caso concreto, não há nos autos do referido processo administrativo (e tampouco nos presentes autos), recibo que ateste ter havido a cobrança de honorários de instrumentador cirúrgico reclamada pela beneficiária perante a ANS, o que torna equivocada a autuação da ANS, também sob o aspecto fático. Esta matéria, de absoluto relevo para o desate da discussão, não foi apreciada pelo acórdão recorrido, mesmo provocado em sede de embargos de declaração" (fls. 512-513, e-STJ).
+2. A tese apresentada não foi objeto dos Embargos de Declaração opostos na origem, caracterizando inovação recursal suscitar a questão em Recurso Especial. Precedentes do STJ.
+3. Quanto à alegação de ofensa dos arts. 1º, 3º e 4º, XXIII, da Lei 9.961/2000; 1º, I e I e §§ 1º e 2º, da Lei 9.656/1998; 2º, parágrafo único, I, da Lei 9.784/1999; e 926 e 927, caput e § 4º, do CPC/2015, ela não merece prosperar, uma vez que o debate proposto no Recurso Especial não foi apreciado pelo Tribunal de origem. É necessária a efetiva discussão do tema pelo Tribunal a quo para que se tenha cumprido o requisito do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Incidência da Súmula 211 do STJ.
+4. No mérito, cinge-se a controvérsia em definir a obrigatoriedade de cobertura, por parte das operadoras de plano de saúde, da despesa relacionada aos honorários do instrumentador cirúrgico em caso de intervenção cirúrgica.
+5. O art. 12, II, "c", da Lei 9.656/1998 prevê que, em caso de internação hospitalar, cumpre ao plano de saúde cobrir despesas relacionadas à alimentação, honorários médicos e serviços gerais de enfermagem, o que inclui as despesas relacionadas à atividade de instrumentação cirúrgica, pois intrínseco ao procedimento realizado. Precedente: REsp 1.821.860/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 30/8/2019.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.822.089/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/10/2019, DJe 5/11/2019.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
