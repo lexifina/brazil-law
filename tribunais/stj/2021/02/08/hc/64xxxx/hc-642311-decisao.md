@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDERSON ALVES DE SOUZAapontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais no HC n.1.0000.21.001502-0/000.
+Depreende-se dos autos que o paciente- e outros 2 acusados- foi preso em flagrante, custódia essa convertida em preventiva, e denunciado como supostamente incurso nos crimes de tráfico e associação para o tráfico de drogas, posse de arma de fogo com numeração suprimida e porte ilegal de arma de fogo de uso permitido (arts. 33,caput, e 35, ambos da Lei n. 11.343/2006 e arts. 14 e 16, parágrafo único, IV, ambos da Lei n. 10.826/2003), tendo em vista a apreensão de 167,89g (cento e sessenta e sete gramas e oitenta e nove centigramas) de cocaína e 938g (novecentos e trinta e oito gramas) de maconha- e-STJ fls. 58 e 60.
+Cumpre transcrever os seguintes excertos do decreto prisional (e-STJ fls. 19/21):
+O autuado GUSTAVO informou ainda que quem assumiu a distribuição das drogas e o recolhimento do dinheiro seria um indivíduo de alcunha "Mustafá". Em rastreamento, os militares realizaram a abordagem na residência do autuado ANDERSON, vulgo "Mustafá", mostrando aos militares onde estava escondida a quantia de R$ 1.600,00, um saco plástico contendo uma porção considerável de um pá branco análogo a cocaína, uma balança digital, sacos plásticos comumente utilizados para fracionar e embalar entorpecentes. .. Além disso, pela análise dos antecedentes do autuado ANDERSON (CAC de f. 24), nota-se o risco efetivo de reiteração criminosa.
+Impetrado habeas corpus no Tribunal de origem, o pedido liminar foi indeferido (e-STJ fls. 11/13).
+No presente writ, a defesa pede a superação da Súmula n. 691/STF, argumentando ailegalidade da prisão preventiva, pois decretada de ofício pelo Magistrado, em manifesto desrespeito ao disposto no art. 311 do Código de Processo Penal.
+Acerca do tema, postula o juízo de distinção(distinguishing) entre o acórdão proferido pelo Superior Tribunal de Justiçano HC n. 630.379/MG e a hipótese dos autos.
+Requer, liminarmente e no mérito,a revogação da prisão preventiva.
+É, em síntese, o relatório.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus ante decisum que indefere liminar no writ precedente (enunciado 691 da Súmula do Supremo Tribunal Federal), a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.
+ ..
+3. Agravo regimental improvido. (AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PEDIDO DE EXPEDIÇÃO DE CONTRAMANDADO DE PRISÃO TEMPORÁRIA. PACIENTE NO EXTERIOR. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, não se observa manifesta ilegalidade na decisão que indeferiu o pleito liminar no prévio mandamus, tampouco na decisão primitiva. Na espécie, não há nos autos informações comprobatórias de que todas as diligências requeridas foram cumpridas, valendo ressaltar, ainda, que o decreto prisional, expedido no bojo da mesma decisão, não se efetivou porque o paciente não teria sido localizado, porquanto "potencialmente" estaria no exterior.
+3. Agravo regimental improvido. (AgRg no HC 345.456/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/2/2016, DJe 24/2/2016.)
+A questão em exame necessita de averiguação mais aprofundada pelo Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Além disso, esta Sexta Turma entende que "as alterações promovidas pela Lei n. 13.964/2019 não impedem a conversão da prisão em flagrante em preventiva, de ofício, pelo Juízo singular, se presentes os requisitos do art. 312 do CPP e a necessidade urgente da cautela processual"(HC n. 614.155/RS, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 1º/12/2020, DJe 11/12/2020), não tendo sido finalizado o julgamento na Terceira Seção acerca da controvérsia.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
