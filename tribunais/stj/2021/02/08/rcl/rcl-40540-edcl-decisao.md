@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCELO DE CARVALHO MIRANDAcontra decisão desta Relatoria que indeferiu liminarmente a reclamação.
+Nos aclaratórios, o embargante alega que requereu a distribuição por dependência ante a prevenção do em. Min. Nefi Cordeiro que, nos autos do RHC 117.522/TO, reconheceu "atipicidade do delito de peculato em casos de funcionários fantasmas no Estado do Tocantins" (e-STJ, fl. 52). Sustenta que a posse do mencionado Ministro no Cargo da Presidência da Terceira Seção provocou a redistribuição do feito, acarretando-lhe evidente prejuízo.
+Defende que, assim como a sua, a ação penal ensejadora do RHC 117.522/TO também teve início por decorrência da "Operação Catarse".
+Assim, requer a concessão de efeitos infringentes aos aclaratórios.
+É o relatório.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada."Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material (art. 619 do CPP)." (EDcl no AgInt no REsp 1601757/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/02/2017, DJe 23/02/2017).
+Na hipótese, o embargante não preencheu os requisitos de admissibilidade dos aclaratórios. Não logrou demonstrar nenhum dos vícios autorizadores da interposição do recurso almejado. Suas razões recursais demonstram, na verdade, mero inconformismo com o conteúdo decisório.
+Conforme anunciado na decisão embargada, não se verificouafronta à decisão desta Corte, notadamente porque não há identidade de partes. Ademais, é importante destacar que, no decisum paradigma (RHC 117.522/TO), quem respondia à ação penal era o suposto "servidor fantasma", no caso da reclamação é o ex-Governador de Estado. O próprio embargante ajuda nesse esclarecimento:
+"No caso dos autos do RHC 117.522/TO, a investigação realizada pela Polícia Civil afirma que "no período de 2016 a 2018 a servidora recebeu salário sem trabalhar, praticando, assim, o crime de peculato (artigo 312 do Código Penal)", período em que o Reclamante era Governador do Estado, e pelo qual, está denunciado na ação penal referida anteriormente." (e-STJ, fl. 57).
+Note-se, portanto, não haver identidade entre os fatos.
+Acrescente-se ainda que o instituto da prevenção não consiste em direito subjetivo da parte, mas sim instrumento processual para se evitar decisões conflitantes, o que, conforme se vê acima, não está a ocorrer na hipótese.
+Portanto, não havendo omissão, obscuridade, contradição nem ambiguidade a serem sanadas, o recurso não merece conhecimento.
+Ante o exposto, rejeito os embargos de declaração.
