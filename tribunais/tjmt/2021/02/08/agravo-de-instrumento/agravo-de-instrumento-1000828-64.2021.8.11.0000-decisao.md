@@ -1,0 +1,20 @@
+AGRAVO DE INSTRUMENTO N.o 1000828-64.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por AYLON DAVID NEVES em virtude da decisão proferida pelo Juiz da 7.a Vara Cível da Comarca de Cuiabá que, nos autos da Ação de Indenização por Danos Materiais e Morais em fase de cumprimento de sentença, indeferiu o pedido de reconhecimento de erro material na sentença.
+Em suas razões recursais, o Agravante pugna pela reforma da decisão agravada, sob o argumento de que é evidente a ocorrência de erro material na hipótese, eis que o Autor/Agravado pleiteou em sua inicial o montante de R$ 114.000,00 (cento e quatorze mil reais) em decorrência da morte de 59 (cinquenta e nove) animais. No entanto, ao sentenciar o feito, o Julgador de primeiro grau determinou que o Requerido/Agravante pagasse o valor de R$ 214.000,00 (duzentos e quatorze mil reais) a título de ressarcimento pela morte dos referidos animais.
+Ressalta que a coisa julgada não atinge o erro material verificado em sentenças, porquanto é relativizada neste caso, haja vista a disposição do art. 494, inciso I, do Código de Processo Civil.
+Aduz que diante do referido erro material, teve que pagar ao Agravado a quantia de R$ 671.843,68 (seiscentos e setenta e um mil oitocentos e quarenta e três reais e sessenta e oito centavos) a mais que o valor devido.
+Afirma, ainda, “que o referido montante, indevidamente pago em 01/08/2014, alça nesta data R$ 758.313,32 (setecentos e cinquenta e oito mil trezentos e treze reais e trinta e dois centavos)”.
+Forte nestes argumentos, pugna pela concessão de efeito ativo ao Agravo, a fim de que seja “determinado que o Agravado restitua, em favor do Agravante, o valor de R$ 1.715.306,83 (um milhão, setecentos e quinze mil, trezentos e seis reais e oitenta e três centavos), referente ao valor indevido que recebeu do agravado, cujo valor deverá ser integralmente atualizado até a efetiva restituição, sob pena da incidência de multa”.
+Eis o relato essencial. DECIDO.
+Recebo o Agravo de Instrumento, pois o recurso é tirado em virtude de decisão interlocutória proferida em cumprimento de sentença, o que é autorizado pelo parágrafo único, do artigo 1.015, do Código de Processo Civil, bem como por estar instruído com os documentos necessários para sua análise e conhecimento.
+O artigo 1.019, inciso I, do Código de Processo Civil, preconiza que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Da análise dos autos, não entrevejo a confluência dos requisitos para concessão do pedido liminar, isso porque, em que pese esteja presente a probabilidade do direito alegado, eis que segundo jurisprudência consolidada do Superior Tribunal de Justiça, a correção de erro material disciplinado pelo art. 494 do CPC não se sujeita aos institutos da preclusão e da coisa julgada, porquanto constitui matéria de ordem pública cognoscível de ofício pelo magistrado, o Agravante não demonstrou o risco de dano irreparável ou de difícil reparação decorrente do indeferimento do pedido antecipatório, eis que já efetuou o pagamento da condenação em 2014.
+Ressalta-se, no entanto, que para justificar o deferimento do pleito liminar não basta a aparente situação de prejuízo, mas é imprescindível a comprovação do perigo de que este prejuízo se torne irreversível ou de improvável recomposição caso a medida seja concedida apenas na fase de julgamento do mérito recursal, o que efetivamente não foi observado pelo Recorrente.
+Ausente, pois, um dos requisitos (perigo de dano), INDEFIRO o pedido de antecipação da tutela recursal.
+Comunique-se ao Juiz da causa.
+Intime-se o Agravado para apresentar contrarrazões no prazo legal, nos termos do art. 1.019, II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 08 de fevereiro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
