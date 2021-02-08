@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo Sindicato dos Trabalhadores Federais do Rio Grande do Sul contra decisão que inadmitiu o recurso especial pelo teor da Súmula 7/STJ.
+No que interessa ao presente feito, oapelo nobre interposto com fundamento na alínea a do inciso III do artigo 105 da Constituição enfrenta acórdão da Quarta Turma do Tribunal Regional Federal da 4ª Região, o qualdeu parcial provimento à apelação da União e julgou prejudicado a recurso do sindicato, fixando os honorários nos seguintes termos:
+Em face da sucumbência mínima da embargante, deve o embargado arcar com o pagamento dos honorários advocatícios, os quais, em atenção ao disposto no art. 20, § 4º, do CPC, fixo em 5% do valor da causa, restando autorizada a compensação da referida verba com eventuais honorários arbitrados no processo de execução. (fl. 507, e-STJ)
+Os embargos de declaração de ambas as partes foram parcialmente providos, mantidos o resultado do julgado (fls. 550-557).
+O recorrente alega inicialmente violado o artigo 535, II, do CPC/1973, argumentando que o acórdão recorrido foi omisso acerca "das normas insertas nos artigos23, 24, § 3º da Lei nº 8.906/94, artigos20, §§ 3º e 4º, e 649, IV, do CPC, e arts. 368 e 373 do CC" (fl. 567).
+No mérito, assevera que a sua condenação nos honorários advocatícios em 5% sobre o valor atribuído à causa mostra-se "exorbitante" (fl. 571).
+Requer, ao final, o provimento do recurso, a fim de que seja "reduzida a verba honorária fixada, eis que exorbitante diante da simplicidade da demanda, das condições financeiras do sindicato e da natureza da causa" (fl. 579).
+Contrarrazões às fls. 609-614.
+O agravante informa que, após o juízo de retratação que adequou o acórdão regional ao entendimento do Tema 587/STJ, não possui interessa recursal.
+Quanto ao juízo de reforma,assevera os requisitos de admissibilidade do recurso foram preenchidos, não incidindo o óbice da Súmula 7/STJ.
+Contraminuta às fls. 745-756.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+Em síntese, o recorrente argumenta que a sua condenação nos honorários advocatícios de sucumbência fixados em 5% sobre o valor da causa mostra-se "exorbitante", "superior à capacidade do ora recorrente" (fl. 567).
+Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Acerca da tese de exorbitância fixação dos honorários sucumbenciais em 5% sobre o valor atribuído à causa, cabe ressaltar que a Corte de origemnão se pronunciou a respeito do artigo e/ou da tese indicado no recurso especial,o que denota a falta de debate ou prequestionamento sobre a controvérsia suscitada.Incide ao caso a Súmula 211/STJ.
+Vale ressaltar que não há contradição em afastar a alegada violação ao artigo535 do CPC/1973, e, ao mesmo tempo, não conhecer do recurso, por ausência de prequestionamento, visto que "é perfeitamente possível o julgado encontrar-se devidamente fundamentado, sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos desejados pela parte, sobretudo diante do brocardo da mihi factum, dabo tibi jus"(AgInt no AREsp 1.226.620/SP, Rel. Ministra Assusete Magalhães, Segunda Turma,DJe 15/5/2018). No mesmo sentido:AgRg no AREsp 543.829/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 30/10/2014; EDcl nos EDcl no REsp 1.190.734/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 14/6/2011.
+Além disso, consoante jurisprudência desta Corte Superior, apenasem hipóteses excepcionais, quando irrisório ou exorbitante, o valor dos honorários advocatícios arbitrados na origem permite o afastamento do óbice da Súmula 7/STJ.No caso dos autos, o valor estabelecido pelo acórdão recorrido em 5% sobre o valor atribuído à causa ((R$ 323.726,33) não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. AUSÊNCIA. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS EM 5% ATRIBUÍDO AO VALOR DA CAUSA. TESE DE EXORBITÂNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
