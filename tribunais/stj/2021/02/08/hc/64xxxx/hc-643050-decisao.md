@@ -1,0 +1,18 @@
+DECISÃO
+LUIS FERNANDO PIRESalega sofrer constrangimento ilegal em decorrência de acórdão proferido peloTribunal de Justiça do Estado de São Paulono HC n. 2235587-70.2020.8.26.0000.
+Extrai-se dos autos que o paciente foi pronunciado pela prática do delito descrito no art. 121, § 2º, II, III e IV, c/c o art. 29 e 14, II, todos do Código Penal.
+Nas razões destemandamus, a defesa aponta nulidade no processo, haja vista a ausência de interrogatório do réu. Para tanto, sustenta que "deveria haver sido publicado edital de intimação com prazo para comparecimento do réu ao ato de interrogatório, de modo que, na sua ausência deliberada, ou seja, sem atender ao proclamo editalício, aí sim, decretar-lhe foragido e prosseguir a sua "revelia", com os demais atos processuais" (fl. 20).
+Requer, liminarmente, o sobrestamento do Processo n. 0000222-26.2017.8.26.0275.
+Decido.
+Ao julgar o habeas corpus impetrado na origem, assim consignou o Tribunal de origem:
+Certamente, não é essa a hipótese dos autos:aqui, PIRES teve a prisão decretada na sentença de pronúncia. Verifico, aliás, que tal decisum teve a sua legalidade confirmada por esta Câmara Julgadora, nos autos do Recurso em Sentido Estrito nº 0000222-26.2017.8.26.0275, que mereceu o meu Voto nº 47.853, e foi julgado em 3 de outubro último. Então, caso houvesse ilegalidade naquela decisão, seria - certamente - corrigida de ofício.
+Destarte, é de se convir que, caso houvesse desrespeito à liberdade de locomoção do paciente, derivaria de ato desta Câmara, que, ipso facto, não é competente para apreciar o assunto. Aliás, é bom lembrar a opinião de JÚLIO FABBRINI MIRABETE, para quem "conforme insuperável lição de José Frederico Marques, não pode tomar conhecimento do pedido de habeas corpus o juiz ou tribunal que praticou ou confirmou expressa ou implicitamente, o ato ofensivo à liberdade física do paciente. Assim, se a coação é atribuída ao juiz, à competência para apreciaro pedido é do Tribunal de Justiça ou de Alçada, mas se for ela confirmada por essa corte, por exemplo, em apelação, passa a ser esta corte a autoridade coatora, sendo a competência para o habeas corpus após a Emenda Constitucional nº 22/99, do Superior Tribunal de Justiça" (Código de Processo Penal Interpretado, Editora Atlas, 7ª edição, São Paulo, página 1.456)" (fls. 29-30, grifei).
+Diante de tais considerações,noto que, adespeito das alegações feitas nowrit, observo que a questão não foi analisada pelo Tribunal de origem, ao não conhecer do writ, nem ao negar provimento ao recurso em sentido estrito (fls. 1.421-1.427).
+Dessa forma, em creditamento às instâncias ordinárias, que primeirodevem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento destemandamus, sob pena desupressão de instância. Ilustrativamente:
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ ..
+8. Habeas corpus não conhecido.
+(HC n. 347.010/SP, Rel. MinistroJorge Mussi, 5ª T., DJe 12/4/2016).
+À vista do exposto,indefiro liminarmenteo habeas corpus.
+Publique-se e intimem-se.
