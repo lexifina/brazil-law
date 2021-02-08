@@ -1,0 +1,29 @@
+DECISÃO
+ANTONIO MARCOSDA SILVA interpõe recurso especial, com fundamento no art. 105, III, "a", da CF, no qual aponta aviolação, por parte do Tribunal de Justiça do Estado de São Paulo, dosarts. 171, §5º, c/c o 103 e 107, IV, todos do Código Penal, e do artigo 38 do CPP.
+O réu foi condenado por estelionato simples, a1 ano de reclusão em regime inicial aberto, com substituição da reprimenda corporal por restritiva de direitos. Afirma que aLei nº 13.964/2019 tem natureza mista e que tem de retroagir, pois era necessário oferecimento de representação como condição de procedibilidade da ação penal, ainda não finalizada. Transcorrido o prazo de 6 meses desde a entrada em vigor da inovação legislativa, é de rigor reconhecer a decadência da pretensão.
+O Ministério Público Federal opinou pelo não provimento do recurso especial.
+Decido.
+O recurso especial preenche os requisitos de admissibilidade, mas não comporta provimento.
+A Quinta Turma desta Corte e a Primeira Turma do Supremo Tribunal Federal possuem o entendimento de que:
+ ..  Em face da natureza mista (penal/processual) da norma prevista no § 5º do artigo 171 do Código Penal, sua aplicação retroativa será obrigatória em todas as hipóteses onde ainda não tiver sido oferecida a denúncia pelo Ministério Público, independentemente do momento da prática da infração penal, nos termos do artigo 2º, do Código de Processo Penal, por tratar-se de verdadeira "condição de procedibilidade da ação penal". 3.Inaplicável a retroatividade do §5º do artigo 171 do Código Penal, às hipóteses onde o Ministério Público tiver oferecido a denúncia antes da entrada em vigor da Lei 13.964/19; uma vez que, naquele momento a norma processual em vigor definia a ação para o delito de estelionato como pública incondicionada, não exigindo qualquer condição de procedibilidade para a instauração da persecução penal em juízo. 4.A nova legislação não prevê a manifestação da vítima como condição de prosseguibilidade quando já oferecida a denúncia pelo Ministério Público"
+(HC n. 187.341, 1ª T., Supremo Tribunal Federal, Ministro Alexandre de Morais, DJE, 4/11/2020).
+A solução da controvérsia não é uníssona, pois,em julgamento anterior, do HC n. 583.837/SC (Rel. Ministro Sebastião Reis Júnior, DJe 4/8/2020), a Sexta Turma decidiu que o art. 171, § 5º, do CP, por sua natureza mista, tem de alcançar todos os processossem trânsito em julgado, nos quais a vítima não tenha se manifestado favoravelmente à persecução penal. A retroação não gera a extinção do processo, mas a intimação do ofendido para manifestar interesse na sua continuação, em 30 dias, sob pena de decadência, por aplicação analógica do art. 91 da Lei n. 9.099/1995.
+Vê-se que a matéria ainda está sob debate e é preciso pacificar a divergência entre os órgãos fracionários.
+No entanto, é possível a solução monocrática do recurso especial, pois,sob nenhum ânguloé possível acolher o pleito defensivo, uma vez que os autos demonstram a intenção da vítima emver o crime de estelionato apurado e o seu autorprocessado criminalmente. Existiu boletim de ocorrência e o ofendido prestou declarações em juízo, ocasião em que confirmou os fatos anteriormente narrados por ele na polícia.
+A representação, disciplinada no art. 39 do Código de Processo Penal, dispensa formalidades. Pode ser exercida mediante declaração, escrita ou oral, feita ao juiz, ao órgão do Ministério Público, ou à autoridade policial. A condição de procedibilidade pode ser depreendida do boletim de ocorrência e das declarações da vítima, em Juízo, pois existiu nítida manifestação de vontade no sentido de que o estelionato fosse apurado e seus ofensores, processados e responsabilizados criminalmente.
+Ilustrativamente:
+ ..  A Sexta Turma do Superior Tribunal de Justiça, quando do julgamento do HC n. 583.837/SC, da relatoria do Ministro Sebastião Reis Júnior, firmou entendimento pela necessidade de aplicação imediata aos processos em curso do comando normativo insculpido no § 5.º do art. 171 do Código Penal, com a redação da Lei n. 13.964/2019. 2.
+In casu, entretanto, não se aplica a citada compreensão, na medida em que a condição de procedibilidade - representação - pode ser depreendida do boletim de ocorrência e da portaria policial.  ..
+(AgRg no AREsp 1668091/PR, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/9/2020).
+ ..  tanto a doutrina quanto a jurisprudência são uniformes em afirmar que a representação prescinde de qualquer formalidade, sendo suficiente a demonstração do interesse da vítima ou de seu representante em autorizar a persecução criminal.
+Precedentes
+ ..
+(EDcl no HC 324.595/SC, Rel. Ministro Ribeiro Dantas, 5ª T.,DJe 25/3/2019).
+ ..
+2. Doutrina e jurisprudência são uniformes no sentido de que a representação do ofendido nas ações penais públicas condicionadas prescinde de qualquer formalidade, sendo suficiente a demonstração do interesse da vítima de autorizar a persecução criminal.
+3. O simples registro de ocorrência policial pela vítima, bem como as declarações por ela prestadas quando do lavratura do auto de prisão em flagrante, são suficientes para que seja deflagrada ação penal contra a agravante  .. , uma vez que demonstram a nítida intenção da ofendida em autorizar a persecução criminal.
+4. Agravo regimental desprovido.
+(AgRg no HC 492.764/MG, Rel. Ministro Jorge Mussi, 5ª T., DJe 8/3/2019).
+Cito, no mesmo sentido, julgado do Supremo Tribunal Federal: "a jurisprudência tem entendido que esta disposição legal não exige forma especial para a representação,sendo suficiente para suprir os seus efeitos a inequívoca manifestação de vontade do ofendido no sentido de que os ofensores sejam processados criminalmente, a qual pode ser verificada no boletim de ocorrência, na notitia criminis, nas declarações do ofendido na polícia ou em juízo, como ocorre no caso" (HC n. 77238, Rel. Maurício Corrêa, 2ª T., DJ 27/4/2001).
+À vista do exposto, conheço e nego provimento ao recurso especial.
+Publique-se e intimem-se.
