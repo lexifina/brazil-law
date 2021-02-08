@@ -1,0 +1,11 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “SERVIDOR – Prêmio de incentivo –– Preliminar de Incompetência da Justiça Estadual afastada – Procedência parcial dos pedidos – Tema nº 7 do IRDR – Inclusão de 50% do Prêmio de Incentivo na base de cálculo do 13º salário e do abono de férias – Sentença mantida – Recurso da Fazenda a que se nega provimento.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente sustenta violação ao art. 114, I, da Constituição. Sustenta que “não importa, aqui, a natureza do benefício pleiteado. Nos casos em que a Administração atua na qualidade de empregador, isto é, contrata pelo regime da CLT, a matéria decorrente desse vínculo jurídico deve ser apreciada pela Justiça do Trabalho”.
+    O recurso extraordinário não deve ser admitido. O acórdão recorrido não divergiu do entendimento do Supremo Tribunal Federal no sentido de ser da competência da Justiça comum o julgamento de pedidos de reconhecimento de direitos previstos em estatuto de servidor público (ARE 904.223-AgR, de minha relatoria; e ARE 947.829, Relª. Minª. Cármen Lúcia).
+    Ademais, para dissentir da solução conferida pelo Tribunal de origem à controvérsia quanto à incidência, ou não, da vantagem denominada “Prêmio de Incentivo”, sobre a base de cálculo do 13º salário e do terço constitucional, seria necessária a análise da legislação local pertinente, o que torna inviável o processamento do recurso extraordinário, nos termos da Súmula 280/STF. Nesse sentido e sobre a mesma questão, vejam-se os seguintes precedentes: o AI 674.810-AgR, Rel.ª Min.ª Cármen Lúcia; e o ARE 765.773-AgR, Rel. Min. Ricardo Lewandowski.
+    Diante do exposto, com base no art. 932, IV e VIII, c/c o art. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Existindo nos autos prévia fixação de honorários advocatícios, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015, bem como eventual deferimento da assistência judiciária gratuita.
+    Publique-se.
+          Brasília, 08 de fevereiro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
