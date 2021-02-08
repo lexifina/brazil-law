@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO.ALEGAÇÃO DE NULIDADE DO ACÓRDÃO RECORRIDO. ERRO MATERIAL. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. A agravante alegaa existência de erro material no acórdão impugnado, por não ter sido considerada a existência de pedido para que houvesse o cumprimento da obrigação de fazer.
+2. Oórgão julgador levou em consideração o requerimento de cumprimento voluntário da obrigação de fazer, porém, entendeu que, em razão da inércia da entidade executada, a parte exequente deveria ter dado início à execução forçada.
+3.Sendo assim, não há que se falar em erro material no aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte interessada, elegendo fundamentos diversos daqueles por ela propostos, não configura erro material nem outra causa passível de exame mediante a oposição de embargos de declaração. Precedentes.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno interposto por Maria da Salete de Medeiros Limacontra decisão que negou provimento ao seu recurso especial (e-STJ, fls. 320-324).
+Alega a agravante que o Tribunal de origem "incorreu em erro manifesto, quando afirmou, em conclusão, que não foi requerida a execução da obrigação de fazer, tendo sido esta, ao contrário, devidamente formulada, como a própria decisão do Tribunal Regional reconhecera anteriormente" (e-STJ, fl. 332).
+Sem impugnação (e-STJ, fl. 337).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO.ALEGAÇÃO DE NULIDADE DO ACÓRDÃO RECORRIDO. ERRO MATERIAL. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. A agravante alegaa existência de erro material no acórdão impugnado, por não ter sido considerada a existência de pedido para que houvesse o cumprimento da obrigação de fazer.
+2. Oórgão julgador levou em consideração o requerimento de cumprimento voluntário da obrigação de fazer, porém, entendeu que, em razão da inércia da entidade executada, a parte exequente deveria ter dado início à execução forçada.
+3.Sendo assim, não há que se falar em erro material no aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte interessada, elegendo fundamentos diversos daqueles por ela propostos, não configura erro material nem outra causa passível de exame mediante a oposição de embargos de declaração. Precedentes.
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação da agravante não merece prosperar.
+É alegada a existência de erro material no acórdão impugnado, por não ter sido considerada a existência de pedido para que houvesse o cumprimento da obrigação de fazer.
+Ao apreciar os embargos de declaração, o Tribunal de origem afastou a existência do erro suscitado, pelas seguintes razões (e-STJ, fl. 276):
+Não há qualquer vício no acórdão embargado. Ficou ali assentado que a exequente deve iniciar a execução forçada da obrigação de fazer para suspender o prazo da execução da obrigação de pagar. O fato de ter pedido na ação coletiva o cumprimento voluntário da obrigação de fazer pela FUNASA e a entidade ter permanecido inerte, seria resistência suficiente para se dar início à execução forçada, o que em nenhum momento ocorreu. Assim, não houve o início da fase de cumprimento de sentença relativa à obrigação de fazer, não havendo que se falar em suspensão da pretensão executória, que sequer foi exercida.
+Como se pode observar do excerto transcrito, o órgão julgador levou em consideração o requerimento de cumprimento voluntário da obrigação de fazer, porém, entendeu que, em razão da inércia da entidade executada, a parte exequente deveria ter dado início à execução forçada.
+Sendo assim, não há que se falar em erro material no aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte interessada, elegendo fundamentos diversos daqueles por ela propostos, não configura erro material nem outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+PROCESSUAL CIVIL. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. MERA TENTATIVA DE REITERAR FUNDAMENTO JURÍDICO JÁ EXPOSTO PELO RECORRENTE E DEVIDAMENTE AFASTADO PELO JULGADOR.
+I - Na origem, trata-se de ação ordinária ajuizada contra o Estado do Rio de Janeiro, tendo como objetivo o recálculo de seus proventos de aposentadoria com sua conversão para a URV, nos meses de março a junho de 1994, nos termos do art. 22 da Lei n. 8.880/94. Após sentença que julgou improcedentes os pedidos iniciais, foi interposta apelação, a qual foi provida pelo Tribunal a quo, ficando consignado que todos aqueles que percebiam os vencimentos em datas posteriores (mês subsequente ao efetivamente trabalhado) também sofreram defasagem, cujo percentual não corresponde com exatidão àquele de 11,98%. Nesta Corte, foi dado provimento ao recurso especial para restabelecer a sentença.
+II - Sobre a alegada violação do art. 1.022 do CPC/2015, por suposta omissão pelo Tribunal de origem, verifica-se não assistir razão ao recorrente.
+III - Da análise do referido questionamento em confronto com o acórdão hostilizado, não se cogita da ocorrência de omissão, contradição, obscuridade ou mesmo erro material, mas mera tentativa de reiterar fundamento jurídico já exposto pelo recorrente e devidamente afastado pelo julgador, que enfrentou todas as questões pertinentes sobre os pedidos formulados.
+IV - A oposição de embargos de declaração, com fundamento na omissão acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia. No mesmo diapasão, destacam-se: AgInt no AREsp 1.323.892/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/11/2018, DJe 22/11/2018; AgInt no REsp 1.498.690/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2017, DJe 20/3/2017).
+V - A orientação jurisprudencial do Superior Tribunal de Justiça, firmada no julgamento do REsp Repetitivo n. 1.101.726/SP (Tema n. 15), é pela necessária a observação da sistemática contida na Lei n. 8.880/94, para a adoção da URV, sendo que o suporte fático ao direito subjetivo em questão é o efetivo pagamento da remuneração ocorrer no final do mês. Confira-se: REsp 1.101.726/SP, Rel.Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 13/5/2009, DJe 14/8/2009; REsp 1.728.221/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/4/2018, DJe 25/5/2018; AgInt no REsp 1.637.270/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 18/5/2017, DJe 23/5/2017.
+VI - Na hipótese, ficou consignado pelo juízo ordinário, à fl. 182, que o pagamento se deu após o último dia do mês (mês subsequente), o que afasta o direito pretendido.
+VII - Correta, portanto, a decisão que deu provimento ao recurso especial, restabelecendo os termos da sentença de fls. 180-183.
+VIII - Agravo interno improvido.
+(AgInt no REsp 1.790.215/RJ, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 6/5/2020, DJe 11/5/2020.)
+RECURSO ESPECIAL. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. AÇÃO DE REVISÃO CONTRATUAL C/C REPETIÇÃO DE INDÉBITO. PRETENSÃO DECLARATÓRIA E CONDENATÓRIA. PRAZO PRESCRICIONAL. TERMO INICIAL. JULGAMENTO: CPC/15.
+1. Ação de revisão contratual c/c repetição de indébito ajuizada em 13/06/2013, da qual foi extraído o presente recurso especial, interposto em 15/12/2016 e atribuído ao gabinete em 08/08/2017.
+2. O propósito recursal é dizer sobre a existência de erro material no acórdão recorrido, bem como sobre o termo inicial da contagem do prazo prescricional da pretensão de revisão das cláusulas contratuais relativas aos juros remuneratórios e encargos moratórios.
+3. Não se caracteriza a apontada ofensa ao art. 1.022, III, do CPC/15 quando o erro material indicado constitui verdadeira tese de defesa e não uma aparente incorreção na redação do acórdão recorrido.
+4. Conquanto a sentença tenha também uma carga declaratória, prepondera, depois de ocorrida a violação do direito, a sua carga constitutiva ou condenatória, relacionada ao bem da vida efetivamente perseguido pelo demandante, o que atrai a incidência do prazo prescricional a que se sujeita essa pretensão predominante.
+5. No momento em que firmado o contrato contendo as cláusulas abusivas, nasce para o recorrente a pretensão - imprescritível - de ver declarada a respectiva nulidade, a fim de resolver a crise de certeza quanto aos contornos da obrigação vinculada à relação jurídica estabelecida entre as partes. No entanto, quando, em cumprimento àquelas cláusulas, lhe é exigido o pagamento a maior dos encargos incidentes sobre a dívida, com base nas cláusulas contratuais reputadas abusivas, configura-se a violação do direito, a partir da qual nasce outra pretensão: a de reclamar a repetição do indébito, cujo exercício se sujeita ao prazo prescricional previsto na lei.
+6. A data da assinatura do contrato é o termo inicial para o exercício da pretensão puramente declaratória de abusividade das cláusulas contratuais; a pretensão condenatória a ela vinculada, todavia, nasce somente a partir do momento em que se exige o pagamento a maior, o que se dá na data do vencimento de cada parcela.
+7. Recurso especial conhecido e provido.
+(REsp 1.740.714/RS, Rel. Min. NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/10/2019, DJe 28/10/2019.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
