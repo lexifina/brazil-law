@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - JUÍZO DE RETRATAÇÃO - PROCEDIMENTO DOS RECURSOS REPETITIVOS - ARTS. 1.030, II, DO NCPC (ART. 543-B, § 3º, DO CPC/73) E 109 E 110 DO RI/TJPR - ESTIPULAÇÃO SOBRE A APLICAÇÃO DE JUROS REMUNERATÓRIOS EM TAXAS FLUTUANTES - SITUAÇÃO QUE NÃO INCORRE EM AUSÊNCIA DE CONTRATAÇÃO - MANUTENÇÃO DAS TAXAS APLICADAS - AUSÊNCIA DE COMPROVAÇÃO DE DISCREPÂNCIA COM A TAXA MÉDIA DE MERCADO CAPAZ DE COLOCAR O CORRENTISTA EM DESVANTAGEM EXAGERADA - OCORRÊNCIA DE CAPITALIZAÇÃO DE JUROS NÃO EVIDENCIADA - MANUTENÇÃO DO ACÓRDÃO.
+A parte recorrente sustenta que, relativamente aos contratos sob revisão não juntados pela instituição financeira, devem os juros remuneratórios ser limitados à taxa média do mercado, a teor da Súmula n. 530 do STJ.
+A atual jurisprudência do STJ dispõe que, nos casos em que não estipulada expressamente a taxa de juros ou na ausência do contrato bancário, deve-se limitar os juros à taxa média de mercado para a espécie do contrato, divulgada pelo Banco Central do Brasil, salvo se mais vantajoso para o cliente o percentual aplicado pela instituição financeira (Segunda Seção, REsp repetitivos 1.112.879/PR e 1.112.880/PR, ambos Rel. Ministra Nancy Andrighi, unânime, DJe de 19.5.2010).
+Em face do exposto, dou provimento ao recurso especial, para restabelecer a sentença.
+Intimem-se.
