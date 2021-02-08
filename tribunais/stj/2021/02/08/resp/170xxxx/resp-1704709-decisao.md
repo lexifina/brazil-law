@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fundação Nacional de Saúde com fundamento na alínea a do inciso III do artigo 105 da Constituição Federal contra acórdão da Terceira Turma do Tribunal Regional Federal da 5ª Região, assim ementado (fls. 185-188):
+SERVIDORES PÚBLICOS FEDERAIS. EX-CELETISTAS. "GRATIFICAÇÃO DE HORAS EXTRAS INCORPORADAS". PERCEPÇÃO EQUIVALENTE A 50% DO VENCIMENTO BÁSICO. TRANSFORMAÇÃO PARA VPNI PELA LEI 8.270/91. VANTAGEM SUPRIMIDA. AUSÊNCIA DE PREVISÃO LEGAL. REMESSA NECESSÁRIA NÃO PROVIDA.
+1. Remessa Necessária contra sentença que julgou procedente o pedido de reincorporação do adicional de horas extras a que os servidores da FUNASA tinham direito no passado, e que o novo regime remuneratório, disposto na Lei nº 8.270/91, suprimiu.
+2. "Não poderia a FUNASA suprimir as horas extras já incorporadas à remuneração dos autores, uma vez que a previsão legal era no sentido de que as vantagens pecuniárias pessoais que não puderam ser enquadradas conforme o art. 4º, parágrafo 1º, da Lei nº 8.270/91 devem ser enquadradas como diferenças de vencimentos, sujeitando-se, inclusive, aos mesmos percentuais de revisão ou de antecipação dos vencimentos" (PROCESSO: 08000220420114058200, AC/PB, DESEMBARGADOR FEDERAL CID MARCONI, 3ª Turma, JULGAMENTO: 10/12/2015).
+3. Honorários advocatícios mantidos no percentual de 10% (dez por cento) sobre o valor a ser apurado na execução da sentença, com base no art. 20, § 4º, do CPC/73.4. Remessa Necessária não provida.
+Os embargos de declaração foram acolhidos para reconhecer a omissão e declarar a prescrição quinquenal das parcelas anteriores ao ajuizamento da ação(fls. 220-223).
+A recorrente alega violação do artigo 1º do Decreto n. 20.910/1932 ao argumento de que transcorreu o prazo prescricional de cinco anos entre o ajuizamento da ação, em 2015, e aedição da Lei n.Lei 8.270/1991, quepromoveumodificação na forma de apuração dos vencimentos devidos aos servidores vinculados à Funasa, suprimindo o direito à "gratificação de horas-extras incorporadas".
+Sustenta também quea gratificação em destaque jamais poderia ter o seu pagamento restabelecido após o enquadramento realizado através da Lei n.º 8.270/1991, visto que eventual diferença de vencimento resultante da nova tabela seria paga através de VPNI como previu o §3º.
+Requer, ao final, o provimento do recurso, a fim de julgar "improcedente o pedido o pedido do autor" (fl. 240).
+Nas contrarrazões oferecidas às fls. 284-291, consigna-se que o acórdão recorrido estaria em "consonância com a jurisprudência do a quo Superior Tribunal de Justiça e desta Corte que reconhecem que a negativa do direito pleiteado nesta lide caracteriza de forma categórica relação de trato sucessivo, aplicando-se, portanto o art. 1º do Decreto n. 20.910/1932 e a Súmula nº 85/STJ" (fl. 288).
+Decisão de admissibilidade à fl. 301.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdãopublicado na vigência do Código de Processo Civil de 2015, devendo serexigidos os requisitos de admissibilidade na forma nele previsto, conformeEnunciado Administrativo n. 3/2016/STJ.
+Na espécie, o autor ajuizou ação ordinária em face da FUNASA/CE, objetivandoa reincorporação aos seus vencimentos da gratificação de horas extras no percentual de 50% (cinquenta por cento) sobre o vencimento básico, com efeitos financeiros a partir da Lei nº 8.270/1991.
+O TRF da 5ª Região manteve a sentença de procedência do pedido, ao fundamento de que, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+Ocorre que o referido entendimento firmado pelo acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte Superior. Isso porque a Corte Especial, nos autos doAgRg nos EREsp 916.960/PB, reconheceu a prescrição do fundo de direito. O julgado está assim ementado:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA.INEXISTÊNCIA DE DISSÍDIO PRETORIANO. SÚMULA 168/STJ. LEI 8.270/91.ATO NORMATIVO DE EFEITOS CONCRETOS. PRESCRIÇÃO DO FUNDO DE DIREITO.
+1 - "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado" (Súmula 168/STJ).
+2 - A Primeira Seção, no julgamento do REsp 1.235.228/SE, firmou o entendimento de que a Lei 8.270/91 promoveu expressiva modificação na forma de apuração dos vencimentos devidos aos servidores vinculados à Funasa, suprimindo o direito à "gratificação de horas-extras incorporadas", sendo, assim, ato normativo de efeitos concretos.
+3 - A partir desse novo entendimento, houve realinhamento da jurisprudência da Primeira Seção, que passou a aplicar a prescrição de fundo de direito a contar da vigência da Lei 8.270/91.
+4 - "Esta Corte já consolidou entendimento segundo o qual em se tratando de ato de efeito concreto, supressor da vantagem recebida pelo servidor, ocorre a prescrição do próprio fundo de direito e a contagem do prazo prescricional inicia-se a partir do momento da publicação do ato em que a vantagem foi suprimida, não havendo falar, portanto, em relação de trato sucessivo e aplicação da Súmula 85/STJ." (AgRg no AREsp 305.547/BA, Rel. Ministra Eliana Calmon, 2ª Turma, DJe de 6/9/2013)
+5 - Dissídio pretoriano inexistente. Agravo regimental improvido.
+(AgRg nos EREsp 916.960/PB, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL,DJe 25/11/2015, grifei)
+Ante o exposto, dou provimento ao recurso especial no sentido de reconhecer a prescrição do fundo de direito, julgando improcedente a ação ordinária.
+Por conseguinte, condeno a parte autora em 10% (dez por cento) sobre o valor dado à causa.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEI 8.270/1991. ATO NORMATIVO DE EFEITOS CONCRETOS. PRESCRIÇÃO DO FUNDO DE DIREITO. PRECEDENTE DA CORTE ESPECIAL. RECURSO PROVIDO.
