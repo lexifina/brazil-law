@@ -1,0 +1,28 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1001444-39.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto pela SOCIEDADE HOSPITALAR NOSSA SENHORA DA GUIA LTDA. em virtude da decisão proferida pelo Juiz da 6.a Vara Cível da Comarca de Cuiabá que, nos autos da Ação Revisional de Cláusula Contratual c/c Tutela de Urgência n.o 1000717-54.2021.8.11.0041, revogou a tutela de urgência anteriormente concedida em favor da Agravante.
+Inconformada, a Recorrente alega que foram observados os requisitos necessários para reverter o decisum revogatório da medida liminar. Afirma que “As cláusulas previstas no aditivo contratual foram previamente formuladas e impostas unilateralmente, não tendo a Agravante como discutir ou as recusar.”
+Relata que, após a finalização do prazo de vigência do aditivo contratual objeto da controvérsia, “o contrato retornou ao status quo, procedendo-se os faturamentos dos meses posteriores independente da data da conta, conforme orientação”.
+Assevera que “a submissão do aditivo contratual ao Agravante, em flagrante prática abusiva, causaram prejuízos financeiros no importe de R$ 991.065,26 (novecentos e noventa e um mil sessenta e cinco reais e vinte e seis centavos).”
+Segue argumentando que “Os descontos efetivados causaram um verdadeiro rombo nas contas do Hospital, uma vez que contava com a integralidade dos valores faturados para honrar com os compromissos assumidos, além do pagamento do décimo terceiro salário de seus colaboradores.”
+Afirma que a Agravada fez “confusão no pedido inicial” e, consequentemente “induz a erro o juízo de piso ao afirmar que ‘a glosa (“desconto” ou “abatimento”) decorrente da extrapolação do limite orçamentário (target) não incidiu sobre período posterior ao término do período ajustado, ou seja, sobre serviços prestados após 31 (trinta e um) de agosto/2020.”
+Por derradeiro, registra que “não está discutindo a data dos serviços relativos a glosa ou sequer a data da glosa. O que se discute nos autos é a abusividade do contrato, que reduz em 50% (cinquenta por cento) o valor nominal dos serviços prestados pela Agravante à Agravada, que ultrapassarem o teto orçamentário.”
+Forte nesses argumentos, requer seja agregado efeito ativo ao recurso. No mérito, requesta pelo provimento do Instrumental interposto.
+É o relatório do necessário. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, eis que a hipótese se enquadra perfeitamente na hipótese prevista no inciso I do artigo 1.015 do CPC, bem como está instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, inciso I, do novo CPC.
+Como é cediço, o artigo 1.019 inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Neste contexto, é vedado, nos estreitos limites deste Instrumental, o exame de questões de fundo do direito discutido, sendo pertinente apenas aferir se estão, ou não, presentes os requisitos necessários para concessão do efeito suspensivo, já que o Agravante busca sobrestar os efeitos da decisão objurgada até o julgamento definitivo do recurso.
+Da análise acurada dos autos, nesta fase de cognição sumária, não entrevejo com clareza necessária a confluência dos pressupostos autorizadores para a concessão da medida in limine.
+Com efeito, neste recurso cabe apenas averiguar o acerto ou desacerto do Julgador singular ao revogar a tutela antecipada concedida no primeiro momento, em favor da Recorrente.
+Dito isto, ao sopesar os elementos probatórios até o momento colacionados, noto que o negócio jurídico entre as partes sobreu alterações por meio de aditivo contratual com vigência entre 1.o de outubro de 2019 a 31 de agosto de 2020, como se vê do ID. 74495469.
+No referido aditivo, é possível vislumbrar que, de fato, a Agravada propôs cláusula contratual estipulando em 50% (cinquenta por cento) o valor nominal da prestação de serviço hospitalar entre Agravante e Agravada.
+Neste aspecto, em que pesem às alegações expostas pela Recorrente de que a empresa Agravada utilizou-se de prática abusiva em razão da desta cláusula, não é possível identificar, ao menos prima facie, a ocorrência de coação da Agravante por parte da empresa Agravada.
+Nota-se do aditivo contratual que a Agravada condiciona a continuidade do negócio jurídico entre ambas, à assinatura do aditivo contratual, como se vê do ID. 74495469 – págs. 69/71. Todavia, em que pese constar tal condicição, não é de clareza palmar a abusividade na proposta contratual da Agravada.
+Ou seja, na fase em que se encontram os autos originários, não é possível aferir se o posicionamento da Recorrida fere os princípios da boa-fé objetiva e da função social do contrato, de modo a conferir plausibilidade às alegações em que se assenta este recurso.
+Ademais, não entrevejo qualquer motivo para deduzir que a espera pelo julgamento de mérito deste instrumental colocará em risco qualquer direito ou interesse da Agravante e, tampouco a eficácia do provimento final, posto que o aditivo contratual data 01/10/2019, ao passo que a Agravante somente neste momento almeja o reconhecimento de abusividade.
+Por essas razões, indefiro o pedido de efeito suspensivo/ativo.
+Intime-se a Agravada para, querendo, apresentar defesa, nos termos do artigo 1.019, II do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 08 de fevereiro de 2021.
+Desa. Clarice Claudino da Silva
+Relatora
