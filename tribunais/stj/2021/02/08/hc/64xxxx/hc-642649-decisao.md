@@ -1,0 +1,37 @@
+DECISÃO
+Neste habeas corpus, com pedido liminar, impetrado em favor de Maive Moura Santose Breno Walefe Silva Lima (ou Bruno Walefe Silva Maia) - condenadoscomoincursos no art. 157, § 2º, II e V;e § 2º-A, I, do Código Penal, à pena de 8 anos de reclusão, em regime inicial fechado, além do pagamentode 10 dias-multa (Apelação Criminal n. 0002962-91.2020.8.01.0001, doTribunal de Justiça do Acre) -, sob alegação de constrangimentoilegal na fração de aumento aplicadaem decorrência das majorantes do crime de roubo, requer-se, em liminar, a suspensão dos efeitos do acórdão da apelação e, no mérito, a redução da pena e o abrandamento do regime inicial de cumprimento.
+É o relatório.
+A ordem não merece concessão.
+Ao contrário do que sustenta a defesa dos pacientesa fixação da fração de aumento, decorrente das majorantes do crime de roubo (art. 157,§ 2º, II e V, do CP), não foi estabelecida por simples critério matemático - o que repudiado conforme o entendimento firmado no enunciado da Súmula 443/STJ -, mas com base em elementos concretos e idôneos (notadamente a restrição da liberdade das vítimas por tempo considerável), conforme se extrai do seguinte trecho do acórdão combatido (fl. 457 - grifo nosso):
+ ..  Vislumbro ainda a incidência das majorantes do concurso de pessoas e restrição de liberdade das vítimas, uma vez que restou comprovado que os réus mantiveram as vítimas amarradas e sob guarda de um dos comparsas e mira de arma de fogo por longo período de tempo, haja vista que os fatos se deram por volta das 16h e os réus foram presos somente no período noturno.
+Entendo, ainda, pela aplicação da majorante do emprego de arma de fogo considerando que foram apreendidas e submetidas a perícia conforme fls.313/320 ..
+Em casos que tais, a jurisprudência desta Corte tem afastado a alegada vulneração ao entendimento que subsidiou o enunciado sumular em referência:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO TRIPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. ELEVAÇÃO DA PENA NA TERCEIRA FASE DA DOSIMETRIA. PATAMAR DE 5/12 (CINCO DOZE AVOS). FUNDAMENTAÇÃO ADEQUADA. SÚMULA N. 443/STJ. PROPORCIONALIDADE. OBEDIÊNCIA. REGIME INICIAL DE CUMPRIMENTO. MODALIDADE FECHADA FIXADA COM BASE NA GRAVIDADE CONCRETA DO DELITO. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. SÚMULA N. 568/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+I - Admite-se, na terceira fase da dosimetria da pena, a exasperação da reprimenda acima do patamar mínimo, desde que apresentada fundamentação concreta, baseada em dados extraídos dos autos, não se revelando legítimo invocar-se para tanto, tão somente, a quantidade de majorantes para o delito de roubo (Súmula 443/STJ).
+II - In casu, não assiste razão ao agravante, porquanto houve, de fato, a devida fundamentação pelo eg. Tribunal de origem, ao aplicar a fração de cinco doze avos, na terceira fase da dosimetria, não se amparando, portanto, tão somente no número de majorantes para elevar a pena do réu mas, sim, nas circunstâncias fáticas em que o crime foi praticado: em "concurso de agentes", com "restrição da liberdade da vítima", que teve que permanecer no próprio veículo roubado enquanto os agentes o conduziam a local distante de sua residência, estando todo esse tempo com "arma de fogo" apontada para as suas costas.
+ ..
+(AgRg no AREsp n. 1.251.652/SP, Ministro Felix Fischer, Quinta Turma, DJe 25/5/2018 - grifo nosso)
+ ..
+9. Descabe falar em ofensa à Súmula 443/STJ, porquanto as circunstâncias concretas do delito de roubo, praticado mediante o emprego de armas de fogo, com o concurso de cinco agentes e restrição da liberdade das vítimas por mais de uma hora, evidenciam a necessidade de maior resposta penal, em atendimento ao princípio da individualização da pena. Da mesma forma, forçoso concluir que o incremento superior ao mínimo legal no tocante ao crime de extorsão mereceu fundamentação idônea, por se tratar de crime praticado por cinco agentes e com o emprego de armas de fogo. 10. Nos termos da jurisprudência desta Corte, conquanto os crimes de roubo e extorsão sejam do mesmo gênero, são de espécies distintas, o que afasta a possibilidade de reconhecimento da continuidade delitiva, tornando despiciendo o exame dos requisitos objetivos e subjetivos necessários para a incidência do art. 71 do Código Penal.
+ ..
+(HC n. 297.534/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 1º/12/2017 - grifo nosso)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. RESTRIÇÃO DA LIBERDADE DA VÍTIMA. CAUSA DE AUMENTO DE PENA. AFASTAMENTO. RESTRIÇÃO MANTIDA SOMENTE APENAS DURANTE A SUBTRAÇÃO DOS BENS. TERCEIRA FASE. MAJORANTES. CRITÉRIO MATEMÁTICO. INCIDÊNCIA DA SÚMULA 443/STJ. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Este Superior Tribunal de Justiça firmou entendimento no sentido de que devida a aplicação da causa de aumento nos casos em que a vítima for mantida por tempo juridicamente relevante em poder dos agentes, devendo ser afastada nas hipóteses em que a restrição ocorreu somente durante a subtração dos bens.
+2. Nos termos do enunciado de Súmula 443/STJ, o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+3. Decisão monocrática mantida por seus próprios fundamentos.
+4. Agravo regimental improvido.
+(AgRg no REsp n. 1431099/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/10/2017 - grifo nosso)
+ ..
+3. As instâncias ordinárias, ao reconhecerem a incidência das causas de aumento do concurso de agentes e da restrição à liberdade da vítima, aplicaram a fração de 3/8 para majorar a pena, sem que reste evidenciada violação da Súmula 443/STJ. Isso porque as circunstâncias concretas do delito, praticado com o concurso de dois agentes, com ameaça de morte e restrição à liberdade da vítima por tempo razoável, eis que mantida no banco de passageiro de seu veículo, enquanto o réu dirigia por vias públicas em alta velocidade, tendo colidido com outros veículos e atropelado um ciclista, denota a necessidade de maior resposta penal, em atendimento ao princípio da individualização da pena e, portanto, não se infere ilegalidade no aumento superior a 1/3 pela incidência das duas majorantes do crime de roubo.
+ ..
+(HC n. 410.570/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 21/9/2017 - grifo nosso)
+ ..
+2. O Superior Tribunal de Justiça - STJ consagrou o entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo majorado, em fração mais elevada que 1/3 (um terço), demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de causas de aumento. Nesse diapasão, a Súmula n. 443/STJ.
+3. Na hipótese dos autos, as instâncias ordinárias destacaram fundamentação concreta que justifica a exasperação em patamar acima do mínimo legal, em face da superioridade numérica dos agentes envolvidos na empreitada criminosa, além de emprego da arma, indicando maior reprovabilidade da conduta.
+ ..
+(HC n. 345.965/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 25/5/2016)
+Em face do exposto, denego a ordem (art. 34, XVIII,b, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. SUPOSTA ILEGALIDADE NA FRAÇÃO DE AUMENTO APLICADA EM DECORRÊNCIA DAS MAJORANTES DO CRIMES DE ROUBO (ART. 157,§ 2º, II e V, DO CP). IMPROCEDÊNCIA. EXISTÊNCIA DE FUNDAMENTAÇÃO CONCRETA NO ARESTO IMPUGNADO.PRECEDENTES DO STJ.
+Ordem denegada.
