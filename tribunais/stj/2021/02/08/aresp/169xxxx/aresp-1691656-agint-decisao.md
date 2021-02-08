@@ -1,0 +1,61 @@
+DECISÃO
+João Carlos Correa interpõe agravo interno contra decisão proferida pela Presidência desta Corte nos seguintes termos (e-STJ, fls. 789-790):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de violação/negativa de vigência/contrariedade, Súmula 7/STJ e ausência/deficiência de cotejo analítico. Entretanto, a parte agravante deixou de impugnar especificamente: ausência de violação/negativa de vigência/contrariedade e Súmula 7/STJ.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+ ..
+Ante o exposto, com base no art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial
+Sustenta a parte agravante que houve a impugnação do fundamento da decisão de admissibilidade (e-STJ, fls. 739-796).
+De fato, verifica-se que a petição de agravo em recurso especial (e-STJ, fls. 770-774) impugnou, ainda que sucintamente, a decisão que inadmitiu o recurso especial.
+Portanto, com apoio no art. 259 do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 789-790 (e-STJ).
+Passo à análise do agravo em recurso especial.
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por João Carlos Correa, com base no art. 105, III, a e c, da Constituição Federal.
+Compulsando os autos, verifica-se que a parte agravanteingressou com ação de ressarcimento de danos (e-STJ, fls. 1-12), tendo o Juízo de primeiro grau julgado improcedenteopedido(e-STJ, fls. 643-647).
+Interpostaapelação pelo ora agravante, o Tribunal estadual decidiu, por unanimidade, negar-lhe provimento, em acórdão assim ementado (e-STJ, fl. 698):
+APELAÇÃO CÍVEL Interposição contra sentença que julgou improcedente a ação de ressarcimento de danos. Contrato de seguro de vida em grupo. Não caracterizada a invalidez funcional permanente total por doença. Exclusão expressa na apólice. Indenização não devida. Honorários advocatícios majorados, nos termos do artigo 85, § 11º, do Código de Processo Civil/2015. Sentença mantida. Apelação não provida.
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, orecorrente alegou violação ao art. 51, IV, do CDC, além de afirmar a existência de divergência jurisprudencial (e-STJ, fls. 709-719).
+Contrarrazões apresentadas (e-STJ, fls. 760-764).
+O Tribunal de origem não admitiu o processamento do recurso especial por não ter sido demonstrada a ofensa ao dispositivo legal apontado; em virtude da incidência daSúmula7/STJ; e devido àausência de demonstração do dissídio jurisprudencial (e-STJ, fls. 765-767).
+Foi interposto agravo em recurso especial às fls. 770-774 (e-STJ), e contraminuta apresentada às fls. 777-782 (e-STJ).
+Brevemente relatado, decido.
+O Colegiado originário, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 700-704):
+Quanto ao mérito, observa-se que foi firmado contrato de seguro de vida em grupo entre a empregadora do autor, Mercedes Benz do Brasil Ltda. e a ré (fls. 57/104 e 205/315).
+O autor ajuizou a presente ação, aduzindo que encontra-se parcial ou total e permanentemente incapacitado, eis que no exercício da função agressiva na empresa, desenvolveu problemas no ombro direito e no joelho esquerdo. Os exames de ressonância magnética apontam para o agravamento das doenças/lesões no ombro direito e no joelho esquerdo que afligem o autor. Afirmou, ainda, que Em 22 de Julho de 2015 o Autor foi submetido a artroscopia cirúrgica no joelho esquerdo devido a CID M224 - Condromalácia da Rótula (fls. 05).
+No conceito legal, o seguro é o contrato pelo qual o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados (artigo 757 do Código Civil).
+Importante a fixação desse conceito, para não se olvidar que a bilateralidade contratual se desenvolve na adequação prêmio/risco coberto: o prêmio é fixado exatamente em função do risco garantido.
+Especificamente, na execução do contrato de seguro, são obrigados, segurado e segurador, a guardar a mais estrita boa-fé (artigo 765, do Código Civil).
+Tendo presente essa realidade, quando a apólice limitar ou particularizar os riscos do seguro, não responderá por outros o segurador.
+Tal estipulação não pode ser tido por abusiva, mesmo à luz do Código de Defesa do Consumidor, certo que a seguradora pode predeterminar os riscos, autorizada que está pelo artigo 757, do Código Civil.
+Entretanto, a questão central, e que impede o acolhimento do pedido do autor, está na ausência de previsão contratual a respeito do pagamento da indenização pleiteada nos autos.
+Em primeiro lugar, não há como se confundir acidente e doença. Se um é basicamente constituído por macrotrauma, a outra por sucessivos microtraumas, ainda assim a diferença substancial está no aparecimento de sequelas de uma só vez ou não.
+Depois, não teria o menor sentido o contrato de seguro dispor sobre os dois eventos se ambos se confundissem, isto é, doença igual a acidente.
+A prova produzida nos autos assegura que o autor não possui invalidez permanente total ou parcial por acidente, pois o contrato de grupo não propicia a cobertura básica para o mal que sofre o autor.
+Nos termos das apólices de seguro de vida em grupo (fls. 218 e 221/222), a garantia do segurado se refere a: morte, morte acidental, invalidez permanente por acidente, invalidez funcional permanente total por doença e cláusula complementar de inclusão de cônjuge.
+O laudo pericial de fls. 575/585, além de atinentes às normas em espécie, concluiu que a condição do periciando não se enquadra em situação para as indenizações pleiteadas (garantias para invalidez permanente total ou parcial por acidente e invalidez funcional permanente por doença). Prossegue afirmando que tem incapacidade laboral de forma parcial e permanente, devendo ser realocado em funções de menor complexidade (fls. 583).
+ ..
+Assim, a problemática física do autor, não se enquadra nas cláusulas das garantias contidas na apólice de seguro de vida em grupo.
+ ..
+Assim, embora se reconheça os danos sofridos pelo autor há também o reconhecimento de que o mesmo não possui invalidez funcional permanente total por doença.
+ ..
+Logo, uma vez caracterizado não ser o autor portador de invalidez funcional permanente total por doença, é de se negar o pedido inicial, porquanto se trata de situação não coberta pelo seguro de vida firmado entre as partes.
+Frise-se, ainda que a legislação previdenciária e acidentária equipare doença do trabalho a acidente típico do trabalho para o fim de concessão do benefício pertinente, isto não guarda relação de causa e efeito com o contrato de seguro, que é regido pelo Código Civil.
+Com efeito, atentando-se ao argumento trazido pela insurgente - nulidade de cláusula contratual por entender ser abusiva- e aos fundamentos destacados e adotados pela Corte estadual, verifica-se que estes não foram objetos de impugnação específica nas razões do recurso especial, e a manutenção de argumentos que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+Nessa linha:
+AGRAVO INTERNO. RECURSO ESPECIAL. ADMINISTRATIVO. SERVIDOR PÚBLICO.LICENÇA-PRÊMIO.CÔMPUTO PARA ABONO DE PERMANÊNCIA E POSTERIOR CONVERSÃO EM PECÚNIA. SÚMULAS 5/STJ E 7/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+1. O exame da tese recursal de que a cláusula "i" do acordo firmado entre as partes demonstra que o servidor que usou a licença-prêmio para o recebimento do abono de permanência e teve indeferido seu pedido administrativo não é abrangido pelo título judicial demanda exame de provas e de cláusulas contratuais inalcançável pelo STJ, ante o disposto na Súmulas 5/STJ e 7/STJ.
+2. Ainda que não incidisse ao caso o óbice das retromencionadas Súmulas, a ora agravante não infirmou os argumentos adotados pela Corte a quo de que: a) em razão de a licença para obtenção antecipada do abono constituir, em tese, fato impeditivo do direito, tal questionamento deveria ter sido alegado e analisado no próprio processo de conhecimento; b) não há enriquecimento ilícito, porque "a correta liquidação pressupõe, tal como referido no precedente citado, a retificação de data inicial do recebimento do abono de permanência mediante a desaverbação dos períodos de licença-prêmio que ele pretende converter em pecúnia, compensando-se, do montante executado, os valores pagos àquele título até o momento em que o servidor passou a ter direito ao abono independentemente do cômputo das licenças." Por isso, aplicam-se, na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Agravo Interno não provido.
+(AgInt no REsp 1879222/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO RESCISÓRIA. TRANSFORMAÇÃO DO CARGO DE PROCURADOR. ALEGAÇÃO VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/73). QUESTÕES APRESENTADAS DE FORMA GENÉRICA.SÚMULA N. 284 DO STJ. NULIDADE DO ACÓRDÃO POR DEFICIÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. POSSIBILIDADE DE FUNDAMENTAÇÃO PER RELATIONEM. PRECEDENTES. RECONHECIMENTO DE NULIDADE DE ATOS ADMINISTRATIVOS E JUDICIAIS. NECESSIDADE DE DEMONSTRAÇÃO DO PREJUÍZO. EXISTÊNCIA DE FUNDAMENTO SUFICIENTE E NÃO REBATIDO.INCIDÊNCIA DAS SÚMULAS N. 283 E 284 DO STF.
+ ..
+IX - Dessa forma, considerando que esse fundamento foi utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo e não foi rebatido no apelo nobre, é de rigor a incidência, à hipótese, dos óbices das Súmulas n. 283 e 284, ambas do STF.
+X - Agravo interno improvido.
+(AgInt nos EDcl no AREsp 1330851/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020)
+Ademais, na análise do recurso especial pela alínea c do permissivo constitucional, constata-se que orecorrenteapontadivergência jurisprudencial no sentido de ver reconhecida a tese referente a nulidade de cláusulas alteradas posteriormente a assinatura de seguro e que excluíram os direitos anteriormente assegurados, bem como que as doenças profissionais devem ser inseridas no conceito de acidente.
+Justificando o dissídio apontado, apresenta paradigmas inseridos em acórdãos proferidos pelo TJDFT e TJPR, no qual ficou reconhecida, no primeiro, que a redação da cláusula de exclusão de cobertura era confusa, infringindo o dever de informação, e, no segundo, que houve alteração de cláusula contratual que resultou na exclusão de cobertura.
+Realizando-se a devida comparação entre os acórdãos confrontados, constata-se inexistir similitude fática entre os julgados, tendo, no caso debatido neste recurso especial, ficado demonstrada a existência de cláusula clara no contrato com as garantias do segurado, não havendomenção a alteração contratual ou mesmo falha no dever de informação.
+Assim, considerando que os acórdãos indicados como paradigma pelorecorrentenãoapreciaram questão fática idêntica àdos autos, não é possívelo conhecimentodo recurso especial interposto com fundamento na alínea c do art. 105,III, da Constituição Federal.
+Ante o exposto, em juízo de reconsideração da decisão de fls. 789-790 (e-STJ), conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em 2% (dois por cento) sobre o valorda causa, em favor doadvogadoda parte recorrida, suspensa a exigibilidade em razão da gratuidade de justiça deferida aorecorrente.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESSARCIMENTO DE DANOS. SEGURO DE VIDA. 1. RECONSIDERAÇÃO DA DECISÃO. NOVO EXAME DO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO REALIZADA. 2. EXISTÊNCIA DE CLÁUSULAABUSIVA. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. 3. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
