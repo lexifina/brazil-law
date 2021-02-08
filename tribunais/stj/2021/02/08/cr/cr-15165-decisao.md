@@ -1,0 +1,23 @@
+DECISÃO
+Retornam os autos a essa relatoria em razão de ofício da autoridade central, em que destaca que (fl. 108):
+ ..  a decisão judicial de fls. 99, que determina a devolução dos autos à justiça rogante, não diz respeito à carta rogatória em questão (e sim a outra, de natureza penal), e que aparentemente ainda não foi concedido exequatur à carta rogatória cível de origem da Suíça, solicitamos a gentileza que se dê continuidade a este processo.
+Com razão a autoridade central, pois a decisão de fls. 99-100 aponta como interessado AGOSTINHO MANUEL DE JESUS VENTURA, sendo que a pessoa interessada no presente processo é MÔNICA ALVES DOS SANTOS WOODTLI.
+Neste contexto, chamo o feito àordem para tornar sem efeito a decisão de fls. 99-100 e, consequentemente, passo ànova análise da presente comissão.
+Cuida-se de carta rogatória por meio da qual a Justiça suíçasolicita a notificação de MÔNICA ALVES DOS SANTOS WOODTLI para responder ação de sucessão e partilha (fls. 3-18).
+A intimação prévia foi recebida por terceiros, conforme atestam os documentos postaisde fls. 32-35.
+A Defensoria Pública, na qualidade de curadora especial, impugnou a presente rogatóriasob o argumento preliminar de ausência de "tradução dos documentos de fls. 3/6 e 22/25" (fl. 79). Agrega alegação de quea parte não tomou ciência daintimação prévia e requer que seja indicado defensor público ou advogado pro bonona origem para defender os interesses da interessada(fls. 56-58).
+O Ministério Público Federal opinou pela concessão da comissão para citara parte interessada por oficial de justiça, visto tratar-se de ação de estado da pessoa (fls. 85-87).
+É, no essencial, o relatório. Decido.
+De início, sem amparo a alegação daDefensoria Pública quanto àausência de tradução, visto quea comissão foi encaminhada pela via diplomática, o que presume a autenticidade dos documentos e dispensa da tradução pormenorizada de todos os documentos existentes, bastando queos documentos que acompanham a comissão permitam a compreensão da controvérsia, não havendo comprometimento do direito de defesa.
+Neste sentido, confiram-se julgados:
+1. A tramitação oficial de carta rogatória - por intermédio da via diplomática - pressupõe a autenticidade dos documentos anexados e dispensa a tradução por profissional juramentado no Brasil.
+2. Inexiste prejuízo para a defesa da parte interessada quando é possível compreender o pedido e as informações contidas no documento traduzido em carta rogatória.(AgInt nos EDcl na CR n. 14.434/EX, relator MinistroJoão Otávio de Noronha, Corte Especial, DJe de 25/10/2019.)
+1. A solicitação da Justiça rogante, por intermédio da via diplomática, presume a autenticidade dos documentos anexados. A tramitação oficial faz dispensar a tradução por profissional juramentado no Brasil e, nos presentes autos, os documentos que acompanham a comissão permitem a compreensão da controvérsia, não havendo comprometimento do direito de defesa.(AgInt na CR n. 12.027/EX, relatora Ministra Laurita Vaz, Corte Especial, DJe de 23/5/2018.)
+Desse modo, não há falar em deficiência na instrução da presente carta rogatória ou em prejuízo à compreensão da controvérsia pelo interessado.
+Quanto à ausência de intimação prévia, não merecem prosperar os argumentos da curadoria especial, uma vez que a matéria já está pacificada naCorte Especial no sentido da validade da intimação prévia da carta rogatória, por via postal, recebida por terceiro: AgRg na CR n. 9.824/EX, relator Ministro Francisco Falcão, DJe de 28/6/2016, eAgInt na CR n. 10.590/EX, relatoraMinistra Laurita Vaz, Corte Especial, DJe de 4/4/2017.
+No tocante ao pedido da Defensoria de nomeação de defensor público ou advogado pro bono para patrocínio da parte interessada no Juízo rogante, essa questão é afeta à autoridade central competente, nos termos do Decreto n. 8.343/2014.
+No mais, o objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c oart. 216-P do RISTJ, concedo o exequaturpara citar a interessadapor meio de oficial de justiça.
+Ante o exposto, remeta-se a comissão à Justiça Federal, à Seção Judiciária de Minas Gerais, para as providências cabíveis,recomendando-se, desde já, caso ainteressadanão sejalocalizada, a promoção de diligências paraencontrar o seu endereço atualizado, notadamente em órgãos públicos bem como nas concessionárias de serviços públicos (v.g., água, energia e telefonia).
+Cumpra-se a diligência em 90 dias.
+Após, devolvam-se os autos ao STJ para que sejam enviados ao país de origem por meio da autoridade central competente.
+Publique-se. Intimem-se.
