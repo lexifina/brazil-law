@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. INCIDÊNCIA.
+A ausência de impugnação a todos os fundamentos da decisão agravada atrai, in casu, a incidência do óbice da Súmula n. 182/STJ.
+Agravo regimental não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por MATHEUS DE ABREU DECKER contra decisão monocrática da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, por intempestividade do recurso especial e, também, porintempestividade do agravo em recurso especial (fls. 365-366).
+Consoante se depreende dos autos o agravante foi condenado, em primeiro grau, como incurso nas sanções do art. 33, caput, c.c. art. 40, V, ambos, da Lei 11.343/06, às penas de 7 (sete) anos de reclusão, no regime inicialfechado, mais700 (setecentos) dias-multa (fls. 195-202).
+O eg. Tribunal a quo, à unanimidade de votos, negou provimento à apelação criminal da Defesa, nos termos da ementa seguinte (fls. 251-260):
+"APELAÇÃO  Art. 33, caput, cic art. 40 1 V, todos da Lei 11.343/06 condenado às penas de 07 anos de reclusão e 700 dias-multa  regime fechado : - O apelante trazia consigo e transportava, para fins de tráfico ilícito, 8.448g de MACONHA em 07 tabletes. Durante o transporte do entorpecente, cruzou estados do país, restando assim caraterizado o tráfico interestadual.Improsperável o pleito de aplicação da pena no mínimo legal: É certo que o art. 59 do CP já previa a personalidade e conduta social do agente como circunstâncias que elevam a pena-base, porém o art. 42 da Lei 11.343/06 traz circunstâncias preponderantes, mais importantes que as outras, quais sejam, a natureza e quantidade da substância entorpecente. A enorme quantidade de droga apreendida com o ora apelante ( 8.448g de maconha) de fato justifica o aumento da pena .Não cabimento do reconhecimento da menoridade: com o advento da nova maioridade fixada no C. Civil, que agora ocorre aos 18 anos de idade, não há mais qualquer restrição entre essa idade e os 21 anos. Não pode o caráter puramente biológico prevalecer sobre o estipulado a partir da entrada em vigor do Novo Código Civil.Impossível a aplicação do artigo 33, § 4º da Lei 11343/06: a referida causa de diminuição é destinada ao pequeno traficante, ao traficante eventual e não àquele comprometido com o tráfico organizado, afinal, trazia consigo e transportava grande quantidade de drogas. Pela enorme quantidade da droga constata-se que o ora apelante tinha a confiança do traficante para trazer e transportar uma carga tão valiosa no mundo do tráfico e que era destinada ao comércio ilícito, não se tratando de um traficante ocasional, aquele que a lei quis beneficiar.
+Manutenção da sentença. DESPROVIMENTO DORECURSO."
+Nas razões do recurso especial, interposto com fundamento no art. 105, inciso III, alínea a, da Constituição da República, a Defesa alegou violação aos arts. 33, § 4º,da Lei n. 11.343/2006(fls. 269-298).
+Apresentadas as contrarrazões (fls. 302-308), o especial foi inadmitido na origem pelos seguintes fundamentos: a) incidência da Súmula n. 7/STJ; eb) aplicação da Súmula 83/STJ (fls. 310-314).
+Foi interposto o respectivo agravo, no qual o recorrente repisou os argumentos expendidos no apelo nobre (fls. 323-343).
+A Contraminuta foi apresentada pelo Ministério Público estadual (fls. 347-349).
+Em decisão de fls.365-366 a d. Presidência deste Superior Tribunal de Justiça não conheceu do agravo em recurso especialpela intempestividade do recurso especial. e pelaintempestividade do agravo em recurso especial.
+Nas razões deste recurso a Defesa assevera que o recurso especial é tempestivo, argumentando, resumidamente que:
+a) "Conforme se extrai da árvore do sistema eletrônico do TJRJ, em que pese ter sido o r. Acórdão publicado no dia 10 de fevereiro (fl. 261), não houve a intimação eletrônica do advogado subscritor. Ao contrário do ocorrido para o Ministério Público "(fl. 372).
+b) "Conforme previsto na Lei n.º 11.419 de 2006, que trata da informatização do processo judicial, esta determinou expressamente, em seu artigo 5º, que a publicação em Diário é dispensável, in litteris:Art. 5º As intimações serão feitas por meio eletrônico em portal próprio aos que se cadastrarem na forma do art. 2º desta lei, dispensando-se a publicação no órgão oficial, inclusive eletrônico.No mesmo sentido, o art. 270 do CPC, ao dispor sobre as intimações, prevê que: "As intimações realizam-se, sempre que possível, por meio eletrônico, na forma da lei" (fl. 372).
+c)"A forma de contagem do prazo ser em dias corridos ser mantida, por ter sido tratada no CPP, certamente afastou a incidência da contagem em dias úteis (previsão do CPC). Mas, quanto a intimação eletrônica, indiscutível a aplicação da Lei 11.419/2006 e do artigo 270 do CPC" Desta forma, ante a ausência de intimação eletrônica, sendo o conhecimento contado a partir da data do presente protocolo, tem-se como tempestivo o recurso ora protocolado."(fl. 375, grifei).
+d) "De outra banda, para espancar qualquer dúvida acerca da tempestividade, consta no bojo dos autos, Certidão de Autuação do Recurso Especial às fls. 300 certificando no "campo prazo" um "x" "269" "Recurso Tempestivo"(fl. 375).
+Pelo despacho de fl. 410, foi determinada a redistribuição dos autos. Conforme Termo de Distribuição e Encaminhamento de fl. 413, o feito foi a mim atribuído.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo regimental (fls. 415-416).
+Requer, a reforma da decisão agravada, com o provimento do recurso especial.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. INCIDÊNCIA.
+A ausência de impugnação a todos os fundamentos da decisão agravada atrai, in casu, a incidência do óbice da Súmula n. 182/STJ.
+Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO FELIX FISCHER:O presente agravo não reúne condições para ser conhecido
+A Presidência desta Corte Superior de Justiça, não conheceu do recursopela intempestividade do recurso especial e do agravo em recurso especial, como bem destacou a decisão recorrida "a parte recorrente foi intimada do acórdão recorrido em 10/02/2020, sendo o recurso especial interposto somente em 06/03/2020". E "Ainda, a parte recorrente foi intimada da decisão agravada em 29/05/2020, sendo o agravo somente interposto em 16/06/2020" (fls. 365-366, grifei).
+O agravante, contudo, nas razões deste agravo regimental, limita-se a tecer um resumo histórico do feito e a reiterar os argumentos expendidos quando da interposição dos recursos anteriores, deixando de desincumbir-se do ônus de infirmar todos os fundamentos da decisão monocrática recorrida que pretende desconstituir, qual seja, a decisão que não conheceu do agravo em recurso especial.
+Com efeito,o recorrente nada menciona a respeito da intempestividade do agravo em recurso especial.
+De fato, no presente agravo regimental, nada menciona a respeito desse fundamento da decisão recorrida, tendo se limitado a alegar, tão somente, que "Conforme se extrai da árvore do sistema eletrônico do TJRJ, em que pese ter sido o r. Acórdão publicado no dia 10 de fevereiro (fl. 261), não houve a intimação eletrônica do advogado subscritor. Ao contrário do ocorrido para o Ministério Público"(fl. 372, grifei).
+Tal circunstância, como cediço, atrai, in casu, a aplicação do enunciado da Súmula n. 182 desta Corte Superior de Justiça, que dispõe, verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Assim, verificada esta hipótese  ausência de impugnação de todos os fundamentos da decisão agravada  o recurso não merece ser conhecido, conforme remansosa jurisprudência desta Corte, v.g.
+Nesse sentido, confiram-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA COLEGIALIDADE. VIOLAÇÃO INOCORRENTE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não há maltrato ao princípio da colegialidade, pois, consoante disposições do Código de Processo Civil e do Regimento Interno desta Corte, o relator deve fazer um estudo prévio da viabilidade do recurso especial, além de analisar se a tese encontra plausibilidade jurídica, uma vez que a parte possui mecanismos processuais de submeter a controvérsia ao colegiado por meio do competente agravo regimental. Ademais, o julgamento colegiado do recurso pelo órgão competente supera eventual mácula da decisão monocrática do relator.
+2. Cabe ao agravante, nas razões recursais, atacar especificamente os fundamentos da decisão agravada, sendo inviável o regimental que deixa de fazê-lo ou apenas formula alusões genéricas aos motivos que conduziram ao não conhecimento do agravo em recurso especial. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido" (AgRg no AREsp n. 1.021.378/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 5/4/2017)
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO.
+1. É inviável o agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932 III e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+2. Agravo regimental não conhecido" (AgRg no AREsp n. 979.894/PB, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 21/6/2017).
+Diante do exposto, não conheço do agravo regimental.
+É o voto.
