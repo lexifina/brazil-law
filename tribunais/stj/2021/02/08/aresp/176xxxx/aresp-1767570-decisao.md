@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALBERTO ARLINDO POCAS contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal. O apelo nobre insurge-se contra acórdão do Tribunal de Justiça do Estado do Paranáassim ementado:
+"EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO. IMPENHORABILIDADE DE BEM IMÓVEL.1.DECISÃO . NÃO CARACTERIZADA. EXTRA PETITA 2.INOVAÇÃO RECURSAL ARGUIDA EM CONTRARRAZÕES. INOCORRÊNCIA. MATÉRIA EXPRESSAMENTE DEBATIDA EMPRIMEIRO GRAU DE JURISDIÇÃO. JUNTADA DE DOCUMENTOS. VIABILIDADE. CONTRAPOSIÇÃO À DECISÃO AGRAVADA. 3.PEQUENA PROPRIEDADE RURAL. IMPENHORABILIDADE. IMÓVEL QUE NÃO ULTRAPASSA 4 (QUATRO) MÓDULOS FISCAIS (LEI Nº 8.629, ART. 4º, INCISO I E II, "A") E TRABALHADOPELA FAMÍLIA. PRESUNÇÃO. DESNECESSIDADE DE PROVA DEQUE SE TRATA DO ÚNICO BEM DE SUA PROPRIEDADE. REFORMA DA DECISÃO.RECURSO PROVIDO" (fl. 196e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 231-242e-STJ).
+No especial, o recorrente alega violação dos arts. 434 e 435do Código de Processo Civil de 2015 e 373 e 373 e 4º da Lei nº 4.504/1964. Sustenta, em síntese, que os documentos apresentados não são capazes de comprovar os elementos necessários para o reconhecimento da impenhorabilidade do imóvel e a impossibilidade de juntada de documentos que não eram novos.
+Contrarrazões às fls. 278-293(e-STJ) e não admitido o recurso na origem, adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão recursal não merece prosperar.
+No que diz respeito ao reconhecimento da impenhorabilidade da pequena propriedade rural, o Tribunal de origem consignou o seguinte:
+"(..)
+24. Desse modo, analisam-se os requisitos para o enquadramento do imóvel penhorado como pequena propriedade rural, quais sejam: a) inferior a 4 (quatro) módulos fiscais e b) trabalhado pela família.
+25. Pois bem. Observa-se que o imóvel de matrícula n. 1.783, de propriedade do executado Manoel Batista Poças e de sua esposa Aparecida Linares Poças, possui área correspondente a 13,6125 hectares, e que o imóvel de matrícula nº 1.923 possui área semelhante de 13,6125 hectares (movs. 48.2 a 48.5 doprocesso originário). Verifica-se, portanto, que os dois imóveis de propriedade do executado, se confrontam e somam 27,225 hectares. Veja-se que, o módulo fiscal para a região de Sertanópolis é equivalente a 16 hectares, por isso, o limite legal de 4 módulos fiscais corresponde a 64 hectares, segundo informação extraída no sitedo Instituto Ambiental do Paraná - IAP (disponível em: http://www.iap.pr - acesso em maio de 2019).
+26. Desse modo, restou devidamente comprovado que os imóveis de matrícula nº 1.783 e nº 1.923 são qualificados como pequena propriedade rural, nos termos do art. 4º, da Lei nº 8.629/1993.
+27. Ademais, ressalta-se que a fração ideal objeto da penhora(mov. 55.1), consiste em 50% de cada uma das áreas rurais, o que representa cerca de 6,80 hectares de cada uma das propriedades rurais do agravante, o que reforça a situação de pequena propriedade rural.
+28. Em relação ao requisito de que a propriedade seja trabalhada pela família, é importante mencionar que milita em favor do agravado a presunção de que a pequena propriedade rural seja explorada pela entidade familiar.Assim, transfere-se ao exequente/agravante o ônus de demonstrar quenão há exploração familiar a fim de afastar a impenhorabilidade da pequena propriedade rural.
+(..)
+30. No caso dos autos, de acordo com a qualificação constante nas matrículas dos imóveis objeto de penhora, datada de agosto de 2018, o agravante exerce a atividade de agricultor (Registro nº 15, da matrícula nº 1.923 e Registro nº 18, da matrícula nº 1.783 - movs. 48.3 e 48.5 do processo originário). Ainda, a execução de título extrajudicial, antes da sub-rogação, pautava-se em notas promissórias assumidas no contrato de compra e venda de maquinárioagrícola, a serem pagas no equivalente de 1.900 (mil e novecentas) sacas de soja (mov. 1.1 do processo originário). Desse modo, ao contrário do decidido pelo juiz singular, há elementos nos autos que indicam a exploração do imóvel por entidade familiar.
+31. Frisa-se que, os comprovantes de atividade agrícola em nome do executado e de sua esposa, por meio de notas fiscais de compra e venda de produtos agrícolas, acostados no presente recurso de agravo de instrumento (movs.1.4 a 1.14), apenas corroboram as alegações iniciais.
+32. Por outro lado, não há nos autos elementos que afastem a presunção de que há exploração familiar no imóvel. O exequente, limita-se a alegar que o agravante apresentou documentos referentes a outros imóveis. Vale dizer, não se desincumbiu o exequente-agravado do seu ônus de demonstrar o contrário, de que não há exploração familiar da terra.
+(..)
+36. Assim, a exclusividade imobiliária, além de não ser requisito,não afasta só por si a impenhorabilidade da pequena propriedade rural" (fls. 202-210 e-STJ).
+Dessa forma, a revisão do julgado demandaria necessária incursão nos elementos fáticos constantes do processo, hipótese vedada, nesta sede, ante o teor da Súmula nº 7 desta Corte.
+Por fim, irrelevante o exame da ventilada afronta aos arts. 434 e 435 do Código de Processo Civil, tendo em vista que restou consignado no acórdão recorrido que "a despeito de diversos documentos terem sido apresentados somente em grau recursal, as alegações e documentação aventadas no processo originário, permitem, por si só, o reconhecimento da impenhorabilidade da pequena propriedade rural" (fl. 202 e-STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do Código de Processo Civil de 2015), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
