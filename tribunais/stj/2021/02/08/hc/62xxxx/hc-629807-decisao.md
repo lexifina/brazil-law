@@ -1,0 +1,6 @@
+DECISÃO
+DIOGO PEREIRA RODRIGUES, recorrente neste recurso em habeas corpus, alega sofrer constrangimento ilegal em decorrência de decisão proferida peloTribunal de Justiça do Estado de São Paulono HC n. 2253903-34.2020.8.26.0000.
+Primeiramente, cumpre registrar equívoco nas decisõesde fls. 168-171 e 189-191, haja vista a errônea indicação do ato coator.
+Ainda, conforme noticiam as informações prestadas pela Corte local, "o que o Agravo em Execução Penal nº 0007792-74.2020.8.26.0496 foi interposto pela Defesa diante da decisão proferida pelo Juiz da Unidade Regional de Departamento Estadual de Execução Criminal - Deecrim 6ª RAJ - Comarca de Ribeirão Preto, nos autos da Execução Criminal nº 0009510-03.2016.8.26.0026, que indeferiu o pedido formulado por Diogo de retificação do cálculo de penas onde se determinou a exigência do cumprimento de três quintos da pena referente ao crime hediondo para a progressão de regime". Na oportunidade, conforme relata, ao recurso foi dado "provimento ao reclamo para determinar a realização de novo cálculo de penas"(fl. 240, grifei).
+À vista do exposto,julgo prejudicado estehabeas corpus,pela perda do seu objeto, tornando sem efeito a liminar outrora deferida.
+Publique-se e intimem-se.
