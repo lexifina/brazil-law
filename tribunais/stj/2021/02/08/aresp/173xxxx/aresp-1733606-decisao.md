@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Companhia Municipal de Limpeza Urbana - COMLURBcontra decisão que inadmitiu recurso especial ao argumento de incidência da Súmula 7/STJ ("A pretensão de simples reexame de prova não enseja recurso especial.")(e-STJ, fls. 2174-2178).
+A parte agravante sustenta discutir, apenas, vício deomissão do acórdão, acerca da incompetência do Juízo federal e da suficiência do monitoramento ambiental realizado(e-STJ, fls. 2.182-2.196).
+Contraminuta às fls. 2204-2206 (e-STJ).
+Parecer pelo não conhecimento do agravo (e-STJ, fls. 2.260-2.262).
+Processo com preferêncialegal (art. 12, § 2º, VII, do CPC, combinado coma Meta 6/CNJ/2020 - "Identificar e julgar até 31/12/2020: 95% dos recursos oriundos de ações coletivas distribuídos a partir de 1º/1/2015").
+É o relatório.
+Atendidos os requisitos de conhecimento dopresente agravo, passo a examinar apelo nobre(e-STJ, fls. 2132-2146).
+Trata-se de recurso especial manejado, com amparo na alínea a do inciso III do art. 105 da CF, em oposição a acórdão proferido pelo Tribunal Regional Federal da 2ª Regiãoassim ementado:
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. EMENDA DO PEDIDO INICIAL APÓS INFORMAÇÃO DO FECHAMENTO DO ATERRO. INCREMENTO DO MONITORAMENTO AMBIENTAL DO ATERRO SANITÁRIO DE GRAMACHO. APELAÇÕES NÃO PROVIDAS.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 2.113-2.124).
+Defende a parte insurgente, em síntese, nulidade por omissão acerca da incompetência absoluta da Justiça Federal para a causa e da suficiência do monitoramento ambiental (art. 1.022 do CPC).
+Apresentadas contrarrazões (e-STJ, fls. 2.152-2.164).
+Decido.
+Na origem, trata-se de ação civil pública alusiva ao Jardim Gramacho, notoriamente reconhecido, à época de sua atividade, como maior "lixão" da América Latina.
+No que tange às alegações acerca da omissão quanto à competência, o recurso não prospera. Isso porque consta do acórdão não só a referência à sentença, senão a afirmação de estar a matéria preclusa, em face da não insurgência dos envolvidos naquele momento (e-STJ, fl. 2.085). Ainda que lacônica sobre esse último aspecto, a parte não dirige nenhuma insurgência sobre o ponto.
+Incide, portanto, o óbice da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."), porquanto, ainda que reconhecida a mencionadaomissão, permaneceria incólume o segundo fundamento.
+Quanto à omissão acerca da suficiência do monitoramento ambiental implementado, tampouco se pode acolher a pretensão recursal. Transcrevo o acórdão, no que importa (e-STJ, fl. 2.086):
+Ressalte-se que de acordo com o conjunto probatório contido nos autos, restou comprovado que o sistema de tratamento utilizado pela empresa Novo Gramacho Energia Ambiental S.A. não é adequado à diminuição do risco de vazamento do chorume, na medida em que não foram incluídas as condicionantes da licença ambiental (LI IN 001527) e a obrigatoriedade de realização do monitoramento ora requerido, quando do contrato de concessão nº 155/2007 (celebrado entre a COMLURB e a empresa NOVO GRAMACHO).
+Dessa forma, não há que se falar que o monitoramento realizado seria "satisfatório" ou "suficiente", eis que realizado mensalmente, a uma porque a ampliação dos pontos de coleta ora requerida visa ampliar a área de monitoramento, a duas porque será implementado em água subterrânea, diversa da atual, a três porque visa alcançar toda a periferia do Aterro, promovendo, assim, maior segurança e eficiência na concretização da legislação ambiental.
+ ..
+Cumpre esclarecer, ainda, que houve tentativa para que, extrajudicialmente, os pedidos contidos fossem acatados, tendo o INEA se manifestado no sentido de que "de fato auxiliariam para um monitoramento mais seguro". Entretanto, o INEA deixou de fornecer informações sobrea execução do projeto. Posteriormente, afirmou que a empresa NOVO GRAMACHO não apresentou o Plano de Trabalho relacionado aos fatos, bem como não atendeu às condicionantes do relato técnico, relacionado ao Termo de Ajustamento de Conduta a ser firmado. De acordo com a afirmativa do MPF constante da sentença, o próprio INEA "..verificou inúmeras irregularidades praticadas pela empresa Novo Gramacho Energia Ambiental SA, atual concessionária do Aterro de Gramacho, dentre as quais, a ineficiência do sistema de tratamento de chorume implantado pela empresa no Aterro, inclusive, o derramamento de chorume pela empresa no interior da Baía de Guanabara..", restando comprovada a ineficiência do sistema adotado. Assim, ao contrário da alegação tecida pelo INEA em sua Apelação, não há que se cogitar em "insuficiência e ausência de provas específicas que comprovem que a ampliação do monitoramento é imprescindível" ou, ainda, ".. que o monitoramento realizado pelo INEA foi incrementado desde 2014, sendo este suficiente e satisfatório", considerando o conjunto probatório produzido nos presentes autos.
+Descabida, portanto, a assertiva de omissão acerca de matéria expressamente resolvida pela origem.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
