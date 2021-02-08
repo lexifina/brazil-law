@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por Otto Resende Vilela Filhocontra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no julgamento do HC n. 2132618-74.2020.8.26.0000, assim ementado:
+"Habeas corpus- Lesão Corporal - Pretensão de oferecimento de proposta de suspensão condicional do processo, nos termos do artigo 89 da Lei nº 9.099/95 - Descabimento - Oferecimento de proposta de "sursis" processual, prerrogativa exclusiva do Ministério Público Negativa de oferecimento da benesse adequadamente fundamentada, lastreando-se o órgão ministerial em elementos concretos do caso Ordem denegada." (fl. 258)
+Extrai-se dos autos que o paciente foi denunciado pelo Ministério Público como suposto autor dodelitotipificadonoart. 129, § 1º, III, do Código Penal (lesão corporal grave).
+O recorrente aduz que teria direito à suspensão condicional do processo. Para tanto, alega:
+"OTTO FILHO preenche todos os requisitos previstos no art. 89 da Lei 9.099/95. É primário, não está sendo processado por outro delito nem ostenta qualquer condenação criminal anterior. Todas as circunstâncias judiciais do art. 77 do Código Penal lhe são favoráveis, devendo a ele ser assegurado o direito a suspensão condicional do processo." (fl. 3)
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+O art. 89 da Lei n. 9.099/95 autoriza a suspensão condicional do processo nas hipóteses em que o acusado não está sendo processado ou tenha sido condenado por outro, além de preencher os requisitos da suspensão condicional da pena prevista no art. 77 do Código Penal.
+Por oportuno, confiram-se esses dispositivos da Lei 9.099/95 e do Código Penal, respectivamente:
+Art. 89. Nos crimes em que a pena mínima cominada for igual ou inferior a um ano, abrangidas ou não por esta Lei, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos, desde que o acusado não esteja sendo processado ou não tenha sido condenado por outro crime, presentes os demais requisitos que autorizariam a suspensão condicional da pena (art. 77 do Código Penal).
+Art. 77 - A execução da pena privativa de liberdade, não superior a 2 (dois) anos, poderá ser suspensa, por 2 (dois) a 4 (quatro) anos, desde que:
+I - o condenado não seja reincidente em crime doloso;
+II - a culpabilidade, os antecedentes, a conduta social e personalidade do agente, bem como os motivos e as circunstâncias autorizem a concessão do benefício;
+Oacórdão atacado, ao resolver a questão, assentou:
+"Registre-se de modo claro que a suspensão condicional do processo não é direito público subjetivo do acusado, mas sim um poder-dever do Ministério Público, titular da ação penal, a quem cabe, com exclusividade, analisar a possibilidade de aplicação ou não do referido instituto, desde que o faça de forma fundamentada, além do que seu beneficiário deve preencher os requisitos previstos no artigo 77 do Código Penal.
+Como é cediço, para que seja concedida a suspensão processual do processo, faz-se necessário o preenchimento tanto dos requisitos de ordem objetiva, como também daqueles de ordem subjetiva (artigo 89 da Lei nº 9.099/95, c.c. artigo 77 do Código Penal).
+Na hipótese dos autos, o d. Promotor de Justiça oficiante, ao deixar de oferecer o benefício da suspensão condicional do processo ao paciente, o fez em manifestação devidamente fundamentada. Transcrevo, por pertinente: ".. reconsidero o pronunciamento anterior do Ministério Público no que se refere à proposta de suspensão condicional do processo, e deixo de propor o benefício. Além da gravidade e comportamento tratado neste processo, uma agressão física à vítima, gratuita, que lhe acarretou a debilidade permanente de função, as pesquisas de antecedentes criminais levadas a efeito revelam envolvimento do acusado em crime anterior também com violência física à pessoa, sendo certo que recentemente foi instaurado inquérito policial que apura mais um ato de agressão física contra pessoa por ele perpetrado. Condutas sempre decorrentes de banalidades que levam o acusado a hostilizar pessoas com exacerbada violência. Ainda que não exista condenação em definitivo por tais fatos, é possível afirmar conduta social personalidade incompatíveis com a benesse legal em questão (art. 89 da Lei 9.099/95) .." (fls. 192, dos autos de origem).
+In casu, não há como negar que a recusa em oferecer a suspensão condicional do processo fundou-se em elementosespecíficos do caso concreto, que denotam gravidade, além da intrínseca condição do paciente e a sua subsunção ao tipo penal em análise." (fls. 262/264)
+Comovisto, a suspensão condicional do processo exige o cumprimento dos requisitos objetivos e subjetivos, sendo que o julgado atacado assentou que esses últimos não estavam presentes nocaso e qualquer conclusão em sentido contrário é inviável na estreita via do habeas corpus que não admite o exame aprofundado de provas.
+Ante o exposto, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
