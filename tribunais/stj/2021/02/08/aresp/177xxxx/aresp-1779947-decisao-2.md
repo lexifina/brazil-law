@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por HOLANDO DE SOUZA CAMPOS JUNIOR contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 934):
+APELAÇÕES CÍVEIS - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, ESTÉTICOS E MATERIAIS - PRELIMINARES DE CERCEAMENTO DE DEFESA E ILEGITIMIDADE PASSIVA - REJEIÇÃO -PROCEDIMENTO CIRÚRGICO - GAZE ESQUECIDA NO CORPO DA PACIENTE - ERRO MÉDICO - IMPERÍCIA - ELEMENTOS DA RESPONSABILIDADECIVIL CARACTERIZADOS - PACIENTE SUBMETIDA À NOVA CIRURGIA PARA RETIRADA DO CORPO ESTRANHO - CICATRIZ OPERATÓRIA - DANOS ESTÉTICOS E MORAIS CONFIGURADOS - INDENIZAÇÃO DEVIDA - QUANTUM MANTIDO - JUROS DE MORA - TERMO INICIAL - A PARTIR DA CITAÇÃO - RECURSO DE HOLANDO DE SOUZA PARCIALMENTE PROVIDO - RECURSO DO HOSPITAL E DA PARTE AUTORA DESPROVIDOS.
+Não há que se falar em cerceamento de defesa, ante o indeferimento da prova oral, haja vista que o magistrado não é obrigado a deferir todas as provas postuladas pelos litigantes, quando entender que os elementos existentes nos autos são suficientes para o julgamento da demanda.
+A não apresentação de memoriais, por si só, não acarreta a nulidade da sentença, sendo imprescindível, portanto, a demonstração de efetivo prejuízo à parte que alega o vício.
+A relação firmada entre o paciente, médico e hospital enquadra se como relação de consumo, sendo regida pelo Código de Defesa do Consumidor.
+A conduta do médico e do hospital consistente no esquecimento de gaze cirúrgica no interior do corpo da paciente configura conduta culposa, que enseja a reparação, de forma solidária, pelos danos por ela suportados, nos termos do que dispõe dos artigos 7º, parágrafo único e 14 do CDC.
+Não há que se falar em redução ou majoração dos danos estéticos e morais, se arbitrados conforme as condições financeiras das partes, a gravidade do fato e o grau de culpa no comprometimento do ato ilícito.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts.14 do Código de Defesa do Consumidor; 6º, 7º, 371, 489do Código de Processo Civil; 186 e927 doCódigo Civil.
+Defende o cerceamento de defesa ante a impossibilidade de apresentação das razões finais; excludente de responsabilidade; ausência do dever de indenizar e, por fim, requer revisão do valor indenizatório fixado na origem.
+Contrarrazões apresentadas (e-STJ, fls. 1.221/1249).
+Assim delimitada a controvérsia, passo a decidir.
+Nos moldes da jurisprudência desta Corte, cabe ao magistrado, como destinatário final da prova e em respeito aos limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS. FALHA NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE SOLIDÁRIA DO ENGENHEIRO E DA EMPRESA CONTRATADA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+I - Examinados suficientemente todos os pontos controvertidos, não há falar-se em negativa de prestação jurisdicional.
+II - Se, diante da prova dos autos, as instâncias ordinárias concluem pela culpa do agravante e pelo nexo de causalidade, entender diversamente esbarra na Súmula/STJ.
+III - O Juiz é o destinatário da prova e a ele cabe decidir sobre o necessário à formação do próprio convencimento. Assim, a apuração da suficiência dos elementos probatórios que justificaram o julgamento antecipado da lide e/ou o indeferimento de prova oral demanda reexame provas, providência vedada em sede de recurso especial. Agravo regimental improvido.
+(AgRg no Ag 771.335/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 4.9.2008, DJe 23.9.2008)
+O Tribunal de origem afastou a alegação de cerceamento de defesa ao fundamentar o seguinte (e-STJ, fl. 938):
+(..) não há que se falar em cerceamento de defesa em razão do Juízo a quo não ter oportunizado a apresentação dos memoriais, haja vista não se tratar de peça obrigatória.
+Ademais, não há que se falar em nulidade da sentença pela falta de apresentação das alegações finais sem a demonstração de efetivo prejuízo, o que os apelantes não demonstraram.
+Assim, desconstituir as conclusões a que chegou o Tribunal revisor seria impossível sem a revisão do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+A Corte estadual, ao julgar a apelação,entendeu estar configurada a responsabilidade civilda parte ora agravante, fundamentandonos seguintes termos (e-STJ, fl. 942):
+(..)
+Evidencia-se, portanto, que a conduta negligente operou-se, de fato, no procedimento realizado em 21/01/2010, porquanto no mesmo tipo de exame, antes da cirurgia não foi diagnosticado qualquer alteração, enquanto no exame realizado após a cirurgia visualizou-se uma imagem a ser esclarecida (destaquei) Desse modo, caracterizado o erro médico, associado ao sofrimento da autora, cabível o dano moral e estético.
+Com efeito, em se tratando de responsabilidade cível de fornecedor por defeito na prestação do serviço, é desnecessária a comprovação de conduta comissiva ou omissiva, de dano e de nexo de causalidade.
+No entanto, segundo o disposto no §4º, do art. 14 do CDC, em relação aos profissionais liberais, dentre eles os médicos, essa responsabilidade é subjetiva e depende da demonstração de culpa, a qual foi reconhecida pelo Juízo a quo, que coaduno do mesmo entendimento, no sentido de que restou demonstrada a ocorrência de negligência e até imperícia. (sem destaques no original).
+Assim, a desconstituição de tais premissas, na forma como pretendida, demandaria o reexame de fatos e provas, procedimento que encontra óbice no verbete da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. O Tribunal a quo, com base no conjunto fático e probatório carreado aos autos, entendeu estarem presentes os elementos caracterizadores da responsabilidade civil e do dever de indenizar, bem ainda a razoabilidade e proporcionalidade do quantum fixado a título de danos morais pelo magistrado de primeiro grau. A alteração de tais conclusões demanda a incursão nas questões de fato e de prova dos autos, inadmissível por esta via especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 798.661/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8.5.2018, DJe 18.5.2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA. ACIDENTE CAUSADO PELO CAMINHÃO CONTRATADO PARA EFETUAR O SERVIÇO DE GUINCHO DOS AUTOMÓVEIS SEGURADOS PELA RECORRENTE. RELAÇÃO DE PREPOSIÇÃO. RESPONSABILIDADE SOLIDÁRIA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. 2. REDUÇÃO DA INDENIZAÇÃO POR DANOS MORAIS (R$ 30.000,00). IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal concluiu que a seguradora contratante do serviço de guincho é parte legítima para figurar no polo passivo da ação de reparação de danos causados a terceiros, em razão da relação de preposição. Assim, concluir de forma diversa pela inexistência dos elementos caracterizadores da responsabilidade civil implicaria o necessário revolvimento do acervo fático-probatório dos autos, pretensão vedada em recurso especial consoante os ditames da Súmula 7/STJ.
+2. Mostra-se razoável a fixação em R$ 30.000,00 (trinta mil reais) para reparação do dano moral pelo ato ilícito reconhecido, consideradas as circunstâncias do caso e as condições econômicas das partes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.718.015/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24.4.2018, DJe 3.5.2018)
+Quanto ao mais, o Tribunal de origem fixou o dano moral no valor de R$ 30.000,00 (trinta mil reais) e o dano estético no valor de R$ 10.000,00 (dez mil reais) com base no conteúdo fático-probatório produzido nos autos.
+Nesse sentido, imperiosa se faz a incidência do enunciado 7 da Súmula do STJ, ante o necessário reexame de matéria fática e probatória.
+É certo que o Superior Tribunal de Justiça considera, excepcionalmente, cabível, em recurso especial, o reexame do valor arbitrado a título de danos morais, quando excessivo ou irrisório (AgRg no REsp 959.712/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 30.11.2009 e AgRg no Ag 939.482/RJ, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, DJe de 20.10.2008, entre outros).
+Observo, todavia, que a quantia arbitrada pelo Tribunal estadual apresenta- se dentro dos padrões da razoabilidade e proporcionalidade, não se mostrando desproporcional à lesão, de modo a ensejar sua alteração em grau de recurso especial.
+Em face do exposto, nego provimento ao agravo.
+Deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil, em razão de ter a sentença (e-STJ, fl. 708) estabelecido o percentual máximo permitido.
+Intimem-se.
