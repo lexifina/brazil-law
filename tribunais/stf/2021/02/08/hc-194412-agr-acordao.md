@@ -1,0 +1,513 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 13
+
+08/02/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 194.412 BAHIA
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: DAVI PINTO MATOS
+: FLORISVALDO DE JESUS SILVA
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+
+EMENTA: AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL.
+HOMICÍDIO QUALIFICADO. PRISÃO CAUTELAR FUNDAMENTADA.
+EXCESSO DE PRAZO NÃO EVIDENCIADO. AGRAVO REGIMENTAL
+AO QUAL SE NEGA PROVIMENTO.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros do
+Supremo Tribunal Federal, em Segunda Turma, sob a Presidência do
+Ministro Gilmar Mendes, na conformidade da ata de julgamento, por
+unanimidade, em negar provimento ao agravo regimental, nos termos
+do voto da Relatora. Sessão Virtual de 18.12.2020 a 5.2.2021.
+Brasília, 8 de fevereiro de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 6BAF-0995-C04D-0C7E e senha 1999-8759-8835-3722
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 2 de 13
+
+08/02/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 194.412 BAHIA
+RELATORA
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+
+: MIN. CÁRMEN LÚCIA
+: DAVI PINTO MATOS
+: FLORISVALDO DE JESUS SILVA
+: SUPERIOR TRIBUNAL DE JUSTIÇA
+RELATÓRIO
+
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Em 25.11.2020, foi negado seguimento ao habeas corpus, com
+requerimento de medida liminar, impetrado por Florisvaldo de Jesus
+Silva, advogado, em benefício de Davi Pinto Matos, contra julgado da
+Quinta Turma do Superior Tribunal de Justiça pelo qual, em 17.11.2020,
+negado provimento ao Recurso Ordinário em Habeas Corpus n. 134.558,
+Relator o Ministro Joel Ilan Paciornik, com recomendação ao “Juízo
+processante a análise da custódia à luz do disposto no art. 316, parágrafo único,
+do Código de Processo Penal – CPP”.
+2. Publicada essa decisão no DJe de 1º.12.2020, foi interposto, em
+7.12.2020, tempestivamente, o presente agravo regimental.
+3. O agravante insiste nas alegações de excesso de prazo da prisão,
+de ausência de contemporaneidade dos fatos que ensejaram essa prisão e
+dos requisitos do art. 312 do Código de Processo Penal.
+Estes os pedidos:
+“(...) seja a presente petição recebida, seja como pedido de
+reconsideração seja como agravo regimental, mas como resultado
+prático dar seguimento do writ para apreciar a violação à
+contemporaneidade da medida extrema e, por consequência, afronta
+aos arts. 316, p. único, 413, §3º e 315, §1º, todos do CPP, pela decisão
+de pronúncia que manteve a custódia sem sinalizar ‘fatos novos ou
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7696-9F75-0CA8-8159 e senha F9BB-682F-E8B3-6F28
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 13
+
+HC 194412 AGR / BA
+contemporâneos que justifiquem a aplicação da medida adotada’ e não
+por aquela primeira que impôs a prisão preventiva ao agravante, após
+o flagrante, reiterando-se, em todos os casos, as razões da impetração”.
+
+É o relatório.
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 7696-9F75-0CA8-8159 e senha F9BB-682F-E8B3-6F28
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 4 de 13
+
+08/02/2021
+
+SEGUNDA TURMA
+
+AG.REG. NO HABEAS CORPUS 194.412 BAHIA
+VOTO
+A SENHORA MINISTRA CÁRMEN LÚCIA (Relatora):
+1. Razão jurídica não assiste ao agravante.
+2. Ao proferir o julgado objeto da presente impetração, a Quinta
+Turma do Superior Tribunal de Justiça assentou:
+“Conforme relatado, busca-se, com o presente recurso, a
+revogação da prisão preventiva imposta ao recorrente, ainda que
+mediante o cumprimento de medidas cautelares diversas da prisão.
+Por oportuno, segue a transcrição da decisão do Juízo de
+primeiro grau que, ao homologar a prisão em flagrante, decretou a
+preventiva, datada de 25/03/2019:
+Trata-se de Auto de Prisão em Flagrantes em desprestígio
+de DAVI PINTO MATOS. filho de Antonia Paulino Pinto e de
+Francisco da Chagas Matos, nascido em 13/11/1994, pela
+suposta prática prevista no art. 121, § 2°, inc. I, IV e V do CP
+(Homicídio Qualificado), e art. 16 da Lei 10.826/2003 (Posse ou
+porte ilegal de arma de fogo de uso restrito).
+Consta nos autos que o autor do homicídio ocorrido em
+22/03/2019 que vitimou Ariomar Pereira Ferreira, conforme
+informações do Adolescente Marcos Vinício, é Davi Pinto
+Matos. Davi foi solto há 40 dias e que matou Ariomar pelo fato
+deste ter sido o delator que causou a sua prisão anteriormente.
+Diante dessa informação a Policia Militar localizou Davi
+próximo de sua residência e este informou que havia entregue a
+arma utilizada no crime no bar de Leandro Santo Souza. A arma
+utilizada no crime foi um revólver calibre 38, de marca
+TAURUS, com numeração raspada […]
+A prisão preventiva é medida imprescindível como forma
+de preservação da ordem pública, sendo necessária para a
+instrução criminal e importante garantia da futura aplicação da
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C815-CD95-FB6F-F515 e senha AC11-E5CE-83B3-9173
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 5 de 13
+
+HC 194412 AGR / BA
+lei penal.
+O Instituto Jurídico da preventiva encontra-se previstos
+nos artigos 311 e 312, ambos do Código de Processo Penal, o
+qual exige, para sua decretação, que esteja provado a
+materialidade do crime e haja indícios suficiente de autoria e,
+concomitantemente, que a medida se mostre necessária para a
+garantia da ordem pública e econômica, conveniência da
+instrução criminal ou então para assegurar a futura aplicada da
+lei penal.
+Não resta dúvida que a prisão processual constitui uma
+medida drástica, já que antecede uma eventual decisão
+condenatória definitiva, todavia, não é menos certo que quando
+necessária em uma daquelas hipóteses, exige coragem por parte
+do Poder Judiciário que não deve se omitir na defesa da
+sociedade (…).
+Assim, entende este Juízo estarem preenchidos os
+requisitos previstos nos artigos 311 e 312, ambos do Código de
+Processo Penal, a fim de DECRETAR A PRISÃO
+PREVENTIVA de DAVI PINTO MATOS, por considerar que
+além de existir prova da materialidade do crime e indícios
+concreto de autoria, tal providência também se mostra
+justificável como medida necessária à garantia da ordem
+pública, mas também para garantir a aplicação da lei penal. com
+o objetivo de tentar restabelecer o abalo gerado ao equilíbrio
+social (fls. 25/26).
+Por sua vez, no julgamento do habeas corpus originário, a Corte
+estadual denegou a ordem, nos seguintes termos:
+Consta da Denúncia que o Paciente, objetivando vingar-se
+do adolescente A.P.F., que teria delatado acerca do seu
+envolvimento com o tráfico de drogas, ensejando sua prisão,
+deflagrou tiros contra a vítima, causando sua morte.
+No que tange à alegação de ausência de motivação
+contemporânea para a prisão do paciente, esta não encontra
+ampara nos autos.
+Compulsando os autos, observa-se que a segregação do
+paciente foi recentemente reavaliada e mantida por ocasião da
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C815-CD95-FB6F-F515 e senha AC11-E5CE-83B3-9173
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 6 de 13
+
+HC 194412 AGR / BA
+decisão de pronúncia, proferida em 06/03/2020. Vejamos:
+A ordem pública, traduzida na segurança e
+manutenção da ordem social justa, encontra-se seriamente
+abalada e visivelmente combalida. O crime rompe a ordem
+jurídica, reclamando a pronta intervenção do Estado-Juiz,
+objetivando a restauração da ordem. (…)
+Assim, observa-se que o delito em espécie trata-se de
+homicídio qualificado, ou seja, crime doloso contra a vida,
+que enseja a violência e a mais alta repugnância social.
+Consigno que a forma praticada na execução do crime
+revela a gravidade da situação, que abalou a sociedade.
+Percebe-se, assim, que o decreto prisional encontra-se
+devidamente fundamentado em dados concretos extraídos
+dos autos que denotam fato de extrema gravidade, tendo
+indícios de o agente ter sido impulsionado por retaliação e
+vingança pela vítima ter delatado o denunciado em outra
+ocasião.
+No caso em espécie, mantenho a custódia preventiva
+decorrente da necessidade de acautelar a ordem pública,
+haja vista o risco de reiteração delitiva pelo agente, bem
+como por conveniência da aplicação da lei penal, a fim de
+garantir a regular aquisição, conservação e veracidade da
+prova testemunhal.
+Em face do exposto, reservo ao Tribunal do Júri a
+análise das provas e para o debate das partes, seguindo os
+ditames formais do processo do Júri.
+Como é possível observar, o decisio acima transcrito
+encontra-se fundamentado, considerando que foram indicadas
+razões concretas que assinalam a indispensabilidade da
+manutenção da custódia provisória.
+De fato, a presença de pelo menos um dos requisitos
+autorizadores da prisão processual encontra-se devidamente
+demonstrada, considerando as circunstâncias em que o delito foi
+praticado e o quanto apurado durante a instrução processual.
+Ademais, existem indícios de que o Paciente responde a
+diversas outras ações penais, o que aponta a sua periculosidade e
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C815-CD95-FB6F-F515 e senha AC11-E5CE-83B3-9173
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 7 de 13
+
+HC 194412 AGR / BA
+a necessidade do encarceramento como forma de acautelar a
+ordem pública e obstar a reiteração criminosa, tal como
+pontuado pela Magistrada a quo.
+No que concerne ao suscitado excesso de prazo para o
+julgamento da ação penal pelo Tribunal do Júri, diante das
+informações prestadas pela autoridade impetrada, conclui-se que
+o processo possui trâmite regular, sendo possível observar que a
+Magistrada da causa vem empreendendo esforços para a pronta
+solução do caso.
+No caso dos autos, já houve decisão de pronúncia, ocasião
+em que, conforme já explicitado, foi mantida a prisão preventiva
+do Paciente, entendendo a M.M. Juíza permanecerem presentes
+os motivos determinantes para a sua decretação.
+Ademais, após a decisão, a Defesa manejou Recurso em
+Sentido Estrito, o que, por si só, já elastece os prazos para
+julgamento do feito principal, considerando a necessidade de
+várias providências a cargo da Magistrada da causa, a exemplo
+de intimação do Ministério Público para apresentação de
+contrarrazões e remessa dos autos à instância superior, para
+análise do RESE.
+Dessarte, refuta-se, por total insubsistência, a alegação de
+constrangimento ilegal decorrente do excesso de prazo na
+formação da culpa, estando o presente feito aguardando o
+processamento e julgamento do Recurso em Sentido Estrito
+interposto pela Defesa. (…)
+Cumpre destacar que com as restrições impostas pela
+pandemia mundial do coronavírus, as audiências e sessões de
+julgamento foram suspensas desde março do corrente ano,
+conforme dispõem os decretos nº 211 e 237 e o ato conjunto nº
+007, todos deste Tribunal de Justiça, razão pela qual foi não foi
+possível, até então, a realização da sessão do Tribunal do Júri,
+diante da suspensão dos atos processuais presenciais, não
+podendo ser alegado qualquer excesso de prazo neste sentido.
+[...]
+Ademais, é entendimento pacífico do Superior Tribunal de
+Justiça, que eventual ilegalidade da prisão cautelar por excesso
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C815-CD95-FB6F-F515 e senha AC11-E5CE-83B3-9173
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 8 de 13
+
+HC 194412 AGR / BA
+de prazo para o encerramento da formação da culpa deve ser
+analisada à luz do princípio da razoabilidade. (…)
+Inicialmente, verifico que a alegação concernente a ausência de
+contemporaneidade entre o fato criminoso e a decretação da custódia
+preventiva, não foi objeto de exame no acórdão impugnado, o que
+obsta a análise por este Tribunal Superior, sob pena de se incorrer em
+indevida supressão de instância.
+Ademais, não há falar em ausência de contemporaneidade, pois o
+recorrente foi preso em flagrante na data do delito em 22/3/2019,
+sendo decretada a custódia preventiva no dia 25/3/2019 (fls. 25/26).
+(…)
+In casu, verifico que a prisão preventiva foi adequadamente
+motivada, tendo sido demonstrada pelas instâncias ordinárias, com
+base em elementos extraídos dos autos, a gravidade concreta da
+conduta e a periculosidade do recorrente, evidenciadas pelas
+circunstâncias do delito – o recorrente supostamente matou a vítima,
+mediante disparos de arma de fogo, em retaliação e vingança pela
+vítima ter delatado o envolvimento do agente com o tráfico de drogas –
+(fls. 259 e 261), o que demonstra risco ao meio social e justifica a
+manutenção da custódia cautelar.
+Ademais, o Magistrado singular ressaltou o risco de reiteração
+delitiva, pois consoante detalhou o Tribunal de origem, ‘existem
+indícios de que o paciente responde a diversas outras ações penais’ (fl.
+261).
+Complemente-se que, embora o recorrente alegue ter sido
+absolvido pela única ação penal que respondeu e ter apresentado a
+sentença (fls. 34/38), não é possível afastar o fundamento pelo risco de
+reiteração, porquanto as instâncias ordinárias afirmaram que o
+paciente reponde por ‘outras ações’, o que pressupõe mais de uma
+ação. Ainda que assim não fosse, afastado o risco de reiteração delitiva,
+permanece o fundamento da custódia nas circunstâncias do delito,
+que, por si só, é suficiente para manter a prisão preventiva.
+Impende consignar, por oportuno, que, conforme orientação
+jurisprudencial desta Corte, o modo como o crime é cometido,
+revelando a gravidade em concreto da conduta praticada, constitui
+elemento capaz de demonstrar o risco social, o que justifica a
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C815-CD95-FB6F-F515 e senha AC11-E5CE-83B3-9173
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 9 de 13
+
+HC 194412 AGR / BA
+decretação da prisão preventiva para garantia da ordem pública.
+Nesse contexto, forçoso concluir que a prisão processual está
+devidamente fundamentada na garantia da ordem pública, não
+havendo falar, portanto, em existência de evidente flagrante
+ilegalidade capaz de justificar a sua revogação. (…)
+Ressalte-se que, quanto à alegação de inovação nos fundamentos
+do decreto cautelar por parte da Corte a quo, é de se observar que a
+prisão preventiva do recorrente foi decretada especialmente para
+garantia da ordem pública e da aplicação da lei penal, o que restou
+preservado pelo colegiado, tendo, portanto, a custódia sido mantida
+pelos mesmos motivos apresentados pelo Magistrado de primeiro grau,
+não havendo falar em novos fundamentos.
+Além do mais, somente se verifica a existência de reformatio in
+pejus quando, em recurso exclusivo da defesa, o Tribunal promove o
+agravamento da situação do acusado, o que não se verificou na
+hipótese dos autos.(…)
+Esta Corte Superior possui entendimento firme no sentido de
+que a presença de condições pessoais favoráveis da agente, como
+primariedade e bons antecedentes, não representa óbice, por si só, à
+decretação da prisão preventiva, quando identificados os requisitos
+legais da cautela. Ademais, diferentemente do que afirmou a defesa, o
+paciente ostenta antecedentes criminais. (…)
+Na hipótese, a meu ver, não restou caracterizada a existência de
+mora na tramitação do processo que justifique o relaxamento da prisão
+preventiva, porquanto este tem seguido seu trâmite regular. O
+recorrente foi preso em flagrante em 22/3/2019, convertido em prisão
+preventiva em 25/3/2019. Em 6/4/2020 o recorrente foi pronunciado
+pelo Magistrado de primeiro grau, tendo interposto recurso em
+sentido estrito contra a sentença.
+Conquanto seja legítima à defesa a adoção dos meios e recursos
+inerentes ao processo penal, não há como negar que, em contrapartida
+ao exercício desse direito, tem-se inevitáveis sobressaltos no
+andamento processual.
+Assim, não há, pois, falar em desídia do Magistrado condutor, o
+qual tem diligenciado no sentido de dar andamento ao processo, não
+podendo ser imputada ao Judiciário a responsabilidade pela demora,
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C815-CD95-FB6F-F515 e senha AC11-E5CE-83B3-9173
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 10 de 13
+
+HC 194412 AGR / BA
+como bem fundamentado pelo Tribunal de origem”.
+
+3. Pelo que demonstrado nestes autos, a prisão do agravante está
+fundamentada na gravidade concreta da conduta imputada, considerado
+ser acusado de matar a “vítima, mediante disparos de arma de fogo, em
+retaliação e vingança pela vítima ter delatado o envolvimento do agente com o
+tráfico de drogas”.
+Pelas circunstâncias do ato praticado e com os dados apresentados
+nas instâncias antecedentes, adotou-se fundamentação idônea para a
+decretação da prisão e não aplicação de medida cautelar diversa. A
+constrição da liberdade do paciente harmoniza-se com a jurisprudência
+deste Supremo Tribunal no sentido de a periculosidade do agente,
+evidenciada pelo modus operandi e pelo risco de reiteração delitiva, ser
+motivo idôneo para a custódia cautelar. Assim, por exemplo
+“’HABEAS CORPUS’ – PRISÃO PREVENTIVA –
+NECESSIDADE COMPROVADA DE SUA DECRETAÇÃO –
+DECISÃO FUNDAMENTADA – MOTIVAÇÃO IDÔNEA QUE
+ENCONTRA
+APOIO
+EM
+FATOS
+CONCRETOS
+–
+PERICULOSIDADE DO ACUSADO/RÉU EVIDENCIADA PELO
+‘MODUS OPERANDI’ DA REALIZAÇÃO DA PRÁTICA
+DELITUOSA E PELA REAL POSSIBILIDADE DE REITERAÇÃO
+DELITIVA – PRECEDENTES DESTA SUPREMA CORTE –
+LEGALIDADE DA DECISÃO QUE DETERMINOU A PRISÃO
+CAUTELAR E INSUFICIÊNCIA DA UTILIZAÇÃO DAS
+MEDIDAS CAUTELARES ALTERNATIVAS – PARECER DA
+DOUTA PROCURADORIA-GERAL DA REPÚBLICA PELO
+NÃO PROVIMENTO DESTA ESPÉCIE RECURSAL – RECURSO
+DE AGRAVO IMPROVIDO” (HC n. 177.179-AgR, Relator o
+Ministro Celso de Mello, DJe 9.7.2020).
+
+4. As instâncias antecedentes consideraram o conjunto probatório
+para concluir demonstrados indícios de autoria quanto à prática do delito
+imputado e dos requisitos para a prisão cautelar.
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C815-CD95-FB6F-F515 e senha AC11-E5CE-83B3-9173
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 11 de 13
+
+HC 194412 AGR / BA
+Para rever os pressupostos da prisão cautelar na forma adotada
+pelas instâncias antecedentes, seria necessário reexaminar os fatos e as
+provas dos autos pelos quais se permitiu identificar o modus operandi da
+prática delitiva, ao que não se presta o habeas corpus. Assim, por exemplo:
+“AGRAVO REGIMENTAL EM HABEAS CORPUS.
+REITERAÇÃO DOS ARGUMENTOS EXPOSTOS NA INICIAL
+QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO
+AGRAVADA. (…) PRISÃO PREVENTIVA COM FUNDAMENTO
+NA GARANTIA DA ORDEM PÚBLICA. INVIABILIDADE DE
+EXAME DA QUESTÃO ATINENTE À NEGATIVA DE AUTORIA
+NA VIA DO HABEAS CORPUS. AGRAVO A QUE SE NEGA
+PROVIMENTO. I – O agravante apenas reitera os argumentos
+anteriormente expostos na inicial do habeas corpus, sem, contudo,
+aduzir novos elementos capazes de afastar as razões expendidas na
+decisão agravada. II – Há farta jurisprudência desta Corte, em ambas
+as Turmas, no sentido de que a gravidade em concreto do delito, ante o
+modus operandi empregado, e a reincidência delitiva permitem
+concluir pela periculosidade social do paciente e pela consequente
+presença dos requisitos autorizadores da prisão cautelar, elencados no
+art. 312 do Código de Processo Penal, em especial para garantia da
+ordem pública. III – O exame da questão atinente à negativa de
+autoria implicaria, necessariamente, aprofundado exame do conjunto
+fático-probatório da causa, o que, como se sabe, não é possível nesta
+estreita via do habeas corpus, instrumento que exige a demonstração
+do direito alegado de plano e que não admite dilação probatória. IV –
+Agravo regimental a que se nega provimento” (HC n. 176.246-AgR,
+Relator o Ministro Ricardo Lewandowski, DJe 18.11.2019).
+
+5. Quanto à alegação de excesso de prazo, como afirmei na decisão
+agravada, apesar de grave o quadro descrito nos autos, considerado o
+tempo decorrido desde a prisão do agravante, levada a efeito em
+22.3.2019, os documentos destes autos não evidenciam manifesta
+ilegalidade ou teratologia por desídia judicial na tramitação do feito na
+origem, tendo o juízo de primeira instância reavaliado a situação
+prisional do paciente ao prolatar a sentença de pronúncia em 6.4.2020.
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C815-CD95-FB6F-F515 e senha AC11-E5CE-83B3-9173
+
+Supremo Tribunal Federal
+Voto - MIN. CÁRMEN LÚCIA
+
+Inteiro Teor do Acórdão - Página 12 de 13
+
+HC 194412 AGR / BA
+
+Embora negado provimento ao Recurso Ordinário em Habeas
+Corpus n. 134.558, Relator o Ministro Joel Ilan Paciornik, a Quinta Turma
+do Superior Tribunal de Justiça recomendou ao “juízo processante a análise
+da custódia à luz do disposto no art. 316, parágrafo único, do Código de Processo
+Penal – CPP”.
+6. Pelo exposto, nego provimento ao agravo regimental.
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código C815-CD95-FB6F-F515 e senha AC11-E5CE-83B3-9173
+
+Supremo Tribunal Federal
+Extrato de Ata - 08/02/2021
+
+Inteiro Teor do Acórdão - Página 13 de 13
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NO HABEAS CORPUS 194.412
+PROCED. : BAHIA
+RELATORA : MIN. CÁRMEN LÚCIA
+AGTE.(S) : DAVI PINTO MATOS
+ADV.(A/S) : FLORISVALDO DE JESUS SILVA (59066/BA)
+AGDO.(A/S) : SUPERIOR TRIBUNAL DE JUSTIÇA
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, nos termos do voto da Relatora. Segunda Turma, Sessão
+Virtual de 18.12.2020 a 5.2.2021.
+Composição: Ministros Gilmar Mendes (Presidente), Ricardo
+Lewandowski, Cármen Lúcia, Edson Fachin e Nunes Marques.
+Maria Clara Viotti Beck
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 4193-EE37-D235-D395 e senha 1EFE-FA5F-A238-B095
