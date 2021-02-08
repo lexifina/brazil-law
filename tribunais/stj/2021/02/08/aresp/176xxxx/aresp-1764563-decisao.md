@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se  de  agravo  manejado por MAPFRE SEGUROS GERAIS S/Acontra  decisão  que  negou  seguimento  a  recurso  especial  interposto  em  face  de  acórdão  assim  ementado  (fl.  423):
+APELAÇÃO  CÍVEL  -  OBRIGAÇÃO  DE  FAZER  E  DANOS  MORAIS  -  SEGURO  -  FURTO  DE  VEÍCULO  -  TRANSFERÊNCIA  DE  PROPRIEDADE  -  OBRIGAÇÃO  DA  SEGURADORA  -  ASTREINTES  -  CABIMENTO  -  DANOS  MORAIS  CONFIGURADOS  -  RECURSOS  CONHECIDOS  E  NÃO  PROVIDOS.
+1.  A  obrigação  de  transferência  do  registro  de  propriedade  de  veículo  segurado  objeto  de  furto  é  da  companhia  seguradora  quando  esta  sucede  ao proprietário.
+2.  Em  casos  que  tais,  a  negativa  da  seguradora  provoca  sofrimento  aflitivo,  angústia  e  desequilíbrio  no  contínuo  bem-estar  do  Autor.  Transcendido,  dessarte,  o  mero  aborrecimento,  justa  a  condenação  a  indenizar  à  guisa  de  dano  moral.
+3.  A  fixação  do  quantum  indenizatório  alusivo  a  danos  extrapatrimoniais  impõe  ao  julgador  levar  em  consideração  "o  princípio  da  razoabilidade".  Hão  de  sopesadas,  nessa  conta,  a  capacidade  econômica  do  ofensor  e  o  grau  da  sua  culpa;  as  condições  do  ofendido  e  a  repercussão  do  mal  sofrido,  tudo  sem  obviar  do  caráter  pedagógico  mediante  o  cuidado  de  evitar,  a  par  e  passo,  enriquecimento  sem  causa.
+Opostos  embargos  de  declaração,  foram  rejeitados.
+Nas  razões  do  recurso  especial,  a  parte  agravante  aponta  violação  dos  arts.  186, 412 e884 do Código Civil;134 do Código de Trânsito Brasileiro; e 537 do Código de Processo Civil;  bem  como  divergência  jurisprudencial.
+Sustenta  a ausência de ato ilícito imputável à agravante, a afastar o dever de indenização por dano moral,bem comoa inaplicabilidade da multa cominatória aplicada à recorrente, visto que se trata de obrigação impossível de ser cumprida, pois a transferência da propriedade do veículo depende de autorização do órgão de trânsito, o qual exige arealização de vistoriaprévia, inviabilizada pelo desconhecimento do paradeirodo veículo, em razão do furto.
+Asseveraque o valor da multa diária, fixada em R$ 300,00 (trezentos reais), sem estipulação de limite máximo, revela-se excessiva, o que afronta os princípios da razoabilidade e da proporcionalidade.
+Contrarrazões  apresentadas.
+Assim  delimitada  a  controvérsia,  passo  a  decidir.
+Inicialmente, observo que o acórdão recorrido não discorreu sobre o conteúdo normativo dos dispositivos legais indicados no recurso especial, revelando-se inviável, portanto, a análise da apontada violação da legislação federal, ante a ausência de prequestionamento da matéria. Assim, não obstante a oposição de embargos de declaração na origem, incide à espécie o verbete da Súmula 211 do STJ.
+Além disso, a parte recorrente sequer alegou ofensa ao art. 1.022 do CPC/2015, o que impede esta Corte Superior de verificar a existência de eventual omissão do acórdão recorrido quanto à matéria em debate.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS REQUERENTES.
+ ..
+3. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Na hipótese, não fora alegada violação ao artigo 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. Incidência da Súmula 211/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.274.511/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/03/2019, DJe 1º/04/2019.)
+Ademais, verifico que o Tribunal de origem, ao decidir a controvérsia, amparou seu entendimento nas circunstâncias fático-probatórias inerentes à causa, conforme se depreende da fundamentação do acórdão recorrido (fls. 426-429):
+À partida, não comportam provimento os argumentos lançados no sentido da impossibilidade do cumprimento da obrigação de fazer. Se afigura claro, das provas produzidas pela Autora que, do "Termo de Regularização de Sinistro", firmado em 19/6/2013, a Ré assumiu todas as responsabilidades sobre o referido veículo a partir daquela data. Dá arrimo a esta conclusão a "Autorização para transferência de propriedade do veículo", redigido em nome da Ré, assinado e entregue na mesma ocasião.
+Resulta inconteste, diante da produção e aceitação do documento em referência, ser inescusável a responsabilidade da Ré em providenciar a efetiva transferência do bem segurado, a operar-se nos 30 dias subsequentes - ex vi art. 233, CTB.
+Eis o cenário dos autos: o documento a que se fez referência é datado de 19/6/2013; o veículo foi multado por infração cometida a 2/9/15 sendo certo, outrossim, que a presente ação fora proposta em 25/4/2016.
+Neste interregno não há notícia de iniciativa da Ré no sentido de deflagrar medidas necessárias à transferência do veículo junto ao Detran/PR, tampouco de que, caso tenha havido, resultara negada. A rigor, incumbe a ela proceder em conformidade com a regência, ainda que por analogia, do disposto no § ún., do art. 126, do Código de Trânsito Brasileiro.
+Pelo visto, então, cumpre arredar o argumento quanto à imposição de multa diária.
+A fiação histórica atrás delineada - entre a determinação do Juízo quando da concessão da tutela de urgência propugnada, e a omissão em proceder consoante o determinado - expressa, o transcurso de um período mais que suficiente para a quantum satis, adoção das providências necessárias, inclusive, e por via oblíqua, a prevenção de transtornos com repercussão econômica e disciplinar para a Autora, como, no caso, do noticiado recebimento de multa de trânsito.
+Por fim, em relação aos danos morais, resulta inequívoco o fato de que o caso encerra um transbordo na barreira do mero dissabor e do simples inadimplemento contratual. Extrapola a mágoa porquanto flagrantemente baldadas as expectativas alusivas a um tipo serviço de relevância, não prestado por evidente falha da seguradora. Malgrado não patrimonial, o pretium doloris reclama cobro por igual, i.é: "se a indemnização por danos não patrimoniais não elimina o dano sofrido, pelo menos permite atribuir ao lesado determinadas utilidades que lhe permitirão alguma compensação pela lesão sofrida sendo, em qualquer caso, melhor essa compensação do que coisa nenhuma" (..) "representa uma sanção por ter privado o lesado das utilidades que aqueles bens lhe proporcionavam."
+Os danos morais correspondem aos tormentos provocados por ato da Ré.Inegavelmente, a Autora foi molestada em sua paz, diante da omissão em realizar a transferência necessária a acarretar, inclusive, multas em seu nome.
+Quanto ao valor, nesses casos, a fixação do indenizatório impõe quantum ao Julgador levar em consideração "o princípio da razoabilidade". Hão de sopesadas, nessaconta, a capacidade econômica do ofensor e o grau da sua culpa; as condições do ofendido e a repercussão do mal sofrido, tudo sem obviar do caráter pedagógico mediante o cuidado de evitar, a par e passo, enriquecimento sem causa.
+ ..
+Sobreleva concluir, dessarte, que o valor de R$ 5.000,00 (cinco mil reais) não merece correção, porquanto adequado aos parâmetros adotados por esta Câmara, a corresponder às idiossincrasias do caso em acertamento.
+Nessa linha de conta,voto no sentido de negar provimento aos recursos.
+A desconstituição de tais premissas, portanto, a fim de modificar o acórdão recorrido, tal como pretendido pela recorrente, demandaria o reexame do acervo fático-probatório dos autos, procedimento inviável no recurso especial, considerando-se o óbice da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NECESSIDADE DE REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ.
+1. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 868.328/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/02/2018, DJe 08/03/2018.)
+Ademais, a vedação da Súmula 7 do STJ impede, por semelhantes motivos, a análise da apontada divergência jurisprudencial.
+Em  face  do  exposto,  nego  provimento  ao  agravo.
+Observados os limites previstos nos §§ 2º e 3º do art. 85 do CPC/2015, deixo de majorar os honorários advocatícios arbitrados em favor da parte recorrida, porque já fixados no limite legal máximo.
+Intimem-se.
