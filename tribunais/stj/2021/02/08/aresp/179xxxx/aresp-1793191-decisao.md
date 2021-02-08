@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra a decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no artigo105, inciso III, alíneas "a" e "c", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sulassim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DESENTENÇA - SENTENÇA COLETIVA QUE FIXOU PRAZO PARA CUMPRIMENTO DAOBRIGAÇÃO - TÉRMINO DO PRAZO PARA ENTREGA DAS AÇÕES - DATA DE INÍCIO DA PRESCRIÇÃO - AÇÃO PROPOSTA ANTES DO TÉRMINO DO PRAZO - LITIGÂNCIA DE MÁ-FÉ VERIFICADA - INTUITO MANIFESTAMENTE PROTELATÓRIO - RECURSO CONHECIDO E DESPROVIDO. 1. Na sentença proferida em ação coletiva que deu origem a milhares de cumprimentos de sentença, restou consignado que a empresa requerida teria prazo de 180 dias para cumprimento da decisão consistente na entregasse de ações a cada cliente. Vale frisar que somente com o trânsito em julgado, onde já não era mais possível a interposição de qualquer outro recurso por parte da empresa requerida, é que começou a fluir o prazo estipulado para cumprimento da obrigação. Consequentemente, não tendo a agravada entregue as ações dentro do período fixado, cada cliente passou a ter o direito de ingressar com ação própria para ver cumprida a sentença, passando à partir daí a ser contado o prazo prescricional de 05 (cinco) anos. Nesse sentido já se posicionou o STJ (AgRg no AGRAVO EM RECURSO ESPECIAL Nº 281.767 - MS). 3. Assim, tendo a sentença transitado em julgado em 25 de setembro de 2012, a parte ré deveria proceder a retribuição das ações e pagamento dos dividendos no prazo de 180 dias, isto é, 25 de março de 2013. Como a petição inicial noticia o descumprimento desta obrigação, o prazo prescricional de 05 anos começou a correr a partir dessa data, encerrando-se em 25 de março de 2018. Portanto, verificando que o pedido cumprimento de sentença formulado pelo agravado foi distribuído em 10/10/2017, não há se falar em prescrição, devendo, pois, ser mantida a decisão recorrida. 4. A interposição de inúmeros recursos sobre várias decisões com mesmo teor só demonstra o intuito de retardar seu trânsito em julgado, bem com a finalização da fase de cumprimento/liquidação de sentença, em nítido espírito procrastinatório, de forma que devida a aplicação de multa por litigância de má-fé"(e-STJ fl. 34).
+No especial, além de dissídio jurisprudencial, a agravante alega violação da Súmula nº 150/STF, dos artigos 193 do Código Civil; 21 da Lei nº 4.717/1965 e 80 e 81 do Código de Processo Civil/2015.
+Sustenta a inaplicabilidade da multa por litigância de má-fé em virtude da ausência de conduta protelatória, porquanto apenas agiu no exercício regular do direito a uma nova apreciaçãojurisdicional da matéria já decidida.
+Defende, em síntese, que seja reconhecida a ocorrência da prescrição quinquenal prevista na legislação reguladora da Ação Popular.
+Aduz que o Supremo Tribunal Federal, em entendimento já sumulado, fixou como termo inicial do prazo prescricional da pretensão executória o trânsito em julgado da sentença.
+Assinala que, diversamente da conclusão do aresto recorrido,a prescrição não pode ser computada apenas após o prazo de 180 (cento e oitenta) dias que teve para realizar o cumprimento de entrega das ações para cada cliente.
+Afirma que, no caso, a parte recorrida não ingressou com o cumprimento de sentença em prazo hábil.
+Ao final, requer o provimento do recurso.
+Após o decurso do prazo legal para a apresentação das contrarrazões (e-STJ fl. 80), o recurso foi inadmitido na origem.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, registra-se não sercabível a interposição de recurso especial por violação de resoluções e de enunciados sumulares, por não se enquadrarem no conceito de lei federal.
+Ademais, verifica-se que os artigos193 do CCe21 da Lei nº 4.717/1965 não foram objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos aclaratórios com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282 do STF:"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Por fim, quanto aos artigos 80 e 81 do CPC/2015, o Tribunal local consignou pela ocorrência de litigância de má-fé por reconhecer o intuito da recorrente de retardar o trânsito em julgado da decisão e a finalização da fase de cumprimento de sentença, conforme demonstra a leitura do seguinte trecho do voto condutor do acórdão:
+"(..)
+Este é o caso dos autos, pois a interposição de inúmeros recursos sobre várias decisões com mesmo teor só demonstra o intuito de retardar seu trânsito em julgado, bem com a finalização da fase de liquidação/cumprimento de sentença, em nítido espírito procrastinatório"(e-STJ fl. 39).
+Nesse cenário, a revisão do entendimento firmado nas instâncias ordinárias implicaria a análise de fatos e provas, procedimento inadmissível no recurso especial em virtude da incidência da Súmula nº 7/STJ.
+Ressalto ainda que, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista a ausência de condenação em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
