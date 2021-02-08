@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES C/C REPARAÇÃO POR DANOS MORAIS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. VIOLAÇÃO DO ART. 1022 DO CPC. NÃO CONFIGURADA. AUSÊNCIA DE PRQUESTIONAMENTO. SÚMULA 282/STF.FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de restituição de valores c/c reparação por danos materiais e morais.
+2. A interposição de recurso especial não é cabível por violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausente a violação do art. 1022 do CPC, em razão da apreciação das questões deduzidas nos embargos de declaração.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo interno no agravo em recurso especialnão provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por POLI CASA SOLUÇÃO BRASIL LTDA contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial que interpusera, pelos seguintes fundamentos: não cabimento por violação de dispositivo constitucional; ausência de violação do art. 1.022 do CPC/15; e incidência das Súmulas 7/STJ e 282 e 284/STF.
+Ação: restituição de valores c/c indenização por danos materiais e morais, ajuizada pela agravante, em face de P&Q INDUSTRY GROUP LTDA.
+Decisão interlocutória: indeferiu o pedido de inclusão da sociedade empresária P & W INDÚSTRIA MODULAR LTDA no polo passivo da ação.
+Acórdão: negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. MATRIZ.FILIAL. INCLUSÃO.POLO PASSIVO. RELAÇÃO DE SUBORDINAÇÃO. NÃO COMPROVAÇÃO.
+A relação entre sociedades empresárias, matriz e filial, deve ser comprovada nos autos para que possa ser reconhecida a responsabilidade subsidiária das empresas. Não se desincumbindo a recorrente do seu ônus probatório quanto à relação de subordinação entre as sociedades empresárias indicadas, é incabível a responsabilização da empresa estranha ao processo pelas dívidas da sociedade devedora (e-STJ fl. 44).
+Embargos de Declaração: opostos pela agravante, foram rejeitados (e- STJ fls. 59/63).
+Recurso especial: alega violação do art. 93, IX, da CF e dos arts. 11, 489, §1º, IV e 1022 do CPC, aduzindo que o Tribunal de origem não teria apreciado todos os argumentos no processo.
+Sustenta, ainda, negativa de vigência aos arts. 75, § 2º, 1126, 1134 e 1136 do CC; art. 109 do CTN e arts. 357 e 789 do CPC, defendendo que há unicidade patrimonial entre a matriz estrangeira e a nacional, pelo que deve a matriz nacional ser incluídano polo passivo da ação e que, sendo a sede da agravada no estrangeiro, tem-se que acerca das obrigações por ela contraídas, deve ser considerado como domicílioo estabelecimento situado no Brasil.
+Decisão monocrática:conheceu do agravo para não conhecer do recurso especial interposto pela agravante.
+Agravo interno:em suas razões, a agravante afirma que: i) o Tribunal de origem se baseou em premissa equivocada, porquanto a alegação quanto ao pedido de desconsideração da personalidade jurídica não se pautou no reconhecimento de matriz nacional e filial e sim na existência de vinculação/subordinação/relação entre matriz estrangeira e matriz nacional, que não se confunde com empresa filial; ii) toda a matéria afeta aos artigos tidos por violados foram enfrentadas pelo acórdão recorrido e ainda houve a interposição de embargos de declaração com fins prequestionatórios; iii) a violação do art. 93 da CF é reflexa; iv) não se faz necessária qualquer incursão no acervo fático-probatório dos autos, o que afasta a incidência da Súmula 7/STJ; v) não há qualquer deficiência na fundamentação do recurso especial, porquanto houve a indicação clara de todos os artigos de lei violados.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES C/C REPARAÇÃO POR DANOS MORAIS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. NÃO CABIMENTO. VIOLAÇÃO DO ART. 1022 DO CPC. NÃO CONFIGURADA. AUSÊNCIA DE PRQUESTIONAMENTO. SÚMULA 282/STF.FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de restituição de valores c/c reparação por danos materiais e morais.
+2. A interposição de recurso especial não é cabível por violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausente a violação do art. 1022 do CPC, em razão da apreciação das questões deduzidas nos embargos de declaração.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+5. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo interno no agravo em recurso especialnão provido.
+VOTO
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, ante o não cabimento pela violação de dispositivo constitucional; aausência de violação do art. 1.022 do CPC/15; e a incidência das Súmulas 7/STJ e 282 e 284/STF.
+Julgamento:CPC/2015.
+1. Da violação de dispositivo constitucional
+Verifica-se que aagravantealegoua violação do art. 93, IX, da CF. Entretanto, conforme consignado na decisão agravada, não cabe a este Tribunal a apreciação de eventual ofensa a súmula, a dispositivo constitucional ou a qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+2. Da negativa de prestação jurisdicional
+A agravante alega que o acórdão recorrido foi omisso ao deixar de analisar a alegação de que não fundamentou pela existência de matriz e filial e sim pela vinculação/subordinação/relação entre matriz estrangeira e matriz nacional, sendo desnecessária a comprovação da constituição de empresa filial.
+Entretanto, o TJDFT foi claro em suas conclusões: i) a relação indicada pela agravante de matriz internacional e matriz nacional é admitida para o reconhecimento de unicidade patrimonial e caberia a ela comprovar esse fato, ônus do qual não se desincumbiu (e-STJ fl. 61); ii) não há indícios de que a agravadaestivesse atuando por meio daP & W INDÚSTRIA MODULAR LTDA em território nacional, tendo em vista que a agravada possui registro para atuação em nome próprio no Brasil (e-STJ fl. 61); iii) a existência de relação seja de matriz-filial ou matriz estrangeira-matriz nacional, em que existe subordinação ou vinculação das sociedades, é formal e regida por lei e, portanto, demanda provas específicas, sendo insuficiente a juntada de informes e reportagens ou notícia obtidas na página de redes sociais (e-STJ fls. 61/62); iv) caberia à agravante juntar aos autos atos constitutivos das empresas ou suas respectivas alterações para evidenciar sua tese de vinculação das sociedades, além de outros documentos que comprovassem as alegações; contudo a parte deixou de instruir os autos de forma adequada (e-STJ fl. 62); v) evidenciou-se a ausência de provas sobre a relação, vinculação ou subordinação entre a agravada e aP & W INDÚSTRIA MODULAR LTDA, de forma que não há indícios nos autos de que as sociedades comunguem do mesmo patrimônio (e-STJ fl. 62).
+Assim, constata-se que o artigo 1.022 do CPC/15 realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente. Ressalte-se que o fato de as questões terem sido tratadas sob viés diverso daquele pretendido pelo agravante não dá ensejo à interposição de embargos de declaração, que foram utilizados com efeitos meramente infringenciais.
+De outra parte,também não há que se falar em ofensa dos arts. 11 e489 do CPC/15, pois devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+3. Da fundamentação deficiente
+No que tange à fundamentação deficiente, a agravante não indicou, de forma clara, precisa e consistente, em que consistiu a pretensa ofensa aos arts. 75, § 2º, 1126, 1134 e 1136 do CC;art. 109 do CTN; e art. 357 do CPC/2015. Inafastável, pois, a incidência da Súmula 284/STF.
+4. Da ausência de prequestionamento
+Ademais, os arts. 75, § 2º, 1126 e 1136 do CC eart. 109 do CTN não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Saliente-se, outrossim, que a ausência de prequestionamento dos dispositivos legais indicados pelaagravante não leva ao imediato provimento do recurso especial por ofensa aos arts. 11, 489 e 1.022 do CPC/15, quando o Tribunal de origem fundamenta a decisão suficientemente para decidir de forma integral a controvérsia, como ocorreu na hipótese dos autos.
+De acordo com o art. 1.025 do CPC/15, indicado pelaagravante, consideram-se incluídos no acórdão de inadmissão ou rejeição os elementos que o embargante suscitou, para fins de prequestionamento, apenas no caso de o tribunal superior considerar existente erro, omissão, contradição ou obscuridade, o que não ocorreu neste processo.
+5. Do reexame de fatos e provas
+Por fim, permanecea incidência da Súmula 7/STJ à espécie. Isso porquanto alterar as conclusões adotadas pelo Tribunal de origem quanto à ilegitimidade passiva da empresaP& W INDÚSTRIA MODULAR LTDA, em razão da ausência de provas que comprovam a relação de subordinação entre ela e a agravante,demandaria desta Corte, indubitavelmente, a incursão no conteúdo fático-probatório dos autos, conforme se depreende dos seguintes trechos:
+Com isso, constata-se que a relação indicada pela embargante de matriz internacional e matriz nacional é admitida para o reconhecimento de unicidade patrimonial e, caberia a ela comprovar esse fato, ônus do qual não se desincumbiu.
+Nesse sentido, o acórdão embargado foi claro ao indicar que não havia indícios de que a embargada estivesse atuando por meio da P&W INDUSTRY GROUP LTDA em território nacional, tendo em vista que a agravada possui registro para atuação em nome próprio no Brasil. Confira-se:
+(..)
+Outrossim, a decisão vergastada evidenciou que a existência de relação seja de matriz -filial ou matriz estrangeira - matriz nacional, em que existe subordinação ou vinculação das sociedades, é formal e regida por Lei e, portanto demanda provas específicas; sendo insuficiente para prová-la a juntada deinformes e reportagens ou notícia obtidas na página de redes sociais. Confira-se trecho do acórdão embargado:
+(..)
+Caberia à embargante juntar aos autos atos constitutivos das empresas ou suas respectivas alterações para evidenciar sua tese de vinculação das sociedades, além de outros documentos que comprovassem as alegações. Contudo a parte deixou de instruir os autos de forma adequada. Destarte, não há omissão indicada, pois a documentação trazida pela embargante foi devidamente examinada e considerada insuficiente para a finalidade almejada.
+Ademais, evidenciou-se a ausência de provas sobre a relação, vinculação ou subordinação entre a embargada e a P&W INDUSTRY GROUP LTDA de forma que não há indícios nos autos de que as sociedades comunguem do mesmo patrimônio.
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que a incursão nesta seara implicaria ofensa ao referido óbice sumular.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
