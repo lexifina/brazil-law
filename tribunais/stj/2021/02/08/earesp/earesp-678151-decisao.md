@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. CONTRATO DE MÚTUO IMOBILIÁRIO. AÇAO DE CONSIGNAÇÃO EM PAGAMENTO. IMPROCEDÊNCIA NA AÇÃO PRINCIPAL. ACESSORIEDADE. INSUFICIÊNCIA DOS DEPÓSITOS. DECISÃO MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. RECURSO IMPROVIDO.
+1. Persistem imaculados e impassíveis os argumentos nos quais o entendimento foifirmado, subsistindo em si as mesmas razões expedidas na decisão agravada.
+2. O êxito de ação consignatória está relacionada com o da ação ordinária principal em apenso, onde o pedido foi julgado improcedente.
+3. A constatação da insuficiência do valor depositado acarreta a improcedência da consignatória, vez que para que a consignação tenha força de pagamento é mister que o valor depositado corresponda ao efetivamente devido.
+4. Agravo Interno improvido.
+Nas razões de recurso especial, alegam os ora agravantes violação dos artigos 130, 420, 431-B, 890, 892 e 899, § 1º, do Código de Processo Civil de 1973 e 2º, 3º, 6º, 14, 46, 47, 51, 52 e 54 do Código de Defesa do Consumidor. Alegam, também, que o entendimento do acórdão recorrido diverge da orientação do STJ quanto à consignação em pagamento e à utilização da Tabela Price.
+Não merece reforma a decisão agravada.
+De início, observo que o conteúdo normativo dos artigos de lei indicados como violados não foi debatido no acórdão recorrido, não servindo de fundamento à conclusão adotada pelo Tribunal de origem, tampouco foram opostos embargos de declaração para esse fim. É manifesta, pois, a incidência da Súmula 282/STF.
+Depois, assinalo que nas razões de recurso especial não houve indicação do artigo de lei a respeito de cuja interpretação divergiu o acórdão recorrido quanto à consignação em pagamento e à utilização da Tabela Price, o que, nos termos da jurisprudência desta Corte, atrai a incidência da Súmula 284/STF; ademais, o dissídio jurisprudencial não foi demonstrado nos termos dos artigos 541, parágrafo único, do Código de Processo Civil e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça; para tanto, é necessária a demonstração da similitude de panorama de fato e da divergência na interpretação do direito entre os acórdãos confrontados, não bastando, para tanto, a simples transcrição de ementas, como feito no recurso especial.
+Ainda sobre o assunto, acrescento que "a divergência entre julgados do mesmo tribunal não enseja recurso especial" (Súmula 13/STJ).
+Mesmo que pudesse ser superado tal óbice, anoto que a Segunda Seção, no julgamento do RESP 1.108.058/DF, concluído em 10.10.2018, do qual fui a relatora para o acórdão, firmou a seguinte tese para os fins do art. 1.036 do CPC/2015:
+"Em ação consignatória, a insuficiência do depósito realizado pelo devedor conduz ao julgamento de improcedência do pedido, pois o pagamento parcial da dívida não extingue o vínculo obrigacional".
+Com efeito, a ementa do acórdão, publicada em 23.10.2018, tem o seguinte teor:
+CIVIL E PROCESSUAL. RECURSO ESPECIAL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. CONTRATO BANCÁRIO. IMPROCEDÊNCIA. FINALIDADE DE EXTINÇÃO DA OBRIGAÇÃO. NECESSIDADE DE DEPÓSITO INTEGRAL DA DÍVIDA E ENCARGOS RESPECTIVOS. MORA OU RECUSA INJUSTIFICADA DO CREDOR. DEMONSTRAÇÃO. OBRIGATORIEDADE. EFEITO LIBERATÓRIO PARCIAL. NÃO CABIMENTO. CÓDIGO CIVIL, ARTS. 334 A 339. CPC DE 1973, ARTS. 890 A 893, 896, 897 E 899. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. CPC DE 2015.
+1. "A consignação em pagamento visa exonerar o devedor de sua obrigação, mediante o depósito da quantia ou da coisa devida, e só poderá ter força de pagamento se concorrerem "em relação às pessoas, ao objeto, modo e tempo, todos os requisitos sem os quais não é válido o pagamento" (artigo 336 do NCC)". (Quarta Turma, REsp 1.194.264/PR, Rel. Ministro Luís Felipe Salomão, unânime, DJe de 4.3.2011).
+2. O depósito de quantia insuficiente para a liquidação integral da dívida não conduz à liberação do devedor, que permanece em mora, ensejando a improcedência da consignatória.
+3. Tese para os efeitos dos arts. 927 e 1.036 a 1.041 do CPC: - "Em ação consignatória, a insuficiência do depósito realizado pelo devedor conduz ao julgamento de improcedência do pedido, pois o pagamento parcial da dívida não extingue o vínculo obrigacional".
+4. Recurso especial a que se nega provimento, no caso concreto
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
