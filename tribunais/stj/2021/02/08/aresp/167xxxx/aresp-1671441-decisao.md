@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo desafiando decisão que não admitiu recurso especial, este fundamentado nas alíneas "a" e "c" do permissivo constitucional, interposto contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Alienação fiduciária em garantia - Bem imóvel - Ações cautelar e declaratória de nulidade de atos jurídicos, com pleitos revisional de contrato e de repetição de indébito - Demanda de devedores fiduciantes Sentença de improcedência da cautelar e de parcial procedência da principal Recursos de ambas as partes Parcial reforma do julgado Cabimento - Inexistência de obrigação legal, à época dos fatos, de intimação acerca dos leilões extrajudiciais - Mora "debitorum" incontroversa Ausência de inequívoca intenção de purgar a mora - Consolidação da propriedade e posse plenas no patrimônio do banco credor fiduciário Viabilidade jurídica Notificação extrajudicial regularmente expedida Inteligência do art. 34, do DL nº 70/66, e do art. 39, II, da Lei nº 9.514/97 Arguição de nulidade de cláusulas que permitem a prática de juros acima do patamar legal e mediante indevida capitalização mensal Inconsistência jurídica Modificação da sentença, neste ponto - Inaplicabilidade do Decreto nº 22.626/33 (Lei da Usura) às instituições bancárias Contrato celebrado posteriormente à MP nº 1.963-17/2000, reeditada pela MP nº 2.170-36/2001 Inexistência de ilegalidade Perícia judicial que, inclusive, concluiu pela correção do cálculo das prestações do contrato Ações improcedentes.
+Apelo dos autores desprovido.
+Apelo do réu provido." (e-STJ, fl. 950)
+Opostos embargos de declaração, restaram rejeitados.
+A parte agravante, nas razões do apelo especial, alega violação aos arts. 39, II, da Lei 9.514/97, 34 e 36, parágrafo único, do Decreto 70/66, bem como divergência jurisprudencial, sustentando, em síntese, a necessidade de intimação pessoal dos devedores fiduciários acerca dos públicos leilões extrajudiciais com a consequente nulidade do procedimento em não se observando este requisito.
+É o relatório. Passo a decidir.
+No tocante a necessidade de intimação quanto as datas da realização dos leilões extrajudiciais de bem imóvel objeto de consolidação de propriedade, o Tribunal de origem afirmou isto, in verbis:
+É certo que o Colendo Superior Tribunal de Justiça, mais recentemente, tem reconhecido o direito de o fiduciante ser pessoalmente intimado dos leilões extrajudiciais, no propósito de permitir-lhe exercer o direito de purgar a mora.
+Entretanto, a eventual ausência de intimação dos leilões somente tem repercussão jurídica se presente a razão de ser ou a finalidade da intimação, vale dizer, a intenção inequívoca do fiduciante de purgar a mora e manter a validade do contrato originariamente pactuado. Assim, é de todo irrelevante a não intimação se o fiduciante não manifesta compromisso de quitar o saldo devedor.
+É que se verifica no caso presente, ou seja, os autores em momento algum manifestaram intenção de purgar a mora mediante depósito do saldo devedor.
+Não se deve deslembrar que, nos casos que originaram a jurisprudência do Tribunal Superior, os fiduciantes sempre manifestavam expressamente a intenção de purgar a mora, promovendo, inclusive, ao depósito do valor necessário àsatisfação do débito. Não há nenhuma decisão de anulação de leilão, em caso de arrematação por terceiro, ou de anulação da consolidação da propriedade em favor do fiduciário sem a declaração expressa de reconhecer a validade da purgação da mora até a data da arrematação e a manutenção do vínculo contratual.
+Vale ressaltar que o procedimento extrajudicial de alienação do bem foi levado a efeito antes da promulgação da Lei nº 13.465/17, que inseriu tal obrigação na Lei nº 9.514/97, através da criação de seu art. 27, §2º B." (e-STJ, fls. 954/955)
+Entretanto, a decisão do Tribunal de origem afastou-se da jurisprudência deste Superior Tribunal de Justiça, no sentido de que no contrato de alienação fiduciária de bem imóvel regido pela Lei 9.514/97, que é o caso dos autos, a intimação pessoal do devedor acerca da realização do leilão extrajudicial é imprescindível, mesmo que tenha este sido intimado para purgar a mora.
+Nesse mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BEM IMÓVEL. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PESSOAL DO DEVEDOR. OBRIGATORIEDADE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência pacífica do Superior Tribunal de Justiça, no contrato de alienação fiduciária de bem imóvel, regido pela Lei n. 9.514/1997, é necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial, ainda que tenha sido previamente intimado para purgação da mora (precedentes).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.7/STJ).
+3. No caso concreto, entender que a devedora teve ciência prévia das condições da venda extrajudicial e do horário do leilão demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 490.517/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/08/2019, DJe 02/09/2019)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. BEM IMÓVEL. LEILÃO EXTRAJUDICIAL. INTIMAÇÃO PESSOAL. SÚMULA 83 DO STJ. AGRAVO NÃO PROVIDO.
+1. Nos contratos de alienação fiduciária de coisa imóvel, regidos pela Lei nº 9.514/97, é necessária a intimação pessoal do devedor acerca da data da realização do leilão extrajudicial. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1109712/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe 06/11/2017)
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE EXECUÇÃO E LEILÃO EXTRAJUDICIAL. CANCELAMENTO DE REGISTRO IMOBILIÁRIO. INTIMAÇÃO PESSOAL DO DEVEDOR. DL N. 70/1966. SÚMULA N. 7/STJ.
+1. É indispensável a intimação pessoal dos devedores acerca da data designada para o leilão do imóvel hipotecado em processo de execução extrajudicial realizado nos termos do Decreto-Lei n. 70/1966.
+2. No caso concreto, o Tribunal de origem concluiu pela regularidade da intimação pessoal do devedor para purgar a mora. A alteração desse entendimento demandaria o reexame de fatos e provas, inviável em recurso especial, ante o disposto na Súmula n. 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1093492/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/12/2013, DJe 13/12/2013)
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial a fim de julgar procedente o pedido formulado na origem e declarar a nulidade do praceamento realizado na execução extrajudicial.
+Ônus sucumbenciais invertidos.
+Publique-se.
