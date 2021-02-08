@@ -1,0 +1,31 @@
+DECISÃO:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Leodar Roberto Carvalho Junior, apontando como autoridade coatora a Quinta Turma do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no HC nº 631.226/SC, relator o Ministro Reynaldo Soares da Fonseca.
+    O impetrante aduz, em síntese, a presença de constrangimento ilegal, por ausência de fundamentação idônea apta a justificar a prisão preventiva do paciente.
+    Ademais, assevera que a inocência do paciente.
+    Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva do paciente. Subsidiariamente, pugna pela aplicação das medidas cautelares previstas no artigo 319 do CPP.
+    Examinados os autos, decido.
+    Transcrevo a ementa do acórdão proferido pelo Superior Tribunal de Justiça:
+    “AGRAVO REGIMENTAL. HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO (LEI DE ARMAS, ART. 12), TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO (LEI DE TÓXICOS, ART. 33 E 35) - PEDIDO DE RELAXAMENTO DA PRISÃO PREVENTIVA. GRAVIDADE CONCRETA. ORGANIZAÇÃO CRIMINOSA. INOCÊNCIA. NECESSIDADE DE EXAME APROFUNDADO DE PROVA. IMPOSSIBILIDADE NA VIA ELEITA. NEGADO PROVIMENTO.
+    1. "A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, ainda que não viabilizada a sustentação oral das teses apresentadas, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante" (AgRg no HC n. 485.393/SC, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 28/3/2019).
+    2. Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+    3. A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, a restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF).
+    4. Para a privação desse direito fundamental da pessoa humana, é indispensável a demonstração da existência da prova da materialidade do crime, da presença de indícios suficientes da autoria e do perigo gerado pelo estado de liberdade do imputado, bem como a ocorrência de um ou mais pressupostos do artigo 312 do Código de Processo Penal.
+    5. No caso, as instâncias ordinárias destacaram a necessidade da medida extrema, para fins de garantia da ordem pública, tendo em vista a quantidade de entorpecente apreendida - 190kg de maconha, 04 armas de fogo e 193 munições -, motivação considerada idônea para justificar a prisão cautelar, nos termos do art. 312 do Código de Processo Penal.
+    6. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper suas atividades
+    7. Por fim, a alegação de que inexistem indícios de que o paciente se dedicava ao tráfico de drogas ou integrasse organização criminosa, não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+    8. Agravo regimental a que se nega provimento.”
+    Pois bem, o julgado proferido pela Quinta Turma do STJ não evidencia ilegalidade flagrante, abuso de poder ou teratologia. Com efeito, o entendimento emanado daquela Corte de Justiça encontra-se suficientemente motivado, restando justificado o convencimento formado.
+    Conforme anotado pelo Ministro Reynaldo Soares da Fonseca em seu voto,
+    “as instâncias ordinárias destacaram a necessidade da medida extrema, para fins de garantia da ordem pública, tendo em vista a quantidade de entorpecente apreendida - 190kg de maconha, 04 armas de fogo e 193 munições -, motivação considerada idônea para justificar a prisão cautelar, nos termos do art. 312 do Código de Processo Penal.”
+    Destacou-se, ainda, que a necessidade de “decretação de prisão de membros de organização criminosa como forma de interromper suas atividades.”
+     Consoante entendimento da Corte, “não há ilegalidade evidente ou teratologia (...) na decisão que impõe prisão preventiva com base em elementos concretos aptos a revelar a especial gravidade da conduta” (HC nº 141.583/RN, Segunda Turma, Relator o Ministro Edson Fachin, DJe de 2/10/17).
+    É certo, ainda, que “[a] necessidade de interromper ou diminuir a atuação de organização criminosa constitui fundamento a viabilizar a prisão preventiva” (HC nº 180.265/CE, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 22/6/20).
+    Ademais, se as instâncias ordinárias, soberanas na análise da prova, concluíram que o paciente se dedicava à atividade criminosa para manter a prisão preventiva, para se chegar a uma conclusão diversa, necessário seria o reexame de fatos e provas que o habeas corpus não comporta.
+    De acordo com o entendimento da Corte é inviável a utilização do habeas corpus para se revolver o contexto fático probatório e glosar os elementos de prova que ampararam aquela conclusão. Nesse sentido: RHC nº 105.150, Primeira Turma, Relator o Ministro Dias Toffoli, DJe de 4/5/12; RHC nº 121.092/SP, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 12/5/14; HC nº 118.602/SP, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 11/3/14; e o HC nº 111.398/SP, Segunda Turma, Relator o Ministro Ricardo Lewandowski, DJe de 3/5/12.
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 8 de fevereiro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
