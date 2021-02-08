@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RAFANIO BRITO DE AZEVEDOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE.
+Depreende-se dos autos que o paciente foi condenado definitivamente, pelos crimes dehomicídio qualificado (art. 121, § 2º, incisos I e IV, do Código Penal) e de quadrilha (art. 288 do Código Penal), à pena de21 anos e 3 meses de reclusãoem regime fechado.
+Ajuizada revisão criminal, o Tribunal de origem julgou improcedente a pretensão nos termos da seguinte ementa (e-STJ fl. 15):
+REVISÃO CRIMINAL FUNDADA NO ART. 621, INCISO I,DO CÓDIGO DE PROCESSO PENAL. ALEGAÇÃO DE ERRO NA DOSIMETRIA DA PENA, ESPECIFICAMENTE QUANTO AOS ANTECEDENTES E ÀS CONSEQUÊNCIAS DO CRIME. CIRCUNSTÂNCIAS JUDICIAIS DO ART. 59 DO CÓDIGO PENAL CORRETAMENTE ANALISADAS. MAUS ANTECEDENTES. REGISTRO DE OUTRA CONDENAÇÃO TRANSITADA EM JULGADO QUANDO DA PROLAÇÃO DA SENTENÇA. INEXISTÊNCIA DE CONTRARIEDADE À TESE FIRMADA PELO SUPREMO TRIBUNAL EM SEDE DE REPERCUSSÃO GERAL (TEMA 129). CIRCUNSTÂNCIAS DO CRIME DE HOMICÍDIO. ASPECTO SUBJETIVO. VALORAÇÃO REALIZADA DENTRO DA DISCRICIONARIEDADE ATRIBUÍDA À AUTORIDADE SENTENCIANTE E QUE NÃO SE MOSTRA FLAGRANTEMENTE ILEGAL OU EQUIVOCADA. IMPROCEDÊNCIA DO PEDIDO REVISIONAL.
+Daí o presente writ, no qual alega a defesa que "estamos diante de fundamento inidôneo por violação à vedação ao bis in idem, na medida em que é pacificado na jurisprudência nacional que a perda da vida por parte da vítima, e as consequências naturalísticas imediatamente causadas pela morte, como a perda dos direitos políticos e da liberdade de expressão, tratam-se de elementos inerentes a qualquer crime contra a vida na modalidade consumada, sobretudo o delito de homicídio, e, portanto, não se presta à fundamentar a exasperação da pena-base" (e-STJ fl. 8).
+Assere que "resta comprovado que na data do fato apreciado pela condenação mantida pelo acórdão combatido (15.06.2011), o Recorrente era ainda tecnicamente primário, na medida em que ações penais em andamento não o tornam reincidente ou dotado de maus antecedentes, não podendo ser considerada para finsde agravamento da pena, nos termos da súmula 444 do STJ" (e-STJ fl. 12).
+Ao final, conclui que estaCorte deve "reconhecera violação ao art. 59 do Código Penal e proceder pelo redimensionamento da pena na fração de 1/6 para cada circunstância judicial - tendo em vista que este foi o quantum de aumento empregado na sentença para cada uma delas - considerando-se como favoráveis os antecedentes e as consequências do crime" (e-STJ fl. 14).
+O pedido liminar foi indeferido (e-STJ fls. 78/80).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento dowritou pela denegação da ordem (e-STJ fls. 105/111).
+É o relatório.
+Decido.
+Depreende-se dos autos que o presentewritimpugna acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Norte na Revisão Criminal n.0801290-87.2020.8.20.0000.
+Ocorre que a causa de pedir e o pedido destehabeas corpussão idênticos aos do AREsp n. 1.760.681/RN, do qual conheci para negar provimento ao recurso especial.
+Ante o exposto, diante da constatação de que o presente remédio constitucional é mera reiteração do AREsp n. 1.760.681/RN, delenão conheço.
+Publique-se. Intimem-se.
