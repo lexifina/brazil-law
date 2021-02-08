@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GENILSON DA SILVA SOARES contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2141905-61.2020.8.26.0000.
+Consta dos autos que o Paciente foi condenado, em 06/02/2020, como incurso no art. 155, § 4.º, do Código Penal à pena de 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, no regime inicial fechado (maus antecedentes e reincidência), mais 12 (doze) dias-multa, operando o trânsito em julgado para a Defesa em 11/02/2020. O cumprimento definitivo da pena foi iniciado em 24/05/2020 (fl. 22).
+O Juízo das Execuções Penais indeferiu o pedido de concessão de prisão albergue domiciliar formulado pelo Paciente (fls. 30-36).
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem em acórdão acostado às fls. 50-55.
+Neste writ, alega a Parte Impetrante que, apesar de o Paciente não se encontrar no grupo de risco do coronavírus, a aglomeração carcerária favorece a propagação da doença no estabelecimento prisional, além de não haver condições e infraestrutura adequadas para o tratamento de detentos que eventualmente venham a contrair a Covid-19. Acrescenta que o Paciente tem duas filhas que dele dependem.
+Requer, liminarmente e no mérito, seja determinada a "expedição do alvará de soltura em favor do Paciente, com fundamento na Recomendação 62, do CNJ" (fl. 9).
+O pedido liminar foi indeferido (fls. 72-74).
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem de habeas corpus (fls. 102-104).
+É o relatório.
+Decido.
+Na espécie, o Tribunal estadual, ao manter o indeferimento do pleito de prisão domiciliar, consignou que o Paciente (fl. 54):
+" ..  não faz jus ao benefício almejado, pois não demonstrou integrar grupo de risco, estar com a saúde fragilizada, nem a impossibilidade de receber cuidados médicos na unidade prisional, caso isso seja necessário e muito menos que no ambiente carcerário estará mais protegido do que em liberdade.
+Esta Corte tem decidido que o conteúdo da Recomendação nº 62 do Conselho Nacional de Justiça não autoriza a libertação imediata e indiscriminada de todos os presos do sistema prisional.
+Para que não fique sem registro, cabe observar que o fato de o paciente ser pai de duas crianças não lhe confere o direito a ser posto em liberdade, posto sequer haver sido feita prova de ser ele imprescindível aos cuidados dos menores."
+Pois bem. O art. 117 da Lei de Execução Penal (LEP) prevê a prisão domiciliar apenas aos que cumprem pena em regime aberto, maiores de 70 (setenta) anos de idade, não fazendo nenhuma referência a outros regimes prisionais ou idades.
+Não se desconhece que "o Superior Tribunal de Justiça tem decidido que é possível o deferimento de prisão domiciliar ao sentenciado recolhido no regime fechado ou semiaberto sempre que a peculiaridade concreta do caso demonstrar sua imprescindibilidade" (AgRg no HC 491.411/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019).
+Lado outro, em razão da pandemia causada pelo novo coronavírus, não se ignora a necessidade de realizar o juízo de risco inerente à custódia cautelar com maior preponderância das medidas alternativas ao cárcere, a fim de evitar a proliferação da Covid-19; todavia, essa exegese da Recomendação do CNJ não permite concluir pela automática substituição da prisão preventiva pela domiciliar.
+No âmbito deste Superior Tribunal, inclusive, há precedentes no sentido de ser necessário que o eventual beneficiário do instituto demonstre: a) sua inequívoca adequação no chamado grupo de vulneráveis da Covid-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, causa mais riscos do que o ambiente em que a sociedade está inserida; circunstâncias não demonstradas no caso. A propósito: AgRg no HC 561.993/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/04/2020 (DJe 04/05/2020).
+Na espécie, como ressaltado pela jurisdição ordinária, e também pela Parte Impetrante, o Paciente não integra o grupo de risco do coronavírus.
+Desse modo, não há como infirmar a conclusão de que a substituição da segregação pela prisão domiciliar, no caso, não atende ao disposto na Recomendação n. 62 do CNJ.
+Nesse sentido:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME FECHADO. PEDIDO DE PRISÃO DOMICILIAR EM RAZÃO DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. GRUPO DE RISCO. PORTADOR DE HIPERTENSÃO ARTERIAL SISTÊMICA E DIABETES MELLITUS. RÉU NÃO INSERIDO NA EXCEPCIONALIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Não há dúvidas de que, ante a crise de pandemia mundialmente causada pela Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades públicas, inclusive do Poder Judiciário.
+2. Entretanto, tais atitudes devem ser tomadas em conformidade com a recente Recomendação n. 62/2020 do Conselho Nacional de Justiça, que orienta aos magistrados com competência para a fase de conhecimento que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, reavaliem as prisões provisórias.
+3. No caso, verificou-se que as instâncias ordinárias afirmaram que, até o momento, não há provas de que o agravante faça parte de grupo de risco ou não esteja recebendo o tratamento adequado. Portanto, embora possa ser portador de asma, não está inserido na excepcionalidade para fazer jus ao benefício da prisão albergue domiciliar, pois não comprovou que esteja em situação de vulnerabilidade no ambiente prisional.
+4. Agravo regimental improvido." (AgRg no HC 594.009/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 06/10/2020, DJe 09/10/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+ ..
+4. Quanto ao pleito de prisão domiciliar, fundamentado na situação de pandemia decorrente do Covid-19, o recurso também não prospera. O Relator do feito na origem assinalou não ter sido demonstrada qualquer situação concreta de risco à vida do Agravante, afirmando, ainda, que "não há comprovação de que, dentro do estabelecimento prisional, não terá o Paciente atendimento e proteção adequados", não servindo a Recomendação n.º 62/2020 do CNJ como salvo conduto indiscriminado.
+ ..
+6. Agravo regimental desprovido." (AgRg no HC 582.122/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/06/2020, DJe 29/06/2020; sem grifos no original.)
+Além disso, o Tribunal de origem deixou assentado que não foi "feita prova de ser ele imprescindível aos cuidados dos menores" (fl. 54).
+Ante o exposto, DENEGO A ORDEM de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PANDEMIA CAUSADA PELO NOVO CORONAVÍRUS. PEDIDO DE PRISÃO DOMICILIAR FUNDADO NA RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. CONTEXTO DE MAIOR RISCO NÃO DEMONSTRADO. AUSÊNCIA DE PROVA DA IMPRESCINDIBILIDADE DO PACIENTE NO CUIDADO DAS FILHAS. ORDEM DE HABEAS CORPUS DENEGADA.
