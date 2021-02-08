@@ -1,0 +1,14 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Roge & Aless Veículos Ltda. – ME afirma haver o Presidente da Quarta Turma Recursal Cível do Colégio Recursal de Santo André/SP, no processo nº 0100068-95.2017.8.26.9011, usurpado a competência do Supremo ao deixar de remeter-lhe agravo protocolado ante negativa de seguimento a recurso extraordinário.
+    Esclarece protocolado extraordinário, cujo processamento foi indeferido ante o proclamado, sob o ângulo da repercussão geral, nos recursos extraordinários com agravo nº 748.371 e 835.533 – Temas nº 660 e 800. Interposto agravo direcionado ao Supremo, não houve êxito. Articula com ofensa aos artigos 219 do Código de Processo Civil e 5º, incisos XXXV, LIV e LV, da Constituição Federal. Sustenta caber a este Tribunal a apreciação de agravo voltado à sequência de extraordinário, considerado o verbete nº 727 da Súmula do Supremo. Discorre sobre o histórico processual.
+    Requer, no campo precário e efêmero, a suspensão do pronunciamento atacado. Busca a cassação do ato e a remessa do processo ao Supremo.
+    2. Da leitura das peças conclui-se formalizado extraordinário visando atacar decisão que implicou a declaração de intempestividade de recurso inominado, considerado o prazo em dias corridos. Ante a apontada transgressão ao artigo 5º, incisos XXXV, LIV e LV, da Constituição Federal, é inviável o recurso tendo em conta a vinculação da questão àquela versada, sob o regime da repercussão maior, no recurso extraordinário com agravo nº 748.371. A controvérsia pressupõe exame de tema legal.
+    Mostra-se pertinente a tese fixada no julgamento do extraordinário de nº 598.365/MG, considerada a problemática da tempestividade. O Plenário concluiu ausente repercussão geral, por falta de matéria constitucional, quando a questão diz respeito à adequação de recurso da competência de Tribunal diverso, em virtude da regência legal dos pressupostos de admissibilidade.
+    A glosa ao manuseio de recurso inadequado – agravo com base no artigo 1.042 do Código de Processo Civil – não implica usurpação da competência do Supremo. A interpretação do verbete nº 727 da Súmula, editado em 26 de novembro de 2003 e desprovido de eficácia vinculante – a atribuir ao Tribunal a apreciação de agravo de instrumento interposto em face da inadmissão de extraordinário –, há de ser feita em conformidade com a sistemática da repercussão geral, criada pela Emenda Constitucional nº 45/2004. A teor do artigo 1.030, inciso I, alínea “a”, e § 2º, do diploma processual, deve o Órgão recorrido negar seguimento a extraordinário se envolvido debate em relação ao qual tenha o Supremo assentado não configurada repercussão maior. Contra o pronunciamento, caberá agravo interno.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 8 de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
