@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNRURAL. CONTRIBUIÇÃO INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. PESSOA FÍSICA EMPREGADOR. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. DISPOSITIVOS INFRACONSTITUCIONAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282, 356/STF E 211/STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. APLICAÇÃO.
+1. Cuida-se de Agravo Interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial por ausência de impugnação específica à falta de prequestionamento.
+2. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial para que se conheça do respectivo Agravo. O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+3. Outrossim, a Corte regional decidiu a causa à luz da orientação firmada pelo STF, por ocasião do julgamento, sob o regime da repercussão geral, do RE 718.874/RS (Rel. p/ acórdão Ministro Alexandre de Moraes, DJe de 3/10/2017).
+4. Não compete ao STJ a apreciação da questão suscitada, ainda que, para tanto, a parte recorrente haja invocado dispositivos infraconstitucionais, pois trata-se de questão de cunho eminentemente constitucional, cabendo tão somente ao STF o exame da questão.
+5. Não se pode conhecer do Recurso Especial no tocante à alegada ofensa aos arts. 1º da Resolução 15/17 do Senado Federal e 1º, §§ 1º e 2º do Decreto 2.346/97. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. Precedentes do STJ.
+6. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial por ausência de prequestionamento.
+O Recurso Especial não foi admitido pela fundamentação eminentemente constitucional do acórdão e pela falta de prequestionamento dos dispositivos infraconstitucionais alegados.
+Em suas razões, o recorrente defende a inexigibilidade da contribuição ao FUNRURAL, fundamentada nos incisos I e II do art. 25 da Lei 8.212/91 (mesmo com as alterações promovidas pela Lei 10.256/01), tendo em vista que, no seu entendimento, após a edição da Resolução 15/17 do Senado Federal, a referida lei não possuiria mais seus critérios quantitativos (alíquota e base de cálculo).
+A parte agravante sustenta, em suma, que durante a análise da (infra) constitucionalidade, também se detectou que o tema foi efetivamente debatido.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNRURAL. CONTRIBUIÇÃO INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. PESSOA FÍSICA EMPREGADOR. FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. COMPETÊNCIA DO STF. DISPOSITIVOS INFRACONSTITUCIONAIS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282, 356/STF E 211/STJ. APLICAÇÃO. FALTA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182/STJ. APLICAÇÃO.
+1. Cuida-se de Agravo Interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial por ausência de impugnação específica à falta de prequestionamento.
+2. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial para que se conheça do respectivo Agravo. O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+3. Outrossim, a Corte regional decidiu a causa à luz da orientação firmada pelo STF, por ocasião do julgamento, sob o regime da repercussão geral, do RE 718.874/RS (Rel. p/ acórdão Ministro Alexandre de Moraes, DJe de 3/10/2017).
+4. Não compete ao STJ a apreciação da questão suscitada, ainda que, para tanto, a parte recorrente haja invocado dispositivos infraconstitucionais, pois trata-se de questão de cunho eminentemente constitucional, cabendo tão somente ao STF o exame da questão.
+5. Não se pode conhecer do Recurso Especial no tocante à alegada ofensa aos arts. 1º da Resolução 15/17 do Senado Federal e 1º, §§ 1º e 2º do Decreto 2.346/97. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. Precedentes do STJ.
+6. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 2 de dezembro de 2020.
+A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial para que se conheça do respectivo agravo. O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+Outrossim, a Corte regional decidiu a causa à luz da orientação firmada pelo STF, por ocasião do julgamento, sob o regime da repercussão geral, do RE 718.874/RS (Rel. p/ acórdão Ministro Alexandre de Moraes, DJe de 3/10/2017).
+Tem-se, assim, que não compete ao STJ a apreciação da questão suscitada. Ainda que, para tanto, a parte recorrente haja invocado dispositivos infraconstitucionais, trata-se de questão de cunho eminentemente constitucional, cabendo tão somente ao STF o exame da questão. Veja-se:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RECURSO EXTRAORDINÁRIO N. 718.874 (TEMA N. 669). FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O agravante sustenta a existência de fundamento infraconstitucional independente do tema julgado pela Suprema Corte, apontando a violação do art. 1º da Lei n. 9.528/97, do art. 1º, §§ 1º e 2º, do Decreto n. 2.346/97, do art. 12, III, "c", da Lei Complementar n. 95/98, do art. 3º e 142 do Código Tributário Nacional e do art. 1º da Resolução n. 15/17 do Senado Federal, pleiteando o reconhecimento da inexigibilidade da contribuição ao FUNRURAL.
+2. A despeito dos dispositivos infraconstitucionais suscitados, o acórdão recorrido está fundamentado unicamente na posição firmada pelo Supremo Tribunal Federal quando do julgamento do Tema n. 669. Competência do STF.
+3. Agravo interno não provido. (AgInt nos EDcl no AREsp 1.622.340/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 22.10.2020)
+Não se pode conhecer do Recurso Especial no tocante à alegada ofensa aos arts. 1º da Resolução nº 15/17 do Senado Federal e 1º, §§ 1º e 2º, do Decreto 2.346/97. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF. Confiram-se, a propósito, os seguintes precedentes: AgRg no Ag 1.203.675/PE, Segunda Turma, Rel. Ministro Humberto Martins, DJe de 10/3/2010; e AgRg no REsp 1.040.345/RS, Primeira Turma, Rel. Ministro Luiz Fux, DJe 9/2/2010.
+Sem razões para reconsiderar o decisum Presidencial. Submeto o Agravo Interno à apreciação do colegiado.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto
