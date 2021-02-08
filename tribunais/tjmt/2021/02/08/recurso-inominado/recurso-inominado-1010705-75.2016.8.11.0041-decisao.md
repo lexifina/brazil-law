@@ -1,0 +1,67 @@
+Recurso Inominado:
+1010705-75.2016.8.11.0041
+Origem:
+4a VARA ESP. DA FAZENDA PÚBLICA DE CUIABÁ
+Recorrente:
+ESTADO DE MATO GROSSO
+Recorrido:
+EVANDI ALVES MENDES e OUTROS
+Juiz Relator:
+JORGE ALEXANDRE MARTINS FERREIRA
+EMENTA
+AÇÃO DE COBRANÇA DE DIFERENÇA SALARIAL DECORRENTE DA CONVERSÃO DA MOEDA EM URV – AUSÊNCIA DE DIFERENÇAS SALARIAS – RECOMPOSIÇÃO ACIMA DO ÍNDICE EM 1994 – AUSÊNCIA DO DIREITO ALEGADO – APLICAÇÃO DA SÚMULA 10 DA TURMA RECURSAL.
+A súmula 10 da Turma Recursal Única do Estado de Mato Grosso prevê que “Os servidores públicos do Poder Executivo estadual não têm direito à pretensão da diferença ou implantação de valores da conversão de Cruzeiro Real para Unidade Real de Valor (URV), ante a recomposição realizada pela Lei 6.528 de 15/09/1994”.
+RELATÓRIO
+O presente feito versa sobre cobrança de diferença salarial decorrente da perda ocorrida quando da conversão do Cruzeiro Real para UVR.
+DECISÃO MONOCRÁTICA
+É sabido que no ano de 1994, fora editado o Decreto do GOVERNADOR DO ESTADO DE MATO GROSSO 4400/94, de 14/04/1994, que fez a conversão dos salários para a URV, e logo após entrou em vigor a Lei Federal 8880/94, que instituiu a “MOEDA REAL”, de onde, em seu artigo 3o, § 1o impôs que a partir de julho de 1994 iria ser emitida e convertida a moeda para “REAL”, bem como, ainda na data de 15/09/1994 fora editada a Lei Estadual 6.528/1994, que fez a recomposição salarial dos servidores em geral, em diversas faixas e alíquotas, com o objetivo de também recompor o salário inclusive das perdas da URV, segundo a mensagem 48/94 do Governador do Estado, que transcrevo abaixo:
+“OFÍCIO/DAD/GG/1334/94. Cuiabá, 02 de setembro de 1994.
+Senhor Presidente,
+Para apreciação dessa Augusta Assembléia Legislativa, tenho a honra de encaminhar a Vossa Excelência a MENSAGEM No 48 /94, acompanhada do respectivo Projeto de Lei que "Reajusta as tabelas vencimentais dos servidores públicos civis e militares do Poder Executivo e dá outras providências".
+Ao ensejo, reitero a Vossa Excelência e dignos pares os protestos de elevado apreço e distinta consideração.
+JAYME VERÍSSIMO DE CAMPOS
+Governador do Estado
+Excelentíssimo Senhor
+Deputado HUMBERTO BOSAIPO
+Digníssimo Presidente da Assembléia Legislativa
+Palácio Filinto Muller
+Nesta.
+MENSAGEM No 48/94. Cuiabá, 02 de setembro de 1994.
+Excelentíssimo Senhor Presidente,
+Excelentíssimos Senhores Deputados:
+Nos termos do disposto nos artigos 39 e 66, inciso II, da Constituição Estadual, tenho a honra de submeter à elevada apreciação dessa Augusta Assembléia Legislativa, o anexo Projeto de Lei que "Reajusta os vencimentos dos servidores públicos civis e militares do Poder Executivo e dá outras providências".
+Imbuído no propósito de sempre buscar ofertar acréscimos as Tabelas Salariais de nossos abnegados servidores públicos, na oportunidade e hora em que vislumbro compatibilidade de caixa com o estudo do impacto que tal acréscimo ocasiona, no Tesouro Estadual, sem descuidar dos serviços essenciais que a administração pública tem sob sua responsabilidade, encaminho-lhes o anexo Projeto de Lei que tem esse objetivo.
+Busco aí atender a todos com especial destaque aos nossos educadores (30%), bem como buscando corrigir prejuízos sofridos na conversão da URV, como foi o caso específico dos Auditores do Estado e Médicos-Legista.
+Decidi-me pela aplicação de um realinhamento linear médio de percentual condizente com a capacidade ora vislumbrada, sem a adoção do parcelamento para não impor mais sacrifícios aos nossos servidores, mantendo-se assim a despesa de custeio de pessoal dentro do limite constitucional (art. 38, ADCT da Constituição Federal), razão pela qual entendo merecedor o anexo Projeto de Lei de aprovação por essa Casa de Leis.
+Encareço, outrossim, sua tramitação pelo regime de urgência estatuído no artigo 41, da Constituição Estadual, oportunidade que uso do ensejo para renovar a Vossa Excelência, Senhor Presidente, e aos seus dignos pares, as expressões do meu melhor apreço e profunda consideração.
+Atenciosamente,
+JAYME VERÍSSIMO DE CAMPOS
+Governador do Estado”
+Registra-se ainda que, posteriormente, no mês de novembro de 1994, ocorreu mais uma reposição salarial, no importe de 37,75%, nos salários, nos moldes descritos na própria Lei 6528/94, em seu artigo 10, senão vejamos:
+“Art. 10 – O Governo do Estado de Mato Grosso, concederá um novo reajuste salarial, a todos os servidores públicos do Estado, a partir do mês de novembro de 1994.”
+Isto é, já tinha ocorrido um reajuste salarial, com o objetivo de recomposição e ainda de recomposição pelas perdas da URV em setembro de 1994, e em novembro de 1994, sucedeu novo reajuste concedido a todos os servidores do Estado e Mato Grosso, pela Lei no. 6583 de 13/12/1994.
+Desta forma, de acordo com exposto, infere-se que o pleito é totalmente improcedente, bem como ressalto que em alguns casos semelhantes, na fase de liquidação não houveram valores a serem liquidados, mormente quando é nítido que inexiste qualquer recomposição a ser realizada.
+Somado a isso, imperioso destacar que foi discutida e aprovada pela Turma Recursal Única, em reunião deliberativa ocorrida no dia 11 de Setembro de 2019 a Súmula 10, a qual dispõe que:
+Súmula 10: “Os servidores públicos do Poder Executivo estadual não têm direito à pretensão da diferença ou implantação de valores da conversão de Cruzeiro Real para Unidade Real de Valor (URV), ante a recomposição realizada pela Lei 6.528 de 15/09/1994”.
+Deste modo, esta Turma Recursal vem reiteradamente decidindo não ser devida qualquer reposição salarial, nos termos da referida Súmula.
+Ademais, nesta Turma Recursal, os seguintes recursos foram julgados neste sentido: 1000485-17.2017.8.11.0030, 0001526-21.2013.8.11.0048, 0000079-15.2014.8.11.00311, 0000046-81.2016.8.11.0022, 0000046-81.2016.8.11.0022 e 1020817-69.2017.8.11.0041, entre outros tantos.
+DA POSSIBILIDADE DE JULGAMENTO MONOCRÁTICO
+O relator pode monocraticamente dar provimento ao recurso que esteja em desacordo com a jurisprudência dominante do respectivo Tribunal, é o que dispõe o art. 932, inciso V, Letra A, do Código de Processo Civil/15, podendo ser aplicada multa entre um a cinco por cento do valor atualizado da causa, caso seja interposição de agravo inadmissível ou infundado (§4o do art. 1.021 – NCPC), in verbis:
+“Art. 932. Incumbe ao relator:
+[...]
+V - depois de facultada a apresentação de contrarrazões, dar provimento ao recurso se a decisão recorrida for contrária a:
+a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal;
+[...]
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+[...]
+§ 4o Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa.
+[...]
+Em face à norma supra o FONAJE - Fórum Nacional dos Juizados Especiais editou o Enunciado no 103, que dispõe: “O relator, nas Turmas Recursais Cíveis, em decisão monocrática, poderá dar provimento a recurso se a decisão estiver em manifesto confronto com Súmula do Tribunal Superior ou Jurisprudência dominante do próprio juizado, cabendo recurso interno para a Turma Recursal, no prazo de 5 dias (alterado no XXXVI Encontro – Belém/PA).
+Em consonância com o texto legal e ao referido Enunciado, esta Turma Recursal editou a Súmula no 02, com a seguinte redação: “SÚMULA 02: O Relator, em decisão monocrática, poderá dar provimento a recurso se a decisão recorrida estiver dentro das hipóteses do artigo 932, V, "a", "b" e "c" do Novo CPC, cabendo recurso de agravo interno, no prazo de 15 (quinze) dias para a decisão colegiada da Turma Recursal.”.
+CONCLUSÃO
+Ante o exposto, conheço o recurso inominado, e, em face ao disposto no art. 932, V, do Código de Processo Civil e a Súmula no 02 desta Turma Recursal, monocraticamente, DOU-LHE PROVIMENTO para reformar a sentença atacada, JULGANDO IMPROCEDENTE O PEDIDO INICIAL.
+No mais, determino que a Secretaria da TRU proceda as eventuais anotações e cadastramentos necessários em 2o GRAU, bem como, que seja encaminhado ao Juizado Especial da Comarca de Origem, com competência para causas da Fazenda Pública, providenciando ainda as baixas pertinentes na Vara de Origem da Justiça Comum, visto que não terá mais competência de analisar o presente feito quando do retorno.
+Sem custas e afasto o ônus de honorários advocatícios de sucumbência.
+Intimem-se.
+JORGE ALEXANDRE MARTINS FERREIRA
+Juiz de Direito Relator
