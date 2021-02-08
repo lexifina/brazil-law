@@ -1,0 +1,28 @@
+DECISÃO
+THIAGO DE ASSIS SILVA e THIAGO RODRIGUES DA SILVA alegam ser vítimas de coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo que indeferiu a liminar pleiteia nos autos do HC n.2014429-06.2021.8.26.0000.
+Consta dos autos que os pacientes foram condenados, cada um, à pena de 8 anos e 2 meses de reclusão, em regime inicial fechado, mais multa,pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, seja concedido aos réus o direito de recorrer em liberdade, sob o argumento de que "o juiz de piso, ao negar o apelo em liberdade, limitou-se a se referir na Gravidade abstrata de delito e o clamor público, elementos insuficientes para justificar a medida extrema da prisão" (fl. 6).
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, CF), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar." Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+AGRAVO REGIMENTAL EM HABEAS CORPUS.IMPETRAÇÃO VOLTADA CONTRA O INDEFERIMENTO MONOCRÁTICO DE PEDIDO DE MEDIDA LIMINAR.INCIDÊNCIA DA SÚMULA 691/STF. IMPOSSIBILIDADE DE SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+1. Não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em Habeas Corpus requerido a tribunal superior, sob pena de indevida supressão de instância (Súmula 691 do STF).
+2. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal.
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 179.896, Rel. Ministro Alexandre de Moraes, 1ª T., julgado em 27/3/2020, DJe 1º/4/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS.CONSTITUCIONAL. INDEFERIMENTO DE MEDIDA LIMINAR NO SUPERIOR TRIBUNAL DE JUSTIÇA:
+SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL.INEXISTÊNCIA DE TERATOLOGIA OU FLAGRANTE ILEGALIDADE NA ESPÉCIE. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(AgRg no HC n. 182.390, Rel. Ministra Cármen Lúcia, 2ª T., julgado em 20/4/2020, DJe 23/4/2020).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INTEMPESTIVIDADE. IMPOSSIBILIDADE DE DEVOLUÇÃO DO PRAZO RECURSAL. APLICAÇÃO DA SÚMULA 691/STF. NÃO COMPROVAÇÃO DE ILEGALIDADE OU TERATOLOGIA ALEGADAS. AGRAVO DESPROVIDO.
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. No caso, não há falar em flagrante ilegalidade capaz de superar o óbice da Súmula 691/STF, porquanto o agravo em recurso especial mostrou-se indubitavelmente intempestivo, o que sequer é questionado pelo agravante, logo, não se verifica direito inconteste de devolução do prazo recursal.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 561.091/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., julgado em 13/4/2020, DJe 16/4/2020)
+No caso, o Desembargador relator, ao indeferir a liminar do habeas corpus lá impetrado, salientou que "os pacientes, juntamente com o corréu César Augusto Barbosa, traziam consigo, para fins de tráfico, 715 tabletes de maconha (353,02 kg), sem autorização e em desacordo com determinação legal ou regulamentar" (fl. 13).
+Ressaltou, ainda, que "oMM. Juiz apontou, na sentença condenatória, que deveria ser mantida a prisão preventiva anteriormente decretada (fls. 15/19), em razão da natureza do delito cometido (fls. 37), que envolve o transporte de uma quantidade exorbitante de drogas" (fl. 14).
+Pontuou, por fim, que "os pacientes são reincidentes, ostentando condenação por furto simples (Thiago Rodrigues) e associação para o tráfico (Thiago Assis)" (fl. 14).
+Diante de tais considerações, não identifico flagrante ilegalidade capaz de excepcionar o enunciado na Súmula n. 691 do STF, em razão da existência de elementos específicos dos autos que evidenciam, ao menos à primeira vista, a gravidade concreta do delito cometido e a real possibilidade de que, soltos, possam os réus voltar a delinquir, a ensejar, por conseguinte, a necessidade de manutenção da custódia preventiva para a garantia da ordem pública.
+Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
