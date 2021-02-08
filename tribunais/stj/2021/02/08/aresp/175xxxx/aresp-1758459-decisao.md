@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA PROFERIDA EM AÇÃO COLETIVA. CÉDULAS DE CRÉDITO RURAL. LITISCONSÓRCIO PASSIVO.
+LIQUIDAÇÃO PRÉVIA. DESNECESSIDADE. JUROS DE MORA. TERMO INICIAL. 1. Pode a parte exequente propor a execução contra um ou mais réus, tendo optado em propor apenas quanto à instituição financeira, não há falar em formação de litisconsórcio necessário. Deste modo, não há qualquer óbice ao prosseguimento da execução apenas contra Banco do Brasil S/A. 2. Não há a necessidade de procedimento prévio de liquidação porquanto o valor correto do processo executivo pode ser alcançado por simples cálculos aritméticos. 3. Os juros de mora devem incidir desde a citação do réu no processo de conhecimento, ainda que se trate de execução individual de sentença proferida em ação coletiva.
+Os embargos de declaração opostos a esse acórdão foram acolhidos para efeito de prequestionamento.
+Em seu recurso especial, a parte ora agravante alega que o acórdão recorrido contrariou os artigos 130, 131, 132, 509, 1.022 e 1.025 do Código de Processo Civil (CPC) de 2015 e o artigo 475-B do CPC de 1973.
+Aponta divergência jurisprudencial.
+Afirma a necessidade de instauração de fase prévia de liquidação do título exequendo.
+Sustenta ser devido o chamamento dos demais devedores - Banco Central do Brasil e União - à presente execução individual, tendo em vista a condenação solidária estabelecida no título exequendo.
+Primeiramente, registro que, na hipótese de devedores solidários - como sucede no caso vertente -, não se configura o litisconsórcio passivo necessário, podendo a parte credora exigir o pagamento (do débito) de qualquer dos devedores. Confiram-se:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. FORNECIMENTO DE MEDICAMENTOS NÃO PADRONIZADO. ENTENDIMENTO DO ACÓRDÃO RECORRIDO QUE ESTÁ EM HARMONIA COM O QUE RESTOU DECIDIDO NO RECURSO REPETITIVO: RESP. 1.657.156/RJ. TRATAMENTO MÉDICO. DEVER DO ESTADO. DIREITO FUNDAMENTAL À VIDA E À SAÚDE. COMPROVAÇÃO DA NECESSIDADE DE OBTENÇÃO DO FÁRMACO PARA O SEU TRATAMENTO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS DE MODO QUE QUALQUER DELES PODERÁ SER DEMANDADO, EM CONJUNTO OU SEPARADAMENTE. AGRAVO INTERNO DO ESTADO DE RONDÔNIA A QUE SE NEGA PROVIMENTO.
+1. Não se justifica o sobrestamento do feito, quando o repetitivo ensejador da paralisação já foi apreciado pelo Colegiado competente, como é o caso dos autos.
+2. Existência de comprovação da necessidade do fármaco para o tratamento de saúde da parte autora.
+3. Responsabilidade solidária dos Entes Políticos o que induz a possibilidade de os Entes Federados poderem ser demandados em conjunto ou separadamente, a critério do beneficiário.
+4. Agravo Interno do ESTADO DE RONDÔNIA a que se nega provimento.
+(AgInt no RMS 48.018/RO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/04/2019, DJe 09/04/2019)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MEDICAMENTOS. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. POSSIBILIDADE DE LITIGAR CONTRA QUALQUER UM DOS OBRIGADOS. FACULDADE DO CREDOR. CHAMAMENTO AO PROCESSO. INCABÍVEL. ENTREGA DE COISA CERTA. DEMANDA CONTRA O ESTADO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA 83/STJ. INCIDÊNCIA. ALEGAÇÃO DE IMPOSSIBILIDADE DE FORNECIMENTO DE MEDICAMENTO FORA DA PORTARIA DO MINISTÉRIO DA SAÚDE. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE. TESE NÃO VENTILADA NO RESP. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça, segundo o qual, o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, Estados, Distrito Federal e Municípios, sendo qualquer deles, em conjunto ou isoladamente, parte legítima para figurar no polo passivo de demanda que objetive a garantia de acesso a medicamentos adequado para tratamento de saúde.
+III - Não se trata de litisconsórcio passivo necessário, podendo a parte intentar a demanda contra qualquer um dos entes federativos (solidariamente passivos) para responder pela totalidade da dívida; a faculdade do autor-credor de litigar com qualquer um dos co-obrigados é decorrência legítima da solidariedade passiva.
+IV - Incabível o instituto de intervenção de terceiros denominado chamamento ao processo, previsto no art. 77, III do CPC, (típico de obrigações solidárias de pagar quantia), por se tratar de excepcional formação de litisconsórcio facultativo para entrega de coisa certa (fornecimento de medicamentos), cuja satisfação não comporta divisão.
+V - A ação que visa o fornecimento de medicamento proposta apenas contra um dos entes públicos solidários, no caso o Estado do Piauí, deve ser processada perante o Juízo Estadual, uma vez que ausente as hipóteses do art. 109, I, da Constituição da República diante da ausência da inclusão da União no polo passivo da demanda.
+VI - O recurso especial, interposto pela alínea a e/ou pela alínea c, do inciso III, do art. 105, da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência dessa Corte, a teor da Súmula 83/STJ.
+VII - A tese relativa à impossibilidade de fornecimento de medicamento fora da Portaria do ministério da saúde foi apresentada apenas quando da interposição do agravo interno, o que configura inadmissível inovação recursal.
+VIII - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Agravo Interno improvido.
+(AgInt no REsp 1617502/PI, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. LEGITIMIDADE PASSIVA AD CAUSAM DO ESTADO DO PIAUÍ. IMPOSSIBILIDADE DE AFASTAR A COMPETÊNCIA DA JUSTIÇA ESTADUAL. INCABÍVEL, NO CASO, O INSTITUTO DE INTERVENÇÃO DE TERCEIROS DENOMINADO CHAMAMENTO AO PROCESSO. AGRAVO DO ESTADO DO PIAUÍ DESPROVIDO.
+1. Cinge-se a controvérsia à legitimidade ad causam para figurar no polo passivo de demanda que objetiva a garantia do acesso a medicamentos para tratamento de problema de saúde.
+2. Conforme dispõem os arts. 2o. e 4o. da Lei 8.080/90, a saúde pública consubstancia direito fundamental do homem e dever do Poder Público, expressão que abarca a União, os Estados-membros, o Distrito Federal e os Municípios, todos em conjunto.
+3. De acordo com a jurisprudência firmada por esta Corte Superior, o funcionamento do Sistema Único de Saúde é de responsabilidade solidária da União, dos Estados e dos Municípios, de modo que qualquer um desses Entes tem legitimidade ad causam para figurar no polo passivo de demanda que objetiva a garantia do acesso a medicamentos para tratamento de problema de saúde.
+4. Se tanto a União, como os Estados e os Municípios podem, isoladamente, figurar no polo passivo do litígio, não dispondo, inclusive, de direito de regresso contra os demais, bem como da faculdade de se utilizar a figura do chamamento ao processo, caracterizada está a situação de que qualquer um deles pode ser o responsável pelo cumprimento da obrigação, cabendo à parte escolher contra quem deseja litigar.
+5. Sendo solidária a obrigação, cabe ao ente demandado judicialmente prover o fornecimento dos medicamentos, sob pena de ofensa ao direito fundamental à saúde.
+6. Nesse contexto, verifica-se não se tratar de litisconsórcio passivo necessário, podendo a parte intentar a demanda contra qualquer um dos entes federativos (solidariamente passivos) para responder pela totalidade da dívida; a faculdade do autor-credor de litigar com qualquer um dos co-obrigados é decorrência legítima da solidariedade passiva.
+7. Incabível, nessa hipótese, portanto, o instituto de intervenção de terceiros denominado chamamento ao processo, previsto no art. 77, III do CPC, (típico de obrigações solidárias de pagar quantia), por se tratar de excepcional formação de litisconsórcio facultativo para entrega de coisa certa (fornecimento de medicamentos), cuja satisfação não comporta divisão.
+8. Agravo Regimental no Recurso Especial interposto pelo ESTADO DO PIAUÍ desprovido.
+(AgRg no REsp 1584691/PI, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/10/2016, DJe 11/11/2016)
+Incide, no ponto, a Súmula 83 do Superior Tribunal de Justiça (STJ).
+Avançando, verifico que o Tribunal de origem entendeu desnecessária a liquidação. Nesse aspecto, o acórdão recorrido diverge da jurisprudência do STJ, para quem o cumprimento (execução) de título oriundo de ação civil pública demanda fase prévia de liquidação com vistas à apuração não apenas do valor devido como também da titularidade do crédito pleiteado. Assim:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC)" (REsp 1.247.150/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe de 12/12/2011).
+2. Se há a necessidade de apurar a titularidade do crédito e o montante devido a título de condenação dos expurgos inflacionários, revela-se notório o devido respeito ao procedimento de prévia liquidação da sentença coletiva, nos temos do art. 475-A do CPC de 1973. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp 1580295/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 5/4/2016, DJe 14/4/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NECESSIDADE DE LIQUIDAÇÃO DE CONDENAÇÃO GENÉRICA CONTIDA EM SENTENÇA COLETIVA. PRECEDENTES. CÁLCULOS COMPLEXOS. INVIABILIDADE DE REEXAME EM RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Na linha dos precedentes desta Corte, o cumprimento individual de sentença coletiva, no qual pleiteada a satisfação de interesses individuais homogêneos, demanda, necessariamente, fase prévia de liquidação com vistas à apuração não apenas do quantum debeatur (valor devido), como também da titularidade do crédito pleiteado (cui debeatur).
+(..)
+(AgInt no REsp 1606950/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 18/10/2016, DJe 28/10/2016)
+DIREITO PROCESSUAL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA (ART. 543-C, CPC). DIREITOS METAINDIVIDUAIS. AÇÃO CIVIL PÚBLICA. APADECO X BANESTADO. EXPURGOS INFLACIONÁRIOS. ALCANCE SUBJETIVO DA SENTENÇA COLETIVA. LIMITAÇÃO AOS ASSOCIADOS. INVIABILIDADE. OFENSA À COISA JULGADA. MULTA PREVISTA NO ART. 475-J, CPC. NÃO INCIDÊNCIA.
+1. Para efeitos do art. 543-C do CPC:
+(..)
+1.2. A sentença genérica prolatada no âmbito da ação civil coletiva, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC). A condenação, pois, não se reveste de liquidez necessária ao cumprimento espontâneo do comando sentencial, não sendo aplicável a reprimenda prevista no art. 475-J do CPC.
+2. Recurso especial parcialmente provido.
+(REsp 1247150/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe 12/12/2011)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. LIQUIDAÇÃO PRÉVIA. NECESSIDADE. DIVERGÊNCIA JURISPRUDÊNCIA. AUSÊNCIA DE SIMILITUDE. SÚMULAS Nº 7/STJ E 284/STF.
+1. É necessária a liquidação sentença coletiva proferida em ação civil pública pelo particular que pretende executá-la, oportunidade em que se provará tanto a sua qualidade de credor quanto o valor do seu crédito.
+(..)
+3. Agravo regimental não provido.
+(AgRg no AREsp 370.244/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/10/2015, DJe 23/10/2015)
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC)" (REsp 1247150/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/10/2011, DJe 12/12/2011).
+2. Agravo regimental não provido.
+(AgRg no AREsp 510.687/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/04/2015, DJe 05/05/2015)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IDEC. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SENTENÇA. PRÉVIA LIQUIDAÇÃO. NECESSIDADE. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento desta Corte, é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1593751/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2016, DJe 16/08/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. REGULARIZAÇÃO DO PROCEDIMENTO. POSSIBILIDADE. AG RAVO DESPROVIDO.
+1. Há necessidade de prévia liquidação de sentença proferida na ação coletiva para apuração do an debeatur e do quantum debeatur, sob pena, inclusive, de indeferimento liminar do pedido de execução do título executivo judicial. Entendimento firmado no REsp n. 1.247.150/PR (art. 534-C do CPC/1973). É possível que instâncias ordinárias regularizem o vício formal, notadamente quando ausente qualquer prejuízo para a instituição financeira devedora.
+2. Agravo interno desprovido.
+(AgInt no AREsp 991.977/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2016, DJe 03/02/2017)
+Merece reforma, portanto, o acórdão recorrido.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para determinar a liquidação do título exequendo.
+Intimem-se.
