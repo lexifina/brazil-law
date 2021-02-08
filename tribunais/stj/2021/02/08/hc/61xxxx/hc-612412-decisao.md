@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Wendell Richard Rodrigues de Oliveira, no qual se aponta constrangimento ilegal decorrente do julgamento proferido pelo Tribunal de Justiça de São Paulo no Agravo de Execução Penal n. 0006214-31.2020.8.26.0996.
+A Terceira Câmara de Direito Criminal manteve a decisão do Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 5ª RAJ, na comarca de Presidente Prudente/SP, que reconhecera ter o paciente praticado falta disciplinar de natureza grave (art. 50, VI, c/c o art. 39, II e V, da LEP) e determinara, como consequência, a perda de 1/3 dos dias remidos, além do reinício da contagem do prazo atinente à progressão de regime prisional (PEC n. 0008679-36.2018.8.26.0041).
+Aqui a impetrante alega queé impossível saber quando, como, de que forma e por que o sentenciado teria praticado a infração que lhe fora imputada. Ora, a única prova colacionada foram os depoimentos genéricos dos agentes de disciplina e segurança, os quais nada esclarecem sobre a conduta concreta do sindicado. Ante o exposto, é de rigor a absolvição do apenado, por se tratar de sanção aplicada em contrariedade ao disposto no art. 45, § 3º da Lei n. 7.210/1984 (fl. 15).
+Aduz, ainda, que não houve fundamentação válida para aplicação do percentual máximo de perda dos dias remidos (fl. 18).
+Requer, assim, a concessão da ordempara anular o acórdão atacado e conceder ao paciente o afastamento da falta grave aplicada ou, mesmo, determinar a sua desclassificação para outra de natureza média, ou, subsidiariamente, a redução dos dias remidos ao mínimo legal (fl. 20).
+Liminar indeferida (fls. 176/177).
+Informações prestadas (fls. 184/199 e 204/216), o Ministério Público Federal ofereceu parecer pela denegação da ordem (fls. 218/222).
+É o relatório.
+Com efeito, as instâncias ordinárias, soberanas na análise do contexto fático-probatório, concluíram que o paciente praticou a falta grave prevista no art. 50, VI, da Lei de Execução Penal.
+A esse respeito asseverou o Tribunal a quo (fls. 170/171 - grifo nosso):
+ ..
+Em seu termo de declarações (fls. 108/109), o agravante Wendell admitiu os fatos que lhe foram imputados, ao confirmar que "fez, ao todo, 11 (onze) tatuagens já estando na Unidade e que sabia da proibição, pois foi ordenado a não fazer tatuagens durante sua permanência neste Centro de Detenção".
+No mesmo sentido os depoimentos dos demais reeducandos ouvidos nos autos (fls. 100/101, 102/103, 104/105, 106/107,110/111), os quais também confessaram terem realizado tatuagens no interior do estabelecimento carcerário, seja neles próprios ou em outros detentos.
+Por sua vez, os agentes de segurança penitenciária Adriano Carvalho Rocha e Eriqui Gilmar Silva Souza (fls.96/97 e 98/99) apresentaram relatos uníssonos, dando conta de que, em revista de rotina no pavilhão habitacional IV, perceberam que diversos reeducandos apresentavam, nos respectivos corpos, tatuagens cujos aspectos indicavam terem sido feitas recentemente. Frente a isto, identificaram os seis detentos ouvidos nos autos e tiraram fotografias dos desenhos corporais (fls. 50/69), as quais, comparadas com aquelas que haviam sido tiradas quando da entrada de cada um deles na unidade prisional, revelaram que as tatuagens não existiam em tal ocasião.Questionados, os reclusos admitiram que confeccionaram os desenhos no interior da penitenciária e que estavam cientes do fato de que tal conduta, segundo as diretrizes administrativas do local, era proibida.
+Verifica-se do conjunto probatório, portanto, que as seguras e uníssonas declarações dos agentes de segurança penitenciária, em consonância com a confissão do agravante, emergem mais do que suficientes a demonstrar a falta grave que lhe foi atribuída.
+Com efeito, a conduta do agravante, ainda que em conjunto com outros cinco reeducandos, revelou-se em desacordo comas normas internas do estabelecimento carcerário, as quais vedam a confecção de tatuagens no interior da unidade prisional. Portanto, tal comportamento configura a falta de natureza grave de desobediência, com previsão legal no art. 50, inciso VI, da Lei de Execução Penal.
+ ..
+Pois bem. Dosexcertostranscritosverifica-se que nãohouve sançãocoletiva, visto quea conduta do paciente foi individualizada.
+No mais, a revisão do julgado exigiria o revolvimento do material cognitivo produzido nos autos, o que é inviável na estreita via do habeas corpus.
+Nesse sentido, a propósito, a Sexta Turma decidiu que o reexame das questões consubstanciadas na alegação de não configuração da falta grave, ou na configuração de falta média ou leve, bem como na atipicidade material dos fatos, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta via (AgRg no HC n. 465.680/SP, Ministra Laurita Vaz, DJe 23/4/2019).
+Ademais, a fração daperda dos dias remidos foi devidamente fundamentadanagravidade da conduta do reeducando e nas circunstâncias fáticas, não havendoqualquer ilegalidade a ser sanada por esta Corte.
+Nesse sentido:AgRg no HC 557.539/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/6/2020; e AgRg no HC n. 510.452/SP, Ministro JorgeMussi, Quinta Turma, DJe 8/11/2019.
+Ante o exposto, conheço parcialmente do habeas corpus, e nessa parte, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. CONDUTA INDIVIDUALIZADA. FRAÇÃO DE 1/3 FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ parcialmente conhecido, nessa parte, ordem denegada.
