@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE JUNDIAÍ contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, o qual não admitiu recurso especial, fundadona alínea "a" do permissivo constitucional, quedesafia acórdão assim ementado (e-STJ fls. 123/124):
+MEDICAMENTOS. FORNECIMENTO GRATUITO PELO PODER PÚBLICO.
+- Adriano DE CUPIS, no merecidamente clássico I Diritti della Personalitàa, lecionou que a tutela complementar da vida, da integridade física e da saúde reclama a garantia dos meios econômicos e financeiros idôneos a prover os cuidados necessários à preservação ou reintegração desses bens da personalidade, e observou que o Estado se obriga a assegurar o fornecimento desses meios para tornar possível a gratuidade da cura dos necessitados.
+- O art. 196 da Constituição Federal estabelece como dever do Estado a prestação de assistência à saúde e garante o acesso universal e igualitário do cidadão aos serviços e ações para sua promoção, proteção e recuperação. O direito à saúde, como está assegurado na Carta, não deve sofrer embaraços impostos por autoridades administrativas, no sentido de reduzi-lo ou de dificultar o acesso a ele (RE 226.835).
+Não provimento do agravo regimental.
+Embargos de declaração rejeitados (e-STJ fls. 147/160).
+No recurso especial obstaculizado, a parte apontou violação dos arts. 8º e 9º da Lei n. 8.080/1990,7º da Portaria n. 184/1999 e 2º da Portaria n. 3.916/1998 do Ministério da Saúde, sustentando que,em face da regionalização e hierarquização do atendimento realizado peloSistema Único de Saúde - SUS, não compete ao Município, mas ao Estado, o fornecimento de fármaco que não consta em listagem oficial.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem (e-STJ fls. 187/188), tendo sido os fundamentos da decisão atacados no presente recurso (e-STJ fls. 191/195).
+Parecer ministerial às e-STJ fls. 213/217.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 - STJ).
+Dito isso, registro que, "de acordo com o art. 105, III, alínea "a", da Constituição Federal, não se pode analisar eventual ofensa a regulamentos, portarias ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal"" (AgRg no AREsp 472.577/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/05/2014, DJe 20/06/2014).
+Quanto ao mais, da leitura do aresto combatido, observa-se que o Tribunal de origem reconheceu alegitimidade do ora agravantequanto ao fornecimento do fármaco pleiteado, amparando-se emfundamento eminentemente constitucional (arts. 6º, 196 e 198 da Constituição da República), o que inviabiliza o seu conhecimentopor esta Corte de Justiça sob pena de usurpação da competência do Supremo Tribunal Federal, estabelecida no art. 102 da Constituição da República.
+Nesse sentido:AgInt no AREsp 1508315/MG, RelatorMinistro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 28/08/2020; e AgInt no AREsp 1102555/SC, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 08/10/2020.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
