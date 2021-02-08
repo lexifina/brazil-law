@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por FURTADO & PRATES ADVOGADOS ASSOCIADOS ME com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. DECISÃO QUE ACOLHEU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE, EXTINGUINDO A FASE DE CUMPRIMENTO DE SENTENÇA, E CONDENOU A EXCEPTA (PARTE AUTORA) AO PAGAMENTO DE CUSTAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. INSURGÊNCIA DOS PATRONOS DA PARTE EXCIPIENTE. HONORÁRIOS ADVOCATÍCIOS QUE DEVEM SER ARBITRADOS PELO CRITÉRIO DA EQUIDADE. PRECEDENTES.EXTINÇÃO DA FASE DE CUMPRIMENTO DE SENTENÇA QUE SE DEU POR ASPECTO MERAMENTE FORMAL - NULIDADE DE CITAÇÃO -. FIXAÇÃO EM PERCENTUAL, NOS MOLDES DO ART. 85, § 2º DO CPC, QUE PODE GERAR VALOR DESPROPORCIONAL, COM VIOLAÇÃO AO PRINCÍPIO QUE VEDA O ENRIQUECIMENTO SEM CAUSA. VALOR ARBITRADO QUE SE MOSTRA COMPATÍVEL COM O GRAU DE ZELO PROFISSIONAL, A NATUREZA E O TEMPO EXIGIDO PARA OS ATOS PROCESSUAIS PRATICADOS. RECURSO CONHECIDO E DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, sustenta a recorrente a irrisoriedade do valor de mil reais arbitrados a título de honorários advocatícios sucumbenciais, porquantodeveriam ter sido fixados consoante § 2º do art. 85 do CPC/2015, pois não háa aplicabilidade das hipóteses elencadas no § 8º do aludido diploma.
+As contrarrazões ao recurso especial foram apresentadas às fls. 843/854.
+É o relatório.Passo a decidir.
+A questão de direito do recurso especial foi afetada à Segunda Seção como representativa de controvérsia a ser julgada sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do CPC/2015, tendo as decisões de afetação dos REsps 1.812.301/SC e 1.822.171/SC delimitado o Tema 1.046/STJ dos Recursos Especiais Repetitivos, nos termos da seguinte ementa:
+PROPOSTA DE AFETAÇÃO DE RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DIREITO PROCESSUAL CIVIL.JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA (CPC, ART. 85, §§ 2º E 8º). NECESSIDADE DE FIXAÇÃO DE TESE CONCENTRADA E VINCULANTE.
+1. Delimitação da controvérsia:
+1.1. Para os efeitos dos arts. 927 e 1.036 do CPC, propõe-se a afetação do tema relativo à:
+1.2. "A possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015."
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 DO CPC/2015.
+(ProAfR no REsp 1812301/SC, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 17/03/2020, DJe 26/03/2020)
+Nesse contexto, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Diante do exposto, determina-sea devolução dos autos ao Tribunal de origem, com a devida baixa, para que, o recurso especial permaneça suspenso até a publicação do acórdão paradigma, nos termos do art. 1.037, II, do Código de Processo Civil de 2015, devendo ser analisado, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se.
