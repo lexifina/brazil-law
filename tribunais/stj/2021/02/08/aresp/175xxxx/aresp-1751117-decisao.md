@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO. SENTENÇA QUE REJEITOU LIMINARMENTE OS EMBARGOS EM RAZÃO DE SUA INTEMPESTIVIDADE.
+RECURSO DOS EMBARGANTES.
+PEDIDO DE CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. SUBSISTÊNCIA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA E DEMAIS DOCUMENTOS QUE DEMONSTRAM A IMPOSSIBILIDADE DE ARCAR COM AS DESPESAS PROCESSUAIS, SEM PREJUÍZO PRÓPRIO E DE SUA FAMÍLIA. PREVALÊNCIA DA GARANTIA FUNDAMENTAL DO AMPLO ACESSO À JUSTIÇA, INTELIGÊNCIA DO ART. 5º, XXXV E LXXIV, DA CONSTITUIÇÃO FEDERAL. GRATUIDADE DA JUSTIÇA DEFERIDA. RECURSO PROVIDO NO PONTO.
+PLEITO DE RECONHECIMENTO DA TEMPESTIVIDADE DOS EMBARGOS. PRETENDIDA A ADOÇÃO, PARA FINS DE ANÁLISE DA ADMISSIBILIDADE, DA DATA DO PROTOCOLO DA AÇÃO NO SISTEMA EPROC, REALIZADO POR EQUÍVOCO. IMPOSSIBILIDADE. EMBARGOS À EXECUÇÃO QUE, APESAR DE POSSUÍREM NATUREZA JURÍDICA DE AÇÃO AUTÔNOMA, POSSUEM RELAÇÃO DE DEPENDÊNCIA COM A DEMANDA EXECUTIVA. AJUIZAMENTO DOS EMBARGOS QUE DEVE SER REALIZADO NO MESMO SISTEMA DE PROCESSAMENTOS EM QUE TRAMITA O PROCESSO PRINCIPAL. PROTOCOLO PELO SISTEMA EQUIVOCADO QUE NÃO PRODUZ EFEITOS JURÍDICO- PROCESSUAIS E NÃO TEM O CONDÃO DE INTERROMPER O PRAZO PARA DEFESA. INTELIGÊNCIA DOS ARTIGOS 2º, PARÁGRAFO ÚNICO, E 3º, § 1º DA RESOLUÇÃO CONJUNTA GP-CGJ/SC N. 05/2018. INTEMPESTIVIDADE DOS EMBARGOS RECONHECIDA. SENTENÇA DE EXTINÇÃO MANTIDA.
+HONORÁRIOS ADVOCATÍCIOS. TRIANGULARIZAÇÃO PROCESSUAL EM SEDE RECURSAL. NECESSÁRIA FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS EM FAVOR DOS PROCURADORES DA PARTE VENCEDORA. VERBA HONORÁRIA ARBITRADA EM 10% (DEZ POR CENTO) DO VALOR ATUALIZADO DOS EMBARGOS, NOS TERMOS DO ART. 85, § 2º, DO CPC. SUSPENSA A EXIGIBILIDADE POR SEREM OS EMBARGANTES BENEFICIÁRIOS DA JUSTIÇA GRATUITA.
+SENTENÇA REFORMADA EM PARTE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+"Art. 2º  ..  Parágrafo único. Compete ao peticionante ajuizar a ação no sistema correto, sob pena de cancelamento do protocolo e devolução da petição eletrônica.
+Art. 3º  ..  § 1º Os processos ativos ajuizados antes da implantação do eproc e os novos procedimentos não contemplados na hipótese do caput continuarão tramitando no SAJ até o seu encerramento, assim como os incidentes e os processos dependentes ou conexos, ressalvada a hipótese de migração." (Resolução Conjunta GP-CGJ/SC n. 05/2018).
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, apontam os agravantes existência de dissídio jurisprudencial, além de violação dos artigos 4º, 6º, 188, 277 e 1.022 do Código de Processo Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento das omissões relativas à aplicação do princípio da instrumentalidade das formas na análise do pedido de reconhecimento da tempestividade dos Embargos à Execução.
+Afirmam que a ação de oposição foi interposta tempestivamente, haja vista a obtenção de validade por ter atingindo sua finalidade.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento, senão vejamos.
+No que se refere à preliminar suscitada, não observo omissão no acórdão, senão julgamento contrário aos interesses dos agravantes, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência. Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, onde os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+No que toca à segunda preliminar, o Tribunal de origem, concluiu que, por imposição de lei estadual, a interposição por meio de protocolo equivocado não interrompea contagem do prazo para apresentação dos Embargos à Execução, como se extrai dos trechos (fls. 114-117, e-STJ):
+Desta forma, o prazo para apresentação de defesa pelos executados iniciou-se em 08/07/2019 (segunda-feira), vindo a se encerrar em 26/07/2019 (sexta-feira).
+Os presentes Embargos, contudo, foram protocolizados no sistema e-SAJ somente em 08/08/2019 (fl. 01).
+(..)
+As regras de transição entre a tramitação dos processos judiciais por meio eletrônico no âmbito do Poder Judiciário do Estado de Santa Catarina estão previstas na Resolução Conjunta GP-CGJ/SC n. 05/2018.
+A redação do artigo 3º da referida Resolução vigente na data do protocolo dos Embargos (em 08/08/2019 - fl. 01) dispunha (..)
+Em análise detida da norma de regência, verifica-se que, a despeito da fundamentação deduzida pelos embargantes, as normas internas desta Corte de Justiça especificam, de forma clara, que os Embargos opostos em face de Ações de Execução em trâmite no sistema e-SAJ devem, também, tramitar pelo e-SAJ, em razão da relação de dependência entre as lides.
+O art. 2º da norma de regência, por sua vez, estipula incumbir ao peticionante "ajuizar a ação no sistema correto, sob pena de cancelamento do protocolo e devolução da petição eletrônica".
+Significa dizer, noutros termos, que o protocolo incorreto de ação ou petição no sistema de tramitação de processos equivocado deve ser considerado inexistente, não tendo o condão de produzir efeitos jurídico-processuais de qualquer natureza, como a prevenção ou, como na hipótese sub judice, a interrupção da fluência do prazo para apresentação de Embargos à Execução.
+O equívoco na forma de protocolo da ação constitui erro inescusável, notadamente em razão da clareza na redação da norma de regência, que não abre margem a controvérsia acerca do sistema de tramitação de processos competente para receber os presentes Embargos.
+(..)
+Em virtude disso, bem demonstrada a invalidade do protocolo pelo sistema eProc e, por conseguinte, a impossibilidade de adotar-se a data do protocolo para fins de análise da admissibilidade da presente Ação, forçoso reconhecer a intempestividade destes Embargos, eis que apresentados após o prazo legal.
+Observo que não há espaço no recurso especial para se discutir a tempestividade da ação de oposição, ante o óbice da Súmula nº 280 do STF, por analogia, já que a decisão proferida pelo Tribunal de origem, aplicando a legislação estadual ao caso em apreço, entendeu intempestivos os Embargos à Execução.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO.INTEMPESTIVIDADE. PROTOCOLO POSTAL. EXPEDIENTE FORENSE. ACÓRDÃO RECORRIDO E ENTENDIMENTO DESTA CORTE. CONSONÂNCIA. SÚMULA Nº 568/STJ. LEGISLAÇÃO LOCAL. VIOLAÇÃO. SÚMULA Nº 280/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É inadmissível o inconformismo quando o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça.
+3. Tendo o tribunal estadual decidido a questão à luz da legislação local, a inversão do julgado mostra-se inviável nesta instância especial diante do óbice da Súmula nº 280/STF, aplicada por analogia.
+4. Agravo interno não provido.
+(AgInt no REsp 1717513/AL, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA,DJe 4/10/2019)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
