@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por MULTIPLAN EMPREENDIMENTOS IMOBILIÁRIOS e OUTRAS contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"LOCAÇÃO DE LOJA DE USO COMERCIAL EM SHOPPING CENTER. EMBARGOS À EXECUÇÃO. Cumulação de multas moratória e compensatória, juntamente com a obrigação principal. Fundamento único da quebra do contrato que não admite a exigência de dupla penalidade. Impossibilidade de cobrança de honorários contratuais. Entendimento consagrado pela Colenda Corte Especial do STJ no EREsp nº 1.507.864/RS. Verbas que compunham o valor exequendo que foram corretamente afastadas pela r. sentença. Recurso desprovido" (e-STJ fl. 374).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022 do Código de Processo Civil de 2015, ao fundamento de que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, e
+(ii) arts. 54 da Lei nº 8.245/1991 e 389, 395 e 404 do Código Civil, haja vista que as recorrentes podem cobrar a multa pela rescisão antecipada do contrato de locação da apelada e os honorários contratuais.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No que concerne à multa pela rescisão antecipada do contrato de locação e os honorários contratuais, o Tribunal de origem, à luz da prova dos autos, concluiu pela impossibilidade da cobrança, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..)
+No que toca à multa prevista para a hipótese de rescisão, embora as circunstâncias do caso evidenciem que a inadimplência reiterada da apelada foi a causa para a assinatura do distrato, é preciso notar que tal infração já havia motivado a exigência da multa moratória de dez por cento (10%) dos aluguéis vencidos e não pagos.
+Nessas circunstâncias, a incidência concomitante das duas multas, embasadas, unicamente, na falta de pagamento dos aluguéis, constituiria dupla punição pela mesma transgressão, devendo, pois, a multa por rescisão contratual ser afastada para evitar qualquer locuplemento indevido.
+Esclareça-se que a liberdade contratual conferida às relações entre lojistas e empreendedores de shopping center não legitima a aplicação de dupla sanção (multa moratória e multa compensatória) pelo mesmo fato gerador, sob pena de bis in idem.
+(..)
+O último vértice recursal refere-se à cobrança dos honorários advocatícios que as apelantes convencionaram com os seus patronos.
+Neste ponto, conquanto outrora este Relator admitisse a possibilidade do ressarcimento desta verba, passou a adotar a orientação da Colenda Corte Especial do STJ no EREsp nº 1.507.864/RS.
+Confira-se:
+"EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. INCLUSÃO NO VALOR DA INDENIZAÇÃO. IMPOSSIBILIDADE. AUSÊNCIA DE DANO INDENIZÁVEL. EMBARGOS DE DIVERGÊNCIA REJEITADOS. 1. "A contratação de advogados para defesa judicial de interesses da parte não enseja, por si só, dano material passível de indenização, porque inerente ao exercício regular dos direitos constitucionais de contraditório, ampla defesa e acesso à Justiça" (AgRg no AREsp 516277/SP, QUARTA TURMA, Relator Ministro MARCO BUZZI, DJe de 04/09/2014). 2. No mesmo sentido: EREsp 1155527/MS, SEGUNDA SEÇÃO, Rel. Ministro SIDNEI BENETI, DJe de 28/06/2012; AgRg no REsp 1.229.482/RJ, TERCEIRA TURMA, Rel. Ministro PAULO DE TARSO SANSEVERINO, DJe de 23/11/2012; AgRg no AREsp 430399/RS, QUARTA TURMA, Rel. Ministro RAUL ARAÚJO, DJe de 19/12/2014; AgRg no AREsp 477296/RS, QUARTA TURMA, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe de 02/02/2015; e AgRg no REsp 1481534/SP, QUARTA TURMA, Rel. Ministra MARIA ISABEL GALLOTTI, DJe de 26/08/2015. 3. A Lei n.º 8.906/94 e o Código de Ética e Disciplina da OAB, respectivamente, nos arts. 22 e 35, § 1.º, preveem as espécies de honorários de advogado: os honorários contratuais/convencionais e os sucumbenciais. 4. Cabe ao perdedor da ação arcar com os honorários de advogado fixados pelo Juízo em decorrência da sucumbência (Código de Processo Civil de 1973, art. 20, e Novo Código de Processo Civil, art. 85), e não os honorários decorrentes de contratos firmados pela parte contrária e seu procurador, em circunstâncias particulares totalmente alheias à vontade do condenado. 5. Embargos de divergência rejeitados"
+Conclui-se, pois, que não merece reparo a r. sentença, pois afastou verbas que realmente não poderiam ser exigidas da apelada" (e-STJ fls. 377/379).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor dos enunciados das Súmulas nºs 5 e 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor do excesso de execução, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
