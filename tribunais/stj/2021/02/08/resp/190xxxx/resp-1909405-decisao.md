@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO.Ação deindenização por danos morais e materiais. Desconto em conta corrente baseado em contrato impugnado pela autora. Pedido de danos morais, e danos materiais referentes à correção do valor (já devolvido) e honorários contratuais do patrono que atuou em sede de demanda administrativa. Sentença de parcial procedência, com arbitramento da indenização por danos morais no valor de R$ 6 mil. Recurso dos réus. Preliminar da ilegitimidade do banco. Não acolhida. Banco concorreu para a realização do desconto indevido, já que compensou o débito sem autorização da autora Preliminar de ausência de interesse processual. Não verificada. Devolução do valor descontado antes do ajuizamento do feito não impede a parte de buscar eventual indenização por outros direitos violados. Mérito. Danos morais afastados. Não comprovação pela autora, seja por negativação de seu nome ou violação de direito da personalidade. Danos materiais atinentes aos honorários contratuais afastados. Contrato exclusivo entre autora a seu patrono que não vincula parte diversa. Sentença alterada, mantida a devolução da correção monetária. Recurso parcialmente provido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a recorrente existência de dissídio jurisprudencial, além de violação dos artigos 355, 369, 370, 373 e 1.022 do Código de Processo Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento das omissões referentes à responsabilidade da parte adversa pelo ato ilícito passível de indenização por danos materiais e morais.
+Afirma desacerto no acórdão de origem ao contrariar prova dos autos, haja vista a afirmação da sentença que "fatos relevantes já se encontram comprovados documentalmente" (fl. 457, e-STJ).
+Sustenta fazer jus à reparação econômica por danos materiais e morais, pelo desconto indevido em sua conta corrente.
+Recurso admitido na origem, nos termos da decisão de fls. 578-580, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+No tocante à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses da recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à análise dos pedidos autorais e da atuação dos litigantes na defesa de seus direitos, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Quanto ao mérito, o Tribunal de origem, ao analisar as circunstâncias fáticas, além das provas carreadas aos autos, concluiu que a autora fazia jus, somente, à correção monetária do valor descontado indevidamente, como se extrai dos trechos (fl. 403, e-STJ):
+Quanto aos danos morais, não se verifica nestes autos a sua ocorrência, vez que não demonstrados pela autora.
+Apesar das irregulares transações bancárias feitas em nome da autora, observa-se dos autos que a parte não teve seu nome apontado em cadastros de órgãos de proteção ao crédito, tampouco demonstrou a ocorrência de qualquer violação a direito da personalidade, ou honra objetiva/subjetiva em razão dos fatos narrados.
+De forma que, na verdade, a situação vivenciada não passou de mero aborrecimento que comumente são enfrentados no cotidiano da vida moderna. Não indenizável, portanto.
+Em outras palavras, não demonstrou a autora o alegado direito violado, em desatenção ao que estabelece o art. 373, I, CPC.
+Por outro lado, tem-se que a autora somente faz jus a correção/atualização do valor descontado indevidamente, visto que não foram pagos quando da restituição realizada aos 12/05/2012.
+Acrescente-se que, a situação de fato, para gerar danos morais, teria de ter repercutido no patrimônio imaterial da autora de forma reflexa, o que não restou demonstrado, conforme delineado pelo acórdão recorrido, sendo que a falha na prestação dos serviços por parte dos réus significou, segundo o que consta dos autos, nada mais do que meros aborrecimentos e dissabores. Tem-se que as ocorrências narradas não geram, por si sós, dano à moral.
+Nesse contexto, verifica-se que rever o entendimento do acórdão recorrido ensejaria, novamente, o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+De igual teor, o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE RECONSIDEROU DELIBERAÇÃO ANTERIOR E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDANTE.
+(..)
+2. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre inexistência de ato ilícito e de dano moral indenizável, bem como acerca da não comprovação do alegado dano material. Incidência das Súmulas 5 e 7/STJ.
+(..)
+4. Agravo interno de fls. 1130-1141 e-STJ desprovido.
+(AgInt nos EDcl nos EDcl no AgInt no AREsp 1093321/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 12/11/2020)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
