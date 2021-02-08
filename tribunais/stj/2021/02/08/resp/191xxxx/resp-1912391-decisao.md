@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. SEGURO HABITACIONAL. INDENIZAÇÃO SECURITÁRIA. VÍCIOS CONSTRUTIVOS. PRELIMINARES. ILEGITIMIDADE PASSIVA E INCOMPETÊNCIA. Remessa dos autos para a Justiça Federal. Interesse da CEF que depende não apenas da natureza pública da apólice, mas também da efetiva comprovação do comprometimento dos recursos do FCVS. Fato não demonstrado. Competência da Justiça Estadual. PRESCRIÇÃO ANUAL. Impossibilidade. Danos progressivos. Impossibilidade de determinação do termo inicial para contagem do prazo prescricional. RESPONSABILIDADE. Vícios decorrentes da utilização de material de má qualidade. Cobertura de vícios intrínsecos expressamente excluída. Abusividade não configurada. Sentença reformada. Recurso da ré provido e recurso da autora desprovido.
+Nas razões de recurso especial, a parte recorrente alega violação dos artigos 1.434 e 1.460 do Código Civil de 1916; 423 e 760 do Código Civil; e 47, 48, 51 e 54 do Código de Defesa do Consumidor, além de divergência jurisprudencial.
+Não merece reforma o acórdão recorrido.
+Com efeito, observo que o conteúdo normativo dos artigos indicados como violados não foi debatido no acórdão recorrido, não servindo de fundamento à conclusão adotada pelo Tribunal de origem, tampouco foram opostos embargos de declaração para esse fim. É manifesta, pois, a incidência da Súmula 282/STF, a qual se aplica também ao dissídio.
+Ainda que assim não fosse, anoto que o Tribunal de origem consignou (fl. 817-818/e-STJ):
+Extrai-se do laudo pericial de fls. 958/1002, a existência de danos estruturais no imóvel do autor, que decorreram da má qualidade dos materiais empregados na obra, ou de deficiência da mão de obra empregada (fls. 995).
+Neste sentido, a existência dos danos é incontroversa, devendo agora ser avaliada a responsabilidade da ré no presente caso.
+Consta da Apólice de Seguro Habitacional do SFH para Danos Físicos Condições particulares para os riscos de danos físicos, acostada a fls. 149/169, em sua cláusula 3ª, quais os riscos garantidos pelo seguro:
+"3.1. Estão cobertos por estas Condições todos os riscos que possam afetar o objeto do seguro, ocasionando: a) incêndio; b) explosão;
+c) desmoronamento total; d) desmoronamento parcial, assim entendido a destruição ou desabamento de paredes, vigas ou outro elemento estrutural; e) ameaça de desmoronamento, devidamente comprovada; f) destelhamento; g) inundação ou alagamento.
+3.2. Com exceção dos riscos contemplados nas alíneas "a" e "b" do subitem 3.1, todos os citados no mesmo subitem deverão ser decorrentes de eventos de causa externa, assim entendidos os causados por forças que, atuando de fora para dentro, sobre o prédio, ou sobre o solo ou subsolo em que o mesmo se acha edificado, lhe causem danos, excluindo-se, por conseguinte, todo e qualquer dano sofrido pelo prédio ou benfeitorias que seja causado por seus próprios componentes, sem que sobre eles atue qualquer força anormal.".
+Respeitado o entendimento do juízo a quo, ausente qualquer abusividade da referida cláusula contratual, considerando que o próprio Código Civil, em seu art. 784, exclui a garantia sobre o dano causado por vício intrínseco da coisa.
+Assim, constatado que, no presente caso, os danos decorrem de vício intrínseco a coisa, isto é, o material utilizado para construção, e havendo expressamente a exclusão de indenização de tais vícios, o pedido deve ser julgado improcedente.
+(..)
+Destarte, impõe-se a reforma da sentença, para que a demanda seja julgada improcedente, restando prejudicado o recurso interposto pela autora.
+Ocorre que seria necessário o reexame do conjunto fático-probatório dos autos para infirmar tais conclusões do acórdão recorrido, o que é vedado pela Súmula 7/STJ.
+Em face do exposto, nego provimento ao recurso especial. Nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
