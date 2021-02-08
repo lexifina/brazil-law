@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por MICHELLI CASTRO MORAES e RAYLLA SANTOS PEREIRA contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul proferido no HC n. 1406707-91.2020.8.12.0000.
+Na presente irresignação, as Recorrentes aduzem que não houve fundamentação idônea para manutenção da segregação cautelar, e que "não é crível presumir que as Recorrentes, em liberdade, representem risco à ordem pública, quando não há elementos hábeis e específicos a justificar a custódia" (fl. 192). Argumentam que a necessidade do encarceramento precisa ser revista também em razão da pandemia ocasionada pelo novo coronavírus, nos termos da Resolução n. 62/2020 do Conselho Nacional de Justiça, porque, "dada a superlotação dos nossos presídios, inexiste estrutura mínima para a prestação da assistência médica e de saúde conforme asseguradas pela mencionada recomendação" (fl. 197).
+Requerem, liminarmente e no mérito, seja-lhes "concedida a liberdade provisória, cumulada com medida cautelar diversa da prisão" (fl. 203).
+Em consulta ao endereço eletrônico do Tribunal de origem, verifico que o Juiz de primeiro grau, em 23/10/2020, nos autos do Processo n.0001111-78.2020.8.12.0011,julgou procedente a denúncia para condenar asRecorrentes como incursas no art. 33, c.c. o art. 40, inciso V, da Lei n. 11.343/2006 à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, no regime inicial semiaberto, mais 583 (quinhentos e oitenta e três) dias-multa.Na ocasião, foi concedido às Rés o direito de recorrer em liberdade, com a expedição de alvará de soltura.
+Desse modo, evidencia-se a perda superveniente do interesse processual no presente recurso.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. SUPERVENIÊNCIADE SENTENÇA CONDENATÓRIA. FIXAÇÃO DO REGIME SEMIABERTO. CONCESSÃO DO DIREITO DE RECORRER EM LIBERDADE. EXPEDIÇÃO DEALVARÁ DE SOLTURA. RECURSO PREJUDICADO.
