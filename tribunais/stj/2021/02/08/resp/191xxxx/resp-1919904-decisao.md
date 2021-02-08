@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por FREMA CONSULTORIA IMOBILIÁRIA LTDA. contra decisão que inadmitiu recurso especial. O apelo nobre, fundamentado no artigo 105, inciso III, alínea"a", da ConstituiçãoFederal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO. Compromisso de compra e venda. Ação declaratória e condenatória. Pedido de restituição do valor pago a título de comissão de corretagem e premiação.Legitimidade passiva das empresas que participam da cadeiade fornecimento do produto, nos termos do CDC. Preliminar de prescrição trienal afastada. Aplicação da tese vinculante firmada no julgamento do Recurso Especial Repetitivo nº 1.551.956/SP, nos termos dos arts. 1.039, "caput" e 1.040, IIIdo CPC/2015. Comissão de corretagem. Apreciação da matériaem face de recurso repetitivo (Tema 960) que assentou ser válida a cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda do Programa Minha Casa, Minha Vida, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão de corretagem, ressalvada a denominada Faixa 1, em que não há intermediação imobiliária. Aplicaçãoda tese definida no REsp 1.601.149/RS. Validade do repasse. Comprador que não se encaixa na Faixa 1 do programa. Dever de informação ao promitente comprador preservado. Restituição não devida. Abusividade, no entanto, da cobrança de premiação. Ausência de esclarecimento quanto à cobrança. Restituição devida. Ação parcialmente procedente. Sentença parcialmente reformada. Recursos parcialmente providos" (fl. 447, e-STJ).
+Os embargso de declaração opostos foram rejeitados (472-474 e-STJ).
+No especial, a recorrente alega violação dos arts.arts. 6º, III, 30, 31, 46 do Código de Defesa do Consumidor e 722 e 725 do Código Civil. Sustenta, em síntese, que a taxa de premiação compõe a comissão de corretagem, logo nenhum valor deve ser restituído.
+Após a apresentação das contrarrazões (fls. 524-529, e-STJ), o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Verifica-se estarem presentes os pressupostos de admissibilidade do agravo.
+Por tal motivo, e por entender que a matéria merece melhor exame, dou provimento ao agravo para determinar a sua reautuação como recurso especial, nos termos do art. 34, inciso XVI, do Regimento Interno doSuperior Tribunal de Justiça.
+Publique-se.
+Intimem-se.
