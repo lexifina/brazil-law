@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de FELIPE MOURA DE PAULAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da Execução indeferiu ao paciente o pedido de progressão ao regime aberto (e-STJ, fls. 30-31).
+Inconformada, a defesa interpôs agravo em execução, o qual foi desprovido, nos termos da seguinte ementa (e-STJ, fl. 11):
+"Agravo. Indeferimento de progressão ao regime aberto. Ausência de requisito subjetivo para obtenção do benefício. Necessidade de vivenciar as várias etapas progressivas com bom comportamento carcerário para obtenção da benesse almejada. Agravo improvido."
+Neste writ, o impetrante alega, em síntese, que haveria constrangimento ilegal ao paciente, ao argumento de que estaria devidamente comprovado o bom comportamento carcerário, e que a progressão de regime não poderia ser negada com amparo em falta disciplinar antiga, já reabilitada, tampouco com fundamento na gravidade abstrata do delito e na longa pena a cumprir.
+Ressalta que o paciente cumpre pena por crimes cometidos sem violência ou grave ameaça, e que"o reeducando não possui registro de faltas nos últimos três anos e a falta disciplinar de natureza média cometida em 11/10/2017 foi a única falta que lhe foi imputada durante o cumprimento de sua pena" (e-STJ, fl. 8), e já reabilitada.
+Requer a concessão da ordem, para que seja deferida ao paciente a progressão ao regime aberto.
+Liminar indeferida às fls. 35-36 (e-STJ) pelo Ministro Presidente Humberto Martins.
+Informações prestadas às fls. 45-53 (e-STJ).
+O Ministério Público Federal opina pelo não conhecimento do habeas corpus, ou pela denegação da ordem(e-STJ, fls. 56-59).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não se identifica o manifesto constrangimento alegado pela defesa apto a justificar a concessão da ordem, de ofício.
+O Juiz da Execução indeferiu o pedido de progressão de regime, nestes termos (e-STJ, fls.30-31, grifou-se):
+"O pedido é improcedente.
+O sentenciado é reincidente.
+Verifico que o sentenciado não possui o requisito subjetivo para a progressão pretendida, pois há nos autos informações suficientes que demonstram a necessidade de maior permanência do mesmo no sistema intermediário.
+Inicialmente, considerando os gravíssimos delitos praticados pelo sentenciado, que não é fator absoluto na análise da progressão, mas que devem ser conjuntamente analisados com outros elementos concretos existentes nos autos.
+O sentenciado foi beneficiado, com a progressão ao regime aberto em 2016, sendo novamente preso em flagrante em2017, demonstrando irresponsabilidade quando em liberdade.
+Verifica-se que o sentenciado apresenta total desrespeito às regras de convivência dentro do estabelecimento prisional, o que implicará em risco quando em regime aberto, ante a menor fiscalização quanto ao seu comportamento.
+Imperioso, assim, que o sentenciado permaneça no regime intermediário até que demonstre efetivamente a maturidadenecessária para alcançar a liberdade, o que não ficou demonstrado na última oportunidade em que foi colocado em liberdade, como acima mencionado.
+Ausente o requisito subjetivo, indefiro o pedido de progressão ao regime aberto de cumprimento de pena."
+Ao analisar o agravo em execução manejado pela defesa, o Tribunal de origem manteve a decisão, adotando a seguinte fundamentação (e-STJ, fls. 12-14, com destaque):
+"O juízo das execuções indeferiu a benesse, pois entendeu não estar preenchido o requisito subjetivo, mencionando que o sentenciado foi beneficiado com a progressão ao regime aberto no ano de 2016, sendo novamente preso em flagrante em 2017, o que demonstra irresponsabilidade quando em liberdade.
+De fato, conforme se verifica do Boletim Informativo juntado aos autos, o agravante foi preso em flagrante, em duas ocasiões, pouco tempo após ser beneficiado com a liberdade (fl. 13).
+Diante de todo exposto, sopesando-se tais aspectos, não se observa o cumprimento do requisito subjetivo e condições pessoais que façam presumir que não voltará a delinquir, restando claro sua resistência aos fins da pena e não assimilação da terapêutica penal, revelando que não se encontra, neste momento, apto à progressão de regime.
+ ..
+E esse é o caso sub judice, já que o agravante responde por crimes graves, equiparados a hediondos, registra falta disciplinar de natureza média e, por duas vezes, foi preso em flagrante pouco tempo após ser beneficiado com a liberdade (cf. fl. 13)."
+Da análise dos autos, verifica-se que as instâncias ordinárias entenderam que o caso em questão requer cautela, diante do histórico prisional do paciente, que praticou falta disciplinar de natureza média em 11/10/2017 (apologia ao crime) - e-STJ, fl. 20, tendo cometido novos delitos após obter o mesmo benefício ora pretendido.
+Embora o paciente tenha cumprido o requisito temporal para a progressão de regime, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, o histórico prisional do apenado.
+Ademais, o "atestado de boa conduta carcerária não assegura o livramento condicional ou a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz não é mero órgão chancelador de documentos administrativos e pode, com lastros em dados concretos, fundamentar sua dúvida quanto ao bom comportamento durante a execução da pena" (AgRg no HC 572.409/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/06/2020, DJe 10/06/2020).
+Sobre o tema, com destaques:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. COMETIMENTO DE FALTA GRAVE. PROGRESSÃO DE REGIME. SAÍDA TEMPORÁRIA. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO.
+ ..
+2. Na espécie, o entendimento do Tribunal a quo encontra-se em harmonia com a jurisprudência consolidada por esta Corte Superior de Justiça, no sentido de que a prática de falta grave impede o deferimento da progressão de regime prisional, por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena.
+3. Impende ressaltar que é firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica no reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+4. No que tange à saída temporária, além do não cumprimento do requisito subjetivo, pela prática de falta grave, constato que tal benefício não foi objeto de deliberação pelo Juízo das Execuções Criminais, configurando-se, na verdade, falta de interesse processual na interposição do agravo em execução perante a Corte de origem, que, inadvertidamente, apreciou o referido pleito.
+Impossível, assim, o conhecimento do writ também quanto a esse aspecto.
+4. Habeas corpus não conhecido." (HC 487.885/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/02/2019, DJe 15/02/2019).
+"AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. FUNDAMENTAÇÃO CONCRETA. FALTA DE REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Inexiste constrangimento ilegal no ponto em que, de forma devidamente fundamentada, foi indeferida ao apenado a progressão de regime, haja vista as peculiaridades do caso, dado o histórico prisional conturbado do apenado - que se evadiu do sistema prisional na última progressão de regime. Não se trata, portanto, de consideração da gravidade abstrata dos crimes cometidos pelo apenado (latrocínio) ou da longa pena ainda por cumprir (cujo término está previsto para 2031), mas do histórico de faltas graves cometidas, o que revela, concretamente, sua inaptidão a cumprir pena em regime mais brando.
+2. Agravo regimental não provido." (AgRg no HC 376.984/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017).
+Cumpre destacar que, "in casu, as instâncias ordinárias fundamentaram o indeferimento do benefício, em razão da ausência do requisito subjetivo do apenado, com base em elementos extraídos da execução penal: histórico prisional desfavorável e periculosidade social; logo, em perfeita sintonia com a jurisprudência desta Corte Superior. 3. É entendimento consolidado no âmbito deste Tribunal Superior que a desconstituição da conclusão sobre o não preenchimento do requisito subjetivo demanda reexame do acervo fático-probatório, procedimento totalmente inviável na via estreita do habeas corpus." (AgRg no HC 548.274/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 02/06/2020, DJe 09/06/2020, grifou-se).
+Corroboram:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PROGRESSÃO. ATESTADO DE BOA CONDUTA CARCERÁRIA. ANÁLISE DESFAVORÁVEL DO MÉRITO DO APENADO PELO JUÍZO DAS EXECUÇÕES COM BASE EM PECULIARIDADES DO CASO CONCRETO. FALTAS GRAVES DURANTE A EXECUÇÃO. RECORRENTE QUE INTEGRA FACÇÃO CRIMINOSA. INDEFERIMENTO DO PLEITO DEVIDAMENTE JUSTIFICADO. ALEGAÇÕES DE RISCO DE CONTAMINAÇÃO POR COVID-19 NÃO SUBMETIDAS AO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+1. Esta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.
+2. Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. No caso, o pedido de progressão de regime pleiteado pelo paciente foi indeferido pela ausência do preenchimento do requisito subjetivo, tendo sido levado em consideração, além da longevidade da pena, o conturbado histórico prisional do apenado, destacando a presença de falta disciplinar de natureza grave, indicação de que o apenado integra facção criminosa e o fato de ter sido necessário colocá-lo por um período em regime disciplinar diferenciado.
+3. A questão relativa à necessidade de progressão de regime, ante o risco de contaminação pela COVID-19, não foi sequer submetida à análise das instâncias ordinárias, não podendo ser diretamente examinada por esta Corte Superior, sob pena de se incidir em indevida supressão de instância.
+4. Agravo desprovido."
+(AgRg no HC 571.485/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020, com destaque).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. AUSÊNCIA. FATOS NOVOS. HISTÓRICO PRISIONAL DESFAVORÁVEL. HABITUALIDADE DELITIVA. FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte considera que a existência de falta grave constitui óbice para a progressão de regime por ausência do requisito subjetivo.
+2. Configura-se legítimo o indeferimento da progressão prisional, baseado em fundamentos concretos, porquanto não preenchido o requisito subjetivo, em decorrência, essencialmente, do histórico conturbado da agravante, que, beneficiada em execução penal anterior, cometeu nova prática delitiva, demonstrando, assim, a sua habitualidade em ilícitos penais.
+3. Agravo regimental improvido."
+(AgRg no HC 566.791/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020, grifou-se).
+Por fim, o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+Nesse contexto, não verifico a ocorrência de flagrante ilegalidade na decisão impugnada.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
