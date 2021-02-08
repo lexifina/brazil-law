@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por THIAGO SILVEIRA, com o fito de reformar a decisão que, nos autos do Cumprimento de Sentença de no 0002241-16.2015.8.11.0041, manejada por SELMA BAZZI e ALYRIO CARDOSO FILHO, determinou a penhora via Sisbajud e Renajud de valores e bens existentes em nome do executado, ora agravante, até o limite do débito exequendo.
+Para tanto, o agravante alega que o magistrado singular se equivocou ao determinar-lhe o pagamento de quantia certa, visto que a sentença determinou apenas que os agravados finalizassem o compromisso de compra e venda firmado entre as partes.
+Pondera que há cláusula resolutiva expressa no contrato dispondo que, em caso de não liberação do financiamento bancário por culpa do promitente comprador/agravante, este perderia o valor de R$ 10.000,00 (dez mil reais) dado como sinal a título de multa, de modo que a obrigação de pagar foi criada pelo juízo singular, em total inovação à sentença prolatada, que foi parcialmente confirmada por este Tribunal.
+Afirma que mesmo acatando o pedido de realização de audiência de conciliação, o magistrado a quo determinou a penhora sobre valores e bens de sua propriedade, deixando de contribuir para uma resolução célere e amistosa da presente lide.
+Ressalta que os agravados, ao tempo que o executam, requereram a baixa da anotação contida na margem da matrícula do imóvel e o puseram à venda, sendo este mais um motivo para a suspensão de qualquer novo ato expropriatório.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito ativo, a atribuição de efeito suspensivo ao Recurso de Agravo de Instrumento se sujeita aos pressupostos que lhe são próprios, nem sempre consentâneos com aqueles que, por outro lado, tocam à decisão combatida.
+Em outras palavras, a obtenção de efeito suspensivo depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+Como já dizia Nelson Nery Júnior:
+Atuação do relator. O relator do agravo deve analisar a situação concreta, podendo ou não conceder o efeito suspensivo ao recurso. Se verificar que a execução da decisão agravada pode trazer perigo de dano irreparável (periculum in mora) e se for relevante o fundamento do recurso (fumus boni iuris), deve dar efeito suspensivo ao agravo. (Código de processo civil comentado e legislação extravagante. 9 ed. São Paulo: Revista dos Tribunais, 2006, P. 819).
+Na espécie, da análise cuidadosa das alegações do presente recurso, não se observa a presença dos requisitos legais para a concessão da medida liminar pleiteada.
+Isso porque, além da aparente intempestividade no tocante à irresignação contra a determinação para pagamento do débito, a realização da audiência de conciliação não obsta o prosseguimento dos atos necessários ao cumprimento de sentença que, nos termos do art. 525,§ 6o do CPC, só é suspenso por meio da impugnação e desde que garantido o juízo com penhora, caução ou depósito suficientes, isso se forem relevantes os fundamentos e se o prosseguimento da execução causar ao executado grave dano de difícil ou incerta reparação.
+Aliado a isso, não vislumbro qualquer prejuízo que não possa aguardar o exame do mérito pelo colegiado, já que o magistrado singular não determinou o levantamento de qualquer valor ou bem, apenas vinculou o valor obtido via Sisbajud aos autos e deliberou pela avaliação do veículo penhorado, caso seja localizado.
+Assim, com base nessas considerações, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se a agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
