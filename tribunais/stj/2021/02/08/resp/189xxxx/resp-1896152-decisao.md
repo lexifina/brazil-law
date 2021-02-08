@@ -1,0 +1,44 @@
+DECISÃO
+GABRIEL DE PAULA DA CRUZinterpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais nos Embargos Infringentes n. 1.0024.12.293842-6/005.
+Noespecial, a defesa aponta a violação do art. 593, III, "d", do Código de Processo Penal, ao argumento de que, embora a interposição da apelação contra o veredito proferido pelo Tribunal do Júri haja sido fundamentada apenas na alínea "c" do referido dispositivo legal, as razões recursais suscitaram a tese de que a decisão dos jurados foi manifestamente contrária à prova dos autos. Aduz que, por esse motivo, a apelação deve ser integralmente conhecida e postula que seja determinado à Corte estadual sua total apreciação.
+O Ministério Público Federal opinou pelo não conhecimento ou pelo conhecimento e não provimento do recurso (fls. 462-464).
+Decido.
+I. Admissibilidade
+O recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivo por que avanço na análise de mérito da controvérsia.
+II. Contextualização
+O Conselho de Sentença condenou o recorrente a 8 anos e 6 meses de reclusão, em regime inicial fechado, pelo crime do art. 121, caput, do Código Penal. A Defensoria Pública interpôs apelação em que pleiteava a cassação do veredicto por entender que ele foi contrário às provas e, subsidiariamente, requereu a redução da pena.
+O Tribunal a quo, no entanto, conheceu do recurso apenas em parte e redimensionou a reprimenda para 6 anos de reclusão, no regime inicial semiaberto, conforme se observa do voto vencedor (fls. 387-388, grifei):
+Com efeito, a Apelação- interposta contra decisão proferida pelo Júri- tem natureza restrita, de tal arte que não devolve ao Tribunal o conhecimento de toda a matéria, mas apenas daquela invocada pela parte no ato de interposição do recurso, limitada, às hipóteses elencadas no rol taxativo do art. 593, III e suas alíneas, do CPP.
+Portanto, o princípio tantum devolutum quantum apelatatum deve ser criteriosamente quando o recurso for interposto contra decisões proferidas pelo Conselho de Sentença.
+Registro que, pacificando o aludido entendimento, o STF editou a súmula 713, in verbis:
+Súmula 713. O efeito devolutivo da apelação contra a decisão do Júri é adstrito aos fundamentos da sua interposição.
+In haec specie, a defesa ajuizou o recurso de Apelação em fl. 224v tendo apontado como razão de recorrer o art. 593, inciso III, alínea C, do CPP, ou seja, como argumento de que houve erro ou injustiça no tocante à aplicação da penae não quanto à decisão dos jurados.
+Não se olvide que a defesa, no momento da apresentação das razões recursais, está vinculada aos fundamentos apontados quando da interposição do recurso.
+Contudo,no presente caso, como alhures destacado, o advogado deixou de elencar, como razão de recurso, o seu inconformismo com a decisão do Conselho de Sentença condenando o réu. Assim, em observância ao disposto na Súmula n. 713 do STF, não conheço do pedido de submissão do acusado a novo julgamento por ser a decisão do Júri manifestamentecontrária à prova dos autos.
+III. Efeito devolutivo do recurso de apelação das decisões proferidas pelo Tribunal do Júri
+As decisões proferidas pelo Tribunal do Júri têmpeculiaridades que as diferenciam daquelas exaradas pelos juízes togados. Entre muitas particularidades, háo efeito devolutivo do recurso de apelação criminal, que fica restrito aos fundamentos da sua interposição, previstos nas alíneas do inciso III do art. 593 do Código de Processo Penal.
+A teor da Súmula n. 713 do Supremo Tribunal Federal, in verbis "O efeito devolutivo da apelação contra decisões do Júri é adstrito aos fundamentos da sua interposição. Isso significa que a Corte estadual, ao apreciar a apelação criminal oriunda do Tribunal do Júri, está vinculada aos limites de sua interposição fixados, ab initio, pelo termo ou pela petição de interposição do recurso.
+Assim, é notório o entendimento de que, quando a parte pretende recorrer da decisão proferida pelo Tribunal Popular, deve apresentar, na petição de interposição, qual o motivo do seu inconformismo e deixar expressa a alínea eleita do inciso III do art. 593 do CPP.
+Entretanto, a ausência de indicação ou mesmo a sinalização errônea de uma das alíneas do referido artigo, no termo ou na petição de interposição, acarreta mera irregularidade se, nas razões recursais, a parte apresenta fundamentos para o apelo e os delimita em seu pedido.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA REVISTA EM SEGUNDO GRAU. PLEITO FORMULADO PELA DEFESA. RELATIVIZAÇÃO DA SÚMULA N. 713 DO STF. DECISÃO MANTIDA.
+AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O réu manifestou interesse em recorrer, o que fez de forma genérica, e, ao apresentar as razões recursais, o defensor deixou de indicar em qual alínea do inciso III do art. 593 do Código de Processo Penal estaria embasado o apelo, mas requereu a revisão da dosimetria quando pleiteou essencialmente a redução da reprimenda imposta ao sentenciado.
+2. A ausência de indicação de uma das alíneas do referido dispositivo, no termo ou petição de interposição, acarreta mera irregularidade se, nas razões recursais, a defesa apresenta fundamentos para o apelo e os delimita em seu pedido. Precedentes.
+ ..
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 1.122.433/GO, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/11/2019, destaquei)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO. TRIBUNAL DO JÚRI. APELAÇÃO MINISTERIAL. AUSÊNCIA DE INDICAÇÃO DE ALÍNEA. MERA IRREGULARIDADE. PRECEDENTES. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça tem sufragado o entendimento de que a ausência de indicação da alínea em que interposto o recurso de apelação contra as decisões do Tribunal do Júri não obsta seu conhecimento quando, das razões recursais, for possível delimitar o pedido e identificar o dispositivo que o fundamenta. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no REsp n. 1.688.210/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/4/2019, grifei)
+PENAL E PROCESSO PENAL. HABEAS CORPUS. 1. IMPETRAÇÃO SUBSTITUTIVA DO RECURSO PRÓPRIO. NÃO CABIMENTO. 2. TRIBUNAL DO JÚRI. RECURSO DE APELAÇÃO. AUSÊNCIA DE INDICAÇÃO DAS ALÍNEAS. MERA IRREGULARIDADE. 3. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A Primeira Turma do Supremo Tribunal Federal e as Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. A ausência de indicação do fundamento legal da apelação interposta contra decisão proferida pelo Tribunal do Júri é considerado mera irregularidade. De fato, prevalece no Superior Tribunal de Justiça que não há óbice ao conhecimento do recurso, desde que nas razões se encontrem os fundamentos que ensejaram o apelo e as pretensões da parte estejam perfeitamente delineadas, conforme se verifica no caso dos autos, em que o recurso pleiteava apenas a reforma da dosimetria.
+3. Habeas corpus não conhecido. Ordem concedida de ofício, para anular o acórdão que não conheceu do recurso de apelação e determinar seu conhecimento e julgamento pelo Tribunal de origem, como entender de direito.
+(HC n. 337.619/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 24/5/2016)
+Na hipótese, verifico que, a despeito de a defesa, ao manifestar interesse de recorrer, não haver indicado a alínea "d" do inciso III do art. 593 do Código Penal (fl. 333), delimitou, nas razões recursais, apresentadas dentro do prazo recursal, sua irresignação contra a decisão dos jurados, por considerá-la manifestamente contrária à prova dos autos (fls. 338-347).
+Portanto, era possível que o Juízo de segundo grau conhecesse do apelo interposto a partir do que foi alegado pelo órgão acusatório. O acórdão está contrário com àfirme jurisprudência desta Corte, o que permite o julgamento monocrático deste recurso nos termos da Súmula n. 568 do STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especialpara determinar que o Tribunal de Justiça do Estado de Minas Gerais aprecie a totalidade da apelação interposta pela Defensoria Pública.
+Publique-se e intimem-se.
