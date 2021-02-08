@@ -1,0 +1,6 @@
+DECISÃO
+À vista do ofício de fls. 586-594, verifica-se que o apenado do regime fechado,reincidente, que cumpre pena por crime equiparado a hediondo (tráfico de drogas)foi promovido e incluído noregime semiaberto após a impetração do habeas corpus. Os benefícios do trabalho externo e de saídas temporárias não estão obstados em razão da pandemia da Covid-19.
+Na data de 18/1/20201, o reeducando "foi autorizado a gozar das saídas temporárias" (fl. 593). Elenão apresenta quadro clínico debilitado, suaunidade prisionalnão está em situação de superpopulação (tem 48 vagas destinadas ao regime semiaberto, contando com 26 presos) e"não apresenta alta curva de contágio pelo coronavírus" (fl. 593). De acordo com as informações atualizadas do Juiz da VEC, no localnão há registros de infecções de presos do regime fechado e semiabertono último mês.
+Assim, no local de recolhimento do preso não há situação excepcional, atentatória àvida e à saúde, que justifique a concessão de medida humanitária.Ele não está tolhido dos benefícios do regime semiaberto e o art. 5º-A da Recomendação CNJ n. 62/2020 excetua a concessão de prisão domiciliar como decorrência automática da pandemia às pessoas condenadas por crimes hediondos, como no presente caso.
+À vista do exposto, indefiro o pedido de reconsideração e mantenho a denegação da ordem.
+Publique-se e intimem-se.
