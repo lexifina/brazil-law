@@ -1,0 +1,38 @@
+DECISÃO
+REGINALDO FERREIRA DOS SANTOS e ROSELENE BARRETO MARTINS SANTOS (REGINALDO e ROSELENE) ajuizaram ação de imissão na posse contra JOÃO DE ARAUJO TAVARES e ANTONIA LUCIER LEITE TAVARES (JOÃO e ANTONIA), julgada improcedente.
+A apelação interposta por REGINALDO e ROSELENE foi provida pelo TJ/SP nos termos do acórdão da relatoria do Des. RUI CASCALDI assim ementado:
+AÇÃO DE IMISSÃO DE POSSE Demonstração nos autos da titularidade do domínio exercida pelos autores Registro público válido Compromisso de compra e venda da ré não levado a registro público Deferimento do pedido inicial que é medida de rigor Decisum reformado Ônus sucumbenciais rearranjados Apelo provido, com observação (e-STJ, fl. 183).
+Os embargos de declaração opostos por REGINALDO e ROSELENE foram acolhidos para sanar contradição (e-STJ, fls. 207/208).
+Inconformados, JOÃO e ANTONIA interpuseram recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação do art.1.196 do CC/02, ao sustentar que considera possuidor aquele que tem de fato o exercício, em nome próprio, de alguns dos poderes inerentes da propriedade e, no caso, não poderia o Tribunal Estadual ter dado provimento ao recurso de apelação interposto pelos recorridos para imiti-los na posse.
+Foram apresentadas as contrarrazões (e-STJ, fls. 213/232).
+O apelo nobre não foi admitido por não ter sido demonstrada a alegada violação do dispositivo legal indicado e a divergência jurisprudencial (e-STJ, fls. 248/250).
+Seguiu-se o agravo em recurso especial, que, por decisão monocrática da relatoria do Ministro Presidente do STJ, foi conhecido para não conhecer do recurso especial, com amparo no art. 21-E, V, do RISTJ, em virtude de sua intempestividade.
+Nas razões do presente agravo interno, JOÃO e ANTONIA alegaram que seu recurso especial é tempestivo, uma vez que não houve expediente forense no dia 10 de fevereiro de 2020, a teor do Comunicado nº 17/20, da Presidência do TJSP, bem como que o último dia do prazo (dias 26 de fevereiro de 2020), foi quarta-feira de cinzas e, nos termos do art. 224, § 1º, do NCPC, o prazo foi prorrogado para o dia 27/2/2020, dia da interposição do apelo nobre.
+Houve impugnação ao recurso (e-STJ, fls. 337/365).
+É o relatório.
+DECIDO.
+Verifica-se que, de fato, o recurso especial é tempestivo, já que o último dia do prazo recursal se deu na quarta-feira de cinzas e, nos termos do art. 224, § 1º, do NCPC, teve sua prorrogação para o primeiro dia útil seguinte, no caso, o dia 27/02/2020, dia em que foi interposto .
+Dessa forma, reconsidero a decisão agravada e passo a análise do recurso especial interposto por JOÃO e ANTONIA.
+O recurso não merece prosperar.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada violação do art. 1.196 do CC/02 e da divergência jurisprudencial
+Nas razões de seu recurso, JOÃO e ANTONIA afirmaram a violação do art. 1.196 do CC/02, ao sustentar que considera possuidor aquele que tem de fato o exercício, em nome próprio, de alguns dos poderes inerentes da propriedade e, no caso, não poderia o Tribunal Estadual ter dado provimento ao recurso de apelação interposto pelos recorridos para imiti-los na posse..
+Verifica-se que o TJ/SP não emitiu pronunciamento sobre o tema e não foram opostos embargos de declaração para sanar a omissão.
+Assim, não há como ser analisada a tese trazida no recurso especial, em virtude da falta de prequestionamento.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL  AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO  DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A subsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia. Precedentes.
+1.1. No ponto, rever o entendimento lançado no v. acórdão recorrido, considerando as circunstâncias do caso concreto, para concluir que não houve mora da ora agravante, demandaria revolvimento de matéria fático-probatória, bem como análise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ.
+2. Nos termos da jurisprudência deste Tribunal Superior, o atraso na entrega do imóvel enseja pagamento de lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo experimentado pelo promitente comprador. Incidência da Súmula 83/STJ.
+3. Relativamente ao dissídio jurisprudencial quanto à cumulação de lucros cessantes e a cláusula penal, a ausência de indicação dos dispositivos de lei federal violados ou em torno dos quais haveria divergência jurisprudencial, caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do STF.
+3.1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos das Súmulas 282 e 356 do STF, aplicável por analogia.
+4. Agravo interno desprovido.
+(AgInt no REsp 1.877.253/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 1º/2/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. AUSÊNCIA DE ARGUMENTO CAPAZ DE ALTERAR O JULGADO. ALEGADO CERCEAMENTO DE DEFESA. IMPOSSIBILIDADE DE ANÁLI SE DE SUGERIDA OFENSA A DISPOSITIVO CONSTITUCIONAL EM SEDE ESPECIAL. UTILIZAÇÃO DA EXPRESSÃO "E SEGUINTES" APÓS A CITAÇÃO DE DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO DAS MATÉRIAS INSERTAS EM ALGUNS DOS PRECEITOS NORMATIVOS SUPOSTAMENTE CONTRARIADOS. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS 282 E 356 DO STF. ALEGAÇÃO DE INADIMPLEMENTO CONTRATUAL POR PARTE DOS RECORRIDOS, DE ABUSIVIDADE DE CLÁUSULAS CONTRATUAIS, DE EXISTÊNCIA DE DANOS PASSÍVEIS DE INDENIZAÇÃO. REEXAME DE MATÉRIA FÁTICA. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. VEDAÇÃO. SÚMULAS 5 E 7 DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.876.421/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 18/12/2020)
+Incide, portanto, os óbices das Súmulas nºs 282 e 356 do STF, por analogia, a obstar o conhecimento do recurso especial por ambas as alíneas.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHECER do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECONSIDERAÇÃO. TEMPESTIVIDADE RECONHECIDA. AÇÃO DE IMISSÃO NA POSSE. ART. 1.196 DO CC/02. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DAS SÚMULAS NºS 282 E 356 DO STF.AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
