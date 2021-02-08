@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, apontando como autoridade coatora Desembargadora do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu pedido liminar emwritali impetrado.
+A impetração busca, liminarmente e no mérito, a concessão de prisão domiciliar ou a transferência do paciente para uma unidade de progressão.
+É o relatório.
+DECIDO.
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização dehabeas corpuscontra decisão que indeferiu a liminar emwritimpetrado no Tribunala quo, sob pena de indevida supressão de instância.
+A despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de ilegalidade flagrante, decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+No caso, a decisão impugnada consignou,in verbis(fl. 67-69):
+Cuida-se de Habeas Corpus, com pedido de liminar, impetrado pelos d. Advogados Viviane Alves de Souza e Ronan Teodozo Nunes em favor de CLÁUDIO DRAGO NETO, sob a alegação de que estaria ele sofrendo ilegal constrangimento pelo MM. Juízo de Direito da 2ª Vara da Comarca de Francisco Morato.
+Em suma, os impetrantes afirmam que o paciente foi processado e condenado pela prática de crime de roubo majorado tentado ao cumprimento de pena em regime fechado, porém, impetrado habeas corpus perante o e. Superior Tribunal de Justiça, o regime inicial foi alterado para o semiaberto. Afirmam que o paciente permaneceu preso de 29 de junho de 2016 a 5 de julho de 2017 e, a despeito disso, não foi expedida a guia de recolhimento, tampouco realizada a detração e fixado o regime aberto, ao qual já faz jus. Alegam que o mandado de prisão foi cumprido em 1º de janeiro de 2021 e o paciente foi transferido para a Cadeia Pública da Cajamar, em regime fechado, por falta de vagas no regime intermediário. Acenam com a aplicabilidade da Súmula Vinculante nº 56, do C. Supremo Tribunal Federal, destacando que o paciente se encontra em cumprimentode pena em regime mais gravoso do que o fixado. Liminarmente, requerem seja facultado ao paciente o direito de aguardar em prisão domiciliar até que seja disponibilizada vaga no regime adequado. No mérito, buscam a expedição da guia de recolhimento, aplicando-se ainda a detração penal para a estipulação do regime aberto (fls. 1/12).
+É o relatório necessário.
+De início, anoto que o caso já é de conhecimento desta Relatora e da e. Câmara, porquanto analisado nos autos do habeas corpus n. 2060151-97.2020.8.26.000, em que o paciente buscava a concessão da prisão domiciliar e detração penal, denegada a ordem, à unanimidade, em 15 de setembro de 2020.
+Assim, tratando-se a impetração de mera reiteração no tocante ao pleito de detração, passo a analisar tão somente os pedidos relativos à expedição da guia de recolhimento provisória e alegada violação à Súmula Vinculante nº 56 do C. STF.
+Todavia, indefiro, por ora, a liminar, "ad referendum" da e. Turma Julgadora.
+Com efeito, a medida liminar é cabível somente quando o constrangimento ilegal for detectado de plano, através do exame sumário da inicial, o que não ocorre no presente caso.
+O paciente CLÁUDIO foi condenado pela prática do crime do artigo 157, § 2º, incisos II e V, c.c. artigo 14, inciso II, ambos do Código Penal, à pena de 3 anos e 8 meses de reclusão, em regime fechado, mais 9 dias-multa, denegando-se a ele o direito de recorrer solto (fls. 339/347 autos digitais).
+Foi impetrado o Habeas Corpus n. 404.403/SP perante o e. Superior Tribunal de Justiça, concedida a liminar para determinar a soltura do paciente (fls. 388/390 autos digitais), cumprindo-se o respectivo alvará de soltura em 5 de julho de 2017 (fls. 406/407 autos digitais).
+Em face da sentença foi interposta apelação pela Defesa (fls.444/449 autos digitais).
+Em 9 de abril de 2019, esta e. 4ª Câmara de Direito Criminal negou provimento ao recurso, determinando a expedição de mandado de prisão, consoante entendimento do plenário do c. Supremo Tribunal Federal no julgamento do habeas corpus nº 126.292/SP, de relatoria do Min. Teori Zavascki, em 17.2.2016 (fls. 482/491 autos digitais).
+Em 11 de junho de 2019, foram rejeitados os embargos de declarações opostos em face do v. acórdão (fls. 525/528).
+Impetrou-se, então, o habeas corpus n. 513.935/SP perante o e. STJ, buscando a suspensão da execução provisória e a fixação de regime menos gravoso, o qual foi concedido, em 8 de agosto de 2019, para fixar o regime semiaberto para o início de cumprimento da pena (fls. 584/587).O juízo a quo, em 5 de setembro de 2019, ao tomar conhecimento da referida decisão, determinou a expedição de contramandado de prisão para recolhimento daquele expedido às fls. 496/497 e pela expedição de um novo mandado de prisão, anotando-se o regime prisional intermediário como o determinando para o cumprimento da pena (fl. 601 autos digitais).
+O recurso especial interposto pelo réu não foi admitido no Juízo de prelibação (fls. 588/589 autos digitais), ocorrendo o trânsito em julgado em 3 de setembro de 2019 (fl. 592 autos digitais).
+Em 1º de janeiro de 2021 foi cumprido o mandado de prisão (fls.739/743 autos digitais) e, em 2 de janeiro p.p., o MM. Juízoa quo determinou fosse oficiada a SAP para que incluísse imediatamente o paciente em regime semiaberto, a fim de que seja observada a Súmula Vinculante n. 56, do C. STF(fl. 749 autos digitais).
+Ocorre que, conforme consulta ora realizada ao "SIVEC", o paciente foi transferido para a Penitenciária Franco da Rocha I em 7 de janeiro de 2021.
+Destarte, a impetração se maneja, aqui, contra omissão da Secretaria da Administração Penitenciária do Estado, e a competência para examinar o presente writ seria, em tese, do juízo de primeiro grau, nada se podendo deliberar de imediato sob pena de supressão de instância.
+Assim, a concessão da liminar neste momento se mostraria temerária, porquanto, além de todo o exposto se confunde com o mérito, inexistindo demonstração de ab initio de qualquer ilegalidade por parte do juízo a quo.
+No caso, reputo como indispensáveis as informações ao MM Juízo, a serem prestadas com urgência, notadamente quanto à transferência do paciente a estabelecimento adequado ao regime intermediário e à expedição da guia de recolhimento.
+A decisão do juízo de primeiro grau, por sua vez, registra (fl. 85):
+Trata-se de boletim de ocorrência referente à captura de CLÁUDIO DRAGO NETO, ocorrida no dia 01 de janeiro de 2021, por volta das 13h30min, na Rua Manoel Vilaboim, nº 210, Estação Belém, na cidade e Comarca de Francisco Morato/SP.
+Conforme consta dos autos, após a abordagem, verificou-se a existência de mandado de prisão expedido contra CLÁUDIO em 10/10/2019, relacionado ao processo nº 0003493-20.2016.8.26.0197 da 2ª Vara Judicial de Francisco Morato/SP, pendente de cumprimento (fls. 02/03).
+Tratando-se de prisão decorrente de mandado expedido para cumprimento de pena e inexistindo qualquer irregularidade quanto à sua efetivação, não há óbice para seu implemento.
+Assim, comunique-se o cumprimento do mandado de prisão nos autos originais, remetendo-se cópia deste procedimento.
+Sem prejuízo, expeça-se ofício à SAP para que inclua imediatamente o custodiado CLÁUDIO DRAGO NETO em regime semiaberto, a fim de que seja observada a Súmula Vinculante nº 56 do STF.
+Como se vê, o Juízo de origem justificou a prisão por ser decorrente de mandado expedido para cumprimento de pena, ressaltando a expedição de "ofício à SAP para que inclua imediatamente o custodiado CLAUDIO DRAGO NETO em regime semiaberto".
+Assim, não se constata ilegalidade flagrante que justifique a mitigação da Súmula 691/STF.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
