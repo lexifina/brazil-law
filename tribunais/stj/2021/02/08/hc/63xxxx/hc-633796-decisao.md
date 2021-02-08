@@ -1,0 +1,30 @@
+DECISÃO
+RONALD RIBEIRO alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sulna Apelação Criminal n. 0000285-08.2020.8.12.0058.
+Consta dos autos que o paciente foi condenado a 5 anos e 10 meses de reclusão, em regime fechado, mais multa, pela prática dodelitode tráfico de drogas.
+Busca-se, por meio deste writ: a) a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas; b) a fixação de regime mais brando para o início do cumprimento da reprimenda; c) a substituição da pena privativa de liberdade por restritiva de direitos.
+Indeferida a liminar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+I. Aplicação da minorante
+Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Vale dizer, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+Sobre a matéria posta em discussão, cumpre destacar que a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+Na espécie, constato que o Juiz sentenciante entendeu pelanão incidência da minorante, pois (fls. 50-51):
+Prosseguindo, não incide a causa de diminuição do artigo 33, §4º, ante o modus operandi, denotado pela forma como os réus foram contratados, o percurso de longa distância,o uso de compartimentos ocultos no veículo e o fato de que o responsável por carregar a droga foi pessoa desconhecida, demonstra que efetivamente existe uma organização meticulosa para a prática do delito, revelando o profissionalismo da empreitada e não se tratar os acusados de simples "mulas" do tráfico.
+Pela leitura do trecho transcrito, observo que a instância ordinária destacou o modus operandi do delito praticado, especialmente o "envolvimento de outras pessoas para realização do crime para utilização de veículo preparado" (fl. 65) elementos que, em conjunto, justificam a negativa do benefício.
+Dessa forma, não identifico nenhum constrangimento ilegal no ponto em que, fundamentadamente, foi negada ao paciente a aplicação da causa especial de diminuição prevista no § 4º do art. 33 da Lei de Drogas, haja vista que foram apontados elementos concretos que, em conjunto, indicam a sua dedicação a atividades criminosas, notadamente ao tráfico de drogas.
+Ademais, imperioso salientar que, para entender de modo diverso e afastar a conclusão de que o paciente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência vedada na via estreita do habeas corpus.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+II. Regime de cumprimento da pena
+O Juiz sentencianteimpôs o modo fechado ao réu pois (fl. 56):
+Por fim, é de se considerar a quantidade de droga apreendida, o que impõe regime inicial mais rigoroso e, neste particular, já decidiu o STJ que "É possível a utilização da quantidade e da natureza das drogas apreendidas neste momento da dosimetria, ainda que consideradas na primeira ou terceira fases da fixação da pena, sem que se cogite de qualquer ilegalidade" (HC 270.851, rel. Min. Jorge Mussi, julg. 09.09.2014).
+Assim, considerados todos estes aspectos, o regime inicial de cumprimento da pena é mesmo o fechado.
+Uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+Assim, não obstante o paciente haja sido definitivamente condenado a reprimenda inferior a 8anos de reclusão,certo é que a instância de origemapontou elementos concretos dos autos que justificam a imposição de regime inicial mais gravoso do que o permitido em razão da sanção imposta, qual seja, a quantidade de droga apreendida, qual seja, 33,5 kg de maconha.
+Não há falar, portanto, em constrangimento ilegal.
+III. Substituição da pena privativa de liberdade por restritivas de direitos
+Por fim, diante do insucesso da tese defensiva que poderia levar à redução da reprimenda, fica mantida a negativa de substituição da privativa de liberdade por restritiva de direitos, em razão da ausência de cumprimento do requisito objetivo previsto no art. 44, I, do Código Penal (sanção superior a 4 anos de reclusão).
+IV. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
