@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO MONITÓRIA. Contrato de abertura de crédito rotativo em conta corrente para garantia de cobertura de cheques. Saque Especial Banespa. Sentença de rejeição dos embargos à monitória. Apelação dos embargantes. Pedido de concessão do benefício da justiça gratuita formulado no bojo do recurso de apelação. Concessão de prazo para apresentação de documentos que comprovassem a alegada hipossuficiência de recursos financeiros para arcar com as despesas do processo. Provas documentais juntadas aos autos que, no entanto, apontaram capacidade financeira dos recorrentes. Oposição de embargos de declaração, que foram rejeitados, visto que os embargantes deixaram de instruir os autos com elementos outros, comprobatórios da alegada impossibilidade de se comprometerem com os encargos processuais sem prejudicar sua saúde financeira.
+Concessão de prazo improrrogável para que efetuassem o recolhimento das custas de preparo relativas ao recurso de apelação. Inércia dos recorrentes que implica a deserção do apelo. RECURSO NÃO CONHECIDO.
+Os embargos de declaração opostos na origem foram rejeitados (e-STJ, fls. 333-367).
+Nas razões do especial, aponta violação dos artigos 43, 99 e 374do Código de Processo Civil/2015, ao alegar ser devida a concessão da gratuidade judiciária, bem como ter havido ofensa ao princípio da legalidade e do devido processo legal por afronta ao princípio do juiz natural.
+Não foram apresentadas contrarrazões (e-STJ, fls. 491/495).
+Assim delimitada a controvérsia, passo a decidir.
+Preliminarmente, no que concerne à violação ao art. 43 do CPC/2015,verifica-se que a discussão a respeito da suposta violação ao princípio do juiz natural não foi objeto de exame pela instância ordinária, mesmo após o julgamento dos embargos de declaração, o que caracteriza ausência do requisito indispensável do prequestionamento, do qual não estão isentas sequer as questões de ordem pública. Incidem, na hipótese, os óbices das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DO AUTOR.
+1. Em relação ao artigo 396 do Código Civil, incidem os enunciados das Súmulas 282 e 356 do Supremo Tribunal Federal, ante a ausência de prequestionamento, porquanto a matéria contida em tal dispositivo não teve o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. A despeito de o insurgente afirmar não ter manejado o reclamo com base na alínea "c" do permissivo constitucional, em uma simples leitura da folha de apresentação do recurso especial depreende-se que o apelo foi interposto com fundamento "nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição da República". Assim, não tendo a parte logrado comprovar o referido dissenso jurisprudencial, adequada a monocrática que não conheceu do recurso no ponto.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.112.475/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19.10.2017, DJe 25.10.2017).
+Em complemento, verifico que a citada discussão ficou vencida ante a ausência de vícios na designação da julgadora. Cito, a propósito, ementa da declaração de voto(e-STJ, fls. 362/363):
+Questão de ordem - Nulidade de julgamento - 2º Juiz integrante de Turma Julgadora vencido na questão de ordem que deixa de proferir voto sobre as demais questões objeto do recurso  Omissão  Inobservância de regra legal - RITJ/SP, artigo 136 e CPC artigo 939  Efetivação da prestação jurisdicional  Não ocorrência  Vicio de julgamento  Dever de decisão pelo Juiz que não admite opção ou escolha  Reconhecimento, com apreciação das consequências processuais derivadas dos fatos e de seus reflexos.
+Competência por atribuição  Designação de Juíza Substituta de Segundo Grau  Decisão da Presidência da Seção de Direito Privado do TJ/SP  Critério administrativo  Questionamento  Limitação  Natureza não jurisdicional  Matéria atinente à movimentação dos magistrados na carreira (promoção, remoção e acesso), como própria do Estatuto da Magistratura  CF, artigo 93 "caput"- Reconhecimento - Competência restrita do Órgão Especial - RITJ/SP, artigo 13 para dirimir a dúvida, sob pena de alcançar a insurgência consequências materiais e processuais diversas, com reflexos, dentre outros, no âmbito da efetividade da justiça, retardada a efetiva prestação jurisdicional, com prejuízo aos jurisdicionados.
+Nulidade de julgamento  Competência por atribuição  Designação de Juíza Substituta de Segundo Grau  Atuação como Relatora  Não caracterização  Matéria atinente à movimentação dos magistrados na carreira (promoção, remoção e acesso), como própria do Estatuto da Magistratura  CF, artigo 93 "caput" - Determinação administrativa da Presidência da Seção de Direito Privado do TJ/SP  Exercício de cargo e função derivada de regra legal - Lei Complementar Estadual 646/90, artigo 2º "Por designação do Presidente do Tribunal de Justiça, os juízes de Direito Substitutoem Segundo Grau substituirão membros dos Tribunais ou neles auxiliarão, quando o acúmulo de feitos evidenciar a necessidade de sua atuação"  Inocorrência de vicio  Não explicitação de ofensa ao princípio do juiz natural e aos arts. 93, III, 94 e 98, I, da CF/88 e não violação da Resolução 72/2009 do CNJ.
+No mérito, o pedido degratuidade judiciária foi indeferidopela Corte estadual nos termos na seguinte fundamentação (e-STJ, fls. 338/339):
+No ato da interposição do recurso, os apelantes deixaram de recolher as custas de preparo, pugnando pela concessão do benefício da justiça gratuita, tendo sido concedido prazo para que trouxessem aos autos documentos que demonstrassem a insuficiência de recursos alegada (fls. 279).
+A apelante M. S. A. INDÚSTRIA METALÚRGICA LTDA. permaneceu inerte e os apelantes ANTONIO CARLOS DE CAMARGO e MARIA IVONE PIRES DE CAMARGO, que são casados e sócios da empresa recorrente, trouxeram aos autos cópia das suas declarações de Imposto de Renda. Porém, as provas documentais juntadas apontaram capacidade financeira dos apelantes, a afastar a alegada hipossuficiência econômica, motivo pelo qual foi indeferido o pedido de concessão do benefício da justiça gratuita.
+Foi então concedido o prazo de dez dias, para que os recorrentes comprovassem o recolhimento das custas de preparo, sob pena de deserção (fls. 306/307).
+Contra tal decisão os recorrentes opuseramembargos de declaração (Embargos de Declaração n º 1000820- 96.2016.8.26.0533/50000), que foram rejeitados, nos seguintes termos:
+"Mesmo depois da interposição do presente recurso, os ora embargantes deixaram de instruir estes autos com elementos outros, comprobatórios da alegada impossibilidade de ser comprometerem com os encargos processuais sem prejudicar sua saúde financeira, de modo que ficasse demonstrada a real necessidade de reparo da decisão que determinou o recolhimento do preparo do recurso de apelação.
+Ao contrário, preferiram insistir na concessão do benefício, baseando-se unicamente na alegação de precariedade orçamentária, e na existência de processo em trâmite perante esta Corte de Justiça, que determinou o bloqueio judicial de suas contas, não sendo possível aferir eventual insuficiência de recursos para custear o processo.
+(..)
+Vê-se, portanto, que foi concedida novaoportunidade aos apelantes para regularizarem o recolhimento do preparo. Contudo, permaneceram inertes, motivo pelo qual deserto está o recurso de apelação.
+Como se vê, a conclusão a que chegou o Tribunal de origem, no sentido de manter o indeferimento do pedido de gratuidade da justiça decorreu de convicção formada em face dos elementos fáticos existentes nos autos, de sorte que a revisão dos fundamentos do acórdão recorrido importaria necessariamente no reexame de provas, providência que esbarra na Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. NECESSIDADE DE COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É assente o entendimento nesta Corte, segundo o qual a presunção de hipossuficiência da declaração feita pelo requerente do benefício da justiça gratuita é relativa, sendo possível ao juiz exigir a sua comprovação. Precedentes do STJ.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.670.585/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 2.4.2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO RÉU.
+ ..
+2. "A presunção de pobreza, para fins de concessão dos benefícios da assistência judiciária gratuita, ostenta caráter relativo, podendo o magistrado indeferir o pedido de assistência se encontrar elementos que infirmem a hipossuficiência do requerente. Reapreciação de matéria no âmbito do recurso especial encontra óbice na Súmula 7 do Superior Tribunal de Justiça" (AgRg no AREsp 820.085/PE, Rel.
+Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/02/2016, DJe 19/02/2016).
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.179.941/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 3.9.2018).
+Saliente-se, por oportuno, que "O pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado" (AgRg no Ag 881.512/RJ, Rel. Ministro CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO), QUARTA TURMA, DJe 18/12/2008).
+A propósito:
+AGRAVO INTERNO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ART. 18 DA LEI N. 7.347/85. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIA. AUSÊNCIA DE COMPROVAÇÃO. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7/STJ. LEGISLAÇÃO LOCAL. REEXAME. SÚMULA N. 280 DO STF.
+1. A ausência de prequestionamento de dispositivo legal tido por violado impede o conhecimento do recurso especial. Incidem as Súmulas n. 282 e 356 do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Para se aferir a necessidade de recolhimento das custas processuais, no presente caso, seria necessária a análise de direito local, procedimento vedado pela Súmula n. 280 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 869.532/PR, desta relatoria, QUARTA TURMA, DJe 1.8.2017).
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. NECESSIDADE DE COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É assente o entendimento nesta Corte, segundo o qual a presunção de hipossuficiência da declaração feita pelo requerente do benefício da justiça gratuita é relativa, sendo possível ao juiz exigir a sua comprovação. Precedentes do STJ.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Agravo interno não provido.
+(AgInt no AgInt no REsp 1.670.585/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 2.4.2018 - sem destaques no original).
+Diante do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
