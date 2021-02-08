@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo que objetiva o destrancamento de recurso especial fundado no art. 105, III, a, CF, arguindo violação ao art. 33 do Código Penal.
+A inadmissão do apelo nobre se deu com base na Súm. 7/STJ.
+Os recorrentes NATANAEL DO NASCIMENTO SOUZA e SILVIO WILLIANS DE ALMEIDA foram condenados pela tentativa de crime de roubo majorado, por concurso de agentes, sendo determinado ao primeiro o cumprimento de 2 (dois) anos e 26 (vinte e seis) dias de reclusão, e ao segundo o cumprimento de 1 (um) ano, 9 (nove) meses e 10 (dez) dias de reclusão, e 4 (quatro) dias multa-mínimos, ambos em regime fechado.
+Busca-se o reestabelecimento da sentença condenatória, com o regime prisional mais brando.
+A manifestação ministerial foi pelo desprovimento.
+É o relatório.
+DECIDO.
+O Tribunal local assim se manifestou(fl. 310/314):
+Os regimes iniciais estabelecidos no semiaberto para Natanael e no aberto para o Sílvio, todavia, comportam alteração, como pugnado no recursoministerial, à vista das circunstâncias do caso concreto.
+De proêmio, cabe salientar que a determinação do regime inicial de cumprimento de pena independe exclusivamente do quantum da pena imposta na sentença condenatória, devendo, sobretudo, observar as circunstâncias judiciais do artigo 59 do Código Penal, conforme comando expresso do artigo 33, § 3º, do mesmo Codex.
+In casu, tem-se que, para além da reincidência do acusado Natanael, a devida reprovabilidade das condutas concretamente aferidas nos autos indica ser de rigor a fixação do regime inicial fechado para ambos os acusados. Isso porque se trata de tentativa de roubo circunstanciado pelo concurso de pelo menos cinco agentes, contra um casal e um bebê que contava, à época, com meses de vida (conforme narrado pelas vítimas), na garagem de uma residência, com emprego de arma de fogo (embora não reconhecida a circunstância para fins de aumento de pena), delito grave que, dia após dia, atormenta a sociedade e revela a periculosidade de seus agentes, que demonstram extrema ousadia. As vítimas relataram que estavam estacionando na garagem da residência do genitor de uma delas quando foram abordadas por dois indivíduos e outros que os aguardavam na calçada, sendo que um deles, segundo os relatos, portava arma de fogo. É certo, ainda, que os acusados permaneceram próximo ao local dos fatos, o que demonstrou, no mínimo, ousadia na práticadelitiva, bem como a confiança de que não seriam encontrados, tampouco posteriormente punidos.
+Daí a impossibilidade, por ora, de os acusados retornarem ao convívio social, desautorizada, portanto, a concessão de regime menos gravoso fixado pelo E. Juízo de primeiro grau, não havendo que se falar em ofensa às Súmulas nº 718 e 719 do Supremo Tribunal Federal, tampouco em violação ao princípio da proporcionalidade, mesmo porque a fixação do regime inicial, como visto acima, considera não só o montante da pena aplicada mas, sobretudo, a gravidade concreta do delito praticado. É nesse sentido a jurisprudência sedimentada neste E. Tribunal:
+ ..
+Derradeiramente, incabível, pela reincidênciado acusado Natanael e, também por se tratar de crime cometido com grave ameaça à pessoa, a concessão de sursis ou de substituição das penas corporais por restritivas de direitos, benesses previstas a delitos de menor potencial ofensivo, e não a crimes do jaez do roubo.
+Como se observa, o Tribunal local entendeu que deveria ser fixado aos agravantes o regime fechado destacando além da reincidência de Natanael a maior gravidade delitiva pelo fato de o delito ter sido praticado diante do concurso de pelo menos cinco agentes, e por terem os acusados permanecido próximo ao local dos fatos após o crime o que permitiu a conclusão da presença deexasperada ousadia e certeza de impunidade.
+Na fixação do regime prisional deve o magistrado atentar-se ao teor das Súm.718 e 719 do STF, com a necessidade de apresentação de justificativa idônea e concreta.
+Na espécie, quanto ao agravante Natanael, verifica-se a presença de duas justificativas autônomas e idôneas, capazes de embasar o regime fechado mesmo diante da pena aplicada.
+Já no tocante ao agravante Silvio, considerando o quantitativo de pena fixado e a presença de um fundamento idôneo embasado nas circunstâncias graves do delito, possível a fixação apenas do regime intermediário.
+Ante o exposto, conheço do agravo para dar parcial provimento aorecurso especial e fixar o regime semiaberto ao agravanteSILVIO WILLIANS DE ALMEIDA, mantido no mais o édito condenatório.
+Publique-se.
+Intimem-se.
