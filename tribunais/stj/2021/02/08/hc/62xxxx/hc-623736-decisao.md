@@ -1,0 +1,24 @@
+DECISÃO
+RUAN KENNEDY DE CARVALHOalega ser vítima de coação ilegal decorrente de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais(Apelação Criminal n. 1.0024.19.039264-7/001).
+Nas razões desta impetração, a defesa aponta ilegalidade na manutenção da valoração negativa das consequências, pois a não restituição do bem à vítima, com o consequente prejuízo, não é motivação idônea para sustentar a majoração da pena-base.
+Requer, assim, a concessão da ordem, a fim de que seja fixada a pena-base no mínimo legal.
+Não houve pedido liminar.
+Prestadas as informações (fls. 516-542 e 543-575), veio o parecer do Ministério Público Federal (fls. 599-603), que opinou pela concessão parcial da ordem.
+Decido.
+Ao dosar a pena-base assim consignou o Juízo de primeiro grau:
+A conduta do réu que, é censurável, porque ele dolo agiu não dolosamente. Observa-se se, por um lado, uma o integra sobre a culpabilidade, faz-se necessária consideração ele, para se aferir a sua intensidade e o grau de reprovabilidade da conduta do réu, cuja tanto culpabilidade decorre do fato de que ele é imputável, que foi processado enão se trouxe aos autos nenhum elemento de prova em sentido contrário; consciência daí sua condenação; ele tinha a potencial da ilicitude de sua conduta, pois trata-se de pessoa esclarecida sobre a convivência social e a necessidade de respeitar o da patrimônio alheio; exigia-se do acusado conduta diversa por ele adotada.
+ ..
+O não crime deixou consequências, visto que a res furtiva foi restituída e a vitima restou ferida (fls. 319-320, grifei).
+A Corte local deu parcial provimento à apelação defensiva, a fim de afastar a valoração negativa da culpabilidade, sem, contudo, reduzir a pena. Para tanto, registrou:
+Sobre a dosimetria, entendo que não deve ser feito qualquer alteração no quantum de pena aplicado. Explico.
+Na primeira fase da dosimetria, a pena-base foi fixada em 04 (quatro) anos e 02 (dois) meses de reclusão e 12 (doze) dias-multa, por terem sido consideradas como desfavoráveis ao réu as circunstâncias judiciais atinentes à culpabilidade e consequências do delito.
+No entanto, tenho que a culpabilidade não pode ser considerada como desfavorável, uma vez que não se verifica uma censurabilidade superior àquela que já é ínsita ao tipo penal.
+Quanto às consequências, estas realmente se mostraram desfavoráveis, tendo em vista que a res furtiva não foi restituída, tendo a vítima sofrido prejuízo material.
+Registro que um dano patrimonial nem sempre é consequência lógica do delito de roubo, uma vez que bem subtraído pode ou não ser restituído à vítima, por exemplo, o que não pode ser desconsiderado quando da valoração da presenta baliza judicial.
+Assim sendo, considero como razoável a fixação da pena-base do réu em 04 (quatro) anos e 02 (dois) meses de reclusão, como realizado pelo juízo a quo, tendo em vista que fora fixada um pouco acima do mínimo legal, patamar este que considero razoável e justo para a prevenção e reprovação do crime (fls. 572-573, grifei).
+Sobre asconsequências do crime, a jurisprudência deste Tribunal Superior é firme em assinalar que a ausência de devolução do bem subtraído, por ser elemento intrínseco ao delito de roubo, não pode ser utilizada, isoladamente, para justificar a avaliação desfavorável das consequências do delito. Nesse sentido: "O fato de não ter havido a restituição dos bens subtraídos não autoriza, por si só, a valoração desfavorável das consequências do crime" (HC n. 287.449/MG, Rel. MinistroRogerio Schietti, 6ª T., DJe 12/3/2015).
+No caso, reputo ilegítima a fundamentação adotada, haja vista que o prejuízo é elemento inerente dos crimes contra o patrimônio e não foram apresentados elementos concretos, como o valor exacerbado dares furtiva, que pudessem fundamentar o recrudescimento da pena pelas consequências do delito.
+Dessa forma, identifico a violação legal apontada e afasto a valoração negativa das consequências do crime.
+Considerando os critérios adotados pelas instâncias antecedentes, verifico que a reprimenda-base do recorrente foi fixada2 meses acima do mínimo legal, por haver duas circunstâncias a ele desfavoráveis. Afastada a análise negativa da culpabilidade e das consequências, estabeleço a pena provisória em 4 anos de reclusão, mais 10 dias-multa.Na segunda fase, a pena permaneceu inalterada, pela compensação da reincidência com a confissão. Na terceira etapa, em razão da incidência da causa de aumento de concurso de pessoas, a reprimenda é elevada em 1/3, o que a torna, definitivamente, estabelecida em 5 anos e 4 meses de reclusão, mais 13 dias-multa.
+À vista do exposto,concedo a ordem, a fim de reconhecer a ilegalidade perpetrada na primeira fase da dosimetria e reduzir a pena para5 anos e 4 meses de reclusão, mais 13 dias-multa.
+Publique-se e intimem-se.
