@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que negou seguimento a recurso especial, impugnando acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. TUTELA PROVISÓRIA. CONTRATO DE PLANO DE SAÚDE COLETIVO. RESCISÃO. OFERECIMENTO DE PLANO INDIVIDUAL OU FAMILIAR.DEVIDO. VALOR DA PRESTAÇÃO. ROTINEIRO DE MERCADO. RECURSO PROVIDO.
+1. Trata-se de agravo de instrumento contra decisão da instância prima que indeferiu o pedido de tutela provisória da parte autora para que as requeridas a mantivessem no plano de saúde individual, nos moldes do coletivo, após a rescisão deste último.
+2. Julga-se prejudicado o agravo interno, quando o agravo de instrumento encontra-se maduro para julgamento, tendo em vista que a cognição deste, em tese, é maior que a cognição da tutela provisória recursal.
+3. A concessão de tutela provisória de urgência está condicionada à demonstração da probabilidade do direito e do risco de lesão grave e de difícil reparação, calcada em relevante fundamento.
+4. O artigo 1º da Resolução Normativa 19/99 do Conselho de Saúde Suplementar da Agência Nacional de Saúde prevê a possibilidade de as operadoras de planos de saúde rescindirem os contratos coletivos quando disponibilizados planos individuais aos segurados.
+5. "In casu", embora a parte agravada tenha notificado previamente à empregadora do beneficiário acerca da rescisão contratual, não consta dos termos dos documentos acostados aos autos a oferta de plano de saúde individual aos segurados do plano, medida necessária para a rescisão unilateral almejada, consoante se abstrai da interpretação da norma do art. 1º da resolução 19/1999 do CONSU. Releva notar que se deve facultar ao fornecedor manter a beneficiária no plano de saúde anteriormente contratado, acaso haja impossibilidade de fornecer o serviço na modalidade individual.
+6. Deu-se provimento ao agravo de instrumento. Agravo interno prejudicado.
+Os embargos declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, a parte agravante indica divergência jurisprudencial e violação dos arts. 1º, § 1º, da Lei n. 9.656/1998, 1º, IV,5º,II, e 170da Constituição Federal, sob a assertiva de que, cancelado o plano de saúde coletivo, não fica obrigada a disponibilizar plano individual ou familiar aos segurados, considerando que não atua nesse segmento.
+Afirmaque, "ainda que o Acórdão vergastado tenha desprezado a ressalva prevista no artigo 3º da Resolução nº 19 do CONSU/ANS, não subsiste qualquer determinação legal que obrigue a Recorrente a fornecer planos de saúde na modalidade individual/família às Recorridas" (fl. 992).Pedea concessão de efeito suspensivo ao presente apelo especial.
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o Tribunal estadual deixou registrados os seguintes fundamentos (fls 947-950):
+No caso vertente, numa análise preliminar, a partir do exame do indispensável equilíbrio entre os direitos confrontados, evidencia-se que se encontram presentes os requisitos necessários para concessão parcial da tutela provisória reivindicada.
+O artigo 1º da Resolução Normativa 19/99 do Conselho de Saúde Suplementar da Agência Nacional de Saúde, prevê a possibilidade de as operadoras de planos de saúde rescindirem os contratos coletivos quando disponibilizados planos individuais aos segurados.
+(..).
+"In casu", embora a CAIXA SEGURADORA e a PAR SAÚDE tenham notificado previamente à empregadora da agravada acerca da rescisão contratual (ID 10899147, pág. 36), verifica-se que nãohouve a oferta de plano de saúde individual ou familiar aos segurados, arcando estes com os custos correspondentes à sua participação e à relativa ao empregador, conforme determina a norma supracitada.
+Deveras, a Lei 9.656/98, que regula os planos e seguros privados de assistência à saúde, não impede a resilição dos contratos coletivos de assistência médica celebrados entre as operadoras de planos de saúde e as empresas privadas.
+Todavia, conforme preconiza a Resolução Normativa 19/1999 do Conselho de Saúde Suplementar (CONSU), para o cancelamento unilateral dos contratos coletivos empresariais deve ser oferecida aos beneficiários a possibilidade de migração, com isenção de carência, para plano ou seguro de assistência à saúde na modalidade individual ou familiar.
+(..).
+Destarte, a probabilidade do direito restou demonstrada, assim como o perigo da demora de um provimento jurisdicional está presente, tendo em vista que os agravantes, em especial a segunda recorrente que está em tratamento de saúde, necessitam de serem mantidos em plano de saúde.
+Releva notar que eventual impossibilidade de as agravadas fornecerem o serviço de plano de saúde na modalidade individual, deve ser facultado ao fornecedor a possibilidade de manter os beneficiários no plano de saúde anteriormente contratado, como o fez a CAIXA SEGURADORA.
+Quanto à impossibilidade de a agravante manter a segurada em plano de saúde, a interessada não se desincumbiu do seu ônus processual, coligindo documentos hábeis para tal mister.
+Dessa forma, por imposição legal, é "garantido aos filiados de plano de saúde coletivo, no caso de cancelamento desse benefício, a possibilidade de migrarem para outros planos, seja na modalidade individual ou familiar, sem a necessidade de cumprimento de novos prazos de carência."
+(..).
+Ante o exposto, DOU PROVIMENTO ao recurso e o pedido de tutela de urgência para DEFIRO determinar à parte requerida que disponibilize aos autores, no prazo de cinco dias, plano individual ou familiar, mantendo-se a cobertura de atendimento do contrato coletivo anteriormente celebrado, no valor de mercado, de acordo com tabela da ANS, atentando a faixa etária dos agravantes, sendo certo que a agravada deverá informar o valor da mensalidade do plano de saúde documentalmente, nos autos, para que os agravantes promovam os respectivos pagamentos mensais.
+No caso em exame, o Tribunal de origem decidiu a causa em sintonia com a jurisprudência desta Corte, a qual entende que, cancelado o contrato de plano de saúde coletivo, não há fundamento legal para obrigar a seguradora a manter o ex-empregado da estipulante no plano de saúde coletivo extinto, com as mesmas condições e valores anteriormente vigentes. No mais, osegurado que tiver interesse em manter os serviços assistenciais da antiga operadora tem o direito de migrar para seguro saúde individual ou familiar, sem imposição de novos prazos de carência, sendo, portanto, incabívelo cancelamento do plano enquanto perdurar o tratamento médico que assegura a sobrevivência do beneficiário.
+A propósito, vejam-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/2015). RESCISÃO DO PLANO ENTRE A OPERADORA E A EX-EMPREGADORA.PRETENSÃO DO DEMANDANTE DE MANUTENÇÃO DO PLANO NAS MESMAS CONDIÇÕES DE COBERTURA E PAGAMENTO. PRETENSÃO DE ESCOLHER A OPERADORA.IMPOSSIBILIDADE. PRECEDENTES. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Controvérsia que cinge-se a determinar se ao ex-empregado deve ser assegurada a sua manutenção como beneficiário de plano de saúde coletivo extinto por resilição de iniciativa da empregadora estipulante.
+2. Segundo a orientação jurisprudencial desta Corte, cancelado o contrato de plano de saúde coletivo, não há fundamento legal para obrigar a seguradora a manter o ex-empregado da estipulante no plano de saúde coletivo extinto, com as mesmas condições e valores anteriormente vigentes.
+3. O segurado que tiver interesse em manter os serviços assistenciais da antiga operadora tem o direito de migrar para seguro saúde individual ou familiar, sem imposição de novos prazos de carência, o que implica, porém, aceitar as novas regras e encargos inerentes à essa modalidade contratual.
+4. Precedentes específicos das Turmas de Direito Privado do STJ.
+5. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1791515/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/02/2020, DJe 26/02/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. IRRESIGNAÇÃO SUBMETIDA AO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL FORMULADA DE MODO GENÉRICO. SÚMULA Nº 284 DO STF. EXTINÇÃO DO CONTRATO CELEBRADO ENTRE A OPERADORA DO PLANO E A EMPRESA ESTIPULANTE. IMPOSSIBILIDADE DE OBRIGAR O PLANO DE SAÚDE A MANTER APÓLICE. NECESSIDADE, TODAVIA, DE ASSEGURAR A COBERTURA ENQUANTO DURAR O TRATAMENTO MÉDICO QUE VIABILIZA A SOBREVIVÊNCIA DO SEGURADO OU DEPENDENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. De plano, vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Incide, nesses casos, a Súmula nº 284 do STF. Precedentes.
+3. A jurisprudência desta Corte orienta que não é possível obrigar a operadora de plano de saúde a manter válidas, para um único segurado, as condições e cláusulas previstas em contrato coletivo de assistência à saúde já extinto pelo estipulante.
+4. Incabível, porém, o cancelamento do plano enquanto perdurar o tratamento médico que assegura a sobrevivência do beneficiário.
+Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp 1818484/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020.)
+Incide, portanto, o enunciado 83 da Súmula desta Corte Superior.
+Diante do exposto, nego provimento ao agravo.
+Fica prejudicado o pedido de efeito suspensivo ao recurso especial.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil, tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória.
+Intimem-se.
