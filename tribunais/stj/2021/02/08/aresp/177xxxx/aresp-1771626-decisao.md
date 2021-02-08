@@ -1,0 +1,47 @@
+DECISÃO
+MARCEL ADRIANO QUEIROZ DE SANTA ROZA (MARCEL) ajuizou ação de indenização por danos morais e estéticos contra FLÁVIO DUTRA BORBA (FLÁVIO)decorrente de agressões físicas e verbais ocorridasem briga de trânsito.
+Em primeira instância, o pedido foi julgado parcialmente procedente para condenar o réu FLÁVIO ao pagamento de danos morais no valor de R$ 12.000,00 (doze mil reais). Sucumbência recíproca(e-STJ, fls. 327/346).
+O Tribunal de Justiça do Sergipe deu provimentoao recurso de apelação interposto por MARCEL para majorar a condenação por danos morais para R$ 25.000,00 (vinte e cinco mil reais), desprovendo o apelo de FLÁVIO, em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E ESTÉTICO. BRIGA DE TRÂNSITO.AGRESSÕES VERBAIS E FÍSICAS. CONFIGURAÇÃO DO ILÍCITO COMETIDO PELO DEMANDADO. DEVER DE INDENIZAR O DEMANDANTE PELO ABALO MORAL SOFRIDO. MAJORAÇÃO DO VALOR FIXADO EM 1ª INSTÂNCIA. OBSERVÂNCIA DO CARÁTER PUNITIVO E PREVENTIVO. NÃO CABIMENTO DE DANO ESTÉTICO. CONDENAÇÃO DO DEMANDADO AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS PELA IMPROCEDÊNCIA DA RECONVENÇÃO.REFORMA PARCIAL DA SENTENÇA. RECURSOS CONHECIDOS. PARCIAL PROVIMENTO DO APELO AUTORAL E DESPROVIMENTO DO RECURSO DO RÉU. DECISÃO UNÂNIME(e-STJ, fl. 485).
+Os embargos de declaração opostos por FLÁVIO foram rejeitados com imposição de multa (e-STJ, fls. 708/715 e 744/751) .
+Inconformado, FLÁVIO interpôs recurso especial com fulcro no art. 105, III, a, da Constituição Federal apontando violação dos arts. 489, II e § 1º e 1.022 do NCPC;186, 188, I, 927 e 944 do CC/02, ao sustentar, em síntese (1) negativa de prestação jurisdicional por omissão do aresto recorrido; (2) inexistência de ato ilícito em razão da legítima defesa, bem como pela ocorrência de agressões recíprocas, não havendo que se falar em indenização por danos morais; (3) que os danos morais foram arbitrados em valor excessivo, devendo sofrer redução.
+Em juízo de admissibilidade, a vice-presidência do TJSE inadmitiu o apelo nobre. Dessa decisão, foi interposto o presente agravo em recurso especial.
+Contraminuta apresentada (e-STJ, fls. 628/637).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que os recursos ora em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da alegação de negativa de prestação jurisdicional
+Não há falar em negativa de prestação jurisdicional, tendo em vista que o Tribunal a quo, ao rejeitar os dois embargos de declaração opostos pelorecorrente, inclusive como imposição de multa, reconheceu inexistir omissão no acórdão recorrido, tendo sido a matéria enfrentada pelo Tribunal local, que emitiu pronunciamento, de forma fundamentada, ainda que de forma contrária ao pretendido pela parte.
+O que se vê, na verdade, é a irresignação da recorrente com o resultado que lhe foi desfavorável, pretendendo, por meio do recurso aclaratório, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados no aludido dispositivo da lei adjetiva civil.
+Portanto, tendo sido apresentada fundamentação suficiente para solucionar a controvérsia, ainda que em sentido contrário à pretensão do recorrente, não há que se falar negativa de prestação jurisdicional.
+(2) Da alegação de inexistência da prática de ato ilícito
+O TJSE, após análise do conjunto fático-probatório dos autos, concluiu que houve a prática de ato ilícito, não havendo que se falar em legítima defesa. Confira-se o aresto recorrido:
+Analisando detidamente os autos, especialmente a mídia acostada, restou inconteste que o demandado agiu de forma ilícita desde o início do corrido, não havendo que se falar em legítima defesa.
+Vê-se que o réu adentrou na contra-mão de via pública pela qual o autor trafegava. Na sequência, de forma imediata, por deduzir que oautor havia te trancado, faz conversão naquela pista e segue o carro do demandante e, conforme confessado vai tomar satisfação com o mesmo.
+Na frente do prédio do demandante, quando este manobrava para adentrar na garagem, o requerido o tranca e desce do carro de forma rápida e agressiva, partindo para vias de fato, tendo o autor que revidar para se defender.
+Diferentemente do alegado pelo réu, quem agiu em legítima defesa foi o autor. Patente, portanto, que requerido foi quem iniciou as agressões físicas e verbais.
+Assim, comprovado o comportamento ilícito do requerido, deve o mesmo ser condenado a reparar o abalo moral sofrido pelo demandante, o qual mostra-se evidente, eis que todo o infortúnio ocorreu em via pública, de grande movimento, especificamente, em frente ao prédio em que morava.
+As agressões sofridas foram não só morais, mas também físicas, lesionando sua face, conforme se observa das fotos colacionadas ao feito (e-STJ, fl. 487).
+Assim, ultrapassar a conclusão a que chegou o eg. Tribunal a quo, demandaria nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7 desta Corte: A pretensão de simples reexame de prova não enseja recurso especial.
+(3) Dano Moral - Quantum
+A lei não fixa valores ou critérios para a quantificação do dano moral, que entretanto deve ter assento na regra do art. 944 do CC/02. Por isso, esta Corte tem se pronunciado reiteradamente no sentido de que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+Desta forma, a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+A propósito:
+RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. QUANTUM INDENIZATÓRIO. OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. SÚMULA 7/STJ.
+AGRAVO DESPROVIDO.
+1. O valor fixado a título de indenização por danos morais pelas instâncias ordinárias, nos termos da jurisprudência deste Tribunal, pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de proporcionalidade e de razoabilidade, os quais não se evidenciam no presente caso, de modo que a sua revisão também encontra óbice na Súmula 7 do STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1375819/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 29/04/2019, DJe 06/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A Corte local concluiu estarem presentes os requisitos que ensejam a responsabilidade civil e julgou procedente o pedido de indenização por dano moral. Para alterar este entendimento seria necessário o revolvimento fático-probatório dos autos, providência vedada mediante o óbice da Súmula 7/STJ.
+2. A revisão da indenização por dano moral apenas é possível na hipótese de o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe reexaminar referido o valor, uma vez que tal análise demanda incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1467944/GO, Rel. Ministro MARCO BUZZI, Quarta Turma, j. em 12/08/2019, DJe 15/08/2019)
+No caso concreto, o valor fixado pelo Tribunal a quo para a indenização por danos morais (R$ 25.000,00 - vinte e cinco mil reais), não se mostra exorbitante a justificar a excepcional intervenção desta Corte no presente feito.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO em 5% os honorários advocatícios anteriormente fixados em desfavor de FLÁVIO, nos termos do art. 85, § 11 do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. BRIGA DE TRÂNSITO. AGRESSÕES VERBAIS E FÍSICAS. ATO ILÍCITO CONFIGURADO. LEGÍTIMA DEFESA. AUSÊNCIA. DANO MORAL. RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA.ATO ILÍCITO CONFIGURADO. LEGÍTIMA DEFESA. AUSÊNCIA. DANO MORAL. QUANTUM. RAZOABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7, DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
