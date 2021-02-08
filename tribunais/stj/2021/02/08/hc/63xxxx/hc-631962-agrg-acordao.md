@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS.PRISÃO PREVENTIVA. TRÁFICO ILÍCITO DE ENTORPECENTES.WRITINDEFERIDO LIMINARMENTE. SÚMULA N. 691 DO STF. INCIDÊNCIA.REQUISITOS DA PREVENTIVA. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabehabeas corpus contra o indeferimento de medida liminar impetradana origem, salvo noscasos de flagrante ilegalidade ou de teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula n. 691 do STF).
+2. Aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JULIANO FADEL BAPTISTA contra a decisão de fls. 142-143, que, com fundamento na Súmula n. 691 do STF, indeferiu liminarmente o habeas corpus, pois impetrado contra indeferimento de pedido de liminar no writ originário.
+Defendendo a necessidade de superação da referida súmula, o agravante requer a reconsideração da decisão agravada e, consequentemente, a concessão da ordem para que a prisão preventiva seja revogada por não haver fundamentação idônea no respectivo decreto.
+Aduz que a decisão foi baseada na existência de supostosindícios de materialidade e de autoria dos delitos de tráfico e de associação para o tráfico,na alegada gravidade desses delitos,nareincidência específicae na existência de risco abstrato à ordem pública, à conveniência da instrução criminal e à futura aplicação da lei penal.
+Ressaltaainda que a quantidade de drogas apreendida é ínfima(8,44g de maconha), não sendo capaz de conferir gravidadeaos referidos crimes.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS.PRISÃO PREVENTIVA. TRÁFICO ILÍCITO DE ENTORPECENTES.WRITINDEFERIDO LIMINARMENTE. SÚMULA N. 691 DO STF. INCIDÊNCIA.REQUISITOS DA PREVENTIVA. AUSÊNCIA DE TERATOLOGIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não cabehabeas corpus contra o indeferimento de medida liminar impetradana origem, salvo noscasos de flagrante ilegalidade ou de teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula n. 691 do STF).
+2. Aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+3. Agravo regimental desprovido.
+VOTO
+A decisão agravada não merece reparos.
+Reitere-se que amatéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+O entendimento pacificado pelo STJé que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade ou de tetralogia da decisão singular. Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Assim, somente "em casos excepcionais e em circunstâncias fora do ordinário,  admite-se  o temperamento na aplicação da Súmula n. 691 do Supremo Tribunal. Essa excepcionalidade fica demonstrada nos casos em que se patenteie flagrante ilegalidade ou contrariedade a princípios constitucionais ou legais na decisão questionada" (HC n. 120.274/ES, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 20/6/2014).
+Ademais, aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+A exigência acima, em princípio, foi cumprida, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, conforme consignado na decisão que indeferiu o pedido de liminar na origem (fls. 32-34):
+De acordo com o relatório final juntado pela autoridade policial a fls. 597/605 dos autos originários, " ..  o Relatório SIG de fls. 293 a 315 referente ao conteúdo do aparelho celular de Wagner Cesar Vaceli Junior indica em conversas por escrito e áudio que entre os dias 30.04.2020 e 02.05.2020 Juliano Fadel Baptista com auxílio de Wagner Cesar Vaceli Junior trouxe a Rancharia dezoito quilos de maconha.
+Que a maconha foi guardada por Wesley Isnaite Barbosa de Lima, vulgo Birinaite, e distribuídas para Kaue Bonifácio Nicácio e André Oliveira dos Santos, vulgo André Rancharia. Kaue Bonifácio Nicácio ficou com 17 quilos de maconha e André Rancharia com 1 quilo.
+Há vídeos de drogas, armas e dinheiro sendo que em um deles Wagner Cesar Vaceli Junior usa notas de R$100,00 como abanador.
+No mesmo relatório há a descrição de um vídeo de pesagem de drogas enviado por Juliano Fadel Baptista para Wagner Cesar Vaceli Junior em 14.04.2020.
+Ressaltamos que a balança usada nesta pesagem de drogas é a mesma balança apreendida no dia 09.05.2020 na posse de Wagner Cesar Vaceli Junior.
+ ..  Laudo IC n. 351058/2020 de fls. 398 a 414 informa que as imagens referente a pesagem de drogas datada de 14.04.2020 no aparelho celular de Wagner Cesar Vaceli Junior e a ele encaminhadas por Juliano Fadel Baptista ao serem comparadas com imagens feitas na residência de n. 191, rua Maria Quitéria, n. 191, centro, nesta, indicam que o vídeo de pesagem de drogas foi realizado na residência de Juliano Fadel Baptista. Também informa que a balança apreendida com Wagner Cesar Vaceli Junior, RDO 818/2020, é a mesma utilizada na pesagem de maconha.
+ ..  Juliano Fadel Baptista foi o responsável pela pesagem de considerável quantidade de drogas em 14.04.2020, cujo número de tijolos deixa bem claro ser destinado ao tráfico de drogas. Fato provado no laudo pericial n. 351058/2020 que ao comparar as imagens de pesagem de drogas com imagens feitas na residência de Juliano Fadel, sito a rua Maria Quitéria, n. 191, centro, Rancharia/SP conclui que ambas as filmagens foram realizadas no mesmo local.
+Juliano Fadel Baptista foi o responsável em trazer para Rancharia em 02.05.2020 18 quilos de maconha, as quais foram destinadas ao tráfico de drogas" (sic)
+E, como bem ponderado pela meritíssima Juíza a quo, " ..  pelas diligências efetuadas pela polícia civil, verifica-se que os acusados comandavam, nesta comarca, intensa distribuição de drogas entre eles para posterior comércio. Ademais, como apontado nas investigações, os denunciados buscavam drogas em outro Estado, combinando a melhor rota e mantendo contato durante todo o trajeto. Além disso os investigados Juliano Fadel Baptista, Kaue Bonifácio Nicácio, Wagner César Vaceli Júnior e Wesley Ysnaite Barbosa dos Santos Lima ostentam condenações anteriores, o que indica risco de reiteração de conduta criminosa, sobretudo relacionadas ao tráfico de drogas, razão pela qual faz-se necessário resguardar a ordem pública, preenchido assim o requisito do art. 313, do Código de Processo Penal" (fls. 665/669 dos autos originários).
+Ainda que a quantidade de droga apreendida com o paciente seja pequena  01 (uma) porção de "maconha", com peso total líquido de 8,44g (oito gramas e quarenta e quatro centigramas) , existem fortes indícios de que ele pratica o comércio espúrio e se associou aos demais denunciados para a prática da mercancia ilícita como meio de vida, ao menos alternativo, até porque se trata de agente reincidente específico.
+Inafastável, portanto, a incidência da Súmula n. 691 do STF.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
