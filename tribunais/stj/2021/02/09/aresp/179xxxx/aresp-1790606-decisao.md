@@ -1,0 +1,17 @@
+DECISÃO
+ESIQUIEL DA LUZ OESTERREICH e CRISTIANO ALVES DE OLIVEIRAinterpõem agravo em recurso especial contra a decisão que inadmitiu seu recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina na Apelação n. 0000715-61.2019.8.24.0057.
+I. Agravo de Esiquiel
+Na decisão que inadmitiu o recurso especial interposto por Esiquiel da Luz Oesterreich, o Tribunal de Justiça apontou os seguintes óbices: (a) incidência da Súmula n. 7 do STJ, (b) aplicação da Súmula n. 83 do STJ, (c) ausência de cotejo analítico da alegada divergência, (d) ausência de competência do STJ para análise de violação constitucional, (e) não cabimento do recurso especial para discussão de violação à Súmula, (f) ausência de prequestionamento.
+Na peça de fls. 1.264-1.291, o agravante alega que a decisão que inadmitiu o recurso especial é genérica e aborda "questões  que  são concernentes exclusivamente ao mérito do recurso especial, cuja apreciação não compete ao Exmo. Sr. Presidente do E. Tribunal a quo" (fl. 1.280). Afirma, ainda, não pretender o reexame da provas e não ser caso de incidência da Súmula n. 83 do STJ.
+Assim, verificado que o insurgente deixou de rebater a ausência de cotejo analítico da alegada divergência, ausência de competência do STJ para análise de violação constitucional,não cabimento do recurso especial para discussão de violação à Súmula eausência de prequestionamento.
+Logo, incide a Súmula n. 182 do STJ, pois é inviável o agravo que deixa de atacar especificamente os fundamentos da decisão de inadmissibilidade do recurso especial.
+II. Agravo de Cristiano
+O agravo do acusado Cristiano é tempestivo e infirmou os fundamentos da decisão recorrida.
+Entretanto, nas razões do recurso especial de fls. 1.412-1.436, a defesa busca o redimensionamento da reprimenda, com a redução da pena-base ao mínimo legal, a incidência da minorante prevista no art. 33, § 4º, da Lei de Drogas, a fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Quanto ao pedido de redução da pena-base, noto que a defesa deixou de mencionar expressamente dispositivo de lei federal supostamente violado, de modo que foi descumprido requisito imprescindível para o conhecimento do recurso, a teor do Enunciado Sumular n. 284 do Supremo Tribunal Federal, observado por esta Corte, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Quanto aos demais pleitos, em consulta processual realizada na página eletrônica desta Corte Superior de Justiça, verifico que, contra o acórdão proferido nos autos da Apelação Criminal n. 0000715-61.2019.8.24.0057, a defesa também impetrou o HC n. 592.961/SC em favor do ora recorrente, o qual já foi julgado por este Superior Tribunal e teve a ordem denegada.
+Dessa forma, fica esvaída a análise das questões suscitadas no recurso especial.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheçodoagravoem recurso especial interposto porEsiquiel da Luz Oesterreich.
+Além disso,conheço do agravo de Cristiano Alves de Oliveirapara, com fundamento no art. 932,III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ,nãoconhecer do recurso especial.
+Publique-se e intimem-se.
