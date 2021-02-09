@@ -1,0 +1,121 @@
+EMENTA
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. OFICIAL INTERINO. DESIGNAÇÃO PARA ASSUMIR CARGO ANTERIORMENTE OCUPADO POR FAMILIAR. NEPOTISMO. INADMISSIBILIDADE. SÚMULA VINCULANTE 13/STF. VIOLAÇÃO DOS PRINCÍPIOS DA IMPESSOALIDADE E DA MORALIDADE. NOMEAÇÃO A TÍTULO PRECÁRIO. POSSIBILIDADE DE REVOGAÇÃO. RECURSO NÃO PROVIDO.
+HISTÓRICO DA DEMANDA
+1. Trata-se, na origem, de Mandado de Segurança impetrado por Oficial Substituto do Cartório do 1º Ofício e Cartório de Registro de Imóveis da Comarca de Natércia/MG contra Portaria 3/2019 do Juiz Diretor do Foro da Comarca de Natércia, a qual exonerou o impetrante de interino da referida serventia, com base no Provimento 77/2018 do CNJ e no Aviso 4/CGJ do TJ/MG.
+2. O Tribunal de Justiça de Minas Gerais denegou a segurança.
+AUSÊNCIA DE NULIDADE: COMPETÊNCIA DELEGADA DO MAGISTRADO DE PRIMEIRA INSTÂNCIA. APLICAÇÃO DA SÚMULA 510/STF
+3. A alegação de nulidade da decisão proferida pelo magistrado de primeira instância deve ser rechaçada. No caso houve delegação de competência, de modo que incide a Súmula 510 do STF: " Praticado o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou medida judicial."
+4. A Portaria 3/2019 do Juiz Diretor do Foro da Comarca de Natércia, ao exonerar o impetrante em exercício como interino do Cartório do 1º Tabelionato de Notas do Município e Comarca de Natércia/MG e nomear como interno titular do Cartório do 2º Tabelionato de Notas do Município e Comarca de Natércia-MG, deu cumprimento ao Aviso 4/CGJ do TJ/MG, que determinou a adoção das medidas para atender ao Provimento da Corregedoria Nacional de Justiça 77, de 7 de novembro de 2018.
+INADMISSIBILIDADE DE DESIGNAÇÃO DE INTERINO PARA ASSUMIR CARGO ANTERIORMENTE OCUPADO POR FAMILIAR. NEPOTISMO CONFIGURADO. JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA
+5. O Apelo não comporta provimento porque o aresto vergastado está em conformidade com a jurisprudência do Superior Tribunal de Justiça, no sentido de que a assunção temporária de serventias extrajudiciais submete-se à vedação de nepotismo prevista da Súmula Vinculante 13/STF e ao Enunciado Normativo n. 1 do CNJ. Precedentes.
+AUSÊNCIA DE CERCEAMENTO DE DEFESA
+6. Igualmente descabida a tese de cerceamento de defesa, porque o STJ entende que, em se tratando de ocupação precária de cargo por designação, pode a Administração destacar o serventuário do cargo a qualquer tempo, conforme lhe convenha.
+CONCLUSÃO
+7. Recurso Ordinário não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao recurso ordinário, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Recurso Ordinário em Mandado de Segurança interposto, com fundamento no art. 105, II, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+MANDADO DE SEGURANÇA - OFICIAIS INTERINOS - SERVENTIAS EXTRAJUDICIAIS VAGAS - NEPOTISMO -INADMISSIBILIDADE - PROVIMENTO 77/2019 DO CNJ - LEGALIDADE -DESIGNAÇÃO - REVOGAÇÃO - POSSIBILIDADE - DIREITO LIQUIDO E CERTO - VIOLAÇÃO NÃO CONFIGURADA.
+O Conselho Nacional de Justiça, ao editar o Provimento nº 77/2019, zela pela observância do artigo 37, da Constituição da República, e reforça a vedação de práticas de nepotismo nas serventias extrajudiciais vagas.
+O oficial substituto interino de serventia extrajudicial vaga se submete aos princípios constitucionais da administração pública, dentre eles o da moralidade e da impessoalidade, pois são delegatários de serviços públicos, o que impõe a vedação de qualquer prática de nepotismo na designação com vínculo de parentesco com os ex-tabeliães.
+O recorrente alega:
+Ao contrário do que decidiu o v. acórdão recorrido, a Portaria nº 03, de 21/3/2019, de exoneração do recorrente do cargo e das funções do Cartório do 1º Tabelionato de Notas da Comarca de Natércia, com a nomeação interina do titular do Cartório do 2º Tabelionado de Notas da mesma Comarca, sem concurso, é manifestamente ilegal, abusiva, arbitrária e nula de pleno direito, a ferir de direito líquido e certo, de permanecer no referido, ao menos, até a realização de concurso, para provimento do referido cartório. Afronta o art. 5º, XXXVI, XLVII, "b", LIV, LV, da CF/88, art. 24, da LINDB, art. 2º, "a", par. único, "a", da Lei 4.717/65, a Resolução nº 80, de 9/6/2009, do c. Conselho Nacional de Justiça, art. 3º, § 1º, as garantias do devido processo legal, do contraditório e da ampla defesa, os princípios da segurança jurídica, estabilidade das relações jurídicas, boa-fé, proteção à confiança legítima, legalidade, isonomia, da proporcionalidade, razoabilidade, a lógica do razoável, e a dignidade da pessoa humana de ntre outros.
+A Portaria 3/2019 atacada fundamenta a exoneração do recorrente, no Provimento nº 77/2018, do eg. CNJ e no art. 2º, § 2º do Aviso 4/CGJ/2019.
+(..)
+O titular do Cartório do 1º Ofício e do Cartório de Imóveis da Comarca de Natércia, era avô materno do recorrente, sr. José Paulo de Siqueira, que se aposentou compulsoriamente no ano de 1987, razão pela qual, foi expedida a Portaria de designação de 12/2/1987. Sendo que, o titular faleceu em 19/7/2003 (certidão de óbito doc. nº 8). Ou seja, a designação se deu há mais de 32 anos, e o falecimento do avô há mais 15 anos, muito antes da nova interpretação.
+Assim, não há que se falar em regra de nepotismo, para o caso em questão.
+(..)
+Mesmo a Súmula Vinculante 13 do eg. STF, que deu nova interpretação ao nepotismo, datada de 29/8/2008, é posterior à designação de 16/9/1983, de 7/12/1983 e de 12/2/1987, à aposentadoria do avô materno, da titularidade dos cartórios (fevereiro de 1987), e cinco anos posterior à morte deste, de 19/7/2003.
+O Aviso nº 4/CGJ é datado de 18/1/2019, superior a todas as datas dos atos e fatos supra mencionados.
+(..)
+Não houve e não poderia haver interferência do avô do recorrente na sua designação, pois como muito bem observado pelo voto vencido, aquele se aposentou em fevereiro de 1987, e faleceu 19/7/2003. Nesta cronologia é impossível configurar nepotismo, data venia.
+(..)
+Por outro giro, as novas normas, orientações e interpretações, não podem retroceder, para atingir situações consolidadas, por força do princípio da segurança jurídica, da estabilidade das relações jurídicas, da boa-fé, e da proteção à confiança legítima.
+(..)
+Ora, exonerar o recorrente do Cartório do 1º Tabelionato, para nomear outro interino, também sem concurso, fere de morte o princípio da estabilidade das relações jurídicas, da segurança jurídica, da proteção à confiança legítima. Pois, tal medida só se justificaria, caso houvesse alguma pessoa previamente aprovada em concurso, para tanto. Trocar interino, por outro interino, não muda a relação jurídica, data venia.
+(..)
+A Portaria 03/2019, ora atacada, que exonerou o recorrente, proferida pelo MM. Juiz de Direito impetrado, também não constitui decisão administrativa motivada e individualizada de Tribunal, já que se trata de Magistrado de primeira instância.
+(..)
+Em suma, não há decisão do eg. TJMG motivada e individualizada de exoneração do recorrente, do cargo e dos exercícios da função no Cartório do 1º Tabelionato de Notas da Comarca de Natércia; e a Portaria 03/2019 padece do vício de incompetência, sendo nula de pleno direito
+O Ministério Público Federal opinou pelo não provimento do recurso em parecer cuja ementa é abaixo transcrita:
+RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. SERVENTIA EXTRAJUDICIAL. CARTÓRIO. PREENCHIMENTO DE VAGAS. NEPOTISMO. REVOGAÇÃO DE DESIGNAÇÃO. POSSIBILIDADE. AUSÊNCIA DE ABUSIVIDADE. NÃO DEMONSTRADA A LIQUIDEZ E CERTEZA DO DIREITO POSTULADO. EVIDENCIADA A REGULARIDADE E LEGALIDADE DO ATO ATACADO. PRECEDENTES DO STF E DO STJ.
+- Parecer pelo desprovimento do recurso.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator):
+1. Histórico da demanda
+Trata-se, na origem, de Mandado de Segurança impetrado por Oficial Substituto do Cartório do 1º Ofício e Cartório de Registro de Imóveis da Comarca de Natércia/MG contra Portaria 3/2019 do Juiz Diretor do Foro da Comarca de Natércia, a qual exonerou o impetrante de interino da referida serventia, com base no Provimento 77/2018 do CNJ e no Aviso 4/CGJ do TJ/MG.
+O Tribunal de Justiça de Minas Gerais denegou a segurança.
+2. Ausência de nulidade: competência delegada do magistrado de primeira instância. Aplicação da Súmula 510/STF
+A alegação de nulidade da decisão proferida pelo magistrado de primeira instância deve ser rechaçada. No caso houve delegação de competência, de modo que incide a Súmula 510 do STF: "Praticado o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou medida judicial".
+Com efeito, a Portaria 3/2019 do Juiz Diretor do Foro da Comarca de Natércia, ao exonerar o impetrante em exercício como interino do Cartório do 1º Tabelionato de Notas do Município e Comarca de Natércia/MG e nomear como interno titular do Cartório do 2º Tabelionato de Notas do Município e Comarca de Natércia-MG, deu cumprimento ao Aviso 4/CGJ do TJ/MG, que determinou a adoção das medidas para atender ao Provimento da Corregedoria Nacional de Justiça 77, de 7 de novembro de 2018, como se apura dos trechos abaixo copiados:
+AVISO Nº 4/CGJ/2019
+Avisa sobre a publicação do Provimento da Corregedoria Nacional de Justiça nº 77, de 7 de novembro de 2018, que dispõe sobre a designação de responsável interino pelo expediente dos serviços notariais e de registro.
+O CORREGEDOR-GERAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, no uso das atribuições que lhe conferem os incisos I e XIV do art. 32 do Regimento Interno do Tribunal de Justiça do Estado de Minas Gerais, aprovado pela Resolução do Tribunal Pleno nº 3, de 26 de julho de 2012, CONSIDERANDO a obrigação dos serviços extrajudiciais de cumprir as normas técnicas estabelecidas pelo Poder Judiciário, nos termos dos arts. 37 e 38 da Lei nº 8.935, de 18 de novembro de 1994, que "regulamenta o art. 236 da Constituição Federal, dispondo sobre serviços notariais e de registro. (Lei dos cartórios)";
+CONSIDERANDO a publicação do Provimento da Corregedoria Nacional de Justiça nº 77, de 7 de novembro de 2018, que dispõe sobre a designação de responsável interino pelo expediente dos serviços notariais e de registro;
+CONSIDERANDO que o art. 8º do Provimento da CNJ nº 77, de 2018, determina que os Tribunais deverão adequar as designações dos atuais interinos, em até 90 (noventa) dias;
+CONSIDERANDO o que ficou consignado no processo do Sistema Eletrônico de Informações - SEI nº 0132203-59.2018.8.13.0000,
+AVISA aos juízes de direito, servidores, notários e registradores do Estado de Minas Gerais, para ciência e adoção de eventuais providências, que foi publicado o Provimento da Corregedoria Nacional de Justiça nº 77, de 7 de novembro de 2018, que dispõe sobre a designação de responsável interino pelo expediente de serventias extrajudiciais vagas.
+AVISA, também, que os oficiais interinos deverão preencher declaração, conforme modelo anexo ao presente Aviso, com posterior remessa à Direção do Foro da comarca e à Corregedoria-Geral de Justiça do Estado de Minas Gerais - CGJ, até o dia 5 de fevereiro de 2019, informando se as restrições contidas no § 2º do art. 2º e no art. 3º do Provimento da CNJ nº 77, de 2018, lhe são aplicáveis."
+O Aviso 4/CGJ do TJ/MG, por sua vez, foi editado para observância do Provimento 77/2018 do CNJ, in verbis:
+Art. 2º Declarada a vacância de serventia extrajudicial, as corregedorias de justiça dos Estados e do Distrito Federal designarão o substituto mais antigo para responder interinamente pelo expediente.
+(..)
+§ 2º A designação de substituto para responder interinamente pelo expediente não poderá recair sobre cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau do antigo delegatário ou de magistrados do tribunal local.
+(..)
+Art. 5º. Não havendo substituto que atenda aos requisitos do § 2º do art. 2º e do art. 3º, a corregedoria de justiça designará interinanmente, como responsável pelo expediente, delegatário em exercício no mesmo município ou no município contíguo que detenha uma das atribuições do serviço vago.
+(..)
+3. Inadmissbilidade de designação de interino para assumir cargo anteriormente ocupado por familiar. Nepotismo configurado. Jurisprudência do Superior Tribunal de Justiça
+Quanto ao mérito da controvérsia, o Tribunal a quo consignou (fls. 113-)
+Conclui-se, portanto, que não há ilegalidade no ato normativo contido no Provimento 77/2018 do CNJ, que coibe práticas de nepotismo, para validar os princípios constitucionais que regem a Administração Pública e, repita-se, o serviço público delegado à impetrante, eis que a nomeação de parentes ofende os princípios da moralidade e da impessoalidade.
+Há que se registrar que o cumprimento do Provimento 77/2018 do CNJ, por meio do Aviso da Corregedoria nº 04/CGJ/2019, determinado no ato coator que destituiu o impetrante do seu cargo, apenas ratifica o dever do Tribunal de Justiça do Estado de Minas Gerais em reconhecer a inconstitucionalidade de atos normativos que vedam a aplicação do disposto no art. 37 da CR, bem como a prática de nepotismo.
+Desta forma, não verifico qualquer violação ao direito líquido e certo da impetrante, que, aliás, somente assumiu a interinidade porque antes havia sido indicada à função de escrevente substituta, por delegatário antecessor (seu avô materno), do qual, à época, era parente até o terceiro grau, em flagrante prática de atos de nepotismo, não mais admissível pela ordem constitucional em vigor.
+O Apelo não comporta provimento porque o aresto vergastado está em conformidade com a jurisprudência do Superior Tribunal de Justiça de que a assunção temporária de serventias extrajudiciais submete-se à vedação de nepotismo prevista na Súmula Vinculante 13/STF e ao Enunciado Normativo n. 1 do CNJ.
+A propósito:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATIVIDADE NOTARIAL E DE REGISTRO. SERVIÇO PÚBLICO DELEGADO PELO ESTADO. SUBMISSÃO AOS PRINCÍPIOS CONSTITUCIONAIS DA LEGALIDADE, MORALIDADE, IMPESSOALIDADE E ISONOMIA. ASSUNÇÃO TEMPORÁRIA DAS SERVENTIAS EXTRAJUDICIAIS. SUBMISSÃO AO PRINCÍPIO DA VEDAÇÃO AO NEPOTISMO. SÚMULA VINCULANTE N. 13/STF E ENUNCIADO NORMATIVO N. 1/CNJ. DESIGNAÇÃO DE SERVIDOR PARA ASSUMIR CARGO ANTERIORMENTE OCUPADO POR FAMILIAR. VIOLAÇÃO DOS PRINCÍPIOS CONSTITUCIONAIS DA IMPESSOALIDADE E DA VEDAÇÃO AO NEPOTISMO. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO À DESIGNAÇÃO. ATOS DE REVOGAÇÃO DE INTERINIDADE PRATICADOS PELO CORREGEDOR GERAL DO TRIBUNAL DE JUSTIÇA DO MARANHÃO. CUMPRIMENTO DE DETERMINAÇÃO DO CONSELHO NACIONAL DE JUSTIÇA. INEXISTÊNCIA DO TRIBUNAL ESTADUAL PARA DELIBERAÇÃO QUANTO À PERMANÊNCIA DA INTERINIDADE DA RECORRENTE. ILEGITIMINADA AD CAUSAM DO CORREGEDOR GERAL. RECURSO ORDINÁRIO EM MANDADO A QUE SE NEGA PROVIMENTO.
+I - A atividade notarial e de registro consiste em serviço público delegado pelo estado e, como tal, submete-se aos princípios constitucionais da legalidade, moralidade, impessoalidade e isonomia.
+II - A jurisprudência desta Corte, seguindo o entendimento firmado pelo Conselho da Justiça Federal, estabelece que a assunção temporária das serventias extrajudiciais submete-se à vedação de nepotismo prevista da Súmula Vinculante n. 13/STF e ao Enunciado Normativo n. 1 do CNJ.
+III - A designação de servidor para assumir cargo ocupado anteriormente por familiar, ainda que com o preenchimento de alguns dos requisitos objetivos da designação, viola os princípios constitucionais da impessoalidade e vedação ao nepotismo, não havendo direito líquido e certo à designação em tais circunstâncias.
+IV - Embora os atos de revogação da interinidade sejam praticados pelo Corregedor-Geral do Tribunal de Justiça do Maranhão, estes apenas atendem à determinação emanada pelo Conselho Nacional de Justiça, órgão ao qual se submete a Corte local.
+V - Inexistente autonomia do Tribunal de Justiça do Maranhão para deliberar pela permanência da interinidade da recorrente, uma vez que se encontra submetido administrativamente ao Conselho Nacional de Justiça, estando acertada a decisão acerca da ilegitimidade ad causam do Corregedor-Geral.
+VI - Recurso ordinário em mandado de segurança a que se nega provimento.
+(RMS 61.982/MA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 25/08/2020, DJe 31/08/2020)
+CONSTITUCIONAL E ADMINISTRATIVO. CARTÓRIO. DESMEMBRAMENTO DE OFÍCIO. DIREITO DE OPÇÃO DO TITULAR PELA SERVENTIA RECÉM- CRIADA. TITULARIDADE INTERINA DO OFÍCIO VAGO. NOMEAÇÃO DE TERCEIRO COMO INTERVENTOR. SEGURANÇA ANTERIOR QUE EXTINGUIU O VÍNCULO DO ANTIGO TITULAR COM A SUBSTITUTA. PRETENSÃO DE ASSUMIR A TITULARIDADE EM WRIT POSTERIOR. AUSÊNCIA DE LITISPENDÊNCIA. TRÍPLICE IDENTIDADE NÃO EVIDENCIADA. COISA JULGADA. EFEITOS SUBJETIVOS LIMITADOS. PRETERIÇÃO DE SUBSTITUTO MAIS ANTIGO. POSSIBILIDADE. ATO DISCRICIONÁRIO. PRINCÍPIO DA IMPESSOALIDADE E DA MORALIDADE. PROCESSO ADMINISTRATIVO. DESNECESSIDADE. ATO PRECÁRIO. INTERESSE PÚBLICO.
+1. A inviabilidade de rediscussão da matéria relacionada à segurança anterior só poderia fundamentar-se na preliminar de litispendência, que pressupõe a tríplice identidade de elementos das demandas pendentes, nos termos do art. 301, § 2º, do CPC, o que não ocorre na espécie.
+2. Conquanto a sentença anterior possa ter eficácia perante a substituta, a impetrante não se sujeita à autoridade da coisa julgada, que somente abrange as partes entre as quais é dada - art. 472 do CPC -, podendo impugnar a sentença sempre que tiver interesse jurídico, bem como repelir o efeito danoso que lhe possa acarretar.
+3. A solução para a ocupação interina de serventia encontra previsão apenas no preceito contido no § 2º do art. 39 da Lei n. 8.935/94, o qual, por sua topologia e, por razões de técnica legislativa, deve estar relacionado à cabeça do mesmo dispositivo, que trata apenas dos casos em que se tem a vacância por extinção da delegação.
+4. Inviabilidade de aplicar a analogia para abranger a hipótese de vacância em caso de opção do antigo titular do Ofício pela serventia recém-criada, que tem os direitos pessoais preservados, mantendo-se os vínculos de emprego, inclusive o de substituto.
+5. A assunção da titularidade temporária da serventia desmembrada por filha do antigo titular é vedada, ante a incidência da Súmula Vinculante 13 do STF e do Enunciado Normativo n. 1 do CNJ, que estendeu a vedação de nepotismo aos cartórios extrajudiciais.
+6. Possibilidade de destituição do substituto sem prévio processo administrativo, ante a natureza precária do ato discricionário e do interesse público envolvido. Precedentes.
+7. Recurso especial provido, em parte, para denegar a segurança.
+(REsp 1213226/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/02/2014, DJe 12/03/2014)
+4. Ausência de cerceamento de defesa
+Ademais, igualmente descabida a tese de cerceamento de defesa. O Superior Tribunal de Justiça entende que, em se tratando de ocupação precária de cargo por designação, pode a Administração destacar o serventuário do cargo a qualquer tempo, conforme lhe convenha.
+Nessa linha:
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATIVIDADES NOTARIAIS E DE REGISTRO. TABELIÃO INTERINO. NOMEAÇÃO A TÍTULO PRECÁRIO. REVOGAÇÃO. PROCESSO ADMINISTRATIVO DESNECESSIDADE. FALTA DE INTERESSE DO PODER PÚBLICO. ATO DISCRICIONÁRIO.
+1. Consoante a jurisprudência consolidada no STJ, em se tratando de ocupação precária de cargo por designação, pode a Administração destacar o serventuário do cargo a qualquer tempo, conforme lhe convenha.
+2. Cumpre acrescentar que nem sequer é necessária a instauração de processo administrativo disciplinar para apuração de fatos e aplicação da medida, pois a designação é feita unicamente no interesse do Poder Público, sob critérios de conveniência e oportunidade. Assim, não há falar em violação de direito líquido e certo.
+3. Agravo Regimental não provido.
+(AgRg no RMS 37.034/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/08/2012, DJe 03/09/2012)
+RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. DESIGNAÇÃO DE SUBSTITUTO INTERINO. ATO DISCRICIONÁRIO. PRECEDENTES.
+RECURSO ORDINÁRIO A QUE SE NEGA PROVIMENTO.
+(RMS 30.908/SC, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 27/09/2011, DJe 30/09/2011)
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ATIVIDADES NOTARIAIS E DE REGISTRO. TABELIÃO SUBSTITUTO. AFASTAMENTO EM RAZÃO DE CONDENAÇÃO CRIMINAL TRANSITADA EM JULGADO. PROCESSO ADMINISTRATIVO SEM CONTRADITÓRIO E AMPLA DEFESA. DESNECESSIDADE. MERA EXTINÇÃO DO VÍNCULO FORMADO A TÍTULO PRECÁRIO EM RAZÃO DA SUPERVENIENTE FALTA DE INTERESSE DO PODER PÚBLICO. AFASTAMENTO NÃO-PUNITIVO.
+1. No caso, o afastamento do recorrente do cargo de substituto legal de tabelião não tem o caráter punitivo, mas deriva primordialmente da perda de confiança que fundamentou sua nomeação como tabelião interino.
+2. Segundo condenação criminal transitada em julgada, o impetrante-recorrente, durante o exercício do referido cargo, cometeu apropriação indébita de valores recebidos a título de ITBI.
+3. Constatada essa realidade, foi reaberto contra ele processo administrativo anteriormente protocolado e arquivado, que transcorreu sem sua participação, resultando no ato ora atacado.
+Pareceu ao impetrante-recorrente que se tratava de punição derivada de processo administrativo irregular (com aparente violação ao art.
+39, inc. V, da Lei n. 8.935/94). Mas não é isso.
+4. Na condição de tabelião interino, o recorrente exercia função a título precário e unicamente no interesse do Poder Público. No entanto, em razão da decisão criminal já mencionada, perfeitamente desconstituível o ato de seu nomeação ao cargo que ocupava, ainda que sem processo administrativo (ou com processo administrativo defeituoso - sem exercício do contraditório e da ampla defesa), porque não se tem verdadeiramente uma conseqüência administrativa punitiva para os crimes cometidos, mas simples perda de interesse por parte do Poder Público, resultado de um juízo de conveniência e oportunidade.
+5. É que, conforme reiterada jurisprudência desta Corte Superior, nesses casos, não há direito líqüido e certo à estabilidade e nem à aplicação do regime previsto nos arts. 35, inc. II, e 39, inc. V, da Lei n. 8.935/94 - aplicável somente às hipóteses de efetiva delegação (com obediência aos ditames constitucionais). Precedentes.
+6. Recurso ordinário em mandado de segurança não-provido.
+(RMS 26.165/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2009, DJe 25/03/2009)
+CONSTITUCIONAL. ADMINISTRATIVO. CARTÓRIO. PROCESSO ADMINISTRATIVO DISCIPLINAR. AFASTAMENTO E PERDA DA DELEGAÇÃO. NOMEAÇÃO DE TERCEIRO COMO INTERVENTOR. PRETERIÇÃO DE SUBSTITUTO MAIS ANTIGO. POSSIBILIDADE. ATO DISCRICIONÁRIO. SITUAÇÃO EXCEPCIONAL E DE CRISE INSTITUCIONAL. PRINCÍPIOS DA IMPESSOALIDADE E DA MORALIDADE.
+1. Caso em que o titular de serventia extrajudicial, após suspensão de suas funções e afastamento para responder a procedimento disciplinar, perde a delegação.
+2. É discricionário o ato da Administração Judiciária que, em vez de optar pelo substituto mais antigo, decide, nos termos do art. 36 da Lei 8.935/94, nomear terceira pessoa como interventor e, diante das peculiaridades do caso concreto (relação próxima de parentesco), manter, com base nos princípios da impessoalidade e da moralidade, a referida nomeação até o preenchimento definitivo da vaga.
+Precedentes do STJ.
+3. Recurso Ordinário em Mandado de Segurança não provido.
+(RMS 28.013/MG, Rel. Ministro CASTRO MEIRA, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/05/2010, DJe 03/08/2010)
+5. Conclusão
+Portanto, verifica-se que o acórdão recorrido está de acordo com a jurisprudência do Superior Tribunal de Justiça, em absoluta observância à Constituição. Assim, não há ilegalidade do ato e não há direito líquido e certo.
+Por tudo isso, nego provimento ao Recurso.
+É como voto.
