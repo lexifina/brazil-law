@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOHABEAS CORPUS. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. PRINCÍPIO DA COLEGIALIDADE NÃO VIOLADO. ROUBO. PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O relator no STJ está autorizado a proferir decisão monocrática, quefica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendoviolação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativasprevistas no art. 319 do CPP.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por TIAGO VALADARES PEREIRA e OUTROS contra a decisão de fls. 230-231, que não conheceu dohabeas corpusinterposto contra acórdão do Tribunal de Justiça do Estado de São Paulo(HC n. 2198062-54.2020.8.26.0000).
+Os agravantesforam presos em flagrante, em 18/8/2020, pela suposta prática do crime descrito no art. 157, § 2º, II, do Código Penal. Aprisão em flagrante foiconvertidaem preventiva no dia 19/8/2020 (fl. 183).
+Sustentam quenão cabe ojulgamento monocrático do habeas corpus e que estão ausentes os requisitos autorizadores da prisão preventiva.
+Requerem a reconsideração da decisão e o provimento do recurso a fim de que sejam revogadas as prisões preventivas.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOHABEAS CORPUS. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. PRINCÍPIO DA COLEGIALIDADE NÃO VIOLADO. ROUBO. PRISÃO PREVENTIVA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O relator no STJ está autorizado a proferir decisão monocrática, quefica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendoviolação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativasprevistas no art. 319 do CPP.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+Orelator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo falar em violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+Confira-se o seguinte precedente:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ART. 34, XVIII, "B", DO RISTJ. TRÁFICO INTERNACIONAL DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PACIENTE CONDENADO À PENA DE 14 ANOS E 6 MESES DE RECLUSÃO. CONDENAÇÃO CONFIRMADA EM SEGUNDO GRAU COM NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. REAVALIAÇÃO PERIÓDICA DA PRISÃO PREVENTIVA. ART. 316, PARÁGRAFO ÚNICO, DO CPP. OBSERVÂNCIA DO PRAZO DE 90 DIAS. PRESENÇA DOS REQUISITOS LEGAIS. ALEGADO CUMPRIMENTO PROVISÓRIO DA PENA. NÃO OCORRÊNCIA. PRISÃO PREVENTIVA MANTIDA NA CONDENAÇÃO E NO RECURSO DE APELAÇÃO. ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. RECURSO ESPECIAL EM FASE DE PROCESSAMENTO. ALEGADO EXCESSO DE PRAZO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. RAZOABILIDADE. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.I - O RISTJ, no art. 34, XVIII, "b", dispõe que o Relator pode decidir monocraticamente para "negar provimento ao recurso ou pedido que for contrário a tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Supremo Tribunal Federal ou do Superior Tribunal de Justiça ou, ainda, a jurisprudência dominante sobre o tema" (grifei).
+II - A decisão monocrática proferida por Relator não afronta o princípio da colegialidade e tampouco configura cerceamento de defesa, sendo certo que a possibilidade de interposição de agravo regimental contra a respectiva decisão, como ocorre na espécie, permite que a matéria seja apreciada pela Turma, o que afasta absolutamente o vício suscitado pelo agravante.
+III - Plenamente possível, desta forma, que seja proferida decisão monocrática por Relator, sem qualquer afronta ao princípio da colegialidade ou cerceamento de defesa, quando todas as questões são amplamente debatidas, havendo jurisprudência dominante sobre o tema, ainda que haja pedido de sustentação oral. ..
+VI - No caso, embora não haja trânsito em julgado da condenação, a prisão do paciente decorre de prisão cautelar, e não do cumprimento provisório da pena, sendo que a segregação preventiva foi mantida tanto na condenação quanto no julgamento do recurso de apelação, tendo o eg. Tribunal a quo destacado que mantém-se hígidos os fundamentos do decreto prisional primevo imposto em desfavor do paciente, condenado à pena de 14 anos e 6 meses de reclusão, por perdurar o periculum libertatis. Destaca-se o esgotamento da jurisdição da instância ordinária, estando em processamento o recurso especial interposto pela defesa, e ressalta-se que o simples decurso de prazo não transforma a prisão cautelar em execução provisória da pena.
+VII - O atendimento quanto ao disposto no art. 283, art. 312 e art.316, parágrafo único, todos do CPP, evidencia a existência de decreto prisional fundamentado e reavaliado visando o resguardoda ordem pública, de um lado, ao passo que observa concretamente os princípios do devido processo legal e da fundamentação das decisões judiciais, de outro, não estando configurado constrangimento ilegal apto a ensejar a concessão da ordem.
+ ..
+Agravo regimental desprovido. (AgRg no HC n. 607.055/SP, relator Ministro FelixFischer, Quinta Turma, DJe de 16/12/2020.)
+Além disso, aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 185):
+Os cinco pacientes se propuseram a praticar roubos na cidade de Itaquaquecetuba, logrando êxito em relação à primeira investida, sendo frustrados em relação à segunda, cuja vítima conseguiu se desvencilhar deles.
+Demostraram, portanto, destemor e periculosidade, incompatíveis com as cautelares menos invasivas aqui perseguidas pelo combativo Defensor Público.
+Esse alto grau de violência somente pode ser neutralizado com a prisão cautelar.
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
