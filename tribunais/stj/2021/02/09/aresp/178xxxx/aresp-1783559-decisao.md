@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por CEILA MARIA VIGGIANI KNIEBEL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE SEGURO. - PEDIDO GRATUIDADE DA JUSTIÇA PELA EXEQUENTE. HIPOSSUFICIÊNCIA. REMUNERAÇÃO MENSAL MÉDIA INFERIOR A QUATRO SALÁRIOS MÍNIMOS. CONCESSÃO DE 75% DE DESCONTO SOBRE AS CUSTAS E DESPESAS PROCESSUAIS. - RECURSO CONHECIDO E PARCIALMENTE PROVIDO (fl. 74).
+Alega violação do art. 98 do CPC no que concerne ao direito da recorrente à totalidade da gratuidade de justiça. Traz os seguintes argumentos:
+ ..  a recorrente intentou com agravo de instrumento em face da decisão proferida pelo juízo de primeiro grau que indeferiu o pedido de gratuidade de justiça. Buscou a reforma da decisão por não possuir condições de arcar com as custas processuais sem prejuízo de seu próprio sustento e de sua família, já que possui renda de R$ 1.380,75, advinda de benefício previdenciário.
+No acórdão que julgou o referido agravo de instrumento, fora conhecido e provido em parte o recurso, concedendo 75% da gratuidade judicial. Porém, é evidente que a recorrente possui direito a 100% do benefício.
+A contraparte tenta alegar que a recorrente não faz direito ao benefício usando comprovantes de renda do falecido genitor da mesma, o que não demonstra a existência de que a autora tem os recursos para arcar com os custos e despesas processuais, uma vez que não há qualquer rendimento da autora vinculado aos documentos e alegações da ré.
+Verifica-se também que cabia somente a parte agravada a comprovação que de fato a agravante possuía recursos para o pagamento, o que não o fez (fl. 137).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A requerente pleiteou a gratuidade judicial em fase de cumprimento de sentença (mov. 14.1), após ter sido vencedora em demanda indenizatória que condenou a ora agravada ao pagamento de indenizações por danos materiais e morais (mov.
+1.30, 1.39 e 1.42).
+O pedido foi reiterado em mov. 62.1, tendo o magistrado determinado a juntada de provas da condição financeira desfavorável da exequente (mov. 68.1).
+Ceila Maria Viggiani Kniebel, então, colacionou aos autos o extrato de seu imposto de renda de 2017/2018, no qual consta a percepção de R$ 16.366,21 de rendimentos tributáveis, R$ 24.751,74 de rendimentos isentos ou não tributáveis e R$ 1.380,75 de rendimentos sujeitos à tributação exclusiva (décimo terceiro salário) (mov. 81.2).
+O magistrado se pronunciou pela insuficiência da prova produzida em mov. 81.2, determinando que a exequente a quo trouxesse cópias das três últimas declarações de imposto de renda, sob pena de não concessão do benefício da gratuidade judicial (mov. 92.1).
+Não tendo sido trazidos novos documentos (mov. 97.1, 106.1, 111.1 e 119.1), a justiça gratuita foi negada (mov. 121.1).
+O lastro probatório contido nos autos evidencia que a exequente não tem condições de realizar o pagamento integral das custas processuais sem prejuízo de seu sustento.
+Os rendimentos contidos na declaração de imposto de renda de mov. 81.2 correspondem a cerca de R$ 40.000,00 anuais, o que perfaz a média de renda mensal de cerca de R$ 3.300,00.
+A remuneração média mensal da agravante equivale a um valor entre 3 e 4 salários mínimos, o que, segundo entendimento da Câmara, oportuniza a concessão de desconto de 75% (art. 98, § 5º, CPC) - (fl. 75).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da totalidade da gratuidade de justiça à recorrente exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
