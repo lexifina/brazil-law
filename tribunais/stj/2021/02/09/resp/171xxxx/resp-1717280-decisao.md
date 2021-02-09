@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 440):
+ADMINISTRATIVO. PROUNI. CERTIDÃO POSITIVA COM EFEITOS DE NEGATIVA.
+1. A parte autora obteve em seu favor "Certidão Positiva com Efeitos de Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União". Assim, impedir a renovação da adesão ao PROUNI seria impor prejuízo muito mais grave à instituição de ensino e aos estudantes que dependem do programa para prosseguimento nos cursos.
+2. Manutenção da sentença quanto ao mérito, considerando as peculiaridades do caso concreto.
+3. Reforma da decisão somente no tocante à verba honorária. Aplicação do artigo 21 do CPC.
+Opostos embargos declaratórios, foram parcialmente acolhidos, para fins de prequestionamento.
+A parte recorrente aponta violação aosarts. 1022 do CPC/2015; 15 da Lei n. 11.096/2005; e 6º, II, da Lei n. 10.522/2002. Sustenta que: (I) o Tribunal de origem não se manifestou sobre questões relevantes para o deslinde da controvérsia; e (II) a existência de registros no CADIN impede a renovação da adesão da instituição de ensino ao PROUNI.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A insurgência não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Por outro lado, ao dirimir a controvérsia, a Corte regional consignou (fl. 432):
+O PROUNI consiste em programa criado pelo governo Federal, com o objetivo de fomentar o acesso das pessoas menos favorecidas às instituições de ensino superior privadas. Aderindo ao programa, as referidas instituições passam a receber benefícios legais, na forma de isenção fiscal, conforme o disposto no artigo 8º da Lei nº 11.096/05.
+Destaco que exigência de comprovação de quitação de débitos fiscais para celebração de contratos com o Poder Público não é, por si só, inconstitucional, pois há expressa previsão no art. 195, § 3º, da CF, no sentido de que "A pessoa jurídica em débito com o sistema da seguridade social, como estabelecido em lei, não poderá contratar com o Poder Público nem dele receber benefícios ou incentivos fiscais ou creditícios".
+Ocorre que o caso em exame reveste-se de uma peculiaridade, que penso foi corretamente considerada pelo magistrado de primeiro grau para julgar parcialmente procedente a demanda. A parte autora obteve em seu favor "Certidão Positiva com Efeitos de Negativa de Débitos Relativos aos Tributos Federais e à Dívida Ativa da União", nos autos da ação nº 5022392-12.2015.4.04.7100, que tramitou perante a 14ª Vara Federal da Comarca de Porto Alegre. Assim, impedir a renovação da adesão ao PROUNI seria impor prejuízo muito mais grave à instituição de ensino e aos estudantes que dependem do programa para prosseguimento nos cursos.
+Constata-se que a Instânciaa quo, com base no substrato fático dos autos, concluiu ser inexigível a Certidão Negativa de Débito para fins de renovação da adesão ao PROUNI. Assim, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO,conheço, em parte, do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
