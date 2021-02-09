@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por TAC Franquia Ltda., com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 327):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CONTRATO PARTICULAR DE CONFISSÃO DE DÍVIDA - AUSÊNCIA DE ASSINATURA DE DUAS TESTEMUNHAS - ART. 784, INCISO III, CPC - TÍTULO DESPROVIDO DE FORÇA EXECUTIVA - DUPLICATA SEM ACEITE - AUSÊNCIA DE TÍTULO EXECUTIVO - RECURSO AO QUAL SE NEGA PROVIMENTO.
+O contrato de confissão de dívida desprovido de assinatura de duas testemunhas não tem força de título executivo extrajudicial, bem como as duplicatas apresentadas não preenchem os requisitos da Lei 5474/68. Assim, há de se afastar a qualidade de titulo executivo dos mencionados documentos para embasar execução.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 345-349).
+Nas razões do apelo especial (e-STJ, fls. 351-372), a recorrente alegou a violação dos arts. 190, 374 e 784 do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que, "em se tratando de confissão de dívida garantida por caução, firmada por dois fiadores, dispensa-se, portanto, o requisito do inciso III, do art. 784, do CPC/2015, de existência de assinatura de duas testemunhas"; que estão "presentes os pressupostos processuais que conferem força executiva às duplicatas emitidas durante a relação empresarial de franquia"; e que a confluência entre as duplicatas protestadas e a relação jurídica não impugnada são suficientes para conferir ao título a necessária força executiva.
+Foram apresentadas contrarrazões (e-STJ, fls. 395-409).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a ausência de prequestionamento, aplicando-se a Súmula n. 282/STF; a impossibilidade de reexame de prova, incidindo da Súmula n. 7/STJ; e a inviabilidade de análise do dissídio jurisprudencial alegado, tendo em vista a incidência da Súmula n. 7/STJ (e-STJ, fls. 411-419).
+Brevemente relatado, decido.
+Os dispositivos legais apontados pelo recorrente - arts. 190 e 374 do Código de Processo Civil de 2015 - não foram enfrentados pelo acórdão impugnado, incidindo o óbice da Súmula n. 211/STJ.
+Acrescente-se que, apesar de opostos os aclaratórios, a recorrente não apontou ofensa ao art. 1.022 do CPC/2015, a fim de permitir a esta Corte o exame de eventual omissão no acórdão.
+A esse respeito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. AÇÃO DEMARCATÓRIA. INICIAL INDEFERIDA. APELO RARO. VIOLAÇÃO DO ART. 335 DO CPC/73. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. OFENSA AOS ARTS. 130 E 402, AMBOS DO CPC/73. PRODUÇÃO DE PROVA ORAL E PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REFORMA DO JULGADO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. Incide a Súmula nº 211 do STJ quando o dispositivo de lei invocado no apelo nobre (art. 335 do CPC/73) não foi debatido no acórdão recorrido, apesar de opostos embargos de declaração a fim de suscitar os temas neles contidos na instância a quo. Caberia à parte, nas razões do seu especial, alegar violação do art. 535 do CPC/73 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+3. A reforma do acórdão quanto à inexistência de cerceamento do direito de defesa em razão do indeferimento de prova oral e pericial demandaria, necessariamente, o revolvimento dos fatos da causa. Incidência da Súmula nº 7 do STJ.
+4. Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional. Precedente: AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA, DJe 30/6/2010.
+5. Agravo regimental não provido.
+(AgRg no AREsp n. 650.702/SC, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 4/8/2016, DJe 9/8/2016 - sem grifo no original).
+Quanto ao mais, o Tribunal de origem, ao julgar a apelação, consignou o seguinte (e-STJ, fls. 328-330):
+Com efeito, o instrumento de confissão de dívida sem a assinatura de duas testemunhas não é título executivo extrajudicial a legitimar a execução, conforme o art. 784, III, CPC.
+Tivesse sido a confissão de dívida subscrita por duas testemunhas fatalmente que tal discussão teria outro contorno, na medida em que aí poderia ser acolhida a execução como válida, de modo que, ausente tal requisito, manifesta a deficiência do título em execução que é o contrato de confissão de dívida.
+No caso concreto, portanto, só resta a apelante socorrer -se ou da ação de cobrança, quiçá da ação monitória; jamais a execução por título extrajudicial ante a nulidade do título executivo.
+(..)
+No que concerne às duplicatas, assim como o contrato de confissão de divida, estas também devem preencher alguns requisitos para que tenha força de titulo executivo, conforme dispõe a Lei 5474/68.
+(..)
+Considerando que as duplicatas que embasam a execução não possuem o comprovante de envio ao devedor para o "aceite", a execução é meio jurídico inadequado para exigir pagamento de dívida.
+Dessa forma, reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Por fim, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem para 20% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CONTRATO PARTICULAR DE CONFISSÃO DE DÍVIDA. AUSÊNCIA DE ASSINATURA DE DUAS TESTEMUNHAS. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
