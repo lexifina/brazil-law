@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de conflito negativo de competênciano qual figuram como suscitante o JUIZ DE DIREITO DA 3A VARA DE TAUÁ - CE e como suscitado o JUÍZO FEDERAL DA 24A VARA DE TAUÁ - SJ/CE.
+Consta dos autos ter sido instaurado inquérito policial para apurar desvio de recursos do Programa de Aceleração do Crescimento-PACrepassados à CAGECE, sociedade de economia mista estadual, para obras de ampliação do sistema de esgotamento sanitário da cidade de Tauá/CE.
+O Juízo federal acolheu o parecer ministerial e declinou da competência por entender que não teria havido prejuízo à Caixa Econômica Federal, uma vez que os recursos repassados tinham sido integralmente devolvidos pela CAGECE.
+O Juízo estadual, por sua vez, também se declarouincompetente e suscitou o conflito de competência, ao argumento de que, nos termos do entendimento jurisprudencial do Superior Tribunal de Justiça, a prestação de contas das verbas definiriaa competência para o processamento e julgamento do feito.
+O Ministério Público Federal manifestou-se pela competência do Juízo estadual em parecer assim ementado (e-STJ fl. 133):
+CONFLITO NEGATIVO DE COMPETÊNCIA. DESVIO DE RECURSOS DO PAC REPASSADOS A SOCIEDADE DE ECONOMIA MISTA DO ESTADO. DEVOLUÇÃO INTEGRAL. AUSÊNCIA DE PREJUÍZO DA CAIXA ECONÔMICA FEDERAL. COMPETÊNCIA ESTADUAL. PARECER PELA CONHECIMENTO DO CONFLITO PARA SE DECLARAR COMPETENTE O JUÍZO SUSCITANTE.
+É, em síntese, o relatório.
+Decido.
+Conheço do conflito, pois trata-se de controvérsia instaurada entre juízes vinculados a tribunais distintos, a teor do que preceitua o art. 105, inciso I, alínea d, da Constituição Federal.
+Como antes relatado, a investigação penal apurou a malversação de recursos federais oriundos do PAC (Programa de Aceleração do Crescimento) em obra de infraestrutura sanitária do Município de Tauá/CE, em que teriam ocorrido superfaturamento de medições e pagamento por serviços não executados.
+Esta Corte já teve a oportunidade de manifestar o entendimento quanto à existência de interesse federal quando a prestação de contas for realizada perante órgão federal, como no presente caso. A propósito, confiram-se, entre outros, os seguintes precedentes:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E ESTADUAL. MALVERSAÇÃO DE VERBAS DESTINADAS A EDUCAÇÃO ORIUNDAS DO FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO - FNDE. SÚMULA 208/STJ. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Nos termos da jurisprudência deste Sodalício, a má utilização de valores repassados ao município oriundos do FNDE desponta o interesse da união, ante a necessidade de prestação de contas a órgão federal. Incidência da Súmula n. 208/STJ.
+2. Na hipótese, verifica-se que as condutas em apuração, de fato, relacionam-se à aplicação de recursos advindos do PNAE/FNDE, já que parte do contrato terceirizado, que diz respeito ao pagamento dos alimentos a serem utilizados na preparação da merenda escolar, são pagos com verbas oriundas do mencionado programa, circunstância que atrai o interesse da União, responsável pela política nacional de desenvolvimento da educação, com a fiscalização do Tribunal de Contas da União, deslocando a competência do julgamento da causa para a Justiça Federal.
+3. Conflito conhecido para declarar competente o Juízo Federal da 3ª Vara Federal Criminal do Estado de São Paulo/SP.
+(CC 144.750/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 13/02/2019, DJe 22/02/2019)
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. INQUÉRITO. INDÍCIOS DE IRREGULARIDADES EM CONTRATO DE LICITAÇÃO FIRMADO POR AUTARQUIA. PRESTAÇÃO DE CONTAS PERANTE O TCU. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. Embora careçam os autos de maiores informações quanto a espécie de fraude que estaria sob investigação, o fato é que os serviços contratados fazem parte do termo de acordo contido em Contrato de Empréstimo celebrado entre a União e o Banco Interamericano de Desenvolvimento - BID, cujo órgão executor é o Departamento Nacional de Estradas de Rodagem  DNER, tendo como órgãos coexecutores o Departamento de Estradas de Rodagem de Minas Gerais e o Departamento de Estradas de Rodagem de São Paulo.
+2. Estabelecido que o mutuário (a República Federativa do Brasil, por meio do DNER) apresente demonstrações financeiras anuais, com pareceres sobre as demonstrações financeiras emitidos por organismo oficial de fiscalização, e relatórios trimestrais de progresso do Projeto, fica afastada a competência da Justiça Estadual para o processamento do feito.
+3. Coube ao DNER, principalmente, manter a contabilidade referente ao Acordo de Empréstimo, razão pela qual está sujeito a prestação de contas perante o TCU, o que firma a competência da Justiça Federal para o julgamento da causa.
+4. Conflito conhecido para determinar competente o suscitante, Juízo Federal da 5ª Vara Criminal da Seção Judiciária do Estado de São Paulo/SP.
+(CC 46.465/SP, Rel. Ministro OG FERNANDES, TERCEIRA SEÇÃO, julgado em 22/04/2009, DJe 13/05/2009)
+CONFLITO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA FEDERAL. CRIME DE PECULATO E APROPRIAÇÃO INDÉBITA PRATICADO EM DETRIMENTO DO SERVIÇO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC. ENTIDADE PARAESTATAL SUJEITA AO CONTROLE DO TRIBUNAL DE CONTAS DA UNIÃO. APLICAÇÃO DA SÚMULA 208 DESTE SODALÍCIO. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. O Serviço Nacional de Aprendizagem Comercial - SENAC, por ser entidade paraestatal com atuação em todo território nacional, está sujeita ao controle e fiscalização pelo Tribunal de Contas da União.
+2. Aplicação do Verbete Sumular n.º 208 desta Corte, que enuncia ser competência da Justiça Federal a instrução e julgamento de ilícitos praticados por Prefeitos Municipais em detrimento de verbas sujeitas prestação de contas perante órgão federal.
+3. Conflito conhecido para declarar competente o Juízo da 3ª Vara Federal Criminal da Subseção Judiciária de Porto Alegre/RS.
+(CC 66.354/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 28/02/2007, DJ 26/03/2007, p. 201)
+PENAL. CONFLITO DE COMPETÊNCIA. APURAÇÃO DE CRIME CONTRA O PATRIMÔNIO, A FÉ-PÚBLICA, A ADMINISTRAÇÃO PÚBLICA E ATOS DE IMPROBIDADE. IRREGULARIDADE NA CONSTRUÇÃO DE USINA CUSTEADA COM VERBAS FEDERAIS E MUNICIPAIS. NECESSIDADE DE PRESTAÇÃO DE CONTAS PERANTE ÓRGÃO FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. As verbas destinadas a um empreendimento público constituem, em regra, um fundo único, sendo que, havendo a necessidade de prestação de contas perante órgão federal, impõe-se a competência da Justiça Federal, a teor do enunciado sumular nº 208 deste Tribunal.
+2. Havendo a participação de recursos federais em determinada obra, ainda que de menor participação, e sendo imperativa a prestação de contas perante ente federal, tem-se presente a hipótese de fixação da competência da Justiça Federal, prevista no art. 109, IV, da CF/88.
+3. Conflito conhecido para declarar a competência do Juízo Federal da 6ª Vara da Subseção Judiciária de Ribeirão Preto/SP, suscitante.
+(CC 32.831/SP, Rel. Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, julgado em 14/02/2005, DJ 02/03/2005, p. 182)
+CONFLITO NEGATIVO DE COMPETÊNCIA. DESVIO DE VERBAS ORIUNDAS DO FUNDEF. CONTROLE DO TCU. COMPETÊNCIA DA JUSTIÇA FEDERAL. SÚMULA 208/STJ.
+1 - Consoante entendimento pacificado desta Corte, nos termos da súmula 208/STJ, compete à Justiça Federal processar e julgar a ação penal relativa ao crime de desvio de verbas oriundas do Fundo de Manutenção e de Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF, porquanto sujeitas ao controle do Tribunal de Contas da União.
+2 - Conflito conhecido para declarar competente Juízo Federal de Ilhéus/BA, o suscitado.
+(CC 36.386/BA, Rel. Ministro FERNANDO GONÇALVES, TERCEIRA SEÇÃO, julgado em 12/02/2003, DJ 10/03/2003, p. 86)
+In casu, além de se tratar de verba sujeita à prestação de contas perante órgão federal, o interesse da União encontra-se devidamente configurado em razão do desvio da finalidade da verba concedida para fomentar o desenvolvimento acelerado do País por meio da execução de grandes obras de infraestrutura.
+Registre-se que a eventual devolução dos valores, embora possa interferir no julgamento da ação, não é capaz de afastar a competência da Justiça Federal.
+Ante o exposto, conheço do conflito e dou por competente o Juízo suscitado.
+Publique-se. Comunique-se.
