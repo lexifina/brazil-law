@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialmanejado pelaFazenda do Estado de São Paulocontra acórdão do Tribunal de Justiça do Estado de São Paulocom a seguinte ementa:
+RESPONSABILIDADE CIVIL - DANO MORAL - APELO Â INTERPOSTO PELA FAZENDA PUBLICA QUE SE Ó LIMITOU À REPRODUÇÃO QUASE INTEGRAL DOS FUNDAMENTOS DA CONTESTAÇÃO SEM INSURGIR- SE CONTRA OS FUNDAMENTOS DA SENTENÇA - INOBSERVÂNCIA DO REQUISITO FORMAL DA Á APELAÇÃO - RECURSO DA RÉ PARCIALMENTE NÃO Ó CONHECIDO RESPONSABILIDADE CIVIL - DANO MORAL  LANÇAMENTO INDEVIDO DE PONTUAÇÃO NO PRONTUÁRIO DO AUTOR EM DUAS OPORTUNIDADES DISTINTAS- URGÊNCIA AO PRINCÍPIO DA EFICIÊNCIA- INTELIGÊNCIA DO ART O 379 CAPUT CF- DANO MORAL ADEQUADAMENTE ARBITRADO- RECURSO DA RÉ IMPROVIDO NA Á PARTE CONHECIDA.
+É o relatório.
+A questão jurídica referente à aplicação do art. 1º-F da Lei n. 9.494/1997 à hipótese foi submetida ao regime dosprecedentes qualificados vinculantes pelo Supremo Tribunal Federal e Superior Tribunal de Justiçanas Teses 810/STF e 905/STJ.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
