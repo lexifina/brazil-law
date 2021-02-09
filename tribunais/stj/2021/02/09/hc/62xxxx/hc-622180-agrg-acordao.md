@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE DENEGOU A ORDEM. HOMICÍDIO QUALIFICADO. FEMINICÍDIO. SENTENÇA CONDENATÓRIA. ÓBICE AO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO PARA OJULGAMENTO DA APELAÇÃO CRIMINAL. INEXISTÊNCIA DE DESÍDIA DO JUDICIÁRIO. RECURSO INCLUÍDO NA PAUTA DE JULGAMENTO DO DIA 18/3/2021.
+1.Segundo pacífico entendimento doutrinário e jurisprudencial,aconfiguração de excesso de prazo não decorre dasomaaritmética deprazoslegais. Ademais, o Desembargador-relator da apelação criminal, na origem, informou que o recurso foi incluído na pauta de julgamento do dia 18/3/2021.
+2. As circunstâncias referenciadas na sentença condenatória e no acórdão impugnado no habeas corpus são aptas a justificar a prisão pela garantia da ordem pública, ante a gravidade concreta dos crimes, a periculosidade do agente e o modus operandi.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Chateaubriand Bandeira Diniz Filhocontra a decisão que denegou a ordem do writ impetrado em seu favor, recomendando-se celeridade no julgamento da Apelação Criminal n. 0004580-58.2016.8.26.0052 pelo Tribunal de Justiça de São Paulo. Esta, a ementa da decisão (fl. 2.170):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. FEMINICÍDIO. SENTENÇA CONDENATÓRIA. ÓBICE AO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO PARA OJULGAMENTO DA APELAÇÃO CRIMINAL. INEXISTÊNCIA DE DESÍDIA DO JUDICIÁRIO. OBSERVÂNCIA DO PRINCÍPIO DA RAZOABILIDADE QUE SE IMPÕE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada com recomendação de celeridade no julgamento da Apelação Criminal n. 0004580-58.2016.8.26.0052, do Tribunal de Justiça de São Paulo.
+O agravante repisa as alegações apresentadas na inicial do habeas corpus, destacando que,em que pese existir a recomendação da celeridade do julgamento, isto, por si só, não fará desaparecer o já configurado excesso de prazo (fl. 2.180).
+Requer, então, o provimento do presente agravo, para que seja reformada a decisão agravada.
+Foram prestadas informações pelo Desembargador Farto Salles, relator da apelação criminal.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MONOCRÁTICA QUE DENEGOU A ORDEM. HOMICÍDIO QUALIFICADO. FEMINICÍDIO. SENTENÇA CONDENATÓRIA. ÓBICE AO DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. EXCESSO DE PRAZO PARA OJULGAMENTO DA APELAÇÃO CRIMINAL. INEXISTÊNCIA DE DESÍDIA DO JUDICIÁRIO. RECURSO INCLUÍDO NA PAUTA DE JULGAMENTO DO DIA 18/3/2021.
+1.Segundo pacífico entendimento doutrinário e jurisprudencial,aconfiguração de excesso de prazo não decorre dasomaaritmética deprazoslegais. Ademais, o Desembargador-relator da apelação criminal, na origem, informou que o recurso foi incluído na pauta de julgamento do dia 18/3/2021.
+2. As circunstâncias referenciadas na sentença condenatória e no acórdão impugnado no habeas corpus são aptas a justificar a prisão pela garantia da ordem pública, ante a gravidade concreta dos crimes, a periculosidade do agente e o modus operandi.
+3. Agravo regimental improvido.
+VOTO
+A despeito das alegações do agravante, não lhe assiste razão, devendo a decisão agravada ser mantida por seus próprios fundamentos.
+Ao prestar informações, o Desembargador Farto Salles noticiou quenão havia possibilidade de inclusão imediata do feito em pauta, considerado o período de recesso forense e intervalo de suspensão dos julgamentos telepresenciais, sendo as primeiras sessões deste ano destinadas a acomodar os feitos prioritários (em especial, Habeas Corpus e Mandados de Segurança). Pondere-se, outrossim, que a pauta de julgamento remoto encontra certa limitação de ordem técnica no tocante aoperíodo de duração e número de participantes, a restringir a quantidade de feitos passíveis de inclusão numa única sessão, o que contribui para o acúmulo de feitos pendentes de inclusão em pauta "virtual", no caso elaborada a partir de listagem cronológica de remessa dos feitos à mesa para julgamento. De toda forma, após se consultar a zelosa Serventia sobre a situação das pautas vindouras, determinou-se a inclusão do apelo defensivo na sessão a se realizar no próximo dia 18 de março(fls. 2199 - grifo nosso).
+Ademais, conforme ficou consignadona decisão impugnada,quanto à necessidade da prisão preventiva, não diviso ilegalidade flagrante, notadamente diante das circunstâncias referenciadas na sentença condenatória e no acórdão impugnado no habeas corpus, que sãoaptas a justificar a prisão pela garantia da ordem pública, ante a gravidade concreta dos crimes, a periculosidade do agente e omodus operandi.
+Ante o exposto,nego provimentoao agravo regimental.
