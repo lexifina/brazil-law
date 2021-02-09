@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado por VITOR GARCIA ARAUJO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88 visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+MANDADO DE SEGURANÇA APELAÇÃO PROCESSO SELETIVO SIMPLIFICADO PARA CANDIDATOS AO OFICIALATO PRESTAÇÃO DE SERVIÇO MILITAR VOLUNTÁRIO GRADUAÇÃO DE NÍVEL SUPERIOR NA ÁREA DE ENGENHARIA DE COMPUTAÇÃO OU DE ENGENHARIA DE REDES NÃO COMPROVADA VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO PRINCÍPIO DA ISONOMIA.
+Quanto à controvérsia, alega violação do art. 56 da Lei n. 5.194/66, no que concerne à comprovação da formação acadêmica específica exigida no concurso público, trazendo o(s) seguinte(s) argumento(s):
+Ocorre que, conforme comprovado em inicial do mandado de segurança, o Recorrente possui diploma de Engenheiro Eletricista com ênfase em computação, uma vez que a época do seu ingresso na universidade, não existia a formação especifica de engenharia de computação. (fl. 529).
+ ..
+O Recorrente possui o título de Bacharel em Engenharia com ênfase em Computação, além de possuir o título junto ao CREA de Engenheiro de Computação conforme Resolução 380/1993 do CONFEA (fl. 532).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o(s) artigo(s) apontado(s) como violado(s) não tem/têm comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula nº 284 do STF". (AgInt no REsp n. 1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020.)
+Confiram-se também os seguintes julgados: REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019; AgRg no REsp n. 1.754.394/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/9/2018; e AgInt no REsp n. 1.503.675/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/3/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
