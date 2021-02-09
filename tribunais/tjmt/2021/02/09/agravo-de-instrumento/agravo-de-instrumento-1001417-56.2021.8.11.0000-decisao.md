@@ -1,0 +1,21 @@
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO (202) 1001417-56.2021.8.11.0000
+AGRAVANTE: SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A.
+AGRAVADA: GLEYCE DE OLIVEIRA SANTOS
+Vistos etc
+Trata-se de agravo de instrumento interposto por SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A., contra decisão proferida pela MMa. Juíza de Direito da 4a Vara Cível da Comarca de Várzea Grande/MT, de rejeição da arguição de falsificação do prontuário médico trazido aos autos pela agravada e de determinação de início da perícia determinada no id. 33563786.
+A agravante relata que a ação originária é referente a um pedido da agravada de indenização pelo Seguro DPVAT, por entender que em razão de um acidente que ocorreu em 16/11/2015, lhe restaram sequelas permanentes; cita que no processo originário a ora agravante demonstrou indícios de irregularidade e precariedade probante da documentação médica apresentada pela ora agravada; narra que a própria instituição hospitalar afirma que a agravada não teve passagem por aquele hospital, tornando imperiosa a improcedência do processo nos termos do artigo 487, inciso I do CPC, pois não restou demonstrado o nexo de causalidade entre as lesões apuradas e o alegado acidente.
+Sustenta que apesar de ter adiantado os honorários periciais, conforme decisão judicial, tal demanda não deve prosseguir com a realização da perícia visando garantir a segurança jurídica e a imutabilidade da sentença.
+Diante de tais argumentos, pugna pela concessão do efeito suspensivo e, no mérito, o provimento do recurso, para que seja reconhecida a irregularidade dos documentos médicos apresentados pela agravada e que seja julgado improcedente a ação ante a nítida ausência de nexo causal, bem como, para que os autos sejam remetidos ao Ministério Público para adoção das medidas cabíveis, consoante dispõe o artigo 40 do Código de Processo Penal e a extração de cópias ao CRM e a OAB/MT, a fim de que sejam instaurados os devidos inquéritos e verificadas as irregularidades apontadas; alternativamente, que seja suspenso o trâmite da ação atual até resolução de um eventual processo criminal (id 74450472).
+O CPC/2015 assim dispõe sobre a concessão do efeito suspensivo ao recurso de agravo de instrumento:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”.
+No cotejo dos autos, a agravante peticionou sustentando a tese de fraude dos documentos médicos apresentados pela autora/agravada. Trouxe declaração de que na data de 12/05/2016 não consta nos arquivos e sistema a passagem da autora no Pronto Socorro e Hospital Municipal de Várzea Grande.
+Em que pese o argumento da agravante, a Magistrada registrou que ela (seguradora) “não logrou êxito em comprovar se realmente ocorreu a falsificação do referido documento, não havendo provas suficientes nos autos à comprovação do ocorrido”. Ademais, a indenização de seguro obrigatório é devida à vítima de acidente de trânsito, mediante a “simples prova do acidente e do dano decorrente”, conforme estabelece o artigo 5o da Lei 6.194/74.
+Nesse passo, a MM.a Juíza da causa deferiu a produção de prova pericial requerida pelas partes e, com o Boletim de Ocorrência e Laudo Pericial que será elaborado, ficará demonstrado, ou não, a lesão e a incapacidade definitiva do membro do corpo afetado, bem como, se há nexo causal entre a lesão e o acidente alegado pela autora.
+Portanto, nessa fase de cognição sumária, não vislumbro a probabilidade de provimento do recurso e perigo de dano ou o risco ao resultado útil do processo a ensejar na concessão do efeito suspensivo ou ativo ao agravo de instrumento.
+Com essas considerações, em razão da ausência dos requisitos previstos no artigo 995, parágrafo único e 300, caput, ambos do CPC, indefiro o pedido de efeito suspensivo e/ou ativo.
+Intime-se a agravada para apresentar as contrarrazões.
+Cuiabá, 09 de fevereiro de 2021
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
