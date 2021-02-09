@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo apresentado por JUAREZ PIAZZOLLI e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL AÇÃO DE DESPEJO E COBRANÇA DETERMINAÇÃO DO MAGISTRADO PARA RATIFICAR O RECURSO DE APELAÇÃO APRESENTAÇÃO DE NOVOS PEDIDOS PRECLUSÃO CONSUMATIVA IMPOSSIBILIDADE DE COMPLEMENTAR OU EMENDAR O RECURSO DE APELAÇÃO APRESENTADO INCIALMENTE MORTE DO AUTOR NÃO SUSPENSÃO DO PROCESSO PARA REGULARIZAR O POLO ATIVO REQUERIMENTO DE NULIDADE PELOS REQUERIDOS AUSÊNCIA DE PREJUÍZO VALIDADE DOS ATOS PRATICADOS RECURSO NÃO PROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 489, § 1º, do CPC, no que concerne à ausência de fundamentação no acórdão recorrido, trazendo o(s) seguinte(s) argumento(s):
+Quando o Tribunal recorrido deixou de se manifestar sobre Todos Estes Fatos suscitados, contidos expressamente nas Duas (02) Sentenças de Mérito de Primeiro Grau, contrariou a regra prevista em Lei Federal, quer seja, o art. 489, §1º, inciso IV do Código de Processo Civil de 2015. E este desrespeito resultou em Prejuízo no Julgamento de todos os Questionamentos feitos nas Razões do Recurso de Apelação (seq. 67.0 dos Autos de Apelação), atacando mortalmente os Direitos dos Recorrentes/Apelantes. (fls. 495).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
