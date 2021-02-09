@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por João Carlos Cardoso, com base no art. 105, III, a, da Constituição Federal.
+Compulsando os autos, verifica-se que o agravante ingressou com ação de indenização securitária (e-STJ, fls. 3-8, 73), tendo o Juízo de primeiro grau julgado improcedente o pedido (e-STJ, fls. 362-365).
+Interposto recurso de apelação pelo ora agravante, o Tribunal estadual decidiu, por unanimidade, negar-lhe provimento, em acórdão assim ementado (e-STJ, fls. 443-444):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. NEGATIVA AO PAGAMENTO DE SEGURO. RELAÇÃO DE CONSUMO. INICIAL QUE RELATA QUE O AUTOR TERIA SIDO ACOMETIDO DE HÉRNIA DISCAL E ARTROSE LOMBAR, EM RAZÃO DE ESFORÇO FÍSICO EXCESSIVO, GERANDO-LHE INVALIDEZ. PERÍCIA QUE ATESTA TRAUMA NO POLEGAR E PUNHO ESQUERDOS. SENTENÇA DE EXTINÇÃO SEM EXAME DO MÉRITO POR AUSÊNCIA DE INTERESSE DE AGIR. IRRESIGNAÇÃO DA PARTE AUTORA. A PETIÇÃO INICIAL É O ATO JURÍDICO PRATICADO PELA PARTE AUTORA QUE DEFINE OS CONTORNOS DA LIDE, ALÉM DE SER O ATO QUE PROVOCA A PRESTAÇÃO JURISDICIONAL. NÃO SE TRATA DE MERO ERRO MATERIAL NA INDICAÇÃO DO SEGMENTO CORPORAL LESIONADO, MAS DE ERRO NA DESCRIÇÃO DOS FATOS E FUNDAMENTOS DO DIREITO DO AUTOR, UMA VEZ QUE AO ALEGAR QUE AS SUAS ATIVIDADES LABORATIVAS CAUSARAM-LHE HÉRNIA DISCAL E ARTROSE LOMBAR, EM VIRTUDE DE ESFORÇO FÍSICO EXCESSIVO, RESTA PATENTE QUE CARECE O DEMANDANTE DE INTERESSE DE AGIR, POSTO QUE EM VERDADE TRATA A HIPÓTESE DE INVALIDEZ DECORRENTE DE CONTUSÃO EM PUNHO ESQUERDO. SEGURADORA QUE APRESENTOU DEFESA REFERENTE AO EVENTO DESCRITO NA INICIAL, DEIXANDO DE TECER CONSIDERAÇÕES IMPORTANTES SOBRE O ACIDENTE ATESTADO POSTERIORMENTE NO LAUDO PERICIAL. CORRETA A SENTENÇA QUE, COM RELAÇÃO AOS FATOS DESCRITOS NA PEÇA VESTIBULAR, ENTENDEU PELA INEXISTÊNCIA DE INTERESSE DE AGIR EM VIRTUDE DE AUSÊNCIA DE PRETENSÃO RESISTIDA E PELA NÃO ADEQUAÇÃO DA SITUAÇÃO FÁTICA PROBATÓRIA NARRADA NA PETIÇÃO INICIAL. NEGADO PROVIMENTO AO RECURSO.
+Nas razões do recurso especial, fundado no art. 105, III, a, da Constituição Federal, o recorrente alegou violação aos arts. 10 e 317 do CPC/2015 (e-STJ, fls. 459-469).
+Sustentou, em síntese, que o magistrado deveria ter lhe dado oportunidade para emendar a inicial, além de argumentar a proibição de decisão surpresa, sob pena de afronta aos princípios da primazia da resolução do mérito.
+Contrarrazões apresentadas (e-STJ, fls. 474-476).
+O Tribunal de origem não admitiu o processamento do recurso especialem virtude da incidência daSúmulan. 7/STJ (e-STJ, fls. ).
+Foi interposto agravo em recurso especial às fls. 489-493(e-STJ), e contraminuta apresentada às fls. 499-502(e-STJ).
+Brevemente relatado, decido.
+No tocante aos arts. 10 e 317 do CPC/2015, verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem ao caso os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+É nesse sentido o entendimento desta Corte:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO DE VIZINHANÇA. DISPOSITIVOS LEGAIS SUSCITADOS COMO VIOLADOS. HIPÓTESES EM QUE CABÍVEIS O AGRAVO DE INSTRUMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ART. 526 DO CÓDIGO DE PROCESSO CIVIL DE 1973. COMPROVANTE DE INTERPOSIÇÃO DO AGRAVO DE INSTRUMENTO. NÃO APRESENTAÇÃO. AUSÊNCIA DE PREJUÍZO. INSTAURAÇÃO DO PROCESSO PELO RITO ORDINÁRIO. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo Tribunal de origem, a questão federal suscitada. Incidem as Súmulas n. 282 e 356 do STF.
+2. A jurisprudência desta Corte firmou o entendimento no sentido de que, "o decreto da inadmissibilidade do agravo de instrumento, em razão do descumprimento da providência prevista no artigo 526 do CPC de 1973, condiciona-se à constatação do prejuízo da parte agravada" (AgInt no REsp 1.458.972/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 4.12.2018, DJe de 12.12.2018).
+3. A jurisprudência do STJ já decidiu que é possível a instauração de processo pelo rito ordinário, em hipótese de cabimento do rito sumário, desde que não ocorra prejuízo para a parte adversa.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1351630/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da causa, observada a gratuidade dejustiça.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. VIOLAÇÃO AOS ARTS. 10 E 317 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
