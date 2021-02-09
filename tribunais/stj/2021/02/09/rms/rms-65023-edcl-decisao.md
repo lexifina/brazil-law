@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARLENE ALVES à decisão de fls. 261/262, que não conheceu do recurso, em razão de sua intempestividade.
+Sustenta a parte embargante que a decisão embargada incorreu em omissão ao deixar de analisar "os requisitos basilares para o deferimento da segurança pretendida, pois não observou e nem tampouco se referiu ao periculum in mora e ao fumus boni iuris" (fl. 266).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Com efeito, a parte embargante alega a existência de omissão na decisão recorrida e pretende o exame do mérito do recurso em mandado de segurança. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, ante sua manifesta intempestividade. Portanto, não há que se cogitar da ocorrência de omissão, uma vez que o recurso sequer ultrapassou o juízo prévio de admissibilidade.
+No mesmo sentido, a apreciação do periculum in mora e do fumus boni iuris está intrinsecamente vinculada à possibilidade de êxito do referido recurso. Assim, considerando o não conhecimento do apelo, resta prejudicada a análise em questão.
+Observa-se, ademais, que a parte limita-se a repetir as alegações apresentadas no recurso em mandado de segura, sem estabelecer conexão entre os fundamentos da decisão de intempestividade do recurso e destes aclaratórios, em afronta ao princípio da dialeticidade.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
