@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por PEDRO ROBERTO PETER BENIAMINO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 29/07/2020.
+Concluso ao gabinete em: 09/12/2020.
+Ação:de despejo por falta de pagamento cumuladacom cobrança, em fase de cumprimento definitivo de sentença, movida por ARIOVALDO PIRES WEINBERGER e OUTRA, contra MAJO CRISTOFER EQUIPAMENTOS DE MOVIMENTACAO DE CARGAS LTDA, e dos garantidores PEDRO ROBERTO PETER BENIAMINO eALZIRA CHAGAS.
+Decisão interlocutória: indeferiu o pedido suspensão de leilão dos direitos de compra sobre imóvel.
+Acórdão: negou provimento ao agravo de instrumento do agravante, nos termos da ementa:
+PROCESSUAL CIVIL - Ação de despejo por falta de pagamento cumulada com cobrança julgada procedente - Fase de cumprimento - Decisão de primeiro grau que mantém penhora de direitos sobre imóvel - Agravo interposto pelos executados, devedores solidários - Previsão contratual de garantia pessoal, solidária e irrestrita em relação aos débitos - Regular participação dos executados da fase de conhecimento - Decisão mantida - Recurso desprovido(e-STJ fl. 221)
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, § 1º, IV, 513, 771, 783,1.022, do CPC/15; 37, parágrafo único da Lei 8.245/91;112, 113, 166, II, 168, parágrafo único, do CC/02. Além de negativa de prestação jurisdicional, sustenta que da leitura atentado contrato, é possível extrair a inexistência de garantia fidejussória. Aduz que serviram no contrato como caucionantes com garantia real e que o imóvel objeto dagarantia foi adjudicado em outra demanda. Se insurge contra a interpretação do Tribunal de origem que ignorou a cláusula vigésima primeira do contrato que limitava a garantia à caução real sobre imóvel nela especificado, de modo que a penhora de imóvel diverso fere a lei de locações que proíbea duplicidade de garantias. Sustenta que não se pode "conceder às expressões soltas e incongruentes com o realmente contratadoexpressão de uma intenção insuficientemente abrigada na cláusula décima quarta, e mais porque, ilegal por representar cumulação proibida de garantias contratuais" (e-STJ fls. 263). Alega que a Corte local não decretou a referida nulidade de ofício, resultando em ofensa ao parágrafo único do art. 168 do CC/02. Por derradeiro, defende que a agravada perdeu o seu interesse de agir na fase de cumprimento de sentença uma vez que o bem sobre o qual recaía a garantia real se perdeu, agregado ao fato de impossibilidade de se atingir o patrimônio pessoal por ausência de garantia fidejussória.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da responsabilidade total e solidária do agravante e da interessada; e acerca da execuçãode títulojudicial ora executado que na fase de conhecimento fora reconhecida a responsabilidade dos caucionantes sem nenhuma discussão acerca de caucionamento real.
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, não havendo que se falar em violação dos art. 489 e 1.022 do CPC.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou o art. 113 do CC/02, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 513, 771, 783, do CPC/15; 112, 113, 166, II, 168, parágrafo único, do CC/02, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+Por derradeiro, em relação à alegação de prequestionamento em razão da aplicação do art. 1.025 do CPC/15, cabe ressaltar que o referido dispositivo dispõe que serão incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Entretanto, na situação posta em análise, esta Corte não entendeu pela existência de erro, omissão, contradição ou obscuridade, o que impede a inclusão dos dispositivos mencionados nas razões do recurso especial no bojo do acórdão impugnado para fins de prequestionamento da matéria.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao título judicial ora executado responsabilizar o agravado e a interessada sem que na fase de conhecimento tenha havido qualquer alusão à garantia real, e no que se refere ao instrumento prever a responsabilidade solidária e integral dos mesmos, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais para acolher a tese do agravante, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃ DE DESPEJO POR FALTA DE PAGAMENTO COM PEDIDO DE COBRANÇA EM FASE DE CUMPRIMENTO DEFINITIVO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA.FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de despejo por falta de pagamento com pedido de cobrança, em fase de cumprimento definitivo de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
