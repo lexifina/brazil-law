@@ -1,0 +1,8 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO CRUZEIRO DO SUL S.Aem face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim ementado:
+AGRAVO DE INSTRUMENTO RECURSO INTERPOSTO CONTRA A R DECISÃO QUE ALTEROU A CLASSIFICAÇÃO DO CRÉDITO DO GAMA PARA QUIROGRAFÁRIO DECISÃO FUNDADA EM TRÊS PREMISSAS 1) O FGC PROVEU LIQUIDEZ AO BCS ATRAVÉS DO GAMA ANTES E DURANTE O RAET E EM GARANTIA RECEBEU POR CESSÃO FIDUCIÁRIA DIREITOS CREDITÓRIOS 2) NÃO INCIDE O ART 83 INCISO VIII ALÍNEA B DA LEI Nº 11101/05 POIS OS APORTES REALIZADOS PELO FGC VIA GAMA NÃO INDICAM FRAUDE MAS MERO CUMPRIMENTO DE OBRIGAÇÃO CONTRATUAL COM VISTAS À SALVAGUARDA DO BCS E 3) A GARANTIA FIDUCIÁRIA NÃO FOI REGULARMENTE CONSTITUÍDA AUSENTE O REGISTRO NO DOMICÍLIO DO DEVEDOR (ART 1361 § 1 DO CC/02 E SÚMULA 60 DESTE E TJSP) O QUE AFASTA A NATUREZA EXTRACONCURSAL (POR RESTITUIÇÃO) DO CRÉDITO E CARACTERIZA SUA ÍNDOLE QUIROGRAFÁRIA
+Nas razões do recurso especial, sustenta a parte recorrente violação dos arts. 83, VIII, b, da Lei 11.101/05 e 437, § 1º, do CPC.
+É o relatório.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
