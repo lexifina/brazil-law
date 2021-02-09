@@ -1,0 +1,62 @@
+PJe - Processo Judicial Eletrônico
+Tribunal de Justiça de Mato Grosso
+Segunda Câmara de Direito Público e Coletivo
+Agravo de Instrumento no 1001450-46.2021.8.11.0000
+Agravante: ILMA GRISOSTE BARBOSA
+Agravado: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Visto.
+Trata-se de Agravo de Instrumento com pedido de antecipação de tutela recursal interposto por ILMA GRISOSTE BARBOSA, face a r. decisão proferida pelo Juízo da Vara Única da Comarca de Sapezal/MT, nos autos da Açao Civil Pública no 1000444-95.2020.8.11.0078, movida pelo Ministério Público Estadual em desfavor da Agravante e Outros, que deferiu o pedido de indisponibilidade de bens, limitado ao valor de R$1.685.442,96 (um milhão seiscentos e oitenta e cinco mil mil quatrocentos e quarente e dois reais e noventa e seis centavos).
+Sustenta a Agravante que, apurado o valor do suposto prejuízo ao erário, na ordem de quinhentos e sessenta mil reais, não há falar no decreto de indisponibilidade de bens deste valor somado à eventual multa civil.
+Assevera que, a constrição de bens deve recair somente sobre os bens que assegurem o integral ressarcimento do dano ou o acréscimo patrimonial resultante do enriquecimento ilícito.
+Assevera que, são impenhoráveis, os vencimentos, destinados ao sustento do devedor e de sua família.
+Com base nestes fundamentos, requer a concessão da antecipação de tutela recursal, determinando-se a restituição da quantia bloqueada em conta salário da Agravante, bem como a limitação do decreto de indisponibilidade de bens, ao valor de R$561.814,32 (quinhentos e sessenta e um mil oitocentos e quatorze reais e trinta e dois centavos).
+É o relatório.
+Decido.
+Extrai-se dos autos que, o Ministério Público Estadual moveu Ação Civil Pública por Ato de Improbidade Administrativa, em desfavor da Agravante e Outros, ao fundamento de que, a Recorrente, na qualidade de Prefeita Municipal, autorizou a realização de dois procedimentos licitatórios, para fins de contratação de serviços de exames radiológicos por imagem.
+Narra na exordial que, em ambos procedimentos licitatórios, foram apurados a existência de superfaturamento, correspondente ao montante de R$561.814,32 (quinhentos e sessenta e um mil oitocentos e quatorze reais e trinta e dois centavos).
+Por tal razão, o Parquet moveu a demanda originária, postulando, in initio litis, pelo decreto de indisponibilidade de bens, do valor apurado a título de superfaturamento, acrescido de multa civil, de duas vezes o valor do dano causado.
+Sobreveio a decisão agravada, que deferiu a liminar vindicada.
+Pois bem.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de concessão da antecipação de tutela recursal merece acolhimento, face a presença dos pressupostos autorizadores para o seu deferimento.
+Na espécie, verifica-se a plausibilidade do direito invocado a revelar, nesta fase de cognição sumária, a relevância da pretensão recursal.
+Vejamos o disposto na Lei de Improbidade Administrativa:
+Art. 4° Os agentes públicos de qualquer nível ou hierarquia são obrigados a velar pela estrita observância dos princípios de legalidade, impessoalidade, moralidade e publicidade no trato dos assuntos que lhe são afetos.
+Art. 7° Quando o ato de improbidade causar lesão ao patrimônio público ou ensejar enriquecimento ilícito, caberá a autoridade administrativa responsável pelo inquérito representar ao Ministério Público, para a indisponibilidade dos bens do indiciado.
+Parágrafo único. A indisponibilidade a que se refere o caput deste artigo recairá sobre bens que assegurem o integral ressarcimento do dano, ou sobre o acréscimo patrimonial resultante do enriquecimento ilícito.
+Art. 10. Constitui ato de improbidade administrativa que causa lesão ao erário qualquer ação ou omissão, dolosa ou culposa, que enseje perda patrimonial, desvio, apropriação, malbaratamento ou dilapidação dos bens ou haveres das entidades referidas no art. 1o desta lei, e notadamente:
+I - facilitar ou concorrer por qualquer forma para a incorporação ao patrimônio particular, de pessoa física ou jurídica, de bens, rendas, verbas ou valores integrantes do acervo patrimonial das entidades mencionadas no art. 1o desta lei;
+Art. 12. Independentemente das sanções penais, civis e administrativas previstas na legislação específica, está o responsável pelo ato de improbidade sujeito às seguintes cominações, que podem ser aplicadas isolada ou cumulativamente, de acordo com a gravidade do fato:
+I - na hipótese do art. 9°, perda dos bens ou valores acrescidos ilicitamente ao patrimônio, ressarcimento integral do dano, quando houver, perda da função pública, suspensão dos direitos políticos de oito a dez anos, pagamento de multa civil de até três vezes o valor do acréscimo patrimonial e proibição de contratar com o Poder Público ou receber benefícios ou incentivos fiscais ou creditícios, direta ou indiretamente, ainda que por intermédio de pessoa jurídica da qual seja sócio majoritário, pelo prazo de dez anos;
+A indisponibilidade de bens visa assegurar o cumprimento do disposto no parágrafo 4o do artigo 37 da Constituição Federal, que prevê como consequência da prática do ato ímprobo, o ressarcimento dos prejuízos causados ao erário.
+De acordo com a jurisprudência assente na Corte Superior, desnecessário se mostra para a concessão da medida, que haja a prova da dilapidação do patrimônio do agente, bastando para tanto a verificação da gravidade dos fatos atribuídos à parte.
+Entretanto, para que seja acolhido, o pedido de indisponibilidade de bens deve vir acompanhado da robustez necessária apta a ensejar, de plano, a concessão da medida, ou seja, devem ser demonstrados fortes indícios da responsabilidade do agente na execução do ato de improbidade; evidenciada no caso concreto.
+No caso em tela, depreende-se que, a Agravante, na qualidade de Prefeita Municipal, autorizou a realização de procedimento licitatório, em que, posteriormente, fora constatado superfaturamento, descurando-se, assim, do seu dever de proceder a devida análise se os preços praticados se mostravam condizentes com o valor de mercado.
+Contudo, inobstante a existência de indícios da prática de ato de improbidade administrativa, bem como a reprovabilidade da conduta perpetrada, não há falar, in initio litis, na indisponibilidade de bens a abranger o valor do efetivo prejuízo, somado à multa civil.
+No que tange à aplicação de penalidades, incumbe ao julgador agir com prudência, avaliando a gravidade da conduta, a extensão do dano causado e o proveito patrimonial obtido, em observância a critérios de razoabilidade e proporcionalidade.
+Registre-se que, tal entendimento não se trata de condescendência com atos ímprobos, mas de aplicação de critérios de moderação e equilíbrio na aplicação das sanções previstas na Lei de Improbidade, com a persecução tão somente do estrito ressarcimento do dano ao erário, sem onerar de forma excessiva e desnecessária aos Réus.
+A corroborar o acima exposto, colaciono precedente do Superior Tribunal de Justiça:
+“DIREITO SANCIONADOR. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. MEDIDA ACAUTELATÓRIA DE INDISPONIBILIDADE DE BENS DO ACIONADO POR IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE DEMONSTRAÇÃO DO VALOR DEVIDO A SER BLOQUEADO. IMPOSSIBILIDADE DE INDISPONIBILIDADE DO VALOR TOTAL DO CONTRATO, QUANDO A CORTE DE ORIGEM RECONHECE QUE GRANDE PARTE DO SERVIÇO FOI EFETIVAMENTE PRESTADO. AGRAVO EM RECURSO ESPECIAL PROVIDO, PARA AFASTAR A INDISPONIBILIDADE DE BENS DECRETADA, POR AUSÊNCIA DE APURAÇÃO DO EVENTUAL DANO AO ERÁRIO. 1. A indisponibilidade deve estar adstrita ao dano efetivamente causado, ou seja, o atraso na prestação do serviço, e não em todo o contrato, sob pena da Municipalidade se enriquecer ilicitamente, haja vista que foi reconhecida a prestação do serviço. O bloqueio patrimonial do acionado em abstrato, sem nenhuma prévia apuração de qual seria o valor do eventual dano, constitui um rematado abuso de poder, porquanto se está constrangendo valores positivos, sem que se tenha ideia alguma, sequer por estimativa, de qual seria a expressão quantitativa do dano a ser oposto. 2. Agravo em Recurso Especial do Particular provido, para afastar a indisponibilidade de bens decretada, por ausência de apuração do eventual dano ao erário. (AREsp no 752.686-RS, Primeira Turma, Rel. Min. Napoleao Nunes Maia Filho, DJ 22/05/2018).
+Posto isso, o decreto de indisponibilidade de bens deve recair somente sobre o valor do possível dano ao erário, que no caso, compreende a quantia de R$561.814,32 (quinhentos e sessenta e um mil oitocentos e quatorze reais e trinta e dois centavos).
+Feitas estas considerações, comporta retificação parcial a decisão, no ponto que determinou a indisponibilidade de bens em relação à Agravante, no valor do apontado prejuízo ao erário, somado à multa civil.
+Remanesce então, a necessidade de se analisar o valor constrito em eventual conta salário da Agravante.
+Conforme se verifica no id. 45927176 -p. 6, houve a constrição do valor de R$6.891,86 (seis mil oitocentos e noventa e um reais e oitenta e seis centavos), depositado em conta bancária de titularidade da Recorrente.
+Ocorre que, a Agravante logrou êxito em demonstrar que, tal quantia compreende verba salarial, conforme holerite colacionado no id. 74515966 – p. 4
+Vejamos o disposto na legislação processual civil:
+“Art. 833. São impenhoráveis:
+(...)IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2o ;”
+(...)
+§ 2o O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8o , e no art. 529, § 3o .”
+Preconiza o artigo 833 do Código de Processo Civil, que são impenhoráveis os vencimentos e salários de trabalhador autônomo, excetuadas as hipóteses de verbas alimentares.
+Não é de desconhecimento desta Relator que, o Superior Tribunal de Justiça possui precedentes no sentido de que, a impenhorabilidade do salário pode ser relativizada, de modo a se permitir constrição sobre parcela dos vencimentos, desde que seja observado o mínimo necessário à subsistência do devedor.
+Entretanto, face ao fundado receio de ofensa à dignidade do devedor e o sustento de sua família, não há como se deferir, nesta quadra processual, eventual penhora sobre subsídio.
+A corroborar o acima exposto:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PENHORA. VERBAS DE NATUREZA ALIMENTAR. IMPOSSIBILIDADE. SÚMULA N. 83/STJ. EXCEPCIONALIDADE NÃO DEMONSTRADA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. DECISÃO MANTIDA.
+1. Consoante entendimento desta Corte, em regra, é incabível a penhora incidente sobre valores recebidos a título de subsídios, soldos, salários, remunerações, proventos de aposentadoria e pensões, entre outras. Precedentes.(...)” (AgInt no REsp 1821995/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/11/2019, DJe 19/11/2019)
+Feitas estas considerações, evidenciada a probabilidade do direito e o risco de dano, de rigor a concessão do efeito ativo vindicado.
+Ante o exposto, defiro o pedido de concessão da antecipação de tutela recursal, para limitar o decreto de indisponibilidade de bens ao valor do efetivo prejuízo apurado, qual seja, R$561.814,32 (quinhentos e sessenta e um mil oitocentos e quatorze reais e trinta e dois centavos), bem como para determinar a liberação do valor constrito, na ordem de R$6.891,86 (seis mil oitocentos e noventa e um reais e oitenta e seis centavos), por se tratar de valor recebido a título de salário.
+Comunique-se o juízo de primeiro grau.
+Intime-se o Agravado, para, querendo, apresentar contrarrazões.
+Após, à Procuradoria-Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Des. Mario Roberto Kono de Oliveira
+Relator
