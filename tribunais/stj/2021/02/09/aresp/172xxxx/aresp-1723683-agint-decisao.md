@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interno interposto porRosária Maria Veloso da Silva Soares e outros, desafiando decisão da Presidência do Superior Tribunal de Justiça,que não conheceu do agravo em recurso especial, sob ofundamentode que incide a Súmula 284/STF, tendo em vista que a parte recorrente, nas razões do apelo nobre, deixou de indicar, precisamente, o dispositivo de lei supostamente violado.
+Inconformada, a parte agravante, em suas razões, sustenta que deve ser afastado o óbice aplicado, pois "os dispositivos infraconstitucionais violados pelo Tribunal a quo foram devidamente apontados no Recurso Especial." (fl. 2531), apontando trecho das razões recursais em que houve menção dedispositivo do CPC/2015, relacionado ao tema da litispendência.
+Os agravados apresentaram impugnação (fls. 2543/2560, 2561/2562 e 2564/2566).
+É o breve relatório.
+Melhor compulsando os autos, exerço o juízo de retratação facultado pelo arts. 1.021, § 2º, do CPC/2015 e 259 do RISTJ, reconsidero a decisão agravada de fls. 2522/2525, tornando-a sem efeito.
+Passo à nova análise do agravo em recurso especial, como se segue:
+Trata-se de agravo manejado por Rosária Maria Veloso da Silva Soares e outroscontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 2256):
+PROCESSUAL CIVIL. AÇÕES IDÊNTICAS. LITISPENDÊNCIA.
+Configurada a litispendência, nos termos do artigo 337, parágrafos 2º e 3º, do Código de Processo Civil, impõe-se a extinção da ação, sem resolução de mérito, com fulcro no artigo 485, inciso V, do Código de Processo Civil, a fim de evitar a prolação de decisões conflitantes.
+Opostos embargos declaratórios, foram parcialmente acolhidos, para fins de prequestionamento.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 337, VI, e 508 do CPC/2015. Sustenta, em síntese,que a litispendência nãoestá caracterizada, na hipótese, tendo em vista que não se verifica a tríplice identidade.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Ao dirimir a controvérsia, a Instância a quo consignou (fls. 2252/2253):
+Depreende da análise da petição inicial da ação originária que os autores pleitearam:
+a) seja determinada a anotação junto ao CNJ e TJ/PR de que a titularidade das serventia s pelas quais os autores ora respondem está sub judice;
+b) seja concedida a tutela de provisória de urgência antecipada para que, modulando - se o comando da decisão do Supremo Tribunal Federal, seja deferido ao s Autor es a permanência na atual e respectiva serventia, até que aquela para a qual foram originariamente designado s seja recriada, possibilitando - se seu s retorno s e desfazimento da permuta;
+c) sejam citados a UNIÃO e o Estado do Paraná, na pessoa de seusrepresentantes legais , para, querendo , apresentar resposta, no prazo legal;
+d) sejam produzidos todos os meios de prova em direito admitidos, os quais serão especificados em momento processual oportuno;
+e) seja julgado procedente o pedido contido na presente demanda, para os fins de ser declarado que os Autores ingressaram na carreira notarial por meio de concurso público, sendo igualmente reconhecido o direito de ser os mesmos mantidos em tal carreira, condenando-se os Réus a assegurarem tal vínculo, nos termos da fundamentação;
+f) sejam os Réus condenada no pagamento das despesas processuais e honorários advocatícios a serem fixados por Vossa Excelência nos termos do Artigo 85 , do Código de Processo Civil (grifei).
+Nas ações ordinárias n.ºs 5001730-97.2015.4.04.7012, 5001874- 62.2015.4.04.7015, 5001914-50.2015.4.04.7013, 5001916-20.2015.4.04.7013, 5004067-80.2015.4.04.7005, 5004765-74.2015.4.04.7009, 5007625- 66.2015.4.04.7003, 5007694-98.2015.4.04.7003, 5009324-98.2015.4.04.7001, e 5033089-04.2015.4.04.7000, foram formulados pedidos semelhantes:
+1 . Ser declarada a invalidade da Resolução 80/2009 do CNJ e dos atos de efeitos concretos em desfavor do Autor dela decorrentes, mantendo-se o mesmo, que ingressou na carreira notarial e de registro, dada a sua incompetência para o julgamento de constitucionalidade ou a negativa de aplicação de legislação estadual que embasava as remoções por ele indevidamente desconstituídas, uma vez que tais remoções observaram os procedimentos de remoção previstos na Lei Estadual 7.297/80, na respectiva serventia;
+2. ser declarado que o Autor ingressou na carreira notarial por meio de concurso público, sendo igualmente reconhecido o direito de ser o mesmo mantido em tal carreira, preferencialmente na serventia atualmente por ele titularizada, dado o princípio da continuidade do serviço público.
+(a título exemplificativo, a inicial dos autos nº 5001874-62.2015.4.04.7015 - grifei)
+Diante desse contexto, é irretocável o reconhecimento da existência de litispendência, a obstar o prosseguimento da demanda (artigo 337, parágrafos 2º e 3º, do Código de Processo Civil), porque, tanto nas ações individuais como nesta proposta em litisconsórcio, os autores deduzem a mesma causa de pedir (impossibilidade de regresso às serventias de origem, nas quais teriam sido investidos regularmente mediante concurso público) para formular o mesmo pedido (manutenção nas serventias atualmente ocupadas). Com efeito, impõe-se a extinção da demanda proposta posteriormente, com fulcro no artigo 485, inciso V, do Código de Processo Civil, a fim de evitar a prolação de decisões contraditórias sobre idênticas situações fático-jurídicas.
+Nesse contexto, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de afastar a litispendência, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito do tema, confira-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. FUNDAMENTO INATACADO.RECONHECIMENTO. LITISPENDÊNCIA. REEXAME DE FATOS. IMPOSSIBILIDADE.REUNIÃO DE AÇÕES. JULGAMENTO PRÉVIO DE UMA DELAS. INVIABILIDADE.
+1."É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles." (Súmula 283 do STF).
+2.Ao direcionar a sua tese no sentido de que o pedido de parcelamento tributário abrangeria toda a dívida do contribuinte com o ente tributante por determinação legal, o recorrente deixa de impugnar o fundamento do acórdão recorrido de que a propositura da ação anulatória contra parte dos créditos tributários excluiria os referidos créditos do parcelamento e do alcance da regra do art. 151 do CTN, dando-se reinício à contagem do prazo prescricional para a propositura da execução em razão do que dispõe o art. 585, §§, do CPC/1973.
+3.Hipótese em que o conhecimento do recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, pois Tribunal a quo, atento ao conjunto fático-probatório, decidiu que os objetos das ações (embargos à execução e ação anulatória) não se confundiriam, apesar de reconhecer haver certa conexão entre elas e de não ser possível a sua reunião uma vez que a ação anulatória já teria sido objeto de julgamento antes dos embargos, o que está em conformidade com pacífico entendimento jurisprudencial deste Tribunal Superior (Súmula 235 do STJ).
+4.Agravo interno desprovido.
+(AgInt no REsp 1658077/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 01/06/2020, DJe 16/06/2020)
+ANTE O EXPOSTO,nego provimento ao agravo.
+Publique-se.
