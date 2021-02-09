@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por ANTÔNIO DE OLIVEIRA ÓTIMO, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 492):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. ART. 15 DA LEI N.10.826/2003. ALEGAÇÃO DE AFRONTA AO ART. 381 DO CÓDIGO DE PROCESSO PENAL. NULIDADE DA SENTENÇA POR FALTA DE FUNDAMENTAÇÃO ADEQUADA. INEXISTENTE. PLEITO PELA ABSOLVIÇÃO POR FALTA DE PROVAS OU AUSÊNCIA DE ELEMENTO SUBJETIVO DO TIPO (DOLO). INVERSÃO DO JULGADO.SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não subsiste a alegada afronta ao art. 381 do Código de Processo Penal, pois o magistrado de piso solucionou a quaestio juris de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento, não havendo falar em nulidade da sentença por fundamentação inadequada.
+2. O Tribunal de origem concluiu que estão presentes todos os elementos imprescindíveis à condenação do Acusado, inclusive o dolo. Portanto, a inversão do julgado, de maneira a fazer prevalecer o pleito absolutório por ausência de lastro probante ou do citado elemento subjetivo do tipo demandaria revolvimento das provas e fatos que instruem o caderno processual, desiderato esse incabível na via do recurso especial, a teor da Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo regimental desprovido.
+Sustenta o recorrente a repercussão geral da matéria tratada, aduzindo que o aresto impugnado teria violado o art. 5º, incisos LIV e LV, da Constituição Federal.
+Aduz que o enunciado 7 da Súmula deste Superior Tribunal de Justiça não seria aplicável ao caso, uma vez que pretendia a análise da valoração dada às provas utilizadas para a formação do convencimento dos julgadores.
+Alega que a valoração dos elementos de convicção no curso do feito teria ofendido os arts. 386, inciso VII, do Código de Processo Penal, bem como o art. 44 do Código Penal.
+Considera que não haveria óbices ao conhecimento do recurso especial.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 525/528.
+É o relatório.
+Compulsando-se os autos, verifica-se que o acórdão objeto do recurso extraordinário negou provimento ao agravo regimental, mantendo a decisão que conheceu do agravo para não conhecer do recurso especial, em razão da incidência do verbete 7 da Súmula deste Superior Tribunal de Justiça.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBJETO RECURSAL REJEITADO PELO STF. RE 598.365-RG/MG (TEMA 181). QUESTÃO CONSTITUCIONAL IMPUGNADA ORIGINARIAMENTE. NÃO OCORRÊNCIA. PRECLUSÃO. 1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, tema 181, por se tratar de questão infraconstitucional. 2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada em momento próprio, sob pena de preclusão, apenas sendo admissível recurso extraordinário de acórdão de recurso especial quando, no julgamento deste, originar-se a matéria constitucional impugnada. Precedentes. 3. Agravo interno a que se nega provimento.
+(ARE 768.691 ED, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/06/2018, PROCESSO ELETRÔNICO DJe-153 DIVULG 31-07-2018 PUBLIC 01-08-2018)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO. 1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365). 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
