@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por ROSEANY DA SILVA BRUNETTI, em que pretende a admissão de recurso especial manejado contra acórdão assim ementado:
+RECURSOS OFICIAL E DE APELAÇÃO - DIREITO TRIBUTÁRIO E CONSTITUCIONAL - ITCMD - DECRETO ESTADUAL Nº 55.002/09 BASE DE CÁLCULO - VALOR VENAL DE REFERÊNCIA - LEGALIDADE - INOCORRÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA RESERVA DE LEIS.1. O valor venal de referência mencionado no Decreto Estadual nº 55.002/09 corresponde, na realidade, ao de mercado do respectivo bem imóvel, previsto no § 1º do artigo 9º da Lei Estadual nº 10.705/00.2. O referido Decreto não modificou a base de cálculo do tributo Estadual, limitando-se, apenas e tão- somente, a definir o que seria o valor venal de mercado.3.Sentença que concedeu a ordem impetrada em mandado de segurança, reformada.4. Ordem impetrada, denegada. 5. Recursos oficial e de apelação, providos.
+Os embargos de declaração foram rejeitados.
+A recorrente, apontando violação do art. 38 e 148 do CTN, sustenta a ilegitimidade do valor de ITCMD apurado pela Administração Tributária, porquanto fundado em decreto (Decreto n. 55.022/2009) que, utilizando com referência o valor utilizado para fins de ITBI, indevidamente modificou o critério previsto na lei estadual (Lei paulista n. 10.705/2000) para definição da base de cálculo do imposto, que corresponderia ao valor de mercado do imóvel. Afirma, ainda, que, "caso o estado entenda que o valor venal atribuído por lei não estabelece a real situação do imóvel, tem o dever de instaurar processo regular para aferição do valor que endente ser correto, não podendo simplesmente adotar outra base de cálculo".
+Depois de apresentadas as contrarrazões, o Tribunal de origem obstou o recurso especial por entender incidir o óbice daSúmula 280 do STF; fundamentação com a qualnão concordaa agravante.
+Oferecida contraminuta.
+Parecer do Ministério Público Federal pelo desprovimento do agravo.
+Passo a decidir.
+O recurso especial em comento não merece ser mesmo admitido.
+Digo isso porque os dispositivos de lei federal tido por violados (arts. 38 e 148 do CTN) não foram efetivamente analisado no julgado estadual, carecendo o recurso especial do requisito do prequestionamento, nos termos da Súmula 282 do STF.
+Em verdade, a Corte bandeirante limitou-se a fazer o juízo de compatibilidade entre odecreto atacado e a lei estadual de regência do ITCMD, concluindo que aquele não desbordou do critério legal referente à base de cálculo tributo (valor venal).Confira-se:
+(..) o valor venal de referência do bem imóvel mencionado no Decreto ora analisado corresponde, na realidade, ao de mercado, já previsto no § 1º do artigo 9º da Lei Estadual nº 10.750/00, de modo que não há falar em afronta ao referido constitucional da reserva legal, porque a base de cálculo do ITCMD não foi modificada pelo Decreto Estadual n. 55.022/09, que se limitou, apenas e tão-somente, a definir o que seria o chamado "valor venal de mercado".
+Nesse contexto, a revisão do acórdão recorrido passa necessariamente pelo reexame da intepretação que foi dada à aludidalei local, o que é inviável no âmbito do recurso especial, consoante inteligência da Súmula 280 do STF.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial (art. 253, parágrafo único, II, "a", do RISTJ).
+Publique-se. Intimem-se.
