@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDUARDO AUGUSTO ROCHA MIRANDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO PROCESSO CIVIL EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CITAÇÃO POR EDITAL VALIDADE ENDEREÇO INCOMPLETO INVIABILIDADE DA CITAÇÃO PESSOAL ALEGAÇÃO DE NULIDADE REJEIÇÃO RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 7, 240, 256 e 257, do CPC, no que concerne à ocorrência de nulidade da citação por edital, trazendo os seguintes argumentos:
+16. Houve precipitada atuação, de ofício, do douto juízo a indicar ao recorrido que manifestasse acerca da citação por edital, de forma direta, sem tampouco diligenciar que a própria parte autora manifestasse nos autos conhecimento de outro endereço, posto que somente indicou um único endereço para citação do recorrente na petição inicial e não foi advertida para promover a indicação de outro.
+17. Não consta dos autos negativa de conhecimento de outro endereço o qual pudesse ser encontrado o recorrido, apenas sua concordância pela induzida citação por edital.
+18. O artigo 7" do CPC/2015 dispõe que compete ao juiz zelar pelo efetivo contraditório.
+ ..
+20. O art. 240, § 2º, do CPC/15, determina que incumbe ao autor adotar as providências necessárias para viabilizar a citação, sendo do recorrido o ônus processual, não do juízo.
+21. O i. ac órdão considerou que o endereço apontado no sistema SIEL (id. 10016383), restou incompleto, sem nome de rua, número ou cep, fato que impediu a expedição de mandado de citação. Porém, não determinou a intimação do recorrente (autor) para que indicasse novo endereço, ao contrário o intimou para manifestar o interesse pela citação pelo edital em completa afronta aos artigos 7º (obstou o contraditório) e art. 240, § 2º, do CPC/15 (agiu de oficio).
+ ..
+23. Seguindo, a citação por edital somente poder ser feita quando desconhecido ou incerto o citando, ou quando ignorado, incerto ou inacessível o lugar em que se encontrar o citando, ou nos casos expressos em lei (art. 256 e incisos, CPC/2015). Houve tão somente a busca de endereços pelo douto juízo de piso (id. 7362227). E de maneira parcial presumiu que a parte autora não teria conhecimento de novo logradouro (id. 8270018).
+24. O art. 257, inciso I, determina que são requisitos da citação por edital: "a afirmação do autor ou a certidão do oficial informando a presença das circunstâncias autorizadoras"  grifo nosso. Conforme já mencionado, não consta dos autos afirmação do autor de desconhecimento de lugar onde poderia ser encontrado o recorrente (fls. 180/182).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Nos termos do inciso II do art. 256 do CPC, a citação por edital será feita quando ignorado, incerto ou inacessível o lugar em que se encontra o citando. No caso em tela, após realizadas todas as pesquisas disponíveis por este Juízo, restou demonstrado que não seria possível a localização do executado,cabendo, na hipótese, a citação por edital.
+Embora argumente o executado que o sistema SIEL (ID 7677909) indicou seu atual endereço, verifica-se no documento citado que o logradouro está incompleto quando comparado com o indicado na petição de ID 33630161. Assim, não há como a secretaria deste Juízo realizar a citação com base em informações incompletas.
+ ..
+Isto posto , reputo válida a citação por edital por estar em consonância com o que diz o inciso II do art. 256 do CPC. Deixo de apreciar os pedidos de litigância de má-fé , por não observar nenhum acontecimento que macule os autos deste processo (fl. 153/154).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
