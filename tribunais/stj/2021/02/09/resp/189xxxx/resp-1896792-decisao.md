@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por Banco do Brasil S.A., com fulcro no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 436):
+APELAÇÃO. CIVIL E PROCESSO CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOSMATERIAIS. FALHA NA PRESTAÇÃO DO SERVIÇO DE VIGILÂNCIA. AUTUAÇÃO EMULTA PELO ÓRGÃO DE FISCALIZAÇÃO. ÔNUS DA PROVA. ARTIGO 373 DO CÓDIGODE PROCESSO CIVIL. OBRIGAÇÃO DE REPARAÇÃO DOS DANOS SOFRIDOS.
+1. Incumbe ao autor provar os fatos constitutivos de seu direito e ao réu, provar os fatos impeditivos, modificativos ou extintivos do direito do autor (art. 373 do Código de Processo Civil).
+2. Consoante disposto no artigo 186 do Código Civil, aquele que comete ato ilícito, por ação ou omissão voluntária, negligência ou imprudência, viola direito e causa dano a outrem, ainda que exclusivamente moral, comete ato ilícito, e, nos termos do artigo 927 do mesmo código, deve reparar o lesado. 3. Se no contrato firmado entre o banco e a empresa de segurança havia a previsão de serviço de vigilância ininterrupto, a autuação e a multa aplicada pelo órgão de fiscalização ao banco contratante devido ao período em que o serviço não foi prestado, ainda que de curto prazo, deve ser indenizado pela empresa responsável pelo serviço.
+4. Deu-se parcial provimento ao apelo.
+Os embargos de declaração opostos foram acolhidos parcialmente(e-STJ, fls. 457-463).
+Nas razões do recurso especial (e-STJ, fls. 466-470), orecorrente alega a ofensa aoart. 85, § 11,do Código de Processo Civil de 2015.
+Sustenta, em síntese,a presente ação foi, na origem, julgada improcedente com a condenação do Banco ao pagamento de honorários advocatícios no importe de 10% do valor da causa e queno julgamento da apelação, ao qual foi dado parcial provimento para reconhecer o direito da ora recorrente norecebimento de indenização.
+Além disso, aponta que acórdão recorrido deixou de arbitrar honorários recursais sob o fundamento de que não houve arbitramento de honorários na origem e que, entretanto, tal alegação se encontra contraditória, uma vez que foi sim fixado honorários advocatícios na sentença de origem.
+Foram apresentadas contrarrazões (e-STJ, fls. 480-484).
+Foi admitido o apelo extremo na origem (e-STJ, fls. 487-488).
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar os embargos de declaração, consignou o seguinte (e-STJ, fls. 460-78):
+Por seu turno, O BANCO DO BRASIL S/A sustenta que teria havido fixação de honorários na origem, razão pela qual caberia arbitramento de honorários recursais. Alega, ainda, que, em razão do parcial provimento ao recurso interposto contra a r. sentença, deveria haver a inversão dos ônus sucumbenciais ou ao menos a redistribuição.
+(..)
+Passo a análise dos embargos oposto pelo BANCO DO BRASIL S/A.
+No que tange a redistribuição dos ônus sucumbenciais, razão ao Embargante.
+Consoante estabelece o artigo 86 do CPC, as despesas processuais devem ser distribuídas entre as partes, caso cada litigante seja em parte vencedor e vencido.
+No caso em tela, ao se dar parcial provimento ao recurso de apelação interposto contra a r. sentença, esta restou reformada para se condenar a empresa demandada a restituir uma das quatro multas apontadas na inicial. Nesse passo, os ônus sucumbenciais devem ser redistribuídos, de forma que o banco autor da ação responda por 75% dos valores e a empresa Ré por 25%.
+Quanto aos honorários recursais, não houve omissão, consoante se depreende do seguinte excerto do acórdão: "Deixo de fixar honorários recursais, por força da orientação firmada pelo c. STJ no julgamento do AgInt nos EREsp 1.539.725/DF" (II) 15024405 - Pág. 5)
+Essas as razões por que NEGO PROVIMENTO aos embargos opostos pela empresa ESQUADRA TRANSPORTE DE VALORES & SEGURANÇA LTDA e DOU PARCIAL PROVIMENTO aos embargos declaratórios oposto pelo BANCO DO BRASIL para redistribuir os ônus sucumbenciais entre as partes, de forma que o banco autor da ação responda por 75% dos valores e a empresa Ré por 25%.(Sem grifo no original).
+Ao que se depreende das razões supracitadas, o Tribunal de origem redistribuiu os ônus sucumbenciais -fixados em 10% na sentença-e determinou que,desse percentual, 75% seria de responsabilidade do Banco e 25% a cargo daempresa de vigilância, em razão do provimento parcial do recurso da instituição financeira.
+Verifica-se, portanto, que o recorrente não se desincumbiu de demonstrar as razões pelas quais considera violadas as normas legais apontadas, tampouco impugnou os fundamentos do acórdão recorrido, incidindo, por analogia, as Súmulas n. 283 e 284/STF, que dispõem, respectivamente: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Além disso, de acordo com a jurisprudência do STJ, a aferição do percentualem que cada litigante foi vencedor ou vencido, ou a conclusão pelaexistência de sucumbência mínima ou recíproca das partes, é questãoque não comporta exame em recurso especial, por envolver aspectosfáticos e probatórios, aplicando-se à hipótese o enunciado sumularn. 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO.RESPONSABILIDADE CIVIL. PERDA DE PRAZO PARA PROPOSITURA DA AÇÃO.CULPA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.INCIDÊNCIA DA SÚMULA N. 7 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.SÚMULA N. 211/STJ. DECISÃO MANTIDA.
+1. "Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 141, 489, 492 e 1.022 do estatuto processual civil de 2015" (AgInt no AREsp 1.630.025/SP, Rel.Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/8/2020, DJe 14/8/2020).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem, a partir da análise dos elementos de prova, concluiu que houve falha no dever de informação por parte da profissional e que foi comprovada a culpa pela perda da chance. Entender de modo contrário implicaria reexame da matéria fática, o que é vedado em recurso especial.
+4. A ausência do exame da matéria pelo Tribunal de origem obsta o conhecimento do recurso especial, por falta de prequestionamento, incidindo a Súmula n. 211/STJ.
+5. "A aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes encontra óbice na Súmula 7/STJ" (AgInt nos EDcl no AREsp 1274020/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/08/2020, DJe 09/09/2020).
+6. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.717.961/SP, RelatorMinistro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 7/12/2020, DJe 14/12/2020).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. HONORÁRIOS SUCUMBENCIAIS. SUCUMBÊNCIA RECÍPROCA. REDISTRIBUIÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. REEXAME DO GRAU DE SUCUMBÊNCIA DAS PARTES. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL IMPROVIDO.
