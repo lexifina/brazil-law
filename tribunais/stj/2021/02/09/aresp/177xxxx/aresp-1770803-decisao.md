@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na ausência de prequestionamento das normas arroladas.
+Nas razões do especial, aponta a defesa 1ª) a contrariedade ao art. 5º, incisos LIV, LV, LVI e LVII e artigo 93 inciso IX, todo da Constituição Federal; ao art. 15 do Pacto dos Direitos Civis e Políticos e ao art. 8º, 2 e 9º da Convenção Americana sobre Direitos Humanos, em razão da violação ao princípio in dubio pro reo e aplicação de tipificação mais adequada a conduta delitiva. da dosimetria excessiva da pena aplicada ao réu, qual seja, a desclassificação delitiva para a conduta prevista no art. 28 da Lei 11.343/2006; e 2ª) a contrariedade ao art. 5º, incisos LIV e LV da CF, em razão do emprego de prova ilícita consistente na juntada de conversas de whatsapp sem autorização judicial, eis que os interlocutores não foram sequer ouvidos em Juízo. 3ª) a contrariedade ao art. 5º, inciso LVII; ao art. 147 da Lei de Execuções Penais; art. 283 do CPP e ao o art.8, 2 da Convenção Americana sobre Direitos Humanos, por determinar o cumprimento da pena antes do trânsito em julgado da sentença penal condenatória.
+Argumenta que o julgamento antecipado da lide inviabilizou a produção de provas pelo recorrente, em especial a oitiva de testemunhaimportante, o que ocasionou cerceamento do direito de defesa do réu.
+Requer, assim, o provimento do recurso especial, a fim de deferir a substituição de testemunha não encontrada em razão das várias alterações de endereços, pela testemunha ELIZAGELA MARQUES COELHO, com fundamento nos teor dos artigos 369 e 451 ambos do Código de Processo Civil na forma do art. 3º do CPP e do artigo 5º, inciso LV, da Constituição Federal, remetendo os autos ao juizo "a quo", para a produção das provas pretendidas e requerida(fl. 238).
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo não conhecimento do Agravo em Recurso Especial e pela inadmissão do Recurso Extraordinário
+É o relatório.
+DECIDO.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+No tocante ao pleito de deferir a substituição de testemunha não encontrada em razão das várias alterações de endereços, pela testemunha ELIZAGELA MARQUES COELHO, sob o argumento de queo julgamento antecipado da lide inviabilizou a produção de provas pelo recorrente, em especial a oitiva de testemunha importante, o que ocasionou cerceamento do direito de defesa do réu, o Tribunal de origem assim se pronunciou (fls. 191-199):
+Insatisfeita, a defesa lançou mão da presente carta testemunhável, pleiteando seja analisada a apelação em relação ao pedido de substituição de testemunha não encontrada em razão das várias alterações de endereços, pela testemunha ELISÂNGELA MARQUES COELHO.
+Pois bem.
+Não merece prosperar o pleito, porquanto completamente preclusa a pretensão esposada tanto no recurso de apelação como no recurso em sentido estrito.
+Conforme se percebe do relato acima, esta 4ª Câmara Criminal deixou de conhecer do recurso em sentido estrito, anteriormente interposto contra a decisão que homologou a desistência tácita da oitiva da testemunha HENRIQUE BAGGIO DA SILVA.
+Assim restou motivado o aresto:
+ ..
+Assim sem adentrar ao debate se cabível ou não a apelação ou o recurso em sentido estrito, o pedido de substituição de testemunha formulado nos incidentes resta totalmente precluso, ante o trânsito em julgado da decisão que homologou a desistência tácita da oitiva de HENRIQUE BAGGIO DA SILVA.
+Como se vê, em sede de carta testemunhável,a aludida matéria não foi apreciada pelo Tribunal a quo à luz dos dispositivos legais mencionados no especial, os quais carecem do necessário prequestionamento. Ressalte-se ainda que tampouco foram opostos os embargos de declaração contra o acórdão recorrido.
+Assim, incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, aplicáveis, por analogia, respectivamente: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada; e O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Incide também a Súmula 284/STF, aplicada por analogia, poisnão foi demonstrado com clareza e precisãode que forma, no acórdão impugnado, teriam sidoviolados os dispositivos legais arrolados, estando as razões recursais dissociadas dos artigos de lei debatidos pela Corte a quo.
+Cumpre ainda salientar que éinviável a apreciação de ofensa a dispositivo constitucional, uma vez que não cabe a esta Corte, em recurso especial, o exame de matéria constitucional, cuja competência é reservada ao Supremo Tribunal Federal, nos termos do art. 102, III, da CF.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
