@@ -1,0 +1,7 @@
+DECISÃO
+Na petição de Recurso Especial o recorrente, JOAO ANTONIO CIOLA MINIKOWSKI, representado por LIGIA RIBEIRO CIOLA MINIKOWSKI e ADILSON SILVESTRE MINIKOWSKI, consignou que diante da dificuldade financeira que atualmente que vem enfrentando, com amparo na Lei 1.060/50, requer os benefícios da assistência judiciária gratuita, declarando que não possui condições de suportar as custas processuais, sem prejuízo do próprio sustento e de sua família". (e-STJ fl. 507).
+A atual jurisprudência desta Corte perfilha o entendimento de que é viável a formulação, no curso do processo, de pedido de gratuidade da justiça na própria petição recursal, dispensando-se a exigência de petição avulsa, quando não houver prejuízo ao trâmite normal do feito. Nesse sentido: AgRg nos EREsp 1.222.355/MG, Corte Especial, DJe 25/11/2015.
+Contudo, não obstante o requerimento do recorrente acerca da concessão dos benefícios da gratuidade da justiça, verifica-se que o pedido não está instruído com documentos que pudessem justificar o seu deferimento.
+Destarte, para que se possa promover o julgamento do recurso especial, intime-se o recorrente para que, no prazo de 05 (cinco) dias, nos termos do art. 99, §2º, do CPC/15, comprove o preenchimento dos pressupostos legais para a concessão do benefício, sob pena de seu indeferimento.
+Após, com ou sem manifestação, vistas ao Ministério Público Federal para Parecer.
+Publique-se. Intimem-se.
