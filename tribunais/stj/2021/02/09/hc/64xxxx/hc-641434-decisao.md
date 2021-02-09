@@ -1,0 +1,15 @@
+DECISÃO
+FÁTIMA DE MACEDO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n.1500368- 93.2019.8.26.0510).
+Consta dos autos que a paciente foi condenada à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, seja fixado o regime inicial semiaberto, nos termos do art. 33, § 2º, "b", do CP.
+A liminar foi indeferida e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+Decido.
+O Juiz sentenciante assim fundamentou a imposição do regime inicial fechado de cumprimento de pena, in verbis (fl. 79):
+A grande quantidade de droga apreendida, em especial de maconha (537 gramas), permite concluir que a acusada vinha se dedicando de forma intensa a tal atividade criminosa, o que impede a incidência do redutor previsto no artigo 33, parágrafo 4º, da Lei n. 11.343/06, e também justifica a fixação do regime fechado para o início de cumprimento da pena.
+A Corte estadual, por sua vez, manteve inalterada a fixação do modo inicial mais gravoso, "em face dos maus antecedentes específicos e ainda da grande quantidade de droga apreendida" (fl. 122). Salientou, na ocasião, que a paciente "possui maus antecedentes decorrentes de prévia condenação criminal por tráfico de drogas transitada em julgado em 14/4/1999 (fls. 87)" (fl. 122).
+Tais circunstâncias - quantidade de drogas apreendidas (417 gramas de maconha, 120 gramas de maconha e 18 gramas de cocaína - fl. 73)e condenação anterior também pela prática do crime de tráfico de drogas-justificam, de fato, a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada. Não há falar, pois, em violação do enunciado nas Súmulas ns. 718 e 719 do STF e 440 do STJ.
+Portanto, em homenagem ao princípio do livre convencimento motivado e uma vez que foram apontados argumentos concretos e específicos dos autos para a escolha do regime prisional fechado, não há como esta Corte simplesmente se imiscuir no juízo feito pelas instâncias ordinárias para modificar oregime de cumprimento de pena estabelecido à acusada.
+Registro, por oportuno, que, segundo o entendimento do Supremo Tribunal Federal, "Ainda que favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal, é compatível com as Súmulas n. 718 e 719 desta Corte Suprema o decisum que, à luz do disposto no art. 42 da lei especial aplicável ao caso concreto, impõe o regime inicial fechado para cumprimento de pena, fixada em patamar superior a 4 e inferior a 8 anos, pelo crime de tráfico de drogas, em observância à elevada quantidade do entorpecente apreendida, à sua natureza, à sua forma de acondicionamento e às demais circunstâncias em que o crime foi cometido. Precedentes." (AgRg no HC n. 163.212/SP, Rel. Ministro Gilmar Mendes, 2ª T., DJe 28/11/2019).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
