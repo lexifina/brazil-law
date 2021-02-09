@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado pela UNIVERSIDADE FEDERAL DE PERNAMBUCO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. INOCORRÊNCIA. EXPEDIÇÃO DE NOVO REQUISITÓRIO RELATIVO À PARCELA DEVOLVIDA. POSSIBILIDADE. LEI Nº 13.463/2017. AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. Agravo de instrumento interposto contra decisão que, em fase de cumprimento de sentença, afastou a ocorrência de prescrição da pretensão executória, determinando a expedição de nova requisição de pagamento relativo à parcela devolvida.
+2. O cerne da controvérsia diz respeito à ocorrência de prescrição da pretensão executória, bem como à possibilidade de expedição de nova requisição de pagamento.
+3. Esta Corte Regional, seguindo a jurisprudência do STJ, já decidiu que, havendo a expedição do RPV/precatório, deve ser afastada a tese da "prescrição intercorrente da pretensão executória, haja vista que esta fase processual já se exauriu com a requisição dos valores exequendos, por meio da expedição dos precatórios/RPVs" (AG/PE nº 0815840-11.2018.4.05.0000, Rel. Des. Fed. Leonardo Carvalho, Segunda Turma, Julgamento: 26/03/2019).
+4. Ademais, "a Lei 13.463/2017, em seu art. 3º, estabelece a possibilidade de expedição de novo requisitório, caso tenha havido o seu cancelamento, não havendo menção ao lapso temporal em que deveria ocorrer o requerimento do credor para ver expedido novamente o valor" (AG/PE nº 0814506-39.2018.4.05.0000, Rel. Des. Fed. Leonardo Coutinho, Segunda Turma, Julgamento: 29/01/2019).
+5. A teor do dispositivo legal acima citado, forçoso reconhecer que, realizado o depósito pelo executado, esse valor passa para esfera patrimonial do beneficiário e, por conseguinte, de seus sucessores, podendo, inclusive, ser expedido novo requisitório, revelando-se descabida qualquer alegação concernente à prescrição.
+6. Agravo de instrumento improvido.
+Alega violação dos arts. 1º, 8º e 9º do Decreto n. 20.910/1932 e 196, 197 e 199 do Código Civil, no que concerne ao transcurso do prazo prescricional, trazendo o(s) seguinte(s) argumento(s):
+Veja-se o dispõe o Código Civil a respeito da prescrição:
+Art. 196. A prescrição iniciada contra uma pessoa continua a correr contra o seu sucessor.
+Art. 199. Não corre igualmente a prescrição:
+I - pendendo condição suspensiva;
+Tem-se, dessa forma, que por determinação expressa constante no Código Civil, a prescrição iniciada contra uma pessoa continua a correr contra seu sucessor, salvo se sobrevier alguma causa impeditiva ou suspensiva da prescrição
+Cumpre, pois, perquirir quando começou a correr a prescrição no caso dos autos e se se verificou (ou não) alguma causa impeditiva e/ou suspensiva do curso de tal prazo.
+A respeito da prescrição da pretensão executória, é assente no seio jurisprudencial o entendimento de que a fluência de tal prazo se inicia com o trânsito em julgado do título.
+Nesse sentido, confira-se os seguintes arestos:
+(..)
+Dessa forma, a partir do trânsito em julgado do título executivo começou a fluir o prazo prescricional, pelo lapso de cinco anos, para sua execução (do título).
+Insta, em seguida, averiguar se ocorreu alguma causa impeditiva ou suspensiva do curso in casu do prazo prescricional.
+Destaque-se, por oportuno, que as causas impeditivas/suspensivas da fluência do prazo prescricional constituem matéria de reserva legal, ou seja, de modo que somente podem ser consideradas como tal as situações taxativamente previstas em lei.
+Assim, e analisando-se o caso dos autos à luz da legislação regente da matéria, em especial os arts. 197 a 199 do CC, vê-se que não ocorreu, no caso em apreço, nenhuma das situações elencadas em lei como hábeis a suspender e/ou impedir o curso do prazo quinquenal de prescrição da pretensão executória.
+Ao contrário, consoante se viu dos dispositivos legais transcritos acima, por força de dispositivo legal expresso, o óbito não constitui causa impeditiva/suspensiva da prescrição, já que esta, quando iniciada contra uma pessoa, continua a correr contra seus sucessores (art. 196, do CC).
+Sendo assim, é forçoso concluir que a fluência do prazo prescricional em questão, iniciada com o trânsito em julgado do título se ultimou por não ter ocorrido qualquer causa impeditiva ou suspensiva da prescrição (fls. 398/400).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Esta Corte Regional, seguindo a jurisprudência do STJ, já decidiu que, havendo a expedição do RPV/precatório, deve ser afastada a tese da "prescrição intercorrente da pretensão executória, haja vista que esta fase processual já se exauriu com a requisição dos valores exequendos, por meio da expedição dos precatórios/RPVs" (AG/PE nº 0815840-11.2018.4.05.0000, Rel. Des. Fed. Leonardo Carvalho, Segunda Turma, Julgamento: 26/03/2019).
+Ademais, "a Lei 13.463/2017, em seu art. 3º, estabelece a possibilidade de expedição de novo requisitório, caso tenha havido o seu cancelamento, não havendo menção ao lapso temporal em que deveria ocorrer o requerimento do credor para ver expedido novamente o valor" (AG/PE nº 0814506-39.2018.4.05.0000, Rel. Des. Fed. Leonardo Coutinho, Segunda Turma, Julgamento: 29/01/2019).
+A teor do dispositivo legal acima citado, forçoso reconhecer que, realizado o depósito pelo executado, esse valor passa para esfera patrimonial do beneficiário e, por conseguinte, de seus sucessores, podendo, inclusive, ser expedido novo requisitório, revelando-se descabida qualquer alegação concernente à prescrição (fl. 340).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
