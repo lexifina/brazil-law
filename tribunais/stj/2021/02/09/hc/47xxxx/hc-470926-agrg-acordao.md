@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PACIENTE ASSISTIDO PELA DEFENSORIA PÚBLICA DO ESTADO DE SANTA CATARINA. SUPERVENIENTE RECURSO DA DEFENSORIA PÚBLICA DA UNIÃO PARA DESCONSTITUIR O TRÂNSITO EM JULGADO E ASSUMIR A DEFESA DO PACIENTE. INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A Defensoria Pública do Estado de Santa Catarina foi incluída no Portal de Intimação do STJ em 20/5/2019, após solicitação realizada por meio do Ofício DPG n. 126/2019, e foi desabilitada do serviço em 5/5/2020, após solicitação realizada por meio do Ofício n. 040/2020.
+2. No caso, a decisão recorrida foi publicada no DJe de 6/4/2020, quando, portanto, a Defensoria Pública do Estado de Santa Catarina ainda constava do Portal de Intimação do STJ.
+3. Por ocasião do julgamento de Questão de Ordem na PET no AREsp n. 1.513.956/AL (Rel. Ministro Reynaldo Soares da Fonseca), concluiu-se que não cabe à Defensoria Pública da União assumir defesa de pacientes, no âmbito do Superior Tribunal, no lugar de Defensoria Pública de Estado que possua representação em Brasília ou que tenha aderido ao portal de intimações eletrônicas.
+4. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+A DEFENSORIA PÚBLICA DA UNIÃO interpõe agravo regimental contra decisão de fls. 274-276, em que deneguei a ordem de habeas corpus e, por conseguinte, mantive a sentença que condenou Leandro Rodrigues Pires à pena de 5 anos e 4 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime de roubo.
+A defesa aduz, inicialmente, que a Defensoria Pública da União não foi intimada da decisão de fls. 274-276, mas tão somente o Ministério Público Federal e a Defensoria Pública do Estado de Santa Catarina, de maneira que deve ser desconstituído o trânsito em julgado certificado à fl. 281.
+Informa, no particular, que houve o descadastramento da Defensoria Pública do Estado de Santa Catarina do Portal de Intimação Eletrônica do STJ, por meio do Ofício DPG n. 040-2020.
+No mais, a defesa se insurge contra o mérito da decisão que denegou a ordem de habeas corpus e reitera a sua compreensão de que o processo é nulo desde a sentença condenatória, porque prolatada por meio audiovisual, sem transcrição integral do seu conteúdo.
+Requer a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que haja (fl. 294):
+ ..  o reconhecimento da nulidade da intimação feita exclusivamente à Defensoria Pública do Estado de Santa Catarina, desconstituindo o trânsito em julgado da decisão de e-STJ fls. e, no mérito, seja anulado o processo desde a sentença condenatória, porquanto prolatada por meio audiovisual, sem transcrição integral de seu conteúdo.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PACIENTE ASSISTIDO PELA DEFENSORIA PÚBLICA DO ESTADO DE SANTA CATARINA. SUPERVENIENTE RECURSO DA DEFENSORIA PÚBLICA DA UNIÃO PARA DESCONSTITUIR O TRÂNSITO EM JULGADO E ASSUMIR A DEFESA DO PACIENTE. INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A Defensoria Pública do Estado de Santa Catarina foi incluída no Portal de Intimação do STJ em 20/5/2019, após solicitação realizada por meio do Ofício DPG n. 126/2019, e foi desabilitada do serviço em 5/5/2020, após solicitação realizada por meio do Ofício n. 040/2020.
+2. No caso, a decisão recorrida foi publicada no DJe de 6/4/2020, quando, portanto, a Defensoria Pública do Estado de Santa Catarina ainda constava do Portal de Intimação do STJ.
+3. Por ocasião do julgamento de Questão de Ordem na PET no AREsp n. 1.513.956/AL (Rel. Ministro Reynaldo Soares da Fonseca), concluiu-se que não cabe à Defensoria Pública da União assumir defesa de pacientes, no âmbito do Superior Tribunal, no lugar de Defensoria Pública de Estado que possua representação em Brasília ou que tenha aderido ao portal de intimações eletrônicas.
+4. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+De plano, verifico que o agravo regimental não há como ser conhecido.
+Consoante entendimento desta Corte Superior de Justiça, "Existindo representação em Brasília, conforme a jurisprudência consolidada desta Corte, ou viabilizada a intimação eletrônica das Defensorias Públicas dos Estados em virtude de adesão ao Portal de Intimações Eletrônicas, impõe-se o indeferimento de requerimentos da Defensoria Pública da União no sentido de assumir a defesa de pessoas já assistidas pelas Defensorias Públicas estaduais" (AgRg na PET no HC n. 529.620/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 14/2/2020).
+Esclareço que, em consulta ao gabinete da Secretaria de Processamento de Feitos - SPF deste Superior Tribunal, foi-me informado que a Defensoria Pública do Estado de Santa Catarina foi incluída no Portal de Intimação do STJ em 20/5/2019, após solicitação realizada por meio do Ofício DPG n. 126/2019, e foi desabilitada do serviço em 5/5/2020, após solicitação realizada por meio do Ofício n. 040/2020.
+No caso, a decisão de fls. 274-276 foi publicada no DJe de 6/4/2020, conforme certidão de fl. 277, quando, portanto, a Defensoria Pública do Estado de Santa Catarina ainda constava do Portal de Intimação do STJ.
+Ressalto que, por ocasião do julgamento de Questão de Ordem na PET no AREsp n. 1.513.956/AL (Rel. Ministro Reynaldo Soares da Fonseca), concluiu-se que não cabe à Defensoria Pública da União assumir defesa de pacientes, no âmbito do Superior Tribunal, no lugar de Defensoria Pública de Estado que possua representação em Brasília ou que tenha aderido ao portal de intimações eletrônicas.
+Diante de tais considerações, mostra-se inviável o acolhimento do pedido da Defensoria Pública da União de desconstituição do trânsito em julgado da decisão de fls. 274-276. Consequentemente, não há como se rediscutir a aventada nulidade da sentença condenatória.
+À vista do exposto, não conheço do agravo regimental interposto pela Defensoria Pública da União.
