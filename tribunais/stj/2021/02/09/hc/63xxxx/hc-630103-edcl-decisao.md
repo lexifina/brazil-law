@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em favor de BRUNO DOS SANTOS DE LIMA contra decisão que não conheceu do habeas corpus (e-STJ fls. 97/103).
+Nestes aclaratórios, a Defensoria Pública aponta omissão no julgado combatido, que não teriaenfrentadoa tese da ilegalidade da determinação do exame criminológico.
+Sustenta queesse STJ vem entendendo que, para a determinação da realização do referido exame, é necessário fundamento baseado na própria execução da pena, como, por exemplo, o cometimento de infraçõesdisciplinares;porém, no presente caso, a determinação foi feita utilizando argumentação inidônea, consistente na gravidade dos delitos de roubo e corrupção de menores.
+Desse modo, requer seja provido o presente recurso para sanar a referida omissão.
+É o relatório. Decido.
+Dispõe o Código de Processo Penal:
+Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão.
+In casu, o embargante sustenta omissão no julgado porque não teria sido analisada a possibilidade de desconsideração do exame criminológico já efetuado, tendo sido julgada a progressão com base no exame já feito.
+Ocorre que a defesa juntou decisões impugnadas (tanto do Juízo quanto do Tribunal) que se basearam no exame criminológico, não tendo elas, em nenhum momento, apreciado a possibilidade de ser desconsideradoo referido teste, para julgamento da progressão.
+Desse modo, a análise da progressão de regime sem o exame por esta Corte implicaria indevida supressão de instância e desprestígio às instâncias de origem, de modo que só foi possível este Tribunal julgar a progressão de regimeconsiderando o exame já realizado.
+Com efeito, para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância.
+Nesse ínterim:
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. CONDENAÇÃO PRISÃO DOMICILIAR. ART. 318 DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEI DE EXECUÇÃO PENAL. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. WRIT DO QUAL NÃO SE CONHECE. 1. O Supremo Tribunal Federal passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício. 2. Não há que se falar em aplicação da prisão domiciliar, nos termos do art. 318 do Código de Processo Penal, quando a paciente encontra-se custodiada em decorrência de condenação definitiva. 3. Inviável a apreciação da possibilidade de concessão da benesse, conforme disposto no art. 117 da Lei de Execução Penal, sob pena de se incidir em indevida supressão de instância, tendo em vista que o tema não foi analisado pelo Tribunal de origem no aresto combatido. 4. Habeas corpus do qual não se conhece(HC 554.362/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 6/2/2020, DJe 21/2/2020).
+O certo seriaque a defesa tivesse se insurgido contra a determinação de feitura do exame criminológico pelo Juízo das Execuções Criminais antes de ele ter sido realizado. Desse modo,houve a preclusão do seu pedido.
+Por conseguinte, tendo em vista a impossibilidade acima retratada, consistente na supressão de instância, não há que se falar em omissão, inexistindo o que ser reparado no decisum embargado.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
