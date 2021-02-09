@@ -1,0 +1,5 @@
+DECISÃO
+Por meio de petição de e-STJ fls. 236/238, a parte requerente reitera sua oposição ao julgamento virtual de seu agravo interno e requer a inclusão do recurso na pauta presencial, tendo em vista sua intenção de apresentar memoriais aos julgadores.
+Consoante consignado na decisão de e-STJ fls. 231/232, oart. 184-D, parágrafo único, II, do RISTJ, determina que "as partes, por meio de advogado devidamente constituído, bem como o Ministério Público e os defensores públicos poderão apresentar memoriais e, de forma fundamentada, manifestar oposição ao julgamento virtual ou solicitar sustentação oral, observa do o disposto no art. 159".
+A irresignação da parte requerente, contudo, não contém fundamentação apta a ensejar o acolhimento do pedido deduzido. O agravo interno constitui espécie recursal expressamente autorizada pelo Regimento Interno (art. 184-A, parágrafo único, II) a ser incluída nesta modalidade de julgamento, sobretudo porque não admite a realização de sustentação oral na sessão presencial (art. 159 do RISTJ).
+Forte nessas razões, INDEFIRO o pedido de retirada do AREsp nº 1.699.493/SP da pauta virtual.
