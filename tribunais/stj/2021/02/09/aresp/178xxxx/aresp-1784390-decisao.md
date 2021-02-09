@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por VALMIR SILVÉRIO DE PAES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+AGRAVO INTERNO EM APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE/INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO C/C DANOS MORAIS - DESCONTO EM BENEFÍCIO PREVIDENCIÁRIO - DANO MORAL - NÃO CONFIGURADO - DESCONTOS DE PARCELA DE PEQUENO VALOR - NÃO COMPROMETIMENTO DA SUBSISTÊNCIA DO REQUERENTE - MERO DISSABOR - RECURSO CONHECIDO E DESPROVIDO (fl. 210).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 186 e 927 do CC, no que concerne à existência de danos morais indenizáveis na espécie, em virtude de descontos indevidos no benefício previdenciário do recorrente pela recorrida. Traz os seguintes argumentos:
+ ..  O dano causado deve ser reparado, seja este material ou imaterial.
+Este último entendido como aquele causado de forma extrapatrimonial - a exemplo, danos causados à personalidade, honra, imagem ou liberdade de alguém.
+A recorrida deve responder pela falta de lisura nas medidas tomadas e contratações, vez que, sem qualquer comprovação da anuência do recorrente passou a descontar valores de seu benefício (fl. 220).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega divergência jurisprudencial quanto ao mesmo tema da primeira controvérisa. Aponta como paradigma o acórdão do TJSP, proferido no julgamento da apelação cível n. 10050274520188260024.
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+ ..  no que toca ao pedido de condenação por danos morais, não houve a devida comprovação de sua ocorrência pela parte autora/agravante.
+Isto porque, somente os fatos e acontecimentos capazes de romper com o equilíbrio psicológico do indivíduo podem justificar a configuração da pretensão indenizatória, sob pena de ocorrer uma banalização deste instituto.
+ .. .
+Assim, para o acolhimento dos danos morais, conquanto não se exija a prova do sofrimento em si, de caráter eminentemente subjetivo, deve ser demonstrada a gravidade da ofensa e da sua repercussão sobre a vítima.
+Na hipótese, trata-se de desconto de parcelas no valor de R$ 18,74 e de R$ 19,08, pelo período aproximado de um ano, hipótese em que não se verifica qualquer dano extrapatrimonial (fls. 212/213).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, quanto à qualificação dos fatos como mero dissabor ou suscetíveis de gerar danos morais, seria necessária a incursão no conjunto fático-probatório carreado aos autos.
+Nesse sentido: "O Tribunal de origem, com base nos fatos e provas dos autos, concluiu pela ocorrência de mero dissabor, afastando o dano moral. A revisão do entendimento adotado encontra óbice no verbete 7 da Súmula desta Corte", (AgRg no AREsp n. 448.372/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 13/11/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.652.952/MG, relator Ministro Moura Rribeiro, Terceira Turma, DJe de 26/8/2020; AREsp 1.605.195/BA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/2/2020; e AgInt no AREsp 964.314/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27/3/2018.
+Quanto à segunda controvérsia, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
