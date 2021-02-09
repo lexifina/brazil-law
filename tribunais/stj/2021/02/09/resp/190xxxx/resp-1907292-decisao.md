@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial, com pedido de concessão de efeito suspensivo, interposto contra acórdão do TJSP assim ementado (e-STJ, fl. 66):
+EMENTA Condomínio edilício. Ação anulatória de multa por infração ao regulamento interno com pleito cumulado de indenização por danos materiais e morais. (1) Petição inicial que atribuía à síndica a prática de atos que extrapolavam a mera representação condominial, eis que diziam respeito ao seu proceder pessoal frente aos autores e pelo qual eles reclamavam indenização por dano moral. Quadro que conferia àquela demandada legitimidade para vir se defender das imputações. (2) Falta de urbanidade no trato com funcionário do edifício que correspondia a infração ao Regulamento Interno, a autorizar a aplicação de multa. Direito de defesa assegurado e concretamente exercido. Inexigibilidade de chamamento para se defender da acusação antes de ser aplicada a multa, o que só é necessário nos casos do artigo 1.337 do Código Civil. Validade da imposição reconhecida. (3) Impugnação à gratuidade processual que havia de ser acolhida apenas quanto um dos impugnados. Recurso parcialmente provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 93/96).
+Em suas razões (e-STJ, fls. 99/163), os recorrentes alegam violação do art. 5º, V, XXXV, XXXVII e LIII, da CF/1988, pois apreciadas "questões que não foram julgadas pela instância inferior" (e-STJ, fl. 115).
+Apontam ofensa aos arts. 98, 99,§§2ºe 3º, e 100 do CPC/2015, aduzindo ser devida a concessão da justiça gratuita, pois (i) a declaração de hipossuficiência teria presunção de veracidade; (ii) a reapreciação do pedido só poderá ocorrer se existente impugnação (iii) deve ser concedido prazo para a comprovação do cumprimento dos pressupostos para a obtenção do benefício e (iv) deve ser fixado percentual de isenção ao litisconsorte.
+Aduzem, ainda, contrariedade aos arts. 5º, LIV e LV, daCF/1988 e 1.336 do CC/2002, visto que é possível que o Judiciário examine o mérito da multa condominial, bem como queo procedimento para a apuração da conduta do condômino observeos princípios do contraditório e da ampla defesa.
+Por fim, pleitearam a concessão de efeito suspensivo ao presente recurso.
+Contrarrazões às fls. 236/240 (e-STJ).
+É o relatório.
+Decido.
+No que se refere à violação do art. 5º, V, XXXV, XXXVII,LIII, LIV e LV, da CF/1988, o o recurso não pode ser conhecido. Compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se fazendo possível examinar recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+Quanto às teses de prazo para a comprovaçãodos pressupostos da justiça gratuita, de presunção de veracidade da declaração de hipossuficiênciae de necessidade de impugnação,elas não foram apreciadas pelo Tribunal de origem, estando ausente o indispensável prequestionamento da matéria (Súmula n. 282/STF).
+Em relação ao art. 98 do CPC/2015,o dispositivo legal é impertinente para sustentar a alegação de possibilidade de fixaçãode percentual de isenção para litisconsorte. Aplicável a Súmula n. 284/STF.
+Por fim, a insurgência quanto à possibilidade de análise do mérito da multa condominial pelo Judiciário não pode ser fundamentada apenas no art. 1.336 do CC/2002, que trata dos deveres do condômino. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
