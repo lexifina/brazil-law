@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de THIAGO HENRIQUE DURELLO contra decisão monocrática doTribunal de Justiça do Estado de São Pauloque indeferiupedido liminar formulado no HC n.2013257-29.2021.8.26.0000.
+Segundo consta dos autos, o paciente, preso em flagrante no dia 14/7/2020, e convertida a custódia em preventiva, foi denunciado pela suposta prática do crime de roubo circunstanciado (concurso de agentes e arma de fogo de uso restrito), na forma tentada (denúnciaàs e-STJ fls. 29/30).
+Irresignada com o excesso de prazo na instrução, adefesa impetrou o habeas corpus na Corte estadual, cujo pedido liminar, como antes relatado, foi indeferido (e-STJ fls. 12/13).Esta é a decisão impetrada.
+Na presente oportunidade, alega a defesa constrangimento ilegal por excesso de prazo na instrução, uma vez que a audiência de instrução já foi redesignada, por duas vezes, em virtude da ausência da vítima, e o paciente está segregada há mais de 6 (seis) meses.
+Aduz que a decisão do Tribunal de Justiça local não está idoneamente fundamentada.
+Diante disso, pleiteia, liminarmente e no mérito, a concessão de ordem para relaxar a prisão preventiva do paciente, tudo com superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea, embora suscinta, a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator(e-STJ fls. 12/13):
+ ..
+Habeas Corpus impetrado por William César Pinto de Oliveira, Guilherme Santos Vidotto, Diego Alves Moreira da Silva e Eduardo de Campos Marcandal, em benefício de Thiago Henrique Durello, com pedido de liminar, objetivando o relaxamento da prisão cautelar do paciente, por excesso de prazo na formação da culpa, pois preso há mais de 6 meses, sem que a instrução processual tenha se encerrado.
+Sustentam que a demora é injustificada e violadora do princípio da razoável duração do processo.
+Asseveram que a vítima não foi intimada para comparecimento à audiência de instrução, debates e julgamento, ocorrida no dia 26/11/2020. A audiência de continuação, designada para dia 27/01/2020, também não ocorreu, restando suspenso o ato, sem data definida para o prosseguimento do feito.
+Destacam que, quando do não comparecimento da vítima à audiência do dia 27/11/2020, a defesa impetrou habeas corpus (2284756-26.2020.8.26.0000), restando denegada a ordem. Todavia, ressalvou-se no v. acórdão que a questão poderia ser reanalisada, ocorrendo fato novo.
+O fato novo encontra-se presente, pois a audiência designada para o dia 27/01/2021 não foi realizada. Sequer se sabe se a vítima foi intimada para comparecimento em juízo. Não bastasse, não foi designada nova data para a continuidade do ato.
+De rigor, portanto, o imediato relaxamento da prisão do paciente.
+Indefiro a liminar pleiteada.
+Os fatos trazidos à colação não permitem verificar, de pronto, a presença dos pressupostos para a concessão liminar da medida, que é excepcional, destinada a casos em que a ilegalidade se mostra patente, verificável em simples leitura das razões e documentos apresentados.
+Solicitem-se informações à autoridade apontada como coatora.
+É consabido que eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto (roubo circunstanciado, na forma tentada, com pena em abstrato elevada sopesado com o tempo de prisão cautelar), de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+Assim, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado, após análise das informações a serem prestadas pelo Juízo processante.Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
