@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por GERMANO CESAR DE OLIVEIRA CARDOSO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+DIREITO PROCESSUAL CIVIL. AÇÃO MONITÓRIA. HONORÁRIOS ADVOCATÍCIOS.
+PROCURAÇÃO. PREVISÃO DE HONORÁRIOS. PROVA ESCRITA INSUFICIENTE A EMBASAR O PROCEDIMENTO MONITÓRIO. INDEFERIMENTO DA INICIAL. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. SENTENÇA MANTIDA.
+1. A ação monitória é o instrumento processual colocado a disposição do credor de quantia certa, de coisa fungível, de coisa móvel fungível, de coisa móvel determinada ou de obrigação de fazer ou de não fazer, com crédito comprovado por documento escrito sem eficácia de título executivo, para que possa requerer em juízo a expedição de mandado de pagamento ou de entrega da coisa para a satisfação de seu direito.
+2. O direito brasileiro adotou o procedimento monitório documental, ao exigir do autor a apresentação de uma prova literal capaz de demonstrar a verossimilhança de sua alegação de existência do direito de crédito que alega ter contra o réu.
+3. Não há dúvidas quanto aos serviços profissionais prestados, porém os documentos que instruem a petição inicial não são hábeis a traduzir uma obrigação líquida e certa, uma vez que não há documento que demonstre o valor certo acordado para aqueles serviços.
+4. Referida verba, muito embora prevista na procuração, é válida para ação de cobrança, pois no caso da ação monitória, o débito deve ser líquido e certo, isto é, sem discussão, e, na hipótese dos autos, não há certeza em relação aos valores devidos.
+5. Recurso improvido.
+PROCESSO CIVIL EMBARGOS DE DECLARAÇÃO ALEGAÇÃO DE VÍCIOS NO JULGADO INEXISTÊNCIA REDISCUSSÃO DA MATÉRIA VIA IMPRÓPRIA REJEIÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 700 do CPC, atinente à observância do rito especial da ação monitória, trazendo os seguintes argumentos:
+Ocorre, Excelências, com todo respeito, que de forma equivocada e, em evidente violação ao art. 700, do CPC, o v. acórdão a quo conclui que mesmo havendo prova escrita sem eficácia de eficácia de título executivo extrajudicial e, ainda, sendo incontroverso que o recorrente cumpriu com sua obrigação contratual e devidamente prestou os serviços contratados, não há liquidez e certeza do débito cobrado, in verbis:
+ ..
+Nos termos do contrato firmado por procuração (id. 40462439, pág. 30), os honorários advocatícios foram fixados em vinte por cento, sobre qualquer benefício, considerando-se benefício a suspensão da exigibilidade de crédito tributário, ou seja, no caso em comento os honorários devidos e não adimplidos é no montante de R$ 31.068,76, que é a atualização dos 20% sobre o crédito tributário: R$ 104.185,40, o qual pelo trabalho da recorrente se conseguiu a suspensão da exigibilidade.
+ ..
+Diante disso, com todo respeito, evidente a violação ao art. 700 do CPC, uma vez que restou demonstrado a liquidez e certeza do contrato juntado à inicial, a justificar o rito especial da ação monetária, devendo, portanto, ser reformado o v. acórdão recorrido (fls. 123-124).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Não há dúvidas quanto aos serviços profissionais prestados, porém os documentos que instruem a petição inicial não são hábeis a traduzir uma obrigação líquida e certa, uma vez que não há documento que demonstre o valor certo acordado para aqueles serviços.
+Referida verba, muito embora prevista na procuração, é válida para ação de cobrança, pois no caso da ação monitória, o débito deve ser líquido e certo, isto é, sem discussão e, na hipótese dos autos, não há certeza em relação aos valores devidos.
+Assim, não havendo nos autos elementos suficientes que convalidem as alegações do Autor, a presunção de que o percentual pretendido pela Apelante seja efetivamente aquele avençado na procuração não se mostra devida, razão pela qual o instrumento de mandato carece de idoneidade para comprovar o valor da alegada dívida.
+Compulsando os autos, verifica-se que em 2 (duas) ocasiões foi determinada a intimação da parte autora para que emendasse a inicial, para adequar o seu pedido ou eleger a via processual compatível para o manejo de sua pretensão, sob pena de indeferimento (ID n. 12672254 e 12672263).
+Porém, o Apelante deixou de atender à determinação, sustentado que a procuração que instrui a ação monitória é dotada de liquidez (fls. 97, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
