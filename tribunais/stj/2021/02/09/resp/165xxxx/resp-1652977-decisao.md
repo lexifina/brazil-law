@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 685):
+RESPONSABILIDADE CIVIL. SUBTRAÇÃO DE VALORES DO COFRE EM BANCO ALUGADO EM COMUM PELAS PARTES. RESPONSABILIDADE DO OFENSOR. PROVA INDICIÁRIA. VALOR. INDÍCIOS SUFICIENTES PARA O ACOLHIMENTO DA DEMANDA. DANO MORAL NAO CARACTERIZADO.
+APELAÇÃO PROVIDA EM PARTE
+Os embargos de declaração foram rejeitados (e-STJ fls. 721/726).
+No especial (e-STJ fls. 729/739), fundamentado no art. 105, III, "a", da CF, a recorrente alegou ofensa aos seguintes dispositivos legais:
+(i) art. 535 do CPC/1973, tendo em vista que "houve omissão e contradição no Acórdão ao se estabelecer que a devolução dos valores deveria se dar pela cotação do dólar no dia do cumprimento de sentença. Isso porque quando tais dólares foram comprados, em 2002, o seu valor era bem maior. A ampla indenização exigida pelos artigos 186 e 944 do CC/2002, portanto, não estaria sendo obedecida" (e-STJ fl. 731). Complementa que houve omissão da "Corte de origem em relação ao pedido feito pela Recorrente na inicial e no Apelo em relação à devolução dos dólares: o de que a indenização deveria corresponder ao valor por ela efetivamente gasto na sua compra" (e-STJ fl. 732), e
+(ii) arts. 186 e 944 do CC/2002, sustentando, em síntese, que a indenização pelos dólares furtados deveria corresponder ao valor da moeda na data do roubo e não na data do cumprimento da sentença. Afirma que "a Recorrente gastou R$ 127.000,00 para adquirir os US$ 48,000.00. Hoje, para se comprar a mesma quantia de dólares, gastar-se-ia apenas R$ 79.000,00, aproximadamente" (e-STJ fl. 736).
+Foram apresentadas contrarrazões (e-STJ fls. 746/749).
+É o relatório.
+Decido.
+Inicialmente, não há falar em negativa de prestação jurisdicional, pois o Tribunal de origem pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação de violação do art. 535 do CPC/1973.
+O Tribunal de origem deu parcial provimento ao recurso de apelação da recorrente "para condenar o réu ao equivalente em Reais de US$ 47,900.00 (quarenta e sete mil e novecentos dólares norte- americanos) - US$ 100 (cem dólares) foram apreendidos no cofre do banco e deverão ser restituídos à autora -, valor a ser estimado pela cotação do dia do cumprimento de sentença, que corresponderá ao valor necessária para a aquisição do valor desviado em dólares, com juros de mora a contar da data da subtração dos ditos valores do cofre" (e-STJ fl. 706).
+Entendeu a Corte a quo que "o valor da condenação deverá corresponder o equivalente em reais dos valores subtraídos segundo a cotação do dólar no dia do cumprimento da sentença, porque nesse momento é que se conseguirá determinar o quantum necessário para a autora recompor o seu património esvaziado pela subtração de valor x de dólares" (e-STJ fl. 723).
+Eventual conclusão desta Corte Superior em sentido contrário ao da instância ordinária - momento adequado de conversão do dólar para se aferir o valor de recomposição patrimonial - exigiria incursão no campo fático-probatório, providência vedada na via especial, conforme o enunciado n. 7 da Súmula do STJ.
+Ademais, não têm correlação o disposto nos arts. 186 e 944 do CC/2002 e a data correta a ser considerada para a conversão do dólar.
+Dessa forma, está caracterizada deficiência na fundamentação recursal, a teor da Súmula n. 284 do Supremo Tribunal Federal: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM.
+PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS SUCUMBENCIAIS. LEI VIGENTE À DATA DA FIXAÇÃO OU MODIFICAÇÃO. CPC/1973. APLICAÇÃO RETROATIVA DO CPC/2015. VEDAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça, ao interpretar o art. 1.025 do NCPC, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+2. A sucumbência é regida pela lei vigente à data de sua fixação ou modificação, não se aplicando o CPC/2015 para rever critérios de honorários sucumbenciais impostos e revisados antes da vigência do novo diploma processual, sob pena de aplicação retroativa da lei.
+3. Não se conhece de violação de dispositivo legal quando ausente a pertinência temática entre seu conteúdo normativo e a questão decidida pelo Tribunal a quo, uma vez que patente a falha de fundamentação do recurso especial (Súmula 284/STF).
+4. Nos termos da jurisprudência desta Corte, "A inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial quanto ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese" (AgInt no AgRg no AREsp 317.832/RJ, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 13/3/2018).
+5. Agravo interno não provido.
+(AgInt no REsp 1.634.835/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/11/2018, DJe 12/11/2018 - grifei.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO POR QUANTIA CERTA. EXTINÇÃO ANTE A SATISFAÇÃO DA OBRIGAÇÃO. EFICÁCIA PRECLUSIVA DA COISA JULGADA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. As razões recursais indicaram como violados dispositivos legais que não possuem pertinência temática com o decidido no aresto impugnado, incapazes de infirmar o juízo formulado no acórdão recorrido quanto à ocorrência de coisa julgada material e à elaboração dos cálculos em respeito aos limites impostos judicialmente. Incidência, por analogia, da orientação posta na Súmula 284/STF.
+2. Com o trânsito em julgado, os litigantes ficam adstritos aos limites impostos pelo título executivo judicial e não podem rediscutir, no bojo da ação executiva, o que não está assegurado na condenação, questionando a legalidade do negócio e sua base de cálculo.
+3. Agravo interno não provido.
+(AgInt no AREsp 1079103/MS, Rel. Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 5/6/2018, DJe 12/6/2018 - grifei.)
+Diante do exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
+EMENTA
