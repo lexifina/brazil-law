@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Uniãocom fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo TribunalRegional Federal da 5ª Região, assim ementado (fl. 106):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TAXA DE LIMPEZA PÚBLICA - TLP. LEGITIMIDADE PASSIVA CONFIGURADA. AUSÊNCIA DE TRANSFERÊNCIA DA PROPRIEDADE. APELAÇÃO PROVIDA.
+1. Apelação em adversidade à sentença, que acolheu a exceção de pré-executividade, a fim de reconhecer a ilegitimidade da UNIÃO para responder pelos débitos cobrados (TLP).
+2. A controvérsia submetida ao conhecimento deste TRF cinge-se à análise da legitimidade passiva da UNIÃO para compor a relação jurídico-tributária que impõe o pagamento da Taxa de Limpeza Pública (TLP) em imóvel cedido a terceiros.
+3. O Supremo Tribunal Federal, por ocasião do julgamento do RE 576.321, representativo de controvérsia, firmou entendimento no sentido de que a taxa cobrada em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis não viola o art. 145, II, da Constituição Federal (Súmula Vinculante 19).
+4. Cabe ao proprietário do imóvel o pagamento da taxa, sendo que as provas carreadas aos autos - registro do cartório de imóvel - apontam que a UNIÃO continua como proprietária do imóvel destinatário do serviço municipal. O fato de que, na época do fato gerador, a UNIÃO não estava na posse do imóvel, estando ele cedido a terceiros por meio de mero contrato administrativo, não é suficiente para afastar a titularidade da propriedade e, consequentemente, a titularidade da obrigação.
+5. Apelação provida
+Opostos embargos declaratórios, foram rejeitados (fls. 136/138).
+A parte recorrente aponta violação aoart. 485, VI,§ 3º, do CPC/2015. Sustenta que"ainda que o Código Tribunal Municipal de Natal preveja que o contribuinte é o proprietário, o titular do domínio útil ou possuidor do imóvel, a qualquer título (art. 105), é certo que o contribuinte deve ser o verdadeiro usufrutuário do serviço fornecido pelo Município" (fl. 147), razão pela qual deve ser declarada a ilegitimidade passiva da União.
+Contrarrazões às fls. 153/163
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece conhecimento.
+Com efeito, nota-se que o art. 485, VI,§ 3º,não contém comando capaz de sustentar a tese recursal de que o contribuinte da TLP deve ser o efetivo usufrutuário do serviço prestado pelo Município.
+Dessa maneira, impõe-se ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Veja-se, ainda, caso análogo ao dos autos:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. CONTROVÉRSIA SOBRE A LEGITIMIDADE AD CAUSAM DA PROPRIETÁRIA/PROMITENTE VENDEDORA PARA FIGURAR NO POLO PASSIVO DA EXECUÇÃO FISCAL, EM RELAÇÃO À TAXA DE COLETA DE LIXO DOMICILIAR (TCLD). ALEGADA VIOLAÇÃO AOS ARTS. 77 E 79 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. ART. 485, VI, DO CPC/2015.DISPOSITIVO, TIDO COMO CONTRARIADO, QUE NÃO POSSUI COMANDO NORMATIVO SUFICIENTE PARA INFIRMAR A CONCLUSÃO DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+I.  ..
+VII. O art. 485, VI, do CPC/2015 (correspondente ao art. 267, VI, do CPC/73) - ao prever, genericamente, que o juiz não resolverá o mérito, quando verificar ausência de legitimidade ou de interesse processual - não contém comando normativo suficiente, por si só, para infirmar a conclusão adotada pelo acórdão do Tribunal de origem, à luz do art. 2º da Lei 2.687/98, do Município do Rio de Janeiro, em vigor à época dos fatos geradores que deram origem aos créditos tributários impugnados nos Embargos à Execução Fiscal, no sentido de que a União é parte legítima para figurar no polo passivo da Execução Fiscal, em relação a alguns imóveis objeto da cobrança da Taxa de Coleta Domiciliar de Lixo (TCDL). Nesse sentido, mutatis mutandis: STJ, REsp 904.454/MG, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJU de 31/05/2007.
+VIII. Agravo interno improvido.
+(AgInt no AREsp 1.473.375/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 3/3/2020, DJe 10/3/2020)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
