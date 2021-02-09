@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por INSTITUTO PANAMERICANO DE GESTAO - IPG à decisão de fls. 1042/1044, que não conheceu do recurso em razão do ausência de comprovação do regular recolhimento do preparo e do não exaurimento das vias recursais na instância ordinária.
+A parte embargante sustenta que o recurso teria sido devidamente preparado, e junta novamente aos autos cópia dos documentos anexados às fls. 1036/1037.
+Requer a aplicação do princípio da instrumentalidade das formas e da fungibilidade recursal, a fim de que o recurso em mandado de segurança seja recebido como agravo interno.
+Requer, por fim, o conhecimento e acolhimento dos embargos declaratórios para o "suprimento da contradição/omissão apontada" (fls. 1054).
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Inicialmente, verifica-se que a parte embargante não cumpriu devidamente os requisitos relativos ao preparo, mesmo após intimada para regularização, às fls. 1033, conforme faculdade conferida sob a égide do Código de Processo Civil em vigor.
+Mesmo agora, ao juntar extemporaneamente aos autos os documentos relativos ao recolhimento do preparo, o recorrente apresenta novamente documento inapto a comprovar o efetivo cumprimento das custas, porquanto desprovido de código de barras.
+Ademais, o STJ, com base na Súmula n. 281 do STF, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial, ou seja, a apresentação do presente recurso em mandado de segurança pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem, o que não ocorreu no caso.
+Com efeito, o que se verifica é que a parte interpôs o presente recurso diretamente contra decisão monocrática, sem o necessário exaurimento de instância.
+Ocorre que, conforme entendimento desta Corte, a interposição equivocada de recurso quando há expressa disposição legal e ausente dúvida objetiva, constitui manifesto erro grosseiro.
+Desta forma, inaplicável o princípio da fungibilidade, que "pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie". (AgRg nos EREsp 1.357.016/RS, relator Ministro Ari Pargendler, Primeira Seção, DJe de 2/8/2013.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
