@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por COOPERATIVA AGROPECUARIA INDUSTRIAL - EM LIQUIDAÇÃO e OUTROS à decisão monocrática (e-STJ fls. 515/518) que negou provimento ao seu agravo.
+Alega a parte embargante que (e-STJ fl. 523):
+(..) a decisão ora embargada foi omissa e incorreu em erro material. Sim, porque, ao entender que proclamada a ilegitimidade das recorrentes esposas descaberia a análise das demais questões de mérito, Sua Excelência o Ministro Relator omitiu-se em observar que o especial não foi interposto somente pelas cônjuges, mas também por seus maridos (os próprios NIVALDO e ARTUR) e pela própria devedora principal (COOAGRI), que igualmente eram autor dos embargos à execução desde o início.
+Logo, não havia limitações para conhecimento e apreciação de todas as matérias do recurso especial, pois estas também foram suscitadas pelos demais recorrentes, em relação aos quais a legitimidade é manifesta e nunca foi questionada.
+Sendo assim, afigura-se clara a omissão e o erro material ocorridos, uma vez que a decisão embargada olvidou-se em observar a totalidade dos recorrentes e, por isso, acabou por adotar premissa de fato equivocada, a qual limitou indevidamente a análise do recurso especial.
+Ao final, requer o acolhimento dos embargos.
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Tem razão a parte embargante quando aponta o vício, visto que mesmo após reconhecida a ilegitimidade das esposas dos executados era caso de análise da admissibilidade da tese remanescente,pois existentes outros recorrentes.
+Assim, passo ao exame da questão relacionada à ausência de apresentação de memória de cálculo suficiente no processo de execução.Sustenta a parte que seria necessária planilha completa, contendo demonstração pormenorizada da evolução do débito,mês a mês, com todos os seus acréscimos.
+Em relação ao tema, os julgadores da origem esclareceram (e-STJ fls. 450/451):
+a) ausência de certeza da nota promissória executada, aduzindo que o título está vinculado a um contrato e decorreu de uma série de negociações entre as partes, onde, inclusive se trata de novação de dívida, o que conduziria à incerteza do título, ainda mais que o wash out não foi aceito nas condições impostas pela embargada, pois se trata de mera composição de alongamento e escalonamento de obrigação pré - existente, afirmando que os contratos é que deveriam ser objeto da execução para entrega do produto agrícola.
+Não lhe assiste razão. A presente execução foi instruída com a nota promissória, vinculada ao wash out onde consta que, "cumprida a entrega das 30.000 tn de milho amarelo e descontado o valor em dinheiro mais os juros acima mencionados, perderá a validade a nota promissória oferecida em garantia por esta operação";
+documento perfeitamente válido que estabelece o valor da obrigação, o prazo de vencimento e os juros pactuados.
+Por sua vez, o exequente buscou a execução de somente parte do valor constante na nota promissória (um milhão de reais), objetivando o recebimento de US$ 400.000,00 (quatrocentos mil dólares americanos) que, acrescidos de juros, totalizaria a importância de R$ 875.227,19 (oitocentos e setenta e cinco mil, duzentos e vinte e sete reais e dezenove centavos), concluindo-se que a os dados constantes no contrato (wash out) é que determinam o valor da dívida nele confessada, pois o documento refere-se às Condições de Pagamento, firmado entre as partes e garantido pela Nota Promissória.
+Também não merece amparo a alegação de que owash out não foi aceito pela embargante, pois o contrato se trata de instrumento de confissão de dívida, firmado entre as partes, ajustando a forma de pagamento da dívida, garantido pela Nota Promissória, não havendo se falar em ausência de certeza do título.
+b) violação ao art. 614, II, do Código de Processo Civil, em face da ausência de planilha de débito ou memória de cálculo.
+A preliminar também é deve ser rejeitada, vez que a presente execução fez-se acompanhar do demonstrativo do débito, que, por se tratar de simples cálculos aritméticos, elaborados através dos parâmetros estabelecidos no contrato de wash out, foi apresentado no corpo da petição de execução.
+Tendo a Turma julgadora assim decidido com base na análise dos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Em face do exposto, ACOLHO os embargos de declaração para sanar o vício, contudo, sem efeitos modificativos.
+Publique-se e intimem-se.
