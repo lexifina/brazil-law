@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por LAIMA PARTICIPAÇÕES LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+VISTOS RELATADOS E DISCUTIDOS ESTES AUTOS DE AGRAVO DE INSTRUMENTO N 21747533820198260000 DA COMARCA DE SÃO PAULO EM QUE SÃO AGRAVANTES LAIMA PARTICIPAÇÕES LTDA E PETROSUL DISTRIBUIDORA TRANSPORTADORA E COMÉRCIO DE COMBUSTÍVEIS LTDA (EM RECUPERAÇÃO JUDICIAL) É AGRAVADO FIDC BRASIL PLURAL RECUPERAÇÃO DE CRÉDITO FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NP II
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 79 e 80 do CPC, no que concerne à necessidade de afastamento da multa imposta ou a redução do seu valor, uma vez que inexistente a conduta de litigância de má-fé, trazendo os seguintes argumentos:
+Isso porque, no curso da ação originária ocorreram situações que, no entendimento dos nobres julgadores, foram contrárias à lei e ao direito, no entanto, no exercício de seu direito constitucional do contraditório e ampla defesa, a recorrente apenas se utilizou dos meios legais e necessários a fim de obter a tutela jurisdicional que entendeu cabível.
+A penalidade prevista no artigo 79 do Código de Processo Civil pressupõe a demonstração de que a atuação da recorrente esteve pautada nas hipóteses previstas nos incisos do artigo 80, o que não ocorreu.
+ ..
+Assim, o pleno exercício do direito da ampla defesa e contraditório pela utilização de recursos processuais necessários a atingir resultado positivo nos autos não implica por si só em litigância de má-fé, e tampouco ato atentatório à dignidade da Justiça.
+Isto posto, cumpre consignar que em nenhum momento a conduta realizada pela recorrente nos autos da execução foi manifestamente protelatória, podendo ser considerada digna de boa-fé processual.
+ ..
+Com efeito, a condenação da recorrente ao pagamento de multa no importe de 5% do valor atualizado da dívida não pode ser mantida.
+Por todo o exposto, de rigor o conhecimento e provimento do presente recurso, para que seja reformado o v.
+acórdão recorrido a fim de afastar a condenação imposta.
+Alternativamente, caso não seja este o entendimento de Vossas Excelências, REQUER a reforma do v.
+acórdão recorrido para fins de redução do percentual fixado para 1% (um por cento), considerando-se que o valor atualizado da dívida executada é demasiadamente elevado (fls. 65).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Depreende-se dos autos que, ao contrário do alegado pelas agravantes, restou demonstrado que a conduta por elas realizada no curso da execução extrapolou os limites do exercício da ampla defesa e do contraditório.
+O MM. Juízo "a quo" analisou os atos praticados pelas agravantes ao longo da demanda executiva e inferiu que elas se manifestaram nos autos com nítido intuito protelatório a induzir o Juízo "a quo" a erro, em benefício próprio, alterando a verdade dos fatos.
+As alegações das agravantes não podem ser acolhidas, na medida em que realizaram condutas qualificadas pelo Juízo "a quo" como litigância de má-fé e atos atentatórios à dignidade da Justiça, a exemplo do ocorrido nas avaliações dos imóveis localizados em Goiás e São Paulo, ressaltando que as agravantes foram regularmente intimadas na execução, a fim de acompanhar a realização das diligências, inclusive com oposição à avaliação judicial, mas insistiram em tumultuar o feito.
+A atitude de se opor a atos, após operada a preclusão, e, ao ver negada a pretensão, apresentar recursos seguidos de outros recursos e pedidos manifestamente protelatórios, com o intuito de retardar o andamento do feito não pode ser considerada digna de boa-fé.
+A decisão agravada relatou a sequência de atos protelatórios adotados pelas agravantes, fazendo visíveis suas condutas desleais e reiteradas a obstar leilões designados pelo Juízo "a quo", procrastinando a própria execução. Ressalte-se que as agravantes não só praticaram atos atentatórios à justiça, como omitiram informação a exemplo do ocorrido quando do deferimento do processamento do feito e determinação para a suspensão do leilão do imóvel de Paulínea, nos autos de recuperação judicial.
+Portanto, constatado que as agravantes faltaram com a verdade, inclusive que buscaram ludibriar a boa fé do juízo, outra não poderia ter sido a decisão do magistrado ao impor às agravantes a pena pela prática de litigância de má-fé (fls. 54/55).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a revisão da conclusão do acórdão recorrido, no que se refere à caracterização de litigância de má-fé do recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em sede de recurso especial, ante o óbice do Enunciado n. 7/STJ" (AgInt no REsp 1.743.609/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 21/8/2020).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.644.759/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no AREsp 1.326.352/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 25/6/2020; e AgInt no AREsp 1.443.702/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
