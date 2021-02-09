@@ -1,0 +1,25 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto por Navegação Aliança Ltda. e filial(is), com amparo no art. 105, III, a, da CF, em oposição a acórdão do Tribunal de Justiça do Estado de Rio Grande do Sul ementado nos seguintes termos (e-STJ, fls. 177-178):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. ICMS. DIFERENCIAL DE ALÍQUOTA. ART. 155, VII E VIII, LETRAS "A" E "B", DA CF. DESNECESSIDADE DE LEI COMPLEMENTAR PARA EFETIVAR A COBRANÇA.
+O ART. 155, § 2º, VII, DA CONSTITUIÇÃO FEDERAL, DISPÔS QUE NAS OPERAÇÕES E PRESTAÇÕES QUE DESTINEM BENS E SERVIÇOS A CONSUMIDOR FINAL, CONTRIBUINTE OU NÃO DO IMPOSTO LOCALIZADO EM OUTRO ESTADO, ADOTAR-SE-Á A ALÍQUOTA INTERESTADUAL E CABERÁ AO ESTADO DE LOCALIZAÇÃO DO DESTINATÁRIO O IMPOSTO CORRESPONDENTE À DIFERENÇA ENTRE A ALÍQUOTA INTERNA DO ESTADO DESTINATÁRIO E A ALÍQUOTA INTERESTADUAL.
+A RESPONSABILIDADE PELO RECOLHIMENTO DO IMPOSTO CORRESPONDENTE À DIFERENÇA ENTRE A ALÍQUOTA INTERNA E INTERESTADUAL DE QUE TRATA O INCISO VII SERÁ ATRIBUÍDA AO DESTINATÁRIO, QUANDO FOR CONTRIBUINTE DO IMPOSTO (INCISO VIII, LETRA A); AO REMETENTE, QUANDO O DESTINATÁRIO NÃO FOR CONTRIBUINTE DO IMPOSTO (INCISO VIII, LETRA B).
+TAIS NORMAS CONSTITUCIONAIS POSSUEM EFICÁCIA PLENA, JÁ QUE ESTÃO DEFINIDOS, O FATO GERADOR, OS CONTRIBUINTES, A NATUREZA DAS OPERAÇÕES, A ALÍQUOTA E O ENTE TRIBUTANTE.
+ADEMAIS, O ART. 99 DO ADCT DÁ CONTORNO DEFINITIVO PARA A COBRANÇA DO DIFERENCIAL DE ALÍQUOTA DO ICMS, NO CASO DE CONSUMIDOR FINAL, NÃO CONTRIBUINTE.
+NÃO FOSSE ISSO, O ESTADO DO RIO GRANDE DO SUL FIRMOU O CONVÊNIO ICMS 32/2015, COM OS DEMAIS ESTADOS, COMPLEMENTADO PELA LEI ESTADUAL N. 14.804/2015, DANDO EFETIVIDADE À COBRANÇA DO DIFAL, REPRODUZINDO OS TERMOS CONSTITUCIONAIS ANTES REFERIDOS. NESTE CONTEXTO, TEM-SE DESNECESSÁRIA EDIÇÃO DE LEI COMPLEMENTAR PARA DAR EFETIVIDADE À COBRANÇA DO DIFAL, CONSOANTE ENTENDIMENTO SEDIMENTADO NESTA CORTE.INEXISTÊNCIA DE DIREITO.APELAÇÃO DESPROVIDA.
+Não houve oposição de embargos de declaração.
+Alega a empresa agravante, nas razões do especial, violação da Lei Complementar n. 87/1996 e do art. 97 do CTN.
+Assevera, em síntese, que "o DIFAL exigido pelo Estado do Rio Grande do Sul não foi regulamentado por meio de Lei Complementar, em total desrespeito à Constituição e a Legislação Federal e ao precedente firmado pela Suprema Corte no RE n. 580.903. Com efeito, o STF consignou em sua ementa que: "A instituição do diferencial de alíquotas depende de previsão em lei complementar." (e-STJ, fl. 217)".
+A negativa de admissibilidade teve por fundamento o óbice da Súmula 284 do STF e a ausência de prequestionamento.
+É o relatório.
+Discute-se, no recurso especial, a questão relativa à "necessidade de edição de lei complementar visando a cobrança da Diferença de Alíquotas do ICMS - DIFAL nas operações interestaduais envolvendo consumidores finais não contribuintes do imposto, nos termos da Emenda Constitucional nº 87/2015",matériasubmetidaao rito da repercussão geral, nos autos do RE 1.287.019, vinculado ao Tema1.093/STF.
+Nesse contexto, faz-se necessária a devolução dos autos à Corte regionalpara a observância da sistemática dos recursos repetitivos, consoante determinam os arts. 1.040 e 1.041 do Código de Processo Civil, que possuem a seguinte redação:
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+ ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.
+§ 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se
