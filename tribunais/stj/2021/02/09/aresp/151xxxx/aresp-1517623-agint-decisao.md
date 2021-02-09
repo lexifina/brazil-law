@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo interno manejado pela Fazenda Nacional desafiando decisão que conheceu do agravo para dar provimento ao recurso especial do contribuinte, determinando o retorno dos autos ao Tribunal de origem para que proceda à fixação dos honorários advocatícios com base nos parâmetros estabelecidos pelo art. 85, §§ 2º e 3º, do CPC/2015.
+A agravante, em suas razões, sustenta que "concorda com a aplicação do CPC/15 à hipótese, mas requer seja observado o § 8º do artigo 85 do CPC/15" (fl. 727).
+Impugnação às fls. 739/749.
+É O BREVE RELATO.
+Melhor compulsando os autos, e exercendo o juízo de retratação facultado pelo arts. 1.021, § 2º, do CPC e 259, § 6º, do RISTJ, reconsidero a decisão de fls. 194/197, tornando-a sem efeito, passando novamente à analise do recurso.
+Trata-se de agravo fundado no CPC/73, manejado por Latasa Nordeste S.A. e outro, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 601):
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DA NORMA VIGENTE AO TEMPO DA DISTRIBUIÇÃO DA EXECUÇÃO FISCAL. IMPROVIMENTO.
+1. Esta Turma pacificou o entendimento de que, embora disciplinados no Código de Processo Civil, os honorários sucumbenciais possuem também natureza de direito material, de modo que devem ser aplicadas as regras em vigor ao tempo do ajuizamento da ação.
+2. Tal medida se impõe também para evitar que as partes sejam surpreendidas, haja vista as modificações substanciais quanto à matéria, inclusive com relação a valores.
+3. Apelação improvida.
+Opostos embargos declaratórios, foram providos, sem efeitos modificativos, apenas para sanear omissão (fls. 629/633).
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 85 do CPC/2015. Sustenta que, "tendo em vista que a presente Execução Fiscal foi julgada em 26/10/2016, ou seja, em plena vigência do novo CPC, os honorários sucumbenciais deveriam ter sido fixados com base no artigo 85 do CPC, e não no artigo 20 do CPC/73, sendo irrelevante o fato de que a execução fiscal tenha sido distribuída antes da vigência do novo código" (fl. 652). Por fim, assinala que, "Alternativamente, caso este E. Tribunal entenda pela aplicação do CPC/73,  ..  pede e confia que o acórdão será reformado para que os honorários advocatícios sejam majorados e fixados em valor justo e compatível com o trabalho despendido pelos patronos da causa e conforme os parâmetros instituídos no artigo 20, parágrafos 3º e 4º, do CPC/73" (fl. 664).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O Tribunal a quo assim deliberou ao solucionar a contenda (fl. 600):
+A matéria devolvida a esta Corte limita-se à discussão acerca da legislação aplicável na fixação da verba honorária: o CPC/1973, vigente ao tempo da distribuição da execução fiscal em (18/11/2015), ou o CPC/2015, em vigor quando da prolação da sentença em (26/10/2017).
+Esta Turma já firmou o entendimento de que, conquanto esteja prevista no estatuto processual, a disciplina acerca dos honorários sucumbenciais possui nítido colorido de direito material, tendo havido modificação substancial acerca do tema, de modo que devem ser observadas as regras vigentes ao tempo do ajuizamento da ação, inclusive, para que as partes não sejam surpreendidas com as novas regras.
+A respeito do tema, o STJ sedimentou posicionamento no sentido de que "A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015" (EAREsp 1.255.986/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/03/2019, DJe 06/05/2019).
+Nessa mesma linha:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. ICMS. SUBSTIUIÇÃO TRIBUTÁRIA. RECOLHIMENTO A MAIOR. TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL. OPORTUNIZAÇÃO DE MANIFESTAÇÃO DAS PARTES ANTES DO JUÍZO DE CONFORMIDADE. DESNECESSIDADE. REPERCUSSÃO FINANCEIRA DO ENCARGO DO TRIBUTO. INAPLICABILIDADE. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. HONORÁRIOS ADVOCATÍCIOS. READEQUAÇÃO. EXAME DE PROVA. INADMISSIBILIDADE.
+1. Não há violação do art. 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. A regra do art. 10 do CPC/2015 não se aplica ao juízo de conformação, pois, firmada a tese a ser aplicada aos recursos repetitivos, não há falar em fundamento novo a respeito da qual a parte não teve oportunidade de manifestar-se.
+3. Na sistemática da substituição tributária para frente, quando da aquisição da mercadoria, o contribuinte substituído antecipadamente recolhe o tributo de acordo com a base de cálculo estimada, de modo que, no caso específico de revenda por menor valor, não tem ele como recuperar o tributo que já pagou, decorrendo o desconto no preço final do produto da própria margem de lucro do comerciante, sendo inaplicável, na espécie, a condição ao pleito repetitório de que trata o art. 166 do CTN. Precedente da Primeira Turma.
+4. Conforme entendimento da Corte Especial deste Tribunal Superior, a data da sentença é o marco temporal a ser considerado para definição da norma de regência aplicável ao arbitramento de honorários de sucumbência.
+5. Sem reexame de fático-probatório, não se pode chegar à conclusão pela readequação dos honorários, tendo em vista o percentual de 10%, por si só, não revelar exorbitância.
+6. Agravo interno não provido.
+(AgInt no REsp 1.866.546/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. PERDA. ART. 22 DO CPC/1973. INAPLICABILIDADE. MARCO TEMPORAL. SENTENÇA. CPC/2015. INCIDÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A fixação dos honorários advocatícios rege-se pela lei vigente na data da prolação da sentença, consoante entendimento firmado pela Corte Especial do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.702.831/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/10/2020, DJe 29/10/2020)
+Ao que se tem, a Corte Regional, ao afastar a incidência do CPC/2015 para a fixação dos honorários de sucumbência na espécie, mostra-se em desarmonia com o posicionamento do STJ sobre o tema, estando, assim, a merecer reparos.
+Uma vez reconhecida a violação ao art. 85 do CPC/2015, resta prejudicado o exame do pedido alternativo formulado pela parte recorrente, relativo à alegada irrisoriedade da verba advocatícia fixada com espeque no CPC/73.
+ANTE O EXPOSTO, (i) reconsidero a decisão de fls. 718/724; e (ii) conheço do agravo e dou provimento ao recurso especial de Latasa Nordeste S.A. e outro, determinando o retorno dos autos à Corte de origem, a fim de que, na fixação dos honorários sucumbenciais, observe as regras insertas no CPC/2015.
+Publique-se.
