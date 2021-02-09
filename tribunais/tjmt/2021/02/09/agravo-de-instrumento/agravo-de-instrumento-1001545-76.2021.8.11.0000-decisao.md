@@ -1,0 +1,26 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1001545-76.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto pela empresa EXPRESSO SATÉLITE NORTE LTDA. em virtude da decisão proferida pelo Juiz da 5.a Vara Cível da Comarca da Capital que, nos autos de Embargos de Terceiro n.o 1057908-91.2020.8.11.0041, indeferiu o pedido de tutela de urgência e revogou a decisão em que determinara a citação da Agravante.
+Em suas razões recursais, a empresa Recorrente alega ser parte ilegítima para figurar no processo de execução. Afirma que “nada tem a ver com a empresa Transportes Satélite, sendo totalmente infundada a alegação de sucessão empresarial, com a consequente nulidade da ação de execução”.
+Assevera que “certificou em cartório uma notícia de site de internet alegando que as empresas TRANSPORTES SATÉLITE e Expresso Satélite Norte já tiveram relações comercias, em razão disso, e sem prova alguma de qualquer suposta sucessão empresarial, simplesmente pugnou pela referida sucessão com a consequente inserção da EXPRESSO SATÉLITE NORTE no polo passivo da lide.”
+Segue argumentando que o Juiz a quo se equivocou ao proferir o decisum objurgado, vez que “não é possível identificar qualquer elemento de convicção, muito menos os fundamentos jurídicos. Não foi sequer respeitada a garantia inerente aos jurisdicionados de que que toda decisão deve ser fundamentada (...)”.
+Por derradeiro, afirma que “em nada se relaciona com os fatos que ensejaram a ação de execução donde provém a dívida liquida e certa, ensejadora da ação de execução (...)”.
+Forte em tais argumentos, requer seja agregado efeito suspensivo ao recurso. No mérito, requesta o seu provimento e a revogação do ato decisório em que foi determinada a citação da Recorrente para pagamento do débito objeto da Execução.
+Eis o relato essencial. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se encaixa no artigo 1.015, inciso I, do CPC, bem como está instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o do CPC.
+Como é cediço, o artigo 1.019 inciso I, do Código de Processo Civil, preconiza que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Ademais, o parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.”
+Nesse contexto, é vedado nos estreitos limites deste Recurso, o exame de questões de fundo do direito discutido, sendo necessário, portanto, aferir se estão, ou não, presentes os pressupostos para o deferimento da medida em que a Agravante busca sobrestar os efeitos da decisão objurgada até o julgamento do recurso.
+Da análise dos autos, nesta fase de cognição sumária, é possível entrever com a clareza necessária a confluência desses pressupostos para a concessão da medida in limine.
+Com efeito, observo que a controvérsia cinge-se ao acerto ou desacerto do Julgador a quo ao indeferir a tutela de urgência pleiteada pela Agravante com o objetivo de sustar a citação e intimação para pagamento do débito objeto da ação executiva.
+Neste ponto, ao menos prima facie, há verossimilhança nas alegações da Agravante.
+Com efeito, ao examinar os autos originários, nota-se que a empresa Agravada ajuizou demanda executiva fundada em título extrajudicial em desfavor da empresa “Transporte Satélite Ltda.”, como se vê do trecho do mandado de citação acostado em Id. 74752493 – pág. 04.
+Inobstante ter sido determinada a inclusão da Agravante no polo passivo da demanda, não é possível detectar, com clareza palmar, qualquer relação da Recorrente com a empresa “Transporte Satélite Ltda.”, vez que, ao realizar consulta ao website da Receita Federal: http://servicos.receita.fazenda.gov.br/Servicos/cnpjreva/Cnpjreva_Comprovante.asp”, é possível verificar que ambas as empresas possuem CNPJ ́s distintos, sendo que a empresa “Transporte Satélite Ltda.” consta o CNPJ como “inapto”, ao passo que a Agravante encontra-se como “ativa”.
+Por isso, fica evidente a probabilidade do direito invocado pela Recorrente. Da mesma forma, o periculum in mora também se revela patente, na medida em que o Juiz a quo determinou a citação da Agravante e fixou o prazo de 03 (três) dias para pagamento do débito objeto dos autos, sob pena de penhora e avaliação de bens (Id. 74752493 – pág. 04), circunstância em que, certamente, acarretará prejuízos de ordem patrimonial à Recorrente.
+Por tais considerações e, preenchidos os requisitos autorizadores, defiro o efeito suspensivo, de modo que sobresto o cumprimento do decisum invectivado até o julgamento do mérito deste Instrumental.
+Comunique-se ao Juiz da causa.
+Intime-se a Agravada para, querendo, apresentar contrarrazões no prazo legal, nos termos do art. 1.019, II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 08 de fevereiro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
