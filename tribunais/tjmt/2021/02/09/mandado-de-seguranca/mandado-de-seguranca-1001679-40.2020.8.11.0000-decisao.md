@@ -1,0 +1,61 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+MANDADO DE SEGURANÇA No. 1001679-40.2020.8.11.0000
+IMPETRANTE: ANDREIA CRISTINA DE SOUZA SANTOS
+IMPETRADOS: EXMO. SR. GOVERNADOR DO ESTADO DE MATO GROSSO E OUTROS
+Vistos, etc.
+Trata-se de Mandado de Segurança com Pedido de Medida Liminar impetrado por Andreia Cristina de Souza Santos contra ato imputado ao Exmo. Sr. Governador do Estado de Mato Grosso e Outros, objetivando a sua nomeação e posse no cargo de Agente de Serviço de Trânsito – Vistoria Veicular – polo de Tangará da Serra.
+Alega a Impetrante que, participou do certame público regido pelo Edital no. 01/2015-Detran/MT, cujo objetivo era o preenchimento de cargo de Agente do Serviço de Trânsito – vistoria veicular, Polo de Tangará da Serra/MT, que previu a existência de 11 (onze) vagas, sendo 10 (dez) vagas para ampla concorrência, do qual restou aprovada em 10o lugar, e 1 (uma) vaga destinada para PCD.
+Afirma que, o concurso foi homologado em 4-9-2015, sendo que o mesmo possui validade direta por 2 (dois) anos e foi prorrogado até 4-9-2019.
+Argumenta que, após a realização do certame e da sua aprovação dentro do número de vagas, o Impetrado até o momento não procedeu com sua nomeação.
+Pontua que, o Estado Mato Grosso não está nomeando nenhum candidato por falta de recursos, o que não pode ser alegado a título de concurso público, uma vez que para sua realização é efetuado estudo do impacto financeiro, realizado e reserva orçamentária para tal.
+Diz que, havendo disponibilidade de cargos e a necessidade do seu preenchimento, os candidatos aprovados em concurso público devem ser nomeados, sob pena de serem preteridos da ordem classificatória do concurso.
+Pois bem.
+Inicialmente, os autos foram distribuídos ao Juízo da 4a Vara Cível da Comarca de Tangará da Serra, que ao analisar a liminar, indeferiu o pedido conforme se verifica do ID n. 32815020.
+Posteriormente, reconheceu a incompetência daquele Juízo para processar e julgar o presente mandamus (ID n. 32815020); declinando da sua competência em favor desta Corte; todavia, antes que fosse realizada a redistribuição dos autos, a Impetrante pugnou pela reconsideração da decisão proferida pelo Magistrado a quo no ID no 32815020; que não analisou o pedido, por entender que a figura deste instituto não integra o direito processual pátrio.
+Passo então à análise do pedido de reconsideração.
+Ab inito, cumpre destacar que embora a Impetrante não tenha acostado aos autos, a lista dos candidatos aprovados no certame, para o cargo pleiteado no mandamus, em consulta realizada ao site da SEPLAG/MT, nesta data, http://www.seplag.mt.gov.br/images/files/CApiadeDETRAN2015AGENTEDOSERVIAODETRANSITO10112020191946.pdf, constata-se que a candidata fora aprovada em 10o lugar, e até a presente data, não foi nomeada para o cargo almejado.
+Conforme relatado, pretende a Impetrante a reconsideração da decisão proferida pelo Magistrado a quo, constante do ID no 32815020, que indeferiu o pedido de liminar, que objetivava a sua nomeação e posse no cargo de Agente de Serviço de Trânsito – Vistoria Veicular – polo de Tangará da Serra.
+Revendo a decisão que indeferiu o pedido de liminar, vislumbro que merece acolhida a insurgência da Impetrante.
+Isso porque, o prazo de validade de concurso público possui natureza decadencial, conforme se extrai dos julgados do Supremo Tribunal Federal nos Recursos Extraordinários nos 352.258 e 201.634, bem como no julgado do Superior Tribunal de Justiça no REsp no 1.197.146, o que, em princípio, acarreta na conclusão da impossibilidade de incidência de causas suspensivas ou interruptivas do prazo.
+In casu, o prazo de validade do concurso encerrou-se em 4 de setembro de 2019; e a Impetrante interpôs o mandamus, em 19-12-2019; todavia, em 29 de julho de 2019, houve a suspensão do prazo de validade do concurso público.
+Impende destacar que, ocorreu a expiração do prazo do concurso público, portanto, consumada a violação ao direito subjetivo da Impetrante, ora Agravante.
+Nesse sentido:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS PREVISTO NO EDITAL. DIREITO SUBJETIVO À NOMEAÇÃO. EXPIRAÇÃO DO PRAZO DO CONCURSO. DISCRICIONARIEDADE. HIPÓTESE DE LIMITAÇÃO. ORDEM CONCEDIDA.
+- A manifestação inequívoca da Administração a propósito da existência da vaga e da necessidade de nomeação para o cargo, que decorre do ato de chamamento de candidato aprovado em concurso público, em seguida exonerado, seguida da nomeação da classificada seguinte, que manifesta desistência em tomar posse, garante ao candidato aprovado em colocação imediata ao último convocado o direito subjetivo de ser imediatamente convocado a tomar posse.
+- Expirado o prazo do concurso público durante a tramitação do processo judicial, ao candidato aprovado dentro do número de vagas previsto no Edital deve ser garantido o direito subjetivo que tem à nomeação, conforme orientação jurisprudencial do Supremo Tribunal Federal (RE 598.099), em homenagem ao princípio de economia processual.
+(TJ-MG - MS: 10000160963625000 MG, Relator: Luiz Carlos Gomes da Mata, Data de Julgamento: 26/05/2017, Órgão Especial / ÓRGÃO ESPECIAL, data de publicação: 8/6/2017). [Destaquei]
+MANDADO DE SEGURANÇA. CONSTITUCIONAL E ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS. DIREITO SUBJETIVO À NOMEAÇÃO. JULGAMENTO DO RE N.o 598.099/MS, EM REPERCUSSÃO GERAL, PELO STF. IMPETRAÇÃO DURANTE O PRAZO DE VALIDADE DO CERTAME. EXPIRAÇÃO DURANTE O TRÂMITE DO MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO PRESENTE. SEGURANÇA CONCEDIDA.
+1. O STF, no julgamento do Recurso Extraordinário n.o 598.099/MS, sob o instituto da repercussão geral, decidiu que os candidatos a concurso público, aprovados dentro do número de vagas, possuem direito subjetivo à nomeação, criando a Administração – em respeito aos princípios da boa-fé administrativa, da razoabilidade, da lealdade, da isonomia e da segurança jurídica – para si, o dever de nomear os aprovados;
+2. O direito líquido e certo à nomeação exsurge tão somente após o esgotamento do prazo de vigência do concurso, sendo discricionariedade do administrador escolher o momento de nomeação do candidato aprovado durante esse tempo. Precedentes do STJ;
+3. No entanto, a impetração do mandamus antes da expiração do sobredito prazo não obsta a concessão da segurança quando há superveniência dessa expiração durante a tramitação do writ. Precedentes deste TJAM;
+4. Segurança concedida em consonância com o parecer ministerial.
+5. Liminar deferida em acórdão.
+(TJ-AM 40021729720168040000 AM 4002172-97.2016.8.04.0000, Relator: Yedo Simões de Oliveira, Data de Julgamento: 1/8/2017, Câmaras Reunidas). [Destaquei]
+Ademais, a disposição contida no artigo 37 da Constituição Federal prevê taxativamente que o prazo de validade do certame pode ser de até 2 (dois) anos, prorrogável por mais 2 (dois) anos, vedando expressamente concurso público com prazo superior a quatro (4) anos. Confira-se:
+Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao seguinte:
+[...]
+III - o prazo de validade do concurso público será de até dois anos, prorrogável uma vez, por igual período. [Destaquei]
+Desse modo, ainda que altruísta a intenção do legislador no sentido de compatibilizar a legítima expectativa dos candidatos aprovados em concurso público que não consigam ser nomeados em face de causa superveniente que obste a prática desse ato administrativo com a redução de custos da Administração na realização de novas seleções, a natureza do prazo disposto na norma constitucional obsta a suspensão de seu curso.
+Esse também foi o entendimento do e. Conselho Nacional de Justiça, nos autos do Procedimento de Controle Administrativo n. 0000404-37.2007.2.00.0000, que se amolda à hipótese vertente. Confira-se:
+PROCEDIMENTO DE CONTROLE ADMINISTRATIVO. CONCURSOS PÚBLICOS REALIZADOS PELO TJ/MT NOS ANOS DE 1998 E 1999. PORTARIA N. 058/2003 SUSPENDENDO O PRAZO DE VALIDADE DOS CONCURSOS. ILEGALIDADE. VIOLAÇÃO DO ART. 37, II, DA CF/88. NOMEAÇÃO DE CANDIDATOS APÓS PRAZO DE VALIDADE DOS CERTAMES. ANULAÇÃO. PEDIDO PROCEDENTE.
+1. O Ministério Público tem legitimidade para propor a instauração de procedimento de controle administrativo perante este Conselho visando o controle de legalidade de nomeações de candidatos aprovados em concurso público.
+2. A disposição contida no inc. II do art. 37 da CF/88 prevê taxativamente que o prazo de validade de concurso público pode ser de até 2 (dois) anos, prorrogável por mais 2 (dois) anos. Este prazo é decadencial, não admitindo sua suspensão, prorrogação ou interrupção por meio de norma infraconstitucional.
+3. A Portaria n. 58/2003, que determinou a suspensão do prazo de validade dos concursos regidos pelos Editais ns. 028/98, 029/98, 033/98 e 14/2000/NSCP desconsidera a natureza decadencial o prazo de validade do concurso e, consequentemente, viola de modo direto e flagrante o disposto no art. 37, II, da Constituição Federal. Ato desprovido de validade e eficácia jurídica e que não gera efeitos jurídicos.
+4. Pedido que se julga procedente para declarar a nulidade dos atos de nomeação dos candidatos aprovados nos concursos regidos pelo Edital n. 028/98, n. 029/98, n. 033/98 e n. 14/2000/NSCP levados a efeitos após o término do prazo de validade dos Certames, bem como para determinar ao TJ/MT que adote as providências necessárias à exoneração dos servidores nomeados ilegalmente.
+(CNJ - PCA: 00004043720072000000, Relator: LEOMAR BARROS, Data de Julgamento: 10/5/2011) [Destaquei]
+Ademais, não se demonstrou as situações excepcionalíssimas definidas pelo Supremo Tribunal Federal, no julgamento do RE 598099/MS, em sede de repercussão geral, de modo que as justificativas apresentadas pela Administração, decorrentes de circunstâncias financeiras, não afasta a obrigação de nomeação dos candidatos aprovados no concurso público.
+Esse é o entendimento do STJ. Confira-se:
+1. A recusa da Administração Pública ao direito público subjetivo de nomeação em favor do candidato classificado dentro do número de vagas ofertadas no edital de concurso público somente se justifica se obedecidas integralmente as condicionantes previstas no RE 598.099/MS, que constitui o marco jurisprudencial regulatório desse direito.
+2. Dentre essas condicionantes, deve haver a comprovação pela Administração Pública de que não havia outros meios menos gravosos e extremos para lidar com a situação de excepcionalidade e que, portanto, a recusa constituiu a ‘ultima ratio’.
+3. Recurso ordinário em mandado de segurança provido. (STJ, Segunda Turma, RMS 57565/SP, relator Ministro Mauro Campbell Marques, publicado no Diário da Justiça Eletrônico em 20 de agosto de 2018).
+Desse modo, é de se ter como transcorrido o prazo de validade do certame, exsurge o direito subjetivo da Impetrante, à imediata nomeação no cargo para o qual foi aprovada.
+Esse também é o entendimento dos tribunais pátrios. Confira-se:
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO PARA O CARGO DE AUXILIAR DE ENFERMAGEM. MUNICÍPIO DO RIO DE JANEIRO. CANDIDATA APROVADA DENTRO DO NÚMERO DE VAGAS OFERTADAS NO EDITAL. DECURSO DO PRAZO DE VALIDADE DO CERTAME. OMISSAÕ DA ADMINISTRAÇÃO EM PROMOVER A NOMEAÇÃO E POSSE.
+Concessão da ordem de segurança. Candidato aprovado dentro do número de vagas tem direto subjetivo a nomeação. Precedente STF. RE 598.099/MS. Inexistência de situação excepcional apta a justificar o descumprimento da obrigação de nomear. Precedente TJRJ. RECURSO PROVIDO.
+(TJ-RJ - APL: 01705263620168190001, Relator: Des (a). DENISE NICOLL SIMÕES, Data de Julgamento: 5/2/2019, QUINTA CÂMARA CÍVEL). [Destaquei]
+Ante o exposto, reconsidero a decisão proferida no ID no 32815020, para conceder a liminar vindicada, para determinar que o Governador do Estado de Mato Grosso, nomeie a Impetrante, no prazo de 20 (vinte) dias, no cargo de Agente de Serviço de Trânsito – Vistoria Veicular – polo de Tangará da Serra.
+Intime-se.
+Cumpra-se.
+Cuiabá/MT, 8 de fevereiro de 2021.
+Desa. Helena Maria Bezerra Ramos
+Relatora
