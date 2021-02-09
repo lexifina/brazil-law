@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OI MÓVEL S.A. - em recuperação judicial, contra a decisão que não admitiu o processamento do recurso especial, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 303):
+ESTAÇÃO RADIOBASE. NECESSIDADE DE OBSERVÂNCIA DA LEGISLAÇÃO LOCAL.
+"A retirada das estações rádio-base em desacordo com as posturas locais não invade a competência legislativa da União" (RMS 22.885-STJ), em consonância com o que dispõe o art. 74 da Lei 9.472 de 1997: "A concessão, permissão ou autorização de serviço de telecomunicações não isenta a prestadora do atendimento às normas de engenharia e às leis municipais, estaduais ou do Distrito Federal relativas à construção civil e à instalação de cabos e equipamentos em logradouros públicos".
+Não provimento do recurso.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 318-323).
+Em suas razões recursais, a recorrente alegou violação aos arts. 1º, 3º, I, 4º, 11 e 12, III, da Lei n. 11.934/2009; 8º e 13 da Lei 13.116/2015; 2º da Lei 9.472/1997; e 1º da Lei 8.919/1994.
+Contrarrazões apresentadas às fls. 396-406 (e-STJ).
+Juízo negativo de admissibilidade (e-STJ, fl. 409)
+Brevemente relatado, decido.
+A discussão jurídica aqui suscitada envolve regulamentação da instalação de antena de estação rádio base, abrangida pelas hipóteses de competência da Primeira Seção, responsável pelos julgamentos relacionados ao direito público, nos termos do art. 9º, § 1º, XIV, do RISTJ.
+A título exemplificativo, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO. PENALIDADE ADMINISTRATIVA. IRREGULARIDADE NAS INSTALAÇÕES DA ESTAÇÃO DE RÁDIO BASE. ALEGAÇÃO DE VIOLAÇÃO DOS ART. 74 DA LEI N. 9.472/1997. ART. 6º, § 2º, DA LEI N.
+6.938/1981. LEI COMPLEMENTAR N. 140/2011. O ÓRGÃO ESPECIAL DO TRIBUNAL DE ORIGEM RECONHECEU A ARGUIÇÃO DE INCONSTITUCIONALIDADE DA LEI MUNICIPAL N. 8.896/02. APLICAÇÃO OBRIGATÓRIA A CASOS ANÁLOGOS.
+QUESTÃO DIRIMIDA COM BASE EM LEI LOCAL. SÚMULA N. 280/STF. A EVENTUAL VIOLAÇÃO DE DISPOSITIVOS FEDERAIS OCORREU DE FORMA INDIRETA OU REFLEXA. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. OS ÓBICES IMPEDEM O CONHECIMENTO DO DISSÍDIO JURISPRUDENCIAL.
+I - Na origem, foi interposto agravo interno contra a decisão que determinou o sobrestamento da Apelação Cível n. 70078227030, em razão do teor do Recurso Extraordinário n. 776.594 - Tema n. 919 do STF, no qual litiga contra o Município de Porto Alegre/RS tendo por objeto a nulidade de penalidades administrativas relativamente à irregularidades nas instalações da Estação Rádio Base (ERBs).
+II - O Tribunal de Justiça do Estado do Rio Grande do Sul deu provimento ao agravo após tal decisão, determinou-se o prosseguimento do respectivo recurso de apelação, o qual, julgado desprovido pelo Tribunal a quo, manteve-se incólume a decisão monocrática de procedência da ação, declarando a nulidade dos respectivos processos administrativos.
+III - O Município de Porto Alegre interpôs recurso especial, no qual aponta ofensa ao art. 74 da Lei n. 9.472 de 1997 e alterações, ao art. 6º, § 2º, da Lei n. 6.938 de 1981 e à Lei Complementar n. 140 de 2011. Também suscita dissídio jurisprudencial entre o aresto recorrido e julgado desta Corte relacionado à questão. O Tribunal Estadual negou seguimento ao recurso especial, tendo sido interposto agravo.
+IV - Esta Corte conheceu do agravo para não conhecer do recurso especial, implicando a majoração da verba honorária recursal para 13% sobre o valor da causa. Interposto agravo interno. Sem razão a parte agravante.
+V - A respeito da alegação de ofensa ao art. 74 da Lei n. 9.472/1997 e alterações, ao art. 6º, § 2º, da Lei n. 6.938/19981 e à Lei Complementar n. 140/2011, o Tribunal de origem, na fundamentação do acórdão recorrido, assim firmou entendimento: "Em julgamento realizado no dia 25/11/2013, o Órgão Especial do Tribunal de Justiça do Estado, por maioria, reconheceu procedente a arguição de inconstitucionalidade da Lei Municipal n. 8.896/02. " ..  Assinalo que tal decisão é de aplicação obrigatória aos casos análogos, na forma do art. 211 do Regimento Interno desta Corte".
+VI - Consoante se verifica dos excertos colacionados do aresto vergastado, a controvérsia dos autos foi dirimida com base na análise e interpretação da Lei Municipal n. 8.896/2002, cuja inconstitucionalidade foi reconhecida pelo órgão especial da Corte de Justiça, ficando evidente que eventual violação dos dispositivos federais citados, se houve, ocorreu de forma indireta ou reflexa, não justificando a interposição de recurso especial nesse caso.
+VII - Na hipótese em questão, o exame de suposta ofensa ao art. 74 da Lei n. 9.472/1997 e alterações, ao art. 6º, § 2º, da Lei n.
+6.938/19981 e à Lei Complementar n. 140/2011 exigiria, necessariamente, a apreciação de direito local (Lei n. 8.896/2002) e dos elementos fáticos dos autos, dentre eles os autos de infração lavrados em desfavor da recorrida, procedimento incompatível com a estreita via do apelo excepcional, ante a incidência, por analogia, da Súmula n. 280/STF e da Súmula n. 7/STJ. A esse respeito, os seguintes julgados: AgInt no REsp n. 1.474.514/PR, Relatora Ministra Regina Helena Costa, Primeira Turma, julgamento em 26/6/2018, DJe 2/8/2018; AREsp n. 1.547.293/GO, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/12/2019, DJe 13/12/2019.
+VIII - Os óbices dos enunciados das Súmulas n. 280/STF e 7/STJ também impedem o conhecimento do dissídio jurisprudencial suscitado.
+IX - Agravo interno improvido.
+(AgInt no AREsp 1581697/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/11/2020, DJe 18/11/2020)
+PROCESSUAL CIVIL, CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA COM PEDIDO LIMINAR.SERVIÇOS DE TELEFONIA. DESCUMPRIMENTO DA MATÉRIA QUE REGULA A INSTALAÇÃO DE ESTAÇÕES RÁDIO-BASE NO MUNICÍPIO DE PORTO ALEGRE/RS.MATÉRIAS NÃO APRECIADAS PELA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO.INCIDÊNCIA DA SÚMULA 211/STJ. ALTERAÇÃO DO JULGADO QUE DEMANDA A ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEI MUNICIPAL 8.896/2002 DE PORTO ALEGRE/RS. IMPOSSIBILIDADE. SÚMULA 280/STF. RESOLUÇÃO 302/2002 DA ANATEL. ATO INFRALEGAL QUE NÃO ENSEJA O RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. PARECER MINISTERIAL PELO DESPROVIMENTO DO RECURSO.AGRAVO INTERNO DA CLARO S.A. A QUE SE NEGA PROVIMENTO.
+1. A mera alegação não é suficiente para ter-se a matéria como prequestionada, instituto que para sua caracterização mister se faz, além da alegação a discussão e apreciação judicial.
+2. Análise de lei local. Impossibilidade. Súmula 280/STF.
+Precedentes específicos em casos de ERB: AgInt no AREsp.1.101.592/SP, Rel. Min. FRANCISCO FALCÃO, DJe 14.2.2018 e AgRg no Ag 1.415.178/RS, Rel. Min. BENEDITO GONÇALVES, DJe 5.9.2012, dentre outros.
+3. A alteração das conclusões tiradas à vista das provas constantes nos autos implicaria o revolvimento do conteúdo fático-probatório da demanda.
+4. Com relação à alegada ofensa da Resolução 302/2002 da ANATEL, fica prejudicada sua análise, pois, não é possível, em recurso especial, a análise de ato normativo infralegal.
+5. No tocante à alínea c, o sugerido dissídio jurisprudencial não foi analiticamente demonstrado de acordo com os arts. 255, § 2o. do RISTJ e 541, parág. único do CPC/1973.
+6. Agravo Interno da CLARO S.A. a que se nega provimento.
+(AgInt no AREsp 752.756/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 11/05/2020, DJe 14/05/2020)
+Ante o exposto, determino sejam os autos encaminhados para redistribuição a um dos ministros integrantes das Turmas da Primeira Seção.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. (IR)REGULARIDADE NAS INSTALAÇÕES DE ANTENA DA ESTAÇÃO DE RÁDIO BASE. ART. 9º, § 1º, INCISO XIV, DO RISTJ. MATÉRIA DA COMPETÊNCIA DA PRIMEIRA SEÇÃO. REDISTRIBUIÇÃO DO FEITO.
