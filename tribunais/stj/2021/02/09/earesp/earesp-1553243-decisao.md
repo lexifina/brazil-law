@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por DORACI LIMA DA SILVA com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados:
+a) AgInt no AREsp n. 1.364.937/RS, proferido pela Segunda Turma, ao entendimento de que não há incidência da Súmula 7/STJ quando a análise empreendida restringe-se aos limites do acórdão recorrido, sem que haja necessidade de revolvimento do conjunto fático-probatório dos autos;
+b) AgInt no AREsp n. 1.430.742/RJ, proferido pela Quarta Turma, acerca da ocorrência de violação aos artigos 489, § 1º, III e IV, e 1.022, II, do CPC/2015 em razão do Tribunal de origem não ter enfrentado de forma suficiente e fundamentada os temas suscitados nos embargos de declaração; e
+c) AgReg no Recurso Extraordinário com Agravo n. 1.207.862/SP, proferido pelo Supremo Tribunal Federal.
+Requer, desse modo, o provimento dos embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência, no ponto, da Súmula 7/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido apreciado o mérito do recurso especial, situação que atrai, por analogia, o teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EAREsp 315.046/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 25/4/2017; AgInt nos EAg 1357322/DF, relator Ministro Felix Fischer, Corte Especial, DJe de 15/12/2016; EAREsp 559.766/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 22/11/2016; AgInt nos EREsp 1226477/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 26/10/2016.
+Ademais, verifica-se que o recurso de embargos de divergência versa em torno da violação dos arts. 489, § 1º, e 1.022 do Código de Processo Civil de 2015, o que, nos termos da jurisprudência pacificada desta Corte, é incabível em razão das situações fáticos-processuais diferenciadas e da necessidade de análise individualizada de cada caso concreto.
+A propósito, mutatis mutandis:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. DIVERGÊNCIA QUANTO À ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO CABIMENTO. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO QUE NÃO DECIDE O MÉRITO. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA.
+I - Os embargos de divergência tem por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça do decisum ou corrigir regra técnica de conhecimento.
+II - A controvérsia acerca da apontada violação do art. 535, II, do CPC/73 foi enfrentada pelo acórdão embargado (fl. 736). A decisão afastou, de forma absolutamente fundamentada, a apontada violação do art. 535 do CPC/73, sendo clara acerca da não caracterização das omissões.
+III - Este Tribunal entende não haver como atestar divergência entre julgado que afastou a apontada violação do art. 535 do CPC/73 com outro que a tenha acolhido, em razão das situações fático-processuais absolutamente diferenciadas, sendo casuístico o julgamento dos embargos de declaração. Nesse sentido: AgInt nos EREsp 1203149/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 05/04/2017, DJe 19/04/2017; AgInt nos EAREsp 324.542/SP, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 01/06/2016, DJe 16/06/2016).  ..
+VIII - Agravo interno improvido. (AgInt nos EAREsp 98905/SC, Relator Ministro Francisco Falcão, Corte Especial, DJe de 28/8/2018.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. INEXISTÊNCIA DE TESES A CONFRONTAR. AGRAVO DESPROVIDO.
+1. Na aplicação do art. 619 do CPP e dos arts. 489, § 1º, e 1.022 do CPC de 2015, a constatação de ter, ou não, havido omissão ou deficiência na fundamentação do acórdão proferido na origem, em regra, demanda o exame das peculiaridades de cada caso concreto, inexistindo, portanto, dissídio de teses a ensejar os embargos de divergência.
+2. A reprodução dos fundamentos da decisão monocrática no voto do Relator, proferido em sede de agravo regimental, mormente quando ratificado pelo respectivo órgão julgador, não é capaz de gerar a nulidade do aresto, por deficiência na fundamentação, quando haja o efetivo enfrentamento das matérias impugnadas nas razões recursais, como ocorreu no caso em exame.
+3. Agravo regimental a que se nega provimento. (AgRg no AgRg nos EREsp 1492472/PR, Relator Ministro Raul Araújo, Corte Especial, DJE de 19/12/2019.
+Sobre o paradigma AgReg no Recurso Extraordinário com Agravo n. 1.207.862/SP, proferido pelo Supremo Tribunal Federal, cabe ressaltar que os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, a colação de acórdãos de outros tribunais como paradigmas. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. REGRA TÉCNICA DE CONHECIMENTO. FALTA DE IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA DE SIMILITUDE FÁTICA E DE COTEJO ANALÍTICO. PARADIGMA. DECISÃO MONOCRÁTICA. ACÓRDÃO DE TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+(..)
+2. "Os embargos de divergência têm como escopo a uniformização da jurisprudência dos órgãos julgadores desta Corte, garantindo aos jurisdicionados uma única e correta interpretação da legislação infraconstitucional federal. Assim, mostra-se inviável a busca da pacificação da jurisprudência desta Corte com a jurisprudência de outros tribunais" (AgRg nos EDcl nos EAREsp 471.430/SP, relator Ministro Gurgel De Faria, Terceira Seção, julgado em 13/5/2015, DJe de 26/5/2015).
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp 1297581/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 11/11/2020, DJe 16/11/2020)
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. NÃO CABIMENTO DE EMBARGOS DE DIVERGÊNCIA PARA DISCUTIR ACERTO OU DESACERTO DE REGRA TÉCNICA DE CONHECIMENTO DE RECURSO ESPECIAL.
+(..)
+IV - Em relação aos paradigmas proferidos por outras Cortes de Justiça, cumpre destacar que os embargos de divergência têm como escopo a uniformização interna da jurisprudência deste Superior Tribunal de Justiça, sendo inadmissível, portanto, a colação de acórdãos de outros tribunais como paradigmas. Nesse sentido:AgRg nos EAREsp 822.087/GO, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 22/3/2017, DJe de 27/3/2017; AgRg nos EDcl nos EAREsp 471.430/SP, relator Ministro Gurgel De Faria, Terceira Seção, julgado em 13/5/2015, DJe de 26/5/2015 e AgRg nos EAg 1171821/PR, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 28/3/2012, DJe de 9/4/2012.
+V - Agravo interno improvido.
+(AgInt nos EAREsp 1440776/SP, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 01/12/2020, DJe 07/12/2020)
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
