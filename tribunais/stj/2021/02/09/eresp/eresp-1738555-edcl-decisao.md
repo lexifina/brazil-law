@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLAUDIO ROQUE MARTINS em face da decisão que indeferiu liminarmente os embargos de divergência em razão da apresentação de paradigmas que não apreciaram o mérito.
+Em suas razões, sustenta a parte embargante que a decisão incorreu em omissão ao não se pronunciar sobre o pedido de suspensão dos autos em razão dos temas 1010 e 1062 dos recursos repetitivos, bem como "sobre a questão prejudicial de mérito apresentada (coisa julgada material), e ao pedido de compensação ecológica" (fl. 1.060).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios, manifestando-se às fls. 1.069/1.072.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Registre-se que, conforme dispõe o art. 266 do Regimento Interno do Superior Tribunal de Justiça, somente "cabem embargos de divergência contra acórdão de órgão fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro órgão Jurisdicional deste Tribunal".
+No mesmo sentido, o inciso I do art. 1.043 do Código de Processo Civil de 2015, estabelece que é embargável o acórdão de órgão fracionário que "em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito".
+Logo, não se admite, como paradigmas, acórdãos que não apreciaram o mérito ou a controvérsia.
+Observe-se que a parte embargante pretende a suspensão do feito em razão de existir decisão de sobrestamento dos processos que versem sobre idêntica controvérsia a processo submetido à sistemática de recursos repetitivos.
+Ocorre que esse exame resta prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente indeferimento liminar dos embargos de divergência, conforme explicitado na decisão embargada.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. FORNECIMENTO DE MEDICAMENTOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 211/STJ. LEGITIMIDADE PASSIVA AD CAUSAM DA UNIÃO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. ENTENDIMENTO DO STF EM REPERCUSSÃO GERAL. PRECEDENTES DO STJ.
+1. Conforme entendimento desta Corte Superior, não há falar em sobrestamento de recurso por tratar-se de matéria repetitiva quando não superado o juízo de admissibilidade recursal. Precedente: "Não se cogita do sobrestamento do feito para aguardar a solução da questão de mérito submetida ao rito dos recursos repetitivos, quando o apelo não ultrapassa os requisitos de admissibilidade" (AgRg nos EREsp 1.275.762/PR, relator Ministro Castro Meira, Corte Especial, DJe de 10/10/2012.)
+ ..
+4. Agravo interno não provido
+(AgInt no AREsp 1098653/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 27/9/2017.)
+Tal entendimento se aplica ao demais pedidos formulados pela parte, prejudicados em razão do indeferimento liminar dos embargos de divergência.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
