@@ -1,0 +1,41 @@
+EMBARGANTE(S):
+LUCIA DABUL POMPEU DE BARROS
+EMBARGADO(S):
+WANDERLEY SHOW BAR LTDA - ME
+Vistos etc.
+Trata-se de Embargos de Declaração opostos no ID. n. 70126956 por LUCIA DABUL POMPEU DE BARROS contra a decisão negou o pedido de efeito suspensivo ao Agravo de Instrumento interposto contra a decisão proferida na Ação de Oposição no 1054207-25.2020.8.11.0041 ajuizada por WANDERLEY SHOW BAR LTDA - ME, que suspendeu a liminar que havia sido deferida na Ação de Reintegração de Posse n.o 1050037-10.2020.8.11.0041 ajuizada pela agravante em desfavor de Omaly Rodrigues Portela Fraga (locatário) para reintegrar o locador – o Sr. MILTON ARMANDO POMPEU DE BARROS, esposo da agravante, no imóvel locado.
+Inconformada, sustenta a agravante, ora embargante, que a decisão embargada padece de omissão no que tange a) às provas juntadas pela agravante; b) a existência do contrato de locação firmado com o Sr. Omaly; c) o distrato assinado por ambos, bem como d) a ausência de preenchimento dos requisitos para o deferimento da tutela na ação de oposição.
+Alega que a fundamentação da decisão embargada se vale de diversos advérbios de dúvida quanto aos documentos juntados pela opoente/agravada, o que por si só evidencia a ausência de provas contundentes para o deferimento da liminar na oposição pelo juízo singular.
+Assevera que a oposição foi manejada por terceira alheia ao contrato havido entre as partes originárias, com vista a suspender a tutela de urgência que havia sido deferida em ação de reintegração de posse movida pela agravante, e embora tenha se valido da tese que teria havido um contrato verbal de locação com o marido da embargante, não trouxe qualquer prova nesse sentido.
+Afirma que embora esta Relatora tenha mencionado na decisão embargada que “nas razões recursais não há nenhuma referência a tais áudios, muito menos negativa acerca de sua autenticidade”, certo seria que a autenticidade e veracidade dos mencionados áudios seria matéria de mérito da causa, o que torna inviável sua análise na presente via recursal, não sendo cabível a sua discussão no presente momento.
+Defende que um suposto áudio do filho da agravante, sem qualquer lastro, não pode ter valor maior do que todas as provas documentais trazidas nos autos de reintegração de posse e no recurso de agravo de instrumento.
+Alega que a decisão incorre também em erro de fato e omissão ao analisar o pedido de efeito suspensivo à luz dos requisitos do art.300 do CPC/15, quando deveriam ter sido analisados os requisitos do art.995 do mesmo Código, sendo certo que, no caso do Agravo de Instrumento, subsiste um débito locatício na ordem de R$207.240,50 a evidenciar o risco de dano grave, estando, ainda, a probabilidade do provimento do recurso embasada na ausência de provas da contratação de um novo contrato verbal com alteração do valor do aluguel.
+Aduz que a decisão seria contraditória na medida em que, apesar de reconhecer que a agravada não produziu na origem provas suficientes quanto ao pagamento dos aluguéis, mas ainda assim indefere o pedido de efeito suspensivo ao recurso que se baseia exatamente nesse fato.
+Argumenta que ainda que se considerasse a possibilidade da existência de um suposto contrato verbal, a decisão de indeferimento padece de omissão quanto ao direito da Agravante de retomar o imóvel diante do inadimplemento da suposta obrigação, nos termos do art. 9o da Lei 8.425/91.
+Com tais razões, pugna pelo saneamento das omissões, erro material e contradição apontada, deferindo-se o efeito suspensivo recursal.
+Contrarrazões no ID. n. 71859461 pela rejeição dos aclaratórios.
+Pois bem.
+De início, cabe ressaltar que os embargos de declaração somente devem ser acolhidos quando verificada a presença na decisão embargada de quaisquer dos requisitos dispostos no artigo 1.022 do CPC/15 (correspondente ao artigo 535 do CPC/73), quais sejam: omissão, obscuridade, contradição ou erro material, in verbis:
+“Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Parágrafo único. Considera-se omissa a decisão que:
+I - deixe de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento;
+II - incorra em qualquer das condutas descritas no art. 489, § 1o.”
+Ocorre, entretanto, que segundo a jurisprudência pretoriana “é deficiente a fundamentação que não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.” (EDcl nos EDcl no AgInt no AREsp 891.588/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/03/2017, DJe 21/03/2017).
+Vale ainda lembrar que “o erro material que justifica o cabimento dos embargos de declaração relaciona-se a aspectos objetivos e revela uma discrepância entre a intenção do julgador e sua materialização, tornada pública pela decisão proferida; refere-se à expressão do julgamento, e não ao julgamento em si.” (EDcl no AgRg nos EREsp 1382719/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/02/2017, DJe 15/03/2017)
+No caso, conquanto o embargante afirme que o decisum impugnado padece de erro material, não foi capaz de demonstrar, ou nem mesmo apontar concretamente tal erro.
+Vale ainda dizer que, embora a agravante embargante afirme que o indeferimento do efeito recursal ativo configuraria um equívoco na apreciação dos requisitos do art.995 do CPC/15 uma vez que não haveria provas do suposto contrato verbal posterior em que ajustado um valor de aluguel na metade do inicialmente contratado, tal arguição não prevalece no caso dos autos.
+Obviamente que, se o contrato que a parte alega ter havido é verbal, por certo não haverá provas físicas do novo ajuste, mas sim apenas elementos indiciários como, por exemplo, as três mensagens de voz atribuídas a Milton Dabul Pompeu de Barros, filho da agravada e do locador, e arquivadas nos IDs. ns. 43716846, 43716852 e 43716854 daqueles autos, enviado a alguém a quem o interlocutor atribui à condição de irmã do Sr. Omaly – possivelmente à Sra. Adriane, representante da sociedade agravada –, cujas declarações indiciam a existência um possível contrato verbal entre o locador (seu pai) e a representante da oponente, com a redução do valor do aluguel de R$6.000,000 para R$3.000,00, cujo declarante, inclusive, se comprometeu a testemunhar em juízo as possíveis tratativas verbais.
+Nesse particular, tais fundamentos da decisão subsistem integralmente.
+No entanto, em um ponto específico a decisão agravada se revelou realmente omissa.
+Isso porque, como bem alinhavou a embargante, ao analisar o pedido de efeito suspensivo, esta relatora olvidou-se de que, mesmo que se considerasse existente um novo contrato verbal travado entre o locador, marido da agravante e a oponente agravada, com a redução do valor do aluguel de R$6.000,00 para R$3.000,00, certo é que os vários comprovantes de depósitos/transferências bancárias juntadas à oposição não evidenciam que todos os alugueres vencidos após essa nova avença tivessem sido horados pela oponente no valor do aluguel reajustado.
+Aliás, tendo a oponente embargada tido a oportunidade de responder aos presentes declaratórios, deveria ter trazido aos autos os comprovantes de pagamentos regulares dos alugueres do R$3.000,00 ao mês, desde o suposto reajustamento do contrato originário, o que não o fez – circunstância que demonstra, de fato, sua inadimplência.
+Diante disso, reconheço a omissão apontada e, sanando-a, defiro o efeito recursal suspensivo nos autos da Agravo de Instrumento, haja vista o não preenchimento dos requisitos para o deferimento da tutela de urgência nos autos da oposição.
+No entanto, concedo à agravada, ora embargada, o prazo de 30 (trinta) dias para desocupação voluntária – prazo suficiente para eventual composição amigável entre as partes.
+Aguarde-se a oferta das contrarrazões ao agravo de instrumento, certificando-se o eventual transcurso do prazo para apresenta-las acaso esse já tenha escoado.
+Após, à conclusão.
+Cuiabá, 09 de fevereiro de 2021.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora
