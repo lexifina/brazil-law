@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS FERNANDO DA SILVA contra decisão liminar proferida por Desembargador Relator do Tribunal de Justiça do Estado de São Paulo.
+No presente writ, sustenta o impetrante a nulidade da decisão do Juízo de primeiro grau que deferiu o pedido de interceptação telefônica contra o paciente, bem como as demais decisões que autorização a prorrogação da quebra do sigilo, pois realizadas de forma genérica.
+Ao final, requer, liminarmente e no mérito,seja desentranhada dos autos todas as gravações e degravações em que aparece o paciente como interlocutor.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar. No mesmo sentido, confira-se o seguinte precedente ( grifei):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DECISÃO DO RELATOR QUE, EMBORA SUCINTA, FUNDAMENTA O INDEFERIMENTO DA LIMINAR NA AUSÊNCIA DOS REQUISITOS EXIGIDOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE CAPAZ DE SUPERAR O ÓBICE DA SÚMULA N. 691/STF. IMPOSSIBILIDADE DE MANIFESTAÇÃO DESTA CORTE, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. Não é teratológica a decisão do Desembargador relator que, vislumbrando a impossibilidade de apreciação da matéria em sede de juízo perfunctório, tendo em vista a faculdade que lhe é concedida, solicita informações ao Juízo de origem para melhor análise do pedido formulado no mandamus originário e delega ao colegiado o julgamento do mérito, após o parecer do Parquet, não se verificando, portanto, hipótese de superação do enunciado 691 da Súmula do STF.
+2. De acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+3. Agravo regimental desprovido. (AgRg no HC 529.007/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 17/9/2019, DJe 23/9/2019)
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não constatada na espécie, não é de se admitir casos como o dos autos.
+Com efeito, não há flagrante ilegalidade no que tange ao indeferimento, pelo Desembargador do Tribunal a quo, da liminar postulada no habeas corpus lá impetrado.
+Confira-se o teor da decisão (e-STJ, fls. 95):
+O advogado David de Casto impetra habeas corpus, com pedido liminar, em favor de LUCAS FERNANDO DA SILVA, que está sendo processado pela suposta prática dos crimes previstos nos artigos 33, "caput", e 35, ambos da Lei 11.343/06, sob fundamento de que o paciente está sofrendo constrangimento ilegal por ato do r. Juízo da Vara Única da Comarca de Colina, nos autos da Ação Penal nº 0003085-73.2011.8.26.0142.
+Sustenta, em síntese, a nulidade da r. decisão que deferiu o pedido de interceptação telefônica formulado pela autoridade policial, pois em total desconformidade com a legislação vigente e com o artigo 93, inciso IX, da Constituição Federal. Requer, assim, sejam desentranhados dos autos todos os diálogos captados em que o paciente é o interlocutor.
+Indefere-se a liminar.
+Da análise perfunctória da impetração, não se vislumbra nulidade ou teratologia latentes a ensejar a concessão da tutela de urgência, cabível apenas quando evidente a ilegalidade do ato impugnado.
+Pesem os argumentos expendidos pelo i. impetrante, a constatação do constrangimento ilegal noticiado demanda análise cautelosa dos fatos alegados, o que é impossível em um juízo de cognição sumária, não só pelo longo período de tempo transcorrido, mais de 10 (dez) anos do deferimento da medida impugnada, como também por correrem os autos em meio físico, o que impossibilita o acesso a seu conteúdo integral.
+Nada obstante, as questões deduzidas serão sopesadas com maior alcance no momento oportuno, até porque a natureza satisfativa do pedido impõe a resolução da controvérsia pelo colegiado, juízo natural da causa, no oportuno julgamento do remédio constitucional.
+Processe-se requisitando as informações do r. Juízo apontado coator.
+Após, abra-se vista à douta Procuradoria Geral de Justiça.
+Por certo, todas as questões suscitadas pela defesa do paciente serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar (em ampla extensão e profundidade) o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
