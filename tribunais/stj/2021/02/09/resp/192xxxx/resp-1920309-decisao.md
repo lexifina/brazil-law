@@ -1,0 +1,8 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO ITAU BBA S.Aem face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+SUSPENSÃO DO PROCESSO EXECUÇÃO POR TÍTULO EXTRAJUDICIAL RECUPERAÇÃO JUDICIAL DEFERIDA À EMPRESA EXECUTADA - PRETENSÃO A MANUTENÇÃO DA PENHORA SOBRE AS AÇÕES DA EMPRESA ATG PARTICIPAÇÕES OBJETO DE ARRESTO NA EXECUÇÃO E PROSSEGUIMENTO DA EXECUÇÃO POSTO QUE ESCOADO O PRAZO DO DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO PARA DECIDIR A DESTINAÇÃO DOS ATIVOS OBJETO DO PLANO DE RECUPERAÇÃO DA EXECUTADA ESCOAMENTO DO PRAZO NÃO VERIFICADO EM RAZÃO DA HOMOLOGAÇÃO DE PLANO DE RECUPERAÇÃO JUDICIAL CONJUNTO APROVAÇÃO DO PLANO QUE CONTEMPLA O CRÉDITO BUSCADO PELO EXEQUENTE QUE IMPLICA EM NOVAÇÃO DOS CRÉDITOS ANTERIORES AO PEDIDO E OBRIGA O DEVEDOR E TODOS OS CREDORES A ELE SUJEITOS SEM PREJUÍZO DE SUAS GARANTIAS A TEOR DO QUE DISPÕE O ARTIGO 59 DA LRF - AGRAVO REGIMENTAL PREJUDICADO - RECURSO NÃO PROVIDO
+Nas razões do recurso especial, a parte recorrente sustenta violação dos arts. 6º, § 4º, 52, III, e 76 da Lei 11.101/2005.
+É o relatório.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se.
