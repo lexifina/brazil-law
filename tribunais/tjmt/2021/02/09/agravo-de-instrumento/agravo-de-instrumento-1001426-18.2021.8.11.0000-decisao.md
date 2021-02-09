@@ -1,0 +1,27 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1001426-18.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por JUSSARA BREDA em virtude da decisão proferida pelo Juiz da Vara Cível da Comarca de Poconé que, nos autos de Ação de Execução n.o 000000000127-47.1995.8.11.0028, determinou a intimação do Agravado para, no prazo de 15 (quinze) dias, quitar o débito, sob pena de incidência da multa estipulada no art. 523 do CPC.
+Em suas razões recursais, a Agravante alega que “o decisum objurgado merece reforma, eis que completamente NULO, em se tratando de reabertura de prazo já transcorrido em favor do Agravado, provocando tumulto processual e evidente prejuízo à Agravante.”
+Assevera que “a manutenção da decisão que deu nova oportunidade ao Agravado sobre um mesmo fato afronta as evidências de fumus boni juris, já que retira a possibilidade do acréscimo de valores em favor da Agravante e seus procuradores e, por sua vez, também afronta-se a clareza do periculum in mora, tornando o processo ainda mais distante de sua conclusão final, sendo que tramita por mais de 25 (vinte e cinco) anos.”
+Segue argumentando que “o Executado, aproveitando a falha do Judiciário, apresentou sua impugnação, contudo, notadamente, ocorrendo a decisão de declaração de nulidade do ato jurídico, não há o que se falar em impugnação, posto que totalmente intempestiva e alcançada pela preclusão, sendo que o Agravado já havia sido intimado ao pagamento ou à impugnar em 10/12/2019, ou seja, chega atrasado em 01 (um) ano, o que não se pode permitir.
+Por derradeiro, reforça que “as regras do Código de Processo Civil não permite a renovação de atos ou reabertura de prazos sem que ocorra a justa motivação, o que não ocorreu no Cumprimento de sentença, sendo a renovação ocorrida através de erro de análise da Julgadora que não se atentou que a intimação para pagamento já havia ocorrido (...)”.
+Forte em tais argumentos, requer seja agregado efeito suspensivo ao recurso. No mérito, requesta o provimento do Instrumental interposto.
+Eis o relato essencial. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se encaixa no artigo 1.015, inciso I, do CPC, bem como está instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o do CPC.
+Como é cediço, o artigo 1.019 inciso I, do Código de Processo Civil, preconiza que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Ademais, o parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.”
+Nesse contexto, é vedado, nos estreitos limites deste Recurso, o exame de questões de fundo do direito discutido, sendo necessário, portanto, aferir se estão, ou não, presentes os pressupostos necessários para o deferimento da aludida medida, uma vez que, o Agravante busca sobrestar os efeitos da decisão objurgada até o julgamento definitivo do recurso.
+Da análise dos autos, nesta fase de cognição sumária, entrevejo com a clareza necessária a confluência desses pressupostos.
+Com efeito, o recurso tem como finalidade analisar o acerto ou desacerto do julgador a quo quando determinou a intimação do Agravado para quitar o débito objeto dos autos originários, sob pena de incidência da multa do art. 523 do CPC, sob pena de constrição do seu patrimônio.
+Neste ponto, observo que, ao menos prima facie, razão assiste à Agravante.
+Com efeito, ao examinar os autos originários, nota-se que a Juíza a quo já determinou a intimação do banco Recorrido para que efetuasse o pagamento integral do débito, sob pena de incidência das sanções dos arts. 523 e 525 do CPC, na data de 22/10/2019, como se vê do ID. 74464985.
+Ademais, é possível constatar que o Recorrido, de fato, em que pese devidamente intimado, quedou-se inerte quando da determinação do primeiro decisum, como se vê da certidão da publicação da intimação datada de 09/12/2019 (Id. 74464985).
+Bem por isso, evidente a probabilidade do direito invocado pela Recorrente. Da mesma forma, o periculum in mora também se revela claramente, posto que será concedido ao Recorrido novo prazo para ato processual precluso e, por consequência, injustificado retardo na marcha processual.
+Nessa linha de intelecção, vale pontuar que, para o processo atingir sua finalidade, é imperioso o seu desenvolvimento ordenado, coerente e regular, assegurando a estabilidade dos atos e decisões judiciais, sob pena de retrocessos e contramarchas onerosas e que colocam em risco não só os interesses das partes litigantes, mas, principalmente, a atividade do Judiciário.
+Por tais considerações e, preenchidos os requisitos autorizadores, defiro o pedido de efeito suspensivo, e sobresto os efeitos do decisum invectivado até o julgamento do mérito deste Instrumental.
+Comunique-se ao Juiz da causa.
+Intime-se o Agravado para, querendo, apresentar contrarrazões no prazo legal, nos termos do art. 1.019, II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 08 de fevereiro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
