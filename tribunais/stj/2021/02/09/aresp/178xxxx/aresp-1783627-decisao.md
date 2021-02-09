@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo apresentado por JUSCELINA ALVES DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO (SFH). APÓLICE DO RAMO PRIVADO. INEXISTÊNCIA DO DE "POOL" SEGURADORAS. IMPOSSIBILIDADE DE ACIONAR SEGURADORA DIVERSA DA CONTRATADA PARA RESPONDER POR EVENTUAIS DANOS. AUSÊNCIA DE UMA DAS CONDIÇÕES DA AÇÃO QUE IMPLICA EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO, NOS TERMOS DA NORMA DO ART. 485, VI, DO CPC/2015. RECURSO DESPROVIDO (fl. 2138).
+Alega violação do art. 371 do CPC, no que concerne impossibilidade de se reconhecer a ilegitimidade da recorrida para figurar no pólo passivo da presente ação, sem analisar todos os documentos juntados aos autos e sem fundamentar os motivos que rechaçou as demais provas.
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a alegada violação do art. 371 do CPC não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
