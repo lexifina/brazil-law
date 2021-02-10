@@ -1,0 +1,8 @@
+DECISÃO
+Vistos, etc.
+A questão jurídica referente aos critérios para fixação de verba honorária por equidade está submetida ao rito dos recursos repetitivos sob o Tema 1.018/STJ:
+Tema 1.018/STJ: "Possibilidade de, em fase de Cumprimento de Sentença, o segurado do Regime Geral de Previdência Social receber parcelas pretéritas de aposentadoria concedida judicialmente até a data inicial de aposentadoria concedida administrativamente pelo INSS enquanto pendente a mesma ação judicial, com implantação administrativa definitiva dessa última por ser mais vantajosa, sob o enfoque do artigo 18, § 2º, da Lei 8.213/1991."
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, de modo que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
