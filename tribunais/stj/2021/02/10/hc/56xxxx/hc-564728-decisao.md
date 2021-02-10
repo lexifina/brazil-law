@@ -1,0 +1,15 @@
+DECISÃO
+O presente writ, impetrado em benefício de Matiel Luiz Rodrigues dos Santos contra ato coator do Tribunal de Justiça de São Paulo.
+Com efeito, busca a impetração seja obstado o trânsito em julgado da condenação imposta ao paciente pelo crime de roubo majorado tentado na Ação Penal n. 0011074-71.2017.8.26.0126, da Vara Criminal da comarca de Caraguatatuba/SP, ao argumento de que houve o correto e tempestivo manejo de agravo face à decisão de inadmissão do recurso especial pelo E. TJ-SP, mas este teima, sem qualquer fundamentação apta, a singelamente afirmar e reafirmar, que o manejado foi um agravo "interno", e por isso seria erro grosseiro que nunca ocorreu, somente podendo haver a salvação ou Justiça, pela atuação deste E. Tribunal da Cidadania (fl. 8).
+Em um primeiro momento, indeferi liminarmente a petição inicial. O impetrante, então, interpôs o agravo às fls. 78/92, requerendo a reconsideração da decisão, com a juntada dedocumentos. Às fls. 94/96, reconsiderei a decisãopara suspender a ação penal e o trânsito em julgado da condenação do paciente nos Autos n. 0011074-71.2017.8.26.0126, da Vara Criminal da comarca de Caraguatatuba/SP.
+É o relatório.
+É firme a jurisprudência deste Superior Tribunal de Justiça no sentido de que o único recurso cabível da decisão de inadmissão do recurso especial é o agravo em recurso especial previsto no artigo 1.042 do Código de Processo Civil. A interposição de qualquer outro configura erro grosseiro, afastando-se a possibilidade de aplicação do princípio da fungibilidade recursal.
+Nessa linha, confiram-se, entre tantos, estes julgados:AgRg no HC 582.042/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 09/06/2020, DJe 17/06/2020; e AgInt no AREsp 1549441/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 12/03/2020.
+In casu, a despeito da correta interposição(recibo de protocolo às fls. 87/88)e classificação do recurso, a defesa fez constar nosegundo e terceiro parágrafos o nomem iuris"agravo de instrumento" (fl. 14), quando deveriamencionar"Agravo em Recurso Especial". Constata-se ainda,da detida leitura das razões recursais (fls. 15/28), que todo o restante do recurso, apresentou a estrutura do agravo em recurso especial, previsto no artigo 1.042 do Código de Processo Civil.
+Assim, considerando-setratarde aparente erro material,tem-se a viabilidade de admissão do recurso,afastando-se no presente caso, o formalismo exacerbado.
+Ante o exposto, concedoaordem a fim dedeterminar ao Tribunal de Justiça de São Paulo que proceda ao processamento doagravoemrecurso especialinterposto pelo réu, sendo desconsiderada a nomenclatura utilizada - agravo de instrumento - nosegundo e terceiro parágrafos dapágina de interposição do referido agravo.
+Comunique-se, com urgência, ao Tribunal de Justiça e ao Juízo de 1º grau, com envio de cópia da decisão.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. AGRAVO CONTRA DECISÃO QUE INADMITIU O RECURSO ESPECIAL (ART. 1.042 DO CPC). ERRO MATERIAL. EXCESSO DE FORMALISMO. EVIDENTE CONSTRANGIMENTO ILEGAL.
+Ordem concedida nos termos do dispositivo.
