@@ -1,0 +1,37 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CÍVEL No 1008822-80.2020.8.11.0000
+RECORRENTE: CERVEJARIA PETRÓPOLIS DO CENTRO OESTE LTDA.
+Vistos.
+Trata-se de Recurso Especial, com pedido de antecipação dos efeitos da tutela recursal, interposto pela CERVEJARIA PETRÓPOLIS DO CENTRO OESTE LTDA., com fundamento no art. 105, inc. III, alínea “a”, da Constituição Federal, contra acórdão proferido pela Primeira Câmara de Direito Público e Coletivo do Tribunal de Justiça do Estado de Mato Grosso que, por unanimidade, desproveu o Agravo Interno no Recurso de Apelação, nos termos da seguinte ementa (Id. 57819450):
+“AGRAVO INTERNO EM RECURSO DE APELAÇÃO CÍVEL - SENTENÇA QUE JULGOU IMPROCEDENTE AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO - DECISÃO EM PETIÇÃO QUE INDEFERE ATRIBUIÇÃO DE EFEITO SUSPENSIVO À APELAÇÃO CÍVEL - AUSENTES OS REQUISITOS AUTORIZADORES PARA SEU DEFERIMENTO – ART. 1012, § 4o, CPC – AGRAVO DESPROVIDO.
+1. A concessão do efeito suspensivo previsto no §4o do art. 1.012 do Código de Processo Civil exige estejam presentes os requisitos legais ali elencados , quais sejam, probabilidade de provimento do recurso ou relevância da fundamentação concomitantemente ao risco de dano grave ou de difícil reparação.
+2. Ausentes os pressupostos legais, o indeferimento do pleito é medida que se impõe.
+3. Agravo interno desprovido.”
+Os Embargos de Declaração opostos contra o acórdão (Id. 59393988) foram rejeitados (Id. 71662489).
+Nas razões do Recurso Especial (Id. 72249473), a Recorrente sustenta violação aos artigos 489, §1o, 1.012, §4o e 1.022, inc. II, parágrafo único, inc. II, todos do Código de Processo Civil.
+Em apertada síntese, a Recorrente narra que propôs ação anulatória de ato administrativo, objetivando a declaração da nulidade das Resoluções no 008/2018-CONDEPRODEMAT e no 453/2018-CEDEM, que limitaram o teto do percentual de incentivo fiscal ao patamar de 60% (sessenta por cento) de redução da base de cálculo do ICMS, bem como reduziram a vigência do benefício até o ano de 2018.
+Alega que, inicialmente, o Juízo de primeiro grau deferiu a tutela de urgência para manter o benefício fiscal originalmente concedido à Recorrente no patamar de 90%. A decisão foi mantida pelo Tribunal de Justiça do Mato Grosso no Agravo de Instrumento n° 1007771-05.2018.8.11.0000. Posteriormente, sobreveio a sentença que julgou improcedentes os pedidos, revogando a decisão concessiva da tutela de urgência. Opostos embargos de declaração, estes foram rejeitados.
+Aduz que interpôs recurso de apelação, postulando pela atribuição de efeito suspensivo, entretanto, “nenhuma análise dos fundamentos do recurso de apelação ou do risco de dano grave ou de difícil reparação foi apreciado pela relatora, e, em um segundo momento, pela Câmara” (Id. 72249473).
+Assevera que interpôs agravo interno e, posteriormente, opôs embargos de declaração demonstrando a deficiência na fundamentação pela não apreciação da plausibilidade do direito invocado no recurso de apelação, contudo, ambos os recursos foram desprovidos.
+Afirma que “um dos principais fundamentos do Recurso de Apelação é justamente a inexistência de nulidade dos aditivos fiscais firmados, sobre o qual nenhuma análise de probabilidade foi tecida pelo Tribunal a quo” (Id. 72249473).
+Sustenta que “os efeitos da r. Sentença ultrapassam o mero campo do desenquadramento da Recorrente no programa que lhe concedeu os benefícios fiscais (aumento de carga tributária), gerando também reflexos em caráter retroativo, como a lavratura de Autos de Infração, Termos de Apreensão e Depósito, inscrição de débitos em Dívida Ativa e outros de igual gravidade” (Id. 72249473).
+Aponta que “Foi demonstrado que os efeitos imediatos da r. Sentença poderá inviabilizar as atividades da Recorrente no Estado, o que significa a possibilidade de perda de empregos, investimentos produtivos, além das receitas tributárias de naturezas diversas que circundam a atividade como um todo, inclusive de caráter indireto” (Id. 72249473).
+Expõe como requisitos à antecipação dos efeitos da tutela recursal, a probabilidade de provimento do recurso diante dos vícios já apontados nas razões, bem como o periculum in mora consubstanciado nos prejuízos financeiros decorrentes dos efeitos retroativos da sentença, uma vez que a Recorrente vem sofrendo autuações fiscais, cobranças das diferenças de ICMS, além dos prejuízos decorrentes dos investimentos já realizados, que poderão ocasionar o encerramento das atividades da empresa no Estado.
+Assim, pugna pela concessão do efeito suspensivo e, no mérito, pela admissibilidade e provimento do recurso para anular o acórdão e determinar o retorno dos autos para que a Câmara julgadora aprecie os fundamentos de probabilidade de provimento do recurso de apelação.
+Recurso tempestivo e preparo recolhido, conforme certidões de Ids. 74716472 e 74824499.
+É o relatório.
+Decido.
+Como é cediço, o Código de Processo Civil previu a possibilidade de concessão de efeito suspensivo em caso de recurso que, em regra, não é dotado do referido efeito, para a suspensão da eficácia da decisão recorrida pelo relator se, da imediata produção de seus efeitos, houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Quanto aos recursos excepcionais autoriza-se a tutela provisória, em tese, restrita à suspensão da eficácia da decisão impugnada (efeito suspensivo), desde que fundada na probabilidade do provimento do recurso e na urgência. Portanto, exige-se que o acórdão recorrido tenha cunho positivo, ou seja, altere a realidade fática existente antes do ajuizamento da ação.
+No caso, verifica-se que a Primeira Câmara de Direito Público e Coletivo apenas manteve a decisão do relator que, em sede de recurso de apelação, indeferiu o pedido de efeito suspensivo intentado contra sentença que julgou improcedentes os pedidos na ação anulatória de ato administrativo, portanto, não teve cunho positivo.
+Ressalte-se que a sentença de improcedência revogou expressamente a tutela de urgência e que o Agravo de Instrumento n° 1007771-05.2018.8.11.0000 não foi conhecido pela Primeira Câmara de Direito Público e Coletivo, de forma que a Recorrente busca, em verdade, a obtenção de pronunciamento judicial inédito para que prossiga na fruição dos benefícios fiscais.
+Todavia, na sistemática dos recursos excepcionais regida pelo CPC, não há lugar para a análise de pedidos desta natureza por esta Vice-Presidência, já que tal concessão exige um exame acerca do próprio direito perseguido na ação, incompatível com o juízo meramente prelibatório da admissibilidade recursal.
+Neste sentido, estabelece o art. 299 do CPC que “A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal”. Quanto aos recursos o parágrafo único do referido dispositivo estabelece que “a tutela provisória será requerida ao órgão jurisdicional competente para apreciar o mérito”.
+Ante o exposto, com vistas a evitar a usurpação e extrapolação dos limites do juízo de admissibilidade, não conheço do pedido de antecipação dos efeitos da tutela recursal cuja competência para o julgamento é do Tribunal ad quem.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade do recurso interposto.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
