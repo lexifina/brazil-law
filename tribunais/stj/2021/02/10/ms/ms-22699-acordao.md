@@ -1,0 +1,94 @@
+EMENTA
+DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL. SINDICÂNCIA INVESTIGATIVA. AUSÊNCIA DE CARÁTER PUNITIVO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. IMPOSSIBILIDADE. SÚMULA N. 635/STJ. PENA DE DEMISSÃO. NECESSIDADE DE INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO DISCIPLINAR. ART. 146 DA LEI N. 8.112/1990. CONSTITUIÇÃO DE COMISSÃO PROCESSANTE APÓS CINCO ANOS DA CIÊNCIA DOS FATOS PELA ADMINISTRAÇÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SEGURANÇA CONCEDIDA.
+I. Mandado de segurança contra ato praticado pelo Sr. Ministro de Estado da Fazenda, consubstanciado na aplicação da pena disciplinar de demissão do cargo de Auditor-Fiscal da Receita Federal do Brasil, devido à suposta prática da infração prevista no art. 132, IV, da Lei n. 8.112/1990, mediante a Portaria n. 136, de 19.04.2016, publicada no DOU de 20.04.2016.
+II. O Chefe do Escritório da Corregedoria da Receita Federal na 7ª Região Fiscal, autoridade competente para instauração do PAD, teve conhecimento do fato supostamente ilícito em 2006, por meio do Relatório de Auditoria Patrimonial n. 076/2006, o qual apontou possível variação patrimonial a descoberto nos anos de 2002 e 2004.
+III. A sindicância instaurada em 2011, com o objetivo de aprofundamento das investigações, não possui caráter punitivo, o que afasta a possibilidade de interrupção do prazo prescricional, a teor da Súmula n. 635/STJ.
+IV. Improbidade administrativa é ilícito punível com a pena de demissão, a qual somente pode ser aplicada após regular processo administrativo disciplinar, consoante dispõe o art. 146 da Lei n. 8.112/1990.
+V. O Processo Administrativo Disciplinar foi instaurado em 2013, mais de 5 (cinco) anos após a ciência dos fatos pela autoridade competente, razão pela qual ocorreu a prescrição da pretensão punitiva da Administração Pública.
+VI. Segurança concedida.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, , por unanimidade, conceder a segurança, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Gurgel de Faria, Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Assusete Magalhães e Sérgio Kukina votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Og Fernandes.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Trata-se de mandado de segurança, com pedido liminar, impetrado por LUIZ FELIPE FIGUEROA GUIMARÃES contra ato coator imputado ao Sr. MINISTRO DE ESTADO DA FAZENDA, consubstanciado na aplicação da pena disciplinar de demissão do cargo de Auditor-Fiscal da Receita Federal do Brasil, devido à suposta prática da infração prevista no art. 132, IV, da Lei n. 8.112/1990, mediante a Portaria n. 136, de 19.04.2016, publicada no DOU de 20.04.2016.
+Sustenta o Impetrante, em síntese, a nulidade do processo administrativo disciplinar em razão de:
+i)prescrição da pretensão punitiva disciplinar, pois entre o conhecimento do fato pela Administração Pública e a instauração do PAD n. 10768.003.030/2007-34 transcorreram mais de 5 (cinco) anos (fl. 6e); e
+ii)ausência de interrupção do prazo prescricional pela instauração de sindicância contraditória, sem caráter punitivo, diante da impossibilidade de aplicação de penalidade superior a 30 (trinta) dias de suspensão (fls. 10/11e).
+Apontando a presença defumus boni iurisepericulum in mora, pugna pela concessão de medida de urgência para a suspensão dos efeitos do ato coator, e, no mérito, requer a concessão da segurança.
+A inicial veio acompanhada dos documentos de fls. 15/315e.
+A Sra. Ministra Laurita Vaz, Vice-Presidente no exercício da Presidência desta Corte, concedeu a gratuidade de justiça e indeferiu a tutela de urgência pleiteada (fls. 406/407e).
+Prestadas as informações de fls. 347/405e, a autoridade coatora afirma: i) inadequação da via eleita configurada pela ausência de demonstração de direito líquido e certo; ii) impossibilidade jurídica do pedido, sob pena de invasão no mérito administrativo pelo Judiciário; iii) insuficiência da prova pré-constituída, iv) ausência de prescrição, porquanto a instauração da sindicância contraditória interrompeu o prazo prescricional; v) enriquecimento ilícito; vi) penalidade de demissão aplicada de forma fundamentada e proporcional.
+O Ministério Público Federal manifestou-se às fls. 415/428e, opinando pela denegação da segurança.
+É o relatório.
+EMENTA
+DIREITO ADMINISTRATIVO. MANDADO DE SEGURANÇA. AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL. SINDICÂNCIA INVESTIGATIVA. AUSÊNCIA DE CARÁTER PUNITIVO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. IMPOSSIBILIDADE. SÚMULA N. 635/STJ. PENA DE DEMISSÃO. NECESSIDADE DE INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO DISCIPLINAR. ART. 146 DA LEI N. 8.112/1990. CONSTITUIÇÃO DE COMISSÃO PROCESSANTE APÓS CINCO ANOS DA CIÊNCIA DOS FATOS PELA ADMINISTRAÇÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. SEGURANÇA CONCEDIDA.
+I. Mandado de segurança contra ato praticado pelo Sr. Ministro de Estado da Fazenda, consubstanciado na aplicação da pena disciplinar de demissão do cargo de Auditor-Fiscal da Receita Federal do Brasil, devido à suposta prática da infração prevista no art. 132, IV, da Lei n. 8.112/1990, mediante a Portaria n. 136, de 19.04.2016, publicada no DOU de 20.04.2016.
+II. O Chefe do Escritório da Corregedoria da Receita Federal na 7ª Região Fiscal, autoridade competente para instauração do PAD, teve conhecimento do fato supostamente ilícito em 2006, por meio do Relatório de Auditoria Patrimonial n. 076/2006, o qual apontou possível variação patrimonial a descoberto nos anos de 2002 e 2004.
+III. A sindicância instaurada em 2011, com o objetivo de aprofundamento das investigações, não possui caráter punitivo, o que afasta a possibilidade de interrupção do prazo prescricional, a teor da Súmula n. 635/STJ.
+IV. Improbidade administrativa é ilícito punível com a pena de demissão, a qual somente pode ser aplicada após regular processo administrativo disciplinar, consoante dispõe o art. 146 da Lei n. 8.112/1990.
+V. O Processo Administrativo Disciplinar foi instaurado em 2013, mais de 5 (cinco) anos após a ciência dos fatos pela autoridade competente, razão pela qual ocorreu a prescrição da pretensão punitiva da Administração Pública.
+VI. Segurança concedida.
+MANDADO DE SEGURANÇA Nº 22.699 - DF (2016/0179309-3)
+RELATORA
+:
+MINISTRA REGINA HELENA COSTA
+IMPETRANTE
+:
+LUIZ FELIPE FIGUEROA GUIMARAES
+ADVOGADO
+:
+JUDSON DE ARAÚJO GURGEL E OUTRO(S) - DF026414
+IMPETRADO
+:
+MINISTRO DE ESTADO DA FAZENDA
+INTERES.
+:
+UNIÃO
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (Relatora):
+Nos termos do art. 105, I,b, da Constituição da República, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os mandados de segurança contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Passo, assim, a examinar a pretensão.
+Observo que o Sr. Chefe do Escritório da Corregedoria da Receita Federal na 7ª Região Fiscal tomou ciência do fato imputado ao Impetrante em 20.12.2006, quando recebeu o Relatório da Auditoria Patrimonial n. 076/2006, apontando a presença de indícios de variação patrimonial a descoberto (VPD) nos anos de 2002 e 2004 (fls. 17/22e):
+A partir da análise das declarações de rendimentos e demais informações fiscais e patrimoniais existentes nos sistemas internos da Secretaria da Receita Federal relativamente ao servidor LUIZ FELIPE FIGUEROA GUIMARÃES, matrícula SIAPECAD 11.791, lotado na DELEGACIA RF ADMIN. TRIBUTÁRIA/RJ, identificam-se indícios de patrimônio, operações, e/ou valores que, em tese, encontram-se incompatíveis com os rendimentos declarados conforme a seguir descrito, e indicam possível ocorrência de ilícito funcional, necessitando, entretanto, o aprofundamento dos exames por meio de procedimento de fiscalização (destaque meu - fl. 17e).
+Em 22.03.2007, mediante o Ofício n. 108/MPF/PRRJ/FLS, a Procuradoria da República no Estado do Rio de Janeiro encaminhou ao Escritório da Corregedoria da Receita Federal na 7ª Região Fiscal - ESCOR07 cópia das Peças de Informação n. 1.30.011.003316/2006-33, extraídas da Ação de Oferecimento de Alimentos n. 2006.207.005006-4, movida pelo Impetrante em face de Laura Valente da Silva Guimarães, perante a 1ª Vara de Família Regional da Ilha do Governador/RJ, na qual a ex-cônjuge, em sede de depoimento pessoal, informou a existência de bens e valores do casal incompatíveis com o salário do servidor (fls. 24e).
+Considerando a presença de indícios de irregularidades, o ESCOR07 instaurou o Processo n. 10768.003.030/2007-34 e solicitou cópia da Ação de Separação Litigiosa n. 2006.207.005878-6, em trâmite no Juízo da 2ª Vara de Família/RJ, objetivando obter informações acerca do patrimônio do casal (fl. 26e).
+Tal pedido foi negado pelo Magistrado e, assim, o ESCOR07 decidiu aguardar a decisão judicial na Ação de Separação Litigiosa e o envio das peças solicitadas para continuar a análise da origem e aplicação dos recursos do Impetrante (fl. 26e).
+Posteriormente, a Procuradoria da República no Estado do Rio de Janeiro encaminhou cópia das declarações prestadas pela ex-cônjuge nos autos do Procedimento Investigatório Criminal n. 1.30.011.002165/2007-87 (fl. 26e).
+Após o exame minucioso da documentação acostada ao Processo n. 10768.003.030/2007-34, concluiu-se pela existência de indícios de enriquecimento ilícito e pela necessidade de instauração de sindicância contraditória com o objetivo de aprofundar as apurações em face do Impetrante (fl.29e).
+Ressalto que não foram juntadas aos autos as cópias das Peças de Informação n. 1.30.011.003316/2006-33, extraídas da Ação de Oferecimento de Alimentos n. 2006.207.005006-4, da Ação de Separação Judicial Litigiosa n. 2006.207.005878-6 e do Procedimento Investigatório Criminal n. 1.30.011.002165/2007-87, entretanto tais peças são dispensáveis, visto que a única alegação do Impetrante é a prescrição da pretensão punitiva disciplinar.
+Foi instaurada, na sequência, a Comissão de Sindicância, por meio da Portaria ESCOR07 n. 102, de 04.03.2011 (fl. 23e), que sugeriu a instauração de Processo Administrativo Disciplinar, segundo o Parecer COGER/ESCOR07 n. 065/2015 (fl. 140e).
+Em 13.06.2013, por intermédio da Portaria ESCOR07 n. 249, foi constituída a Comissão de Processo Administrativo Disciplinar, a qual concluiu pelo indiciamento do Acusado por suposta transgressão ao disposto no inciso IV do art. 132 da Lei n. 8.112/1990 - improbidade administrativa (fls. 33e e 314/315e).
+Destaco, ainda, que o Relatório Final da Comissão Processante está incompleto, faltando as folhas 1.258/1.260 dos autos originais. Todavia, tal situação não impede a apreciação do presente writ, nem prejudica a análise da questão.
+Ato contínuo, ao servidor foi, então, imposta a pena disciplinar de demissão, nos termos da Portaria n. 136, de 19.04.2016 (fl. 192e).
+Nesse contexto, observo assistir razão ao Impetrante no que toca à suscitada prescrição da pretensão punitiva.
+Na exegese do art. 142 da Lei n. 8.112/1990, esta Corte firmou orientação segundo a qual o termo a quo da contagem do prazo prescricional da pretensão punitiva deve coincidir com a data da ciência do fato pela autoridade competente para instauração do processo administrativo disciplinar, como espelha o seguinte precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA INDIVIDUAL. AUDITOR FISCAL AGROPECUÁRIO. PROCESSO ADMINISTRATIVO DISCIPLINAR. DEMISSÃO (CASSAÇÃO DE APOSENTADORIA) - ARTS. 117, IX E XII, E 132, IV, XI E XIII, DA LEI 8.112/1990; 9º, I, 11, I E II, DA LEI 8.429/1992. INFRAÇÕES DISCIPLINARES TAMBÉM CAPITULADAS COMO CRIME DE CORRUPÇÃO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA DISCIPLINAR. INCIDÊNCIA DA REGRA DO ART. 142, § 2º, DA LEI 8.112/1990. NULIDADE DA PORTARIA INSTAURADORA DO PAD. INOCORRÊNCIA. PARCIALIDADE DA COMISSÃO NÃO DEMONSTRADA. PROVAS CONTUNDENTES DA INFRAÇÃO FUNCIONAL. SEGURANÇA DENEGADA.
+HISTÓRICO DA DEMANDA
+1. Trata-se de Mandado de Segurança impetrado por auditor fiscal federal agropecuário contra ato da Ministra de Estado da Agricultura, Pecuária e Abastecimento consubstanciado na Portaria 84, de 3 de maio de 2019, a qual cassou a aposentadoria do impetrante, por infringência às proibições contidas nos arts. 117, IX e XII, e 132, IV, XI e XIII, da Lei 8.112/1990, c/c arts. 9º, caput, I, e 11, caput, I e II, da Lei 8.429/1992, tendo em vista o apurado no Processo Administrativo Disciplinar - PAD 21000.032496/2016-26.
+(..)
+DATA EM QUE A AUTORIDADE COATORA TEVE CIÊNCIA DO ATO: 7.6.2016 - TERMO INICIAL APONTADO PELO IMPETRANTE RELATIVO A OUTRAS IRREGULARIDADES
+12. Consoante o art. 142, § 1º, da Lei 8.112/1990, o termo inicial do prazo prescricional da pretensão punitiva disciplinar do Estado inicia-se na data do conhecimento do fato pela autoridade competente para a instauração do PAD. Em outras palavras, o prazo prescricional não começa com a mera ciência da irregularidade por qualquer servidor público, mas sim pelo conhecimento inequívoco da infração pela autoridade competente para a instauração do PAD.
+(..)
+CONCLUSÃO
+35. Segurança denegada.
+(1ª Seção, MS n. 25.401/DF, Rel. Ministro HERMAN BENJAMIN, j. em 27/05/2020, DJe 28/08/2020, destaque meu).
+Com efeito, a própria Administração Pública reconhece que a ciência dos fatos pela autoridade competente ocorreu em 20.12.2006, de acordo com o Parecer PGFN/COJED/n.459/2016 (fls. 166/191e), aprovado pelo Sr. Ministro de Estado da Fazenda e utilizado para fundamentar a aplicação da pena de demissão ao Impetrante (fl. 401e):
+20. Cabe salientar que, a teor do que estabelece o art. 142, § 1º c/c o art. 143, ambos da Lei nº 8.112, de 1991, o prazo prescricional só começa a fluir a partir do conhecimento do fato pela Administração.
+21. Nessa linha de raciocínio, tem-se in casu que o fato que ensejou a abertura do processo disciplinar de auditoria patrimonial, a qual se deu por força da Portaria SRF n. 73, de 11/01/2006 e Portaria COGER/COFIS n. 01, de 10 de março de 2006, procedimento no qual o servidor foi selecionado em razão de critérios técnicos e impessoais para ter seus dados fiscais examinados. Foi neste momento, em 20.12.2006, portanto, após a conclusão da auditoria patrimonial que, de forma inequívoca, a Administração teve conhecimento de indícios de irregularidades funcionais envolvendo o servidor.
+22. Assim, a partir da data em que o fato se torna conhecido, nos moldes acima descritos, computam-se os prazos respectivos de cada pena até a instauração da instância disciplinar.
+23. Nesse passo, fica claro que não há falar em prescrição, já que foi em 20/12/2006 que a Administração teve ciência inequívoca de irregularidades funcionais envolvendo o servidor, tendo sido instaurada sindicância contraditória no dia 04/03/2011 (fl. 417), quando, então, ocorreu a interrupção do prazo prescricional de cinco anos, previsto no art. 142, inciso I, este c/c o art. 132, inciso IV, todos da Lei nº 8.112, de 1991. Assim, considerando a data de constituição da Comissão Processante verifica-se que o processo foi instaurado dentro do prazo prescricional, tendo a Administração até 20 de maio de 2016 para aplicar a sanção sugerida pela Comissão Processante (destaques meus - fls. 170/171e).
+Definida a data de ciência dos fatos pela autoridade competente, resta perquirir se a sindicância instaurada pela Portaria ESCOR07 n. 102, de 04.03.2011, interrompeu ou não o prazo prescricional previsto no art. 142, I, da Lei n. 8.112/1990.
+Consoante o enunciado da Súmula n. 635 desta Corte, "os prazos prescricionais previstos no art. 142 da Lei n. 8.112/1990 iniciam-se na data em que a autoridade competente para a abertura do procedimento administrativo toma conhecimento do fato, interrompem-se com o primeiro ato de instauração válido - sindicância de caráter punitivo ou processo disciplinar - e voltam a fluir por inteiro, após decorridos 140 dias desde a interrupção" (destaque meu).
+O Processo n. 10768.003.030/2007-34, instaurado como o objetivo de apurar as denúncias do Ministério Público Federal acerca da possível evolução patrimonial incompatível com a renda do Impetrante, concluiu pela necessidade de instauração de sindicância contraditória para melhor investigação dos fatos envolvendo o servidor (Informação - ESCOR07 n. 33, de 03.03.2011 - fls. 25/31e):
+III - CONCLUSÃO
+(..)
+24. Diante do que foi exposto, considerando-se os indícios de subvaloração do valor declarado da aquisição de imóveis e a conseqüente caracterização de VPD configuradora de enriquecimento ilícito nos moldes discorridos pelo Parecer PGFN/CDI/N 1986/2006, entende-se pertinente o aprofundamento das investigações em face do servidor LUIZ FELIPE FIGUEROA GUIMARÃES, como forma de devidamente amparar a decisão de arquivamento ou de instauração do PAD.
+25. Isto posto, à luz do atual ordenamento do tema, propõe-se a instauração de sindicância contraditória, conforme preveem os arts. 143 e 145 da Lei n. 8.112/90 (destaques meus - fl. 31e).
+Nesse cenário, resta claro que a sindicância instaurada em 04.03.2011 não possuía natureza punitiva, mas, tão somente, investigativa, o que afasta a possibilidade de interrupção do prazo prescricional, nos termos da Súmula n. 635/STJ.
+Além disso, a improbidade administrativa, delito funcional tipificado no art. 132, IV, da Lei n. 8.112/1900, imputada ao ora Impetrante, é ilícito punível com a pena de demissão, a qual somente pode ser aplicada após regular processo administrativo disciplinar, consoante dispõe o art. 146 do mesmo estatuto, in verbis:
+Art. 146. Sempre que o ilícito praticado pelo servidor ensejar a imposição de penalidade de suspensão por mais de 30 (trinta) dias, de demissão, cassação de aposentadoria ou disponibilidade, ou destituição de cargo em comissão, será obrigatória a instauração de processo disciplinar.
+Tal quadro normativo revela o caráter investigativo da sindicância instaurada em desfavor do Acusado no ano de 2011, circunstância que afasta a interrupção do prazo prescricional.
+Assim, verifico restar consumada a prescrição quinquenal para aplicação da pena de demissão (art. 142, I, da Lei n. 8.112/1990), porquanto, como exposto, a autoridade competente - Chefe do Escritório da Corregedoria da Receita Federal na 7ª Região Fiscal - tomou ciência inequívoca dos fatos em 2006, e, somente no ano de 2013 foi instaurado o respectivo Processo Administrativo Disciplinar.
+Posto isso, CONCEDO A SEGURANÇA, para, reconhecendo a prescrição da pretensão punitiva da Administração Pública, tornar sem efeito o ato praticado pelo Sr. Ministro de Estado da Fazenda, consubstanciado na Portaria n. 136, publicada no DOU de 20.04.2016, que demitiu o Impetrante do Cargo de Auditor-Fiscal da Receita Federal do Brasil, determinando-se sua reintegração ao serviço público, com efeitos funcionais e financeiros a partir da data da impetração.
+É o voto.
