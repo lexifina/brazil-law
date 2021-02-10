@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravomanejado por JESUS DE MARIA CAMAPUM ALMEIDAem face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 297/298):
+Direito Administrativo. Servidores do Executivo. Magistério. Lei n.º 8.880/94. Conversão de cruzeiros reais em URV. Perda salarial. Diferença de 11,98%. Data do efetivo pagamento. Limite temporal. Reestruturação da carreira. Possibilidade. Lei Estadual n.9.860, de 01.07.2013. Prescrição quinquenal.
+1. Verifico que a ação proposta a ação em 18/08/2016, ou seja, menos de 05 (cinco) anos apósa restruturação na carreira do magistério (01.07.2013), ou seja, a prescrição NÃO atingiu o direito reclamado.
+2. Voto pelo conhecimento e parcial provimento do Apelo, para que o prazo prescricional para apuração dos valores devidos seja considerado da data da Lei nº 9.860, de 01.07.2013 (que dispõe sobre o estatuto e o plano de carreiras, cargos e remuneração dos integrantes do subgrupo magistério da educação básica).
+3. Apelo conhecido e parcialmente provido.
+Os embargos de declaração apresentados na origem foram rejeitados.
+Nas razões do especial, o recorrente sustenta, além da divergência jurisprudencial,violação do art. 489 do CPC/2015, pois o acórdãoa quodeve ser anulado por falta de fundamentação, tendo em vista que não indicou as leis estaduais que demonstram a reestruturação da carreira que absolveu as predas decorrentes da errônea conversão da moeda.
+O Tribunal de origem não admitiu o recurso especial pela impossibilidade de revisão do conjunto fático-probatório dos autos e porque o acórdão segue jurisprudência do STF.
+Nas razões do agravo, o recorrente sustenta a inaplicabilidade da Súm. n. 83/STJ para a inadmissibilidade do especial e a desnecessidade de revisão do conjunto fático probatório dos autos.
+Contraminuta às e-STJ fls. 755/757.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Conforme se observa já da ementa do acórdão a quo, o Tribunal de origemfez menção expressa de qual norma jurídica estadual reestruturou a carreira de modo a representar termo final do pagamento de diferenças salariais consequentes da conversão do padrão monetário.Logo, a aplicação da premissa jurídica fixada pelo STF no RE n. 561.836 (término da incorporação dos 11,98% por indevida conversão do padrão monetário), se apresenta devidamente fundamentada.
+Portanto, na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional, nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE O DÉCIMO-TERCEIRO SALÁRIO. CÁLCULO EM SEPARADO. REGIME DAS LEIS 8.212/91 E 8.620/93. POSSIBILIDADE. CPC, ART. 535, II. AUSÊNCIA DE VIOLAÇÃO.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem analisa, ainda que implicitamente, a tese objeto dos dispositivos legais apontados pela parte.
+2. A eg. Primeira Seção pacificou o entendimento de que, na vigência da Lei n.º 8.620/93, é legítimo o cálculo em separado da contribuição previdenciária sobre o décimo-terceiro salário (EREsp 442.781, Rel. Min. Teori Albino Zavascki, julgado em 14.11.2007, DJ de 10.12.2007).
+3. Recurso especial provido.
+(REsp 868.242/RN, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 27/05/2008, DJe 12/06/2008)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO COMANDO DO ARTIGO 535 DO CPC/1973. OMISSÃO NÃO CARACTERIZADA. LITISPENDÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. A pretensão de simples reexame de provas, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+3. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 948.438/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 20/09/2016)
+A interposição do recurso especial pela alínea "c" do permissivo constitucional também exige que o recorrente cumpra o disposto nosarts.1029 do CPC/2015, e 255, § 1º, do RISTJ.
+Assim, considera-se inviável a apreciação de recurso especial fundado em divergência jurisprudencial, quando o recorrente não demonstrar o suposto dissídio pretoriano por meio: (a) da juntada de certidão ou de cópiaautenticada do acórdão paradigma, ou, em sua falta, da declaração peloadvogado da autenticidade dessas; (b) da citação de repositório oficial,autorizado ou credenciado, em que o acórdão divergente foi publicado; (c)do cotejo analítico, com a transcrição dos trechos dos acórdãos em que sefunda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdãoparadigma; (d) a indicação dos dispositivos de lei federal cominterpretação divergente entre os Tribunais.
+O recurso especial não atendeu aos requisitos estabelecidos pelos dispositivos legais supramencionados, restando ausente a similitude fáticae o adequado cotejo analítico entre os julgados mencionados.Assim, é descabido o recurso interposto pela alínea "c" do inciso III doart. 105 da Constituição Federal. Nesse mesmo sentido, confira o seguintejulgado:
+AÇÃO INDENIZATÓRIA. ENERGIA ELÉTRICA. CORTE. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL.FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. AUSÊNCIA DEINDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FALTA DE DEMONSTRAÇÃO ANALÍTICA DA DIVERGÊNCIA. SÚMULA Nº 284/STF.
+AGRAVO IMPROVIDO.
+ ..
+II - A alegada divergência jurisprudencial não foi demonstrada nos moldes exigidos pelo artigo 255 e parágrafos do RI/STJ, visto que a agravante, além de não realizar o devido cotejo analítico, limitando-se a colacionar ementas e votos dos julgados, deixando de mencionar as circunstâncias queidentifiquem ou assemelhem os casos confrontados, deixou de explicitar sobre qual norma infraconstitucional teria ocorrido a dissidência interpretativa, conforme exigido pelo art. 105, inciso III, alínea "c", da Carta Magna: der a lei federal interpretação divergente a que lhe haja atribuído outro Tribunal. Incide, à espécie, o enunciado sumular nº 284 do STF. Precedentes: AgRg no REsp nº 781.422/DF, Rel. Min. HÉLIO QUAGLIA BARBOSA, DJ de 1/8/2006; AgRg no Ag nº 702.783/SP, Rel. Min. DENISE ARRUDA, DJ de 1/2/2006; REsp nº 533.766/RS, Rel. Min. TEORI ALBINO ZAVASCKI, DJ de 16/5/2005 e REsp nº 564.972/SC, Rel. Min. HAMILTON CARVALHIDO, DJ de 13/12/2004.
+III - Agravo regimental a que se nega provimento.
+(AgRg no AREsp 83.349/RJ, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 17/04/2012, DJe 07/05/2012)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO.ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
