@@ -1,0 +1,33 @@
+DECISÃO
+KARIM SAMY BOUZIDA (KARIM)ajuizou açãodeclaratória de desfiliação de associação residencial em face de ASSOCIAÇÃO RESIDENCIAL VILLAGIO LAUSANE (ASSOCIAÇÃO), cujos pedidos foram julgados improcedentes ao fundamento de que oautor é associado ao condomínio réu, tendo adquirido imóvel localizado dentro de uma associação, com o dever de arcarcom as mensalidades dispostas nos termos do condomínio, não sendo viável a reabertura doloteamento, sob pena de prejudicaros demais moradores, inclusive porque a dissolução não foi pleiteadapela maioria dos associados(e-STJ, fls. 451/453).
+Irresignado, KARIM interpôs apelação, que foidesprovidapelo Tribunal bandeirante em acórdão assim ementado:
+Apelação. Ação proposta por proprietário de imóvel loteado que pretende declaração de sua desfiliação da associação da qual participou, retirada de cancela, portaria e refazimento do muro que cerca o loteamento.Sentença improcedente. Manutenção. Peculiaridades do caso que afastam aplicação do entendimento jurisprudencial a respeito do caráter associativo da obrigação e quanto à possibilidade de desfiliação. Natureza propter rem da obrigação. Existência de previsão no compromisso padrão na instituição do loteamento quanto a vinculação a associação de proprietários. Obrigação vinculante dos adquirentes do imóvel no loteamento. Característica típica das obrigações propter rem nos loteamentos que afasta a possibilidade de mera desfiliação fundada em direito associativo. Complementação do processo de transformação do mero direito obrigacional para obrigação propter rem. Responsabilidade do proprietário e futuros adquirentes. Recurso improvido.(e-STJ, fl. 510).
+Inconformado,KARIM interpôs recurso especial com fundamento naalíneac do permissivo constitucional, apontando dissensopretorianotendo por paradigmaarestooriundo do Tribunal de Justiça do Estado do Rio de Janeiro que resguardao direito do integrante desfiliar-se de associação residencial a qualquer momento à luz da interpretação do art. 5º, inciso XX, da CF/88, não se tratando de obrigação propter rem.
+Em juízo de admissibilidade, a Presidência da Seção de Direito Privado do Tribunal bandeirante admitiu o referido apelo nobre (e-STJ, fls. 587/588).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem serexigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Inicialmente, cabe destacar que odissídio jurisprudencialviabilizadordorecurso não foidemonstradono particular (art. 105, III, c, da CF).
+Com efeito, além de indicar o dispositivo da legislação federal e transcrever os julgadosapontados como paradigmas, é necessário realizar o cotejo analítico, com ademonstração da identidade das situações fáticas e da interpretaçãodiversa dada ao mesmo normativo.
+No caso em exame, o recorrentese limitoua declinar os argumentos quesupostamente dariam respaldo à sua pretensão e a mencionar acórdãoporventura divergente, sem efetuar a indicação do dispositivo da legislação federal acerca do qual haveria dissenso pretoriano, tendo se limitado a mencionar norma constitucional.
+Assim, a divergência jurisprudencialnão pode ser conhecida, porquanto não atendeaos requisitos dos arts. 541, caput, do CPC, e 255, §§ 1º e 2º, do RISTJ.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO (ART. 1042 DO NCPC) - AÇÃO DECLARATÓRIA -DISSOLUÇÃO PARCIAL DE SOCIEDADE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTOAO RECLAMO. INSURGÊNCIA RECURSAL DOS RÉUS.
+1. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado
+cada um desses artigos, sob pena de incidência da Súmula 284/STF.
+1.1. Incide a Súmula 284/STF ao recurso especial interposto pela alínea "c" do permissivo constitucional quando a parte não indica o dispositivo de lei interpretado de forma dissonante pelos arestos recorridos e paradigma, conforme entendimento pacífico do STJ. Precedentes.
+(..)
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.192.510/SC, Rel. Ministro MARCO BUZZI, Quarta Turma, j.5/6/2018, DJe 13/6/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE ACORDOJUDICIAL. ALEGAÇÃO DE DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DODISPOSITIVO VIOLADO. EXIGÊNCIA TAMBÉM PARA O RECURSO INTERPOSTO COM BASENA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. COTEJO ANALÍTICO NÃO REALIZADO.SIMILITUDE FÁTICA NÃO DEMONSTRADA. AGRAVO INTERNO IMPROVIDO.
+1. O apelo extremo funda-se na alegação de dissídio jurisprudencial.Todavia, o agravante não indicou, nas razões do seu recurso especial, odispositivo infraconstitucional tido por violado, exigência essa que deveser cumprida tanto para o recurso especial interposto com base na alínea aquanto para o manejado com fulcro na alínea c do permissivoconstitucional, sendo, portanto, imperiosa a incidência do enunciado n.284 da Súmula do Supremo Tribunal Federal.
+2. Conforme consignado na decisão agravada, o ora recorrente também nãoefetuou o devido cotejo analítico, tampouco demonstrou a necessária similitude fática, o que também inviabiliza o conhecimento do apelo nobre.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.227.996/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE,Terceira Turma, j. 17/4/2018, DJe 23/4/2018)
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados emdesfavor de KARIM , nos termos do art. 85, § 11 do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO DECLARATÓRIA DE DESFILIAÇÃO DE ASSOCIAÇÃO RESIDENCIAL.IRRESIGNAÇÃO INTERPOSTA COM ESTEIO NA ALÍNEACDO PERMISSIVO DA CONSTITUIÇÃO DA REPÚBLICA. FALTA DE INDICAÇÃO DE DISPOSITIVO DA LEGISLAÇÃO FEDERAL A QUE TERIA SIDOATRIBUÍDA INTERPRETAÇÃO EM DESCONFORMIDADE. AUSÊNCIA DE CARACTERIZAÇÃO DO DISSÍDIO JURISPRUDENCIAL.RECURSO ESPECIAL NÃO CONHECIDO.
