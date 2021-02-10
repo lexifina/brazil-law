@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus com pedido de liminarinterposto por PEDRO HENRIQUE FERREIRA COSTAcontra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n.0000.20.044389-3/000).
+O recorrente foi preso em flagrante, no dia 1º/4/2020, em razão da suposta prática dos crimes descritos noart. 33 daLei n.11.343/2006;nos arts. 180 e 330 do Código Penal; e no art. 309 do Código de Trânsito Brasileiro. A prisão em flagrante foi convertida em preventiva.
+O decreto prisional fundou-se na quantidade de droga apreendida, no fato de o recorrente ter sido pego na posse de motocicleta furtada/roubada, por não atender à ordem da autoridade policial e tentar empreender fuga, dando causa à perseguição policial e porser reincidente.
+Nas razões do presente recurso, o recorrente sustenta quea decisão que decretou a prisão cautelar está embasada na gravidade em tese do delito, carecendo, portanto, de fundamentação. Afirma que não comercializa drogas e nem tem ligação com organizações criminosas, assim como é primário, tem bons antecedentes, ocupação lícita e residência fixa.
+Invoca a Resolução CNJ n. 62/2020, argumentando a necessidade de revisão das prisões cautelares e defende a possibilidade de concessão da liberdade provisória, com ou sem fiança. Afirma que está com sarna e é hipertenso.
+Requer, liminarmente e no mérito, a concessão da liberdade provisória.
+O pedido de liminar foi indeferido às fls. 163-164.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso(fls. 202-203).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fls. 55-56):
+Da análise do APFD, restou bem caracterizado ofumus comissi delicti, já que os autuados foram pegos com razoável quantidade e na posse de motocicleta furtada/roubada. Além disso, desobedeceram a ordem da autoridade policial. Há fortes indícios do envolvimento dos autuados no tráfico de drogas na região.
+ ..
+Analisando a folha de antecedentes criminais dos autuados, percebe-se que eles têm diversas passagens por outros crimes e já foram até mesmo condenados criminalmente.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, ao contrário da alegação de que o recorrente é detentor de condições subjetivas favoráveis, a decisão que decretou a preventiva acima transcrita é clara no sentido de afirmar o contrário e, conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, o recorrente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus.
+Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
