@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FABIANO BAPTISTA DA COSTA LEITE em que se aponta como autoridade coatora Tribunal de Justiça doEstado doRio deJaneiro (HC n. 0011080-58.2020.8.19.0000).
+O paciente foi preso preventivamente, pela suposta prática dos crimes descritos noart.35, c/c o art. 40, IV e VI, da Lei n. 11.343/2006.
+Nopresentewrit, alega a defesa que a prisão preventiva do paciente é ilegal, considerando o excesso de prazo,tendo em vista que a constrição cautelar perdura por mais de 2 anos. Afirma que a audiência de instrução e julgamento ocorreuem julho de 2018, maso processo não foi sentenciado.
+Pleiteia a substituição da prisão preventiva por domiciliar devido à pandemia de covid-19, pois o paciente integra o grupo de risco por ser diabético.
+Requer, liminarmente e no mérito, o relaxamento da prisão do pacientecom a expedição do alvará de soltura.
+O pedido de liminar foi indeferido às fls. 48-49.
+O Ministério Público Federal manifestou-se pelo não conhecimento dohabeas corpus, mas pela concessão parcial da ordemde ofício, para que seja reavaliada a necessidade da prisão cautelar, como também seja recomendada a celeridade no julgamento da ação(fls. 69-77).
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuaçãoex officio.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl. 27):
+Colhe-se das informações prestadas pela Autoridade apontada como coatora que a instrução já está encerrada e que o feito se encontra aguardando a apresentação das alegações finais para que se possa prolatar a sentença de mérito.
+Dessa forma, vê-se que o pequeno excesso na instrução criminal se mostro suficientemente justificado, bem como é sabido que tais prazos para a instrução criminal não são contados dia a dia, em mera operação aritmética, mas devem ser eles aferidos com atenção ao princípio da razoabilidade e particularidades do caso em concreto.
+Além disso, das informações prestadas pelo Juízo de origem, verifica-se que se tratade processo complexo, com pluralidade de réus e sucessivos desmembramentos. Confira-se trecho das referidas informações(fls. 56-57):
+Trata-se o presente de processo que inicialmente contava com 24 réus e após sucessivos desmembramentos, o paciente Fabiano figura entre os denunciados acima elencados.
+De acordo com a denúncia, os acusados se associaram entre si e com outros indivíduos não identificados para o fim de praticar, reiteradamente, os crimes de tráfico de drogas, nas localidades conhecidas como Morro do Castro, Morro do feijão, Morro da Coruja, Jardim Catarina, Morro do Martins, todos nesta Comarca de São Gonçalo e também em outras localidades na Comarca de Itaboraí.
+Ainda de acordo com a denúncia, o líder da organização criminosa é o denunciado Wallace Batista Soalheiro, vulgo "PIXOTE", sendo certo que o paciente FABIANO BAPTISTA DA COSTA LEITE, vulgo "PILOTO DO CASTRO" integra a dita organização exercendo a função de gerente do Morro do Castro, tendo sido flagrado em conversa interceptada fazendo negociação de "açúcar" (cocaína) e "boldo" (maconha).
+Cumpre-me ressaltar que o processo é complexo, com vários réus, diversas idas e vindas ao Ministério Público e à conclusão para analisar pleitos libertários, o que justifica a demora na prestação jurisdicional.
+Destaco, ainda, que o paciente, em tese, pertence à organização criminosa denominada "Comando Vermelho", notoriamente conhecida como de grande periculosidade.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ademais, amatéria relativa àsubstituição da prisão preventiva por domiciliar devido à pandemia de covid-19 não foi apreciada pelas instâncias ordinárias, porquanto o debate nem sequer foi provocado. Assim, o exame dessa questão pelo Superior Tribunal de Justiça ensejaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, I, c, da Constituição Federal (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto,com base no art. 34, XX,do RISTJ, não conheço do habeas corpus, mas recomendo ao Juízo de primeira instância reavaliar a necessidade da custódia cautelar, nos termos do parágrafo único do art. 316 do CPP.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
