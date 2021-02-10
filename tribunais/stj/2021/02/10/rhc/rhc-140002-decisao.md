@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por BRUNO GABRIEL ALVES DOS SANTOS, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO no julgamento do HC n. 1020486-11.2020.8.11.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 19/8/2020 por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de entorpecentes). Referida custódia foi convertida em preventiva.
+Irresignada com a manutenção da prisão preventiva, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS - CRIME DE TRÁFICO DE DROGAS - PRISÃO PREVENTIVA -INCONFORMISMO - PROPALADA INEXISTÊNCIA DE FUNDAMENTAÇÃO E DOSREQUISITOS AUTORIZADORES DA SEGREGAÇÃO CAUTELAR - NÃO ACOLHIMENTO -INEXISTÊNCIA DE VIOLAÇÃO AO ART. 93, IX, DA CRFB E AO ART. 564, INCISO V, DOCÓDIGO DE PROCESSO PENAL - DECISÃO PROFERIDA EM ANÁLISE AO CASOCONCRETO - GARANTIA DA ORDEM PÚBLICA (ART. 312 DO CPP) - GRAVIDADECONCRETA DA CONDUTA - QUANTIDADE DE ENTORPECENTES - REITERAÇÃO DELITIVADO PACIENTE - DEMONSTRADA A NECESSIDADE DA CUSTÓDIA - VENTILADO OCABIMENTO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - SUPOSTA EXISTÊNCIADE PREDICADOS FAVORÁVEIS - IRRELEVÂNCIA - DEMONSTRADA A INEFICÁCIA DASMEDIDAS - PLEITO DE RELAXAMENTO DA PRISÃO PREVENTIVA DIANTE DADECRETAÇÃO DE OFÍCIO PELA AUTORIDADE COATORA E PELA NÃO REALIZAÇÃO DAAUDIÊNCIA DE CUSTÓDIA - IMPOSSIBILIDADE - REQUERIMENTO DO MINISTÉRIOPÚBLICO PELA CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA - AUDIÊNCIA DE CUSTÓDIA NÃO REALIZADA EM RAZÃO DAS MEDIDAS TEMPORÁRIAS PARA APREVENÇÃO DA COVID-19 - CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO - ORDEMDENEGADA.
+1. Inexiste constrangimento ilegal na hipótese em que a prisão preventiva é decretada para a garantia da ordem pública (art. 312 do CPP), à luz da gravidade quantidade de drogas apreendidas e do risco de reiteração delitiva do paciente, não havendo que se cogitar, ainda, de eventual violação ao art. 93, IX, da CRFB e ao novo inciso V do art. 564 do Código de Processo Penal.
+2. Descabida a substituição da prisão por medidas cautelares mais brandas, previstas no art. 319do Código de Processo Penal, quando evidenciada a efetiva necessidade da custódia cautelar para o resguardo da ordem pública.
+3. Os predicados supostamente ostentados pelo paciente não têm o condão de impedir a adoção da prisão preventiva se presentes os pressupostos delineados no art. 312 do Código de Processo Penal.
+4. Não há falar em relaxamento do claustro, quando devidamente requerida a conversão da prisão em flagrante em preventiva pelo Ministério Público, tampouco pela não realização da audiência de custódia, visto que dispensada em decorrência da situação de pandemia mundial, com a finalidade de prevenir e conter o contágio da COVID-19(fls. 170/171).
+No presente reclamo, sustenta que a prisão em flagrante foi convertida em preventiva de ofício pelo Juízo, em ofensa ao art. 311 do CPP.
+Ressalta as circunstâncias pessoais favoráveis do recorrente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Observa que a quantidade de droga apreendida não justifica a manutenção da custódia antecipada.
+Requer, assim, em liminar e no mérito, a revogação da preventiva, ainda que mediante aplicação de medidas alternativas, conforme disposto no art. 319 do CPP.
+O Ministério Público Federal opinou pelo provimento em parecer acostado às fls. 196/201.
+É o relatório.
+Decido.
+O presente reclamo traz pedido idêntico ao formulado no HC 629.131/MT, que não foi conhecido, mas teve a ordem concedida, de ofício, para revogar a prisão preventiva do ora recorrente, sendo ressalvada a possibilidade de aplicação das medidas cautelares.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N.º 112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo, não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz, que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+Ante o exposto, em consonância com o disposto no art. 34, inciso XVIII, "a", do RISTJ, não conheço do presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
