@@ -1,0 +1,20 @@
+DECISÃO
+RECLAMAÇÃO – MEDIDA CAUTELAR NA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL Nº 347 – INOBSERVÂNCIA – RELEVÂNCIA – LIMINAR – DEFERIMENTO PARCIAL.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Glauber Henrique Alves Pereira afirma haver o Juízo da Terceira Vara Criminal da Comarca de Sete Lagoas/MG, no procedimento nº 0672.20.007464-5, inobservado o decidido na medida cautelar na arguição de descumprimento de preceito fundamental nº 347.
+    Narra ter sido preso em flagrante em 21 de dezembro de 2020, sem audiência de custódia. Argumenta que o Supremo, ao deferir a medida de urgência no processo objetivo, determinou aos juízes e tribunais que passassem a realizar as audiências de custódia, no prazo máximo de 90 dias, com a apresentação do preso à autoridade judiciária em até 24 horas, contadas do momento da prisão.
+    Requer, no campo precário e efêmero, o deferimento da liberdade. Pede, sucessivamente, a determinação de realização da audiência de custódia. Pretende, no mérito, a confirmação da providência.
+    O Juízo, em informações, esclarece não ocorrida a audiência tendo em conta a flexibilização da exigência em virtude da crise ocasionada pelo novo coronavírus. Reporta-se à Recomendação nº 2/2020 do Conselho Nacional de Justiça. Articula com o versado na Portaria Conjunta nº 19 do Tribunal de Justiça do Estado de Minas Gerais, concernente a medidas sanitárias. Ressalta não configurado prejuízo ao reclamante, uma vez assegurados os direitos constitucionais, inclusive o de comunicação da prisão ao Juízo, ao Ministério Público e à Defensoria. Menciona habilitado advogado, sendo formalizado pedido de liberdade provisória, sem indicação de irregularidade na custódia ou prejuízo suportado em função da falta de apresentação em Juízo. Aduz convertida em preventiva a prisão em flagrante, no dia 23 de dezembro de 2020. Sublinha recebida a denúncia, aguardando-se retorno quanto ao mandado de citação.
+    2. O Plenário, ao acolher o pedido de implemento de medida acauteladora formulado no processo objetivo, determinou a realização das audiências de custódia em 90 dias, assentando obrigatória a ocorrência no prazo de 24 horas, contadas da prisão. Confiram o seguinte trecho da ementa:
+    […]
+    AUDIÊNCIA DE CUSTÓDIA – OBSERVÂNCIA OBRIGATÓRIA. Estão obrigados juízes e tribunais, observados os artigos 9.3 do Pacto dos Direitos Civis e Políticos e 7.5 da Convenção Interamericana de Direitos Humanos, a realizarem, em até noventa dias, audiências de custódia, viabilizando o comparecimento do preso perante a autoridade judiciária no prazo máximo de 24 horas, contado do momento da prisão.
+    (Medida cautelar na arguição de descumprimento de preceito fundamental nº 347, da minha relatoria, acórdão publicado no Diário da Justiça eletrônico de 18 de fevereiro de 2016.)
+    Não apresentado o custodiado à autoridade judiciária, fica configurada contrariedade ao decidido no precedente.
+    O argumento do risco de contágio é improcedente. A pandemia está generalizada. Alcança a todos indistintamente. Em síntese, o vivenciado, nos dias atuais, é de neutralidade absoluta ante a ordem jurídica, cabendo ao Estado viabilizar as audiências de custódia, sem menosprezo ao direito do preso.
+    Descabe, contudo, potencializar o alcance da reclamação, levando em conta alegada inobservância do que proclamado quando do julgamento da arguição de descumprimento de preceito fundamental nº 347, visando a insubsistência da prisão determinada na origem. A soltura deve ser buscada na via adequada, sendo impróprio o manuseio da medida como sucedâneo recursal e, até mesmo, de habeas corpus.
+    3. Defiro parcialmente a liminar, determinando ao Juízo da Terceira Vara Criminal da Comarca de Sete Lagoas/MG, considerado o procedimento nº 0672.20.007464-5, a realização, no prazo de 24 horas, da audiência de custódia, com a presença do reclamante.
+    4. Colham parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 10 de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
