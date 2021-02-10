@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de CLAUDINEI VEIGA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ proferido na Revisão Criminal n. 0011720-45.2020.8.16.0000.
+Extrai-se dos autos que o paciente foi condenado às penas de 20 anos de reclusão, em regime inicial fechado, pela prática do delito descrito no art. 121, §2º, I e IV, do Código Penal (homicídio qualificado).
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual negou provimento ao recurso. Transitado em julgado a condenação, a defesa impetrou ação revisional, que não foi conhecida, nos termos do acórdão que restou assim ementado (fl. 34):
+Revisão criminal de acórdão. Crime de homicídio qualificado (art. 121, § 2º, inc. I e IV, do CP). Condenação em primeiro grau confirmada em grau de recurso por este Tribunal. Pretensão de restabelecer o debate acerca de questões já apreciadas por ocasião da apelação criminal. Mero inconformismo do requerente com a sentença condenatória, vez que, em nenhum momento, se constata nos autos violação à lei ou ao material probatório colhido durante a instrução. Ausência das hipóteses de cabimento previstas no art. 621 do CPP. Recurso não conhecido. O pedido revisional, para lograr êxito, exige a demonstração inequívoca de que a decisão condenatória mostrou-se conflitante e incompatível com o elenco das provas produzidas validamente, pois o pleito revisional, não possuindo natureza de uma segunda apelação, não se presta para uma nova valoração de provas, e muito menos para redução da reprimenda, dosada pelos critérios normais, segundo a discricionariedade do magistrado.
+No presente writ, a defesa alega que o juiz a quo reconheceu como desfavorável a circunstância da culpabilidade amparado em fundamentação inidônea. Diante disso, requer seu afastamento.
+Pugna, assim, em liminar e no mérito, pela concessão da ordem.
+Indeferido o pedido liminar (46/47).
+Prestadas as informações, o Ministério Público Federal opinou pela denegação do writ (fls. 50/53).
+É o relatório. Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio.Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+A parte impetrante busca, em suma, o afastamento da valoração negativa da circunstância judicial da culpabilidade, tendo o Tribunal de origem se manifestado acerca do tema em fl. 30:
+"No caso, a pena-base foi estipulada em 15 anos de reclusão por conta das diretivas judiciai s(CP, art. 59) avaliadas negativamente: culpabilidade ("elevada, na medida em que o .. homicídio foi cometido mediante diversos disparos de arma de fogo em meio a uma boate, no momento em que se encontravam presentes diversas pessoas, entre funcionários e frequentadores, colocando em risco a vida e incolumidade física de todos que ali estavam.")  .. .
+Escorreita, então, a fundamentação enunciada, pois respaldada em dados concretos extraídos do conjunto fático-probatório, não merecendo qualquer reparo."
+Com efeito, a decisão vergastada encontra-se de acordo com o posicionamento deste Sodalício de que a valoração negativa de circunstância judicial deve ser concretamente justificada.
+Na hipótese, o Tribunal de origem fundamentou individualmente a motivação da culpabilidade do paciente,não cabendo revisão na via eleita.
+Neste sentido é a jurisprudência desta Corte Especial:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO.DOSIMETRIA DA PENA. PENA-BASE. AUMENTO. FUNDAMENTAÇÃO IDÔNEA.RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA.IMPOSSIBILIDADE. TEMA NÃO ALEGADO NOS DEBATES EM PLENÁRIO. FRAÇÃO DE REDUÇÃO PELA TENTATIVA. AVANÇADO ITINERÁRIO DE EXECUÇÃO PERCORRIDO.AUSÊNCIA DE ILEGALIDADE.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. Na espécie, a instância de origem estabeleceu a reprimenda básica acima do mínimo legal, considerando desfavorável a circunstância judicial relativa à culpabilidade, tendo em vista que a vítima estava grávida do acusado na época dos acontecimentos. Destacou o colegiado local que o acusado, em plenário, afirmou conhecer a situação de gestante da ofendida. Tal fundamentação se mostra adequada para a exasperação da pena-base, pois anuncia o maior grau de reprovabilidade da conduta do acusado, bem como o menosprezo especial ao bem jurídico violado. Desse modo, suficientemente fundamentado o aumento da reprimenda. Precedentes.
+(..)
+8. Agravo regimental a que se nega provimento.
+(AgRg no HC 469.922/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 18/12/2020).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
