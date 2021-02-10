@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar interposto por ALEXSANDRO BARROS DE ALMEIDA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Recurso em Sentido Estrito n. 0000025-47.2020.8.26.0540).
+O recorrente foi preso em flagrante (fls. 82-83), em razão da suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O magistrado de primeiro grau não converteu a prisão em flagrante em preventiva por entender que as cautelares diversas da prisão seriam suficientes para a garantia da ordem pública e conveniência da instrução criminal. Assim, concedeu liberdade provisória ao paciente.
+O Ministério Público do Estado de São Paulo interpôs recurso em sentido estrito, objetivando a decretação da prisão preventiva do paciente, tendo o Tribunal de origem dado provimento ao recurso para cassar a decisão que concedera a liberdade provisória e decretar a prisão preventiva do paciente.
+O recorrente alega que a prisão preventiva não seria proporcional a eventual pena a ser aplicada.
+Requer seja concedido o seu direito de aguardar em liberdade o trâmite que envolve a persecução penal em apreço.
+A liminar foi indeferida (fls. 113-114).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 133-137).
+É o relatório. Decido.
+Em consulta ao sistema do Tribunal de origem, observa-se que, em 29/1/2021, na Ação Penal n. 1500570-43.2020.8.26.0540, o recorrente foi condenado às penas de 5 anos e 10 meses de reclusão em regime inicial fechado e de 583 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, vedado o direito de recorrer em liberdade.
+Assim, quanto à alegação de desproporção entre a prisão preventiva e eventual pena a ser aplicada, considerando a nova realidade fático-processual (prolação da sentença), evidencia-se a prejudicialidade do pedido ante a perda superveniente de objeto.
+Por outro lado, observa-se que o Juízo de primeiro grau manteve os fundamentos da prisão preventiva anteriormente decretada. Portanto, nesse ponto, não houve perda de objeto.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 108-109):
+Extrai-se que o recorrido foi preso em flagrante, porém, a prisão não foi convertida em preventiva, pela ausência dos requisitos legais. Entendeu o Magistrado que o réu, apesar de possuir maus antecedentes, não impõe risco à aplicação da lei penal, pois sua condenação é do ano de 2008.
+ ..
+No caso, verifico a presença de prova acerca da materialidade do crime, além de indícios suficientes de autoria, diante as provas colhidas no auto do inquérito policial, especialmente, os relatos dos policiais e apreensão de grande quantidade de drogas em poder do investigado: 11 porções de maconha encerradas unitariamente em frascos plásticos na cor vermelha; 500 porções de "crack"; 195 porções de cocaína.
+De outro lado, o passado criminal do réu pela prática do mesmo crime, apesar de ter sido cometido há doze anos, deve ser considerado. Demonstra seu descaso com a justiça e a recidiva no crime hediondo de tráfico.
+O entendimento acima está em consonância com a orientação jurisprudencial da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva. Nesse sentido: AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020.
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ademais, mantidas as circunstâncias que justificaram a decretação da prisão preventiva do recorrente, que ficou preso durante toda a instrução processual, não há ilegalidade na sentença condenatória por não lhe conceder o direito de recorrer em liberdade (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e AgRg no HC n. 568.997/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 27/5/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público F ederal.
+Publique-se. Intimem-se.
