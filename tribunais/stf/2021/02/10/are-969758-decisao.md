@@ -1,0 +1,15 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO – ICMS – SISTEMA INDIVIDUAL DE CONTROLE E PAGAMENTO – SANÇÃO POLÍTICA – PRECEDENTES – PROVIMENTO.
+    1. Atentem para o decidido na origem. O Tribunal de Justiça do Estado do Paraná, negando provimento à apelação, denegou a ordem por meio da qual a impetrante buscava afastar a submissão ao Sistema Individual de Controle e Pagamento do Imposto sobre Circulação de Mercadorias e Serviços – ICMS, obrigando-a ao recolhimento do tributo a cada operação, conforme previsto na Lei estadual nº 13.711/2011, regulamentada pelo Decreto nº 48.494/2011. No extraordinário, a contribuinte aponta violados os artigos 5º, incisos II, XIII, LIV, LV e LXXVIII; 84, inciso VI, 100, § 13 e 14, 150, incisos II, IV e V e 170, § único, da Constituição Federal. Diz inobservados os verbetes nº 70, 323 e 547 da Súmula do Tribunal.
+    2. O acórdão recorrido está em desacordo com a jurisprudência do Supremo. O Plenário, nos embargos de divergência no recurso extraordinário nº 115.452/SP, relator o ministro Carlos Velloso, com acórdão publicado no Diário da Justiça de 16 de novembro de 1990, assentou que a inclusão em sistema especial de pagamento consiste em sanção política, vedada pela Carta da República. Eis a síntese da decisão:
+    CONSTITUCIONAL. TRIBUTÁRIO. ICM: REGIME ESPECIAL. RESTRIÇÕES DE CARÁTER PUNITIVO. LIBERDADE DE TRABALHO. CF/67, ART.153, § 23; CF/88, ART. 5º, XIII.
+    I. - O "regime especial do "ICM", autorizado em lei estadual, porque impõe restrições e limitações à atividade comercial do contribuinte, viola a garantia constitucional da liberdade de trabalho (CF/67, ART.153, § 23; CF/88, ART. 5º, XIII), constituindo forma oblíqua de cobrança do tributo, assim execução política, que a jurisprudência do Supremo Tribunal sempre repeliu (Súmulas nºs 70, 323 e 547).
+    II. - No caso, os acórdãos indicados como divergentes cuidaram do tema sob o ponto de vista legal, enquanto que o acórdão embargado decidiu a questão tendo em vista a Constituição. Inocorrência, por isso, de divergência capaz de autorizar os embargos.
+    III. - Embargos não conhecidos.
+    A mesma óptica foi adotada pela Segunda Turma, no recurso extraordinário nº 195.621/GO, de minha relatoria, com acórdão veiculado no Diário da Justiça de 10 de agosto de 2001:
+    TRIBUTO - REGIME ESPECIAL - PRAZO DE RECOLHIMENTO - TRATAMENTO DIFERENCIADO - GLOSA - IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS. Conflita com a Constituição Federal, em face da liberdade de comércio, da livre concorrência e do princípio da não-cumulatividade, a imposição de regime de recolhimento de tributo que implique obrigação de satisfazer diariamente o valor correspondente ao Imposto sobre Circulação de Mercadorias e Serviços. Precedente: ERE nº 115.452, relatado pelo Ministro Carlos Velloso perante o Pleno, com acórdão publicado no Diário da Justiça de 16 de novembro de 1990.
+    3. Ante o quadro, provejo o agravo para conhecer do extraordinário e, julgando-o desde logo, dar provimento para, reformando o acórdão recorrido, conceder a ordem.
+    4. Publiquem.
+Brasília, 10 de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
