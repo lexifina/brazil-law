@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por JOSÉ DE BRITO e OUTRA, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiram contra acórdão do Tribunal de Justiça de Mato Grosso do Sul assim ementado (e-STJ, fl. 604):
+APELAÇÃO CÍVEL - AÇÃO DE NULIDADE DESENTENÇA. "QUERELA NULLITATIS" - ALEGAÇÃO DE NULIDADE DIANTEDA NECESSIDADE DE LITISCONSORTE PASSIVO - VÍCIO PROCESSUAL QUENÃO PRODUZ PREJUÍZO A AUTORA - AUTORA TEVE SEUS INTERESSESDEVIDAMENTE DEFENDIDOS POR SEU CÔNJUGE - EVIDENCIADA A UTILIZAÇÃO DE NULIDADE DE ALGIBEIRA OU DE BOLSO - RECURSOCONHECIDO E DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 624-629).
+No recurso especial, os recorrentes apontaram violação dos arts. 10, § 1º, e 47 do antigo CPC; e 489, II, § 1º, IV, e 1.022 do CPC/2015.
+Esclareceramque se opuseram ao acórdão que, sem apreciar todas as questões relevantes para o julgamento da causa, manteve a validade da ação reivindicatória. Pontuaram que, embora o julgado tenha reconhecido que a insurgente Maria Beatriz Vidal de Brito era casada com o recorrente José Brito e não foi citada na ação transitada em julgada, afastou o cabimento da nulidade do julgamento, desrespeitando a condição de litisconsorte necessária da esposa.
+Aduziram que esse fato ocasiona a nulidade da ação reivindicatória, não sendo viável acolher a tese de que a participação do recorrente José Brito permitiria a validade do julgamento. Pugnaram pelo conhecimento e provimento do recurso especial (e-STJ, fls. 631-644).
+Nas razões do agravo, os agravantes impugnam os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 669-676).
+Contraminuta apresentada (e-STJ, fls. 880-885).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, II, § 1º, IV, e 1.022 do CPC/2015.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Compulsando o caderno processual, nota-se conclusão no sentido da ausência de prejuízo para a recorrente Maria Beatriz Vidal de Brito por não ter sido citada e participado do processo na condição de litisconsorte necessário. Com efeito, pontuou-se que seu esposo, o agravante José Vidal atuou efetivamente no processo, sendo certo, ademais, que não era crível concluir queela nãoteria tido ciência da lide.
+Também concluiu-se que deferir a nulidade da sentença reivindicatória transitada em julgado seria premiar a nulidade de algibeira praticada pelos insurgentes.
+Observe-se (e-STJ, fls. 606-607):
+Contudo as alegações feitas pela recorrente não possuem força suficiente para desconstituir a sentença já transitada em julgado.
+Isto porque a recorrente não demonstra a existência de efetivo prejuízo pela não participação junto de seu cônjuge na demanda que visa anular. Insta salientar que no caso dos autos seu cônjuge inclusive interpôs por duas vezes ação de usucapião, sem incluir a autora como litisconsorte ativa, para tentar perpetuar a posse sobre o imóvel objeto da reivindicatória, assim tenho que aapelante teve seus interesses devidamente representados e protegidos pelas atitudes tomadas por seu cônjuge.
+Ademais observa-se que autora, quando muito, apresenta situações hipotéticas e conjecturas que sequer ocorreram, não se vislumbrando prejuízo efetivo algum a justificar a nulidade processual pretendida.
+Destaca-se ser inverossímil a alegação de que a autora não possuía ciência das ação reivindicatória ou das ações de usucapião, isto pois conforme seus próprio dizeres é casada com réu da reivindicatória, bem como reside no mesmo local, e tal conjuntura evidencia a utilização das estratégias de chamadas "nulidade de algibeira ou de bolso".
+Essas ponderações foram feitas com fatos e provas, atraindo a aplicação da Súmula 7/STJ.
+Por fim, o fundamento de que o comportamento dos autores teria configurado a reprovável nulidade de algibeira não foi enfrentado no recurso especial, embora seja suficiente para manutenção da conclusão alcançada pela Corte local. Esse quadro enseja a incidência da Súmula 283/STF.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em R$ 400,00 (quatrocentos) reais, observadas as regras inerentes à gratuidade de justiça.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. QUERELA NULLITATIS. OMISSÃO OU CONTRADIÇÃO. AUSÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA INEXISTÊNCIA DE PREJUÍZO PELA FALTA DE PARTICIPAÇÃO DA ESPOSA NA AÇÃO REIVINDICATÓRIA. PRÁTICA DA NULIDADEDE ALGIBEIRA. SÚMULA 7/STJ. FUNDAMENTO DO ARESTO INATACADO NO RECURSO ESPECIAL. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
