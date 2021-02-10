@@ -1,0 +1,27 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    AÇÃO DECLARATÓRIA. ICMS SOBRE MERCADORIAS BONIFICADAS. PRETENSÃO DE AFASTAR A EXIGÊNCIA PREVISTA NO ART. 23, PARÁGRAFO ÚNICO, DO RICMS/SC. INVIABILIDADE. REGRA NECESSÁRIA PARA DISTINGUIR BONIFICAÇÃO DE SIMPLES DOAÇÃO. EXIGÊNCIA COMPATÍVEL COM O DECIDIDO PELO STJ EM RESOLUÇÃO DE DEMANDAS REPETITIVAS NO RESP N. 1.111.156. PRECEDENTES DESTA CORTE. RECURSO CONHECIDO E NÃO PROVIDO.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 93, inciso IX; 150, inciso I, e; 155, inciso II, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o Plenário da Corte, em sede de repercussão geral, reafirmou a orientação de que o artigo 93,inciso IX, da Constituição não exige que o órgão judicante se manifeste sobre todos os argumentos apresentados pela defesa, mas sim que ele fundamente, ainda que sucintamente, as razões que entendeu suficientes à formação de seu convencimento (AI nº 791.292/PE-RG-QO, Tribunal Pleno, Rel. Min. Gilmar Mendes, DJe de 13/8/10).
+    Ademais, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Desse modo, não há falar em bonificação se a operação não é una e, como tal, componente de um só documento fiscal.
+    Essa a razão pela qual o parágrafo único do art. 23 do RICMS/SC condiciona o seu reconhecimento — e, consequentemente, a exclusão do valor a ela concernente da base de cálculo do ICMS — à existência de "unidade entregue a mais, pelo vendedor, da mesma mercadoria consignada no [mesmo] documento fiscal".
+    (...)
+    No caso dos autos, o que se tem é que a autora pretende que determinadas operações sejam integralmente tratadas como se fossem bonificação, embora haja a cobrança pela integralidade da mercadoria entregue ao destinatário e, pior, haja o destaque do imposto correspondente, o que permitirá ao destinatário o respectivo crédito para compensação com o imposto devido em operações futuras.
+    Tome-se por exemplo a nota fiscal juntada a fls. 50 dos autos, que tem por objeto a circulação de 61 unidades de lata de tinta "vinil acril branco 18L, ONU: N. E." comercializados pela parte autora.
+    Não há nenhum desconto no preço das mercadorias. Não há indicação de que tenha sido gratuito o fornecimento de qualquer parcela das mercadorias fornecidas.
+    Ao contrário, além da menção, no campo destinação à natureza da operação à "remessa em bonificação, doação ou brinde", nenhum dos elementos do documento fiscal denota efetiva circulação não onerosa da mercadoria.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 10 de fevereiro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
