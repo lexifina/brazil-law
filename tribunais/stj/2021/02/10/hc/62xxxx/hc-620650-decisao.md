@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de IRINEU RODRIGUES GONZALEZ no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2180055-14.2020.8.26.0000).
+Depreende-se dos autos que "o paciente está sendo acusado de desviar dinheiro público em certames realizados pela Prefeitura Municipal de Embu-Guaçu, com o uso de empresas de fachada e laranjas, tendo sido decretada sua prisão preventiva em 09/03/2020 para a garantia da ordem pública e aplicação da lei penal (fls. 20/21, 24, 26/38)" - e-STJ fl. 30.
+Posteriormente, foi revogada a prisão cautelar impondo prisão domiciliar mediante pagamento de fiança (e-STJ fls. 59/63).
+Impetrado habeas corpus na origem, o Tribunal local denegou a ordem em acórdão assim ementado (e-STJ fl. 28):
+Habeas corpus. PECULATO E ORGANIZAÇÃO CRIMINOSA. Pretendida dispensa ou redução da fiança arbitrada. Concessão de writ de ofício pelo C. STJ dispensando o paciente do recolhimento da fiança. Perda do objeto. Pedido de revogação da prisão domiciliar. Impossibilidade. Necessidade da sua imposição fundamentada pela autoridade coatora. Ordem denegada, na parte não prejudicada.
+Neste writ, a defesa aponta constrangimento ilegal decorrente da falta de justa causa para o exercício da ação penal e da prisão cautelar.
+Sustenta que, no caso, inexistem prova material e indícios suficientes de autoria em relação às acusações feitas ao paciente.
+Pontua que o paciente idoso é primário, com bons antecedentes e residência fixa. Assere que ele é portador de diabetes, hipertensão e câncer de pele.
+Destaca que "o pedido de decretação de prisão preventiva, além de basear-se em fatos já superados como a reincidência, e a prática de falsificação junto a Prefeitura de São Bernardo que não foi praticada pelo PACIENTE em 2018, tampouco foi o mesmo indiciado para tanto, passados mais de dois anos, não se prestam a justificar a contemporaneidade necessária para a decretação da prisão cautelar" (e-STJ fls. 12/13).
+Alega, ainda, ausência dos requisitos ensejadores da prisão cautelar, já que ausentes os requisitos do art. 312 do Código de Processo Penal.
+Ressalta que "a concessão de LIBERDADE PROVISÓRIA SEM ARBITRAMENTO DE FIANÇA ao PACIENTE é medida que se ajusta perfeitamente ao caso em tela, não havendo, por conseguinte, razões para a manutenção do mesmo aprisionado domiciliar ou revogada para custódia posto o não cumprimento da alta fiança interposta" (e-STJ fl. 20).
+Dessa forma, requer, liminarmente e no mérito, a concessão da liberdade ao paciente com a expedição do alvará de soltura.
+É o relatório.
+Decido.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, a medida de prisão domiciliar foi assim justificada (e-STJ fls. 60/63):
+Por outro lado, não se pode desconsiderar que o Ministério Público opinou pela soltura do acusado IRINEU, com a cominação da prisão domiciliar.
+ ..
+Portanto, a única forma de prestigiar e manter íntegras todas estas linhas de raciocínio antagônicas seria, realmente, a concessão da prisão domiciliar, contudo, com a cominação de diversas outras medidas cautelares, especialmente a fiança, medida capaz de minimizar os efeitos da libertação do acusado e as circunstâncias que lhe são desfavoráveis.
+Relativamente à fiança, cujo afastamento pleiteia o nobre patrono do acusado IRINEU, parece-nos ser o caso de cominação.
+Com efeito, neste juízo de cognição, verifica-se que o acusado ostenta contra si provas de que ostenta inclinação à prática de crimes; envolveu-se em série em delitos, inclusive contra a Administração Pública; possui maus antecedentes, decorrentes de desvio de dinheiro público e periculosidade concreta, por conta de sua reiteração delitiva e modus operandi (fls. 17/18).
+Em acréscimo, não se pode desconsiderar que o réu vem se submetendo a diversas alterações de endereço, o que ensejou a renovação do mandado de prisão anteriormente expedido.
+Este conjunto de fatores permite a conclusão de que a sua simples manifestação de que comparecerá a todos os atos do processo afigura-se insuficiente, sem força para angariar a confiança deste juízo, havendo necessidade, portanto, de se fixar uma contracautela, nos termos do artigo 326 do Código de Processo Penal.
+No presente caso, este juízo não se sente à vontade em fixar o montante com base em hipotética condenação, nos termos da manifestação do Ministério Público (fls. 69), eis que esta análise deve ser efetuada por ocasião do sentenciamento do feito, havendo, inclusive, diversas garantias  apresentadas nos autos principais para caucionar eventual pagamento das custas processuais.
+De tal modo que nos parece que, atendendo à natureza da infração e as circunstâncias relacionadas à periculosidade do réu, a fixação de fiança no valor da Carta Convite n.º 22/17 vinculada ao PRIMEIRO FATO CRIMINOSO, pelo qual o réu vem sendo acusado, é medida que atende a todos estes pressupostos.
+Acresça-se que o valor cominado não ultrapassaria os limites legais, na medida em que o artigo 325, §1º, inciso III, do Código de Processo Penal autoriza o aumento da fiança em até 1.000 (mil) vezes, "se assim recomendar a situação econômica" do acusado.
+A propósito de sua situação econômica, por ora, não há provas concretas, dando conta de que o réu não ostenta condições financeiras de arcar com o pagamento dos valores.
+Diante do exposto, REVOGO a prisão cautelar do denunciado IRINEU RODRIGUES GONZALES, sob as seguintes condições:
+a) Não praticar fato definido como crime doloso;
+b) Prisão domiciliar integral no endereço residencial indicado nos autos, com a obrigatoriedade de acompanhar os atos processuais e mantendo seu endereço atualizado, podendo deixar o local apenas em caso de emergência médica, posteriormente informada a este juízo;
+c) Efetuar o pagamento de fiança no valor de R$ 148.995,73 (cento e quarenta e oito mil, novecentos e noventa e cinco reais e setenta e três centavos), em dinheiro, no prazo de 30 (trinta) dias após a sua libertação;
+d) Proibição de manter contato, por qualquer meio de comunicação, com os demais denunciados ou familiares, bem como testemunhas arroladas. (Destaquei.)
+No julgamento do HC n. 603.615/SP concedi a ordem de ofício para afastar a fiança arbitrada como condição para a revogação da prisão cautelar, mantendo as demais condições.
+O Tribunal de origem, por sua vez, manteve a prisão domiciliar valendo-se dos seguintes fundamentos (e-STJ fls. 30/32):
+2) A impetração está parcialmente prejudicada, devendo ser denegada na parte remanescente.
+Consta que o paciente está sendo acusado de desviar dinheiro público em certames realizados pela Prefeitura Municipal de Embu-Guaçu, com o uso de empresas de fachada e laranjas, tendo sido decretada sua prisão preventiva em 09/03/2020 para a garantia da ordem pública e aplicação da lei penal (fls. 20/21, 24, 26/38).
+Em 15/07/2020 foi revogada a prisão preventiva mediante cumprimento das seguintes condições: "a) Não praticar fato definido como crime doloso; b) Prisão domiciliar integral no endereço residencial indicado nos autos, com a obrigatoriedade de acompanhar os atos processuais e mantendo seu endereço atualizado, podendo deixar o local apenas em caso de emergência médica, posteriormente informada a este Juízo; c) Efetuar o pagamento de fiança no valor de R$ 148.995,73, em dinheiro, no prazo de 30 dias após a sua libertação; d) Proibição de manter contato, por qualquer meio de comunicação, com os demais denunciados ou familiares, bem como testemunhas arroladas." (fls. 74/78).
+Com efeito, em consulta aos autos digitais em 1º Grau, verifica-se foi impetrada a ordem de Habeas Corpus nº 603615/SP, perante o C. STJ, em face da decisão que indeferiu o pedido liminar da presente ordem. Em decisão monocrática proferida em 27/8/2020, o Ministro Antônio Saldanha Palheiro concedeu liminarmente habeas corpus de ofício: "a fim de afastar a fiança imposta na origem como condição para a manutenção da prisão domiciliar do paciente na ação penal de que se cuidam estes autos, mantidas as demais medidas cautelares estabelecidas" (fls. 96/200).
+Destarte, neste ponto, a presente impetração perdeu seu objeto.
+No mais, pretende a impetrante o afastamento da prisão domiciliar.
+Sem razão, contudo.
+Isto porque a cautelar foi imposta ao paciente porque ele não havia sido localizado para ser citado em nenhum dos endereços constantes nos autos, o que ensejou a renovação do mandado de prisão anteriormente expedido, tendo sido preso no estado de Santa Catarina.
+Devidamente fundamentada pela autoridade coatora a imposição da medida cautelar em comento, não se vislumbra razão para a sua revogação.
+Nesse sentido:  ..
+Por fim, é distinta a situação processual do paciente em relação ao corréu J.L.N.P., porque o pedido do Ministério Público de fls. 218/220 na origem revela indícios de que IRINEU estaria descumprindo as medidas impostas, inclusive com pedido de decretação da prisão preventiva, devendo ser aguardada a decisão de 1º Grau a respeito. Além disso, o paciente ostenta maus antecedentes pela prática do mesmo delito. (Grifei.)
+Como se vê, revogada a prisão preventiva, foi imposta a prisão domiciliar para garantia da aplicação da lei penal, sobretudo porque o paciente realizou diversas alterações de endereço, o que dificultou sua localização para citação, além de ter sido consignado que ele "envolveu-se em série  de  delitos, inclusive contra a Administração Pública; possui maus antecedentes, decorrentes de desvio de dinheiro público e periculosidade concreta, por conta de sua reiteração delitiva e modus operandi  .. " (e-STJ fl. 61), circunstâncias que justificam a medida.
+No mais, tem-se que eventual descumprimento da medida cautelar, como consignado no acórdão, não ensejou, até a presente data, a decretação de nova prisão preventiva, conforme consulta ao andamento processual eletrônico.
+Por fim, quanto à tese de falta de justa causa para o exercício da ação penal, tem-se que a matéria não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido. (RHC 68.025/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/05/2016, DJe 25/05/2016)
+Ante todo o exposto, conheço em parte do habeas corpus e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
