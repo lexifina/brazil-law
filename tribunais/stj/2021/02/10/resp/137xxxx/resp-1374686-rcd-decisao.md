@@ -1,0 +1,7 @@
+DECISÃO
+O Sindicato dos Servidores do Poder Judiciário no Estado do Espírito Santo, às fls. 1.150-1.209, vem informar perda de objeto do presente recurso especial, asseverando que o Pleno do Tribunal de Justiça do Estado do Espírito Santo, em juízo de retratação, procedeu a novo julgamento da presente lide, concluindo pela improcedência do pleito do Estado do Espírito Santo, ou seja, diz que o "acórdão impugnado nestes autos já não subsiste" (fl. 1.150).
+Assim, requer seja julgado prejudicado o seu recurso especial, por perda superveniente do seu objeto. Aproveita para pedir a reconsideração da decisão de fls. 1.147-1.149 que determinou a baixa dos autos, conforme disposto no artigo 1.030 do CPC/2015.
+De fato, o objeto do presente recurso especial não mais subsiste, visto que o Pleno do Tribunal de Justiça do Estado do Espírito Santo, em juízo de retração, julgou improcedente ação declaratória de nulidade de ato jurídico ajuizada pelo Estado do Espírito Santo, onde se requereu a desconstituição da coisa julgada, decorrente do acórdão proferido pelo Pleno do Tribunal estadual nos autos do Mandado de Segurança n. 2.409/ES, com trânsito em julgado em 6 de abril de 1995, e a consequente declaração de inexistência do título dele decorrente.
+Dessa forma, julgou prejudicado o recurso especial por perda de objeto, nos termos do artigo 34, XI, do RISTJ, e torno sem efeito a decisão de fls. 1.147-1.149.
+Publique-se. Intimem-se.
+EMENTA
