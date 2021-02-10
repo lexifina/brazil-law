@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado de Minas Gerais com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 363):
+APELAÇÕES CÍVEIS - DIREITO À SAÚDE - AÇÃO COMINATÓRIA C/C PEDIDO DE ANTECIPAÇÃO DE TUTELA - FALECIMENTO DA PARTE AUTORA - EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO - ÔNUS DA SUCUMBÊNCIA - PRINCÍPIO DA CAUSALIDADE - RÉUS QUE DERAM CAUSA À INSTAURAÇÃO DO PROCESSO - ART. 85, § 10, DO CPC/15 - CONFIRMAÇÃO DA SENTENÇA.
+- Segundo os princípios da sucumbência e da causalidade, quem foi vencido ou deu causa ao ajuizamento da ação ou de incidente processual é que deve suportar os ônus da sucumbência.
+- Ocorrido o falecimento da parte autora no curso do processo e a perda superveniente do objeto da demanda, em decorrência do princípio da causalidade, compete aos réus, que deram causa à instauração da presente ação cominatória, suportar os ônus da sucumbência (art. 85, § 10, do CPC/15).
+A parte recorrente aponta aoart. 85, § 8º, do CPC/15, afirmando que nos processos em que se pedem prestações positivas em saúde, os honorários advocatícios devem ser fixados por apreciação equitativa, eis que o bem da vida pretendido é inestimável.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação merece acolhida. Com efeito,o entendimento firmado no âmbito desse Sodalício sobre o tema autoriza o arbitramento de honorários advocatícios por apreciação equitativa nas demandas envolvendo o direito à saúde, haja vista que, nesses casos, não é possível mensurar, em geral, o proveito econômico obtido com a ação. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. FORNECIMENTO DE MEDICAMENTO. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 2º e 3º, I, DO CPC/2015. FIXAÇÃO POR EQUIDADE. ACÓRDÃO DO TRIBUNAL A QUO AMPARADO NO ACERVO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A fixação dos honorários advocatícios com base no art. 85, §§ 2º e 3º, I, do CPC/2015 decorreu da análise de circunstâncias fáticas pelo Tribunal de origem.
+2. O acórdão a quo não destoa do entendimento desse Sodalício, segundo o qual os honorários advocatícios podem ser arbitrados por apreciação equitativa nas demandas envolvendo medicamentos, haja vista que, nesses casos, não é possível mensurar, em geral, o proveito econômico obtido com a ação.
+3. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1211983/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS EXCESSIVOS. FORNECIMENTO DE MEDICAMENTOS. VALOR INESTIMÁVEL. EQUIDADE. ART. 85, §8º, CPC.
+1. Na hipótese dos autos, à luz do disposto no art. 85, § 8º, do CPC/2015, "nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º".
+2. Nas ações em que se busca o fornecimento de medicação gratuita e de forma contínua pelo Estado, para fins de tratamento de saúde, o Superior Tribunal de Justiça tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, tendo em vista que o proveito econômico obtido, em regra, é inestimável.
+3. Ocorre, por outro lado, que o juízo de equitatividade, fundado no art. 85, §8º, do CPC, também não pode franquear uma interpretação tal que importe a diminuição exagerada da verba honorária, de forma a torná-la efetivamente irrisória se considerados os patamares legais estabelecidos no novo Código de Processo Civil, obliterando o art. 85, §3º, do referido codex.
+4. In casu, extrai-se do acórdão vergastado que a intervenção do patrono contribuiu para o fornecimento dos medicamentos, orçados em R$189.000,00.
+5. Dessarte, utilizando-se como baliza o disposto no art. 85, §8º, e verificando-se como excessivo o valor dos honorários estabelecidos, o recurso deve ser parcialmente provido, diminuindo-se a verba honorária para R$15.000,00 (quinze mil reais).
+6. Recurso Especial parcialmente provido.
+(REsp 1799841/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/05/2019, DJe 02/08/2019)
+Dessa orientação divergiu o acórdão recorrido, na medida em que, considerando os critérios estabelecidos no art. 85, §§ 2º e 3º, do CPC/15, ratificou o arbitramento de honorários advocatícios no montante de 10% (dez por cento) sobre o o valor atualizado da causa, com posterior majoração para 11% (onze por cento), em razão da sucumbência quanto ao recurso de apelação.
+ANTE O EXPOSTO, dou provimento ao recurso para determinar o retorno dos autos ao Tribunal de origem, a fim de que, considerada a jurisprudência do STJ acerca do tema, realize novo arbitramento dos honorários advocatícios.
+Publique-se.
