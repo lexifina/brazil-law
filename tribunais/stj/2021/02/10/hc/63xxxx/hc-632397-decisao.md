@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de HIGOR ARCHANJO DE QUEIROZ, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO,assim ementado (fl. 34):
+Habeas Corpus. Roubo majorado. Prisão preventiva decretada na sentença. Pretendida revogação. Inviabilidade. Crime apenado com pena máxima superior a quatro anos. Prova da materialidade e indícios de autoria delitiva. Necessidade de resguardo à ordem pública e da aplicação da lei penal. Constrangimento ilegal não configurado. Ordem denegada.
+A defesa aleganão haver justa causa para a manutenção da custódia cautelar do paciente. Salienta que deve ser levado em consideração o excesso de prazo na instrução criminal. Ademais, defende aplicação de medidas cautelares diversas a prisão.
+Requer seja revogada a prisão preventiva, expedindo-se alvará de soltura.
+O pedido de liminar foi indeferido às fls. 41-42.
+O Ministério Público Federal manifestou-se pelo não conhecimento e, no mérito, pela denegação da ordem do presente habeas corpus (fls. 77-84).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 36-37):
+A respeito da necessidade da segregação, a autoridade impetrada bem expôs que a pena elevada imposta, a prática de crime grave e os fortes indícios de reiteração delitiva justificam a imposição da prisão preventiva paragarantia de aplicação da lei penal, bem como da ordem pública.
+Os fundamentos são válidos e devem ser mantidos.
+De fato, o crime de reveste se gravidade concreta, pois contou com concurso de agentes em superioridade numérica, restrição da liberdade da vítima, emprego de arma de fogo, condutas estas que revelam o menosprezo à pessoa, em especial à integridade psicológica da vítima, e demonstra ser razoável sacrificar a liberdade do paciente a fim de evitar que, em liberdade, volte a praticar condutas semelhantes.
+Do mesmo modo, imposta pena superior a oito anos de reclusão, se faz presente o risco de que o acusado venha a tentar frustrar a aplicação da lei penal, empreendendo fuga.
+Principalmente porque não permaneceu em liberdade durante toda a instrução, mas ao contrário, estava preso desde o flagrante tratado no processo nº 1509871-14.2019.08.26.0228, pelo qual foi recentemente beneficiado com o direito de recorrer em liberdade porque lá condenado por sentença recorrível a 04 anos e 10 meses de reclusão, em regime semiaberto.
+A imposição de penas mais brandas no outro processo, não o favorece aqui. Ao contrário, corrobora os argumentos da autoridade impetrada, no sentido de que o paciente vinha se ocupando de crime de forma reiterada.
+Enfim, encontram-se bem preenchidos os pressupostos e requisitos processuais que legitimam a prisão provisória, que resta mantida.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Ademais, não há constrangimento ilegal em negar ao réu o direito de recorrer em liberdade quando remanescerem os fundamentos que ensejaram a custódia cautelar, principalmente se, durante toda a instrução criminal, ficou preso provisoriamente (HC n. 463.428/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 9/4/2019).
+Por fim, em relação ao excesso de prazo, o relator do caso na origem decidiu em consonância com a orientação do STJ de que, encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo (Súmula n. 52 do STJ).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
