@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por William Lima da Silva, desafiando decisão da Vice Presidência do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu recurso especial com base nos seguintes fundamentos: (I) ausência de negativa de prestação jurisdicional; (II) em recurso especial não cabe alegar violação à norma constitucional; (III) incidência da Súmula 7/STJ; (IV) quenão cabe ao Poder Judiciário o exame dos critérios utilizados para a elaboração das questões em concurso público, bem como a respectiva interferência no mérito administrativo, sob pena de afronta ao princípio da separação dos poderes; (V) que não restou compravada a divergência jurisprudêncialnos termos previstos nos artigos 1029, §1º, do Código de Processo Civil, e 255, §1º, do Regimento Interno do STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, as assertivas de ausência de negativa de prestação jurisdicional e de queem recurso especial não cabe alegar violação à norma constitucional.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luís Felipe Salomão, DJe de 30.11.2018.
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
