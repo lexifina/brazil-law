@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de WAGNER ISRAEL BORGES DA SILVA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento do HC n. 2282669-34.2019.8.26.0000, assim ementado (fl. 86):
+"EXCESSO DE PRAZO Inocorrência Excesso de prazo na análise do pleito não constatada, não se vislumbrando, como quer fazer acreditar o impetrante, qualquer notícia de paralisação do feito ou de qualquer manobra ou desídia atribuível ao Juízo ou à acusação, razão jurídica relevante, ao menos no momento, para se reconhecer a alegada ilegalidade.
+Ordem denegada com recomendação."
+No presente mandamus, a defesa alega haver flagrante constrangimento em razão do excesso de prazo na realização do exame psiquiátrico. Sustenta, ainda, ser desnecessária a realização do referido exame.
+Requer, em liminar e no mérito, "seja determinado que o MM. Juiz de Direito da VEC de Araçatuba analise o pedido de progressão ao regime prisional semiaberto do sentenciado Wagner Israel Borges da Silva com base nos relatórios técnicos juntados ao processo de execução criminal 419.090, sem que seja necessária a realização da avaliação psiquiátrica" (fl. 16).
+Liminar indeferida às fls. 93/94.
+Informações prestadas às fls. 98/99.
+O Ministério Público Federal opinou pela denegação da ordem, conforme parecer de fls. 101/103.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Vejamos o teor do acórdão impugnado:
+"A D. Autoridade, apontada como coatora, informou que o paciente cumpre pena em regime fechado, isso em face de 3 execuções que possui por roubo majorado, sequestro e cárcere privado, com término da pena previsto para 01/09/2044.
+Informou, ainda, que a análise do presente pedido de progressão ao regime semiaberto esta dependendo da realização da avaliação psiquiátrica, que já foi requisitada, e entende o Magistrado necessária tendo em vista a natureza dos delitos praticados com violência e grave ameaça à pessoa.
+Mencionou, também, o MM. Juízo monocrático que foi noticiado pela Unidade Prisional a dificuldade de atendimento a todos os sentenciados, bem assim que não constam com médico psiquiatra na unidade, aguardando-se a designação de data e local para proceder ao referido atendimento.
+Não há constrangimento ilegal a ser reparado pelo presente remédio heroico, não se vislumbrando, como quer fazer acreditar o impetrante, qualquer notícia de paralisação do feito ou de qualquer manobra ou desídia atribuível ao Juízo ou à acusação, razão jurídica relevante, ao menos no momento, para se reconhecer a alegada ilegalidade.
+Por outro lado, forçoso reconhecer que se deve recomendar ao MM.
+Juízo a quo que se oficie, com urgência e nos rigores da lei, ao responsável pela realização do exame criminológico na Unidade em que se encontra o paciente para que referida perícia seja feita o mais breve possível.
+Posto isto, denega-se a ordem, com recomendação."
+A decisão de fl. 31 determinou em 19/6/2019 a realização de exame psiquiátrico no paciente de para a "correta elucidação do perfil do sentenciado".
+A Corte Estadual, por sua vez, manteve tal decisão afirmando não haver constrangimento ilegal e ressaltando a gravidade abstrata dos crimes, mantendo o paciente em regime fechado sem a análise do pedido de progressão, por falta de exame psiquiátrico.
+Desse modo, o Tribunal de origem divergiu da jurisprudência dominante nesta Corte Superior, no sentido de que a complementação do exame criminológico por exame psiquiátrico depende de fundamentação concreta.
+Vejamos:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. REQUISITO SUBJETIVO. GRAVIDADE DO DELITO E DURAÇÃO DA PENA. EXAME CRIMINOLÓGICO FAVORÁVEL. NECESSIDADE DE MOTIVAÇÃO CONCRETA PARA INFIRMÁ-LO. EXIGÊNCIA DE PARECER PSIQUIÁTRICO COMPLEMENTAR. AUSÊNCIA DE FUNDAMENTAÇÃO ADEQUADA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. De acordo com a regra do art. 112 da Lei de Execuções Penais, com a redação que lhe deu a Lei n. 10.792/2003, ao indeferir a progressão de regime prisional, porque não cumprido o requisito subjetivo, o julgador deve fazê-lo de forma motivada em dados concretos da execução da pena, não se podendo cercar de elementos ou circunstâncias não previstos na lei de regência.
+2. A Corte a quo pode discordar da conclusão favorável do exame criminológico, desde que o faça a partir de uma motivação concreta, e não com argumentos genéricos, o quais, por si sós, não são hábeis a infirmar os elementos de convicção que, em seu conjunto, comprovam a existência do requisito subjetivo necessário à concessão da progressão de regime pleiteada.
+3. Conforme entendimento desta Corte, "não há necessidade de complementação do exame com parecer psiquiátrico, na medida em que a primeira perícia concluiu que o paciente está "buscando sua reinserção social, de forma satisfatória". Ademais, a providência não foi recomendada por nenhum setor técnico da unidade e não foi demonstrada qualquer evidência de que o sentenciado seja portador de distúrbio mental que justifique a intervenção de profissional da psiquiatria" (HC 399.139/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/10/2017, DJe 30/10/2017).
+4. Agravo regimental improvido (AgRg no HC 456.436/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 12/03/2019).
+Assim, verifica-se a ausência de fundamentação idônea no acórdão impugnado que manteve a determinação de realização de exame psiquiátrico antes da análise do pedido de progressão de regime. Destaque-se que à época do acórdão impugnado (9/3/2020) já havia mora de pelo menos 10 meses na realização a perícia.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração. Contudo, concedo a ordem de habeas corpus de ofício para determinar ao Juízo das Execuções que analise o pedido de progressão de regime formulado pelo paciente independentemente da realização do exame psiquiátrico.
+Publique-se.
