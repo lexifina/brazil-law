@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de NILMARC FERNANDES DOS SANTOS JUNIOR, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOassim ementado (fl. 31):
+Habeas corpus. FURTO. Pretendida revogação da prisão preventiva. Inadmissibilidade. Reiteração delitiva. Custódia necessária para a garantia da ordem pública. Pandemia de COVID-19 que não autoriza a liberação automática de presos .Ordem denegada.
+A defesa alegaque a fiança arbitrada pelo delegado de polícia foi cassada, sem fundamentos idôneos, estando assimausentes os requisitos mantenedores da segregação cautelar, bem como a inobservância da Recomendação CNJ n. 62/2020.
+Requer a revogação da prisão preventivapara que o paciente permaneçaem liberdade até o trânsitoem julgado,expedindo-se alvará de soltura.
+O pedido de liminar foi indeferido (fls. 205-206).
+O Ministério Público Federal manifestou-se pela denegação da ordem(fls. 227-229).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Para a decretação da prisão preventiva, é indispensável a demonstração da existência de prova da materialidade do crime e de indícios suficientes da autoria. Exige-se que, mesmo com lastro probatório, a decisão se ajuste às hipóteses excepcionais previstas abstratamente na norma  (art. 312 do CPP) e que seja comprovada ainda a imprescindibilidade da medida (AgRg no RHC n. 122.247/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+No caso em apreço, o impetrante não logrou êxito em afastar osrequisitos acima, porquanto, a Corte de origem expôs o seguinte (fls. 31-32):
+Segundo a decisão que decretou a prisão preventiva dopaciente, ele é reincidente pela prática do crime de roubo majorado e tem outras duas condenações definitivas, além do que estava cumprindo pena em regime aberto quando de sua prisão em flagrante (fls. 77/79).
+Portanto, pela reiteração delitiva demonstrada, a prisão se mostra necessária para a garantia da ordem pública.
+O paciente já demonstrou que as medidas cautelares diversas da prisão são insuficientes para conter seu ímpeto de cometer crimes. Assim, era mesmo caso de cassação da fiança arbitrada pela autoridade policial, como decidido pelo Juízo.
+Ademais, o entendimento acima está em consonância com a jurisprudência do STJ de que não há constrangimento ilegal em negar ao réu o direito de recorrer em liberdade quando remanescerem os fundamentos que ensejaram a custódia cautelar, principalmente se, durante toda a instrução criminal, ficou preso provisoriamente (HC n. 463.428/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 9/4/2019).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o paciente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+Confira-se o que registrou o Tribunal de origem ao analisar referido pleito (fl. 32):
+No mais, a Recomendação nº 62, de 17/03/2020, do CNJ, que trata da pandemia "COVID-19", prevê algumas medidas como a reavaliação de prisões provisórias, nos termos do art. 316 do CPP, bem como modificações nos prazos de saída temporária e possibilidade de concessão de prisão domiciliara pessoas presas em regime aberto e semiaberto, assim também a indivíduos com diagnóstico suspeito ou confirmado da doença.
+Não há recomendação para a soltura automática de presos, ainda que sejam pessoas do grupo de risco.
+Assim, como não foram demonstradas as situações descritas, não se verifica desrespeito à Recomendação CNJ n. 62/2020.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
