@@ -1,0 +1,25 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Tentativa de homicídio. Prisão preventiva. Excesso de prazo. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 621.299, em tramitação no Superior Tribunal de Justiça.
+    2. Extrai-se dos autos que o paciente – cuja prisão temporária foi decretada em 13.09.2018 – foi denunciado e pronunciado pelo crime previsto no art. 121, § 2º, IV, c/c o art. 14, II, do Código Penal.
+    3. Inconformada com a prisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado do Rio de Janeiro (TJ/RJ). Denegada a ordem, sobreveio nova impetração de HC no Superior Tribunal de Justiça. O Relator do HC 621.299, Ministro Antonio Saldanha Palheiro, indeferiu a medida cautelar.
+    4. Neste habeas corpus, a parte impetrante sustenta (i) ausência de fundamentação idônea para a decretação da custódia preventiva e (ii )excesso de prazo para a conclusão da instrução criminal. Daí o pedido de concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    5. Decido.
+    6.  O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do STF e de decisões teratológicas.
+    7. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    8. As peças que instruem os autos não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a imediata revogação da prisão preventiva. Transcrevo, nesse sentido, as seguintes passagens do acórdão do Tribunal estadual:
+    “[...]
+    Além disso, de acordo com as informações prestadas pelo Juízo a quo, a falta de juntada da petição de pedido de relaxamento da prisão por excesso de prazo e de apreciação, para fins do disposto no artigo 316, parágrafo único do CPP, se deu em virtude de impossibilidade técnica, uma vez que o processo se encontrava com remessa aberta para o Tribunal, não se verificando, portanto, recusa da autoridade apontada como coatora.
+    No que concerne à reavaliação da necessidade de manutenção da custódia cautelar, nota-se que até o presente momento não houve qualquer alteração fática ou jurídica a ensejar a revisão da decisão que manteve a prisão preventiva, estando presentes os requisitos autorizadores da referida medida.
+    Conforme narrado na peça acusatória, a vítima estava saindo de sua residência, quando apareceu um indivíduo, encapuzado, e esta pessoa efetuou um disparo de arma de fogo que lhe atingiu. Disse ainda que entrou em luta corporal com o atirador e conseguiu tirar o capuz que o mesmo usava, oportunidade em que o reconheceu como sendo o paciente. Acrescentou que também foi atingida pelo paciente, com uma ‘coronhada’ na cabeça, e que ao fugir do local correndo, ouviu mais dois disparos de arma de fogo desferidos por ele.
+    O modo como o delito foi praticado evidencia a periculosidade do paciente, justificando seu acautelamento para garantia da ordem pública.
+    Ademais, a custódia cautelar deve permanecer no escopo de assegurar a instrução criminal, evitando-se interferências indevidas na colheita da prova. Com efeito, é necessário que, na sessão plenária, a vítima e as testemunhas prestem seus depoimentos com tranquilidade, notadamente em se tratando de c rime praticado mediante violência contra a pessoa.
+    Presentes os indícios suficientes de autoria e a prova da existência do crime, assim como a necessidade da custódia do paciente para garantia da ordem pública e pela conveniência da instrução criminal, a prisão cautelar deve ser mantida, não sendo caso de substituição por outras medidas previstas no artigo 319 do CPP, pois não seriam suficientes para garantia da coletividade e da instrução criminal.
+    [...]”.
+    9. Quanto ao mais, o STF já decidiu que eventual demora injustificada na tramitação da ação penal depende das condições objetivas da causa (complexidade da causa, número de acusados e a necessidade de expedição de cartas precatórias, por exemplo).
+    10. No caso, tal como assentou o TJ/RJ, “somente não foi designada a sessão plenária, em virtude da interposição dos recursos defensivos, que embora integrem o direito à ampla defesa do paciente, levam à dilatação da marcha processual. (...) Nesse contexto, observa-se que a ação penal vem tramitando regularmente, sem que se evidencie desídia do Magistrado a quo ou retardo injustificado na condução do feito, pelo que não se constata o alegado excesso de prazo”.
+    11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 10 de fevereiro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
