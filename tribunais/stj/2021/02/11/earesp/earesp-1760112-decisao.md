@@ -1,0 +1,34 @@
+DECISÃO
+Vistos.
+Trata-se de Agravo nos próprios autos do ESTADO DO RIO GRANDE DO NORTEobjetivando a reforma da decisão de inadmissão do Recurso Especial, porquanto incide, por analogia, a Súmula n. 280 do Supremo Tribunal Federal(fls. 342/344e).
+Sustenta-se a presença dos pressupostos de admissibilidade do recurso especial (fls. 350/352e).
+Com contraminuta (fls. 357/373e), os autos foram encaminhados a esta Corte.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu,aplica-se ao Agravo o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV, do Código de Processo Civil de 2015, combinado com o art. 34, XVIII, b, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+O tribunal de origem, ao manifestar-se acerca da matéria ora impugnada, assim consignou (fl. 315e):
+O art. 85, § 19 do CPC prevê que "os advogados públicos perceberão honorários de sucumbência,nos termos da lei".
+No âmbito deste Estado, a regulamentação foi estabelecida no art. 5º da Lei Complementar Estadual nº 558/2018, segundo o qual:
+Art. 5º A verba honorária devida aos representantes judiciais do Estado do Rio Grande do Norte, incluídas as autarquias e as fundações públicas estaduais, oriunda dos processos jurisdicionais ou administrativos, terá sua destinação estabelecida por Resolução do Conselho Superior da Procuradoria Geral do Estado do Rio Grande do Norte.
+Tal destinação restou finalmente especificada na atual redação dada à Resolução nº002/2016-CS/PGE, que indicou para tanto a conta corrente de titularidade da Associação dos Procuradores do Estado do Rio Grande do Norte - ASPERN, aberta exclusivamente para essa finalidade.
+Sendo assim, os honorários advocatícios sucumbenciais constituem direito autônomo do advogado, no caso, os Procuradores do Estado, de sorte que não poderia o recurso ser interposto unicamente pelo Estado, mas pelos próprios Procuradores, como beneficiários e titulares dos honorários, na condição de terceiros interessados em eventual provimento do apelo.
+Depreende-sedoacórdão transcrito ter sido a lide julgada à luz de interpretação de legislação local, qual seja, aLeiComplementar Estadualn.558/2018.
+Com efeito, da forma como definido pelo tribunal de origem, imprescindível seria a análise da lei local para o deslinde da controvérsia, providência vedada em sede de recurso especial.
+Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial".
+Nesse sentido:
+PROCESSO CIVIL. RECURSO ESPECIAL. LEI LOCAL.
+Se a reforma do julgado demanda a interpretação de lei local, o recurso especial é inviável (STF, Súmula nº 280). Agravo regimental não provido.
+(AgRgnoAREsp325.430/PE, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 27/05/2014,DJe03/06/2014)
+IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA (IRPJ). SUBVENÇÃO PARA INVESTIMENTO. PRODEC. LEI LOCAL. SÚMULA 280/STF.
+1. Verifica-se que a demanda foi dirimida com base em Direito local, incasu, na legislação estadual catarinense (Lei 3.342/05 e no Decreto 704/07). Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário." 2. Agravo Regimental não provido.
+(AgRgnoREsp1.433.745/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/04/2014,DJe22/04/2014).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Assim, considerando que a interposição de embargos de divergência não instaura nova instância recursal (v.g. AgInt nos EAREsp 726.917/RJ, Corte Especial, Rel. Min. Jorge Mussi, DJe de 06/02/2018 e AgInt nos EAREsp 802.877/RS, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 09/05/2017), reconsidero a decisão anteriormente proferida, apenas para excluir a majoração de honorários anteriormente imposta.
+In casu, impossibilitada a majoração de honorários nos termos do art. 85, § 11, do Código de Processo Civil de 2015, porquanto não houve anterior fixação de verba honorária em desfavor da parte recorrente.
+Posto isso, com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, do RISTJ, NEGO PROVIMENTO ao Agravo em Recurso Especial.
+Publique-se e intimem-se.
