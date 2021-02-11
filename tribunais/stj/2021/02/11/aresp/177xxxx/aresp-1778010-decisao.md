@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por VALDEMAR FERREIRA PIMENTA contra decisão que negou seguimento ao seu recurso especial, fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão proferido pela TerceiraCâmara Cível do Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 492):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. EMBARGOS A EXECUÇÃO. TEMPESTIVIDADE. SENTENÇA CASSADA. 1  São tempestivos os embargos à execução opostos espontaneamente antes da citação do sócio Presidente designado no contrato social da pessoa jurídica. 2 - Ausentes argumentos relevantes que demonstrem o desacerto dos fundamentos utilizados na decisão recorrida, nega-se provimento ao Agravo Interno. Agravo interno conhecido e desprovido.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 519/524).
+O agravante sustenta, nas razões de recurso especial, ofensa aos arts. 248, § 2º, e 918, I, do Código de Processo Civil, bem como divergência jurisprudencial,alegando que deve ser aplicada ao caso a teoria da aparência para reconhecimento da validade da citação da pessoa jurídica ré, efetuada em apenas um de seus sócios, e o consequente reconhecimento da intempestividade dos embargos à execução.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal de origem reconheceu a tempestividade dos embargos à execução pelos seguintes fundamentos (fls. 486/487):
+Com efeito, a citação realizada somente na pessoa do sócio Renato Sobrosa Cordeiro (sócio Diretor), no caso, não é capaz de perfectibilizar o ato em razão da total ausência de citação do Diretor Presidente da empresa agravada, Sr. João Carlos de Andrade Uzeda Accioly, como determina o contrato social.
+Frise-se que, quando da oposição dos embargos, ainda não havia sido realizada a citação do Diretor Presidente por edital, razão pela qual os embargos revelam-se tempestivos. Assim, se a oposição dos embargos à execução ocorreu de forma espontânea antes mesmo da realização da citação por edital, nota-se que não subsiste a tentativa de ocultação alegada pelo ora recorrente. Portanto, correta a decisão que cassou a sentença e determinou o prosseguimento da lide, inexistindo mácula passível de reprimenda.
+Desse modo, verifico que encontra-se correta a decisão agravada ao obstar o recurso especial pela incidência da Súmula 7 do STJ, eis que a análise das alegações aviadas nas razões do recurso e a reforma do acórdão recorrido impõem reexame de matéria fática da lide, vedado nesta sede nos termos do mencionado verbete.
+Anoto, de outro lado, que a aplicação do referido óbice impede o conhecimento do recurso também em relação ao dissídio jurisprudencial.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
