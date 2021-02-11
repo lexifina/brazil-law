@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por TRATENGE ENGENHARIA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por TRATENGE ENGENHARIA LTDA, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+AGRAVO DE INSTRUMENTO AÇÃO DE COBRANÇA FASE DE CUMPRIMENTO DE SENTENÇA PENHORA JUÍZO DETERMINAÇÃO 5% DO FATURAMENTO DA EMPRESA EXECUTADA ARGUIÇÃO NULIDADE DO COMANDO ARGUMENTO DECISÃO SURPRESA ARTS 9 10 E 853 DO CPC INOCORRÊNCIA MEDIDA INERÊNCIA AOS ATOS EXECUTIVOS CREDORA ESGOTAMENTO DAS MEDIDAS ORDINÁRIAS PARA A LOCALIZAÇÃO DE BENS DECISÃO COMBATIDA MANUTENÇÃO AGRAVO NÃO PROVIDO.
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação do arts. 835, X e 866 do CPC, no que concerne à violação da ordem de preferência para a penhora em sede de cumprimento de sentença, bem como o não exaurimento pela busca de outros bens antes que se procedesse a penhora sobre seu faturamento, traz o(s) seguinte(s) argumento(s):
+(..) não poderia o Magistrado ter deferido a penhora sobre o faturamento bruto mensal da empresa, pois deixou de observar a ordem de preferência constante no artigo 835 do CPC.
+Note-se, apenas no inciso X do art. 835 do CPC há a previsão da penhora de percentual do faturamento da empresa devedora para pagamento das dívidas contraídas pela sociedade empresária.
+Trata-se, portanto, de medida excepcional, que, para sua determinação, deve preencher certos requisitos.
+Ou seja, para que seja deferida a penhora sobre percentual de faturamento da empresa, deve-se comprovar a inexistência de outros bens (..) para somente então ser deferida a penhora de percentual do faturamento da empresa.
+A excepcionalidade da medida se depreende da leitura do caput do art. 866 do CPC (..) (fls. 178).
+No presente caso, não foram esgotados todos os meios para localização de bens passíveis de penhora, tanto que não houve a realização de pesquisa de bens imóveis junto ao ARISP, e ainda eventuais aplicações financeiras, devendo assim diligenciar-se o credor nesse sentido. (fls. 179).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A exequente persegue a cobrança de R$ 23.876,45 (fls. 1 dos autos principais). Não localizou ativos que suportassem a satisfação da dívida (fls. 81/88 e 89/489 dos autos principais). Se por um lado a execução se processa pelo meio menos gravoso ao devedor, por outro há de atender aos interesses do credor, visando à eficácia da prestação jurisdicional. (fls. 171).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
