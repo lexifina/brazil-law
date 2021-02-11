@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por NOSSA SENHORA DA VITORIA TRANSPORTE LTDAcontra decisão do Tribunal de Justiça do Estado de Sergipeque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 361):
+APELAÇÃO CÍVEL - RESPONSABILIDADE CIVIL - SERVIÇO DE TRANSPORTE PÚBLICO - O AUTOR ESCORREGOU NAS ESCADAS E PRENDEU O POLEGAR NO FERRO PRÓXIMO A PORTA, SENDO ELE DECAPITADO, POIS O ÔNIBUS ARRANCOU ANTES DO MESMO DESCER COM SEGURANÇA - VEÍCULO DE PROPRIEDADE DE EMPRESA PRESTADORA DE SERVIÇO PÚBLICO. COMPROVAÇÃO - TEORIA OBJETIVA - RISCO ADMINISTRATIVO - ART. 37, § 6º DA CF/88 - DEVER DE INDENIZAR - PRESENTES OS ELEMENTOS DA RESPONSABILIDADE CIVIL - DANO MORAL EVIDENCIADO - CONDUTA ILÍCITA DA EMPRESA REQUERIDA QUE OCASIONOU A PERDA DO DEDO DO AUTOR. FIXAÇÃO DO VALOR DE R$ 20.000,00 QUE SE MOSTRA ADEQUADO PARA COMPENSAR O DANO SOFRIDO, QUE ALÉM DE TER PERDIDO O DEDO FOI RECONHECIDA SUA INVALIDEZ PELO INSS - MAJORAÇÃO DOS HONORÁRIOS RECURSAIS DE 15% PARA 17% - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial a parte alega ofensa aoseguintedispositivolegal: art. 489, § 1º, inciso IV,do CPC.
+Sustenta preliminarmente que "no ordenamento jurídico a inversão do ônus da prova é uma hipótese de exceção à regra geral do processo civil, imputando à parte contrária a prova de não constituir o direito do autor da demanda, e sabe-se ainda que quando da inversão do ônus probandi caberá ao réu produzir todas as provas que possam ilidir as alegações autorais, portanto, quando da inversão do ônus, deveria este juízo ter se manifestado de todas as provas requeridas pela empresa recorrente" (e-STJ, fl. 379).
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob avigência da Lei 13.105/2015, razão por que o juízo de admissibilidade érealizado na forma deste novo édito, conforme Enunciado Administrativo nº3/STJ.
+Extrai-se do acórdão recorrido que "primeiramente, quanto à alegação de cerceamento de defesa, pela necessidade de realização de perícia, não merece prosperar, pois o juízo analisou e sopesou os elementos probatórios contidos nos autos e chegou à conclusão de que havia consistência conclusiva para o julgamento" - fl. 362.
+É de se observar que, com base noprincípio da livre persuasão racional,o deferimento ou não de produção ou complementação de provas é ato norteado pela discricionariedade regrada do julgador, podendo ele decidir, motivadamente, sobre as diligências que julgar necessárias ou não ao deslinde da questão.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE ALUGUERES. VIOLAÇÃO AO ART.535 DO CPC E CERCEAMENTO DE DEFESA NÃO CONFIGURADOS. CONEXÃO. CAUSAS COM VÍNCULO DE IDENTIDADE. RELAÇÕES JURÍDICAS QUE SE APOIAM EM FATO ÚNICO. JULGAMENTO SIMULTÂNEO. ECONOMIA PROCESSUAL E PRESERVAÇÃO DO PRESTÍGIO DAS DECISÕES PROFERIDAS. DISCRICIONARIEDADE RELATIVA DO JUÍZO.
+1.  ..
+2. O art. 330, I, do CPC/1973 esclarece que é facultado ao juízo proferir sentença, desde que não haja necessidade de produzir provas em audiência. Também, o art. 131 - do mesmo diploma legal - cuida do princípio da livre persuasão racional, que estabelece caber ao magistrado avaliar as provas requeridas e rejeitar aquelas que protelariam o andamento do processo, em desrespeito ao princípio da celeridade processual.
+3.  ..
+9. Agravo interno não provido.
+(AgInt nos EDcl no AgInt no AREsp 479.470/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/09/2019, DJe 24/09/2019)
+Sendo assim, rever o posicionamento da Corte local e entender, como quer a parte recorrente, que o indeferimento de produção de prova pericial se deu sem a devida fundamentação demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 17% sobre o valor atualizado da condenação (e-STJ fl. 363), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 19% sobre o valor atualizado da condenação é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial, com majoração de honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. RESPONSABILIDADE CIVIL. NEGATIVA DO PEDIDO DE PRODUÇÃO DE PROVAS PERICIAIS. DISCRISCIONARIEDADE DO JULGADOR. PRINCÍPIO DA LIVRE PERSUASÃO RACIONAL. NEGATIVA DEVIDAMENTE FUNDAMENTADA. REVER O POSICIONAMENTO DA CORTE LOCAL DEMANDA O REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
