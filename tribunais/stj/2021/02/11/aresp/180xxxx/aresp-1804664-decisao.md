@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por WILLIAN DE ASSUNCAO VIEGAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por WILLIAN DE ASSUNCAO VIEGAS, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+TRÁFICO DE DROGAS. PROVA. DECLARAÇÕES POLICIAIS. PROPÓSITO DE COMÉRCIO CONFIGURADO. CONDENAÇÃO. RESTITUIÇÃO DE VEÍCULO APREENDIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 63-B da Lei nº 11.343/06, no que concerne à comprovação da origem lícita do bem apreendido e o conseqüente direito à sua liberação, trazendo os seguintes argumentos:
+"No que concerne ao caso em tela, primeiramente, cabe dizer que há evidente negativa de vigência ao artigo 63-B da Lei 11.343/06 que expressamente prevê o levantamento da constrição judicial sobre bens de origem lícita comprovada, nesta senda, se afigura plenamente razoável a aplicação ao caso concreto.
+Conforme, se depreende da simples verificação do acórdão recorrido está expressamente detalhada a união uníssona de todas as testemunhas a confirmar a origem lícita do bem recolhido na oportunidade da autuação do acusado.
+Sendo assim, declarar o perdimento do bem em razão da decisão vergasta denota a negativa de efetividade ao dispositivo legal retromencionado, o que conduz à evidente negação de direito concedido por Lei" (fl. 316).
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado por WILLIAN DE ASSUNCAO VIEGAS, quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Avultando o fato consistente em que o veículo apreendido em poder do acusado constitui instrumento do crime de tráfico de drogas, impositiva sua perda em favor da União, como determinado em primeiro grau de jurisdição (sentença, fl. 197)" (fl. 290/291).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal, no propósito de infirmar as conclusões do acórdão recorrido, demandaria, a toda evidência, o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
