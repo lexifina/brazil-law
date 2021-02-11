@@ -1,0 +1,42 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÁLCULOS PERICIAIS. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. VEDAÇÃO DA SÚMULA 7/STJ.
+1. O Tribunal a quo assentou que a parte não logrou êxito em elidir as conclusões do perito, bem como asseverou que o laudo oficial estaria de acordo com a coisa julgada, apontando, ademais, que a pretensão objetivava a rediscussão de questões já cristalizadas pelo referido instituto.
+2. O acolhimento da tese recursal de que os cálculos periciais estariam equivocados e ensejariam excesso de execução, enriquecimento ilícito e violação à coisa julgada demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA desafiando decisão que conheceu em parte do recurso especial e, na parte conhecida, negou-lhe provimento, em razão da não ocorrência de negativa de prestação jurisdicional e do óbice da Súmula 7/STJ.
+Em suas argumentações, o agravante registra, inicialmente, que, "no tocante à alegada contrariedade aos dispositivos apontados, assiste razão à decisão agravada, pois, de fato, o Tribunal a quo fundamentou suficientemente seu acórdão, enfrentando adequadamente as questões trazidas pela autarquia federal" (fl. 105).
+Por sua vez, quanto aos cálculos periciais, alega a inaplicabilidade da vedação sumular, sob o argumento de que se trata de "questão que não demanda qualquer incursão em matéria probatória, podendo ser resolvida a partir de uma apreciação de contornos jurídicos, sem nenhuma consideração de caráter probatório ou nenhuma avaliação de fatos" (fl. 106).
+Aduz que "não se insurgiu contra os cálculos da Contadoria Judicial em si, mas, sim, com relação à inclusão de juros de mora em conta de atualização dos valores executados" (fl. 107). Requer, desse modo, a reconsideração do decisum, ou o provimento do agravo para que o recurso especial seja submetido ao julgamento colegiado.
+Disponibilizada vista à parte agravada (fl. 111), transcorreu in albis o prazo para impugnação (fls. 114/115).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÁLCULOS PERICIAIS. COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. VEDAÇÃO DA SÚMULA 7/STJ.
+1. O Tribunal a quo assentou que a parte não logrou êxito em elidir as conclusões do perito, bem como asseverou que o laudo oficial estaria de acordo com a coisa julgada, apontando, ademais, que a pretensão objetivava a rediscussão de questões já cristalizadas pelo referido instituto.
+2. O acolhimento da tese recursal de que os cálculos periciais estariam equivocados e ensejariam excesso de execução, enriquecimento ilícito e violação à coisa julgada demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, conforme constou no decisum singular, o acórdão a quo assentou que a parte não logrou êxito em elidir as conclusões do perito, bem como asseverou que o laudo oficial estaria de acordo com a coisa julgada, apontando, ademais, que a pretensão objetivava a rediscussão de questões já cristalizadas pelo referido instituto. Confira-se (fls. 32/33):
+Com efeito, não havendo convergência entre os cálculos formulados pelas partes litigantes nos autos do processo principal, em relação à planilha de cálculo confeccionada pelo Perito Judicial, devem ser prestigiados os valores encontra dos por este último, que, no particular, ostenta fé pública, detém a presunção juris tantum quanto a sua correção, não possui interesse particular na demanda, além do que, seguiu os parâmetros adotados pelo acórdão transitado em julgado.
+Desse modo, concordando que deve ser reconhecido como correto o laudo da Contadoria do Juízo, utilizando a base de 0,5 de juros moratórios ao mês, por serem suas conclusões equidistantes dos interesses das partes litigantes, e merecerem seus cálculos fé de oficio, entendo que o mesmo deve ser considerado.  ..
+Ressalto ainda, que se afigura incabível a rediscussão de matéria que já se encontrava definida no título executivo judicial, coberta pela eficácia da coisa julgada.  ..
+Assim, com estas considerações, nego provimento ao agravo inominado.
+Cabe observar que os trechos do acórdão recorrido acima citados revelam que o acolhimento da tese recursal de que os cálculos periciais estariam equivocados e ensejariam excesso de execução, enriquecimento ilícito e violação à coisa julgada demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSO CIVIL. AMBIENTAL. DEMOLIÇÃO DE EDIFICAÇÃO. ÁREA DE PRESERVAÇÃO PERMANENTE. VIOLAÇÃO DO ART. 128 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. AFRONTA À COISA JULGADA. SÚMULA 7/STJ. FALTA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.  ..
+3. Para se aferir a existência de violação da coisa julgada, faz-se necessário avaliar o título judicial formado nos autos da ação demolitória, confrotando-o com os limites da presente demanda. Contudo, tal providência não é permitida na seara extraordinária, pois os elementos da demanda anteriormente ajuizada integram o acervo probatório da presente lide, o que atrai o óbice da Súmula 7/STJ.  ..
+5. Agravo interno conhecido em parte e, nessa extensão, não provido.
+(AgInt no AREsp 1.426.175/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 1/6/2020, DJe 8/6/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDÃO ADMINISTRATIVA. IMPLANTAÇÃO DE LINHA DE TRANSMISSÃO DE ENERGIA ELÉTRICA. VALOR DA INDENIZAÇÃO. APRECIAÇÃO DO LAUDO PERICIAL A CRITÉRIO DO MAGISTRADO. PREVALÊNCIA DO LAUDO OFICIAL. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. JUROS COMPENSATÓRIOS E MORATÓRIOS. ACÓRDÃO RECORRIDO COM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. SÚMULA 126/STJ.
+1. Quanto ao valor da indenização, o Tribunal de origem, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que o laudo pericial não apresenta falhas. Nesse sentido: "Assim, verifica-se que o laudo efetuou adequado cotejo das variáveis necessárias à avaliação da área, sob os parâmetros do art. 27 do Decreto-lei nº 3.365/41, além de adotar a metodologia comparativa de dados de mercado, não havendo motivos para afastar sua credibilidade" (fl. 907, e-STJ).
+2. Infirmar as conclusões do julgado, como ora postulado, demanda o revolvimento do suporte fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+3. O acórdão recorrido está em sintonia com o entendimento do STJ de que a base de cálculo dos juros compensatórios, nos termos do art.33, § 2º, do Decreto-Lei 3.365/1941, é a diferença entre 80% do valor inicialmente depositado e a indenização judicialmente fixada.
+4. Quanto ao percentual dos juros compensatórios e ao termo inicial de incidência, ao decidir a questão, o Tribunal de origem se embasou em preceitos constitucionais e infraconstitucionais. Contudo, contra o aresto impugnado foi interposto unicamente o presente Recurso Especial, deixando a ora recorrente de apresentar Recurso Extraordinário ao STF. Permanecem incólumes os fundamentos constitucionais do decisório recorrido, suficientes para mantê-lo.Incide o óbice da Súmula 126/STJ.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 17.897.83/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/3/2019, DJe 23/4/2019)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
