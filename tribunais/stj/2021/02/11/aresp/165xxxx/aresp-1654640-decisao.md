@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de ofensa aos artigos de lei apontados e (b) inviabilidade de suspender o feito (e-STJ fls. 104/105).
+O acórdão do Tribunal de origem está assim ementado (e-STJ fl. 71):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DA SENTENÇA - Descabimento da suspensão da execução - A homologação nos autos do Recurso Extraordinário nº 632.212, pelo Ministro Gilmar Mendes, apenas diz respeito ao objeto daquele recurso, qual seja, o Plano Collor II - A presente demanda refere-se ao Plano Verão - Ausência de cláusula no acordo coletivo homologado acerca da suspensão das execuções individuais cm curso - Recurso provido.
+Nas razões do recurso especial (e-STJ fls. 81/96), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação:
+(a) dos arts. 313, IV, 1.036 e 1.035 do CPC/2015, alegando que o processo deveria ser suspenso, pelo prazo de 24 (vinte e quatro) meses, seguindo, por equiparação, a decisão proferida pelo Supremo Tribunal Federal no RE n. 632.212/SP ,
+(b) do art. 313, IV, do CPC/2015, defendendo a suspensão do processo, ante a repercussão geral do tema, e
+(c) do art. 1.036, § 1º do CPC/2015, afirmando que "houve determinação expressa dos Tribunais Superiores no sentido de suspender os processos que tenham por objeto matéria sobre os expurgos inflacionários do Plano Verão e que foi (ou deveria ser) acatado pelos Tribunais de Justiça" (e-STJ fl. 94).
+No agravo (e-STJ fls. 108/125), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+O TJSP entendeu, ante a decisão proferida pelo STF no RE n. 632.212/SP, não ser devido suspender o processo que não tem por objeto o recebimento de expurgos inflacionários do Plano Collor II, mas do Plano Verão, tendo em vista que (e-STJ fls. 72/73):
+Aos 31 de outubro de2018, nos autos do recurso extraordinário n. 632.212/SP, o Ministro Relator Gilmar Mendes, por decisão monocrática determinou a suspensão de todos os processos nos quais se discute os expurgos inflacionários, referentes aos planos econômicos, nos seguintes termos:
+"Nesses termos, entendo necessária a suspensão de todos os processos individuais ou coletivos em fase de conhecimento ou execução, que versem sobre a questão , pelo prazo de 24 meses a contar de 5.2.2018, data em que homologado o acordo e iniciado o prazo para a adesão dos interessados" (grifamos)
+Todavia, aludido r. decisum apenas aplica-se aos processos pertinentes ao Plano ColIor II (1 991), pois proferido no recurso extraordinário, cujo objeto é o direito à diferença de correção monetária de depósitos em caderneta de poupança por alegados expurgos inflacionários decorrentes do Plano Collor II (tema 285), como constou na decisão exarada aos 5 de fevereiro de 2018.
+O sobrestamento dos feitos relacionados às poupanças teve como fundamento o "Instrumento de Acordo Coletivo" , celebrado pelo IDEC e diversas Associações, cujo trabalho de mediação foi conduzido pela Advocacia Geral da União.
+A cláusula terceira ao mencionado instrumento estabeleceu corro objeto do acordo a "transação amigável na qual os bancos pagarão aos poupadores correspondentes aos Expurgos Inflacionários (..) daqueles que aderirem a este ACORDO".
+Ao homologar a aludida avença, no recurso extraordinário n. 632.212, aos 05 de fevereiro de 201 8, o Ministro Gilmar Mendes já havia determinado o sobrestamento do feito, por "24 (vinte e quarto) meses, de modo a possibilitar que os interessados  , querendo  interessados, manifestem a adesão à proposta nas respectivas ações, perante os Juízos de origem competentes".
+Posteriormente, o Ministro reiterou a ordem de suspensão, diante da petição protocolizada pelo Banco do Brasil S/A. e pela Advocacia Geral da União, na qual foi noticiado que o prosseguimento das ações prejudica a adesão dos poupadores ao acordo.
+A Corte local assentou ainda que a suspensão do processo por 24 (vinte e quatro) meses, nos termos do acordo coletivo celebrado entre IDEC e diversas associações, não era medida imposta para que os poupadores prolongassem a execução instaurada, tendo em vista que (e-STJ fls. 73/75):
+Respeitado o entendimento do Ministro Gilmar Mendes , os termos do acordo judicial não estabeleceram a suspensão das execuções individuais, mas, tão somente, o prazo de24 (vinte e quatro) meses para que os poupadores possam aderir ao pactuado.
+Como constou na cláusula 8ª do referido instrumento:
+"8.1. A adesão individual de poupadores deverá ocorrer em até 24 (vinte e quatro) meses contados da implementação da condição suspensiva tratada em 6.3, acima .
+8.2. Decorrido o prazo estabelecido no item anterior, os litígios individuais nos quais não tenha havido adesão a este ACORDO pelo respectivo autor ficam sujeitos ao prosseguimento normal das demandas para solução judicial que vier a ser adotada, sem, contudo, sofrer os efeitos deste ACORDO. (grifamos).
+Sobre a aludida cláusula, o Ministro Relator ADP F n º 165 , Ricardo Lewandowski teceu as seguintes considerações :"Suscitou-se que a previsão estaria prolongando, por mais dois anos ,a suspensão processual à qual estão sujeitas as as ações relativas aos planos econômicos heterodoxos. Entretanto, a leitura atenta da cláusula em questão, revela que ela não prevê a suspensão das ações durante o prazo de adesão ao acordo.
+O que ela prevê é, apenas, que decorrido o prazo de 24 (vinte e quatro) meses, não será mais possível aderir ao acordo, caso em que as ações judiciais prosseguirão em seu normal andamento. Como não foram as partes que convencionaram a suspensão dos processos, não teriam elas competência para fazer persistir ou cessar a suspensão."
+(..)
+Com efeito, inexiste qualquer disposição no acordo a respeito da suspensão dos processos que discutem o direito ao recebimento dos expurgos inflacionários.
+A Justiça de origem ainda frisou que (e-STJ fl. 76):
+Ressalte-se que, a despeito de o Acordo tratar de todos os planos econômicos, a homologação nos autos do Recurso Extraordinário n. 632.212, pelo Ministro Gilmar Mendes, apenas diz respeito ao objeto daquele recurso, qual seja, o PI ano Collor II (1 99 1), como, aliás, constou expressamente do Comunicado Conjunto n. 05/201 8, publicado no Diário da Justiça Eletrônico, aos 10 de dezembro de 2018:
+A respeito de tal razão de decidir, suficiente para manter o acórdão recorrido, o recorrente não se manifestou, o que atrai a aplicação da Súmula n. 283/STF, por analogia, como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
