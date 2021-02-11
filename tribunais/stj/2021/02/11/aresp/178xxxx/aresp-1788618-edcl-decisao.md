@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE, à decisão de fls. 192/193, que não conheceu do recurso.
+Sustenta a parte embargante que:
+6. Considerando as suspensões de prazo pela COVID-19 (fls.
+91 dos autos - doc. 2), o prazo para interposição do Recurso Especial iniciou somente em 01/06/2020:
+ ..
+7. No curso do prazo havia ainda as suspensões dos dias 11/06/2020 (Feriado de Corpus Christi - Lei Federal nº 9.093/95) e 12/06/2020 (Ponto facultativo - Decreto Estadual nº 47.111/2020), as quais também foram devidamente demonstradas às fls. 96 (doc. 3), de forma que o prazo venceria apenas em 23/06/2020:
+ ..
+8. Com efeito, a única suspensão que poderia ser questionada pelo C. STJ seria a do dia 12/06/2020, já que decorrente de Decreto Estadual. A suspensão do dia 11/06/2020 decorre de Lei Federal e todo o período de maio há certidão própria do TJRJ comprovando as suspensões de prazo, em consonância com a Resolução CNJ nº 313/2020 (fls. 199/200).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Veja-se que houve a publicação da decisão do acórdão recorrido em 15/5/2020 (fl. 74). Excluindo-se o dia 15/5/2020 (primeiro dia), bem como o período até o dia 31/5/2020, conforme devidamente comprovado à fl. 90, inicia-se a contagem no dia 1º/6/2020, finalizando o prazo em 19/6/2020.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 19/6/2020, sendo que o recurso especial foi interposto somente em 22/6/2020, fora do prazo.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Não se desconhece o documento juntado às fls. 90/91, porém é insuficiente para afastar a intempestividade do recurso.
+No caso, o calendário ou mera relação de feriados juntados às fls. 92/97, sem o inteiro teor do respectivo ato normativo, não têm o condão de afastar a intempestividade do recurso.
+A propósito: AgInt no AREsp 1521541/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/3/2020; AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019; AgInt no AREsp 1158537/SP, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 8/8/2018.
+Ademais, ao contrário do alegado pela parte embargante, o dia 11/6/2020 (Corpus Christi), não encontra-se elencado no rol dos feriados civis previstos na Lei n.º 9.093/1995.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
