@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/15.
+1. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e deixando o agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+3. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por AREZZO INDUSTRIA E COMERCIO S.A., contra decisão unipessoal, proferida pelo Ministro Presidente do STJ, que não conheceu do agravo em recurso especial que interpusera, em razão da sua intempestividade.
+Ação: de cobrança, cumulada com indenização por danos materiais, ajuizada pelaCENTRAL II SERVICOS EM VENDAS LTDA., em face da agravante, decorrente de contrato de representação comercial.
+Sentença: julgou parcialmente procedente o pedido.
+Acórdão: negou provimento à apelação interposta pelaagravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/CINDENIZAÇÃO. CONTRATO DE REPRESENTAÇÃO COMERCIAL. PRESCRIÇÃO AFASTADA. RELAÇÃO JURÍDICA ENTRE AS PARTES DEMONSTRADA. COMISSÕES. PERCENTUAL REDUZIDO UNILATERALMENTE. DESCABIMENTO. INDENIZAÇÕES DEVIDAS. HONORÁRIOS RECURSAIS. 1. Conf. parágrafo único do artigo 44 da Lei n.4.886/65, a ação do representante comercial para pleitear direitos inerentes ao tempo de sua representação, bem como os demais direitos que lhe são assegurados por lei, prescreve em 05 (cinco)anos, a partir do término do contrato. In casu, encerrando-se o contrato pactuado entre as partes em 2010, a prescrição operar-se-ia no ano de 2015. Todavia, a ação originária foi protocolizada, em26/02/2014, sendo a citação efetivada, em 23/04/2014, não há que se falar em prescrição. 2. Ressai do conjunto factual/probatório contido no processo que a relação jurídica entre a Apelada/A. e o Apelante/R. é de "representação comercial", sendo aquela ligada a esta, conf. Lei 4.886/65.3. No processo ficou evidenciado que o serviço prestado pela Apelada/A. está contemplado no item "2" da cláusula, do que ressai o percentual de 5% (cinco) do valor das vendas. Tal percentual foi reduzido, indevida e unilateralmente, pela Apelante/R., a partir de 2002 para 4% (quatro por cento) até 2010, ano em que se deu o encerramento aludido contrato. 4. Devem ser recalculados os valores devidos a título de pré-aviso correspondente a um terço (1/3) das comissões auferidas pela representante, nos três meses anteriores e indenização por rompimento contratual de1/12 (um doze avos) do total da retribuição auferida durante o tempo em que exerceu a representação. 5. Deixa-se de arbitrar os honorários recursais, porquanto, foi reconhecida a sucumbência recíproca na origem, conf. limite estabelecido no art. 85, § 2º, do CPC RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+Agravo interno no agravo em recurso especial: a agravante afirma que houve suspensão do prazo recursal nodia11/06/2020, em virtude de feriado nacional,e que é possível a comprovação posterior da tempestividade recursal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CPC/15.
+1. O art. 1.003, § 6º, do CPC/15, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+2. Considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e deixando o agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial daagravante, tendo em vista a sua intempestividade, nos termos da seguinte fundamentação:
+Mediante análise do recurso de AREZZO INDUSTRIA E COMERCIO S.A., a parte Recorrente foi intimada da decisão agravada em 26/05/2020, sendo o agravo somente interposto em 17/06/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5.º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Pela análise das razões recursais apresentadas, verifica-se que aagravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+De fato, compulsando os autos, verifica-se que o agravo em recurso especial é inadmissível por ser intempestivo, pois a decisão agravada foi considerada publicada no Diário de Justiça Eletrônico no dia 26/05/2020 e o agravo em recurso especial somente foi interposto em 17/06/2020.
+A Corte Especial, ao concluir o julgamento do AREsp 957.821/MS, consolidou o entendimento no sentido de que o art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", assim, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+Ressalte-se que o dia do servidor público (28 de outubro), a segunda-feira de carnaval, a quarta-feira de cinzas, os dias que precedem à sexta-feira da paixão e o dia de Corpus Christi não são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem.
+Por conseguinte, considerando que o agravo em recurso especial foi interposto sob a égide do novo regramento processual e deixando a agravante de comprovar a ocorrência de feriado local quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+A decisão agravada, portanto, não merece reforma.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
