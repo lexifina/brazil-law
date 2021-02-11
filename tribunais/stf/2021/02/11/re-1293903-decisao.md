@@ -1,0 +1,20 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão do Tribunal de Justiça do Estado do Amapá, assim ementado (eDOC 10, p. 1):
+    “ADMINISTRATIVO E PROCESSO CIVIL - APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA- CARGO COMISSIONADO - CONTRATAÇÃO FORA DAS HIPÓTESES AUTORIZATIVAS PREVISTAS NA CONSTITUIÇÃO FEDERAL - DIREITO A SALDO DE SALÁRIO, GRATIFICAÇÃO NATALINA E TERÇO DE FÉRIAS. 1) Malgrado a contratação do servidor público tenha ocorrido fora das hipóteses previstas constitucionalmente, serão devidas as verbas relativas ao saldo de salário, gratificação natalina e terço de férias, porquanto se tratam de direitos sociais assegurados a todos os servidores, inclusive aqueles contratados a título precário. 2) Apelo do autor parcialmente provido e recurso do réu não provido.”
+    Os embargos de declaração foram rejeitados (eDOC 14, p. 1).
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa ao artigo 37, IX, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que o recorrido não faz jus ao pagamento das verbas sociais, quais sejam, as férias e décimo-terceiro salário, uma vez que a relação jurídica estabelecida entre o autor e a Administração foi do tipo precária (eDOC 19, p. 13-14).
+    A Presidência do TJ/AP admitiu o recurso extraordinário (eDOC 23).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, reconheceu a natureza administrativa do vínculo estabelecido entre o ora recorrido e a Administração Pública, além de não ter declarado a nulidade do contrato de trabalho, garantindo, assim, que o Recorrente seja condenado ao pagamento do terço de férias em favor da parte recorrida (eDOC 10, p. 5-6).
+    Desse modo, observa-se que o entendimento do TJ/AP está em consonância com a jurisprudência do Supremo Tribunal Federal. Nesse sentido:
+    “Ementa: AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITOS SOCIAIS. DÉCIMO TERCEIRO PROPORCIONAL. FÉRIAS PROPORCIONAIS. EXTENSÃO AOS CONTRATOS TEMPORÁRIOS. PRECEDENTES. AGRAVO DESPROVIDO. 1. São extensíveis aos servidores contratados temporariamente (art. 37, IX, CF) os direito sociais previstos no art. 7º da Constituição da República. Precedentes. 2. Agravo regimental a que se nega provimento.” (RE 775.801-AgR, de minha relatoria, Primeira Turma, DJe 2.12.2016).
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 2. Servidor público contratado em caráter temporário. Renovações sucessivas do contrato. Aplicabilidade dos direitos sociais previstos no art. 7º da CF, nos termos do art. 37, IX, da CF. Direito ao décimo-terceiro salário e ao adicional de férias. 3. Discussão acerca do pagamento dobrado das férias. Questão de índole infraconstitucional. 4. Ausência de argumentos capazes de infirmar a decisão agravada. 5. Agravo regimental a que se nega provimento.” (ARE 681.356-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 17.9.2012).
+    Ademais, importante ressaltar que a presente controvérsia não guarda semelhança com a do RE-RG 596.478 (Tema 191), de relatoria da Min. Ellen Gracie, com a do RE-RG 705.140 (Tema 308), de relatoria do Min. Teori Zavascki e nem com a do RE-RG 765.320 (Tema 916), de relatoria do Min. Teori Zavascki, referentes à sistemática da repercussão geral, porquanto a hipótese de incidência dos mencionados Temas 191, 308 e 916 abrangem os casos de contrato declarado nulo, situação diversa da narrada nos presentes autos, em que não foi reconhecida a nulidade da contratação.
+    Vejam-se, a respeito, as seguintes decisões monocráticas: ARE 1.119.314, de minha relatoria, DJe 24.04.2018 e ARE 1.119.318/RS, Rel. Min. Marco Aurélio, DJe 23.05.2018.
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, b, do CPC, e 21, § 1º, do RISTF.
+    Publique-se.
+    Brasília, 11 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
