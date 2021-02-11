@@ -1,0 +1,71 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por PORTO SEGURO CIA DE SEGUROS GERAIS contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 166 e-STJ):
+ACIDENTE DE TRÂNSITO. RESSARCIMENTO DE DANOS. SEGURO. AÇÃO REGRESSIVA. 1. Se a parte autora não faz prova boa e cabal do fato constitutivo do seu direito o pedido improcede. Inteligência do art. 373, I, do CPC. 2. A dúvida ou insuficiência de prova quanto a fato constitutivo milita contra a parte autora. Sentença mantida. Recurso desprovido, com majoração da verba honorária (art. 85. § 11. do CPC).
+Opostos embargos de declaração (fls. 173-183 e-STJ), esses foram rejeitados (fls. 185-190 e-STJ).
+Em suas razões de recurso especial (fls. 192-209 e-STJ), a parte recorrente aponta que o acórdão recorrido violou os seguintes dispositivos legais: artigos 373, inc. I, 374, inc. II e III, do Código de Processo Civil de 2015; 34, 44 do Código de Trânsito Brasileiro; e 5º, inc. LV, da Constituição Federal, sob os argumentos, em síntese, de houve cerceamento de defesa nos autos e que foi ignorada a presunção de culpa do recorrido, ante a aplicação da inversão do ônus da prova na espécie.
+Alegou, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 244-247 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 248-250 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob os seguintes fundamentos: a) não ter sido demonstrada a vulneração aos dispositivos legais apontados como violados; b) incidência do óbice da Súmula 7/STJ; e c) no tocante a alínea "c" do art. 105 da Constituição Federal, não foram atendidos os requisitos previstos no art. 1.029, § 1º, do CPC/15, e no parágrafo único do art. 255 do RISTJ.
+Daí o agravo (fls. 253-268 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 271-275 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. De início, com relação à apontada violação ao art. 5º da Constituição Federal, observa-se que em recurso especial não cabe invocar ofensa à norma constitucional, razão pela qual o presente recurso não pode ser conhecido nesse ponto.
+2. No que respeita à afronta ao disposto nos artigos 34 e 44 do Código de Trânsito Brasileiro, incide, na espécie, o óbice da Súmula 211/STJ, ante a ausência de prequestionamento da matéria, porquanto, mesmo após o julgamento dos embargos de declaração, não tiveram o competente juízo de valor aferido, nem interpretada ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Nas razões do especial deixou a insurgente de apontar eventual violação do artigo 1.022 do CPC/15, razão pela qual incide, na espécie, a Súmula 211 desta Corte, de seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Saliente-se que a falta do prequestionamento do artigo supramencionado também inviabiliza a análise da tese de divergência jurisprudencial a ele relacionada.
+3. No mais, com relação à alegada violação aos artigos 373, inc. I, 374, inc. II e III, do Código de Processo Civil de 2015, cinge-se a pretensão recursal à verificação acerca da ocorrência de cerceamento de defesa, ante o julgamento antecipado da lide, e da comprovação do fato constitutivo do direito da parte autora.
+O Tribunal de origem, com base na análise dos elementos fáticos e probatórios dos autos, primeiramente, afastou a tese de cerceamento de defesa, consignando que (fls. 167-168 e-STJ):
+Ora, não há que se falar em cerceamento de defesa, posto que a oitiva do condutor do veículo segurado, sem compromisso, nos termos do §4º, do art. 447 do CPC, seria mera reprodução de sua declaração constante do B.O., bem como o depoimento do réu, de sorte que suas oitivas foram corretamente afastadas pela eminente juíza sentenciante.
+Ademais, com o protesto genérico "por qualquer outra prova oral ou documental suplementar"" (fls. 117), sem demonstrar em nenhum momento, a utilidade e o cabimento, para o julgamento da demanda da prova que pretendia produzir, não pode ser reconhecido o cerceamento de defesa, por inexistir qualquer razão que justifique a anulação da sentença.
+De fato, não demonstrou a apelante quais outras testemunhas que poderiam ser ouvidas, bem como a relevância de cada uma delas, ou seja, o que cada um dos depoimentos poderia modificar no que restou decidido na sentença recorrida. No tocante à prova documental, nos termos do artigo 434 do CPC, cabia-lhe apresentá-la com a petição inicial, ou a qualquer tempo, no caso de documento novo (CPC art. 435).
+Deste modo, não há que se reconhecer o cerceamento de defesa, pois, de acordo com as alegações tecidas no recurso, realmente não se fazia necessária a realização de outras provas.
+Efetivamente, à luz do artigo 130 do CPC/73 (atual 370 do NCPC), cabe ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias à instrução do processo, indeferindo as diligências inúteis ou meramente protelatórias.
+Assim, o poder de instrução, conferido ao magistrado em decorrência dos princípios da livre admissibilidade da prova e do livre convencimento motivado, autoriza-o a indeferir as provas requeridas, quando constatada sua manifesta desnecessidade ou inconveniência, o que não configura cerceamento de defesa.
+2.1. Nesse contexto, nos termos da jurisprudência desta Corte Superior, a revisão do entendimento do Tribunal de origem acerca da não ocorrência de cerceamento de defesa no caso concreto, reclama, necessariamente, o reenfrentamento do conjunto fático-probatório dos autos, o que é vedado, na via do recurso especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DO DIREITO DE DEFESA. NECESSIDADE DA PRODUÇÃO DAS PROVAS CONSTATADA PELO TRIBUNAL DE ORIGEM. REVER A CONCLUSÃO. IMPOSSIBILIDADE. REEXAME DE PROVA. SÚMULA 7 DO STJ. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+2. A análise quanto à ocorrência de cerceamento de defesa pode ser dirigida ao Tribunal local, que, com base nos elementos de prova, conclui pela necessidade de produção da prova testemunhal. Rever essa conclusão é inviável no âmbito do recurso especial, ante o disposto no enunciado n. 7 da Súmula do STJ: "A pretensão de simples reexame de provas não enseja recurso especial."
+3. Agravo interno improvido.
+(AgInt no AREsp 1066155/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 03/08/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE CANCELAMENTO DE TRANSCRIÇÃO. EMBARGOS DE TERCEIROS. CERCEAMENTO DE DEFESA. PRODUÇÃO PROBATÓRIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. IMPOSSIBILIDADE. COISA JULGADA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A pretensão de verificar se o indeferimento de produção probatória ensejou cerceamento de defesa somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ. Precedentes.
+2. A pretensão de verificar se violada ou não a coisa julgada somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1504751/MT, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/04/2018, DJe 03/05/2018)
+3. No mais, a Corte estadual concluiu que, no caso em tela, não restou comprovado o fato constitutivo do direito do autor, decidindo que (fls. 168-170 e-STJ):
+No mérito, o recurso também não merece prosperar, devendo subsistir a sentença que, com total acerto, bem observou que:
+"Entretanto, o requerente deixa de provar as questões de fato e de direito constados na exordial, pois para que a seguradora tenha o direito de regresso contra o causador do dano, é necessário à comprovação de que o terceiro foi quem causou o dano, e o requerente não demonstrou que o requerido foi quem causou o dano." (fls. 127).
+De fato, em que pese o acidente ter ocorrido em um cruzamento, estando o apelado em via secundária, não há como reconhecer a sua culpa pelo acidente.
+No Boletim de Ocorrência, ambos os condutores deram a sua versão do acidente, nestes termos: (..).
+E de acordo com a foto do local (fls. 17), à época do acidente, a faixa de pedestre mencionada se encontra após a sinalização de pare, já na Rua Treze de Junho.
+Ademais, de acordo com os pontos de impacto discriminados no Boletim de Ocorrência (fls. 19), por certo o apelado já havia feito parte da curva para adentrar na Rua Treze de Junho, uma vez que colisão ocorreu na parte dianteira esquerda do caminhão e lateral direita do veículo segurado (fls. 21).
+Assim, dada a versão de que o apelado parou para que uma grávida passasse na faixa de pedestres, somada ao fato de que referida faixa era na Rua Treze de Junho, conforme fotografia de fls. 17, bem como que o condutor do carro segurado o avistou parado antes mesmo de iniciar o cruzamento, não há como reconhecer a culpa do réu pelo acidente, como quer fazer crer a seguradora.
+Ademais, o fato do apelado ter realizado um acordo, por si só, não á capaz de responsabilizá-lo pelo acidente, não caracterizando uma confissão de culpa.
+E a própria apelante questiona a existência do acordo, como se depreende do presente recurso: "A respeito da aludida transação, não existe nos autos nenhuma prova de que de fato tenha havido tal acordo," (fls. 142).
+Dessa forma, a pretensão indenizatória deduzida pela parte autora na inicial restou despida de sustentação probatória, incidindo o brocardo segundo o qual,"allegare nihil et allegatum non probare paria sunt", e a isto se refere o artigo 373, I, do Código de Processo Civil, pois é ônus da parte autora provar o fato constitutivo do seu direito. (..).
+Assim, não evidenciada a responsabilidade do réu pelo acidente noticiado, era de rigor a improcedência da ação.
+Evidencia-se, assim, mais uma vez, que a controvérsia foi decidida à luz das peculiaridades da demanda. Eventual reforma do acórdão recorrido, sobretudo na parte relativa ao exame da conclusão de que a parte autora não se incumbiu da comprovação do fato constitutivo de seu direito - demandaria o reexame das provas dos autos, juízo obstado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE EXPLORAÇÃO DE DIREITOS DE COMERCIALIZAÇÃO E VENDA DE MEDICAMENTO. TRANSFERÊNCIA DE KNOW-HOW. AÇÃO DECLARATÓRIA E COMINATÓRIA JULGADA IMPROCEDENTE.
+OMISSÃO. INEXISTÊNCIA. ÔNUS DA PROVA. DISTRIBUIÇÃO ADEQUADA. AGRAVO INTERNO IMPROVIDO.
+1. Não se verifica a alegada violação ao art. 1.022 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+2. Consoante as regras de distribuição do ônus probatório, atribui-se ao autor o ônus de provar os fatos constitutivos de seu direito, e ao réu, os fatos extintivos, modificativos ou impeditivos do direito do autor, nos termos do art. 373, I e II, do CPC/2015 (art. 333, I e II, do CPC/73).
+3. Ao analisar as provas produzidas nos autos, o Tribunal de origem consignou expressamente que a autora não se desincumbiu de comprovar os fatos constitutivos do direito alegado, e que não houve confissão ficta por parte da ré, não havendo que se falar em indevida distribuição do ônus da prova no caso.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1640331/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/09/2020, DJe 20/10/2020)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO DO ART. 333, I, DO CPC/1973. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, mediante análise da prova dos autos, asseverou não ter o autor comprovado fato constitutivo de seu crédito e que o laudo pericial concluiu que, na verdade, o réu é credor na relação jurídica em litígio. A alteração das conclusões do acórdão recorrido demandaria reexame de matéria fática, inviável em recurso especial.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 390.716/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 01/03/2018, DJe 14/03/2018)
+3.1.Por fim, destaca-se que esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+Nesse sentido, confiram-se os seguintes precedentes: AgRg no AREsp 786.906/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 16/05/2016; AgRg no AREsp 662.068/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/05/2015, DJe 22/06/2015.
+4. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, nega-se provimento ao agravo, e, com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida
+Publique-se.
+Intimem-se.
