@@ -1,0 +1,40 @@
+Decisão: Trata-se de agravo regimental interposto em face de decisão monocrática, em que neguei provimento ao agravo, nestes termos (eDOC 45):
+    “Trata-se de agravo cujo objeto é decisão que inadmitiu recurso extraordinário interposto em face de acórdão do Tribunal Regional Federal da 1ª Região, assim ementado (eDOC 16, p. 5):
+    “ADMINISTRATIVO. ANP. AUTO DE INFRAÇÃO. DNC 27/96. ILEGALIDADE DA MULTA APLICADA.
+    1. Observo que o auto de infração/interdição possui como fundamento legal a Portaria DNC 27/96 (fl. 27/28), e embora seja posterior ao advento da MP 1690-2/98, este não é seu fundamento legal.
+    2. O autuado possui o direito de saber, já no momento em que lavrado o auto de infração/interdição qual o dispositivo legal que estava violando, sob pena de infringir o princípio da legalidade estrita bem como da ampla defesa.
+    3. Apelação provida, para declarar a nulidade do auto de infração n° 006573.”
+    Os embargos de declaração foram rejeitados. (eDOC 21)
+    No recurso extraordinário, com fundamento no art. 102, III, “a”, do permissivo constitucional, aponta-se ofensa aos arts. 170, 174 e 177, § 2º, III, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “o auto de infração acostado aos autos descreve com clareza a infração cometida, suficientemente fundamentada na Portaria DNC 27/96, editada com base no Decreto - Lei n. 395/38 e nos arts. 170, 174 e 177 da CF/88.” (eDOC 25, p. 5)
+    O Tribunal de origem inadmitiu o recurso extraordinário mediante aplicação da Súmula 636 do STF. (eDOC 29)
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou que (eDOC 16, p. 2):
+    “Observo que o auto de infração/interdição possui como fundamento legal a Portaria DNC 27/96 (fl. 27/28), e embora seja posterior ao advento da MP 1690-2/98, este não é seu fundamento legal.
+    Portaria é instrumento normativo que não se presta à descrição de infrações administrativas e imposição de sanções, sob pena de maltrato ao princípio da legalidade.
+    Assim, o autuado possui o direito de saber, já no momento em que lavrado o auto de infração/interdição qual o dispositivo legal que estava violando, sob pena de infringir o principio da legalidade estrita bem como da ampla defesa. Havendo fundamentação apenas na portaria DNC 27/96, deve ser declarada a nulidade do auto de infração em questão.
+    E, para pôr fim ao debate, trago à colação os arestos abaixo transcritos, verbis:
+    (...)”
+    Na espécie, verifica-se que o Tribunal de origem apreciou a matéria à luz da legislação infraconstitucional pertinente (Portaria DNC 27/96 e MP 1690-2/98). Desse modo, a discussão referente ao fundamento legal utilizado para lavratura de infração administrativa revela-se adstrita ao âmbito infraconstitucional, tornando oblíqua ou reflexa eventual ofensa à Constituição Federal, o que inviabiliza o processamento do recurso extraordinário. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. ANP. Nulidade do auto de infração. Imposição de multa com base em portaria ministerial (60 e 61/95). 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmulas 279 e 280 do STF. 5. Ausência de prequestionamento. Súmula 282 desta Corte. Precedentes. 6. Inexistência de argumentos capazes de infirmar a decisão agravada. 7. Agravo regimental a que se nega provimento.” (ARE 813524-AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe 23.10.2018)
+    “Ementa: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. AUTO DE INFRAÇÃO. MULTA. REDUÇÃO. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DO STF. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. INOCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.” (ARE 1218300-AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe 13.9.2019)
+    Ante o exposto, nego provimento ao recurso, nos termos dos arts. 932, IV, a, do CPC, e 21, § 1º, do RISTF.
+    Deixo de aplicar art. 85, § 11, do CPC/2015, tendo em vista que o recurso foi interposto ainda sob a égide do diploma processual civil anterior”.
+    Nas razões do agravo sustenta, em síntese, que o recurso extraordinário “ não levanta qualquer debate sobre o conteúdo e a interpretação de normas legais ou infralegais. Limita-se a evidenciar, após a oposição de Embargos de Declaração, que o Decreto-lei nº 395/38, segundo a jurisprudência do STF, foi recepcionado pela Constituição de 1988 como lei ordinária. Nessa perspectiva, procura a ANP demonstrar que não há que se falar em violação ao princípio da legalidade, pois havia sim norma com status de lei ordinária, conforme entendimento do Pretório Excelso” (eDOC 47, p. 3)
+    A parte Agravada apresentou contrarrazões (eDOC 51).
+    É o relatório. Decido.
+    Após detida análise dos autos e diante dos fundamentos apresentados no agravo regimental, constato, quanto ao mérito, que assiste razão à parte Agravante.
+    De fato, o Tribunal Regional Federal da 1ª Região consignou que a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis – ANP não poderia autuar e aplicar multa à Recorrida com base em portarias, assentando que tal instrumento normativo não se presta à descrição de infrações administrativas e imposição de sanções.
+    Ocorre que, conforme jurisprudência pacífica da Corte, o Decreto-Lei nº 395/38, que fundamenta a autuação da ANP no caso, foi recepcionado como lei ordinária pela ordem constitucional vigente. Nesse sentido, especificamente acerca do tema, cito as seguintes ementas de ambas as Turmas do STF:
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ANP – AGÊNCIA NACIONAL DO PETRÓLEO. POSSIBILIDADE DE APLICAÇÃO DE MULTA. RECEPÇÃO DE DECRETO COMO LEI ORDINÁRIA PELA CONSTITUIÇÃO DE 1988. OFENSA AO PRINCÍPIO DA LEGALIDADE. INOCORRÊNCIA. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido de que o Decreto-Lei nº 395/1938 foi recepcionado como lei ordinária pela ordem constitucional vigente, de modo que a ANP (Agência Nacional do Petróleo) e o DNC (Departamento Nacional de Combustíveis) podem autuar e aplicar multa. Precedentes. 2. Agravo interno a que se nega provimento.”
+(ARE 1039542 AgR-segundo, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, DJe 08.11.18)
+    “Agravo regimental no recurso extraordinário com agravo. Constitucional. Auto de infração. Base legal. Decreto-Lei nº 395/1938. Recepção pela Constituição Federal de 1988. Precedentes. 1. A jurisprudência da Corte é no sentido de que o Decreto-Lei nº 395/1938 foi recepcionado pela ordem constitucional vigente como lei ordinária. 2. Agravo regimental não provido.” (ARE 1046163 AgR, Relator(a): Min. DIAS TOFFOLI, Segunda Turma, DJe 29.08.17)
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. DIREITO CONSTITUCIONAL. RECEPÇÃO DO DECRETO-LEI N. 395/1938 PELA CONSTITUIÇÃO DA REPÚBLICA DE 1988. RECURSO QUE NÃO APRESENTA RAZÕES APTAS A DESCONSTITUIR A DECISÃO AGRAVADA. CONTRARRAZÕES APRESENTADAS. VERBA HONORÁRIA MAJORADA EM 1%, PERCENTUAL O QUAL SE SOMA AO FIXADO NA ORIGEM, OBEDECIDOS OS LIMITES DO ART. 85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO CIVIL/2015, COM A RESSALVA DE EVENTUAL CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (RE 919032 AgR, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, DJe 26.09.16)
+    No mesmo sentido, destaco, ainda, o ARE nº 1.041.938/DF, de relatoria do Ministro Alexandre de Moraes, DJe de 27/2/18.
+    Ante o exposto, reconsidero a decisão agravada, dou parcial provimento ao recurso extraordinário para, nos termos da fundamentação, cassar o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem para que, observada a jurisprudência deste Supremo Tribunal sobre a matéria, decida como de direito.
+    Publique-se.
+    Brasília, 11 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
