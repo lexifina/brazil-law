@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por VALTER RIBEIRO DE ARAUJO ADVOGADOS ASSOCIADOS S/S contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+AGRAVO INTERNO - PROCESSO CIVIL - NEGATIVA DE SEGUIMENTO EM RECURSO ESPECIAL - DECISÃO NÃO FUNDADA NO ART. 1.030, I OU III, do CÓDIGO DE PROCESSO CIVIL - RECURSO MANIFESTAMENTE INCABÍVEL - NÃO CONHECIMENTO.
+A decisão do Vice-Presidente que nega seguimento a Recurso Especial enseja, como regra a interposição de AGRAVO ao SUPERIOR TRIBUNAL DE JUSTIÇA (art. 1.030, § 1º, do Código de Processo Civil). Apenas excepcionalmente, caso a decisão combatida esteja fundada no art. 1.030, I ou III, do mesmo Codex, será cabível a interposição de AGRAVO INTERNO.
+Agravo Interno a que se nega conhecimento, ante ausência de hipótese de cabimento do recurso interposto e constatação de manifesta inadmissibilidade.
+Quanto à controvérsia, alega violação dos arts. 1020 e 1021, do Código de Processo Civil, no que concerne ao agravo interno não conhecido na origem, trazendo os seguintes argumentos:
+O Acórdão recorrido deve ser REFORMADO por esta Corte, pois o Recorrente manejou Agravo Interno para combater a decisão monocrática que negou o pedido de justiça gratuita feito pelo Recorrente no corpo do Recurso Especial que interpôs anteriormente E NÃO PARA COMBATER DECISÃO QUE HAVIA NEGADO SEGUIMENTO AO RECURSO ESPECIAL, que sequer existia.
+Daí que o TJ/MS, pelo Acórdão recorrido, contrariou os artigos 1021 e 1030 do CPC.
+Vejam, doutos Ministros, que a decisão contra a qual foi manejada Agravo Interno não combatia decisão que havia negado seguimento ao Recurso Especial e sim decisão monocrática que havia negado a justiça gratuita ao Recorrente.
+Portanto, resta patente o equívoco do Acórdão recorrido, tendo os mesmos contrariando os comandos de lei federal aqui indicados (fl. 1.282).
+É, no essencial, o relatório. Decido.
+Na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
