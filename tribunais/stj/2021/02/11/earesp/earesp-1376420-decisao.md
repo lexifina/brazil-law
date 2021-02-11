@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos contra acórdão proferido pela Terceira Turma, assim ementado (e-STJ fl. 3.812):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+AGRAVO INTERNO NÃO CONHECIDO.
+O embargante sustenta, em suma, o que segue (e-STJ fl. 3.857):
+Eméritos Julgadores, os acórdãos acima reproduzidos, demonstram o sedimentado posicionamento desse Egrégio STJ, em absoluta consonância com o posicionamento adotado pelo TJDFT, que de forma inequívoca entendem que havendo a questão alusiva a condições da ação e pressupostos processuais, sido decidida na prolação do DESPACHO SANEADOR, e contra ela não se insurgindo a parte prejudicada com a interposição do recurso competente, e no presente caso os réus tiveram suas pretensões analisadas pelo DESPACHO SANEADOR, e assim deveriam ter se insurgido sob a forma da interposição de Agravo de Instrumento, sendo indene de dúvidas que os argumentos até ali utilizados pelos réus, invocando na contestação, a inépcia da inicial, a prescrição, o indeferimento da petição inicial em face do valor dado a causa, e a alegação de que o imóvel objeto do litígio era insuscetível de usucapião pelo equivocado entendimento de que o imóvel era público até a data de lavratura da Escritura Pública de compra e venda em Março de 1968, e sedimentando seu pleito com base nos artigos 182, Par. 3º. e 191, Par. Único da Constituição Federal de 1988, todos esses temas foram objeto de análise no DESPACHO SANEADOR, e devidamente rechaçados, como dito no item anterior, com o reconhecimento expresso do juízo monocrático, de que encontravam-se presentes as condições da ação e os pressupostos processuais necessários ao conhecimento do cerne da
+demanda, que era a existência de evicção, e apenas demandando como matéria probante pendente de elucidação, as questões que envolveram a negociação de aquisição do imóvel, e designando para isso a realização de audiências para a oitiva de testemunhas e depoimento pessoal das partes.
+É o relatório. Passo a decidir.
+Como cediço, os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano nos moldes estabelecidos no art. 266 do RISTJ.
+Sob esse enfoque, o recurso não merece prosperar, na medida em que o mérito do recurso especial não foi apreciado no acórdão embargado, que aplicou o impedimento da Súmula n. 182/STJ. Logo, deve incidir o entendimento cristalizado na Súmula n. 315/STJ, no sentido de que: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+À guisa de exemplo, colhe-se o seguinte julgado:
+PROCESSUAL CIVIL. CADEIA RECURSAL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Agravo interno não provido (AgInt nos EAREsp 1.403.945/RJ, Relator Ministro Benedito Gonçalves, Corte Especial, DJe 3/12/2020).
+Ante o exposto, não conheço dos embargos de divergência, nos termos do art. 34, XVIII, "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO ANALISOU O MÉRITO DO APELO NOBRE. SÚMULA 315/STJ. EMBARGOS DEDIVERGÊNCIA NÃO CONHECIDOS.
