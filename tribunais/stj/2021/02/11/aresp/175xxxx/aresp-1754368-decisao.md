@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. TELEFONIA. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE ACOLHEU EM PARTE A IMPUGNAÇÃO. INSURGÊNCIA DA REQUERIDA. ALMEJADA UTILIZAÇÃO DO VALOR PATRIMONIAL DA AÇÃO (VPA) INFORMADO EM MÊS POSTERIOR À EMISSÃO ACIONÁRIA. IMPOSSIBILIDADE. AÇÕES EMITIDAS PELA TELEBRÁS. BALANCETE DIVULGADO TRIMESTRALMENTE. IMPERIOSA APLICAÇÃO DO VALOR PATRIMONIAL VIGENTE NOTICIADO NOS MESES ANTERIORES À EFETIVA INTEGRALIZAÇÃO. DECISÃO MANTIDA. ALEGADO EXCESSO DE EXECUÇÃO. NÃO OCORRÊNCIA. UTILIZAÇÃO DE TRANSFORMAÇÕES ACIONÁRIAS REFERENTES À TELESC. AÇÕES EMITIDAS PELA TELEBRÁS. TÍTULOS ACIONÁRIOS QUE APRESENTAM DESVALORIZAÇÃO EXPRESSIVA E APENAS FORAM MANTIDOS EM DECORRÊNCIA DA LIQUIDAÇÃO FRUSTRADA DA ESTATAL. INVIABILIDADE DE PENALIZAR O ACIONISTA PELO INSUCESSO DA DISSOLUÇÃO DA EMPRESA. NECESSIDADE DE MANUTENÇÃO DOS CÁLCULOS CONFORME A METODOLOGIA DESENVOLVIDA PELA CORREGEDORIA-GERAL DA JUSTIÇA. PRECEDENTES DESTA CORTE.PRETENDIDA RETIRADA DOS VALORES REFERENTES À RESERVA ESPECIAL DE ÁGIO. POSSIBILIDADE. INEXISTÊNCIA DE COMANDO EXPRESSO NA AÇÃO DE CONHECIMENTO. RECURSO PROVIDO NOS PONTOS.IMPERIOSA ABSTENÇÃO DA HABILITAÇÃO DO CRÉDITO NA RECUPERAÇÃO JUDICIAL. TÍTULO QUE AINDA NÃO SE PERFAZ LÍQUIDO. RECURSO CONHECIDO EM PARTE E PARCIALMENTE PROVIDO.
+Rejeitaram-se os embargos de declaração opostos ao acórdão.
+Em seu recurso especial, a parte ora agravante alega que o acórdão recorrido contrariou os artigos 502, 503, 508 e 1.022 do Código de Processo Civil (CPC) de 2015.
+Reclama de negativa de prestação jurisdicional.
+Aponta ofensa à coisa julgada.
+Alega que "o Tribunal entende que deve ser aplicado o VPA do trimestre da data da integralização, contudo, mantém a utilização do VPA de junho de 1987 para contrato integralizado em julho de 1987, quando deve ser utilizado o VPA divulgado no referido mês da integralização, haja vista que a Telebrás, empresa emissora das ações, divulga apenas balancetes trimestrais, válidos para o mês da divulgação e os dois meses anteriores".
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+Inicialmente, verifico que não há omissão alguma ou ausência de fundamentação na apreciação das questões suscitadas.
+Ressalte-se que não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões proferidas pela origem.
+Esclareça-se, também, que não se traduz em omissão a motivação contrária ao interesse da parte ou que deixe de se pronunciar acerca de pontos considerados irrelevantes.
+Observe-se, ainda, que "A jurisprudência é firme no sentido de que os embargos de declaração, ainda que opostos com o objetivo de prequestionamento visando à interposição de recursos nos Tribunais Superiores, não podem ser acolhidos quando inexistentes omissão, contradição ou obscuridade na decisão recorrida"" (EDcl no AgInt no AREsp 156.220/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/2/2018, DJe 27/2/2018).
+No caso, o acórdão recorrido não se ressente de falta de clareza, nem padece de obscuridade, tampouco apresenta erros materiais, lacunas ou contradições.
+Adiciono que a finalidade da jurisdição é alcançar a composição da lide, não discutir teses jurídicas nos moldes expostos pelas partes.
+Ao solucionar a controvérsia, o Tribunal de origem assim dispôs:
+Defende a demandada, o equívoco na utilização do valor patrimonial da ação (VPA) utilizado pelo contador do juízo.
+Contudo, razão não lhe assiste.
+É que, na hipótese, as ações do contrato n. 275924 foram emitidas pela Telebrás (p. 115) que, de fato, não possuía balancetes mensais, mas sim trimestrais. No caso, como o título em cumprimento determinou a utilização do balancete mensal da data da integralização, aplica-se o último balançopatrimonial apresentado, que, na hipótese, refere-se ao mês de junho de 1987.
+Como se vê, o Tribunal de origem consignou que o título exequendo determinou a utilização do balancete mensal da data da integralização, devendo ser aplicado o último balanço patrimonial apresentado, o que está de acordo com a jurisprudência do STJ, firmada no sentido de que "A existência de critério, no título exequendo, para o cálculo do valor patrimonial da ação (VPA) impede a alteração posterior, com base na edição da Súmula n. 371/STJ, em respeito ao instituto da coisa julgada"(AgInt no AREsp 991.777/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 1/8/2017).
+Incide na espécie, o óbice da Súmula 83/STJ. A propósito:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. SUCEDÂNEO RECURSAL. JUSTIÇA DO JULGADO RESCIDENDO. SÚMULA 343/STF. PRELIMINARES AFASTADAS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. COMPLEMENTAÇÃO DE AÇÕES. ADOÇÃO DO VALOR PATRIMONIAL DA AÇÃO NA FASE DE CUMPRIMENTO DO JULGADO.APLICAÇÃO DA SÚMULA 371/STJ. VIOLAÇÃO À COISA JULGADA. INEXISTÊNCIA.IMPROCEDÊNCIA.
+1. Preliminares rejeitadas, estando apto o feito à apreciação do mérito.
+2. Não viola a coisa julgada a incidência do critério de cálculo da complementação de ações em contratos de participação financeira de telefonia que observa o disposto na Súmula 371/STJ, quando aplicado na fase de cumprimento do julgado sem que a decisão obtida na fase cognitiva tenha determinado a apuração por meio diverso, como na espécie dos autos.
+3. "Nos contratos de participação financeira para a aquisição de linha telefônica, o Valor Patrimonial da Ação (VPA) é apurado com base no balancete do mês da integralização" (Súmula 371/STJ).
+4. Ação rescisória improcedente.
+(AR 5.427/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, REPDJe 12/11/2020, DJe 3/11/2020).
+Ademais, a reforma dessa conclusão demandaria reexame de matéria fática, o que é inviável em recurso especial. Incide, no ponto, a Súmula 7 do Superior Tribunal de Justiça (STJ).
+Em face do exposto,nego provimento ao agravo.
+Intimem-se.
