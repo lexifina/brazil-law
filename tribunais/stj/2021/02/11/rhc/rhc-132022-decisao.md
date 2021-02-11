@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por SAMUEL DAS GRAÇAS ROCHA, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.070279-3/000).
+O recorrente teve a prisão em flagrante convertida em preventiva por suposta prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade de entorpecentes apreendidos e nos maus antecedentes (fls. 83-84).
+Sustenta que o decreto prisional não foi devidamente fundamentado e que não estão presentes os requisitos para a decretação da prisão preventiva.
+Aduz que a custódia não seria proporcional à eventual pena a ser aplicada e que faz jus às medidas cautelares diversas da prisão ante os predicados pessoais.
+Requer, inclusive liminarmente, a sua imediata soltura com ou sem a imposição de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido às fls. 191-192.
+O Ministério Público manifestou-se pelo não provimento do recurso ordinário em habeas corpus (fls. 258-260).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 147):
+Conforme se infere dos autos, o paciente foi preso em flagrante delito, sob a acusação de ter praticado o crime de trafico de drogas e associação parra o trafico, eis que policiais militares receberam informação anônima de trafico pelo paciente, sendo que o menor JPAR seria quem vendia a droga para o acusado, a denúncia indicava inclusive o local onde o acusado guardava as drogas (embaixo de uma pedra) o que foi confirmado, visto ao chegarem ao local os militares encontraram o paciente com o pé em cima de uma pedra, e após buscas embaixo desta encontraram 16 (dezesseis) porções de maconha. Apesar da negativa do acusado o menor JPAR confessou a pratica da mercancia ilícita com Samuel.
+Vale frisar, ainda, como bem salientado pelo Magistrado Singular que "o indiciado é reincidente em crime doloso e sua ficha é maculada por inúmeros crimes ao longo de sua vida, ainda que seja esta a primeira vez que se envolve com tráfico de drogas".
+No presente caso, a quantidade de entorpecentes e os maus antecedentes do recorrente foram considerados para a prisão preventiva.
+O entendimento acima está em consonância com a jurisprudência do STJ, de que a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ainda, em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+Por fim, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do recorrente não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+Quanto à alegada desproporção entre a prisão preventiva e a suposta pena e regime a ser aplicada, a jurisprudência do STJ firmou-se no sentido de que "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
