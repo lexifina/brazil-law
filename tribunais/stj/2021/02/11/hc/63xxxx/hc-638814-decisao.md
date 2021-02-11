@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ANDREAZO ANCHIETA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2255361-86.2020.8.26.0000).
+Consta dos autos que o paciente cumpre pena, atualmente no regime fechado, de 20 anos de reclusão pelo delito de latrocínio. A defesa postulou a prisão domiciliar ao argumento de que o paciente estaria inserido no grupo de risco da Covid-19, tendo em vista que "é portador de DOENÇA GRAVE (portador de úlcera, reumatismo, sopro e alergia a ovo..)" - e-STJ fl. 6.
+O pedido, entretanto, foi indeferido pelo Juízo da execução.
+Inconformada, a defesa impetrou habeas corpus na origemcuja ordem foi denegada pelo Tribunal de Justiça (e-STJ fls. 19/26).
+Repisa a defesa, neste writ, as alegações da impetração originária e destaca que a Recomendação n. 62/2020 volta-se às pessoas presas em situação de vulnerabilidade, caso do paciente, que, embora em cumprimento de pena em regime fechado, padece de comorbidades.
+Requer, inclusive liminarmente, a concessão da prisão domiciliar ao paciente.
+Liminar indeferida às e-STJ fls. 41/42.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 72/76).
+É o relatório.
+Decido.
+Conforme relatado, a impetração busca a concessão da prisão domiciliar ao paciente ante a atual pandemia de Covid-19.Todavia, não verifico a existência do constrangimento ilegal alegado.
+Consta do art. 5º, III, da Recomendação n. 62/2020 do Conselho Nacional de Justiça o seguinte:
+Art. 5º Recomendar aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+ ..
+III - concessão de prisão domiciliar em relação a todos as pessoas presas em cumprimento de pena em regime aberto e semiaberto, mediante condições a serem definidas pelo Juiz da execução.
+Como se vê, a aludida recomendação, no ponto, diz respeito aos presos em regime aberto e semiaberto, de modo que o paciente não se enquadra na excepcionalidade mencionada, já que cumpre pena alta (20 anos de reclusão), no regime fechado, pelo cometimento de crime grave (latrocínio).
+Não se pode ignorar, outrossim, a fundamentação deduzida pelo Juízo das Execuções Penaissegundo a qual "não há nos autos elemento que demonstre a existência de risco concreto, no presídio onde se encontra, maior do que aquele suportado pelas pessoas em geral, que estão em meio livre, de contrair o coronavírus (COVID19)" (e-STJ fl. 32).
+Registre-se que, em razão da atual pandemia de Covid-19 e ante os reiterados esforços do Poder Público para conter a disseminação do novo coronavírus, inclusive nas unidades prisionais, esta Casa vem olhando com menor rigor para os variados casos que chegam a ela, flexibilizando, pontualmente, sua jurisprudência na hipótese de crimes praticados sem violência ou grave ameaça e/ou que não revelem, ao menos num primeiro momento, uma maior gravidade e uma periculosidade acentuada do agente, o que não corresponde ao caso dos autos, em que se está diante de paciente que cumpre alta pena, em regime fechado, por crime grave.
+É de relevo mencionar, também, que o Poder Público não se quedou inerte diante da situação. O Conselho Nacional de Justiça já publicou a Recomendação n. 62/2020, pela qual adotou medidas preventivas à propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos sistemas de justiça penal e socioeducativo. O Ministério da Justiça e o Ministério da Saúde também publicaram a Portaria Interministerial n. 7, adotando uma série de medidas para o enfrentamento da situação emergencial.
+A propósito do tema, pontuou o Ministro Rogerio Schietti que "a crise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ide ia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal" (HC n. 567.408/RJ, DJe de 23/3/2020).
+O entendimento exarado pelo Ministério Público Federal vai ao encontro da conclusão ora alcançada. Eis a ementa do aludido parecer (e-STJ fl. 113):
+HABEAS CORPUS. EXECUÇÃO DEFINITIVA. PEDIDO DE CONCESSÃO DE PRISÃO DOMICILIAR. RECOMENDAÇÃO CNJ 62/2020. INEXISTÊNCIA DE COMPROVAÇÃO DE SITUAÇÃO EXCEPCIONAL DE RISCO EPIDEMIOLÓGICO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. A apresentação de habeas corpus como substitutivo de recurso próprio, embora descabida (consoante diretriz fixada pela Terceira Seção no HC 535.063/SP), é indiretamente autorizada por essa Corte Superior quando se verifica a existência de ilegalidade que possa conduzir à concessão da ordem de ofício (ausente na espécie).
+2. A Recomendação CNJ nº 62/2020 não é norma de caráter cogente e não criou espécie de direito subjetivo à prisão domiciliar, de observância obrigatória. É uma orientação aos juízes e aos Tribunais e deve ser interpretada com razoabilidade, ponderados o cenário de surto da doença e as condições de cada ambiente carcerário, conforme indica o próprio Conselho Nacional de Justiça.
+3. Na hipótese, não restou comprovada situação excepcional de risco epidemiológico capaz de efetivamente agravar o quadro de saúde do paciente, inexistindo evidências de que a unidade prisional em que recolhido seja inapta a oferecer o tratamento adequado para sua comorbidade (úlcera, reumatismo, sopro e alergia a ovo).
+4. Parecer pela ausência de ilegalidade a permitir a concessão da ordem de ofício.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
