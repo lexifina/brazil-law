@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOANA DARC FREITAS RODRIGUES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO REIVINDICATÓRIA - PRELIMINAR DE ILEGITIMIDADE ATIVA E INADEQUAÇÃO DA VIA ELEITA - NÃO CONHECIDA - PRECLUSÃO - MATÉRIA JÁ DECIDIDA ANTERIORMENTE SEM INTERPOSIÇÃO DE RECURSO - MÉRITO - INCLUSÃO CÔNJUGE NO POLO ATIVO APÓS CITAÇÃO - POSSIBILIDADE - MERA IRREGULARIDADE - PEDIDO E CAUSA DE PEDIR MANTIDOS - RECURSO PARCIALMENTE CONHECIDO NA PARTE CONHECIDA DESPROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 109, § 1º do CPC, no que concerne à impossibilidade de alteração da legitimidade ativa após a triangularização da relação jurídica processual, trazendo os seguintes argumentos:
+A ora Recorrida ajuizou Ação Reivindicatória de imóvel. Ocorre que ser proprietário do imóvel é condição elementar para o ajuizamento da Reivindicatória, sendo sabido que a propriedade se comprova mediante Certidão de Matrícula Atualizada do Cartório de Registro de Imóveis.
+Como se sabe, é dever da parte autora cumprir o ordenamento jurídico, o qual exige para a propositura de ações reais imobiliárias o manejo por ambos os cônjuges, o que não ocorreu no presente caso, já que apesar de se declarar casada, a Agrava ajuizou ação sozinha.
+Ocorre que a autora pleiteou a alteração do polo ativo da ação após a triangularização da relação jurídico processual, após a contestação e a decisão saneadora.
+ ..
+Ante o exposto, requer seja conhecido e provido o presente Recurso Especial, a fim de reformar o v. acórdão recorrido, o qual negou vigência ao artigo 109, § 1º, do CPC/15, declarando-se a extinção do feito sem resolução de mérito ante a impossibilidade de alteração de legitimação ativa nos termos do artigo citado, eis que a Agravada não comprova sua condição de proprietária, não podendo o cessionário ingressar em juízo com ação real imobiliária (fls. 119/121).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+No mérito, alega a agravante que não poderia ter ocorrido a inclusão no polo ativo do cônjuge da agravada após o saneamento do feito em respeito ao princípio da estabilização subjetiva do processo.
+Também sem razão.
+Conforme se depreende dos autos originários, trata-se de ação reivindicatória, ou seja, envolve direito real, sendo necessária a inclusão do cônjuge da parte autora no polo ativo da ação.
+Tal inclusão não importa em desrespeito ao Código de Processo Civil, uma vez que este veda a modificação de pedido ou causa de pedir após o saneamento do feito (art. 329, II, do CPC), o que não é o presente caso (fls. 110, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
