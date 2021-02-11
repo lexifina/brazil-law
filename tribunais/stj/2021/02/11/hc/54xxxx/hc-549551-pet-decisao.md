@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de pedido formulado pela DEFENSORIA PÚBLICA DA UNIÃO, às e-STJ fls. 137/149, de anulação do trânsito em julgado da decisão proferidaàs e-STJ fls. 127/130, por meio daqual deneguei a ordem.
+Sustenta a requerente, em linhas gerais, sua prerrogativa para atuação nos processos que tramitam nas cortes superiores ante a ausência de representação da Defensoria Pública do Estado de Santa Catarina em Brasília.
+Pondera que, "tendo a Defensoria Pública da União competência e prerrogativa, por essência, perante às cortes da instância extraordinária (art. 14, §3º, e art. 22, caput, LC 80/1994), e estando atualmente com melhor estrutura do que a maioria das defensorias estaduais que não possuem sede em Brasília, mister que seja intimada para o acompanhamento dos processos que daquelas tramitem" (e-STJ fl. 144).
+Afirma a inaplicabilidade do precedente firmado pela Quinta Turma naQuestão de Ordem no AREsp n.1.513.956/AL ao presente casoe requer, ao final, a desconstituição do trânsito em julgado para que ela seja intimada, reabrindo-se o prazo para manifestação nos autos, em respeito aos princípios do contraditório e daampladefesa.
+É o relatório.
+Decido.
+O pedido não comporta deferimento.
+Com efeito, "existindo representação em Brasília, conforme a jurisprudência consolidada desta Corte, ou viabilizada a intimação eletrônica das Defensorias Públicas dos Estados em virtude de adesão ao Portal de Intimações Eletrônicas, impõe-se o indeferimento de requerimentos da Defensoria Pública da União no sentido de assumir a defesa de pessoas já assistidas pelas Defensorias Públicas estaduais".
+É o que se extrai do seguinte julgado, que, apreciando situação semelhante à ora apresentada, assim decidiu a questão:
+AGRAVO REGIMENTAL NA PET NO HABEAS CORPUS. PACIENTE ASSISTIDO PELA DEFENSORIA PÚBLICA DO ESTADO DE SANTA CATARINA. SUPERVENIENTE PETIÇÃO DA DEFENSORIA PÚBLICA DA UNIÃO COM PEDIDO NO SENTIDO DE ASSUMIR A DEFESA DO PACIENTE NO ÂMBITO DO SUPERIOR TRIBUNAL DE JUSTIÇA. QUESTÃO DE ORDEM NO ARESP 1.513.956/AL. TESE FIRMADA NO SENTIDO SER INVIÁVEL O ACOLHIMENTO DO REQUERIMENTO FORMULADO PELA DEFENSORIA PÚBLICA DA UNIÃO NAS HIPÓTESES EM QUE A DEFENSORIA PÚBLICA ESTADUAL ATUANTE POSSUI REPRESENTAÇÃO EM BRASÍLIA OU ADERIU AO PORTAL DE INTIMAÇÕES ELETRÔNICAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Existindo representação em Brasília, conforme a jurisprudência consolidada desta Corte, ou viabilizada a intimação eletrônica das Defensorias Públicas dos Estados em virtude de adesão ao Portal de Intimações Eletrônicas, impõe-se o indeferimento de requerimentos da Defensoria Pública da União no sentido de assumir a defesa de pessoas já assistidas pelas Defensorias Públicas estaduais.
+2. Hipótese em que o requerimento apresentado pela Defensoria Pública da União, no sentido de assumir a defesa do paciente nestes autos, foi indeferida pelo fato de o paciente estar sendo assistido pela Defensoria Pública do Estado de Santa Catarina, que atua como impetrante e aderiu ao Portal de Intimações Eletrônicas.
+3. Agravo regimental não provido.
+(AgRg na PET no HC 529.620/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/02/2020, DJe 14/02/2020, grifei)
+Na hipótese, portanto, revela-se inviável o pedido da DPU de desconstituição do trânsito em julgado da decisão proferida nestewrita fim de que seja devidamente intimada e possa assumir o patrocínio da defesa, uma vez que o paciente foi assistido pela Defensoria Pública do Estado de Santa Catarina, que atuou como impetrante e, consoante informação já exarada pela Coordenadoria de Processamento de Feitos de Direito Penal,aderiu ao Portal de Intimações Eletrônicas no período de 20/5/2019 a5/5/2020.
+Ante o exposto,indefiro o pedido.
+Publique-se. Intimem-se.
