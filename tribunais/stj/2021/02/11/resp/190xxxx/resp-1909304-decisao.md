@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com fundamento na alínea "a" do art. 105, III, da CF/1988, no qual se insurge contra acórdão proferido pelo TJ/PR, assim ementado (e-STJ, fls. 478-482):
+"EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃONA ANALISE DAS PROVAS COLACIONADAS AOS AUTOS.VÍCIO INEXISTENTE. EMBARGOS ACOLHIDOS PARASANAR O APONTADO VICIO".
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 508-514).
+Nas razões de seu recurso especial, oParquetaponta ofensa aos arts. 155, 381, III, 413, 415, IV, e 619 do CPP. Aduz para tanto, em síntese, que: (a) o Tribunal de origem teria permanecido omisso a respeito das provas contrárias à tese defensiva de legítima defesa; e (b)a absolvição sumária somente seria cabível se inexistente qualquer dúvida a respeito da excludente de ilicitude, o que não corresponde ao caso dos autos.
+Com contrarrazões (e-STJ, fls. 553-567), o apelo nobre foi admitido na origem (e-STJ, fls. 570-571).
+Já neste STJ, oMPF manifestou-se pelo provimento do recurso especial (e-STJ, fls. 588-592).
+É o relatório. Decido.
+Incialmente, não vislumbro a alegada violação dos arts. 155, 381 e 619 do CPP, pois o acórdão recorrido indicou, ainda que sucintamente, sua discordância com a narrativa extraída pelo MP das provas indicadas nos aclaratórios. Por conseguinte, havendo fundamentação (mesmo que breve) sobre este ponto, não reconheço a nulidade.
+Quanto à questão de fundo, contudo, airresignação comporta acolhimento.
+Com efeito, adecisão de pronúncia não pode avançar sobre o mérito da acusação, mas apenas sobre sua admissibilidade. Admitida a acusação,o julgamento da causa ser direcionado para o Tribunal do Júri, órgão competente para julgar os crimes dolosos contra a vida.
+Prevalece na fase de pronúncia o princípioin dubio pro societate. Desse modo, a impronúncia só se legitima no caso dejuízo de certeza sobre a excludente de ilicitude, que deve ser a narrativa unívoca que emerge das provas do processo. É o que entende a jurisprudência desta Corte Superior, como exemplificam os precedentes a seguir:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PRONÚNCIA. FUNDAMENTAÇÃO PER RELATIONEM. POSSIBILIDADE. AUSÊNCIA DE NULIDADE.
+(..).
+III - Em se tratando de crime afeto à competência do Tribunal do Júri, o julgamento pelo Tribunal Popular só pode deixar de ocorrer, provada a materialidade do delito, caso se verifique ser despropositada a acusação, porquanto aqui vigora o princípio in dubio pro societate.
+IV - Absolvição sumária por legítima defesa, na firme compreensão da jurisprudência e doutrina pátrias, somente há de ter lugar, quando houver prova unívoca da excludente, a demonstrá-la de forma peremptória (Código de Processo Penal, artigo 411)" (HC 25.858/RS, Sexta Turma, Rel. Min. Hamilton Carvalhido, DJ de 1º/8/2005).
+V - Esta Corte admite a adoção da fundamentação per relationem, hipótese em que o ato decisório se reporta a outra decisão ou manifestação existente nos autos e as adota como razão de decidir, desde que nelas a matéria tenha sido suficientemente enfrentada.(Precedentes).
+VI - Na hipótese, não há nulidade no r. decisum que adotou os fundamentos contidos no parecer do Ministério Público para afastar a absolvição sumária, pois nele realizado o devido exame do material probatório e da tese defensiva.
+Ordem não conhecida".
+(HC 295.547/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 30/06/2015, DJe 04/09/2015)
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. EXCLUDENTE DE ILICITUDE.RECONHECIMENTO DE LEGÍTIMA DEFESA. AUSÊNCIA DE PROVA INCONTESTÁVEL.IN DUBIO PRO SOCIETATE. PLEITO DE ABSOLVIÇÃO SUMÁRIA. NECESSIDADE DE REEXAME DO ACERVO PROBATÓRIO. VEDAÇÃO DA SÚMULA 7/STJ. EXCLUSÃO DE QUALIFICADORA. DESCABIMENTO. PRESERVAÇÃO DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. EXISTÊNCIA DE SUPORTE PROBATÓRIO MÍNIMO. PRECEDENTES.PRETENSÃO RECURSAL. SÚMULA 7/STJ. INEXISTÊNCIA DE ARGUMENTOS APTOS A ENSEJAR A REFORMA DA DECISÃO.
+1. A pronúncia é decisão interlocutória mista em que o magistrado declara a viabilidade da acusação por duplo fundamento, ou seja, por se convencer da existência de um crime e da presença de indícios de que o réu possa ser o autor (art. 413 do CPP).
+2. Adverte a jurisprudência desta Corte que, em casos duvidosos e controvertidos, hipótese dos autos, deve a alegação de legítima defesa ser submetida à apreciação do Tribunal do Júri, juízo natural constitucionalmente instituído para julgar os crimes dolosos contra a vida, em que as provas, inclusive as testemunhais, serão analisadas com maior amplitude e liberdade, devido à aplicação, na fase do judicium accusationis, do princípio in dubio pro societate.
+3. Por conseguinte, afastar as conclusões do acórdão para reconhecer a excludente de ilicitude, demandaria, seguramente, o revolvimento do material fático-probatório dos autos, o que é inviável em sede de recurso especial, ante o óbice previsto na Súmula 7/STJ.
+Precedentes.
+4. Havendo nos autos motivação suficiente quanto à existência de indícios da qualificadora do homicídio, consistente na utilização de recurso que dificultou a defesa da vítima, não há falar na sua exclusão; logo, a desconstituição de tal entendimento atrai a incidência, mais uma vez, do óbice da Súmula 7/STJ 5. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+6. Agravo regimental improvido".
+(AgRg no AREsp 316.069/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/09/2014, DJe 25/09/2014)
+No caso dos autos, a própria Corte de origem reconhecea existência deelementos de prova que contradizem a tese da legítima defensa - a saber, o depoimento do pai da vítima e a perícia (e-STJ, fls. 480-481). Neste cenário de controvérsia probatória quanto à excludente da ilicitude, a tarefa desopesar as provas colhidas, que o TJ/PR avocou para si, cabe em verdade ao Tribunal de Júri, nos termos do art. 5º, XXXVIII, da CF/1988.
+Ante o exposto, com fundamento no art. 255,§ 4º, III do RISTJ,dou provimentoao recurso especial, para restabelecer a sentença de pronúncia (e-STJ, fls. 233-239).
+Publique-se. Intimem-se.
