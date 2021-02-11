@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por ANDREANIO DA CRUZ RAMOS e ARLINDO DA CRUZ RAMOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Colhe-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela prática do crime previsto no arts. 157, §2º, II e V, e art. 288, todos do Código Penal.
+O Tribunal a quo denegou a ordem do habeas corpus impetrado pela defesa, nos termos da seguinte ementa:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. Pacientes denunciados pela prática, em tese, dos delitos tipificados nos artigos 157, §2º, incisos II e V e 288, caput, ambos do Código Penal. Indeferimento do pedido de liberdade provisória. Prisão preventiva fundamentada. Juízo de valor acerca da conveniência da medida que se revela pela sensibilidade do julgador diante da conduta delitiva e os seus consectários no meio social. Inteligência dos artigos 312 e 313, do Código de Processo Penal. Caso concreto que não recomenda a aplicação de medida cautelar diversa da prisão. Alegação de excesso de prazo afastada. Prazos para a conclusão dos atos processuais que não ostentam natureza peremptória. Constrangimento ilegal não configurado. ORDEM DENEGADA" (e-STJ fl. 412)
+Neste recurso, sustenta que a decisão da autoridade coatora é abstrata, analisando apenas o tipo penal, ressaltando que a gravidade da infração penal, por si só, não justifica a segregação cautelar, sendo, pois ausentes os requisitos dos art. 312 do Código de Processo Penal.
+Alega haver, ainda, excesso de prazo na formação da culpa.
+Aduz ser cabível prisão domiciliar e/ou aplicação de medidas cautelares diversas da prisão, em observância à Recomendação do CNJ nº 62/2020, em razão da epidemia de COVID-19.
+Pleiteia seja revogada sua prisão preventiva ou aplicadas medidas cautelares diversas da prisão, bem como prisão domiciliar.
+Requerimento de tutela provisória indeferida (e-STJ, fls. 469), bem como o pedido de reconsideração(e-STJ, fls. 486).
+Manifestação do Ministério Público Federal no sentido do desprovimento do recurso (e-STJ, fls. 508-513).
+É o relatório.
+Decido.
+O presente recurso não deve ser conhecido com relação aos capítulos da ausência de fundamentação do decreto preventivo e da substituição da prisão preventiva por domiciliar em razão do COVID-19, porquanto, em 25/05/2020, os recorrentes impetraram o Habeas Corpus nº 582684/SP (2020/0117025-1) neste Superior Tribunal de Justiça, com idênticas partes, causa de pedir e pedido, no qual foi suscitada a matéria exposta neste recurso, sendo negado provimento monocraticamente.
+Em seguida, a Quinta Turma negou provimento ao agravo regimental, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MODUS OPERANDI. COVID-19.
+NÃO COMPROVAÇÃO DE INTEGRAÇÃO A GRUPO DE RISCO. AGRAVO NÃO PROVIDO.
+1. A prisão preventiva imposta ao agravante, nos termos do art.
+312 do Código de Processo Penal, está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois o crime de roubo teria sido praticado em concurso de agentes, restrição à liberdade das vítimas e utilização de sofisticados equipamentos para a consumação do delito.
+2. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura dos pacientes.
+3. Por fim, inviável a revogação da prisão preventiva ou a sua conversão em domiciliar em razão da pandemia do Coronavírus (Covid-19), especialmente porque não há comprovação que os agravantes estão inseridos no grupo de risco.
+4. Agravo regimental desprovido.
+Passo à análise do excesso de prazo.
+In casu, o excesso de prazo foi afastado nos seguintes termos:
+Quanto ao alegado excesso de prazo, importante destacar a inexistência de prazo legalmente estipulado cujo descumprimento configure, de imediato, constrangimento ilegal. Além disso, a hipótese não expõe letargia do Juízo na conclusão dos atos processuais, principalmente se considerarmos a complexidade dos fatos imputados aos pacientes, acusados de integrar associação criminosa especializada em roubo de cargas." (e-STJ, fls. 415-416)
+Segundo orientação pacificada nos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz do princípio da razoabilidade e da proporcionalidade, devendo ser considerada as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+Confira-se:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita. Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido."(AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019)
+Como se pode verificar, o feito vem tramitando regularmente, pois se apura a responsabilidade criminal de 5 acusados acerca de condutas de apuração complexa (associação criminosa e roubo majorado). Outrossim, das informações prestadas pelo Juízo de origem, verifica-se que foi designado o dia 18/02/2021 para continuidade da audiência de instrução e julgamento (e-STJ, fls. 499). Portanto, não há nos autos demonstração de excesso temporal ou irrazoabilidade no curso da demanda.
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
