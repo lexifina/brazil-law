@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GUSTAVO DA CRUZ DE SA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA.
+Consta dos autos que o paciente foi condenado ao cumprimento da pena de 3 (três) anos de reclusão, em regime inicial aberto, e pagamento de 10 (dez) dias- multa, pela prática do crime de porte ilegal de arma de fogo e munições de uso restrito (art. 16, caput, da Lei n. 10.826/2003).
+Irresignada, a defesa interpôs recurso de apelação, que foi desprovido nos termos da ementa ora transcrita (e-STJ fl. 238):
+APELAÇÃO CRIMINAL. DELITO DE PORTE DE ARMA DE FOGO E MUNIÇÕES DE USO RESTRITO (ART. 16,CAPUT, DA LEI N. 10.826/03).SENTENÇA PROCEDENTE.RECURSO DA DEFESA. PLEITO DE ABSOLVIÇÃO POR AUSÊNCIA DE PROVAS. NÃO ACOLHIMENTO.AUTORIA DEVIDAMENTE COMPROVADA. PALAVRA DOS POLICIAIS.CREDIBILIDADE.
+- O valor do depoimento testemunhal de servidores policiais - especialmente quando prestado em juízo, sob a garantia do contraditório - reveste-se de inquestionável eficácia probatória, não se podendo desqualifica-lo pelo só fato de emanar de agentes estatais incumbidos, por dever de ofício, da repressão penal" (STF, Min. Celso de Mello).
+CONDENAÇÃO MANTIDA. DOSIMETRIA DA PENA. AFASTAMENTO DO VETOR RELATIVO AS CIRCUNSTÂNCIAS DO CRIME. IMPOSSIBILIDADE.ARMA DE FOGO E ELEVADA QUANTIDADE DE MUNIÇÕES APREENDIDAS. EXASPERAÇÃO DEVIDAMENTE JUSTIFICADA. PENA- BASE FIXADA ACIMA DO MÍNIMO LEGAL. MANUTENÇÃO.RECURSO CONHECIDO E NÃO PROVIDO.
+Na presente impetração, a defesa assere que deve ser afastada dadosimetria penalógica a negativação das circunstâncias do crime.
+O pedido liminar foi indeferido (e-STJ fls. 278/279).
+Ouvido, o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 333/335).
+É o relatório.
+Decido.
+Na espécie, o Magistrado singular, ao condenar o paciente pelo crime de porte ilegal de arma de fogo e munições de uso restrito, fixou a pena-base acima do mínimo legal por considerar desfavoráveis as circunstâncias do crime.
+Confira-se o seguinte trecho da sentença (e-STJ fl. 155):
+Na primeira fase, considero desfavoráveis as circunstâncias do crime, eis que além da arma foram apreendidas diversas munições de calibres restritos, situação que extrapola as elementares do tipo penal.
+Assim, fixo a pena-base em 03 (três) anos e 5 (cinco) meses de reclusão e 43 (quarenta e três) dias-multa.
+2.31 Na segunda fase, reconheço a atenuante da menoridade relativa, eis que o Acusado contava com 18 anos à data do fato, razão pela qual reduzo a pena para 3 (três) anos de reclusão e 10 dias-multa.
+2.32 Na terceira fase, ausentes causas de aumento ou diminuição da reprimenda, torno definitiva a pena de 3 (três) anos de reclusão e 10 dias multa.
+2.33 Ante a quantidade da pena aplicada, e considerando a primariedade técnica, fixo o regime aberto para início do seu cumprimento (art. 33, § 2º, c do CP).
+A Corte de origem assim se manifestou acerca do tema (e-STJ fl. 243):
+Na sequência, a defesa almeja o afastamento da valoração negativa relativa ao vetor das circunstâncias do crime, ao argumento de que configuram elementares de outro delito, gerando, assim, suposto bis in idem.
+Na hipótese, analisando a sentença combatida, verifica-se que o juízo de primeiro grau considerou as circunstâncias do crime desfavoráveis, consignando que "além da arma foram apreendidas diversas munições de calibres restritos, situação que extrapola as elementares do tipo penal." (fl. 148).
+De fato, a apreensão de uma pistola calibre 9mm, mais dezesseis munições não deflagradas, de uso restrito, ou seja, mais um de um objeto apto à caracterização do referido crime, justifica o incremento aplicado pelo magistrado sentenciante.
+Praticada a infração penal, surge para o Estado o direito de aplicar a sanção penal abstratamente cominada, modo de retribuir o mal causado pelo acusado e meio supostamente eficiente de evitar a reincidência. Nesse tear, demanda-se a estrita observância do devido processo legal, que se encerra com a sentença, ato judicial que aplica ao acusado a reprimenda individualizada de acordo com a gravidade do delito e com as condições pessoais do sentenciado.
+A primeira etapa de fixação da reprimenda, como é cediço, tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado descrito do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal. As circunstâncias judiciais são valores positivos; para inverter essa polaridade, imperioso ao prolator da sentença apresentar elementos concretos de convicção presentes no bojo do processo. Sendo assim, é inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade. Não atende à exigência do art. 93, inciso IX, da Constituição Federal a simples menção aos critérios enumerados no art. 59 do Código Penal, sem anunciar os dados objetivos e subjetivos que a eles se amoldam, ou a invocação de fórmulas imprecisas em prejuízo do condenado.
+De acordo com a orientação desta Casa, as circunstâncias da infração podem ser compreendidas como os pormenores do fato delitivo, acessórios ou acidentais, não inerentes ao tipo penal.
+Sendo assim, na análise das circunstâncias do crime, imperioso ao magistrado sentenciante apreciar, com base em fatos concretos, provados nos autos, o lugar do crime, o tempo de sua duração, a atitude assumida pelo agente no decorrer da consumação da infração penal, a mecânica delitiva empregada, entre outros elementos indicativos de uma maior censurabilidade da conduta.
+No caso, destacou o sentenciante, no ponto, que, as circunstâncias seriam desfavoráveis ao paciente, pois, além da arma de fogo, foram apreendidas diversas munições de uso restrito. Descreveu as particularidades do delito e as atitudes assumidas pelo condenado no decorrer do fato criminoso, bem como a maior gravidade da conduta espelhada pela mecânica delitiva empregada pelo agente, parecendo-me, portanto, justificado o aumento operado na primeira etapa da dosimetria.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO, TRÁFICO E POSSE OU PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. PENA-BASE.CULPABILIDADE. APREENSÃO DE GRANDE QUANTIDADE DE MUNIÇÃO E ARMAS.FUNDAMENTO IDÔNEO. REFORMATIO IN PEJUS. INOCORRÊNCIA. CONDENAÇÃO DEFINITIVA DESLOCADA DA SEGUNDA PARA A PRIMEIRA FASE. PENA FINAL REDUZIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. É firme nesta Corte o entendimento de que a apreensão de expressiva quantidade de armas e/ou munições desborda das elementares do tipo penal previsto no art. 16 da Lei 10.826/03, revelando a maior reprovabilidade da conduta, de sorte a justificar idoneamente a elevação da pena-base.
+2. A Corte a quo, em recurso exclusivo da defesa, deslocou uma condenação pretérita que tecnicamente não se enquadrava no conceito de reincidência para a primeira fase de dosimetria, a fim de negativar o vetor dos antecedentes, até então neutralizado, o que, no entanto, não configura reformatio in pejus, haja vista a redução da pena final.
+3. Agravo regimental improvido.
+(AgRg no HC 578.649/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/08/2020, DJe 17/08/2020, grifei.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES DE USO RESTRITO. EXASPERAÇÃO DA PENA-BASE CALCADA NA QUANTIDADE DE ARMAS E MUNIÇÕES. POSSIBILIDADE AGRAVO DESPROVIDO.
+1. A quantidade de armas e munição - 01 fuzil marca Windmamm.E, calibre"5.56", nº L.07922, carregado com 21 munições do mesmo calibre, com30 munições sobressalentes do mesmo calibre, marca CBC, comdoiscarregadores tipo "pente"; e, 50 munições de calibre "9mm", marcaAguila - pode servir como justificativa idônea para o aumento da pena-base para além do patamar mínimo previsto na legislação de regência.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 1669180/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2020, DJe 13/08/2020, grifei.)
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
