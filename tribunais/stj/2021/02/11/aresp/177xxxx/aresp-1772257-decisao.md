@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto por DAL BOSCO ADVOGADOS, em face de acórdão assim ementado (fl. 364):
+AGRAVO INTERNO. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ILEGITIMIDADE ATIVA. VÁLIDA A CLÁUSULA DE ELEIÇÃO DE FORO.
+1. Ilegitimidade ativa reconhecida, pois em se tratando de execução de título pactuado exclusivamente com o escritório de advocacia, não podem constar no polo ativo da ação judicial dois dos sócios.
+2. Ausentes novos argumentos que justifiquem modificar a decisão recorrida, estando mantida a validade da cláusula de eleição de foro.
+Recurso desprovido. De ofício, reconhecida a ilegitimidade ativa dos sócios.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 393/396).
+Nas razões do especial, a ora agravante alega ofensa ao art. 1.022, II, do Código de Processo Civil/2015, por omissão do Tribunal de origem, ao não se pronunciar sobre as questões postas em debate nos embargos de declaração.
+No mérito, argui violação dos arts. 85, §§ 14 e 15, e 781, I, do Código de Processo Civil/2015; 22 e 23 da Lei n. 8.906/94, bem como dissídio jurisprudencial. Aduz que "não há necessidade de analisar o título ou contrato social para verificar que os recorrentes Patrícia e Gustavo são sócios da sociedade de advogados também recorrente e que o título executivo é contrato de prestação de serviços de advocacia" (fls. 414/415), estando legitimados ativamente para a causa. Acrescenta que é faculdade do exequente optar pela execução no "foro do domicílio do requerido, foro de eleição OU do local do pagamento (..), salvo se for caso de competência absoluta, o que não se aplica à hipótese" (fl. 419).
+Ultrapassado o juízo de admissibilidade, passo a decidir.
+A Corte Estadual, ao julgar o agravo interno, entendeu pela ilegitimidade ativa dos advogados, bem como pela obrigatoriedade de respeito à cláusula de eleição de foro, e assim se pronunciou (fls. 366/367):
+Preliminarmente, (..) é necessário atentar à questão da ilegitimidade ativa de Gustavo e Patrícia, matéria de ordem pública que pode ser analisada a qualquer tempo, inclusive de ofício.
+Em se tratando de execução de contrato de serviços advocatícios pactuado exclusivamente com o escritório de advocacia, não podem constar no polo ativo da ação judicial dois dos sócios, Gustavo e Patrícia (TJRS, Apelação Cível, nº 70066350901), impondo-se sua exclusão no agravo interno e no Juízo a quo.
+(..)
+No mérito, ausentes novos argumentos que justifiquem modificar a decisão recorrida, estando mantida a validade da cláusula de eleição de foro, pois as partes expressamente determinaram como competente para dirimir seus conflitos a Comarca de São Paulo.
+(..)
+Note-se que a opção concedida pelo art. 781 do CPC deve ser aplicada em conjunto com a Súmula 335 do STF, que considera válida a clausula de eleição de foro em processos oriundos de contrato, como o presente, decorrente de serviços de advocacia. Ou seja, se as partes já fixaram o local em que discutiriam questões referentes ao contrato, elegendo foro competente, descabe mudar esse pacto, até em observância ao princípio da boa-fé objetiva.
+O acolhimento das razões do recurso demandaria inevitável apreciação das cláusulas contratuais, bem como o reexame de matéria fática, procedimentos que encontram óbice nos verbetes 5 e 7 da Súmula desta Corte.
+Por fim, em relação ao apontado dissídio jurisprudencial, ressalte-se que não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal, se não estiver comprovado nos moldes dos arts. 1029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do RISTJ. Vale destacar que as circunstâncias fáticas e as peculiaridades diferem em cada caso, o que inviabiliza, em regra, o recurso especial interposto pela divergência jurisprudencial, que se funda em premissa fático-probatória e, particularmente, no caso concreto em que os fatos e provas dos autos não se revelam análogos aos dos paradigmas.
+Em face do exposto, não havendo o que reformar, nos termos do art. 34, XVIII, "b", do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao agravo.
+Intimem-se.
