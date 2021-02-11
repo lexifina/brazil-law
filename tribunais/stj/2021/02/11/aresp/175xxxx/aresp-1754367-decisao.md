@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interno interposto em face de decisão por meio da qual a Presidência desta Corte não conheceu do recurso especial.
+A parte agravante, em seu recurso, sustentou que impugnou os fundamentos da decisão de inadmissibilidade, pleiteando a não incidência dos óbices sumulares mencionados.
+A parte agravada, regularmente intimada, pugnou pela manutenção da decisão agravada.
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero a decisão ora agravada e passo à análise do recurso.
+Trata-se de recurso especial interposto contra acórdão assim ementado (fl. 818):
+AÇÃO DECLARATÓRIA C.C. CONSIGNAÇÃO EM PAGAMENTO  Compromisso de compra e venda celebrado com a Cohab/Bauru  Contrato celebrado com cobertura de FCVS  Adquirente que pagou integralmente as parcelas do contrato  Eventual saldo residual que deveria ser absorvido pelo FCVS  Saldo que não pode ser imputado ao autor  Quitação devida  Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (fls. 826/828).
+Nas razões do recurso especial, a parte recorrente alegou negativa de vigência ao artigo 64 do Código de Processo Civil, bem como a existência de dissídio jurisprudencial quanto à Súmula nº 150/STJ, tendo em vista a comprovação do comprometimento do FCVS, o que legitima a CEF, na condição de gestora desse fundo, como litisconsorte passivo necessário.
+Observo que no Recurso Extraordinário 827.996/PR, "em que se discute, à luz dos artigos 5º, inciso XXXV, e 109, inciso I, da Constituição da República, se a Caixa Econômica Federal detém interesse jurídico para ingressar como parte ou terceira interessada nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação e, em consequência, se a Justiça Federal seria competente para o processamento e o julgamento das ações dessa natureza", o Supremo Tribunal Federal reconheceu a repercussão geral da matéria constitucional suscitada (Plenário Virtual, Relator o Ministro Gilmar Mendes).
+Não desconheço que o referido recurso extraordinário foi objeto de julgamento recentemente pelo Plenário da Corte, mas ainda se encontram pendentes de análise embargos de declaração, razão pela qual devem os autos retornarà origem, mormente ao se considerar a necessidade de reanálise do tema à luz da tese firmada pelo STF.
+O reconhecimento da repercussão geral enseja a incidência dos artigos 543-B, § 3º, do Código de Processo Civil de 1973, e 1.036, 1.039 e 1.040, incisos I e II, do Código de Processo Civil vigente, possibilitando a apreciação dos recursos sobrestados na origem, seja para declarar prejudicialidade, seja para exercer juízo de retratação, o que aconselha o retorno dos autos ao Juízo originário. No mesmo sentido: Primeira Turma, REsp 1.431.112/RS, Rel. Ministra Regina Helena Costa, DJe de 31.8.2018.
+Em face do exposto, reconsidero a decisão agravadae determino o retorno dos autos à origem, com respectiva baixa nesta Corte.
+Intimem-se.
