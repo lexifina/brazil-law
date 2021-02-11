@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 549/558) interposto contra decisão desta relatoria, a qual negou provimento ao recurso da parte ora agravante.
+Em suas razões, a agravante alega, em síntese, que foram lícitos os reajustes aplicados ao contrato coletivo de plano de saúde.
+Além disso, reitera a alegação de afronta ao art. 1.022 do CPC/2015, bem como que seria inaplicável a Súmula n. 211/STJ.
+Ao final, requer o provimento do agravo (e-STJ fl. 558).
+A parte agravada, intimada, nãoapresentou impugnação ao agravo interno (e-STJ fl. 561).
+É o relatório.
+Decido.
+Em virtude das razões de fls. 549/558(e-STJ), apresentadas pelaagravante, reconsidero a decisão de fls. 541/544(e-STJ), com fundamento no art. 259 do RISTJ, e passo a novo exame do recurso especial.
+Trata-se de agravo nos próprios autos interposto contra decisão que, sob argumento de incidência da Súmula n. 7 do STJ eausência de omissão no acórdão recorrido, negou seguimento ao recurso especial.
+O aresto impugnado apresenta a seguinte ementa (e-STJ fl. 420):
+PLANO DE SAÚDE COLETIVO. REAJUSTE. FINANCEIRO. Ausência de informação objetiva sobre os elementos justificadores dos aumentos aplicados. Violação ao dever de informação aos consumidores. Observância aos índices da ANS. REAJUSTE ETÁRIO. CONTRATO EMPRESARIAL, NÃO ABRANGIDO PELA DECISÃO DE AFETAÇÃO (TEMA 952 - RECURSO ESPECIAL 1.568.244 - RJ). Inobservância da Resolução Normativa 63/2003, que determina que a variação acumulada entre a sétima e a décima faixas não poderá ser superior à variação acumulada entre a primeira e a sétima faixas. Limitação ao percentual obtido a partir da soma da primeira a sétima faixas. Abusividade nos aumentos impostos, que implica na devolução dos valores cobrados a maior desde o efetivo desembolso. Sentença reformada. Apelo da autora provido. Recurso da ré improvido.
+Os embargos de declaraçãoforam rejeitados (e-STJ fls. 443/447).
+Sobreveio o recurso especial (e-STJ fls. 450/464), fundado no art. 105, III, "a", da CF, no qual a recorrente sustentou, além de divergência jurisprudencial, violação dos arts. 1º e 2º do CDC, e 355, I, 369 e 373, I, do CPC/2015, argumentando que seria indevido o julgamento antecipado da lide, bem como a inversão do ônus probatório, pois não teria tido oportunidade de apresentar provada conformidade dos reajustes do plano com a normativa da ANS.
+Apontouainda afronta aoart. 35-E, § 2º, da Lei n. 9.656/1998, ante a suposta legalidade dos reajustes do plano de saúde coletivo.
+Indicou também ofensa ao art. 1.022 do CPC/2015, sob fundamento de omissão quanto às violações legais suscitadas.
+No agravo (e-STJ fls. 502/518), afirma a presença dos requisitos de admissibilidade do recurso especial.
+Relatado o agravo em recurso especial, passo a seu novo julgamento.
+Inicialmente, não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+Além disso, a alegada violação dos arts. 1º e 2º do CDCe 355, I, 369 e 373, I, do CPC/2015 não foi analisada pela Corte local, mesmo após o julgamento dos embargos de declaração, tendo Tribunal de origem decidido, sem examinar os referidos artigos, pela abusividade dos reajustes do plano de saúde.
+A suscitada afronta aos referidos dispositivos sequer foi objeto das razões de apelação (e-STJ fls. 256/262) da empresa de saúde, não se podendo exigir da Justiça locala análise de matéria não suscitada oportunamente.
+Incidente, portanto, a Súmula n. 211/STJ, por falta de prequestionamento.
+O TJSPreconheceuque os reajustes do plano de saúde coletivo, fundados na alteração da faixa etária,eram indevidos, devendo ser aplicadaao contrato em grupo a mesma normativa da ANS voltada a regulamentar os aumentos dos planos individuais (e-STJ fls. 421/425).
+A recente jurisprudência da Segunda Seção do STJ, consolidada sob o rito dos recursos repetitivos, reconheceu ser inviável a manutenção de planos diferentes para empregados ativos e inativos da estipulante, nos seguintes termos:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL. EX-EMPREGADOS APOSENTADOS. PERMANÊNCIA NO PLANO DE SAÚDE COLETIVO. ART. 31 DA LEI N. 9.656/1988. DEFINIÇÃO ACERCA DAS CONDIÇÕES ASSISTENCIAIS E DE CUSTEIO.
+1. Delimitação da controvérsia Definir quais condições assistenciais e de custeio do plano de saúde devem ser mantidas a beneficiários inativos, nos termos do art. 31 da Lei n. 9.656/1998.
+2. Teses definidas para os fins do art. 1.036 do CPC/2015:
+a) "Eventuais mudanças de operadora, de modelo de prestação de serviço, de forma de custeio e de valores de contribuição não implicam interrupção da contagem do prazo de 10 (dez) anos previsto no art. 31 da Lei n. 9.656/1998, devendo haver a soma dos períodos contributivos para fins de cálculo da manutenção proporcional ou indeterminada do trabalhador aposentado no plano coletivo empresarial."
+b) "O art. 31 da lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador."
+c) "O ex-empregado aposentado, preenchidos os requisitos do art. 31 da Lei n. 9.656/1998, não tem direito adquirido de se manter no mesmo plano privado de assistência à saúde vigente na época da aposentadoria, podendo haver a substituição da operadora e a alteração do modelo de prestação de serviços, da forma de custeio e os respectivos valores, desde que mantida paridade com o modelo dos trabalhadores ativos e facultada a portabilidade de carências."
+3. Julgamento do caso concreto a) Inaplicabilidade do art. 30 da Lei n. 9.656/1998, tendo em vista que o prazo de 10 (dez) anos disciplinado no art. 31 do mesmo diploma encontra-se comprovado, decorrendo da somatória de todos os períodos de contribuição envolvendo várias operadoras de planos de saúde contratadas sucessivamente pelo ex-empregador.
+b) Ofensa ao art. 31 da Lei n. 9.656/1998 não caracterizada, tendo em vista que os empregados ativos e os ex-empregados inativos, conforme decidido pelo Tribunal de origem, devem encontrar-se vinculados a um único plano de saúde, sem distinções.
+c) Acolher as razões recursais com o propósito de modificar o contexto fático-probatório inserido no acórdão recorrido encontra óbice na Súmula n. 7 do STJ.
+4. Recurso especial a que se nega provimento.
+(REsp 1.816.482/SP, De minha relatoria, SEGUNDA SEÇÃO, julgado em 09/12/2020, DJe 01/02/2021.)
+No mesmo sentido: Resp n. 1.818.487/SP e REsp n. 1.829.862/SP, deminha relatoria, Segunda Seção, julgados em 9/12/2020, DJe 1º/02/2021.
+No caso, o acórdão recorrido apenas afirmou que os reajustes eram abusivos, por inobservância dos índices da ANS, porém, diante das teses adotadas, não deixou claro se os reajustes impostos aos aposentados são os mesmos adotados para os ativos, tendo por base o planooferecido aos atuais empregados da estipulante, cabendo ressaltar a impossibilidade de reexame dos fatos e das provas dos autos em sede de recurso especial, bem como das cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+Diante do exposto, RECONSIDERO a decisão monocrática de fls. 541/544(e-STJ), para DAR PARCIAL PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, a fim de que seja averiguado se o plano e os reajustes impostos aos inativos são os mesmos adotados para os ativos, aplicando-se então as teses aprovadas pela SEGUNDA SEÇÃO nos mencionados recursos especiais repetitivos.
+Publique-se e intimem-se.
