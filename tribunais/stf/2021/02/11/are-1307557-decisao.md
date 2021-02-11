@@ -1,0 +1,15 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que negou seguimento ao recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+    “APELAÇÃO – AÇÃO ORDINÁRIA – Agente de Segurança Penitenciário – Pretensão ao recebimento dos proventos de aposentadoria na classe que se encontrava no momento da inativação – Previsão de cinco anos no respectivo cargo – Diferença de classe que não altera o cargo ocupado – Necessidade de se manter os proventos na classe que ocupava no momento da aposentadoria – Sentença reformada – Recurso provido.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 6º e 7º da EC 41/03 e aos arts. 2º e 3º da EC 47/05. Sustenta que, “quando se fala em cinco anos de efetivo exercício no cargo em que se der a aposentadoria, estando os cargos da carreira dispostos em níveis, como no caso em tela, o funcionário deverá, para preencher o referido requisito, ter cinco anos de efetivo exercício no nível em que se der a aposentadoria”.
+    A decisão agravada negou seguimento ao recurso pelo porque “o fundamento utilizado para interposição somente poderia ter sua procedência verificada mediante o reexame de direito local e elementos fáticos, incidentes, respectivamente, as Súmulas 280 e 279 do Colendo Supremo Tribunal Federal.”
+    O recurso extraordinário não pode ser provido.
+    O Supremo Tribunal Federal firmou o entendimento no sentido de que “a promoção por acesso de servidor constitui forma de provimento derivado e não representa ascensão a cargo diferente daquele em que já estava efetivado” (AI 768.895, Relª. Minª. Cármen Lúcia). Nesse sentido, veja-se a ementa do AI 759.794-AgR, julagdo sob a relatoria do Ministro Gilmar Mendes:
+    “Agravo regimental em agravo de instrumento. 2. Promoção retroativa. 3. Jurisprudência pacífica do Supremo Tribunal Federal. 4. Promoção por acesso do servidor constitui forma de provimento derivado e não implica ascensão a cargo diferente daquele em que já estava efetivado. 5. Agravo regimental a que se nega provimento.”
+    No caso, o Tribunal de origem não divergiu desse entendimento ao diferenciar cargo de classe, assentando que “[n]ão cabe à Administração Estadual, ao fazer a interpretação da lei, ampliar o alcance da expressão ‘cargo’ e incluir as diferenciações de classe como sendo cargos diferentes. Mesmo porque as ‘classes’ são diferentes níveis de acesso na carreira do mesmo cargo”.
+    Nesse sentido, cito os seguintes precedentes: RE 1.255.987-AgR, da minha relatoria; ARE 1.155.684-AgR, da relatoria do Ministro Celso de Mello; e ARE 1.183.839-AgR, da relatoria do Ministro Edson Fachin.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015.
+    Publique-se.
+          Brasília, 11 de fevereiro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
