@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por LEONILDO LUIS SIMÕES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+PENAL. PROCESSO PENAL. APELAÇÃO CRIMINAL. CRIME DE ESTELIONATO (ART. 171, , CP). SENTENÇA CONDENATÓRIA. CAPUT RECURSO DO RÉU. 1)- REGIME INICIAL DE CUMPRIMENTO DA PENA. PLEITO DE ABRANDAMENTO. AVENTADO FERIMENTO À SÚMULA 719, STF. TESE AFASTADA. CONDENAÇÃO INFERIOR À QUATRO ANOS DE RECLUSÃO. RÉU REINCIDENTE E QUE OSTENTA CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL ("ANTECEDENTES"). FUNDAMENTAÇÃO NO REPROCHADO ESCORREITA. REGIME SEMIABERTO DECISUM MANTIDO. EXEGESE DA SÚMULA 269, STJ. MULTA. 2)- PROPORCIONALIDADE COM A PENA CORPORAL. REDIMENSIONAMENTO "DE OFÍCIO". APELO CONHECIDO E DESPROVIDO, COM FIXAÇÃO DA VERBA ADVOCATÍCIA (fl. 568)
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 5º, incisos XLVI e XXXIX, da Constituição Federal, no que concerne à reforma do acórdão recorrido para absolver o recorrente devido à insuficiência probatória ou para aplicação do regime inicial aberto de cumprimento de pena, trazendo os seguintes argumentos:
+A Defesa pugnou pela absolvição em razão da insuficiência probatória, sob o argumentando de que a condenação se baseou tão somente na análise de depoimentos isloados em si. Não se ativeram ao fato de as razões apresentadas pelo Réu, ora sentenciado. (fls. 590).
+De igual forma na fixação da pena, a mesma foi agravada pelos antecedentes do sentenciado, e pela reiteração criminosa. (fls. 591).
+A manutenção do condenado em regime mais gravoso do que é devido caracteriza-se como "excesso de execução", havendo, no caso, violação ao direito do a penado. (fls. 592).
+Ademais, o réu, ora recorrente foi condenado em um processo onde o mérito aponta sua absolvição. E com dosimetria da pena exasperada pelo bis in idem. (fls. 593).
+É, no essencial, o relatório. Decido.
+No tocante à controvérsia, na espécie, é incabível o recurso especial porque visa discutir violação de norma constitucional que, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
