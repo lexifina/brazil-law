@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por SERGIO ROBERTO CORREA DE ANDRADE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO DECISÃO QUE INDEFERIU O BENEFÍCIO DA GRATUIDADE DE JUSTIÇA PLEITEADO PELO AGRAVANTE O RECORRENTE NÃO TROUXE AOS AUTOS QUALQUER OUTRO ELEMENTO DE CONVICÇÃO CAPAZ DE REFORMAR A DECISÃO INTERLOCUTÓRIA DE MODO QUE NADA HÁ A REPARAR DESPROVIMENTO DO AGRAVO INTERNO
+Quanto à controvérsia, alega violação dos arts. 98 e 99 do CPC; e do art. 1º da Lei n. 1.060/50, atinente ao deferimento do benefício da gratuidade de justiça, trazendo o seguinte argumento:
+Ocorre que, há de se levar em consideração ser o ora Recorrente aposentado por invalidez, com muitos gastos mensais e, principalmente, dívidas con- traídas para fazer face aos gastos, dívidas estas que comprovam, de forma clara, a sua carência financeira. E isto por que, diante de sua condição de aposentado por INVALIDEZ, encontra-se impossibilitado de exercer outra atividade, o que lhe permitiria aumentar seus ganhos (fls. 75).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Na presente hipótese, como afirmado na Decisão recorrida, o agravante não comprovou que faz jus ao benefício pretendido, tendo em vista que recebe proventos de aposentadoria no montante bruto de R$ 4.308,18, conforme informação de fl. 18, indexador 18, não se enquadrando, por isso, no conceito de miserabilidade jurídica para fins de concessão da gratuidade de justiça, com base no artigo 98, caput, do Código de Processo Civil.
+ ..
+Portanto, depreende-se que o recorrente não trouxe aos autos qualquer outro elemento de convicção capaz de reformar a Decisão interlocutória, de modo que nada há a reparar (fls. 60).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
