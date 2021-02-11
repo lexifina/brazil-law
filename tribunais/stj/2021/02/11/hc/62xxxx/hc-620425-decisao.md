@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de SÉRGIO LOPES DOS SANTOS JÚNIOR, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 30):
+HABEAS CORPUS - ROUBO MAJORADO - PRISÃO PREVENTIVA - ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO CAUTELAR - INOCORRÊNCIA. Decisão suficientemente embasada nos requisitos do artigo 312, Código de Processo Penal, acrescida dos indícios de autoria e materialidade delitiva. ORDEM DENEGADA.
+A defesa alega estarem ausentes os requisitos mantenedores da segregação cautelar, a possibilidade de serem aplicadas medidas cautelares diversas da prisão ao caso e as condições pessoais favoráveis ostentadas pelo paciente.
+Requer a concessão da ordem de habeas corpus a fim de revogar a prisão do paciente ou, subsidiariamente, a aplicação de medidas cautelares alternativas dentre as elencadas no art. 319 do CPP.
+O pedido de liminar foi indeferido às fls. 160-161.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 184-188).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Ademais, no que diz respeito à aplicação de medidas cautelares alternativas à prisão, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018). Portanto, neste ponto, o recurso não merece conhecimento.
+Outrossim, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ, conforme se extrai dos seguintes julgados: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se. Intimem-se.
