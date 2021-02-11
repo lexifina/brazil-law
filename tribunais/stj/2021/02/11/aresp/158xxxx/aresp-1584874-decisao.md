@@ -1,0 +1,34 @@
+DECISÃO
+ARO EXPORTAÇÃO IMPORTAÇÃO INDÚSTRIA E COMÉRCIO LTDA. (ARO) interpôs agravo de instrumento contra decisão que julgou extinta impugnação de crédito em razão do reconhecimento da perda superveniente de interesse, considerada a exclusão do crédito discutido do quadro geral de credores.
+O Tribunal estadual negou provimento ao agravo de instrumento em acórdão da relatoria do Des. FORTES BARBOSA, assim ementado:
+Recuperação Judicial Impugnação de crédito Extinção sem resolução do mérito mantida Perda superveniente do interesse de agir caracterizada Acolhimento da divergência apresentada pelo credor à manifestação do administrador judicial Rediscussão da natureza do crédito vedada à devedora Preclusão reconhecida - Prazo instituído no artigo 8º da Lei 11.101/2005 que foi ultrapassado Decisão mantida Recurso desprovido(e-STJ, fl. 184).
+ARO interpôs recurso especial com base no art. 105, III,a, da CF, onde alegou violação dos arts. 10, § 6º, 19, 47 e 172 da Lei 11.101/2005;4º, 7º,188, 277 278, parágrafo único, 317, 318, parágrafo único, 343, §§, 2º e 6º, 488, 932, parágrafo único,do NCPC, pelos fundamentos assim deduzidos (1) a reconvenção é medida compatível com o procedimento de impugnação de crédito; (2)a apuração da sujeição ou não de crédito aos efeitos da recuperação judicial é questão de ordem pública;(3) qualquer credor sujeito à recuperação judicialtem o direito de não ver preterida a par conditio creditorum;(4) a manutenção da igualdade entre credores sujeitos à recuperação é meio de concretização do princípio da preservação da empresa; (5) é possível a impugnação de crédito retardatária; (6) violação ao princípio da igualdade processual.
+Foram ofertadas contrarrazões (e-STJ, fls. 225/239).
+O Tribunal de origem inadmitiu o apelo nobre pornão ter sido demonstrada a infringência dos preceitos alegados.
+ARO ingressou com agravo em recurso especial sustentando que (1) o recurso preenche os requisitos para sua admissibilidade; (2) foi demonstrada a violação dos artigos indicados; (3) o recurso cuida de matéria exclusivamente de direito.
+Foi apresentada contraminuta (e-STJ, fls. 261/281).
+Parecer ministerial pelo não provimento do agravo (e-STJ, fls. 358/361).
+É o relatório.
+DECIDO
+A irresignação não merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Dos arts.10, § 6º, 19, 47 e 172 da Lei 11.101/2005; 4º, 7º,188, 277 278, parágrafo único, 317, 318, parágrafo único, 343, §§, 2º e 6º, 488, 932, parágrafo único, do NCPC
+No ponto, cumpre registrar que os referidos preceitos não foram objeto de debate pelo Tribunal recorrido ressentindo-se do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido.É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada.
+Sendo assim, aplicam-se, por analogia, as Súmulas nº 282 e 356 do STF.
+Acrescente-se, que ainda que se pudesse ultrapassar os óbices sumulares acima citados, a pretensão recursal encontraria óbice na Súmula nº 7 do STJ, pois sob a alegação de ofensa a dispositivoslegais não debatidos, busca o reexame das circunstâncias fáticas delineadas na lide e que serviram de suporte às conclusões assumidas no aresto combatido que assim consignou:
+Consoante bem ressaltado na decisão recorrida, eventual insurgência da agravante, na qualidade de devedora (recuperanda), certamente, deveria ter sido apresentada, a teor do disposto no artigo 8º da Lei 11.101, a tempo e modo adequados.
+A legitimidade para apresentação de habilitação ou divergência ao administrador não foi concedida ao devedor, que, portanto, apenas poderá apresentar habilitação ou impugnação perante o Juízo da recuperação, nos moldes do artigo 8º da Lei 11.101, mas somente após decisão do administrador judicial (art.7º, §2º) e unicamente em relação aos pedidos apresentados na forma do artigo 7º, §1º do mesmo diploma legal.
+Na espécie, foi acolhida a divergência apresentada pelo agravado, reconhecendo-se a extraconcursalidade de seu crédito, conforme declarado pelo Administrador Judicial em 27 de abril de 2017, sendo publicado o quadro geral de credores apenas em 23 de maio de 2017.
+A insurgência da agravante, todavia, somente foi apresentada em 27 de julho de 2017, no incidente de origem, razão pela qual foi atingida pela preclusão, como destacado no "decisum" recorrido, sendo impossibilitada a pretendida discussão sobre a regularidade (ou não) da inclusão do crédito no quadro geral, conforme inconformismo apresentado apenas no incidente de impugnação apresentado pelo credor.
+Ademais, nem se poderia alegar a possibilidade de apresentação de impugnação retardatária, porquanto é faculdade exclusiva do credor.
+(..)
+A recorrente, também, propõe a inadequada utilização da figura processual da reconvenção, o que não se compatibiliza com um incidente instaurado no âmbito da recuperação judicial, como procedimento concursal, não se concebendo, nem mesmo, uma aproximação, dada a especificidade dos ritos previstos na Lei 11.101.
+Não se pode cogitar, além disso, da presença de uma questão de ordem pública, presente questionamento especialmente voltado para um crédito e suas peculiaridades características, tudo circunscrito à ordem privada, inviabilizando a apreciação de ofício das matérias em relevo.
+Assim, correta a decisão recorrida que reconheceu a preclusão da manifestação da agravante, bem como a perda superveniente do interesse de agir do agravado, ante o acolhimento da divergência pelo administrador judicial.
+Não há, em suma, possibilidade de reabrir a discussão acerca da natureza do crédito do agravado, conforme pretende a agravante após a exclusão do respectivo crédito no quadro geral decredores, uma vez ultrapassado o prazo instituído pelo artigo 8º da Lei 11.101/2005(e-STJ, fls. 186/189).
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECUPERAÇÃO JUDICIAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. IMPUGNAÇAO DE CRÉDITO. AUSÊNCIA DE PREQUESTIONAMENTO DOS PRECEITOS LEGAIS DITOS VIOLADOS. SÚMULAS NºS 282 E 356 DO STF. PRETENSÃO RECURSAL OBSTADA PELA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
