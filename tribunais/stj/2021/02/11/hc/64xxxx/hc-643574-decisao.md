@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido de liminar, impetrado em benefício de JONATHAN RUBENS BEZERRA DE SOUZAcontra decisão de desembargador do Tribunal de Justiça do Estado de Minas Gerais, proferida noHC n. 1.0000.21.015305-2/000, que indeferiu o pleito sumário.
+Extrai-se dos autos que o paciente foipreso em flagrante em 13/10/2020, convertida em prisão preventiva, restandodenunciado pela prática, em tese, dos crimes dispostos nosartigos121, §2º, inciso IV, c.c oart. 61, I e c.c o art. 14, II, todosdo Código Penal (homicídio qualificado tentado). Pleiteada a revogação da custódia preventiva, restou indeferida pelo Juízo de primeiro grau.
+Irresignada, a defesa impetrouhabeas corpus originário, cuja liminar foi indeferida conforme decisão acostada às fls. 101/104.
+No presente writ, a parte impetrante alega necessidade de superação da Súmula n. 691 do Supremo Tribunal Federal, sustentando que a decisão impugnada reveste-se de uma dupla teratologia, por ter sido proferida de forma contrária ao preceito do art. 226 do CPP e do decididonos autos do HC n. 598.886 desta Corte Superior de Justiça.
+Afirma que odecisumque manteve a preventiva do pacientefundamentou-se em reconhecimento fotográfico realizado por uma testemunha e pela vítima, ambos sem observância do art. 226 doCPP.
+Aduz que "a não observância das formalidades legais para o reconhecimento fotográfico de suspeito de praticar um delito, torna o ato nulo e, portanto, jamais pode ser utilizado para embasar decisão que decreta a preventiva nem tampouco para subsidiar uma condenação, pois se trata de prova ilícita que foi utilizada como fundamento da decisão" (fl. 09).
+Pondera que a custódia do paciente deu-se em outubro de 2020, sem que até o presente momento tenha sido revisada e valorada conforme os ditames doart. 316, parágrafo único, do CPP.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva do paciente, bem como a nulidade dos autos de reconhecimento fotográficos, expedindo-se o competente alvará de soltura.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido, destaco os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS INDEFERIDO LIMINARMENTE. ÓBICE DA SÚMULA 691/STF. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA.
+AUSÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA NA DECISÃO IMPUGNADA. AGRAVO DESPROVIDO.
+1. Ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância.
+2. Não há como acolher a tese de flagrante ilegalidade ou teratologia quando os marcos temporais analisados, prima facie, não revelam a ocorrência da prescrição da pretensão punitiva, nos termos pleiteados.
+3. Agravo regimental não provido(AgRg no HC 544.768/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/02/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. REGIME INICIAL SEMIABERTO. SAÍDA TEMPORÁRIA. REQUISITO OBJETIVO NÃO CUMPRIDO. NECESSIDADE DE CUMPRIMENTO DE 1/6 (UM SEXTO) DA PENA. HABEAS CORPUS INDEFERIDO LIMINARMENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. Não há ilegalidade flagrante ou teratologia no caso em apreço, mormente porque o entendimento desta Corte Superior é no sentido de que, à luz do disposto no art. 123, inciso II, da Lei de Execução Penal, o condenado deve atender ao requisito do prazo mínimo de cumprimento da pena, mesmo nos casos de condenados em regime inicial semiaberto.
+3. Agravo regimental desprovido(AgRg no HC 550.844/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+A propósito, o desembargador relator do Tribunal de origem indeferiu o pedido liminar, sob os seguintes fundamentos:
+"Analisando os motivos da pretensão, bem como atento à legislação específica aplicada ao caso, a priori, percebo não haver elementos que me levem à concessão da liminar, mormente pela gravidade dos fatos, em que o paciente, ao que parece, dirigiu-se ao local de trabalho da vítima, onde, de posse de uma barra de ferro, a surpreendeu, desferindo golpes contra sua cabeça e costas, evadindo se na sequência. Ressalta-se que o agente, ao tempo dos fatos, encontrava-se em cumprimento de pena por condenação por delito de tráfico de drogas. Sua prematura soltura pode inviabilizar a noção de respeito ao ordenamento social, tão caro à expectativa de segurança da população.
+Por isso aqui, em análise perfunctória percebe-se que a decisão impugnada não traduz ato de coação ilegal a justificar a antecipação da tutela. Isso porque o presente momento se prende à rasa análise da legalidade da medida constritiva ou constatação de gritante violação ao direito deambular do paciente, o que, primo ictu oculi, não se observa.
+Ainda, em uma primeira análise, não vislumbro a aventada ilegalidade do cárcere, ressaltando, a meu ver, serem dispensáveis as formalidades legais do art. 226 do CPP, as quais se tratam de mera recomendação legal, mormente quando o paciente é reconhecido por meio de fotografia pela vítima e testemunha.
+Ante o exposto:
+1. Indefiro o pleito liminar.
+2. Requisite-se, pois, as informações da d. Autoridade dita coatora, nos termos do artigo 448 RITJMG, em especial para que informe se a necessidade do cárcere foi revisada, nos termos do art. 316, parágrafo único, do CPP.
+3. Dê-se vista à d. Procuradoria-Geral de Justiça para apresentação de parecer, no prazo estabelecido pelo artigo 449 do RITJMG" (fl. 102).
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado pelo impetrante não estava manifesto e detectável de plano, de modo que a análise das alegações foi reservada ao colegiado, sendo necessárias as informações a serem prestadas pelo Juízo de primevo.
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
