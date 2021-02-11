@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de BRUNO GABRIEL RIBEIRO DE OLIVEIRAcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - RUA DA GLÓRIA(HC n. 2159263-39.2020.8.26.0000):
+O paciente teve a prisão preventiva decretada por suposta prática do delito descrito nos arts. 33, caput, da Lei n. 11.343/2006 e 16 da Lei n. 10.826/2003.
+O decreto prisional fundou-se na necessidade de garantia da ordem pública, em razão daexpressiva quantidadede drogas e demais materiais apreendidos - "duasdolas de maconha, duas metades de um tijolo de maconha, 520 pedras de crack, material usado para embalar entorpecente, balança digital, dinheiro, R$1.500, arma e munições" (fl. 4).
+O Tribunal de origem manteve a custódia cautelar, pois entendeu que estavam preenchidos os requisitos autorizadores da medida extrema. Na mesma oportunidade, ressaltou a incompatibilidade da aplicação das medidas cautelares do art. 319 do CPP com o caso concreto.
+Na presente impetração, a defesa aponta ausência dos requisitos previstos no art. 312 do CPP para manutenção da custódia cautelar.
+Requer a revogação da prisão preventiva e a consequente concessão da liberdade provisória ao paciente ou a aplicação de qualquer das medidas cautelares previstas no art. 319 do CPP.
+O pedido de liminar foi indeferido às fls. 150-151.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 186-188).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 13-15):
+Verifica-se, assim, que o paciente foi preso em flagrante em contexto que, pelas circunstâncias em que se desenvolveram os fatos, pela quantidade e variedade de entorpecentes apreendidos, se podia perfeitamente presumir que se destinavam ao comércio ilegal.
+Portanto, estão presentes os pressupostos da prisão cautelar, tendo em vista que a prova até aqui produzida, nos limites em que ela pode ser examinada no âmbito estreito do habeas corpus, indica o envolvimento do paciente na disseminação de drogas. Trata-se de atividade nefasta, que deve ser coibida com rigor, de modo que é cabível, no caso, a custódia preventiva, para garantia da ordem pública.
+ ..
+Ressalte-se que, no caso, o deferimento de qualquer outra medida cautelar diversa da prisão ao paciente seria claramente inadequado, insuficiente e geraria sentimento de impunidade, ainda mais em razão das circunstâncias já mencionadas e se tratando de crime tão nefasto, como o tráfico de entorpecentes. Vale destacar, também, que o delito de tráfico é punido com pena máxima superior a quatro anos, o que, nos termos do artigo 313, inciso I, do Código de Processo Penal, com a redação que lhe foi dada pela Lei nº 12.403/11, autoriza a decretação da prisão preventiva.
+ ..
+Por fim, como anotado pelo douto Procurador de Justiça, "o excesso de prazo para motivação da manutenção do cárcere a que também reclama a impetração foi, da mesma forma, justificado pelo d. Juízo, segundo o qual o processo corre atento aos prazos legais, sendo que o ultrapassar do prazo de 90 dias deve-se aos inúmeros outros feitos em tramitação nesta Vara além da suspensão dos prazos em decorrência da pandemia instaurada, não havendo, portanto, nada que caracterize abuso ou incúria do Juiz na condução da ação a que responde o paciente" (fls. 150).
+Portanto, inexiste constrangimento ilegal a ser reparado pela via do presente remédio constitucional.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para adecretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
