@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+MONITÓRIA. Cobrança de dívida oriunda de adesão a cartão de crédito.Ausência de faturas e demonstrativos da evolução do débito. Embargos do devedor questionando a origem da dívida. Necessidade de instrução para esclarecimento da controvérsia. Sentença anulada. Recurso provido."Não se antecipa a decisão do mérito quando ainda faltarem esclarecimentos sobre algum ponto relevante da demanda ou da defesa. Só se antecipa quando nenhuma prova seja necessária nem pericial, nem oral, nem documental".
+A parte recorrente sustenta que o acórdão estadual é omisso, sendo insubsistente a multa aplicada pela suposta oposição de embargos declaratórios protelatórios. Afirma que a petição inicial é inepta, pois não foi acompanhada de documentos comprobatórios da evolução do débito. Argumenta que a revelia do autor, verificada no atraso do oferecimento de contrarrazões aos embargos monitórios, implica a consideração como verdadeiros de todos os argumentos lançados pela defesa.
+Quanto à alegada violação ao art. 1.022, II, do Código de Processo Civil, sem razão o recorrente, haja vista que enfrentadas fundamentadamente todas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+A conclusão do Tribunal revisor - de que todos os documentos necessários ao ajuizamento da ação monitória foram apresentados pela instituição financeira - foi obtida pela análise do conteúdo fático dos autos, que se situa fora da esfera de atuação desta Corte, nos termos do enunciado 7 da Súmula do STJ.
+As razões do recurso especialnão fazem impugnação específica à aplicação da jurisprudência do Superior Tribunal de Justiça ao caso concreto, em relação ao tema dos efeitos da revelia, de modo que a questão atrai a incidência do verbete nº 283 da Súmula do Supremo Tribunal Federal.
+Em um ponto, porém, assiste razão à agravante.
+É que este STJ sumulou a orientação no sentido de que "embargos de declaração manifestados com notório propósito de prequestionamento não tem caráter protelatório" (Súmula 98).
+Em face do exposto, conheço do agravo para dar parcial provimento ao recurso especial, afastando a multa por embargos protelatórios.
+Intimem-se.
