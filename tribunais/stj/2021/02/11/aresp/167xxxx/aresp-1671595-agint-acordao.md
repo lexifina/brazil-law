@@ -1,0 +1,57 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIA ECONÔMICA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por JOSÉ FRANCISCO DA SILVA NETO em face da seguinte decisão, da Presidência desta Corte:
+"Trata-se de agravo apresentado por JOSÉ FRANCISCO DA SILVA NETO, contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim resumido:
+EMBARGOS À EXECUÇÃO CHEQUE 1 GRATUIDADE PEDIDO NEGADO INDÍCIOS DE SUFICIÊNCIA ECONÔMICA PARTE QUE MESMO EM SEDE RECURSAL NÃO APRESENTA ELEMENTOS CAPAZES DE CONVENCER SOBRE SUA ALEGADA INSUFICIÊNCIA DE RECURSOS PARA ARCAR COM OS CUSTOS DO PROCESSO 2 DIFERIMENTO QUE TAMBÉM EXIGE COMPROVAÇÃO DA IMPOSSIBILIDADE DE RECOLHIMENTO INDEFERIMENTO PELOS MESMOS FUNDAMENTOS 3 PARCELAMENTO DO RECOLHIMENTO DAS CUSTAS NÃO CABIMENTO NO CASO VALOR DAS CUSTAS INICIAIS QUE NÃO ATINGE NEM R$ 200,00 E NÃO COMPORTA O PARCELAMENTO PRETENDIDO AUSÊNCIA ADEMAIS DE PROVAS DE IMPOSSIBILIDADE DE RECOLHIMENTO INTEGRAL RECURSO NÃO PROVIDO COM OBSERVAÇÃO
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos artigos 3º, 98 e 99, §§ 2º e 4º, do Código de Processo Civil, no que concerne a concessão da gratuidade de justiça pleiteada, trazendo os seguintes argumentos:
+Ou seja, o legislador prevê que o ônus da parte é de demonstrar que não tem condições de arcar com as custas e não o contrário. Ora, o Recorrente comprovou que está devendo importância relativa ao uso de cartão de crédito e, também, mantém saldo negativo na instituição bancária, situação que, por si só, evidencia a insuficiência de recursos financeiros.
+Porém, em completo desrespeito à norma, o v. Acórdão, se valeu do valor da causa em comparação ao valor das custas para fundamentar que as mesmas não têm potencialidade de prejudicar o sustento próprio ou da família do Recorrente, e ainda, afirmou que a taxa judiciária inicial "não atinge nem R$ 200,00" (fl. 37).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega dissídio jurisprudencial, no que concerne a interpretação dada aos artigos de lei federal apontados como violados.
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Com efeito, bem analisados os documentos trazidos aos autos é possível concluir que a renda da entidade familiar do requerente é suficiente para fazer frente às despesas processuais.
+O extrato de fls. 37 dos autos principais, embora desatualizado e com saldo negativo, dá conta de intensa movimentação na conta do agravante, em valores incompatíveis com a declaração de pobreza.
+Além disso, o requerente possui mais de um imóvel residencial, e juntamente com sua esposa aufere renda média mensal superior à R$ 4.000,00 (considerando apenas os rendimentos tributáveis recebidos por sua esposa, já que sua o declaração não veio completa nos autos).
+Tendo isso em conta, e considerando a natureza e o valor da causa (R$ 19.795,00 - fls. 18 dos autos principais), não há como afirmar que os custos desta 0s demanda tenham potencialidade de prejudicar o sustento próprio ou da família do requerente. Apenas como exemplo, temos que o valor da taxa judiciária inicial (1% do valor da causa), não atinge nem R$ 200,00, e pode muito bem ser suportada pelo requerente (fls. 25-26).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório. Incidência da súmula 7/STJ (AgInt no AREsp 897.498/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 16/8/2016).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.173.115/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/4/2018; REsp 1.784.623/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/3/2019; AgInt no AREsp 842.261/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 8/3/2018; AgInt no AREsp 1.297.646/RS, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 5/8/2019.
+Quanto à segunda controvérsia, na espécie, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no AREsp n. 1.312.148/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018).
+Confiram-se ainda os seguintes precedentes: AgInt no AgInt no REsp n. 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; AgInt no AREsp n. 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018; AgRg no AREsp n. 695.443/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 25/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial"
+Em suas razões, afirma que não há falar em reexame do conjunto probatório, para o deslinde da controvérsia, o que afasta a incidência da Súmula 7/STJ.
+Alega que "não se busca no presente recurso a análise dos documentos acostados aos autos. Toda a matéria aduzida deve ser analisada de forma objetiva pelo conteúdo do acórdão recorrido" (fl. 97, e-STJ).
+Sustenta que o dissídio jurisprudencial foi demonstrado nos moldes legais e regimentais.
+Intimada, a parte agravada não apresentou impugnação (fl. 103, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCESSÃO DE JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIA ECONÔMICA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do artigo 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não merece provimento.
+Os argumentos jurídicos trazidos nas razões do agravo interno não se prestam a modificar o posicionamento anteriormente adotado.
+Em nova análise do recurso, observo que o TJSP relatou que "bem analisados os documentos trazidos aos autos é possível concluir que a renda da entidade familiar do requerente é suficiente para fazer frente às despesas processuais. O extrato de fls. 37 dos autos principais, embora desatualizado e com saldo negativo, dá conta de intensa movimentação na conta do agravante, em valores incompatíveis com a declaração de pobreza. Além disso, o requerente possui mais de um imóvel residencial, e juntamente com sua esposa aufere renda média mensal superior a R$ 4.000,00 (considerando apenas os rendimentos tributáveis recebidos por sua esposa, já que sua declaração não veio completa nos autos)".
+Encontra-se, ainda, no acórdão estadual a conclusão de que "Tendo isso em conta, e considerando a natureza e o valor da causa (R$ 19.795,00 fls. 18 dos autos principais), não há como afirmar que os custos desta demanda tenham potencialidade de prejudicar o sustento próprio ou da família do requerente. Apenas como exemplo, temos que o valor da taxa judiciária inicial (1% do valor da causa), não atinge nem R$ 200,00, e pode muito bem ser suportada pelo requerente".
+Inviável a apreciação dos fatos e provas constantes dos autos, bem como a conclusão da origem acerca destes, a fim de verificar sobre a demonstração de fato constitutivo, por exigir o reexame fático e esbarrar no óbice da Súmula 7/STJ.
+Acrescento que a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula 7/STJ, tendo em vista que não é possível encontrar similitude fática entre o acórdão combatido e os acórdãos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas, sim, de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. REEXAME DE PROVA. SÚMULAS NºS 5 E 7/STJ. DISSÍDIO PREJUDICADO.
+1. A tese veiculada nos artigos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente, não foi indicada a contrariedade ao art. 535 do Código de Processo Civil, motivo pelo qual, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ.
+2. Para prevalecer a conclusão em sentido contrário ao decidido pelo tribunal estadual, necessária se faz a revisão do contrato e do acervo fático dos autos, o que, como já decidido, encontra-se inviabilizada, nesta instância superior, pelas Súmulas nºs 5 e 7/STJ.
+3. A ausência de prequestionamento e a necessidade do reexame da matéria fática inviabilizam o recurso especial também pela alínea "c" do permissivo constitucional, restando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo regimental não provido.
+(AgRg no AREsp 737.080/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 23/2/2016)
+Em face do exposto, não havendo o que se reformar, nego provimento ao agravo interno.
+É como voto.
