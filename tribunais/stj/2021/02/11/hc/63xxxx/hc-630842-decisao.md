@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de JOEL VARGAS DOS SANTOS contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação n. 0091613-96.2020.8.21.7000).
+Consta dos autos que o paciente foi indiciado pela prática dos delitos de lesão corporal em âmbito doméstico (art. 129 do Código Penal) e posse de munição de arma de fogo de uso permitido (art. 12 da Lei n. 10.826/03) (fl. 68).
+O Juízo de primeiro grau, atendendo manifestação do Parquet estadual, determinou o encaminhamento das cópias referentes ao primeiro crime para a vara especializada (fl. 86) e recebeu a denúncia quanto ao segundo delito (fl. 98).
+Após a resposta à acusação, o Juiz sentenciante absolveu sumariamente o ora paciente da acusação de ter praticado o crime de posse de munição, com base no princípio da insignificância (fls. 124/127).
+O Tribunal a quo, por sua vez, deu provimento à apelação da acusação, desconstituindo a sentença e determinando o prosseguimento do feito.
+No presente mandamus, a impetrante alega que a apreensão das munições desacompanhadas de arma de fogo é incapaz de gerar lesão ou perigo de lesão ao bem tutelado e que seria inexpressiva a quantidade apreendida (15 munições). Sendo assim, a conduta não possuiria tipicidade material, devendo ser restabelecida a sentença absolutória.
+Requer a concessão da ordem nesse sentido.
+Indeferido o pedido liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem (fls. 196/198).
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+Conforme relatado,o Juízo de primeiro grau absolveu sumariamente o paciente, que tinha em sua residência 15 cartuchos de arma de fogo calibre 38.O Tribunal a quo, por sua vez, deu provimento à apelação da acusação, desconstituindo a sentença e determinando o prosseguimento do feito.
+A impetrante requer o aplicação do princípio da insignificância.
+Razão lhe assiste.
+O atual entendimento do Superior Tribunal de Justiça é no sentido de que a apreensão de pequena quantidade de munição, desacompanhada da arma de fogo, permite a aplicação do princípio da insignificância ou bagatela. Nesse sentido, os seguintes julgados:
+PENAL. RECURSO ESPECIAL. CRIME DE POSSE ILEGAL DE MUNIÇÃO DE USO RESTRITO. CRIME DE PERIGO ABSTRATO. PRINCÍPIO DA INSIGNIFICÂNCIA. 8 MUNIÇÕES. AUSÊNCIA DE ARMAS APTAS PARA DISPARAR. POSSIBILIDADE. RECURSO PROVIDO.
+1. O princípio da insignificância é parâmetro utilizado para interpretação da norma penal incriminadora, buscando evitar que o instrumento repressivo estatal persiga condutas que gerem lesões inexpressivas ao bem jurídico tutelado ou, ainda, sequer lhe causem ameaça.
+2. A Sexta Turma do Superior Tribunal de Justiça, alinhando-se ao Supremo Tribunal Federal, tem entendido pela possibilidade da aplicação do princípio da insignificância aos crimes previstos na Lei 10.826/03, a despeito de serem delitos de mera conduta, afastando, assim, a tipicidade material da conduta, quando evidenciada flagrante desproporcionalidade da resposta penal.
+3. Ainda que formalmente típica, a apreensão de 8 munições na gaveta do quarto da ré não é capaz de lesionar ou mesmo ameaçar o bem jurídico tutelado, mormente porque ausente qualquer tipo de armamento capaz de deflagrar os projéteis encontrados em seu poder.
+4. Recurso especial provido.(REsp 1735871/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/06/2018, DJe 22/06/2018)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DENÚNCIA, APENAS, EM RELAÇÃO AO CRIME TIPIFICADO NO ART. 16, CAPUT, DA LEI N. 10.826/2003. PORTE ILEGAL DE 17 MUNIÇÕES, ATUALMENTE DE USO PERMITIDO, DESACOMPANHADAS DE ARMA DE FOGO. SENTENÇA ABSOLUTÓRIA REFORMADA EM GRAU DE APELAÇÃO.FUNDAMENTAÇÃO GENÉRICA. CONSTRANGIMENTO ILEGAL VERIFICADO.INCIDÊNCIA DO PRINCÍPIO DA INSIGNIFICÂNCIA. POSSIBILIDADE. CONTEXTO FÁTICO QUE NÃO REVELA ESPECIAL GRAVIDADE. PRECEDENTES. AGRAVO IMPROVIDO.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+2. A jurisprudência dos Tribunais Superiores reconheceu ser possível aplicar o princípio da insignificância na hipótese de apreensão de pequena quantidade de munição (em regra, de uso permitido), desacompanhada de arma de fogo, tendo concluído pela total inexistência de perigo à incolumidade pública.
+3. Na hipótese dos autos, a Corte de origem, sem considerar as excepcionalidades do caso concreto, entendeu que a atipicidade da conduta somente tem lugar quando apreendidos até 6 (seis) cartuchos de munições. Contudo, embora a conduta do acusado amolde-se formalmente ao tipo penal previsto no art. 16, caput, da Lei n.10.826/2003, na hipótese dos autos, verifica-se a possibilidade de aplicação do princípio da insignificância, devendo ser restabelecida a sentença absolutória de primeiro grau.
+4. Foram apreendidas com o acusado, em via pública, 17 munições (atualmente consideradas de uso permitido), e, posteriormente, 1 colete balístico e pinos vazios possivelmente utilizados como invólucros de drogas, encontrados em sua residência. Assim, ainda que considerado referido contexto fático, tem-se que as circunstâncias não denotam especial gravidade, a afastar a incidência do princípio da insignificância, dada a incapacidade de os itens apreendidos causarem ofensa à incolumidade pública.
+5. Agravo regimental em habeas corpus improvido.(AgRg no HC 566.373/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/05/2020, DJe 18/05/2020)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para, reconhecida a incidência do princípio da insignificância, restabelecer a sentença penal absolutória.
+Publique-se.
+Intimações necessárias.
