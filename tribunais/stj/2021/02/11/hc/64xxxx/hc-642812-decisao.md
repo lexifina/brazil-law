@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fls. 61-62):
+DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA CONDENATÓRIA RECORRÍVEL. FUNDAMENTAÇÃO PER RELATIONEM.MOTIVAÇÃO CONCRETA QUANTO AOS REQUISITOS DO ART. 312 DO CPP.AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+I - A ratificação de fundamentos já lançados por ocasião do decreto de prisão cautelar na sentença condenatória recorrível que aplicou ao paciente a pena de 17 anos e 11 meses de reclusão pelo cometimento do delito do art. 33 combinado com os arts. 35 e 40, I da Lei 11.343/06 não desatende ao disposto no art. 315, § 2º, III do Código de Processo Penal.
+II - O só fato de ter havido transcurso de tempo entre as decisões não implica necessariamente mudança substancial do panorama que justifique nova fundamentação se as suspeitas iniciais, como na hipótese, restaram ainda mais reforçadas com a prolação da sentença condenatória recorrível.
+III - Para além da gravidade concreta do delito, mesmo sendo afastado o papel de liderança da organização criminosa pelo paciente, não há dúvidas que os vetores atinentes à qualidade e quantidade de drogas apreendidos em apenas uma oportunidade - aproximadamente 123 (cento e vinte e três) quilos de cocaína, bem assim ao fato de o paciente ter coordenado à distância toda a operação investigada, indicam concretamente a necessidade de preservação da ordem pública mediante tal cautela, combatendo-se e evitando-se a prática de novos delitos, inclusive o de tráfico internacional de drogas.
+IV - O requisito da aplicação da lei penal, em idêntico sentido, também está suficientemente caracterizado no caso em apreciação, porquanto a informação quanto a endereço fixo do paciente em território nacional não desautoriza a conclusão de que aquele não detém qualqueroutro vínculo no Brasil; ao que se soma a conhecida capacidade financeira dessas organizações, refletidas diretamente a partir da quantidade de cocaína aprendida no caso em apreço.
+V - A contemporaneidade não é, igualmente, argumento que dê amparo à tese da defesa, uma vez que a análise de tal nuance deve considerar a decretação da prisão cautelar propriamente dita diante dos fatos, e não sua a manutenção, em sede de cognição exauriente, como é o caso da sentença penal condenatória recorrível.
+VI - Sob o crivo da Recomendação 62/2020 do CNJ, sem embargo de sua relevância e necessária consideração, e do fato de o paciente ser portador de HIV, não logrou êxito a defesa em demonstrar a impossibilidade de se dar continuidade ao tratamento dentro do sistema prisional ou qualquer situação de saúde debilitada em razão dessa suposta ineficiência do Estado, especialmente diante dos elementos trazidos aos autos pela Administração Penitenciária no que concerne concretamente ao paciente.
+VII - Ordem denegada.
+O paciente foi condenado à pena de 17 anos e 11 meses de reclusão, no regime inicial fechado, e ao pagamento de2.155 dias-multa, no valor unitário de R$ 1.500,00, por ter praticado, em concurso material (art. 69 do CP), o crime do art. 33, caput, c/c art. 40, I, ambos da Lei 11.343/2006 em 18/04/2017, e o crime do art. 35, caput, c/c art. 40, I, ambos da Lei11.343/2006 no período de janeiro a 18/04/2017.
+Sustenta o impetrante, em síntese, que o paciente está preso preventivamente há quase 3 anos e que não estão presentes os requisitos da prisão preventiva. Alegaausência de fundamentação na decisão hostilizada e de contemporaneidade da prisão preventiva. Aduz, ainda, que não foram observados osarts. 59 da Lei 11.343/06 e5º, LVII, da CF/88, bem como que deve ser observada arecomendação 62 do CNJ.
+Requer, liminarmente e no mérito, a concessão dohabeas corpuspara que seja concedida a prisão domiciliar com monitoramento eletrônico e acautelamento do passaporte do paciente.
+É o relatório.
+DECIDO.
+O rito dohabeas corpusdemanda prova documental pré-constituída do direito alegado pelo impetrante.
+Na hipótese, o impetrante não colacionou aos autos cópia integral do acórdão recorrido.
+Dessa forma, a ausência de peça essencial ao deslinde da controvérsia, impede o exame sobre as alegações, razão pela qual deve ser negado seguimento ao presentewrit, impetrado por profissional legalmente habilitado.A propósito, os seguintes precedentes:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+2. A inicial do writ não veio acompanhada da cópia do acórdão proferido por ocasião do julgamento da apelação, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+3. Pedido de reconsideração recebido como agravo regimental. Agravo não provido.
+(PET no HC 584.863/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 09/06/2020, DJe 17/06/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido.
+(AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
