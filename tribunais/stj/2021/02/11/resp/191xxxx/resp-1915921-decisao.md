@@ -1,0 +1,22 @@
+DECISÃO
+CAOMA CATARINA DA SILVA e CESAR AUGUSTO CAVALCANTE DA SILVA interpõem recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0006977-83.2015.8.26.0292.
+Depreende-se dos autos que os réus foramcondenados a 5 anos e 6 meses de reclusão, em regime fechado,mais 13 dias-multa, pela prática do crime previsto no art. 157, § 2º, I e II, do CP.
+O Tribunal de origem negou provimento à apelação defensiva.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou o art. 157, § 2º, do CP, ao argumento de que, na terceira fase do cálculo dosimétrico,foi aplicada fração de aumento superior ao mínimo legal em decorrência apenas do número de majorantes do roubo configuradas nos autos.
+Sustenta afronta ao art. 33, § 3º, do CP, uma vez que foi imposto regime mais gravoso que o devido, mediante fundamentação inidônea.
+Requer seja aumentada em apenas 1/3 a pena na terceira fase da dosimetria e determinado o cumprimento inicial da reprimenda na modalidade semiaberta.
+Apresentadas as contrarrazões e admitido o especial na origem, o Ministério Público Federal opinou pelo seu não provimento.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+Na terceira e derradeira, considerando que o crime foi cometido em concurso de agentes e com emprego de arma de fogo, o que acarreta uma resposta penal mais energia (sic), agiu com o devido acerto o d. magistrado de primeiro grau em utilizar fração diversa da mínima, qual seja, 3/8 (três oitavos), fixando, em definitivo,no patamar de 05 (cinco) anos e 06 (seis) meses de reclusão e pagamento de 13 (treze) dias-multa, no valor mínimo legal.
+Fica mantido, ainda, o regime inicial fechado,pois, na espécie, os insurgentes demonstraram maior periculosidade e ousadia ao render a vítima, dentro do posto de gasolina, com emprego de arma de fogo com numeração raspada e em concurso de agentes, gerando, assim, um alto grau de reprovabilidade em sua conduta, não condizente com um regime inicial mais brando.
+(fls. 514-515, destaquei)
+Pela leitura desse excerto, verifico que a instância antecedente justificou o aumento da pena, na terceira fase da dosimetria, apenas com base no número de majorantes incidentes no caso, sem apontar elementos dos autos que, efetivamente, evidenciassem a real necessidade de exasperação da pena no patamar estabelecido.
+Este Superior Tribunal vem reiteradamente decidindo que, em se tratando de roubo com a presença de mais de uma causa de aumento, a majoração da pena acima do mínimo legal (um terço) requer devida fundamentação, com referência a circunstâncias concretas que justifiquem um acréscimo mais expressivo, não sendo suficiente a simples menção ao número de causas de aumento de pena, como ocorrido no caso em análise.
+Confira-se, a propósito, o seguinte precedente: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes. Súmula n. 443 do STJ" (HC n. 297.160/SP, 6ª T., Rel. Ministro Rogerio Schietti, DJe 3/11/2014).
+Ressalto que a matéria se encontra sumulada por esta Corte, em seu enunciado n. 443: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Dessa maneira, ao rever a dosimetria da terceira etapa,substituo a fração de aumento de 3/8 pela de 1/3, com o que chego à pena final de 5 anos e 4 meses de reclusão mais 13 dias-multa.
+Ante a quantidade de pena (entre 4 e 8 anos) e a ausência de registro de reincidência e de circunstâncias judiciais negativas, deve ser imposto o regime inicial semiaberto, a teor do art. 33, §§ 2º, "b", e 3º do Código Penal.
+Nesse sentido, a jurisprudência do STJ já firmou que, "Tratando-se de réu primário, ao qual foi imposta pena superior a 4 anos e inferior a 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional,  ..  deve a reprimenda ser cumprida, desde logo, em regime semiaberto" (HC n. 402.317/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 27/9/2017).
+Diante do exposto, dou provimento ao recurso especial, com o intuito de diminuir a sanção para 5 anos e 4 meses de reclusão, em regime semiaberto, mais 13 dias-multa.
+Publique-se e intimem-se.
