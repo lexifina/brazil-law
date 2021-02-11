@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por FRANCISCO DAS CHAGAS TEIXEIRA contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Acidente do Trabalho Ação Rescisória de Acórdão Alegação de manifesta violação a resolução editada pela Secretaria de Estado de Saúde do Estado de São Paulo Ato administrativo que busca regulamentar critérios para o diagnóstico de perda auditiva induzida por ruído ocupacional, bem como formas de prevenção da doença aos trabalhadores expostos ao agente agressivo Ausência de conteúdo normativo jurídico a direcionar decisões judiciais Não enquadramento na hipótese do inciso V, do artigo 966, do CPC Autor carecedor da ação Indeferimento da petição inicial.
+Alega violação do art. 21-A da Lei n. 8.213/1991. Afirma que os ruídos ocupacionais não foram devidamente apreciados no decorrer da ação por acidente de trabalho, trazendo o(s) seguinte(s) argumento(s):
+O Venerável acórdão rescindendo julgou improcedente a ação de acidente do trabalho baseando-se em uma prova judicial QUE MANIFESTAMENTE VIOLOU A NORMA JURIDICA DO ARTIGO 21-A, SEM QUE OS RUIDOS OCUPACIONAIS TENHAM SIDO AVALIADOS.
+Não trata-se de discutir a "PROVA PROCESSUAL", mas sim AFRONTA A LEI FEDERAL NO SEU ARTIGO 21-A, DA LEI 8.213/91 (fl. 268).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+O autor é carecedor do direito de ação, sendo de rigor o indeferimento da petição inicial e o julgamento da demanda sem apreciação de mérito.
+De fato, respeitadas as alegações lançadas pelo requerente, a hipótese em estudo não se enquadra no inciso V, do artigo 966, do CPC.
+O autor menciona violação ao teor da Resolução SS-317/94, da Secretaria de Estado de Saúde do Estado de São Paulo, a qual transcrevo, em parte, para melhor ilustração:
+RESOLUÇÃO SS Nº 317, DE 24 DE MAIO DE 1994.
+Aprova Norma Técnica que dispõe sobre o diagnóstico da Perda Auditiva Induzida por Ruído e a Redução e Controle do Ruído nos Ambientes e Postos de Trabalho.
+O Secretário da Saúde, Considerando as disposições previstas nas Constituições Federal e do Estado de São Paulo, na Lei 8.080 de 19/09/90, no que se refere às competências dos Poderes Públicos e do Sistema Único de Saúde - SUS nas áreas de saúde do trabalhador;
+Considerando a importância dos efeitos da exposição ocupacional ao ruído sobre a saúde dos trabalhadores e que estes efeitos podem ser irreversíveis;
+Considerando o expressivo número de trabalhadores expostos ao ruído, nos ambientes e postos de trabalho, existindo a possibilidade de se prevenir os efeitos nocivos do ruído à saúde, através de medidas que visam sua redução e controle;
+Considerando a necessidade de criação de programas eficientes de vigilância à saúde, com adoção de procedimentos padronizados para diagnóstico da perda auditiva induzida por ruído;
+Considerando que foram efetuados trabalhos e discussões, com a participação de equipes multiinstitucionais e pluridisciplinar;
+Considerando que a matéria está prevista no Decreto 12.342 de 27/09/78 - Código Sanitário do Estado de São Paulo - em especial nos artigos 343 e 344 que tratam do Controle da Poluição do Meio Ambiente, com previsões para as infrações de natureza sanitária;
+Considerando que o assunto foi discutido, analisado e aprovado na Comissão de Normas Técnicas - CNT do dia 13/04/94, Resolve:
+Art. 1º - Fica aprovada a Norma Técnica que dispõe sobre o diagnóstico da Perda Auditiva Induzida por Ruído e a Redução e Controle do Ruído nos Ambientes e Postos de Trabalho, na forma do anexo desta Resolução.
+Como se vê, a Resolução citada pelo autor, e transcrita parcialmente acima, buscou fixar critérios para permitir, no âmbito de atuação da Secretaria da Saúde do Estado de São Paulo, a melhor forma de diagnosticar a perda auditiva induzida por ruído ocupacional e suas formas de prevenção, evitando, dentro do possível, minimizar o risco à saúde do trabalhador exposto a esse tipo de agente agressivo.
+É, por natureza, mero ato administrativo, emanado do Poder Executivo, dentro das atribuições estabelecidas pela legislação.
+Não se trata, então, de norma ou regra jurídica, proveniente do Poder Legislativo, com força para vincular e direcionar o órgão jurisdicional, na tarefa de verificar a presença dos requisitos que autorizam o amparo acidentário (nexo causal e incapacidade laborativa).
+Nessa linha de raciocínio, incabível o enquadramento da hipótese no inciso V, do artigo 966, do CPC, pois não se trata de norma jurídica e, sim, mero ato administrativo emanado do Poder Executivo.
+POSTO ISTO, pelo meu voto, por ser o autor carecedor do direito de ação, indefiro a petição inicial, e extingo o feito sem apreciação de mérito, com base nos artigos 330, inciso III, e 485, incisos I e VI, do Código de Processo Civil, com isenção quanto aos encargos da sucumbência, diante do disposto no parágrafo único, do artigo 129, da Lei nº 8.213/91 (fls. 255-258).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
