@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por IRINEU ZANATTA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO, assim resumido:
+AGRAVO DE INSTRUMENTO - INCIDENTE DE PEDIDO DE JUSTIÇA GRATUITA - ESPÓLIO - HIPOSSUFICIÊNCIA NÃO DEMONSTRADA - REQUISITO NECESSÁRIO - INDEFERIMENTO - RECURSO NÃO PROVIDO.
+O espólio tem direto ao benefício da justiça gratuita desde que demonstrada sua hipossuficiência (Edição n. 149 do Jurisprudência em Teses do STJ, de 29 de maio de 2020).
+Quanto à controvérsia, alega violação dos arts. 98 e 99 do CPC, no que concerne à concessão da assistência judiciária gratuita, trazendo os seguintes argumentos:
+Denota-se por meio dos extratos de processos em anexo, que o Espólio é parte em diversas demandas judiciais ajuizados em seu desfavor, assim, caso a justiça gratuita não lhe seja concedida não teria condições de demandar em juízo por falta de recursos financeiros, salientando que o Espólio responde a mais de 8 (oito) execuções somente com relação ao Banco do Brasil, a qual almeja a obtenção de crédito de milhões, logo ter negado o seu direito de defesa por não recolher custas lhe causaria a verdadeira bancarrota.
+Enfatiza, ainda, que o espólio no curso do seu processo teve seus bens dilapidados e ocultados por outros administradores, o que inclusive comprometeu a sua saúde financeira, logo todo esse conglomerado de bens sustentado inexiste pois foram ocultados e extraviados, conforme pode-se observar do andamento dos autos de remoção de inventariante, processo no 66186, em trâmite na comarca de Campo Novo do Parecis (fl. 154).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O agravante aduz que não tem condições de pagar as custas e despesas processuais pois todo seu rendimento está comprometido.
+(..)
+Intimado a provar a necessidade de obter esse direito, juntou documentos que revelam ser parte em inúmeras lides, ter dívidas de natureza alimentar e também na PGFN.
+Ocorre que não são suficientes para desconstituir os fundamentos do decisum, já que o agravante não fez alusão ao fato de ter diversos bens móveis e imóveis nem mostrou de forma concreta que não gerem renda satisfatória. Portanto, não comprovou sua incapacidade de assumir os encargos decorrentes do processo (fl. 111).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
