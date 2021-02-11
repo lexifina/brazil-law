@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por CAIXA SEGURADORA ESPECIALIZADA EM SAÚDE S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO INTERNO - Interposição contra decisão do relator que negou provimento aos recursos - Inconformismo - Desacolhimento - Parte agravada, anteriormente submetida a gastrectomia vertical em razão da obesidade, possui quadro sem melhora de refluxo gastresofágico incontrolável com medicação, comprovou que é usuária do plano de saúde/seguro saúde e necessita dos procedimentos cirúrgicos descritos no relatório médico - Negativa de cobertura abusiva - Inteligência da Súmula 102 deste Egrégio Tribunal de Justiça - Decisão mantida - Recurso desprovido. (fls. 423)
+O recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 757 e 760 do CC e art. 12 da Lei 9.656/98, no que concerne à cobertura de tratamento não previsto em apólice contratual, trazendo os seguintes argumentos:
+9. Diga-se, desde logo, que considerar como abusiva a exclusão contratual - incontroversa - para tratamento não obrigatório previsto pelo Rol de Procedimentos e Eventos em Saúde divulgado pela ANS, além de consubstanciar entendimento manifestamente incompatível com a lógica de funcionamento dos planos de saúde, implica em direta violação ao o art. 12 da Lei 9.656/98, bem como arts. 757 e 760 do CC.
+10. Nesse particular, é fundamental que se tenha em mente que a operadora estipula a contraprestação dos consumidores de acordo com as coberturas previstas no tipo de seguro que contrataram. Com base nessas coberturas e no custo do seu fornecimento, calcula-se o montante devido a título de contraprestação.
+ ..
+13. No caso, a coletividade de titulares de contratos de planos de saúde não pode ter acesso a uma cobertura não que não esteja prevista em contrato e que não conste do rol de procedimentos obrigatórios da ANS - que, frise-se, por esse motivo não foram levadas em conta pela operadora quando da elaboração dos cálculos atuariais e fixação do prêmio.
+14. É justamente essa, pois, a norma dos arts. 757 e 760 do CC, que é claro ao delimitar as obrigações da seguradora aos riscos predeterminados:  ..
+15. Dessa forma, ao entender como abusiva a limitação contratual, o aresto acabou por violar frontalmente os referidos dispositivos, que asseguram à seguradora que os riscos por ela cobertos serão somente os pactuados na avença.
+16. Por outro lado, verifica-se que o art. 12 da Lei 9.656/98, ao contrário do que apontou o aresto, é claro ao vincular a cobertura mínima àquelas previstas no plano-referência (regulado pela ANS por meio do Rol de Procedimentos e Eventos em Saúde), bem como a exigências mínimas.
+ ..
+18. Dessa forma, o aresto recorrido, ao entender que o Rol de Procedimentos e Eventos da ANS estaria em desacordo com o art. 12 da Lei 9.656/98 incorreu em gravíssimo equívoco, tendo em vista que o primeiro nada mais é do que uma listagem mais vasta e atualizada que engloba todos os requisitos do segundo.
+ ..
+24. Como se vê, a observância dos termos previstos na apólice contratada não implica em desrespeito à dignidade, saúde ou segurança dos beneficiários, tampouco às normas do CDC, como equivocadamente apontou o aresto recorrido. (fls. 431-437)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A decisão hostilizada foi proferida nestes termos:
+"Nego provimento aos recursos.
+Registro, inicialmente, que a presente decisão monocrática tem respaldo no art. 932, inc. IV, letra a, do Código de Processo Civil (súmula do próprio tribunal).
+Com efeito, a parte autora, anteriormente submetida a gastrectomia vertical em razão da obesidade, possui quadro sem melhora de refluxo gastresofágico incontrolável com medicação, comprovou que é usuária do plano de saúde/seguro saúde e necessita dos procedimentos cirúrgicos descritos no relatório médico acostado a fls. 13. A parte ré, por seu turno, negou a cobertura, sob o fundamento de se tratar de procedimentos não recomendados para o quadro clínico da autora (fls. 14/15).
+Contudo, se o tratamento da doença está coberto pelo contrato de plano de saúde/seguro saúde, não é razoável que haja limitação do procedimento necessário ao pleno restabelecimento da saúde de pacientes com referida patologia. A abusividade reside exatamente no impedimento de a parte autora realizar as cirurgias prescritas pelo médico que a assiste, necessárias para o controle do refluxo.
+É dizer, a negativa de cobertura do procedimento cirúrgico discutido restringe direito inerente à natureza do contrato, nos termos do art. 51, § 1º, inc. II, do Código de Defesa do Consumidor, sendo patente a abusividade da cláusula invocada pela parte ré, aplicando-se ao caso, ainda, a Súmula 102 deste Egrégio Tribunal de Justiça.
+Assim, é patente a abusividade da negativa de cobertura integral do procedimento em discussão.
+Por outro lado, os danos morais alegados pela autora não estão configurados, uma vez que tal pretensão só se verifica em situações excepcionais de grande abalo psicológico, o que não ocorreu no caso presente.
+Note-se que o único relatório médico acostado aos autos não descreve situação de urgência/emergência (fls. 13). Além disso, a autora não recorreu da r. decisão que indeferiu o pedido de tutela de urgência (fls. 23). Ademais, não há relato de piora no estado de saúde da autora.
+Já a sucumbência recíproca foi bem fixada, tendo em vista que a autora sucumbiu de metade dos seus pedidos (obrigação de fazer procedente e indenização improcedente).
+Finalmente, cabe a majoração dos honorários advocatícios de R$ 1.500,00 para R$ 2.000,00, considerando o trabalho adicional realizado pelo advogado das partes, nos termos do art. 85, § 11, do Código de Processo Civil, observada a gratuidade concedida à autora (v. fls. 23).
+Em suma, a r. sentença apelada não comporta reparos.
+Por fim, uma advertência: o recurso interposto contra esta decisão poderá ficar sujeito a multa.
+Posto isso, nego provimento aos recursos".
+A decisão de fls. 405/407, que negou provimento aos recursos, bem analisou os requisitos legais previstos na legislação processual.
+Ademais, repita-se: a decisão recorrida foi muito clara ao destacar a abusividade da negativa de cobertura do procedimento cirúrgico indicado para tratamento do refluxo incontrolável com medicação. Ou seja, é patente que o procedimento nada tem de estético, sendo irrelevante discorrer sobre o estado físico da autora. (fls. 423-425)
+Assim, deveras, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
