@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por Instituto Nacional do Seguro Socialcontra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (e-STJ, fls. 254/259):
+AUTOS RESTITUÍDOS AO COLEGIADO PELA PRESUTRF1 PARA REEXAME DA MATÉRIA - RGPS/INSS - DESAPOSENTAÇÃO  JUIZO DE RETRATAÇÃO (RG-RE Nº 661.256/SC)  ART. 1.040, II, DO CPC/2015.
+1  O CPC/2015 estipula que (art. 8º), "Ao aplicar o ordenamento jurídico, o juiz atenderá (..) a eficiência" e que (art. 526) "Os tribunais devem uniformizar sua jurisprudência e mantê-la estável, integra e coerente", impondo-se aos julgadores a observância da jurisprudência já estabilizada (art. 927).
+2  O CPC/2015 autoriza a preponderância monocrática da orientação (art. 932, IV, "c" e V, "c"), sem sequer a necessidade de aguardar o seu trânsito em julgado (art. 1.040, II, do CPC/2015 e STJ, AgInt no REsp nº 1.606.454/SC).
+3  É "omissa" (Incisos I e II do Parágrafo Único do art. 1.022 do CPC/2015) "qualquer decisão" que "deixe de se manifestar sobre tese" repetitiva.
+4  Quanto ao mérito, superando a posição original desta Corte, o Pleno do STF (RO-RE nº 661.256/SC), em 27/OUT/2016, sob o rito dos recursos repetitivos, concluiu que (tese fixada): "No (..) RGPS, somente lei pode criar benefícios e vantagens (..), não havendo, por ora, previsão legal (..) à desaposentação; sendo constitucional a regra do art. 18, § 2º, da Lei nº 8.213/91".
+5  Esta Corte se curva à compreensão do STF forjada em recurso repetitivo.
+6  O STF já está retornando processos à origem para o exercício do juízo de retratação: 2a Turma do STF, no ED-RE nº 872.710/AL.
+7  Quanto à devolução/repetição dos valores porventura já percebidos no curso desta demanda, há apontamentos específicos.
+8  O STJ concluiu que (RG-REsp nº 1.401.560/MT) valores recebidos por força de tutela (antecipada ou de evidência/urgência) são passíveis de restituição, pela natureza provisória/reversível do ato judicial, a não ser nos casos de dupla conformidade (sentença e acórdão favoráveis).
+9  Até, porém, o instante em que o STF (OUT/2016, RG-RE Nº 661.256/SC) conclui ser ilegítimo o pleito da desaposentação, a jurisprudência do STJ (aliás, em sede de recurso especial repetitivo: REsp nº 1.348.301/SC) e do TRF1, e mesmo de outros TRF"s, acenava, com relevante carga de convicção/confiança, que o pronto recálculo do benefício era medida de extrema juridicidade, retirando, de tal panorama, pois, qualquer possível ar de provisoriedade.
+10  O CPC/2015 (§4º do art. 927) carreia ao Judiciário a obrigação de, nas eventuais guinadas jurisprudenciais, apresentar "fundamentação adequada e específica" para tanto e de atentar para "os princípios da segurança jurídica, da proteção da confiança e da isonomia", preceitos que claramente derruem, no caso concreto, a rudeza do art. 115, II, da Lei nº 8.213/1991: só são passíveis de devolução, pois, os valores auferidos por força de tutela provisória de OUT/2016 em diante, e apenas se e quando não houver ocorrido dupla conformidade (sentença e acórdão favoráveis).
+11  Ônus sucumbenciais (custas e honorários advocaticios) realinhados.
+12  Apelação da parte autora/impetrante não provida.
+Embargos declaratórios rejeitados às e-STJ fls. 272/278.
+Nas razões do recurso especial fundamentado naalínea"a" do permissivo constitucional, o recorrente alega violação aos arts.20, caput, do CPC/1973;85, caput, §§ 3º e 4º, III, e 1022, II, do CPC/2015.
+Aponta negativa de prestação jurisdicional, aduzindoque "cabia ao Tribunal a quo apreciar as questões formuladas nos embargos declaratórios - ausência de fixação de honorários de sucumbência".
+Em contrarrazões ao recurso especial, o recorrido defende a manutenção do acórdão recorrido (e-STJ, fls. 291/295).
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Depreende-se dos autos queo acórdão recorrido fixou os honorários com base na sentença, no entanto, não houve condenação de honorários advocatícios no decisum proferido pelo juiz da primeira instância.
+Instadaa se manifestar em sede de embargos de declaração, aCorte de origem, contudo, manteve-se silente quanto à questão.
+Reconhece-se a existência da apontada violação do artigo 1022 do CPC/2015, tendo em vista que, de fato, houve omissão quanto à análisedo referido ponto, que configura matéria relevante para o deslinde da controvérsia.
+A jurisprudência deste Superior Tribunal de Justiça é assente no sentido de que a omissão quanto a tópico relevante para a solução da controvérsia, suscitado em momento oportuno, torna intransponível o óbice para o conhecimento do tema na via estrita do especial, visto que, ainda que se trate de matéria de ordem pública, a ausência de prequestionamento da tese inviabiliza a análise desta Corte.
+Nesse sentido, quanto a devolução do feito à origem para a completa análise dos pedidos da parte, os seguintes precedentes:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. DEPÓSITO. LEVANTAMENTO. DECADÊNCIA DE CRÉDITO TRIBUTÁRIO. VIOLAÇÃO DO ARTIGO 1022 DO CPC/2015. CONFIGURAÇÃO. NECESSÁRIO RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA QUE SE MANIFESTE SOBRE A ÍNTEGRA DOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO PROVIDO.
+1. A jurisprudência deste Superior Tribunal de Justiça é assente no sentido de que a omissão quanto a tópico relevante para a solução da controvérsia, suscitado em momento oportuno, torna intransponível o óbice para o conhecimento do tema na via estrita do especial, visto que, ainda que se trate de matéria de ordem pública, a ausência de prequestionamento da tese inviabiliza a análise desta Corte.
+2. Agravo interno provido. (AgInt no REsp 1.718.459/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDATURMA, julgado em 11/06/2019, DJe 18/06/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÕES NÃO EXAMINADAS E IMPRESCINDÍVEIS À SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola os arts. 489 e 1022 do CPC/2015.
+2. Agravo interno não provido. (AgInt no REsp 1.781.464/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 02/12/2019, DJe 04/12/2019)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, e na Súmula 568/STJ, dou provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos declaratórios, a fim de que se manifeste sobre a fixação de honorários, no caso. Prejudicadas as demais insurgências.
+Publique-se Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO N. 3/STJ. DESAPOSENTAÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. OMISSÃO CARACTERIZADA. VIOLAÇÃO AO ART.1.022 DO CPC/2015. OCORRÊNCIA. NULIDADE DO ACÓRDÃO.RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. RECURSO ESPECIAL PROVIDO.
