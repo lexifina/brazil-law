@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. COISA JULGADA MATERIAL AFASTADA PELO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015. SÚMULAS 282 E 356/STF. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 1.013, § 3º, I, do CPC/2015. SÚMULA 211/STJ.
+1. Incidência dos óbices das Súmulas 282 e 356/STF quanto à apontada ofensa ao art. 489, § 1º, VI, do CPC/2015, porquanto o Tribunal a quo não examinou a controvérsia sob o enfoque do dispositivo legal apontado como violado, tampouco a referida matéria constou dos embargos declaratórios opostos perante a Corte de origem.
+2. O Tribunal de origem não examinou a controvérsia sob o enfoquedo art. 1.013,§ 3º, I, do CPC/2015, apesar de instado a fazê-lo por meio dos competentes embargos de declaração.Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Aplicação do óbice da Súmula 211/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de agravo interno interposto pelo ESTADO DE MINAS GERAISdesafiando decisão emanada da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, pelas seguintesrazões: (I)incidência das Súmulas 282 e 356/STF em relação à alegação de violação ao art. 489, § 1º, inciso IV, do CPC/15; (II)aplicação da Súmula 211/STJ quanto ao art. 1013, § 3º, do CPC/15.
+Inconformado, o agravante sustenta, em relação ao art. 489, §1.º, IV, do CPC, que não háfalar em falta de prequestionamento, mas sim em acórdão que não enfrentou todos os argumentos deduzidos no processo, em especial a questão envolvendo o Mandado de Segurança impetrado pelo agravado.Alega, também, que o acórdão dos embargos de declaração tratou da matéria pertinente ao art. 1013, § 3º, do CPC/15 e colaciona trecho do acórdão recorrido.
+A agravada apresentou impugnação (fls. 605/611).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. COISA JULGADA MATERIAL AFASTADA PELO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 489, § 1º, DO CPC/2015. SÚMULAS 282 E 356/STF. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 1.013, § 3º, I, do CPC/2015. SÚMULA 211/STJ.
+1. Incidência dos óbices das Súmulas 282 e 356/STF quanto à apontada ofensa ao art. 489, § 1º, VI, do CPC/2015, porquanto o Tribunal a quo não examinou a controvérsia sob o enfoque do dispositivo legal apontado como violado, tampouco a referida matéria constou dos embargos declaratórios opostos perante a Corte de origem.
+2. O Tribunal de origem não examinou a controvérsia sob o enfoquedo art. 1.013,§ 3º, I, do CPC/2015, apesar de instado a fazê-lo por meio dos competentes embargos de declaração.Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Aplicação do óbice da Súmula 211/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+De início, quanto à apontada ofensa ao art. 489, § 1º, VI, do CPC/2015, escorreita a decisão agravada ao entender pela incidência do óbice das Súmulas 282 e 356/STF à espécie.
+Com efeito, o Tribunal de origem não examinou a controvérsia sob o enfoque do dispositivo legal apontado como violado, tampouco foram opostos embargos declaratórios, nesse ponto, para suprir eventual omissão.
+Já em relação ao art. 1013, § 3º, do CPC/15, observa-se que o Tribunal de origem não examinou a controvérsia sob o enfoque do dispositivo legal apontado como violado, apesar de instado a fazê-lo por meio dos competentes embargos de declaração.
+Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo.").
+Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 4/4/2017, DJe 10/4/2017).
+No mesmo sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Honorários recursais. Cabimento.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.682.293/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 24/10/2017, DJe 10/11/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO. 1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe 15/09/2017)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
