@@ -1,0 +1,9 @@
+DECISÃO
+O presente recurso em habeas corpus - interposto por Ryan Albuquerque Silva de Oliveiracontra o acórdão do Tribunal de Justiça de Minas Gerais - que denegou a ordem ali impetrada (fls. 83/92 - Habeas Corpus Criminal n. 1.0000.20.541436-0/000), mantendo a segregação cautelar do recorrente, decretada pelo Juízo de Direito da 4ª Vara Criminal da comarca de Juiz de Fora/MGpara garantir a ordem pública, a conveniência da instrução criminal e para assegurar a aplicação da lei penal (fls. 17/20 - Autos n. 0044405-42.2020.8.13.0145), pela prática, em tese, dos crimes de tráfico de drogas (45,5 g de ecstasy - fl. 19) e associação para o tráfico - encontra-se prejudicado.
+Ocorre que, em suas informações (fls. 133/134), o Juízo de Direito da 4ª Vara Criminal da comarca de Juiz de Fora/MG informou que, em Decisão, proferida em 3 de novembro de 2020,  ..  relaxou a Prisão Preventiva do Paciente, com fundamento no artigo 648, I e II, do Código de Processo Penal, com a consequente determinação de expedição de Alvará de Soltura em seu favor (fl. 133).
+Assim, proferida decisão, pelo Juízo de piso, revogando a prisão preventiva mediante a imposição de medidas cautelares alternativas ao cárcere, inegável a perda superveniente do objeto do mandamus (AgRg no HC n. 562.936/PA, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/3/2020).No mesmo sentido: AgRg no HC n. 396.415/ES, de minha relatoria, Sexta Turma, DJe 13/6/2017.
+Em razão disso, diante da superveniente perda do objeto, perdeu o objeto opresente recurso, julgo-o, consequentemente, prejudicado (art. 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS (45,5 G DE ECSTASY) E ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO E RISCO DE CONTÁGIO PELA COVID-19. SUPERVENIÊNCIA DE RELAXAMENTO DA PRISÃO NA ORIGEM. PERDA DO OBJETO.
+Recurso prejudicado.
