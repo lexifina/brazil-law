@@ -1,0 +1,21 @@
+DECISÃO:
+    1. Trata-se de recurso extraordinário interposto contra acórdão da Terceira Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C COBRANÇA. DEMANDA PROPOSTA POR EX-EMPREGADOS DO BANCO DO BRASIL S.A. DIREITO À COMPLEMENTAÇÃO DE PROVENTOS DE APOSENTADORIA E PENSÃO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ANÁLISE DAS DEMAIS QUESTÕES TRAZIDAS NO RECLAMO PREJUDICADA. RECONHECIMENTO, DE OFÍCIO, DA INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA COMUM, COM ANULAÇÃO DOS ATOS DECISÓRIOS E DETERMINAÇÃO DE REMESSA À JUSTIÇA LABORAL. RECURSO ESPECIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+    1. Nos termos da jurisprudência desta Corte, a Justiça do Trabalho é competente para processar e julgar ação proposta contra o Banco do Brasil S.A. por ex-funcionário com a finalidade de cobrar a complementação de aposentadoria prevista na Portaria n. 966/1947, relativamente a direito inerente ao primitivo contrato de trabalho (AgRg no CC n. 130.534/DF, Rel. Ministro João Otávio de Noronha, Segunda Seção, DJe 25/10/2013).
+    2. Conforme consta dos autos, o cerne da questão é a percepção de complementação de aposentadoria a ser paga diretamente pela ex-empregadora, não havendo nenhum pleito formulado contra entidade de previdência privada. Por conseguinte, a hipótese é diversa da contemplada no precedente do Supremo Tribunal Federal no julgamento do RE 586.453/SE, que concluiu pela competência da Justiça comum para processar e julgar demandas de natureza previdenciária promovidas contra entidades de previdência complementar (CC 141.146/RJ, Rel. Ministro Raul Araújo, Segunda Seção, DJe 26/8/2016).
+    3. Razões recursais insuficientes para a revisão do julgado.
+    4. Agravo interno desprovido.”
+    2. O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 114 e 202, § 2º, da CF/1988 e requer o reconhecimento da competência da Justiça comum, reformando-se o acórdão recorrido.
+    3. O recurso merece acolhida. O Supremo Tribunal Federal (STF) já havia firmado a competência da Justiça comum no caso concreto, por ocasião do julgamento do ARE 797.862, sob minha relatoria. De modo que não caberia ao Superior Tribunal de Justiça reformar decisão transitada em julgado do STF, causando indesejada insegurança jurídica.
+    4. No mérito, na linha do precedente supracitado, a jurisprudência do STF firmou-se no sentido de que a competência, na hipótese, é da Justiça comum. Esse entendimento foi consolidado no julgamento conjunto do RE 583.050-RG e do RE 586.453-RG.
+    5. Na ocasião, o Plenário reconheceu a autonomia do Direito Previdenciário em relação ao Direito do Trabalho, com fundamento no art. 202, § 2º, da CF/1988. Assim, consolidou-se o entendimento de que o referido dispositivo constitucional seria a fonte normativa evidente da existência de dois regimes de previdência: um, o regime geral, que alcançaria todos os trabalhadores do setor privado; e outro, complementar, de previdência privada, inteiramente dissociado das relações trabalhistas e de tudo que dela decorrer – inclusive em matéria de previdência.
+    6. Note-se que a competência jurisdicional foi fixada, pelo STF, em razão da natureza autônoma da previdência complementar, ainda que o surgimento do contrato de previdência complementar pressuponha a existência de um vínculo trabalhista subjacente.
+    7. No mesmo sentido, veja-se o RE 1.092.599-AgR, sob minha relatoria, assim ementado:
+    “DIREITO CIVIL. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PREVIDÊNCIA COMPLEMENTAR. COMPETÊNCIA. JUSTIÇA COMUM.
+    1. O Plenário do Supremo Tribunal Federal, no julgamento do RE 586.453, Relª. Minª. Ellen Gracie, definiu que o § 2º do art. 202 da Constituição Federal autonomizou, expressamente, a previdência complementar relativamente ao contrato de trabalho.
+    2. Agravo interno a que se nega provimento.”
+    8. Diante do exposto, com base no art. 21, § 2º, do RI/STF, dou provimento ao recurso para assentar a competência da Justiça comum para julgar a presente controvérsia.
+    Publique-se.
+          Brasília, 11 de fevereiro de 2021.
+ Ministro LUÍS ROBERTO BARROSO
+Relator
