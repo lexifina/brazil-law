@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por ANTONIA DE MARIA MOREIRA DO NASCIMENTO e outros, com fundamento naalínea"a" doinciso III do artigo 105 daConstituição Federal,em face de acórdão proferido pela Quinta Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios,assim ementado (fl. 279):
+AGRAVO DE INSTRUMENTO. DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL.EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DOS RENDIMENTOS MENSAIS. PAGAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA. CRÉDITO DE NATUREZA ALIMENTAR. POSSIBILIDADE. DECISÃO REFORMADA.
+1. Os bens do devedor, via de regra, estão sujeitos à execução. A lei, no entanto, excluiu determinados bens da constrição judicial. Essa limitação à penhorabilidade encontra amparo no princípio clássico da execução moderna, segundo o qual a execução não deve levar o executado a uma situação incompatível com a sua dignidade.
+2. A regra da impenhorabilidade encontra exceções no art. 833, § 2º, do Código de Processo Civil: não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais.
+3. O crédito referente a honorários advocatícios possui natureza alimentar, razão por que é possível a penhora de salários e congêneres para sua satisfação. Precedentes do STJ.
+4. Agravo de instrumento provido.
+Nas razões do especial, a parte recorrente sustenta a violação doartigo833, IV, do Código de Processo Civil, defendendoa impossibilidade de relativização da impenhorabilidade das verbas salariais para satisfação de crédito. Afirma que os honorários sucumbenciais, em que pese o seu caráter alimentar, não se inserem na excepcionalidade do § 2º do artigo 833 do CPC.
+Assim delimitada a controvérsia, passo a decidir.
+No que concerne à discussão sobre a possibilidade de penhora parcial dos rendimentos da primeirarecorrentepara satisfazer o valor executado referente aos honorários advocatícios de sucumbência, a Corte estadual, por maioria de votos, proferiu julgamento no seguinte sentido (e-STJ, fls. 281/283):
+O art. 833, inc. X, do Código de Processo Civil dispõe ser impenhorável a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários mínimos.
+Essa limitação à penhorabilidade encontra amparo no princípio clássico da execução moderna, segundo o qual a execução não deve levar o executado a uma situação incompatível com a sua dignidade. Essa é a razão pela qual o Código de Processo Civil não tolera a constrição de determinados bens econômicos.
+Há exceções, contudo, à regra de impenhorabilidade, previstas no art. 833, § 2º, do Código de Processo Civil:
+"§ 2º O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º, e no art. 529, § 3º."
+O crédito que a agravante pretende seja satisfeito por meio da penhora do salário da agravada refere-se a honorários advocatícios.
+(..)
+Em razão de sua natureza alimentar, o Superior Tribunal de Justiça admite a penhora de salários e congêneres para a satisfação do referido crédito:
+(..)
+O Tribunal de Justiça do Distrito Federal e dos Territórios possui entendimento no mesmo sentido, deque o caráter absoluto da impenhorabilidade das verbas destinadas à remuneração do trabalho e da quantia depositada em caderneta de poupança até o limite de 40 (quarenta) salários mínimos é excepcionado quando se tratar de penhora para pagamento de honorários advocatícios, verba de natureza alimentar:
+(..)
+O Superior Tribunal de Justiça admite a penhora de salários e congêneres até o limite de 30% (trinta por cento) para a satisfação dos honorários advocatícios, haja vista a sua natureza alimentícia.
+Após a análise perfunctória dos autos, entendo que o percentual de 10% (dez por cento) melhor se adequa à situação em análise, pois, além de permitir a satisfação da verba honorária, não afeta a capacidade de subsistência e nem afronta a dignidade da parte devedora."
+Como se vê, o acórdão recorrido reconheceu a possibilidade de penhora sob o entendimento deque a regra do artigo 833 do CPC pode ser excepcionada nos casos em que a verba executada se refere a honorários advocatícios, uma vezque o crédito possui caráter alimentar.
+A recentejurisprudência deste Superior Tribunal, entretanto,orienta no sentido de que a exceção prevista no§ 2º do art. 833 do Código de Processo Civil, para pagamento de prestação alimentícia, não se estende aos demais créditos de natureza alimentar, como o honorários advocatícios.
+Confiram-se, a propósito, os seguintes precedentes:
+RECURSO ESPECIAL. ALEGADA OFENSA À SÚMULA VINCULANTE DO STF. NÃO CABIMENTO. EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PENHORA DA REMUNERAÇÃO DO DEVEDOR.EXCEÇÃO DO §2º DO ART. 833 DO CPC/15. INAPLICABILIDADE. DIFERENÇA ENTRE PRESTAÇÃO ALIMENTÍCIA E VERBA DE NATUREZA ALIMENTAR.INTERPRETAÇÃO DADA AO ART. 833, IV, DO CPC/15. POSSIBILIDADE DE PENHORA DA REMUNERAÇÃO A DEPENDER DA HIPÓTESE CONCRETA. JULGAMENTO PELO CPC/15.
+1. Ação de embargos à execução, ajuizada em 10/04/2015, atualmente na fase de cumprimento de sentença para o pagamento dos honorários advocatícios de sucumbência, de que foi extraído o presente recurso especial, interposto em 23/01/2019 e atribuído ao gabinete em 09/04/2019.
+2. O propósito recursal consiste em definir sobre a possibilidade de penhora da remuneração da recorrida para o pagamento de honorários advocatícios de sucumbência devidos ao recorrente.
+3. A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a" da CF/88.
+4. No julgamento do REsp 1.815.055/SP, (julgado em 03/08/2020, DJe 26/08/2020), a Corte Especial decidiu que a exceção contida na primeira parte do art. 833, § 2º, do CPC/15 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, isto é, oriundas de relações familiares, responsabilidade civil, convenção ou legado, não se estendendo às verbas remuneratórias em geral, dentre as quais se incluem os honorários advocatícios.
+5. Registrou-se, naquela ocasião, todavia, que, na interpretação da própria regra geral (art. 649, IV, do CPC/73, correspondente ao art.
+833, IV, do CPC/15), a jurisprudência desta Corte se firmou no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018).
+6. Assim, embora não se possa admitir, em abstrato, a penhora de salário com base no § 2º do art. 833 do CPC/15, é possível determinar a constrição, à luz da interpretação dada ao art. 833, IV, do CPC/15, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família.
+7. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+(REsp 1806438/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 19.10.2020);
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PENHORA. SALÁRIO. PAGAMENTO. HONORÁRIOS ADVOCATÍCIOS. DIGNIDADE DO DEVEDOR. PRESERVAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A exceção à regra da impenhorabilidade contida no art. 833, § 2º, do Código de Processo Civil de 2015 se aplica somente aos casos de prestação alimentícia, não se estendendo às hipóteses de verba de natureza alimentar, como são os honorários advocatícios. Fica ressalvada, porém, a hipótese em que, com base na regra geral do artigo 833, IV, do CPC/2015, a penhora de salários é deferida, mas com a preservação de percentual capaz de garantir a subsistência digna do devedor e de sua família. Precedente da Corte Especial.
+3. Na hipótese dos autos, o tribunal de origem fixou o percentual da penhora sobre salários considerando que o valor remanescente garantiria a sobrevivência digna da devedora, estando em consonância com a recente jurisprudência desta Corte.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1645585/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 24.11.2020).
+Desse modo, afastado o fundamento do acórdão recorrido para a constrição, deve ser afastada a penhora sobre a verba salarial.
+Anoto que, conforme ressalvado nos precedentes acima citados, a questão pode ser novamente analisada nas instâncias ordináriascom base na regra geral do inciso IV do art. 833 do CPC, com a verificação de possibilidade defixação de percentual sem prejuízo à sobrevivência do devedor e de sua família.
+Em face do exposto, douprovimento ao recurso especial para afastar a penhora determinada.
+Intimem-se.
