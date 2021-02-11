@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial com fulcro no art. 105, III, alíneas "a" e "c", da Constituição Federal, interposto em desfavor de acórdão proferidopelo Tribunal de Justiça do Estado do Acre.
+Consta dos autos que o recorrente foi condenado pela prática do delito tipificado no art. 16, § 1º, IV, da Lei Federal n. 10.826/03 (posse ilegal de arma de fogo com numeração raspada), à pena de 03(três) anos e06(seis) meses de reclusão, em regime inicial semiaberto, e ao pagamento de 15 (quinze) dias-multa.
+Irresignada, a defesa interpôs recurso de apelação, que restou desprovido poracórdão assim ementado:
+APELAÇÃO CRIMINAL. PORTE DE ARMA DE FOGO DE USORESTRITO. PLEITO DE REDUÇÃO DA PENA-BASE PARA O MÍNIMO LEGAL. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. VETORES DEVIDAMENTE RECONHECIDAS E FUNDAMENTADAS PELO JUÍZO SENTENCIANTE. 1. Tendo ocorrido a escorreita dosimetria da pena pelo Juízo sentenciante, não há como ser acolhido o pleito de redução da pena-base para o patamar mínimo previsto para o tipo penal incriminador.2. A fixação da pena-base acima do mínimo legal não é exacerbada quando o juiz identifica circunstâncias judiciais desfavoráveis ao réu, suficientemente motivadas e fundamentadas.3. Apelo conhecido e desprovido.
+Na petição de recurso especial, a defesa aponta violação ao disposto noart. 59 do Código Penal. Sustenta, em síntese, a redução da pena-base, porquanto "A valoração negativa de apenas um elemento frente a maioria positiva foge ao princípio da razoabilidade e proporcionalidade, tendo em vista a consequência prejudicial ao Recorrente com a majoração de sua pena-base em 06 (seis) meses. É necessário que haja o perfeito equilíbrio entre as circunstâncias valoradas" (fl. 212).
+Contrarrazões às fls.220/227.
+Admitido o recurso (fl. 228), os autos vieram a esta Corte.
+Parecer ministerial pugnando pelo desprovimento do recurso (fls. 236/237).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+A exasperação da pena-base, realizada pelo magistrado sentenciante emantida pelo Tribunal de origem, deu-semediante seguinte fundamentação (fls. 143/144):
+"Atenta às diretrizes do art. 59, do Código Penal, verifica-se que restou comprovada a culpabilidade do réu em grau acentuado, porquanto estava em cumprimento de pena com monitoramento e, ainda assim, livre e consciente, voltou a praticar crime, denotando sua afeição para praticas criminosas de uma forma contumaz.Antecedentes são maculados, o que será valorado na segunda fase da dosimetria (pp. 134/137), evitando-se bis in idem; conduta social e a personalidade, não obtenho de dados para analisá-las; os motivos do crime são os naturais do próprio tipo penal; as circunstâncias não há o que se valorar; as consequências são normais a espécie, não havendo o que se considerar; o comportamento da vítima em nada contribuiu para o cometimento do crime, não havendo o que se valorar. A situação econômica do réu aparentemente não é boa.
+Assim sendo, FIXO A PENA-BASE em 03 (três) anos e 06 (seis) meses de reclusão."
+A dosimetria da pena está inserida no âmbito de discricionariedade regrada do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito (AgRg no AREsp 864.464/DF, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 30/05/2017).
+No caso dos autos, foram arrolados elementos concretos e não inerentes ao tipo penal para elevação da pena-base, não havendofalar em ilegalidade da dosimetria, pois observado o disposto no art. 59 do CP.
+A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PENA-BASE. VALORAÇÃO NEGATIVA DE CIRCUNSTÂNCIAS JUDICIAIS. MOTIVAÇÃO CONCRETA. CARÊNCIA DE FUNDAMENTAÇÃO. INEXISTENTE. AGRAVO DESPROVIDO. 1. Se o acórdão hostilizado apresentou motivação válida para a exasperação da pena-base, considerando elementos concretos da prática delitiva, não inerentes ao tipo incriminador, não há que se falar em desproporcionalidade ou carência de fundamentação na primeira fase da individualização da pena. 2. Agravo regimental desprovido."
+(AgRg no REsp 1760356/TO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 09/04/2019).
+Ademais, por se tratar de uma vetorial desabonadora, a exasperação da pena em 06(seis) meses de reclusão, que corresponde a 1/6 (um sexto) da pena mínima,se mostra proporcional e razoável, pois observados os parâmetros fixados pela jurisprudência.
+A propósito:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. DOSIMETRIA DA PENA. ART. 59 DO CÓDIGO PENAL - CP. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. CIRCUNSTÂNCIAS DO CRIME. PATAMAR DE ACRÉSCIMO DISCRICIONARIEDADE DO JULGADOR. REVISÃO. IMPOSSIBILIDADE. PRECEDENTES DO STJ. CRIME CONTINUADO. RECONHECIMENTO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. PARADIGMA EM HABEAS CORPUS. COMPROVAÇÃO. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+2. A jurisprudência desta Corte firmou-se no sentido de que a exasperação da pena-base, pela existência de circunstâncias judiciais negativas, deve seguir o parâmetro da fração de 1/6 (um sexto) para cada fator desfavorável (AgRg no AREsp 484.057/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 9/3/2018).
+(..)
+Agravo regimental desprovido."
+(AgRg no REsp 1500080/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 09/05/2018).
+Ressalta-se que "(..) não é possível haver compensação entre as circunstâncias judiciais do art. 59 do Código Penal, na medida em que as circunstâncias favoráveis ou neutras apenas impedem o acréscimo da pena-base de seu grau mínimo, mas não anulam outra já considerada desfavorável. Assim, um único vetor desfavorável, já autoriza o acréscimo da pena-base, desde que de feito forma razoável, como no caso(AgRg no AREsp 1404788/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 06/03/2019).
+Ante o exposto, com fundamento na Súmula n. 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
