@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por RICARDO MOREIRA DA CUNHA contra acórdão do Tribunal de Justiça do Estado de Mato Grosso (Processo n.1018388-53.2020.8.11.0000).
+Depreende-se dos autos que o recorrente, "juntamente a outroscorréus, em 27.08.2020, foi condenado a pena de 06 (seis) anos e 08 (oito) meses de reclusão,inicialmente no regime fechado, por incursão no delito capitulado no art. 157, § 1º c/c§ 2º, inciso II, c/c § 2º-A, inciso I, todos do Código Penal roubo circunstanciado "(e-STJ fl. 208).
+Impetrado habeas corpus na origem, o Tribunal denegou a ordem nos termos do acórdão de e-STJ fls. 205/248.
+No presente recurso, alega a defesa que o recorrente "encontra-se encarcerado por força da prisãopreventiva, desde 05 de julho de 2019, neste passo, somando o total hoje de cárcere orecluso possui em seu sentido objetivo um regime mais brando do que o que seassemelha a prisão cautelar.Ao passo que com pena recebida teria que ficar encarcerado 1 ano 1 mês e 10dias, sendo que, encontra-se preso cerca de 1 ano e 4 meses 14 dias.Ou seja, hoje o recorrente encontra-se preso cautelarmente em regime maisgravoso que a pena em definitiva, algo inadmissível no ordenamento jurídico.Ainda, em que se refere o regime inaugural de pena, o juízonão fundamentou deforma correta e necessária, seus motivos para aplicar um regime mais gravoso do que apena recebida" (e-STJ fl. 253).
+Afirma, ainda, que "o debate não versa quanto aos requisitos da preventiva, mas sim,versa sobre o regime que deve ser aplicado após a detração da pena, o qual éincompatível com a prisão preventiva"(e-STJ fl. 254).
+Por fim, argumenta que o Juízo sentenciante"INOVOU incorrendo em aplicar que a existência dearma e possível disparo, como prejudicial, sendo que tal fato não foi ponderadoquando da análise no artigo 59 do CP, em momento oportuno. Repito, nasprejudiciais do artigo 59 foi ponderado somente a existência de vários agentes enão a questão da arma.A rigor, a avaliação favorável em primeira fase na dosimetria de pena (únicaprejudicial foi quantidade de agentes) impede nova análise para fins de fixação deregime. Neste sentido, o artigo 59 do CP não pode ser interpretado de formadiametralmente oposta na mesma sentença condenatória, ainda que em momentosdistintos, pois a avaliação se refere ao mesmo dispositivo legal"(e-STJ fl. 263).
+Assim, requer, liminarmente (e-STJ fl. 267):
+c) Seja respeitado a detração da pena, e verificado que após lapso temporaldeveria o juízo sentenciante colocar o recluso/paciente em regimeimediatamente menos gravoso;
+d) Seja reconhecida, ilegalidade na ausência de fundamentação, pois após adetração da pena, caso o juízo vislumbrar em manter o regime antes escolhidodeve este fundamentar sua decisão, algo que não ocorreu;
+e) Declarar ilegal o regime inaugural fechado, pois não foi devidamentefundamentado;
+Liminar indeferida às e-STJ fls. 168/170.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso (e-STJ fl. 227).
+É o relatório.
+Consoante informações prestadas pela defesa do ora recorrente às e-STJ fls. 381/382, a instância ordinária concedeu "progressão de regime no processo executivo provisório", motivo pelo qual ocorreu a "perda de objeto" da presente insurgência.
+Tal o contexto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
