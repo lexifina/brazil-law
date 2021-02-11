@@ -1,0 +1,17 @@
+DECISÃO:
+    Trata-se de recurso extraordinário interposto contra acórdão da Turma Recursal de Jurisdição Exclusiva de Belo Horizonte, Betim e Contagem/MG, assim ementado:
+    “RECURSO INOMINADO – PENSÃO PREVIDENCIÁRIA NÃO RECEBIDA EM SUA INTEGRALIDADE – MANDADO DE SEGURANÇA IMPETRADO VISANDO O REAJUSTE – – IMPOSSIBILIDADE DE COBRANÇA DE VALORES ANTERIORES AO AJUIZAMENTO DA PRESENTE AÇÃO – SÚMULAS 269 E 271 DO STF – RECURSO CONHECIDO PROVIDO.”
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega violação aos arts. 5º, II, e 93, IX, da CF, assim como às Súmulas 269 e 271/STF. Sustenta que “o acórdão da turma recursal não segue a orientação jurisprudencial do Superior Tribunal de Justiça, já declarada em hipóteses semelhantes à dos autos, no sentido de que a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional, de modo que tão somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição da Ação Ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ”.
+    O recurso não merece provimento. O Ministério Público Federal se manifestou nos autos sob os seguintes fundamentos:
+    “[...]
+    O recurso extraordinário pleiteia o reconhecimento de que a impetração de mandado de segurança interrompe o prazo prescricional para o ajuizamento de ação de cobrança das parcelas referentes aos 5 anos antecedentes à impetração, relativas a valores recebidos a menor a título de pensão.
+    O tema apresenta natureza infraconstitucional, que acarretaria, quando muito, ofensa reflexa à Constituição. Conquanto a recorrente indique parâmetros constitucionais, as razões recursais revelam o caráter legal da controvérsia. Mencionam-se inúmeros precedentes do Superior Tribunal de Justiça, bem como dispositivos do Decreto 20.910/1932, que dispõem sobre o prazo prescricional em face da Fazenda Pública. É nesse sentido a jurisprudência da Segunda Turma do Supremo Tribunal Federal (…).
+    […].”
+    Neste contexto, para dissentir da conclusão adotada pela Turma de origem, seria imprescindível a análise da legislação infraconstitucional pertinente, o que torna inviável o processamento do recurso extraordinário. Nessa linha, vejam-se o ARE 798.346 AgR, Rel. Min. Gilmar Mendes; e o ARE 776.908AgR, Relª. Minª. Cármen Lúcia.
+    E mais: o Supremo Tribunal Federal (STF) tem entendimento no sentido de que as decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (AI 791.292-QO-RG, Rel. Min. Gilmar Mendes). Na hipótese, a decisão está devidamente fundamentada, embora em sentido contrário aos interesses da parte agravante.
+    Por fim ressalto que o STF, ao julgar o AI 126.187-AgR, sob a relatoria do Ministro Celso de Mello, firmou o entendimento de que “não enseja acesso a via recursal extraordinária o eventual dissidio interpretativo que oponha a decisão proferida pelo Tribunal a quo ao conteúdo de enunciado sumular do Supremo Tribunal Federal desvestido de fundamento constitucional”.
+    Diante do exposto, com base no art. 932, IV e VIII, do CPC/2015 e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios.
+    Publique-se.
+          Brasília, 11 de fevereiro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
