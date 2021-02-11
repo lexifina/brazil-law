@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RICARDO DE FREITAS, em face de decisão proferida pelo Tribunal de Justiça do Estado do Paranáque inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 419 e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. DESDOBRAMENTOS CÍVEIS DA OPERAÇÃO PUBLICANO. JULGAMENTO ANTECIPADO PARCIAL DO MÉRITO. IMPOSSIBILIDADE DA CASSAÇÃO DA APOSENTADORIA DOS RÉUS AGENTES PÚBLICOS A TÍTULO DE SANÇÃO DE "PERDA DA FUNÇÃO PÚBLICA". NECESSIDADE DE CONTINUIDADE DO FEITO PARA VERIFICAR SE, NO CASO DE CONDENAÇÃO É CABÍVEL A PENA DE PERDA DA FUNÇÃO PÚBLICA, HIPÓTESE EM QUE OCORRERÁ A CASSAÇÃO DE APOSENTADORIA.
+A ausência de previsão expressa da pena de cassação de aposentadoria na Lei de Improbidade Administrativa não constitui óbice à sua aplicação na hipótese de servidor aposentado, condenado judicialmente pela prática de atos de improbidade administrativa, nos termos do art. 11 da referida Lei. Isto porque a pena de cassação de aposentadoria é uma decorrência lógica da perda de cargo público, sanção expressamente prevista no referido texto legal.
+RECURSO PROVIDO.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 1071 e-STJ):
+EMBARGOS DE DECLARAÇÃO 03, 04, 05, 06 e 07. AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. DESDOBRAMENTOS CÍVEIS DA OPERAÇÃO PUBLICANO.JULGAMENTO ANTECIPADO PARCIAL DO MÉRITO. IMPOSSIBILIDADE DA CASSAÇÃO DA APOSENTADORIA DOS RÉUS AGENTES PÚBLICOS A TÍTULO DE SANÇÃO DE "PERDA DA FUNÇÃO PÚBLICA". NECESSIDADE DE CONTINUIDADE DO FEITO PARA VERIFICAR SE, NO CASO DE CONDENAÇÃO É CABÍVEL A PENA DE PERDA DA FUNÇÃO PÚBLICA, HIPÓTESE EM QUE OCORRERÁ A CASSAÇÃO DE APOSENTADORIA. VÍCIOS DE OMISSÃO E CONTRADIÇÃO. NÃO IDENTIFICADOS.PREQUESTIONAMENTO.
+1. Ausentes quaisquer vícios de julgamento no acórdão toma inviável o acolhimento dos embargos de declaração, que não se prestam para apreciar matéria já julgada.
+2. "Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.". Inteligência do art. 1.025 do CPC/2015.
+EMBARGOS DE DECLARAÇÃO NºS 03, 04, 05, 06, E 07 CONHECIDOS E REJEITADOS.
+O recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, o recorrente aponta violação ao art. 12 da Lei 8.429/92, sustentando que inexiste previsão legal da cassação de aposentadoria a servidor aposentado ou que venha a se aposentar.
+Contrarrazões às fls. 1751/1755 e-STJ.
+O Tribunal de origem não admitiu o apelo nobre em razão da incidência do óbice da Súmula 735/STF na hipótese.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+Contraminuta às fls. 1793/1795 e-STJ.
+É o relatório.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC"
+Com efeito, considerando o preenchimento dos requisitos de admissibilidade do agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a sua reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. AGRAVO CONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
