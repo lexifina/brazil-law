@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo fundado no CPC/73, interposto por Sodexo do Brasil Comercial S.A, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 182):
+MEDIDA CAUTELAR. . EXIBIÇÃO DE DOCUMENTOS. SENAI. CONTRIBUIÇÃO ADICIONAL. Tendo o SENAI competência para fiscalizar e arrecadar a contribuição adicional, pode exigir a exibição de documentos, essenciais para o exercício de sua fiscalização. Recurso não provido.
+Opostos embargos declaratórios, foram rejeitados. (fls. 197/201).
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 267, VI, 282, VI e 333, I, do CPC/73, 4º, §1º, 6º, do Decreto-Lei n. 4.048/42,1º e 3º, do Decreto-Lei n.6.246/44 e 11, do Decreto-Lei n. 4.481/42.Sustenta, em resumo, que "o SENAI não tem legitimidade para figurar no pólo ativo da presente demanda, já que não lhe é permitido exigir da empresa-recorrente a exibição de documentos com a finalidade de fiscalizar o recolhimento das contribuições eventualmente devidas.  .. Sendo assim, devem ser reformados os vv. acórdãos, para que a ação seja julgada extinta, sem análise do mérito, em razão de inépcia da petição inicial por falta de interesse de agir e ilegitimidade de partes.  .. "o empresa -recorrente nunca deixou de atender às solicitações da fiscalização do SENAI.E, neste aspecto, verifica-se que o ora recorrido deixou de comprovar o seu direito, na medida em que não foram acostados aos autos documentos que comprovassem que a recorrente teria deixado de apresentar documentos para afiscalização do SENAI.Neste aspecto, verifica-se que era de responsabilidade do recorrido trazer aos autos toda a documentação que comprovasse os fatos alegados na petição inicial, conforme disposição expressa dos artigos 282, VI, e 333, I, do CPC." (fl. 232).
+Contrarrazões às fls. 267/277.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, que a matéria pertinente aos arts. 267, VI, 282, VI e 333, I, do CPC/73 não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.A
+Ademais, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 183/188):
+Cuidam-se os autos de ação cautelar de exibição de documentos ajuizada pelo SENAI em virtude de não ter ele acesso a documentos essenciais para a fiscalização do recolhimento das contribuições a ele devidas.
+Afasta-se a preliminar de falta de interesse de agir.
+Aduz a apelante faltar ao SENAI competência para proceder à fiscalização em suas dependências, pois não se trata de empresa industrial e sim comercial.
+Todavia, observa-se que dentre o seu objeto social, a ré não exerce apenas atividades comerciais e de prestação de serviços, já que ela fabrica materiais destinados a cozinhas industriais, além de transformar matérias primas em produtos alimentícios.
+Em relação à outra preliminar sustentada nas razões pela apelante, a saber, falta de legitimidade ativa, destaca-se que a mesma confunde-se com o mérito que passa a ser analisado.
+ ..
+Desse modo, a fim de que se possa apurar a existência de mais de quinhentos empregados no quadro de funcionários da empresa ré, é necessário que a fiscalização do SENAI examine as competentes Guias de Recolhimento da Previdência Social - GRPS"S, hoje GPS"S, bem como as folhas de pagamento de todos os seus estabelecimentos, sendo que o art. 11 do Decreto-lei n. 4.481, de 16 de julho de 1942, preceitua que:
+ ..
+Conforme ressaltado, a contribuição adicional, em razão do art. 10 do Decreto n. 60.466/67, as atribuições de fiscalização e arrecadação é de exclusividade do SENAI e no do INSS.
+Desta forma, compete ao SENAI o direito de efetuar o levantamento dos dados e eventual débito diretamente na empresa, consoante parágrafo único do art. 6ºdo Regimento do SENAI, que estabelece:
+ ..
+Ora, para que o autor possa vir a apurar a existência de débito, ou seja, verificar se a ré possui mais de quinhentos em pregados e deixou de recolher a contribuição adicional, o meio adequado para tanto é a análise das guias de recolhimento previdenciário, bem assim da folha de pagamento, uma vez que as contribuições devidas ao SENAI incidem sobre essa mesma folha de salários, sendo por meio de tais documentos que se constata a quantidade de funcionários especificada na lei.
+Portanto, a pretensão do autor encontra total amparo legal.
+ ..
+Adem ais, ressalta-se que a em presa apelante admite que sempre atendeu às solicitações do SENAI no que se refere à exibição de documentos, motivo pelo qual, não se mostra razoável que agora deixe de apresentá-los, sob a frágil alegação de que não exerce atividades de indústria, hipótese essa jáanalisada anteriormente.
+Outrossim , não háque se falar que o autor não trouxe aos autos elementos que comprovem os fatos aduzidos na peçainicial.
+O documento de fls. 21, denominadoTermo de Comparecimento - Notificação de Ação Fiscal - NA 3, esclarece que, de fato, o Agente de Fiscalização do SENAI compareceu nas dependências da empresa ré em 6.7.2009, para procederà Ação Fiscal, e, no entanto, não foi apresentada a documentaçãosolicitada, constando na referida notificação o nome, assinatura e cargo do representante da Sodexho.
+Diante desse contexto, adesconstituição das premissas lançadas pela instância ordinária, para se reconhecer ou não a falta de interesse de agir e de legitimidade ativa, demandaria o reexame de matéria de fato, procedimento que, em sede especial, encontra óbice na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
