@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto em favor de BRENO CRISTIAN FERREIRA NEPOMUCENO - preso pelo suposto delito de tráfico de drogas - contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.485484-8/000).
+Segundo consta dos autos, o recorrente foi preso em flagrante na data de 30/7/2020 na posse de 126 pedras de crack, pesando 20,20 gramas, que estavam escondidos dentro de buracos no muro de tijolos, 8,51 gramas de maconha, encontrada em sua residência e mais a quantia de R$ 976,00 (novecentos e setenta e seis reais).
+Homologado o flagrante, foi decretada a prisão preventiva (e-STJ fls. 52/55).
+Contra essa decisão, a defesa impetrou habeas corpus alegando naquela oportunidade falta de fundamentos para o decreto preventivo. O Tribunal, contudo, denegou a ordem, recebendo o acórdão a seguinte ementa (e-STJ fl.79):
+EMENTA: HABEAS CORPUS - TRÁFICO DE DROGAS - DECRETO PRISIONAL DEVIDAMENTE FUNDAMENTADO - QUANTIDADE CONSIDERÁVEL DE DROGAS APREENDIDAS - POSSIBILIDADE DE REITERAÇÃO DELITIVA - NECESSIDADE DA CUSTÓDIA CAUTELAR PARA GARANTIA DA ORDEM PÚBLICA - INSUFICIÊNCIA DAS CONDIÇÕES PESSOAIS FAVORÁVEIS - PRESENTES OUTROS ELEMENTOS QUE DEMONSTRAM O PERICULUM LIBERTATIS - REGIME DOMICILIAR EM RAZÃO DA PANDEMIA DO COVID-19 - INVIABILIDADE.
+Estando presentes as hipóteses de cabimento, os pressupostos e os motivos da segregação do paciente, tendo sido demonstrada a necessidade/adequabilidade da prisão preventiva, sua manutenção é a medida que se impõe. Conforme Precedente do STJ, a mera presença de condições pessoais favoráveis não obriga a concessão de liberdade provisória quando os autos demonstrarem o periculum libertatis.
+Conforme as orientações constantes na Portaria Conjunta nº 19 do TJMG e na Recomendação nº 62 do CNJ, não tendo sido acostado documento que ateste condição de vulnerabilidade ou inserção do paciente no grupo de risco, sem notícias, ainda de superlotação ou de impossibilidade de atendimento no estabelecimento onde o paciente se encontra recolhido, inviável a concessão do regime domiciliar.
+Na presente oportunidade, o recorrente, reafirma em síntese, a ausência de pressupostos válidos para a prisão preventiva, dando ênfase às suas condições pessoais favoráveis - primário, bons antecedentes, residência fixa.
+Alega, ter direito à substituição da prisão preventiva pela domiciliar com base na Recomendação CNJ n.62, em virtude do suposto delito não ter sido praticado com violência ou grave ameaça à pessoa e por se encontrar exposto aos riscos de contágio pelo COVID-19, dentro do estabelecimento prisional.
+Diante disso, pede em liminar e no mérito, a revogação da prisão preventiva do paciente, com a aplicação das medidas cautelares previstas no artigo 319 do CPP.
+Indeferida a liminar (e-STJ fls. 111/114) e prestadas as informações (e-STJ fls. 118/172), o Ministério Público Federal manifestou-se pelo não provimento do recurso (e-STJ fls. 178/180).
+É o relatório, decido.
+Consoante informações obtidas no endereço eletrônico do Tribunal de origem, em 17/12/2020, o Juízo processante desclassificou o delito previsto no art. 33, caput, da Lei n. 11.343/2006,inicialmente imputadoao recorrente, para aquela capitulada no art. 28 da mesma lei, momento em que foi determinada a expedição do alvará de soltura.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso.
+Intimem-se.
