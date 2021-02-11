@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MATEUS GOMES DE SÁ e CASSIO DE FARIAS MIRANDA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal nº 1501025-08.2019.8.26.0616).
+Os pacientes foram condenados às penas de 8 anos de reclusão no regime inicial fechado e de 1.200 dias-multa, pela prática descrita nos arts. 33, caput, e 35da Lei n. 11.343/2006.
+A defesa requer a absolvição dos pacientes quanto ao crime de associação para o tráfico, pois, segundo aduz, não foram comprovados os requisitos da estabilidade e permanência. Pugnaainda pelo reconhecimento do tráfico privilegiado em seu patamar máximo, diante da primariedade e dos bons antecedentes dos pacientes.
+O pedido de liminar foi indeferido às fls. 335-336.
+Prestadas as informações (fls. 346-361), o Ministério Público Federal opinou pela denegação da ordem (fls. 363-365).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não constato a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Tribunal a quo manteve a sentença, que condenara os pacientes pelo crime de associação para o tráfico de drogas. Confira-se excerto do acórdão(fls. 316-317):
+No caso dos autos, os elementos de prova evidenciam que a ação não foi única. Além de os recorrentes terem sido identificados em denúncia anônima como sendo os traficantes que agiam no sítio dos fatos, confessaram que estavam associados para o tráfico ilícito. Como se viu, Mateus confirmou a existência de divisão de tarefas, precisamente que era responsável pela venda das drogas, enquanto Cássio atuava como "olheiro". Cássio, por sua vez, também confirmou essa função, aduzindo que a exercia há pelo menos nove dias. Isso evidencia que não se tratou de uma reunião ocasional, de mero concurso de agentes. Ao contrário, a união de esforços para a prática do tráfico ilícito era estável e permanente, ainda que exercida há poucos dias, configurando-se, desse modo, o crime previsto no art. 35, "caput", da Lei de Drogas.
+Portanto, outra não poderia ser a solução adotada, que não a prolação de decreto condenatório.
+O STJ firmou o entendimento de que, tendo as instâncias de origem reconhecido, com base nasprovas colhidas nos autos, que o condenado estava associado com outros indivíduos de forma estável e permanente, está caracterizado o delito de associação para o tráfico.
+Ademais, o acolhimento da tese de que não foi provado o vínculo estável e permanente dos pacientes com outras pessoas no reiterado comércio ilícito de drogas, a ensejar a absolvição do delito descrito no art. 35 da Lei n. 11.343/2006, implicaria revolvimento do conjunto fático-probatório, procedimento incompatível com a estreita via do habeas corpus.
+Nesse sentido, confiram-se os seguintes julgados: AgRg no HC n. 590.375/MS, relator Ministro Jorge Mussi, Quinta Turma, DJe de 25/8/2020; HC n. 439.046/PB, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1º/6/2020; HC n. 492.911/MG, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 18/10/2019; e AgRg no HC n. 521.937/RS, relator Ministro Sebastião Reis Junior, Sexta Turma, DJe de 17/9/2019.
+Por fim,a condenação pelo crime previsto no art. 35, caput, da Lei n. 11.343/2006 é incompatível com o reconhecimento do tráfico privilegiado, sendo suficiente para afastar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, pois indica que o agente se dedica a atividades criminosas (AgRg no AREsp n. 1.732.339/TO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020; e AgRg no HC n. 610.288/SP, relator Ministro Sebastião Reis Junior, Sexta Turna, DJe de 23/10/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo
+Publique-se. Intimem-se.
