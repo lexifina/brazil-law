@@ -1,0 +1,65 @@
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MULTA COMINATÓRIA. DESCUMPRIMENTO DE ORDEM JUDICIAL. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO NOS MOLDES LEGAIS. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Dissídio jurisprudencial não comprovado, ante a ausência de demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora. Presidiu o julgamento o Sr. Ministro Marco Buzzi.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto contra decisão de fls. 321-324 (e-STJ), proferida pela Presidência desta Corte Superior, que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, sustenta a parte ora agravante a inaplicabilidade da Súmula 7/STJ no tocante à violação do art. 537, caput e § 3º, do Código de Processo Civil de 2015 e ter demonstrado a divergência jurisprudencial.
+Impugnação apresentada às fls. 334-337 (e-STJ), pelo não provimento do presente agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. MULTA COMINATÓRIA. DESCUMPRIMENTO DE ORDEM JUDICIAL. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO NOS MOLDES LEGAIS. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Dissídio jurisprudencial não comprovado, ante a ausência de demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo não merece provimento.
+Os argumentos jurídicos trazidos nas razões do agravo interno não se prestam a modificar o posicionamento anteriormente adotado.
+Transcrevo, por oportuno, os fundamentos da decisão ora agravada (e-STJ, fls. 321-324):
+Trata-se de agravo apresentado por REATORES BRASIL LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO PROVISÓRIA DE ASTREINTES - POSSIBILIDADE - ART. 537, § 3º DO CPC - ATRASO NO CUMPRIMENTO DA DECISÃO CONCESSIVA DA TUTELA DE URGÊNCIA - VALOR DESARRAZOADO - EXCLUSÃO EX OFFICIO DA SANÇÃO PECUNIÁRIA - ART. 537, § 1º, I E II DO CPC - RECURSO PROVIDO.
+O Novo Código de Processo Civil, em seu artigo 537, § 3º, admite, expressamente, a execução provisória de multa, fixada em decisão concessiva de tutela de urgência.
+Restando incontroverso que o devedor cumpriu sua obrigação, embora com atraso e que o valor da multa mostra-se desarrazoado, se comparado com o montante discutido na causa principal, pode o juiz, de ofício ou a requerimento, excluir a sanção pecuniária, com amparo no § 1º, incisos I e II, do aludido dispositivo legal. (fl. 212)
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega a violação do art. 537, § 3º, do CPC, bem como divergência jurisprudencial, aduzindo que deve ser rejeitada a exclusão da multa cominatória anteriormente imposta ao recorrido, trazendo os seguintes argumentos:
+Consoante narrado anteriormente, a decisão Recorrida, ao acolher a impugnação, a fim de excluir a multa imposta à Recorrida e, via de consequência, extinguir o cumprimento provisório de sentença, foi de toda forma equivocada.
+Isso porque restou comprovado nos autos que a Recorrida não cumpriu ordem judicial dentro do prazo estipulado, pois somente se dignou a cumprir a determinação judicial após a fixação de multa, depois de intimada 03 (três) vezes para cumprir o mesmo ato, razão pela qual deve arcar com a multa advinda de sua desídia.
+Cumpre destacar ainda, que a multa chegou ao valor que está hoje em razão da desobediência da Recorrida, de sua resistência às ordens judiciais, não podendo agora alegar que foram excessivas, pois tal fato implicaria em verdadeiro desprestígio para a atividade jurisdicional, uma vez que o devedor que ignora um mandamento judicial estaria se beneficiando de sua própria torpeza.
+Ademais disso, o juízo de primeiro grau ao fixar as astreintes levou em consideração a coerência com os princípios da razoabilidade e proporcionalidade, levando-se em consideração as peculiaridades do caso concreto, de modo que, o limite de dias, valor envolvido e a natureza da obrigação, restou clarividente que não foi excessivo, sendo o valor atual executado, se repise, fruto da desobediência da Recorrida, não havendo o que se falar em que o montante cobrado ultrapassa os limites do absurdo como apontado no acórdão, pois, se a Recorrida tivesse cumprido o que lhe foi determinado dentro do prazo, não se sujeitaria ao pagamento de referida astreinte.
+ ..
+Destarte, diante de todos os fatos descritos e da decisão narrada no acórdão combatido, resta claro que, ao decidir da forma como fez, contrariou, o disposto no artigo 537, caput e §3º do CPC, e, consequentemente, divergiu do entendimento jurisprudencial de outros Tribunais, e deste modo, devido as interpretações e decisões contrárias prolatadas pelo acórdão combatido em absoluta divergência e afronta aos dispositivos infraconstitucionais supracitados, requer a Recorrente a reforma do acórdão recorrido. (fls. 221/224)
+É o relatório. Decido.
+Quanto à controvérsia pela alínea "a" do permissivo constitucional, o Tribunal de origem se manifestou nos seguintes termos:
+Os documentos apresentados nos autos da ação negatória de débito, comprovam que a ora agravante cumpriu a determinação judicial, com a exclusão do nome do autor no cadastro de inadimplente somente no dia 23 de junho de 2017.
+Portanto, evidencia-se que a ora agravante cumpriu, ainda que com atraso, a determinação judicial, o que autoriza a exclusão da multa pecuniária, a teor do que prescreve o artigo 537, § 1º, inciso I, do Código de Processo Civil.
+Verifica-se, ademais, que a questão posta em discussão perante o juízo de origem, versa sobre suposta dívida envolvendo dois cilindros de gás, cedidos em comodato, no importe de R$ 3.200,00 (três mil e duzentos reais); revelando-se desarrazoado e desproporcional a exigência do pagamento de multa no importe de R$ 20.145,00 (vinte mil, cento e quarenta e cinco reais).
+Ainda que o Novo Código de Processo Civil, em seu artigo 537, § 3º admita, expressamente, a possibilidade de execução provisória de multa fixada em decisão concessiva de tutela urgência, como meio de compelir o requerido ao cumprimento do comando judicial, não se pode perder de vista que é facultado ao juiz, de ofício ou a requerimento da parte, exclui-la nas hipóteses elencadas nos incisos I e II do § 1º.
+ ..
+Logo, deve ser reformada a decisão agravada, porquanto a agravante cumpriu a decisão judicial, excluindo o nome da agravada do cadastro de inadimplentes e considerando que o montante cobrado ultrapassa os limites do absurdo.
+Finalmente, no que diz respeito à multa aplicada por ocasião do julgamento dos embargos declaratórios, também hei por bem excluída, eis que não subsiste qualquer intenção protelatória, mas tão somente legítimo interesse em buscar esclarecimento acerca da decisão judicial, ainda que não se tenham verificados os vícios apontados pela embargante. (fls. 215/216)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+No que concerne ao dissídio jurisprudencial, não se revela cognoscível a interposição do apelo nobre com base na alínea "c", do art. 105, inciso III, da Carta Magna, quando a demonstração do dissídio interpretativo se restringe à mera transcrição de ementas, sendo absolutamente indispensável o efetivo cotejo analítico entre o aresto impugnado e os acórdãos paradigmas, declinados ao exame da identidade ou similitude fática entre estes, nos moldes legais e regimentais, mister não desincumbido pelo postulante no caso em apreço.
+Na mesma direção, já se pronunciou o Superior Tribunal de Justiça: "É entendimento pacífico do STJ que a parte deve proceder ao cotejo analítico entre os julgados confrontados e transcrever trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente a mera transcrição de ementas. (AgInt no AREsp n. 945.538/AL, relator Ministro Marco Buzzi, Quarta Turma, DJe 20/11/2017).
+Nesse sentido, os seguintes julgados: AgInt nos EREsp 1.416.320/SE, relatora Ministra Regina Helena Costa, Primeira Seção, DJe 27/2/2019; AgInt nos EAREsp 407.728/SP, relator Ministro Luis Felipe Salomão, Segunda Seção, DJe 18/4/2018; AgRg no AREsp 692.989/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/2/2019; AgInt nos EAREsp 313.624/MG, relator Ministro Francisco Falcão, Corte Especial, DJe 28/9/2018; e AgRg nos EAREsp 1.061.728/PE, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe 15/8/2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+Reexaminando as razões do recurso, verifico que a Corte local concluiu que a ora agravada cumpriu a determinação judicial, ainda que com atraso, promovendo a exclusão do nome da agravante do cadastro de inadimplente, o que autoriza a exclusão da multa pecuniária.
+Inviável a apreciação dos fatos e provas constantes dos autos, bem como a conclusão da origem acerca destes, a fim de verificar a caracterização de atraso no cumprimento da ordem judicial incapaz de afastar a aplicação da multa cominatória, por exigir o reexame fático e esbarrar no óbice da Súmula 7/STJ.
+Por fim, o recurso especial também não pode ser conhecido com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, pois o ora agravante deixou de proceder ao cotejo analítico entre os acórdãos confrontados, com o escopo de demonstrar que partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+Cumpre ressaltar, ainda, que o recorrente deve transcrever os trechos dos acórdãos que configurem o dissídio, mencionando as circunstâncias dos casos confrontados, sendo insuficiente, para tanto, a mera transcrição de ementas.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE COTEJO ANALÍTICO. ACÓRDÃOS RECORRIDO E PARADIGMA PROVENIENTES DO MESMO TRIBUNAL. IMPOSSIBILIDADE. SÚMULA 13/STJ. CÉDULA DE CRÉDITO RURAL. AVAL PRESTADO POR PESSOA FÍSICA. VALIDADE. SÚMULA 83/STJ. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA. AGRAVO DESPROVIDO.
+1. A divergência jurisprudencial exige comprovação, por meio da transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não sendo bastante a simples transcrição de ementas ou fragmentos de votos, sem o necessário cotejo analítico, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+2. Acórdãos paradigmas provenientes do mesmo Tribunal prolator da decisão recorrida não se prestam a demonstrar a divergência ensejadora do recurso especial, nos termos do enunciado n. 13 da Súmula do STJ.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 1.380.364/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 9.4.2019)
+Em face do exposto, não havendo o que se reformar, nego provimento ao agravo interno.
+É como voto.
