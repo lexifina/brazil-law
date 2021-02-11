@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Federal de Educação, Ciência e Tecnologia de Pernambucocom fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo TribunalRegional Federal da 5ª Região, assim ementado (fls. 339/340):
+AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. PENSÃO POR MORTE. SUSPENSÃO.PRESCRIÇÃO DE FUNDO DE DIREITO. INOCORRÊNCIA. AUSÊNCIA DE ATO ADMINISTRATIVO QUE SE POSSA TOMAR COMO MARCO INICIAL. IMPROVIMENTO.
+1. Trata-se, na origem, de ação ordinária na qual a parte autora busca o restabelecimento da pensão por morte em seu favor, com o pagamento das parcelas em atraso. O IFPE afirma que houve a prescrição do fundo de direito, uma vez que o ato de suspensão do benefício se deu em junho/2011 e a demanda judicial só foi proposta em 2017.
+2. O marco inicial da prescrição de fundo de direito deve ser a data da conclusão do procedimento administrativo que determinou o cancelamento do benefício, entretanto, há nos autos, apenas, a notícia de suspensão do benefício, e não o seu cancelamento.
+3. Agravo de instrumento improvido.
+Opostos embargos declaratórios, foram rejeitados (fls. 365/367).
+A parte recorrente apontaviolação aoart. 1º do Decreto 20.910/32. Sustenta a ocorrência da prescrição do fundo de direito, sob o argumento de que "consoante narrado pela própria autora/recorrida, o cancelamento da pensão por morte percebida pela autora ocorreu em JULHO/2011, mas o processo de origem apenas foi proposto em 11.07.2017, ou seja, mais de cinco anos após ato administrativo que negou o direito à percepção de pensão.Nesses casos, a jurisprudência do Superior Tribunal de Justiça consagra o entendimento de que a prescrição é do próprio fundo do direito, já que houve manifestação expressa da Administração negando o direito à pensão" (fl. 376).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o de que "O marco inicial da prescrição de fundo de direito deve ser a data da conclusão do procedimento administrativo que determinou o cancelamento do benefício, entretanto, há nos autos, apenas, a notícia de suspensão do benefício, e não o seu cancelamento.  .. Como não houve a juntada do PA, não é possível estabelecer um marco inicial da prescrição de fundo de direito, bem como se de fato houve cancelamento ou apenas suspensão." (fl. 339).
+Tal situação esbarra, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". A respeito do tema: AgRg no REsp 1.326.913/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 4/2/2013; EDcl no AREsp 36.318/PA, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/3/2012.
+ANTE O EXPOSTO, nãoconheçodo recurso especial.
+Publique-se.
