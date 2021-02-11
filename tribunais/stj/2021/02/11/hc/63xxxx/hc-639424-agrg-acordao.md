@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO REGIMENTAL CONTRA DECISÃO MONOCRÁTICA DE RELATOR. FURTO QUALIFICADO E ORGANIZAÇÃO CRIMINOSA. CONDENAÇÃO. EXCESSO DE PRAZO DAS MEDIDAS CAUTELARES. SUPRESSÃO DE INSTÂNCIA. FALTA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. AGRAVO DESPROVIDO.
+1. As teses arguidas pelas defesa não foram analisadas pelo Tribunal impetrado no ato impugnado no presente habeas corpus, o que impede o exame direto por esta Corte, por configurar indevida supressão de instância. Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+2. Ademais, a defesa não manejou o recurso cabível de forma a atrair a competência do Superior Tribunal de Justiça. Precedentes do STF.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por RENATO VIEIRA DO NASCIMENTO contra decisão monocrática que indeferiu liminarmente o habeas corpus (e-STJ fls. 331/332).
+Segundo consta dos autos, o paciente foi condenado à pena total de 9 anos, 1 mês e 10 dias de reclusão, estabelecido o regime inicial semiaberto após a detração do tempo de prisão, pelos crimes de furto qualificado e organização criminosa.
+Nas razões do presente recurso, a defesa alega excesso de prazo nas medidas cautelares, que superam 2 anos e 4 meses, sem registros de descumprimento, contexto que indicaria a flagrante ilegalidade a justificar a concessão da ordem.
+Diante disso, pede a reconsideração da decisão agravada ou que o recurso seja levado a julgamento pelo Colegiado para conceder a ordem, com superação do enunciado n. 691 do STJ.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+A decisão deve ser mantida por seus fundamentos.
+No caso, colhe-se da decisão liminar impugnada (e-STJ fls. 18/19):
+Tal qual se informa na petição inicial, a revogação das medidas cautelares já fora requerida ao juízo impetrado, o qual entendeu falecer-lhe competência para o exame da matéria, haja vista que sua jurisdição se exaurira após a prolação da sentença condenatória. Na referida decisão, o magistrado assim deixou assentado:
+"(..) Observo que as cautelares impostas ao acusado, previstas no art. 319, I, III, IV e IX, do CPP, foram mantidas na sentença de mérito lançada nos autos da Ação Penal n. 000354-03.2017.4.05.8100, a qual não mais se encontra submetida à jurisdição deste juízo.
+Nesse contexto, com o julgamento final da causa nesta instância e a interposição de recurso e consequente remessa dos autos e seus apensos para o eg. TRF/5R, cabe a este juízo tão somente acompanhar o cumprimento das cautelares e informar as ocorrências relacionadas ao Relator da Apelação para que este delibere a respeito da manutenção das medidas, diante da natureza destas (CPP, art. 282, §5º).
+Com efeito, a legislação processual (CPC, art. 494) limita a prestação jurisdicional ao momento da decisão de mérito, sendo, a partir de então, com a interposição de recursos, devolvida toda a matéria para a competência funcional da instância superior. Assim, as questões relacionadas à manutenção das medidas cautelares impostas ao acusado por inadequação ou desnecessidade devem ser analisadas pelo Relator da Apelação, evitando-se, com isso, o risco de decisões conflitantes e invasão de competência.
+Aliás, o regimento interno do eg. Tribunal Regional Federal da 5ª Região, no seu art. 259, esclarece que, nos casos urgentes, se a causa estiver afeta ao Tribunal, as medidas cautelares serão requeridas ao Relator do recurso, nas hipóteses e na forma da lei processual. Assim, o pedido dirigido a este juízo, visando a revogação das medidas cautelares, deveria ter sido apresentado ao Relator da Apelação no Tribunal.
+Portanto, é o caso de declaração de incompetência funcional deste juízo de primeiro grau para analisar o pedido de revogação de medidas cautelares diversas da prisão em processo atualmente submetido à competência do eg. TRF/5ª Região, remanescendo neste juízo apenas a atividade de acompanhamento e fiscalização daquelas.
+Consequente, faltando pressuposto de desenvolvimento válido e regular do processo, consubstanciado na competência funcional do órgão jurisdicional, impõe-se a extinção do pedido sem apreciação de seu conteúdo de mérito.
+Pelo acima exposto, declaro a incompetência funcional deste juízo de primeiro grau e, em razão da falta de pressuposto processual, extingo o pedido sem exame do mérito. (..)"
+Realmente, não caberia, a esta altura, àquele magistrado adentrar na discussão aqui suscitada pelos impetrantes, porquanto seu papel, no que concerne às medidas cautelares impostas aos réus, restringe-se, agora, ao mero acompanhamento e fiscalização, conforme salientado pelo próprio.
+Sucede que, quando o juízo afirmou que o pedido de revogação haveria que ser endereçado a esta Corte, não quis dizer, data venia, que isso se faria por meio da impetração de um habeas corpus.
+Bastaria que o pleito fosse deduzido por meio de uma simples petição, nos autos do próprio processo principal, que aqui está a tramitar. Aliás, esse pedido, em favor do paciente, já foi feito pela DEFENSORIA PÚBLICA DA UNIÃO e indeferido por este relator, em recente decisão.
+Nesse cenário, este TRF, claramente, não tem competência para o exame do presente remédio heroico. Seja na hipótese de demora na apreciação do pedido de revogação das medidas cautelares, seja na de indeferimento mesmo do pleito (o que, repita-se, já ocorreu), a Corte assume a condição de autoridade coatora e, por conseguinte, não pode exercer o papel de julgadora do habeas corpus no qual, em tese, é a responsável pelo constrangimento tido por ilegal.
+Pelo exposto, INDEFIRO LIMINARMENTE o presente writ, dada a manifesta incompetência deste Tribunal para a sua apreciação, extinguindo o feito sem resolução de mérito.
+Como visto, as teses arguidas pela defesa não foram analisadas pelo Tribunal impetrado no ato impugnado no presente habeas corpus, o que impede o exame direto por esta Corte, por configurar indevida supressão de instância.
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+Ademais, a defesa não manejou o recurso cabível de forma a obter um pronunciamento por parte do Tribunal impetrado, de modo a atrair a competência do Superior Tribunal de Justiça, nos termos do art. 105, II, da Constituição Federal.
+Nesse sentido, compreende a Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Relator Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 06/12/2019, DJe 18/12/2019).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
