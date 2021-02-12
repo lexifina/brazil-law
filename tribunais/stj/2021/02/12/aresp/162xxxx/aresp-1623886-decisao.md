@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interposto por CAIXA SEGURADORA S.A.contra a decisão que inadmitiu o recurso especial. O apelo extremo fundamentado no art. 105, inciso III, alínea"a", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"AGRAVO DE INSTRUMENTO - AÇÃO DE COBRANÇA - INDENIZAÇÃO SECURITÁRIA - SEGURO HABITACIONAL - SISTEMA FINANCEIRO DE HABITAÇÃO (SFH) - VÍCIOS DE CONSTRUÇÃO - PRESCRIÇÃO ANUAL - NÃO CONFIGURAÇÃO - RECURSO IMPROVIDO.
+Consoante a jurisprudência dominante do Superior Tribunal de Justiça, nos contratos de seguro habitacional obrigatório, sob a égide das regras do Sistema Financeiro de Habitação, aplica-se o prazo prescricional de um ano previsto no art. 206, § 1º, II, "b", do Código Civil.
+Inicia-se a contagem do prazo prescricional no momento em que o segurado tiver ciência dos vícios de construção alegados.
+In casu, por ser impossível estabelecer a data exata em que foram identificados os danos no imóvel, notadamente porque o processo de deterioração por vícios decorrentes da construção, por vezes, surgem sem que o proprietário perceba.
+Outrossim, inexiste nos autos prova da data em que o autor foi cientificado acerca da negativa de pagamento da indenização securitária.
+Destarte, deve ser rejeitada a prejudicial de mérito consistente na suposta prescrição da pretensão autoral"(fl. 372, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente aponta violação doart. 206, § 1º, II, "b", do Código Civil de 2002.Defende a incidência do prazo prescricional ânuo, para fins de recebimento do seguro habitacional.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante à prescrição, o Tribunal de origem assim declarou:
+"(..)
+Insta salientar que a jurisprudência do colendo STJ consolidou o entendimento no sentido de que nos contratos de seguro habitacional obrigatório, celebrados de acordo com as regras do Sistema Financeiro da Habitação (SFH), aplica-se o prazo prescricional de um ano previsto no art. 206, § 1º, II, "b", do Código Civil, in verbis:
+Art. 206. Prescreve: § 1o Em um ano:
+(..)
+II - a pretensão do segurado contra o segurador, ou a deste contra aquele, contado o prazo:
+(..) b) quanto aos demais seguros, da ciência do fato gerador da pretensão;
+(..)
+Por outro lado, a contagem do prazo prescricional deve ter início a partir da data em que o segurado tiver ciência dos vícios de construção do imóvel, na forma prevista no próprio art. 206, § 1º, II, "b", do Código Civil.
+No caso em tela, os contratos (financiamento habitacional e seguro) celebrados entre as partes foram firmados em 16 de julho de 2001. (docs. ordem nºs 21/24).
+Entretanto, não é possível estabelecer a data inequívoca em que foram identificados os danos decorrentes da construção especificamente apontados na exordial, até porque o processo de deterioração por vício de construção, por vezes, inicia-se sem que o proprietário perceba.
+Além disso, inexiste nos autos prova da data em que o autor (agravado) teve ciência da negativa, pela Seguradora, do pagamento da indenização securitária, o que impossibilita o reconhecimento da prescrição da pretensão autoral (recebimento do valor segurado)" (fls. 376-378,e-STJ).
+Ressalta-se queeste Tribunal Superior tem o entendimento de que, em relação ao marco inicial do prazo prescricional, "sendo os danos ao imóvel de natureza sucessiva e gradual, sua progressão dá azo a inúmeros sinistros sujeitos à cobertura securitária, renovando seguidamente a pretensão do beneficiário do seguro", concluindo que em "situações como esta, considera-se irrompida a pretensão do beneficiário do seguro no momento em que, comunicado o fato à seguradora, esta se recusa a indenizar" (REsp 1.143.962/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 20/3/2012, DJe 9/4/2012).
+Nesse mesmo sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. INTERPRETAÇÃO DO SEGURO OBRIGATÓRIO CONSOANTE A SUA FUNÇÃO SOCIAL, A BOA-FÉ OBJETIVA, E A NATUREZA ADESIVA. A CLÁUSULA DAS CONDIÇÕES PARTICULARES DO SEGURO QUE AFASTA A COBERTURA DOS VÍCIOS CONSTRUTIVOS AFRONTA O QUANTO DISPOSTO NO ART. 51, VI E §2º, DO CDC.
+1. Discussão acerca da abusividade de cláusula constante nas condições particulares do seguro habitacional inserto no âmbito do SFH segundo a qual vícios de construção ou defeitos físicos oriundos de causas internas estejam afastados da cobertura securitária.
+2. O seguro é erigido dentro do sistema de financiamento como garantia ao segurado e, do mesmo modo, ao financiador, de modo que possa desempenhar a sua mais clara função: garantir que o segurado seja ressarcido pelos riscos invalidez/morte, danos físicos ao imóvel financiado, e responsabilidade do construtor e que o credor financiante não sejasurpreendido com a ruína do imóvel que garante o financiamento.
+3. Abusividade da cláusula das condições particulares do seguro habitacional que restringe direitos ou obrigações fundamentais inerentes à natureza do contrato. Incompatibilidade com os fins sociais do seguro obrigatório habitacional da exclusão dos principais vícios que acometam o bem objeto de garantia do financiamento.
+4. Ilegitimidade passiva afastada na origem quando do julgamento de anterior agravo de instrumento. Preclusão. Enunciado 283/STF. Questão, ademais, a depender da revisão do contexto fático probatório, o que não é da competência deste Tribunal Superior. Enunciado 7/STJ.
+5. Prescrição ânua contada da efetiva ciência do segurado acerca dos vícios construtivos. Indefinição do marco inicial. Danos progressivos. Impossibilidade de reconhecimento do implemento do prazo prescricional no caso concreto. Súmulas 568 e 7/STJ.
+6. AGRAVO INTERNO DESPROVIDO"
+(AgInt no REsp 1.876.017/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020).
+Assim, a ausência de fixação de um termo inicial para a contagem do prazo prescricional impossibilita, em sede de recurso especial, o reconhecimento da prescrição, pois demandaria o necessário reexame dos elementos fático-probatórios dos autos, soberanamente delineados pelas instâncias ordinárias, o que é defeso nesta fase recursal, a teor da Súmula nº 7 do STJ.
+Sobre o tema:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. VÍCIOS DE CONSTRUÇÃO DO IMÓVEL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. PRETENSÃO AO RECEBIMENTO DE COBERTURA SECURITÁRIA QUE PRESCREVE EM 1 (UM) ANO. DANOS CONTÍNUOS E PERMANENTES. FIRMADA A PRETENSÃO DO SEGURADO QUANDO, INTERPELADA A SEGURADORA, ESTA SE NEGA A INDENIZAR. NÃO OCORRÊNCIA DE PRESCRIÇÃO. INVERSÃO DE ENTENDIMENTO. NECESSIDADE DE REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. APLICABILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Embora rejeitados os embargos de declaração, a matéria controvertida foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo que se falar em ofensa ao art. 1.022 do CPC/2015.
+2. A jurisprudência desta Corte acerca do termo inicial da prescrição "é de que a progressão dos danos no imóvel, de natureza sucessiva e gradual, dá azo a inúmeros sinistros que renovam seguidamente a pretensão do beneficiário do seguro" (AgInt no REsp 1674404/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 21/09/2017, DJe 09/10/2017).
+3. Não é possível o conhecimento do recurso especial para alterar a decisão do Tribunal a quo, que não constatou a configuração da prescrição para ação de indenização por vícios de construção em contrato de seguro-habitação. Isso porque, para se chegar a conclusão diversa da firmada pelas instâncias ordinárias, seria necessário o reexame aprofundado das provas carreadas aos autos, procedimento vedado nesta via recursal por força da Súmula 7 do STJ.
+4. Agravo interno improvido."
+(AgInt no AREsp 1.124.138/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/04/2018, DJe 04/05/2018).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. AÇÃO DE INDENIZAÇÃO. VÍCIOS ORIUNDOS DA CONSTRUÇÃO. PRESCRIÇÃO. PRAZO. TERMO INICIAL. ELEMENTO FÁTICO NÃO APRECIADO NO ACÓRDÃO RECORRIDO. DETERMINAÇÃO DE RETORNO DOS AUTOS À ORIGEM. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Na linha de entendimento do Superior Tribunal de Justiça, "Tratando-se de pretensão que busca o recebimento de indenização securitária devida em virtude de vícios na estrutura de imóvel adquirido por intermédio de contrato vinculado ao Sistema Financeiro de Habitação, e não havendo meios de saber a data de surgimento dos defeitos de construção, o termo inicial do prazo prescricional é o momento em que o segurado comunica o fato à seguradora e esta se recusa a indenizar" (AgInt no AREsp 1.125.578/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/03/2018, DJe de 21/03/2018)
+2. O conhecimento do recurso especial exige a manifestação do Tribunal local acerca da tese de direito suscitada, bem como sobre os elementos fáticos que não poderiam ser examinados, de plano, na via estreita do recurso especial.
+3. Na hipótese em tela, contudo, apesar de as autoras/agravantes terem relatado, na petição inicial da ação indenizatória em apreço, que os danos ao imóvel, oriundos de vícios da construção, foram detectados no ano de 1981, constata-se que a Corte de origem deixou de se manifestar especificamente acerca da possível interrupção do lapso prescricional quando da comunicação do sinistro à seguradora e esta se recusou a indenizar.
+4. O enfrentamento dessa questão, diante das peculiaridades do caso concreto em que as próprias demandantes informaram, na exordial, a data precisa de surgimento dos defeitos de construção, qual seja o ano de 1981, mostra-se relevante para o deslinde da controvérsia, mormente em razão da impossibilidade de reexame de matéria fático-probatória no recurso especial (Súmula 7/STJ), bem como da necessidade de prequestionamento dos temas submetidos no recurso especial (Súmulas 282 e 356/STF e 211/STJ).
+5. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 249.768/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 15/05/2018, DJe 21/05/2018).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COBERTURA SECURITÁRIA DE IMÓVEL ADQUIRIDO PELO SISTEMA FINANCEIRO DA HABITAÇÃO (SFH). COBERTURA SECURITÁRIA. PRESCRIÇÃO. DANOS CONTÍNUOS E PERMANENTES. AUSÊNCIA DE MANIFESTAÇÃO QUANTO AO MOMENTO DA RECUSA EM INDENIZAR. IMPOSSIBILIDADE DE ANÁLISE DO MARCO INICIAL DO PRAZO PRESCRICIONAL. ENTENDIMENTO FIRMADO COM BASE NO CONTEXTO PROBATÓRIO DOS AUTOS E EM TERMOS CONTRATUAIS. APLICAÇÃO DAS SÚMULAS 5 E 7/STJ. RECURSO EXTRORDINÁRIO LATO SENSU. POSSIBILIDADE DE UTILIZAÇÃO DAS SÚMULAS 282, 283 E 284/STF. ANALOGIA. AGRAVO INTERNO DESPROVIDO"
+(AgInt no AREsp 988.290/RN, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/10/2017, DJe 20/10/2017).
+Demais disso, amodificação desse entendimento também demandaria o reexame de matéria fática, bem como interpretação da cláusula do contrato, providências vedadas no recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para negar provimento aorecurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), tendo em vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
