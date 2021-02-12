@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido de liminar impetrado em favor de WESLLEI HENRIQUE DA SILVA em que se aponta como autoridade coatora o Tribunalde Justiça do Estado de São Paulo (HCn. 2236781-08.2020.8.26.0000).
+Opaciente teve a prisão em flagrante convertida em preventiva(fls. 13-16)e foi denunciado por suposta prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006 (fls. 148-152).
+O decreto prisional fundou-sena reincidência específica e no fato de opaciente ter sido preso em flagrante, enquanto beneficiadopela concessão demedidas cautelares diversas da prisãonos Autos n. 1500346-58.2020.8.26.0297.Impetradowritoriginário, a ordem foi denegada.
+O Tribunal de origem manteve a custódia preventiva por estarem preenchidosos requisitos autorizadores damedida extrema. Destacou ser inviável a aplicação das medidas cautelares diversas da prisão (art.319 do CPP) ante a reincidência específicae a quantidade de droga apreendida.
+A defesa requer a concessão demedida liminar para quea prisão preventiva do paciente seja revogadacom aplicação deuma das medidas cautelares previstas no art. 319 do CPP. Aduzque o paciente não é reincidente específico, porquanto sua conduta foi desclassificada para a de posse para uso pessoal (art. 28 da Lei n. 11.343/2006).
+O pedido de liminar foi indeferido (fls. 170-171).
+As informações foram prestadas às fls. 177-191
+O Ministério Público Federal manifestou-sepelo não conhecimento do writou, caso dele se conheça, pela denegação da ordem (fls. 195-201).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar(fl. 15):
+Há evidência do "fumus comissi delicti", pressuposto da segregação cautelar (art. 312, parte final, CPP), pois o auto de prisão em flagrante, o auto de exibição e apreensão, o laudo de exame preliminar de constatação de substância e os depoimentos das testemunhas DIMAS MICHEL TARGA, DANIEL AFONSO MEROTTI, DEVAIR TENANI revelam a existência do crime e indícios suficientes da autoria.
+O requisito da prisão preventiva está presente (CPP 313 I), uma vez que o crime de tráfico e associação ao tráfico de drogas possui pena máxima prevista em abstrato superior a 4 anos.
+Presente ainda o fundamento da prisão preventiva (perigo gerado pelo estado de liberdade do imputado - periculum libertatis - CPP312).
+Verifica-se que na casa do autuado foram apreendidas 10 porções de maconha, R$670,00 em notas diversas e um dichavador (utensílio usado para preparo de droga). Pelos elementos informativos constantes dos autos, há forte evidência de que o autuado se dedicava ao tráfico de drogas em sua residência e seu irmão, adolescente, o ajudava na comercialização do entorpecente.
+Se não bastasse, o autuado é reincidente específico(p. 47/49) e foi preso em flagrante no mês de março de 2020também pela prática, em tese, do crime de tráfico de drogas (Processo 1500346-58.2020.8.26.0297), o que revela que sua liberdade traz risco concreto à ordem pública.
+Logo, é nítido que a segregação cautelar servirá para garantia para a ordem pública, até porque o autuado obteve a concessão das medidas cautelares diversas da prisão nos autos nº 1500346-58.2020.8.26.0297, as quais não o impediram de continuar com o suposto tráfico de entorpecentes.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais,a reincidência específica evidencia maior envolvimento do paciente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Por fim, aindaque o paciente não seja reincidente específico, como alega nas razões destewrit, justifica-se a prisão preventiva para garantia da ordem pública, porque, beneficiado por liberdade provisória em ação penal diversa, cometeu novainfração,hipótese em que está evidente o risco de reiteração delitiva (AgRgno HC n. 613.145/GO, relator Ministro Felix Fischer, Quinta Turma,DJede 18/11/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
