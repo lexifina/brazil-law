@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Quip S.A., com amparo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão assim ementado (e-STJ, fl. 626):
+EMBARGOS À EXECUÇÃO. PROVA PERICIAL E TESTEMUNHAL.INDEFERIMENTO. AGRAVO RETIDO. PEDIDO SUBSIDIÁRIO. ACOLHIMENTO.CONTRIBUIÇÃO AO FGTS. BASE DE CÁLCULO. ABONO ASSIDUIDADE.1. As questões colocadas na demanda não necessitam da realização de prova testemunhal e pericial, razão pela é de ser desacolhida a pretensão veiculada no agravo retido.2. Tendo em conta o disposto no art. 15 da Lei nº 8.036/90, a Instrução Normativa da Secretaria de Inspeção do Trabalho - SIT nº 99/12, ao disciplinar a fiscalização do recolhimento das contribuições para o FGTS, relacionou as parcelas remuneratórias sobre as quais aquelas incidem. Os valores referentes ao abono assiduidade não integram a base de cálculo da contribuição ao FGTS.3. Acolhimento do pedido subsidiário para expurgar da base de cálculo dos encargos trabalhistas das NDFC, mês a mês, os valores creditados a título de "bonificação por assiduidade" em favor dos trabalhadores que tiveram efetiva assiduidade completa em cada um dos meses entre maio/2012 e junho/2013.
+Os embargos de declaração opostos não foram providos (e-STJ, fls. 663-667).
+Sustenta a recorrente violação dos arts. 15, § 6º. da Lei n. 8.036/1990; 28, § 9º,"e", da Lei n.8.212/1990.
+Sustenta, em suma, "a não incidência da contribuição para o FGTS de todas as parcelas pagas a título de abono assiduidade, sem qualquer distinção"(e-STJ, fl. 712).
+Contrarrazões recursais às e-STJ fls. 756-776 alegando que "as contribuições devidas ao FGTS não possuem qualquer semelhança com tributos, tais como definidos pelo artigo 3º, do Código Tributário Nacional, ou mesmo com as contribuições previdenciárias, visto que os tributos federais destinam-se ao Tesouro Nacional e as contribuições previdenciárias destinam-se ao Fundo de Previdência e Assistência Social" (e-STJ, fl. 758).
+O recurso foi admitido na origem (e-STJ, fl. 783), os autos vieram-me conclusos.
+É o relatório.
+O recurso especial interposto pela Fazenda Nacional às e-STJ, fls. 673-686, foi provido por estar configurada a afronta ao disposto no art. 1.022 do CPC, em especial quanto à assertiva de que "à exceção das hipóteses expressamente elencadas no Regulamento, toda e qualquer parcela recebida pelo trabalhador deve ser considerada integrante do salário de contribuição"(e-STJ, fl. 637).
+Tal assertiva encontra respaldo tendo em vista que o Superior Tribunal de Justiça consagrou o entendimento de que apenas em relação às verbas expressamente excluídas pela lei, não haverá a incidência do FGTS, sendo irrelevante a natureza da verba trabalhista, se é remuneratória ou indenizatória, para incidência de sua contribuição.
+Dessa forma, como retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado nos aclaratórios da Fazenda, fica prejudicada a análise do recurso especial do contribuinte.
+Ante o exposto, com fulcro no art. 932, III, do CPC, julgoprejudicado o recursoespecial interposto por Quip S.A.
+Publique-se. Intimem-se.
