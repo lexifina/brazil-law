@@ -1,0 +1,19 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional proposta pela Companhia de Águas e Esgotos do Rio Grande do Norte (CAERN) contra decisão mediante a qual a primeira instância na Justiça do Trabalho determinou contrições ao patrimônio da sociedade empresária para cumprimento de decisão judicial.
+    A reclamante aduz que o despacho vergastado
+    “violou o princípio da legalidade orçamentária (art. 167, VI, Constituição Federal), a separação dos poderes (art. 2º da Constituição) e a continuidade da prestação dos serviços públicos (art. 175 da Constituição), ao desconsiderar a decisão proferida na ADPF nº 556, em que foi determinada a sujeição ao regime de precatórios à Companhia de Água e Esgoto do Rio Grande do Norte – CAERN.”
+    Requer que seja deferido o pedido liminar para suspender os efeitos do despacho reclamado e eventuais atos de constrição dele decorrentes, determinando-se, ainda “a imediata devolução aos cofres da CAERN do valor indevidamente bloqueado”, bem como que a autoridade reclamada “se abstenha de realizar novos bloqueios no processo matriz”.
+    Ao final, requer que seja julgado procedente o pedido, para cassar a decisão reclamada, “determinando-se a observância da orientação firmada pelo STF na ADPF 556, que deferiu a sujeição da CAERN ao regime constitucional dos precatórios (CF/88, art. 100)”.
+    É o relatório. Decido.
+    Ao determinar o bloqueio de valores de ente da administração pública estadual para garantir ordem de pagamento provinda de ação trabalhista, a autoridade reclamada desrespeita a eficácia vinculante da decisão proferida na ADPF nº 556/RN, cuja ementa transcrevo:
+    “ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. CONSTITUCIONAL. ADMINISTRATIVO. FINANCEIRO. DECISÕES JUDICIAIS DE BLOQUEIO, PENHORA, ARESTO E SEQUESTRO DE RECURSOS PÚBLICOS DA COMPANHIA DE ÁGUAS E ESGOTOS DO RIO GRANDE DO NORTE – CAERN. SOCIEDADE DE ECONOMIA MISTA PRESTADORA DE SERVIÇO PÚBLICO ESSENCIAL. APLICABILIDADE DO REGIME DE PRECATÓRIOS. PRECEDENTES. INDEPENDÊNCIA ENTRE OS PODERES. LEGALIDADE ORÇAMENTÁRIA. ARGUIÇÃO PARCIALMENTE CONHECIDA E, NESTA PARTE, JULGADA PROCEDENTE. 1. Não autoriza análise de ato questionado por arguição de descumprimento de preceito fundamental quando se cuidar de ofensa reflexa a preceitos fundamentais. Precedentes. 2. A Companhia de Águas e Esgotos do Rio Grande do Norte – CAERN é sociedade de economia mista, prestadora de serviço público em regime não concorrencial e sem intuito primário de lucro: aplicação do regime de precatórios (art. 100 da Constituição da República). Precedentes. 3. Decisões judiciais de bloqueio, penhora, aresto e outras formas de constrição do patrimônio público de empresa estatal prestadora de serviço público em regime não concorrencial: ofensa à legalidade orçamentária (inc. VI do art. 167 da Constituição), à separação funcional de poderes (art. 2º da Constituição) e à continuidade da prestação dos serviços públicos (art. 175 da Constituição). Precedentes. 4. Arguição parcialmente conhecida e, nesta parte, julgada procedente para determinar a suspensão das decisões judiciais que promoveram constrições patrimoniais por bloqueio, penhora, arresto, sequestro e determinar a sujeição ao regime de precatórios à Companhia de Água e Esgoto do Rio Grande do Norte – CAERN” (Rel. Min. Cármen Lúcia, Plenário, DJe de 6/3/20, grifo nosso).
+    Ante o exposto, defiro o pedido liminar para suspender os efeitos do despacho reclamado e eventuais atos de constrição dele decorrentes.
+    Comunique-se com urgência.
+    Notifique-se a autoridade reclamada para que preste as informações.
+    Cite-se a parte beneficiária da decisão reclamada para apresentar contestação (CPC, art. 989, III).
+    Publique-se. Int..
+    Brasília, 12 de fevereiro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
