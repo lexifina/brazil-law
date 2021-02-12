@@ -1,0 +1,19 @@
+Decisão: 1. Trata-se de reclamação ajuizada contra decisão de recebimento da Ação Civil Pública 5012249-02.2017.4.04.7000 pelo Juízo da 1ª Vara Federal de Curitiba/PR, por suposta afronta à orientação do Supremo Tribunal Federal externada no INQ 3.980.
+    Sustenta a defesa técnica, em síntese, que “referida ação civil pública teve por objeto exclusivo os mesmos fatos investigados no Inquérito n. 3980, arquivado em relação ao Reclamante, por ausência de justa causa, diante da absoluta falta de provas” (e.Doc. 1, fl. 4).
+    Ressalta que, nada obstante a natureza diversa entre as ações questionadas, “a ação civil pública por ato de improbidade administrativa se constitui em manifestação do ‘direito administrativo sancionador’, o qual, por sua vez, nos termos da doutrina especializada, ‘deve ser entendido como um autêntico subsistema penal’ (OLIVEIRA, Ana Carolina. Direito de Intervenção e Direito Administrativo Sancionador. 2012. p. 190)” (e.Doc. 1, fl. 18).
+    Defende ser o caso de mitigação da independência entre as esferas penal e administrativa sancionadora, assim como externado em caso análogo, enfrentado na RCL 41.557 pelo eminente Relator Ministro Gilmar Mendes.
+    Complementa aduzindo que, “por força do art. 4º, §16, inciso II, da Lei n. 12.850/2013, o acordo de colaboração premiada, por si só, não é suficiente a ensejar o recebimento de denúncia, tal como não o é para ensejar o recebimento de ação civil pública por ato de improbidade administrativa” (e.Doc. 1, fl. 15).
+    Com essas considerações, pleiteia “seja deferida a medida liminar pleiteada, determinando-se a imediata suspensão da tramitação da ação civil pública por ato de impropriedade administrativa n. 5012249-02.2017.4.04.7000 e o bloqueio de bens, determinados pelo Juízo da 1ª Vara Federal de Curitiba, especificamente no que tange ao ora Reclamante” (e.Doc. 1, fl. 19).
+    Os autos desta Reclamação foram distribuídos a este Relator em 4.2.2021 por prevenção aos autos do INQ 3.980.
+    2. Principio assinalando, por relevante, que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos, a saber: (i) a existência de plausibilidade jurídica (fumus boni juris); (ii) a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora). Sem que concorram esses requisitos, essenciais e cumulativos, não se legitima a concessão do provimento cautelar.
+    Num juízo de cognição sumária, próprio desta específica fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    No julgamento do INQ 3.980, a Segunda Turma do Supremo Tribunal Federal acolheu a alegação de falta de justa causa e, por conseguinte, rejeitou a denúncia ofertada em relação ao ora reclamante Roberto Pereira de Britto pelos fatos que lhe foram imputados.
+    Sendo esse o quadro, persiste a independência entre as esferas penal, civil e administrativa, a obstar, segundo já assentado pelo Supremo Tribunal Federal, a “interferência recíproca entre seus respectivos julgados, ressalvadas as hipóteses de absolvição por inexistência de fato ou de negativa de autoria” (HC 148.391, Rel. Min. Luiz Fux, Primeira Turma, Dje 15.3.2018).
+    3. Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final da presente reclamação, indefiro a liminar.
+    Solicitem-se informação à autoridade reclamada, no prazo de até 5 (cinco) dias.
+    Dê-se vista à Procuradoria-Geral da República para manifestação, pelo mesmo lapso temporal.
+    Publique-se. Intime-se.
+    Brasília, 12 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
