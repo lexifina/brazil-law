@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL DESPROVIDO. OMISSÃO E OBSCURIDADE. NÃO OCORRÊNCIA. INCONFORMISMO DA PARTE EMBARGANTE COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2. O mero inconformismo da parte com o resultado do julgamento não é suficiente para o acolhimento dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RIVALDO DIAS DE OLIVEIRA JÚNIOR ao acórdão de fls. 237-246, assim ementado:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PROCESSO PENAL. APELAÇÃO CRIMINAL. PROCESSAMENTO. EXCESSO DE PRAZO. NÃO VERIFICADO.
+1. Conforme tem orientado a doutrina e decidido esta Corte Superior, os prazos indicados na legislação pátria para a finalização dos atos processuais servem apenas como parâmetro geral, ou seja, não se pode deduzir eventual delonga como excessiva, tão somente pela soma aritmética daqueles. Assim, em homenagem ao princípio da razoabilidade, é admissível certa variação, de acordo com as peculiaridades de cada caso, devendo o constrangimento ser reconhecido como ilegal somente quando o retardo ou a morosidade sejam injustificados e possam ser atribuídos ao Poder Judiciário.
+2. Na espécie, o recorrente foi denunciado em 19/6/2016, oportunidade em que teve a prisão preventiva decretada. Em 24/5/2018 foi pronunciado pela prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal, tendo sido condenado pelo tribunal do júri à pena de 25 (vinte e cinco) anos e 6 (seis) meses de reclusão no dia 11/4/2019. A defesa apelou da sentença ainda na sessão plenária, postulando a apresentação das razões respectivas perante o Tribunal de origem, para onde os autos foram remetidos em 18/12/2019, com atribuição de efeito suspensivo ao recurso, tudo a indicar que o conjunto dos atos praticados denotam a regular tramitação do feito.
+PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. REGISTROS DE INQUÉRITOS POLICIAIS. POSSIBILIDADE.
+1. A prisão preventiva do agravante justifica-se pela necessidade de garantia da ordem pública, haja vista que no decreto prisionalrespectivo há registro expresso de que contra ele existem "diversos inquéritos policiais pelas mais diversas infrações penais, entre elas roubo e homicídio qualificado" e que a medida constritiva visa evitar que volte a delinquir.
+2. Inegável, portanto, a idoneidade do motivo determinante para a segregação cautelar, sobretudo porque "conforme orientaçãojurisprudencial desta Corte, inquéritos e ações penais em curso constituem elementos capazes de demonstrar o risco concreto de reiteração delituosa, justificando a decretação da prisão preventiva para garantia da ordem pública" (RHC 114.454/AL, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020). Precedentes.
+3. Eventual afastamento do motivo da prisão preventiva decretada - reiteração delitiva - dependeria de ampla e profunda cognição fático-probatória, o que não é compatível com o célere rito do habeas corpus. Precedente.
+LIBERDADE PROVISÓRIA. SITUAÇÃO DE PANDEMIA. COVID-19. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA.
+1. O pedido de liberdade provisória com base no risco de contágio pelo COVID-19, além de não ter sido veiculado no recurso ordinário em habeas corpus, não foi apreciado pelo Tribunal de origem. Assim, inviável o conhecimento da questão por esta Corte Superior, haja vista a vedação à inovação recursal e à supressão de instância. Precedentes.
+2. Agravo regimental desprovido.
+Aduz o embargante a existência de omissão e obscuridade no aresto embargado, seja porque"não debateespecificamente o excesso de prazo no caso em concreto" (fl. 254), seja porque desconsideraas razões da defesa no que diz respeito aos fundamentos da prisão preventiva, em especial orisco de reiteração delitiva.
+Em relação ao excesso de prazo, asseveraque, preso há 4 anos, demonstroucabalmenteque "foram diversos lapsos temporais sem qualquer movimentação, que somente podem ser atribuídos ao Judiciário" (fl. 255), e que não é justificável a demora de 9 meses na remessa dos autos ao Tribunal de Justiça (fl. 256).
+Quanto à prisão preventiva, afirma que,embora tenha sido denunciado nos autos da Ação Penal n.0000962-61.2013.8.17.0990, foi absolvido já em primeiro grau por sentença absolutória prolatada antes da prisão, não possuindo nenhum outro registro em seu desfavor.Ressalta que permaneceu por 6 meses em liberdade após o fato que lhe foi imputado, razão pela qual é inexistente o alegado risco de reiteração delitiva.
+Requer o acolhimento dos embargos comefeitos modificativos, a fim de que o recurso ordinário seja provido e concedida a ordem de habeas corpus.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL DESPROVIDO. OMISSÃO E OBSCURIDADE. NÃO OCORRÊNCIA. INCONFORMISMO DA PARTE EMBARGANTE COM O RESULTADO DO JULGAMENTO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2. O mero inconformismo da parte com o resultado do julgamento não é suficiente para o acolhimento dos embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+Nos termos do art. 619 do Código de Processo Penal, os embargos dedeclaração destinam-se a desfazer ambiguidade, aclarar obscuridade,eliminar contradição ou suprir omissão existentes no julgado.
+No caso em exame, além de claro na apresentação, oacórdãoembargadofoi bastante didático ao abordar os temasqueconstituema essência da presente irresignação, fundamentada, como já relatado, nas alegações de excesso de prazo e de falta de fundamentação da prisão preventiva.
+Confiram-se, a propósito, os seguintes excetos dojulgado,que bem elucidam taisquestões, com destaque para os três fundamentos deduzidos com o propósito de afastar o segundo argumento dos embargos (falta de fundamentação do decreto prisional):
+a) Excesso de prazo da preventiva (fl. 241):
+O agravante considera excessivo o tempo de tramitação do apelo interposto contra a sentença do tribunal do júri que lhe cominou pena de 25 (vinte e cinco) anos e 6 (seis) meses de reclusão, por homicídio qualificado, cabendo o registro de que as razões recursais respectivas serão apresentadas perante o segundo grau de jurisdição, a pedido da defesa.
+Na espécie, o recorrente foi denunciado em 19/6/2016, oportunidade em que teve a prisão preventiva decretada. Em 24/5/2018 foi pronunciado pela prática do crime previsto no art. 121, § 2º, I e IV, do Código Penal, tendo sido condenado pelo tribunal do júri à pena de 25 (vinte e cinco) anos e 6 (seis) meses de reclusão no dia 11/4/2019. A defesa apelou da sentença ainda na sessão plenária, postulando a apresentação das razões respectivas perante o Tribunal de origem, para onde os autos foram remetidos em 18/12/2019, com atribuição de efeito suspensivo ao recurso, tudo a indicar que o conjunto dos atos praticados denotam a regular tramitação do feito.
+Nesse contexto, não se vislumbra manifesto constrangimento ilegal passível de ser sanado por esta Corte Superior, mostrando-se inviável a soltura do agravante por força de excesso de prazo na conclusão da ação penal correlata.
+b)Falta de fundamentação do decreto prisional (fls. 241-244):
+ ..  a prisão preventiva do agravante justifica-se pela necessidade de garantia da ordem pública, haja vista que no decreto prisional respectivo há registro expresso de que contra ele existem "diversos inquéritos policiais pelas mais diversas infrações penais, entre elas roubo e homicídio qualificado" (e-STJ fl. 34) e que a medida constritiva visa evitar que volte a delinquir.
+Inegável, portanto, a idoneidade do motivo determinante para a segregação cautelar do agravante, sobretudo porque "conforme orientação jurisprudencial desta Corte, inquéritos e ações penais em curso constituem elementos capazes de demonstrar o risco concreto de reiteração delituosa, justificando a decretação da prisão preventiva para garantia da ordem pública" (RHC 114.454/AL, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020).
+ ..
+Acrescente-se que a tese trazida pela defesa para a apreciação desta Corte Superior, no sentido de que o agravante teria sido absolvido noutra ação penal instaurada em seu desfavor, desconstituindo, assim, o fundamento da reiteração delitiva, não foi apreciada pelo Tribunal de origem. Essa particularidade, conforme antecipado pela decisão agravada, impede a manifestação do Superior Tribunal de Justiça, sob pena de materializar-se a indevida supressão de instância.
+ ..
+De mais a mais, inevitável observar que a desconstrução do fundamento da prisão preventiva decretada contra o agravante - reiteração delitiva extraída a partir de inquéritos policiais instaurados - dependeria de ampla e profunda cognição fático-probatória, o que não é compatível com o célere rito do habeas corpus.
+A rigor, o que se observa é o intuito do embargantede rediscutir matéria já devidamente abordada e decidida pela Turma julgadora, motivadopelamera insatisfação com o resultado do julgamento, pretensão que, comocediço, não se coadunaanatureza dos embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
