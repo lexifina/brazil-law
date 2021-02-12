@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de MARIALVA CONSTRUTORA LTDA e outra contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça de Minas Gerais, assim ementado:
+"AGRAVO DE INSTRUMENTO - DECISÃO QUE, EM JUÍZO DE RETRATAÇÃO, INDEFERE PEDIDO DE PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL - RECURSO CABÍVEL- FUNDADA DÚVIDA APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL - ARRECADAÇÃO E AVALIAÇÃO DOS BENS PERTENCENTES À MASSA FALIDA - LEILÃO DOS BENS ARRECADADOS - LEGITIMIDADE RECONHECIDA EM JULGAMENTO ANTERIOR - SEGURANÇA JURÍDICA - AUTORIDADE DAS DECISÕES PROFERIDAS PELO TRIBUNAL DE JUSTIÇA - OBSERVÂNCIA - DÍVIDA TRIBUTÁRIA - PAGAMENTO À VISTA - DESCONTO - BENEFÍCIO PARA A MASSA FALIDA - VERIFICAÇÃO - IMISSÃO NA POSSE DOS BENS ARREMATADOS - LEGALIDADE - DESPROVIMENTO.
+- Havendo dúvida objetiva sobre qual recurso cabível e inexistindo erro grosseiro quanto à modalidade eleita pela parte, somado à interposição do agravo no prazo legal, deve ser conhecida a irresignação, arrimado no princípio da fungibilidade recursal.
+- Por resguardar a segurança jurídica e a autoridade das decisões proferidas por esta Casa de Justiça em processos anteriores, deve prevalecer a decisão agravada, que, em juízo de retratação, indeferiu o processamento do pedido de recuperação judicial.
+- A imissão na posse e a expedição de carta de arrematação são consequencia indissociável das arrematações efetivadas no leilão, cuja legitimidade foi reconhecida e afirmada por esta Sa Câmara Cível diversas vezes"
+(e-STJ fl. 1.438)"
+Opostos embargos de declaração pelas agravantes, foram eles rejeitados.
+Nas razões do recurso especial, as agravantes alegam dissídio jurisprudencial e violação dos arts. 535 do CPC/73 e 47 da Lei 11.101/05, sustentando, em síntese, que: (i) o Tribunal não apreciou a incidência do princípio da preservação da empresa, embora instado a a tanto por meio de aclaratórios; e (ii) o indeferimento do requerimento da recuperação judicial não observou o efetivo cumprimento dos requisitos legais, devendo o juiz conceder a recuperação judicial, por não se tratar de favor legal.
+Decisão que inadmitiu o recurso especial às fls. 1.572/1.574.
+Contraminuta às fls. 1.603/1.605.
+Parecer do Ministério Público Federal às fls. 1.638/1.640.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017)
+No que se refere à alegação a alegação de cumprimento dos requisitos legais para concessão de recuperação judicial e de prevalência do princípio da preservação da empresa, é de se ressaltar que, de fato, esses argumentos não foram sequer enfrentados pelo acórdão recorrido, o que atrai a incidência do óbice consubstanciado no enunciado 211/STJ. Contudo, ao contrário de resultar em vício de omissão, a ausência de manifestação se deu em razão de haver outro fundamento, por si só, suficiente para suportar as conclusões do acórdão recorrido.
+Com efeito, o acórdão recorrido foi expresso em afirmar que a inviabilidade do pedido de recuperação decorreu, exclusivamente, da existência de decisões anteriores proferidas no bojo do processo falimentar das ora agravantes, as quais reconheceram que "a solução legal do processo falimentar deveria ser alcançada com alienação dos bens arrecadados, legitimando, via de consequência, o leilão realizado no dia 29 de março de 2012 e determinando a imissão dos arrematantes na posse dos bens" (e-STJ fl. 1.441).
+Essas decisões, ainda que impugnadas por recursos especiais, não perdem sua eficácia diante da inexistência de efeito suspensivo ex lege. Outrossim, importa consignar que os referidos recursos especiais (REsp 1.433.028/MG e REsp 1.517.592/MG) já foram efetivamente julgados por esta Corte Superior, com trânsito em julgado certificado, tendo sido integralmente mantidas as conclusões do Tribunal local.
+Desse modo, as alegações deduzidas no recurso especial são insuficientes para infirmar o fundamento utilizado como razão de decidir, inviabilizando seu conhecimento, nos termos do enunciado 283/STF.
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EMBARGOS DE TERCEIRO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS. FUNDAMENTAÇÃO DEFICIENTE. ÓBICES DAS SÚMULAS 283 E 284 DO STF, RESPECTIVAMENTE.
+1. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+2. Ademais, cumpre esclarecer que não há similitude entre o caso concreto e a questão submetida a julgamento no regime dos recursos repetitivos (Tema 987). Isso porque, nos casos sujeitos à afetação, não há decisão autorizativa de atos constritivos proferida pelo juízo da recuperação judicial. Por tal razão, o não sobrestamento do presente caso não implica afronta aos preceitos de lei federal indicados nas razões de recurso especial.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1889412/GO, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/11/2020, DJe 24/11/2020, g.n.)
+Por fim, no que tange ao dissídio jurisprudencial, não há similitude fática entre os acórdãos recorrido e paradigma, o que inviabiliza o conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional.
+Com esses fundamentos, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
