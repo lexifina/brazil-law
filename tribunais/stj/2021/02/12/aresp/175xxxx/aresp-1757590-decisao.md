@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por EMSA - EMPR ESA SUL AMERICANA DE MONTAGENS S.A. contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DA AUSÊNCIA DA CULPA EXCLUSIVA DA VÍTIMA. DA MANUTENÇÃO DO QUANTUM FIXADO A TITULO DE INDENIZAÇÃO. DO DIREITO AO PENSIONAMENTO. DA RESPONSABILIDADE DA 2ª APELANTE. PAGAMENTO DA PENSÃO VITALÍCIA EM PARCELA ÚNICA. IMPOSSIBILIDADE. CAUÇÃO. HONORÁRIOS SUCUMBENCIAIS. HONORÁRIOS RECURSAIS.
+1. Não há falar em culpa exclusiva da vítima, uma vez que esta ocorre quando somente a vítima do acidente de trânsito contribui com o fato e, no caso em apreço, restou configurada a culpa exclusiva do motorista do ônibus, porquanto o desrespeito à sinalização de "PARE" integra a mais basilar regra de cuidado e prevenção de acidentes que se possa exigir.
+2. A indenização por dano material emergente, que representa a diminuição imediata do patrimônio da vítima, deve-se limitar às despesas efetivamente comprovadas pelo demandante em razão do ilícito sofrido.
+3. Consideradas as circunstâncias e as particularidades do caso concreto, por exemplo, o caráter compensatório, compatível com as lesões experimentadas pela ofendida; a observância do critério de razoabilidade, de forma a não causar enriquecimento ilícito; o caráter sancionatório, de molde a permitir que a condenação sirva de estímulo ao causador do ilícito a não reiterar a prática lesiva; a conduta das partes; o grau de prejuízo sofrido; as condições econômicas e financeiras, tanto do agressor quanto da agredida; e por fim, a jurisprudência deste Tribunal, a indenização por danos morais e estéticos arbitrados pelo juiz singular está dentro dos critérios da proporcionalidade e da razoabilidade.
+4. Devido é no caso o deferimento do direito ao pensionamento, porquanto, comprovada a redução da capacidade laborai da requerente, possível e necessária se mostra a fixação de reparação, na forma de pensão mensal, conforme prevê o art. 950 do CC
+5. Não assiste à 2ª a pelante ao sustentar a não comprovação do nexo de causalidade que lhe ligaria ao acidente ocorrido, haja vista que a empresa contratante do serviço de transporte responde solidariamente pelos danos causados a terceiros no caso em que o veículo causador do dano estava a seu serviço e tinha interesse econômico na realização da atividade.
+6. O pagamento da pensão vitalícia em parcela única, implica, em tese, a desnaturação do próprio instituto da vitaliciedade, pois a vítima do acidente pode ficar desamparada em determinado momento de sua vida ou provocar o enriquecimento sem causa do credor, caso este faleça de forma prematura.
+7. Deixo de analisar o pedido de constituição de caução pois tal pleito não foi requerido no curso da ação, revelando-se inovação recursal.
+8. Não merece prosperar a tese de necessidade de reforma da sentença quanto à fixação dos honorários advocatícios sucumbenciais, uma vez que restou consignado pelo juiz singular que a requerente é beneficiária da gratuidade da justiça
+9. Majoro os honorários advocatícios, neste grau recursal, nos moldes do art. 85, §11, do CPC.
+1ª APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+2ª APELAÇÃO CÍVEL CONHECIDA, EM PARTE, E DESPROVIDA.
+RECURSO ADESIVO CONHECIDO E DESPROVIDO.
+SENTENÇA MANTIDA " (fls. 640/657 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 640/657 e-STJ).
+No recurso especial, foi alegada, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) artigo 1.022 do Código de Processo Civil de 2015 - ao argumento de que, nos aclaratórios opostos a o acórdão recorrido, foi apontada omissão no tocante à validade e eficácia da defesa da sua ilegitimidade passiva nas razões do recurso de apelação, conforme preceitua o artigo 1.009 do Código de Processo Civil de 2015, e
+(ii) artigo 1.099 do Código de Processo Civil de 2015, pois, considerando que a questão da ilegitimidade, já decidida anteriormente, não poderia ser discutida na via do agravo de instrumento, restou-lhe tão somente a apelação como via recursal.
+Após a juntada das contrarrazões (fls. 721/731 e-STJ), o recurso especial foi inadmitido , dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar.
+A ora recorrente, em seu recurso de apelação, defendeu, em síntese, que não poderia ser responsabilizada solidariamente, pois o veículo causador do acidente, no momento da sua ocorrência, não estaria a seu serviço ou cumprindo atividade de seu interesse econômico.
+Sustentou que a mera existência de contrato de prestação de serviços de transportes entre a recorrente e a empresa proprietária do veículo não pode levar à conclusão de que tal veículo esteja a todo e qualquer momento prestando serviço à contratante.
+A respeito de tais alegações, o Tribunal de origem assim se manifestou:
+"4. Da 2ª Apelação Cível - Da responsabilidade da 2ª Apelante
+4.1 Adianto que razão não assiste à 2ª apelante ao sustentar a não comprovação do nexo de causalidade que lhe ligaria ao acidente ocorrido, haja vista que a empresa contratante do serviço de transporte responde solidariamente pelos danos causados a terceiros no caso em que o veículo causador do dano estava a seu serviço e tinha interesse econômico na realização da atividade.
+4.1.1 Neste sentido, é a jurisprudência do STJ:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS. ACIDENTE DE TRÂNSITO. CONTRATAÇÃO DE SERVIÇOS DE TRANSPORTE. DANOS CAUSADOS PELA EMPRESA TERCEIRIZADA. RESPONSABILIDADE SOLIDÁRIA DA CONTRATANTE. LEGITIMIDADE PASSIVA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ AGRAVO NÃO PROVIDO. 1. O col. Tribunal de origem, com fundamento na existência de relação contratual de prestação de serviços de transporte de madeira de eucalipto, reconheceu a responsabilidade solidária da agravante pelos danos causados a terceiros pelo motorista da empresa terceirizada" (AgInt no AREsp 284.310/ES, Rei. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/09/2016, DJe 19/10/2016).
+4.1.2 Ademais, percebe-se que a 2ª apelante já apresentou, em sede de contestação, a preliminar de ilegitimidade passiva, a qual foi rechaçada pela dirigente processual (mov. 03, doc. 22). Contudo, a ora recorrente não se valeu de recurso apropriado, restando tal matéria alcançada pela preclusão, de acordo com os preceitos do art. 507 do CPC" (fls. 611/612 e-STJ).
+Observa-se que o acórdão recorrido não analisou objetivamente as razões recursais, tendo apenas consignado genericamente que se trataria de hipótese de responsabilidade solidária e que, ademais, a questão teria sido alcançada pela preclusão de que trata o artigo 507 do Código de Processo Civil de 2015.
+A ora recorrente opôs embargos de declaração argumentando que, no caso, a discussão acerca de sua ilegitimidade não teria cabimento no agravo de instrumento, haja vista que não se enquadra no rol taxativo do artigo 1.015 do Código de Processo Civil de 2015, e que a via própria de discussão seria mesmo o recurso de apelação, a teor do que dispõe o artigo 1.009 do Código de Processo Civil de 2015.
+A Corte de origem, no julgamento dos aclaratórios, não esclareceu a questão, estando, portanto, caracterizada a omissão, que, se não dirimida, impede a discussão na via do especial por absoluta falta de prequestionamento.
+Esclareça-se que nem sequer haveria como considerá-la prequestionada, implícita ou fictamente, para que se pudesse julgar desde já a controvérsia, pois não se teria propriamente um pronunciamento divergente que mereceria a uniformização de entendimento, razão primordial de existência do recurso especial.
+Assim, impõe-se o retorno dos autos à origem para que seja analisada a questão processual sob o enfoque dos artigos 1.009 e 1.015 do Código de Processo Civil de 2015 e, se for o caso, sejam apreciadas as alegações acerca do momento do acidente, em que o veículo supostamente não estaria a serviço da recorrente.
+A propósito:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. AÇÃO DE RESOLUÇÃO DE COMPROMISSO DE COMPRA E VENDA. AÇÃO FUNDADA EM DIREITO PESSOAL. COMPETÊNCIA NÃO ANALISADA CORRETAMENTE. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022, II, DO CPC/15. OMISSÃO VERIFICADA.
+(..)
+2. Se a Corte de origem deixou de examinar alegação do agravado que pode alterar substancialmente o resultado do julgamento, evidencia-se a violação ao art. 1.022 do Código de Processo Civil, sendo necessário o retorno do autos para que o Tribunal estadual supra a omissão.
+3. Agravo interno a que se nega provimento" (AgInt no AgInt nos EDcl no AREsp 1.512.050/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. EQUÍVOCO. DÍVIDA INEXIGÍVEL. ACORDO FORMULADO. APLICAÇÃO DO ART. 940 DO CC. MÁ-FÉ NÃO COMPROVADA. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. SÚMULA Nº 7 DO STJ. VIOLAÇÃO DO ART. 1.022, II, DO NCPC. OMISSÃO. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. OCORRÊNCIA. NULIDADE DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO. DEVOLUÇÃO DOS AUTOS PARA AS INSTÂNCIAS ORDINÁRIAS. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Verificando-se que o Tribunal de Justiça não analisou devidamente todas as questões relevantes para a solução da lide, é de rigor o reconhecimento da negativa de prestação jurisdicional, a demandar o retorno dos autos à origem para que a Corte estadual pronuncie-se sobre as matérias tidas por omissas.
+(..)
+5. Agravo interno não provido" (AgInt no AREsp 1.561.258/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, determinando o retorno dos autos à origem para novo julgamento dos declaratórios. Fica prejudicado, pois, o julgamento do restante do recurso.
+Publique-se.
+Intimem-se.
