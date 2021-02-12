@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, não conhecer dos embargos de declaração, nos termos do voto do Sr. Ministro Relator
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FALTA DE INDICAÇÃO DOS VÍCIOS DO ART. 1.022 DO NCPC. AUSÊNCIA DE REQUISITO FORMAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não podem ser conhecidos os embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a quaisquer dos vícios enumerados no art. 1.022 do NCPC, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal.
+3. Embargos de declaração não conhecidos.
+RELATÓRIO
+RODRIGO DA SILVA SOARES (RODRIGO) ajuizou ação rescisória contra CITIGROUP GLOBAL MARKETS BRASIL, CORRETORA DE CAMBIO, TITULOS E VALORES MOBILIARIOS S.A. (na qualidade de incorporadora e sucessora de INTRA S/A CORRETORA DE CÂMBIO E VALORES) (CITIGROUP e outros) com o objetivo de desconstituir a sentença proferida pela 16ª Vara Cível da Capital, que julgou procedente a ação monitória proposta por Intra Corretora de Câmbio e Valores (sucedida pela empresa ré), reconhecendo a constituição de título executivo judicial e condenando Rodrigo a pagar o valor do débito lá noticiado, além de custas, despesas processuais e honorários advocatícios, fixados em 10% do valor da condenação.
+O Tribunal de Justiça do Estado de São Paulo julgou improcedente a ação rescisória.
+Contra o acórdão foi interposto recurso especial, não admitido na origem, ensejando a interposição de agravo em recurso especial ao qual foi negado provimento em decisão monocrática da Ministra MARIA ISABEL GALLOTTI, em virtude do óbice da Súmula nº 7 do STJ.
+Interposto agravo interno, a Quarta Turma lhe negou provimento, em decisão assim ementada:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DO CDC. AUSÊNCIA DE HIPOSSUFICIÊNCIA. VALIDADE DA CLÁUSULA DE ELEIÇÃO DE FORO. REEXAME DE PROVAS. SÚMULA N. 7/STJ. NULIDADE SUSCITADA APENAS EM SEDE DE EXECUÇÃO. ESTRATÉGIA PROCESSUAL QUE ATENTA CONTRA PRINCÍPIOS BASILARES DO PROCESSO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. A jurisprudência do STJ, atenta à efetividade e à razoabilidade, tem repudiado o uso do processo como instrumento difusor de estratégias, vedando, assim, a utilização da chamada "nulidade de algibeira ou de bolso"." (EDcl no REsp 1424304/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/8/2014, DJe 26/8/2014)
+3. Agravo interno a que se nega provimento.
+Seguiu-se a oposição de embargos de declaração que foram rejeitados.
+Nesta oportunidade, RODRIGO opôs os presentes embargos de divergência, sustentando dissenso jurisprudencial deste acórdão com os proferidos pela Quarta Turma nos seguintes julgados: AgRg no AREsp 391.555/MS, Rel. Ministro MARCO BUZZI, DJe 20/4/2015; AgRg no AREsp 687.562/DF, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 1/06/2015; e AgRg no REsp 1110944/RS, Rel. Ministro RAUL ARAÚJO, DJe 22/04/2016; e AgRg no AREsp 561.093/MG, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 19/02/2015; com os seguintes julgados da Terceira Turma: AgRg no AREsp 575.676/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 05/06/2015; e AgRg no AREsp 676.025/RJ, Rel. Ministro MOURA RIBEIRO, DJe 18/05/2015; e com o proferido pela Segunda Seção no AgInt nos EDcl no CC 132.505/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe 28/11/2016.
+Alegou divergência entre o julgado ora embargado e os trazidos como paradigmas sob o fundamento de que a jurisprudência atual do STJ considera que em se tratando de relação consumerista, a competência territorial do domicílio do consumidor é absoluta.
+Os embargos de divergência foram rejeitados liminarmente em decisão monocrática da minha lavra, assim ementada:
+PROCESSO CIVIL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO PARADIGMA DO MESMO ÓRGÃO JULGADOR. INVIABILIDADE. SÚMULA 353 DO STF. MÉRITO DO RECURSO ESPECIAL NÃO ANALISADO. DESCABIMENTO DA DIVERGÊNCIA. SÚMULAS 315 E 316 DO STJ. EMBARGOS REJEITADOS LIMINARMENTE. (e-STJ, fl. 1.082)
+Ainda inconformado, RODRIGO interpôs o presente agravo interno sustentando que (1) apesar de indicados paradigmas da mesma Turma também foram colacionados paradigmas da Terceira Turma, o que afasta o óbice do não conhecimento dos embargos de divergência; e (2) o acórdão embargado, embora tenha aplicado o enunciado da Súmula nº 7 do STJ, adentrou no mérito da questão (e-STJ, fls. 1.090/1.100).
+A impugnação foi apresentada (e-STJ, fls. 1.103/1.123).
+O agravo interno não foi provido pela Segunda Seção do STJ, em acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULA Nº 7 DO STJ. ACÓRDÃO PARADIGMA. JUÍZO DE MÉRITO. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. REGRA TÉCNICA. EMBARGOS DE DIVERGÊNCIA UTILIZADOS COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão.
+3. Embora o art. 1.043, III, do NCPC, estabeleça o cabimento de embargos de divergência, sendo os acórdãos confrontados um de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia.
+4. No caso em exame, o acórdão embargado não adentrou no mérito da questão, em virtude do óbice da Súmula nº 7 do STJ, enquanto o acórdão paradigma admitiu o recurso e enfrentou o mérito, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados.
+5. Nos embargos de divergência os acórdãos cotejados devem exibir idêntico grau de cognição. Doutrina.
+6. Agravo interno não provido.
+Nesta oportunidade foram opostos os presentes embargos de declaração sustentando que (1) a questão de mérito foi enfrentada pelo STJ; (2) a aplicação da Súmula nº 7 do STJ decorreu de um erro de premissa, pois em razão da relação consumerista não se discute a hipossuficiência do recorrente; e (3) o cotejo analítico demonstrou idêntico grau de cognição entre os acórdãos confrontados (e-STJ, fls. 1.141/1.144).
+A impugnação foi apresentada às e-STJ, fls. 1.147/1.150.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. FALTA DE INDICAÇÃO DOS VÍCIOS DO ART. 1.022 DO NCPC. AUSÊNCIA DE REQUISITO FORMAL. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não podem ser conhecidos os embargos de declaração que se limitaram a externar irresignação com o que foi decidido, sem fazer referência a quaisquer dos vícios enumerados no art. 1.022 do NCPC, descumprindo os requisitos previstos no art. 1.023 do mesmo diploma legal.
+3. Embargos de declaração não conhecidos.
+VOTO
+Os embargos de declaração não se revelam cognoscíveis.
+O acórdão da Segunda Seção negou provimento ao agravo interno sob o fundamento de que os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão.
+Nas razões dos aclaratórios, o embargante se limitou a reiterar os mesmos argumentos já apresentados no agravo em recurso especial e reiterados nos subsequentes recursos, sem apontar nenhum vício processual previsto no art. 1.022 do CPC/2015 quanto ao acórdão embargado, atendo-se a protestar pela reforma da decisão.
+Ao que se pode constatar na hipótese examinada, o embargante pretende a resolução da alegada divergência sobre a aplicação do CDC ao caso e ainvalidade da cláusula de eleição de foro sem fazer nenhuma referência a quaisquer dos vícios ensejadores dos embargos de declaração, em completa desobediência ao disposto no art. 1.022 do NCPC, a justificar o não conhecimento dos presentes embargos de declaração.
+Os embargos de declaração são recurso de contornos rígidos e sua utilização deve se ater apenas ao conteúdo do julgado embargado. Não podem ser usados para discutirmatéria objeto de análise em julgamento anterior.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE INDICAÇÃO, NAS RAZÕES DO RECURSO, DE QUALQUER UM DOS VÍCIOS DO ART. 535 DO CPC. NÃO PREENCHIMENTO DOS REQUISITOS DE ADMISSIBILIDADE. EMBARGOS NÃO CONHECIDOS.
+1. A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 535 do CPC, caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo o teor da Súmula 284/STF.
+2. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp 181.826/MG, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 1/10/2015, DJe 21/10/2015)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AMBIENTAL. MULTA AMBIENTAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - Trata-se de ação que objetiva declaração de inexigibilidade de multa aplicada em decorrência de infração ambiental. Na sentença, julgou-se improcedente o pedido. No Tribunal de Justiça do Estado de São Paulo, a sentença foi mantida.
+II - A jurisprudência do Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+III - Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp 1.381.110/SP, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, j. 5/09/2019, DJe 16/9/2019)
+RECURSO FUNDADO NO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. FALTA DE INDICAÇÃO DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. IRREGULARIDADE FORMAL. RAZÕES DISSOCIADAS. SÚMULA 284/STF. NÃO CONHECIMENTO.
+1. De acordo com a norma prevista no art. 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das referidas deficiências.
+2. Todavia, no caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao que preceituado no art. 1.022 do CPC, o que acarreta o não-conhecimento do recurso.
+3. As razões dos embargos de declaração mostram-se dissociadas dos fundamentos adotados no acórdão embargado que, em verdade, ancorou-se na incidência da Súmula 115/STJ. Deficiência de fundamentação recursal que atrai a incidência, por analogia, da Súmula 284/STF.
+4. Embargos de declaração não conhecidos.
+(EDcl no AgRg no AREsp 788.886/RS, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, j. 2/6/2016, DJe 8/6/2016)
+Em suma, o recurso não apontou nenhum vício do art. 1.022 do NCPC quanto aos fundamentos da decisão embargada, o que inviabiliza o seu conhecimento diante da ausência de requisito formal.
+Nessas condições, NÃO CONHEÇO dos embargos de declaração.
+É o voto.
