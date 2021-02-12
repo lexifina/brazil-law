@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por ROGER SILVEIRA DA SILVA,contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"HABEAS CORPUS. CRIMES CONTRA OPATRIMÔNIO. ROUBOS TRIPLAMENTEMAJORADOS E ASSOCIAÇÃO CRIMINOSA.
+Há prova da materialidade e suficientes indíciosde autoria, sendo o paciente, em tese, oresponsável por escolher as vítimas e os locaisonde a associação criminosa praticaria oscrimes.
+Trata-se de delitos, em tese, praticadosmediante grave ameaça, concurso de agentes erestrição à liberdade das vítimas. O feito estácom a instrução processual se desenvolvendoregularmente.
+Presentes os requisitos do art. 312 do CPP, asegregação vai mantida.
+ORDEM DENEGADA." (e-STJ, fl. 312).
+Colhe-se dos autos que o recorrente teve a prisãopreventiva decretada pela suposta prática dos delitos tipificados nos arts. 157, § 2º, II e V, e § 2º-A, I, e 288 do Código Penal.
+Neste recurso, sustenta que:a)"o julgadorlimitou-se tão somente a fundamentar em elementos vagos e imprecisos que nãocumprem a função de motivar o decreto cautelar, mas apenas para um eventualimpulsionamento da ação penal" (e-STJ, fl. 328);b) possui condições pessoais favoráveis, tais como primariedade, residência fixa e trabalho lícito.
+Pleiteia a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso dos autos, a custódia cautelar do recorrente foi decretada pelos seguintes fundamentos:
+"Trata-se, em tese, de crimes extremamente graves - roubos,praticados em concurso de pessoas e grave ameaça com o uso de armas de fogo.
+Segundo consta, o representado Roger foi o responsávelintelectual pelos roubos, realizando o levantamento do local dos fatos e das vítimas,já que é filho de uma funcionária da vítima, bem como teria alugado um quarto emuma pousada para os demais autores da ação criminosa, onde apreendido seucartão de crédito, uma carteira subtraída de uma das vítimas e um tênis usado naprática delituosa (item 15 da representação).
+Cabe acrescentar que os assaltos à mão armada, praticados emconcurso de agentes, causam intenso temor e intranqüilidade no meio social. Este tipo de conduta exige uma atuação mais efetiva do Poder Judiciário, no sentido dereprimir a atividade criminosa, em razão da periculosidade dos agentes, reveladapeio modus operandi arrojado, audacioso e violento.
+ ..
+Por fim, as circunstâncias dos fatos revelam periculosidade dorepresentado, demonstrando a necessidade da prisão para garantia da ordempública, tornando inviável a substituição por outra medida cautelar.
+3. Diante deste contexto, decreto a prisão preventiva deROGER SILVEIRA DA SILVA, nos termos dos arts. 311 e 312 do CPP." (e-STJ, fl. 219-220)
+Como se vê, a custódia cautelar está suficientemente fundamentada na necessidade de garantia da ordem pública, diante da gravidade concreta da conduta delituosa, pois o crime de roubo teria sido praticado mediante emprego de arma de fogo e em concurso de agentes, sendo que, segundo consta do decreto cautelar, o recorrente seria o autor intelectual do delito, "realizando o levantamento do local dos fatos e das vítimas, já que é filho de uma funcionária da vítima, bem como teria alugado um quarto em uma pousada para os demais autores da ação criminosa, onde apreendido seu cartão de crédito, uma carteira subtraída de uma das vítimas e um tênis usado na prática delituosa".
+O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão domodus operandicom que o crime fora praticado, como ocorreu no presente caso.
+Sobre o tema, os seguintes precedentes:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO (CONCURSO DE AGENTES, EMPREGO DE ARMA E RESTRIÇÃO DA LIBERDADE DAS VÍTIMAS) E CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. MODUS OPERANDI. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECURSO DESPROVIDO.
+1. Para a decretação da prisão preventiva é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, mesmo que a decisão esteja pautada em lastro probatório, que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+2. Caso em que a segregação cautelar foi mantida pelo Tribunal impetrado em razão da periculosidade do recorrente, evidenciada pelo modus operandi do crime, pois o roubo que teria sido praticado por quatro agentes, um deles menor de idade, com emprego de armas de fogo para ameaçar as vítimas que foram trancadas em um quarto.
+Prisão preventiva mantida, nos termos do art. 312 do Código de Processo Penal, para a garantia da ordem pública. Precedentes.
+3. Recurso ordinário em habeas corpus a que nega provimento."
+(RHC 93.174/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/04/2018, DJe 18/04/2018).
+"HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA, PELO CONCURSO DE AGENTES E PELA RESTRIÇÃO DE LIBERDADE DAS VÍTIMAS. ART.312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO SUFICIENTE. HABEAS CORPUS DENEGADO.
+1. Para ser compatível com oEstado Democrático de Direito -o qual se ocupa de proteger tanto aliberdadequanto asegurança e a paz públicas - e com a presunção de não culpabilidade, é necessário quea decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório.Apar disso,a decisão judicial deve ser suficientemente motivada, mediante análise daconcretanecessidade da cautela, nos termos dos artigos 282, incisos I e II c/c 312 do CPP.
+2. Estão presentes os vetores contidos no art. 312 do Código de Processo Penal, necessários à decretação da custódia cautelar, em especial a garantia da ordem pública, evidenciada pela gravidade concreta e pelo modus operandi da conduta delitiva, porquanto se trata de roubo a residência, cometido mediante emprego de arma de fogo, restrição de liberdade das vítimas e violência física.
+3. Habeas corpus denegado."
+(HC 453.576/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/08/2018, DJe 04/09/2018)
+Pelos mesmos motivos acima delineados, entendo que, no caso, é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Saliente-se, ainda, que o fato de o recorrente possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 81.823/PE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 352.480/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 01/06/2017, DJe 07/06/2017; RHC 83.352/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/05/2017, DJe 30/05/2017.
+Ante o exposto,nego provimentoao recurso.
+Publique-se. Intimem-se.
