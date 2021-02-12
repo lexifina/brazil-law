@@ -1,0 +1,29 @@
+DECISÃO
+Da leitura da minuta de agravo de instrumento, extrai-se que, nos autos da ação civil pública proposta pelo Ministério Público Federal e a Sociedade Rural Brasileira contra a União, Banco do Brasil e Banco Central do Brasil,LIBORIO DIETERICH (LIBORIO), objetivando a restituição da diferença de correção monetária aplicada nos contratos de financiamento rural firmados junto ao Banco do Brasil, no período anterior a março de 1990 e entre março e abril do mesmo ano, promoveu execução provisória de sentença contra BANCO DO BRASIL S.A. (BANCO) requerendo a penhora de quantia de R$ 504.624,40 (quinhentos e quatro mil, seiscentos e vinte e quatro reais e quarenta centavos) (e-STJ, fls. 4/12).
+Da decisão que determinou a intimação do exequente para comprovar, dentre outras, a quitação do financiamento rural, a fim de dar prosseguimento à restituição pretendida, LIBORIO interpôs agravo de instrumento ao qual o TRF4 deu provimento, nos termos da ementa a seguir transcrita:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA PROFERIDA EM AÇÃO CIVIL PÚBLICA. CÉDULAS RURAIS PIGNORATÍCIAS. DEVOLUÇÃO DE VALORES COBRADOS A MAIOR. INCIDÊNCIA DO CDC. INVERSÃO DO ÔNUS DA PROVA.
+- De acordo com o inciso VIII do art. 6º do CDC, está entre os direitos do consumidor a facilitação da defesa de seus direitos, inclusive com ainversão do ônus da prova, a seu favor, no processo civil, quando, a critério do juiz, for verossímil a alegação ou quando for ele hipossuficiente, segundo as regras ordinárias de experiências.
+- A inversão do ônus probatório, para o efeito de determinar que a instituição financeira apresente comprovantes de pagamento, requer a indicação de elementos mínimos sobre a relação havida entre o titular da crédito e o banco réu, sendo portanto indispensável que a parte não só alegue, mas demonstre a existência da cédula, sob pena de revelar-se carecedora de ação.
+- Hipótese em que a parte autora desincumbiu-se da comprovação mínima do fato constitutivo do seu direito (e-STJ, fl. 238).
+Os embargos de declaração opostos pelo BANCO, suscitando omissão acerca da questão da necessidade de prova da liquidação dos títulos de crédito pelos embargados, foram parcialmente providos, exclusivamente para fim de prequestionamento (e-STJ, fls. 257/263).
+Irresignado, o BANCOinterpôs recurso especial com fundamento no art. 105, III, a e c, da CF, alegando violação dos arts. 319, IV, 320, 373, I, 1.022 e 1.025 do CPC/15; e 6º, VII, do CDC. Sustentou 1) omissão do julgado e a necessidade de retorno dos autos ao Tribunal de origem para que lá sejam analisadas as teses levantadas nos embargos de declaração; 2) que é dever de LIBORIO comprovar o pagamento das parcelas do contrato de financiamento rural, para que possa ser restituído de supostas diferenças do saldo devedor ou prova da liquidação das operações supostamente atingidas pelo Plano Collor I; 3) que não se aplica, ao caso, a legislação consumerista, assim como a inversão do ônus da prova, tendo em vista que o Código de Defesa do Consumidor entrou em vigência quase um ano após o fato que ensejou o ajuizamento da presente demanda; e, 4) dissenso jurisprudencial, no tocante à necessidade de enfrentamento de todas as questões trazidas pelas partes. (e-STJ, fls. 269/278).
+As contrarrazões ao recurso especial foram apresentadas (e-STJ, fls. 310/317).
+O apelo nobre não foi admitido (e-STJ, fls. 320/321), tendo seguimento por força de agravo provido (e-STJ, fls. 392/394).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+1) Da negativa de prestação jurisdicional
+O TRF4, ao analisar os embargos de declaração, incorreu em omissão consubstanciada na alegação denecessidade de prova de liquidação dos títulos de crédito objeto da lidepara fins de se fazer jus a eventual diferença relativa a condenação constante na Ação Civil Pública aqual a presente demanda se encontra vinculada.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se o TRF4a se manifestar sobre a questão federal terminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicadaa análise das demais violações apontadas.
+Ante o exposto, DOU PROVIMENTO recurso especial, determinando o retorno dos autos ao TRF4para que analise a questão trazida nos embargos de declaração, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO CIVIL PÚBLICA.CÉDULAS DE CRÉDITO RURAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. OMISSÃO. RECURSO ESPECIAL PROVIDO.
