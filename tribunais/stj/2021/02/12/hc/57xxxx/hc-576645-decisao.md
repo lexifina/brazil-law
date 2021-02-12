@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de JAIRO ANTONIO GALM contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido no HC n.5006031-10.2020.8.24.0000.
+Consta dos autos que o Paciente foi preso em flagrante, em 17/03/2020, pela suposta prática do delito de furto qualificado tentado, previsto no art. 155, § 1.º, c.c. o art. 14, inciso II, ambos do Código Penal, porque "às 3h da madrugada, a vítima ouviu um barulho em sua residência. Ao sair para verificar, encontrou o conduzido, que almejava furtar uma bicicleta que estava no terreno. A vítima deteve o flagrado. Após, a guarnição chegou e realizou a prisão em flagrante." (fl. 72). O Magistrado processante converteu a prisão em flagrante em preventiva (fls. 71-73).
+Inconformada, a Defesa impetrou habeas corpus perante o Tribunal de origem, o qual conheceu apenas parcialmente do mandamus, e, nessa extensão, denegou a ordem nos termos do acórdão de fls. 151-157.
+Neste writ, alega a Impetrante, em suma, falta de fundamentação concreta e idônea do decreto de prisão preventiva e ausência dos requisitos autorizadores da segregação cautelar previstos no art. 312 do Código de Processo Penal, notadamente por se tratar de delito cometido sem violência ou grave ameaça.
+Afirma que a reincidência, por si só, não justifica a prisão cautelar, haja vista se tratar apenas de uma condenação definitiva e que a nova redação do art. 313, inciso II, do CPP estabelece explicitamente que a reincidência poderá servir de pressuposto à prisão cautelar apenas se preenchidos os requisitos do art. 312 do referido Codex.
+Alega a desproporcionalidade da prisão, ante a ausência de homogeneidade entre a eventual condenação e o encarceramento preventivo, acentuando que se trata de Réu portador de esquizofrenia.
+Afirma que é preciso dar prioridade às medidas cautelares diversas da prisão e apresenta a tese subsidiária de que o Paciente deve ser colocado em liberdade em razão da pandemia do novo coronavírus, sendo possível a análise de tal tese até mesmo de ofício, independente de manifestação das instâncias anteriores. Sustenta que a liberdade é a prioridade da Recomendação n.62 do CNJ e do posicionamento do STF na ADPF 347, que trata do estado inconstitucional das coisas no que se refere ao sistema carcerário brasileiro.
+Requer, em liminar e no mérito, a revogação da custódia cautelar do Paciente, com a expedição do competente alvará de soltura, ou, subsidiariamente, a imposição de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido às fls. 168-173.
+As informações foram prestadas às fls. 179-202, 206-211e 223-225.
+O Ministério Público Federal, em seu parecer de fls. 213-216, opina pelo não cabimento do habeas corpus.
+É o relatório. Decido.
+Conforme informações prestadas pelo Juízo processante às fls. 223-225, o Tribunal de Justiça "por unanimidade, na data de 13.08.2020, concedeu a ordem no Habeas Corpus n. 5022331- 47.2020.8.24.0000/SC para "substituir a prisão preventiva do réu pelas medidas cautelares que o juízo monocrático entender pertinentes para o caso concreto, determinando a expedição de alvará de soltura em favor de Jairo Antonio Galm, se por outro motivo não estiver legalmente preso"."
+Assim, em 20/08/2020, o referido Juízo, dando cumprimento à ordem concedida, fixou as medidas cautelares em substituição à prisão preventiva, com expedição de alvará de soltura.
+Ante o exposto, tendo em vista a revogação da prisão preventiva do Paciente, observo a perda do objeto do presente mandamus, em que a Defesa se insurgia contra os fundamentos da prisão cautelar,que não mais subsiste.
+Ante o exposto, JULGO PREJUDICADA a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. FURTO QUALIFICADO TENTADO. INSURGÊNCIA QUANTO AOS FUNDAMENTOS DA PRISÃO PREVENTIVA. PRISÃO PREVENTIVA SUPERVENIENTEMENTE REVOGADA PELO TRIBUNAL DE ORIGEM, COM DETERMINAÇÃO DE FIXAÇÃO DE MEDIDAS CAUTELARES ALTERNATIVAS PELO JUIZ DE PRIMEIRO GRAU. ORDEM DE HABEAS CORPUS PREJUDICADA.
