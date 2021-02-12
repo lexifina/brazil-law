@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por JOSE AFONSO DE REZENDE NETTOe OUTROS. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"APELAÇÕES CÍVEIS. AÇÃO DE CANCELAMENTO DE PROTESTO C/CINDENIZAÇÃO POR DANOS MORAIS. PROTESTO INDEVIDO. APELO(1). RECURSO INTERPOSTO POR CURADOR ESPECIAL. PREPARORECURSAL. DESNECESSIDADE. CUSTAS QUE DEVERÃO SERSUPORTADAS AO FINAL PELO SUCUMBENTE. CITAÇÃO REALIZADAPOR EDITAL. ESGOTAMENTO DAS DILIGÊNCIAS DE LOCALIZAÇÃODOS REQUERIDOS. VERIFICADA. NULIDADE. NÃO EVIDENCIADA.INTERRUPÇÃO DA PRESCRIÇÃO. OPERADA. APELO (2).ILEGITIMIDADE PASSIVA. DUPLICATAS. ENDOSSO TRANSLATIVO.LEGITIMIDADE DO BANCO. CONSTATADA. QUANTUMINDENIZATÓRIO FIXADO EM VALOR RAZOÁVEL E ADEQUADO. HONORÁRIOSREDUÇÃO. INCABÍVEL. SENTENÇA MANTIDA.FIXADOS AO CURADOR ESPECIAL, EM RAZÃO DO PÚBLICOMUNUSEXERCIDO. RECURSOS NÃO PROVIDOS" (fl. 947 e-STJ).
+Nas razões do especial, os agravantes alegam, além de divergência jurisprudencial, violação dos arts. 231, I, 232, I e II, e 247 do CPC/1973. Sustentam, em síntese, que deve ser declarada a nulidade da citação por edital e o reconhecimento da impossibilidade de convalidação do ato.
+Sem as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+De início, verifica-se que o acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Na hipótese dos autos, o Tribunal de origem consignou:
+"No caso, discutisse a validade da citação por edital. Sabe-se que essa modalidade é um meio excepcional de convocar o requerido/executado para integrar a relação jurídica processual, devendo ser realizada somente após o esgotamento das tentativas de localização do demandado.
+Conforme já exposto, foi determinada a realização de diversas diligências para localização dos requeridos. No mais, as cartas de citação foram encaminhadas para todos os endereços apontados nas pesquisas. Ainda, consta nos avisos de recebimento os motivos do insucesso das citações, quais sejam, "mudou-se" e "desconhecido" (movs. 1.37, 1.49, 1.63, 173.1, 174.1,175.1, 248.1, 249.1, 250.1, 251.1, 252.1, 253.1, 254.1, 255.1, 256.1, 257.1 e 258.1).
+Dessa maneira, estando os requeridos em lugar incerto e não sabido e esgotadas as tentativas de localização, a citação por edital deve ser considerada válida. Ademais, ressalto que não houve prejuízo à parte, pois foi nomeado curador especial (mov. 1.74), que apresentou contestação (mov. 1.77), razão pela qual entendo que a defesa dos demandados foi devidamente garantida (mov. 1.77).
+No mais, é sabido que um dos efeitos da citação válida é a interrupção da prescrição, é o que prevê o art. 219 do CC, "a citação válida torna prevento o juízo, induz litispendência e faz litigiosa a coisa; e, ainda quando ordenada por juiz incompetente, constitui em mora o devedor e interrompe a prescrição". Assim, sendo considerada válida a citação por edital, é certo que o prazo prescricional foi interrompido, não havendo que se falar em prescrição da pretensão do autor. Portanto, não acolho a pretensão recursal no ponto" (fl. 950 e-STJ).
+Nesse contexto, reverter a conclusão do tribunal local para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado daSúmulanº7/STJ.
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao art. 85, § 11, do Código de Processo Civil de 2015, deixo de majorar os honorários advocatícios, haja vista que, na origem, já foram estipulados no patamar máximo (20% sobre valor atualizado da causa).
+Publique-se.
+Intimem-se,
