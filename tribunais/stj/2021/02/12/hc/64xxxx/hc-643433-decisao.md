@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de TALITA IZABELA SANTIAGO GARCIA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0000255-59.2018.8.26.0605.
+Consta dos autos que a Paciente foi condenadaàs penas de 2 (dois) anos, 3 (três) meses e 6 (seis) dias de reclusão, em regime aberto, e 226 (duzentos e vinte e seis) dias-multa, substituída a pena privativa de liberdade por duas sanções restritivas de direitos, como incursa no art. 33, § 4.º, c.c. o art. 40, inciso III, da Lei n. 11.343/2006.
+Foi interposto recurso de apelação pelo Ministério Público, o qual foi parcialmente provido pelo Tribunal de origem, para afastar a incidência do redutor do § 4.º do art. 33 da Lei de Drogas e elevar as penas para 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, bem como fixar o regime inicial fechado.
+Nestewrit, a parte Impetrante alega que não houve fundamentação idônea para o afastamento da minorante do tráfico privilegiado, bem como para a fixação de regime prisional mais gravoso.
+Sustenta, ainda, que deve ser concedida prisão domiciliar para a Paciente, em razão da pandemia da Covid-19, em observância à Recomendação n. 62/2020, do CNJ.
+Requer, liminarmente, a expedição de alvará de soltura em favor da Paciente, ou aconcessão de prisão domiciliar, ou a readequação do regime prisional e, no mérito, a aplicação do referido redutor, a fixação do regime aberto, com a substituição da pena por penas restritivas de direitos ou, subsidiariamente, a fixação do regime inicial semiaberto.
+É o relatório. Decido.
+Quanto à insurgência contra a dosimetria e o regime prisional, constato que, no HC n. 595.936/SP, a mim distribuído em 10/07/2020, foi formulada idêntica pretensão em favor daora Paciente, tendo sido indeferido o pleito liminar pela Presidência desta Corte.
+O presentewrit, no ponto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas o mesmo acórdão e a mesma matéria.
+Ocorre que não podem ser processados nesta Corte, concomitantemente, doishabeas corpusnos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade dohabeas corpus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado emwritanteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido,v.g.: RCD no HC 423.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+No que se refere ao pleito de prisão domiciliar, observo da atenta leitura dos autos que a matéria referente à revisão da prisão em razão da superveniência da Covid-19 não foi apreciada pela Corte de origem, de forma que não pode ser a matéria examinada originariamente por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA E REGIME. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 595.936/SP. LITISPENDÊNCIA. PEDIDO DE CONCESSÃO DE PRISÃO DOMICILIAR, COM FUNDAMENTO NA RECOMENDAÇÃO N. 62/2020 DO CNJ. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
