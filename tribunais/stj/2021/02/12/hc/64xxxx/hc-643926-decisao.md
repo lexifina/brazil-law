@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de WELDER JOSE CORREA contra ato de desembargador do Tribunal de Justiça do Estado de Minas Gerais no julgamento da Apelação n. 1.0043.18.002200-6/001.
+Extrai-se dos autos que o paciente foi condenado pela prática dos delitos tipificados no art. 33 da Lei n. 11.343/06 e art. 329 do Código Penal (tráfico de entorpecentes e resistência), às penas de 8 anos de reclusão em regime inicial fechado e 11 meses de detenção em regime inicial semiaberto, mantida a prisão preventiva pelo magistrado sentenciante.
+Irresignada, a defesa interpôs apelação perante o Tribunal de origem, o qual deu parcial provimento ao recurso nos termos do acórdão que restou assim ementado:
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS E RESISTÊNCIA. PRIMEIRO CRIME. ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. DEPOIMENTOS DOS POLICIAIS. VALIDADE. DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI 11.343/06. NÃO CABIMENTO. DESTINAÇÃO MERCANTIL COMPROVADA. CONDENAÇÃO MANTIDA. SEGUNDO DELITO. ABSOLVIÇÃO INCABÍVEL. ELEMENTOS PROBATÓRIOS PRODUZIDOS EM CONTRADITÓRIO JUDICIAL HÁBEIS A DEMONSTRAR QUE O RÉU SE OPÔS A EXECUÇÃO DE ATO LEGAL MEDIANTE VIOLÊNCIA A FUNCIONÁRIO COMPETENTE PARA EXECUTÁ-LO. CONDENAÇÃO MANTIDA. PENA-BASE. REDUÇÃO. NECESSIDADE. CULPABILIDADE ANALISADA DE FORMA EQUIVOCADA. RECURSO PARCIALMENTE PROVIDO. - O depoimento policial prestado em contraditório judicial serve de sustentação para a emissão de um édito condenatório por tráfico de drogas quando, corroborado por outros elementos de convicção, comprova de forma indiscutível o vínculo entre o agente e a droga apreendida, bem como sua respectiva destinação mercantil. - Comprovado que o réu se opôs à execução de ato legal mediante violência ao policial, não há como se dar guarida à absolvição pretendida do crime de resistência, previsto no art. 329 do CP. - A circunstância judicial da culpabilidade não pode ser considerada desfavorável quando o fato de o apelante estar em cumprimento de pena quando da prática do novo delito já foi levado em conta na análise dos antecedentes e da agravante da reincidência, sob a pena de se incorrer em bis in idem(fl. 28).
+No presente mandamus, alega que o paciente respondeu à ação penal em liberdade e ressalta suas condições pessoais favoráveis. Assevera que a decretação da custódia cautelar, por ocasião da sentença condenatória, não restou devidamente fundamentada.
+Invoca entendimento firmado pela Suprema Corte por ocasião do julgamento das ADCs n. 43, 44 e 54, o qual obsta a execução provisória da pena. Pontua que foi interposto recurso especial, ou seja, a condenação não transitou em julgado.
+Sustenta que foi apreendida pequena quantidade de entorpecente, razão pela qual a reprimenda será revista, havendo possibilidade de substituição da reprimenda privativa de liberdade por restritiva de direitos.
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva.
+É o relatório.
+Decido.
+Em que pese o esforço da defesa, a impetração não comporta processamento.
+Isso porque o pedido aqui aduzido já foi formulado pela combativa defesa nos autos do HC n. 639.397/MG, tendo sido, inclusive, indeferidos os pedidos de liminar e reconsideração.
+Compreensível a ansiedade pela prestação jurisdicional, contudo, a multiplicidade de pedidos e ações como estratégia de defesa acarreta em sobrecarga e engendramento da prestação jurisdicional ao restante da população.
+Ante o exposto,nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a presente impetração.
+Dê-se ciência ao Ministério Público Federal.
+Publique-se.
+Intimem-se.
