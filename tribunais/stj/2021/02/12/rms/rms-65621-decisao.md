@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por IMOBILIÁRIA BELÉM SALGADINHO LTDA, contra decisão proferida pela JUSTIÇA ESTADUAL DE 1ª INSTÂNCIA EM ALAGOAS.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que o recurso em mandado de segurança não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a trazer a guia e o comprovante de pagamento das custas locais, no entanto sem comprovar o recolhimento das custas devidas ao STJ (fls. 30/32).
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, mutatis mutandis, os seguintes precedentes: AgInt no AREsp 1132940/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/8/2018; AgInt no AREsp 1207816/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018; e AgRg no AREsp 794.865/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018.
+Dessa forma, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ademais, verifica-se que o recurso não merece prosperar por ser manifestamente incabível, uma vez que interposto contra decisão proferida em primeiro grau.
+Observe-se que "compete ao Superior Tribunal de Justiça julgar, em recurso ordinário, quando a decisão for denegatória, os mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios - arts. 105, II, "b", da CF e 539, II, "a", do CPC.
+Além disso, o recurso em mandado de segurança foi interposto diretamente nesta Corte Superior (fl. 25).
+Conforme dispõe o art. 1.028, § 2º, do CPC, bem como o art. 247 do RISTJ, o recurso ordinário em mandado de segurança deve ser interposto no prazo de 15 (quinze) perante o Presidente ou Vice-Presidente do Tribunal de origem, ao que se segue a abertura do prazo de 15 (quinze) dias para o oferecimento de contrarrazões pela parte contrária.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Quanto ao pedido liminar, a admissibilidade da concessão do efeito suspensivo ao recurso em mandado de segurança está intrinsecamente vinculada à possibilidade de êxito do referido recurso. Considerando o não conhecimento do presente recurso, julgo prejudicada a concessão do efeito suspensivo.
+Publique-se. Intimem-se.
