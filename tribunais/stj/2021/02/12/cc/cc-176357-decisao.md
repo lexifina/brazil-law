@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo JUÍZO FEDERAL DA 9ª VARA DA SEÇÃO JUDICIÁRIA DO ESTADO DO RIO DE JANEIRO contra o JUÍZO FEDERAL DA 3ª VARA DE FOZ DO IGUAÇU - SJ/PR.
+Narram os autos que LEONARDO ROSEMBERG COSTA AMARAL foi denunciado, perante o Juízo Suscitado, como incurso no art. 147 e 307 do Código Penal, o qual, em 08/08/2019,expediu carta precatória ao Juízo Suscitante, nos seguintes termos (fl. 14; sem grifos no original):
+"1.2. Intime-se o Ministério Público Federal para que, no prazo de 10 (dez) dias, manifeste-se acerca da possibilidade de ser proposta transação penal ao autuado, nos termos do artigo 76 da Lei 9.099/95, apresentando, desde já, os seus termos.
+I.3. Com a formulação da proposta de transação penal, expeça-se carta precatória para a Subseção Judiciária de Angra dos Reis/RJ. com a finalidade de:
+a) realização de audiência preliminar para oferecimento da proposta de transação penal ao acusado, nos termos do art. 76 da Lei n. 9.099/95 e condições oferecidas pelo parquet federal.
+Caso seja oferecida proposta de prestação pecuniária, o valor deverá ser depositado na conta de titularidade desta Subseção Judiciária, conta judicial nº 1270.005.16400-6. da Caixa Econômica Federal, comprovando-se o depósito na precatória.
+b) fiscalização do cumprimento das condições acordadas e, após seu cumprimento integral, a devolução da carta precatória para declaração de extinção da punibilidade do autuado;
+c) notificação do acusado para comparecer à audiência preliminar, munido das certidões de antecedentes criminais do local de sua residência e acompanhado de advogado, sendo que, em sua falta, ser-lhe-á nomeado defensor ad hoc.
+Solicite-se ao Juízo deprecado que restitua a carta precatória caso o autuado não compareça à audiência ou não faça jus ao benefício.
+II. Sendo realizada a audiência, voltem conclusos para homologação."
+Por sua vez, Juízo deprecado, em 24/11/2020, suscitou o presente conflito negativo de competência, com base nas seguintes razões (fls. 18-19; sem grifos no original):
+"Este Juízo não é competente para o cumprimento do ato deprecado.
+Inicialmente, convém observar que este Juízo não desconhece a posição jurisprudencial do Superior Tribunal de Justiça no que tange à competência do Juízo Deprecante para determinar a forma de cumprimento das cartas precatórias.
+A propósito:  ..
+Contudo, a especificidade do momento atual me leva a crer que este entendimento não subsiste, por ora.
+É que, em razão da pandemia da COVID-19, o ato deprecado só pode se realizar de forma presencial se houver decisão fundamentada do Juiz competente acerca da impossibilidade de realização pela via remota. Esse é o entendimento que se extrai da leitura do art. 4, I, da Resolução 1 nº 322, do CNJ, art. 3º, III, da Portaria 2 nº JFRJ-PGD-2020/00024, de 17/08/2020 e art. 3º, III, da Resolução 3 nº TRF2-RSP-2020/00037, de 12 de agosto de 2020.
+A breve leitura dos dispositivos normativos mencionados deixa claro que a realização do ato deprecado pela forma presencial somente pode ocorrer se houver decisão judicial fundamentada, o que não ocorre no presente caso concreto. Aliás, sequer se pode presumir a sua inviabilidade. Observa-se que o endereço declinado do autor do fato se encontra em área nobre desta Capital, a indicar, em princípio, a sua efetiva inclusão digital.
+Em acréscimo, a competência excepcionalmente delegada a este Juízo deprecado somente se justifica diante da inviabilidade de prática de ato jurisdicional pelo Juiz Natural. Sendo possível ao Juiz Natural ouvir o autor do fato remotamente, via CISCOWEBEX, essa simples possibilidade exclui, por absoluto, a competência do Juiz Federal deprecado para a realização da audiência.
+Assim sendo, ante a ausência de decisão judicial indicando de forma concreta a inviabilidade de designar audiência remota, decisão esta que, pelas razões acima expostas, cabe ao MM. Juiz Deprecante, não pode este Juízo Deprecado designar audiência presencial, porque isso significaria contrariar a regulamentação de atos presenciais vigentes tanto nesta Seção Judiciária, quanto no Poder Judiciário em geral, podendo ensejar consequências inclusive de natureza disciplinar a esta magistrada.
+ ..  também se garante ao suposto autor do fato direito quanto a preservação de sua integridade física. Por isso, não parece razoável obrigá-lo a participar do ato presencial, expondo-o a risco de contaminação, por simples opção da autoridade, tendo em vista que há alternativas tecnológicas à disposição do magistrado que se mostram aptas ao cumprimento da finalidade do ato sem expor a risco a vida e a saúde de todos os envolvidos.
+Ante o exposto, na forma do que preceitua o art. 105, I, "d", da Constituição Federal de 1988, suscito conflito negativo de competência, e determino o encaminhamento da questão ao egrégio Superior Tribunal de Justiça, para o qual rogo que decida pela prevalência da competência do MM Juízo da 3ª Vara Federal de Foz do Iguaçu/PR para realizar o ato deprecado pela via remota, através do CISCOWEBEX, ou que decline razões fundamentadas que o impedem de realizar o ato remotamente.
+Mantenho a carta precatória nesta Vara Federal com tramitação suspensa, até que o Superior Tribunal de Justiça venha a dirimir o conflito de competência ora instaurado.
+Oficie-se ao douto Juízo da 3ª Vara Federal de Foz do Iguaçu/PR, dando-lhe ciência do conteúdo desta decisão.
+A Secretaria deverá providenciar cópia integral dos autos, inclusive desta decisão, que deverá preceder todas as demais peças, para instruir o ofício à Presidência do Superior Tribunal de Justiça."
+O Ministério Público Federal manifestou-se às fls. 35-38, opinando pela competência do Juízo Suscitado.
+É o relatório.
+Decido.
+A carta precatória é instituto processual de cooperação entre órgãos jurisdicionais. O instrumento permite que o Juízo deprecante requisite a execução de determinados atos processuais a outro Juízo, pela impossibilidade de realização desses atos no local da causa.
+Nos termos do art. 3.º do Código de Processo Penal, a lei processual penal admite a interpretação extensiva e a autointegração. Assim, é possível utilizar-se do Código de Processo Civil quando houver omissão na legislação processual penal .
+Neste cenário, a princípio, não haveria óbice na realização de ato já mencionado ato processual por meio de carta precatória, que, em tese, só pode deixar de ser cumprida nas hipóteses previstas no art. 267 do Código de Processo Civil, in verbis:
+"Art. 267. O juiz recusará cumprimento a carta precatória ou arbitral, devolvendo-a com decisão motivada quando:
+I - a carta não estiver revestida dos requisitos legais;
+II - faltar ao juiz competência em razão da matéria ou da hierarquia;
+III - o juiz tiver dúvida acerca de sua autenticidade.
+Parágrafo único. No caso de incompetência em razão da matéria ou da hierarquia, o juiz deprecado, conforme o ato a ser praticado, poderá remeter a carta ao juiz ou ao tribunal competente."
+Ademais, não se olvida da jurisprudência da Terceira Seção desta Corte Superior de Justiça, segundo a qual"conquanto recomendável seja realizada por videoconferência, não compete ao Juízo deprecado determinar forma de audiência diversa daquela delegada, recusando-se assim ao cumprimento da deprecata" (CC 135.834/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 22/10/2014, DJe 31/10/2014).
+Todavia, o caso dos autos está a merecer solução distinta daquela plasmada nos precedentes antes mencionados.
+Isso porque, posteriormente à expedição da carta precatória- ocorrida em 08/08/2019- e antes que essa pudesse ser cumprida pelo juízo deprecado, como é cediço, teve início a pandemia da Covid-19, a qual demandou das diversas autoridades medidas sanitárias e de distanciamento, no intuito de preservação da saúde e da vida dos cidadãos.
+Ademais, a hipótese dos autos atrai a aplicação da Resolução n.354, de 19/11/2020, do Conselho Nacional de Justiça,cujo art. 3º está assim disposto, in verbis:
+"Art. 3ºAs audiências telepresenciais serão determinadas pelo juízo, a requerimento das partes, se conveniente e viável, ou, de ofício, nos casos de:
+I - urgência;
+II - substituição ou designação de magistrado com sede funcional diversa;
+III - mutirão ou projeto específico;
+IV - conciliação ou mediação; e
+V - indisponibilidade temporária do foro, calamidade pública ou força maior.
+Parágrafo único. A oposição à realização de audiência telepresencial deve ser fundamentada, submetendo-se ao controle judicial." (sem grifos no original.)
+Com efeito, o Juízo Suscitado, respondendo o despacho de fls. 41-42 acerca da possibilidade de realização da audiênciapor meio remoto, aduziu que não justificou ao juízo deprecado (suscitante) a necessidade de levá-lo a efeito de forma presencial tão somente porque a expedição da carta precatória se deu em momento anterior ao do início da pandemia de Covid-19 e da vigência das medidas daí decorrentes, tendo esclarecido, ainda, que " ..  tem realizado com grande sucesso audiências por meio de videoconferência, sem a necessidade de expedição de carta precatória, desde que informado nos autos o contato telefônico do intimando" (fl. 100).
+Nessas condições, à vista da alteração do quadro fático desde a expedição da carta precatória - superveniência dapandemia de Covid-19 e adoção de medidas de distanciamento indispensáveis para evitar a disseminação da doença, bem como asrecentes medidas adotadas pelo CNJ para cumprimentode atos judiciais por meiodigital -, entendo que a competência para a realização do ato tratado nestes autos é do juízo suscitado, o qual deverá diligenciar para a obtenção das informações e dados que possibilitem a audiência remota, caso tais informações já não estejam contidas nos autos.
+Não é outro o entendimento adotado no bem lançado parecer do Ministério Público Federal, da lavra do Subprocurador-Geral da República Hindemburgo Chateaubriand Filho, litteris (fl. 37):
+" ..  a recusa foi fundamentada no fato de que a competência conferida aos juízos deprecados somente se justifica diante da demonstração da inviabilidade da prática do ato pelo juízo deprecante, bem como em regramentos expedidos pelo Conselho Nacional de Justiça e pela própria Seção Judiciária do Rio de Janeiro, decorrentes da situação excepcional da pandemia do novo coronavírus, que limitam o cumprimento dos atos deprecados na forma presencial somente às hipóteses devidamente fundamentadas, procidências das quais não se desincumbiu o juízo deprecante."
+Ante o exposto, CONHEÇO do conflito e DECLARO a competência do JUÍZO FEDERAL DA 3ª VARA DE FOZ DO IGUAÇU - SJ/PR, o Suscitado.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSUAL PENAL. CARTA PRECATÓRIA EXPEDIDA PARA REALIZAÇÃO DE AUDIÊNCIA ACERCA DA POSSIBILIDADE DE PROPOSTA DE TRANSAÇÃO PENAL AO INTERESSADO.ART. 267 DO CÓDIGO DE PROCESSO CIVIL NÃO APLICÁVEL. ALTERAÇÃO DO QUADRO FÁTICO DESDE A EXPEDIÇÃO DA CARTA PRECATÓRIA. EPIDMEIA DE COVID-19. RESOLUÇÃO N.354/2020 DO CONSELHO NACIONAL DE JUSTIÇA. REALIZAÇÃO DO ATO DE FORMA REMOTA. POSSIBILIDADE.COMPETÊNCIA DO JUÍZO SUCITADO PARA CUMPRIR O ATO.
