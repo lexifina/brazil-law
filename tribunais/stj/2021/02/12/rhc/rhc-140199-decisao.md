@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto em favor de LUCIANO COSTA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará no julgamento do HC n. 0810342 - 75.2020.8.14.0000.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância,pela prática do crime descrito no art. 121, § 2º, inciso I e IV, do Código Penal e pelo crime previsto no art. 14 da Lei 10.826/2003, às penas de 18 (dezoito) anos de reclusão e multa de 10 (dez) dias- multa (fls. 69-72).
+Inconformada, a defesa impetrouhabeas corpusperante o eg. Tribunal de origem, que, por unanimidade, não conheceu da ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS - HOMICÍDIO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO - NÃO CONHECIDO O WRIT - REDISCUSSÃO DE MATÉRIA - ORDEM NÃO CONHECIDA.
+1 - DO NÃO CONHECIMENTO DO WRIT: Verifica-se que as alegações do presente remédio heroico se tratam de reiteração de argumentos já analisados e julgados na Sessão da Seção de Direito Penal, na ordem de habeas corpus nº 0807981-22.2019.8.14.0000.
+Destarte, por se tratar de reiteração de argumentos já apreciados, o não conhecimento da presente ordem, é medida a se impor. Precedentes deste E. Tribunal e do Superior Tribunal de Justiça.
+2 - ORDEM NÃO CONHECIDA" (fl. 87).
+A defesa interpôs ainda, embargos de declaraçãoàs fls. 172-178, que também não foram conhecidos. Eis a ementa do julgado:
+"EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS  REQUER O EMBARGANTE A SUA APRECIAÇÃO PARA FINS DE SUPRIR ALEGADAS OMISSÕES NO ACORDÃO  ENTENDIMENTO DESTA SEÇÃO DE DIREITO PENAL DE NÃO CONHECIMENTO DOS ACLARATORIOS EM SEDE DE HABEAS CORPUS, EXCETUADO FLAGRANTE ILEGALIDADE OU TERATOLOGIA  TESE DESCABIDA  EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1  DO NÃO CONHECIMENTO DOS EMBARGOS DE DECLARAÇÃO: O presente recurso não merece ser conhecido em razão desta Sessão de Direito Penal ter consolidado o entendimento de que não se conhece de recurso aclaratório em sede de ordem de habeas corpus, excepcionando-se os casos de flagrante ilegalidade ou teratologia. Não é o caso dos autos.
+Trata-se de inconformismo do impetrante contra o v. Acórdão contido no Id n.
+4040982, que a unanimidade de votos, não conheceu do writ por se tratar de mera rediscussão de matéria já apreciada pela Seção de Direito Penal, inclusive a questão relativa à análise dosimetria da pena em sede de habeas corpus.
+Nessa toada, o não conhecimento dos presentes Embargos de Declaração se mostra medida de direito a se impor.
+2  EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS" (fl. 172).
+Dai o presente recurso ordinário, onde o recorrente alega, em síntese, a ocorrência de constrangimento ilegalna análise negativa da vetorial consequências do crime.
+Para tanto, sustenta, que "Na espécie, quando da dosimetria da pena posta na sentença penal condenatória, o juízo a quo declina que "as consequências do crime foram graves, uma vez que ceifou uma vida humana" (fl. 261 dos autos de origem), de forma que se valeu da própria conduta descrita no tipo penal para aumentar a pena-base do PACIENTE, o que é ilegal, inconvencional e inconstitucional, pois assim foimencionado: a morte da vítima é condição para que o tipo se concretize. Sem o evento morte, poder-se-ia apenas falar em eventual crime de tentativa de homicídio, lesão corporal ou até mesmo um indiferente penal" (fls. 184-185).
+Requer, assim, o provimento do presente recurso ordináriopara que seja afastada a vetorial delineada, com consequente fixação da pena-base no mínimo legal.
+O pedido liminar foiindeferido às fls. 200-201.
+Informações prestadas às fls. 210-237.
+O Ministério Público Federal, às fls. 242-245, manifestou-se pelo não conhecimento dowrit, em parecer assim ementado:
+"RECURSO EM HABEAS CORPUS. REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. TRÂNSITO EM JULGADO DA CONDENAÇÃO. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. REPRIMENDA ACIMA DO MÍNIMO. PRIMEIRA FASE. POSSIBILIDADE. CIRCUNSTÂNCIAS CONCRETAS DO DELITO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. PELO NÃO CONHECIMENTO DO RECURSO" (fl. 242).
+É o relatório.
+Decido.
+Pretende o recorrente, em síntese, por meio do presente recurso ordinário, o afastamento da circunstância judicial relativa às consequências do crime, com consequente fixação da pena-base no mínimo legal.
+Para melhor delimitar a quaestio, transcrevo os seguintes trechos da r. sentença condenatório, mantida pela Corte local, in verbis:
+"I - PARA O CRIME DE HOMICÍDIO QUALIFICADO
+A culpabilidade do réu, considerando o delito em questão, não apresenta reprovação acima do normal; o acusado possui bons antecedentes, na medida em que não há condenação anterior transitada em julgado; nada foi apurado acerca da sua conduta social; quanto à personalidade, não existe nos autos elemento qualquer que me peJ  mita avaliá-la, portanto não se pode fazer consideração que venha a exacerbar a pena; o crime foi cometido por motivo torpe, não podendo, entretanto. neste momento, ser tal elemento utilizado para prejudicá-lo, sob pena de gerar bis in idem, na medida em que foi reconhecido como qualificadora pelo Conselho de Sentença; as circunstâncias do crime não trazem nada de anormal; as consequências do crime foram graves, uma vez que ceifou uma vida humana; finalmente, o comportamento da vítima, em nada contribuiu ao delito. Nesse sentido, estou por fixar a pena base em 16 (dezesseis) anos de reclusão.
+Não se configurou a presença de circunstâncias atenuantes, nem de agravantes, tão pouco de majorantes ou minorantes.
+Por tais razões, torno a pena definitiva em 16 (dezesseis) anos de reclusão, por entendê-la suficiente para atingir os fins preventivos e repressivos almejados pela sanção penal" (fl. 70, grifei).
+As consequências do delito são os desdobramentos derivados da conduta do agente que transcendem o resultado típico, evidenciando maior dano ou perigo de dano ao bem jurídico tutelado pela norma incriminadora. Diante desse cenário, pareceu-me insuficiente a motivar a exasperação da pena-base a menção aofatode que as consequências "foram graves, uma vez que ceifou uma vida humana" (e-STJ fl. 70), porquanto talelementoégenéricoe se confundecom os efeitos negativos naturais e inerentes ao tipo penal em análise. Com o objetivo de esclarecer inteiramente a questão, colacionei os seguintes precedentes:
+" HABEAS CORPUS. IMPETRAÇÃO SUBSTITUTIVA DE RECURSO PRÓPRIO. IMPROPRIEDADE DA VIA ELEITA. ACÓRDÃO DE REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO. CONDENAÇÃO. JULGAMENTO CONTRÁRIO À PROVA DOS AUTOS. EXAME APROFUNDADO DAS PROVAS. INVIABILIDADE. DOSIMETRIA DA PENA. FLAGRANTE ILEGALIDADE. CULPABILIDADE. MOTIVAÇÃO GENÉRICA. CONSEQUÊNCIAS. MORTE DA VÍTIMA. CONSIDERAÇÕES INERENTES AO TIPO PENAL. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO CONCRETA. REDUÇÃO DA REPRIMENDA. NÃO CONHECIMENTO. CONCESSÃO DE OFÍCIO.
+ ..
+3. Hipótese em que há manifesta ilegalidade na dosimetria da pena. A culpabilidade foi valorada negativamente sem fundamentação concreta. Quanto ao comportamento da vítima, não se indicou qualquer contribuição para o delito, devendo ser tido por neutro. Já as consequências apontadas pelo magistrado (perecimento de uma vida) são inerentes ao próprio tipo penal. Por outro lado, foram concretamente motivadas as circunstâncias do crime, o que autoriza a fixação da pena-base em patamar superior ao mínimo.
+4. Writ não conhecido. Ordem concedida de ofício tão somente para reduzir a sanção imposta ao paciente a 14 (catorze) anos de reclusão, mantidos os demais termos da sentença. (HC 363.588/PE, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 27/09/2016, DJe 10/10/2016, grifei.)
+HABEAS CORPUS. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. HOMICÍDIO QUALIFICADO. DOSIMETRIA. PENA-BASE. CULPABILIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. CIRCUNSTÂNCIAS DO DELITO. BIS IN IDEM. CONSEQUÊNCIAS DO CRIME. ELEMENTO INERENTE AO TIPO PENAL. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SANÇÃO REDIMENSIONADA.
+ ..
+4. A alegação de que "as consequências extra-penais são graves, pois a vida é o bem jurídico de maior importância protegido pelo Direito Penal" não justifica a elevação da pena-base, porque diz respeito a elemento inerente ao próprio tipo penal violado, que serviria para qualquer delito de homicídio abstratamente considerado.
+5. Verificado que a vítima, de certo modo, contribuiu para o evento delituoso, resta evidenciado que essa circunstância judicial foi sopesada em benefício do paciente.
+6. Ordem não conhecida. Habeas corpus concedido, de ofício, a fim de diminuir em parte a pena-base do paciente, tornando a sua reprimenda definitiva em 12 anos de reclusão. (HC 261.544/ES, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/08/2014, DJe 26/08/2014, grifei.)
+Assim, passo ao redimensionamento da pena:
+Na primeira fase, afastada a circunstância judicial relativa às consequências do crime, fixo a pena-baseno mínimo legal de 12 (doze) anos de reclusão.
+Na segunda fase, ausente circunstância atenuante ou agravante, a pena permanecerá no patamar anteriormente fixado.
+No último estágio, à míngua de causas de aumento ou diminuição, ficaa pena definitivamente fixada em 12 (doze) anos de reclusão.
+Por força doconcurso material (art. 69, CP)com o delito deporte ilegal de arma de fogo, a pena ficará estabelecidadefinitivamenteem14 anos de reclusão, mais pagamento de 10 dias-multa.
+Quanto ao regime prisional, mantida a pena no patamar superior a 8 anos de reclusão, não há se falar em fixação de regime prisional menos gravoso, pois o meio prisional fechado decorre da própria literalidade no art. 33, caput, § 2º, alínea "a", Código Penal, in verbis:
+"Art. 33 - A pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado.
+ ..
+§ 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
+a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;
+b) o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto;
+c) o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto".
+Diante do exposto, dou provimento ao presente recuso ordinário para afastar a análise negativa da circunstância judicial das consequências do crime, redimensionando a pena imposta ao paciente para 14 anos de reclusão, em regime fechado, mais pagamento de 10 dias-multa., mantidos os demais termos da condenação.
+P. e I.
