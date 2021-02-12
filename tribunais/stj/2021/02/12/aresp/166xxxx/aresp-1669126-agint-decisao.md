@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interno interposto porIOLANDA ALVES DE LIMAcontra decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça (e-STJ fls. 628-629)que não conheceu do agravo por ausência de impugnação a fundamento da decisão que inadmitiu o recurso excepcional, conforme se verifica do seguinte trecho:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+Nas razões do recurso, a recorrente defende que impugnou todos os fundamentos expostos na decisão que negou seguimento ao recurso especial.
+Sendo assim, requer a reconsideração da decisão agravada.
+Impugnação às fls. 668-670(e-STJ).
+Brevemente relatado, decido.
+Diante dos argumentos apresentados, constata-se assistir razão à agravante.
+Assim, mediante juízo de retratação, nos termos do art. 259 do RISTJ, reconsidero a decisão de fls. 668-670 (e-STJ) e passo a novo exame do agravo em recurso especial (e-STJ, fls. 565-577).
+Cuida-se de agravo interposto porIOLANDA ALVES DE LIMAcontra decisão que inadmitiu recurso especial (e-STJ, fls. 560-562)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 455):
+PLANO DE SAÚDE - Manutenção de aposentada por prazo indeterminado nos termos do artigo 31 da Lei nº 9.656/98 - Insurgência da autora contra as mensalidades diferenciadas dos funcionários inativos em relação aos ativos- Reconhecida a ilegalidade da prática - Superveniência, contudo, da contratação de novo plano de saúde que não estabelece distinção entre funcionários ativos e inativos - De rigor a submissão da autora às novas regras - Por outro lado, devem ser restituídos valores pagos a maior antes da reformulação do plano - RECURSOPARCIALMENTE PROVIDO.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 507):
+EMBARGOS DECLARATÓRIOS - Renovação da matéria em busca alteração da decisão - Ausência de pontos omissos, obscuros ou em contradição - Conhecidos pela tempestividade - EMBARGOS REJEITADOS.
+Nas razões do recurso especial, a recorrente alegou, com fulcro nas alíneasa e cdo permissivo constitucional, divergência jurisprudencial e violação aos arts. 31 da Lei 9.656/1998; e 47 e 51 do CDC.
+Sustentou que os ex-empregados fazem jus à manutenção no plano de saúde ofertado pela ex-empregadora nas mesmas condições existentes à época em que estavam na ativa, inclusive quanto à forma de custeio.
+Defendeuhaver necessidade de diferenciação das regras aplicáveis aos funcionários ativos e inativos.
+Frisou que as cláusulas contratuais dos planos de saúde não podem impor aos beneficiários onerosidade desproporcional.
+Aduziuque a majoração por faixa etária das mensalidadesnão pode ser aplicada quando constatada abusividade.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do agravo, a agravante alega ter cumprido com todas as exigências legais para conhecimento e processamento do recurso especial.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A respeito da tese defendida pela recorrente, o Tribunal de origem assim se manifestou (e-STJ, fls. 456-457):
+Consta dos autos que a autora figurou nos quadros de funcionários do Itaú Unibanco S/A de 1991 a 2012, sendo que, por força do contrato de trabalho, desfrutava de plano de saúde administrado pela ré.
+Após o rompimento do vínculo de emprego, a autora, que já ostentava a condição de aposentada, não se conformou com os valores impostos pela ré para a manutenção do seu benefício nos termos do artigo31 da Lei nº 9.656/98. Por esse motivo, por meio da presente demanda foi buscada a revisão da contraprestação e a devolução dos valores pagos a maior.
+Em sede de contestação a ré confessou que criou planos de saúde distintos para os funcionários ativos e para os inativos, inclusive praticando tabelas de preços diferenciados entre eles, defendendo que a legislação não garante o pagamento da mesma mensalidade.
+ ..
+Ocorre que, no curso da demanda, a ré noticiou fato novo: em dezembro de 2015 houve uma reformulação do plano de saúde, mediante unificação das carteiras de ativos e inativos.
+Frise-se que há inúmeras lides envolvendo os beneficiários da Fundação Saúde Itaú, com os mesmos pedidos e causa de pedir. Em diversas ações já foram produzidas provas idôneas acerca da efetiva contratação desse novo plano com o Itaú bem como da cobrança da mesma mensalidade para os funcionários ativos e para os inativos.
+Nos presentes autos, o documento de fls.358/360, que consiste em mensagem eletrônica encaminhada pelo Itaú Unibanco S/A para seus colaboradores, demonstra que a mensalidade tanto dos funcionários ativos quanto dos inativos agora é calculada através de uma mesma tabela por faixa etária.
+Assim, não há dúvidas de que realmente houve reformulação do plano e de que realmente foram unificadas as carteiras de ativos e inativos, não havendo mais qualquer tipo de distinção de valores de prêmio entre eles.
+Cumpre ressaltar, neste sentido, que o Tribunal de Justiça do Estado de São Paulo vem reconhecendo a ausência de irregularidade da reestruturação do plano de saúde da ré, conforme se observa nos exemplos abaixo:
+ ..
+E, reconhecida a validade da reestruturação dos planos coletivos empresariais, de rigor a sujeição de todos os beneficiários às novas regras, e não apenas dos novos beneficiários, sob pena de violação ao princípio da isonomia e da segurança jurídica. Não se apresenta razoável que a autora, que integra uma coletividade de beneficiários, receba tratamento diferenciado.
+Por esses motivos, certo é que a partir de dezembro de 2015 a mensalidade devida pela autora passou a ser aquela constante da tabela de fl. 359, de acordo com a sua faixa etária, observados os reajustes anuais que sobrevieram para todos os beneficiários.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual entendeu inexistir ilegalidade na reformulação dos contratos de planos de saúde coletivos e a equiparação das regras aplicáveis aos funcionários ativos e inativos
+De fato, em recente julgado, o Superior Tribunal de Justiça, analisando a tese pelo rito dos recursos repetitivos, firmou o entendimento no sentido de que os ex-empregados aposentados não têm direito à permanência no plano de saúde nas mesmas condições ofertadas quando vigente o contrato de trabalho, podendo a operadora adotar medidas de reestruturação, desde que mantidaa igualdade entre os funcionários ativos e inativos.
+Confira-se ementa do julgador:
+RECURSO ESPECIAL REPETITIVO. DIREITO CIVIL. EX-EMPREGADOS APOSENTADOS. PERMANÊNCIA NO PLANO DE SAÚDE COLETIVO. ART. 31 DA LEI N. 9.656/1988. DEFINIÇÃO ACERCA DAS CONDIÇÕES ASSISTENCIAIS E DE CUSTEIO.
+1. Delimitação da controvérsia Definir quais condições assistenciais e de custeio do plano de saúde devem ser mantidas a beneficiários inativos, nos termos do art. 31 da Lei n. 9.656/1998.
+2. Teses definidas para os fins do art. 1.036 do CPC/2015 a) "Eventuais mudanças de operadora, de modelo de prestação de serviço, de forma de custeio e de valores de contribuição não implicam interrupção da contagem do prazo de 10 (dez) anos previsto no art. 31 da Lei n. 9.656/1998, devendo haver a soma dos períodos contributivos para fins de cálculo da manutenção proporcional ou indeterminada do trabalhador aposentado no plano coletivo empresarial." b) "O art. 31 da lei n. 9.656/1998 impõe que ativos e inativos sejam inseridos em plano de saúde coletivo único, contendo as mesmas condições de cobertura assistencial e de prestação de serviço, o que inclui, para todo o universo de beneficiários, a igualdade de modelo de pagamento e de valor de contribuição, admitindo-se a diferenciação por faixa etária se for contratada para todos, cabendo ao inativo o custeio integral, cujo valor pode ser obtido com a soma de sua cota-parte com a parcela que, quanto aos ativos, é proporcionalmente suportada pelo empregador." c) "O ex-empregado aposentado, preenchidos os requisitos do art. 31 da Lei n. 9.656/1998, não tem direito adquirido de se manter no mesmo plano privado de assistência à saúde vigente na época da aposentadoria, podendo haver a substituição da operadora e a alteração do modelo de prestação de serviços, da forma de custeio e os respectivos valores, desde que mantida paridade com o modelo dos trabalhadores ativos e facultada a portabilidade de carências."
+3. Julgamento do caso concreto Ofensa ao art. 31 da Lei n. 9.656/1998 caracterizada, tendo em vista que os empregados ativos e os ex-empregados inativos, apesar de vinculados a plano de saúde administrado por uma única operadora, encontram-se inseridos em categorias distintas, sendo diversas a forma de custeio e os valores de contribuição.
+4. Recurso especial a que se dá provimento.
+(REsp 1818487/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/12/2020, DJe 01/02/2021)
+In casu, consta dos autos que a operadora do plano de saúde, ora recorrida, efetuou modificações nos contratos ofertados aos segurados ativos e inativos, estabelecendo alterações na forma de custeio das mensalidades, as quais passaram a considerar a tabela de preços fixadacom base naidade dos beneficiários.
+Dessa forma, constata-se que o posicionamento do Tribunal local encontra-se em sintonia com a jurisprudência recente desta Corte Superior.
+Logo, aplica-se o disposto na Súmula 83/STJ.
+Ante o exposto, mediante juízo de reconsideração, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. EX-EMPREGADO APOSENTADO. MANUTENÇÃO DA MESMA FORMA DE CUSTEIO. EQUIPARAÇÃO DOS FUNCIONÁRIOS ATIVOS E INATIVOS. LEGALIDADE. TESE FIXADA EM RECURSO REPETITIVO. RESP 1.818.487/SP. DECISÃO RECONSIDERADA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
