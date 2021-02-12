@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DE IMÓVEL. DISPOSITIVO TIDO POR VIOLADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. INCIDÊNCIA DO CDC. RELAÇÃO DE CONSUMO. SÚMULAS N. 5 E 7/STJ. EXCLUDENTE DE RESPONSABILIDADE. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de dispositivo tido por violadono âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Na hipótese dos autos, o acórdão reconheceu, com base em fatos, provas e termos contratuais, a existência de relação de consumo entre os litigantes. No ponto, os agravados seriam destinatários finais do imóvel objeto da avença, o qual sofreu atraso na conclusão das obras. Dessa forma, a aplicação das Súmulas n. 5 e 7/STJ obsta o conhecimento do recurso especial na parte em que busca afastar a aplicabilidade do Código de Defesa do Consumidor.
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Para o acolhimento do recurso quanto à alegação de culpa/responsabilidade pelo inadimplemento contratual, seria imprescindível derruir as conclusões contidas no decisum atacado, o que, forçosamente, demandaria a rediscussão de matéria fática, incidindo, na espécie, a Súmula n. 7 deste Tribunal Superior.
+5. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por JVS ENGENHARIA LTDA. em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 357):
+RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DE IMÓVEL. INCIDÊNCIA DO CDC. RELAÇÃO DE CONSUMO. SÚMULAS N. 5 E 7/STJ. EXCLUDENTE DE RESPONSABILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISPOSITIVO TIDO POR VIOLADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões, a agravante alega a inaplicabilidade dos óbices suscitados na decisão agravada, arguindo que a análise da demanda não necessita de interpretação de cláusula contratual e reexame de fatos e provas. Ademais, assevera que a matéria tida por contrariada foi devidamente prequestionada pela Corte a quo.
+Requer, assim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação apresentada (e-STJ, fls. 372-377), com pedido de condenação de honorários sucumbenciais.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DE IMÓVEL. DISPOSITIVO TIDO POR VIOLADO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356/STF. INCIDÊNCIA DO CDC. RELAÇÃO DE CONSUMO. SÚMULAS N. 5 E 7/STJ. EXCLUDENTE DE RESPONSABILIDADE. REVISÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência consolidada neste Tribunal Superior firmou-se no sentido de que a análise de dispositivo tido por violadono âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. Na hipótese dos autos, o acórdão reconheceu, com base em fatos, provas e termos contratuais, a existência de relação de consumo entre os litigantes. No ponto, os agravados seriam destinatários finais do imóvel objeto da avença, o qual sofreu atraso na conclusão das obras. Dessa forma, a aplicação das Súmulas n. 5 e 7/STJ obsta o conhecimento do recurso especial na parte em que busca afastar a aplicabilidade do Código de Defesa do Consumidor.
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Para o acolhimento do recurso quanto à alegação de culpa/responsabilidade pelo inadimplemento contratual, seria imprescindível derruir as conclusões contidas no decisum atacado, o que, forçosamente, demandaria a rediscussão de matéria fática, incidindo, na espécie, a Súmula n. 7 deste Tribunal Superior.
+5. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Inicialmente, no tocante à apontada violação ao art. 422 do Código Civil de 2002, constata-se que o conteúdo do citado normativo não foi objeto de exame pela instância ordinária, nem foram opostos embargos de declaração a fim de suscitar a discussão dos temas nelecontidos, razão pela qual incidem, na espécie, as Súmulas 282 e 356 do Supremo Tribunal Federal, nestes termos:
+Súmula 282. É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356 - O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito de prequestionamento.
+Com efeito, o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não se deu na presente hipótese.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. NÃO OCORRÊNCIA DE PREQUESTIONAMENTO IMPLÍCITO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS DE LEI FEDERAL. SÚMULA N. 284/STF DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+2. O prequestionamento implícito pressupõe que a Corte local decida a matéria com base no dispositivo legal tido por violado, ainda que não lhe faça menção expressa, o que não ocorreu no presente caso.
+3. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso concreto, o Tribunal analisou a prova dos autos para concluir que haveria sociedade em conta de participação e, portanto, legitimidade dos agravados. Alterar tal conclusão demandaria o reexame de matéria fática, o que é vedado em recurso especial.
+5. A ausência de indicação do dispositivo de lei federal supostamente violado impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1535938/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. JUROS DE OBRA. DECISÃO ATACADA. PREQUESTIONAMENTO. SÚMULAS NºS 282 E 356/STF. REEXAME. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ. ACÓRDÃO RECORRIDO. FUNDAMENTOS. NÃO IMPUGNAÇÃO. SÚMULAS NºS 283 E 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO. DISPOSITIVOS LEGAIS. SÚMULA Nº 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de discussão, pelo tribunal de origem, acerca da tese ventilada no recurso especial (arts. 113 e 422 do Código Civil de 2002) acarreta a falta de prequestionamento, atraindo as Súmulas nºs 282 e 356/STF.
+3. Na hipótese, acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. No caso, ausente a indicação dos dispositivos legais violados a fim de caracterizar o dissídio jurisprudencial com julgado desta Corte. Incidência da Súmula nº 284/STF.
+5. Agravo interno não provido.
+(AgInt no AREsp 1579813/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 31/08/2020, DJe 03/09/2020)
+Com relação à alegação de inaplicabilidade de Código de Defesa do Consumidor, o Tribunal de origem assim se manifestou (e-STJ, fls. 215-216):
+A aplicabilidade do diploma consumerista ao caso concreto é inconteste, figurando de um lado a parte prestadora de serviço/fornecedora do produto e do outro a parte destinatária final do serviço prestado/produto. Consequente lógico deste panorama é a autorizada aplicação da almejada incidência da inversão do ônus probatório, aplicando-se o art. 6º, VIII do CDC que reza:
+(..)
+Ademais, é incontroversa a celebração do contrato de compromisso de compra e venda de imóvel em 14/10/2011, consistente na unidade condominial nº 302, Bloco - 01, do Empreendimento "Residencial Monte Horebe", pelo valor de R$ 165.525,00, sendo dado como sinal o valor de R$ 9.931,50, e mais parcelas do saldo remanescente.
+Conforme é possível verificar, o acórdão reconheceu, com base em fatos, provas e termos contratuais, a existência de relação de consumo entre os litigantes. No ponto, os agravados seriam destinatários finais do imóvel objeto da avença, o qual sofreu atraso na conclusão das obras. Dessa forma, a aplicação das Súmulas n. 5 e 7/STJ obsta o conhecimento do recurso especial na parte em que busca afastar a aplicabilidade do Código de Defesa do Consumidor.
+No ponto:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONTRATO BANCÁRIO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DEFEITO DE SERVIÇO. PRESCRIÇÃO QUINQUENAL. CDC. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. REVISÃO. RELAÇÃO DE CONSUMO. CONFIGURAÇÃO. FALHA DE SERVIÇO. FRAUDE BANCÁRIA. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. EXCLUSÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. ÔNUS DE SUCUMBÊNCIA. MANUTENÇÃO. REEXAME FÁTICO. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+( )
+8. Rever as conclusões do tribunal de origem, para afastar a existência de relação de consumo entre as partes, implicaria a análise de circunstâncias fático-probatórias dos autos e de cláusulas contratuais, procedimento inviável devido à incidência das Súmulas nºs 5 e 7/STJ.
+( )
+14. Agravo interno não provido.
+(AgInt no AREsp 1173934/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe 21/09/2018)
+Insta registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Acerca do outro fundamento suscitado pela insurgente para afastar sua responsabilidade civil, o Colegiado local, de modo uníssono e com esteio nos elementos fático-probatórios, assentou que as justificativas dadas ao descumprimento nem sequer se amoldam à Teoria da Imprevisão, já que são absolutamente presumíveis e inerentes à atividade empresarial desenvolvida.
+Pela pertinência, transcrevem-se os fundamentos adotados pelo aresto combatido, que evidenciam a culpa da recorrente pelo inadimplemento contratual, cuja responsabilidade não pode ser apartada pelas justificativas apresentadas (e-STJ, fls. 216-217):
+No mais, consta no contrato realizado entre as partes, que a data da entrega do imóvel seria em 31/12/2014, com prazo de tolerância de 180 dias, sendo que esse prazo se esgotaria em 01/06/2015 (fls.26). Contudo, até o presente momento não se tem noticia da entrega do imóvel. E nem queira a requerida se apegar à excludente de responsabilidade do caso fortuito/força maior para justificar seu inadimplemento, vez que imprópria sua incidência à quebra da causalidade no caso concreto, bastando considerar: a atividade econômica que exerce na qualidade de construtora/incorporadora, o fato de que o "expirado" prazo de tolerância presta-se, via de regra, a mitigar os suscitados contratempos bem como e principalmente sua confessa e criticável tentativa de repassar riscos ao público consumidor. A respeito desta temática, dá conta a Súmula 161 do E. TJSP:
+"Súmula 161 Não constitui hipótese de caso fortuito ou de força maior, a ocorrência de chuvas em excesso, falta de mão de obra, aquecimento do mercado, embargo do empreendimento ou, ainda, entraves administrativos. Essas justificativas encerram"res inter alios acta" em relação ao compromissário adquirente".
+Em igual interpretação desponta a jurisprudência deste tribunal:
+( )
+Consequentemente, ficam afastadas as alegações de ocorrência de casos fortuitos ou de força maior.
+Sendo assim, fica evidente que a argumentação expendida pela agravante, quantoà culpa/responsabilidade pelo inadimplemento contratual, em absoluta contrariedade ao cenário fático insculpido pela instância ordinária, imutável na presente via especial, não comporta acolhimento, em atenção ao óbice das Súmula n. 7 desta Corte Superior.
+Por derradeiro, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
