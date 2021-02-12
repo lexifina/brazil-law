@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por RACHEL GUTVILEN contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+Agravo de Instrumento. Ação anulatória. Decisão que indeferiu pedido de gratuidade de justiça em desfavor da parte demandante. Irresignação desta.
+Gratuidade de justiça. Gênero da espécie isenção tributária. Ato vinculado, condicionado à comprovação pelo interessado de não possuir meios e recursos para fazer frente às despesas do processo.
+Documental acostada ao feito que se revela como inapta a corroborar a hipossuficiência alegada pela postulante.
+Negativa de provimento ao recurso. (fl. 59)
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a violação do art. 98 do CPC, aduzindo que estão preenchidos os requisitos para a concessão dos benefícios da justiça gratuita em favor da recorrente, trazendo os seguintes argumentos:
+No caso em exame, temos uma situação particularizada, pois o fato de a Recorrente ter residido em local nobre não afasta a sua presunção de hipossuficiência econômica, uma vez que o imóvel pertence ao seu ex-companheiro, tanto que, deixou o imóvel no curso da demanda. Ademais, comprovou que no ano de 2018 exercia atividade remuneratória cujos vencimentos líquidos não ultrapassavam a quantia de R$3.000,00 (três mil reais).
+Assim sendo, merece reforma a decisão recorrida, haja vista que para concessão da justiça gratuita não é necessário caráter de miserabilidade do requerente, pois a simples afirmação da parte no sentido de que não está em condições de pagar as custas do processo e os honorários de advogado, sem prejuízo próprio ou da família, é suficiente para o deferimento do benefício. (art. 98 do NCPC). (fl. 150)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em exame, os documentos apresentados pela agravante para instrução do pedido de gratuidade de justiça não corroboram a hipossuficiência alegada pela mesma.
+De acordo com o processado, tem-se que a recorrente apresentou documentação incompleta em relação ao que foi determinado em fls. 20/21, deixando, por exemplo, de comprovar a condição de isenção de IR alegada em relação a exercícios passados.
+Contudo, da documental acostada, é possível extrair que a renda líquida mensal da agravante ultrapassa o valor de R$ 4.000,00, como informam fls. 48/49, do Instrumento, não havendo como subsistir qualquer dúvida quanto à capacidade financeira atual da mesma para fazer frente às despesas do processo. (fl. 61)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
