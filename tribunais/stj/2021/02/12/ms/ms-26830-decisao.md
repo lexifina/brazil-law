@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Mandado de Segurança impetrado pela Procuradoria-Geral do Estado do Pará, originalmente, perante o Tribunal Regional Federal da 1ª Região, apontando como autoridade coatora o Juiz da 3ª Vara Federal Criminal da Seção Judiciária do Pará, em razão de decisão proferida nos autos do Mandado de Segurança n. 1013460.11.2020.401.3900.
+O impetrante requereu a revogação da decisão judicial prolatada, para a declaração de nulidade de inquérito policial instaurado pela Superintendência da Polícia Federal no Estado do Pará (IPL n. 2020.042915), com a finalidade de apurar irregularidades na aquisição de respiradores pulmonares no contexto da pandemia de Covid-19, sob o fundamento de que as verbas utilizadas não seriam provenientes da União, razão pela qual a Polícia Federal não teria atribuição para conduzir as investigações.
+O pedido de liminar foi indeferido (fls. 204-205), tendo a autoridade indicada como coatora prestado informações às fls. 214-215.
+O Tribunal Regional Federal da 1ª Região, por meio da decisão de fls. 232-233, determinou a remessa dos autos ao Superior Tribunal de Justiça, em razão da avocação por esta Corte Superior, do Inquérito Policial n. 2020.042915 e cautelares a ele vinculadas.
+É o relatório. Decido.
+A mudança do quadro fático-normativo que fundamentou a impetração do presente writ, ocasionada pela avocação das investigações pelo Superior Tribunal de Justiça, ensejou a prejudicialidade do processo por perda superveniente de objeto.
+Verifica-se, na hipótese, que a pretensão mandamental especificamente deduzida na inicial - consubstanciada na suposta ausência de atribuição da Polícia Federal para promover a investigação acerca de possíveis irregularidades na aquisição de equipamentos médico-hospitalares pelo Governo do Estado do Pará, no contexto da pandemia de Covid-19 - restou integralmente esvaziada com a avocação das apurações por esta Corte Superior, em razão da identificação do possível envolvimento do Governador do Estado, detentor de foro por prerrogativa de função perante o Superior Tribunal de Justiça (art. 105, I, a, da Constituição Federal), nos crimes investigados.
+Ante o exposto, em razão da perda superveniente de seu objeto e com fulcro no art. 34, XI, do RISTJ, julgo prejudicado o presente mandado de segurança.
+Arquivem-se os presentes autos.
+Publique-se.
