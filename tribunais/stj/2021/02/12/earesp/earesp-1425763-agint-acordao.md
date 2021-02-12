@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EMRECURSO ESPECIAL. MATÉRIA QUE NÃO SE PRESTA A APRECIAÇÃO PELA VIA ELEITA.OCORRÊNCIA DE OMISSÃO OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL NO JULGADO DACORTE DE ORIGEM. QUESTIONAMENTO. IMPOSSIBILIDADE. JULGADO DE ACORDO COM AJURISPRUDÊNCIA DESTA CORTE.
+I - Os embargos de divergência possuem escopo de unificar a jurisprudênciadesta Corte proferida por órgãos distintos, de modo a evitar a reiteração de decisões diametralmente opostas em casos idênticos.
+II - "Nos termos da jurisprudência vigente nesta Corte Superior, não há sefalar em dissídio jurisprudencial com relação ao entendimento firmado emacórdão embargado quanto à existência ou não de ofensa ao disposto no art.535 do Código de Processo Civil de 1973 (atual art. 1.022 do CPC/2015), namedida em que a verificação de ocorrência ou não dos vícios elencadosnesse dispositivo processual depende das circunstâncias particulares docaso concreto" (AgInt nos EAREsp n. 543.036/SP, Corte Especial, Rel. Min.Francisco Falcão, DJe de 27/10/2017)
+Agravo interno desprovido.
+RELATÓRIO
+Trata-se de Agravo Interno interpostopor LEONIR SANGALETTI, em face de decisão monocrática proferida pela Presidência desta Corteàs fls. 349 - 351, em que indeferi liminarmente osEmbargos de Divergência, opostos às fls. 326 - 344, com fulcro no artigo266-C do RISTJ, pelo nãocabimento do recurso para a apreciação de violação do artigo 535doCódigo de Processo Civil de 1973, em razão das situações fáticos-processuaisdiferenciadas e da necessidade de análise individualizada de cada casoconcreto.
+Alegao agravante, em suas razões, que é "equivocada a decisão de indeferimento liminar do Recurso, pois a discussão trazida é a análise do erro material do julgado, que não foi enfrentada, e pode ser retificada a qualquer tempo, inclusive de ofício, conforme fundamenta o EDcl nos EDcl no AREsp 44510/PB, do Min. Antônio Carlos Ferreira".
+Assevera que "busca-se o reconhecimento da infringência aos arts.1022 e inciso IV, §1º do art. 489 do CPC no julgado, observada a falta de enfrentamento dos fundamentos da defesa, sob pena de se obstaculizar o acesso à instância extraordinária".
+Requer, ao final, o conhecimento e provimento do presente recurso.
+Intimada, a partes agravadas não apresentaramimpugnação, conforme certidão de fls. 366 e 367.
+O agravo restou distribuído nos termos do art. 21-E, § 2º, do RegimentoInterno do Superior Tribunal de Justiça (fl. 369).
+Submeto o feito à col. Corte Especial.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EMRECURSO ESPECIAL. MATÉRIA QUE NÃO SE PRESTA A APRECIAÇÃO PELA VIA ELEITA.OCORRÊNCIA DE OMISSÃO OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL NO JULGADO DACORTE DE ORIGEM. QUESTIONAMENTO. IMPOSSIBILIDADE. JULGADO DE ACORDO COM AJURISPRUDÊNCIA DESTA CORTE.
+I - Os embargos de divergência possuem escopo de unificar a jurisprudênciadesta Corte proferida por órgãos distintos, de modo a evitar a reiteração de decisões diametralmente opostas em casos idênticos.
+II - "Nos termos da jurisprudência vigente nesta Corte Superior, não há sefalar em dissídio jurisprudencial com relação ao entendimento firmado emacórdão embargado quanto à existência ou não de ofensa ao disposto no art.535 do Código de Processo Civil de 1973 (atual art. 1.022 do CPC/2015), namedida em que a verificação de ocorrência ou não dos vícios elencadosnesse dispositivo processual depende das circunstâncias particulares docaso concreto." (AgInt nos EAREsp n. 543.036/SP, Corte Especial, Rel. Min.Francisco Falcão, DJe de 27/10/2017)
+Agravo interno desprovido.
+VOTO
+O presente agravo interno não mereceprosperar.
+Ab initio, imperioso consignar que o recurso de divergência possui comopropósito a solução de controvérsia quando existente divergência deentendimentos e decisões frente a uma mesma tese jurídica confrontada,tendo por finalidade uniformizar a jurisprudência do próprio SuperiorTribunal de Justiça, não sendo cabíveis para sanar eventual injustiça nadecisão atacada (art. 266 do RI/STJ e art. 1.043 do CPC/2015).
+Nesse diapasão, verifica-se, nos termos do art. 266, §4º do RISTJ, que aexistência de similitude fática entre os acórdãos confrontados éabsolutamente essencial, competindo a parte a realização do cotejoanalítico entre os arestos supostamente divergentes.
+Pois bem. Verifica-se que o inconformismo objeto do presente agravointerno cinge-se a questão processual, qual seja, verificar se a Corte deorigem teria incorrido em omissão ou negativa de prestação jurisdicional,violando os art. 489 e 1.022 do Código de Processo Civil.
+Ocorre que a verificação da ocorrência de omissão ou negativa de prestaçãojurisdicional depende da análise individualizada de cada caso concreto,relativamente às suas particularidades, inviabilizando, assim, aconstatação da semelhança entre os casos confrontados.
+A corroborar com o posicionamento sufragado, trago a baila os seguintesprecedentes:
+"AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. DISCUSSÃO ACERCA DA PRESTAÇÃOJURISDICIONAL APLICADA AO CASO CONCRETO. ART. 535 DO CPC DE 1973.CORRESPONDENTE AO ART. 1.022 DO CPC/15. IMPOSSIBILIDADE. AUSÊNCIA DEFUNDAMENTOS CAPAZES DE MODIFICAR O ACÓRDÃO IMPUGNADO. AGRAVO IMPROVIDO.
+I - Nos embargos de divergência, os agravantes sustentam a ocorrência dedissídio jurisprudencial, alegando negativa de prestação jurisdicional nocaso concreto.
+II - Nos termos da jurisprudência vigente nesta Corte Superior, não há sefalar em dissídio jurisprudencial com relação ao entendimento firmado emacórdão embargado quanto à existência ou não de ofensa ao disposto no art.535 do Código de Processo Civil de 1973 (atual art. 1.022 do CPC/2015), namedida em que a verificação de ocorrência ou não dos vícios elencadosnesse dispositivo processual depende das circunstâncias particulares docaso concreto. Nesse sentido: AgInt nos EAREsp 805.015/SP, Rel. MinistroJorge Mussi, Corte Especial, julgado em 16/8/2017, DJe 24/8/2017).
+III - Agravo interno improvido" (AgInt nos EAREsp n. 543.036/SP, CorteEspecial, Rel. Min. Francisco Falcão, DJe de 27/10/2017, grifei).
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. EXAME DE ALEGADO DISSENSOSOBRE A EXISTÊNCIA DOS VÍCIOS DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE NOCASO CONCRETO. NÃO CABIMENTO.
+1. Hipótese em que a parte alega a existência de divergência
+jurisprudencial quanto à existência de omissões, obscuridades econtradições, nos termos dos arts. 619 e 620 do CPP.
+2. Consoante a jurisprudência do STJ, os Embargos de Divergência não sãoadequados à discussão sobre suposto dissenso a respeito dos vícios deomissão, de obscuridade e de contradição, o que demanda análise dasparticularidades de cada caso, e não propriamente do confronto de teses(AgRg nos EAREsp 380.942/ES, Rel. Ministra Laurita Vaz, Corte Especial,DJe 1º/7/2015; EDcl nos EREsp 1.395.398/CE, Rel. Ministro Raul Araújo,Corte Especial, DJe 2/2/2015).
+3. Os Embargos de Divergência têm a finalidade de uniformizar ajurisprudência do Tribunal mediante o inarredável pressuposto de que,diante da mesma premissa fática, os órgãos julgadores tenham adotadosoluções jurídicas conflitantes. Não há como utilizá-lo da formapretendida pela parte, ou seja, como meio adequado ao rejulgamento doRecurso Especial (EAg 1.298.040/RS, Rel. Ministro Ari Pargendler, CorteEspecial, DJe 12/8/2013).
+4. Agravo Regimental não provido" (AgRg nos EAREsp n. 650.334/RR, CorteEspecial, Rel. Min. Herman Benjamin, DJe de 19/05/2016, grifei).
+"AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. DISCUSSÃO ACERCA DA PRESTAÇÃOJURISDICIONAL APLICADA AO CASO CONCRETO. ARTIGO 535 DO CPC DE 1973.IMPOSSIBILIDADE. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE MODIFICAR O ACÓRDÃOIMPUGNADO. AGRAVO IMPROVIDO.
+1. O provimento do agravo interno requer a apresentação de fundamentoscapazes de modificar a decisão impugnada.
+2. No caso em exame, no julgamento do acórdão embargado, a Primeira Turmareconheceu a inexistência de vícios passíveis de serem corrigidos por meiodos embargos de declaração, constatando-se mero inconformismo dosembargantes com o deslinde da controvérsia.
+3. Nos embargos de divergência os agravantes sustentam a ocorrência dedissídio jurisprudencial, alegando negativa de prestação jurisdicional nocaso concreto.
+4. Nos termos da jurisprudência vigente nesta Corte Superior, não há sefalar em dissídio jurisprudencial com relação ao entendimento firmado emacórdão embargado quanto à existência ou não de ofensa ao disposto noartigo 535 do Código de Processo Civil de 1973 atual artigo 1.022 doCPC/2015 na medida em que a verificação de ocorrência ou não dos vícioselencados nesse dispositivo processual depende das circunstânciasparticulares do caso concreto. Precedentes.
+5. Agravo interno improvido" (AgInt nos EAREsp n. 805.015/SP, CorteEspecial, Rel. Min. Jorge Mussi, DJe de 24/08/2017, grifei).
+Assim, não há como se acolher a tese da primazia do julgamento de méritona hipótese, ante a constatação de vício insuperável, concernente aopróprio cerne uniformizante do recurso.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
