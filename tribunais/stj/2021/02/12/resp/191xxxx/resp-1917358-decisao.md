@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por Elaine Aparecida Mumbelli Gonçalves Dias, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (e-STJ, fl. 522):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. JUÍZO DA ORIGEM QUE JULGA IMPROCEDENTE O PEDIDO INICIAL. INSURGÊNCIA DA AUTORA.
+CONTRATO DE SEGURO DE VIDA EM GRUPO. PRETENDIDA COBERTURA PARA DOENÇA OCUPACIONAL. CONSUMIDORA QUE TEM O DIREITO DE SER INFORMADA ACERCA DE TODAS AS CARACTERÍSTICAS DO CONTRATO E DAS SUAS CLÁUSULAS MAIS RESTRITIVAS. INTERESSADA QUE, NA EXORDIAL, DEMONSTRA TER CIÊNCIA DA ESPÉCIE DE COBERTURA CONTRATUAL. INEXISTÊNCIA DE ABUSIVIDADE NO CASO CONCRETO.
+ALMEJADO PAGAMENTO DA INTEGRALIDADE DO CAPITAL SEGURADO PREVISTO NA APÓLICE PARA OS CASOS DE INVALIDEZ FUNCIONAL POR DOENÇA. AUTORA QUE DEFENDE RESTAR COMPROVADA SUA INVALIDEZ E FAZER JUS À INDENIZAÇÃO NO VALOR INTEGRAL PREVISTO NA APÓLICE. INVIABILIDADE DE ALBERGUE. NÃO CARACTERIZAÇÃO DE ENFERMIDADE QUE ACARRETA A PERDA DA EXISTÊNCIA INDEPENDENTE DA SEGURADA. LAUDO PERICIAL, ADEMAIS, QUE ATESTA A INEXISTÊNCIA DE INVALIDEZ/INCAPACIDADE PARA O TRABALHO. PREVALÊNCIA DA PERÍCIA QUE DEMONSTRA A ATUAL CONDIÇÃO DA REQUERENTE, CONSIDERANDO A EVOLUÇÃO DE SEU QUADRO CLÍNICO. DEVER DE INDENIZAR NÃO CONFIGURADO. SENTENÇA MANTIDA.
+HONORÁRIOS RECURSAIS. SENTENÇA PROFERIDA NA VIGÊNCIA DO CPC/2015. ARBITRAMENTO EM FAVOR DOS ADVOGADOS DA RÉ QUE SE MOSTRA DEVIDO.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados.
+Nas razões do apelo especial, a recorrente alega, além da existência de divergência jurisprudencial, violação dos arts. 1.022 do Código de Processo Civil de 2015; e 6º, II, III e V, 46, 47, 51, IV, XV, § 1º, II, do Código de Defesa do Consumidor.
+Assevera a existência de omissão no aresto relevante ao julgamento da lide, notadamente quanto aos fundamentos legais para a determinação da perícia.
+Aduz o direito ao recebimento da totalidade da indenização securitária no caso de invalidez para atividade habitual.
+Requer a concessão dos benefícios da assistência judiciária gratuita.
+Contrarrazões às fls. 618-626 (e-STJ).
+O apelo extremo foi admitido na origem (fls. 629-632, e-STJ), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+Com efeito, o presente recurso, entre outras matérias, trata de questão de direito que foi afetada pela Segunda Seção do STJ como representativa de controvérsia, a ser julgada sob o rito dos recursos especiais repetitivos, conforme previsão dos arts. 1.036 e 1.037 do CPC/2015.
+Cumpre destacar que as decisões de afetação nos autos dos REsps n. 1.845.943/SP e 1.867.199/SP, ambas de relatoria do Ministro Ricardo Villas Bôas Cueva, delimitaram o Tema 1.068 da seguinte forma: "definir a legalidade da cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado".
+Confira-se a respectiva ementa:
+PROPOSTA DE AFETAÇÃO NO RECURSO ESPECIAL. RITO DOS RECURSOS REPETITIVOS. SEGURO DE VIDA EM GRUPO COM ADICIONAL DE COBERTURA POR INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA (IFPD). DEFINIÇÃO. PERDA DAS ATIVIDADES AUTONÔMICAS DA VIDA DIÁRIA. DISTINÇÃO. INCAPACIDADE LABORAL. EXAME DE LEGALIDADE E ABUSIVIDADE. 1. Delimitação da controvérsia: definir a legalidade da cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado. 2. Recurso especial afetado ao rito do artigo 1.036 do CPC/2015. (ProAfR no REsp n. 1.845.943/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 6/10/2020, DJe 9/10/2020).
+Nesse contexto, em observância ao princípio da economia processual e à própria finalidade do novo CPC, corroborada pelo art. 256-L do RISTJ, incluído pela Emenda Regimental n. 24, de 2016, faz-se necessário o retorno dos autos à origem, onde ficarão sobrestados até a publicação dos acórdãos proferidos nos recursos representativos da controvérsia.
+Eis o teor da disposição regimental:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito: I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator; II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Ante o exposto, determino a devolução dos autos à Corte de origem, com a respectiva baixa, a fim de que, após a publicação dos acórdãos a serem proferidos nos recursos representativos da controvérsia, sejam tomadas as providências previstas nos arts. 1.039, caput, e 1.040 do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. PERDA DAS ATIVIDADES AUTONÔMICAS DA VIDA DIÁRIA. INCAPACIDADE LABORAL. EXAME DE LEGALIDADE E ABUSIVIDADE. MATÉRIA AFETADA AO RITO DOS RECURSOS REPETITIVOS (PROAFR NO RESP 1.845.943/SP E NO RESP 1.867.199/SP). TEMA 1.068/STJ. DETERMINADA A DEVOLUÇÃO DOS AUTOS À CORTE DE ORIGEM.
