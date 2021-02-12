@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por MARLON CAIO LOPES DA SILVA E SÁ contra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco (HC n. 0014326-82.2020.8.17.9000).
+Infere-se dos autos que o paciente foi preso em flagrante, custódia convertida em preventiva, por suposta infração ao art. 155, § 4º, IV, e § 6º, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem nos termos da seguinte ementa (e-STJ fl. 387):
+EMENTA: HABEAS CORPUS LIBERATÓRIO. furto de semovente. alegação de ausência dos requisitos do art. 312 do CPP. inocorrência. ameaça à ordem pública. paciente reincidente.substituição por medidas cautelares diversas da prisão e pedido de prisão domiciliar.impossibilidade. CONSTRANGIMENTO ilegal NÃO CONFIGURADO. DENEGAÇÃO DA ORDEM.DECISÃO UNÂNIME. 1. No caso em apreço, a prisão preventiva se encontra devidamente fundamentada, vez que há prova da materialidade, indícios suficientes de autoria e necessidade de garantir a ordem pública, ante o risco concreto de reiteração delitiva, por ser o paciente reincidente. 2. A aplicação das medidas cautelares previstas no art. 319 do CPP só é possível quando ausentes os requisitos da prisão preventiva, nos termos do art. 321 do CPP.3. Quanto ao pedido de prisão domiciliar, esta não constitui direito subjetivo do acusado, mas, sim, faculdade do juiz, que, diante das hipóteses do art. 318 do CPP, e das particularidades do caso concreto, deverá verificar a pertinência do deferimento ou não da medida, não tendo o paciente demonstrado ser o único responsável ou ser imprescindível aos cuidados dos filhos menores de idade, que se encontram com a avó paterna, além de ter cometido o crime, em tese, na companhia do seu filho menor, expondo-o diretamente à prática delitiva. 4. Constrangimento ilegal não configurado. Denegação da ordem.
+Nas razões do presente recurso, a defesa alega, em síntese, não estarem presentes os requisitos autorizadores da medida constritiva cautelar previstos no art. 312 do CPP, ressaltando que "o recorrente é reincidente, no entanto, não é reincidente específico, ou seja, não há como assentar o argumento em uma possível reiteração delitiva no crime de furto" (e-STJ fl. 405).
+Assevera também que o não comparecimento do recorrente na audiência admonitória de sua condenação anterior não pode ser levado em consideração,pois "o réu não tem culpa de não ter sido encontrado na residência" (e-STJ fl. 405).
+Defende ser suficiente, no caso, a aplicação de medidas cautelares alternativas.
+Sustenta, por fim, que o réu possui dois filhos menores de 12 anos e que ele é o único comreal capacidade de cuidar dos seus filhos e de dar-lhes o sustento necessário" (e-STJ fl. 410), fazendo jus portanto à substituição de sua custódia por prisão domiciliar, nos termos do art. 318, VI, do CPP.
+Diante disso, requer a revogação da prisão preventiva do recorrente.
+Contrarrazões às e-STJ fls. 421/426.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso (e-STJ fl. 433).
+É o relatório. Decido.
+Consoante informações obtidas no endereço eletrônico do Tribunal de origem, em 26/1/2021, o Juízo processante condenou o recorrente à pena de 8 meses de reclusão, em regime aberto, momento em que foi determinada a expedição do alvará de soltura.
+Nesse contexto, fica sem objeto o pedido contido na inicial.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso.
+Intimem-se.
