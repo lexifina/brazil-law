@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por ELCIO PEREIRA DOS SANTOS contra acórdão não ementado proferido nos autos do HC 2044726-30.2020.8.26.0000, cuja ordem foi denegada pelo Tribunal de Justiça do Estado de São Paulo.
+Consta nos autos que, após a anulação da primeira sentença condenatória e de ter sido posto em liberdade, o recorrente foi novamente condenado pelo Conselho Popular à pena de 24 anos de reclusão, em regime fechado, pela prática do delito previsto no artigo 121, §2 2 , incisos II, III, IV e VI, na forma do § 2 2 -A, incisos I e II, do Código Penal, ocasião em que foi restabelecida sua prisão preventiva.
+Nesta Corte, o recorrente alega, em síntese, que com a anulação do primeiro julgamento foi posto em liberdade mediante medidas cautelares e "uma vez garantida a liberdade do recorrente até que finda a presunção de inocência, ou seja, até que a culpa fosse definitivamente formada, a sua constrição cautelar só poderia decorrer em virtude de fatos novos, contemporâneos e de elementos que pudessem justificar novo decreto preventivo". Aduz que "a gravidade do delito e a capitulação jurídica dos fatos, jamais poderiam ser novamente invocados para justificar a medida prisional." (e-STJ, fl. 1604).
+Sustenta que "a condenação, por si só, não é elemento apto a justificar a prisão invocando, genericamente, a necessidade de acautelar a ordem pública. A prisão preventiva deve preencher uma série de requisitos, frise-se todos cumulativos, sendo certo que o édito condenatório isoladamente não é capaz de impor a prisão efêmera."
+Destaca, ainda, que "determinar a prisão em decorrência da decisão dos jurados, contraria de uma só vez o artigo o artigo 313, §2º, do CPP, o qual reza que não será admitida a decretação da prisão preventiva com a finalidade de antecipação de cumprimento de pena, bem como a decisão prolatada pelo plenário do Augusto STF nas ADCS 43,44 e 54, que proíbe a prisão antes do trânsito em julgado."(e-STJ, fl. 1607).
+Aduz que "a anterior custódia cautelar do recorrente, que durou mais de 03 (três) anos, foi relaxada pelo Tribunal a quo, não sendo suficiente para embasar um novo decreto prisional a condenação pelo Tribunal do Júri, eis que existe recurso de apelação interposto pela defesa e a matéria a ser desenvolvida pode mais uma vez submetê-lo a um novo julgamento, ou seja, não existe o trânsito em julgado da decisão preferida pelo Plenário do Júri." (e-STJ, fl. 1608).
+Ao final, requer o provimento do recurso para que seja posto em liberdade, com cumprimento de cautelares alternativas.
+É o relatório.
+Decido.
+Da análise dos autos, note-se que o presente recurso ordinário emhabeas corpus,distribuído em 26/10/2020, constituimera reiteração do pedido formulado no HC 603.064/SP, de minha relatoria, cuja liminar foi indeferida em 06/08/2020,e encontra-se concluso para julgamento,isso porque háidentidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão(HC 2044726-30.2020.8.26.0000), o queconstitui óbice ao seu conhecimento.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DO PLEITO FORMULADO NO HCN.º 481.921/DF. LITISPENDÊNCIA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL.AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido formulado no HC n.º 483.855/DF é mera reiteração daqueleveiculado no HC n.º 481.921/DF, pois há identidade de partes, de pedido ede causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesmamatéria
+2. Não podem ser processados, nesta Corte, concomitantemente,habeas corpus nos quais se constata litispendência, instituto que seconfigura exatamente quando há igualdade de partes, de objeto e de causade pedir.
+3. Agravo Regimental desprovido."
+(AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em05/02/2019, DJe 19/02/2019, grifamos)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE HABEASCORPUS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDOS. NÃO CABIMENTO DENOVA IMPETRAÇÃO. DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUSMANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se conhece de habeas corpusque deduz pretensão já apreciada e julgada em anterior impetração.
+2. Hipótese em que a irresignação manifestada no presente habeas corpustem por objeto as mesmas questões já debatidas por esta Corte nojulgamento do HC n. 451.646/SP, impetrado em favor do mesmo paciente,oportunidade em que o Superior Tribunal de Justiça emitiu juízo sobre alegalidade dos fundamentos exarados pelo Tribunal local para não aplicar oredutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, para refutar atese de ocorrência de bis in idem na primeira e terceira fases dadosimetria e para manter o regime prisional mais gravoso, prejudicadas asdemais teses.
+3. (..).
+4. Agravo regimental improvido."
+(AgRg no HC 469.249/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTATURMA, julgado em 23/10/2018, DJe 31/10/2018, grifos nossos)
+Ante o exposto, em que pese o pedido de sustentação oral,não conheço deste recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
