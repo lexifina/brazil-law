@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por JURANDI TEIXEIRA DA SILVA contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+ACIDENTE DO TRABALHO. BENEFÍCIO ACIDENTÁRIO. ALEGAÇÃO DE SEQUELA ACIDENTÁRIA NO PUNHO ESQUERDO E LESÕES NA COLUNA E NOS MEMBROS SUPERIORES (PUNHO E OMBRO DIREITOS). INEXISTÊNCIA DE INCAPACIDADE LABORATIVA, O TRABALHADOR NÃO FAZ JUS AO AMPARO INFORTUNÍSTICO.NULIDADE DA SENTENÇA. INEXISTÊNCIA.CERCEAMENTO DE PROVA E DEFESA.INOCORRÊNCIA. PEDIDO DE REALIZAÇÃO DE VISTORIA NO LOCAL DE TRABALHO.INDEFERIMENTO. LAUDO JUDICIAL REALIZADO NESTES AUTOS NÃO COMBATIDO CIENTIFICAMENTE. PROVA TÉCNICA SUFICIENTE PARA O ADEQUADO DESATE DA CONTENDA.APELO IMPROVIDO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+No recurso especial, o recorrente aponta como violados os arts. 20, §2º, 21 e 86, todos da Lei 8213/91; art. 104 do Decreto 3048/99 e art. 369 do CPC, sustentando, em síntese, que o Tribunal a quo deixou de bem valorar o conjunto probatório constante dos autos, o qual demonstraria as patologias que foram decorrentes de acidente de trabalho e atividades laborativas.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Verifica-se que a irresignação do recorrente acerca da demonstração do nexo causal entre as patologias e as atividades exercidas pelo obreiro, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu, in verbis:
+Em suma, no caso em epigrafe, para que o obreiro pudesse fazer jus a qualquer beneficio acidentário, não bastaria a existência de uma patologia, sendo indispensável, todavia, que ela fosse decorrente do exercicio laboral /acidente do trabalho e causasse uma incapacidade para o desempenho de suas atividades laborativas, o que, entretanto, no caso em debate, não ocorre.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial
+Publique-se. Intimem-se.
