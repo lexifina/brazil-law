@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo contra inadmissão de recurso especial interposto por RONALDO DA SILVEIRA BRAVO. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. PRETENSÃO PRINCIPAL DECLARADA DE COBRANÇA DOS EXPURGOS INFLACIONÁRIOS REFERENTES AOS PLANOS ECONÔMICOS DD 1987, 1989 E 1990. SENTENÇA QUE RECONHECE A PRESCRIÇÃO. PRETENSÃO PRINCIPAL FULMINADA PELA PRESCRIÇÃO MUITO ANTES DE PROPOSTA A AÇÃO CAUTELAR. INCIDÊNCIA DO PRAZO PRESCRICIONAL DE 20 ANOS. ARTIGO 177 DO CÓDIGO CIVIL DE 1916. FATO OCORRIDO NA VIGÊNCIA DO CÓDIGO CIVIL DE 1916, TENDO DECORRIDO MAIS DA METADE DO LAPSO PRESCRICIONAL, COM A ENTRADA EM VIGOR DO CÓDIGO CIVIL DE 2002. APLICAÇÃO DOS PRAZOS DO CÓDIGO CIVIL ANTERIOR. INTELIGÊNCIA DO ARTIGO 2.028 DO CÓDIGO CIVIL DE 2002. RECONHECIMENTO DA PRESCRIÇÃO NO BOJO DO PROCESSO CAUTELAR. POSSIBILIDADE. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. SENTENÇA QUE NÃO MERECE REPARO. RECURSO NÃO PROVIDO" (fl. 444, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, o recorrente aponta violação dos artigos 168, IV, do Código Civil de 1916, 6º, II e VII e 52 do Código de Defesa do Consumidor, alegando falha na prestação do serviço por parte da Instituição bancária/recorrida. Sustenta em síntese, que não houve o implemento do prazo prescricional.
+Postula a reforma do acórdão estadual, a fim de afastar a ocorrência da prescrição do autor de obter os extratos das contas bancárias.
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+Ressalta-se que esta Corte Superior de Justiça, nojulgamento do REsp n. 1.133.872/PB, pacificou entendimento de que é cabível a inversão do ônus da prova em favor do consumidor para o fim de determinar às instituições financeiras a exibição de extratos bancários, enquanto não estiver prescrita a eventual ação sobre eles, tratando-se de obrigação decorrente de lei e de integração contratual compulsória, não sujeita à recusa ou condicionantes, tais como o adiantamento dos custos da operação pelo correntista e a prévia recusa administrativa da instituição financeira em exibir os documentos, com a ressalva de que ao correntista, autor da ação, incumbe a demonstração da plausibilidade da relação jurídica alegada, com indícios mínimos capazes de comprovar a existência da contratação, devendo, ainda, especificar, de modo preciso, os períodos em que pretenda ver exibidos os extratos.
+A propósito:
+"RECURSO ESPECIAL REPETITIVO (ART. 543-C DO CPC) - AÇÃO DE COBRANÇA - EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA - PLANOS BRESSER E VERÃO - PRELIMINAR - PRESCRIÇÃO VINTENÁRIA - NÃO-OCORRÊNCIA - EXIBIÇÃO DOS EXTRATOS BANCÁRIOS - INVERSÃO DO ÔNUS DA PROVA EM FAVOR DA CORRENTISTA - POSSIBILIDADE - OBRIGAÇÃO DECORRENTE DE LEI - CONDICIONAMENTO OU RECUSA - INADMISSIBILIDADE - RESSALVA - DEMONSTRAÇÃO DE INDÍCIOS MÍNIMOS DA EXISTÊNCIA DA CONTRATAÇÃO - INCUMBÊNCIA DO AUTOR (ART. 333, I, DO CPC) - ART. 6º DA LEI DE INTRODUÇÃO AO CÓDIGO CIVIL - AUSÊNCIA DE PREQUESTIONAMENTO - INCIDÊNCIA DO ENUNCIADO N. 211/STJ - NO CASO CONCRETO, RECURSO ESPECIAL IMPROVIDO.
+I - Preliminar: nas ações em que se discutem os critérios de remuneração de caderneta de poupança e são postuladas as respectivas diferenças de correção monetária e dos juros remuneratórios, o prazo prescricional é de vinte anos, não transcorrido, na espécie;
+II - A obrigação da instituição financeira de exibir os extratos bancários necessários à comprovação das alegações do correntista decorre de lei, já que se trata de relação jurídica tutelada pelas normas do Código do Consumidor, de integração contratual compulsória, não podendo ser objeto de recusa nem de condicionantes, em face do princípio da boa-fé objetiva;
+III - A questão relativa ao art. 6º da LICC não foi objeto de debate no v. acórdão recorrido, ressentindo-se o especial, portanto, do indispensável prequestionamento, incindindo, na espécie, o Enunciado n. 211/STJ;
+IV - Para fins do disposto no art. 543-C, do Código de Processo Civil, é cabível a inversão do ônus da prova em favor do consumidor para o fim de determinar às instituições financeiras a exibição de extratos bancários, enquanto não estiver prescrita a eventual ação sobre eles, tratando-se de obrigação decorrente de lei e de integração contratual compulsória, não sujeita à recusa ou condicionantes, tais como o adiantamento dos custos da operação pelo correntista e a prévia recusa administrativa da instituição financeira em exibir os documentos, com a ressalva de que ao correntista, autor da ação, incumbe a demonstração da plausibilidade da relação jurídica alegada, com indícios mínimos capazes de comprovar a existência da contratação, devendo, ainda, especificar, de modo preciso, os períodos em que pretenda ver exibidos os extratos;
+V - Recurso especial improvido, no caso concreto"
+(REsp 1133872/PB, Rel. Ministro MASSAMI UYEDA, SEGUNDA SEÇÃO, julgado em 14/12/2011, DJe 28/03/2012).
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. POUPANÇA. EXIBIÇÃO DE EXTRATOS BANCÁRIOS. INTERESSE DE AGIR
+1. Não afasta o interesse de agir no pedido de exibição de documentos a circunstância de a instituição financeira haver enviado extratos bancários ao titular da caderneta de poupança.
+2. Há plausibilidade no direito de exibição de extratos bancários, uma vez que esta Corte reconhece o dever que as instituições financeiras têm de exibir documentos comuns às partes, enquanto não estiver prescrita a eventual ação pertinente.
+3. Agravo regimental a que se nega provimento"
+(AgRg no AREsp 622.246/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/03/2015, DJe 20/03/2015).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXIBIÇÃO DE DOCUMENTOS COMUNS ÀS PARTES. PRECEDENTE DA SEGUNDA SEÇÃO. CONFORMIDADE DA DECISÃO RECORRIDA COM A JURISPRUDÊNCIA DESTA CORTE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DE PROVA. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2. É pacífico o entendimento desta Corte de que o correntista tem direito de solicitar a exibição dos documentos comuns às partes, sobretudo na hipótese em que a instituição financeira tem a obrigação de mantê-los enquanto não sobrevinda prescrição de eventual ação que com tal documento se deseja instruir.
+3. A Segunda Seção do STJ, em julgamento submetido ao rito dos recursos repetitivos, pacificou o entendimento de que "é cabível a inversão do ônus da prova em favor do consumidor para o fim de determinar às instituições financeiras a exibição de extratos bancários, enquanto não estiver prescrita a eventual ação sobre eles, tratando-se de obrigação decorrente de lei e de integração contratual compulsória, não sujeita à recusa ou condicionantes, tais como o adiantamento dos custos da operação pelo correntista e a prévia recusa administrativa da instituição financeira em exibir os documentos."
+(REsp n. 1.133.872/PB, Relator Ministro MASSAMI UYEDA, DJe 28/3/2012).
+4. Agravo regimental a que se nega provimento"
+(AgRg no AREsp 425.576/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/05/2014, DJe 28/05/2014).
+No caso ora em debate, o tribunal local reconheceu a ocorrência da prescrição da pretensão do agravante amparado na seguinte fundamentação:
+"(..)
+Feita tais considerações, cumpre verificar se efetivamente a pretensão principal se encontra prescrita.
+Na hipótese dos autos, tratando-se de fato ocorrido na vigência do Código Civil de 1916, já tendo decorrido mais da metade do lapso prescricional, com a entrada em vigor do Código Civil, em 12.1.2003, de acordo com o art. 2.028 do novo Código, se aplicam os prazos do Código anterior, de modo que o prazo de conservação dos documentos revela -se de 20 anos, em conformidade com o disposto no artigo 177 do Código Civil de 1916.
+Desse modo, ao propor a ação, em 2013, já havia fluído há muito o prazo prescricional para a pretensão principal, cujo prazo do último plano se consumou em 2010
+Assim, correta a sentença que reconheceu a prescrição, não merecendo qualquer reparo" (fl. 448, e-STJ).
+Desse modo, tendo sidoconstatada a ocorrência da prescrição da pretensão principal, a reforma do julgado estadualdemandaria o reexame dos fatos e das provas presentes no processo, o que é incabível na estreita via especial, tendo em vista o que dispõe a Súmula 7/STJ.
+Demais disso, a jurisprudência do STJ possui entendimento firmado no sentido de que a prescrição pode ser reconhecida no procedimento cautelar preparatório. Vejamos:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. AÇÃO CAUTELAR. EXIBIÇÃO DE DOCUMENTOS. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não se verifica ofensa ao art. 535 do CPC , tendo em vista que o acórdão recorrido analisou, de forma clara e fundamentada, todas as questões pertinentes ao julgamento da causa, ainda que não no sentido invocado pela parte.
+2. Conforme o art. 810 do CPC, é lícito ao juiz, na cautelar preparatória, desde que provocado para tanto, declarar a prescrição ou a decadência da pretensão principal. No entanto, tal questão pode vir a ser dirimida na ação principal.
+3. A falta de prequestionamento de matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula 211 do STJ).
+4. Ainda que se trate de matéria de ordem pública, a análise da prescrição não dispensa o requisito do prequestionamento. Precedentes.
+5. Agravo regimental a que se nega provimento.
+(AgRg no Ag 925.967/SE, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 09/06/2009, DJe 23/06/2009).
+Por fim, de acordo com iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Nesse sentido:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. (..) CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA PERICIAL. VALOR DA MULTA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+5. Agravo interno não provido"
+(AgInt no AREsp 1.219.550/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 17/5/2018, DJ 24/5/2018).
+Ante o exposto, conheço do agravo e nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (dozepor cento) sobre o valor da causa, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
