@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO NOVO CPC. NÃO OCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO, SEM OMISSÕES OU CONTRADIÇÕES. PRETENSÃO QUE BUSCA EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Não há nenhuma omissão ou mesmo contradição a ser sanada no julgado ora embargado, portanto inexistentes os requisitos para cabimento dos presentes embargos declaratórios, nos termos do art. 1.022 do novo CPC.O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão somente a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+2. In casu, estão claras as circunstâncias que ensejaram a impossibilidade de provimento do agravo interno. Com efeito, o aresto é preciso em estipular que, com base em fatos, provas e termos contratuais (Súmulas 5 e 7/STJ), o Tribunal estadual entendeu não ter havido prova da suposta simulação nem vício no tocante à procuração que foi usada como instrumento da negociação envolvendo o imóvel.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RENATA OLIVEIRA DA CUNHA LOBO, com fundamento no art. 1.022 do novo CPC, ao acórdãode fls. 1.663-1.668 (e-STJ), que negou provimento à pretensão.
+Defende haver omissões e negativa de prestação jurisdicional no arestoembargado, porquanto não teria apreciado todas as questões suscitadas no agravo interno.Frisa que não foi demonstrada aeventual distinção ou superação dos precedentes jurisprudenciais invocados em seu recurso especial em confronto com o entendimento do STJ.
+Pontua a carência de enfrentamento acerca defato superveniente, no caso, a ocorrência de rescisão contratual que secretamente entabularam as embargadas após a citação para a ação de origem, a qual visava sua anulação.
+Argui que essaquestão deve ser analisada no julgado, conforme o art. 493 do novo CPC. Sustentaa necessidade de aplicação desse dispositivo ao caso em apreciação e ainversão da condenação ao pagamento deverba sucumbencial, que deverá ser ainda mais reduzida (e-STJ, fls.1.675-1.680).
+Contraminutasapresentadas (e-STJ, fls. 1.684-1.688e 1.689-1.698).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DO ART. 1.022 DO NOVO CPC. NÃO OCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO, SEM OMISSÕES OU CONTRADIÇÕES. PRETENSÃO QUE BUSCA EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Não há nenhuma omissão ou mesmo contradição a ser sanada no julgado ora embargado, portanto inexistentes os requisitos para cabimento dos presentes embargos declaratórios, nos termos do art. 1.022 do novo CPC.O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão somente a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+2. In casu, estão claras as circunstâncias que ensejaram a impossibilidade de provimento do agravo interno. Com efeito, o aresto é preciso em estipular que, com base em fatos, provas e termos contratuais (Súmulas 5 e 7/STJ), o Tribunal estadual entendeu não ter havido prova da suposta simulação nem vício no tocante à procuração que foi usada como instrumento da negociação envolvendo o imóvel.
+3. Embargos de declaração rejeitados.
+VOTO
+Reexaminando os autos, percebe que não há nenhuma omissão ou mesmo contradição a ser sanada no julgado ora embargado, portanto inexistentes os requisitos para cabimento dos presentes embargos declaratórios, nos termos do art. 1.022 do novo CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão somente a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Estão claras as circunstâncias que ensejaram a impossibilidade deprovimento do agravo interno. Com efeito, o aresto é precisoem estipular que, com base em fatos, provas e termos contratuais (Súmulas 5 e 7/STJ), o Tribunal estadual entendeu não ter havido prova da suposta simulação nem vício no tocante à procuração que foi usada como instrumento da negociação envolvendo o imóvel.
+Confira-se (e-STJ, fl. 1.666):
+Consoante o acórdão, a agravante não teria feito prova de que o negócio jurídico questionado foi efetivado mediante simulação. Também asseverou o decisum que a procuração que serviu de instrumento para a transação estava adequada e apta a efetivar a negociação do imóvel.
+Dessa forma, o questionamento a respeito da existência de fato novo foi devidamente apreciado, razão por que não cabe falar em vício processual ou negativa de prestação jurisdicional, porquanto os acórdãos apontados não tratam da mesma situação fática apreciada neste recurso.
+Logo, ausentes pontos omissos ou contraditórios, não cabe falar em acolhimento destes embargos de declaração.
+Vejam-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL CONTRA DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. RESPONSABILIDADE CIVIL OBJETIVA. O ACÓRDÃO RECORRIDO CONSTATOU A FALHA NO FORNECIMENTO DE ENERGIA ELÉTRICA, O DANO MORAL INDENIZÁVEL E O NEXO CAUSAL ENTRE AMBOS. INVERSÃO DO JULGADO.REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. INDENIZAÇÃO POR DANOS MORAIS. QUANTIA DE R$ 15.000,00 QUE NÃO SE AFIGURA EXCESSIVA. AUSÊNCIA DE OMISSÃO, DE OBSCURIDADE E DE CONTRADIÇÃO.EMBARGOS DE DECLARAÇÃO DA SOCIEDADE EMPRESÁRIA REJEITADOS.
+1. A teor do disposto no art. 1.022 do Código Fux, os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não se verifica no caso dos autos, porquanto o acórdão embargado dirimiu todas as questões postas de maneira clara, suficiente e fundamentada.
+2. Os Embargos de Declaração não se prestam à finalidade de sustentar eventual incorreção do decisum hostilizado ou propiciar novo exame da própria questão de direito material, de modo a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+3. Com efeito, a modificação das conclusões do acórdão recorrido exigiria o reexame do conjunto fático-probatório, inviável nesta instância. Isso porque foi à luz dos fatos e provas da causa que o Tribunal de origem constatou a falha na prestação do serviço de fornecimento de energia elétrica, o dano moral indenizável e o nexo de causalidade entre ambos (fls. 333/334).
+4. A jurisprudência desta Corte Superior somente considera viável a revisão do valor da indenização por danos morais, em sede de Recurso Especial, quando manifestamente irrisório ou excessivo, o que não se verifica no presente caso, diante do montante de R$ 15.000,00.
+Afinal, a parte agravada sofreu severos prejuízos, pois seu imóvel foi destruído pelo incêndio, permanecendo fechado por dois meses, como se colhe do aresto impugnado 5. Assim, percebe-se que o acórdão embargado não contém quaisquer dos vícios elencados no art. 1.022 do Código Fux, merecendo estes Embargos a rejeição.
+6. Embargos de Declaração da Sociedade Empresária rejeitados.
+(EDcl no AgInt no AREsp 1581658/PB, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/10/2020, DJe 12/11/2020)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. ARTIGO 1.022 DO CPC/2015. VÍCIO NÃO CONFIGURADO.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já foi decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no RMS 57.404/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/10/2020, REPDJe 12/11/2020, DJe 03/11/2020)
+Por fim, não se observa o intuito meramente protelatório sustentado às fls. 1.696-1.697 (e-STJ), haja vista que estes embargos de declaração não ostentam caráter meramente protelatório ou evidente má-fé da embargante.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
