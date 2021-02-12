@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de EVERTON DOS SANTOS NUNEScontra acórdão proferidopelo Tribunal de Justiça do Estado de São Paulono julgamento da Apelação Criminal n.1500161-94.2020.8.26.0628.
+Consta nos autos que o Paciente foi condenado, em primeiro grau de jurisdição,"à pena de cinco anos, dois meses e quinze dias de reclusão, em regime inicial de cumprimento fechado, e à pena de multa equivalente a quinhentos e vinte dias-multa, fixados no mínimo legal, pela prática da conduta prevista no artigo 33, caput, da Lei 11.343/2006" (fl. 24).
+Inconformado, o Sentenciado interpôs recurso de apelação, que foiparcialmente provido pela Corte local "para reduzir a pena do réu  ..  para cinco anos de reclusão, em regime inicial de cumprimento fechado, e à pena de multa equivalente a quinhentos dias-multa, fixados no mínimo legal, pela prática da conduta prevista no artigo 33, caput, da Lei 11.343/2006, mantendo-se, no mais, a r. decisão por seus próprios fundamentos" (fl. 45).
+Nestewrit, a Parte Impetrante alega, em síntese: a)que o processo deve ser declarado nulo, pois se originou de prisão e de apreensão de drogas realizadas por guardas municipais no exercício de atividade típica de polícia investigativa;b)que estão presentes os requisitos para o reconhecimento da minorante prevista no § 4.º do art. 33 da Lei de Drogas, na fração máxima de 2/3 (dois terços); c) que, sendo reconhecida a referida minorante, o Paciente faz jus ao regime inicial aberto e à substituição da pena privativa de liberdade por sanções restritivas de direitos.
+Requer, em liminar e no mérito, a anulação do processo ou, subsidiariamente, o redimensionamento das penas com a alteração de regime prisional e a substituição da pena privativa de liberdade por sanções restritivas de direitos.
+É o relatório.
+Decido.
+Verifico não ser possível analisar a viabilidade do pleito deduzido, em razão da instrução deficitária do writ, visto que a Parte Impetrante não acostou aos autos acópia integral da sentença.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso). Dessa forma, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do writ.
+No mesmo sentido: HC n.508.081/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe de 08/05/2019; HC n.507.614/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe 08/05/2019; HC n.507.591/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe08/05/2019; HC n.507.828/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 08/05/2019.
+Por oportuno, esclarece-se que é possível a apreciação deste habeas corpusapós apresentado o documento faltante, em observância à economia processual, e também é viável a impetração de novo writ após sanado o vício.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
