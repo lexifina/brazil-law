@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto por SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LIMITADA,fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CÍVEL. Plano de saúde. Ação de obrigação de fazer. Negativa de cobertura de medicamento para tratamento de esclerose múltipla. Escolha da extensão do tratamento que deve ser feita pelo corpo clinico que assiste o beneficiário e não pelo plano de saúde. Direito à saúde que deve ser preservado. Fornecimento devido. Súmula 102 TJSP. Precedentes jurisprudenciais envolvendo a mesma medicação, que está devidamente registrada na ANVISA. HONORÁRIOS ADVOCATÍCIOS. Fixação por equidade. Possibilidade, diante da baixa complexibilidade da causa. R. sentença mantida. Recursos improvidos." (fl. 565e-STJ).
+No recurso especial, alega-se, além de divergência jurisprudencial, violação dos arts. 4º, III, lei nº 9.961/2000 e 10, §4º da lei 9.956/1998, ao fundamento de que prescrições médicas não previstas no rol da ANS não devem ser cobertas pelo plano de saúde.
+Sustenta que o tribunal decidiu em desconformidade com o Recurso Especial nº 1.791.933/SP proferido pela Quarta Turma do Superior Tribunal de Justiça.
+Com as contrarrazões, o recurso especial foi admitido.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O Tribunal de origem, para entender pela obrigatoriedade de cobertura do tratamento em comento, assim se manifestou:
+"(..) mostra-se abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS, em conformidade com o disposto na da Súmula nº 102 do TJSP, que possui o seguinte teor: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento de natureza experimental ou por não estar previsto no rol de procedimento da ANS." Frise-se ainda que, sob pena colocar em risco o próprio objeto do contrato, a previsão contratual de exclusão de cobertura não pode obstar o adequado tratamento que, na hipótese, depende do tratamento prescrito. (..)E, em consulta ao site da agência reguladora ANVISA se depreende que o medicamento possui registro (htts://www.smer.com.brianvisa/ ac= rodDetail&anvisald=1010006660013). É de ressaltar ainda que o rol divulgado pela Agência Nacional de Saúde não é taxativo, têm apenas o intuito de referência às operadoras de planos de saúde. " (fls. 567/569 e-STJ).
+Com efeito, a Terceira Turma desta Corte Superior reafirmou a jurisprudência no sentido do caráter meramente exemplificativo dorolde procedimentos daANS,reputando abusiva a negativa da cobertura peloplano de saúdedo tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+Isso porque compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir sobre o tratamento, mas custear as despesas de acordo com a melhor técnica.
+Assim, ainda que admitida a possibilidade de conter o contrato deplano de saúdecláusulas limitativas dos direitos do consumidor, revela-se abusiva a que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento de doença coberta pelo plano.
+Nesse sentido:
+"AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL (CPC/2015). CIVIL.PLANO DE SAÚDENA MODALIDADE AUTOGESTÃO. RECUSA DE COBERTURA DE CIRURGIA PARA TRATAMENTO DE DEGENERAÇÃO DA ARTICULAÇÃO TEMPOROMANDIBULAR (ATM). DIVERGÊNCIA QUANTO À ADEQUAÇÃO DO PROCEDIMENTO. INGERÊNCIA NA RELAÇÃO CIRURGIÃO-PACIENTE. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA TURMA. APLICABILIDADE ÀS OPERADORAS DE AUTOGESTÃO. PRECEDENTE EM SENTIDO CONTRÁRIO NA QUARTA TURMA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DESTA TURMA.
+1. Controvérsia acerca da recusa de cobertura de cirurgia para tratamento de degeneração da articulação temporomandibular (ATM), pelo método proposto pelo cirurgião assistente, em paciente que já se submeteu a cirurgia anteriormente, por outro método, sem obter êxito definitivo.
+2. Nos termos da jurisprudência pacífica desta Turma, orolde procedimentos mínimos daANSé meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto, desde que seja necessário ao tratamento de doença coberta peloplano de saúde.Aplicação do princípio da função social do contrato.
+3. Caso concreto em que a necessidade de se adotar procedimento não previsto noroldaANSencontra-se justificada, devido ao fato de o paciente já ter se submetido a tratamento por outro método e não ter alcançado êxito.
+4. Aplicação do entendimento descrito no item 2, supra, às entidades de autogestão, uma vez que estas, embora não sujeitas ao Código de Defesa do Consumidor, não escapam ao dever de atender à função social do contrato.
+5. Existência de precedente recente da QUARTA TURMA no sentido de que seria legítima a recusa de cobertura com base norolde procedimentos mínimos daANS.
+6. Reafirmação da jurisprudência desta TURMA no sentido do caráter exemplificativo do referidorolde procedimentos.
+7. AGRAVO INTERNO DESPROVIDO" (AgInt no REsp 1.829.583/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 22/6/2020, DJe 26/6/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.
+HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+SÚMULA 568/STJ.
+1. Ação de obrigação de fazer cumulada com reparação por danos morais, fundada na negativa de cobertura de medicamento.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. É abusiva a recusa da operadora doplano de saúdede arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda não previsto emroldaANS,e, portanto, experimental, quando necessário ao tratamento de enfermidade objeto de cobertura pelo contrato.
+Precedentes.
+4. Agravo interno no recurso especial não provido" (AgInt no REsp 1.849.149/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. 1. TRATAMENTO PRESCRITO PELO MÉDICO.
+CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. SÚMULA 83/STJ. 2. LIMITAÇÃO DE SESSÕES DE TERAPIA E COBRANÇA DE COPARTICIPAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. Com efeito, a jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "não é cabível a negativa de tratamento indicado pelo profissional de saúde como necessário à saúde e à cura de doença efetivamente coberta pelo contrato deplano de saúde. E o fato de eventual tratamento médico não constar dorolde procedimentos daANSnão significa, per se, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se derolexemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor" (AgRg no AREsp 708.082/DF, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/2/2016, DJe 26/2/2016).
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+2.1. Cumpre ressaltar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos declaratórios na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício.
+3. Agravo interno improvido" (AgInt no AREsp 1.471.762/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/03/2020, DJe 30/03/2020).
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais fixados pelas instâncias de origem, devidos pelo ora recorrente, devem ser acrescidos em R$ 200,00 (duzentos reais), observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
