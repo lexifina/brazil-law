@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. BEM IMÓVEL OBJETO DE ALIENAÇÃO FIDUCIÁRIA. 1. NEGATIVA DE PRESTAÇÃO JURIDICIONAL NÃO CONFIGURADA. 2. BEM CONSIDERADO ESSENCIAL AO SOERGUIMENTO DA EMPRESA RECUPERANDA. ALTERAÇÃO. SÚMULA N. 7/STJ. 3. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 4. AGRAVO INTERNO IMPROVIDO.
+1.Não há falar em violação aoart.1.022 Código de Processo Civil de 2015 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto à essencialidade do bem imóvel, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3.A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, massimde fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno improvido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Banco Safra S.A. contra decisão desta relatoria que conheceu do agravo para não conhecer do recurso especial assim ementada (e-STJ, fl. 696):
+AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. BEM IMÓVEL OBJETO DE ALIENAÇÃO FIDUCIÁRIA. 1. NEGATIVA DE PRESTAÇÃO JURIDICIONAL NÃO CONFIGURADA. 2. BEM CONSIDERADO ESSENCIAL AO SOERGUIMENTO DA EMPRESA RECUPERANDA. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 3. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais, o agravante alega ausência de análise quanto àessencialidade do bem imóvel, dado em alienação fiduciária (apartamento residencial de luxo), para soerguimento da empresa.
+Pontua a inaplicabilidade da Súmula n. 7/STJ sustentando que, apesar de saber que as discussões acerca da verificação da essencialidade de um bem para determinada empresa envolvem fatos e provas, o acórdão recorrido efetivamente constatou que o imóvel deixou de "integrar de modo pleno o patrimônio do devedor" a partir do momento em que foi cedido em alienação fiduciária ao Banco Safra (e-STJ, fl. 710).
+Assevera que o dissídio jurisprudencial foi demonstrado e que os acórdãos paradigmas tratam exatamente da mesma hipótese do caso dos autos.
+Pleiteia a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Sem impugnação (e-STJ, fl. 731).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. BEM IMÓVEL OBJETO DE ALIENAÇÃO FIDUCIÁRIA. 1. NEGATIVA DE PRESTAÇÃO JURIDICIONAL NÃO CONFIGURADA. 2. BEM CONSIDERADO ESSENCIAL AO SOERGUIMENTO DA EMPRESA RECUPERANDA. ALTERAÇÃO. SÚMULA N. 7/STJ. 3. ANÁLISE DO DISSÍDIO JURISPRUDENCIAL PREJUDICADA. 4. AGRAVO INTERNO IMPROVIDO.
+1.Não há falar em violação aoart.1.022 Código de Processo Civil de 2015 quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido diverso à pretensão da parte recorrente.
+2. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto à essencialidade do bem imóvel, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3.A análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, massimde fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+4. Agravo interno improvido.
+VOTO
+Os argumentos trazidos pela parte insurgente não são capazes de modificar as conclusões da decisão agravada.
+Não se reconhece a apontada violação do art. 1.022, incisos I e II, do Novo Código de Processo Civil, pois, de um lado, não existia omissão a ser suprida; de outro, foram apropriados e legítimos os fundamentos que sustentaram a conclusão alcançada pelo acórdão local, não se podendo a ele atribuir o vício de omissão apenas porque resolveu a celeuma em sentido contrário ao postulado pela recorrente. Ora, de acordo com a jurisprudência desta Casa, o magistrado não está obrigado a se manifestar acerca de todos os fundamentos assinalados pelas partes, notadamente quando já houver decidido a controvérsia com base em outras justificativas.
+Assinala-se que o acórdão recorrido expressamente enfrentou todas as questões suscitadas pelo recorrente, notadamente quanto à essencialidade do bem imóvel, conforme se colhe dos excertos da decisão recorrida (e-STJ, fls. 312-313 - sem grifo no original):
+Deve-se ressaltar que o magistrado reconheceu o imóvel objeto da demanda em análise como essencial ao soerguimento da empresa recuperanda, ao argumento de que o imóvel é essencial ao curso e ao sucesso da Recuperação Judicial, pois será fonte decurso elementar para a empresa, de forma que sua manutenção no patrimônio da agravada beneficiará todos os credores.
+Entendimento ao qual me coaduno. Ora, o imóvel dado em garantia fiduciária, como o próprio agravante afirma, é de alto valor no mercado e, ao que indica, superior ao valor do contrato firmado entre as partes, podendo vir a beneficiar grande massa dos credores, sendo essencial ao sucesso da Recuperação Judicial.
+A expropriação do bem pode vir a causar imenso prejuízo ao bomandamento da recuperação da agravada e do seu esforço de soerguimento. Indiretamente, prejudica credores, fornecedores e empregados ativos, bem como a sociedade e a economia de modo geral.
+Destarte, em princípio, em se tratando de bem imóvel essencial ao soerguimento da empresa agravada, não cabe a sua expropriação durante o denominado stay period.
+Ademais, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, quanto à essencialidade do bem imóvel, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPETÊNCIA. EXECUÇÃO. ALIENAÇÃO FIDUCIÁRIA DE BEM MÓVEL. RECUPERAÇÃO JUDICIAL. ATIVIDADE EMPRESARIAL. ESSENCIALIDADE DO BEM. AFERIÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL.
+1. É firme a jurisprudência do STJ no sentido de que "ao juízo universal compete a análise do caráter extraconcursal das dívidas da empresa em recuperação, alegadamente garantidas por alienação fiduciária, bem como o exame da essencialidade, para as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (AgInt no CC 143.203/GO, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 23/05/2018, DJe 30/05/2018).
+2. Na hipótese o TJDFT reconheceu a essencialidade do bem para a recuperanda, notadamente por ser o referido imóvel a sede da própria sociedade empresária em processo de recuperação. Entender de forma diversa demandaria o revolvimento fático-probatório dos autos, o que encontra óbice na Súm 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.861.934/DF. Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 13/8/2020).
+Por fim, a análise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram, não em virtude de entendimentos diversos sobre uma mesma questão legal, massimde fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
