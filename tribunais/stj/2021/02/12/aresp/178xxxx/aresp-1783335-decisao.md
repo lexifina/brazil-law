@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por MARIA JOSÉ DE ANDRADE FERNANDES, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Pernambuco assim ementado (e-STJ, fl. 307):
+CIVIL E PROCESSUAL CIVIL. RECURSO DE APELAÇÃO. AÇÃO DE IMISSÃO DE POSSE. COMPROVAÇÃO DA IRREGULARIDADE DA AQUISIÇÃO PELOS APELADOS. FALSIFICAÇÃO DA ASSINATURA DE CÔNJUGE EM ESCRITURA PÚBLICA DE COMPRA E VENDA. NEGÓCIO JURÍDICO ANULADO ATRAVÉS DE DECISÃO TRANSITADA EM JULGADO. VÍCIO INSANÁVEL. ALEGAÇÃO DE PRESCRIÇÃO AQUISITIVA DO IMÓVEL POR PARTE DOS APELADOS. VERIFICAÇÃO. EXERCÍCIO DA POSSE COM ANIMUS DOMINI DURANTE PERÍODO SUFICIENTE À CONFIGURAÇÃO DA AQUISIÇÃO PRIMÁRIA DA POSSE. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+1. A Apelante comprovou a irregularidade da aquisição do imóvel por parte dos requeridos, na qual decorreu de falsificação na sua assinatura em escritura pública de compra e venda, sendo declarado nulo o negócio jurídico realizado pelos réus, através de decisão judicial transitada em julgado.
+2. O vício existente na escritura de compra e venda, consistente na falsidade da assinatura de cônjuge declarada por meio de perícia, compromete todos os efeitos posteriores do referido negócio e, portanto, torna nula a aquisição da propriedade pelos demandados.
+3. A escritura pública de compra e venda firmada pelo falecido esposo da Recorrente (fls. 17/19), constitui, portanto, justo título a justificar a posse daquele que figura como proprietária, no caso a autora.
+4. Por outro lado, a usucapião extraordinária permite a aquisição da propriedade independentemente de justo título, hipótese que se adequa ao caso dos autos.
+5. Portanto, demonstrando-se a ocorrência da aquisição originária da propriedade dos apelados, impossível o sucesso da ação de imissão de posse.
+7. Recurso desprovido.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 327):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO. INEXISTÊNCIA. ACÓRDÃO QUE ENFRENTOU TODOS OS FUNDAMENTOS TRAZIDOS NAS RAZÕES RECURSAIS. EMBARGOS REJEITADOS.
+1. Os Embargos de Declaração possuem como objeto o esclarecimento de eventuais omissões, contradições, obscuridades ou erros materiais.
+2. As questões postas na lide recursal foram examinadas e decididas oportunamente, não havendo omissão ou contradição, cujo resultado desfavoreceu a posição sustentada pela Embargante.
+3. Não cabe, em sede de aclaratórios, o embargante instaurar uma nova discussão da matéria para obter uma modificação na decisão.
+4.Embargos rejeitados por unanimidade.
+Em suas razões de recurso especial (e-STJ, fls. 333-344), a agravante alegou violação aos arts. 166, IV e V, 1.200 e 1.228 do Código Civil de 2002, 489, II, 505 do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ocorrência de negativa de prestação jurisdicional, uma vez que o acórdão recorrido não apresentou fundamentação idônea, a fim de justificar seu posicionamento quanto à imissão da posse no imóvel.
+Asseverou que o negócio jurídico estipulado entre as partes é nulo, de pleno direito, pois sua assinatura foi falsificada na escritura de compra e venda celebrada entre o seu esposo (falecido) e os recorridos, conforme consta das provas carreadas aos autos, fato ignorado nos autos.
+Destacou que "não há usucapião de imóvel em cuja possa adentrou por força de negócio jurídico nulo, portanto, vício insanável, tendo em vista que a posse precária, clandestina e injusta não gera direito à prescrição aquisitiva, pelo fato de ter sido obtido as escondidas e por meios ilícitos, como no caso dos Recorridos" (e-STJ, fl. 341).
+Requer, dessa forma, o provimento do recurso.
+Foram apresentadas contrarrazões (e-STJ, fls. 352-355 e 363-381).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 410-432).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante à suposta negativa de prestação jurisdicional, percebe-se que a apontada violação não se sustenta, tendo em vista que o Tribunal de origem examinou, de forma fundamentada, todas as questões que lhe foram submetidas, ainda que tenha decidido em sentido contrário à pretensão da parte.
+Com efeito, o acórdão recorrido decidiu expressamente acerca da matéria controvertida de acordo com as provas carreadas aos autos, esgotando, assim, a prestação jurisdicional que lhe cabia.
+Conforme assente na jurisprudência, o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa das teses apresentadas. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que foi feito no caso.
+Nesse contexto, esta Corte já se manifestou no sentido de que "não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação" (EDcl no AgRg nos EREsp 1.213.226/SC, Relator o Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe 22/11/2016).
+A respeito do mérito, o Tribunal de origem, com base no suporte fático-probatório dos autos, consignou o seguinte (e-STJ, fls. 289-290):
+Os apelados entraram na posse do bem em 21 de março de 1983, consoante atesta a escritura pública de compra e venda, constante à fl. 107/110, que posteriormente viria a ser anulada. Todavia, continua válida como prova da posse do imóvel pelos requeridos.
+A despeito da autora da ação alegar na petição inicial ter sido expulsa do imóvel após o falecimento do esposo em 12 de junho de 1986, confessou em audiência judicial que pagou aluguel aos apelados por mais de dois anos (o que coincide com a data da escritura) e que "parou de pagar aluguel quando desocupou o imóvel" (v. fl. 112). Não consta no depoimento qualquer referência sobre suposta expulsão do imóvel.
+A oposição por parte da autora à posse do imóvel pelos requeridos apenas se deu no ano de 2005 quando ingressou com ação declaratória de inexistência de negócio jurídico (v. fls. 145/155). Destarte, até 21 de março de 2003, data da prescrição aquisitiva do imóvel pelos apelados, não há prova colacionada de questionamento da posse.
+Cumpre destacar, por oportuno, que o período que a autora da ação pagou aluguel aos requeridos não se presta para interrupção da prescrição aquisitiva, pelo contrário demonstra que os requeridos exerciam a posse indireta do bem de boa-fé. Não havia de parte da apelante animus domini na posse direta:
+( )
+Não obstante os fortes indícios de que a posse do bem foi obtida de boa-fé pelos requeridos, a aquisição de imóvel por usucapião extraordinária dispensa o justo título e a boa-fé, a qual se presume em virtude do exercício da posse prolongada no tempo, como disposto na norma retromencionada (art. 550; CC/16).
+Assim, a questão foi resolvida com base nos elementos fáticos que permearam a demanda, analisados de forma objetiva. Desse modo, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local exigiria reapreciação do conjunto fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO DE POSSE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. EXERCÍCIO DA POSSE COM ANIMUS DOMINI DURANTE PERÍODO SUFICIENTE À CONFIGURAÇÃO DA AQUISIÇÃO PRIMÁRIA DA POSSE. ALTERAÇÃO DAS CONCLUSÕES DO ARESTO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
