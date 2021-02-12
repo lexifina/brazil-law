@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto porCLEITON MARTINS DOS SANTOS contra acórdão do Tribunal de Justiça do Estado doPará.
+Neste recurso, sustenta que: a)"a prisão do recorrente está ilegal, pois o juízo coator ao converter a prisão cmflagrante em preventiva de ofício, contrariou, com as devidas vênias, o preceito normativodisposto no artigo 311 do CPP, com a redação da lei 13.964/2019, que exige que haja orequerimento do Ministério Público ou representação da autoridade policial para que haja adecretação da prisão preventiva" (e-STJ, fl. 108); b)"a decisão judicial que decretou a prisão preventiva dorecorrente, com o devido respeito, não se encontra fundamentada, pois apenas se restringiu aindicar, reproduzir e parafrasear ato normativo sem explicar sua relação com a causa dorecorrente, além de empregar conceitos jurídicos indeterminados e invocar motivos que seprestariam a justificar qualquer outra decisão" (e-STJ, fl. 110); c)"é inidôneo, por violaro princípio da presunção denão culpabilidade, o argumento de autoridade de considerarações penais em andamento como forma de reforço argumentativo ao decreto de prisãopreventiva do recorrente, por desbordar da função cautelar da prisão preventiva, que éresguardar o andamento processual, e não antecipar o cumprimento de uma eventual pena" (e-STJ, fl. 114)
+Pleiteiaa revogação de sua prisão preventiva.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pelo desprovimento do recurso.
+É o relatório.
+É manifesta a superveniente ausência de interesse de agir que atingiu este recurso, pois, em consulta ao sítio eletrônico do Tribunal de origem, foi prolatada,em 16/12/2020, sentença condenatória nos autos da Ação Penal n. 0004190-57.2020.8.14.0028.
+De acordo com o entendimento da Quinta Turma desta Corte, "a superveniência de sentença de pronúncia ou condenatória não constituirá "título novo", de modo a prejudicar o conhecimento dohabeas corpus, se a ela nenhum fundamento novo for acrescentado" (HC 288.176/SP, Rel. Ministro NEWTON TRISOTTO, julgado em 25/11/2014).
+No caso dos presentes autos, a magistradasentenciante manteve a custódia cautelar do réu, pelos seguintes fundamentos:
+"Nego o benefício do apelo em liberdade ao réu, pois presente razão para incidência de prisão preventiva, consubstanciada nanecessidade de restaurar a ordem pública, tendo em vista as seguintes circunstâncias (CPP, art. 312):
+a. a medida constritiva de liberdade se impõe como forma de restaurar a paz social, que foi violada em razão da grave comoçãosocial gerada por esta espécie de ilícito (roubo majorado consumado). A comoção está materializada nos seguintes aspectos:
+a.1. perplexidade causada na população, que passa a deduzir que as instituições encarregadas da persecução penal não sãocapazes de executar suas atribuições, de forma a garantir a incolumidade das pessoas e de seus bens (descrédito no sistema de
+persecução criminal e sentimentos de insegurança e impunidade);
+a.2. gravidade do delito de roubo majorado pelo emprego de arma de fogo, a evidenciar a periculosidade concreta da conduta a eleatribuída;
+a.3. repercussão engendrada na comunidade onde o fato ocorreu, através da divulgação a terceiros, vizinhos e familiares dasvítimas, tendo gerado sentimento de revolta e repulsa na população local;
+b. a medida incide também como forma de acautelar o meio social e preservar a credibilidade da justiça, pois a adoção das medidasprevistas em lei diminuirá a sensação de impunidade junto à população e aos infratores, estimulando a redução dos índices decometimento de infrações penais.
+ ..
+c. O envolvimento reiterado do acusado com práticas delitivas, conforme CAC de fls. 33 dos autos.
+Ademais, condições favoráveis, tais como ocupação lícita e residência fixa no distrito da culpa, por si sós, não têm o condão degarantir ao paciente a revogação da prisão preventiva se há, nos autos, elementos hábeis a recomendar a manutenção de suacustódia cautelar.
+De outra forma, não existe possibilidade de aplicação de medida cautelar típica ou atípica diversa da prisão, pois se fosse imposta,seria inadequada e insuficiente, já que a consequência imediata seria a soltura do acusado e, conforme demonstrado nafundamentação supra, este não possui condições de voltar ao convívio social nesta fase do procedimento sem acarretar abalo àordem pública, já que ficou demonstrada a periculosidade concreta de sua conduta. (CPP, arts. 282, § 6º, 310, caput, II e 319).
+Deixo de conceder fiança, pois, consoante transcrito na fundamentação declinada nas linhas anteriores, há razão para a ocorrênciade prisão preventiva (CPP, art. 324, IV).
+Assim, conforme leciona a doutrina, se tais delitos atentarem  ..  contra a segurança pública (garantia da ordem pública), cabe aprisão preventiva e não medidas cautelares alternativas.
+Portanto, neste instante procedimental, deve prevalecer o direito à segurança pública em detrimento ao direito à liberdade individual,sendo esta ponderação resultante da aplicação do princípio da proporcionalidade em sentido estrito (ponderabilidade dos bensenvolvidos."
+Desse modo, tendo em vista que, in casu, a sentença agregou novos fundamentos ao decreto preventivo inicial,a discussão acerca da legalidade deste encontra-se superada, pois, configurando a sentença um novo título, necessária a prévia submissão da matéria ao Tribunala quo, sob pena de indevida supressão de instância.
+Ante o exposto,julgo prejudicadoeste recurso.
+Publique-se. Intimem-se.
