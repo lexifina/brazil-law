@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. VALOR INCONTROVERSO. LIBERAÇÃO. POSSIBILIDADE. Sendo incontroversa parte da quantia em execução e tendo sido efetivado o bloqueio do valor antes do deferimento da recuperação judicial da agravada, possível a liberação do valor incontroverso para a agravante. AGRAVO DE INSTRUMENTO PROVIDO. UNÂNIME" (e-STJ fl. 362).
+Os embargos de declaração opostos foram acolhidos, com a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. DIREITO PRIVADO NÃO ESPECIFICADO. A finalidade dos embargos declaratórios é suprir decisão omissa, esclarecê-la quando presente obscuridade ou saná-la quando verificada contradição, assim como para corrigir erro material, conforme determina o artigo 1.022 do Código de Processo Civil. Contradições não verificadas. Fundamento diverso. Omissão verificada. Prequestionamento. Desnecessário o exame de lista de dispositivos legais trazidos pela parte, um a um, se já analisados os argumentos por ela apresentados que poderiam, em tese, infirmar a conclusão adotada. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARCIALMENTE. EFEITO INFRINGENTE NÃO CONCEDIDO. UNÂNIME" (e-STJ fl. 431).
+Opostos novos declaratórios, foram rejeitados.
+Nas razões do especial, a recorrente aponta violação dos arts. 492 e 1.022 do Código de Processo Civil de 2015, 9º, 10, 47, 49 e 59 da Lei nº 11.101/2005.
+Além da nulidade do acórdão, sustenta que o crédito deve ser submetido ao plano aprovado na assembleia de credores, tendo em vista que a sua liquidez se deu após a homologação da recuperação judicial.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+No que diz respeito ao artigo 1.022 do CPC/2015, registre-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o Tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Outrossim, impende asseverar que cabe ao julgador apreciar os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pela recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. (..).
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/10/2016, DJe 13/10/2016 - grifou-se).
+Quanto ao mais, verifica-se que o acórdão está assim fundamentado:
+"(..)
+No caso dos autos, verifico que não há, em verdade, contradição no acórdão recorrido, mas omissão especificamente no tocante ao levantamento de valores deferido pelo juízo de origem à empresa recuperanda.
+Da análise do agravo de instrumento interposto pela ora embargada, é possível observar que a insurgência recursal se concentrava em dois pontos específicos: (1) indeferimento da liberação dos valores incontroversos e (2) levantamento da quantia depositada nos autos em favor da empresa recuperanda.
+Ocorre que o acórdão ora embargado, que julgou o referido agravo, somente analisou o primeiro ponto, reconhecendo a possibilidade de liberação dos valores incontroversos em favor da embargada, nada referindo sobre a ordem de devolução dos valores depositados nos autos em favor do embargante, o que também era objeto do agravo de instrumento interposto, conforme visto.
+Dessa forma, imperioso que no presente momento seja sanada a omissão observada.
+Antes de adentrar em efetivo ao mérito da omissão verificada, cumpre registrar que a discussão acerca dos valores controversos não integrou o objeto do agravo de instrumento interposto, e por esta razão que não foi analisada no acórdão embargado, porém neste momento será enfrentada tendo em vista que tal matéria se confunde com o ponto omisso, referente ao levantamento de valores.
+Ainda, importante consignar que, conforme comprovado pela embargante nas razões dos presentes embargos declaratórios, o montante incontroverso já havia sido liberado à embargada no ano de 2012, de modo que resta sem efeito a determinação dada no julgamento do agravo de instrumento interposto pela embargada.
+Tal fato permite concluir que os valores objeto da devolução determinada pelo juízo de origem se referem somente ao montante controverso, já que os incontroversos não estavam mais depositados nos autos há bastante tempo.
+Assim, em se tratando de valores controversos, a única possibilidade de que tais verbas sejam liberadas à embargada será na hipótese de haver bloqueio/depósito de valores e trânsito em julgado da impugnação ao cumprimento de sentença anteriores ao deferimento da recuperação judicial da embargante, conforme determinação do juízo universal.
+Isso porque os fatos geradores da ação se deram em momento anterior à recuperação judicial, de modo que, em regra, o crédito possui natureza concursal, apenas sendo excluído do concurso de credores caso ocorra a situação acima descrita.
+Ocorre que um dos requisitos referidos não se encontra preenchido no caso concreto, tendo em vista que o trânsito em julgado da impugnação ao cumprimento de sentença ocorreu em momento posterior a 21/06/2016, data do deferimento da recuperação judicial da embargante.
+Assim, considerando que os fatos geradores da ação ocorreram em momento anterior à recuperação judicial e o feito não se enquadrada nas hipóteses excepcionais em que autorizada a liberação de valores, o saldo remanescente não pode ser liberado à embargada.
+Entretanto, ainda que o restante do crédito deverá se submeter aos efeitos da recuperação judicial, ou seja, não será pago diretamente nos autos da ação originária, tenho que os valores depositados em conta judicial também não devem ser liberados à devedora, pois os créditos advindos de processos com depósitos judiciais vinculados ao feito possuem uma classificação mais vantajosa na forma de pagamento estabelecida no plano de recuperação judicial da embargante.
+Conforme demonstrado pela embargada nos autos do agravo de instrumento, a cláusula 4.3.2 do plano de recuperação judicial da embargante prevê a possibilidade de o credor endereçar o pedido de quitação do valor devido perante o juízo da recuperação, justamente com os valores depositados judicialmente.
+Portanto, determinar a devolução de tais verbas à empresa recuperanda obstaria o enquadramento do crédito da embargada em situação mais vantajosa para pagamento na forma do plano de recuperação judicial homologado, razão pela qual se mostra necessário determinar a permanência do valor depositado nos autos, sem liberação às partes" (e-STJ fls. 433/435).
+Consoante se pode verificar da simples leitura do trecho acima transcrito, rever tal entendimento demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Impõe-se ressaltar que não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o Tribunal local a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
