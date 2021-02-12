@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por RENATO MARTINS CASTRO JUNIOR, com fundamento na alínea "a" do art. 105, III, da CF/1988, no qual se insurge contra acórdão proferido pelo TJ/PA, assim ementado (e-STJ, fls. 147-149):
+"APELAÇÃO CRIMINAL. ART. 157, C/C ART. 14, II, DOCÓDIGO PENAL.REDIMENSIONAMENTO DA PENA-BASE. EXACERBAÇÃO. NAO ACOLHIMENTO.EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁEIS.APLICAÇAOMÁXIMA DA FRAÇÃO RELATIVA A TENTATIVA. AFASTAMENTO. RECURSO
+l. A existência de circunstâncias judiciais desfavoráveis, devidamente fundamentadas,
+impossibilita o redimensionamento da pena-base no mínimo legal.
+2. A causa de diminuição relativa à tentativa, se dá com observância ao iter criminispercorrido.
+3. Recurso improvido, à unanimidade".
+Em suas razões recursais, a parte recorrente aponta ofensa ao art. 617 do CPP, ao argumento de que a exclusão de uma das circunstâncias judiciais do art. 59 do CP valoradas negativamente pelo juiz sentenciante (em apelação exclusiva da defesa) deveria, obrigatoriamente, diminuir a pena-base, como decorrência da vedação à reformatio in pejus.
+Com contrarrazões (e-STJ, fls. 173-180), o apelo nobre foi admitido na origem (e-STJ, fls. 183-184).
+Já nesta Corte Superior, o MPF manifestou-se pelo não provimento do recurso especial (e-STJ, fls. 200-204).
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Consoante o entendimento deste STJ, a apelação (ainda que manejada exclusivamente pela defesa) possui efeito devolutivo amplo, permitindo ao juízoad quema revaloração das circunstâncias que fundamentaram o apenamento do acusado, desde que a sua situação prática não seja piorada e que sejam observados os limites fáticos da imputação e da sentença. Outrossim, respeitadas estas balizas, é lícito ao Tribunal analisar elementos diversos dos que foram considerados pelo juiz sentenciante na dosimetria da pena.A propósito:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 1º, XIII, DO DECRETO-LEI N. 201/1967. TIPICIDADE FORMAL DA CONDUTA CONFIGURADA. ALEGAÇÃO DE AUSÊNCIA DE DOLO E INEXIGIBILIDADE DE CONDUTA DIVERSA. REEXAME DOS ELEMENTOS FÁTICOS E PROBATÓRIOS DOS AUTOS. SÚMULA 7/STJ. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL AFASTADA PELO TRIBUNAL DE ORIGEM EM RECURSO EXCLUSIVO DA DEFESA. PENA-BASE MANTIDA NO MESMO PATAMAR EM RAZÃO DA PERMANÊNCIA DE OUTRAS CIRCUNSTÂNCIAS NEGATIVAS. POSSIBILIDADE. EFEITO DEVOLUTIVO DA APELAÇÃO. AUSÊNCIA DE REFORMATIO IN PEJUS. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..).
+4. "O efeito devolutivo da apelação é total ou parcial quanto à extensão e sempre integral quanto à profundidade. O Tribunal poderá analisar, com ampla profundidade, a pretensão recursal que lhe foi submetida, não ficando adstrito aos fundamentos adotados em primeiro grau, desde que respeitada a extensão objetiva do recurso" (HC 311.439/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 2/2/2016).
+5. Logo, o Tribunal estadual, ao exercer sua soberania para dizer o direito, pode, em recurso exclusivo da defesa, manter a pena aplicada ao réu com base em elementos diversos do que os valorados pelo juiz sentenciante, desde que seja respeitada a imputação deduzida pelo órgão de acusação. Desse modo, não há impedimento que a Corte de segunda instância, em recurso exclusivo da defesa, tendo afastado circunstâncias valoradas indevidamente, mantenha o apenamento inicialmente fixado, com fundamento nas circunstâncias desfavoráveis remanescentes.
+6. Agravo regimental não provido".
+(AgRg no AREsp 1044662/PB, de minha relatoria, QUINTA TURMA, julgado em 13/10/2020, DJe 20/10/2020)
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES.REDUTORA DO ART. 33, § 4.º, DA LEI N. 11.343/2006 APLICADA NA FRAÇÃO MÍNIMA. INOVAÇÃO ARGUMENTATIVA NO JULGAMENTO DE APELAÇÃO EXCLUSIVA DA DEFESA. REFORMATIO IN PEJUS. INOCORRÊNCIA. SITUAÇÃO FINAL DO APENADO NÃO ALTERADA. TRIBUNAL A QUO QUE RECONHECEU A EXISTÊNCIA DE CIRCUNSTÂNCIAS CONCRETAS QUE, INCLUSIVE, LEGITIMARIAM O AFASTAMENTO DA MINORANTE SE TIVESSE HAVIDO RECURSO DA ACUSAÇÃO NESSE SENTIDO.FRAÇÃO DE REDUÇÃO ADEQUADAMENTE MOTIVADA. AGRAVO REGIMENTAL DESPROVIDO.
+- A revisão da dosimetria da pena, na via do habeas corpus, é possível somente em situações excepcionais, de manifesta ilegalidade ou abuso de poder reconhecíveis de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (HC 304083/PR, Rel. Min. FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+- O efeito devolutivo da apelação é amplo, autorizando o Tribunal, ainda que em recurso exclusivo da defesa, quando provocado a se manifestar sobre algum critério da dosimetria, a reanalisar e a rever todos os termos da individualização da pena definidos no decreto condenatório, contanto que não haja agravamento da reprimenda e do regime do apenado.
+(..).
+- Agravo regimental desprovido".
+(AgRg no HC 621.593/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/12/2020, DJe 07/12/2020)
+No presente caso, a pena-base foi fixada, na sentença, em 8 anos e 6 meses de reclusão (e-STJ, fls. 86), com espeque na valoração negativa de três vetoriais: culpabilidade, circunstâncias e consequências. Após o manejo de apelação pela defesa, o TJ/PA excluiu a exasperação decorrente das circunstâncias (e-STJ, fl. 148), mas manteve inalterada a pena imposta pelo juiz de primeiro grau. Por conseguinte, como não houve agravamento doquantumdapena aplicada ao acusado, tampouco modificação do regime inicial, não se vislumbra a ocorrência dereformatio in pejus, na linha dos precedentes acima citados.
+Ante o exposto, com fundamento no art. 255, § 4º, II do RISTJ,negoprovimentoao recurso especial.
+Publique-se. Intimem-se.
