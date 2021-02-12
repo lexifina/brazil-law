@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Mandado de Segurança impetrado pela Procuradoria-Geral do Estado do Pará, originalmente, perante a Justiça Federal do Estado do Pará, apontando como autoridade coatora o Delegado de Polícia Federal José Eloísio dos Santos Neto, em razão da instauração do Inquérito Policial n. 2020.0042915, pela Superintendência da Polícia Federal do Pará.
+O impetrante requereu a declaração de nulidade do referido inquérito policial, instaurado com a finalidade de apurar irregularidades na aquisição de respiradores pulmonares no contexto da pandemia de Covid-19, sob o fundamento de que as verbas utilizadas não seriam provenientes da União, razão pela qual a Polícia Federal não teria atribuição para conduzir as investigações.
+O pedido de liminar para suspensão do inquérito policial foi deferido, em decisão proferida em 11 de maio de 2020 (fls. 166-170), mas tal ato decisório foi revogado, em juízo de reconsideração, em 12/05/2020 (fls. 176-180).
+A autoridade indicada como coatora prestou informações às fls. 186-195.
+O mandado de segurança foi extinto, sem resolução de mérito, por ausência de legitimidade ativa do impetrante (art. 6º, §5º da Lei n. 12.016/2009 c/c art. 485, VI, do Código de Processo Civil (fls. 253-260).
+O Juízo da 3ª Vara Federal da Seção Judiciária do Pará, por meio do despacho de fls. 284-285, determinou a remessa dos autos ao Superior Tribunal de Justiça, em razão da avocação por esta Corte Superior, do Inquérito Policial n. 2020.042915 e cautelares a ele vinculadas.
+É o relatório. Decido.
+A mudança do quadro fático-normativo que fundamentou a impetração do presente writ, ocasionada pela avocação das investigações pelo Superior Tribunal de Justiça, ensejou a prejudicialidade do processo por perda superveniente de objeto.
+Verifica-se, na hipótese, que a pretensão mandamental especificamente deduzida na inicial - consubstanciada na suposta ausência de atribuição da Polícia Federal para promover a investigação acerca de possíveis irregularidades na aquisição de equipamentos médico-hospitalares pelo Governo do Estado do Pará, no contexto da pandemia de Covid-19 - restou integralmente esvaziada com a avocação das apurações por esta Corte Superior, em razão da identificação do possível envolvimento do Governador do Estado, detentor de foro por prerrogativa de função perante o Superior Tribunal de Justiça (art. 105, I, a, da Constituição Federal), nos crimes investigados.
+Ante o exposto, em razão da perda superveniente de seu objeto e com fulcro no art. 34, XI, do RISTJ, julgo prejudicado o presente mandado de segurança.
+Arquivem-se os presentes autos.
+Publique-se.
