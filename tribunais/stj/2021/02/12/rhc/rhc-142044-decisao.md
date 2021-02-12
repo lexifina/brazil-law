@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto por FRANCISCO TADEU DE SA contra acórdão do Tribunal de Justiça do Estado de Pernambucoproferidono HC n. 0813748-89.2020.4.05.0000.
+Consta nos autos que, a pedido do Ministério Público Federal e da Polícia Federal,a prisão preventiva do Recorrente foi decretada, em 20/10/2020, em decorrência de "investigação - batizada de Operação Frígia - para apuração da suposta prática de crimes (ambientais, usurpação de patrimônio da União, lavagem de dinheiro e organização criminosa) perpetrados por grupo especializado na extração ilegal de minério de ouro e posterior beneficiamento, respectivamente ocorridos na zona rural dos municípios de Verdejante/PE e Serrita/PE" (fl. 34).
+Irresignada, a Defesa impetrou préviohabeas corpusjunto ao Tribunal de origem, que denegou a ordem (fls. 416-424).
+Em suas razões, alega o Recorrente, em síntese, que:a)não há provas contundentes sobre a materialidade delitiva e indícios suficientes de autoria para a decretação da segregação provisória;b)a prisão preventiva foi determinada por meio defundamentação inidônea, pois amparada em argumentos genéricos sobre a sua suposta periculosidade; c)possui condições pessoais favoráveis para permanecer em liberdade ed)asmedidas cautelares alternativas, ou a prisão domiciliar, são suficientes na hipótese em questão
+Requer, inclusive liminarmente, a substituição da constrição preventiva pelas medidas cautelares dispostas no art. 319 do Código de Processo Penal ou pela prisão domiciliar. Pleiteia, ainda,a intimação do seu Causídico para a realização de sustentação oral.
+É o relatório.
+Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos.
+Com efeito, verifico que a cópiada decisão que decretou a prisão preventiva do Recorrente possui páginas etrechos indispensáveis suprimidosàs fls. 21-25, além de estarem fora de ordem, o que inviabiliza a exata compreensão da controvérsia ea verificação do constrangimento ilegal apresentado.
+Como se sabe,compete àDefesanarrareinstruircompleta e adequadamente ohabeas corpus(ou seu respectivo recurso). Dessa forma, como o Recorrente não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que ohabeas corpus"pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do pedido.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019;RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel.Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. CÓPIA DA DECISÃO QUE DECRETOU A PRISÃO PREVENTIVACOM PÁGINAS E TRECHOS SUPRIMIDOS. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA.
