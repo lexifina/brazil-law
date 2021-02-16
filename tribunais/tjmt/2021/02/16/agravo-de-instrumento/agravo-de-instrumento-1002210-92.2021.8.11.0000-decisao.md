@@ -1,0 +1,31 @@
+RAI no. 1002210.92.2021.811.0000
+Vistos, etc.
+Agravo de instrumento, com pedido de tutela de urgência, interposto por PORTO SEGURO CIA. DE SEGUROS GERAIS, em face da r. decisão proferida pelo juízo da 3a Vara Cível da Comarca de Cuiabá, que nos autos da ação de cobrança n. 1060891-97.2019.8.11.0041 que lhe move MARIDALVA PINTO DUARTE ARRUDA GOES, que fixou em R$ 1.000,00 (um mil reais) o valor dos honorários periciais, que serão pagos por ambas as partes; determinando a intimação da parte ré para realizar o depósito de 50% do valor arbitrado, no prazo de 05 (cinco) dias (art. 465, § 3o, NCPC), e no tocante à cota parte da autora, por ser beneficiária da justiça gratuita, será suportado pelo Estado, devendo ser expedida certidão de crédito ao perito após a entrega do laudo (art. 95, CPC).
+A agravante afirma que a decisão merece reforma, pois a parte agravada não cumpriu com a determinação legal e muito menos com o ônus previsto no artigo 373, I, do Código de Processo Civil, pois não trouxe aos autos qualquer laudo pericial com fincas a comprovar que possui direito a complementação da indenização.
+Argumenta ainda, que, considerando que a parte agravada é beneficiária da assistência judiciária gratuita, considerando o interesse do magistrado na produção da prova, e ainda, o disposto no artigo 1o do Decreto Judiciário n. 858/2013, do Tribunal de Justiça do Estado de Goiás e artigos 3o, V, da Lei n. 1.060/50, e 5o, LXXIV da Constituição Federal/88, é incontestável que a incumbência de custear a perícia médica é do Estado, concessor da gratuidade da Justiça.
+Requer seja concedida liminar para atribuir efeito suspensivo ao presente recurso, nos termos do art. 1.018 do NCPC, bem como para antecipar os efeitos da tutela, determinando-se que a perícia seja custeada tão somente pela parte Agravada, subsidiariamente, para que o Estado assuma as despesas periciais; ou, ainda, alternativamente, que seja determinada a redução do valor para R$253,00 (duzentos e cinquenta e três reais); no mérito seja conhecido e provido o presente recurso.
+É o relatório.
+DECIDO.
+A concessão do efeito suspensivo condiciona-se à relevância da fundamentação formulada pelo Agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, e da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Por sua vez, para a concessão do efeito ativo pleiteado liminarmente em agravo de instrumento, faz-se necessária a presença dos pressupostos autorizadores da medida de urgência, quais sejam a relevância da fundamentação e o fundado receio de dano grave e de difícil reparação, a luz dos arts. 300 e 1.019, I, do Código de Processo Civil:
+“Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo. ”
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+Pois bem,
+A despeito dos argumentos vertidos na peça inaugural, tenho que o caso não comporta o efeito suspensivo pretendido, uma vez que os argumentos do juízo a quo são consistentes:
+“(...) Considerando a imprescindibilidade da prova pericial no presente feito, DEFIRO a prova pericial postulada, e nomeio como perito o Dr. FLÁVIO RIBEIRO DE MELLO, CRM 0967 MT, com endereço na Av. da Flores, n. 843, Bairro Jardim, Bloco de Consultórios do Hospital Jardim Cuiabá, 1o Andar, sala n. 11 (entrada pela rua das Dálias), Cuiabá, telefone no (65) 3025-3060, 9223-7073, o qual cumprirá o encargo, independentemente de termo de compromisso (Art.466 do NCPC).
+Na forma do art. 470, II do NCPC, apresento o seguinte quesito a ser respondido pela expert: Informe o Senhor Perito a real existência e grau de invalidez do (a) requerente, se é permanente, e se foi causada por acidente automobilístico. Em 15 (quinze) dias indiquem as partes assistentes técnicos e apresentem quesitos (NCPC, art. 465, parágrafo 1o, I, II e III), salvo se estes já foram apresentados oportunamente.
+Arbitro em R$ 1.000,00 (mil reais) os honorários do perito judicial.
+Os honorários serão pagos por ambas as partes, assim intime-se a parte ré para realizar o depósito de 50% do valor arbitrado, no prazo de 05 (cinco) dias (art. 465, § 3o, NCPC), e no tocante à cota parte da autora, por ser beneficiária da justiça gratuita, será suportado pelo Estado, devendo ser expedida certidão de crédito ao perito após a entrega do laudo (art. 95, CPC). (...)”.
+Ademais, se os honorários foram requeridos tanto pela parte Agravada, quanto pela parte Agravante, eis que este apontou em contestação a necessidade da perícia e quesitos (id. 75835951); cabe a ambos a responsabilidade pelo pagamento da remuneração do perito, à luz do artigo 95, do CPC/2015:
+“Art. 95. Cada parte adiantará a remuneração do assistente técnico que houver indicado, sendo a do perito adiantada pela parte que houver requerido a perícia ou rateada quando a perícia for determinada de ofício ou requerida por ambas as partes”.
+Com esses apontamentos, em sede de cognição sumária, julgo pertinente a manutenção da decisão agravada.
+Posto isso, ausentes os requisitos necessários para a sua concessão, INDEFIRO, pois, o efeito almejado, para suspender os efeitos da decisão agravada, ficando assim acertado, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Comunique-se o juízo a quo, facultando-lhe prestar informações.
+Intime-se a parte agravada para, querendo, no prazo legal, apresentar contrarrazões ao recurso.
+Às providências.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
