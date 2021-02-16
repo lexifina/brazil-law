@@ -1,0 +1,50 @@
+SEGUNDA CÂMARA DE DIREITO PRIVADO
+APELAÇÃO CÍVEL No 0000554-55.1998.8.11.0055
+APELANTE(S):
+BANCO DO BRASIL S/A
+APELADO(S):
+FRANCISCO MOSAR DELFINO DE SOUSA
+MANOEL FERREIRA DE ANDRADE
+DECISÃO MONOCRÁTICA
+Vistos etc.
+Trata-se de recurso de apelação cível interposto por BANCO DO BRASIL S/A contra a sentença proferida na Execução Por Título Extrajudicial (Cédula Rural Pignoratícia no 95/00751-2 e Nota de Crédito Rural no 96/70037-8) - no 0000554-55.1998.8.11.0055 cód. 635 - ajuizada em face de FRANCISCO MOSAR DELFINO DE SOUSA e MANOEL FERREIRA DE ANDRAD, que julgou extinto o processo, reconhecendo a prescrição intercorrente, nos termos do artigo 487, inciso II, c/c art. 771, § único, ambos do CPC/15. Por fim, condenou a parte exequente ao pagamento das custas e despesas processuais, se houver.
+Em suas razões, o banco apelante sustenta que não se aplica ao presente caso a prescrição trienal prevista no art. 206, §3o, inciso VIII do Código Civil, mas sim a quinquenal, segundo o art. 206, § 5o, inciso I do Código Civil.
+Destaca que, diante da ausência de outros bens passíveis de penhora nos presentes autos, o processo foi arquivado em 08 de junho de 2018, mantendo-se inerte até 25 de julho de 2019, quando o magistrado intimou o exequente a se manifestar acerca de eventual prescrição intercorrente, não havendo qualquer inercia do processo por mais de cinco anos.
+Sob tais argumentos, pugna pelo provimento do recurso e reforma da sentença de primeiro grau, condenando os apelados ao pagamento das custas processuais e dos honorários sucumbenciais ante o princípio da causalidade.
+Contrarrazões pelo desprovimento do recurso (ID. 73352521, 73352528 e 73352532)
+É o relatório.
+Decido.
+A pretensão recursal merece imediato julgamento monocrático, nos termos do art. 932 do CPC/15 e Súmula 568 do STJ, na medida em que a matéria colocada a exame já se encontra com entendimento consolidado no STJ.
+Infere-se dos autos que o BANCO DO BRASIL S/A ajuizou Execução de Título Extrajudicial em face dos executados FRANCISCO MOSAR DELFINO DE SOUSA e MANOEL FERREIRA DE ANDRAD, almejando a execução de uma Cédula Rural Pignoratícia no 95/00751-2, valor de R$5.187,00 e de uma Nota de Crédito Rural no 96/70037-8, valor de R$4.460,54.
+Ao sentenciar o feito, o magistrado reconheceu a prescrição intercorrente do título objeto da lide, de forma que julgou extinto o processo com resolução de mérito, de cuja decisão recorre o banco apelante.
+Pois bem.
+O Superior Tribunal de Justiça pacificou seu entendimento no sentido de que, por se tratar a Cédula de Crédito Rural de um título de natureza especial, sua prescrição é regulada pela lei uniforme, equiparando-a aos títulos cambiais, aplicando-se as normas referentes a estes, inclusive no tocante ao aval e à prescrição.
+Tal entendimento se extrai da análise do disposto no art. 60 do Decreto n. 167/67, in verbis:
+“Art 60. Aplicam-se à cédula de crédito rural, à nota promissória rural e à duplicata rural, no que forem cabíveis, as normas de direito cambial, inclusive quanto a aval, dispensado porém o protesto para assegurar o direito de regresso contra endossantes e seus avalistas”.
+A prescrição, pois, é regulada pela Lei Uniforme de Genebra (Dec. n. 57.663/66), em seu art. 70, visto que o art. 60 do DL n. 167/67 remete o tema para a lei cambial.
+“Art. 70. Todas as ações contra o aceitante relativas a letras prescrevem em 3 (três) anos a contar do seu vencimento”.
+Diante disso, tem-se que o prazo prescricional estabelecido na lei uniforme é de três anos, contados do vencimento do título, razão pela qual se aplica ao presente caso a prescrição trienal, consoante precedentes inclusive do Superior Tribunal de Justiça:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. TERMO DE CONFISSÃO DE DÍVIDA DECORRENTE DE CÉDULA DE CRÉDITO RURAL HIPOTECÁRIA. PRESCRIÇÃO TRIENAL. DATA DO VENCIMENTO INDICADO NO TÍTULO. PRECEDENTES. AGRAVO DESPROVIDO”. (AgInt no REsp 1583880/SE, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 24/09/2018, DJe 02/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVADA. 1. O vencimento antecipado das prestações não altera o termo inicial do prazo trienal de prescrição para a execução de dívida fundada em cédula rural pignoratícia, que é contado do vencimento da última parcela. Precedentes. 2. Agravo interno desprovido. (AgInt no AREsp 298.911/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+Como sabido, a prescrição intercorrente visa punir o credor não diligente, ou seja, pressupõe desídia do exequente que, intimado a diligenciar, mantém-se inerte, hipótese dos autos.
+No caso em tela, a execução foi arquivada em 10/11/2015 por requerimento da parte, “limitando-se apenas ao prazo prescricional de 03 (três) anos, prescrição esse que tem incidência na espécie, sob pena de eternização da demanda (Apelação Cível 77.088/2014 do TJ/MT).”, consoante determinação judicial (ID no 73322964 – pg. 1).
+Em 25/07/2019, ou seja, após 3 anos e 8 meses, determinou-se a intimação do exequente/apelante para manifestar-se sobre a possível prescrição intercorrente. (ID. 73321153).
+Devidamente intimado, o apelante peticionou aos autos, sobrevindo a acertada decisão que reconheceu a prescrição intercorrente.
+Logo, tendo o processo permanecido paralisado por tempo superior ao prazo prescricional da própria pretensão executória, não há como deixar de reconhecer a prescrição intercorrente.
+Nesse sentido, alguns julgados deste e. Tribunal de Justiça e demais tribunais pátrios:
+APELAÇÃO CÍVEL – AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL – CÉDULA RURAL HIPOTECÁRIA – PRESCRIÇÃO TRIENAL – INTELIGÊNCIA DO ART. 60 DO DECRETO-LEI No 167/67 E DO ART. 70 DA LEI UNIFORME DE GENEBRA, PROMULGADA PELO DECRETO No 57.663/66 – PROCESSO PARALISADO POR TEMPO SUPERIOR AO DE PRESCRIÇÃO DO DIREITO MATERIAL VINDICADO – PRESCRIÇÃO RECONHECIDA – ADMISSIBILIDADE – RECURSO NÃO PROVIDO.
+É de três anos o prazo prescricional para a cobrança de dívida oriunda de cédula de crédito rural, cuja fluência tem início, a partir do vencimento do título, assim considerada a última parcela, nos termos do artigo 60 do Decreto-Lei no 167/67 e do artigo 70 da Lei Uniforme de Genebra, promulgada pelo Decreto no 57.663/66.
+Incide a prescrição intercorrente, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado. (TJMT - N.U 0054890-55.2015.8.11.0041, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, SERLY MARCONDES ALVES, Quarta Câmara de Direito Privado, Julgado em 03/02/2021, Publicado no DJE 03/02/2021)
+RECURSO DE APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - CÉDULA DE PRODUTOR RURAL - PRAZO TRIENAL - ART. 70 DA LEI UNIFORME DE GENEBRA - PROCESSO PARALISADO POR PRAZO SUPERIOR - PRESCRIÇÃO INTECORRENTE - RECONHECIDA - HONORÁRIOS ADVOCATÍCIOS - CRITÉRIO ADOTADO - MODIFICAÇÃO - OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Restando o processo paralisado pelo prazo superior ao instituído pele norma de regência, correto se faz o reconhecimento da prescrição intercorrente a cambial.
+2. Permanecendo o processo paralisado por mais de 10 (dez) anos, inarredável o reconhecimento da prescrição intercorrente antes mesmo da vigência do novo Código de Processo Civil.
+3. Verificando-se que o critério adotado na sentença para a fixação dos honorários advocatícios foi inadequado, já que irá gerar uma remuneração que viola os princípios da razoabilidade e da proporcionalidade, a sua modificação é medida que se impõe.
+(TJMT - N.U 0002428-75.1998.8.11.0055, CÂMARAS ISOLADAS CÍVEIS DE DIREITO PRIVADO, SEBASTIAO DE MORAES FILHO, Segunda Câmara de Direito Privado, Julgado em 27/01/2021, Publicado no DJE 29/01/2021)
+“Prescrição intercorrente – Execução de título extrajudicial, fundada em cédula rural hipotecária – Sentença de pronúncia da prescrição intercorrente – Dificuldades no encontro de bens passíveis de penhora e de informações acerca de sucessores de coexecutada falecida – Execução ajuizada sob a égide do CPC de 1973 e processo arquivado entre agosto de 2010 e março de 2016 sem a suspensão prevista no art. 791, inciso III, do CPC de 1973, com sucessivos desarquivamentos e arquivamentos, sem a prática de atos processuais a cargo do exequente – Prescrição, "in casu", trienal, prevista no Dec-Lei n. 413/69, aplicável ao caso em razão do art. 5o da Lei n. 6.840/80 - Orientação do Col. STJ, ao julgar o Incidente de Assunção de Competência no REsp 1.604.412-SC - Prescrição intercorrente como fato objetivo, que independe da inércia, também de acordo com a orientação da Segunda Seção do mesmo Tribunal Superior – Sentença mantida – Recurso desprovido.” (TJ-SP - AC: 00124346620078260037 SP 0012434-66.2007.8.26.0037, Relator: Cerqueira Leite, Data de Julgamento: 21/01/2021, 12a Câmara de Direito Privado, Data de Publicação: 21/01/2021)
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. Prescrição intercorrente verificada. Nota de crédito rural. Prazo trienal, nos termos do artigo 60 do Decreto-Lei no 167/67 e artigo 70 do Decreto no 57.663/66 (Lei Uniforme de Genebra). Aplicação da Súmula 150 do C. STF. Processo paralisado por mais de seis anos. Impossibilidade de o feito permanecer indefinidamente arquivado, devendo ser observada a razoável duração do processo, de acordo com o art. 5o, inciso LXXVIII, da Constituição Federal. Realizada a intimação da parte, com fundamento no artigo 921, § 5°, do CPC. Sentença mantida. RECURSO DESPROVIDO. (TJSP - APELAÇÃO No 0000990-12.2007.8.26.0627 – Relator: AFONSO BRÁZ – julgamento: 13/08/2018)
+Diante do exposto, com fundamento no artigo 932, inciso IV, do CPC/15 c/c Súmula no 568 do STJ, nego provimento monocrático ao recurso.
+Por fim, deixo de aplicar a sucumbência recursal, diante do não preenchimento dos requisitos necessários à sua fixação.
+P. I. C.
+Cuiabá, 11 de fevereiro de 2021.-
+MARILSEN ANDRADE ADDARIO
+Desembargadora
