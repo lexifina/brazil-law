@@ -1,0 +1,33 @@
+D E C I S Ã O
+    Trata-se de reclamação na qual se alega que o Tribunal de Justiça do Estado de São Paulo, ao negar seguimento a recurso extraordinário com fundamento na sistemática de repercussão geral, aplicou de forma equivocada a tese firmada por esta Corte no julgamento do RE 663.696/MG (Tema 510), assim redigida:
+    “A expressão ‘Procuradores’, contida na parte final do inciso XI do art. 37 da Constituição da República, compreende os Procuradores Municipais, uma vez que estes se inserem nas funções essenciais à Justiça, estando, portanto, submetidos ao teto de noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal.”
+    Sustenta o Município reclamante que o Tema 510 teria sido aplicado de forma equivocada porque o Tribunal de Justiça, com base em referida orientação jurisprudencial, promoveu a equiparação remuneratória entre procuradores municipais e desembargadores do Tribunal de Justiça do Estado de São Paulo, ao passo que esta Suprema Corte, no paradigma em questão, apenas fixou o limite máximo da remuneração dos procuradores municipais.
+    Busca-se, nestes autos, seja desconstituído o acórdão que deu provimento à apelação interposta pela parte beneficiária, a fim de ser restabelecida a sentença de primeira instância que julgara improcedente a ação originária.
+    É o relatório.
+    Verifica-se que a parte reclamante interpôs recurso extraordinário que foi inadmitido com fundamento na sistemática da repercussão geral, decisão que foi mantida em julgamento de agravo interno (art. 1.030, § 2º, do CPC).
+    Tal o contexto, observo que a pretensão da parte reclamante não é acolhida pela jurisprudência do Supremo Tribunal Federal.
+    Esta Suprema Corte consagrou sua jurisprudência no sentido de que a aplicação da sistemática da repercussão geral é atribuição do órgão judiciário de origem, dispensada a remessa do recurso extraordinário a esta Excelsa Corte, nos termos do art. 1.030, § 2º, do CPC (Rcl 42.193- -AgR/RN, Ministro Alexandre de Moraes):
+    “AGRAVO REGIMENTAL EM RECLAMAÇÃO. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. SISTEMÁTICA DA REPERCUSSÃO GERAL. COMPETÊNCIA DAS CORTES DE ORIGEM. DESCABIMENTO DA AÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO.
+    1. A aplicação da sistemática da repercussão geral é atribuição das Cortes de origem, nos termos do art. 1.030 do CPC.
+    2. Agravo regimental a que se nega provimento.”
+    (Rcl 39.942-AgR/SP , Ministro Edson Fachin – com meus grifos)
+    Desse modo, entendo que o órgão judiciário reclamado, ao negar seguimento a recurso extraordinário em que se questiona a aplicação de tese firmada em sede de repercussão geral, exerceu competência que lhe é própria.
+    De outro lado, é remansosa a jurisprudência desta Corte a respeito da absoluta excepcionalidade do reexame, na via reclamatória, do enquadramento levado a efeito pelos Tribunais de Justiça a propósito de orientações firmadas em sede de repercussão geral, cuja única hipótese de correção se dá em casos de evidente teratologia (Rcl 26.093-AgR/PI, Ministro Gilmar Mendes; Rcl 28.328-AgR-segundo/SP, Ministro Edson Fachin; Rcl 37.552-AgR/GO, Ministra Cármen Lúcia).
+    Firmada essa premissa, cumpre destacar o seguinte trecho do ato decisório objeto desta reclamação:
+    “Com efeito, ressalte-se que a aplicação do tema 510/STF ao caso em análise se deu por determinação expressa do E. Supremo Tribunal Federal, como se vê do Ofício de fls. 580/583.
+    (...)
+    A matéria aqui tratada, referente à possibilidade de se considerar como teto remuneratório dos procuradores municipais o subsídio dos desembargadores do Tribunal de Justiça é questão idêntica à versada no RE 663.696/MG Tema 510/STF
+    Ademais, ressalte-se, se discordante a recorrente da determinação do E. Supremo Tribunal Federal em aplicar o tema em questão, caberia ter interposto, perante àquela Suprema Corte, o recurso competente.
+    Observe-se, ainda, ser impertinente para fins de análise da adequada subsunção do acórdão à tese repetitiva perquirir-se sobre o correto dimensionamento feito pela Turma Julgadora, seja porque extrapolaria o espectro deste recurso, seja porque extrapolaria o âmbito de análise reservado à aplicação de temas julgados pelos Tribunais Superiores.
+    Assim, não há como proceder a modificação do decidido, de vez que está em perfeita consonância com o ‘leading case’ julgado pela Suprema Corte.”
+    Verifica-se que o acórdão combatido enfrentou satisfatoriamente as arguições exaradas pelo reclamante, estabelecendo a devida correspondência entre o caso em julgamento e o paradigma consubstanciado no Tema 510 do Ementário de Repercussão Geral, em cumprimento ao determinado por esta E. Corte Suprema.
+    De toda sorte, a análise dos fundamentos em que se assenta o acórdão que deu provimento à apelação interposta pelos autores da ação originária (parte ora beneficiária) leva-me a concluir que a controvérsia jurídica lá travada cingia-se à definição do teto remuneratório dos procuradores do Município de Taubaté, o que afasta a alegação suscitada pelo Município reclamante de que teria havido extrapolação do Tema 510 para tratar de equiparação remuneratória.
+    Transcrevo, como demonstrativo desse entendimento, o dispositivo do ato decisório em questão:
+    “Em arremate, cumpre destacar que o Egrégio Supremo Tribunal Federal, ao julgar o RE nº. 663.696/MG, representativo da controvérsia do Tema nº. 510 de Repercussão Geral, fixou tese no sentido que: “A expressão 'Procuradores', contida na parte final do inciso XI do art. 37 da Constituição da República, compreende os Procuradores Municipais, uma vez que estes se inserem nas funções essenciais à Justiça, estando, portanto, submetidos ao teto de noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal, em espécie, dos Ministros do Supremo Tribunal Federal.”
+    Nesse aspecto, tendo em vista que o julgamento foi tomado em sede de Repercussão Geral, que, nos termos do Código de Processo Civil, possui força vinculante, devendo ser observado por todos os juízes e órgãos fracionários desta Corte (artigo 927, inciso III), deve-se dar provimento ao recurso de apelação interposto pelos requerentes.
+    Destarte, considerando a interpretação dada pelo Supremo Tribunal Federal ao alcance da norma contida no artigo 37, inciso XI, da Constituição Federal, em sede de Repercussão Geral (Tema nº. 510), não se vislumbra, qualquer óbice à limitação do salário dos apelantes ao percentual de 90,25% do subsídio mensal dos Ministros do Supremo Tribunal Federal.”
+    Em face do exposto, julgo improcedente esta reclamação.
+    Publique-se. Intime-se. Arquive-se.
+    Brasília, 17 de fevereiro de 2021.
+Ministro NUNES MARQUES
+Relator
