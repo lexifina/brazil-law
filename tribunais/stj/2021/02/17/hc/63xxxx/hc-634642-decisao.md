@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de IVANISIO RODRIGUES DE ARAUJO contra acórdão do Tribunal de Justiça do Estado da Bahia proferido na Apelação Criminal n. 0302611-15.2013.8.05.0022.
+Consta dos autos que o Paciente foi condenado à pena de 4 (quatro) anos de reclusão, em regime inicial aberto, como incurso no art. 17 da Lei n. 10.826/2003. A pena privativa de liberdade foi substituída por duas penas restritivas de direitos(fls. 185-187).
+O Sentenciado interpôs recurso de apelação, que foi parcialmente provido pelo Tribunal de origem para "desclassificar o delito para o caracterizado no artigo 14 da Lei 10.826/03, e por consectário lógico modifico a pena, fixando-a em 02 (dois) anos de reclusão, que deverá ser cumprido em regime aberto, substituída por duas restritivas de direito, nos mesmos termos já fixado na sentença de piso" (fl. 26; sem grifos no original).
+A Defesa opôs embargos de declaração, os quais foram rejeitados pela Corte local (fls. 27-33).
+Neste writ, a Impetrante sustenta, em suma, que não foram apresentadasprovas que comprovam a posse de arma de fogo pelo Paciente, o que impõe a sua absolvição com base no princípio doin dubiopro reo.
+Subsidiariamente, alega que é cabível a desclassificação para o crime tipificado no art. 12 do Estatuto do Desarmamento.
+Requer, em liminar e no mérito, seja o Paciente absolvido ou, subsidiariamente, a desclassificação do tipo penal de porteilegal de arma de fogo para o delito deposse ilegal de arma de fogo.
+O pedido liminar foi indeferido (fls. 237-238).
+Foram prestadas informações às fls. 243-256 e 270-318.
+O Ministério Público Federal opinou pelo não conhecimento dowritou, se conhecido, pela denegação da ordem (fls. 258-266).
+É o relatório. Decido.
+Conforme entendimento pacífico desta Corte Superior de Justiça, a presente ação constitucional não é a via adequada para a análise de questões que buscam a absolvição do Paciente ou a desclassificação de crimes, por demandarem o revolvimento do conjunto fático-probatório, providênciainviável emhabeas corpus.
+Exemplificativamente, cito os seguintes precedentes:
+" ..  Ohabeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita." (AgRg no HC 462.030/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/03/2020, DJe 13/03/2020; sem grifos no original.)
+" ..  2. O habeas corpus não é a via adequada para discussão acerca da autoria do crime de tráfico ou da desclassificação para o crime de porte para uso próprio, questões que demandam exame fático-probatório, incompatível com a via eleita, ação constitucional de rito célere e de cognição sumária." (HC 552.301/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/02/2020, DJe 02/03/2020;sem grifos no original.)
+"VI - No que ser refere ao pedido de desclassificação, as condutas previstas nos tipos penais do art. 40, IV, da Lei de Drogas e art.16 da Lei n. 10.826/2003 são distintas e protegem bens jurídicos distintos. Ademais, a Corte local asseverou que "não há nos autos qualquer indício de que as munições apreendidas se destinavam a viabilizar de algum modo o cometimento do delito de tráfico de entorpecentes"(fl. 58). Desta feita, a alteração do julgado, como requerido na impetração, demanda reexame de provas, situação interditada na via estreita do habeas corpus.
+Agravo regimental desprovido."(AgRg no HC 546.847/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO, DESEMBARGADOR CONVOCADO DO TJ/PE, QUINTA TURMA, julgado em 10/03/2020, DJe 18/03/2020; sem grifos no original.)
+" ..  4. O juízo de mérito sobre a materialidade e a autoria delitivas demandaria o exame das provas eventualmente colhidas ao longo da instrução criminal, o que é inviável na via estreita da ação constitucional, dada a necessidade de dilação probatória.5. Agravo regimental não provido."(AgRg nos EDcl no RHC 91.276/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2020, DJe 14/08/2020.)
+"3. A pretensão de desclassificação do delito de posse ilegal de arma de fogo de uso restrito, tipificado no art. 16, da Lei n.10.826/2003, para a causa de aumento prevista no art. 40, inciso IV, da Lei n. 11.343/2006 é providência que demanda necessariamente aprofundado revolvimento de matéria fático-probatória, atraindo o óbice da Súmula n. 7/STJ. Precedentes.4. Agravo regimental não provido."(AgRg no AREsp 1.627.687/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/04/2020, DJe 15/04/2020.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, NÃO CONHEÇO do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. PLEITO DE ABSOLVIÇÃO DO PACIENTEE DE DESCLASSIFICAÇÃO DE CRIME. VIA INADEQUADA. JURISPRUDÊNCIA PACÍFICA DO STJ.WRITNÃO CONHECIDO.
