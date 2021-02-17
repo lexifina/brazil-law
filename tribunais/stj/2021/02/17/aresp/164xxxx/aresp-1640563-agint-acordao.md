@@ -1,0 +1,50 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ICMS. REPETIÇÃO DE INDÉBITO. PROGRAMA ESTADUAL DE IRRIGAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DISPOSITIVO FEDERAL NÃO PARTICULARIZADO. SÚMULA 284/STF. NORMAS LOCAIS. SÚMULA 280/STF.
+1. Acerca da incompetência do juízo e da correlata tese de violação do art. 64, § 1º, do CPC/2015, incide, de fato, o óbice das Súmulas 282 e 356 do STF, uma vez que a questão não foi analisada pela Corte de origem, e nem sequer se interpuseram Aclaratórios para tal fim. Ausente, portanto, o requisito do prequestionamento.
+2. Sobre a suposta ofensa ao art. 165 do CTN e a aduzida inexistência de isenção tributária, é de se aplicar a Súmula 284/STF, pois não há a indicação clara e precisa de qual inciso teria sido violado pelo acórdão de piso, significando, portanto, debilidade argumentativa que inviabiliza a compreensão da irresignação. Precedentes do STJ.
+3. Descabe Recurso Especial. O acórdão está inteiramente fundado na legislação local, ainda que se alegue violação de dispositivos de lei federal. Tanto é verdade, que a parte afirma que o ponto central da discussão seria a inclusão, na base de cálculo da cobrança do ICMS, do "quantum energético consumido efetivamente" por produtor rural beneficiado por programa estadual de irrigação (Leis estaduais 4.542/92, 5.630/07, e Decreto estadual 9.325/95).
+4. Aplicável, por analogia, o óbice previsto na Súmula 280/STF, segundo o qual por ofensa a direito local não cabe Recurso Extraordinário, ensejando o não conhecimento do Recurso Especial. Precedentes do STJ.
+5. Agravo Interno não provido ..
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes e Mauro Campbell Marques votaram com o Sr. Ministro Relator. Impedida a Sra. Ministra Assusete Magalhães. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática da Presidência que não conheceu do AREsp (fls. 488-491, e-STJ).
+A parte Agravante requer a reforma da decisão anterior (fls. 493-510, e-STJ).
+Diante da ausência de prevenção nos autos (fl. 533, e-SYJ), o feito foi redistribuído a mim por sorteio.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ICMS. REPETIÇÃO DE INDÉBITO. PROGRAMA ESTADUAL DE IRRIGAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DISPOSITIVO FEDERAL NÃO PARTICULARIZADO. SÚMULA 284/STF. NORMAS LOCAIS. SÚMULA 280/STF.
+1. Acerca da incompetência do juízo e da correlata tese de violação do art. 64, § 1º, do CPC/2015, incide, de fato, o óbice das Súmulas 282 e 356 do STF, uma vez que a questão não foi analisada pela Corte de origem, e nem sequer se interpuseram Aclaratórios para tal fim. Ausente, portanto, o requisito do prequestionamento.
+2. Sobre a suposta ofensa ao art. 165 do CTN e a aduzida inexistência de isenção tributária, é de se aplicar a Súmula 284/STF, pois não há a indicação clara e precisa de qual inciso teria sido violado pelo acórdão de piso, significando, portanto, debilidade argumentativa que inviabiliza a compreensão da irresignação. Precedentes do STJ.
+3. Descabe Recurso Especial. O acórdão está inteiramente fundado na legislação local, ainda que se alegue violação de dispositivos de lei federal. Tanto é verdade, que a parte afirma que o ponto central da discussão seria a inclusão, na base de cálculo da cobrança do ICMS, do "quantum energético consumido efetivamente" por produtor rural beneficiado por programa estadual de irrigação (Leis estaduais 4.542/92, 5.630/07, e Decreto estadual 9.325/95).
+4. Aplicável, por analogia, o óbice previsto na Súmula 280/STF, segundo o qual por ofensa a direito local não cabe Recurso Extraordinário, ensejando o não conhecimento do Recurso Especial. Precedentes do STJ.
+5. Agravo Interno não provido ..
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos retornaram ao Gabinete em 2.12.2020.
+O Agravo Interno não prospera, pois a decisão emitida pela Presidência encontra-se correta.
+Como dito anteriormente, acerca da incompetência do juízo e da correlata tese de violação do art. 64, § 1º, do CPC/2015, incide, de fato, o óbice das Súmulas 282 e 356 do STF, uma vez que a questão não foi analisada pela Corte de origem, e nem sequer houve interposição de Aclaratórios para tal fim. Ausente, portanto, o requisito do prequestionamento.
+Ademais, sobre a suposta ofensa ao art. 165 do CTN e a aduzida inexistência de isenção tributária, é de se aplicar a Súmula 284/STF, pois não há indicação clara e precisa de qual inciso teria sido violado pelo acórdão de piso, significando, portanto, debilidade argumentativa que inviabiliza a compreensão da irresignação.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. IRPF. OMISSÃO DE RENDIMENTOS. ALUGUÉIS. OPÇÃO DE PARCELAMENTO. CONFISSÃO. INEXISTÊNCIA. DÉBITOS NÃO INDICADOS. RECURSO ESPECIAL INCAPAZ DE INFIRMAR AS RAZÕES DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF.
+(..) 5. Verifica-se que a argumentação exposta no Apelo Nobre não possui elementos suficientes para infirmar as razões colacionadas no acórdão recorrido, pois em nenhum momento a recorrente buscou impugnar especificamente os fundamentos utilizados pela instância a quo para negar seu pleito. Aplica-se o óbice da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+6. Recurso Especial do qual não se conhece. (REsp 1.686.850/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11.10.2017)
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO - AÇÃO ANULATÓRIA DE PERÍCIA EM AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA DO ANTERIOR RELATOR NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AUTORA.
+(..) 2. Para reverter a conclusão consignada no Tribunal de origem quanto à matéria discutida estar acobertada pela coisa julgada e pela preclusão seria necessário o revolvimento das provas constantes dos autos, providência esta inviável na via do recurso especial, conforme o enunciado da Súmula 7/STJ. O fato de se tratar de matéria de ordem pública não tem o condão de afastar a preclusão, por se tratar de questão já decidida. Precedentes.
+3. É inadmissível o recurso especial que não impugna motivação do acórdão recorrido apta, por si só, a manter a conclusão a que chegou a Corte estadual (Súmula 283 do STF).
+4. Agravo regimental desprovido. (AgRg no Ag 1.390.295/RJ, Rel. Min. Marco Buzzi, Quarta Turma, DJe 23.5.2017).
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL, QUANTO À ALEGAÇÃO GENÉRICA DE OFENSA AOS ARTS. 489, 1.022 E 1.025 DO CPC/2015. SÚMULA 284/STF. (..) ILEGALIDADE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+I. Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+II. A deficiência na fundamentação do Recurso Especial, precisamente quanto à alegação genérica de ofensa aos arts. 489, 1.022 e 1.025 do CPC/2015 - como no presente caso -, atrai a incidência analógica da Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+(..) VI. Recurso Especial parcialmente conhecido, e, nessa parte, improvido. (REsp 1.626.971/SC, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 4.5.2018)
+Ademais, não é cabível o Recurso Especial. O acórdão está inteiramente fundado na legislação local, ainda que se alegue violação de dispositivos de lei federal. Tanto é verdade, que a parte afirma que o ponto central da discussão seria a inclusão, na base de cálculo da cobrança do ICMS, do "quantum energético consumido efetivamente" por produtor rural beneficiado por programa estadual de irrigação (Leis estaduais 4.542/92, 5.630/07, e Decreto estadual 9.325/95).
+Aplicável, por analogia, o óbice previsto na Súmula 280/STF, segundo o qual por ofensa a direito local não cabe Recurso Extraordinário, ensejando o não conhecimento do Recurso Especial. A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. (..) O TRIBUNAL DE ORIGEM RESOLVEU A QUESTÃO DA SOLIDARIEDADE A PARTIR DA APLICAÇÃO DA LEGISLAÇÃO LOCAL, QUAL SEJA, DO ART. 2º DA LEI ESTADUAL 8.115/1985. INCIDÊNCIA DA SÚMULA 280/STF. AGRAVO REGIMENTAL DO BANCO GMAC S.A. DESPROVIDO.
+(..) 2. Observa-se que o Tribunal de origem resolveu a questão da solidariedade a partir da aplicação da legislação local, qual seja, do art. 2o. da Lei Estadual 8.115/1985, motivo pelo qual o conhecimento do Apelo Nobre esbarra no óbice da Súmula 280/STF. Precedentes: AgRg no AREsp 564.799/RS, Rel. Min. BENEDITO GONÇALVES, DJe 1.9.2015; AgRg no AREsp 50.688/RS, Rel. Min. ARNALDO ESTEVES LIMA, DJe 2.5.2012; DJe 25.9.2012, AgRg no AREsp 106.355/SP, Rel. Min. MAURO CAMPBELL MARQUES, DJe 22.3.2012, e AgRg no REsp. 939.776/DF, Rel. Min. LUIZ FUX, DJe 1.7.2009.
+3. Agravo Regimental do BANCO GMAC S.A. desprovido. (AgRg no AREsp 668.477/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017)
+IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA (IRPJ). SUBVENÇÃO PARA INVESTIMENTO. PRODEC. LEI LOCAL. SÚMULA 280/STF.
+1. Verifica-se que a demanda foi dirimida com base em Direito local, in casu, na legislação estadual catarinense (Lei 3.342/05 e no Decreto 704/07). Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário." 2. Agravo Regimental não provido.
+(AgRg no REsp 1433745/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/04/2014, DJe 22/04/2014)
+Ante o exposto, nego provimento ao Agravo Interno.
+Advirta-se que a interposição de recurso protelatório ensejará as penalidades previstas nos arts. 81 e 1.026, § 2º, do CPC/2015.
+É como voto.
