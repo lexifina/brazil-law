@@ -1,0 +1,14 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu o recurso extraordinário interposto em face de acórdão da Turma Recursal do Tribunal de Justiça do Estado de Rondônia, assim ementado (eDOC 8, p. 4):
+    “Recurso Inominado. Administrativo. Licença-prêmio não gozada. Legitimidade do Estado. Pedido administrativo. Desnecessidade. Sentença mantida. O Estado de Rondônia é responsável pelo pagamento dos direitos de seus servidores gerados (período aquisitivo) enquanto este pertencer ao quadro do Estado. Em se tratando de pedido de conversão de licença-prêmio não gozada em pecúnia, desnecessária a prévia manifestação da Administração em âmbito administrativo.”
+    No recurso extraordinário, com fundamento no art. 102, III, a e c, do permissivo constitucional, aponta-se ofensa aos arts. 2º, 5º, II, 22, II, 37, X, 39, § 1º, 167, II, e 169, § 1º, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “A Lei nº 9527/97 assegurou o direito ao usufruto dos períodos adquiridos na foram da Lei nº8112/90 até 15 de outubro de 1996. Inexiste amparo legal para o pagamento em pecúnia de licença-prêmio não usufruída ou consideradas na contagem do tempo de aposentadoria. A Lei nº9527/97 garante apenas a conversão em pecúnia no caso de falecimento do servidor” (eDOC 10, p. 12).
+    O Tribunal de origem inadmitiu o extraordinário ante a ausência de prequestionamento, a incidir o óbice das Súmulas 282 e 356 do STF, bem como pela necessidade de reexame da legislação local aplicável à espécie (eDOC 12).
+    É o relatório. Decido.
+    De plano, verifica-se que esta Corte, ao apreciar o ARE 721.001-RG (Tema 635), Rel. Min. Gilmar Mendes, Tribunal Pleno, DJe 7.3.2013, reconheceu a existência de repercussão geral da matéria em debate e reafirmou a jurisprudência do STF, no sentido de que, à luz da proibição do enriquecimento sem causa, é devida a conversão de férias não usufruídas, bem assim de outros direitos de natureza remuneratória, como a licença prêmio, em indenização pecuniária por aqueles que não mais podem delas usufruir, quer pela inatividade, quer pelo rompimento do vínculo com a Administração Pública. O acórdão restou assim ementado:
+    “Recurso extraordinário com agravo. 2. Administrativo. Servidor Público. 3. Conversão de férias não gozadas – bem como outros direitos de natureza remuneratória – em indenização pecuniária, por aqueles que não mais podem delas usufruir. Possibilidade. Vedação do enriquecimento sem causa da Administração. 4. Repercussão Geral reconhecida para reafirmar a jurisprudência desta Corte.”
+    Ante o exposto, determino a remessa dos autos ao Tribunal de origem para adequação ao disposto no art. 1.036 do Código de Processo Civil, nos termos do art. 328 do RISTF.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
