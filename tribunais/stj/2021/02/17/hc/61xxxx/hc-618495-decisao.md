@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PABLO ROGÉRIO DA SILVA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação n. 0309318-67.2016.8.19.0001, relatora Desembargadora Katya Maria de Paula Menezes Monnerat).
+Depreende-se dos autos que o paciente foi condenado, como incurso no art.157, § 2º, I e II, do Código Penal, em continuidade delitiva, à pena de 6 anos e 5 meses de reclusão, no regime inicial aberto.
+O Tribunal de origem deu parcial provimento ao recurso de apelação da acusação para fixar o regime inicial semiaberto em acórdão assim ementado (e-STJ fl.34):
+Apelações. Artigo 157, §2º, I e II, duas vezes, do Código Penal. Depoimentos das três vítimas seguros que os acusados, em comunhão de funções e desígnios, praticaram dos dois roubos. As subtrações tiveram o mesmo modo de execução, em espaço de tempo de pouco mais 1h entre uma e outra e em bairros próximos da mesma Comarca.
+Unidade de ideação dos acusados e vontade de subtrair bens das vítimas.
+Continuidade delitiva - conexão temporal, espacial e modal. Configuradas as duas majorantes - emprego de arma de fogo e concurso de agentes, aplicada a fração de 3/8 - artigo 157, §2º, I e II, do Código Penal - delitos praticados antes da entrada em vigor da Lei nº 13.654/2018, que não incide no caso, pois prejudicial aos réus. Correta a fração de 1/6 pela continuidade delitiva. O emprego de arma de fogo em plena luz do dia justifica a aplicação de um regime mais gravoso do que o legal, o fechado porem, em face da detração operada na sentença, o regime passa a ser o semiaberto para cumprimento inicial da pena privativa de liberdade. Recurso do Ministério Público parcialmente provido, para agravar o regime inicial de cumprimento da pena, observada a detração.
+Recurso da defesa desprovido.
+Alega a defesa, na presente impetração, a ocorrência de bis in idem na fixação da pena e a inadequação do regime prisional fixado.
+Requer, liminarmente, a suspensão dos efeitos do acórdão.
+A medida liminar foi indeferida (e-STJ fls. 52/53).
+Informações prestadas às e-STJ fls. 57/67.
+O Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 71/77).
+É, em síntese, o relatório.
+Decido.
+Nas razões do writ, o impetrante defende que a"sentença  ..  incorreu em dois equívocos, ao passo que promoveu aumento de pena decorrente do concurso formal de crimes e outro decorrente da continuidade delitiva, sendo consabido que nessas hipóteses deve ser realizado um só aumento" (e-STJ fl. 6). Além disso, sustenta que não se justifica a fixação do regime prisional fechado.
+Sobre a dosimetria da pena e o regime prisional, assim consignou o acórdão impugnado (e-STJ fls. 47/49):
+As penas foram fixadas nos mínimos legais, inexistindo agravantes, atenuantes ou causas de diminuição. Presente apenas as duas majorantes- emprego de arma de fogo e concurso de agentes nos termos do artigo 157, §2º, I e II, do Código Penal, pois os delitos foram praticados antes da entrada em vigor das alterações introduzidas pela Lei nº 13.654/2018, que não incidem nos crimes julgados nestes autos por serem prejudiciais aos réus.
+Correta a fração de 3/8 aplicada por estas duas majorantes. Assim como a fração de 1/6 pela continuidade delitiva, restando as penas dos acusados consolidada em 06 anos e 05 meses de reclusão, em regime inicial semiaberto, e 15 dias-multa no valor unitário mínimo.
+Benevolente o regime inicial de cumprimento da pena privativa de liberdade fixado na sentença - semiaberto, antes de realizada a detração.
+O emprego de arma de fogo em plena luz do dia justifica a aplicação do regime mais gravoso do que o legal (semiaberto), no caso o fechado, como bem ressaltado pelo Ministério Público.
+Motivo pelo qual, fixa-se o regime fechado para todos os acusados. Em face da detração operada na sentença nas penas de Pablo e Thiago, oregime inicial destes será o semiaberto.
+Por tais razões, dá-se parcial provimento ao recurso do Ministério Público, para agravar o regime inicial de cumprimento da pena de todosos acusados, observada a detração operada nas penas de Pablo e Thiego, nos termos acima expostos. Nega-se provimento ao recurso da defesa.
+Inicialmente, verifica-se que, ao contrário do que alega a defesa, não houve o aumento cumulativo pelo concurso material de crimes e pela continuidade delitiva, razão pela qual lhe falta interesse de agir nesse ponto.
+Regime prisional.
+De acordo os §§ 2º e 3º do art. 33 do Código Penal, tendo em vista a pena estabelecida, as circunstâncias judiciais favoráveis e a primariedade do réu, o regime inicial para cumprimento de pena é o semiaberto.
+Nesse sentido:
+HABEAS CORPUS. PENAL. ROUBO CIRCUNSTANCIADO. REGIME INICIAL DE CUMPRIMENTO DE PENA. CABÍVEL O SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. RÉU PRIMÁRIO. GRAVIDADE ABSTRATA DO DELITO. GRAVE AMEAÇA E USO DE ARMA DE FOGO. SUPOSTO TRAUMA CAUSADO À VÍTIMA. AÇÕES PENAIS EM CURSO E CONDENAÇÕES SEM TRÂNSITO EM JULGADO. FUNDAMENTAÇÃO INIDÔNEA. SÚMULAS N. 440/STJ, 718/STF E 719/STF. ADEQUAÇÃO AO ART.33, §§ 2.º E 3.º, C.C. O ART. 59, AMBOS DO CÓDIGO PENAL. ORDEM DE HABEAS CORPUS CONCEDIDA.
+1. Fixada a pena-base no mínimo legal, dada a ausência de circunstâncias judiciais desfavoráveis, considerada a primariedade e a inexistência de fundamentação concreta para a fixação do regime diverso do legal, não é possível infligir regime prisional mais gravoso. Precedentes. Entendimento sedimentado nos Verbetes Sumulares n. 440/STJ, 718/STF e 719/STF.
+2. Se não há o reconhecimento de circunstâncias judiciais negativas, é ilegítimo agravar o regime de cumprimento da pena sem motivação idônea, como observo que ocorreu no caso, na medida em que as instâncias ordinárias fundamentaram a aplicação do regime mais gravoso com base na gravidade abstrata do crime de roubo e no fato de ter sido praticado com grave ameaça e emprego de arma de fogo, elementos que já são inerentes ao delito.
+3. A mera alegação, de forma genérica, de que o crime de roubo realizado por meio de artefato bélico potencializa o temor próprio do delito, impondo à vítima um trauma de difícil ou de impossível reparação, sem o apontamento de consequências nefastas concretas sofridas pelo ofendido, igualmente não merece ser considerada válida para a imposição de modo carcerário mais gravoso.
+4. Da mesma forma que as condenações penais em curso ou sem trânsito em julgado não podem ser valoradas negativamente para fim de exasperar a pena-base, conforme entendimento exarado na Súmula n.444 do Superior Tribunal de Justiça, igualmente não podem ser consideradas para agravar o regime prisional inicial, sob pena de ofensa ao princípio da não culpabilidade.
+5. Ordem de habeas corpus concedida para, ratificando a liminar deferida, modificar o regime inicial de cumprimento de pena para o semiaberto.
+(HC 548.143/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/10/2020, DJe 12/11/2020)
+Sendo assim, imperiosa a fixação do regime inicial semiaberto.
+Todavia, "à vista da ausência, nos autos, de elementos necessários à aplicação do disposto no art. 387, § 2º, do Código de Processo Penal, caberá ao Juízo das Execuções examinar se o tempo de prisão cautelar do paciente autoriza a fixação de regime mais brando" (HC 342.041/SP, Rel. Ministro Ericson Maranho (desembargador convocado do TJ/SP), Sexta Turma, DJe 16/03/2016)" -HC n. 416.513/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 19/10/2017, DJe 27/10/2017).
+Ante o exposto, concedo parcialmente a ordem para fixar o regime inicial semiaberto e determinar ao Juízo da execução a aplicação do § 2º do art. 387 do CPP.
+Publique-se. Intimem-se.
