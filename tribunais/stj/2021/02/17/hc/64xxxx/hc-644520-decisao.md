@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 43):
+Tráfico. Art. 33, caput, Lei nº 11.343/06. Conjunto probatório robusto para lastrear o decreto condenatório. Prova da finalidade de entrega a terceiros, advinda da forma de embalagem e da quantidade de droga. Pena e regime mantidos. Recurso Improvido.
+O paciente foi condenado às penas de 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa, por ofensa ao art. 33, caput, c/c o art. 40, VI, ambos da Lei 11.343/2006.
+Pugna a impetrante, liminarmente e no mérito, pela aplicação da minorante prevista na Lei de Drogas, alteração do regime prisional e substituição da pena privativa de liberdade pela restritiva de direitos.
+É o relatório.
+DECIDO.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se, de plano, evidente constrangimento ilegal.
+No entanto, não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Sobre a dosimetria da pena, assim se manifestou o Tribunal local (fls. 51-52):
+ .. A pena-base aplicada ao réu restou fixada em seu patamar mínimo legal, ante a compensação das circunstâncias agravantes e atenuantes.
+Ato contínuo, a pena foi aumentada em 1/6, vez que restou devidamente configurada circunstância agravante do envolvimento de adolescente no delito, qual seja, aquela prevista no artigo 40, inciso VI, da Lei de Drogas, sendo que não há que se falar no seu afastamento.
+Também deve ser afastado o pleito defensivo de aplicação da causa de diminuição de pena prevista no artigo 33, § 4º, da Lei 11.343/06, no caso em tela, ante ao fato que em poder do réu restaram apreendidas nada menos que 23 porções de "Erythroxilon coca ("cocaína"), pesando aproximadamente seis gramas;64 porções de Cannabis sativa L ("maconha"), pesando aproximadamente oitenta e uma gramas; bem como dois "tijolos" da mesma droga, pesando aproximadamente trezentas e trinta e duas; e mais três porções de "Erythroxilon coca ("cocaína"), pesando aproximadamente dezessete gramas, entorpecentes que seriam preparados e colocados à disposição dos consumidores da cidade. Ora tamanha quantidade e diversidade representa um perigo maior à saúde pública, atingindo incontáveis usuários, conforme o disposto no artigo 42, da Lei de Drogas. Sendo certo que a conduta do réu implica em um alto risco à saúde pública com a colocação de tamanha quantidade de narcóticos na rua de pequena cidade, as quais por muitas vezes não dispões da estrutura ambulatorial para tratar de casos de overdose. ..
+Como visto, no presente feito, o TJSP não aplicou o redutor do art. 33, § 4º, da legislação em apreço, porquanto foi apreendida com o paciente expressiva quantidade de drogas: 23 gramas de cocaína e 413 gramas de maconha.
+Com efeito, o art. 42 da Lei Antidrogas determina que o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+Logo, devidamente fundamentada a negativa da benesse com fulcro no art. 42 do Diploma Antidrogas, não há falar-se em constrangimento ilegal. Nesse sentido: HC 340.540/SP, de minha relatoria, SEXTA TURMA, julgado em 17/11/2015, DJe 30/11/2015; AgRg no REsp 1.383.773/DF, Rel. Min. MARCO AURÉLIO BELLIZZE, QUINTA TURMA, DJe 22/05/2014.
+Acerca do regime prisional, extrai-se do aresto impugnado (fl. 54):
+ ..  no caso em tela o réu não apresenta circunstâncias judiciais favoráveis, pois demonstra elevada periculosidade, sendo responsável por armazenar e preparar para venda diversas porções de variados narcóticos, inclusive "cocaína", droga de especial nocividade, as quais seriam colocadas à disposição de incontáveis usuários, mantendo nefasto vício que ceifa vidas jovens e destrói famílias, demonstrando assim total descaso com a vida alheia na busca pelo lucro. Ademais, o réu aliciou menor de idade para auxiliá-lo na prática do delito. ..
+Assim,apontado fundamento concreto para justificar imposição de regime mais gravoso, destacando-se que o agente, além de incorrer na prática delitiva, envolveu adolescente na empreitada criminosa, não há ilegalidade na fixação de regime inicial mais gravoso para cumprimento de pena. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA.REGIME PRISIONAL FECHADO. FUNDAMENTO IDÔNEO. ILEGALIDADE. AUSÊNCIA. DECISÃO MANTIDA. ATIPICIDADE. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. AGRAVO IMPROVIDO.
+1. Tendo sido apontado fundamento concreto para justificar imposição de regime mais gravoso, destacando-se que o agente, além de incorrer na prática delitiva, o paciente envolveu adolescente na empreitada criminosa, não há ilegalidade na fixação de regime inicial mais gravoso para cumprimento de pena.
+2. A questão referente a atipicidade da conduta não foi trazida no writ, configurando inadmissível inovação recursal.
+3. Agravo regimental improvido.(AgRg no HC 601.525/SP, por mim relatado, SEXTA TURMA, julgado em 06/10/2020, DJe 13/10/2020).
+Por fim, diante do quantum arbitrado à reprimenda, superior a quatro anos de reclusão, incabível a substituição das penas, a teor do que dispõe o art. 44, I, do código repressivo.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
