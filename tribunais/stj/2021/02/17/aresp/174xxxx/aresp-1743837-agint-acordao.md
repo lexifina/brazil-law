@@ -1,0 +1,36 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC (ART. 932). 1. Trata-se de Agravo Interno de decisão da Presidência do STJ que não conheceu do Agravo em Recurso Especial, nestes termos: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao artigo 1.022 do CPC e Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente: ausência de afronta ao artigo 1.022 do CPC. (..) Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ" (fls. 303-304, e-STJ).
+2. A agravante afirma que as razões do Agravo enfrentam o mérito da questão, constituindo capítulo autônomo do Recurso Especial, não prejudicado pelo fato de não ter sido hostilizada a parcela decisória que considerou inexistentes os vícios do art. 1.022 do CPC/2015.
+3. A Corte Especial do STJ pacificou o entendimento acerca da necessidade de o recorrente, em Agravo em Recurso Especial, impugnar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do Recurso Especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018).
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno de decisão da Presidência do STJ que não conheceu do Agravo em Recurso Especial, nestes termos:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao artigo 1.022 do CPC e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de afronta ao artigo 1.022 do CPC.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ. (fls. 303-304, e-STJ)
+A agravante afirma que as razões do Agravo enfrentam o mérito da questão, constituindo capítulo autônomo do Recurso Especial, não prejudicado pelo fato de não ter sido hostilizada a parcela decisória que considerou inexistentes os vícios do art. 1.022 do CPC/2015.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC (ART. 932). 1. Trata-se de Agravo Interno de decisão da Presidência do STJ que não conheceu do Agravo em Recurso Especial, nestes termos: "Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao artigo 1.022 do CPC e Súmula 7/STJ. Entretanto, a parte agravante deixou de impugnar especificamente: ausência de afronta ao artigo 1.022 do CPC. (..) Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ" (fls. 303-304, e-STJ).
+2. A agravante afirma que as razões do Agravo enfrentam o mérito da questão, constituindo capítulo autônomo do Recurso Especial, não prejudicado pelo fato de não ter sido hostilizada a parcela decisória que considerou inexistentes os vícios do art. 1.022 do CPC/2015.
+3. A Corte Especial do STJ pacificou o entendimento acerca da necessidade de o recorrente, em Agravo em Recurso Especial, impugnar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do Recurso Especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018).
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 1º de dezembro de 2020.
+Não procede a irresignação.
+A Corte Especial do STJ pacificou o entendimento acerca da necessidade de o recorrente, em Agravo em Recurso Especial, impugnar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do Recurso Especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018). Cito ainda:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE INADMISSIBILIDADE. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do recurso especial para que se conheça do respectivo agravo.
+2. Como registrado na primeira oportunidade, o agravante não infirmou devidamente a alegação de que incidiria o óbice da Súmula 7/STJ. Logo, a Súmula 182 desta Corte foi corretamente aplicada ao caso.
+3. A Corte Especial do STJ firmou orientação de que a decisão de inadmissão do recurso especial é incindível em capítulos autônomos, tornando imprescindível a impugnação específica de todos os seus fundamentos (cfr. EAREsps 701.404/SC, 746.775/PR e 831.326/SP, Rel. p/ acórdão Min. Luis Felipe Salomão).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.461.155/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 9/9/2019)
+O equívoco da União foi confundir tal abordagem com a extensão da recorribilidade: em havendo concordância com parte da decisão agravada, ou desistência de recorrer em relação a determinado ponto, tal informação deveria ser expressamente comunicada nas razões recursais, hipótese em que a fundamentação recursal (e, portanto, o conteúdo da impugnação) não seria considerada deficiente.
+Com essas considerações, nego provimento ao Agravo Interno.
+É como voto.
