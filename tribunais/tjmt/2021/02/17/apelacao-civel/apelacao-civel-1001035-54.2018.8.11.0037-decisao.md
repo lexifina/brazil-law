@@ -1,0 +1,68 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1001035-54.2018.8.11.0037
+RECORRENTE: COOALESTE - COOPERATIVA AGRÍCOLA DOS PRODUTORES RURAIS DA REGIÃO SUL DO MATO GROSSO
+RECORRIDO: WILMAR LUFT
+Vistos.
+Trata-se de Recurso Especial (id 69589995) interposto por COOALESTE - COOPERATIVA AGRÍCOLA DOS PRODUTORES RURAIS DA REGIÃO SUL DO MATO GROSSO, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, assim ementado (id 62878591):
+“APELAÇÃO CÍVEL – AÇÃO DE COBRANÇA – PARCIAL PROCEDÊNCIA NA ORIGEM – COOPERATIVA AGRÍCOLA - CERCEAMENTO DE DEFESA – NÃO ADMISSÃO DA ORGANIZAÇÃO DAS COOPERATIVAS BRASILEIRAS COMO AMICUS CURIAE – DESNECESSIDADE – PRELIMINAR REJEITADA – PREJUÍZOS OCORRIDOS - RATEIO ENTRE OS ASSOCIADOS - RAZÃO DIRETA DOS SERVIÇOS USUFRUÍDOS – ART. 89 DA LEI 5.764/71 – NÃO COMPROVAÇÃO – RECURSO NÃO PROVIDO.
+Não configura cerceamento de defesa a não admissão da Organização das Cooperativas Brasileiras na demanda como amicus curiae quando os documentos e a legislação que definem a política nacional de cooperativismo são suficientes para decidir o feito.
+Os prejuízos verificados no decorrer do exercício serão cobertos com recursos provenientes do Fundo de Reserva e, se insatisfatórios, mediante rateio entre os associados, na razão direta dos serviços usufruídos”. (TJMT – Quarta Câmara de Direito Privado – Apelação n. 1001035-54.2018.8.11.0037, Relator: Des RUBENS DE OLIVEIRA SANTOS FILHO, j. em 21/10/2020, p. 26/10/2020).
+Opostos Embargos de Declaração (id 64765463), estes foram rejeitados no acórdão id 66092488.
+Na espécie, o presente recurso foi interposto contra o aresto que, em sede de Apelação, manteve a sentença que julgou parcialmente procedente os pedidos em Ação de Cobrança para condenar o réu ao pagamento de R$ 1.869.159,94, com juros de 1% ao mês e correção monetária a partir da citação, além das custas e dos honorários advocatícios de 10% sobre o valor da condenação.
+A Recorrente alega violação ao artigo 369 do Código de Processo Civil, ao argumento de que teria havido cerceamento de defesa em razão do indeferimento do pleito de admissão da Organização das Cooperativas do Brasil no Estado de Mato Grosso - OCB/MT, como amicus curiae, no feito.
+Suscita contrariedade ao artigo 1.022, I e II, do CPC, porquanto “(...) o v. acórdão que julgou os embargos de declaração, apontando graves omissões e contradições no julgado, deixou de observar as peculiaridades do enquadramento solidificado na demanda, de forma que aos aclaratórios opostos do mencionado acórdão foram rejeitados sem que referidas questões fossem examinadas pelo E. Tribunal a quo (...)”. (id 69589995 - p. 7)
+Assevera que houve afronta ao artigo 45 da Lei n. 5.764/71, pois a “Assembleia Geral Extraordinária realizada no dia 08/11/2013, que definiu os critérios de rateio entre os cooperados para pagamento das perdas para a recorrente, é legitima e deve ser respeitada em toda a sua plenitude”.
+Afirma que “(...) o v. acórdão contraria fatalmente o que dispõe o art. 80, parágrafo único, I, da Lei n° 5.764/71, e o art. 89 do mesmo diploma legal, eis que não há se falar em diferenças entre despesa e prejuízo, sobretudo que uma evidentemente leva ao outro, inclusive está se tratando este viés das perdas cobradas sob a nomenclatura de despesas gerais desde o ajuizamento da ação”.
+Recurso tempestivo (id 69790458) e preparado (id 70166466).
+Sem contrarrazões, conforme id 75183545.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da deficiência de fundamentação (Súmula 284 do STF)
+Na interposição do Recurso Especial é necessário que as razões recursais sejam redigidas com fundamentações precisas, com identificação exata do suposto dispositivo legal violado, a controvérsia correspondente, bem como das circunstâncias de como ocorreu a afronta legal, conforme prevê a Súmula 284 do STF.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. OMISSÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. RESPONSABILIDADE CIVIL. CUMPRIMENTO DE SENTENÇA EM AÇÃO DE INDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRABALHO. JULGAMENTO POR MAIORIA. ART. 942 DO CPC/2015. NÃO INCIDÊNCIA. ALEGAÇÃO DE ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. JULGAMENTO EXTRA PETITA. INEXISTÊNCIA. ALIENAÇÃO DA MARCA DA EMPRESA EXECUTADA. FRAUDE À EXECUÇÃO RECONHECIDA. MÁ-FÉ DA ADQUIRENTE (SÚMULA 375/STJ). REEXAME DE MATÉRIA FÁTICA (SÚMULA 7/STJ). PRESCRIÇÃO TRIENAL. ART. 206, § 3o, IV, DO CC/2002. NÃO INCIDÊNCIA. OBRIGAÇÃO DECORRENTE DE CONDENAÇÃO EM AÇÃO ACIDENTÁRIA. RECURSO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+(...)
+7. Agravo interno a que se nega provimento”. (AgInt no AREsp 1233242/RS, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), QUARTA TURMA, julgado em 18/09/2018, DJe 24/09/2018). (g.n.)
+Assim, embora tenha alegado violação ao artigo 1.022, I e II, do CPC, a Recorrente não apontou de forma específica e individualizada a contradição ou omissão do acórdão, tampouco por que seria relevante a discussão da matéria para o deslinde da causa, caracterizando deficiência na fundamentação recursal e impondo a aplicação da Súmula 284/STF, o que conduz à inadmissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação ao artigo 369 do CPC, está amparada na assertiva de que teria havido cerceamento de defesa em razão do indeferimento do pleito de admissão da Organização das Cooperativas do Brasil no Estado de Mato Grosso - OCB/MT, como amicus curiae, no feito.
+No entanto, constou do aresto impugnado que “é desnecessária a admissão da Organização das Cooperativas Brasileiras na presente Ação de Cobrança, uma vez que os documentos e a legislação sobre a política nacional de cooperativismo são suficientes para dirimir a controvérsia”. (id 62878591 - p. 6)
+Logo, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE TELEFONIA MÓVEL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICONAL. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. AUSENTE. NECESSIDADE DE PRODUÇÃO DE PROVAS. SÚMULA 7 DO STJ.
+1. ‘No que se refere à aplicação do disposto no art. 1.042, § 5o, do CPC/2015, não merece acolhimento, tendo em vista que os arts. 932, IV e V, do CPC/2015; 255, § 4o, do RISTJ; e enunciado n. 568 da Súmula do STJ permitem ao relator decidir monocraticamente o recurso, quando amparado em jurisprudência dominante ou Súmula de Tribunal Superior, como no caso dos autos’. (AgInt no AREsp 1435896/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/11/2019, DJe 29/11/2019) 2. Não há negativa de prestação jurisdicional quando as questões fundamentais ao deslinde da controvérsia foram apreciadas de forma coerente e fundamentada pelo Tribunal estadual, não consubstanciando qualquer eiva ao art. 1.022 do CPC a tomada de posição contrária ao interesse da parte.
+3. Conforme a jurisprudência do Superior Tribunal de Justiça, não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas.
+4. A Corte local concluiu que o julgamento antecipado não caracterizou cerceamento de defesa, uma vez que a prova colacionada aos autos era suficiente para a convicção do magistrado sentenciante. A alteração da conclusão do acórdão recorrido encontra óbice na Súmula 7 do STJ.
+5. Agravo interno não provido”. (AgInt no AREsp 1283345/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020). (mutatis mutandis)
+Igual entendimento é aplicado à alegada afronta aos artigos 45, 80, parágrafo único, I, e 89, da Lei n. 5.764/71, cuja controvérsia se refere à obrigação do cooperado em arcar com as perdas, em observância à regular deliberação assemblear a respeito dos rateios aprovados.
+Neste ponto, afirma a Recorrente que as perdas decorrentes da aprovação, nas respectivas Assembleia Gerais Ordinárias e Extraordinárias, de exercícios financeiros e outras deliberações, de sorte que a definição de rateio somente possibilitou a cobrança das referidas perdas.
+Por sua vez, a Câmara julgadora ponderou que “(...) é cabível o rateio dos prejuízos verificados, consoante estipulado em Assembleia Geral, desde que comprovada a fruição de serviços durante o período em que se deu a apuração do prejuízo, o que não ficou demonstrado aqui”. (id 62878591 - p. 8). (g.n.)
+Nesse contexto, para rever o entendimento adotado no acórdão ora objurgado, seria necessário o reexame de fatos. Confira-se:
+“RECURSO ESPECIAL. AÇÃO DE COBRANÇA. COOPERATIVA MÉDICA. RESPONSABILIDADE LIMITADA. RATEIO DAS DESPESAS GERAIS, PREJUÍZOS E SOBRAS. LEI N. 5764/1971. ALEGAÇÃO DA EXISTÊNCIA DE CRÉDITO EM FAVOR DA EX-COOPERADA. NECESSIDADE DE PROVA PERICIAL. LIQUIDAÇÃO ZERO.
+1. O art. 80, parágrafo único, da Lei n. 5.764/1971 admite o rateio igualitário das despesas gerais, a depender de previsão no estatuto social da cooperativa, ao passo que em relação aos prejuízos sempre deverá ser observada a proporcionalidade, nos termos do art. 89 do mesmo diploma. No caso, não houve alteração estatutária quanto ao rateio igualitário das despesas gerais, tendo em vista que a deliberação sobre adequar o estatuto ao disposto nos incisos I e II, do parágrafo único, do art. 80 da Lei n. 5.764/1971 ocorreu em assembleia geral ordinária.
+2. O Tribunal de origem concluiu que o deslinde da questão envolve cálculos complexos, dependendo da discriminação dos valores referentes às despesas gerais, aos prejuízos e sobras, à individualização do débito de cada cooperado, à planilha evolutiva da importância e à prova da fruição dos serviços nos períodos vindicados, e, assim, a prova pericial se impunha como indispensável para o êxito do pedido. De fato a autora não se desincumbiu de comprovar, por meio de prova pericial, que os cálculos elaborados pela ora recorrida estavam incorretos.
+3. Desse modo, verifica-se que alterar a fundamentação do aresto recorrido é tarefa que demandaria, necessariamente, incursão no acervo fático-probatório dos autos o que é vedado ante o óbice preconizado na Súmula 7 deste Tribunal.
+4. Não há que se cogitar cerceamento de defesa da ora recorrente, quando esta insistiu no julgamento antecipado da lide, nos termos do art. 330, I, do Código de Processo Civil, alertando que eventual prova pericial seria protelatória.
+5. Recurso especial a que se nega provimento”. (REsp 1123633/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/08/2013, DJe 16/09/2013). (mutatis mutandis)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
