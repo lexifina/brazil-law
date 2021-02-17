@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+TRIBUTÁRIO. MANDANDO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS. LIMITAÇÃO. 20 SALÁRIO MÍNIMOS. ART. 4º DA LEI 6.950/81. REVOGAÇÃO. A limitação de 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei nº 6.950/81, também foi revogada junto com o caput do mesmo artigo, pelo Decreto-Lei nº 2.318/86, uma vez que não é possível subsistir em vigor o parágrafo, estando revogado o artigo correspondente.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aoart. 4º, § 1º, da Lei 9.950/1981. Alega:
+No caso paradigma entendeu-se que se encontra vigente o parágrafo único do artigo 4º da Lei nº 6.950/81, por não ter lhe revogado o artigo 3º Decreto-Lei nº 2.318/86, sendo reconhecida a validade da regra que estipula que a base de cálculo das contribuições destinadas a entidades terceiras seja limitada ao importe correspondente a 20 (vinte) salários mínimos. No caso recorrido, em entendimento completamente diverso, foi firmado entendimento de que o artigo 4º da Lei nº 6.950/81 em sua integralidade, fora revogado pelo artigo 3º Decreto-Lei nº 2.318/86,sendo reconhecida a inaplicabilidade da regra que estipula que a base de cálculo das contribuições destinadas a entidades terceiras seja limitada ao importe correspondente a 20 (vinte) salários mínimos.
+Contrarrazões às fls. 1.217-1.219, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 24/8/2020.
+Merece prosperar a irresignação.
+No caso dos autos, o Tribunal de origem consignou:
+A Lei nº 6.950/81 alterou a Lei nº 3.807/60, fixando novo limite máximo do salário-de-contribuição previsto na Lei nº 6.332/76, e deu outras providências.
+No art. 4º, preceituou: "Art 4º - O limite máximo do salário-de-contribuição, previsto no art. 5ºda Lei nº 6.332, de 18 de maio de 1976, é fixado em valor correspondente a20 (vinte) vezes o maior salário-mínimo vigente no País.
+Parágrafo único - O limite a que se refere o presente artigo aplica-se às contribuições parafiscais arrecadadas por conta de terceiros."
+Como se vê, à época, a exigência das contribuições previdenciárias e das contribuições devidas a terceiros restou limitada ao valor correspondente a 20 vezes o maior salário mínimo vigente no País.
+Todavia, o art. 4º da Lei nº 6.950/81 foi revogado posteriormente pelo art. 3º do Decreto-Lei nº 2.318/86, que assim dispõe:"Art 3º Para efeito do cálculo da contribuição da empresa para a previdência social, o salário de contribuição não está sujeito ao limite de vinte vezes o salário mínimo, imposto pelo art. 4º da Lei nº 6.950, de 4 de novembro de1981."Dessa forma, a limitação de 20 salários mínimos, prevista no parágrafo único do art. 4º da Lei nº 6.950/81, também foi revogada junto como caput do mesmo artigo, pelo Decreto-Lei nº 2.318/86, uma vez que não é possível subsistir em vigor o parágrafo, estando revogado o artigo correspondente.
+A conclusão está em dissonância com a jurisprudência do Superior Tribunal de Justiça de que a base de cálculo das contribuições parafiscais recolhidas por conta de terceiros fica restrita ao limite máximo de 20 salários mínimos, nos termos do parágrafo único do art. 4º da Lei 6.950/1981, que não foi revogado pelo art. 3º do Decreto-Lei 2.318/1986, que disciplina as contribuições sociais devidas pelo empregador diretamente à Previdência Social.
+A propósito:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO SOCIAL DEVIDA A TERCEIROS. LIMITE DE VINTE SALÁRIOS MÍNIMOS. ART. 4O DA LEI 6.950/1981 NÃO REVOGADO PELO ART. 3O DO DL 2.318/1986. INAPLICABILIDADE DO ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. Com a entrada em vigor da Lei 6.950/1981, unificou-se a base contributiva das empresas para a Previdência Social e das contribuições parafiscais por conta de terceiros, estabelecendo, em seu art. 4o., o limite de 20 salários-mínimos para base de cálculo.Sobreveio o Decreto 2.318/1986, que, em seu art. 3o., alterou esse limite da base contributiva apenas para a Previdência Social, restando mantido em relação às contribuições parafiscais.
+2. Ou seja, no que diz respeito às demais contribuições com função parafiscal, fica mantido o limite estabelecido pelo artigo 4o., da Lei no 6.950/1981, e seu parágrafo, já que o Decreto-Lei 2.318/1986 dispunha apenas sobre fontes de custeio da Previdência Social, não havendo como estender a supressão daquele limite também para a base a ser utilizada para o cálculo da contribuição ao INCRA e ao salário-educação.
+3. Sobre o tema, a Primeira Turma desta Corte Superior já se posicional no sentido de que a base de cálculo das contribuições parafiscais recolhidas por conta de terceiros fica restrita ao limite máximo de 20 salários-mínimos, nos termos do parágrafo único do art. 4o. da Lei 6.950/1981, o qual não foi revogado pelo art. 3o.do DL 2.318/1986, que disciplina as contribuições sociais devidas pelo empregador diretamente à Previdência Social. Precedente: REsp.953.742/SC, Rel. Min. JOSÉ DELGADO, DJe 10.3.2008.
+4. Na hipótese dos autos, não tem aplicação, na fixação da verba honorária, os parâmetros estabelecidos no art. 85 do Código Fux, pois a legislação aplicável para a estipulação dos honorários advocatícios será definida pela data da sentença ou do acórdão que fixou a condenação, devendo ser observada a norma adjetiva vigente no momento de sua publicação.
+5. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no REsp 1.570.980/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/02/2020, DJe 03/03/2020)
+PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. AUSÊNCIA DE VIOLAÇÃO DO ART. 535 II, DO CPC. AUXÍLIO EDUCAÇÃO. SEGURO DE VIDA EM GRUPO. CONVÊNIO SAÚDE. LIMITE DO SALÁRIO-DE-CONTRIBUIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. ART. 515, DO CPC. VALORES PAGOS A TÍTULO DE ALUGUÉIS DE IMÓVEIS PARA USO DE EMPREGADOS E PARTICIPAÇÃO NOS LUCROS. QUESTÕES FÁTICAS APRECIADAS PELA ORIGEM. SÚMULA 7/STJ. VIOLAÇÃO DO § 2º, DO ART. 25, DA LEI N. 8.870/94. ENFOQUE CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME DO TEMA NA VIA ESPECIAL.
+(..)
+3. No período do lançamento que se discute nos autos, tem aplicação o art. 4º, parágrafo único, da Lei n. 6.950/81, que limita o recolhimento do salário-de-contribuição de vinte vezes o valor do salário-mínimo para o cálculo da contribuição de terceiros.
+(..)
+(REsp. 953.742/SC, Rel. Min. JOSÉ DELGADO, DJe 10/3/2008).
+No mesmo sentido,as seguintes decisões monocráticas: REsp1.241.362/SC, Rel. Min. ASSUSETE MAGALHÃES, DJe 8/11/2017; REsp1.439.511/SC, Rel. Min. HERMAN BENJAMIN, DJe de 25/6/2014.
+Diante do exposto,nos termos do art. 255, § 4º, III, do RI/STJ e da Súmula 568/STJ, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
