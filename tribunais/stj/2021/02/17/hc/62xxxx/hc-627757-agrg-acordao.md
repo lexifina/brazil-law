@@ -1,0 +1,47 @@
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. FALTA GRAVE. PARECER DESFAVORÁVEL EMITIDO PELA COMISSÃO TÉCNICA DE CLASSIFICAÇÃO. AUSÊNCIA DE CUMPRIMENTO DO REQUISITO SUBJETIVO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O art. 112 da Lei de Execução Penal exige, para a concessão da progressão de regime, o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+2. Na hipótese, as instâncias ordinárias entenderam que o caso em questão requer cautela, diante do histórico prisional do agravante, que cometeu falta disciplinar grave, em 2013, além de ter obtido parecer desfavorável pela Comissão Técnica de Classificação.
+3. Embora o agravante tenha cumprido o requisito temporal para progressão de regime, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, o histórico prisional do apenado. Precedentes.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por ALISON DIEGO SOARES SILVA (e-STJ, fls. 243-254) contra decisão desta relatoria (e-STJ, fls. 237-239), que não conheceu do habeas corpus.
+O agravante alega, em síntese, constrangimento ilegal, pois não haveria fundamentação concreta para o indeferimento da progressão de regime, ressaltando que a impossibilidade de submissão do apenado a exame criminológico, face à atual pandemia, não poderia prejudicá-lo.
+Ressalta que "a manifesta injustiça do r. decisório guerreado se verifica da denegação da progressão de regime sob fundamento na gravidade abstrata do delito cometido, na infração grave pretérita e na longevidade da pena e com base num exame criminológico de longa data, sem contar que é confessa em dizer que não era possível realizar novo exame por conta da pandemia" (e-STJ, fl. 245).
+Requer, assim, a reconsideração da decisão impugnada ou a submissão do feito ao colegiado.
+É o relatório.
+EMENTA
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. FALTA GRAVE. PARECER DESFAVORÁVEL EMITIDO PELA COMISSÃO TÉCNICA DE CLASSIFICAÇÃO. AUSÊNCIA DE CUMPRIMENTO DO REQUISITO SUBJETIVO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O art. 112 da Lei de Execução Penal exige, para a concessão da progressão de regime, o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+2. Na hipótese, as instâncias ordinárias entenderam que o caso em questão requer cautela, diante do histórico prisional do agravante, que cometeu falta disciplinar grave, em 2013, além de ter obtido parecer desfavorável pela Comissão Técnica de Classificação.
+3. Embora o agravante tenha cumprido o requisito temporal para progressão de regime, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, o histórico prisional do apenado. Precedentes.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar o decisum agravado, motivo pelo qual o mantenho por seus próprios fundamentos.
+O art. 112 da Lei de Execução Penal exige, para a concessão da progressão de regime, o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+Conforme consignado na decisão agravada, ao analisar o agravo em execução manejado pela defesa, o Tribunal de origem manteve a decisão do Juízo da Execução, que havia indeferido a progressão ao regime semiaberto, adotando a seguinte fundamentação (e-STJ, fl. 232-233, com destaque):
+" ..  a aquisição de qualquer benefício consiste apenas em mera expectativa de direito do sentenciado, eis que há necessidade do preenchimento dos requisitos objetivo e subjetivo. Há que se observar, para além do parecer desfavorável emitido pela Comissão Técnica de Classificação, que o sentenciado registra uma falta grave durante o cumprimento das reprimendas (fls. 261/264), daí porque entendo mais que justificada a cautela manifestada pela MM. Juíza a quo."
+Da análise dos autos, verifica-se que as instâncias ordinárias entenderam que o caso em questão requer cautela, diante do histórico prisional do agravante, que cometeu falta disciplinar grave, em 2013 (e-STJ, fl. 226), além de ter obtido parecer desfavorável pela Comissão Técnica de Classificação - o qual, cumpre registrar, sequer fora juntado aos autos pelo agravante, não se tendo notícia nem mesmo da data de sua realização.
+Embora o paciente tenha cumprido o requisito temporal para progressão de regime, é sabido que o magistrado define sua convicção pela livre apreciação da prova, analisando os critérios subjetivos, in casu, o histórico prisional do apenado, aliado ao fato de que já havia obtido parecer desfavorável ao benefício pela Comissão Técnica de Classificação.
+Sobre o tema, com destaques:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO FAVORÁVEL. RELATÓRIO PSICOLÓGICO DESFAVORÁVEL. FALTAS GRAVES. FUNDAMENTAÇÃO CONCRETA. ANÁLISE FÁTICO-PROBATÓRIA. VIA ESTREITA. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício, em homenagem ao princípio da ampla defesa.
+II - Para a progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112, da LEP.
+III - Com as inovações da Lei n. 10.792/03, que alterou o art. 112 da Lei n. 7.210/84 (LEP), afastou-se a exigência do exame criminológico para fins de progressão de regime. Este Superior Tribunal de Justiça firmou entendimento de que o Magistrado de 1º Grau, ou o eg. Tribunal a quo, diante das circunstâncias do caso concreto, podem determinar a realização da referida prova técnica para a formação de seu convencimento, desde que essa decisão seja adequadamente motivada. Súmula n. 439/STJ e Súmula Vinculante n. 26.
+IV - "No caso, o Tribunal de origem ratificou a decisão proferida pelo Juízo das Execuções Criminais, que indeferiu o pedido de progressão de regime, com fundamento em parecer psicossocial desfavorável ao Apenado, no qual se destacou a sua propensão à reiteração delitiva" (HC n. 481.739/RS, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 05/04/2019).
+V - In casu, a conclusão da eg. Corte estadual pela ausência do requisito subjetivo, abalizada, em especial, em relatório psicológico desfavorável e faltas graves, constitui fundamentação idônea, circunstância que evidencia a ausência de ilegalidade, constrangimento ilegal ou arbitrariedade na negativa da benesse. Precedentes.
+VI - Ademais, é firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, providência que implicaria o reexame do conjunto fático-probatório dos autos da execução, incompatível com os estreitos limites da via eleita.
+Habeas corpus não conhecido." (HC 537.585/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+"HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE PROGRESSÃO AO REGIME SEMIABERTO. INDEFERIMENTO FUNDAMENTADO. AUSÊNCIA DO REQUISITO SUBJETIVO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A execução progressiva da pena, com a transferência para regime menos gravoso, somente será concedida ao condenado que preencher, cumulativamente, os requisitos estabelecidos no art. 112 da Lei de Execução Penal.
+2. "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada" (Enunciado n.º 439 da Súmula desta Corte).
+3. No caso, o Tribunal de origem ratificou a decisão proferida pelo Juízo das Execuções Criminais, que indeferiu o pedido de progressão de regime, com fundamento em parecer psicossocial desfavorável ao Apenado, no qual se destacou a sua propensão à reiteração delitiva.
+4. Ademais, a idoneidade da decisão também está assentada no histórico prisional desfavorável do Sentenciado, o qual praticou três faltas disciplinares de natureza grave.
+5. Ordem de habeas corpus denegada." (HC 481.739/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 21/03/2019, DJe 05/04/2019).
+Por fim, o remédio constitucional não é o mecanismo próprio para a análise de questões que exijam o exame do conjunto fático-probatório em razão da incabível dilação probatória que seria necessária.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
