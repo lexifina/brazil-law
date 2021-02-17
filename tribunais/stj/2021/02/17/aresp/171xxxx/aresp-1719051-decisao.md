@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ROSANA BANZER DURAN em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul, cuja ementa, na parte que interessa, é a seguinte (e-STJ fls. 1893/1894):
+EMENTA - APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS E ASSOCIAÇÃO - RÉ ROSANA BANZER DURAN - ABSOLVIÇÃO - IMPOSSIBILIDADE - APLICAÇÃO DA MENORIDADE RELATIVA - INVIABILIDADE - RECONHIMENTO DA EVENTUALIDADE - IMPERTINÊNCIA - SUBSTITUIÇÃO DA PENA - REJEIÇÃO - RECURSO DESPROVIDO. 1. Considerando a existência de elementos sobre a materialidade e autoria dos delitos, deve ser mantida as condenações, nos termos da sentença. 2. Tratando-se de ré com mais de vinte e um anos ao tempo dos fatos, incabível o reconhecimento da atenuante da menoridade relativa. 3. A condenação da ré pelo crime de associação impede o reconhecimento da eventualidade, pelo não preenchimento do requisito relacionado à não integração de grupo criminoso. 4. Ausentes os requisitos do art. 44 do Código Penal, é inviável a substituição da pena.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 1947/1950).
+É o relatório que basta.Decido.
+Da análise dos autos, extrai-se que a decisão agravada inadmitiu o recurso especial interposto pelo recorrente, considerando para tanto a incidência do óbice daSúmula 284/STF e a ausência de demonstração do dissídio jurisprudencial (e-STJ fls. 2015/2017).
+Não obstante, verifico que, nas razões do agravo (e-STJ fls. 2023/2044), a parte agravante não apresentouimpugnação quanto aos referidos entraves, limitando-se a reproduzir o recurso especial apresentado.
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar,de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia.
+Nesses casos, é inafastável a incidência do enunciado182 da Súmula do STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, os seguintes julgados:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. CONCESSÃO DE SUSPENSÃO CONDICIONAL DA PENA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Incabível a execução provisória da pena imposta a réu ao qual concedida a suspensão condicional da pena. Precedentes.
+3. Agravo regimental improvido e indeferido o pedido de execução provisória da pena.(AgRg no AREsp n. 1.193.328/GO, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 24/4/2018, DJe 11/5/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 1.021, § 1º, DO CPC/2015. SÚMULA N. 182/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos n. 2 e 3/STJ).
+2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial desta Corte Superior na redação da Súmula182/STJ.
+3. Agravo interno não conhecido.(AgInt no AREsp n. 1.167.399/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 10/4/2018, DJe 13/4/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.(AgInt no AREsp n. 1.221.514/SP, Rel. Ministro BENEDITO GONÇALVES, Primeira Turma, julgado em 10/4/2018, DJe 19/4/2018).
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. IMPOSSIBILIDADE. PRESCRIÇÃO. NÃO OCORRÊNCIA. DECISÃO QUE INADMITE O RECURSO ESPECIAL. NATUREZA DECLARATÓRIA. AGRAVO NÃO CONHECIDO.
+1. Não se conhece de agravo regimental que não apresenta fundamentação específica contra os fundamentos da decisão agravada, conforme previsto no art. 932, III, CPC, e na Súmula182/STJ.
+2. Não há falar em extinção da punibilidade pela ocorrência da prescrição, uma vez que a decisão que inadmite o recurso especial ou extraordinário possui natureza jurídica declaratória, motivo pelo qual possui efeitos ex tunc, retroagindo o trânsito em julgado à data do escoamento do prazo para a interposição do recurso admissível.
+3. Agravo regimental não conhecido.(AgRg no AREsp n. 1.078.750/SC, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 10/4/2018, DJe 23/4/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSO PENAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, as razões do agravo regimental devem se limitar a atacar especificamente os fundamentos da decisão agravada, sob pena de atração, por analogia, da incidência da Súmula 182/STJ.
+2. In casu, o recorrente deixou de impugnar, de forma específica, o principal fundamento da decisão agravada, qual seja, a aplicação da Súmula 283/STF, pelo fato de não ter impugnado especificamente o fundamento de que os guardas municipais estavam investigando ilicitamente supostos fatos criminosos, limitando-se a repisar a ofensa ao art. 301 do CPP.
+3. Agravo regimental não conhecido.(AgRg no REsp n. 1.652.964/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 5/4/2018, DJe 11/4/2018).
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso I, do RISTJ,não conheçodo agravo em recurso especial.
+Intimem-se.
