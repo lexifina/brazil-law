@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de recurso especial, apresentado por KATIA MAGALI DE AZEVEDO e OUTROS, com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de KATIA MAGALI DE AZEVEDO e OUTROS, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes ao Dr. Lukas Maciel Custódio, subscritor do recurso especial.
+É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+Ainda, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo, bem como da representação processual. A parte, embora regularmente intimada para sanar referidos vícios, apenas regularizou o preparo (fls. 268/269), permanecendo, porém, o vício quanto à representação, uma vez que a petição limita-se a afirmar que a representação está regular (fls. 266/267).
+Além disso, ressalto que a petição de fls. 276/278 não pode ser aceita para o fim de regularização da representação, em razão da preclusão consumativa, uma vez que já realizado o ato, por meio da petição de fls. 266/270, que veio sem os documentos.
+Dessa forma, o recurso não foi devida e oportunamente regularizado.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
