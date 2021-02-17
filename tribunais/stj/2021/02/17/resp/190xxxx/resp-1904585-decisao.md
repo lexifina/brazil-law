@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Recurso Especialinterposto pela União(art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fls. 563-564, e-STJ):
+PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONTAMINAÇÃO DECORRENTE DE MANIPULAÇÃO DE INSETICIDA (DDT). DANOS MORAIS.CERCEAMENTO DE DEFESA. NULIDADE DA SENTENÇA. NECESSIDADE.RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO.LEGITIMIDADE PASSIVA DA UNIÃO FEDERAL E DA FUNASA.
+I  A FUNASA e a UNIÃO FEDERAL têm legitimidade para ocuparem o polo passivo da presente lide, pois, consoante o próprio autor admite em sua petição inicial, muito embora tenha sido admitido, em 1971, na função de Agente de Saúde Pública na Superintendência de Campanhas de Saúde Pública  SUCAM, passou, posteriormente, a integrar o quadro de pessoal da FUNASA, em razão do quanto disposto na Lei 8.029/91 e Decreto nº 100/91, sendo que, desde o ano de 2010, o demandante foi redistribuído, ex officio, do Quadro de Pessoal Permanente da Fundação Nacional de Saúde para o Ministério da Saúde, por força da Portaria nº 1.659/2010.
+II  Na espécie dos autos, busca-se o pagamento de indenização por dano moral, decorrente da alegada contaminação pela substância diclorodifeniltricloretano  DDT e outros produtos químicos correlatos que passaram a substituir o DDT, em virtude de exposição do autor durante o exercício de suas funções laborais no Programa do Combate de Endemias, sem o uso de equipamento de proteção individual.
+III  Conforme entendimento do colendo Superior Tribunal de Justiça sobre a matéria, "se já se poderia cogitar de dano moral pelo simples conhecimento de que esteve exposto a produto nocivo, o sofrimento psíquico surge induvidosamente a partir do momento em que se tem laudo laboratorial apontando a efetiva contaminação do próprio corpo pela substância." (REsp 1684797/RO Rel. MinistroHERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017)
+IV  Nesse contexto, impõe-se a produção da prova da mencionada contaminação, na linha determinante do direito constitucional da ampla defesa, atraindo, por consequência, a anulação da sentença recorrida e o retorno dos autos ao juízo de origem para a devida instrução probatória requerida.
+V  Apelação parcialmente provida. Sentença anulada, com determinação do retorno dos autos ao juízo de origem, para regular processamento do feito.
+Os Embargos Declaratórios foram rejeitados, nos seguintes termos (fl. 596, e-STJ):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO/CONTRADIÇÃO E OBSCURIDADE INEXISTENTES. DESPROVIMENTO.
+I  Inexistindo, no acórdão embargado, qualquer omissão, contradição ou obscuridade, afiguram-se improcedentes os embargos declaratórios, mormente quando a pretensão recursal possui natureza eminentemente infringente do julgado, como no caso, a desafiar a interposição de recurso próprio.
+II  Embargos de declaração desprovidos.
+A recorrente sustenta que houve violação ao art. 485, IV, do CPC/2015 (art. 267, VI, do CPC/1973), ante a ilegitimidade passiva da União(fls. 600-612, e-STJ).
+Decisão de admissibilidade às fls. 626-627, e-STJ.
+Contrarrazões apresentadas (fls. 617-622, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2 de setembro de 2020.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista.
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Na origem, trata-se de Ação Ordinária ajuizada por servidor da Funasa, que anteriormente trabalhou na Superintendência de Campanhas de Saúde Pública, com pedido de indenização por danos biológicos e materiais que lhe teriam sido causados pelo contato prolongado com substâncias de alta toxicidade.
+Nasentença (fls. 489-497,e-STJ), da lavra do Juiz Federal Victor Curado Silva Pereira, julgou-se improcedente o pedido, por falta de provas de exposição a inseticidas.
+O acórdão recorrido deu parcial provimento à Apelação para anulara sentença e determinaro retorno dos autos ao juízo de origem para regular processamento do feito.
+Defende a União que o prazo prescricional para o exercício da pretensão condenatória teria início na data do fato gerador do dano, que corresponderia ao pânico em torno do DDT, que teria acontecido em 2002 (fl. 570, e-STJ).
+Afirma:
+Ultrapassadas as preliminares outrora tratadas, pugna-se pelo reconhecimento do lapso prescricional, fulminador da pretensão autoral.
+A prescrição das ações contra a Fazenda Pública foi disciplinada pelo Decreto nº 20.910/32, que estabeleceu, em seu art. 1º, o prazo prescricional quinquenal, para toda e qualquer ação contra a União, Estados e Municípios.
+In casu, é certo que a pretensão do autor está prescrita. Isto porque o diclorodifeniltricloroetano  DDT  não é mais utilizado no Brasil em campanhas de saúde pública desde 1998 (no âmbito da FUNASA, o uso de tal produto cessou em 1997), nos termos das informações prestadas pela Fundação e apresentadas com a contestação.
+O uso do DDT no Brasil acabou, oficialmente, em 1998, por meio da Portaria 11, emitida pela Secretaria de Vigilância Sanitária do Ministério da Saúde e, após este período, o autor não poderia mais ter se submetido aos efeitos desse inseticida.
+Entrementes, ainda que considerado corno termo inicial a cessação do uso do DDT no âmbito da FUNASA, a dizer, 1997  e não efetivamente da exposição à substância  , ter-se-ia o transcurso do lustro prescricional nos idos de 2002, tendo a presente demanda sido ajuizada 15 anos após o termo ad quem da prescrição.
+Importante frisar aqui que ajurisprudência do STJ é no sentido de que, em se tratando de pretensão de reparação de danos morais e/ou materiais dirigidas contra a Fazenda Pública, o termo inicial do prazo prescricional de cinco anos (art. 1º do Decreto 20.910/1932) é a data em que a vítima ficou ciente do dano em toda a sua extensão.
+Aplica-se, no caso, o princípio da actio nata, uma vez que não se pode esperar que alguém ajuíze ação para reparar danos antes de ter ciência deles.
+Confiram-se precedentes:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. PRETENSÃO DE INDENIZAÇÃO CONTRA A FAZENDA NACIONAL. DANOS MORAIS E PATRIMONIAIS. PRESCRIÇÃO. QUINQUÍDIO DO ART. 1º DO DECRETO 20.910/32. TERMO INICIAL. DATA DA CONSOLIDAÇÃO DO CONHECIMENTO EFETIVO DA VÍTIMA DAS LESÕES E SUA EXTENSÃO. CONSTATAÇÃO PELO LAUDO PERICIAL.
+1. Esta Corte Superior possui entendimento no sentido de que o termo inicial do prazo prescricional para o ajuizamento de ação de indenização contra ato do Estado ocorre no momento em que constatada a lesão e os seus efeitos, conforme o princípio da actio nata.
+2. A ciência inequívoca do ato danoso ocorreu efetivamente com a elaboração do laudo médico atestando os efeitos decorrentes do ato lesivo.
+3. Analisar a prescrição diante da data de elaboração do laudo médico importaria em reexame fático-probatório, o que encontra óbice na Súmula 7 deste Tribunal.Agravo regimental improvido.(AgRg no AREsp 790.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/12/2015, DJe 10/02/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO DO ART. 535 DO CPC. OMISSÃO INEXISTENTE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PRESCRIÇÃO INDENIZATÓRIA CONTRA A FAZENDA PÚBLICA. ART. 1º DO DECRETO N. 20.910/1932. TERMO INICIAL. PRINCÍPIO DA ACTIO NATA. PRECEDENTES DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+3. Esta Corte Superior possui entendimento no sentido de que o termo inicial do prazo prescricional para o ajuizamento de ação de indenização contra ato do Estado ocorre no momento em que constatada a lesão e os seus efeitos, conforme o princípio da actio nata. Nesse sentido: AgRg no AREsp 531.654/RS, 1ª Turma, Rel. Ministro Sérgio Kukina, DJe 13/03/2015; AgRg no AREsp 218.708/MT, 2ª Turma, Rel. Ministro Herman Benjamin, DJe 07/03/2013; AgRg no REsp 1.333.609/PB, 2ª Turma, Rel. Min. Humberto Martins, DJe 30/10/2012; AgRg no AgRg no Ag 1.362.677/PR, Primeira Turma, Rel. Min. Benedito Gonçalves, DJe 07/12/2011.
+(..)
+6. Agravo regimental não provido.
+(AgRg no REsp 1.506.636/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/08/2015, DJe 03/09/2015)
+No caso concreto, embora o recorrido certamente soubesse que havia sido exposto ao DDT durante os anos que trabalhou em campanhas de saúde pública, pois falava-se até em "dedetização" para se referir ao processo de borrifamento de casas para eliminação de pestes,não há dúvida de que se já se poderia cogitar de dano moral pelo simples conhecimento de que esteve exposto a produto nocivo.
+Ressalte-se queo sofrimento psíquico surge induvidosamente a partir do momento em que se tem laudo laboratorial apontando a efetiva contaminação do próprio corpo pela substância, "comprovando que as doenças que o acometem têm como causa o provável uso e manuseio dos inseticidas durante o desempenho de suas atividades laborais perante a demandada"(fl. 492, e-STJ).
+As instâncias ordinárias consideraram provada a contaminação do corpo do servidor pelo produto. O item IIda ementa do acórdão recorrido já é suficiente para deixar isso claro:
+II  Na espécie dos autos, busca-se o pagamento de indenização por dano moral, decorrente da alegada contaminação pela substância diclorodifeniltricloretano  DDT e outros produtos químicos correlatos que passaram a substituir o DDT, em virtude de exposição do autor durante o exercício de suas funções laborais no Programa do Combate de Endemias, sem o uso de equipamento de proteção individual.
+O acórdão concluiucorretamenteque a ciência dessa contaminação é suficiente para causar sofrimento moral.
+Por fim, aUNIÃO e aFUNASAtêm legitimidade para ocupar o polo passivo da presente lide, pois, consoante o próprio autor admite em sua petição inicial, muito embora tenha sido admitido na função de agente de saúde pública na Superintendência de Campanhas de Saúde Pública - SUCAM, passou, posteriormente, a integrar o quadro de pessoal daFUNASA,em razão do quanto disposto na Lei 8.029/1991 e Decreto nº 100/1991, sendo que, desde o ano de 2010, o demandante foi redistribuído, ex officio, do Quadro de Pessoal Permanente da Fundação Nacional de Saúde para o Ministério da Saúde, por força da Portaria nº 1.659/2010.
+Pelo exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
