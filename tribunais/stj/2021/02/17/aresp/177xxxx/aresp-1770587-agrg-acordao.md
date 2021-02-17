@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. INTEMPESTIVIDADE DO AGRAVO E DO RECURSO ESPECIAL. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O Agravante não impugna a afirmação da decisão agravada, que não conheceu do agravo em recurso especial, pela intempestividade dele e do recurso especial, fundamentos esses que sequer foram mencionados no recurso interno, atraindo a incidência da Súmula n. 182 do Superior Tribunal de Justiça, pela falta de observância da dialeticidade recursal.
+2. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa, por via oblíqua, busque o pronunciamento acerca do mérito de recurso não conhecido pela falta de preenchimento de pressuposto de admissibilidade, no caso, a intempestividade tanto do recurso especial como do agravo interposto contra a sua inadmissão.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por JOHN KENNEDY GOMES FIGUEIREDO, contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial, em razão de serem ele e o recurso especial, intempestivos.
+Contra o decisum, houve a oposição de embargos de declaração, os quais foram rejeitados (fls. 666-669).
+Nas razões do recurso interno, alega a Defesa ser possível a admissão de habeas corpus como substitutivo do recurso próprio, e requer o provimento do "presente agravo, para expedir ex officio ordem de habeas corpus e absolver/afastar do Agravante a condenação no artigo 35 da Lei 11.343/06, Aplicação do fator redutor artigo 33, § 4º da Lei 11.343/06, no seu limite máximo, com a redução dos dias multa que foi imposto (sic) de forma não razoável, aplicação do redutor ante da (sic) menoridade do requrente e concedendo o regime prisional menos gravoso" (fl. 678).
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo regimental (fls. 688-689).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. DECISÃO AGRAVADA. INTEMPESTIVIDADE DO AGRAVO E DO RECURSO ESPECIAL. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182 DO STJ. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O Agravante não impugna a afirmação da decisão agravada, que não conheceu do agravo em recurso especial, pela intempestividade dele e do recurso especial, fundamentos esses que sequer foram mencionados no recurso interno, atraindo a incidência da Súmula n. 182 do Superior Tribunal de Justiça, pela falta de observância da dialeticidade recursal.
+2. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa, por via oblíqua, busque o pronunciamento acerca do mérito de recurso não conhecido pela falta de preenchimento de pressuposto de admissibilidade, no caso, a intempestividade tanto do recurso especial como do agravo interposto contra a sua inadmissão.
+3. Agravo regimental não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O agravo regimental não comporta conhecimento.
+O Agravante não impugna a afirmação da decisão agravada, que não conheceu do agravo em recurso especial pela intempestividade dele e do recurso especial, fundamentos esses que sequer foram mencionados, atraindo a incidência da Súmula n. 182 do Superior Tribunal de Justiça, pela falta de observância da dialeticidade recursal.
+Porém, ao que se pode compreender das atabalhoadas razões do recurso interno, sustenta que os pedidos que teriam sido formulados no recurso especial deveriam ser atendidos, por meio da concessão de habeas corpus, inclusive, de ofício, aduzindo que essa via mandamental poderia ser impetrada em substituição ao recurso próprio.
+Contudo, nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a Defesa, por via oblíqua, busque o pronunciamento acerca do mérito de recurso não conhecido pela falta de preenchimento de pressuposto de admissibilidade, no caso, a intempestividade tanto do recurso especial como do agravo interposto contra a sua inadmissão.
+Sobre o tema:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. LEI N. 8.137/90. 1) VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. ANÁLISE DESCABIDA EM SEDE DE RECURSO ESPECIAL. 2) ATIPICIDADE DA CONDUTA. FUNDAMENTAÇÃO DEFICIENTE. NÃO APONTADO O DISPOSITIVO DE LEI FEDERAL VIOLADO. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. 3) VIOLAÇÃO AO ART. 283 DO CÓDIGO DE PROCESSO PENAL - CPP. EXECUÇÃO PROVISÓRIA DA PENA. DESCABIMENTO.MUDANÇA DE ENTENDIMENTO NO STF. 4) INOVAÇÃO RECURSAL. NÃO CABIMENTO.HABEAS CORPUS DE OFÍCIO. DESCABIDO. 5) AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E PARCIALMENTE PROVIDO.
+ ..
+4.1. "É inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice(s) reconhecido(s) na admissibilidade do recurso interposto (Precedentes)" (EDcl no AgRg nos EREsp 1488618/RS, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe 27/10/2015).5. Agravo regimental parcialmente conhecido e parcialmente provido para afastar a possibilidade de execução provisória da pena com base apenas no esgotamento das vias ordinárias."(AgRg no REsp 1.809.887/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 11/02/2020, DJe 21/02/2020; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É o voto.
