@@ -1,0 +1,33 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. OMISSÕES. INEXISTÊNCIA. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os Embargantes discordam da conclusão alcançada no acórdão embargado que, fundamentadamente, manteve a decisão que não conhecera do recurso especial, o que não se confunde com existência de omissão. Em verdade, o mero inconformismo com o resultado do julgamento que lhes foi desfavorável não viabiliza a oposição de embargos de declaração.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Nefi Cordeiro e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração opostos por DJALMA SOARES BARBALHO FILHO e por LUIZ CECCONELLO RODRIGUES contra o acórdão que conheceu parcialmente e negou provimento ao agravo regimental, assim ementado (fls. 822-823):
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. DISSENSO JURISPRUDENCIAL. CONTROVÉRSIA NÃO DELIMITADA. SÚMULA N. 284 DO STF. MERA TRANSCRIÇÃO DE EMENTAS. SÚMULA N. 283 DO STF. APLICAÇÃO PELA DECISÃO AGRAVADA. RECURSO INTERNO. RAZÕES DISSOCIADAS. SÚMULA N. 182 DO STJ. ART. 19, PARÁGRAFO ÚNICO, DA LEI N. 7.492/1986. NULIDADE. INVESTIGAÇÃO QUE TERIA SIDO REALIZADA POR PARTICULARES. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. A Súmula n. 283 do Supremo Tribunal Federal foi aplicada em relação à tese de nulidade por indevida quebra do sigilo bancário. O recurso interno, entretanto, sustenta que impugnou todos os fundamentos do acórdão da apelação, no tocante à alegação de que a investigação seria nula, porque teria sido conduzida por particulares. Aplicação da Súmula n. 182 do Superior Tribunal de Justiça, nesse aspecto, por estarem as razões do agravo regimental dissociadas dos fundamentos da decisão agravada.
+2. Embora tenha se alegado divergência interpretativa acerca dos arts. 4.º e 18 da Lei n. 10.994/1997; 4.º, 71, 298 e 299 do Código Penal; 157 e 397 do Código de Processo Penal; 53 da Lei n. 9.784/1999; 298 e 19 da Lei n. 7.492/1986, não se desenvolveu tese a respeito, com a indicação de acórdãos paradigmas e efetivação do cotejo analítico, demonstrando a similitude fática e a divergente interpretação da lei federal. Houve apenas a transcrição de ementas de julgados, alguns, inclusive, proferidos em habeas corpus, os quais não se prestam para a função de paradigma. Ausente a delimitação da controvérsia, incide a Súmula n. 284 do Supremo Tribunal Federal.
+3. O Tribunal de origem, apesar da oposição de embargos de declaração, não debateu expressamente a alegação de nulidade porque as atividades investigatórias teriam sido efetivadas por particulares. Para que a matéria seja prequestionada, não basta que tenha sido alegada pela parte, mas deve haver a efetiva análise pelo acórdão impugnado, o que não ocorreu. No caso, o recurso especial não alegou ofensa ao art. 619 do Código de Processo Penal, para que se pudesse verificar a eventual existência de omissão por parte da Corte a quo, na análise da matéria. Sendo assim, o tema carece de prequestionamento, nos termos da Súmula n. 211 do Superior Tribunal de Justiça.
+4. Para verificar se teria havido a prática de atos investigatórios por particulares, seria necessária a incursão ao campo fático-probatório, inviável em recurso especial, nos termos da Súmula n. 7, também, desta Corte Superior.
+5. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido."
+Alegam os Embargantes omissão no acórdão embargado, sustentando ser indevida a aplicação da Súmula n. 182 do Superior Tribunal de Justiça, pois teria havido a impugnação ao fundamento da decisão agravada, no tocante à incidência da Súmula n. 283 do Supremo Tribunal Federal, ser descabida a utilização da Súmula n. 284, também do Pretório Excelso, uma vez que a controvérsia teria sido delimitada, bem assim estar prequestionada a matéria trazida no apelo nobre.
+Pedem o acolhimento dos embargos, para que sejam supridas as omissões apontadas.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL PENAL. OMISSÕES. INEXISTÊNCIA. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os Embargantes discordam da conclusão alcançada no acórdão embargado que, fundamentadamente, manteve a decisão que não conhecera do recurso especial, o que não se confunde com existência de omissão. Em verdade, o mero inconformismo com o resultado do julgamento que lhes foi desfavorável não viabiliza a oposição de embargos de declaração.
+2. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Os embargos não merecem acolhida.
+Na verdade, os Embargantes discordam da conclusão alcançada no acórdão embargado que, fundamentadamente, manteve a decisão que não conhecera do recurso especial, o que não se confunde com existência de omissão. Em verdade, o mero inconformismo com o resultado do julgamento que lhes foi desfavorável não viabiliza a oposição de embargos de declaração.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO NÃO CONFIGURADA. PENA RESTRITIVA DE DIREITOS. EXECUÇÃO IMEDIATA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição, ambiguidade ou obscuridade do julgado, e não a reapreciar a causa.
+2. Com a ressalva de compreensão pessoal diversa, deve ser mantido o entendimento majoritário da Terceira Seção que, por ocasião do julgamento dos EREsp n. 1.619.087/SC e, recentemente, do HC n. 435.092/SP, concluiu pela impossibilidade de execução da pena restritiva de direitos antes do trânsito em julgado da condenação.
+3. Embargos de declaração rejeitados." (EDcl no AgRg no HC 437.618/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
