@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. PARÂMETROS PARA DETERMINAÇÃO DE HONORÁRIOS. SÚMULA 7/STJ. NÃO CONSTATAÇÃO DE OFENSA AO ART. 489, § 1º, IV, DO CPC.
+1. Trata-se de Ação Rescisória na qual a ora recorrida alegou afronta à coisa julgada, uma vez que no processo de execução teriam sido alterados os parâmetros determinados a título de honorários, sendo esses diversos da sentença da ação de conhecimento.
+2. Constata-se que não se configura a ofensa ao art. 489, § 1º, IV, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+3. Afirma o Tribunal de origem (fl. 1.901, e-STJ): "Observa-se, portanto, que o acórdão rescindendo (fls. 869/877 PDF crescente), em sede de embargos à execução, ampliou a base de cálculo das verbas sucumbenciais ao contemplar a inclusão do equivalente a uma anuidade do benefício auferido à luz do art. 260 do CPC/73. Em outras palavras, a base de cálculo da referida verba sucumbencial além do valor da condenação, passou a abarcar a parcela anual do reajuste de 28,86% dos vencimentos década um dos filiados do sindicato, ora réu. Considerando a declaração emanada do acórdão proferido na ação principal que fixou como a base de cálculos dos honorários advocatícios apenas o valor da condenação, descabe modificar tal parâmetro no bojo dos embargos à execução ante a flagrante violação ao aspecto positivo da coisa julgada". Assim, determinar se estão corretos os parâmetros utilizados para cálculo da verba honorária não é possível pela via do Especial, em face da previsão da Súmula 7/STJ.
+4. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão (fls. 2.081-2.084, e-STJ) desta relatoria que negou provimento ao recurso.
+A parte agravante alega (fls. 2.088-2.100, e-STJ):
+Inicialmente, infere-se que houve o malferimento do indigitado dispositivo legal na medida em que o Pleno do T.R.F.5 não prestou a devida tutela jurisdicional quanto ao emprego da ação rescisória como substitutivo recursal, o que justificou o ajuizamento do recurso especial pela violação ao art. 489, §1º do C.P.C., e, concessa máxima vênia, a decisão ora agravada também não adentrou no exame dessa hipótese.
+(..)
+Com efeito, os textos extraídos do acórdão recorrido permitem bem aferir a tese dos recorrentes sem incidir no óbice da Súmula nº 7/STJ, caso se entenda por negar provimento do recurso quanto ao tópico anterior.
+Requer, ao final, a reconsideração da decisão monocrática ou a remessa do presente Agravo Interno ao Colegiado, para julgamento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. PARÂMETROS PARA DETERMINAÇÃO DE HONORÁRIOS. SÚMULA 7/STJ. NÃO CONSTATAÇÃO DE OFENSA AO ART. 489, § 1º, IV, DO CPC.
+1. Trata-se de Ação Rescisória na qual a ora recorrida alegou afronta à coisa julgada, uma vez que no processo de execução teriam sido alterados os parâmetros determinados a título de honorários, sendo esses diversos da sentença da ação de conhecimento.
+2. Constata-se que não se configura a ofensa ao art. 489, § 1º, IV, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+3. Afirma o Tribunal de origem (fl. 1.901, e-STJ): "Observa-se, portanto, que o acórdão rescindendo (fls. 869/877 PDF crescente), em sede de embargos à execução, ampliou a base de cálculo das verbas sucumbenciais ao contemplar a inclusão do equivalente a uma anuidade do benefício auferido à luz do art. 260 do CPC/73. Em outras palavras, a base de cálculo da referida verba sucumbencial além do valor da condenação, passou a abarcar a parcela anual do reajuste de 28,86% dos vencimentos década um dos filiados do sindicato, ora réu. Considerando a declaração emanada do acórdão proferido na ação principal que fixou como a base de cálculos dos honorários advocatícios apenas o valor da condenação, descabe modificar tal parâmetro no bojo dos embargos à execução ante a flagrante violação ao aspecto positivo da coisa julgada". Assim, determinar se estão corretos os parâmetros utilizados para cálculo da verba honorária não é possível pela via do Especial, em face da previsão da Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 27.11.2020.
+Conforme consta na decisão agravada:
+Trata-se de Ação Rescisória na qual o ora recorrido alegou afronta à coisa julgada, uma vez que no processo de execução teriam sido alterados os parâmetros deter minados a título de honorários, sendo estes diversos da sentença da ação de conhecimento.
+A ação rescisória foi julgada procedente. Os recorrentes postulam pela restauração do que fora definido a título de honorários.
+Inicialmente, constata-se que não se configura a ofensa ao art. 489, § 1º, IV, do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, CORTE ESPECIAL, DJe 27/5/2015.
+A parte recorrente argumenta que não houve erro no julgamento anterior, uma vez que este somente deu a correta interpretação ao que já estava exposto na decisão transitada em julgado.
+No entanto, afirma o Tribunal de origem (fl. 1.901, e-STJ):
+Observa-se, portanto, que o acórdão rescindendo (fls. 869/877 PDF crescente), em sede de embargos à execução, ampliou a base de cálculo das verbas sucumbenciais ao contemplar a inclusão do equivalente a uma anuidade do benefício auferido à luz do art. 260 do CPC/73. Em outras palavras, a base de cálculo da referida verba sucumbencial além do valor da condenação, passou a abarcar a parcela anual do reajuste de 28,86% dos vencimentos década um dos filiados do sindicato, ora réu.Considerando a declaração emanada do acórdão proferido na ação principal que fixou como a base de cálculos dos honorários advocatícios apenas o valor da condenação, descabe modificar tal parâmetro no bojo dos embargos à execução ante a flagrante violação ao aspecto positivo da coisa julgada
+Assim, determinar se estão corretos os parâmetros utilizados para cálculo da verba honorária não é possível pela via do Especial, em face da previsão da Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo.
+É como voto.
