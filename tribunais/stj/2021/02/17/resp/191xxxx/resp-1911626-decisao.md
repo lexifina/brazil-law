@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado do Rio de Janeiro com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 420):
+APELAÇÃO CÍVEL. OBRIGAÇÃO DE FAZER.SERVIDORES DO PODER JUDICIARIO DO ESTADO DO RIO DE JANEIRO. REAJUSTE DE 24%. RECENTE JULGAMENTO REALIZADO PELO SUPREMO TRIBUNAL FEDERAL DE QUE A EXTENSÃO DO REAJUSTE DA LEI 1.206/87 AOS SERVENTUÁRIOS DO PODER JUDICIÁRIO IMPORTA EM CONCEDER AUMENTO DE VENCIMENTOS COM BASE NO PRINCÍPIO DA ISONOMIA, EM AFRONTA AO DISPOSTO NA SÚMULA 339 E NA SÚMULA VINCULANTE 37. TEMA 915 DA SISTEMÁTICA DA REPERCUSSÃO GERAL. ARE 909.437/RJ. DESISTÊNCIA DA DEMANDA, COM SUPORTE NA REGRA DO ART. 1.040, INCISO IV, §1 0 , DO CPC. HOMOLOGAÇÃO, DEIXANDO-SE DE CONDENAR OS AUTORES AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. OBSERVÂNCIA DO PRINCÍPIO DA CAUSALIDADE. DECISÃO MANTIDA.DESPROVIMENTO DO RECURSO.
+A parte recorrente aponta violação aos arts. 14, 85, §§ 2º, 3º,4º, II,6º e 1.046 do CPC/2015. Defende que, em se tratando de demandacujo proveito econômico é passível de liquidação, não sendo, à evidência insignificante, não se trata de hipótese de aplicação do artigo § 8º, do artigo 85, da lei de ritos, mas sim do seu § 4º, III, razão pela qual, subsidiariamente, pugna-se pela adoção do valor atualizado da causa como base de cálculos dos honorários advocatícios devidos ao Estado(fl. 448).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Quanto à fixação da verba honorária, colhe-se do aresto estadual a seguinte fundamentação (fls. 422/424):
+A ação foi proposta para cobrança de diferenças vencimentais e, no curso da demanda, depois da citação, o Supremo Tribunal Federal decidiu o ARE no 909.437/RJ, firmando a seguinte tese de repercussão geral:
+"Não é devida aos servidores do Poder Judiciário do Estado do Rio de Janeiro a extensão do reajuste a concedido devolução pela das Lei nº 1.206/1987, dispensando-se verbas eventualmente recebidas até 01º.09.2016 (data da conclusão deste julgamento)."
+Cabe ressaltar que antes desse entendimento, o tema era decidido por este Tribunal com suporte no julgamento realizado pelo EgrégioÓrgão Especial, nos autos do Incidente de Uniformização de Jurisprudência nº 0064836-60.2012.8.19.0000, e que levou à edição do enunciado de súmula nº 300, a seguir reproduzido:
+(..)
+De acordo com aquele decisum, como o art. 5º da Lei Estadual nº 1260/87 - que instituiu aumento aos servidores públicos, mas excluiu os ocupantes de cargos do Poder Judiciário do Rio de Janeiro - foi declarado inconstitucional, pelo Órgão Especial, nos autos do Mandado de Segurança Originário nº 583/87, confirmado pelo Supremo Tribunal Federal, e, tratando-se de decisão com efeito vinculante em relação aos Órgãos Fracionários do Tribunal (art. 103 do REGITJRJ), não se poderia deixar estender essa conclusão aos demais servidores que não integraram o mandamus.
+Entretanto, diante do novo entendimento do STF, os autores decidiram abrir mão da demanda.
+O magistrado acolheu a pretensão e homologou a desistência, mas não os condenou ao pagamento dos honorários advocatícios, com supedâneo no princípio da causalidade, convencendo-se de que, mesmovencedor, foi o Estado do Rio de Janeiro o responsável pela existência do processo.
+Como acima expresso, à época da propositura da ação, o entendimento uníssono neste Tribunal era favorável aos aqui autores e somente foi alterado por força do efeito vinculante da decisão proferida pelo Supremo Tribunal Federal, nos autos do supracitado Recurso Extraordinário.
+Dessa forma é inegável que o Estado do Rio de Janeiro deu causa ao ajuizamento da demanda e, pelo princípio da causalidade, não há como condenar os autores a arcar com o pagamento da verba honorária.
+A aplicação desse princípio encontra-se expressamente prevista no §10, art. 85, do CPC:
+Art. 85. (..)
+§ 10. Nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo.
+Nesse contexto, observa-se que o Tribunal de origem não se manifestou sobre a tese recursal de fixação da verba honorária segundo oproveito econômico experimentado,tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
