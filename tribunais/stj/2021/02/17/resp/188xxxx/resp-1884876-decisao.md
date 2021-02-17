@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a" e "c", da Constituição) contra acórdão assim ementado (fls. 396-397, e-STJ):
+APELAÇÃO. AÇÃO INDENIZATÓRIA. PRELIMINAR. FALTA DE IMPUGNAÇÃO ESPECÍFICA. NÃO OCORRÊNCIA. REJEIÇÃO. PASEP. CONTA INDIVIDUAL VINCULADA. DEPÓSITOS. CORREÇÃO MONETÁRIA E JUROS REMUNERATÓRIOS. DELIBERAÇÃO DO CONSELHO DIRETOR DO FUNDO PIS/PASEP. ÓRGÃO VINCULADO AO MINISTÉRIO DA FAZENDA. BANCO DO BRASIL. SOCIEDADE DE ECONOMIA MISTA. INSTRUMENTO DE PARTICIPAÇÃO DIRETA DO ESTADO NO DOMÍNIO ECONÔMICO. ART. 173 CF/88. INSTITUIÇÃO FINANCEIRA SUJEITA A REGIME HÍBRIDO. PESSOA JURÍDICA DE DIREITO PRIVADO, MAS SUJEITA A CONTROLE POSITIVO DO ESTADO. PREVALÊNCIA DA VONTADE ESTATAL NA CONSTITUIÇÃO DO BANCO DO BRASIL COMO AGENTE FINANCEIRO PAGADOR. ART. 5º, LEI COMPLEMENTAR N. 8/1970. PRINCÍPIO DO CONSENSUALISMO. POSTULADO INEXISTENTE NA CRIAÇÃO, GESTÃO E EXTINÇÃO DAS CONTAS INDIVIDUAIS DO PASEP. LEGITIMIDADE PASSIVA NÃO CARACTERIZADA. EXTINÇÃO DO FEITO COM BASE NO ART. 485, VI, DO CPC. MEDIDA RECURSO CONHECIDO E PROVIDO. IMPOSITIVA.
+1. Deve ser rejeitada a preliminar de inadmissibilidade do recurso por falta de impugnação específica dos fundamentos da sentença, quando se constata ter a apelação, efetivamente, refutado os motivos esposados nas razões de decidir do pronunciamento judicial fustigado.
+2. O Banco do Brasil S.A., como sociedade de economia mista, possui regime jurídico híbrido, e esse traço diferenciador, em relação a instituições financeiras essencialmente privadas, lhe propicia a aplicação de privilégios concedidos à fazenda pública em relações em que sua atuação seja determinada pelo desempenho de serviço determinado por lei, como é o caso da administração dos recursos do PASEP nas contas individuais abertas na forma da LC n. 8/1970.
+3. Considerada a estrutura do Fundo PASEP, o Banco do Brasil S.A. é parte ilegítima para figurar no polo passivo de demandas relativas ao mencionado fundo contábil, porque atua como mero agente financeiro pagador. A gestão dos recursos que constituem esse fundo de natureza financeira é de responsabilidade do Conselho Diretor, órgão vinculado ao Ministério da Fazenda que delibera sobre a aplicação de índices de correção monetária e de taxa de juros remuneratórios aplicáveis ao saldo credor das contas individuais dos participantes cadastrados. Em contrapartida pela realização dos serviços afetos à condição de agente pagador exclusivo do PASEP, o Banco do Brasil recebe comissão fixada pelo Conselho Monetário Nacional - CMN, conforme previsão do art. 5º da LC n. 8/1970. Enfim, carece de legitimidade passiva a instituição financeira que na relação de direito material constituída pelo Programa PASEP desempenha, frente aos cotistas individuais, simples função de agente pagador remunerado.
+4. Preliminar rejeitada. Apelação conhecida e provida. Sucumbência invertida. Honorários majorados.
+Não foram opostos Embargos de Declaração.
+A parte recorrente alega que houve violação do art. 5º da Lei Complementar 08/1970 e dos arts. 186 e 927 do Código Civil, além de divergência jurisprudencial. Sustenta, em síntese, que o Banco do Brasil, ora recorrido, é parte legítima para figurar no polo passivo de ações que versam acerca da má administração de contas PASEP, hipótese do presente recurso.
+Contrarrazões às fls. 435-441, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 18.12.2020.
+Cuida-se, na origem, de Ação de Indenização por Danos Materiais proposta por particular contra oBanco do Brasil, sob o argumento de que houve erro na atualização monetária de conta PASEP, o que lhe causou danos.
+Nas razões do Recurso Especial, a parte recorrente alega apenas que a instituição financeira é parte legítima para responder acerca da má administração de sua conta PASEP e que ficou caracterizado o ato ilícito, uma vez que o valor depositado estava aquém daquele devido.
+O Tribunal de origem reconheceu a legitimidade passiva do Banco do Brasil, mas consignou (fl. 412, e-STJ, grifo meu):
+O autor apelado assevera que o saldo de sua conta individualizada do PASEP não foi devidamente corrigido e creditado pelo Banco do Brasil.
+Apesar da presença da instituição financeira no polo passivo, no caso dos autos, ela atua apenas como depositária legal das contas individualizadas de PASEP, afastando, assim, a aplicação das regras consumeristas e atraindo a regra geral do ônus da prova prevista no artigo 373, I, do Código de Processo Civil, que dispõe que ao autor incumbe comprovar o fato constitutivo do seu direito.
+Neste ponto, tendo em vista que a informação sobre os índices de correção monetária e históricos de valorização dos saldos das contas individualizadas do PASEP é pública e de fácil acesso, caberia ao autor indicar quais diretrizes ou índices de atualização foram descumpridos pelo operador do fundo. No entanto, limitou-se a apresentar uma planilha utilizando o indexador INPC - IBGE  3% (três por cento) ao mês (ID 14529580 - Pág. 1), índice que não corresponde àqueles legalmente fixados pelo Conselho Diretor do PASEP e pela Lei Complementar nº 26/1975.
+É de se ressaltar que o autor teve acesso a todos os extratos da sua conta individualizada de PASEP, inclusive tendo juntado-as na petição inicial (ID 14529579) e utilizando-os na elaboração dos cálculos apresentados.
+Assim, entendo que o autor não se desincumbiu do ônus probatório, devendo ser afastada a alegação de ato ilícito pela falta de correção ou crédito do saldo da conta individualizada do PASEP.
+Nessa conjuntura, verifico que a parte recorrente não impugnou integralmente a decisão recorrida, principalmente quanto à constatação do órgão julgador de que não houve comprovação do ato ilícito alegado.
+A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento, portanto, não foi inteiramente atacada pelo recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 283 e 284 do STF, ante a ausência de impugnação de fundamento autônomo e a deficiência na fundamentação.
+Desse modo, confiram-se os julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO CONFIGURADA. PEDIDO GENÉRICO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. Hipótese em que se acolhem os aclaratórios para sanar a contradição apontada quanto ao pedido genérico.
+2. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+3. Embargos de Declaração acolhidos, sem efeito infringente, apenas para sanar contradição e integrar o julgado.
+(EDcl no REsp 1.617.381/RJ, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 22/5/2018)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS N. 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Não se conhece do recurso especial, quando a parte deixa de impugnar de forma suficiente fundamento autônomo, que por si só é capaz de manter o julgado (Súmula 283/STF), bem como quando a deficiência de fundamentação não permitir a compreensão da controvérsia (Súmula 284/STF).
+3. Agravo interno não provido.
+(AgInt no AREsp 1.206.856/SP, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 24/05/2018)
+Ademais, ainda que fosse possível conhecer do presente recurso, reverter a orientação firmada pelo órgão julgador acerca da inexistência do ato ilícito implicaria reexaminar o conteúdo fático-probatório da causa, o que é inviável ante o óbice da Súmula 7 do STJ.
+Por fim, em relação ao dissídio jurisprudencial, destaco que fica prejudicada a sua análise se a tese sustentada esbarra em óbice sumular quando do exame do Recurso Especial pela alínea "a" do permissivo constitucional. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANO MORAL. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. CONCESSIONÁRIA DE SERVIÇO PÚBLICO URBANO DE TRANSPORTE COLETIVO DE PASSAGEIROS. IMPORTUNAÇÃO OFENSIVA AO PUDOR. RESPONSABILIDADE OBJETIVA.
+1. Ação de compensação por dano moral.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. A incidência da Súmula 7 do STJ, prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não-usuários do serviço.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1669120/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/09/2020, DJe 17/09/2020, grifo meu)
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
