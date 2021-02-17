@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal de Justiça do Estado de Goiás cuja ementa é a seguinte (fl. 1090, e-STJ):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 CPC. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. AUSÊNCIA DE MOTIVO PARA RECONSIDERAÇÃO.
+1. A oposição de embargos declaratários pressupõe a existência de um dos vícios contidos no art. 1.022 do CPC, não se prestando à rediscussão de matéria debatida e analisada, cuja decisão desfavoreça o Embargante. Daí, não constatada a presença da contradição alegada, hão de ser desprovidos.
+2. Se o agravante não traz provas ou argumentos suficientes para acarretar a modificação da linha de raciocínio adotada na decisão unipessoal, impõe - se o desprovimento do agravo regimental, porquanto interposto à míngua de elementos novos capazes de reformar a decisão recorrida.
+AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+O agravante, nas razões do Recurso Especial, alega que ocorreu, além de divergência jurisprudencial, violação do art. 1.012, § 1º, V, do CPC. Aduz, em suma, que seu recurso de Apelação deveria ter sido recebido parcialmente na Corte de origem no duplo efeito, devolutivo e suspensivo. Defende:
+(..) a sentença deve começar a produzir efeitos imediatamente apenas no que tange aos pedidos que foram abarcados pela medida liminar e, posteriormente confirmados em sede de sentença, quais sejam: fornecimento dos medicamentos requestados, análogos à insulina, insumos básicos e alimentação enteral aos pacientes do Sistema Único de Saúde - SUS. Os demais pedidos, concedidos apenas quando da prolação da sentença, não podem ser exigidos de imediato, vez que em face deles, e somente deles, deverá ser atribuído o efeito suspensivo típico do recurso de apelação (fl. 1108, e-STJ).
+Contrarrazões apresentadas às fls. 1119-1127, e-STJ. O recurso foi inadmitido na origem (fls. 1131-1132, e-STJ), o que deu ensejo à interposição do Agravo de fls. 1140-1146, e-STJ. Contraminuta às fls. 1153-1154, e-STJ.
+Parecer do Ministério Público Federal às fls. 1166-1171, e-STJ, opinando pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.1.2021.
+A irresignação não merece prosperar.
+Consoante a jurisprudência do STJ, "a apelação interposta contra sentença que defere ou confirma antecipação dos efeitos da tutela deve ser recebida apenas no efeito devolutivo" (AgInt no REsp 1.551.362/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 17/3/2017). Na mesma linha: AgInt no REsp 1.485.932/RN, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/8/2018; REsp 928.080/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 22/8/2008.
+Na hipótese dos autos, o Tribunal de origem, ao dirimir a controvérsia, concluiu que o recurso de Apelação da municipalidade deve ser recebido apenas no efeito devolutivo. Isso porque a sentença proferida julgou procedente a Ação Civil Pública e, com isso, confirmou a tutela de urgência concedida por meio do Agravo de Instrumento 5244674.12.2016.8.09.0000, no sentido de determinar a regularização, por parte do Município de Goiânia, do fornecimento dos medicamentos requeridos, análogos à insulina, insumos básicos e alimentação enteral aos pacientes do Sistema Único de Saúde - SUS.
+Merece transcrição o seguinte excerto do acórdão recorrido (fl. 1086, e-STJ):
+Especialmente no que se refere à matéria aqui suscitada como contraditória, qual seja, o despacho de movimentação nº 133, que recebeu o recurso de apelação no efeito devolutivo nos termos dos art. 1.012, § 1º, inciso V, e 1.013 do Código de Processo Civil.
+Isso porque, a tutela de urgência foi concedida no acórdão que julgou o agravo de instrumento nº 5244674.12.2016.8.09.0000 no sentido de que o Município/Embargante deve fornecer os medicamentos requeridos, análogos à insulina, insumos básicos e alimentação enteral aos pacientes do Sistema Único de Saúde  SUS.
+A sentença recorrida julgou procedente a ação civil pública, confirmando a tutela provisória concedida, no sentido de regularizar o fornecimento dos medicamentos requeridos, análogos à insulina, insumos básicos e alimentação enteral aos pacientes do Sistema Único de Saúde  SUS.
+Assim, preenchidos os pressupostos de admissibilidade, o recurso de apelação foi recebido no efeito devolutivo nos termos dos art. 1.012, § 1º, inciso V, e 1.013 do Código de Processo Civil.
+Nesse panorama, a modificação das conclusões adotadas pela Corte a quo, a fim de averiguar a extensão da decisão de antecipação dos efeitos da tutela no Agravo de Instrumento e a presença dos requisitos para a atribuição do pretendido efeito suspensivo parcial requer a incursão no arcabouço fático-probatório dos autos, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. APELAÇÃO. EFEITO SUSPENSIVO PARCIAL. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, a fim de se constatar qual foi a abrangência do pedido formulado no agravo de instrumento e a presença dos requisitos para a atribuição do pretendido efeito suspensivo ao recurso de apelação, requer, necessariamente, a incursão no acervo fático-probatório dos autos, providência que, conforme consignado na decisão agravada, esbarra no óbice da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1075493/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2018, DJe 08/06/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. RECURSO DE APELAÇÃO RECEBIDO APENAS COM EFEITO DEVOLUTIVO. ADMISSIBILIDADE. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ÓBICE PREVISTO NA SÚMULA N.º 7/STJ.
+1. Nos casos de procedência parcial dos embargos à execução, a apelação deve ser recebida apenas no efeito devolutivo.
+2. Permite-se, excepcionalmente, a atribuição de efeito suspensivo, havendo fundamentação relevante, nas hipóteses de possibilidade de ocorrência de lesão grave e de difícil reparação.
+3. A revisão das conclusões do Tribunal de origem acerca do preenchimento dos requisitos para a concessão de efeito suspensivo à apelação demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, nos termos da Súmula n.º 7/STJ.
+4. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+5. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 1546119/BA, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 01/12/2015, DJe 14/12/2015)
+A propósito, menciona-se trecho do preciso parecer ministerial, o qual também adoto como razões de decidir (fls. 1166-1171, e-STJ):
+20. Ainda que superado o óbice da súmula nº 07 desse Superior Tribunal de Justiça, melhor sorte não assiste ao recorrente.
+21. Na origem, o Tribunal de Justiça do Estado de Goiás, nos autos do agravo de instrumento nº 5244674.12.2016.8.09.0000, reformou decisão de primeiro grau a fim de conceder a tutela de urgência em favor do Ministério Público do Estado de Goiás.
+(..)
+23. A sentença de procedência do pedido (fls. 883/889e) condenou o recorrente à "regularizar, na rede municipal de saúde pública os estoques e dispensação dos Análogos à Insulina (Lantus (Glargina), Humalog (Lispro), Levemir (Determir), Novorapid (Aspart)), insumos básicos, alimentação enteral e dietas especiais para todos os pacientes do SUS que tiverem a prescrição médica do sistema público de saúde, conforme protocolos médicos fixados, bem como estabeleça calendário de licitações para garantir abastecimento e regular dispensação de tais, assegurando estoques por no mínimo 06 (seis) meses."
+24. Contrariamente ao arguido pelo recorrente, a sentença de fls. 883/889e não é mais ampla do que os termos lançados no acórdão do agravo de instrumento. A realização de licitações para garantir o abastecimento e dispensação dos medicamentos é consectário lógico do imposto no acórdão que concedeu a tutela de urgência, pois é a forma que a municipalidade irá adquirir os medicamentos e tem como finalidade evitar que a inércia da recorrente venha a ocasionar, novamente, o desabastecimento dos medicamentos em questão, como vinha ocorrendo.
+25. Dessa forma, escorreita a decisão do Tribunal de Justiça do Estado de Goiás que recebeu o recurso de apelação da municipalidade apenas no efeito devolutivo, nos termos do art. 1.012, §1º, inciso V, do Código de Processo Civil, mantendo-se a tutela de urgência no fornecimento dos medicamentos para tratamento de pacientes portadores de diabetes.
+(..)
+Por fim, a apontada divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, o que não ocorreu.
+O desrespeito a esses requisitos legais e regimentais (art. 1.029, §1º do CPC/2015 e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
