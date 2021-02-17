@@ -1,0 +1,20 @@
+DECISÃO
+Por meio deste habeas corpus, postula-se a imediata substituição da prisão preventiva de Elivelton Magrini Silva (Processo n. 1500458-41.2020.8.26.0066, da 2ª Vara Criminal da comarca de Barretos/SP) por medidas cautelares diversas ou por prisão domiciliar, sob os argumentos, em suma, de falta de fundamentação idônea a amparar a custódia, de extensividade do benefício concedido ao corréu e de necessidade de se ponderar a atual situação de pandemia.
+A liminar foi deferida às fls. 73/74.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem e revogaçãoda liminar deferida (fl. 87).
+Após consulta realizada no portal da Corte local na internet em 11/2/2021, foi possível observar que não houve prolação de sentença na origem.
+É o relatório.
+Faz-se necessário confirmar a decisão liminar anteriormente deferida.
+In casu, a despeito das relevantes considerações realizadas pelo Magistrado singular relacionadas à prática do crime, em especial a quantidade e a diversidade da droga (1.765,4 g de maconha, 14 g de cristal, 215 comprimidos de ecstasy e 1.044 pontos de LSD), entendo que existem medidas outras suficientes a evitar a reiteração delitiva, considerando tanto o fato de o paciente ser primário, como de o crime, apesar de grave, ter sido cometido sem violência ou grave ameaça à pessoa.
+Nessa esteira, conquanto os motivos invocados pelo Juízo monocrático revelem a necessidade de algum acautelamento da ordem pública, tais razões não são bastantes, em juízo de proporcionalidade, para manter o acusado sob o rigor da cautela pessoal mais extremada, notadamente por se tratar de réu primário e com residência fixa (HC n. 586.219/SE, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 14/9/2020).
+No mesmo sentido: HC n. 561.577/RJ e RHC 137.153/SP, ambos da minha relatoria.
+Não se pode olvidar que com o advento da Lei n. 12.403/2011, a prisão cautelar passou a ser, mais ainda, a mais excepcional das medidas, devendo ser aplicada somente quando comprovada a inequívoca necessidade, havendo que se verificar se existem medidas alternativas à prisão adequadas ao caso concreto. A propósito: HC n. 255.834/MG, Ministro Jorge Mussi, Quinta Turma, DJe 15/9/2014.
+Além disso,a situação do paciente se amolda às hipóteses indicadas na Resolução n. 62/2020 do Conselho Nacional de Justiça, notadamente quanto à recomendação aos Tribunais e aos magistrados quanto à adoção de medidas preventivas à propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos sistemas de justiça penal e socioeducativo.
+Cumpre assinalar ainda,que o corréu, apontado como fornecedor de todo o material entorpecente, foi colocado em liberdade por força de decisão proferida no HC n. 579.176/SP, em razão de não terem sido indicados, quanto a ele, elementos concretos aptos a amparar a prisão cautelar.
+Por fim, ressalta-se, por oportuno, que, diante daconsultarealizada no portal da Corte local na internet, foi possível observar que,em6/8/2020, o Magistrado de piso deferiu o pleito e autorizouque o orapacienteexerça suas atividades laborativas, também aos sábados, no horário das 8h30min às 16h.
+Ante o exposto, confirmando a liminar anteriormente deferida,concedo a ordem,salvo se por outro motivo estiver preso, para substituir a prisão preventiva dopaciente por medidas cautelares,consistentes em: a) comparecimento periódico em juízo, no prazo e nas condições a serem fixadas pelo juízo, para informar e justificar atividades (art. 319, I, do CPP); b) proibição de acesso ou frequência a lugares a serem identificados pelo Magistrado singular, relacionados com a prática criminosa (art. 319, II, do CPP); c) proibição de se ausentar da comarca, sem autorização judicial (art. 319, IV, do CPP); e d) recolhimento domiciliar no período noturno e nos dias de folga, exceto se estiver trabalhando (art. 319, V, do CPP).
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE DA MEDIDA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. ADEQUAÇÃO E SUFICIÊNCIA. RECOMENDAÇÃO N. 62/2020 DO CNJ.
+Ordem concedida nos termos do dispositivo. Liminar confirmada.
