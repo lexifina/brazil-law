@@ -1,0 +1,74 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, a aplicação do óbice da Súmula 7/STJ.
+III - Para afastar o óbice da Súmula 7/STJ, não basta apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, sem demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de agravo regimental interposto por THALYSSON ALVES DE LACERDA, contra a decisão da Presidência desta Corte que não conheceu do agravo em recurso especial (fls. 872-873).
+Informam os autos que o agravante foi condenado pelo júricomo incurso nas sanções do art. 121, §2º, incisos I e IV do Código Penalà pena de 24(vinte e quatro)anos e05(cinco) meses de reclusão, no regime inicial fechado(fls. 547-554).
+O Tribunal de Justiça do Estado da Paraíba, por unanimidade, negou provimento ao recurso da defesa, mantendo, na íntegra, a sentença(fls. 640-665).
+Opostos embargos de declaração, estes foram rejeitados (fls. 684-692).
+No recurso especial interposto, com fulcro no art. 105, inciso III, alínea a, da Constituição da República, a Defesa alegou negativa de vigência aose arts. 1º e157, ambos do CPP, posto que o agravante foi condenado com base em provas ilícitas, bem como ao art. 422 do CPP, visto que a acusação não realizou a juntada das provas no prazo de 5 dias anteriores à audiência e art. 564, inciso III, alínea b, do CPP, jáquea prova utilizada para embasar a condenação não passou por perícia técnica. Por fim, alegou violação do art. 59 3 65, inciso I, ambos do Código Penal, visto que houve excesso na aplicação da pena e que não foi considerada a menor idade relativa do réu e nem a supostaconfissão(fl. 774-770).
+Apresentadas as contrarrazões (fls. 799-808), sobreveio decisão de inadmissibilidade do apelo à consideração de que a análise da insurgência implicaria em inviável revolvimento fático-probatório, o que é vedado nas instâncias extraordinárias, nos termos da Súmula 7/STJ(fls. 817-819).
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foi infirmado, de forma adequada e suficiente, a incidência da Súmula 7/STJ, fundamento empregados pelo eg. Tribunal de origem para inadmitir o recurso.
+No agravo regimental, o agravante aponta que a defesa impugnou de forma efetiva, concreta e pormenorizada a decisão ora combatida(fls. 877-882).
+Pugna, ao final, seja o recurso especial provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, a parte agravante deixou de infirmar, de maneira adequada e suficiente, a aplicação do óbice da Súmula 7/STJ.
+III - Para afastar o óbice da Súmula 7/STJ, não basta apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, sem demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER:Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porque não foram infirmados osfundamentos empregados pela eg. Corte de origem para inadmitir o recurso (Súmula 7/STJ).
+Registrou-se, na decisão agravada, fundamentadamente, o que segue (fls. 872-873):
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente o referido fundamento.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Não logra êxito a irresignação, porque, efetivamente, não foram impugnados todos os fundamentos da decisão proferida pelo Tribunal de origem.Nas razões do agravo em recurso especial, a parte limitou-se a asseverar, quanto a referidos óbices (fls. 828-830):
+"Ocorre, Senhores Ministros, que ao contrário do entendimento supra, a matéria tratada em sede de Recurso Especial não esbarra na súmula 07 do STJ, mormente porque o mencionado recurso não trata de simples reexame de matéria, tampouco em incursão na conjuntura fática.
+O que ocorre é que no caso em tela, o reexame e a revaloração da prova é matéria estritamente jurídica e que deve ser apreciada pelo Superior Tribunal de Justiça, uma vez que o acórdão prolatado pelo tribunal de justiça contrariou normas de direito probatório.
+É que a revaloração da prova não implica necessariamente em se efetuar o reexame dos fatos, e sim análise da desobediência de norma que determina o valor que a prova pode ter. Há, por consequência, uma dupla ilegalidade: valorar mal a prova e, consequentemente, qualificar equivocadamente os fatos, configurando a ilegalidade.
+Na revaloração da prova, o STJ avalia se o órgão de instância inferior poderia ter formado o seu convencimento a respeito dos fatos de determinado modo, se o meio de prova era admitido pelo Direito e se alguma norma jurídica predeterminava o valor que a prova poderia ter.
+Na seara probatória, a comprovação do fato, além de ser importante para o desfecho da lide, deve ser admissível à luz do direito positivo.
+Se não for admissível determinada prova admitida em 2" Instância, ou sua interpretação contrariar o entendimento do STJ, a revaloração da prova pode ser objeto de RESP, para que se discuta se aquela prova era ou não admitida à luz do direito (ou a forma de sua interpretação), de modo que, indiretamente, o que se discute é, na verdade, a afronta ou não à lei federal
+ ..
+Portanto, não havendo necessidade de se efetuar o reexame dos fatos e estando presente o quadro fático estampado no acórdão recorrido, o RESP no qual se aponte contrariedade à lei federal é admissivel, pois não há o mero reexame de fato, e sim, o confronto deste com a lei federal, de maneira a configurar o vício de ilegalidade em decorrência da má interpretação da lei.
+Logo, a subsunção dos fatos ao direito é uma operação lógica em que predominam a escolha e a interpretação da norma jurídica a ser aplicada aos fatos, sendo considerada questão de direito para fins de interposição de RESP. Na valoração é admitida a análise de matéria fática, desde que não se discuta se ocorreu ou não determinado fenômeno, devendo ser alegada nos dissídios em que a norma jurídica relativa à matéria probatória é aplicada ou interpretada de maneira equivocada.
+ ..
+Dessa forma, o Recurso Especial interposto pelo Agravante não está analisando matéria fático-probatória como foi afirmado pelo Tribunal de Justiça, e sim a revalorização das provas e dos fatos expressamente transcritos na sentença e no acordáo recorrido, assim, não encontrando qualquer óbice na súmula 7 do STJ."
+O recurso não foi conhecido porque o recorrente olvidou-se de infirmar, de maneira adequada e suficiente, a razão apresentada pelo Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, sem demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM. 182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento" (AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018, grifei).
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SERVIDOR PÚBLICO. DECISÃO QUE NEGA SEGUIMENTO AO RECURSO ESPECIAL COM FUNDAMENTO EM MATÉRIA REPETITIVA. RESP N. 1.134.186/RS. TEMA N. 407/STJ. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 7 DO STJ E DIVERGÊNCIA NÃO COMPROVADA. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+ ..
+IV - Da análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial com base em ocorrência de: Súmula 7 do STJ, divergência não comprovada e na aplicação do entendimento sufragado no recurso repetitivo REsp n. 1.134.186/RS - Tema n.407/STJ.
+ ..
+IX - São insuficientes para considerar como impugnação aos fundamentos da decisão que nega seguimento ao recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+X - Embargos de declaração acolhidos, sem efeitos modificativos, nos termos da fundamentação" (EDcl no AgInt no AREsp n. 1.212.148/RS, Segunda Turma, Rel. Min. Francisco Falcão, DJe 14/12/2018).
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida. Igualmente, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PLEITO DE FIXAÇÃO DE REGIME INICIAL DE PENA MAIS BRANDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL.
+I - O agravante deixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo Tribunal de origem para negar trânsito ao recurso especial, especificamente não enfrentou de maneira adequada a incidência da Súmula 284 do STF.
+II - A ausência de impugnação dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles, o que não ocorreu na presente hipótese.
+Agravo regimental desprovido" (AgInt no AREsp n. 1.140.814/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 16/02/2018, destaquei).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017).
+Portanto, a parte agravante não trouxe qualquer inovação de fundamento apta a desconstituir a decisão agravada, não bastando, para tanto, deduzir genericamente a inaplicabilidade dos óbices apontados na decisão agravada ou repisar as razões do recurso especial.
+Assim, em respeito ao princípio da dialeticidade, a impugnação dos fundamentos da decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso. "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos" (AgRg no REsp n. 1.709.395/SC, Quinta Turma, Rel. Min. Felix Fischer, DJe de 10/12/2018).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
