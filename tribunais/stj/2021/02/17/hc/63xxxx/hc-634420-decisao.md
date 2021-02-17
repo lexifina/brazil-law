@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de JUCELIO VOSNIAK OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul no HC n. 1414740-70.2020.8.12.0000.
+Consta dos autos que o Paciente foi preso em flagrante, em 25/04/2020, como incurso nos arts. 33, 35 e 40, inciso V, da Lei n. 11.343/2006, e 180 e 311 do Código Penal, pois, supostamente, transportava, juntamente com o corréu, o total de 233,4kg (duzentos e trinta e três quilos e quatrocentos gramas) de maconha.
+A prisão em flagrante foi convertida em preventiva (decisão não juntada aos autos) e, em cumprimento ao art. 316, parágrafo único, do Código de Processo Penal, o Juízo processante manteve a prisão preventiva do Paciente (decisão de fls. 20-22).
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que conheceu parcialmente da ordem e, nessa extensão, denegou-a, em acórdão assim ementado (fl. 23):
+"HABEAS CORPUS - TRÁFICO DE DROGAS - REQUISITOS DA PRISÃO PREVENTIVA - REITERAÇÃO DE PEDIDO - INEXISTÊNCIA DE FATO NOVO APTO A MODIFICAR DECISÃO ANTERIOR - NEGATIVA DE AUTORIA -NÃO CONHECIMENTO - EXCESSO DE PRAZO - INOCORRÊNCIA - INEXISTÊNCIA DE DESÍDIA DA AUTORIDADE JUDICIAL - PARCIAL CONHECIMENTO E DENEGAÇÃO DA ORDEM.
+Questões atinentes à negativa de autoria, requisitos da prisão preventiva e condições pessoais do paciente que já foram objeto de análise em writ anterior não são passíveis de conhecimento, por tratarem-se de reiteração de pedido.
+Inexiste o alegado excesso de prazo quando o feito encontra-se recebendo impulso oficial, tendo o retardo no processamento do feito ocorrido por contribuição da defesa do corréu. Iminência do início da instrução."
+No presente writ, a Defesa alega que há excesso de prazo para a formação da culpa, vez que a audiência de instrução foi redesignada para 02/02/2021, "quando, até lá, serão 283 dias ou 09 meses de prisão cautelar sem conclusão da instrução probatória" (fl. 6).
+Afirma que a causa para o retardo da marcha processual se deu por "motivos afetos unicamente à culpa do Estado, em nada tendo contribuído a defesa para esta injustificada demora na conclusão da instrução processual" (fl. 7), notadamente porque o Paciente ficará aguardando encarcerado em meio à pandemia da Covid-19.
+Afirma que é uma situação inexplicável, visto que:
+" ..  após 07 (sete) meses da prisão do paciente, as testemunhas que são policiais militares informarem que apenas deram apoio no caso, não participando efetivamente da abordagem, não podendo reconhecer e nem confirmar em audiência, os autores e a materialidade dos crimes imputados, embora tenham assinado o boletim de ocorrência confirmando os fatos narrados no caderno inquisitório diante da autoridade policial, conforme documentos em anexos." (fl. 13)
+E que:
+" a  existência de informações de que o paciente possui condições pessoais favoráveis, vivência o excesso de prazo na conclusão da instrução processual por culpa exclusiva do Estado, e ainda, a unidade prisional onde se encontra recolhido existe registro de contaminação pelo coronavírus, demonstra e comprova que o impetrante preenche os requisitos estabelecidos por lei, bem como pelas recomendações do CNJ, acerca dos esforços para a contenção da pandemia do coronavírus (Covid-19), deste modo, cabível a substituição da prisão preventiva por outras medidas alternativas." (fl. 13)
+Requer, liminarmente, seja reconhecido ao Paciente o direito de aguardar em liberdade o desfecho do processo e, no mérito, o relaxamento da prisão em razão do excesso de prazo para a formação da culpa.
+O pedido de liminar foi indeferido às fls. 30-33.
+As judiciosas informações foram juntadas às fls. 37-41.
+O Ministério Público Federal manifestou-se às fls. 51-53, opinando pelo não conhecimento da impetração.
+É o relatório.Decido.
+No que se refere à suposta necessidade de aplicação da Recomendação n. 62/2020 do Conselho Nacional de Justiça, observa-se que a questão suscitada não foi apreciada pela Corte estadual, de modo que não pode ser conhecida originariamente por esta Corte, sob pena de supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO. ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+Por fim, quanto ao arguido excesso de prazo na formação da culpa, verifica-se que, segundo as informações colhidas no endereço eletrônico do Tribunal de origem, foi realizada a audiência de instrução em 02/02/2021, e em 03/02/2021, foi proferida decisão abrindo o prazo para memoriais e solicitando a posterior conclusão para sentença.
+Assim, observa-se que foi encerrada a instrução criminal no dia 02/02/2021. Desse modo, fica superada a alegação de constrangimento ilegal por excesso de prazo, nos termos da Súmula n. 52 do Superior Tribunal de Justiça: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+Nesse sentido:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. LATROCÍNIO E CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. EXCESSO DE PRAZO. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. SÚMULA N. 52 DO STJ. PREJUDICIALIDADE. RECURSO ORDINÁRIO JULGADO PREJUDICADO EM PARTE E, NA PARTE REMANESCENTE, NÃO PROVIDO. ..
+4. A tese de que haveria excesso de prazo está prejudicada, tendo em vista a notícia de que a instrução criminal foi encerrada, com a apresentação de alegações finais pelas partes. Entendimento consolidado na Súmula n. 52 deste Superior Tribunal.
+5. Recurso ordinário julgado prejudicado em parte e, na parte remanescente, não provido." (RHC 126.419/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020; sem grifos no original.)
+Ante o exposto, CONHEÇO EM PARTE do habeas corpus e, nessa extensão, DENEGO a ordem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA. APLICAÇÃO DA RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. INSTRUÇÃO CRIMINAL ENCERRADA. SÚMULA N. 52/STJ. ORDEM CONHECIDA EM PARTE E, NESSA EXTENSÃO, DENEGADA.
