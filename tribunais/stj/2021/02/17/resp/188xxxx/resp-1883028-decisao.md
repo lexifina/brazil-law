@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado:
+ADMINISTRATIVO. SERVIDOR. ANUÊNIO. REDUÇÃO. IMPOSSIBILIDADE. DECADÊNCIA. ART. 54, DA LEI N.º 9.784/99.
+1. Dispõe o art. 54, da Lei nº. 9.784/99, que o direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada a má-fé.
+2. O adicional de tempo de serviço, no percentual de 20%, foi implantando há mais de 13 anos, restando impossibilitada a revisão levada a efeito pela autoridade coatora, eis que já ocorrida a decadência.
+3. Apelação e Remessa Necessária improvidas.
+Os Embargos de Declaração foram rejeitados.
+Aponta a parte recorrente, em Recurso Especial, violação dos arts. 46 e 114 da Lei 8.112/1990; 54 da Lei 9.784/1999; 876 e 884 do Código Civil e 535, II do CPC/1973. Aduz:
+Pelo exposto, resta evidenciado que ao determinar a manutenção de percentual incorreto do anuênio, sob o fundamento de decadência, o Tribunal recorrido violou expressamente o art. 114, da Lei 8.112/90, e o art. 53 da Lei 9.784/99, os quais asseguram o direito da administração de rever atos cujo vício encontra-se na origem, eis que um ato somente é válido se for lícito, e quando for concretizada em consonância com as normas vigentes, pois o ato nulo não gera direito, e nem mesmo o tempo decorrido é capaz de tirar o vício da origem, impondo-se, desta forma, a reforma do acórdão recorrido para restabelecer a vigência dos dispositivos citados que foram violados.
+(..)
+O acórdão recorrido proibiu a restituição dos valores recebidos indevidamente pelo recorrido, sob o fundamento de que se trata de quantias recebidas de boa-fé.
+Ocorre que, ao impedir a devolução dos valores recebidos indevidamente pelo recorrido, o acórdão violou expressamente o disposto no art. 46, da Lei 8.112/90, senão confira:(..)
+Pois bem, a presente questão não comporta grandes discussões, uma vez que está clara a ausência de fundamento jurídico a impossibilitar a Administração de reaver os valores percebidos de forma indevida pelo recorrido.
+Mesmo que não houvesse dispositivo legal algum expresso em textos legais a esse respeito, o ressarcimento ao Erário estaria ancorado na regra geral que veda o enriquecimento ilícito ou sem causa, proveniente dos princípios gerais do direito e do próprio sistema jurídico, e no preceito inserto nos arts. 876 e 884 do Código Civil Brasileiro, que consagra a hipótese de devolução de quantias recebidas indevidamente:
+(..)
+Isso posto, resta evidenciado que o acórdão recorrido que impediu a devolução aos cofres públicos dos valores recebidos indevidamente pelo recorrido viola os artigos 46 da Lei 8.112/90 e arts. 876 e 884 do Código Civil, valendo notar que os referidos dispositivos não estabelecem qualquer condição para devolução, nem mesmo a prova de má fé, pelo que resta claro a violação, impondo-se o provimento do presente recurso para reformar integralmente o acórdão recorrido, para julgar totalmente improcedente a pretensão.
+Contrarrazões às fls. 329-337, e-STJ.
+É o relatório.
+Decido.
+Verifico que a matéria versada no apelo foi submetida a julgamento no rito dos recursos repetitivos pelo REsp 1.381.734/RN, que cuida do tema 979 ("Devolução ou não de valores recebidos de boa-fé, a título de benefício previdenciário, por força de interpretação errônea, má aplicação da lei ou erro da Administração da Previdência Social") e pelos REsp 1.769.306/AL e REsp 1.769.209/AL que cuidam do tema 1009 ("O Tema 531 do STJ abrange, ou não, a devolução ao Erário de valores recebidos de boa-fé pelo servidor público quando pagos indevidamente por erro operacional da Administração Pública").
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que enseje às instâncias de origem o juízo de retratação na forma dos artigos 1.039 a 1.041 do CPC/2015. No mesmo sentido, recente decisão monocrática: AgInt no REsp 1.623.207/RS, Relatora Ministra REGINA HELENA COSTA, DJe 26/6/2019.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1º-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. REPERCUSSÃO GERAL RECONHECIDA. MATÉRIA AFETADA PELA SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO DO RECURSO ESPECIAL COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO. POSSIBILIDADE.
+1. A questão jurídica referente à aplicabilidade do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora teve repercussão geral reconhecida pelo Supremo Tribunal Federal (Tema 810) e encontra-se afetada no Superior Tribunal de Justiça, sob a sistemática dos recursos repetitivos (Tema 905).
+2. Encontrando-se a matéria com repercussão geral reconhecida, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e esta Corte Superior, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso extraordinário afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015. Precedente: AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/6/2017.
+3. Somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado, em sua totalidade, a este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+4. De acordo com o entendimento do STJ, qualquer irresignação que tenha por objeto matéria tratada em recurso representativo da controvérsia deve ser devolvida aos Tribunais de origem para que exerça a competência que lhes foi atribuída pela Lei 11.672/2008.
+5. É irrecorrível ato deste Tribunal Superior que determina o sobrestamento de recursos a fim de se aguardar o julgamento do recurso representativo de controvérsia, já que desprovido de caráter decisório.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.686.774/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos 1.039 a 1041 do CPC/2015, após a publicação do acórdão dos respectivos recursos excepcionais representativos da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
