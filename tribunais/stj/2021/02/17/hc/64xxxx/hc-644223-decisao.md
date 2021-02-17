@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado perante o Tribunal de Justiça do Estado de São Paulo,contra decisão do relator, que indeferiu a liminar, em favor deWARRISON CORDEIRO VIANA.
+Neste writ, o impetrante sustenta, em síntese, que se tornouinadmissível, em face da superveniência da Lei nº 13.964/2019 ("Lei Anticrime"), a conversão, ex officio, da prisão em flagrante em preventiva.
+Pleiteia a concessão da ordem para que seja reconhecida a ilegalidade da prisão preventiva, superando-se o óbice da Súmula 691/STF.
+É o relatório.
+Não se desconhece o entendimento desta Corte no sentido de que não cabe habeas corpus contra decisão que indefere pedido limiar, salvo em casos de flagrante ilegalidade ou teratologia na decisão impugnada (Súmula 691/STF).
+Contudo, no presente caso, é necessária a superação do referido óbice, na medida em que se verifica a ocorrência de flagrante ilegalidade a justificar a concessão da ordem.
+Isso porque a Quinta Turma desta Corte Superior, ao julgar, em 20/10/2020, o HC n. 590.039/GO, firmou, por unanimidade, entendimento no sentido de que, após as alterações legislativas promovidas pela Lei n. 13.864/2019 (Pacote Anticrime), é inadmissível ao Magistrado converter a prisão em flagrante em preventivaex officio.
+Eis a ementa do julgado:
+"PROCESSUAL PENAL.HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. PRISÃO PREVENTIVA. VIGÊNCIA DA LEI 13.964/2019. CONVERSÃOEX OFFICIODA PRISÃO EM FLAGRANTE EM PREVENTIVA. ILEGALIDADE. NECESSIDADE DE PRÉVIO REQUERIMENTO. CONSTRANGIMENTO ILEGAL CARACTERIZADO.HABEAS CORPUSNÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Nos termos da Súmula 691 do STF, é incabívelhabeas corpuscontra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada. No caso, observam-se circunstâncias excepcionais que autorizam a mitigação do referido enunciado sumular.
+2. A Lei n. 13.964/2019 promoveu diversas alterações processuais, deixando clara a intenção do legislador de retirar do Magistrado qualquer possibilidade de decretaçãoex officioda prisão preventiva.
+3. O anterior posicionamento desta Corte, no sentido de que "não há nulidade na hipótese em que o magistrado, de ofício, sem prévia provocação da autoridade policial ou do órgão ministerial, converte a prisão em flagrante em preventiva", merece nova ponderação em razão das modificações trazidas pela referida Lei n 13.964/2019, já que parece evidente a intenção legislativa de buscar a efetivação do sistema penal acusatório.
+4. Assim, a partir das inovações trazidas pelo Pacote Anticrime, tornou-se inadmissível a conversão, de ofício, da prisão em flagrante em preventiva. Portanto, a prisão preventiva somente poderá ser decretada mediante requerimento do Ministério Público, do assistente ou querelante, ou da autoridade policial (art. 311 do CPP), o que não ocorreu na hipótese dos presentes autos.
+5.Habeas corpusnão conhecido. Ordem concedida, de ofício para declarar a nulidade da conversão da prisão em flagrante em preventiva, sem prévio requerimento."
+(HC 590.039/GO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2020, DJe 29/10/2020).
+Nesse contexto, cumpre ressaltar que, embora a Sexta Turma deste Tribunal Superior tenha se manifestado, por maioria, de modo diverso (HC 583.995/MG, Rel. Ministro NEFI CORDEIRO, Rel. p/ Acórdão Ministro ROGERIO SCHIETTI CRUZ, julgado em 15/9/2020, DJe 7/10/2020), esse não foi o entendimento firmado pela Segunda Turma do Supremo Tribunal Federal, que, por unanimidade, decidiu pela ilegalidade da conversãoex officioda prisão em flagrante (HC 188.888/MG, julgado em 6/10/2020).
+In casu, o Juízo de primeiro grau converteu a prisão em flagrante em preventiva sem prévio requerimento do Ministério Público, do assistente ou querelante, ou representação da autoridade policial, o que, consoante posição jurisprudencial dominante, deixou de ser admitido pela legislação processual penal em vigor.
+Ante o exposto,não conheço do habeas corpus, porémconcedo a ordem,de ofício, para declarar a nulidade da decisão que converteu a prisão em flagrante em preventiva.
+Ressalvo a possibilidade de nova decretação da prisão ou de aplicação das medidas cautelares previstas no art. 319 do CPP, desde que precedidas de requerimento.
+Comunique-se,com urgência, ao Tribunal de Justiça do Estado deSão Paulo e ao Juízo singular competente.
+Publique-se. Intime-se.
