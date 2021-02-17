@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por MICHELI APARECIDA MARANI BARBOSA e FABIO AUGUSTO BARBOSA, contra decisão do Tribunal de Justiça do Estado de São Paulo, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Embargos de terceiro. Imóvel penhorado em execução fiscal de propriedade do pai do embargante. Afirmação de compra do bem que não foi comprovada nos autos. Embargantes que não integram a entidade familiar do devedor. Impossibilidade de extensão da garantia de impenhorabilidade do bem de família. Ação ora julgada improcedente. Recurso provido" (fl. 165e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, as partes ora agravantes apontam, além do dissídio jurisprudencial, violação aos arts. 1º e 5º da Lei 8.009/90 e 492 do CPC, sustentando, em síntese, que o imóvel penhorado na ação de execução fiscal contra Adenir Dias Barbosa nunca foi de propriedade do executado, sendo bem de família dos recorrentes, e, portanto, impenhorável; que o julgado é extra petita, eis que "nunca foi alegado que houve compra e venda e sim que o imóvel sempre foi de propriedade dos embargantes, que só se utilizaram do nome de terceiro para pagar, construir, e viver em sua única moradia, e mesmo que alegado não há necessidade de juntada de contrato de compra e venda nos autos para provar a propriedade como já decidido" (fls. 171/178e).
+Contrarrazões a fls. 209/221e.
+Inadmitido o Recurso Especial (fls. 232/233e), foi interposto o presente Agravo (fls. 244/248e).
+Contraminuta a fls. 251/256e.
+A irresignação não merece prosperar.
+Com efeito, o Tribunal de origem, ao analisar a controvérsia, assim entendeu:
+"Sendo assim, para a garantia de impenhorabilidade é indispensável a demonstração de que os embargantes componham a entidade familiar do devedor, o que não foi demonstrado nos autos. Por sinal, a inicial relata a entidade familiar formada pelos embargantes e sua filha, sem a inclusão do devedor nesse núcleo e que o devedor nunca residiu nessa casa (fl. 2).
+Assim, diante da propriedade do imóvel pelo devedor, bem como ausente prova de que esse bem é utilizado pela entidade familiar do devedor, não há razão para afastar a constrição havida" (fl. 168e).
+Portanto, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Nesse sentido:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. PENHORA SOBRE IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE. ACÓRDÃO DO TRIBUNAL REGIONAL ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, no que diz respeito ao enquadramento do imóvel como bem de família para fins de impenhorabilidade, consideradas as peculiaridades do caso concreto, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, conforme a Súmula 7/STJ.
+2. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.266.731/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 30/05/2018).
+Quanto à alegada ofensa ao art. 492 do CPC, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que a tese recursal vinculada ao dispositivo tido como violado não foi apreciada no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem. A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.
+INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Pelo exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
