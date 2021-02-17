@@ -1,0 +1,18 @@
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção do processo HC n. 601.073/SP (fl. 82).
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de Paulo de Souza Freitas, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo (HC n. 2297596- 68.2020.8.26.0000).
+O paciente foi condenado às penas de 2 anos e 6 meses de reclusão, no regime inicial semiaberto, e ao pagamento de 12 dias-multa, no valor unitário mínimo, pela prática do crime previsto no art. 155, § 4º, I, II e IV, do Código Penal (fls. 44/50), acórdão transitado em julgado em 31/8/2020 (fl. 52).
+No presente writ, alega oimpetrante, em resumo, que o paciente está sofrendo constrangimento ilegal, uma vez que, expedido o mandado de prisão para o início da execução penal, foi colocado em regime fechado, onde permanece recolhido até a presente data (fl. 4).
+Menciona que foi impetrado habeas corpus na origem, mas que o Tribunal estadual julgou o pedido prejudicado, por perda superveniente do objeto, decisão equivocada, porquanto, mesmo estando recolhido no centro de progressão de penas, o paciente NÃO foi colocado em seu regime de condenação, ou seja, semiaberto, pois se encontra no regime fechado, o que importa violação dos arts. 91 e 122 da Lei de Execução Penal (fls. 6/7), sustentando, ainda, o excesso de prazo, tendo em vista a ausência de manifestação do juízo da execução penal (fl. 8).
+Requer, liminarmente, a imediata inclusão do paciente no regime semiaberto, porquanto, passados 71 dias desde sua prisão, o paciente encontra-se recolhido de forma ilegal, por ausência de vaga no regime adequado (fl. 10). No mérito, pugna pela concessão da ordem para que o paciente seja colocado em regime aberto por ausência de vagas no regime adequado, qual seja, semiaberto, pois o mesmo se encontra no regime fechado mesmo no CPP (fl. 11).
+É o relatório.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordemde ofício.
+No caso, infere-se, desde logo, que a pretensão não pode ser acolhida por esta Corte Superior de Justiça, sob pena de indevida supressão de instância, pois a matéria não foi examinada no Tribunal estadual, por ocasião do julgamento da impetração originária.
+Nesse sentido: RHC n. 139.897/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/2/2021;e HC n. 540.088/MT, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020.
+De mais a mais, as alegações aventadas neste writ demandariam incursão probatória, mormente diante das considerações lançadas pelo Tribunal de origem, no sentido de que Em consulta ao SIVEC 1, verifica-se que o paciente foi removido à unidade prisional compatível com o regime semiaberto em 18.12.2020 CPP Franco da Rocha (fl. 80 - grifo nosso).
+Conforme reiterada jurisprudência desta Corte Superior, não se mostra possível a análise, no âmbito restrito do habeas corpus, de teses que, por sua própria natureza, demandam dilação probatória (HC n. 490.401/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2019).
+Por tais razões, indefiro liminarmente o pedido de habeas corpus nos termos do art. 210 do RISTJ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. CONDENAÇÃO. REGIME INTERMEDIÁRIO. WRIT ORIGINÁRIO JULGADO PREJUDICADO. PERDA SUPERVENIENTE DE OBJETO. ALEGAÇÃO DE QUE O PACIENTE PERMANECE NO REGIME FECHADO. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.
+Petição inicial indeferida liminarmente.
