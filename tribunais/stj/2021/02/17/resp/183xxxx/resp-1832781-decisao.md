@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por Lojas Colombo S.A. Comércio de Utilidades Domésticas contra decisão de e-STJ, fls. 2.658-2.661, que deu parcial provimento ao recurso especial nos termos do seguinte dispositivo:
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ e a Súmula 568/STJ, dou parcial provimento ao recurso especial, nos termos da fundamentação, para declarar que a dedução sob análise deve ocorrer sobre o lucro tributável da empresa, o que reflete no cálculo do adicional do imposto de renda.
+Defende, em síntese, que "ficou obscuro para a embargante se o provimento parcial foi pelo fato de não acolher a contrariedade do art. 1.022, I e II do CPC, ou se foi para não acolher o pedido de reformar o acórdão de origem para incluir o adicional do IRPJ sobre o limitador de 4% do PAT sobre o imposto de renda devido" (e-STJ, fls. 2.663-2.664).
+É o relatório.
+O art. 1.022 do CPC/2015 traz as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) o erro material.
+Na hipótese dos autos, nota-se que assiste razão à embargante, na medida em que a decisão não foi suficientemente clara.
+Dito isso, em complementação à decisão ora embargada, a limitação de 4% é aplicada sobre a integralidade do adicional de imposto de renda.
+Veja-se:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO. IMPOSTO DE RENDA.PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ART. 1º, DA LEI N.6.321/76. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO, O QUE REFLETE NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA, AFASTANDO A VEDAÇÃO CONSTANTE DO ART. 3º, § 4º, DA LEI N. 9.249/95.
+1. A agravante alega que os precedentes citados na decisão atacada não analisaram a legislação superveniente, impeditiva da forma de cálculo do benefício deferida, qual seja a Lei n. 9.249/95 (arts.3º, § 4º, e 13) e Lei n. 9.430/96 (art. 16, § 4º) e Lei n. 9.532/97 (arts. 5º e 6) a qual foi afrontada pelo acórdão recorrido.
+2. Ocorre que a jurisprudência deste STJ, analisando todos os dispositivos legais pertinentes, está firmada no sentido de que os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do imposto de renda, devendo, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional. Precedentes: EDcl no AgRg no REsp 940735 / SP, Primeira Turma, Rel. Min. Luiz Fux, julgado em 20.05.2010; REsp 526303 / SP, Segunda Turma, Rel. Min. Castro Meira, julgado em 27.09.2005; AgRg no REsp 115295 / DF, Segunda Turma, Rel.Min. Franciulli Netto, julgado em 02.09.2004.
+3. O caso é que a FAZENDA NACIONAL não compreende, ou insiste em não querer compreender, que a ordem de deduções antecede a aplicação do art. 3º, §4º, da Lei n. 9.249/95. Dito de outra forma, a integralidade do adicional a ser preservada pelo mencionado dispositivo de lei já é formada com as deduções antecedentes sobre o lucro tributável.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.359.814/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 12/2/2019, DJe 19/2/2019.)
+Ante o exposto, acolho os embargos declaratórios, sem efeito infringente, para sanar a obscuridade e esclarecer que se deveconsiderar o adicional do imposto de renda para o cálculo do limitador do PAT.
+Publique-se. Intimem-se.
