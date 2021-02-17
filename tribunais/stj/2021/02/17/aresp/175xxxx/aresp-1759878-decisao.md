@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto com fundamento no art. 105, III, "a", da CF/1988, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+Ação rescisória Servidores públicos estaduais Recálculo dos adicionais de tempo de serviço (quinquênio e sexta-parte) com fundamento no art. 966, V, do Código de Processo Civil de 2015 Não acolhimento Evidente que a irresignação dos autores reside no inconformismo com a interpretação feita pelo v. acórdão da legislação aplicável. A ação rescisória não é substitutivo de recurso, nem se presta ao reexame da matéria por inconformismo Ação rescisória julgada improcedente.
+Os Embargos de Declaração opostos foram rejeitados.
+Nas razões do apelo especial, a recorrente alega haver violação dos arts. 966, V e1.022do CPC. Sustenta:
+Por isso, estão interposto este recurso especial, com base no artigo 105, III, letra "a", da CE, por contrariedade ao art. 966, V, e art. 1.022 do CPC; no primeiro caso, diante da extinção da ação rescisória sem o julgamento, porquanto o acórdão rescindendo violara manifestamente a norna dos artigos 129 da Constituição Estadual e 37, XIX e XV da Constituição Federal, inexistindo qualquer controvérsia quanto à incidência dos qüinqüênios sobre os vencimentos integrais, quer no Tribunal deJustiça, quer no Supremo Tribunal Federal; no segundo, por ter o acórdão recorrido se recusado a examinar as questões apontadas nos embargos declaratórios.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.1.2021.
+A irresignação não merece prosperar.
+Inicialmente, a parte recorrente sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Cito precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. CONTRATO DE TRANSPORTE DE PESSOAS. ACIDENTE COM VÍTIMA FATAL. PENSÃO MENSAL. FIXAÇÃO COM BASE NO SALÁRIO MÍNIMO. DANO MORAL CARACTERIZADO. QUANTUM. RAZOABILIDADE. OFENSA AO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/1973). ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. OFENSA A DISPOSITIVO CONSTITUCIONAL. RECURSO ESPECIAL - VIA INADEQUADA. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO. (AgInt no AREsp 510.571/PE, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/12/2016, DJe 19/12/2016)
+Por fim, nas demais questões, a análise do preenchimento dos requisitos da ação rescisória implicamreexame de fatos, o que constitui óbice pela Súmula 7/STJ.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor dosagravantes, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Por tudo isso, conheço do Agravo para não conhecerdo Recurso Especial.Honorários advocatícios majorados em 10% (dez por cento) do valor já arbitrado.
+Publique-se.
+Intimem-se.
