@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 160):
+AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. NÃO PREENCHIMENTO.
+AGRAVO DEFENSIVO IMPROVIDO.
+Relata a impetrante que opaciente cumpre pena de 9 anos, 1 mês e 17 dias de reclusão, no regime fechado, com término previsto para 3/4/2025.
+Argumenta, em suma, que,em que pese sejam corretos os apontamentos negativos veiculados no acórdão, é necessário ter-se em vista que "ostentar boa conduta carcerária" não é sinônimo de inexistência de falta grave no curso da expiação. Digno de registro, inclusive, que a Lei 13.964/19 foi expressa ao estabelecer junto ao art. 83, inciso III, alínea "b", do Código Penal, que somente a indisciplina cometida nos 12 meses anteriores à concessão do livramento condicional caracteriza empecilho ao benefício (fl. 5).
+Acresce que o último evento em desfavor ao paciente - fuga-ocorreu em 15/9/2017, sendo que, além disso,obteve a remição de 307 dias em razão do trabalho e do estudo, tendo se submetido ao ENCCEJA em 2017, 2018 e 2019, remanescendo pendente de aprovação apenas em matemática.
+Requer, liminarmente e no mérito, que seja deferida a progressão ao regime intermediário.
+A liminar foi indeferida.
+As informações foram prestadas.
+Manifestou-se o Ministério Público Federal pela denegação do writ.
+É o relatório.
+DECIDO.
+Sobre a pretensão aqui trazida, assim se manifestou o Tribunal local (fls. 158-159 - com destaques):
+ .. Primeiramente, a fim de elucidar a situação do reeducando, transcrevo trecho da decisão recorrida: "No caso, corretas as ponderações ministeriais acerca da ausência de demonstração do requisito subjetivo, sendo prematuro qualquer avanço à liberdade sem a comprovação de comportamento satisfatório, sem o elevado risco de reiteração delitiva à sociedade, sobretudo porque persiste a dependência, como destacado na avaliação por parte do Setor Psicológico (fls. 3, evento 46.1). Ademais, pela avaliação emitida pelo Setor Social (fls.5, evento 46.1), o apenado novamente referiu que segue usando drogas ilícitas no ambiente carcerário.Cumpre destacar, ainda, que o executado conta com histórico de fuga durante a execução de sua reprimenda, de modo a considerar-se que o atestado de conduta carcerária, oriundo da Administração prisional, é um parâmetro legítimo para aferição do requisito subjetivo, mas apenas como um ponto de partida, não sendo vinculante nem absoluto, por si só, cabendo avaliar-se todo o conjunto de fatores envolvidos - do contrário, prescindível atividade jurisdicional, bastaria a aferição aritmética da fração e a juntada do atestado".
+De fato, a realização do exame criminológico não é imperativa. Sobre o tema, reproduzo o teor da Súmula 439 do Superior Tribunal de Justiça: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada". Por outro lado, na situação em comento, considerando que foram elaboradas as avaliações psicossociais, nada impede que o julgador de primeiro grau busque amparo nos elementos expostos nas referidas manifestações.
+Diante do referido contexto, não vislumbro a necessidade de reforma dos fundamentos que foram apresentados na origem. Ocorre que, em razão das próprias declarações do apenado, no sentido, inclusive, de que segue sendo usuário de drogas ilícitas, não verifico a possibilidade de conclusão pelo preenchimento do requisito subjetivo. Em síntese, a decisão agravada deve ser integralmente mantida. ..
+Como visto, o TJRS concluiu pela ausência do requisito subjetivo à progressão prisional, uma vez queo executado conta com histórico de fuga durante a execução de sua reprimenda, acrescendo que o atestado de conduta carcerária, oriundo da Administração prisional, é um parâmetro legítimo para aferição do requisito subjetivo, mas apenas como um ponto de partida, não sendo vinculante nem absoluto.
+Afirmou aquela Corte, outrossim, que,em razão das próprias declarações do apenado, no sentido, inclusive, de que segue sendo usuário de drogas ilícitas, não verifico a possibilidade de conclusão pelo preenchimento do requisito subjetivo.
+No entanto, segundo o entendimento pacificado nesteTribunal,na hipótese em que as faltas disciplinares são antigas e o reeducando é portador de atestado de bom comportamento, como ocorre no presente feito, o tratamento diferenciadoà concessão de benefícios da execução penal não se justifica
+Ademais, prescreve o art. 4º, I e IV, do Decreto Presidencial 9.246, de 21/12/2017:
+Art. 4º O indulto natalino ou a comutação não será concedido às pessoas que:
+I - tenham sofrido sanção, aplicada pelo juízo competente em audiência de justificação, garantido o direito aos princípios do contraditório e da ampla defesa, em razão da prática de infração disciplinar de natureza grave, nos doze meses anteriores à data de publicação deste Decreto;
+ ..
+IV - tenham descumprido as condições fixadas para a prisão albergue domiciliar, com ou sem monitoração eletrônica, ou para o livramento condicional, garantido o direito aos princípios do contraditório e da ampla defesa.
+Logo, se para o indeferimento da comutação pela prática de falta grave é necessário que a referida infração disciplinar seja verificada nos 12 meses anteriores à publicação do Decreto concessivo, não há razão para que, nos casos de descumprimento das condições impostas ao livramento condicional e à progressão prisional, tal lapso não seja igualmente observado.
+Numa análise sistemática e teleológica do art. 4º, I e IV, do Decreto Presidencial 9.246, de 21/12/2017, outra não pode ser a conclusão possível, senão a aplicação do lapso referente aos 12 meses anteriores à publicação do decreto para ambas as hipóteses, sob pena de se incorrer em interpretação extensiva e irrazoável, imiscuindo-se, indevidamente, na discricionariedade constitucionalmente assegurada ao presidente da República para a edição de decretos dessa natureza.
+Esse mesmo entendimento foi adotado pela Sexta Turma no julgamento do Habeas Corpus 529.025, conforme a ementa:
+EXECUÇÃO PENAL. HABEAS CORPUS. COMUTAÇÃO. DECRETO PRESIDENCIAL Nº 9.246/2017. DESCUMPRIMENTO DE CONDIÇÕES IMPOSTAS NO LIVRAMENTO CONDICIONAL. FALTA OCORRIDA HÁ MAIS DE 12 MESES. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA. ART. 4º, I E IV DO CITADO DECRETO. IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA DE RESTRIÇÕES NO DECRETO CONCESSIVO DE COMUTAÇÃO/INDULTO. PRECEDENTES. HABEAS CORPUS CONCEDIDO.
+1. As instâncias ordinárias, ao asseverarem que a comutação das penas, na hipótese, estaria inviabilizada uma vez que o cerne da presente questão não se refere ao tempo em que foi cometida a última infração (doze meses anteriores ao decreto), porém, diz respeito exclusivamente ao requisito do descumprimento de livramento condicional, independente do período, atentaram contra o princípio da proporcionalidade, estabelecendo uma analogia in malam partem entre o disposto no inciso I e o que fixado no inciso IV do mesmo art. 4º do Decreto em referência.
+2. Se para o indeferimento da comutação pela prática de falta grave é necessário que a referida infração disciplinar seja verificada nos 12 meses anteriores à publicação do Decreto concessivo, não há razão para que, no caso de descumprimento das condições impostas ao livramento condicional, tal lapso temporal não seja igualmente observado.
+3. Consoante a jurisprudência deste Superior Tribunal de Justiça, a interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, preenchidos os requisitos estabelecidos na norma legal, o benefício deve ser concedido por meio de sentença - a qual possui natureza meramente declaratória -, sob pena de ofensa ao princípio da legalidade.
+5. Habeas corpus concedido, para para determinar que o Juízo das execuções prossiga no exame dos demais requisitos previstos expressamente no Decreto Presidencial n. 9.246/2017. (HC 529.025/SP, por mim relatado, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020).
+De igual modo, com a publicação da Lei 13.964/2019 - Pacote Anticrime -, o art. 83, III, do Código Penal passou a ter a seguinte redação, in verbis:
+Art. 83. O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que:
+ ..
+III - comprovado:
+a) bom comportamento durante a execução da pena;
+b) não cometimento de falta grave nos últimos 12 (doze) meses;
+c) bom desempenho no trabalho que lhe foi atribuído;
+d) aptidão para prover a própria subsistência mediante trabalho honesto;  ..
+In casu, apesar de afirmar o TJRSque, em razão das próprias declarações do apenado, no sentido, inclusive, de que segue sendo usuário de drogas ilícitas, não verifico a possibilidade de conclusão pelo preenchimento do requisito subjetivo, tal fato não consta da guia de execução do paciente, decotando-se de respectivo documento tão somente a fuga ocorrida em 15/9/2017 (fl. 183).
+Ante o exposto, concedo o habeas corpus para determinar que o juízoda execução providencie a progressão do regime prisional do paciente ao semiaberto, independente da realização doexame criminológico.
+Comunique-se.
+Publique-se.
+Intimem-se.
