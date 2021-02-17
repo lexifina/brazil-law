@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MADEMIL - INDUSTRIAL E MERCANTIL MADEIREIRA LTDA., ANTÔNIO AURELIANO RIBEIRO SANCHES e LÚCIA MARIA HERNANDEZ MAGANHI, contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/07/2020.
+Concluso ao gabinete em: 03/12/2020.
+Ação: embargos à execução, opostos por MADEMIL - INDUSTRIAL E MERCANTIL MADEIREIRA LTDA., ANTÔNIO AURELIANO RIBEIRO SANCHES e LÚCIA MARIA HERNANDEZ MAGANHI, em face de CAIXA ECONÔMICA FEDERAL.
+Sentença: rejeitou os embargos à execução e julgou improcedentes os pedidos de MADEMIL - INDUSTRIAL E MERCANTIL MADEIREIRA LTDA., ANTÔNIO AURELIANO RIBEIRO SANCHES e LÚCIA MARIA HERNANDEZ MAGANHI, para que se reconhecesse a inexigibilidade da execução, a inexistência do título executivo e a exclusão da cobrança simultânea de valores a título de juros moratórios e remuneratórios dos contratos de mútuo e de abertura de conta corrente. Por fim, condenou os agravantes ao pagamento dos honorários, estes arbitrados em 10% sobre o valor atualizado da causa.
+Acórdão: negou provimento à Apelação interposta pelos agravantes, nos termos da seguinte ementa:
+"Processual Civil. Recurso de Apelação. Execução de título extrajudicial. Cédula de crédito bancário. Título executivo extrajudicial. Capitalização de juros. Comissão de permanência. Recurso de apelação não provido.
+1. A Lei 10.931/2004 previu a possibilidade de considerar-se líquida, certa e exigível a cédula de crédito bancário, desde que preenchidos os requisitos legais. No presente caso, a exequente trouxe com a inicial a cópia da cédula de crédito bancário devidamente assinada pelas partes, bem como os demonstrativos da evolução contratual, cumprindo as exigências previstas no artigo 28, da referida lei.
+2. Plenamente possível a capitalização de juros com periodicidade inferior a um ano em contratos bancários, conforme prevê a Medida Provisória nº 1963-17 de 31.03.00, reeditada atualmente sob o nº 2.170-36, desde que pactuada. Na hipótese dos autos, os instrumentos contratuais celebrados entre as partes foram firmados em datas posteriores à edição da referida Medida Provisória, motivo pelo qual é possível a sua aplicação. A constitucionalidade da referida Medida Provisória, outrossim, é plenamente aceita pela jurisprudência, consoante se observa dos precedentes do Superior Tribunal de Justiça. Precedentes.
+3. Juros remuneratórios, moratórios e multa contratual não são cumuláveis com a comissão de permanência, conforme entendimento pacífico no E. STJ. No presente caso, contudo, referida cumulação inexiste.
+4. Recurso não provido." (e-STJ fl. 475)
+Recurso especial: alegam violação dos arts. 28, § 2º, I, II, Lei 10.931/2004, 406, 591, CC/02, Súmula 472/STJ, bem como dissídio jurisprudencial. Sustentam que há a necessidade da juntada do contrato subjacente à emissão das cédulas, dos extratos e da planilha de cálculo, documentos capazes de demonstrar o pretenso crédito. Alegam, ainda, que a motivação recursal dos recorrentes está na ilicitude da capitalização, cuja prática foi diária, gerando anatocismo sobre a operação contratada.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Não cabimento do agravo em recurso especial, quanto à matéria inadmitida com base no art. 1030, I, b, do CPC/15
+No que tange à certeza, liquidez e exigibilidade do título executivo, bem como à capitalização dos juros, a Corte local inadmitiu o apelo nobre com base no artigo 1.030, I, b, do CPC/15, entendendo pela aplicação da orientação sedimentada nos Recursos Especiais 1.291.575/PR e 973.827/RS, Temas 576, 246 e 247, respectivamente, julgados sob o rito dos recursos repetitivos.
+Desse modo, conforme pacífico entendimento desta Corte, não é cabível o agravo em recurso especial contra decisão que, com fulcro no art. 1.030, I, b, do CPC/2015, nega seguimento ao apelo nobre, uma vez que é de competência do próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de suposto equívoco na aplicação de precedente representativo da controvérsia julgado por este Tribunal. Acerca do assunto: AgInt no AREsp 1.015.741/MS, 4ª Turma, DJe 12/09/2018; AREsp 959.991/RS, 3ª Turma, DJe de 26/08/2016.
+Ato contínuo, passo à análise das demais questões deduzidas no recurso especial.
+- Da violação de súmula
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor atualizado da causa (e-STJ fls. 474) para 14%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EMBARGOS À EXECUÇÃO. JUÍZO DE ADMISSIBILIDADE. PARTE INADMITIDA. IMPUGNAÇÃO POR MEIO DE AGRAVO NOS PRÓPRIOS AUTOS. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de embargos à execução.
+2. De acordo com o disposto no art. 1.030 do CPC, com a redação dada pela Lei 13.256/2016, a decisão que inviabiliza a subida do recurso especial, quando apresenta duplo fundamento para negar seguimento e também inadmitir o apelo, comporta, quanto à parte inadmitida, a interposição de agravo nos próprios autos (art. 1.030, V, § 1º, c/c o art. 1.042 do CPC/15) e, quanto à parte a qual se negou seguimento, agravo interno dirigido à Corte local (art. 1.030, I, b, § 2º, c/c o art. 1.021 do CPC/15).
+3. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Agravo conhecido. Recurso especial não conhecido.
