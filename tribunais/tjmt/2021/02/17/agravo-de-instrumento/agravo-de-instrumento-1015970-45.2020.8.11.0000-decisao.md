@@ -1,0 +1,36 @@
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento n. 1015970-45.2020.8.11.0000
+RECORRENTE(s): UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO
+RECORRIDO(s): ROSANGELA SOARES
+Vistos.
+Trata-se de Recurso Especial (ID 68524490) interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, assim ementado (ID):
+“AGRAVO DE INSTRUMENTO – EXECUÇÃO DE MULTA COMINATÓRIA – ALEGAÇÃO DE NULIDADE DA PUBLICAÇÃO DE INTIMAÇÃO PARA PAGAMENTO ANTE A AUSÊNCIA DO NOME DOS ADVOGADOS DA PARTE EXECUTADA – MATÉRIA NÃO ALEGADA E NÃO E ENFRENTADA NA INSTÂNCIA A QUO – SUPRESSÃO DE INSTÂNCIA – RECURSO DESPROVIDO.
+Demonstrada que a matéria debatida no Agravo de Instrumento, qual seja, a nulidade da publicação da intimação da parte executada, realizada por meio do Diário da Justiça eletrônica, não foi enfrentada na instância de origem, inviável a sua apreciação neste recurso. (AI n. 1015970-45.2020.8.11.0000, Rel. Des. Guiomar Theodoro Borges, Quarta Câmara de Direito Privado, data do julgamento 04.11.2020)”.
+Na espécie, o recurso foi interposto contra o aresto proferido em sede de Agravo de Instrumento, aviado por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO, que não conheceu do pedido de nulidade de intimação da decisão que determinara o pagamento de astreintes, ao argumento de que tal fato acarretaria supressão de instância, tendo em vista que a matéria não foi objeto de análise pela instância de piso.
+A Recorrente alega violação ao artigo 272, §§ 2o e 5o, do CPC, ao argumento de que a nulidade de intimação é matéria de ordem pública, cognoscível, ainda que pela primeira vez, a qualquer tempo e grau de jurisdição.
+Recurso tempestivo (ID 68590472) e preparado (ID 68585544).
+Sem contrarrazões (ID 74357950).
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2- Da ausência de prequestionamento (Súmulas 282 e 356 do STF)
+Com o objetivo de evitar a supressão de instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última Instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 282/STF, segundo a qual “é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada”.
+Ainda, que caso se conclua pela existência de omissão no julgado, para que a matéria seja considerada prequestionada, é imprescindível que sejam opostos Embargos de Declaração com a indicação precisa do ponto supostamente omisso, em aplicação da Súmula 356/STF – “O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento”.
+Desse modo:
+“TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA. INDIVISIBILIDADE DO IMÓVEL. FALTA DE PREQUESTIONAMENTO. REEXAME DE PROVAS DOS AUTOS. SÚMULAS 282 E 356 DO STF E 7 DO STJ.
+1. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+2. Para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso e verificar a possibilidade de dividir o bem imóvel penhorado, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: ‘A pretensão de simples reexame de prova não enseja recurso especial’. 3. Agravo interno a que se nega provimento”. (AgInt no REsp 1760106/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 13/12/2018, DJe 18/12/2018).
+Dessa forma, verifica-se que em relação à suposta violação ao artigo 272, §§ 2o e 5o, do CPC, em que a parte recorrente alega que a ausência de nulidade de intimação dos autos processuais é matéria de ordem pública, e portanto, cognoscível de imediato pela instância revisora, a questão não foi abordada pelo acórdão impugnado, tampouco foram opostos Embargos de Declaração para prequestionar a matéria, situação que obsta o seu exame pelo Superior Tribunal de Justiça e impede a admissão do recurso.
+Sob o ponto, colaciona-se entendimento do STJ, em caso similar:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. CALÚNIA. INJÚRIA. DIFAMAÇÃO. CONTRA FUNCIONÁRIO PÚBLICO EM RAZÃO DE SUAS FUNÇÕES. POR MEIO QUE FACILITE A DIVULGAÇÃO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ART.932, III, CPC (ART. 3o DO CPP).ART. 34, XVIII, DO RISTJ. NÃO CONFIGURAÇÃO. NULIDADES. MATÉRIAS NÃO EXAMINADAS PELO EG. TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA CONFIGURADA. INVIABILIDADE DE EXAME DA MATÉRIA POR ESTA CORTE DE JUSTIÇA. AUSÊNCIA OU DEFICIÊNCIA DE DEFESA. NÃO CONFIGURAÇÃO. ADVOGADO EM CAUSA PRÓPRIA. INTIMADO. INÉRCIA. PRINCÍPIO DA BOA-FÉ OBJETIVA E COOPERAÇÃO. NEMO AUDITUR PROPRIAM TURPITUDINEM ALLEGANS. DOSIMETRIA. PENA-BASE. MAJORAÇÃO FUNDAMENTADA. CONTINUIDADE. CRITÉRIO OBJETIVO ATENDIDO. EXECUÇÃO PROVISÓRIA DA PENA PRIVATIVA DE LIBERDADE. LEGALIDADE. EVOLUÇÃO DA JURISPRUDÊNCIA DO STF. RECURSO DESPROVIDO.
+(...) II - "Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (RHC 81.284/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 30/8/2017).
+(...) IV - Inviável o conhecimento por esta Corte de Justiça de matéria não analisada pelo eg. Tribunal de origem, no caso, nulidade em face da não oitiva de testemunha, ausência de intimação de advogado dativo ou da Defensoria Pública acerca de atos do processo, configurada a supressão de instância. Precedentes.
+(AgRg no AgRg no HC 453.621/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/10/2018, DJe 30/10/2018)
+Tendo em vista que a matéria da nulidade de intimação não foi examinada pelo órgão fracionário recorrido, bem como, o argumento de que seria matéria de ordem pública também não foi objeto de apreciação, inviável o conhecimento do recurso, por esbarrar no óbice dos enunciados sumulares 282 do STJ e 356 do STF.
+Ante o exposto, NEGO SEGUIMENTO ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
