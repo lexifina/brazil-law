@@ -1,0 +1,31 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por Luciano Aparecido Mosca contra ato da Juíza de Direito da Vara de Execuções Penais Em Meio Fechado e Semiaberto da Comarca de Três Corações/MG, que teria afrontado o enunciado Súmula Vinculante nº 56.
+    Alega o reclamante, em suma, que estaria descontando a sua pena em regime semiaberto em estabelecimento prisional inadequado, o que caracteriza excesso de execução à luz do entendimento da Súmula Vinculante nº 56.
+    Prossegue argumentando que
+    “mesmo se encontra em estabelecimento prisional não adequado, ou seja, na ausência de estabelecimento de colônia agrícola ou estabelecimento similar, bem como ainda ponderou que o Reclamante está cumprindo pena em regime mais gravoso, ou seja, a espécie de regime ‘fechado’, uma vez que seus benefícios de saída temporária e trabalho externos foram suspensos na decisão de (seq. 88.1), bem como ainda ofício do Diretor da Penitenciária Regional de Três Corações/MG, informando no (seq. 117.3) que a unidade prisional já estaria com casos de COVID-19, bem como em superlotação eis que a capacidade são para 138 IPLS e estava com 303.”
+    Defende, ainda, a extensão da decisão coletiva proferida pelo Ministro Edson Fachin no HC nº 188.820.
+    Nesse sentido, requer a defesa, liminarmente, a procedência da reclamação para que seja concedida a prisão domiciliar ao reclamante, conforme o exposto, tendo em vista o teor da Súmula Vinculante nº 56, com a expedição de imediato alvará de soltura.
+    Ausente o valor da causa (arts. 291 e 319, inciso V, do CPC), determinei emenda da inicial, bem como, nos termos do art. 157 do RISTF, solicitei informações à autoridade reclamada, o que foi oportunamente atendido.
+    É o relatório.
+    Decido.
+    Consoante se infere das informações encaminhadas à Corte pela autoridade reclamada é possível constatar que o reclamante está cumprindo pena em local adequado ao seu regime, uma vez que no estabelecimento prisional os detentos do regime semiaberto são mantidos separados dos presos provisórios e do regime fechado. Vide:
+    “(...) apesar de não haver nesta Comarca estabelecimentos previstos em lei para os presos que cumprem pena em regime semiaberto, tais como colônia agrícola, industrial ou estabelecimento similar, este Juízo, ao avaliar o estabelecimento prisional local, constatou que os presos que cumprem pena em regime semiaberto são alocados em pavilhão separado dos demais presos que cumprem pena em regime fechado, bem como usufruem dos benefícios atinentes ao regime em que se encontram, como por exemplo, o trabalho e o estudo” (edoc. 24).
+    Esse entendimento não afronta a jurisprudência do Supremo Tribunal Federal que, ao julgar o RE nº 641.320/RS, assentou que seriam
+    “aceitáveis estabelecimentos que não se qualifiquem como colônia agrícola, industrial (regime semiaberto) ou casa de albergado ou estabelecimento adequado (regime aberto) (art. 33, § 1º, alíneas b e c). No entanto, não deverá haver alojamento conjunto de presos dos regimes semiaberto e aberto com presos do regime fechado” (Tribunal Pleno, Relator o Ministro Gilmar Mendes, DJe de 1º/8/16 - grifos nossos).
+    Ao apresentar o voto condutor do acórdão no caso paradigma, bem destacou Sua Excelência o relator que,
+    “[d]e qualquer forma, não descarto a possibilidade de cumprimento das penas do regime semiaberto em estabelecimento que não se caracteriza como colônia de trabalho. A própria lei prevê a possibilidade de utilização de estabelecimento similar. Já a oferta de trabalho pode ser suprida por iniciativas internas e externas, notadamente mediante convênios com empresas e órgãos públicos.
+    O próprio Supremo Tribunal Federal conta com apenados que realizavam importante trabalho. Em meu gabinete, são cinco sentenciados, que prestam ótimos serviços a este Tribunal, vinculados ao Programa Começar de Novo.
+    O trabalho externo vem, em alguma medida, como um benefício adicional ao preso do regime semiaberto, já que a legislação é restritiva quanto a esse ponto art. 37 da Lei 7.210/84.
+    O que é fundamental, de toda forma, é que o preso tenha a oportunidade de trabalhar. O trabalho é, simultaneamente, um dever e um direito do preso art. 39, V, e art. 41, II, da Lei 7.210/84” (grifos nossos).
+    Portanto, a notícia de que o reclamante está recolhido em espaço destinado exclusivamente aos presos do regime semiaberto, bem como as garantias inerentes a esse regime estão sendo asseguradas, afasta qualquer descompasso com o que foi decidido pelo Supremo Tribunal Federal no RE nº 641.320/RS.
+    É certo, ademais, que a autoridade reclamada justificou a impossibilidade de antecipar a saída do reclamante do regime semiaberto, para ser colocado em liberdade eletronicamente monitorada, bem como afastou, fundamentadamente, a concessão da prisão domiciliar nos termos em que consignado na decisão prolatada pelo Ministro Edson Fachin no HC n° 188.820, sendo que a reclamação
+    “não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual” (Rcl nº 4.381/RJ-AgR, Tribunal Pleno, Relator o Ministro Celso de Mello, DJe de 5/8/11 - grifos nossos).
+    De qualquer modo, como bem destacou a autoridade reclamada, o pedido de prisão domiciliar restou indeferido, pois
+    “o sentenciado não faz jus ao benefício da prisão domiciliar consignada na decisão prolatada pelo STF no HC n° 188.820/2020, por não preencher os requisitos elencados no referido HC, porque este não possui mais de 60 (sessenta) anos, bem como a Defesa não juntou aos autos documentação médica que comprove que este possui alguma doença que o enquadra ao grupo de risco da COVID-19. Ademais, em análise ao atestado de penas do paciente verifica-se que o tempo necessário para alcançar a progressão de regime ultrapassa 120 (cento e vinte) dias.”
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno deste Supremo Tribunal, nego seguimento a presente reclamação, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 17 de fevereiro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
