@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por MARCELO AUGUSTO DOS SANTOS MARCOLINOe FILIPE SANTOS DO NASCIMENTO contra decisão proferida pelo eg. Tribunal de Justiça do Estado de São Pauloque inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+Consta dos autos que oMM. Juízo de primeiro grau condenou osora agravantes como incursos nas sanções do art. 155,§ 2º, incisos II e V, e § 2º-A, inciso I,do Código Penal, à pena de, respectivamente,10 (dez) anos, 4(quatro) meses e 12 (doze) dias de reclusão, mais 25 dias-multa, para o primeiro recorrente, e 8 (oito) anos, 10(dez) meses e 20(vinte) dias de reclusão, mais 21 dias-multa, para o segundo recorrente, ambosno regime inicial fechado(fls. 261-268).
+O eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da Defesa (fls. 364-371). Eis a ementa do acórdão:
+"ROUBO TRIPLAMENTE MAJORADO. Inexistência de dúvida quanto à autoria e materialidade. Firmes relatos da vítima e do policial militar não infirmados pela frágil negativa dos réus. Penas bem dosadas.
+Regime inicial fechado mantido. Apelo defensivo desprovido."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega violação aos arts. 14, inciso II, 33, 59, e 157, § 2º, inciso V,todos do Código Penal (fls. 383-391). Para tanto, mencionam que:
+a) "O d. julgador não fundamentou no que consiste a conduta superior ao tipo penal para exasperar a pena-base" (fl. 386);
+b) " .. não autoriza a exasperação o valor elevado do veículo da vítima, caso contrário, todos os roubos a veículos deveriam ter a pena exasperada, pelo valor do bem. Sequer se apurou ou se discutiu no processo o valor do bem, que foi recuperado e não houve prejuízo patrimonial" (fl. 386);
+c) "Não há evidências, ou mesmo menor indicio, que os acusados cercearam a liberdade da vitima fora da anormalidade do tipo penal, muito menos visava privá-la da liberdade." (fl. 388);
+d) "A polícia foi avisada assim que os agentes embarcaram no veículo da vítima, ocasião em que se iniciou perseguição, que cessou com a detenção.Houve perseguição.A vítima não suportou prejuízo patrimonial.Assim, requer o reconhecimento da tentativa delitiva, com a diminuição de 2/3 (dois terços) da pena, nos termos do artigo 14, inciso II, CP." (fl. 389);
+e) "A fundamentação do regime gravoso não encontra apoio no artigo 59 do Código Penal." (fl. 390).
+Ao final, requerem "seja o presente RECURSO ESPECIAL CONHECIDO e PROVIDO, a fim de reformar o v. acórdão de fls. 364/371, para redimensionar a pena-base fixada ao mínimo legal, desclassificara a causa de aumento referente a restrição da liberdade da vítima, reconhecer a tentativa delitiva e modificar o regime prisional para outro diverso do fechado." (fl. 391).
+Apresentadas as contrarrazões (fls. 395-402), oespecial foi inadmitido na origem pelos seguintes fundamentos, quais sejam: a) o entendimento externado no acórdão recorrido está em consonância com o Recurso Especial Repetitivo n. 1.499.050/RJ (Tema 916); b) aplicação da Súmula n. 283/STF; c) ausência de prequestionamento (art. 387,§ 2º, do CPP); e d)incidência daSúmulan.7/STJ(fls. 405-406).
+Contraminuta apresentada (fls. 448-459).
+Daí o presente agravo, no qual oagravante,em apertada síntese, repisaos argumentos expendidos no apelo nobre (fls. 405-406).
+O Ministério Público Federal, em seu parecer, manifestou-se pelo desprovimento do agravo (fls. 476-479).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme mencionado,o especial foi inadmitido na origem pelos seguintes fundamentos, quais sejam: a) o entendimento externado no acórdão recorrido está em consonância com o Recurso Especial Repetitivo n. 1.499.050/RJ (Tema 916); b) aplicação da Súmula n. 283/STF; c) ausência de prequestionamento (art. 387, § 2º, do CPP); e d) incidência da Súmula n. 7/STJ (fls. 405-406).
+Neste agravo, contudo, a Defesa, resumidamente, limitou-se a reiterar os argumentos expendidos no apelo nobre. Com efeito, os agravantes deixaramde infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial.
+Quantoà incidência da Súmula n. 7/STJ, limitaram-se a mencionar que "AO CONTRÁRIO DO ENTENDIMENTO DO CULTO DESEMBARGADOR QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL, NÃO HÁ A NECESSIDADE DE REEEXAME DE PROVAS" (fl. 424).
+De fato,das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveriam os agravantes indicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático- probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+De igual modo, no que concerne ao óbice da ausência de prequestionamento, relativo à alegação de violação ao art. 387,§ 2º, do Código de Processo Penal, diviso que o reclamo também não comporta conhecimento, pois os agravantes nada mencionaram a sobre a quaestio, pelo que, também quanto ao ponto, não houve impugnação específica e adequada no reclamo.
+Conforme consignado pelo d. representante do Parquet, em sua manifestação: "Os agravantes não impugnaram todos os fundamentos da decisão agravada, inviabilizando o conhecimento do recurso." (fl. 454).
+Desse modo, a ausência de impugnação, específica e fundamentada, dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+Além do mais, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
