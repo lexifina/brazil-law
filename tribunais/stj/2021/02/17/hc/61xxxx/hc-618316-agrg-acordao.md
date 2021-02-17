@@ -1,0 +1,62 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. REQUISITO SUBJETIVO. GRAVIDADE ABSTRATA DOS DELITOS. LONGA PENA A CUMPRIR E FALTAS GRAVES JÁ REABILITADAS E ANTIGAS. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a quantidade de pena a cumprir e a gravidade abstrata dos crimes praticados não justificam diferenciado tratamento à progressão prisional, tampouco podendo faltas graves antigas serem invocadas para macular o mérito do executado. Precedentes.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto pelo Ministério Público Federal em face da decisão que concedeu o habeas corpus, para deferir ao paciente o livramento condicional.
+Sustenta o agravante que, na espécie, muito embora o paciente conte com relatório favorável da equipe responsável pelo exame criminológico, além de documento que comprova o bom comportamento carcerário, os requisitos delineados nas alíneas "a" e "b" do mencionado dispositivo legal não são excludentes, mas sim complementares, e o magistrado não está limitado ao atestado de bom comportamento carcerário, em observância ao princípio do livre convencimento motivado (fl. 85).
+Alega que, no caso concreto, o paciente ostenta faltas graves praticadas durante a execução da pena e, ainda que diante da informação de que a última falta grave ocorreu em 6/3/2018, com reabilitação em 6/4/2019, a nova redação do art. 83, inciso III, "b", do Código Penal, dada pela Lei 13.964/2019, entrou em vigor posteriormente à prática da falta grave e o reeducando cumpre pena pela prática do gravíssimo crime de extorsão mediante seqüestro, o que revela, por ora, a ausência de requisito subjetivo para a concessão do livramento condicional (fl. 85).
+Requer a reconsideração ou o provimento do agravo regimental.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Sustenta o agravante que, na espécie, muito embora o paciente conte com relatório favorável da equipe responsável pelo exame criminológico, além de documento que comprova o bom comportamento carcerário, os requisitos delineados nas alíneas "a" e "b" do mencionado dispositivo legal não são excludentes, mas sim complementares, e o magistrado não está limitado ao atestado de bom comportamento carcerário, em observância ao princípio do livre convencimento motivado (fl. 85).
+Alega que, no caso concreto, o paciente ostenta faltas graves praticadas durante a execução da pena e, ainda que diante da informação de que a última falta grave ocorreu em 6/3/2018, com reabilitação em 6/4/2019, a nova redação do art. 83, inciso III, "b", do Código Penal, dada pela Lei 13.964/2019, entrou em vigor posteriormente à prática da falta grave e o reeducando cumpre pena pela prática do gravíssimo crime de extorsão mediante seqüestro, o que revela, por ora, a ausência de requisito subjetivo para a concessão do livramento condicional (fl. 85).
+A decisão agravada está assim fundamentada (fls. 71-74):
+ ..  Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 17):
+Agravo. Indeferimento de livramento condicional. Extorsão mediante sequestro e roubos qualificados. Prática de faltas disciplinares graves. Reeducando reincidente. Ausência de requisito subjetivo. Agravo improvido.
+O paciente cumpre pena total de 23 anos, 11 meses e 17 dias de reclusão, pela prática de dois roubos qualificados e extorsão mediante sequestro, havendo o registro de duas faltas graves, consistentes em apreensão de aparelho celular e desobediência. Consta também que o término do cumprimento de sua pena está previsto para 13/3/2030.
+Tem-se que houve o indeferimento do pedido de livramento condicional pelo Juízo de piso.
+Inconformada, a defesa interpôs agravo em execução, o qual restou desprovido.
+Daí o presente writ, no qual sustenta a defesa que o paciente cumpriu os requisitos objetivo e subjetivo para concessão da referida benesse, tendo, inclusive, sido realizada avaliação criminológica, a qual restou-lhe favorável.
+Requer a concessão de livramento condicional.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento do writ ou pela sua denegação.
+É o relatório.
+DECIDO.
+Conforme relatado, pretende o impetrante a concessão de livramento condicional ao paciente sob o argumento de que o paciente cumpriu os requisitos objetivo e subjetivo para concessão da referida benesse, com avaliação favorável no exame criminológico.
+O Juízo de origem assim fundamentou o indeferimento da benesse (fls. 43-44):
+ .. .
+O pedido de progressão de regime é procedente, não fazendo jus o sentenciado ao imediato livramento condicional.
+O sentenciado preenche o requisito objetivo necessário à progressão, visto que já cumpriu parcela superior a 1/6 (um sexto) das penas no atual regime, ostentando atualmente "bom comportamento carcerário".
+E mais. A avaliação subjetiva (relatório conjunto de avaliação) evidencia a viabilidade da progressão de regime (fls. 55/64).
+De outro lado, o apenado possui histórico desfavorável à imediata liberdade, ainda que condicional, sobretudo considerando que cumpre pena por crimes graves, praticados com violência ou grave ameaça contra a pessoa (extorsão mediante sequestro e roubos roubos majorados), revelando-se tratar de pessoa perigosa e nociva à sociedade.
+Além disso, registra a prática de novos delitos após cumprimento de pena anterior e falta disciplinar de natureza grave durante o cumprimento de penas (fls. 70/76),sendo recomendável a manutenção de sua segregação por maior período de tempo, visando a necessária e adequada reeducação penal para, posteriormente, fazer jus à liberdade condicional
+ .. .
+No ponto, a Corte de piso assim se manifestou (fls. 18-20):
+ .. .
+De fato, o agravante não demonstrou que está adaptado ao retorno ao convívio social, sendo que não está apto à obtenção de benefício tão amplo como o ora pleiteado. Anote-se que o magistrado deve apreciar as análises e conclusões dos relatórios do exame criminológico, decidindo de acordo com o princípio do livre convencimento motivado, não estando nem mesmo a estes vinculados, em conformidade com o disposto nos artigos 155 e 182 do Código de Processo Penal.
+Por óbvio que a lei de execução penal, quando exige o bom comportamento carcerário para a concessão do benefício, não restringe a análise de mérito subjetivo do sentenciado pelo Juiz levando em conta a prática de faltas disciplinares e até a forma de cometimento dos delitos, eis que todos esses elementos indicam a personalidade do sentenciado e obedecem ao principio da individualização da pena, inclusive para não se colocar em risco demasiado a sociedade.
+Entendemos, com a devida vênia, que a execução de pena privativa de liberdade se realiza em várias etapas, adotando o Código Penal o sistema progressivo ou Irlandês, onde se inicia a pena mais grave de reclusão pelo regime fechado e para se passar à fase seguinte, no regime semiaberto, onde a vigilância é reduzida e há permissão de realização de trabalho externo, sem fiscalização imediata, há necessidade de que o condenado demonstre bom comportamento e ausência de faltas graves no seu histórico prisional, de modo a demonstrar que assimilou a terapêutica penal.
+A fase seguintes e caracteriza pelo regime aberto ou eventualmente por livramento condicional.
+Assim, deve o condenado passar por várias etapas até atingir a liberdade plena, no caso a liberdade condicional.
+A liberdade condicional não exsurge como instituto independente, mas se encontra numa mesma linha de progressão regular até que o condenado a alcance na execução penal.
+ .. .
+Vale lembrar que em sede de execução vige o princípio "in dubio pro societate", e que não raras vezes somos surpreendidos com notícia de delitos bárbaros praticados por condenados reinseridos precoce e indevidamente no corpo social por intermédio da concessão de regimes depena menos rigorosos, quando do gozo de saídas temporárias ou mesmo no regime aberto ou livramento condicional, que pode vir a ser o caso do cativo que, repise-se, não deu mostras de pode retornar ao convívio social sem colocar em risco a sociedade.
+Assim, deve ser mantida a r. decisão impugnada.
+Isso posto, nega-se provimento ao presente agravo.
+Como se vê, o TJSP manteve a decisão de 1º grau, porquanto entendeu que, apesar de o paciente ter preenchido o requisito objetivo, o paciente possui longa pena a cumprir, bem como porque cumpre pena pela prática de crimes graves e ainda pelo histórico de faltas graves.
+Verifica-se que o paciente possui relatório favorável da equipe responsável pelo exame criminológico (fl. 31), bom comportamento carcerário (fl. 36), e, conforme se extrai da guia de execução, tem-se que a última falta grave ocorreu em 6/3/2018, tendo sido reabilitado em 6/4/2019 (fl. 40), sem a existência de outras faltas graves após o citado período.
+De acordo com o entendimento desta Corte, a quantidade de pena a cumprir e a gravidade abstrata dos crimes praticados não justificam diferenciado tratamento à progressão prisional, tampouco podendo faltas graves antigas serem invocadas para macular o mérito do executado. A propósito:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO INDEFERIDA. REQUISITO SUBJETIVO. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DOS DELITOS, LONGA PENA A CUMPRIR E FALTAS GRAVES JÁ REABILITADAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. As instâncias ordinárias não lograram fundamentar o não preenchimento do requisito subjetivo para a progressão ao regime intermediário, mormente porque a quantidade da pena e os fatores relacionados ao crime praticado, não justificam diferenciado tratamento para a progressão de regime, bem como as faltas disciplinares são antigas, já reabilitadas há 3 anos, havendo atestado de bom comportamento e exame criminológico favorável. Precedentes.
+3. Habeas corpus não conhecido, mas concedida a ordem, de ofício, para cassar o acórdão e a decisão de 1º Grau, e determinar que o Juízo da Execução reexamine o pedido de progressão de regime, analisando o requisito subjetivo (mérito) com base em elementos concretos da execução da pena, à luz do disposto no art. 112 da Lei de Execução Penal. (HC 367.947/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/10/2016, DJe 4/11/2016).
+Ademais, se para o indeferimento da comutação pela prática de falta grave é necessário que a referida infração disciplinar seja verificada nos 12 meses anteriores à publicação do Decreto concessivo, não há razão para que, no caso de progressão de regime e livramento condicional tal lapso de tempo não seja igualmente observado. 3. Interpretação sistemática e teleológica do art. 4º, inciso IV do Decreto 9.246/2017, com seu inciso I. (AgRg no HC 587.663/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020).
+Ante o exposto, concedo habeas corpus para deferir ao paciente o livramento condicional. ..
+A decisão agravada deve ser mantida por seus próprios fundamentos, pois devidamente fundamentada em consonância com a jurisprudência desta Corte Superior, no sentido de que a quantidade de pena a cumprir e a gravidade abstrata dos crimes praticados não justificam diferenciado tratamento à progressão prisional, tampouco podendo faltas graves antigas serem invocadas para macular o mérito do executado.
+Ante o exposto, voto por negar provimento ao agravo regimental.
