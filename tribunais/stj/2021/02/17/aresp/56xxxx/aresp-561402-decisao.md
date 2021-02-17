@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉ CARLOS FERREIRA DOS SANTOS contra decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que inadmitiu recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+A controvérsia foi bem delineada no parecer ministerial, cujo excerto transcrevo a seguir (e-STJ fls. 897/898):
+Trata-se de Agravo em Recurso Especial interposto por José Carlos Ferreira do Santos, em face de decisão proferida pela C.Presidência da Seção Criminal do E. Tribunal de Justiça do Estado de São Paulo, que negou seguimento a Recurso Especial por ela manejado
+2. Consta dos autos que José Carlos Ferreira do Santos, condenado à pena de 19 (dezenove) anos e 11 (onze) meses de reclusão, pelos crimes previstos no art. 157, § 2º, I e II, art. 148, art.288 c/c art. 69 e art. 29, todos do Código Penal, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, interpôs Recurso Especial, no qual requereu o reconhecimento de negativa (a) ao art. 593, III, alínea "a", do Código de Processo Penal, uma vez que a decisão do Tribunal do Júri estaria em confronto com as provas dos autos; (b) ao art. 65 do Código Penal, porquanto o Tribunal a quo teria aplicado a Súmula nº 231 do Superior Tribunal de Justiça e não reduziu a pena aquém do mínimo na segunda fase da dosimetria da pena; (c) ao art. 619 do Código de Processo Penal, pois o revisor do processo no TJSP teria mudado o voto para acompanhar o vistor sem declinar das suas razões; e (d) ao art. 33, II, alínea "a", em razão da fixação do regime fechado, mesmo com pena fixada em patamar menor a 8 (oito) anos (fls. e-STJ 731/767).
+3. Ao realizar o Juízo de admissibilidade, o E. Tribunal Paulista negou seguimento ao Apelo Nobre, em virtude da aplicação da Súmula 231/STJ, de parte da matéria importar confronto com a Constituição Federal, da aplicação da Súmula nº 284/STF e do óbice da Súmula nº 7/STJ (fl. e-STJ 814/816).
+4. Em seu Agravo em Recurso Especial, o Agravante pleiteia o provimento do Recurso Especial por ele interposto, argumentando a que a Súmula nº 231/STJ é ilegal, que a questão foi devidamente exposta e que ela não importa em reexame do conjunto probatório (fls.e-STJ 823/838).
+5. Feito o breve relatório, passo a opinar.
+O Ministério Público Federal opina pelo desprovimentodo agravo, em parecer assim ementado (e-STJ fl. 897):
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO.NÃO PROVIMENTO.
+A Súmula nº 231/STJ não permite que a pena-base fique aquém do mínimo antes da terceira fase da dosimetria da pena.
+O pedido de reconhecimento de contrariedade da decisão do Tribunal do Júri em relação às provas dos autos encontra óbice na Súmula nº 7/STJ.
+Enquanto não findo o julgamento do processo, qualquer dos julgadores poderá mudar seu voto, sem precisar declinar das suas razões quando acompanha o voto de outro, entendendo-se que aquele aderiu integralmente a este.
+Nos termos da orientação pacífica da jurisprudência dessa E. Corte Superior, ainda que a pena seja fixada aquém do patamar de 8 (oito) anos, o regime de cumprimento de pena poderá ser o fechado, quando fundamentado no modus operandi do crime.
+Parecer pelo improvimento do Agravo.
+É o relatório.
+Na espécie, o recurso especial foi julgado prejudicado quanto ao capítulo decisório referente à aplicação do verbete n. 231 da Súmula do STJ, em conformidade com o art. 543-C, § 7º, I, do CPC/1973, e inadmitido pelo Tribunal de origem com base nos fundamentos atinentes à incidência dos verbetes n. 284da Súmula do STF e 7 da Súmula desta Corte, além da ausência de prequestionamento e de ofensa ao art. 619 do CPP.
+No entanto, "a insurgência quanto ao alegado desacerto da aplicação, pelo Tribunal de 2º Grau, da tese firmada no Recurso Especial representativo da controvérsia, deve ocorrer no Tribunal de origem, por meio de Agravo Regimental ou interno.  .. Consoante a jurisprudência, "não cabe agravo contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, inciso I, do CPC. Precedentes. Segundo a Corte Especial deste Tribunal, nos casos de indevido trancamento do recurso especial, deve a parte manejar agravo interno na origem, demonstrando a especificidade do caso concreto. (QO no Ag 1154599/SP, Rel.Ministro Cesar Asfor Rocha, Corte Especial, julgado em 16/02/2011, DJe 12/05/2011)"-AgRg no AREsp n. 329.299/PR, relatora Ministra ASSUSETE MAGALHÃES, SEXTA TURMA, julgado em 17/10/2013, DJe 20/11/2013.
+Nesse sentido:
+AGRAVO INTERNO NA RECLAMAÇÃO - DECISÃO DO TRIBUNAL ESTADUAL QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL APLICANDO ENTENDIMENTO FIRMADO PELO STJ EM SEDE DE RECURSO REPETITIVO.
+1. É incabível reclamação contra decisão que nega seguimento ao recurso especial com espeque no artigo 543-C, § 7º, I, do CPC (Questão de Ordem no Ag 1.154.599-SP). Precedentes do STJ.
+2. Agravo interno desprovido.
+(AgInt na Rcl 31.456/PE, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 10/08/2016, DJe 16/08/2016)
+Ante o exposto,não conheço do agravo.
+Publique-se. Intimem-se.
