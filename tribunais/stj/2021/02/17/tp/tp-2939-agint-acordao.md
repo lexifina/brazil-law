@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO NÃO ATACADO. SÚMULA 182/STJ.
+1. Não se conhece de Agravo Interno que deixa de impugnar os fundamentos da decisão atacada. Incide, nesse caso, a Súmula 182/STJ.
+2. Agravo Interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno de decisão que indeferiu liminarmente Pedido de Tutela Provisória.
+A agravante sustenta que a hipótese dos autos contém peculiaridades, pois os Embargos de Declaração tramitam no Tribunal Regional Federal da 1ª Região, não havendo previsão para julgamento tão cedo, pois estudos da CJF e do Conselho Nacional de Justiça (CNJ) indicam que a referida Corte é a mais lenta e congestionada do território nacional, em razão do elevado número de Estados-membros abrangidos em sua jurisdição e do reduzido número de juízes federais que nela atuam.
+A ausência de apreciação do pedido liminar, no STJ, pode acarretar sérios prejuízos para os cofres públicos, pois o suposto crédito de que se afirma titular a parte agravada (aproximadamente 1 bilhão de reais) é, evidentemente, de difícil recuperação caso, no processamento da demanda rescisória ajuizada nas instâncias de origem, seja reformada a decisão atualmente favorável à empresa.
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTO NÃO ATACADO. SÚMULA 182/STJ.
+1. Não se conhece de Agravo Interno que deixa de impugnar os fundamentos da decisão atacada. Incide, nesse caso, a Súmula 182/STJ.
+2. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 11 de novembro de 2020.
+O recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, a argumentação do ente fazendário é genérica, centrando-se em situação fática (congestionamento do TRF1) destituída de disciplina jurídica (amparo legal) que justifique a supressão de instância para que o STJ faça exceção às regras de competência jurisdicional.
+Verifico que o principal fundamento adotado na decisão agravada é o de que não está presente a competência do STJ para apreciação do Pedido de Tutela Provisória, tendo em vista que, além de não ter havido exaurimento das instâncias de origem (pendem de julgamento os aclaratórios opostos na Corte regional), nem mesmo situação que autorize o STJ a não seguir sua jurisprudência a respeito do tema (competência) está configurada, uma vez que a Fazenda Pública agregou pedido de antecipação da tutela recursal nos Embargos de Declaração (no Tribunal Regional Federal da 1ª Região) na mesma data em que ajuizou a TP 2939 no STJ, sendo inviável submeter o mesmo pedido a dois diferentes tribunais (fls. 213-214, e-STJ):
+A situação descrita nos autos, entretanto, contém indicativo que afasta, no presente momento, a possibilidade de examinar possível situação teratológica. Com efeito, a Fazenda Nacional esclareceu que o Recurso Especial ainda não foi interposto (o que, conforme acima descrito, não constitui óbice, por si só, para a concessão da tutela requerida), tendo em vista que houve oposição, por ela, de Embargos de Declaração contra o acórdão que julgou inepta a petição inicial da Ação Rescisória.
+Nesse específico contexto, a orientação jurisprudencial do STJ rejeita sua competência para análise do pedido de atribuição de efeito suspensivo ao Recurso Especial, tendo em vista que não houve exaurimento de instância:
+PROCESSUAL CIVIL. TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A RECURSO ESPECIAL AINDA NÃO INTERPOSTO. EXCEPCIONALIDADE DA MEDIDA. REQUISITOS. DECISÃO MONOCRÁTICA QUE NEGA PROVIMENTO. INSTÂNCIA ORDINÁRIA NÃO ESGOTADA. PRETENSÃO INADMISSÍVEL NO STJ. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO INTERNO NA TUTELA PROVISÓRIA DE URGÊNCIA. RECURSO QUE NÃO COMBATE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. DECISÃO MANTIDA.
+1. A jurisprudência do STJ admite, em situações excepcionalíssimas, a apreciação do pedido de concessão de efeito suspensivo quando ainda pendente o juízo de admissibilidade do Recurso Especial pelo Tribunal de origem ou, até mesmo, na extremada hipótese de não ter sido ainda interposto recurso especial, desde que para salvaguardar o direito da parte e quando o acórdão a ser impugnado apresente-se teratológico ou manifestamente contrário à jurisprudência deste Tribunal, esteja evidenciado, de plano, a probabilidade de êxito do apelo nobre e visível o perigo da demora na análise da irresignação. Precedentes.
+2. Esta Corte superior perfilha o entendimento de que, não obstante seja possível, em caráter excepcionalíssimo, a atribuição de efeito suspensivo a recurso especial ainda não interposto, não há como se afastar o requisito do necessário exaurimento das instâncias ordinárias a respeito da controvérsia instaurada nos autos. Precedentes.
+3. É inviável o agravo interno que não impugna especificamente os fundamentos invocados na decisão agravada. Em razão do princípio da dialeticidade, deve o agravante demonstrar de modo fundamentado o desacerto do decisum hostilizado. Incidência da Súmula 182/STJ.
+4. Agravo interno a que se nega provimento.
+(RCD na PET no TP 920/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/10/2017, DJe 06/11/2017)
+No caso acima referido, a situação é similar à existente nestes autos, pois consta no voto condutor (que cita outros precedentes do STJ no mesmo sentido), que havia Embargos de Declaração pendentes de julgamento na Corte local. Transcrevo o seguinte excerto do voto redigido pelo e. Ministro Luis Felipe Salomão:
+Todavia, na espécie, conquanto respeitáveis os argumentos apresentados, é impossível cogitar de excepcionalidade, porque, além da ausência de interposição do recurso especial, não houve exaurimento da instância ordinária a respeito da controvérsia instaurada nos autos pois se encontram pendentes de julgamento embargos de declaração opostos, consoante afirmado pela própria requerente à fl. 7:
+17. Não obstante a urgência e parcimônia que a hipótese reclama, o eminente relator indeferiu o requerimento de efeito suspensivo aos embargos de declaração, que permanecem pendentes de julgamento definitivo pelo colegiado do Órgão Especial.  g. n.
+São inúmeros os julgados desta Corte apontando que a sua competência para atribuir efeito suspensivo ao recurso especial somente se inaugura após a realização do juízo de admissibilidade pelo Tribunal de origem, especialmente quando pendentes de julgamento embargos de declaração opostos na instância ordinária, consoante se infere dos seguintes precedentes:
+(..)
+Acrescento, por último, que o pedido de Tutela Provisória foi protocolado no STJ em 28.8.2020, mesma data em que a Fazenda Nacional opôs os Embargos de Declaração no Tribunal Regional Federal da 1ª Região, recurso este no qual também foi apresentado - aqui sim, corretamente, segundo as regras de competência estabelecidas no CPC - pedido de atribuição de efeito suspensivo idêntico ao deduzido nestes autos (fls. 155-158, e-STJ).
+A ausência de impugnação a esse ponto atrai a incidência da Súmula 182/STJ. Acrescento que são distintas a previsão de demora na apreciação dos Embargos de Declaração e a urgência em relação ao pedido de liminar no referido recurso, pendente de apreciação no TRF1. A agravante não fez menção específica de que houve recusa expressa do órgão julgador em apreciar o pedido de atribuição de efeito suspensivo aos aclaratórios.
+Com essas considerações, não conheço do Agravo Interno.
+É como voto.
