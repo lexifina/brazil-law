@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelo INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, contra decisão do Tribunal Regional Federal da 4ª Região, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ADMINISTRATIVO. INMETRO. FISCALIZAÇÃO. AFERIÇÃO PERIÓDICA DAS BALANÇAS DE USO INTERNO. DISCUSSÃO ATINGIDA PELA COISA JULGADA MATERIAL. DANOS MORAIS.
+- A respeito da discussão sobre a (des)necessidade de aferição periódica das balanças de uso interno pela parte autora, caracterizada está a tríplice identidade (partes, causa de pedir e pedido) entre a presente demanda com anterior, igualmente submetida à apreciação da Justiça Federal da 4ª Região, restando evidenciada a existência de coisa julgada material, o que impõe a extinção do feito, nos termos do art. 485, V, do novo CPC.
+- Hipótese na qual existente fato danoso apto a gerar lesão extrapatrimonial, decorrente de conduta comissiva da Administração Pública - o INMETRO promoveu indevida inscrição de débito em dívida ativa e do nome da autora em cadastro restritivo de crédito.
+- A indenização pelo dano moral experimentado, tendo em vista as circunstâncias do caso, atendendo a critérios como moderação, extensão do dano, proporcionalidade entre a gravidade da culpa e o dano, fica mantida em R$ 10.000,00, devidamente atualizados" (fl. 152e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 166/171e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DECLARATÓRIOS. HIPÓTESES. PREQUESTIONAMENTO.
+- São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do CPC.
+- A modificação do julgado é admitida apenas excepcionalmente e após o devido contraditório (artigo 1.023, § 2º, do CPC).
+- Não há a necessidade do julgador mencionar os dispositivos legais e constitucionais em que fundamenta sua decisão, tampouco todos os citados pelas partes. - Embargos acolhidos tão somente para efeitos de prequestionamento" (fl. 179e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 1.022, I e II, do CPC/2015, assim como aos arts. 186, 884 e 944 do Código Civil, sustentando a nulidade do acórdão, por negativa de prestação jurisdicional, bem como ser indevida e desproporcional a reparação por danos morais.
+Por fim, requer o provimento do recurso.
+Contrarrazões a fls. 205/212e.
+Inadmitido o Recurso Especial (fls. 215/219e), foi interposto o presente Agravo (fls. 226/233e).
+Contraminuta a fls. 237/243e.
+A irresignação não merece prosperar.
+Em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mérito, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que:
+"(..) na presente hipótese, existe fato danoso apto a gerar lesão extrapatrimonial, decorrente de conduta comissiva da Administração Pública - o INMETRO promoveu indevida inscrição de débito em dívida ativa e do nome da autora em cadastro restritivo de crédito.
+A indenização pelo dano moral experimentado, tendo em vista as circunstâncias do caso, atendendo a critérios como moderação, extensão do dano, proporcionalidade entre a gravidade da culpa e o dano, fica mantida em R$ 10.000,00, atualizados na forma estabelecida em sentença" (fls. 159/160e).
+Nesse contexto, considerando a fundamentação adotada na origem, a conclusão do acórdão recorrido quanto à demonstração dos pressupostos para a responsabilização civil e a razoabilidade do valor em que foi fixada a indenização, somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+Ressalte-se que a jurisprudência deste Tribunal permite o afastamento do óbice previsto na Súmula 7/STJ, apenas na hipótese de fixação em valor irrisório ou abusivo, inocorrentes no presente caso.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, paraconhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
