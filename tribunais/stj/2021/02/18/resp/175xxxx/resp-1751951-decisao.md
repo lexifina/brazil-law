@@ -1,0 +1,48 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por ESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO ECAD, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 438):
+Apelação Cível. Propriedade Intelectual. Cobrança de Direitos Autorais. ECAD. Processual Civil. Preliminar em sede de contrarrazões de não conhecimento do recurso rejeitada. Retransmissão de sinal de televisão e rádio em quartos hotéis ou motéis. Cobrança de direitos autorais pelo ECAD. Locais de freqüência coletiva, nos quais a disponibilização de televisão autoriza a cobrança de direitos autorais em razão da circulação de público e cobrança de valores para utilização dos espaços. Inteligência da Súmula 63 do Superior Tribunal de Justiça. Legitimidade do critério utilizado para calcular o valor devido. Ausente demonstração de excesso. Tutela inibitória. Descabimento. Medida extremamente gravosa para quem atua no setor hoteleiro. Possibilidade de cobrança. Precedentes jurisprudenciais. À unanimidade, deram provimento ao apelo.
+Opostos embargos de declaração pelo recorrente (fls. 454-465), foram rejeitados (fls. 467-470).
+Nas razões do recurso especial (fls. 474-533), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto nosarts. 489, § 1º,1.022, II, do Código de Processo Civil, arts. 4º, 29, 31,68 e105, da Lei nº 9.610/1998.
+Em apertada síntese, além de apontar omissões no acórdão, sustenta que a disponibilização de aparelhos de rádio e de TV em quartos de hotel, lugares de freqüência coletiva, sujeita o estabelecimento comercial ao pagamento dos direitos autorais.
+Alega que "constatada a ausência de autorização do autor, e não realizado o recolhimento dos direitos autorais, não há como o Judiciário deixar de conceder a tutela inibitória prevista no artigo 105 da Lei nº 9.610/98."
+Não foram apresentadas contrarrazões ao recurso especial (fl. 644).
+É o relatório.
+DECIDO.
+2. Inicialmente, em relação àsuposta ofensa aosarts. 4º, 29, 31, 68 e 105, da Lei nº 9.610/1998, observa-se que os argumentos suscitados pelo recorrente encontram-se dissociados do quanto decidido pelo Tribunal de origem, na medida em que o pedido condenatório referente aos direitos autorais foi acolhido pela Corte de origem,revelando deficiência na fundamentação do especial, a impedir a exata compreensão da controvérsia.
+É pacífico o entendimento desta Corte de Justiça no sentido de ser inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incide, portanto, a Súmula 284/STF nesse ponto.
+3. De outra parte,a Corte de origem assim dispôs a respeito da tutela inibitória (fls. 448-449):
+Em relação à tutela inibitória, entendo que a suspensão das transmissões, seja via rádio ou televisão, observado que o autor pode cobrar por eventual transmissão não regularizada, é medida extremamente drástica, podendo, inclusive, afetar o regular andamento do negócio do demandado, causando-lhe danos irreparáveis, visto o segmento hoteleiro que atua, motivo pelo qual vai indeferido.
+Observadas estas anotações, encaminho voto no sentido dedar parcial provimento ao apelo para condenar o hotel demandado ao pagamento das parcelas referentes aos direitos autorais decorrentes da disponibilização de aparelhos de rádio e TV em suas dependências, no período de junho/2011a janeiro/20131, bem como das prestações vencidas no curso do processo e as vincendas até regularização da obrigação acrescidas de juros legais desde o evento danoso e correção monetária pelo IGP-M a contar do vencimento de cada mês.
+Ocorre que esta Corte Superior possui orientação jurisprudencial no sentido de que é possível a concessão da tutela inibitória, a fim de impedir a continuidade da violação aos direitos autorais, em sentido amplo, de seus titulares, nos termos previstos pelo art. 105 da Lei 9.610/1998, o qual condiciona a suspensão ou interrupção da execução de obras apenas a dois requisitos: ordem emanada de juiz competente e prova acerca da violação dos direitos autorais, sem que haja necessidade de prévia advertência, por notificação judicial ou extrajudicial, alertando o acusado de estar agindo ao arrepio da lei autoral.
+Em outra ocasião, assentou-se no STJ que "é possível a concessão da tutela inibitória na presente demanda, com o desiderato de cessar ou impedir novas violações aos direitos autorais, com a continuidade de execução de obras públicas sem autorização" (REsp 1.495.378/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 15/04/2019, DJe 03/05/2019).
+No mesmo sentido:
+RECURSOS ESPECIAIS. DIREITOS AUTORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ECAD. NÃO PAGAMENTO. HOTÉIS E MOTÉIS. EVENTO COMEMORATIVO. TV POR ASSINATURA. PRESCRIÇÃO TRIENAL. TUTELA INIBITÓRIA. SUSPENSÃO DA EXECUÇÃO DE OBRAS MUSICAIS. ART. 105 DA LEI 9.610/98. CABIMENTO.
+(..)
+2. O propósito recursal, além de verificar a ocorrência de negativa de prestação jurisdicional, é analisar (i) o cabimento de medida destinada à suspensão da execução de obras musicais, em quartos de hotéis e motéis, enquanto perdurar a inadimplência de valores devidos a título de direitos autorais; e (ii) o prazo prescricional aplicável à hipótese.
+(..)
+5. A tutela inibitória destinada a impedir a violação de direitos autorais constitui medida expressamente prevista no art. 105 da Lei 9.610/98, não se confundindo com a pretensão de cobrança dos valores devidos e não pagos a esse título. A primeira sanciona a violação da norma, impedindo a continuação ou a repetição do ilícito; a segunda sanciona o dano ou o não cumprimento do dever de pagamento. Doutrina. Precedentes específicos.
+RECURSOS ESPECIAIS PROVIDOS.
+(REsp 1819695/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/08/2019, DJe 22/08/2019)
+______________
+RECURSO ESPECIAL. DIREITOS AUTORAIS. ECAD. AÇÃO DE COBRANÇA. UTILIZAÇÃO COMERCIAL DE OBRAS MUSICAIS SEM AUTORIZAÇÃO. TELEVISÃO CAPIXABA. EMISSORA DE TELEVISÃO AFILIADA. RETRANSMISSÃO DA PROGRAMAÇÃO NACIONAL. DIREITOS AUTORAIS DEVIDOS. JUROS DE MORA. TERMO INICIAL. ATO ILÍCITO. ART. 398 DO CC. PRAZO DE PRESCRIÇÃO (CINCO ANOS NO CC/16 E DEZ ANOS NO CC/02). AUSÊNCIA DE PRAZO ESPECÍFICO. APLICAÇÃO DA REGRA GERAL. TUTELA INIBITÓRIA. ART. 105 DA LEI N. 9.610/98. NECESSIDADE DE APLICAÇÃO. POSSIBILIDADE DE SUSPENSÃO DO USO DE OBRAS MUSICAIS. OBRIGAÇÕES DEVIDAS NO CURSO DO PROCESSO. ART. 290 DO CPC. INCLUSÃO NA CONDENAÇÃO ATÉ SEU PAGAMENTO.
+(..)
+7. Deve ser autorizada a suspensão da utilização de obras musicais caso haja nova violação de direitos autorais, nos termos do que determina o art. 105 da Lei n. 9.610/98. Precedente específico desta Corte.
+(..)
+9. RECURSO DO AUTOR PROVIDO E RECURSO DA RÉ DESPROVIDO.
+(REsp 1556118/ES, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 13/12/2016, DJe 19/12/2016)
+________________
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA DE DIREITOS AUTORAIS MOVIDA PELO ECAD CONTRA EMISSORA DE RÁDIO - CONDENAÇÃO AO PAGAMENTO DAS MENSALIDADES EM ATRASO - AFASTAMENTO DA APLICAÇÃO DO ART. 105 DA LEI Nº 9.610/1998 - DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL POR INCIDÊNCIA DO ÓBICE DO ENUNCIADO Nº 7 DA SÚMULA DO STJ. INSURGÊNCIA DO AUTOR.
+1. A suspensão ou a interrupção das atividades da agravada, com base no art. 105 da lei nº 9.610/1998, é cabível quando comprovada a ausência de autorização para transmissão de obras autorais protegidas.
+2. "Não estando pendente uma autorização de exibição, mas tão-somente o pagamento de taxa que pode ser e está sendo cobrada por outras vias, não há de ser aplicada a séria sanção pretendida" (REsp 467.874/RJ, Rel. Ministro CASTRO FILHO, TERCEIRA TURMA, julgado em 14/06/2005, DJ 03/10/2005, p. 241).
+(..)
+5. Agravo regimental desprovido.
+(AgRg no REsp 1174977/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/10/2014, DJe 15/10/2014)
+No caso dos autos, o Tribunal de origem indeferiu, por maioria, a tutela inibitória ao fundamento de que "a suspensão das transmissões, seja via rádio ou televisão, observado que o autor pode cobrar por eventual transmissão não regularizada, é medida extremamente drástica, podendo, inclusive, afetar o regular andamento do negócio do demandado, causando-lhe danos irreparáveis, visto o segmento hoteleiro que atua" (fls. 448-449).
+Ao assim decidir, o Colegiado estadual dissentiu da orientação jurisprudencial desta Corte Superior, impondo-se, consequentemente, a reforma do acórdão recorrido nesse ponto.
+4. Ante o exposto, dou provimento ao recurso especial, a fim de conceder a tutela inibitória, com o propósito de impedir a violação dos direitos autorais de seus titulares, conforme disposto no art. 105 da Lei 9.610/1998, sendo que, a partir da intimação desta decisão, a parte recorrida deve abster-se de veicular ao público obras musicais, literomusicais, audiovisuais e fonográficas em seu estabelecimento até que obtenha autorização para tanto, com a incidência de multa diária e outras medidas a serem fixadas pelo juízo competente para o caso de descumprimento da suspensão, mantida a sucumbência fixada na origem.
+Prejudicadas as demais alegações.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL.COBRANÇA DE DIREITOS AUTORAIS. ECAD. RETRANSMISSÃO DE SINAL DE TELEVISÃO E RÁDIO EM QUARTOS HOTÉIS OU MOTÉIS.TUTELA INIBITÓRIA. CABIMENTO. RECURSO ESPECIAL PROVIDO.
+1. É possível a imposição de tutela inibitória, nos termos do art. 105, da lei 9.610/98, como objetivo de impedir a violação de direitos autorais. Precedentes.
+2. Recurso especial provido.
