@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALVIM NILTON DO NASCIMENTO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU O RECURSO. INTEMPESTIVIDADE RECURSAL. INTELIGÊNCIA DO § 5º DO ART. 1.003 DA LEI N. 13.105/2015. MANIFESTAÇÃO. CIÊNCIA INEQUÍVOCA DA DECISÃO JUDICIAL OBJURGADA. IN CASU. CONHECIMENTO DO ATO DE REINTEGRAÇÃO DE POSSE. 1. O § 4º do art. 1.021 da Lei n. 13.105/2015 prevê a aplicação de multa ao Agravante que interpõe agravo interno, então, juridicamente, considerado como manifestamente inadmissível ou improcedente em votação unânime. 2. Recurso de agravo interno conhecido, e, no mérito, não provido (fl. 238).
+Alega violação dos arts. 218, § 4º e 251 do CPC, no que concerne à tempestividade do recurso de agravo de instrumento interposto pelo recorrente junto ao TJPR. Traz os seguintes argumentos:
+O acórdão do Agravo Interno entendeu que o recorrente havia sido citado da decisão de reintegração de posse, com base na certidão do oficial de justiça constante em sequência 118.1, do dia 28/08/2018.
+Da análise processual é possível verificarmos que no dia 11/10/2016, sequência 74, o antigo procurador do recorrente informou nos autos a renúncia ao mandato, anexando a ciência do recorrente, via AR.
+Observemos que até a renúncia do mandato a decisão da magistrada de primeiro grau se limitava a intimação do recorrente para pagamento do débito no prazo de 15 (quinze) dias, sequência 59.1.
+Em sequência 79.1 o recorrente recebeu a intimação a respeito da decisão de sequência 59.1, contudo deixou transcorrer o prazo sem providências.
+Somente em sequência 102.1 a juíza de primeiro grau determinou a reintegração de posse, determinando por consequência a intimação do recorrente.
+ .. .
+Portanto, posterior a intimação do recorrente via AR, houve nova decisão determinando a reintegração de posse. Na sequência 114.1 foi expedido o mandado de intimação a respeito da NOVA decisão, contudo em sequência 118.1 o mandado retornou com a seguinte informação:
+ .. .
+Da análise do documento anexado na referida sequência, é possível constatarmos que o Oficial de Justiça apenas teve ciência de que o endereço do agravante estava correto, constando que ela deixou de cumprir o mandado vez que o autor da ação A.Z. Imóveis LTDA, não forneceu os meios para integral cumprimento do mesmo, devolvendo a ordem judicial para os devidos fins.
+Ademais, observemos que em sequência 121 há andamento a respeito da devolução do mandado de sequência 114.1 SEM LEITURA.
+ .. .
+É em razão dessa certidão que o Agravo de Instrumento interposto contra a decisão de reintegração de posse não foi apreciada, vez que os desembargadores do juízo a quo, entenderem que na sequência 118.1, houve ciência do recorrente a respeito da reintegração de posse, logo o referido agravo de instrumento interposto no dia 30/11/2018 seria intempestivo.
+Contudo, da análise da própria certidão e dos andamentos do PROJUDI é possível constatar que o mandado não foi cumprido, vez que o art.251 do NCPC dispõe que:
+ .. .
+Vejamos que a oficial não obteve a nota de ciente ou certificou que o citando não a apôs no mandado, muito menos, por fé, informou o recebimento da intimação. E sim oposto ao que dita o artigo supracitado, a oficial informou o não cumprimento do mandado, constando apenas ciência de que o endereço do recorrente estava correto.
+Portanto, ainda que na sequência 79.1 o recorrente fora devidamente intimado por A.R, cabe observar que naquele ato ele fora intimado para regularizar sua representação processual, bem como se manifestar a respeito dos Embargos de Declaração opostos pela recorrida e NÃO sobre a REINTEGRAÇÃO DE POSSE.
+Logo, a respeito da reintegração de posse o agravante não foi DEVIDAMENTE intimado, nos termos do art.251 do Novo Código de Processo Civil.
+Observemos que em sequência 133 houve a expedição de novo mandado de intimação, ao qual foi determinada a devolução em sequência 138, pois espontaneamente no dia 30/11/2018 o recorrente interpôs Agravo de Instrumento, ao qual foi deferido o efeito suspensivo, nessa linha, cabe destacar que o art. 218,§4º do NCPC prevê que é tempestivo o ato praticado antes do termo inicial do prazo, assim, ainda que o agravante não tenha sido devidamente intimado da reintegração de posse, o referido artigo considera tempestiva o ato praticado antes do termo inicial do prazo.
+Assim, ainda que a recorrente tenha pleiteado explicitamente a aplicação dos art.251 e art.218, §4 ambos do Código de Processo Civil, os desembargadores do juízo a quo mantiveram a intempestividade do Agravo de Instrumento (fls. 258/262, grifos meus).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No vertente caso legal, verificou-se a ausência do requisito extrínseco de admissibilidade do recurso de agravo de instrumento, qual seja, a tempestividade.
+Como é cediço, o prazo legal para interposição do recurso de agravo de instrumento é de 15 (quinze) dias úteis (§ 5º do art. 1.003 da Lei n. 13.105/2015).
+Da análise dos Autos originários no sistema processual eletrônico - Projudi, verifica-se que a decisão judicial agravada foi proferida na data de 3 de julho de 2018 (seq. 102.1).
+O Agravante foi intimado para, então, constituir novo representante na data de 12 de junho de 2017 (seq. 79.1), mas, mesmo assim, manteve-se inerte.
+No entanto, teve ciência da determinação de reintegração de posse do bem (seq. 118.1) e, mesmo assim interpôs agravo de instrumento somente na data de 30 de novembro de 2018.
+Da decisão judicial objurgada se extrai, consoante outrora destacado por este Relator, que confirmada a regularidade dos atos processuais (seq. 167.1) o Agravante não regularizou sua representação processual e, somente quando já transcorrido o prazo para a interposição do recurso, manifestou-se nos Autos (30 de novembro de 2018) - (fl. 240, grifos meus).
+Além disso, não se pode desprezar a desídia do Agravante na condução do processo, que, intimado para a regularizar sua representação processual não o fez e, mesmo após ter ciência da determinação da reintegração de posse, deixou exaurir o prazo legalmente estabelecido para a interposição do recurso (fl. 241, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
