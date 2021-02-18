@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus sem pedido de liminar impetrado em favor de RODRIGO SANTOS MACEDO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação n. 0300562-64.2019.8.19.0001).
+O paciente foi condenado às penas de 10 anos, 10 meses e 20 dias de reclusão no regime fechado e de 1.399 dias-multa, pela prática descrita nos arts. 33, caput, e 35, c/c o art. 40, VI, da Lei n. 11.343/2006.
+A defesa requer a concessão da ordem para que seja reconhecida a atipicidade da conduta de associação para o tráfico com a consequente absolvição, pois não foi comprovada a intenção do paciente de se associar para o tráfico com permanência e estabilidade.
+Prestadas as informações (fls. 68-74 e 77-78), o Ministério Público Federal opinou pela denegação da ordem (fls. 82-84).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não constato a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Tribunal a quo manteve a sentença, que condenara o paciente pelo crime de associação para o tráfico de drogas. Confiram-se excertos do acórdão (fls. 41-43):
+No presente caso, os agentes da lei compareceram ao local, que é dominado pela facção criminosa conhecida por "Comando Vermelho", para averiguar uma denúncia de populares sobre dois elementos que estariam realizando venda de entorpecentes na Rua "T", bairro Santo Antônio -Itaboraí. Lá chegando, os policiais viram Rodrigo e o adolescente Gutierri em atitude suspeita. Os Cabos da PM viram um terceiro elemento entregando dinheiro para o réu e este pegou uma sacola que estava no chão e retirou algo de dentro dela, entregando o objeto ao terceiro elemento. Enquanto isso, Gutierri permanecia vigilante, para informar sobre a aproximação de pessoas indesejadas.
+ ..
+Quanto à autoria do delito previsto no artigo 35 da Lei 11.343/06,esta foi devidamente comprovada pelo robusto acervo probatório carreado aos autos, ficando demonstrado que o apelante, o menor Gutierri e elementos da facção criminosa que domina o tráfico local, no caso, Comando Vermelho, se reuniram com vontade de se aliarem de maneira permanente e com estabilidade, com o fim de praticar o crime de tráfico de drogas.
+Como podemos verificar, o próprio adolescente Gutierri admitiu ser "olheiro" do tráfico, sendo apreendido pelos policiais enquanto vigiava a atividade ilícita do acusado. Lembrando mais uma vez o que disse o policial Giovane, em Juízo: "O adolescente confessou que atuava como "olheiro", mas quem praticava a venda era o acusado..".
+Na espécie, pune-se aquele que, reiteradamente ou não, se associa para o fim de cometer o crime de tráfico de drogas, situação que bem se amolda à hipótese presente
+Como é de conhecimento de todos, nas localidades onde são comandadas por facção criminosa, no presente caso, C. V., é impossível que alguém realize o comércio ilícito sem pertencer a tal organização ou aliar-se ao "Chefe".
+Aqui, ainda temos uma circunstância que confirma mais ainda o envolvimento do apelante com a facção criminosa Comando Vermelho, ou seja, a presença de barricadas.
+Tais bloqueios são instalados pelos próprios elementos que compõem as facções criminosas, a fim de impossibilitar ou retardar o ingresso de policiais, que diuturnamente realizam diligências para reprimir o tráfico de entorpecentes e outros crimes.
+Dessarte, a meu sentir, é impossível que um cidadão ingresse numa região dominada pelo Comando Vermelho, ultrapassando barricadas, e lá permaneça vendendo drogas, de forma avulsa e independente, sem estar associado a tal facção criminosa que impõe constantemente terror à comunidade.
+Por todo o exposto, diante da robusta prova, entendo que a investigação prévia, reclamada pela Procuradoria de Justiça, se mostra despicienda.
+O STJ firmou o entendimento de que, tendo as instâncias de origem reconhecido, com base nas provas colhidas nos autos, que o condenado estava associado com outros indivíduos de forma estável e permanente, está caracterizado o delito de associação para o tráfico.
+Ademais, o acolhimento da tese de que não foi provado o vínculo estável e permanente do paciente com outras pessoas no reiterado comércio ilícito de drogas, a ensejar a absolvição do delito descrito no art. 35 da Lei n. 11.343/2006, implicaria revolvimento do conjunto fático-probatório, procedimento incompatível com a estreita via do habeas corpus.
+Nesse sentido, confiram-se os seguintes julgados: AgRg no HC n. 590.375/MS, relator Ministro Jorge Mussi, Quinta Turma, DJe de 25/8/2020; HC n. 439.046/PB, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 1º/6/2020; HC n. 492.911/MG, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 18/10/2019; e AgRg no HC n. 521.937/RS, relator Ministro Sebastião Reis Junior, Sexta Turma, DJe de 17/9/2019.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo
