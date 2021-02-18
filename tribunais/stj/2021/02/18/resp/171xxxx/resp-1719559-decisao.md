@@ -1,0 +1,45 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por UNIMED AGRESTE MERIDIONAL COOPERATIVA DE TRABALHO MÉDICO em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim ementado:
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. DIREITO DO CONSUMIDOR. PACIENTE DIAGNOSTICADO COM CÂNCER COM METÁSTASE. CLÁUSULA CONTRATUAL DE COPARTICIPAÇÃO EM RELAÇÃO A TRATAMENTO DE QUIMIOTERAPIA. CLÁUSULA ABUSIVA. DANOS MORAIS DEVIDOS.RECURSO IMPROVIDO.
+Em suas razões, a parte recorrente alegou violação doart. 16, inciso VIII, da Lei 9.656/1998 e do art. 188, inciso I, 186 e 927, do Código Civil, sob os argumentos de: (a) validade da cláusula de coparticipação; e (b) inocorrência de dano moral. Aduziu divergência jurisprudencial.
+Contrarrazões não apresentadas.
+É o relatório.
+Passo a decidir.
+O recurso especial merece ser provido.
+A controvérsia diz respeito à validade de cláusula de coparticipação em contrato de plano de saúde.
+O contrato em questão prevê coparticipação de 30% em consultas, exames, terapias e atendimentos ambulatoriais (fl. 42).
+O Tribunal de origem entendeu que seria abusiva a cláusula quando prevista em percentual sobre o custo do tratamento. No caso em tela, devido aos altos custos da quimioterapia, a mensalidade do plano de saúde chegou a ultrapassar omontante de 16 mil reais, em virtude da cobrança de coparticipação à taxa de 30%.
+Transcreve-se, a propósito, do acórdão recorrido:
+A jurisprudência majoritária nacional é sedimentada quanto à ilegalidade da coparticipação ser estabelecida em percentual sobre o custo do tratamento, sob pena de afronta à regra prevista no art. 51, inc. IV , do CDC, a qual estabelece como nulas as cláusulas contratuais que prevejam obrigações consideradas iníquas, abusivas, que coloquem o consumidor em desvantagem exagerada, ou sejam incompatíveis com a boa-fé ou a equidade. (fl. 413)
+No entanto, emboraos elevados valores acumulados a título de coparticipação no caso dos autos impressione, a jurisprudência desta Corte Superior, na linha da regulação do setor de saúde suplementar vigente até a edição daResolução Normativa ANS 433/2018,possui julgado específico no sentido da validade da cláusula de coparticipação em percentual sobre o custo do tratamento, aplicável inclusive aos tratamentos quimioterápico.
+Refiro-me ao seguinte julgado da TERCEIRA TURMA:
+RECURSO ESPECIAL. CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PLANO DE SAÚDE. COPARTICIPAÇÃO DO USUÁRIO EM VALORES PERCENTUAIS. PREVISÃO CONTRATUAL CLARA E EXPRESSA. TRATAMENTO SEM INTERNAÇÃO. LEGALIDADE. FATOR DE RESTRIÇÃO SEVERA AOS SERVIÇOS.INEXISTÊNCIA. ABUSIVIDADE. AFASTAMENTO.
+1. Cinge-se a controvérsia a saber se é abusiva cláusula contratual de plano de saúde que prevê a coparticipação do usuário nas despesas médico-hospitalares em percentual sobre o custo do tratamento.
+2. Os planos de saúde, instituídos com o objetivo de melhor gerir os custos da assistência privada à saúde, podem ser integrais (completos) ou coparticipativos.
+3. O art. 16, VIII, da Lei nº 9.656/1998 permitiu a inclusão de fatores moderadores, paralelos às mensalidades, no custeio dos planos de saúde, como a coparticipação, a franquia e os limites financeiros, que devem estar devidamente previstos no contrato, de forma clara e legível, desde que também não acarretem o desvirtuamento da livre escolha do consumidor. Precedente.
+4. A adoção da coparticipação no plano de saúde implica diminuição do risco assumido pela operadora, o que provoca redução do valor da mensalidade a ser paga pelo usuário, que, por sua vez, caso utilize determinada cobertura, arcará com valor adicional apenas quanto a tal evento.
+5. Os fatores moderadores de custeio, além de proporcionar mensalidades mais módicas, são medidas inibitórias de condutas descuidadas e pródigas do usuário, visto que o uso indiscriminado de procedimentos, consultas e exames afetará negativamente o seu patrimônio. A prudência, portanto, figura como importante instrumento de regulação do seu comportamento.
+6. Não há falar em ilegalidade na contratação de plano de saúde em regime de coparticipação, seja em percentual sobre o custo do tratamento seja em montante fixo, até mesmo porque "percentual de co-participação do consumidor ou beneficiário" (art. 16, VIII, da Lei nº 9.656/1998) é expressão da lei. Vedação, todavia, da instituição de fator que limite seriamente o acesso aos serviços de assistência à saúde, a exemplo de financiamentos quase integrais do procedimento pelo próprio usuário, a evidenciar comportamento abusivo da operadora.
+7. A coparticipação em percentual sobre o custo do tratamento é proibida apenas nos casos de internação, e somente para os eventos que não tenham relação com a saúde mental, devendo, no lugar, ser os valores prefixados (arts. 2º, VII e VIII, e 4º, VII, da Resolução CONSU nº 8/1998).
+8. O afastamento da cláusula de coparticipação equivaleria a admitir-se a mudança do plano de saúde para que o usuário arcasse com valores reduzidos de mensalidade sem a necessária contrapartida, o que causaria grave desequilíbrio contratual por comprometer a atuária e por onerar, de forma desproporcional, a operadora, a qual teria que custear a integralidade do tratamento.
+9. Recurso especial provido.
+(REsp 1566062/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/06/2016, DJe 01/07/2016)
+O caso subjacente a esse julgado dizia respeito especificamente à coparticipação em quimioterapia, em montante elevado, em período anterior à vigência da RN ANS 433/2018.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO COMINATÓRIA DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RECUSA INDEVIDA DE COBERTURA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. NULIDADE INEXISTENTE. ACÓRDÃO QUE SE PRONUNCIOU SOBRE AS QUESTÕES DEVOLVIDAS PELA PARTE. CLÁUSULA DE COPARTICIPAÇÃO. ABUSIVIDADE CONCRETAMENTE AFASTADA. IMPOSSIBILIDADE DE REVISÃO EM RECURSO ESPECIAL. SÚMULAS NºS 5 E 7, AMBAS DO STJ.VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE E RAZOABILIDADE.PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em omissão ou negativa de prestação jurisdicional, na medida em que o Tribunal de Justiça Estadual dirimiu, de forma motivada, as questões devolvidas em grau de apelação, pondo fim à controvérsia posta nos autos.
+3. Conforme destacado pela decisão agravada, o acórdão recorrido está em conformidade com a jurisprudência desta Corte Superior, no sentido de que não há falar em ilegalidade na contratação de plano de saúde em regime de co-participação, seja em percentual sobre o custo do tratamento, seja em montante fixo, até mesmo porque "percentual de co-participação do consumidor ou beneficiário" (art.16, VIII, da Lei nº 9.656/1998) é expressão da lei (AgInt no REsp nº 1.563.986/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 6/9/2017).
+4. Logo, tendo o Tribunal estadual consignado expressamente a validade da cláusula de coparticipação constante do contrato firmado entre as partes, a alteração das conclusões do acórdão recorrido exigiria uma nova interpretação da aludida cláusula, bem como a reapreciação do acervo fático-probatório da demanda, o que atrai os óbices da Súmulas nºs 5 e 7 do STJ.
+5. O montante da indenização a título de danos morais, fixado na hipótese vertente, no valor de R$ 12.000,00 (doze mil reais) se apresenta adequado às particularidades do caso concreto - em que não houve recusa de nenhum procedimento cirúrgico de emergência -, e guarda relação de razoabilidade e proporcionalidade com os valores normalmente fixados por esta Corte Superior em casos de assemelhados.
+6. Agravo interno não provido.
+(AgInt no REsp 1834637/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/04/2020, DJe 23/04/2020)
+Assim, na linha desses julgados, o provimento do recurso especial é medida que se impõe.
+Observe-se que, sendo válida a cláusula de coparticipação, não há falar em dano moral ao consumidor.
+Destarte, o recurso especial merece ser provido.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para julgar improcedentes os pedidos deduzidos na inicial.
+Custas e honorários advocatícios pela parte autora da demanda, estes arbitrados em 10% sobre o valor atualizado da causa, suspensa a exigibilidade em razão do benefício da gratuidade da justiça.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. TRATAMENTO QUIMIOTERÁPICO DE ALTO CUSTO. CLÁUSULA DE COPARTICIPAÇÃO NO PERCENTUAL DE 30%. COBRANÇA DE VALORES ELEVADOS A TÍTULO DE COPARTICIPAÇÃO.VALIDADE. JULGADO ESPECÍFICO DA TERCEIRA TURMA SOBRE A VALIDADE DE COPARTICIPAÇÃO EM PERCENTUAL NO CASO DE QUIMIOTERAPIA. PREJUDICIALIDADE DO PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS.
+RECURSO ESPECIAL PROVIDO.
