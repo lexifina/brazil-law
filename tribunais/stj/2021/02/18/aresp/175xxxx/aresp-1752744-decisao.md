@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu Recurso Especial interposto contra acórdão do Tribunal de Justiça de São Paulo assim ementado:
+Ação civil pública - Rejeição da ação, porque não havia provas suficientes do ato de improbidade administrativa - Inadmissibilidade - Fase inicial em que se exige apenas indícios da existência do ato de improbidade - Prosseguimento do feito - Recurso provido.
+Os Embargos de Declaração foram rejeitados (fls. 1.041-1.045, e-STJ).
+Apontou-se no Recurso Especial ofensa aos arts.1.022 do Código de Processo Civil/2015 e 17, § 8º, da Lei 8.429/1992, bem como divergência jurisprudencial.
+O Ministério Público Federal opinou pelo não provimento do Agravo em Recurso Especial.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2 de fevereiro de 2021.
+Na origem, trata-se de Ação por Improbidade Administrativa na qual se apontam irregularidades em processo licitatório para a ampliação do sistema de monitoramento eletrônico àdistância, por circuito fechado de televisão digital de logradouros públicos, da cidade de Piracicaba.
+O Tribunal de origem deu provimento à Apelação do Ministério Públicopara determinar o recebimento da petição inicial e o prosseguimento da demanda sob a seguinte fundamentação (fls. 969-971, e-STJ):
+No caso em apreço, em uma análise sumária, verifica-se que há indícios de materialidade e participação dos réus na suposta conduta ímproba (conclusões dos órgãos técnicos do Tribunal de Constas do Estado).
+ ..
+No caso, as alegações de prática de ato de improbidade administrativa vieram respaldadas em razoável documentação, não se verificando quaisquer das hipóteses previstas no § 8º do art. 17 da Lei de Improbidade para a exclusão da ação.
+A decisão está em conformidade com a jurisprudência do STJ, que, com fundamento no princípio doin dubio pro societate,determina o recebimento da petição inicial quando estiverem presentes indícios da prática de improbidade administrativa. Nesse sentido:
+ADMINISTRATIVO. IMPROBIDADE. LEGITIMIDADE. CAIXA ECONÔMICA FEDERAL.EXCLUSÃO DO POLO PASSIVO. ACÓRDÃO EM CONFRONTO COM A JURISPRUDÊNCIADESTA CORTE.
+ ..
+V - Convém ressaltar, aliás, que, para fins de recebimento dapetição inicial, não é necessária prova cabal da conduta ímproba.Nessa fase inaugural do processamento de ação civil pública porimprobidade administrativa, vige o princípio do in dubio prosocietate. Significa dizer que, caso haja apenas indícios da práticade ato de improbidade administrativa, ainda assim se impõe aapreciação de fatos apontados como ímprobos. Nesse sentido: AREsp n.1.577.796/SP, relator Ministro Francisco Falcão, Segunda Turma,julgado em 10/3/2020, DJe 17/3/2020; REsp n. 1.770.305/RJ, relatorMinistro Herman Benjamin, Segunda Turma, julgado em 5/11/2019, DJe19/12/2019.
+VI - Correta, portanto, a decisão recorrida que deu provimento aorecurso especial interposto pelo Ministério Público Federal a fim dereformar a decisão recorrida e readmitir a Caixa Econômica Federalno polo passivo da ação civil pública.
+VII - Agravo interno improvido.
+(AgInt no REsp 1.874.419/MG, Relator Min. FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 18/11/2020)
+Em razão do que estabelece a Súmula 7/STJ, não há como acolher a versão fática que a parte recorrente apresenta, quando afirmaque "Demonstrou-se, nos autos, inexistir qualquer irregularidade nos atos praticados  .. a suposta ilegalidade apontada pelo Recorrido, que mesmo se existente, o que se admitiria apenas para fins argumentativos, não gerou prejuízos ao procedimento licitatório, muito menos ao erário público" (fl. 1.066, e-STJ).
+De outro lado, ao contrário do que se sustenta nas razões recursais, não deve no caso prevalecer a sentença que rejeitou a inicial mediante "uma análise de mérito dos fatos alegados e dos documentos juntados à inicial" (fl. 1.065, e-STJ).
+Tem-se entendidono STJ que "Deve ser considerada prematura a extinção do processo comjulgamento de mérito, tendo em vista que nesta fase da demanda, arelação jurídica sequer foi formada, não havendo, portanto,elementos suficientes para um juízo conclusivo acerca da demanda,tampouco quanto a efetiva presença do elemento subjetivo do supostoato de improbidade administrativa, o qual exige a regular instruçãoprocessual para a sua verificação" (EDcl no REsp 1.387.259/MT, Rel.Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 23/4/2015).
+Na mesma direção:
+ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. PRESENÇA DE INDÍCIOS DE COMETIMENTO DE ATO ÍMPROBO. RECEBIMENTO DA PETIÇÃO INICIAL. IN DUBIO PRO SOCIETATE. PRECEDENTES. INDEPENDÊNCIA ENTRE AS ESFERAS CÍVEL, PENAL E ADMINISTRATIVA. PRECEDENTES.
+1. Esta Corte possui firme entendimento de deve haver suficiência da demonstração de indícios razoáveis de prática de ato ímprobo e autoria para que se determine o processamento da ação, nos termos do art. 17, §§ 6º e 8º, da Lei n. 8.429/1992, em observância ao princípio do in dubio pro societate, a fim de possibilitar maior resguardo ao interesse público, deixando para analisar o mérito da demanda após regular instrução probatória. A propósito, vide: AgInt no AREsp 1.284.734/GO, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 23/3/2020; AgInt no AREsp 952.487/MS, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 18/9/2018; AgInt no AREsp 295.527/RS, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20/9/2017; AgRg no REsp 1.186.672/DF, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 13/9/2013; AgInt no AREsp 1.213.358/PR, Rel. Min. Og Fernandes, Segunda Turma, DJe 31/10/2018.
+2. A jurisprudência do STJ é no sentido de que as esferas cível, administrativa e penal são independentes, com exceção dos casos de absolvição, no processo criminal, por afirmada inexistência do fato ou negativa de autoria, o que não é o caso dos autos, na medida em que decidido que o fato não constitui infração penal. Nesse sentido, dentre outros: AgInt no AREsp 1.347.654/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 10/3/2020; AgInt no REsp 1.678.327/MG, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 1º/3/2019; REsp 1.431.610/GO, Rel. Min. Og Fernandes, Segunda Turma, DJe 26/2/2019.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.464.563/RS, Relator BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11.12.2020)
+Orientam-se da mesma formaos seguintes precedentes:REsp 1.786.187/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/10/2019; AgInt nos EDcl no REsp 1.596.890/PA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/5/2018; AgInt no AREsp 1.220.029/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 28/8/2018; AgInt no REsp 1.606.709/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/6/2018, DJe 22/6/2018.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
