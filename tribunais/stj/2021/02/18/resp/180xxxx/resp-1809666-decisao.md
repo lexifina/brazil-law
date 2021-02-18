@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por INDUSTRIAS REUNIDAS PROGRESSO LIMITADA, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim ementado:
+Agravo Interno contra decisão que concede efeito suspensivo a recurso de Agravo de Instrumento.
+1) Não havendo comprovação adequada de que o acesso à via pública é insuficiente ou inadequado, não há razão para revogar o efeito suspensivo e restabelecer liminar de passagem forçada (CC, art. 1.285, caput e § 1.º) concedida em primeiro grau sem qualquer critério ou fundamento juridicamente válido;
+2) Recurso a que se nega provimento.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto noart.1.285 do Código Civil.
+Sustenta necessitar de que lhe seja dada passagem por meio do imóvel da recorrida, de modo a melhorar o seu difícil acesso, mormente pelos seus funcionários, a via pública, para o que está inclusive disposta a indenizar.
+Contrarrazões ao recurso especial às fls. 329-371.
+Crivo positivo de admissibilidade na origem (fls. 376-378).
+É o relatório.
+DECIDO.
+2. Sobre a questão, assim decidiu o tribunal de origem:
+No que toca ao mérito, as razões recursais não podem prevalecer, devendo ser mantida a decisão que concedeu o efeito suspensivo ao Agravo de Instrumento, isso porque a parte Recorrente não apresentou qualquer argumento revestido de demonstração idônea que sustente as alegações de que seu imóvel, a despeito de não apresentar encravamento, teria um acesso insuficiente ou inadequado à via pública.
+Na descrição dos fatos expostos na petição inicial, a Sociedade Empresária Indústrias Reunidas Progresso Ltda. argumenta que apropriedade "se encontra encravada, com sérias dificuldades de saída para via pública" (fl. 55).
+Em outro trecho, sustenta que "os funcionários da empresa vem sendo obrigados a utilizar outro caminho, fazendo uma espécie de contorno por trás da empresa em que trabalham, o que torna o trajeto bem mais longo e perigoso, pois caminham aproximadamente 1km (um quilômetro)" (fl. 55).
+Em primeiro lugar, é importante destacar que a decisão ora Agravada pontuou a falta de fundamentação idônea do ato judicial de primeira instância em virtude de ter sido deferido o pedido de passagem forçada de maneira desmotivada e sem atendimento ao dever constitucional estabelecido no inciso IX do art. 93 da Carta Magna de 1988.
+Por outro lado, examinando efetivamente os elementos probatórios existentes nos autos e que devem servir de base para a análise do deferimento ou não da tutela provisória de passagem forçada, observou-se que o imóvel onde são desenvolvidas as atividades da Indústrias Reunidas Progresso Ltda e possui acesso aparentemente fácil, suficiente e adequado por meio da Rua Anhanduí. A referida rua, pelo que consta dos autos e pode ser, verificado de forma pública pela internet, oferece acesso satisfatório não só para as Indústrias Reunidas Progresso Ltda, mas para outros empreendimentos próximos, não existindo a menor aparência de que haja onerosidade excessiva ouinadequação do acesso a justificar o deferimento liminar de uma medida tão extrema quanto a passagem forçada prevista no art. 1.285 do Código Civil.
+Portanto, ainda que a discussão verse sobre o encravamento parcial, o contexto dos autos demonstra, ao menos até o momento não existirem indícios de que o acesso à via pública seja insuficiente ou inadequado, o que impede a aplicação da inteligência do Enunciado n.º 88 do Conselho da Justiça Federal e a própria intelecção do art. 1.285 do CC/02.
+O argumento de que o pedido de passagem forçada tem por escopo pura e simplesmente uma melhoria nas condições de acesso de funcionários que não dispõem de veículo próprio não se mostra razoável e constitui tese a ser adequadamente examinada após regular instrução probatória a ser realizada perante o juízo de primeiro grau, não servido, a toda evidência, como suporte à verossimilhança necessária ao deferimento de uma tutela provisória de urgência.
+Diante do que se vê dos autos, se não há encravamento absoluto ou parcial comprometedor e existe acesso aparentemente suficiente e adequado para atender tanto ao imóvel da Indústrias Reunidas Progresso Ltda. quanto ao de outras Pessoas jurídicas que se servem da Rua Anhanduí para chegar à Torquato Tapajós, não há razoabilidade em admitir a concessão liminar de passagem forçada em imóvel alheio. (Fls. 288-289 e-STJ)
+Afirmou não existirem elementosprobatórios nos autos a revelarem a configuração de imprescindibilidade de concessão de passagem forçada, nem evidenciaremurgência e verossimilhança para determinarem concessão de tutela de urgência, de modo que fora suspensa decisão liminar deferidana primeira instância.
+Alterar tais conclusões para passar a afirmar que existe encravamento do imóvel a revelar necessidade de deferimento liminar de passagem forçada em imóvel alheio, sem dúvida exigiria desta Corte incursão pelocampo fático-probatório, atividade não realizável nesta via especial. Incidência da súmula 7/STJ.
+3. Ante o exposto, não conheço do recurso especial.
+Intimem-se. Publique-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PASSAGEM FORÇADA. QUESTIONAMENTO SOBREENCRAVAMENTO DE IMÓVEL. DECISÃO LIMINAR. REEXAME DE FATOS E PROVAS. IMPRESCINDÍVEL. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
