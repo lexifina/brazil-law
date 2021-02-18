@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos em face da decisão de fls. 1.459/1.462 e-STJ.
+A parte embargante sustenta haver omissão no que tange ao dissídio jurisprudencial suscitado nas razões do seu recurso especial.
+Sem razão, todavia. O tema relativo à forma em que realizada a transferência dos direitos consubstanciados no título de crédito foi expressamente enfrentada na decisão recorrida, verbis (fls. 1.461/1.462 e-STJ):
+Também não logra êxito o inconformismo relativo aos arts. 910, 916, 7º e 8º da Lei n. 5.474/1968. Consta expressamente da sentença que a transferência do crédito consubstanciado nos títulos de crédito objeto da inicial não foi efetivada por meio de endosso, mas por meio de contrato de cessão de crédito. A desconstituição desse entendimento encontra obstáculo, ademais, nas Súmulas n. 5 e 7/STJ.
+Outrossim, a despeito da referência ao endosso na ementa do acórdão estadual, a fundamentação desse julgado atesta que os títulos de crédito foram entregues à recorrente em face à celebração de contrato de cessão de crédito, sem existência de endosso, não havendo de se falar, portanto, na incidência das regras de direito cambial, na espécie. Nesse sentido:
+PROCESSUAL CIVIL . EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CONTRATO DE FACTORING. DUPLICATAS PREVIAMENTE ACEITAS. ENDOSSO À FATURIZADORA. CIRCULAÇÃO E ABSTRAÇÃO DO TÍTULO DE CRÉDITO APÓS O ACEITE. OPOSIÇÃO DE EXCEÇÕES PESSOAIS. NÃO CABIMENTO. PRECEDENTE ESPECÍFICO DA SEGUNDA SEÇÃO. PROVIMENTO DOS EMBARGOS DE DIVERGÊNCIA.
+1. Hipótese: Embargos à execução acolhidos a fim de julgar extinta a execução sob fundamento de que a circulação do título de crédito se operou por meio de cessão civil de crédito, admitindo-se a oposição de exceções pessoais. Decisão mantida pela eg. Terceira Turma, em sede agravo regimental.
+2. Mérito: A eg. Segunda Seção, em recente posicionamento (EREsp 1. 439.749/RS, Rel. Min. Maria Isabel Gallotti, DJe de 06/12/2018), trilhou o entendimento no sentido de que se a transmissão dos títulos de créditos em favor da empresa de factoring operou-se por endosso, sem questionamento a respeito da boa-fé da endossatária (factoring), ou quanto ao aceite voluntariamente aposto no título, aplicam-se as normas próprias do direito cambiário, sendo incabível a oposição de exceções pessoais à endossatária.
+3. Embargos de divergência conhecidos e providos.
+(EREsp 1482089/PA, Relator Ministro MARCO BUZZI, SEGUNDA SEÇÃO, DJe 19/08/2019)
+Com efeito, os óbices sumulares que incidem sobre o tema também impedem o conhecimento do recurso especial pelo dissídio jurisprudencial. De toda forma, vale ressaltar que os arestos indicados como paradigmas, à obviedade, não apresentam a indispensável semelhança fática com o caso dos autos, pois esses tratam da transferência do título por endosso, e não por contrato de cessão de crédito.
+Em face do exposto, rejeito os embargos declaratórios.
+Intimem-se.
