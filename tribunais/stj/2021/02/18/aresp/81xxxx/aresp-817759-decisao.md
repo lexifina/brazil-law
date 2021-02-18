@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto pelaCEREAL SUL - TERMINAL MARÍTIMO S.A. contra decisão do TJ/SP, que não admitiu recurso especial fundado no art. 105, III, do permissivo constitucional,que desafia acórdão assim ementado (e-STJ fl. 746):
+AGRAVO DE INSTRUMENTO - Ação de obrigação de fazer - Recurso tirad9 contra decisão que, entendendo desnecessária a intervenção da União, de suas Agências ou do Ministério Público, por se tratar de matéria restrita ao cumprimento de posturas municipais, rejeitou os embargos de declaração opostos pela agravante - Reclamo processado sem efeito suspensivo - Objeção ao cabo julgada improcedente - Suspensão do feito principal determinada no âmbito de ação declaratória de inexistência de ato jurídico (querela nullitatis) - Remessa dos autos do agravo para o E. TRF da 3a Região - Inviabilidade - Inteligência do art. 108, inciso II, da CF - Súmula 55 do STJ - Medida que não interferirá no deslinde dos feitos em primeiro grau - Parte subsistente do interesse recursal - De rigor o parcial provimento do recurso apenas para suspender o curso do feito principal até o deslinde da querela nullitatis - Art. 527, inciso III, CPC -Reconhecimento de conexão por prejudicialidade externa heterogênea entre as ações apontadas, sem r eunião dos processos - Inteligência do art. 265, IV, "a", CPC - Recurso provido em parte.
+Recurso parcialmente provido com determinação.
+No especial obstaculizado, a parte agravante indicou violação dos arts. 215, 223 e 535doCPC/1973.
+O apelo nobre recebeu juízo negativo de admissibilidade (e-STJ fl. 799).
+Na presente irresignação, a parte agravante sustenta a regularidade do REsp.
+Passo a decidir.
+Inicialmente, observo que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Considerado isso, verifico que o apelo especial não comporta conhecimento.
+É que os dispositivos legais ditos violados não foramefetivamente analisados pelo aresto recorrido.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, o que, como se vê, não ocorreu na espécie. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 da Suprema Corte, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Diante do exposto, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
