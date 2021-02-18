@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se da petição n. 00911611/2020, na qual a parte requerente sustenta a ausência de personalidade judiciária do Tribunal de Contas e da Assembleia Legislativa, ambos do Estado de São Paulo, devendo ser excluídos da relação processual.
+Decido.
+No tocante ao tema, verifica-se a ausência deprequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso nainstânciaexcepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Note-se que amatérianão foi analisada, mesmo após o novo julgamento dos embargos de declaração, sendo certo que a exigência deprequestionamentoprevalece, inclusive, quanto àsmatériasdeordem pública.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO CIVILPÚBLICA.IMPROBIDADE ADMINISTRATIVA. FRAUDE A PROCEDIMENTO LICITATÓRIO. FALTA DEPREQUESTIONAMENTODAS QUESTÕES RELACIONADAS À PRESCRIÇÃO E À NULIDADE DA PERÍCIA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF, MESMO AMATÉRIASDEORDEM PÚBLICA.ACÓRDÃO QUE CONSIGNA A PRESENÇA DO ELEMENTO SUBJETIVO E ALEGITIMIDADEPASSIVA DO RÉU. REVISÃO. IMPOSSIBILIDADE NO CASO DOS AUTOS. SÚMULA N. 7/STJ.APLICAÇÃO. DECISÃO DO TRIBUNAL DE CONTAS DO ESTADO DE SANTA CATARINA. VINCULAÇÃO DO PODER JUDICIÁRIO. INEXISTÊNCIA. PRECEDENTES DESTA CORTE. ENQUADRAMENTO DOS FATOS EM DISPOSITIVO DIVERSO DAQUELE APONTADO NA PETIÇÃO INICIAL. POSSIBILIDADE. DETERMINAÇÃO DE RESSARCIMENTO AO ERÁRIO QUANDO CONSTATADO PREJUÍZO PATRIMONIAL NO DECORRER DA INSTRUÇÃO. CONDENAÇÃO EXTRA PETITA. AUSÊNCIA. INCIDÊNCIA DA SÚMULA N. 83/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 ao Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso àinstânciaespecial, mesmo no que concerne amatériasdeordem pública,porquanto não preenchido o requisito constitucional doprequestionamento,nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+ ..
+IX - Agravo Interno improvido. (AgInt no REsp 1.372.775/SC, Rel.Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 7/12/2018.)
+Ante o exposto, não conheço do pedido.
+Publique-se. Intimem-se.
