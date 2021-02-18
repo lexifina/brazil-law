@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de MARIA EDUARDA VAZ LINK no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Norte no julgamento do HC n. 0807291-88.2020.8.20.0000.
+Extrai-se dos autos que a paciente e outras 3 acusadas foram presas em flagrante pela suposta prática dos crimes previstos nos arts. 33 e 35, c/c o art. 40, V, todos da Lei n. 11.343/2006, por estarem transportando aproximadamente 50kg (cinquenta quilogramas) de cocaína e uma porção de MDMA (metilenodioximetanfetamina). A prisão em flagrante foi convertida em preventiva (e-STJ fls. 85/86).
+Segundo narra a denúncia (e-STJ fl. 81):
+No dia 23 (vinte e três) de maio de 2020, nas dependências do Aeroporto Internacional Aluízio Alves, situado em São Gonçalo do Amarante/RN, os denunciados MARIA EDUARDA VAZ LINK, PRICILA BERNARDO, LAISA CARDOSO BEZERRA GABÍNIO, JESSICA ELISA RODRIGUES e FELIPE MARROCOS MAGALHÃES, em comunhão de esforços e unidade de desígnios, associaram-se para transportar aproximadamente 50kg (cinqüenta quilogramas) (precisamente, 47.444g - quarenta e sete mil, quatrocentos e quarenta e quatro gramas, havendo ainda 5,28g - cinco gramas e vinte e oito centigramas de três trouxinhas de COCAÍNA e uma de MDMA, metilenodioximetanfetamina) de drogas sem autorização e em desacordo com determinação legal ou regulamentar.
+Com efeito, relata-nos o procedimento de investigação anexo que, no dia retromencionado, Policiais Federais lotados na Delegacia de Repressão ao Tráfico de Entorpecentes resolveram fazer uma fiscalização nas bagagens dos passageiros que desembarcavam com destino à Natal/RN, no aeródromo. Ao averiguar as malas de passageiros oriundos do voo da GOL 2826, que partiu de Guarulhos/SP, observaram no equipamento de Raio-X a presença de substâncias orgânicas em algumas delas.
+Irresignada com a decisão que indeferiu o pedido de reconsideração (e-STJ fl. 87), a defesa impetrou habeas corpus perante o Tribunal de origem. Entretanto, a Câmara Criminal denegou a ordem, por unanimidade, conforme o acórdãode e-STJ fls. 121/130.
+Daí o presente remédio constitucional, no qual a defesa reitera os argumentos lançados na impetração anterior com vistas à revogação da custódia cautelar imposta à paciente.Afirma que a paciente portava apenas 5,2g de cocaína, quantidade essa que autoriza a concessão da liberdade.
+Diante dessas considerações, pede, liminar e definitivamente, que se reconheça o direito da paciente de aguardar em liberdade o julgamento da ação penal.
+O pedido liminar foi indeferido.
+Prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 187/196).
+É, em síntese, o relatório.
+Decido.
+Consoante informações prestadaspelo Juízo de primeiro grau,por decisão proferida em 15/12/2020,a "paciente Maria Eduarda Vaz Link foi condenada, como incursa nas penas do art. 33 (sic), caput, c/c art. 40, V da Lei n.11.343/2006 e art. 35 da Lei n.11.343/2006, cuja pena definitiva foi fixada em 11 (onze) anos e 4 (quatro) meses de reclusãoe 1.533 (mil, quinhentos e trinta e três) dias-multa"(e-STJ fl. 183).
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
