@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por RAMON IAGO BORGES SANTOScontra decisão do Tribunal de Justiça do Estado deMinas Gerais, que não admitiu o recurso especial manejado com apoio no art. 105, III, "c", da Constituição Federal.
+Os embargos de declaração opostos pela defesa não foram acolhidos pelo TJMG (e-STJ, fls. 1452-1458).
+Nas razões dorecurso especial, fundado em dissídio jurisprudencial interpretativo,a defesaaponta, preliminarmente,a nulidade da ação penalpela suposta ilegitimidade do Ministério Público para conduzir investigação criminal e,no mérito,alega a ausência de materialidade do crime de tráfico em razão da não apreensão de substâncias entorpecentes com oora agravante.
+Pugna, por fim,o provimento do recurso, para que o recorrente seja absolvido; ou, subsidiariamente, que seja aplicada a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 e fixado o regime aberto, com a substituição da pena privativa de liberdade por penas restritivas de direitos.
+Foram apresentadas contrarrazões (e-STJ, fls. 1569-1573).
+O recurso foi inadmitido em razão da incidência dos óbices das Súmulas 7 e 83 do STJ (e-STJ, fls. 1585-1586). Daí este agravo (e-STJ, fls. 1645-1651).
+O Ministério Público Federal opina pelo não conhecimento do agravo (e-STJ, fls.1675-1689).
+É o relatório.
+Decido.
+A irresignação não merece conhecimento.
+Conforme constante da decisão agravada, "ora, é inviável a subida do recurso especial quando o mesmo for interposto em face de acórdão que se encontra em perfeita e total consonância com a jurisprudência pacífica do colendo Superior Tribunal de Justiça, situação que atrai, na espécie, o enunciado sumular nº 83 daquele sodalício (conforme AGA 383051/RS, Primeira Turma, rel. Min. FRANCISCO FALCÃO in DJ de 30/09/2002, p. 183). As demais questões levantadas em ambos os recursos encontram óbice intransponível no enunciado sumular nº 07/STJ" (e-STJ, fl. 1586).
+Por outro lado, orecorrente não impugnou adequada e satisfatoriamente os fundamentos da decisão agravada.
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Ademais, tem-se que: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016).
+Acrescenta-se que, em recente julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Ressalte-se, por fim, que esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016, grifou-se), o que não ocorreu no caso destes autos. Caberia, dessa forma, ao agravante impugnar tal fundamento, trazendo precedentes contemporâneos ou supervenientes a seu favor.
+Ante o exposto, com apoio no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
