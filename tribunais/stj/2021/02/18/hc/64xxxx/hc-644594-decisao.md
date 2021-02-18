@@ -1,0 +1,6 @@
+DECISÃO
+LUCIANO DA SILVA SOUZA, condenado por receptação ao cumprimento de 3 anos e 6 meses de reclusão, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à apelação defensiva e manteve o regime de cumprimento da pena semiaberto, o qual pretende, nesta oportunidade, seja modificado para o aberto.
+Entretanto, constato que tais alegações vieram desacompanhadas de documentos essenciais que possibilitassem o exame da controvérsia (por exemplo, a cópia da sentença condenatória). A possibilidade de se impetrar habeas corpus, perante esta Corte, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-lo com os documentos essenciais. Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, Rel. Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+Além disso e mais importante, é que este habeas corpus mera reiteração do HC n. 634.731/SP, no qual também é veiculada a pretensão de modificação do regime imposto ao paciente e que, muito embora haja sido indeferido liminarmente, ainda se encontra pendente de apreciação o agravo regimental interposto.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
