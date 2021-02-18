@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado do Rio de Janeiro com fundamento na alínea a do inciso III do artigo 105 da Constituição Federal contra acórdão da Câmara Cível do Tribunal de Justiça do Rio de Janeiro que, às fls. 325-337, acolheu os embargos declaratórios interpostos pela parte autora para conceder-lhe o benefício da gratuidade de justiça e suspender a exigibilidade da sucumbência, nos termos do artigo 98,§ 3º, do CPC/2015.
+O recorrente alega violado os artigos 99,§§ 1º e 2º (que trata de opedido de gratuidade da justiça ser formulado na petição inicial, na contestação, na petição para ingresso de terceiro no processo ou em recurso);489, II e§ 1º, III (ausência de motivação da decisão judicial);507 (que trata da preclusão)e 1.024,§§ 4º e 5º (prevê a impossibilidade de conhecimento dos embargos declaratórios não reiterados, quando o julgado a eles relativos tiver sido alterado)do CPC/2015.
+Aduz que (fl. 349, e-STJ):
+ .. o recurso de fls. 268/271 (embargos declaratórios opostos pelos autores)não poderia ter sido conhecido, porquanto caracterizada a preclusão.
+Logo, ante a evidente afronta aos artigos 507 e 1.024, §§4º e 5º, do CPC/2015, o presente recurso especial deverá ser provido, anulando-se o v. acórdão de fls. 325/337, que concedeu a gratuidade de Justiça aos autores.
+ ..
+Ainda que não se considere a ocorrência da preclusão, o v. acórdão deverá ser reformado, anulando-se o benefício da gratuidade de Justiça.
+Requer, assim, o provimento do recurso, a fim de "anular o acórdão de fls. 325/337 ante a preclusão", ou, alternativamente,para que que seja "revogada a concessão da gratuidade de justiça" (fl. 354).
+Sem contrarrazões (cf. certidão de fl. 370).
+Admissibilidade às fls. 379-381.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdãopublicado na vigência do Código de Processo Civil de 2015, devendo serexigidos os requisitos de admissibilidade na forma nele previsto, conformeEnunciado Administrativo n. 3/2016/STJ.
+Como relatado, em apertada síntese o recorrente se insurge contra acórdão queacolheu os embargos declaratórios interpostos pela parte autora para conceder-lhe o benefício da gratuidade de justiça e suspender a exigibilidade da sucumbência, nos termos do artigo 98, § 3º, do CPC/2015.
+Afasta-se a alegada violação do artigo 489 do CPC/2015, visto que o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Acerca da apontada violação dos artigos507 e 1.024, §§4º e 5º, do CPC/2015, o Tribunal de origem afastou a tese de preclusão nos seguintes termos (fls. 331-332, e-STJ):
+ ..  compulsando os autos verifica-se ter sido interposto recurso de embargos declaração pelos ora embargantes contra o acordão de fls.233/244, na data de 10/05/2018, somente juntado aos autos em 19/09/2018, portanto, após o julgamento dos embargos declaratórios opostos pelo Estado na data 3/5/2010.
+Com efeito, diferentemente do alegado pelo Embargado, a decisão que acolheu os embargos por ele opostos apenas corrigiu erro material existente no dispositivo do acórdão, para fixar os honorários recursais no montante de 1%, que, somados aos 10% arbitrados na sentença, totalizando 11%, incidam sobre o valor atribuído à causa, como fixado na sentença proferida pelo juízo a quo e, não como constou no acordão, sobre o valor da condenação.
+Desse modo, não houve modificação no julgamento do acórdão a ensejar a necessidade ratificação ou complementação das razõesdos embargos interpostos pelos autores da ação, posto que o referido decisum apenas reconheceu erro material.
+Desta feita, oportuno destacar que a obrigatoriedade de ratificação do recurso foi expressamente afastada pelo NCPC e a complementação das razões recursais na hipótese de nova sucumbência oriunda do provimento dos embargos de declaração, que não é a hipótese em questão, é uma prerrogativa conferida a parte, nos termos dos §§ 40 e 50 do artigo 1.024 do CPC.
+ .. ,não há que se falar em preclusão, na medida em que se admite a concessão do benefício em qualquer fase doprocesso (art. 99 do CPC), inclusive de ofício, conforme os seguintes precedentes do STJ e deste Tribunal de Justiça:
+Ocorre que o recorrente, ao reiterar argumentação de violação aos artigos violados (507 e 1.024, §§4º e 5º, do CPC/2015) edirecionar a sua tese no sentido de "caracterizada a preclusão"deixou de impugnar o fundamento do acórdão recorrido segundo o qual "não houve modificação no julgamento do acórdão a ensejar a necessidade ratificação ou complementação das razões dos embargos interpostos pelos autores da ação, posto que o referido decisum apenas reconheceu erro material".
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese/ao caso a Súmula 283/STF.
+Por fim, cabe consignar que o acórdão recorrido aplicou jurisprudência desta Corte Superior no sentido de que as instâncias ordinárias podem examinar de ofício a condição financeira do requerente para atribuir a gratuidade de justiça, haja vista a presunção relativa da declaração de hipossuficiência.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO QUE CONCEDEU GRATUIDADE DE JUSTIÇA EM FAVOR DOS SERVIDORES DO PODER JUDICIÁRIO DO ESTADO DO RIO DE JANEIRO. VIOLAÇÃO DO ARTIGO 489 DO CPC/2015. AUSÊNCIA. FUNDAMENTOS NÃO INFIRMADOS. ÓBICE DA SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
