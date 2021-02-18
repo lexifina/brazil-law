@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal de Justiça do Paraná assim ementado:
+APELAÇÃO CÍVEL - CUMPRIMENTO DE SENTENÇA COLETIVO - TRANSPOSIÇÃO DE CARGOS - ILEGITIMIDADE ATIVA - PROCESSO EXTINTO, SEM RESOLUÇÃO DE MÉRITO, DE OFÍCIO - ALEGADO PREENCHIMENTO DAS CONDIÇÕES DA AÇÃO - IMPOSSIBILIDADE - TRANSPOSIÇÃO DE CARGOS DE AGENTE FISCAL PARA AUDITOR FISCAL - LEI COMPLEMENTAR ESTADUAL Nº 92/2002 - INCONSTITUCIONALIDADE DO ART. 156 DECLARADA PELO ÓRGÃO ESPECIAL DESTE TJPR - IMPOSSIBILIDADE DE TRANSPOSIÇÃO DE CARGOS - VIOLAÇÃO DO ART. 37, INCISOS I E II, DA CONSTITUIÇÃO FEDERAL - INCORPORAÇÃO DE PRÊMIO DE PRODUTIVIDADE - IMPOSSIBILIDADE - AUTORES QUE NÃO DEMONSTRARAM VÍNCULO COM A SITUAÇÃO JURÍDICA AFIRMADA - PRECEDENTES - SENTENÇA MANTIDA - RECURSO NÃOPROVIDO.
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 502, 503, 507 e 508 do Código de Processo Civil de 2015, sob o argumento de que houve afronta à coisa julgada.
+Decisão de inadmissibilidade do Recurso Especial às fls. 1133-1135, e-STJ.
+Agravo em Recurso Especial às fls. 1.170-1.277, e-STJ.
+Contraminuta às fls. 1.294-1.298 e 1.310-1.318, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22/1/2021.
+A irresignação não merece prosperar.
+Em relação à alegação de ofensa à coisa julgada, o Tribunal de origem consignou (fls. 919-922, e-STJ):
+Desta forma, restou decidido que a transposição para o cargo de Auditor Fiscal inativo só seria possível aos Agentes Fiscais inativos, cuja investidura originária tivesse sido feita por concurso público para o cargo AF-1.
+A transposição de cargos pretendida pelos autores, fere o previsto no art. 37, II, da Constituição Federal, que impõe a necessidade de aprovação prévia em concurso público para a investidura em cargo público.
+Ora, o fato do servidor haver tido acesso à classe subsequente da carreira, mediante promoção, não transforma o cargo por ele ocupado de nível superior.
+(..)
+Desta forma, não tendo sido demonstrado pelos autores que que ingressaram originariamente pela via de concurso público, conclui-se que não possuem legitimidade ativa para requerer o cumprimento de sentença proferido na ação ordinária nº /2005, não havendo que se falar em ofensa à coisa julgada. 824 Ainda, não há que se falar também em direito adquirido ao recebimento de rateio anual das quotas, uma vez que a declaração de inconstitucionalidade por via incidental possui efeitos "ex tunc", retroagindo desde à edição da Lei Complementar Estadual 92/2002.
+Assim sendo, agiu com acerto o Magistrado sentenciante, devendo ser mantido o reconhecimento da ilegitimidade ativa dos apelantes.
+É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal compreensão, cuja análise demanda reexame de provas, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Quanto aos limites subjetivos e objetivos da coisa julgada, também sua apreciação não é permitida na via do Recurso Especial, pois infringe o disposto no enunciado da Súmula 7 do STJ.
+Cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA A DISPOSITIVOS LEGAIS FEDERAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SERVIDOR PÚBLICO. REAJUSTE DE 28,86%. EXECUÇÃO. COMPENSAÇÃO. OFENSA À COISA JULGADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INCIDÊNCIA. PRECEDENTES.
+1. Extrai-se do teor do voto condutor do acórdão recorrido que os arts. 303, 468 e 474 do CPC/1973 e as matérias a eles correlatas não foram objeto de debate e apreciação pela Corte de origem, circunstância que redunda na incidência da Súmula 211/STJ em virtude da ausência de prequestionamento dos referidos dispositivos legais pela instância a quo.
+2. A Primeira Seção do STJ, no julgamento do REsp 1.235.513/AL (Rel. Ministro Castro Meira, Primeira Seção, DJe 20/12/2012), submetido ao rito do art. 543-C do CPC, pacificou a orientação de que "não ofende a coisa julgada  ..  a compensação do índice de 28,86% com reajustes concedidos por leis posteriores à última oportunidade de alegação da objeção de defesa no processo cognitivo, marco temporal que pode coincidir com a data da prolação da sentença, o exaurimento da instância ordinária ou mesmo o trânsito em julgado, conforme o caso. Nos embargos à execução, a compensação só pode ser alegada se não pôde ser objetada no processo de conhecimento. Se a compensação se baseia em fato que já era passível de ser invocado no processo cognitivo, estará a matéria protegida pela coisa julgada. É o que preceitua o art. 741, VI, do CPC: "Na execução contra a Fazenda Pública, os embargos só poderão versar sobre  ..  qualquer causa impeditiva, modificativa ou extintiva da obrigação, como pagamento, novação, compensação, transação ou prescrição, desde que superveniente à sentença"".
+3. No caso, verificar se a compensação do reajuste de 28,86% se deu em desconformidade com o que preconiza o título executivo, bem como se ocorreu, ou não, eventual afronta à coisa julgada, é pretensão inviável na via recursal eleita, tendo em vista a necessidade do reexame do acervo fático-probatório dos autos, o que é incabível em recurso especial, segundo o teor da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 445.971/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 26/2/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. IMPOSTO DE RENDA. CÁLCULO. COISA JULGADA. OBSERVÂNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. COTEJO DE PEÇAS PROCESSUAIS DE FEITOS DISTINTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. PRECEDENTES DO STJ. CONSIDERAÇÕES A TÍTULO DE OBITER DICTUM. IRRELEVÂNCIA. AGRAVO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, o Tribunal a quo deu provimento ao Agravo de Instrumento, interposto pelo ora agravado, ao fundamento de que, em observância à coisa julgada, o cálculo do Imposto de Renda incidente sobre as verbas recebidas acumuladamente, a título de URV, deve observar as tabelas e alíquotas vigentes à época em que deveriam ter sido pagas.
+III. Na forma da jurisprudência, "o cotejo de peças processuais não envolve qualquer análise jurídica, mas sim puramente fática, o que é vedado em sede de recurso especial, nos termos da Súmula 7/STJ" (STJ, AgRg no AREsp 682.099/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 25/10/2016).
+IV. Considerando-se a fundamentação do acórdão recorrido - no sentido de que os cálculos apresentados, para fins de Imposto de Renda, refletem a coisa julgada -, somente com o reexame do conjunto fático-probatório seria possível acolher a argumentação da parte recorrente, o que, efetivamente, encontra óbice na Súmula 7 do STJ.
+V. Os comentários do Tribunal de origem, a título de obiter dictum, não integram a fundamentação do acórdão recorrido, de modo que as razões recursais, tendentes a impugná-los, mostram-se irrelevantes e não merecem ser conhecidas, porquanto incapazes de ensejar a reforma do decisum.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.121.961/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 11/10/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. EMBARGOS A EXECUÇÃO. VIOLAÇÃO DA COISA JULGADA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. A revisão do julgado, de modo a acolher a pretensão recursal, no sentido de que houve violação aos limites objetivos e subjetivos da coisa julgada, demandaria, necessariamente, o revolvimento do acervo fático-probatório, inviável em recurso especial, nos termos da Súmula 7 desta Corte.
+2. Agravo interno não provido.
+(AgInt no AREsp 1.133.837/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2017)
+Considerando o previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios de 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
