@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA ACUSAÇÃO. INEXISTÊNCIA DOS VÍCIOS APONTADOS. ACOLHIMENTO PARA FINS DE PREQUESTIONAMENTO. IMPOSSIBILIDADE.
+1. Inviável o acolhimento dos embargos de declaração quando não houver na decisão embargada qualquer contradição, omissão, ambiguidade ou obscuridade a ser sanada.
+2. Ficou bem claro, no acórdão embargado, que é firme o entendimento, no Superior Tribunal de Justiça, de que o termo a quo para a contagem do prazo prescricional da pretensão executória é a data do trânsito em julgado para a acusação, na medida em que deve prevalecer a interpretação literal do art. 112, I, do Código Penal, por ser mais favorável ao réu.
+3. Esta Corte Superior possui entendimento pacificado quanto à impossibilidade de oposição dos embargos de declaração para fins de prequestionamento, quando não evidenciados os referidos vícios no julgado.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público de Santa Catarina ao acórdão de minha lavra, em que a Sexta Turma deste Superior Tribunalnegou provimento ao agravo regimental no habeas corpus, pelos fundamentos sintetizados na seguinte ementa (fl. 2002):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. TEMA PACIFICADO NESTA CORTE SUPERIOR.
+1. De conformidade com a literalidade do art. 112, I, do Código Penal, o termo inicial da contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação. Precedentes do STJ.
+2. A existência de precedentes do Supremo Tribunal Federal em sentido contrário não tem o condão de alterar o posicionamento pacífico deste Sodalício, a quem compete a uniformização da interpretação da legislação infraconstitucional, uma vez que se trata de decisão proferida pela maioria dos integrantes de apenas um dos órgãos fracionários do Pretório Excelso, que, embora tenha reconhecido a repercussão geral do tema no ARE n. 848.107 RG/DF, ainda não fixou seu entendimento sobre a questão (AgRg no HC n. 545.372/SP, Ministro Jorge Mussi, Quinta Turma, DJe 13/12/2019).
+3. Agravo regimental improvido.
+Aduz o recorrente queo acórdão embargado padece de omissão, pois deixou de interpretar o disposto no art. 112, I, do CP sob a ótica do art. 5º, II, XXXV e LVII, da CF, uma vez que a prescrição executória somente poderia ser computada a partir do momento em que era possível a execução da pena, que, no caso, somente passou a existir com o trânsito em julgado para ambas as partes(fl. 2.035).
+Assevera que, no caso, se deve considerar como termo inicial da prescrição da pretensão executória o dia 3/2/2018, que corresponde à data a partir da qual foi possível a execução do título judicial condenatório (dia do término do prazo para a interposição do último recurso admissível) - fl. 2.035.
+Citando precedentes da Primeira Turma do Supremo Tribunal Federal, assim como a submissão do julgamento do ARE n. 848.107/DF ao regime de repercussão geral, sustenta que o marco inicial do prazo da prescrição da pretensão executória coincide com a data em que é possível a execução do título judicial condenatório.
+Argumenta que,feitas todas essas considerações, torna-se evidente a necessidade de readequar o entendimento atualmente dado ao art. 112, I, do CP, que deve ser feito de forma sistemática com o texto constitucional e com a jurisprudência do STF, sob pena de grave violação aos princípios da legalidade, da inafastabilidade do Poder Judiciário e da presunção de inocência, previstos no art. 5º, II, XXXV e LVII, da CF (fl. 2037).
+Requer, assim,sejam acolhidos os embargos de declaração com o reconhecimento da omissão apontada, para afastar a extinção da punibilidade pela prescrição da pretensão executória(fl. 2.038).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA ACUSAÇÃO. INEXISTÊNCIA DOS VÍCIOS APONTADOS. ACOLHIMENTO PARA FINS DE PREQUESTIONAMENTO. IMPOSSIBILIDADE.
+1. Inviável o acolhimento dos embargos de declaração quando não houver na decisão embargada qualquer contradição, omissão, ambiguidade ou obscuridade a ser sanada.
+2. Ficou bem claro, no acórdão embargado, que é firme o entendimento, no Superior Tribunal de Justiça, de que o termo a quo para a contagem do prazo prescricional da pretensão executória é a data do trânsito em julgado para a acusação, na medida em que deve prevalecer a interpretação literal do art. 112, I, do Código Penal, por ser mais favorável ao réu.
+3. Esta Corte Superior possui entendimento pacificado quanto à impossibilidade de oposição dos embargos de declaração para fins de prequestionamento, quando não evidenciados os referidos vícios no julgado.
+4. Embargos de declaração rejeitados.
+VOTO
+Não obstante a opinião do embargante, ressalto ser incabível a oposição dos embargos de declaração para a rediscussão da tese jurídica discutida e aplicada pelo órgão julgador.
+Ora, a atual jurisprudência majoritária desta Corte Superior é firme em assinalar que o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado (AgRg no HC n. 449.208/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/2/2020).
+O acórdão embargado aplicou esse entendimento, deixando claro que o termo a quo para a contagem do prazo prescricional da pretensão executória é a data do trânsito em julgado para a acusação, na medida em que deve prevalecer a interpretação literal do art. 112, I, do Código Penal, por ser mais favorável ao réu, sobrepondo-se, portanto, a qualquer dispositivo constitucional que determine uma interpretação desfavorável ao condenado.
+Nesse sentido: AgRg no AREsp n. 1.405.242/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 16/3/2020; e EDcl no AgRg nos EDcl no AREsp n. 1.578.442/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 10/3/2020.
+Confira-se, ainda:
+EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE. INOVAÇÃO RECURSAL. INVIABILIDADE. JURISPRUDÊNCIA PACÍFICA. AUSÊNCIA DE OMISSÃO. SIMPLES INCONFORMISMO EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Não compete ao Superior Tribunal de Justiça o exame de matérias constitucionais no recurso especial, ainda que para fins de prequestionamento, por ser temática reservada à competência do Supremo Tribunal Federal.
+2. Não é possível, nos embargos declaratórios, promover inovações recursais incompatíveis com os limites do recurso especial interposto.
+3. O art. 112, inciso I, do Código Penal deve ser interpretado de maneira literal, de forma que o termo inicial para o cálculo da prescrição da pretensão executória é a data do trânsito em julgado da condenação para a acusação. O referido entendimento tem sido reafirmado de forma iterativa nesta Corte Superior tanto antes quanto após o julgamento proferido pelo Supremo Tribunal Federal no HC n. 126.292/SP.
+4. Embargos declaratórios rejeitados. (EDcl no AgRg no REsp n. 1.710.939/PB, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2018 - grifo nosso)
+Ressalte-se, ainda, que esta Corte Superior entende não ser possível a oposição dos embargos de declaração para fins de prequestionamentoquando não evidenciados os referidos vícios no julgado (EDcl no AgRg nos EDcl nos EREsp n. 1.003.429/DF, Ministro Felix Fischer, Corte Especial, DJe 17/8/2012).
+Ante o exposto, rejeito os embargos de declaração.
