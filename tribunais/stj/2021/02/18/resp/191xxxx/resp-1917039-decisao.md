@@ -1,0 +1,104 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MUNICÍPIO DE OLHO D"ÁGUA GRANDE, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+"TRIBUTÁRIO. EXECUÇÃO FISCAL. EMBARGOS À EXECUÇÃO FISCAL. JUNTADA DE CÓPIA DO PROCESSO ADMINISTRATIVO. DESNECESSIDADE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRESCRIÇÃO. NÃO CONFIGURAÇÃO. PEDIDO DE COMPENSAÇÃO. INTERRUPÇÃO DA PRESCRIÇÃO. AJUIZAMENTO DENTRO DO LUSTRO QUINQUENAL. PRESUNÇÃO DE CERTEZA E LIQUIDEZ DO TÍTULO. MULTA DE MORA. APLICABILIDADE. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. NÃO CABIMENTO.
+1.Apelações interpostas pela Fazenda Nacional e pelo Município Olho d"Água Grande/AL em face dasentença que julgou procedentes, em parte, os Embargos à Execução Fiscal para reconhecer a prescrição de parte dos créditos tributários consubstanciados nas CDA"s que embasaram o presente feito executivo.
+Em virtude da sucumbência mínima da Embargada, a Embargante foi condenada em honorários advocatícios, fixados em 5% (cinco por cento) do valor da causa, nos termos do art. 85, § 3º, III, do CPC.
+2.A Fazenda Nacional alega a inocorrência da prescrição da dívida com vencimento em 20/10/2011, ao argumento de que, em 20/05/2016, a Administração Tributária analisou um requerimento de compensação efetuado pelo Embargante, o que importaria na interrupção do prazo prescricional, uma vez que tal requerimento caracterizaria um ato inequívoco de reconhecimento do débito pelo devedor, nos termos do art. 174, parágrafo único, IV do CTN.
+3. OMunicípio também apelou, suscitando preliminar de cerceamento do direito de defesa, em face daausência de juntada do processo administrativo fiscal e documentos essenciais que deram origem ao débito. Defendeu a nulidade da CDA, visto que não teria atendido aos requisitos formais exigidos pela legislação de regência, bem como a inaplicabilidade da multa de mora entre pessoas jurídicas de direito público. Por fim, pediu que os honorários advocatícios fossem reduzidos, em observância ao princípio da proporcionalidade.
+4.Afastada a preliminar de cerceamento de defesa alegada pelo Município, considerando que não há previsão legal que imponha ao credor a obrigação de juntar com a certidão de dívida ativa a cópia do processo administrativo. Ademais, nos termos do art. 41 da Lei nº 6.830/80, poderia a própria Embargante obter diretamente, junto à Fazenda Pública, cópia do procedimento administrativo fiscal. (TRF5 - AC571788/CE, Rel. Desembargador Federal Paulo Machado Cordeiro (Convocado), Segunda Turma, Julgamento: 28/10/2014, Publicação: DJe 30/10/2014).
+5.Extrai-se dos autos que o crédito tributário foi constituído mediante lançamento por homologação em20/10/2011. Em 28/10/2011, a Fazenda Nacional alega que requereu a compensação do débito com supostos créditos de sua titularidade, o que teve o condão de interromper o lapso prescricional (art. 174, § único, do CTN), com a reabertura de novo prazo. Considerando que a notificação do acórdão administrativo definitivo se deu em junho de 2016, e o feito executivo fora ajuizado em 16/11/2016, não há que se falar em transcurso do prazo prescricional.
+6. A Certidão da Dívida Ativa reveste-se da presunção de liquidez e certeza, a teor do disposto no art. 3º,da Lei nº 6.830/80, e no art. 204, do Código de Processo Civil. Tal presunção legal só poderia ser afastada mediante prova cabal, capaz de descaracterizá-la, o que não ocorreu no caso em tela.
+7. Não demonstrado o alegado excesso de execução, na medida em que, por ser desnecessária a instruçãodo feito executivo com memorial descritivo de cálculos (REsp 1.138.202/STJ), o ônus da prova recai sobre o sujeito passivo da execução, do qual a Embargante não se desincumbiu.
+8. Quanto à cobrança da multa de mora, infere-se que o montante de 20% (vinte por cento) estáperfeitamente de acordo com o disposto no parágrafo 2º do art. 61 da Lei nº 9.430/96, não havendo qualquer norma que desonere as pessoas jurídicas de direito público de seu pagamento.
+9. O STJ, quando do julgamento do RESP 1.746.072/PR, publicado em 29/03/2019, entendeu que oCódigo de Processo Civil estabeleceu parâmetros objetivos para a fixação de honorários advocatícios, os quais necessariamente devem ser observados
+10.No caso, a sentença condenou a Embargante no percentual de 5% (cinco por cento) do inciso III do §3º do art. 85 do CPC, levando-se em conta que o valor atualizado da causa foi da ordem de R$ 3.066.774,38.
+11.Percentual mínimo aplicado de acordo com os limites impostos pelo referido dispositivo legalaplicável à causa em que a Fazenda Pública é parte, devendo, portanto, ser mantido.
+12.Apelação da Fazenda Nacional provida. Apelação do Município improvida.
+a cargo do Município, ficando majorado em 1% (um por cento) o percentual fixado na sentença, nos termos do art. 85, § 11, do CPC" (fls. 401/402e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aos arts. 174 do CTN e 85 do CPC/2015, sustentando o seguinte:
+"3.1. DA PRESCRIÇÃO DO CRÉDITO TRIBUTÁRIO.
+Ao analisar a demanda ajuizada em desfavor desta Edilidade é perceptível que parte das competências executadas padecem de exigibilidade, eis que foram alcançadas pelo lapso temporal da prescrição. Vejamos.
+De acordo com o art. 174 do CTN, a cobrança de crédito tributário prescreve em cinco anos, contados do momento em que se verificar sua constituição definitiva,"adlitteram":
+(..)
+Durante muito tempo, dado o laconismo do legislador, discutiu-se a acepção técnica da expressão "constituição definitiva". Com o passar do tempo, tornou-se pacífico entre a doutrina e a jurisprudência que o crédito em questão se torna definitivo a partir do momento em que o contribuinte é cientificado do lançamento do tributo.
+Ocorre que, em certas hipóteses, a autoridade fiscal está dispensada de promover o procedimento administrativo que redunda no lançamento. São os casos, por exemplo, dos tributos confessados pelo contribuinte através do cumprimento de obrigações acessórias, especialmente a entrega de declaração em favor do fisco (Declaração de Contribuições e Tributos Federais - DCTF e a Declaração de Informações Econômico-fiscais da Pessoa Jurídica).
+No caso de DCTF entregue e não recolhido o tributo e/ou contribuição, a entrega da Declaração já é o lançamento, iniciando-se de pronto a contagem do prazo prescricional. É a posição firmada pelo STF:
+(..)
+Em se tratando de Contribuição Previdenciária como é o caso dos autos, em que o lançamento também é por homologação, tal contribuição enquadra-se nos termos descritos pelo Supremo Tribunal Federal.
+(..)
+No específico caso ora enfrentado nos autos, não restam dúvidas de que a cobrança hostilizada tem como origem declaração/confissão de cunho da própria embargante. Neste sentido, basta observar que a autoridade fiscal registrou em sua certidão dívida ativa, mais especificamente no campo "forma de constituição o crédito", a expressão "DECLARAÇÃO".
+Nos termos do artigo 173 do Código Tributário Nacional:
+(..)
+Ora, como a citação da embargante somente foi ordenada em 30/01/2017, constata-se que fluíram mais decinco anos entre a constituição definitiva do crédito tributário e o fator que poderia interromper a respectiva prescrição, PARA AS COMPETÊNCIAS DE01/2011; 09/2011 e 01/2012 JÁ ESTÃO PRESCRITAS.
+Dessa forma, a teor do disposto no inciso V, do art. 156 do CTN, parte do crédito em cobrança encontra-se nitidamente extinto.
+3.2. DA IMPROPRIEDADE QUANTO A CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO. IMPOSSIBILIDADE DE VERIFICAÇÃO DA SUA LEGALIDADE E LEGITTIMIDADE. VÍCIO FORMAL. OFENSA AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E AMPLA DEFESA. ART. 5º, LV DA CF/88.
+(..)
+3.3.INAPLICABILIDADE DE MULTA ENTRE PESSOAS JURÍDICAS DE DIREITO PÚBLICO, POR INEXISTÊNCIA DE PODER DE POLÍCIA, SALVO QUANDO EXISTIR NORMA LEGAL AUTORIZATIVA EXPRESSA. PRECEDENTES DA JUSTIÇA FEDERAL E DO TRIBUNAL DE CONTAS DA UNIÃO.
+(..)
+3.4. DA CLARA AFRONTA AO ARTIGO 85 DO CPC/2015. DOS HONORÁRIOS. 6% (SEIS) POR CENTO DO VALOR DA CAUSA. VALOR EXORBITANTE PARA A FAZENDA PÚBLICA. NECESSIDADE DE REVISÃO. INAPLICABILIDADE DA SÚMULA 07 DO STJ.
+Insta salientar que a alteração realizada condenou a prefeitura de Olho Dágua Grande/AL, ao pagamento de verba honorária fixada em 5% sobre o sobre o valor da causa, e ainda foi acrescido 1%, em fase recursal.
+Nesse contexto é imprescindível evidenciar o valor da causa no importe de R$ 3.066.774,38 (**três milhões e sessenta e seis mil e setecentos e setenta e quatro reais e trinta e oito centavos**).
+Ora, havendo estipulado percentual de 6% sobre o valor da causa, e levando em consideração o valor acima não está atualizado, o montante dos honorários seria quantificado em R$ 184.006,46 (cento e oitenta e quatro ml e seis reais e quarenta e seis centavos), demonstrando claramente a irrazoabilidade do percentual fixado.
+Portanto, é necessária a modificação da supracitada decisão, pois a prevalência da decisão atacada provocará danos irreparáveis ao município recorrente, que passará a ser devedor dos honorários de sucumbência no percentual de 6% (seis por cento).
+Nos casos em que se discutem honorários exorbitantes, a apreciação do apelo especial é plenamente possível, rechaçando o disposto na súmula 07 do STJ.
+(..)
+Data maxima venia,apresenta-se, pois flagrantemente exorbitante o valor arbitrado a título de honoráriosadvocatícios no presente feito, importando, em verdade, em negativa de vigência ao princípio da razoabilidade.
+O município recorrente não possui condições financeiras de arcar com uma monta desse nível.
+Permanecer com a condenação é prejudicar de sobremaneira a saúde financeira da municipalidade, principalmente nesse momento de crise no país.
+Por tanto, revelou-se a patente a ofensa à legislação federal, principalmente ao artigo 85 do CPC, haja vista a estratosférica condenação em honorários do município recorrente a níveis desproporcionais em relação a complexidade da causa, sendo, inclusive, possível a reforma do julgado pelas cortes superiores quando o valor se mostrar excessivo ou irrisório.
+Diante do exposto, requer a revisão do julgado para reduzir a condenação dos honorários exorbitantes para um patamar razoável"(fls. 431/446e).
+Por fim, requer "seja conhecido o presente recurso pelo art. 105, inciso III, alínea "a", da CF/88 e que lhe seja dado provimento, para fins de reforma do acórdão ora hostilizado" (fl. 446e).
+Contrarrazões a fls. 491/498e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 508e).
+A irresignação não merece prosperar.
+Inicialmente, quanto ao art. 174 do CTN, para melhor elucidação, transcrevo a fundamentação do acórdão recorrido:
+" A sentença merece ser reformada, em parte.
+De início, analiso a alegação de inocorrência da prescrição da dívida com vencimento em 20/10/2011.
+Segundo o Código Tributário Nacional, em seu art. 174, " A ação para a cobrança do crédito tributárioprescreve em cinco anos, contados da data da sua constituição definitiva". Contudo, por se tratarem detributos sujeitos a lançamento por homologação, sedimentou-se na jurisprudência o entendimento segundo o qual o tributo considerar-se-á definitivamente constituído com a declaração apresentada ao fisco pelo contribuinte ou a data de vencimento do respectivo crédito, o que ocorrer por último.
+No caso, tem-se que o crédito tributário foi constituído mediante lançamento por homologação em 20/10/2011. Em 28/10/2011, a Fazenda Nacional alega que requereu a compensação do débito com supostos créditos de sua titularidade, o que teve o condão de interromper o lapso prescricional (art. 174, § único, do CTN), com a reabertura de novo prazo. Considerando que a notificação do acórdão administrativo definitivo se deu em junho de 2016, e o feito executivo fora ajuizado em 16/11/2016, não há que se falar em transcurso do prazo prescricional" (fl. 397e).
+Ao que se tem, tais fundamentos não foram impugnados pela recorrente, nas razões do Recurso Especial, tendo a parte se limitado a manifestar seu inconformismo com o resultado que lhe foi desfavorável, deixando de impugnar especificamente os fundamentos do acórdão objurgado. Portanto, verifica-se que as razões do recurso encontram-se dissociadas da fundamentação adotada pelo Tribunal de origem para solução da controvérsia, pelo que, na hipótese, são incidentes, por analogia, as Súmula 283 e 284 do STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. (..). ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. (..).
+(..)
+II - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+III - (..).
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido" (STJ: AgInt no AREsp 691.628/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 29/06/2016).
+"PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. FALTA DE FUNDAMENTAÇÃO. RAZÕES DISSOCIADAS. SÚMULAS N. 283 E 284 DO STF.
+1. (..).
+2. Incidem as Súmulas n. 283 e 284 do STF nos casos em que a parte recorrente deixa de impugnar a fundamentação do julgado, limitando-se a apresentar alegações que não guardam correlação com o decidido nos autos.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento" (STJ, RCD no AREsp 456.659/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 03/11/2015).
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. (..). FUNDAMENTO NÃO ATACADO. SÚMULAS 283 E 284/STF. (..)
+1. (..).
+2. "A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal." (AgRg no REsp 1507662/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015).
+3. Agravo regimental improvido" (STJ, AgRg no REsp 1.170.131/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 19/10/2015).
+Assim, à luz do princípio da dialeticidade, não basta à parte recorrente manifestar o inconformismo e a vontade de recorrer; precisa impugnar todos os fundamentos suficientes para sustentar o acórdão recorrido, demonstrando, de maneira discursiva, por que o julgamento proferido merece ser modificado.
+No que tange aos honorários advocatícios, tem-se que o Tribunal de origem manteve a verba fixada na sentença, asseverando que:
+"Por fim, também não merece guarida o pedido de redução dos honorários advocatícios.
+O STJ, quando do julgamento do RESP 1.746.072-PR, publicado em 29/03/2019, entendeu que o Código de Processo Civil estabeleceu parâmetros objetivos para a fixação de honorários advocatícios, os quais necessariamente devem ser observados.
+No caso, a sentença condenou a Embargante no percentual de cinco por cento do inciso III do § 3º do art.85 do CPC, levando-se em conta que o valor atualizado da causa foi da ordem de R$ 3.066.774,38.
+Assim, observa-se que o percentual mínimo foi aplicado de acordo com os limites impostos pelo referido dispositivo legal aplicável à causa em que a Fazenda Pública é parte, devendo, portanto, ser mantido.
+Forte nessas razões, dou provimento à Apelação da Fazenda Nacional e nego provimento à Apelaçãodo Município.Honorários recursais, a cargo do Município, ficando majorado em 1% (um por cento) opercentual fixado na sentença, nos termos do art. 85, §11, do CPC" (fl. 399e).
+Com efeito, "a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados de acordo com os parâmetros estampados nos incisos I a IV do § 2º e com os percentuais delimitados no § 3º do art. 85 do CPC/2015" (STJ, AgInt no REsp 1.740.865/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/08/2018).
+Ademais, consoante Enunciado Administrativo n. 7/STJ, "nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC". No mesmo sentido: "Nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, é possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do Código de Processo Civil de 2015" (STJ, EDcl no AgInt no AREsp 1.180.663/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 08/11/2018).
+Na mesma linha:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DECLARATÓRIA CUMULADA COM PEDIDO INDENIZATÓRIO. INSCRIÇÃO INDEVIDA. CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. SÚMULA N. 83/STJ. VALOR DA INDENIZAÇÃO. REVISÃO. DESCONSTITUIÇÃO QUE REQUER O REEXAME DE FATOS E DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS SUCUMBENCIAIS, OBSERVADOS OS LIMITES LEGAIS. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Não se mostra excessiva a majoração dos honorários sucumbenciais realizada na forma prevista no art. 85, § 11, do CPC/2015, observados os limites ali fixados.
+4. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.284.741/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 28/08/2018).
+No mais,inviável, em sede de Recurso Especial, a alegação de contrariedade em relação a dispositivos e princípios constitucionais, porquanto referida análise cabe somente ao Supremo Tribunal Federal, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Confira-se:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. (..). ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO PRETÓRIO EXCELSO. DISSÍDIO JURISPRUDENCIAL. RECORRENTE QUE NÃO APONTA O ARTIGO DE LEI FEDERAL. SÚMULA 284/STF.
+(..)
+3. Nos termos do artigo 105, inciso III, da Constituição Federal, este Superior Tribunal de Justiça em sede de recurso especial, seja pelo permissivo da alínea "a", seja pelo permissivo da alínea "c", tem a missão constitucional de uniformizar e interpretar a lei federal, não lhe competindo a análise de ofensa direta a dispositivo constitucional, ainda que para fins de prequestionamento, pena de usurpação da competência do Pretório Excelso.
+4. A falta de indicação do dispositivo de lei federal a que os acórdãos teriam conferido interpretação divergente evidencia deficiência na fundamentação recursal que impede o conhecimento do recurso especial ante à incidência do enunciado 284 da súmula do Supremo Tribunal Federal.
+5. Agravo regimental improvido" (STJ, AgRg no REsp 1.434.707/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 06/05/2015).
+Por fim, não podem ser conhecidas às alegações acerca da multa,tendo em vista que a parte deixou de indicar qualquer dispositivo legal apto a sustentar a referida tese, circunstância que atrai a aplicação, por analogia, da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+A propósito:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. ALÍNEAS "A" E "B" DO PERMISSIVO CONSTITUCIONAL. NÃO INDICAÇÃO DE QUALQUER ATO DE GOVERNO LOCAL CONTESTADO EM FACE DA LEGISLAÇÃO FEDERAL TAMPOUCO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+2. Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea "a" do permissivo constitucional, o que atrai a incidência da Súmula 284/STF.
+Agravo regimental improvido" (STJ, AgRg no AREsp 328.297/ES, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 28/06/2013).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e, nessa parte, nego-lhe provimento.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
