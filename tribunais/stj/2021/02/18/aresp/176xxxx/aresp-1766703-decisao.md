@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF/2015) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Goiásassim ementado (fls. 291-292, e-STJ):
+APELAÇÃO CÍVEL. EMBARGOS A EXECUÇÃO. EXECUÇÃO FISCAL. ALEGAÇÃO DE NULIDADE DA CDA E DE AUSÊNCIA DOS REQUISITOS LEGAIS. INOCORRÊNCIA. JUROS E CORREÇÃO MONETÁRIA DETALHADA NO TÍTULO. MULTA APLICADA PELO PROCON.COMPETÊNCIA. PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE OBSERVADOS.PENALIDADE MANTIDA CONFIRMAÇÃO DA SENTENÇA.
+1. Deve constar na certidão da dívida ativa o nome do devedor, o valor originário, o termo inicial, a forma de correção, o número do processo administrativo, os dispositivos legais referentes à origem do débito, a data e o número da inscrição na Dívida Ativa, nos termos dos artigos 2º, § 5º, II, segunda figura, da Lei n.6.830/80 e artigos 202 e 203 do CTN.
+2. A nulidade da Certidão somente poderá ser reconhecida quando a falta de algum de seus requisitos causar prejuízos à defesa do executado.
+3. O PROCON é competente para examinar a conduta do fornecedor ou prestador de serviço com a finalidade de verificar se ela está em contradição com as normas do Código de Defesa do Consumidor.
+Dessarte, possui competência para impor sanções administrativas quando verificada situação de desrespeito ao referido diploma, não consistindo tal proceder em invasão das atribuições do Poder Judiciário.
+4. A sanção administrativa prevista no art. 57 do Código de Defesa do Consumidor funda-se no Poder de Polícia - atividade administrativa de ordenação - que o Procon detém para cominar multas relacionadas à transgressão dos preceitos da Lei 8.078/1990, independentemente de a reclamação ser realizada por um único consumidor, por dez, cem ou milhares de consumidores.
+5. Aplicada a penalidade, ao Poder Judiciário não compete a análise do mérito do processo administrativo, devendo averiguar, tão somente, a legalidade de sua condução, em respeito ao princípio da separação dos poderes.
+6. Trata-se de Embargos à Execução opostos em desfavor do Município de Goiânia, objetivando a desconstituição do título que ampara a execução fiscal contra si promovida, Certidão de Dívida Ativa, e não ação anulatória.
+7. O valor estabelecido a título de multa atendeu aos parâmetros fixados em Lei, bem como foram respeitados os princípios da razoabilidade e da proporcionalidade, posto que a parte recorrente é empresa de grande porte, de modo que se fosse aplicado valor módico não se atingiria o objetivo de evitar que esta torne a desrespeitar as normas de defesa ao consumidor.
+8. Com efeito, in casu, não se verifica a desproporcionalidade no valor da totalidade da multa aplicada ao apelante.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Não foram opostos Embargos de Declaração.
+A parte agravante, nas razões do Recurso Especial, alega violação aoart. 203 do CTN e ao art. 2º, §§ 5º e 6º, da Lei 6.830/1980. Afirma, em síntese, que " ..  basta uma análise superficial da certidão de dívida ativa que lastreia o executivo fiscal para perceber que, os requisitos legais (=origem, natureza da dívida e fundamentação legal da dívida) não constam no título executivo, em especial, a fundamentação legal, pois, como posta na CDA, inviabiliza a compreensão da suposta infração ao Código de Defesa do Consumidor que serviu de base para aplicação da multa" (fl. 301, e-STJ).
+Foram apresentadas Contrarrazões (fls. 327-334, e-STJ).
+Contraminuta às fls. 357-364, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.1.2021.
+Cuida-se, na origem, de Embargos à Execução opostos pelo Banco Mercantil do Brasil, ora agravante, contra o Município de Goiânia, sob os argumentos de que a Certidão de Dívida Ativa - CDA é nula, pois não possui todos os requisitos legais, como a origem e a natureza da dívida e o fundamento legal.
+Ao desprover a Apelação interposta pelo banco, o Tribunal de origem consignou (fls. 283-284, e-STJ):
+Analisando a CDA que instrui a Ação de Execução Fiscal (evento n.01, dos autos n.5165075.65.2016.8.09.0051) percebo que esta preenche todos os requisitos legais, havendo indicação da quantia devida, correção monetária, juros de mora e multa, consta ainda a origem e a natureza do crédito isto acompanhado da respectiva Lei em embasa a sua cobrança e referência à data e número da inscrição.
+Enfatizo que a nulidade da Certidão somente poderá ser reconhecida quando a falta de algum de seus requisitos causar prejuízos à defesa do executado, o que não restou demonstrado in casu.
+ ..
+Por oportuno, acrescente-se que a eventual existência de vício em uma CDA, não permite a pronta extinção da execução fiscal, uma vez que a Súmula 392 do STJ determina que: "A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução." Em razão disso, ocorrendo algum vício, cabe ao magistrado franquear ao ente público exequente, a possibilidade de correção.
+Nessa linha de raciocínio, não há que se falar em nulidade da Certidão de Dívida Ativa - CDA.
+Como o trecho destacado atesta, a instância ordinária verificou que os requisitos da CDA foram preenchidos. Desse modo, para revisar o acórdão recorrido, a fim de examinar as condições dos arts. 202 do CTN e 2º, §§ 5º e 6º, da LEF, como defendido neste recurso, é necessário o revolvimento do acervo fático-probatório dos autos, o que é inviável emRecurso Especial, ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO INTERNO. REQUISITOS DA CDA. SÚMULA 7 DO STJ.
+1. Embargos de declaração recebidos como agravo interno, dado o caráter manifestamente infringente da oposição, observado o disposto no art. 1.024, § 3º, do CPC/2015.
+2. "Para verificar se a Certidão da Dívida Ativa - CDA, preenche ou não os requisitos essenciais à sua validade, torna-se necessária a incursão no conjunto fático-probatório dos autos. Incidência da Súmula 7/STJ" (AgInt no AREsp 917.381/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/9/2016).
+3. Embargos de declaração conhecidos como agravo interno, ao qual se nega provimento.
+(EDcl no AREsp 1039876/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/05/2017, DJe 15/05/2017)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. ICMS. DECADÊNCIA DA OBRIGAÇÃO TRIBUTÁRIA. TRIBUTO SUJEITO AO LANÇAMENTO POR HOMOLOGAÇÃO. FRAUDE PRATICADA PELO CONTRIBUINTE. TERMO INICIAL DO PRAZO. ARTIGO 173, I, DO CTN. PRECEDENTES. CERCEAMENTO DE DEFESA. INOVAÇÃO RECURSAL. ICMS-ST. BASE DE CÁLCULO. "CÁLCULO POR DENTRO". LEGALIDADE. AGRAVO NÃO PROVIDO.
+1. Quanto a alegada a decadência parcial da obrigação tributária a conclusão do acórdão recorrido está em harmonia com a jurisprudência desta Corte no sentido de que, nos casos de tributos sujeitos a lançamento por homologação em que ocorre pagamento antecipado a menor, havendo fraude, o prazo decadencial rege-se pelas disposições do art. 173, inciso I, do CTN, ou seja, será de 5 anos, contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.
+2. Este Tribunal possui entendimento assente no sentido de que a aferição do preenchimento ou não dos requisitos da CDA demanda análise do suporte fático-probatório dos autos, providência essa vedada nesta seara recursal, ante o óbice da Súmula 7/STJ.
+3. A tese relativa ao cerceamento de defesa por negativa de produção de provas não foi suscitada no recurso especial, caracterizando-se inovação recursal e tornando inviável a análise de matéria alegada apenas no âmbito de agravo interno.
+4. A jurisprudência desta Corte assevera que o ICMS integra a sua própria base de cálculo, sendo, portanto, legal a sistemática do "cálculo por dentro" para aferição da base de cálculo do ICMS, nos termos do art. 13, § 1º, I, da LC n. 87/96.
+5. Essa mesma regra aplica-se para o ICMS substituição tributária, pois ainda que não haja referência expressa quanto a inclusão do ICMS em sua base de cálculo na modalidade substituição, não se pode extrair desse fato interpretação diversa daquela prevista no artigo 13 da Lei Complementar 87/96, que ao estabelecer regra geral não foi excluída pelo artigo 8º da mesma lei (que regulamenta a substituição tributária).
+6. Agravo interno não provido.
+(AgInt no AREsp 1078194/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/09/2017, DJe 25/09/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VALIDADE DA CDA RECONHECIDA PELO TRIBUNAL LOCAL. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Sobre o atendimento dos requisitos legais de validade da CDA, assim se pronunciou a Corte local: "Com efeito, as certidões de fls.31/32 indicam com precisão a forma de cálculo do crédito exequendo, em total consonância aos requisitos previstos no artigo 2º, §§5º e 6º, da Lei nº 6.830/1980. Ressalte-se que a remissão aos índices e aos atos normativos é suficiente, sendo despropositada a pretensão de indicação de índices variáveis, que estão disponíveis para consulta on line em diversos sites oficiais, como o da Secretaria da Receita Federal e o do Banco Central" (fl. 149, e-STJ).
+2. Depreende-se da leitura do acórdão recorrido que foi com base nos elementos de provas arrolados nos autos que o Tribunal de origem concluiu não existir nulidade quanto ao atendimento dos requisitos legais necessários à Certidão de Dívida Ativa. Nesse caso, não há como alterar o entendimento sem que se reexamine o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional do STJ, encontra óbice em sua Súmula 7, cuja incidência é induvidosa no caso sob exame.
+3. Recurso Especial não conhecido.
+(REsp 1726534/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/04/2018, DJe 23/05/2018)
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
