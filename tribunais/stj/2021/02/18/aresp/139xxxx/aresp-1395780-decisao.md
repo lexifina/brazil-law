@@ -1,0 +1,66 @@
+DECISÃO
+1. Trata-se de agravo interposto por INPAR PROJETO 105 SPE LTDA EM RECUPERACAO JUDICIAL, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 687):
+Ação de rescisão de contratual, cumulada com pedido de tutela antecipada e devolução de valores pagos Contrarrazões com pleito de não conhecimento do recurso Fundamentação suficiente para atender ao requisito do artigo 932, inciso III, do Código de Processo Civil Matéria preliminar rejeitada Legitimidade passiva "ad causam" da corré Ápice Securitizadora configurada Responsabilidade solidária das requeridas Verificada a possibilidade jurídica do pedido Possibilidade de rescisão contratual e retenção de parte do montante pago pelos autores para custeio de despesas com publicidade e administração do empreendimento Incidência das Súmulas 1, 2 e 3 desta Corte de Justiça Montante retido que deverá ser mantido em 20% dos valores pagos Devolução deve se dar em uma única parcela Correção monetária a contar de cada desembolso Juros de mora a contar da citação Sentença mantida Recursos das requeridas Inpar e Ápice não providos.
+Nega-se provimento aos recursos das requeridas Inpar e Ápice
+Opostos embargos de declaração pelas corrés(fls. 745-747 e 759-761), foram rejeitados (fls. 751-757 e 762-767).
+Nas razões do recurso especial (fls. 770-785), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto no art. 1.022 do Código de Processo Civil, e arts. 25, 26 e 27, da Lei nº 9.514/1997.
+Em apertada síntese, além de apontar omissões no acórdão, sustenta que "em caso de rescisão por descumprimento contratual, como é o caso dos autos, incabível a restituição dos valores pagos, haja vista que o artigo 27 do mesmo Diploma Legal dispõe que a propriedade será convalidada em favor do credor fiduciário, o qual liquidará a dívida por meio de leilão".
+Contrarrazões ao recurso especial às fls. 808-822.
+É o relatório.
+DECIDO.
+2.Em relação à aplicação dos artigos 26 e 27 da Lei n. 9.514/1997, restou consignado no acórdão recorrido (fls. 692-695):
+Noticia a parte autora que firmou com a parte ré, instrumento particular de compromisso de compra e venda de imóvel, com pacto de alienação fiduciária, tendo como objeto a aquisição de fração ideal de terreno, correspondente à unidade autônoma n. 122, localizada na quadra nº 5, e as futuras acessões e benfeitorias que serão construídas no terreno. Sustenta que por motivos financeiros não podem suportar o pagamento das parcelas, razão pela qual pleiteiam arescisão contratual.
+Embora a parte ré sustente que, por se tratar de contrato de compra e venda de bem imóvel, com cláusula de alienação fiduciária, não pode impedir o consumidor de buscar a rescisão do contrato, sob pena de restar configurada a excessiva onerosidade do contrato ao consumidor.
+ ..
+Na hipótese dos autos, restou incontroverso o desejo da parte autora de rescindir o negócio. Conforme expressamente afirmado pelos postulantes em sua inicial, tal desejo se deu em razão de dificuldades financeiras. Portanto, de rigor a rescisão do contrato, cabendo à requerida restituir parte dos valores pagos.
+Neste contexto, a retenção de parte dos valores pagos é admitida segundo jurisprudência pacífica desta Corte de Justiça, conforme restou sedimentado nas Súmulas 1, 2 e 3 do Tribunal de Justiça de São Paulo, da Seção de Direito Privado:
+9 em poder da fiduciária e consequente solução mediante realização de leilão extrajudicial. Inaplicabilidade dos art.26 e 27 da Lei nº 9.514/ 97. Impossibilidade de sustentar a irretratabilidade ou a irrevogabilidade em desfavor do consumidor. Parte do preço pendente de pagamento. Propriedade ainda não está consolidada em benefício de nenhum dos contratantes.
+Incidência do art. 53 do CDC. Recurso improvido.
+Na hipótese dos autos, restou incontroverso o desejo da parte autora de rescindir o negócio. Conforme expressamente afirmado pelos postulantes em sua inicial, tal desejo se deu em razão de dificuldades financeiras. Portanto, de rigor a rescisão do contrato, cabendo à requerida restituir parte dos valores pagos.
+Neste contexto, a retenção de parte dos valores pagos é admitida segundo jurisprudência pacífica desta Corte de Justiça, conforme restou sedimentado nas Súmulas 1, 2 e 3 do Tribunal de Justiça de São Paulo, da Seção de Direito Privado:
+Súmula 1: O Compromissário comprador de imóvel, mesmo inadimplente, pode pedir a rescisão do contrato e reaver as quantias pagas, admitida a compensação com gastos próprios de administração e propaganda feitos pelo compromissário vendedor, assim como com o valor que se arbitrar pelo tempo de ocupação do bem;
+Súmula 2: A devolução das quantias pagas em contrato de compromisso de compra e venda de imóvel deve ser feita de uma só vez, não se sujeitando à forma de parcelamento prevista para a aquisição; e Súmula 3: Reconhecido que o compromissário comprador tem direito à devolução das parcelas pagas por conta do preço, as partes deverão ser repostas ao estado anterior, independentemente de reconvenção
+E também, de acordo com a Súmula 543, recentemente aprovada pelo Col. Superior Tribunal de Justiça, que prescreve:
+Súmula 543: Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento.
+A retenção de parte dos valores é justificada com fundamento no ressarcimento de despesas administrativas, uma vez que a rescisão do contrato causa a redução do fluxo de caixa, bem como a necessidade de devolução das parcelas pagas, o que onera todo o empreendimento, justificando a retenção.
+Ocorre que é assente perante este Superior Tribunal de Justiça que, em contrato de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deverá observar a forma prevista nos artigos 26 e 27 da Lei nº 9.514/97, a qual, por se tratar de legislação específica, afasta a aplicação do artigo 53 do CDC.
+Ademais, a lei em comento, por ser especial, sobrepõe-se à regra constante no artigo 53 do CDC inclusive nos casos em que descaracterizada a mora em decorrência do ajuizamento de ação de rescisão do contrato.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE IMÓVEL COM PACTO DE ALIENAÇÃO FIDUCIÁRIA. DESFAZIMENTO CONTRATUAL. LEILÃO EXTRAJUDICIAL.AUSÊNCIA DE LANCE NO SEGUNDO LEILÃO. CONSTITUIÇÃO EM MORA REGULAR.ART. 27, § 5º, DA LEI Nº 9.514/97. VIOLAÇÃO CONFIGURADA. LEGALIDADE DA ADJUDICAÇÃO EM FAVOR DO CREDOR FIDUCIÁRIO. DESNECESSIDADE DE EXAME DE MATÉRIA PROBATÓRIA. NÃO INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.RECURSO ESPECIAL PROVIDO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Cuida-se de ação de rescisão de contrato de promessa de compra e venda de imóvel com pedido de restituição de valores pagos, com pacto de alienação fiduciária em garantia.
+3. A jurisprudência do Superior Tribunal de Justiça já firmou entendimento no sentido de que, ocorrendo o inadimplemento de devedor em contrato de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deverá observar a forma prevista nos arts. 26 e 27 da Lei nº 9.514/97, por se tratar de legislação específica.
+4. Havendo leilão extrajudicial do imóvel e sendo frustrado o segundo, deve a dívida ser compulsoriamente extinta e as partes contratantes exoneradas das suas obrigações, ficando o imóvel com o credor fiduciário, conforme decidido no julgamento do REsp nº 1.654.112/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/10/2018, DJe 26/10/2018.
+5. Não incide a Súmula nº 7 desta Corte quando as razões recursais não ensejam reexame de provas.
+6. Agravo interno não provido.
+(AgInt no AgInt no REsp 1861293/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020)
+_____________
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. RESCISÃO DO CONTRATO. AUSÊNCIA DE INADIMPLÊNCIA. APLICAÇÃO DA LEI Nº 9.514/1997.CÓDIGO DE DEFESA DO CONSUMIDOR. NÃO INCIDÊNCIA. REGISTRO DO CONTRATO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS. PRESCINDIBILIDADE.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que, diante da incidência do art. 27, § 4º, da Lei 9.514/1997, que disciplina de forma específica a aquisição de imóvel mediante garantia de alienação fiduciária, não se cogita da aplicação do art.
+53 do Código de Defesa do Consumidor, em caso de rescisão do contrato por iniciativa do comprador, ainda que ausente o inadimplemento.
+2. A jurisprudência desta Corte Superior entende que não é necessário o registro do contrato garantido por alienação fiduciária no Cartório de Títulos e Documentos para que o pacto tenha validade e eficácia, visto que tal providência tem apenas o intuito de dar ciência a terceiros. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1689082/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020)
+______________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. LEI 9.514/1997. APLICAÇÃO. CÓDIGO DE DEFESA DO CONSUMIDOR, ART. 53. NÃO INCIDÊNCIA. DISSÍDIO JURISPRUDENCIAL. FALTA DE DEMONSTRAÇÃO. NÃO PROVIMENTO.
+1. "Nos contratos de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deve ocorrer nos termos dos arts. 26 e 27 da Lei n. 9.514/1997, afastando-se a regra genérica e anterior prevista no art. 53 do Código de Defesa do Consumidor" (AgInt no REsp 1750435/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/11/2018, DJe 22/11/2018).
+2. Não se pode conhecer de recurso especial interposto com fundamento no art. 105, III, "c", da Constituição Federal se, como no caso dos autos, não estiver demonstrado nos moldes dos arts.
+1.029, § 1º, do Código de Processo Civil/2015; e 255, parágrafos 1º e 2º, do RISTJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1633592/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020)
+______________
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE IMÓVEL COM PACTO ADJETO DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. AÇÃO DE RESCISÃO CONTRATUAL POR DESINTERESSE EXCLUSIVO DO ADQUIRENTE.VIOLAÇÃO DOS ARTS. 26 E 27 DA LEI Nº 9.514/97. NORMA ESPECIAL QUE PREVALECE SOBRE O CDC. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. "A Lei nº 9.514/1997, que instituiu a alienação fiduciária de bens imóveis, é norma especial e também posterior ao Código de Defesa do Consumidor - CDC. Em tais circunstâncias, o inadimplemento do devedor fiduciante enseja a aplicação da regra prevista nos arts.26 e 27 da lei especial". (AgInt no REsp 1.822.750/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 18/11/2019, DJe 20/11/2019).
+2. Agravo interno não provido.
+(AgInt no REsp 1742902/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/10/2020, DJe 26/10/2020)
+______________
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSOS SIMULTÂNEOS. NÃO CONHECIMENTO DO POSTERIOR. PRINCÍPIO DA UNIRRECORRIBILIDADE. INOVAÇÃO RECURSAL. INADMISSIBILIDADE. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. INADIMPLÊNCIA. ARTS. 26 E 27 DA LEI N. 9.514/1997. DECISÃO MANTIDA.
+1. Pelo princípio da unirrecorribilidade, as decisões judiciais devem ser impugnadas por meio de um único recurso. No caso concreto, os embargos de declaração não devem ser admitidos, visto que opostos posteriormente ao agravo regimental.
+2. Não há como conhecer de teses suscitadas apenas no agravo regimental por força da preclusão consumativa e por impossibilidade de inovação recursal.
+3. A Lei n. 9.514/1997, que instituiu a alienação fiduciária de bens imóveis, é norma especial e também posterior ao Código de Defesa do Consumidor - CDC. Em tais circunstâncias, o inadimplemento do devedor fiduciante enseja a aplicação da regra prevista nos arts. 26 e 27 da lei especial.
+4. Agravo regimental improvido e embargos de declaração não conhecidos.
+(AgRg no AgRg no REsp 1172146/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/06/2015, DJe 26/06/2015)
+Portanto, encontrando-se o acórdão do Tribunal de origem em desconformidade com esse entendimento, merece reforma.
+3. Ante o exposto, conheço do agravo e dou provimento ao recurso especial, para determinar que a quitação da dívida e apuração de eventual saldo em favor da parte autora observe as regras dispostas nos artigos 26 e 27 da Lei nº 9.514/97.
+Prejudicadas as demais alegações.
+Publique-se. Intimem-se.
