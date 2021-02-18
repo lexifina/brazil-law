@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte (fl. 329, e-STJ):
+ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. PERÍODO ENTRE O CÁLCULO INICIAL DE EXECUÇÃO E A DATA DA REQUISIÇÃO OU DO PRECATÓRIO. JUÍZO DE RETRATAÇÃO.
+O Pleno do STF, em sessão realizada na data de 19/04/2017, proferiu julgamento aprovando a tese de repercussão geral de nº 96, no sentido de que "incidem os juros de mora no período compreendido entre a data da realização dos cálculos e da requisição ou do precatório".
+Os Embargos de Declaração foram rejeitados nos seguintes termos (fl. 346, e-STJ):
+EMBARGOS DECLARATÓRIOS. ARTIGO 1.022 DO NCPC.CONTRARIEDADE À TESE.
+1. A decisão embargada enfrentou a questão de forma clara e suficientemente fundamentada, expressando o entendimento desta Turma.
+2. Há, no caso, contrariedade ao entendimento proferido pela Turma e os aclaratórios são cabíveis apenas em caso de omissão, obscuridade ou contradição. Em síntese, a contrariedade à tese não enseja efeitos infringentes.
+O recorrente sustenta, nas razões do Recurso Especial, que ocorreu, além dedivergência jurisprudencial, violação dos arts. 489, 502, 503, 505, 508e 1.022 do Código de Processo Civil/2015.
+Pleiteia a reforma do "r. acórdão, para que se reconheça a devida incidência de juros de mora até o efetivo pagamento da divida em respeito à coisa julgada formada no titulo executivo judicial." (fl. 375, e-STJ)
+Contrarrazões às fls. 415-424, e-STJ.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 434, e-STJ).
+É orelatório.
+Decido.
+A irresignação merece prosperarem parte.
+Trata-se, na origem,de Agravo de Instrumento contra decisão proferida em execução de sentença contra a Fazenda Pública, referente à existência de saldo remanescente de juros de mora para o período após a apresentação da conta inicial de execução (fl. 325, e-STJ).
+O Tribunal de origemproveu o Agravo de Instrumentopara adequação da decisão agravada à tese 96/STF, consoante a qual incidem os juros de mora no período compreendido entre a data da realização dos cálculos e da requisição ou do precatório.
+Constata-se, inicialmente, que não se configura ofensa aos arts. 489e 1.022 do CPC/2015, porquanto o Tribunala quojulgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+In casu, fica claro que não há vícios a serem sanados e que os Aclaratórios veiculam mero inconformismo com o conteúdo da decisão embargada, que foi desfavorável à recorrente.
+Recorde-se, ademais, que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Precedentes: AgInt nos EDcl no AREsp 1.290.119/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 30.8.2019; AgInt no REsp 1.675.749/RJ, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 23.8.2019; REsp 1.817.010/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 20.8.2019; AgInt no AREsp 1.227.864/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20.11.2018.
+No mais, a questão de ser devida, ou não, a incidência de juros moratórios no período compreendido entre a data da elaboração do cálculo do precatório ou da Requisição de Pequeno Valor (RPV) e seu efetivo pagamento teve repercussão geral reconhecida pelo Supremo Tribunal Federal, nos autos do Recurso Extraordinário 1.169.289/SC, daRelatoria do Ministro Marco Aurélio, em 15/3/2019 (Tema 1.037).
+Entretanto, ao decidir que, "em relação ao período após a data da expedição da requisição, desde que realizado o pagamento do crédito em consonância com o prazo fixado na Constituição Federal, a não incidência de juros de mora entre a data da expedição do precatório e a do efetivo pagamento não ofende a coisa julgada" (fls. 342-343, e-STJ), a Corte Federal destoou da jurisprudência do STJ, pois"a Corte Especial do STJ pacificou entendimento de que, em face da coisa julgada, deve prevalecer o comando expresso na sentença exequenda que determinou a incidência dos juros moratórios até o efetivo e integral pagamento do precatório." (STJ, AgRg nos EREsp 1.104.790/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 22.10.2009). Nesse mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. SALDO REMANESCENTE. JUROS DE MORA. INCIDÊNCIA ATÉ O DEPÓSITO DA INTEGRALIDADE DA DÍVIDA. COISA JULGADA. OBSERVÂNCIA. PRECEDENTES.
+1. O Supremo Tribunal Federal, reconhecendo a repercussão geral da matéria, fixou tese nos seguintes termos: "Incidem os juros da mora no período compreendido entre a data da realização dos cálculos e a da requisição ou do precatório" (RE n. 579.431/RS).
+2. Havendo, porém, determinação para que os juros de mora incidam até o efetivo pagamento, como evidenciado no caso concreto, esta Corte firmou a compreensão de que, em respeito à coisa julgada, deve prevalecer o comando expresso na sentença exeqüenda que determinou a incidência dos juros moratórios até o efetivo e integral pagamento do precatório. Precedentes.
+3. Agravo interno não provido(AgInt no REsp 1.605.139/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 22/05/2020).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. EXECUÇÃO. JUROS DE MORA. INCIDÊNCIA ENTRE AS DATAS DA REALIZAÇÃO DOS CÁLCULOS E DA REQUISIÇÃO OU DO PRECATÓRIO. RE 579.431/RS. IMPOSSIBILIDADE. PRECLUSÃO.
+1. Inexiste contrariedade ao art. 1.022 do CPC/2015 quando o acórdão recorrido fundamenta claramente seu posicionamento, de modo a prestar a jurisdição que lhe foi postulada.
+2. Não é possível o descumprimento da decisão exequenda quando o seu comando determina a incidência dos juros de mora até o efetivo pagamento do precatório ou RPV, mesmo à luz do julgamento proferido pelo STF no RE 579.431/RS, em razão da coisa julgada. Precedentes. 3.
+A mesma lógica deve ser aplicada ao caso, em que pretende a parte, mediante segundo agravo de instrumento, a aplicação da tese firmada no Tema 96/STF. Tendo a questão sido definitivamente decidida nos autos em momento anterior, descabida a renovação da controvérsia, ante a ocorrência da preclusão.
+4. Recurso especial a que se dá parcial provimento apenas para restabelecer o indeferimento do pedido de requisição complementar em respeito a coisa julgada(REsp 1.800.724/AL, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 11/12/2019).
+Neste contexto, em respeito à coisa julgada, deve prevalecer o comando do título executivo. Na mesma linha:EdCl no REsp 1.818.275/RS, Rel. MinistraAssusete Magalhães, Segunda Turma, DJe de 1º.6.2020; e EdCl no REsp 1.903.881/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 10.12.2020.
+Diante do exposto,conheço parcialmente do Recurso Especial e, nessa parte, dou-lhe parcial provimentoa fim de restabelecer os critérios de incidência dos juros de mora definidos no título judicial.
+Publique-se.
+Intimem-se.
