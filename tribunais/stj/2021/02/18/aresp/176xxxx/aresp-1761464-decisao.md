@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - CAUTELAR DE EXIBIÇÃODE DOCUMENTOS - PRELIMINAR DE FALTA DE INTERESSE REJEITADA - DIREITO DO COOPERADO PREVISTO NO ESTATUTO DA COOPERATIVA - RECURSO CONHECIDO E DESPROVIDO.
+1. No que se refere a suposta falta de interesse processual, muito embora a apelante alegue que não se negou a fornecer os documentos pleiteados, também informa no próprio apelo que impôs ao apelado certas condições, tais como esclarecer a finalidade e respectivo fundamento legal, restando, pois, configurada a negativa de entrega voluntária. Daí que a rejeição da preliminar suscitada é medida que se impõe.
+2. Em sendo o apelado cooperado, a este assiste o direito de requerer a exibição de documentos referentes à cooperativa, conforme previsto no Estatuto.
+Alegou-se, no especial, violação dos artigos 79, 80, 330, III, e 485, IV e VI, do Código de Processo Civil sob o argumento de que o autor litiga de má-fé e que não tem interesse de agir, porquanto não houve recurso ilegítimoao fornecimento dos documentos solicitados pelo cooperado à cooperativa recorrente.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal concluiu, "no que se refere a suposta falta de interesse processual, muito embora a apelante alegue que não se negou a fornecer os documentos, também informa no próprio apelo que impôs ao apelado certas condições, tais como esclarecer a finalidade e respectivo fundamento legal.
+Daí que, como bem destacado pela juíza da causa, restou configurada a negativa de entrega voluntária, e, inclusive, a incongruência na resposta fornecida pela apelante ao apelado (f.16), pois, num primeiro momento informa que o requerente poderia ser responsabilizado pelo uso indevido dos documentos solicitados, em outro aduz que esses mesmos documentos teriam sido aprovados em assembleia e arquivados na JUCEMS" (e-STJ, fl. 286).
+A questão, como se vê, foi decidida à luz dos elementos informativos do processo, cujo reexame encontra os óbices de que tratam os enunciados n. 5 e 7 da Súmula desta Casa.
+A alegada litigância de má-fé não foi, por fim, examinada pelo Tribunal local, a par de também depender de incursão na prova dos autos, a atrair os verbetes n. 282 da Súmula do Supremo Tribunal Federal e211 e 7 desta Casa.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
