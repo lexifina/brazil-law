@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+ACIDENTÁRIA - EXPEDIENTE DA PRESIDÊNCIA - ANTERIOR ACÓRDÃO PROFERIDO POR ESTA CÂMARA COM A SEGUINTE EMENTA:
+ACIDENTE DO TRABALHO. BENEFÍCIO ACIDENTÁRIO. LESÕES NOS OMBROS.PRESENTES NEXO CAUSAL-CONCAUSAL E REDUÇÃO PERMANENTE DA CAPACIDADE LABORATIVA, O TRABALHADOR FAZ JUS AO AUXÍLIO-ACIDENTE.
+CONCESSÃO A PARTIR DO DIA SEGUINTE AO DA CESSAÇÃO DO ÚLTIMO AUXÍLIO-DOENÇA ACIDENTÁRIO.
+PRESCRIÇÃO QUINQUENAL. PREJUDICADA.
+JUROS DE MORA CONTADOS DA CITAÇÃO, DE FORMA ENGLOBADA ATÉ ELA E, DEPOIS, DE MODO DECRESCENTE, MÊS A MÊS, COM BASE NOS ÍNDICES APLICÁVEIS À CADERNETA DE POUPANÇA -, EM RAZÃO DO ADVENTO DA LEI Nº 11.960/2009. APLICAÇÃO A PARTIR DA RESPECTIVA VIGÊNCIA. PREVALÊNCIA DA ALUDIDA NORMA, POSTO QUE NO JULGAMENTO DA ADI Nº 4.357 PELO E. STF. NÃO FOI DECLARADA A INCONSTITUCIONALIDADE DAS DISPOSIÇÕES CONTIDAS NA LEI Nº 11.960/2009 E NA EMENDA CONSTITUCIONAL Nº 62/2009 ACERCA DO TEMA - JUROS DA MORA IGUAIS AO DA POUPANÇA.
+CORREÇÃO MONETÁRIA. ATUALIZAÇÃO DAS PRESTAÇÕES EM ATRASO. ÍNDICE APLICÁVEL:IGP-DI MESMO APÓS JANEIRO DE 2004 ATÉ O CÁLCULO DE LIQUIDAÇÃO. DEPOIS DEVERÁ SER UTILIZADO O IPCA-E, EM FACE DO ENTENDIMENTO JÁ CONSOLIDADO PELO C.STJ, QUALIFICADO, INCLUSIVE, O CASO, COMOREPETITIVO E REPRESENTATIVO DE CONTROVÉRSIA. APURAÇÃO, TODAVIA, DA RENDA MENSAL A SER IMPLANTADA, PELOS ÍNDICES PREVIDENCIÁRIOS. LEI Nº 11.960/09.INCONSTITUCIONALIDADE DECLARADA PELO E. STF NA ADI Nº 4.357.
+HONORÁRIOS DE ADVOGADO DE 15%, INCIDINDO SOBRE AS PRESTAÇÕES VENCIDAS ATÉ A PROLAÇÃO DA SENTENÇA, COM BASE NA SÚMULA 111 DO E. STJ.BENEFÍCIO CONCEDIDO SOB A ÉGIDE DA LEI Nº 9.528/97. REEXAME NECESSÁRIO. OBRIGATORIEDADE. APELAÇÃO DA AUTARQUIA E RECURSO ADESIVO DO AUTOR IMPROVIDOS. RECURSO DE OFÍCIO PARCIALMENTE ACOLHIDO, COM OBSERVAÇÃO.".
+INTERPOSIÇÃO DE RECURSO ESPECIAL CONTRA O ACÓRDÃO - DEVOLUÇÃO DOS AUTOS PELA E.PRESIDÊNCIA DA SEÇÃO DE DIREITO PÚBLICO PARA ADEQUAÇÃO OU MANUTENÇÃO.
+ART. 1.040, II, DO N.C.P.C. - RECURSO ESPECIAL Nº 1.492.221/PR (Tema 905) - Índice da poupança aplicável para os juros moratórios, mas não para a correção monetária, que deve ser substituído, aplicando-se o INPC a partir da vigência da Lei nº 11.430/2006 ao invés do IGP-DI - Adequação parcial do acórdão recorrido.
+A parte recorrente afirma que foram violados osarts. 5º da Lei 11.960/2009, que deu nova redação ao art. 1º-F da Lei 9.494/1997, 27 da Lei 9.868/1999,31 da Lei 10.741/2003,41-A da Lei 8.213/1991, com redação dada pela Lei 11.430/2006, e 1.035, § 1º, do CPC/2015. Aduz:
+O v. aresto recorrido determinou a concessão de beneficio acidentário, e no que diz respeito aos consectários legais, deixou consignado que as parcelas a serem apuradas devem ser corrigidas pelo IGP-DI até a data da futura conta de liquidação, e após pelo IPCA-E, afastando expressamente a aplicação daLei 11.960/09 sob o argumento de que a mesma foi declarada inconstitucional pela Corte Suprema nos autos da ADI 4753.
+(..)
+Cabe observar que no E. STJ é pacifico o entendimento de que após o ano de 2006 o índice de correção monetária para pagamento dos débitos previdenciários em atraso a ser utilizado é o INPC, conforme pode ser conferido nos recentes julgados (..)
+Assim, demonstrada ofensa à legislação federal, sendo certo que o v. aresto recorrido também está em confronto com a jurisprudência dessa E. Corte Superior sobre a matéria, o INSS requer e aguarda que o presente Recurso Especial seja conhecido e provido, com a reforma do v. aresto recorrido para determinar a aplicação, para fins de correção monetária do débito, o índice INPC a partir do advento da Lei 11.430/2006, bem como a TR como índice de atualização das parcelas em atraso a partir da Lei nº 11.960/2009, excluindo-se a aplicação do IGP-DI nos moldes determinados pelo v. acórdão recorrido.
+É o relatório.
+Decido.
+O acórdão recorrido merece parcial reforma para que a correção monetária sobre a condenação seja de acordo com a fixada pela jurisprudência do STJ, representada pelo julgado abaixo:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO ACIDENTÁRIO. JUROS DE MORA E ÍNDICE DE CORREÇÃO MONETÁRIA. ART. 1º-F DA LEI 9.494/1997 COM A REDAÇÃO DADA PELA LEI 11.960/2009. CONDENAÇÃO DE NATUREZA PREVIDENCIÁRIA. OBSERVÂNCIA DOS RECURSOS ESPECIAIS REPETITIVOS 1.495.146/MG, 1.495.144/RS E 1.492.221/PR.
+1. A questão a ser revisitada diz respeito à incidência do art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, sobre a condenação imposta à Fazenda Pública previdenciária.
+2. A Primeira Seção do STJ concluiu o julgamento dos Recursos Especiais submetidos ao regime dos Recursos Repetitivos, que tratam da questão relativa à aplicabilidade do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, em relação às condenações impostas à Fazenda Pública, independentemente de sua natureza, para fins de atualização monetária, remuneração do capital e compensação da mora REsp 1.495.146/MG, REsp 1.495.144/RS e REsp 1.492.221/PR, todos da Relatoria do Ministro Mauro Campbell Marques.
+3. Para o presente caso, isto é, condenações judiciais de natureza previdenciária, incide o INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art. 41-A na Lei 8.213/1991. No período anterior à vigência da Lei 11.430/2006, devem ser aplicados os índices previstos no Manual de Cálculos da Justiça Federal.
+4. No tocante aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança, consoante art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009.
+5. Recurso Especial do INSS provido.
+(REsp 1.864.707/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/05/2020, DJe 25/06/2020)
+Na mesma linha: REsp 1.873.341/SP, Rel. Ministro HERMAN BENJAMIN, DJe2/6/2020.
+Ante o exposto, dou parcial provimento ao Recurso Especial, nos termos da fundamentação acima.
+Publique-se.
+Intimem-se.
