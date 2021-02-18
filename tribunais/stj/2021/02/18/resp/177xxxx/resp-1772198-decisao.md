@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Recurso Especial interposto contra acórdão assim ementado:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL LIQUIDADA. HONORÁRIOS ADVOCATÍCIOS FIXADOS EM PERCENTUAL RAZOÁVEL. MANUTENÇÃO. RECURSO IMPROVIDO. DECISÃO UNÂNIME. 1. Registrou-se que ao ser citada, a executada apelada promoveu com o pagamento do débito fiscal, sendo imediatamente extinto o processo com a condenação da mesma na carga de sucumbência questionada, a qual, considerando o valor devido no caso concreto, encontra-se dentro de critérios de razoabilidade, remunerando condignamente o serviço prestado. 2. Apelo improvido. 3. Decisão unânime.
+A parte recorrente alega violação do art. 85 do CPC/2015. Afirmaquea recorrida deve ser condenada ao pagamento dos honorários advocatícios em 10% (dez por cento), nos termos do art. 85 e seus parágrafos do novo CPC, devendo-se ainda alertar quanto à necessidade de observância do § 8º do referido artigo, caso o valor da causa seja irrisório.
+Sem contrarrazões.
+É o relatório.
+Decido.
+O acórdão recorrido consignou:
+Segundo o entendimento consolidado pela Primeira Seção do Superior Tribunal de Justiça, em julgamento pelo rito previsto artigo no artigo 543-C do Código de Processo Civil, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade" (REsp 1155125, rel. Min. Castro Meira, DJe de 06/04/2010), e por uma questão de isonomia, este raciocínio deve ser aplicado igualmente em sentido contrário, em especial em demandas singelas como nesta que ora se revisa voluntariamente, uma vez que, ao ser citada, a executada, apelada, promoveu com o pagamento do débito fiscal, sendo imediatamente extinto o processo com a condenação da mesma na carga de sucumbência questionada, a qual, considerando o valor devido no caso concreto, encontra-se dentro de critérios de razoabilidade, remunerando condignamente o serviço prestado. (fl. 86, e-STJ)
+Conforme se depreende do trecho acima transcrito, a alteração do que foi decidido no acórdão impugnado, que levou em consideração as peculiaridades do caso concretopara fixar os honorários sucumbenciais, dentro dos critérios da razoabilidade, em razão da baixa complexidade da causa e de ter sido o feito extinto em virtude do pagamento integral do débito fiscal, exige o reexame de fatos e provas, o que é vedado em Recurso Especial pela Súmula 7/STJ.
+Por tudo isso, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
