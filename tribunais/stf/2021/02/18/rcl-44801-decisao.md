@@ -1,0 +1,57 @@
+Decisão: Trata-se de reclamação constitucional com pedido de medida liminar, proposta pelo Município de João Dourado/BA, contra acórdão do Tribunal de Justiça do Estado da Bahia, nos autos do Processo 8013710-38.2020.8.05.0000, ementado nos seguintes termos:
+    “AGRAVO DE INSTRUMENTO. DIREITO ADMINISTRATIVO. CONSTITUCIONAL. MANDADO DE SEGURANÇA. ARGUIÇÃO DE 'CONSTITUCIONALIDADE'. REJEITADA. SERVIDOR APOSENTADO PELO INSS E OCUPANTE DE CARGO PÚBLICO EFETIVO NO MUNICÍPIO DE JOÃO DOURADO. POSSIBILIDADE DE ACUMULAÇÃO DESDE QUE O TEMPO E AS CONTRIBUIÇÕES PARA A APOSENTADORIA VOLUNTÁRIA NÃO DECORRAM DO VÍNCULO PÚBLICO MUNICIPAL ESTATUTÁRIO. EXONERAÇÃO DO CARGO PÚBLICO. VACÂNCIA NÃO AUTOMÁTICA. DETERMINAÇÃO DE REINTEGRAÇÃO. AGRAVO INTERNO PREJUDICADO. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO”. (eDOC 4, p. 292) (Grifei)
+    Na petição inicial, alega-se, em síntese, que a decisão reclamada teria incorrido em ofensa à Súmula Vinculante 10, ao afastar a incidência do disposto no artigo 39, inciso III, e no art. 167 da Lei 395/2009 do Município de João Dourado/BA.
+    Sustenta que o Tribunal reclamado embora “não tenha declarado expressamente a inconstitucionalidade da norma inscrita no art. 39, inciso III, c/c art. 167 da Lei nº 395/2009 do Município de João Dourado-BA (prevendo a aposentadoria pelo RGPS do servidor público municipal como hipótese de vacância do cargo), afastou, no entanto, a sua incidência ao argumento de que a referida norma legal contraria o disposto no §10 do art. 37 da Constituição Federal de 1988”. (eDOC 1, p. 4)
+    Segue afirmando que “[n]o entender do órgão fracionário, esta disposição constitucional garante ao servidor público municipal o ‘direito de percepção de proventos da inatividade cumulado com salários provenientes de fontes pagadoras distintas (...)’, ainda que ocupando o mesmo cargo no qual se aposentou”. (eDOC 1, p. 4)
+    Requer assim a concessão de liminar para suspender os efeitos do acórdão reclamado e, ao final, sua cassação, “determinando que o aludido órgão fracionário submeta a questão da (in)constitucionalidade da norma municipal (art. 39, III, c/c art. 167 da Lei 395/2009) ao órgão competente (Tribunal Pleno) e/ou prolate nova decisão, desta vez observando o conteúdo do referido verbete sumular”. (eDOC 1, p. 12)
+    A autoridade reclamada deixou de prestar informações (eDOC 22).
+    Citado, o beneficiário Edvaldo Souza Bispo deixou de apresentar contestação.
+    É o relatório.
+    Dispenso a remessa dos autos à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (RISTF, art. 52, parágrafo único).
+    Decido.
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade das suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (§3º, art. 103-A, do texto constitucional).
+    Confira-se a disciplina processual civil sobre o remédio constitucional:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III – garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+    IV – garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência. (…)”.
+    Além disso, a jurisprudência da Corte é no sentido de que os atos reclamados, nos casos em que se sustenta desrespeito à autoridade da decisão do Supremo Tribunal Federal, devem se ajustar, com exatidão e pertinência, aos julgamentos proferidos por esta Corte indicados como paradigma.
+    Na espécie, alega o reclamante que o acórdão do Tribunal de Justiça do Estado da Bahia violou o enunciado da Súmula Vinculante 10 desta Suprema Corte ao afastar a aplicação do art. 39, III, e do art. 167, da Lei Municipal 395/2009, em entendimento nos seguintes termos:
+    “Cinge-se a controvérsia na possibilidade de reintegração do Agravado no quadro de servidores públicos municipais, sob o argumento de que a sua aposentadoria voluntária pelo Regime Geral de Previdência Social (INSS) não gera vacância do cargo público que ocupava junto ao Município ora Agravante.
+    Em princípio, destaca-se que o Agravo de Instrumento é um recurso secundum eventum litis, logo, deve o Tribunal limitar-se apenas ao exame do acerto, ou desacerto, da decisão atacada, no aspecto da legalidade, uma vez que ultrapassar seus limites, ou seja, perquirir sobre argumentações meritórias, ou matérias de ordem pública, não enfrentadas na decisão recorrida, seria antecipar o julgamento de questões não apreciadas pelo juízo de primeiro grau, o que importaria na vedada supressão de instância.
+    Deste modo, no tocante à apreciação da concessão de tutela de urgência, vislumbro que estavam presentes os requisitos para sua concessão pelo juízo primevo, tendo em vista que, nos termos do art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+    Com efeito, os servidores municipais estão inseridos no Regime Geral da Previdência Social, e, neste regime, regido pela Lei n.º 8.213/91, não é vedada a acumulação do benefício da aposentadoria voluntária com salário de atividade exercida, nos moldes do seu art. 124.
+    (...)
+    In casu, opção do servidor/agravado se aposentar de maneira voluntária pelo regime do INSS não gera, de forma automática, a vacância do cargo, tendo em vista não se tratar de aposentadoria concedida pelo Município/Agravante, nem de complementação de proventos, não existindo, portanto, elementos que viabilizam a manutenção da exoneração do agravado e por conseguinte, alteração da decisão judicial ora guerreada.
+    Isso porque, a hipótese está a autorizar a aplicação da regra prevista art. 37, §10, da Carta Magna, que veda apenas a percepção simultânea de vencimentos com os proventos decorrentes dos arts. 40, 42 e 142 todos da Constituição Federal, in verbis:
+    (…)
+    Desta maneira, a proibição de cumular, estratificada pela Constituição da República (art. 37, § 10 e art. 40, § 6.º), refere-se a proventos de aposentadoria decorrentes do Regime Próprio de Previdência Social (RPPS), não se aplicando, assim, ao caso dos autos, onde a acumulação é com proventos de aposentadoria pelo Regime Geral de Previdência Social (RGPS).
+    (…)
+    Assim, prevalece o entendimento de que a aposentadoria voluntária pelo regime geral da previdência não provoca a automática vacância do cargo ocupado pelo servidor público, tendo em vista que os proventos de aposentadoria não serão custeados pelo ente público.
+    Ainda que se argumente que no Município de João Dourado não há regime próprio de previdência social e os servidores que entrarem para a inatividade a partir do serviço público, terão seus proventos despendidos pelo INSS, se a aposentadoria voluntária do servidor computou o tempo de trabalho e contribuições em vínculo diverso do que ainda ocupa no Município de João Dourado, será possível a cumulação.
+    E, em se tratando de análise de cognição sumária, não havendo como se apurar neste recurso, se efetivamente o agravado vinha exercendo sua função nos quadros da municipalidade e estava contribuindo para o RGPS, sobrevindo, a tempo e modo, a possibilidade de aposentadoria voluntária, é plausível acautelar a situação jurídica do servidor, sobretudo por se tratar de cargo de provimento efetivo”. (eDOC 4, pp. 297-300) (Grifei)
+    A legislação municipal supostamente afastada, em parte ou no todo, pelo Tribunal de origem, tem a seguinte redação:
+    “Art. 39°. A vacância do cargo público decorrerá de:
+    I – exoneração ou demissão;
+    II - readaptação;
+    III – aposentadoria;
+    IV - falecimento;
+    V – posse em outro cargo.” (eDOC 6, p. 3)
+    “Art. 167°. Os servidores públicos do Município de João Dourado serão beneficiários do regime Geral de Previdência Social implantado pela Lei n°8.213, de 24.10.91, e administrado pelo Instituto Nacional da Seguridade Social, INSS, do Ministério da Previdência e Assistência Social, a cujo regime se vinculará como segurados obrigatórios, assegurando-se-lhes, dentre outros, os seguintes direitos:
+    I. Vinculação à Previdência Social regida pelos princípios e objetivos estabelecidos no art. 2° da Lei N° 8.123, de 24.07.91;
+    II. Prestações compreendidas no art. 18 da Lei N° 8.123, de 24.07.91;
+    III. Extensão dos benefícios do Regime Geral da Previdência Social aos seus dependentes (art. 16 da Lei n° 8.123/91)”. (eDOC 6, p. 11)
+    Pois bem.
+    A partir do cotejo da norma municipal e do texto constitucional suscitado na exordial, verifico que a autoridade reclamada conferiu interpretação que resulta no esvaziamento da eficácia do citado dispositivo, sem declaração de sua inconstitucionalidade, por meio de seu órgão fracionário (Segunda Câmara Cível do TJBA). Assim, vislumbra-se a violação ao artigo 97 da Constituição Federal, cuja proteção é reforçada pela Súmula Vinculante 10 do STF, que assim dispõe:
+    “Viola a cláusula de reserva de plenário (CF, artigo 97) a decisão de órgão fracionário de tribunal que, embora não declare expressamente a inconstitucionalidade de lei ou ato normativo do poder público, afasta sua incidência, no todo ou em parte”.
+    Isso porque a interpretação conforme à Constituição que limita ou restringe conteúdo normativo deve ser aplicada mediante o correto método de controle de constitucionalidade que, na via difusa, dar-se-á pelo respeito à cláusula de reserva de plenário, podendo tal solução tão somente advir do órgão especial ou pleno da Corte.
+    Na espécie, ao reintegrar, ainda que precariamente, o beneficiário ao cargo que ocupava antes da sua exoneração, entendo que o Tribunal de origem afrontou o enunciado vinculante deste STF ao aduzir que não há vedação constitucional à acumulação de vencimentos e proventos oriundos do Regime Geral de Previdência Social (RGPS), regime esse que rege os servidores municipais de João Dourado/BA.
+    Reforço que o posicionamento desta Suprema Corte é de não coadunar-se com leis supostamente inconstitucionais ou incompatíveis. Todavia, diante da presunção de constitucionalidade das normas do ordenamento jurídico pátrio, é preciso que as Cortes regionais observem o procedimento devido para o julgamento de (in)constitucionalidade, pela via difusa, ou para o afastamento, em parte ou no todo, do conteúdo legislativo, respeitando a cláusula de reserva de plenário e as normas processuais civis quanto ao incidente de arguição de inconstitucionalidade (art. 948 e seguintes do CPC).
+    Desse modo, entendo que, ao afastar a aplicação da norma do inciso III do art. 39, c/c art. 167, da Lei Municipal 395/2009, o Tribunal reclamado viola a autoridade da Súmula Vinculante 10.
+    Ante o exposto, confirmo a liminar anteriormente deferida para cassar o acórdão proferido no Processo 8013710-38.2020.8.05.0000, determinando que outro seja proferido, nos termos da jurisprudência desta Corte.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
