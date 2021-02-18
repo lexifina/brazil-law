@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+MANDADO DE SEGURANÇA. ADMINISTRATIVO. ENSINO SUPERIOR. MATRÍCULA SEM APRESENTAÇÃO DE CERTIFICADO DE CONCLUSÃO DO ENSINO MÉDIO. CURSO TÉCNICO.
+Tratando-se de curso integrado, onde realizados simultaneamente o ensino médio e o ensino profissionalizante, desnecessária a conclusão do estágio profissionalizante - exigência dirigida ao exercício profissional na área específica - para matrícula no ensino superior, nos termos da Súmula 29 desta Corte.
+Os Embargos de Declaração foram rejeitados (fl. 249-250, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 489, § 1º, III e IV, e 1.022 do Código de Processo Civil; dos arts. 3º, I, 36-B, I, 36-C, I, 36-D, 44, II, 51, 53, I, II e IV, e 54, § 1º, da Lei 9.394/1996; doart. 7º da Lei 11.892/2008 e dos arts. 4º, § 1º, I, e 7º, parágrafo único, do Decreto 5.154/2004, sob o argumento:
+Versa o presente feito, em síntese, acerca da viabilidade jurídica (matéria unicamente de direito) da realização de matrícula em Curso de Graduação do Ensino Superior de estudante que não concluiu o Ensino Médio ou Equivalente (fato incontroverso - não incidindo à espécie o óbice previsto no enunciado da Súmula 07 do Superior Tribunal de Justiça - STJ ), no caso, Curso Técnico de Nível Médio integrado ao Ensino Médio, pendendo de realização componente curricular obrigatório.
+De se relembrar, inclusive, que o próprio Recorrido admite, na exordial, o fato de que, quando da matrícula no Curso Superior, ainda estava cursando o estágio profissionalizante, integrante do currículo do Curso Técnico de Nível Médio integrado ao Ensino Médio.
+Sem contraminuta (fl. 357, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.1.2021.
+Preenchidos os pressupostos de admissibilidade do presente Agravo, passo ao exame do Recurso Especial.
+Preliminarmente, constato que não se configurou a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/8/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/6/2007.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal Regional não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, melhor sorte não assiste à parte insurgente.
+A jurisprudência do STJ entende que "não se mostra razoável (..) vincular a emissão de certificado de conclusão do ensino médio ao estudante que, aprovado nas disciplinas regulares e no vestibular, opta por não obter o certificado profissional, ao deixar de cursar o estágio profissionalizante" (REsp 1681607/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 1º/10/2018).
+Dessa forma, o cumprimento da grade disciplinar do curso técnico realizado de forma integrada com o ensino médio autoriza o estudante a obter o certificado de conclusão do curso de ensino médio, embora não o autorize a obter o certificado para exercício profissional.
+A propósito:
+RECURSO ESPECIAL. ADMINISTRATIVO. MANDADO DE SEGURANÇA, COM PEDIDO DE LIMINAR, OBJETIVANDO A EXPEDIÇÃO DE CERTIFICADO DO ENSINO MÉDIO PARA FINS DE MATRÍCULA EM CURSO UNIVERSITÁRIO. EDUCAÇÃO PROFISSIONAL TÉCNICA INTEGRADA AO NÍVEL MÉDIO. CUMPRIMENTO DA GRADE DISCIPLINAR. ESTÁGIO PROFISSIONALIZANTE. EMISSÃO DE CERTIFICADO PARA EFEITO DE MA(..)
+II. O ensino técnico, constitui um adicional na educação do estudante, cuja obtenção da habilitação profissional pressupõe a conclusão do estágio profissionalizante, ou seja, a atividade laborativa só poderá ser exercida com a conclusão da grade curricular e da respectiva prática supervisionada.
+III. Não se mostra razoável, entretanto, vincular a emissão de certificado de conclusão do ensino médio ao estudante que, aprovado nas disciplinas regulares e no vestibular, opta por não obter o certificado profissional, ao deixar de cursar o estágio profissionalizante. O princípio da razoabilidade preconiza que as exigências administrativas devem ser aptas a cumprir os fins a que se destinam; sendo assim, o estudante que atende as exigências da grade curricular referente às disciplinas do ensino médio, mas livremente opta por não obter o certificado técnico-profissional, ao não cumprir o estágio profissionalizante, não pode ser punido com a negativa de expedição do certificado de conclusão do segundo ciclo da educação básica.
+IV. O cumprimento da grade disciplinar do curso técnico realizado de forma integrada com o ensino médio autoriza o estudante a obter o certificado de conclusão do curso de ensino médio, embora não o autorize a obter o certificado para exercício profissional.
+V. Recurso Especial a que se dá provimento.
+(REsp 1681607/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 01/10/2018)
+Diante do exposto, conheço do Agravo para negar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
