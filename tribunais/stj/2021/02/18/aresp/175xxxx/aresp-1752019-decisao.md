@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdãoassim ementado:
+CONSTITUCIONAL. CIVIL. EMBARGOS INFRINGENTES. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESPONSABILIDADE OBJETIVA DO ESTADO. FORAGIDO DA JUSTIÇA. FUGA. TIRO NA PERNA E NO PÉ. CONDUTA ILÍCITA NÃO DEMONSTRADA. ESTRITO CUMPRIMENTO DO DEVER LEGAL. DANOS NÃO CONFIGURADOS. ACÓRDÃO MANTIDO. EMBARGOS INFRINGENTES CONHECIDOS E DESPROVIDOS.
+I. Os autos versam sobre indenização por danos moral e material, sob alegação de responsabilidade do Estado do Maranhão pela morte do filho da autora, ora embargante, pois os fatos se deram por ato de agentes públicos.
+II. Nos termos do art. 37, § 6º, o Estado tem responsabilidade objetiva, pelos danos que causar a terceiro, pressupondo tão somente a demonstração da conduta ilícita, nexo causal e dano.
+III. A análise detida dos autos demonstra que o filho da embargante era foragido da justiça (fl. 70) e, no dia 10/11/1999, a guarnição da Polícia Militar, ao empreender perseguição na tentativa de prendê-lo, disparou doistiros em sua direção, com mira nas suas pernas, mas veio a falecer em virtude dos ferimentos (fls. 70 e 103).
+IV. As informações juntadas decorrer instrução processual demonstram que o agente públicoagiu agiu em conformidade com a injusta agressão e em seguida adotou todas as providências necessárias para garantir a vida do filho da embargante, levandoem conta q e os disparos foram efetuados na coxa e no pé, com intuitoapenas imobilizar e não matar.
+V. Assim, restou comprovado nos autos não haver excesso na conduta do policial, pois agiu no cumprimento do e rito dever legal uma vez que osdisparos foram efetuados para imobilizar o indivíduo no momento da fuga de modo que este, ao praticar o ato (fugir), levou o policial a agir de modo contrário ao esperado, porém dentro do previsto em situações dessa natureza.
+VI. Deve ser mantido o entendimetno da maioria dos membros da Terceira Câmara Cível no sentido de afastar a responsabilidade civil do Estado pela morte do filho da embargante, vez que não restou demonstrada a existência de conduta ilícita por parte do policial militar.
+VII. Embargos infringentes conhecidos e desprovidos.
+A parte recorrente alega que os arts. 43 e 927 do CC foram violados. Aduz:
+O acordão combatido torna inconteste, que a morte de Josivaldo Gomes Fontes decorreu de ação policial, estando caracterizado o dano e o nexo de causalidade entre o fato e a ação estatal, independentemente do questionamento acerca da culpa.
+(..)
+Com efeito, o excesso na conduta dos policiais não pode ser negado, porquanto, embora tentasse o filho da requerente fugir, no momento dos disparos estava desarmado, cercado, em frente a um policial armado que, sob o pretexto de imobilizar, disparou e o fez por 02(duas) vezes. Não errou o primeiro tiro, mas continuou disparando, a ponto de lesionar tão gravemente (atingiu a artéria femural), que ocasionou o óbito.
+Vale destacar o diz o inquérito: não houve comprovação de qualquer tipo de reação violenta por parte do filho da autora. Ainda assim, o policial atingiu-o com um disparo de arma de fogo na perna esquerda (fis. 75).
+(..)
+In casu, ficou bem demonstrado todos os elementos da responsabilidade objetiva do Estado: a) a conduta: ação desproporcional do agente público ao desferir dois disparos de arma de fogo que atingiram Jocivaldo Gomes Pontes; b) o dano: a recorrente sofreu inestimável dano com o falecimento do seu filho; c) nexo de causalidade: a morte do filho da recorrente somente ocorreu em face da ação desproporcional do poder público diante de evidente excesso de poder por parte do agente policial.
+É o relatório.
+Decido.
+Ao decidir a controvérsia, o Tribunala quoconsignou (fls. 542-543):
+A análise detida dos autos demonstra que o filho da embargante, Jocivaldo Gomes Fontes, vulgo Negro Graúna, era foragido da justiça (fl. 70) e, no dia 10/11/1999, a guarnição da Polícia Militar (integrada pelos 3º Sgt PM José Ribaamr Prisca da Silva, SD PM José Edilson Pontes Alves e SD PM Moizés dos Santos Abreu), ao empreender perseguição na tentativa de prendê-lo, disparou dois tiros em sua direção, com mira nas suas pernas, mas veio a falecer em virtude dos ferimentos (fls. 70 e 103).
+Conforme consignado no voto vencedor, não há dúvida de que a morte do filho da embargante decorreu de atuação policial, "(..) a caracterizar o nexo de causalidade entre o evento danoso e ação estatal praticada por meio de seus agentes, e que a responsabilidade civil do Estado independe do elemento culpa diante de sua natureza objetiva" (AC nº 034268/2014, Des. Cleones Carvalho Cunha, fl. 336). No entanto, o Estado não responde se presente, como no caso em análise, excludente de responsabilidade.
+As informações juntadas no decorrer na instrução processual demonstram que o agente público agiu em conformidade com a injusta agressão e em seguida adotou todas as providências necessárias para garantir a vida do filho da embargante, levando em conta que os disparos foram efetuados na coxa e no pé, com o intuito de apenas imobilizar e não matar.
+(..)
+Assim, restou comprovado nos autos não haver excesso na conduta do policial, pois agiu no cumprimento do estrito dever legal, uma vez que os disparos foram efetuados para imobilizar Jocivaldo Gomes Pontes no momento da fuga de modo que este, ao praticar o ato (fugir), levou o policial a agir de modo contrário ao esperado, porém dentro do previsto em situações dessa natureza.
+É inviável analisar a tese defendida no Recurso Especial de que presentes os requisitos exigidos para responsabilização do Estado, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido em sentido contrário ao defendido. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Ante o exposto, nego provimento ao Agravo.
+Publique-se.
+Intimem-se.
