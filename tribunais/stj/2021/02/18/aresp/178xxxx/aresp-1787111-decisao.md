@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELITE MOTORS COMÉRCIO DE VEÍCULOS LTDA - ME e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+AÇÃO DECLARATÓRIA CUMULADA COM CONSIGNAÇÃO EM PAGAMENTO LOCAÇÃO DE IMÓVEL DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA EMPRESAS QUE TIVERAM SEUS PATRIMÔNIOS ESVAZIADOS E QUE FORAM ENCERRADAS IRREGULARMENTE ESPECIALMENTE APÓS A DETERMINAÇÃO DE PENHORA DO FATURAMENTO DA SUCESSORA DA DEVEDORA INICIAL ABUSO CARACTERIZADO REQUISITOS DO ARTIGO 50 DO CÓDIGO CIVIL PREENCHIDOS AGRAVO DE INSTRUMENTO PROVIDO
+Quanto à controvérsia, alega violação do art. 50, do CC, no que concerne à desconsideração da personalidade jurídica, no presente caso, trazendo os seguintes argumentos:
+O pedido de desconsideração da personalidade jurídica formulado pelos Recorridos fundamentou-se exclusivamente no fato das empresas terem sido encerradas irregularmente.
+Tal fundamento, por si só, não autoriza o deferimento da desconsideração, já que não preenche os requisitos exigidos pelo art. 50 do Código Civil.
+Como se vê, o Acórdão recorrido viola frontalmente o art. 50 do Código Civil, já que desconsidera a personalidade jurídica da sociedade empresarial, sem a mais mínima prova de qualquer desvio de finalidade ou confusão patrimonial.
+É importante ressaltar que o V. Acórdão recorrido contraria o entendimento pacífico deste Egrégio Superior Tribunal De Justiça, que somente admite a desconsideração da personalidade jurídica de sociedade empresarial diante da existência de prova concreta de fraude ou abuso (fl. 64).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Afirmam os agravantes que as provas dos autos demonstram o abuso da personalidade jurídica das agravadas. Não se trata de mera irregularidade administrativa nem de simples inadimplência contratual, mas de ações fraudulentas e lesivas praticadas por anos pelo sócio administrador delas.
+Elas respondem a inúmeras ações judiciais, reveladoras das fraudes e lesões praticadas contra consumidores e credores, mas seu sócio leva vida de luxo e ostentação graças ao desvio de finalidade e de receitas das agravadas.
+O desvio de finalidade foi demonstrado pelo encerramento irregular da empresa, pela sua subcapitalização material qualificada e pela confusão patrimonial havida entre as empresas agravadas e seu sócio.
+O abuso da personalidade jurídica ficou evidente por conta da paralização das atividades da agravada Elite Park logo após a autorização da penhora sobre seu fluxo de caixa.
+Houve esvaziamento patrimonial proposital das agravadas. Após a transferência de todo o fundo de comércio para uma empresa individual de responsabilidade limitada, a empresa sucessora não foi encerrada regularmente. Por isso deve ser reconhecida a confusão patrimonial e a fraude contra os credores (fls. 42/43).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
