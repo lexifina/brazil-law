@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Estrutural Franca Empreendimentos Imobiliários Ltda., com fundamento no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 123):
+CONSUMIDOR. PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DISTRATO. CULPA EXCLUSIVA DO PROMITENTE VENDEDOR. COMISSÃO DE CORRETAGEM. DEVOLUÇÃO. RESTITUIÇÃO DAS PARTES AO STATUS QUO ANTE. ALEGADA IMPOSSIBILIDADE DE REVISÃO DO DISTRATO. REJEIÇÃO. RELAÇÃO REGIDA PELO CÓDIGO DE DEFESA DO CONSUMIDOR. MANUTENÇÃO DO EQUILÍBRIO CONTRATUAL. PRECEDENTES, APELO CONHECIDO E DESPROVIDO.
+Nas razões do apelo especial (e-STJ, fls. 132-155), a recorrente alegou a violação do art. 489 do Código de Processo Civil de 2015.
+Sustentou, em síntese, a ausência de fundamentação; a falta de prova que comprove as alegações do pedido autoral quanto ao pagamento dos serviços de comissão de corretagem pelos recorridos; e a inexistência de ilegalidade em repasse ao adquirente o pagamento desse serviço.
+Foram apresentadas contrarrazões (e-STJ, fls. 160-164).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a inexistência de violação do art. 489 do CPC/2015; e a incidência das Súmulas n. 7 e 83 do STJ (e-STJ, fls. 166-170).
+Brevemente relatado, decido.
+Consoante análise dos autos, o Tribunal de origem, ao julgar a apelação, consignou o seguinte (e-STJ, fls. 125-129):
+Cinge-se o objeto recursal em perquirir o acerto da sentença quando da condenação da incorporadora ré na obrigação de restituir aos autores a quantia dispendida, a titulo de comissão de corretagem, em virtude de distrato da avença por culpa da promitente-vendedora.
+Incontroverso nos autos que as partes firmaram um contrato de compra e venda de Imóvel. em 27.01.2012. tendo por objeto urna unidade autônoma do empreendimento Inova Home Place, a ser edificado na cidade de Pamamirim/RN.
+Da mesma forma, resta claro que a empresa ré desistiu do empreendimento. tendo as partes firmado distrato aos 29.01.2013. no montante de R$ 24.037,11 (vinte e quatro mil, trinta e sete reais e onze reais), que. contudo. não previu a restituição dos valores dispendidos pelos promitentes-compradores a titulo de comissão de corretagem.
+Pois bem.
+Evidenciada a desistência do empreendimento e. consequente, culpa da empresa demandada pela rescisão do contrato, as coisas devem voltar ao seu statu quo ante e. uma vez demonstrado nos autos o repasse pelos promitentes compradores de valor atinente à comissão de corretagem (fl. 34) e havendo a rescisão do contrato por culpa exclusiva da requerida, como anteriormente afirmado, deve haver a devolução da quantia paga a titulo de comissão de corretagem.
+(..)
+Em suma. o caso dos autos não se trata de distrato ou de resolução por culpa do promitente comprador, mas de inadimplemento imputável de forma exclusiva à promitente vendedora, que deixou de entregar o imóvel no prazo estabelecido contratualmente, e rescindiu indevidamente o contrato. devendo esta suportar o ressarcimento pertinente à comissão de corretagem.
+Ademais, não há que se falar em ausência de comprovação do dispêndio dos referidos valores, pois, conforme valorou o magistrado sentenciante: "Constata-se que o pagamento da comissão de corretagem era pressuposto do contrato de compra e venda, logo, para a perfectibilizarão deste havia a pressuposição da prestação de serviço por um corretor, o qual faz jus à remuneração."
+Destaque-se, por fim, que indene de dúvidas que a relação jurídica estabelecida por contrato de promessa de compra e venda de imóvel entre a empresa incorporadora do empreendimento e o promissário comprador. destinatário final do bem. é de consumo. por se enquadrarem as partes nos conceitos de consumidor e fornecedor previstos no Código de Defesa do Consumidor.
+Nesse sentido, dispõe o art. 51, IV. do diploma consumerista que são nulas as cláusulas que coloquem o consumidor em desvantagem exagerada. e que se mostram em confronto com a boa-fé e a equidade, razão pela qual a arguição de impossibilidade de revisão da cláusula de quitação geral do distrato deve ser afastada.
+Reg istre-se que o acórdão recorrido foi devidamente fundamentado, não havendo falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp n. 1.584.831/CE, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+A hipótese dos autos não trata acerca da abusividade da transferência de encargos ao consumidor (Tema n. 938), mas de inadimplemento da promitente vendedora que ensejaram a rescisão do contrato.
+Em casos análogos ao dos autos, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem.
+Corrobora esse entendimento o seguinte julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. COMPRA E VENDA DE IMÓVEL. NEGÓCIO JURÍDICO NÃO CONCLUÍDO POR CULPA EXCLUSIVA DA PROMITENTE-VENDEDORA. RESTITUIÇÃO DE VALORES QUE ENGLOBA A COMISSÃO DE CORRETAGEM. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1."Resolvido o contrato de promessa de compra e venda de imóvel por inadimplemento do vendedor, é cabível a restituição das partes ao status quo ante, com a devolução integral dos valores pagos pelo comprador, o que inclui a comissão de corretagem" (EDcl no AgInt no AREsp 1.220.381/DF, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 20/11/2019).
+2. Estando a decisão recorrida em consonância com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp n. 1.602.066/DF, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 4/5/2020, DJe 18/5/2020).
+Por fim, reverter a conclusão do Colegiado originário, que concluiu pela existência de pagamento de comissão de corretagem, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. OMISSÃO. NÃO OCORRÊNCIA. ARTS. 1º, VII, DA LEI N. 4.864/65; 63 DA LEI N. 4.591/64. NÃO PREQUESTIONAMENTO. SÚMULA 282/STF. RESCISÃO. DEVOLUÇÃO DOS VALORES PAGOS. CULPA EXCLUSIVA DA AGRAVANTE. PRESCRIÇÃO. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. DEVIDA. REANÁLISE. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. PRAZO PRESCRICIONAL. INÍCIO. LESÃO DO DIREITO. PROMITENTE VENDEDORA. LEGITIMIDADE AD CAUSAM. ENTENDIMENTOS ADOTADOS NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciados 283 e 284 da Súmula/STF.
+4. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.598.854/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 1º/6/2020, DJe 5/6/2020).
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem para 20% sobre o valor da condenação.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AUSÊNCIA DE AFRONTA AO ART. 489 DO CPC/2015. RESCISÃO DO CONTRATO. CULPA DA PROMITENTE VENDEDORA. RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
