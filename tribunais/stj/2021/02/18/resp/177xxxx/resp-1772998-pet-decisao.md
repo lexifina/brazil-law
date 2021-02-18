@@ -1,0 +1,16 @@
+DECISÃO
+Vistos etc.
+Por meio da petição de fls. 455/474, o BANCO DO BRASIL S/A requereu a suspensão do processo em razão do reconhecimento, pelo Supremo Tribunal Federal, da repercussão geral do debate relativo à constitucionalidade do art. 16 da Lei 7.347/1985, segundo o qual a sentença na ação civil pública fará coisa julgada "erga omnes", nos limites da competência territorial do órgão prolator (Tema 1.075), nos autos do Recurso Extraordinário n.º 1.101.937/SP.
+É o breve relatório.
+Passo a decidir.
+Em decisão publicada no DJe de 22.04.2020, o Relator do RE 1.101.937/SP, Ministro Alexandre de Moraes, com base no art. 1.035, § 5º, do Código de Processo Civil, decretou a suspensão do processamento de todas as demandas pendentes que tratem da limitação geográfica dos efeitos da sentença proferida em ação civil pública em tramitação no território nacional.
+Contudo, ao acolher embargos de declaração para prestar esclarecimentos, em decisão divulgada no DJe de 06.05.2020, o Ministro Alexandre de Moraes destacou que:
+" ..  é permitido aos órgãos julgadores decidir a incidência do art. 16 da Lei 7.347/1985, desde que a fundamentação seja alheia aos argumentos colocados em jogo neste leading case. Exemplificativamente: a alegação é intempestiva, ou preclusa".
+In casu, não se vislumbra a necessidade de suspensão do processo para aguardar a decisão sobre a constitucionalidade do art. 16 da Lei 7.347/1985, uma vez que essa matéria não tem o condão de influenciar no deslinde da controvérsia, ainda que esse dispositivo legal tenha sido suscitado pela parte nas razões do recurso especial.
+Isso porque a ação sob exame trata do cumprimento individual da sentença proferida na ação civil pública n. 1998.01.1.016798-9 , em relação a qual a questão referente à abrangência territorial dos efeitos da sentença já foi decidida por este Superior Tribunal de Justiça com base na coisa julgada formada na fase de conhecimento dessa demanda coletiva específica, o que constitui fundamentação alheia à matéria que será debatida na apreciação do Tema 1075 pelo STF.
+Com efeito, a questão foi analisada por esta Corte Superior no julgamento do Recurso Especial n. 1.391.198/RS (DJe de 02/09/2014), submetido ao rito dos recursos representativos de controvérsia, no qual foi firmada a seguinte tese (Tema 723/STJ):
+"A sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva nº 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu
+domicílio ou no Distrito Federal".
+Portanto, não há razão para determinar o sobrestamento do processo.
+Ante o exposto, com base no art. 1.037, §12, inciso I, do Código de Processo Civil, indefiro o pedido, reconhecendo a distinção da hipótese dos autos em relação ao Tema 1.075/STF edeterminando o regular prosseguimento do processo.
+Intimem-se.
