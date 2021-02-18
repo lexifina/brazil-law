@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por JUNTO SEGUROS S.A., a decisão de minha lavra, que, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheceu do Agravo para não conhecer do Recurso Especial da FUNDAÇÃO PARA O DESENVOLVIMENTO DA EDUCAÇÃO.
+Sustenta a parte embargante a existência de omissão eis que"houve fixação de honorários sucumbenciais no Acórdão do TJ-SP, em 2º grau (doc. 01. anexo) ao apreciar recurso de agravo de instrumento interposto contra a decisão de primeira instância. O acórdão reconheceu a prescrição do caso e pôs fim ao processo, efetivamente fixando honorários advocatícios" (fl. 237e).
+Por fim, requer o acolhimento dos Embargos Declaratórios, "a fim de reconhecer a omissão da decisão monocrática embargada, majorando-se os honorários sucumbenciais fixados em grau recursal anterior" (fl. 3.586e).
+Intimada, a parte embargada deixou transcorrer in albis o prazo para apresentação de Impugnação(fl. 248e).
+Os Embargos de Declaração merecem prosperar.
+Com efeito, seja à luz do art. 535 do CPC/73, ou nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Na hipótese, constata-se a ocorrência de erro material.
+Isso porque o Tribunal de origem, no julgamento do Agravo de Instrumento, ao reconhecer a prescrição da pretensão de ressarcimento do órgão administrativo, extinguiu o processo, em relação à seguradora ora embargante,e, por se tratar de decisão terminativa, fixou os honorários advocatícios, arbitrando-osno percentual mínimo legal correspondente ao valor da causa, somados de 2% (dois por cento) devido à tutela recursal, com fundamento noart. 85, §§ 3º, 4º e 11, do CPC/2015 (fls. 149/452e).
+Desse modo, em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Fica, assim, sanado o referido erro material na decisão embargada.
+Ante o exposto, acolho os Embargos de Declaração,determinando a majoração da verba honorária, prevista no art. 85, § 11, do CPC/2015.
+I.
