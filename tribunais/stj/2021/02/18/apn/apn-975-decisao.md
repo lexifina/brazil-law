@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de manifestação promovida pelo Ministério Público Federal, por sua eminenteVice-Procuradora-Geral da República, trazida a estes autos às fls. 667-669, e-STJ, requerendo o declínio de competência para o processamento deste feito em favor de uma das Varas Criminais da Justiça Estadual de Alagoas, em sua capital, Maceió.
+Noticia que o denunciado CÍCERO AMÉLIO DA SILVA aposentou-se voluntariamente do cargo de Conselheiro do Tribunal de Contas do Estado de Alagoas, conforme Decreto nº 70.692, de 05/08/2020, publicado no Imprensa Oficial local no dia 06/08/2020, conforme cópia inserida na própria petição ministerial.
+Afirma que "a aposentadoria do agente detentor de foro por prerrogativa de função reflete no exercício da jurisdição originária dessa Corte Superior, pois o foro por prerrogativa é concedido ratione muneris, ou seja, em razão do cargo ainda titularizado por aquele que sofre persecução penal instaurada pelo Estado".
+Prossegue, apondo que"tal prerrogativa perde a sua razão de ser quando o agente público deixa de desempenhar a função em que investido, pois se revela incompatível com o modelo adotado pela Constituição a atribuição de prerrogativa em razão da pessoa, sem atribuições específicas de um cargo público".
+Acrescenta, por fim, o entendimento do E. Supremo Tribunal Federal, proferido "no julgamento dos Recursos Extraordinários n. 546.609 e 549.560, com repercussão geral, nos quais se destacou que a aposentadoria de magistrado, independentemente do grau de jurisdição em que atue, cessa a prerrogativa de foro que lhe era conferida em razão do cargo exercido".
+Esses os motivos pelos quais requer o declínio da competência em favor de uma das Varas Criminais da Comarca de Maceió/AL.
+Merece total acolhimento a promoção ministerial, cujas razões ficam, aqui, acolhidas como fundamento complementar de decidir.
+Portanto, reconhecendo a perda da condição específica para a prerrogativa de foro do denunciado CÍCERO AMÉLIO DA SILVA, determino a remessa dopresente feito à Justiça do Estado de Alagoas, Comarca da Capital, para redistribuição a uma de suas varas com competência criminal, à qual caberá dar-lhe prosseguimento em todos os seus termos.
+Intimem-se.
+Cumpra-se.
