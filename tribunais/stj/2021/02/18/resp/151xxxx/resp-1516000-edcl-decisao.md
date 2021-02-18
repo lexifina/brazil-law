@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada(fl. 1172):
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. RECURSO ESPECIAL. DESAPROPRIAÇÃO. RETROCESSÃO. DESTINAÇÃO PÚBLICA. POSTERIOR ALIENAÇÃO. TREDESTINAÇÃO. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL NÃO CONHECIDO.
+O embargante sustenta que o acórdão contém os seguintes vícios: "O Embargante não se limitou "a mera transcrição de ementas", pelo simples motivo de que os trechos citados dos acórdãos paradigmáticos não foram extraídos das ementas, mas dos votos, de modo que a menção da r. decisão embargada, a par de caracterizar erro de fato, ensejou a omissão de pronunciamento.O Embargante não se limitou "a mera transcrição de ementas", pelo simples motivo de que os trechos citados dos acórdãos paradigmáticos não foram extraídos das ementas, mas dos votos, de modo que a menção da r. decisão embargada, a par de caracterizar erro de fato, ensejou a omissão de pronunciamento"(fl. 1181).
+Sem impugnação.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargadaresolveu a controvérsia ao assentar que (fl. 1174):
+"Com efeito, não é possível conhecer da questão concernente ao suposto dissídio jurisprudencial, na medida em que o recorrente não logrou demonstrar o indicado dissídio jurisprudencial a esse respeito, nos moldes preconizados pelo art. 225, §§ 1º e 2º, do RISTJ.
+Nesse sentido, o recorrente deixou de realizar o adequado cotejo analítico entre os acórdãos em comparação, com a indispensável demonstração dos trechos que eventualmente os identificassem, limitando-se a mera transcrição de ementas, o que se revela manifestamente insuficiente à comprovação do dissídio jurisprudencial invocado. Nesse sentido, os seguintes precedentes: AgRg no REsp 1.233.908/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, Dje 23/11/2011; REsp 1.285.038/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28/11/2011.
+Com efeito, não é possível conhecer da questão concernente ao suposto dissídio jurisprudencial, na medida em que o recorrente não logrou demonstrar o indicado dissídio jurisprudencial a esse respeito, nos moldes preconizados pelo art. 225, §§ 1º e 2º, do RISTJ".
+De fato, a divergência jurisprudencial com fundamento na alínea c do permissivo constitucional, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados. Para tanto, não basta a simples transcrição de ementas sem o necessário cotejo analítico, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não ocorreu no caso dos autos.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL.ART. 1.022 DO CPC/2015. VÍCIOSNÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
