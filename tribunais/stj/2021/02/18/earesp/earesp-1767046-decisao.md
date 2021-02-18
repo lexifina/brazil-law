@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial (art. 105, III, "a", da CF/1988)interposto contra acórdão do Tribunal Regional Federal da 4ª Região assimementado:
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DESENTENÇA. REAJUSTE DA TABELA SUS. REAJUSTE DE 9,56%.LIMITAÇÃO TERMPORAL.
+1. No se refere à limitação temporal do reajuste da Tabela do SUS, acorreção estende-se até o mês de novembro de 1999. O tema em discussão foisubmetido a julgamento por este Tribunal na forma do art. 942 do CPC-15.Prevaleceu a tese - adotada pelo STJ - de que "tendo o título executivo judicialque instrui a pretensão expressamente estabelecido que o percentual de9,56% deve recair sobre os pagamentos realizados no período compreendidoentre 18/8/1999 e 30/11/1999, incabível rediscutir a matéria, sob penade efetiva afronta à coisa julgada."  Apelação Cível n2 5038465-59.2015.4.04.7100/RS; Relatora: Juíza Federal Maria Isabel Pezzi Klein;julgamento em 11/09/2019).
+2. Agravo de instrumento provido.
+Os Embargos de Declaração foram parcialmente providos para fins de prequestionamento.
+Em suas razões recursais, a União alega haver violação dos arts. 535, II,do CPC e 1.022, II, do CPC/2015. Argumenta que, em que pese o teor dadecisão proferida no recurso aclaratório, não restou efetivamenteapreciada a matéria em confronto com os dispositivos violados. No mérito, aduz ofensa aos arts. 467, 468, 741, V e VI, doCPC/1973; 502, 503 e 535, IV e VI, do CPC/2015; 876 e 884 do Código Civil.
+Sustenta, em suma:
+Assim, não há falar em violação à coisa julgada material comoequivocadamente entendeu o acórdão recorrido.
+Dessa feita, cabível o reconhecimento da limitação em sede de Embargos àExecução, razão pela qual deve ser reformada a decisão no ponto, a fim de limitar o reajuste dos procedimentos à superveniência da Portaria GM/MS n. 1.323/99, em outubro de 1999.(fl. 99, e-STJ)
+Contrarrazões às fls. 107-124, e-STJ.
+Decisão de inadmissibilidade do recurso pelo Tribunal de origem às fls. 173-174, e-STJ.
+Petição de Agravo em Recurso Especial às fls. 182-195, e-STJ.
+Contraminuta às fls. 199-215, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 15 de janeiro de 2021.
+Inicialmente, afasto a apontada violação doart. 535 do CPC/1973 (art.1.022 do CPC/2015). Isso porque não se constata omissão, obscuridade oucontradição nos acórdãos recorridos capazes de torná-los nulos,especialmente porque o Tribunal de origem apreciou a demanda de formaclara e precisa, estando bem delineados os motivos e fundamentos queembasam o decisum.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentostrazidos pelas partes em defesa da tese que apresentaram. Deve apenasenfrentar a demanda, observando as questões relevantes e imprescindíveis àsua resolução.
+Outrossim, não se pode confundir julgamento desfavorável ao interesse daparte com negativa ou ausência de prestação jurisdicional.
+No mais, melhor sorte não assiste à recorrente.
+Para mais elucidação da matéria, cumpre transcrever, no que interessa,trechos da decisão de primeira instância e do voto condutor do acórdãoobjurgado:
+A questão relativa à limitação temporal para o pagamento dosreajustes devidos foi resolvida na fase de conhecimento. No caso, emjulgamento no Superior Tribunal de Justiça, o recurso especial foi parcialmenteprovido para determinar que o provimento judicial deve ter efeito regional (fls.1030-1 - evento 1 - OUT22, p. 51 do processo de origem). Os embargos dedeclaração opostos pela União foram acolhidos, sem efeitos modificativos,apenas para esclarecer que o pagamento dos reajustes deve ocorreraté novembro de 1999. (evento 1 - OUT7, p. 81 do processo de origem).
+Deve-se observar o que foi definido no título executivo, sob pena deefetiva afronta à coisa julgada.
+O tema em discussão foi recentemente submetido a julgamento poreste Tribunal na forma do art. 942 do CPC-15. Prevaleceu a tese - adotada peloSTJ - de que "tendo o título executivo judicial que instrui a pretensãoexpressamente estabelecido que o percentual de 9,56% deve recair sobre ospagamentos realizados no período compreendido entre 18/8/1999 e30/11/1999, incabível rediscutir a matéria, sob pena de efetiva afrontaà coisa julgada." (Apelação Cível n2 5038465-59.2015.4.04.7100/RS; Relatora:Juíza Federal Maria Isabel Pezzi Klein; julgamento em 11/09/2019).(fl. 55,e-STJ)
+Com efeito, o Superior Tribunal de Justiça, no julgamento do REsp1.179.057/AL, submetido à sistemática dos recursos repetitivos, previstono art. 543-C do CPC/73, firmou a tese de que o índice de 9,56%,decorrente da errônea conversão em real, somente é devido até 1º deoutubro de 1999, data do início dos efeitos financeiros da Portaria1.323/1999, que estabeleceu novos valores para todos os procedimentos.
+Contudo, na hipótese em exame, há determinação expressa no títuloexequendo (REsp 422.671/RS), quanto ao termo final de incidência do índicede reajuste de 9,56%, relativo ao mês de novembro de1999, não cabe aoTribunal de origem debater novamente a questão, sob pena de ofensa à coisajulgada.
+Eis a ementa o referido julgado:
+TABELA DO SUS. FATOR DE CONVERSÃO. LIMITAÇÃO TEMPORAL.EMBARGOS DEDECLARAÇÃO. ACOLHIMENTO SEM EFEITOS MODIFICATIVOS.
+I - Quanto à matéria da limitação temporal para o acréscimo de 9,56%,verifica-se que, apesar de restar consignada esta questão em votointegrante do julgado, tal posição pode ser reafirmada no âmbito dosembargos de declaração, para o saneamento de futura dúvida, ficandoexpresso que o reajuste encimado só deverá ocorrer até novembro de 1999.Precedentes: REsp nº 531.297/PR, Rel. Min. TEORI ALBINO ZAVASCKI, DJ de06.10.2003; MS nº 8.501/DF, Rel. p/ac. Min. FRANCIULLI NETTO, DJ de27.09.2004; AgRg no REsp nº 527.013/RS, DENISE ARRUDA, DJ de 13.03.2006 eAgRg no REsp nº 799.840/RS, Rel. Min. FRANCISCO FALCÃO, DJ de 10.04.2006.
+II - No concernente ao percentual de correção, observa-se a inexistênciade qualquer omissão ou obscuridade, exsurgindo claro o intuito doembargante de rediscutir a matéria.
+III - Da mesma forma, as questões relativas à ilegitimidade ativa adcausam e à aplicação de astreintes, ficando expresso no acórdão alegitimidade do MP para integrar o pólo ativo da demanda e a falta deprequestionamento da matéria atinente à multa imposta à UNIÃO.
+IV - Embargos de declaração acolhidos, SEM EFEITOS MODIFICATIVOS, apenaspara esclarecer que o pagamento dos reajustes deve ocorrer somente aténovembro de 1999.(Edcl no REsp 422.671/RS, Rel. Francisco Falcão, Primeira Turma, DJ de2.4.2007).
+Seguindo essa orientação, cito:
+PROCESSUAL CIVIL E DIREITO ADMINISTRATIVO. TABELA DO SUS. FATOR DECONVERSÃO. REAJUSTE. LIMITAÇÃO TEMPORAL. CUMPRIMENTO DE SENTENÇA. COISAJULGADA. OFENSA. RECONHECIMENTO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DESIMILITUDE FÁTICA ENTRE OS ARESTOS CONFRONTADOS.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostoscom fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18de março de 2016) serão exigidos os requisitos de admissibilidade recursalna forma do novo CPC" (Enunciado Administrativo n. 3).
+2. O Superior Tribunal de Justiça, no julgamento do REsp 1.179.057/AL (DJe15/10/2012), submetido à sistemática dos recursos repetitivos, firmou atese de que, "nas demandas que envolvem a discussão sobre a conversão databela de ressarcimentos de serviços prestados ao Sistema Único de Saúde -SUS de cruzeiro real para real, (..) o índice de 9,56%,decorrente daerrônea conversão em real, somente é devido até 1º de outubro de 1999,data do início dos efeitos financeiros da Portaria 1.323/99, queestabeleceu novos valores para todos os procedimentos" (Tema 495).
+3. A hipótese vertente não se enquadra nas exceções estabelecidas por estaCorte de justiça que, em casos excepcionais, afasta a ocorrência da coisajulgada para reconhecer a possibilidade de limitação temporal do direitoàs diferenças decorrentes do reajuste da tabela do SUS, mesmo em sede deembargos à execução.
+4. O reconhecimento da ofensa à coisa julgada, in casu, não decorreu dacircunstância da sentença exequenda ter sido proferida depois da edição daPortaria n. 1.323/1999, mas, sim, em virtude de ter havido decisãoexauriente, de mérito, acerca o termo final de incidência do reajuste de9,56% na ação de conhecimento, no REsp 422.671, razão pela qual a questãonão pode ser novamente debatida pelo mesmo órgão jurisdicional, em face dapreclusão pro judicato.
+5. Agravo interno desprovido.(AgInt no REsp 1.812.777/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA,DJe 2/12/2019).
+Diante do quadro delineado, forçoso convir que, havendo determinaçãoexpressa na parte dispositiva do título exequendo quanto ao termo final deincidência do índice de reajuste, anterior à tese firmada em julgamentorepetitivo, inafastável essa determinação, em face da ocorrência dapreclusão consumativa.
+Verifica-se, portanto, que a Corte de origem decidiu de acordo com ajurisprudência do STJ, razão pela qual o decisum não merece reforma.
+Diante do exposto, conheço do Agravo para negarprovimento ao RecursoEspecial.
+Publique-se.
+Intimem-se.
