@@ -1,0 +1,10 @@
+DECISÃO:
+    Trata-se de agravo cujo objeto é decisão que não admitiu recurso extraordinário interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PÚBLICA. EXECUÇÃO DE SENTENÇA. CESSÃO PARCIAL DO CRÉDITO. HABILITAÇAO DO CESSIONÁRIO COMO ASSISTENTE LITISCONSORCIAL. QUEBRA DO CARATER ALIMENTAR DO PRECATORIO EXPEDIDO. IMPOSSIBILIDADE. DIREITO À EXPEDIÇÃO DE ALVARA. Tendo sido parcial a cessão do crédito, a intervenção é na forma de assistência litisconsorcial, haja vista que o cessionário tornou-se, quanto ao crédito cedido, parte no processo de execução, em verdadeiro litisconsórcio ulterior com o cedente, que ainda continua titular de parte do crédito. Precedentes da 33 Câmara Especial Cível. Inexiste amparo legal para o pedido de alteração do caráter alimentar do precatório. Medida que traria prejuízo à ordem cronológica estabelecida constitucionalmente, ferindo a isonomia. Com o reconhecimento da habilitação como litisconsorte do exequente, fica assegurado à parte o direito à expedição de alvará em seu nome, relativamente ao montante do crédito que lhe pertence, quando do pagamento do precatório. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.”
+    O recurso extraordinário busca fundamento no art. 102, III, a, da Constituição. A parte recorrente alega violação ao art. 100, § 1º, da CF, assim como ao art. 78 do ADCT. Requer a alteração da natureza do precatório ‘de alimentar para não-alimentar’.
+    O recurso não deve ser provido. É que o acórdão recorrido está alinhado com a jurisprudência do Supremo Tribunal Federal, que, no RE 631.537-RG, Tema 361, Rel. Min. Marco Aurélio, fixou a seguinte tese de julgamento: “a cessão de crédito alimentício não implica a alteração da natureza”.
+     Diante do exposto, com base no art. 932, IV e VIII, c/c oart. 1.042, § 5º, do CPC/2015, e no art. 21, § 1º, do RI/STF, nego provimento ao recurso. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência.
+    Publique-se.
+          Brasília, 18 de fevereiro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
