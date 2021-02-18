@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por KAIAME MENEZES TRIUNFO com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com os seguintes julgados:
+a) HC n. 556.673/SP e HC n. 579.177/SP, proferidos pela Quinta Turma e AgRg no HC 506.208/SP, proferido pela Sexta Turma, acerca dos critérios de fixação da pena, no sentido de que a fundamentação genérica, embasada somente na opinião do julgador sobre a gravidade abstrata do crime não se presta para fixar regime mais severo do que a pena permite;
+b) EDcl no AgRg nos EREsp n. 1.269.215/RS, proferido pela Corte Especial, sobre a impossibilidade de atribuir efeitos infringentes aos embargos de declaração quando ausentes as hipóteses ensejadoras do referido recurso;
+c) APn n. 733/DF, proferido pela Corte Especial, acerca do crime de concussão (art. 316 do CP), julgada improcedente em razão da ausência de elementos que demonstrem que o réu tenha agido com o dolo de exigir vantagem indevida; e
+d) APn n. 747/DF e APn n. 685/DF, proferidos pela Corte Especial, ao entendimento de que "É garantido ao acusado, no processo penal, o benefício da dúvida, consubstanciado no brocardo indubio pro reo. Exegese do art. 386, inciso VII, do Código de Processo Penal" (fl. 1.175).
+Requer, desse modo, o provimento dos presentes embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verificou-se que o recurso de embargos de divergência não foi instruído com a guia de custas e o respectivo comprovante de pagamento, razão pela qual a parte foi intimada para sanar referido vício (fls. 1.247/1.248).
+Embora regularmente intimada, a parte não o regularizou o preparo, uma vez que colacionou aos autos apenas o comprovante de agendamento do preparo, não tendo sido juntado o comprovante do efetivo pagamento.
+Portanto, não se pode considerar efetuado o pagamento se o próprio documento "traz em si a advertência de que não representa a efetiva quitação da transação". (AgInt no AREsp 1143559/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/3/2018.)
+Mero comprovante de agendamento do preparo não serve para a comprovação da quitação da obrigação do recorrente, resultando na deserção do recurso. Nesse sentido, confiram-se os seguintes precedentes: AgInt no REsp 1709931/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 27/8/2018; AgInt no AREsp 1187105/DF, relator Ministro Paulo de Tarso Sanseverino, Terceiro Turma, DJe de 29/06/2018; e AgInt no AREsp 1074130/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 2/5/2018.
+Assim, incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Ademais, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182/STJ. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido apreciado o mérito do recurso especial, situação que atrai, por analogia, o teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EAREsp 315.046/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 25/4/2017; AgInt nos EAg 1357322/DF, relator Ministro Felix Fischer, Corte Especial, DJe de 15/12/2016; EAREsp 559.766/DF, relator Ministro Raul Araújo, Corte Especial, DJe de 22/11/2016; AgInt nos EREsp 1226477/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 26/10/2016.
+Em relação aos paradigmas HC n. 556.673/SP, HC n. 579.177/SP e AgRg no HC 506.208/SP, cabe ressaltar que o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+Ressalte-se que mesmo sob a vigência do novo Código de Processo Civil, os arts. 1043, § 1º, do CPC e 266, § 1º, do Regimento Interno do Superior Tribunal de Justiça delimitaram o confronto de teses jurídicas objeto dos embargos de divergência àquelas decorrentes do julgamento de recursos e ações de competência originária. Não podem, pois, servir como paradigma, os julgados relativos a ações constitucionais.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INDICAÇÃO DE ARESTO PROFERIDO EM SEDE DE HABEAS CORPUS. DESCABIMENTO. ART. 1.043, § 1º, DO CPC. INDICAÇÃO DE NOVOS PRECEDENTES NO REGIMENTAL. IMPOSSIBILIDADE. INOVAÇÃO. PRECLUSÃO CONSUMATIVA.
+1. É pacífico o entendimento desta Corte de que acórdãos paradigmas oriundos de ações que possuem natureza jurídica de garantia constitucional, tais como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção, não servem para comprovação da divergência. Interpretação corroborada pelo art.
+1.043, § 1º, do Código de Processo Civil. Precedentes.
+2. Não é cabível, por ocasião da interposição do agravo regimental, a indicação de novos precedentes para embasarem as razões dos embargos de divergência, de modo a sanar os vícios existentes por ocasião da interposição do recurso, porquanto já operada a preclusão consumativa. Precedente.
+3. Agravo regimental improvido.
+(AgRg nos EREsp 1844293/AL, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 26/08/2020, DJe 01/09/2020)
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Publique-se. Intimem-se.
