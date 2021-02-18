@@ -1,0 +1,12 @@
+DECISÃO
+1.Cuida-se de embargos de declaração opostospor BROOKFIELD CURITIBA EMPREENDIMENTOS IMOBILIARIOS SPE LTDA contra decisão deste relator que conheceu do agravo dela e deu provimento ao recurso especial.
+Nas razões dos embargos de declaração, a parte embargante alega erro material na decisão embargada à fl. 154, relativo ao valor da causa, arguindo que o juízo de origem determinou a emenda da petição inicial, tendo a parte embargada modificado o valor da causa para R$ 6.619.903,00. Afirma que o valor da causa nunca foi controverso, sendo admitido pela parte embargada.
+2.O recurso merece provimento.
+Segundo dispõe o art. 1.022, caput e incisos, do CPC de 2015, são cabíveis os embargos de declaração quando a decisão judicial se revelar omissa, obscura ou contraditória, assim como para correção de erro material. O "erro material é aquele evidente, decorrente de simples erro aritmético ou fruto de inexatidão material, e não erro relativo a critérios ou elementos de julgamento" (EDcl no AgRg no REsp 1234057/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 28/06/2011, DJe 01/07/2011.
+Compulsados os autos, verifica-serealmente que o valor da causa é de R$ 6.619.903,00, sendo admitido pela parte embargada nos autos nesse valor às fls. 79 e 109, sendo assim incontroverso.
+Desse modo, percebe-se que, de fato, houve erro material no item 2da decisão, que encontra-se à fl. 154, na qual constou:
+"No caso concreto, ação rescisória de contrato de sociedade em conta de participação foi extinta, sem resolução de mérito, por falta de legitimação passiva em relação à recorrente, sendo dado à causa o valor de R$ 2.060.000,00 (fls. 32-37). Desse modo, seguindo a ordem de gradação da base de cálculo acima mencionada, os honorários advocatícios devem ser fixados em 10% sobre o valor atualizado da causa."
+Nesse passo, o referido trecho final do item 2 da decisão embargada àfl. 154 passa a ter o seguinte teor:
+"No caso concreto, ação rescisória de contrato de sociedade em conta de participação foi extinta, sem resolução de mérito, por falta de legitimação passiva em relação à recorrente, sendo dado à causa o valor de R$ 6.619.903,00. Desse modo, seguindo a ordem de gradação da base de cálculo acima mencionada, os honorários advocatícios devem ser fixados em 10% sobre o valor atualizado da causa."
+3.Ante o exposto, acolho os embargos de declaração opostos para sanar erro material, sem efeitos infringentes, tão somente para explicitar queo valor da causa, incontroverso entre as partes,é de R$ 6.619.903,00.
+Publique-se. Intimem-se.
