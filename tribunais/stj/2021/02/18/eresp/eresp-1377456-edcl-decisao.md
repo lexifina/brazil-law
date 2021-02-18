@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PRO METALURGIA S. A. - EM LIQUIDACAO EXTRAJUDICIAL e OUTROS em face da decisão que indeferiu liminarmente os embargos de divergência em razão do acórdão recorrido não ter apreciado o mérito do recurso especial, ante o óbice da Súmula 182/STJ.
+A parte embargante sustenta, em síntese, que a decisão incorreu em obscuridade, ao argumento de que "o apelo especial foi conhecido no que diz respeito ao art. 106 do CTN (único objeto dos embargos de divergência), o que evidencia que o mérito da questão foi apreciado" (fl. 2.850).
+Requer, desse modo, o acolhimento dos presentes embargos de declaração a fim de que sejam sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Os embargos declaratórios não reúnem condições de serem processados.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Segundo a jurisprudência do Superior Tribunal de Justiça, os embargos de divergência possuem, como requisito de admissibilidade, a existência de dissenso interpretativo entre os órgãos jurisdicionais desta Corte Superior na análise de mérito do recurso especial, sendo o recurso incabível para o reexame de regra técnica de admissibilidade recursal.
+Ressalte-se que a admissão dos embargos de divergência quando não conhecido um dos acórdãos confrontados, exige a efetiva análise da controvérsia em seu bojo, o que definitivamente não ocorreu nos presentes autos.
+Ilustrativamente:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO.
+1. Os embargos de declaração, no processo penal, são oponíveis com fundamento na existência de ambiguidade, obscuridade, contradição e/ou omissão no decisum embargado e, por isso, não constituem instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes.
+2. No caso, não se conheceu do agravo regimental, a teor do enunciado contido na Súmula 182/STJ. Ressaltou-se, ainda, que, como o acórdão impugnado não examinou o mérito do recurso, incabível a oposição dos embargos de divergência, nos termos da Súmula 315 desta Corte. Ademais, ressaltou-se não se admitir como acórdão paradigmas os proferidos em julgamento de habeas corpus.
+3. Não há vício quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+4. A concessão de habeas corpus de ofício, no bojo de embargos de divergência, encontra óbice tanto no fato de que o Relator não tem autoridade para conceder a ordem por meio de decisão monocrática, desconstituindo, na prática, o resultado de acórdão proferido por outra Turma julgadora, como, tampouco a Seção detém competência constitucional para conceder Habeas Corpus contra acórdão de Turma do próprio Tribunal (AgRg nos EAREsp n. 971.629/PR, Terceira Seção, Ministro Reynaldo Soares da Fonseca, DJe 22/5/2017).
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EAREsp 1472082/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 11/03/2020, DJe 17/03/2020)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
