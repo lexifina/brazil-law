@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 3ª Região cuja ementa é a seguinte:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. SENTENÇA CONDICIONAL. RECONHECIMENTO DE LABOR ESPECIAL. PEDREIRO AUTÔNOMO. EXPOSIÇÃO A AGENTES AGRESSIVOS. FÍSICO (RUÍDO). QUÍMICOS. PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. TERMO INICIAL. CORREÇÃO MONETÁRIA. REEXAME NECESSÁRIO NÃO CONHECIDO. APELO DO INSS PARCLALMENTE PROVIDO.
+- A MM. Juíza a quo ao proferir a sentença condicionou a concessão do beneficio ao preenchimento dos requisitos legais.
+- Deste modo, há nulidade parcial do decisum, eis que a sentença deve ser certa, resolvendo a lide, a respeito que não cause dúvidas, ainda quando decida relação jurídica condicional, nos termos do art. 492, do Código de Processo Civil.
+- No caso analisado, o valor da condenação verificado no momento da prolação da sentença não excede a 1000 salários mínimos, de modo que a sentença não será submetida ao reexame necessário, nos termos do art. 496, § 3º, inciso 1, do novo Código de Processo Civil.
+- A questão em debate consiste na possibilidade de se reconhecer o trabalho especificado na inicial em condições especiais, para concessão da aposentadoria especial.
+- A aposentadoria especial está disciplinada pelos arts. 57, 58 e seus §s da Lei nº 8.213/91, para os períodos laborados posteriormente à sua vigência e, para os pretéritos, pelo art. 35 § 2º da antiga CLPS. O beneficio é regido pela lei em vigor no momento em que reunidos os requisitos para sua fruição, mesmo tratando-se de direitos de aquisição complexa, a lei mais gravosa não pode retroagir exigindo outros elementos comprobatórios do exercício da atividade insalubre, antes não exigidos, sob pena de agressão à segurança, que o ordenamento jurídico visa preservar.
+- É possível reconhecimento da atividade especial nos interstícios de 01/10/1981 a 31/05/2000, de 06/11/2000 a 30/06/2003 e de 01/02/2004 a 31/08/2010- Atividade: pedreiro autônomo - Agentes agressivos: ruído de 96,48 dB (A) e poeiras de cal e cimento, de modo habitual e permanente - resumo de documentos para cálculo de tempo de contribuição (fis. 6 1/64), CNIS (fls. 106/113) e laudo técnico judicial (fis. 23 3/246, complementado a fis. 264/267).
+- A atividade desenvolvida pelo autor enquadra-se também no item 1.1.6 do Decreto nº 53.831/64, item 1.1.5 do Anexo 1, do Decreto nº 83.080/79 e item 2.0.1 do Decreto nº 2.172/97 que contemplavam a atividade realizada em condições de exposição a ruídos excessivos, privilegiando os trabalhos permanentes nesse ambiente. Observe-se que, a questão do nível máximo de ruído admitido está disciplinada no Decreto nº 53.831/64 (8OdBA), em razão da manutenção de suas disposições, nas situações não contempladas pelo Decreto de nº 83.080/79. Contudo, as alterações introduzidas na matéria pelo Decreto de nº 2.172, de 05/03/1997, passaram a enquadrar como agressivas apenas as exposições acima de 90 dBA. Tal modificação vem expressa no art. 181 da IN de nº 78/2002, segundo a qual "na análise do agente agressivo ruído, até 05/03/1997, será efetuado enquadramento quando da efetiva exposição for superior a oitenta dBA e, a partir de 06/03/1997, quando da efetiva exposição se situar acima de noventa dBA". A partir de 19/11/2003 o Decreto nº 3.048/99 alterado pelo Decreto 0 4.882/2003 passou a exigir ruído superior a 85 db(A), privilegiando os trabalhos permanentes nesse ambiente.
+- Enquadra-se, também, no item 1.2.12 do Decreto no 83.080/79 que elenca como especial os trabalhadores ocupados em caráter permanente com sílica, silicatos, carvão, cimento e amianto.
+- É verdade que, a partir de 1978, as empresas passaram a fornecer os equipamentos de Proteção Individual - EPI"s, aqueles pessoalmente postos à disposição do trabalhador, como protetor auricular, capacete, óculos especiais e outros, destinado a diminuir ou evitar, em alguns casos, os efeitos danosos provenientes dos agentes agressivos.
+- Utilizados para atenuar os efeitos prejudiciais da exposição a esses agentes, contudo, não têm o condão de desnaturar atividade prestada, até porque, o ambiente de trabalho permanece agressivo ao trabalhador, que poderia apenas resguarda-se de um mal maior.
+- O segurado faz jus à aposentadoria especial, considerando-se que cumpriu a contingência, ou seja, o tempo de serviço por período superior a 25 (vinte e cinco) anos, de modo a satisfazer o requisito temporal previsto no art. 57, da Lei nº 8.213/91.
+- O termo inicial da aposentadoria deve ser fixado na data do requerimento administrativo, em 20/09/20 10, momento em que a autarquia tomou ciência da pretensão da parte autora.
+- Com relação aos índices de correção monetária e taxa de juros de mora, deve ser observado o julgamento proferido pelo C. Supremo Tribunal Federal na Repercussão Geral no Recurso Extraordinário nº 870.947, bem como o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal em vigor por ocasião da execução do julgado.
+- Reexame necessário não conhecido.
+- Apelo do 1NSS parcialmente provido.
+Os Embargos de Declaração opostos foram rejeitados.
+Nas razões do Recurso Especial, a parte recorrente alega violação dos arts. 489, II, parágrafo 1º, IV, e 1.022, I e II, do CPC/2015,57 e 58 da Lei 8.213/1991.
+Sustenta, em suma:
+Dessa forma, da análise das disposições supra, conclui-se que a ausência de laudo comprobatório do exercício de atividade especial contemporâneo impossibilita a comprovação do exercício de atividade especial, sob pena de afronta aos artigos supra transcritos.
+No caso, o reconhecimento do período especial ocorreu com base no laudo pericial de fls. 233 e ss., produzidos na fase instrutória desta ação, enquanto a DER remonta a 2010.
+Portanto, a data de início do benefício jamais poderia ter sido fixada na DER, pois nessa época o autor não comprovou a insalubridade dos períodos reconhecidos judicialmente, visto que os documentos foram produzidos e juntados posteriormente ao requerimento, contrariando, assim, o artigo 57 e 58, da Lei 8213/91 (fl. 429, e-STJ).
+Contrarrazões às fls. 439-445, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13 de janeirode 2021.
+Inicialmente, afasto a apontada violação dos arts. 489 e 1.022 do CPC/2015. Não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque o Tribunal de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos dodecisum.
+Outrossim, é notório, no STJ, que o juiz não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu.
+Ademais, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, o Tribunal a quo assim se pronunciou sobre a controvérsia:
+No mérito, a questão em debate consiste na possibilidade de se reconhecer o trabalho especificado na inicial em condições especiais, para concessão da aposentadoria especial.
+A aposentadoria especial está disciplinada pelos arts. 57, 58 e seus §s da Lei nº 8.213/91, para os períodos laborados posteriormente à sua vigência e, para os pretéritos, pelo art. 35 § 2º da antiga CLPS.
+O beneficio é regido pela lei em vigor no momento em que reunidos os requisitos para sua fruição, mesmo tratando-se de direitos de aquisição complexa, a lei mais gravosa não pode retroagir exigindo outros elementos comprobatórios do exercício da atividade insalubre, antes não exigidos, sob pena de agressão à segurança, que o ordenamento jurídico visa preservar.
+Na espécie, questionam-se os períodos de 01/10/1981 a 31/05/2000, de 06/11/2000 a 30/06/2003 e de 01/02/2004 a 3 1/08/2010, pelo que ambas as legislações (tanto a antiga CLPS, quanto a Lei nº 8.213/91), com as respectivas alterações, incidem sobre o respectivo cômputo, inclusive quanto às exigências de sua comprovação.
+É possível o reconhecimento da atividade especial nos interstícios de:
+- 01/10/1981 a 31/05/2000, de 06/11/2000 a 30/06/2003 e de 01/02/2004 a 3 1/08/2010- Atividade: pedreiro autônomo
+- Agentes agressivos: ruído de 96,48 dB (A) e poeiras de cal e cimento, de modo habitual e permanente
+- resumo de documentos para cálculo de tempo de contribuição (fis. 61164), CNIS (fis. 106/113) e laudo técnico judicial (fis. 233/246, complementado a fls. 264/267).
+A atividade desenvolvida pelo autor enquadra-se também no item 1.1.6 do Decreto nº 53.831/64, item 1.1.5 do Anexo 1, do Decreto nº 83.080/79 e item 2.0.1 do Decreto nº 2.172/97 que contemplavam a atividade realizada em condições de exposição a ruídos excessivos, privilegiando os trabalhos permanentes nesse ambiente.
+Observe-se que, a questão do nível máximo de ruído admitido está disciplinada no Decreto no 53.831/64 (80 dBA), em razão da manutenção de suas disposições, nas situações não contempladas pelo Decreto de nº 83.080/79.
+Contudo, as alterações introduzidas na matéria pelo Decreto de nº 2.172, de 05/03/1997, passaram a enquadrar como agressivas apenas as exposições acima de 90 dBA. Tal modificação vem expressa no art. 181 da IN de nº 78/2002, segundo a qual "na análise do agente agressivo ruído, até 05/03/1997, será efetuado enquadramento quando da efetiva exposição for superior a oitenta dBA e, a partir de 06/03/1997, quando da efetiva exposição se situar acima de noventa dBA".
+A partir de 19/11/2003 o Decreto nº 3.048/99 alterado pelo Decreto nº 4.882/2003 passou a exigir ruído superior a 85 db(A), privilegiando os trabalhos permanentes nesse ambiente.
+Enquadra-se, também, no item 1.2.12 do Decreto nº 83.080/79 que elenca como especial os trabalhadores ocupados em caráter permanente com sílica, silicatos, carvão, cimento e amianto.
+Assim, o requerente faz jus ao cômputo do labor exercido em condições agressivas, nos interstícios mencionados, no entanto, indevida a conversão, já que o pedido é de aposentadoria especial.
+(..)
+É verdade que, a partir de 1978, as empresas passaram a fornecer os equipamentos de Proteção Individual - EPI"s, aqueles pessoalmente postos à disposição do trabalhador, como protetor auricular, capacete, óculos especiais e outros, destinado a diminuir ou evitar, em alguns casos, os efeitos danosos provenientes dos agentes agressivos.
+Utilizados para atenuar os efeitos prejudiciais da exposição a esses agentes, contudo, não têm o condão de desnaturar atividade prestada, até porque, o ambiente de trabalho permanecia agressivo ao trabalhador, que poderia apenas resguarda-se de um mal maior.
+(..)
+Assentados esses aspectos, tem-se que, considerando-se os períodos de atividade especial, a parte autora cumpriu a contingência, ou seja, o tempo de serviço por período superior a 25 (vinte e cinco) anos, de modo a satisfazer o requisito temporal previsto no art. 57, da Lei nº 8.213/91.
+O termo inicial da aposentadoria deve ser fixado na data do requerimento administrativo, em 20/09/2010, momento em que a autarquia tomou ciência da pretensão da parte autora (fls. 395-399, e-STJ).
+Na leitura dos autos, verifica-se que o acórdão recorrido está em consonância com o entendimento firmado pelo Superior Tribunal de Justiça a favorda possibilidade do reconhecimento da especialidade do serviço laborado na condição de contribuinte individual não cooperado.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO/CONTRIBUIÇÃO. CÔMPUTO DE TEMPO ESPECIAL. SEGURADO CONTRIBUINTE INDIVIDUAL. POSSIBILIDADE.
+1. O artigo 57 da Lei 8.213/1991 não traça qualquer diferenciação entre as diversas categorias de segurados, permitindo o reconhecimento da especialidade da atividade laboral exercida pelo segurado contribuinte individual.
+2. O artigo 64 do Decreto 3.048/1999 ao limitar a concessão do benefício aposentadoria especial e, por conseguinte, o reconhecimento do tempo de serviço especial, ao segurado empregado, trabalhador avulso e contribuinte individual cooperado, extrapola os limites da Lei de Benefícios que se propôs a regulamentar, razão pela qual deve ser reconhecida sua ilegalidade.
+3. Destarte, é possível o reconhecimento de tempo de serviço especial ao segurado contribuinte individual não cooperado, desde que comprovado, nos termos da lei vigente no momento da prestação do serviço, que a atividade foi exercida sob condições especiais que prejudiquem a sua saúde ou sua integridade física.
+4. Recurso Especial não provido.
+(REsp 1793029/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/02/2019, DJe 30/05/2019).
+Outrossim, tendo as instâncias de origem, com base no acervo fático-probatório dos autos, reconhecido a atividade especial do autor, a inversão do julgamento, na forma pretendida, implicaria no revolvimento do acervo probatório, o que não é possível em Recurso Especial, nos termos da Súmula 7/STJ.
+No que se refere ao termo inicial, melhor sorte não assiste ao recorrente.
+É firme a orientação do STJ de que o laudo pericial não pode ser utilizado como parâmetro para fixar o termo inicial de aquisição de direitos.
+Com efeito, segundo a hodierna orientação pretoriana, o laudo pericial serve tão somente para nortear o convencimento do juízo quanto à existência do pressuposto da incapacidade para a concessão de benefício (AREsp 380.162, Ministro Gurgel de Faria, DJe 23/3/2017).
+Nessa linha:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA ESPECIAL. DATA DE INÍCIO DO BENEFÍCIO. DATA DO CUMPRIMENTO DOS REQUISITOS. IMPOSSIBILIDADE. DATA DO REQUERIMENTO ADMINISTRATIVO. LAUDO. PROVA TÉCNICA APENAS PARA RECONHECIMENTO DA INCAPACIDADE. JURISPRUDÊNCIA PACÍFICA DO STJ. PROVIMENTO.
+1. Ausente ofensa ao artigo 1.022 do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, como lhe foi apresentada, expressamente fundamentando seu entendimento sobre a data de início do benefício (fl. 365, e-STJ).
+2. Quanto ao mais, todavia, a irresignação procede.
+3. É firme a orientação do STJ de que o laudo pericial não pode ser utilizado como parâmetro para fixar o termo inicial de aquisição de direitos. Com efeito, segundo a hodierna orientação pretoriana, o laudo pericial serve tão somente para nortear tecnicamente o convencimento do juízo quanto à existência da incapacidade para a concessão de benefício. Precedentes.
+4. Recurso Especial provido para fixar o termo inicial do benefício a contar da data do requerimento administrativo realizado.
+(REsp 1795790/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2019, DJe 22/04/2019).
+Ante o exposto, conheço do Agravo para negar provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
