@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaNITOLI INDÚSTRIA GRÁFICA LTDA. contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 188):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO.TRIBUTÁRIO. MANDADO DE SEGURANÇA. BENS DESTINADOS AO ATIVO FIXO. CRÉDITO DO IPI. IMPOSSIBILIDADE. EMBARGOS REJEITADOS. APLICAÇÃO DA MULTA PREVISTA NO PARÁGRAFO ÚNICO DO ART. 538 DO CPC.
+1. Por se tratar de destinatário final dos produtos adquiridos do ativo fixo, utilizados no processo de industrialização, o contribuinte não tem direito ao crédito do IPI incidente sobre a aquisição daqueles produtos.Precedentes do STF.
+2. Devem ser rejeitados os embargos de declaração opostos contra acórdão proferido a salvo de omissão, contradição ou obscuridade.
+3. Embargos de Declaração rejeitados e imposição de multa, conforme dispõe o artigo 538, parágrafo único, do Código de Processo Civil, no percentual de 1% sobre o valor da causa.
+Em suas razões, a parte recorrente alega a violação dos arts. 580 e 1026,§ 2º, do CPC, ao fundamento de que a multa aplicada não pode se sustentar, tendo em vista que o recurso integrativo não teve intuito protelatório.
+Passo a decidir.
+Inicialmente, cumpre registrar que, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC " (Enunciado Administrativo n. 3 doSTJ).
+Dito isso, cumpre observar que o STJ sumulou entendimento no sentido de que embargos de declaração opostos com o intuito de prequestionamento não devem ser considerados procrastinatórios. Nesse sentido é a redação da Súmula98 deste Tribunal, que determina que os "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+Sobre a questão, rememoro os seguintes julgados:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECURSO ESPECIAL FUNDADO NO CPC/73. EXECUÇÃO DE VERBA HONORÁRIA ADVOCATÍCIA. FAZENDA PÚBLICA CREDORA. MEDIDAS EXPROPRIATÓRIAS. ARTS. 647 E 685-C DO CPC/73. DESINTERESSE DA PARTE EXEQUENTE NA ADJUDICAÇÃO DO BEM E NA ALIENAÇÃO POR INICIATIVA PARTICULAR. FACULDADE DO CREDOR. POSSIBILIDADE DE OPÇÃO PELA HASTA PÚBLICA. EMBARGOS DE DECLARAÇÃO OPOSTOS COM PROPÓSITO PREQUESTIONADOR. APLICAÇÃO DA MULTA PREVISTA NO ART. 538 DO CPC/73. AFASTAMENTO. SÚMULA 98/STJ.
+1 - Manifestado o desinteresse da parte exequente na adjudicação e na alienação particular do imóvel penhorado (arts. 647, I e II e 685-C do CPC/73), poderá ela, desde logo, requerer sua alienação em hasta pública. 2 - Extrai-se do art. 685-C do CPC/73 que a norma confere uma faculdade ao credor de se valer da alienação por iniciativa particular (art. 647, II), sem impedir a opção pela hasta pública. Precedente:
+REsp 1.410.859/RN, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 13/06/2017.
+3 - A multa imposta com base no parágrafo único do art. 538 do CPC/73 deve ser afastada quando os embargos de declaração tenham sido opostos com visível propósito de prequestionamento, de modo a elidir o seu caráter protelatório, como assentado na Súmula 98 do STJ e na jurisprudência consolidada do STJ.
+4 - Recurso especial a que se dá provimento para que a execução retome seu curso, com a pretendida alienação em hasta pública, afastando-se, mais, a multa fundada no art. 538 do CPC/73.
+(REsp 1.312.509/RN, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/12/2017, DJe 14/12/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. FUNRURAL. ART. 25, I E II, DA LEI 8.212/1991. EXIGIBILIDADE DA CONTRIBUIÇÃO A PARTIR DA EDIÇÃO DA LEI 10.256/2001. ACÓRDÃO RECORRIDO EM SINTONIA O ENTENDIMENTO DO STJ. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM PARA PREQUESTIONAMENTO. INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. SÚMULA 98/STJ.
+1. O Pleno do Supremo Tribunal Federal, ao analisar o RE 718.874/RS, pacificou a questão aqui posta no sentido de que "é constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/01, incidente sobre a receita bruta obtida com a comercialização de sua produção" (RE 718.874/RS).
+2. No mesmo sentido, os seguintes precedentes do STJ: EDcl no AgRg no AREsp 546.004/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 11.5.2018; REsp 1.717.965/ES, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 25.5.2018.
+3. No que pertine à aplicação da multa prevista no art. 538, parágrafo único, do CPC/1973, a irresignação é pertinente. Ora, os Aclaratórios foram opostos com o nítido caráter de prequestionamento, o que, por si só, atrai a incidência da Súmula 98/STJ, segundo a qual o recurso integrador manifestado com notório propósito de prequestionamento não tem caráter protelatório.
+4. Recurso Especial parcialmente provido, apenas para excluir a multa imposta na origem com base no art. 538, parágrafo único, do CPC/1973.
+(REsp 1.795.800/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2019, DJe 28/05/2019).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para afastar a multa processual aplicada.
+Publique-se. Intimem-se.
