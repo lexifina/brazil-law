@@ -1,0 +1,19 @@
+Decisão: Trata-se de embargos de declaração opostos por Minerações Brasileiras Reunidas – MBR, em face de decisão desta Presidência que negou seguimento ao seu recurso extraordinário com agravo mercê da intempestividade do recurso.
+    A parte embargante alega, em síntese, que o decisum embargado teria incorrido em erro material, ao analisar acórdão diverso daquele que teria sido objeto do recurso extraordinário posto em análise.
+    É o relatório. DECIDO.
+    Não merece acolhida a pretensão da parte ora embargante.
+    Os embargos de declaração têm a finalidade de permitir ao órgão jurisdicional o saneamento dos vícios elencados no artigo 1.022 do Código de Processo Civil de 2015, quais sejam: “obscuridade”, “omissão”, “contradição” ou “erro material”.
+    Obscuridade é a carência de elementos de organização que confiram harmonia interpretativa ao texto, implicando em dubiedade quanto à linha de raciocínio desenvolvida. Omissão é a ausência de manifestação sobre pedido de tutela jurisdicional, sobre argumentos relevantes suscitados pelas partes e sobre questões apreciáveis de ofício pelo magistrado. Contradição é a existência de proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significa a negação da outra. Por fim, erro material é o equívoco ou inexatidão relacionado a aspectos objetivos do processo.
+    Destarte, o escopo dos embargos declaratórios não é a revisão, reforma ou anulação do julgado, uma vez que não se destinam à produção de uma nova decisão. Sua função é ancilar. Em caso de provimento, eventuais alterações no ato judicial embargado são restritas à correção dos vícios elencados na lei, de forma que a decisão dos embargos terá caráter meramente integrativo.
+    In casu, não merecem qualquer amparo os argumentos despendidos pela parte embargante. Isso porque, o único Recurso Extraordinário interposto nos autos e ainda pendente de julgamento é aquele relativo ao acórdão proferido pelo Tribunal de Justiça do do Estado do Rio de Janeiro, consoante se verifica da própria certidão de remessa dos autos a esta Suprema Corte, emitida pelo Superior Tribunal de Justiça em 18/11/2020.
+    Com efeito, diferente do que faz crer a parte ora embargante, o Recurso Extraordinário por ela interposto em face do acórdão proferido pelo Superior Tribunal de Justiça já foi objeto de julgamento desta Corte, mediante relatoria do Ministro Dias Toffoli (Presidente), oportunidade em que restou desprovido, com decisão plenária transitada em julgado em 06/08/2020.
+    Releva notar, no ponto, que o efeito modificativo ora pretendido somente é possível em hipóteses excepcionais e desde que comprovada a existência de obscuridade, de contradição, de omissão ou de erro material no julgado, o que não ocorre no caso sub examine. Nesse sentido:
+    “EMBARGOS DECLARATÓRIOS - ACÓRDÃO - INEXISTÊNCIA DE VÍCIO - DESPROVIMENTO. Uma vez voltados os embargos declaratórios ao simples rejulgamento de certa matéria, inexistindo, no acórdão proferido, qualquer dos vícios que os respaldam – omissão, contradição e obscuridade –, impõe-se o desprovimento.” (RE 812.827-AgR-ED, Rel. Min. Marco Aurélio, Primeira Turma, DJe de 26/3/2015)
+    “EMBARGOS DE DECLARAÇÃO - INOCORRÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO - EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    - Os embargos de declaração destinam-se, precipuamente, a desfazer obscuridades, a afastar contradições e a suprir omissões que eventualmente se registrem no acórdão proferido pelo Tribunal. A inocorrência dos pressupostos de embargabilidade, a que se refere o art. 535 do CPC, autoriza a rejeição dos embargos de declaração, por inadmissíveis.” (ARE 835.081-AgR-ED, Rel. Min. Celso de Mello, Segunda Turma, DJe de 25/3/2015)
+    Ex positis, DESPROVEJO os embargos de declaração.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2021.
+Ministro Luiz Fux
+Relator
+Documento assinado digitalmente
