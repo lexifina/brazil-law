@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ISAURA OSORIO NUNES no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que a paciente foi condenada,como incursa nas sanções do art. 33, caput, da Lei n. 11.343/2006e do art. 12da Lei n. 10.826/2003, às penas de 7 (sete) anos e 2 (meses) de reclusão e de 1 (um) ano e 2 (dois) meses de detenção, em regime inicialmente fechado, e pagamento de 930 (novecentos e trinta) dias-multa. Consta da denúncia que (e-STJ fls. 27/28):
+1º FATO DELITUOSO No dia 12 de maio de 2019, por volta da 1h, na Rua das Flores, n.º 3313, bairro Vila Nova, próxima a Areeira Três Lagoas, em Rosário do Sul, no interior da residência, os denunciados ISAURA OSORIO NUNES e LUIZ CARLOS NUNES tinham em depósito, guardavam, vendiam, expunham à venda, preparavam, ofereciam e forneciam drogas, para fins de comércio, consistentes em aproximadamente 19 (dezenove) porções de substância entorpecente semelhante a crack, sem autorização e em desacordo com determinação legal e regulamentar, a qual teve sua natureza entorpecente causadora de dependência física e psíquica preliminarmente atestada pelo Laudo de Constatação da Natureza da Substância da fl. 16 doI.P.
+2º FATO DELITUOSO Nas mesmas condições de tempo e espaço acima descritas, a denunciada ISAURA OSORIO NUNES e LUIZ CARLOS NUNES possuíam e mantinham sob sua guarda arma de fogo e munições, no interior da sua residência, consistentes em 01 revólver calibre 32, de uso permitido, marca Taurus, e 01 estojo de munição intacta do mesmo calibre, conforme Autos de Apreensão das fls. 13 e 14 do I.P, sem autorização e em desacordo com determinação legal ou regulamentar, com sua potencialidade lesiva constatada por meio do Auto Preliminar de Funcionamento de Arma de Fogo da fl. 18.
+Por ocasião do fato, os denunciados Isaura e Luiz Carlos se encontravam no interior da residência, momento em que promoveram a venda da droga ao usuário Bruno Gonçalves Prates.
+Na sequência, ao se deslocar da residência dos denunciados, o usuário Bruno foi surpreendido por guarnição da Brigada Militar.
+Em ato contínuo, abordaram-no e localizaram consigo uma porção de substância semelhante a crack, sendo que ele confirmou ter adquirido os entorpecentes da acusada Isaura Nunes pelo valor de R$10,00 (Dez reais).
+Na oportunidade, os policiais militares ingressaram no interior da residência, oportunidade em que os denunciados Isaura e Luiz Carlos foram localizados na posse das substâncias entorpecentesacima descritas, as quais estavam escondidas embaixo do colchão da cama, prontas para a comercialização, além da quantia de R$ 325,00 (Trezentos e vinte e cinco reais). Na ocasião, o denunciado Luiz Carlos foi o responsável por acondicionar os entorpecentes no local acima descrito, enquanto a denunciada Isaura repassava as substâncias a terceiros.
+Além dos objetos acima descritos, os denunciados Luiz Carlos e Isaura estavam com a arma de fogo e munições descritas no segundo fato delituoso, no interior da sua residência, as quais foram encontradas embaixo do colchão da sua cama, enrolada em um pano pelos policiais militares na ocasião do ingresso na sua residência.
+Irresignada, a defesa interpôs recurso de apelação, parcialmente providonos termos da ementa ora transcrita (e-STJ fls. 25/26):
+APELAÇÃO CRIME. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO. IRRESIGNAÇÃO DEFENSIVA.PRELIMINAR. REVOGAÇÃO DA PRISÃO PREVENTIVA. DESCABIMENTO.
+A pretensão de revogação da prisão preventiva do recorrente não merece prosperar, uma vez que apresenta periculosidade social, além da propensão à reiteração delitiva, tendo sido bem fundamentada a manutenção da prisão para garantia da ordem pública.
+PRISÃO DOMICILIAR.
+Questão a ser analisada em sede de execução da pena, pelo juízo da execução.
+MÉRITO. MATERIALIDADE. AUTORIA.CARACTERIZAÇÃO. PALAVRA DOS POLICIAIS.PROVA VÁLIDA. INIDONEIDADE NÃO DEMONSTRADA.
+Comprovada a materialidade e a autoria da ré nos delitos de tráfico de drogas e posse irregular de arma de fogo, inviável a absolvição pretendida. Para afastar-se a presumida idoneidade dos policiais (ou ao menos suscitar dúvida), é preciso que se constatem importantes divergências em seus relatos, ou que esteja demonstrada alguma desavença com a ré, séria o bastante para torná-los suspeitos, pois seria incoerente presumir que referidos agentes, cuja função é justamente manter a ordem e o bem-estar social, teriam algum interesse em prejudicar inocentes. O tráfico de drogas é tipo múltiplo de conteúdo variado, havendo diversos verbos nucleares que o caracterizam; portanto, o flagrante do ato da venda é dispensável para sua configuração, quando restar evidente que a destinação dos entorpecentes é a comercialização - como no caso restou comprovado.
+PEDIDO DE DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DA LEI Nº 11.343/06. INVIABILIDADE.
+Não pode ser acolhido o pedido de desclassificação do delito de tráfico para aquele previsto no art. 28 da Lei nº 11.343/06, formulado pela defesa, porque a prova dos autos demonstra que a ré praticava o tráfico de drogas e não era mera usuária.
+PENA-BASE. TRÁFICO DE DROGAS.REDIMENSIONAMENTO. VETORES DO ART. 59 DO CP E 42 DA LEI Nº 11.343/06REANALISADOS. PENA-BASE REDIMENSIONADA PARA PATAMAR RAZOÁVEL E PROPORCIONAL.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE.
+Não há falar em substituição da pena privativa de liberdade, pois ausentes os requisitos previstos no art. 44 do CP.
+DETRAÇÃO. DESCABIMENTO.
+Não vinga o pedido de detração da pena, pois tal matéria é afeta ao juízo da execução, consoante preceitua o artigo 66, inciso III, alínea "c", da LEP.
+APELO PARCIALMENTE PROVIDO. UNÂNIME.
+Na presente impetração, a defesa assere que a pena-base deve ser fixada no mínimo legal, bem como que deve ser reconhecido o tráfico privilegiado.
+É, em síntese, o relatório.
+A liminar em habeas corpus, bem como em recurso ordinário em habeas corpus, não possui previsão legal, tratando-se de criação jurisprudencial que visa minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos para verificar a existência de constrangimento ilegal.
+Ademais, o pedido liminar confunde-se com o próprio mérito da irresignação, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo deste processo.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Tribunal a quo, ressaltando-se que esta Corte Superior deverá ser noticiada de qualquer alteração no quadro fático atinente ao tema objeto deste feito.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do Conselho Nacional de Justiça.
+Após, dê-se vista dos autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
