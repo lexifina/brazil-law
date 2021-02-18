@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por LUIZ CARLOS CAVALCANTE DE ALMEIDAcontra decisão do Tribunal de Justiça do Amazonas, que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal.
+O acórdão atacado pelo recurso especial restou assim ementado:
+"APELAÇÕES CRIMINAIS. ROUBO MAJORADO E ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE EM RELAÇÃO A UM DOS RÉUS. POSSIBILIDADE.ABSOLVIÇÃO DOS DEMAIS ACUSADOS. NÃO CABIMENTO. PROVAS CONTUNDENTES DE AUTORIA E MATERIALIDADE DOS DELITOS.RECURSOS NÃO PROVIDOS.
+1. Transitada em julgado a sentença penal condenatória para acusação, a prescrição regula-se pela sanção fixada na sentença, instituto previsto no art. 10, § 1º do Código Penal, denominado pela doutrina de prescrição intercorrente ou superveniente.
+2. Em relação ao réu Luis Carlos Cavalcante, constata-se que entre a data do recebimento da denúncia e a publicação da sentença penal condenatória, transcorreu o lapso temporal superior a 6 (seis) anos, prazo prescricional aplicável ao caso concreto, impondo-se a declaração de extinção da punibilidade, em virtude do reconhecimento da prescrição intercorrente.
+3. Noutro giro, considerando-se as provas produzidas em sede inquisitorial e ratificadas em juízo, acerca da autoria e materialidade dos delitos, refuta-se o pleito absolutório formulado pelos demais Apelantes.
+4. Na espécie, a confissão extrajudicial dos réus Luis Carlos e Marcelo do Nascimento, somada às prisões em flagrante, ao laudo de Exibição e Apreensão do veículo e ao testemunho judicial da vítima configuram provas suficientes para subsidiar a decisão condenatória.
+5. Apelos não providos." (e-STJ, fls. 829-830)
+Nas razões do apelo excepcional (e-STJ, fls.862-888), a defesa sustenta violação dos artigos 155, caput, e 386, V e VII, ambos do Código de Processo Penal
+Alega, em suma, a insuficiência de prova para lastrear a condenação do recorrente pela prática dos crimes de roubo e de adulteração de sinal identificadorde veículo.
+No mais, alega equívocona dosimetria, afirmando que asinstâncias ordinárias deixaram de reconhecer a atenuante da confissão espontânea, bem comoaplicaram erroneamente a majoranteprevista no art. 157, §2º, II, do Código Penal (concurso de pessoas), tendo em vista quenão restou comprovado o liame subjetivoentre os acusados a ponto de legitimar a sua inclusão.
+Pretende, assim, o acolhimento do agravo, a fim de conhecer e dar provimento ao recurso especial para que seja determinada a absolvição do recorrente ou, subsidiariamente, redimensionada a pena final aplicada, nos termos fundamentados, com a alteração também do regime inicial.
+Apresentadas as contrarrazões (e-STJ, fls. 893-898), o recurso foi inadmitido em face )de incidência da Súmula 7/STJ (e-STJ, fls. 899-904).Daí este agravo (e-STJ, fls. 910-935), cuja contraminuta encontra-se às e-STJ, fls. 938-942.
+O Ministério Público Federal opinou pela não conhecimento do agravo (e-STJ, fl. 956).
+É o relatório.
+Decido.
+Inicialmente, verifique-se que a defesa interpôs agravo tempestivo e combativo de todos os fundamentos da decisão de inadmissibilidade do recurso especial.
+Contudo, adianta-se que o apelo não merece seguimento porquanto as matérias suscitadas não foram prequestionadas na instância ordinária,exigência imprescindívelno tocante ao conhecimento do recurso especial.
+Com efeito, o Tribunal de Justiça do Amazonas julgou os três recursos de apelação interpostos por cada um dos réus.
+Concernente ao apelo do recorrente, a Corte estadualreconheceuquestão prejudicial de mérito e declaroua extinção dapunibilidade do recorrentequanto ao crime de roubo diante da prescrição da pretensão punitiva intercorrente do recorrente (e-STJ, fls. 834-836). Essafoi a única questão analisada pelo Colegiado amazonense, que não se pronunciou sobre o crime remanescente de adulteração de sinal identificador de veículo.As demais pretensões analisadas são relacionadas exclusivamente aos apelos dos corréus.
+Foi esse inclusive o teor das contrarrazões apresentadas pelo Ministério Público do Amazonas:
+"Ademais, é imperioso reconhecer a ausência de interesse recursal quanto ao pedido de absolvição pelo crime previsto no art. 157, §242, I e II, do CP, uma vez que sua punibilidade foi extinta pelo Tribunal a quo pela ocorrência da prescrição intercorrente (fl. 838).Por sua vez, no que se refere ao pedido de absolvição pelo crime previsto no art. 311, caput, do CPP, tem-se que este não foi prequestionado perante o Tribunal a quo, motivo pelo qual, por mais esta razão, não deve ser conhecido o presente recurso especial." (e-STJ, fls. 897)
+Assim sendo, pode-se concluir que o recorrente não possui interesse recursal em relação às teses vinculadas ao delito de roubo. E, quanto aocrime do artigo 311 do Código Penal, considerando que não houve apreciação do TJAM, há incidência do óbice das Súmulas 282 e 356 ambas do STF. A respeito: "A ausência de prequestionamento da matéria impede o conhecimento do recurso especial, mesmo que se trate de nulidade absoluta, nos termos das Súmulas n. 282 e 356 do STF." (AgRg no REsp 1736752/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/08/2020, DJe 01/09/2020, grifou-se).
+Ante o exposto, conheço do agravo, para não conhecer do recurso especial.
+Publique-se. Intimem-se.
