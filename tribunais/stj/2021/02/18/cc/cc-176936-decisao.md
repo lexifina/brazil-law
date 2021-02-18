@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre a Primeira Turma e a Quarta Turma desta Corte Superior, tendo por objetivo a definição do Órgão julgadorcompetente para processar e julgar Recurso Especial (RESp n. 1.722.199/RO).
+O recurso foi inicialmente distribuído ao Ministro Gurgel de Faria, que se declarou incompetente em razão da matéria, pois a controvérsia diz respeito a indenização por danos decorrentes de construção usina hidrelétrica (fl. 131-133).
+Os autos foram redistribuídos ao Ministro Paulo de Tarso Sanseverino. Por meio de Questão de Ordem, sua Excelência submeteu a matéria à apreciação da Terceira Turma, que acolheu proposta para suscitar o conflito negativo de competência para a Corte Especial (fls. 141-157).
+Os autos foram distribuídos a este Relator em 11/2/2021.
+Santo Antonio Energia S.A., recorrente,peticionou às fls. 175-191 (Pet n. 00029154/2021) e informou que seu Recurso Especial (RESp n. 1.722.199/RO) encontra-se prejudicado, poisdiz respeito a questão interlocutória, retirada de agravo de instrumento na Corte de origem, situação processual essa que já foi superada em razão do julgamento do Recurso de Apelação, com trânsito em julgado em 4/9/2020 (fls. 177-189). Requer, portanto, a desistência do Recurso Especial n.1.722.199/RO.
+A parte requerente está devidamente representadapor meio de outorga de procuração com poderes especiais, inclusive para desistir de recurso (fls. 25-29), razão por que o pedido deve ser acolhido. Nesse sentido, e também em sede de Conflito de Competência distribuído à Corte Especial, confira-se:DESIS noCC n.151.327 - DF, Rel. Min. Luis Felipe Salomão, DJ de 18/11/2020.
+Ante o exposto, nos termos do art. 998 do CPC/2015 c.c. arts. 8º, parágrafo único, 11, XI, 16, IV, e 34, IX, do RI/STJ, homologo o pedido de desistência formulado e, por conseguinte, julgo extinto o presente incidente pela perda superveniente do seu objeto.
+Publique-se. Intimem-se.
