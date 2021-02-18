@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por SONIA DA SILVA SALOMÃO e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+RECURSO DE APELAÇÃO EM AÇÃO DE REPARAÇÃO POR DANOS MORAIS DECORRENTES DE ACIDENTE DE TRÂNSITO - PRELIMINAR DE CERCEAMENTO DE DEFESA - AFASTADA - ACIDENTE AUTOMOBILÍSTICO COMPROVADO POR DOCUMENTOS A ISENÇÃO DE CULPA DO APELADO - DINÂMICA DOS VEÍCULOS COMPROVA QUE O CASO DOS AUTOS É DE CULPA EXCLUSIVA DA VÍTIMA - INQUÉRITO POLICIAL AFASTA QUALQUER CULPA DO MOTORISTA DA EMPRESA APELADA - RECURSO CONHECIDO E DESPROVIDO. (fls. 281).
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação dos arts. 370, 371 e 373, I e II, do CPC, no que concerne ao cerceamento do direito de defesa por indeferimento de produção de provas, traz o(s) seguinte(s) argumento(s):
+O v. acórdão atacado, ao rejeitar a preliminar de CERCEAMENTO DE DEFESA POR INDEFERIMENTO DE PRODUÇÃO DE PROVAS, contrariou frontalmente o disposto nos artigos 370 e 371, do CPC, por improver o apelo e, dessa forma, impedir que prova crucial fosse produzida (..)
+(..) os recorrente haviam especificaram como uma das provas a produzir perícia técnica por engenheiro de segurança de trânsito em trafego para aferição e levantamento das circunstâncias em que se deu o acidente de trânsito com vítima fatal, de modo a levantar se houve ou não violação de regras de trânsito e tráfego por parte do motorista/caminhão de propriedade e posse da empresa requerida. (fls. 289).
+ ..
+Como ressaltado alhures, equivoca-se o tribunal recorrido ao rejeitar a preliminar de CERCEAMENTO DE DEFESA e, contrariando, o disposto no art. 373, I do CPC, manter o indeferimento da realização de tal perícia técnica especializada (..)(fls. 291).
+ ..
+Esse levantamento técnico e de regras de trânsito/tráfego no dia, hora e local do acidente inexiste no processo, daí a necessidade da produção de tal prova a ser realizada por profissional especializado e com missão específica dentro daquilo que estabelecer o juízo e os quesitos formulados pelas partes. (fls. 371).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, o Tribunal de origem se manifestou nos seguintes termos:
+Ao contrário do alegado pelo Recorrente, não vislumbro a necessidade de produção das provas em questão. Isso porque, o requerimento de produção de prova pericial não se mostra necessária ao deslinde do feito, tendo em vista o conjunto documental já apresentado pelo Réu. (fls. 283).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
