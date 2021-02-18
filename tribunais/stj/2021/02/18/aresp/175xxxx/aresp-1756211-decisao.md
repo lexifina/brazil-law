@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por JOÃO DONIZETE PAGOTTIcontra decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu recurso especial interposto com fundamento naalíneaado permissivo constitucional, apresentado contra acórdão proferido na Apelaçãon.0079843-29.2015.8.16.0014.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às penas de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial aberto, como incurso nos arts. 302, caput, e 303, caput, da Lei n.9.503/97, na forma do art. 70 do Código Penal. Também foi determinada a proibição de dirigir veículo automotor por 12 (doze) meses. A sanção corporal foi substituída por 2 (duas) restritivas de direitos (fls. 272-285).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem negou provimento, nos termos da seguinte ementa (fl. 376):
+"APELAÇÃO CRIME. HOMICIDIO CULPOSO E LESÃO CORPORAL CULPOSA NO TRÂNSITO. DECRETO CONDENATÓRIO.PRETENSÃO DE ABSOLVIÇÃO. NÃO ACOLHIMENTO. CONDUTA IMPRUDENTE DO MOTORISTA. MANOBRA DE CONVERSÃO EM LOCAL PROIBIDO. INTERCEPTAÇÃO DA TRAJETÓRIA DE MOTOCICLETA QUE TRAFEGAVA NA SUA MÃO CORRETA DE DIREÇÃO OCASIONANDO A COLISÃO E MORTE DO CONDUTOR E LESÃO NA PASSAGEIRA. VIOLAÇÃO DO DEVER OBJETIVO DE CUIDADO. EXISTÊNCIA DE PROVA CRISTALINA E INEQUÍVOCA DA CULPABILIDADE DO ACUSADO.INVIABILIDADE DE APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO REO. CULPA EXCLUSIVA/CONCORRENTE DA VÍTIMA, COM ALEGAÇÃO DE EXCESSO DE VELOCIDADE. NÃO CONFIGURAÇÃO. COMPENSAÇÃO DE CULPAS INADMISSÍVEL NA ESFERA PENAL. RECURSO DESPROVIDO."
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade ao art. 386, inciso VII, do Código Penal; bem como aos arts. 302 e 303 da Lei n.9.503/97.
+Pondera que não foram apresentadas provas hábeis e idôneas a amparar a condenação do Acusado com a certeza necessária a tal desiderato.
+Foram apresentadas contrarrazões (fls. 411-413). O recurso especial não foi admitido (fls. 417-418). Foi interposto agravo (fls. 427-431).
+O Ministério Público Federal apresentou parecer, opinando pelo conhecimento do agravo para não conhecer do recurso especial (fls. 457-462).
+É o relatório.
+Decido.
+O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 379-385; sem grifos no original):
+"A materialidade do delito restou consubstanciada pelo boletim de acidente de trânsito (mov. 4.3), certidão de óbito (mov. 4.11), laudo de exame cadavérico (mov. 4.10), laudo de exame de sanidade física (mov. 6.3) e boletim de ocorrência (mov. 4.4).
+No tocante à autoria, é certa e recai sobre o réu João Donizete Pagotti.
+A controvérsia cinge-se à existência de culpa do acusado para o resultado morte da vítima Pedro da Silva e das lesões da vítima Maria de Jesus Campos, conforme narrada na exordial acusatória.
+No presente caso, a despeito da tese defensiva, a prova carreada aos autos demonstra que o denunciado agiu com culpa para a ocorrência do delito, não havendo que se falar em insuficiência probatória ou possibilidade de aplicação do princípio in dubio pro reo.
+ ..
+Portanto, não há como excluir a responsabilidade do apelante, pois inexiste dúvida de que realizou conversão em local proibido, interceptando a trajetória da motocicleta, e que tal fato decorreu de sua conduta imprudente, ao dirigir deixando de observar a sinalização de trânsito, sendo certo que a conduta do denunciado deveria ter sido pautada com cautela e, como não a tomou, agiu com imprudência, contribuindo, desta forma, de modo decisivo para os resultados lesivos.
+Sob este enfoque, não se pode negar que o réu infringiu um dever de cuidado objetivo, desrespeitando os arts. 28, 29, §2º, 34 e 44, do Código de Trânsito Brasileiro, ao conduzir seu veículo, realizando conversão proibida, interceptando o curso da motocicleta pilotada pelo ofendido, que transitava em sua regular mão de direção, culminando na morte da vítima Pedro e nas lesões da ofendida Maria.
+ ..
+Logo, em sendo exigível cautela por parte do apelante, condição não observada que tornou previsível a ocorrência de um resultado lesivo, resta inviável o acolhimento da pretensão absolutória pautada no princípio in dubio pro reo ou por ausência de provas acerca de sua responsabilidade, eis que demonstrada, durante a instrução, sua culpa.
+ ..
+E, a alegação de que a vítima estaria em velocidade excessiva e que, desta forma, concorreu para a ocorrência do acidente, certo é que tal argumento, que sequer restou comprovado, não serve para afastar a responsabilidade criminal do apelante, sobretudo porque inexiste compensação de culpas em direito penal, bem assim, caberia ao motorista prudente, observar as normas de trânsito, que indicavam a proibição de conversão naquele cruzamento, bem assim, ainda que fosse permitido, deveria verificar se não havia veículo no sentido contrário, na regular mão de direção, antes de efetuar qualquer manobra que pudesse interceptar a trajetória dos demais usuários da via.
+ ..
+Inviável, portanto, afastar o juízo condenatório pela prática dos crimes de homicídio culposo e lesão corporal culposa na direção de veículo automotor, eis que plenamente comprovado pelos elementos de convicção colhidos nos autos, durante a instrução, que o apelante criou risco não permitido, ao quebrar o dever de cuidado exigido pelo Código de Trânsito Brasileiro, interceptando a trajetória da motocicleta pilotada pela vítima Pedro, na qual Maria era passageira."
+Como se vê, o Tribunal de origem, soberano quanto ao exame do acervo fático-probatório acostado aos autos, concluiu que foram apresentadas provas suficientes a alicerçar a condenação do ora Agravante. Portanto, a inversão do julgado, de maneira a fazer prevalecer a tese absolutória, demandaria, necessariamente, nova incursão nas provas e fatos que instruem o caderno processual, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSTO NO TRÂNSITO. TEMPESTIVIDADE DO AGRAVO REGIMENTAL. RECONHECIMENTO. ABSOLVIÇÃO. SÚMULA N. 7 DO STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES. POR CONSEGUINTE, AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. É inviável o exame do pedido de absolvição do réu, nos termos pugnados pela defesa - em que se sustenta a existência de provas conflitantes nos autos -, uma vez que seria imprescindível realizar o cotejo entre depoimentos, laudos periciais e outros documentos para desconstituir o entendimento da Corte local.
+3. Na espécie, as instâncias ordinárias, competentes para analisar detidamente os fatos e as provas produzidas, concluíram fundamentadamente pela procedência da imputação de homicídio culposo no trânsito ao réu, conclusão que não pode ser alterada por este Tribunal Superior, em atenção à Súmula n. 7 do STJ.
+4. Embargos de declaração acolhidos, com efeitos infringentes, para reconhecer a tempestividade do agravo regimental interposto, ao qual, a seu turno, é negado provimento."(EDcl no AgRg no AREsp 1.685.359/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.CRIME DE TRÂNSITO. HOMICÍDIO CULPOSO. AR. 302, CAPUT, DA LEI 9.503/97. ABSOLVIÇÃO. SÚMULA 7/STJ. APLICAÇÃO RETROATIVA DO ART.28-A DA LEI Nº 13.964/2019. ACORDO DE NÃO PERSECUÇÃO PENAL. RÉU CONDENADO. IMPOSSIBILIDADE. ABSOLVIÇÃO. INSUFICIÊNCIA DE PROVAS.SÚMULA 7/STJ. REDUÇÃO DAS PENAS. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+ ..
+2. A absolvição do acusado, baseada na insuficiência de provas ou na atipicidade da conduta, demandaria necessariamente nova análise do conjunto fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+ ..
+7. Agravo regimental não provido."(AgRg no AREsp 1.739.684/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. HOMICÍDIO CULPOSO E LESÃO CORPORAL NA DIREÇÃO DE VEÍCUO AUTOMOTOR. PLEITO PELA ABSOLVIÇÃO. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
