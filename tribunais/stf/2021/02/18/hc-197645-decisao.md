@@ -1,0 +1,27 @@
+DECISÃO:
+Ementa: Processual penal. Habeas corpus. Homicídio tentado. Alegação de ausência de justa causa para a ação penal. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que não conheceu do HC 623.730/RJ, do Superior Tribunal de Justiça (STJ).
+    2.  Extrai-se dos autos que o paciente foi denunciado pela prática do crime previsto no art. 121 c/c o art. 14, II, do Código Penal.
+    3. A peça acusatória foi rejeitada pelo Juízo de origem. Inconformado com a decisão, o Ministério Público estadual interpôs recurso em sentido estrito, o qual foi provido pelo Tribunal de Justiça do Estado do Rio de Janeiro (TJ/RJ) para determinar o recebimento da denúncia e o prosseguimento da ação penal. A defesa impetrou, então, habeas corpus no Superior Tribunal de Justiça (HC 623.730/RJ). O Relator, Min. Reynaldo Soares da Fonseca, não conheceu do writ.
+    4. Neste habeas corpus, a parte impetrante sustenta a ausência de justa causa para o prosseguimento da ação penal. Afirma não haver nexo de causalidade que vincule “a morte de Jorge Aguiar às lesões perfuro-cortantes supostamente desferidas pelo acusado”. Ademais, destaca que o objeto material supostamente utilizado seria impróprio para a consumação do crime de homicídio. Daí o pedido de concessão da ordem para que seja “trancada a ação penal, por ausência de nexo de causalidade, tendo como base o exame cadavérico que aponta ausência entre o evento e a causa morte, devendo ser aplicada a SUPERVENIÊNCIA DE CAUSA INDEPENDENTE, prevista no artigo 13, parágrafo 1º do Código Penal”.
+    5. Decido.
+    6. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    7. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    8. Não é o caso de concessão da ordem de ofício.
+    9. O entendimento do STF é no sentido de que o trancamento de ação penal só é possível quando estiverem comprovadas, de logo, a atipicidade da conduta, a extinção da punibilidade ou a evidente ausência de justa causa (HC 103.891, Redator para o acórdão o Min. Ricardo Lewandowski; HC 86.656, Rel. Min. Ayres Britto; HC 81.648, Rel. Min.Ilmar Galvão; HC 118.066-AgR, Rel.ª Min.ª Rosa Weber, e HC 104.267, Rel. Min. Luiz Fux).
+    10. No caso, não é possível infirmar de plano os fundamentos adotados pelas instâncias de origem para acolher a tese defensiva, no sentido da ausência de materialidade e nexo causal entre a conduta imputada ao paciente e a lesão sofrida pela vítima, em especial por observar que o seu eventual acolhimento demandaria o revolvimento do conjunto fático-probatório, o que não é possível na via restrita do habeas corpus. Transcrevo, nesse sentido, as seguintes passagens do acórdão do TJ/RJ:
+    “[...] a imputação atribuída ao denunciado é tentativa de homicídio e, nesse sentido, a prova é solida.
+    Note-se que o fato ocorreu em 13/05/2015. A ação penal pública incondicionada foi deflagrada por denúncia do Parquet, oferecida em 08/05/2019.
+    O Laudo de Exame de Corpo Delito de Lesão Corporal, foi realizado em 14/06/2015, ou seja, um mês após o fato. Todavia, as respostas aos quesitos ficaram na dependência do encaminhamento de informações médica e exame indireto:
+    […]
+    Entretanto, antes disso, a vítima veio a falecer, em 27/09/2015 (pasta 60), atestada como causa mortis ‘Choque Séptico, Sepse de Foco Indeterminado, Distúrbio Hidro Eletrolético’ (Leia-se “distúrbio hidroeletrolítico”).
+    O Laudo Complementar Indireto, realizado em 12/02/2019, é absolutamente conclusivo no sentido de haver nexos causal e temporal entre a lesão sofrida pela vítima, produzida por ação perfurocortante [...]”
+    11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 18 de fevereiro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
