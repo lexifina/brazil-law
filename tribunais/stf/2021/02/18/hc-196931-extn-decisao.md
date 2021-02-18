@@ -1,0 +1,16 @@
+Habeas corpus. Tráfico de drogas. Pedido de extensão. Artigo 580 do CPP. Corréu. Prisão preventiva. Incompatibilidade com o regime inicial de cumprimento de pena (semiaberto) fixado na sentença. Identidade fática identificada. Pedido deferido.
+    Vistos etc.
+    Trata-se de requerimento formulado por Rafael Assis de Farias, em que pugna pela extensão dos efeitos de decisum de minha lavra, pelo qual concedi, de ofício, a ordem de habeas corpus, para revogar a prisão preventiva do Paciente Christian Ramon de Oliveira, facultando ao Juízo da Vara Criminal da Comarca de Tijucas/SC (Processo 5001355-94.2020.8.24.0072) a imposição de medidas cautelares diversas da prisão (art. 319 do CPP).
+    A Defesa argumenta, em síntese, identidade fática e jurídica entre as situações processuais dos requerentes e do paciente Christian, porquanto teriam sido denunciados e condenados pelo mesmo crime de tráfico de drogas. Sustenta a aplicação do disposto no artigo 580 do CPP - ‘No caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros’. Requer, como consequência da extensão, a revogação da prisão preventiva.
+    O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República Cláudia Sampaio Marques, opina pelo deferimento do pedido.
+    É o relatório.
+    Decido.
+    Ao exame dos autos, verifico que o magistrado de primeiro grau utilizou a mesma fundamentação fática e jurídica na condenação dos envolvidos ao fixar o regime inicial semiaberto para o cumprimento das penas e negar o direito de recorrer em liberdade, forte na manutenção da prisão preventiva.
+    Nesse sentido, o parecer ministerial ressaltou que ‘Faz-se necessário reconhecer, a partir da leitura da sentença (fls. 41/51) e do acórdão condenatórios (fls. 22/24), a existência de similitude no quadro processual do requerente em relação ao paciente, para fins de incidência da norma do art. 580 do CPP, porquanto ambos foram presos em flagrante e condenados pelo delito do art. 33, caput, da Lei n. 11.343/06, a 05 (cinco) anos de reclusão, em regime semiaberto, com negativa do direito ao recurso em liberdade’.
+    Nesse contexto, reputo aplicável a extensão da ordem concedida em favor do paciente Christian Ramon de Oliveira ao corréu Rafael Assis de Farias, ora Requerente, nos termos do art. 580 do Código de Processo Penal - “No concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará outros” -, uma vez constatada a identidade de razões utilizadas para negar aos envolvidos o direito de recorrerem da sentença em liberdade.
+    Ante o exposto, forte no art. 192, caput, do RISTF, defiro o pedido de extensão, para revogar a prisão preventiva do Paciente Rafael Assis de Farias, facultando ao Juízo da Vara Criminal da Comarca de Tijucas/SC (Processo 5001355-94.2020.8.24.0072) a imposição de medidas cautelares diversas da prisão (art. 319 do CPP). Deve o Requerente ser imediatamente colocado em liberdade, se por outra razão não estiver preso.
+    Comunique-se, com urgência.
+    Publique-se.
+    Brasília, 18 de fevereiro de 2021.
+Ministra Rosa Weber
+Relatora
