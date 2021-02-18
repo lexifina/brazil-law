@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de MARCOS ROBERTO MARÇAL DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Processo n. 2017645-09.2020.8.26.0000).
+O paciente encontra-se preso preventivamente, desde 28/4/2019 , em razão da suposta prática do delito descrito no art. 157, § 1º, do Código Penal.
+A defesa requer seja reconhecida a ilegalidade da prisão, alegando indevido excesso de prazo para a formação da culpa, razão por que deve a prisão ser revogada.
+Destaca ainda a Recomendação CNJ n. 62/2020, aduzindo que o paciente está encarcerado em situação precária durante pandemia mundialmente reconhecida, devendo ser garantido seu direito de aguardar em liberdade o julgamento do mérito da ordem.
+O pedido de liminar foi indeferido (fls. 294-295).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 330-331).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 18-19):
+Nessa ordem de ideias, (i) observa-se que o paciente acha-se denunciado por fato bastante reprovável sob a óptica criminal roubo impróprio, onde teria esfaqueado, no peito, a filhada vítima, autorizador de um juízo prospectivo no sentido de que, no caso de condenação, a pena imposta não será diminuta.
+ ..
+Além disso, (ii) ao que se depreende das informações, a relação processual encontra-se em regular tramitação, estando agendado o dia 05.05.2020, às 13:40 horas, para a continuação da audiência de instrução e julgamento, de sorte que existe perspectiva de ultimação da instrução a curto prazo. Demais, (iii) segundo consta das informações, houve a necessidade de expedição de carta precatória para a oitiva das vítimas, o que justifica algum retardamento (cf. fls. 14).Sopesando esses fatores, inclusive o tempo de prisão processual (desde 27.04.2019 fls. 07), à luz dos parâmetros referidos, não se divisa, por ora, um quadro de antijuridicidade na subsistência da prisão processual.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+No que diz respeito à Recomendação CNJ n. 62/2020, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
