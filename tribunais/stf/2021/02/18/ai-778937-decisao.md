@@ -1,0 +1,35 @@
+DIREITO PROCESSUAL CIVIL. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. NULIDADE. INOCORRÊNCIA. RAZÕES DE DECIDIR EXPLICITADAS PELO ÓRGÃO JURISDICIONAL. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo de instrumento. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na violação dos arts. 5º, XXXV, e 93, IX, da Lei Maior.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo de instrumento.
+    A Corte de origem decidiu a controvérsia nos seguintes termos:
+    “[...]
+    Com efeito, descabe cogitar de anulação da sentença, pois além do julgado hostilizado apreciar as questões essenciais que foram discutidas, sabe-se que o juiz não está obrigado a responder todas as alegações das partes, quando já formada sua convicção pessoal quanto aos aspectos de maior relevo, além do que compete a instância revisora, se o caso, adotar à hipótese as situações contempladas no art. 515, §§ 1º, 2º, do CPC.
+    Trata a hipótese de débito fiscal declarado e não pago, nos termos do art. 49 da Lei n° 6.374/89.
+    E o título executivo acostado a fls. 03 dos autos em apenso realmente atende aos requisitos legais exigidos nos arts. 2º, § 5º, da Lei n° 6.830/80 e 202 do Código Tributário Nacional e goza de presunção de liquidez e certeza, nos termos do art. 3º da Lei n° 6.830/80, constituindo titulo executivo que prescinde prévio procedimento administrativo ou notificação.
+    Nesse sentido é torrencial o entendimento assentado nesta Câmara:
+    ‘EXECUÇÃO FISCAL - PROCEDIMENTO ADMINISTRATIVO - DESNECESSIDADE - RECURSO IMPROVIDO. Se o imposto foi declarado pelo próprio contribuinte, apurado através de autolançamento, não é necessária a instauração de procedimento administrativo ou emissão de auto de infração para cobrança do débito fiscal.’ (Apelação Cível n. 281.810-5/6-00, TJSP, 4a Câmara de Direito Público, Rei. Des. Thales do Amaral, j. 24/5/2007).
+    E ainda: apelações 274.432-5/7, 251.314-5/8, 288.633.5/5 e 397.635.5/8, todas desta C. Câmara. No mesmo sentido: resp. N. 919.890/SP, 751.534/RS, 297.885, 693.828-0 etc.
+    As exigências quanto aos demais encargos também estão em estrita harmonia com os diplomas e disposições referidas na certidão de dívida ativa que em nenhum momento foi ilidida, demonstração que estaria a cargo da executada, de cujo ônus processual deixou de desincumbir-se.
+    A taxa SELIC, por sua vez, não afronta princípios e garantias constitucionais e há muito vem sendo admitida e considerada legal na atualização dos débitos fiscais, segundo o Colendo Superior Tribunal de Justiça:
+    ‘(...) como pode ser aplicada em favor do contribuinte nas"restituições e compensações, é perfeitamente legal a aplicação da taxa SELIC na cobrança de débitos tributários’ (cf. REsp. 462.710).
+    ‘É legitima a utilização da Taxa SELIC como índice de correção monetária e de juros de mora, na atualização dos créditos tributários. Precedentes: AgRg no Resp. 692.561, rei. Luiz Fux.’
+    Nenhuma ilegalidade nela se admite ocorrente, pois como demonstra a certidão de dívida ativa a Lei n° 10.175/98 estabelece que os impostos estaduais que não forem liquidados estão sujeitos a juros de mora à razão de 1% ao mês.
+    E a aplicação dos juros com base na citada taxa afasta a cumulação de índice de correção monetária já que a variação está considerada nos cálculos da aludida taxa.
+    Nem mesmo se pode admitir que a incidência daqueles sofresse restrição por força do art. 192, § 3º, da Carta Magna, pois o Excelso Pretório tem proclamado a inaplicabilidade de tal preceito no caso, até porque, como já salientado, não há conflitância na sua adoção porque o art. 161, § 1º, do CTN não obsta a aplicação dos juros no percentual exigido.
+    Por fim, quanto à redução da verba honorária, nesse particular, razão assiste à embargante.
+    Conquanto tal verba decorra der princípio da causalidade da demanda e os embargos justificam inclusive elevação, dada a autonomia de que se revestem, posto o plus da atividade profissional desenvolvida pelos patronos da embargada, tornando-a diversa daquela que se fixa em regra na propositura da execução, força é admitir que o percentual de 20% constitui demasia.
+    Desse modo, impõe-se a redução para 15% do total do débito atualizado, percentual que se afigura mais condizente com o trabalho profissional e com os critérios contemplados no art. 20, § 3º, do CPC.”
+    Da leitura dos fundamentos do acórdão prolatado na origem, constato explicitados os motivos de decidir, circunstância que afasta o vício da nulidade por negativa de prestação jurisdicional arguido.
+    Destaco que, no âmbito técnico-processual, o grau de correção do juízo de valor emitido na origem não se confunde com vício ao primado da fundamentação, notadamente consabido que a disparidade entre o resultado do julgamento e a expectativa da parte não sugestiona lesão à norma do texto republicano.
+    Na hipótese em apreço, enfrentadas todas as causas de pedir veiculadas pela parte, capazes de, em tese, influenciar o resultado da demanda, considerada a compatibilidade entre o que alegado e o entendimento fixado pelo órgão julgador. Colho precedente desta Suprema Corte na matéria, julgado segundo a sistemática da repercussão geral:
+    “Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral” (AI 791.292-QO-RG, Relator Ministro Gilmar Mendes, Plenário Virtual, DJe 13.8.2010).
+    Não há, portanto, como assegurar trânsito ao extraordinário, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento ao agravo de instrumento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 18 de fevereiro de 2021.
+Ministra Rosa Weber
+Relatora
