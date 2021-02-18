@@ -1,0 +1,36 @@
+Recurso Inominado:
+1007836-71.2018.8.11.0041
+Origem:
+JUIZADO ESPECIAL DA FAZENDA PÚBLICA DE CUIABÁ
+Recorrente:
+GIOVANI DA SILVA AYLLON
+Recorrido:
+ESTADO DE MATO GROSSO
+Juiz Relator:
+JORGE ALEXANDRE MARTINS FERREIRA
+EMENTA
+COBRANÇA DE DIFERENÇA DE URV – AJUIZAMENTO DE AÇÃO APÓS O TRANSCURSO DO PRAZO DE 05 (CINCO) ANOS DA DATA DA EDIÇÃO DA LEI DE REESTRUTURAÇÃO DA CARREIRA DO SERVIDOR. PRESCRIÇÃO RECONHECIDA. DECISÃO MONOCRÁTICA ART. 932, IV, “A” DO CPC. RECURSO CONHECIDO E IMPROVIDO.
+1. A reestruturação da carreira faz cessar o direito ao recebimento das diferenças decorrentes da URV, momento em que se inicia o prazo prescricional para reclamar diferenças não recebidas nos cinco anos anteriores à reestruturação, nos termos da Súmula 11 da Turma Recursal Única do Estado de Mato Grosso.
+2. O prazo prescricional para propositura da ação de cobrança relacionada às diferenças salariais decorrentes da URV é de cinco anos, nos termos do Decreto 20.910/32, de 06/01/32, complementada pelo Decreto Lei 4.597, de 19.08.42 e da Sumula 107 do Tribunal Regional Federal.
+3. Decisão monocrática em face ao disposto no art. 932, IV, “a”, do Código de Processo Civil.
+RELATÓRIO
+Trata-se de Recurso Inominado contra sentença que acolheu a prescrição da pretensão do direito do Recorrente, na qual visava à incorporação e recebimento das diferenças salariais decorrentes da URV.
+A parte recorrida apresentou contrarrazões e postulou a manutenção da sentença.
+É o relatório.
+DECISÃO MONOCRÁTICA
+Após detido exame dos autos, chego à conclusão de que a R. Sentença guerreada deve ser mantida, sendo evidente a prescrição da pretensão do Recorrente.
+Saliento que, a parte Recorrente ocupa o cargo de Policial Militar, cuja carreira foi reestruturada pela Lei Complementar 231/2005, que promoveram alteração do Plano de Cargos, Carreiras e Salários, inclusive com a instituição do subsídio.
+Assim, nos termos do entendimento consolidado do Supremo Tribunal Federal, tem-se como o termo final a ser considerado para fins de análise do direito à diferença da URV, o ano de 2005, ano em que foi publicada a Lei que reestruturou a carreira do cargo efetivo da parte Recorrente, oportunidade na qual, como visto, as parcelas decorrentes de decisões administrativas e judiciais foram absorvidas pela nova tabela de vencimentos.
+Nesse sentido é a Sumula desta Turma Recursal Única:
+“Súmula 11: O inicio do marco prescricional para reivindicar eventuais diferenças da conversão da moeda de Cruzeiros Reais para Unidade Real do Valor (URV) é a edição da primeira Lei de Reestruturação Remuneratórios das Carreiras de cada categoria de servidor público (Embargos de Declaração do RE 561836/RN-STF)”
+Desse modo, as diferenças salariais pretendidas pela parte Recorrente encontram-se superadas pela prescrição, vez que entre a data da publicação da referida lei e a data da distribuição da demanda (27/03/2018) transcorreu e prazo superior a cinco anos, nos termos do Decreto 20.910/32, de 06/01/32, complementada pelo Decreto Lei 4.597, de 19.08.42 e da Sumula 85 do STJ.
+Com efeito, o Relator pode, monocraticamente, negar provimento a recurso que esteja em desacordo com a jurisprudência dominante do respectivo Tribunal, é o que dispõe o art. 932, inciso IV, alínea “a” do Código de Processo Civil, in verbis:
+“Art. 932. Incumbe ao relator:
+(...)
+IV – negar provimento a recurso que for contrário a:
+a) súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal;”
+Ante o exposto, conheço o recurso inominado, e, em face ao disposto no o art. 932, inciso IV, alínea “a” do Código de Processo Civil, monocraticamente, NEGO-LHE PROVIMENTO, para manter integralmente a sentença de origem.
+Condeno o Recorrente GIOVANI DA SILVA AYLLON ao pagamento das custas processuais e honorários advocatícios, que nos termos do artigo 55 da Lei 9.099/95, fixo em 10% (dez pontos percentuais) sobre o valor da causa, ficando a exigibilidade do pagamento suspensa, enquanto perdurar a sua impossibilidade em adimpli-las, nos termos do artigo 98, § 3.o, do CPC.
+Intimem-se.
+JORGE ALEXANDRE MARTINS FERREIRA
+Juiz de Direito Relator
