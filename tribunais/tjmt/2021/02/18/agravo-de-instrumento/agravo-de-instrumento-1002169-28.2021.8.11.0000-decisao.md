@@ -1,0 +1,33 @@
+AGRAVO DE INSTRUMENTO N. 1002169-28.2021.8.11.0000
+AGRAVANTE:
+POLLIANA ELENA VARNIER, ERNESTO SÉRGIO VARNIER, SARA AURÉLIA VARNIER E SUELLEN AMANDA VARNIER
+AGRAVADO:
+ESTADO DE MATO GROSSO
+Vistos etc.
+Trata-se de agravo de instrumento, com pedido de antecipação da tutela recursal, interposto por POLLIANA ELENA VARNIER, ERNESTO SÉRGIO VARNIER, SARA AURÉLIA VARNIER E SUELLEN AMANDA VARNIER em face da decisão proferida pelo Juízo da 5a Vara Especializada da Fazenda Pública da Comarca de Cuiabá/MT, que, nos autos da Ação Anulatória n. 1057653-70.2019.8.11.0041, indeferiu a antecipação de tutela diante da ausência dos pressupostos previstos no art. 300 do Código de Processo Civil.
+Em síntese, aduzem os agravantes que ajuizaram ação anulatória, com objetivo de verem declarada a nulidade do lançamento tributário, de modo a afastar a mora, apurando-se, mediante perícia contábil, o real valor do tributo devido, nos parâmetros descritos na exordial.
+Afirmam que o lançamento tributário é nulo, pois, “(a) contrariou o critério legal (tanto da Lei Estadual do ITCD quanto da legislação de direito privado) para a avaliação das quotas sociais que integra, a herança, realizando -se uma vedada atualização de ativo imobilizado não destinado à venda, com violação do artigo 110 do CTN e (b) utilizou como base de cálculo o acervo ativo bruto da herança, quando a tributação somente poderia incidir sobre o valor líquido da herança, abatidas as dívidas do espólio, sob pena de ofensa aos princípios da vedação ao confisco e da capacidade contributiva” (sic, id. 75772489, p. 04).
+Ademais, realçam que, “(...) antes de decidir o pedido de urgência, o Juízo de primeiro grau em que o feito tramitava originalmente determinou a intimação do Estado do Mato Grosso para se manifestar sobre o pleito” e que a manifestação do Estado é verdadeira “(...) confissão de ilegalidade do lançamento levado a efeito. Ali, é expressamente reconhecido o emprego de critérios para a avaliação de quotas ao arrepio da legislação e das normas técnicas sobre a matéria - notadamente, quanto à impossibilidade de atualização de ativos imobilizados -, bem como e confessada a tributação sem base imponível, já que o Estado admite que tributou o valor do patrimônio bruto, sem considerar as dívidas do espólio” (sic, id. 75772489, p. 05).
+Com essas razões, postulam a concessão da antecipação da tutela da pretensão recursal para que seja suspensa a exigibilidade do crédito tributário, ou, subsidiariamente, determinado a emissão de certidão positiva com efeitos de negativa, até o julgamento final da lide. Ao fim, pretende ver confirmada a decisão liminar.
+É a síntese. Decido.
+Inicialmente, ressalta-se que, nesta fase processual, não cabe a análise do mérito da questão controvertida, mas, tão somente o exame da necessidade e do cabimento da medida postulada.
+Conforme preceitua o art. 1019, inciso I, do CPC, é facultado ao relator atribuir efeito suspensivo ao recurso, ou deferir, em sede de antecipação de tutela, total ou parcialmente a pretensão, comunicando o juiz a sua decisão.
+Após breve análise do caderno processual, observa-se que o pedido de antecipação da tutela recursal merece acolhimento, porquanto se verifica, em cognição sumária, a presença dos pressupostos autorizadores da medida de urgência, quais sejam, a probabilidade do direito e o fundado receio de dano grave e de difícil reparação.
+De acordo com o que já fora relatado, pretendem os agravantes a suspensão da exigibilidade tributária do ITCMD, com base no art. 151, inciso V, do CTN.
+In casu, a herança deixada pelo de cujus, que constitui a base imponível do ITCMD, é integrada, além de outras relações jurídicas ativas e passivas, por quotas de capital de duas sociedades, quais sejam, 99,81% das quotas da pessoa jurídica Agropecuária Varnier Ltda e 1,06% das quotas da pessoa jurídica Agropecuária Aliança Ltda.
+Nos termos do art. 38 do CTN, a base de cálculo do ITCMD é o valor venal dos bens ou direitos transmitidos. Contudo, de ver que a Fazenda Pública Estadual considerou o "valor de mercado", o que gerou uma diferença significativa na GIA emitida.
+A própria Lei Estadual 7.850/2002, em seu artigo 17, deixa claro que deve ser aferido o valor patrimonial:
+Art. 17 . No caso de ações não negociadas em bolsas, quotas ou outros títulos de participação em sociedades comerciais ou civis de objetivos econômicos, considera -se valor venal o seu valor patrimonial na data da ocorrência do fato gerador.
+Logo, não é o valor singular dos bens e direitos da pessoa jurídica que deve ser levado em conta, mas o seu patrimônio líquido, tal como apurado em balanço aprovado anualmente, ao final de cada exercício, conforme preleciona os artigos 1.065 e 1.188 do Código Civil.
+Ainda, tem-se que é vedado ao fisco reavaliar o ativo imobiliário, conforme o item 127 e 128 do CFC, com exceção dos casos em que os ativos são destinados à venda, o que, a princípio, não aparenta ser o caso, já que os bens são empregados na atividade agrícola.
+Cumpre acrescentar, ainda, que a Fazenda Pública Estadual não excluiu da base de cálculo do ITCMD as dívidas do espólio. Sobre o tema, esse Egrégio Tribunal de Justiça, em recurso que versava sobre cálculo de custas, assim entendeu:
+Sobre o tema, o entendimento jurisprudencial, nos processos de inventário, tem -se que o valor da causa, assim como o cálculo dos tributos e das custas processuais devem contemplar a quantia a ser transmitida, ou seja, o montante líquido da partilha, que deverá corresponder o valor total, excluindo -se as dívidas e a meação do cônjuge supérstite. (N.U 1015244 -42.2018.8.11.0000, Relator Desembargador GILBERTO LOPES BUSSIKI, Terceira Câmara de Direito Privado, Julgado em 05/01/0001, Publicado no DJE 05/01/0001).
+Desse modo, tem-se por demonstrada, em cognição superficial, a probabilidade do direito dos agravantes, bem como o receio de dano grave e de difícil reparação, ante a impossibilidade de expedição de certidão negativa de débitos, o que certamente, prejudica e prejudicará o desempenho das atividades rurais e de toda a atividade econômica dos recorrentes.
+Ante o exposto, defiro o pedido por antecipação da tutela recursal para determinar a suspensão da exigibilidade do crédito objeto da GIA 99600, até ulterior deliberação.
+Comunique-se o juízo de primeiro grau, solicitando-lhe informações.
+Intime-se o agravado para apresentar contrarrazões, facultando-lhe a juntada da documentação que entender necessária para o julgamento do recurso.
+À Procuradoria-Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Cuiabá, 17 de fevereiro de 2021.
+Alexandre Elias Filho
+Relator Convocado
