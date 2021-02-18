@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por NIVALDO GOIS DOS SANTOS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 30/09/2020.
+Concluso ao Gabinete em: 10/02/2021.
+Ação: cumprimento de sentença de honorários advocatícios, apresentado por TASSO BATALHA BARROCA, em face do recorrente.
+Decisão interlocutória: deferiu o pedido de penhora de parte dos rendimentos líquidos de aposentadoria complementar do recorrente paga pela PREVI.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pelo recorrente, para reduzir o percentual de constrição imposta aos seus rendimentos de aposentadoria complementar de 30 % para 15 %, nos termos da seguinte ementa:
+Agravo de instrumento - Cumprimento de sentença - Pedido de penhora dos rendimentos de 30% do salário do devedor - Deferimento no percentual de 30% dos rendimentos líquidos da aposentadoria complementar do agravante - Irresignação - Possibilidade de penhora - Mitigação da regra processual diante dos fatos concretos - Precedentes jurisprudenciais do STJ - Aplicação dos princípios da ponderação e razoabilidade no percentual da constrição - Redução do percentual para 15 % da aposentadoria do agravante - Princípio da dignidade. (e-STJ, fls. 333/334).
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega a violação do art. 833, IV, § 2º, do CPC/15, bem como a existência de dissídio jurisprudencial. Sustenta que as referidas regras devem ser interpretadas restritivamente, pois os honorários advocatícios não podem ser admitidos como exceção à regra da impenhorabilidade do salário, limitada às prestações alimentícias. Requer o reconhecimento da impenhorabilidade de seus rendimentos de aposentadoria para o pagamento de honorários advocatícios.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento do CPC/15
+- Da penhora da remuneração do devedor para pagamento de dívidas relativas a honorários advocatícios sucumbenciais (Súmula 568/STJ)
+Em recentíssimo julgado, a e. Corte Especial fixou o entendimento de que as verbas de natureza alimentar não se confundem com as prestações alimentícias, não se podendo estender às primeiras os privilégios garantidos às segundas, como a exceção à regra da impenhorabilidade prevista no art. 833, § 2º, do CPC/15.
+Com efeito, a e. Corte Especial firmou a orientação que "as exceções destinadas à execução de prestação alimentícia, como a penhora dos bens descritos no art. 833, IV e X, do CPC/15, e do bem de família (art. 3º, III, da Lei 8.009/90), assim como a prisão civil, não se estendem aos honorários advocatícios, como não se estendem às demais verbas apenas com natureza alimentar, sob pena de eventualmente termos que cogitar sua aplicação a todos os honorários devidos a quaisquer profissionais liberais, como médicos, engenheiros, farmacêuticos, e a tantas outras categorias" (REsp 1.815.055/SP, Corte Especial, DJe 26/08/2020, sem destaque no original).
+No entanto, embora não incida a previsão do § 2º do art. 833, foi ressalvada expressamente, na oportunidade, a possibilidade de se "determinar a constrição, à luz da interpretação dada ao art. 833, IV, do CPC/15, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família" (REsp 1.815.055/SP, Corte Especial, DJe 26/08/2020, sem destaque no original).
+Na hipótese dos autos, o Tribunal de origem examinou a possibilidade de a penhora comprometer a subsistência digna do recorrente, tendo, com base nessa verificação, reduzido o percentual da penhora a 15% de seu rendimento líquido de aposentadoria, sob o fundamento de que "conquanto a priori seja possível a constrição tal como determinada, o fato é que, no presente caso, conforme verificado pelas despesas adunadas aos autos, a penhora do percentual de 30% comprometerá a manutenção e subsistência sua e de sua família" (e-STJ, fl. 338).
+O acórdão recorrido encontra-se, pois, em harmonia com o entendimento do STJ a respeito do tema, não merecendo, assim, reforma. Incide, na espécie, a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, NEGO PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. EXCEÇÃO DO § 2º DO ART. 833. DIFERENÇA ENTRE PRESTAÇÃO ALIMENTÍCIA E VERBA DE NATUREZA ALIMENTAR. PENHORA DA REMUNERAÇÃO DO DEVEDOR. MANUTENÇÃO DA SUBSISTÊNCIA DIGNA. AVALIAÇÃO CONCRETA. POSSIBILIDADE. ART. 833, IV, DO CPC/15.
+1. Cumprimento de sentença para o pagamento de honorários advocatícios.
+2. As exceções destinadas à execução de prestação alimentícia, como a penhora dos bens descritos no art. 833, IV e X, do CPC/15, e do bem de família (art. 3º, III, da Lei 8.009/90), assim como a prisão civil, não se estendem aos honorários advocatícios, como não se estendem às demais verbas apenas com natureza alimentar. Precedente da Corte Especial.
+3. É possível, no entanto, a penhora com fundamento no art. 833, IV, do CPC/15, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família. Precedente da Corte Especial.
+4. Recurso especial conhecido e não provido.
