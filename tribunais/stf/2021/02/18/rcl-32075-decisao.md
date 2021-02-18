@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 37 DA SÚMULA – INOBSERVÂNCIA – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    A União afirma haver a Primeira Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Paraná, no processo nº 5029409-74.2016.4.04.7000, desrespeitado o teor do verbete vinculante nº 37 da Súmula do Supremo.
+    Narra que Carolina Orlando de Campos, magistrada do trabalho, ajuizou contra si ação visando o pagamento de ajuda de custo decorrente da posse no referido cargo público, levando em conta a alegada simetria constitucional entre membros do Judiciário e do Ministério Público. Relata a procedência do pedido, entendimento mantido em sede de recurso inominado, ante o princípio da isonomia, surgindo daí o arguido desrespeito. Menciona a apresentação de incidente de uniformização para a Turma Nacional, o qual teve a sequência obstada. Interposto extraordinário, aguarda apreciação.
+    Sustenta violado o paradigma porquanto, com apontada base no aludido princípio, acabou assegurada a integrante do Judiciário a percepção de ajuda de custo em virtude do regime alusivo a membros do Ministério Público. Conforme esclarece, a partir de suposta isonomia remuneratória entre as carreiras, o Órgão reclamado atuou como legislador positivo, incorrendo em contrariedade ao verbete vinculante nº 37, o qual, consoante aduz, engloba não apenas vencimentos, mas também verbas de caráter indenizatório. Evoca jurisprudência. Salienta que o citado enunciado alcança, a título de servidores, quaisquer agentes públicos, cabendo observar somente as vinculações remuneratórias explicitamente previstas na Constituição Federal. Realça o entendimento do Supremo no sentido da inexistência de paridade.
+    Requereu, no campo precário e efêmero, a suspensão da tramitação na origem. Busca a cassação do pronunciamento atacado.
+    Vossa Excelência, em 11 de outubro de 2018, deferiu a medida acauteladora.
+    O Tribunal, em informações, discorre sobre o histórico processual. Esclarece os fundamentos do pronunciamento impugnado.
+    A interessada não apresentou manifestação, conforme certidão de 11 de junho de 2019.
+    O Ministério Público Federal opina pela procedência da reclamação. Indica precedentes do Supremo a revelarem a inobservância do enunciado vinculante.
+    2. O Órgão reclamado, ao levar em conta o tratamento simétrico no tocante a vantagens funcionais, valeu-se do princípio isonômico, mesmo implicitamente, para reconhecer o direito da interessada ao pagamento de ajuda de custo em razão da posse no cargo, considerado o regime jurídico dos integrantes da carreira do Ministério Público da União. Incorreu em ofensa ao enunciado vinculante nº 37, no que alterada, na via judicial e sem respaldo em lei, a remuneração de servidor gênero. Não cabe potencializar o alcance do artigo 129, § 4º, da Constituição Federal e a distinção entre agentes e servidores públicos, quanto ao campo de abrangência do mencionado verbete, para daí concluir-se haver base normativa a dispensar a atuação do legislador ordinário relativamente à previsão de satisfação da parcela.
+    3. Julgo procedente o pedido formulado nesta reclamação para cassar o acórdão formalizado pela Primeira Turma Recursal dos Juizados Especiais Federais da Seção Judiciária do Estado do Paraná, no processo nº 5029409-74.2016.4.04.7000.
+    4. Publiquem.
+Brasília, 18 de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
