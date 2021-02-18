@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por MARCOS MIGUEL ALMEIDA MELO, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.467408-9/000).
+O recorrente teve a prisão em flagrante convertida em preventivaa pedido do Ministério Público (fl. 120), por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade de entorpecentes apreendidos e no modus operandi (fls. 120-127).
+O recorrente sustenta que o decreto prisional não foi devidamente fundamentado e que não estão presentes os requisitos para a decretação da prisão preventiva.
+Aduz que a custódia não seria proporcional à eventual pena a ser aplicada e que faz jus às medidas cautelares diversas da prisão ante os predicados pessoais e o disposto na Recomendação CNJ n. 62/2020.
+Requer, inclusive liminarmente, a sua imediata soltura com ou sem a imposição de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido às fls. 191-192.
+O Ministério Público manifestou-se pelo não provimento do recurso ordinário em habeas corpus (fls. 213-217).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 159-161):
+Durante as buscas, apreenderam 10 (dez) porções de maconha, embaladas em filme plástico transparente, dentro da residência, e sob o telhado da residência localizaram, ainda, 01 (uma)barra e 24 (vinte quatro) porções da mesma substância, além de uma balança de precisão e simulacro de arma de fogo.
+Ao total, foram apreendidos 321,58gr (trezentos e vinte um gramas e cinquenta e oito centigramas de maconha).
+ ..
+Em que pese a primariedade do paciente, as circunstâncias da apreensão e grande quantidade de drogas apreendidas militam em desfavor, indicando periculosidade e risco social, como bem ressaltou o MM. Juiz monocrático na decisão que decretou a prisão preventiva do paciente:
+ ..
+Portanto, tendo em vista o modus operandi empregado pelos flagranteados na prática delitiva, resta inócua a aplicação de qualquer medida cautelar, o que demonstra que a prisão preventiva se mostra como medida mais adequada. Ademais, como bem ressaltado pela IRMP plantonista em seu parecer "consta da Cac de Rafael Henrique anotação pela pratica de crime de tráfico de drogas, e outras anotações, além de que se encontrava em liberdade provisória; e em elação a Marcos Miguel, é de se ver que ele completou 18 anos no dia 08 do corrente mês, e já é conhecido da Policia Militar pelo seu envolvimento com o tráfico de drogas, revelando sua aparente dedicação às atividade criminosas.  ..
+O entendimento acima está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Por fim, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do recorrente não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+Quanto à alegada desproporção entre a prisão preventiva e a suposta pena e regime a ser aplicada, a jurisprudência do STJ firmou-se no sentido de que "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+No que diz respeito à alegada aplicação da Recomendação CNJ n. 62/2020, a questão não foi enfrentada pela instância de origem. Também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
