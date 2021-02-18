@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ fl. 216):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PORTADOR DE DEFICIÊNCIA FÍSICA. RESERVA DE VAGA.
+No concurso para o cargo de Assistente em Administração da UFRGS foram reservadas às pessoas portadoras de deficiência 10% das vagas existentes e das futuramente criadas aos portadores de necessidades especiais. Reconhecido o direito líquido e certo da impetrante de ser nomeada e empossada no respectivo cargo, porquanto obteve a 2ª colocação dentre os portadores de necessidades especiais.
+Contra o acórdão foram opostos embargos de declaração (e-STJ fls. 224/226), desprovidos (e-STJ fls. 234/235).
+Alega a parte autora violação do art. 535, II, do CPC/73. No mérito, indica vulneração dos arts. 5º e 12, § 1º, da Lei n.8.112/1990, 16do Decreto n.6.944/1999e 41do Decreto n. 3.298/1999 (e-STJ fls. 244/258).
+Parecer do MPF em que opinapelo desprovimento do recurso (e-STJ fls. 290/296).
+Passo a decidir.
+Em primeiro lugar, registro que não há violação do art. 535 do CPC/1973 (1.022 do CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+É o caso dos autos.
+Da simples leitura do acórdão recorrido se permite observar que o decisum vergastado se manifestou clara e expressamente em relação aos pontos controvertidos indicados pelos recorrentes, notadamente: a impossibilidade de desclassificar a autora sem previsão expressa no edital da norma do Decreto n.6.944/1999, de modo que não era exigido abordar, um a um, todos os dispositivos invocados neste apelo especial.
+Embora tenha alegado nos aclaratórios que o Decreto foi mencionado no edital, o próprio recorrente expressamente consignou no recurso que a menção se operou em relação a outro tema, a saber, a futura portaria de nomeação dos candidatos, e não em relação à controvérsia que havia sido dirimida na decisão recorrida: critérios de desclassificação.
+Assim, sob o ponto em discussão, o acórdão se mostrou completo, sem omissões ou contradições.
+Ademais, o recurso especial se destina ao estrito controle de legalidade dos julgados por ele desafiados, não se caracterizando como novo recurso ordinário apto a consertar eventual erro de julgamento decorrente de má percepção do suporte fático considerado pelo Tribunal local, especialmente quando se alega violação do art. 535 do CPC/1973.
+No mérito, entendo que o recurso não deve ser conhecido.
+A Corte Regional fundamentou sua decisão em um importante alicerce, qual seja (e-STJ fl. 211):
+Vê-se, portanto, que o Decreto nº 6.944/2009 exige a previsão em edital das disposições do art. 16 para a sua validade. Entretanto, tal dispositivo, que serviu de base à autoridade coatora para desclassificar a demandante, não constou no Edital nº 29/2010. Ao contrário, o Edital nº 29/2010 previu a classificação de todos os candidatos que obtivessem aproveitamento superior a 20% dos pontos em cada uma das partes da Prova Escrita Objetiva e igual ou superior a 40% da pontuação total da Prova Escrita Objetiva, obedecida a ordem de pontos obtidos, segundo o item 11.1 do Edital. Nada constou, portanto, acerca da desclassificação dos candidatos, deficientes ou não, que não alcançaram pontuação suficiente dentro das vagas ofertadas, ainda que obtivessem os pontos mínimos exigidos.
+Alterar as conclusões acima expostas exigiria a demonstração de que, quando dispôs sobre critérios de desclassificação, o edital expressamente fez alusão ao art. 16 do Decreto n.6.944/2009, situação que, para ocorrer, reclamaria o revolvimento do contexto fático-probatório, o que é inviável de acordo com aSúmula 7 desta Corte.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
