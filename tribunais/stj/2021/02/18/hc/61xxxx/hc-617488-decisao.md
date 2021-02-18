@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FABIO ALTERO BERTONcontra ato do Tribunal de Justiça do Estado de Mato Grosso do Sul(Apelação Criminaln. 0000989-27.2019.8.12.0035).
+Opaciente foi condenado, pela prática dos delitos previstosnos arts. 33, caput, c/c o art. 40, V,da Lei n. 11.343/2006, às penas de 6 anos, 9 meses e 20 dias de reclusãoem regime inicial fechado e de 680 dias-multa, negado o recurso em liberdade.
+Sustenta a defesa a existência de constrangimento ilegal por haver excesso de prazo para o julgamento da apelação criminal.
+Aduz que opaciente está presocautelarmente, desde 18/6/2019, em razão da prisão preventiva decretada por ocasião da sentença condenatória, contra a qualfoi interposto recurso de apelaçãoem 12/12/2019. O recurso foi distribuído ao TJMS em 13/12/2019 e, após o parecer da PGJ, foi concluso ao relator em 28/1/2020 e, desde então, aguarda nova movimentação.
+Nesse interregno, o processo foi baixado, em 19/8/2020, ao Juízo de primeiro grau para revisão da prisão preventiva (art. 316, parágrafo único, do CPP). Mantida a prisão, o feito foi concluso ao relator em 3/9/2020.
+Requer a defesa, liminarmente e no mérito, o relaxamento da custódia preventiva por excesso de prazo ou suasubstituição pela prisão domiciliar.
+Prestadas as informações (88-97 e99-102), o Ministério Público Federal manifestou-se pela denegação da ordem, mas com a recomendação de que se atribua celeridadeao julgamento da apelação criminal interposta pelo ora paciente (fls. 105-109).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio (HC n. 463.434/MT, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 18/12/2020).
+Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+No tocante à alegada demora no julgamento da apelação no Tribunal a quo, esclareça-se que "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso do processo.
+Na situação em apreço, embora a apelação tenha sido distribuída em 13/12/2019, trata-se de demanda com 3recorrentes, tendo seu curso sido delongado por ter sidoo feitoconvertido em diligênciapara baixaros autosao Juízo de origem com vistas àrevisão das prisões preventivas(fl. 72).
+Essas peculiaridades explicam a demorana tramitação processual, sem que haja atuação desidiosa do Poder Judiciário.
+A propósito, sobre o tema, vejam-se os seguintes precedentes: HC n. 567.073/PB, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 23/6/2020; e HC n. 432.568/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 23/3/2018.
+Ressalte-se também que, nos termos da jurisprudência do STJ, "eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade da reprimenda imposta pela sentença condenatória" (HC n. 388.468/BA, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 13/8/2018).
+Na espécie, considerando a pena imposta na sentença - 6 anos, 9 meses e 20 dias de reclusão e 680 dias-multa-, não é desarrazoado o prazo para julgamento da apelação defensiva.
+No mesmo sentido, o precedente abaixo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRAFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. REVISÃO DA PENA A CADA 90 DIAS. IMPOSIÇÃO LEGAL ATÉ A SENTENÇA CONDENATÓRIA.SUPERAÇÃO. DECRETO PRISIONAL. FUNDAMENTAÇÃO. REITERAÇÃO DELITIVA.EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. NÃO CONFIGURADO.BENEFÍCIOS DA EXECUÇÃO PENAL. GARANTIA.NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+V -Os prazos processuais não têm as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com ojuízo de razoabilidadepara definir o excesso de prazo.
+VI -A jurisprudência desta Corte de Justiça sufraga o entendimento de que o excesso de prazo para julgamento da apelação deve ser analisado com base na quantidade de pena aplicada que,in casu, somam5 anos e 7 mesesde reclusão, no regime inicial fechado.Logo, embora decorrido umano desde a prolação da sentença, não se me afigura desproporcional. Ademais,não demonstrado que, em razão de eventual demora para a apreciação da apelação, o recorrente se encontra impedido de usufruir de benefícios relativos à execução da pena, já tendo sido expedida guia de recolhimento provisória, em 31/1/2020, conforme se denota das informações processuais disponíveis no sítio eletrônico do eg. Tribunal a quo.
+VII -É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.(AgRg no HC 624.626/SP, RelatorMinistro FelixFischer, Quinta Turma, DJe de 9/2/2021.)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, mas, atendendo à sugestão do Ministério Público Federal, recomendo ao Tribunal de Justiça do Estado de Mato Grosso do Sulque priorize o julgamento da apelação.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se
