@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de GISLAINE FELIPE apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2208151-39.2020.8.26.0000).
+Depreende-se dos autos que a paciente encontra-se presa preventivamente pela prática, em tese, do delito de homicídio qualificado por haver prestado apoio moral ao seu companheiro para ceifar a vida da vítima (e-STJ fl. 19).
+O Tribunal de origem denegou a ordem (e-STJ fls. 43/51).
+Daí o presente writ, no qual alega a defesa que a decisão que decretou a prisão preventiva da paciente carece de fundamentação idônea.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis (e-STJ fl. 5).
+Assere ser ela mãe de criança de 6 anos de idade com retardo mental leve (e-STJ fl. 5).
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor da paciente. Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+O pedido liminar foi indeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação do writ.
+É o relatório.
+Decido.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva, in verbis (e-STJ fl. 30):
+Observo que os acusados GILVAN DOS SANTOS MARTINS
+E GISLAINE FELIPE são apontados como autores de crime grave, a saber homicídio doloso consumado, qualificado, considerado hediondo, além de. no caso dele, tentativa de subtração, destruição e ocultação de cadáver, na modalidade tentada e exposição de perigo à vida, integridade física e patrimônio de outrem causado por incêndio, por haverem, em tese, de comum acordo, planejado o óbito da vítima.
+Consta da denúncia que a vítima enviava mensagens à acusada, a qual levou tal situação ao conhecimento do acusado, seu companheiro e, de comum acordo, decidiram matá-la. Ao que consta, a Gislaine simulou aceitar o convite, marcando um encontro com a vítima e. quando esta chegou ao local agendado, foi surpreendida pelo acusado, o qual lhe desferiu diversos disparos de arma de fogo, provocando ferimentos que foram a causa de sua morte. Consta, por fim, que o acusado, na tentativa de ocultar o cadáver, ateou fogo no corpo da vítima, provocando incêndio.
+Observando mais, que a ordem pública, abalada com os fatos, cobra a decretação de segregação cautelar processual como sua garantia; também por conveniência da instrução processual, que poderia ser comprometida caso os acusados permanecessem em liberdade, e como forma de assegurar a futura aplicação da lei penal, acolho a promoção do Ministério Público e decreto a prisão preventiva de GILVAN DOS SANTOS MARTINS e GISLAINE FELIPE.
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade da paciente, consistente na prática, em tese, de crime de homicídio qualificado mediante emboscada e disparos de arma de fogo, bem como tentativa de ocultar o cadáver mediante incêndio.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de homicídio. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública e torna inviável a substituição da prisão preventiva por domiciliar, ainda que seja mãe de criança menor de 12 anos, porquanto o delito foi praticado com extrema violência.
+Nesse sentido:
+PROCESSUAL PENAL E PENAL. RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. RENOVADO DECRETO DE PRISÃO APÓS PRÉVIA CONCESSÃO DA ORDEM. POSSIBILIDADE. FUNDAMENTAÇÃO CONCRETA. LEGALIDADE. RECURSO IMPROVIDO.
+1. Precedente ilustrador da atuação da Corte em habeas corpus e da necessidade de motivação das decisões judiciais.
+2. Decisão que em persecução criminal por homicídio imputado a policiais em associação, com fraude processual, decreta a prisão por riscos sem expressar sequer em uma linha - ou mesmo palavra - os fatos justificadores dos invocados riscos. Ilegalidade reconhecida monocraticamento pelo Relator, sem recursos.
+3. Expressado já então na decisão do Relator, aliás de modo até redundante, pela provisoriedade ínsita às cautelares, que a concessão da ordem não impede nova e fundamentada decisão de necessária cautelar penal, inclusive menos gravosa do que a prisão processual, veio o magistrado de primeiro grau a novamente decidir sobre a necessidade da prisão preventiva.
+4. Nova decisão que agora explicita circunstâncias do caso justificadoras de risco social (gravidade concreta do crime e risco à ordem pública) e ao processo (alteração do local do crime, com riscos à instrução processual). Validade.
+5. Indicada a gravidade concreta da conduta criminosa, pois foram efetuados dezenas de disparos de diversas armas de fogo, de diferentes calibres, inclusive de fuzis, contra um veículo em que se encontravam cinco vítimas  ..  em via pública, aberta ao tráfego de pessoas e veículos, de modo que não há que se falar em ilegalidade a justificar a concessão da ordem.
+6. Em habeas corpus a Corte não prende, mas apenas confere a legalidade da decisão de prisão, mantendo-a se legal, por fundamentos nela explicitados.
+7. Recurso em habeas corpus improvido. (RHC 77.723/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/03/2017, DJe 13/03/2017)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. PERICULOSIDADE DO AGENTE. AMEAÇA A TESTEMUNHAS. FUGA APÓS COMETIMENTO. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DO ART. 319 DO CPP. INVIABILIDADE. COAÇÃO ILEGAL NÃO DEMONSTRADA. RECURSO DESPROVIDO.
+ ..
+2. No caso, as instâncias ordinárias apresentaram fundamentos suficientes para justificar a segregação cautelar do paciente, em especial o modus operandi adotado, uma vez que teria, em tese, efetivado o homicídio quando a vítima se encontrava em uma confraternização de carnaval, com presença de inúmeras pessoas da vizinhança, inclusive atingindo-a como novos disparos quando já se encontrava caída ao solo. 3. Com efeito, "se a conduta do agente - seja pela gravidade concreta da ação, seja pelo próprio modo de execução do crime - revelar inequívoca periculosidade, imperiosa a manutenção da prisão para a garantia da ordem pública, sendo despiciendo qualquer outro elemento ou fator externo àquela atividade" (HC n. 296.381/SP, Relator Ministro Marco Aurélio Bellizze, Quinta Turma, julgado em 26/8/2014, DJe 4/9/2014).
+ ..  (RHC 91.056/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+No mesmo sentido o parecer do Ministério Público Federal, cujo excerto passo a colacionar (e-STJ fl. 93):
+No caso, para manter o encarceramento preventivo da ré, o tribunal de origem analisou de maneira acertada as circunstâncias fáticas conformadoras da necessidade de imposição da medida constritiva, nos exatos termos do que preceitua o art. 312 do Código de Processo Penal, com principal destaque à necessidade de garantia da ordem pública, que fica evidenciada pelo modus operandi empregado na empreitada criminosa - crime praticado mediante emboscada, com ocultação do cadáver e causando incêndio, (fl. 48).
+Ante todo o exposto, denego a ordem, acolhido o parecer ministerial.
+Publique-se. Intimem-se.
