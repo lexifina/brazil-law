@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por L F IMPORTS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL PEDIDO DE AVALIAÇÃO DO IMÓVEL HIPOTECADO INDEFERIDO ADMISSIBILIDADE NÃO COMPROVADA NENHUMA DAS HIPÓTESES PREVISTAS NO ART 873 DO CÓDIGO DE PROCESSO CIVIL/2015 RECURSO DESPROVIDO
+Quanto à primeira controvérsia, alega violação do art. 871 do CPC, relativo à inexistência das hipóteses excludentes para realização de avaliação judicial, trazendo o seguinte argumento:
+Conforme se percebe, o caso em testilha não se amolda à nenhuma das hipóteses em que a avaliação judicial do bem é dispensada, razão pela qual torna-se obrigatória sua realização.
+Dessa forma, é nítido que a decisão recorrida contraria o disposto no artigo 871 do Código de Processo Civil, pois admite a dispensa de avaliação judicial fora das hipóteses taxativamente previstas em lei (fls. 67).
+Quanto à segunda controvérsia, aduz malferimento do art. 1.484 do CC, atinente ao valor designado ao imóvel hipotecado, porquanto:
+Diz-se isso pelo fato de que referida regra não pode ser utilizada como impeditivo à realização de avaliação judicial, uma vez que, embora o referido dispositivo legal consagre autonomia privada ao possibilitar às partes a atribuição do valor do imóvel hipotecado, a liberdade de estipulação é limitada pelas próprias ordens principiológicas do Código Civil, como a boa-fé objetiva, equilíbrio contratual e função social do contrato.
+Desse modo, o valor mutuamente estipulado deve sempre corresponder ao valor de mercado do imóvel (fls. 67).
+É, no essencial, o relatório. Decido.
+No que concerne à primeira e segunda controvérsias, na espécie, o Tribunal de origem, quando do julgamento dos aclaratórios opostos às fls. 49-51, se manifestou nos seguintes termos:
+Em que pese o caso dos autos não se enquadre especificadamente nas hipóteses de dispensa de avaliação previstas nos art. 871 do CPC, é certo que a não realização da avaliação judicial encontra-se autorizada pelo disposto no art. 1.484 do Código Civil, que assim dispõe:
+ ..
+Observa-se que no caso dos autos as partes fizeram constar, de comum acordo, na matricula do imóvel dado em garantia hipotecária que o valor do bem é de R$ 7.000.000,00 (fls. 899 autos originários), de maneira que não pode a devedora agora, com base em laudo elaborado por técnico particular, afirmar que essa monta não representa o real valor do imóvel. Pode-se dizer que houve aceitação das partes quanto à estimativa do valor do bem.
+Ademais, tal valor deverá ser atualizado monetariamente por ocasião da hasta pública e nada impede que o bem seja arrematado por valor maior.
+Embora a embargante questione em seu recurso a aplicação do art. 1.484 do Código Civil, o fato é que deve ser preservada a incidência dele à demanda, tendo em vista que permitir atitudes contrárias a anteriormente acordadas pelas partes, implicaria a realização de venire contra factum praprium, sob o pálio do Poder Judiciário, o que não pode ser admitido (fls. 54-55, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
