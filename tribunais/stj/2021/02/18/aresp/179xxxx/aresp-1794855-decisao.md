@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo HOSPITAL SANTA LÚCIA S. A. contra a decisão que não admitiu o seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. REINTEGRAÇÃO DE POSSE. CONTRATO. RESCISÃO UNILATERAL ANTECIPADA. EQUIPAMENTOS ADQUIRIDOS. DEVOLUÇÃO. PREVISÃO CONTRATUAL. ESBULHO. DIREITO DE RETENÇÃO. NÃO COMPROVADO. PAGAMENTO DE ALUGUEL. POSSIBILIDADE.
+1. É injusta e de má-fé a posse de equipamentos retidos pela parte que rescinde unilateralmente um contrato quando este contém cláusula clara e expressa sobre a necessidade de devolução.
+2. Cabe ao réu o ônus de comprovar fato modificativo do direito do autor (art. 373, II, CPC).
+3. O esbulho se caracteriza, ainda que não haja ato de violência ou grave amaça, quando, revelada a precariedade da posse de outrem, o possuidor direto dos bens é privado de exercê-la.
+4. Comprovada a posse precária é devido o pagamento de aluguel por quem reteve bens indevidamente em seu poder.
+5. Recurso conhecido e não provido.
+Nas razões do recurso especial obstado na origem, alega violação do arts. 1.202 e 1.211 do CC, no que concerne à não ocorrência de esbulho possessório, trazendo o seguinte argumento:
+Como se passa a demonstrar, é manifesto o erro de direito do v. acórdão recorrido, data venha, principalmente porque, como se disse, não restou demonstrado nos autos que o Hospital empregou violência ou meios clandestinos para reter a posse dos carros de distribuição "HappyCarts", tampouco que agiu de má-fé ao reter os carrinhos até averiguação de sua posse, tanto que, conforme restou consignado na r. sentença, assim que recebeu a notificação da Recorrida, o Hospital, de pronto, encaminhou resposta explicando o mal entendido a que deu causa a própria Recorrida (fl. 375).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, diante da clareza do contrato firmado entre as partes, não é aceitável a tese de que a ré acreditava ser legítima a manutenção da posse dos equipamentos, diante da rescisão contratual e manifestação da parte contratada sobre a opção de retirá-los do estabelecimento.
+Revelada a precariedade da posse, o ato da ré de privar o possuidor direto dos bens - o autor - de exercê-la, caracteriza o esbulho, necessário para a procedência da presente ação de reintegração de posse, ainda que não haja ato de violência ou grave ameaça (fl. 367).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
