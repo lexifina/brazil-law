@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão assim ementada (fl. 251):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, §1º, INC. IV, E 1022 DO CPC/2015. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SOBRE O QUAL SE ALEGA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+O embargante alega que a decisão foi omissa quanto às seguintes questões: a) argumentação de ofensa ao art. 1.022, inc. II, do CPC/2015, diante da omissão no pronunciamento do acórdão, sendo que "Até o presente momento, não houve menção a uma série de fundamentações esposadas, o que por si só aponta a afronta ao dispositivo (..)." (fl. 262); b) negativa de vigência ao art. 489, § 1º, inc. IV, do CPC/2015; c) dissídio jurisprudencial existente no caso, em vista do entendimento majoritário de que valores irrisórios, insuficientes à satisfação da execução, devem ser desbloqueados, já que sua constrição representa mero dispêndio ao executado, sem que se atinja o objetivo central do iter executivo.
+Com impugnação.
+É o relatório. Decido.
+Inicialmente, registra-se que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Nesse diapasão, tem-se que razão não assiste ao embargante.
+Com efeito, a decisão embargada não se omitiu a respeito da alegação de ofensa aos arts. 489, §1º, inc. IV, e 1022 do CPC/2015. Ao contrário, analisou-a e rejeitou-a, por entender que a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica condizente com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. Explicitou também, no mister, que a aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Quanto ao dissídio interpretativo, também não houve omissão, não se tendo conhecido da alegação em virtude do descumprimento de exigência formal, qual seja, a indicação do dispositivo legal objeto de interpretação divergente. No ponto, a decisão esclareceu que, na forma da jurisprudência pacificada desta Corte Superior, o vício identificado configura deficiência na fundamentação recursal a impedir o conhecimento do apelo nobre interposto com fundamento na alínea "c" do permissivo constitucional, atraindo a incidência da Súmula 284/STF.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS AUTORIZADORES DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
