@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por GCA RESTAURANTE LTDA., com fundamento naalíneaa do permissivo constitucional, no qual se insurge contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territóriosassim ementado (e-STJ, fls. 296-297):
+DIREITO PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. PROCESSO DECONHECIMENTO QUE DETERMINOU LIMINARMENTE A SUSPENSÃO DA EXIGIBILIDADEDAS PARCELAS VINCENDAS A CONTAR DA DATA DA DECISÃO. HONORÁRIOSADVOCATÍCIOS. SUCUMBENCIA RECÍPROVA EQUIVALENTE. MANUTENÇÃO.
+1, A mera propositura de uma ação de conhecimento não tem, como regra, a força de suspender uma ação executiva, sob pena de se tornar corrente a subversão da ordem processual.
+2. Consoante extrai-se do artigo 784,§1º, do CPC, a execução pode ser proposta e tem curso normal independentemente do ajuizamento de ação relativa ao débito cobrado, verbis: "§ 1º A propositura de qualquer ação relativa a débito constante de título executivo não inibe o credor de promover-lhe a execução"
+3. Todavia, no caso concreto houve decisão judicial no processo de conhecimento que trata de pedido de rescisão contratual, com deferimento da tutela de urgência para suspender a exigibilidade das parcelas vincendas relativas ao instrumento particular de compra e venda de estabelecimento comercial, aviamento e uso da marca da empresa. Tendo em vista que foi suspensa a exigibilidade das parcelas vincendas a contar da data da decisão,inclui-se a parcela que estava a vencer no mesmo dia em que proferida a referida decisão, independente, inclusive, da data de publicação.
+4. A execução foi reduzida no patamar de 50% (cinquenta por cento) em face do parcial provimento dos4.embargos à execução, o que revela a sucumbência recíproca equivalente, em conformidade com o que decidiu o MM. Juízo a quo.
+5.Negou-se provimento ao apelo.
+No recurso especial, a recorrente apontaviolação doart. 784, § 1º, do Código de Processo Civil/2015.
+Sustentaaplena exigibilidade de ambas as notas promissórias, porquanto, consoante o citado dispositivo, eventual manifestação emação de conhecimento não tem o condão desuspender uma ação executiva.
+Defende o pagamento tambémda nota promissória vencida em 20/8/2019, pois a decisão que suspendeu a exigibilidade das parcelas vincendassó foi publicada em 23/8/2019. Assim, argumenta que essa decisão só passa a produzir seus efeitos a partir de sua publicação, 23/8/2019;não alcançando, portanto, a nota promissória já vencida (20/8/2019), pois as partes não tinham ciência do julgado (e-STJ, fls. 304-313).
+Contraminuta apresentada (e-STJ, fls. 326-332).
+Juízo positivo de admissibilidade do recurso especial (e-STJ, fls. 335-336).
+Brevemente relatado, decido.
+Acerca da controvérsia a respeito da suspensão da execução por meio da decisão judicial proferida na demanda revisional, a recorrente não apontou qual dispositivo de lei federal teria sido vulnerado ao ter o acórdão afirmado a sua validade, independentemente de intimação das partes acerca de seu teor, que foi o conteúdo central do julgado estadual. Esse quadro atrai a incidência da Súmula 284/STF, em razão da deficiência recursal.
+Não bastasse isso, o acórdão entendeu pela suspensão da exigibilidade da nota promissória vendida em 20/8/2019, aduzindo que a decisão proferida naquela mesma data teria assim teria determinado. É importante enfatizar que a atuação jurisdicional ora questionada pela recorrente é contra manifestação concedendo tutela de urgência deferida em ação revisional de contrato.
+Esclareceu-se a validade imediata do decisum suspendendo a execução do referido título.
+Veja-se (e-STJ, fls. 299-300):
+Sobre o tema, convém ressaltar que a mera propositura de uma ação de conhecimento não tem, como regra, a força de suspender uma ação executiva, sob pena de se tornar corrente a subversão da ordem processual.
+Consoante extrai-se do artigo 784, §1º, do CPC, a execução pode ser proposta e tem curso normal independentemente do ajuizamento de ação relativa ao débito cobrado, verbis: "§ 1º A propositura de qualquer ação relativa a débito constante de título executivo não inibe o credor de promover-lhe a.execução"
+Todavia, no caso concreto houve decisão judicial no processo 0724929-72.2019.8.07.0001, com deferimento da tutela de urgência para suspender a exigibilidade das parcelas vincendas a contar da data desta decisão(20/08/2019), relativas ao instrumento particular de compra e venda de estabelecimento comercial, aviamento e uso da marca da empresa "Restaurante La Tambouille", firmado GCA Restaurante LTDA e PH Serviços de Conservação Predial EIRELI e, ainda, a retomada do estabelecimento (ID 18312121 - Pág. 2 e3).
+As notas promissórias executadas, vinculadas ao referido contrato firmado entre as partes, tinham as seguintes data de vencimento: 20/07/2019 e 20/08/2019.O MM. Juízo do conhecimento original, ao julgar parcialmente procedentes os embargos à execução, determinou a exclusão da cobrança a nota promissória vencida em 20.08.2019 no valor de R$ 40.000,00(quarenta mil reais).De fato, não há nada a reparar, tendo em vista que foi suspensa a exigibilidade das parcelas vincendas a nos autos 0724929-72.2019.8.07.0001. Assim, inclui-se a parcela que estava a contar da data da decisão vencer no mesmo dia em que proferida a referida decisão, independente, inclusive, da data de publicação.
+Os efeitos da decisão começaram a partir do próprio dia em que foi proferida, por expressa determinação do Juízo (ID 18312121 - Pág. 2 e 3).
+Dessa forma, no presente caso mostra-se correta a mitigação dos princípios da autonomia e abstração das notas promissórias, inexistindo ofensa ao artigo 784, §1º, do CPC.
+Eis trecho da r. sentença que elucida detalhadamente tal questão (ID 18312152 - Pág. 3:
+"Os embargantes sustentaram ainda a inexigibilidade do título, uma vez que foi proferida decisão liminar pela 21ª Vara Cível de Brasília determinou a suspensão das parcelas vincenda se a restituição do estabelecimento. A decisão proferida em sede de tutela de urgência na ação de rescisão contratual n.º 0724929-72.2019.8.07.0001 determinou a suspensão do pagamento das parcelas vincendas a partir da data que foi proferida (20.08.2019 às 19h03) e a inda a retomada do estabelecimento- ID n.º 48083692. Pois as notas promissórias que embasaram o feito executivo em apenso venceram em 20.07.2019 e 20.08.2019, conforme emenda à petição inicial de 26.09.2019 (ID n.º 48080072).
+Dessa forma, há de reconhecer a inexigibilidade deum dos títulos cobrados, tendo em vista que quando do ajuizamento do referido processo de execução a segunda nota promissória já se encontrava com a exigibilidade suspensa já quesomente poderia ser considerada vencida em 21.08.2019, motivo pelo qual acolho parcialmente a preliminar levantada.
+Com relação à alegação de que tais notas promissórias carecem de força executiva, uma vez que vinculadas a contrato de compra e venda de estabelecimento, entendo que não merece ser acolhida, isso porque os títulos de crédito são regidos pelo princípio da abstração, razão pela qual se desvinculam da sua causa após sua emissão."
+Nesse contexto, o julgado, ao atestar a validade imediata da decisão suspendendo a execução do título, não destoa da jurisprudência desta Corte Superior. É plenamente válida a concessão de efeitos imediatos a julgamentos liminares e urgentes, como ora se apresentou ao julgador inicial. Isso porque a exigência de publicação para a incidência de seus efeitos, a depender do caso, pode inclusive esvaziar seuconteúdo decisório.
+Logo, a manifestação estadual não destoa da jurisprudência desta Corte Superior -aplicação da Súmula 83/STJ.
+À guisa de exemplo, vejam-se alguns arestos:
+Medida cautelar. Suspensão dos efeitos de acórdão não publicado.Possibilidade, em casos excepcionais.
+I - Em casos absolutamente excepcionais, quando não se pode aguardar por momento mais oportuno, é possível suspender os efeitos de acórdão ainda não publicado.
+II - Presentes os requisitos do fumus boni iuris e do periculum in mora, conforme fatos documentalmente provados, defere-se liminar para afastar a possibilidade de prejuízos irreparáveis decorrentes da proibição de fazer propaganda a respeito de serviço cuja prestação, a princípio, não é exclusiva de nenhuma empresa.
+III - Liminar deferida.
+(MC 4.479/RJ, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, TERCEIRA TURMA, julgado em 03/12/2001, DJ 18/02/2002, p. 402)
+PROCESSUAL CIVIL. MEDIDA CAUTELAR. EFEITO SUSPENSIVO A RECURSO ESPECIAL AINDA NÃO INTERPOSTO. AÇÃO DE BUSCA E APREENSÃO - ALIENAÇÃO FIDUCIARIA - LIMINAR CONCEDIDA.
+I- POSSIBILIDADE, EM TESE, DE SER CONCEDIDA A SUSPENSÃO DA EXECUÇÃO DE ATO JUDICIAL, MESMO NÃO PUBLICADO O ACORDÃO. A SER DE MODO DIVERSO NÃO HAVERIA TRIBUNAL COMPETENTE PARA TUTELAR O DIREITO AMEAÇADO.
+II- DEFERE-SE EFEITO SUSPENSIVO A ESPECIAL QUANDO, NA CONCESSÃO DE LIMINAR PARA TAL, VERIFICA-SE QUE, DOS FATOS DOCUMENTALMENTE COMPROVADOS E CONTIDOS NOS AUTOS DA CAUTELAR, AFIGURAM-SE PRESENTES OS PRESSUPOSTOS "FUMUS BONI JURIS" E "PERICULUM IN MORA".
+II- LIMINAR CONCEDIDA A REFERENDADA PELO COLEGIADO.
+(MC 835/SC, Rel. Ministro WALDEMAR ZVEITER, TERCEIRA TURMA, julgado em 05/08/1997, DJ 27/10/1997, p. 54784)
+CAUTELAR - RECURSO ESPECIAL.POSSIBILIDADE, EM TESE, DE SER CONCEDIDA A SUSPENSÃO DA EXECUÇÃO DE ATO JUDICIAL, MESMO NÃO INTERPOSTO AINDA O ESPECIAL, UMA VEZ QUE NÃO PUBLICADO O ACORDÃO. A SER DE MODO DIVERSO NÃO HAVERIA TRIBUNAL COMPETENTE PARA TUTELAR O DIREITO AMEAÇADO.
+(MC 488/PB, Rel. Ministro EDUARDO RIBEIRO, TERCEIRA TURMA, julgado em 14/05/1996, DJ 19/08/1996, p. 28466)
+Processual civil. Medida Cautelar. Suspensão dos efeitos de acórdão não publicado. Excepcionalidade não caracterizada. Impossibilidade.
+- Somente em situações excepcionalíssimas torna-se possível o deferimento de medida cautelar para suspender os efeitos de acórdão ainda não publicado.
+- Hipótese não configurada.
+(MC 6.268/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/04/2003, DJ 02/06/2003, p. 294)
+Ante o exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em mais 1% sobre o excesso daexecução.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DEFICIÊNCIA RECURSAL. APLICAÇÃO DA SÚMULA 284/STF. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. POSSIBILIDADE DE APLICAÇÃO DE EFEITOS IMEDIATOS A JULGADOS CAUTELARES, MESMO ANTES DA PUBLICAÇÃO DA DECISÃO QUESTIONADA. SÚMULA 83/STJ. RECURSO ESPECIAL DESPROVIDO.
