@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III,a, da Constituição Federal, contra acórdão proferido pelo TJ/SP, assimementado (fls. 82):
+EMENTA: AGRAVO DE INSTRUMENTO - Acidentária - Decisão que fixou os honorários advocatícios em 15% sobre as prestações vencidas até a sentença - Inadmissibilidade - Fixação da honorária que deve ocorrer apenas após a liquidação do julgado, nos moldes do art. 85, §§3º e 4º, II, do novo Código de Processo Civil, conforme estipulado no v. acórdão - Respeito à coisa julgada - Inviabilidade, ademais, de aplicação da Súmula nº 111, do STJ, à hipótese em tela - Precedentes - Recurso provido.
+Embargos de declaração rejeitados.
+Em suas razões, orecorrenteaponta inicialmente violação doart. 1.022do CPC/2015, argumentando que o acordão recorrido foi omisso quanto asquestões apontadas nos embargos de declaração.
+No mérito, sustenta que oacordão violou osarts. 489, § 1º, VI, e 927, IV, doCPC/2015, ao afastar a aplicação daSúmula 111/STJ foi revogada sob oargumento de que não foi recepcionada pelo Novo CPC, quando, na verdade, amesma ser observada para fins de limitação da base de cálculo paraincidência dos honorários advocatícios.
+Contrarrazões apresentadas.
+Juízo positivo de admissibilidade às fls. 137-138.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada ofensa ao art. 1.022do CPC/2015,porquanto o Tribunal a Corte de origem, ao contrário do alegado,manifestou-se fundamentadamente a respeito detodas as questões postas àsua apreciação e, ao final, decidiu contrariamente aos interesses do orarecorrente.
+Observa-se dos embargos de declaração opostos na origem que pretendeu o ora recorrentea mera reapreciação domérito da causa, não havendo, portanto, razão para a anulação do acórdãoproferido em sede de embargos de declaração.Consoanteentendimento desta Corte, a aplicação do direito ao caso, ainda queatravés de solução jurídica diversa da pretendida por um dos litigantes,não induz negativa ou ausência de prestação jurisdicional.
+Quanto ao mérito, razão assiste à Autarquia.
+Isso porque, emrelaçãoaos parâmetros intertemporais que norteiam o regime jurídico a serobservado no momento da fixação doshonoráriosde sucumbência, ressaltoque o STJ harmonizou a orientação de que a lei aplicável para oarbitramento da verba honorária é aquela vigente na data dasentença/decisão em que fixados esseshonorários.Nesse sentido:AgInt nosEDcl no REsp 1.713.784/SP, Rel. Ministra Regina Helena Costa, PrimeiraTurma, DJe 20/09/2018; AgInt nos EDcl no AREsp 1.332.331/ES, Rel. MinistroGurgel de Faria,Primeira Turma, DJe 12/12/2019.
+Na espécie, a controvérsia sobre a verba honorária advocatícia deve serexaminada à luz do Código de Processo Civil de 2015, visto que proferida em25/3/2019(fl. 66).
+Com efeito, o acórdão proferido na origem deu provimento ao agravo de instrumento manejado pelo ora recorrido, afastando a aplicação da Súmula 111/STJ e diferindo para fase de liquidação a fixação dos honorários advoatícios (fl. 84).
+Todavia, arespeito do termo final doshonoráriosadvocatícios, aorientação jurisprudencial do Superior Tribunal de Justiça é a de que deveser fixado na data do julgamento favorável à concessão do benefíciopleiteado, excluindo-se as parcelas vincendas, conforme determina a Súmula111 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DABASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Conforme teor da Súmula 111 do Superior Tribunal de Justiça, o marcofinal da verba honorária deve ser a decisão em que o direito do seguradofoi reconhecido: "Os honorários advocatícios, nas ações previdenciárias,não incidem sobre as prestações vencidas após a sentença".
+2. Na hipótese, o acórdão recorrido, que concedeu o direito àaposentadoria especial, deve ser considerado como termo final. Nessesentido: AgRg no AREsp 271.963/AL, Rel. p/a. Acórdão, Min. Sérgio Kukina,Primeira Turma, DJe de 19/5/2014; EDcl no AgRg no REsp 1.271.734/RS, Rel.Min. Alderita Ramos de Oliveira (Desembargadora Convocada do TJ/PE), DJede 18/4/2013; AgRg nos EDcl no AREsp 155.028/SP, Rel. Ministro MauroCampbell Marques, Segunda Turma, DJe 24/10/2012.
+3. Recurso Especial provido.(REsp 1.831.207/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe19/12/2019)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIADA SÚMULA 111/STJ.
+1. A questão trazida neste recurso se subsume ao disposto na Súmula111/STJ, verbis: "Os honorários advocatícios, nas ações previdenciárias,não incidem sobre as prestações vencidas após a sentença."
+2. Assim, são devidos honorários advocatícios sobre o valor da condenação,considerando-se, para fins de cálculo dessa verba, apenas as parcelasvencidas até a prolação da decisão que reconheceu o direito do segurado,excluindo-se as vincendas.
+3. Agravo regimental provido.(AgRg no AREsp 271.963/AL, Rel. Ministro Napoleão Nunes Maia Filho, Rel.p/ Acórdão Ministro Sérgio Kukina, Primeira Turma, DJe 19/05/2014)
+PROCESSO CIVIL. PREVIDENCIÁRIO. BENEFÍCIOS EM ESPÉCIE.AUXÍLIO-RECLUSÃO.HONORÁRIOS NÃO FIXADOS. INEXISTÊNCIA. INCIDÊNCIA DO ENUNCIADO N. 111 DOSTJ. INCIDÊNCIA DO ENUNCIADO N.7 DA SÚMULA DO STJ. PRETENSÃO DE REEXAMEFÁTICO-PROBATÓRIO.
+I - De fato a decisão recorrida deixou de fixar os honorários na forma requerida no recurso especial, limitando-se à inversão dos ônus dasucumbência.
+II - A jurisprudência desta Corte é no sentido de que o marco final daverba honorária deve ser a decisão em que o direito do segurado foireconhecido (enunciado n. 111/STJ). Como o benefício somente foireconhecido nesta Corte quando foi proferida a decisão monocrática de fls.255-258 é este o marco final (AgRg no REsp 1557782/SP, Rel.Ministro MAUROCAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/12/2015, DJe 18/12/2015).
+III - A revisão da verba honorária por outro lado, implica, como regra,reexame da matéria fático-probatória, o que é vedado em Recurso Especial(Enunciado n. 7 da Súmula do STJ). Excepciona-se apenas a hipótese devalor irrisório ou exorbitante, o que não se configura neste caso.
+IV - Ante o exposto, dou parcial provimento ao agravo interno paraconsiderar que o marco final da verba honorária deve ser a decisão em queo direito do segurado foi reconhecido.
+V - Agravo interno improvido.(AgInt nos EDcl no REsp 1.654.553/SP, Rel. Ministro Francisco Falcão,Segunda Turma, DJe 14/12/2018)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. SÚMULA 7 DO STJ. TERMO FINAL.SÚMULA 111 DO STJ. OBSERVÂNCIA.
+1. A jurisprudência desta Corte Superior admite a revisão do juízo deequidade referente à fixação de honorários advocatícios (art. 20, § 4º, doCPC/1973) quando o valor arbitrado é irrisório ou exorbitante, pois,nesses casos, a violação à aludida norma processual exsurge de maneiraflagrante a justificar a intervenção deste Sodalício como meio depreservar a aplicação da lei federal de regência.
+2. Caso em que não se mostra desarrazoada a fixação dos honorários advocatícios em 10% sobre o valor da condenação, cuja revisão esbarra noóbice da Súmula 7 do STJ.
+3. A respeito do termo final da verba honorária, a orientaçãojurisprudencial do Superior Tribunal de Justiça é a de que deve ser fixadona data do julgamento favorável à concessão do benefício pleiteado,excluindo-se as parcelas vincendas, conforme determina a Súmula 111 destaCorte.
+4. Agravo interno não provido. (AgInt no AREsp 824.577/SP, Rel. MinistroGurgel de Faria, Primeira Turma, DJe 04/10/2017)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DABASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Conforme teor da Súmula 111 do Superior Tribunal de Justiça, o marcofinal da verba honorária deve ser a decisão em que o direito do seguradofoi reconhecido: "Os honorários advocatícios, nas ações previdenciárias,não incidem sobre as prestações vencidas após a sentença".
+2. Na hipótese, o acórdão recorrido, que concedeu o direito àaposentadoria especial, deve ser considerado como termo final. Nessesentido: AgRg no AREsp 271.963/AL, Rel. p/a.Acórdão, Min. Sérgio Kukina, Primeira TUrma, DJe de 19/5/2014; EDcl noAgRg no REsp 1.271.734/RS, Rel. Min. Alderita Ramos de Oliveira(Desembargadora Convocada do TJ/PE), DJe de 18/4/2013; AgRg nos EDcl noAREsp 155.028/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe24/10/2012.
+3. Recurso Especial provido.(REsp 1.831.207/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe19/12/2019)
+No caso concreto, o Tribunal de origem decidiua controvérsia emdissonância com a jurisprudência mencionada, porquanto não limitou a verbahonorária até a data da prolação da sentença que reconheceu o direito dosegurado, nos termos daSúmula111 deste Superior Tribunal.
+Ante o exposto, dou parcial provimento ao recurso especial para reconhecera aplicação daSúmula111 do STJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃODOART.1.022 DO CPC/2015. NÃO OCORRÊNCIA.AUXÍLIO-ACIDENTE. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. TERMO FINAL.DATA DA SENTENÇA. INCIDÊNCIA DA SÚMULA 111/STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
