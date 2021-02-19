@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto por TERRA NOVA RODOBENS INCORPORADORA IMOBILIÁRIA - SÃO JOSÉ DO RIO PRETO XXII - SPE LTDA, em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação cível. Compra e venda de imóvel. Obrigação de fazer. Indenização por danos materiais e morais. Alegação de atraso na entrega da obra. Sentença de procedência parcial.
+Atraso na entrega da obra. Cláusula contratual com data incerta para entrega do bem. Consumidor colocado em desvantagem exagerada. Poder-se-ia falar que o prazo para entrega da obra deveria ser 12 meses, contado da data da assinatura do contrato, acrescido do período de tolerância de 120 dias. Prazo teria se esgotado em 08/02/2012.
+Entretanto, a própria autora concorda em que as chaves deveriam ter sido entregues entre fevereiro ou março de 2013. Expedição do "habite-se" não afasta a mora da ré.
+Aplicação da Súmula 160 desta C. Corte. Mora do vendedor caracterizada. Eventual débito em relação aos juros de obra que não autoriza a retenção das chaves do bem pela ré.
+Lucros cessantes. Aplicação da Súmula 162 desta C.Corte. Dispensada prova acerca dos lucros cessantes. Presunção decorrente do atraso na entrega da obra.
+Indenização devida a partir da mora da ré para entrega do imóvel (abril de 2013) até a data da efetiva entrega do bem no montante de 0,5% do valor atualizado do contrato.
+Multa inversa. Cabimento de sua aplicação, porém não concomitantemente com a indenização por lucros cessantes. Prevalência da indenização por lucros cessantes.
+Danos morais. Entrega de imóvel além do prazo estabelecido entre as partes é suficiente para a caracterização do prejuízo moral. Cobrança pela ré de despesas que a ela incumbia arcar. Indenização devida.
+Valor arbitrado em R$10.000,00 que atende aos princípios da razoabilidade de proporcionalidade.
+Cobrança dos juros de obra. Atraso na entrega da obra pela ré comprovado no período entre abril de 2013 até a data da efetiva entrega das chaves. Valores referentes a título de juros de obra em período anterior suportados pela ré (fevereiro de 2012 a março de 2013) são devidos pela autora à ré.
+Depreciação do imóvel. Indenização indevida. Autora não logrou demonstrar a ocorrência de depreciação no imóvel.
+Despesas condominiais, energia elétrica, gás e IPTU. Cobranças ilegais antes da efetiva imissão na posse. Autora que não era possuidora direta do imóvel.
+Sucumbência. Alterações no resultado do julgamento. Sucumbência mínima da parte autora. Ré deve suportar o pagamento do ônus da sucumbência. Arbitramento dos honorários advocatícios em 15% (quinze por cento) sobre o valor da condenação. Atendimento ao disposto no artigo 85, §2º do CPC.
+Resultado. Recurso provido parcialmente." (fls. 596/597)
+Nas razões do apelo especial, a construtora aponta violação aos arts. 186, 476 e 927 do Código Civil, sustentando, em síntese, (a) "não houve mora da Recorrente quanto ao prazo de entrega do imóvel, muito pelo contrário, o inadimplemento foi por parte do Recorrido, ante a sua inadimplência com relação aos pagamentos assumidos perante à Recorrente" (fl. 613), (b) "não há que se falar ao pagamento de indenização por danos materiais ao Recorrido neste caso, visto que devidamente demonstrado e comprovado a inexistência de atraso na entrega do imóvel por culpa da Recorrente" (fl. 614), (c) "ainda que seja mantida a indenização referente aos lucros cessantes, importante destacar novamente que o valor arbitrado é exorbitante e desproporcional em relação ao presente caso, sendo capaz de causar o enriquecimento ilícito da Recorrido" (fl. 615) e (d) "não há que se falar ao pagamento de indenização por danos morais ao Recorrido, de acordo com o próprio entendimento desta Corte Superior, haja vista que o atraso na entrega de imóvel se trata de mero inadimplemento contratual" (fl. 617).
+Contrarrazões às fls. 713/716.
+É o relatório.
+Acerca da culpa pelo inadimplemento do contrato, apesar de a construtora alegar que a autora deixou de efetuar o pagamento dos juros da obra, o Tribunal de origem entendeu que a cobrança desse encargo é abusiva, na hipótese em que a construtora deixa de observar o prazo para a entrega da unidade imobiliária. Destacam-se os seguintes trechos do aresto:
+"Nessas condições, ante a evidente abusividade das cláusulas contratuais que fixaram prazo incerto para entrega da obra, poder-seia falar que o início da contagem do prazo de 12 meses, seria a data da assinatura do contrato entre a autora e a ré (08/10/2010, fls. 56), com acréscimo do prazo de tolerância de 120 dias.
+Dessa forma, o prazo para entrega da obra, com o cômputo do prazo de tolerância, teria se esgotado em 08/02/2012. Porém, a própria autora concorda em as chaves deveriam ter sido entregues entre fevereiro ou março de 2013. Portanto, no presente caso, será considerado como prazo final para entrega das chaves o mês de março de 2013.
+(..)
+No caso, a autora alega e comprova ocorrência de atraso na entrega da obra. Por outro lado, a ré afirma que a autora se encontra inadimplente com relação ao montante de R$5.525,94 (cinco mil, quinhentos e vinte e cinco reais e noventa e quatro centavos) a título de juros de obra referentes ao meses (fls. 260): fevereiro, setembro, outubro, novembro, dezembro de 2012 e janeiro a novembro de 2013.
+Insiste em que a posse está condicionada ao cumprimento integral das obrigações e enquanto o valor não for quitado com a ré, as chaves não poderiam ser entregues.
+Importante salientar que a taxa de evolução da obra constitui encargo decorrente do contrato de financiamento e imposta ao mutuário pelo agente financeiro. Porém, se não foi comprovado o atraso na entrega do imóvel, sua cobrança não é abusiva ou ilegal.
+No entanto, no caso dos autos o atraso na entrega da obra é evidente conforme já mencionado e, portanto, a cobrança desta taxa passa a ser ilegal a partir do momento em que se houve a caracterização da mora da ré que no caso deve ser considerado o mês de abril de 2013." (fls. 599/602)
+Assim, a rejeição da exceção do contrato não cumprido deve ser mantida, pois a decisão do TJSP está em conformidade com a jurisprudência desta Corte, no sentido de que é ilegal a cobrança de juros da obra nas hipóteses de atraso na entrega do imóvel. Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. COBRANÇA APÓS O PRAZO PARA A ENTREGA DAS CHAVES.
+DESCABIMENTO. ILICITUDE. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE DE REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. De acordo com o entendimento deste Superior Tribunal, na aquisição de unidades autônomas em construção, é ilícito cobrar do adquirente juros de obra ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância.
+2. O Tribunal de origem, ao concluir pela necessidade de restituição à autora, ora recorrida, das quantias pagas a título de juros de obra do período posterior à entrega das chaves, encontra-se em consonância com a jurisprudência desta Corte, o que atrai a incidência da Súmula 83/STJ, aplicável a ambas as alíneas do permissivo constitucional.
+3. Agravo interno improvido.
+(AgInt no REsp 1884764/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/11/2020, DJe 16/11/2020)"
+Incidente, pois, a Súmula n. 83/STJ.
+No tocante aos lucros cessantes, o eg. TJSP os fixou em 0,5% do valor do contrato por mês, incidindo durante todo o período de mora, nestes termos:
+"A indenização devida pela ré deve incidir sobre o período de mora dela até a efetiva entrega das chaves, ou seja, a partir de abril de 2013 no montante de 0,5% do valor do contrato atualizado pelos índices da tabela pratica desta C. Corte, desde os respectivos vencimentos e acrescidos de juros de 1% ao mês desde a citação." (fl. 600)
+Diante disso, verificar se referida quantia é adequada para indenizar a compradora do imóvel, sem lhe causar enriquecimento ilícito, demandaria o reexame das circunstâncias de fato da causa, o que é vedado pela Súmula n. 7/STJ.
+Por fim, o Tribunal de origem fixou indenização por danos morais na espécie, com base nos seguintes fundamentos:
+"O atraso na entrega da obra restou comprovado nos autos.
+A moderna definição de dano é a de ofensa a um bem juridicamente tutelado, que pode ter, ou não, caráter patrimonial.
+A situação de incerteza porque passou a adquirente supera em muito os meros dissabores do dia a dia, pequenos aborrecimentos do cotidiano, mormente porque afeta o direito fundamental à moradia, coloca em risco investimentos de toda uma vida e a segurança patrimonial da família.
+A entrega de imóvel em desacordo com o acordado no contrato pela ré é suficiente para a caracterização do prejuízo moral, além do mais quando existem cobranças ilegais de valores de responsabilidade da ré, indevidos pelo adquirente." (fl. 601)
+Uma vez declarado pelo Tribunal de origem que o atraso na entrega do imóvel implicou mais do que meros dissabores à compradora, a revisão desse entendimento esbarra no óbice da Súmula n. 7/STJ.
+Na mesma direção:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL. NOVAÇÃO. NÃO OCORRÊNCIA. SÚMULAS 5 E 7, DO STJ. DANO MORAL. OCORRÊNCIA. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Para desconstituir a convicção formada pelas instâncias ordinárias acerca da não ocorrência de novação no caso em análise, far-se-ia necessário incursionar no substrato fático-probatório dos autos, bem como na interpretação de cláusula contratual, o que é defeso a este Tribunal nesta instância especial, conforme se depreende do teor dos Enunciados sumulares n. 5 e 7 do STJ.
+2. No caso concreto, o Tribunal de origem concluiu que o atraso verificado provocou mais que mero dissabor, sendo devida a indenização por danos morais. Rever o entendimento do acórdão recorrido, ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt no REsp 1816448/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/11/2020, DJe 03/12/2020)"
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do Regimento Interno, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado do recorrido de 15% para 16% do valor da condenação.
+Publique-se.
