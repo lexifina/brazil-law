@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por RAIZEN PARAGUAÇU LTDA contra decisão do Tribunal de Justiça do Estado de São Paulo,que não admitiu recurso especial manejado contra acórdão assim ementado:
+AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS ATÍPICAS.A expedição de ofício às administradoras de cartão de crédito e intimação dos executados para que prestem informações sobre gastos de valores mensais não possuem pertinência com a tentativa de localização de patrimônio, aproximando-se mais de modalidade de punição ou penalização do executado, em desrespeito ao princípio da responsabilidade patrimonial indicado no artigo 798 do Código de Processo Civil. Agravo não provido. (e-STJ, fl. 946)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: art. 489, § 1º, inciso I, e art. 1.022, II, 5º, 6º, 139, inciso IV, 378, do CPC/15.
+Sustenta preliminarmente que o acórdão deve ser anulado porque o Tribunal de origem não se manifestou sobre todas as questões deduzidas no agravo, além de não constar nada acerca do dever de cooperação vigente no processo civil.
+Quanto ao mérito, pede a reforma do acórdão por entender, em síntese, que: ajuizou ação executiva faz 20 anos e, após diversas tentativas, não logrou encontrar bens suficientes para saldar a dívida, assimdeve ser autorizada a expedição de ofício à administradora de cartão de crédito, a fim de obter informações relacionadas aos gastos dos executados.
+Defende que os executados devem demonstrar a forma de gestão dos valores destinados à sua subsistência e a real incapacidade de pagamento do débito.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, no que tange à alegada violação do art. 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência.
+Ocorre que, por ocasião do julgamento dos embargos de declaração opostos pela ora recorrente, acrescentaram-se os seguintes fundamentos:
+No caso vertente, os argumentos relevantes ao julgamento foram devidamente enfrentados pela Turma Julgadora, convencida de que as medidas atípicas do processo executivo são subsidiárias e devem ser pertinentes à tentativa de localização de patrimônio dos executados. Para superar o "prequestionamento" não é preciso fazer menção aos dispositivos legais indicados pelos recorrentes. Ora, insta salientar que é inviável revolver os autos apenas para se dar enfoque aos dispositivos legais e enquadramento jurídico que a embargante imagina pertinentes, porque foi suficiente a fundamentação para a solução dada, com ostentação das teses jurídicas adotadas. (e-STJ, fl. 955 - grifou-se)
+Da leitura dos trechos acima transcritos, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto ao não deferimento da medida atípica solicitada pela parte agravante.
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. 2. COBERTURA DE INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA. INTERPRETAÇÃO SOB A LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO ACERCA DOS LIMITES DA COBERTURA CONTRATADA. RECONHECIMENTO NA ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. PEDIDO DE APLICAÇÃO DE MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. AGRAVO IMPROVIDO.
+1. Não há violação ao art. 1.022 do CPC de 2015, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1697809/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017, g.n.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. LEVANTAMENTO DE GRAVAME. DESCUMPRIMENTO DE ACORDO HOMOLOGADO JUDICIALMENTE. DANO MORAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VALOR INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098101/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, g.n.)
+Com relação ao pedido de expedição de ofício à administradora do cartão, a Corte estadual afastou tal pretensão, por entender que o resultado da pesquisa, se mostrava irrelevante para a ação de execução, consignando que:
+Será preciso bastante atenção dos julgadores na definição dos limites do art. 139, inc. IV do NCPC, pois, mesmo que determinadas sob a boa intenção da efetividade do processo judicial, as medidas atípicas para assegurar o cumprimento das decisões precisam evidenciar a condução dos devedores à satisfação da obrigação, para que não assumam caráter punitivo sem qualquer relação com o resgate das dívidas.O pedido de expedição de ofício às administradoras de cartão de crédito, para que prestem informações relacionadas aos gastos dos executados, não possui pertinência com a tentativa de localização de bens, aproximando-se mais de modalidade de punição ou penalização dos executados, em desrespeito ao princípio da responsabilidade patrimonial indicado no artigo 798 do Código de Processo Civil. (e-STJ, fls. 947/948 - grifou-se)
+Efetivamente, não se olvida que o magistrado pode determinar atos atípicos de constrição patrimonial, com fundamento no art. 139, IV, do Código de Processo Civil. Entretanto, faz-se mister destacar que as medidas devem atingir o patrimônio do devedor, mantendo-se em consonância com a finalidade do processo executivo. Assim, afigura-se incabível a prática de providências que não refletem no patrimônio do executado.
+Nesse contexto, rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/15. CUMPRIMENTO DE SENTENÇA. MEDIDAS EXECUTIVAS ATÍPICAS. ART. 139, IV, DO CPC. SUSPENSÃO DA CARTEIRA NACIONAL DE HABILITAÇÃO (CNH) E APREENSÃO DE PASSAPORTE. DIRETRIZES FIXADAS PELA 3ª TURMA NO JULGAMENTO DO RESP 1.788.950/MT. INEXISTÊNCIA DE BENS PASSÍVEIS DE EXPROPRIAÇÃO RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. VEDAÇÃO. SÚMULA 7/STJ. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1837309/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 13/2/2020 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. No tocante à ofensa ao artigo 139, inciso IV, do CPC, a jurisprudência desta Corte Superior firmou-se no sentido de que asmedidas atípicasde satisfação do crédito não podem extrapolar os princípios da proporcionalidade e da razoabilidade, devendo-se observar, ainda, o princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual. Precedentes.
+1.1. No caso concreto, o Tribunal de origem consignou que a tutela atípica postulada, consistente na apreensão da Carteira Nacional de Habilitação (CNH), cartões de crédito/débito e Passaporte, extrapola os princípios da razoabilidade e da proporcionalidade, além de não representar certeza de efetividade à satisfação do crédito. 1.2. A conclusão do Tribunal está em harmonia com a jurisprudência desta Corte, atraindo a aplicação da Súmula 83 do STJ.
+1.3. O reexame dos critérios fáticos é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1495012/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 12/11/2019 - grifou-se)
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. OMISSÃO. AUSENTE. MEDIDAS EXECUTIVAS ATÍPICAS. ART. 139, IV, DO CPC/15. EXPEDIÇÃO DE OFÍCIO. DESPROPORCIONALIDADE. MODALIDADE DE PUNIÇÃO.REVISÃO. VEDAÇÃO. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
