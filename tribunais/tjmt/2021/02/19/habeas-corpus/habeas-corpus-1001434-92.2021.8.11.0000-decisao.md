@@ -1,0 +1,39 @@
+PJe
+Habeas Corpus n. 1001434-92.2021.8.11.0000
+Impetrante: Fernando Santos Queiroz Oliveira
+Paciente: Claudionor Donizete Ferreira
+Impetrados: Juiz da 4a Vara Criminal da Comarca de Rondonópolis/MT
+Juiz da Vara Única da Comarca de Rosário Oeste/MT
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Claudionor Donizete Ferreira, apontando como autoridade coatora o Juízo da 4a Vara Criminal da Comarca de Rondonópolis/MT.
+Consoante os termos já consignados no Id. 75012980, pp. 1-3:
+“De acordo com os termos da impetração, o paciente foi condenado no dia 25.5.2010 pela prática do delito de roubo majorado, descrito no art. 157, § 2o, incisos I, II e V, do Código Penal, ao cumprimento da reprimenda de 8 anos de reclusão, em regime inicial fechado, sendo-lhe concedido o direito de recorrer em liberdade, proveniente da ação penal n. 0001747-33.2005.811.0032.
+O signatário da prefacial aduz que o favorecido “encontra-se segregado na Penitenciária Regional Major Eldo de Sá Corrêa “Mata Grande” em Rondonópolis desde o dia 10/12/2020 por força do Mandado de Prisão sob o n. 0000749-50.2014.8.11.0032, visando efetivar as condições impostas pela sentença condenatória no Processo de Execução Penal de n. 0000749-50.2014.8.11.0032” (Id. 74490457, p. 2).
+Assevera que o increpado não foi localizado pelo oficial de justiça para ser cientificado dos termos do édito judicial condenatório, e que, nesse caso, o magistrado de primeiro grau deixou de proceder a intimação do defensor por ele constituído ou a intimação do paciente via edital, conforme preconiza o art. 392, inciso II e IV, do Código de Processo Penal, e posteriormente foi certificado o trânsito em julgado da condenação, situação que, na sua intelecção, viola os princípios do devido processo legal e duplo grau de jurisdição.
+Afirma que há nulidade por falta de intimação de seu advogado constituído e intimação por edital do paciente da sentença condenatória, de modo que sobreveio prejuízos dos efeitos da condenação, tendo em vista que foi distribuído o processo executivo de pena n. 0000749-50.2014.8.11.0032, em que a pena é oriunda de processo nulo, ferindo o devido processo legal, a ampla defesa e o contraditório.
+Com essas considerações, em síntese, pugna pela concessão liminar da presente ação mandamental, para determinar a nulidade do processo com base no art. 564, inciso IV, do Código de Processo Penal, anulando os atos desde a prolação do édito condenatório, tornado sem efeito a certidão de trânsito em julgado para que possa manifestar quanto à sentença condenatória proferida.
+Ao fim, espera ver confirmada definitivamente a ordem pelo órgão colegiado (Id. 74490457, pp. 1-10)”
+A liminar foi indeferida.
+As informações foram devidamente prestadas (Id. 75536976 a 76242983).
+A Procuradoria-Geral de Justiça opinou pela não conhecimento do writ, conforme o seguinte ementário: (Id. 76242984).
+“HABEAS CORPUS – ALEGAÇÃO DE NULIDADE PROCESSUAL POR AUSÊNCIA DE INTIMAÇÃO PESSOAL DO RÉU DA SENTENÇA PENAL CONDENATÓRIA – ALEGAÇÃO DE NULIDADE NÃO DEMONSTRADA E RECHAÇADA NAS INFORMAÇÕES PRESTADAS – PACIENTE QUE INTENTOU COM REVISÃO CRIMINAL CONTRA O JULGADO QUESTIONADO, NÃO OBTENDO ÊXITO QUANTO À NULIDADE INDICADA – AUSÊNCIA DE INTERESSE DE AGIR DA PRESENTE AÇÃO MANDAMENTO VERIFICADA – PELO NÃO CONHECIMENTO DO WRIT”
+É o relatório.
+Compulsando detidamente os autos, verifico que a solução que se impõe no caso em exame é a extinção do habeas corpus, sem apreciação do mérito.
+Inicialmente, é cediço que a ação constitucional de habeas corpus possui como escopo salvaguardar o direito de locomoção dos indivíduos naqueles casos em que tal garantia fundamental foi ou está na iminência de ser violada.
+Contudo, tratando-se de medida de urgência de natureza célere e com procedimento sumaríssimo, tal instituto não se presta ao debate aprofundado das teses meritórias das partes e, muito menos, ao revolvimento do arcabouço fático e probatório da ação de origem, razão pela qual a concessão da ordem está intimamente ligada à prévia e cabal demonstração da ilegalidade narrada na prefacial.
+Consoante relatado, o impetrante busca nulidade processual aduzindo, em síntese, que na ação penal n. 0001747-33.2005.811.0032 proveniente da comarca de Rosário Oeste/MT, o magistrado de primeiro grau deixou de proceder a intimação do defensor ou a intimação do paciente via edital, conforme preconiza o art. 392, incisos II e IV, do Estatuto Processual Penal.
+Inobstante a insurgência defensiva, após a juntada das informações prestada pelo Juízo da Comarca de Rosário Oeste/MT, pude constatar que a defesa do paciente teve acesso ao processado, inclusive enfrentou o tema por meio de revisão criminal.
+Por pertinência e relevância transcrevo trecho das informações prestadas pelo Juízo da Comarca de Rosário Oeste/MT.
+“O processo n. 0001747-33.2005.8.11.0032 (ação penal), tramitou na Vara Única da Comarca de Rosário Oeste/MT, tendo como partes Ministério Público Estadual contra Claudionor Donizete Ferreira (paciente) e Júlio Geraldo da Silva, atualmente o feito se encontra arquivado com baixa.
+Conforme consta dos autos, este Juízo proferiu sentença condenatória em 31 de maio de 2010. Em 24 de novembro de 2010 o advogado nomeado à época para patrocinar a defesa de ambos os acusados, tomou ciência do teor da sentença condenatória (segue comprovante anexo). Esclareço que expedida carta precatória para a Comarca de Rondonópolis/MT com a finalidade de realizar a intimação do acusado Claudionor Donizete Ferreira (paciente) acerca da sentença condenatória, esta retornou negativa em razão da não localização do réu no endereço indicado nos autos. Não houve expedição de edital de intimação.
+Posteriormente, em 01 de março de 2011 o acusado Júlio Geraldo da Silva constituiu advogado particular e apresentou recurso de apelação, tendo o Ministério Público oferecido suas contrarrazões e os autos sido remetidos ao E.TJMT que desproveu o recurso (Apelação no 8157/2013).
+Após o trânsito em julgado do acórdão, expedidas as guias de execução penal e arquivado o processo, em 10 de março de 2015 o acusado CLAUDIONOR DONIZETE FERREIRA (paciente) constituiu advogado particular pugnando pelo desarquivamento dos autos, o que foi deferido.
+Em 24 de setembro de 2015, a defesa constituída do acusado (paciente) apresentou revisão criminal, tendo o Ministério Público se manifestado e o E.TJMT julgado improcedente a ação revisional (Revisão Criminal no 133925/2015). Inconformada, a Defesa apresentou embargos de declaração e posteriormente recurso especial, ambos desprovidos pela Segunda Instância, razão pela qual interpôs agravo ao recurso especial, tendo sido os autos remetidos ao Superior Tribunal de Justiça o qual negou provimento a mencionado recurso (Agravo em Recurso Especial n. 973.313-MT 2016/0224746-1).
+Retornando os autos à Comarca de Rosário Oeste/MT e não havendo deliberações pendentes de cumprimento, o processo foi remetido novamente ao arquivo definitivo em 08 de junho de 2019.
+Por fim, informo que o Executivo de Pena no 0000749-50.2014.8.11.0032 tramita na Comarca de Rondonópolis/MT em razão do declínio de competência em favor do Juízo de Execução Penal de onde o reeducando está segregado” (Id. 75567984, pp. 2-3) – destaquei.
+Assim, conquanto o impetrante insista em ser cabível a nulidade processual em razão da ausência de intimação da sentença penal condenatória nos termos do art. 392 do Código de Processo Penal, o pleito defensivo já foi enfrentado por esta Corte de Justiça, motivo pelo qual eventual irresignação atinente à mesma matéria não compete mais a este Egrégio Tribunal de Justiça.
+Por todo o exposto, não conheço da presente ação constitucional, por ser manifestamente inadmissível.
+Intime-se e cumpra-se.
+Após as formalidades de praxe, arquive-se.
+Cuiabá, 19 de fevereiro de 2021.
+Desembargador Pedro Sakamoto
+Relator
