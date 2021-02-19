@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão, assim ementada (fl. 482):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL.AUXÍLIO-ACIDENTE. TERMO INICIAL DO BENEFÍCIO. DATA DA CITAÇÃO. JUROS DE MORA A PARTIR DA CITAÇÃO VÁLIDA.SÚMULA 204/STJ. PRECEDENTES. RECURSO PROVIDO.
+O embargante aponta contradição e omissão. Requer que seja sanada a contradição e omissão quanto ao dies a quo do auxílio-acidente.
+Por fim, requer "o recebimento e acolhimento dos presentes embargos, para sanar-se a apontada contradição quanto ao "dies a quo" do auxílio-acidente, assim como a omissão relativa à natureza do anterior auxílio-doença, como de direito." (fl. 492)
+É o relatório. Passo a decidir.
+Consoante previsão do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, a parte embargante aponta a ocorrência dos vícios de contradição e omissão, sem contudo, demonstrar a efetiva ocorrência de tais vícios a justificar a oposição dos presentes Embargos de Declaração.
+No caso, o agravante limitou-se a alegar que "caracterizada a existência de contradição e omissão na V. Decisão, capazes de justificar o presente remédio legal." (fl. 492, e-STJ), sem apontar qual seria a contradição ou especificar de que forma teria sido violado o artigo 1022 do CPC/15.
+Convém, ressaltar, quanto à contradição, é firme o posicionamento desta Corte, segundo o qual "a contradição sanável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador. O recurso integrativo não se presta a corrigir contradição externa entre o decisum impugnado e o entendimento da parte, ou entre este e outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando." (EDcl no REsp 1.388.682/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 22/5/2017).
+Quanto à apontada omissão, depreende-se da leitura da decisão monocrática que a controvérsia relativa ao termo inicial do benefício foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável ao caso.
+Por fim, quanto a questão relativa a conversão do auxílio-doença previdenciário (espécie 31) em seu homônimo acidentário (espécie 91), o acórdão recorrido consignou que "uma vez que a incapacidade somente restou efetivamente comprovada pelo laudo pericial, não é caso de conversão do benefício de auxílio-doença previdenciário em seu homônimo acidentário, como requerido no recurso de apelação.", conclusão que, por estar ancorada no conjunto fático-probatório dos autos, não pode ser revista em sede de recurso especial. Aplicável ao caso, a Súmula 7 do STJ.
+Ante o exposto, acolho parcialmente dos embargos de declaração, apenas para sanar o vício de omissão, sem, no entanto, conferir efeitos infringentes.
+Publique-se. Intimem-se.
+.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. CONTRADIÇÃO. VÍCIO NÃO DEMONSTRADO. OMISSÃO. VICIO CONSTATADO. EMBARGOS PARCIALMENTE ACOLHIDOS, SEM EFEITOS INFRINGENTES.
