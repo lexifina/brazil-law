@@ -1,0 +1,11 @@
+DECISÃO
+Na origem, o Ministério Público Federal, ora recorrido, interpôs Agravo de Instrumento contra decisão que, nos autos da Ação Civil Pública 0800227- 03.2015.4.05.8003, indeferiu o pedido de liminar.
+Na referida ação, o Parquet requer a condenação do Município recorrente "à aplicação do crédito advindo do processo 0004335-35.2006.4.05.8000 na manutenção e desenvolvimento da educação ou, subsidiariamente, a condenação do município na obrigação de não aplicar o referido crédito em gastos com publicidade e propaganda, eventos, repasses à Câmara de Vereadores e despesas com pessoal, incluindo previdência" (fl. 5e).
+No acórdão objeto do Recurso Especial, publicado em abril de 2016, o Tribunal de origem deu parcial provimento ao Agravo de Instrumento "para determinar que a aplicação das verbas de que se cuida guardem vinculação à educação, porque egressas do FUNDEF" (fl. 616e).
+Tendo em vista o tempo transcorrido desde a interposição do presente Recurso Especial e o disposto nos arts. 5º, 10 e 77, I, do CPC/2015, as partes foram intimadas a informar se (a) a referida Ação Civil Pública foi julgada; e (b) teriam interesse no julgamento do feito.
+Na petição de fls. 861/864e, o recorrido informa que:
+"(..)a ação civil pública foi extinta pelo Juízo da 11ª Vara Federal após pedido do MPF, já que a recuperação dos aludidos recursos ocorrerá durante os procedimentos em referência.
+Assim, considerando tais informações prestadas pela Procuradoria da República em Arapiraca/AL (extinção do feito, sem a continuidade de medidas executórias por impossibilidade fática, já que os recursos foram desviados) e que este recurso foi interposto em face de acórdão proferido em agravo de instrumento que examinou bloqueio de bens, este Órgão do Ministério Público Federal manifesta-se pela sua prejudicialidade, pela perda do objeto e ausência superveniente de interesse de agir".
+Nesse contexto, levando em consideração a informação prestada pelo recorrido, no sentido de a Ação Civil Pública, em que deferida a liminar impugnada pelo recorrente, foi julgada extinta, forçoso reconhecer a perda do objeto do presente Recurso Especial.
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ,julgo prejudicadoo presente Recurso Especial.
+I.
