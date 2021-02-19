@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO –MATÉRIA FÁTICA E LEGAL – INVIABILIDADE – AGRAVO – DESPROVIMENTO.
+    1. O Tribunal de Justiça do Estado do Maranhão confirmou o entendimento do Juízo quanto à improcedência do pedido de nomeação, no cargo de policial militar, de candidato excluído do curso de formação por força de cometimento de transgressão militar. No extraordinário, cujo trânsito busca alcançar, o recorrente aponta violado o artigo 5º, inciso LV, da Constituição Federal. Ressalta o desrespeito aos princípios do contraditório e da ampla defesa.
+    2. A recorribilidade extraordinária é distinta daquela revelada por simples revisão do que decidido, na maioria das vezes procedida mediante o recurso por excelência a apelação. Atua-se em sede excepcional à luz da moldura fática delineada soberanamente pelo Tribunal de origem, considerando-se as premissas constantes do acórdão impugnado. A jurisprudência sedimentada é pacífica a respeito, devendo-se ter presente o verbete nº 279 da Súmula deste Tribunal:
+    Para simples reexame de prova não cabe recurso extraordinário.
+    Colho do acórdão o seguinte trecho:
+    O cerne dos autos repousa na legalidade ou não da Portaria nº.: 002/2017-P/1-18º BPM, que desligou o apelante do Curso de Formação de Soldados da PMMA, sob fundamento de prática de conduta incompatível com a carreira Policial Militar.
+    Inicialmente tenho que, não obstante as alegações do recorrente, não houve ilegalidade no agir da Administração Pública que o desligou do Curso de Formação de Soldado PM, no 18º BPM, em razão do não atendimento das exigências do Edital n.º 01/2017, senão vejamos.
+    O referido edital estabelece que para a aprovação no certame destinado ao provimento do cargo de Soldado Combatente da PM/MA, imperiosa a aprovação em todas etapas do concurso público, dentre eles o Curso de Formação, de caráter eliminatório e classificatório.
+    Compulsando os autos, verifiquei que o Conselho de Ensino do 18º BPM entendeu que houve transgressão disciplinar imputada ao apelante, quando em 04/02/2017, o mesmo, estando sob efeito de bebida alcóolica e na direção de veículo automotor, conduziu automóvel em via pública, ocasionando a colisão em outro veículo (GOL VW, Placa HVV – 7306), de propriedade do Sr. Renato Pereira do Nascimento, como se vê do Boletim de Ocorrencia Policial n.º 307/2017 (ID 4512732).
+    Em decorrência do sinistro, o apelante desembolsou a quantia de R$ 1.000,00 (um mil reais) para pagamento dos danos causados ao terceiro (ID 4512733).
+    No caso ora debatido, o apelante não revidou a ocorrência do fato, ao revés, em sua oitiva na Reunião do Conselho de ensino, ocorrida em 15/02/2017, assumiu a inteira responsabilidade pelo ocorrido, chegando inclusive a afirmar que possui problemas com bebidas alcoólicas (ID 4512732), ocasião em que sequer apresentou defesa escrita, apesar de ter sido oportunizado.
+    De tudo isto resulta que, o desligamento do apelante decorreu diretamente do não atendimento às exigências de integralização da grade curricular, que compreende a realização da disciplina “Estágio Supervisionado Obrigatório”, vez que, em razão da transgressão militar relatada acima, restou inviabilizada a conclusão do estágio.
+    As próprias testemunhas (ID 4512752) corroboram o motivo de sua exclusão das fileiras da Polícia Militar.
+    Por fim, entendo que em casos assim, por ser o apelante aluno do Curso de Formação de Soldados Combatentes da Polícia Militar do Maranhão, integrante da 6ª Etapa do Concurso Público regido pelo Edital n.º 01/2017-SEGEP/MA. Inaplicável a exigência constitucional de desligamento precedido de processo administrativo disciplinar.
+    […]
+    Daí, a apuração dos fatos por meio de processo administrativo disciplinar, com observância do contraditório e da ampla defesa, é medida a ser adotada especificamente para servidor que integra os quadros da Polícia Militar do Maranhão, o que não é o caso dos autos.
+    As razões do extraordinário partem de pressupostos fáticos estranhos ao acórdão atacado, buscando-se o reexame dos elementos probatórios para, com fundamento em quadro diverso, assentar a viabilidade do recurso.
+    Acresce que o acórdão impugnado mediante o extraordinário revela interpretação de normas estritamente legais, não ensejando campo ao acesso ao Supremo. À mercê de articulação sobre a violência à Carta da República, pretende-se submeter à análise matéria que não se enquadra no inciso III do artigo 102 da Constituição Federal.
+    No mais, o Tribunal, no recurso extraordinário com agravo nº 748.371/MT, da relatoria do ministro Gilmar Mendes, consignando a natureza infraconstitucional da matéria, entendeu não ter repercussão geral o tema relativo à suposta violação ao devido processo legal (contraditório e ampla defesa) quando o julgamento da causa depender de prévia análise da adequada aplicação das normas infraconstitucionais.
+    3. Conheço do agravo e o desprovejo.
+    4. Publiquem.
+Brasília, 19 de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
