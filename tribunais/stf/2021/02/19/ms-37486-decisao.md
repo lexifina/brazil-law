@@ -1,0 +1,28 @@
+Despacho:
+    Vistos.
+    Cuida-se de mandado de segurança, com pedido de liminar, impetrado por Raimunda Parreira Entreportes Gomes, em face de acórdão proferida pela 2ª Câmara do TCU, que reputou ilegal o recebimento de benefício decorrente de pensão de que era detentora, determinando sua suspensão. Acrescentou que recebia regularmente esse benefício, desde o ano de 2013, quando do falecimento de seu esposo, insurgindo-se contra a prolação dessa ordem, que considera ilegal, pleiteando, desde logo, a pronta suspensão dos efeitos de tal decisão e, afinal, o definitivo reconhecimento de sua ilegalidade.
+    Por decisão datada de 26/10/20, deferi a pretendida cautelar, tendo a União se insurgido, através da interposição de agravo regimental.
+     Foram prestadas as devidas informações, acompanhadas de documentos e, por fim, veio aos autos o parecer da douta Procuradoria-Geral da República, pela concessão da ordem, que restou assim ementado:
+    Mandado de segurança. Tribunal de Contas da União. Negativa de registro de ato de concessão de pensão vitalícia com determinação para que o órgão de origem cesse o pagamento do benefício. Reconhecimento pela Corte de Contas e pela União de que não deveria ter sido suspenso o pagamento da pensão vitalícia, mas apenas corrigida a forma de cálculo do benefício. Parecer pela concessão da segurança, com a manutenção do pagamento da pensão, para que a impetrante não fique ao desamparo enquanto a forma de cálculo é corrigida pelo órgão de origem.
+    É o relatório.
+    Decido:
+    Volta-se a presente impetração contra decisão do TCU que reputou ilegal a pensão de que a impetrante é beneficiária, por ter sido ilegalmente instituída.
+    Conforme ressaltado, quando da concessão da medida cautelar, a impetrante já ostentava a condição de pensionista há muito tempo, desde o falecimento de seu marido, com quem estava regularmente casada, sendo a mãe de seus filhos, estando a receber tal benefício há vários anos.
+    Em suas informações, aduziu a autoridade apontada como coatora que
+    7. Parece que nem a impetrante, nem o órgão que concedeu a pensão tiveram compreensão adequada da decisão do TCU até o momento exarada no caso.
+    8. Acaso o Núcleo Estadual do Ministério da Saúde no Estado de Minas Gerais tivesse compreendido os fundamentos da indigitada deliberação, ao invés de simplesmente levar a efeito a suspensão de todo e qualquer pagamento do benefício pensional, teria adequado os respectivos valores ao quanto expresso no Relatório e no Voto então consignados, e a impetrante não ficaria com sua “sobrevivência” comprometida.
+    9. É importante destacar que o TCU não se opôs aos fundamentos da concessão do benefício, mas sim ao cálculo do benefício na forma como vinha sendo pago.
+    (...)
+    11. E foi por esses fundamentos, realçados no Voto do Relator, que o TCU entendeu que o ato de concessão de pensão da ora impetrante era ilegal em razão da forma como vinha sendo pago o benefício.
+    Constata-se, assim, ligeiro descompasso entre o que constou do acórdão atacado, e as informações prestadas nestes autos, pois aquela decisão determinou, de forma clara e indubitável, que, como julgou ilegais e negou o registro dos atos de pensão civil instituídos em favor da impetrante, o Núcleo Estadual do Ministério da Saúde no Estado de Minas Gerais fizesse cessar, no prazo de quinze dias, contado a partir da ciência da deliberação, o pagamento decorrente dos atos impugnados, sob pena de responsabilidade solidária da autoridade administrativa omissa (e-doc nº 6, p. 1 – acórdão nº 5689/20 – TCU – 2ª Câmara).
+    Assim, o que constou das informações prestadas nos autos, dando conta de que, “acaso o Núcleo Estadual do Ministério da Saúde no Estado de Minas Gerais tivesse compreendido os fundamentos da indigitada deliberação, ao invés de simplesmente levar a efeito a suspensão de todo e qualquer pagamento do benefício pensional, teria adequado os respectivos valores ao quanto expresso no Relatório e no Voto então consignados, e a impetrante não ficaria com sua “sobrevivência” comprometida”, efetivamente não corresponde à realidade” (e-doc nº 16, p. 3).
+    É o quanto basta para a constatação da efetiva violação a direito líquido e certo da impetrante, a redundar na concessão da ordem, conforme, aliás, bem observado pelo MPF, no parecer apresentado nos autos, devendo ser assegurado à impetrante o normal recebimento do benefício de que é titular, até que sejam feitas as apontadas correções, em sua forma de cálculo, assegurando-lhe, ao longo da tramitação dessa ordem, o devido respeito ao contraditório e à ampla defesa.
+    Diga-se, em arremate e, em atenção ao agravo interposto pela União que, em face de decisão assim ilegal, não poderia a interessada ser compelida a interpor, previamente, recurso interno, ao invés de socorrer-se do presente mandamus, máxime em face da advertência, constante do mesmo e ilegal acórdão, no sentido de que a concessão de “efeito suspensivo proveniente da interposição de eventuais recursos, caso não providos, não os exime da devolução dos valores indevidamente percebidos após a notificação”.
+     Constatada, assim, a violação a direito líquido e certo da impetrante, perpetrado pelo TCU, impõe-se a concessão da almejada segurança, tornando-se definitiva a medida cautelar, liminarmente deferida nos autos.
+    Ante o exposto, concedo a segurança impetrada, para cassar, com relação à impetrante, os efeitos do acórdão nº 5689/2020, prolatado pelo TCU, nos autos do processo TC 005.884/2020-9, prejudicado o agravo interposto nos autos.
+    Comunique-se.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
