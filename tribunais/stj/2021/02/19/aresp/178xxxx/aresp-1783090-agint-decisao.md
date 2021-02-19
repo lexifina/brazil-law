@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interno interposto por BRADESCO ADMINISTRADORA DE CONSÓRCIOS LTDA.contra adecisãoda Presidência desta Corte Superior de fls. 729-731 (e-STJ), que não conheceu do agravo em recurso especial.
+O apelo especial foi fundado nas alíneas a e c do permissivo constitucional, no qual se insurgiucontra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 448):
+Obrigação de fazer. Contemplação em cota de consórcio. Após trâmites administrativos e escolha do bem, houve a recusa do pagamento por parte da instituição financeira agravada. Sentença de parcial procedência. Pleito recursal de ambas as partes. Dever do pagamento da cota de consórcio contemplada à concessionária escolhida pela autora, bem como, danos materiais. Dano moral. Inocorrência. Necessidade de ofensa à honra objetiva, não restando configurado com a mera recusa ao pagamento do bem. Sentença mantida. Apelos improvidos.
+No recurso especial, arecorrenteapontou, além de divergência jurisprudencial,ofensa aos arts. 402 e 403 do CC.
+Esclareceu que o acórdão estipuloulucros cessantes em patamares exorbitantes e com baseem documentos genéricos, razão por queseria cabível sua reforma(e-STJ, fls. 459-469).
+Negado seguimento ao recurso especial, foi interposto agravo em recurso especial, o qual foi julgado pela Presidência deste Tribunal Superior. Contra esse decisum interpõe a demandante o agravo interno.
+Neste recurso, frisa que atacou todos os fundamentos da decisão de inadmissibilidade do recurso especial, inclusive a afirmação no sentido da ausência de similitude fática. Reafirma as teses lançadas no apelo especial, acima sinteticamente sumariadas. Pugna pelo conhecimento e provimento do agravo(e-STJ, fls. 734-778).
+Contraminuta apresentada, pleiteando a manutenção da decisão agravada, aelevação dos honorários advocatícios para 20% sobre o valor da condenação e a fixação de multa(e-STJ, fls. 780-785).
+Brevemente relatado, decido.
+Reexaminando a petição de agravo em recurso especial, observa-se que a insurgente questionou todos os pontos da decisão de inadmissibilidade do recurso especial, conforme as fls. 708-710(e-STJ), ou seja, inclusive a afirmação de que não teria ocorrido ataque àausência de similitude fática(e-STJ, fls. 865-867).
+Logo, é caso dereconsideraçãoda decisão daPresidênciadesta Corte Superior, estabelecendo o conhecimento do agravo em recurso especial.
+O aresto estadual manteve a sentença, inclusive no tocante aos lucros cessantes. Portanto, a fixação da condenação, inclusive dos danos materiais emR$ 300,00 (trezentos) reais por dia, não pode ser revista. Elafoi estipulada com base em fatos, provas e termos contratuais.
+Confira-se trecho do acórdão(e-STJ, fl. 445):
+Nessa senda a sentença deve ser mantida por seus próprios e bem lançados fundamentos, os quais ficam inteiramente adotados como razão de decidir para o desprovimento do recurso.
+Veja-se, nesse sentido, a estipulação da sentença (e-STJ, fls. 364-365):
+O valor apontado na inicial é compatível com o resultado do infortúnio, posto que a parte ré nada produziu em sentido contrário. Se assim o é, o Magistrado pauta-se nos elementos dos autos (provas e contraprovas. Logo, diante de tais ponderações, e à vista dos elementos constantes dos autos, a meu ver, a parte autora comprovou satisfatoriamente a ocorrência de danos materiais no importe de R$ 300,00 ao dia, sem prejuízo dos juros e correção monetária, desde a data de recusa do processo administrativo para liberação do crédito (27/12/2016).
+ ..
+ANTE O EXPOSTO, com fundamento no art. 487, inc. I, do Código de Processo Civil, JULGO PARCIALMENTE PROCEDENTE o pedido, para: 1) condenar a ré a pagar a cota de consórcio contemplada nº 205, do grupo 1647, no montante de R$ 22.100,00, à concessionária escolhida pela autora, ITA PEÇAS PARA VEÍCULOS COM. SERV. LTDA., descrita na inicial, cujo montante deverá ser atualizado na forma da tabela prática do E. Tribunal de Justiça, a contar de 27/12/2016, e acrescido de juros moratórios de 1% ao mês a partir da citação e 2) condenar a ré a pagar à parte autora, a títulos de danos materiais, a importância de R$ 300,00, ao dia, desde a data de 27/12/2016, até o trânsito em julgado desta sentença, observando -se a incidência de correção monetária do desembolso, com os índices da Tabela Prática do TJ/SP e juros de mora de 1% a contar da citação, a ser apurado em liquidação de sentença.
+Desse modo, é caso de aplicação das Súmulas 5 e 7/STJ, que incidem sobre ambas as alíneas do permissivo constitucional.
+Não se vislumbra intuito meramente protelatório ou evidente má-fé com o manejo deste recurso, dessa forma, não cabe a aplicação de multa.
+Ante o exposto, em juízo de retratação, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte ora recorrida em mais 1% sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. ATAQUE A TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. RECONSIDERAÇÃO. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS A RESPEITO DOS LUCROS CESSANTES FUNDADA EM FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7/STJ. EM JUÍZO DE RECONSIDERAÇÃO, AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
