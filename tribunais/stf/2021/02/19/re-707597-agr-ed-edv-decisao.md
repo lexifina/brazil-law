@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de embargos de divergência opostos em face de acórdão da Segunda Turma que rejeitou os embargos de declaração, nos seguintes termos (eDOC 68):
+    “EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 14.3.2016. DIREITO ADMINISTRATIVO. APROVEITAMENTO. ATO DECLARADO NULO FACE AO RECONHECIMENTO, PELO STF, DA INCONSTITUCIONALIDADE DA RESOLUÇÃO 4/1996, DO TRE-GO (ADI 3190). SÚMULA 685 DO STF. AUSÊNCIA DE ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. ART. 1.022 DO CPC. LITIGÂNCIA PROTELATÓRIA. MULTA.
+    1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição, obscuridade ou erro material.
+    2. A parte Embargante busca rediscutir a matéria, com objetivo de obter excepcionais efeitos infringentes.
+    3. Embargos de declaração rejeitados. Fixação de multa em 2% do valor atualizado da causa, constatado o manifesto intuito protelatório. Art. 1.026, § 2º, do CPC.”
+    Nas razões recursais (eDOC 72), o embargante sustenta que o aresto embargado contrariou precedentes do STF que trataram da questão relativa ao provimento derivado de cargos públicos, “sendo uníssona a posição do Supremo quanto à necessidade de respeito ao princípio da segurança jurídica” (p. 14).
+    Afirma que a decisão ora embargada diverge da posição adotada pela Segunda Turma desta Corte no julgamento do RE n. 466.546, Rel. Min. Gilmar Mendes, em que o Colegiado, em face do princípio da segurança jurídica, manteve o ato administrativo que homologou a transposição de cargos.
+    No mesmo sentido, menciona o que decidiu a Segunda Turma no julgamento do RE 442.683, Rel. Min. Carlos Velloso e do ARE 788.433, Rel. Min. Ricardo Lewandowski.
+    A parte embargada apresentou contrarrazões (eDOC 81).
+    É o relatório. Decido.
+    A pretensão recursal não merece acolhida.
+    De início, observo que os presentes embargos não cumprem o preconizado nos arts. 330 e 331 do RISTF, segundo os quais:
+    Art. 330. Cabem embargos de divergência à decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal.
+    Art. 331. A divergência será comprovada mediante certidão, cópia autenticada ou pela citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que tiver sido publicada a decisão divergente, ou ainda pela reprodução de julgado disponível na internet, com indicação da respectiva fonte, mencionando, em qualquer caso, as circunstâncias que identifiquem ou assemelhem os casos confrontados.
+    Importa ressaltar que, para a admissão dos embargos, exige-se a identidade de bases fáticas entre o acórdão proferido e aquele invocado como paradigma da divergência, o que não ocorre no presente caso.
+    No presente caso, a Segunda Turma, ao apreciar os embargos de declaração, manteve o entendimento de que, declarado inconstitucional o ato de aproveitamento de servidor ocorrido após a vigência da Constituição de 1988, inviável a permanência nos cargos públicos para os quais os servidores foram requisitados.
+    Nos julgados indicados como paradigmas, todavia, à luz do princípio da segurança jurídica e tendo em vista que os atos foram praticados ainda na vigência da Carta anterior ou quando ainda não havia entendimento pacificado no STF acerca da constitucionalidade de atos de provimento derivado de cargos públicos, a Corte concluiu pela manutenção dos referidos atos.
+    Dessa forma, verifico que não há pertinência entre o que decidido pela Segunda Turma no presente caso e o precedente apontado pelo embargante. Nesse sentido, a jurisprudência pacífica desta Corte:
+    “AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. RECURSO EXTRAORDINÁRIO. ACÓRDÃO EMBARGDO NÃO EXAMINOU O MÉRITO DA QUESTÃO RECURSAL. PARADIGMAS NÃO SE RELACIONAM COM A SITUAÇÃO JURÍDICA DOS AUTOS. AUSÊNCIA DE SIMILITUDE ENTRE OS CASOS CONFRONTADOS. COTEJO ANÁLITICO NÃO DEMONSTRADO. AGRAVO DESPROVIDO. 1. […] 2. Os precedentes paradigmas apontados pela parte embargante para demonstrar a divergência não se relacionam com a situação jurídica decidida pela Segunda Turma, porquanto, neles, passou-se à análise do mérito dos casos então discutidos. 3. A ausência de similitude entre os casos confrontados é obstáculo suficiente para que os embargos de divergência não sejam admitidos. Precedentes. 4. Não foi demonstrada a divergência jurisprudencial na forma preconizada pelo art. 331 do RISTF, pois não se procedeu ao cotejo analítico com os acórdãos apontados como divergentes, com a necessária menção às "circunstâncias que identifiquem ou assemelhem os casos confrontados". 5. Agravo interno a que se nega provimento.” (RE 906.541 AgR-EDv-AgR, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, DJe 01.08.2018, grifei)
+    Desse modo, considerando que não há similitude entre os julgados, o processo indicado não é apto a comprovar a controvérsia.
+    Ante o exposto, não conheço dos embargos de divergência, por serem manifestamente inadmissíveis, nos termos dos arts. 21, § 1º, e 335, § 1º, ambos do RISTF.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
