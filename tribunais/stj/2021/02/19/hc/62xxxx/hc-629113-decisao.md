@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUCAS WILLIAN RODRIGUES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Processo n. 2255792-23.2020.8.26.0000).
+O paciente encontra-se preso em razão da suposta prática do delito descrito no art. 157, §§ 2º, II, e 2º-A, I, do Código Penal.
+A defesa alega a inexistência dos requisitos ensejadores da segregação cautelar e inovação nos fundamentos da cautelar pelo Tribunal a quo .
+Requer que seja revogada a prisão preventiva, expedindo-se alvará de soltura em favor do paciente. Subsidiariamente, pleiteia a substituição da prisão por medidas cautelares alternativas , nos termos do art. 319 do CPP.
+O pedido de liminar foi indeferido (fls. 194-195).
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 238-242).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que de monstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fls. 28-29):
+E, de fato, a manutenção da prisão cautelar, na espécie, se mostra imprescindível à tutela da ordem pública, não podendo a sociedade permanecer à mercê daqueles que se mostram predispostos à prática de atos espúrios, mormente considerando-se a quantidade de crimes praticados pelo paciente e demais corréus, bem como a gravidade in concreto do crime pelo qual foi preso em flagrante, praticado com emprego de arma de fogo e em concurso de agentes, induzindo a necessidade de adotar cautela igualmente extrema.
+Outrossim, verifica-se que logo após a prática do roubo ocorrido no dia 20 de outubro de 2.020, o paciente conduzia o veículo que teria sido utilizado para auxiliar a dar fuga aos demais executores do roubo ocorrido, não obedecendo aos sinais sonoros e luminosos de parada emitidos pelos policiais.
+Assim, o fato de o paciente ter tentado furtar-se à persecução penal é esse indicativo de que a concessão de liberdade provisória implicaria sério risco à higidez da persecução penal, sendo fundamentação suficiente a embasar a manutenção da custódia cautelar (confira-se: RHC 114.908/RR, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em05/03/2020, DJe 16/03/2020).
+Esse entendimento está de acordo com a orientação do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ressalte-se que "eventuais condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva" (HC n. 602.991/CE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/9/2020).
+Em relação à suposta inovação nos fundamentos da prisão cautelar, o Superior Tribunal de Justiça entende que apenas há reformatio in pejus quando, em recurso exclusivo da defesa, há o agravamento da situação do acusado (RHC n. 134558/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/11/2020).
+No caso, o Tribunal apenas corroborou o entendimento do magistrado a quo, de modo que não houve agravamento da situação fático-jurídica do paciente.
+Ante o e xposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
