@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo interposto porBECAP COMÉRCIO DE AUTO PEÇAS LTDA.contra decisão que inadmitiu recurso especial (e-STJ, fls. 322-324)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 259):
+APELAÇÃO ACIDENTE DE TRÂNSITO CONVERSÃO À ESQUERDA INTERCEPTAÇÃO DA VIA CULPA EVIDENCIADA - É dever de todo motorista, nos termos do Código de Trânsito Brasileiro, guardar distância segura dos demais veículos, tanto lateral como frontal, devendo guiar seu veículo de forma atenta e diligente, com atenção e cuidados indispensáveis à segurança do trânsito;- Nos termos do artigo 34 do CTB "O condutor que queira executar uma manobra deverá certificar-se de que pode executá-las em perigo para os demais usuários da via que o seguem, precedem ou vão cruzar com ele, considerando sua posição, sua direção e sua velocidade.";- Quem realiza conversão sem as devidas cautelas, interceptando a frente de outro veículo, causando-lhes danos, é considerado responsável pelo acidente. RECURSO IMPROVIDO
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 289):
+EMBARGOS DE DECLARAÇÃO OMISSÃO NÃO VERIFICADA - Descabida a alteração do que já foi decidido por meio de embargos de declaração, que não é recurso próprio para este fim. Se o embargante entende que a questão não foi bem apreciada, o recurso cabível é outro, que não os embargos de declaração, que se presta a esclarecer, se existentes, dúvidas, omissões ou contradições no julgado; EMBARGOS DE DECLARAÇÃO REJEITADOS
+Nas razões do recurso especial, a recorrente alegou, com fulcro na alínea a do permissivo constitucional, violação aos arts. 489 e 1.022, II, do CPC/2015.
+Defendeu a existência de deficiência na fundamentação e omissão no acórdão impugnado ao argumento de que o Tribunal de origem deixou de apreciar elementos existentes nos autos que indicavam a ausência de responsabilidade pelo evento danoso, a inexistência de culpa exclusiva do preposto e a conduta negligente da vítima.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls.322-324).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 328-336).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos às decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do presente recurso, a agravante alega ter cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+No apelo excepcional, a primeira tese defendida pela recorrente refere-se à existência de deficiência na fundamentação e de omissão no acórdão impugnado.
+A respeito do tema, é preciso esclarecer que os embargos de declaração possuem fundamentação vinculada, cujo objetivo é sanear a decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo, por isso, natureza infringente.
+Nesse sentido, a jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte (REsp 1.730.535/ES, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 16/10/2018, DJe 19/10/2018).
+Desse modo, tendo o Tribunal a quo motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há que se afirmar que a Corte estadual omitiu-se apenas pelo fato de ter o aresto impugnado decidido em sentido contrário à pretensão da parte.
+Analisando as informações contidas nosautos, observa-se que o aresto recorrido apresenta suficientefundamentação quando reconhece a culpabilidade do preposto darecorrente pela morte do genitor dos recorridos, afirmando que, não obstante a vítima estivesse em local inadequado ao tráfego, o motoristainvadiu, em alta velocidade, a faixa em que estava a bicicleta.
+Confira-se (e-STJ, fls. 260-262):
+Trata-se de ação indenizatória movida por Rogério Gonçalves, Luciana Gonçalves, Roberto Carlos Gonçalves, José Ricardo Gonçalves e Marcos Antônio Gonçalves em face de Becap Comércio de Autopeças Ltda., em que pretendem os autos a condenação do réu ao pagamento de danos morais, materiais em razão do falecimento do seu genitor, vítima de acidente de trânsito.
+ ..
+Constou do boletim de ocorrência o seguinte (fls. 31/33): "Pelo local, constataram que tratava-se de um atropelamento, onde a vítima conduzia a bicicleta pela Rua Dezesseis, quando por circunstâncias ainda não esclarecidas foi atropelada pelo veículoFiat Ducato que era conduzido pela parte e que trafegava pela rua Josefina Flora de Jesus e manobrou (à esquerda) quando ocorreu o atropelamento".
+Pelas fotos acostadas a fls. 85, o veículo conduzido pelo réu (mini van) foi colidido na parte dianteira esquerda, confirmando o trajeto por ele realizado (conversão à esquerda) no cruzamento da rua Dezoito com a Rua Dezenove.
+As fotos acostadas a fls. 82/84 indicam que há sinalização de "pare" escrita no chão da via.
+ ..
+É dever do condutor "a todo o momento, ter domínio de seu veículo, dirigindo-o com atenção e cuidados indispensáveis à segurança do trânsito" (art. 28, do Código de Trânsito Brasileiro). Deve-se ressaltar que a conversão, embora permitida, é manobra que exige extremo cuidado e atenção porque sempre encerra perigo, somente podendo serrealizada após a verificação de tráfego no mesmo sentido, evitando interrompe-la.
+Apesar de a bicicleta trafegar pela rua em que havia a sinalização "pare" no chão, as testemunhas oculares do acidente afirmaram que o motorista da minivan, ao realizar a conversão à esquerda, invadiu, em alta velocidade, a faixa da via em que estava trafegando a bicicleta.
+ ..
+Nota-se que é notória a culpa do RÉU pelo acidente, que causou a morte da vítima.
+Portanto, apresentando o Tribunal originário os fundamentos pelos quais chegou à conclusão dos fatos expostos nos autos, inexiste violação aos arts. 489 e 1.022 do CPC/2015.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. RESPONSABILIDADE CIVIL. CULPA COMPROVADA.OMISSÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
