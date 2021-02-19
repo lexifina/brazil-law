@@ -1,0 +1,47 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por MATHIAS E NOGUEIRA HOLDING PATRIMONIAL LTDAcontra decisão do Tribunal de Justiça de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO PRESTAÇÃO DE SERVIÇOS TELEFONIA- DECLARATÓRIA INEXIGIBILIDADE DE DÉBITO RESCISÃO CONTRATUAL INDENIZAÇÃO POR DANO MORAL TUTELAS PROVISÓRIAS DE URGÊNCIAE DE EVIDÊNCIA Preliminar de nulidade da sentença rejeitada - Alegação de que a parte ré não atendeu aos termos da oferta contratada pela consumidora, tendo cobrado valores elevados por força da contratação, os quais reputa indevidos - Afastamento Ciência da consumidora aos termos da avença, apresentando-se redigida de forma expressa os valores pactuados pela totalidade de linhas e acessos contratada - DANO MORAL Não caracterização - Verba indevida - Improcedência em primeiro grau - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts.6º ,VIII, 14, 30, 31, 34, 35, 39, 46, 47, 48, 51 - IV e §§ 1º, III e 2º e 54, § 3º, do Código de Defesa do Consumidor; 369, 370 e 373 do CPC, sustentando (i) cerceamento de defesa; (ii) a necessária inversão do ônus da provapor se tratar de relação de consumo; (iii) responsabilidade do recorrido pela informação inadequada e insuficiente; (iv) penalização pelodescumprimento dos serviços ofertados; (v) interpretação do contrato de forma mais favorável ao consumidor.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A pretensão recursal não merece prosperar.
+Com efeito, consoante a jurisprudência do Superior Tribunal de Justiça, o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstrado, pelas instâncias de origem, que o feito se encontrava suficientemente instruído, afirmando-se a presença de dados bastantes à formação do convencimento, não configura cerceamento de defesa.
+Diante disso, mostra-se importante verificar as conclusões do Tribunal estadual acerca do tema:
+De fato, não havia necessidade de se abrir dilação probatória com oitiva de testemunhas e tomada de depoimento das partes, visto que a prova documental existente nos autos era suficiente para a formação do convencimento motivado do magistrado, na forma do art. 370 e 371 do Código de Processo Civil de 2015.
+Nem era caso de se determinar a prova pericial requerida, ou a degravação das conversas, porque, no caso, eram desnecessárias ao deslinde dos questionamentos trazidos pelas partes, diante dos elementos existentes nos autos. (e-STJ fl. 466)
+Como se observa, restou expressamente consignado no acórdão da Corte de origem que as provas necessárias à solução da controvérsia já se encontravam nos autos, de modo que seria descabida a produção de novas provas.
+Portanto, para afastar as conclusões a que chegou o aresto impugnado seria indispensável reexaminar o conjunto fático-probatório dos autos, procedimento vedado em sede especial, conforme dispõe a Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANO AMBIENTAL. CERCEAMENTO DE DEFESA. DANO MORAL. REVISÃO. CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Alterar a conclusão do tribunal local acerca da ausência de cerceamento de defesa pelo julgamento antecipado da lide demandaria o revolvimento do acervo fático-probatório dos autos, procedimento obstado pela Súmula nº 7/STJ.
+3. Quando as conclusões da Corte de origem resultam da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda, não há como infirmar tal posicionamento em virtude da incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido.(AgInt no AREsp 1493486/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+Acerca do contrato de serviços de telefonia firmado entre as parte, dispôs o acórdão estadual:
+O conjunto fático probatório não autoriza a procedência da ação. Ora, ao contrário do afirmado, a parte autora teve plena ciência dos termos da proposta e contratação do plano apresentado pela fornecedora, tanto que juntou cópia do contrato firmado, onde se vê, expressamente, de seu teor, todas as condições e termos devidamente esclarecidos.
+Não obstante a legislação protetiva invocada em favor da parte consumidora, há de se convir que a redação da ofertados serviços não deixa dúvida sobre a forma e valor do pagamento devido a título de contraprestação.
+Ou seja, pelo teor da avença, o valor mensal do plano é de R$ 247,99 (fl. 53). Porém, consta expressamente do contrato que o seu valor total é de R$ 4.959,80, que, com desconto, foi estipulado em R$ 2.259,80, o que significa dizer que o valormensal contratado deve ser aplicado para cada linha contratada, num total de 20 ou números de acessos, e não para todas as linhas como quer fazer crer a apelante.
+Portanto, o valor do contrato não é aquele mencionado pela autora em sua exordial, porque está em discordância com o contido no contrato firmado, do qual, repita-se, teve plena ciência quando da adesão ao plano de telefonia.
+Por conseguinte, não há como entende que houve conduta ilícita, a justificar o pedido de condenação pelo suposto dano moral, já que a parte ré agiu de forma correta, lançando os valores e descontos conforme contratado, sem impor abusos ou excessos.(e-STJ fls. 467/468)
+A reforma de tal entendimento exige reexame do conjunto probatório dos autos e a interpretação das cláusulas do contrato entabulado entre as partes, tarefas inadmissíveis em sede de recurso especial, em face dos impedimentos das Súmulas 5 e 7 desta Corte.
+Ressalto, ainda, que "a inversão do ônus da prova fica a critério do juiz, segundo apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em sede especial."(AgRg no REsp 1358181/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/06/2015, DJe 06/08/2015)
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE DA MENSALIDADE EM RAZÃO DO AUMENTO DA SINISTRALIDADE. AUSÊNCIA DE COMPROVAÇÃO. ABUSIVIDADE. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. ENTENDIMENTO HORMÔNICO COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ. INVERSÃO DO ÔNUS PROBATÓRIO. CABIMENTO. SÚMULA 07/STJ. INSURGÊNCIA PELA ALÍNEA "C". AUSÊNCIA DE COTEJO ANALÍTICO AGRAVO NÃO PROVIDO. SÚMULA 284/STF. RECURSO QUE NÃO INFIRMA AS RAZÕES DA DECISÃO COMBATIDA. AGRAVO NÃO CONHECIDO.
+1. A conclusão exarada pelas instâncias ordinárias sobre a abusividade do reajuste, afastada a alegação de aumento de sinistralidade, não prescinde da análise da relação contratual e circunstâncias fáticas do caso, inviável na instância extraordinária. Súmulas 05 e 07/STJ.
+2. A inversão do ônus da prova fica a critério do juiz, segundo apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em sede especial. (AgInt no REsp 1409028/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2016, DJe 01/12/2016).
+3. ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1146549/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INVERSÃO DO ÔNUS DA PROVA. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. A verificação de existência dos requisitos necessários à inversão do ônus da prova esbarra no enunciado 7 da Súmula do STJ, eis que dependente de reexame de matéria fática da lide.
+2. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no AREsp 655.042/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/04/2015, DJe 17/04/2015)
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 15% sobre o valor atualizado da causa, em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 17% sobre o valor atualizado da causa é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SERVIÇO DE TELEFONIA. CERCEAMENTO DE DEFESA. SÚMULA 7/STJ. DESCUMPRIMENTO DO CONTRATO. INVERSÃO DO ÔNUS DA PROVA. SÚMULAS 5 E 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
