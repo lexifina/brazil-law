@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DOUGLAS ARCANJO DO NASCIMENTO e de ERIK SANTOS SILVAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Processo n. 2216039-59.2020.8.26.0000).
+Os pacientes tiveram a prisão em flagrante convertida em preventivaem razão da suposta prática dos delitos descritos nos arts. 33, caput,e 35, caput, c/c o art. 40, VI, da Lei n. 11.343/2006 (fls. 26-31).
+O decreto prisional fundou-se na nocividade, quantidade e variedade dosentorpecentes apreendidos.
+A defesa alegaque não estão preenchidos os requisitos autorizadores da custódia cautelar e quesua manutenção seria mais gravosa que uma condenação criminal. Aponta excesso de prazo para o oferecimento da denúncia.
+Requer, liminarmente e no mérito, que a ação penal seja trancada e que os pacientes aguardem em liberdade o julgamento do presente writ.
+O Tribunal de Justiça do Estado de São Paulo apresentou informações às fls. 48-55.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 60-64).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente  writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+Em consulta ao site do Tribunal de Justiça do Estado de São Paulo (Processo n. 1517895-94.2020.8.26.0228), verifica-se que, em 15/2/2021, os pacientes foramcondenados às penas de 3anos, 10 meses e 20 dias de reclusãoem regime semiaberto e de 389dias-multa. Na ocasião, foi-lhes negado o direito de recorrer em liberdade, considerando-se persistentes os fundamentos da preventiva.
+A jurisprudência do STJ permite a "compatibilidade da manutenção da prisão preventiva e a fixação de regime semiaberto na sentença, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, que tem admitido a adequação da segregação provisória ao regime fixado na sentença condenatória" (AgRg no RHC n. 124.481/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 5/5/2020).
+Essa permissão exige a adequação da medida extrema ao regime intermediário, motivo pelo qual a negativa do direito do réu de recorrer em liberdade caracteriza constrangimento ilegal apto a justificar a concessão da ordem.
+Não há também incompatibilidade entre a negativa do direito de recorrer em liberdade e a fixação do regime semiaberto, desde que, conforme já explicitado, haja a devida adequação da custódia ao regime fixado (RHC n. 130.937/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; AgRg no HC n. 582.040/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/9/2020; AgRg nos EDcl no HC n. 602.397/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 14/9/2020; e EDcl no HC n. 604.090/PR, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 16/9/2020).
+Dessa forma, o caso é de concessão da ordem de ofício, para que o Juízo de origem ajuste a prisão preventiva ao regime semiaberto, transferindo os pacientes para estabelecimento prisional compatível, sob pena de revogação da prisão por configurar constrangimento ilegal.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, mas concedo a ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, para determinar que o Juízo de primeiro grau efetue a transferência dos pacientes para estabelecimento prisional compatível com o regime semiaberto. Em caso de inexistência de vaga, os pacientes deverãoser postos em liberdade, fixando-se as medidas cautelares diversas que o Juízo de origem considerar necessárias.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
