@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se agravo interno interposto por EDP São Paulo Distribuição de Energia S.A.,em face da decisão da douta Presidência desta eg. Corte, que não conheceu do agravo em recurso especial.
+Orecurso especial foi interpostocontra acórdão recorrido proferido pelo Tribunal de Justiça doEstado de São Paulo, assim ementado (fl. 181):
+RECURSO APELAÇÃO CÍVEL - PRESTAÇÃO DE SERVIÇOS AÇÃO DE RESTABELECIMENTO DE ENERGIA COM PEDIDO DE TUTELA ANTECIPADA. Fornecimento de energia elétrica. Possibilidade. Alegações apresentadas pela concessionária que não a autorizam a se recusar a fornecer energia elétrica ao imóvel indicado pela apelada, pois tal ato implicaria em ofensa ao direito básico da saúde e ao princípio da dignidade da pessoa humana Serviço público essencial Direito básico de todo cidadão. Ausência de impedimento para o fornecimento de energia elétrica. Sentença mantida. Recurso de apelação da requerida não provido, majorada a verba honorária sucumbencial da parte adversa, atento ao conteúdo do artigo 85, parágrafo 11º, do Código de Processo Civil.
+Diante do contexto delineado pela instância de origem, depreende-se que o recurso especial discute questão referente aprestação de serviço público de energia elétrica.
+Nos termos do art. 9º, caput, do RISTJ desta eg. Corte Superior, acompetência das Seções e das respectivas Turmas é fixada em razão danatureza da relação jurídica litigiosa que, no presente caso, indica acompetência de uma das Turmas que compõem a Primeira Seção, conformedispõe o art. 9º, §1º, X e XIV, do RISTJ.
+Diante do exposto, determino a redistribuição deste feito a um doseminentes Ministros que compõem a eg. Primeira Seção.
+Cumpra-se.
