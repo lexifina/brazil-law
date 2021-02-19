@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por JOÃO MÁRCIO MARTINS COSTA MAXIMIANOcontra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Sustenta a defesa, nas razões do recurso especial, violação dos artigos 33,28, da Lei 11.343/06, e 33 do Código Penal.
+Defende a ausência de provas que demonstrem o tráfico de drogas, à alegação de que a quantidade de droga apreendida é pequena, bem como "consta do próprio acórdão combatido que o recorrente negou a prática do tráfico, afirmou ser usuário de drogas, o que também foi confirmado por sua genitora" (e-STJ, fl. 392).
+Aduz, ainda, que "os policiais não presenciaram o recorrente comercializando drogas. Os policiais limitaram-se a atestar a apreensão da droga" (e-STJ, fl. 392).
+Requer a desclassificação da conduta do recorrente para a prevista no artigo 28, caput, da Lei 11.343/06.
+Apresentadas as contrarrazões (e-STJ, fls. 397-399), o recurso foi inadmitido com fundamento na Súmula 7 do STJ (e-STJ, fls. 476-481). Daí este agravo (e-STJ, fls. 484-490).
+O Ministério Público Federal opinou pelo não conhecimento do agravo (e-STJ, fls. 507-510).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal de origem afastou o pleito de desclassificação do delito de tráfico para uso de drogas, com a seguinte fundamentação:
+"Contudo,a versão apresentada pelo apelante, no sentido de que as drogas apreendidas destinavam-se ao seu próprio consumo, não merece credibilidade, eis que não encontra respaldo nos elementos de prova colacionados aos autos, senão vejamos:
+O Policial Militar ROMOALVO PEREIRA SOARES, Condutor do Auto de Prisãoem Flagrante, afirmou que, durante patrulhamento, avistou o réu e outro indivíduo em atitude suspeita, tendo o acusado, ao visualizar os Policiais, colocado algo na boca. Asseverou, ainda, que ao verificar, constou se tratar de um invólucro contendo dezoito (18) pedras de substância análoga ao crack", oportunidade em que o indigitado assinalou tratar-se droga para consumo próprio, senão vejamos:
+(..)
+Em Juízo, o Policial Militar confirmou seu depoimento prestado em fase inquisitiva, afirmando que, ao visualizar o acusado e o outro individuo, este último evadiu-se, tendo o acusado permanecido parado onde estava. Assinalou que, contudo, ao ser abordado, o acusado agiu como se pretendesse fugir, mas que a guarnição policial conseguiu dominá-lo.
+Informou, ainda, que, ao ser questionado acerca do que havia colocado em sua boca, o inculpado expeliu um invólucro, contendo substância amarelada análoga ao crack, já embalada em invólucros plásticos costumeiramente usados na comercialização. Por fim, ressaltou que apesar de não ter visto o acusado vendendo a droga, notou que este se deslocava em direção a uma boate conhecida pelo comércio de entorpecentes, ipsis Iitteris:
+(..)
+Por oportuno, convém ressaltar que os testemunhos de policiais, quando não contraditados, são plenamente idôneos, não havendo motivo algum para desmerecê-los. É matéria já assente na jurisprudência que não se pode tachar como inválido o testemunho de policiais tão somente em virtude de sua condição funcional.
+Ao contrário, é certo e presumível que eles agem no cumprimento do dever, dentro dos limites da legalidade, não sendo razoável suspeitar, previamente e sem motivo relevante, da veracidade nos seus depoimentos, sobretudo quando condizentes com o restante das provas coligidas nos autos, as quais são apreciadas por meio do sistema de livre apreciação de provas.
+De todo modo, sabe-se a mais não poder que, em casos de apuração do crime de tráfico de drogas, os depoimentos dos policiais que participaram da investigação e da prisão do agente são de grande importância na formação probatória, tendo em vista a ausência de vitimas diretas e o temor provocado pelos traficantes em eventuais testemunhas.
+(..)
+Destarte,inadmissível é pretender que as declarações do acusado negando a traficância sobreponham-se ao depoimento firme e coerente do Policial que participou de sua prisão e da apreensão da droga.
+Ora, não se mostra crívelque o aludido Policial, encarregado da diligência, esteja a imputar falsamente ao acusado a prática de crime tão grave, sem terqualquer motivação para prejudicá-lo, até mesmo porque o próprio miliciano afirmou que o acusado não era conhecido pela guarnição, sendo certo que não se lembrava de já ter o abordado em situações pretéritas.
+Com efeito, levando-se em conta as circunstâncias da prisão do acusado, o testemunho policial coerente e uníssono, bem como a natureza e a forma de acondicionamento das drogas - três gramas e trinta e duas centigramasde cocaína (3,32 g), em sua forma petrificada "crack", acondicionadas em (18) porções, tem-se que a manutenção da condenação do réu é medida que se impõe" (e-STJ, fls. 300-306).
+O acórdão combatido rejeitou a tese de desclassificação para uso de drogas, pontuando que "a versão apresentada pelo apelante, no sentido de que as drogas apreendidas destinavam-se ao seu próprio consumo, não merece credibilidade, eis que não encontra respaldo nos elementos de prova colacionados aos autos" (e-STJ, fl. 300).
+Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela desclassificação de sua conduta de tráfico para uso de drogas, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Neste sentido:
+"AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE DROGAS (45,1 G DE MACONHA). VIOLAÇÃO DOS ARTS. 28 E 33, § 4º, AMBOS DA LEI N. 11.343/2006. PRETENSÃO DE DESCLASSIFICAÇÃO DA CONDUTA DE TRÁFICO PARA USO DE DROGAS. NECESSIDADE DE ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE NA VIA ELEITA. SÚMULA 7/STJ.
+1. De rigor, a aplicação do óbice contido na Súmula7/STJ, porquanto tendo a Corte de origem concluído que, diante do contexto fático-probatório, a conduta praticada pelos agravantes se amolda à prevista no art. 33 da Lei n. 11.343/2006, seria inviável entender de modo diverso, dada a necessidade de revisão dos elementos fático-probatórios, vedada na via recursal eleita.
+2. A análise da tese recursal, no sentido de desclassificar o crime previsto no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas) para a conduta tipificada no art. 28 da mesma lei (posse de substância entorpecente para uso próprio) demanda necessária incursão na seara probatória, vedada no âmbito do recurso especial, nos termos da Súmula 7 desta Corte (AgRg no AREsp n. 1.012.231/CE, Ministro Nefi Cordeiro, Sexta Turma, DJe 7/4/2017).
+3. Agravo regimental improvido."
+(AgRg no REsp 1719973/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/05/2018, DJe 29/05/2018).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. EXCLUDENTE DE ESTADO DE NECESSIDADE E DESCLASSIFICAÇÃO DO DELITO PARA PORTE DE DROGAS PARA USO PRÓPRIO. SÚMULA N. 7 DESTA CORTE SUPERIOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. O reconhecimento do estado de necessidade, bem como a desclassificação do crime para porte de drogas para uso próprio depende do revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial.
+2. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+Agravo regimental desprovido."
+(AgRg no AREsp 1193020/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/03/2018, DJe 02/04/2018).
+Ademais, esta Corte tem entendimento firmado de que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese (AgRg no AREsp 875.769/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/3/2017, DJe 14/3/2017; AgRg no AREsp 926.253/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/8/2016, DJe 26/8/2016).
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c art. 253, parágrafo único, II, "a" do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
