@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Instituto de Previdência do Servidor Municipal contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas 7 do STJ e 280 do STF.
+O agravante alega que o recurso especial não trata de revisão de matéria fática, nem de análise de legislação local, mas de questão unicamente de direito prevista em legislação federal.
+São reiteradas as razões do recurso inadmitido.
+Contraminuta às e-STJ, fls. 688-699.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O recurso especial foi manejado com base no art. 105, inc. III, alínea"a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado (e-STJ, fl. 582):
+APELAÇÃO REMESSA NECESSÁRIA - SERVIDORPÚBLICO MUNICIPAL SÃO JOSÉ DOS CAMPOS - HORAS DE TRABALHO COLETIVO (HTC) - Pretensão ao restabelecimento da vantagem - Possibilidade Gratificação que possui caráter geral e que integra a remuneração do servidor, refletindo-se nos proventos no momento da passagem para a inatividade - INCIDÊNCIASOBRE ADICIONAL POR TEMPO DE SERVIÇO, SEXTA-PARTE E 13º SALÁRIO - A base de cálculo do adicional por tempo de serviço e da sexta-parte é o vencimento-base do servidor (artigos 57 e 66, da Lei Complementar Municipal nº 56/92) - O 13º salário, por outro lado, tem como base de cálculo a remuneração do servidor (artigo 53, da LCM nº 56/92) - Distinção entre vencimento e remuneração (artigo 39 e 40 da LCM nº 56/92) - JUROS E CORREÇÃO MONETÁRIA - RE nº 870.947 (Tema nº 810/STF) - REsp nº 1.495.146/MG(Tema nº 905/STJ) - Sentença parcialmente reformada - Recurso de Apelação e Remessa Necessária parcialmente providas.
+Os embargos de declaração do insurgente foram acolhidos, sem efeitos modificativos (e-STJ, fls. 616-620).
+Alega o recorrente, em síntese, violação do art. 1º doDecreto n. 20.910/1932, c/c o art. 2ºdo Decreto-Lei n. 4.597/1942, por entender estar configurada a prescrição de fundo dedireito, diante do decurso de mais de 5 (cinco) anos entre a concessão da aposentadoria e o ajuizamento da presente ação, em que se pretende a revisão do benefício previdenciário.
+Contrarrazões às e-STJ, fls. 624-659.
+É o relatório.
+Verifica-se que a questão tratada no presente recurso - definição sobre a configuração do ato de aposentadoria de servidor público como negativa expressa da pretensão de reconhecimento e cômputo, nos proventos, de direito não concedido enquanto o servidor estava em atividade, à luz do art. 1º do Decreto 20.910/1932 e da Súmula 85/STJ - foi afetada pela Primeira Seção (Tema 1.017).
+Importante ainda ressaltar que houve determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem acerca da questão delimitada e tramitem no território nacional.
+Dessa forma, encontrando-se a matéria afetada para julgamentoem recurso repetitivo, deve ser viabilizado o juízo de conformação, disciplinado pelos arts. 1.039 e 1.040 do CPC/2015:
+Art. 1.039. Decididos os recursos afetados, os órgãos colegiados declararão prejudicados os demais recursos versando sobre idêntica controvérsia ou os decidirão aplicando a tese firmada.
+Parágrafo único. Negada a existência de repercussão geral no recurso extraordinário afetado, serão considerados automaticamente inadmitidos os recursos extraordinários cujo processamento tenha sido sobrestado.
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+III - os processos suspensos em primeiro e segundo graus de jurisdição retomarão o curso para julgamento e aplicação da tese firmada pelo tribunal superior;
+IV - se os recursos versarem sobre questão relativa a prestação de serviço público objeto de concessão, permissão ou autorização, o resultado do julgamento será comunicado ao órgão, ao ente ou à agência reguladora competente para fiscalização da efetiva aplicação, por parte dos entes sujeitos a regulação, da tese adotada.
+Nesse contexto, cumpre esclarecer que, somente depois de realizada essa providência, a qual representa o exaurimento da instância ordinária, o recurso especial deverá ser encaminhado, em sua totalidade, para este Tribunal Superior, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento da Corte a quo.
+Ressalte-se ainda que tal providência se faz necessária, na espécie, pois o delineamento fático e a fundamentação adotada no acórdão recorrido não possibilitam o juízo de adequação nesta via recursal, pois seria necessário o reexame do acervo fático-probatório dos autos.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão combatida coincidir com a orientação emanada pelo Tribunal Superior ou b) proceda ao juízo de retratação na hipótese de o acórdão impugnado divergir da decisão sobre o tema objeto da afetação.
+Publique-se. Intimem-se.
