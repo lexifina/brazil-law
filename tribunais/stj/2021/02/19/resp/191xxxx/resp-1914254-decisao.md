@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto porTHIAGO BARRETO FERREIRA DA SILVA, com fundamento na alínea "a" do permissivo constitucional, no qual se insurge contra acórdão proferido peloTRF da 4ª Região, assim ementado:
+"PENAL. PROCESSO PENAL. AGRAVO DE EXECUÇÃO PENAL.PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL.TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. CONVERSÃODAS PENAS RESTRITIVAS DE DIREITOS EM PRIVATIVA DELIBERDADE. POSSIBILIDADE. DESCUMPRIMENTO INJUSTIFICADODA PENA RESTRITIVA DE PRESTAÇÃO PECUNIÁRIA. INCÍCIO DOCUMPRIMENTO DA PENA DE PRESTAÇÃO PECUNIÁRIA. COBRANÇADA PRESTAÇÃO PECUNIÁRIA VIA EXECUTIVO FISCAL.IMPOSSIBILIDADE.
+1. O termo inicial da contagem do prazo prescricional da pretensãoexecutória é o trânsito em julgado para ambas as partes, momento em quesurge o título penal passível de execução.
+2. Inocorrência de prescrição ante a ausência do decurso do lapsotemporal de 3 anos, nos termos do art. 109, VI, do Código Penal, desde oadvento do trânsito em julgado para ambas as partes - 16/11/2017.
+3. No caso em que a pena restritiva de direitos, a única imposta, éde prestação pecuniária, tratando-se o apelante de advogado atuando emcausa própria, no momento em que o advogado/réu apresenta proposta depagamento parcelado da prestação pecuniária, e tal proposta é acolhidapelo juízo, tal situação constitui inequívoco início de execução.
+4. O legislador impõe a conversão obrigatória das penas restritivasde direitos em privativas de liberdade quando houver descumprimentoinjustificado da restrição.
+5. O art. 51, inciso I, da Lei de Execução Penal dispõe que cometefalta grave o condenado à pena restritiva de direitos que descumprir,injustificadamente, a restrição imposta.
+6. O descumprimento injustificado de quaisquer das obrigaçõesimpostas (art. 44, § 4º, do CP c/c art. 181 da LEP) é causa de conversão daspenas alternativas em privativa de liberdade pelo Juízo das Execuções.
+7. A pena de multa não se confunde com a pena de prestaçãopecuniária, podendo esta ser convertida em pena privativa de liberdade nocaso de seu descumprimento. A prestação pecuniária não é dívida de valor.
+8. Agravo de execução penal desprovido" (e-STJ, fls. 86-87).
+Em suas razões recursais, a defesa aponta ofensa aos arts. 1120, 112, I, e 117, V, do CP. Aduz para tanto, em síntese, que: (I) o termo inicial da prescrição da pretensão executória seria a data do trânsito em julgado para a acusação (ocorrido em 27/09/2016), e não o trânsito para ambas as partes (consumado em 16/11/2017), de modo que estaria prescrita a pena de 1 mês e 10 dias de detenção, convertida em multa; e (II) a intimação do condenadoparapagamento da pena pecuniária, feita no dia 18/01/2019,não seria causa interruptiva do prazo prescricional.
+Com contrarrazões (e-STJ, fls. 130-142), o apelo nobre foi admitido na origem (e-STJ, fls. 145).
+Remetidos os autos a esta Corte Superior, o MPF sugeriu o desprovimento do recurso (e-STJ, fls. 159-162).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Relativamente ao termo inicial da prescrição, de fato, a jurisprudência deste STJ entende que, segundo a literalidade do art. 112, I, do CP, o prazo prescricional da pretensão executória começa a fluir do trânsito em julgado para a acusação. Confiram-se, a propósito, os julgados a seguir:
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART.
+112, INCISO I, DO CÓDIGO PENAL. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado (AgRg nos EAREsp n. 908.359/MG, Terceira Seção, Relator Ministro NEFI CORDEIRO, DJe de 2/10/2018).
+2. A existência de precedente recente do Supremo Tribunal Federal em sentido contrário não tem o condão de alterar o posicionamento pacífico deste Sodalício, a quem compete a uniformização da interpretação da legislação infraconstitucional, uma vez que se trata de decisão proferida pela maioria dos integrantes de apenas um dos órgãos fracionários do Pretório Excelso, que, embora tenha reconhecido a repercussão geral do tema no ARE 848.107 RG/DF, ainda não fixou seu entendimento sobre a questão (AgRg no HC 545.372/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/12/2019, DJe 13/12/2019).
+3. Agravo regimental não provido".
+(AgRg nos EDcl no AgRg no AREsp 1764481/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021)
+"AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL INTERPOSTOS PELO MPF E PELO MPSP. UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. NÃO CONHECIMENTO DOS APRESENTADOS POSTERIORMENTE PELO MPSP. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. OCORRÊNCIA. MARCO INICIAL. DATA DO TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INTELIGÊNCIA DO ART. 112, I, DO CÓDIGO PENAL.
+VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. AGRAVO IMPROVIDO.
+1. Interpostos três recursos idênticos pelo MPSP contra a mesma decisão, não se conhece daqueles apresentados posteriormente, por força dos princípios da unirrecorribilidade e da preclusão consumativa.
+2. Nos termos do art. 112, I, do Código Penal, o termo inicial do prazo da prescrição da pretensão executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado, a qual independe de qual seja a compreensão vigente acerca da possibilidade de execução da pena antes do trânsito em julgado da condenação.
+Precedentes.
+3. Transcorrido lapso temporal superior a 4 anos, desde o trânsito em julgado da sentença condenatória para o Ministério Público, ocorrido em 20/2/2017 e ainda não iniciada a execução da pena dentro do aludido prazo prescricional, está configurada a prescrição da pretensão executória, nos termos do art. 109, IV, c/c os arts. 110, § 1º, 112, I, e 119, todos do CP.
+4. Não cabe a esta Corte manifestar-se sobre suposta afronta a princípios constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Agravo regimental improvido".
+(AgRg no REsp 1894483/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 08/02/2021)
+No entanto, a Corte de origem constatou que a execução da pena de multa iniciou-se em 18/01/2019. Considerando que a multa é considerada dívida de valor (art. 51 do CP), a intimação do condenado para pagamento - mormente quando seguida de diversos atos coercitivos, inclusive a conversão da pena restritiva de direitos -é, sim, capaz de mostrar o interesse do estado na satisfação da pena e com isso interromper o fluxo do prazo prescricional. Aliás, como se colhe da decisão proferida pelo juiz de primeiro grau,o próprio recorrente havia apresentado proposta de parcelamento da multa, deixando livremente de cumpri-la (e-STJ, fl. 24). Inviável, destarte, reconhecer a prescrição na espécie.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ,nego provimentoao recurso especial.
+Publique-se. Intimem-se.
