@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    APELAÇÃO. LICENÇA PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. MUNICÍPIO DE GARANHUNS. LEI MUNICIPAL QUE ADOTA A LEI ESTADUAL 6.123/1968 PARA REGER A RELAÇÃO ADMINISTRATIVA DOS SEUS SERVIDORES. SUPRESSÃO DO BENEFÍCIO NO ÂMBITO ESTADUAL NÃO PODE PRODUZIR EFEITOS DE FORMA AUTOMÁTICA NA ESFERA MUNICIPAL. SÚMULA Nº 128 DO TJPE. CORREÇÃO MONETÁRIA. TERMO A QUO. INADIMPLEMENTO. SÚMULA Nº 154. REVISÃO DE OFÍCIO. SÚMULA Nº 171 DO TJPE. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.
+    1 - A lei de ente federativo que adota lei de outro não sofre, automaticamente, as modificações desta, senão em virtude de lei própria, em respeito ao princípio da simetria.
+    2 - A Lei Municipal nº 2.836/1997 adotou a Lei Estadual nº 6.123/1968 para reger a relação jurídico-administrativa de seus servidores, havendo previsão nesta, no caput do art. 114, de direito de percepção da importância correspondente ao tempo de duração da licença-prêmio deixada de gozar pelo funcionário, em caso de falecimento, ou quando a contagem do aludido tempo não se torne necessária para efeito de aposentadoria.
+    3 - A Emenda Constitucional Estadual nº 16 de 4 de junho de 1999 deu nova redação ao inciso III do parágrafo 7º do art. 131 da Constituição Estadual vedando o pagamento de licença-prêmio não gozadas, salvo quanto a esta última, por motivo de falecimento do servidor em atividade.
+    4 - A despeito das alterações levadas a cabo pelo legislador estadual, a licença prêmio continuou vigente em relação aos servidores dos municípios que adotaram, por expressa previsão em lei local, a Lei Estadual nº 6.123/1968 para disciplinar o regime jurídico dos seus servidores, até que a norma legal municipal competente venha a revogá-la, nos termos do Enunciado nº 128 de Súmula do TJPE, aplicável por analogia.
+    5 - A matéria relativa aos juros de mora e à correção monetária é de ordem pública, pelo que a alteração do termo inicial, da periodicidade e dos índices, realizada de ofício pelo Tribunal, não configura reformatio in pejus (Súmula nº 171 do TJPE).
+    6 - O termo inicial da correção monetária, nas condenações impostas à Fazenda Pública ao pagamento de verbas remuneratórias devidas a servidores e empregados públicos, é o momento em que as parcelas inadimplidas deveriam ter sido pagas (Súmula 154 do TJPE).
+    7 - Recurso não provido. Decisão unânime.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso XXXVI; e 29, caput, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 280 desta Corte. Sobre o tema, a propósito:
+    RECURSO EXTRAORDINÁRIO – LEGISLAÇÃO LOCAL. A apreciação do recurso extraordinário faz-se considerada a Constituição Federal, não cabendo interpretar normas locais visando concluir pelo enquadramento no inciso III do artigo 102 da Lei Maior. (RE 597.603-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 19/02/2020).
+    AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. PRESCRIÇÃO. DECRETO 20.910/1932. LEI DISTRITAL 7.515/1986. LEI LOCAL. SÚMULA 280. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA. 1. Nos termos da orientação sedimentada na súmula 280 do STF, não cabe recurso extraordinário quando a verificação da alegada ofensa à Constituição Federal depende de análise prévia da legislação infraconstitucional pertinente à matéria em discussão. 2. Agravo Regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, §4º, CPC. Mantida a decisão agravada quanto aos honorários advocatícios, eis que já majorados nos limites do art. 85, §§ 2º e 3º, do CPC. (ARE 1.127.544 AgR, Segunda Turma, Rel. Min. Edson Fachin, Segunda Turma, DJe de 27/02/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
