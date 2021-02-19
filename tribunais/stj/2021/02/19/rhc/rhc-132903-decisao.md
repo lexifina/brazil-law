@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar,interposto por JOSÉ AUGUSTO DA SILVA ANDRADE, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ no HC n. 0806523-33.2020.8.14.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 18/6/2020por ter supostamente praticado odelitotipificadono art. 33 da Lei n. 11.343/2006 (tráfico de entorpecentes). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS COM PEDIDO DE LIMINAR. AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO CONFIGURADA. PRESENTE OS REQUISITOS AUTORIZADORES DA SEGREGAÇÃO CAUTELAR. INDÍCIOS DE AUTORIA. PROVA DA MATERIALIDADE. GARANTIA DA ORDEM PÚBLICA,CONVENIÊNCIA DA INSTRUÇÃO PROCESSUAL E APLICAÇÃO DA LEI. QUANTIDADE DE DROGA CONSIDERÁVEL (01 KG). RESPONDE A OUTRO PROCESSO DE DROGA. PREDICATIVOS PESSOAIS. SUMULA 08 DO TJE/PA. IMPOSSIBILIDADE DA APLICAÇÃO DE MEDIDA DIVERSA DA PRISÃO. CONHECIMENTO E DENEGAÇÃO"(fl. 193).
+No presente recurso, alega que o decreto prisional carece de fundamentação idônea, uma vez que pautado exclusivamente na gravidade abstrata do delito. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Ressalta as circunstâncias pessoais favoráveis do recorrente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Argumenta que, em caso de condenação, o regime inicial para o cumprimento da reprimenda será diverso do fechado. Desse modo, pondera que a manutenção da prisão cautelar seria desproporcionalmente severa.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 221/222. Informações prestadas às fls. 228/233 e 248/253. O Ministério Público Federal opinou pelo desprovimento do recurso em parecer acostado às fls. 255/260.
+É o relatório.
+Decido.
+O presente recursoestá prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, observa-se que, nos autos da Ação Penal n. 00003486-89.2020.8.14.0013, em 17/11/2020, sobreveio sentença condenando orecorrenteàpena de 5 anos e 5 meses de reclusão, em regime inicial semiaberto, e pagamento de 417 dias-multa, pela prática dodelitoprevistono art. 33, caput, da Lei n. 11.343/2006,tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar dosréus, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Considerando a periculosidade concreta que ostentam os réus, demonstrada nitidamente através do arcabouço probatório constituído nos autos, o qual, inclusive, esmaece a presunção juris tantum de inocência, tenho que exsurge ao Estado o dever de garantir a Ordem Pública e a aplicação da Lei Penal, requisitos autorizadores da segregação cautelar, posto que vislumbro forte possibilidade de reiteração delitiva e risco à sociedade com a soltura dos ora sentenciados nesse momento, pelo nego a estes o direito de apelar em liberdade, com fulcro art. 312, do CPP. Contudo, deverá ser operacionalizada a transferência dos sentenciados a um estabelecimento prisional compatível com seu regime inicial de cumprimento de pena".
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor doora recorrente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido (AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 06/08/2019, DJe 19/08/2019).
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
