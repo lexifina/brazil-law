@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se dehabeas corpus em face de acórdão assim ementado (fl. 11):
+RECURSO DE AGRAVO - EXECUÇÃO PENAL - INCONFORMISMO DEFENSIVO - PROGRESSÃO DE REGIME - FRAÇÃO NECESSÁRIA PARA OBTENÇÃO DA BENESSE - CONDENADO REINCIDENTE - CRIME COMUM E CRIME EQUIPARADO A HEDIONDO - EXIGÊNCIA DO CUMPRIMENTO DE 3/5 DA PENA RELATIVA AO DELITO EQUIPARADO AO HEDIONDO - ART. 2º, §2º, DA LEI Nº 8.072/90 -DISPOSITIVO REVOGADO COM A SUPERVENIÊNCIA DA LEI Nº13.964/2019 - PATAMARES PARA A PROGRESSÃO ORA AGLUTINADOS NO ART. 112 DA LEI DE EXECUÇÃO PENAL -PRETENSÃO DE PROGRESSÃO EM PRAZO MENOR EM RELAÇÃO AO DELITO DE TRÁFICO (40% DA PENA) - REDAÇÃO DO NOVO ART. 112, V, DA LEP, QUE LHE SERIA BENÉFICA - LEI NO TEMPO -NORMA DE CARÁTER MISTO - REFLEXOS PENAIS -RETROATIVIDADE DA LEI, QUANDO BENÉFICA AO APENADO EM SUA INTEIREZA - CIRCUNSTÂNCIAS DO CASO CONCRETO - PRETENSÃO DESCABIDA - DISPOSITIVO QUE NÃO SE AMOLDA À PRESENTE HIPÓTESE - CRIME NÃO COMETIDO COM VIOLÊNCIA OU GRAVE AMEAÇA - EXIGÊNCIA DO CUMPRIMENTO DE 3/5 DA PENA - REDAÇÃO ATUAL DO ART. 112, VII, DA LEP - JUÍZO DE QUE NÃO SE LIMITA APENAS AO RECIDIVO ESPECÍFICO EM CRIMES HEDIONDOS OU EQUIPARADOS - NOVAS REGRAS QUE EXPRESSAM A INTENÇÃO DO LEGISLADOR IMPOR MAIOR RIGOR À OBTENÇÃO DO BENEFÍCIO - ULTRA-ATIVIDADE DA LEGISLAÇÃO REVOGADA, POR SER BENÉFICA AO AGRAVANTE NO SEU INTEIRO TEOR - DECISÃO MANTIDA - AGRAVO CONHECIDO E NÃO PROVIDO
+O paciente cumpre pena de 19 anos, 4 meses e 15 dias de reclusão pela prática dos delitos de tráfico de drogas e roubo agravado.
+Argumenta a impetrante, em suma, que a exigência de lapso correspondente a 60% da pena para progressão de regime somente se aplica ao reincidente na prática de crime hediondo, o que não é o caso dos autos.
+Busca a fixação do requisito objetivo na progressão do apenado em 40%.
+Indeferida a liminar e prestadas informações, o Ministério Público Federal opinou pela concessão da ordem.
+É o relatório.
+DECIDO.
+Quanto à aplicação do pe rcentual de 40% para fins de progressão de regime, a Corte de origem assim dispôs (fls. 23-24):
+Pois bem. No presente caso, os crimes de roubo agravado e tráfico privilegiado são comuns e foram cometidos previamente à vigência da Lei nº 13.964/2019.
+Portanto, aplicava-se a eles o art. 112, caput, da LEP, em sua antiga redação, que previa a progressão do condenado por delito comum, primário ou não, desde que executasse 1/6 (um sexto) da pena.
+Com o novo diploma legal, o cenário do peticionante melhor se amolda ao art. 112, incisos II e IV, LEP que dispõe para obter a benesse ser preciso executar 20% (quanto ao crime de tráfico privilegiado - "se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça") e 30% (quanto aos crimes de roubo agravado - "reincidente em crime cometido com violência à pessoa ou grave ameaça").
+Logo, deve-se negar o emprego da legislação atual e dar ultra atividade à revogada, pois esta é mais benéfica em relação àquela (apesar de utilizar a fração de 40% - art. 112, V, LEP - e não a de 60%, como entendo ser a correta - art. 112, VII, LEP).
+É dizer, ainda que a decisão agravada tenha se valido de percentual inferior ao qual entendo aplicável à espécie, ainda assim o montante final, acaso aplicada a lei em vigor, seria superior à necessária nos dispositivos revogados.
+Assim sendo, tendo em vista que a execução é una, e que todos os delitos analisados foram praticados antes da vigência da Lei nº 13.964/2019, e diante da vedação à combinação de leis, criando-se uma terceira, sob pena de violação aos princípios da legalidade e da separação dos poderes, cumpre analisar, como visto, individualmente cada caso, como ora realizado.
+Aliás, sobre a vedação à lex tertira, o Superior Tribunal de Justiça pacificou seu entendimento através da Súmula nº 501:
+É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis. (Destaquei).
+Dessa feita, nego provimento ao agravo imposto.
+Como se vê, o Tribunal de Justiça pontuou que tendo em vista que a execução é una, e que todos os delitos analisados foram praticados antes da vigência da Lei nº 13.964/2019, e diante da vedação à combinação de leis, o correto seria dar ultra atividade à revogada, pois esta é mais benéfica em relação àquela.
+Acerca do tema, importa destacar que Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REINALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019) (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+Tal entendimento era fundamentado na Lei de Crimes Hediondos, em especial no revogado § 2º do art. 2º da Lei 8.072/1990:  a  progressão de regime, no caso dos condenados pelos crimes previstos neste artigo, dar-se-á após o cumprimento de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5 (três quintos), se reincidente, observado o disposto nos §§ 3º e 4º do art. 112 da Lei nº 7.210, de 11 de julho de 1984.
+Ocorre que, com o advento da Lei 13.964/2019 (Pacote Anticrime), os requisitos objetivos para a progressão de regime foram alterados, conforme a nova redação do art. 112 da Lei de Execução Penal, no que interessa:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos: (Redação dada pela Lei nº 13.964, de 2019)
+ ..
+II - 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça;(Incluído pela Lei nº 13.964, de 2019)
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário; (Incluído pela Lei nº 13.964, de 2019) VI - 50% (cinquenta por cento) da pena, se o apenado for: (Incluído pela Lei nº 13.964, de 2019)
+VI - 50% (cinquenta por cento) da pena, se o apenado for: (Incluído pela Lei nº 13.964, de 2019)
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional; (Incluído pela Lei nº 13.964, de 2019)
+b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou (Incluído pela Lei nº 13.964, de 2019)
+c) condenado pela prática do crime de constituição de milícia privada; (Incluído pela Lei nº 13.964, de 2019)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado; (Incluído pela Lei nº 13.964, de 2019)
+Constata-se, assim, que o § 2º do art. 2º da Lei 8.072/1990 não diferenciava a reincidência específica da genérica para o cumprimento de 3/5 da reprimenda para fins de progressão de regime, ao contrário da nova redação do inciso VII do art. 112 da LEP.
+Nessa linha de entendimento, a situação prevista no inciso VII do art. 112 da LEP refere-se aos casos de reincidência de crimes hediondos em geral, deixando o Pacote Anticrime de tratar sobre a situação característica do paciente (condenado por crime hediondo e reincidente não específico, conforme consta do acórdão à fl. 39).
+Assim, em razão da omissão legal, não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% que trata sobre a reincidência em crime hediondo ou equiparado. Ao contrário, merece na hipótese o uso da analogia in bonam partem para fixar o percentual de 40% previsto no inciso V do art. 112, relativo ao primário e ao condenado por crime hediondo ou equiparado.
+O referido entendimento foi acatado pela Sexta Turma do Superior Tribunal de Justiça que, no julgamento do HC 581.315/PR, concluído em 6/10/2020, e por unanimidade de votos, concedeu a ordem de habeas corpus (DJe 16/10/2020).
+Há, portanto, constrangimento ilegal passível do deferimento do pedido.
+Ante o exposto, concedo o habeas corpus para determinar que o Juízo da Execução retifique o cálculo da pena do paciente, aplicando-se o percentual de 40% para progressão de regime, salvo se cometida falta grave.
+Comunique-se,
+Publique-se.
+Intimem-se.
