@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, com fundamento na alínea "a" do permissivo constitucional, contra acórdão doTribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n.0002055-45.2020.8.26.0996).
+Consta dos autos que o Juízo da execução reconheceu a prática de falta grave pelo paciente, consistente em desobediência,cometida em 20/1/2018, razão pela qual determinou a alteração da data para cálculo de novos benefícios e a perda de 1/3 (um terço) dos dias remidos.
+Irresignada, a defesa interpôs agravo em execuçãoo qual foi provido em acórdão assim ementado (e-STJ fl. 140):
+AGRAVO EM EXECUÇÃO - PEDIDO PRELIMINAR DE RECONHECIMENTO DA PRESCRIÇÃO DA IMPUTAÇÃO. NO MÉRITO, QUANTO A DEVER SER O AGRAVANTE ABSOLVIDO POR ATIPICIDADE DA SUA CONDUTA. SUPLETIVAMENTE PRETENDE A REDUÇÃO DA PERDA DOS DIAS REMIDOS AO MÍNIMO LEGAL; A DESCLASSIFICAÇÃO DA IMPUTAÇÃO PARA FALTA DISCIPLINAR DE INTENSIDADE MÉDIA E O AFASTAMENTO DA DETERMINAÇÃO DE RECONTAGEM DOS LAPSOS PARA A PROGRESSÃO.
+CASO EM QUE É FORÇOSO RECONHECER QUE DECORREU PRAZO SUPERIOR A DOIS ANOS ENTRE A DATA DA PRÁTICA DA INFRAÇÃO DISCIPLINAR E A DA PROLAÇÃO DA DECISÃO QUE HOMOLOGOU A SINDICÂNCIA APURATÓRIA DE TAL, A ENSEJAR A PRESCRIÇÃO, POR APLICAÇÃO, EM ANALOGIA, AO DISPOSTO NO ARTIGO 114, I, DO CP, E 30, DA LEI  11.343/2006.
+Questão preliminar acolhida para reconhecimento da ocorrência da prescrição, a ensejar a extinção da punibilidade do agravante.
+No presente recurso, o órgão ministerialargumenta, em síntese, que "a infração disciplinar foi praticada no dia 20 de janeiro de 2.018, enquanto que a decisão judicial que a reconheceu foi proferida no dia 12 de fevereiro de 2.021, não se verificando, assim, o transcurso do lapso superior a três anos (art. 109, inciso VI, do Código Penal) entre esses marcos e, consequentemente, não se podendo falar em prescrição da falta disciplinar grave"(e-STJ fl. 177).
+O Ministério Público Federal, ao se manifestar, opinou nos termos do parecer assim ementado(e-STJ fl. 243):
+PENAL. RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA GRAVE. PRESCRIÇÃO. UTLIZAÇÃO DO MENOR PRAZO PREVISTO NA LEGISLAÇÃO PENAL. DECURSO DO LAPSO PRESCRICIONAL. PARECER PELO DESPROVIMENTO DO RECURSO ESPECIAL.
+É, em síntese, o relatório.
+Inicialmente, acerca da prescrição,segundo a jurisprudência desta Corte, na apuração de falta disciplinar de natureza grave, deve ser aplicado o prazo prescricional previsto no inciso VI do art. 109 do Código Penal, ou seja, após a vigência da Lei n. 12.234/2010, o prazo prescricional a ser considerado é o de 3 (três) anos.
+Nesse sentidoconfira-se oseguinteprecedente:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. FUGA DO ESTABELECIMENTO PRISIONAL. COMUTAÇÃO DE PENAS. INDEFERIMENTO. INFRAÇÃO DISCIPLINAR. APURAÇÃO.AUSÊNCIA DE INSTAURAÇÃO DE PROCESSO ADMINISTRATIVO DISCIPLINAR - PAD. ILEGALIDADE MANIFESTA. PRESCRIÇÃO. INOCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça - STJ, seguindo o entendimento da Primeira Turma do Supremo Tribunal Federal - STF, passou a inadmitir habeas corpus substitutivo de recurso próprio, ressalvando, porém, a possibilidade de concessão da ordem de ofício nos casos de flagrante ilegalidade.
+- Após a vigência da Lei n. 12.234/2010, o prazo prescricional para apuração da falta disciplinar será de 3 (três) anos, de acordo com o art. 109, inciso VI, do Código Penal.
+- No REsp n. 1.378.557/RS, processado sob o rito dos feitos representativos de controvérsia, a Terceira Seção desta Corte Superior decidiu que é imprescindível a instauração de procedimento administrativo disciplinar para o reconhecimento da prática de falta grave no curso da execução penal.
+- Writ não conhecido. Ordem concedida de ofício para afastar a infração disciplinar em exame, em todos seus consectários, ressalvada a possibilidade de apuração em PAD (HC 335.994/RS, Rel. Ministro ERICSON MARANHO, Desembargador convocado do TJSP, SEXTA TURMA, julgado em 23/02/2016, DJe 03/03/2016, grifei).
+Na espécie, verifica-se que afaltafoipraticadanodia20/1/2018 e a decisão judicial que areconheceu foi proferida em 12/2/2020 (e-STJ fl. 142).
+Desse modo, constata-se que, não tendo transcorrido o lapso temporal de 3 (três) anos entre a prática da falta grave e a decisão judicial que reconheceu o seu cometimento, não se pode cogitar a ocorrência da prescrição.
+Assim, deve ser afastadaa prescrição reconhecida pelo Tribunal de origem e restabelecidaa decisão de primeiro grau que a reconheceu.
+Ante o exposto, douprovimento ao recursonos termos ora delineados.
+Publique-se. Intimem-se.
