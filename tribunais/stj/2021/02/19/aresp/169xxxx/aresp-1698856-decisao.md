@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por MARIA DIANA AZEREDO COSTA contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 411):
+Prestação de serviços educacionais. Ação de obrigação de fazer c.c. reparação de danos. Inexistência de cerceamento de defesa. Contrato de Garantia de Pagamento das Prestações do FIES firmado entre as partes mediante adesão ao Programa "UNIESP PAGA". Negativa de pagamento por parte da ré em razão do não cumprimento, pela beneficiária, de uma das seis obrigações previstas no contrato. Autora que não provou o cumprimento integral da realização de trabalhos voluntários. Sentença mantida.Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 438-443).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 4º, 6º, III, e 39, IV, 46 e 47, do CDC, porque o acórdão não resolveu a controvérsia à luz dos referidos dispositivos que obrigam o cumprimento da oferta veiculada no mercado consumidor. Afirma que apesar de reconhecer a existência de publicidade veiculada para parte ora agravada, manteve a decisão que rejeitou seu pedido inicial. Sustenta, subsidiariamente, violação ao art. 1.022 do CPC, requerendo que os autos retornem à origem para que seja analisada a omissão apontada nos embargos de declaração opostos.
+Foram apresentadas contrarrazões (e-STJ fls. 460-462).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 471-472), o que ensejou a interposição do presente agravo.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A irresignação não merece prosperar.
+De início, verifico que se apresenta deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 é subsidiária, pois não há demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros. Aplica-se, assim, o óbice da Súmula 284/STF.
+Quanto à alegada ofensa aos arts. 4º, 6º, III, e 39, IV, 46 e 47, do CDC, também exsurge deficiente a fundamentação recursal, pois o recorrente limita-se a citar o dispositivo supostamente violado, deixando de informar, de forma clara e objetiva, de que modo a legislação federal teria sido violada ou negada sua aplicação no acórdão recorrido. Assim, o recurso especial não merece ser conhecido ante a incidência da Súmula 284/STF.
+Ademais, a Corte Estadual dirimiu a controvérsia fundamentada no fato de que a agravante descumpriu exigência contratual e que, também sob o enfoque do Código de Defesa do Consumidor, sua pretensão não alcançaria êxito. Vejamos (e-STJ fls. 412-419):
+Em paralelo, a autora fazia parte de um programa denominado "UNIESP PAGA", segundo o qual a instituição de ensino se comprometia a pagar o financiamento estudantil se o aluno cumprisse com as exigências contratuais retratadas pelas cláusulas 3.1 a 3.6 (fls. 81/82), de modo que o descumprimento de quaisquer obrigações ali estipuladas ensejaria a desobrigação da instituição de ensino no pagamento do FIES (cf. cláusula 3.7).
+E a ré afirmou que a autora não cumpriu a obrigação constante na cláusula 3.3, ou seja, deixou de realizar as seis horas semanais de trabalho voluntário.
+Mas alega a autora que nunca descumpriu qualquer cláusula, ressaltando que o sistema da ré sempre apresentava falhas, bem como alterava o procedimento de entrega diversas vezes.
+Não bastasse, a autora também afirma que sua única obrigação era arcar com o pagamento do valor de R$ 50,00 trimestralmente, o que de pronto afasto, uma vez que as cláusulas contratuais destacadas acima são bem claras ao determinar quais as responsabilidades dos participantes para que fizessem jus ao programa, não lhe socorrendo a singela alegação.
+A respeitável sentença escorreitamente julgou improcedentes os pedidos iniciais, observando que a autora não demonstrou o regular cumprimento da obrigação prevista na cláusula 3.3.
+E pese o inconformismo da autora-apelante, razão alguma lhe assiste.
+ ..
+Não restou comprovado pela autora que efetivamente realizou as seis horas semanais de trabalhos voluntários em diversos meses no ano de 2014, valendo destacar, novamente, que prova testemunhal não teria o condão de afastar as provas documentais carreadas.
+Ora, os documentos citados pelo magistrado na sentença proferida são bem claros a indicar que a autora cumpriu apenas 20 horas de trabalhos voluntários nos períodos lá indicados.
+ ..
+Assim, por qualquer ângulo que se observe, não há como acolher as razões de inconformismo da apelante, mesmo sob a ótica do direito consumerista, não socorrendo também a alegação de publicidade enganosa, pois além de a propaganda veiculada não indicar que o curso seria gratuito, as cláusulas do contrato de garantia são bem claros e indicam plena ciência da autora, tanto que o carreou em sua inicial.
+Assim, elidir as conclusões do acórdão recorrido para atender a pretensão da recorrente no sentido de que não houve descumprimento de cláusula contratual e que a propaganda veiculada seria enganosademandaria, com certeza,a interpretação das cláusulas do contrato e o revolvimento do conjunto fático-probatório dos autos, providências vedadas nesta sede especial a teor das Súmulas 5 e 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. REEXAME DE FATOS E PROVAS. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO DESPROVIDO.
+1. O objeto da controvérsia é definir se a instituição de ensino ré, no programa denominado Uniesp Paga, teria omitido da parte autora informações a respeito dos requisitos para obter a isenção de débito contraído com base no Fundo de Financiamento Estudantil (FIES).
+2. O Tribunal de origem afastou a alegação de que não foi observado o dever de informação acerca dos termos do programa e concluiu que a autora não fez jus à obtenção do benefício, pois não alcançou pontuação mínima no Exame Nacional de Desempenho dos Estudantes - Enade, conforme dispunha o regulamento do programa da instituição. A alteração de tal entendimento demandaria o reexame das provas dos autos e de cláusula do contrato celebrado entre as partes, providência vedada, em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1695499/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021)
+Destarte, inviável a pretensão da recorrente.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada. Com base em tais premissas, a título de honorários recursais, sendo fixada inicialmente verba honorária em 10% do valor atualizado da causa (e-STJ fl. 356), majorados pela Corte Estadual para 15% (e-STJ fl. 418), a nova majoração dos honorários para 17% é medida adequada à hipótese. Ônus suspensos, entretanto, na hipótese de assistência judiciária, nos termos do art. 98, § 3º, do CPC/2015.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE DANOS MATERIAS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. REEXAME DO CONJUNTO FÁTICO PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 7 E 5/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
