@@ -1,0 +1,30 @@
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+RECURSO DE EMBARGOS DE DECLARAÇÃO interpostos nos autos do Recurso de Apelação Cível no 1005646-84.2017.8.11.0037 – CLASSE 198– CNJ – PRIMAVERA DO LESTE
+Embargante : MAURO ANSELMO CUNHA PENA
+Embargada : PORTO SEGURO CIA DE SEGUROS GERAIS SA
+Recurso de EMBARGOS DE DECLARAÇÃO interposto por MAURO ANSELMO CUNHA PENA contra a r. decisão proferida nos autos do Recurso de Apelação no 1005646-84.2017.8.11.0037, que proveu parcialmente o recurso apenas para redistribuir o ônus sucumbencial, na proporção de 70% à embargada PORTO SEGURO CIA DE SEGUROS GERAIS SA e 30% ao embargante (cf. Id no 53830489).
+O embargante alega que a decisão foi contraditória ao estabelecer sucumbência recíproca entre os litigantes, pois, tendo sido vitorioso em maior proporção, a embargada deve arcar com todo o ônus sucumbencial.
+Pede, pois, o provimento do recurso, para que seja sanada a contradição apontada, e a Seguradora/embargada condenada ao pagamento da integralidade do ônus sucumbencial (cf. ID no 74160955).
+Nas contrarrazões de Id. no 75429453, a embargada refuta os argumentos recursais e torce pelo desprovimento dos aclaratórios.
+É o relatório.
+D E C I D O
+Conforme pronunciamento do eg. STJ, os “embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.” (Segunda Seção - EDcl no AgInt nos EAREsp 969978/MS Embargos de Declaração no Agravo Interno nos Embargos de Divergência em Agravo em Recurso Especial 2016/0220161-6 – Ministra NANCY ANDRIGHI – Julgado em 13.12.2017 – DJe do dia 15.12.2017).
+No caso, não há contradição na decisão; leitura as razões recursais mostra que a interposição do presente recurso tem intuito único de rediscutir os fatos e os fundamentos, merecendo registro o fato de que a decisão monocrática analisou a integralidade do conjunto probatório, as peculiaridades do caso concreto e as teses defendidas no recurso, concluindo pelo provimento parcial do RAC no 1005646-84.2017.8.11.0037 (cf. Id. no 53830489).
+A decisão embargada foi lançada da seguinte maneira:
+“Quanto ao reconhecimento da sucumbência recíproca, as custas processuais e os honorários advocatícios devem ser estipulados proporcionalmente ao “quantum” dos interesses das partes que restaram atendidos na decisão.
+Sobre o tema, ensinam Nelson Nery Junior e Rosa Maria de Andrade Nery:
+“1. Sucumbência recíproca. Há sucumbência recíproca quando uma das partes não obteve tudo o que o processo poderia lhe proporcionar. Se o autor pediu 100 e obteve 80, sucumbiu em 20, ao mesmo tempo em que o réu sucumbiu em 80. quando a parte sucumbiu em parte mínima do pedido, não se caracteriza a sucumbência recíproca. A sucumbência recíproca autoriza a interposição de recurso pela via adesiva. [...]. 3. Distribuição proporcional. As despesas processuais e os honorários de advogados deverão ser rateados entre as partes, na medida de sua parte na derrota, isto é, de forma proporcional” (Código de processo civil comentado, 11a ed., São Paulo: RT, 2010, p. 247).
+A presente ação está fundada no descumprimento de contrato de seguro obrigatório, cujo valor máximo da indenização legal e contratualmente prevista, já está pré-definido, não comportando, inclusive, majoração para além do teto legal independentemente do grau de violação, dano e desgraça suportados pela vítima.
+O autor acionou a Seguradora pretendendo a condenação desta ao pagamento do valor máximo previsto em lei para a hipótese de invalidez total permanente, e justamente por isso indicou expressamente o valor máximo previsto em lei como sendo o teto financeiro da sua pretensão indenizatória (R$ 13.500,00), mas, conforme bem explicitou a sentença, a prova pericial (ID no 49459549) demonstrou que houve invalidez permanente parcial do pé esquerdo avaliada em 50% (média), caso em que o valor da indenização não pode ser aquele expressamente indicado e pretendido pelo autor, mas sim quantificado em R$ 3.375,00.
+Como se vê, estando o valor indenizatório já pré-tabelado, devendo necessariamente corresponder, à luz das provas, à extensão financeira ditada pelo percentual do dano físico sofrido sem que o juiz possa livremente varia-lo em qualquer direção da escala de valores, então, sem dúvida alguma, deve haver a justa distribuição sucumbencial prevista na cabeça do art. 86 do CPC, que diz que, se “cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídos entre eles as despesas”.
+No caso, o autor pretendia 100% de vitória financeira (valor indenizatório máximo), mas como conquistou apenas de 32% do “quantum” legalmente previsto, e não sendo possível, sob qualquer enfoque racional, qualificar 50% de vitória ou derrota como quota “mínima do pedido”, então, sem dúvida, deve ter aplicação a regra da sucumbência recíproca prevista no “caput” do art. 86 do CPC, e não aquela prevista no parágrafo único do mesmo dispositivo.
+(...)
+Portanto, provejo parcialmente o apelo, e o faço para apenas para redistribuir o ônus sucumbencial dos honorários advocatícios na proporção de 70% para a Seguradora/apelante e 30% para o apelado, devendo ser observado o que dispõe o art. 98, §3o, do CPC em relação ao autor/apelado.”
+Constata-se, portanto, que a decisão não padece de quaisquer dos vícios alegados, mas apenas decidiu contrariamente à tese defendida pelo embargante, sendo incabível a interposição de embargos de declaração apenas para expressar o inconformismo da parte embargante contra a decisão que lhe foi desfavorável, porque, em tais casos, o que se faz é simples rediscussão da matéria recursal.
+É por estas fortes e sólidas razões já consignadas na decisão monocrática que o enfoque nela consagrado permanece inalterado, pelo que rejeito os presentes embargos.
+Custas pelo apelante.
+Intimem-se. Cumpra-se.
+Cuiabá/MT, 19 de fevereiro de 2021.
+Des. JOÃO FERREIRA FILHO
+Relator
