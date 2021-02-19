@@ -1,0 +1,21 @@
+DECISÃO
+A DEFENSORIA PÚBLICA DA UNIÃO postula, nos interesses de BRUNO WESLEI DOS SANTOS (fls. 318-364), a desconstituição do trânsito em julgado da decisão de fls. 304-311.
+No caso, impetrado habeas corpus pela Defensoria Pública do Estado de Santa Catarina em favor de BRUNO WESLEI DOS SANTOS, contra ato do Tribunal de Justiça do Estado de Santa Catarina, a liminar foi indeferida e, após a instrução do feito, não se conheceu do writ por meio de decisão transitada em julgado no dia 24/9/2019 (fl. 317).
+Alega a peticionária que tem a prerrogativa de atuar nos feitos que tramitam nas cortes superiores, tendo em vista a ausência de representação das defensorias públicas estaduais na Capital Federal e/ou a falta de estrutura necessária para que possam atuar.
+Aduz que não foi intimada da decisão que não conhecera do habeas corpus e que, em 30/4/2020, foi solicitado, mediante ofício, o descadastramento da Defensoria Pública do Estado de Santa Catarina do portal de intimações do STJ.
+Sustenta a inaplicabilidade da decisão proferida na Questão de Ordem no AREsp n. 1.513.956/AL ao presente caso.
+Requer, ao final, a declaração de nulidade da intimação exclusiva da Defensoria Pública do Estado de Santa Catarina, a desconstituição do trânsito em julgado da decisão de fls. 304-311 e a intimação da Defensoria Pública da União com abertura de prazo para manifestação nos autos e exercício pleno do contraditório e da ampla defesa.
+É o relatório. Decido.
+O pleito não reúne condições de êxito.
+Não se pode perder de vista que, segundo decisão proferida na Questão de Ordem no AREsp n. 1.513.956/AL (relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/2/2020), "existindo representação em Brasília, conforme jurisprudência consolidada desta Corte, ou viabilizada a intimação eletrônica das Defensorias Públicas dos Estados em virtude de adesão ao Portal de Intimações Eletrônicas, impõe-se o indeferimento de requerimentos da Defensoria Pública da União no sentido de assumir a defesa de pessoas assistidas pelas Defensorias Públicas estaduais".
+Corroborando esse entendimento, confira-se o seguinte julgado:
+AGRAVO REGIMENTAL NA PET NO HABEAS CORPUS. PACIENTE ASSISTIDO PELA DEFENSORIA PÚBLICA DO ESTADO DE SANTA CATARINA. SUPERVENIENTE PETIÇÃO DA DEFENSORIA PÚBLICA DA UNIÃO PARA DESCONSTITUIR O TRÂNSITO EM JULGADO DO WRIT E ASSUMIR A DEFESA DO PACIENTE. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Existindo representação em Brasília, conforme a jurisprudência consolidada desta Corte, ou viabilizada a intimação eletrônica das Defensorias Públicas dos Estados em virtude de adesão ao Portal de Intimações Eletrônicas, impõe-se o indeferimento de requerimentos da Defensoria Pública da União no sentido de assumir a defesa de pessoas já assistidas pelas Defensorias Públicas estaduais" (AgRg na PET no HC n. 529.620/SC, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/2/2020, DJe 14/2/2020).
+2. Na hipótese, revela-se inviável o pedido da DPU de desconstituição do trânsito em julgado do writ a fim de que seja devidamente intimada e possa assumir o patrocínio da defesa, uma vez que o paciente foi assistido pela Defensoria Pública do Estado de Santa Catarina, que atuou como impetrante e, consoante certidão constante dos autos, aderiu ao Portal de Intimações Eletrônicas no período entre 20/5/2019 e 5/5/2020.
+3. Agravo regimental desprovido. (AgRg na Pet no HC n. 504.014/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/10/2020.)
+Na hipótese, o paciente foi assistido pela Defensoria Pública do Estado de Santa Catarina, que, diante da adesão ao portal de intimações eletrônicas do STJ, atuou como impetrante e teve ciência da decisão proferida em 29/8/2019, conforme o termo de fl. 315.
+Assim, nada obstante a Defensoria Pública estadual tenha solicitado seu descadastramento do portal do STJ em 30/4/2020 (fl. 359), as intimações efetivadas até essa data são plenamente válidas e eficazes, produzindo efeitos legais e inviabilizando, portanto, a desconstituição do trânsito em julgado da decisão em comento, ocorrido em 24/9/2019, de acordo com a certidão de fl. 317.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após, remetam-se os autos ao arquivo.
