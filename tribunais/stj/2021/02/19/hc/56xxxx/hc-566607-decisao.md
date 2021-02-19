@@ -1,0 +1,12 @@
+DECISÃO
+ARIEL MAICON LEOPOLDO DA SILVA alega sofrer constrangimento ilegal em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+A Defensoria Pública se insurge contra a cassação da progressão de regime e determinação de retorno imediato do paciente ao regime fechado. Salientaque a longa pena a cumprir e a gravidade dos crimes por ele praticados não são motivos idôneos para cassar o benefício. Ademais, as faltas disciplinares remontam a longas datas.
+Requer, em liminar e no mérito, o restabelecimento da decisão do Juiz da VEC.
+Decido.
+Trata-se de apenado do regime fechado, com início da execuçãoem 24/10/2011 e término previsto para 27/9/2029.No dia 23/8/2019 foi deferido a ele a progressão ao regime semiaberto. O Tribunal de Justiça cassou o benefício, em 12/2/2020.
+O art. 112 da Lei de Execução Penal dispõe que, para a concessão da progressão de regime, é necessário o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+A análise do requisito subjetivo pressupõe a verificação do mérito do condenado durante o período do seu encarceramento, oque não está adstrito ao atestado de classificação de comportamento como faz parecer a literalidade da lei, sob pena de concretizar-se o absurdo de transformar o diretor do presídio no verdadeiro concedente do benefício e o juiz em simples homologador de documentos administrativos.
+O Tribunal de Justiça citou a não comprovação de mérito pessoal para a progressão de regime, de forma fundamentada,pois consta do aresto que o reeducando"praticou ele falta disciplinar de natureza média"; "agraciado com o livramento condicional  .. , praticou novo delito no curso do benefício" e deixou "de retornar ao estabelecimento prisional" (fl. 17).
+Demonstrada a conduta carcerária conturbada, durante a execução penal, não há falar em ato abusivo ao direito de locomoção do apenado. No mais, para acolher a tese defensiva seria necessário o reexame de provas não constantes dos autos do habeas corpus, uma vez que aimpetrante nãojuntou a guia penal do paciente e, mesmo com as informações prestadas pelo Juiz da VEC, não há como reconhecer que o mau comportamento carcerário foi purgado pelo decurso do tempo e está alcançado pelo direito ao esquecimento.O ônus da prova, no habeas corpus, compete ao impetrante e não foi observado no caso sob exame, "dada a ausência da indispensável prova pré-constituída das alegações" (fl. 37).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
