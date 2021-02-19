@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Josimario da Silva Alves, apontando-se como autoridade coatora o Tribunal de Justiça de Sergipe - que denegou a ordem ali impetrada (fls. 143/166 - Habeas Corpus Criminal n. 202000334542), mantendo a segregação cautelar do paciente, decretada pelo Juízo de Direito da Vara Criminal da comarca de Lagarto/SE, por conveniência da instrução criminal e para assegurar a aplicação da lei penal (fl. 17 - Autos n. 0001765-15.2020.8.25.0040), pela prática, em tese, do crime de homicídio qualificado (fls. 135/139) -, alegando-se constrangimento ilegal consistente em:
+a. negativa de autoria, sustentando-se que o paciente negou veementemente a participação no crime. E, as provas coligidas aos autos não são suficientemente aptas a configurar a participação do acusado no crime. E, dessa forma, justificar a manutenção da prisão cautelar (fl. 11); e
+b. deficiência de fundamentação do decreto prisional, aduzindo-seque como se pode concluir que Josimário causará qualquer influência negativa no processo ou é uma ameaça a ordem pública se os indícios da suposta pratica do crime na verdade sequer existem  (fl. 11).
+Postula-se, então, a concessão liminar da ordem para que seja revogada a prisão preventiva ora hostilizada.
+É o relatório.
+Busca a impetração a revogação da prisão preventiva do paciente -decretada por conveniência da instrução criminal e assegurar a aplicação da lei penal, pela prática, em tese, do crime de homicídio qualificado -, aos argumentos de deficiência de fundamentação do decreto provisório e negativa de autoria.
+Ocorre que presente writ deve ser indeferido liminarmente, inicialmente pois os autos não estão suficientemente instruídos, carecendo de cópia da decisão que decretou a prisão preventiva do paciente, peça indispensável para que seja possível verificar a verossimilhança das alegações.
+Isso porque o rito do habeas corpus - e do recurso ordinário em habeas corpus - pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente (precedentes), o que não ocorreu no caso vertente (HC n. 541.104/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 27/2/2020).
+Confiram-se julgados nesse sentido: AgRg no HC n. 552.240/PE, Ministra Laurita Vaz, Sexta Turma, DJe 27/2/2020; e HC n. 558.199/SP, Ministro Leopoldo de Arruda Raposo, Desembargador convocado do TJ/PE, Quinta Turma, DJe 16/3/2020.
+Ademais, não prospera a alegação de negativa de autoria, porque, em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via do habeas corpus e do recurso em habeas corpus não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva (RHC n. 129.566/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 3/11/2020).
+Nesse mesmo sentido: HC n. 553.703/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 25/6/2020.
+Em razão disso, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE DEFICIÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DE CÓPIA DA DECISÃO QUE DECRETOU A PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. ALEGAÇÃO DE NEGATIVA DA AUTORIA. INVIABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO.
+Writ indeferido liminarmente.
