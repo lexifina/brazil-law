@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Cláudio Bernardes de Oliveira e Maria de Lourdes Silva de Oliveira contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que os agravantes ajuizaram ação indenizatória, julgada improcedente.
+Interposta apelação pelos ora insurgentes, a Sétima Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 840):
+Ação de indenização por danos materiais e morais. Sentença de improcedência. Insurgência dos autores. Descabimento. Benefícios da assistência judiciária mantido. Ausência de cláusula contratual onde constasse a necessidade de conclusão do inventário para a transferência do bem recebido como parte de pagamento. Autores que já se comportavam como donos do bem desde o pactuado, tanto que puderam colocar em nome de um deles a taxa associativa pertinente à manutenção do condomínio. Situação que pressupõe regularidade da documentação fornecida pela requerida no ato da negociação realizada entre as partes. Comprovado nos autos que pretendiam vender o bem, e até o fizeram, e por isso não realizaram a transferência regular no registro de imóveis, não podendo agora tentar repassar à requerida a responsabilidade do que ela se desonerou, no ato da negociação. Autores que devem buscar ressarcimento de eventuais fraudadores. Sentença mantida. Recurso a que se nega provimento.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, os recorrentes alegaram violação dos arts. 98 do Código de Processo Civil de 2015; e 447 e 884 do Código Civil.
+Sustentaram, em síntese, a ausência dos requisitos para a concessão dos benefícios da justiça gratuita, haja vista que o espólio é titular de bens, possuindo condições de arcar com os custos da demanda.
+Asseveraram, ainda, a necessidade de condenação do agravado ao pagamento das indenizações requeridas, tendo em conta o reconhecimento da evicção, mediante fraude, consequentemente devem incidir os seus efeitos, sob pena de enriquecimento sem causa.
+Contrarrazões às fls. 894-912 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando os insurgentes a interpor o presente agravo.
+Contraminuta às fls. 937-946 (e-STJ).
+Brevemente relatado, decido.
+No tocante à justiça gratuita, o Tribunal estadual, observadas as peculiaridades da causa, concluiu pela manutenção do benefício sob os seguintes fundamentos (e-STJ, fl. 842):
+O que se tem de concreto é que a requerida deixou herança aos filhos composta de imóveis, com valor irrisório em pecúnia, não podendo exigir dos herdeiros, salientando ser um deles menor, que arquem com custas e que declararam não possuir meios, prevalecendo assim, a presunção de veracidade do quando alegado.
+Até porque, as demais questões ventiladas pelos apelantes não passam de suposições, insuficientes para a cassação da benesse concedida.
+Dessa forma, deve ser confirmada a incidência da Súmula n. 7 do STJ à hipótese, tendo em vista que qualquer alteração nesse quadro demandaria o inevitável revolvimento do conteúdo fático-probatório, procedimento vedado no âmbito do recurso especial.
+No mérito, a Corte de origem, corroborando a sentença, assim se manifestou (e-STJ, fls. 843-845):
+E conforme se verifica pelos documentos juntados pelos próprios autores, já se comportavam como donos do imóvel, tanto que transferiram a titularidade das cobranças da taxa de associação de moradores para o nome do comprador Claúdio.
+Veja-se que o documento fornecido pela requerida na venda e o contrato realizado entre as partes, possibilitou a colocação de seu nome na titularidade das cobranças sem qualquer entrave, o que corrobora a tese da autora de que tudo estava regular com relação ao imóvel que entregou como parte de pagamento.
+No entanto, pelo que se depreende dos autos, tinham os autores a intenção de negociar o bem, tanto que o fizeram, e certamente por isso não buscaram efetivar o registro do pacto firmado, a fim de não precisarem arcar com o pagamento de todos os impostos pertinentes.
+Não restam dúvidas de que ao negociar um imóvel, aquele que repassa o bem para a responsabilidade de outra pessoa, com nada mais se preocupa, tanto que a requerida teve conhecimento da fraude que sofreu através do autor Cláudio, conforme constou do boletim de ocorrência.
+Desse modo, quem deve buscar o ressarcimento pelo dano sofrido junto àqueles que falsificaram assinatura e transferiram o bem são os autores e não a requerida.
+Ademais, como bem ponderou o juiz a quo "Paula comprovou que comprou o Lote no residencial Aldeia da Mata em junho de 2004, que apenas não estava registrado em seu nome, possivelmente porque ainda não tinha matrícula, posto que se verifica que a matrícula apenas foi feita em 22 de maio de 2012 (fls. 88/89).
+No entanto, nada impedia a outorga da escritura aos autores, posto que a requerida era a proprietária do imóvel e poderia ter vendido aos autores, inexistindo qualquer impedimento para a venda realizada.
+Ocorre que a venda do imóvel para terceiras pessoas não foi feita pela requerida, mas por pessoa que falsificou sua assinatura, conforme restou amplamente demonstrado nos autos, inclusive por processo criminal.
+Assim, não foi a requerida quem deu causa a venda posterior do bem, mas o fraudador que falsificou sua assinatura.
+Portanto, a requerida não praticou qualquer ato ilícito a justificar indenização e não foi a responsável pela alegada evicção sofrida pelos autores.
+A venda do imóvel aos autores foi válida, esses entraram na posse do bem e passaram a responder pelas dívidas desse, o que está correto.
+É possível afirmar que os próprios autores foram negligentes e não cuidaram do lote de forma adequada, posto que terceiras pessoas adquiriram o imóvel e assumiram a posse do mesmo sem qualquer oposição pelos autores, que deveriam ter questionado a validade dessa venda.
+Consta dos embargos de declaração (e-STJ, fl. 884):
+Todavia, para que não haja mais discussões que impeçam a finalização da demanda, consigno que não se verifica qualquer enriquecimento sem causa da parte embargada, que cumpriu sua parte no contrato firmado, sendo vítima do ocorrido como os autores, salientando no entanto, que os cuidados para coibir que tal situação tivesse ocorrido, deveriam ter partido dos autores que já exerciam a posse do bem desde a assinatura do contrato, e conforme já constou da fundamentação do julgado, cabe a eles buscar ressarcimento pelo dano sofrido junto àqueles que falsificaram assinatura e transferiram o bem para terceiro, e não em face da ré que em nada contribuiu para o evento.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra impossível ante a natureza excepcional da via eleita, conforme enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais nos termos do art. 85, § 11, do CPC/2015 por já terem sido fixados no limite máximo.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. ASSISTÊNCIA JUDICIÁRIA GRATUITA. COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 2. CONDENAÇÃO AO PAGAMENTO DAS INDENIZAÇÕES REQUERIDAS. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
