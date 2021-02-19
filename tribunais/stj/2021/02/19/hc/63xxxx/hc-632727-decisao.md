@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de PAULO VITOR TEIXEIRA DA SILVA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio de Janeiro, nos autos da apelação criminal n. 0202647-49.2018.8.19.0001.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas 15 (quinze) anos, 3 (três) meses e 10 (dez) dias de reclusão, em regime inicial fechado, mais o pagamento de 1.916 (mil novecentos e dezesseis) dias-multa, como incurso nas iras dos arts. 33 e 35 c/c art. 40, IV, da Lei n. 11.343/2006; e 329, § 1º, do Código Penal (fls. 31-36).
+Inconformadas, a defesa e a acusação interpuseram apelações perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso defensivo e proveu o apelo acusatório, a fim de majorar a sanção para o patamar de 17 (dezessete) anos, 9 (nove) meses e 10 (dez) dias de reclusão, mais o pagamento de 2.266 (dois mil, duzentos e sessenta e seis) dias-multa, consoante voto condutor do v. acórdão de fls. 37-48.
+Opostos aclaratórios, foram rejeitados (fls. 74-78).
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois o aumento da pena relativa à agravante da reincidência deve ficar adstrito a 1/6 (um sexto).
+Afirma não ser o caso de multirreincidência.
+Sustenta que, na terceira fase, as penas dos delitos de tráfico ilícito de entorpecentes e de associação para o tráfico foram exasperadas em 1/3 (um terço) sem a devida fundamentação a justificar a adoção de tal percentual.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 82-83).
+Informações prestadas às fls. 87-93.
+O Ministério Público Federal, às fls. 106-108, manifestou-se pela concessão da ordem, em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA ESSE FIM. APLICAÇÃO DA PENA. INSURGÊNCIA CONTRA OS ACRÉSCIMOS DE 1/4 (UM QUARTO) E DE 1/3(UM TERÇO) PELO RECONHECIMENTO DA REINCIDÊNCIA E DA MAJORANTE DO USO DE ARMA DE FOGO, SEM MOTIVAÇÃO IDÔNEA. QUANTUM DE AUMENTO EMRELAÇÃO A REINCIDÊNCIA NÃO ESPECIFICADO NOCÓDIGO PENAL. DISCRICIONARIEDADE VINCULADA. FRAÇÃO DE 1/6 (UM SEXTO) QUE TEM SIDO O PARÂMETRO INDICADO PELA JURISPRUDÊNCIA PÁTRIA. PREVISÃO LEGAL DE AUMENTO DE PENA DE 1/6 A 2/3PELO RECONHECIMENTO DE MAJORANTE DO TRÁFICODE DROGAS. A UTILIZAÇÃO DE FRAÇÃO SUPERIOR À MÍNIMA EXIGE FUNDAMENTAÇÃO CONCRETA NÃO OBSERVADA NA ESPÉCIE. AFRONTA À PROPORCIONALIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRECEDENTES DO STJ.
+PARECER PELA CONCESSÃO DO WRIT." (fl. 106-108).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a limitação do aumento da pena em 1/6 (um sexto) para a incidência da agravante da reincidência e para causa de aumento de pena relativa ao uso de arma de fogo.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+O Juízo de Direito de primeiro grau dosou assim as reprimendas:
+"DO TRÁFICO DE DROGAS
+O acusado tem péssimos antecedentes estampados nas anotações de nº 02, 03 e 04 de sua FAC, devidamente esclarecidas na certidão de fls.164/165, fixo a pena base acima do mínimo legal em seis anos de reclusão e seiscentos dias-multa com base no coeficiente mínimo legal.
+Considerando que o acusado é reincidente, conforme se vê pela anotação de nº 06 de sua FAC, já devidamente esclarecida na certidão de fls. 164/165, aumento a pena em um quarto, restando a mesma em SETE ANOS E SEIS MESES DE RECLUSÃO E SETECENTOS E CINQUENTA DIAS-MULTA com base no coeficiente mínimo legal, as quais torno DEFINITIVAS.
+DA ASSOCIAÇÃO PARA O TRÁFICO COM EMPREGO DE ARMA
+O acusado tem péssimos antecedentes estampados nas anotações de nº 02, 03 e 04 de sua FAC, devidamente esclarecidas na certidão de fls.164/165, fixo a pena base acima do mínimo legal em três anos e oito meses de reclusão, e setecentos e sessenta dias-multa com base no coeficiente mínimo legal.
+Considerando que o acusado é reincidente, conforme se vê pela anotação de nº 06 de sua FAC, já devidamente esclarecida na certidão de fls. 164/165, aumento a pena em um quarto, restando a mesma em quatro anos e sete meses de reclusão e novecentos e cinquenta dias-multa com base no coeficiente mínimo legal.
+Em razão da causa de aumento do art. 40, inciso IV da Lei 11.343106 reconhecida e, considerando a potencialidade lesiva no caso em tela, com a utilização pelo réu de uma pistola calibre 380, aumento a pena em um terço, restando a mesma em SEIS ANOS, UM MÊS E DEZ DIAS DE RECLUSÃO E MIL, DUZENTOS E SESSENTA E SEIS DIAS-MULTA com base no coeficiente mínimo legal, as quais tomo DEFINITIVAS por não haver outra causa modificadora.
+DA RESISTÊNCIA
+O acusado tem péssimos antecedentes estampados nas anotações de nº 02, 03 e 04 de sua FAC, devidamente esclarecidas na certidão de fls.164/165, e ainda praticou o crime em tela, por meio de disparos de arma de fogo que levaram perigo, não só a integridade dos agentes em atuação legítima, como a das pessoas que ali se encontravam, e, assim, por todas estas razões fixo a pena base acima do mínimo legal em um ano e quatro meses de reclusão.
+Considerando que o acusado é reincidente, conforme se vê pela anotação de nº 06 de sua FAC, já devidamente esclarecida na certidão de fls. 164/165, aumento a pena em um quarto, restando a mesma em UM ANO E OITO MESES DE RECLUSÃO, a qual torno DEFINITIVA.
+As penas corporais somadas (art.69, CP), totalizam quinze anos, três meses e dez dias de reclusão e as de multa em dois mil e dezesseis dias-multa com base no coeficiente mínimo legal" (fls. 34-35, grifei).
+O Tribunal de Justiça fluminense, por sua vez, majorou a pena do delito de tráfico ilícito de entorpecentes, mantendo os demais termos da sentença, utilizando, para tanto, os seguintes fundamentos:
+"Com efeito, restou claro pelos depoimentos das testemunhas que a guarnição policial foi recebida a tiros por indivíduos que ali se encontravam, sendo certo que revidaram, ganhando terreno e avançando até a prisão do apelante, ferido, no local, com uma mochila contendo entorpecentes e a arma de fogo com o seu carregador e sua munição.
+ ..
+Ademais, se houve comprovadamente confronto armado, resultando em troca de tiros contra indivíduos que faziam tráfico naquele local e, tendo o réu sido ferido e preso na posse de arma de fogo, disparando contra a guarnição enquanto os demais corréus fugiam da noticiada "boca de fumo", dúvidas não restam de que o mesmo estava exercendo a nefasta mercancia de entorpecente se utilizando de arma de fogo para lograr êxito em sua empreitada criminosa. Logo, resta comprovada a incidência da causa especial de aumento de pena, estabelecida pelo artigo 40, IV da Lei de Drogas no crime tipificado no artigo 33 daquele diploma legal.
+ ..
+Resta, assim, plenamente positivada a prática do crime de resistência qualificada, tendo em vista que houve disparos de arma de fogo contra a guarnição policial, e esta conduta foi suficiente para obstar a operação policial naquele momento, porquanto não conseguiram efetuar a prisão dos demais agentes integrantes da facção criminosa em estado de flagrância, conforme ficou demonstrado nos depoimentos.
+Portanto, entendo que a materialidade e autoria encontram-se presentes para todos os crimes narrados na denúncia, bem como encontra-se presente a causa de aumento de pena estabelecida no artigo 40, inciso IV da Lei de Drogas, devendo incidir em ambos os crimes tipificados nos artigos 33 e 35 daquele mesmo diploma legal, já que restou comprovado que a arma foi apreendida no mesmo contexto fático que as drogas, o que indica que o acusado a portava para a garantia do sucesso da traficância.
+ ..
+Quanto ao crime de tráfico de drogas, artigo 33 da Lei 11.343/06:
+ ..
+Na segunda fase, mantenho da mesma forma, tal qual lançada na sentença recorrida, em sete anos e seis meses de reclusão e setecentos e cinquenta dias-multa, com base no coeficiente mínimo legal.
+ ..
+Na terceira fase, com o reconhecimento da causa de aumento de pena estabelecida no artigo 40, IV da Lei de Drogas, exaspero a pena secundária em 1/3 (um terço) e fixo a reprimenda definitiva em 10 (dez) anos de reclusão e mil dias-multa.
+Mantenho os demais termos da sentença no que se refere às condenações do acusado nas sanções dos art. 35, c/c art. 40, IV, ambos da Lei de Drogas, e artigo 329, § 1º do CP, fixando a pena definitiva em 17 (dezessete) anos, 09 (nove) meses e 10 (dez) dias de reclusão e 2266 (dois mil, duzentos e sessenta e seis) dias-multa, em sua unidade mínima" (fls. 41-48, grifei).
+Quanto ao aumento operado pela reincidência, como é cediço, o Código Penal não estabelece limites mínimo e máximo de aumento ou diminuição da pena em razão de circunstâncias agravantes ou atenuantes, cabendo ao magistrado fixar o patamar necessário dentro de parâmetros razoáveis e proporcionais.
+Nesse contexto, predomina nesta Corte o entendimento de que o aumento da pena em patamar superior a 1/6, em virtude da incidência de circunstância agravante, demanda fundamentação concreta e específica para justificar o incremento em maior extensão. Nesse sentido: HC n. 387.586/RJ, Sexta Turma, Rel. Min. Antônio Saldanha Palheiro, DJe de 17/4/2017; e HC n. 298.050/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 3/3/2017.
+No caso, o Tribunal de origem manteve a fração de aumento decorrente da reincidência em percentual maior do que 1/6 (um sexto) sem motivação alguma.
+No que toca ao percentual de aumento relativo à causa de aumento de pena prevista no inciso IV do art. 40 da Lei de Drogas, observa-se a existência de motivação idônea a justificar a adoção da fração de 1/3 (um terço). As instâncias ordinárias apontaram a lesividade da arma apreendida - pistola 380 municiada com 7 sete cartuchos (fl. 16) - como elemento apto a sustentar a eleição de maior fração. Ademais, por ocasião da prisão em flagrante, o paciente disparou arma de fogo contra os policiais responsáveis pela prisão, situação que evidencia a necessidade de maior reprovação da conduta delitiva.
+Nesse contexto, mantendo os critérios dosimétricos empregados pelas instâncias ordinárias, passo ao recálculo das penas.
+DO TRÁFICO ILÍCITO DE ENTORPECENTES
+Conservo a pena-base em 6 (seis) anos de reclusão, mais o pagamento de 600 (seiscentos) dias-multa.
+Majoro a sanção em 1/6 (um sexto), tendo em vista a agravante da reincidência, de modo a elevar a pena para 7 (sete) anos, mais o pagamento de 700 (setecentos) dias-multa.
+Na terceira etapa, exaspero a reprimenda em 1/3, haja vista a causa de aumento de pena prevista no inciso IV do art. 40 da Lei de Drogas. Assim, a pena alcança o quantum de 9 (nove) anos e 4 (quatro) meses de reclusão, mais o pagamento de 933 (novecentos e trinta e três) dias-multa.
+DA ASSOCIAÇÃO PARA O TRÁFICO
+Conservo a pena-base em 3 (três) anos e 8 (oito) meses de reclusão, mais o pagamento de 760 (setecentos e sessenta) dias-multa.
+Majoro a sanção em 1/6 (um sexto), tendo em vista a agravante da reincidência, de modo a elevar a pena para 4 (quatro) anos, 3 (três) meses e 10 (dez) dias de reclusão, mais o pagamento de 886 (oitocentos e oitenta e seis) dias-multa.
+Na terceira etapa, exaspero a reprimenda em 1/3, haja vista a causa de aumento de pena prevista no inciso IV do art. 40 da Lei de Drogas. Assim, a pena alcança o quantum de 5 (cinco) anos, 8 (oito) meses e 13 (treze) dias, mais o pagamento de 1.181 (mil cento e oitenta e um) dias-multa.
+DA RESISTÊNCIA
+Conservo a pena-base em 1 (um) ano e 4 (quatro) meses de reclusão.
+Majoro a sanção em 1/6 (um sexto), tendo em vista a agravante da reincidência, de modo a elevar a pena para 1 (um) ano, 6 (seis) meses e 20 (vinte) dias de reclusão. Ausente causas de aumento ou de diminuição de pena.
+Em razão do concurso material de crimes, fixo a pena definitiva em 16 (dezesseis) anos, 7 (sete) meses e 3 (três) dias de reclusão, mais o pagamento de 2.114 (dois mil cento e quatorze) dias-multa.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de, tão somente, redimensionar a pena do paciente em 16 (dezesseis) anos, 7 (sete) meses e 3 (três) dias de reclusão, mais o pagamento de 2.114 (dois mil cento e quatorze) dias-multa, mantidos os demais termos da condenação.
+P. e I.
