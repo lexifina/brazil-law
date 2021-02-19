@@ -1,0 +1,7 @@
+DECISÃO
+Vistos.
+Verifico que a presente controvérsia envolve tema com repercussão geral reconhecida pelo Supremo Tribunal Federal (TEMA n. 1.075, RE n. 1.101.937 RG/SP, DJe 27.02.2020), com a determinação de suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, a teor do disposto no art. 1.035, § 5º, do estatuto processual, consoante espelha a seguinte ementa:
+RECURSO EXTRAORDINÁRIO. ART. 16 DA LEI 7.347/1985, COM A REDAÇÃO DADA PELA LEI 9.494/1997. CONSTITUCIONALIDADE. REPERCUSSÃO GERAL RECONHECIDA. 1. Revela especial relevância, na forma do art. 102, § 3º, da Constituição, a questão acerca da constitucionalidade do art. 16 da Lei 7.347/1985, com a redação dada pela Lei 9.494/1997, segundo o qual a sentença na ação civil pública fará coisa julgada erga omnes, nos limites da competência territorial do órgão prolator. 2. Repercussão geral da matéria reconhecida, nos termos do art. 1.035 do CPC.
+(RE 1.101.937 RG, Rel. Min. ALEXANDRE DE MORAES, julgado em 13/02/2020, PROCESSO ELETRÔNICO DJe-040 DIVULG 26-02-2020 PUBLIC 27-02-2020 - destaque meu).
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos do Recurso Extraordinário acima identificado, a fim de que, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
