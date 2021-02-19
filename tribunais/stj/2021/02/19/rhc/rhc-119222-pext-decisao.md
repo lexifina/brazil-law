@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se  de  pedido  de  extensão ,  formulado  por  DUCIOMAR GOMES  DA  COSTA,  ELAINE  BAIA  PEREIRA  e  ILZA  BAIA  PEREIRA,  da  decisão  de  fls.  1.234-1.242,  em  que  tranquei  o  Processo-crime  n.  0032941-45.2018.4.01.3900  em  relação  ao  Recorrente  FERNANDO  MENDES  PEREIRA.
+No  presente  pedido  alegam  os  Requerentes,  em  suma,  que  a  denúncia  com  relação  a  eles  também  é  inepta,  pois  "não  apresentou  elementos  informativos  diversos  dos  obtidos  em  colaborações  premiadas,  estando  os  corréus  DUCIOMAR  GOMES  DA  COSTA,  ELAINE  BAIA  PEREIRA  e  ILZA  BAIA  PEREIRA  enquadrados  em  situação  idêntica  à  do  paciente"  (fl.  1.250).
+Pugnam,  ao  final,  pela  " extensão  dos  efeitos  benéficos  da  decisão  proferida  no  presente  RHC  em  17/12/2020,  a  fim  de  que  a  Ação  Penal  nº  32941-  45.2018.4.01.3900  seja  de  igual  modo  trancada  em  relação  aos  corréus  Duciomar  Gomes  da  Costa,  Elaine  Baia  Pereira  e  Ilza  Baia  Pereira,  nos  termos  do  Art.  580,  do  CPP"  (fl.  1.251).
+É  o  relatório.  Decido.
+A  pretensão  dos  Requerentes  é  incognoscível.
+Ao  proferir  a  decisão  de  fls.  1.234-1.242,  ressaltei  que  a  Relatora  do  acórdão  de  segundo  grau  concluiu  que  havia  outro  elemento  além  da  colaboração  premiada  de  EDSON  EVANGELISTA  MARINHO  FILHO  para  justificar  o  recebimento  da  denúncia  contra  o  Recorrente  FERNANDO  MENDES  PEREIRA,  qual  seja,  o  depoimento  do  ex-funcionário  da  Andrade  Gutierrez  ITAMAR  VILAÇA  DE  OLIVEIRA.
+No  referido  ato  concluí,  todavia,  que  na  denúncia  não  havia  qualquer  menção  à  prova  produzida  oralmente  pela  testemunha  Itamar  que  vinculasse  Fernando  aos  fatos  em  apuração.
+Para  a  devida  compreensão,  reproduzo  o  que  consta  na  peça  acusatória  do  Parquet  Federal  sobre  a  prova  oral  produzida  a  partir  da  oitiva  de  Itamar  Vilaça  de  Oliveira,  na  qualidade  de  testemunha  (fls.  68-70):
+"DEPOENTE  (ITAMAR  VILAÇA  DE  OLIVEIRA):
+"Em  2005,  tinha  acontecido  as  eleições,  e  eu  cheguei  aqui  em  meados  de  2005,  a  gente  acompanhou  aquelas  eleições  todas  e  o  candidato  que  ganhou  as  eleições  foi  o  Duciomar  Costa.  Eu  não  tinha  nenhuma  relação..  não  conhecia  o  Duciomar.  Mas  eu  via  uma  oportunidade  de  me  aproximar  e  ..  né  Ver  o  quê  que  dava  para  gente  conversar,  pra  gente  poder  desenvolver  algum  projeto.  Então  ele  estava  naquela  oportunidade  como  Senador  da  República  ainda,  lá  em  Brasília,  eu  marquei  uma  audiência  com  ele  e  me  recebeu,  foi  quando  eu  fiquei  conhecendo  o  Duciomar  Costa.  Nessa  oportunidade,  nessa  ..  nessa  ..  nessa  conversa..  nessa  reunião,  ele  chamou  um  assistente  dele,  um  assessor  dela,  que  era  o  Sérgio  Pimenel  e  mais  o  Jean  Barros,  que  é  parente  dele  ou  da  mulher  dele,  não  sei  precisar,  mas  que  ..  era  alguém  da  intimidade  dele,  vamos  chamar  assim."
+(..)
+DEPOENTE  (ITAMAR  VILAÇA  DE  OLIVEIRA):
+"Bom,  e  naquela  oportunidade  da  reunião,  eu  levei  uma  ideia  para  ele.  Belém  é  uma  cidade  interessante,  ela  tá..  ela  é  uma  península..  ela  tem  um  rio  na  volta  e  você  não  conseguia  ver  o  rio..  você  tinha  ali  as  Docas  que  o  governo  do  Estado  tinha  feito,  que  é  uma  janela  pequena  e  não  tinha  mais,  você  não  via..  o  que  é  uma  pena  né  E  aí  a  empresa  deu  uma  ideia  de  oferecer..  de  mostrar  uma  possibilidade  de  fazer  uma  janela  ..  pro  rio,  que  seria  uma  avenida  que  contornasse  a  orla,  tá  certo  (..)  E  nós  começamos  a  desenvolver  internamente,  fizemos  um  anteprojeto,  e  estudos  e  "tarará"  e  recursos,  que  não  tinha  recursos  a  prefeitura  não  tinha  recursos,  mas  a  ideia  era  a  gente  captar  esse  contrato  entendeu  E  fizemos  toda  a  preparação,  pra  prefeitura..  eu  não  conhecia  as  pessoas,  a  prefeitura  tinha  uma  estrutura  de  obras,  não  muito  forte,  né  E  uma  coisa  que  esqueci  de  falar  é  que  nessa  oportunidade  o  Duciomar  achou  a  ideia  interessante,  ele  orientou  para  que  a  gente  desenvolvessem  esse  assunto  todo  como  o  Sérgio  Pimentel,  a  partir  dai,  todos  os  contatos  que  nós  tivemos  foi  com  o  Sérgio,  entendeu  (..)"
+ .. .
+DEPOENTE  (ITAMAR  VILAÇA  DE  OLIVEIRA):
+"E  durante  a  negociação  dessa  obra..  foi  feito  uma  negociação  com  o  Sérgio  Pimentel,  no  sentido  de  repassar  recursos,  que  viriam  do  resultado  desse  contrato  naturalmente,  né  E  ficou  acertado  então  que  a  gente  repassaria  7%  pro  Duciomar  Costa  e  1%  seria  pro  Sérgio  Pimentel,  isso  numa  primeira  negociação."
+ .. .
+PROCURADOR  DA  REPÚBLICA  (UBIRATAN  CAZETTA):
+"E  nesse  primeiro  contato  lá,  com  o  então  Senador,  ainda  antes  dele  assumir,  estavam  presentes  os  três:  ele,  o  Sérgio  e  o  Jean "
+DEPOENTE  (ITAMAR  VILAÇA  DE  OLIVEIRA):
+"Isso."
+PROCURADOR  DA  REPÚBLICA  (UBIRATAN  CAZETTA):
+"Nesse  momento,  já  nesse  primeiro  contato,  já  se  colocou  essa  questão  de:  "olha,  um  percentual  vai  ser  pago  pra  alguém.. "
+DEPOENTE  (ITAMAR  VILAÇA  DE  OLIVEIRA):
+"Não,  não,  não  se  comentou.  Eu  nunca  negociei  nada  na  presença  do  Duciomar,  como  ele  terceirizou  o  assunto  para  o  Sério  Pimentel,  e  o  Sérgio  Pimentel  é  um  sujeito  que  trabalha  muito  forte,  um  cara  eficiente,  não  foi  necessário  eu  ir  com  o  Duciomar.  Eu  encontrei  com  o  Duciomar  nessa  oportunidade  e  depois  no  lançamento  da  obra.  Ele  fez  um  evento  lá..  teve  um  show  lá  de  cantores  aqui  da  região,  foi  quando  eu  encontrei  com  ele  pela  segunda  vez.  Eu  não  tive  muito  contato  com  ele."
+PROCURADOR  DA  REPÚBLICA  (UBIRATAN  CAZETTA):
+"Agora  ele  deixou  claro  que  os  dois,  que  o  Jean  e  que  o  Sérgio  atuavam  em  nome  dele "
+DEPOENTE  (ITAMAR  VILAÇA  DE  OLIVEIRA):
+"Sim,  sim,  tanto  que  não  foi  necessário..  nós  desenvolvemos  esse  trabalho  todo  de  preparação,  do  anteprojeto  à  obra,  depois  o  projeto  executivo,  e  a  parte  e  licitação  toda  com  o  Sérgio,  entendeu ".
+PROCURADOR  DA  REPÚBLICA  (UBIRATAN  CAZETTA):
+"Isso  tudo  então..  o  desenho  da  obra  começou  antes  dele  tomar  posse  e  depois  com  a  posse  ai  já  iniciou.."
+DEPOENTE  (ITAMAR  VILAÇA  DE  OLIVEIRA):
+"Consolidou,  consolidou.  Quando  ele  autorizou  que  a  gente  desenvolvesse  com  o  Sérgio,  a  gente  aproximou  do  Sérgio  né  isso  E  a  gente  foi  tocando  a  quatro  mãos  e  tal,  as  ideias  como  é  que  era,  como  é  que  não  era,  tudo  direitinho  pra  fazer  um  projetinho  executivo".
+ .. .
+"E  durante  a  negociação  dessa  obra..  foi  feito  uma  negociação  com  o  Sérgio  Pimentel,  no  sentido  de  repassar  recursos,  que  viriam  do  resultado  desse  contrato  naturalmente,  né  E  ficou  acertado  então  que  a  gente  repassaria  7%  pro  Duciomar  Costa  e  1%  seria  pro  Sérgio  Pimentel,  isso  numa  primeira.  negociação."  "Como  a  gente  tava  abrindo  mercado,  aquele  mercado  aqui  da  prefeitura..  nós  conseguimos  que  a  cúpula  da  empresa  aprovasse  esse  valor  de  7%  que  nunca  foi  muito  bem-visto  (dentro  da  empresa)  não,  viu "."
+Daí,  em  razão  desse  fragmento  da  denúncia,  constatei  que  o  Parquet  não  se  desincumbiu  do  seu  ônus  de,  ao  acusar  o  Recorrente  FERNANDO  MENDES  PEREIRA,  declinar  elementos  de  provas  diversos  dos  obtidos  em  colaboração  premiada.
+Consignei,  ainda,  que  na  peça  acusatória  não  havia  quaisquer  informações  sobre  a  prova  obtida  na  fase  inquisitorial  que  vinculasse  os  depoimentos  da  testemunha  Itamar  a  Fernando.  Independentemente  de  constar  ou  não  nos  documentos  dos  autos  que  instruem  a  causa  principal  tais  referências,  para  a  validade  formal  da  denúncia contra Fernando,  deveria  haver  essa  menção  expressa  consignada  na  peça.
+Em conclusão, na  decisão de fls.  1.234-1.242, limitei-me a analisar sena denúncia e nos atos decisórios havia referências de EDSON  EVANGELISTA  MARINHO  FILHO e ITAMAR  VILAÇA  DE  OLIVEIRA a  FERNANDO  MENDES  PEREIRAválidas para legitimar sua persecução penal.
+Todavia,os fragmentos das peças processuais que examineinada dizem respeito aos ora RequerentesDUCIOMAR  GOMES  DA  COSTA,  ELAINE  BAIA  PEREIRA  e  ILZA  BAIA  PEREIRA.
+Assim,  nem sequer há como analisar se ocorre identidade  de  situações  fáticas  e  jurídicas  necessárias  à  extensão  dos  efeitos  (art.  580  do  Código  de  Processo  Penal)  na  hipótese. Os ora Requerentes devem veicular suas pretensões defensivas nas vias processuais adequadas.
+A  propósito,  m  enciono,  desta  Corte,  o  seguinte  precedente:
+" ..  PEDIDO  DE  EXTENSÃO  DOS  EFEITOS  DA  ORDEM  DE  HABEAS  CORPUS  CONCEDIDA  AO  RECORRENTE.
+1.  O  pedido  de  extensão  da  ordem  de  habeas  corpus,  fundamentado  no  art.  580  do  CPP,  pressupõe  que  a  situação  fático-processual  do  requerente  seja  idêntica  à  do  beneficiado,  o  que  não  se  observa  no  caso  sob  exame.
+2.  Pedido  de  extensão  não  conhecido.  .. "  (RHC  71.923/PA,  Rel.  Ministro  REYNALDO  SOARES  DA  FONSECA,  QUINTA  TURMA,  julgado  em  20/09/2016,  DJe  26/09/2016.)
+Cito,  ainda,  com  igual  conclusão:  PExt  no  HC  n.  423.527/RJ,  Rel.  Ministra  LAURITA  VAZ,  decisão  monocrática , DJe  05/11/2019; PExt  no  RHC  n.  128.692/DF,  Rel.  Ministra  LAURITA  VAZ,  decisão  monocrática , DJe  13/10/2020.
+Ante  o  exposto,  NÃO  CONHEÇO  do  pedido  de  extensão.
+Publique-se.  Intimem-se.
+EMENTA
+PEDIDO  DE  EXTENSÃO  EM  HABEAS  CORPUS.  ART.  580  DO  CÓDIGO  DE  PROCESSO  PENAL.  HIPÓTESE EM QUE NÃO HÁ COMO ANALISAR A ALEGADA IDENTIDADE  DE  SITUAÇÕES  FÁTICAS  E  JURÍDICAS  NECESSÁRIAS  À  PRETENDIDA  EXTENSÃO  DOS  EFEITOS.  PEDIDO  DE  EXTENSÃO  NÃO  CONHECIDO.
