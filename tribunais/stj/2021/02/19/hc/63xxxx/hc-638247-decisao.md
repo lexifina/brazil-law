@@ -1,0 +1,17 @@
+DECISÃO
+EWERTON ALMEIDA ALVES alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus Criminal nº 2277873-63.2020.8.26.0000.
+A defesa alega que o apenado preenche os requisitos necessários para a obtenção da progressão de regime e que a exigência de exame criminológico não está fundamentada.
+Requer o deferimento do benefício.
+O Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+O Juiz da VEC assim fundamentou a exigência de exame criminológico, a fim de melhor apreciar o pedido do reeducando, de progressão de regime (fl. 46):
+ ..  converto o julgamento em diligência para que sejam trazidos aos autos elementos atinentes à personalidade do agente, uma vez que ostenta condenação por crime praticado em condições reveladoras de agressividade e elevada lesividade, além de longa reprimenda a cumprir (até 2030), o que exige do Estado-juiz maior cautela para conceder a benesse reclamada  ..
+O Tribunal de Justiça, por sua vez, assinalou: "No caso vertente, a aptidão do reeducando em reconquistar parcela expressiva da liberdade esbarra em dúvida decorrente da longa pena a cumprir e pela condenação em delito praticado mediante grave ameaça" (fl. 46).
+A progressão de regime perfaz-se com a transferência gradativa do apenado para regime menos rigoroso quando implementados os requisitos do art. 112 da LEP.
+A "análise do requisito subjetivo pressupõe a verificação domérito do condenado, que não está adstrito ao "bom comportamento carcerário", como faz parecer a literalidade da lei, sob pena de concretizar-se o absurdo de transformar o diretor do presídio no verdadeiro concedente do benefício e o juiz em simples homologador"(RHC 121851, Rel. MinistroLuiz Fux, Primeira Turma, DJe 16/6/2014).
+Entretanto, para justificar a falta de capacidade do apenado de ser promovido a regime menos rigoroso,o Juiz tem de indicar dados relacionados àprópria execução penal. Essa é a exegeses da Súmula n. 439 do STJ: "Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+Ésuficiente para a promoção do reeducandoo cumprimento do requisito objetivo e o bom comportamento, atestado pelo diretor do estabelecimento prisional, salvo quando justificada a necessidade de exame criminológico, com fundamento em decisão não abstrata, lastreada nascircunstâncias concretas da execução da pena.
+Na decisão atacada, não há fundamentação idônea para a exigência do exame criminológico. As instâncias ordinárias se limitaram a indicar fatores estranhos ao período de resgate da pena(gravidade do crime praticado e longa pena a cumprir) para suscitar dúvida quanto ao requisito subjetivo do art. 112 da LEP.
+Aplica-se ao caso o entendimento pacífico de que:"fatores relacionados ao crime são determinantes da pena aplicada, mas não fundamentam tratamento diverso à negativa da progressão de regime ou livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução" (AgRg no HC 567.402/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 8/6/2020).
+À vista do exposto,concedo o habeas corpus, para determinarao Juiz das Execuções que reexamine opedidode progressão de regime formuladopelo paciente,afastada aconsideração de fatos não relacionados à própriaexecução ou muito antigos, assim consideradosos praticados há mais de2 anos.
+Publique-se e intimem-se.
