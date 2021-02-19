@@ -1,0 +1,59 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por MARIA ALCILANDIA DE SOUSA ALMEIDA e Outrocontra decisão do Tribunal de Justiça de São Pauloque não admitiu recurso especial manejado contra acórdão, assim ementado:
+Embargos de terceiro. Preliminares afastadas. Constrição que recaiu sobre imóvel de titularidade das embargantes. Executado que firmou compromisso de compra e venda para aquisição do bem, mas rescindiu a avença em 01.02.2011, por impossibilidade de pagamento. Ausência de averbação do instrumento de rescisão na matrícula do imóvel que não obsta a pretensão buscada nesta ação. Súmula 84, STJ. Documento de rescisão apresentado pelo executado nos autos principais e cuja autenticidade foi confirmada pelas embargantes. Penhora sobre o imóvel que já havia sido afastada anteriormente, em decisão mantida pelo Tribunal, ao fundamento de não pertencer ao executado diante da rescisão do contrato de compra e venda. Embargada que reiterou o pedido, pretendendo rediscutir a questão sem quaisquer fundamentos novos. Ônus de sucumbência que devem ser arcados pela apelante, que insiste na manutenção da constrição, cuja impossibilidade já restou superada. Sentença integralmente mantida. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 1.247 e 1.267 do CC;arts. 85, § 2º e 674, §2º do CPC.
+Sustenta que além da ausência de averbaçãoda rescisão do contrato de compra e venda na matrícula do imóvel,o documento de rescisão juntado pelas recorridas não possui qualquer validade jurídica para atestar o suposto distrato da promessa de venda e compra, eis que NÃO FOI ASSINADO PELA EMPRESA!
+Afirma, também, que as recorridas sequer se encaixam na qualidade de possuidoras do imóvel conforme prevê as hipóteses do art. 674, § 2º. do CPC. (e-STJ 1.162)
+Por fim, aduz que o honorários sucumbenciais devem ser reduzido, porque fixados em patamar elevado diante das peculiaridades do caso dos autos.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A Corte de origem, soberana na análise do conteúdo fático-probatório dos autos, assim decidiu a demanda concernente aos embargos de terceiro:
+É inequívoca a legitimidade ativa das embargantes, uma vez que, não atuando como partes no processo de execução e na qualidade de detentoras do domínio do imóvel sobre o qual recaiu a constrição (fls.770/771), têm reservada para si a pretensão de desfazimento da penhora por meio de embargos de terceiro, consoante art. 674, caput e §1º do CPC.
+(..)
+No mais, ao contrário do que alega a embargada, restou devidamente comprovada a rescisão do compromisso de compra e venda havido entre as embargantes e o executado, referente ao imóvel penhorado, em01.02.2011, ainda que a rescisão não tenha sido averbada na matrícula do imóvel.
+Anote-se, por oportuno, que tanto a promissária vendedora quanto o promissário comprador apresentaram o mesmo instrumento de rescisão, sendo que o executado juntou, nos autos principais, o documento assinado por ele, com firma reconhecida (fls. 784/785). É irrelevante, assim, que o documento não contenha a assinatura da promissária vendedora, já que ela devidamente apresentou a via do proprietário (fls. 772/773), reconhecendo a autenticidade do documento juntado pelo executado.
+No mais, ainda que assim não fosse, certo é que o executado figurava na matrícula do imóvel tão somente como promissáriocomprador, de modo que não poderia mesmo subsistir a constrição sobre imóvel cuja titularidade do domínio pertencia a terceiros, no caso, as embargantes.
+E a falta de averbação da rescisão do contrato na matrícula do imóvel não obsta a pretensão buscada nesta ação, já que, conforme a Súmula 84 do C. STJ,"É admissível a oposição de embargos de terceiro fundados em alegação de posse advinda do compromisso de compra e venda de imóvel, ainda que desprovido do registro"
+(..)
+Ademais, é certo que a questão atinente à impossibilidade de penhora sobre o imóvel de matrícula nº 136.712 já havia sido decidida pelo juízo de primeiro grau, e mantida pelo Tribunal após insurgência da exequente embargada, conforme relatado. Beira a litigância de má-fé, portanto, a reiteração de pedido já superado, juntando os mesmos documentos analisados anteriormente e sem quaisquer novos fundamentos que justificassem a reapreciação, induzindo a erro o douto Magistrado prolator da decisão que deferiu a penhora sobre o bem em litígio.(e-STJ fls. 1.152/1.153)
+Desse modo, além da conclusão jurídica do acórdão estar em harmonia com a jurisprudência desta Corte, alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o reexame de matéria fático-probatória, o que é vedado em recurso especial, ante o teor da Súmula 7 do STJ.
+A propósito:
+RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO.CESSÃO DE DIREITOS HEREDITÁRIOS. BEM DETERMINADO. NULIDADE.AUSÊNCIA. NEGÓCIO JURÍDICO VÁLIDO. EFICÁCIA CONDICIONADA QUE NÃO IMPEDE A TRANSMISSÃO DA POSSE.
+1. ..
+7. Admite-se a oposição de embargos de terceiro fundados em alegação de posse advinda do compromisso de compra e venda de imóvel, mesmo que desprovido do registro, entendimento que também deve ser aplicado na hipótese em que a posse é defendida com base em instrumento público de cessão de direitos hereditários. Súmula nº 84/STJ.
+8. Peculiaridades da causa que recomendam a manutenção da posse do imóvel em favor da embargante/cessionária.
+9. Recurso especial não provido.
+(REsp 1809548/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIROS - DECISÃO MONOCRÁTICA QUE RECONSIDEROU A DELIBERAÇÃO ANTERIOR, E, DE PLANO, DEU PARCIAL PROVIMENTO AO RECLAMO.INSURGÊNCIA DO EMBARGADO.
+1.  ..
+2.1. A revisão do entendimento acerca da suficiência dos elementos probatórios reclama, necessariamente, o reenfrentamento do conjunto fático-probatório dos autos, o que é vedado, na via do recurso especial, ante o óbice da Súmula 7/STJ.
+3. Esta Corte Superior de Justiça tem entendimento no sentido de que a incidência do referido óbice impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+4. Agravo interno desprovido.
+(AgInt no AgInt no REsp 1692725/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020)
+No que tange à pretensão de revisão dos honorários sucumbenciais, a insurgência não merece acolhida, uma vez que o conhecimento do recurso especial é obstado pelo teor da Súmula 7 do STJ.
+A jurisprudência do STJ entende não ser possível, por meio de recurso especial, rever os critérios de justiça e de razoabilidade utilizados pelas instâncias ordinárias para fixação da verba advocatícia, haja vista tal providência depender da reapreciação dos elementos fático-probatórios do caso concreto.
+Excetuadas as hipóteses em que o valor afigura-se manifestamente ínfimo ou
+exorbitante, o que não se verifica na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CONTRATO DE CONFISSÃO DE DÍVIDAS E OUTRAS AVENÇAS. EMBARGOS A EXECUÇÃO. OFENSA AO ART. 535 DO CPC. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. REQUERIMENTO DE MAJORAÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO PROBATÓRIO. SÚMULA N.7. DISSÍDIO JURISPRUDENCIAL. COTEJO NÃO REALIZADO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil, quando, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. Em sede de recurso especial, não é possível rever os critérios e o percentual adotado pelo julgador na fixação dos honorários advocatícios, por importar o reexame de matéria fático-probatória. A incidência da Súmula 7/STJ somente pode ser afastada quando o valor fixado for exorbitante ou irrisório, o que não ocorre no caso dos autos.
+3. A ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial, atraindo, como atrai, a incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+4. O conhecimento do recurso fundado na alínea "c" do permissivo constitucional pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu o recorrente 5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1238024/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/03/2016, DJe 21/03/2016)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. 1. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. ART. 1.024, § 3º, DO CPC/2015. OBSERVÂNCIA. 2.NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 3. AUSÊNCIA DE DEMONSTRAÇÃO, NO CASO, DO DANO MORAL INDENIZÁVEL. INCIDÊNCIA DA SÚMULA 7/STJ. 4. HONORÁRIOS SUCUMBENCIAIS. REVISÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. 5.
+LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. 6. AGRAVO INTERNO DESPROVIDO.
+1. Sendo manifesto o intuito infringente dos embargos de declaração opostos, é possível o seu recebimento como agravo interno, desde que determine previamente a intimação da parte recorrente para complementar as razões recursais, nos termos do art. 1.024, § 3º, do CPC/2015, como ocorrido na espécie.
+2. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. Inafastável a incidência da Súmula 7/STJ à hipótese, uma vez que a desconstituição da cognição do acórdão guerreado (acerca da inexistência de ato ilícito capaz de ensejar a reparação na forma em que pretendida pelo insurgente) demandaria o reexame das provas do processo em análise.
+4. Os honorários sucumbenciais foram fixados em patamar que observou os princípios da razoabilidade e da proporcionalidade, de acordo com as peculiaridades do caso. Rever o entendimento do acórdão a quo demandaria a incursão na seara probatória, o que é vedado pela Súmul a 7/STJ.
+5. Nos termos da jurisprudência desta Corte Superior, a interposição de recursos cabíveis não implica "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos Edcl no REs p n. 1.333.425/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 27/11/2012, DJe 4/12/2012).
+6. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1655525/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. PENHORA SOBRE IMÓVEL. RESCISÃO DA COMPRA E VENDA DEVIDAMENTE COMPROVADA. REEXAME. SÚMULA 7 DO STJ. AUSÊNCIA DE AVERBAÇÃO NA MATRÍCULA QUE NÃO OBSTA A OPOSIÇÃO DOS EMBARGOS DE TERCEIRO. ENTENDIMENTO EM HARMONIA COM O ENTENDIMENTO DO STJ. REVISÃO DA SUCUMBÊNCIA. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
