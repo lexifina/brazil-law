@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por ESTER ALVES SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (HC n. 1.0000.20.572378-6/000).
+A recorrente foi presa em flagrante por suposta prática do delito previsto no art. 33 da Lei n. 11.343/06, sendo o flagrante convertido em prisão preventiva.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem.
+Sustenta a recorrente a ausência de fundamentação idônea para a decretação de sua prisão preventiva, que teria sido baseada na gravidade abstrata do delito, destacando a possibilidade de aplicação de medidas cautelares diversas à prisão, previstas no art. 319 do Código de Processo Penal, e/ou a concessão da prisão domiciliar, tendo em vista a pandemia de Covid-19.
+A liminar foi indeferida e a manifestação ministerial pelo parcial provimento.
+A ação penal originária aguarda audiência de instrução e julgamento (fl. 264).
+É o relatório.
+DECIDO.
+O decreto prisional foi assim fundamentado (fl. 102-103):
+As substâncias entorpecentes apreendidas são de expressiva quantidade, de natureza diversificada, relativas a 21 (vinte e uma) barras de maconha, pesando 20.655,99kg; 15 (quinze) barras de crack, subproduto da cocaína, pesando 16.490,00kg; 15 (quinze) porções de cocaína, pesando 15.130,00kg, denotando a presença veemente de indícios da mercancia ilícita dos entorpecentes. As drogas foram submetidas a exame preliminar, que de fato constatou que se tratavam de substâncias entorpecentes, de uso e comércio proscrito, demonstrando a materialidade delitiva e a alta potencialidade lesiva da conduta, diante da grande quantidade e variedade de entorpecente apreendido.
+ ..
+Em relação à autuada Ester Alves da Silva, ainda que se denote sua primariedade, em sua posse direta fora apreendida grande quantidade de dinheiro e drogas, emergindo no tocante a ela indícios da autoria e materialidade delitivas, de tal forma que eventual deferimento de liberdade provisória em se favor, face à gravidade dos fatos apurados no presente APFD, tornariam vulnerável a ordem pública  ..
+Como se observa, foi decretada a prisão preventiva diante de fundamentos idôneos em razão da mais lesiva gravidade delitiva diante da grande quantidade e variedade de entorpecente apreendido (maconha - 20.655,99kg; crack - 16.490,00kg;cocaína - 15.130,00kg).
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Conforme constou do exame liminar, no que diz respeito à aplicação da Recomendação CNJ n. 62/2020, ressalte-se que o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que a recorrente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à Covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, a recorrente não logrou comprovar a incidência de nenhuma das hipóteses acima descritas, razão pela qual não se verifica, em juízo sumário, o desrespeito à Recomendação CNJ n. 62/2020. Com efeito, destacou o relator na origem (e-STJ fl. 226):
+(..) todo o sistema penitenciário do Estado de Minas Gerais está sendo devidamente monitorado pelas autoridades competentes, em razão da pandemia gerada pelo Coronavírus, sendo que casos suspeitos estão isolados e pessoas em situação de risco devidamente monitoradas e acompanhadas pelos profissionais, hipótese não versada in casu.
+Assim, verifica-se que inexiste flagrante ilegalidade que justifique o provimento do recurso.
+Ante o exposto, nego provimento ao recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
