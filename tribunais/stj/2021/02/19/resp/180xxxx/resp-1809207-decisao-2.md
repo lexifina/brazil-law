@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interposto por JOÃO FERREIRA DE LIMAcontra decisão que inadmitiu recurso especial (e-STJ, fls. 2.285-2.289)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Pará,assim ementado (e-STJ, fls. 2.017-2.018):
+APELAÇÃO CIVEL DE SENTENÇA EM AÇÃO ORDINÁRIA. REJEITADAS AS PRELIMINARES DE ILEGITIMIDADE ATIVA, VIOLAÇÃO AO DEVIDO PROCESSO LEGAL E CERCEAMENTO DE DEFESA. NO MÉRITO CORRETA A APLICAÇÃO DE JUROS DE MORA E CORREÇÃO MONETÁRIA OS QUAIS DEVEM FLUIR ATÉ O PAGAMENTO DO DÉBITO. JUROS REMUNERATÓRIOS INCABÍVEIS NO CASO. PRESCRIÇÃO NÃO VERIFICADA. RECURSOS CONHECIDOS. IMPROVIDO O APELO INTERPOSTO PELO BANCO DO BRASIL E PARCIALMENTE PROVIDO O APRESENTADO PELO AUTOR DA AÇÃO.
+1. Tendo em vista que o banco depositário aufere lucro com o valor depositado, deve, quando instado a restituir a quantia depositada, pagar, além da correção monetária, os juros moratórias, sob pena de enriquecimento ilícito do auxiliar do juízo, motivo pelo qual os juros demora contam-se a partir do momento da recusa de devolução da quantia depositada.
+2. O banco depositário, ao conservar o capital pertencente ao Autor por mais de 40 anos, obteve lucro em detrimento da grave perda acarretada ao mesmo, incorrendo na prática de ilícito extracontratual, razão pela qual os juros moratórios incidem a partir do evento danoso, in casu, a data da injusta recusa em restituir integralmente o valor depositado, conforme inteligência da súmula 54 do STJ: "Os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual."
+3. Assim, por estes fundamentos, ficam mantidos a aplicação de juros como determinado na r. sentença.
+4. Relativamente à questão prescrição, invocada pelo ora recorrente, considero acertado o entendimento exposto na sentença, no sentido de que ela não ocorreu no caso, eis que o prazo prescricional de dez anos (nos termos do código civil anterior) teve início com a informação do Banco, em 24.07.1997, de que não mais havia os valores depositados, sendo interrompido com o ajuizamento da ação em 22.05.2003. Portanto, não há que se falar em consumação da prescrição no caso.
+5 "Vale ressaltar, em primeiro lugar, que o juiz não está adstrito ao laudo pericial, sendo-lhe facultado formar sua convicção com base em outros elementos dos autos. Nessa linha, considerando a existência de norma deste Tribunal regulando a matéria de correção de débitos judiciais, ela então deve ser aplicada aos casos que estão ao seu alcance.
+6; Relativamente a aplicação de juros, correta a aplicação, pelo juízo de origem, de juros de mora de 01% somente a partir de sua vigência em10/01/2003, na forma do art. 406 do novo Código Civil e aplicação de juros de 0,5% a partir de janeiro/1980 até 09/01/2003.
+7. Contudo, os juros e a correção monetária devem fluir até o efetivo pagamento da dívida, e não até data da sentença proferida, como sustentou o juízo a quo.
+8. Em relação aos juros remuneratórios, eles são devidos ao credor com objetivo de remunerar o empréstimo do capital. São os que possuem uma base contratual. Não é o que acontece no caso, tendo em vista que o Banco era depositário judicial dos valores em questão e não há notícia da existência de contrato com estipulação desses juros. Assim, tais juros não cabem ao ora apelante, autor da demanda.
+Opostos embargos de declaração, o acórdão recorrido foi integralizado pelas seguintes ementas:
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL EMBARGOS PROPOSTOS POR BANCO DO BRASIL NÃO PROVIDO POR AUSENCIA DE VICIOS NO JULGADO NO QUE FOI ALEGADO. EMBARGOS DE DECLARAÇÃO PROPOSTOS POR JOÃO FERREIRA LIMA PARCIALMENTE PROVIDOS PARA CORRIGENDA DE ERRO MATERIAL. IMPROVIDO NOS DEMAIS TERMOS ALEGADOS.
+1. Portanto, os embargos de declaração opostos pelo embargante Banco do Brasil não comportam provimento.
+2. Quanto ao primeiro argumento, a razão assiste ao embargante João Ferreira de Lima. De fato houve um equívoco no registro do marco inicial dos juros de mora.
+3. Conhecimento e improvimento do recurso oposto pelo Banco do Brasil S.A. Conhecimento e parcial provimento ao recurso oposto por João Ferreira Lima.
+(e-STJ, fl. 2.065)
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. OMISSÕES INEXISTENTES. RECURSO CONHECIDO E DESPROVIDO. PEDIDO DE APLICAÇÃO DE MULTA REJEITADO.
+1. Cediço que os embargos de declaração constituem recurso de efeito devolutivo de argumentação vinculada, ou seja, tal recurso só pode ser manejado quando tenha o intuito de suprir eventual lacuna havida no julgado, desde que provocada por omissão, contradição ou obscuridade.
+2. Em verdade, o embargante pretende rediscutir a decisão embargada, não havendo que se falar em omissão no julgado.
+3. Relativamente ao pedido de aplicação de multa suscitado pelo embargado, em suas contrarrazões, sob a justificativa de que o recurso tem caráter procrastinatório, entendo que não é o momento de aplicá-Ia, isso porque, em que pese a insistência do embargante em obter deste juízo pronunciamento sobre tema sobre o qual já fora exposta tese explicita, não vislumbro, por hora, o seu caráter protelatório.
+4. Recurso conhecido e improvido. Pedido de aplicação de multa rejeitado.
+(e-STJ, fl. 2.112)
+Nas razões do recurso especial, o recorrente, com base nas alíneas a e c do permissivo constitucional,defendeu a existência de divergência jurisprudencial e violação ao art. 629 do CC/2002.
+Sustentou, em síntese, a aplicação dos juros remuneratórios sobre os valores depositados judicialmente.
+Afirmou que a não incidência do encargoimpede a preservação e a garantia do patrimônio do depositante.
+Frisou inexistir impedimento legal para a cumulação dos juros remuneratórios e moratórios, uma vez que possuem naturezas distintas.
+Asseverou ser desnecessária a previsão contratual, visto que o depósito judicial não obedece às regras do Direito Privado.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls.2.285-2.289).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 2.291-2.317).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do presente recurso, oagravante alega ter cumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A respeito da tese defendida pelo recorrenteno recurso excepcional, o Tribunal de origem assim se manifestou (e-STJ, fl. 2.032):
+Em relação aos juros remuneratórios, eles são devidos ao credor com o objetivo de remunerar o empréstimo do capital. São os que possuem uma base contratual. Não é o que acontece no caso, tendo em vista que o Banco era depositário judicial dos valores em questão e não há notícia da existência de contrato com estipulação desses juros. Assim, tais juros remuneratórios não se sustentam.
+Do excerto acima transcrito, depreende-se que a Corte local entendeu não incidirem os juros remuneratórios no cálculo dos valores devidos pela instituição financeira ao recorrente, visto que inexisteprevisão contratual nesse sentido.
+Ocorre que o posicionamento do Tribunal a quo diverge da jurisprudência do Superior Tribunal de Justiça, a qual se manifesta no sentido de reconhecer a possibilidade de aplicação dos juros remuneratórios aos depósitos judiciais até o efetivo levantamento dos valores pelo depositante.
+A esse respeito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.EXPURGOS INFLACIONÁRIOS. DEPÓSITO JUDICIAL. AÇÃO PESSOAL. PRAZO PRESCRICIONAL. ARTIGOS 177 DO CC/1916, 205 E 2.028 DO CC/2002. JUROS REMUNERATÓRIOS. TERMO FINAL. ENCERRAMENTO DA CONTA. AGRAVO PARCIALMENTE PROVIDO.
+1. No que tange aos expurgos inflacionários incidentes sobre depósitos judiciais "por se tratar de obrigação de natureza pessoal, o prazo prescricional na hipótese é vintenário, na vigência do Código Civil anterior, e decenal, a partir da entrada em vigor do diploma atual" (REsp 963.150/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 23/06/2009, DJe de 17/11/2009).
+2. "Os juros remuneratórios, ante o encerramento da conta com o levantamento do depósito, são devidos até aquela data" (AgRg no REsp 601.866/RS, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2004, DJ de 11/10/2004, p. 322).
+3. Agravo interno a que se dá parcial provimento.
+(AgInt nos EDcl no REsp 1791347/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. CONTA POUPANÇA. JUROS REMUNERATÓRIOS. TERMO FINAL. DATA DE ENCERRAMENTO. CONTRATO DE DEPÓSITO.
+1. O art. 544, § 4º, II, "c", do Código de Processo Civil/1973, vigente à época em que proferida a decisão agravada, autorizava o relator a conhecer do agravo e dar provimento ao próprio recurso especial se o acórdão recorrido estivesse em confronto com súmula ou jurisprudência dominante no tribunal. 2. Os juros remuneratórios são devidos em virtude da utilização de capital alheio, de forma que, inexistindo quantia depositada, não se justifica a incidência de juros remuneratórios, pois o depositante não estará privado da utilização do dinheiro e o banco depositário não estará fazendo uso do capital de terceiros ou não terá a disponibilidade da pecúnia. Precedentes.
+3. A incidência dos juros remuneratórios, na espécie, se dá até o encerramento da conta-poupança, quer esta ocorra em razão do saque integral dos valores depositados, quer ocorra a pedido do depositante, com a consequente devolução do numerário depositado.
+4. Agravo regimental não provido.
+(AgRg no AREsp 700.783/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/04/2016, DJe 12/05/2016, g.n.)
+In casu, estando o banco recorrido na função de depositário desde 12/01/1973, deveincidir o encargo a partir desta data até o efetivo levantamento dos valores.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial deJOÃO FERREIRA DE LIMA, determinando a incidência de 0,5% dos juros remuneratórios sobre o valor do depósito judicial desde a data da abertura da conta até o efetivo levantamento da quantia.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. DEPÓSITO JUDICIAL. JUROS REMUNERATÓRIOS. INCIDÊNCIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL DEJOÃO FERREIRA DE LIMA.
