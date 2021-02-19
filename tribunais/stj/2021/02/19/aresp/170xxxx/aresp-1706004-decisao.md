@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por KAMYLA KRISTINA DOS REIS contra decisão do Tribunal de Justiça de São Paulo que não admitiu recurso especial manejado contra acórdão, assim ementado:
+COBRANÇA. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. Cobrança das três últimas parcelas do curso. Incontroversa a prestação dos serviços e que a autora concluiu o curso de Direito. Desnecessária a assinatura da ré no contrato padrão apresentado pela autora, porquanto há cláusula no negócio que estabelece que a renovação da matrícula para o último semestre era obrigatória e se daria por meio de aceite eletrônico. Comprovada a relação contratual a justificar a cobrança das mensalidades. Ônus da devedora de comprovar a quitação do débito. Ausência de provado pagamento das mensalidades discutidas. Débito exigível. Descabido o afastamento de multa e juros sobre o valor do débito, eis que expressamente previstos no contrato. Pleito de redução do valor das parcelas que não comporta acolhimento. Improcedência do pedido formulado na reconvenção, pois se refere a parcela anterior, cuja quitação não se discute e não é objeto de cobrança da ação principal. Incidência do art. 343 do Código de Processo Civil. Descabida a repartição do ônus sucumbencial, eis que mínimo o decaimento dos pedidos da autora (art. 86, parágrafo único, CPC). Sentença mantida. RECURSO DESPROVIDO
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 86, parágrafo único e 1.022, I, do CPC.
+Sustenta preliminarmente omissão e contradição no acórdão, uma vez que não houve manifestação sobre o proveito econômico alcançado diante do decaimento do autor quanto ao termo inicial dos juros de mora.
+Quanto ao mérito, pede a reforma do acórdão sob o argumento, em síntese, de que deve ser alterada a distribuição dos ônus sucumbenciais, pois orecorrido decaiu substancialmente de sua pretensão com a modificação dos juros de mora.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, com relação à apontada violação ao art. 1.022, I, do CPC, não procede o argumento do recorrente.
+Com efeito, o Tribunal de origem decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte, aplicando o direito que entendeu cabível à hipótese, como se vê do seguinte trecho do acórdão dos embargos de declaração:
+No tocante ao ônus sucumbencial, o v, acórdão bem fundamentou às fls. 172, que em sendo mínimo o decaimento dos pedidos da instituição de ensino embargada (somente quanto ao termo inicial dos juros de mora), a recorrente deveráresponder integralidade das Custas, despesas processuais, bem como honorários fixados em 20%do valor da condenação somado ao proveito econômico da reconvenção.
+Portanto, observa-se que foi aplicado o disposto no artigo 86, parágrafo único, do Código de Processo de Civil.
+Também constou que opercentual da verba honoraria deve ser mantido como melhor forma de atender os critérios estabelecidos no artigo do Código de Processo Civil e remunerar condignamente o trabalho realizado pelo advogado, nãosendo, portanto, o caso de se reconhecer a sucumbência parcial entre os litigantes. (e-STJ fl. 187)
+Ressalte-se que o julgador não está obrigado a examinar todos os argumentos aduzidos pela parte, quando tiver encontrado fundamentação suficiente para dirimir integralmente o litígio.
+A questão fora claramente examinada, não havendo falar em afronta ao art. 1.022 do CPC.
+No que tange à pretensão de revisão da distribuição dos ônus sucumbenciais, a insurgência não merece acolhida, uma vez que o conhecimento do recurso especial é obstado pelo teor da Súmula 7 do STJ.
+Isso porque seria necessário reexaminar os elementos fático-probatóriosdos autos para se promover a pretendida análise acerca da extensão em quecada parte foi vencedora e vencida no caso concreto, bem comoa fim de severificar se teria ocorrido a alegada sucumbência substancial da autora ourecíproca das partese, assim, alterar o entendimento do Tribunal deorigem a respeito da distribuiçãodos ônus sucumbenciais.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA AUTORA.
+1.  ..
+3. Segundo jurisprudência firmada no âmbito desta Corte, a aferição do percentual em que cada litigante foi vencedor ou vencido ou a conclusão pela existência de sucumbência mínima ou recíproca das partes é questão que não comporta exame em recurso especial, por envolver aspectos fáticos e probatórios, aplicando-se à hipótese a Súmula 7/STJ.
+4. Este Tribunal de Justiça tem entendimento no sentido de que a incidência do aludido óbice impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1308505/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/06/2019, DJe 06/06/2019)
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SEGURO SAÚDE. COBERTURA. ATENDIMENTO DE URGÊNCIA. RECUSA. DANO MORAL. ART. 1.022, I, DO NCPC. ALEGADA CONTRADIÇÃO NO JULGADO NÃO VERIFICADA. REDISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÊNCIA. INVIABILIDADE.SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1.  ..
+4. O Superior Tribunal de Justiça tem jurisprudência firme de não se admitir, na via especial, a aferição do quantitativo em que autor e réu saíram vencidos na demanda ou a verificação de sucumbência mínima ou recíproca para efeito de arbitramento da distribuição dos ônus sucumbenciais. Tais questões não prescindem do revolvimento de matéria fático-probatória. Incidência da Súmula nº 7 do STJ. 5. Em virtude do não provimento do presente recurso, e da anterior advertência quanto a aplicação do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1680577/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/11/2017, DJe 05/12/2017)
+O dissídio, por outro lado, não fora demonstrado na forma como o exigem os arts. 1.029 do CPC e 255 do RISTJ, pois ausente o cotejo analítico, razão por que não conheço do especial com fundamento na alínea "c" do permissivo constitucional.Não consubstancia cotejo analítico a demonstrar as circunstâncias fático-jurídicas que se mostram assemelhadas e de fundamentos a interpretar diversamente as mesmas questões federais, a transcrição de ementas ou mesmo do teor de decisões.
+Deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, tendo em vista que o patamar fixado na origem encontra-se em seu limite máximo legal.
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE REVISÃO DA DISTRIBUIÇÃO DOS ÔNUS DA SUCUMBÊNCIA. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
