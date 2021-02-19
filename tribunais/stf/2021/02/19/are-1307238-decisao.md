@@ -1,0 +1,27 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão da Segunda Turma Recursal Mista dos Juizados Especiais do Estado do Mato Grosso do Sul, assim ementado (eDOC 7, pp. 1-9):
+    “RECURSO INOMINADO FAZENDA PÚBLICA AÇÃO DE COBRANÇA E OBRIGAÇÃO DE FAZER - POLICIAL MILITAR DA RESERVA REMUNERADA- LEI COMPLEMENTAR ESTADUAL 218/2016 QUE ALTEROU A LEI COMPLEMENTAR 127/2008 - IMPLEMENTAÇÃO DE SUBSÍDIO EM NÍVEL DE I A VII DE ACORDO COM O TEMPO DE CARREIRA ACRÉSCIMO DO NÍVEL VII PARA O SERVIDORES QUE CONTAREM COM MAIS DE TRINTA AOS DE EFETIVO SERVIÇO PÚBLICO NA POLÍCIA MILITAR - SERVIDOR INATIVO ANTES DA NOVA LEI LOCAL QUE PREVIU QUE A TABELA DE REESTRUTURAÇÃO SERIA DEVIDA PARA ATIVOS E INATIVOS SEM DISTINÇÃO- RECURSO IMPROVIDO.”
+    Os embargos de declaração foram rejeitados (eDOC 11, p. 1-3).
+    No recurso extraordinário, interposto com fundamento no artigo 102, III, a e b, do permissivo constitucional, aponta-se ofensa aos artigos 5º, XXXVI, 40, §2°, da Constituição Federal, bem como ao Tema 439 e à Súmula vinculante 37, ambos desta Corte.
+    Nas razões recursais, sustenta, em suma, que a decisão contraria o Tema 439 da repercussão geral desta Corte, pois o caso dos autos é semelhante ao tratado no acórdão paradigma, bem como ser inviável rever remuneração de servidores mediante decisão judicial. (eDOC 15, pp. 1-16)
+    A Segunda Turma Recursal Mista dos Juizados Especiais inadmitiu o recurso diante da ausência de semelhança dos autos com o Tema 439, e, quanto ao mais, inadmitiu o apelo extremo ante o óbice da súmula 279 do STF (eDOC 19, pp. 1-2).
+    É o relatório. Decido.
+    O recurso não merece acolhida.
+    O acórdão paradigma (RE 606.199) do Tema 439 da repercussão geral desta Corte, possui a seguinte ementa:
+    “CONSTITUCIONAL. ADMINISTRATIVO. EXTENSÃO, A SERVIDORES APOSENTADOS, DE VANTAGENS CONCEDIDAS A SERVIDORES ATIVOS. REESTRUTURAÇÃO DE CARREIRA. ARTIGO 40, § 8º, DA CONSTITUIÇÃO (REDAÇÃO ANTERIOR À EC 41/03). INEXISTÊNCIA DE DIREITO ADQUIRIDO A REGIME JURÍDICO. PECULIARIDADES DA REESTRUTURAÇÃO DA CARREIRA DECORRENTE DA LEI 13.666/02 DO ESTADO DO PARANÁ. RECURSO EXTRAORDINÁRIO PARCIALMENTE PROVIDO. 1. Segundo a jurisprudência firmada em ambas as Turmas do STF, não há direito adquirido a regime jurídico. Assim, desde que mantida a irredutibilidade, não tem o servidor inativo, embora aposentado na última classe da carreira anterior, o direito de perceber proventos correspondentes aos da última classe da nova carreira, reestruturada por lei superveniente. Precedentes. 2. Todavia, relativamente à reestruturação da carreira disciplinada pela Lei 13.666/02, do Estado do Paraná, assegura-se aos servidores inativos, com base no artigo 40, § 8º, da Constituição Federal (redação anterior à da EC 41/03), o direito de ter seus proventos ajustados, em condições semelhantes aos servidores da ativa, com base nos requisitos objetivos decorrentes do tempo de serviço e da titulação, aferíveis até a data da inativação. 3. Recurso extraordinário a que se dá parcial provimento.”
+    Conforme se depreende, fixou-se o entendimento, na esteira da jurisprudência desta Corte, que não há direito adquirido a regime jurídico e, por isso, desde que mantida a irredutibilidade de seus vencimentos, o servidor inativo não possui direito de perceber proventos estabelecidos por lei superveniente, ainda que aposentado na última classe de carreira anterior.
+    Todavia, ressalvou-se a possibilidade de, à luz do caso concreto, estender-se as vantagens aos inativos, desde que decorrentes da aferição de critérios objetivos, como o tempo de serviço e a titulação.
+    É nesta última ressalva que o Acórdão sustenta suas conclusões, conforme se verifica dos seguintes trechos (eDOC 7, pp. 1-9):
+    “(…) nos termos da LCE n. 127/2008 com a redação conferida pela LCE n. 218/2016, dispôs que a tabela de classe, seria aplicável ao ativos e inativos (…).
+    (…)
+    Pela redação da LC supracitada, extrai-se que a regra previu nova classe e subsídio tanto para ativos e inativos, cujo fato foi apontado na sentença como fundamento para concluir pelo direito do recorrido.
+    (…)
+    Desse modo, como a lei estadual em questão, previu que a nova tabela de remuneração seria aplicável tanto para ativos como inativos, sem trazer qualquer distinção quanto à condição de inativo, tem-se que o recorrido foi beneficiado pela alteração da classificação na carreira.”
+    Neste ponto, verifica-se que a demanda foi decidida à luz dos elementos constantes dos autos, bem como pela legislação aplicável à espécie (Leis Complementares nº 218/2016 e nº 127/2008), portanto, eventual divergência em relação ao entendimento adotado pelo juízo a quo fica inviabilizado em sede extraordinária, diante do contido nas Súmulas 279 e 280.
+    Em sentido semelhante, cite-se as seguintes decisões monocráticas: ARE 1.189.482/MS, de relatoria do Min. Luiz Fux; e ARE 1.246.636/MS, de relatoria da Min. Cármen Lúcia.
+    Ante o exposto, nego seguimento ao recurso extraordinário, nos termos do art. 932, IV, a e b e art. 21, § 1º, do RISTF.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 19 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
