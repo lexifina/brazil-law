@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrada em favor de RYNER RAFAEL PEREIRA SILVA CARDOSO contra decisão proferida pelo Desembargador do Tribunal de Justiça do Estado de São Paulo (HC n. 2025105-13.2021.8.26.0000).
+Consta dos autos que o paciente teve a prisão em flagrante decretada, em 30/7/2020, em razão de suposto cometimento do delito previsto no art. 33,caput, da Lei n. 11.343/2006. A prisão em flagrante foi convertida em preventiva.
+A denúncia foi oferecida em 4/8/2020, tendo a audiência de instrução realizada em 10/11/2020. Após a apresentação de alegações finais, a sentença foi proferida, em 17/11/2020, tendo sido o paciente condenado à pena de 5 anos de reclusão, em regime fechado, sendo vedado o direito de recorrer em liberdade.
+Narra a defesa que foi impetradohabeas corpusperante o Supremo Tribunal Federal, em que se alegou a ilegalidade da fixação do regime inicial fechado, tendo a Corte Suprema deferido o pedido liminar, para os fins de determinar o início do cumprimento da pena do suplicante no regime inicial semiaberto.
+Inconformada com a manutenção da prisão preventiva, a defesa impetrouhabeas corpusperante o Tribunal local, tendo o Desembargador Relator indeferido o pleito de urgência (e-STJ fls. 26/27).
+Na presente oportunidade (e-STJ fls. 3/7), a defesa alega que o paciente está sofrendo constrangimento ilegal em razão da manutenção da prisão preventiva. Argumenta que a prisão preventiva é incompatível com o regime semiaberto, de forma que a revogação da custódia cautelar é medida que se impõe. Ademais, aponta queo nobre julgador não fundamentou a manutenção da prisão preventiva, ferindo o art. 315, caput e parágrafos seguintes, sem demonstrar o periculum in libertatis, pois apenas invocou que "se faz necessária" manutenção da preventiva (e-STJ fl. 5).
+Aduz que o presente caso é hipótese de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Dessa forma, requer, na liminar e no mérito, a revogação da prisão preventiva, com a expedição do alvará de soltura.
+É o relatório.Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias. Aquestão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Ademais, ao contrário do alegado, "Esta Corte Superior sedimentou entendimento segundo o qual a prisão preventiva é compatível com o regime prisional semiaberto, desde que seja realizada a efetiva adequação ao regime intermediário" (HC 419.815/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 5/4/2018, DJe 18/4/2018).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA.DESCUMPRIMENTO DE CONDIÇÕES IMPOSTAS NO DEFERIMENTO DA PRISÃO DOMICILIAR. FUNDAMENTAÇÃO SUFICIENTE. REGIME SEMIABERTO.COMPATIBILIDADE COM A PRISÃO CAUTELAR. RECURSO NÃO PROVIDO.
+1. Conforme preconiza o § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+2. No caso, observa-se que a custódia cautelar foi mantida, em decisão suficientemente fundamentada, tendo como fim resguardar a ordem pública, haja vista a reiterada conduta delitiva da agente.
+Ademais, o descumprimento das condições impostas no deferimento da prisão domiciliar reforça a imprescindibilidade da segregação cautelar.
+3. "Não há incompatibilidade na fixação do modo semiaberto de cumprimento da pena e o instituto da prisão preventiva, bastando a adequação da constrição ao modo de execução estabelecido"(AgRg no RHC 110.762/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/5/2020, DJe 3/6/2020).
+4. Agravo regimental não provido.
+(AgRg no HC 629.424/TO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Intimem-se.
