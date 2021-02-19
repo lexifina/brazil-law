@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 468-472) opostos por RONALDO MORIem face da decisão monocrática às fls. 464-466, que deu provimento ao seurecurso especial, fixando honorários advocatícios sucumbenciais em 10% sobre o valor da condenação.
+Nas razões dos embargos, o recorrente alega que a decisão embargada possui erro material, haja vista que, "tendo em vista a obrigação imposta pelo art. 291 do Código de Processo Civil, o Embargante obedeceu ao critério legal e atribuiu à causa um valor de alçada, fixado com fulcro na discussão trazida nos autos, levando em consideração a obrigação de fazer. Neste sentido, de rigor mencionar que o artigo 85, § 2º,CPC dispõe que o valor dos honorários sucumbenciais deve respeitar o percentual mínimo de 10%, e o máximo de 20%, sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa".
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade,eliminar contradição ou suprimir omissão de ponto ou questão sobre oqualdevia se pronunciar o órgão julgador de ofício ou a requerimentodaspartes, bem como para corrigir erro material (CPC/2015, art. 1.022),sendoinadmissível a sua oposição para rediscutir questões tratadasedevidamente fundamentadas na decisão embargada, já que não sãocabíveispara provocar novo julgamento da lide.
+Assiste razão à parte embargante, visto que a decisão embargada possui erro material,em relação aos honorários advocatícios sucumbenciais.
+Reconhecido o erro, passa-se à sua correção, devendo constar o seguintetrecho no dispositivo do decisum embargado: "Nos termos do art. 85, § 2º, do CPC/2015, fixo os honorários advocatícios em 10% sobre o valor da causa.".
+Publique-se.
