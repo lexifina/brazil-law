@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por GEOVANE RONALDO NUNEScontra acórdão do Tribunal de Justiça do Estado de Santa Catarina(Processo n. 5019823-31.2020.8.24.0000).
+O recorrenteteve a prisão preventiva decretada (fls. 45-48)por suposta prática dodelitodescritonoart. 33, caput,da Lei n. 11.343/2006.
+O decreto prisional fundou-se na nocividade dos entorpecentes apreendidos.
+O recorrentealega que a decretação da prisão preventiva carece defundamentação e que não estão preenchidos os requisitos autorizadores dacustódia cautelar.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva,expedindo-se o alvará de soltura. Alternativamente, pleiteia asubstituição da prisão pela imposição de medidas alternativas previstas noart. 319 do CPP, pois o caso se enquadra nas hipóteses referidas naRecomendação CNJ n. 62/2020.
+O Tribunal de Justiça do Estado de Santa Catarinaapresentou informações às fls. 133-140.
+O Ministério Público Federal opinou pelo desprovimento do recurso ordinário (fls. 144-147).
+É o relatório. Decido.
+Em consulta ao site do Tribunal de Justiça do Estado de Santa Catarina(Processo n. 5052505-67.2020.8.24.0023), verifica-se que, em 19/10/2020, orecorrentefoicondenadoàs penas de 6anos, 5 meses e 4 dias de reclusão em regime semiaberto e de 60dias-multa. Na ocasião, foi-lhe negado o direito de recorrerem liberdade, considerando-se persistentes os fundamentos da preventiva.
+A jurisprudência do STJ permite a "compatibilidade da manutenção da prisão preventiva e a fixação de regime semiaberto na sentença, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, que tem admitido a adequação da segregação provisória ao regime fixado na sentença condenatória" (AgRg no RHC n. 124.481/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 5/5/2020).
+Essa permissão exige a adequação da medida extrema ao regime intermediário, motivo pelo qual a negativa do direito do réu de recorrer em liberdade caracteriza constrangimento ilegal apto a justificar a concessão da ordem.
+Não há também incompatibilidade entre a negativa do direito de recorrer em liberdade e a fixação do regime semiaberto, desde que, conforme já explicitado, haja a devida adequação da custódia ao regime fixado (RHC n. 130.937/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; AgRg no HC n. 582.040/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/9/2020; AgRg nos EDcl no HC n. 602.397/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 14/9/2020; e EDcl no HC n. 604.090/PR, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 16/9/2020).
+Dessa forma, o caso é de concessão da ordem de ofício, para que o Juízo de origem ajuste a prisão preventiva ao regime semiaberto, transferindo o recorrentepara estabelecimento prisional compatível, sob pena de revogação da prisão por configurar constrangimento ilegal.
+Ante o exposto, dou provimento ao recurso paradeterminar que o Juízo de primeiro grau efetue a transferência do recorrente para estabelecimento prisional compatível com o regime semiaberto. Em caso de inexistência de vaga, o recorrente deverá ser posto em liberdade, fixando-se as medidas cautelares diversas que o Juízo de origem considerar necessárias.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem para adotem as providências necessárias ao caso.
+Publique-se. Intimem-se.
