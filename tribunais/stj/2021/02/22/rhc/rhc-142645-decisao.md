@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se derecurso emhabeas corpus,com pedido liminar, interposto porPAULO HENRIQUE AMORIM PROFETA ALVES e WORSSENY ALEXANDRE ROSA DA SILVA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas (HC 0805239-23.2020.8.02.0000), assim ementado,verbis:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO DO CRIME IMPUTADO AOS ORA PACIENTES. ANÁLISE INVIÁVEL NESTA VIA ESTREITA. TESE NÃO CONHECIDA. ALEGAÇÃO DE AUSÊNCIA DOS REQUISITOS PARA A PREVENTIVA. PACIENTE QUE RESPONDE A OUTROS PROCESSOS CRIMINAIS. DECISÃO JUDICIAL QUE APONTA A NECESSIDADE DE MANTER OS PACIENTES PROVISORIAMENTE CUSTODIADOS. PLEITO DE SUBSTITUIÇÃO DA PRISÃO POR OUTRAS MEDIDAS CAUTELARES. INVIABILIDADE. AS MEDIDAS DO ART. 319 DO CPP REVELAM-SE INSUFICIENTES E INADEQUADAS AO CASO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. DENEGAÇÃO DA ORDEM. DECISÃO UNÂNIME I  É inviável a análise de uma possível desclassificação da conduta do paciente, por demandar um reexame aprofundado das provas, o que é incompatível com a via eleita. II  A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do CPP. /n casu, a segregação cautelar se deu sob o argumento da garantia da ordem pública, consubstanciando-se nas provas colhidas, nos indícios de autoria e materialidade delitivas, encontrando-se presentes os requisitos autorizativos da preventiva. III. In casu, o Juiz sentenciante fundamentou a prisão dos pacientes na gravidade concreta do delito e no risco de reiteração delitiva, não havendo, assim, qualquer ilegalidade a ser suprida. IV. Ordem denegada" (e-STJ, fl. 103).
+Nesta sede, os recorrentes alegam, em suma, ausência de fundamentação do decreto preventivo.
+Requerem a concessão do provimento recursal, inclusive liminarmente, para que seja revogada a prisão preventiva.
+É o relatório.
+Decido.
+Da análise dos autos, note-se que este recursoreitera os argumentos e opedido feito no RHC 140.399-AL,de minharelatoria, cuja liminar foi indeferida em 23/12/2020, o qual se encontra concluso.
+Em que pese às irresignaçõesvoltarem-se contra acórdãosdiferentes, esta contra o acórdão proferido no HC 0805239-23.2020.8.02.0000e aquela emdesfavor do HC0805370-95.2020.8.02.0000, observa-se que possuem o mesmopedido e causa de pedir, tratando-se, pois, de mera reiteração.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DO PLEITO FORMULADO NO HCN.º 481.921/DF. LITISPENDÊNCIA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL.AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido formulado no HC n.º 483.855/DF é mera reiteração daqueleveiculado no HC n.º 481.921/DF, pois há identidade de partes, de pedido ede causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesmamatéria
+2. Não podem ser processados, nesta Corte, concomitantemente,habeas corpus nos quais se constata litispendência, instituto que seconfigura exatamente quando há igualdade de partes, de objeto e de causade pedir.
+3. Agravo Regimental desprovido." (AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em05/02/2019, DJe 19/02/2019)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE HABEASCORPUS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDOS. NÃO CABIMENTO DENOVA IMPETRAÇÃO. DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUSMANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se conhece de habeas corpusque deduz pretensão já apreciada e julgada em anterior impetração.
+2. Hipótese em que a irresignação manifestada no presente habeas corpustem por objeto as mesmas questões já debatidas por esta Corte nojulgamento do HC n. 451.646/SP, impetrado em favor do mesmo paciente,oportunidade em que o Superior Tribunal de Justiça emitiu juízo sobre alegalidade dos fundamentos exarados pelo Tribunal local para não aplicar oredutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, para refutar atese de ocorrência de bis in idem na primeira e terceira fases dadosimetria e para manter o regime prisional mais gravoso, prejudicadas asdemais teses.
+3. (..).
+4. Agravo regimental improvido."
+(AgRg no HC 469.249/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTATURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Ante o exposto, indefiro liminarmente o presente recurso emhabeas corpus, nos termos dos arts. 210 e 246 do RISTJ.
+Publique-se. Intimem-se.
