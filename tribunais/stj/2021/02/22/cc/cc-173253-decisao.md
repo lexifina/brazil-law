@@ -1,0 +1,15 @@
+DECISÃO
+Vistos etc.
+Trata-se de conflito de competência, com pedido liminar, suscitado por LÍDER TELECOM COMÉRCIO E SERVIÇOS EM TELECOMUNICAÇÕES LTDA - em recuperação judicial - em face do JUÍZO DE DIREITO DA 1A VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL CÍVEL DE SÃO PAULO - SP, no qual tramitam os autos da recuperação judicial(1003745-84.2016.8.26.0462), e do JUÍZO DA 5A VARA DO TRABALHO DE SÃO BERNARDO DO CAMPO - SP, no qual tramita a execução nº 1000341-68.2015.5.02.0465 movida por AMAURI EDUARDO LUGLIO.
+A suscitante postulou, em razão da competência universal do juízo da recuperação para decidir as questões tendentes a afetar o seu patrimônio, a suspensão da execução em trâmite no juízo trabalhista, bem assim a declaração da competência do Juízo da recuperação judicial.
+Por meio da decisão de fls. 220/222 (e-STJ), não conheci do conflito, ante a ausência de ato constritivo ou a iminência desse ato dirigido ao patrimônio da recuperanda, uma vez que o juízo da execução tinhainformadoàs fls. 196/206 (e-STJ), que"(..) o queestá em vista de liberação é o depósito recursal efetuado pela 2a. Reclamada (CLARO S/A)".
+Inconformada, a recuperanda interpôs o agravo interno de fls. 228/236 (e-STJ), alegando que as informações prestadas pelo juízo trabalhista estavam incompletas e equivocadas, já que esse juízo tinha sim determinadoa liberação do depósito recursal efetuado pela suscitante. Desse modo, às fls. 241/242 (e-STJ) determinei a expedição de ofício ao referido juízo para ele esclarecesseacerca das alegaçõescontidas no mencionado recurso.
+O juízo trabalhista prestou esclarecimentos às fls. 244/252 (e-STJ)noticiando o erro material ocorrido na sentença de liquidação e que o depósito recursal tinha sido, de fato, depositado pela suscitante. Com isso, o magistradotornou sem efeito o despacho que havia autorizado a liberação ao exequente do depósito recursal efetuado pela suscitante, edeterminou atransferência desse valor para conta à disposição do juízo da recuperação judicial.
+Intimada para se manifestar acerca dos referidos esclarecimentos, a suscitante peticionou às fls. 256/257 (e-STJ) informando que: "(..) está ciente da decisão proferida pelo Juízo suscitado, sendo que, portanto, o presente conflito de competência perdeu seu objeto. Logo, desnecessária a apreciação do agravo interno.".
+É o relatório.
+Decido.
+Considerando i)as informações prestadas pelo juízo trabalhista às fls.244/252 (e-STJ), no sentido de que havia tornado sem efeito o despacho queautorizavaa liberação ao exequente do depósito recursal efetuado pela suscitante, ii) bem como diante da nova determinação da transferência desse valor para conta à disposição do juízo da recuperação judicial, e iii) da manifestação da suscitante no sentido da perda do objeto do incidente, o presente conflito deve ser extinto.
+Ante o exposto, julgo extinto o presente conflito de competência por perda superveniente de objeto.
+Julgo prejudicado o agravo interno de fls. 228/236 (e-STJ).
+Expeçam-se ofícios aos Juízos envolvidos no conflito, com cópia da decisão.
+Intimem-se.
