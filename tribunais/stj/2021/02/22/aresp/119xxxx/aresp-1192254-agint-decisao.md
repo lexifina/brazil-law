@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno manejado por Empresa de Taxi Neide Ltda. contra decisão por meio da qual o recurso especial foi conhecido parcialmente e, na parte conhecida, negado provimento, aos fundamentos de que: (I) não houve negativa de prestação jurisdicional, posto que a Corte de origem analisou devidamente as questões em debate nos autos; (II) para se chegar à conclusão diversa da alcançada no acórdão regional, de que não haveria justificativa para deferir a produção probatória, seria necessária a incursão nos fatos e nas provas dos autos, hipótese vedada nesta instância superior, ante o óbice da Súmula 7/STJ; (III) incidiria o óbice da Súmula 284/STF, posto que o art. 123 do CTN não seria apto a infirmar a tese regional.
+A parte agravante alega, preliminarmente, que haveria conexão entre os presentes embargos à execução fiscal (n. 1995.51.01.066265-0) e a ação anulatória n. 0011608.41.1991.4.02.5101, esta última tendo tramitado neste STJ como AREsp 1.369.954/RJ, Rel. Min. Francisco Falcão, com provimento judicial a seu favor, razão pela qual requer a suspensão da demanda até a certificação do respectivo trânsito.
+No mérito, sustenta estar demonstrada a violação ao art. 535 do CPC/73, além de não serem aplicáveis os óbices das Súmulas 7/STJ e 284/STF.
+Impugnação não apresentada (certidão de fls. 514).
+É O BREVE RELATO.
+Melhor compulsando os autos, exercendo o juízo de retratação, reconsidero a decisão de fls. 488/495, tornando-a sem efeito, e procedo nova análise do recurso.
+Na espécie, o presente recurso especial foi tirado de embargos à execução aviados por Empresa de Taxi Neide Ltda., vinculados à execução fiscal (Processo n. 0037163-21.1995.4.02.5101), nos quais se discute a regularidade das CDAs n. 31.656.464-8 e 31.656.272-6, que embasam referido feito executivo.
+Conforme noticiado nos autos, e em consulta ao sítio eletrônico do Tribunal de origem, pôde-se verificar que Empresa de Taxi Neide Ltda. igualmente manejou ação anulatória (Processo n. 0011608.41.1991.4.02.5101), a fim de discutir, também, a regularidade dos mesmos títulos executivos.
+A pesquisa no sítio eletrônico do STJ revela que o recurso especial interposto no bojo da ação anulatória por Empresa de Taxi Neide Ltda. foi autuado nesta Corte Superior como AREsp 1.369.954/RJ, de relatoria do Exmo. Ministro Francisco Falcão. Consta ainda que S. Exa. proferiu decisão monocrática no aludido processo, a qual transitou em julgado em 7/1/2019.
+O Código de Processo Civil dispõe em seu art. 55:
+Art. 55. Reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou a causa de pedir.
+Outrossim, a norma instrumental preconiza no § 3º do art. 55: "Serão reunidos para julgamento conjunto os processos que possam gerar risco de prolação de decisões conflitantes ou contraditórias caso decididos separadamente, mesmo sem conexão entre eles".
+Por sua vez, o art. 71 do Regimento Interno do STJ preconiza que:
+Art. 71. A distribuição da ação, do recurso ou do incidente torna preventa a competência do relator para todos os feitos posteriores referentes ao mesmo processo ou a processo conexo, inclusive na fase de cumprimento de decisão; a distribuição do inquérito e da sindicância, bem como a realizada para efeito da concessão de fiança ou de decretação de prisão preventiva ou de qualquer diligência anterior à denúncia ou queixa, prevenirá a da ação penal.
+NESSE PANORAMA E À LUZ DESSAS CONSTATAÇÕES: (i) reconsidero a decisão de fls. 488/495, tornando-a sem efeito; e (ii) determino seja consultado o Exmo. Ministro Francisco Falcão sobre sua possível prevenção para o julgamento do recurso epigrafado.
+Publique-se.
+À Coordenadoria, para as providências cabíveis.
