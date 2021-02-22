@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial manejado porInês Maria Marcacom fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 403):
+APELAÇÃO. EXECUÇÃO FISCAL. EXTINÇÃO POR FORÇA DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TRÂMITE PARALELO DE AÇÃO ANULATÓRIA, JULGADA PROCEDENTE. CONDENAÇÃO DA EXEQUENTE EM HONORÁRIOS ADVOCATÍCIOS NESTE FEITO. DESCABIMENTO.
+A executada manejou - de forma praticamente simultânea - dois instrumentos processuais para atacar a cobrança da mesma dívida: uma exceção de pré-executividade e uma ação anulatória. Tanto numa como noutra, alcançou o seu intento, qual seja, o reconhecimento da nulidade da constituição do crédito cobrado.
+Descabe nova condenação da Fazenda Nacional em honorários advocatícios, porque tal representaria "bis in idem", eis que o labor desenvolvido pelo causídico já foi devidamente remunerado na ação anulatória.
+A parte recorrente aponta, além de dissídio jurisprudencial, violação ao art. 85, §§ 2º, 3º, I e § 11, do CPC/15. Sustenta, em síntese, que: (I) para a definição do ônus da sucumbência é necessário tão somente identificar quem deu causa à demanda e(II) trata-se de ações autônomas em que os patronos trabalharam independentemente, devendo ser reconhecido o labor jurídico empregado na defesa da parte executada
+Requer, então, seja adotado o entendimento firmado no Tema 143/STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação merece acolhida. Com efeito, a jurisprudência do STJ , em situação análoga à dos autos, possui orientação no sentido de que é possível a cumulação das condenações em honorários advocatícios fixados em execução fiscal e nos respectivos embargos, por constituírem ações autônomas.
+No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AOS ARTS. 458 E 535 DO CPC/73. AUSÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO.EMBARGOS À EXECUÇÃO FISCAL. MASSA FALIDA. CERCEAMENTO DE DEFESA.ALEGAÇÃO DE NULIDADE DA CITAÇÃO E PEDIDO DE REDUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. QUESTÕES ATRELADAS AO REEXAME DE MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. TAXA SELIC E CORREÇÃO MONETÁRIA. EMBARGOS E EXECUÇÃO. VERBAS HONORÁRIAS AUTÔNOMAS.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC/73.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Na linha da orientação jurisprudencial desta Corte as empresas cuja falência foi decretada, cumpre a distinção entre as seguintes circunstâncias: (a) antes da decretação da falência, são devidos os juros de mora, independentemente da existência de ativo suficiente para pagamento do principal, desse modo, aplicável a taxa SELIC, que engloba índice de correção monetária e juros e; (b) após a decretação da falência, a incidência da taxa SELIC fica condicionada à suficiência do ativo para pagamento do principal.
+4. A orientação do STJ pacificou-se no sentido de que a execução e os embargos por serem ações distintas possuem arbitramento em honorários advocatícios de forma autônoma, considerada cada ação individualmente.
+5. Agravo interno não provido.
+(AgInt no AREsp 1035832/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/08/2017, DJe 21/08/2017)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PERDA DE OBJETO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. ART.20, §§ 3º E 4º, DO CPC. DIMINUIÇÃO DA VERBA HONORÁRIA.EXCEPCIONALIDADE. PRECEDENTE.
+1. Atento ao princípio da causalidade, o ajuizamento indevido de execução fiscal, que foi extinta por perda superveniente do objeto (procedência de ação anulatória), após a apresentação de exceção de pré-executividade, reclama a condenação da Fazenda Pública ao pagamento de verba honorária.
+2. Hipótese em que houve condenação anterior no montante de R$ 3.902.163,75 (três milhões, novecentos e dois mil, cento e sessenta e três reais e setenta e cinco centavos) pela procedência na ação anulatória, tendo sido fixado, na execução fiscal extinta por perda de objeto, novo valor equivalente a R$ 920.750,06 (novecentos e vinte mil, setecentos e cinquenta reais e seis centavos), ambos a título de verba honorária.
+3. Nem sempre o valor da causa influi na importância da matéria debatida em juízo para fins de fixação dos honorários advocatícios, principalmente naquelas ações nas quais houve a sua desistência ou perda superveniente do objeto, limitando-se a controvérsia que se instaurou ao montante da verba honorária. Precedente: AgRg no AREsp 532.550/RJ, Rel. p/ acórdão Ministro Herman Benjamin, Segunda Turma, julgado em 2/10/2014, DJe 2/2/2015.
+4. Retratação parcial da decisão agravada para fixar a verba honorária em R$ 10.000,00 (dez mil reais).
+5. Agravo regimental a que se dá parcial provimento.
+(AgRg no REsp 1407546/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/05/2015, DJe 27/05/2015)
+Assim, também no caso dos autos, tendo sido extinta a execução fiscalem decorrência do provimento de ação autônoma, deve-se perquirir quem deu causa ao feito executivo, a fim de imputar-lhe o ônus de pagar os honorários, em face do princípio da causalidade.
+Dessa orientação divergiu o acórdão recorrido, por entender "não caber nova condenação da Fazenda Nacional em honorários advocatícios, porque tal representaria "bis in idem", eis que o labor desenvolvido pelo causídico já foi devidamente remunerado na ação anulatória" (fl. 408).
+ANTE O EXPOSTO, dou provimento ao recurso especial e determino o retorno dos autos ao Tribunal de origem, a fim de que proceda ao arbitramento de honorários advocatícios, nos termos da fundamentação supra.
+Publique-se.
