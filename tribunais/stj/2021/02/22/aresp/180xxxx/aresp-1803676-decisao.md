@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por ROBERTO DE ANDRADE TEIXEIRA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. SEGUROS. SEGURO DE VIDA EM GRUPO. COMPLEMENTAÇÃO DA INDENIZAÇÃO. ATUALIZAÇÃO MONETÁRIA.
+No que tange à atualização monetária, a jurisprudência tem entendimento pacífico no sentido de que deverá incidir a contar da última atualização da apólice quando houver emissão de certificado individual com o capital segurado vigente. É a interpretação a contrario sensu que se extrai da Súmula 38 do Terceiro Grupo Catei deste Tribunal.
+Compulsando-se os documentos de fls. 201/221, tem-se que a indenização total de R$ 37.762,12, paga em 25/09/2009, decorreu de atualização das apólices havida em 30/06/2009, de modo que apenas desta data (30/06/2009) até 25/09/2009 é que deve incidir a correção monetária postulada.
+Por tais fundamentos, a sentença merece pequena modificação, na medida em que se vislumbra período entre a última atualização das apólices e a data do pagamento sem que tenha incidido devidamente a correção monetária.
+RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, aponta dissídio jurisprudencial quanto à interpretação dos arts. 82, § 2º, e 85, ambos do CPC, ao argumento de que:
+Extrai-se do acórdão impugnado que o pedido da parte Recorrente foi atendido, ainda que em valor menor ao inicialmente pretendido, não sendo o caso, portanto, de sucumbência parcial.
+O egrégio TJ/MS, consoante se verá a seguir, entende que não há decaimento nas hipóteses em que a Corte decide pela necessidade de complementação da indenização securitária, ainda que em valor menor do que o inicialmente pretendido (fl. 403).
+É, no essencial, o relatório. Decido.
+Na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige a transcrição de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e o paradigma indicado.
+Nesse sentido: "O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ". (AgInt no REsp n. 1.840.089/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
