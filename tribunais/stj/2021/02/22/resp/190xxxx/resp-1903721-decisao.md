@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 504):
+AGRAVO INTERNO. USUCAPIÃO ESPECIAL URBANA. ÁREA SITUADA EM TERRENO DE MARINHA. DOMÍNIO ÚTIL DE IMÓVEL FOREIRO. POSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS. RECURSO DESPROVIDO.
+1. A ação de usucapião especial urbana foi ajuizada por Teresinha de Jesus Cabral da Costa, visando a declaração de seu domínio sobre uma área situada no Município de São Vicente/SP, sob o argumento de que detém a posse mansa, pacífica e ininterrupta do imóvel há mais de 30 anos.
+2. A usucapião urbana especial é uma forma de aquisição do bem imóvel, prevista no artigo 183 da Constituição Federal. Tal norma apresenta como requisitos a essa modalidade de usucapião o exercício da posse sobre o imóvel por 5 (cinco) anos, de forma ininterrupta e sem oposição, sem a necessidade de comprovação de título de boa -fé, desde que não seja proprietário de outro imóvel.
+3. No caso, os documentos colacionados aos autos corroboram as alegações da parte autora, no sentido de que exerce a posse do imóvel usucapiendo por mais de 20 (vinte) anos, de forma mansa, pacífica, sem oposição e com animus domini.
+A parte recorrente aponta violação aos arts. 1º, a, 2º, 3º e 200 do Decreto-Lei nº 9.760/1946 e 102 do Código Civil. Sustenta, em resumo, que "sendo incontroverso que o terreno objeto da presente ação se encontra localizado em terrenos de marinha, sob regime de ocupação, não há como ser julgado procedente o pedido de usucapião" (fls. 515/516).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, a matéria pertinente aos arts. 1º, a, 3º e 200 do Decreto-Lei nº 9.760/1946 e 102 do Código Civil não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Ademais, quanto à questão de fundo, cumpre transcrever o que restou decidido no acórdão recorrido (fls. 499/500) :
+De maneira geral, quanto às alegações apontadas no presente agravo, a decisão está bem fundamentada ao afirmar que:
+Neste contexto, assevero que a usucapião urbana especial é uma forma de aquisição do bem imóvel, prevista no artigo 183 da Constituição Federal, abaixo transcrito:  ..
+Noutro giro, observo que o inciso VII do artigo 20 da CF inclui entre os bens da União os terrenos de marinha e seus acrescidos, sendo estes definidos pelo Decreto -Lei nº 9.760/46 da seguinte forma:
+Art. 2º São terrenos de marinha, em uma profundidade de 33 (trinta e três) metros, medidos horizontalmente, para a parte da terra, da posição da linha do preamar -médio de 1831:
+a) os situados no continente, na costa marítima e nas margens dos rios e lagoas, até onde se faça sentir a influência das marés;
+b) os que contornam as ilhas situadas em zona onde se faça sentir a influência das marés.
+Parágrafo único. Para os efeitos dêste artigo a influência das marés é caracterizada pela oscilação periódica de 5 (cinco) centímetros pelo menos, do nível das águas, que ocorra em qualquer época do ano."
+Ademais, nos termos dos artigos 183, §3º, da CF, os bens públicos não são passíveis de usucapião.
+Ocorre que, em se tratando de imóvel público foreiro, admite-se a possibilidade de aquisição do domínio útil desse bem por usucapião, desde que o bem não esteja sob o domínio direto da União. Tal questão encontra-se pacificada na jurisprudência pátria (g.n.)
+Note-se que o Tribunal de origem, ao decidir a questão relativa à usucapião, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Contudo, não obstante a interposição de recurso extraordinário, verifica-se que o pleito foi inadmitido pelo Tribunal a quo, não tendo a parte se insurgindo contra essa decisão por meio de agravo dirigido ao Supremo Tribunal Federal.
+Portanto, a ausência de interposição de agravo em recurso extraordinário para discussão da questão constitucional atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário"). Nesse mesmo sentido: AgRg no AREsp 126036/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 7/12/2012; AgRg no AREsp 206.733/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 5/12/2012.
+ANTE O EXPOSTO, não conheço do recurso especial. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 10% (dez por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
