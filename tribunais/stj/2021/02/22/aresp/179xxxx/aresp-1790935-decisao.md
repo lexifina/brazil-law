@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado pela FAZENDA DO ESTADO DE SÃO PAULO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA AÇÃO REGRESSIVA DE RESSARCIMENTO DOS DANOS MATERIAIS OCASIONADOS POR POLICIAL MILITAR À VIATURA OFICIAL PEDIDO DE PENHORA DOS VENCIMENTOS DA EXECUTADA AFASTAMENTO DA IMPENHORABILIDADE DOS VENCIMENTOS PREVISTA NO ARTIGO 833 IV CPC IMPOSSIBILIDADE RELATIVIZAÇÃO DA IMPENHORABILIDADE DE VENCIMENTOS E SALÁRIOS QUE NÃO ENCONTRA SUPORTE NA DOCUMENTAÇÃO CARREADA AOS AUTOS PRECEDENTES DA CORTE DECISÃO MANTIDA RECURSO NÃO PROVIDO.
+Quanto à controvérsia suscitada, pela alínea "c" do permissivo constitucional, alega divergência jurisprudencial quanto à interpretação do art. 833, inciso IV, do Código de Processo Civil, no que concerne à penhorabilidade dos vencimentos da ora recorrida, e traz os seguintes argumentos:
+Como se vê o v. acórdão recorrido violou frontalmente o artigo 105, III, "c" da CF, pois inúmeros acórdãos de outros Tribunais, inclusive desse E. STJ já colheram o entendimento contrário ao prolatado no v. acórdão recorrido.
+ ..
+Como arrasta-se já ressaltado em todo o por vários anos, não tendo verificado até o presente momento, passíveis de serem penhorados. bens em nome da recorrida
+A recorrida, tão pouco se dignou a apresentar qualquer proposta de parcelamento do débito.
+Desde a penhora on line, passando por localização de veículos até imóveis forma pesquisados, contudo sem resultado algum.
+Não resta outra alternativa, senão a única viável a penhora nos vencimentos da recorrida. A impenhorabilidade apontada com o respeito necessário, não apresentadas na decisão em comento, prospera, visto que não há que se falar impenhorabilidade absoluta.
+O entendimento atual está voltado a manutenção clara da dignidade humana, sem que com isso não se permita que o credor possa buscar um caminho, ainda que muito longo, para ver seu crédito satisfeito.
+O que efetivamente nem mesmo o novo ordenamento jurídico deseja é que a lei crie embaraços totais a não satisfazer o crédito existente.
+Até o presente momento, a agravada não apresentou nenhuma proposta real e possível para quitação do débito.
+Veja-se que a ação de conhecimento data de 2012, sem deixar de ser redundante a execução data de 2018, revelando que não tem a menor intenção de saldar o débito.
+Não resta outra alternativa e certamente é a única viável para o recebimento de seu credito que seja deferida a penhora, mesmo que seja em percentual de 10% (dez) por cento dos vencimentos.
+Nesse sentido, observando-se todo o sistema processual existente e a atual jurisprudência, fica evidenciado que a possibilidade a penhora de até 20% ( vinte ) por cento dos vencimentos.
+Veja-se que a Lei 10.820/2003 prevê que os empregados permitam o desconto em folha de pagamento de sua remuneração em montante até 35% (trinta e cinco por cento), sendo tal autorização irretratável e irrevogável. Tal opção é acessível apenas para pagamento de empréstimos e financiamentos, cartão de crédito e operações de arredamento mercantil concedidos por instituições financeiras e sociedades de arrendamento mercantil, desde que previstos nos respectivos instrumentos contratuais.
+Isto, demonstra a possibilidade de disposição das verbas remuneratórias.
+Sendo disponível, percebe-se que esta se encaixa bem mais com a natureza jurídica de relativamente do que absolutamente impenhorável.
+Ainda é de se entender que a interpretação da possibilidade de penhora apenas para valores superiores a 50 (cinquenta) salários mínimos protege parcela mínima da população. (fls. 30 e 40/42).
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado, quanto à controvérsia suscitada, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige a transcrição de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e o paradigma indicado.
+Nesse sentido: "O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ". (AgInt no REsp n. 1.840.089/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; e AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
