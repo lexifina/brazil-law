@@ -1,0 +1,31 @@
+DECISÃO
+Por meio da petição protocolizada sob o n. 00751643/2020, é requerida a extensão em favor de Luiz Carlos Camilo Guerra, dos efeitos da decisão concedida em benefício de Eder Paulo de Oliveira Venâncio.
+Alega-se, em suma, que o requerente está em situação idêntica àdo paciente.
+Invoca-se o princípio da isonomia e sustenta-se a aplicação do art. 580 do CPP.
+Instado a se manifestar, o Ministério Público Federal opinou, pelas palavras daSubprocuradora-Geral da República Julieta E. Fajardo Cavalcanti de Albuquerque, pelo deferimento do pedido de extensão (fls. 694/695).
+É o relatório.
+O art. 580 do Código de Processo Penal estabelece que, no caso de concurso de agentes (art. 25 do CP), a decisão do recurso interposto por um dos réus, se fundada em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.
+Na hipótese, conforme asseverado pelo requerente, a prisão preventiva de todos os réus está fundamentada de forma genérica e abstrata. Vejamos, no ponto, o que interessa (fls. 127/130- grifo nosso):
+ ..
+No tocante a concessão de liberdade provisória, verifico que esta deve ser deferida quando não estiverem presentes os requisitos autorizadores da prisão preventiva. Analisando detidamente o auto de apreensão de fls. 22/23, constato que foi apreendido expressiva quantidade de droga, sendo 81 buchas de maconha, mais um tablete também de maconha e 372 pinos de cocaína. Dessa forma, tratando-se de grande quantidade de drogas, bem como de entorpecentes variados, constato que o crime de tráfico, neste caso específico, é grave, não somente em razão da quantidade da droga, mas também da estrutura que aparentemente os flagranteados tinham, qual seja, balança deprecisão, 1.279 pinos de ependorfe vazios, o que evidencia que talvez o tráfico envolva quantidade de droga bem maior do que a apreendida, a julgar pela quantidade de embalagens que estavam armazenadas no local da apreensão. Também destaco, que há indícios de envolvimento dos três flagranteados, o que ensejou a capitulação do flagrante também no art. 35 da Lei n. 11.343/2006, o que torna o caso ainda mais grave. Dessa forma, constato que o crime é grave no caso concreto e que coloca em risco a ordem pública. Por fim, consigno que o fato do denunciado Eder ter filho com necessidades especiais, tal fato por si só não enseja a concessão de liberdade provisória, uma vez que ele mesmo declarou que reside com a esposa e a filha, a qual não depende de seus exclusivos cuidados, visto que evidentemente é cuidada pela genitora. Também é oportuno clarificar que o simples fato dos flagranteados terem residência fixa e profissão determinada não elidem a gravidade concreta do delito, razão pela qual não merece acolhida os pleitos defensivos.
+ ..
+Estou de acordo com o parecer ministerial, o qual também adoto como razões de decidir, nestes termos (fl. 695):
+ ..
+Conclui-se, da análise da decisão, que os fundamentos utilizadospara a conversão do flagrante em prisão preventiva foram os mesmos para ambos, semque fosse considerada qualquer circunstância de caráter exclusivamente pessoal, razãopela qual se vislumbra identidade fático-processual para que seja estendido ao orarequerente os efeitos da decisão que concedeu ao corréu a substituição da prisãopreventiva por medidas cautelares previstas no art. 319.
+ ..
+Sendo assim, ausente circunstância pessoal que autorize tratamento diferenciado do paciente, impõe-se a extensão dos efeitos da decisão, segundo orienta a jurisprudência desta Corte.
+A esse respeito:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. SENTENÇA CONDENATÓRIA. ACÓRDÃO CONFIRMATÓRIO. AUSÊNCIA DE TRÂNSITO EM JULGADO. EXPEDIÇÃO DE MANDADO DE PRISÃO. EXECUÇÃO PROVISÓRIA DA PENA. OFENSA À PRESUNÇÃO DE INOCÊNCIA. VERIFICAÇÃO. ORDEM CONCEDIDA COM EXTENSÃO AO CORRÉU.
+1. Toda prisão processual deve ser calcada nos pressupostos e requisitos do art. 312 do Código de Processo Penal.
+2. A determinação da prisão, após o julgamento da apelação, mas antes do trânsito em julgado, sem amparo em dados concretos de cautelaridade, viola a garantia constitucional inserta no art. 5.º, inciso LVII, da Constituição Federal.
+3. Encontrando-se o corréu em situação análoga ao paciente submetido a constrangimento ilegal, de rigor é a extensão da concessão de habeas corpus, nos moldes do art. 580 do Código de Processo Penal.
+4. Ordem concedida, acolhido o parecer ministerial e ratificada a liminar, para assegurar ao paciente o direito de permanecer em liberdade até eventual trânsito em julgado da condenação criminal imposta, ressalvada a hipótese de surgimento de fatos que revelem a necessidade de seu encarceramento processual, estendendo-se os efeitos ao corréu Fábio Rogério Alves Guimarães.
+(HC n. 136.927/SP, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 9/11/2009 - grifo nosso).
+No mesmo sentido, mencionam-se precedentes do Supremo Tribunal Federal:
+EXTENSÃO EM "HABEAS CORPUS" - APLICABILIDADE DO ART. 580 DO CPP - RAZÃO DE SER DESSA NORMA LEGAL: NECESSIDADE DE TORNAR EFETIVA A GARANTIA DE EQÜIDADE - DOUTRINA - PRECEDENTES - AUSÊNCIA, NO CASO, DE CIRCUNSTÂNCIAS DE ORDEM PESSOAL SUBJACENTES À CONCESSÃO DO "WRIT" CONSTITUCIONAL EM FAVOR DO PACIENTE - PLENA IDENTIDADE DE SITUAÇÃO ENTRE O PACIENTE E AQUELE EM CUJO FAVOR É REQUERIDA A EXTENSÃO DA ORDEM CONCESSIVA DE "HABEAS CORPUS" - PRISÃO CAUTELAR - DURAÇÃO IRRAZOÁVEL QUE SE PROLONGA SEM CAUSA LEGÍTIMA - CONFIGURAÇÃO, NA ESPÉCIE, DE OFENSA EVIDENTE AO "STATUS LIBERTATIS" DO ACUSADO, ORA REQUERENTE - INADMISSIBILIDADE - PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL - INJUSTO CONSTRANGIMENTO CONFIGURADO - PEDIDO DE EXTENSÃO DEFERIDO.
+(HC 102189 Extn/BA, Ministro Celso de Mello, Segunda Turma, DJe 3/10/2011).
+Ante o exposto, defiro o pedido de extensão para revogar a prisão de Luiz Carlos Camilo Guerra, permitindo-se ao Juízo de origem, de forma fundamentada, a fixação de outras medidas cautelares que entender pertinentes.
+Publique-se.
+EMENTA
+PEDIDO DE EXTENSÃO EMHABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES.PRISÃO PREVENTIVA. FUNDAMENTAÇÃO ABSTRATA. CONSTRANGIMENTO ILEGAL. CORRÉUS EM SITUAÇÃO IDÊNTICA. PARECER PELO DEFERIMENTO DO PEDIDO DE EXTENSÃO ACOLHIDO.
+Pedido de extensão deferido nos termos do dispositivo.
