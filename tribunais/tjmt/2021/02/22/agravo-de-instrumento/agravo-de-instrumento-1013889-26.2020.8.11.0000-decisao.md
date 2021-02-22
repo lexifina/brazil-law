@@ -1,0 +1,48 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE-PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento n. 1013889-26.2020.8.11.0000
+RECORRENTE: LUCELY QUILES E OLIVEIRA RODRIGUES
+RECORRIDO: ARNO LOPES MOREIRA
+Vistos.
+Trata-se de Recurso Especial (id 69034491), com pedido de efeito suspensivo, interposto por LUCELY QUILES E OLIVEIRA RODRIGUES com fundamento no artigo 105, inciso III, alínea “a” da Constituição Federal, contra o acórdão da Terceira Câmara de Direito Privado, assim ementado (id 65401485):
+“AGRAVO DE INSTRUMENTO – EXECUÇÃO POR QUANTIA CERTA – EXCEÇÃO DE PRÉ-EXECUTIVIDADE – PRELIMINAR – INTEMPESTIVIDADE – PROCESSO FÍSICO – PORTAL ELETRÔNICO DO ADVOGADO (PEA) – PROCESSO VIRTUAL – TRAMITES DISTINTOS – REJEITADA – MÉRITO –CITAÇÃO POR HORA CERTA – VALIDADE – DÍVIDA DO ESPÓLIO – EXECUTADOS CASADOS EM REGIME DE COMUNHÃO UNIVERSAL DE BENS – EXIGIBILIDADE MANTIDA – RECURSO DESPROVIDO – DECISÃO MANTIDA. A realização de peticionamento digital no sistema do Portal Eletrônico do Advogado – PEA não o torna virtual. Assim, por se tratar de processo físico, o recurso é tempestivo, haja vista a suspensão do prazo processual. Restando demonstrado o preenchimento dos requisitos necessários para realização da citação por hora certa, nos termos do artigo 252 do CPC, bem como verificado que o ato citatório atingiu sua finalidade, não há que ser falar em nulidade. A dívida do falecido, caso existente, deve ser cobrada da viúva meeira, como responsável legal, a teor do art. 1.667 do Código Civil, e não como sucessora, na proporção de sua meação.”
+(TJ-MT 10138892620208110000 MT, Relator: ANTONIA SIQUEIRA GONCALVES, Data de Julgamento: 04/11/2020, Terceira Câmara de Direito Privado, Data de Publicação: 06/11/2020)
+O presente recurso foi interposto contra o acórdão proferido em sede de Agravo de Instrumento, interposto por LUCELY QUILES DE OLIVEIRA RODRIGUES, que manteve a decisão proferida pelo Juízo da 2a Vara Cível de Chapada dos Guimarães nos autos da Ação de Execução no 1307-07.2018.811.0024, que que rejeitou a exceção de pré-executividade oposta.
+A Recorrente alega a violação ao artigo 239, caput do CPC, ao argumento de que “(...) no caso em tela não aconteceu a validade da citação, pois a pessoa que recebeu a citação do oficial de justiça, se fez passar por seu filho, na clara e nítida intenção de prejudicá-la. (...).”
+Recurso tempestivo (id 69088950) e preparado (id 69131454).
+Efeito suspensivo indeferido na decisão de id 69204993.
+Contrarrazões apresentadas no id 74553495.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Da deficiência na fundamentação (Súmula 284/STF)
+A admissibilidade dos recursos excepcionais enseja que as respectivas razões sejam redigidas de maneira precisa e completa e apontem, além do dispositivo legal violado, a respectiva controvérsia, bem como as circunstâncias de como ocorreu a violação suscitada, conforme estabelece a Súmula 284 do STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. DANOS MORAIS. DANOS MATERIAIS. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA No 284/STF. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar os preceitos legais tidos por violados, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido os teria contrariado, circunstância que atrai, por analogia, a Súmula no 284/STF. 3. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas. 4. Agravo interno não provido.
+(STJ - AgInt no AREsp: 1545403 SP 2019/0209710-2, Relator: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 31/08/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 03/09/2020)
+Quanto à alegação de inexigibilidade de dívida, embora tenha mencionado alguns dispositivos legais, a Recorrente não demonstrou de forma clara e objetiva a suposta contrariedade e de que maneira teria ocorrido, o que faz incidir a Súmula 284/STF e, por consequência, obsta a admissão do recurso.
+Do reexame de matéria fática (Súmula 7 do STJ)
+A teor do que dispõe o artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça está adstrita à aplicação e à uniformização da interpretação das leis federais, de forma que não é cabível o exame de matéria fático-probatória, por força da Súmula 7/STJ.
+In casu, a alegada violação ao artigo 239, caput do CPC se ampara no argumento de que “(...) no caso em tela não aconteceu a validade da citação, pois a pessoa que recebeu a citação do oficial de justiça, se fez passar por seu filho, na clara e nítida intenção de prejudicá-la. (...)”, bem como de que a Câmara julgadora “(...) não considerou que a validade de citação foi fundada na intenção de prejudicar a Recorrente, apenas observou a fé publica que goza o oficial de justiça (...)”.
+Nesse aspecto, aresto recorrido restou fundamentado nas seguintes razões:
+“(...) No tocante ao mérito do recurso, constata-se a validade da citação por hora certa, ainda que realizada por suposto “desafeto” da agravante.
+Isso porque, da detida análise dos autos, observa-se que o Oficial de Justiça dirigiu à Rua Travessa General Mello, no. 1.137, Bairro Barbado, na cidade de Cuiabá e lá estando, por duas vezes, em dias e horas alternadas, não foi possível proceder à citação da agravante, por não encontrá-la pessoalmente (Id 51856461 – Pág. 57/58).
+No entanto, suspeitando que a mesma se ocultava, deliberadamente para evitar a citação, designou hora certa, quando intimou em 06/08/2019, às 17h00 seu enteado, Sr. FRANCISCO JOSÉ RODRIGUES P. REZENDE, sendo que, embora na certidão constasse como sendo seu filho, vislumbra-se equívoco perfeitamente aceitável, conforme consignado pelo magistrado de primeiro grau, pois se trata de “filho de seu falecido esposo e que por isso se identificou como filho da executada” (sic).
+Cumpre anotar, por oportuno, que mesmo que a agravante não estivesse se ocultando para não ser citada, verifica-se que seu enteado afirmou que não sabia explicar os motivos de sua ausência, tampouco o local em que os mesmos se encontravam para serem citados.
+Quanto ao argumento de que seu enteado tem a intenção de lhe prejudicar, importante consignar que o Oficial de Justiça detém presunção de imparcialidade e fé-pública, de modo que a agravante deveria comprovar suas alegações para invalidar a respectiva citação.
+Desse modo, denota-se que inexistem elementos aptos à desconstituição do teor da certidão exarada pelo Oficial de Justiça, que tem fé-pública. (...)” (g.n)
+Logo, o aresto recorrido consignou que não há provas acerca do alegado que invalidem a citação, de forma que a revisão do entendimento adotado nesse aspecto enseja o exame dos fatos e provas dos autos, o que encontra óbice na destacada súmula, conforme o entendimento do STJ:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. NULIDADE DE CITAÇÃO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 283/STF. CITAÇÃO ENVIADA PARA ENDEREÇO ONDE FUNCIONAVA O ESTABELECIMENTO DA AGRAVANTE. VALIDADE DO ATO CITATÓRIO. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. DECISÃO DE ADMISSIBILIDADE NÃO VINCULA O STJ. AGRAVO INTERNO DESPROVIDO. 1. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal. 2. Infirmar o entendimento alcançado pelo acórdão recorrido, a fim de se concluir pela ausência de citação, esbarraria no enunciado n. 7 da Súmula desta Corte. 3. O Superior Tribunal de Justiça não se vincula aos fundamentos da decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. 4. Agravo interno desprovido.
+(STJ - AgInt no REsp: 1772220 AM 2018/0262498-3, Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 08/04/2019, T3 - TERCEIRA TURMA, Data de Publicação: DJe 10/04/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SUMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA. (...) 3. A análise da alegada nulidade da citação demandaria o revolvimento do contexto fático dos autos, vedado em recurso especial por óbice da Súmula n. 7 do STJ. (...)
+(STJ - AgInt no AREsp: 223293 SP 2012/0180004-6, Relator: Ministro ANTONIO CARLOS FERREIRA, Data de Julgamento: 08/04/2019, T4 - QUARTA TURMA, Data de Publicação: DJe 16/04/2019)
+Dessa forma, é incabível a revisão do entendimento adotado no aresto recorrido, por demandar o reexame do conjunto fático-probatório dos autos, o que impede a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
