@@ -1,0 +1,13 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    FFE Construções, Incorporações e Participações Ltda. afirma haver o Colégio Recursal de Sorocaba/SP, no processo nº 0005247-14.2014.8.26.0602, usurpado a competência do Supremo.
+    Narra figurar como ré em demanda voltada a repetição, em dobro, de valores pagos, pela interessada, a certa imobiliária, em virtude de serviços de assessoramento prestados visando a aquisição de bem imóvel. Realça ter sido condenada, em caráter solidário, ao adimplemento dos valores. Diz do provimento parcial de recurso inominado, mantida a devolução da quantia, mas sem a dobra. Não houve êxito em embargos declaratórios. Sobreveio inadmissão de recurso extraordinário, formalizado ante apontada negativa de prestação jurisdicional uma vez ausente manifestação sobre determinados documentos juntados, a comprovarem a ciência da interessada quanto ao que pago a título de corretagem. Sublinha o insucesso de agravo interno.
+    Sustenta em jogo ausência de fundamentação no acórdão atacado mediante o extraordinário, a revelar ofensa ao artigo 93, inciso IX, da Constituição de 1988. Destaca a ligação da controvérsia ao Tema nº 670 do repertório da repercussão geral. Frisa interpostos embargos de declaração, a evidenciar atendido o requisito do prequestionamento. Evoca jurisprudência. Discorre sobre a matéria versada no conflito de interesses. Ressalta não justificada a majoração dos honorários sucumbenciais. Alude aos princípios da ampla defesa, contraditório e duplo grau de jurisdição.
+    Requer, no campo precário e efêmero, a suspensão do processo na origem. Pretende, no mérito, a cassação do pronunciamento impugnado e a remessa do caso ao Supremo.
+    2. A leitura das peças revela indeferida a sequência do extraordinário formalizado ante o decidido no processo piloto do Tema nº 800 – recurso extraordinário com agravo nº 835.833. Embora impróprio assentar, de forma linear, a ausência de repercussão maior quanto a controvérsias solucionadas no âmbito dos Juizados Especiais, não está configurada erronia no tocante ao procedimento adotado. Inexiste vício de fundamentação, decorrendo o inconformismo da avaliação feita, na origem, quanto às provas reunidas, relativamente ao pagamento da comissão de corretagem. O acórdão atacado mediante o extraordinário guarda harmonia com o proclamado no julgamento da questão de ordem no agravo de instrumento nº 791.292 – Tema nº 339.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 22 de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
