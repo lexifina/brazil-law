@@ -1,0 +1,36 @@
+Decisão:
+    Vistos.
+    Habeas corpus, com pedido de liminar, impetrado em favor de Manoel Domingos Junior, apontando como autoridade coatora a Sexta Turma do Superior Tribunal de Justiça, que negou provimento AgRg nos EDcl no RMS nº 61.916 - MG , Relator o Ministro Rogério Schietti.
+    Sustenta o impetrante, em síntese, a presença de constrangimento ilegal, pois determinada a expedição de mandado de prisão em desfavor do paciente para fins de confecção da guia de recolhimento definitiva.
+    Nesse contexto, aduz:
+    “Na respectiva data de 24.01.2019, o Paciente foi condenado a pena definitiva de 06 (seis) anos de reclusão no regime semiaberto e 14 (quatorze) dias-multa, em face da Apelação Criminal nº 1.0394.01.016127-8/001 (Doc. anexo).
+    Em razão dessa condenação, o Paciente requereu a expedição da guia de execução, eis que o art. 107 LEP dispõe que ninguém será preso sem a respectiva emissão da guia de execução, em consonância com o item 114 da exposição de motivos da LEP2, isto posto, em observância ao art. 5º, inciso XIV da CF. “”
+    E prossegue:
+    “(...)faz-se necessário concluir ainda que: ‘busca-se evitar que o apenado seja submetido a regime mais gravoso que fixado na decisão condenatória, em flagrante desvio de execução (LEP, art. 185), enquanto aguarda a formalização da execução” (Doc. anexo).
+    Por fim, diz configurado indevido excesso de execução.
+    Requer, liminarmente, a concessão da ordem para que seja determinado ao Juízo da Vara de Execuções da Comarca de Munhaçu/MG a expedição de guia de execução criminal dos autos nº 0161278-24.2001.8.13.0394, antes do cumprimento do mandado de prisão”(...)
+    Examinados os autos, decido.
+    Transcrevo a ementa do acórdão questionado:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. GUIA DE RECOLHIMENTO. NECESSIDADE DA PRISÃO. AGRAVO REGIMENTAL NÃO PROVIDO. 1. De acordo com o entendimento deste Superior Tribunal, a guia de recolhimento para a execução penal será expedida apenas após a prisão do condenado, sendo certo que a análise de possíveis benefícios ao réu depende da expedição da referida guia. 2. Agravo regimental não provido”.
+    O acórdão da Sexta Turma do Superior Tribunal de Justiça evidencia ilegalidade.
+    Com efeito, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que não configura excesso de execução a expedição de mandado de prisão para fins de inserção do condenado no sistema prisional, considerada pena definitiva, desde que no regime previsto, não podendo iniciar em regime mais gravoso.
+    No caso em análise, conforme as informações prestadas pelo Juízo da Execução, há mandado de prisão pendente de cumprimento, ou seja, é possível que o paciente permaneça no regime fechado.
+    Tal fato traduz verdadeiro constrangimento ilegal flagrante, na medida em que se impõe ao paciente regime mais gravoso à sua liberdade do que aquele estabelecido no próprio título penal condenatório, vale dizer, o regime semiaberto.
+    Tem-se, portanto, clara afronta ao princípio da proporcionalidade, a justificar a atuação do Supremo Tribunal Federal.
+    Como se observa da nossa jurisprudência,
+    “[f]ixado o regime semiaberto, torna-se incompatível a manutenção da prisão preventiva, mormente porque, até a data do deferimento da medida cautelar, o paciente já teria cumprido, considerada a detração, 1 ano e 6 meses da pena em regime fechado (= prisão preventiva). Logo, sua manutenção no cárcere representaria, em verdade, desvincular o aspecto cautelar inerente à prisão preventiva e legitimar a execução provisória da pena em regime mais gravoso do que aquele fixado na própria sentença condenatória (= semiaberto)” (HC nº 118.257/PI, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 6/3/14)”.
+    Destaco também:
+    “HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. SUPERVENIENTE SENTENÇA CONDENATÓRIA, CONFIRMADA NO JULGAMENTO DO RECURSO DE APELAÇÃO. EXECUÇÃO PROVISÓRIA DA PENA. DETRAÇÃO. 1. Tendo em conta que o paciente foi condenado pelo Tribunal de Justiça ao cumprimento de pena de 1 ano e 4 meses de reclusão, em regime semiaberto, e já cumpriu 7 meses, impõe-se a determinação para que o Juízo de origem proceda à detração penal. 2. Ordem de Habeas corpus concedida.” (HC nº 150.160/SP, Primeira Turma, Relator para acórdão o Ministro Alexandre de Moraes, DJe de 3/6/19)
+    “HABEAS CORPUS – ATO INDIVIDUAL – ADEQUAÇÃO. O habeas corpus é adequado em se tratando de impugnação a ato de colegiado ou individual. PRISÃO PREVENTIVA – REGIME SEMIABERTO – INCOMPATIBILIDADE. A fixação, na sentença, do regime inicial semiaberto mostra-se incompatível com a negativa do direito de recorrer em liberdade, porquanto a manutenção da preventiva, cujo cumprimento dá-se no regime fechado, resulta na imposição, de forma cautelar, de sanção mais gravosa do que a imposta no próprio título condenatório.” (HC nº 183.677/SC, Primeira Turma, Relator o Ministro Marco Aurélio, DJe de 4/9/20)
+    “Habeas corpus substitutivo de recurso extraordinário. Inadmissibilidade. Precedente da Primeira Turma. Flexibilização circunscrita às hipóteses de flagrante ilegalidade, abuso de poder ou teratologia. Ocorrência. Condenação em primeiro grau transitada para a acusação. Fixação de regime inicial semiaberto. Vedação ao direito de recorrer em liberdade. Incompatibilidade. Violação do princípio da proporcionalidade. Precedentes. Writ extinto, por inadequação da via eleita. Ordem concedida de ofício.
+    1. Impetração manejada em substituição ao recurso extraordinário, a qual esbarra em decisão da Primeira Turma, que, em sessão extraordinária de 16/10/12, assentou, no julgamento do HC nº 110.055/MG, Relator o Ministro Marco Aurélio, a inadmissibilidade do habeas corpus nessa hipótese.
+    2. Nada impede, entretanto, que o Supremo Tribunal Federal, quando do manejo inadequado do habeas corpus como substitutivo, analise a questão de ofício nas hipóteses de flagrante ilegalidade, abuso de poder ou teratologia, o que ocorreu na espécie.
+    3. A vedação ao direito de recorrer em liberdade revela-se incompatível com o regime inicialmente semiaberto fixado na sentença penal condenatória, a qual se tornou imutável para a acusação em razão do trânsito em julgado.
+    4. A situação traduz verdadeiro constrangimento ilegal, na medida em que se impõe ao paciente, cautelarmente, regime mais gravoso a sua liberdade do que aquele estabelecido no próprio título penal condenatório para o cumprimento inicial da reprimenda, em clara afronta, portanto, ao princípio da proporcionalidade.
+    5. Writ extinto, por inadequação da via eleita. Ordem de habeas corpus concedida de ofício para tornar definitiva a liminar concedida, no sentido de revogar-se a prisão preventiva do paciente nos autos do processo nº 0000229-07.2013.8.18.0008, mediante estabelecimento, pelo Juízo processante, de medidas cautelares diversas da prisão (CPP, art. 319).” (HC nº 123.226/PI, Primeira Turma, de minha relatoria, DJe de 17/11/14)
+    Ante o exposto, concedo parcialmente a ordem de habeas corpus (RISTF, art. 192, caput) para assegurar ao paciente o direito de não ser recolhido em regime prisional mais gravoso do que aquele fixado em sentença.
+    Publique-se.
+    Brasília, 22 de fevereiro de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
