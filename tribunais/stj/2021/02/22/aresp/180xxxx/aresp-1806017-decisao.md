@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de agravo apresentado por JORGE GONÇALVES DE SIQUEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. PRELIMINAR DE OFÍCIO. PEDIDO EM CONTRARRAZÕES. VIA INADEQUADA. PENHORA. VEÍCULO. TRANSFERÊNCIA. PROCURAÇÃO. ART. 1267, CC. COMPROVADA. REGISTRO DETRAN. INEXISTENTE. MERA IRREGULARIDADE ADMINISTRATIVA. ÔNUS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. ÔNUS EMBARGANTE. HONORÁRIOS ADVOCATÍCIOS. ART. 85, CPC. ARBITRAMENTO. NECESSÁRIO. RECURSOS CONHECIDOS E NÃO PROVIDOS.SENTENÇA MANTIDA.
+1. Deixo de apreciar o pedido de condenação do embargante aos honorários advocatícios feito em sede de contrarrazões, por não se tratar do meio processual adequado para impugnação da sentença.
+2. Nos termos do artigo 1.267 do Código Civil a transferência da propriedade de um bem móvel ocorre com a tradição.
+2.1. Em que pese a falta de transferência de titularidade do veículo junto ao órgão de trânsito, não se pode afastar o negócio jurídico baseado na procuração em razão da constituição de mera irregularidade administrativa.
+3. De acordo com o Enunciado Sumular nº 303 do STJ, "em embargos de terceiro, quem deu causa à . constrição indevida deve arcar com os honorários advocatícios"
+3.1. No caso dos autos, restou demonstrado que a constrição indevida foi motivada pela inércia do embargante em transferir a titularidade do veículo para seu nome, de forma que, conforme o princípio da causalidade, o ônus sucumbencial deveria ser suportado pela parte embargante.
+3.2. Considerando que a fixação dos honorários advocatícios somente foi requeirda pela parte embargante, impossível de fazê-la, pois geraria . reformatio in pejus 4. Recurso conhecidos e não providos. Sentença mantida (fls. 233-234).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 85 do CPC, no que tange ao ônus sucumbencial, trazendo os seguintes argumentos:
+A respeitável sentença singular, bem como o respeitável acórdão, ora impugnados, negaram vigência ao artigo 85, do Código de Processo Civil, na medida em que deixou de condenar a parte vencida aos honorários advocatícios, bem como das custas processuais.
+ ..
+Logo, forçoso é reconhecer que o banco embargado saiu derrotado na lide, ante sua inconsequente contestação, bem como seu existente apelo para ver o julgamento de improcedência dos embargos de terceiro (fls. 286-287).
+Quanto à segunda controvérsia, novamente pela alínea "a, aduz malferimento do art. 927, III, do CPC, relativo à ausência de aplicação do entendimento firmado no Tema n. 872/STJ, porquanto:
+Logo, o venerando acórdão proferido pela V. Turma do Tribunal de Justiça do Distrito Federal e Territórios, também violou o artigo 927, inciso III, do Código de Processo Civil, na medida em que deixou de aplicar o mesmo entendimento jurídico, in casu, de condenar a parte vencida aos honorários advocatícios e custas processuais (fls. 289).
+Quanto à terceira controvérsia, pela alínea "c", sustenta divergência jurisprudencial atinente à interpretação dos supracitados dispositivos legais, apontando como paradigmas arestos afins.
+É, no essencial, o relatório. Decido.
+No que concerne à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+2.2. Ônus Sucumbenciais O embargante também interpôs Apelação (ID 13752051) pugnando pela reforma da decisão no tocante a sucumbência tendo em vista a falta de concordância do embargado logo no início tendo optado por contestar a ação insistindo na constrição e penhora do veículo.
+Tece considerações e colaciona julgados.
+Por fim, postula o conhecimento e provimento do recurso para reformar a sentença condenando o embargado ao pagamento das custas processuais e dos honorários advocatícios.
+Sem razão.
+O juízo a quo determinou que "em razão da causalidade, condeno a parte embargante ao pagamento das . custas processuais. Sem honorários".
+Segundo o Princípio da Causalidade deve arcar com os honorários advocatícios a parte que deu ensejo ao ajuizamento da demanda.
+ ..
+O colendo Superior Tribunal de Justiça editou a Súmula de n. 303 que diz: "Em embargos de terceiro, quem . deu causa à constrição indevida deve arcar com os honorários advocatícios"
+Tal questão, inclusive, restou enfrentada pelo colendo STJ, ao julgar o REsp nº 1.452.840/SP, sob a sistemática dos recursos repetitivos, cuja ementa restou consignada nos seguintes termos:
+ ..
+No presente caso, a penhora indevida foi motivada pela inércia do embargante em atualizar o registro do veículo. Conforme pontuado pelo juízo de primeira instância "o veículo citado ainda estava vinculado ao CPF da parte executada à época da constrição, fato que, em princípio, legitimava a medida em relação aos bens encontrados em seu nome". Por consequência, a sua omissão deu ensejo à constrição indevida do veículo, o que levou ao ajuizamento dos embargos de terceiro.
+Destaco que a contestação do embargado não afasta a responsabilidade do embargante quanto ao pagamento dos ônus sucumbenciais, porque o que se verifica no caso em análise é quem deu causa ao ajuizamento dos embargos, assim, por força do princípio da causalidade o ônus deve ser suportado pelo embargante.
+Assim, eventual condenação ao pagamento de honorários advocatícios seria em face do embargante.
+Entretanto, eventual condenação do embargante geraria sendo necessário o não reformatio in pejus, provimento do recurso e a manutenção da sentença, já que não conhecido o pedido feito pelo embargado em contrarrazões (fls. 241-244, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "A análise da pretensão recursal sobre a aplicação do princípio da causalidade e a redistribuição dos ônus sucumbenciais demanda o vedado reexame de provas, a atrair a incidência do óbice da Súmula n. 7/STJ." (AgInt no AREsp 1.303.761/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 20/2/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Quanto à segunda controvérsia, como já destacado, o acórdão recorrido consignou que:
+O colendo Superior Tribunal de Justiça editou a Súmula de n. 303 que diz: "Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios".
+Tal questão, inclusive, restou enfrentada pelo colendo STJ, ao julgar o REsp nº 1.452.840/SP, sob a sistemática dos recursos repetitivos, cuja ementa restou consignada nos seguintes termos:
+ ..
+A jurisprudência deste eg. Tribunal de Justiça firmou entendimento no mesmo sentido (fls. 242-243, grifos meus).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, haja visto que as razões recursais delineadas no especial estão totalmente dissociadas dos fundamentos utilizados no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por certo: "Verifica-se que o recurso encontra-se deficientemente fundamentado, uma vez que as razões insertas no recurso não permitem a exata compreensão da controvérsia, na medida em que se encontram dissociadas dos fundamentos da decisão agravada, aplicando-se, ao caso, por analogia, o enunciado da Súmula 284/STF". (AgRg no AREsp 1.394.624/RJ, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 19/3/2019.)
+Ressalta-se ainda: AgRg no AREsp 7.458.831/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 9/3/2018; AgInt nos EAREsp 1371200/SP, relator Ministro OG Fernandes, Corte Especial, DJe de 13/9/2019; e REsp 1.722.691/SP, relator Ministro Paulo De Tarso Sanseverino, Terceira Turma, DJe de 15/3/2019.
+Quanto à terceira controvérsia, não foi comprovada a divergência jurisprudencial, pois a mera transcrição de ementas não supre a necessidade de cotejo analítico, o qual exige a reprodução de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras, com a indicação da existência de similitude fática e de identidade jurídica entre o acórdão recorrido e os paradigmas indicados.
+Logo: "A recorrente não se desincumbiu de demonstrar o dissídio de forma adequada, nos termos do art. 1.029, § 1º, do CPC e do art. 255, § 1º, do RISTJ, tendo se limitado a transcrever e comparar trechos de ementas. Como é cediço, a simples transcrição de ementas com entendimento diverso, sem que se tenha verificado a identidade ou semelhança de situações, não revela dissídio, motivo pelo qual não é possível conhecer do recurso especial pela divergência". (AgRg no REsp 1.507.688/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/5/2020.)
+Em consonância: REsp 1.874.545/CE, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 29/6/2020; AgInt no AREsp 1.595.985/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgInt no AgInt no AREsp 1.397.248/DF, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 3/8/2020; e AgInt no REsp 1.851.352/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 13/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
