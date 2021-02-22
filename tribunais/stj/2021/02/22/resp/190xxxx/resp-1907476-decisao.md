@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 107):
+PROCESSUAL AUSÊNCIA CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO CAUSAS INTERCORRENTE. DE DEMONSTRAÇÃO DE SUSPENSIVAS OU INTERRUPTIVAS DO PRAZO PRESCRICIONAL.
+1. Não localizados bens penhoráveis do devedor, suspende-se o processo por um ano, findo o qual se inicia a contagem do prazo prescricional de cinco anos, nos termos do disposto no Enunciado 314 da Súmula do Superior Tribunal de Justiça.
+2. Transcorrido o prazo de cinco anos após o arquivamento do feito, sem que apresentada causa extintiva ou interruptiva do prazo prescricional, correto o reconhecimento da prescrição intercorrente, inclusive em prestígio aos princípios da celeridade processual e da instrumentalidade das formas.
+3. Apelação a que se nega provimento
+Opostos embargos declaratórios, foram rejeitados (fls. 122/125).
+A parte recorrente aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 1.022 do CPC/15, afirmando que foram opostos embargos de declaração pugnando pela expressa manifestação do Tribunal quanto aos arts. 10 e 933 do CPC/15, bem como ao contido no art. 40, §§ 1º, 2º e 4, da LEF, e, no entanto, não foi apreciada a omissão;
+(II) art. 10 e 933, ambos do CPC/15, na medida em que o juiz singular não se manifestou sobre a prescrição intercorrente, a qual fora declarada de forma inédita no acórdão recorrido, não havendo sido possibilitada às partes o exercício do contraditório;
+(III) art. 40, § 4º, da LEF, segundo a qual é obrigatória a prévia oitiva da Fazenda Pública antes do reconhecimento de ofício da prescrição intercorrente, o que não foi observado no caso em apreço;
+(IV) arts. 8º, § 2º, e 40, §§ 1º, 2º, 3º e 4º, ambos da LEF. Para tanto, argumenta que a prescrição intercorrente somente pode ocorrer quanto, no curso da execução fiscal, o juiz suspender o processo e, após umano de suspensão, o feito ficar arquivado por cinco anos. No entanto, no presente caso, não há decisão judicial determinado o arquivamento provisório do feito;
+(V)arts. 2º, 2º-A e 174, todos do CTN, segundo os quais o despacho do juiz que ordena a citação implica a interrupção da prescrição, o que, no caso dos autos, ocorreu em 29/12/2000. Acrescenta que, para o reconhecimento da prescrição quanto ao pedido de redirecionamento da execução em face dos sócios administradores, faz-se necessária a ciência da parte exequente durante o lapso temporal entre a ciência da causa autorizadora do redirecionamento e o pedido em si.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/15, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega queo juiz singular não se manifestou sobre a prescrição intercorrente, a qual fora declarada de forma inédita no acórdão recorrido, não havendo sido possibilitada às partes o exercício do contraditório, circunstância que implica ofensa aos arts.10 e 933, ambos do CPC/15.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação erejeitouos pertinentes aclaratórios do ora recorrente, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial para anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento com o expresso enfrentamento das questões aqui tidas por omitidas.
+Publique-se.
