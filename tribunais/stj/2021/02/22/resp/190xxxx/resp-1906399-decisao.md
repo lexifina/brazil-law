@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado peloInstituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 342):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. TRANSPORTE DE MADEIRA EM TORAS EM DESACORDO COM A GUIA FLORESTAL. APREENSÃO DO VEÍCULO. NOMEAÇÃO DO PROPRIETÁRIO DO BEM COMO FIEL DEPOSITÁRIO. DECRETO 6.514/2008. POSSIBILIDADE. REMESSA PARCIALMENTE PROVIDA.
+1. A jurisprudência deste Tribunal firmou entendimento de que a apreensão de veículo só é devida quando sua utilização é destinada para uso específico e exclusivo do delito ambiental, na forma do artigo 25, § 40, da Lei 9.605/98.
+2. No caso, não há elementos indicadores de que o veículo do impetrante era utilizado com finalidade especifica para a prática de atividades ilícitas.
+3. A autoridade indicada como coatora poderia ter apresentado outros elementos de prova que demonstrassem conduta reincidente do impetrante, preferindo insistir na tese de que a só prática de uma conduta justificaria a apreensão, o que é, porém, contrária ao direito.
+4. Não havendo evidências nos autos da ocorrência de outro ilícito praticado com a utilização do veículo, conclui-se, assim, tratar-se de fato isolado.
+5. A jurisprudencial deste Tribunal, contudo, vem decidindo no sentido de que é possível a nomeação do proprietário "do veículo como fiel depositário do bem, até o julgamento do processo administrativo, nos termos do art. 105, do Decreto 6.514/2008. Precedentes da Quinta e da Sexta Turmas: AMS 0029703-17.2010.4.01.3700/MA, ReI. Desembargador Federal Souza Prudente, 01/06/2012 e-DJF1 P. 131 e AMS 0007664-82.2013.4.01.4100/RO, ReI. Desembargador Federal Kássio Nunes Marques, 06/10/2014 e-DJFI P. 181.
+6. Apelação do IBAMA a que se nega provimento.
+7. Remessa oficial a que se dá parcial provimento para o fim de intimar o impetrante a firmar termo de fiel depositário do veículo apreendido, permanecendo nessa condição até o julgamento do processo administrativo, nos termos do art. 105, do Decreto 6.514/2008.
+Opostos embargos declaratórios, foram rejeitados (fls. 354/360).
+A parte recorrente aponta violação aos arts.25, § 4º e 72, IV, ambos da Lei 9.60519/98 e arts. 105 e 106 do Decreto nº 6.514/2008.
+O Ministério Público Federal opina pelo conhecimento parcial do recurso e, nesta extensão, pelo seu provimento (fls. 392/402).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso especial contém discussão acerca da necessidade de comprovação
+de que o bem apreendido por infração ambiental é de uso específico e exclusivo para a atividade ilícita.
+Ocorre que o tema em debate, qual seja, "aferir se é condição para a apreensão do instrumento utilizado na prática da infração ambiental a comprovação de que o bem é de uso específico e exclusivo para a atividade ilícita (Lei n. 9.605/1998, art. 25, § 4º, atual § 5º)", encontra-se afetado à Primeira Seção do STJ, como representativo da controvérsia e aguarda julgamento sob o rito dos recursos especiais repetitivos - Tema
+1.036 (REsp 1.814.945/CE, REsp 1.814.944/RN e REsp 1.816.353/RO, Rel. Ministro Mauro Campbell Marques, DJe 27/11/2019).
+Nesse contexto, mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade do CPC/2015, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos dos recursos representativos da controvérsia.
+Cabe registrar que, no julgamento da Questão de Ordem no REsp 1.653.884/PR, pela Primeira Turma deste Superior Tribunal de Justiça, ficou assentado que, nos casos de devolução do recurso especial ao Tribunal de origem para se aguardar o desfecho do recurso repetitivo, a Corte recorrida, caso verifique a existência de resíduo não alcançado pela afetação do Superior Tribunal de Justiça, deverá determinar o retorno dos autos a este STJ somente após ter exercido o juízo de conformação ao que decidido pelo Tribunal Superior no julgamento do representativo da controvérsia respectiva (QO no REsp 1.653.884/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/11/2017).
+ANTE O EXPOSTO,determino a devolução dos autos, com a respectiva baixa, ao Tribunal de origem , onde, nos termos dos arts. 1.040 e 1.041 do CPC/2015, deverá ser realizado o juízo de conformação ou manutenção do acórdão local, frente ao que vier a ser decidido pelo Superior Tribunal de Justiça sobre osTema 1.036.
+Publique-se.
