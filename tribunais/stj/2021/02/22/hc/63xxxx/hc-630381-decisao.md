@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Oslei Bueno Batista de Almeida - cumprindo pena privativa de liberdade em razão de condenação pela prática do crime de homicídio qualificado -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem ali impetrada (Habeas Corpus n. 2125114-17.2020.8.26.0000), mantendo a decisão do Juízo de Direito da Vara de Execuções Criminais da comarca de Sorocaba/SP, que indeferiu tanto o pedido de progressão de regime quanto o de prisão domiciliar, formulados pela defesa (Autos n. 0008563-45.2018.8.26.0521).
+Alega o impetrante que, quando o paciente estava prestes a alcançar o lapso necessário para a progressão ao regime aberto, foi submetido à regressão cautelar ao fechado, em razão de rebelião ocorrida no estabelecimento prisional, que culminou com a atribuição de infração disciplinar de natureza grave, que, desde março do corrente ano, pende de conclusão do processo administrativo disciplinar para apuração.
+Aduz que o paciente se encontra acometido de asma, circunstância que o insere no grupo de risco da Covid-19, a denotar a necessidade de substituição da segregação por domiciliar.
+Postula, então, a concessão liminar da ordem, nos termos propostos.
+Em 1º/12/2020, deferi parcialmente o pedido liminar, apenas para assegurar a permanência do paciente emregime semiaberto, até o julgamento do mérito da presente impetração, tendo em vista o reconhecido excesso de prazo para a conclusão do procedimento administrativo disciplinar que apurava a prática de falta grave (fls. 152/153).
+Prestadas as informações pelo Juízo de primeiro grau (fls. 159/235), o Ministério Público Federal opinou pelo não conhecimento da impetração ou pela denegação da ordem (fls. 237/242):
+HABEAS CORPUS. PENAL E PROCESSO PENAL. EXECUÇÃO PENAL. PLEITO DE PRISÃO DOMICILIAR, ANTE O RISCO CAUSADO PELO NOVO CORONAVÍRUS. IMPOSSIBILIDADE. DECISÃO CONSONANTE COM A ORIENTAÇÃO Nº 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. AUSÊNCIA DE DEMONSTRAÇÃO DE RISCO DE CONTÁGIO NO AMBIENTE CARCERÁRIO E DE RISCO ACENTUADO À SAÚDE DO PACIENTE. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO NÃO CONHECIMENTO DA ORDEM. SE CONHECIDA, QUE SEJA DENEGADA.
+É o relatório.
+A presente ordem não comporta concessão.
+Primeiro, porque a alegação de excesso de prazo para a apuração da infração disciplinar de natureza grave, que ensejou a regressão cautelar de regime prisional, encontra-se prejudicada, diante da notícia de que o procedimento foi homologado em 18/9/2020 (fl. 161).
+Depois, porque, quanto ao pedido de prisão domiciliar, além de o pleito se limitar à alegação de que o paciente possui doença preexistente (bronquite asmática), das informações atualizadas, prestadas pelo Juízo de primeiro grau, observa-se que o paciente se encontra em bom estado geral de saúde, não é portador de doença crônica, encontra-se sem queixas de febre, tosse ou falta de ar. A unidade prisional conta com equipe de saúde multidisciplinar e embora apresente casos confirmados de Covid-19, até o momento não houve o registro de nenhum caso grave (fl. 283).
+Assim, inviável a concessão da medida em caráter excepcional.
+Em face do exposto, denego a ordem, cassada a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. REGRESSÃO CAUTELAR DE REGIME PRISIONAL. EXCESSO DE PRAZO PARA APURAÇÃO DE INFRAÇÃO DISCIPLINAR. SUPERVENIÊNCIA DE HOMOLOGAÇÃO DO PROCEDIMENTO ADMINISTRATIVO. PERDA DO OBJETO. PRISÃO DOMICILIAR. COMORBIDADE PREEXISTENTE. INSUFICIÊNCIA. INFORMAÇÃO ATUALIZADA NOS AUTOS A RESPEITO DO BOM ESTADO DE SAÚDE DO APENADO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada. Liminarcassada.
