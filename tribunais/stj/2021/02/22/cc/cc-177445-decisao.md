@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito negativo de competência, com pedido liminar, suscitado por MANUELA RIBEIRO PAES LANDIM LIMA, envolvendoo Juízo Federal da 23ª Vara do Juizado Especial Cível de Brasília - SJ/DFe o Juízo de Direito da 6ª Vara da Fazenda Pública de Brasília, em ação ajuizada pela suscitante, com o objetivo de Restabelecimento de Auxilio-Doença.
+O Juízo Federal da 23ª Vara do Juizado Especial Cível de Brasília - SJ/DFextinguiu o processo sem julgamento de mérito, nos seguintes termos: "como se trata de benefício concedido por acidente de trabalho, tendo em vista o disposto no art. 109, inciso I, da Constituição Federal, entendo que compete à Justiça Estadual, e não a este Juizado, processar e julgar o feito"(fls. 52/53).
+O Juízo de Direito da 6ª Vara da Fazenda Pública de Brasília, por seu turno, sem suscitar conflito de competência, determinou a remessa dos autos àJustiça Federal, ao fundamento de que "estatui em seu artigo 109, inciso I, ser da competência da Justiça Federal a análise e julgamento as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de ré(fls. 101/102).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, mister ressaltar o entendimento desta Corte de Justiça no sentido de que a competência para julgar as demandas em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir.
+No presente caso, a ação foi ajuizada com o objetivo de restabelecimento de Auxilio Doença, espécie 31, nada obstante a autora mencionar que a causa da doença incapacitante está sendo objeto de discussão na justiça trabalhista(fls. 3/12).
+Para melhor elucidar a questão, traz-se à colação o art. 109, I, da Constituição Federal, que assim dispõe, inverbis:
+Aos juízes federais compete processar e julgar:
+I - as causas em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes, exceto as de falência, as de acidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça do Trabalho;
+Assim, a pretensão não se amolda à exceção firmada pelo preceito constitucional em tela, mas à regra que estabelece a competência da Justiça Federal para o processamento e o julgamento das ações em que a União, entidade autárquica ou empresa pública federal forem interessadas na condição de autoras, rés, assistentes ou oponentes.
+ANTE O EXPOSTO, conheço do conflito para declarar competente para o processamento do feito o Juízo Federal da 23ª Vara do Juizado Especial Cível de Brasília - SJ/DF.
+Publique-se e comunique-se, dando-se ciência aos Juízos envolvidos e ao Ministério Público Federal.
