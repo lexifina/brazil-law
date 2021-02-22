@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MINISTÉRIO PÚBLICO estadual contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado:
+APELAÇÃO CRIMINAL CÓDIGO DE TRÂNSITO BRASILEIRO DELITO DE HOMICÍDIO CULPOSO REQUISITOS NÃO COMPROVADOS ABSOLVIÇÃO DE RIGOR TRATANDO-SE A CULPA DE UMA CONDUTA VOLUNTÁRIA DE FORMA PREVISÍVEL MAS NÃO DESEJADA EM QUE O AGENTE PRODUZ UM RESULTADO ANTIJURÍDICO EM VIRTUDE DE NEGLIGÊNCIA IMPERÍCIA OU IMPRUDÊNCIA E INEXISTINDO A COMPROVAÇÃO DE QUE O APELADO TENHA INCORRIDO EM QUALQUER DAS MODALIDADES CITADAS IMPERIOSA A REFORMA DA SENTENÇA PROVIMENTO AO RECURSO É MEDIDA QUE SE IMPÕE VV Ç ) APELAÇÃO CRIMINAL HOMICÍDIO CULPOSO PRATICADO NA DIREÇÃO DE VEÍCULO AUTOMOTOR CULPA STRICTO SENSU CARACTERIZADA CONDENAÇÃO MANTIDA COMPENSAÇÃO DE CULPAS IMPOSSIBILIDADE 01 DEMONSTRADO QUE O APELANTE NÃO OBSERVANDO O DEVER DE CUIDADO OBJETIVO EXIGIDO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR CONTRIBUIU COM A MORTE DA VÍTIMA SUA CONDENAÇÃO É MEDIDA QUE SE IMPÕE 02 A CIRCUNSTÂNCIA DE O OFENDIDO TAMBÉM HAVER DADO CAUSA AO ACIDENTE AUTOMOBILÍSTICO NÃO TEM O CONDÃO DE ELIMINAR A RESPONSABILIDADE PENAL DO ACUSADO PORQUANTO NO DIREITO PENAL NÃO HÁ FALAR-SE EM COMPENSAÇÃO DE CULPAS.
+Quanto à controvérsia em exame, aponta o Parquet negativa de vigência do art. 302, caput, do CTB, associada à dicção dos arts. 13, caput, 18, inciso II, ambos do CP, ao raciocínio de que, como o recorrido atuou no caso vertente - "inequivocamente" (fl. 212) - com inobservância do dever objetivo de cuidado, de forma imprudente, circunstância que auxiliou para a ocorrência do acidente fatal que vitimou Fabricio Soares Marinho, o restabelecimento do édito condenatório de fls. 138/146 é medida que se impõe.
+Para tanto, explicita os seguintes argumentos:
+A colenda Terceira Câmara Criminal do TJMG, por maioria, deu provimento à apelação interposta pela defesa do réu, absolvendo-o da prática do delito capitulado no art. 302, caput, do Código de Trânsito Brasileiro  ..  (fls. 212).
+ ..  o recorrido atuou com inobservância do dever objetivo de cuidado, de forma imprudente, circunstância que auxiliou para a ocorrência do acidente fatal que vitimou Fabricio Soares Marinho. (fls. 212).
+Não se desconhece que a vitima, a qual pilotava uma motocicleta Honda, havia ingerido bebida alcóolica e tinha o pneu traseiro de sua motocicleta em mal estado de conservação, além de haver indicativo de que poderia estar em velocidade alta, quando do infortúnio. (fls. 213).
+Entrementes, o choque com o veiculo do recorrido, que redundou no óbito da vítima, somente ocorreu porque tanto a vítima, quanto o recorrido, descump riam as regras de trânsito, tendo havido uma concorrência de condutas imprudentes que redundaram no evento morte. (fls. 213).
+Portanto, atuou o rêcorrido de forma imprudente, pelo que deve responder pelo evento morte a que deu causa. (fls. 213).
+Portanto, a responsabilidade do acidente foi de ambos os agentes, a vítima, que foi a óbito e o réu, que deve receber a reprimenda justa e necessária para o ato. (fls. 217).
+Portanto, atuou o recorrido de forma imprudente, pelo que deve responder pelo evento morte a que deu causa. (fls. 218).
+Ex positis, o MINISTÉRIO PÚBLICO DE MINAS GERAIS propugna pela admissão do presente RECURSO ESPECIAL e, ao final, pelo seu provimento, para restabelecer a condenação do réu nas sanções do art. 302, caput, da Lei n. 9.503/97. (fls. 219).
+É, no essencial, o relatório. Decido.
+No que concerne ao tema controvertido, o Tribunal de origem, por maioria, ao prover o apelo defensivo, exortou:
+Trata-se de recurso de apelação criminal interposto em face da sentença de fls.1081112, que condenou o acusado Lucimar Cardoso Alves nas sanções do art. 302, caput, do Código de Trânsito Brasileiro, às penas de 02 (dois) anos de detenção, em regime aberto, e suspensão da carteira nacional de habilitação pelo período de 02 (dois) meses.
+Nas razões recursais de fls. 1191121, pleiteia-se a absolvição porque não haveria nos autos provas suficientes acerca da culpa do apelante quanto aos fatos em tela.
+ ..
+Merece guarida o pleito absolutório formulado pela defesa, veja- se.
+A materialidade do fato resta comprovada pelo relatório de necropsia (fls. 14116), bem como pelo laudo pericial de vistoria do local e de vistoria no veículo do acusado (fi. 29139).
+Quanto à autoria, malgrado tenha restado comprovado que o apelante era o condutor do veículo envolvido no acidente, de uma análise pormenorizada da prova contida nos autos do processo, observa-se que não há comprovação de que a sua conduta enquadra- se em qualquer das modalidades de culpa - imperícia, imprudência ou negligência - na condução do veículo Fiat Strada.
+ ..
+Do mesmo, as sua declarações sob o crivo do contraditório, em que asseverou que se deslocava corretamente em sua mão da pista de rolamento, quando foi surpreendido pelo ofendido que deslocava-se na contramão, causando a colisão dos veículos. (sistema audiovisual de fI. 87).
+No mesmo sentido o testemunho, perante autoridade policial, da ex-esposa do apelante  ..
+Além disso, a testemunha Antenor Bento da Silva, que visualizou a vitima conduzindo a motocicleta de forma imprudente, esclareceu em seu depoimento em fase administrativa:
+ ..
+A testemunha confirmou suas declarações sob o crivo do ) contraditório, em sistema audiovisual de fI. 87.
+Acrescenta-se, também, que a testemunha arrolada pela defesa, Geralda Anastácia Elias Pires, afirmou em juízo que viu a vítima embriagada pegar a condução da motocicleta pouco antes dos fatos. (mídia fl. 87)
+Corroborando a prova oral, destaca-se que o laudo de fi. 49 constatou alta dosagem de álcool no organismo do ofendido. Logo, a capacidade psicomotora deste estava, de fato, alterada, fazendo com que ele dirigisse de forma imprudente e sobrepondo às linhas de fluxo contrário, o que levou a colisão dos veículos e ao seu óbito.
+Ademais, o laudo de vistoria dos veículos detectou que a motocicleta conduzida pela vítima possuia pneu traseiro com mau estado de conservação, o que também converge para a culpa da mesma.
+ ..
+Ora,.por. estes elementos resta clara a dificuldade do réu em - notar que o ofendido se deslocava na contramão, eis que o ponto de colisão foi em uma curva, sem iluminação, bem como demonstra-se a complexidade de se evitar o acidente, já que se tratava de pista única sem acostamento.
+Portanto, em face de todos os elementos colhidos ao longo da instrução, não restou demonstrada a culpa do apelado. Ao contrário, há elementos que informam a culpa da vítima pelo acidente, pois se deslocava sobre a pista de rolamento, sobrepondo às linhas de fluxo contrário e, ainda, sob a influência de álcool.
+ ..
+Destarte, não há elementos nos autos comprobatórios de que o réu deixou de observar o dever objetivo de cuidado. Não há comprovação de qualquer modalidade de culpa a ensejar a punição do apelado pelo evento que, lamentavelmente, ocasionou a morte da vítima.
+ ..
+Sendo assim, ausentes provas seguras da responsabilidade do acusado pelo evento danoso, não há como condená-lo. (fls. 191/197 - g.m.)
+Da compreensão dos excertos transcritos, infere-se incidir o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial") quanto à aspiração ministerial alhures, destinada ao restabelecimento da condenação do recorrido, porquanto a revisão das premissas assentadas pelo Tribunal a quo demandaria inexorável reexame do acervo fático-probatório carreado aos autos, mister incabível na via eleita.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
