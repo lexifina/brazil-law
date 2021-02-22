@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 103):
+ACIDENTÁRIA ACIDENTE TÍPICO LESÃO CORTOCONTUSA NOS DEDOS DA MÃO DIREITA SENTENÇA DE PROCEDÊNCIA APELAÇÃO DO INSS E REEXAME NECESSÁRIO LAUDO MÉDICO CONCLUSIVO - INCAPACIDADE PARCIAL E PERMANENTE E NEXO CAUSAL CARACTERIZADOS AUXÍLIO -ACIDENTE DEVIDO A PARTIR DO DIA SEGUINTE À ALTA MÉDICA FIXAÇÃO DOS JUROS DE MORA E CORREÇÃO MONETÁRIA SENTENÇA MANTIDA.
+Apelação do INSS não provida. Sentença de procedência mantida, com observação, em sede do reexame necessário.
+Opostos embargos de declaração, foram rejeitados (fls. 137/143).
+Em seu especial, aponta a Autarquia recorrente violação dos arts. 41-A, da Lei 8.213/91, com a redação dada pela Lei 11.430/2006, 5º da Lei 11.960/2009 e 1º-F da Lei 9.494/97.
+Afirma que ".. a utilização do IGP-DI para a atualização do débito após dezembro/2006 afronta à lei posterior, sendo de rigor a aplicação do INPC ou que sejam devidamente fundamentadas as razões do afastamento da aplicação da Lei. 11.430/06." (fl. 117).
+Neste sentido, também argumenta que ".. não há fundamento legal para o v. acórdão recorrido determinar que, a partir de 30.06.2009, a correção das parcelas em atraso na presente ação será apurada pela aplicação do IGP-DI, até a data da elaboração da conta, e, após pelo IPCA-E, tendo em vista que deve incidir o disposto na Lei nº 11.960/2009 para a atualização da condenação, sendo inconstitucional o índice ali colocado apenas para a atualização do precatório e, ainda, assim, a partir de 25/03/2015." (fl. 120).
+Finaliza sua tese aduzindo que "Assim, de rigor a incidência imediata da Lei nº 11.960/2009 no tocante também à correção das parcelas em atraso, tendo em vista o já decidido pelo E. STF, e, dessa forma, não há qualquer razão para a ausência de utilização da referida norma." (fl. 122).
+Contrarrazões às fls. 149/151.
+Em novo exame para eventual juízo de retratação, nos termos do art. 1.030, caput, II, do CPC/2015, o acórdão foi parcialmente reformado, resultando na seguinte ementa (fl. 347):
+AÇÃO ACIDENTÁRIA REEXAME EM RECURSO REPETITIVO, NOS TERMOS DO ART. 1.040, "CAPUT", INC. II,DO CPC CORREÇÃO MONETÁRIA INCIDÊNCIA DO "INPC"ATÉ 29.06.2009 E, A PARTIR DE ENTÃO, DO "IPCA-E", CONSOANTE ENTENDIMENTO DO STJ, FIXADO NO JULGAMENTO DO TEMA 905, BEM COMO DO STF, FIXADO NO JULGAMENTO DO TEMA 810.
+Acórdão parcialmente reformado.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+No caso, conforme se verifica dos autos, o Tribunal a quo, em juízo de retratação previsto no art. 1.040, II, do CPC/15, proferiu novo julgamento e modificou o entendimento anteriormente exarado.
+Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto seria medida de rigor, nos termos da Súmula 579/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada. Agravo regimental improvido.
+(AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+Ademais, o Tribunal de origem, ao solucionar a controvérsia, adotou as seguintes razões de decidir (fls. 107/108):
+No que pertine à correção monetária, merece retoque o decisum, pois os valores em atraso, decorrentes do benefício ora deferido, serão corrigidos monetariamente pelo IGP-DI, até a data da conta de liquidação e, após, deve ser utilizado o IPCA-E a partir do termo final considerado no cálculo de liquidação que vier a ser aprovado na execução, para efeito de atualização do precatório, afastada, a aplicação do índice oficial de remuneração básica da caderneta de poupança (TR), por força da declaração de inconstitucionalidade declarada em autos de ADI nº 4.357, ocorrida aos 14 de março de 2013, cuja modulação dos efeitos foi julgada aos 25 de março de 2015.
+A conta a ser elaborada deverá seguir a forma da Lei8.213/91, ou seja, com cálculo mês a mês de cada parcela devida, partindo-se da renda mensal inicial devidamente reajustada pelos índices de manutenção no decorrer do tempo.
+Os juros de mora, incidentes a partir da citação, serão computados sobre as parcelas em atraso de forma englobada até a citação e, a partir daí, mês a mês de modo decrescente, à base mensal prevista para caderneta de poupança, conforme disciplina da Lei n. 11.960/09 (porque não alterado neste aspecto em sede da referida ADI).
+Importante ressaltar que o IPCA-E será o índice a ser aplicado a partir do termo final considerado no cálculo de liquidação que vier a ser aprovado na execução, para efeito de atualização do precatório.
+Também se faz, por fim, muito oportuna a observação da seguinte fundamentação, adotada pela Corte de origem, ao proferir acórdão em juízo de retratação (fl. 350):
+Nesse panorama, em razão do julgamento do Tema 905 pelo Superior Tribunal de Justiça, o INPC deve ser utilizado como fator de indexação da atualização monetária dos valores em atraso, nos termos da Lei n. 11.430/06, até 29.06.2009, quando, então, deve ser adotado o IPCA-E, em consonância com os julgamentos da ADI 4.357 e do Tema 810 da repercussão geral pelo Supremo Tribunal Federal, que expressamente declarou a inconstitucionalidade da adoção do rendimento da caderneta de poupança como critério de atualização monetária dos débitos a serem adimplidos pela Fazenda Pública, observando, inclusive, eventual modulação dos efeitos da orientação estabelecida.
+Como se observa, o Tribunal de origem amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido.
+Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ (É inadmissível recurso especial, quando o acórdão recorrido se assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.).
+Ademais, ultimada a resolução da controvérsia em repercussão geral, denotando a primazia do viés constitucional do tema em debate, caso não é de enfrentá-lo na seara do Recurso Especial ou do Agravo dele decorrente (AREsp).
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
