@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por G.L.M, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AUXÍLIO-RECLUSÃO.DEPENDÊNCIA ECONÔMICA. QUALIDADE DE SEGURADO.SALÁRIO DE CONTRIBUIÇÃO. DESEMPREGADO. VALOR DOBENEFÍCIO. TERMO INICIAL. JUROS. CORREÇÃO MONETÁRIA.HONORÁRIOS ADVOCATÍCIOS.
+I - Dependência econômica presumida, nos termos do § 4º, do artigo16, da Lei nº 8.213/91 por se tratar de dependentes arrolados no inciso I.
+II - Qualidade de segurado do detento restou demonstrada nos autos,consoante dados do CNIS, onde se verifica que seu último contrato de trabalho findou em 01.06.2007, sendo que o salário de contribuição correspondia a R$ 822,17, relativo ao mês de maio/2007, acima,portanto do valor fixado no artigo 13 da Emenda Constitucional nº 20,de 15.12.1998, equivalente a R$ 360,00, atualizado para R$ 676,27,pela Portaria nº 142, de 11.04.2007, do Ministério da Economia.
+III - Irrelevante o fato de o segurado recluso ter recebido salário de contribuição pouco acima do limite legalmente estabelecido em seu último contrato de trabalho, vez que não estava exercendo atividade laborativa no momento em que foi preso.
+IV - Em razão da ausência de salário de contribuição na data do efetivo recolhimento do segurado à prisão, o valor do benefício será de um salário mínimo.
+V - Termo inicial do benefício mantido na data de nascimento do autor(12.04.2012), eis que posterior à data da prisão, sendo devido até a soltura (09.10.2017), descontado o período de 02.04.2013 a 03.10.2013. (em que o segurado esteve foragido). Deve ser considerado que não corre o prazo prescricional em desfavor de absolutamente incapaz.
+VI - A correção monetária e os juros de mora deverão ser calculados de acordo com a lei de regência, observando-se as teses firmadas pelo E.STF no julgamento do RE 870.947. Quanto aos juros de mora será observado o índice de remuneração da caderneta de poupança a partir de 30.06.2009.
+VII - Mantidos os honorários advocatícios sobre o valor das prestações vencidas até a data da sentença, nos termos da Súmula 111 do E. STJ- em sua nova redação, e entendimento firmado por esta 10ª Turma, conforme previsto no art. 85, § 11, do Novo CPC.
+VIII - Apelação do INSS parcialmente provida.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violados os arts. 29 e 75 da Lei n. 8.213/1991, sustentando, em síntese, que é indevida a fixação do valor do benefício de auxílio-reclusão em um salário-mínimo.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, da interpretação dos arts. 28, 29, 33, 75 e 80, da Lei 8.213/1991, extrai-se que a apuração do valor do salário de benefício do auxílio-reclusão segue os mesmos critérios da pensão por morte, de modo que será apurado com base na média aritmética simples dos maiores salários de contribuição correspondentes a oitenta por cento de todo o período contributivo. In verbis:
+PREVIDENCIÁRIO. AUXÍLIO-RECLUSÃO. SEGURADO SEM RENDA EM PERÍODO DE GRAÇA. VALOR DO BENEFÍCIO. CÁLCULO COM BASE NO SALÁRIO DE BENEFÍCIO.
+1. O acórdão recorrido entendeu que o valor do benefício de auxílio-reclusão deve corresponder a um salário mínimo mensal quando o segurado não possui renda por estar em período de graça, na data do seu efetivo recolhimento à prisão.
+2. Não há previsão legal de para que, na ausência de salário de contribuição, o valor do benefício do auxílio-reclusão seja de um salário mínimo. Da interpretação dos arts. 28, 29, 33, 75 e 80, da Lei 8.213/1991, extrai-se que a apuração do valor do salário de benefício do auxílio-reclusão segue os mesmos critérios da pensão por morte, de modo que será apurado com base na média aritmética simples dos maiores salários de contribuição correspondentes a oitenta por cento de todo o período contributivo.
+3. Recurso Especial provido.
+(REsp 1808750/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/06/2019, DJe 02/08/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar que o valor do salário de benefício do auxílio-reclusão será apurado com base na média aritmética simples dos maiores salários de contribuição correspondentes a oitenta por cento de todo o período contributivo.
+Publique-se. Intimem-se.
