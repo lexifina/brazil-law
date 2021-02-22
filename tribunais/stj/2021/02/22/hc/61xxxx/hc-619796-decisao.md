@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, sempedido liminar, impetrado em favor de GLEYDSON DA SILVA SANTOS contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido noAgravo em Execução Penal n. 0002581-18.2020.8.26.0509.
+Consta dos autos que o Juízo das Execuções Penais indeferiu o requerimentoformulado pelo Pacienteparaa aplicaçãodo percentual de 40% (quarenta por cento) de cumprimento da pena para a concessão de progressão de regime, conforme previsto no art. 112, inciso V, da Lei n. 7.210/1984 (fl. 16).
+Inconformado, o Apenado interpôs agravo em execução penal, que foi desprovidopelo Tribunal de origem, conforme acórdão assim ementado (fl. 23; sem grifos no original):
+"Agravo em execução penal. Retificação de cálculo para fins de progressão. Lei 13964/2019. Sentenciado reincidente específico em delito hediondo ou equiparado -Pleito de aplicação de novatio legis in mellius, com percentual de cumprimento do interregno de 40% da pena, exigido aos sentenciados primários. Não cabimento. Lei Federal 13964/2019, também conhecida como Pacote Anticrime que não exigiu a condição de reincidência específica.Precedentes. Decisão mantida. Recurso não provido."
+Neste writ, a Parte Impetrante sustenta, em suma, que o Paciente não éreincidente em crime hediondo ou equiparado,fazendo jus, portanto, ao percentual de 40% (quarenta por cento) previsto no art. 112, inciso V, da Lei de Execuções Penais, para fins de progressão de regime.
+Nesse sentido, aduz que o lapso temporal correspondente a 60% (sessenta por cento) de cumprimento dapena, constante no art. 112, inciso VII, da LEP, é aplicável tão somente na hipótese de reincidência específicana prática de crime hediondo ou equiparado.
+Frisa que, "embora o Paciente seja reincidente, não se trata de reincidente específico (fl. 5; grifo no original).
+Requerseja reconhecida a incidência do disposto no art. 112, inciso V, da Lei n. 7.210/1984, incluído pela Lei n. 13.964/2019, determinando-se, assim, a aplicação da fração de 40% (quarenta por cento) no cálculo de penas do Paciente.
+Foram prestadas informações às fls. 37-45.
+O Ministério Público Federal opinou pelo não conhecimento do writou pela denegação da ordem (fls. 47-50).
+É o relatório.
+Decido.
+Na hipótese, o Paciente foi condenado, em 12/11/2019, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006,àpenade 7 (sete) anos, 4 (quatro) meses e 26 (vinte e seis) dias de reclusão, e pelo cometimento do delito disposto no art. 307, caput, do Código Penal, àpena de3(três) meses e 15 (quinze) dias de detenção(fls. 11-12).
+A Corte a quo, ao desprover o agravo em execução interposto pelo Sentenciado, consignou, expressamente, que " o agravante é reincidente específico e não simples, como faz crer a combativa Defensoria Pública, pois já cumpriu reprimenda por crimes comuns, bem como por tráfico de drogas, equiparado a hediondo, conforme pesquisa realizada nesta data no Sistema das Varas de Execuções Criminais - Sivec" (fl. 24).
+De fato, consta na conta de liquidação acostada às fls. 11-12que, na ocasião da referida condenação, o Paciente era reincidente específico em crime hediondo ou equiparado, o que corrobora com a afirmação do Tribunal local de que a reincidência do Apenado é específica, e não simples.
+Nesse contexto, verifica-se que a Defesa não se desincumbiu do ônus de comprovar a alegação de que a reincidência do Paciente se dá pelo cometimento anterior de crime comum, valendo reiterar que, conforme consta noaresto combatido e na conta de liquidação juntada aos autos, o Apenado é reincidente em crime hediondo/equiparado, o que torna aplicável à espécie, portanto,o percentual de 60% (sessenta por cento) para a progressão de regime do Paciente, de acordo com a literalidade do inciso VII do art. 112 da Lei de Execução Penal.
+Impõe-se, assim, o não conhecimento do presente habeas corpus.
+Como se sabe, o rito dohabeas corpus"pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao recorrente (precedentes), o que não ocorreu no caso vertente" (RCD no RHC 131.143/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 01/09/2020, DJe 04/09/2020; sem grifos no original).
+Ante o exposto, NÃO CONHEÇO dohabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ART. 112 DA LEI N. 7.210/1984 COM AS ALTERAÇÕES INTRODUZIDAS PELA LEI N. 13.964/2019. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO OU EQUIPARADO. APLICAÇÃO CORRETA DO PERCENTUAL DE 60% (SESSENTA POR CENTO) DA PENA PARA PROGRESSÃO DE REGIME.AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA DO DIREITO ALEGADO.HABEAS CORPUS NÃO CONHECIDO.
