@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por LNG INDÚSTRIA E COMÉRCIO DE MADEIRAS LTDA. contra a decisão que não admitiu o seu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. MEIO AMBIENTE. INSTALAÇÃO DE SERRARIA E PORTO. AUSÊNCIA DE ESTUDO DE IMPACTO AMBIENTAL. NECESSIDADE.
+PREVISÃO CONTIDA NO ART. 225, §1º, INCISO IV, DA CARTA MAGNA. SENTENÇA MONOCRÁTICA QUE NÃO MERECE REPAROS. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.
+I - In casu, em uma Ação Civil Pública ajuizada pelo Ministério Público do Estado do Pará, a empresa apelante foi condenada na obrigação de não continuar a execução de implantação de uma serraria e um  porto em uma área localizada no Município de Belterra, sem a prévia realização de um Estudo Prévio de Impacto Ambiental  EIA/RIMA, até que obtenha a licença ambiental da Secretaria de Estado de Meio Ambiente, sob pena de pagamento de multa de R$ 10.000,00 (dez mil reais) por dia de descumprimento;
+II  O relatório emitido pela Secretaria de Gestão do Meio Ambiente e Turismo do Município de Belterra, após uma verificação in loco de uma equipe da referida secretaria, atestou que o empreendimento da recorrente se localizava em uma área de proteção ambiental e era gerador de significativos impactos ambientais;
+III - Outrossim, tendo o empreendimento da apelante capacidade de causar degradação ambiental, é necessário sim a elaboração de um estudo prévio de impacto ambiental, conforme preceitua o art. 225, §1º, inciso IV, da Constituição Federal, motivo pelo qual, a manutenção da sentença monocrática é medida que se impõe;
+IV  Recurso de apelação conhecido e improvido.
+Nas razões do especial obstado na origem, alega violação do art. 8º, II, da Lei n. 6.938/81, além de divergência jurisprudencial, no que concerne ao dever de elaboração de EIA/RIMA para o empreendimento, trazendo o seguinte argumento:
+Como se pode perceber da leitura do artigo, não consta em seu rol de atividades os empreendimentos que seriam praticados pela Recorrente: serrarias e porto para transportar os produtos beneficiados.
+ ..
+É notório que qualquer atividade praticada pelo homem causa um impacto ao meio ambiente, porém, no caso da serraria, como se pode verificar, não há um significativo impacto no meio ambiente, mas sim impactos indiretos como a poluição sonora e a captação da água por meio de poço artesiano.
+Deste modo, para que houvesse conclusão a respeito da efetiva necessidade de realização de EIA/RIMA, adentrando no mérito do ato administrativo, seria necessária a realização de prova pericial na qual restasse consignado o significativo impacto ambiental decorrente da atividade a ser licenciada (fls. 501-503).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido decidiu que:
+Além disso, o mencionado relatório atestou que o empreendimento da apelante era gerador de significativos impactos ambientais.
+Outrossim, tendo o empreendimento da apelante capacidade de causar degradação ambiental, é necessário sim a elaboração de um estudo de impacto ambiental, conforme preceitua o art. 225, §1º, inciso IV, da Constituição Federal, in verbis:
+ ..
+Não há dúvida de que a intenção do legislador constitucional é prevenir todo e qualquer possível dano ao meio ambiente. E, se há qualquer possibilidade, por menor que seja, de que a atividade ou a obra a ser realizada possa degradar o meio ambiente, tem o Poder Público o dever de interferir.
+Destaca-se, portanto, a importância do Estudo de Impacto Ambiental para assegurar o equilíbrio ecológico do meio ambiente, tal qual nos é expressamente garantido no corpo da Carta Magna (fls. 485-486).
+Assim, é incabível o recurso especial pois interposto contra acórdão com fundamento eminentemente constitucional.
+Nesse sentido: "Possuindo o julgado fundamento exclusivamente constitucional, descabida se revela a revisão do acórdão pela via do recurso especial, sob pena de usurpação de competência". (AgRg no AREsp 1.532.282/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 19/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgRg no REsp 1.302.307/TO, relatora Ministra Eliana Calmon, Primeira Seção, DJe de 13/5/2013; REsp 1.110.552/CE, relator Ministro Cesar Asfor Rocha, Primeira Seção, DJe de 15/2/2012; AgInt no REsp 1.830.547/DF, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no AREsp 1.488.516/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 1º/7/2020; AgInt no AgInt no AREsp 1.484.304/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 25/6/2020; AgInt no AREsp 1.519.322/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 30/10/2019; e AgInt no AREsp 1.358.090/SE, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/6/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
