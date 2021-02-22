@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CELSO ANTONIO MISTURINI, LUIZ MISTURINI, PEDRO MISTURINI e VILSON MISTURINI, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 20/05/2020.
+Concluso ao gabinete em: 06/08/2020.
+Ação: recuperação judicial das empresas formadoras do Grupo Misturini.
+Sentença: julgou extinto o feito por carência da ação, por entender que o empresário individual irregular ou a sociedade empresária irregular não tem direito à recuperação judicial.
+Acórdão: negou provimento ao recurso de apelação interposto pelos recorrentes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - PEDIDO DE RECUPERAÇÃO JUDICIAL - SENTENÇA QUE EXTINGUE O FEITO SEM RESOLUÇÃO DO MÉRITO POR CARÊNCIA DE AÇÃO - PRODUTORES RURAIS - EMPRESÁRIOS INDIVIDUAIS - REGISTRO NA JUNTA COMERCIAL - IMPRESCINDIBILIDADE DO DECURSO DO PRAZO DE 02 DOIS ANOS - SENTENÇAMANTIDA - RECURSO DESPROVIDO.
+1 - Até que sobrevenha a uniformização de entendimento no STJ, por meio de Recurso julgado sob a sistemática dos repetitivos, impõe-se a aplicação, ipsis literis, do art. 51, inciso V, da Lei nº. 11.101/05, o qual estabelece que a recuperação judicial somente poderá ser utilizada por quem for empresário ou sociedade empresária, e regularmente inscrito no Registro Público de Empresas ou Junta Comercial para o caso do empresário se pessoa física há mais de 02 (dois) anos.
+2 - No caso dos autos, conquanto os produtores rurais tenham satisfeito alguns pressupostos, cumulativos, do artigo art. 48 da Lei 11.101/2005, não satisfizeram a prova da inscrição na Junta Comercial há pelo menos 02 (dois) anos, o que obsta o processamento da recuperação judicial.(e-STJ, fls. 384/385)
+Embargos de Declaração: opostos pelos recorrentes foram rejeitados.
+Recurso especial: alega violação dos arts. 1.º, 2.º, 48,§ 2.º da Lei 11.101/05 e966, 970 e 971, do CC,bem como dissídio jurisprudencial.
+Sustenta não ser obrigatória a apresentação da prova do registro na junta comercial por mais de dois anos para conferir legitimidade ao produtor rural de formular pedido de recuperação judicial.
+Aduz que a atividade anterior ao ato de registro deve ser considerada para fins de preenchimento do requisito formal, cuja comprovaçãopode se dar por meio de Declaração de Informações Econômico-Fiscais da Pessoa Jurídica (agora Imposto de Renda Escrituração Contábil e Fiscal).
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Do entendimento jurisprudencial do STJ
+O TJ/MT, na linha da sentença de primeiro grau,inadmitiu o pedido de recuperação dos recorrentes porque, embora fossem empresários rurais e tivessem cumpridoalguns pressupostos cumulativos do art. 48 da Lei 11.101/05, não satisfizeram a prova da inscrição na JuntaComercial há mais de dois anos, contados da data do pedido de recuperação, nestes termos:
+ ..  o exercício de atividade rural é tido como profissional e não o obriga ao registro mercantil. Todavia, para se enquadrar no regime empresarial preconizado no art. 966 do CC, é obrigatório o registro da pessoa física que exerce a atividade rural na Junta Comercial.
+Sem embargos às linhas de entendimento divergentes sobre o assunto, até que sobrevenha a uniformização de entendimento no STJ, impõe-se a aplicação, ipsis literis, da Lei nº. 11.101/05, o qual estabelece que a recuperação judicial somente poderá ser utilizada por quem for empresário ou sociedade empresária, cuja prova se dá mediante a regular inscrição no Registro Público de Empresas ou Junta Comercial para o caso do empresário se pessoa física há mais de 02(dois) anos.
+Dito de outro modo, faz jus à Recuperação o empresário ou sociedade empresária que, no momento do pedido, exerça regularmente suas atividades há mais de dois anos, e que atenda aos requisitos descritos no art. 48 da Lei 11.101/2005.
+Além disso, a petição inicial deve conter a certidão de regularidade do devedor no Registro Público de Empresas, o ato constitutivo atualizado e as atas de nomeação dos atuais administradores (art. 51, V da LRF).
+Conquanto a ausência de registro não impeça a qualificação da atividade do produtor rural como profissional, tampouco regularidade dessa atividade, o registro na Junta Comercial é, atualmente, tido como ato constitutivo, e não meramente declaratório, do direito de o produtor rural pleitear a sua recuperação judicial.
+Com relação à comprovação do exercício regular, a redação do § 2º, do art. 48 da Lei 11.101/05, compete ao produtor rural aprova do exercício por período superior a 02 (dois) anos, podendo se darde diversas formas, tais como: a apresentação de nota de produtor rural, comprovante de recolhimento de tributos, cópias de contratos bancários rurais ou dos quais se denote a natureza da atividade econômicadesenvolvida, bem como de documentos contábeis, mas não afasta a obrigatoriedade de apresentar a prova do registro na Junta Comercial.
+Feitas essas considerações, o processamento da recuperação judicial pleiteada por produtor rural é permitido pelo ordenamento, desde que haja a satisfação, dentre outros requisitos, da prova da inscrição na Junta Comercial há pelo menos 02 (dois) anos, o que inocorre no caso dos autos. (e-STJ, fls. 393/395)
+Ocorre que, a jurisprudência pacífica desta Corte assinala ser possível, ao empresário individual, a comprovação do exercício profissional de atividade agropecuária pelo biênio mínimo por outras provas admitidas em direito, que não exclusivamentea inscrição na Junta Comercial, levando-se em conta o período anterior à inscrição.
+Nesse sentido:AgInt nos EDcl no REsp 1.849.137/SP, Quarta Turma, DJe 14/12/2020 e REsp 1.811.953/MT, Terceira Turma, DJe 15/10/2020.
+Assim, o acórdão atacado está em desconformidade com o aludido entendimento, no ponto específico em que exigeos dois anos de inscrição na Junta Comercial para comprovação do tempo de exercício da atividade agropecuária, na medida em quetal demonstração pode ocorrer por outros meios.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para que o Tribunal de origem prossiga no julgamento da apelação, com a análise dos requisitos para o empresário individual requerer a recuperação judicial, à luz do entendimento jurisprudencial desta Corte.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EMPRESÁRIO INDIVIDUAL RURAL. EXERCÍCIO PROFISSIONAL DA ATIVIDADE AGROPECUÁRIA. INSCRIÇÃO NA JUNTA COMERCIAL HÁ MENOS DE DOIS ANOS.COMPROVAÇÃO POR OUTRAS FORMAS ADMITIDAS EM DIREITO. POSSIBILIDADE.
+1. A jurisprudência desta Corte assinala ser possível ao empresário individual a comprovação do exercício profissional de atividade agropecuária pelo biênio mínimo por outras provas admitidas em direito, que não exclusivamentea inscrição na Junta Comercial.
+2. Recurso especial provido.
