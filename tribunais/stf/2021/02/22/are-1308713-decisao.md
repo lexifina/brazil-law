@@ -1,0 +1,23 @@
+DIREITO ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. POLÍTICAS PÚBLICAS. IMPLEMENTAÇÃO. NECESSIDADE. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. RECURSO EXTRAORDINÁRIO A QUE SE NEGA PROVIMENTO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na ofensa aos arts. 1º, III, 2º, 5º, § 2º, 30, VIII, e 225 da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    Oportuna a parcial transcrição do acórdão recorrido:
+    “[...]
+    O apelo ministerial sustenta que, após a remoção das residências em situação de vulnerabilidade, é necessário o reflorestamento da área marginal de proteção do Rio Paquequer, o que não foi contemplado no julgado.
+    Afirma que, em atenção Princípio da Prevenção, deve ser determinada a apresentação de projeto de reurbanização da área de Ilha do Caxangá, com o fim de evitar grave prejuízo a toda a população teresopolitana.
+    Referente ao reflorestamento / recomposição da faixa marginal do Rio Paquequer, válido destacar que há um Termo de Ajustamento de Conduta (TAC) neste sentido, com ação de execução em curso na 1ª Vara Cível de Teresópolis, sob o nº 0013683-38.2008.8.19.0061, inclusive com manifestação desta Corte em sede de embargos à execução (nº 0010885-70.2009.8.19.0061), confirmando a validade e os termos do referido TAC. Desta forma, referente a este ponto específico, não há que se falar em nova manifestação deste Tribunal.
+    Quanto à apresentação de projeto de reurbanização da Ilha do Caxangá, em que pese a necessária consideração ao princípio da prevenção, é inequívoca a existência de outras áreas no Município de Teresópolis em situação semelhante que carecem de atenção do poder público, não havendo nestes autos a demonstração da prioridade do local em destaque. Portanto, não cabe ao Poder Judiciário determinar tal medida por caracterizar ingerência desarrazoada na análise dos princípios de conveniência e oportunidade que gerem a Administração Pública.”
+    O Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento no sentido da ausência de “demonstração de prioridade” apta a fundamentar determinação do Poder Judiciário ao Município para que apresente projeto de reurbanização da referida área. Desse modo, a aferição da ocorrência de eventual afronta ao preceito constitucional invocado no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária.
+    Dessarte, desatendida a exigência do art. 102, III, a, da Lei Maior, nos termos da remansosa jurisprudência deste Supremo Tribunal Federal. Nesse sentido:
+    “Agravo regimental no recurso extraordinário. 2. Poder Judiciário. Implementação de políticas públicas. Possibilidade. Violação do princípio da separação dos poderes. Não ocorrência. 3. O Tribunal de origem afastou a necessidade da intervenção judicial, diante do contexto fático-normativo dos autos. Reexame dos fatos e provas. Impossibilidade. Súmula 279 do STF. 4. Agravo regimental a que se nega provimento” (RE 706085 AgR, Relator(a): Gilmar Mendes, Segunda Turma, julgado em 27.10.2015, ACÓRDÃO ELETRÔNICO DJe-231 DIVULG 17.11.2015 PUBLIC 18.11.2015).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO CIVIL PÚBLICA. POSSIBILIDADE DE IMPLEMENTAÇÃO DE POLÍTICAS PÚBLICAS POR DECISÃO JUDICIAL. PRECEDENTES. NECESSIDADE DA POLÍTICA IMPLEMENTADA: IMPOSSIBILIDADE DE REEXAME DE FATOS E PROVAS. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1186540 AgR, Relator(a): Celso De Mello, Relator(a) p/ Acórdão: Cármen Lúcia, Segunda Turma, julgado em 20.10.2020, PROCESSO ELETRÔNICO DJe-263 DIVULG 03.11.2020 PUBLIC 04.11.2020).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 22 de fevereiro de 2021.
+Ministra Rosa Weber
+Relatora
