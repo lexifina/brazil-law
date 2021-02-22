@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANGO ITAÚ SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE PELA UNIÃO. HONORÁRIOS.
+AUSÊNCIA DE CONDENAÇÃO. LEI 10.522/02, ARTIGO 19, §1º,I.
+1. A União é isenta de honorários advocatícios quando reconhece integralmente a procedência do pedido, nos termos do § 1º do art. 19 da Lei nº 10.522, de 2002.
+2. No caso dos autos, a União reconheceu a prescrição dos créditos exequendos e postulou a extinção da execução  scal, sendo incabível a condenação em verba honorária.
+3. Apelação desprovida.
+Quanto à controvérsia, alega violação dos arts. 85, § 3º, do CPC e 26 da Lei n. 6.830/80, no que concerne à fixação de honorários no presente caso, trazendo os seguintes argumentos:
+No presente caso, não houve fixação justa de honorários, embora houvesse presente objeto que lhe deu causa, bem como todos os demais requisitos necessários, do que se conclui haver lastro para a referida fixação dentro dos parâmetros legais, respeitada a especificidade da causa ao envolver a Fazenda Pública.
+Com efeito, a exequente, deu causa à propositura de Execução Fiscal, vendo-se o ora Recorrente na iminência de contratação de serviços advocatícios para promover defesa, quer por longo ou curto tempo de atuação.
+Ademais, restou claro a violação correta da aplicação do artigo 26 da Lei 6.830/80, que pressupõe a não fixação de honorários sucumbenciais quando a própria Fazenda tenha dado ensejo à extinção da execução, o que não se verifica no caso em apreço, quando ocorrida após o oferecimento de exceção de pré-executividade pelo executado.
+Note-se que consta da redação do artigo 26 da Lei nº 6.830/80 que não haverá ônus para as partes, não restringindo o dispositivo legal à apenas um litigante, ou apenas ao exequente. Assim sendo, estaria sendo respeitado o princípio da Isonomia, com tratamento e benefício bilateral.
+Ou seja, de um lado o benefício de a Fazenda Exequente poder desistir voluntariamente do pleito, pugnando a sua extinção, e de outro, de haver ressarcido os prejuízos e despesas para aquele que as desembolsou.
+Assim, a extinção prematura da execução sem haver o ressarcimento ao devedor pelas despesas indevidamente por ele havidas, uma vez ter a Fazenda Nacional dado causa à execução na qual, posteriormente, fora reconhecida a prescrição intercorrente, caracteriza letra morta também da lei do art. 26 da LEF (fl. 321).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+No caso dos autos, como referido, a exequente reconheceu expressamente a prescrição intercorrente e postulou a extinção da execução fiscal.
+Tendo em vista que o reconhecimento do pedido se deu com base em julgado do STJ em recurso repetitivo (tema 566 - REsp n.º 1.340.553/RS), bem como que há Ato Declaratório da PGFN (Ato Declaratório n.º 1/2011), a Fazenda Nacional não há que ser condenada ao pagamento de honorários advocatícios, em atenção ao disposto no art. 19, II e V, e § 1º, I, da Lei n.º 10.522/2002, pelo que não merece reparo a sentença.
+Saliento que os precedentes do STJ trazidos pela parte apelante baseiam-se em julgamento da Primeira Seção do STJ (EREsp 1.215.003/RS, publicado em 16-04-2012), o qual é anterior à alteração do artigo 19, § 1º, I, da Lei 10.522/2002, promovida pela Lei 12.844/2013, que fala expressamente das hipóteses de embargos à execução fiscal e exceção de pré-executividade (fl. 304).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
