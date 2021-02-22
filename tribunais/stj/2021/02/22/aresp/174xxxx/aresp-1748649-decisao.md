@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO MERCANTIL DO BRASIL SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdãos proferidos pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumidos:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. RECURSO SECUNDUM EVENTUM LITIS. TITULO EXTRAJUDICIAL. EMPRESA EM RECUPERAÇÃO JUDICIAL. HOMOLOGAÇÃO DO PLANO. NOVAÇÃO. EXTINÇÃO. POSSIBILIDADE. COOBRIGADO (AVALISTA). PROSSEGUIMENTO DO FEITO. DECISÃO CASSADA. RECURSO PROVIDO.
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO. TÍTULO EXECUTIVO. EMPRESA EM RECUPERAÇÃO JUDICIAL. NOVAÇÃO. EXTINÇÃO. HONORÁRIOS SUCUMBENCIAIS.
+A fim de sanar a omissão apontada, devem ser conhecidos e acolhidos os embargos de declaração opostos pela agravante, integrando-se ao acórdão fustigado, para fixar os honorários sucumbenciais em 10% sobre o valor atualizado da causa em desfavor do banco, nos termos do art. 85, § 2 º , do CPC.
+EMBARGOS DE DECLARAÇÃO CONHECIDOS E PROVIDOS.
+Quanto à controvérsia, alega violação do art. 85, § 10, do CPC, atinente à fixação dos ônus sucumbenciais pela origem, trazendo os seguintes argumentos:
+Resta, portanto, evidenciado que a extinção da ação de execução por motivo anômalo e por conta de dispositivo legal (art. 59 da Lei 11.101/05), que ensejou a novação da dívida apresentada em plano de Recuperação Judicial da recorrida, concedido pelo Julgador, em razão dos ditames da causalidade, não pode ensejar a condenação do banco exequente, ora recorrente, no pagamento de honorários advocatícios para os subscritores da recorrida.
+ ..
+Desse modo resta por demais evidenciado que não se mostra razoável e nem amparado pela lei condenar o banco recorrente (exequente) aos ônus sucumbenciais, uma vez que a extinção do feito executivo, repita-se, ocorreu pela total impossibilidade de seu prosseguimento nos termos do artigo 59 da Lei 11.101/05, e não porque o autor tivesse simplesmente se desinteressado de sua pretensão, portanto, é bem de ver que não foi o banco, mas foi a empresa recorrida quem deu causa ao ajuizamento da ação de execução.
+ ..
+"Data máxima vênia", a fundamentação da decisão guerreada não se coaduna com o caso presente, pois não consta dos autos a figura da parte vencida nem sequer "advogado do vencedor". O banco recorrente em qualquer momento foi parte vencida. Simplesmente a empresa recorrida foi extinta do polo passivo da execução em virtude da aprovação de seu plano de recuperação judicial, o que ocorreu em face do dispositivo legal já citado (fls. 651-657).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
