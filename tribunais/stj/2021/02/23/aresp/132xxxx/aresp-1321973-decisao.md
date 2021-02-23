@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por TAMPNET INDÚSTRIA E COM. DE PLÁSTICOS LTDA. contra decisão de inadmissibilidade de recurso especial, fundado naalínea"a" do permissivo constitucional, que desafia acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃOassim ementado (e-STJ fls. 173/174):
+AGRAVO INTERNO. TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.DESBLOQUEIO DE CONTA.INTIMAÇÃO DOS ATOS DE PENHORA.CONHECIMENTO PRÉVIO DE SUA EXISTÊNCIA. APEGO À FORMALIDADE DAINTIMAÇÃO. COMPARECIMENTO ESPONTÂNEO. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. DEMONSTRAÇÃO DE PREJUÍZO.NECESSIDADE. PODERES DE GERÊNCIA PARA O RECEBIMENTO DAINTIMAÇÃO DA PENHORA. TEORIA DAAPARÊNCIA.
+1. Trata-se de agravo interno que busca reverter decisão monocrática do anterior Relator que negou seguimento ao agravo de instrumento.
+2. Pleiteia-se no agravo de instrumento alterar decisão proferida pelo Juízo a quo que rejeitou exceção de pré-executividade onde se requer o desbloqueio de conta corrente.
+3. Alega o Agravante que o patrono não fora intimado dos atos e termos processuais, apesar do instrumento de mandado acostado aos autos originários.
+4. Aduz também que a intimação da penhora se deu na pessoa de funcionário que não possui poderes de gerencia nem conhecimento quanto à necessidade de que deveria repassar de imediato o mandato para o representante legal do Recorrente.
+5. Pretende a Agravante, neste agravo interno, que sejam reconhecidos vícios na forma como se procedera à intimação, e se publiquem na Imprensa Oficial todos os atos ou decisões a partir da constituição do patrono do Agravante bem como a repetição da intimação pessoal da penhora na pessoa do representante legal.
+6. Era do conhecimento do Agravante a existência de penhora em seu desfavor. Tanto assim é, que ofereceu bens móveis - 80 (oitenta) milheiros de tampas plásticas - a fim de serem alienadas em leilão.
+7. O objeto da intimação foi cumprido na medida em que o Agravante compareceu espontaneamente aos autos a fim de questionar a validade da penhora, não havendo que se falar em prejuízo.
+8. Pelo princípio da instrumentalidade das formas e o da ausência de nulidade sem prejuízo, antes de se anular todo o processo ou determinados atos, há de se avaliar se, de fato, houve prejuízo às partes com a alegada nulidade.
+9. Pela teoria da aparência, é válida a citação ou intimação da pessoa jurídica realizada em pessoa que a recebe, sem ressalvas, mesmo sem ter poderes para representá-la.
+10. Pelo princípio da instrumentalidade das formas, a ausência de prejuízo bem como pela teoria da aparência resta, apenas, negar provimento ao presente agravo interno.
+11. Agravo improvido.
+Os embargos declaratórios opostos pelo agravante foram rejeitados.
+No especial, a parte alega, em síntese, violaçãodo art. 236, § 1º, do CPC/1973,do art. 12 da Lei n. 6.830/1980e do art. 7º, XV, da Lei n. 8.906/1994, ao argumento de que a falta de intimação da agravante dos atos de penhora praticados afetou o exercício do contraditório e da ampla defesa, o que implica nulidade.
+Sustenta que a decisão que rejeitou os bens indicados à penhora e determinou a execução da penhora online é nula, porque não foi veiculada no Diário Oficial e a "intimação da penhora foi realizada na pessoa de funcionário que não representa a empresa; que não sabia que deveria entregar imediatamente a intimação ao dono da empresa; o que acabou por conduzir a perda do prazo para oposição de embargos à execução" (e-STJ fl. 223).
+Afirma que a teoria da aparência somente é aplicada quando inexistir prejuízo processual e que, ao contrário do que consta no acórdão recorrido, a ausência de intimação da penhora implicou prejuízo para a parte, visto que houve a perda do prazo para o ajuizamento de embargos à execução.
+Contrarrazões apresentadas àse-STJ fls. 232/245.
+Passo a decidir.
+De início, registro que, conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feita essa consideração, cabe ressaltar que o recurso especial se origina de agravo de instrumento interposto por TAMPNET INDÚSTRIA E COM. DE PLÁSTICOS LTDA.contra decisão judicial que, nos autos de execução fiscal movida pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA, rejeitou a exceção de pré-executividade apresentada.
+O Tribunal de origem negou provimento ao agravo de instrumento.Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 166/171):
+Conforme relatado, cuida-se de agravo interno interposto por TAMPNETINDUSTRIA E COM. DE PLASTICOS LTDA em face de decisão monocrática do então Relator, Desembargador Federal Marcello Granado, que negou seguimento ao Agravo de Instrumento.
+Pleiteia TAMPNET INDUSTRIA E COM. DE PLASTICOS LTDA no agravo de instrumento alterar a decisão proferida pelo Juízo da 1 a Vara Federal de Duque de Caxias que rejeitou a exceção de pré-executividade, onde requer o desbloqueio de sua conta corrente no Banco Bradesco.
+O então Relator concluiu pela impossibilidade da exceção de pré-executividade pois, no caso, se faria necessária dilação probatória.
+Alega o Agravante que o patrono não fora intimado dos atos e termos processuais e que a intimação da penhora se deu na pessoa de funcionário que não possui poderes de gerencia nem conhecimento quanto à necessidade de que deveria repassar de imediato o mandato para o representante legal do Recorrente.
+A decisão impugnada não merece reforma.
+Pretende o Agravante, neste agravo interno, que sejam reconhecidos vícios na forma como se procedera à intimação, de forma que se publiquem na Imprensa Oficial todos os atos ou decisões a partir da constituição do patrono do Agravante bem como a repetição da intimação pessoal da penhora na pessoa do seu representante legal.
+Compulsando os autos verifica-se às fls. 37/38 que era do conhecimento do Agravante a existência de penhora em seu desfavor. Tanto assim é, que ofereceu bens móveis - 80 (oitenta) milheiros de tampas plásticas - a fim de serem alienadas em leilão.
+O Agravante sabia da existência de uma penhora, descabendo a alegação de que era desconhecida por parte do patrono.
+Demais disso, o apego à formalidade quanto à necessidade de publicação no Diário Oficial todos os atos ou decisões a partir da constituição do patrono do Agravante bem como a repetição da intimação pessoal da penhora na pessoa do representante legal da Agravante não se mostra razoável.
+Isto porque o objeto da intimação foi cumprido, pois compareceu espontaneamente aos autos a fim de questionar a validade da penhora, não havendo que se falar em prejuízo.
+O raciocínio esposado coloca em evidencia o princípio da instrumentalidade das formas e o da ausência de nulidade sem prejuízo. Antes de se anular todo o processo ou determinados atos há de se avaliar se, de fato, houve prejuízo às partes com a alegada nulidade.
+Sobre a matéria, verifiquem-se as seguintes ementas do Eg. STJ:
+ ..
+Por fim, quanto à alegação de que o funcionário não possuía poderes de gerencia, em consonância com o princípio da instrumentalidade das formas anteriormente referido, que recomenda o desprezo às formalidades desde que inexista prejuízo, há de se aplicar a teoria da aparência.
+Pela teoria da aparência, é válida a citação da pessoa jurídica realizada em pessoa que a recebe, sem ressalvas, mesmo sem ter poderes para representá-la.
+Sobre a matéria, verifiquem-se as seguintes ementas:
+ ..
+Assim, pelo princípio da instrumentalidade das formas, a ausência de prejuízo bem como pela teoria da aparência resta, apenas, negar provimento ao presente agravo interno.
+Pois bem.
+A jurisprudência do STJ "adota a Teoria da Aparência, reputando válida a citação da pessoa jurídica quando esta é recebida por quem se apresenta como representante legal da empresa e recebe a citação sem ressalva quanto à inexistência de poderes de representação em juízo(AgRg nos EREsp. 205.275/PR, Rel. Min. Eliana Calmon, DJ de 28.10.2002)"(AgInt no AREsp 1633762/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/08/2020, DJe 31/08/2020).
+Ainda nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CITAÇÃO. VALIDADE. PESSOA JURÍDICA. ENDEREÇO.TEORIA DA APARÊNCIA. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE.ÓBICE DA SÚMULA 7/STJ.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é válida a citação recebida no endereço onde se situa a pessoa jurídica, mesmo que recebida por pessoa que não tenha poderes expressos para tal, prevalecendo a teoria da aparência.
+2. A alteração das conclusões adotadas pela Corte de origem para aferir a validade da citação realizada, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1241724/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/11/2018, DJe 06/12/2018)
+Ainda segundo o entendimento jurisprudencial desta corte Superior, "oreconhecimento de eventual nulidade processual exige a comprovação de prejuízo à defesa, o que, no presente caso, não foi constatado pelas instâncias de origem, atraindo a incidência do princípio pas de nullité sans grief, em observância ao princípio da instrumentalidade das formas no âmbito do direito processual. Nesse norte: AgInt no REsp 1.621.949/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/2/2017; AgRg no AREsp 661.165/RJ, Ministro Marco Buzzi, Quarta Turma, DJe 27/2/2018; AgRg em ARESp 426.672/RJ, Ministro Herman Benjamin, DJe 5/6/14; AgRg no AREsp 235.365/BA, Rel. Ministro Humberto Martins, Segunda Turma, DJe 16/12/2013; REsp 1.199.244/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 3/10/2011" (REsp 1801503/PB, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/08/2019, DJe 05/09/2019).
+Esse é exatamente o caso dos autos, considerando que consta expressamente no acórdão regionalnão ter havido prejuízo à defesa. Assim,a aferição da validade da intimação realizada, bem como eventual existência de prejuízo à defesa demandaria necessariamente o revolvimento do conjunto fático probatório dos autos, o que é vedado na instância especial ante o óbice da Súmula 7 do STJ.
+Da mesma forma, incidea Súmula 83 do Superior Tribunal de Justiça, aplicável tanto aos recursos interpostos com base na alínea "c" quanto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por fim, deixo consignado não ser o caso para arbitramento de honorários recursais, pois o recurso especial se origina em agravo de instrumento, cuja solução não interfere na distribuição dos ônus sucumbenciais estabelecida no processo principal.
+Publique-se. Intimem-se.
