@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+SEGURO HABITACIONAL  Alegação de danos aos imóvel da autora, decorrentes de supostos vícios construtivos  Sentença de improcedência  Insurgência da autora  Contrato de seguro de natureza acessória  Inocorrência de prescrição  Ação indenizatória ajuizada poucos meses após a comunicação coletiva do sinistro, com desconhecimento de data e resposta de recusa da RN seguradora  Alegada exclusão de responsabilidade da seguradora por vícios decorrentes da construção - Cláusula de exclusão que não se mostra aplicável no presente caso  Obras realizadas por agentes do Sistema Financeiro da Habitação  Dever da seguradora na verificação e exame prévios da obra e de sua execução, para a correção de eventuais defeitos comprometedores da sua solidez e segurança  Julgamento antecipado do feito  Necessária realização de prova pericial - Precedente desta Colenda Câmarade Direito Privado, em caso análogo  Sentença anulada, de ofício.
+Não foram opostos Embargos de Declaração.
+A parte recorrente afirma que os arts. 1.022, 487, II, do CPC/2015; 1ºda Lei 12.409/2011; 206, § 1º, "b", 771 do CC/2002 foram violados. Afirma que há legitimidade da caixa e competência da Justiça Federal para julgar a demanda. Defende que ocorreu a prescrição.
+É o relatório.
+Decido.
+Preliminarmente, a parte insurgente sustenta que o art. 1.022, II, do CPC/2015 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito. Ademais, no feito, nem sequer se opuseramEmbargos de Declaração.Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF. Nessa linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Para o acolhimento da negativa de prestação jurisdicional não é suficiente a mera rejeição dos declaratórios opostos, de forma que é imprescindível a demonstração individualizada do vício, bem como sua relevância ao resultado do julgado. Súmula n. 284/STF.
+(..)
+(AgInt no REsp 1817079/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2019)
+No tocante à alegada ofensa ao art.1º, da Lei 12.409/2011, não se pode conhecer da irresignação, porquanto a controvérsia não foi decidida à luz do referido dispositivo. Além disso, não foram opostos Embargos de Declaração. Ausente, portanto, o prequestionamento. Ademais, do relatório do aresto vergastado, o qual adotou o relatório da sentença, extrai-se que, apesar de encaminhado o feito à Justiça Federal, houve sua devolução e desmembramentocom relação à recorrida, em razão de a apólice do seguro ser averbada no ramo 68, como privada.
+Acerca da ocorrência de prescrição, a corte estadual consignou (fls. 968-969):
+Em se tratando de vício construtivo, sabe-se a dificuldade enfrentada pelo segurado quanto à especificação do exato momento dosurgimento do dano.
+No caso sub judice, embora a parte autora não tenha descrito adequadamente os supostos vícios construtivos e suas épocas desurgimento, limitando-se a alegar genericamente a ocorrência de danos no imóvel, cumpriu a determinação legal e demonstrou data de ciência à seguradora do propalado fato gerador, qual seja, 23/08/2013 (cf. documento de fls. 209/211), data que deve ser considerada como de início do cômputo prescricional.
+A presente ação indenizatória foi proposta em 04/10/2013 (fls. 02), ou seja, poucos meses após a comunicação coletiva do sinistro, sendo á desconhecida data de resposta da seguradora e recusa de cobertura.
+Ademais, importa ressaltar que o mútuo financeiro ainda não foi regularmente quitado, Neste ponto, da análise do documento de fls. 77, tem-se á m que o imóvel foi adquirido em 31/08/1996, sendo de 420 meses o prazo do financiamento. Assim, tem-se que na data da respectiva ciência à, seguradora do fato gerador o contrato principal de mútuo ainda se encontrava vigente.
+O contrato de seguro é acessório ao financiamento da habitação, como via de garantir o empreendimento, sendo distinto de um seguro residencial autônomo. Desse modo, estando vigente o contrato principal, vigente também o pacto adjeto de seguro da edificação.
+Desta forma, não há que se falar em prescrição.
+É inviável analisar a tese defendida no Recurso Especial de que ocorreu a prescrição, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido em sentido contrário ao defendido pela recorrente. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Ante o exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
