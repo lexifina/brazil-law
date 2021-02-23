@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por SERTRAN TRANSPORTES E SERVIÇOS LTDA.contra decisão que não admitiu o recurso especial, fundado naalíneaa do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 133):
+Acidente de veículo. Choque entre ônibus e bicicleta.Culpa incontroversa, assim como os danos materiais reclamados e reconhecidos. Discussão que se limita aos danos morais. Vítima que sofre escoriações que resultaram no seu afastamento do trabalho por três dias. Ofensa à integridade física que caracteriza a o dano moral in re ipsa. Recurso provido.
+Nas razões do recurso especial (e-STJ, fls. 139-149), a recorrente apontou violação aoart.944 do Código Civil de 2002; bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a necessidade deredução do valor da indenização por danos morais, sob o argumento de que a recorrida teria sofrido apenas escoriações, sem maiores repercussões em sua integridade física. Afirmou queo quantum indenizatório se mostra exorbitante.
+Ponderou que o termo inicial dos juros moratórios na indenização por dano moral é da data do arbitramento da indenização.
+Foram apresentadas contrarrazões (e-STJ, fls.154-162).
+Juízo de admissibilidade negativo (e-STJ, fls. 163-166).
+Brevemente relatado, decido.
+Inicialmente impende registrar que a interposição do agravo previsto no art. 1.042, caput, do CPC/2015, na ocasião em que a Corte de origem nega seguimento com base em recurso repetitivo, constitui erro grosseiro, não sendo mais devida a determinação, outrora, de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+Com isso, não há como conhecer daparte do agravo em recurso especial que trata do tema 440 - "termo inicial dos juros moratórios", porquanto o recurso especial teve o seguimento negado na origem, tendo em vista a conformidade do acórdão recorrido com a orientação firmada por este Tribunal no Recurso Especial Repetitivo n. 1.114.398/PR.
+No que concerne ao quantum indenizatório, o Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 134-136):
+Trata a hipótese dos autos de incontroverso o acidente de trânsito resultante do choque entre o ônibus referido na inicial contra a bicicleta conduzida pela autora, em ato de ultrapassagem imprudente e imperita, que resultou nas escoriações apontadas nos autos, pelo que insiste a recorrente no reconhecimento da indenização pelo dano moral.
+E, não havendo qualquer discussão a respeito da culpa e do dano material já reconhecido na sentença, limitando-se as razões de recurso a reclamar pela indenização extrapatrimonial, embora, no final da peça, se reporte aos pleitos formulados na inicial, mas sem qualquer impugnação específica, passa-se à análise da pretensão formalmente postulada.
+Respeitado o entendimento da ilustre magistrada de origem, no caso em tela está configurado o dano moral in re ipsa, visto que por força do choque provocado pela motorista da ré, a autora sofreu lesões corporais leves, como demonstra a fotografia de fls. 34, que implicaram no seu afastamento das atividades profissionaispor três dias, conforme se afere do atestado médico de fls.
+29, do que se constata a ofensa a direito da personalidade, e o inequívoco constrangimento a que foi submetida, além da condição vexatória e humilhante, que em muito excede o mero aborrecimento.
+(..)
+Levando-se em consideração ascondições pessoais das partes, a intensidade do dano, aqui já levado em conta que em face do acidente a autora se afastou do trabalho por três dias, e atento ainda às demais peculiaridades do caso em tela, afigura-se correto e justa a fixação da indenização no valor de R$4.000,00 (quatro mil reais), corrigido a partir deste arbitramento, com incidência de juros a partir da data do acidente, tudo conforme Súmulas 362 e 54 do STJ. Tendo a autora decaído de parcela mínima, responderá a ré com exclusividade pelas verbas sucumbenciais, fixados os honorários advocatícios em 15% do valor da condenação, nos termos do artigo 85, §2º, do CPC.
+A jurisprudência do Superior Tribunal de Justiça tem se firmado no sentido de que o valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais será revisto somente nas hipóteses em que a condenação se revelar irrisória ou excessiva, em desacordo com os princípios da razoabilidade e da proporcionalidade, o que não ocorre no caso dos autos.
+No caso específico dos autos, constata-se que a instância de origem, ao fixar a indenização, considerou as circunstâncias do fato, as condições do ofensor e as do ofendido, a forma e a espécie de dano, bem como sua real e concreta repercussão na esfera interior e exterior da vítima. Por conseguinte, verifica-se que não foi demonstrada a excepcionalidade exigida por esta Casa para revisão do valor fixado emR$ 4.000,00 (quatro mil reais).
+Ao ensejo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ACIDENTE DE TRÂNSITO. TRANSPORTE COLETIVO. QUEDA. DANO MORAL. VALOR ARBITRADO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional, tampouco em fundamentação deficiente, se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por esta Corte quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos, em que arbitrado em R$ 8.000,00 (oito mil reais).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.570.970/RJ, Relator Ministro Ricardo Villas Bôas
+Cueva, Terceira Turma, DJe 13/3/2020).
+Diante do exposto, conheço em parte do agravo para, nessa extensão, não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor do patrono da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. JUROS MORATÓRIOS. APELO ESPECIAL QUE TEVE O SEGUIMENTO NEGADO NA ORIGEM ANTE A APLICAÇÃO DE ENTENDIMENTO FIRMADO EM RECURSO REPETITIVO. NÃO CABIMENTO DO AGRAVO EM RECURSO ESPECIAL. ART. 1.042 DO CPC/2015. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. QUANTUM INDENIZATÓRIO. SÚMULA 7 DO STJ. AGRAVOPARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NÃO CONHECER NÃO CONHECER DORECURSO ESPECIAL.
