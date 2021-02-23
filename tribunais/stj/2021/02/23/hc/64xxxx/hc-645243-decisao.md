@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetradoem favor JEAN CAETANO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação Criminal n.0008241-17.2017.8.26.0438.
+Consta nos autos que o Pacientefoi condenado como incurso no art. 147, caput,do Código Penal, à penade 1 (um) mês e 10 (dez) dias de detenção, em regime inicial semiaberto. A denúncia narrouque o Paciente"ameaçou  .. sua companheira C. de L. dos S., de causar-lhe mal injusto e grave, qual seja a morte" (fl. 16).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que deu parcial provimento à apelação defensiva para afastar a avaliação negativa dos antecedentes do Paciente e reduzir a pena imposta ao patamar de 1 (um) mês de detenção, em regime inicial semiaberto (fl. 243).
+Nas razões destewrit, a Defesa sustenta"a ilegalidade da fixação do regime semiaberto ao condenado à pena de 01 mês de detenção, mesmo que reincidente, em face da motivação do ato que não seja pautado exclusivamente na reincidência." (fl. 8).
+Pleiteia-se, liminarmente, a suspensão dos efeitos da condenação e, no mérito, a concessão do regime inicial aberto ao Paciente.
+É o relatório.
+Decido.
+De início, contata-se que o acórdão impugnado transitou emjulgado em 17/09/2020 (fl. 259).Assim, não deve ser conhecido o presente habeas corpus, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+De fato, nos termos do art. 105, inciso I, alínea e, da Constituição da República, compete ao Superior Tribunal de Justiça julgar, originariamente, "as revisões criminais e as ações rescisórias de seus julgados".
+Sobre a questão, cito oseguinteprecedente:
+"HABEAS CORPUS. PENAL. PROCESSO PENAL. HOMICÍDIO. TRÂNSITO EM JULGADO. SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. SUPRESSÃO. NULIDADE. AUSÊNCIA DE INTIMAÇÃO PESSOAL DA SENTENÇA CONDENATÓRIA. RÉU INDEFESO EM PLENÁRIO. NÃO OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO.
+1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça doEstado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+ ..
+5. Habeas corpus não conhecido." (HC 288.978/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/03/2018, DJe 21/05/2018; sem grifos no original.)
+Além disso, não se verifica a existência de ilegalidade flagrante apta a permitir a concessão da ordem dehabeas corpusde ofício.
+De fato, constata-se que o Pacienteé reincidente, razão pela qual, não obstante o quantum da pena imposta, é possívela imposição do regime inicial semiaberto, nos termos do art. 33, §§ 2.º e 3.º, do Código Penal e da Súmula n. 269/STJ.
+Sobre o tema:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS.EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. REQUISITOS NÃO PREENCHIDOS (ARTS. 33 E 44, DO CÓDIGO PENAL). REINCIDÊNCIA EM CRIME DOLOSO. OMISSÃO CONFIGURADA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Os requisitos para a imposição do regime aberto, constam no art. 33, § 2º, alínea "c", e § 3º, do Código Penal, quais sejam, a ausência de reincidência, condenação por um período igual ou inferior a 4 (quatro), bem como a inexistência de circunstâncias judiciais desfavoráveis. Na hipótese, sendo o paciente reincidente, e fixada a pena em 6 (seis) meses de detenção, o regime inicial semiaberto é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, alínea "c", do Código Penal.
+III - A reincidência em crime doloso do paciente, reconhecido na condenação, não autoriza a substituição de pena privativa de liberdade por outra restritiva de direitos, em virtude do não preenchimento de requisito subjetivo previsto no art. 44, inciso II, do Código Penal.
+Embargos de declaração acolhido, mas sem efeitos infringentes."(EDcl no HC 545.644/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 11/02/2020, DJe 19/02/2020, sem grifos no original).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO.CRIME AMBIENTAL. DOSIMETRIA. REGIME PRISIONAL SEMIABERTO MANTIDO.RÉU REINCIDENTE. CONVERSÃO DA PENA CORPORAL EM RESTRITIVA DE DIREITOS. VIABILIDADE. ADEQUAÇÃO SOCIAL E SUFICIÊNCIA DE TAL MEDIDA.WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Em interpretação contrario sensu da Súmula 269 desta Corte, mostra-se descabida a alegação de desproporcionalidade na imposição do meio prisional mais severo, pois, nada obstante ser a pena total do réu inferior a 4 anos, a sua reincidência indica a necessidade de imposição do regime semiaberto.
+4. Tratando-se de réu reincidente, mesmo que as circunstâncias judiciais tenham sido favoravelmente valoradas, por força do disposto no art. 33, §§ 2º e 3º, do Código Penal, deve a reprimenda de 1 ano e 4 meses de detenção ser descontada em regime inicial semiaberto.
+ .. " (HC 456.878/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 21/08/2018, DJe 28/08/2018, sem grifos no original).
+Ademais, a imposição do regime mais gravoso igualmente encontra amparo na gravidade concreta do crime, sendo destacado, pelas instâncias, ordinárias que "o indiciado chegou e, sem motivo, partiu para cima da vítima dizendo que iria matá-la" (fl. 18), o que igualmente demonstra ser inadequada a concessão de regime inicial mais brando.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE o habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO.MANEJO DOWRITCOMO SUBSTITUTIVO DE REVISÃO CRIMINAL. IMPOSSIBILIDADE. ART. 105, INCISO I, ALÍNEAE, DA CONSTITUIÇÃO DA REPÚBLICA. AUSÊNCIA DE ILEGALIDADE FLAGRANTE.REINCIDÊNCIA. REGIME INICIAL SEMIABERTO.HABEAS CORPUSLIMINARMENTE INDEFERIDO.
