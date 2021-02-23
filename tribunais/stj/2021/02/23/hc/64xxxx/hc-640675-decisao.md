@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 89):
+Agravo em execução penal. Retificação de cálculo para fins de progressão. Lei 13964/2019. Sentenciado reincidente não específico em delito hediondo ou equiparado - Pleito de aplicação de novatio legis in mellius, com percentual de cumprimento do interregno de 40% da pena, exigido aos sentenciados primários. Não cabimento. Lei 13964/2019, também conhecida como Pacote Anticrime que não exigiu a condição de reincidência específica. Precedentes. Decisão mantida. Recurso não provido.
+A impetrante argumenta,em síntese, que o paciente não é reincidente específico, pois a condenação anterior por tráfico privilegiado representa crime comum, devendo, por isso, ser aplicada a lei nova mais benéficaque alterou o artigo 112 da LEP, estabelecendo-se o lapso de 40%para os fins de progressão de regime, pugnando, ao final, pela concessão do writ nesses termos.
+A liminar foi indeferida.
+As informações foram prestadas.
+Manifestou-se o Ministério Público Federal pela denegação do mandamus.
+É o relatório.
+DECIDO.
+Acerca da pretensão aqui trazida, assim se manifestou o Tribunal local (fls. 90-92 - com destaques):
+ .. Compulsando os documentos carreados aos autos, constata-se que o agravante cumpre atualmente a pena de 13 (treze) anos e 24 (vinte e quatro dias) de reclusão, mais 1773 (um mil e setecentos e setenta e três) dias-multa, fixada a unidade deste no mínimo legal, por infração aos artigos 33, "caput", e 35, "caput", da Lei Federal 11343/2006, fixando o regime prisional fechado para início de cumprimento da pena corporal aplicada (fls. 12/13).
+Além disso, acessando o Sistema SIVEC, verifica-se que o recorrente possui condenação anterior pela prática do delito previsto no artigo 33, c.c. o § quarto, da Lei Federal 11343/06 (Processo 0003598.16.2014.8.26.0472), sendo que a redução prevista não torna o delito de tráfico de drogas autônomo, eis que a conduta praticada pelo agravante ainda é o tráfico de entorpecentes.
+O redutor possui ingerência somente na quantidade da pena a ser descontada e muito embora o Supremo Tribunal Federal, no Habeas Corpus 118533/MS, tenha afastado a natureza hedionda do tráfico privilegiado, essa decisão não é dotada de caráter vinculante, não cabendo debates nesta seara acerca da hediondez ou não do tráfico privilegiado, até porque persiste a condição de reincidência do agravante.
+ ..
+A interpretação proposta pela Defensoria Pública, no presente caso, viola o princípio da individualização da pena ao admitir que o sentenciado reincidente receba o mesmo tratamento daqueles primários.
+O cálculo de liquidação de penas se encontra escorreito, devendo incidir a regra constante no inciso VII, com a exigência de 60% (3/5) de cumprimento da pena para a progressão de regime prisional, seja o sentenciado reincidente específico ou não. ..
+Acerca do tema, importa destacar que  f irmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019) (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+Tal entendimento era fundamentado na Lei de Crimes Hediondos, em especial no revogado § 2º do art. 2º da Lei 8.072/1990:  a  progressão de regime, no caso dos condenados pelos crimes previstos neste artigo, dar-se-á após o cumprimento de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5 (três quintos), se reincidente, observado o disposto nos §§ 3º e 4º do art. 112 da Lei nº 7.210, de 11 de julho de 1984.
+Ocorre que, com o advento da Lei 13.964/2019 (Pacote Anticrime), os requisitos objetivos para a progressão de regime foram alterados, conforme a nova redação do art. 112 da Lei de Execução Penal, no que interessa:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos: (Redação dada pela Lei nº 13.964, de 2019)
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário; (Incluído pela Lei nº 13.964, de 2019)
+VI - 50% (cinquenta por cento) da pena, se o apenado for: (Incluído pela Lei nº 13.964, de 2019)
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional; (Incluído pela Lei nº 13.964, de 2019)
+b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou (Incluído pela Lei nº 13.964, de 2019)
+c) condenado pela prática do crime de constituição de milícia privada; (Incluído pela Lei nº 13.964, de 2019)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado; (Incluído pela Lei nº 13.964, de 2019)
+Constata-se, assim, que o § 2º do art. 2º da Lei 8.072/1990 não diferenciava a reincidência específica da genérica para o cumprimento de 3/5 da reprimenda para fins de progressão de regime, ao contrário da nova redação do inciso VII do art. 112 da LEP, que previu o percentual de 60% da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado.
+No caso corrente, como acima destacado, o paciente- condenado por ofensaaos arts. 33, caput, e 35, caput, da Lei 11.343/2006-possui uma condenação anterior pela prática do tráfico privilegiado, delito esse que não tem o caráter da hediondez,de acordo com os entendimentos jurisprudenciais desta Corte e do STF, não havendo falar-se, assim, de reincidência específica, o que vai de encontro com a afirmação do TJSP, segundo a qual,  o cálculo de liquidação de penas se encontra escorreito, devendo incidir a regra constante no inciso VII, com a exigência de 60% (3/5) de cumprimento da pena para a progressão de regime prisional, seja o sentenciado reincidente específico ou não.
+Ante o exposto, concedo o habeas corpus para que seja reconhecida a incidência do inciso V do art. 112 da LEP, com redação dada pela Lei 13.964/2019, determinando-se a aplicação da fração de 40% no cálculo da execução de penas do paciente, em relação à progressão de regime.
+Comunique-se.
+Publique-se.
+Intimem-se.
