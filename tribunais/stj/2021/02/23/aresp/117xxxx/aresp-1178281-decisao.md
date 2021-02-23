@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas n. 282 do STF e 7 do STJ (e-STJ fls. 150/151).
+O acórdão recorrido está assim ementado (e-STJ fl. 121):
+EMENTA. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. OBRIGAÇÃO DE ENTREGAR COISA INCERTA. PROCEDIMENTO. 1 - Na execução para entrega de coisa incerta ou fungível, notadamente aparelhada por Cédula de Produtor Rural regulamentada pela Lei nº 8.929/94, evidente a liquidez, certeza e exigibilidade ao título e, na hipótese de não ser depositada nem encontrada a coisa (soja), segue-se o processo conforme o art. 627 do CPC e, oportunizada nova citação ao executado bem como apurado o quantum debeatur, admite-se a conversão para execução por quantia certa, suscetível de constrição patrimonial por meio de penhora. Assim, não procede a arguição de inépcia da inicial sob o fundamento de que a safra a ser entregue não existe mais, estando correta a execução para entrega de coisa incerta; devendo, pois, o processo seguir os trâmites legais, consoante o disposto no art. 629 e seguintes do CPC/73. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, "a", da CF (e-STJ fls. 127/136), os recorrentes alegaram violação dos arts. 16, parágrafo único, da Lei nº 8.929/1994, 924, I, 330, III, e 17 do CPC/2015, sustentando a necessidade de extinção do feito executivo por falta de interesse processual da exequente à época da propositura da ação, para valer-se de uma ação execução para entrega de coisa incerta, pois não existia a safra de milho pretendida. Acrescentou que a recorrida deveria valer-se da execução para entrega de coisa certa sob pena de inépcia da inicial.
+No agravo (e-STJ fls. 154/161), afirma a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 166/168).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 117/118):
+Diante disso, entendo que deverá o juiz dar continuidade à execução em voga independentemente da existência ou não da safra, cumprindo as fases legais da entrega de coisa incerta, aguardando-se o tramitar da ação com a sua possível satisfação, eis que poderá expedir- se mandado contra terceiro adquirente dos aludidos grãos.
+(..)
+Lado outro, registro que a admissão da exceção de pré-executividade é possível desde que a matéria alegada seja conhecível de ofício, o executado tenha prova pré-constituída de sua alegação e não haja necessidade de instrução probatória para o juiz decidir seu pedido de extinção da execução, conforme consagrado na Súmula nº 393, da referida Corte.
+E no caso dos autos, a defesa utilizada pelo agravante não se amolda aos casos de cabimento de exceção de pré-executividade, devendo ater-se ao procedimento próprio dos art. 629 e seguintes do CPC/75.
+O especial, todavia, não traz impugnação específica capaz de combater fundamentação do acórdão, de modo que o recurso encontra óbice na Súmula n. 283 do STF. O acórdão impugnado concluiu que (i) a defesa utilizada pelo ora recorrente não se amolda aos casos de cabimento de exceção de pré-executividade e que (ii) eventual possibilidade de expedição de mandado contra terceiro adquirente dos aludidos grãos. Tais pontos, aptos, por si sós, a sustentar o juízo emitido, não foram rebatidos nas razões recursais, aplicando-se, por analogia, o entendimento da referida súmula.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
