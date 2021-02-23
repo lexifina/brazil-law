@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CRISTIANO APARECIDO ROSMAN RODRIGUES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0004490-08.2020.8.26.0344).
+Depreende-se dos autos que o Juízo das execuções penais deferiu o pedido de progressão ao regime semiaberto formulado pelo paciente.
+Irresignado, o Ministério Público interpôs recurso de agravo em execução que foi provido pelo Tribunal de origem a fim de cassar a decisão do magistrado singular e determinar a realização de exame criminológico por comissão multidisciplinar, com o consequente retorno do paciente ao regime fechado.
+Nesta oportunidade, o impetrante alega que, com o advento da Lei n. 10.792/2003, não mais se exige o prévio parecer da Comissão Técnica de Classificação e o exame criminológico do reeducando para a instrução do pedido de progressão de regime, sendo suficiente, além do requisito temporal, a comprovação de bom comportamento carcerário emitido pelo diretor do estabelecimento prisional, o que teria sido atendido pelo paciente.
+Sustenta a ausência de motivação idônea para a determinação da realização de exame criminológico para a apreciação do pedido de progressão de regime e argumenta que o paciente preenche os requisitos objetivo e subjetivo para a obtenção da benesse.
+Afirma que a gravidade dos delitos praticados e o período de pena a cumprir não seriam fundamentos aptos a ensejar a negativa da progressão regime.
+Requer, liminarmente e no mérito, que seja cassado o acórdão impugnado, restabelecendo-se a decisão que deferiu ao paciente a progressão ao regime semiaberto.
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal opinou pela concessão da ordem (e-STJ fls. 101/104).
+É o relatório.
+De acordo com a jurisprudência deste Tribunal Superior, "a longevidade da pena e a gravidade do delito não são aptos, por si só, a fundamentar a negativa de progressão do regime prisional" (AgRg no HC n. 334.247/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe de 22/3/2017).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. CONCESSÃO PELO JUÍZO DE 1º GRAU. DECISÃO CASSADA PELO TRIBUNAL A QUO. DETERMINAÇÃO DE QUE O PACIENTE SEJA SUBMETIDO A EXAME CRIMINOLÓGICO. GRAVIDADE ABSTRATA DOS DELITOS PRATICADOS. LONGA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. ORDEM DE HABEAS CORPUS CONCEDIDA DE OFÍCIO. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - No caso, o eg. Tribunal a quo cassou a r. decisão que deferiu a progressão de regime ao paciente e determinou a realização de exame criminológico, com fundamento, apenas, na gravidade abstrata dos crimes praticados e na longa pena a cumprir, não apontando elementos concretos ocorridos durante a execução da pena, aptos a impedir o benefício.
+III - Dessarte, foi concedida a ordem, de ofício, para cassar o v.
+acórdão proferido no agravo em execução e restabelecer a r. decisão do d. Juízo das execuções que concedeu a progressão ao regime semiaberto ao paciente, em razão da constatação da flagrante ilegalidade.
+Agravo regimental do Ministério Público Federal desprovido.
+(AgRg no HC 553.355/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO, DESEMBARGADOR CONVOCADO DO TJPE, QUINTA TURMA, julgado em 10/03/2020, DJe 18/03/2020)
+No caso, o Tribunal de origem cassou a decisão que havia deferido o pedido de progressão ao regime semiaberto mediante a invocação dos seguintes fundamentos (e-STJ fl. 79):
+Apesar do requerimento ministerial para que o magistrado a quo determinasse a realização de exame criminológico, em face da gravidade dos delitos praticados, a demonstrar sua personalidade criminosa, o sentenciado foi progredido ao regime semiaberto, sem que fosse submetido ao exame, apontando o juízo das execuções que "implementado o requisito temporal e comprovado bom comportamento carcerário, é de deferir-se a progressão, consoante nova redação dada ao art. 112 da LEP pela Lei nº 10.792/03. Assim, mesmo após a edição da referida Lei, a individualização da pena continua a ser respeitada, sendo que a conduta carcerária de cada apenado é que pautará a concessão dos benefícios previstos em Lei. Entendimento em contrário vai de encontro ao intuito do instituto que visa a beneficiar com o cumprimento da pena em regime mais brando, o apenado que demonstre estar apto e ser merecedor da benesse" (sic, fls. 43/45).
+Respeitado o entendimento contrário, o agravo merece provimento.
+No caso em comento, de se ver que o bom comportamento carcerário do sentenciado é insuficiente para atestar, por si só, o cumprimento do requisito subjetivo para o deferimento de progressão de regime, devendo o juiz considerar a existência de falta disciplinar grave, prática de novos delitos no curso de benefícios concedidos e, até mesmo, a forma de cometimento do delito. Enfim, tudo o que possa demonstrar a personalidade do reeducando, para que não se coloque em risco a sociedade, principalmente, porque em regime mais brando o apenado será beneficiado com trabalho externo e saídas temporárias.
+Verifica-se, portanto, que a fundamentação deduzida, ao invocar somente a gravidade abstrata dos crimes praticados, não se revela idônea, pois o paciente cumpriu o lapso exigido e tem boa conduta carcerária.
+Dessa forma, não havendo fundamento que demonstre, efetivamente, o demérito do condenado, deve ser reconhecida a ilegalidade do acórdão.
+À vista do exposto e acolhendo o parecer do Ministério Público Federal, concedo a ordem de habeas corpus a fim de deferir ao paciente a progressão para o regime semiaberto.
+Publique-se. Intimem-se.
