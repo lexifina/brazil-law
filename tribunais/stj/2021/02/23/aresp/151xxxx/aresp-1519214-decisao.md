@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por ALEHER QUÍMICA DO BRASIL EIRELI contra decisão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, o qual não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional,que desafia acórdão assim ementado (e-STJ fl. 443):
+PROCEDIMENTO ESPECIAL DE CONTROLE ADUANEIRO. INDÍCIOS DE INFRAÇÃO. LIBERAÇÃO DOS VALORES DEPOSITADOS EM JUÍZO.
+1. A submissão de declaração de importação ao procedimento especial de controle aduaneiro previsto na IN RFB 1.169, de 2011, com a consequente retenção das mercadorias, é admitida quando houver indícios de infração punível com a pena de perdimento.
+2. Concluído o procedimento especial de controle aduaneiro (IN SRF1.169, de 2009) e constatada a prática de interposição fraudulenta de terceiros, prevista no art. 689, XXII, do Decreto 6.759, de 2009, descabida a liberação dos valores depositados judicialmente para entrega das mercadorias à impetrante.
+No recurso especial obstaculizado, a parte apontouviolação dos arts. 2ºda Lei n. 9.784/1999; 37 da ConstituiçãoFederal; 151, III do Código Tributário Nacional; e 927, II e 805 do CPC/2015, argumentando queé indevida a manutenção da garantia imposta ao contribuinte,pois se o CTN define que a impugnação ao auto de infração suspende a exigibilidade do crédito, não há quefalar em prestação da garantia.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Parecer ministerial às e-STJ fls.
+Passo a decidir.
+Inicialmente, cumpre registrar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+Feita essa anotação, verifico que a pretensão não merece prosperar.
+Sobre a insurgência da parte recorrente quanto a manutenção da garantia, assim se manifestou a Corte de origem (e-STJ fl 445):
+O pedido de liminar foi parcialmente deferido para determinar à autoridade impetrada que conclua o despacho aduaneiro e promova o desembaraço e a consequente liberação da mercadoria que é objeto da DI nº 16/1175382-3, salvo se já houver sido decretada a pena de perdimento, mediante caução a ser prestada em conta judicial vinculada a estes autos, cujo valor deverá ser apontado pela autoridade aduaneira, nos termos do artigo 7º da IN SRF228/2002, sem prejuízo da continuidade da apuração administrativa em curso e de eventual retirada de amostra para ulterior decisão do PECA (evento 3,DESPADEC1).
+Assim, da leitura do trecho acima extraído do acórdão impugnado, observa-se que, embora haja o deferimento para que se promova a liberação da mercadoria, há ressalvaquando já houver sido decretada a pena de perdimento; além disso, condiciona-se a liberação das mercadorias a prestação de caução.
+A fundamentação utilizada no julgado estáamparada na IN SRF 228/2002,o que impede o exame da questão por esta Corte Superior, uma vez que normas internas como instrução normativa não estão no conceito de lei federal e, embora a pretensão recursal não traga no seu corpo o exame da legislação em questão, tem-se que, para análise da controvérsia, seu exame seria imprescindível.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REVISÃO DE BENEFÍCIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO OCORRÊNCIA. DECADÊNCIA. TERMO INICIAL.
+NORMAS INTERNAS. EXAME. DESCABIMENTO.
+1. Não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento 2. O entendimento da Corte de origem está em sintonia com a orientação do Superior Tribunal de Justiça, firmada no julgamento do REsp n. 1.309.529/PR, sob o rito do art. 543-C do CPC/1973, segundo o qual, "Incide o prazo de decadência do art. 103 da Lei 8.213/1991, instituído pela Medida Provisória 1.523-9/1997, convertida na Lei 9.528/1997, no direito de revisão dos benefícios concedidos ou indeferidos anteriormente a esse preceito normativo, com termo a quo a contar da sua vigência (28.6.1997)".
+3. Mostra-se inaplicável a adoção do termo inicial da revisão a contar da Lei n. 10.839/2004, visto que a norma introduziu o art.
+103-A da Lei n. 8.213/1991, disciplinando as revisões a cargo da autarquia, enquanto a pretensão autoral refere-se à ação de revisão proposta pelo segurado, que deve observar a norma do art. 103 da Lei de Benefícios, na redação dada pela MP 1.523-9/1997.
+4. Normas interna corporis, tais como as instruções normativas da autarquia, não estão contidas no conceito de lei federal, por isso são inaptas a amparar a pretensão recursal.
+5. Agravo interno desprovido.
+(AgInt no REsp 1.681.665/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
