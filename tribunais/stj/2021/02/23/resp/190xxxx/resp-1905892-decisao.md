@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão que deu parcial provimento à apelação para aplicar a pena-base no mínimo legal.
+Sustenta a defesa violação doart.33, § 4º, da Lei 11.343/06, ao fundamento de que "o recorrente é primário, não ostenta antecedentes e nenhum indício existe nos autos que se dedique àorganização criminosa", razão pela qual deve ser aplicadaa minorante do tráfico privilegiado, considerando-sea pequena quantidade de droga apreendida(fl. 232).
+Argumenta, ainda, que, inexistindo provas da relação do tráfico com o estabelecimento de ensino e outras entidades, deve ser afastada a majorante doart. 40, III, da Lei 11.343/06.
+Requer o provimento do recurso para reduzir a pena pela incidência daminorante do art. 33, § 4º, da Lei 11.343/06 e excluir a majorante do art. 40, III, da Lei 11.343/06, readequando-se a pena imposta.
+Contra-arrazoado e admitido na origem, manifestou-se o Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+DECIDO.
+O recorrente foi condenado à penade 6 anos, 9 meses e 20 dias de reclusão, em regime fechado e680 dias-multa,como incurso no art. 33, caput, c/c art. 40, III, da Lei 11.343/06.
+Interposto recurso de apelação, foi parcialmente provido para reduzir a pena-base ao mínimo legal, resultando na pena definitiva de5anos e 10meses de reclusão, em regime fechado, e 583dias- multa.
+Os fatos encontram-se assim delineados na sentença (fl. 159):
+(..) no dia 01 de junho de 2019, por volta de 16h30min, na Rua Castro Alves, n. 2605, Vila Santana, nesta cidade e comarca, e, portanto, nas imediações de estabelecimento de ensino e entidade social, foi surpreendido, em flagrante, trazendo consigo, para fins de tráfico, 07 (sete) porções de cocaína, na forma de pedras de crack, com peso liquido de 1,2g, sendo tal substância entorpecente e que determina dependência física e psíquica, o que fazia sem autorização e em desacordo com determinação legal e regulamentar.
+Relativamente à negativa da minorante do tráfico privilegiado, a sentençaencontra-se assim fundamentado (fl. 162):
+Incabível a aplicação da causa de diminuição prevista no parágrafo 4º do artigo 33 da Lei de Drogas, pois o réu não atende aos seus requisitos, sobretudo aquele relacionado à não dedicação à atividade ou organização criminosa, o que se mostrou evidente após as investigações e relatórios da DISE local.
+No ponto, ressaltou o acórdão (fl. 219):
+Na terceira fase, não pode incidir a causa de diminuição do art. 33, § 4º, da Lei nº 11.343/2006, pois o apelante dedicava-se a atividades criminosas, tendo-se registrado isso, com documentos, fato sabido pela polícia militar e polícia civil, com detalhes sobre o "modus operandi" e a frequência com que era procurado o recorrente para a negociação com drogas. Ele tem personalidade perigosa e desvirtuada.
+Entende esta Corte Superior, contudo. que a quantidade não relevante e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, etc.) não autorizam a vedação da minorante do tráfico no seu patamar máximo de 2/3, o agravamento do regime prisional ou a negativa à substituição das penas (AgRg no HC 529.431/SP, de minha relatoria, SEXTA TURMA, julgado em 03/12/2019, DJe 09/12/2019).
+Na hipótese, o recorrente foi condenado por trazer consigo, "para fins de tráfico, 07porções de cocaína, na forma de pedras de crack, com peso liquido de 1,2g" (fl. 159), circunstâncias que denotam menor gravidade da conduta delitiva, na linha da orientação jurisprudencial desta Corte, a autorizar tratamento menos rigoroso ao réu primário.
+Diante desse cenário fático, impõe-se a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/06, no patamar máximo de 2/3, nos termos da orientação jurisprudencial desta Corte.
+Com relação à causa de aumento do art. 40, III, da Lei 11.343/06, sua incidência encontra-se assim fundamentada (fl. 219).
+"No que se refere à proximidade de entidades de ensino e sociais, isso foi provado. O crime era realizado próximo da "Igreja do Santana", situada na Avenida Barroso s/n, esquina com a Rua Castro Alves (40 metros); "Casa Transitória" (100 metros); "Centro de Convivência Infantil" (200 metros); "CER Eduardo Borges" (260 metros) e "COC - Unidade Morumbi" (350 metros) - fls. 100/103.
+O acórdão recorrido encontra-se em consonância com a orientação jurisprudencial desta Corte de que"prescindível a prova de que o acusado tinha como "público-alvo" os frequentadores desses locais" (HC 480.887/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 7/2/2019, DJe 19/2/2019).
+Diante dessas razões, passo à dosimetria da pena.
+Fixada a pena-base em 5 anos de reclusão e 500 dias-multa, mantenho o aumento de 1/6 pela majorante do art. 40, III, da Lei 11.343/06, em seguida, reduzo a pena em2/3 pela incidência da minorante do tráfico privilegiado, resultandoem 1 ano, 11 meses e 10 dias e 194dias-multa, a qual torno definitiva.
+No que concerne à fixação do regime prisional, considerada a primariedade do réu, o quantum de pena aplicado, e a não relevante quantidade de entorpecentes, cabível a fixação do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos, nostermos dos arts. 33 e 44 do Código Penal.
+Ante o exposto, dou parcial provimento ao recurso para, reconhecida a incidência da minorante do tráfico privilegiado, estabelecer a pena definitiva em 1 ano, 11 meses e 10 dias, em regime aberto, e 194 dias-multa, substituindo a pena privativa de liberdade por restritivas de direitos, a serem estabelecidas pelo Juízo da Execução.
+Publique-se.
+Intimem-se.
