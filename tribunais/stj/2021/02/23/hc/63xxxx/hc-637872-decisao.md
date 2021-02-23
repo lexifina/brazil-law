@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DAVID YOU SAN WANG, em que se aponta como autoridade coatora o Desembargador Relator do HC n. 2304094-83.2020.8.26.0000, que indeferiu a liminar em writ em trâmite no Tribunal de Justiça do Estado de São Paulo.
+Extrai-se dos autos que o paciente está em cumprimento de penas no regime semiaberto, pela prática do crime previsto no art. 304, c. c. art. 29, caput, c. c. o art. 297, caput, c. c. o art. 71, caput, e art. 333, parágrafo único, todos do Código Penal. O pedido de prisão domiciliar formulado no Juízo da Execução foi indeferido.
+Neste writ, o impetrante alega constrangimento ilegal no retorno do paciente ao estabelecimento prisional, tendo em vista a pandemia ocasionada pelo COVID-19 e o fato de o reeducando constar com mais de 70 (setenta) anos.
+Requer, liminarmente e no mérito, que seja autorizado ao paciente o não retorno à unidade prisional até que seja imunizado contra o coronavírus.
+A liminar foi indeferida (e-STJ, fls. 47-48). Prestadas as informações (e-STJ, fls. 51-67), os autos foram encaminhados ao Ministério Público Federal, que opinou pela não concessão do habeas corpus de ofício (e-STJ, fls. 71-75).
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar").
+Ilustrativamente:
+"PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.  ..
+(HC n. 486.900/SP, deste Relator, Quinta Turma, DJe de 26/2/2019.)
+Na hipótese, a Corte Estadual indeferiu o pleito liminar, por não verificar a presença dos requisitos autorizadores da medida de urgência, nos seguintes moldes:
+"No caso dos autos, não se verifica, de pronto, que eventual descumprimento do paciente em retornar ao estabelecimento prisional ao cabo da saída temporária gerará efeitos ilegais. Ao revés disso, inexiste suporte jurídico, ao menos verificável nesse momento, para que o paciente se abstenha de retornar à unidade onde resgata sua pena, donde a lisura de eventuais consequências administrativas e judiciais.
+Ora, não só o paciente, mas toda a humanidade anseia pela imunização contra o famigerado coronavírus e, nem por isso, se vê desobrigada de cumprir com as determinações legais e judiciais como, in casu, o retorno após cessação da saída temporária.
+É verdade, também, que o paciente é idoso, porém, não menos induvidoso é que, conforme decidido na origem, quando do indeferimento do pedido de prisão domiciliar:
+"(..) verifica-se que o detento não é possuidor de comorbidade prognóstica que predispõe ao desenvolvimento do COVID-19 com resultado letal, bem como não há nos autos notícia de que, caso a presente alguma enfermidade, o mesmo não possa será acompanhado na própria unidade prisional, onde se mantém estrutura de saúde permanente e profissional da área médica para atendimento à população carcerária. Importante frisar, ainda, que o ora postulante se encontra atualmente em bom estado geral, ativo, eupneico, afebril, não havendo queixas ou intercorrências dignas de nota, conforme relatório médico acostado aos autos.
+Ademais, a direção administrativa do presídio adotou as medidas urgentes de prevenção à infecção e à propagação do vírus, a fim de tentar reduzir os riscos epidemiológicos de transmissão e preservar a saúde dos indivíduos confinados, bem como da sociedade civil como um todo" (fls. 23/24).
+Portanto, insuficientes os argumentos apresentados e os documentos que instruem a inicial, não se pode concluir, ao menos por ora, pelo cabimento da medida de urgência aqui intentada." (e-STJ, fls. 28-29)
+Observa-se, pois, que a decisão proferida pelo Desembargador Relator não se encontra eivada de flagrante ilegalidade passível de justificar o processamento desta ordem.
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
