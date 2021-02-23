@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome deJeverson Raulino Conceição, condenadocomo incurso no art.33, caput, da Lei n.11.343/2006, ao cumprimento de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 680dias-multa, no valor unitário mínimo (Processo n. 1510161-92.2020.8.26.0228, da 9ª Vara Criminal da comarca de São Paulo/SP).
+Aponta-se a existência de constrangimento ilegal decorrente do julgamento da apelação, alegando-sea imprestabilidade das provas decorrentes da atuação da guarda municipal e argumentando-se que, no caso,não havia visibilidade do delito, o que motivaria a prisão em flagrante por qualquer do povo, na forma do art. 301 do Código de Processo Penal.
+Requer-se a concessão da ordem para determinar o desentranhamento da prova produzida e, consequentemente, para absolver o paciente da prática dos delitos a si imputados, na forma do art. 386, V, do Código de Processo Penal, considerando que toda prova produzida posteriormente decorreu da abordagem ilegal realizada anteriormente
+É o relatório.
+No caso, não há evidência de manifesto constrangimento ilegal apto para ser sanado pela via eleita.
+Conforme o acórdão ora impugnado,adinâmica dos fatos não deixou dúvidas de que o apelante foi abordado e preso em situação de flagrante, motivo pelo qual os guardas civis municipais estavam, sim, legitimados, dentro do princípio da autodefesa da sociedade(fl. 42).
+E esta Casa entende que élícita a revista pessoal executada por guardas municipais, com a existência da necessária justa causa para a efetivação da medida invasiva, nos termos do art. § 2º do art. 240 do CPP, bem como a prova derivada da busca pessoal.2. Configurada a situação de flagrância, com a demonstração de fundada suspeita, não se verifica ilegalidade na realização de abordagem pessoal por guardas municipais(AgRg no HC n. 597.923/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/10/2020 - grifo nosso).
+Em outras palavras,é assente nesta Corte Superior de Justiça a orientação de que os integrantes da guarda municipal não desempenham a função de policiamento ostensivo; todavia, em situações de flagrante delito, como restou evidenciado ser o caso, a atuação dos agentes municipais está respaldada no comando legal do art. 301 do Código de Processo Penal (HC n. 471.229/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 1º/3/2019 - grifo nosso).
+Na mesma linha, da Sexta Turma, por exemplo: AgRg no AREsp n. 771.369/SP, Ministro Rogerio Schietti Cruz, DJe 4/12/2017; HC n. 394.112/SP, Ministra Maria Thereza de Assis Moura, DJe 14/8/2017; e HC n. 365.283/SP, Ministro Nefi Cordeiro, DJe 24/11/2016.
+Na hipótese em questão, para adotar outro entendimento seria indispensável o reexame fático-probatório dos autos principais, providência que não tem espaço no âmbito do habeas corpus.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. TRÁFICO DE DROGAS. ALEGAÇÃO DE PROVA ILÍCITA. CONDUTA FLAGRADA PELAGUARDAMUNICIPAL. ACÓRDÃO IMPUGNADO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
