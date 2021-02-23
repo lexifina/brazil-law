@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. FIXAÇÃO. PARÂMETROS. LIMITES LEGAIS E CRITÉRIOS DO ART. 85, §§ 2º E 3º, DO CPC/2015.
+1. OSuperior Tribunal de Justiça perfilha o entendimentode que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados observando-se os parâmetros previstos no art. 85, § 2º, I a IV, do CPC/2015, bem como os percentuais delimitados no § 3º do mencionado dispositivo legal.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado peloMunicípio de Santo Andrédesafiando decisãoque negou provimento ao agravo, pois, a teor da jurisprudência deste Sodalício, não se admite a fixação de honorários advocatícios em montante inferior ao mínimo legal.
+O agravante, em suas razões, repisa as alegações de seu recurso especial no sentido de que o acórdão recorrido violou o art. 85, §§ 2º e 3º, do CPC/2015, nos termos do julgamento do REsp 1.771.147/SP, visto que se revelouexorbitante o valor arbitrado para a verba sucumbencial.
+A parte agravada apresentou impugnação (fls. 1134/1153).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. FAZENDA PÚBLICA. FIXAÇÃO. PARÂMETROS. LIMITES LEGAIS E CRITÉRIOS DO ART. 85, §§ 2º E 3º, DO CPC/2015.
+1. OSuperior Tribunal de Justiça perfilha o entendimentode que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados observando-se os parâmetros previstos no art. 85, § 2º, I a IV, do CPC/2015, bem como os percentuais delimitados no § 3º do mencionado dispositivo legal.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como antes asseverado, o acórdão alvejado decidiu em consonância com o entendimento do Superior Tribunal de Justiça, no sentido de que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados observando-se os parâmetros previstos no art. 85, § 2º, I a IV, do CPC/2015, bem como os percentuais delimitados no § 3º do mencionado dispositivo legal.
+Em reforço, confiram-se:
+PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO DE HONORÁRIOS NA EXECUÇÃO E NOS EMBARGOS.POSSIBILIDADE. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de execução fiscal objetivando a cobrança de crédito inscrito em certidão de dívida ativa. Após sentença que julgou extinta a execução fiscal, a Fazenda Nacional interpôs apelação, que teve seu provimento negado pelo Tribunal de origem, restando fixado o entendimento de que a condenação em honorários sucumbenciais deveria ser arbitrada em consonância com o princípio da equidade, nos moldes estabelecidos pelo § 8º do art. 85 do CPC/2015.
+II - Primeiramente, cumpre destacar que a matéria encimada à apreciação desta Corte Superior é eminentemente jurídica, qual seja, a necessidade de fixação dos honorários sucumbenciais de acordo com os critérios previstos nos incisos I a IV do § 2º e com os percentuais delimitados no § 3º do art. 85 do CPC/2015. Assim, evidente a inaplicabilidade da Súmula n. 7 do Superior Tribunal de Justiça ao caso concreto.
+III - Por outro lado, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados observando-se os parâmetros estampados no art. 85, § 2º, caput e incisos I a IV do CPC/2015 e com os percentuais delimitados no § 3º do referido dispositivo jurídico. IV - De fato, na vigência do CPC/2015, a fixação de honorários advocatícios por apreciação equitativa, conforme o contido no § 8º do art. 85 do CPC/2015, somente tem guarida nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, não sendo essa a hipótese dos autos.
+Primeiramente, cumpre destacar que a matéria encimada à apreciação desta Corte Superior é eminentemente jurídica, qual seja, a necessidade de fixação dos honorários sucumbenciais de acordo com os critérios previstos nos incisos I a IV do § 2º e com os percentuais delimitados no § 3º do art. 85 do CPC/2015. Assim, evidente a inaplicabilidade da Súmula n. 7 do Superior Tribunal de Justiça ao caso concreto.
+V - Por outro lado, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados observando-se os parâmetros estampados no art. 85, § 2º, caput e incisos I a IV, do CPC/2015 e com os percentuais delimitados no § 3º do referido dispositivo jurídico. VI - De fato, na vigência do CPC/2015, a fixação de honorários advocatícios por apreciação equitativa, conforme o contido no § 8º do art. 85 do CPC/2015, somente tem guarida nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, não sendo essa a hipótese dos autos.
+VII - Ademais, o Superior Tribunal de Justiça firmou entendimento jurisprudencial de que é possível a cumulação dos honorários fixados nos embargos à execução com os arbitrados no próprio feito executivo, desde que respeitados os limites e parâmetros legalmente previstos. Nesse sentido, confiram-se os precedentes: REsp n.
+1.520.710/SC, Rel. Ministro Mauro Campbell Marques, Corte Especial, julgado em 18/12/2018, REPDJe 2/4/2019, DJe 27/2/2019 e AgRg nos EDcl no REsp n. 1.453.740/MG, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 28/4/2015, DJe 22/5/2015.
+V - Agravo interno improvido.
+(AgInt no AREsp 1456057/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/09/2019, DJe 25/09/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 03/STJ. EXTINÇÃO DO FEITO. HONORÁRIOS ADVOCATÍCIOS.SUCUMBÊNCIA. PRINCÍPIO DA CAUSALIDADE. VERIFICAÇÃO. SÚMULA 7/STJ.FAZENDA PÚBLICA. FIXAÇÃO. PARÂMETROS. LIMITES LEGAIS E CRITÉRIOS DOS §§ 2o E 3o DO ART. 85 DO CPC/2015. APLICABILIDADE. PRECEDENTE.AGRAVO INTERNO NÃO PROVIDO.
+1. Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+3. "A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, nas causas em que a Fazenda Pública for litigante, os honorários advocatícios devem ser fixados de acordo com os parâmetros estampados nos incisos I a IV do § 2o e com os percentuais delimitados no § 3o do art. 85 do CPC/2015". (STJ, Aglnt no REsp 1.740.865/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 20/08/2018)
+4. Agravo interno não provido.
+(AgInt no REsp 1797038/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 14/05/2019, DJe 21/05/2019)
+ANTE O EXPOSTO,nega-se provimento ao agravo interno.
+É o voto.
