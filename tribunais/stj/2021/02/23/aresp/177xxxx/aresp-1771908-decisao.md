@@ -1,0 +1,41 @@
+DECISÃO
+1. Cuida-se de agravo interposto por RAIMUNDO LIBERATO CARLOS QUATORZE, VISAO PAINEIS E LUMINOSOS LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS. INOVAÇÃO RECURSAL.INADMISSIBILIDADE. PRELIMINAR. CERCEAMENTO DE DEFESA. REJEITADA. RETIRADA IRREGULAR DE ENGENHO DE PUBLICIDADE. EXISTÊNCIA DE MÁ-FÉ. DANO MORAL.CONFIGURADO.
+1. Questão não aventada na instância de origem, por se tratar de inovação recursal, não pode ser invocada em sede de recurso, sob pena de supressão de instância e violação ao duplo grau de jurisdição.
+2. É pacífico o entendimento jurisprudencial no sentido de que o julgamento antecipado da lide não implica cerceamento de defesa, na hipótese em que as provas requeridas são prescindíveis para o deslinde da controvérsia, ou ainda estando os autos devidamente aparelhados com todos os elementos de convicção necessários para o julgamento do feito.
+3. Resta caracterizada a má-fé e o abuso de direito por parte daquele que retira do local original um painel publicitário que sabe não lhe pertencer, sem autorização do verdadeiro proprietário, gerando a este sofrimento pelo furto do equipamento e abalo à sua imagem e bom nome no meio comercial, prejuízos estes que configuram danos morais e devem ser indenizados.
+4. Recurso parcialmente conhecido. Preliminar de cerceamento de defesa rejeitada e, no mérito, improvido.
+Nas razões do recurso especial, aponta a parte recorrente violação dos arts.369,373, inc. I, 442 e 446, II, do Código de Processo Civil, bem como dissídio jurisprudencial. Sustenta cerceamento de defesa, pois foi indeferida aprova oral requerida.
+Decido.
+2. Não configura o cerceamento de defesa o julgamento da causa sem a produção de prova testemunhal, quando o tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+Hão de ser levados em consideração o princípio da livre admissibilidade da prova e do livre convencimento do juiz, que, nos termos do art. 370 do Código de Processo Civil, permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como o indeferimento daquelas que considerar inúteis ou protelatórias.
+A propósito, vale destacar os seguintes trechos do acórdão recorrido:
+No caso concreto, a prova documental, assim como a prova emprestada produzida nos autos nº 2014.01.1.090992-9 revelaram-se suficientes para o deslinde da controvérsia, não havendo que se falar em cerceamento de defesa ante o indeferimento da oitiva de testemunha pretendida pelos réus.
+(..)
+Assim, restou efetivamente demonstrado pelas provas já existentes nos autos que os réus apelantes não poderiam ser os proprietários do engenho de publicidade. Portanto, os réus apelantes não poderiam promover a remoção de tal aparato, mesmo que, supostamente, a pedido do proprietário do imóvel, pois tal responsabilidade incumbiria à parte autora juntamente com ELAINE.
+Cumpre ressaltar que eventual contrato celebrado novamente entre ELAINE e os réus, sem a autorização expressa da parte autora/apelada (detentora de metade da propriedade do engenho de publicidade), implica total afronta à coisa julgada, além de restar configurada a existência de má-fé por parte dos réus apelantes.
+Rever os fundamentos que levaram a tal conclusão, demandaria o exame do conjunto probatório, o que é vedado na instância especial, segundo dispõe a Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. REQUISITOS PARA USUCAPIÃO. DOCUMENTAÇÃO INSUFICIENTE. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7 DO STJ.AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não configura o cerceamento de defesa o julgamento da causa sem a produção de prova testemunhal ou colheita de depoimento pessoal, quando o Tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+2. A conclusão das instâncias ordinárias acerca da ausência de prova do exercício da posse - requisito indispensável para a aquisição por usucapião -, decorreu da análise do conjunto probatório dos autos, cujo revolvimento é vedado em sede de recurso especial, nos termos da Súmula 7/STJ.
+3. Ao repisar os fundamentos do recurso especial, a parte agravante não trouxe, nas razões do agravo regimental, argumentos aptos a modificar a decisão agravada, que deve ser mantida por seus próprios e jurídicos fundamentos.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 717.302/ES, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/08/2015, DJe 27/08/2015)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. JULGAMENTO ANTECIPADO DA LIDE. POSSIBILIDADE. MAGISTRADO COMO DESTINATÁRIO DAS PROVAS. CERCEAMENTO DE DEFESA. CONFIGURAÇÃO. REEXAME DE PROVAS. INADMISSIBILIDADE. SÚMULA Nº 7/STJ.
+1. É possível o julgamento antecipado da lide quando o tribunal de origem entender substancialmente instruído o feito, declarando a existência de provas suficientes para seu convencimento. Os princípios da livre admissibilidade da prova e do livre convencimento do juiz (art. 130 do CPC) permitem ao julgador determinar as provas que entender necessárias à instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias.
+2. Rever os fundamentos de não reconhecimento do cerceamento de defesa por ter sido a lide julgada antecipadamente demanda a reapreciação do conjunto fático-probatório dos autos, o que é inadmissível em recurso especial, a teor da Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo regimental não provido. (AgRg no REsp 1368476/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/06/2014, DJe 17/06/2014)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. PRINCÍPIO DO JUIZ NATURAL. AUSÊNCIA DE VIOLAÇÃO. JULGAMENTO ANTECIPADO. CERCEAMENTO DE DEFESA. SÚMULA N. 7/STJ. NECESSIDADE DE CONSIDERAÇÃO DA DEFESA EM SEU CONJUNTO. ART. 302, III, DO CPC. INEXISTÊNCIA DE INCOMPATIBILIDADE. ÔNUS DA PROVA. DISTRIBUIÇÃO ADEQUADA. RECEBIMENTO DE COTAS SEM RESSALVA. PRESUNÇÃO DE QUITAÇÃO. ART. 322 DO CÓDIGO CIVIL (CORRESPONDENTE AO ART. 943 DO CÓDIGO DE 1916). NÃO INCIDÊNCIA NA ESPÉCIE. HONORÁRIOS ADVOCATÍCIOS. MATÉRIA PRECLUSA E NÃO PREQUESTIONADA.
+1. (..)
+3. Não implica cerceamento de defesa o indeferimento de produção de provas, visto que cabe ao magistrado, como destinatário da prova, decidir sobre o necessário à formação do próprio convencimento. O exame quanto à suficiência das provas apresentadas demanda revisão dos fatos, o que encontra óbice na Súmula n. 7/STJ.
+4. (..)
+8. Recurso especial parcialmente conhecido e desprovido.
+(REsp 1211407/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/02/2014, DJe 07/03/2014)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. CONTRATO DE COMPRA E VENDA DE VIDRO. JULGAMENTO ANTECIPADO DA LIDE. CONVENIÊNCIA DA PRODUÇÃO DE PROVAS. PRESCINDIBILIDADE. REEXAME. NÃO CABIMENTO. ENUNCIADO 7 DA SÚMULA DO STJ. INCIDÊNCIA.
+1. Inviável o recurso especial cuja análise das razões impõe reexame da matéria fática da lide, em que se inclui a conveniência da produção dos elementos de convicção, que se entendeu dispensáveis ante o julgamento antecipado da causa, nos termos da vedação imposta pelo enunciado 7 da Súmula do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 236.748/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/12/2013, DJe 18/12/2013)
+3.Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
