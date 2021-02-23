@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim ementado (fl. 1701):
+HABEAS CORPUS. Pedido de reconhecimento de continuidade delitiva e unificação das penas. Decisão de primeiro grau que indeferiu o pedido. Circunstâncias que demonstram que os crimes foram cometidos em contextos fáticos distintos. Desígnios autônomos verificados. Ordem denegada.
+O paciente foi condenado e cumpre pena, em execuçõesdistintas,pela prática dos crimes tipificados nos arts. 155 e 157 do Código Penal.
+A impetrante sustenta queo paciente "implantava, ao sair de casa, um mesmo desenho ou projeto de atuação criminosa que seguia sempre as mesmas características objetivas para, com isso, de modo bem sucedido infringir a mesma espécie de norma penal", de modo que"tecnicamentenão há como recusar-lhe a unificação de penas aqui reclamada" (fl. 9).
+Requer, liminarmente e no mérito,seja reconhecida a continuidade delitiva, na forma do art. 71 do Código Penal, para unificar as penas privativas de liberdade referentes às execuções 1, 2, 4, 5, 6, 7 e 8.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ; caso contrário, pela denegação da ordem.
+É o relatório.
+DECIDO.
+Quanto ao pleito de unificação de penas, tem-se que a Corte de origem,assim se manifestou (fls. 1702/1706):
+Conforme informado pelo d. juízoa quo, opaciente ostenta 09 processos de execução de pena, sendo 01cumprida,07 por cumprir e 01 em cumprimento, com término de cumprimento de pena previsto para 19.04.2068 (fls. 500).
+O impetrante sustenta que deve ser reconhecida a continuidade delitiva entre os seguintes crimes praticados pelo paciente:
+(..)
+O pedido de reconhecimento da continuidade delitiva foi negado pelo d. juízo a quo sob o fundamento de que "o caso dos autos não se adequa ao que preceitua a norma penal (artigo 71 do Código Penal), pois a continuidade delitiva, fruto de luta histórica em busca da equidade, somente há de ser reconhecida se e quando os delitos, individualmente considerados, fizerem parte deum contexto, apresentando-se de tal forma concatenados que um e outro se apresentem unidos indissoluvelmente"(fls. 487).
+Com efeito, no presente caso, os requisitos previstos no artigo 71, do Código Penal, não foram atendidos.
+Nesse sentido, os crimes foram cometidos com expressivos intervalos de tempo entre eles, inclusive de anos (20.04.2000, 26.08.2000, 09.09.2000, 23.09.2000, 24.09.2007, 13.11.2007 e 28.01.2008). A propósito, tão somente as execuções n.01 e 05 são relativas a crimes praticados com menos de 30 dias de intervalo, mas eles foram cometidos em locais diferentes e com modus operandi distintos, sendo certo que sequer dizem respeito a delitos de mesma espécie, uma vez que a execução n. 01 é decorrente de um roubo enquanto a execução n. 05 trata de crime de furto.
+Além das distintas condições de tempo, os delitos também foram praticados em locais diferentes, conforme indicado na tabela acima.
+No mais, da análise dos autos, verifico que os crimes não foram levados a efeito com maneira de execução semelhante, sendo certo que as vítimas ora foram abordadas na via pública, ora em suas residência havendo, ainda,delitos praticados em estabelecimentos comerciais. De resto, alguns delitos foramcometidos em concurso de agentes, outros não.
+Assim, os crimes foram cometidos em dias, locais e com modus operandi diversos, sem qualquer relação entre si.
+Desta forma, diante das espécies distintas de crimes, do lapso temporal decorrido entre eles e das diferentes condições de local e de modo de execução, evidencia-se que eles foram praticados de forma autônoma.
+Portanto, não há que se cogitar acerca de continuidade delitiva, mas sim de mera reiteração delitiva, porquanto os crimes foram praticados de forma independente entre si.
+Posto isso, pelo meu voto, denego a ordem.
+Quanto ao tema em discussão, sabe-se que o entendimento deste Superior Tribunal de Justiça é assente no sentido de que, além dos requisitos de ordem objetiva, para o reconhecimento da continuidade delitiva, é necessário que se observe a unidade de desígnios ou o vínculo subjetivo entre os crimes, adotando a teoria objetivo-subjetiva (AgRg no REsp 1258206/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 16/04/2015; AgRg no REsp 1078483/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 06/12/2011).
+Como se vê, o Tribunal de origem considerou autônomos os desígnios, uma vez queos crimes foram cometidos em dias, locais e com modus operandi diversos, sem qualquer relação entre si.Desta forma, diante das espécies distintas de crimes, do lapso temporal decorrido entre eles e das diferentes condições de local e de modo de execução, evidencia-se que eles foram praticados de forma autônoma.
+Deste modo, o reexame da matéria, com vista ao reconhecimento da continuidade delitiva, demandaria o revolvimento do conjunto fático-probatório carreado durante a instrução processual, providência, no entanto, inadmissível na estreita via do writ. Confira-se precedente nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. CONTINUIDADE DELITIVA. NÃO CONFIGURAÇÃO DOS REQUISITOS DO ART. 71 DO CP. AUSÊNCIA DE IDENTIDADE DE DESÍGNIOS. REANÁLISE FÁTICO-PROBATÓRIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Segundo a jurisprudência do col. Supremo Tribunal Federal e deste Tribunal Superior, para efeito de reconhecimento da continuidade delitiva, é indispensável que o réu tenha praticado as condutas em idênticas condições de tempo, lugar, maneira de execução e outras semelhanças e, ainda, que exista um liame a indicar a unidade de desígnios do agente. Precedentes.
+III - In casu, as instâncias ordinárias afastaram a hipótese de crime único e a aplicação da continuidade delitiva, por entender que não foram demonstrados os requisitos exigidos. Ao revés, concluíram que eram crimes autônomos, o que demonstraria a habitualidade criminosa.
+IV - Rever o entendimento assentado para reconhecer que houve crime único ou a figura da continuidade delitiva demandaria necessariamente, amplo reexame do acervo fático-probatório, procedimento incompatível com a estreita via do habeas corpus e de seu recurso ordinário.
+Habeas corpus não conhecido. (HC 599.831/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/09/2020, DJe 29/09/2020)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
