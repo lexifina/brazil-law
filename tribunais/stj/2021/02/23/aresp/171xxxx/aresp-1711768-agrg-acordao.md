@@ -1,0 +1,49 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. INQUÉRITO OU PROCESSO EM CURSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Na hipótese, verifica-se que a dedicação do recorrente às atividades criminosas se infere da existência de inquérito policial em andamento por outro delito.
+3. Releva salientar que "a Terceira Seção, no julgamento do EResp n. 1.413.091, da relatoria do Ministro Felix Fischer, assentou o entendimento de que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para a formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006"" (AgRg no AREsp 1.635.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/5/2020, DJe 11/5/2020).
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por CLEDSON FERREIRA DA SILVA (e-STJ, fls. 523-527) contra a decisão de fls. 518-520 (e-STJ), desta Relatoria, a qual conheceu do agravo para negar provimento ao recurso especial.
+O agravante alega que não seria possível negar a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 com base apenas na existência de inquérito ou processo em curso contra o apenado, conforme precedentes do Supremo Tribunal Federal.
+Requer a reconsideração da decisão agravada ou a submissão do feito à Quinta Turma.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. AFASTAMENTO. DEDICAÇÃO À ATIVIDADE CRIMINOSA. INQUÉRITO OU PROCESSO EM CURSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas.
+2. Na hipótese, verifica-se que a dedicação do recorrente às atividades criminosas se infere da existência de inquérito policial em andamento por outro delito.
+3. Releva salientar que "a Terceira Seção, no julgamento do EResp n. 1.413.091, da relatoria do Ministro Felix Fischer, assentou o entendimento de que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para a formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006"" (AgRg no AREsp 1.635.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 5/5/2020, DJe 11/5/2020).
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar o decisum agravado, motivo pelo qual o mantenho por seus próprios fundamentos.
+Conforme consignado na decisão agravada, o Tribunal a quo, ao manter a sentença e confirmar o afastamento da minorante, apresentou a seguinte fundamentação (e-STJ, fls. 443-444, grifou-se):
+"In casu, compulsando os autos constatei que o apelante possui em sua folha de antecedentes criminais (fls. 87/88) registro de um suposto crime de roubo, além de responder ao processo de n. 0007193-08.2018.8.02.0001, conforme verificado no SAJ - Sistema de Automação da Justiça.
+Destarte, impossível o reconhecimento da hipótese de tráfico privilegiado, pois o fato de o réu responder por outra ação penal indica que ele é dedicado a atividades criminosas. Aqui, vale destacar a jurisprudência no sentido do entendimento esposado. Confira-se:
+ .. ."
+No que tange à pretensão de aplicação da minorante, como é sabido, os requisitos legais para o deferimento da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas são: agente reconhecidamente primário, com bons antecedentes e que não se dedique a atividades criminosas ou integre organização criminosa. Segundo entendimento desta Corte, o mencionado dispositivo legal tem como objetivo beneficiar apenas pequenos e eventuais traficantes, não alcançando aqueles que fazem do tráfico de drogas um meio de vida (AgRg no AREsp 648.408/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 5/10/2015; AgRg no REsp 1423806/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 20/8/2015).
+Na hipótese, verifica-se que a dedicação do recorrente às atividades criminosas se infere da existência de inquérito policial em andamento por outro delito. Releva salientar que "a Terceira Seção, no julgamento do EResp n. 1.413.091, da relatoria do Ministro Felix Fischer, assentou o entendimento de que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para a formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/2006"" (AgRg no AREsp 1635211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/05/2020, DJe 11/05/2020).
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. VIOLAÇÃO DO ART. 619 DO CPP. INOCORRÊNCIA. AUSÊNCIA DE OMISSÃO. JULGAMENTO CONTRÁRIO AOS INTERESSES DA PARTE. APLICAÇÃO DA MINORANTE. ATIVIDADE CRIMINOSA. INQUÉRITO POLICIAIS E AÇÕES PENAIS EM CURSO. FUNDAMENTO PARA AFASTAR O PRIVILÉGIO. ERESP N. 1.431.091/SP.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - In casu, o agravante, ao que se observa, muito embora tenha colacionado os motivos de sua irresignação, não logrou refutar a devida prestação jurisdicional e a idoneidade na negativa de aplicação da benesse do art. 33, § 4º, da Lei n. 11.343/2006.
+Agravo regimental desprovido." (AgRg no AREsp 1588252/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020, grifou-se).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. LEI N. 11.343/06. CAUSA DE DIMINUIÇÃO DE PENA (§ 4º DA LEI DE DROGAS). DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AÇÃO EM ANDAMENTO. FUNDAMENTAÇÃO IDÔNEA. REVOLVIMENTO DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. REGIME FECHADO. NATUREZA DAS DROGAS. WRIT NÃO CONHECIDO.
+ ..
+2. Ação penal em andamento pode evidenciar a dedicação do indivíduo a atividades criminosas e, assim, impedir a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/06, como no caso em análise. Além disso, para se concluir que os pacientes fazem jus a essa causa de diminuição de pena, é necessário o reexame de matéria fática, inviável na via eleita.
+ ..
+4. Habeas corpus não conhecido." (HC 554.127/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/02/2020, DJe 02/03/2020, com destaque).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. EXISTÊNCIA DE PROCESSOS CRIMINAIS EM CURSO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS CONFIGURADA. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. No julgamento do EREsp n. 1.431.091/SP, por sua Terceira Seção, esta Corte sedimentou o entendimento de que inquéritos policiais e ações penais em curso, referentes a fatos pretéritos, podem ser utilizados para afastar a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por indicarem que o agente se dedica a atividades criminosas.
+2. Agravo regimental improvido." (AgRg no HC 510.179/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/10/2019, DJe 18/10/2019).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. SUPRESSÃO DE INSTÂNCIA. FLAGRANTE ILEGALIDADE. SÚMULA N. 444/STJ. MINORANTE DO ART. 33, §4º, DA LEI N. 11.343/2006. NÃO INCIDÊNCIA. CONDENAÇÃO ANTERIOR E PRÁTICA DE NOVO DELITO EM GOZO DO BENEFÍCIO DE LIVRAMENTO CONDICIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Por outro lado, a Terceira Seção desta Corte Superior de Justiça possui entendimento de que "é possível a utilização de inquéritos policiais e/ou ações penais em curso para formação da convicção de que o Réu se dedica à atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei 11.343/06" (EREsp n. 1.431.091/SP, relator Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 14/12/2016, DJe de 1º/2/2017), de maneira que, havendo condenação anterior pelo delito de tráfico e tendo o ora agravante cometido novo delito quando estava em livramento condicional, não há flagrante ilegalidade decorrente da não aplicação da minorante contida no art. 33, § 4º, da Lei n. 11.343/2006.
+4. Agravo regimental desprovido." (AgRg no HC 530.329/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/10/2019, DJe 18/10/2019).
+Não há dúvida, portanto, que o acórdão do Tribunal de origem está em consonância com o posicionamento desta Corte, o que atrai a incidência da Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
