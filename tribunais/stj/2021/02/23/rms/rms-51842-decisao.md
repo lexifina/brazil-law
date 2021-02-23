@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso em mandado de segurança interposto por IeldesMaria Schuck Nunes contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 211):
+AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. ÓRGÃO ESPECIAL. SERVIDOR PÚBLICO.
+Cabimento do agravo regimental, a teor do disposto no §1º do art. 233 do Regimento Interno do TJRS.
+MANDADO DE SEGURANÇA. DIREITO PÚBLICO. SERVIDORES PÚBLICOS ESTADUAIS. PARCELAMENTO DOS VENCIMENTOS. MS COLETIVO COM ORDEM AO IMPETRADO. INTERESSE DE AGIR. INEXISTÊNCIA.
+Havendo decisão anterior em mandado de segurança coletivo a beneficiar o impetrante, inexiste interesse de agir. Descabida a manutenção de mandados de segurança individuais com o intuito de obter ordem já concedida na demanda coletiva.
+AGRAVO DESPROVIDO. UNÂNIME.
+A insurgente alega, nas razões do recurso, que possui interesse de agir na ação individual, tendo em vista que a ação coletiva ajuizadapelo Sindicato não obsta que se busque o reconhecimento de não ser parcelado a remuneração recebida do Estado em ação individual, já que não existe litispendência.
+Assevera, de outra parte, que  ..  se poderia admitir seria tão somente a suspensão dos mandados de segurança individuais e não sua extinção, pois quando do ajuizamento da ação pelo sindicato, a parte desconhecia sua existência e não havia liminar concedida naquele processo" (e-STJ, fls. 238-239).
+Contrarrazões apresentadas as e-STJ, fls. 249-261.
+Parecer do Ministério Público Federal às e-STJ, fls. 277-281, pelo não provimento do recurso.
+É o relatório.
+A Corte de origem negou a pretensão da recorrente, ao afirmar que: "Havendo decisão anterior em mandado de segurança coletivo a beneficiar o impetrante, inexiste interesse de agir. Descabida a manutenção de mandados de segurança individuais com o intuito de obter ordem já concedida na demanda coletiva" (e-STJ, fl. 211).
+No entanto, no julgamento do RMS 52.018/RS, a Segunda Turma do Superior Tribunal de Justiça permitiu "a continuidade do Mandado de Segurança Individual, sendo conferida à recorrente a alternativa de desistir do presente mandamus individual, tal qual previsto no § 1º do art. 22 da Lei 12.016/2009, como condição a se beneficiar dos efeitos da coisa julgada do writ coletivo".
+A propósito, confira-se a ementa do julgado:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO. PARCELAMENTO DE REMUNERAÇÃO MENSAL. PRELIMINAR DE FALTA DE INTERESSE DE AGIR NO WRIT INDIVIDUAL EM FACE DE LIMINAR DEFERIDA EM MANDAMUS COLETIVO. AUSÊNCIA DE LITISPENDÊNCIA. NORMATIVO LEGAL QUE DETERMINA A CONTINUIDADE DA AÇÃO. ART. 22, § 1º, DA LEI 12.016/2009. NECESSIDADE DE A RECORRENTE SE MANIFESTAR QUANTO À DESISTÊNCIA DE SEU PROCESSO PARA QUE POSSA SE BENEFICIAR DOS EFEITOS DA COISA JULGADA DO MANDADO DE SEGURANÇA COLETIVO.
+1. Cuida-se, em sua origem, de Mandado de Segurança Individual visando a que seja determinado à autoridade impetrada que se abstenha de parcelar a remuneração da servidora ou de realizar o pagamento fora do prazo estabelecido na Constituição do Estado do Rio Grande do Sul.
+2. O Tribunal de origem entendeu pela falta de interesse de agir do Mandado de Segurança individual em razão de existência de Mandado de Segurança coletivo, com liminar deferida para reconhecer a ilegalidade do parcelamento dos salários dos servidores públicos.
+3. Pugna a recorrente pelo provimento do presente RMS para reformar o acórdão atacado, autorizando o normal prosseguimento do feito individual ou, alternativamente, que seja possibilitada a sua suspensão enquanto tramita o Mandado de Segurança coletivo.
+4. A questão foi originariamente analisada pelo e. Relator do presente processo, tendo concluído pelo não provimento do presente Recurso em Mandado de Segurança, haja vista que não se encontra presente o interesse processual para a continuidade de tramitação do mandamus individual.
+5. É firme a jurisprudência do STJ de que o Mandado de Segurança Coletivo, instituído pela Constituição de 1988, não é obstáculo à impetração de Mandado de Segurança individual.
+6. O Mandado de Segurança coletivo não se submete, diretamente, à sistemática do CPC, pois não se trata de cúmulo de demandas individuais em litisconsórcio ativo, mas de típica Ação Coletiva. As demandas coletivas regem-se pelo microssistema criado pelo CDC e pela Ação Civil Pública. Nos termos do art. 104 do CDC e do art. 22, § 1º, da Lei 12.016/2009, não há litispendência entre Ação Coletiva e Ações Individuais. Inexiste, pois, litispendência entre o presente Mandado de Segurança individual e o Mandado de Segurança coletivo.
+7. Justifica a recorrente o interesse de agir e a não extinção de seu Mandado de Segurança individual, sob o argumento de que, "na hipótese de extinção do mandado de segurança coletivo, sem resolução de mérito, ou improcedência, cada autor teria resguardado o direito a prosseguir com sua pretensão" (fl. 205). Finaliza demandando o normal prosseguimento do writ individual. Dessa feita, demonstrado está o interesse de agir, a partir da necessidade de manutenção do feito individual.
+8. Entende-se, in casu, que deve ser reformado o acórdão a quo, para permitir a continuidade do Mandado de Segurança Individual, sendo conferida à recorrente a alternativa de desistir do presente mandamus individual, tal qual previsto no § 1º do art. 22 da Lei 12.
+016/2009, como condição a se beneficiar dos efeitos da coisa julgada do writ coletivo.
+9. Corrobora-se com o fundamentado posicionamento do Voto-vogal do eminente Ministro Og Fernandes, que defendeu: "que fosse assegurado à impetrante o direito de se manifestar sobre a suspensão, ou não, do mandado de segurança individual".
+10. Diverge-se, permissa venia, do entendimento do e. Relator, sempre brilhante, para dar parcial provimento ao Recurso em Mandado de Segurança.
+(RMS 52.018/RS, Rel. Min. FRANCISCO FALCÃO, Rel. p/ Acórdão Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2018, DJe 4/9/2019.)
+Ante o exposto, dou parcial provimento ao recurso em mandado de segurança, em face da existência de interesse de agir da impetrante, ora recorrente, na demanda individual, conferindo-lhe a possibilidade de desistir do mandado de segurança individual, nos termos do art. 22, § 1º, da Lei n. 12.016/2009, conforme fundamentação supra.
+Publique-se. Intimem-se.
