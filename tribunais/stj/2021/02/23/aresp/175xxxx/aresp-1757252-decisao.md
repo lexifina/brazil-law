@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência do art. 1.030, I,"b", do CPC/2015 edaSúmulan.282 do STF (e-STJ fls. 1.731/1.732).
+O acórdão recorrido está assim ementado (e-STJ fls. 1.625/1.626):
+APELAÇÃO CÍVEL. AÇÃO DE REVISÃO CONTRATUAL. CONTRATO DE ABERTURA DE CONTA CORRENTE E DERIVADOS. ALEGADA IMPOSSIBILIDADE DE APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR AO CASO. PRECLUSÃO. PEDIDO DE AFASTAMENTO DA DESCARACTERIZAÇÃO DA MORA E ABSTENÇÃO DE INSCRIÇÃO DO NOME DO AUTOR NOS ÓRGÃOS DE RESTRIÇÃO AO CRÉDITO. AUSÊNCIA DE INTERESSE RECURSAL. INSURGÊNCIA NÃO CONHECIDA NESSES PONTOS. REVISÃO DE CLÁUSULAS. POSSIBILIDADE. MITIGAÇÃO DO PRINCÍPIO "PACTA SUNT SERVANDA". INSTITUIÇÃO FINANCEIRA QUE APRESENTOU APENAS ALGUNS DOS CONTRATOS DISCUTIDOS. CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE, EM RELAÇÃO AOS INSTRUMENTOS EXIBIDOS. TAXA DE JUROS REMUNERATÓRIOS ANUAL SUPERIOR AO DUODÉCUPLO DA TAXA MENSAL QUE SE MOSTRA SUFICIENTE PARA PERMITIR A COBRANÇA. RESP Nº 973.827/RS. JUROSREMUNERATÓRIOS. LIMITAÇÃO À TAXA MÉDIA DE MERCADO APENAS EM RELAÇÃO AOS INSTRUMENTOS NÃO JUNTADOS AOS AUTOS. MANUTENÇÃO QUANTO ÀS DEMAIS AVENÇAS, ANTE A INEXISTÊNCIA DE ABUSIVIDADE. TARIFAS BANCÁRIAS. AUSÊNCIA DE PROVA DA CONTRATAÇÃO. CONSTATAÇÃO PELO EXPERT. COBRANÇA INDEVIDA. SÚMULA 44/TJPR. REPETIÇÃO DE INDÉBITO. POSSIBILIDADE. FORMA SIMPLES, ANTE A AUSÊNCIA DE MÁ-FÉ DA INSTITUIÇÃO BANCÁRIA. COMPENSAÇÃO. POSSIBILIDADE. INTELIGÊNCIA DO ART. 368 DO CC. READEQUAÇÃO DO LAUDO PERICIAL A SER PROCEDIDA EM SEDE DE LIQUIDAÇÃO DE SENTENÇA. ÔNUS DA SUCUMBÊNCIA. REDISTRIBUIÇÃO. RECURSO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, PARCIALMENTE PROVIDO.
+As razões do recurso especial (e-STJ fls. 1.704/1.711), fundamentadas no art. 105, III, alínea"c", da CF, versavam sobreofensa ao art. 5º da MP n. 2.170-36/2001, porque (e-STJ fls. 1.706/1.710):
+ ..  a capitalização de juros é autorizada, independente de previsão expressa, pela MP 2.170-36/2001  ..
+Pela simples transcrição das ementas acima é possível visualizar o entendimento pacífico deste Sodalício no sentido de permitir a capitalização de juros em contrato firmados posteriormente a março de 2000.
+ ..  De maneira clara e concisa exprimiu o nobilíssimo Ministro a ideia de que é permitida a capitalização mensal dos juros, eis que o art. 5 2 da Medida Provisória n 2 2.170-36, de 2001, é norma especial, e deve, portanto, prevalecer diante de confronto com o artigo 591 do Código Civil.
+O mesmo se diga acerca do segundo acórdão colacionado, através do qual, repelindo a noção de que é aplicável o artigo 591 do Código Civil, o Ministro Aldir Passarinho Júnior estabelece que, nos contratos firmados a partir do advento da Medida Provisória nº 1693, de 2000, é lícita a capitalização mensal dos juros
+ ..  Todavia, caso esta Corte entenda pela impossibilidade de incidência da capitalização mensal de juros, que seja declarada a legalidade da capitalização anual de juros.
+No agravo (e-STJ fls. 1.747/1.755), o banco recorrenteafirmaa presença de todos os requisitos de admissibilidade do especial.
+O agravado apresentou contraminuta (e-STJ fls. 1.768/1.770).
+É o relatório.
+Decido.
+Da capitalização
+A Corte local assim entendeu (e-STJ fl. 1.634):
+No caso em exame, a instituição financeira deixou de acostar o contrato de Abertura de Conta Corrente firmado entre as partes.
+Assim, ante a inexistência do contrato nos autos a permitir a verificação de existência de previsão contratual acerca da capitalização de juros, configura-se ilegal tal pratica.
+A Segunda Seção desta Corte, no julgamento do REsp n. 973.827/RS (Relatora para o acórdão a Ministra MARIA ISABEL GALLOTTI, julgado em 8/8/2012, DJe 24/9/2012), submetido ao rito dos recursos especiais repetitivos (art. 543-C do CPC/1973), consolidou o seguinte entendimento sobre a capitalização de juros:
+É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada.
+A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+Aplica-se, portanto, ao mútuo decorrente do contrato de abertura de crédito em conta-corrente, o teor da Súmula n. 539/STJ:
+É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada.
+A propósito, mesmo a capitalização em periodicidade anual depende de pacto expresso, conforme decidido pela SEGUNDA SEÇÃO no julgamento do AgRg no AREsp n. 429.029/PR, Relator Ministro MARCO BUZZI, DJe de 18.4.2016. Sem que haja tal contratação, não é permitida a capitalização. Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À MONITÓRIA. CONTRATO DE ABERTURA DE CRÉDITO EM CONTACORRENTE. CAPITALIZAÇÃO MENSAL E ANUAL DOS JUROS. NECESSIDADE DE EXPRESSA PACTUAÇÃO. SÚMULA 83/STJ. LIMITAÇÃO DOS JUROS REMUNERATÓRIOS. JULGADO ESTADUAL EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Súmula 539/STJ: "É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000, reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada".
+2. "A jurisprudência consolidada nesta Corte Superior é no sentido de que a cobrança de juros capitalizados em periodicidade anual nos contratos de mútuo firmado com instituições financeiras é permitida quando houver expressa pactuação" (AgRg no AREsp 429029/PR, Rel. o Min. Marco Buzzi, Segunda Seção, julgado em 9/3/2016, DJe 14/4/2016).
+3. "Ausente a fixação da taxa no contrato, o juiz deve limitar os juros à média de mercado nas operações da espécie, divulgada pelo Bacen, salvo se a taxa cobrada for mais vantajosa para o cliente" (REsp n. 1.080.507/RJ, DJe de 1º/2/2012 e REsp n. 1.112.879/PR, DJe de 19/5/2010, em ambos Relatora a Ministra Nancy Andrighi). Incidência da Súmula 83 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.568.137/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/6/2016, DJe 1º/7/2016.)
+Incide, portanto, a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se
