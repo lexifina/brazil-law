@@ -1,0 +1,21 @@
+DECISÃO
+Nos autos do PEC n. 0009069-49.2016.8.26.0502, o Juiz da Unidade Regional de Departamento Estadual de Execução Criminal - Deecrim 4ªRAJ - comarca de Campinas/SPindeferiu o pedido de Brandayna da Silvade concessão de prisão domiciliar ou progressão antecipada de regime prisional, formulado em razão da Covid-19, com base na Recomendação n.62/2020 do Conselho Nacional de Justiça.
+Ajuizado o HC n.2065528-49.2020.8.26.0000, o Tribunal de Justiça de São Paulo denegou a ordem, conforme acórdão de fls. 42/46.
+Sobreveio, então, o presente writ, com a alegação, em síntese, de queas condições insalubres dos presídios brasileiros, em especial, a superlotação, a dificuldade do acesso à saúde, a racionalização da água e a precariedade de higiene e limpezafavorecem o alastramento de infecçõese tornam temerosa a manutenção da paciente no estabelecimento prisional onde está cumprindo pena privativa de liberdadepela prática dos crimes previstos nos arts. 33, caput,e 35, caput, ambos da Lei n.11.343/2006, e art. 155, § 4º, I e IV, do Código Penal, à pena total de 14 anos de reclusão, com a previsão para o término da pena em 21/6/2028.
+Requer, em liminar e no mérito, a antecipação da progressão da paciente ao regime aberto, ou alternativamente, a concessão do regime domiciliar.
+Indeferida a liminar pelo então Presidente desta Casa (fls. 56/57), depois de prestadas informações (fls. 60/68), opina o Ministério Público Federalpela denegação (fls. 70/71).
+É o relatório.
+Correto o parecer escrito peloSubprocurador-Geral da República Luciano Mariz Maia, o qual acolho e adoto como razão de decidir (fl. 71):
+O pedido não merece deferimento.
+Conforme precedendo do STJ citado na decisão que indeferiu o pedido liminar, o atendimento da Recomendação n. 62/2020 do Conselho Nacional de Justiça demanda a satisfação dos seguintes requisitos: "a) inequívoco enquadramento no grupo de vulneráveis à Covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020)" (e-STJ Fls. 56/57).
+No caso, a Impetrante fundamenta seus pedidos na conhecida e lamentável situação de nossos presídios e no contexto atual de pandemia, ou seja, formulou sem pleito com base em argumentação geral, sem qualquer menção específica à situação concreta da paciente.
+Na verdade, a presença dos requisitos exigidos pelo STJ foi expressamente afastada pela origem:
+ O  douto Juiz da origem indeferiu o pedido de prisão domiciliar por entender que a sentenciada não se encontra no grupo de risco para o COVID-19, eis que não é pessoa inserida nos grupos de riscos da doença e que as visitas nas unidades prisionais paulistas estão suspensas, a fim de preservar a saúde da população carcerária, não havendo registros de casos do Covid-19 no estabelecimento prisional em que ele se encontra (fls.37/38), inexistindo fundamentação suficiente para sua colocação em caráter excepcional em prisão domiciliar.
+E com razão.  .. . (e-STJ Fls. 44/45)
+Com efeito, acrise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ideia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal (Ministro Rogerio Schietti Cruz, HC n. 567.408/RJ, DJe 23/3/2020).
+No caso, no que se refere à situação dapaciente e o advento da pandemia de Covid-19, não há comprovação do quanto alegado -de forma bem genérica, ademais- pela impetrante.
+Com base na jurisprudência e na manifestação ministerial, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL.PLEITO DE CUMPRIMENTO DA PENA EM REGIME DOMICILIAR OU PROGRESSÃO ADIANTADA DE REGIME.PANDEMIA DO CORONAVÍRUS (COVID-19). RECOMENDAÇÃO N. 62/CNJ. ALEGAÇÕES GENÉRICAS.FALTA DE DEMONSTRAÇÃO DOS PRESSUPOSTOS NECESSÁRIOS À BENESSE. PRECEDENTES. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
