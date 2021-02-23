@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pela Fazenda Nacional contra decisão que inadmitiu o recurso especial.
+Atendidos os pressupostos legais, conheço do agravo e passo a examinar o apelo nobre.
+Não ocorre contrariedade aos arts. 458 e 535 do CPC/1973 quando o Tribunal de origem decide fundamentadamente todas as questões postas ao seu exame, assim como não há que se confundir entre decisão contrária aos interesses da parte e inexistência de prestação jurisdicional.
+É de se registrar, com efeito, que, conquanto a recorrente não tenha obtido êxito em suas pretensões, tal circunstância, por si só, não implica reconhecer que o julgado se encontre desprovido de fundamentação ou mesmo omisso.
+No aspecto:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. PARCELAS REMUNERATÓRIAS RECONHECIDAS PERANTE A JUSTIÇA DO TRABALHO. REVISÃO DE BENEFÍCIO. RENDA MENSAL INICIAL. SALÁRIOS DE CONTRIBUIÇÃO. COMPROVAÇÃO POSTERIOR PELO EMPREGADO. EFEITOS FINANCEIROS DA REVISÃO. DATA DA CONCESSÃO DO BENEFÍCIO.
+1. Não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada.
+2. O termo inicial dos efeitos financeiros da revisão deve retroagir à data da concessão do benefício, uma vez que o deferimento da ação revisional representa o reconhecimento tardio de direito já incorporado ao patrimônio jurídico do segurado, não obstante a comprovação posterior do salário de contribuição. Precedentes.
+3. Recurso especial a que se nega provimento.
+(REsp 1.539.705/RS, de minha relatoria, SEGUNDA TURMA, julgado em 10/4/2018, DJe 17/4/2018.)
+No tocante à prescrição (e à citada ofensa ao princípio da reserva de plenário relativo à LC 118/2005), o Colegiado regional deixou certo - afastando a omissão - que:
+De plano, deve ser observado que os embargos da União (Fazenda Nacional) foram interpostos intempestivamente, pois estes se voltam contra a primeira decisão proferida por este Tribunal Regional (fl. 194/197), que a Procuradoria da Fazenda Nacional teve ciência em 20 JUL 2007 (fl. 200), enquanto que os embargos foram protocolizados em 20 NOV 2007.
+Assim deve ser porque a matéria referente à prescrição foi debatida na primeira decisão, sendo que, na ocasião em que a Fazenda Nacional dela teve ciência, não opôs embargos de declaração, que foram manejados apenas pela impetrante (particular).
+A União não pode nesta oportunidade se insurgir contra matéria decidida na primeira decisão, de cujo inteiro teor teve ciência e quedou-se inerte naquele momento, somente vindo a manifestar-se agora, após a decisão dos primeiros embargos de declaração opostos pelo particular (veiculando matéria referente à correção monetária), em face da preclusão.
+A despeito de a recorrente sustentar a possibilidade de análise da prescrição a qualquer tempo, ela deixou de atacar o fundamento citado no acórdão combatido no sentido da ausência de impugnação na primeira oportunidade.
+A não impugnação de fundamento suficiente para manter o julgado combatido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. REGISTRO DE DIPLOMA. PRESCRIÇÃO. INOCORRÊNCIA. FUNDAMENTOS DA CORTE DE ORIGEM INATACADOS, NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Agravo em Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Na origem, trata-se de ação indenizatória, proposta por Maria Stresser Pinto em desfavor do Estado do Paraná, da Faculdade Vizivali e da União, com o objetivo de obter o ressarcimento pelos danos materiais sofridos em decorrência da não expedição de diploma, além de indenização por danos morais. A sentença, que julgou parcialmente procedente a ação, foi mantida, pelo Tribunal de origem.
+III. No caso, o Tribunal a quo afastou a tese de prescrição, nos termos a Súmula 106/STJ ("Proposta a ação no prazo f ixado para o seu exercício, a demora na citação, por motivos inerentes ao mecanismo da justiça, não justifica o acolhimento da arguição de prescrição ou decadência"). Segundo o acórdão recorrido, "considerando que não restou configurada a inércia do(a) autor(a) em promover a ação, e não tendo permanecido o feito paralisado por mais de 5 (cinco) anos, não há como lhe atribuir responsabilidade pela demora na efetivação do ato citatório, em razão da discussão de competência, com o reconhecimento de eventual prescrição da pretensão".
+IV. Certa ou errada, tal fundamentação restou incólume, nas razões do Recurso Especial. Portanto, é de ser aplicado o óbice da Súmula 283/STF, por analogia. Precedentes do STJ (REsp 1.656.498/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/05/2017; AgInt no REsp 1.531.075/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/08/2016; AgInt no REsp 1.682.340/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 19/03/2018).
+V. Ademais, o entendimento, firmado pelo Tribunal a quo, no sentido de que não restou configurada a prescrição, no caso, não pode ser revisto, pelo Superior Tribunal de Justiça, por exigir o reexame da matéria fático-probatória dos autos. Precedente do STJ.
+VI. Agravo interno improvido.
+(AgInt no AREsp 1.672.890/PR, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 30/11/2020, DJe 2/12/2020.)
+Sendo assim, verifica-se que as questões tratadas nos arts. 480 e 481 do CPC/1973, e 166, I, e 165, I, do CTN não foram objeto de juízo de valor pela instância de origem, a inviabilizar o conhecimento do recurso por ausência do requisito do prequestionamento.
+A esse respeito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. PREQUESTIONAMENTO. AUSÊNCIA. LEGITIMIDADE PASSIVA AD CAUSAM. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. O Plenário do STJ decidiu que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+2. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir na espécie os óbices das Súmulas 282 e 356 do STF.
+3. É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+4. Hipótese em que o Tribunal de origem, soberano na análise das circunstâncias fáticas da causa, reconheceu a legitimidade passiva ad causam da entidade bancária.
+5. O STJ tem o entendimento de que "a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+6. Agravo interno desprovido.
+(AgInt no AREsp 1.697.107/DF, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 8/2/2021, DJe 17/2/2021.)
+De toda forma, nenhum prejuízo há a Fazenda Nacional, porquanto a ação foi ajuizada em data anterior à vigência da LC 118/2005, existindo repercussão geral e repetitivo sobre a matéria atribuindo à lei complementar contornos de lei nova, e não meramente interpretativa.
+Quanto à divergência jurisprudencial, faltou ao recurso a demonstração de sua ocorrência nos moldes legais e regimentais, mormente quanto o Tribunal de origem esclarece que "a partir de 1º JAN 1996, sobre esse capital incidirá apenas a taxa SELIC".
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se. Intimem-se.
