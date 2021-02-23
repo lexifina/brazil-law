@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CARLOS FERREIRA LEAO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado:
+CIVIL E PROCESSO CIVIL. AÇÕES DE COBRANÇA E DE BUSCA E APREENSÃO. PRELIMINAR DE INTEMPESTIVIDADE DO RECURSO DE APELAÇÃO. REJEIÇÃO. SOCIEDADE DE FATO CONSTITUÍDA DE FORMA VERBAL. DESCONSTITUIÇÃO. DESNECESSIDADE DE LIQUIDAÇÃO JUDICIAL. TUTELA CAUTELAR. APREENSÃO DE MAQUINÁRIO ADQUIRIDO PARA EMPREGO NAS ATIVIDADES DA SOCIEDADE. RISCO DE DANO IRRREPARÁVEL OU DE DIFÍCIL REPARAÇÃO CONFIGURADO. MANUTENÇÃO.
+1. Evidenciado que o apelante encontra-se representado em Juízo pela Defensoria Pública do Distrito Federal, o prazo para interposição de recurso de apelação somente tem início a partir da vista pessoal. Interposto o recurso dentro do prazo legal, mostra-se impositiva a rejeição da preliminar de intempestividade.
+2. Caracterizado o risco de dano de difícil reparação, ante a possibilidade de deterioração e de perda de insumos, além da depreciação dos equipamentos adquiridos pela autora para emprego nas atividades que seriam desenvolvidas na sociedade de fato, tem-ser por correto o deferimento de tutela cautelar de busca e apreensão dos aludidos bens.
+3. Tendo em vista que a sociedade de fato ainda não havia sidoefetivamente constituída, eis que caracterizada a mera intenção de associação, com a aquisição de maquinário e insumos para o exercício da atividade a que se destinava, não se faz necessária a instauração de procedimento de liquidação, para fins de apuração de restituição de valores desembolsados e dos equipamentos adquiridos por um dos sócios.
+4. Desfeita a sociedade de fato, tem-se por impositivo o retorno das partes ao status quo ante, com a consequente restituição dos valores repassados pela autora ao réu, para fins emprego nas atividade que seriam desenvolvidas, com exceção do montante utilizado para aquisição de insumos e maquinários que foram objeto de busca e apreensão.
+5. Carece o apelante de interesse recursal quanto à discussão de valores que não integraram a condenação que lhe foi imposta na r. sentença.
+6. Apelação Cível conhecida. Preliminar rejeitada. No mérito, recurso não provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrenteofensa ao disposto nos arts. 986, 1.001 e 1.033, IV, do CC, sustentando que (fl. 357):
+Entretanto, apesar do consignado pelo Tribunal a quo, verifica-se que o artigo 986 do CC dispõe que a sociedade não regularmente constituída se regerá pelas regras civis acerca da sociedade em comum e, subsidiariamente, pelas regras da sociedade simples.
+Portanto, tendo em vista que é incontroversa nos autos a existência de uma sociedade irregular, criada verbalmente pelo Recorrente e pela Recorrida, a essa sociedade aplicam-se as disposições acima mencionadas.
+Sob essa perspectiva, à sociedade em questão aplica-se o artigo 1.001 do CC, que dispõe, ao contrário do que asseverado pelo Tribunal de origem, que as obrigações dos sócios começam imediatamente com o contrato e não apenas quando houver o efetivo exercício da atividade de empresário.
+Desse modo, desde o dia em que celebrado o contrato verbal, existe a sociedade empresária entre o Recorrente e a Recorrida, o que torna inviável a procedência da presente ação de cobrança antes de se realizar a dissolução da sociedade, à luz do disposto no artigo 1.033, IV do CC.
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 381.
+É o relatório. Decido.
+2. A irresignação não prospera.
+3. Aconclusão a que chegou o Tribunal de origem, no sentido de que houve uma meraintenção de atuação empresarial, decorreu de convicção formada em face dos elementos fáticos existentes nos autos, como observado no seguinte trecho do acórdão (fl. 319):
+De acordo com a sistemática normativa em vigor, a caracterização de uma sociedade de fato (ou sociedade em comum) pressupõe a presença dos mesmos requisitos exigidos pelo artigo 966 do Código Civil para a caracterização do empresário, dentre os quais o exercício de atividade econômica organizada destinada à produção ou circulação de bens ou serviços.
+ ..
+No caso em tela, verifico a ausência do requisito em questão, uma vez que não houve o efetivo exercício de atividade econômica organizada, havendo meraintenção de atuação empresarial.
+Com efeito, como bem salientou a d. Magistrada sentenciante, a intenção empresarial cessou ainda em fase de aquisição de materiais e maquinários, razão pela qual a resolução da sociedade prescinde do ajuizamento de processo próprio de dissolução.
+Rever os fundamentos do acórdão recorrido, para analisar a alegação de que existe uma sociedade irregular, importa necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7/STJ) e impede o conhecimento do recurso especial.
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
