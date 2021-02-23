@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo em face da decisão que inadmitiu recurso especial, interposto na origem com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal.
+Alega a defesa violação ao art. 33do Código Penal, e art. 381do Código de Processo Penal (fls. 325-330).
+O recurso foi inadmitido, ante o óbice da Súmula 83/STJ (fl. 346-347).
+No presente agravo, sustenta a inaplicabilidade do óbice sumular em questão. Pugna, assim, pela reconsideração da decisão agravada e, assim, seja conhecido e provido o recurso especial.
+Contraminuta (fl. 357-359).
+Parecer do Ministério Público Federal, pelo desprovimento do agravo (fl. 374-379).
+É o relatório.
+Decido.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+Extrai-se dos autos que ANTÔNIO CARLOS MARTINS DA SILVA foi condenado à pena de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, além da multa, pela prática do delito de roubo majorado (art. 157, § 2º, I e II, do Código Penal).
+A Corte de origem negou provimento ao recurso defensivo, em acórdão assim ementado (fl. 318):
+APELAÇÃO CRIMINAL - ROUBO - ART. 157, § 2º, I E II DO CP - ALTERAÇÃODO REGIME INICIAL DE CUMPRIMENTO DE PENA - IMPOSSIBILIDADE - SENTENÇA DEVIDAMENTE MOTIVADA PARA FIXAÇÃO DE REGIME INICIAL FECHADO - RECURSO CONHECIDO E IMPROVIDO.
+1 - A imposição do regime semiaberto, embora a pena fixada tenha sido inferior a 08 (oito) anos, se justifica com base no art. 33, § 3º, do Código Penal e a Súmula n. 719, do Supremo Tribunal Federal.
+2 - Recurso conhecido e improvido.
+Sustenta a defesa que o quantum de pena aplicado é perfeitamente compatível com o regime semiaberto, e que a fixação de regime fechado está em desacordo com a súmula 719 do Supremo Tribunal Federal, que exige que a imposição de regime inicial de cumprimento de pena mais gravoso do que o disposto em lei exige fundamentação idônea, ou seja, capaz de justificar o prejuízo causado ao condenado, o que flagrantemente não é o caso dos autos.
+Acrescenta que conforme Súmula 718/STF é vedada a fixação de regime mais severo do que a pena permite com base na gravidade em abstrato do delito, e que, no caso dos autos, o que não foi observado pelas instâncias ordinárias, ao desvalorarem as circunstâncias judiciais.
+No entanto, o que se verifica é que a sentença de piso, na dosimetria da pena, concluiu que as circunstâncias judiciais eram desfavoráveis (circunstâncias e consequências do crime), e ressaltou, ainda, a gravidade concreta da conduta (fl. 216-228).
+Por sua vez, a Corte estadual manteve a sentença, nos seguintes termos (fl. 321-321):
+Compulsando a sentença condenatória, nota-se que o regime fechado foi imposto, embora a pena fixada tenha sido inferior a 08 (oito) anos, nos seguintes termos:
+"A pena privativa de liberdade imposta no caso em tela e a primariedade do réu, à primeira vista indicam a fixação inicial do regime penitenciário semiaberto. Ocorre que a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 do Código Penal (art. 33, § 3 , do referido estatuto).
+No presente caso as circunstâncias do crime e as consequências do crime foram desfavoráveis ao acusado, o que ocasionou a exasperação da pena base, o que recomenda o regime mais gravoso do que a pena comporta, para fins de prevenção e repressão do delito perpetrado. ( )
+Assim sendo, considerando a quantidade de pena aplicada (06 anos e 08 meses de reclusão); considerando que as circunstâncias e consequências do crime foram desfavoráveis ao acusado e a gravidade concreta da conduta, fixo o regime inicial fechado para o cumprimento da pena de reclusão imposta, nos termos do art. 33, § 2º,alínea b, c/c o § 3º, do Código Penal".
+Como se vê, o MM. Juiz "a quo" fundamentou a imposição do regime com base no disposto no art. 33, § 3º, do Código Penal ("A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código").
+( ) Ademais, o "decisum" monocrático está em harmonia com a Súmula 719, do Supremo Tribunal Federal, que estabelece que "A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Verifica-se, assim, que as instâncias ordinárias, soberanas na análise das provas dos autos, concluíram que, apesar de a pena final ser inferior a 8 anos de reclusão, deveria ser fixado o regime inicial fechado em razão da a gravidade concreta da conduta e das circunstâncias judicias serem desfavoráveis, sendo, inclusive, a pena-base fixada acima do mínimo legal. Dessa maneira, ausente a ilegalidade na manutenção do modo prisional mais gravoso. Nesse norte:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. CRIMES CONTRA A ORDEM TRIBUTÁRIA. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE EM RAZÃO DA ANÁLISE NEGATIVA DAS CIRCUNSTÂNCIAS DO CRIME E DOS MAUS ANTECEDENTES. FUNDAMENTAÇÃO IDÔNEA. REGIME MAIS GRAVOSO. POSSIBILIDADE. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAIS DESFAVORÁVEIS QUE ELEVOU A BÁSICA ACIMA DO MÍNIMO LEGAL. PRECEDENTES. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravoregimental deve trazer novos argumentos capazes de alterar oentendimento anteriormente firmado, sob pena de ser mantida a r.decisão vergastada pelos próprios fundamentos.
+II - O aumento da sanção básica em razão circunstâncias judiciais -circunstância do crime e maus antecedentes -, foi devidamentefundamentado em dados concretos extraídos da conduta imputada ao ora paciente. Não se valeu o julgador de elementos que integram aestrutura do tipo penal, mas sim destacou, de modo minucioso,àqueles que desbordam das elementares dos tipos penais em destaque.
+III - Consoante orientação jurisprudencial deste Superior Tribunalde Justiça, "a individualização da pena é submetida aos elementos deconvicção judiciais acerca das circunstâncias do crime, cabendo àsCortes Superiores apenas o controle da legalidade e daconstitucionalidade dos critérios empregados, a fim de evitareventuais arbitrariedades. Dessarte, salvo flagrante ilegalidade, oreexame das circunstâncias judiciais e os critérios concretos deindividualização da pena mostram-se inadequados à estreita via dohabeas corpus, pois exigiriam revolvimento probatório" (AgRg no HCn. 480.933/AP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca,DJe de 27/06/2019, grifei).
+IV - A existente circunstância judicial desfavorável, com aconsequente fixação da pena-base acima do mínimo legal, segundopacífica jurisprudência desta Corte Superior, autorizada adeterminação de regime inicial mais gravoso do que o cabível emrazão do quantum de pena cominado.
+Agravo regimental desprovido. (AgRg nos EDcl no HC 560388 / SP, Relator(a) Ministro FELIX FISCHER, QUINTA TURMA, Data da Publicação/Fonte: DJe 04/05/2020)
+Nesse sentido, ausentes fundamentos concretos para o abrandamento do regime, faz jus o recorrido ao regime inicial fechado, nos termos das Súmulas 440/STJ e 718 e 719/STJ, devendo ser mantido o acórdão recorrido, por estar consoante a jurisprudência do STJ, incidindo, à espécie, o comando da Súmula 83/STJ.
+Ante o exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
