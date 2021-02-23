@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo interposto porJOSE IVAN PINHEIRO eLUCIANO ALEX DO PRADO PINHEIROcontra decisão que inadmitiu recurso especial (e-STJ, fls. 241-242)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado (e-STJ, fl. 114):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FALECIMENTO DA EXECUTADA. CITAÇÃO E BLOQUEIO DE BENS DOS HERDEIROS. APRESENTAÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE ILEGITIMIDADE PARA RESPONDER PELO DÉBITO. EXCEÇÃO REJEITADA. INSURGÊNCIA DOS HERDEIROS. NÃO ACOLHIMENTO. AUSÊNCIA DE DEMONSTRAÇÃO DE INEXISTÊNCIA DE BENS DA EXECUTADA FALECIDA A INVENTARIAR. CERTIDÃO DE ÓBITO QUE ATESTA A EXISTÊNCIA DE PATRIMÔNIO. AUSÊNCIA DE ESCLARECIMENTO DOS AGRAVANTES SOBRE O FATO. POSSÍVEL PARTILHA EXTRAJUDICIAL. HERDEIROS QUE RESPONDEM ATÉ O LIMITE DA HERANÇA. DECISÃO MANTIDA. Agravo de instrumento conhecido e desprovido.
+Opostos embargos de declaração, o aresto recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 185):
+EMBARGOS DE DECLARAÇÃO. AGRAVO DE INSTRUMENTO DESPROVIDO. INSURGÊNCIA DOS AGRAVANTES. ALEGAÇÃO DE OMISSÃO E OBSCURIDADE COM RELAÇÃO AS PROVAS APRESENTADAS NOS AUTOS E O RESULTADO DO JULGAMENTO. ACÓRDÃO QUE BEM DELINEOU OS PONTOS DE INSURGÊNCIA. DESNECESSIDADE DE MAIORES ESCLARECIMENTOS. INCONFORMISMO QUE NÃO DÁ ENSEJO À REDISCUSSÃO DA MATÉRIA. AUSÊNCIA DE QUALQUER DOS VÍCIOS DISPOSTOS NO ARTIGO 1.022 DO CPC/15. Embargos de declaração conhecidos e rejeitados.
+Nas razões do recurso especial, alegaramosrecorrentes, com base nas alínea a e cdo permissivo constitucional, violação aos arts. 110 e 796 do CPC/2015; e 1.997 do CC/2002.
+Sustentaram que a legitimidade para responder pelas dívidas de pessoa falecida pertence ao espólio.
+Defenderam que, no caso em exame, é descabido o redirecionamento da execução para o patrimônio dos herdeiros.
+Frisaram que o inventário da falecida é negativo e que tal situação encontra-se demonstrada nos autos.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 241-242).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 254-260).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nas razões do presente recurso, osagravantes alegam teremcumprido com todos os requisitos exigidos para conhecimento e julgamento do recurso especial.
+Constatados os pressupostos de admissibilidade do agravo, passo à análise do recurso especial.
+A respeito da tese defendida pelos recorrentes, o Tribunal de origem assim se manifestou (e-STJ, fls. 116-118):
+Certo é que o artigo 687 do CPC/2015 determina que, com o falecimento de qualquer das partes, haverá sucessão no processo pelos interessados. Nessa linha, o artigo 689 do mesmo diploma legal dispõe que se procederá à habilitação nos autos do processo principal, na instância em que estiver, com a suspensão do processo a partir de então.
+Ainda, prevê o artigo 110 do CPC que, "ocorrendo a morte de qualquer das partes, dar-se-á a sucessão pelo seu espólio ou pelos seus sucessores, observado o disposto no art. 313, §§ 1º e 2º".
+Neste caso, os agravantes alegam que a executada não deixou patrimônio, porém, limitaram-se a justificar tal situação na ausência de diligências frutíferas em seu nome na demanda, não comprovando efetivamente a inexistência de patrimônio.
+Aliás, ao contrário das alegações aqui prestadas, consta da Certidão de Óbito da que ela de cujus deixou bens a inventariar" (mov. 19.1):
+ ..
+Essa situação não restou bem delimitada pelos agravantes, não tendo sido esclarecido os motivos pelos quais constou a existência de bens em tal declaração, se como alegam os agravantes a executada não tinha bens suscetíveis de partilha.
+E certo é que consoante as disposições do Código Civil em vigor, "o herdeiro não responde por encargos superiores às forças da herança; incumbe-lhe, porém, a prova do excesso, salvo se houver inventário que a escuse, demostrando o valor dos bens herdados" (art. 1.792).
+ ..
+Neste caso, porém, não foi o que ocorreu, já que os agravantes não conseguiram demonstrar a existência de inventário negativo. Para além disso, também não demonstraram que tenha ocorrido a partilha de forma extrajudicial, já que a certidão de óbito atestou a existência de bens.
+Certifique-se que a agravada comprovou nos autos que nas Comarcas de Cascavel e Maringá inexistia inventário judicialem trâmite (movs. 48.2/48.3), o que não afasta a possibilidade de tal ato ter se dado de forma extrajudicial, já que, conforme artigo 2.016, do Código Civil, "Será sempre judicial a partilha, se os herdeiros divergirem, assim como se algum deles for incapaz", o que não parece ser o caso dos autos.
+Acrescente-se que o aclaramento da situação aqui delineada era de responsabilidade dos agravantes. Caberia a eles, portanto, a prova do inventário negativo ou de todos os valores que receberam na possível partilha realizada extrajudicialmente, a fim de evitar a constrição indevida sobre o patrimônio que possa não ter relação com a herança aqui estudada.
+Assim, considerando a obscuridade que envolve os fatos em discussão, é o caso de manter a decisãoagravada, que defendeu que os agravantes respondem pelas dívidas da falecida "em proporção da parte que na herança lhe coube"(cf. art. 1997, CC). Isto é, respondem os agravantes "até o limite da herança, independentemente de decisão expressa nesse sentido, cabendo-lhes a prova de eventual excesso no caso de não haver inventário", assim como restou consignado em primeiro grau.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual entendeu quenão ficou comprovado o argumento dos recorrentes acerca da existência de inventário negativo nem que a sucessão processual acarretou constrição excessiva do patrimônio dos agravantes.
+Dessa forma, verifica-se que a conclusão da Corte local encontra-se alicerçada em elementos fático-probatórios acostados aos autos, situação que impossibilita o STJ de reverter o posicionamento adotado, ante a incidência da Súmula 7/STJ.
+Noutro ponto, quanto àdivergência jurisprudencial, em virtude da aplicação do enunciado sumular acima mencionado, fica prejudicada a análise do dissídio, uma vez que inexiste similitude fática entre os julgados confrontados.
+Ante o exposto, conheço do agravo para não conhecer recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. FALECIMENTO DA EXECUTADA. INVENTÁRIO NEGATIVO. INEXISTÊNCIA. RESPONSABILIDADE DOS HERDEIROS. EXCESSIVIDADE NÃO CONSTATADA. REVISÃO. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
