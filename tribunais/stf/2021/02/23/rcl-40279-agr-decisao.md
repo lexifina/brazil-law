@@ -1,0 +1,24 @@
+DECISÃO
+AGRAVO – JUÍZO DE RETRATAÇÃO.
+RECLAMAÇÃO – AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 5.090 – DESRESPEITO – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Madalena Vazoler assevera haver o Juízo da Segunda Vara Federal de Cachoeiro do Itapemirim/ES, no processo nº 5006085-84.2019.4.02.5002, inobservado liminar deferida pelo ministro Luís Roberto Barroso na ação direta de inconstitucionalidade nº 5.090.
+    Narra ter ajuizado ação voltada à cobrança de valores, a título de correção monetária, relativamente aos depósitos do Fundo de Garantia do Tempo de Serviço, considerado índice diverso da Taxa Referencial. Afirma que o Juízo, em 26 de novembro de 2019, julgou improcedente o pedido, tendo em conta o proclamado, pelo Superior Tribunal de Justiça, no recurso especial repetitivo nº 1.614.874, surgindo o descompasso.
+    Salienta implementada, em 6 de setembro anterior, pelo Relator do processo objetivo, medida acauteladora por meio da qual determinada a suspensão das demandas a versarem a atualização dos depósitos.
+    Requereu, no campo precário e efêmero, a paralisação da tramitação na origem. Busca a confirmação da providência e a cassação do ato impugnado.
+     Vossa Excelência, em 28 de outubro de 2020, negou seguimento à reclamação. Uma vez extrapolado o prazo de 180 dias previsto no artigo 21, parágrafo único, da Lei nº 9.868/1999 e ante a semelhança da ação direta com a declaratória de constitucionalidade, assentou esgotada a eficácia do pronunciamento.
+    A reclamante, em agravo interno, insiste na manutenção dos efeitos da liminar que implicou a suspensão dos processos versando incidência da Taxa Referencial como índice de correção monetária dos depósitos do Fundo de Garantia do Tempo de Serviço mesmo após transcorridos os 180 dias previstos no artigo 21, parágrafo único, da Lei nº 9.868/1999. Ressalta que o prazo diz respeito apenas às ações declaratórias de constitucionalidade. Reitera os argumentos anteriormente expendidos.
+    A Caixa Econômica Federal, em contraminuta, reportando-se ao assentado no recurso extraordinário com agravo nº 848.240, assevera inexistir repercussão geral da matéria. Frisa não desrespeitado pronunciamento vinculante do Supremo.
+    2. Atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por advogados credenciados, foi protocolada no prazo legal.
+     Reanalisado o caso a partir das razões veiculadas no agravo interno, concernentes à impertinência da aplicação do artigo 21, parágrafo único, da Lei nº 9.868/1999, mostra-se adequada a sequência da reclamação, uma vez em jogo liminar deferida em ação direta de inconstitucionalidade.
+    Questiona-se, na ação direta de nº 5.090, a compatibilidade, com a Carta da República, dos artigos 13 da Lei nº 8.036/1990 e 17 da Lei nº 8.177/1991, mediante os quais estabelecida a correção dos depósitos nas contas vinculadas do Fundo de Garantia do Tempo de Serviço a partir da Taxa Referencial. Em 6 de setembro de 2019, o Relator, ministro Luís Roberto Barroso, mediante pronunciamento individual, acolheu pedido de medida acauteladora, nos seguintes termos:
+    Considerando: (a) a pendência da presente ADI 5090, que sinaliza que a discussão sobre a rentabilidade do FGTS ainda será apreciada pelo Supremo e, portanto, não está julgada em caráter definitivo, estando sujeita a alteração (plausibilidade jurídica); (b) o julgamento do tema pelo STJ e o não reconhecimento da repercussão geral pelo Supremo, o que poderá ensejar o trânsito em julgado das decisões já proferidas sobre o tema (perigo na demora); (c) os múltiplos requerimentos de cautelar nestes autos; e (d) a inclusão do feito em pauta para 12/12/2019, defiro a cautelar, para determinar a suspensão de todos os feitos que versem sobre a matéria, até julgamento do mérito pelo Supremo Tribunal Federal.
+    Versando a demanda originária a atualização dos referidos depósitos, cabia ao Juízo proceder à suspensão do processo, tendo em conta o determinado em sede de controle concentrado. Ao prolatar sentença em momento posterior ao decidido no processo objetivo, acabou por inobservar o ato do Relator.
+    Cumpre, na fase atual, tão somente suspender o curso da demanda originária, ficando o juízo atinente à cassação para momento posterior ao aparelhamento da medida, quando da decisão definitiva.
+    3. Reconsidero o pronunciamento de 28 de outubro de 2020, para determinar a sequência do processo.
+    4. Defiro o pedido de liminar, suspendendo, até o desfecho da ação direta de nº 5.090, o processo nº 5006085-84.2019.4.02.5002, em tramitação na Segunda Vara Federal de Cachoeiro do Itapemirim/ES.
+    5. Solicitem informações e colham, em seguida, parecer da Procuradoria-Geral da República.
+    6. Publiquem.
+Brasília, 23 de fevereiro de 2021.
+Ministro MARCO AURÉLIO
+Relator
