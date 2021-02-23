@@ -1,0 +1,27 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1002326-68.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por SHIRLEY SOUZA BARBOSA em virtude da decisão proferida pelo Juiz da Vara Única da Comarca de Alto Taquari que, nos autos do Cumprimento de Sentença n.o 0002645-40.2017.8.11.0092, rejeitou a exceção de pré-executividade e condenou a Agravante ao pagamento de honorários sucumbenciais fixados em 10% (dez por cento) do valor da causa.
+Em suas razões recursais, a Agravante alega que o Juiz a quo equivocou-se ao fixar honorários sucumbenciais em seu desfavor, ao argumento de que foi sucumbente em parte mínima.
+Assevera que “sequer houve proveito econômico o pedido do Agravado julgado procedente, pois não há que se falar em extinção parcial e muito menos total de qualquer dos direitos da Exequente.”
+Segue argumentando que “a decisão embargada não trouxe qualquer proveito econômico ao Agravado, muito menos, extinguiu parte do cumprimento de sentença.”
+Afirma que na decisão que rejeitou a exceção de pré-executividade e julgou parcialmente procedente a impugnação ao cumprimento de sentença, o Julgador singular somente ajustou o rito processual da execução.
+Por derradeiro, afirma que não há falar em aplicabilidade de honorários sucumbenciais ao caso concreto, eis que “não houve extinção do direito a partilha das quotas sociais”. Ressalta, ademais, que “a decisão embargada não trouxe qualquer proveito econômico ao Agravado, muito menos, extinguiu parte do cumprimento de sentença.”
+Forte em tais argumentos, requer seja agregado efeito suspensivo ao recurso. No mérito, pede o provimento do Instrumental.
+Eis o relato essencial. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se encaixa perfeitamente no parágrafo único do artigo 1.015, do CPC, bem como está instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o do CPC.
+Como é cediço, o artigo 1.019 inciso I, do Código de Processo Civil, preconiza que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Ademais, o parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.”
+Nesse contexto, é vedado nos estreitos limites deste Recurso o exame de questões de fundo do direito discutido, sendo necessário, portanto, aferir se estão, ou não, presentes os pressupostos necessários para o deferimento da aludida medida. Porquanto, a Agravante busca sobrestar os efeitos da decisão objurgada até o julgamento definitivo do recurso.
+Da análise dos autos, nesta fase de cognição sumária, observa-se que a controvérsia recursal cinge-se no acerto ou desacerto do Julgador a quo ao fixar honorários sucumbenciais em desfavor da Agravante na decisão proferida na fase do cumprimento de sentença.
+Ao examinar os documentos que compõem o caderno processual, especificamente a decisão hostilizada (Id. 75997476), verifica-se que, ao menos prima facie, o Juiz singular limitou-se em adequar o procedimento da execução nos autos originários, vez que tão somente denegou o ingresso da Agravante no quadro societário da empresa “Organização Societária Contábil Ltda.-ME”, ao fundamento de que a integração da Recorrente na referida empresa está condicionada ao consentimento dos demais sócios-empreendedores (princípio do affectio societatis).
+Com efeito, extrai-se do decisum objurgado que tal pressuposto não foi observado no caso concreto, eis que o próprio executado/Agravado, enquanto membro do quadro societário da mencionada empresa, manifestou rejeição quanto ao respectivo pedido de ingresso da Agravante (ID. 75997476).
+Não obstante isso, no mesmo decisum objurgado, o próprio Julgador a quo registrou que a exequente/Agravante deve “se valer de outros meios para satisfazer o seu crédito decorrente das quotas sociais titularizadas pelo devedor (...)”, como se vê em ID. 75997480.
+Infere-se, portanto, pelo menos à primeira vista, que o Magistrado singular não rejeitou/delimitou sobre o direito de partilha da Agravante, mas sim, somente alterou o forma que os autos executivos devem seguir.
+Sob tal perspectiva, entrevejo a probabilidade do direito invocado pela Recorrente. De igual modo, o perigo de dano também se revela nos autos, pois se o Julgador a quo fixou em desfavor da Agravante honorários sucumbenciais no importe de 10% (dez por cento) sobre o valor da causa, quantia equivalente a R$200.000,00 (duzentos mil reais), cuja monta poderá ser passível de execução quando do trânsito em julgado dos autos de cumprimento de sentença originários.
+Por tais considerações e, preenchidos os requisitos autorizadores da medida in limine, defiro o pedido de efeito suspensivo, para sobrestar os efeitos do decisum invectivado até o julgamento do mérito deste Instrumental.
+Comunique-se ao Juiz da causa, com urgência.
+Intime-se o Agravado para, querendo, apresentar contrarrazões no prazo legal, nos termos do art. 1.019, II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 23 de fevereiro de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
