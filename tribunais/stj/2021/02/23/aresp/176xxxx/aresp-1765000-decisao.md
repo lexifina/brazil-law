@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por incidência da Súmula 280/STF
+O acórdão foi assim ementado (fls. 59-64, e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. CUMPRIMENTO DE SENTENÇA. EXPEDIÇÃO DE RPV PARA PAGAMENTO DE CUSTAS PROCESSUAIS. DECISÃO DEFERE INCIDÊNCIA DE JUROS DE MORA A PARTIR DA INTIMAÇÃO DA EXPEDIÇÃO DA REQUISIÇÃO PELO SISTEMA PROJUDI. FORMAL INCONFORMISMO. IMPOSIÇÃO DE OBSERVÂNCIA AO PROCEDIMENTO PREVISTO NA LEI MUNICIPAL Nº 11.467/2011, PARA CONTAGEM DO PRAZO DE 60 (SESSENTA) DIAS PARA PAGAMENTO A PARTIR DO PROTOCOLO DO RPV. INCONGRUIDADE. SISTEMA DE INTIMAÇÕES ELETRÔNICAS VIABILIZA O CONTROLE DA ORDEM DOS PEDIDOS DE PAGAMENTO. INCONSTITUCIONALIDADE DA PREVISÃO LEGAL AUTORIZATIVA DE SEQÜESTRO DE VALORES. IMPERTINÊNCIA. CONSTITUCIONALIDADE AFERIDA. DESNECESSIDADE DE REMESSA AO ÓRGÃO ESPECIAL (ART. 949, II DO CPC). RECURSO NÃO PROVIDO.
+O Município afirma, em seu Recurso Especial, que houve, além de divergência jurisprudencial, ofensa ao art. 535, § 3º, II do CPC. Sustenta que a intimação processual não equivale ao ato de protocolo exigido pela lei municipal e o CPC.
+O agravante defende que o objeto de discussão no REsp não é a lei em si, mas sim a forma como a decisão objurgada determinou a não aplicação da lei, em total descompasso com o ordenamento jurídico vigente.
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8 de janeiro de 2021
+A irresignação não merece acolhida. O Tribunal de origem consignou fls.59-64, e-STJ:
+Cinge-se a controvérsia recursal acerca da exigência, ou não, de protocolo administrativo da RPV para início da contagem do prazo de 60 (sessenta) dias para pagamento pela fazenda pública, nos autos eletrônicos.
+(..)
+Como bem asseverado pelo magistrado de origem, não se visualiza fundamento para se negar eficácia à intimação eletrônica como instrumento de notificação do ente municipal para pagamento de obrigação de pequeno valor, diante das previsões contidas nos arts. 183 e 270 do CPC e, mormente, sob o pretexto de que o procedimento instituído pela legislação municipal objetivaria assegurar a ordem cronológica dos pagamentos.
+Ademais, o reconhecimento da validade da intimação eletrônica do Município de Londrina para que cumpra os efeitos de protocolo das RPV, em cumprimento ao previsto no art. 2º da Lei nº 11.467/2011, não impede o controle da ordem cronológica de pagamento.
+Ressalta-se, ainda, que a requisição de pequeno valor constitui modalidade simplificada de procedimento para pagamento dos créditos da fazenda pública, sendo ilógica, e contrária ao princípio da economia processual, a imposição de formalidade injustificada, mediante protocolo físico da RPV, cujo único intuito é o de dar ciência à fazenda pública da obrigação de pagamento, tarefa cumprida suficientemente pela intimação eletrônica.
+O agravante impugna, ainda, o sequestro de valores, arguindo a inconstitucionalidade da norma constante do CPC que autoriza a constrição em decorrência da inobservância do prazo para pagamento de RPV, por ausência de previsão constitucional, objetivando a remessa do feito ao órgão especial, em observância ao art. 97 da CF e ao enunciado da Súmula Vinculante nº 10.
+Sem razão.
+O sequestro de valores de titularidade do ente público em decorrência do não pagamento de requisição de pequeno valor encontra respaldo no § 2º do art. 17 da Lei nº 10.259/2001, que regulamentou o § 3º do art. 100 da Constituição Federal.
+A norma constitucional pretendia exclusivamente fixar o regime de precatórios para o pagamento dos créditos da fazenda pública, englobando os precatórios requisitórios e as requisições de pequeno valor, não sendo exigível que trouxesse, ainda, disposições acerca do procedimento aplicável.
+Tal tarefa é desempenhada pelo legislador infraconstitucional, o que foi levado a efeito, inicialmente, com a edição da Lei nº 10.259/2001 (Lei dos Juizados Especiais Federais), que em seu art. 17, § 2º, trouxe previsão acerca da consequência de inobservância do prazo de pagamento previsto no texto constitucional, com o intuito de dar maior efetividade ao § 3º do art. 100 da CF.
+Assevere-se, inclusive, que a própria Constituição autoriza que cada ente federado edite normas específicas para o regramento quanto aos limites de valores para enquadramento como requisição de pequenos valores, além do procedimento aplicável.
+Em consequência, não se visualiza a defendida inconstitucionalidade dos dispositivos processuais que autorizam o sequestro de valores de titularidade da fazenda pública, para quitação da requisição de pequeno valor e, forte no art. 949, I, do CPC, revela-se desnecessária a remessa ao órgão especial.
+Destarte, voto pelo não provimento ao agravo de instrumento, mantendo-se incólume a decisão vergastada.
+De início, cumpre destacar que a análise de questões constitucionais - artigo 97 da CF; vulneração à cláusula de reserva de plenário, contrariedade à Súmula Vinculante 10 do STF; e transgressão ao artigo 103 da CF -, compete exclusivamente ao Supremo Tribunal Federal, sob pena de usurpação de sua competência, nos termos do art. 102, III, da Constituição Federal, sendo defeso o seu exame, no âmbito do Recurso Especial.
+Com relação à alegada violação da legislação estadual, registre-se quesua análise é obstada em Recurso Especial, por analogia, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário."
+O princípio da boa-fé objetiva veda a atuação contraditória da parte no desenvolvimento da relação processual (vedação de venire contra factum proprium). Em obiter dictum,verifica-se (fls. 635, e-STJ, do processo principal) que a Lei Municipal indicada não vincula o Poder Judiciário, mas somente os procedimentos administrativos "interna corporis" do Município com sua Procuradoria Geral.
+Sem motivos para modificar o juízo de admissibilidade que concluiu pela incidência da Súmula 280/STF para o trancamento do Recurso Especial.
+Por tudo isso, não conheço do Agravo em Recurso Especial. Condeno o Município ao pagamento de honorários advocatícios correspondentes a 15% (quinze por cento) sobre a verba sucumbencial fixada na origem.
+Publique-se.
+Intimem-se.
