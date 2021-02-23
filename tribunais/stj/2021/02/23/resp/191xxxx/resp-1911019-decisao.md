@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal de Justiça do Paraná assim ementado:
+APELAÇÃO CÍVEL E REMESSA NECESSÁRIA - AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO - INSS - UTILIZAÇÃO DE VALORES OBTIDOS EM RECLAMAÇÃO TRABALHISTA - SALÁRIO DE CONTRIBUIÇÃO - MAJORAÇÃO DA RENDA MENSAL - POSSIBILIDADE - TERMO INICIAL - DATA DA CONCESSÃO DO BENEFÍCIO RESPEITADA A PRESCRIÇÃO QUINQUENAL - HONORÁRIOS ADVOCATÍCIOS NOS TERMOS DO ARTIGO 85, §4º, INCISO II, DO CPC -CONSECTÁRIOS LEGAIS- INDEFINIÇÃO DO TEMA EM VIRTUDE DAS RECENTES DECISÕES PROFERIDAS PELOS TRIBUNAIS SUPERIORES - MATÉRIA PENDENTE DE ANÁLISE PELO SUPREMO TRIBUNAL FEDERAL NOS RE 870.947 - ÍNDICES QUE DEVERÃO SER DEFINIDOS EM FASE DE CUMPRIMENTO DE SENTENÇA -APELO NÃO PROVIDO - SENTENÇA ALTERADA PARCIALMENTE EM SEDE DE REMESSA NECESSÁRIA.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 489,1.022 e 240 do CPC/2015 e ao art. 219do CPC/1973. Argumenta, em suma:
+A requerente ajuizou ação trabalhista (autos tombados n.º 06739-2009.670-09-00-2) para reconhecimento de parcelas salariais. A demanda trabalhista tinha como partes litigantes a autora e sua empregadora Francovig Transportes Coletivos Ltda. e transitou em julgado em 24/06/2013 (cópia do extrato processual no ev. 1.2-ED2, fls. 4).
+Ato contínuo, ajuizou esta ação previdenciária em 21/04/2017 requerendo, pois, a inclusão das parcelas salariais reconhecidas na ação trabalhista n.º 06739-2009.670-09-00-2. Ou seja, a parte ajuizou esta demanda previdenciária quase 04 ANOS DEPOIS do trânsito em julgado da ação de labor .
+(..)
+Considerando-se que esta ação previdenciária somente foi ajuizada em 21/04/2017, vê-se que se passaram praticamente 04 anos do trânsito em julgado da reclamatória trabalhista (24/06/2013).
+Portanto, a interrupção efetuada pelo ajuizamento da demanda trabalhista perdeu seus efeitos após o transcurso do prazo de 02 anos e 06 meses do seu trânsito em julgado. (..)
+Aduz, em síntese, estarem presentes todos os requisitos de admissibilidade do recurso.
+Contrarrazões às fls. 420-426.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18/1/2021.
+Preliminarmente, a parte insurgente sustenta que os arts. 489 e 1.022, II, do CPC/2015 foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+Cito precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. CONTRADIÇÃO. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso, o embargante alega ocorrência de contradição na decisão embargada, sem, contudo, explicitar em que consistiria o alegado vício, tecendo argumentos genéricos e desconectados da alegada ofensa ao referido normativo. Incide à hipótese a Súmula 284/STF.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1.801.722/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 23/03/2020)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Para o acolhimento da negativa de prestação jurisdicional não é suficiente a mera rejeição dos declaratórios opostos, de forma que é imprescindível a demonstração individualizada do vício, bem como sua relevância ao resultado do julgado. Súmula n. 284/STF.
+(..)
+(AgInt no REsp 1.817.079/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 12/12/2019)
+No mérito, melhor sorte não assiste à parte insurgente.
+A Corte de origem consignou:
+Consta dos autos que o benefício de auxílio-doença por acidente de trabalho foi concedido em 08/12/2008, sendo convertido em aposentadoria por invalidez decorrente de acidente de trabalho em 24/11/2010 (mov. 16.3).
+Por sua vez, a Reclamatória Trabalhista nº 0673900- 08.2009.5.09.0670 foi ajuizada em 2009 (mov. 19.2), sendo que a sentença proferida na justiça especializada alterou o cálculo do salário de contribuição.
+Dessa forma, percebe-se que, enquanto não transitada em julgado a ação trabalhista, não havia como o autor exercer seu direito de revisar o cálculo de seu benefício.
+Ora, se o direito da parte surge com o trânsito em julgado da decisão trabalhista, é a partir deste momento que inicia-se a contagem do lapso prescricional, sob pena de se esvaziar o direito do beneficiário.
+Portanto, o ajuizamento da ação trabalhista interrompeu a prescrição.
+(..)
+Desta forma, não se trata de afastar a prescrição quinquenal, mas considerar o período interruptivo durante a tramitação da ação trabalhista, pelo que dou provimento ao apelo neste ponto.
+Com efeito, não houve decadência do direito potestativo de pedir a revisão de benefício previdenciário, previsto no art. 103 da Lei 8.213/1991, porquanto não ultrapassado o prazode dez anos.
+No caso, a concessão da aposentadoria se deu em 2010, sendo a ação revisional ajuizada em 2017.
+A propósito:
+PREVIDENCIÁRIO. CONTROVÉRSIA SUBMETIDA AO REGIME DOS ARTS. 1.036 E SEGUINTES DO CPC/2015. TEMA 975/STJ. REGIME GERAL DE PREVIDÊNCIA SOCIAL. BENEFÍCIO PREVIDENCIÁRIO. REVISÃO DO ATO DE CONCESSÃO. QUESTÕES NÃO DECIDIDAS. DECADÊNCIA ESTABELECIDA NO ART. 103 DA LEI 8.213/1991. CONSIDERAÇÕES SOBRE OS INSTITUTOS DA DECADÊNCIA E DA PRESCRIÇÃO. AFASTAMENTO DA APLICAÇÃO DO PRINCÍPIO DA ACTIO NATA. IDENTIFICAÇÃO DA CONTROVÉRSIA
+1. Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) em que se alega que incide a decadência mencionada no art. 103 da Lei 8.213/1991, mesmo quando a matéria específica controvertida não foi objeto de apreciação no ato administrativo de análise de concessão de benefício previdenciário.
+2. A tese representativa da controvérsia, admitida no presente feito e no REsp 1.644.191/RS, foi assim fixada (Tema 975/STJ): "questão atinente à incidência do prazo decadencial sobre o direito de revisão do ato de concessão de benefício previdenciário do regime geral (art. 103 da Lei 8.213/1991) nas hipóteses em que o ato administrativo da autarquia previdenciária não apreciou o mérito do objeto da revisão."
+FUNDAMENTOS DA RESOLUÇÃO DA CONTROVÉRSIA
+3. É primordial, para uma ampla discussão sobre a aplicabilidade do art. 103 da Lei 8.213/1991, partir da básica diferenciação entre prescrição e decadência.
+4. Embora a questão seja por vezes tormentosa na doutrina e na jurisprudência, há características inerentes aos institutos, das quais não se pode afastar, entre elas a base de incidência de cada um deles, fundamental para o estudo da decadência do direito de revisão dos benefícios previdenciários.
+5. A prescrição tem como alvo um direito violado, ou seja, para que ela incida deve haver controvérsia sobre o objeto de direito consubstanciada na resistência manifestada pelo sujeito passivo, sendo essa a essência do princípio da actio nata (o direito de ação nasce com a violação ao direito). Essa disciplina está disposta no art. 189 do CC: "art. 189. Violado o direito, nasce para o titular a pretensão, a qual se extingue, pela prescrição, nos prazos a que aludem os arts. 205 e 206." 6. Por subtender a violação do direito, o regime prescricional admite causas que impedem, suspendem ou interrompem o prazo prescricional, e, assim como já frisado, a ação só nasce ao titular do direito violado.
+7. Já a decadência incide sobre os direitos exercidos independentemente da manifestação de vontade do sujeito passivo do direito, os quais são conhecidos na doutrina como potestativos.
+Dessarte, para o exercício do direito potestativo e a consequente incidência da decadência, desnecessário haver afronta a esse direito ou expressa manifestação do sujeito passivo para configurar resistência, pois o titular pode exercer o direito independentemente da manifestação de vontade de terceiros.
+8. Não há falar, portanto, em impedimento, suspensão ou interrupção de prazos decadenciais, salvo por expressa determinação legal (art. 207 do CC).
+9. Por tal motivo, merece revisão a corrente que busca aplicar as bases jurídicas da prescrição (como o princípio da actio nata) sobre a decadência, quando se afirma, por exemplo, que é necessário que tenha ocorrido a afronta ao direito (explícito negativa da autarquia previdenciária) para ter início o prazo decadencial.
+10. Como direito potestativo que é, o direito de pedir a revisão de benefício previdenciário prescinde de violação específica do fundo de direito (manifestação expressa da autarquia sobre determinado ponto), tanto assim que a revisão ampla do ato de concessão pode se dar haja ou não ostensiva análise do INSS. Caso contrário, dever-se-ia impor a extinção do processo sem resolução do mérito por falta de prévio requerimento administrativo do ponto não apreciado pelo INSS.
+11. Isso é reforçado pelo art. 103 da Lei 8.213/1991, que estabelece de forma específica o termo inicial para o exercício do direito potestativo de revisão quando o benefício é concedido ("a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação") ou indeferido ("do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo").
+12. Fosse a intenção do legislador exigir expressa negativa do direito vindicado, teria ele adotado o regime prescricional para fulminar o direito malferido. Nesse caso, o prazo iniciar-se-ia com a clara violação do direito e aplicar-se-ia o princípio da actio nata.
+13. Não é essa compreensão que deve prevalecer, já que, como frisado, o direito que se sujeita a prazo decadencial independe de violação para ter início.
+14. Tais apontamentos corroboram a tese de que a aplicação do prazo decadencial independe de formal resistência da autarquia e representa o livre exercício do direito de revisão do benefício pelo segurado, já que ele não se subordina à manifestação de vontade do INSS.
+15. Considerando-se, por fim, a elasticidade do lapso temporal para os segurados revisarem os benefícios previdenciários, a natureza decadencial do prazo (não aplicação do princípio da actio nata) e o princípio jurídico básico de que ninguém pode alegar desconhecimento da lei (art. 3º da LINDB), conclui-se que o prazo decadencial deve ser aplicado mesmo às questões não tratadas no ato de administrativo de análise do benefício previdenciário.
+FIXAÇÃO DA TESE SUBMETIDA AO RITO DOS ARTS. 1.036 E SEGUINTES DO CPC/2015
+16. Para fins dos arts. 1.036 e seguintes do CPC/2015, a controvérsia fica assim resolvida (Tema 975/STJ): "Aplica-se o prazo decadencial de dez anos estabelecido no art. 103, caput, da Lei 8.213/1991 às hipóteses em que a questão controvertida não foi apreciada no ato administrativo de análise de concessão de benefício previdenciário."
+(..)
+CONCLUSÃO
+18. Recurso Especial provido. Acórdão submetido ao regime dos arts.1.036 e seguintes do CPC/2015.
+(REsp 1.648.336/RS, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 11/12/2019, DJe 04/08/2020)
+Por fim, o STJ entende que o termo inicial dos efeitos financeiros da revisão deve retroagir à data da concessão do benefício, uma vez que o deferimento da ação revisional representa o reconhecimento tardio de direito já incorporado ao patrimônio jurídico do segurado, não obstante a comprovação posterior do salário de contribuição.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VIOLAÇÃO DO ART. 535 DO CPC/1973. INEXISTÊNCIA. PARCELAS REMUNERATÓRIAS RECONHECIDAS PERANTE A JUSTIÇA DO TRABALHO. REVISÃO DE BENEFÍCIO. RENDA MENSAL INICIAL. SALÁRIOS DE CONTRIBUIÇÃO. COMPROVAÇÃO POSTERIOR PELO EMPREGADO. EFEITOS FINANCEIROS DA REVISÃO. DATA DA CONCESSÃO DO BENEFÍCIO.
+(..)
+2. O termo inicial dos efeitos financeiros da revisão deve retroagir à data da concessão do benefício, uma vez que o deferimento da ação revisional representa o reconhecimento tardio de direito já incorporado ao patrimônio jurídico do segurado, não obstante a comprovação posterior do salário de contribuição. Precedentes.
+3. Recurso especial a que se nega provimento.
+(REsp 1.539.705/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/04/2018, DJe 17/04/2018)
+PROCESSO CIVIL. PREVIDENCIÁRIO. BENEFÍCIOS EM ESPÉCIE. APOSENTADORIA. CONVERSÃO. ENTENDIMENTO FIRMADO POR JURISPRUDÊNCIA DO STJ. TERMO INICIAL. TEMPO ESPECIAL. MELHOR BENEFÍCIO.
+I - Trata-se, na origem, de ação ordinária objetivando transformar aposentadoria por tempo de contribuição em aposentadoria especial, pleiteando, também, a revisão do benefício de aposentadoria por tempo de contribuição sem incidência do fator previdenciário, declarando incidentalmente a inconstitucionalidade dos arts. 2º e 3º da Lei n. 9.876/99 ou sua aplicação proporcional apenas ao período de tempo de serviço comum. Na sentença, julgou-se parcialmente procedente o pedido para condenar a autarquia previdenciária a transformar o benefício de aposentadoria por tempo de contribuição em aposentadoria especial, recalculando a renda mensal inicial nos termos da legislação vigente na época de sua concessão. No Tribunal a quo, a sentença foi mantida. Nesta Corte, foi dado provimento ao recurso especial para fixar o termo inicial dos efeitos financeiros da revisão do benefício à data do primeiro requerimento administrativo, respeitando-se a prescrição quinquenal.
+II - A presente controvérsia refere-se à fixação do termo inicial dos efeitos financeiros de revisão de benefício previdenciário de aposentadoria por tempo de contribuição para aposentadoria especial, dada a inclusão de tempo especial. Quanto ao tema, o Superior Tribunal de Justiça firmou entendimento segundo o qual o termo inicial dos efeitos financeiros decorrentes de situação jurídica consolidada em momento anterior deve retroagir à data da concessão do benefício, porquanto o deferimento de tais verbas representa o reconhecimento tardio de um direito já incorporado ao patrimônio jurídico do segurado. Nesse sentido são os seguintes julgados, in verbis: REsp 1.502.017/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 4/10/2016, DJe 18/10/2016; REsp 1.555.710/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 24/5/2016, DJe 2/9/2016.
+III - No presente caso, o mesmo raciocínio merece ser aplicado, porquanto, na data do requerimento administrativo de concessão do benefício, o segurado já havia incorporado ao seu patrimônio o direito ao reconhecimento e inclusão do tempo especial, fazendo jus ao melhor benefício, ainda que tal tempo de trabalho somente tenha sido reconhecido após demanda judicial.
+IV - Agravo interno improvido.
+(AgInt no REsp 1.751.741/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/11/2019, DJe 18/11/2019)
+Diante do exposto, conheço parcialmente do Recurso Especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
