@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE DEMISSÃO DE COOPERADO C/CCOBRANÇA DE CAPITAL SOCIAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA.PEDIDO DE DEMISSÃO FORMULADO POR COOPERADO QUE ATENDEU AS REGRAS DOESTATUTO SOCIAL. DEVIDA A DEVOLUÇÃO DO CAPITAL SOCIAL. PREVISÃO DO ARTIGO11 DO ESTATUTO SOCIAL. JUROS DE MORA QUE DEVEM INCIDIR A PARTIR DA CITAÇÃO,NO IMPORTE DE 1% AO MÊS. SENTENÇA MANTIDA. APELO CONHECIDO E NÃO-PROVIDO.
+Alegou-se, no especial, violação dos artigos11, 36, 44, 80 e 86 da Lei5.764/71 e 368, 369 e 1095 do Código Civil, sob o argumento de que o agravado, ao requerer o seu pedido de demissão dos quadros de cooperado da agravante, não obedeceu aos ditames de seuestatuto, a par de estar em débito com a cooperativa recorrente.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local, todavia, concluiu "que o requerimento autoral cumpriu com o que determina o estatuto social da COROL Cooperativa Agroindustrial, não havendo que se falar em inobservância ao artigo 8º.
+Nesse cenário, tendo em vista a regularidade do procedimento adotado pelo Autor, nos termos do artigo 11 da Estatuto Social, possui o cooperado "o direito à restituição do capital, acrescido dos respectivos juros e das sobras que lhe tiverem sido creditadas, bem comoà correção monetária agregada àconta capital".
+Destaca-se que o fato de haver um débito no valor de R$ 5.429,05 (cinco mil, quatrocentos e vinte e nove reais e cinco centavos) não é motivo para se obstar o desligamento do Autor, diante da ausência de previsão neste sentido.
+Igualmente, não restou demonstrado que a restituição do capital social ameaçaria a estabilidade econômico-financeirada  da  Cooperativa, nos termos do artigo 11, parágrafo terceiros, do Estatuto Social, situação que reforça a possibilidade de demissão do cooperado" (e-STJ, fl. 399).
+A questão, como se observa, foi decidida à luz dos elementos informativos do processo, notadamente o estatuto social da cooperativa agravante, concluindo que houve o preenchimento dos requisitos necessários ao pedido de demissão do cooperado, ausente qualquer causa que impeça o seu desligamento.
+Inequívoco, pois, que o reexame da causa esbarra nas disposições dos verbetes n. 5 e 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
