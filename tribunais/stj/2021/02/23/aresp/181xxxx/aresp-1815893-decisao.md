@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo com fundamento no art. 1.042 do CPC/2015interposto contra decisão "que não conheceu dos Recursos Especial e Extraordinários interpostos" (e-STJ fl. 290), sob o fundamento de que a recorrente apresentou os recursos em peça única, em desacordo com o que determina o art. 1.029 do CPC/2015 (e-STJ fls. 282/283).
+O acórdão recorrido está assim ementado (e-STJ fl. 228):
+APELAÇÃO CÍVEL. DIREITO CIVIL. LOCAÇÃO NÃO RESIDENCIAL. DESPEJO POR FALTA DE PAGAMENTO C/C COBRANÇA. NOS TERMOS DO ART. 23, INCISO I, DA LEI Nº 8.245/91, O LOCATÁRIO DEVE PAGAR PONTUALMENTE OS ALUGUÉIS E ENCARGOS DA LOCAÇÃO, LEGAL OU CONTRATUALMENTE EXIGÍVEIS, NO PRAZO ESTIPULADO, SOB PENA DE DESFAZIMENTO DA LOCAÇÃO, CONSOANTE ART. 9 2 , INCISOS II E III DA CITADA LEI, EIS QUE TAL PAGAMENTO É A OBRIGAÇÃO PRINCIPAL DO INQUILINO NO TRANSCURSO DO CONTRATO DE LOCAÇÃO. INADIMPLEMENTO. DECRETAÇÃO DE REVELIA DAS PARTES. SENTENÇA DE PROCEDÊNCIA. A ADMINISTRADORA SE OBRIGOU AO PAGAMENTO DOS ALUGUEIS, CASO HOUVESSE O INADIMPLEMENTO DO LOCATÁRIO. DE ACORDO COM O DOCUMENTO DE FLS. 38/39, HOUVE A DESTITUIÇÃO DOS PATRONOS APENAS PARA O PATROCÍNIO DA PRESENTE CAUSA, NÃO SENDO A MESMA APTA A AFASTAR AS OBRIGAÇÕES CONSTANTES DO CONTRATO DE PRESTAÇÃO DE SERVIÇOS FIRMADO ENTRE AS PARTES. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 249/255).
+Nas petições de fls. 257/265e 269/277, em que apresentouas razões de interposição dos recursos especial e extraordinário,com fundamento nos arts. 105, III, "a",e 102, III, "a", da CF, a recorrente alegou que o acórdão recorrido (e-STJ fl. 263):
+(..) não aplicou nem respeitou as normas insculpidas no direito, especialmente em não observância aos artigos 682 do Código Civil, eis que, apesar da inexistência de contrato de garantia de aluguel (fls. 13/13v), mesmo considerando-se a existência deste documento, o que sequer ocorre, o v. acórdão em questão não considerou revogado o mandato na data em que a própria recorrida requereu, expressamente, que o mesmo deveria cessar, passando a mesma a administrar diretamente seu imóvel!
+Art. 682: Cessa o mandato: Pela revogação ou pela renúncia
+E, evidentemente, a Recorrente não poderá ser considerada responsável pelo pagamento de aluguéis garantidos vencidos após a data da revogação de poderes, conforme pretende, injustamente, a Recorrida! Em consequência, restou violado o artigo 5º LVda Constituição Federal, o qual garante o direito ao devido julgamento justo com os meios e recursos inerentes à ampla defesa, haja vista que a decisão recorrida se baseia em documento de alegado contrato que sequer existe posto que não fora firmado pela Recorrente, e, ademais, mesmo que seja este documento considerado válido, apenas para argumentar já que não ocorre, a condenação deixou de restringir-se aos aluguéis vencidos até a data da rescisão e da revogação de poderes, não resguardando direito de ampla defesa da Recorrente neste em particular, com os meios e recursos a ela inerentes na forma da lei.
+No agravo (e-STJ fls. 290/299 e 314/323), afirmaque (e-STJ fl. 292):
+Entretanto, a r. Decisão em questão, data vênia, não se encontra acertada, na medida em que a Agravante interpôs ambos os recursos em peças distintas (fls. 256/267 e 268/279), e mediante protocolos próprios, em atencão ao artigo 1029 do CPC, conforme se verifica pelos documentos anexo:
+Protocolo: 201900228024  Recurso Especial
+Protocolo 201900228045  Recurso Extraordinário
+Quanto aos argumentos expostos em ambas as peças, evidentemente que os mesmos se misturam e deverão constar em ambas as petições para demonstrar as irregularidades cometidas no julgamento da presente ação, especialmente as infrações aos dispositivos de lei federal.
+Requer o conhecimento e o provimento de ambos os recursos e a concessão de efeito suspensivo.
+A agravada não apresentou contraminuta (e-STJ fl. 336).
+É o relatório.
+Decido.
+A agravante, nas razões do agravo interposto com fundamento no art. 1.042 do CPC/2015, apresenta as razões pelas quais entende que os recursos especial e extraordináriodeveriam ser admitidos.
+Apesar de protocolizartrêspetições (e-STJ fls. 290/299, 302/311 e 314/323), todassão idênticas, ou seja, trata-se, em verdade, de uma única petição apresentada em váriasvias, naqualimpugna a decisão que inadmitiu tanto seu recurso especial quanto o extraordinário.
+A jurisprudência do STJ é firme no sentido de que o agravante deve interpor um agravo para cada recurso não admitido, sob pena de não conhecimento. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSOS ESPECIAL E EXTRAORDINÁRIO INADMITIDOS NA ORIGEM. RAZÕES DO AGRAVO EM RECURSO ESPECIAL E DO AGRAVO EM RECURSO EXTRAORDINÁRIO CUMULADAS EM PEÇA ÚNICA. DESCABIMENTO. DECISÃO MANTIDA.
+1. Nos termos do art. 1.042, § 6º, do CPC/2015, "o agravante deverá interpor um agravo para cada recurso não admitido". Na hipótese em exame, o agravante cumulou em uma única peça as razões do agravo em recurso especial e do agravo em recurso extraordinário, o que impede o conhecimento da irresignação. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1136569/PR, de minha relatoria, QUARTA TURMA, julgado em 19/08/2019, DJe 22/08/2019.)
+Se não bastasse, o argumentoapresentadono agravo-para viabilizar o conhecimento deseus recursos especial e extraordinário -é o de que foram protocolizadas duas petições com números distintos, de formaque teria atendido ao comando do art. 1.029 do CPC/2015.
+O motivo de não conhecimento do recurso extraordinário não pode ser apreciado por esta Corte.
+Quanto ao especial, verifica-se que a recorrenteapresentou ao protocolo judicial a mesma petição, por duas vezes, a fim de que fossem geradosnúmeros de protocolos diferentes, mas na qual cumulava asrazões que justificariam a interposição de ambos os recursos (especial e extraordinário).
+Na petiçãode interposição dos recursos (e-STJ fl. 257), lê-se:
+(..) vem, tempestivamente, nos termos da lei, interpor os presentes RECURSOS ESPECIAL E EXTRAORDINÁRIOS, com fundamento no art. 105, III, "a" e 102, III "a" da Constituição Federal, pelas razões de fato e de direito que a seguir passa a expor: (..)
+Ao final, quando dos requerimentos, pretende a recorrente (e-STJ fl. 264):
+(..) a admissão, conhecimento e provimento dos presentes Recursos Especial e Extraordinário ora interpostos, para o fim de reformar / anular a r. Decisão recorrida em vista das irregularidades nele contidas: (..)
+Do mesmo modo, a jurisprudência desta Corte superior não admite a interposição de recurso especial da forma comofoi feita. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS.INTERPOSIÇÃO, EM ÚNICA PETIÇÃO, DE RECURSO ESPECIAL E EXTRAORDINÁRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A interposição, em única petição, das razões do recurso especial e extraordinário viola o disposto no art. 1.029, § 6º, do CPC/2015, segundo o qual "O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas".
+2. Trata-se, portanto, de irregularidade formal, haja vista o não preenchimento dos requisitos de admissibilidade do recurso.
+3. Agravo regimental não provido.
+(AgRg no AREsp 1521587/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/02/2020, DJe 14/02/2020.)
+Além do mais,no mérito, o recurso especial também não merece conhecimentopor óbice da Súmula n. 7/STJ.
+A Corte local decidiu a questão com base nos elementos fáticos dos autos, tendo concluído que,ainda que o contrato não estivesse assinado, ele foi juntado pela administradora quando atuava nos interesses da locadora, no momento do ajuizamento da ação, não o tendo impugnado. Ademais, de acordo com uma de suas cláusulas, a administradora teria se obrigado ao pagamento dos aluguéis, caso houvesse o inadimplemento do locatário. Além disso, segundo o TJRJ, houve a destituição dos patronos apenas para o patrocínio da presente causa, o que não afastaria as obrigações constantes do contrato de prestação de serviços firmado entre as partes.
+Para decidir de modo contrário, seria necessário o revolvimento de fatos e provas, o que não pode ser admitido no âmbito do especial.
+Diante do exposto, NEGO PROVIMENTO ao agravo de fls. 290/299 (e-STJ) e NÃO CONHEÇO do agravo de fls. 314/323, por ofensa ao princípio da unirrecorribilidade. Prejudicado o pedido de efeito suspensivo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
