@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARIA GILVANIA XAVIER SILVAcontra decisão de minha lavra, proferida às e-STJ fls. 940/944, em que dei provimentoao recurso especial a fim de reconhecer a ocorrência do transcurso do prazo prescricional para a propositura desta execução.
+Sustenta a parte embargante que é o caso de acolhimento dos embargoscom efeitos infringentes, porquanto há omissão nadecisão prolatada referente à incidência da Súmula 7 do STJ no caso.
+Sem impugnação.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+In casu, não ocorreu nenhum dos vícios supracitados.
+Tal como constou na decisão embargada, este Tribunalentende que a obrigação de fazer não interrompe o prazo prescricional para a obrigação de pagar. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. OBRIGAÇÃO DE FAZER E DE PAGAR. PRETENSÕES AUTÔNOMAS. INDEPENDÊNCIA DOS PRAZOS PRESCRICIONAIS. PRECEDENTE DA CORTE ESPECIAL DO STJ.
+1. O acórdão regional está em sintonia com a atual jurisprudência da Corte Especial deste Superior Tribunal que, no julgamento do REsp 1340444/RS, pacificou o entendimento segundo o qual o prazo prescricional para a pretensão executória é único e o ajuizamento de execução da obrigação de fazer não interrompe o prazo para a propositura da execução que visa ao cumprimento da obrigação de pagar.
+2. No caso dos autos, a sentença proferida na ação de conhecimento transitou em julgado em 24/4/2001, enquanto a execução referente à obrigação de pagar foi proposta em 28/1/2011, quando já transcorridos mais de cinco anos do trânsito em julgado da decisão exequenda, o que torna impositivo o reconhecimento da prescrição da pretensão executória.
+3. Agravo interno não provido.
+(AgInt no REsp 1.601.586/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/05/2020, DJe 21/05/2020).
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. SENTENÇA GENÉRICA. OBRIGAÇÃO DE FAZER E DE PAGAR QUANTIA CERTA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. PRETENSÕES AUTÔNOMAS. INDEPENDÊNCIA DOS PRAZOS PRESCRICIONAIS.
+1. A Corte Especial do STJ, no julgamento do REsp 1.344.440/RS, firmou compreensão no sentido de que o prazo prescricional para a pretensão executória é único e o ajuizamento de execução da obrigação de fazer não interrompe o prazo para a propositura da execução que visa ao cumprimento da obrigação de pagar.
+2. Na hipótese dos autos, verifica-se que a execução foi proposta depois do transcurso do prazo quinquenal contado a partir do trânsito em julgado da ação de conhecimento, motivo pelo qual é forçoso o reconhecimento da prescrição. Nesse sentido os seguintes acórdãos e decisões monocráticas: AgInt nos EDcl no REsp 1.623.390/PB, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 23.3.2020; AgRg no REsp 1.338.705/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11.12.2019; AgInt no REsp 1.633.824/PB, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 23.8.2019; REsp 1.872.267/RN, Rel. Ministro Og Fernandes (decisão monocrática), Segunda Turma, DJe 5.8.2020; REsp 1.857.763/RN, Rel. Ministra Assusete Magalhães (decisão monocrática), Segunda Turma, DJe 26.5.2020; e REsp 1.869.730/RN, Rel. Ministro Sérgio Kukina (decisão monocrática), Primeira Turma, DJe 24.4.2020.
+3. Agravo Interno não provido.
+(AgInt no REsp 1.856.441/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2020, DJe 01/10/2020).
+Esclarecido esse ponto, nota-se quea Corte local, em relação à questão, assim se pronunciou (e-STJ fl. 290):
+A decisão que reputou cumprida a obrigação de fazer foi exarada em 13/06/2011 (ID 4058000.1091395) e que em análise dos contracheques dos exequentes, a perícia judicial atestou que a vantagem relativa aos 28,86% só veio a ser incorporada aos vencimentos dos servidores no exercício de maio de 2011 (ID 4058000.1091392). Considerando que a ação executiva foi ajuizada em 10/06/2016, deduz-se pela inocorrência da prescrição do direito, uma vez que o prazo inicial da contagem do prazo prescricional é a data do cumprimento da obrigação de fazer (..).
+Dessa maneira, não obstante a parte embargante sustentar haver omissão em virtude da não aplicação da Súmula7 do STJ ao caso - o que ensejaria o não conhecimento do recurso especial -, esclareço que os fatos e datas necessários para a análise da controvérsia foram bem delineados pelo Tribunal de origem, circunstância que viabiliza a análise da insurgência por esta Corte Superior.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
