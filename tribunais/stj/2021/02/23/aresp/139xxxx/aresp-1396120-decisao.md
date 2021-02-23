@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial fun damentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão proferido pelo TJSC assim ementado (e-STJ fl. 75):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COM AMPARO NA AÇÃO CIVIL PÚBLICA N. 583.00.1993.808239-4 (IDEC VS. BANCO BAMERINDUS S.A.). EXPURGOS INFLACIONÁRIOS EM CADERNETA DE POUPANÇA. PLANO VERÃO. IRRESIGNAÇÃO DO BANCO EM FACE DA INTERLOCUTÓRIA QUE REPUTOU DESNECESSÁRIA A PRÉVIA FASE DE LIQUIDAÇÃO DE SENTENÇA. DIREITO INTERTEMPORAL. DECISÃO PUBLICADA EM CARTÓRIO EM 14-12-15. APLICAÇÃO DOS ENUNCIADOS ADMINISTRATIVOS N. 2, 3 E 7 DO STJ. INCIDÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 1973. AVENTADA NULIDADE DO PROCEDIMENTO EXECUTIVO ADOTADO, AO ARGUMENTO DE SER INDISPENSÁVEL A INSTAURAÇÃO DE ADREDE LIQUIDAÇÃO. ACOLHIMENTO. POSIÇÃO FIRMADA PELA CORTE DA CIDADANIA NO JULGAMENTO DE RECURSO QUE TRATA DE QUESTÕES REPETITIVAS - RESP. N. 1.247.150/PR, SOB A RELATORIA DO MIN. LUIS FELIPE SALOMÃO. CASO CONCRETO. REQUERENTE QUE INSTAURA FASE DE CUMPRIMENTO DE SENTENÇA SEM PRÉVIA LIQUIDAÇÃO. INARREDÁVEL ANULAÇÃO DA FASE EXECUTIVA. IMPERATIVA OPORTUNIZAÇÃO AO REQUERENTE PARA READEQUAR O PROCEDIMENTO EM ATENÇÃO AO PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS E ÀS NORMAS FUNDAMENTAIS DE PROCESSO CIVIL, SOBRETUDO AQUELAS ENCARTADAS NOS ARTS. 4º, 6º E 8º, TODOS DO CPC/2015. HONORÁRIOS SUCUMBENCIAIS RECURSAIS. INTELIGÊNCIA DO ART. 85, §§ 1º E 11, DO CÓDIGO FUX. IMPOSSIBILIDADE DE FIXAÇÃO DE OFÍCIO. DECISÃO PUBLICADA EM DATA PRETÉRITA À VIGÊNCIA DO NOVEL CÓDIGO DE PROCESSO CIVIL. ESTRITA OBSERVÂNCIA AO ENUNCIADO ADMINISTRATIVO N. 7 DA "CORTE DA CIDADANIA". REBELDIA PROVIDA.
+Os embargos de declaração opostos pelo recorrente foram parcialmente acolhidos, "para reconhecer a omissão no aresto vergastado, atribuindo-lhes efeitos infringentes tão somente para determinar ao Juízo a quo a liberação dos valores disponibilizados à fl. 126 (Anexo 1) a título de garantia do Juízo" (e-STJ fl. 115).
+Em suas razões (e-STJ fls. 118/137), o recorrente alega, além de dissídio jurisprudencial, violação dos arts. 1.093 e 1.265 do CC/1916, 397 do CC/2002, 459, 460, 535, I e II, 543-B e 586 do CPC/1973, 16 da Lei n. 7.347/1985, 6º da Lei n. 9.447/1997 e 2º-A da Lei n. 9.494/1997. A insurgência versa sobre: (i) liquidação individual da sentença coletiva e (ii) necessidade de extinção do processo por ausência de prévia liquidação.
+Foram apresentadas contrarrazões (e-STJ fls. 144//178).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Não há interesse quanto à necessidade de prévia liquidação do julgado, pois o desfecho conferido ao caso coincide com a pretensão veiculada no recurso especial, ou seja, houve determinação para que a sentença coletiva seja liquidada.
+Nota-se, por outro lado, que o acórdão julgou em conformidade com jurisprudência desta Corte ao permitir a regularização do pedido de cumprimento de sentença no presente caso. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. REGULARIZAÇÃO DO PROCEDIMENTO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Há necessidade de prévia liquidação de sentença proferida na ação coletiva para apuração do an debeatur e do quantum debeatur, sob pena, inclusive, de indeferimento liminar do pedido de execução do título executivo judicial. Entendimento firmado no REsp n. 1.247.150/PR (art. 534-C do CPC/1973). É possível que instâncias ordinárias regularizem o vício formal, notadamente quando ausente qualquer prejuízo para a instituição financeira devedora.
+2. Agravo interno desprovido.
+(AgInt no AREsp 991.977/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2016, DJe 03/02/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. EMENDA À INICIAL. DETERMINAÇÃO DE CONVERSÃO DE CUMPRIMENTO DE SENTENÇA EM LIQUIDAÇÃO. IRRECORRIBILIDADE. INEXISTÊNCIA DE EFETIVO PREJUÍZO.
+NECESSIDADE DE PRÉVIA LIQUIDAÇÃO DA SENTENÇA. PRECEDENTES. RECURSO NÃO PROVIDO.
+1. Somente em situações excepcionais, é possível a impugnação do despacho de emenda à petição inicial, devendo, em casos tais, analisar se a determinação do magistrado subverte ou não a legislação processual em vigor, de maneira a causar evidente gravame à parte.
+2. Não existe efetivo prejuízo ao poupador, no presente caso, tendo em vista que, se o magistrado verificou a iliquidez do título exequendo (sentença proferida em ação coletiva), o despacho de emenda à inicial satisfaz aos interesses do próprio recorrente, uma vez que garantirá a continuidade da fase executiva. Caso contrário, o gravame existiria se o juízo de piso não concedesse a oportunidade de sanar a irregularidade da exordial, indeferindo, de plano, a petição.
+3. De acordo com o entendimento desta Corte, é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido. Precedentes.
+4. Agravo interno não provido.
+(AgInt no REsp 1486179/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/10/2016, DJe 07/10/2016.)
+Incide o óbice da Súmula n. 83/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+EMENTA
