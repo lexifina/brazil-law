@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por PADARIA E CONFEITARIA PONVALLI LTDA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO CÍVEL. DIREITO PÚBLICO CAUTELAR NÃO DE ESPECIFICADO. INTERDIÇÃO ESTABELECIMENTO SOB VIGILÂNCIA SANITÁRIA.NECESSIDADE DE ADEQUAÇÃO INDUSTRIAL DO ESTABELECIMENTO À LEGISLAÇÃO SANITÁRIA. AUSÊNCIA DE VICIO FORMAL NA AUTUAÇÃO E INTERDIÇÃO.REGULARIDADE DO ATO ADMINISTRATIVO.
+1. As obrigações de ordem sanitária vigentes no território estadual, visando à defesa e à proteção da saúde individuai ou coletivaestãoprevistas no Decreto Estadual nº 23.430/74; que prevêm a possibilidade de interdição estabelecimento industrial, quando houver risco à saúde pública em decorrência de condições insalubres de produção.
+2. As infrações sanitárias descritas na autuação são passíveis de pena de interdição e/ou multa, entre outras, de acordo com o art. 10, IV, da Lei 6437/77.
+3, A prova dos autos não deixa dúvida sobre a vistoria da empresa em três oportunidades, bem como a reiteração das infrações sanitárias constatadas, que culminaram com a interdição cautelar da indústria de alimentos (padaria e confeitaria), de modo a preservar a saúde pública, em especial, a integridade dos consumidores.
+4. Não há afronta à Lei Complementar 123/06 (Estatuto Nacional das Microempresa e as Empresa de Pequeno Porte) que prevê a dupla visita ao fiscalizado antes da autuação.
+5. Improcedência das ações cautelar anulatória, com inversão da sucumbência imposta pela sentença.
+APELAÇÃO PROVIDA. UNÂNIME" (fl. 309e).
+Do exame dos autos, verifica-se que os fundamentos da decisão agravada, para inadmitir o Recurso Especial, são os seguintes: a) impossibilidade de análise de matéria constitucional; b) a reversão do entendimento adotado pelo Tribunal de origem demandaria oo reexame do contexto fático-probatório, o que esbarra no óbice da Súmula 7/STJ; c) inexistência de negativa de prestação jurisdicional ou ausência de fundamentação da decisão.
+Orecorrente, no entanto, nas razões doAgravo, não cuidoude impugnar especificadamente a decisão quanto ao fundamento de que "aalegação de ofensa aos artigos 37, caput, 170, inciso IX, da Constituição da República foi deduzida em sede imprópria, porquanto se cuida de matéria que deveria ser veiculada em recurso extraordinário dirigido ao Supremo Tribunal Federal, a quem Constituição da República" (fl. 398e).
+Registre-se que a parte, ao recorrer, deve buscar demonstrar o desacerto do decisum contra o qual se insurge, refutando todos os óbices por ele levantados, sob pena de vê-lo mantido.
+Tal entendimento, inclusive, está consolidado na Súmula 182/STJ, segundo a qual o recorrente deve infirmar, especificamente, os fundamentos da decisão impugnada, mostrando-se inadmissível o Agravo que não se insurge contra todos eles.
+Nesse sentido:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS NA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA. MULTA PROCESSUAL. ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE.
+1. A teor da Súmula 182/STJ, inviável se faz a apreciação do agravo interno que deixa de empreender combate específico a todos os fundamentos da decisão agravada.
+2. Segundo entendimento consolidado na Primeira Turma desta Corte, admite-se o agravo interno parcial somente quando a parte recorrente informa que sua irresignação vai direcionada apenas contra específica parcela da decisão agravada, abrindo mão, expressamente, de impugnar o restante do julgado. Precedentes: AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 18/9/2018, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 4/9/2018, REPDJe 4/10/2018, DJe 25/9/2018.
+3. (..)
+4. Agravo interno não conhecido" (STJ, AgInt no AREsp 1.580.189/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 20/02/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ.
+2. (..)
+3. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 1.566.122/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 20/02/2020).
+Em face do exposto, com fundamento no art. 932, III, do CPC/2015 e art. 253, parágrafo único, I, do RISTJ, não conheço do Agravo.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
