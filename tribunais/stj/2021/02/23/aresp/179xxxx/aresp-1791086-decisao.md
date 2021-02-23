@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LUCAS DOS SANTOS KNEBEL, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/03/2020.
+Concluso ao gabinete em: 25/01/2021.
+Ação: revisão contratual cumulada com restituição de valores, ajuizada por LUCAS DOS SANTOS KNEBEL, em face de AYMORÉ CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A.
+Sentença: julgou improcedentes os pedidos para manter as estipulações pactuadas no contrato analisado e condenou o agravante a arcar com as custas e com os honorários, que foram fixados em R$ 1.000,00, suspensa a exigibilidade em virtude da concessão da gratuidade de justiça.
+Acórdão: negou provimento à Apelação interposta pelo agravante, nos termos da seguinte ementa:
+"Apelação Cível. Alienação Fiduciária. Processo de conhecimento. Pedido revisional.
+CÓDIGO DE DEFESA DO CONSUMIDOR E PEDIDO REVISIONAL. O Código de Defesa do Consumidor é aplicável às instituições financeiras, nos termos da Súmula nº 297 do STJ e art. 32, § 2º do CDC. É possível o pedido de revisão das cláusulas contratuais, com fundamento no art. 6º, V e art. 51, IV, ambos do CDC. A aplicação do CDC e a possibilidade do pedido revisional não asseguram a procedência dos pedidos formulados pelo consumidor.
+JUROS REMUNERATÓRIOS. Tese Paradigma. Recurso Especial nº 1.061.530/RS. É admitida a revisão da taxa de juros remuneratórios quando a abusividade fique cabalmente demonstrada. Caso concreto. Percentual que não discrepa substancialmente da taxa média de mercado do período. Inexistência de abusividade.
+CAPITALIZAÇÃO DOS JUROS. Constitucionalidade do art. 52 da Medida Provisória nº 2.170. Recurso Extraordinário nº 592.377. Repercussão Geral. Tema 33. As entidades integrantes do Sistema Financeiro Nacional estão sujeitas ao art. 52 da Medida Provisória nº 2.170, que autoriza a capitalização dos juros em periodicidade inferior a anual. Prevalência da Lei Especial em detrimento do art. 591 do Código Civil. Art. 28, parágrafo 1º, inciso I, da Lei nº 10.931/04. Súmula 539 do STJ. Forma de contratação. Tese Paradigma. Recurso Especial nº 973.827/RS. A capitalização pode ser demonstrada pela redação das cláusulas convencionadas ou quando a taxa anual dos juros é superior ao duodécuplo da taxa mensal. Súmula nº 541 do STJ. Caso concreto. Capitalização contratada. Mantida a forma de composição das parcelas na forma contratada.
+DESCARACTERIZAÇÃO DA MORA. Tese Paradigma. Recurso Especial nº 1.061.530/RS e nº 1.639.320/SP. Somente a constatação de encargos abusivos durante o período da normalidade afasta a caracterização da mora. Caso concreto. Encargos da normalidade mantidos conforme contratados. Inexistência de motivo que justifique o afastamento da mora.
+TARIFA DE CADASTRO. Tese Paradigma. Recurso Especial nº 1.251.331/RS e nº 1.255.573/RS. Súmulas 565 e 566 do STJ. O inciso I do art. 3º da Resolução 3.919/10 do CMN permite a cobrança da Tarifa de Cadastro (TC), que pode incidir uma única vez no início do relacionamento entre o consumidor e a instituição financeira. Caso concreto. Mantida a validade da cobrança.
+COMPENSAÇÃO E/OU DEVOLUÇÃO DE VALORES. Caso concreto. A manutenção dos encargos nos termos contratados torna inócuo o deferimento do pedido de compensação e/ou repetição de valores. Indeferimento no caso dos autos. Indeferida a tutela provisória de urgência.
+Apelo desprovido." (e-STJ fl. 221/222)
+Recurso especial: alega dissídio jurisprudencial. Sustenta que os juros remuneratórios, a capitalização de juros e, consequentemente, a manutenção da mora, divergem do atual entendimento jurisprudencial desta Corte.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Não cabimento do agravo em recurso especial, quanto à matéria inadmitida com base no art. 1030, I, b, do CPC/15
+No que tange à capitalização dos juros, a Corte local inadmitiu o apelo nobre com base no artigo 1.030, I, b, do CPC/15, entendendo pela aplicação da orientação sedimentada no Recurso Especial 973.827/RS, Temas 246 e 247, julgado sob o rito dos recursos repetitivos.
+Desse modo, conforme pacífico entendimento desta Corte, não é cabível o agravo em recurso especial contra decisão que, com fulcro no art. 1.030, I, b, do CPC/2015, nega seguimento ao apelo nobre, uma vez que é de competência do próprio Tribunal recorrido, se provocado por agravo interno, decidir sobre a alegação de suposto equívoco na aplicação de precedente representativo da controvérsia julgado por este Tribunal. Acerca do assunto: AgInt no AREsp 1.015.741/MS, 4ª Turma, DJe 12/09/2018; AREsp 959.991/RS, 3ª Turma, DJe de 26/08/2016.
+Ato contínuo, passo à análise das demais questões deduzidas no recurso especial.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 2.000,00 (e-STJ fls. 247) para R$ 3.500,00, observada a concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES. JUÍZO DE ADMISSIBILIDADE. PARTE INADMITIDA. IMPUGNAÇÃO POR MEIO DE AGRAVO NOS PRÓPRIOS AUTOS. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de revisão contratual cumulada com restituição de valores.
+2. De acordo com o disposto no art. 1.030 do CPC, com a redação dada pela Lei 13.256/2016, a decisão que inviabiliza a subida do recurso especial, quando apresenta duplo fundamento para negar seguimento e também inadmitir o apelo, comporta, quanto à parte inadmitida, a interposição de agravo nos próprios autos (art. 1.030, V, § 1º, c/c o art. 1.042 do CPC/15) e, quanto à parte a qual se negou seguimento, agravo interno dirigido à Corte local (art. 1.030, I, b, § 2º, c/c o art. 1.021 do CPC/15).
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial não conhecido.
