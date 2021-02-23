@@ -1,0 +1,4 @@
+Art. 3º-A. Fica automaticamente prorrogado, até 31 de dezembro de 2021, o prazo de vigência do regime de admissão temporária nas hipóteses de que tratam as alíneas "a", "b" e "d" do inciso III do art. 5º da Instrução Normativa RFB nº 1.602, de 15 de dezembro de 2015.
+§ 1º O disposto no caput aplica-se somente aos bens que tiveram o prazo de vencimento da permanência no País encerrado a partir do dia 23 de março de 2020.
+§ 2º Fica vedada a utilização dos bens a que se refere o caput em atividade diversa daquela para a qual foram admitidos, ainda que prestada a título gratuito.
+Art. 4º Ficam suspensos, até 31 de dezembro de 2020, os prazos para retorno de bens com saída temporária autorizada na Instrução Normativa SRF nº 300, de 14 de fevereiro de 2003, que se encontravam em curso a partir de 4 de fevereiro de 2020.
