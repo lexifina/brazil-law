@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por EMBRASE SOLUCOES EM SEGURANCA ELETRONICA LTDA, contra decisão proferida pelo JUIZ DE DIREITO DA 1ª VARA CÍVEL DE BRAGANÇA PAULISTA - SP.
+Na petição inicial, a reclamante narra que o juiz reclamado, nos autos do processo nº 0004618-21.2019.8.26.0099, deferiu pedido de penhora de fração de seu faturamento mensal, a despeito do processamento de suarecuperação judicial.
+Afirma que a referida decisão violaa autoridade das decisões proferidas pelo STJ no CC 163.822/RJ e no CC 166.072/RJ, "nos quais se deixou expressa a competência universal do Juízo Recuperacional para efetivação de atos de constrição".
+Requer, por isso, a procedência da presente reclamação, "para que seja cassada a ilegal e exorbitante decisão proferida pelo D. Juízo".
+É O RELATO DO NECESSÁRIO. DECIDE-SE.
+À luz do disposto nos arts. 105, I, "f", da CF/88 e 187 do RISTJ, a reclamação, em razão de sua natureza excepcional, destina-se à preservação da competência deste Tribunal e à garantia da autoridade de seus julgados apenas quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão impugnada.
+Como ressaltou a Corte Especial por ocasião do julgamento do AgRg na Rcl 29.329/MS (Rel. Min. Laurita Vaz, DJe de 03/08/2016), a reclamação é cabível para assegurar-se que ordens diretas emanadas do STJ não sejam descumpridas nas instâncias ordinárias, de forma que não se admite o manejo desta ação com o simples intuito de reexame de questões já decididas no Tribunal local.
+Outrossim, é pacífica a jurisprudência desta Corte no sentido de que"a ReclamaçãoConstitucional a fim de assegurar a autoridade de decisão judicialpressupõe a estrita aderência entre o objeto do ato reclamado e oconteúdo da decisão que se alega ter sido descumprida, de modo que aausência de identidade perfeita entre eles é circunstância queinviabiliza o conhecimento da reclamação" (AgInt na Rcl 37.960/RJ,Primeira Seção, DJe 19/9/2019).
+Na hipótese dos autos, contudo, verifica-se que não há estrita aderência entre o ato impugnado na presente reclamação e as decisões proferidas nos conflitos de competência n.163.822/RJ e n. 166.072/RJ.
+Com efeito, tais incidentes foram instaurados para sanar específicos conflitos de competência estabelecidos entre o Juízo universal da recuperação judiciale (i) o Juízo da 72ª Vara do Trabalho do Rio de Janeiro, nos autos do processo nº 0101793-15.2017.5.01.0072 (CC 163.822/RJ) e (ii) o Juízo da 46ª Vara do Trabalho do Rio de Janeiro, nos autos do processo nº 0100154-06.2018.5.01.0046 (CC 166.072/RJ), não abrangendo, destarte, o Juízo ora reclamado -JUIZ DE DIREITO DA 1ª VARA CÍVEL DE BRAGANÇA PAULISTA - SP, tampouco o processo em que proferida a decisão impugnada - processo nº 0004618-21.2019.8.26.0099.
+Assim, considerando que os efeitos das decisões paradigmas não alcançam, objetivamente, o ato impugnado, não há que se falar em violação da autoridade desta Corte, a justificar o ajuizamento da presente reclamação.
+Forte nessas razões, INDEFIRO a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO RECLAMADAQUE NÃO OFENDE OBJETIVAMENTE DECISÃO EMANADA DO STJ. DESCABIMENTO.
+1. Reclamação que se insurge contra decisão que determinou a penhora de fração do faturamento mensal de empresa em recuperação judicial.
+2. Para que a reclamação seja admitida, é imprescindível que se caracterize, de modo objetivo, usurpação de competência deste Tribunal ou ofensa direta à decisão aqui proferida, circunstâncias não evidenciadas nos autos.
+3. Petição inicial indeferida. Processo extinto sem resolução de mérito.
