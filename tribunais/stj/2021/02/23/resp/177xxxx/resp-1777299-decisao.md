@@ -1,0 +1,46 @@
+DECISÃO
+1. Trata-se de recurso especial interposto por JK NOVO HORIZONTE EMPREENDIMENTOS IMOBILIARIOS LTDA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 99):
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - AVERBAÇÃO DA AÇÃO EXECUTIVA NO REGISTRO DO VEICULO -ATO DE APREENSÃO JUDICIAL - INEXISTÊNCIA - EXTINÇÃO DA AÇÃO - HONORÁRIOS ADVOCATÍCIOS - FIXAÇÃO COM OBSERVÂNCIA DO ART.
+85 DO CPC/2015. Como a anotação junto ao DETRAN acerca da existência de ação abarcando o veiculo objeto da matricula visa tão somente dar publicidade a terceiros de boa -fé a respeito da existência de litígio judicial sobre o bem e não interfere no direito de propriedade, incabivel a interposição de embargos de terceiro com o objetivo de retirar tal averbação, inclusive porque referida medida não constitui ato judicial, mas sim faculdade da própria parte exequente, nos termos do art. 615-A do CPC/1973. A fixação dos honorários advocatícios de sucumbência deve ter como parâmetro os critérios traçados pelo art. 85 do CPC/2015 e as peculiaridades da causa.
+Opostos embargos de declaração pela parterecorrente (fls. 108-121), foram rejeitados (fls. 124-129).
+Nas razões do recurso especial (fls. 132-177), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto no art. 615-A do Código de Processo Civil de 1973, Súmula 98 do STJ, arts. 10 e674, do Código de Processo Civil de 2015.
+Em apertada síntese, sustentaque a averbação da ação de execução configura restrição ao exercício da posse e ao direito de propriedade do veículo, sendo viável o manejo dos embargos preventivamente, ou seja, antes que ocorra a efetiva constrição judicial do bem. Defende, ainda, o interesse de agir na oposição dos embargos.
+Requer o afastamento da multa pela oposição de embargos de declaração, alegando que estes não tiveram intuito procrastinatório.
+Argumenta a ocorrência de violação ao princípio da não surpresa, na medida em que o Tribunal a quo acolheu a preliminar contida das contrarrazões sem que fosse concedida vista para o recorrente se manifestar a respeito.
+Contrarrazões ao recurso especial às fls. 204-208.
+É o relatório.
+DECIDO.
+2. A Corte de origem assim dispôs a respeito da controvérsia (fls.102-103) - grifamos:
+Em que pese meu profundo respeito pelo entendimento abraçado pela Julgadora sentenciante e a despeito dos argumentos lançados pela apelante, é forçoso reconhecer que total razão assiste ao apelado quanto à impossibilidade de ajuizamento dos presentes embargos de terceiro, senão vejamos.
+Já de início, cumpre registrar que os embargos terceiro éo instrumento adequado a ser utilizado pelo proprietário ou possuidor de um bem, a fim de proteger o seu domínio ou posse, de turbaçãoou esbulho decorrente de ato judicial efetivado em processo no qual não tenha figurado como parte, como preconiza o art. 1.046 do Código de Processo Civil de 1973, vigente à época do ajuizamento da ação, abaixo transcrito:
+Art. 1046. Quem, não sendo parte no processo, sofrer turbação ou esbulho na posse de seus bens por ato de apreensão judicial, em casos como ode penhora, depósito, arresto, sequestro, alienação judicial, arrecadação, arrolamento, inventário, partilha, poderá requerer lhe sejam manutenidos ou restituídos por meio de embargos.
+§1º. Os embargos podem ser de terceiro senhor e possuidor, ou apenas possuidor.
+No caso especifico dos autos, como bem pontuado pela douta Julgadora sentenciante, a apelante não sofreu turbação ou esbulho na posse do bem descrito na inicial por qualquer ameaça ou efetivo ato de apreensão judicial.
+É que a anotação no registro junto ao DETRAN acerca da existência de ação abarcando o veiculo objeto da matricula visa tão somente dar publicidade a terceiros de boa -fé a respeito da existência de litígio judicial sobre o bem e não interfere no direito de propriedade ou mesmo no direito do possuidor.
+Não bastasse, fato é que tal medida não constitui ato judicial, mas sim faculdade da própria parte exequente, que pode requerer uma certidão comprobatória de ajuizamento da execução, com identificação das partes evalor da causa, no momento da distribuição da ação, para posterior averbação no respectivo órgão competente, mediante ato extrajudicial e de cunho administrativo.
+É o que se extrai da leitura do art. 615-A do CPC/1973, senão vejamos:
+"Art. 615-A. O exequente poderá, no ato da distribuição, obter certidão comprobatória do ajuizamento da execução, com identificação das partes e valor da causa, para fins de averbação no registro de imóveis, registro de veículos ou registro de outros bens sujeitos à penhora ou arresto."
+Diante de todas as considerações acima, outra conclusão não há senão a de que os presentes embargos não constituem a via adequada para se insurgir contra a averbação em questão, devendo, por tais razões, ser indeferida a petição inicial e extinto o feito, sem resolução de mérito e com fulcro no art. 330, V, c/c art. 485, I, ambos do Código de Processo Civil de 2015;
+Ocorre que o acórdão recorrido encontra-se em desarmonia com a jurisprudência desta Corte no sentido de que "os embargos de terceiro são cabíveis de forma preventiva, quando o terceiro estiver na ameaça iminente de apreensão judicial do bem de sua propriedade" (REsp 1019314 / RS, Relator Ministro Luiz Fux, DJe 16/3/2010).
+A propósito, confira:
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICAÇÃO DO CPC/1973. EMBARGOS DE TERCEIRO. AVERBAÇÃO DA EXISTÊNCIA DE EXECUÇÃO NO REGISTRO DE VEÍCULO PERTENCENTE A TERCEIRO. JUSTO RECEIO DE INDEVIDA TURBAÇÃO NA POSSE. INTERESSE DE AGIR VERIFICADO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE.
+1. Embargos de terceiro opostos em 23/08/2013. Recurso especial interposto em 05/08/2015 e atribuído a esta Relatora em 25/08/2016.
+Aplicação do CPC/73.
+2. O propósito recursal consiste em definir se é possível a oposição de embargos de terceiro preventivos, isto é, antes da efetiva constrição judicial sobre o bem. Hipótese em que foi averbada a existência de ação de execução no registro de veículo de propriedade e sob a posse de terceiro.
+3. Os embargos de terceiro constituem ação de natureza contenciosa que tem por finalidade a defesa de um bem objeto de ameaça ou efetiva constrição judicial em processo alheio.
+4. Em que pese a redação do art. 1.046, caput, do CPC/73, admite-se a oposição dos embargos de terceiro preventivamente, isto é, quando o ato judicial, apesar de não caracterizar efetiva apreensão do bem, configurar ameaça ao pleno exercício da posse ou do direito de propriedade pelo terceiro.
+5. Sendo promessa constitucional a inafastabilidade da jurisdição (art. 5º, XXXV, da CF/88), o direito processual reconhece a viabilidade da tutela preventiva, tradicionalmente chamada de inibitória, para impedir a prática de um ato ilícito, não se condicionando a prestação jurisdicional à verificação de um dano.
+6. A averbação da existência de uma demanda executiva, na forma do art. 615-A do CPC/73, implica ao terceiro inegável e justo receio de apreensão judicial do bem, pois não é realizada gratuitamente pelo credor; pelo contrário, visa assegurar que o bem possa responder à execução, mediante a futura penhora e expropriação, ainda que seja alienado ou onerado pelo devedor, hipótese em que se presume a fraude à execução.
+7. Assim, havendo ameaça de lesão ao direito de propriedade do terceiro pela averbação da execução, se reconhece o interesse de agir na oposição dos embargos.
+8. "Em embargos de terceiro, quem deu causa à constrição indevida deve arcar com os honorários advocatícios" (Súmula 303/STJ).
+9. Recurso especial conhecido e provido.
+(REsp 1726186/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/05/2018, DJe 11/05/2018)
+Portanto, encontrando-se o acórdão do Tribunal de origem em desconformidade com esse entendimento, merece reforma.
+3. Ante o exposto, dou provimentoao recurso especial, para reconhecer o interessede agir da recorrente na oposição dos embargos de terceiro e determinar o retorno dos autos à origem, para análise da apelação interposta pela parte recorrente, como entender de direito.
+Por decorrência lógica, afasto a multa pela oposição de embargos de declaração aplicada.
+Prejudicadas as demais alegações.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. AVERBAÇÃO DA AÇÃO EXECUTIVA NO REGISTRO DO VEÍCULO. CABIMENTO. INTERESSE DE AGIR RECONHECIDO. RECURSO PROVIDO.
+1. Conforme já decidiu esta Corte de Justiça, "A averbação da existência de uma demanda executiva, na forma do art. 615-A do CPC/73, implica ao terceiro inegável e justo receio de apreensão judicial do bem, pois não é realizada gratuitamente pelo credor; pelo contrário, visa assegurar que o bem possa responder à execução, mediante a futura penhora e expropriação, ainda que seja alienado ou onerado pelo devedor, hipótese em que se presume a fraude à execução.Assim, havendo ameaça de lesão ao direito de propriedade do terceiro pela averbação da execução, se reconhece o interesse de agir na oposição dos embargos."(REsp 1726186/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/05/2018, DJe 11/05/2018)
+2. Recurso especial provido.
