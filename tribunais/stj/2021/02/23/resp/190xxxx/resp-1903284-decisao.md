@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PROCESSUAL CIVIL. SENTENÇA QUE RECONHECEU A INCOMPETÊNCIA IX) JUÍZO COMUMFEDERAL. QUERELA NULUTATIS INSANABÍUS DF JULGADOS ORIUNDOS DOS JUIZADOSESPECIAIS FEDERAIS. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA FEDERAL COMUM.EXTINÇÃO DO PROCESSO. IMPOSSIBILIDADE. ART. 64, §3º DO CPC/2015. REMESSA DOSAUTOS AO JUIZADO ESPECIAL. ÔNUS DO JUIZ DECLARADO INCOMPETENTE. APELAÇÃOPARCIALMENTE PROVIDA.
+1. Trata-se de apelação em que a parte autora/recorrente pretende a declaração de nulidade de sentençaproferida cm ação com trâmite perante o Juizado Espccial Federal.
+2. Hipótese em que o juízo competente para a análise da possibilidade de ação anulatória é o mesmo queproferiu o julgado, ou seja,o JEF, não podendo se admitir a tramitação do feito perante este TribunalRegional Federal.
+3. Não se pode perder de vista que os Juizados Especiais Federais tem, quanto ao aspecto jurisdicional,estrutura peculiar c apartada, além de princípios próprios (art. 2ºda Lei nº 9.099/95). Precedente.
+4. O art. 64. §3º,do CPC/2015 dispõe que o acolhimento da incompetência absoluta enseja a remessa dosautos ao juízo competente e não a extinção do feito sem resolução do mérito. É atribuição do juízo que sedeclarou incompetente providenciar a remessa dos autos ao Juizado Especial, não podendo tal ônus seratribuído à parteautora cm virtude da inexistência de compatibilidade entre sistemas. Verificada aexistência da referida incompatibilidade, far-se-á a impressão das peças processuais, formando-se autosfísicos que serão remetidos ao Juizado Especial.
+5. Apelação parcialmente provida para anular a sentença e determinar o retorno dos autos ao juízo deorigem, a fim de que este providencie a remessa do processo ao Juizado Especial.
+Os Embargos de Declaração opostos foram rejeitados (fls. 332-334, e-STJ).
+As recorrentes afirmam que houve, além de divergência jurisprudencial, ofensa ao art. 3º, § 1º, inciso III da Lei 10.259/2001. Sustentam que, em razão da matéria tratada, o presente feito não deve ser processado perante o Juizado Especial Federal, haja vista que escapam à sua competência matérias envolvendo anulação ou cancelamento de ato administrativo. Requer seja declarado competente o Juízo Comum Federal.
+Contrarrazões às fls. 390-393, e-STJ.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16 de novembro de 2020.
+A irresignação não merece acolhida.
+O acórdão recorrido adotou entendimento consolidado do Superior Tribunal de Justiça segundo o qual só se enquadram na exceção prevista no art. 3º, § 1º, III, da Lei 10.259/01 as pretensões que visam diretamente à anulação de ato administrativo, o que não ocorre quando a invalidação se dá de forma reflexa. Veja-se:
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO DE EFEITOS INFRINGENTES. INCIDÊNCIA DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. ABONO DE PERMANÊNCIA. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL PARA APRECIAR E JULGAR DEMANDA CUJO VALOR DA CAUSA É INFERIOR A 60 SALÁRIOS MÍNIMOS. INAPLICABILIDADE DA EXCEÇÃO DO ART. 3o., § 1o., INC. III DA LEI 10.259/01. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Aplicado o princípio da fungibilidade recursal para receber os Embargos de Declaração como Agravo Regimental, nos termos da jurisprudência desta Corte, tendo em vista a simples pretensão de efeitos infringentes.
+2. A teor do disposto no art. 3o. da Lei 10.259/01, a competência do Juizado Especial Federal é absoluta, estabelecendo-se o valor da causa como critério geral em matéria cível.
+3. No caso, o valor da causa foi atribuído em valor inferior a sessenta salários mínimos, versando a ação sobre a percepção de abono de permanência, com a devolução de valores descontados a tal título no período de 31/8/1999 e 7/4/2001, o que atrai a competência do Juizado Especial Federal para o processamento e julgamento do feito.
+4. A hipótese dos autos não se enquadra na exclusão de competência do Juizado Especial prevista no art. 3o., § 1o., inciso III da Lei 10.259/2001, visto que a procedência do pedido formulado na inicial acarretará a manutenção da vantagem pecuniária anteriormente percebida pelo servidor, e não a anulação ou o cancelamento do ato administrativo, sendo que eventual invalidação decorrerá apenas reflexamente da sentença de mérito.
+5. Agravo Regimental a que se nega provimento. (EDcl no AgRg nos EDcl no Ag 1340183/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 5.2.2016)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZO FEDERAL DE JUIZADO COMUM E JUÍZO FEDERAL DE JUIZADO ESPECIAL DA MESMA SEÇÃO JUDICIÁRIA.COMPETÊNCIA DO E. STJ PARA DIRIMIR O CONFLITO. INCIDÊNCIA DA SÚMULA Nº 348/STJ. AÇÃO COM PEDIDO DE REFORMA. VALOR DA CAUSA INFERIOR A 60 (SESSENTA) SALÁRIOS MÍNIMOS. EXCEÇÃO DO ART. 3º, § 1º, INC. III, DA LEI Nº 10.259/01 AFASTADA. CARÁTER REFLEXO DA ANULAÇÃO DO ATO ADMINISTRATIVO. NATUREZA PREVIDENCIÁRIA DO PEDIDO. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL.
+I - "Compete ao Superior Tribunal de Justiça decidir os conflitos de competência entre juizado especial federal e juízo federal, ainda que da mesma seção judiciária" (Súmula nº 348/STJ).
+II - Sendo o valor da causa inferior a 60 (sessenta) salários mínimos, cabe ao Juizado Especial Federal, ex vi do art. 3º, caput, da Lei nº 10.259/01, a competência para processar, conciliar e julgar as causas de competência da Justiça Federal.
+III -In casu, a anulação do ato administrativo, se vier a ocorrer, decorrerá da procedência do pedido autoral de reforma, apenas de maneira reflexa. Além do mais, a natureza previdenciária do pedido afasta igualmente a exceção prevista no art. 3º, § 1º, inc. III, da Lei nº 10.259/01.
+Agravo regimental desprovido. (AgRg no CC 104.332/RJ, Rel. Min. Felix Fischer, Terceira Seção, DJe 25.8.2009)
+Dessume-se que o acórdão recorrido está em sintonia com o atual posicionamento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide,in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+Ressalto, outrossim, que as demais matérias suscitadas carecem do necessário prequestionamento, o que inviabiliza o exame na via do apelo especial.
+Por tudo isso,não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
