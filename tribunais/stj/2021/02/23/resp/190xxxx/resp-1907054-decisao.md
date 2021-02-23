@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Banco Santander (Brasil) S.A. contra decisão que inadmitiu o recurso especial com base nos seguintes fundamentos: i) ausência de violação do art. 1.022 do CPC/2015; e ii) óbices das Súmulas 7 e 83 do STJ (e-STJ, fls.1.382-1.394).
+É o relatório.
+A parte insurgente não infirmou especificamente os pressupostos utilizados pelo Tribunal de origem para negar o acesso à via especial.
+Nesse aspecto, " ..  em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida" (AgInt no AREsp 1.360.316/DF, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 7/8/2019), o que não ocorreu no caso em tela.
+Acrescento que, quanto à aplicação da Súmula 7/STJ, não basta a assertiva genérica de que a pretensão recursal não requer o revolvimento do acervo fático-probatório dos autos, ainda que seja feita breve menção à tese sustentada.
+É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do referido empecilho processual.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS (14 PORÇÕES DE COCAÍNA, PESANDO 26,30G E 1 PEDRA DA MESMA SUBSTÂNCIA COM PESO DE 1G). MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULAS N.º 7 E 83 DO STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL DESPROVIDO. 1. Nas razões do agravo em recurso especial, não foram rebatidos, especificamente, os fundamentos da decisão agravada relativos à incidência das Súmulas 7 e 83 do Superior Tribunal de Justiça.
+2. No tocante à incidência da Súmula 7/STJ, o Agravante se limitou a sustentar genericamente que a matéria seria apenas jurídica, sem explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas. Assim, não houve a observância da dialeticidade recursal, motivo pelo qual careceu o referido recurso de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta aos fundamentos utilizados para inadmitir o recurso especial, no caso, a incidência da Súmula n.º 7 do Superior Tribunal de Justiça.
+3. No que diz respeito à Súmula 83/STJ, não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, no qual a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 1.677.886/MS, Rel. Min. LAURITA VAZ, SEXTA TURMA, julgado em 19/5/2020, DJe 3/6/2020.)
+Frise-se que, não admitido o apelo nobre com fundamento de que o acórdão impugnado encontra-se no mesmo sentido do entendimento desta Corte (obstáculo da Súmula 83 do STJ), incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+No caso específico dos autos, a parte agravante não trouxe à colação precedentes contemporâneos àqueles apresentados na admissibilidade.
+Em idêntica direção:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO PELA PRESIDÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ MANTIDA.
+ ..  2. O STJ perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos que inadmitiram o Agravo em Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+3. Nas razões do Agravo em Recurso Especial, verifica-se que os agravantes não trouxeram precedentes atuais desta Corte que refutassem a fundamentação apresentada pelo Tribunal regional, o que é imprescindível quando se deseja atacar a aplicação da Súmula 83 do Superior Tribunal de Justiça. Cumpre destacar que a referida orientação é aplicável também aos recursos interpostos pela alínea "a" do inciso III do art. 105 da Constituição Federal de 1988.
+4. Por outro lado, incide a Súmula 83 do STJ na hipótese apreciada nos autos, visto que ela não está "condicionada à existência de precedente submetido à sistemática dos recursos repetitivos, bastando a demonstração de que o acórdão recorrido está no mesmo sentido da jurisprudência consolidada desta Corte".
+5. Agravo Interno não provido.
+(AgInt no AREsp 1.585.383/SC, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 7/5/2020.)
+Registro que, conforme a orientação sedimentada no Superior Tribunal de Justiça, é necessária, no agravo, a contestação de todos os fundamentos da decisão denegatória de admissibilidade do especial, sob pena de permanecerem incólumes os que não foram objeto de contestação.
+Destaco que tal posicionamento foi reafirmado pela Corte Especial no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP em 19/9/2018. Na oportunidade de seu exame, conforme o voto proferido pelo Min. Luis Felipe Salomão, definiu-se que "a decisão que inadmite o recurso especial não é formada por diversos capítulos, mas um único dispositivo de inadmissão do recurso, e que, sendo incindível, deve ser impugnada em sua integralidade".
+Cumpre destacar que o não conhecimento do agravo em recurso especial, em virtude da aplicação da Súmula 182/STJ, impede a análise das teses a respeito do mérito discutido no apelo nobre, uma vez não ultrapassada a admissibilidade recursal.
+Ante o exposto, com fulcro no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
