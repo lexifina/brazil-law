@@ -1,0 +1,50 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO POSSESSÓRIA ENTRE PARTICULARES. BEM DE USO COMUM DO POVO. OPOSIÇÃO MANEJADA PELO ENTE PÚBLICO. DISCUSSÃO DA POSSE COMO DESDOBRAMENTO DO DIREITO DE PROPRIEDADE. CABIMENTO.
+1. O acórdão recorrido está em sintonia com o entendimento firmado no âmbito deste Sodalício sobre o tema, segundo o qual a forma do exercício de posse de bens públicos dominiais por parte do Poder Público não depende da verificação de atos concretos de posse, de forma que é cabível a oposição na ação possessória, já que a discussão acerca da posse decorre do próprio direito de propriedade do imóvel público.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por João Kracik Sobrinho desafiando decisão singular que negou provimento ao recurso especial, em razão de o acórdão recorrido ter se alinhado ao entendimento firmado no âmbito deste Sodalício sobre o tema.
+Opostos embargos declaração, foram rejeitados (fls. 551/554).
+Em suas razões, o agravante sustenta, em resumo, que a decisão agravada não analisou a distinção entre o presente caso e os precedentes que embasaram o não provimento do apelo nobre.
+Argumenta que, na espécie, a ação objetiva "a declaração de domínio da propriedade por meio de oposição em uma ação possessória - situação que se distingue da jurisprudência consolidada do STJ e esbarra no art. 923 do CPC de 1973, vigente à época dos fatos" (fl. 558).
+Afirma que as hipóteses apontadas na decisão, que admitem a oposição, referem-se apenas a situações nas quais o domínio do bem é incontroverso, o que não ocorre nesse caso. Requer, desse modo, a reconsideração do decisum, ou o provimento do agravo interno pelo órgão colegiado.
+Impugnação do agravado às fls. 570/574, na qual se requer a condenação do agravante por litigância de má-fé.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO POSSESSÓRIA ENTRE PARTICULARES. BEM DE USO COMUM DO POVO. OPOSIÇÃO MANEJADA PELO ENTE PÚBLICO. DISCUSSÃO DA POSSE COMO DESDOBRAMENTO DO DIREITO DE PROPRIEDADE. CABIMENTO.
+1. O acórdão recorrido está em sintonia com o entendimento firmado no âmbito deste Sodalício sobre o tema, segundo o qual a forma do exercício de posse de bens públicos dominiais por parte do Poder Público não depende da verificação de atos concretos de posse, de forma que é cabível a oposição na ação possessória, já que a discussão acerca da posse decorre do próprio direito de propriedade do imóvel público.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, conforme constou no combatido decisum, o tema trazido à discussão restou assim decidido no acórdão recorrido (fls. 372/374):
+Não se desconhece a grande quantidade de julgados do STJ que reconhecem a impossibilidade de discussão da propriedade por meio de oposição em ação possessória.  ..
+O fundamento é o art. 923 do CPC/1973:  ..
+No entanto, o próprio Tribunal Superior reconhece que, em certos casos, algumas peculiaridades fazem com que esse entendimento seja afastado:  ..
+A distinção, nesses casos, ocorre porque a oposição não se baseia no domínio da área pública, o qual é mencionado apenas para demonstrar a natureza pública dos bens e sua titularidade.
+O domínio, portanto, é alegado apenas incidentalmente, como meio de demonstração da posse, pois quando se trata de bens públicos não se podeexigir do ente federado que demonstre o poder físico sobre o imóvel para que se caracterize a posse sobre ele.
+In casu, o Município de Bombinhas alega que a área objeto da ação possessória é bem de uso comum do povo. A posse do poder público sobre bens dessa natureza é permanente, independendo de atos materiais de ocupação. Assim, a apropriação desses bens por particulares configura verdadeiro ato de esbulho à posse da Administração.
+Note-se que, ao contrário do quanto afirmado pelo agravante, o acórdão recorrido está em sintonia com o entendimento firmado no âmbito deste Sodalício sobre o tema, segundo o qual a forma do exercício de posse de bens públicos dominiais por parte do Poder Público não depende da verificação de atos concretos de posse, de forma que é cabível a oposição na ação possessória, já que a discussão acerca da posse decorre do próprio direito de propriedade do imóvel público.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. DISCUSSÃO EM TORNO DE POSSE/PROPRIEDADE DE TERRA PÚBLICA. AÇÃO POSSESSÓRIA ENTRE PARTICULARES. OPOSIÇÃO DO INCRA. POSSIBILIDADE. POSSE SOBRE BEM DOMINIAL. NÃO INCIDÊNCIA DO ART. 923 DO CPC/1973, ATUAL ART. 557 DO CÓDIGO FUX. AGRAVO INTERNO DOS PARTICULARES DESPROVIDO.
+1. A leitura atenta dos autos revela tratar-se a lide de disputa de natureza possessória entre particulares, tendo como objeto terra pública. O INCRA, então, interveio como terceiro na condição de opoente, buscando demonstrar o domínio da União e, consequentemente, a posse, por se tratar de bem dominial.
+2. O comando normativo do art. 923 do CPC/1973 (atual 557 do Código Fux) proíbe a busca do reconhecimento judicial de domínio, tanto pelo autor quanto pelo réu, enquanto pendente de julgamento ação possessória. No presente caso, todavia, o INCRA buscou opor-se para defender a posse do bem dominial, sendo que essa posse decorre do próprio domínio, e não de atos de posse propriamente ditos. Destaca-se o presente caso pela circunstância de que a forma do exercício de posse de bens públicos dominiais por parte do Poder Público não depende da verificação de atos concretos de posse, o que faz com que seja impossível para a União levantar discussão possessória sem que, ao mesmo tempo, fale do próprio domínio que legitima essa posse.
+3. O critério (ou princípio) da melhor posse, o qual costuma prevalecer no julgamento de semelhantes demandas, leva em conta a posse mais antiga. Como a única posse legítima, no presente caso, é a da União - muito embora, relembre-se, nada impeça a discussão judicial entre particulares a respeito de detenção -, é justo que seja-lhe concedida a oportunidade de se manifestar a respeito da posse do imóvel objeto de litígio, o que, pela natureza do próprio objeto, força a necessidade de demonstração da propriedade.
+4. Nesse contexto, é imperativo admitir a oposição do INCRA, permitindo sua intervenção nos autos.
+5. Agravo Interno dos Particulares desprovido.
+(AgInt no REsp 1.820.051/PA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 11/11/2020, DJe 17/11/2020)
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DIVERGÊNCIA.DESAPROPRIAÇÃO. AÇÃO DE OPOSIÇÃO. NATUREZA POSSESSÓRIA. IMÓVEL PÚBLICO DESTINADO À REFORMA AGRÁRIA. ART. 923 DO CPC/1973. DISCUSSÃO DA POSSE COMO DESDOBRAMENTO DO DIREITO DE PROPRIEDADE. SIMILITUDE FÁTICO-JURÍDICA VERIFICADA. PROVIMENTO DOS EMBARGOS PARA PREVALECER O ENTENDIMENTO FIRMADO NO ACÓRDÃO PARADIGMA.
+1. Trata-se de Embargos de Divergência em que o Incra ajuizou, na origem, Ação de Oposição contra os embargados requerendo a reintegração na posse do imóvel, com o objetivo de dar continuidade ao procedimento de desapropriação para fins de reforma agrária, tendo em vista ter verificado a ocupação irregular do imóvel pelos embargados, os quais não se enquadravam no perfil dos beneficiários da referida política pública.
+2. Recurso Especial provido para reconhecer a afronta ao art. 923 do CPC/1973, sob o argumento de que não cabe oposição, fundada em domínio do imóvel, em ação em que se discute apenas posse.
+3. Os Embargos de Divergência possuem a finalidade de uniformizar a jurisprudência do Tribunal mediante o inarredável pressuposto de que, diante da mesma premissa fática, os órgãos julgadores tenham adotado soluções jurídicas conflitantes.
+4. Prevalência do entendimento firmado pela Terceira Turma deste Egrégio STJ no Recurso Especial nº 780.401/DF, da relatoria da Ministra Nancy Andrighi, quando se firmou a tese de que, nos casos em que o imóvel objeto do litígio é público, como aqueles destinados à Reforma Agrária, a discussão da posse em ação possessória decorre do próprio direito de propriedade, não se aplicando a restrição normativa prevista no art. 923 do CPC/73.
+5. No EREsp 1.134.446/MT (Rel. Ministro Benedito Gonçalves, julgado em 21/3/2018), a Corte Especial fixou a tese de que, em se tratando de imóvel público pertencente à União, "a vedação constante do art. 923 do CPC/73 (atual art. 557 do CPC/2015), contudo, não alcança a hipótese em que o proprietário alega a titularidade do domínio apenas como fundamento para pleitear a tutela possessória. Conclusão em sentido contrário importaria chancelar eventual fraude processual e negar tutela jurisdicional a direito fundamental".
+6. Exigir do poder público o exercício de poder de fato sobre a coisa, especialmente nos casos em que a posse está relacionada a grandes extensões de terra destinadas à reforma agrária, inviabiliza a referida política pública.
+7. Interpretação diversa importa, no caso concreto, em sobrepor o interesse privado dos particulares à posse do imóvel ao interesse público primário da efetivação da política pública de reforma agrária.
+8. Embargos de Divergência providos.
+(EREsp 1.296.991/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/9/2018, DJe 27/2/2019)
+Por fim, não se aplica a sanção prevista no art. 81 do CPC/2015, tal como pleiteado nas contrarrazões, por não se vislumbrar a alegada litigância de má-fé na interposição do agravo interno.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
