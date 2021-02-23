@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por CELITA TERESINHA RAUBERem face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, que negou admissibilidade a recurso contra acórdão assim ementado:
+AÇÃO RESCISÓRIA. POLÍTICA SALARIAL. REAJUSTES DA LEI ESTADUAL Nº 10.395/95. PRESCRIÇÃO CONFIGURADA. DEMANDA RESCISÓRIA NÃO SE PRESTA COMO SUCEDÂNEO RECURSAL.A ação rescisória somente é admissível nas hipóteses taxativamente previstas no artigo 966, do Código de Processo Civil. No caso dos autos, a decisão rescindenda restou exarada consoante a jurisprudência pacificada à época, descabendo falar em violação à disposição legal ou, ainda, a enunciado sumulado do STJ. Outrossim, não se pode olvidar que o cabimento da ação rescisória é restrito, não podendo a demanda ser utilizada como sucedâneo recursal, sob pena de se chancelar a fragilização da segurança jurídica. AÇÃO RESCISÓRIA JULGADA IMPROCEDENTE.
+Os embargos de declaração opostos não foram acolhidos.
+No especial, fundamentado no artigo 105, III, "a", da Constituição Federal, alegou-se contrariedade às disposições dos artigos (a) 1.022, II, do CPC/2015, pois, a despeito da oposição de embargos aclaratórios, o acórdão recorrido permaneceu omisso, (b) 966, V, do CPC/2015, na medida em que a tese oriunda do Tema 880/STJ foi aplicada de maneira incorreta, pois não transcorreram cinco anos, a contar da data determinada na modulação de efeitos, 30/06/2017 e, portanto, a pretensão executória não está prescrita; (c) 1.037, II, do CPC/2015, alegando em síntese que tendo em vista que o processo cuja decisão se busca rescindir versava sobre a discussão tratada no Tema 880/STJ, deveria ter havido a suspensão do mesmo.
+Apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por entender que a decisão recorrida não tem vício a ser sanado, ademais, o acórdão impugnado está em consonância com o entendimento firmado neste Superior Tribunal, atraindo a incidência da súmula 83/STJ.
+A parte agravante rechaça os fundamentos mencionados.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Tendo sido impugnados os fundamentos de inadmissão, conheço do agravo e passo à análise do recurso especial.
+Verifico que o Tribunal de origem não dirimiu, tal como deveria, as questões que lhe foram submetidas.
+Isso porque, a parte recorrente alega que o processo em cuja decisão que se busca rescindir está, deveria ter sido suspenso, pois envolvia o debate de tema em discussão neste Superior Tribunal, nos termos do art. 1.037, II, do CPC/2015.
+Sabe-se que, "deixando o acórdão de se manifestar sobre matéria relevante ao deslinde da controvérsia, rejeitando os embargos declaratórios e persistindo na omissão oportunamente alegada, incorre em ofensa ao art. 1.022, II, do CPC/2015, reiterada, em sede de Recurso Especial" (AgInt no AREsp 1521778/MA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 20/02/2020).
+Dessarte, necessário "o retorno dos autos à origem a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca do ponto omisso" (REsp 1844941/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. AÇÃO RESCISÓRIA. SUSPENSÃO DO PROCESSO. TEMA 880/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OMISSÃO CARACTERIZADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
