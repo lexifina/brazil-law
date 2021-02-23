@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELA APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA). ART. 126 DA LEI DE EXECUÇÃO PENAL - LEP. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. BASE DE CÁLCULO. ARTS. 24, I, E 35 DA LEI 9.394/1996. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DE SANTA CATARINAcontra decisão de minha lavra às fls. 88/90, na qual não se conheceu do habeas corpus, mas foi concedida a ordem, de ofício.
+No presente recurso, o Parquet estadualsustenta que o parâmetro para o cálculo do percentual de 50%, a incidir sobre a carga horária definida legalmente para cada nível de ensino, é a Resolução nº 3/2010 do CNE, que institui "Diretrizes Operacionais para a Educação de Jovens e Adultos", disciplinando a duração dos cursos de EJA e a idade mínima para ingresso. Acrescenta que "dispõe a recomendação mencionada que devem ser considerados, como base de cálculo, 50% da carga horária definida para o ensino médio, qual seja, 1.200 (mil e duzentas horas),isto é, no caso, 600 (seiscentas) horas. Essas, por sua vez, devem divididas por 12 horas (1 dia de pena a cada 12 horas de frequência escolar), chegando-se ao patamar de 50 dias a serem remidos, mais 1/3, caso haja aprovação integral no citado exame, o que totalizaria 66 (sessenta e seis) dias" (fl. 114).
+Aduz que a situação do maior de 18 anos de idade, como referido, sujeita-se às regras específicas da Resolução nº 3/2010 do Conselho Nacional de Educação.
+Requer, ao final, seja exercido o juízo de retratação ou submetido o agravo ao Colegiado para julgamento e provimento, a fim de que seja denegada a ordem de habeas corpus, nos termos requeridos no agravo, mantendo o cálculo elaborado pelo Juízo da Vara de Execuções Penais de Criciúma/SC.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELA APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA). ART. 126 DA LEI DE EXECUÇÃO PENAL - LEP. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. BASE DE CÁLCULO. ARTS. 24, I, E 35 DA LEI 9.394/1996. DECISÃO AGRAVADA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+VOTO
+Escorado em precedentes deste egrégio órgão julgador, não conheci do habeas corpus, todavia, concedi a ordem, de ofício, para majorar para 177 (cento e setenta e sete) dias a remição concedida ao paciente, também determinando, ao d. Juízo da Execução Penal, que proceda aos novos cálculos para benefícios.
+No mesmo sentido, ilustrativamente, por mais recente, deste egrégio Órgão julgador:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL. REMIÇÃO DE PENAS. APROVAÇÃO NO ENCCEJA. POSSIBILIDADE. ART. 126 DA LEI DE EXECUÇÃO PENAL. RECOMENDAÇÃO N. 44/2013 DO CONSELHO NACIONAL DE JUSTIÇA. CÁLCULO. ADEQUAÇÃO. NECESSIDADE. FLAGRANTE ILEGALIDADE. EXISTÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão agravada por seus próprios fundamentos.
+II - O Conselho Nacional de Justiça editou a Recomendação n. 44 de 26/11/2013, que, em seu art. 1º, inc. IV, regulamentando o § 5º do art. 126 da Lei de Execução Penal, dispõe sobre a possibilidade de remição por aprovação nos exames nacionais que certificam a conclusão de ensino fundamental (ENCCEJA).
+III - A Lei n. 9.394/1996, em seu art. 24, I, estabelece que a carga horária mínima anual para o ensino fundamental corresponde a 800 (oitocentas) horas, cuja duração para os anos finais é de quatro anos; conclui-se, assim, que o total da carga horária mínima para todo o ensino fundamental será de 3.200 (três mil e duzentas) horas.
+IV - Destarte, considerando como base de cálculo 50% da carga horária definida legalmente para o ensino médio, 3.200 (três mil e duzentas) horas, ou seja, 1.600 (um mil e seiscentas) horas, divide-se o total de horas por 12, encontrando-se o resultado de 133 dias para a aprovação no ENCCEJA, desprezando-se a fração.
+V - In casu, como o paciente obteve aprovação em todas as 5 (cinco) áreas de conhecimento, faz jus ao total de 133 (cento e trinta e três) dias de remição, acrescidos de bônus de 1/3 (um terço), nos termos do artigo 126, § 5º, da Lei de Execução Penal, perfazendo o total de 177 (cento e setenta e sete) dias remidos por estudo.
+Agravo regimental do Ministério Público Federal desprovido.
+(AgRg no HC 551.943/SC, relator Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, DJe 2/3/2020).
+Nesse diapasão, embora o esforço argumentativo do Parquet Federal, a decisão agravada deve ser mantida por seus próprios fundamentos.
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. TRÁFICO DE DROGAS. PENA NÃO SUPERIOR A 8 (OITO) ANOS. QUANTIDADE E NATUREZA DA SUBSTÂNCIA ENTORPECENTE. FUNDAMENTAÇÃO SUFICIENTE PARA O AGRAVAMENTO DO REGIME PENAL.
+1. O agravo regimental não traz argumentos novos capazes de alterar o entendimento anteriormente firmado, razão por que deve ser mantida a decisão que, monocraticamente, negou seguimento ao recurso especial.
+ ..
+3. Agravo Regimental improvido.
+(AgRg no REsp n. 1.420.545/PR, Rel. Min. NEFI CORDEIRO, SEXTA TURMA, DJe de 13/10/2014).
+Ante o exposto, nego provimento ao agravo regimental.
