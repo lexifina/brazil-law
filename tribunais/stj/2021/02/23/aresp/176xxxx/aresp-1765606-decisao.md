@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 108, e-STJ):
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PEDIDO DE RECONHECIMENTO DE NULIDADE DE INTIMAÇÃO DA SENTENÇA POR AUSÊNCIA DE INTIMAÇÃO DO CAUSÍDICO QUE REPRESENTAVA O RÉU À ÉPOCA. HIPÓTESE NA QUAL O PEDIDO DE NULIDADE DEVE SE FAZER ACOMPANHAR DESDE LOGO DOS ARGUMENTO RELATIVOS AO RECURSO DE APELAÇÃO. ENTENDIMENTO DECORRENTE DO § 8º, DO ART. 272 DO NOVO CÓDIGO DE PROCESSO CIVIL. PRECEDENTES DO STJ. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Ambos os embargos de declaração opostos foram rejeitados (fls. 187/190, e-STJ).
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 272, § 2º, 280, 281, 282, caput, § 1º, 283, parágrafo único, 489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015.
+Afirma, de início, que o acórdão recorrido teria sido omisso, sem a análise de todos os argumentos suscitados.
+Quanto às teses referentes à nulidade, argumenta que: (i) é incontroverso o fato de não ter havido a intimação do advogado acerca da sentença; (ii) o juízo de primeiro grau deveria ter declarado formalmente a ocorrência do vício, com a realização de uma nova intimação do ato decisório; (iii) a dispensa da repetição dos atos nulos só é autorizada nos casos de ausência de prejuízo e nos casos em que o juiz puder decidir o mérito em favor de quem aproveitar a nulidade, hipóteses que não se verificam e, por fim, (iv) não houve a ciência inequívoca da prolação da sentença.
+Foram apresentadas contrarrazões às fls. 425/429, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+De início, quanto às alegações de ofensa aos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que o Tribunal de origem analisou expressamente as questões levantadas pela parte recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado por ela.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO ULTRA PETITA. EXCESSO. EXTIRPAÇÃO. POSSIBILIDADE. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A decisão que julga além dos limites da lide não precisa ser anulada, devendo ser eliminada a parte que constitui o excesso. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1339385/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/4/2019, DJe 12/4/2019)
+Consta dos autos que, na origem, o advogado da parte ora recorrente, por equívoco, deixou de ser intimado da sentença. Consta, ainda, que a parte peticionou requerendo, tão somente, a declaração da nulidade pela falta de intimação.
+O Tribunal de origem, ao analisar a controvérsia, confirmou a decisão de primeiro grau, que considerou que, quando da manifestação do procurador quanto à nulidade, se iniciou o prazo de quinze dias para interposição da apelação, o que não foi feito. Argumentou-se, na oportunidade, que "o pedido de nulidade de intimação da sentença enseja desde logo a reabertura do prazo recursal para apresentação do recurso adequado para impugnação à sentença, já que a parte teve, desde logo, acesso aos autos eletrônicos"
+Transcrevo os fundamentos adotados pelo colegiado (fls. 112/113, e-STJ):
+Trata-se de agravo de instrumento manejado contra decisão de indeferimento de pedido de nulidade de intimação da sentença, no qual a parte agravante pretende ver reconhecida a necessidade de reabertura do prazo recursal de apelação, diante da ausência de intimação do causídico que à representava ao tempo da decisão singular.
+Em que pesem os argumentos deduzidos pelo agravante, a decisão vergastada é escorreita, eis que, com efeito, o entendimento jurisprudencial majoritário é de que o pedido de nulidade de intimação da sentença enseja desde logo a reabertura do prazo recursal para apresentação do recurso adequado pra impugnação à sentença, já que a parte teve, desde logo, acesso aos autos eletrônicos, consoante se infere do movimento 174.1 e 174.2, no qual os novos procuradores do agravante colacionarem instrumento procuratório
+O precedente citado pelo juízo a quo, com efeito é adequado e merece ser mais uma vez citado:
+"PROCESSO CIVIL. RECURSO DE APELAÇÃO. PRAZO RECURSAL. INTIMAÇÃO DA SENTENÇA. CIÊNCIA INEQUÍVOCA. PRECEDENTES. - Comparecendo a parte aos autos para argüir a ausência de intimação da sentença, demonstrando inequívoco conhecimento do ato decisório, começa a fluir deste momento o termo inicial do prazo recursal. - Recurso especial não conhecido."(REsp 249.895/SC, Rel. Ministro FRANCISCO PEÇANHA MARTINS, SEGUNDA TURMA, julgado em 08/04/2003, DJ 26/05/2003, p. 295).
+Referido entendimento, aliás, é consagrado no Novo Código de Processo Civil, o qual prevê expressamente no § 8º, do art. 272, in verbis:
+§ 8º A parte arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido.
+De tal arte, extrai-se que cumpria ao agravante desde logo formalizar os argumentos pertinentes ao seu recurso de apelação, de modo que não os realizando, extrai-se adequada a posição adotada pelo juízo singular.
+O Tribunal de origem, dessa forma, decidiu em conformidade com a jurisprudência do Superior Tribunal de Justiça, que, na interpretação do art. 272, § 8º, do Código de Processo Civil, entende que, se a parte foi devidamente cientificada (o que se presume ocorrido à vista do peticionamento requerendo-se a declaração da nulidade da intimação), deve ela antecipar o ato processual que deveria praticar.
+A propósito:
+PROCESSO CIVIL - RECURSO DE APELAÇÃO - PRAZO RECURSAL - INTIMAÇÃO DA SENTENÇA - CIÊNCIA INEQUÍVOCA- PRECEDENTES.
+- Comparecendo a parte aos autos para argüir a ausência de intimação da sentença, demonstrando inequívoco conhecimento do ato decisório, começa a fluir deste momento o termo inicial do prazo recursal.
+- Recurso especial não conhecido.
+(REsp 249.895/SC, Rel. Ministro FRANCISCO PEÇANHA MARTINS, SEGUNDA TURMA, julgado em 8/4/2003, DJ 26/5/2003, p. 295)
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/2015. ALIENAÇÃO FIDUCIÁRIA. BUSCA E APREENSÃO DE AUTOMÓVEL. ALEGAÇÃO DE NULIDADE DO PROCESSO POR AUSÊNCIA DE INTIMAÇÃO PESSOAL DO DEFENSOR PÚBLICO SOBRE O RETORNO DE CARTA PRECATÓRIA. NECESSIDADE DE ANTECIPAÇÃO DO ATO QUE SERIA PRATICADO. ART. 272, § 8º, DO CPC/2015. CONCREÇÃO DO PRINCÍPIO CONSTITUCIONAL DA DURAÇÃO RAZOÁVEL DO PROCESSO. PRECLUSÃO DA ALEGAÇÃO DE NULIDADE. DOUTRINA SOBRE O TEMA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. INOVAÇÃO RECURSAL EM APELAÇÃO. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA CORTE SUPERIOR.
+1. Recurso originário de ação de busca e apreensão, ajuizada pelo rito do Decreto-Lei 911/1969, julgada procedente em primeiro e segundo graus de jurisdição.
+2. Alegação de nulidade do processo em virtude da ausência de intimação pessoal do defensor público acerca do retorno da carta precatória destinada à avaliação do veículo.
+3. Nos termos do art. 272, § 8º, do CPC/2015: "A parte arguirá a nulidade da intimação em capítulo preliminar do próprio ato que lhe caiba praticar, o qual será tido por tempestivo se o vício for reconhecido".
+5. Norma que dá concreção ao princípio constitucional da duração razoável do processo, evitando retrocesso da marcha processual para devolução de prazo.
+6. Limitação da possibilidade de anulação do processo para devolução de prazo processual apenas à hipótese de inviabilidade de acesso aos autos pela parte prejudicada (cf. art. 272, § 9º, do CPC/015), circunstância que não ocorreu no caso dos autos.
+4. Caso concreto que a parte interessada limitou-se a alegar a nulidade do processo nas razões da apelação, abstendo-se de já antecipar o ato processual que pretendia praticar, caso a intimação tivesse sido válida.
+5. Preclusão da alegação de nulidade do processo no caso concreto, em virtude da inobservância da regra do art. 272, § 8º do CPC/2015.
+(..)
+(REsp 1810925/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 08/10/2019, DJe 15/10/2019)
+Cito, no mesmo sentido, as seguintes decisões monocráticas: AREsp 1.768.281/PR, Rel. Ministra Nancy Andrighi, DJe 3/2/2021; AREsp 1.736.557RS, Rel. Ministro Antonio Carlos Ferreira, DJe 16/12/2020; AREsp 1.644.197/PR, Rel. Ministro Antonio Carlos Ferreira, DJe 16/12/2020.
+Incidente, no ponto, o óbice da Súmula 83/STJ, aplicável ao recurso especial interposto com base nas alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal.
+Ressalto, por fim, que a análise da ocorrência dos alegados prejuízos à parte, bem como a apreciação da alegação de que a parte não teve ciência inequívoca da prolação da sentença, exigiria o reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
