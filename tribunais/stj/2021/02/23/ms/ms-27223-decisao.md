@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por YASMIM FERRAZ SIMÕES DE FARIA, com fundamento no art. 105, I, b, da Constituição Federal,contra suposto ato ilegal atribuído ao MINISTRO DE ESTADODA CASA CIVIL,ao MINISTRO DE ESTADO DA JUSTIÇA E DA SEGURANÇA PÚBLICA e, ainda, ao MINISTRO DE ESTADO DA SAÚDE, consubstanciado na edição da Portaria interministerial n. 648, de 23/12/2020.
+Sustenta a impetranteque iria passar 14 dias em CANCUN com o namorado e amigos e, para tal fim, aduz que foi alugada uma casa, contudo, ao fazer a conexão no dia 3/1/2021 na Cidade do México, a impetrante foi detida pela imigração, sob o argumento, segundo sua narração, de que os documentos de aluguel da casa em CANCUN não estariam em seu nome.
+Narra que foi privada do uso de seus bens pessoais e que já estava há mais de 48 horas detida pela imigração do México.
+Contudo, em 4/1/2021, foi liberada a sua deportação para o Brasil, mas, na hora do embarque, alega que entraram em contato com o pai de seu namorado para avisar que ela não iria mais embarcar e iria continuar detida na imigração, uma vez que o Brasil exige o teste negativo da covid-19 para retorno ao país. Alega que a imigração do México não libera a impetrante para sair da área restrita e se dirigir a um laboratório para realizar o teste.
+Requer que seja concedida a liminar para que a autoridade brasileira competente entre em contato com a imigração mexicana, bem como com empresa aérea AEROMÉXICO, permitindo o regresso da impetrante sem a apresentação do exame negativo de covid-19, uma vez que é impossível de ser realizado, já que não é liberada da área restrita de deportação para tal exame.
+Em decisão unipessoal proferida em 7/1/2021 o em. Ministro Presidente deste Superior Tribunal concedeu a gratuidade de justiça, indeferindo, entretanto, o pedido de liminar (fls. 36/40). Foi determinado,ainda,a regularização da representação processual da impetrante.
+A UNIÃO requereu seu ingresso no feito (fl. 46).
+Informações das autoridades impetradas às fls. 50/71, 72/89 e 106/121.
+Contestação da UNIÃO às fls. 90/104.
+O Ministério Público Federal, em manifestação da ilustre Subprocuradora-Geral da República DARCY SANTANA VITOBELLO, devolveu os autos sem parecer, uma vez lhe foi dada vista do processo "sem informação sobre o cumprimento da determinação para a impetrante regularizar a representação processual" (fl. 127).
+Na petição de fl. 130, acompanhado do documento de fl. 131 (Certidão de Movimentos Migratórios expedida pelo Sistema de Tráfego Internacional da Polícia Federal), a UNIÃO aduz a perda superveniente do objeto da impetração, haja vista que "a impetrante reingressou no Brasil no dia 06 de janeiro de 2021" (fl. 130).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+Tendo em vista que a pretensão deduzida na presente impetração era no sentido de que as autoridades impetradas aviassem esforços de modo a permitir oretorno da impetrante ao território brasileiro e, outrossim, considerando-se que, nos termos da certidão de fl. 131 tal desiderato já restou efetivado, conclui-se, de fato, pela perda superveniente do objeto do writ.
+ANTE O EXPOSTO, declaro a perda superveniente do objeto do presente mandado de segurança e, via de consequência, denego a segurança, sem a resolução do mérito. Custas ex lege. Sem condenação em honorários advocatícios, nos termos do art. 25 da Lei 12.016/2009 e da Súmula 105/STJ.
+Dê-se ciência ao MPF.
+Publique-se. Cumpra-se.
