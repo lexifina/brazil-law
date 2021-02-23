@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por ADALBERTO RODRIGUES GUERRA e OUTROScontra decisão de inadmissibilidade de recurso especialfundado naalínea"a" do permissivo constitucional eque desafia acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO assim ementado (e-STJ fls. 232/242):
+TRIBUTÁRIO. APELAÇÃO. IMPOSTO DE RENDA. GANHO DE CAPITAL. CESSÃO DE PRECATÓRIO. FATO GERADOR. ACRÉSCIMO PATRIMONIAL.
+1. Sentença que denegou a segurança que objetivava ordem no sentido de que a autoridade Impetrada se abstivesse de cobrar Imposto de Renda na modalidade de capital pela alíquota de 15% (quinze por cento), incidente sobre as quantias que foram recebidas pelos Impetrantes em razão da venda com deságio de seus créditos incluídos no Precatório nº 2009.01475-2.
+2. O ganho de capital ocorre sempre que uma pessoa tem acréscimo patrimonial sem o dispêndio correspondente, em virtude de alienação de bens ou direitos de qualquer natureza, considerando-se como ganho a diferença positiva entre o valor de transmissão do bem ou direito e o respectivo custo de aquisição corrigido monetariamente.
+3. Com a cessão dos créditos dos precatórios, os cedentes efetivamente auferiram ganho de capital, na medida em que tiveram acréscimo patrimonial sem qualquer custo, ou seja, aumentaram seus patrimônios sem despenderem qualquer valor, já que não houve a disponibilização dos valores atinentes aos precatórios.
+4. A cessão do crédito previsto no precatório judicial está sujeita à tributação pelo imposto de renda não por se tratar de rendimento, e sim por haver ganho de capital pelo cedente, a teor do disposto no art. 3º, §3º. da Lei 7.713/88. submetendo-se, pois, à tributação do Imposto de Renda.
+5. Como consectário lógico, aplicando-se a regra inserta no art. 21 da Lei 8.981/1995, deve incidir a alíquota de 15% (quinze por cento) sobre o valor do ganho auferido, em razão da cessão do crédito espelhado no precatório, mesmo quando realizada com deságio.
+6. Em se tratando de direito creditício em perspectiva, o custo de aquisição será zero, nos termos do art. 16, §4º, da Lei 7.713/88, pois não existe preço ou valor anterior de aquisição.
+De consequência, a tributação terá como base de cálculo o valor efetivamente percebido através da cessão.
+7. Precedentes: APELREEX 00002934120134025102, Desembargadora Federal CLAUDIA NEIVA, Terceira Turma Especializada, DJE: 30/11/2016; APELREEX00433521920124025101, Desembargador Federal LUIZ ANTONIO SOARES, Quarta Turma Especializada, DJE: 13/12/2016.
+Não foram apresentados embargos de declaração.
+No especial,as partes alegam violação dos arts. 43 e 97, caput, do CTN,ao argumento de que, "se com a venda do precatório houve prejuízo (perda) de capital e não ganho (venderam-se os créditos privados por valor inferior ao de face, contido no PJ), não há que se falar em incidência de Imposto de Renda, diante da inexistência do fato gerador do tributo que se justificaria, apenas, no caso de diferença positiva entre o valor da alienação e o custo de aquisição" (e-STJ fl. 248).
+Contrarrazões apresentadas àse-STJ fls. 280/291.
+Parecer do MPF pelo provimento do agravo (e-STJ fls. 399/404).
+Passo a decidir.
+De início, registro que, conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feita essa consideração, cabe ressaltar que o recurso especialorigina-se de mandado de segurança impetrado por ADALBERTO RODRIGUES GUERRA e OUTROS contra ato praticado pelo Delegado da Receita Federal do Brasil no Rio de Janeiro, em que objetiva que a autoridade se abstenha de cobrar o Imposto de Renda sobre as quantias que foram recebidas pelos impetrantes em razão da venda com deságio de seus créditos incluídos no Precatório nº 2009.01475-2.
+Na primeira instância, a segurança foi denegada.
+Irresignados, os agravantes interpuseramrecurso de apelação, não provido pelo Tribunal de origem. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 234/238):
+Conheço do recurso porque presentes os pressupostos de admissibilidade.
+O precatório é uma ordem judicial em que a autoridade forense determina o pagamento ao credor de importância líquida e certa em razão de sentença condenatória transitada em julgado imposta a pessoa jurídica de direito público, que deverá incluí-lo na lei orçamentária anual. Portanto, configura um título judicial representativo de um crédito de titularidade da pessoa física ou jurídica que estabeleceu a lide contra o poder público.
+A cessão do precatório configura a cessão de um direito de crédito do seu titular para outrem.
+Pois bem, a questão consiste em saber a possibilidade de se tributar a cessão de crédito, oriundo de precatório judicial a ser pago por ente Estadual.
+Os Apelantes objetivam a não incidência do IRPF sobre o ganho de capital pela alíquota de 15% (quinze por cento), proveniente da cessão de crédito espelhado em precatório que lhe é devido pelo Estado do Rio de Janeiro, em razão da venda com deságio de seu crédito incluído no precatório n. 2009.01475-2.
+Sendo a verba auferida em questão proveniente de uma cessão de direitos de crédito, deve haver a incidência do imposto de renda a teor da regra preconizada pelo art. 21 da Lei n.º 8.981/95, á alíquota de 15%, in verbis:  ..
+Da mesma forma extrai-se do art. 1º da Lei 7.713, de 22 de dezembro de 1988, de que são tributados tanto o rendimento quanto o ganho de capital.
+ ..
+O referido diploma legal acima citado, dispõe em seu art. 3º, §§ 1º e 3º, o seguinte:
+ ..
+Com efeito, tratando-se de precatório judicial, ainda não houve a disponibilização plena do quantum condenatório a que fez jus o beneficiário, existindo apenas a expectativa do seu recebimento efetivo.
+Desse modo, não poderia, como de fato não é, a só existência do precatório judicial ser tributada a qualquer título, ainda quando se cuidar de rendimento (art. 12 da Lei 7.713), uma vez que inexiste a efetiva percepção financeira do valor consignado.
+Em sendo assim, a cessão do crédito previsto no precatório judicial, está sujeita à tributação pelo imposto de renda não por se tratar de rendimento, e sim por haver ganho de
+capital pelo cedente, a teor do disposto no art. 3º, §3º, da Lei 7.713/88, já citado, submetendo-se, pois, à tributação do Imposto de Renda. Assim, aplica-se a regra do art. 21 da Lei 8,981/1995, devendo incidir a alíquota de 15% (quinze por cento) sobre o valor do ganho auferido, em razão da cessão do crédito espelhado no precatório. realizada com deságio, sendo tal ganho apurado em separado e não integrando, ademais, a base de cálculo do Imposto de Renda na declaração de ajuste anual do cedente.
+A Alegação dos impetrantes de que houve perda e não ganhos com os créditos cedidos 415 em razão do deságio não deve prevalecer, isso porque, o que importa para o efeito, é que os Requerentes não precisaram gastar absolutamente nada para auferir a riqueza em tela.
+Com efeito, em se tratando de direito creditício em perspectiva, o custo de aquisição será zero, nos termos do art. 16, §4º, da Lei 7.713/88, pois não existe preço ou valor anterior de aquisição. De consequência, a tributação terá como base de cálculo o valor efetivamente percebido através da cessão.
+No caso, não há como acolher a tese de "que os Recorrentes não obtiveram ganho de capital a ser tributável tendo em vista que o valor alienação é inferior ao de aquisição do direito cedido", uma vez que houve a realização de um negócio jurídico (cessão onerosa), por opção, dos próprios cedentes no tocante a transmissão de seus créditos ao cessionário.
+Aliás, questão idêntica já foi apreciada nesta E.Corte:  ..
+Não desconheço que há precedentes contrários ao entendimento acima exposto, como por exemplo:  ..
+Contudo, reconheço a legalidade da incidência do Imposto de Renda sobre a receita recebida em razão da cessão de crédito judicial conforme demonstrado acima e, consequentemente, mantenho a r. sentença recorrida.
+Pois bem.
+Segundo a jurisprudência deste Superior Tribunal de Justiça, entende-se quea alienação de precatório com deságio não implica ganho de capital no preço recebido, motivo pelo qual não há que se falar em incidência da tributação pelo imposto de renda por ocasião do recebimento do preço pela cessão do referido crédito.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE RENDA.PRECATÓRIO. CESSÃO DO CRÉDITO. AUSÊNCIA DE GANHO DE CAPITAL POR OCASIÃO DA ALIENAÇÃO DO PRECATÓRIO COM DESÁGIO. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência desta Corte já manifestou entendimento de que o preço da cessão do direito de crédito e o efetivo pagamento do precatório traduzem fatos geradores de Imposto de Renda distintos.
+Porém, a ocorrência de um deles em relação ao cedente não excluirá a ocorrência do outro em relação ao próprio cedente. Assim, quanto ao valor recebido pela cessão do precatório, a tributação ocorrerá se e quando houver ganhos de capital por ocasião da alienação do direito.
+No entanto, é sabido que essas operações se dão sempre com deságio, não havendo o que ser tributado em relação ao valor recebido pela cessão do crédito. Precedentes: REsp. 1.704.367/RJ, Rel. Min.FRANCISCO FALCÃO, DJe 9.12.2019; AgInt no REsp. 1.768.681/RJ, Rel.Min. MAURO CAMPBELL MARQUES, DJe 11.12.2018.
+2. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no REsp 1716443/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/05/2020, DJe 25/05/2020)
+TRIBUTÁRIO. CESSÃO DE CRÉDITO DE PRECATÓRIO COM DESÁGIO. AUSÊNCIA DE GANHO DE CAPITAL APTO A ATRAIR A INCIDÊNCIA DO IMPOSTO DE RENDA.
+1. O Superior Tribunal de Justiça entende que a alienação de precatório com deságio não implica ganho de capital no preço recebido, sobretudo porque a incidência da tributação pelo Imposto de Renda na hipótese de pessoa física será via retenção na fonte por ocasião do pagamento do precatório. Precedentes: REsp 1.704.367/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 9/12/2019, e AgInt no REsp 1.768.681/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/12/2018.
+2. Recurso Especial provido.
+(REsp 1859259/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/03/2020, DJe 31/08/2020)
+TRIBUTÁRIO. CESSÃO DE CRÉDITO DE PRECATÓRIO COM DESÁGIO. IMPOSTO DE RENDA. AUSÊNCIA DE GANHO DE CAPITAL APTO A ATRAIR A INCIDÊNCIA DO IMPOSTO.
+I - Na origem, trata-se de mandado de segurança que pleiteia o reconhecimento do direito ao não pagamento de imposto de renda sobre os valores recebidos em razão da cessão de crédito de precatório com deságio. Na sentença, a segurança foi concedida. O Tribunal a quo deu provimento à remessa necessária e à apelação, reformando a sentença, para entender que "Quando o credor recebe, antecipadamente, o valor negociado com o terceiro na cessão de crédito, aufere um ganho, decorrente de um negócio jurídico. Esse ganho advém da diferença entre o patrimônio que possuía anteriormente à cessão de crédito e o que resultou do acréscimo quando do efetivo recebimento do montante negociado, sendo tal diferença compreendida como renda para fins de incidência do imposto".
+II - Nos casos de cessão de precatório só haverá tributação caso ocorra ganho de capital, o que não se verifica nos casos de alienação com deságio. Precedentes: AgInt no REsp n. 1.768.681/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/12/2018;
+REsp n. 1.505.010/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 9/11/2015; REsp n. 1.789.047/ RJ, Relator Ministro Herman Benjamin, DJe, 8/3/2019 e REsp n. 1.797.571/RJ, Relator Ministro Mauro Campbell Marques, DJe 1/3/2019.
+III - Recurso especial provido.
+(REsp 1704367/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 03/12/2019, DJe 09/12/2019)
+Na hipótese dos autos, o Tribunal de origem, em desconformidade com a orientação jurisprudencial desta Corte de Justiça, manteve a incidência do Imposto de Renda sobre a cessão do precatório judicial com deságio.
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, paraassegurar o direito dos impetrantes de não pagarem imposto de renda sobre os o valores recebidos em função da cessão de créditos do precatório indicado na petição inicial.
+Publique-se. Intimem-se.
