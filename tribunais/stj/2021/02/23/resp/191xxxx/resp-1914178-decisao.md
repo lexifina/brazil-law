@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL POR PARTE DA RÉ CONSTRUTORA. DEMORA PARA EFETUAR O REGISTRO DO IMÓVEL POR PARTE DA RÉ, ESTRUTURA CONSULTORIA. PARTE AUTORA QUE REQUEREU A DEVOLUÇÃO DA QUANTIA PAGA A TÍTULO DE TAXA DE OBRA, INDENIZAÇÃO POR DANOS MORAIS E POR LUCROS CESSANTES. SENTENÇA DE PARCIAL PROCEDÊNCIA QUE DETERMINOU A DEVOLUÇÃO DA QUANTIA PAGA A TÍTULO DE TAXA DE OBRA, BEM COMO O PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS. RECURSO DE AMBAS AS RÉS REQUERENDO A IMPROCEDÊNCIA DOS PEDIDOS.
+Evidente o atraso na entrega do imóvel, fato que justifica a condenação da ré construtora a ressarcir a quantia pagapelo autor a título de taxa de obra. Demora em efetuar o registro do bem por parte da ré Estrutura Consultoria que também restou demonstrada nos autos. Indenização por danos morais devida por ambas as rés. Falha na prestação do serviço evidenciada nos autos. Aplicabilidade da teoria do risco do empreendimento. Sentença irretocável.
+DESPROVIMENTO DOS RECURSOS.
+Os embargos de declaração opostos na origemforam rejeitados (e-STJ, fls. 470/482).
+No recurso especial, a parte recorrente alega ofensa aos artigos 489, § 1º,do Código de Processo Civil de 2015 e aos artigos 186e 927do Código Civil.
+Sustenta negativa de prestação jurisdicional acerca do reconhecimento da legitimidade. Aduz, para tanto, que "tendo em vista que a taxa de obra foi estabelecida no contrato de financiamento celebrado exclusivamente entre o recorrido e a Caixa Econômica Federal, é evidente que a recorrente não é parte do referido vínculo jurídico" (e-STJ, fl. 490).
+Sustenta ser indevida a indenização por danos morais em razão de mero descumprimento contratual.
+Sem contrarrazões (certidão de fl. 503, e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, anoto que o Tribunal estadual manifestou-se de forma clara sobre as questões e os pontos a respeito dos quais devia emitir pronunciamento, incluindo-se a análise sobre a legitimidade da recorrente para responder pela devolução da quantia paga a título de taxa de obra.
+Nenhum aspecto relevante para a solução da controvérsia deixou de ser examinado e a rejeição dos embargos de declaração não representou, por si só, recusa ou negativa de prestação da tutela jurisdicional adequada ao caso concreto, na medida em que as matérias ventiladas em tais embargos foram devidamente enfrentadas, estando bem delimitadas, no acórdão recorrido, as premissas fáticas em que apoiada a convicção jurídica formada e tendo sido feitos pelo julgador os esclarecimentos que lhe pareceram necessários, tudo isso de modo fundamentado.
+Não se pode falar, no caso, em ausência de fundamentação, senão em discordância da parte ora agravante com o teor do julgamento, considerando-se que os embargos referidos veicularam pretensão infringente, o que só se admite em hipóteses excepcionais, não presentes neste caso.
+Importante destacar que o julgador, ao expressar as razões de seu convencimento, não é obrigado a se pronunciar sobre todos os argumentos apontados pelas partes.
+Recordo outrossim que, "se os fundamentos do acórdão não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator Ministro Cesar Asfor Rocha, Primeira Turma, DJ 12/12/1994).
+Assim, não vejo razão para anular o julgado estadual.
+De outro lado, a jurisprudência deste Superior Tribunal entende que não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora/construtora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. Orienta, ainda, a jurisprudência que deve haver uma consequência decorrente do descumprimento contratual para caracterização dos danos extrapatrimoniais indenizáveis.
+Confiram-se, a propósito, os seguintes precedentes:
+CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO C/C INDENIZAÇÃO POR DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL. ABORRECIMENTO E DISSABOR. EXAME DAS PREMISSAS FÁTICAS DO ACÓRDÃO RECORRIDO. ENUNCIADO N. 7 DA SÚMULA DO STJ. NÃO INCIDÊNCIA.
+1. O simples descumprimento contratual, por si, não é capaz de gerar danos morais, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável pela sua gravidade.
+2. A Corte local, para reformar a sentença e julgar procedente o pedido de indenização por danos morais, concluiu que o atraso na entrega do imóvel, de aproximadamente 9 (nove) meses, por si, frustrou a expectativa do casal de ter um lar, causando, consequentemente, transtornos por não ter domicílio próprio. Com efeito, o Tribunal de origem apenas superestimou o desconforto, o aborrecimento e a frustração da autora, sem apontar, concretamente, situação excepcional específica, desvinculada dos normais aborrecimentos do contratante que não recebe o imóvel no prazo contratual.
+3. A orientação adotada na decisão agravada não esbarra no óbice contido no enunciado n. 7 da Súmula do STJ, tendo em vista que foram consideradas, apenas, as premissas fáticas descritas no acórdão recorrido.
+4. Agravo regimental desprovido.
+(AgRg no REsp 1408540/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 19.2.2015)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. COMPROMISSO DE COMPRA E VENDA. ENTREGA. ATRASO. DESCUMPRIMENTO CONTRATUAL. DANO MORAL. INEXISTÊNCIA. PRECEDENTES.
+1. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais.
+2. Na hipótese dos autos, a construtora recorrida foi condenada ao pagamento de danos materiais e morais, sendo estes últimos fundamentados apenas na demora na entrega do imóvel, os quais não são, portanto, devidos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 570.086/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27.10.2015).
+No presente caso, o acórdão recorrido não apontou maiores consequências com o descumprimento contratual além da frustração com o atraso na entrega do imóvel.
+Em face do exposto, dou parcial provimento ao recurso especial, apenas para afastar a condenação da recorrente ao pagamento de indenização por danos morais.
+Intimem-se.
