@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 402):
+APELAÇÃO CÍVEL - SEGURO DE VIDA - AÇÃO DE COBRANÇA - INVALIDEZ PERMANENTE PARCIAL POR ACIDENTE - PAGAMENTO A MENOR REALIZADO NA ESFERA ADMINISTRATIVA - RESPONSABILIDADE PELO REPASSE DAS INFORMAÇÕES ACERCA DO SEGURO - DEVER DA SEGURADORA, E NÃO DA ESTIPULANTE - SEGURADA QUE NÃO TEVE ACESSO AS CONDIÇÕES GERAIS NO MOMENTO DA CONTRATAÇÃO DO SEGURO, NEM TAMPOUCO FOI INFORMADA SOBRE A FÓRMULA DE CÁLCULO A SER REALIZADA PARA VERIFICAR O DEVIDO QUANTUM POR INVALIDEZ PARCIAL - SEGURADORA QUE NÃO SE DESINCUMBIU DO ÔNUS DE COMPROVAR O ACESSO PRÉVIO DA SEGURADA ÀS CONDIÇÕES GERAIS, ESPECIALMENTE À CLÁUSULA QUE ESTABELECERIA A PROPORCIONALIDADE DA INDENIZAÇÃO EM CASO DE INVALIDEZ PARCIAL - SENTENÇA ALTERADA - CONDENAÇÃO DA SEGURADORA AO PAGAMENTO DO VALOR TOTAL PREVISTO NA APÓLICE PARA O CASO DE INVALIDEZ PERMANENTE POR ACIDENTE (DESCONTANDO-SE O VALOR JÁ PAGO NA ESFERA ADMINISTRATIVA) - TERMO INICIAL DA CORREÇÃO MONETÁRIA - DATA DO PAGAMENTO A MENOR REALIZADO PELA SEGURADORA - JUROS DE MORA - A CONTAR DA CITAÇÃO (PLEITO DA AUTORA) - ÔNUS SUCUMBENCIAIS REDISTRIBUÍDOS.RECURSO DE APELAÇÃO PROVIDO.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 757 e 760do Código Civil,bem como divergência jurisprudencial.
+Sustenta quea indenização securitária, no caso, deve ser proporcional ao grau de invalidez da segurada, visto que as limitações previstas na apólice contratada foram devidamente informadas à recorrida, razão pela qual devem ser aplicadas as disposições contratuais que estipulam o pagamento deindenização proporcional ao grau deinvalidez parcial do segurado.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, observo que as normas dos arts. 757 e 760 do Código Civil não foram objeto de exame pela Corte de origem, muito menos foram opostos embargos de declaração para suprir eventual omissão do julgado quanto a esse aspecto. Desse modo, revela-se inviável, no recurso especial, a análise da apontada violação ao texto legal, ante a ausência de prequestionamento da matéria. Incidem, na espécie, portanto, os óbices previstos nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE REPRESENTAÇÃO COMERCIAL. ILEGITIMIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NECESSIDADE DE AVISO PRÉVIO. MATÉRIA JÁ DECIDIDA. PRECLUSÃO. COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não foram opostos embargos de declaração. A ausência do indispensável prequestionamento, requisito exigido inclusive para matéria de ordem pública, atrai, por analogia, o óbice das Súmulas 282 e 356 do STF.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.348.366/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020.)
+Quanto ao mais, verifico que o Tribunal de origem, ao decidir a controvérsia, amparou seu entendimento nas circunstâncias fático-probatórias inerentes à causa, conforme se depreende da fundamentação do acórdão recorrido (fls. 405-406):
+Relativamente ao valor da indenização devida a demandante, registre-se que não há nenhuma comprovação de que a segurada tenha tido acesso às condições gerais e específicas da apólice, bem como ao Certificado Individual, no momento da contratação do seguro, tanto é que precisou notificar a requerida, extrajudicialmente, para obtenção de referida documentação.
+Dessa forma, quando da contratação, tem-se que, de fato, a demandante não teve acesso a qualquer tabela ostensiva, ou critério de cálculo, bem como das hipóteses de invalidez e dos respectivos percentuais que limitam a indenização.
+Frise-se que era dever da seguradora requerida, comprovar que entregou à segurada as condições do seguro e que a mesma teve ciência da cláusula de proporcionalidade da cobertura em caso de invalidez parcial, ônus do qual não se desincumbiu.
+Destarte, considerando que a beneficiária não teve acesso à apólice e condições gerais, ou seja, as cláusulas restritivas de cobertura, incide, no presente caso, a regra insculpida nos artigos 46 e 47, ambos do Código de Defesa do Consumidor:
+Art. 46. Os contratos que regulam as relações de consumo não obrigarão os consumidores, se não lhes for dada a oportunidade de , ou se os respectivos tomar conhecimentos prévio de seu conteúdo instrumentos forem redigidos de modo a dificultar a compreensão de seu sentido e alcance.
+Art. 47. As cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor.
+Não comprovado o acesso da autora às Condições Gerais da Apólice, ou à disposição de que se aplicaria ao contrato a tabela da SUSEP, só a obrigam as informações repassadas no momento da adesão ao contrato.
+Assim, embora tenha sido constatada, de fato, a invalidez parcial da postulante, na hipótese excepcional dos autos, não há como adotar o critério baseado em Tabela de Grau de Invalidez, da qual a segurada não obteve prévia ciência.
+Isso, obviamente, não significa que os valores indenizatórios devem ser pagos indistintamentee sem levar em conta a proporção dos danos sofridos pelo beneficiário. Em outros termos, não se reputa abusivo o conteúdo da cláusula contratual em si. Ocorre que, no caso em tela, houve violação do direito de informação do consumidor (artigo 6.º, inciso III do Código de Defesa do Consumidor).
+Portanto, a r. Sentença, deve ser alterada, para o fim de condenar a requerida ao montante total segurado para o caso de invalidez permanente por acidente, qual seja, R$15.000,00 (descontando-se o valor já recebido pela autora), consoante Certificado Individual acostado ao Movimento Projudi n.º 1.9.
+A desconstituição de tais premissas, portanto, a fim de modificar o acórdão recorrido, tal como pretendido pela parte recorrente, demandaria o reexame do acervo fático-probatório dos autos, procedimento inviável em recurso especial, em face do óbice da Súmula 7 do STJ.
+Exemplificativamente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NECESSIDADE DE REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS N. 5 E 7/STJ.
+1. Recurso especial cuja pretensão demanda reexame de cláusulas contratuais e matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 868.328/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/02/2018, DJe 08/03/2018.)
+Ademais, a vedação da Súmula 7 do STJ impede, por semelhantes motivos, a análise da apontada divergência jurisprudencial.
+Em face do exposto, nego provimento ao agravo.
+Observados os limites previstos nos §§ 2º e 3º do art. 85 do CPC/2015, deixo de majorar os honorários advocatícios arbitrados em favor da parte recorrida, porque já foramestipulados no limite legal máximo.
+Intimem-se.
