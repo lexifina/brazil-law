@@ -1,0 +1,19 @@
+D E C I S Ã O
+    No dia 07 de dezembro de 2020, ao tempo em que concedi a medida cautelar pleiteada nesta reclamação, determinei a intimação da parte reclamante para que fornecesse o endereço de INTECHNE – Tecnologia da Informação LTDA, sob pena de extinção deste feito.
+    A determinação tinha por intuito integrar referida sociedade empresária à presente relação jurídica processual, uma vez que, conquanto não figure propriamente como parte beneficiária da decisão ora reclamada, sua esfera jurídica poderia ser afetada em decorrência de eventual acolhimento do pedido formulado nesta sede processual, haja vista discutir-se, nestes autos, acerca do seu direito de crédito em face do Município reclamante.
+    Contudo, a parte reclamante quedou-se inerte, não atendendo à determinação por mim exarada, tornando imperiosa a extinção deste feito, tal como advertida previamente.
+    Há mais, porém.
+    Supervenientemente à decisão concessiva da medida cautelar, a autoridade judiciária reclamada prestou as seguintes informações:
+    “No caso em tela, frustrada a execução de crédito trabalhista reconhecido em sentença em face da executada Intechne Tecnologia da Informação Ltda., foi informado pelo Município de São Luís, ora reclamante, acerca da existência de créditos retidos em decorrência de contrato de prestação de serviços terceirizados firmado entre ambos.
+    Na ocasião, entendeu este juízo que a determinação de disponibilização da importância em favor desta reclamatória não afrontava o art. 100 da Constituição Federal, decisão cautelar prolatada em dezembro de 2015. Após o trânsito em julgado da sentença condenatória, deferida nova cautelar no mesmo sentido em janeiro de 2018. Após reincidir no descumprimento da ordem, este juízo a reiterou, decisão datada de 27.03.2018.
+    Observe-se que todas essas decisões foram prolatadas quando a Suprema Corte ainda não havia firmado posicionamento sobre a matéria.
+    Posteriormente, já ciente do novo entendimento do Supremo, foi feito o seguinte esclarecimento ao Município, acerca dos bloqueios pretendidos:
+    ‘A ordem não visava penhorar verbas do ente público, obstando sua autonomia. O que se almejava, e talvez não tenha ficado claro, era que, no momento oportuno, após os tramites administrativos normais para a quitação de despesa pública, na iminência de eventual repasse de verbas devidas pelo Município de São Luís à empresa prestadora de serviço (Intechne - Tecnologia da Informação Ltda), o Município deveria efetuar a retenção do valor necessário à satisfação do crédito discutido nesta demanda, depositando-o em juízo, em prol deste processo.
+    Dito de outro modo: o Município, em havendo créditos da Intechne – Tecnologia da Informação Ltda (nota de empenho), deveria, no momento da liquidação /pagamento, reter o valor e depositálo em juízo, liberando o saldo, se existente, à Intechne – Tecnologia da Informação Ltda.’
+    Portanto, Excelência, este juízo não ignora, tampouco tem a pretensão de afrontar a decisão prolatada por esse douto juízo. Apenas entendeu que, da forma como foi acima explanado, o repasse dos créditos não importaria ofensa à necessidade de observância do regime de precatórios, evitando apenas o pagamento já autorizado pelo município a uma empresa devedora nesta Justiça Especializada.”
+    Os esclarecimentos prestados alteram significativamente o quadro processual antes por mim vislumbrado com base em cognição sumária. De fato, o ato reclamado não impôs constrição sobre receitas da Administração estadual, mas tão somente impôs à municipalidade o depósito em Juízo das verbas devidas à empresa executada, no momento avençado para o pagamento, respeitados o cronograma financeiro do ente público e sua autonomia orçamentária.
+    Em face do exposto, nego seguimento à presente reclamação.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 23 de fevereiro de 2021.
+Ministro NUNES MARQUES
+Relator
