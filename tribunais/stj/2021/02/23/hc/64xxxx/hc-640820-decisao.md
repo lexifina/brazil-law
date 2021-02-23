@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão que denegouwrit.
+Alega ilegalidade na custódia, diante da falta de reavaliação da prisão preventiva.
+Aduz que a paciente integra grupo de risco por ter asma e se encontrar em tratamento psiquiátrico.
+Afirma que possui os requisitos legais para responder o processo em liberdade.
+Requer,liminarmente e no mérito, a concessão da ordem a fim de que seja revogada a prisão preventiva ou concedida cautelares diversas da prisão.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento da impetração.
+É o relatório.
+DECIDO.
+A paciente foi presa preventivamentepela prática do delito do art. 33 da Lei 11.343/06.
+Inicialmente, verifica-se que amatériareferenteao trancamento da ação penalnão foi objetode análise pelo colegiado do Tribunal de origem. Então, essepontonão poderá ser conhecidopor esta Corte Superior, sob pena de indevida supressão de instância.
+Ressalte-se, por sua vez, que no procedimento do writ a prova deve ser pré-constituída e incontroversa. A peça inicial veio desacompanhada de cópia do decreto preventivo, documento indispensável ao deslinde da controvérsia.
+Ademais, os fundamentos da prisão preventiva e àsubstituição por medidas cautelares diversas da prisão já foram submetidos a julgamento no HC 625.447/PR, tendo sido indeferido liminarmente owrit,pela existência de fundamentação idônea no decreto prisional.
+Assim, no presente ponto,o presente writ constitui mera reiteração do HC impetrado anteriormente, cuja decisão transitou em julgado em 24/11/2020.
+No que tange à ofensa ao art. 316 do CPP, constou do acórdão impugnado o seguinte fundamento (fl. 116):
+De pronto, como se extrai do relatório, alega o impetrante a necessidade de ser observada, na espécie, a disposição do art. 316, parágrafo único, do Código de Processo Penal. Entretanto, bem é de ver que a paciente já teve sua prisão reanalisada na decisão que manteve a prisão preventiva outrora decretada, lançada no dia 08 de dezembro do corrente ano e acostada à mov. 186.1 dos autos principais.
+Por conseguinte, nesse ponto, o Habeas Corpus está prejudicado.
+O prazo de 90 dias para reavaliação da prisãopreventiva, determinadopelo art. 316, paragrafo único, do CPP, deve ser examinado pelo prismajurisprudencialmente construído de valoração casuística, observando ascomplexidades fáticas e jurídicas envolvidas, admitindo-se, assim,eventual e não relevante prorrogação da decisão acerca da manutenção danecessidade das cautelares penais.
+Cabe frisar que areavaliação da prisão preventiva, determinado peloart. 316,paragrafo único, do CPP, não é peremptório, de modo que "eventual atrasona execução deste ato não implica automático reconhecimento da ilegalidadeda prisão tampouco a imediata colocação do custodiado cautelar emliberdade" (AgRg no HC 592.026/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA,julgado em 15/09/2020, DJe 29/09/2020).
+Na espécie, prejudicado está o pleito relativo à violaçãodo art. 316,parágrafo único, do Código de Processo Penal, tendo em vista que, segundo consta do aresto atacado, já foi reavaliada em 8/12/2020,não havendo que se falar em ilegalidade na prisão.
+Em relação ao coronavírus, o Tribunal de origem assim referiu (fl. 116):
+Nesse sentido, não se ignora o atual cenário envolvendo o "COVID-19" - objeto, aliás, de intensa mobilização das instituições para garantir a segurança da população e impedir a transmissão da doença.
+Contudo, fato é que, ao menos até o presente momento, as informações trazidas aos autos não se revelam suficientes para atestar a imprescindibilidade do afastamento da medida extrema, especialmente quando comprovada a periculosidade concreta da paciente, tal como ocorre na espécie, conforme já decidido  1  nos autos de nº 0040450-66.2020.8.16.0000. Basta a conferência. Habeas Corpus Aliás, vale registrar que, a respeito do tema, o Plenário do Supremo Tribunal Federal, em acórdão datado de 18/03/2020, por maioria de votos, deixou de referendar a medida cautelar proferida monocraticamente pelo Ministro Marco Aurélio Mello, em tutela provisória incidental na ADPF nº 347/DF, por meio da qual havia aos magistrados e Tribunais do país o exame de medidas recomendado processuais a serem adotadas diante da pandemia do vírus em questão. Quanto ao CNJ, não passa de mera recomendação, não podendo o Conselho, por evidente, imiscuir-se na prestação jurisdicional.
+Cumpre ponderar que a crise mundial do Covid-19 trouxe uma realidade diferenciada de preocupação com a saúde em nosso país e faz ver como ainda de maior risco o aprisionamento - a concentração excessiva, a dificuldade de higiene e as deficiências de alimentação naturais ao sistemas prisional, acarretam seu enquadramento como pessoas em condição de risco.
+O Judiciário brasileiro permanece atuando, mas com redução de audiências e suspensão dos prazos, assim prolongando a conclusão dos feitos, daí gerando também maior risco pela demora das prisões cautelares.
+Nesse momento, configurada a dificuldade de rápida solução ao mérito do processo e o gravíssimo risco à saúde, o balanceamento dos riscos sociais frente ao cidadão acusado merece diferenciada compreensão, para restringir a prisão cautelar.
+Apenas crimes com violência, praticados por agentes reincidentes ou claramente incapazes de permitir o regular desenvolvimento do processo, poderão justificar o aprisionamento. Crimes eventuais e sem violência, mesmo com justificada motivação legal, não permitem a geração do grave risco à saúde pela prisão.
+Esse é o sentido da Recomendação n. 62/2020 do CNJ, arts. 1º e 4º:
+ ..  Art. 1º Recomendar aos Tribunais e magistrados a adoção de medidas preventivas à propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos estabelecimentos do sistema prisional e do sistema socioeducativo.
+Parágrafo único. As recomendações têm como finalidades específicas:
+I - a proteção da vida e da saúde das pessoas privadas de liberdade, dos magistrados, e de todos os servidores e agentes públicos que integram o sistema de justiça penal, prisional e socioeducativo, sobretudo daqueles que integram o grupo de risco, tais como idosos, gestantes e pessoas com doenças crônicas, imunossupressoras, respiratórias e outras comorbidades preexistentes que possam conduzir a um agravamento do estado geral de saúde a partir do contágio, com especial atenção para diabetes, tuberculose, doenças renais, HIV e coinfecções;
+II - redução dos fatores de propagação do vírus, pela adoção de medidas sanitárias, redução de aglomerações nas unidades judiciárias, prisionais e socioeducativas, e restrição às interações físicas na realização de atos processuais; e
+III - garantia da continuidade da prestação jurisdicional, observando-se os direitos e garantias individuais e o devido processo legal.
+ ..  Art. 4º - Recomendar aos magistrados com competência para a fase de conhecimento criminal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+I - a reavaliação das prisões provisórias, nos termos do art. 316, do Código de Processo Penal, priorizando-se:
+a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até doze anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência ou que se enquadrem no grupo de risco;
+b) pessoas presas em estabelecimentos penais que estejam com ocupação superior à capacidade, que não disponham de equipe de saúde lotada no estabelecimento, que estejam sob ordem de interdição, com medidas cautelares determinadas por órgão do sistema de jurisdição internacional, ou que disponham de instalações que favoreçam a propagação do novo coronavírus;
+c) prisões preventivas que tenham excedido o prazo de 90 (noventa) dias ou que estejam relacionadas a crimes praticados sem violência ou grave ameaça à pessoa;
+Desse modo, em consonância com as instâncias de origem, quanto à Resolução 62 do CNJ, não se verifica a presença dos requisitos nela disciplinados, tendo em vista que se trata de crime grave, bem como não há prova suficiente no sentido de que a paciente esteja no grupo de risco ou a contaminação dentro da unidade prisional quanto ao Covid-19 ou, ainda, de que no local em que se encontra não esteja recebendo assistência de saúde.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
