@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MITIGAÇÃO DA EXECUÇÃO PENAL. AUSÊNCIA DE ILEGALIDADE OU DE EXCEPCIONALIDADE QUE JUSTIFIQUE A CONCESSÃO DA ORDEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ateor do art. 34, XX, do RISTJ, é atribuição do relator decidir habeas corpus quando for inadmissível, o que está em conformidade com os princípios da efetividade, economia e celeridade processual.
+2. A guia de recolhimento provisória, expedida na pendência da apelação, é passível de modificação em virtude de recursos que couberem contra asentença penal condenatória. Não há fundamento jurídico para impedir o Juiz da VEC de modificar seus termos para efetivar as disposições de acórdão que aumenta a reprimenda do réu, a pedido da acusação.
+3. Além disso, em habeas corpus,é ônus do impetrante comprovarexcepcionalidade que justifique o pedido de providência humanitária. Não demonstradadebilidade clínicado sentenciado, impossibilidade de assistência à sua saúdeno cárcere ou situação preocupante de disseminaçãoda Covid-19 em unidade prisional do regime semiaberto, não é cabível desonerá-lo dos rigores do título penal.
+4. Agravo regimental não provido.
+RELATÓRIO
+WELITON CHALRES DOS SANTOSagrava da decisão de fls. 94-96, em que não conheci do habeas corpus. Argumenta, para tanto, que:
+ ..  caso o presente Habeas Corpus tivesse sido levado a julgamento pelo col. Órgão colegiado, a decisão final sobre o acerto (ou não) dos argumentos deduzidos pelo agravante poderia ter sido em outro sentido. Era imperioso que se oportunizasse à defesa a exposição das teses em sede de sustentação oral. Não o fazendo, a r. decisão agravada cerceia a defesa e, data vênia, padece de evidente nulidade.
+Requer a reforma do julgado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. MITIGAÇÃO DA EXECUÇÃO PENAL. AUSÊNCIA DE ILEGALIDADE OU DE EXCEPCIONALIDADE QUE JUSTIFIQUE A CONCESSÃO DA ORDEM. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ateor do art. 34, XX, do RISTJ, é atribuição do relator decidir habeas corpus quando for inadmissível, o que está em conformidade com os princípios da efetividade, economia e celeridade processual.
+2. A guia de recolhimento provisória, expedida na pendência da apelação, é passível de modificação em virtude de recursos que couberem contra asentença penal condenatória. Não há fundamento jurídico para impedir o Juiz da VEC de modificar seus termos para efetivar as disposições de acórdão que aumenta a reprimenda do réu, a pedido da acusação.
+3. Além disso, em habeas corpus,é ônus do impetrante comprovarexcepcionalidade que justifique o pedido de providência humanitária. Não demonstradadebilidade clínicado sentenciado, impossibilidade de assistência à sua saúdeno cárcere ou situação preocupante de disseminaçãoda Covid-19 em unidade prisional do regime semiaberto, não é cabível desonerá-lo dos rigores do título penal.
+4. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+A teor do art. 34, XX, do RISTJ, é atribuição do relator decidir habeas corpus quando for inadmissível, o que está em conformidade com os princípios da efetividade, economia e celeridade processual.
+Narra a petição inicial do writ queo paciente, em primeiro grau, foi condenado a cumprir pena no regime semiaberto. Durante aexecução provisória, em 9/12/2019, ele foi progredido ao regime aberto. Entretanto,o Tribunal de Justiça deu provimento ao apelo do Ministério Público, em 8/2/2020, e aumentou a sua sanção para8anos e 10 meses de reclusão,mais multa, por incursãonos arts. 33 e 35, ambos da Lei nº 11.343/06, no regime fechado.
+O Juiz da VEC, ao ser cientificado do aresto,fez novocálculo das penas e, à vista do saldoa cumprir, determinou a submissão do apenado ao regime semiaberto. A defesa acoima de ilegal a decisão. Argumenta que o sentenciadonão poder retornar ao cárcere, pois está fazendo tratamento médico e integra o grupo de risco de contágio da Covid-19.
+Verifiqueia falta de lastro jurídico para o pedido de desoneração da execução penal. Também não existe comprovação desituação excepcional, que justifique eventual providência de cunho humanitário. Não háprova de debilidade de saúde do sentenciado ou de alto risco de seu contágio pela Covid-19em unidade penal do regime semiaberto. Daí a inadmissibilidade do habeas corpus (art. 34, XX, do RISTJ).
+A finalidade do remédio constitucional é assegurar a liberdade do indivíduo, ameaçada por algum constrangimento ilegal. A decisão do Juiz da VEC, a seu turno, não é contrária à lei.A autoridade somente efetivou as disposições doacórdão estadual. Aexecuçãoera provisória ecomportava outra individualização após o julgamento da apelação. A sançãoque o paciente cumpria não era definitiva e, desde o início, havia uma expectativa de seu aumento, em face do recurso do Ministério Público.
+Não é possível dispensar o condenado de cumprir o aresto estadual, uma vez queo recurso especial(que o impetrante nem sequerprovou ter interposto)não tem efeito suspensivo.Com o novo cálculo das penas e o desconto do período já resgatado, é de rigor a readequação do regime prisional,à vista do saldo de sanção ainda acumprir.
+Além disso, apesar da evocaçãodos riscos decorrentes da pandemia do novo coronavírus, verifica-se que o sentenciadotem 32 anos de idade e não comprovou quadroclínicodebilitado, impossibilidade de assistência à sua saúde no cárcere ou, ainda, alta curva de disseminação da doença no local onde deverá permanecer segregado.
+O único atestado médico é datado de 16/3/2020 e faz referência à prescrição debroncodilatadorpara episódio de asma pre-existente. Nos dias de hoje, não é possível saber as condições clínicas do apenado nem qual será a unidade do regime semiaberto que o abrigará. É impossível antever seo sentenciadoserá recolhido em unidade com alta curva de casos de infecção pelaCovid-19, com alta probabilidade de não receber tratamento adequado. Trata-se deilegalidade futura e incerta, masowritnão se presta à impugnação de ato de hipótese.
+Consoante consignei na decisão agravada, adefesa deverá requerer ao Juiz da VECeventuais providências humanitárias relacionadas à pandemia daCovid-19.
+Nestes autos, contudo, não há excepcionalidade concreta que, por razão humanitária, autorizea concessão da ordem.
+À vista do exposto, nego provimento ao agravo regimental.
