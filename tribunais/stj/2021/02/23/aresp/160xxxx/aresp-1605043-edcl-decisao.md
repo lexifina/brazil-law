@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se embargos de declaração opostos por EDMUNDO DE SIMONEcontra decisão na qual reconheci a prescrição da pretensão punitiva em relação ao corréu Carlos Alberto Quelotti Villar (e-STJ fls. 2.842/2.843).
+Nos aclaratórios, o embargante alega omissão na decisão embargada, porquanto deixou dereconhecer aprescrição da pretensão punitiva em relação a ele, ora embargante, relativamente aos crimes de concussão, corrupção passiva e usurpação de função pública.
+É o relatório.
+Decido.
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão, inexistentes no caso.
+Isso, porque na decisão embargada foi reconhecidaa prescrição da pretensão punitiva em relação ao corréu Carlos Alberto Quelotti Villartendo em vista que ele peticionou especificamente para tanto, de modo que não havia obrigação de analisar a mesma situação em relação aos réus que não o fizeram.
+Vale lembrar que o cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos.
+De outro lado, verifico ser o caso de reconhecimento da prescriçãoda pretensão punitiva também em relação ao ora embargante. Senão, vejamos.
+O embargante foi condenado, em primeiro grau, em 28/5/2013, à pena de 3 anos de reclusão pelo delito do art. 316 do Código Penal (concussão); à pena de 4 anos de reclusão pelo crime do art. 317 do Código Penal (corrupção passiva); e à pena 3 meses de detenção como incurso no art. 328 do Código Penal (usurpação de função pública).
+O Tribunal de Justiça do Estado do Rio de Janeiro (Desembargadora Katya Maria de Paula Menezes Monnerat), em acórdão publicado em 11/6/2015 (e-STJ fl. 2030), o condenou, também, à pena de 2 anos de reclusãopela prática do crime do art. 288 do Código Penal (associação criminosa) - e-STJ fl. 2.022.
+Em 25/8/2015, o Tribunal a quo rejeitou os embargos de declaração opostos pelo réu e o acórdão foi publicado em 28/8/2015 (e-STJ fl. 2.208).
+Considerando o acórdão condenatório, em 28/8/015, como último marco interruptivo, nos termosdo recente entendimento desta Corte, em alinhamento ao Supremo Tribunal Federal, e do preconizado no EREsp n. 386.266/SP, quanto aos recursos não admitidos, vejo que é o caso de se reconhecer a prescrição da prescrição punitiva, no seguintes moldes:
+a) em relação ao delito de concussão (art. 316 do Código Penal), a pena aplicada, sem o aumento pela continuidade delitiva, foi de 2 anos de reclusão e tornou-se definitiva pois não houve recurso do Ministério Público. Assim, nos termos do art. 109, V, do Código Penal, transcorreram-se mais de 4 anos entre a publicação do último acórdão e a presente data;
+b) quanto ao crime de corrupção passiva (art. 317 do Código Penal) em relação à vítima Oleci Henrique Silva Junior, cuja pena foi de 2 anos (e-STJ fl. 1.556), porque, nos termos do art. 109, V, do CP, transcorreram-se mais de 4 anos entre a publicação do último acórdão e a presente data;
+c) no que tange ao crime do art. 328 do CP (usurpação de função pública), com pena de 3 meses de detenção, também vencido o prazo de 3 anos (CP, art. 109, VI) desde a publicação do último acórdão e a presente data;
+d) relativamente ao crime de associação criminosa (art. 288 do Código Penal), também prescrita a pretensão punitiva, pois a pena aplicada foi de 2 anos de reclusão (e-STJ fl. 2.022) e, nos termos do art. 109, V, do CP, transcorreram-se mais de 4 anos entre a publicação do último acórdão e a presente data.
+Quanto ao crime de corrupção passiva (art. 317 do Código Penal), em relação à vítima Edivan Alves, cuja pena foi de 2 anos e 8 meses (e-STJ fls. 1.554/1.555), não se pode reconhecer a prescrição pois não ultrapassado o prazo de 8 anos (art. 109, IV, do CP).
+Ante o exposto, rejeito os embargos de declaração. Declaro, ainda, extinta a punibilidade de EDMUNDO DE SIMONEpela prescrição da pretensão punitiva, nos termos ora delineados.
+Publique-se. Intimem-se.
