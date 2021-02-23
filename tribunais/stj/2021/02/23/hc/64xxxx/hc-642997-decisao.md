@@ -1,0 +1,16 @@
+DECISÃO
+DENER ARTEAGA DE ARAÚJO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul, que negou provimento à Apelação Criminal n. 0001739-76.2020.8.12.0008.
+Consta dos autos que o paciente foi condenado à pena de 8 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, III, ambos da Lei n. 11.343/2006.
+A defesa busca, por meio deste writ, seja aplicada em 1/6 a majorante descrita no inciso III do art. 40 da Lei de Drogas, e não em 1/3, como efetivado pelas instâncias ordinárias.
+A liminar foi indeferida e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus.
+Decido.
+Quanto ao aumento de pena efetivado na terceira fase da dosimetria, em razão da majorante relativa ao cometimento do delito nas dependências ou nas imediações de estabelecimentos prisionais, transcrevo, por oportuno, o disposto no referido artigo:
+Art. 40. As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se:
+ ..
+III - a infração tiver sido cometida nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de sedes de entidades estudantis, sociais, culturais, recreativas, esportivas, ou beneficentes, de locais de trabalho coletivo, de recintos onde se realizem espetáculos ou diversões de qualquer natureza, de serviços de tratamento de dependentes de drogas ou de reinserção social, de unidades militares ou policiais ou em transportes públicos;
+No caso, as instâncias ordinárias consideraram devida a aplicação da majorante no patamar de 1/3, "uma vez que o réu cometeu o delito durante o cumprimento da pena" (fl. 131 e fls. 262-263), circunstância que, de fato, justifica a exasperação da reprimenda em fração acima do mínimo previsto em lei.
+Não se pode olvidar que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, de maneira que, havendo as instâncias ordinárias fundamentado concretamente a exasperação da reprimenda na terceira fase da dosimetria, com base em argumentos idôneos e específicos dos autos - além de haver sido cometido no interior de estabelecimento prisional, o crime foi praticado durante o cumprimento da pena-, não vejo como acolher o pleito defensivo, em homenagem ao princípio do livre convencimento motivado.
+Conforme entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que, no entanto, não verifico caracterizada nos autos.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Publique-se e intimem-se.
