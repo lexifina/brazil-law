@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Cumprimento de sentença. Homologação de cálculos apresentados pela Contadoria Judicial. Cálculos incorretos. RMI. Incidência de valores devidos e não recolhidos no momento oportuno. Necessidade de exclusão de 20% dos menores salários-de-contribuição. CORREÇÃO MONETÁRIA.APLICABILIDADE DA LEI 11.960/09. Questão decidida pelo C. STF, no RE 870.947/SE(Tema 810 de repercussão geral), definindo o IPCA-E como índice de correção monetária das prestações em atraso, em substituição à TR, e fixando os juros moratórios segundo o índice de remuneração da caderneta de poupança. IGP-DI e, a partir de abril de 2006 o INPC, até 30/06/2009 e, a partir de então, o IPCA-E, bem o índice de remuneração da caderneta de poupança para os juros de mora, a partir da vigência da Lei 11.960/09.No momento da execução é que são definidos os parâmetros sob os quais será cumprido o título executivo, de acordo com a atual jurisprudência. Inexistência de coisa julgada.RECURSO PROVIDO EM PARTE
+A parte recorrente afirma que houvedivergência jurisprudencial, ofensa aos arts. 502 e 503 do CPC/2015 eviolação à coisa julgada.
+Contrarrazões às fls. 295-296, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3.2.2021.
+A irresignação não merece prosperar.
+O STJ entende que os índices decorreção monetáriae juros de mora, por constituírem matéria de ordem pública, podem ser modificados de ofício pelo magistrado.
+Assim, as alterações do art. 1º-F da Lei 9.494/1997, introduzidas pela Medida Provisória 2.180-35/2001 e pela Lei 11.960/2009, têm aplicação imediata a todas as demandas judiciais em trâmite, com base no princípio tempus regit actum.
+Com o mesmo entendimento os julgados seguintes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.VIOLAÇÃODOS ARTS. 489, § 1º, E 1.022, II, DO CPC/2015 NÃO CONFIGURADA. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 28,86%. AFERIÇÃO DO QUANTUM DEBEATUR. ALEGADO EXCESSO DE EXECUÇÃO. PRECLUSÃO. NÃO OCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA.
+1. Inexiste afronta aos arts. 489, § 1º, e 1.022, II, do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Quanto à preclusão, constitui matéria de ordem pública a adequação do valor executado, para se extirpar o excesso.
+Ressalte-se que, em se tratando de matéria de ordem pública, pode ser alegada na instância ordinária a qualquer tempo, podendo inclusive ser conhecida de ofício. Precedentes: AgInt nos EDcl no AgRg no AREsp 640.804/RS, Relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 28/2/2019 e AgInt no REsp 1.617.906/MG, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 21/5/2019.
+3. Agravo interno não provido. (AgInt no REsp 1.808.566/RS, Relator Ministro BENEDITO GONÇALVES, Primeira Turma, DJe 27/5/2020).
+PROCESSUAL CIVIL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. INEXISTÊNCIA. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. GDAP. JUROS DE MORA ECORREÇÃO MONETÁRIA.POSSIBILIDADE DE COMPLEMENTAÇÃO DA DECISÃO. MATÉRIA DE ORDEM PÚBLICA. AUSÊNCIA DE PRECLUSÃO OUCOISA JULGADA.CRITÉRIOS DE CÁLCULO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+ ..
+2. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "Quando da análise do pedido de efeito suspensivo, foi proferida a seguinte decisão: (..) No caso, como bem observou o juízo a quo, uma vez que o comando sentencial condenou a impetrada a uma obrigação de fazer (inclusão da GDAP aos proventos dos substituídos), não houve a determinação de inclusão dos consectários legais. No entanto, a obrigação não foi cumprida de imediato, o que justifica a incidência decorreção monetáriae juros de mora sobre as parcelas não pagas, a fim, inclusive, de evitar o enriquecimento sem causa do executado. Ademais, quanto ao período do cálculo, não procede a alegação de que a gratificação é devida somente a partir de maio de 2002, porquanto o mandamus foi ajuizado em fevereiro de 2002. (..) Portanto, a decisão agravada deve ser mantida por seus próprios e jurídicos fundamentos. (..)
+Inexiste razão para alterar o entendimento inicial, cuja fundamentação integra-se ao voto."
+3. Nos termos da jurisprudência do STJ, "a aplicação de juros ecorreção monetáriapode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação." (AgInt no REsp 1.353.317/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9/8/2017).
+4. Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+(REsp 1.804.669/SC, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 2/8/2019)
+Diante do exposto, nego provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
