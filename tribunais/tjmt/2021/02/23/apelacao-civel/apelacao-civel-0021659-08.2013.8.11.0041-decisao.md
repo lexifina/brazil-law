@@ -1,0 +1,36 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial interposto na Apelação Cível no 0021659-08.2013.811.0041
+Recorrente: MUNDIAL CONSTRUTORA EIRELI – EPP
+Recorrida: FCA FIAT CHRYSLER AUTOMOVEIS BRASIL LTDA
+Vistos.
+Trata-se de RECURSO ESPECIAL (id. 51178997) interposto por MUNDIAL CONSTRUTORA EIRELI – EPP, com fundamento no art. 105, III, alínea “a” e “c”, da Constituição Federal, contra acórdão da Quarta Câmara de Direito Privado deste Sodalício, que negou provimento ao seu recurso de apelação, conforme a seguinte ementa (id. 47702967):
+“APELAÇÃO CÍVEL – AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS, MORAIS E LUCROS CESSANTES – SENTENÇA DE IMPROCEDÊNCIA – CERCEAMENTO DE DEFESA – NÃO REALIZAÇÃO DE AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO – DESNECESSIDADE – PERÍCIA JUDICIAL REALIZADA – PREVALÊNCIA SOBRE A PROVA TESTEMUNHAL – PRELIMINAR REJEITADA – ANÁLISE DO SISTEMA DE CONTROLE ELETRÔNICO DO VEÍCULO – ACIDENTE CAUSADO POR SUPOSTO DEFEITO DO CÂMBIO – HIPÓTESE AFASTADA – RECURSO NÃO PROVIDO.
+Não ocorre cerceamento de defesa se o laudo, elaborado por perito judicial, foi utilizado como razão determinante para o resultado da Ação, o que prevalece sobre a prova testemunhal.
+Se a análise computadorizada do sistema de controle do motor e do câmbio Dualogic efetuada durante a perícia não demonstrou qualquer problema técnico que tenha motivado o acidente e tampouco o alegado vício oculto, não cabe indenização. (RAC n° 0021659-08.2013.811.0041, Rel. RUBENS DE OLIVEIRA SANTOS FILHO, QUARTA CÂMARA DE DIREITO PRIVADO, j. em 24/06/2020)”.
+A recorrente sustenta em suas razões que o acórdão deste Sodalício violou o art. 369 do CPC e art. 5, LV da CF/88, ao argumento de houve cerceamento de defesa ao decidir a lide antecipadamente, entendendo desnecessária a produção de provas pela recorrente.
+Recurso isento de preparo, ante a gratuidade de justiça (Certidão no id. 66409990). Contrarrazões (id. 69575987) pelo não seguimento do recurso.
+Certidão de intempestividade (id. 66373489).
+Intimado a se manifestar, a recorrente quedou-se inerte.
+É o relatório.
+Decido.
+Da Intempestividade do Recurso Especial
+Nos termos do art. 1.003, § 5o do CPC, o prazo para a interposição do Recurso Especial é de 15 (quinze) dias.
+Consta dos autos a Certidão (id. 66373489), no seguinte sentido:
+“Certifico que o acórdão foi disponibilizado no DJE em 26/06/2020 e considerado publicado em 29/06/2020, sendo interposto Recurso Especial fora do prazo legal. CERTIFICO ainda que inobstante o advogado da recorrente ter registrado ciência no sistema PJE em 09/07/2020, a intimação foi realizada pelo DJE”.
+Portanto, a questão está em se saber o termo inicial do prazo recursal.
+Nos termos da Lei no 11.419/2006 (art. 4o, §§ 3o e 4o), considera-se como data da publicação o primeiro dia útil seguinte ao da disponibilização da informação no Diário da Justiça Eletrônico, sendo que os prazos processuais terão início no primeiro dia útil que seguir ao considerado como data da publicação.
+Verifica-se que o acórdão (id. 47702967) foi disponibilizado no DJe em 26/06/2020 (sexta-feira), portanto, publicado em 29/06/2020 (segunda-feira). Assim, o prazo recursal (15 dias úteis) teve início em 30/06/2020 (segunda-feira), findando-se em 20/07/2020 (segunda-feira) – tal como certificado no id. 51123486.
+No que atine ao fato do sistema PJe ter registrado a ciência do acórdão em 09/07/2020, vale ponderar que Corte Superior já assentou entendimento no sentido de que quando há intimação eletrônica via sistema e publicação no DJe, prevalece esta última. A propósito, nesse sentido:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. INTEMPESTIVIDADE DO RECURSO ESPECIAL E DO AGRAVO NOS PRÓPRIOS AUTOS. DUPLICIDADE DE INTIMAÇÃO. PREVALÊNCIA DA PUBLICAÇÃO NO DIÁRIO DE JUSTIÇA ELETRÔNICO. PRECEDENTES. DECISÃO MANTIDA. 1. De acordo com a jurisprudência da Corte Especial do STJ, "deve prevalecer a intimação realizada pela imprensa oficial quando houver também a intimação pela via eletrônica" (AgInt nos EAREsp n. 1.448.288/RJ, Rel. Min. MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, j. em 18/12/2019, DJe 4/2/2020). (grifei).
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E MORAIS. RECURSO ESPECIAL. INTEMPESTIVIDADE. ALEGAÇÃO DE INTIMAÇÃO ELETRÔNICA. IMPOSSIBILIDADE. PREVALÊNCIA DA PUBLICAÇÃO PELO DIÁRIO DE JUSTIÇA ELETRÔNICO. AGRAVO INTERNO NÃO PROVIDO. 1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo no 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. Ocorrendo a intimação eletrônica e a publicação da decisão no diário oficial, prevalece esta última, uma vez que, nos termos da legislação citada, a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais. Precedentes. 3. Agravo interno não provido. (AgInt no AREsp 1633320/RJ, Rel. Min. MOURA RIBEIRO, Terceira Turma, DJe de 27/8/2020) (grifei).
+“PROCESSUAL CIVIL. RMS. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERPOSIÇÃO INTEMPESTIVA. NÃO CONHECIMENTO. PREVALÊNCIA DA PUBLICAÇÃO DO DIÁRIO DE JUSTIÇA ELETRÔNICO. PRECEDENTE DA CORTE ESPECIAL DO STJ. FALTA DE COMPROVAÇÃO DE FERIADO LOCAL. AGRAVO INTERNO NÃO PROVIDO. 1. A jurisprudência desta Corte é no sentido de que, ocorrendo a intimação eletrônica e a publicação da decisão no Diário Oficial, prevalece esta última, uma vez que a publicação em Diário de Justiça eletrônico substitui qualquer outro meio de publicação oficial para quaisquer efeitos legais. 2. A Corte Especial do Superior Tribunal de Justiça, chamada à interpretação do art. 1.003, § 6.o, do CPC/2015, consolidou o entendimento de que a comprovação da tempestividade do recurso deve ocorrer no ato de interposição, inclusive quanto aos eventuais feriados locais, pena de não conhecimento, não admitindo atuação corretiva posterior da parte. Inteligência do AREsp 957.821/MS, relatora para o acórdão a Em. Ministra Nancy Andrighi. 3. A mesma Corte Especial deliberou, com o julgamento do REsp 1.813.684/SP, relator para o acórdão o Em. Ministro Luís Felipe Salomão, que o feriado de segunda-feira de carnaval é também local e, portanto, exige comprovação por documento idôneo, com a ressalva, por modulação de efeitos, daqueles recursos interpostos anteriormente à publicação do acórdão do referido apelo raro, tal modulação não alcançando, contudo, outros feriados locais, como a quarta-feira de cinzas. 4. Agravo interno não provido. (AgInt nos EDcl no RMS 62.679/RJ, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, j. em 16/12/2020, DJe 18/12/2020)” (grifei)
+Diante disso, a interposição do recurso especial na data de 21/07/2020 (id. 51178997) se deu após o término do prazo legal, portanto, extemporânea.
+Ante o exposto, nego seguimento ao recurso especial, ante a sua manifesta intempestividade.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
