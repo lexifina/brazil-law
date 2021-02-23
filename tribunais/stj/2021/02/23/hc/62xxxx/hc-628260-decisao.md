@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdãoassim ementado (fls. 19-20):
+HABEAS CORPUS. PROCESSUAL PENAL.ART. 121, §2º, INCISOS II E IV, C/C ART. 29, AMBOS DO CÓDIGO PENAL. PEDIDO JÁ APRECIADO E JULGADO EM ANTERIOR Nº HABEAS CORPUS 8006510-77.2020.8.05.0000. ORDEM NÃO CONHECIDA. ALEGAÇÃO DE EXCESSO DE PRAZO. INOCORRÊNCIA.CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO.
+I- Perlustrando-se os autos, vislumbra-se a inviabilidade da cognição da presente impetração, haja vista que os argumentos suscitados foram, em sua integridade, analisadas nos autos do HC nº 8006510-77.2020.8.05.0000, impetrado em favor da ora Paciente, contra ato da mesma autoridade, apontada como coatora, em razão dos mesmos fatos.
+Com efeito, levando em consideração que o fulcro desta impetração afigura-se como mera reprografia das alegativas do writ anterior, o presente não deve ser conhecido nessa parte. mandamus II- No tocante ao alegado excesso de prazo, conforme extrai-se dos informes judiciais não há qualquer mora no feito que possa ser imputada ao Poder Judiciário, de modo que não há de ser acolhida a tese Defensiva.
+Ou seja, em suas informações prestadas, a Autoridade apontada como coatora noticia que a audiência de instrução e julgamento não foi realizada neste processo estritamente por força da pandemia.
+Percebe-se, portanto, que o feito originário seguia o seu curso regular até ver a sua marcha dificultada pela pandemia que atinge todo o mundo.
+Assim, inexistente indício de qualquer conduta da autoridade dita coatora que porventura tivesse atrasado, sem motivo justo, o andamento do feito, inviável o reconhecimento do excesso de prazo para formação da culpa.
+Além do mais, o adiamento dos atos processuais com base na necessidade de isolamento social a fim de minimizar a disseminação do novo Coronavírus, provém de caso fortuito ou de força maior, razão pela qual, não redunda em constrangimento ilegal, o que reforça a impossibilidade de relaxamento da prisão preventiva por excesso de prazo para formação da culpa.
+Assim, no caso concreto, constata-se que, pelas informações prestadas, não se verifica período de inatividade injustificada ou qualquer indício de desídia na sua condução, inexistindo excesso a ser reconhecido, ainda mais que o magistrado determinou a imediata inclusão deste feito em pauta de audiência de instrução para realização por meio de videoconferência.
+Manifestação DA PROCURADORIA de justiça PELO CONHECIMENTO PARCIAL DA ORDEM, E, NA PARTE CONHECIDA, PELA DENEGAÇÃO. ORDEM CONHECIDA PARCIALMENTE, E, NA PARTE CONHECIDA, PELA DENEGAÇÃO, COM A RECOMENDAÇÃO DE QUE O MAGISTRADO DE ORIGEM, DESIGNE, COM A MAIOR BREVIDADE POSSÍVEL, A AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO.
+A paciente encontra-se presa preventivamente por incursão noart. 121, §2º, incisos IIe IV, c/c art. 29, ambos do Código Penal
+Pretende-se o relaxamento da prisão preventiva ou a substituição por medidas cautelares alternativas ao cárcere, sob a alegação de excesso de prazo na instrução processual, pois a paciente está presa há 11 meses sem o início na instrução criminal.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+DECIDO.
+Com relação aos prazos consignados na lei processual, deve atentar o julgador às peculiaridades de cada ação criminal. De efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida coação.
+Na hipótese, consoante informações prestadas,verifica-se quefoi decretada a prisão preventivaem 19/12/2019.A denúncia foi recebida em 4/3/2020 e a paciente foi regularmente citada em 20/3/2020. Contudo, a defesa técnica não apresentou defesa preliminar, sob o fundamento da suspensão dos prazos processuais, em razão da situação de pandemia mundial, apesar de já decorridoquase um ano dacitação.
+Informou-se ainda quehouveo deferimento de prisão domiciliar à paciente, que foi posteriormente revogada, em razão do descumprimento de condição imposta, consistente em permanecer obrigatoriamente durante todo o tempo em sua residência.
+Portanto, não constatada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida, ainda mais tendo em vista o tempo de prisão (desde 19/12/2019) e apenaabstratapara ocrimeimputado.
+Ademais, embora ponderadas asdificuldades acarretadas pela pandemia,a defesa da pacientenão apresentou defesa preliminar, apesar de já decorridoquase um ano da citação, não podendo se beneficiar da alegação de excesso de prazo.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
