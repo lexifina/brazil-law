@@ -1,0 +1,22 @@
+DECISÃO
+OMINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULOinterpõe recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão doTribunal de Justiça daquele estado, na Apelação Criminal n. 1503745-62.2017.8.26.0536.
+Em suas razões, oParquetalega a violação doart. 59, 70 do Código Penal, bem como a existência de dissídio jurisprudencial, pois, "constatada a prática de violação a mais de uma vítima (ainda que da mesma família), por meio de uma só ação, há concurso formal de crimes" (fl. 453).
+Requer o provimento do recurso, para que seja aplicado o aumento pelo concurso formal e a consequente fixação do regime fechado.
+Apresentadas as contrarrazões (fls. 480-485) e admitido o recurso (fl. 488), veio o parecer doMinistério Público Federal, queopinou pelo seu provimento (fls. 497-503).
+Decido.
+Consta dos autos que o réu foi condenado pela prática de um delito de roubo majorado, contra duas vítimas. Em relação ao concurso de crimes, ficou consignado na sentença que "não se pode afirmar com segurança que lesionou dois patrimônios. Isso porque as vítimas são casadas entre si e seus patrimônios se confundem, salvo prova em contrário" (fl. 251).
+A Corte estadual manteve a ocorrência de crime único. Sobre o tema, registrou no acórdão que "foi atingido patrimônio único, vez que as vítimas são casadas e foram submetidas ao roubo em conduta única pelo acusado  ..  embora duas vítimas tenham sido indicadas, houve ataque a um só patrimônio, restando configurada apenas uma ação delituosa" (fl. 430).
+Saliento ser "assente neste Tribunal Superior que, praticado o crime de roubo mediante uma só ação, contra vítimas diferentes, não há se falar em crime único, mas sim em concurso formal, visto que violados patrimônios distintos. Precedentes." (HC n. 275.122/SP, Rel.Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+Ademais, com relação à alegação de existência de patrimônio comum, há julgado do Superior Tribunal de Justiça, relativo a roubo praticado contra casal, no sentido de que "o Direito Penal tutela bens e interesses jurídicos com autonomia e de um modo peculiar de outros ramos do direito. Assim, não se pode afirmar que o conceito de patrimônio na esfera penal, necessariamente, se equivale à definição contida no âmbito civil" (AgRg no REsp n. 1009998/RS, Rel. MinistroOg Fernandes, 6ª T., DJe 17/08/2011).
+Saliento, ainda, não ser caso de reexame de provas, haja vista que, em que pese a sentença concluir que não há provas da propriedade distinta dos patrimônios, registrou que foram subtraídos "uma bolsa contendo documentos pessoais, cartões bancários e um aparelho celular Samsung de propriedade da vítima E. R. A., bem como um aparelho celular pertencente ao ofendido R. A." (fl. 242).
+Assim, não obstante a discussão acerca da propriedade única dos bens do casal, no caso, verifico o roubo realizado a pertences de cada uma das vítimas.
+Por tais razões, entendo que deve ser reconhecido o concurso formal de crimes, nos termos da jurisprudência desta Corte Superior.
+Nesse sentido:
+ ..
+3. Nos termos da jurisprudência desta Corte Superior, não há falar em crime único quando, em um mesmo contexto fático, são subtraídos bens pertencentes a pessoas diferentes, ainda que da mesma família, incidindo, na espécie, a regra prevista no art. 70, primeira parte, do CP.
+4. Agravo regimental provido para, conhecendo do agravo em recurso especial, dar provimento ao recurso especial, a fim de restabelecer a sentença condenatória.
+(AgRg no AREsp n. 1.651.955/GO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 29/6/2020)
+Procedo, então, à nova dosimetria da pena.
+Partindo dos critérios adotados pelas instâncias ordinárias, verifico que a pena-base foi fixada no mínimo legal, 4 anos de reclusão, mais 10 dias-multa.Na segunda etapa, a pena foi elevada em 1/6pela idade das vítimas, o que totaliza 4 anos e 8 meses de reclusão, mais 11dias-multa. Na terceira fase, a pena foi elevada em 3/8, pelas majorantes do roubo, o que perfaz 6 anos e 5 meses de reclusão, mais 14 dias-multa. Por fim,aplico o aumento de 1/6, em razão do concurso formal, considerando a prática de dois roubos, o que torna a pena definitivamente estabelecida em7 anos, 5 meses e 25 dias dereclusão, mais 16 dias-multa.
+À vista do exposto, dou provimento ao recurso especial,a fim de reconhecer a incidência do concurso formal de crimes, redimensionando a pena para7 anos, 5 meses e 25 dias de reclusão, mais 16 dias-multa.
+Publique-se e intimem-se.
