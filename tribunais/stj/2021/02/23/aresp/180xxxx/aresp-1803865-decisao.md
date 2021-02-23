@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PIAUÍcontra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça daquela Unidade Federativa.
+Sustenta o Parquet, nas razões do recurso especial, violação do artigo 312, caput, do Código de Processo Penal.
+Aduz, em síntese, que estão presentes os requisitos para a prisão preventiva, porquanto "a soltura do recorrido expõe a risco a ordem pública, porque a habitualidade de seu envolvimento com as atividades relacionadas com o tráfico de drogas pela organização da qual faz parte permite concluir que ele voltará a se dedicar à difusão ilícita de entorpecentes" (e-STJ, fl. 157).
+Apresentadas as contrarrazões (e-STJ, fls. 166-168).
+O recurso foi inadmitido com fundamento no óbice da Súmula 7 do STJ (e-STJ, fls. 169-170). Daí este agravo (e-STJ, fls. 173-182).
+O Ministério Público Federal opinou pelo desprovimento do agravo (e-STJ, fls. 197-200).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+O Tribunal a quomanteve a revogação daprisão preventiva, nos seguintes termos:
+"Ao sopesar os documentos presentes na inicial, além das informações prestadas pela autoridade coatora e do parecer do ilustre representante do Ministério Público Superior, entendo que a ordem deve ser concedida, de forma definitiva, vez que inexiste demonstração clara e inequívoca acerca da imprescindibilidade do cárcere.
+Após o advento da Carta Constitucional de 1988 e, mais especificamente, da lei 12.403/11, a qual implementou significativas mudanças no Código de Processo Penal, a conservação da liberdade no curso ou desenrolar do processo é a regra, enquanto a prisão cautelar ganhou a conformação de medida de todo excepcional.
+A viabilidade da prisão preventiva demanda a valoração clara e precisa acerca do fumus comissi delicti, também e principalmente, do periculum libertatis. Este último elemento, por sua vez, representa uma condição na qual a liberdade do réu afrontará, inevitavelmente, a ordem pública, perturbará a instrução criminal ou dificultará a aplicação da lei penal (casos onde há ameaças à testemunha, perigo de reiteração criminosa, possibilidade de fuga, entre outros, conforme tem proclamado a iterativa jurisprudência sobre o assunto).
+A própria fundamentação jurídica carece de maior embasamento, eis que justifica a prisão com base na "especial gravidade" do crime de tráfico, o que viola flagrantemente o posicionamento da súmula 718 do STF. Essa constatação, entretanto, não serve como premissa, per si, para estabelecimento da constrição cautelar, senão quando demonstrado alguma das hipóteses estabelecidas no art. 312 do Código de Processo Penal.
+O decreto jurisdicional (ID. 827471) acaba silenciando sobre motivos outros que demandariam a necessidade imprescindível do encarceramento em prol de outras medidas cautelares.
+Generalidades como a gravidade do crime, as consequências potenciais do delito de tráfico de drogas e a necessidade da prisão para a aplicação da lei penal ou a garantia da ordem pública, sem o enfrentamento dos elementos do caso concreto, não servem para embasar a forte medida restrita de liberdade.
+Justamente para coibir tal arbitrariedade, tem-se exigido que a decretação da prisão cautelaresteja fundamentada em dados extraídos do inquérito policial ou da ação penal, como forma de justificar, efetivamente, a necessidade da relativização da inviolabilidade do direito à liberdade.
+Para melhor clareza, colhem-se os seguintes julgados:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.
+FUNDAMENTAÇÃO INIDÔNEA. ILEGALIDADE MANIFESTA. 1. A prisão se fundamentou apenas na natureza do crime e sua hediondez, que, em tese, impediria o cumprimento da pena em outro regime que não o fechado. 2. Circunstâncias que não suficientes para justificar a prisão preventiva. Ausência, no caso, de referências concretas ao fato em análise, tendo sido considerados apenas circunstâncias abstratas próprias do crime de tráfico de drogas. 3. Habeas corpus não conhecido. Ordem concedida de ofício. (STJ - HC 273330 SP 2013/0216870-9 -Rel.
+Min. Sebastião Reis Júnior - Sexta Turma - Julgado em 26.11.2013)
+HABEAS CORPUS - ROUBO - CONVERSÃO DA PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA - FUNDAMENTAÇÃO ABSTRATA - ILEGALIDADE - MEDIDAS CAUTELARES DIVERSAS - POSSIBILIDADE. 1. Diante do princípio da presunção de inocência ou da não culpabilidade previsto em nosso ordenamento jurídico, antes de uma sentença condenatória transitada em julgado, a regra é a liberdade, e a restrição provisória da liberdade, a exceção. 2.
+Não encontra amparo a decisão que converte a prisão em flagrante em prisão preventiva fazendo referência apenas à gravidade abstrata do delito. 3. Não existindo elementos nos autos que justifiquem a decretação da medida extrema, impõe-se a substituição da prisão preventiva por medidas cautelares diversas.
+4. Não caracteriza constrangimento ilegal a manutenção da segregação se a decisão que converteu a prisão em flagrante em preventiva está fundamentada na motivação arrolada na lei p r o c e s s u a l p e n a l : a r t . 3 1 2 d o C P P . ( T J / M G - H C 10000130604028000 MG - Rel. Denise Pinho da Costa Val - 6ª Câmara Criminal - Julgado em 01.10.2013)
+Afora isso, o acusado ostenta condições subjetivas favoráveis, tais como residência fixa, bons antecedentes e trabalho definido. Destaco, no entanto, que esta garantia não pode ser determinada incondicionalmente, de modo que mantenho as condições fixadas na liminar anteriormente deferidas, quais sejam:
+- Comparecimento semanal, preferencialmente às sextas-feiras do mês, para informar e justificar atividades (artigo 319, I, do CPP);
+- Proibição de manter contato com as pessoais que possam vir a servir como testemunha de acusação (artigo 319, III, do CPP) - Recolhimento domiciliar no período noturno e nos dias de folga (artigo 319, V, do CPP).
+CONCLUSÃO:
+Ante o exposto, em dissonância com o parecer exarado pelo ilustre representante do Ministério Público Superior, VOTO pela CONCESSÃO da ordem impetrada mediante as condições retro estabelecidas, em definitivo, devendo o réu livrar-se, solto, se por outro motivo não estiver preso.
+Saliento, ainda, que o magistrado a quo encontra-se legitimado a tomar as providências cabíveis em caso de descumprimento das medidas cautelares impostas" (e-STJ, fls. 139-140).
+Dos termos do acórdão combatido, infere-se que o Tribunal de origem, ao analisar os fatos e provas dos autos, entendeu que não se mostram presentes elementos concretos que pudessem justificar a custódia cautelar. Muito pelo contrário, entendeu ausentes os requisitos autorizadores da prisão preventiva e pontuou que "O decreto jurisdicional (ID. 827471) acaba silenciando sobre motivos outros que demandariam a necessidade imprescindível do encarceramento em prol de outras medidas cautelares.Generalidades como a gravidade do crime, as consequências potenciais do delito de tráfico de drogas e a necessidade da prisão para a aplicação da lei penal ou a garantia da ordem pública, sem o enfrentamento dos elementos do caso concreto, não servem para embasar a forte medida restrita de liberdade" (e-STJ, fl. 139).
+Assim, para desconstituir o entendimento firmado pela Corte Estadual, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Nesse sentido:
+"AGRAVO EM RECURSO ESPECIAL. PEDIDO DE PRISÃO PREVENTIVA. INDEFERIMENTO. RÉU FORAGIDO. FUNDAMENTAÇÃO INSUFICIENTE. REEXAME DE PROVAS. NÃO PROVIMENTO.
+1. Não é cabível, no âmbito do recurso especial, apreciar a fundamentação da decisão que indefere o pedido de prisão preventiva do réu, na hipótese De a decisão impugnada apresentar motivos suficientes para tal indeferimento, por se trata de fundamentação idônea e, portanto, demandar reexame de matéria de fato, matéria de prova, que encontra óbice na Súmula n. 7 do STJ.
+2. Agravo regimental não provido."
+(AgRg no AREsp 1534967/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020).
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PLEITO MINISTERIAL PARA RESTABELECER PRISÃO PREVENTIVA. IMPOSSIBLIDADE. SÚMULA 7/STJ.
+O pleito ministerial, no sentido de se verificar a comprovação dos requisitos elencados nos arts. 312 e 313 do Código de Processo Penal para restabelecer a prisão preventiva do ora agravado encontra óbice intransponível na Súmula n. 7 desta Corte, por implicar, necessariamente, no revolvimento do material fático-probatório delineado nos autos, providência incabível na via eleita.
+Agravo regimental não provido."
+(AgRg no AREsp 1132897/PA, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/11/2017, DJe 01/12/2017).
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
