@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de JOSE ANTONIO DA SILVA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado à pena de 5 (cinco) anos de reclusão, em regime fechado, e ao pagamento de 500 (quinhentos) dias-multa pela prática do delito tipificado no art. 33,caput, da Lei n. 11.343/2006 (e-STJ fls. 104/111).
+Segundo o apurado, ele foi surpreendido na posse de215ml (duzentos e quinze mililitros) de lança-perfumedistribuídos em 43 (quarenta e três)frascos transparentes, 57,5g (cinquenta e sete gramas e cinco decigramas) decocaína distribuídos em 82 (oitenta e dois) invólucros plásticos, 415,3g (quatrocentos e quinze gramas e três decigramas) decrackdistribuídos em 15 (quinze) pedrase 1,160kg(um quilo e cento e sessenta gramas) de maconhadistribuídos em 20(vinte) torrões, 1/2 (meio)tijolo, 74 (setenta e quatro) frascos e 406(quatrocentos e seis) invólucros plásticos.
+Interposta apelação, o Tribunal local deu parcial provimento ao recurso defensivopara fixar a pena-base no mínimo legal, porém, sem reflexo nas reprimendas finais (e-STJ fls. 199/213).
+Recebeu o acórdão esta ementa (e-STJ fl. 200):
+Apelação. Tráfico de drogas. Preliminar. Acordo de não persecução penal. Inviabilidade. Prisão efetuada por guardas municipais. Situação de flagrante. Inexistência de ilicitude. Prova. Suficiência. Materialidade e autoria comprovada. Condenação mantida. Pena. Pena-base fixada no mínimo legal. Aplicação do redutor previsto no artigo 33, §4º, da Lei nº 11.343/2006. Impossibilidade.Quantidade expressiva de drogas apreendidas.Substituição da pena privativa de liberdade. Vedação legal. Regime fechado mantido. Recurso parcialmente provido, mas sem reflexo nas penas.
+Nestewrit, a Defensoria Pública aponta constrangimento ilegal decorrente do cálculo dosimétrico e do regime prisional.
+Sustenta que, apesar de presentes os requisitos legalmente exigidos para a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006na fração máxima, as instâncias de origem utilizaram-se de argumentos inidôneos, bem como do montante dos entorpecentes apreendidospara não conceder o pretendido redutor.
+Pontua que, com a readequação da reprimenda, o regime deve ser alterado para o aberto, e a pena corporal substituída por medidas alternativas.
+Alega, ainda, que, na hipótese, o regime prisional fechado foi estabelecido com fulcro, apenas,na natureza hedionda do delito, em patente afronta ao disposto nas Súmulas n. 718 e 719 do Supremo Tribunal Federal.
+Por fim, assere a necessidade de reconhecimento do instituto da detração penal, nos termos do art.387, § 2º, do Código de Processo Penal, notadamente porque o réu encontra-se custodiado desde 11/10/2019.
+Dessa forma, requer, liminarmente e no mérito, a aplicação do redutor em seu grau máximo, com o abrandamento do regime para o aberto e a substituição da pena privativa de liberdade por restritivas de direitos. Subsidiariamente, pleiteia a alteração do regime prisional para o intermediário (e-STJ fls. 3/10).
+O pedido liminar foi indeferido (e-STJ fls. 227/228).
+Informações prestadas (e-STJ fls. 235/253).
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 258/262).
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Na hipótese, o Tribunala quoassim se manifestou (e-STJ fls. 210/213):
+Passo a análise das penas.
+Na primeira fase da dosimetria, em atenção ao artigo 42 da Lei nº 11.343/2006 e ao artigo 59 do Código Penal, a pena-base foi fixada em 06 (seis) anos de reclusão e pagamento de 600 (seiscentos) dias-multa, em razão da quantidade de drogas apreendida.
+Embora a quantidade e variedade de drogas sejam consideráveis, essas circunstâncias serão analisadas na terceira fase conforme posição do C. Supremo Tribunal Federal, em sede de repercussão geral (Recurso Extraordinário 666.334), que tais circunstâncias só podem ser valoradas em uma única fase da dosimetria ..
+Fixo, assim, a pena-base no mínimo legal de 05 (cinco) anos de reclusão e pagamento de 500 (quinhentos) dias-multa.
+Na segunda fase, embora reconhecida a atenuante da confissão espontânea, a reprimenda permanece inalterada, pois se encontra fixada no mínimo legal (Súmula 231 do Superior Tribunal de Justiça).
+Correto o afastamento da causa de diminuição do § 4.º do artigo 33 da Lei nº 11.343/2006, diante da grande quantidade de drogas apreendidas (215m1 de lança-perfume; 57,5g de cocaína; 415,3g de crack e 1.160,5g de maconha), que constitui indicativo da dedicação do acusado a atividades criminosas ..
+No mais, considerando o quantum da pena imposta e o disposto no artigo 387, §2º, do Código de Processo Penal, observa-se que oacusado permaneceu custodiado, da prisão em flagrante até a sentença, por 48 dias. Decotado esse tempo da pena imposta, o saldo que lhe resta a cumprir autorizaria, na apreciação exclusiva do § 2.º do art. 33 do Código Penal, a fixação de regime mais brando. Todavia, à luz do art. 59 do Código Penal, considerando a quantidade, variedade e natureza das drogas apreendidas, uma das quais implica grave risco à saúde pública (crack), adequada a imposição do regime fechado, que fica mantido ..
+Deixo de substituir a pena privativa de liberdade por restritiva de direitos e de conceder a suspensão condicional da pena por expressa determinação legal (artigo 44, inciso I, e artigo 77, caput, ambos do Código Penal).
+Diante do exposto, rejeitada a preliminar, DÁ-SE PROVIMENTO ao recurso de José Antonio da Silva, para fixar a pena- base no mínimo legal, porém, sem reflexo nas reprimendas finais.
+Mantém-se, no mais, a r. Sentença.(Grifei.)
+Delineada a situação fática, passo à análise das teses aviadas.
+Aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006
+De acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+Sob esse prisma, não vislumbro o alegado constrangimento ilegal, pois, consoante o excerto acima transcrito, foi demonstrado que o paciente praticava o delito de tráfico, comprovando, assim, a sua dedicação a atividades criminosas, razão pela qual foi afastado o pretendido redutor.
+Por outro lado, a desconstituição dos fundamentos adotados pelas instâncias ordinárias demandaria ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. ACUSADO QUE SE DEDICA À ATIVIDADE CRIMINOSA. AFERIÇÃO.REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE.MANUTENÇÃO DO REGIME PRISIONAL FECHADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+2. A Corte local deixou de aplicar a minorante respeitando os critérios legais estabelecidos pelo art. 33, § 4º, da Lei n. 11.343/2006 e, ainda, com observância aos pormenores da situação concreta, que demonstraram que o acusado dedica-se à atividade criminosa.
+3. Desconstituir os fundamentos adotados pelas instâncias ordinárias demanda ampla incursão no acervo fático-probatório dos autos, tarefa para a qual não se presta o habeas corpus.
+4. Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+5. Caso em que mantido o regime inicial fechado, tendo em vista a quantidade de droga apreendida em poder do acusado.
+6. Agravo regimental a que se nega provimento (AgRg no HC 586.297/SC, de minha relatoria, SEXTA TURMA, julgado em 01/09/2020, DJe 04/09/2020, grifei).
+Abrandamento do regime prisional
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para fixação do regime inicial de cumprimento da pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal).
+Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito, o que ocorreu no caso em apreço.
+Apesar de a pena-base ter sido estabelecida no mínimo e a pena final resultar em 5 (anos) de reclusão e 500 (quinhentos) dias-multa, o regime mais severo foi fundamentado no montante dasdrogas apreendidas -215ml (duzentos e quinze mililitros) de lança-perfume; 57,5g (cinquenta e sete gramas e cinco decigramas) de cocaína; 415,3g (quatrocentos e quinze gramas e três decigramas) de crack e1,160kg (um quilo e cento e sessenta gramas) de maconha-,o que justifica o recrudescimento do regime.
+A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. MINORANTE. NÃO APLICAÇÃO. REGIME INICIAL FECHADO. QUANTIDADE E DIVERSIDADE. ENTORPECENTES APREENDIDOS. AGRAVO IMPROVIDO.
+ ..
+2. Fixada a pena em patamar superior a 4 anos e considerada a quantidade e a diversidade dos entorpecentes apreendidos, o regime inicial fechado é o cabível para o cumprimento da pena reclusiva. Precedentes.
+3. Agravo regimental improvido (AgRg no REsp 1.831.274/MG, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2019, DJe 19/12/2019, grifei).
+Aplicação do instituto da detração
+No caso em apreço, o Tribunal originário destacou que" ..  oacusado permaneceu custodiado, da prisão em flagrante até a sentença, por 48 dias. Decotado esse tempo da pena imposta, o saldo que lhe resta a cumprir autorizaria, na apreciação exclusiva do § 2º do art. 33 do Código Penal, a fixação de regime mais brando. Todavia, à luz do art. 59 do Código Penal, considerando a quantidade, variedade e natureza das drogas apreendidas, uma das quais implica grave risco à saúde pública (crack), adequada a imposição do regime fechado, que fica mantido" (e-STJ fl. 212),fundamento que se encontra em consonância com o entendimento firmado por esta Casa.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. ..  FIXAÇÃO DE REGIME PRISIONAL. EMPREGO DE FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE ILEGALIDADE. REGIME FECHADO FIXADO COM BASE NA GRAVIDADE CONCRETA. DETRAÇÃO PENAL IRRELEVANTE.AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. Do mesmo modo, a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal ou de outro dado que demonstre a extrapolação da normalidade do tipo.
+5. No caso dos autos, as instâncias ordinárias justificaram a fixação do regime inicial fechado, afirmando que: "(..) o roubo foi praticado contra carro de praça, simulando-se o pedido por meio de aplicativo, em concurso de 05 agentes, sendo aplicada violência física contra a vítima pelas costas (um golpe "mataleão"). Portanto, não se verifica ilegalidade na escolha do regime prisional, pois apresentada fundamentação idônea.
+6. Ademais, "Inexiste ilegalidade no regime prisional imposto ao recorrente - fechado -, não obstante a pena definitiva tenha ficado em patamar inferior a 8 (oito) anos de reclusão, tendo em vista a valoração negativa de circunstâncias judiciais previstas no art. 59 do Código Penal" (AgRg no REsp 1867993/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/5/2020, DJe 19/5/2020).
+7. A fixação do regime inicial fechado não decorreu do montante de pena aplicada, sendo que, eventual detração penal, não influenciaria na escolha do regime prisional.
+8. Agravo regimental desprovido (AgRg no REsp 1872933/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 08/09/2020, DJe 15/09/2020, grifei).
+Ante o exposto,denego a ordem dehabeas corpus.
+Publique-se. Intimem-se.
