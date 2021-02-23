@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário interposto por Raimundo Othoniel Mancur de Azevedo contra o acórdão do Tribunal Regional Federal da 1ª Região, que denegou a segurança pleiteada, ementado nos seguintes termos (fls. 72/73):
+PENAL. PROCESSO PENAL. MANDADO DE SEGURANÇA. INDEFERIMENTO DE PRODUÇÃO DE PROVA DOCUMENTAL E PERICIAL. REDISCUSSÃO DE DÉBITO FISCAL. DECISÃO COM FUNDAMENTAÇÃO ADEQUAÇÃO. LEGALIDADE DO ATO PRATICADO. ORDEM DENEGADA.
+1. O mandado de segurança visa à proteção de direito líquido e certo contra ato abusivo ou ilegal de autoridade pública, aí incluída a judicial, não podendo ser utilizado contra ato judicial em relação ao qual caiba recurso próprio. Na hipótese, como não cabe recurso da decisão que indeferiu a produção de prova documental e pericial, é de se admitir o mandado de segurança.
+2. Esgotada a via administrativa, competente em razão da matéria, e que importou o lançamento fiscal, e não sequenciada a discussão na via judicial própria, não pode a discussão acerca da existência do lançamento tributário (an debeatur), que importou a conclusão de sonegação fiscal, ser reaberta no âmbito do processo penal, sem falar que o procedimento administrativo fiscal que deu base à denúncia foi juntado na sua integralidade. À esfera penal não incumbe (re) discutir, na perspectiva de erro, as conclusões do lançamento fiscal definitivo, submetido, por sua vez, no seu tempo, ao contraditório administrativo. Nas circunstâncias evidenciadas pela decisão impetrada, não se perfaz o direito liquido e certo à produção da prova.
+3. Denegação da ordem de segurança.
+Narram os autos que o Juízo Federal da 1ª Vara de Guanambi/BA indeferiu, nos autos da Ação Penal n. 000799-03.2017.4.01.3309, pedido de produção de prova pericial e a expedição de ofício à Receita Federal do Brasil, sem prejuízo da juntada de eventuais documentos por parte do réu (fl. 38).
+Aponta o recorrente a existênciade manifesto cerceamento de defesa, sustentando que a autoridade coatora asseverou apenas que o Processo Administrativo Fiscal estaria em apenso e demonstraria o desenrolar de todo contencioso administrativo, restando claro assim, o indeferimento das provas, em claro cerceamento de defesa, pelo que se busca seja concedida a segurança pleiteada para se determinar a inserção no processo judicial de piso do procedimento administrativo fiscal com todos os documentos entregues pelo recorrente, assim como se autorizar a realização de prova pericial, que está englobada no requerimento de produção de provas por todos os meios em direito admitidos (fl. 92).
+A insurgência é manifestamente descabida.
+Com efeito, o Superior Tribunal de Justiça tem jurisprudência no sentido de que o cabimento de mandado de segurança contra decisão judicial é admitido somente de forma excepcional, quando se tratar de ato manifestamente ilegal ou teratológico e não houver instrumentos recursais próprios da via ordinária, previstos na legislação processual, de modo a impedir lesão ou ameaça de lesão a direito líquido e certo, cuja comprovação dispensa instrução probatória.
+Na presente hipótese, trata-se de decisão proferida pelo Juízo Federal da 1ª Vara de Guanambi/BA, nos autos da Ação Penal n. 000799-03.2017.4.01.3309, que indeferiu a produção de prova requerida, em face da qual caberia a impetração de habeas corpus, o que não foi observado pelo recorrente.
+Nesse sentido:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. NÃO CABIMENTO. MATÉRIA PRÓPRIA DE HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE DE MUNIÇÃO DE USO PROIBIDO OU RESTRITO. AUSÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO QUE NÃO ABSOLVEU SUMARIAMENTE O RECORRENTE. FUNDAMENTAÇÃO SUFICIENTE. INDEFERIMENTO DE PROVAS. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. RECURSO ORDINÁRIO DESPROVIDO.
+I - Nos termos do art. 5º, inciso LXIX, da Carta Magna, só é cabível mandado de segurança para proteger direito líquido e certo não amparado por habeas corpus ou habeas data.
+II - A via adequada para impugnar decisão que recebeu a denúncia, não absolveu sumariamente o recorrente e indeferiu a produção de provas da defesa é o habeas corpus. E, não se observando, de plano, patente ilegalidade no ato reprochado, inviável a concessão de writ de ofício. (Precedentes).
+ ..
+(RMS n. 47.774/SP, Ministro Felix Fischer, Quinta Turma, DJe 4/5/2016)
+Dessa forma, incide à espécie o óbice da Súmula 267/STF:
+Não cabe mandado de segurança contra ato judicial passível de recurso ou correição.
+Em reforço, confira-se a decisão monocrática proferida no RMS n. 60.320/RJ, Ministro Jorge Mussi, DJe 27/6/2019.
+Outrossim, é consolidado no Superior Tribunal de Justiça o entendimento de que a utilização do mandado de segurança contra ato judicial é admitida, excepcionalmente, desde que o referido ato seja manifestamente ilegal ou revestido de teratologia, o que não é o caso dos autos. (AgRg no RMS n. 27.675/RN, Ministro Nefi Cordeiro, Sexta Turma, DJe 3/11/2015 - grifo nosso).
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do recurso ordinário em mandado de segurança.
+Publique-se.
+EMENTA
+PENAL. PROCESSO PENAL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INDEFERIMENTO DE PRODUÇÃO DE PROVAS. WRIT IMPETRADO COMO SUCEDÂNEO DE MEIO DE IMPUGNAÇÃO PRÓPRIO (HABEAS CORPUS). INADEQUAÇÃO DA VIA MANDAMENTAL. SÚMULA 267/STF.
+Recurso ordinário em mandado de segurança não conhecido.
