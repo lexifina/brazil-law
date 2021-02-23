@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porBANCO BRADESCO S.A. contra decisãoem que se conheceu do agravo para dar provimento ao recurso especial do Município de Inocência - MS.
+A parte embargante alega, em síntese, que há omissões na decisão monocrática por não ter apreciado acertadamente os argumentos do recurso especial fazendário, bem como quanto aos requisitos de admissibilidade do recurso, em especial, quanto à Súmula 7 do STJ.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observonãohaver vício de integração a ser sanado.
+Contrariamente ao alegado nos embargos de declaração, os fundamentos do recurso especial foram devidamente referidos na decisão monocrática e considerados nas conclusões ali adotadas.
+Com efeito, a edilidade afirma em seu recurso especial quea impossibilidade de se obrigar ao fisco exequente a aceitar a substituição de penhora em dinheiro por seguro garantia sem a demonstração concreta e específica pelo executado de que a manutenção da penhora em dinheiro acarretará maior gravame.
+Estes fundamentos estão descritos na decisão embargada, que consignou expressamente que"a garantia da Execução Fiscal por fiança bancária ou seguro-garantia não pode ser feita exclusivamente por conveniência do devedor, quando a Fazenda Pública recusar em detrimento do dinheiro, o que só pode ser admitido se a parte devedora, concreta e especificamente, demonstrar a necessidade de aplicação do princípio da menor onerosidade" (AREsp 1547429/SP, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/12/2019, DJe 25/05/2020).
+Vê-se que estes elementos foram considerados pela decisão impugnada, na qual se consignou ainda que aCorte estadual determinou a substituição da garantia ao fundamento da possibilidade de eventual prejuízo ao executado na manutenção da penhora em dinheiro, sem que fossem apresentados elementos concretos e específicos do excesso de onerosidade na manutenção do gravame, motivo pelo qual o acórdão deveria ser cassado, uma vez que incompatível com a jurisprudência do STJ sobre o tema.
+Dito isso, não há falar em necessidade de reexame de fatos ou provas dos autos, uma vez que toda discussãoversa acerca da existência de obrigatoriedade do fisco exequente aceitar asubstituição de penhora em dinheiro por seguro garantia sem a demonstração concreta e específica pelo executado de que a manutenção da penhora em dinheiro acarretará maior gravame. Assim, é inaplicável o óbice da Súmula 7 do STJ.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
