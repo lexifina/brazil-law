@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Agravo de decisão que não admitiuRecurso Especial interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO Execução Fiscal Auto de Infração e Multa Exercícios de 2.011 e 2.012 - Exceção prévia de executividade rejeitada Alegada nulidade das CDA"s por não indicar os dispositivos legais adotados como base para a autuação Erro formal passível de emenda ou substituição Art. 2º, § 8º, da LEF Súmula nº 392 do STJ Ocorrência de prescrição extintiva do crédito Notificação do lançamento ocorrido em 26/01/2011 Ajuizamento da ação em 03/03/2016 Prescrição consumada nos termos do Decreto nº 20.910/32 Decisão reformada - Recurso provido em parte, com observação.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega violação dos arts. 489 e 1.022 do CPC/2015 e do art. 2º, § 8º, da Lei 6.830/1980.
+Sem contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.1.2021.
+No julgamento dos Embargos de Declaração,a Corte estadualasseverou:
+Com efeito, os embargos declaratórios se prestam a explicitar ou integrar decisório falho e não em face de legislação aplicável para obter, por via transversa, novo julgamento com resultado favorável às teses do embargante  RJTJESP Lex 126/373, RTJ 120/773, 121/260, 123/149, 134/836, 147/687 e RT 670/198  nem se exige exame pontual e exaustivo acerca de todos os dispositivos invocados. Assim, em que pese o inconformismo com o resultado do julgamento, a douta Turma Julgadora debateu e decidiu a questão relativa à inocorrência de nulidade da CDA: De fato, as Certidões de Dívida Ativa apenas mencionam a cobrança dos tributos, sem especificar os dispositivos legais da Lei Municipal nº 2.993/1.992, que teriam servido de base para a autuação da agravante e sem indicação do número do procedimento administrativo originário. Contudo, a extinção do processo seria prematura porque não a Municipalidade não foi intimada para, querendo, emendar ou substituir a CDA, em consonância com o artigo 2º, § 8º, da LEF, que assim dispõe: Até a decisão de primeira instância a Certidão de Dívida Ativa poderá ser emendada ou substituída, assegurada ao executado a devolução do prazo para embargos. No mesmo sentido enuncia a Súmula 392, do STJ: A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução.
+Diferentemente do que alega a embargante, inexistiu intimação da Municipalidade para substituir os títulos viciados, não bastando para tanto o despacho que intima o exequente para se manifestar sobre a objeção prévia de executividade. Assim, inexiste falha no Acórdão, sendo inegável o caráter infringente destes embargos, interpostos ao arrepio do artigo 1022, do CPC/2015 que ficam rejeitados. (fls. 155-156, e-STJ)
+Não se configura a alegada ofensa aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+O órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+A parte não pretende aferir a interpretação da norma legal supostamente tida como violada, mas buscar a reanálise do conjunto fático-probatório dos autos.
+O acolhimento da pretensão recursal, para desconstituir o que foi decidido pelo acórdão recorrido, demanda o reexame do contexto fático-probatório, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
