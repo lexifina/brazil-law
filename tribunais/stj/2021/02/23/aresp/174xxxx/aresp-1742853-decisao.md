@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo interposto por TREC-MAQ LOCAÇÃO DE MÁQUINAS E SERVIÇOS LTDA.contra decisão doTribunal Regional Federal da 3ª Região que inadmitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, oqualdesafiaacórdãoassim ementado (e-STJ fls. 167/168):
+AGRAVO INTERNO. APELAÇÃO EM EMBARGOS À EXECUÇÃO FISCAL. DÉBITOS QUITADOS. ILEGALIDADE DA MULTA MORATÓRIA. NULIDADE DA CDA. PRESCRIÇÃO INTERCORRENTE.ALEGAÇÕES DA APELANTE REJEITADAS. DECISÃO MANTIDA.AGRAVO IMPROVIDO.
+1. A Fazenda Pública tem o prazo de cinco anos para cobrar judicialmente o débito, através da propositura da ação de execução do crédito tributário devido, sendo o prazo contado da sua constituição definitiva. O prazo prescricional pode ser interrompido ou suspenso, nos termos dos arts. 174, parágrafo único e 151, ambos do CTN.
+2. Proposta a ação para a cobrança judicial da dívida e interrompida a prescrição pela citação pessoal do devedor, de acordo com o art. 174, I, do CTN com a redação anterior à Lei Complementar nº 118/05, ou, atualmente, pelo despacho que ordenar a citação, pode acontecer do processo ficar paralisado, o que dá causa à prescrição intercorrente.
+3. No caso vertente, compulsando os autos, observo que em 26/08/1999 a União Federal requereu a suspensão da execução por 120 dias, para a análise da documentação apresentada pela executada na esfera administrativa.
+O próximo andamento processual ocorreu somente em 19/09/2012, com o despacho que determinou a manifestação da exequente sobre o prosseguimento do feito.
+4. Nada obstante o longo transcurso de tempo, não ocorreu a prescrição intercorrente, porquanto o pedido de adesão ao parcelamento Refis interrompeu o prazo prescricional, que só voltou a correr com a exclusão da embargante do parcelamento. A embargante aderiu ao Refis em 24/04/2000, tendo sido excluída do parcelamento em 01/06/2008, por inadimplência, conforme comprova o extrato juntado ,aos autos. Cumpre observar que talquestão já foi abordada e rejeitada nos autos da execução fiscal, em sede de exceção de pré-executividade.
+5. As indagações da agravante nas razões deste recurso foram adrede dirimidas, consoante supramencionado, não havendo elementos novos capazes de alterar o entendimento externado na decisão monocrática.
+6. Agravo interno improvido.
+Sustenta a parte recorrente, além de divergência entre julgados,contrariedade aoart. 174, parágrafo único, IV, do CTN, sob o argumento de que "ajurisprudência é clara no sentido de que o REFIS somente suspende a exigibilidade do crédito tributário após a homologação pelo Comitê Gestor, e não no momento da adesão, como quer fazer crer o V. Acórdão, contrariando a jurisprudência dominante do Superior Tribunal de Justiça" (e-STJ fl. 181).
+Segue afirmandoque "não se aplica o art. 174, do CTN, como quer fazer crer o v. acórdão, uma vez que este apenas interrompe prazo prescricional para débitos ainda não ajuizados. Contudo, no presente caso, já foi proposta a ação executiva, sendo certo que a mera adesão ao parcelamento não interrompe a prescrição, pois a ação já está iniciada" (e-STJ fl. 187).
+Contrarrazões às e-STJ fls. 233/248.
+O recurso especial foi inadmitido na origem (e-STJ fls. 250/252).
+Passo a decidir.
+Inicialmente, cumpre registrar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+Considerado isso, a jurisprudência deste Tribunal Superior é pacífica no sentido de que a adesão a programa de parcelamento de crédito fiscal ou o seu mero requerimento, mesmo que indeferido o pedido, são causas de interrupção da contagem do prazo prescricional, por configurarem inequívoca confissão extrajudicial do débito, nos termos do art. 174, parágrafo único, IV, do CTN, que prevê:
+Art. 174. A ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva.
+Parágrafo único. A prescrição se interrompe:
+(..)
+IV - por qualquer ato inequívoco ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor.
+Nesse sentido, confiram-se as seguintes ementas de julgados de ambas as Turmas que compõem a Primeira Seção deste Tribunal:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. PEDIDO DE PARCELAMENTO TRIBUTÁRIO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL.
+1. A jurisprudência desta Corte já se pronunciou no sentido de que o pedido de parcelamento interrompe o prazo prescricional, por constituir reconhecimento inequívoco do débito, nos termos do art.174, parágrafo único, IV, do CTN, ainda que o parcelamento não tenha sido efetivado.
+2. Agravo interno não provido.
+(AgInt no REsp 1.489.548/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 07/12/2016).
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. PARCELAMENTO DO CRÉDITO TRIBUTÁRIO NA VIA ADMINISTRATIVA. INTERRUPÇÃO DA PRESCRIÇÃO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO PELA CORTE DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA. DESPROPORCIONALIDADE NÃO CARACTERIZADA.
+ ..
+III - O parcelamento do crédito tributário na via administrativa é causa de interrupção do prazo prescricional, que volta a fluir no momento do inadimplemento da parcela.
+ ..
+VI - Agravo Regimental improvido.
+(AgRg no REsp 1390631/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 12/04/2016, DJe 20/04/2016).
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. PARCELAMENTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL.
+1. O parcelamento da dívida tributária enseja a interrupção - e não a suspensão - do prazo prescricional, o qual recomeça a contar por inteiro a partir do inadimplemento. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1482236/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/11/2014, DJe 04/12/2014).
+Importa destacar que é firme o entendimento desta Corte Superior de que, na hipótese de descumprimento do acordo celebrado, o termo inicial da recontagem do prazo prescricional quinquenal é a data do inadimplemento das parcelas, sendo irrelevante a data da intimação do contribuinte relativa à exclusão do acordo celebrado.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. VIOLAÇÃO AO ART. 535 DO CPC. INOCORRÊNCIA. EXECUÇÃO FISCAL. CRÉDITO TRIBUTÁRIO. PARCELAMENTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. INADIMPLEMENTO. REINÍCIO DA CONTAGEM. APLICAÇÃO DA SÚMULA 83/STJ.
+ ..
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual uma vez interrompido o prazo prescricional em razão da confissão do débito e pedido de seu parcelamento por força da suspensão da exigibilidade do crédito tributário, o prazo volta a fluir a partir da data do inadimplemento do parcelamento.
+ ..
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.573.429/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 13/09/2016, DJe 21/09/2016).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. JUNTADA DE DOCUMENTOS. ART. 398 DO CPC. AUSÊNCIA DE INTIMAÇÃO DA PARTE ADVERSA. PREJUÍZO. FALTA DE DEMONSTRAÇÃO. QUESTÃO DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. ENUNCIADO SUMULAR 282/STF. PREMISSA FÁTICO-PROBATÓRIA FIXADA PELA CORTE DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. COBRANÇA DE CRÉDITO TRIBUTÁRIO. PRAZO PRESCRICIONAL. PARCELAMENTO. INTERRUPÇÃO. REINÍCIO. DESCUMPRIMENTO DO ACORDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+VI. A jurisprudência desta Corte é firme no sentido de que o "prazo da prescrição, interrompido pela confissão e pedido de parcelamento, recomeça a fluir no dia em que o devedor deixa de cumprir o acordo celebrado, momento em que se configura a lesão ao direito subjetivo do Fisco, dando azo à propositura do executivo fiscal" (STJ, AgRg no REsp 1.167.126/RS, Rel. Min. MAURO CAMPBELL MARQUES, Segunda Turma).
+VII. Agravo Regimental não provido (AgRg no REsp 1.468.778/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/02/2015, DJe 05/03/2015).
+No caso dos autos, o Tribunal de origem atuou em perfeita harmonia com a orientação da jurisprudência do Superior Tribunal de Justiça, ao deixar de reconhecer a ocorrência de prescrição na hipótese.
+Do voto condutor do julgado transcrevo o seguinte excerto, que bem demonstra essa compreensão (e-STJ fls. 165/166):
+No caso vertente, compulsando os autos, observo que em 26/08/1999 a União Federal requereu a suspensão da execução por 120 dias, para a análise da documentação apresentada pela executada na esfera administrativa. O próximo andamento processual ocorreu somente em 19/09/2012, com o despacho que determinou a manifestação da exequente sobre o prosseguimento do feito (fls. 27/28).
+Nada obstante o longo transcurso de tempo, não ocorreu a prescrição intercorrente, porquanto o pedido de adesão ao parcelamento Refis interrompeu o prazo prescricional, que só voltou a correr com a exclusão da embargante do parcelanzei2to.
+De fato, a embargante aderiu ao Refis em 24/04/2000, tendo sido excluída do parcelamento em 01/06/2008, por inadimpléncia, conforme comprova o extrato juntado à fl. 97.
+Aliás, cumpre observar que tal questão já foi abordada e rejeitada nos autos da execução fiscal, em sede de exceção de pré-executividade, que deu origem ao Agravo de Instrumento n" 0003200-34.2016.403.0000, a mim distribuído, perante o qual assim decidi:
+Da análise das peças acostadas ao presente agravo, verifico que o processo de execução fiscal revela que a execução fiscal foi ajuizada em 04.11.1998, com citação da empresa devedora em 25.11.1998.
+A executada/agravante informou sua adesão a programa de parcelamento do débito (fls.40/43), e a Fazenda exequente requereu a suspensão do feito em 23/10/2002 em razão da adesão da parte ao REFIS (f1.49/50). O feito foi remetido ao arquivo pelo magistrado de primeiro grau em 11/02/2003 (fl.51), e assim permaneceu até 06/12/2008, quando foi desarquivado mediante manifestação da executada/agravante (fl.53).
+Por sua vez, o extrato de informações gerais da inscrição, trazido ao feito executivo pela Fazenda agravada, indica que a pessoa jurídica devedora permaneceu inclusa no referido programa no período de 24.04.2000 a 01.06.2008.
+A adesão do contribuinte a Programa de Parcelamento do Débito representa ato inequívoco de reconhecimento dos débitos, que possui eficácia interruptiva do prazo prescricional, nos termos do inciso IV, parágrafo único do art. 174 do CTN.
+Entendo que a mera opção pelo parcelamento implica em inequívoco reconhecimento extrajudicial dos débitos pelo devedor, e enseja a suspensão do feito executivo durante todo o período de pagamento das - parcelas acordadas.
+Em havendo descumprimento do acordo realizado, ou não homologação do acordo, com a consequente rescisão administrativa do parcelamento, a referida execução terá seu curso retomado. Inteligência da Súmula n.º 248 do extinto TFR: O prazo da prescrição interrompido pela confissão e parcelamento da dívida fiscal recomeça a fluir no dia em que o devedor deixa de cumprir o acordo celebrado.
+Tão logo desarquivado o feito e intimada a Fazenda agravada (fl. 55), esta deu prosseguimento ao frito visto que o acordo de parcelamento já havia sido indeferido.
+Nesse passo, tenho que não transcorreu o lapso prescricional intercorrente previsto no art. 40 da Lei n." 6.830/80, e nem restou configurada a manifesta desídia da Fazenda Pública em promover os atos processuais tendentes à satisfação do crédito.
+Por fim, a eventual apreciação de recurso especial, fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional), mostra-se inviável quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; e c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente deixou de realizar o cotejo analítico, visto que se limitou a transcrever diversos julgados tidos como paradigma, sem especificar as nuances que envolveriam o caso concreto, não atendendo, portanto, aos pressupostos específicos necessários para aconfiguração do dissenso jurisprudencial, previstosnos arts. 541, parágrafo único, do CPC/1973, e 255, §§ 1º e 2º, do RISTJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem honorários recursais sucumbenciais (art. 85, § 11, do CPC/2015), à vista da ausência de condenação de honorários advocatíciosna origem.
+Publique-se. Intimem-se.
