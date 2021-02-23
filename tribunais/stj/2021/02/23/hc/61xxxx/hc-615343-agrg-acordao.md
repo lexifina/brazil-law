@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. DOSIMETRIA. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. INVIABILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. HABEAS CORPUS INDEFERIDO LIMINARMENTE.
+1. O habeas corpus é sucedâneo de revisão criminal e, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pela paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+2. No tocante ao reconhecimento do tráfico privilegiado, não visualizo manifesta ilegalidade, tendo o Tribunal afastado o benefício diante de todo o contexto fático-probatório que evidencia a dedicação e o envolvimento da paciente com a atividade criminosa, verificando-se a apreensão de grande quantidade e diversidade de drogas (aproximadamente 20 kg de maconha, cocaína e crack, além de eppendorfs e balança de precisão, instrumentos comumente empregados pelos traficantes para suas atividades rotineiras).
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Samara Angelina Moraes ingressa com agravo regimental, inconformada com a decisão de fls. 84/86, assim ementada:
+HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. DROGAS. DOSIMETRIA. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+Habeas corpus indeferido liminarmente.
+Alega-se no agravo regimental que a paciente preenche todos os requisitos subjetivos exigidos no art. 33, § 4º, da Lei 11.343/06, pelo que não poderiam as instâncias precedentes inadmitir a aplicação da redução sem "fundamentação clara". Afirma que a quantidade de drogas apreendidas deveria orientar apenas na fixação da pena, não podendo ser utilizada, cumulativamente, como pretexto para a não concessão do redutor descrito no § 4º do art. 33, em percentual máximo, porque essa solução traduziria bis in idem.
+Parecer do Ministério Público Federal pelo desprovimento do agravo regimental (fl. 104):
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. NARCOTRÁFICO. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE POR VALORAÇÃO NEGATIVA DE QUANTIDADE/NATUREZA DA DROGA (20KG DE COCAÍNA E CRACK). REDUTOR DO ARTIGO 33, §4º DA LEI ESPECIAL. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADE ILÍCITA. NE BIS IN IDEM. PARECER PELO DESPROVIMENTO DO AGRAVO REGIMENTAL.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. DOSIMETRIA. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. INVIABILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. HABEAS CORPUS INDEFERIDO LIMINARMENTE.
+1. O habeas corpus é sucedâneo de revisão criminal e, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pela paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+2. No tocante ao reconhecimento do tráfico privilegiado, não visualizo manifesta ilegalidade, tendo o Tribunal afastado o benefício diante de todo o contexto fático-probatório que evidencia a dedicação e o envolvimento da paciente com a atividade criminosa, verificando-se a apreensão de grande quantidade e diversidade de drogas (aproximadamente 20 kg de maconha, cocaína e crack, além de eppendorfs e balança de precisão, instrumentos comumente empregados pelos traficantes para suas atividades rotineiras).
+3. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): O inconformismo não prospera.
+Consta dos autos que a paciente foi condenada à pena de 10 anos de reclusão, em regime fechado, mais o pagamento de 1.000 dias-multa, como incursa no art. 33 da Lei n. 11.343/2006 (21 tijolos de maconha, pesando 18.135 gramas; 156 porções da mesma droga, com peso de 95 gramas e 56 invólucros de maconha, pesando 240 gramas; 814 eppendorfs de cocaína, pesando 520 gramas; 277 pedras de crack, com peso de 49 gramas; 2 invólucros de cocaína, pesando 40 gramas).
+Requer-se a revisão da dosimetria, com a redução da pena-base e a aplicação do redutor previsto no § 4º do art. 33 da Lei de Drogas.
+Ocorre que já houve o trânsito em julgado da condenação. Assim, o presente habeas corpus é sucedâneo de revisão criminal, e como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pela paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido. Confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ.
+SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019).
+ ..  1. O habeas corpus foi impetrado contra acórdão do Tribunal de Justiça do Estado de São Paulo transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.  ..  (HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Outrossim, no tocante ao reconhecimento do tráfico privilegiado, não visualizo manifesta ilegalidade, tendo o Tribunal afastado o benefício diante de todo o contexto fático-probatório que evidencia a dedicação e o envolvimento da paciente com a atividade criminosa, verificando-se a apreensão de grande quantidade e diversidade de drogas (aproximadamente 20 kg de maconha, cocaína e crack, além de eppendorfs e balança de precisão, instrumentos comumente empregados pelos traficantes para suas atividades rotineiras).
+Também não há falar em bis in idem, tendo em vista que o afastamento do redutor previsto no § 4º do art. 33 da Lei de Drogas não se deu exclusivamente em razão da quantidade de drogas, admitindo a jurisprudência, nessa hipótese, a utilização desse fundamento também para elevar a pena-base.
+Nesse contexto, a tese jurídica, como apresentada, deve ser analisada com mais profundidade em sede adequada perante o Tribunal de origem.
+Nego provimento ao agravo regimental.
