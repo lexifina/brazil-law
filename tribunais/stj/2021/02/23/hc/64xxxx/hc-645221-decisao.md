@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 21):
+Apelação Criminal Roubo majorado Crime praticado em concurso de agentes - Sentença condenatória pelo artigo 157, § 2º, inciso II, do Código Penal.
+Recurso defensivo buscando a absolvição por insuficiência probatória. Subsidiariamente, pleiteia a imposição do regime semiaberto para o início do cumprimento da pena.
+Materialidade e autoria delitiva do crime de roubo comprovadas Negativa do réu isolada - Vítima que o reconheceu nas duas fases da persecução criminal Apreensão da motocicleta subtraída em poder do acusado no dia seguinte à ocorrência do roubo. Depoimento das testemunhas policiais firmes e coerentes. Provas francamente incriminadoras.
+Dosimetria da pena - Pena-base assentada no mínimo legal.
+Na etapa intermediária, embora presente a atenuante da menoridade relativa, não houve redução da pena, já fixada no mínimo legal, nos termos da Súmula 231 do STJ. Na derradeira fase, exasperação decorrente da majorante do concurso de agentes.
+Regime inicial fechado mantido, eis que justificado.
+Inviável a substituição da pena privativa de liberdade por penas restritivas de direitos ou até mesmo sursis, por falta de amparo legal.
+Recurso desprovido.
+Expedição de mandado de prisão oportunamente.
+Consta dos autos que o paciente foi condenado pela prática do crime previsto no art. 157, § 2º, II, do CP, à pena de 5 anos e 4 meses de reclusão, em regime inicial fechado, além do pagamento de 13 dias-multa.
+Interposta apelação, o recurso defensivo foi desprovido.
+No presente writ, o impetrante alega a existência de constrangimento ilegal por ausência de justa causa e nulidade da decisão que fixou o regime fechado para início do cumprimento da pena imposta ao Paciente.
+Requer, assim, liminarmente que o paciente seja colocado em liberdade e, no mérito, pugna pela concessão da ordem a fim de que seja determinada a fixação do regime inicial semiaberto para o cumprimento da pena que foi imposta ao Paciente.
+É o relatório.
+DECIDO.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Quanto ao regime prisional, as instâncias ordinárias assim se pronunciaram:
+Sentença (fls. 18-19):
+O réu iniciará o cumprimento da pena em regime fechado, mais apropriado diante da presença da qualificadora do concurso de agentes e da gravidade do crime praticado (art. 33, § 3º, do CP). Com efeito, tal regime é o único que se mostra adequado à consecução das finalidades da sanção penal, considerada a gravidade do delito e circunstâncias nas quais foi praticado, aptas a demonstrar a ousadia e periculosidade do réu, reclamando reação severa, proporcional e seguramente eficaz.
+Acórdão (fls. 34-35):
+O regime inicial fechado deve ser preservado, uma vez que é o "único adequado e suficiente para reprovar sua conduta, isto porque também, "o roubo é crime grave, que revela temibilidade do agente. É ele que vem gerando o clima de violência e de intranquilidade que aflige a sociedade brasileira atual, estando a exigir medidas eficazes para combatê-lo" (JUTACRIM 88/87)."
+Tal regime é o único compatível com a prática do delito de roubo aqui tratado, justamente pela gravidade concreta da conduta perpetrada pelo acusado, que revelou ousadia e periculosidade diferenciada ao cometer o crime juntamente com um assecla não identificado em plena Rodovia Anchieta, via pública esta, onde há grande circulação de veículos e pessoas diariamente, sem contar o fato de que ainda simulou o porte de arma de fogo para subjugar a vítima, que frise-se, recuperou somente a motocicleta, e desprovida de várias peças, não recuperando os demais bens, a demonstrar maior reprovabilidade na conduta do acusado.
+Como se vê, as circunstâncias do fato denotam alta gravidade em concreto e não permitem a fixação de regime menos gravoso, que não teria o condão de repreendê-lo por sua conduta e evitar futuras incursões (cf. artigo 33, § 3º, do Código Penal).
+Como se vê, as instâncias ordinárias determinaram o regime prisional mais severo que a quantidade da pena privativa de liberdade aplicada apenas apontando a gravidade abstrata da conduta e as elementares do tipo penal, ressaltando que o regime inicial fechado é o único compatível com a prática do delito de roubo aqui tratado, justamente pela gravidade concreta da conduta perpetrada pelo acusado, que revelou ousadia e periculosidade diferenciada ao cometer o crime juntamente com um assecla não identificado em plena Rodovia Anchieta, via pública esta, onde há grande circulação de veículos e pessoas diariamente, sem contar o fato de que ainda simulou o porte de arma de fogo para subjugar a vítima
+Verifica-se dos autos que a pena-base foi fixada no mínimo legal, o réu é primário, e a pena final foi determinada em 5 anos e 4 meses, então, não se justifica a adoção do regime prisional fechado.
+Segundo a jurisprudência desta Corte Superior, e do Supremo Tribunal Federal, a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada (Súmula n. 718/STF), e a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea (Súmula n. 719/STF). Ressalta-se ainda que, Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito (Súmula n. 440/STJ).
+Esta Corte Superior também tem entendido como fundamento inidôneo para a determinação do regime fechado o fato do roubo ser praticado com simulacro de arma de fogo. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO. ROUBO. REGIME PRISIONAL FECHADO. DESPROPORCIONALIDADE. CARÊNCIA DE MOTIVAÇÃO CONCRETA PARA A IMPOSIÇÃO DO MEIO PRISIONAL MAIS SEVERO. OFENSA A SÚMULA 440/STJ. AGRAVO DESPROVIDO.
+1. Embora a fixação da pena-base no mínimo legal e a primariedade do réu não conduzam, necessariamente, à fixação do regime prisional indicado pela quantidade de pena a ele imposta, os fundamentos genéricos utilizados no decreto condenatório não constituem motivação suficiente para a imposição do meio prisional mais gravoso (art. 33, §§ 2º e 3º, do Código Penal).
+2. Nos moldes da jurisprudência desta Corte, "o uso de simulacro de arma de fogo não é elemento capaz de caracterizar especial desvalor da conduta do apenado, porquanto deve ser considerado como circunstância inerente à violência ou grave ameaça caracterizadoras do tipo penal do roubo. Dessa forma, a vetorial das circunstâncias do crime deve ser decotada da primeira etapa dosimétrica e não justifica a aplicação de regime inicial mais gravoso" (AgRg no HC 568.150/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/5/2020, DJe 18/5/2020).
+3. Tratando-se de réu primário, ao qual foi imposta pena superior a 4 anos e inferior a 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional de desconto da pena, nos termos do art. 33, §§ 2º, alínea "b", e 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime semiaberto.
+4. Agravo regimental desprovido. (AgRg no HC 602.438/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/08/2020, DJe 03/09/2020)
+Portanto, não estando devidamente justificado o regime prisional fechado, por meio de elementos probatórios dos autos que demonstrem a gravidade concreta da conduta criminosa, deve ser aplicado o regime em conformidade com a pena imposta, isto é, o semiaberto.
+Ante o exposto, concedo o habeas corpus, para substituir o regime prisional fechado aplicado ao paciente, pelo regime semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
