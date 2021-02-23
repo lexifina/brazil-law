@@ -20,6 +20,7 @@ I - das quotas anuais pagas por todos os agentes que comercializem energia com c
 II - dos pagamentos anuais realizados a título de uso de bem público;
 III - das multas aplicadas pela Aneel a concessionárias, a permissionárias e a autorizadas; e
 IV - dos créditos da União de que tratam os art. 17 e art. 18 da Lei nº 12.783, de 11 de janeiro de 2013.
+V - das quotas anuais pagas por concessionárias de geração de energia elétrica cuja obrigação esteja prevista nos respectivos contratos de concessão de que trata a Medida Provisória nº 1.031, de 23 de fevereiro de 2021.
 § 1º-A. É a União autorizada a destinar os recursos oriundos do pagamento de bonificação pela outorga de que trata o § 7º do art. 8º da Lei nº 12.783, de 11 de janeiro de 2013, à CDE, exclusivamente para cobertura dos usos de que tratam os incisos IX e X do caput deste artigo.
 § 1º-B. Os pagamentos de que tratam os incisos IX e X do caput são limitados à disponibilidade de recursos de que trata o § 1º-A, destinados a esse fim.
 § 1º-C. O ativo constituído de acordo com o inciso IX do caput é limitado à disponibilidade de recursos de que trata o § 1º-B, destinados a esse fim, vedados o repasse às quotas anuais e a utilização dos recursos de que trata o § 1º.
