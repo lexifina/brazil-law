@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte (fl. 1.225, e-STJ):
+RECURSO DE APELAÇÃO EM AÇÃO DE PROCEDIM ENTO COM UM . 1. ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTADUAIS. VÍNCULO PREVIDENCIÁRIO. Exercício de atividade de docente junto à rede estadual de ensino. Pretensão de reenquadramento no regime próprio da SPPREV. Demonstração de que não houve quebra de vínculo jurídico com o Estado. Lei Complementar Estadual nº 1.010/07 que assegurou o direito ao vínculo junto à SPPREV. Rompimento abrupto do regime anterior que viola os direitos adquiridos dos servidores. Precedentes. 2. CORREÇÃO MONETÁRIA. No julgamento das ADI 4.357 e 4.425 foi declarada a inconstitucionalidade da expressão "índice oficial de remuneração básica da caderneta de poupança" entendendo o STF que, por arrastamento, o art. 1º-F da Lei 9.494/97, com redação dada pelo art. 5º da Lei 11.960/09 também é, em parte, inconstitucional. Aplicação do índice IPCA/IBGE que reflete a correção monetária. 3. JUROS M ORATÓRIOS. Índice que deve ter os mesmos critérios de fixação de juros moratórios entre devedores públicos e privados, não podendo ser inferior àquele pelo qual a Fazenda Pública recebe seus créditos. Princípio da isonomia. 4. MODULAÇÃO DOS EFEITOS. A modulação dos efeitos da declaração de inconstitucionalidade feita pelo E. Supremo Tribunal Federal aplica-se somente aos precatórios expedidos até o dia 25.03.2015, não tendo qualquer reflexo nas condenações atuais que deverão observar a inconstitucionalidade. 5. Sentença de improcedência reformada. Recurso provido
+Os Embargos de Declaração foram rejeitados (fl. 1.264, e-STJ).
+A agravante, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 884 do CC e 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009. Afirma que, "se a condenação for mantida e preservado o acolhimento integral do pedido, a parte autora terá recebido sua remuneração por período não trabalhado, sem a contrapartida exigida pela lei" (fl. 1.274, e-STJ). No tocante à correção monetária, aduz que o Tribunal de origem indevidamente afastou a aplicação da TR.
+Contrarrazões apresentadas às fls. 1.296-1.301, e-STJ.
+O recurso foi inadmitido na origem (fls. 1.349-1.350, e-STJ), o que deu ensejo à interposição do Agravo de fls. 1.358-1.363, e-STJ. Contraminuta às fls. 1.370-1.372, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8.2.2021.
+A irresignação não merece prosperar.
+Pelo simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que a tese recursal quanto à proibição ao enriquecimento sem causa (art. 884 do CC) não foi sequer debatida no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ, ante a falta de prequestionamento. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE DÉBITOS. CONTRATO RELACIONADO AO FUNDO DE FINANCIAMENTO AO ESTUDANTE DO ENSINO SUPERIOR (FIES). INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR (CDC). AUSÊNCIA DE DEMONSTRAÇÃO DE RESPONSABILIDADE DO BANCO DO BRASIL POR QUAISQUER NORMATIVOS LEGAIS - INCLUSIVE O CC. SÚMULAS 5 E 7/STJ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+(..)3. A carência de prequestionamento de tese recursal atrai a incidência da Súmula 211/STJ, não havendo espaço para a configuração do prequestionamento ficto quando a parte não arguir ofensa do art. 1.022 do novo CPC no recurso especial, mesmo apreciados os embargos de declaração.
+4. Agravo interno desprovido.
+(AgInt no REsp 1876497/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. (..) TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/2015.
+(..)
+IV. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal, pois não foi ela objeto de discussão, nas instâncias ordinárias, razão pela qual não há como afastar o óbice da Súmula 211/STJ.
+V. Não havendo sido apreciada a questão suscitada nas razões da Apelação, mesmo após a oposição dos Embargos Declaratórios, a parte recorrente deveria vincular a interposição do Recurso Especial à violação ao art. 1.022 do CPC/2015 e, não, aos dispositivos apontados como violados, mas não apreciados, tal como ocorreu, na espécie. Precedentes do STJ.
+(..)
+VII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no REsp 1728453/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/03/2020, DJe 10/03/2020)
+Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015 e alegar a existência de possível omissão, providência da qual não se desincumbiu.
+No mais, consoante o entendimento do STJ, "o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), para fins de correção monetária, não é aplicável nas condenações judiciais impostas à Fazenda Pública, independentemente de sua natureza" (REsp 1.495.146/MG, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 2/3/2018). Dessume-se que o acórdão recorrido está em sintonia com o atual posicionamento do STJ, razão pela qual não merece prosperar a irresignação.
+Diante do exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial e, nessa parte, negar-lhe provimento.
+Publique-se.
+Intimem-se.
