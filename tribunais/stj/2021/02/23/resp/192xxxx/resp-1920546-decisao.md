@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por Fernando de Souzacontraacórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assimementado:
+AGRAVO DE INSTRUMENTO Acidente do trabalho Processo de execução Despacho que homologou cálculos do INSS IPCA-e aplicável após o cálculo definitivo do valor da conta de liquidação Incidência imediata da Lei nº 11.960/09 Possibilidade Precedentes Reflexos no tema causados pela discussão sobre a aplicação dos juros moratórios e da correção monetária após a entrada em vigor da Emenda Constitucional nº 62/09 realizada pelo STF no julgamento das ADIs nºs 4.357 e 4.425 -- Modulação dos efeitos ainda não concretizada Utilização da norma cabível com base em despacho proferido na ADI nº 4.357 Decisão mantida Recurso não provido, tornado sem efeito o efeito suspensivo anteriormente concedido.
+Opostos embargos de declaração, rejeitados.
+Nas razões do especial, aponta o recorrente violação aos artigos 535 e 467, 471, 475-G; 543-Cdo CPC/1973; ao artigo 28, da Lei nº 9.868/99, sustentando em síntese que:a) houve omissão no julgado quanto à alegação de impossibilidade de sealterar na fase de execução, o índice de correção determinado em sentençade conhecimento transitada em julgado; b) houve violação à coisa julgada,tendo em vista que os índices de correção foram determinados em sentençana fase de conhecimento; c) a correção monetária não poder ser realizadacom base na TR, devendo ser aplicado o IGP-DI até ainscrição doprecatório e, após, o IPCA-E.
+O prazo para apresentação de contrarrazões ao recurso especial transcorreu in albis.
+É o necessário relatar.
+Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência doEnunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamentono CPC/2015 (relativos a decisões publicadas a partir de 18 de março de2016) serão exigidos os requisitos de admissibilidade recursal na forma donovo CPC".
+A questão preliminar condiz com a violação do artigo 535 do CPC/1973, poiso Tribunal a quo teria se mantido silente quanto à inteligência dosartigos 467 do CPC/1973; artigo 6º da Lei de Introdução as normas doDireito Brasileiro, artigo 28, da Lei nº 9.868/99, especialmente no quediz respeito à impossibilidade de se alterar na fase de execução, o índicede correção determinado em sentença proferida em fase de conhecimento quetransitou em julgado.
+O Tribunal de origem determinou a aplicação imediata da Lei na 11.960/2009quanto aos juros e correção monetária.
+Instado, em sede de embargos de declaração opostos pelo recorrente a semanifestar acerca da violação à coisa julgada, o Tribunal a quo manteve-sesilente quanto ao ponto.
+Embora o Julgador não esteja obrigado a responder um a um dos argumentossustentados pela parte postulante, quando fundamente sua decisão, não devese omitir acerca de pontos essenciais ao bom andamento do processo, comono caso, em que não houve pronunciamento específico em relação à normaprocessual pertinente aos honorários advocatícios.
+Quanto ao cabimento de se acolher as alegadas omissões, com retorno dosautos ao Tribunal a quo, confira-se o precedente ilustrativo:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1022 DO CPC/2015. OMISSÃO.NULIDADE DO JULGADO. RETORNO DOS AUTOS. NECESSIDADE.
+1. Existindo na petição recursal alegação de ofensa ao art. 535 doCPC/1973 (art. 1.022 do CPC/2015), a constatação de que o Tribunal deorigem, mesmo após a oposição de Embargos Declaratórios, não se pronunciousobre pontos essenciais ao deslinde da controvérsia autoriza o retorno dosautos à instância ordinária para novo julgamento dos aclaratórios opostos.
+2. Na espécie, apesar da oposição dos Aclaratórios, o Tribunal de origemnão se pronunciou sobre a seguinte alegação: "de que, no caso em tela,trata-se de execução de sentença contra a Fazenda Pública oriunda da açãocoletiva nº 1999.38.00.014767 (em que foram partes o SINTSPREV/MG versusINSS), sendo cabível, por essa razão, a fixação de honoráriosadvocatícios, conforme o disposto nos art. 20, caput e §§ 3º e 4º, do CPC,arts. 90, 91, 97 e 98 do CDC, arts. 15 e 21 da Lei nº 7.347/85 e nostermos da súmula 345 deste Superior Tribunal de Justiça, in verbis: "Sãodevidos os honorários advocatícios pela Fazenda Pública nas execuçõesindividuais de sentença proferida em ações coletivas, ainda que nãoembargadas"" (fl. 270, e- STJ, grifos no original).
+3. Nesse contexto, deve ser dado provimento ao Recurso Especial a fim deque os autos retornem ao Tribunal de origem para que este se manifestesobre a matéria articulada nos Embargos de Declaração, em face darelevância da omissão apontada.
+4. Recurso Especial provido, determinando o retorno dos autos à Corte deorigem, para novo julgamento dos Embargos de Declaração.
+(REsp 1.663.643/DF, Segunda Turma, Relator Ministro Herman Benjamin, DJe16/6/2017)
+Destarte, os autos devem retornar ao Tribunal a quo, para enfrentamentoadequado quanto à alegação de violação dos artigos 467, 471, 475-G do CPC/1973; eartigo 28, da Leinº 9.868/99.
+Declaro, outrossim, prejudicada a análise do outro ponto do recursoespecial.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. JUROS E CORREÇÃO MONETÁRIA. VIOLAÇÃO AO ARTIGO 535 DO CPC/1973. CARACTERIZAÇÃO. RECURSO ESPECIAL PROVIDO.
