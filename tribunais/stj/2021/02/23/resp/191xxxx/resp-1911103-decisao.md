@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (fl. 153, e-STJ):
+ADMINISTRATIVO E PROCESSUAL CIVIL. GDASS. SERVIDOR INATIVO. LEI 10.855/2004. PARIDADE COM OS SERVIDORES ATIVOS. IMPOSSIBILIDADE.
+1. Apelação interposta contra sentença que julgou improcedente o pedido de percepção da Gratificação de Desempenho de Atividade do Seguro Social - GDASS de acordo com o percentual mínimo pago aos servidores em atividade. Honorários advocatícios fixados em R$ 3.000,00, com exigibilidade suspensa, por ser o autor beneficiário da justiça gratuita.
+2. O autor alega, em síntese, que: a) com a edição da Lei 13.324/2016, os 70 pontos da GDASS adquiriram natureza genérica, uma vez paga independentemente do resultado das avaliações de desempenho; b) a GDASS não pode ser paga em apenas 50 pontos para os aposentados e os pensionistas titulares do direito à paridade remuneratória; c) o art. 16 da Lei 10.855/2004, na parte em que prevê o pagamento de apenas 50 pontos para os inativos, encontra-se tacitamente revogado pelo art. 11, § 1º, com redação dada pela Lei 13.324/2016.
+3. A Gratificação de Desempenho de Atividade do Seguro Social - GDASS foi instituída pela Lei 10.855/2004, sendo devida aos integrantes da Carreira do Seguro Social, quando em exercício de atividades inerentes às atribuições do respectivo cargo no INSS.
+4. De acordo com o art. 11, § 1º, da Lei 10.855/2004, com a redação dada pela Lei 13.324/2016, "A GDASS será paga observado o limite máximo de cem pontos e o mínimo de setenta pontos por servidor, correspondendo cada ponto, nos respectivos níveis e classes, ao valor estabelecido no Anexo VI".
+5. Já o art. 16, I, "b", do referido diploma legal estabelece que, para fins de incorporação da GDASS aos proventos de aposentadorias concedidas ou às pensões instituídas até 19 de fevereiro de 2004, a gratificação será paga, a partir de 1º de julho de 2009, em valor correspondente a 50 pontos.
+6. In casu, a parte autora se aposentou em 14/01/1994, de modo que é aplicável a regra estabelecida no art. 16, I, "b", da Lei 10.855/2004, que prevê a aplicação de cinquenta pontos.
+7. O STF já decidiu que "os servidores inativos fazem jus à Gratificação de Desempenho de Atividade do Seguro Social (GDASS) no mesmo índice pago aos ativos, até o processamento dos resultados da primeira avaliação de desempenho. Daí em diante, a gratificação perde o caráter genérico e adquire a natureza pro labore faciendo. Processados os resultados da primeira avaliação dos ativos, o pagamento da GDASS aos inativos deverá observar o art. 16 da Lei 10.855/2004, o que não ofende o princípio da irredutibilidade de vencimentos" (STF, ARE 761526 AgR/PR, rel. Ministro Alexandre de Moraes, julg. em 21/08/2017).
+8. Não há que se falar em paridade, pois o termo final do pagamento da gratificação aos inativos no mesmo índice pago aos ativos foi em 2009. Desse modo, também não merecem prosperar as alegações do autor de que o art. 16 da Lei 10.855/2004 teria sido revogado pelo art. 11, § 1º, da mesma Lei.
+9. Nesse sentido: TRF5, 2ª T., PJE 0805528-59.2019.4.05.8400, rel. Des. Federal Leonardo Carvalho, assinado em 27/02/2020.
+10. Apelação desprovida. Honorários recursais fixados em R$ 200,00, nos termos do art. 85, §11, CPC/2015, com exigibilidade suspensa.
+A parte recorrente afirma que houve ofensa ao art. 98 da Lei 13.324/2016.Aduz (fl. 172, e-STJ):
+A partir da Lei nº 13.324/16, foi estabelecido um pagamento mínimo de 70 (setenta) pontos aos servidores que recebem a GDASS, o que acabou excluindo a individualização desse pagamento, ao retirar sua conexão ao real desempenho individual do servidor e institucional do órgão, já que, ainda que a pontuação alcançada em ambas avaliações seja inferior a 70, haverá o recebimento da gratificação nessa pontuação, sendo correto concluir que, no percentual supracitado, a generalidade da parcela foi restabelecida, em clara violação à paridade.
+Nesses termos, considerando que os servidores inativos/pensionistas com direito à paridade permanecem recebendo a GDASS em 50 (cinquenta) pontos (art. 16 da Lei nº 10.855/042), há direito à percepção desta gratificação no percentual de 70 pontos, a contar de 01/08/2015 (data de produção de efeitos da Lei nº 13.324/16), enquanto vigente o pagamento mínimo nesta pontuação aos ativos.
+No caso dos autos, a autora é servidora pública federal aposentada em data anterior à EC41/03, tendo direito à paridade, impondo-se, por conseguinte, o acolhimento em parte do pleito.
+Contrarrazões às fls. 178-187, e-STJ.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 189, e-STJ)..
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.12.2020.
+Inicialmente, o insurgente sustenta que o art. 98 da Lei 13.324/2016 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+Cito precedentes:
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..)
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+(AgInt no REsp 1.630.011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/03/2017).
+RECURSO ESPECIAL (..) DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+(REsp 1.652.761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017).
+Além disso, o Tribunal a quo dirimiu a controvérsia, nos seguintes termos (fls. 152-153, e-STJ):
+A Gratificação de Desempenho de Atividade do Seguro Social - GDASS foi instituída pela Lei 10.855/2004, sendo devida aos integrantes da Carreira do Seguro Social, quando em exercício de atividades inerentes às atribuições do respectivo cargo no INSS.
+De acordo com o art. 11, § 1º, da Lei 10.855/2004, com a redação dada pela Lei 13.324/2016, "A GDASS será paga observado o limite máximo de cem pontos e o mínimo de setenta pontos por servidor, correspondendo cada ponto, nos respectivos níveis e classes, ao valor estabelecido no Anexo VI".
+Já o art. 16, I, "b", do referido diploma legal estabelece que, para fins de incorporação da GDASS aos proventos de aposentadorias concedidas ou às pensões instituídas até 19 de fevereiro de 2004, a gratificação será paga, a partir de 1º de julho de 2009, em valor correspondente a 50 pontos.
+In casu, a parte autora se aposentou em 14/01/1994, de modo que é aplicável a regra estabelecida no art. 16, I, "b", da Lei 10.855/2004, que prevê a aplicação de cinquenta pontos.
+O STF já decidiu que "os servidores inativos fazem jus à Gratificação de Desempenho de Atividade do Seguro Social (GDASS) no mesmo índice pago aos ativos, até o processamento dos resultados da primeira avaliação de desempenho. Daí em diante, a gratificação perde o caráter genérico e adquire a natureza pro labore faciendo. Processados os resultados da primeira avaliação dos ativos, o pagamento da GDASS aos inativos deverá observar o art. 16 da Lei 10.855/2004, o que não ofende o princípio da irredutibilidade de vencimentos" (STF, ARE 761526 AgR/PR, rel. Ministro Alexandre de Moraes, julg. em 21/08/2017).
+Não há que se falar em paridade, pois o termo final do pagamento da gratificação aos inativos no mesmo índice pago aos ativos foi em 2009. Desse modo, também não merecem prosperar as alegações do autor de que o art. 16 da Lei 10.855/2004 teria sido revogado pelo art. 11, § 1º, da mesma Lei.
+(..)
+Diante do exposto, NEGO PROVIMENTO à apelação. Honorários recursais fixados em R$ 200,00, nos termos do art. 85, §11, CPC/2015, com exigibilidade suspensa.
+Na leitura dos autos verifico que, muito embora tenham sido citados dispositivos infraconstitucionais, a matéria foi dirimida sob o enfoque estritamente constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reformar o julgado significa usurpar a competência do STF.Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. (..) SERVIDOR PÚBLICO APOSENTADO. DOCENTE DO MAGISTÉRIO FEDERAL DE ENSINO BÁSICO, TÉCNICO E TECNOLÓGICO. RETRIBUIÇÃO POR TITULAÇÃO. RECONHECIMENTO DE SABERES E COMPETÊNCIAS. LEI 12.772/2012. INATIVAÇÃO ANTERIOR A 1º.3.2013. DIREITO À PARIDADE. ACÓRDÃO RECORRIDO COM FUNDAMENTO EXCLUSIVAMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME DA QUESTÃO EM RECURSO ESPECIAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL.
+1. Constata-se que não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado.
+2. Ainda que o recorrente tivesse infirmado todos os argumentos do voto condutor, como se observa, o Tribunal a quo dirimiu a controvérsia sob enfoque exclusivamente constitucional, visto que o deslinde da controvérsia se deu à luz das ECs 20/1998, 41/2003 e 47/2005 (garantia constitucional da paridade entre ativos e inativos), competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. No mesmo sentido, recentes decisões monocráticas: REsp 1.733.321/SC, Rel. Min. Benedito Gonçalves, DJe 24.6.2019; REsp 1.791.260/RS, Rel. Min. Benedito Gonçalves, DJe 26.2.2019; REsp 1.816.133/RS, Rel. Min. Herman Benjamin, DJe 8.8.2019; REsp 1.836.284/RS, Rel. Ministra Regina Helena Costa, DJe 11.9.2019; AREsp 1.541.490/RS, Rel. Ministro João Otávio de Noronha, DJe 13.9.2019; AREsp 1.541.499/RS, Rel. Min. João Otávio de Noronha, DJe 27.9.2019.
+3. Agravo conhecido para se conhecer parcialmente do Recurso Especial, apenas em relação ao art. 1.022 do CPC/2015, e, nessa parte, não provido.
+(AREsp 1.558.777/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 05/11/2019).
+ADMINISTRATIVO. (..) SERVIDOR PÚBLICO. (..) ACÓRDÃO BASEADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA.
+1. A hipótese permitida constitucionalmente para interposição de recurso especial pela alínea "a" do inciso III do artigo 105 da CF, em suma, restringe-se à violação de Tratado ou dispositivo de Lei Federal, excluída, portanto, da competência atribuída a esta Corte Superior, a apreciação e julgamento de suposta afronta à norma da Constituição Federal. Precedentes.
+2. Agravo interno não provido
+(AgInt nos EDcl no REsp 1.761.945/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/02/2019).
+Na mesma linha: REsp 1.898.754/RN, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 25/11/2020; e REsp 1.906.800/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 25/11/2020.
+Diante do exposto, não conheço do Recurso Especial. Condeno o insurgente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem, observando-se aconcessão do benefício da justiça gratuita eventualmente deferido nos autos.
+Publique-se.
+Intimem-se.
