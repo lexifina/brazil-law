@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se  de  agravo  em  recurso  especial  interposto  por  NIVALDO  TOMAZELLA  contra  decisão  do  Tribunal  de  Justiça  do  Estado  do  Paraná  que  inadmitiu  o  recurso  especial  fundamentado  na  alínea  a  do  permissivo  constitucional.
+A  controvérsia  tratada  nos  autos  foi  bem  relatada  no  parecer  ministerial  à  e-STJ  fl.  768,  in  verbis:
+O  Tribunal  de  Justiça  do  Estado  do  Paraná  negou  provimento  ao  apelo  defensivo  interposto  por  NIVALDO  TOMAZELLA,  mantendo  a  decisão  que  decretou  o  sequestro  de  bens  pertencentes  ao  recorrente,  sendo  acusado  da  prática  de  crime  tributário  (art.  1º,  II  da  Lei  8.137/90).
+O  presente  agravo  foi  interposto  pelo  réu  em  face  da  decisão  que  inadmitiu  o  seu  recurso  especial,  no  qual,  com  base  no  art.  105,  inciso  III,  "a",  da  Constituição  Federal,  sustenta  as  seguintes  teses:  a)  nulidade  do  acórdão  impugnado,  ao  fundamento  de  que  os  embargos  somente  deveriam  ser  julgados  após  o  trânsito  em  julgado  da  sentença  condenatória;  b)  inviabilidade  de  o  Ministério  Público  pleitear  a  inscrição  de  hipoteca  legal  para  resguardar  interesse  da  Fazenda  Pública;  c)  inviabilidade  de  impenhorabilidade  de  bem  de  família;  e  d)  necessidade  de  nova  avaliação  do  valor  do  imóvel.
+O  Parquet  opinou  pelo  desprovimento  do  recurso  (e-STJ  fls.  767/772).
+É  o  relatório.
+Decido.
+Na  Petição  n.  79.945/2021,  às  e-STJ  fls.  774/796,  o  agravante  assenta  que  "restou  absolvido  no  âmbito  da  ação  penal  (autos  nº  0002519-41.2018.8.16.0148),  implicando  na  revogação  da  medida  assecuratória  patrimonial  que  outrora  recaiu  sobre  o  imóvel  de  sua  propriedade  no  bojo  da  ação  de  arresto  cautelar  e  hipoteca  legal  (autos  nº  0002576-59.2018.8.16.0148),  com  relação  a  qual  havia  sido  interposta  apelação,  recurso  especial  e  o  presente  agravo"  (e-STJ  fl.  774),  e  "requer  a  extinção  do  feito  ..  por  perda  superveniente  de  seu  objeto,  com  as  baixas  e  comunicações  de  praxe"  (e-STJ  fl.  774).
+Desse  modo,  julgo  prejudicado  o  presente  recurso.
+Publique-se.  Intimem-se.
