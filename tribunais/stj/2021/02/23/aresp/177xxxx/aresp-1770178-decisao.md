@@ -1,0 +1,80 @@
+DECISÃO
+1. Trata-se de agravo interposto por FORTE CONSTRUTORA LTDA. - EPP, de decisão que negou seguimento a recurso especial apresentado contra acórdão do eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA DE TÍTULO EXECUTIVO JUDICIAL. AÇÃO ORIGINÁRIA. SENTENÇA DE PARCIAL PROCEDÊNCIA COM CONDENAÇÃO DA PARTE REQUERIDA AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. RECURSO DE APELAÇÃO INTERPOSTO. PROVIMENTO E INVERSÃO DO ÔNUS SUCUMBENCIAL SEM MENÇÃO AO PARÂMETRO DA VERBA.INEXISTÊNCIA DE RECURSO PARA CORRIGIR EVENTUAL VÍCIO.TRANSITO EM JULGADO. IMPOSSIBILIDADE DE MODIFICAÇÃO DA DECISÃO NO CUMPRIMENTO DE SENTENÇA. SENTENÇA REFORMADA.
+1. No caso em questão, a ação originária foi ajuizada pela parte executada em desfavor de patrono integrante do escritório de advocacia exequente.
+2. A sentença proferida naqueles autos foi de parcial procedência da ação, tendo sido decretada a rescisão contratual, a condenação ao pagamento de alugueis e o direito de reintegração da posse por parte da construtora/executada, ora apelada.
+3. Em face da sucumbência da parte requerida naqueles autos, houve condenação em seu desfavor ao pagamento das verbas sucumbenciais, tendo como parâmetro o valor dos alugueis; no entanto, o r.
+foi reformado pela instância , que julgou improcedente a ação e inverteu os ônus de decisum ad quem sucumbência, sem mencionar o parâmetro a ser utilizado.
+4. Contra o acórdão que reformou a sentença, nenhuma das partes recorreu, a fim de ver sanado qualquer vício, não podendo, nesta via, haver modificação do titulo executivo judicial já transitado em julgado.
+5. Uma vez escoado o prazo processual sem interposição de recurso contra o acordão, torna-se inadmissível qualquer discussão a respeito da condenação dos honorários advocatícios no cumprimento de sentença, em respeito ao princípio da coisa julgada e da segurança jurídica.
+6. Constatado que o titulo judicial objeto do cumprimento de sentença foi silente com relação ao parâmetro a ser utilizado na inversão dos honorários advocatícios, infere-se que há a manutenção do parâmetro utilizado na sentença; qual seja, o valor dos alugueis, ainda que eles não sejam mais devidos.
+7. Afasta-se a tese de inexigibilidade do título executivo exposta na sentença, determinando-se a reforma do decisum.
+8. Recurso provido." (e-STJ, fls. 124/125).
+Contra o v. acórdão estadual,foram opostos embargos de declaração, parcialmente acolhidosnos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. CUMPRIMENTO DE SENTENÇA.ALEGAÇÃO DE OMISSÃO E ERRO MATERIAL NO ARESTO. ERRO NO NOME DA PARTE.DUPLA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS NA MESMA FASE PROCESSUAL.IMPOSSIBILIDADE. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Os Embargos de Declaração, a teor do artigo 1.022 do Código de Processo Civil, têm caráter integrativo e são utilizados tão somente com o propósito de sanar possíveis vícios de omissão, contradição, obscuridade ou erro material.
+2. Constatada a existência de vício acórdão, os embargos de declaração devem ser parcialmente acolhidos a fim de que possa ser retificado o nome da parte e afastada a dupla fixação de honorários na mesma fase processual.
+3. Afasta-se a alegação de omissão quanto as demais teses trazidas pela parte se todos os argumentos apresentados foram cuidadosamente apreciados e fundamentados por esta Col. Turma.
+4. Embargos de declaração parcialmente acolhidos."(e-STJ, fl. 174)
+Nas razões do recurso especial, interposto com fundamento na alíneaado permissivo constitucional, a recorrente aponta violação dos arts. 502, 507 e 508 do Código de Processo Civil de 2015, alegando, em síntese, ofensa à coisa julgada.
+Argumenta que, no caso,"o trânsito em julgado de sentença omissa cujos termos traduzem-se em valor ilíquido em favor da Recorrida, em relação aos valores devidos a título de honorários sucumbenciais, impede a revisão das balizas do decisum, sob pena de afronta aos princípios da preclusão e da coisa julgada",e que, por isso, "na hipótese de equívoco da sentença, caberia à parte, no momento oportuno, requerer a elucidação do julgado em sede de aclaratórios, antes do trânsito em julgado da sentença, sob pena de, ao não fazê-lo, submeter-se aos efeitos negativos e positivos da coisa julgada"(e-STJ, fl. 199).
+Foram apresentadas contrarrazões (e-STJ, fls. 214/225).
+É o relatório. Decido.
+1. A insurgência não tem como prosperar.
+No caso, aexigibilidade do título executivo judicial foi declarada pelo Tribunal de origem àda seguinte fundamentação:
+"No caso em questão, verifica-se que a ação originária foi ajuizada pela parte executada/FORTEC CONSTRUTORA LTDA - EPP em desfavor de Adriano, integrante do escritório de advocacia exequente.
+A sentença proferida naqueles autos foi de parcial procedência da ação, tendo sido decretada a rescisão contratual, a condenação ao pagamento de alugueis e o direito de reintegração da posse por parte da construtora/executada, ora apelada.
+Em face da sucumbência da parte requerida/Adriano naquele autos, houve condenação em seu desfavor ao pagamento das verbas sucumbenciais nos seguintes termos:
+"Em razão da sucumbência mínima da autora, condeno o réu ao pagamento das despesas processuais e dos honorários advocatícios, estes fixados em 15% (quinze por cento) sobre os valores a serem pagos a título de aluguel em favor da autora, (alínea c), analisadas as diretrizes do art. 20, § 3º, do CPC."
+Por sua vez, a condenação do requerido ao pagamento de alugueis se deu da seguinte maneira, senão vejamos:
+"c) condenar o requerido ao pagamento de 0,5% mensal do valor do contrato, o que corresponde a R$ 415,00, desde o recebimento do bem pelo réu (03/07/2008) até a imissão do requerente na posse, atualizados monetariamente pelo INPC a contar do primeiro dia útil subsequente ao mês de referência, e com incidência de juros de 1% ao mês, a contar da citação;".
+Inconformado com o resultado do julgamento na ação originária, o réu/Adriano, integrante do escritório de advocacia exequente, interpôs recurso de apelação, o qual foi provido, havendo a inversão da verba sucumbencial outrora fixada, in verbis:
+"Ante o exposto, REJEITO as preliminares suscitadas e DOU PROVIMENTO ao recurso do réu para julgar improcedente o pedido de rescisão contratual. JULGO PREJUDICADO o recurso adesivo do autor.
+Inverto o ônus sucumbencial para condenar o autor ao pagamento de custas processuais e honorários advocatícios fixados na sentença.
+Deixo de majorar os honorários fixados na primeira instância, eis que não houve sucumbência recursal."
+Vê-se, portanto, que o titulo judicial objeto do cumprimento de sentença, embora tenha determinado a inversão da verba sucumbencial, foi silente com relação ao parâmetro a ser utilizado, inferindo-se, portanto, a manutenção do parâmetro utilizado na sentença; qual seja, o valor dos alugueis, ainda que eles não sejam mais devidos.
+Contra o referido acórdão, nenhuma das partes recorreu, a fim de ver sanado qualquer vício, não podendo, nesta via, haver modificação do titulo executivo judicial já transitado em julgado.
+Sobre o tema, disciplina o art. 502 do Código de Processo Civil:
+Art. 507. Denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso.
+Nesse raciocínio, uma vez escoado o prazo processual sem interposição de recurso contra o acordão, torna-se inadmissível qualquer discussão a respeito da condenação dos honorários advocatícios no cumprimento de sentença, em respeito ao princípio da coisa julgada e da segurança jurídica.
+(..)
+Seguindo esse entendimento, tenho que a sentença que extinguiu o processo por ausência de parâmetro na fixação dos honorários advocatícios e por inexigibilidade do título, não pode prevalecer, notadamente por ter a referida verba natureza alimentar.
+Dessa forma, a inversão dos honorários advocatícios expressa no aresto deve ter como respaldo a soma do valor do aluguel, R$ 415,00 (quatrocentos e quinze reais), a ser pago desde 03.07.2008, como estipulado na sentença, até a data de publicação do acórdão, que, ao modificar a sentença, cessou a obrigação de pagamento da referida verba."(e-STJ, fls. 126/128)
+Ocorre, contudo, que esses fundamentos, suficientes à manutenção do v. acórdão recorrido, não foram impugnados pela recorrente nas razões recursais, o que torna inviável o conhecimento do recurso especial, nos termos da Súmula 283/STF, aplicável por analogia. A propósito:
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA.RESPONSABILIDADE DA CONTRATANTE. MÁ CONDUTA DA SUBCONTRATADA.SOLIDARIEDADE ORIGINÁRIA DE CONTRATO QUE REMETE AO ART. 72 DA LEI Nº 8.666/93. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS E A REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.ÓBICE DE INADMISSIBILIDADE. SÚMULAS 5 E 7 DO STJ. CONFIRMAÇÃO.AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO DO ACÓRDÃO RECORRIDO.SÚMULA 283 DO STF. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284 DO STF.AGRAVO INTERNO NÃO PROVIDO.
+1. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão e a interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF:  É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+3. Quanto à alegação de não identificação da dívida com as hipóteses de responsabilidade solidária do art. 71 da Lei 8.666/93, a ausência de demonstração da violação aos dispositivos legais pelo acórdão recorrido implica deficiência de fundamentação, conforme pacífico entendimento deste STJ. Aplicação da Súmula 284 do STF.
+4. Agravo interno não provido."
+(AgInt no AREsp 1701966/TO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2020, DJe 18/12/2020)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. PENHORA SOBRE DIREITO DE CRÉDITO. POSSIBILIDADE. TENTATIVAS ANTERIORES FRUSTRADAS. NÃO INDICAÇÃO, PELO DEVEDOR, DE OUTROS BENS PASSÍVEIS DE PENHORA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL.SÚMULA 283/STF. LITIGÂNCIA DE MÁ-FÉ. NÃO OCORRÊNCIA. MULTA INDEVIDA.AGRAVO INTERNO PROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+2. Ressalta-se, como obiter dictum, que o STJ, por vários dos seus precedentes, tem admitido penhoras fixadas em percentual do faturamento da empresa executada, com vistas, por um lado, a disponibilizar forma menos onerosa para o devedor e, por outro lado, a garantir forma idônea e eficaz de satisfação do crédito, atendendo assim ao princípio da efetividade da execução.
+3. Nos termos da Jurisprudência desta Corte, "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel.
+Min. NANCY ANDRIGHI, DJe de 12/12/2008). A má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 17 do Código de Processo Civil de 1973.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para dar parcial provimento ao recurso especial."
+(AgInt no AREsp 1634405/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/12/2020, DJe 01/02/2021)
+"PROCESSUAL CIVIL. AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. ENTIDADE FECHADA. APLICABILIDADE DO CDC. SÚMULA 563/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULAS 283 E 284 DO STF. PROVENTOS COMPLEMENTARES.REDUÇÃO. INEXISTÊNCIA. ERRO DE CÁLCULO. SÚMULAS 5 E 7 DO STJ.
+1. "O Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas" (Súmula 563/STJ).
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+4. Não cabe, em recurso especial, a interpretar cláusula contratual e nem reexaminar matéria fático-probatória (Súmulas 5 e 7 do STJ).
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1554459/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 07/12/2020)
+Mesmo que assim não fosse, forçoso reconhecer que, ao contrário do alegado pela recorrente, a decisão proferia pelo Tribunala quo não viola a coisa julgada.
+Efetivamente, a leitura atenta do acórdão recorrido deixa claro quea interpretação dada pela Corte estadual foino sentido de dar efetividade ao que expressamente constou do títulojudicial, conferindo-lhe a melhor interpretação possível, dadas as circunstâncias da causa.
+Nesse contexto, o acórdão recorrido encontra respaldo na jurisprudência desta Corte, quefirmou o entendimento de que"não há ofensa à coisa julgada quando, admitindo o título judicial, o juízo da execução lhe confere a interpretação que melhor viabilize o seu cumprimento"(AgInt no AREsp 1531886/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/02/2021, DJe 12/02/2021).
+Nesse mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO CIVIL.SEGURADORA LITISDENUNCIADA. RESPONSABILIDADE. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. PRECEDENTES. CONDENAÇÃO SOLIDÁRIA NOS LIMITES DA APÓLICE. SÚMULA 537/STJ. NÃO PROVIMENTO.
+1. "A melhor interpretação do título executivo judicial se extrai da fundamentação que dá sentido e alcance ao dispositivo do julgado, observados os limites da lide, em conformidade com o pedido formulado no processo. Não viola a coisa julgada a interpretação razoável e possível de ser extraída do título judicial" (AgInt no REsp 1432268/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 29/3/2019).
+2. "Em ação de reparação de danos, a seguradora denunciada, se aceitar a denunciação ou contestar o pedido do autor, pode ser condenada, direta e solidariamente junto com o segurado, ao pagamento da indenização devida à vítima, nos limites contratados na apólice." (Súmula 537/STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1537439/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. INDENIZAÇÃO DE DIFERENÇA ACIONÁRIA. COISA JULGADA. VIOLAÇÃO. NÃO OCORRÊNCIA.DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. DECISÃO MANTIDA.
+1. "De acordo com a jurisprudência desta Corte, inexiste ofensa à coisa julgada quando o magistrado, em sede de cumprimento de sentença, interpreta o título judicial para melhor definir seu alcance e extensão" (AgInt no AREsp 1.532.760/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/03/2020, DJe 17/03/2020).
+2. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente e demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados.
+3. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 801.345/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Julgo prejudicado, em consequência, o pedido de efeito suspensivo(e-STJ, fls. 283/289).
+Publique-se.
