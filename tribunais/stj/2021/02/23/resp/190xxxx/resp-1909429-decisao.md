@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto com base no art. 105, III, "a", da CF, contra acórdão do TJSC assim ementado (e-STJ fl. 291):
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS. DISSOLUÇÃO PARCIAL DE SOCIEDADE COM TRANSFERÊNCIA DE QUOTAS. ATRASO NA ENTREGA DE IMÓVEIS. LUCROS CESSANTES. CLÁUSULA PENAL. PROCEDÊNCIA A ORIGEM. RECURSO DOS RÉUS. CONTRATO COM MANIFESTA PREVISÃO DE ENTREGA DAS CHAVES E TRANSFERÊNCIA DE PROPRIEDADE. CLÁUSULA PENAL E LUCROS CESSANTES. IMPOSSIBILIDADE DE CUMULAÇÃO. TESE FIRMADA EM RECURSO REPETITIVO DO SUPERIOR TRIBUNAL DE JUSTIÇA. TEMA 970. DEVER DE INDENIZAR LIMITADO A MULTA PREVISTA EM CONTRATO. TEMA 971, DO STJ. DECISÃO REFORMADA.
+ ..  O Superior Tribunal de Justiça firmou tese no sentido de que "no contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações ) de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial" (STJ, Tema 971, REsp n.1.614.721, Min. Luís Felipe Salomão).
+Do mesmo modo, a Corte Superior, em conformidade com o que; determina o art. 416, parágrafo único, do Código Civil, firmou :tese: no sentido de que "a cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio-da obrigação é, em regra, estabelecida em valor equivalente" ao locativo; afasta-se sua cumulação com lucros cessantes" (STJ, Tema 970," REsp n. 1.498.484, Min Luis Felipe Salomã (AC n. 0320297-52.2014.8.24.0023, da Capital, rel. Des. Luiz Cézar Medeiros, j. 16-07-2019). ÔNUS DE SUCUMBÊNCIA. REDISTRIBUIÇÃO EQUÂNIMÊ. RECURSO PARCIALMENTE PROVIDO.
+Nas razões apresentadas (e-STJ fls. 304/307), o recorrente aponta violação ao art. 10 do CPC/2015, argumentando existir decisão surpresa, ante a incidência do Tema repetitivo n. 970/STJ ao caso, sem sua prévia intimação.
+Indica contrariedade aos arts. 402 e 944 do CC/2002, por ser serem cumuláveis a indenização por lucros cessantes e a cláusula penal.
+Acrescenta que só a multa contratual, reduzida para R$ 30.000 (trinta mil reais) em segunda instância, seria insuficiente para ressarcir seus prejuízos oriundos do inadimplemento da parte recorrida quanto ao pagamento do preço da dissolução societária, motivo por que, no caso concreto, a mencionada cumulação seria medida impositiva à reparação integral de seus danos.
+Subsidiariamente, alega que, "ainda que não se estabeleça a cumulação, necessário se faz que, na opção por uma delas, escolha-se pela condenação em lucros cessantes (e não da multa contratual), haja vista que essa opção é a que melhor atende à reparação integral do dano" (e-STJ fl. 307).
+Sem contrarrazões (e-STJ fl. 418).
+O recurso foi admitido na origem (e-STJ fls. 320/324).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto aos arts. 10 do CPC/2015 e 402 e 944 do CC/2002 sob o enfoque pretendido pelo recorrente. Dessa forma, sem terem sido objeto de debate na decisão recorrida e ante a falta de aclaratórios, as matérias contidas em tais dispositivos carecem de prequestionamento e sofrem, por conseguinte, o empecilho das Súmulas n. 282 e 356 do STF.
+O Tribunal a quo assentou suas conclusões sobre a matéria com base na na primeira parte do parágrafo único do art. 416 do CC/2002, segundo o qual, "ainda que o prejuízo exceda ao previsto na cláusula penal, não pode o credor exigir indenização suplementar se assim não foi convencionado" (e-STJ fls. 298/300).
+Esse fundamento não foi impugnado no recurso excepcional, o que atrai o empecilho da Súmula n. 283/STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MA JORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
