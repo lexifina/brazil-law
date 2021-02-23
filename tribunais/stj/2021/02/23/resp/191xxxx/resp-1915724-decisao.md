@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÕES CÍVEIS - NULIDADE DE MÚTUO BANCÁRIO - COMPROVAÇÃO DA RELAÇÃO JURÍDICA - DÍVIDAS EXISTENTES - LIMITAÇÃO DE DOIS EMPRÉSTIMOS FIRMADOS COM A MESMA INSTITUIÇÃO A 30% DA RENDA MENSAL DO MUTUÁRIO - PACTOS DE NATUREZAS DISTINTAS, UM DELES CONSIGNADO EM FOLHA DE PAGAMENTO DO SERVIDOR E OUTRO MEDIANTE DESCONTO NA CONTA EM QUE É PAGO O SALÁRIO - APLICAÇÃO ANALÓGICA DA LEI Nº 10.820/03 - LIMITAÇÃO COM EXTENSÃO DO PRAZO - DANOS MORAIS - INEXISTÊNCIA - RECURSO PROVIDO EM PARTE.
+Seja em face dos pedidos iniciais, seja da prova produzida em defesa, há de se considerar existentes, válidos e exigíveis ambos os contratos, 8866400297 (BB Crédito Salário), e 885361863 (BB Crédito Consignado).
+Subsistindo a contratação de dois empréstimos pessoais, superando a limitação de 30% da Lei 10.820/03, aplicada em analogia para a conta-salário, deve o último deles sofrer limitação, com a extensão do prazo. No tocante ao dano moral, a sua ocorrência demandaria a existência de efetiva ofensa a algum dos direitos da personalidade da parte lesada. Mero dissabor decorrente de divergência contratual não dá ensejo ao dano moral.
+Alega-se violação dos artigos104, 110, 166, 186 do Código Civil e 52 do Código de Defesa do Consumidor, associada a dissídio jurisprudencial, sob o argumento de que é indevida a limitação em percentual da remuneração do devedor das parcelas de empréstimo contratado com desconto em conta corrente.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que o recorrido contratou dois empréstimos com o recorrente, um com desconto das parcelasem folha de pagamento e outro em conta corrente e que nenhum deles, isoladamente, supera 30% (trinta por cento) dos rendimentos do autor.
+Leia-se do acórdão:
+"No que concerne à limitação dos descontos a 30%, há de se ponderar que, isoladamente, nenhum dos contratos superaria 30% dos rendimentos do 2º apelante como agente penitenciário do Estado.
+Rememorando, no contrato nº. 886640297, as parcelas eram de R$ 334,44, no contrato nº. 885361863 as prestações eram de R$ 1.014,14 e o salário bruto do mutuário como agente penitenciário é de R$ 4.098,45.
+Percebe-se, também, em estudo aos contracheques juntados, que lá somente estão inseridos os descontos automáticos de R$ 1.014,14 pelo BB, do que se infere que somente este (885361863) cuida, legitimamente, de um empréstimo consignado, sendo o outro (886640297) um empréstimo com descontos na conta-salário" (e-STJ, fl. 537).
+O Tribunal de origem, não obstante, concluiu que devem "ser limitados os descontos alusivos ao contrato 886640297 (BB Crédito Salário), para que o total dos descontos nos dois contratos firmados com o BB não exceda 30% dos rendimentos do 2º apelante, com a rolagem da dívida" (e-STJ, fl. 575).
+Esta Corte Superior, todavia, tem entendimento de que apenas os descontos em folha de pagamento dos chamados empréstimos consignados têm limitação legal dos descontos sobre a remuneração do mutuário.
+A saber:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. EMPRÉSTIMO BANCÁRIO. DESCONTO EM CONTA CORRENTE ONDE É DEPOSITADO SALÁRIO. LIMITAÇÃO EM 30% DOS VENCIMENTOS.AUSÊNCIA DE ATO ILÍCITO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. A jurisprudência desta Corte orienta que são lícitos os descontos em conta corrente autorizados para pagamento de prestações contratadas com a instituição financeira, sendo indevida a aplicação analógica do limite legal aos descontos relativos a empréstimo consignado e que, em princípio, não há dano moral ou repetição de indébito caso as instâncias ordinária tenham limitado os descontos.
+2. Caso em que o Tribunal de origem entendeu não configurado ato ilícito passível de reparação. A reforma do acórdão recorrido, no ponto, requer incursão nos elementos fático-probatórios do processo, o que é inviável em recurso especial (Súmula 7 do Superior Tribunal de Justiça - STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1662754/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/9/2020, DJe 1/10/2020)
+Não havendo, pois, empréstimo consignado com desconto em folha de pagamento de parcela superior a 30% (trinta por cento) de sua remuneração, não há que se falar em limitação, sendo certo que o acórdão local está contrário à jurisprudência desta Casa.
+Diante do exposto, conheço e dou provimento ao recurso especial para julgar improcedentes os pedidos. Custas e honorários pelo autor, estes em 10% (dez por cento) sobre o valor da causa, nos termos dosartigos 82, § 2º, e85, § 2º, do Código de Processo Civil.
+Intimem-se.
