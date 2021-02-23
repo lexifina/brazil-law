@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Associação de Poupança e Empréstimo Poupex, com base no art. 105, III, a, da Constituição Federal.
+Compulsando os autos, verifica-se que os agravadosingressaram com pedido de tutela de urgência em caráter incidental(e-STJ, fls. 3-7), tendo o Juízo de primeiro grau julgado procedente o pedido (e-STJ, fls. 797-803; 813-817).
+Interposto recurso de apelação pelaora agravante, o Tribunal de origem decidiu, por unanimidade, negar-lhe provimento, em acórdão assim ementado (e-STJ, fl. 902):
+APELAÇÃO CÍVEL - TUTELA DE URGÊNCIA CAUTELAR EM CARÁTER ANTECEDENTE - PRELIMINAR - NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO - NÃO OCORRÊNCIA - REJEITADA - MÉRITO - LIQUIDAÇÃO DE SENTENÇA - NECESSIDADE - CÁLCULOS NÃO APRESENTADOS - DESCONHECIMENTO DO VALOR DA DÍVIDA APÓS REVISÃO DE CLÁUSULAS CONTRATUAIS - CONTRATO DE FINANCIAMENTO IMOBILIÁRIO - RECURSO CONHECIDO E DESPROVIDO.
+O princípio constitucional da motivação das decisões exige que o juiz explicite os fundamentos dos atos judiciais, a fim de que a parte entenda o porquê daquela decisão. Não se exige, por outro lado, que a decisão seja extensa ou prolixa. A nulidade do ato judicial somente ocorre quando os argumentos não enfrentados forem capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+O fato de ter sido autorizada a apresentação de mero cálculo aritmético não exime a instituição de crédito de promover a liquidação, evitando qualquer outra discussão relacionada à apuração da dívida após a adequação dos encargos conforme sentença judicial e, aí sim, legitimando o procedimento de leilão extrajudicial do imóvel, caso não haja a purgação da mora.
+Apresentados embargos de declaração pelaora agravante, estes foram rejeitados (e-STJ, fls. 923-928).
+Nas razões do recurso especial, fundado no art. 105, III, a, da Constituição Federal, arecorrente alegou violação aos arts. 489, § 1º e seu inciso IV, 505, 509, § 2º, e 1.022, II, do CPC/2015(e-STJ, fls. 930-942).
+Sustentou, em síntese, a ocorrência de negativa de prestação jurisdicional por parte da Corte local, além de aduzir a existência de violação a coisa julgadaede ser desnecessária a liquidação de sentença.
+Contrarrazões apresentadas (e-STJ, fls. 950-963).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência das Súmulas n. 7 e 83/STJ (e-STJ, fls. 965-970).
+Foi interposto agravo em recurso especial às fls. 972-985 (e-STJ), e contraminuta não apresentada, conforme certificado àfl. 988 (e-STJ).
+Brevemente relatado, decido.
+De início, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+No que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte estadual não se pronunciou sobre o pleito da ora recorrente, apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão da parte.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. LEGITIMIDADE PASSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7 DO STJ. TÍTULO DE CRÉDITO.PROTESTO INDEVIDO. DANO MORAL IN RE IPSA. SÚMULA N. 83 DO STJ.DECISÃO MANTIDA.
+1. A Corte "a quo" pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em princípio, poderiam infirmar a conclusão adotada pelo Juízo, não havendo falar em ausência de prestação jurisdicional. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza negativa de prestação jurisdicional, tampouco viola os arts. 1.022 e 489 do CPC/2015.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ). O Tribunal de origem asseverou que: (i) o título levado a apontamento estava quitado, (ii) a nota fiscal estava em nome da recorrente, (iii) apesar da cessão do crédito a terceiros, a duplicata foi emitida após tal contratação, e (iv) a certidão de protesto comprova que a recorrente não é parte estranha à lide.
+Desse modo, concluiu a Corte local que a "inserção, de forma indevida, gera automaticamente o constrangimento ao consumidor, pois atribui a pecha de mau pagador àquele que, até prova em contrário, honra seus compromissos financeiros e negociais pontualmente".
+Alterar esse entendimento demandaria o reexame das provas, o que é vedado em recurso especial.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, na hipótese de protesto indevido de título ou de inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa - independentemente de prova. Aplicação da Súmula n. 83 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1679481/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 906-908):
+Quanto ao mérito, o cerne da questão posta em discussão cinge-se em saber se é necessária a realização do procedimento de liquidação de sentença a fim de apurar o quantum debeatur relacionado ao contrato de financiamento imobiliário cujas cláusulas sofreram revisão por sentença judicial transitada em julgado.
+Desde já faz-se mister registrar que a sentença proferida na ação de consignação em pagamento (feito n.º 0014565-88.2002.8.12.0001) resolveu o seguinte (f. 27-32):
+ ..
+Pois bem, como se vê, consta no próprio título executivo judicial a ressalva da necessidade de apuração do valor devido, o que se faz por meio de liquidação, ainda que apresentando cálculo aritmético. Ou seja, a apelante sequer poderia ter iniciado o procedimento de leilão extrajudicial sem antes haver uma definição em relação ao quantum debeatur, adequando-se o cálculo da dívida aos parâmetros definidos em juízo.
+Aliás, o fato de ter sido autorizada a apresentação de mero cálculo aritmético não exime a instituição de crédito de promover a liquidação, evitando qualquer outra discussão relacionada à apuração da dívida e, aí sim, legitimando o procedimento de leilão extrajudicial do imóvel, caso não houvesse a purgação da mora.
+Vale ressaltar que não se tem notícia de que a apelante tenha dado ciência aos devedores do montante devido, após o re-cálculo, de modo que eles sequer têm ciência se houve a liquidação das parcelas - como determinado na sentença - nem mesmo sabem qual é o real valor da dívida.
+Inclusive, conforme restou bem destacado pelo ilustre magistrado sentenciante "conquanto seja possível o leilão extrajudicial do imóvel, nos termos do Decreto n.º 70/66, é certo que, na hipótese, sequer restou provado a indicação discriminada do valor do saldo devido pelos requerentes nem a cientificação dos mesmos, antes da realização da alienação do bem em referência" (f. 801).
+ ..
+Frise-se, por fim, que nem mesmo nestes autos a apelante juntou o cálculo aritmético a fim de viabilizar a análise da escorreita apuração do débito cuja cobrança vem sendo feita no procedimento de execução extrajudicial.
+Assim, atentando-se aos argumentos trazidos pela recorrente e aos fundamentos (acima destacados) adotadospela Corte estadual, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a manutenção de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NECESSIDADE DE DILAÇÃO PROBATÓRIA. NÃO CABIMENTO.JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS.SÚMULA 7/STJ.
+1. "É firme a jurisprudência desta Colenda Corte em afirmar que a exceção de pré-executividade é cabível somente às matérias conhecíveis de ofício, que não demandem dilação probatória" (AgRg no AREsp 636.533/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 16/2/2016.).
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83/STJ).
+3. Os fundamentos do acórdão recorrido não foram devidamente impugnados, o que atrai a aplicação da Súmula 283 do STF.
+4. Inviável, em recurso especial, reexaminar matéria fático-probatória. Incidência da Súmula 7 do Superior Tribunal de Justiça.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1593718/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários advocatícios, como dispõe o art. 85, § 11, do CPC/2015, porquanto a verba foi fixada na origem em seu percentual máximo.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. TUTELA DE URGÊNCIAEM CARÁTER INCIDENTAL. LEILÃO EXTRAJUDICIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. ANULAÇÃO DE LEILÃO EXTRAJUDICIAL. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 3. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
