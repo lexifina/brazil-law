@@ -1,0 +1,30 @@
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. LIQUIDAÇÃO EXTRAJUDICIAL DE COOPERATIVA. PEDIDO DE PRORROGAÇÃO DO PRAZO DE UM ANO DE SUSPENSÃO DAS AÇÕES E EXECUÇÕES EM CURSO CONTRA A LIQUIDANDA. NECESSIDADE DE MOTIVO RELEVANTE. COMPETÊNCIA PARA APRECIAÇÃO DO PEDIDO DA ASSEMBLEIA GERAL DA LIQUIDAÇÃO DA COOPERATIVA. ART. 76, PARÁGRAFO ÚNICO, DA LEI N. 5.764/1971. MOTIVO RELEVANTE NÃO DEMONSTRADO. SÚMULA 7 DO STJ. RECURSO ESPECIAL NÃO PROVIDO.
+1. A redação do art. 76 da Lei 5.764/71 preleciona que "a publicação no Diário Oficial, da ata da Assembleia Geral da sociedade, que deliberou sua liquidação, ou da decisão do órgão executivo federal quando a medida for de sua iniciativa, implicará a sustação de qualquer ação judicial contra a cooperativa, pelo prazo de 1 (um) ano, sem prejuízo, entretanto, da fluência dos juros legais ou pactuados e seus acessórios", ao passo que a redação do parágrafo único dispõe que "decorrido o prazo previsto neste artigo, sem que, por motivo relevante, esteja encerrada a liquidação, poderá ser o mesmo prorrogado, no máximo por mais 1 (um) ano, mediante decisão do órgão citado no artigo, publicada, com os mesmos efeitos, no Diário Oficial".
+2. A Corte de origem manteve a decisão do Juízo de primeiro grau, que indeferiu o pedido de prorrogação da suspensão, por não vislumbrar a existência de motivo relevante a amparar o pleito, ao passo que alteração de tais premissas esbarra na Súmula 7/STJ.
+3. A incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Precedentes.
+4. Recurso especial não provido.
+DECISÃO
+1. Cuida-se de recurso especial interposto por COTRIJUI - COOPERATIVA AGROPECUÁRIA E INDUSTRIAL, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado:
+AGRAVO INTERNO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DE COBRANÇA. COOPERATIVA EM LIQUIDAÇÃO EXTRAJUDICIAL. COTRIJUÍ. PRETENSÃO DE PRORROGAÇÃO DO PRAZO DE SUSPENSÃO DAS AÇÕES. ART. 76, § ÚNICO, DO CPC. AUSÊNCIA DE MOTIVO RELEVANTE.
+NEGARAM PROVIMENTO AO RECURSO. UNÂNIME.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto no art. 76, parágrafo único da Lei 5.764/71, afirmando que a prorrogação da liquidação extrajudicial realizada por meio de assembleia geral extraordinária implica necessariamente no sobrestamento das ações judiciais em desfavor da cooperativa por mais um ano, sendo indevido o seu indeferimento da suspensão pelo judiciário.
+Contrarrazões ao recurso especial às fls. 640-650.
+Crivo positivo de admissibilidade na origem (fls. 653-656).
+É o relatório.
+DECIDO.
+2. A irresignação não merece prosperar.
+Da leitura dos autos verifica-se que a controvérsia recai sobre o disposto no art. 76, parágrafo único, da Lei n. 5.764/1971, verbis:
+Art. 76. A publicação no Diário Oficial, da ata da Assembléia Geral da sociedade, que deliberou sua liquidação, ou da decisão do órgão executivo federal quando a medida for de sua iniciativa, implicará a sustação de qualquer ação judicial contra a cooperativa, pelo prazo de 1 (um) ano, sem prejuízo, entretanto, da fluência dos juros legais ou pactuados e seus acessórios.
+Parágrafo único. Decorrido o prazo previsto neste artigo, sem que, por motivo relevante, esteja encerrada a liquidação, poderá ser o mesmo prorrogado, no máximo por mais 1 (um) ano, mediante decisão do órgão citado no artigo, publicada, com os mesmos efeitos, no Diário Oficial.
+Com efeito, a interpretação que se extrai do dispositivo legal colacionado acima é no sentido de que a deliberação da Assembleia Geral, decidindo pela liquidação, acarreta a automática suspensão das ações judiciais em curso contra a cooperativa em liquidação, pelo prazo de um ano.
+Finalizado tal interstício, o órgão competente (assembleia geral ou órgão executivo federal), pode determinar nova suspensão do prazo por um ano, desde que evidenciado motivo relevante.
+Ocorre que no caso sob análise, o Tribunal de origem manteve a decisão do Juízo de primeiro grau, que indeferiu o pedido de prorrogação da suspensão, por não vislumbrar a existência de motivo relevante a amparar o pleito.
+Confira-se o trecho pertinente:
+Ocorre que no presente caso, não verifico pela documentação acostada aos autos a existência do apontado motivo relevante a justificar a prorrogação de prazo, merecendo destaque o fato de que a liquidação extrajudicial da cooperativa autora foi deliberada na assembleia realizada em 27/09/2014 (fls. 224), ou seja, há mais de 18 meses.
+Inexiste nos autos comprovação da efetiva tomada de medidas concretas desde a suspensão operada na forma do art. 76, caput, da Lei 5.764/71, ou mesmo de que o prazo anterior não foi suficiente para se proceder na reorganização da cooperativa, não podendo a situação econômica da agravante servir de justificativa à concessão de novo prazo de suspensão. (fl. 592).
+Nesse contexto, a alteração destas premissas do acórdão, depende de incursão na seara das provas, soberanamente delineada perante as instâncias ordinárias, de modo que a insurgência esbarra, mais uma vez, no veto da Súmula 7 desta Corte.
+No mesmo sentido e tratando da mesma recorrente, cito as decisões monocráticas: AREsp 970991, Ministra MARIA ISABEL GALLOTTI, publicado em 08/08/2017, AREsp 1008129, Ministro PAULO DE TARSO SANSEVERINO, publicado em 19/03/2018, REsp 1681594, Ministro MARCO AURÉLIO BELLIZZE, publicado em 22/04/2020.
+Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+3. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
