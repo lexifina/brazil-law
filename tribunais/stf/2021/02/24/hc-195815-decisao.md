@@ -1,0 +1,12 @@
+Decisão (referente à petição edoc 17):
+    Em 03.02.2021, concedi a ordem de ofício para determinar ao Juízo da causa a realização de audiência de apresentação no prazo de 24 horas. A decisão foi comunicação no dia seguinte.
+    O impetrante, por meio da petição eDOC 17 (protocolada em 06.02.2021), pede a expedição de alvará de soltura em favor do paciente em decorrência da inobservância do decisium no prazo determinado.
+    Em 08.02.2021, a autoridade coatora noticiou a realização da audiência de custódia.
+    Esclareço que a realização da audiência de apresentação em data posterior não importa nulidade, nem conduz ao relaxamento da prisão decretada, tal como aduz o impetrante. Neste sentido, já me pronunciei em caso análogo:
+    “Por fim, consigno que, ao contrário da explicitação do STJ, ao meu sentir, a conversão da prisão em flagrante em preventiva não prejudica a alegação em apreço. Isso porque, desde o início, o impetrante rechaça a validade da prisão preventiva em razão da inobservância de norma cogente que compreende indispensável à legitimação e validade da formação do ato constritivo e cujos efeitos permaneceram acometendo o estado de liberdade do paciente. Outrossim, inexiste notícia de que o paciente tenha comparecido pessoalmente em Juízo, circunstância apta a alcançar a finalidade perseguida pela audiência de apresentação. Não há, portanto, alteração do quadro processual a induzir prejudicialidade. Não se trata, nessa perspectiva, de reduzir a audiência de apresentação a ato direcionado à enunciação meramente formal da observância procedimental da prisão em flagrante. Ao contrário, a presença pessoal do preso tem como supedâneo otimizar, sob a ótica dos direitos fundamentais, a avaliação judicial quanto às providências descritas no art. 310 do Código de Processo Penal, de modo que a conversão da prisão em flagrante em preventiva sem tal proceder traduz a irregularidade da decisão proferida. Por outro lado, a aferição da ilegalidade não acarreta imediata soltura, tendo em vista que o juízo de necessidade e adequação de eventuais medidas cautelares gravosas consubstancia tema a ser enfrentado, originariamente, pelo Juiz natural.” (HC 133992, de minha relatoria, Primeira Turma, julgado em 11.10.2016, PROCESSO ELETRÔNICO DJe-257 DIVULG 01-12-2016 PUBLIC 02-12-2016).
+    Ante o exposto, indefiro o pedido de liberdade provisória.
+    Publique-se. Intime-se.
+    Brasília, 24 de fevereiro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
