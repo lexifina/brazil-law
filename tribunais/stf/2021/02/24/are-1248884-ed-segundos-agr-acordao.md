@@ -1,0 +1,1199 @@
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 1 de 26
+
+24/02/2021
+
+SEGUNDA TURMA
+
+AG.REG. NOS SEGUNDOS EMB.DECL. NO RECURSO EXTRAORDINÁRIO
+COM AGRAVO 1.248.884 SANTA CATARINA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: VERA LUCIA BELLOTTO
+: MARCOS COSSUL
+: MUNICÍPIO DE CAPINZAL
+: PROCURADOR-GERAL
+DO
+CAPINZAL
+: HILARIO CHIAMOLERA
+
+MUNICÍPIO
+
+DE
+
+EMENTA: AGRAVO REGIMENTAL NOS SEGUNDOS EMBARGOS
+DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM
+AGRAVO. SERVIDORA PÚBLICA MUNICIPAL OCUPANTE DE
+CARGO EFETIVO. LEGISLAÇÃO LOCAL QUE PREVÊ A VACÂNCIA
+DO CARGO APÓS A APOSENTADORIA VOLUNTÁRIA. PEDIDO DE
+REINTEGRAÇÃO NO MESMO CARGO QUE OCUPAVA SEM A
+REALIZAÇÃO DE CONCURSO PÚBLICO. CUMULAÇÃO DE
+VENCIMENTOS COM PROVENTOS DE APOSENTADORIA ORIUNDA
+DO RGPS. IMPOSSIBILIDADE. PRECEDENTES.
+1. Segundo a legislação municipal a aposentadoria voluntária de
+servidor público regido pelo RGPS é causa de vacância do cargo público.
+2. No caso, a pretensão da Recorrente é de ser reintegrada no
+mesmo cargo que ocupava antes de sua aposentadoria voluntária sem a
+realização de novo concurso público.
+3. O Tribunal de origem decidiu a causa em consonância com a
+jurisprudência desta Corte, no sentido de que, na hipótese dos autos, não
+é possível a acumulação de vencimentos de cargo público com proventos
+de aposentadoria oriunda do Regime Geral de Previdência Social.
+4. A via extraordinária, nos termos das Súmulas 279 e 280 do STF, é
+inadequada para discutir questões fáticas e interpretar legislação local
+envolvendo a vacância do cargo público.
+5. Agravo regimental a que se nega provimento. Majorados em ¼
+(um quarto) os honorários fixados anteriormente, nos termos do art. 85, §
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 721E-EA82-2F3E-24F5 e senha 9F51-9A4F-16C3-9FF7
+
+Supremo Tribunal Federal
+Ementa e Acórdão
+
+Inteiro Teor do Acórdão - Página 2 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+11, do CPC, devendo ser observados os §§ 2º e 3º do mesmo dispositivo e
+a suspensão da exigibilidade por ser a parte beneficiária da justiça
+gratuita.
+
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da
+Segunda Turma do Supremo Tribunal Federal, em Sessão Virtual de 12 a
+23 de fevereiro de 2021, sob a Presidência do Senhor Ministro Gilmar
+Mendes, na conformidade da ata de julgamento e das notas taquigráficas,
+por unanimidade de votos, em negar provimento ao agravo regimental,
+com majoração em ¼ (um quarto) dos honorários fixados anteriormente,
+nos termos do art. 85, § 11, do CPC, devendo ser observados os §§ 2º e 3º
+do mesmo dispositivo e a suspensão da exigibilidade por ser a parte
+beneficiária da justiça gratuita, nos termos do voto do Relator.
+Brasília, 24 de fevereiro de 2021.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 721E-EA82-2F3E-24F5 e senha 9F51-9A4F-16C3-9FF7
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 3 de 26
+
+24/02/2021
+
+SEGUNDA TURMA
+
+AG.REG. NOS SEGUNDOS EMB.DECL. NO RECURSO EXTRAORDINÁRIO
+COM AGRAVO 1.248.884 SANTA CATARINA
+RELATOR
+AGTE.(S)
+ADV.(A/S)
+AGDO.(A/S)
+PROC.(A/S)(ES)
+ADV.(A/S)
+
+: MIN. EDSON FACHIN
+: VERA LUCIA BELLOTTO
+: MARCOS COSSUL
+: MUNICÍPIO DE CAPINZAL
+: PROCURADOR-GERAL
+DO
+CAPINZAL
+: HILARIO CHIAMOLERA
+
+MUNICÍPIO
+
+DE
+
+RELATÓRIO
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): Trata-se de agravo
+regimental (eDOC 45) interposto em 26.11.2020 (eDOC 46), em face de
+decisão monocrática em que, ao acolher os embargos de declaração
+opostos pelo Município de Capinzal, ora Agravado, tornei sem efeito a
+decisão anteriormente proferida para negar provimento ao recurso
+extraordinário interposto pela servidora pública municipal, nos seguintes
+termos (eDOC 44):
+“Cuida-se de embargos de declaração (eDOC 24) opostos
+pelo Município de Capinzal, em face de decisão monocrática
+em que dei provimento ao recurso extraordinário da parte
+contrária, nos seguintes termos (eDOC 23):
+“Trata-se de agravo cujo objeto é a decisão que não
+admitiu recurso extraordinário interposto em face de acórdão do
+Tribunal de Justiça do Estado de Santa Catarina, assim
+ementado (eDOC 12, p. 24):
+‘APELAÇÃO. AÇÃO PARA REINTEGRAÇÃO A
+CARGO
+PÚBLICO.
+SENTENÇA
+DE
+IMPROCEDÊNCIA. INSURGÊNCIA DA AUTORA.
+PLEITO PARA RETORNO AO SERVIÇO PÚBLICO.
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 4 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+INVIABILIDADE. SERVIDORA EXONERADA EM
+RAZÃO DA CONCESSÃO DE APOSENTADORIA
+POR TEMPO DE CONTRIBUIÇÃO. LEGALIDADE
+DO ATO.IMPOSSIBILIDADE DA PERCEPÇÃO
+SIMULTÂNEA DE REMUNERAÇÃO E PROVENTOS
+DE APOSENTAÇÃO, EM RAZÃO DO EXERCÍCIO
+DA MESMA FUNÇÃO PÚBLICA. ART. 37, § 10, DA
+CF. PRÉVIA INSTAURAÇÃO DE PROCESSO
+ADMINISTRATIVO TAMPOUCO NECESSÁRIA.
+VEREDICTO MANTIDO.
+"Se o tempo de serviço e suas contribuições foram
+objeto de contagem para a aposentadoria obtida junto ao
+INSS, que no caso é o órgão previdenciário do Município,
+fica impossibilitada a percepção simultânea dos proventos
+da inatividade com o vencimento desse mesmo cargo
+público.[...](Apelação
+Cível
+nº
+000417629.2008.8.24.0024, de Fraiburgo, rel. Des. Paulo
+Henrique Moritz Martins da Silva, Primeira Câmara de
+Direito Público, j. 15/08/2017).
+APELO ARTICULADO JÁ SOB A VIGÊNCIA
+DO
+NCPC.
+ARBITRAMENTO
+DE
+VERBA
+HONORÁRIA TAMBÉM NO GRAU RECURSAL,
+EM5% SOBRE O MESMO PARÂMETRO ADOTADO
+NA ORIGEM. ART. 85, § 11, DALEI Nº 13.105/15.
+RECURSO CONHECIDO E DESPROVIDO.’
+Os embargos de declaração foram rejeitados (eDOC 13, p.
+14-19).
+No recurso extraordinário, com fundamento no art. 102,
+III, a, do permissivo constitucional, aponta-se ofensa aos arts.
+5º, LIV e LV, 37, § 10, e 41, §§ 1º, I, II, III e IV, 2º, 3º e 4º, da
+Constituição Federal.
+Nas razões recursais, sustenta-se, em suma, que “A
+proibição de acumular, estabelecida pela Constituição, refere-se a
+vencimentos com proventos de aposentadoria decorrentes do art.
+40 ou dos arts. 42 e 142, vale dizer, vencimento do cargo e,
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 5 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+portanto, não alcança a cumulação com proventos recebidos do
+INSS, relativos ao regime geral de previdência, de que a Carta
+de 1988 cuida apenas no art. 201” (eDOC 14, p. 10).
+O Tribunal de origem inadmitiu o extraordinário
+mediante aplicação das Súmulas 280 e 283 do STF, bem como
+pelo enquadramento ao Tema 660 da sistemática da repercussão
+geral (eDOC 16, p. 2-9).
+É o relatório. Decido.
+A irresignação merece prosperar.
+Verifica-se que o Tribunal de origem, ao negar provimento
+ao recurso de apelação da ora Recorrente, consignou (eDOC 12
+p. 29/30):
+‘Extrai-se dos fólios que a autora era servidora
+pública do Município de Capinzal desde 01/09/1990.
+(...)
+Deste modo, forçoso concluir que a aposentação deuse em razão do exercício de cargo público, pois,no cálculo,
+foram computados o tempo de serviço público e as
+contribuições dele decorrentes.
+(...)
+Logo, o pleito para que seja reintegrada ao serviço
+público encontra óbice no disposto em o art. 37, § 10, da
+Constituição Federal, in verbis:
+(...)
+Diferentemente do que acontece no setor privado, no
+serviço público" a aposentadoria voluntária produz a
+imediata cessação do contrato de trabalho, de forma que, se
+o servidor público quiser permanecer no mesmo, ou ir para
+outro cargo, terá de fazer um concurso, de acordo com o
+art.37, II, da CF/1988 (STJ, Min. Anselmo Santiago)".
+(Agravo de Instrumento n.0136402-26.2015.8.24.0000,
+de Capinzal, rel. Des. Ronei Danielli, Terceira Câmara de
+Direito Público, j.10/10/2017)’
+Sendo essas as razões de decidir do Tribunal de origem,
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 6 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+observa-se que o acórdão recorrido está dissonância com a
+jurisprudência deste Supremo Tribunal Federal, que possui
+precedentes de ambas as Turmas no sentido da possibilidade de
+cumulação de vencimentos de cargo público com proventos de
+aposentadoria oriunda do regime geral de previdência social. Em
+casos análogos ao ora tratado, confira-se o entendimento da
+Corte:
+‘EMENTA:
+DIREITO
+ADMINISTRATIVO.
+AGRAVO
+INTERNO
+EM
+RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+ACUMULAÇÃO. PROVENTOS E VENCIMENTOS.
+REGIMES
+DISTINTOS.
+POSSIBILIDADE.
+PRECEDENTES. 1. O acórdão do Tribunal de origem
+alinha-se à jurisprudência do Supremo Tribunal Federal
+no sentido de que é possível a cumulação de vencimentos
+de cargo público e proventos de aposentadoria oriunda do
+regime geral de previdência. 2. Nos termos do art. 85, §
+11, do CPC/2015, fica majorado em 25% o valor da verba
+honorária fixada anteriormente, observados os limites
+legais do art. 85, §§ 2º e 3º, do CPC/2015. 3. Agravo
+interno a que se nega provimento.’ (ARE 1148213-AgR,
+Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe
+5.4.2019).
+‘EMENTA Agravo regimental nos embargos de
+declaração no recurso extraordinário com agravo. Direito
+Administrativo e Constitucional. Servidor público.
+Cumulação de proventos de aposentadoria oriunda do
+regime geral de previdência com vencimentos de cargo
+público. Possibilidade. Precedentes. 1. A jurisprudência do
+Supremo Tribunal Federal firmou-se no sentido da
+possibilidade de cumulação de vencimentos de cargo
+público com proventos de aposentadoria oriunda do regime
+geral de previdência. 2. Agravo regimental não provido.’
+(ARE 915420-ED-AgR, Rel. Min. DIAS TOFFOLI,
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 7 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+Segunda Turma, DJe 5.6.2018).
+‘Ementa: AGRAVO INTERNO NO RECURSO
+EXTRAORDINÁRIO.
+ADMINISTRATIVO.
+SERVIDOR PÚBLICO MUNICIPAL. ACUMULAÇÃO
+DE PROVENTOS DE APOSENTADORIA PELO
+REGIME GERAL DE PREVIDÊNCIA SOCIAL COM
+REMUNERAÇÃO DE CARGO PÚBLICO. REGIMES
+DISTINTOS. POSSIBILIDADE. PRECEDENTES.
+AGRAVO INTERNO DESPROVIDO.’ (RE 1221999AgR, Rel. Min. LUIZ FUX, Primeira Turma, DJe
+25.10.2019).
+‘AGRAVO REGIMENTAL NO RECURSO
+EXTRAORDINÁRIO
+COM
+AGRAVO.
+ADMINISTRATIVO.
+POSSIBILIDADE
+DE
+ACUMULAÇÃO DE PROVENTOS DECORRENTES
+DE APOSENTADORIA NO REGIME GERAL DE
+PREVIDÊNCIA SOCIAL COM REMUNERAÇÃO DE
+CARGO
+PÚBLICO.
+PRECEDENTES.
+CONTRARRAZÕES
+APRESENTADAS.
+VERBA
+HONORÁRIA MAJORADA EM 1%, PERCENTUAL
+O QUAL SE SOMA AO FIXADO NA DECISÃO
+AGRAVADA, OBEDECIDOS OS LIMITES DO ART.
+85, § 2º, § 3º E § 11, DO CÓDIGO DE PROCESSO
+CIVIL/2015, COM A RESSALVA DE EVENTUAL
+CONCESSÃO DO BENEFÍCIO DA JUSTIÇA
+GRATUITA. AGRAVO REGIMENTAL AO QUAL SE
+NEGA PROVIMENTO.’ (ARE 914.547-AgR/SP, Rel.
+Min. Cármen Lúcia, Segunda Turma, DJe 29/8/2016).
+Aponto, no mesmo sentido, as seguinte decisões
+monocráticas: ARE 1.215.152, Rel. Min. Gilmar Mendes, DJe
+de 1º/7/2019; ARE 1.214.633, Rel. Min. Rosa Weber, DJe de
+18/6/2019; RE 1.063.705, Rel. Min. Ricardo Lewandowski, DJe
+de 19/6/2018; RE 1.033.369, Rel. Min. Celso de Mello, DJe de
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 8 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+16/6/2017; e ARE 938.867, Rel. Min. Dias Toffoli, DJe de
+1º/2/2017.
+Ante o exposto, dou provimento ao recurso, com
+fundamento nos arts. 21, § 2º, do RISTF e 932, V, b, do CPC,
+com a consequente reintegração da Recorrente ao cargo que foi
+exonerada, tendo em vista que não há acumulação vedada pela
+Constituição Federal.
+Invertidos os ônus da sucumbência”.
+Nas razões recursais, sustenta-se a existência de omissão e
+contradição na decisão embargada, tendo em vista que, para
+dar provimento ao recurso da servidora pública municipal, no
+sentido da possibilidade de acumulação de vencimentos de
+cargo público com proventos de aposentadoria oriunda do
+RGPS, entendeu-se que a questão debatida nos autos estaria
+pacificada por ambas as Turmas desta Corte.
+Para comprovar que a discussão dos autos não se encontra
+em harmonia com a atual jurisprudência deste Tribunal,
+aponta-se recentes julgamentos da Primeira Turma proferidos,
+em 16.06.2020, no ARE 1.234.192 e no ARE 1.250.903, ocasião em
+que restou consignado que “o servidor público municipal
+aposentado pelo Regime Geral de Previdência Social (RGPS), não
+pode ser reintegrado ao cargo em que se aposentou” (eDOC 24, p. 7).
+Desse modo, conclui-se que o vício apontado deve ser
+sanado, com apoio no seguinte argumento (eDOC 24, p. 13):
+“Diante desse contexto, resta evidente que a
+jurisprudência da Suprema Corte, especialmente a Primeira e
+Segunda Turmas, ao contrário do que foi dito da decisão ora
+embargada, não está consolidada no sentido da possibilidade de
+cumulação de aposentadoria pelo RGPS para os servidores
+estatutários (que é o tema destes autos), conforme demonstram
+as diversas decisões acima elencadas, as quais concluíram pela
+impossibilidade de acumular proventos da inatividade com a
+remuneração do cargo”.
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 9 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+De outro lado, afirma-se que a servidora pública
+ocupava o cargo de “agente de serviços gerais”, portanto,
+não é aplicável a ressalva prevista no art. 37, da CF, que
+permite “apenas a acumulação nas seguintes situações: dois
+cargos de professor; um cargo de professor com outro técnico ou
+científico; dois cargos privativos de profissionais de saúde, com
+profissões regulamentadas” (eDOC 24, p. 26).
+A parte Recorrida, devidamente intimada, manifestou-se
+nos presentes autos (eDOC 41).
+É o relatório. Decido.
+Nos termos do art. 1.024, §2º, do CPC/15, “Quando os
+embargos de declaração forem opostos contra decisão de relator ou
+outra decisão unipessoal proferida em tribunal, o órgão prolator da
+decisão embargada decidi-los-á monocraticamente.”
+Reputo assistir razão ao Município Embargante quanto
+aos vícios apontados.
+Verifico que a atual orientação firmada pelo Supremo
+Tribunal Federal, na hipótese dos autos, é no sentido da
+impossibilidade de cumulação de vencimentos de cargo público
+com proventos de aposentadoria oriunda do regime geral de
+previdência social.
+De outro lado, constato que, segundo a legislação
+municipal, a aposentadoria voluntária de servidor público
+regido pelo RGPS é causa de vacância do cargo público.
+No caso concreto, trata-se de pedido de reintegração no
+mesmo cargo público, sem a realização de novo concurso
+público, situação que possui, atualmente, precedentes das duas
+Turmas desta Corte no sentido de sua improcedência.
+Confiram-se, a respeito:
+“AGRAVO
+INTERNO.
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. SERVIDORA
+PÚBLICA MUNICIPAL, OCUPANTE DE CARGO
+PÚBLICO
+DE
+PROVIMENTO
+EFETIVO.
+APOSENTADORIA VOLUNTÁRIA. HIPÓTESE DE
+VACÂNCIA DO CARGO, SEGUNDO A LEGISLAÇÃO DO
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 10 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+MUNICÍPIO. PRETENSÃO DE RETORNO AO CARGO,
+AO FUNDAMENTO DE QUE A APOSENTADORIA
+PELO REGIME GERAL DE PREVIDÊNCIA SOCIAL –
+INSS É CUMULÁVEL COM OS VENCIMENTOS.
+IMPOSSIBILIDADE DE REINTEGRAÇÃO AO MESMO
+CARGO PÚBLICO APÓS APOSENTADORIA, SEM
+APROVAÇÃO EM CONCURSO PÚBLICO. 1. Panorama
+de fato do caso: - servidora municipal ocupa cargo público de
+provimento efetivo; - requer aposentadoria perante o Instituto
+Nacional do Seguro Social INSS, pois o Município não possui
+regime próprio de previdência; - a legislação municipal dispõe
+que a aposentadoria é causa de vacância do cargo público, o que,
+em tese, determina o afastamento da servidora dos quadros da
+Administração; - a servidora propõe ação judicial com pedido de
+tutela inibitória, postulando a manutenção no cargo mesmo
+depois de aposentar-se, ao fundamento de que é cabível a
+percepção simultânea de vencimentos de cargo público com
+proventos de aposentadoria pagos pelo Regime Geral de
+Previdência Social. 2. O acesso a cargos públicos rege-se pela
+Constituição Federal e pela legislação de cada unidade
+federativa. Se o legislador municipal estabeleceu que a
+aposentadoria é causa de vacância, o servidor não pode, sem
+prestar novo concurso público, manter-se ou ser reintegrado ao
+mesmo cargo, depois de se aposentar. Com efeito, antes mesmo
+da EC 20/1998, quando não havia a vedação de acumulação de
+proventos com vencimentos de cargo público, esta CORTE já
+proclamava a inarredável necessidade do concurso público para
+o provimento do cargo público após a aposentadoria.
+Precedentes. 3. No caso em análise, a servidora municipal
+intenta ser reintegrada no mesmo cargo após a aposentadoria,
+sem se submeter a certame público, o que contraria a
+jurisprudência do SUPREMO TRIBUNAL FEDERAL. 4.
+Agravo Interno ao qual se nega provimento” (grifei). (ARE
+1.235.997-AgR, Rel. Min. Alexandre de Moraes, Primeira
+Turma, DJe 19.12.2019).
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 11 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO
+INTERNO
+EM
+RECURSO
+EXTRAORDINÁRIO.
+OMISSÃO.
+EXISTÊNCIA.
+ADMINISTRATIVO.
+SERVIDOR PÚBLICO. APOSENTADORIA PELO
+REGIME GERAL DE PREVIDÊNCIA SOCIAL – RGPS
+EM RAZÃO DO EXERCÍCIO DO CARGO. AUSÊNCIA
+DE REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL.
+LEGISLAÇÃO
+DO
+ENTE
+FEDERATIVO
+QUE
+ESTABELECE A APOSENTADORIA COMO CAUSA DE
+VACÂNCIA. MANUTENÇÃO OU REINTEGRAÇÃO AO
+CARGO SEM PRESTAÇÃO DE NOVO CONCURSO
+PÚBLICO.
+IMPOSSIBILIDADE.
+PRECEDENTES.
+ACUMULAÇÃO DE PROVENTOS E VENCIMENTOS.
+POSSIBILIDADE APENAS NO CASO DE CARGOS,
+FUNÇÕES OU EMPREGOS ACUMULÁVEIS NA
+ATIVIDADE.
+EMBARGOS
+DE
+DECLARAÇÃO
+PROVIDOS,
+COM
+EXCEPCIONAIS
+EFEITOS
+INFRINGENTES, PARA DESPROVER O RECURSO
+EXTRAORDINÁRIO” (grifei) (RE 1.221.999-AgR-ED, Rel.
+Min. Luiz Fux, Primeira Turma, DJe 18.09.2020).
+“DIREITO ADMINISTRATIVO. AGRAVO INTERNO
+EM RECURSO EXTRAORDINÁRIO. CARGO PÚBLICO
+DE
+PROVIMENTO
+EFETIVO.
+APOSENTADORIA
+VOLUNTÁRIA. ACUMULAÇÃO DE PROVENTOS COM
+VENCIMENTOS ORIUNDOS DO MESMO CARGO
+PÚBLICO. IMPOSSIBILIDADE. PRECEDENTES. 1. É
+vedada a percepção simultânea de proventos de aposentadoria
+com remuneração de cargo, emprego ou função pública,
+ressalvada as hipóteses de cargos acumuláveis na forma da
+Constituição, cargos eletivos e cargos em comissão. Precedentes.
+2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não é
+cabível, na hipótese, condenação em honorários advocatícios
+(art. 25, Lei nº 12.016/2009 e Súmula 512/STF). 3. Agravo
+interno a que se nega provimento” (RE 1.235.897-AgR, Rel.
+Min. Roberto Barroso, Primeira Turma, DJe 30.03.2020).
+
+9
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 12 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+
+Neste ponto, ressaltou a Min. Cármen Lúcia, em recente
+julgamento (Sessão Virtual de 16.06.2020), no voto condutor do
+acórdão proferido no RE 1.258.491-AgR, pela Segunda Turma
+desta Corte, DJe 26.06.2020:
+“Este Supremo Tribunal assentou que é possível a
+acumulação de proventos advindos de aposentadoria no Regime
+Geral de Previdenciária Social com remuneração de cargo
+público. Assim, por exemplo:
+(...).
+No entanto, a discussão posta neste processo é
+diversa, pois o agravante pretende a acumulação de
+proventos do Regime Geral de Previdência Social com
+vencimentos da ativa, ambos oriundos do mesmo cargo
+público. (grifei)
+O Supremo Tribunal assentou ser vedada a percepção
+simultânea de proventos de aposentadoria com remuneração de
+cargo, emprego ou função pública, ressalvada as hipóteses de
+cargos acumuláveis na forma da Constituição, cargos
+eletivos e cargos em comissão. Assim, por exemplo:
+(...)
+Assim, como assentado na decisão agravada, a pretensão
+de servidor público municipal de ser reintegrado no
+mesmo cargo público após a aposentadoria exige
+aprovação em concurso público. Nesse sentido:
+(...)”
+Confira-se, ainda, a respeito, outro julgado da Segunda
+Turma deste Tribunal:
+“RECURSO EXTRAORDINÁRIO COM AGRAVO –
+SERVIDORA PÚBLICA OCUPANTE DE CARGO
+EFETIVO FILIADA AO REGIME GERAL DE
+PREVIDÊNCIA SOCIAL ANTE A AUSÊNCIA DE
+INSTITUIÇÃO
+DE
+REGIME
+PREVIDENCIÁRIO
+
+10
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 13 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+PRÓPRIO – APOSENTADORIA ESPONTÂNEA –
+EXTINÇÃO DO VÍNCULO EFETIVO COM A
+ADMINISTRAÇÃO
+PÚBLICA
+–
+PRETENDIDA
+MANUTENÇÃO NO CARGO INDEPENDENTEMENTE
+DE PRÉVIA APROVAÇÃO EM NOVO CONCURSO
+PÚBLICO – IMPOSSIBILIDADE – TRANSGRESSÃO
+AO DISPOSTO NO ART. 37, II, DA CONSTITUIÇÃO DA
+REPÚBLICA – DECISÃO QUE SE AJUSTA À
+JURISPRUDÊNCIA PREVALECENTE NO SUPREMO
+TRIBUNAL
+FEDERAL
+–
+CONSEQUENTE
+INVIABILIDADE DO RECURSO QUE A IMPUGNA –
+SUBSISTÊNCIA DOS FUNDAMENTOS QUE DÃO
+SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA
+RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO,
+NO CASO, ANTE A INADMISSIBILIDADE DE
+CONDENAÇÃO EM VERBA HONORÁRIA, POR
+TRATAR-SE DE PROCESSO DE MANDADO DE
+SEGURANÇA (SÚMULA 512/STF E LEI Nº 12.016/2009,
+ART. 25) – AGRAVO INTERNO IMPROVIDO” (grifei)
+(ARE 1.244.823-AgR-Segundo, Rel. Min. Celso de Mello,
+Segunda Turma, DJe 04.09.2020).
+Constato que o Plenário desta Suprema Corte reafirmou
+este entendimento ao proferir recente julgamento, em
+18.08.2020, no ARE 1.229.321-AgR-Segundo-EDv, também de
+relatoria da Min. Cármen Lúcia, DJe 04.09.2020, assim
+ementado:
+“EMBARGOS DE DIVERGÊNCIA NO SEGUNDO
+AGRAVO
+REGIMENTAL
+NO
+RECURSO
+EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO
+E
+CONSTITUCIONAL.
+SERVIDORA
+PÚBLICA
+MUNICIPAL. AUSÊNCIA DE REGIME PRÓPRIO DE
+PREVIDÊNCIA
+SOCIAL
+MUNICIPAL.
+APOSENTADORIA VOLUNTÁRIA PELO REGIME
+GERAL DE PREVIDÊNCIA SOCIAL. PREVISÃO
+
+11
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 14 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+LEGISLATIVA DE VACÂNCIA DO CARGO PÚBLICO.
+REINTEGRAÇÃO. IMPOSSIBILIDADE. PRECEDENTES
+DE AMBAS AS TURMAS. DIVERGÊNCIA NÃO
+CONFIGURADA. EMBARGOS DE DIVERGÊNCIA
+REJEITADOS” (grifei).
+Diante da jurisprudência majoritária desta Corte sobre o
+tema, acolho os embargos de declaração opostos pelo
+Município de Capinzal (eDOC 24), torno sem efeito a decisão
+anteriormente proferida (eDOC 23) para negar provimento ao
+recurso interposto pela servidora pública municipal, com base
+no artigo 932, IV, b, do Código de Processo Civil. Nos termos do
+artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários
+fixados anteriormente, devendo ser observados os limites dos
+§§ 2º e 3º do mesmo dispositivo e a suspensão da exigibilidade
+por ser a parte beneficiária da justiça gratuita (eDOC 12, p. 33).
+Em, consequência, torno sem efeito, também, a decisão
+por mim exarada em 30.09.2010 (eDOC 43), publicada no DJe
+1º.10.2020, concernente aos embargos de declaração opostos por
+Vera Lúcia Belotto (Petição 58.798/2020 - eDOC 36)”.
+
+Sustenta-se, nas razões do presente agravo regimental, que a decisão
+agravada merece reforma, tendo em vista “que o acórdão recorrido contraria
+o § 10, do art. 37 da CF que se encontrava vigente até a entrada em vigor da EC
+nº 103/19, que introduziu o § 14 no referido artigo (...)” (eDOC 45, p. 14).
+Alega-se que, apesar da existência de precedentes no sentido da
+impossibilidade de tal cumulação, a questão não se encontra pacificada
+no âmbito desta Corte.
+Para tanto, aponta-se precedentes deste Tribunal no ARE 1.182.444AgR, de relatoria do Min. Ricardo Lewandowski, no ARE 915.420-AgR,
+de relatoria do Min. Dias Toffoli, ARE 1.148.213-AgR, de relatoria do Min.
+Roberto Barroso e no RE 1.221.999-AgR, de relatoria do Min. Luiz Fux,
+além de outros julgados.
+Afirma-se que “o art. 31 da LC n° 006/91 não ampara o ato de
+exoneração, seja porque a vacância só se aplica aos casos de concessão de
+12
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 15 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+aposentadoria no regime próprio (inexistente no município de Capinzal), e
+principalmente porque a CF/88 não veda essa acumulação e, ademais, referido
+dispositivo só alcança as situações expressamente previstas na referida lei, em seu
+art. 101 (...)” (eDOC 45, p. 24-25).
+Além disso, ressalta-se que a “exoneração de cargo de provimento efetivo
+só se dar a pedido do servidor ou por iniciativa da autoridade competente, e nesse
+caso, somente nas hipóteses expressamente previstas no parágrafo único do art.
+32 da Lei n° 006/1991 (...)” (eDOC 45, p. 25).
+A parte Agravada, devidamente intimada, apresentou manifestação,
+pugnando pela manutenção da decisão agravada e enfatizando, o
+seguinte (eDOC 48, p. 8):
+“(...) conforme sustentado pelo E. Ministro Relator, o
+pleito de reintegração da servidora, confrontado com a
+orientação do Supremo Tribunal Federal, encontra óbice em
+mais de um obstáculo jurídico, conforme acima já demonstrado.
+Assim, no caso dos autos, a reintegração da servidora é inviável
+dado que:
+. Há vedação a acumulação de vencimentos do cargo com
+proventos da aposentadoria pelo RGPS;
+. Existe no Município de Capinzal, lei municipal
+disciplinando que, a aposentadoria voluntária gera a vacância
+do cargo público;
+. É vedado reintegrar o servidor aposentado, no mesmo
+cargo público, sem a realização de novo concurso público;
+. A servidora ocupava o cargo de “agente de serviços
+gerais”, situação que não contempla a ressalva prevista no art.
+37, da CF, que permite apenas a acumulação de dois cargos de
+professor com outro técnico ou científico; dois cargos privativos
+de profissionais de saúde, com profissões regulamentadas.
+Conforme consta da decisão recorrida, as vedações que
+sustentam a impossibilidade de reintegração da servidora, estão
+alinhadas com a orientação majoritária de ambas as turmas de
+Supremo Tribunal Federal, fator decisivo para que fosse
+decretada a improcedência do recurso interposto pela
+
+13
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 16 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+Recorrente.
+Aqui não se desconhece da existência de decisões
+proferidas em sentido contrário. Contudo, conforme concluído
+na própria decisão recorrida, a atual e majoritária
+jurisprudência desta Suprema Corte sobre o tema, a toda prova,
+é pela impossibilidade de reintegração da servidora”.
+
+É o relatório.
+
+14
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Relatório
+
+Inteiro Teor do Acórdão - Página 17 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+
+15
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código AB21-AF11-BEA5-B3BE e senha 4E6B-38AC-9789-1DEF
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 18 de 26
+
+24/02/2021
+
+SEGUNDA TURMA
+
+AG.REG. NOS SEGUNDOS EMB.DECL. NO RECURSO EXTRAORDINÁRIO
+COM AGRAVO 1.248.884 SANTA CATARINA
+VOTO
+O SENHOR MINISTRO EDSON FACHIN (RELATOR): O recurso não
+merece acolhida.
+Para melhor compreensão da controvérsia, colho do voto condutor
+do acórdão recorrido, os seguintes fragmentos (eDOC 12, p. 29-30):
+“Extrai-se dos fólios que a autora era servidora pública do
+Município de Capinzal desde 01/09/1990.
+Em 15/122009, teve concedida aposentadoria por tempo de
+contribuição pelo Regime Geral de Previdência Social, tendo
+sido exonerada em 09/12/2011, via Portaria nº 1.111/2011:
+(...)
+Avulto que o Município de Capinzal não possui regime
+próprio de previdência social.
+Portanto, os servidores daquela comuna são filiados
+obrigatórios do RGPS -Regime Geral de Previdência Social.
+Deste modo, forçoso concluir que a aposentação deu-se
+em razão do exercício de cargo público, pois,no cálculo, foram
+computados o tempo de serviço público e as contribuições dele
+decorrentes.
+Até porque não consta nos autos qualquer informação no
+sentido de que entre os anos de 1990 e 2009, Vera Lúcia Belotto
+possuía outro vínculo de emprego.
+Logo, o pleito para que seja reintegrada ao serviço
+público encontra óbice no disposto em o art. 37, § 10, da
+Constituição Federal, in verbis:
+E também no art. 31, inc. V, da Lei Complementar
+Municipal nº 006/91:
+“Art. 31. a Vacância de cargo público decorre de:
+(...)
+V. aposentadoria.
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F0D0-6A77-CD94-5F67 e senha C987-8EDA-8F1C-2308
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 19 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+Diferentemente do que acontece no setor privado, no
+serviço público "a aposentadoria voluntária produz a imediata
+cessação do contrato de trabalho, de forma que, se o servidor público
+quiser permanecer no mesmo, ou ir para outro cargo, terá de fazer um
+concurso, de acordo com o art. 37, II, da CF/1988 (STJ, Min. Anselmo
+Santiago)".(Agravo de Instrumento n.0136402-26.2015.8.24.0000,
+de Capinzal, rel. Des. Ronei Danielli, Terceira Câmara de
+Direito Público, j.10/10/2017)” (grifei).
+
+Neste contexto, conforme afirmado na decisão agravada, verifica-se
+que os fundamentos do acórdão recorrido estão em consonância com a
+jurisprudência deste Tribunal, uma vez que esta Corte assentou que a
+pretensão de servidor público de ser reintegrado no mesmo cargo público
+após a aposentadoria exige aprovação em concurso público.
+Além disso, de acordo com o atual entendimento firmado pelo
+Supremo Tribunal Federal, não é possível, no caso, a cumulação de
+vencimentos de cargo público com proventos de aposentadoria oriunda
+do regime geral de previdência social.
+Confiram-se, a respeito, os seguintes julgados:
+“AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO
+COM AGRAVO. SERVIDORA PÚBLICA MUNICIPAL,
+OCUPANTE DE CARGO PÚBLICO DE PROVIMENTO
+EFETIVO. APOSENTADORIA VOLUNTÁRIA. HIPÓTESE DE
+VACÂNCIA DO CARGO, SEGUNDO A LEGISLAÇÃO DO
+MUNICÍPIO. PRETENSÃO DE RETORNO AO CARGO, AO
+FUNDAMENTO DE QUE A APOSENTADORIA PELO
+REGIME GERAL DE PREVIDÊNCIA SOCIAL – INSS É
+CUMULÁVEL
+COM
+OS
+VENCIMENTOS.
+IMPOSSIBILIDADE DE REINTEGRAÇÃO AO MESMO
+CARGO PÚBLICO APÓS APOSENTADORIA, SEM
+APROVAÇÃO EM CONCURSO PÚBLICO. 1. Panorama de
+fato do caso: - servidora municipal ocupa cargo público de
+provimento efetivo; - requer aposentadoria perante o Instituto
+Nacional do Seguro Social INSS, pois o Município não possui
+
+2
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F0D0-6A77-CD94-5F67 e senha C987-8EDA-8F1C-2308
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 20 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+regime próprio de previdência; - a legislação municipal dispõe
+que a aposentadoria é causa de vacância do cargo público, o
+que, em tese, determina o afastamento da servidora dos
+quadros da Administração; - a servidora propõe ação judicial
+com pedido de tutela inibitória, postulando a manutenção no
+cargo mesmo depois de aposentar-se, ao fundamento de que é
+cabível a percepção simultânea de vencimentos de cargo
+público com proventos de aposentadoria pagos pelo Regime
+Geral de Previdência Social. 2. O acesso a cargos públicos regese pela Constituição Federal e pela legislação de cada unidade
+federativa. Se o legislador municipal estabeleceu que a
+aposentadoria é causa de vacância, o servidor não pode, sem
+prestar novo concurso público, manter-se ou ser reintegrado ao
+mesmo cargo, depois de se aposentar. Com efeito, antes mesmo
+da EC 20/1998, quando não havia a vedação de acumulação de
+proventos com vencimentos de cargo público, esta CORTE já
+proclamava a inarredável necessidade do concurso público
+para o provimento do cargo público após a aposentadoria.
+Precedentes. 3. No caso em análise, a servidora municipal
+intenta ser reintegrada no mesmo cargo após a aposentadoria,
+sem se submeter a certame público, o que contraria a
+jurisprudência do SUPREMO TRIBUNAL FEDERAL. 4. Agravo
+Interno ao qual se nega provimento” (grifei). (ARE 1.235.997AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJe
+19.12.2019). (grifei)
+“DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM
+RECURSO EXTRAORDINÁRIO. CARGO PÚBLICO DE
+PROVIMENTO EFETIVO. APOSENTADORIA VOLUNTÁRIA.
+ACUMULAÇÃO DE PROVENTOS COM VENCIMENTOS
+ORIUNDOS
+DO
+MESMO
+CARGO
+PÚBLICO.
+IMPOSSIBILIDADE. PRECEDENTES. 1. É vedada a percepção
+simultânea de proventos de aposentadoria com remuneração de
+cargo, emprego ou função pública, ressalvada as hipóteses de
+cargos acumuláveis na forma da Constituição, cargos eletivos e
+cargos em comissão. Precedentes. 2. Inaplicável o art. 85, § 11,
+
+3
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F0D0-6A77-CD94-5F67 e senha C987-8EDA-8F1C-2308
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 21 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+do CPC/2015, uma vez que não é cabível, na hipótese,
+condenação em honorários advocatícios (art. 25, Lei nº
+12.016/2009 e Súmula 512/STF). 3. Agravo interno a que se nega
+provimento” (RE 1.235.897-AgR, Rel. Min. Roberto Barroso,
+Primeira Turma, DJe 30.03.2020).
+
+Não se desconhece, conforme julgados indicados pelo ora
+Recorrente, que, em outras situações, este Supremo Tribunal Federal
+também reconheceu a possibilidade de acumulação de proventos do
+RGPS com remuneração de cargos públicos.
+Registro, no ponto, quanto ao precedente apontado pelo ora
+Agravante no presente recurso (ARE 1.182.444-AgR, Rel. Min. Ricardo
+Lewandowski, Segunda Turma, DJe 02.06.2020), que, em face de tal
+acordão, pendem de julgamento embargos de divergência.
+Ressalto, ainda, no tocante ao RE 1.221.999-AgR, de relatoria do
+Min. Luiz Fux, DJe 25.10.2019, também, indicado no regimental, que o
+eminente Ministro Luiz Fux, alterando o seu entendimento sobre o tema,
+proferiu voto acolhendo os embargos de declaração opostos pelo
+Município de Vazante, com efeitos infringentes, para negar provimento
+ao recurso do servidor público municipal. Veja-se a ementa de referido
+precedente:
+“EMBARGOS DE DECLARAÇÃO NO AGRAVO
+INTERNO EM RECURSO EXTRAORDINÁRIO. OMISSÃO.
+EXISTÊNCIA. ADMINISTRATIVO. SERVIDOR PÚBLICO.
+APOSENTADORIA
+PELO
+REGIME
+GERAL
+DE
+PREVIDÊNCIA SOCIAL – RGPS EM RAZÃO DO
+EXERCÍCIO DO CARGO. AUSÊNCIA DE REGIME
+PRÓPRIO DE PREVIDÊNCIA SOCIAL. LEGISLAÇÃO DO
+ENTE
+FEDERATIVO
+QUE
+ESTABELECE
+A
+APOSENTADORIA COMO CAUSA DE VACÂNCIA.
+MANUTENÇÃO OU REINTEGRAÇÃO AO CARGO SEM
+PRESTAÇÃO
+DE
+NOVO
+CONCURSO
+PÚBLICO.
+IMPOSSIBILIDADE. PRECEDENTES. ACUMULAÇÃO DE
+PROVENTOS E VENCIMENTOS. POSSIBILIDADE APENAS
+
+4
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F0D0-6A77-CD94-5F67 e senha C987-8EDA-8F1C-2308
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 22 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+NO CASO DE CARGOS, FUNÇÕES OU EMPREGOS
+ACUMULÁVEIS NA ATIVIDADE. EMBARGOS DE
+DECLARAÇÃO
+PROVIDOS,
+COM
+EXCEPCIONAIS
+EFEITOS INFRINGENTES, PARA
+DESPROVER
+O
+RECURSO EXTRAORDINÁRIO” (grifei) (RE 1.221.999-AgRED, Rel. Min. Luiz Fux, Primeira Turma, DJe 18.09.2020).
+
+Com efeito, conforme transcrição acima destacada do acórdão
+recorrido, segundo a legislação municipal a aposentadoria voluntária de
+servidor público regido pelo RGPS é causa de vacância do cargo público
+(eDOC 12, p. 30).
+Neste ponto, a via extraordinária, nos termos das Súmulas 279 e 280
+do STF, é inadequada para discutir questões fáticas e interpretar
+legislação local envolvendo a vacância do cargo público.
+No caso concreto, trata-se de pedido de reintegração no mesmo
+cargo público, sem a realização de novo concurso público, situação que
+possui, atualmente, jurisprudência majoritária desta Corte no sentido de
+sua improcedência.
+Neste ponto, enfatizou a Min. Cármen Lúcia, em recente julgamento
+(Sessão Virtual de 16.06.2020), no voto condutor do acórdão proferido no
+RE 1.258.491-AgR, pela Segunda Turma desta Corte, DJe 26.06.2020:
+“Este Supremo Tribunal assentou que é possível a
+acumulação de proventos advindos de aposentadoria no
+Regime Geral de Previdenciária Social com remuneração de
+cargo público. Assim, por exemplo:
+(...).
+No entanto, a discussão posta neste processo é diversa,
+pois o agravante pretende a acumulação de proventos do
+Regime Geral de Previdência Social com vencimentos da
+ativa, ambos oriundos do mesmo cargo público. (grifei)
+O Supremo Tribunal assentou ser vedada a percepção
+simultânea de proventos de aposentadoria com remuneração de
+cargo, emprego ou função pública, ressalvada as hipóteses de
+cargos acumuláveis na forma da Constituição, cargos eletivos
+
+5
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F0D0-6A77-CD94-5F67 e senha C987-8EDA-8F1C-2308
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 23 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+e cargos em comissão. Assim, por exemplo:
+(...)
+Assim, como assentado na decisão agravada, a pretensão
+de servidor público municipal de ser reintegrado no mesmo
+cargo público após a aposentadoria exige aprovação em
+concurso público. Nesse sentido:
+(...)”
+
+Confiram-se, ainda, a respeito, outros julgados da Segunda Turma
+deste Tribunal:
+“RECURSO EXTRAORDINÁRIO COM AGRAVO –
+SERVIDORA PÚBLICA OCUPANTE DE CARGO EFETIVO
+FILIADA AO REGIME GERAL DE PREVIDÊNCIA SOCIAL
+ANTE A AUSÊNCIA DE INSTITUIÇÃO DE REGIME
+PREVIDENCIÁRIO
+PRÓPRIO
+–
+APOSENTADORIA
+ESPONTÂNEA – EXTINÇÃO DO VÍNCULO EFETIVO COM
+A
+ADMINISTRAÇÃO
+PÚBLICA
+–
+PRETENDIDA
+MANUTENÇÃO NO CARGO INDEPENDENTEMENTE DE
+PRÉVIA APROVAÇÃO EM NOVO CONCURSO PÚBLICO –
+IMPOSSIBILIDADE – TRANSGRESSÃO AO DISPOSTO
+NO ART. 37, II, DA CONSTITUIÇÃO DA REPÚBLICA –
+DECISÃO QUE SE AJUSTA À JURISPRUDÊNCIA
+PREVALECENTE NO SUPREMO TRIBUNAL FEDERAL –
+CONSEQUENTE INVIABILIDADE DO RECURSO QUE A
+IMPUGNA – SUBSISTÊNCIA DOS FUNDAMENTOS QUE
+DÃO SUPORTE À DECISÃO RECORRIDA – SUCUMBÊNCIA
+RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO
+CASO, ANTE A INADMISSIBILIDADE DE CONDENAÇÃO
+EM VERBA HONORÁRIA, POR TRATAR-SE DE PROCESSO
+DE MANDADO DE SEGURANÇA (SÚMULA 512/STF E LEI
+Nº 12.016/2009, ART. 25) – AGRAVO INTERNO IMPROVIDO”
+(grifei) (ARE 1.244.823-AgR-Segundo, Rel. Min. Celso de Mello,
+Segunda Turma, DJe 04.09.2020).
+“AGRAVO
+
+REGIMENTAL
+
+EM
+
+RECURSO
+
+6
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F0D0-6A77-CD94-5F67 e senha C987-8EDA-8F1C-2308
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 24 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO
+MUNICIPAL
+OCUPANTE
+DE
+CARGO
+EFETIVO.
+LEGISLAÇÃO LOCAL QUE PREVÊ A VACÂNCIA DO
+CARGO APÓS A APOSENTADORIA VOLUNTÁRIA. PEDIDO
+DE REINTEGRAÇÃO NO MESMO CARGO QUE OCUPAVA
+SEM A REALIZAÇÃO DE CONCURSO PÚBLICO.
+CUMULAÇÃO DE VENCIMENTOS COM PROVENTOS DE
+APOSENTADORIA ORIUNDA DO RGPS. IMPOSSIBILIDADE.
+APELO EXTREMO DO MUNICÍPIO AGRAVADO PROVIDO.
+PRECEDENTES. 1. Segundo a legislação municipal a
+aposentadoria voluntária de servidor público regido pelo RGPS
+é causa de vacância do cargo público. 2. No caso, a pretensão do
+Recorrente é de ser reintegrado no mesmo cargo que ocupava
+antes de sua aposentadoria voluntária sem a realização de novo
+concurso público. 3. O Tribunal de origem decidiu a causa em
+divergência com a jurisprudência desta Corte, no sentido de
+que a reintegração de servidor público efetivo no mesmo cargo
+público após a aposentadoria exige aprovação em concurso
+público. 4. Na hipótese, não é possível a acumulação de
+vencimentos de cargo público com proventos de aposentadoria
+oriunda do Regime Geral de Previdência Social. 5. Agravo
+regimental a que se nega provimento” (ARE 1.213.073-AgR, de
+minha relatoria, Segunda Turma, DJe 30.11.2020).
+
+Constato que o Plenário desta Suprema Corte reafirmou este
+entendimento ao proferir recente julgamento, em 18.08.2020, no ARE
+1.229.321-AgR-Segundo-EDv, também de relatoria da Min. Cármen Lúcia,
+DJe 04.09.2020, assim ementado:
+“EMBARGOS DE DIVERGÊNCIA NO SEGUNDO
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO
+COM AGRAVO. ADMINISTRATIVO E CONSTITUCIONAL.
+SERVIDORA PÚBLICA MUNICIPAL. AUSÊNCIA DE
+REGIME
+PRÓPRIO
+DE
+PREVIDÊNCIA
+SOCIAL
+MUNICIPAL. APOSENTADORIA VOLUNTÁRIA PELO
+REGIME GERAL DE PREVIDÊNCIA SOCIAL. PREVISÃO
+
+7
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F0D0-6A77-CD94-5F67 e senha C987-8EDA-8F1C-2308
+
+Supremo Tribunal Federal
+Voto - MIN. EDSON FACHIN
+
+Inteiro Teor do Acórdão - Página 25 de 26
+
+ARE 1248884 ED- SEGUNDOS-AGR / SC
+LEGISLATIVA DE VACÂNCIA DO CARGO PÚBLICO.
+REINTEGRAÇÃO. IMPOSSIBILIDADE. PRECEDENTES DE
+AMBAS
+AS
+TURMAS.
+DIVERGÊNCIA
+NÃO
+CONFIGURADA.
+EMBARGOS
+DE
+DIVERGÊNCIA
+REJEITADOS” (grifei).
+
+Ante o exposto, nego provimento ao presente agravo regimental.
+Majorados em ¼ (um quarto) os honorários fixados anteriormente, nos
+termos do art. 85, § 11, do CPC, devendo ser observados os §§ 2º e 3º do
+mesmo dispositivo e a suspensão da exigibilidade por ser a parte
+beneficiária da justiça gratuita.
+É como voto.
+
+8
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código F0D0-6A77-CD94-5F67 e senha C987-8EDA-8F1C-2308
+
+Supremo Tribunal Federal
+Extrato de Ata - 24/02/2021
+
+Inteiro Teor do Acórdão - Página 26 de 26
+
+SEGUNDA TURMA
+EXTRATO DE ATA
+AG.REG. NOS SEGUNDOS EMB.DECL. NO RECURSO EXTRAORDINÁRIO COM
+AGRAVO 1.248.884
+PROCED. : SANTA CATARINA
+RELATOR : MIN. EDSON FACHIN
+AGTE.(S) : VERA LUCIA BELLOTTO
+ADV.(A/S) : MARCOS COSSUL (14476/SC)
+AGDO.(A/S) : MUNICÍPIO DE CAPINZAL
+PROC.(A/S)(ES) : PROCURADOR-GERAL DO MUNICÍPIO DE CAPINZAL
+ADV.(A/S) : HILARIO CHIAMOLERA (7681/SC)
+Decisão: A Turma, por unanimidade, negou provimento ao agravo
+regimental, com majoração em ¼ (um quarto) dos honorários fixados
+anteriormente, nos termos do art. 85, § 11, do CPC, devendo ser
+observados os §§ 2º e 3º do mesmo dispositivo e a suspensão da
+exigibilidade por ser a parte beneficiária da justiça gratuita,
+nos termos do voto do Relator. Segunda Turma, Sessão Virtual de
+12.2.2021 a 23.2.2021.
+Composição: Ministros Gilmar Mendes (Presidente),
+Lewandowski, Cármen Lúcia, Edson Fachin e Nunes Marques.
+
+Ricardo
+
+Maria Clara Viotti Beck
+Secretária
+
+Documento assinado digitalmente conforme MP n° 2.200-2/2001 de 24/08/2001. O documento pode ser acessado pelo endereço
+http://www.stf.jus.br/portal/autenticacao/autenticarDocumento.asp sob o código 2966-C20C-319B-3072 e senha 1B1F-85DE-64A8-51CB
