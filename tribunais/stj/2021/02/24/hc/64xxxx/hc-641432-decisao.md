@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido de liminar, impetrado em favor de Marcelo Reginaldo Lara, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo(Apelação Criminal n. 1505919- 96.2019.8.26.0302).
+Conforme consta dos autos,opaciente foi condenadoàs penas de 6anos, 5 meses e 4 dias de reclusão, emregime inicial semiaberto, e 642 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006. (fls. 28/36).
+Irresignada, a defesa interpôs recurso de apelação que foi desprovido nos termos da seguinte ementa (fl. 39):
+Apelação Criminal - Tráfico Ilícito de Entorpecentes - Materialidade delitiva e autoria demonstradas - Prova tranquila para manutenção do decreto condenatório - Depoimentos de policiais civis - Quantidade e variedade de substâncias entorpecentes apreendidas e a forma como estavam acondicionadas, em local conhecido como ponto de drogas, tudo demonstra que a droga se destinava ao fornecimento para o consumo de terceiros. Impossibilidade de desclassificação a conduta do réu para o crime previsto no art. 28, da Lei nº 11.343/06se comprovada a destinação para venda a terceiros da droga. Penas - corretamente fixadas. RECURSO DESPROVIDO
+Aqui, a defesa alega ilegalidade na exasperação da pena na primeira fase da dosimetria, argumentado que a quantidade de droga apreendida não foi exacerbada e quea condenação anterior pela prática do delito previsto no art.28 da lei de drogasnão deve servir para fins maus antecedentes.
+Aduz que oreconhecimento dos maus antecedentes do réu foi incorreto por dois motivos: a uma, porque considerou a condenação anterior por crime previsto no art.28 da lei de drogas. A duas, porque se trata de delito praticado em 2009, com trânsito em julgado de 2011, logo, que já atingiu o período depurado (fl. 7).
+Afirma, ainda, que, no caso, é cabível a aplicação do tráfico privilegiado, na fração máxima, argumentando que se trata de réu primário, bem como constata-se a inexistência de provas de que o acusado se dedique a qualquer espécie de organização criminosa ou integre organização criminosa (fl. 7).
+Ao final, requer, a concessão definitiva da ordem, para que seja reconhecida a aplicação do art. 33, § 4º, Lei de drogas. Subsidiariamente, requer seja fixada a pena base no mínimo legal e alterado o regime inicial para o cumprimento da pena (fl. 8).
+Liminar indeferida (fls. 51/52).
+Informações prestadas (fls. 58/72), o Ministério Público Federal ofereceu parecer pelaconcessão da ordem (fls. 74/76).
+É o relatório.
+Estou de acordo com o parecer oferecido peloSubprocurador-Geral da República Paulo Eduardo Bueno, cujos fundamentos a seguir transcritos adoto como razão de decidir (fls. 75/76 - grifo nosso):
+ ..
+A ordem merece concessão.
+De início, é cediço que a dosimetria da pena insere-se dentro deum juízo de discricionariedade do julgador, atrelado às particularidades fáticas docaso concreto e subjetivas do agente, somente passível de revisão por esta Corte nocaso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+No caso, o Tribunal de origem não trouxe fundamentos válidospara majorar a pena-base, na medida em que aferiu a baixa quantidade de drogasapreendidas (3 (três) porções de cocaína, pesando um total de 4,5g, 15 (quinze)pedras de crack, pesando 2,6g e 1 (uma) porção de maconha, pesando 2,6g - Fl. 42e-STJ) e a condenação anterior do paciente pelo delito de posse de drogas para usopróprio como maus antecedentes, sendo de rigor, a redução da sanção ao mínimolegal.
+Nesse sentido, "a Quinta Turma passou a adotar o entendimentode que a condenação anterior por posse de drogas para uso próprio, também, nãopode ser utilizada para se aferir negativamente os maus antecedentes do réu.Precedente." (HC 519.401/SP, Rel. Ministro RIBEIRO DANTAS, QUINTATURMA, julgado em 08/10/2019, DJe 14/10/2019)
+Quanto ao afastamento da redutora do tráfico, o Tribunal a quoexpôs: "Na terceira fase, não foi reconhecido o redutor previsto no art. 33, § 4º, daLei 11.343/06, pelo não preenchimento dos requisitos legais, diante do mauantecedente ostentado pelo acusado."
+Entretanto, se a condenação anterior pelo crime de posse dedrogas para uso próprio não gera maus antecedentes, inviável sua aplicação paraafastar a redutora do tráfico privilegiado por si só.
+Dessa forma, entende-se pelo retorno da pena-base ao patamarmínimo e pela aplicação do tráfico privilegiado, com suas consequências na pena eno regime inicial do paciente.
+Ante o exposto, opina o Ministério Público Federal pelaconcessão da ordem.
+De fato,é devida a concessão da ordem para o redimensionamento da pena,pois a quantidade de droga apreendida não justifica a exasperação da pena-base e a condenação anteriorpelo delito tipificadono art.28 da Lei n. 11.343/2006 foi utilizada como maus antecedentes e para afastara aplicação da redutora do art. 33, § 4º, da Lei n. 11.343/2006, em desacordo com a jurisprudência desta Corte,o que configura constrangimento ilegal a ser sanado.
+Sobre o tema, confiram-se:AgRg no AREsp n. 1.539.131/SP,Ministra Laurita Vaz, Sexta Turma, DJe 23/10/2020; eAgRg no REsp n. 1.845.722/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 13/8/2020)
+Fixadas essas premissas, passo ao redimensionamento da pena.
+Na primeira fase, fixo a pena-base nomínimo legal, em 5 anos de reclusão e 500 dias-multa. Na segunda fase, diante da ausência de agravantes e atenuantes, mante-se a pena no mesmo patamar.Na terceira etapa, suprimida os maus antecedentes e diante pequena quantidade de droga, não há justificativa para o afastamento da redutora do art. 33, § 4º, da Lei n. 11.343/2006, que deve ser aplicada na fração máxima de 2/3, ficando a sanção final estabelecida em 1 ano e 8 meses de reclusão, mais 166 dias-multa.
+Ora, sendo o paciente primário, aplicada pena inferior a 4 anos, com fixação da pena-base no mínimo legal, em razão da análise favorável das circunstâncias judiciais do art. 59 do Código Penal, de rigor a fixação do regime inicial aberto, conforme o disposto no art. 33, § 3º, do Código Penal.
+Ante o exposto, acolhendo o parecer ministerial, concedo a ordem para,aplicando o redutor do art. 33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, estabelecer a pena do paciente em 1 ano e 8 meses de reclusão, no regime inicial aberto, e 166 dias-multa.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. AUMENTO DA PENA BASE. AUSÊNCIA DE FUNDAMENTAÇÃO VÁLIDA.QUANTIDADE DE DROGA NÃO EXPRESSIVA (4,5 G DE COCAÍNA, 2,6 G DE CRACK E 2,6 G DE MACONHA). CONDENAÇÃOANTERIORPOR INFRAÇÃO DO ART. 28 DA LEI N. 11.343/2006, UTILIZADA COMO MAUS ANTECEDENTES E PARA AFASTAR AREDUTORA DO§ 4ºDOART. 33DA LEI DE DROGAS. IMPOSSIBILIDADAE. INCIDÊNCIADA FRAÇÃO DE 2/3. VIABILIDADE. PENA REDIMENSIONADA. REGIME INICIAL ABERTO. PARECER ACOLHIDO.
+Ordem concedidanos termos do parecer ministerial.
