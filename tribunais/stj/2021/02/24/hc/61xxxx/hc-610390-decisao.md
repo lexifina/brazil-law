@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CLEBER JOÃO FISCHBORN (ouCLEBER JOÃO FISCHIBORN)em que se aponta como autoridade coatora Tribunal de Justiça do Estado do Rio Grande do Sul(HC n.70084341098).
+O paciente foi presoem flagrante pela suposta prática docrimedescritonoart. 33 da Lei n. 11.343/2006.A prisão em flagrante foi convertida em preventiva no dia 26/6/2020.
+O decreto prisionalfundou-se na quantidade e nocividade do entorpecente apreendido (50g decrack)e na reincidência específica.
+A defesa requer, liminarmente e no mérito, oreconhecimento da ilegalidade do decreto preventivo para queseja concedida liberdade provisória ao paciente, "substituindo -se  a prisão por medidas cautelares do art. 319, que são mais do que suficientes para garantir a ordem pública e beneficiar a instrução criminal" (fl. 13).
+Destaca a inidoneidade do decreto preventivo, em especial quanto à incidência do art. 44 da Lei de Drogas e quanto à utilização da reincidência como elemento autorizador da segregação. Questiona a fundamentação genérica e abstrata da decisão que decretou a preventiva, assim como a materialidade do fato, e cita precedentes judiciais para enquadrar como posse para consumo a quantidade de até 50g de crack.
+O pedido de liminar foi indeferido às fls. 59-60.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 87-98).
+É o relatório. Decido.
+Ainda que inadequadaa impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+De início, registre-se que, em consulta ao sistema do Tribunal de origem, observa-se que, em 11/1/2021, na Ação Penal n. 091/2.20.0000162-3,o paciente foi condenado às penas de 5anos e 9meses de reclusão em regime inicial fechado e de 500dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, vedado o direito de recorrer em liberdade.
+Como o Juízo de primeiro grau manteve os fundamentos da prisão preventiva anteriormente decretada, não houve perda de objeto neste ponto.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 54):
+No presente caso, pelo que consta nos autos, o paciente, que havia fugido dos milicianos em abordagem ocorrida na madrugada, foi localizado pela manhã e, com ele, foi apreendida uma pedra de crack, pesando 50 gramas, além de uma touca ninja e do valor de R$ 250,00.
+E tais circunstâncias, no meu entendimento, desbordam da gravidade inerente ao tipo em abstrato, legitimando o receio de que o paciente não se trate de traficante iniciante ou eventual, já que a quantidade de crack apreendida sugere maior intimidade com a ilícita mercancia.
+Além disso, verifico que o paciente é reincidente, cuja condenação por tráfico de drogas e associação para o tráfico transitou em julgado em 28/01/2020, o que indica não ser este o seu primeiro envolvimento em delito desta natureza.
+Assim, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, a reincidência específica evidencia maior envolvimento do paciente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Por fim, como acimareferido, em primeiro grau, já houve a condenação dopaciente às penas de 5 anos e 9 meses de reclusão em regime inicial fechado e de 500 dias-multa, pela prática dos crimes de tráfico de entorpecentes, tendo sido vedado o direito de recorrer em liberdade.
+Assim, a manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória, que não concedeu ao paciente, que ficou preso durante toda a instrução processual, o direito de recorrer em liberdade, pois considerou mantidas as circunstâncias que justificaram a decretação da prisão preventiva.
+Ante o exposto,com base no art. 34, XX,do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
