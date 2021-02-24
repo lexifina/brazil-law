@@ -1,0 +1,26 @@
+DECISÃO
+    Vistos, etc.
+    1. Trata-se de reclamação, sob a tese da usurpação de competência desta Suprema Corte, veiculada pela Associação Brasileira de Geração de Energia Limpa – ABRAGEL contra decisão proferida pela então Presidente do Superior Tribunal de Justiça, Ministra Laurita Vaz, nos autos da suspensão liminar de sentença nº 2.162/DF.
+    2. Em 10.8.2016, o Ministro Ricardo Lewandowski, então Presidente desta Casa, deferiu o pedido liminar para suspender a decisão do STJ na SLS nº 2.162.
+    3. Em 19.9.2017, afirmada suspeição, por motivo de foro íntimo (arts. 145, § 1º, do CPC e 277, caput, do RISTF), pela Ministra Cármen Lúcia, à época Presidente desta Corte, os autos foram encaminhados ao Ministro Dias Toffoli, Vice-Presidente (arts. 14 e 37, I, c/c 17 do RISTF), tendo sido, em 15.12.2017, negado seguimento à reclamação, afastada a tese da usurpação de competência do STF.
+    4. Tal decisão desafiou agravo interno da Usina Paulista Queluz de Energia S.A. (edoc. 88), bem como da ABRAGEL (edoc. 100), nos quais reiterada, em síntese, a natureza constitucional da matéria.
+    5. Em 17.4.2020, esta Suprema Corte, por unanimidade, negou provimento ao agravo interno da ABRAGEL, consoante teor da ementa abaixo transcrito:
+    “Agravo regimental em reclamação. Energia elétrica. Equilíbrio econômico-financeiro do contrato (CF/88, art. 37, XXI) e postulado da segurança jurídica (CF/88, art. 5º) na relação entre o Poder Público e pequenas empresas de geração de energia elétrica. Regulamentação do Mecanismo de Realocação de Energia (MRE) e do Fator de Ajuste do MRE (GSF). Disciplina legal incidente no caso concreto. Ofensa reflexa à Constituição. Agravo regimental ao qual se nega provimento.
+    1. Não há usurpação da competência do STF pelo STJ para apreciar pedido de contracautela quando a causa de pedir está fundada em princípios constitucionais genéricos que encontram sua concreta realização nas normas infraconstitucionais que disciplinam as múltiplas atividades da Administração Pública. Precedentes.
+    2. Agravo regimental não provido.” (edoc. 141)
+    6. Declarado impedimento pelo Ministro Luiz Fux – Presidente (art. 144 do CPC), em 11.02.2021, vieram-me conclusos os autos (arts. 14 e 37, I, c/c 17 do RISTF).
+    É o breve relato.
+    Decido.
+    7. Verifico pendente de análise o agravo interno manejado pela Usina Paulista Queluz de Energia S.A., no qual defende a sua legitimidade recursal na condição de terceira prejudicada. Alega que, “detentora da outorga para a exploração da Pequena Central Hidrelétrica – PCH – Queluz e, na qualidade de integrante do Mecanismo de Realocação de Energia – MRE –, também (i) foi impactada pelos fatos do príncipe que comprimiram o espaço para a geração hídrica desde 2013 e (ii) está protegida por decisão semelhante àquela cuja suspensão se discute, proferida pelo d. juízo da 16ª Vara Federal do Distrito Federal, na ação n. 0035360-88.2015.4.01.3400”. (edoc. 88, fls. 10-1, destaquei).
+    8. Inviável, contudo, na espécie, reconhecer a legitimidade recursal da ora agravante.
+    9. Sem descurar a amplitude do art. 996 do CPC/2015, que assegura ao terceiro prejudicado a faculdade da interposição de recursos, tenho que a Usina Paulista Queluz de Energia S.A. não se desincumbiu do encargo de demonstrar que passível, a decisão, na reclamação em epígrafe, de atingir direito de que titular, em desatenção à exigência contida no parágrafo único do preceito legal em comento, verbis:
+    “Art. 996. O recurso pode ser interposto pela parte vencida, pelo terceiro prejudicado e pelo Ministério Público, como parte ou como fiscal da ordem jurídica.
+    Parágrafo único. Cumpre ao terceiro demonstrar a possibilidade de a decisão sobre a relação jurídica submetida à apreciação judicial atingir direito de que se afirme titular ou que possa discutir em juízo como substituto processual.” (destaquei)
+    10. Constato, da leitura da minuta do agravo interno, que o processo de origem no qual a Usina Paulista Queluz de Energia S.A. figura como parte - ação ordinária nº 0035360-88.2015.4.01.3400, em curso na 16º Vara Federal da Seção Judiciária do Distrito Federal - é diverso daquele em que se assenta a SLS nº 2.162, em que concedida a contracautela para sustar decisão liminar no agravo de instrumento nº 004760-98.2015.01.0000, sacado no bojo da ação ordinária nº 36564-70.2015.01.6400, e, por corolário, não alcançado por eventual decisão prolatada na presente reclamação.
+    11. Extraio, ainda, em consulta ao sistema de informações processuais do STJ, que o pedido formulado pela União e ANEEL, para estender os efeitos da decisão concessiva da contracautela na SLS nº 2.162 a ações originárias diversas, rol de processos no qual se encontra o de nº 0035360-88.2015.4.01.3400, foi indeferido à míngua de demonstração da “identidade de objeto entre as decisões em relação às quais pretendem a extensão do efeito suspensivo e a liminar suspensa”, a corroborar a ausência, in casu, de legitimidade recursal da ora agravante.
+    Dê-se ciência à Usina Paulista Queluz de Energia S.A.
+    Publique-se.
+    Brasília, 24 de fevereiro de 2021.
+    (89º aniversário da Conquista do Voto Feminino no Brasil)
+Ministra Rosa Weber
+Vice-Presidente (no exercício da Presidência)
