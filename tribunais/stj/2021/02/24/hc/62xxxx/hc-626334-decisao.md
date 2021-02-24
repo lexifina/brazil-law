@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar, impetrado em favor de EDNELSON LEAL DOS SANTOS, em face do acórdão proferido pela 13ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo.
+Costa dos autos queo Juízo de Direito da Vara das Execuções Criminais da Comarca de Marília/SP deferiu o pedido de indulto ao ora Paciente, fundado no Decreto Presidencial nº 5.993/2006, declarando extinta a punibilidade em relação ao processo nº 828/2004, da 4ª Vara da Comarca de Sumaré (e-STJ fls. 31/32).
+Inconformado, o Parquet estadual interpôs Agravo em Execução, que foi provido, uma vez que, a execução existente à época da publicação do Decreto já estava cumprida (e-STJ, fls. 33-35).
+No presente writ, a defesa alega que "De acordo com o cálculo de liquidação depenas realizado pela zelosa Serventia da Vara das Execuções Criminais de Marília (doc. Anexo), na data da publicação do Decreto em questão o paciente somente cumpria pena pela execução de nº 01 (pena indultada), sendo certo que as execuções de nº 02 a 06, somente foram cadastradas após o ano de 2007. O paciente preenchera o requisito de ordem objetiva para a concessão da benesse no ano de 2005, somente após o ano de 2007 é que sobrevieram novas guias de recolhimento" (e-STJ, fl. 5).
+Requer, liminarmente e no mérito, a cassação da decisão impugnada, "RESTABELECENDO o benefício de Indulto do Decreto Presidencial nº 5.993/2006 ao paciente" (e-STJ, fl. 7).
+A liminar foi indefira (e-STJ, fl. 38).
+O Ministério Público manifestou-se pelo não conhecimento do habeas corpus (e-STJ, fls. 57-59).
+É o relatório.
+Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando verificada a existência de flagrante ilegalidade, no ato judicial impugnado, a justificar a concessão da ordem, de ofício.
+O Tribunal de origem indeferiu o pedido de concessão retroativa de indulto formulado com base no Decreto n. 5.993/2006, consignando, para tanto, que (e-STJ fl. 35):
+"Ao que se extrai, o agravado cumpre pena de 60 anos, 5 meses e 13 dias de reclusão, pela prática de crimes de extorsão mediante sequestro, roubos majorados, quadrilha, dentre outros, com término previsto para 11/11/2064. Formulou pedido de indulto apenas quanto à primeira execução, tendo sido deferido. Ocorre, no entanto, que a pena correspondente foi cumprida em 22/02/2005 (fl. 34), tendo sido julgada extinta em 26/11/2008 (fl. 37). Assim, como bem salientado pelo agravante e pelo i. Procurador de Justiça, em seu parecer, a pena da execução n. 01 já estava cumprida, quando o juízo "a quo" concedeu o indulto (em 02/7/2020), havendo, pois preclusão consumativa"(e-STJ, fl. 5)
+No caso dos autos, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que, o acórdão impugnado está de acordo com a jurisprudência desta Corte, no sentido de que "não é possível se decidir acerca da incidência de indulto ou de comutação sobre reprimenda já extinta, quando os benefícios não foram nem mesmo pleiteados no curso do desconto da reprimenda" (HC n. 414.534/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/12/2017, grifei).
+A propósito, confiram-se, ainda, os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDULTO. DECRETO N. 7.873/2012. PENA REFERENTE A GR 01 EXTINTA PELO INTEGRAL CUMPRIMENTO. DEMAIS EXECUÇÕES COM INÍCIO EM DATA POSTERIOR À PUBLICAÇÃO DO DECRETO.
+1. De acordo com a jurisprudência desta Corte, "não é possível se decidir acerca da incidência de indulto ou de comutação sobre reprimenda já extinta, quando os benefícios não foram nem mesmo pleiteados no curso do desconto da reprimenda" (HC n. 414.534/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/12/2017).
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC 528.369/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 04/08/2020, DJe 10/08/2020)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. COMUTAÇÃO DA PENA. DECRETO PRESIDENCIAL Nº 8.615/2015. PLEITO FORMULADO QUANDO A PENA JÁ HAVIA SIDO CUMPRIDA. IMPOSSIBILIDADE. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. HABEAS CORPUS NÃO CONHECIDO.
+1. Não é possível se decidir acerca da incidência de indulto ou de comutação sobre reprimenda já extinta, quando os benefícios não foram nem mesmo pleiteados no curso do desconto da reprimenda. (HC 414.534/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/11/2017, DJe 06/12/2017) 2. Agravo regimental improvido.
+(AgRg no HC 463.456/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/09/2018, DJe 01/10/2018)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
