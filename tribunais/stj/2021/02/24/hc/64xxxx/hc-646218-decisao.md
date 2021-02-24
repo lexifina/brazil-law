@@ -1,0 +1,7 @@
+DECISÃO
+GUSTAVO CHAGAS MIRANDA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0018739-33.2020.8.26.0224, em que foi reconhecido o descumprimento das condições estabelecidas para o gozo do regime aberto, dada a constatação de não comparecimento ao Juízo.
+A defesa assere que " o  TCP ocorreu sem que tenha havido sustação do regime aberto, devendo todo o período ser considerado como regular tempo de cumprimento de pena" (fl. 5).
+Todavia, ao analisar o writ lá impetrado, a Corte de origem destacou que " a s condições fixadas para o regime aberto se relacionam com o seu efetivo cumprimento, não possuindo mero caráter acessório, sob pena de restringi-lo ao mero decurso do tempo.  ..  Portanto, tendo em vista que o agravado descumpriu condição fixada para que comparecesse mensalmente em Juízo, não há que se falar em cumprimento da pena privativa de liberdade a partir de então" (fls. 168-170, destaquei).
+Outra não é a jurisprudência consolidada do Superior Tribunal de Justiça, segundo a qual, "Se a Paciente não compareceu em Juízo para o cumprimento das condições impostas ao regime aberto, não há como computar o respectivo período como pena efetivamente cumprida" (HC n. 445.879/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2019, grifei).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
