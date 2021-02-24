@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpuscompedido de liminar impetrado em favor de MARCOS VINÍCIUS DOS SANTOS MACEDOem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Processo n. 2200718-81.2020.8.26.0000).
+O paciente teve a prisão temporária convertida empreventiva a pedido do Ministério Público e diante de representação da autoridade policial (fls. 376-378), tendo sidodenunciado pela suposta prática dodelitodescritono art. 35daLei n. 11.343/2006.
+O decreto prisional fundou-se em razão do paciente integrar organização criminosa.
+A defesa alega quenão estão preenchidos os requisitos autorizadores da custódia cautelar. Pugna pela concessão da ordem para que a prisão preventiva seja revogada, tendo em vista o excesso de prazo para o encerramento da instrução processual. Argumenta que o paciente é dependente químico, primário. Sustentanão se tratarde crime cometido com violência.
+Requer,liminarmente e no mérito, seja revogada a prisão preventiva do paciente, expedindo-se o alvará de soltura.
+O Tribunal de Justiça do Estado de São Paulo apresentou informações às fls. 1.157-1.170, 1.184-1.195 e 1.197-1.219.
+O Ministério Público Federalopinou pelo não conhecimento do writ(fls. 1.172-1.176).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo(fl. 33, destaquei):
+Após investigação realizada com escuta telefônica, o paciente foi denunciado juntamente com outros 13 (treze) investigados pelo delito de associação para o tráfico.
+Conforme apurado, o paciente fazia parte do grupo criminoso, agindo na condição de "funcionário" do ponto de comercialização de drogas na Comunidade "9" (fls. 304/332).
+Conforme orientação jurisprudencial do STJ, o suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública (AgRg no RHC n. 128.253/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020; e AgRg no RHC n. 127.592/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 17/9/2020)
+Além disso, consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRgno RHC n. 123.274/RJ, relator MinistroAntonioSaldanha Palheiro,DJede 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 33-34):
+Conforme informações prestadas pela i. autoridade impetrada, o paciente foi preso em razão do cumprimento de mandado de prisão temporária no dia 10 de abril de 2019, sendo que a prisão foi convertida em preventiva no dia 23 de maio do mesmo ano.
+Aponta que, nos termos do art. 316, parágrafo único,do Código de Processo Penal, a necessidade da manutenção da custódia cautelar do paciente e dos codenunciados foi analisada pelo Juízo de primeiro grau.
+Informa que no dia 27 de fevereiro de 2020 foi recebida a denúncia oferecida pelo Ministério Público e designada audiência de instrução, debates e julgamento para os dias 29 e 30 de junho p.p., a qual restou prejudicada em razão da suspensão do expediente presencial.
+Esclarece que em 15/04/2020 foi indeferido pedido de liberdade provisória formulado em favor do paciente e, no dia 28/05/2020, foi novamente analisada a necessidade da manutenção da custódia do denunciado, nos termos do citado art. 316, parágrafo único, do CPP.
+Informa, por fim, que no dia 22/06/2020, nos termos do Comunicado CG 284/2020, foi determinada a intimação dos defensores para informarem seus e-mails e eventuais testemunhas arroladas, a fim de serealizar audiência virtual, sendo que, no momento, os autos aguardam as informações necessárias para a realização do ato.
+Assim, no que concerne à alegação de excesso de prazo, verifica-se que aqueles estabelecidos para o encerramento da instrução criminal servem apenas como parâmetro geral e variam de acordo com as peculiaridades de cada processo.
+Neste, em específico, vê-se que os autos caminham regularmente, dentro dos critérios da razoabilidade, sobretudo em razão da situação excepcional gerada pela mencionada suspensão do trabalho presencial e porque se trata de caso complexo, com pluralidade de réus que,supostamente, atuavam de forma organizada, não se verificando qualquer negligência ou desídia na condução do processo pelo juízo processante ou pelo Ministério Público.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 12/3/2019).
+Ademais, consta dos autos a informação de que, confirmado o recebimento da denúncia, foram designados os dias 19 e 26 de fevereiro de 2021 para realização de audiência de instrução e julgamento (fl. 1.184).
+Por fim, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes:AgRgno HC n. 585.571/GO, relator Ministro Joel IlanPaciornik, Quinta Turma,DJede 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta TurmaDJede 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
