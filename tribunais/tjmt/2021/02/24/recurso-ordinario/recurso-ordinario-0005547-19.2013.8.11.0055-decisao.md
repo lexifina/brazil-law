@@ -1,0 +1,11 @@
+VISTOS, ETC.
+I. O presente feito fora encaminhado à esta E. Turma Recursal em razão do julgamento do IRDR 85560/2016, no qual o E. Tribunal de Justiça Estadual fixou a tese no sentido de que “compete ao Juizado Especial da Fazenda Pública o processamento e o julgamento das ações, em que o valor da causa não ultrapasse a 60 (sessenta) salário mínimos, independentemente da complexidade da matéria e da necessidade da produção da prova pericial”.
+II. Nada obstante, a presente ação fora ajuizada no ano de 2013, sendo atribuído à causa o montante de R$ 56.500,50 (cinquenta e seis mil, quinhentos reais e cinquenta centavos), valor que, à época, superava o valor de alçada dos Juizados Especiais da Fazenda Pública.
+III. Como cediço, a competência do Juizado Especial é verificada no momento da propositura da ação (STJ - RMS: 38884), sendo que o valor atribuído à causa correspondia a aproximadamente 84 (oitenta e quatro) salários mínimos em 2013.
+PROCESSO CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. COMPETÊNCIA. JUIZADO ESPECIAL. EXECUÇÃO DE SEUS JULGADOS. VALOR SUPERIOR A 40 SALÁRIOS MÍNIMOS. POSSIBILIDADE. (...) 2. A competência do Juizado Especial é verificada no momento da propositura da ação. (STJ - RMS: 38884 AC 2012/0175027-3, Relator: Ministra NANCY ANDRIGHI, Data de Julgamento: 07/05/2013, T3 - TERCEIRA TURMA, Data de Publicação: DJe 13/05/2013)
+IV. Frise-se que o intuito aqui, de forma alguma, é contrariar a decisão emanada pelo eminente relator Exmo. Dr. Gilberto Lopes Bussiki, mas apenas o de se assegurar que tal circunstância fora observada, notadamente a fim de se evitar futura arguição de nulidade de eventual julgamento a ser realizado por esta E. Turma Recursal.
+V. Destarte, encaminhem-se os autos ao ilustríssimo Relator, para avaliar a pertinência do deslocamento da competência e para as providências que entender necessárias.
+VI. Às providências.
+VII. Cumpra-se.
+LAMISSE RODER FEGURI ALVES CORRÊA
+JUÍZA DE DIREITO
