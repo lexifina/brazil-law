@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PEDRO HENRIQUE FERNANDES DOS SANTOSapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n. 1.0000.20.552695-7/000).
+Depreende-se dos autos que o paciente foi preso em flagrante pelo crime de tráfico de drogas (art. 33, caput, da Lei n. 11.343/2006). Essa prisão foi convertida em preventiva.
+Conforme constou na decisão que decretou a custódia, foram apreendidos com o réu "13 pinos de cocaína", sem informação nos autos quanto ao peso do entorpecenteapreendido(e-STJ fl. 52).
+O Tribunal de origem denegou a ordem de habeas corpusnos termos da ementa de e-STJ fl. 8:
+HABEAS CORPUS - TRÁFICO DE DROGAS - PRISÃO PREVENTIVA - RELAXAMENTO - INVIABILIDADE - REVOGAÇÃO OU SUBSTITUIÇÃO - IMPOSSIBILIDADE - DECISÃO DEVIDAMENTE FUNDAMENTADA - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR DO PACIENTE - REVISÃO DA MEDIDA EXTREMA EM RAZÃO DA PANDEMIA - SUPRESSÃO DE INSTANCIA - ORDEM DENEGADA. 1. Não há que se falar em irregularidade no Auto de Prisão em Flagrante lavrado em desfavor do paciente se foram obedecidas todas as formalidades legais previstas no Código de Processo Penal e na Constituição Federal, sendo ele, inegavelmente, surpreendido em estado de flagrância, nos termos do art. 302 do CPP. 2. Não merece ser acolhida a alegação de ausência de fundamentação se o il. Magistrado a quo converte a prisão em flagrante do paciente em preventiva ressaltando a necessidade da segregação para a garantia da ordem pública, após destacar a presença de prova da materialidade do crime e indícios suficientes de sua autoria. 3. Presentes os requisitos autorizadores da custódia cautelar, a manutenção da segregação provisória é medida que se impõe. 4. Se o pedido de reavaliação da prisão preventiva em razão da pandemia não foi formulado e apreciado perante o Juízo a quo, inviável qualquer manifestação deste Egrégio Tribunal sobre a matéria, sob pena de se incorrerem indevida supressão de instância.
+Daí o presente writ, no qual aimpetrante defende que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea. Ao final, requer a revogação da custódia cautelar.
+É o relatório.
+Decido.
+Exsurge dos autos que o presente writ impugna o acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais por ocasião do julgamento do HC n. 1.0000.20.552695-7/000.
+Ocorre que a causa de pedir e o pedido deste habeas corpus são idênticos àqueles trazidos no HC n. 642.702/MG.
+Ante o exposto, diante da constatação de que o presente writ é mera reiteração do HC n. 642.702/MG, indefiro-o liminarmente.
+Publique-se. Intimem-se.
