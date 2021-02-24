@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO DO SUL contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO CIVIL PÚBLICA DE OBRIGAÇÃO DE FAZER E NÃO FAZER E POR ATO DE IMPROBIDADE ADMINISTRATIVA CUMULADA COM PEDIDO DE LIMINAR PRELIMINAR DE NULIDADE DA DECISÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO - REJEITADA - NO MÉRITO - REQUISITOS PARA RECEBIMENTO DA EXORDIAL - INÍCIO DE PROVAS DA PRÁTICA DE ATOS DE IMPROBIDADE ADMINISTRATIVAS PELOS SUPLICANTES BLOQUEIO DETERMINADO PELO JUÍZO SINGULAR COM INTUITO DE FUTURO RESSARCIMENTO CONJUNTO COM OS DEMAIS ACUSADOS - POSSIBILIDADE ADEQUAÇÃO PARA O MONTANTE CONSTRITO E AFASTAMENTO DA SOLIDARIEDADE NA ATUAL FASE DECISÃO REFORMADA EM PARTE - RECURSO PARCIALMENTE PROVIDO.
+Alega violação do art. 7º, parágrafo único, da Lei n. 8.429/1992, no que concerne ao caráter solidário da indisponibilidade de bens decretada na ação de improbidade administrativa, trazendo o(s) seguinte(s) argumento(s):
+Nesse passo, no que toca ao tema recursal, o Tribunal de Justiça Estadual, ao julgar as razões do recurso, entendeu pelo fracionamento do acautelamento dos bens, ao argumento de que poderia ocorrer excesso na cautelar requerida pelo Parquet.
+No entanto, esse e. Superior Tribunal de Justiça entende, DE FORMA PACÍFICA, que a responsabilidade pelo dano decorrente de ato de improbidade administrativa é solidária até, ao menos, a instrução final do feito, onde poderá delimitar a quota de responsabilidade de cada agente para o ressarcimento.
+Isso porque, o fracionamento da indisponibilidade de bens só poderia ser realizada quando resta clara e indubitável a conduta determinada/praticada por cada agente, o que não ocorreu no caso dos autos, como bem visto por meio do acórdão recorrido (fls. 167-168).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
