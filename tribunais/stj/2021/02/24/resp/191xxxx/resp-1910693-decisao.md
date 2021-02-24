@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por EXATRON INDÚSTRIA ELETRÔNICA LTDA., com basenas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região que possuia seguinte ementa (e-STJ fl. 215):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÕES DEVIDAS A TERCEIROS (ENTIDADES DO SISTEMA "S", INCRA, SEBRAE, FNDE) OBSERVANDO-SE O LIMITE DE VINTE SALÁRIOS- MÍNIMOS VIGENTES NO PAÍS PARA APURAÇÃO DE SUAS BASES DE CÁLCULO.
+O limite principal incidente sobre a contribuição das empresas à Previdência Social, assim como a extensão desse limite às contribuições devidas a terceiros foram abolidos com a Constituição de 1988 (art. 195) e legislação regulamentadora (cf. Lei nº 7.787, de 1989, art. 3º), visto que a contribuição patronal à Seguridade Social passou, desde então, a ter como base de cálculo a totalidade da folha de salários, ao mesmo tempo em que as contribuições devidas a terceiros constituíam simples adicional dessa mesma contribuição patronal. Revogada a norma (principal) que estipula determinado limite (ou seja, o c a p u t do art. 4º da Lei nº 6.950, de 1981), a extensão (acessório) desse limite (ou seja, o parágrafo único do art. 4º da Lei nº 6.950, de 1981) não deve permanecer vigente.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 240/243).
+Nas razões de recurso (e-STJ fls. 299/317), a parte recorrente sustenta, além de divergência entre julgados, violação dos arts. 1.022, I e II, do CPC/2015, 4º da Lei n. 6.950/1981 e 3º do Decreto-Lei n. 2.318/1986. Argumenta que (e-STJ fl. 309):
+a limitação imposta pelo art. 3ª do DL nº 2.318/86 e mesmo o art. 3º da Lei nº 7.787/89, que estabelece que a contribuição destinada à Previdência Social, incidente sobre a folha de salários, será sobre o total das remunerações pagas ou creditadas (..), não afetam as contribuições destinadas a terceiros. Caso fosse o desejo do legislador afastar o limite de 20 (vinte) salários mínimos também das contribuições parafiscais, teria feito de forma expressa.
+As contrarrazões foram oferecidas (e-STJ fls. 365/367).
+O recurso foi admitido à e-STJ fls. 374/375.
+Parecer do Ministério Público Federal, pelo sobrestamento do recurso especial(e-STJ fls. 417/418).
+Passo a decidir.
+Verifico que a matéria tratada nos autos amolda-se àquela afetada ao rito de recursos repetitivos pela Primeira Seção do STJ, nos autos dos Recursos Especiais 1.898.532/CE e 1.905.870/SP, em 15/12/2020, relativamente à seguinte questão controvertida, in verbis: "Definir se o limite de 20 (vinte) salários mínimos é aplicável à apuração da base de cálculo de "contribuições parafiscais arrecadadas por conta de terceiros", nos termos do art. 4º da Lei n. 6.950/1981, com as alterações promovidas em seu texto pelos arts. 1º e 3º do Decreto-Lei n. 2.318/1986."
+Nesse contexto, estando a matéria pendente de julgamento pela sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem retornar ao Tribunal de origem para que este faça o juízo de conformação quando da publicação do acórdão, nos termos do que dispõe o art. 34, XXIV, do RISTJ, o qual estabelece, in verbis:
+Art. 34. Compete ao Relator:
+ ..
+XXIV - determinar a devolução ao Tribunal de origem dos recursos especiais fundados em controvérsia idêntica àquela já submetida ao rito de julgamento de casos repetitivos para adoção das medidas cabíveis.
+Após realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para este Tribunal, a fim de que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO a DEVOLUÇÃO dos autos ao Tribunal de origem, com a respectiva baixa, para que sejam aplicadas as medidas cabíveis previstas no art. 1.040 do CPC/2015, conforme o caso.
+Publique-se. Intimem-se.
