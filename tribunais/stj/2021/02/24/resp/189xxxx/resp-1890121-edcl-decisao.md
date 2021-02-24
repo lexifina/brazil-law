@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 662/670), opostos por PAULO FERNANDO JOSÉ RIBEIRO TÁVORAcontra decisão de e-STJ fls. 650/658, na qual neguei provimento à parte conhecida do recurso especial.
+Na ocasião, destaquei a ausência de violação dos artigos 489 e 1.022 do CPC/2015, a falta de cotejo analítico a justificar a interposição recursal com fundamento em divergência jurisprudencial e a incidência da Súmula 284 do STF (pela falta de indicação do dispositivo legal tido por violado).
+Orecorrente aponta erro material nodecisum embargado, poisentende que o julgado objeto do recurso especial não teria infirmado adequadamente os argumentos deduzidos perante o Tribunal de origem(concernentes à ausência de efeito suspensivo do recurso pendente de julgamento e à usurpação de competência),que seriam"capazes de alterar o deslinde do julgamento" na origem (e-STJ fl. 664).
+Aponta, ainda, erro material "quanto à realização do cotejo analítico", uma vez tratar a hipótese de "notória divergência" ("haja vista que o acórdão recorrido não aplicou o entendimento desse Colendo Superior Tribunal de Justiça no sentido de que a ausência de efeito suspensivo do recurso especial autoriza o levantamento de ativos financeiros de idoso na forma da lei"), e que o embargante "não apenas indicou acórdão paradigma, como também realizou o necessário cotejo analítico" (e-STJ fl. 664).
+Decorrido in albis o prazo para impugnação (e-STJ fl. 676).
+Passo a decidir.
+De acordo com o art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Pois bem, não há nenhumdos vícios alegados.
+No caso dos autos, entendo que os erros materiais que o embargante aponta em sua petição dizem respeito ao mérito dodecisumembargado.
+Na ocasião, destaquei (e-STJ fls. 654/656):
+ ..  nos termos da orientação desta Corte Superior, não há violação dos arts. 1.022 e 489 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado (AgInt no REsp 1862823/BA, de minha relatoria, PRIMEIRA TURMA, julgado em 08/09/2020, DJe 16/09/2020, v.g.).
+No caso dos autos, a Corte de origem fundamentou a decisão destacando a falta de trânsito em julgado do acórdão que afastou a hipótese de dissolução irregular da empresa executada (desconstituindo o redirecionamento da execução fiscal para o sócio/recorrente), em face da pendência de julgamento de agravo em recurso especial interposto pela FAZENDA. Na ocasião, acrescentou que a decisão agravada condicionava a devolução dos valores bloqueados ao trânsito em julgado do provimento favorável ao executado.
+Ainda que a parte não concorde com o argumento, é preciso reconhecer que o pronunciamento jurisdicional está fundamentado.
+ ..
+No que diz respeito à divergência, é inviável a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional), quando o recorrente não demonstra o alegado dissídio por meio de: a) juntada de certidão ou de cópia autenticada do acórdão paradigma ou, em sua falta, de declaração pelo advogado da autenticidade dessas; b) citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. ..
+No presente caso, o recorrente deixou de promover o cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não atendendo, portanto, aos pressupostos específicos à configuração do dissenso jurisprudencial, preconizados pelo art. 541, parágrafo único, do Código de Processo Civil e pelo art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+A insurgência doembargante, em verdade, demonstra seu inconformismo com o julgamento que lhe foi desfavorável, sendo certo que eventual reforma do julgado não condiz com a natureza integrativa dos aclaratórios.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE. NÃO CABIMENTO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃO OPOSTOS POR BARCAS S.A. TRANSPORTES MARÍTIMOS REJEITADOS.
+1. O art. 1.022 do Código Fux - CPC/2015 - (art. 535 do CPC/1973) é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição ou omissão.
+2. Nos presentes Declaratórios, a parte embargante afirma que o acórdão recorrido possui omissão, porquanto o serviço que presta é público, não devendo incidir o IPTU.
+3. Dos próprios argumentos apresentados nos Aclaratórios verifica-se não se tratar de qualquer omissão, contradição ou obscuridade a ser sanada, mas de mera pretensão de reforma do julgado com base no inconformismo da parte com a solução jurídica ali aplicada; pretensão incabível nesta via recursal.
+4. Embargos de Declaração doe BARCAS S.A. TRANSPORTES MARÍTIMOS rejeitados.
+(EDcl no AgInt no AgInt no AREsp 658.517/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 04/05/2020, DJe 06/05/2020).
+Por isso, o recurso não merece acolhimento.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
