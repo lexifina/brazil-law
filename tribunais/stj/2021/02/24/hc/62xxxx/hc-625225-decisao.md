@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de MAICON ALVES SOUZA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁassim ementado (fl. 34):
+HABEAS CORPUS CRIME. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. ALEGADO CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. MEDIDA DECRETADA COMO NECESSÁRIAÀ CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. PACIENTE QUE VEM TENTANDO CONTATAR TESTEMUNHA. FUNDAMENTAÇÃO IDÔNEA. IMPRESCINDIBILIDADE DA MEDIDA EVIDENCIADA. CONDIÇÕES PESSOAIS. IRRELEVÂNCIA. ORDEM DENEGADA.
+A defesa alega que, após estar o paciente há mais de 1 ano em liberdade assistidae cumprindo fielmenteas condições, oMinistério Público novamente requereu a custódia cautelar preventiva, alegando que a informante de acusação, Letícia Lais Moreira Honorato, estaria sendo ameaçada pelo paciente e seus parentes, ocasião em que colacionou aos autos áudios constantes doaplicativo WhatsAppcom conversa de terceiros, sem nenhumainterlocução por parte do paciente.
+Na audiência de custódia, foi pleiteada a revogação do decreto preventivo, mas o pedido foi indeferido peloJuízode Direito da Comarca de Terra Rica (PR).
+Afirma a defesa que a informante mora a cerca de 1.000kmdo local onde reside opaciente, em São Paulo,e o endereço dela ele em sequer conhece.
+Destaca que Letícia é usuária de drogas, tendo sido internada algumas vezes, perdendo até a guarda dosfilhos por tal questão. Não compareceu aaudiências anteriores por questão de internamento, e não por receio ou ameaça do paciente.
+Dessa forma, salienta que estão ausentes os requisitos da prisão preventiva, em especiala conveniência da instrução processual, não se evidenciando o periculum libertatis.
+Requer a liberdade do paciente.
+O pedido de liminar foi indeferido às fls. 43-44.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ ou, caso dele se conheça, pela denegação da ordem. (fls. 73-76).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 36-38):
+Verifica-se pelos áudios juntados que o réu tem tentado de todo modo entrar em contato com Letícia Lais Moreira Honorato, arrolada pelo Ministério Público como testemunha e ex-companheira da vítima.
+ ..
+Portanto, observa-se que a periculosidade do agente permite auferir que suapermanência em liberdade acarretará risco ao processo e à sociedade, o que deve ser combatido.
+Por sua vez, observo que o crime aqui apurado, homicídio possivelmente qualificado, possui pena máxima cominada em abstrato de 30 anos, o que satisfaz igualmente a condição de admissibilidade constate do artigo 313, inciso I, do CPP.
+Impende ressaltar, por fim, que a alteração operada na legislação processual penal teve por característica principal reforçar o comando constitucional de que qualquer espécie de prisão provisória deve ser utilizada excepcionalmente, isto é, apenas quando inexistirem outras medidas - menos gravosas à liberdade do agente - aptas a regular ocaso.
+Todavia, as medidas cautelares diversas da prisão inseridas no Código não se apresentam suficientes no presente caso, uma vez que mesmo vigentes, não impediram o acusado comprometer a busca da verdade.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Por fim, demonstrado, de forma concreta, o incontroverso descumprimento de medida cautelar alternativa, é evidente a intenção do acusado de furtar-se à aplicação da lei penal, o que justifica a decretação da preventiva (HC n. 612.101/SE, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/11/2020).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
