@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO com respaldona alínea "a" do permissivo constitucionalcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ fl. 55):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. PENHORA DE ARMA DE FOGO. IMPOSSIBILIDADE.
+A Primeira Turma desta Corte manifestou entendimento no sentido da impossibilidade de penhora sobre arma de fogo, tendo em vista que sua aquisição deve atender os requisitos do art. 4º da L 10.825/2003.
+Embargos de declaração rejeitados (e-STJ fls. 123/130).
+Em suas razões, a parte recorrente aponta violação dos arts. 797, 824, 833, VII e 835, do Código de Processo Civil de 2015 e do art. 4º, da Lei n. 10.826/2003.
+Sustenta que a execução deve ser realizada no interesse do credor, em respeito ao princípio do resultado,de modo que inexistindo regra de impenhorabilidade da arma de fogo ou munições, eventuais obstáculos legais para a alienação de bem penhorávelnão podemser genericamente utilizados como fundamento para indeferimento da constrição judicial.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 148.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Dito isso, verifica-se que o Tribunal de origem manteve decisão do juízo de primeira instância que indeferiu pedido de penhora de arma de fogo ao fundamento de que "o fato de a execução se processar no interesse do credor, bem como a possibilidade de a penhora recair sobre qualquer bem do executado que não seja impenhorável, não afasta a conclusão pela inviabilidade da penhora de arma de fogo" (e-STJ fl. 129).
+Conclui afirmando que o indeferimento da penhora não se dá por sua impenhorabilidade, mas pela inviabilidade da constrição, visto que a aquisição de arma de fogo, pelo interessado, deve atender aos requisitos do art. 4º da Lei n. 10.826/2003 (e-STJ fl. 130).
+Quanto ao tema, cumpre observarque, até o momento, não há vedação legal para a penhora de arma de fogo, de modo que eventual impedimento de sua realização só seria possível se demonstrado que tal bem se enquadra em uma das hipóteses de impenhorabilidade previstas no art. 833 do CPC de 2015.
+Com efeito, a necessidade de observância aos requisitos para aquisição de arma de fogo, previstos emlegislação específica, não impede sua eventual penhora, mas exigem a comprovação de que os interessados preencham os seus requisitos quando da realização do certame.
+A propósito, confira-se recente julgado sobre o assunto:
+EXECUÇÃO FISCAL. PENHORA DE ARMA DE FOGO. POSSIBILIDADE. BEM ALIENÁVEL. AQUISIÇÃO REGULAMENTADA PELA LEI 10.826/2003. HIPÓTESE NÃO INCLUÍDA NO ROL DE BENS IMPENHORÁVEIS DO ART. 833 DO CPC/2015. ALIENAÇÃO EM HASTA PÚBLICA. OBSERVÂNCIA DAS MESMAS RESTRIÇÕES IMPOSTAS PARA A COMERCIALIZAÇÃO.
+1. Em Execução Fiscal promovida pela Anatel, o Tribunal de origem decidiu que a "aquisição de arma de fogo, pelo interessado, deve atender aos requisitos do art. 4º da Lei 10.826/03, o que inviabiliza a penhora e a respectiva alienação por iniciativa particular ou por leilão judicial eletrônico ou presencial".
+2. Entre as excepcionais hipóteses de impenhorabilidade descritas no art. 833 do CPC/2015 não se inclui a arma de fogo. O inciso I da norma estabelece de forma geral que são impenhoráveis os bens inalienáveis, mas esse não é o caso das armas e munições, cuja comercialização e aquisição são regulamentadas, com diversas restrições, pela Lei 10.826/2003.
+3. A alienação judicial de armas de fogo em procedimentos executivos é prevista pela Portaria 036-DMB, de 9.12.1999, do Ministério da Defesa, que, em seu art. 48, parágrafo único, estabelece: "A participação em leilões de armas e munições só será permitida às pessoas físicas ou jurídicas, que preencherem os requisitos legais vigentes para arrematarem tais produtos controlados."
+4. Não se incluindo nas excepcionais hipóteses legais de impenhorabilidade, a arma de fogo pode ser penhorada e expropriada, desde que assegurada pelo Juízo da execução a observância das mesmas restrições impostas pela legislação de regência para a sua comercialização e aquisição.
+5. Recurso Especial provido. (REsp 1866148/RS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 20/08/2020).
+Nomesmo sentido: REsp 1903417/RS, relator Ministro BENEDITO GONÇALVES, DJe 27/11/2020; REsp 1902201/RS, relatora Ministra ASSUSETE MAGALHÃES, DJe 17/11/2020.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reconhecer a possibilidade depenhora da arma de fogo em comento.
+Publique-se. Intimem-se.
