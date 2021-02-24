@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se recurso ordinário em habeas corpus interposto por ADRIANO FERREIRA DE SOUZA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento do HC n. 2106707- 60.2020.8.26.0000.
+Infere-se dos autos que o recorrente foi preso em flagrante, em 7/1/2020, por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas). Referida custódia foi convertida em prisão preventiva.
+Irresignada com a manutenção da constrição cautelar, a defesa impetrou writ perante o Tribunal a quo, cuja ordem foi denegada em acórdão assim ementado:
+"Habeas Corpus. Tráfico de drogas. Pleito objetivando a substituição da custódia por medidas cautelares diversas, ou a sua conversão em prisão domiciliar sob a alegação de excesso de prazo na duração da segregação preventiva do paciente, ausência dos seus requisitos autorizadores e carência de fundamentação idônea. Inviabilidade. Excesso de prazo não configurado. Trâmite do feito originário que observa os critérios da razoabilidade e da proporcionalidade. Ademais, afigura-se necessária e adequada a manutenção da custódia preventiva do paciente, com vistas à garantia da ordem pública, sobretudo em vista de sua constatada reincidência específica (cuja prática se deu durante o gozo de livramento condicional), sinalizando a periculosidade por ele apresentada, observando-se, por fim, inexistir notícia, nos autos, de que a unidade prisional onde ele se encontra recolhido não esteja adotando as medidas básicas para evitar a prevenção da disseminação da COVID-19, tampouco demonstrado que esteja inserido em grupos de risco. Ordem denegada" (fl. 174).
+Foram opostos embargos de declaração pela defesa, os quais foram parcialmente acolhidos pela Corte estadual para sanar omissão no tocante à legalidade ou não da prisão em flagrante do paciente, mas sem efeitos modificativos, conforme se verifica na seguinte ementa do acórdão:
+"Embargos de declaração em Habeas Corpus. Alegação de omissão, no acórdão recorrido: quanto ã apreciação da aventada carência de fundamentação idônea da decisão que converteu a prisão em flagrante em preventiva, bem como da alegada invasão de domicílio do paciente pelos policiais responsáveis. Parcial ocorrência. Embargos acolhidos para suprir a omissão relativa ao exame da apontada invasão da residência do paciente, apreciando expressamente a matéria, sem efeitos modificativos" (fl. 189).
+No presente recurso, a defesa sustenta que a quantidade de drogas e a gravidade abstrata do delito não são fundamentos idôneos para decretar a custódia cautelar do recorrente e alega ausência dos requisitos previstos no art. 312 do CPP
+Assevera que o Tribunal de origem inovou na fundamentação ao considerar a reincidência do recorrente, sendo esta fundamentação inidônea, alegando que essa circunstância, por si só, não é suficiente para decretar a segregação cautelar.
+Alega ilegalidade do flagrante, em razão da violação de domicílio à noite pela Polida Militar.
+Destaca, ainda, o risco de contaminação do recorrente pela COVID-19, dentro do estabelecimento prisional e invoca a aplicação da Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Aduz correta aplicação das medidas cautelares diversas da prisão (art. 319 do CPP), haja vista que a quantidade de maconha apreendida foi pequena.
+Requer, assim, a revogação da prisão preventiva, ainda que mediante a aplicação das medidas cautelares diversas da prisão.
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 218/223).
+É o relatório.
+Decido.
+O presente reclamo traz pedido idêntico ao formulado no HC 604.732/SP, o qual não foi conhecido, e ambos atacam o acórdão proferido pelo Tribunal e Justiça do Estado de São Paulo no julgamento do HC n. 2106707- 60.2020.8.26.0000.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC N.º 112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo, não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz, que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020)
+Ante o exposto, em consonância com o disposto no art. 34, inciso XVIII, "a", do RISTJ, não conheço do presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
