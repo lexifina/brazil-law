@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJ/Paraná, assim ementado (fl. 238):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE INDENIZAÇÃO POR DESAPROPRIAÇÃO INDIRETA. IMPUGNAÇÃO QUANTO AOS CÁLCULOS APRESENTADOS.MANIFESTAÇÃO ANTERIOR CONCORDANDO COM O VALOR ATUALIZADO DO DÉBITO, SEM QUALQUER RESSALVA. ANUÊNCIA COM O VALOR DOCÁLCULO E COM O PAGAMENTO. PRECLUSÃO LÓGICA E TEMPORAL. PERDA DA FACULDADE DE PRATICAR ATO PROCESSUAL. DECISÃO MANTIDA.RECURSO DESPROVIDO.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 489 e 1022 do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito daseguintequestão: "Advertiu-se que a Câmara foi omissa quanto ao teor do cálculo em que houve a concordância pela petição de fl. 563, bem como a respeito de que a concordância da Agravante foi tão somente com relação aos valores definidos até julho de 2002, os quais deveriam ser atualizado a partir de tal data. Ainda, nada referido no sentido de que o depósito teria que levar em conta o valor atualizado até a data da sua efetivação, na forma do disposto no art. 1º F da Lei nº 9.494/97, o que não ocorreu, justificando a posterior impugnação pela ora Recorrente" (fl. 289).
+Quanto àquestãode fundo, sustenta ofensa aosartigos 1ºE e1º F da Lei n.9.494/1997 e 223do CPC/2015, sob oseguinteargumento: "não tem incidência à espécie o citado art. 183 do CPC/73 (art. 223 do CPC/2015), posto que não havia insurgência a ser manifestada, posto que a atualização monetária dos valores independe de expressa determinação, sendo inerente a todos os valores discutidos judicialmente. A respeito, não há como aceitar a tese de que a ora Recorrente ao concordar com o cálculo apresentado e tendo como data-base o mês de julho de 2002, sem fazer qualquer ressalva, teria abrido mão da devida atualização monetária incidente até o efetivo pagamento. Isso porque é evidente que os valores sempre devem sofre a devida atualização monetária incidente entre a data do cálculo e a do efetivo pagamento, mormente quando transcorrido um longo lapso de tempo, até para que se mantenha o poder aquisitivo da moeda" (fl. 295).
+Com contrarrazões.
+Juízo de admissibilidade às fls. 337-339 e 390.
+É o relatório. Passo a decidir.
+De início, afasta-se a alegada violação dos artigos 489 e 1022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No que diz respeito aosarts. 1ºE e 1º F da Lei n. 9.494/1997 e 223 do CPC/2015, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que (fl. 241):
+"Ora. como o próprio agravante havia anuído com os cálculos.
+não pode neste momento processual, depois de sua expressa concordância, contrariar o seu próprio comportamento anterior e pleitear novamente a retificação quando havia com ela concordado expressamente.
+Com efeito. embora a agravante tenha sido regularmente intimada da decisão anterior, deixou transcorrer naquela oportunidade o prazo processual para recorrer (fl. 84)".
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO.VIOLAÇÃO DO ARTS. 489 E1.022 DO CPC/2015. NÃO OCORRÊNCIA. IMPUGNAÇÃO QUANTO AOS CÁLCULOS APRESENTADOS TARDIA. PRECLUSÃO.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
