@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III,"a", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, o acórdão recorrido concluiu que, "uma vez que o conjunto probatório dos autos demonstra que o apelado apresenta incapacidade total e definitiva para o desempenho de suas atividades laborativas, correta a sentença ao conceder aposentadoria por invalidez, a partir da data da suspensão do benefício auxílio-doença" (e-STJ fl. 226).
+Assim, a alteração dessa conclusão demandaria o reexame fático-probatório dos autos, inviável em sede de recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OMISSÃO. INEXISTÊNCIA. APOSENTADORIA POR INVALIDEZ. TRABALHADOR URBANO. QUALIDADE DE SEGURADO E PERÍODO DE CARÊNCIA COMPROVADOS. LAUDO PERICIAL. INCAPACIDADE PERMANENTE. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, acatando a perícia realizada, o que revela não haver o Tribunal de origem ou o Juízo de piso acolhido o pedido de suspeição formulado pelo INSS.
+2. Outrossim, reverbera a preclusão da suspeição suscitada pelo INSS, porquanto deveria ter sido aventada em momento oportuno, na jurisdição primígena.
+3. Por fim, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para avaliar se estão presentes os requisitos para a concessão do benefício pleiteado, o que não se admite ante o óbice da Súmula 7/STJ.
+4. Recurso Especial parcialmente conhecido, apenas no que diz respeito à alegação de ofensa ao art. 1.022 do CPC, e, nessa extensão, não provido. (REsp 1.807.432/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/10/2019, DJe 18/10/2019).
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.APOSENTADORIA POR INVALIDEZ. LAUDO PERICIAL CONCLUSIVO PELA INCAPACIDADE PARCIAL DO SEGURADO. NÃO VINCULAÇÃO. CIRCUNSTÂNCIA SÓCIO-ECONÔMICA, PROFISSIONAL E CULTURAL FAVORÁVEL À CONCESSÃO DO BENEFÍCIO. RECURSO DO INSS DESPROVIDO.
+1. Os pleitos previdenciários possuem relevante valor social de proteção ao Trabalhador Segurado da Previdência Social, devendo ser, portanto, julgados sob tal orientação exegética.
+2. Para a concessão de aposentadoria por invalidez devem ser considerados outros aspectos relevantes, além dos elencados no art.
+42 da Lei 8.213/91, tais como, a condição sócioeconômica, profissional e cultural do segurado.
+3. Embora tenha o laudo pericial concluído pela incapacidade parcial do segurado, o Magistrado não fica vinculado à prova pericial, podendo decidir contrário a ela quando houver nos autos outros elementos que assim o convençam, como no presente caso.
+4. Em face das limitações impostas pela moléstia incapacitante, avançada idade e baixo grau de escolaridade, seria utopia defender a inserção do segurado no concorrido mercado de trabalho, para iniciar uma nova atividade profissional, motivo pelo qual faz jus à concessão de aposentadoria por invalidez.
+5. Agravo Regimental do INSS desprovido.(AgRg no AREsp 136.474/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/06/2012, DJe 29/06/2012).
+Registro, ainda, que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Nos termos do disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Majoro os honorários recursais em 10% (dez por cento)sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
