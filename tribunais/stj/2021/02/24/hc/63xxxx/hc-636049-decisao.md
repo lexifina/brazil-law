@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de habeas corpus com pedidoliminar impetrado em favor de NATTASHA LUANA ANTUNES DOS ANJOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DEMATO GROSSO DO SUL (Habeas Corpus n. 1411031-27.2020.8.12.0000).
+Consta dos autosque apaciente encontra-se presa preventivamente, para garantia da ordem pública, e que foi denunciada pela prática em tese dos crimes de receptação e associação criminosa, previstos nos arts. 180 e 288 do Código Penal.
+Impetrado prévio habeas corpus, o Tribunal de origem denegou a ordem.
+No presente writ, oimpetrante sustenta que não há motivação idônea para justificar a segregação cautelar.
+Afirma a inexistência de evidências concretas de reiteração delitiva e que a paciente é primária, bem como possui residência fixa e trabalho lícito.
+Alega, por fim, que a prisão cautelar decretada no caso concreto contraria os princípios da homogeneidade e da presunção de inocência.
+Requer, liminarmente, a revogação da prisão preventiva. No mérito, pugna pela concessão da ordem para que se confirme a medida liminar.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento e não concessão da ordem de ofício.
+É o relatório.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 65/66):
+Trata-se de comunicação da prisão em flagrante de LORRANY DEOLIVEIRA PEREIRA, VALTER MATHEUS SILVA ARAÚJO,NATTASHA LUANA ANTUNES DOS ANJOS e ROBSONHENRIQUE DOS SANTOS BARBOSA pela prática, em tese, dos delitos de receptação e associação criminosa.
+ ..
+Com efeito, encontram-se presentes os requisitos de prova de existência do crime e indícios suficientes de autoria. Tratam-se de crimes cujas penas máximas suplantam quatro anos de reclusão, quando somadas, motivo pelo qual é possível a decretação da prisão preventiva, nos termos do artigo 313, I, do CPP. Nesse contexto, observo que a prisão preventiva é necessária para a garantia da ordem pública, haja vista que os autuados tentaram atravessar o veículo para o país vizinho(Bolívia), auxiliado por terceiros, sendo que um dos carros utilizados(FIAT Argo 1.0, Placa: QPF6817) era objeto de contrato de locação, pertencente a terceiros, e o outro veículo (CHEVROLET Ônix 1.0,Placa: QAQ0921) era guiado por autuado que fazia as vezes de um "batedor", fatos que demonstram a periculosidade da ação dos investigados e a necessidade da segregação cautelar, para a garantia da ordem pública, com o fim de acautelar o meio social e garantir a credibilidade da justiça.
+O Juízo de piso indeferiu o pedido de liberdade provisória anotando(e-STJ fl. 50):
+Ademais, os crimes em comento vem sendo praticados com preocupante frequência nesta região de fronteira com a Bolívia, o que gera maior temor social e impõe postura mais firme das autoridades constituídas, revelando-se que a prisão ainda se faz necessária para a garantia da ordem pública.
+No mesmo sentido, asseverou o acórdão impugnado (e-STJ fl. 70):
+O fundamento da garantia da ordem pública se vislumbra na gravidade concreta da conduta, visto que a paciente Nattasha Luana Antunes dos Anjos supostamente se associou a outras pessoas para transportar veículo automotor que sabia ser produto de crime do Brasil para a Bolívia. Aliás, não se pode perder de vista, que delito desse jaez fomentam de forma direta e indireta uma série de crimes na região da fronteira do Brasil com a Bolívia, abalando, sem sombra de dúvida, a paz social.
+Assim, depreende-se que apaciente teve a prisão preventiva decretada em razão de ser elamembro de organização criminosaque atuana prática de crimes relacionados àreceptação de automóveis do Brasil para a Bolívia.
+Tal circunstância autoriza a decretação da prisão preventiva, pois, conforme magistério jurisprudencial do Pretório Excelso, "a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva" (STF, Primeira Turma, HC n. 95.024/SP, relatora Ministra Cármen Lúcia, DJe de 20/2/2009).
+Nesse mesmo sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRAVIDADE DO CRIME. MODUS OPERANDI DELITIVO. ARTICULADA ORGANIZAÇÃO. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. FUNDAMENTAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. A necessidade da custódia cautelar está fundamentada na garantia da ordem pública, evidenciada pelo modus operandi da organização criminosa voltada para o tráfico de drogas, da qual, supostamente, o paciente faz parte, eis que, após um mês de investigações, identificou-se que ele e outros corréus transitavam entre os territórios/brasileiros e de Riviera/Uruguai na venda de drogas.
+ ..
+3. Ordem denegada.(HC 353.594/RS, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/05/2016, DJe 16/05/2016.)
+RECURSO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO INTERESTADUAL DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. É possível a decretação da prisão preventiva quando se apresenta efetiva motivação para tanto.
+2. Na espécie, a prisão preventiva foi decretada tendo em vista as peculiaridades do caso concreto (agente supostamente integrante de complexa organização criminosa, voltada à disseminação de grande quantidade de drogas, as quais são adquiridas no Paraná com a finalidade de distribuição em Minas Gerais, tendo sido apreendidos 231 kg de maconha).
+3. Recurso em habeas corpus improvido.(RHC 65.669/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/04/2016, DJe 09/05/2016.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, LAVAGEM DE DINHEIRO E CRIME CONTRA ECONOMIA POPULAR. PRISÃO PREVENTIVA. PREENCHIMENTO DOS REQUISITOS. GRAVIDADE CONCRETA DO DELITO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. ORGANIZAÇÃO CRIMINOSA VOLTADA PARA A LAVAGEM DE DINHEIRO ORIUNDO DE ROUBOS E TRÁFICO ILÍCITO DE ENTORPECENTES. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. EXTENSÃO DE BENEFÍCIO CONCEDIDO ÀS CORRÉS. IMPOSSIBILIDADE. SITUAÇÃO FÁTICO-PROCESSUAL DISTINTA RECURSO IMPROVIDO.
+ ..
+2. Mostra-se fundamentada a prisão como forma de garantir a ordem pública em caso no qual se constata a existência de organização criminosa destinada a lavagem de dinheiro oriundo de delitos graves, como roubos e tráfico de entorpecentes, e estruturada com nítida divisão de tarefas, mormente pelo fato de que as atividades ilícitas permaneceram mesmo após a prisão de um de seus líderes (Tiago Gonçalves, companheiro da ora recorrente), evidenciando o alto risco de reiteração delitiva e a necessidade de desestruturar a organização criminosa a fim de interromper a atividade ilícita.
+3. A jurisprudência desta Corte é assente no sentido de que se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo.
+ ..
+8. Recurso ordinário improvido.(RHC 83.321/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/08/2017, DJe 01/09/2017.)
+No mais, frise-se que as condições subjetivas favoráveis daacusada, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido. (RHC 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/03/2016, DJe 21/03/2016.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
