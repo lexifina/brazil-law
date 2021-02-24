@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+EXECUÇÃO FISCAL. MEDIDAS ATÍPICAS PARA EXIGÊNCIA DE CUMPRIMENTO DE OBRIGAÇÃO TRIBUTÁRIA. SUSPENSÃO DA CNH. AUSÊNCIA DE PROPORCIONALIDADE E DE EFETIVIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM, BEM COMO ADISPONIBILIDADE DE MEIOS TÍPICOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Trata-se, na origem, de Recurso Especial interposto pelo Estado da Paraíba, pleiteando a suspensão da Carteira Nacional de Habilitação de executada para garantir o cumprimento de obrigação tributária. O Estado alega que a medida é válida, visto que os meios típicos para exigência do crédito foram esgotados.
+2. O Tribunal de origem, por outro lado, não acolheu o pedido, pois verificou que o Estado ainda dispõe de outras formas para garantir o crédito e que a medida é desproporcional e sem indicativos de que será efetiva.
+3. A jurisprudência do STJ dispõe que a suspensão da CNH é meio excepcionalpara exigência de cumprimento de obrigação e que os princípios da proporcionalidade, efetividade, adequação e razoabilidade devem ser atendidos. Revisar o entendimento do órgão julgador implica reexame do conteúdo fático-probatório da causa, o que é vedado em Recurso Especial, ante o óbice da Súmula 7 do STJ. Deste modo: AgInt no AREsp 1.495.012/SP, AgInt no REsp 1.785.726/DF.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 242-244, e-STJ) que negou seguimento ao Recurso Especial, com base na Súmula 7 do STJ.
+O agravante sustenta, em suma (fl. 250-251, e-STJ):
+Não há, no caso, pois, qualquer pretensão ao revolvimento de prova, mas apenas a postulação de que os preceitos legais que regem a causa sub judice sejam observados, reconhecendo-se, a medida pleiteada para o reconhecimento do agravo.
+Destarte, o que se pretende não é obter nova decisão do C. STJ pela reanálise da prova dos autos, mas pela aplicação dos dispositivos de lei incidentes na espécie, que, no entender da Fazenda Estadual, militam a favor do provimento do Apelo Especial apresentado.
+Nota-se que a pretensão recursal, neste sentido, não pressupõe o revolvimento de matéria fática, mas a decisão sobre a aplicação da legislação invocada pelo Recurso Especial, afastando-se, destarte, do âmbito de abrangência da Súmula nº 7 do C. Superior Tribunal de Justiça.
+(..)
+Para finalizar, insta esclarecer, conforme bem salientado pelo Min. Castro Meira no voto condutor do REsp 803.305 - RS, que não se pode confundir o reexame de prova com a valoração desta. O reexame é vedado em sede de recurso especial. Já a valoração, pelo contrário, é permitida.
+Portanto, o Estado requer, tomando-se como base as premissas fáticas estabelecidas na presente demanda, que seja dado um outro enquadramento jurídico aos fatos apresentados, pois que o significado dado pelo acórdão não se coaduna com a legislação de regência. Por estas razões, NÃO INCIDE NO CASO CONCRETO O DISPOSTO NA SÚMULA 07 DO STJ, pois não se quer aqui o revolvimento de provas, mas sim a sua valoração correta, com a abstração da tese jurídica levantada.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+EXECUÇÃO FISCAL. MEDIDAS ATÍPICAS PARA EXIGÊNCIA DE CUMPRIMENTO DE OBRIGAÇÃO TRIBUTÁRIA. SUSPENSÃO DA CNH. AUSÊNCIA DE PROPORCIONALIDADE E DE EFETIVIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM, BEM COMO A DISPONIBILIDADE DE MEIOS TÍPICOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Trata-se, na origem, de Recurso Especial interposto pelo Estado da Paraíba, pleiteando a suspensão da Carteira Nacional de Habilitação de executada para garantir o cumprimento de obrigação tributária. O Estado alega que a medida é válida, visto que os meios típicos para exigência do crédito foram esgotados.
+2. O Tribunal de origem, por outro lado, não acolheu o pedido, pois verificou que o Estado ainda dispõe de outras formas para garantir o crédito e que a medida é desproporcional e sem indicativos de que será efetiva.
+3. A jurisprudência do STJ dispõe que a suspensão da CNH é meio excepcional para exigência de cumprimento de obrigação e que os princípios da proporcionalidade, efetividade, adequação e razoabilidade devem ser atendidos. Revisar o entendimento do órgão julgador implica reexame do conteúdo fático-probatório da causa, o que é vedado em Recurso Especial, ante o óbice da Súmula 7 do STJ. Deste modo: AgInt no AREsp 1.495.012/SP, AgInt no REsp 1.785.726/DF.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 4 de dezembro de 2020.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, a irresignação esbarra no óbice da Súmula 7 do STJ.
+Cuida-se, na origem, de Agravo de Instrumento interposto pelo Estado da Paraíba, contra decisão que negou a expedição de ofício ao DETRAN para localizar carteira de habilitação válida em nome da executada e, em seguida, a sua suspensão. O Poder Público sustenta que tal medida é legítima, visto que esgotados os meios típicos para a exigência do cumprimento da obrigação tributária da ora recorrida.
+O Tribunal a quo consignou, entretanto (fl. 202, e-STJ):
+Muito embora tenham restado infrutíferas, in casu, as tentativas de satisfação do débito tributário até então, tal fato não exime o ente fazendário de esgotar as diligências na busca de bens passíveis de constrição antes de postular medidas atípicas e de aplicação excepcional. A incumbência não deve ser transferida ao Judiciário como bem assentou o magistrado de base.
+Ademais, não restou evidenciado que as medidas coercitivas atípicas postuladas possam acarretar a satisfação do crédito tributário, notadamente quando a informação que consta dos autos é que a executada não possui registro de bem imóvel ou veículo em seu nome, revelando-se a pretensão da parte exequente, ao menos neste momento, uma restrição de direitos injustificada.
+Neste contexto, nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Ademais, o acórdão recorrido está em consonância com a jurisprudência do STJ. Com efeito, pacífico o entendimento de que a suspensão da CNH é medida extraordinária, viável apenas quando exauridos os meios típicos de exigência de crédito e quando respeitados os princípios da proporcionalidade, adequação, razoabilidade e efetividade  requisitos não identificados pelo Tribunal de origem no caso em tela.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+1. No tocante à ofensa ao artigo 139, inciso IV, do CPC, a jurisprudência desta Corte Superior firmou-se no sentido de que as medidas atípicas de satisfação do crédito não podem extrapolar os princípios da proporcionalidade e da razoabilidade, devendo-se observar, ainda, o princípio da menor onerosidade ao devedor, não sendo admitida a utilização do instituto como penalidade processual.
+Precedentes.
+1.1. No caso concreto, o Tribunal de origem consignou que a tutela atípica postulada, consistente na apreensão da Carteira Nacional de Habilitação (CNH), cartões de crédito/débito e Passaporte, extrapola os princípios da razoabilidade e da proporcionalidade, além de não representar certeza de efetividade à satisfação do crédito.
+1.2. A conclusão do Tribunal está em harmonia com a jurisprudência desta Corte, atraindo a aplicação da Súmula 83 do STJ.
+1.3. O reexame dos critérios fáticos é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.495.012/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/10/2019, DJe 12/11/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE MORTE EM ACIDENTE DE TRÂNSITO. CUMPRIMENTO DE SENTENÇA. MEDIDA COERCITIVA ATÍPICA. ART. 139, IV, DO CPC/2015. SUSPENSÃO DA CNH. REVISÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO EM RELAÇÃO AOS CRITÉRIOS QUE AUTORIZARAM O DEFERIMENTO DA MEDIDA. DESCABIMENTO. SÚMULA 7/STF. RECURSO DESPROVIDO.
+1. Nos termos do art. 139, IV, do CPC/2015, incumbe ao juiz "determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária."
+2. Para que o julgador se utilize de meios executivos atípicos, a decisão deve ser fundamentada e sujeita ao contraditório, demonstrando-se a excepcionalidade da medida adotada em razão da ineficácia das que foram deferidas anteriormente.
+3. No caso, segundo assinalou o órgão julgador, após esgotados os meios típicos de satisfação da dívida, a fim de reforçar os atos tendentes ao cumprimento da obrigação reconhecida pelo título judicial, optou o magistrado por eleger medida indutiva e coercitiva que considerou adequada, necessária, razoável e proporcional. Esse entendimento foi encampado pelo Tribunal local, que ainda ressaltou o fato de que o executado possui alto padrão de vida, incompatível com a alegada ausência de patrimônio para arcar com o pagamento da indenização decorrente do acidente que provocou.
+4. Para se ultrapassar a conclusão alcançada no tocante ao juízo de adequação, efetividade, razoabilidade e proporcionalidade da medida, a fim de acolher a tese recursal, seria necessário o reexame das circunstâncias fático-probatórias da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula 7 deste Tribunal, aplicável, também, em relação aos recursos interpostos com amparo na alínea c do permissivo constitucional (AgInt no REsp n. 1.679.274/PE, Relatora a Ministra Regina Helena Costa, DJe de 5/12/2017).
+5. Agravo interno desprovido.
+(AgInt no REsp 1.785.726/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/08/2019, DJe 22/08/2019)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
