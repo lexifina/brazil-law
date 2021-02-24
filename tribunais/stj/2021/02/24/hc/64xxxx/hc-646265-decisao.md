@@ -1,0 +1,24 @@
+DECISÃO
+RAFAEL HENRIQUE PESANHA DE SOUZA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Habeas Corpus n. 2192894-71.2020.8.26.0000.
+Nas razões deste feito, sustenta a defesa, resumidamente, o não preenchimento dos requisitos para a imposição da medida extrema elencados no art. 312 do Código de Processo Penal e a falta de fundamentação concreta do decreto prisional.
+Argumenta, ainda, que haveria excesso de prazo para o término da instrução criminal.
+Requer, assim, a concessão liminar da ordem, para que seja concedida liberdade provisória ao réu.
+Decido.
+Depreende-se dos autos que o paciente foi preso em flagrante pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006. O flagrante foi, então, convertido em segregação provisória, em razão da necessidade de se acautelarem os interesses da jurisdição penal. Irresignada com o cárcere, a defesa impetrou prévio mandamus perante a Corte de origem, que lhe denegou a ordem e preservou a custódia provisória do réu com base nos argumentos seguintes (fls. 15-18):
+Em que pese a argumentação defensiva, nota-se que a decisão que converteu o flagrante em prisão preventiva foi suficientemente fundamentada, tendo o juízo de origem sopesado a gravidade concreta dos fatos, mormente em função da quantidade e da natureza das drogas, em tese, apreendidas em poder do paciente e do coacusado, além de dinheiro. Ponderou-se, ainda, o fato de o paciente ter anotação criminal recente derivada da prática do mesmo delito (fls. 31).
+Importante frisar, aqui, não se exigir que decisão dessa natureza seja fundamentada de forma vasta, bastando que, sucintamente, o magistrado esclareça a conveniência de sua mantença.
+Assim, sendo inviável, como já dito, um exame profundo do conjunto fático-probatório que compõe a ação penal e, por consequência, um pronunciamento acerca do mérito da ação nesta estreita via do writ, é o quanto basta para se concluir que há indícios suficientes a justificar, ao menos por ora, a custódia cautelar.
+ ..
+Saliente-se, por oportuno, que, conforme ventilado pelo juízo a quo, o acusado responde por prática delitiva análoga recente, destacando-se que, embora ações penais em andamento não se prestem a justificar elevação da pena, demonstram a potencial periculosidade do agente e sua inclinação à delinquência, sem que isso configure afronta à presunção de inocência, vale frisar.
+A prisão preventiva possui natureza excepcional e está sempre sujeita a reavaliação; assim, a decisão judicial que a impõe ou mantém, para compatibilizar- se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+Na hipótese, são idôneos os motivos apontados para decretar a custódia provisória, pois evidenciam o risco de reiteração delitiva e a maior periculosidade do réu, que foi preso em flagrante pelodelito de tráfico de drogas apenas 3 meses após ter cometido crime idêntico- em 8/5/2020-, "revelando que eventuais medidas cautelares diversas da prisão em flagrante não foram suficientes para afastá-lo do ambiente deletério" (fl. 8).
+A esse respeito, a jurisprudência desta Corte Superior é firme em assina lar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar.
+Ilustrativamente:
+ ..
+3. No presente caso, a prisão preventiva está devidamente justificada para a garantia da ordem pública, em razão da periculosidade do agente, evidenciada pelo efetivo risco de voltar a cometer delitos, porquanto o paciente é reincidente na prática delituosa. A prisão preventiva, portanto, mostra-se indispensável para garantir a ordem pública.
+ ..
+6. Habeas corpus não conhecido. Ordem parcialmente concedida de ofício, para determinar que o paciente aguarde o exaurimento da jurisdição da instâncias ordinárias em estabelecimento prisional adequado ao regime fixado pelo Juízo sentenciante (o semiaberto), salvo se por outro motivo estiver preso.
+(HC n. 443.429/TO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 25/4/2018,sublinhei).
+No que se refere ao apontado excesso de prazo, constata-se que o Tribunal estadual não analisou tal questão no aresto combatido, circunstância que impede a sua apreciação por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
