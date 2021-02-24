@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por DIMAS DE MELO PIMENTA SISTEMAS DE PONTO E ACESSO LTDA. contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, o qual não admitiu recurso especial, fundado na alínea "a" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl.348):
+AÇÃO DE COBRANÇA CONTRATO ADMINISTRATIVO PRESCRIÇÃO RECURSO NÃO PROVIDO.Contrato administrativo para aquisição de relógios de ponto biométrico digitais. Interrupção da prescrição pela citação válida do Município em execução de título extrajudicial que foi extinta sem resolução de mérito. A prescrição recomeça a correr pela metade (dois anos e meio) a partir do ato interruptivo.
+Inteligência dos arts. 1º, 8º e 9º, do Decreto 20.910/32, e Súmula 383 do STF.
+RECURSO NÃO PROVIDO.
+No recurso especial obstaculizado, a parte apontouviolação dos arts. 1.022do CPC/2015 e 191 do Código Civil, argumentando quehouve negativa de prestação jurisdicional por não ter sido analisada a questão da renúncia da prescrição. No mérito, aduz ser inequívoca a ocorrência da renúncia da prescrição.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso
+Passo a decidir.
+Inicialmente, cumpre registrar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+Dito isso, destaco que o art. 1.022 do Código de Processo Civil de 2015 prevê que os embargos de declaração serão cabíveis quando houver, no acórdão ou na sentença, omissão contradição, obscuridade ou erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I- esclarecer obscuridade ou eliminar contradição;
+II- suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III- corrigir erro material.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão/contradição/obscuridade/erro material tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, assiste razão àora recorrente tendo em vista que, muito embora o tema tenha sido suscitado em apelação e no recurso integrativo,a Corte Regional não exprimiu juízo de valor acerca da renúncia do prazo prescricional.
+Nãoobstante essa omissão, o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", ao prescrever, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Assim, à luz no novel regramento processual, as questões trazidas à instância excepcional podem ser examinadas e decididas à luz dos dispositivos tidos por violados, desde que versem acerca de questão exclusivamente de direito e, por óbvio, não imponham a esta Corte a análise ou reexame de elementos fáticos-probatórios dos autos.
+A exegese do art. 1.025 do CPC/2015 "é aquela compatível com a missão constitucional atribuída ao Superior Tribunal de Justiça, isto é, a de uniformizar a interpretação das leis federais em grau recursal nas causas efetivamente decididas pelos Tribunais da República (CR, art. 105, III), não podendo, portanto, sofrer modificação por legislação infraconstitucional" (REsp 1.670.149/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 13/03/2018, DJe 22/03/2018).
+In casu, o acolhimento das razões do especial com o fito de constatar ter havido renúncia da prescriçãodemanda reexame do acervo fático dos autos, o que é vedado na via do apelo especial, ante o óbice da Súmula 7 do STJ.
+Assim, a ocorrência de vício de integração justifica a nulidade do acórdão recorrido, por violação do art. 1.022 do CPC/2015, para que as questões levantadas pela recorrente sejam apreciadas pelo Tribunal de origem, à luz do caso concreto, até mesmo para fins de efetivo prequestionamento, sob pena de inviabilizar o acesso à instância especial, nos termos da Súmula 211 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. OMISSÃO NO ACÓRDÃO CONFIGURADA. ANÁLISE DE QUESTÕES EMINENTEMENTE FÁTICAS EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS À CORTE DE ORIGEM. AGRAVO IMPROVIDO.
+1. Reconhecida a existência de omissão no acórdão recorrido e referindo-se o vício a questões eminentemente fáticas, impõe-se o retorno dos autos à Corte de origem para novo julgamento, tendo em vista a impossibilidade de esta Corte Superior adentrar a análise do acervo fático-probatório dos autos.
+2. Agravo interno improvido. (AgInt no AREsp 1149082/DF, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, DJe 14/12/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. QUESTÃO RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. Incide em violação ao art. 1.022 do CPC/2015 o órgão julgador que, instado a se pronunciar sobre questão relevante para o deslinde da controvérsia, permanece silente a seu respeito, causando prejuízo à parte embargante.
+2. Deve-se reconhecer a existência de omissão no acórdão impugnado; daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, o ponto apresentado pela parte recorrente: "por força da previsão no edital e expresso entendimento do ilustre Magistrado da 4ª Vara Especializada de Execuções Fiscais, os Arrematantes/Embargados, no caso concreto, são responsáveis pelo pagamento dos tributos com fatos geradores anteriores à arrematação".
+3. Recurso Especial provido, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos aclaratórios. (REsp 1695486 / SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017).
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso e, anulando o acórdão prolatado em sede de embargos declaratórios, determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a questão omitida.
+Publique-se. Intimem-se.
