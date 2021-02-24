@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. DISCUSSÃO DA VALIDADE DA PORTARIA ANISTIADORA EM MANDADO DE SEGURANÇA. prejudicialidade da questão debatida nesse writ EM RELAÇÃO À PRESENTE EXECUÇÃO. MANUTENÇÃO DA SUSPENSÃO DESTE FEITO até decisão definitiva NAQUELA AÇÃO MANDAMENTAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ÓBICE DA SÚMULA 182/STJ. NÃO OBSERVÂNCIA DO DISPOSTO NO ART. 1.021, § 1º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. É prudente que se aguarde o trânsito em julgado do MS 19.696/DF, no qual se discute a validade da portaria anistiadora, quando será assentada a conformidade da decisão ali proferida com a orientação firmada pelo Supremo Tribunal Federal no julgamento do RE 817.338/DF (Tema 839).
+2. É evidente, portanto, a prejudicialidade da questão debatida nesse writ em relação à presente execução, que se fundamenta na citada portaria de anistia, impondo-se a manutenção da suspensão deste feito até decisão definitiva naqueles autos.
+3. Ausente impugnação específica a fundamento autônomo da decisão agravada, tal situação implica o não conhecimento do agravo interno interposto por força do óbice contido na Súmula 182/STJ e do disposto no art. 1.021, § 1º, do CPC.
+4. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo interno, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Felix Fischer, Laurita Vaz, João Otávio de Noronha, Sebastião Reis Júnior, Rogerio Schietti Cruz, Ribeiro Dantas, Antonio Saldanha Palheiro e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo interno de fls. 87-107 interposto por OSWALDO GARIBALDI LANZ HAAG contra decisão monocrática que, em sede de execução em mandado de segurança, determinou a suspensão da execução até que sobrevenha o trânsito em julgado no MS 19.696/DF (no qual se discute a validade da portaria anistiadora).
+O agravante alega, em síntese, que: (a) a decisão agravada "quer modificar a concessão da ordem, que ordenou imediato pagamento dos valores retroativos das portarias anistiadoras, quando determina a suspensão dos pagamentos dos precatórios"; (b) "é obrigatório o cumprimento da ordem mandamental concedida no presente caso, com base na Repercussão Geral no RE nº 553.710/DF"; (c) válido o ato de concessão da anistia, o que implica a necessidade de pagamento imediato dos valores retroativos devidos; (d) não se mostra possível a relativização da coisa julgada, que só poderá ser revista por meio dos instrumentos próprios, como, por exemplo, através da ação rescisória; e (e) "a possível e posterior anulação da portaria concessiva da anistia que embasou esta execução não retira a eficácia do título judicial transitado em julgado".
+Requer, por isso, seja provido o recurso.
+A agravada, por sua vez, pleiteia a manutenção da decisão agravada. Argumenta que: (a) "a parte recorrente não trouxe argumentos aptos a infirmar os fundamentos da decisão recorrida, razão pela qual deve ser mantida"; (b) sendo a anistia do exequente concedida tendo por fundamento a Portaria nº 1.104-GM3/1964, é aplicável a ele, de forma integral, o entendimento da Suprema Corte no julgamento do RE 817.338/DF (Tema 839) que afastou o prazo decadencial quinquenal do art. 54 da Lei 9.784/99; (c) "a suspensão da execução é uma consequência lógico-jurídica da suspensão dos efeitos do acórdão que reconheceu a decadência da Administração para anular a portaria de anistia do recorrente"; e (d) "atender o pleito recursal seria reabrir, por vias transversas, o prazo recursal contra a referida decisão do MS 19.696/DF", que concedeu o efeito suspensivo ao recurso extraordinário interposto pela UNIÃO.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Na hipótese dos autos, a UNIÃO aludiu à existência do MS 19.696/DF, impetrado pelo agravante, no qual se discute a validade da portaria anistiadora. Nesse contexto, considerando que essa ação mandamental encontra-se pendente de decisão definitiva, a agravada ponderou pela necessidade de suspender a presente execução até que sobrevenha o trânsito em julgado naqueles autos.
+Ainda, a propósito, o ente público agravado noticiou que fora atribuído efeito suspensivo ao recurso extraordinário, por ele interposto, no âmbito do mencionado MS 19.696/DF.
+Desta forma, é prudente que se aguarde o trânsito em julgado do referido mandado de segurança, quando será assentada a conformidade da decisão ali proferida com a orientação firmada pelo Supremo Tribunal Federal no julgamento do RE 817.338/DF (Tema 839).
+É evidente, portanto, a prejudicialidade da questão debatida nesse writ em relação à presente execução, que se fundamenta na citada portaria de anistia, impondo-se a manutenção da suspensão deste feito até decisão definitiva naqueles autos.
+Desse modo, ausente impugnação específica a fundamento da decisão agravada, tal situação implica o não conhecimento do agravo interno interposto por força do óbice contido na Súmula 182/STJ e do disposto no art. 1.021, § 1º, do CPC.
+Ilustrativamente:
+AGRAVO INTERNO NA AÇÃO RESCISÓRIA. RECURSO INCAPAZ DE ALTERAR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ARTIGO 1.021, § 1º, DO CPC/2015.
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, sob pena de não ser conhecido o agravo.
+2. Agravo interno não conhecido.
+(AgInt na AR 5.816/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 26/04/2017, DJe 02/05/2017)
+Em consequência, não merece reparo a decisão agravada.
+Ante o exposto, voto por não conhecer do agravo interno.
