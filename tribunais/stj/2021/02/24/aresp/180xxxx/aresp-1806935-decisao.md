@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDAÇÃO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Ação de indenização por danos materiais e morais. Acidente de trânsito. Denunciação da lide. Sentença de parcial procedência da lide principal. Danos materiais fixados em R$ 4.854,70, danos morais arbitrados em R$ 20.000,00. Denunciação da lide aceita.
+Seguradora condenada ao pagamento, nos limites da apólice.
+Apelo da transportadora. Passageiro que sofre trauma após colisão do veículo da transportadora. Lesões na coluna com necessidade de internação por 09 dias e afastamento do trabalho por 08 semanas.
+Responsabilidade objetiva do transportador.
+Cláusula de incolumidade. Culpa pelo acidente que se mostra irrelevante. Acidente de trânsito que se caracteriza como fortuito interno e inerente à atividade desenvolvida.
+Dano material evidenciado pelos gastos que o autor teve que suportar, além do período de afastamento do trabalho, observado o valor médio de sua remuneração e o período em que ficou sem exercer atividade laboral.
+Correção monetária devida desde o desembolso e juros de mora devidos a partir da citação.
+Dano moral decorrente da dor imposta. Valor arbitrado que não permite revisão. Correção monetária desde o arbitramento e juros de mora desde a citação.
+Lide secundária. Assistência judiciária gratuita concedida. Seguradora em liquidação extrajudicial. Apólice de seguros que cobre lesões corporais e materiais a passageiros, independente da culpa pelo acidente. Lide secundária julgada procedente, cumprindo à seguradora pagar à segurada, nos termos e limites da apólice de seguros.
+Recurso da transportadora provido em mínima parte, para modificar, apenas, o termo inicial dos juros de mora e correção monetária. Recurso da seguradora desprovido.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 944 do CC e 8º do CPC, no que concerne à redução do quantum indenizatório, trazendo os seguintes argumentos:
+Doutos Ministros, não é admissivel um dano moral desta monta, inclusive porque o juiz de piso entendeu pela IMPROCEDÊNCIA do pedido, não faz sentido, um aumento de tamanha proporção, reformando-se a sentença de primeiro grau em tão alto patamar, ao arrepio de provas precárias trazidas aos autos. Trata-se de condenação absolutamente desproporcional. Ora Exas., revela-se patente a conclusão de que o valor fixado na r. acórdão recorrido a título de danos morais, está em pleno descompasso com os princípios da razoabilidade e proporcionalidade, que devem nortear o julgador na fixação do quantum indenizatório.
+ .. .
+Com efeito. O objetivo da lei é desestimular e coibir a ocorrência ou reiteração de fatos que possam atingir terceiros de forma violenta ou abusiva. Não buscou o legislador possibilitar ao ofendido e quando ofendido for, um enriquecimento sem causa e sem esforço. Em outras palavras, vale dizer: o valor da indenização deverá ser fixado segundo critérios de MODERAÇÃO e RAZOABILIDADE, de forma a impedir exageros, o que não ocorreu nesta demanda com a manutenção da Sentença de fls. (fls. 753/754).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No tocante ao valor arbitrado de R$ 20.000,00, a título de ressarcimento pelo prejuízo imaterial, em verdade, diante da extensão dos danos, mostra-se, excessivamente, ínfimo, contudo, deve ser mantido, sob pena de configuração de decisão ultra petita, pois o valor da condenação encontra-se no patamar limite da quantia pleiteada pelo autor em sua inicial (fl. 732).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
