@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo manejado por BANCO DO BRASIL SA contra decisão da Presidência da Seção de Direito Privado do Tribunal de Justiça do Estado de São Pauloque, em juízo de admissibilidade do recurso especial (e-STJ fls. 202/207): (a)julgou prejudicado o apelo nobre a teordo artigo 543-C, § 7.º, I, do Código de Processo Civil/1973relativamenteàs controvérsias em torno do foro competente para ajuizamento do cumprimento individual da sentença coletiva proferidapeloJuízo da 12.ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DFque condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), bem como em toro dadata de fluência dos juros de mora incidentes sobre indenização por perdas em cadernetasde poupança em decorrência de Planos Econômicos, uma vez que o aresto reclamado andou em sintonia com as teses firmadas nos Recursos Especiais repetitivos n.º 1.391.198/RS,1.361.800/SP e 1.370.899/SP; e (b)inadmitiu o recurso especial quanto às demais questões porquanto averiguar o eventual abuso pela aplicação da multa do artigo557, § 2.º, do Código de Processo Civil/1973, bem como elidir aconvicção formada pela Turma julgadora diante das provas e circunstâncias fáticas da causa esbarra no óbice da Súmula 07/STJ diante da impossibilidade de reexame dos elementos fático-probatóriosdos autos.
+Em suas razões de agravo, o Banco agravante sustenta que "as matérias enfocadas no Recurso Especial não estão restritas tão somente ao tema do computo dos juros de mora, portanto merecem ser apreciadas pelo Tribunal "ad quem"", acrescentando, destarte, que "inaplicável, ao caso vertente, a Súmula 7 do colendo Supremo Tribunal Justiça, especialmente pelo fato de que ocorreu o prequestionamento da matéria controvertida e houve pronunciamento judicial, ainda que implicitamente, pois, como é sabido, não há obrigatoriedade dos dispositivos tidos por violados constarem do v. acórdão" (e-STJ fl. 215).
+Não houve resposta ao agravo (cf. e-STJ fl. 227).
+Recebidos os autos neste Superior Tribunal de Justiça, verifiquei, na condição de Ministro responsável pelo NURER da Segunda Seção deste STJ, que a controvérsia objeto do presente recurso foi afetada à Segunda Seção conforme despachono Resp n.º 1.438.263/SP, vinculado ao Tema n.º 948/STJ, para uniformizar o entendimento acerca da "Legitimidade ativa de não associado para a liquidação/execução da sentença coletiva", assim determineiadevolução do feitoà origem para que o recurso permanecesse suspenso até o pronunciamento definitivo desta Corte,nos termos do art. 1.037, II, do Código de Processo Civil/2015 (e-STJ fls. 233/234).
+Entretanto,observando a possibilidade de não se tratar de hipótese inserida no âmbito do tema que motivou a devolução do feito, a Presidência da Seção de Direito Privado do TJSPdeterminou o retorno dos autos a este Tribunal Superior(e-STJ fl. 242/243).
+O recurso foi distribuído à minha relatoria com imediataconclusãopara julgamento (cf. certidãode e-STJ fl. 250).
+É o relatório.
+Passo a decidir.
+Inicialmente, esclareço que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/1973 e com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça. (cf. Enunciado Administrativo n. 2/STJ), porquanto interposto contra decisão publicada anteriormenteà vigência do novo Código de Processo Civil.
+Ato contínuo, observo que a controvérsia recursal limitou-se, de forma expressa, à parte do decisum agravado que apontou a incidência do impeditivo daSúmula 07/STJ.
+A partir daí, tenho que o recurso não merece conhecimento.
+Com efeito, à conta de rebater a incidência do óbice do enunciado n.º 07 da Súmula deste STJ, a instituição financeiraagravante limitou-se a apontar a existência de prequestionamento das matérias debatidas no apelo nobre.
+Como se vê, as razões recursais são absolutamente deficientes uma vez justificam a não incidência da Súmula 07/STJ com base em fundamento desconexo do campo de abrangênciada referida Súmula.
+A toda evidência, a parte cingiu-se a tecer alegações genéricas de não aplicação da Súmula apontada.
+Nessa ordem de ideias, o Banco agravante esquivou-se do ônus que lhe competia, qual seja, a impugnação clara e efetiva da decisão do Tribunal a quo que deixou de admitir o recurso especial. Resta evidente, pois, a violação ao princípio da dialeticidade. A propósito:
+"AGRAVO REGIMENTAL. AGRAVO CONTRA DECISÃO QUE, NA ORIGEM, NÃO ADMITIU RECURSO ESPECIAL. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182 DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.
+1.- Cumpre à parte, nas razões do agravo, impugnar todos os fundamentos suficiente da decisão que, na origem, não admite o recurso especial. Além disso, é preciso que tal impugnação seja efetiva, exigindo-se da parte que demonstre a impertinência dos motivos nos quais fundada a decisão agravada.
+2.- A agravante, quando da interposição do Agravo, não cuidou de impugnar a decisão agravada em toda a sua extensão, mormente quanto à afirmação de incidência das Súmulas 5, 7 e 13/STJ.
+3.- Agravo Regimental improvido"
+(AgRg no AREsp 79.569/SP, Rel. Ministro SIDNEI BENETI, Terceira Turma, DJe 01/02/2012, grifei).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. APLICAÇÃO DO ART. 544, § 4º, I, DO CPC.PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. PRECEDENTES. MANUTENÇÃO DA DECISÃO ORA AGRAVADA.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 544, § 4º, inc. I, do CPC, ônus da qual não se desincumbiu a parte insurgente.
+2. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento."
+(EDcl no AREsp 347.137/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 03/02/2014, grifei)
+Desse modo, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o artigo 253, parágrafo único, inciso I, do Regimento Interno do STJ.
+"Art. 253.  ..
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida" .
+Nessa medida, a pretensão recursal não merece amparo.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, com base no art. 253, parágrafo único, I, do Regimento Interno do STJ, NÃO CONHEÇO do agravo em recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/1973). ALEGAÇÕES GENÉRICAS. DEFICIÊNCIA DA FUNDAMENTAÇÃOA RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DO TRIBUNAL LOCAL QUE INADMITIU O RECURSO ESPECIAL.
+AGRAVO NÃO CONHECIDO.
