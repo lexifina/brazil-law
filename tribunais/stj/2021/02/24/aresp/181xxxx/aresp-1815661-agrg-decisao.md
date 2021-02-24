@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-sede agravo regimental interposto por GABRIEL DE SOUZA contra decisão monocrática da lavra do Ministro Presidente HUMBERTO MARTINS que não conheceu do agravo por ausência de impugnação de todos os fundamentos da decisão de admissibilidade (e-STJ fls. 1045/1046).
+Em seu agravo regimental (e-STJ fls. 1049/1053), a parte recorrente alega que houve impugnação específica de todos os fundamentos da decisão agravada.
+Manifestação do Ministério Público Federal, às e-STJ fls. 1062requerendo a intimação do Ministério Público Estadual para apresentar impugnação ao recurso defensivo.
+É o relatório.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa é a seguinte (e-STJ fls. 922):
+PENAL. PROCESSO PENAL. EXECUÇÃO DE PENA. RECURSO DE AGRAVO. PROGRESSÃO DE REGIME. RECURSO DA DEFESA.
+INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU PEDIDO DE ADEQUAÇÃO E PROGRESSÃO DE REGIME DO FECHADO PARA O SEMIABERTO. TESE DESACOLHIDA. REGIME PRISIONAL MANTIDO APÓS O RECONHECIMENTO DE , EM RAZÃO DE CIRCUNSTÂNCIA JUDICIAL NOVATIO LEGIS IN MELLIUS DESFAVORÁVEL. AUSÊNCIA DE OBSERVÂNCIA AO REQUISITO OBJETIVO. DATA PREVISTA PARA PROGRESSÃO DE REGIME APENAS EM 01/05/2021. DECISÃO MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 963/969).
+Nas razões do recurso especial (e-STJ fls. 981/992), fundado naalínea"a"do permissivo constitucional, alega a parte recorrente violação dosartigos 33, 59 e 69do CP. Sustenta a possibilidade da fixação do regime semiaberto para o cumprimento da pena.
+É o relatório.Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada,conheçodo agravo.
+O recurso não merece acolhida.
+Primeiramente,a Corte de origem, ao manter o regime fechado para o cumprimento da pena, consignou: (i) a impossibilidade da progressão antecipada, (ii) que a existência da valoração negativa da circunstância judicial da natureza da droga, quanto ao crime de tráfico, na pena-base, justifica a manutenção do regime mais gravoso.
+Contudo, a parte recorrente, em seu recurso especial, limita-se a alegar que o réu cumpre os requisitos dos artigos33, §2º, alínea "b", e 59 do CP, para a fixação do regime semiaberto para o cumprimento da pena, nada falando acerca da impossibilidade da progressão antecipada.Assim, a falta de impugnação do referidofundamentodo acórdão recorridoatraio óbice daSúmula283/STF (É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles).
+Mesmo que superado tal óbice, no que tange ao regime de cumprimento de pena referente ao acusado Jefferson,ajurisprudência desta Corte firmou-se no sentido de que,fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito- enunciado da Súmula n. 440 deste Tribunal.
+Na mesma esteira, são os enunciados das Súmulas n. 718 e 719 do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Portanto, é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do Código Penal ou em outra situação que demonstre a gravidade concreta do crime. Precedentes: HC n. 325.756/SP, RelatorMinistro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, RelatorMinistro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, RelatorMinistro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+No presente caso, em atenção ao art. 33, § 2º, alínea "c", do CP, c/c o art. 42 da Lei n. 11.343/2006, embora estabelecida a pena definitiva doacusado em 7anos de reclusão, houve a consideração de circunstância judicial negativa na pena-base, fundamento a justificar aimposição de regime prisional mais gravoso, no caso, o fechado.Precedentes: AgRg no REsp 1899462/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021;HC 606.212/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/09/2020, DJe 29/09/2020;AgRg no AREsp 1602427/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/08/2020, DJe 31/08/2020.
+Ante o exposto,reconsideroa decisão agravada às e-STJ fls. 1045/1046, e com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ,conheçodo agravo paranão conhecerdo recurso especial.
+Intimem-se.
