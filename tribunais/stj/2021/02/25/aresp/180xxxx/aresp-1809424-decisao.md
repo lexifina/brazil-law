@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por RENAN MAGALHAES PIMENTEL contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+PROCESSUAL CIVIL
+AGRAVO INTERNO NA APELAÇÃO. DECISÃO QUE INDEFERIU A GRATUIDADE DE JUSTIÇA AO APELANTE. INCONFORMISMO DO AGRAVANTE MANIFESTADO.
+NECESSIDADE DE APRECIAÇÃO DA MATÉRIA PELO COLEGIADO.
+DOCUMENTOS TRAZIDOS QUE NÃO COMPROVAM A ALEGADA HIPOSSUFICIÊNCIA. RECURSO NÃO PROVIDO.
+Aplicação do Verbete Sumular nº 39, do TJRJ.
+Agravo do art. 1.021 do CPC/2015. Agravante que não trouxe nenhum fato a ensejar a modificação da decisão.
+Todos os argumentos trazidos pelo agravante já foram enfrentados, nada acrescentando com suas razões de agravo interno a ponto de modificar o entendimento deste Relator.
+Sendo assim, mantenho a decisão por seus próprios fundamentos.
+Recurso não provido. Manutenção da decisão (fl. 593).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 5º da Lei n. 1.060/50 e 98 e 99 do CPC, no que concerne à gratuidade de justiça, trazendo os seguintes argumentos:
+18. Com efeito, a última declaração de Imposto de Renda apresentada (fls. 574), aponta saldo em caderneta de poupança no valor de R 2.555,35 (dois mil, quinhentos e cinquenta e cinco reais e trinta e cinco centavos), considerado pelos próprios julgadores como "de pouca monta". Conforme já relatado e informado na referida declaração de renda, o Recorrente não possui vínculo empregatício, portanto, não aufere renda fixa, pelo que, mantém reservada na caderneta de poupança, quantia mínima para não ver sua família desprovida dos recursos mínimos para sobrevivência.
+19. Da análise detida da declaração, constata-se, ainda, que o Recorrente possui um único imóvel, portanto, bem de família, cuja manutenção e obrigações propter rem, requerem dispêndio financeiro, razão pela qual, não retratam condição diversa da informada nos autos acerca da hipos suficiência arguida exaustivamente (fl. 611).
+É, no essencial, o relatório. Decido.
+Primeiramente, com relação ao art. 5º da Lei n. 1.060/50, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente não demonstra, de forma direta, clara e particularizada, como o acórdão recorrido violou o dispositivo de lei federal apontado, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, esta Corte Superior de Justiça já se manifestou no sentido de que a "argumentação recursal em torno de normas infraconstitucionais não pode ser meramente genérica, sem o desenvolvimento de teses efetivamente vinculadas a elas e sem a demonstração objetiva de como o acórdão recorrido as teria violado. Incidência da Súmula n. 284/STF". (REsp n. 1.293.548/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.442.952/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/2/2017; EDcl no AgRg no AREsp n. 422.103/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2014; AgRg no AREsp n. 413.345/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 22/10/2015; e AgRg no AREsp n. 634.545/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/5/2015.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Como se sabe, é possível o deferimento da gratuidade de justiça, estando tal situação atualmente contemplada no art. 98, caput, do novo CPC.
+No entanto, é relativa a presunção de pobreza, podendo o magistrado indeferir o pleito se encontrar elementos os quais demonstrem que o requerente não é hipossuficiente, na forma da súmula nº 39, deste Tribunal de Justiça.
+O Código de Processo Civil traz a possibilidade de indeferimento do benefício caso não tenha elementos objetivos, sendo certo que permite ao magistrado exigir, quando houver dúvida, que a parte comprove, por meio de documentos, a insuficiência de recursos.
+No mesmo sentido, este Tribunal sedimentou o entendimento de permitir ao juiz que, em casos excepcionais, exija a comprovação da hipossuficiência alegada, conforme Verbete nº 39:
+ ..
+Como já fundamentado na decisão sob ataque, o agravante não comprovou sua hipossuficiência.
+No caso dos autos, os documentos trazidos não se mostram suficientes para demonstrar a alegada condição de hipossuficiência. Tampouco há evidências de que o pagamento das custas e honorários será motivo de desequilíbrio às finanças do requerente. Inclusive constata-se que possui aplicações em seu nome, apesar de ser em pouca monta, e por certo quem consegue poupar, pode arcar com as custas do processo.
+Por certo, o agravante não trouxe aos autos qualquer argumento ou prova novos capazes de modificar o entendimento exposto na decisão monocrática recorrida.
+Dessa forma, reexaminada a questão, este órgão verificou que não há qualquer modificação a ser feita no julgado, uma vez que a decisão monocrática corretamente solucionou o recurso interposto, que merece ser mantida por seus próprios fundamentos (fls. 595-596).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em âmbito de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; e REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
