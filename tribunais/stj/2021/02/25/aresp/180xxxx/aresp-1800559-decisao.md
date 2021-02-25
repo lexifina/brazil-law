@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO BENEFÍCIO DE AMPARO ASSISTENCIAL DEFICIENTE EMENTA TERMO INICIAL DO BENEFÍCIO DATA DA INCAPACIDADE HONORÁRIOS ADVOCATÍCIOS SUCUMBÊNCIA RECÍPROCA AFASTADA.
+Quanto à controvérsia, alega violação do art. 103 da Lei n. 8.213/91, c/c o art. 1º do Decreto n. 20.910/32 e o art. 2º do Decreto-Lei n. 4.597/42, no que concerne à prescrição relativa ao ato de indeferimento do benefício, trazendo os seguintes argumentos:
+Conforme se observa dos documentos acostados aos autos, imperioso é o reconhecimento da prescrição. Verifica-se que, no caso vertente, a despeito de o indeferimento/cessação do benefício ter ocorrido em 06/07/2006, a parte demandante apenas ajuizou a presente ação em 03/09/2015, razão pela qual evidente a prescrição da pretensão de impugnar o ato administrativo de indeferimento/cessação. (fls. 392).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
