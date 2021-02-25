@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WLADNILSON DOS SANTOS contra decisão indeferitória de provimento urgente proferida peloDesembargador Relator da 6.ªCâmara de Direito Criminal do Tribunal de Justiça do Estado de São Paulo em um habeas corpus.
+Narra a inicial que o Paciente foi preso preventivamente, durante a operação "Sicário", como incurso nos arts. 1º e 2º, § 2º, da Lei n. 12.850/2013, por supostamente fazer parte da organização criminosa PCC, envolvida com o tráfico de drogas.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de Justiça do Estado de São Paulo, tendo o Desembargador Relator negado o pedido liminar, decisão contra a qual se insurge.
+No presente writ, a parte Impetrante sustenta, em síntese, que a prisão preventiva foi decretada por meio de uma "decisão carente de fundamentação, eis que apenas disse que sua liberdade coloca em risco a ordem pública, vez que poderia se valer do cometimento de crimes para saldar eventuais débitos com a organização criminosa. Mais nada!" (fls. 5-6)
+Afirma que a decisão usa como indício apenas um único elemento, a saber um a imagem de whatsapp, que "não indica nada além de um nome, um apelido, sem maiores detalhes. Inexiste, ,ainda, na citada imagem, em que consistiria a participação do Paciente, qual sua conduta, a quais planos criminosos aderiu, como colaborou, seu verdadeiro dolo, ou seja, discutível até mesmo a ocorrência do fato típico pois não se tem notícia de um único ato criminoso praticado pelo Paciente." (fls. 6-7)
+Afirma que o Paciente não possui dívidas com a organização e que não há elementos suficientes de autoria para justificar a prisão preventiva, decretada com base argumentos genéricos, sem individualizar a conduta do Paciente, e ofende o art. 93, inciso IX, da Constituição Federal.
+Acrescenta que possui filhos com as idades de 8, 10 e 12 anos, dependentes do pai para o seu sustento.
+Invoca a ausência de contemporaneidade da decisão, pois relativa a suposto delito que ocorreu entre os anos de 2016 e 2019, sem nenhum fato novo desde então.
+Afirma que a decisão liminar do Desembargador Relator "contém ilegalidades manifestas, que consubstancia flagrante violação da liberdade de locomoção do Paciente, razão pela qual é fundamental o seu afastamento" (fl. 16), sendo aplicável a Súmula n. 691/STF.
+Requer que se conceda
+"medida liminar para que se revogue imediatamente o mandado de prisão preventiva expedido contra o Paciente, determinando a expedição do competente contramandando de prisão em favor de WLADNILSON DOS SANTOS e, ao final, definitivamente conceda-se a ordem de Habeas Corpus, para que o Paciente responda o processo em liberdade, até o julgamento final. r, em liminar e no mérito, a revogação da prisão preventiva, com a aplicação de medidas cautelares, caso se entenda necessário." (fl. 18)
+É o relatório. Decido.
+A Parte impetrante requer a revogação da prisão cautelar do Paciente.
+Todavia, verifico não ser possível analisar a viabilidade do pleito deduzido, diante da instrução deficitária do writ, visto que a Parte Impetrante não acostou aos autos a decisão proferida pelo Desembargador Relator do Tribunal de origem, o que inviabiliza a análise do constrangimento ilegal sustentado.
+Observe-se que, acaso a decisão impugnada seja a acostada à fl. 156, sua leitura é inviável, pois nela consta apenas símbolos ilegíveis.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso). No caso, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus pressupõe prova pré-constituída do direito alegado, não há como apreciar o mérito do writ.
+A propósito: " o  habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído. Precedentes." (HC 528.643/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020.)
+No mesmo sentido, citem-se, entre outras, as seguintes decisões monocráticas: HC 541.441/CE, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe 25/10/2019; HC 530.743/PI, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 06/09/2019; e HC 534.602/SP, Rel. Ministro JOEL ILAN PACIORNIK, DJe 23/09/2019.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
