@@ -1,0 +1,6 @@
+DECISÃO
+MARCOS AURELIO CARMO DOS SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que denegou o HC n.0077209-45.2020.8.19.0000.
+A defesa pretende, em síntese, seja revogada a custódia preventiva do réu - decretada pela suposta prática do crime previsto no art. 157, § 2º, II, do CP -, seja pela ausência de quaisquer dos fundamentos previstos no art. 312 do CPP, seja pela ocorrência de excesso de prazo na tramitação do feito, seja pela pandemia causada pelo novo Coronarívus.
+Consta do parecer do Ministério Público Federal que, "conforme informações tiradas do sítio eletrônico do Tribunal de Justiça do Estado do Rio de Janeiro, no dia 11 de janeiro de 2021, por sentença proferida pelo MM. Juiz de Direito da Vara Criminal da Comarca de Magé/RJ, com fundamento no artigo 386, VII, do Código de Processo Penal, o Recorrente foi absolvido da imputação relativa à prática, em tese, do crime descrito pelo artigo 157, § 2º, II, do Código Penal, ordenando-se a expedição de alvará de soltura.(autos nº 0008681-03.2019.8.19.0029)" (fl. 169).
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado este recurso em habeas corpus, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
