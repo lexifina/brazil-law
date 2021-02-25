@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por José Batista Ribeirocom base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 315):
+APELAÇÃO CIVEL - AÇÃO INDENIZATÓRIA - SEGURO VEICULAR -PRELIMINAR - NULIDADE DO PROCESSO - LITISCONSÓRCIO PASSIVO NECESSÁRIO - INOBSERVÂNCIA - ESTABILIZAÇÃO OBJETIVA E SUBJETIVA DA DEMANDA - OCORRÊNCIA. Sendo necessária a formação do litisconsórcio passivo, e tratando-se de questão de ordem pública, deve ser reconhecida a nulidade do processo e determinado o retorno dos autos ao juízo singular a fim de regularização do polo passivo da ação.
+Nas razões do recurso especial (e-STJ, fls. 324-334), a recorrente alegou, além de divergência jurisprudencial, a violação aos arts. 114 e 115 do CPC/2015.
+Sustentou, em síntese,a inaplicabilidade de litisconsórcio passivo necessário no caso dos autos,afirmando que não se discute o contrato de alienação fiduciária, mas sim o contrato de seguro.
+Ressaltou que "a relação decorrente do contrato de seguro limita-se à seguradora e ao segurado, embora o credor fiduciante possa reclamar a indenização, se houver perda da garantia do contrato de financiamento" (e-STJ, fl. 333), apontando divergência jurisprudencial.
+Ponderou que a relação objeto da ação é entre segurado e seguradora, não havendonexo causal que obrigue a inclusão da financeira no polo passivo da ação.
+O Tribunal de origem deixou de admitir o recurso especial (e-STJ, fls. 363-364), tendo sido interposto agravo em recurso especial às fls. 363-375(e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No caso em comento, o Tribunal de origem, de ofício, suscitou apreliminar de necessidade de formação de litisconsórcio passivo necessário e declarou a nulidade de todos os atos processuais instrutórios, deixando assentado os seguintes fundamentos (e-STJ, fls. 318-319):
+Instalo, de ofício, preliminar de nulidade absoluta da ação em razão da não formação de litisconsórcio passivo necessário. Dispõe o artigo 115, inciso I, do atual Estatuto Processual Civil ser nula a sentença quando os litisconsortes necessários não tiverem sido citados para integrar a lide.
+ ..
+No caso dos autos, observa-se que antes da data do sinistro (13/11/2016)a empresa CANOPUS ADMINISTRADORA DE CONSÓCIOS S/A, proprietária do veículo alienado fiduciariamente ao autor/recorrido, ajuizou a ação de busca e apreensão 5007796-92.2016.8.13.0313 (01/11/2016) informando a inadimplência do possuidor do automóvel. Na referida ação, houve a inserção de gravame eletrônico de indisponibilidade do bem, noticiada pela ora recorrente (ordem nº 25 -pg. 8).
+Com efeito, considerando que o pagamento do seguro pleiteado nestes autos não quita integralmente a dívida junto à administradora de consórcio, e que eventual procedência do pedido de pagamento da indenização do seguro, com a sub-rogação ao direito do salvado à seguradora, irá repercutir no direito da empresa administradora do consórcio proprietária do veículo, esta deve integrar o polo ativo da lide.
+ ..
+Pelo exposto, suscito a preliminar de necessidade de formação de litisconsórcio passivo necessário e casso a sentença, e declaro a nulidade de todos os atos processuais instrutórios, determinando a inclusão da CANOPUS ADMINISTRADORA DE CONSÓRCIOS S/Ano polo passivo da demanda, promovendo-se sua citação.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, quanto à desnecessidade de formação dolitisconsórcio passivona hipótese dos autos, exige, necessariamente, o reexame do acervo fático-probatório da causa, providência vedada no âmbito do recurso especial, conforme o óbice da Súmula 7/STJ.
+Registre-se, por fim, que a incidência da Súmula 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. SEGURO. NECESSIDADE DE FORMAÇÃO DELITISCONSÓRCIO PASSIVO NECESSÁRIO.REVERSÃO DO JULGADO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA N.7 DO STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
