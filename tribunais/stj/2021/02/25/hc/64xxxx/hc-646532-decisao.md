@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de DIEGO BORGES JAMAS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1500432-35.2018.8.26.0544.
+Consta dos autos que o Paciente foi condenado pela prática dos delitos previstos nos arts. 157,§ 2.º, inciso II (onze vezes), c.c. o art. 157,§ 2.º-A, inciso I, na forma do art. 71, caput, e 157,§ 2.º, inciso II, todosCódigo Penal, à pena reclusiva de 8 (oito) anos e 4 (quatro) meses, no regime inicial fechado, conforme acórdão acostado às fls. 720-750. O mandado de prisão definitivacumprido foi juntado aos autos em 22/02/2021.
+No presente writ, alega-se que é necessária a reavaliação da prisão, diante da nova situação de pandemia do coronavírus e suas variantes, especialmente do quadro de extremo risco à saúde do Paciente, porquanto é doente renal.
+Requer-se, liminarmente e no mérito, seja autorizado ao Paciente "o cumprimento da pena em LIBERDADE, EM REGIME ABERTO, AINDA, se o caso, em regime Semiaberto, tendo em vista a possibilidade do paciente trabalhar para pagar as multas do processo e sustentar a sua prole, ainda a prisão domiciliar.Ainda, se o caso, em prisão domiciliar, cumulado com regime semiaberto ou autorização para laborar" (fl. 23).
+É o relatório.
+Decido.
+A pretensão formulada pela Defesa de substituição do cumprimento da pena definitiva imposta ao Paciente em outro regime menos gravoso ou pela prisão domiciliar,em razão da pandemia do coronavírus,nos termos preconizados pela Recomendação n. 62/2020 do CNJ, équestão suscitadaque não foi apreciada pela Corte estadual, de modo que não pode ser conhecida originariamente por esta Corte, sob pena de supressão de instância.
+A propósito:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. ELEVADA QUANTIDADE E VARIEDADE DE DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. COVID-19. SUPRESSÃO DE INSTÂNCIA.RECURSO DESPROVIDO.
+ ..
+5. A tese de necessidade de prevenção de contaminação por coronavírus não foi previamente submetida ao crivo da Corte a quo, inviabilizando o exame da matéria diretamente por este Tribunal, sob pena de configurar-se indesejável supressão de instância.
+6. Recurso desprovido."(RHC 139.897/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2021, DJe 04/02/2021; sem grifos no original.)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. MOEDA FALSA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA.RISCO CONCRETO DE REITERAÇÃO DELITIVA. CRIME COMETIDO QUANDO O RECORRENTE CUMPRIA PENA EM REGIME ABERTO POR OUTROS CRIMES. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INADEQUAÇÃO. LIBERDADE PROVISÓRIA EM VIRTUDE DA PANDEMIA. SUPRESSÃO DE INSTÂNCIA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E DESPROVIDO.
+ ..
+5. O Juízo competente para análise da possibilidade de substituir a prisão preventiva visando a preservar a saúde do preso (diante do alastramento do novo coronavírus) é o responsável pela expedição do mandado de prisão. Apesar de afirmar que o Réu ser idoso, o Juízo das Execuções informou que não sobrevieram aos autos notícias de que o mesmo seja portador de doença, comorbidade ou condição que o inclua no grupo de risco para contagio pela COVID-19, nos termos preconizados pela Recomendação n. 62/2020 do CNJ, que não serve como salvo conduto indiscriminado. Ademais, a matéria não foi suscitada, tampouco apreciada pelo Tribunal a quo no acórdão recorrido, o que impede este Superior Tribunal de Justiça de se manifestar sob pena de supressão de instância.
+6. Recurso ordinário parcialmente conhecido e desprovido."(RHC 128.993/PI, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, todos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃOPENAL. PANDEMIA DA COVID-19. PLEITO DE TRANSFERÊNCIA PARA REGIME PRISIONAL MENOS GRAVOSO OU PRISÃO DOMICILIAR. TEMA NÃO DISCUTIDO PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. PETIÇÃOINICIALINDEFERIDALIMINARMENTE.
