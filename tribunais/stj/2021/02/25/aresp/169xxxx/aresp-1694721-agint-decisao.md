@@ -1,0 +1,88 @@
+DECISÃO
+MJC NOBREGA COMÉRCIO E SERVIÇOS DE ELETRÔNICA E REFRIGERAÇÃO LTDA. interpõe agravo interno contra decisão da Presidência desta Corte proferida nos seguintes termos (e-STJ, fls. 639-640):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ (falha na prestação do serviço), ausência de prequestionamento e Súmula 7/STJ (valor da indenização).
+Entretanto, a parte agravante deixou de impugnar especificamente: ausência de prequestionamento e Súmula 7/STJ (valor da indenização).
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+ ..
+Ante o exposto, com base no art. 21-E, inciso V, c.c. o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Sustenta a parte agravante que houve a impugnação dos fundamentos da decisão (e-STJ, fls. 643-677).
+De fato, verifica-se que a petição de agravo em recurso especial (e-STJ, fls. 521-553) impugnou, ainda que sucintamente, a decisão que inadmitiu o recurso especial.
+Portanto, com apoio no art. 259 do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 639-640 (e-STJ).
+Passo à análise do agravo em recurso especial.
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por MJC NOBREGA COMÉRCIO E SERVIÇOS DE ELETRÔNICA E REFRIGERAÇÃO LTDA., com base no art. 105, III, a e c, da Constituição Federal.
+Compulsando os autos, verifica-se que aagravada Gisele Ferdinand Chaves Lopesingressou com ação de obrigação de fazer cumulada com indenização por danos morais (e-STJ, fls. 2-15), tendo o Juízo de primeiro grau julgado procedente o pedido (e-STJ, fls. 217-219; 256-257).
+Interpostasapelações pelos litigantes, o Tribunal estadual decidiu, por unanimidade, dar provimento ao recurso da autora e negar provimento ao das reclamadas, em acórdão assim ementado (e-STJ, fls. 372-373):
+Apelação cível. Relação de consumo.
+A autora adquiriu 03 aparelhos de ar condicionado e pouco tempo após a instalação, um deles apresentou defeito. Contudo, depois de trocar a tubulação, o aparelho continuou a apresentar outros defeitos, nunca tendo funcionado a contento.
+Através de produção antecipada de provas, foi realizada prova pericial, onde o perito do juízo constatou que os defeitos verificados no Condicionador se originaram no desgaste prematuro de seus componentes impedindo a Autora de usufruir das funcionalidades do aparelho.
+Comprovada a aquisição de aparelh o de ar condicionado com defeito e a instalação com produto inadequado.
+Falha na prestação do serviço devidamente reconhecida através de produção antecipada de prova pericial.
+Embora se trate de descumprimento contratual, os fatos dos autos fogem à normalidade do cotidiano, pois o produto foi entregue com defeito e a instalação foi inadequada, os quais não foram sanados pelo fornecedor de serviços, privando a autora e sua família do uso regular e adequado do bem, não sendo a questão solucionada na esfera administrativa.
+Desprovimento do apelo do réu.Provimento do recurso da autora para condenar os demandados no pagamento dos honorários periciais.
+Apresentados embargos de declaração pela parte agravante, estes foram parcialmente acolhidos, para correção de erro material(e-STJ, fls. 409-416).
+Nas razões do recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, arecorrente alegou violação aos arts. 82, caput, § 2º, 345, IV, 489, § 1º e seu inciso IV, e 1.045 do CPC/2015, além de afirmar a existência de dissídio jurisprudencial e ofensa à Súmula 453/STJ (e-STJ, fls. 418-441).
+Sustentou, em síntese, que a revelia não acarreta presunção absoluta de veracidade dos fatos afirmados pela autora e que a Corte local não valorou adequadamente a prova pericial, ao entender que a ora recorrente, enquanto assistência técnica, foi também responsável por vício oculto do produto.
+Aduziu não ser cabível a cobrança de honorários periciais na ação em curso, pois deveriam ter sido exigidos na ação de produção antecipada de provas.
+Alegou que o acórdão recorrido não apreciou a questão relacionada ao valor dos danos morais, embora questionado em apelação e em embargos de declaração.
+Contrarrazões apresentadas (e-STJ, fls. 456-461; 462-473).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da ausência de prequestionamento e da incidência daSúmulan. 7/STJ (e-STJ, fls. 496-504).
+Foi interposto agravo em recurso especial às fls. 521-553 (e-STJ), e contraminuta apresentada às fls. 584-595 e 617-625 (e-STJ).
+Brevemente relatado, decido.
+De início, ressalte-se que, devidamente analisadas e fundamentadas as matérias suscitadas pela parte, não há que se falar em inobservância ao disposto nos incisos do art. 489 do CPC/2015, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa de prestação jurisdicional.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA C/C COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. 1. Ação declaratória de inexistência de relação jurídica cumulada com compensação por danos morais em razão de ter sido impedido de trocar a categoria de sua habilitação para condução de veículos automotores por constar dezoito pontos em seu prontuário do Detran, referentes à motocicleta objeto de suposto contrato de financiamento. 2. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração. 3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15. 4. O reexame de fatos e provas em recurso especial é inadmissível. 5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas. 6. Agravo interno no agravo em recurso especial não provido. (AgInt nos EDcl no AREsp 1237692/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/06/2019, DJe 26/06/2019)
+No que concerne à responsabilidade da recorrente pelos danos gerados à autora, faz-se necessário transcrever o que ficou consignado no acórdão do Tribunal a quo sobre o tema (e-STJ, fls. 376-379, sem grifo no original):
+A autora informou que a demandada MJC procedeu à instalação dos aparelhos utilizando alumínio. Conquanto a citada ré esteja correta ao alegar que a revelia não induz à procedência dos pedidos, é certo que se presumem verdadeiras as alegações não impugnadas, art. 341 do CPC.
+Através de produção antecipada de provas, foi realizada prova pericial, onde o perito do juízo constatou que "..os defeitos verificados no Condicionador se originaram no desgaste prematuro de seus componentes impedindo a Autora de usufruir das funcionalidades do aparelho. Estima-se que os Condicionadores de Ar fabricados atualmente tenham vida útil entre 8 e 10 anos. Assim, este Perito entende que, no presente caso a existência de defeitos com perda da funcionalidade do aparelho nos 10 (dez) primeiros meses de uso, configura -se a existência de vício oculto no mesmo.", index.21.
+Note -se que o perito informou que são poucos os profissionais que estão empregando o alumínio em instalações residenciais e comerciais, especialmente naquelas onde a maior parte da tubulação ficará embutida em tetos e paredes, tendo sido unanimes no uso do cobre neste tipo de instalação.
+E pelo que o profissional constatou, isto se se deve ao fato de que o alumínio "..requer ferramental exclusivo para preparar e manipular a tubulação, além de cuidados especiais no seu armazenamento..o alto índice de retrabalho nas instalações onde não foram observados os cuidados exigidos pelo material, sendo necessário pessoal especializado para a realização dos reparos.".
+Ademais, sequer foi dada oportunidade à parte autora para optar entre proceder à instalação com alumínio ou com cobre:
+ ..
+Desta forma, diferente do que entende o apelante MJC, o seu serviço foi defeituoso, motivo pelo qual restou configurada a falha na prestação do serviço oferecido, bem como o dano moral daí decorrente diante do evidente transtorno.
+No que diz respeito ao aparelho em si, o laudo do index.21 foi categórico no sentido que o mesmo também possuía defeitos:
+ ..
+Na realidade, ocorreram duas falhas na prestação do serviço. Uma, em relação à instalação, pois foi usado alumínio, sendo que o cobre era o mais indicado, e tal informação não foi prestada à consumidora.
+Duas, quanto à existência de defeito oculto nos componentes internos da condensadora.
+Dessarte, depreende-se que o Colegiado estadual julgou a lide com base no substrato fático-probatório dos autos. A revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+Ademais, não cabe a este Tribunal apreciar ofensa a verbete sumular em recurso especial, uma vez que o enunciado de súmula não se insere no conceito de lei federal, previsto no art. 105, II, a, da Constituição Federal.
+Esse entendimento foi consubstanciado com a edição da Súmula 518 desta Corte, que determina: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+No tocante aos arts. 82 e 1.045 do CPC/2015, verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunal local. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+Destaco que o Tribunal de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre os referidos artigos.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incide, ao caso, a Súmula 211 do STJ.
+É nesse sentido o entendimento desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO.
+INSURGÊNCIA DA AUTORA.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. In casu, deixou a recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+1.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+2. Para alterar as conclusões do órgão julgador no tocante à configuração dos elementos ensejadores do dever de indenizar e dos danos morais pleiteados, na forma como posta, seria necessário o reexame do contexto fático e probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1598669/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/04/2020, DJe 27/04/2020)
+Por fim, em relação à análise do recurso especial com base na alínea c do permissivo constitucional, constata-se não ter a recorrente efetivado a devida comprovação do dissídio jurisprudencial apontado.
+É preciso enfatizar que a jurisprudência vigente no Superior Tribunal de Justiça, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, entende que, para demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma, fazendo-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no apelo excepcional interposto pela recorrente.
+Corroborando esses argumentos, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. EMBARGOS DE DECLARAÇÃO.OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO.AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE. EGURO HABITACIONAL. SFH. INVERSÃO DO ÔNUS DA PROVA. INAPLICABILIDADE DO CDC. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA Nº 568 DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de cobrança de indenização securitária.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Esta Corte pacificou o entendimento de que o Código de Defesa do Consumidor não se aplica aos contratos regidos pelo SFH quando celebrados antes de sua entrada em vigor e também não é aplicável ao contrato de mútuo habitacional, com vinculação ao FCVS. Precedentes.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno no recurso especial não provido.
+(AgInt no REsp 1866184/SE, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/02/2021, DJe 11/02/2021)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.APRECIAÇÃO DE TODAS AS QUESTÕES. INEXISTÊNCIA DE AFRONTA AO ART. 489 DO CPC/2015. CITAÇÃO DE PASSAGEM DE ARTIGOS. SÚMULA N. 284/STF.DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. MULTA DO ART. 1.021, § 4º, do CPC/2015. NÃO INCIDÊNCIA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 489 do CPC/2015 quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca da aplicação de óbice ao exame do mérito recursal.
+2. "A mera indicação de artigos de lei pretensamente violados não enseja o conhecimento do recurso especial, porquanto este é apelo de fundamentação vinculada e não incide o brocardo iura novit curia" (REsp n. 794.537/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/3/2009, DJe 6/4/2009), o que ocorreu no caso.
+3. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF. Além disso, "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n.
+13/STJ).
+4. Conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, "a aplicação da multa prevista no § 4º do art.
+1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp n. 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 29/8/2016).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1892017/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/12/2020, DJe 18/12/2020)
+No caso em exame, depreende-se que a recorrente limitou-se a citar os acórdãos paradigmas sem, ao menos, realizar o devido cotejo analítico para fins de comprovação da divergência jurisprudencial alegada.
+Logo, não há como ser julgado o recurso especial com base na alínea c do permissivo constitucional.
+Ante o exposto, em juízo de reconsideração da decisão de fls. 639-640 (e-STJ), conheço do agravo paraconhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% (dois por cento) sobre o valor da condenação.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. 1. RECONSIDERAÇÃO DA DECISÃO. NOVO EXAME DO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO REALIZADA. 2. VIOLAÇÃO AO ART. 489, § 1º E SEU INCISO IV, DO CPC/2015. NÃO OCORRÊNCIA. 3. RESPONSABILIDADE CIVILRECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 4. VIOLAÇÃO A SÚMULA. ENUNCIADO 518 DESTA CORTE.5.VIOLAÇÃO AOS ARTS. 82 E 1.045 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DASÚMULA211/STF. 6. AGRAVO CONHECIDO PARACONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
