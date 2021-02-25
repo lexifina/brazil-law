@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III,"a" e "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo quefalar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, o acórdão recorrido assim concluiu (e-STJ fls. 194/195):
+A parte autora completou a idade mínima em 13.04.2014, devendo comprovar o exercício de atividade rural por 180 meses.
+(..)
+Para comprovar a sua condição de trabalhador rural, o requerente apresentou cópia da Declaração de Atividade Rural emitida pelo Sindicato dos Trabalhadores Rurais de Eldorado/MS informando que exerceu atividade rural no período de dezembro de 1987 a abril de 2003, Ficha de Sindicato dos Trabalhadores Rurais de Icaraíma na qual consta a sua admissão em 30.07.1980 e cópia da sua CTPS com anotação de vínculo de emprego de natureza rural no período de01.08.1986 a 18.11.1987.
+Reitero que as Declarações de Sindicato de Trabalhadores Rurais fazem prova do quanto nelas alegado, desde que devidamente homologadas pelo Ministério Público ou pelo INSS, órgãos competentes para tanto, nos exatos termos do que dispõe o art. 106, III, da Lei nº 8.213/91, seja em sua redação original, seja com a alteração levada a efeito pela Lei nº 9.063/95.
+Ressalto que não servem como início de prova material do labor rural documentos com dados cadastrais meramente declarados pelo requerente, sem valor probatório.
+A CTPS do requerente, com anotação de trabalho no meio rural, constitui prova plena do labor rural do período anotado.
+Porém esse período é insuficiente para a obtenção da aposentadoria por idade rural.
+Dessa forma, esses documentos não são hábeis como início de prova material.
+Registro, ainda que o CNIS/DATAPREV indica que o autor laborou em atividades urbanas como pedreiro e servente de obras.
+Portanto, desnecessária a incursão sobre a credibilidade ou não da prova testemunhal, uma vez que esta, isoladamente, não se presta à declaração de existência de tempo de serviço rural, bem como não há documentos que comprovem a atividade rural da autora como trabalhadora rural nos 180 meses imediatamente anteriores ao implemento do requisito etário.
+Diante da insuficiência do conjunto probatório presente nos autos, para efeito de comprovação do exercício de atividade rural no período exigido pela Lei nº 8.213/91, a parte autora não faz jus à concessão do benefício pleiteado.
+Em face da ausência dos requisitos legais para a concessão do benefício, a sentença deve ser mantida.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE RURAL. BOIA-FRIA. ATIVIDADE NO PERÍODO DE CARÊNCIA. PREMISSA FÁTICA. INVERSÃO. DESCABIMENTO.
+1. A Primeira Seção, em julgamento proferido sob o rito do art.
+543-C do CPC/73, assentou a compreensão de que o trabalhador denominado "boia-fria", em razão das dificuldades inerentes à natureza de seu labor  desprovido de qualquer vínculo formal e, por conseguinte, de documentação específica  pode ter reconhecida sua atividade rural por meio de um início de prova material, em parte do período postulado, desde que corroborado por testemunhos idôneos, colhidos em juízo.
+2. Hipótese em que o Tribunal de origem não reconheceu a pretensão da autora após constatar a ausência de comprovação do exercício de atividade rural no período de carência, de modo que a revisão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.(AgInt nos EDcl no REsp 1858793/SP, de minha relatoria, PRIMEIRA TURMA, julgado em 07/12/2020, DJe 17/12/2020).
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APOSENTADORIA RURAL. AUSÊNCIA DE COMPROVAÇÃO DO EXERCÍCIO DA ATIVIDADE RURAL. REAVALIAÇÃO PROBATÓRIA QUE CONFIRMA ESSA CONCLUSÃO.PROVA MATERIAL INCONSISTENTE E CONTRADITÓRIA. TESTEMUNHAS QUE NÃO CONFEREM AMPLITUDE AO INÍCIO DA PROVA MATERIAL. VÁRIOS LAPSOS DE ATIVIDADE URBANA NOS REGISTROS DO CNIS. DESCARACTERIZAÇÃO DA CONDIÇÃO DE SEGURADO ESPECIAL. CONJUNTO FÁTICO-PROBATÓRIO DESARMÔNICO. RECURSO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido não destoa da jurisprudência do STJ ao afirmar que o exercício de atividade urbana, por si só, não descaracteriza a condição de Segurado especial, vez que se admite a descontinuidade no exercício da atividade rural.
+2. No caso dos autos, contudo, as provas materiais apresentadas estão em confronto com os registros do CNIS do autor, que apontam diversos vínculos de atividade urbana, suficientes a descaracterizar a sua condição de Trabalhador Rural.
+3. Neste caso, verifica-se que o acervo testemunhal produzido apresenta-se inadequado, por ser contraditório, para evidenciar a pretendida situação de Trabalhador Rural da parte autora.
+4. Agravo Interno do Particular a que se nega provimento.(AgInt no AREsp 1372614/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020)
+Quanto ao recurso especial interposto com base na alínea "c" do permissivo constitucional, a análise do dissídio jurisprudencial está prejudicada em razão da aplicação da Súmula 7 do STJ.
+Registro, ainda, que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+De acordo com o disposto no art. 85, § 11, c/c o art. 98, VI, §§ 2º e 4º, do CPC/2015, deve ser fixada a verba honorária recursal, inclusive ao beneficiário da assistência judiciária gratuita.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial. Majoro os honorários recursais em 10% (dez por cento) sobre o valor já fixado na origem, respeitados os limites e critérios previstos nos §§ 2º e 3º do art. 85 do CPC/2015. Suspensa a exigibilidade por se tratar de beneficiário de justiça gratuita, conforme dicção do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
