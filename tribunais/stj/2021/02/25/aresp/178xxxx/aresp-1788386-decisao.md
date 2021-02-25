@@ -1,0 +1,25 @@
+DECISÃO
+JOÃO BATISTA RODRIGUES (JOÃO) ajuizou ação cominatória de obrigação de fazer com pedido de tutela provisória de urgência contra UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDICO (UNIMED) pleiteando, liminarmente, que a OPERDORA promova a internação domiciliar do JOÃO disponibilizando-se enfermagem 24 horas dia; fisioterapia respiratória e motora; fonoaudiologia em sessões diárias 5 vezes por semana; nutricionista; dieta enteral/oral; bomba infusora; concentrado de oxigênio; aspiração de VAS; nebulizador para medicação aero administrada; fraldas geriátricas, bem como todos os procedimentos e tratamentos que lhe sejam futuramente prescritos.
+O magistrado de primeiro grau deferiu o pedido de tutela antecipada e, contra essa decisão, a OPERADORA interpôs agravo de instrumento que foi improvido pelo Tribunal de Justiça de Minas Gerais em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - AÇÃO DE OBRIGAÇÃO DE FAZER - TUTELA ANTECIPADA - ATENDIMENTO HOME CARE - EXCLUSÃO DE COBERTURA CONTRATUAL - IRRELEVÂNCIA - NECESSIDADE DEMONSTRADA - FUMUS BONI IURES DEMONSTRADO.
+- Segundo a jurisprudência do Superior Tribunal de Justiça é abusiva a cláusula contratual que exclui tratamento domiciliar, nas hipóteses em que este se mostre essencial para garantir a saúde e, em alguns casos, a vida do segurado.
+-O fato de não existir cobertura contratual ou de que tal atendimento não se encontrar elencado no rol de procedimentos da Agência Nacional de saúde não é empecilho ao deferimento da medida, máxime quando evidenciada a necessidade do atendimento que, como afirmado anteriormente, foi expressamente indicado pelo seu médico assistente (e-STJ, fl. 599).
+Os embargos de declaração opostos pela OPERADORA foram rejeitados (e-STJ, fls. 632/638).
+Irresignada, a OPERADORA interpôs recurso especial com fundamento no art. 105, III,a, da CF, alegando ofensa aos arts. 300,§ 3º, do NCPC, poiso pedido formulado pelo JOÃO carece de ambos os requisitos autorizadores da concessão da tutela provisória de urgência na modalidade antecipada, quais sejam a existência da probabilidade do direito, somada ao perigo de dano ou risco ao resultado útil do processo.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ.
+Nas razões do presente agravo em recurso especial, a OPERADORA afirmou, em suma, que o óbice sumular é inaplicável ao caso.
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Na linha da jurisprudência desta eg. Corte Superior, em regra, não é cabível recurso especial com o objetivo de reexaminar acórdão que defere ou indefere medida liminar ou antecipação de tutela, em virtude da natureza precária do provimento jurisdicional concedido pela origem, e que está sujeito a modificação a qualquer tempo. Incidência, por analogia, da Súmula nº 735 do STF, verbis: não cabe recurso extraordinário contra acórdão que defere medida liminar.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ANTECIPAÇÃO DE TUTELA. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS Nº 7/STJ E Nº 735/STF.
+1. A jurisprudência do Superior Tribunal de Justiça entende que não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, haja vista a natureza precária da decisão, a teor do que dispõe a Súmula nº 735/STF.
+2. Rever as conclusões do tribunal recorrido demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça. 3. Agravo regimental não provido.
+(AgRg no AREsp 573.120/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado aos 3/2/2015, DJe de 9/2/2015).
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER.TUTELA ANTECIPADA. ATENDIMENTO HOME CARE. FUMUS BONI IURES DEMONSTRADO. RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE DEFERIU A LIMINAR. INCIDÊNCIA DA SÚMULA Nº 735 DO STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
