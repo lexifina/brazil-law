@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso especial, sem pedido liminar, impetrado em favor de FERNANDO RODRIGUES DE OLIVEIRA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado deMato Grosso do Sulno Agravo de Execução Penal n. 6003130-82.2020.8.12.0001.
+Depreende-se dos autos que o d. Juízo das execuções indeferiu o pleito defensivo de retificação do cálculo das penas do paciente (fls. 26-30).
+Irresignada, a Defesa interpôs o agravo em execução perante o eg. Tribunal de origem, que negou provimento ao recurso, nos termos do v. acórdão de fls. 62-66, assim definido por sua ementa:
+"AGRAVO EM EXECUÇÃO PENAL  PROGRESSÃO DE REGIME. FRAÇÃO A SER UTILIZADA. LEI N.º 13.964 DE 24 DE DEZEMBRO DE 2019. 3/5 OU 40% - RECURSO CONHECIDO E NÃO PROVIDO. COM O PARECER. Conforme pacificado no STJ, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). (STJ. AgRg no HC 494.404/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 07/05/2019, DJe 20/05/2019).
+O legislador estabeleceu, para fins de progressão de regime, percentuais diferentes para réu primário e reincidente, seja essa reincidência específica ou genérica, pois, sendo reincidente, denota-se maior reprovação e necessidade de prevenção e repressão do delito, não se podendo utilizar o mesmo percentual para quem não é reincidente."
+No presente writ, aduz a impetrante que o paciente está submetido a constrangimento ilegal, pois o v. acórdão impugnado estabeleceu a exigência do cumprimento de 3/5 ou de 60% para a progressão de regime em relação à pena cominada pelo tráfico de drogas, mesmo sem que houvesse reincidência específica em crime hediondo ou equiparado.
+Alega que deve ser observada a regra do art. 112, inciso V, da Lei de Execução Penal, segundo a qual a progressão de regime depende do cumprimento de apenas 2/5 ou 40% da reprimenda, haja vista a ausência de norma específica para o enquadramento do caso concreto, devendo prevalecer a regra mais benéfica ao apenado como consequência lógica do princípio do favor rei.
+Assevera que o apenado não pode ser considerado reincidente específico, já que sua condenação anterior foi por crime sem o caráter hediondo.
+Requer, liminarmente, a transferência do paciente para o regime menos rigoroso, mediante o cumprimento de 40% da reprimenda a que foi condenado pelo crime equiparado a hediondo, retificando-se o cálculo de liquidação de penas. No mérito, pugna pela concessão da ordem para que seja confirmada a medida liminar.
+Não foi formulada pretensão liminar.
+As informações foram prestadas às fls. 87-101 e103-106.
+O Ministério Público Federal, à fl. 110, manifestou-se pelo reconhecimento da perda de objeto do presente writ, em parecer não ementado.
+É o relatório.
+Decido.
+De acordo com as informações minuciosamente prestadas às fls. 95-101, o d. Juízo monocrático retificou o cálculo de penas do ora paciente, consoante r. decisão às fls. 96-100, verbis:
+"Eis a síntese.
+Inicialmente, destaco, que este Juízo adotava o posicionamento para manutenção da aplicação da porcentagem de 60% do cumprimento da pena para a progressão de regime, sendo irrelevante a reincidência em crime comum ou hediondo, como já previa a legislação anterior, a qual inclusive mencionava o mesmo lapso para a progressão de regime, contudo, em forma de fração (3/5).
+Ocorre que, diante das recentes decisões jurisprudenciais, especialmente, a pacificação da jurisprudência perante o Superior Tribunal de Justiça, bem como, o sistema de precedentes que deve ser observado pelo juiz no momento de sua tomada de decisão, nos termos do artigo 489, §1º, VI,do Código de Processo Civil, vejo a necessidade de mudar meu entendimento para interpretar de maneira restritiva a alteração trazida pela lei 13.964/19.
+Dessa forma, verifica-se que Lei n.º 13.964/2019 possui natureza mista, pois trata matéria penal e processual, e como se sabe a lei de conteúdo penal tem aplicação retroativa caso seja mais benéfica ao réu.
+ ..
+Destaca-se que foram fixadas porcentagens diferentes para cumprimento da pena, no entanto, não há qualquer menção legislativa a disciplinar a progressão de regime pela prática de delitos hediondos ou equiparados devido à condenação anterior por crime comum, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+In casu, o sentenciado foi condenado pelo delito de tráfico de drogas e reconhecida sua reincidência devido à condenação definitiva anterior pela prática de crime comum, qual seja, furto, conforme antecedentes acostados no seq. 1.2 - fl. 15-29.
+Assim, não há como aplicar de forma extensiva e prejudicial, ante a omissão legislativa, porcentagem mais gravosa, impondo-se o uso da analogia para aplicar o in bonam partem percentual de 40%, previsto no artigo 112, inciso V, da Lei de Execução Penal, incluída pela nova redação trazida pela Lei 13.964/19.
+ ..
+Portanto, o relatório da situação processual executória acostado no seq. 61.1 merece reparos, porque em se tratando de crime hediondo, se o apenado for reincidente em crime comum e se não ocorreu o resultado morte, tal como ocorre no caso vertente, deverá ser aplicada a porcentagem de 40%, prevista no artigo 112, inciso V, da Lei de Execução Penal, incluída pela nova redação trazida pela Lei 13.964/19.
+Ante o exposto, DEFIRO o pedido de retificação do relatório da situação processual no executória acostado seq. 61.1, para que seja aplicada a porcentagem de 40% para o cômputo do requisito objetivo para a progressão de regime em relação à pena oriunda da Ação Penal nº 0001809-79.2019.8.12.0024."(grifei)
+Dessarte, depreende-se dos excertos colacionados que o pleito aduzido pela il. Defesa na presente impetração restou devidamente acolhido na origem, configurando-se, portanto, na hipótese, a perda superveniente do objeto do presente writ.
+Ante o exposto, julgo prejudicado o presente habeas corpus, com fulcro no art. 34, XX, do RISTJ.
+P. I.
