@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo contradecisão que inadmitiu recurso especial interposto pelaMERCOFRICON S.A.,com fundamento na alínea "a" do permissivo constitucional, em razão de acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO (e-STJ fls. 277/280), cuja controvérsia, entre outros temas, gira em torno da incidência da contribuição previdenciária sobre o salário-maternidade.
+Passo a decidir.
+A questão referente à incidência da contribuição previdenciária sobre o salário-maternidade foi decidida pelo Supremo Tribunal Federal, no julgamento do RE 576.967, em repercussão geral (Tema 72), sendo fixada a seguinte tese: "É inconstitucional a incidência da contribuição previdenciária a cargo do empregador sobre o salário maternidade".
+Nesse contexto, reconheço que a existência de recurso extraordinário que trata do mérito da matéria acima identificada é prejudicial à análise do recurso especial de mesmo objeto, razão pela qual os autos deverão retornar ao Tribunal de origem para que lá seja realizado o juízo de conformação com o precedente obrigatório da Suprema Corte.
+Somente depois de tomada essa providência, que representa o exaurimento da instância ordinária, é que os autos poderão ser encaminhados para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO o sobrestamento do julgamento deste recurso até a realização do juízo de conformação pela Corte de origem com o precedente do STF, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essaprovidência seja efetivada.
+Publique-se. Intimem-se.
