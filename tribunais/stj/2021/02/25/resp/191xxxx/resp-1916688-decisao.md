@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por RENATA APARECIDA DE OLIVEIRA, mediante o qual se impugna acórdão, proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EMBARGOS À EXECUÇÃO FISCAL. Garantia -Inocorrência - Decisão concedendo prazo para apresentação de garantia, sob pena de extinção dos Embargos opostos - Possibilidade - Necessidade de garantia do Juízo, como condição de admissibilidade dos embargos - Precedentes do C. STJ e desta 18ª Câm. de Dir. Público - Decisão mantida - Recurso desprovido" (fl. 56e).
+No Recurso Especial, manejado com apoio nas alíneas a e c do permissivo constitucional, sustenta-se, em síntese, que:
+"No mérito, vê-se que de fato a Recorrente é pessoa hipossuficiente, o que se prova não só pela concessão dos benefícios da Gratuidade da Justiça, mas também pelo próprio fechamento da empresa que mesma possuía, que foi a bancarrota.
+Não obstante, provou-se que a Recorrente hoje percebe parco salário mensal (fls. 22/27, 30/46), não tendo condições de garantir o Juízo sobre pena de prejuízo ao seu próprio sustento e de sua família.
+Vê-se que a Recorrente, afirma não dever o valor que está sendo executado pelo Recorrido, em virtude de ter encerrado a atividade de sua empresa, não havendo fato gerador do tributo.
+Se não obtém o direito de provar sua tese independente da garantia do juízo, resta prejudicada a sua ampla defesa e o contraditório, o que não pode ser tolerado por este perspicaz Colegiado.
+Em suma, a Recorrente não tem condições de garantir o Juízo e comprovadamente não deve o tributo exigido, encontrando -se tolhido o seu acesso a Justiça caso a reconhecida mitigação da obrigatoriedade de tal garantia, não seja aplicada em seu caso" (fl. 70e).
+Requer-se, por fim:
+"(..) o conhecimento e provimento do presente recurso, reformando o Acórdão proferido pelo Egrégio Tribunal de Justiça nos termos do Agravo de Instrumento apresentado, com fundamento no dissídio jurisprudencial apontado e nítida evolução do entendimento, permitindo à Recorrente o prosseguimento do Embargos à Execução Fiscal, independente da garantia do Juízo, com base em sua comprovada hipossuficiência, como medida de lídima Justiça(fl. 71e).
+Sem contrarrazões.
+Recurso Especial admitido (fl. 74e).
+A irresignação não merece prosperar.
+Não houve indicação clara, no Recurso Especial, dos dispositivos que a ora recorrente entende terem sido violados pelo acórdão recorrido.
+Em casos que tais, a jurisprudência do STJ entende que o Especial não pode ser conhecido, dada a deficiência de fundamentação. Orientação que se aplica tanto à interposição do recurso base na violação de lei federal como na divergência jurisprudencial.
+À guisa de mero exemplo, confira-se a seguinte ementa:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO MILITAR. ALIENAÇÃO MENTAL. INVALIDEZ. REFORMA. POSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. O TRIBUNAL DE ORIGEM, COM BASE NO CONJUNTO PROBATÓRIO, DECIDIU PELA INEXISTÊNCIA DO DEVER DE INDENIZAR. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A via estreita do Recurso Especial exige demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como sua particularização, a fim de possibilitar seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF.
+2. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou pela inexistência do dever de indenizar, devido à ausência de nexo de causalidade entre a conduta da administração militar e o dano causado. Nesse sentido, transcrevo o seguinte trecho do acórdão: "Logo, somente é cabível o dever de indenizar quando comprovado o nexo de causalidade entre a conduta e o dano causado. No caso dos autos, não há que se falar em conduta ilícita por parte da Administração Militar, especialmente porque se trata de acidente em serviço e foi prestado socorro e atendimento médico à autora. É sabido que do risco inerente às atividades desenvolvidas durante a prestação do serviço militar, de caráter intenso e, na sua maioria, servem para testar os limites tanto físicos como psicológicos dos recrutas de modo a prepará-los para uma situação de extrema dificuldade de sobrevivência. Não há falar, portanto, em indenização por danos morais diante da ausência de ato ilícito da Administração Militar"(fl. 880, e-STJ). Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+3 Agravo Interno não provido" (STJ, AgInt no AREsp 1.664.525/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 14/12/2020).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheçodo Recurso Especial.
+Sem honorários recursais. Decisão interlocutória.
+I
