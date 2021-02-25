@@ -1,0 +1,1 @@
+Art. 2º As metas de política monetária serão estabelecidas pelo Conselho Monetário Nacional, competindo privativamente ao Banco Central do Brasil conduzir a política monetária necessária para cumprimento das metas estabelecidas.

@@ -1,0 +1,1 @@
+Art. 3º A Diretoria Colegiada do Banco Central do Brasil terá 9 (nove) membros, sendo um deles o seu Presidente, todos nomeados pelo Presidente da República entre brasileiros idôneos, de reputação ilibada e de notória capacidade em assuntos econômico-financeiros ou com comprovados conhecimentos que os qualifiquem para a função.

@@ -1,0 +1,1 @@
+Art. 11. O Presidente do Banco Central do Brasil deverá apresentar, no Senado Federal, em arguição pública, no primeiro e no segundo semestres de cada ano, relatório de inflação e relatório de estabilidade financeira, explicando as decisões tomadas no semestre anterior.
