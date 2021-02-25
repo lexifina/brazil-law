@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por DAVID BRITO MARCONDEScontra decisão que não admitiu recurso especial ofertado de acórdão do Tribunal de Justiça do Estado de São Paulo.
+Sustenta a defesa, nas razões do recurso especial, violação dos artigos 33 e 59Código Penal.
+Alega ausência de fundamentação idônea na imposição do regime inicial fechado fixado com fundamento na gravidade abstrata do delito, bem como desarmonia com o entendimento consubstanciado nos teores das Súmulas 440/STJ, 718 e 719 do STF.
+Aduz que estão presentes os requisitos para a fixação do regime inicialaberto, uma vez que a pena foi de 4 anos dereclusão, o recorrente é primário e as circunstâncias judiciais são favoráveis.
+Apresentadas as contrarrazões (e-STJ, fls. 371-379).
+O recurso foi inadmitido com fundamento nos óbices das Súmulas 7/STJ e 283/STF (e-STJ, fls. 382-383). Daí este agravo (e-STJ, fls. 389-399).
+O Ministério Público Federal opinou pelo desprovimentodo agravo (e-STJ, fls. 420-421).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+O Tribunal a quo fixou o regime fechado com a seguinte fundamentação:
+"Com efeito, a imposição do regime inicial fechado mostra-se adequada ao caso em tela, pois, na espécie, o embargante demonstrou maior periculosidade e ousadia ao abordar a vítima, com violência contra mulher, em plena Praça da República no centro de São Paulo, gerando, assim, um alto grau de reprovabilidade em sua conduta, não condizente com um regime inicial mais brando.
+Ademais, a quantidade de pena não é umlimitador da fixação do regime inicial de cumprimento da sanção penal, uma vez que legislação estabelece apenas um parâmetro a ser observado pelo Magistrado quando do proferimento da decisão. Por conseguinte, havendo motivação idônea, não circunscrita à mera consideração abstrata da figura típica, é perfeitamente possível o estabelecimento de regime diverso daquele correspondente à simples análise do quantum de apenação.
+Impende salientar, também, que a imposição da pena-base no mínimo legal cominado a espécie não é determinante quanto ao estabelecimento do regime inicial de cumprimento de pena. Isso porque os requisitos do artigo 59, do Código Penal, podem ser analisados em duas fases, num primeiro momento, para a fixação do montante da pena e, em segundo plano, para a fixação de regime. Na espécie, analisando a última parte do artigo em comento  "estabelecerá, conforme seja necessário e suficiente para reprovação e prevenção do crime"  tem-se que o regime inicial mais severo (fechado) é o único satisfatório em relação à gravidade objetiva do fato.
+Depois como bem motivado no v.acórdão, "Quanto ao regime para inicial cumprimento de pena, in casu, de rigor a fixação do fechado, como bem demonstrado nas razões recursais do Ministério Público.
+Isso porque o acusado foi condenado à pena de reclusão por roubo simples, delito grave que, dia após dia, atormenta a sociedade e revela a periculosidade de seus agentes, que demonstram desvio de personalidade, circunstâncias que, por si sós, conduzem à manutenção do regime mais gravoso.
+Não bastasse, a devida reprovabilidade para a atuação do acusado, concretamente aferida dos elementos dos autos, não permite o abrandamento do regime prisional. Veja-se que as circunstâncias do roubo cometido com violência à vítima mulher, demonstram a intensidade da violação aos bens jurídicos protegidos e evidenciam a necessidade da adequada resposta penal, até por colocar em risco a toda a população, evidenciando periculosidade concreta a justificar, ao menos de início, o regime mais gravoso, não havendo que se falar em ofensa às Súmulas nº 718 e 719 do Supremo Tribunal Federal"(fl. 281)." (e-STJ, fls. 342-344).
+Quanto à insurgência com a fixação do regime fechado, assiste razão ao recorrente.
+Conforme o teor da Súmula 440/STJ, "fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito"; e com a Súmula 719/STF, "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea".
+Desta forma, diante da favorabilidade de todas as circunstâncias judiciais, fixada a pena do recorrente no mínimo legal - 4 anos de reclusão - e considerando sua primariedade, por força do disposto no art. 33, § § 2º, "c", e 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime aberto.
+A seguir, parcialmente transcritas, ementas de acórdãos desta Corte que versam sobre essa matéria e respaldam a mesma solução:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO TENTADO. PLEITO MINISTERIAL. GRAVIDADE ABSTRATA DO CRIME. FUNDAMENTAÇÃO INIDÔNEA. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. INCIDÊNCIA DAS SÚMULAS 718 E 719/STF E DA SÚMULA 440/STJ.
+I - O regime inicial fechado foi determinado tão somente com base na gravidade em abstrato do tipo de roubo majorado tentado, não tendo sido apresentado qualquer fundamento especificamente referido no caso concreto para imposição de regime mais gravoso do que o originalmente cabível em razão do quantum de pena aplicada.
+II - In casu, os recorrentes são primários, a pena-base foi fixada no mínimo legal - foram consideradas como favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal - e, por fim, ausente motivação idônea para legitimar o agravamento do regime de cumprimento das penas. Assim, o regime aberto mostra-se mais adequado, nos termos do art. 33, § 2º, alínea c, do Código Penal.
+Agravo regimental desprovido."
+(AgRg no REsp 1711077/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/03/2018, DJe 21/03/2018).
+Com efeito, as circunstâncias do crime não desbordam das próprias ao crime de roubo simples, não se afigurando idôneos os fundamentos expendidos pelas instâncias ordinárias para fixar regime mais gravoso do que o previsto diante da quantidade da pena imposta.
+Portanto, inválidas as razões apresentadas no acórdão no que tange à fixação do regime.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo e dou provimento ao recurso especial para fixar o regime inicial aberto.
+Publique-se. Intimem-se.
