@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interno interposto por Maria Wilma Ferreira Valverde e Outros, contra decisão que negou provimento ao agravo em recurso especial, sob os fundamentos de ausência de prequestionamento e inexistência de violação ao art. 1.022, II, do CPC/2015.
+Inconformada, a parte agravante, em suas razões, sustenta que "somente por ocasião do julgamento do agravo de instrumento é que a Corte Regional, de ofício e sem oitiva das partes, suscitou, como razão para dar por prejudicado o recurso, o decreto de extinção do feito, exarado em outro agravo de instrumento (de nº 0011575-17.2017.4.02.0000), no entanto ainda não transitado em julgado; tanto que o acórdão nele proferido foi impugnado pelo REsp nº 1869378/RJ, distribuído à relatoria de V. Exa. e ainda pendente de julgamento. (..) Prolatado o acórdão com a declaração de perda de objeto do recurso - de ofício e sem possibilidade de intervenção dos recorrentes - os embargos de declaração constituíam a única via possível para suscitar omissão quanto à aplicação do art. 313, V, "a" do CPC, com o devido prequestionamento da matéria." (fls. 880/882)
+Reafirma, ainda, a ocorrência de negativa de prestação jurisdicional pelo Tribunal de Origem, em razão da ausência de análiseda aplicação ao caso doart. 313, V, a,do CPC/2015.
+As razões do recurso não foram impugnadas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC/2015 e 259 do RISTJ, reconsidero a decisão agravada (fls. 865/869), tornando-a sem efeito.
+Passo a nova análise do agravo em recurso especial.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/2015, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que não houve emissão de juízo de valor acerca datesedo apelo nobre que sustentaa violação ao art. 313, V, a, do CPC/2015.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, limitando-se a manter os fundamentos do acórdão e rejeitando os pertinentes aclaratórios dos recorrentes, em franca violação ao art. 1.022 do CPC/2015, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, conheço do agravo e dou provimento ao recurso especial, para anular o aresto proferido em embargos de declaração. Retornem os autos à Corte de origem, para que esta possa, por meio de seu órgão colegiado, proferir novo acórdão, sanando a omissão apontada nesta decisão.
+Publique-se.
