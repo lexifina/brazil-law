@@ -1,0 +1,50 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por CLARICE GONZALEZ CASQUET MONTEIRO contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 327):
+PRESTAÇÃO DE SERVIÇO - Pintura - Vistoria prévia - Prestadora de serviço com expertise para a estimativa de materiais, mão-de-obra e precificação - Boa-fé que exige responsabilidade da prestadora de serviço pelo número de demãos necessários à prestação do serviço de forma satisfatória - Sem comprovação de que os serviços prestados sejam diversos daqueles especificados em contrato - Ausente contraprestação diversa da pactuada - Dano moral não caracterizado - Furto de equipamentos - Responsabilidade contratual da contratante pela guarda - Fortuito interno - Bens móveis cuja propriedade se transfere pela tradição - Posse da contratada não negada - Sem alegação de propriedade pela própria contratante - Ressarcimento devido - Extensão do prejuízo que foi meramente atualizada, sem excesso - Danos morais não caracterizados - Simples descumprimento contratual que não gera reparação - Reconvenção - Pedido que deve ser interpretado considerado o conjunto da postulação e o princípio da boa-fé - Pedido de condenação deduzido em reconvenção - Sentença mantida.Apelações não providas.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 338-341).
+Nas razões de seu recurso especial, a parte recorrente sustenta cerceamento de defesa com vulneração aos arts. 442, 443, I, do CPC, por entender que (e-STJ fl. 347):
+"..é sempre admissível a prova testemunhal, sendo certo que, o prejuízo causado a Recorrente foi a ausência do Sr. Vladimir F. da Cunha, engenheiro contratado pela Recorrida; Sr. José Renato Moreira Leite, pintor da Recorrente; Sr. Anderson Batista da Silva, pintor da Recorrentes, os quais poderão comprovar que inexistiu má - prestação de serviço, sendo certo que a 3º e 4º demão foram necessárias em razão da textura aplicada pela construtora, o que não guarda qualquer identidade com os serviços prestados pela Recorrente".
+Sustenta que a prova testemunhal poderia comprovar também a existência de serviços extracontratuais. Assevera, ainda, que o acórdão vulnerou: 1) os arts. 389, 390, § 2º, do CPC, quando reconheceu irrelevante para a ação de cobrança a confissão da recorrida feita na Justiça do Trabalho; 2) o art. 619, parágrafo único, do CC, ao manter a improcedência dos serviços extracontratuais realizados pela recorrente, enriquecendo sem causa a recorrida; e 3) os arts. 884 do CC e 485, I, do CPC, pois a recorrida pagou as custas iniciais após esgotado o prazo.
+Foram apresentadas contrarrazões (e-STJ fls. 414-427).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 428-430), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+A irresignação não merece prosperar.
+No que concerne ao cerceamento de defesa, anote-se que o ordenamento jurídico brasileiro adota o princípio da persuasão racional e do livre convencimento motivado do juiz, consigna caber ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, conferindo, fundamentadamente, a cada um desses elementos a sua devida valoração.
+Na presente hipótese, o Tribunal de origem, baseados nos referidos princípios, concluiu que (e-STJ fl. 329):
+Não há que se falar em cerceamento de defesa.
+A correção da prestação do serviço não pode ser aferida por meio de prova testemunhal, ainda que a oitiva de pessoa responsável pela sindicância à época.
+Evidentemente que o vício na prestação do serviço apenas poderia ser demonstrado por documento a extensão do detalhamento do serviço pelo próprio instrumento do contrato ou por perícia.
+Portanto, justificado o julgamento do processo no estado em que se encontrava, com indeferimento da prova (artigo 443, inciso II, do Código de Processo Civil), sem implicar em cerceamento de defesa.
+Deste modo, para aferir as alegações do recorrente e afastar as premissas firmadas pelo Tribunal de origem, seria necessário o revolvimento do conteúdo-fático probatório dos autos, procedimento vedado na via especial, nos termos da Súmula nº 7 desta Corte Superior.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO PAULIANA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE.INDEFERIMENTO DE PRODUÇÃO DE PROVA TESTEMUNHAL. POSSIBILIDADE.PRELIMINAR AFASTADA PELO TRIBUNAL DE ORIGEM. ALIENAÇÃO DO IMÓVEL DESCRITO NA PETIÇÃO INICIAL. EVIDENCIADA A INEXISTÊNCIA DE CONLUIO ENTRE OS DEVEDORES E OS TERCEIROS ADQUIRENTES. ANTERIORIDADE DO CRÉDITO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE DE MITIGAÇÃO DESSE PRESSUPOSTO, NA HIPÓTESE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS RECURSAIS EM AGRAVO INTERNO. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. A modificação da conclusão delineada no acórdão recorrido - acerca da não ocorrência de cerceamento de defesa - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, atraindo, assim, o óbice disposto na Súmula 7/STJ, não sendo o caso de revaloração probatória.
+ ..
+5. Agravo interno desprovido.
+(AgInt no AgInt no AREsp 1009655/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/06/2020, DJe 22/06/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. MEDIDA CAUTELAR DE PRODUÇÃO ANTECIPADA DE PROVAS. DEFEITO EM VEÍCULO ADQUIRIDO. ARTS. 7º, 369, 373, II, § 1º, 477, § 3º, 480, TODOS DO NCPC E ART. 6º DO CDC. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. INDEFERIMENTO DE PROVA PERICIAL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. REFORMA DO ENTENDIMENTO. REEXAME DOS FATOS DA CAUSA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+ ..
+3. Esta Corte possui o entendimento de que o magistrado tem ampla liberdade para analisar a conveniência e a necessidade da produção de provas, podendo perfeitamente indeferir provas periciais, documentais, testemunhais e/ou proceder ao julgamento antecipado da lide, se considerar que há elementos nos autos suficientes para a formação da sua convicção em relação às questões de fato ou de direito vertidas no processo, sem que isso implique cerceamento do direito de defesa. Precedentes.
+ ..
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1348282/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/04/2019, DJe 22/04/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROVA TESTEMUNHAL. INDEFERIMENTO. EMBARGOS DE TERCEIRO. POSSE. PROVA. AUSÊNCIA. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+ ..
+2. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de prova testemunhal considerada dispensável pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1157049/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2018, DJe 15/06/2018)
+Quanto à alegada ofensa aos arts. 389, 390, § 2º, do CPC; 619, parágrafo único, do CC; e 884 do CC e 485, I, do CPC, exsurge deficiente a fundamentação recursal, pois o recorrente limita-se a citar os dispositivos supostamente violados e a tecer considerações genéricas, deixando de informar, de forma clara e objetiva, de que modo a legislação federal teria sido violada ou negada sua aplicação no acórdão recorrido.
+Veja-se que a recorrente não apresenta argumentos aptos a sustentar a alegada violação aos referidos dispositivos, sendo certo que a Corte Estadual pode considerar irrelevante determinados fatos ou negar procedência a recurso sem que isso necessariamente viole dispositivos de lei federal.
+Assim, o recurso não merece ser conhecido, ante a incidência da Súmula 284/STF.
+Ademais, não se verifica presente o prequestionamento da matéria relativa aos arts. 389, 390, § 2º, 485, I, do CPC; 619, parágrafo único, e 884 do CC, porquanto não apreciada, de forma específica, pelo julgado recorrido, revelando inclusive razões dissociadas do acórdão, sendo inviável o seu conhecimento nesta sede, nos termos das Súmulas 282 e 356/STF.
+Destarte, inviável a pretensão da recorrente.
+Por fim, impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada. Com base em tais premissas, a título de honorários recursais, sendo fixada inicialmente verba honorária em 10% do valor da condenação (e-STJ fl. 238), majorados pela Corte Estadual para 12% (e-STJ fl. 333) a nova majoração dos honorários para 14% é medida adequada à hipótese. Ônus suspensos, entretanto, na hipótese de assistência judiciária, nos termos do art. 98, § 3º, do CPC/2015.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015.
+Ante o exposto, conheço o agravo para, desde logo, não conhecer o recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUALCIVIL (CPC/2015). AÇÃO DE COBRANÇA COM PEDIDO DE DANOS MORAIS.CONTRATO DE PRESTAÇÃO DE SERVIÇOS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. DEFICIÊNCIA RECURSAL. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
