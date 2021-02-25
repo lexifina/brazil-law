@@ -1,0 +1,16 @@
+DECISÃO
+Pelo exame dos autos, o presentewritnão deve ser conhecido.
+Isso porque a impetrante não se desincumbiu do ônus de instruir suficientemente ohabeas corpuscom as cópias necessárias para a verificação da verossimilhança das alegações. No caso, os documentos apresentados não estão relacionados com o paciente indicado na inicial.
+Como sabido, ohabeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, cabendo o ônus da instrução ao impetrante, em especial, quando se tratar de advogado.
+Nesse sentido:
+AGRAVO REGIMENTAL.HABEAS CORPUS. PROGRESSÃO DE REGIME. ESTABELECIMENTO INADEQUADO. FALTA DE VAGA. AUTOS DEFICIENTEMENTE INSTRUÍDOS. ÔNUS DA DEFESA. DECISÃO QUE NEGOU SEGUIMENTO AOMANDAMUS. ILEGALIDADE INEXISTENTE.
+1.Ohabeas corpusse presta a sanar ilegalidade ou abuso de poder que resulte em evidente coação ou ameaça à liberdade de locomoção. Para o enfrentamento de teses jurídicas na via restrita, imprescindível que haja ilegalidade manifesta, relativa a matéria de direito, cuja constatação seja evidente e independa de qualquer análise probatória. Como consequência, deve haver prova pré-constituída da ilegalidade apontada.
+ ..
+3. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 196.824/SC, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 28/11/2011 - grifo nosso)
+E ainda: HC n. 155.877/PB, Ministra Laurita Vaz, Quinta Turma, DJe 2/2/2012; HC n. 211.459/PB, Ministro Jorge Mussi, Quinta Turma, DJe 19/12/2011; e HC n. 187.273/PE, da minha relatoria, Sexta Turma, DJe 1º/2/2012.
+Ante o exposto,não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS.INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DACONTROVÉRSIA. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA.ÔNUS QUE COMPETE AO IMPETRANTE.
+Habeas corpus não conhecido.
