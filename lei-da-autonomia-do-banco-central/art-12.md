@@ -1,0 +1,1 @@
+Art. 12. O currículo dos indicados para ocupar o cargo de Presidente ou de Diretor do Banco Central do Brasil deverá ser disponibilizado para consulta pública e anexado no ato administrativo da referida indicação.
