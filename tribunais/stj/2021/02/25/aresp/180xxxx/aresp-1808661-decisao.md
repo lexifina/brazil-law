@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo CONDOMINIO DO EDIFICIO JABUR contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" e alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE PRESCRIÇÃO CUMULADA COM INEXIGIBILIDADE DE DÉBITO. FATURAS DE CONSUMO DE ÁGUA. NATUREZA DE TARIFA OU PREÇO PÚBLICO. PRAZO PRESCRICIONAL DECENAL. INTELIGÊNCIA DO ARTIGO 205 DO CÓDIGO CIVIL. ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INÍCIO DA CONTAGEM DO PRAZO NO MOMENTO DO TRÂNSITO EM JULGADO DA AÇÃO ORDINÁRIA NA QUAL FOI ANALISADA A LEGALIDADE DAS FATURAS EMITIDAS EM FACE DOS CONDOMÍNIOS ASSOCIADOS AO SECOVI/PR, DENTRE ELES O AUTOR. AUSÊNCIA DE CURSO DO PRAZO PRESCRICIONAL DURANTE O PERÍODO DE DISCUSSÃO QUANTO À POSSIBILIDADE DE LEVANTAMENTO, PELA SANEPAR, DO VALOR DAS FATURAS DEPOSITADO CAUTELARMENTE PELA PARTE AUTORA.
+IMPOSSIBILIDADE DE RECONHECIMENTO DA INÉRCIA DA EMPRESA CONCESSIONÁRIA NO MENCIONADO PERÍODO.
+PRESCRIÇÃO NÃO CONFIGURADA.
+RECURSO DE APELAÇÃO DESPROVIDO (fl. 456).
+A parte recorrente, pelas alíneas "a" e "c" do permissivo constitucional, alega violação do art. 202 do CPC, bem como divergência jurisprudencial, no que concerne ao não enquadramento no rol taxativo para interrupção da prescrição e à impossibilidade de interrupção por duas vezes, trazendo os seguintes argumentos:
+Outrossim, não há, neste artigo, possibilidade de enquadramento de que o "simples pedido de levantamento" efetuado em ação que o DEVEDOR não faz parte, acarreta na interrupção da prescrição, conforme entendido na sentença e no acórdão, ora recorrido, como vejamos:
+ ..
+Destarte, é notório que o fato atribuído à interrupção da prescrição não se coaduna com nenhum dos incisos previsto no art. 202, devendo esta ser afastada e declarada a prescrição.
+ ..
+De qualquer forma, ainda que houvesse o enquadramento em algum dos incisos mencionados no item anterior, deve-se considerar que o caput deste aludido dispositivo legal, é categórico ao dizer "que somente poderá ocorrer uma vez".
+O que até agora é indiscutível por todas as partes é que a ação 352.76.1992 e a cautelar 447/92, ambas promovidas pelo SECOVI para discussão dos débitos, INTERROMPERAM O PRAZO de prescrição desta cobrança, de 1992 até 2000.
+Assim sendo, seguindo a regra do caput deste artigo, já houve a interrupção uma vez, ainda que por ação proposta pelo representante ilegitimado do DEVEDOR. Portanto, ainda que por outra razão, ainda que enquadrasse novamente em alguns dos incisos deste artigo, o que não é o caso, não seria possível a decretação de nova interrupção, conforme assevera a sentença e o acórdão recorrido (fls. 527-528).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, verifica-se que os dispositivos legais sobre os quais teria havido o dissídio jurisprudencial não foram examinados pela Corte de origem, sob o enfoque pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da norma objeto da divergência jurisprudencial, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "O óbice da ausência de prequestionamento impede a análise do dissenso jurisprudencial, porquanto inviável a comprovação da similitude das circunstâncias fáticas e do direito aplicado". (AgInt no AREsp 1.639.095/RJ, relator Marco Aurélio Bellizze, Terceira Turma, DJe de 19/5/2020.)
+Sobre o tema, confiram-se os seguintes precedentes: AgInt no REsp 1.862.546/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp 1.486.884/RS, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 19/2/2020; e EDcl no REsp 1.274.569/MG, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
