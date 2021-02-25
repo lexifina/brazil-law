@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA APARECIDA STRINI DE BARROS e OUTROS contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO ORDINÁRIA CUMPRIMENTO DE SENTENÇA IMPUGNAÇÃO REJEITADA FIXAÇÃO DE VERBA HONORÁRIA INSURGÊNCIA CABÍVEL PRECEDENTES DO E SUPERIOR TRIBUNAL DE JUSTIÇA RECURSO A QUE SE NEGA SEGUIMENTO.
+Alega violação do art. 85, §§ 1º, 3º e 7º, do CPC, no que concerne ao cabimento de honorários sucumbenciais nos casos de rejeição à impugnação ao cumprimento de sentença contra a fazenda pública, pois a regra da Súmula n. 519 do STJ teria cabimento apenas nas execuções contra particulares, trazendo o(s) seguinte(s) argumento(s):
+Como se nota pela análise do v. acórdão recorrido, deixou de ser fixada a verba honorária, ignorando o comando contido no artigo 85, § 3º, do CPC/2015, que assevera a fixação em porcentagem sobre o valor do proveito econômico obtido, nas ações em que a Fazenda Pública figurar como parte.
+De acordo com o decisum ora recorrido, nos casos de rejeição à impugnação ao cumprimento de sentença é inviável o arbitramento de honorários advocatícios, em virtude do disposto na súmula acima mencionada.
+No entanto, ressalta-se que a regra da Súmula nº 519 do C. STJ, aplica-se apenas às execuções em face do "devedor particular". Excelências, analisando-se os precedentes que deram azo à edição de tal Súmula, bem como a sistemática do Código de Processo Civil, fica claro que tal regra sumular não se aplica ao caso em tela.
+Isto porque, nas execuções em face do devedor particular, somente será apresentada a impugnação após o decurso de prazo para pagamento voluntário, incorrendo este ("devedor particular") no pagamento de novos honorários tão somente pelo não pagamento voluntário. (fls. 268).
+Esta é a conclusão que se chega ao analisar o artigo 523, § 1º, e artigo 525, ambos do Código de Processo Civil, que, como cediço, não se aplicam às execuções em face da Fazenda Pública.
+Assim, em suma, intimado o "devedor particular" a adimplir a obrigação no prazo de 15 (quinze) dias e não o fazendo, incorrerá em multa de dez por cento, bem como no pagamento de novos honorários, também em dez por cento.
+Portanto, inequivocamente, considerando-se que a Fazenda Pública figura como parte na presente demanda, e diante da possibilidade de se mensurar desde logo, o valor do proveito econômico obtido, não restam dúvidas de que os honorários deveriam ter sido fixados conforme a regra prevista no artigo 85, § 3º, do CPC:  ..  (fl. 269).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
