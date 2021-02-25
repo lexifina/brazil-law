@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por RUBENS BRAULINO LOPES, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: monitória, ajuizada pelo BANCO DO BRASIL S.A., em face doagravante.
+Decisão de admissibilidade: inadmitiu o recurso especial, com fundamento na i) inadmissibilidade do recurso especial fundado em violação de dispositivo constitucional; e ii) incidência dos óbices das Súmulas 5, 7 e 83, todas do STJ, e 282 e 283, ambas do STF. Ademais, negou seguimento ao recurso especial, no que se refere à capitalização dos juros, nos termos do art. 1.030, I, "b", do CPC.
+Agravo em recurso especial: reprisa a mesma argumentação trazida nas razões do recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+Inicialmente, no que se refere à aplicação do entendimento consolidado com o julgamento do REsp 1.333.977/MT(Tema 654), ressalte-se que, após o advento doCPC/15, passou a existir expressa previsão legal no sentido do cabimento de agravo interno contra decisão que nega seguimento ao recurso especial em virtude de tese firmada sob o rito dos recursos repetitivos (art. 1.030, I, "b", e § 2º).
+Portanto, a interposição de agravo em recurso especial, nesta hipótese, constitui erro grosseiro, em razão da inexistência de dúvida objetiva, o que impede a aplicação do princípio da fungibilidade recursal. Nesse sentido: AgInt no TP 529/PE, 3ª Turma, DJe de 23/10/2017; AgInt nos EDcl no AREsp 1.093907/MT, 3ª Turma, DJe de 24/10/2017; AgInt no AREsp 973.427/MG, 4ª Turma, DJe de 13/10/2017; e AgInt no AREsp 967.166/RN, 1ª Turma, DJe de 11/10/2017.
+De outro turno, constata-se, da análise da petição do presente recurso, que o agravante se limitou a reprisar a mesma argumentação trazida nas razões do recurso especial, mas não demonstrou, de maneira consistente e específica, a inaplicabilidade de cada um dos óbices invocados na decisão agravada.
+Ressalte-se que a impugnação da Súmula 83/STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, com a realização de cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+O agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro em 10% o valor dos honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
