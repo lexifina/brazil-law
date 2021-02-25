@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu o seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+CÍVEL AGRAVO DE INSTRUMENTO AÇÃO DE CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO EM FASE DE CUMPRIMENTO DE SENTENÇA INSURGÊNCIA CONTRA A DECISÃO QUE ACOLHEU O CÁLCULO REALIZADO PELA CONTADORIA JUDICIAL CONCESSÃO JUDICIAL DE BENEFÍCIO PREVIDENCIÁRIO QUE TEM COMO CONSEQUÊNCIA LÓGICA O CÁLCULO DA RMI DO BENEFÍCIO O QUE NÃO SE CONFUNDE COM REVISÃO DA RMI CÁLCULO DA CONTADORIA JUDICIAL ESCORREITO DECISÃO SINGULAR CONFIRMADA RECURSO NÃO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 502, 503 e 504, I e II, do CPC, no que concerne à indevida ampliação dos limites da coisa julgada, trazendo o(s) seguinte(s) argumento(s):
+O dispositivo do acórdão proferido no processo de conhecimento apenas determinou a condenação do INSS ao pagamento do benefício, após considerar preenchido o requisito da qualidade de segurado.
+ ..
+O seguinte excerto demonstra, de forma inequívoca, que não há espaço para a ampliação dos limites objetivos da coisa julgada, senão vejamos (fl. 198).
+ ..
+Como vimos de ver, Senhores Ministros, o dispositivo do acórdão em nenhum momento determina a inclusão (revisão da RMI) dos valores percebidos em reclamatória trabalhista no cálculo dos salários de contribuição do recorrido.
+E mais, não há se falar, como fez o Colegiado do Tribunal de Justiça do Paraná ao decidir o agravo de instrumento e os embargos declarátórios, em "decorrência lógica" da condenação a justificar a inovação. Não se trata de consequência prevista em lei, devendo constar no dispositivo do título transitado em julgado, sendo insuficiente a mera remissão à fundamentação, que não transita em julgado.
+Não há título judicial a justificar a decisão proferida em execução, ratificada pelo Tribunal de Justiça do Estado do Paraná nos acórdãos do agravo de instrumento e subsequente declaratórios (fl.200).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Vale dizer, em nenhum momento houve revisão da RMI, como quer fazer parecer a autarquia previdenciária, mas apenas cálculo da RMI para concessão do benefício, previsão que, inclusive, constou no Acórdão e foi referida pelo próprio INSS em suas razões de agravo, o que afasta a alegação de ofensa à coisa julgada:
+"A respeito do cálculo da renda mensal inicial (RMI) do benefício de auxílio-doença e consequência posterior, embora pedido pelo autor a observância dos critérios e valores que apontou com a exordial, é providência que não pode aqui ser definida, devendo ser resolvida em sede de liquidação do julgado, ainda que por mero cálculo" (fl. 181).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
