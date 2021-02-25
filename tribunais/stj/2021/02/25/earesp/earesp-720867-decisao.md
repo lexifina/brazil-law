@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por DALMO SAURO MANSUR DE FIGUEIREDO contra acórdão proferido pela Segunda Turma, assim ementado (fl. 288):
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. RESPONSABILIDADE PELO PAGAMENTO DO IPTU DE BEM IMÓVEL ARREMATADO EM HASTA PÚBLICA. EXPRESSA PREVISÃO DE RESPONSABILIDADE DO ARREMATANTE, PREVISTA NO EDITAL DA HASTA PÚBLICA. MITIGAÇÃO DO ART. 130, PARÁGRAFO ÚNICO, DO CTN. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Na esteira do entendimento do Superior Tribunal de Justiça, "havendo expressa menção no edital de hasta pública nesse sentido, a responsabilidade pelo adimplemento dos débitos tributários que recaiam sobre o bem imóvel é do arrematante" (STJ, AgRg no AREsp 248.454/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, DJe de 12/09/2013). No mesmo sentido: STJ, AgRg no REsp 1.168.950/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 30/09/2014; REsp 1.114.111/RJ, Rel. Ministro MASSAMI UYEDA, TERCEIRA TURMA, DJe de 04/12/2009.
+II. No caso dos autos, tendo a Corte de origem consignado que o edital de hasta pública previa, expressamente, que os créditos tributários relativos ao IPTU seriam transferidos ao arrematante do bem imóvel, não há como se afastar a sua responsabilidade pelo adimplemento do referido débito tributário.
+III. Agravo Regimental improvido.
+O embargante alega que o acórdão embargado diverge do entendimento da 1ª Turma do Superior Tribunal de Justiça firmado no julgamento do AgRg no AREsp 718.813/SP, cuja ementa tem a seguinte redação:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IPTU. RESPONSABILIDADE TRIBUTÁRIA. ARREMATAÇÃO DE IMÓVEL EM HASTA PÚBLICA. SUB-ROGAÇÃO NO PREÇO. ART. 130, PARÁGRAFO ÚNICO, DO CTN.
+1. Por força do parágrafo único do art. 130 do CTN, "no caso de arrematação em hasta pública, a sub-rogação ocorre sobre o respectivo preço". A respeito: AgRg no AREsp 605.272/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 15/12/2014; AgRg no AREsp 510.139/PR, Rel. Ministro Humberto Martins, Segunda Turma, DJe 12/06/2014; AgRg no AREsp 132.083/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 05/09/2012.
+2. São diversas as hipóteses estabelecidas no caput e no parágrafo único do art. 130 do CTN; consignado que a aquisição se deu força de arrematação, não se pode entender aplicável a norma do caput do mencionado dispositivo. Aplicação da orientação contida na Súmula n. 284 do STF.
+3. Agravo regimental não provido.
+Afirma a existência de dissídio jurisprudencial, para situações fáticas e jurídicas absolutamente semelhante, acerca da transferência da responsabilidade tributária ao arrematante, relativamente a créditos tributários de IPTU, quando há menção expressa no edital da hasta pública.
+Requer, desse modo, o provimento dos presentes embargos de divergência para reformar o acórdão recorrido, "de sorte a vingar a tese desenvolvida pelo Embargante, e estampada no acórdão paradigma, qual seja, a de que INDEPENDENTEMENTE de constar no Edital, o ônus tributário anterior a arrematação em hasta pública NÃO PODE SER REPASSADO AO ARREMATANTE" (fl. 328).
+É o relatório. Decido.
+O presente recurso não merece admissão.
+Os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano nos moldes estabelecidos no art. 266, § 4º, do RISTJ.
+A jurisprudência do Suerior Tribunal de Justiça, na linha do que decidido no acórdão embargado de divergência,admite o afastamento do art. 130, parágráfoúnico do CTN, se o respectivo edital de leilão expressamente indicar a existência de débitos de IPTU e atribuir ao arrematante a responsabilidade pelo seu pagamento
+Confiram-se:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. IMÓVEL ARREMATADO EM HASTA PÚBLICA. DÉBITOS TRIBUTÁRIOS.SUB-ROGAÇÃO SOBRE O PREÇO. ART. 130, PARÁGRAFO ÚNICO DO CTN. AGRAVO INTERNO DO MUNICÍPIO DO RIO DE JANEIRO A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do STJ admite o afastamento do art. 130, parág.único do CTN, se o respectivo edital de leilão expressamente indicar a existência de débitos de IPTU e atribuir ao arrematante a responsabilidade pelo seu pagamento (REsp. 1.685.627/SP, Rel. Min. HERMAN BENJAMIN, DJe 10.10.2017). No mesmo sentido: REsp.1.316.970/RJ, Rel. Min. NANCY ANDRIGHI, DJe 7.6.2013 e REsp.
+716.438/PR, Rel. Min. TEORI ALBINO ZAVASCKI, DJe 17.12.2008.
+2. Hipótese em que o Tribunal de origem, com base no conjunto fático-probatório dos autos, assentou que o edital do leilão (fls. 20) não informa a existência de débitos tributários pendentes sobre o bem arrecadado (fls. 141). Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+3. Agravo Interno do MUNICÍPIO DO RIO DE JANEIRO a que se nega provimento" (STJ, AgInt no AREsp 132.866/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe de 30/05/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPTU. ARREMATAÇÃO DE IMÓVEL.AFASTAMENTO DA REGRA DO ART. 130, PARÁGRAFO ÚNICO, DO CTN SE HOUVER EXPRESSA ATRIBUIÇÃO DE RESPONSABILIDADE DO ARREMATANTE, NO EDITAL DE LEILÃO. REVISÃO DAS PREMISSAS FIXADAS NO ACÓRDÃO HOSTILIZADO.SÚMULA 7/STJ.
+1. Em regra, na hipótese de arrematação de imóvel em hasta pública, os débitos de IPTU ficam sub-rogados no preço, liberando-se o arrematante.
+2. A jurisprudência do STJ admite o afastamento do art. 130, parágrafo único, do CTN, se o respectivo edital de leilão expressamente indicar a existência de débitos de IPTU e atribuir ao arrematante a responsabilidade pelo seu pagamento. Nesse sentido:
+REsp 1.316.970/RJ, Rel. Ministra Nancy Andrighi, DJe 7/6/2013 e REsp 799.666/RJ, Rel. Ministro Jorge Mussi, DJe 14/9/2009.
+3. Na hipótese dos autos, afirma o recorrente que a previsão quanto à responsabilidade do arrematante "constou expressamente do edital de praça publicado em 03 de março de 2010, no Diário Oficial Eletrônico do Tribunal de Justiça do Trabalho da 2ª Região", mas isso contrasta frontalmente com a premissa fixada no acórdão hostilizado, segundo o qual não há "nenhuma disposição no tocante à responsabilização tributária do arrematante pelos débitos até então devidos" (fl. 227, e-STJ).
+4. Dessa forma, para afastar o entendimento adotado no acórdão hostilizado, seria necessário incursão no acervo fático-probatório dos autos, o que atrai, no caso, a incidência da Súmula 7/STJ.
+5. Recurso Especial não conhecido" (STJ, REsp 1.685.627/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 10/10/2017)
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.RESPONSABILIDADE DO ARREMATANTE. DÉBITO TRIBUTÁRIO. PREVISÃO EXPRESSA NO EDITAL. AGRAVO NÃO PROVIDO.
+1. Havendo expressa menção no edital de hasta pública nesse sentido, a responsabilidade pelo adimplemento dos débitos tributários que recaiam sobre o bem imóvel é do arrematante. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no AREsp 248.454/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 05/09/2013, DJe 12/09/2013)
+Inexistente a necessária divergência de entendimentos entre os Órgãos Fracionários da Primeira Seção desta Corte Superior, tendo a jurisprudência da Corte se firmado no mesmo sentido do acórdão embargado, devem ser rejeitados os presentes embargos de divergência, ateor da Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado."
+Ante o exposto, indefiro liminarmente os embargos de divergência (art. 266-C do RI-STJ).
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA.
+IPTU. BEM IMÓVEL ARREMATADO EM HASTA PÚBLICA.RESPONSABILIDADE DO ARREMATANTE PELOS DÉBITOS TRIBUTÁRIOS. PREVISÃO NO EDITAL DA HASTA PÚBLICA.ACÓRDÃO EMBARGADO EM SINTONIA COM AJURISPRUDÊNCIA DAS TURMAS DE DIREITO PÚBLICO. SÚMULA 168/STJ.RECURSO INDEFERIDO LIMINARMENTE.
