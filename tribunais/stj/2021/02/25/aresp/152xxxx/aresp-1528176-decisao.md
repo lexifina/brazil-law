@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo manejado por Sul América Companhia nacional de Seguroscontra decisão que não admitiu recurso especial, com base nos seguintes fundamentos: (I) ausência de prequestionamento da tese amparada na alegada violação ao art. 458 do CC, nos termos da Súmula 211/STJ; (II) não foiindicado,de forma clara e precisa, qualquer dispositivo do CDC que teria sido ofendido pelo acórdão recorrido, o que atrai a incidência da Súmula 284/STF; e (III) incabível o reexame de matéria fática no âmbito do recurso especial, conforme o disposto na Súmula 7/STJ.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, o fundamento de que não foi indicado, de forma clara e precisa, qualquer dispositivo do CDC que teria sido ofendido pelo acórdão recorrido, o que atrai a incidência da Súmula 284/STF.
+A propósito, observa-se que a parte agravante, ao atacar a incidência da Súmula 284/STF, argumentou se limitou a transcrever trecho do agravo em recurso especial, no qual se lê: "DA VIOLAÇÃO AO ART. 458 DO CÓDIGO CIVIL VIGENTE E DA LEI Nº8.078/1990" (fl. 1.229).
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luís Felipe Salomão, DJe de 30.11.2018.
+Diante do exposto, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
