@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. EXECUÇÃO. NULIDADE. INOCORRÊNCIA. INAPLICABILIDADE LEI 11.960/2009. CORREÇÃO MONETÁRIA. COISA JULGADA.
+1 - Alegação de nulidade afastada. Concordância do INSS com cálculos da contadoria, elaborados em conformidade com a coisa julgada.
+2 - Correção monetária "na forma da legislação de regência, observando-se que a partir de 11.08.2006 o IGP-DI deixa de ser utilizado como índice de atualização dos débitos previdenciários, devendo ser adotado, da retro aludida data (11.08.2006) em diante, o INPC em vez do IGP-DJ, nos termos do art. 31 da Lei nº10.741/2003 c.c o art. 41-A da Lei nº8.213/9/, com a redação que lhe foi dada pela Medida Provisória nº 316, de 11 de agosto de 2006, posteriorinente convertida na Lei nº11.430, de 26.12.2006".
+3 - Negado provimento à apelação do INSS.
+Alega violação dos arts. 1.002, 1.008 e 1.013 do Código de Processo Civil, no que concerne à ocorrência de reformatio in pejus, trazendo o(s) seguinte(s) argumento(s):
+O v. acórdão condenou o INSS a suportar honorários advocatícios, quando a sentença em primeiro grau não havia fixado tal condenação. E, sem que a parte tivesse recorrido da sentença.
+Em respeito ao princípio do "tantum devolutum quantum appellatum" jamais poderia ter sido piorada a situação do INSS, haja vista que a parte autora não apelou da sentença com relação aos honorários, ou seja, conformou-se com a decisão, sob pena de violação aos artigos 1002, 1008 e 1013 do novo Código de Processo Civil (antigos 505, 512 e 515 do CPC revogado), operou-se a coisa julgada em relação a ela, não podendo ser alterada a decisão em seu beneficio, ante a ausência de recurso.
+E pacífico nos Tribunais e na doutrina que o reexame necessário se dá a favor da Fazenda Pública, e não a favor de ambas as partes, funcionando esse instituto processual como uma verdadeira "apelação legal" em favor da Autarquia.
+Sendo assim, não tendo havido recurso da parte autora questionando os honorários, há extrapolação do âmbito de conhecimento do apelo autárquico, posto que se realiza reforma não buscada, infringindo-se a regra tantum devolutum quantum appellatum.
+A devida observância dos artigos mencionados se faz necessária para que restem preservados os princípios da inércia da jurisdição, da demanda e da imparcialidade, alicerces do sistema processual brasileiro.
+Vale destacar que, uma vez que a parte autora não recorreu da sentença com relação aos honorários, operou-se a coisa julgada em relação a ela, não podendo ser alterada a decisão em seu beneficio, ante a ausência de recurso.
+Deste modo, tornou-se injustamente mais gravosa a condenação para o Instituto, posto que erroneamente alterou-se o teor da sentença com com que a parte autora se conformou.
+Contudo, nos termos dos arts. 492 e 1.013 do Novo Código de Processo Civil/2015, o nosso ordenamento jurídico não admite a reformatio in pejus (fls. 442-443).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
