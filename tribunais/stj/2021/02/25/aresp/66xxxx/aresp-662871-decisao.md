@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de agravo manifestado por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL PREVI contra decisão que não admitiu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 1.033, e-STJ):
+AÇÃO RESCISÓRIA. SENTENÇA DE PROCEDÊNCIA PROFERIDA EM AÇÃO DE COBRANÇA FUNDADA EM CONTRATO DE PREVIDÊNCIA PRIVADA. BENEFÍCIO ESPECIAL DE RENDA CERTA. ALEGAÇÃO DE ERRO DE FATO E VIOLAÇÃO A LITERAL DISPOSIÇÃO DE LEI. VÍCIOS NÃO CONFIGURADOS. IMPOSSIBILIDADE DE UTILIZAÇÃO DO PRESENTE MEIO AUTÔNOMO DE IMPUGNAÇÃO COMO SUCEDÂNEO DE RECURSO. IMPROCEDÊNCIA DO PEDIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 1.053-1.057, e-STJ).
+Nas razões do recurso especial, a recorrente alegou violação dos arts. 5.º, caput, incisos LIV e LV, 93, inciso IX, 202, caput, da Constituição Federal; 485, inciso V e 535, inciso II, do Código de Processo Civil de 1973; 17, 18 e 20 da Lei Complementar n. 109/2001
+Sustentou, em síntese, negativa de prestação jurisdicional, diante das omissões apontadas nos embargos declaratórios opostos na origem.
+Aduziu violação literal a dispositivos de lei e, ainda, ser evidente o erro de fato que fundamentou o ajuizamento da ação rescisória, porque o Tribunal local concedeu o Benefício Especial de Renda Certa aos requeridos por força de premissa fática equivocada:
+ ..  a sentença rescindenda, ao não diferenciar os participantes que atingiram 360 contribuições na ativa com os que o fizeram aposentados, não observou o direito acumulado de cada participante, determinou a aplicação das disposições regulamentares a participantes que não cumpriram os requisitos, e não levou em consideração a proporção existente entre as contribuições dos patrocinadores e dos participantes (fl. 1.077, e-STJ).
+Alegou que não pode ser obrigada a pagar o referido benefício sem a devida fonte de custeio.
+Contrarrazões apresentadas às fls. 1.091-1.111 (e-STJ).
+O recurso não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, cumpre destacar que a decisão recorrida foi publicada antes da entrada em vigor da Lei n. 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+No que diz respeito à apontada violação dos arts. 5.º, caput, incisos LIV e LV, 93, inciso IX, 202, caput, todos da Constituição Federal, a pretensão foi deduzida em sede imprópria, cuja ofensa dá ensejo à interposição de recurso extraordinário para o Supremo Tribunal Federal.
+A matéria constitucional invocada não deve ser examinada nesta via, porquanto a sua apreciação não compete ao Superior Tribunal de Justiça, pelo teor do art. 105, inciso III, da Constituição Federal, qual seja, a de unificar o direito infraconstitucional.
+Ademais, a questão federal foi decidida de modo suficiente e fundamentada, motivo pelo qual rejeito a alegação de ofensa ao art. 535, II, do Código de Processo Civil de 1973.
+O acórdão recorrido enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece reparo algum.
+Com efeito, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seu convencimento. O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado, encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/1973) - MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AUTOR.
+1. Não há falar em violação aos artigos 458 e 535 do CPC/1973. Na hipótese, houve o julgamento das questões de maneira fundamentada, com clareza e exatidão no julgado, apenas não tendo sido adotadas as teses do insurgente. Consoante entendimento desta Corte, o julgador não precisa responder, nem se ater a todos os argumentos levantados pelas partes, se já tiver motivos suficientes para fundamentar sua decisão.
+(..)
+3. Agravo interno desprovido.
+(AgInt. no AREsp. 790.880/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28.3.2017, DJe 4.4.2017.)
+Outrossim, o cabimento da ação rescisória por violação de lei (art. 485, inciso V, do Código de Processo Civil de 1973) pressupõe ofensa direta ao conteúdo normativo do dispositivo legal, o que não ocorreu no caso em apreço.
+Ao dirimir a controvérsia, o Tribunal estadual, por maioria, julgou improcedente o pedido rescisório da recorrente, nos seguintes termos (fls. 1.035 -1.038, e-STJ):
+Ao contrário do que alega o autor da presente demanda, a sentença rescindenda não se baseou na premissa de que os réus contribuíram para a formação do superávit verificado no Plano de Benefícios n.º 1, mas apenas de que eles contribuíram "para o plano de previdência privada, mesmo após o recebimento do beneficio complementar de aposentadoria" (fls. 57), questão sobre a qual não há controvérsia.
+Não foi admitido fato inexistente ou reputado inexistente um fato efetivamente ocorrido, não havendo, portanto, que falar em erro de fato, nos termos do artigo 485, § 1.º, do Código de Processo Civil.
+Além disso, o magistrado prolator do decisum impugnado entendeu que, "observado o disposto no art. 20, §§ 1.º e 3.º, da LC n.º 109/01, tudo o que sobra deve ser repartido entre os participantes, na proporção de suas contribuições" (fls. 57).
+Conforme orientação do Superior Tribunal de Justiça, no julgamento da Ação Rescisória n.º 1.084/SP, não se admite ação rescisória com base em erro de fato, quando o julgador emite juízo de valor quanto à controvérsia e incorre em error em judicando, haja vista que esse meio autônomo de impugnação não é sucedâneo de recurso.
+ ..
+No que se refere à alegação de violação à literal disposição dos artigos 330, I, do Código de Processo Civil, 17 e 20 da Lei Complementar nº 109/01, 884 do Código Civil, e 202, caput, da Constituição Federal, a ação rescisória também não merece acolhimento.
+Isso porque os argumentos trazidos pelo autor para desconstituir a sentença, relativos à necessidade de produção de prova técnica atuarial para o julgamento da lide principal; à impossibilidade de alteração ou revisão de plano previdenciário sem considerar o direito adquirido e a efetiva participação dos integrantes; à ocorrência de enriquecimento injustificado dos réus; e à impossibilidade de conceder aos réus valores relativos a reservas que garantem o beneficio contratado por outros participantes, trazidos pelo autor da presente ação rescisória em suas razões iniciais, não têm o condão de justificar o exercício desse meio autônomo de impugnação, por se referirem ã injustiça da decisão, sendo descabido utilizar esse meio excepcional de impugnação em substituição ao recurso de apelação não utilizado pela parte no momento oportuno.
+A leitura do excerto revela que o acórdão atacado se encontra em consonância com a jurisprudência deste Superior Tribunal de Justiça, conforme se pode inferir do seguinte precedente:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. VIOLAÇÃO LITERAL A DISPOSITIVO DE LEI. FUNDAMENTOS QUE EVIDENCIAM A UTILIZAÇÃO DA DEMANDA COMO SUCEDÂNEO RECURSAL. ERRO DE FATO. NÃO CARACTERIZAÇÃO.
+(..)
+6. Da simples exposição acima, é possível constatar que o autor ajuizou a presente demanda com a finalidade exclusiva de rediscutir o acerto do acórdão transitado em julgado, como se fosse possível equiparar a Ação Rescisória aos recursos previstos na legislação processual civil (sucedâneo recursal).
+7. De acordo com a jurisprudência do STJ, a hipótese do art. 485, V, do CPC/1973 pressupõe que a exegese conferida à lei, no acórdão rescindendo, represente clara infringência ao Direito em tese.
+8. As afirmações de que a prova pericial requerida pelo autor deveria obrigatoriamente ser produzida (relembre-se, mesmo se tratando de Mandado de Segurança) e de que o acórdão contém falha na fundamentação não se relacionam a uma suposta transgressão ao Direito em tese, mas sim dizem respeito ao inconformismo do autor com o juízo concreto de adequação dos fatos às normas, circunstância essa que confere à pretensão deduzida caráter de indevido sucedâneo recursal.
+9. O erro de fato, por outro lado, pressupõe que a decisão rescindenda tenha tomado por base fato inexistente ou considerado inexistente fato efetivamente ocorrido, sendo indispensável que, em qualquer dessas hipóteses, não tenha havido controvérsia, nem pronunciamento judicial, a esse respeito.
+10. Nada disso foi demonstrado pelo autor, que se limitou a asseverar que houve erro de fato porque o acórdão rescindendo não examinou adequadamente o "conteúdo dos documentos anexados aos autos" (fl. 8, e-STJ).
+11. Pedido julgado improcedente.
+(AR 5.015/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 23.8.2017, DJe 10.11.2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. ART. 485 DO CPC/1973. REQUISITOS. VIOLAÇÃO FRONTAL E DIRETA. NÃO OCORRÊNCIA. PRESCRIÇÃO. ARESTO RESCINDENDO. ANÁLISE. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. A viabilidade da ação rescisória por ofensa de literal disposição de lei pressupõe violação frontal e direta contra a literalidade da norma jurídica, sendo inviável, nessa seara, a reapreciação das provas produzidas ou a análise acerca da correção da interpretação dessas provas pelo acórdão rescindendo.
+2. O tribunal estadual julgou improcedente o pedido da ação rescisória, tendo em vista a prescrição haver sido discutida no aresto rescindendo de modo fundamentado. Inviável rever tal entendimento, a teor do óbice da Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 314.560/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 7.2.2017, DJe 14.2.2017.)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. AFRONTA A LITERAL DISPOSIÇÃO DE LEI. NÃO CONFIGURAÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.  ..
+2. "Não é cabível ação rescisória por violação de literal dispositivo de lei, mormente por ter a decisão que se visa desconstituir se utilizado de uma dentre as interpretações possíveis ou de interpretação analógica, uma vez que a ofensa a dispositivo de lei capaz de ensejar o ajuizamento da ação rescisória é aquela evidente e direta". (AgRg no AREsp 695.678/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/6/2015, DJe 25/6/2015).
+3. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 612.428/SP, desta relatoria, QUARTA TURMA, julgado em 1º.3.2016, DJe 4.3.2016 - grifos nossos.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR IDADE RURAL. OFENSA A LITERAL DISPOSITIVO DE LEI. NÃO OCORRÊNCIA. UTILIZAÇÃO DA RESCISÓRIA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ação rescisória deve ser reservada a situações excepcionais, ante a natureza de cláusula pétrea assegurada à coisa julgada. Disso decorre a necessária interpretação e aplicação estrita dos casos previstos no artigo 485, V, do CPC. Dessarte, entende a jurisprudência do STJ que a violação à lei, apta a ensejar o manejo da ação rescisória, deve ser direta e frontal, ou seja, a conclusão da decisão rescindenda deve desprezar o sistema das normas aplicáveis.
+2. No caso dos autos, verifica-se que a agravante pretende, em verdade, é a revisão do que foi decidido pelas instâncias ordinárias na lide originária. Em sendo assim, verifica-se que o Tribunal a quo decidiu em sintonia com a jurisprudência do STJ, no sentido de não ser possível utilizar-se da ação rescisória, de caráter excepcional, como sucedâneo recursal.
+3. Agravo regimental não provido.
+(AgRg no AREsp 836.511/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15.3.2016, DJe 17.3.2016).
+Quanto ao alegado erro de fato, defende a recorrente que, na espécie, a inadequada apreciação das provas resultou no indevido reconhecimento de violação ao princípio da isonomia, ao pressupor que os valores vertidos pelos ex-participantes quando inativos também constituíram o superávit (fl. 1.076, e-STJ).
+No entanto, a ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre o fato (arts. 485, §§ 1.º e 2.º, do CPC/1973).
+Isso porque, se houve controvérsia acerca do fato na demanda primitiva, a hipótese é de erro de julgamento e não de erro de fato.
+Sobre o tema:
+RECURSO ESPECIAL. AÇÃO RESCISÓRIA. LITERALIDADE DA LEI. VIOLAÇÃO. CONTRATO BANCÁRIO. AÇÃO REVISIONAL CUMULADA COM PEDIDO DE REPARAÇÃO CIVIL. LUCROS CESSANTES. POSTULADO DA RAZOABILIDADE. ART. 402 E 403 DO CÓDIGO CIVIL. FUNDAMENTAÇÃO CONCRETA. NECESSIDADE. CÉDULA DE CRÉDITO INDUSTRIAL. JUROS. CAPITALIZAÇÃO. POSSIBILIDADE.
+1. Ação rescisória visando à rescisão de acórdão proferido em ação revisional de contrato de mútuo cumulada com pedido de indenização por perdas e danos em decorrência do atraso na liberação de algumas parcelas do financiamento.
+2. A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele (art. 966, § 1.º, do CPC/2015).
+3. A violação de literal disposição de lei que autoriza o ajuizamento de ação rescisória é aquela que enseja flagrante transgressão do "direito em tese".
+4. A configuração dos lucros cessantes exige mais do que a simples possibilidade de realização do lucro, requer probabilidade objetiva e circunstâncias concretas de que estes teriam se verificado sem a interferência do evento danoso.
+5. Reconhecimento dos lucros cessantes fundado em referências genéricas ao laudo pericial, sem a necessária demonstração da relação de interdependência entre os dados colhidos na perícia e o dano supostamente advindo do atraso no repasse dos recursos financeiros.
+6. Hipótese em que as respostas do expert, devidamente transcritas no acórdão recorrido, além da imprecisão resultante da reiterada utilização do adjetivo "provável", servem apenas para a comprovação de que houve atraso no repasse de algumas parcelas do financiamento, fato sobre o qual não há nenhuma controvérsia, valendo, ainda, para sustentar a mera probabilidade de que essa mora tenha contribuído para o atraso na implantação do empreendimento.
+7. Não se pode conceber que o reconhecimento da existência de lucros cessantes no importe de R$ 1.919.182,23 (um milhão, novecentos e dezenove mil, cento e oitenta e dois reais e vinte e três centavos), em valores de fevereiro de 2002, não esteja apoiado em fundamentos sólidos, notadamente na hipótese em que o empreendimento ainda estava em fase de implantação, ou seja, ainda não havia iniciado seu estágio produtivo.
+8. Não pode subsistir a condenação ao pagamento de lucros cessantes baseada em meras conjecturas e sem fundamentação concreta, dada a flagrante ofensa à literalidade dos arts. 93, IX, da CF/1988, 458, II, do CPC/1973 e 402 e 403 do Código Civil.
+9. Desde que não seja considerada abusiva, é válida a capitalização dos juros nas cédulas de crédito industrial, mesmo em se tratando de contrato de adesão submetido às normas do Código de Defesa do Consumidor, nos termos da Súmula nº 93/STJ.
+10. Recurso especial provido.
+(REsp 1.655.090/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 4.4.2017, DJe 10.4.2017, grifos nossos).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PRINCÍPIO DA UNIRRECORRIBILIDADE. RESCISÓRIA. ERRO DE FATO. NÃO INCIDÊNCIA.
+(..)
+2. A simples correção de injustiças quanto aos fatos da causa, ou o mero reexame das provas, não estão entre as hipóteses que ensejam a rescisória. Precedentes.
+3. Para ultrapassar a regra de que a injustiça do julgado em virtude de erro na apreciação da questão fática não pode ser corrigida em ação rescisória, deve-se atentar, como preceitua o § 2º do inciso IX do art. 485, à exigência de que somente o erro acerca de fato não objeto de discussão no acórdão rescindendo pode ser afastado por meio de ação rescisória.
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 168.745/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 10.8.2015.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A REFORMA DA DECISÃO. NÃO CONFIGURAÇÃO DE ERRO DE FATO. RECURSO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, é necessário que inexista pronunciamento judicial a respeito do fato específico para que a ação rescisória seja admitida com base em erro de fato.
+2. A ação rescisória não se presta a corrigir injustiças, má apreciação de provas ou erro de julgamento. Precedentes. (..)
+4. Agravo regimental não provido.
+(AgRg no AREsp 558.325/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 17.8.2015.)
+Dessa forma, não sendo possível verificar, da análise do contexto probatório, qualquer ilegalidade ou violação à legislação vigente ou erro de fato, mas mera pretensão de reapreciação de matéria definitivamente julgada, descabe falar em ofensa ao art. 485, V, do CPC de 1973 (art. 966 do CPC/2015).
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
