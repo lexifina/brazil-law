@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DE PERNAMBUCO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim resumido:
+AGRAVO DE INSTRUMENTO. FORNECIMENTO GRATUITO DO MEDICAMENTO OLAPARIBE (LYNPARZA ) 50 MG À PACIENTE PORTADORA DE NEOPLASIA MALIGNA DE OVÁRIO (ADENOCARCINOMA), ESTÁGIO IV (CID:10 C56), COM METÁSTASE E BRCA1 MUTADO POR GENOTIPAGEM. RECURSO IMPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 537 do CPC/2015, no que concerne à razoabilidade do valor fixado a título de astreintes, trazendo o seguinte argumento:
+Em que pese a astreinte ter caráter coibitivo de atraso no cumprimento, ou mesmo descumprimento da ordem judicial, não se pode desconsiderar que há determinação legal, impressa no art. 537, do NCPC, de que a fixação da mesma deve ser compatível com a obrigação, e não configurar como ônus excessivo como ocorre no presente caso.
+Frise-se, que a multa diária fixada in casu equivale à absurda quantia de R$ 500,00 (quinhentos reais), ao mês, o que é totalmente desarrazoado (fl. 110).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Destarte, tenho que deve ser mantida a multa diária fixada pelo juízo de primeiro grau (em R$ 500,00/dia de descumprimento), posto que à parte agravada não interessa o recebimento da multa, mas sim o cumprimento efetivo, a tempo e modo, da obrigação de fazer (consistente no fornecimento do medicamento solicitado), sendo indispensável, pois,que o preceito cominatório seja suficiente para desestimular um eventual inadimplemento (fls. 77).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor estabelecido para astreintes, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante fixado pela Justiça de origem não se mostra excessivo, o que impede a sua reavaliação em recurso especial.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou
+exorbitante o valor estabelecido para astreintes, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante fixado pela Justiça de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial. (AgInt no AREsp 1694687 / SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 01/10/2020.)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
