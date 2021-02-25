@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de agravo interposto por FEDERAL DE SEGUROS S/A EM LIQUIDAÇÃO EXTRAJUDICIAL e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verifica-se que a Presidência do Tribunal de origem indeferiu o pedido de gratuidade judiciária e determinou a intimação da parte recorrente, "para, no prazo de cinco dias, recolher as custas locais do recurso especial, sob pena de deserção" (fl. 634).
+Insatisfeita, a parte apresentou pedido de reconsideração, o qual foi indeferido, sendo aberto prazo suplementar de 48 horas para o recolhimento das custas do recurso especial (fl. 674).
+Ainda irresignada, a parte interpôs o agravo em recurso especial de fls. 677/688.
+Conclusos os autos, o Presidente do tribunal de origem ressaltou que "a recorrente deixou escoar o prazo para o atendimento do referido despacho, tendo apenas manejado o recurso do art. 1.042 do CPC/15, sem que tenha havido o juízo de admissibilidade" (fl. 690), para, após, concluir pela inadmissibilidade do apelo ante a deserção do recurso (fl. 691).
+Como se vê, o recurso especial não foi devidamente preparado, tendo sido interposto sem a guia de custas e o respectivo comprovante de pagamento. Intimada a regularizar o feito, por duas vezes, a parte recorrente deixou de fazê-lo nos prazos assinalados pelo tribunal de origem, o que leva à incidência do disposto na Súmula n.º 187 deste Tribunal para reconhecer a deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
