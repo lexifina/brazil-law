@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WELERSON RICARDO GOMES, apontando como autoridade coatora o Tribunal de Justiça de São Paulo.
+Colhe-se dos autos que a defesa impetrou habeas corpus, na origem, em face de decisão que decretou a prisão preventiva do paciente.
+Neste writ, o impetrante sustenta que: a) "manifestou o interesse de realização de sustentação oral  ..  após a manifestação oral do Procurador de Justiça" (e-STJ, fl. 4); b) "o Nobre Desembargador, impetrado,  ..  indeferiu o pedido, sustentando a aplicação do Regimento Interno do Tribunal Impetrado e uso da palavra pela Defesa primeiro" (e-STJ, fl. 4); c) "deve ser oportunizada a realização da sustentação oral da Defesa após o Parquet, não havendo fundamento para manutenção de Normas Regimentais Internas do Tribunal sobre a Constituição Federal" (e-STJ, fl. 5).
+Pleiteia "que a Defesa possa sustentar oralmente após a manifestação oral do Ministério Público na Sessão de Julgamento do HABEAS CORPUS 2303312-76.2020.8.26.0000" (e-STJ, fl. 7).
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal ofertou parecer pela denegação do habeas corpus.
+É o relatório.
+Decido.
+No termos do art. 5º, LXVIII, da Constituição Federal, como é cediço, o habeas corpus é uma ação mandamental, de índole constitucional, que tem como escopo resguardar a liberdade de locomoção contra ilegalidade ou abuso de poder, marcado por cognição sumária e rito célere, podendo ser impetrado por qualquer pessoa ou concedido de ofício pelo magistrado quando se verificar alguma coação ilegal. A coação dever ser atual ou iminente, implicando perigo à liberdade de locomoção, o que não se visualiza no caso.
+Afinal, o impetrante pretende a concessão da ordem para poder proferir sustentação após eventual manifestação oral do representante do Ministério Público, na condição de custos iuris, quando do julgamento do habeas corpus originário. Ocorre que sequer se sabe se o membro do Parquet fará uso da palavra no julgamento da ação mandamental exclusivamente defensiva. E, se o fizer, não há garantia que será de forma desfavorável à pretensão do impetrante, podendo inclusive opinar pela concessão do habeas corpus.
+Nesse contexto, entendo que o pedido defensivo não comporta acolhimento na presente via, pois não cabe ação de habeas corpus contra o assim chamado "ato coator de hipótese". A respeito:
+"É inviável utilizar o remédio constitucional para obstar eventuais ilegalidades ou constrangimentos ainda não concretizados e sem fundado receio de que realmente ocorrerão (ut, AgRg no HC 573.860/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 18/05/2020)." (AgRg no RHC 133.164/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020);
+"É certo que "não cabe ação de habeas corpus contra o chamado, por alguns, "ato de hipótese". Portanto, não há constrangimento ilegal a ser evitado ou sanado pelo presente habeas corpus, o qual se mostra manifestamente incabível" (HC 82.319/SP, 5.ª Turma, Rel. Ministro ARNALDO ESTEVES LIMA, DJ de 12/9/2007)."
+(AgRg no HC 617.836/SC, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 25/11/2020, DJe 27/11/2020).
+A simples manifestação do Parquet, como fiscal da ordem jurídica, não impinge aprioristicamente nenhuma mácula ao direito de defesa. Verbigratia:
+"HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL.PLEITO PELO RECONHECIMENTO DE NULIDADE. ARGUMENTO DE VIOLAÇÃO DO PRINCÍPIO DA PARIDADE DE ARMAS ENTRE AS PARTES. INOCORRÊNCIA.PRECEDENTES.
+1. As Cortes Superiores entendem que a emissão de parecer pelo Ministério Público, em segundo grau de jurisdição, como custos legis, não vulnera a garantia do contraditório.
+2. Não há que se falar em nulidade de julgamento, por ofensa aos princípios do contraditório, da igualdade entre as partes e da ampla defesa, porquanto, após a manifestação do Ministério Público, como fiscal da lei, inexiste contraditório a ser assegurado. Assim, o parecer exarado pelo Parquet, em segundo grau de jurisdição, não gera vício procedimental, mesmo porque a parte contrária restou intimada, em razão da publicação da pauta de julgamento no Diário de Justiça.
+3. Ordem denegada"
+(HC 167.150/MG, Rel. Ministro ADILSON VIEIRA MACABU (DESEMBARGADOR CONVOCADO DO TJ/RJ), QUINTA TURMA, julgado em 27/09/2011, DJe 01/02/2012).
+Por último, considerando a orientação jurisprudencial uníssona no sentido de não reconhecer a nulidade no processo penal sem que seja demonstrado o prejuízo para adefesa (princípio do pas de nullité sans grief), torna-se inviável o reconhecimento da ilegalidade suscitada. Nesse sentido: "a jurisprudência desta Corte Superior é firme em assinalar que o reconhecimento de nulidade, relativa ou absoluta, exige a indicação em tempo oportuno e a demonstração do prejuízo, a teor do art. 563 do Código de Processo Penal." (AgRg no AREsp 699.468/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/05/2017, DJe 24/05/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
