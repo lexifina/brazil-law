@@ -1,0 +1,23 @@
+DECISÃO
+THAYNARA ELIAS LOPES DA SILVA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Geraisno Habeas Corpus n. 1.0000.20.442990-6/000.
+Nesta Corte, sustenta a defesa a ausência de pressupostos delimitadores da prisão preventiva da acusada e a falta de motivação idônea para manutenção do decisum constritivo, pela suposta prática de associação para o comércio ilícito de drogas.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a substituição da custódia provisória por medidas alternativas.
+A liminar foi indeferida às fls. 124-127.
+As informações foram prestadas, às fls. 133-150 e 151-168, e o Ministério Público Federal, em parecer de fls. 265-268, opinou pela denegação da ordem.
+Decido.
+Expõem os autos que, no dia 15/4/2020, o Juízo singular recebeu a denúncia ofertada contra 61 investigados, por supostamente integrarem associação criminosa, com o fim de praticar tráfico de entorpecentes entre municípios do Estado de Minas Gerais, desde, pelo menos, janeiro de 2019. De acordo com a exordial acusatória, a facção delituosa emprega armas de fogo, envolve adolescentes nos ilícitos penais e tem como articuladores membros encarcerados em estabelecimentos prisionais.
+À ora paciente são imputados os crimes previstos no art. 35 c/c o art. 40, IV, V e VI, ambos da Lei n. 11.343/2006, por supostamentepertencer à "rede de apoio"à traficância, composta dos também considerados "subgerentes", a quem incumbiria "transportar drogas ilícitas e armas de fogo"a outras cidades mineiras, bem como "guardar e distribuir drogas e até mesmo fiscalizar ruas, como "olheiros" do tráfico", e prestar informações sobre "ações policiais"(todos às fls. 36-37, grifei).
+Outrossim, "Thaynara Elias Lopes da Silva também arregimentaria usuários para a dolagem de entorpecentes e envio das substâncias proscritas a pontos de venda"(fl. 37, destaquei).
+Ainda, "a análise de dados extraídos do telefone celular apreendido em poder de THAYNARA ELISA LOPES DA SILVA revelou inúmeras fotografias de drogas; o monitoramento das forças policiais que atuam no bairro Cidade Nova", assim como "dados bancários extremamente comprometedores referentes a contas correntes abertas em agências localizadas em Corumbá/MS, cidade nacionalmente conhecida como rota do tráfico de maconha, cocaína e crack advindos do Paraguai" (ambos à fl. 85, grifei).
+O Tribunal de origem denegou a impetração de origem.
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+Na hipótese, noto queas instâncias ordinárias justificaram a manutenção da prisão preventiva da paciente em razão da gravidade concreta dos atos apurados, com a existência de sofisticada organização criminosa, estruturalmente ordenada e caracterizada pela divisão de tarefas, com o fim de praticar a mercancia ilícita de drogas.
+Tais circunstâncias evidenciam a ideia de que a constrição cautelar se mostra medida adequada e necessária para fragilizar a própria estrutura organizacional da qual, em tese, faz parte a paciente e, por conseguinte, cessar a prática de novas infrações penais e garantir-se a ordem pública.
+Nesse sentido, é imperioso destacar que "se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo" (RHC n. 70.101/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 5/10/2016).
+Com base nos elementos descritos, nota-se a insuficiência e a inadequação da substituição da custódia provisória por cautelares diversas, porquanto tais medidas não se prestariam a evitar o cometimento de novas infrações penais (art. 282, I, do CPP). Ilustrativamente:
+ ..
+V - Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública.
+Agravo Regimental desprovido.
+(AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018, destaquei)
+À vista do exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
