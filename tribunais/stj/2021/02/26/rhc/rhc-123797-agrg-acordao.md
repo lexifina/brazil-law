@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. ARGUIÇÃO SUPERADA. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. PROLAÇÃO DA DECISÃO DE PRONÚNCIA. SÚMULA 21/STJ. SEGREGAÇÕES NECESSÁRIAS PARA GARANTIR A ORDEM PÚBLICA. PERICULOSIDADE. COMPLEXIDADE. CISÃO PROCESSUAL REFERENTE A UM RECORRENTE. DESÍDIA ESTATAL NÃO VERIFICADA. RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Tendo sido pronunciados os réus, o alegado excesso de prazo para formação da culpa encontra-se superado, vez que encerrada a fase instrutória, não havendo que se falar em desleixo na condução processual. Súmula 21 do Superior Tribunal de Justiça.
+2. Pacientes perigosos e envolvidos com o tráfico de drogas, sendo necessário o acautelamento para resguardar a ordem pública, o que se verifica pela personalidade dos agentes e pela gravidade do delito praticado, motivado exclusivamente por dívidas referentes à traficância.
+3. Fundamentos da prisão cautelar dos recorrentes foram reexaminados em data recente (26/11/2020), mantida a segregação em razão da alta periculosidade, os quais se associaram para a prática do delito de homicídio, sendo a suposta motivação do delito decorrente de dívida de drogas.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Wybson Fernandes de Oliveira, Lindeberg Oliveira dos Santos e Patrício Oliveira dos Santos ingressam com agravo regimental, inconformados com a decisão de fls. 90/91, pela qual neguei seguimento ao recurso ordinário.
+Insistem os recorrentes na tese de excesso de prazo e ausência de contemporaneidade da prisão, mormente porque não haveria ainda previsão de julgamento pelo Tribunal do Júri.
+Afirmam que estão presos preventivamente desde o dia 16 de agosto de 2016 (pacientes Lindeberg Oliveira dos Santos e Patrício Oliveira dos Santos) e 18 de agosto de 2018 (paciente Wybson Fernandes de Oliveira) e ainda não foram julgados em primeiro grau de jurisdição, o que viola claramente o princípio constitucional da razoável duração do processo e que, por mais subjetivo e elástico que se entenda o conceito de razoabilidade no prazo para a formação da culpa, é inaceitável - e inconstitucional - a manutenção da custódia provisória por tanto tempo sem que os pacientes tenham sido julgados em primeira instância.
+Parecer do Ministério Público Federal pelo desprovimento do agravo regimental (fls. 122/124).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. ARGUIÇÃO SUPERADA. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. PROLAÇÃO DA DECISÃO DE PRONÚNCIA. SÚMULA 21/STJ. SEGREGAÇÕES NECESSÁRIAS PARA GARANTIR A ORDEM PÚBLICA. PERICULOSIDADE. COMPLEXIDADE. CISÃO PROCESSUAL REFERENTE A UM RECORRENTE. DESÍDIA ESTATAL NÃO VERIFICADA. RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Tendo sido pronunciados os réus, o alegado excesso de prazo para formação da culpa encontra-se superado, vez que encerrada a fase instrutória, não havendo que se falar em desleixo na condução processual. Súmula 21 do Superior Tribunal de Justiça.
+2. Pacientes perigosos e envolvidos com o tráfico de drogas, sendo necessário o acautelamento para resguardar a ordem pública, o que se verifica pela personalidade dos agentes e pela gravidade do delito praticado, motivado exclusivamente por dívidas referentes à traficância.
+3. Fundamentos da prisão cautelar dos recorrentes foram reexaminados em data recente (26/11/2020), mantida a segregação em razão da alta periculosidade, os quais se associaram para a prática do delito de homicídio, sendo a suposta motivação do delito decorrente de dívida de drogas.
+4. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR):
+O inconformismo não prospera.
+O habeas corpus foi impetrado contra o acórdão do Tribunal de Justiça de Alagoas, que denegou o Habeas Corpus n. 08056240520198020000 (fl. 51):
+PENAL E PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. ARGUIÇÃO SUPERADA. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL, COM CONSTANTE MOVIMENTAÇÃO PROCESSUAL. PROLAÇÃO DA DECISÃO DE PRONÚNCIA. INTELIGÊNCIA DA SÚMULA 21 DO STJ. SEGREGAÇÕES NECESSÁRIAS PARA GARANTIR A ORDEM PÚBLICA. CISÃO PROCESSUAL REFERNTE A UM PACIENTE. DESÍDIA ESTATAL NÃO VERIFICADA. PROCESSO COM DURABILIDADE PROPORCIONAL E REZOÁVEL. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. Tendo sido pronunciados os réus o alegado excesso de prazo para formação da culpa encontra-se superado, vez que encerrada a fase instrutória, não havendo que se falar em desleixo na condução processual. Súmula 21 do Superior Tribunal de Justiça.
+2. Com a cisão processual, o paciente Wybson Fernandes de Oliveira passou a responder em autos apartados, porém nestes também não se verifica desídia na condução processual, estando os autos no aguardo das diligências finais referentes a audiência de instrução, para que se inicie a fase as alegações finais, e consequentemente o encerramento do processo.
+3. Pacientes perigosos e envolvidos com o tráfico de drogas, sendo necessário o acautelamento para resguardar a ordem pública, o que se verifica pela personalidade dos agentes e pela gravidade do delito praticado, motivado exclusivamente por dívidas referentes à traficância.
+4. Ordem conhecida e, no mérito, denegada.
+Insistem os recorrentes na tese de excesso de prazo, sob a alegação de que, após decorridos mais de 3 anos de encarceramento preventivo, a Autoridade Coatora de 1º grau proferiu sentença de pronúncia, não havendo, no entanto, data para julgamento perante o Tribunal do Júri.
+Requerem a concessão de ordem para que sejam revogadas as prisões cautelares.
+O acórdão recorrido, com ampla e suficiente fundamentação, afastou o excesso de prazo, assentado em pacífico entendimento jurisprudencial desta Corte, inclusive já sumulado.
+Com efeito, a complexidade da ação penal, com a necessidade de diligências e expedição de cartas precatórias, ficou devidamente demonstrada no acórdão, o que justifica eventual acréscimo de tempo no curso regular do processo.
+Com relação ao recorrente Wybson, que teve o feito desmembrado, sua prisão somente ocorreu em 18/8/2018, além de já terem sido, em 8/8/2019, reavaliados pelo Magistrado de primeiro grau os fundamentos que justificam a necessidade da manutenção da segregação cautelar (fl. 56).
+Quanto aos demais recorrentes, Lindeberg e Patrício, sobreveio, em 14/9/2019, sentença de pronúncia, incidindo ao caso a Súmula 21/STJ: Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+Por fim, em consulta ao sítio eletrônico do Tribunal de origem, verifiquei que os fundamentos da prisão cautelar dos recorrentes foram reexaminados em data recente (26/11/2020), mantida a segregação em razão da alta periculosidade, os quais se associaram para a prática do delito de homicídio, sendo a suposta motivação do delito decorrente de dívida de drogas.
+Diante do contexto reproduzido, não visualizo o apontado constrangimento ilegal, já sendo proferida a sentença de pronúncia, constando dos autos originários a informação de que o feito já aguarda a inclusão em pauta da Sessão do Tribunal do Júri.
+Nego provimento ao agravo regimental.
