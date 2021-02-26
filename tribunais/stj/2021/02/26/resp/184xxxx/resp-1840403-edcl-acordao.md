@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Francisco Falcão.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SUPOSTA OMISSÃO NO ACÓRDÃO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO. ANÁLISE. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE INDICAÇÃO DE VÍCIO NO ACÓRDÃO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO ANTERIORMENTE OPOSTOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. O suposto vício apontado pela embargante estaria presente no acórdão proferido às e-STJ fls. 2910/2913, que negou provimento ao agravo interno, e não no acórdão prolatado às e-STJ fls. 2945/2949, ora embargado, que rejeitou os embargos de declaração. Desta forma, a embargante pretende suprir falha recursal dos embargos de declaração anteriormente opostos às e-STJ fls. 2919/2923, complementando as razões dos aclaratórios, procedimento vedado ante a preclusão consumativa.
+3. Ademais, a embargante não aponta qualquer vício no acórdão ora embargado, qual seja, aquele que rejeitou os aclaratórios anteriormente opostos, o que impede o conhecimento destes embargos de declaração.
+4. Embargos de declaração não conhecidos.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pela UNIÃO em face de acórdão proferido pela Segunda Turma deste Tribunal Superior que rejeitou os embargos de declaração anteriormente opostos, assim ementado (e-STJ fl. 2945):
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE VÍCIOS NO JULGADO. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura ou contraditória. Não são destinados à adequação do decisum ao entendimento da parte embargante, nem ao acolhimento de pretensões que refletem mero inconformismo, e, menos ainda, à rediscussão de questão já resolvida. Precedentes.
+2. A análise das razões recursais revela a pretensão da parte em alterar o resultado do julgado, o que é inviável nesta seara recursal.
+3. Embargos de declaração rejeitados.
+Nas razões dos embargos de declaração (e-STJ fls. 2958/2968), a embargante alega, em síntese, que o acórdão proferido quando do julgamento do agravo interno (e-STJ fls. 2910/2913) não teria apreciado os dispositivos constitucionais e legais que regem o mandado de segurança coletivo, bem como manifestado sobre a limitação do alcance do título em obediência à coisa julgada, matérias suscitadas no agravo interno interposto às e-STJ fls. 2850/2865.
+Sustenta que "A omissão apontada apenas poderá ser sanada mediante a apreciação, por esse órgão colegiado, de todos os argumentos já trazidos pela União em seu agravo interno, capazes, por si sós, de infirmar as razões da decisão do Eminente Ministro Relator que deu provimento ao recurso especial da parte adversa. Contudo, a título de reforço argumentativo, a União vem reiterar suas razões, pleiteando, desde já, sejam elas acolhidas, no sentido de que sejam providos os seus aclaratórios e lhe sejam emprestados efeitos infringentes, a fim de negar-se provimento ao apelo nobre da exequente" (e-STJ fl. 2962).
+Por fim, aduz que "em hipótese contrária, a fim de viabilizar a interposição de recurso extraordinário, preenchendo-se o requisito do prequestionamento, pugna que, quando do enfrentamento do mérito da controvérsia, seja feita a análise expressamente sob a luz do art. 93, IX; do art. 5º, incisos XXXVI e LXX, "b"; e do art. 8º, III, da Constituição, bem como do disposto na Súmula 629 do STF" (e-STJ fl. 2967).
+Impugnação aos embargos apresentada às e-STJ fls. 2970/2985.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SUPOSTA OMISSÃO NO ACÓRDÃO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO. ANÁLISE. INVIABILIDADE. PRECLUSÃO CONSUMATIVA. AUSÊNCIA DE INDICAÇÃO DE VÍCIO NO ACÓRDÃO QUE REJEITOU OS EMBARGOS DE DECLARAÇÃO ANTERIORMENTE OPOSTOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
+1. Nos termos do art. 1.022 do CPC/2015, os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. O suposto vício apontado pela embargante estaria presente no acórdão proferido às e-STJ fls. 2910/2913, que negou provimento ao agravo interno, e não no acórdão prolatado às e-STJ fls. 2945/2949, ora embargado, que rejeitou os embargos de declaração. Desta forma, a embargante pretende suprir falha recursal dos embargos de declaração anteriormente opostos às e-STJ fls. 2919/2923, complementando as razões dos aclaratórios, procedimento vedado ante a preclusão consumativa.
+3. Ademais, a embargante não aponta qualquer vício no acórdão ora embargado, qual seja, aquele que rejeitou os aclaratórios anteriormente opostos, o que impede o conhecimento destes embargos de declaração.
+4. Embargos de declaração não conhecidos.
+VOTO
+Inicialmente é necessário consignar que o presente recurso de embargos de declaração atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A embargante alega que o acórdão que negou provimento ao agravo interno, proferido às e-STJ fls. 2910/2913, padeceria de omissão, pois não teria apreciado os dispositivos constitucionais e legais que regem o mandado de segurança coletivo, bem como manifestado sobre a limitação do alcance do título em obediência à coisa julgada, matérias suscitadas no agravo interno interposto às e-STJ fls. 2850/2865.
+Verifica-se que o suposto vício apontado pela embargante estaria presente no acórdão proferido às e-STJ fls. 2910/2913, que negou provimento ao agravo interno, e não no acórdão prolatado às e-STJ fls. 2945/2949, ora embargado, que rejeitou os embargos de declaração.
+Desta forma, a embargante pretende suprir falha recursal dos embargos de declaração anteriormente opostos às e-STJ fls. 2919/2923, complementando as razões dos aclaratórios, procedimento vedado ante a preclusão consumativa.
+Ademais, a embargante não aponta qualquer vício no acórdão ora embargado, qual seja, aquele que rejeitou os aclaratórios anteriormente opostos, o que impede o conhecimento destes embargos de declaração.
+Ante o exposto, não conheço dos embargos de declaração.
+É o voto.
