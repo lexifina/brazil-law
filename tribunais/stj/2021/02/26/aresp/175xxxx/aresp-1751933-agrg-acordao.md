@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO REGIMENTAL IMPROVIDO.
+1. A ausência de impugnação específica a um ou mais fundamentos do acórdão impugnado, suficientes por si sós para manter o julgado, atrai a incidência da Súmula 283 do STF, por analogia.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+Assevera o agravante que o Recurso inadmitido guerreou devidamente todos os pontos pelos quais se valeu o Tribunal para sustentar o a utilização de fração inferior à pretendida, bem como demonstrou a necessidade de utilizar-se diminuição de 2/3 no caso em julgamento (fl. 195).
+Requer, assim, a reconsideração da decisão agravada ou a análise do recurso pela Turma julgadora.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi proferida nos seguintes termos (fls. 177/180):
+No que concerne ao tema controvertido, o Tribunal local, ao negar provimento ao apelo defensivo, exortou:
+Aduz que o sentenciante incorreu em erro ao reduzir a pena na fração de 1/3 sem, contudo, fundamentar a razão de não ter aplicado a fração máxima de 2/3. Também alega que não restou justificada a opção pela pena de reclusão e não a de detenção, bem como a não aplicação tão somente da pena de multa.
+ ..
+Contudo, a razão não lhe assiste.
+Pela simples leitura do artigo infra transcrito, é simples concluir que as alternativas discriminadas no dispositivo não são aplicadas cumulativamente, pelo que deve ser escolhida aquela que melhor atender às finalidades de repressão e prevenção inerentes à sanção penal.
+Trata-se, portanto, de faculdade conferida ao julgador, o qual, valendo-se do poder discricionário que lhe é concedido constitucionalmente, determinará qual das hipóteses mencionadas no § 2º do art. 155 do Código Penal se mostra mais adequada e recomendável à hipótese concreta.
+No caso, o sentenciante optou por reduzir a pena da apelante em 1/3 (um terço), cuja solução também me parece ser a mais acertada quando considerado que "o fato delituoso objeto do presente processo não constituiu fato isolado na vida da apelante", apesar de ainda subsistir em seu favor a primariedade.
+Com efeito, ao ser reconhecida a incidência do furto privilegiado, ficou devidamente registrado na sentença que tal minorante só foi aplicada em virtude de não constar nos autos certidão comprovando a existência de sentença condenatória transitada em julgado em desfavor da ora apelante, apesar de ter sido vislumbrada sua condição de reincidente durante o interrogatório judicial. Ainda "foi frisado que a folha de antecedentes criminais revelava a existência de outros processos judiciais em andamento".
+Desta forma, ao reduzir a pena na fração de 1/3 (um terço), em detrimento da possibilidade de substituir a pena de reclusão por detenção ou aplicar apenas a multa, o magistrado sentenciante o fez de forma coerente e acertada, uma vez que guarda consonância com o poder discricionário que lhe é conferido e a reprovável conduta da apelante. (fls. 117/120 - g.n.)
+Da leitura dos fragmentos destacados, em cotejo às genéricas e deficientes razões consignadas no apelo raro, verifica-se incidir o óbice da Súmula n. 283/STF, uma vez que a defesa, ao apenas replicar a matéria de fundo já suscitada na apelação, deixou de atacar - com a necessária "dialeticidade" recursal - fundamento autônomo e suficiente à manutenção do julgado.
+In casu, tal fundamento circunscreve-se na máxima de que "o fato delituoso objeto do presente processo "não constituiu fato isolado na vida da apelante", apesar de ainda subsistir em seu favor a primariedade", justificando-se a pena reclusiva imposta e o fustigado patamar de 1/3 (um terço) sob a assertiva de que a folha de antecedentes criminais da apenada "revelava a existência de outros processos judiciais em andamento" (fl. 119 - g.n.), embasamento empírico apto, segundo sufragado pela Corte a quo, à confirmação da guerreada condenação.
+Nesse sentido: "A subsistência de "fundamento inatacado" apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"" (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/12/2018 - g.n.).
+Confiram-se ainda os seguintes precedentes: AgInt nos EREsp n. 1.698.730/SP, relator Ministro Raul Araújo, Segunda Seção, DJe de 18/12/2018; e AgRg nos EAREsp n. 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Conforme se observa na decisão agravada, o recurso especial não foi conhecido, diante do óbice contido na Súmula 283 do STF. Isso porque, ao pleitear o redimensionamento da pena, o recorrente deixou de atacar fundamento autônomo e suficiente para manter o acórdão recorrido, qual seja, o fato delituoso objeto do presente processo "não constituiu fato isolado na vida da apelante", apesar de ainda subsistir em seu favor a primariedade (fl. 119), justificando-se a pena reclusiva imposta e o patamar de 1/3 sob a assertiva de que a folha de antecedentes criminais da apenada revelava a existência de outros processos judiciais em andamento (fl. 119).
+Em verdade, verifica-se que os argumentos trazidos pelo agravante se limitam a repisar tese já veiculada, que foi em sua integralidade abordada e afastada pela decisão combatida, a qual deve ser mantida por seus fundamentos.
+Ante o exposto, voto por negar provimento ao agravo regimental.
