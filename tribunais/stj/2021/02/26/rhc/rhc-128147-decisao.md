@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso em habeas corpuscom pedido de liminarinterposto por ALEX MAICON SILVA DA LEVE, ANDREILSON DA SILVA FREIRE, ANDREY JEFFERSON DA SILVA, DAVE MARCOS DE ARAUJO eEDER ARNOLD DOS SANTOS contra acórdão do Tribunal Regional Federal da 4ª Região que denegou a ordem pleiteada no HC n. 5011941-09.2020.4.04.0000/PR.
+Consta dos autos que os recorrentes foram denunciados e presos preventivamente, pela prática dos crimes previstos nos arts. 18 e 19 da Lei n. 10.826/2003, associação criminosa (art. 288 do CP) voltada ao tráfico internacional de armas de fogo e munições, falsidade ideológica e lavagem de dinheiro, os quais estão sendo apurados no âmbito da Operação Guns Express.
+No presente recurso, sustentama necessidade de aplicação das medidas previstas na Resolução CNJ n. 62/2020, devido ao risco decorrente da pandemia do novo coronavírus.Asseveram que "a medida cautelar da prisão preventiva é excessiva, pois não se revela a medida mais adequada e necessária à espécie, razão pela qual  ..  outras medidas cautelares, podem suprir as eventuais razões suscitadas para a decretação/manutenção da prisão preventiva".Requerem o provimento do recurso para que seja revogada a custódia preventiva e substituída por prisão domiciliar(fls. 190-201).
+O Ministério Público Federal manifestou-se pelo parcial conhecimento do recursoe, nessa extensão, pelo desprovimento (fls. 227-232).
+É o relatório. Decido.
+Em 4/8/2020, o Juízo de origem informou ter sido revogada a prisão preventiva dos recorrentes Andreilson da Silva Freire, Andrey Jefferson da Silva, Dave Marcos de Araujo eEder Arnold dos Santos(fls. 258-262).
+Assim, em relação a esses recorrentes, considerando a nova realidade fático-processual, evidencia-se a perda superveniente de objeto da impetraçãoe consequente perda de interesse recursal.
+Quanto ao recorrente Alex Maicon Silva da Leve, observa-se ter sido interposto o RHC n. 133.877, no qual também pretendia o provimento do recurso para que fossesubstituída a custódiapreventiva por domiciliar com fundamento na Recomendação CNJ n. 62/2020, ao qual neguei provimento.
+É firme a jurisprudência do STJ que "a impetração de habeas corpus com objeto idêntico ao de outro remédio constitucional anteriormente impetrado caracteriza indevida reiteração de pedidos, o que impede o conhecimento do writ" (AgRg no HC n. 196.027/MS, relator Ministro Sebastião Reis, DJe de 1º/2/2012).
+Ante o exposto, não conheço do recurso ordinário em habeas corpus interposto por Alex Maicon Silva da Levee julgo prejudicado recurso em relação aos recorrentes Andreilson da Silva Freire, Andrey Jefferson da Silva, Dave Marcos de Araujo eEder Arnold dos Santos.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
