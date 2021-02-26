@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALEXANDRE PEROSA RAVAGNANI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO LOCAÇÃO DE BEM IMÓVEL EMBARGOS À EXECUÇÃO PRELIMINAR DE ILEGITIMIDADE EXPRESSA PREVISÃO DE PRORROGAÇÃO DA GARANTIA EM CONTRATO RESPONSABILIDADE DO FIADOR PELOS DÉBITOS LOCATIVOS ATÉ A EFETIVA ENTREGA DO IMÓVEL LEGITIMIDADE PASSIVA CONFIGURADA ALEGAÇÃO DE EXCESSO DE EXECUÇÃO ART 917 § 4 II DO CPC SENTENÇA MANTIDA RECURSO IMPROVIDO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 786 do CPC, no que concerne à ilegitimidade passiva do fiador, trazendo os seguintes argumentos:
+Conforme se denota das r. decisões proferidas, a D. Câmara Julgadora a quo, entendeu por bem negar provimento ao recurso interposto pelo Recorrente, afastando a ilegitimidade passiva arguida pelo Apelante para responder aos débitos ora cobrados.
+ ..
+O título ao qual pretendem os Recorrentes atribuir exequibilidade, perdeu a validade.
+Isso porque tem vigência expressa de 30 (trinta) meses, com início em 01/03/2016 e término em 31/08/2018.
+Ocorre que, em contrapartida ao tanto exposto, o período do suposto inadimplemento da locatária foi de 10/2018 a 02/2019.
+Logo, a pretensão da presente demanda não está amparada pelo instrumento acostado nos autos, não havendo o que se falar em prosseguimento da presente demanda executiva.
+Nesse sentido, havendo o encerramento do contrato de locação, sem aditivo expressamente pactuado entre todas as partes, não há o que falar em responsabilização do fiador pelos novos termos eventualmente assumidos pela locatária.
+Outrossim, estando encerrado o contrato de locação, ainda que se admita pela responsabilização do fiador, é certo que não mais se pode considerar a renúncia ao benefício de ordem, vez que o pactuado decaiu quando do término de vigência do instrumento.
+Não obstante, ainda que se alegue que a responsabilidade do fiador permanece vigente até a entrega das chaves, é certo que só é cabível tal entendimento se houver cláusula expressa nesse sentido. Vejamos a jurisprudência:
+ ..
+Ao contrário do acima consignado, o contrato de locação objeto da presente expõe em sua cláusula 27 2 (fls. 10) que apenas os locatários respondem pelas obrigações até a efetiva entrega das chaves, não havendo o que se falar em permanência da obrigação do fiador (fls. 139/141).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que o artigo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula nº 284 do STF". (AgInt no REsp n. 1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020.)
+Confiram-se também os seguintes julgados: REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019; AgRg no REsp n. 1.754.394/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/9/2018; AgInt no REsp n. 1.503.675/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/3/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Tendo o recorrente figurado como fiador do contrato de locação (fls. 17/24) firmado entre os recorridos e Ana Laura Perosa Ravagnani, não há se falar em ilegitimidade passiva, visto que o contrato estipula a responsabilidade dos fiadores até a entrega das chaves do imóvel locado (grifos nossos):
+ ..
+Assim, sem que haja nos autos notícia de que o ora apelante tenha se exonerado da obrigação mediante notificação resilitória, nos moldes do disposto no inciso X do artigo 40 da Lei nº 8.245/91, não há que se falar em ilegitimidade passiva para responder aos débitos ora cobrados.
+ ..
+Dessa forma, como mencionado no acórdão, ausente nos autos notícia de que o embargante tenha se exonerado da obrigação mediante notificação resilitória, não há que se falar em ilegitimidade passiva pelos débitos cobrados (fls. 121/132, grifo meu).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
