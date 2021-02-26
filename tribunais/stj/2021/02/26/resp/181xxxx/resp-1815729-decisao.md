@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de recurso especial manejado por Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renovaveis- IBAMA, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 358):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. RECUPERAÇÃO JUDICIAL. INCIDÊNCIA DE JUROS ATÉ A DATA DA DECRETAÇÃO DA RECUPERAÇÃO JUDICIAL. SELIC. CABIMENTO.
+1. A atualização do crédito, mediante incidência de juros de mora e correção monetária, é limitada à data da decretação da Recuperação Judicial. Aplicação analógica dos arts. 9º, II, e 124, da Lei nº 11.101/05. Precedentes do STJ.
+2. Aplicabilidade da taxa SELIC, a teor do estatuído no artigo 13 da Lei n. 9.065/95.
+A parte recorrente aponta violação aos arts. 9º e 124 da Lei 11.101/05. Sustenta, em resumo, que não é cabível a aplicação analógica dos dispositivos tidos como violados nos casos de decretação de recuperação judicial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Com relação aos arts. 9º e 124 da Lei 11.101/05, nota-se que o referido dispositivo legal não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido de que "A Lei sub judice não exclui expressamente o cômputo de juros. Assim, a aplicação de norma por analogia é permitida por ambos os dispositivos mencionados, devendo ser limitada a incidência de juros de mora à data do pedido de recuperação judicial, devendo ser provido o pedido doapelante neste ponto" (fl. 355), de maneira que se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
