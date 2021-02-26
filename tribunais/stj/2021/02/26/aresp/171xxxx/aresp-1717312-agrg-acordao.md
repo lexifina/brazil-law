@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE RECEPTAÇÃO MAJORADA. ENCOMENDAS POSTAIS. COMPROVAÇÃO DAMATERIALIDADE E DA AUTORIA DOLOSA. PROVA SUFICIENTE. IMPOSSIBILIDADE DE REVISÃO. SÚMULA N. 7 DO STJ.AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão da conclusãodo tribunal de origem acerca da comprovação da materialidade e autoria dolosa do delito de receptação majorada (art. 180, § 6º, do Código Penal),por demandar o revolvimento de fatos e provas,é inviável em recurso especial.
+2. "A pretensão de simples reexame de prova não enseja Recurso Especial"(Súmula n. 7 do STJ).
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por CARLOS ALMIR LOPES DA SILVA contra decisão monocrática da Presidência do STJ que conheceu do agravo para não conhecer do recurso especial, aplicando ao casounicamentea Súmula n. 7 do STJ.
+Alega o recorrente o seguinte(fls. 591-591):
+Para a Defensoria Pública da União tal linha de argumentação do Tribunal é vocacionada a ideia de que o acusado não provou a sua inocência, e por isso, a ilegalidade na distribuição do ônus da prova no processo penal: "ainda que o julgador não se convença da inocência do réu, é precisoabsolvê-lo, já que se exige a certeza da sua culpa, em qualquer circunstância. Assim, a ausência de prova direta e suficiente da participação do agente no delito em contraposição às provas apresentadas pela defesa devem levar à conclusão que durante a instrução a acusação não logrou êxito em demonstrar o dolo do agente.
+Sustenta que a alteração do sistema de ônus das provas no processo não é reexame de prova, bem como que, nos termos do art. 386, III e VII, do CPP, é cabível sua absolvição devido à atipicidade da conduta e à insuficiência de provas.
+Requer, ao final, a reconsideração da decisão monocrática ou a submissão do agravo regimental à Turma para apreciação e provimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DELITO DE RECEPTAÇÃO MAJORADA. ENCOMENDAS POSTAIS. COMPROVAÇÃO DAMATERIALIDADE E DA AUTORIA DOLOSA. PROVA SUFICIENTE. IMPOSSIBILIDADE DE REVISÃO. SÚMULA N. 7 DO STJ.AGRAVO REGIMENTAL DESPROVIDO.
+1. A revisão da conclusãodo tribunal de origem acerca da comprovação da materialidade e autoria dolosa do delito de receptação majorada (art. 180, § 6º, do Código Penal),por demandar o revolvimento de fatos e provas,é inviável em recurso especial.
+2. "A pretensão de simples reexame de prova não enseja Recurso Especial"(Súmula n. 7 do STJ).
+3. Agravo regimental desprovido.
+VOTO
+O recurso não merece prosperar.
+Quanto à pretensão de absolvição doagravanteante a alegadaatipicidade da conduta e a insuficiência de provas,o decisum ora atacado dispôs o seguinte (fl. 579):
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A controvérsia posta a deslinde perante este Tribunal está circunscrita à análise do elemento volitivo do réu: a sentença condenatória assenta a presença de dolo, enquanto a defesa aduz que a prova é insuficiente para a condenação, pois a participação do réu nos fatos teria se dado sem o conhecimento da origem criminosa da mercadoria carregada no veículo de propriedade da esposa de CARLOS, que este utilizava para fazer fretes e pequenos carretos (fl. 514)  ..  Ainda, cumpre destacar que a versão apresentada pelo réu CARLOS, além de completamente dissociada dos relatórios e depoimentos dos policiais acerca da evidente proveniência da carga, também se mostra bastante inverossímil.  ..  Consigne-se, por fim, que incide na hipótese a majorante do art. 180, §6º, do Código Penal, pois o réu CARLOS tinha plena consciência de que os objetos por ele ocultados pertenciam à Empresa Brasileira de Correios e Telégrafos, o que, conforme já relatado, era evidenciado pelas etiquetas apostas nas caixas e embalagens (descrição nos autos de apreensão e nas declarações das vítimas e policiais) (fl. 516).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp 1.773.075/SP, Rel. Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, Rel. Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Correta se mostra a decisão agravada, na medida em que, diante do contexto defatos e provasdos autos, chegou-se à conclusão de ser inegável a consumação do delito derecepção,principalmente porque ficaramcomprovadas nos autos a materialidade e a autoria dolosa, porquantoo réu tinha consciência de que os objetos ocultados por ele pertenciam à Empresa Brasileira de Correios e Telégrafos.
+Assim, a revisão do julgado, conforme precedentes já indicados, encontra óbice naSúmula n. 7do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Confiram-se ainda estes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ACORDO DE NÃO PERSECUÇÃO PENAL. IMPOSSIBILIDADE. AUSÊNCIA DE CONFISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADO. ABSOLVIÇÃO POR FALTA DE DOLO, AUSÊNCIA DE PROVAS E INEXIGIBILIDADE DE CONDUTA DIVERSA.INADMISSIBILIDADE. NECESSIDADE DE REEXAME PROBATÓRIO. SÚMULA 7/STJ.AGRAVO IMPROVIDO E PEDIDO INDEFERIDO.
+1. "Apesar da superveniência de norma em tese mais benéfica ao agente (art. 28-A do CPP), a eventual aplicação do acordo de não persecução penal pressupõe o reconhecimento da atenuante da confissão, o que não ocorreu nos autos"(AgRg nos EDcl no REsp 1858428/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 30/06/2020, DJe 04/08/2020).
+2. Não configura negativa de prestação jurisdicional quando o Tribunal de origem decide a controvérsia de forma fundamentada, concluindo de forma contrária aos interesses da defesa.
+3. Tendo a Corte de origem, soberana na apreciação da matéria fático-probatória, concluído que as condutas imputadas ao agravante caracterizam o tipo previsto no art. 2º, II, da Lei 8.137/1990, porque comprovadas a materialidade e autoria do delito, bem como o dolo e afastando a tese de excludente pela inexigibilidade de conduta diversa, não há como, na via eleita, rever tal posicionamento, nos termos da Súmula 7/STJ.
+4. A Terceira Seção do STJ, no julgamento do HC 399.109/SC, em 22/8/2018, consolidou o entendimento segundo o qual a venda de mercadorias com o ICMS embutido no preço sem o pagamento do tributo configura o delito do art. 2º, II, da Lei 8.137/90.
+5. Agravo regimental improvido e pedido incidental indeferido.(AgRg no AREsp n. 1.699.645/SP, relatorMinistro NefiCordeiro, SextaTurma, DJe de 7/12/2020.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 92 DA LEI Nº 8.666/93. DOLO ESPECÍFICO E DANO AO ERÁRIO CONSTATADOS PELO TRIBUNAL DE ORIGEM. PLEITO ABSOLUTÓRIO. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.A jurisprudência desta Corte Superior de Justiça é no sentido de que, para a configuração do delito tipificado no art. 92 da Lei n.8.666/1993, deve-se demonstrar, ao menos em tese, o dolo específico de causar dano ao erário, bem como o efetivo prejuízo causado à administração pública (AgRg no AREsp n. 1.265.657/MT, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 14/5/2019, DJe 20/5/2019). Precedentes.
+2. O Tribunal de origem, com base nas provas colhidas nos autos, concluiu que o recorrente agiu com dolo específico na conduta delitiva e em claro prejuízo ao erário. Rever tais fundamentos, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+3. Agravo regimental não provido.(AgRg no REsp n. 1.883.931/RS, relatorMinistro ReynaldoSoares daFonseca, QuintaTurma, DJe de 29/9/2020.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
