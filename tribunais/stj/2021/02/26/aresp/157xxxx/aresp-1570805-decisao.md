@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado pelo ESTADO DO RIO GRANDE DO SUL, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado:
+PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. NULIDADE DA SENTENÇA. INOCORRÊNCIA.
+Perfeitamente cabível o manejo de exceção de pré-executividade, em torno de ilegitimidade passiva do executado, quando ausentes questões fáticas que reclamem maior indagação probatória.
+Sentença devidamente fundamentada, a afastar alegação de sua nulidade, comportando eventual desacerto decisório a reforma do julgado no exame do tema de mérito.
+TRIBUTÁRIO. ITCD. INVENTÁRIO NEGATIVO. ART. 1.792, CC/02. DOAÇÕES E NULIDADE. NECESSIDADE DE AÇÃO PRÓPRIA.
+Nada transmitindo o de cujus, cujo inventário foi negativo, não se apresenta possível exigir imposto de transmissão mortis causa quanto a um de seus sucessores.
+A suposta nulidade das doações feitas por aquele reclama ação própria, até por envolverem outras pessoas além do apelado, imprópria sua proclamação incidenter tantum.
+No recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, o recorrente sustenta violação dos arts. 3º da Lei n. 6.830/1980; 204 e 301, II, do CTN; e 1.784 do CC aduzindo em seus argumentos o descabimento da exceção de pré-executividade que reconheceu a ilegitimidade passiva do recorrido, pois haveria necessidade de prova do recolhimento dos tributos e a demonstração da regularidade dos negócios jurídicos, ou que se reconheça, desde já, a legitimidade passiva do recorrido para responder pela execução fiscal, na qualidade de herdeiro e sucessor. Consigna a respeito do cabimento do ITCMD no caso dos autos, em decorrência da transmissão dos bens deixados pelo de cujus aos seus herdeiros, sustentando fraudulenta a doação de bens, para evitar o recolhimento do tributo, sendo hipótese do art. 166, III e VI, do CC.
+Contrarrazões a fls. 753-765.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Verifica-se que a Corte de origem acolheu a objeção de pré-executividade para reconhecer a ilegitimidade passiva do recorrido, uma vez que a parte juntou documentação própria, suficiente e adequada para análise da questão, permitindo conhecer a matéria de ofício, não demandando dilação probatória, conforme teor da Súmula 393 do STJ, assim consignado no acórdão a seguinte fundamentação (fls. 723/728):
+A ilegitimidade de figurar no polo passivo da execução é matéria a ser conhecida de ofício pelo juiz nos termos do art. 485, §3º, do CPC razão por que se compreende no teor da Súmula 393 do STJ: A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória.
+Cabível, portanto, a via eleita pelo excipiente.
+ ..
+Então, a exceção, documentalmente instruída, mostrou-se própria e adequada, suficiente essa documentação, outrossim, para suportar o seu acolhimento.
+Nesse passo, inviável a revisão da conclusão firmada, sem o reexame da matéria fática dos autos, o que é vedado no âmbito do recurso especial, por força da Súmula 7/STJ.
+Quanto ao cabimento do recolhimento do ITCMD, o acórdão, confirmando a sentença que extinguiu a execução fiscal, afastou a pretensão do Estado quanto à alegação de nulidade das doações e consignou a ausência de fraude à execução, analisando o contexto fático-probatório, conforme segue (fls. 726-729):
+Exatamente por isso, a apelação torna a pretender a nulidade das doações com reserva de usufruto, itens 2.2.2.1 a 2.2.2.3, fls. 224 a 227, formulando pedido recursal de declaração de nulidade das mesmas, fl. 227v.
+E compreende-se que assim seja, uma vez sabida a regra de não responder herdeiro além das forças da herança, art. 1.792, CC/02.
+Ou seja, se nada foi transmitido, mortis causa, quanto a Plínio Castanho Dutra, nada poderá responder ele, inclusive em relação ao Fisco.
+Por evidente, voltando à massa hereditária bens a ele doados, assim como a outros herdeiros, então, sim, haverá o que responder.
+Mas, tal depende de proclamar-se a nulidade das doações, como corretamente vislumbrado pelo Estado do Rio Grande do Sul e daí o seu pleito a respeito.
+ ..
+Com efeito, questões que podem ser analisadas nos autos da execução, que não são exatamente próprios para a definição de controvérsias - ao contrário até, parte a execução da ideia de prévio acertamento do direito, seja através de sentença, seja de título ao qual a lei atribua eficácia semelhante -, são aquelas demonstráveis objetivamente, mediante documentação adequada, sem necessidade de dilação probatória.
+Nessa esteira, aos efeitos de suportar sua pretensão, o apelado se valeu de escrituras públicas de cessão e transferência dos direitos hereditários, a título gratuito, com reserva de usufruto, bem como do inventário negativo, em razão do qual, com o perdão da redundância, nada recebeu.
+Pois esses elementos, conjugados, conduzem à conclusão, independentemente de considerações outras, da procedência da exceção, cujo insucesso faria letra morta do princípio elementar, e expressamente previsto no CTN, art. 131, II, de que a responsabilidade do sucessor por dívidas da herança não vai além do montante que lhe coube na sucessão. E nada, por conta direta da sucessão, tendo recebido, nada lhe pode ser exigido.
+Então, a exceção, documentalmente instruída, mostrou-se própria e adequada, suficiente essa documentação, outrossim, para suportar o seu acolhimento.
+O inverso acontece com a postura do Estado, que, para sustentar a legitimidade da cobrança, avança na crítica à escritura de cessão de direitos hereditários passada pelo pai do excipiente, apontando vício no plano da sua motivação, que diria com o propósito apenas de contornar o aspecto da falta de pagamento do imposto, então já caracterizada.
+Ora, esse retrato pintado pelo Recorrente, ele, sim, demanda contraditório pleno, com ampla dilação probatória, o que, como afirmado ao início, não se oferece possível nos próprios autos da execução.
+Até porque, como o próprio apelante reconhece na resposta à exceção, não se está diante de caso de fraude à execução, tanto que execução sequer existia quando da doação, havida que foi em janeiro de 2005. Data, bem se vê, anterior mesmo à Lei Complementar 118 (publicada em 9 de fevereiro de 2005, para viger 120 dias após), que, conferindo nova redação ao artigo 185 da Lei das Execuções Fiscais, com o propósito de mais garantir a Fazenda Pública, passou a prever como presumidamente fraudulenta a alienação de bens quando já inscrito o crédito tributário regularmente inscrito como dívida pública.
+Além do mais, mesmo que em vigor estivesse dita Lei Complementar ao tempo da cessão, não havia crédito tributário inscrito quando de sua realização.
+Inviável, assim, modificar as conclusões firmadas pela Corte de origem, no sentido das alegações recursais, sem o reexame dos fatos e das provas dos autos, atividade essa que, no âmbito do recurso especial, sofre a vedação contida na Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do art. 85 do CPC/2015 e eventual Gratuidade da Justiça (art. 98, §3º, CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. OBJEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. HIPÓTESE DA SÚMULA 393/STJ. REVISÃO. SÚMULA 7/STJ. ITCMD. INVENTÁRIO NEGATIVO. DOAÇÃO. AUSÊNCIA DE FRAUDE À EXECUÇÃO. CDA. EXTINÇÃO DA EXECUÇÃO. JUÍZO FIRMADO COM LASTRO NOS FATOS E PROVAS DOS AUTOS. REVISÃO. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
