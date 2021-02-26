@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão daincidência daSúmula 7do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 464):
+APELAÇÃO Ação declaratória Pretensão de concessionária de transmissão de energia elétrica em afastar a exigência de qualquer contraprestação pela utilização de espaço aéreo e faixa de domínio de rodovia Conquanto o recente posicionamento dos Tribunais superiores convirja para possibilidade de cobrança pelo uso de faixa de domínio, há necessidade de previsão contratual específica, bem como de autorização do órgão responsável pela disciplina do regime de concessões de serviços públicos de energia elétrica Situação não verificada na espécie.
+OBRIGAÇÃO DE FAZER Remanejamento de postes e/ou dutos de transmissão de energia elétrica localizados em rodovia estadual Despesas Inviabilidade de se transferir ao réu os custos decorrentes da remoção de linhas de transmissão e distribuição de energia, em razão de mudança de trajeto, duplicação ou qualquer outra alteração na rodovia As despesas decorrentes da realocação de postes, dutos e equipamentos de transmissão são da concessionária responsável pelo fornecimento de energia elétrica Aplicação do art. 175, parágrafo único, inciso IV, da Constituição Federal e art. 6.º, caput e § 1.º, da Lei n.º 8.987/95, que cuidam da obrigação do concessionário ou permissionário em prestar um serviço adequado Precedentes.
+Sentença de parcial procedência mantida Recursos desprovidos.
+Embargos de declaração rejeitados.
+No recurso especial o recorrente alega violação dos arts. 5º, III, e 6º, I e II, ambos do Decreto 84.398/1980, na medida em que, embora "a Constituição Federal (art. 175, parágrafo único, inciso IV) e a Lei 8.987/95 (art. 6º, caput e §1º) digam que o concessionário tem obrigação de prestar um serviço adequado, isso não quer dizer que deva haver transferência de obrigação de uma concessionária de prestação de serviços públicos à outra, como no caso apresentado, onde o r. acórdão propõe que a Autora, ora Recorrente, arque com o ônus decorrente do serviço público prestado pela Recorrida".
+Defende, "o Decreto nº 84.398/80, norma de caráter especial, em consonância com o mandamento constitucional de serviço adequado, determina que, nos casos em que sejam necessárias obras de melhoria das rodovias gerando a modificação do traçado de linhas de transmissão e distribuição de energia elétrica já existente, os custos decorrentes sejam arcados pela empresa concessionária do serviço rodoviário e não pela empresa concessionária de energia".
+Comcontrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Tendo a parte insurgente impugnado ofundamentoda decisão agravada, passo ao exame do recurso especial.
+A Corte de origem, ao apreciar a controvérsia, limitou-se a assentar:
+ ..
+De igual modo, nenhum reparo comporta o r.julgado no tocante à pretensão da autora, consistente em transferir ao réu a obrigação de fazer relativa em ter de arcar com os custos decorrentes da remoção de postes e/ou dutos de transmissão e distribuição de energia, em razão de mudança de trajeto, duplicação ou qualquer outra alteração na rodovia, nos termos do Decreto n.º 84.398/80, arts. 5.º, inciso III, parte final e 6.º, incisos I e II.
+Comefeito, se a concessionária de energia elétrica é beneficiária dos lucros gerados pela sua transmissão, curial que seja responsável pelos riscos e encargos decorrentes, dentre os quais se inserem arcar com as despesas decorrentes da realocação dos postes, dutos e equipamentos, nos termos do art. 175, parágrafo único, inciso IV, da Constituição Federal e art. 6.º, caput e § 1.º, da Lei n.º 8.987/95, que cuidam da obrigação do concessionário ou permissionário em prestar um serviço adequado, in verbis:
+Constituição Federal
+Art. 175. Incumbe ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou permissão, sempre através de licitação, a prestação de serviços públicos.
+Parágrafo único. A lei disporá sobre:
+IV a obrigação de manter serviço adequado.
+Lei n.º 8.987/95
+Art. 6.º Toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários, conforme estabelecido nesta Lei, nas normas pertinentes e no respectivo contrato.
+§ 1.º Serviço adequado é o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas.
+Ora, crível não parece que o responsável pela rodovia, seja ele também um concessionário ou o próprio ente público concedente, tenha de arcar com os custos de realocação dos postes, dutos e/ou equipamentos de transmissão de energia, cuja responsabilidade, por óbvio, pertence à concessionária de energia elétrica, porquanto tais atos estão abrangidos pela locução "serviço adequado", norteadora dos contratos de concessão.
+A despeito da oposição de aclaratórios na origem e da citação dos dispositivos tidos por ofendidos no acórdão recorrido, observa-se que a Corte de origem não apreciou a controvérsa à luz dos arts. 5º, III, e 6º, I e II, ambos do Decreto 84.398/1980, e à tese de especialidade do referido normativo,tendo se limitado a assentar tratar-se de obrigação que se enquadra no conceito de "serviço adequado", contida no art. 175 da Constituição Federal e no art. 6º, § 1º, da Lei 8.987/1995,o que atrai a incidência da Súmula 211/STJ, por ausência de prequestionamento.
+A propósito:
+"PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. VIOLAÇÃO DO ART. 557, § 1º, DO CPC/73. INEXISTÊNCIA. SÚMULAS 282, 356 E 284 DO STF.
+1. Não há de se falar de violação do art. 557, § 1º, do CPC/73 quando o colegiado mantém a decisão por não haver comprovação de efetivo prejuízo da parte.
+2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. A admissibilidade do recurso especial reclama a indicação clara dos dispositivos tidos como violados, bem como a exposição das razões pelas quais o acórdão teria afrontado a cada um deles, não sendo suficiente a mera alegação genérica. Dessa forma, o inconformismo se apresenta deficiente quanto à fundamentação, o que impede a exata compreensão da controvérsia (Súmula 284/STF).
+4. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 461.849/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 05/05/2017).
+Destaque-se que é pacífico no âmbito desta Corte o entendimento segundo o qual, "para se reconhecer o prequestionamentoficto de que trata o art. 1.025do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade ao art. 1.022do CPC/2015  .. " (AgInt no AREsp 1.427.380/PE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 26/9/2019), o que poderia, inclusive, ensejar a supressão de grau facultada pelo referido dispositivo de lei.
+Além do que,a parte não manejou o correspondente recurso extraordinário,tornando preclusa a matéria e inócuo o recurso especial manejado, sendo esse manifestamente inadmissível nos termos da Súmula 126 do STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.AÇÃO ORDINÁRIA. FORNECIMENTO DE MEDICAMENTOS. TRATAMENTO DE SAÚDE.CERCEAMENTO DE DEFESA.REVISÃO. SÚMULA 7/STJ. ACÓRDÃO IMPUGNADO. DUPLOFUNDAMENTO.QUESTÃO CONSTITUCIONAL NÃO INFIRMADA. SÚMULA 126/STJ.
+ ..
+2. A despeito da existência de fundamento constitucional, a parteagravante limitou-se a interpor recurso especial, deixando de interpor oextraordinário, de competência do Supremo Tribunal Federal, o que atrai aincidência da Súmula 126/STJ.
+3. Agravo regimental não provido.(AgRg no REsp 1.441.750/RS, de minha relatoria, Primeira TurmaDJe 19/11/2015).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDDE CIVIL. PRESTAÇÃO DE SERVIÇO PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.ACÓRDÃO QUE CONTÉM FUNDAMENTO CONSTITUCIONAL SUFICIENTE ÀMANUTENÇÃO DO QUE DECIDIDO.MATÉRIA NÃO IMPUGNADA POR RECURSOEXTRAORDINÁRIO. SÚMULA 126/STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
