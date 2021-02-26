@@ -1,0 +1,17 @@
+DECISÃO
+CLAITON DA SILVAalega sofrer coação ilegal em face do Tribunal de Justiça a quo.
+A impetrante se insurge contra a decisão do juízo de primeiro grau que reconheceu a prática de falta grave pelo paciente (violação da zona do monitoramento eletrônico). Assinala que a conduta é atípica, pois não prevista no rol dosarts. 50 a 52 da LEP.
+Requer o afastamento da falta grave.
+Decido.
+A teor do acórdão recorrido (fl. 10):
+ ..  o apenado em prisão domiciliar, ao violar a zona de inclusão do monitoramento eletrônico e não atender ao contato efetuado pela Divisão de Monitoramento Eletrônico, via ligação, mensagem SMS e alerta vibratório, passou à condição de foragido e somente retornou ao cárcere em razão de sua recaptura. A transgressão voluntária e deliberada dos limites impostos à expiação corporal configura fuga, nos termos do art. 50, inc. II, da LEP. A conduta ultrapassa os limites do que se consideraria mero descumprimento das "orientações impostas" consoante previsto no art. 146-C da LEP.
+A não observância das orientações da monitoração eletrônica poderá acarretar - a critério do juiz, ouvidos o Ministério Público e a defesa - a regressão de regime, revogação da autorização da saída temporária, e da prisão domiciliar e advertência (art. 146-C, parágrafo único, da LEP). Ainda, de acordo com o art. 146-D, da LEP, a monitoração poderá ser revogada quando o condenado violar os deveres a que estiver sujeito durante a sua vigência.
+O writ comporta pronta solução, pois existe entendimento majoritáriosobre o tema no âmbito das Turmas que compõem a Terceira Seção. Aplico ao caso o seguinte entendimento:
+ .. O Superior Tribunal de Justiça possui o entendimento de ser taxativo o rol de faltas graves previsto no art. 50 da Lei de Execução Penal, não sendo cabível a realização de interpretação extensiva ou complementar a fim de ampliar o alcance das condutas ali previstas. Precedentes.
+2. In casu, o paciente, durante o cumprimento de pena em regime aberto mediante o uso de tornozeleira eletrônica, violou o perímetro estabelecido como condição do benefício pelo Juízo da execução.
+3. Como houve, ao menos em tese, desrespeito às condições impostas no regime aberto, fato previsto como passível de configurar falta grave, nos termos do art. 50, V, da Lei de Execução Penal, não há falar em constrangimento ilegal  ..
+(HC 481.699/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 12/03/2019, DJe 19/03/2019).
+Conquanto a conduta do apenado não possua equivalência à fuga, ainda assim constitui falta grave, o que impede a concessão da ordem para afastar o registro e sua penalidades,pois:"nos termos do art. 146-C, I, da LEP, o apenado submetido a monitoramento eletrônico tem que observar as condições e limites estabelecidos para deslocamento. Ao violar a zona de monitoramento, o apenado desrespeitou ordem recebida, o que configura a falta grave tipificada no art. 50, VI, c/c o art. 39, V, ambos da LEP" (HC 438.756/RS, rel. Ministro FELIX FISCHER, 5ª T., DJe 11/6/2018).
+Ilustrativamente: "Não se verifica manifesta ilegalidade na regressão de regime prisional, devidamente fundamentada na prática de falta grave, nos termos do art. 50, VI, c/c o 39, V, e 146-C, todos da LEP, tendo em vista o descumprimento reiterado das regras estabelecidas para o monitoramento eletrônico"(RHC 135.013/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 08/02/2021).
+À vista do exposto, denego o habeas corpus, in limine.
+Publique-se e intimem-se.
