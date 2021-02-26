@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça daArgentina solicitaque se proceda a notificações das empresas HOME JUNTERS ASSESSORIA IMOBILIÁRIA E SERVIÇOS LTDA., TIM BRASIL SERVIÇOS E PARTICIPAÇÕES S.A. e ITWPPF BRASIL ADESIVOS LTDA.àapresentação de informações por junta comercial e à realização de perícia contábil em empresa indicada.
+Com relação à Junta Comercial do Estado de São Paulo, a comissão foi cumprida, tendo em vista que foram apresentadas as informações solicitadas às fls. 98-3.494, 3.499 e 3.798, as quais foram complementadas pela Junta Comercial do Estado de Santa Catarina (fls. 3.885-3.954).
+A autoridade central competente foi intimada para indicar os dados da pessoa responsável pelo pagamento das despesas periciais, não tendo havido, contudo, resultado positivo de tal questão procedimental.
+A Defensoria Pública da União, na qualidade de curadora especial, não se opôs à concessão do exequatur com relação às intimações das empresas HOME JUNTERS ASSESSORIA IMOBILIÁRIA E SERVIÇOS LTDA., TIM BRASIL SERVIÇOS E PARTICIPAÇÕES S.A. e ITWPPF BRASIL ADESIVOS LTDA. (fls. 3.818-3.819 e fls. 3.866-3.867).
+O Ministério Público Federal opinou pela concessão da ordem para notificar as interessadas, bem como entendeu que, no tocante ao pleito de realização de perícia contábil nos livros da interessada ITW PPF Brasil Adesivos Ltda., ocorre aimpossibilidade de cumprimento da comissão, porquanto não houve a indicação do responsável pelo pagamento das custas pela realização da referida diligência(fls. 4.037-4.039).
+É, no essencial, o relatório. Decido.
+Inicialmente,cumpre destacar que o Ministério da Justiça enviou à Justiça rogante o pedido para indicar o responsável pelo pagamento de despesas processuais (fls. 4.016-4.025), nos termos do art. 15 do Protocolo de Cooperação e Assistência Jurisdicional em Matéria Civil, Comercial, Trabalhista a Administrativa entre os Estados partes do Mercosul, República da Bolívia e República do Chile, não tendo, no entanto, havido nenhuma resposta a esse respeito.
+Dessarte, indefiro o exequatur para a realização de perícia contábil nos livros da empresa ITW PPF Brasil Adesivos Ltda.
+Com relação aos demais objetos da presente carta rogatória, verifico que nãoatentam contra a soberania nacional, a dignidade da pessoa humana e/ou aordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art.216-P do RISTJ, concedo o exequatur para intimação das empresas interessadas HOME JUNTERS ASSESSORIA IMOBILIÁRIA E SERVIÇOS LTDA., TIM BRASIL SERVIÇOS E PARTICIPAÇÕES S.A. e ITWPPF BRASIL ADESIVOS LTDA.
+Assim, remeta-se a comissão à Justiça Federal, à Seção Judiciária doEstado de São Paulo, para as providências cabíveis.
+Cumpra-se a diligência em 60 dias.
+Após, devolvam-se os autos ao STJ para que sejam enviados ao país deorigem por meio da autoridade central competente.
+Publique-se. Intimem-se.
