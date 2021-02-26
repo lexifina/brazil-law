@@ -1,0 +1,36 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado vislumbrou a incidência da Súmula 182/STJ ao agravo interno, razão pela qual não adentrou o mérito recursal.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Acarita Artefatos Gestão e Informática Eireli, contra acórdão prolatado pela Eg. Primeira Turma, assim ementado (fl. 436):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, todos os fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Como explica ARRUDA ALVIM, "importa ao órgão ad quem saber exatamente os motivos pelos quais as razões da decisão recorrida não são adequadas. Isto é, não basta a manifestação da voluntariedade da insurgência, é fundamental que, aliada à voluntariedade, exista a dialeticidade da irresignação, mediante discurso argumentativo contra a decisão, alinhando as razões de fato e de direito pelas quais entende que a decisão está errada.." (Manual de direito processual civil. 18. ed. São Paulo: Thomson Reuters, 2019, p. 1208).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+A parte embargante, em suas razões, aponta omissão no julgado, tendo em vista que "quando se analisa os pressupostos recursais é preciso levar em consideração também, questões subjetivas que permeiam o processo, bem como o bom direito do embargante, evitando desta forma, a permanência de um formalismo exacerbado, em detrimento da prestação jurisdicional adequada, o que acabaria gerando um cerceamento de defesa da embargante, que teria seu direito de recorrer negado" (fl.448) e "ao simplesmente se limitar a repetir os dizeres proferidos em sede de juízo de admissibilidade, sem ao menos analisar o que foi alegado em sede de agravo em recurso especial, pode causar danos irreparáveis a embargante além de ir de encontro ao que prevê o artigo 5º, XXXV da Constituição. Tal conduta foi omissa e, portanto, merece ser reparada, em observância aos princípios da Inafastabilidade do Controle Jurisdicional, Preservação da Empresa, Razoabilidade e Proporcionalidade." (fl.449).
+Aberta vista à parte embargada (fl.452), decorreu in albis o prazo para impugnação (fl.457).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado vislumbrou a incidência da Súmula 182/STJ ao agravo interno, razão pela qual não adentrou o mérito recursal.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, na hipótese, não se verifica a existência de quaisquer das referidas deficiências.
+No caso, o acórdão embargado foi claro ao expor os fundamentos pelos quais não conheceu do agravo interno da parte ora embargante. Confiram-se, por pertinentes, trechos do julgado hostilizado (fl. 441):
+Da simples leitura do relatório antes realizado, verifica-se que a parte agravante deixou de refutar fundamento suficiente à manutenção da decisão agravada, a saber, a incidência da Súmula 182/STJ à espécie, porquanto não teriam sido impugnados todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, a saber, a aplicação do óbice sumular n. 284/STF, ante a falta de indicação, nas razões de recurso especial, dos dispositivos legais tidos por violados.
+Com efeito, no agravo interno, a ora agravante passou ao largo de tal fundamentação, limitando-se a sustentar, genericamente, a não incidência da Súmula 284/STF no caso dos autos e a reeditar os argumentos expendidos nas razões do recurso inadmitido às fls. 290/305, no qual discorreu acerca dos princípios da inafastabilidade do controle judicial, da legalidade e da proporcionalidade.
+Nesse panorama, aplicável à espécie, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Conforme exposto no relatório do acórdão ora embargado, nas razões de agravo interno, a parte ora embargante não efetuou a impugnação específica do fundamento da decisão agravada que entendeu pela incidência da Súmula 182/STJ, limitando-se a discorrer, genericamente, acerca da não incidência da Súmula 284/STF à hipótese dos autos e sobre os princípios da inafastabilidade do controle judicial, da legalidade e da proporcionalidade. Assim, o agravo interno cuidou simplesmente de defender razões de mérito, deixando de refutar a incidência do óbice sumular 182/STJ no particular, razão pela qual impossível o conhecimento de questões de fundo apresentadas pela parte ora embargante.
+Assim, tem-se, pois, na linha da jurisprudência desta Corte Superior, que "a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015" (EDcl no REsp 1.720.805/RJ, Rel. Ministra Regina Helena Costa, Primeira Seção, julgado em 12/12/2018, DJe 17/12/2018).
+Não há, portanto, qualquer omissão a suprir.
+Em verdade, o que se extrai das razões de embargos de declaração é a mera irresignação da parte com o acórdão ora embargado, objetivando a reforma do decidido, o que, como cediço, não se coaduna com o recurso integrativo.
+Nesse panorama, inexistentes qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+É o voto.
