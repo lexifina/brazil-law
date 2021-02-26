@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de MURILO SIMÕES, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOassim ementado (fl. 13):
+Habeas Corpus. Furto qualificado. Indeferimento de liberdade provisória. Necessidade de garantir a ordem pública. Decisão fundamentada. Inexistência de ilegalidade. Inexistência de circunstâncias pessoais que indiquem a necessidade de soltura do paciente, em razão da pandemia do COVID-19. Excesso de prazo na formação da culpa não caracterizado. Constrangimento ilegal inexistente. Ordem denegada.
+A defesa alega a desnecessidade da prisão e o não preenchimento dos requisitos do art. 312 do CPP para a manutenção da medida.
+Afirma que a audiência de instrução foi agendada apenas para o dia 27/11/2020, 9 meses após a data da prisão, que ocorreu em 3/2/2020.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+O pedido de liminar foi indeferido às fls. 160-162.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fl. 192).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Para a decretação da prisão preventiva, é indispensável a demonstração da existência de prova da materialidade do crime e de indícios suficientes da autoria. Exige-se que, mesmo com lastro probatório, a decisão se ajuste às hipóteses excepcionais previstas abstratamente na norma  (art. 312 do CPP) e que seja comprovada ainda a imprescindibilidade da medida (AgRg no RHC n. 122.247/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+No caso em apreço, a defesa não logrou êxito em afastar osrequisitos acima, porquantoa Corte de origem expôs o seguinte (fl.14):
+O auto de flagrante está em ordem e a r. decisão que converteu a prisão em flagrante em preventiva (fls. 48/51), assim como a que indeferiu a liberdade provisória (fls. 13) estão fundamentadas nas circunstâncias fáticas e não na gravidade abstrata do delito. Destacou-se as circunstâncias do fato e as condições pessoais desfavoráveis do paciente, que é reincidente, e a falta de prova de ocupação lícita. Dessa forma, a custódia é mesmo necessária, considerada a vida pregressa do paciente, a maior probabilidade de tornar a delinquir ou de evadir-se do distrito da culpa, assim frustrando a futura aplicação da lei penal.
+Além disso, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no HC n. 588.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/8/2020)
+Ressalte-se que, em consulta ao sitedo Tribunal de Justiça de São Paulo, verificou-se que já foi realizada a audiência de instrução e julgamento, agendada para novembro de 2020, razão pela qualnão persiste a alegação de excesso de prazo na instrução processual.
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
