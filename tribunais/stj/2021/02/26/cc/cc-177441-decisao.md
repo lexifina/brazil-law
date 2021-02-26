@@ -1,0 +1,11 @@
+DECISÃO
+O JUÍZO DE DIREITO DA 4ª VARA CRIMINAL DE PORTO ALEGRA - RS suscita conflito de competência, em inquérito policial, diante do reconhecimento de incompetência efetivado pelo JUÍZO DE DIREITO DA 1ª VARA CRIMINAL DE CRICIÚMA - SC.
+Cinge-se este incidente processual em saber se a competência para o processo e julgamento de suposto crime de adulteração de sinal identificador de veículo automotor é do local onde apreendido o veículo ou do local onde haveria ocorrido o roubo, já que a adulteração ocorreu em local desconhecido.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja declarado competente o Juízo de Direito da 1ª Vara Criminal de Criciúma - SC, ora suscitado (fls. 78-80).
+Decido.
+Conforme disposto no art. 70 do CPP, a competência será, de regra, determinada pelo lugar em que se consumar a infração, ou, no caso de tentativa, pelo lugar em que for praticado o último ato de execução (v.g. CC n. 171.171/PR, Rel. Ministro Joel Ilan Paciornik, DJe 14/12/2020).
+No caso, como destacou o Juízo suscitante, não é possível aferir qual a localidade em que ocorreu a adulteração do sinal identificador de veículo, que havia sido roubado em outra cidade e cujo autor ainda é desconhecido. A única certeza que se tematé agora- a investigação ainda não foi concluída - é a de que a apreensão do veículo se deu na cidade de Criciúma - SC.
+No particular, assinalou o referido Magistrado: "O que se tem, até o presente momento, é apenas a apreensão do veículo na cidade de Criciúma/SC, não sendo possível definir a competência deste Juízo com base nas informações constantes nos autos. Aliás, quanto ao delito de roubo/furto, sequer autoria foi diagnosticada" (fl. 72).
+Precisas, portanto, as ponderações do Ministério Público Federal, quando pontuou que "o veículo adulterado foi apreendido no município de Criciúma-SC e que não há indícios de que o ilícito tenha se consumado em local diverso, a competência para apreciar os fatos será do local onde se constatou a prática do crime" (fl. 80).
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito da 1ª Vara Criminal de Criciúma - SC, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
