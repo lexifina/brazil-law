@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Reynaldo Soares da Fonseca, Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Felix Fischer e Laurita Vaz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Nefi Cordeiro.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. QUESTÃO DE MÉRITO NÃO ANALISADA. SÚMULA N. 315 DO STJ. PRECEDENTE ORIUNDO DE JULGAMENTO EM HABEAS CORPUS. IMPOSSIBILIDADE.NÃO CUMPRIMENTO DO DISPOSTO NOS ARTS. 1.073, § 3º, DO CPC/2015 E266, § 4º, DORISTJ.FUNDAMENTOS NÃO IMPUGNADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182 DO STJ.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes as alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. A ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+3. Agravo regimental não conhecido.
+RELATÓRIO
+DANIEL FELIPE FERREIRA TAVARES e SILVIO CESAR BARBOSA DE SOUZA interpõem agravo regimental contra a decisãode fls. 908-913, que indeferiu liminarmente os embargos de divergência de fls. 886-901.
+Os arestos indicados para a demonstração da divergência, o REsp n. 191.023/MGe o HC n. 9.063/SP, ambos da Quinta Turma, são, respectivamente, no sentido de que "o princípio do livre convencimento exige fundamentação concreta, vinculada, do ato decisório" e de que a escolha do regime fechado, mesmo em caso de roubo, deve ser concretamente fundamentada.
+Osagravantes afirmam que houve a comparação analítica entre o acórdão embargado e os paradigmas indicadose que estes apreciaram a motivação imprópria ou inidônea de ato decisório, como é o caso em questão.
+Afirmam que a situação de ambosjustificao prosseguimento do apelo especial.
+Requerem o exercício do juízo de retrataçãoou, não sendo esse o entendimento, o conhecimento e provimento do presente recurso.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. QUESTÃO DE MÉRITO NÃO ANALISADA. SÚMULA N. 315 DO STJ. PRECEDENTE ORIUNDO DE JULGAMENTO EM HABEAS CORPUS. IMPOSSIBILIDADE.NÃO CUMPRIMENTO DO DISPOSTO NOS ARTS. 1.073, § 3º, DO CPC/2015 E266, § 4º, DORISTJ.FUNDAMENTOS NÃO IMPUGNADOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182 DO STJ.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes as alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. A ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+3. Agravo regimental não conhecido.
+VOTO
+O agravo não merece conhecimento.
+Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes as alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia (AgRg no RHC n. 126.338/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/9/2020).
+A decisão agravada, ao indeferir liminarmente os embargos de divergência, adotou os seguintes fundamentos (fls. 908-912):
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 7/STJ e da ausência de comprovação do dissídio jurisprudencial. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+ ..
+Mencione-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EAREsp 315.046/SP, relator Ministro Herman Benjamin, Corte Especial, julgado em 5/4/2017, DJe de 25/04/2017; AgInt nos EAg 1357322/DF, relator Ministro Felix Fischer, Corte Especial, julgado em 7/12/2016, DJe de 15/12/2016; EAREsp 559.766/DF, relator Ministro Raul Araújo, Corte Especial, julgado em 24/10/2016, DJe de 22/11/2016; AgInt nos EREsp 1226477/RS, relator Ministro Humberto Martins, Corte Especial, julgado em 19/10/2016, DJe de 26/10/2016.
+Outrossim, verifica-se que a parte embargante apresenta como paradigma julgado proferido em sede de habeas corpus (HC n. 9.063/SP).
+Com efeito, o Superior Tribunal de Justiça firmou entendimento no sentido de que, em sede de embargos de divergência, não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional como habeas corpus, recurso ordinário em habeas corpus, mandado de segurança, recurso ordinário em mandado de segurança, habeas data e mandado de injunção.
+Ressalte-se que mesmo sob a vigência do novo Código de Processo Civil, os arts. 1043, § 1º do CPC e 266, § 1º do Regimento Interno do Superior Tribunal de Justiça delimitaram o confronto de teses jurídicas objeto dos embargos de divergência àquelas decorrentes do julgamento de recursos e ações de competência originária. Não podem, pois, servir como paradigma, os julgados relativos a ações constitucionais.
+ ..
+Por fim, a jurisprudência desta Corte, amparada no art 1.043, § 4º do Código de Processo Civil de 2015 e no art. 266, § 4º do Regimento Interno do Superior Tribunal de Justiça, consolidou-se no sentido de que o recorrente, para comprovar a existência de dissídio em sede de embargos de divergência, deve proceder às seguintes providências: a) juntada de certidões; b) a apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) a citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte.
+Assim, da análise dos autos, verifica-se que a parte, no momento da interposição do recurso, limitou-se a transcrever a ementa e o voto do acórdão paradigma (REsp n. 191.023/MG), deixando de juntar o inteiro teor do aresto, descumprindo, portanto, regra técnica do presente recurso, o que constitui vício substancial insanável.
+Com efeito, a "mera menção ao Diário da Justiça em que teriam sido publicados os acórdãos paradigmas trazidos à colação, sem a indicação da respectiva fonte, quando os julgados encontram-se disponíveis na rede mundial de computadores ou Internet, não supre a exigência da citação do repositório oficial ou autorizado de jurisprudência, uma vez que se trata de órgão de divulgação em que é publicada somente a ementa do acórdão (AgInt nos EAg 1315565/BA, relatora Ministra Assusete Magalhães, Primeira Seção, DJe de 17/4/2018).
+Ademais, ressalte-se que a hipótese dos autos não atrai a incidência do parágrafo único do art. 932 da Lei n. 13.105/2015, uma vez que, nos termos do Enunciado Normativo n. 6: Nos recursos tempestivos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), somente será concedido o prazo previsto no art. 932, parágrafo único c/c o art. 1.029, § 3º, do novo CPC para que a parte sane vício estritamente formal.
+ ..
+Como se vê, não é admissível o recurso de embargos de divergência quando o recorrente não comprova a divergência nos termos do art. 1.043, § 4º do Código de Processo Civil de 2015 e no art. 266, § 4º do Regimento Interno do Superior Tribunal de Justiça.
+Conforme consignado na decisão agravada, os embargos de divergência foram indeferidos liminarmente, em razão do não preenchimento dospressupostos para seu regular processamento.
+No caso, dispôs-se, primeiro, quanto ànão admissão de embargos de divergênciaquando não analisado o mérito do recurso especial, nos termos da Súmula n. 315 do STJ.
+Depois, afirmou-se não ser possível a interposição do recurso com indicação de acórdão proferido em habeas corpuscomo paradigma.
+Por último,constatou-senão ter sido comprovada a divergência jurisprudencial conforme estabelecem os arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ.
+Neste agravo, contudo, de modo genérico, a parte limitou-se a discorrer sobre a existência de divergência em relação ao mérito da controvérsia, com base nos precedentes colacionados e objeto do dissídio, que, no seu entender, seriam aplicáveis ao caso concreto.
+Assim, a ausência de impugnação dos fundamentos da decisão recorrida atrai, por analogia, a incidência da Súmula n. 182 do STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão gravada").
+Ante o exposto, não conheço do agravo regimental.
+É o voto.
