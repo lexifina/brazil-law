@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de petição de e-STJ fls. 193/202, em que o requerente alega o descumprimento da decisão proferida por esta Corte Superior a respeito do redimensionamento de suareprimenda.
+Contudo, não merece razão o requerente.
+In casu, colhe-se do acórdão impugnado (e-STJ fls. 198/201):
+Impõe-se um ajuste na dosimetria das penas.
+Com efeito, não pode prevalecer, na primeira fase, o acréscimo da pena-base, tendo em vista que a quantidade de droga apreendida, pois como se verá, servirá de lastro para a negativa de incidência da causa especial de diminuição de pena.
+Assim, as penas de partida devem retornar ao patamar mínimo de 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no valor unitário mínimo.
+Fixada a básica no piso, não poderá sofrer redução aquém do mínimo legal, em razão da atenuante da confissão, ex vi da Súmula nº 231, do E. Superior Tribunal de Justiça.
+Na terceira etapa do cálculo, presente a causa de aumento de pena do art. 40, inc. III, da Lei de Drogas, a reprimenda é majorada em 1/6 (um sexto), resultando em 05 (cinco) anos e 10 (dez) meses de reclusão e pagamento de 583 (quinhentos e oitenta e três) dias-multa.
+Incabível, outrossim, a aplicação do redutor previsto no §4º, do art. 33, da Lei de Tóxicos. Há sinais reveladores de que os apelantes integravam organização criminosa, porque obviamente nenhum pequeno traficante consegue ter a seu dispor toda aquela quantidade de entorpecentes (216,4 g de "Skank", 1539,66 g de maconha, 124,2 g de "crack", 364,19 g de cocaína e 377,55 g desta mesma droga fls. 21/23) sem prévia vinculação a uma estrutura organizada em torno do comércio espúrio.
+Registre-se, por oportuno, que mesmo realizada a nova dosimetria da pena, conforme determinado pelo C. Superior Tribunal de Justiça, não houve reflexos na quantidade de reprimenda outrora aplicada (05 anos e 10 meses de reclusão e 583 dias-multa).
+Observados o quantum da pena e as circunstâncias do caso, não há possibilidade de substituição da sanção corporal por penas restritivas de direitos, visto que elas se mostram, na hipótese, insuficientes para dar uma resposta adequada ao delito praticado pelo réu.
+Quanto ao regime prisional, demanutenção da modalidade fechada, pois embora se trate de réu primário, há que se ter em conta a quantidade de entorpecente apreendido na ocasião, também a hediondez do delito de tráfico de drogas circunstâncias que demandam rigorosa resposta penal do Poder Judiciário, ante a grave lesão que causa à saúde pública, além da intranquilidade e insegurança que traz para a sociedade atual.
+Ademais, somente o regime fechado se mostra suficiente para a prevenção da prática de crimes e reprovação de conduta criminosa, aspectos que norteiam também a fixação do regime prisional, artigo 59, inciso III, do Código Penal.
+Assim, inexiste qualquer ilegalidade em se fixar o regime mais gravoso para início do cumprimento da privativa de liberdade em delitos envolvendo o tráfico de drogas, não causando ofensa às Súmulas 718 e 719 do E. STF e 440 do STJ, uma vez que os fatos e circunstâncias do caso em concreto não recomendam a adoção de regime prisional mais brando, sobretudo para não criar afrouxamento excessivo e intolerável estímulo ao criminoso, fazendo crescer em seu espírito a equivocada sensação de ilusória impunidade.
+Fica desta forma mantido o regime fechado para cumprimento da pena privativa de liberdade.
+Isso posto, reelaborado o cálculo dosimétrico a partir das premissas contidas no acórdão emanado do C. Superior Tribunal de Justiça, a pena manteve-se em 05 (cinco) anos 10 (dez)meses de reclusão e pagamento de 583 (quinhentos e oitenta e três) dias-multa, preservado o regime fechado para seu cumprimento. (Grifei.)
+Na presente hipótese, verifico que, ao contrário do que foi alegado pelo requerente, houve o redimensionamento da reprimenda, deixando de ser a quantidade de droga considerada para fins de exasperação da pena-base, sendo considerada somente na terceira fase paraafastar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Desse modo, indefiro o pedido.
+Publique-se. Intimem-se.
