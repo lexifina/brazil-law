@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de DIEGO RODRIGUES apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n.º 2075021-50.2020.8.26.0000).
+O paciente foi condenado ao cumprimento da pena de 06 (seis) meses de detenção, em regime prisional inicial semiaberto, 02 (dois) meses de suspensão da habilitação para dirigir veículo automotor, bem como ao pagamento de 10 (dez) dias-multa, em virtude da prática do crime previsto no art. 306 do Código de Trânsito Brasileiro.
+O impetrante projeta receio hipotético de que o paciente possa, eventualmente, ser colocado em regime inicial de cumprimento de pena incompatível com o fixado no édito condenatório.
+Requer, liminarmente, que seja suspenso o respectivo Mandado de Prisão até que seja providenciada a vaga. No mérito, requer a concessão da ordem para tornar definitiva a medida, a fim de que seja oficiado à Secretaria de Assuntos Penitenciários do Estado de São Paulo, requisitando vaga para o paciente em estabelecimento prisional compatível com o regime prisional semiaberto, mantendo-se a suspensão do respectivo mandado de prisão até que lhe seja disponibilizada a referida vaga, ou, ao menos, que o paciente possa aguardar a referida vaga em regime prisional aberto ou em prisão domiciliar.
+A liminar foi indeferida.
+Prestadas as informações.
+O Ministério Público Federal manifestou-se pelo não conhecimento da ordem, e, caso conhecida, pela denegação.
+Em consulta ao andamento processual, verifica-se que o mandado foi devolvido sem cumprimento em 3/11/2020, sendo em seguida realizada a inscrição em dívida ativa (taxa judiciária).
+É o relatório.
+Decido.
+Consta dos autos que, após o trânsito em julgado da sentença condenatória, foi expedido mandado de prisão em 27/11/2019 (fl. 30-31), para início do cumprimento da pena imposta.
+A defesa requereu a expedição de ofício à Secretaria de Assuntos Penitenciários do Estado de São Paulo a fim de requisitar vaga em estabelecimento prisional compatível.
+Contudo o Juízo a quo indeferiu o pedido, em 2/12/2019, com base nos seguintes argumentos (fl. 33):
+Segundo a Lei das Execuções Penais, primeiro, deve ser expedido mandado de prisão; após o seu cumprimento, com a expedição de guia de recolhimento, será disponibilizada vaga no regime compatível com a sentença.
+A defesa impetrou habeas corpus ao Tribunal de Justiça do Estado de São Paulo, que foi denegado, em acórdão assim ementado (fl. 101-102):
+Habeas corpus com pedido liminar Embriaguez ao volante Impetração visando a expedição de ofício à SAP requisitando vaga em estabelecimento prisional compatível com o regime prisional fixado no título executivo - Receio de eventual e improvável equívoco inclusão no regime fechado insuficiente para configurar o constrangimento ilegal - Mandado de prisão pendente de cumprimento Inexistência de qualquer perspectiva fundada em fatos concretos a ensejar a ilegalidade ou coação em razão da falta de vaga no regime adequado Mandado de prisão que deverá ser cumprido e após expedição de guia de recolhimento, a vaga será disponibilizada no regime compatível com a sentença condenatória - Inexistência de constrangimento ilegal - Ordem denegada.
+No voto condutor do acórdão, restou consignado que (fl. 101-102):
+Inviável a concessão da presente ordem de habeas corpus, já que não se mostra manifesto o constrangimento ilegal que estaria a sofrer o paciente. Segundo informações prestadas pela autoridade coatora, o paciente foi condenado definitivamente por infração ao art. 306 do CTB, à pena de 06 (seis) meses de detenção, em regime inicial semiaberto, mais o pagamento de 10 (dez) dias-multa, no patamar mínimo, e 02 (dois) meses de suspensão da habilitação para dirigir veículo automotor.
+Transitado em julgado, foi expedido mandado de prisão em 27.11.2019 (fls. 28) e segundo verificado no andamento do processo, o mesmo está pendente de cumprimento.
+Na r. decisão recorrida, o MM. Juiz assim dispôs: "Segundo a Lei das Execuções Penais, primeiro, deve ser expedido mandado de prisão; após o seu cumprimento, com a expedição de guia de recolhimento, será disponibilizada vaga no regime compatível com a sentença.." (fls. 29). Assim, verifica-se que a r. decisão de fls. 29 está correta, pois constou devidamente no mandado de prisão o regime inicial de cumprimento de pena, como fixado na condenação, não se vislumbrando qualquer ilegalidade ou cerceio à liberdade do paciente.
+A ordem vigente é de que o paciente inicie o cumprimento de sua pena, após sua prisão, em regime semiaberto, como estabelecido na sentença condenatória, não sendo possível, prever de plano, se o paciente virá a ser preso em estabelecimento destinado ao regime fechado, por eventual futura falta de vagas.
+Em verdade, a defesa se situa no campo da hipótese futura, o que não é possível. Decerto, o receio de eventual e improvável equívoco inclusão no regime fechado não basta para configurar o constrangimento ilegal sustentado na inicial da impetração do habeas corpus. O mandado de prisão deve ser cumprido e só assim, após a prisão do paciente, é que se poderá falar em eventual constrangimento ilegal pela falta de vaga no regime semiaberto.
+Nesse sentido, concluiu o Tribunal de origem que, nos limites do habeas corpus, não se verificava constrangimento ilegal, na medida em que consta devidamente no mandado de prisão o regime inicial de cumprimento de pena, como fixado na condenação, não se vislumbrando qualquer ilegalidade ou cerceio à liberdade do paciente.
+Não se olvida que, de fato, já tendo ocorrido trânsito em julgado da decisão condenatória, deve ser observado o regime inicial de pena estabelecido pelo juiz na sentença.
+A submissão do condenado, pelo Juízo das Execuções, aos rigores de regime prisional mais gravoso que o fixado na sentença caracteriza constrangimento ilegal, reparável pela via do habeas corpus. Nesse sentido: (RHC 53087 / SP, Relator(a) Ministro GURGEL DE FARIA, QUINTA TURMA, Data da Publicação/Fonte: DJe 07/04/2015)
+Todavia, no caso dos autos, verifica-se que se trata de receio da defesa de que haja eventual equívoco na inclusão do paciente em regime fechado.
+Ocorre que o paciente deve iniciar o cumprimento de sua pena, após sua prisão, em regime semiaberto, como estabelecido na sentença condenatória, não sendo possível, prever, de plano, se o paciente virá a ser preso em estabelecimento destinado ao regime fechado, por eventual futura falta de vagas.
+Assim, somente no caso de o mandado de prisão ser cumprido é que se poderia configurar eventual constrangimento ilegal pela falta de vaga no regime semiaberto.
+Inexistem, portanto, ilegalidades a serem reparadas.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
