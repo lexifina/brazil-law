@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por TAURUS DISTRIBUIDORA DE PETRÓLEO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO - PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE - AFASTADA.
+I) Apontados pela agravante os motivos de seu inconformismo, contrapondo-os com os fundamentos lançados na decisão vergastada, não se verifica ofensa ao princípio da dialeticidade.
+II) Preliminar afastada.
+MÉRITO - INDEFERIMENTO DE PROVA PERICIAL - PROVA DESNECESSÁRIA PARA A SOLUÇÃO DA LIDE - DECISÃO MANTIDA - RECURSO IMPROVIDO.
+I) Não há cerceamento de defesa quando a parte requer a produção de prova desnecessária para a solução da lide.
+II) Decisão mantida. Recurso improvido. (fls. 70).
+Quanto à controvérsia apresentada, pelas alíneas "a" e "c" do permissivo constitucional, alega violação dos arts. 369 e 370, do CPC, bem como dissídio jurisprudencial, no que concerne ao cerceamento do direito de defesa, por ter o juízo a quo indeferido a produção da prova pericial contábil, traz o(s) seguinte(s) argumento(s):
+(..) como restou demonstrado no histórico dos autos, a realização da prova pericial se mostra extremamente útil e necessária ao deslinde do feito, tendo em vista a natureza da demanda, bem como somente pelo deferimento da perícia contábil, poderá a empresa recorrente comprovar, através dos livros contábeis das empresas, as entradas e saídas realizadas, no intuito de demonstrar que a empresa recorrida adquiriu os produtos da empresa recorrente.
+ ..
+Verifica-se, pelos dispositivos processuais acima elencados, que as partes podem requerer quaisquer provas legais que sejam necessárias para a resolução do mérito, estes não podem ser indeferidos por conta de suposta violação ao princípio da economia, efetividade ou duração do processo, como mencionado pelo Desembargador Relator, tendo em vista que o indeferimento da prova geraria insegurança jurídica, além de evidente cerceamento de defesa e risco de nulidade do julgamento, o que deve ser evitado. (fls. 82-83).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, pela alínea "a" do permissivo constitucional, o Tribunal de origem se manifestou nos seguintes termos:
+Conforme entendimento esposado em primeiro grau, observo que a realização da perícia pleiteada é absolutamente desnecessária para aferição da situação narrada.
+No caso, a ação monitória tem por desiderato a cobrança de valores estabelecidos em Notas Fiscais/Faturas de Seviços firmadas em razão de Contrato de Prestação de Serviços de Gerenciamento do Fornecimento de Combustível, Óleo Lubrificante e Outros Serviços, estando, portanto, o débito firmado em prova documental.
+Dentro desta perspectiva, ao contrário do que alega a agravante, para a elucidação do ponto controvertido mencionado não há necessidade da produção de prova contábil para aferir o valor do débito pleiteado. (fls. 73).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
