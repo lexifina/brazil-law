@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Jossimaelton Batista de Assis Borges, em que se aponta como autoridade coatora a Décima Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos (Processo n. 0006232-52.2020.8.26.0996) que foi proferida decisão, pelo Juízo de Execução Criminal DEECRIM 5ª RAJ, reconhecendo a falta grave praticada pelo paciente, que teve como consequência a perda de 1/3 dos dias remidos e a remir, para progressão de regime, anteriores à data dessa falta disciplinar (fls. 94/96).
+Em sede de agravo em Execução Penal, a defesa alegou inexistirem provas para o reconhecimento da falta gravee que os depoimentos dos policiais não se mostram suficientes para tal interrupção de contagem de tempo, uma vez que o laudo toxicológico deu negativo. A Décima Câmara Criminal do Tribunal de Justiça de São Paulo negou provimento ao recurso, mantendoo reconhecimento da falta grave cometida pelo paciente e determinando a interrupção do prazo para progressão de regime e a perda de 1/3 dos dias remidos(fls. 105/108).
+No presente writ, a defesa alega que não há prova da materialidade da falta grave, decorrente da tentativa de ingressar no estabelecimento prisional com entorpecente, devido à ausência de laudo toxicológico.Afirma que o laudo toxicológico deu negativo, ou seja, não houve detecção de droga (fls. 3/6).
+Parecer ministerial opinando pela concessão da ordem (fls. 136/137).
+É o relatório.
+Bem como colocado no parecer ministerial, aCorte local manteve o reconhecimento da falta grave pelo Juízo de origem, reconhecendo como suficientes osdepoimentos dos funcionários do estabelecimento prisional, no sentido de que,por ocasião da revista de entrada para visita no estabelecimento prisional, a companheira do agravante trazia em sua calça duas porções de droga conhecida como K4, contexto no qual tipificada falta grave prevista no art.52da Lei de Execução Penal,independentemente da comprovação da materialidade por meio de laudo toxicológico. No entanto, razão assiste à defesa e está configurado o constrangimento ilegal ao paciente, como verificado noprecedentedesta Corte Superior:
+ ..
+II - A jurisprudência desta Corte Superior firmou-se no sentido deque é imprescindível a elaboração de laudo toxicológico para o reconhecimento da falta grave decorrente da prática de tráfico de drogas ou de posse de substância entorpecente, não podendo o exame pericial ser suprido por outros meios de prova, nem mesmo pela confissão do apenado. Precedentes.
+III - In casu, o eg. Tribunal a quo, ratificando o reconhecimento da falta grave pelo d. Juízo de origem, consignou que "a alegada ausência de laudo de exame toxicológico da droga apreendida não enseja, por si só, a desconstituição da falta disciplinar, tendo em vista que a sindicância instaurada no âmbito administrativo não possui as mesmas formalidades exigidas no processo judicial" (fl.53). Verifica-se, pois, que as decisões proferidas pelas instâncias ordinárias estão em desacordo com a jurisprudência deste Tribunal Superior, sendo indevido, no ponto, o reconhecimento da falta grave imputada ao paciente.
+IV - Habeas corpus não conhecido. Ordem concedida, de ofício, para afastar o reconhecimento da falta grave decorrente da conduta praticada em 18/2/2019, bem como os efeitos dela decorrentes, sem prejuízo da juntada posterior do laudo toxicológico enquanto não operada a prescrição para a apuração da infração disciplinar.
+ ..
+(HC n. 546.287/SP,Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE),Quinta Turma, DJe 19/12/2019)
+Ante o exposto, concedo a ordem para anular a decisão que reconheceu a falta grave (fls. 94/96)e absolver o paciente da falta disciplinar a ele imputada.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. RECONHECIMENTO DE FALTA GRAVE COM BASE EM DEPOIMENTOS. CONSTRANGIMENTO ILEGAL. IMPRESCINDÍVEL A REALIZAÇÃO DE LAUDO TOXICOLÓGICO. PRECEDENTE DESTA CORTE SUPERIOR. PARECER MINISTERIAL FAVORÁVEL.
+Ordem concedida nos termos do dispositivo.
