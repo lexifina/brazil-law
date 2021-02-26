@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejadopor Antenógenes Romualdo Gehrke e outros contra decisão que negou provimento ao recurso especial.
+Inconformados, os agravantes alegam que a decisão merece ser reconsiderada, por entender que o acórdão recorrido incorreu em violação do art. 535 do CPC/1973, ao deixar de se pronunciar quanto ao termo final da incidência do índice de 3,17%, em ressaltar que, com o advento da Lei n. 9.030/1995, " ..  tão somente fixa a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia e assessoramento, NÃO se configurando reestruturação ou reorganização da carreira do INSS, nem reajuste dos valores da retribuição dos cargos em comissão e funções gratificadas, como prevê o artigo 10 da MP 2225-45/2001" (e-STJ, fl. 1.542).
+Asseveram, de outra parte, que não há possibilidade de se limitar o pagamento das diferenças oriundas do reajuste de 3,17% ao advento da Lei n. 9.030/1995, em face do disposto no art. 10 da MP 2.225-45/2001, pois aquela norma não procedeu à reorganização ou à reestruturação dos cargos ou da carreira.
+Defendem a incidência do reajuste de 3,17% sobre todas as parcelas remuneratórias recebidas, afastando-se a limitação da aplicação dos 3,17% sobre as rubricas de funções comissionadas e gratificadas a março de 1995.
+Apontam, ainda, que tal restrição não constou no título executivo judicial, indo de encontro à coisa julgada.
+Sem impugnação ao agravo interno (e-STJ, fl. 1.564).
+É o relatório.
+No caso em questão, a Corte de origem assim se pronunciou (e-STJ, fl. 1.273):
+Da base de cálculo - cargos em comissão / funções gratificadas.
+A Lei nº 9.030/95 estabeleceu novos valores de vencimento dos cargos em comissão e das funções gratificadas, fixando-os em expressão monetária no próprio texto da lei, desvinculados do vencimento básico, com reajustes superiores aos 3,17% e efeitos retroativos a 1º de março de 1995.
+Assim, em relação aos cargos em comissão e funções gratificadas cujos valores foram alterados pela Lei nº 9.030/95, o reajuste de 3,17% somente deve incidir até fevereiro de 1995, visto que, a partir de 1º de março, aquelas verbas passaram a ser pagas com a observância dos novos patamares.
+ ..
+Cumpre registrar, por fim, que não se está vedando a incidência do índice de 3,17% sobre tais rubricas, mas apenas estabelecendo uma limitação temporal ao reajuste, em face da implantação de uma nova estrutura remuneratória, desvinculada da anterior.
+O entendimento externado pela Corte de origem está em confronto com a orientação do Superior Tribunal de Justiça de que "a Lei n. 9.030/95 não representou reestruturação ou reorganização de carreira, pois tão somente tratou da remuneração de cargos em comissão de natureza especial e das funções comissionadas e, por via de consequência, não pode ser considerada como dies ad quem para o pagamento do índice de 3,17%" (AgInt no REsp 1.566.379/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 13/8/2018).
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. REAJUSTE DE 3, 17%. LEI 9.030/1995. REESTRUTURAÇÃO DA CARREIRA. NÃO OCORRÊNCIA. INVERSÃO DOS ÔNUS SUCUMBENCIAIS. OMISSÃO CONFIGURADA.
+1. Hipótese em que foi dado provimento ao recurso da agravante, uma vez que está pacificado no Superior Tribunal de Justiça o entendimento de que o termo final do pagamento dos valores devidos a título de reajuste de 3,17% se opera ou na data da reestruturação/reorganização da carreira, nos termos do art. 10 da Medida Provisória 2.225/2001; ou em 1.º/01/2002, para as carreiras que não foram reestruturadas/reorganizadas até essa data, consoante previsão do art. 9.º da mencionada medida provisória. A Lei 9.030/1995, entretanto, a qual apenas fixou "a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia ou assessoramento", conforme pacífico entendimento desta Corte, não teve o condão de reestruturar ou reorganizar as carreiras. Neste passo, a entrada em vigor dessa lei não constituiu termo final para a incidência do resíduo de 3,17%.
+2. Acolhida a pretensão externada no Recurso Especial, invertem-se os ônus sucumbenciais.
+3. Agravo Regimental provido para, em integração à decisão agravada, inverter os ônus de sucumbência nos termos fixados na origem.
+(AgRg no REsp 1.577.678/PR, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/4/2016, DJe 27/5/2016.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. EMBARGOS. RESÍDUO DE 3,17%. LIMITAÇÃO TEMPORAL. BASE DE INCIDÊNCIA. FUNÇÕES GRATIFICADAS E CARGOS EM COMISSÃO. LEI N. 9.030/95. AUSÊNCIA DE ALTERAÇÃO OU REESTRUTURAÇÃO DE CARGOS OU DE CARREIRA. ART. 9º DA MP N. 2.225/2001.
+1. A jurisprudência do STJ reconhece que a limitação temporal prevista no art. 10 da Medida Provisória 2.225-45/2001 não afronta a coisa julgada, podendo ser arguida em sede de embargos à execução.
+2. Esta Corte Superior de Justiça consolidou a orientação no sentido de que o termo final do pagamento dos valores devidos a título do reajuste de 3,17% opera-se na data da reestruturação/reorganização da carreira, nos termos do art. 10 da Medida Provisória 2.225/2001; ou em 1º/1/2002, para as carreiras que não foram reestruturadas/reorganizadas até essa data, a teor do art. 9º da mencionada medida provisória.
+3. A Lei n. 9.030/95, que fixa a remuneração de cargos em comissão e de natureza especial e das funções de direção, chefia e assessoramento, não reestruturou ou reorganizou carreiras, de modo que não tem a faculdade de dar cabo à incidência do resíduo de 3, 17%.
+Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1.523.151/RS, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 22/9/2015, DJe 30/9/2015.)
+Ante o exposto, conheço do agravo interno para reconsiderar a decisão impugnada e, consequentemente, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, e na Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação, para que afastar a limitação imposta pelo Tribunal de origem, por não existir a reestruturação ou reorganização da carreira pela Lei n. 9.030/1995.
+Afasto, igualmente, a sucumbência recíproca, para condenar a parte vencida em R$ 5.000,00 (cinco mil reais) a título de honorários advocatícios, na forma do art. 20, 4º, do CPC/1973.
+Publique-se. Intimem-se.
