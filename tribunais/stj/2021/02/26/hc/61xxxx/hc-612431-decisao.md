@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de JULIANO PEREIRA LOPES contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do Agravo de Execução Penal nº 0003623-44.2020.8.26.0496, assim ementado:
+"AGRAVO EM EXECUÇÃO  Retificação de cálculos  Sentenciado reincidente, ostentado condenação por delito equiparado a hediondo  Benesse da progressão de regime a exigir o cumprimento de 3/5 (60%), mesmo na novel legislação  Inexistência de distinção entre a reincidência específica e a genérica  Agravo desprovido" (fl. 154)
+Insurge a defesa, nessa impetração, alegando que com a alteração do artigo 112 da Lei de Execução Penal, passou-se "a permitir expressamente a concessão de livramento condicional e alterara os lapsos para progressão de regime para condenado ainda que reincidente específico em crime de natureza hediondo" (fl. 4). Assim, deveria ser aplicado a lei mais benéfica em favor do paciente, tendo em vista novatio legis in mellius.
+Deste modo, requer, em liminar e no mérito, que seja aplicada a lei penal mais benéfica com a retificação dos cálculos.
+Medida liminar indeferida conforme decisão de fls. 174/175.
+Parecer ministerial de fls. 286/291 pelo não conhecimento da impetração.
+É o relatório.
+Decido.
+Em recente mudança, esta egrégia Quinta Turma, por unanimidade de votos, no julgamento do HC 613.268/SP, fixou orientação jurisprudencial no sentido de que não há como aplicar de forma extensiva e prejudicial aos reincidentes genéricos o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+Confira-se a ementa do aludido julgado:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIA INADEQUADA. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM (FURTO QUALIFICADO). HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. ORIENTAÇÃO REVISTA. AGRAVO REGIMENTAL PROVIDO. CONCESSÃO DE HC DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Firmou-se nesta Superior Corte o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90. Precedentes.
+3. Com a entrada em vigor da Lei 13.964/19 - Pacote Anticrime-, foi revogado expressamente o art. 2º, §2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+4. A nova redação dada ao art. 112 da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos e específicos para cada grupo, a depender especialmente da natureza do delito.
+5. No caso, o paciente foi sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pelo crime de furto qualificado (delito comum).
+Para tal hipótese, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+6. Em direito penal não é permitido o uso de interpretação extensiva, para prejudicar o réu, devendo a integração da norma se operar mediante a analogia in bonam partem.
+Princípios aplicáveis: Legalidade das penas, Retroatividade benéfica e in dubio pro reo.
+- A lei penal deve ser interpretada restritivamente quando prejudicial ao réu, e extensivamente no caso contrário (favorablia sunt amplianda, odiosa restringenda) - in NÉLSON HUNGRIA, Comentários ao Código Penal, v. I, t.I, p. 86.
+Doutrina: HUMBERTO BARRIONUEVO FABRETTI e GIANPAOLO POGGIO SMANIO, Comentário ao Pacote Anticrime, Ed. Atlas, 2020; RENATO BRASILEIRO DE LIMA. Pacote Anticrime: Comentários à Lei 13.964/19, Ed. JusPodium, 2020; PAULO QUEIROZ, A nova progressão de regime - Lei 13.964/2019, https://www.pauloqueiroz.net; ROGÉRIO SANCHES CUNHA, Pacote Anticrime: Lei n. 13.964/2019 - Comentários às alterações no CP, CPP e LEP. Salvador: Editora JusPodvim, 2020; e PEDRO TENÓRIO SOARES VIEIRA TAVARES e ESTÁCIO LUIZ GAMA LIMA NETTO; NETTO LIMA, Pacote Anticrime: As modificações no sistema de justiça criminal brasileiro. e-book, 2020.
+Precedentes: HC n 581.315/PR, Rel. Min. SEBASTIÃO REIS JÚNIOR e HC n. 607.190/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, ambos julgados em 06/10/2020.
+7. Agravo regimental provido, concedendo habeas corpus de ofício para que se opere a transferência do paciente a regime menos rigoroso com a observância, quanto ao requisito objetivo, do cumprimento de 40% da pena privativa de liberdade a que condenado, salvo se cometida falta grave."
+(AgRg no HC 613.268/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/12/2020, DJe 15/12/2020)
+Contudo, a presente hipótese se mostra diversa, porquanto, segundo consignado no acórdão impugnado o ora paciente é reincidente específico em crime equiparado a hediondo (anterior e posterior de tráfico de drogas). Desse modo, deve ser mantido o patamar de 60%, nos termos do art. 112, VII, da Lei de Execução Penal.
+Acresça-se que a desconstituição das premissas fáticas do julgado demandaria o revolvimento do conjunto fático-probatório, inadmissível pela via do writ.
+Ante o exposto, não conheço da impetração.
+Publique-se.
+Intime-se.
