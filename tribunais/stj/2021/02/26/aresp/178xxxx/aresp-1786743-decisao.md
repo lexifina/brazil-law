@@ -1,0 +1,69 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo, interposto por JUAREZ FERREIRA BUENO,contra decisão do Tribunal de Justiça do Estado do Paranáque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 309):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO REIVINDICATÓRIA E INTERDITOPROIBITÓRIO - JULGAMENTO CONJUNTO - SENTENÇA DE PROCEDÊNCIA DA DEMANDA REIVINDICATÓRIA E IMPROCEDÊNCIA DA POSSESSÓRIA - IRRESIGNAÇÃO DO OCUPANTE DO IMÓVEL - USUCAPIÃO COMO MATÉRIA DEDEFESA - NÃO ACOLHIDA - AUSÊNCIA DE COMPROVAÇÃO DO LAPSO TEMPORAL NECESSÁRIO -ATENDIMENTO DOS REQUISITOS NECESSÁRIOS À PRETENSÃO REIVINDICATÓRIA - EXIGÊNCIA LEGAL DE COMPROVAÇÃO DO DOMÍNIO, INDIVIDUALIZAÇÃO DO BEM E EXERCÍCIO DE POSSE INJUSTA PELO REQUERIDO - ART. 1.228 DO CÓDIGO CIVIL - CÓPIA DA MATRÍCULA QUE APONTA A AUTORA COMO PROPRIETÁRIA REGISTRAL DO IMÓVEL - BEM IMÓVEL INDIVIDUALIZADO - POSSE EXERCIDA PELO DEMANDADO QUE DECORRE DE INJUSTO TÍTULO - CONTRATO DE DOAÇÃO CELEBRADO COM QUEM, DECLARADAMENTE, NÃO ERA PROPRIETÁRIO DO IMÓVEL - EXERCÍCIO DE POSSE INJUSTA DEMONSTRADO - PRESENÇA DE TODOS OSREQUISITOS NECESSÁRIOS AO AJUIZAMENTO DA PRETENSÃO REIVINDICATÓRIA - INDENIZAÇÃO POR BENFEITORIAS - PRETENSÃO REJEITADA - CONSTRUÇÕES QUE SE TRATAM, EM VERDADE, DE ACESSÕES - INDENIZAÇÃO QUE SOMENTE É DEVIDA CASO A CONSTRUÇÃO TENHA SEDADO DE BOA-FÉ, NOS TERMOS DO ARTIGO 1.255 DO CÓDIGO CIVIL - CASO DOS AUTOS EM QUE RESTOU COMPROVADA A MÁ-FÉ DO APELANTE - EDIFICAÇÕES REALIZADAS SEM QUALQUER AUTORIZAÇÃO - RECURSO DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial a parte recorrente alega ofensa aos arts. 1.200, 1.201,1.219,1.220 e 1.222 do CC/02. Sustenta a existência de posse de boa-fé do imóvel em litígio, fazendojus à sua retenção e, ainda,ao ressarcimento das benfeitorias necessárias erigidas no bem.
+Contrarrazões à e-STJ Fls. 367/375.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A irresignação não merece prosperar.
+Nesse passo, a pretensão do agravante quanto à ofensa aos dispositivos apontados, notadamente no tocante à existência dos elementos necessários ao reconhecimento da posse de boa-fé e à indenização pelas benfeitorias realizadas, foi assim analisada pelo Tribunal de origemna hipótese dos autos(e-STJ Fl. 317/319):
+Diante dos relatos prestados, não há qualquer indício de que o imóvel em questão tenha sido objeto de ocupação antes do ano de 2009, não restando demonstrado, portanto, o lapso temporal necessário ao reconhecimento da usucapião extraordinária. A tese defensiva, por conseguinte, merece ser rejeitada.
+Outrossim, pelo que se extrai do conjunto probatório existente, mostra-se escorreito o acolhimento da pretensão reivindicatória externada pela parte ora apelada.
+Referido direito encontra previsão no art. 1.228 do Código Civil (CC), que dispõe que "o proprietário tem a faculdade de usar, gozar e dispor da coisa, e o direito de reavê-la do poder de quem quer que injustamente a possua ou detenha".
+Segundo entendimento consolidado pelo STJ, em demandas tais, deve o autor comprovar o seu domínio, a individualização da coisa e a posse injusta exercida pela parte requerida.
+(..)
+O domínio resta comprovado pela matrícula juntada nos autos apensos nº3995-50.2017.8.16.0116 (mov. 1.6), que atesta ser a Sra. Tatiane Nakonhechnei dos Santos a proprietária do imóvel discutido, o qual, no mesmo documento, encontra-se individualizado.
+No que se refere à posse, o legislador definiu, pelo critério exclusivo, a posse justa, considerando-a como toda posse que não se encontre eivada dos vícios de violência, precariedade ou clandestinidade. Nesse sentido, prevê o art. 1.200 do CC que "é justa a posse que não for violenta, clandestina ou precária".
+Entretanto, a classificação da posse como justa ou injusta não se limita à constatação de violência, clandestinidade ou precariedade no seu exercício, devendo haver a observação de outros aspectos como, por exemplo, a contrariedade ao direito e a conduta irregular ou antijurídica do possuidor.
+Caso contrário, estar-se-ia admitindo a proteção da posse pelo esbulhador perante o esbulhado somente porque aquele não incorreu nos vícios descritos expressamente na legislação, ainda que esta decorra de conduta manifestamente ilícita do possuidor.
+No caso dos autos, a posse exercida pelo recorrente sobre o imóvel descrito na inicial é injusta, pois decorre de doação recebida de quem jamais foi proprietário do imóvel, fato que já era de conhecimento inequívoco do apelante, haja vista que está expressono "instrumento particular de doação" (mov. 1.4, segunda parte) a condição de mera possuidora da doadora, a qual, como mencionado, é sua genitora.
+Além do mais, a posse do bem havia sido adquirida mediante contrato de compra e venda celebrado com a Sra. Roselia Cristina da Silva Marques (mov. 1.4, primeira parte), pessoa que em nenhum momento deteve o direito de propriedade do imóvel.
+Neste contexto, agiram os supostos adquirentes sem a cautela devida, pois deixaram de se certificar de que realmente estavam realizando negócio jurídico com quem teria legitimidade para alienar a coisa.
+Assim, o título apresentado pelo apelante não pode ser considerado justo, pois nem mesmo a parte alienante foi qualificada, naquela oportunidade, como verdadeira proprietária do objeto do negócio, de forma que o instrumento sequer seria capaz de induzir o atual possuidor a acreditar que este lhe outorgaria a condição de proprietário.
+Por ser injusto o título, a posse exercida em razão deste segue a mesma sorte, sendo, portanto, igualmente injusta.
+(..)
+2. Indenização por benfeitorias
+No que diz respeito ao pleito de indenização pelas benfeitorias, com o respectivo direito de retenção, melhor sorte não socorre o apelante.
+Em verdade, as alegadas benfeitorias tratam-se de acessões, nos termos do que preceitua o artigo 1.248, inciso V do Código Civil, o que, inclusive, é reconhecido pelo apelante em suas razões recursais. Isso porque as construções discutidas não existiam no imóvel antes da ocupação pela genitora do recorrente, conforme afirmado pela própria parte.
+Nesse caso, o regramento respeitante à indenização pleiteada encontra previsão nos arts. 1.255 e 1.256 do citado diploma legal:
+(..)
+Pela prova dos autos, as quais já foram exaustivamente tratadas alhures, evidencia-se que as construções realizadas pelo apelante se deram de má-fé, já que se operaram sem qualquer autorização, o que denota o caráter clandestino do ato.
+Além disso, não há qualquer indício de má-fé por parte da apelada (proprietária do bem), nos termos previstos na norma supracitada, visto que a edificação não se deu em sua presença e o fato ensejou a impugnação mediante a formulação do pleito reivindicatório.(..) (g.n.)
+Veja-se que a insurgência recursal, no entanto, não refuta, ao deduzir a ofensa aos arts.1.200, 1.201, 1.219, 1.220 e 1.222 do CC/02,os fundamentos adotados pelo Tribunal de origem acima grifados, notadamente quanto aos requisitos da injusta posse e da inexistência de benfeitorias a serem indenizadas. Logo, a teor da Súmula 283/STF, aplicável por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais,elidir as conclusões do aresto impugnado quanto à natureza da posse e ao pleito de indenização pelas supostas benfeitorias realizadas, mormente ante a inexistência de má-fé por parte do agravante, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 07/STJ.
+É esta, em verdade, a orientação consolidada nesta Corte, senão vejamos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO DE POSSE. 1. POSSE INJUSTA. REQUISITOS. REVISÃO. REEXAME DE PROVAS.IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. INDENIZAÇÃO. REQUERIMENTO NA CONTESTAÇÃO. IMPOSSIBILIDADE. PRECEDENTE. 3. AGRAVO INTERNO DESPROVIDO.
+1. As instâncias ordinárias, após profunda análise do conjunto fático-probatório, concluíram ser injusta a posse da ora insurgente sobre o imóvel porquanto exercida sem amparo em título de domínio ou qualquer outro que justifique a ocupação do bem. Assim, para rever as conclusões do acórdão recorrido seria imprescindível o reexame de provas, o que atrai a Súmula n. 7/STJ.
+2. A jurisprudência desta Corte é no sentido de que, nas ações possessórias, pode o réu deduzir, na contestação, pedido indenizatório, desde que correlato à matéria, dado o caráter dúplice dessas demandas, o que não se verifica na presente hipótese.
+3. Agravo interno desprovido.(AgInt no AREsp 1314158/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/04/2020, DJe 24/04/2020) - g.n.
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. POSSE JUSTA OU INJUSTA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. DECISÃO MANTIDA.
+1. A pretensão de verificar se a posse seria justa ou injusta somente se processa mediante o reexame do conjunto probatório carreado aos autos, o que encontra óbice na Súmula nº 7/STJ.
+2. Agravo interno não provido.(AgInt no REsp 1401307/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/12/2016, DJe 07/12/2016) - g.n.
+REINTEGRAÇÃO DE POSSE. DIREITO CIVIL. RECURSO ESPECIAL. POSSUIDORA DE MÁ-FÉ. DIREITO À INDENIZAÇÃO. DISTINÇÃO ENTRE BENFEITORIA NECESSÁRIA E ACESSÕES. ALEGADA ACESSÃO ARTIFICIAL. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. As benfeitorias são obras ou despesas realizadas no bem, com o propósito de conservação, melhoramento ou embelezamento, tendo intrinsecamente caráter de acessoriedade, incorporando-se ao patrimônio do proprietário.
+2. O Código Civil (art. 1.220), baseado no princípio da vedação do enriquecimento sem causa, conferiu ao possuidor de má-fé o direito de se ressarcir das benfeitorias necessárias, não fazendo jus, contudo, ao direito de retenção.
+3. Diferentemente, as acessões artificiais são modos de aquisição originária da propriedade imóvel, consistentes em obras com a formação de coisas novas que se aderem à propriedade preexistente (superficies solo cedit), aumentando-a qualitativa ou quantitativamente.
+4. Conforme estabelece o art. 1.255 do CC, na acessões, o possuidor que tiver semeado, plantado ou edificado em terreno alheio só terá direito à indenização se tiver agido de boa-fé.
+5. Sobreleva notar a distinção das benfeitorias para com as acessões, sendo que "aquelas têm cunho complementar. Estas são coisas novas, como as plantações e as construções" (GOMES, Orlando.Direitos reais. 20. ed. Atualizada por Luiz Edson Fachin. Rio de Janeiro: Forense, 2010, p. 81).
+6. Na trilha dos fatos articulados, afastar a natureza de benfeitoria necessária para configurá-la como acessão artificial, isentando a autora do dever de indenizar a possuidora de má-fé, demandaria o reexame do contexto fático-probatório dos autos, o que encontra óbice na Súmula n. 07 do STJ.
+7. Recurso especial a que se nega provimento.(REsp 1109406/SE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/05/2013, DJe 17/06/2013) - g.n.
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RELAÇÃO JURÍDICA CONTROVERTIDA DE NATUREZA PRIVADA.COMPETÊNCIA. SEGUNDA SEÇÃO DO STJ. AUSÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO.SÚMULAS N. 211 DO STJ E 282 DO STF. INDENIZAÇÃO POR BENFEITORIAS E ACESSÕES. DIREITO DE RETENÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. (..)
+2. (..)
+3. (..)
+4. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+5. No caso concreto, para alterar a conclusão do Tribunal de origem e acolher a pretensão indenizatória do agravante pelas benfeitorias e acessões construídas no imóvel do agravado e o direito de retenção decorrente, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+6. (..)
+7. Agravo interno a que se nega provimento.(AgInt no AREsp 765.957/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/09/2019, DJe 09/09/2019) - g.n.
+Inviável, pois, a pretensão do agravante.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em R$1.700,00, em cada demanda (e-STJ Fl. 319), em benefício do patrono da parte recorrida, a majoração dos referidos honorários devidos pela parte ora recorrente para R$ 1.800,00, em cada demanda,é medida adequada ao caso, observadaeventual anterior concessão da gratuidade judiciária.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa.
+Ante o exposto, CONHEÇOdo agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUALCIVIL (CPC/2015). AÇÃO REIVINDICATÓRIA E INTERDITO PROIBITÓRIO. EXERCÍCIO DE POSSE INJUSTA.FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
