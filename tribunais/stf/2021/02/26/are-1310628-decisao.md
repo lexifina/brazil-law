@@ -1,0 +1,23 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    TRIBUTÁRIO. MANDADO DE SEGURANÇA. PIS. COFINS. DESPESAS COM FRETE. TRANSFERÊNCIA INTERNA DE MERCADORIAS. CREDITAMENTO. IMPOSSIBILIDADE.
+    1. Conforme entendimento do Superior Tribunal de Justiça, "o direito ao crédito decorre da utilização de insumo que esteja vinculado ao desempenho da atividade empresarial. As despesas de frete somente geram crédito quando relacionadas à operação de venda e, ainda assim, desde que sejam suportadas pelo contribuinte vendedor, "(REsp 1.147.902/RS).
+    2. Neste sentido, inexistente, pois, o direito ao creditamento de despesas concernentes às operações de transferência interna das mercadorias entre estabelecimentos dentro do âmbito de uma única empresa.
+    3. Apelação a que se nega provimento.
+    Opostos os embargos de declaração, foram rejeitados.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Nos termos das Leis nos 10.637/2002 e 10.833/2003, a pessoa jurídica poderá descontar créditos calculados do PIS e da COFINS em relação a bens e serviços, utilizados como insumo na prestação de serviços e na produção ou fabricação de bens ou produtos destinados à venda.
+    In casu, a impetrante pretende deduzir despesas com frete de transporte de produtos destinados aos seus estabelecimentos comerciais.
+    No entanto, apenas os valores das despesas realizadas com fretes contratados para a entrega de mercadorias diretamente a terceiros - atacadista, varejista ou consumidor -, e desde que o ônus, tenha sido suportado pela pessoa jurídica vendedora, é que geram direito a créditos a serem descontados da COFINS devida.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente (Leis nºs 10.637/02 e Lei nº 10.833/03). A afronta ao texto constitucional, se houvesse, seria indireta ou reflexa não ensejando a abertura da via extraordinária. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário. Tributário. Cofins. Não cumulatividade. Insumos do processo de produção. Necessidade da análise prévia de legislação infraconstitucional. Ofensa constitucional apenas reflexa. 1. O princípio da não cumulatividade aplicável às contribuições sociais foi regulamentado pelas Leis nºs 10.637/02 e 10.833/03, nas quais o legislador listou os bens e serviços capazes de gerar crédito. 2. No julgamento do RE nº 422.005-ED (Relatora a Ministra Ellen Gracie, DJ de 20/4/06), a Corte firmou o entendimento de que eventuais controvérsias na aplicação dos institutos da compensação e da prescrição devem ser resolvidas nas instâncias ordinárias ou por via administrativa. 3. Agravo regimental não provido” (RE nº 551.336/RS - AgR, Primeira Turma, Rel. Min. Dias Toffoli, DJe de 7/12/12).
+    “Agravo regimental no recurso extraordinário. Tributário. Contribuição ao PIS. COFINS. Não cumulatividade. IN SFR nºs 247/02 e 404/04. Leis nºs 10.637/02 e 10.833/03. Necessidade de reexame da contenda à luz da legislação infraconstitucional. Ofensa constitucional indireta ou reflexa. 1. No caso, o debate de temas constitucionais porventura envolvidos demanda previamente o cotejo das Instruções Normativas da Secretaria da Receita Federal nºs 247/02 e 404/04 com as Leis nºs 10.637/02 e 10.833/03, notadamente para saber se os atos normativos limitaram ou não o alcance dos diplomas legais. 2. Questão de mera legalidade. A afronta ao texto constitucional, se ocorresse, seria meramente reflexa ou indireta. 3. Agravo regimental não provido” (RE nº 809.400/SC-AgR, Rel. Min. Dias Toffoli, DJe de 23/2/15).
+    “DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO PARA A INTEGRAÇÃO SOCIAL - PIS E CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS. RESTRIÇÃO AOS INSUMOS PARA DIREITO AO CREDITAMENTO. ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. ACÓRDÃO RECORRIDO PUBLICADO EM 10.03.2009. A discussão travada nos autos não alcança status constitucional, porquanto solvida à luz da interpretação da legislação infraconstitucional aplicável à espécie. Agravo regimental conhecido e não provido” (RE nº 707.179/SC-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe de 29/10/13).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 26 de fevereiro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
