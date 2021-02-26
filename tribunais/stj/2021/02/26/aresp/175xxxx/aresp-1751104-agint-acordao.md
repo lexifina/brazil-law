@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE, NA ORIGEM, O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso especial. Incidência da Súmula 182 do STJ.
+2. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, DJe de 30/11/2018).
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno interposto porLeila Ferraz Chavesdesafiando decisão que não conheceu do agravo, poisnão foram impugnados todos os fundamentos da decisão que não admitiu, na origem, o recurso especial.
+Irresignada, a parte agravante argumenta que "a orientação jurisprudencial desta c. Corte Superior corrobora o entendimento sufragado quanto à inaplicabilidade da Súmula 182/STJ nas hipóteses de impugnação de capítulos autônomos da decisão atacada" (fl. 311). Em acréscimo, sustenta que "é manifestamente inaplicável o óbice constante do Enunciado Sumular nº 182 desta c. Corte Superior, mesmo que por analogia, devendo tão somente ser declarada a possível preclusão das matérias porventura não tenham sido impugnadas" (fl. 312). Aduz que é incabível a incidência da Súmula 7/STJ na espécie, porque a solução da controvérsia veiculada nas razões do recurso especial não demandaria o reexame da matéria fática.
+O recurso foi impugnado às fls. 317/320.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO À TOTALIDADE DOS FUNDAMENTOS ADOTADOS PELA DECISÃO QUE NÃO ADMITE, NA ORIGEM, O RECURSO ESPECIAL. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso especial. Incidência da Súmula 182 do STJ.
+2. A Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, DJe de 30/11/2018).
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): O inconformismo não comporta êxito.
+No caso concreto, o juízo negativo de admissibilidade realizado pelo Tribunal a quo está assentado nos seguintes pilares: (I) incidência da Súmula 400/STF; (II) incabível, no âmbito do recurso especial, o reexame do acervo fático-probatório dos autos; e (III) a falta do cotejo analítico dos arestos recorrido e paradigma impede o conhecimento do alegado dissídio jurisprudencial.
+Com efeito, a parte agravante se limitou, nas razões do agravo em recurso especial, a manifestar genericamente que teria havido demonstração e comprovação do dissídio jurisprudencial, bem como seu inconformismo com a aplicação da Súmula 7/STJ.
+Assim, o agravo deixou de rebater, de modo específico, todos os fundamentos adotados pelo juízo negativo de admissibilidade do recurso especial.
+A esse respeito, é imperioso frisar que, negado o processamento do recurso especial ante a necessidade de revisão do acervo fático-probatório dos autos para a reforma do acórdão recorrido, é essencial que as razões do agravo demonstrem a situação particular que justificasse o afastamento do verbete n. 7 desta Corte.
+Isso porque, uma vez aplicado o óbice contido na referida súmula, deve o recurso indicar especificamente qual ponto da moldura fática delineada na instância ordinária contrasta com a aplicação do direito federal, possibilitando conclusão diversa da adotada pelo acórdão recorrido, sob pena de imposição da Súmula 182/STJ.
+Em outras palavras, "Para afastar a incidência da Súmula 182/STJ, não basta que o recorrente tenha explicitado, de maneira genérica, a desnecessidade do reexame das provas dos autos para a análise da tese suscitada no apelo nobre. Faz-se necessário que o agravante, analiticamente, contraste as conclusões do acórdão combatido com os fundamentos da decisão de inadmissibilidade do recurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJ foi aplicada indevidamente" (AgInt no AREsp 1.070.028/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 20/10/2017).
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, §§ 1º E 3º, DO CPC/2015 E SÚMULA 182/STJ.
+1. Uma das principais mudanças de paradigma trazidas pelo Código de Processo Civil/2015 diz respeito a uma maior exigência de motivação das decisões judiciais. Em especial, quanto ao julgamento do Agravo Interno, o art. 1.021, § 3º, do novo diploma adjetivo dispõe que "É vedado ao relator limitar-se à reprodução dos fundamentos da decisão agravada para julgar improcedente o agravo interno".
+2. Ocorre que, não raro, a parte sucumbente interpõe Agravo Interno tão somente repetindo os argumentos já aduzidos no apelo indeferido monocraticamente. Nessa hipótese, à primeira vista, poderia ter-se a ideia de que o Magistrado deveria fazer uso da sua criatividade para adotar novos fundamentos em face de argumentos repetidos.
+3. Entretanto, não foi esse o intento do legislador. Em contrapartida à impossibilidade de o relator limitar-se à reprodução dos fundamentos da decisão agravada, ficou estabelecido no art. 1.021, § 1º, do novo Codex que, "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+4. Em busca do aperfeiçoamento do sistema processual pátrio, o legislador instituiu como peças de uma mesma engrenagem tanto a obrigação do julgador de explicitar de forma particularizada as razões que ensejaram a prolação do provimento jurisdicional quanto o ônus da parte recorrente de impugnar especificadamente os fundamentos da decisão atacada.
+5. In casu, a parte agravante limitou-se basicamente a reiterar as razões do Recurso Especial, alegando, de forma genérica, a ocorrência de violação dos arts. 20, § 3º, e 535 do CPC/1973 (1.022 do CPC/2015) e a não incidência da Súmula 7/STJ, sem contrapor especificadamente os fundamentos que dão supedâneo ao decisum hostilizado.
+6. A ausência de impugnação específica faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"), que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º.
+7. Agravo Interno não conhecido.
+(AgInt no AREsp 933.639/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 29/11/2016)
+O mesmo raciocínio deve ser empregado quanto ao mero inconformismo de que "a divergência do julgado ora guerreado não só ocorreu em relação à jurisprudência pacífica e dominante de outros Tribunais, como dentro da própria turma julgadora, vez que inverteu o ônus da prova quanto à demonstração de proveito por parte da agravante, enquanto tal ônus deve ser imposto à exequente, ora agravada (Súmula nº 251)" (fl. 279), pois tal argumento não é capaz de arrostar o fundamento de que a falta do cotejo analítico impede o conhecimento do alegado dissídio jurisprudencial, já que incumbia ao agravante, no presente recurso, apresentar trechos do apelo especial em que teria havido a comparação de excertos dos arestos paradigmas e recorrido, a fim de demonstrar a adoção de teses jurídicas opostas em casos semelhantes.
+Nesse panorama, escorreita a decisão agravada ao entender como aplicável à espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+A respeito do tema, convém ressaltar que a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão que não admitiu o processamento do recurso especial, sob pena de incidir o referido óbice contido na Súmula 182/STJ. Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC eEAREsp 831.326/SP, DJe 30/11/2018).
+Nesse mesmo rumo:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA. DISPOSITIVO VIOLADO. INDICAÇÃO. INOCORRÊNCIA.
+1. A teor do que dispõem o art. 1.021, § 1º, do CPC/2015 e a Súmula 182 do STJ, a parte deve infirmar, nas razões do agravo interno, todos os fundamentos da decisão atacada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que um dos recorrentes não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. É firme a jurisprudência desta Corte Superior no sentido de que a falta de indicação, clara e precisa, de dispositivo de lei federal de cuja interpretação o acórdão impugnado divergiu implica deficiência na fundamentação do recurso especial.
+4. Não há como afastar a incidência do óbice contido na Súmula 284 do Supremo Tribunal Federal, no tocante ao outro recurso, porquanto não se desincumbiram de apontar, na fundamentação do apelo extremo, qual norma legal teria sido violada, procedimento indispensável ao conhecimento do recurso interposto com fulcro nas alíneas "a" ou "c" do permissivo constitucional.
+5. Não conhecimento de um dos agravos e desprovimento do outro.
+(AgInt no AREsp 739.429/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 13/12/2018, DJe 12/02/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+(AgInt no REsp 1400687/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 27/11/2018, DJe 06/12/2018)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
