@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado por Otilia Ferreira Novo e Outros contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 500):
+SERVIDOR PÚBLICO ESTADUAL  QUINQUÊNIOS  BASE DE CÁLCULO VENCIMENTOS INTEGRAIS, COMPOSTOS PELO SALÁRIO BASE OU PADRÃO MAIS AS VANTAGENS PECUNIÁRIAS, EXCETUADAS AS EVENTUAIS  EXCLUSÃO, TAMBÉM, DA BASE DE CÁLCULO, DOS ADICIONAIS (IGUAIS OU DE NATUREZA DIVERSA)  VEDAÇÃO DO CHAMADO "EFEITO CASCATA", BEM COMO DAS VERBAS DE CARÁTER EVENTUAL OU TRANSITÓRIO.RECURSO AO QUAL SE NEGA PROVIMENTO. DECISÃO MANTIDA.
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial,violação aos arts. 20, §§ 3º e 4º do CPC/73 e 1º-F da Lei nº 9.494/97. Sustenta que "ao arbitrar verba honorária em valor fixo, contrariou posicionamento firmado neste Tribunal Superior no sentido de que, cuidando-se de lide em que houvecondenação, os honorários incidem sobre este valor, ainda que sucumbente a Fazenda Pública (..)." (fl. 404)
+Requer, ainda, reforma quanto aos juros e correção monetária.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Ressalto, ainda, quefoi negado seguimento ao recurso quanto aos juros e correção monetária (Lei nº 11.960/09), em razão de o acórdão estar em consonância com o entendimento sufragado no REsp 1.495.146/MG (Tema 905), não tendo havido recurso quanto a este particular (fls. 654/655).
+Quanto aos honorários advocatícios, colhe-se do acórdão o seguinte trecho, verbis (fl. 340):
+Os honorários advocatícios são arbitrados de acordo com o artigo 20, § 4ºdo Código de Processo Civil.
+Fixa-se a verba, por eqüidade, em R$ 1.750,00, (um mil e setecentos e cinqüenta reais), pois o litígio, causa sem complexidade, é recorrente, e permite uma homogeneização das demandas, circunstancia que diminuiu sobremaneira o tempo despendido pelo patrono da parte demandante.
+Nesse contexto, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
