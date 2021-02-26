@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça estadual.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 169/184, in verbis(e-STJ fls. 169/171):
+1. Cuida-se de recurso especial interposto pelo Ministério Público do Estado de Mato Grosso, com base no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, nos autos da Agravo de Execução Penal n. 1017003-70.2020.8.11.0000.
+2. Consta dos autos que o recorrido cumpre pena unificada de 22 (vinte e dois) anos, 06 (seis) meses e 17 (dezessete) dias de reclusão, em regime fechado, pelos crimes de tráfico de entorpecentes, roubo majorado, disparo de arma de fogo, incêndio e corrupção de menores (fl. 112).
+3. Perante o Juízo da Execução, a defesa apresentou impugnação ao cálculo de pena, sob o argumento de que as alterações trazidas pela Lei n. 13.964/2019 são benéficas ao apenado, pleiteando, para a progressão de regime, o computo do percentual de 20% para o crime de tráfico de drogas ou, subsidiariamente, de 40%. O pedido foi indeferido (fls. 58/64).
+4. Em sede de agravo de execução penal, o Tribunal de Justiça deu provimento ao recurso defensivo para fixar o percentual de 40% para a progressão de regime, consoante acórdão, ementado nos seguintes termos, verbis:
+ ..
+5. Daí a interposição do recurso especial ministerial, no qual se alega violação ao art. 112, inciso VII, da LEP e aplicação indevida do art. 112, inciso V, da LEP. Sustenta que o inciso V do art. 112 da LEP prevê a fração de 2/5 ou 40% somente para os condenados primários pelo cometimento de crimes hediondos ou equiparados. Defende que, na hipótese dos autos, ainda que não se trate de reincidência específica, o recorrido é reincidente, devendo ser aplicada a fração de 3/5 ou 60% para efeito de progressão de regime (fls. 131/140).
+6.Contrarrazões pelo desprovimento do apelo (fls. 144/155). A Vice-Presidência do Tribunal de Justiça admitiu o recurso (fls. 157/160). Remetidos ao Superior Tribunal de Justiça, vieram os autos com vista ao Ministério Público Federal para a emissão de parecer.
+Ao final, o Parquet opinou pelo provimento do recurso.
+É o relatório.
+Tenho que não assiste razão ao recorrente.
+Com a nova redação dos incisos IV e VI do art. 112 da Lei de Execução Penal, alterada pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência em delitos não hediondos nem equiparados.
+Tal situação, como prescrevem os princípios gerais do direito penal, deve sempre ser interpretada em favor do réu, o que impediria a aplicação por analogia da fração de 3/5 (ou 60%), por se tratar de analogia in malam partem, possibilidade vedada em nosso ordenamento.
+No mesmo sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. ART. 112, VII, DA LEI DE EXECUÇÃO PENAL (INCLUÍDO PELA LEI N. 13.964/2019). PACOTE ANTICRIME. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. NÃO APLICAÇÃO. APENADO CONDENADO POR CRIME HEDIONDO E REINCIDÊNCIA NÃO ESPECÍFICA. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO INCISO V. DO ART. 112 DA LEP. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS CONCEDIDO.
+1. Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+2. Ocorre que a alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+3. Não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+4. Habeas corpus concedido para determinar que o Juízo da Execução retifique o cálculo da pena do paciente, aplicando-se o percentual de 40% para progressão de regime, salvo se cometida falta grave.
+(HC 605.783/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020)
+No caso em tela, sendo o delito anterior não hediondo nem equiparado, é de rigor a aplicação da fração de 2/5 (ou 40%) para efeitos de progressão de regime.
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
