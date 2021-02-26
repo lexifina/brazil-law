@@ -1,0 +1,31 @@
+DECISÃO
+MARCELO MOURA COSTAagrava de decisão que inadmitiu seu recurso especial - fundado no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo-, motivada na incidência da Súmula n. 83 do STJ.
+Nas razões do recurso especial, a defesa apontou, além de divergência jurisprudencial,violação dos arts. 59 e 64, I, do Código Penal. Argumentou que condenações anteriores atingidas há muito tempo pelo período depurador não são válidas para a valoração negativa dos maus antecedentes.
+Requereu o provimento do recurso, a fim de que fosse reduzida a pena.
+O Ministério Público Federal manifestou-se pelo não provimento do agravo.
+Decido.
+O agravo é tempestivo e preenche os demais requisitos de admissibilidade.
+I. Contextualização
+Extrai-se dos autos que o réu foi condenado a 1 ano, 10meses e 6 dias de reclusão e 17 dias-multa, em regime inicial semiaberto, pela prática do delito tipificado no art. 155, § 1º, II, do Código Penal.
+O Tribunal estadual deu parcial provimento ao apelo da defesa, a fim de reduzira pena para 1 ano,8 meses e 21 diasde reclusão e 14 dias-multa, e manteve no mais a sentença condenatória.
+II. Pena-base- maus antecedentes- período depurador
+Acerca da dosimetria da pena, o Tribunal de origemse manifestou nos seguintes termos, no que importa (fl.505, grifei):
+Apena, no entanto, merece reparo.
+Na primeira fase, observo que a certidão de fls. 233/234 aponta processo por fato posterior ao ora tratado, de modo que, a meu ver, respeitado o entendimento diverso do Magistrado a quo, não pode ser considerada para elevar a pena-base. Contudo, a certidão de fls. 236 demonstra a existência de antecedente criminal, de modo que mantenho o aumento da reprimenda do acusado, mas na fração menor de 1/6 (um sexto).
+Apenas para que não fique sem registro, convém salientar que a existência de condenação transitada em julgado por crime anterior, caso ultrapassado o lapso de tempo superior ao período depurador previsto no artigo 64, inciso I, do Código Penal, contado a partir do cumprimento ou da extinção da pena, como na hipótese em apreço, pode sim ser valorada como circunstância judicial desfavorável - no caso, antecedente criminal (Nesse sentido: STJ, AgRg no AREsp 464.164/MS, Rei. Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 08/05/2014).
+Conforme precedentes desta Corte, "é possível a exasperação da pena-base com fulcro em condenações anteriores transitadas em julgado há mais de 5 anos, porquanto, apesar de não espelharem a reincidência, pois alcançadas pelo período depurador previsto no art. 64, inciso I, do Código Penal, podem ser utilizadas para caracterizar os maus antecedentes do réu. Precedentes." (AgRg no HC n. 358.465/SP, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 10/2/2017).
+Ressalto que o Supremo Tribunal Federal, ao apreciar o tema 150 da repercussão geral, no julgamento doRE n. 593.818/SC,em 18/8/2020,e que oraaguarda julgamento de embargos de declaração, fixou a seguinte tese:"Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal".
+Ainda nesse sentido:
+ ..
+2. Quanto aos maus antecedentes, em que pese a anotação criminal pretérita já ter sido atingida pelo período depurador previsto no art. 64 do Código Penal, entende esta Corte ser possível sua utilização para caracterização de antecedentes aptos a justificar o incremento da sanção inicial.  ..  5. Agravo regimental improvido. (AgRg no HC n. 540.490/SP, Rel. MinistroNefi Cordeiro, 6ª T., DJe 10/2/2020)
+ ..
+1. O Plenário da Corte Suprema, no julgamento do RE n. 593.818/SC (Repercussão Geral), decidiu por por maioria, que "Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal" (RE 593.818/SC, Rel. Ministro ROBERTO BARROSO, TRIBUNAL PLENO - SESSÃO VIRTUAL, julgado em 18/8/2020, Ata de julgamento publicada no DJe de 1º/9/2020).
+2. Firme nesta Corte o entendimento de que as condenações alcançadas pelo período depurador de cinco anos (art. 64, I, do Código Penal) não configuram reincidência, mas são aptas a configurar os maus antecedentes do réu. Inafastável, portanto, a incidência do verbete n. 83 da Súmula do Superior Tribunal de Justiça -STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 1308400/RS, Rel. MinistroJoel Ilan Paciornik, 5ª T.,DJe 22/9/2020)
+De fato, como destacado pela defesa, esta Corte tem relativizado o referido entendimentoquando, entre a condenação anteriore a conduta narrada na denúncia, haja decorrido largo espaço de tempo, pois, como já firmado em outros julgados de minha relatoria- HC n. 256.210/SPeREsp n. 1707948/RJ-não há como reconhecer a existência de maus antecedentes pela simples existência de condenações transitadas em julgado há muito tempo.
+Saliento que não estou afirmando que o mero decurso do período depurador da reincidência seja suficiente para, por si só, impedir toda e qualquer valoração sobre os antecedentes, até porque a hipótese prevista no art. 64, I, do Código Penal trata tão somente da reincidência. Da mesma forma, não estou, simplesmente, descuidando de observar o entendimento desta Corte de que condenações prévias,cuja data do cumprimento ou da extinção da pena seja superior a 5 anos,podem servir de alicerce para valoração desfavorável dos antecedentes.
+No caso em apreço, observo que o acórdão não indica a data do cumprimento ou de extinção da pena (termo inicial para a contagem do prazo de cinco anos, conforme o art. 61, I, do CP)e a certidão de fl. 236a que menciona (fl. 505)informaapenas que a condenação pela prática de furto qualificado, art. 155, § 4º, II, do Código Penal,transitou em julgado em 22/8/2000. Tampouco a defesa apresenta a referida data, de modoque, não há como aferir, como pretendido no recurso, se seria cabível mitigaros efeitos dessa condenação, que, em linhas gerais, respeita a jurisprudênciadesta Corte e do Supremo Tribunal Federal.
+III.Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
