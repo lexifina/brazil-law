@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EVERTON BAREMAKER apontando como autoridade coatora o desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SULrelator do HC n. 0004223-54.2021.8.21.7000.
+Nas razões deste writ, o impetrante sustenta que o paciente cumpriu os requisitos para o livramento condicional desde 2/2/2019, contudo, o pedido não foi analisado pelo Juízo da execução penal porque o Ministério Público solicitou uma retificação nos registros do paciente. Assim, requer liminarmente a análise do pedido de livramento condicional independentemente da referida providência. No mérito, pugna pelo reconhecimento da "ilegalidade da decisão que determinou a retificação dos antecedentes criminais" (e-STJ fl. 9).
+É o relatório.
+Decido.
+É bem verdade que o presente writ investe contra decisão que indeferiu medida liminar em idêntico remédio impetrado perante o Tribunal de origem, o que, nos termos do disposto na Súmula n. 691 do Pretório Excelso, não se admite.
+Ocorre que, no caso em exame, a flagrante ilegalidade está demonstrada, situação que autoriza a excepcional superação do referido entendimento sumular. Desse modo, passo ao exame da decisão combatida.
+É certo que "constitui entendimento consolidado do Superior Tribunal de Justiça que somente configura constrangimento ilegal por excesso de prazo a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação"(HC n. 354.557/SP, relatorMinistro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 10/11/2016, DJe 21/11/2016).
+Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.INADEQUAÇÃO. EXCESSO DE PRAZO NO EXAME DO PEDIDO DE PROGRESSÃO DE REGIME PRISIONAL. TRANSCURSO DE MAIS DE 1 (UM) ANO. FALTA DE RAZOABILIDADE. MANIFESTO CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Segundo reiterada jurisprudência desta Corte, o excesso de prazo na realização dos atos processuais deve ser aferido segundo o princípio da razoabilidade (Precedentes).
+3. No caso, mostra-se desarrazoado o transcurso de mais de 1 (um) ano para o exame do pedido de progressão prisional pelo Juízo da execução, efetuado em agosto de 2015, sem a indicação de qualquer justificativa plausível e, sobretudo, quando considerado que, somente em julho de 2016 é que os autos foram remetidos à manifestação ministerial.
+4. Habeas corpus não conhecido. Ordem concedida de ofício para que o Juízo da Vara das Execuções Criminais do Rio de Janeiro/RJ analise imediatamente o pedido de progressão ao regime semiaberto deduzido em benefício do paciente.
+(HC 354.341/RJ, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/09/2016, DJe 10/10/2016, grifei.)
+Na hipótese, consta da guia de execução do paciente que o requisito objetivo para o livramento condicional teria sido observado em 2/2/2019 (e-STJ fl. 12). Além disso, depreende-se que já foram acostados aos autos o atestado de conduta carcerária (e-STJ fl. 18) bem como o exame criminológico do paciente (e-STJ fls. 19/22). Contudo, pelo menos em duas oportunidades, houve manifestação do Juízo da execução penalsemversar a respeito do pedido relativo ao referidobenefício executório.
+Assim, não hájustificativa para taldemora, evidenciando nítida ofensa ao princípio da razoabilidade.
+Ante todo o exposto, concedo liminarmente a ordem para determinar ao Juízo da execução penal a imediata apreciação do pedido de livramento condicional.
+Publique-se. Intimem-se.
