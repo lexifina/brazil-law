@@ -1,0 +1,25 @@
+DECISÃO
+FRANCIEL APARECIDO SIMÕESinterpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A defesa aponta, além de divergência jurisprudencial, violação doart. 65, III, "d",do Código Penal e da Súmula n. 545 do STJ. Sustenta que, embora o réu haja confessado a prática do delito, não foi reconhecida a respectiva atenuante.
+Requer o provimento do recurso, a fim de que seja reduzida a pena.
+Apresentadas as contrarrazões e admitido o especial, o Ministério Público Federal manifestou-se pelo seu provimento.
+Decido.
+Primeiramente, observo que o recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade, razões pelas quais avanço na análise de mérito da controvérsia.
+I. Reconhecimento da confissão e sua compensação com a reincidência
+O Tribunal de origem afastou a pretensão da defesa, relativa ao reconhecimento da confissão, sob os seguintes fundamentos (fls. 510-512, grifei):
+Na etapa intermediária, com relação a Caio, a agravante da reincidência (fls. 220) bem ensejou o acréscimo de 1/5.
+De reconhecimento da confissão espontânea e compensação desta atenuante com a agravante da reincidência não se cogita.
+Isso porque, a admissão parcial dos fatos não habilita a redução punitiva (mormente para aniquilar a recidiva), tendo em vista que os réus deixaram de confirmar pontos relevantes relacionados diretamente às condutas criminosas, almejando serem responsabilizados por infração de menor gravidade, já que negaram o rompimento de obstáculo e a escalada.
+A circunstância afasta a caracterização da atenuante penal, nas hipóteses em que o agente opta pela admissão qualificada ou não reconhece a totalidade dos crimes denunciados, ou seja, quando não revela sintonia com a imputação, como é o caso em testilha.
+Guilherme de Souza Nucci preleciona que "..não se aceita a atenuante da confissão espontânea se for realizada a admissão da culpa apenas com o intuito de obter o reconhecimento de alguma excludente de ilicitude ou culpabilidade (confissão qualificada). Se o agente, por exemplo, admite ter matado a vítima, mas em legítima defesa, há duas hipóteses variáveis: a) realmente agiu em legítima defesa, sendo, portanto, absolvido; b) comprova-se ser falsa sua alegação, sendo ele condenado, sem qualquer atenuante, pois não narrou a verdade dos fatos, demonstrando insinceridade" (in "Individualização da pena", Ed. Forense, 6a edição, 2014, pág. 238).
+Reiterativa a jurisprudência:
+ ..
+Conforme se observa no trecho transcrito, as instâncias ordinárias, embora reconheçam a confissão qualificada do acusado, não aplicaram a respectiva atenuante, em entendimento contrário à assente jurisprudência desta Corte Superior, de que: "se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal; é irrelevante o fato de a confissão haver sido espontânea ou não, total ou parcial (qualificada), ou mesmo que haja ocorrido posterior retratação. Inteligência da Súmula n. 545 do STJ" (AgRg no HC n. 441.147/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/3/2019).
+No presente caso, ficou consignado no acórdão que "conquanto tenham alterado parcialmente suas versões em juízo, em sede inquisitiva, os acusados também admitiram terem ingressado no imóvel por meio de escalada e que fizeram buracos no chão e na parede, de onde subtraíram a fiação de iluminação (fls. 19/21)" (fl. 506).
+A confissão realizada, por conseguinte, tanto na fase inquisitorial quanto judicial, foi utilizada para corroborar o acervo probatório e fundamentar a condenação, razão pela qual deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal. São os termos da Súmula n. 545 do STJ, verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Verifico, ainda, que ocorréu Willian Stevan está na mesma situação fática e processual do recorrentee, assim, estendo-lhe os efeitos desta decisão, nos termos do art. 580 do Código de Processo Penal.
+II. Readequação da pena
+Destaco que tanto a pena-base do recorrente Franciel quanto do corréu Willian foram fixadas em 2 anos, 4 meses e 24 dias de reclusão e 12 dias-multa. Na segunda fase, reconheço a atenuante da confissão e reduzo a pena de ambos em 1/6, o que perfaz o total de 2 anos de reclusão e 10 dias-multa, que se torna definitiva ante a ausência de outras causas modificativas.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial a fim de reduzir a pena imposta ao recorrente Franciel para 2 anos de reclusão e 10dias-multa. Estendo os efeitos desta decisão aocorréuWillian Stevan Santos de Oliveira para o qual foi fixada a mesma pena.
+Publique-se e intimem-se.
