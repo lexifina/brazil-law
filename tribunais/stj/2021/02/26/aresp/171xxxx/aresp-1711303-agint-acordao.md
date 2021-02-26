@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE. ALEGADA VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL.INOCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. NEXO DE CAUSALIDADE NÃO COMPROVADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça autoriza o Presidente do STJ a não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, condição verificada na hipótese dos autos.
+2. O Tribunal a quo, soberano no reexame dos elementos que instruem o caderno processual, ao analisar a questão relativa à responsabilidade civil, concluiu pela ausência de comprovação de falha no atendimento de saúde e inexistência de nexo de causalidade na espécie.
+3. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de asseverar que se encontram comprovados na espécie os requisitos da responsabilidade civil que ensejam o dever de indenizar, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno apresentado por Daniela Oliveira Beiga, contra decisão da Presidência do STJ que, com base no art. 21-E, V, do RISTJ, conheceu do agravo em recurso especial para não conhecer do próprio apelo nobre, em razão da incidência do óbice da Súmula 7/STJ.
+Sustenta a parte agravante, em resumo, a inaplicabilidade do disposto no art. 21-E, V, do RISTJ na espécie, argumentando que no agravo em recurso especial tratou "de forma exaustiva e específica sobre o fundamento da decisão inicialmente agravada" (fl. 1.505).
+Aduz, também, a inaplicabilidade da vedação sumular, pois "a questão controversa trazida a julgamento é estritamente jurídica, em busca de redefinição jurídica dos fatos que permeiam a lide, assim como o enfrentamento de ofensa à legislação federal referida" (fl. 1.506).
+Requer, desse modo, a reconsideração do decisum, ou que o agravo seja submetido ao julgamento colegiado.
+Impugnações dos agravados às fls. 1.513/1.515, 1.521/1.522 e 1.524/1.526.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE. ALEGADA VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL.INOCORRÊNCIA. RESPONSABILIDADE CIVIL DO ESTADO. NEXO DE CAUSALIDADE NÃO COMPROVADO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça autoriza o Presidente do STJ a não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, condição verificada na hipótese dos autos.
+2. O Tribunal a quo, soberano no reexame dos elementos que instruem o caderno processual, ao analisar a questão relativa à responsabilidade civil, concluiu pela ausência de comprovação de falha no atendimento de saúde e inexistência de nexo de causalidade na espécie.
+3. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de asseverar que se encontram comprovados na espécie os requisitos da responsabilidade civil que ensejam o dever de indenizar, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+De início, cumpre dizer que o art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça autoriza o Presidente do STJ a não conhecer de recurso inadmissível, prejudicado ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, condição verificada na espécie dos autos.
+Superada essa preliminar, cabe reafirmar os fundamentos adotados na decisão agravada, uma vez que o conhecimento do apelo nobre esbarra em óbice intransponível.
+Note-se que o Tribunal a quo, soberano no reexame dos elementos que instruem o caderno processual, ao analisar a questão relativa à responsabilidade civil, concluiu pela ausência de comprovação de falha no atendimento de saúde e inexistência de nexo de causalidade na espécie, nos seguintes termos (fls. 1.274/1.282):
+O que os autos revelam é que, tão logo diagnosticada a litíase renal, foram realizados os procedimentos e executadas as intervenções cirúrgicas necessárias à obtenção do melhor resultado segundo a técnica médica, o que põe em dúvida a tese de que os danos ao sistema renal da apelante ocorreram por falhas do sistema de saúde.
+ ..  Os depoimentos (evento 205) revelaram que o tratamento foi exitoso e não houve, pelo que se depreende, falhas nos atendimentos prestados.
+De fato, não há nos autos elementos que indiquem a má prestação do serviço por ocasião dos primeiros atendimentos. Como bem consignado na sentença, a apelante não logrou demonstrar, por meio de prova técnica, que protocolos médicos não foram seguidos ou que a doença poderia ter sido diagnosticada já à época dos primeiros atendimentos.
+Por essa razão, ausente o nexo de causalidade entre as condutas examinadas e os danos alegados, rejeita-se a tese recursal, pois não configurados os pressupostos do dever de indenizar.
+Desse modo, é certo que a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, no sentido de asseverar que se encontram comprovados na espécie os requisitos da responsabilidade civil que ensejam o dever de indenizar, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA DECORRENTE DE ERRO MÉDICO EM PROCEDIMENTO OCORRIDO NO HOSPITAL DE BASE DO GAMA/DF. CONFORME CONSTOU DO ACÓRDÃO RECORRIDO, A DEMORA NO DIAGNÓSTICO, A INDEFINIÇÃO DO CORRETO PROCEDIMENTO A SER ADOTADO E A TARDIA REALIZAÇÃO CIRÚRGICA CARACTERIZAM A DESÍDIA NO ATENDIMENTO E, PORTANTO, EVIDENCIAM OS DANOS MORAIS SOFRIDOS PELO AUTOR E A RESPONSABILIDADE CIVIL DO ESTADO. PREMISSAS DO ARESTO IMPASSÍVEIS DE REEXAME NESTA VIA RECURSAL ESPECIAL. A ALEGAÇÃO DA OCORRÊNCIA DE PRECLUSÃO LÓGICA CARACTERIZA INOVAÇÃO RECURSAL, NÃO PODENDO SER CONHECIDA DADA A AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO INTERNO DO DISTRITO FEDERAL A QUE SE NEGA PROVIMENTO.
+1. Segundo o aresto recorrido, a responsabilidade administrativa é evidente no caso em que se constatou conduta negligente e desidiosa no tratamento médico, evidenciando os danos morais sofridos pelo autor e a responsabilidade civil do Estado.
+2. A alteração das conclusões do acórdão, com base nas provas constantes nos autos, implicaria o revolvimento do conteúdo fático-probatório da demanda, o que se mostra inviável em sede de Recurso Especial, nos termos da Súmula 7/STJ.  ..
+4. Agravo Interno do DISTRITO FEDERAL a que se nega provimento.
+(AgInt no AREsp 1.053.027/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 10/12/2018, DJe 19/12/2018)
+ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/73. INEXISTÊNCIA. ALTERAÇÃO DO QUANTUM FIXADO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ. ..
+IV - Quanto a suposta violação dos arts. 186 do Código Civil a Corte de origem assim se manifestou sobre a questão em debate no presente apelo nobre, litteris (fl. 118): "No que pertine à condenação por danos morais, a recusa injustificada de cobertura de procedimento necessário ao reestabelecimento da saúde do usuário é causa ensejadora de indenização por danos morais, considerando-se tanto a necessidade do procedimento que garanta o direito à saúde do usuário, mas também a fragilidade emocional em que o mesmo se encontra em virtude do seu estado de saúde".
+V - O Tribunal a quo, portanto, analisou o feito com base no substrato fático-probatório dos autos, mencionando, inclusive, a recusa injustificada do atendimento, a necessidade do procedimento e a fragilidade do paciente em virtude do estado de saúde. Sendo assim, aplicável, ao caso, a Súmula n. 7/STJ, pois incabível a reapreciação do aludido conteúdo probatório nesta instância especial. ..
+VII - Agravo interno improvido.
+(AgInt no AREsp 999.401/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 3/4/2018, DJe 9/4/2018)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
