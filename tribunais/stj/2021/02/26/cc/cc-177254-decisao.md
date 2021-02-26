@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 7ª Vara Criminal de Cuiabá - SJ/MT, o suscitante, e o Juízo de Direito da 1ªVara Criminal da comarca de Tangará da Serra/MT, o suscitado.
+A natureza do dissenso foi assim sintetizada pelo Ministério Público Federal (fl. 111):
+ ..
+2. Extrai-se dos autos que o Juízo de Direito da 1ª Vara Criminal de Tangará da Serra/MT declinou da competência ao fundamento de que "No caso em tela, os crimes de homicídio e tentativa de homicídio em análise foram praticados por um indígena contra outros dois índios, dentro de um território indígena (Aldeia Papagaio), e cuja motivação desse delito mostrou-se afeta a questão cultural daquela comunidade, referente a aceitação de casamento entre índios, portanto, circunstância relativa a sua organização social, crenças e tradições, ou seja, aos "direitos indígenas"" (e-STJ Fl. 75).
+3. O Juízo Federal da 7ª Vara Criminal de Cuiabá/MT, por sua vez, suscitou o conflito por entender que "no presente caso, ao contrário do sustentado pelo Ministério Público do Estado de Mato Grosso, as provas produzidas no bojo do inquérito policial não indicam que o crime tenha sido motivado por questões ligadas à cultura indígena" (e-STJ Fl. 87).
+ ..
+No parecer, o Ministério Público Federal opinou pela declaração de competência do Juízo estadual, o suscitado (fls. 112/113 - grifo nosso):
+ ..
+5. Inicialmente, verifica-se que o conflito merece ser conhecido, porquanto, nos termos do art. 105, I, alínea "d", da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os conflitos de competência entre juízes vinculados a Tribunais diversos.
+6. No mérito, com razão o Juízo suscitante.
+7. Com efeito, consta dos autos que ANDRÉ PARECI teria, intencionalmente, atropelado JACEU OKENAZOKAE e BENEDITO MAZOKAE, que veio a falecer, tendo sido apontado motivação passional para o cometimento do crime.
+8. Do boletim de ocorrência, extrai-se que "NARRA O COMUNICANTE QUE SEU IRMAO, BENEDITO MAEZOKAE, FOI ATROPELADO PROPOSITALMENTE POR, ANDRE PARECI, QUE ESTAVA CONDUZINDO O VEÍCULO GM S10 EXECUTIVE, BRANCA PLACA NPP 1610. NA OCASIÃO, BENEDITO VEIO A FALECER NO MUNICIPIO DE CACERES-MT. SEGUNDO O COMUNICANTE, BENEDITO E ANDRE TERIAM UM DESAVENÇA POR QUESTÕES PASSIONAIS" (e-STJ Fl. 10).
+9. Vale registrar ainda que, por meio de requerimento dirigido ao Ministério Público Estadual, ROBERTO ZAKOMAZOKAE informou que "em uma ocasião de campeonato de futebol na Aldeia, alguns meses atrás, ANDRE PARECI se envolveu em uma briga e prometeu que iria matar atropelado o irmão do Requerente, no caso a vítima BENEDITO MAZOKAE" (e-STJ Fl. 11) 10. Em seu depoimento à autoridade policial, ROBERTO ZAKOMAZOKAE esclareceu que "dia 03 de outubro, por volta das 16:00 ou 17:00 horas, houve uma briga entre Andre e Jaceu, onde Andre ameaçou matar Jaceu atropelado; QUE o motivo da briga é que Andre ofereceu a irmã dele para casar com Jaceu e o mesmo não quis, oportunidade em que Andre não gostou e o ameaçou Jaceu de morte; QUE Benedito nao tinha nenhuma rixa com Andre, afirmando que a rixa era entre Andre com Jaceu" (e-STJ Fl. 34).
+11. JACEU OKENAZOKAE, por sua vez, comunicou que "realmente teve uma briga com André, porque o irmão dele queria casar com a irmã do declarante, porém ela e a família não queria o casamento; QUE na ocasião André ameaçou o declarante de morte, o qual disse que iria mata-lo atropelado quando o encontra-se na rua" (e-STJ Fl. 36).
+12. ANDRE ZEKENOZOKAE, em seu depoimento, permaneceu em silêncio.
+13. Sobre a matéria, esse Superior Tribunal de Justiça firmou entendimento no sentido de que "Via de regra, crime praticado por índio ou contra ele, será processado e julgado pela Justiça Estadual, salvo comprovação efetiva de que a motivação se refere a disputa de direitos indígenas" (AgRg no CC 149.964/MS, Rel.Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 22/03/2017, DJe 29/03/2017).
+14. Na espécie, conforme bem pontuado pelo Ministério Público Federal em Mato Grosso, trata-se "de crime passional, motivado por vingança, que poderia muito bem se dar de modo muito semelhante em outro contexto, que envolvesse apenas não índios" (e-STJ Fl. 80). Além disso, "o homicídio praticado por um índio contra dois outros não teve conotação de disputa de seus direitos indígenas, não foi motivado por uma tradição ou crença da comunidade indígena, e tal fato não atinge direitos coletivos. Outrossim, o crime não foi praticado para atingir a cultura indígena" (e-STJ Fl. 82).
+15. Como se vê, em que pese o delito ter sido praticado por indígena contra dois indígenas, o caso não envolve questão de Direito Indígena, sendo que, do quanto apurado até o presente momento, pode-se concluir que a motivo da desavença entre André e Jaceu não se mostra de cunho coletivo, tradicional ou cultural.
+16. Face ao exposto, o Ministério Público Federal opina para que seja declarada a competência do Juízo de Direito da 1ª Vara Criminal de Tangará da Serra/MT.
+É o relatório.
+Com razão o parecerista.
+Consoante anotitia criminis, os crimes de homicídio e tentativa de homicídio guardam nexo de causalidade com desavença de cunho estritamentepessoal envolvendo indígenas, ou seja,fora da hipótese preconizada no art. 109, XI, da Constituição Federal.
+Ora, embora a vítimaJaceu Okenazokae tenha mencionadoque a rixa com o investigado Andre Zekenozokae tenha origem no fato de que sua família não concordou com o casamento entre sua irmãe oirmão do investigado, não fez qualquer menção de que tal discordância teria por base questões culturais indígenas, não havendo também qualquer outra prova nos autos que aponte neste sentido(fl. 87).
+Em casos que tais, a jurisprudência desta Corte tem orientado no sentido dacompetência da Justiça estadual para processar o inquérito:
+CONFLITO NEGATIVO DE COMPETÊNCIA. HOMICÍDIO. VÍTIMA E AUTOR INDÍGENAS. MOTIVAÇÃO. VINGANÇA. INEXISTÊNCIA DE LESÃO A DIREITOS INDÍGENAS. MOTIVAÇÃO ESTRITAMENTE PESSOAL. SÚMULA 140/STJ.INCIDÊNCIA. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. Compete à Justiça Federal processar e julgar delitos relacionados à disputa de direitos indígenas, conforme a dicção do art. 109, XI da CF, exigindo-se lesão direta à organização social e cultural dos índios.
+2. Na espécie, o crime de homicídio teria sido praticado por motivo de vingança, uma vez que o suposto autor intelectual da morte do chefe da tribo, fora expulso da comunidade pela suspeita de que seria o autor de furtos ocorridos nas proximidades da aldeia.
+3. Não se vislumbrando lesão a direitos indígenas coletivamente considerados, afasta-se a competência da Justiça Federal, nos termos da Súmula nº 140/STJ.
+4. Conflito conhecido para declarar a competência do Juízo de Direito da Vara Criminal de Ortigueira/PR, o suscitado.
+(CC n. 101.569/PR, Ministro Jorge Mussi, Terceira Seção, DJe 6/9/2010)
+Ante o exposto, acolhendo o parecer, conheço do conflito para declarar a competência do Juízo de Direito da 1ªVara Criminal de Tangará da Serra/MT, o suscitado.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. HOMICÍDIO E TENTATIVA DE HOMICÍDIO. VÍTIMA E AUTOR INDÍGENAS. CRIMES QUE GUARDAM NEXO DE CAUSALIDADE COM DESAVENÇA DE CUNHO PESSOAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES DA TERCEIRA SEÇÃO. PARECER ACOLHIDO.
+Conflito conhecido para declarar a competência doJuízo de Direito da 1ª Vara Criminal de Tangará da Serra/MT, o suscitado.
