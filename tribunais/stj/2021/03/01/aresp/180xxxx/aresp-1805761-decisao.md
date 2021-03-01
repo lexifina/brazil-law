@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo apresentado pela FAZENDA DO ESTADO DE SÃO PAULO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APOSENTADO DA ANTIGA FEPASA COMPLEMENTAÇÃO DE APOSENTADORIA PRETENSÃO DE RECEBER O REAJUSTE DE 14% DO DISSÍDIO COLETIVO TST DC 925902003 ADMISSIBILIDADE ARTIGO 192 E 193 DO DECRETO N 3553059 ARTIGO 2 § 4 DA LEI N 934396 DISSÍDIO COLETIVO QUE ABRANGEU A ZONA SOROCABANA E QUE SE APLICA AO PRESENTE CASO NÃO COMPROVAÇÃO DE PAGAMENTO DO REAJUSTE AÇÃO ORA JULGADA PARCIALMENTE PROCEDENTE RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, alega violação dos arts. 1º e 4º do Decreto n. 20.910/32, no que concerne à prescrição de fundo de direito de demanda relativa ao pagamento de reajuste concedido em decisão proferida em dissídio coletivo, trazendo o(s) seguinte(s) argumento(s):
+Está claro que a pretensão ao recebimento de reajustes relativos ao Dissídio Coletivo nº 92590/2003 que transitou em julgado em 18/04/2005 se encontra irremediavelmente prescrita, uma vez que a presente demanda somente foi ajuizada em no fim de 2012, nos termos do que dispõe o Decreto 20.910/1932  ..  - fl. 709.
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
