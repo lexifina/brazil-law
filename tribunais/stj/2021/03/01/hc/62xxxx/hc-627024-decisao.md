@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefíc io de JOAO VICTOR DA ROSA DE OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina no julgamento do HC n. 5035431-69.2020.8.24.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 23/9/2020 por ter supostamente praticado o delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. DELITO CONTRA A SAÚDE PÚBLICA. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). ILEGALIDADE DA MEDIDA PELA NÃO REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA. NÃO ACOLHIMENTO. OBSERVÂNCIA DO ART. 8º DA RESOLUÇÃO N. 62 DO CNJ QUE AUTORIZA OS MAGISTRADOS A MOTIVAREM A DISPENSA DO ATO NA PADEMIA DE COVID-19.
+PERICULUM LIBERTATIS. ALEGADA AUSÊNCIA DOS REQUISITOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. INOCORRÊNCIA. DECISUM DEVIDAMENTE FUNDAMENTADO NA GARANTIA DA ORDEM PÚBLICA, DIANTE DA PERICULOSIDADE CONCRETA DO PACIENTE, NOTADAMENTE EM RAZÃO DO RISCO DE REITERAÇÃO DELITIVA, CONSIDERANDO O REGISTRO DE ATOS INFRACIONAIS PRETÉRITOS, INCLUSIVE ANÁLOGOS AO CRIME DE TRÁFICO DE DROGA. ARGUMENTO CONCRETO QUE JUSTIFICA A CUSTÓDIA CAUTELAR. NECESSIDADE DE SE RESGUARDAR O MEIO SOCIAL. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+" ..  CONFORME PACÍFICA JURISPRUDÊNCIA DESTA CORTE, A PRESERVAÇÃO DA ORDEM PÚBLICA JUSTIFICA A IMPOSIÇÃO DA PRISÃO PREVENTIVA QUANDO O AGENTE OSTENTAR MAUS ANTECEDENTES, REINCIDÊNCIA, ATOS INFRACIONAIS PRETÉRITOS, INQUÉRITOS OU MESMO AÇÕES PENAIS EM CURSO, PORQUANTO TAIS CIRCUNSTÂNCIAS DENOTAM SUA CONTUMÁCIA DELITIVA E, POR VIA DE CONSEQUÊNCIA, SUA PERICULOSIDADE" (STJ, MIN. ANTONIO SALDANHA PALHEIRO). (TJSC, HABEAS CORPUS CRIMINAL N. 5024802-36.2020.8.24.0000, REL. GETÚLIO CORRÊA, 3ª CÂMARA CRIMINAL, J. 18-08-2020).
+PEDIDO DE REVOGAÇÃO DA PRISÃO, DIANTE DA PANDEMIA DE CORONAVÍRUS. ALEGAÇÃO DE TER SIDO O SEGREGADO TESTADO POSITIVO PARA A DOENÇA. INDEFERIMENTO NO PRIMEIRO GRAU, DIANTE DA INFORMAÇÃO DA UNIDADE DE SAÚDE PRISIONAL DE QUE O PACIENTE ENCONTRA-SE ESTÁVEL E SOB CUIDADOS MÉDICOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. ANÁLISE CASUÍSTICA EM CONFORMIDADE COM A RECOMENDAÇÃO N. 62 DO CNJ E ORIENTAÇÃO CONJUNTA CGJ/GMF N. 6 DESTE TRIBUNAL DE JUSTIÇA E, TAMBÉM, COM A DECISÃO DO PLENÁRIO DO STF NA ADPF 347, BEM COMO COM AS DIRETRIZES ADOTADAS POR ESTA CÂMARA EM HIPÓTESES SEMELHANTES.
+WRIT CONHECIDO. ORDEM DENEGADA" (fls. 24/25).
+No presente writ, a defesa sustenta a existência de constrangimento ilegal decorrente da ausência de realização de audiência de custódia. Argumenta que a pandemia do vírus Covid-19 não constitui fundamento para dispensa de audiência de custódia.
+Assevera a desproporcionalidade da prisão preventiva, ante a pena definitiva a ser imposta em caso de eventual condenação, que deverá ser cumprida em regime mais brando, sendo, ainda, possível a substituição da pena privativa de liberdade por restritiva de direitos, argumentando que o paciente fará jus à causa de diminuição especial da Lei de Drogas.
+Alega a ausência dos requisitos autorizadores do art. 312 do Código de Processo Penal - CPP, de modo que a imposição da custódia cautelar não estaria suficientemente justificada. Pontua que a quantidade de droga apreendida - 2 quilos de maconha - não se mostra exacerbada e o fato do paciente ostentar passagens enquanto menor de idade, não constitui fundamento idôneo para afastar o direito de responder ao processo em liberdade.
+Ressalta as condições pessoais favoráveis do paciente e defende a suficiência de imposição de medidas cautelares diversas da prisão.
+Destaca que o crime atribuído ao paciente é destituído de violência ou grave ameaça à pessoa, invocando a Recomendação n. 62/2020 do CNJ.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente, ainda que sejam impostas medidas cautelares diversas daprisão.
+O pedido de liminar foi indeferido (fls. 112/113). As informações foram prestadas pelas instâncias ordinárias (fls. 116/181).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 188/192).
+É o relatório.
+Decido.
+O presente habeas corpus encontra-se prejudicado.
+Isso porque, em ofício enviado a esta Corte Superior de Justiça, o Magistrado de primeiro grau informou que em 9/11/2020, condenou o paciente à pena de 3 anos e 9 meses de reclusão, em regime inicial aberto, concedendo o direito de recorrer em liberdade e substituindo a pena privativa de liberdade por duas restritivas de direito (fl. 117).
+Assim, diante do novo contexto fático, evidente a perda do objeto da presente impetração nesta Corte.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
