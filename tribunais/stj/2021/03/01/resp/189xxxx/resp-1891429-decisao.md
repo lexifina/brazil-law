@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto por ARTHUR CAMPOS APOLINÁRIO E OUTROS, com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. ENGENHARIA. JUSTIÇAGRATUITA. RECOLHIMENTO DAS CUSTAS RECURSAIS. ATO INCOMPATÍVEL. PRECLUSÃOLÓGICA. CONTRATO VERBAL. PRESTAÇÃO DE SERVIÇOS COMPROVADA. PROCEDÊNCIA DO PEDIDO. LIQUIDAÇÃO POR ARBITRAMENTO. NECESSIDADE. RECURSO PROVIDO.-Se a parte recolhe as custas iniciais do recurso, pratica ato incompatível com a pretensa gratuidade judiciária, demonstrando com tal conduta ter condições de suportar o pagamento das despesas processuais e dos honorários advocatícios.-Incumbe à parte autora comprovar a celebração de contrato verbal, seus termos e a suposta inadimplência da ré. -Tendo os autores se desincumbido desse ônus, nostermos do artigo 373, inciso I, do Código de Processo Civil, deve-se julgar procedente o pedido inicial.-Diante das peculiaridades do caso, no tocante à especificação dos serviços e ao respectivo valor, é necessária a realização de liquidação da sentença por arbitramento, por meio de perícia de engenharia e contábil" (fl. 850 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 850-867 e-STJ).
+No especial, os recorrentes alegam violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015. Sustentam, em síntese, omissão no acórdão recorrido acerca da alegação de "queos Recorridos jamais foram os engenheiros responsáveis pelas obras listadas na exordial, tampouco que realizaram qualquer trabalho técnico nas mesmas, limitando-se, quando pretendiam compor a sociedade que não chegou a se efetivar, a visitar algumas daquelas obras, e nada mais" (fl. 935 e-STJ).
+Na origem, o recurso recebeu crivo positivo de admissibilidade, ascendendo, assim, a esta Corte Superior (fls. 990-993e-STJ).
+É o breve relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com efeito, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+A esse respeito, os seguintes precedentes:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. (..)
+1. Inocorrente a apontada negativa de prestação jurisdicional, porquanto as questões submetidas ao Tribunal "a quo" foram suficiente e adequadamente apreciadas, com abordagem integral do tema e fundamentação compatível. (..)".
+(AgRg no REsp 965.541/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 17/05/2011, DJe 24/05/2011).
+"CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. (..)
+1. Não há falar em negativa de prestação jurisdicional nos embargos de declaração, se o Tribunal de origem enfrenta a matéria posta em debate na medida necessária para o deslinde da controvérsia, ainda que sucintamente. A motivação contrária ao interesse da parte não se traduz em maltrato ao art. 535 do CPC. (..)".
+(AgRg no Ag 1.160.319/MG, Rel. Ministro VASCO DELLA GIUSTINA - Desembargador Convocado do TJRS, Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011).
+Além disso,a jurisprudência desta Corte há muito se encontra pacificada no sentido de que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. ARTS. 489 E 1.022 DO CPC. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROVA TESTEMUNHAL. INDEFERIMENTO. EMBARGOS DE TERCEIRO. POSSE. PROVA. AUSÊNCIA. REEXAME. SÚMULA N. 7/STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação aos artigos 489 e 1.022 do Código de Processo Civil/2015.
+2. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção de prova testemunhal considerada dispensável pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que entender necessária à formação do seu convencimento.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento" (AgInt no AREsp 1.157.049/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 7/6/2018, DJe 15/6/2018 - grifou-se).
+No caso, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em falta de análise das provas colacionadas apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (dozepor cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinzepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
