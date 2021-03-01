@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOAO MATHEUS RODRIGUES DA SILVA, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg.TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o recorrente foi condenado como incurso na sanção do artigo 157, do Código Penal, à pena de 04(quatro) anos de reclusão, em regime inicial semiaberto, e ao pagamento de 10 (dez) dias-multa.
+Irresignada, a Defesa interpôs apelação (fls. 272-289), recurso a que se negou provimento (fls. 440-443). Eis a ementa do julgado:
+"Apelação. Crime de roubo simples. Sentença que condenou o réu pela prática de roubo simples, fixando o regime semiaberto para início do desconto da pena privativa de liberdade. Recurso da defesa visando a alteração do regime inicial da pena privativa de liberdade. Circunstâncias do caso que justificam o regime inicial intermediário. Recurso desprovido."
+Sobreveio, então, recurso especial manejado pela Defesa, interposto com fulcro no art. 105, inciso III, alínea c, da Constituição da República, em que se aponta violação do artigo 33, § 2º, do Código Penal, sob o fundamento de que a Corte de origem, a despeito das circunstâncias favoráveis do recorrente e do quantum de pena imposto, negou regime inicial aberto sem motivação idônea (fls. 451-456).
+Pleiteou-se, por fim, a fixação de regime mais brando para cumprimento da pena corpórea.
+Apresentadas as contrarrazões ao recurso especial às fls. 461-467,sobreveio juízo negativo de admissibilidade fundado: i) na deficiência de fundamentação nos moldes do artigo 1.029 do Código de Processo Civil; ii) na incidência da Súmula 7/STJ, pois a análise das questões suscitadas implicariam em revolvimento fático-probatório e iii)na incidência da518/STJ (fls. 470-471).
+Por fim, manifestou-se o Ministério Público Federal pelo conhecimento e provimento do agravo, para que seja dado provimento ao recurso especial(fls. 508-514).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A questão a ser analisada cinge-se à alegação de que não deveria ter sido fixado regime inicial mais gravoso do que aquele cabível em razão da quantidade de pena, imposição lastreada, hipoteticamente, em fundamentação inidônea.
+O eg. Tribunal a quo, por sua vez, assim se manifestou sobre o ponto (fl. 442):
+"Com efeito, o delito foi praticado em estabelecimento comercial (local de trabalho e aberto ao público), sendo que o réu era cliente e conhecido do ofendido. Circunstâncias concretas a incrementar o grau de culpabilidade da conduta, de sorte a justificar, mesmo tendo em conta a menoridade do réu e a confissão, o regime inicial intermediário para a pena privativa de liberdade. Considerada a conduta do apelante, o regime aberto avulta como insuficiente para reprovação e prevenção do crime.
+Oportuno ter em mente que "a fixação do regime inicial de cumprimento de pena não está atrelada, de modo absoluto, ao quantum da sanção corporal aplicada."
+Consoante a sólida jurisprudência desta Corte Superior, a fixação de regime prisional mais gravoso exige motivação idônea, não podendo estar alicerçada apenas na gravidade em abstrato do delito de roubo, sem a indicação de elementos concretos que demonstrem a sua real necessidade, como se depreende do excerto do acórdão recorrido colacionado acima.
+Em verdade, o regime mais gravoso deve ser imposto com indispensável e criteriosa observância dos preceitos inscritos no art. 33, § 2º, c, e § 3º, do Código Penal, do que se olvidou o eg. Tribunal de origem no caso em análise.
+Desse modo, diante das fundamentações utilizadas, concluo que, uma vez estabelecido o regime inicial semiaberto pela prática do crime de roubo com base em elementos vagos e abstratos, bem como com base em elementos inerentes ao tipo imputado, incidiuem equívoco a instância anterior ao impor regime mais gravoso.
+Tal entendimento encontra-se, inclusive, sumulado, conforme se depreende dos enunciados n. 718/STF, 719/STF e 440/STJ, os quais transcrevo a seguir, respectivamente:
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+Nessa linha, os seguintes precedentes deste Superior Tribunal de Justiça:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO MAJORADO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA PARA IMPOSIÇÃO DE REGIME MAIS GRAVOSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal, da reincidência, ou de outro dado que demonstre a extrapolação da normalidade do tipo.
+2. No caso dos autos, o Tribunal de origem manteve a pena-base no mínimo legal e justificou o regime fechado por circunstâncias inerentes ao roubo, o que não justifica, por si só, para a imposição do regime mais gravoso.
+Agravo regimental desprovido." (AgRg no REsp 1637027/SP, Quinta turma, Rel. Min. Joel Ilan Paciornik, DJe de 17/03/2017, grifei)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE ROUBO CIRCUNSTANCIADO PELO CONCURSO DE AGENTES. RÉU PRIMÁRIO. PENA-BASE NO MÍNIMO LEGAL. IMPOSIÇÃO DO REGIME MAIS GRAVOSO SEM FUNDAMENTAÇÃO IDÔNEA. INCIDÊNCIA DA SÚMULA 719/STF. AGRAVO REGIMENTAL IMPROVIDO.
+1. A decisão agravada deve ser mantida, porquanto fixado regime mais gravoso ao réu primário, cuja pena-base foi estabelecida no mínimo legal, sem apontar nenhum fundamento idôneo, a evidenciar maior reprovabilidade da conduta por ele perpetrada, além daquela já inerente ao tipo penal de roubo majorado pelo concurso de agentes. Inteligência da Súmula 719/STF.
+2. Ademais, o fato de o roubo ser cometido mediante simulação de emprego de arma de fogo representa menor risco à vítima e, por consequência, denota menor gravidade concreta da conduta a exigir o abrandamento do regime.
+3. Agravo regimental improvido." (AgInt no REsp 1550426/SP, Sexta turma, Rel. Min. Nefi Cordeiro, DJe de 16/06/2016, grifei)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS.  ..  REGIME PRISIONAL FECHADO DETERMINADO COM BASE NA GRAVIDADE ABSTRATA DO DELITO. DESCABIMENTO. SÚMULAS 718 E 719 DA SUPREMA CORTE. ALTERAÇÃO PARA O MODO SEMIABERTO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. POSSIBILIDADE.
+1. A Suprema Corte, nos verbetes 718 e 719, sumulou o entendimento de que a opinião do julgador acerca da gravidade abstrata do delito não constitui motivação idônea a embasar o encarceramento mais severo do sentenciado.
+2. In casu, embora a reprimenda tenha sido estabelecida em patamar inferior a 4 (quatro) anos de reclusão, a fixação da pena-base acima do mínimo legal, em razão da existência de circunstância judicial desfavorável, indica que o regime inicial semiaberto mostra-se adequado e proporcional na espécie.
+ .. " (AgRg no REsp n. 1.561.431/SP, Quinta turma, Rel. Min. Jorge Mussi, DJe de 13/6/2016, grifei)
+Dessarte, considerando que a pena final aplicada pelo eg. Tribunal a quo não ultrapassa quatro anos, que o recorrente é primário, e que a pena-base foi fixada no mínimo legal, a teor do disposto no art. 33, §§ 2º e 3º do CP, o regime adequado ao caso é o aberto.
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, agravo conhecido para dar provimento ao recurso especial, parafixar o regime inicial aberto, mantidos os demais termos do acórdão recorrido, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO. PLEITO DE FIXAÇÃO DE REGIME INICIAL ABERTO. REGIME MAIS GRAVOSO FUNDAMENTADO NA GRAVIDADE ABSTRATA DO DELITO. FUNDAMENTAÇÃO INIDÔNEA. SÚMULA 718/STF. SÚMULA 719/STF. SÚMULA 440/STJ. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
