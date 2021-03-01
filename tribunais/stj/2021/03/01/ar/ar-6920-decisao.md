@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de ação rescisória proposta por ELIAS JOSÉ DE AZEVEDO objetivando a rescisão de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, com base no artigo 966, inciso VIII, do Código de Processo Civil de 2015.
+O autor sustenta, em síntese, que
+"O suplicante na condição de advogado regularmente inscrito na OAB/RJ e no exercício de seus direitos, fora em 04/07/2011 contratado pelos suplicados para dar prosseguimento na ação judicial contra União Federal (Ministério da Aeronáutica), objeto do processo nº 0042145-73.1998.4.02.51011 que tramitou perante o juízo da 16ª Vara Federal do Rio de Janeiro.
+Consoante cópias anexas, o suplicante praticou várias diligências, cartoriais, juntando, petições interlocutórias, acompanhamento processual, cópias, cargas, vistas aos autos, etc..
+Os suplicados tiveram sucesso na ação, sendo dado provimento ao pleito contido na exordial. Após intenso trabalho, com inúmeras intervenções envolvendo questionamentos de alta indagação jurídica, onde foi esgotada a fase de cognição, dando o suplicante completo e eficiente cumprimento ao instrumento de procuração outorgado, ressalvando que todo o feito tramitou sem qualquer custo para os suplicados, nenhum valor, em tempo algum foi pago ao suplicante a qualquer título. Por tratar-se de colega de faculdade e pela confiança e amizade que os suplicados demonstravam ter, o suplicante aceitou os poderes outorgados pelos suplicados, porém ficando-lhe assegurado a percepção dos honorários como de lei.
+Ocorre que os suplicados ao recebem o valor da condenação se recusaram a pagar os honorários advocatícios devidos pela prestação dos serviços mencionados, que foram ajustados verbalmente e na confiança de 30% (trinta por cento), do valor recebido bastante compatível com os serviços realizados e as demais condições das partes, sem contar o lapso do tempo da tramitação do processo e as despesas de deslocamento do escritório situado em Campo Grande ao Centro do Rio de Janeiro (Foro Federal - Av. Rio Branco), é uma distância considerável. Assim, não possuindo o suplicante o contrato de honorários para promover sua execução busca através da presente ação, se digne V. Exª., na forma do paragrafo 2º do art. 22 do Estatuto da Advocacia, arbitrá-lo, mediante o lapso dos anos e o trabalho desenvolvido pelo suplicante, de modo a fixar os honorários no valor pactuado pelas partes ou de forma compatível com o trabalho e o valor econômico da questão cujo não poderá ser inferior ao estabelecido na tabela organizadora pela OAB/RJ" (e-STJ fls. 6-7).
+É o relatório.
+DECIDO.
+O Superior Tribunal de Justiça não tem competência para apreciar a presente ação rescisória.
+A teor do art. 105, inciso I, alínea "e", da Constituição Federal, "Compete ao Superior Tribunal de Justiça: I - processar e julgar, originariamente: (..) e) as revisões criminais e as ações rescisórias de seus julgados;".
+No caso dos autos, o autor busca a rescisão de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, proferido nos autos de ação de cobrança de honorários advocatícios, que foi objeto de recurso especialnão admitido na origeme cujo agravo em recurso especial (AREsp nº 1.560.977/RJ) não foi conhecido em virtude da falta de impugnação aos fundamentos da decisão agravada.
+Logo, verificando-se equívoco no endereçamento da petição a esta Corte, impõe-se a remessa dos autos ao Tribunal competente.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. INCOMPETÊNCIA DO STJ PARA PROCESSAR E JULGAR AÇÃO RESCISÓRIA QUE VISA RESCINDIR ACÓRDÃO DO TRF1. EQUÍVOCO NO DIRECIONAMENTO. REMESSA DOS AUTOS AO TRIBUNAL COMPETENTE.
+1. Conforme orientação jurisprudencial desta Corte, caberá a remessa dos autos ao juízo competente na hipótese de mero equívoco no direcionamento da ação rescisória, como no presente caso, em que o autor se insurge contra acórdão do Tribunal Regional Federal da 1ª Região.
+2. Agravo da União desprovido".
+(AgInt nos EDcl na AR 4.362/PA, Rel. Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, julgado em 09/08/2017, DJe 16/08/2017)
+Ante o exposto, reconheço a incompetência do Superior Tribunal de Justiça para o julgamento da ação rescisória e confiro oportunidade de emenda à petição inicial, nos termos do artigo 968, § 5º, do Código de Processo Civil de 2015, no prazo de 15 (quinze dias).
+Decorrido o prazo, com ou sem manifestação, remetam-se os autos ao Tribunal de Justiça do Estado do Rio de Janeiro.
+Publique-se.
+Intimem-se.
