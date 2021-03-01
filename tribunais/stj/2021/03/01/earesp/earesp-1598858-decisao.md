@@ -1,0 +1,62 @@
+DECISÃO
+JOSÉ CELSO PLÁCIDO TEIXEIRA JUNIOR e DANIELA ANTUNES DA CRUZ PLÁCIDO (JOSÉ e outra) ajuizaram ação de rescisão contratual contra SPE RESERVA I EMPREENDIMENTOS IMOBILIÁRIOS S/A (SPE) pretendendo o desfazimento do contrato de compra e venda de imóvel e a devolução das quantias que desembolsaram, declarando-se nula a cláusula que prevê a retenção desproporcional de valores.
+A sentença julgou o pedido parcialmente procedente para declarar a rescisão do contrato de compra e venda e fixar o perdimento em favor da ré em 30% dos valores pagos pelos autores, excluídas as comissões pagas.
+Contra essa decisão ambas as partes apelaram. O Tribunal de Justiça do Estado do Rio de Janeiro deu parcial provimento ao recurso de JOSÉ e outra para determinar a retenção de 20% do montante pago, incluído o valor do sinal na base de cálculo do percentual a ser retido. O recurso de SPE foi parcialmente provido para determinar como termo inicial de incidência de juros e correção monetária a data do trânsito em julgado, fixando-se a sucumbência recíproca, devendo ser as partes condenadas ao pagamento de 50% e honorários advocatícios arbitrados em 10% sobre o valor da condenação para cada parte.
+Os embargos de declaração apresentados por SPE foram rejeitados.
+Na sequência, SPE interpôs recurso especial, não admitido pelo Tribunal fluminense, ensejando a interposição de agravo em recurso especial que não foi conhecido em decisão monocrática do Presidente do STJ, Ministro JOÃO OTÁVIO DE NORONHA.
+SPE, então, interpôs agravo interno que não foi provido pela Quarta Turma do STJ, em acórdão da relatoria do Ministro ANTONIO CARLOS FERREIRA, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno a que se nega provimento. (e-STJ, fl. 898)
+Nesta oportunidade SPE apresentou os presentes embargos de divergência sustentando dissenso jurisprudencial, indicando como paradigmas o acórdão proferido pela Terceira Turma no EDcl no Ag 1.115.253/SP, Rel. Ministro PAULO FURTADO (DESEMBARGADOR CONVOCADO DO TJ/BA), j. 23/6/2009, DJe 18/8/2009, o acórdão proferido pela Segunda Seção no EAg 1.138.183/PE, Rel. Ministro SIDNEI BENETI, j. 27/6/2012, DJe 4/10/2012
+Alegou que o acórdão da Quarta Turma divergiu do entendimento da Terceira Turma do STJ (1) quanto a ofensa ao princípio da dialeticidade recursal, sendo despicienda a indicação expressa do artigo ao qual se alega a ofensa; e (2) nos casos de resilição do contrato de compra e venda de imóvel na planta, firmado antes da Lei nº 13.786/18 e por parte do promitente-comprador, a incorporadora/construtora terá direito a retenção de 25% (vinte e cinco por cento) do valor pago.
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, conforme o Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Cinge-se a controvérsia a dirimir suposto dissenso jurisprudencial das Turmas que compõem a Segunda Seção do STJ (1) quanto a ofensa ao princípio da dialeticidade recursal, sendo despicienda a indicação expressa do artigo ao qual se alega a ofensa; e (2) nos casos de resilição do contrato de compra e venda de imóvel na planta, firmado antes da Lei nº 13.786/18 e por parte do promitente-comprador, a incorporadora/construtora terá direito a retenção de 25% (vinte e cinco por cento) do valor pago.
+(1) Da ausência do cotejo analítico quanto ao julgado paradigma da Segunda Seção, prolatado no EAg 1.138.183/PE, Rel. Ministro SIDNEI BENETI, j. 27/6/2012, DJe 4/10/2012
+A divergência não ficou caracterizada diante da ausência do necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem.
+A embargante deveria ter comprovado o dissídio pretoriano nos moldes estabelecidos no art. 266, § 4º, combinado com o art. 225, §§ 1º e 2º, do RISTJ:
+Art. 266.  ..
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+Com efeito, é necessário transcrever trechos dos julgados confrontados que comprovem a divergência, indicando as circunstâncias fáticas e jurídicas que identifiquem ou assemelhem os casos confrontados, o que não foi feito.
+Ao contrário do disposto nas normas acima, a embargante se limitou à mera transcrição de trechos do acórdão paradigma, o que é insuficiente à comprovação do dissídio jurisprudencial invocado.
+(2) Da ausência de idêntico grau de cognição entre os arestos confrontados
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+O art. 1.043, II, do NCPC, estabelece que cabem embargos de divergência contra o acórdão que em recurso especial divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+Na hipótese, o acórdão embargado da Quarta Turma entendeu incidir o óbice da Súmula nº 182 do STJ sob o fundamento de que o embargante deixou de atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial (Súmula nº 182 do STJ).
+Não há, pois, nessa oportunidade, como se alterar e reavaliar os critérios sobre o conhecimento do recurso para concluir, segundo pretende o embargante, que era o caso de determinar que a incorporadora/construtora terá direito a retenção de 25% (vinte e cinco por cento) do valor pago.
+Não se configura divergência entre julgados quando um deles adentra o mérito do recurso, apreciando a questão controvertida, ao passo que o outro não conhece do recurso especial, sem enfrentar a tese de mérito, em razão de óbice relacionado à admissibilidade recursal.
+Isto porque não há similitude fática quando o acórdão embargado trata da inadmissibilidade do recurso especial e o paradigma do mérito.
+É que, nos embargos de divergência, os acórdãos cotejados devem exibir idêntico grau de cognição.
+Embora o art. 1.043, III, do NCPC, estabeleça o cabimento de embargos de divergência, sendo os acórdãos confrontados um de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia.
+Desse modo, uma vez não apreciado o mérito do recurso especial incide o enunciado da Súmula nº 315 do STJ: não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial.
+Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado não ultrapassou, de fato, o juízo de admissibilidade, e o julgado paradigma admitiu o recurso e enfrentou o mérito, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados.
+Confiram-se os precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. REGRA TÉCNICA DE ADMISSIBILIDADE RECURSAL.
+1. Os embargos de divergência não são cabíveis para análise de regras técnicas de admissibilidade do recurso especial, como sói ser a incidência da Súmula 182 do STJ, haja vista que o escopo deste recurso é a uniformização de teses jurídicas divergentes em relação à matéria de mérito, de modo que, ante a natureza vinculada de sua fundamentação, é vedado analisar qualquer outra questão que não tenha sido objeto de dissídio entre os acórdãos em cotejo, ainda que se trate de matéria de ordem pública.
+2. Súmula 315 do STJ: "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+Entendimento positivado no art. 1.043, III, do CPC/2015.
+3. Agravo interno não provido.
+(AgInt nos EAREsp 955.088/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Corte Especial, j. 18/4/2018, DJe 2/5/2018 - sem destaque no original)
+PROCESSUAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO ORIUNDO DA MESMA TURMA PROLATORA DO ARESTO EMBARGADO. POSSIBILIDADE COM O ADVENTO DO NCPC. PRETENSÃO DE REDISCUSSÃO DE REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INVIABILIDADE.
+1. Os embargos de divergência pressupõem a similitude fático-jurídica entre os julgados confrontados, com a menção de pontos que identifiquem ou aproximem os acórdãos paragonado e paradigma.
+2. A teor do § 3º do art. 1.043 do Novo Código de Processo Civil, são cabíveis "embargos de divergência quando o acórdão paradigma for da mesma turma que proferiu a decisão embargada, desde que sua composição tenha sofrido alteração em mais da metade de seus membros".
+3. Todavia, a jurisprudência desta Corte não admite a oposição de embargos de divergência para rediscutir regras técnicas de conhecimento recursal.
+4. Agravo regimental improvido.
+(AgRg nos EREsp 1.459.396/MG, Rel. Ministro HUMBERTO MARTINS, Corte Especial, j. 7/6/2017, DJe 14/6/2017 - sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SOCIEDADE EDUCACIONAL. EXCLUSÃO DE SÓCIO. JUSTO MOTIVO. NÃO OCORRÊNCIA. ACÓRDÃO EMBARGADO. JUÍZO DE MÉRITO. ACÓRDÃO PARADIGMA. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULA Nº 7. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do NCPC neste julgamento conforme o Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão.
+3. No caso em exame, o acórdão embargado concluiu pela ausência de justa causa apta a ensejar a exclusão de sócio, enquanto o paradigma não adentrou no mérito da questão, em virtude do óbice da Súmula nº 7 do STJ.
+4. Nos embargos de divergência os acórdãos cotejados devem exibir idêntico grau de cognição. Doutrina.
+5. Conforme entendimento desta Corte Superior de Justiça, são incabíveis embargos de divergência quando o acórdão embargado admitiu o recurso e enfrentou o mérito, e o julgado paradigma não ultrapassou, de fato, o juízo de admissibilidade, inexistindo, por essa razão, a indispensável semelhança fático-processual entre os arestos confrontados. Precedentes.
+6. Agravo interno não provido.
+(AgInt nos EREsp 1.280.051/MG, Rel. Ministro MOURA RIBEIRO, Segunda Seção, j. 13/12/2017, DJe 6/3/2018 - sem destaque no original)
+Desse modo, permanece hígido o entendimento da Corte Especial de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Nessas condições, nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO ENTRE OS ARESTOS CONFRONTADOS NOS MOLDES DO ART. 266, §4º, DO RISTJ. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ÓBICE DA SÚMULA Nº 182 DO STJ. ACÓRDÃO PARADIGMA. JUÍZO DE MÉRITO. AUSÊNCIA DE IDÊNTICO GRAU DE COGNIÇÃO. REGRA TÉCNICA. SÚMULA Nº 315 DO STJ. EMBARGOS REJEITADOS LIMINARMENTE.
