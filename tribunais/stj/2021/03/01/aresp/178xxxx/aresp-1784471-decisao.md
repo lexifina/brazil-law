@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por GERCON CONSTRUÇÕES E INCORPORAÇÕES LTDA. contra decisão de inadmissibilidade do recurso especial apresentado, com fundamento no art. 105, III, a e c, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+Apelações Cíveis. Relação de consumo. Celebração de contrato de promessa de compra de imóvel. Sentença de parcial procedência. Irresignação das empresas rés.
+Agravo retido da 2ª ré contra a decisão que rejeitou a preliminar de ilegitimidade passiva. A parte autora além da rescisão do contrato, pleiteia indenização a título de dano moral em razão de alegado atraso nas obras de construção do empreendimento imobiliário. Tendo em vista que a causa de pedir é o alegado atraso na entrega do empreendimento imobiliário e que a 2ª ré, GERCON GERENCIAMENTO E CONSTRUÇÕES LTDA, é a responsável pela construção, é evidente sua legitimidade para figurar no polo passivo da presente ação.
+Obrigações relativas ao pagamento das condenações a título de danos morais e verbas de sucumbência que foram impostas solidariamente às duas empresas rés, tratando-se de erro material o fato de constar "empresa requerida" e não "empresas requeridas" no dispositivo da sentença.
+Inexistência de motivo para anulação da sentença.
+1ª ré e a 2ª ré que atuam em nítida relação de parceria, afigurando-se evidente e inafastável a solidariedade entre os réus para responderem por eventuais danos causados aos seus consumidores. Artigos 7º, parágrafo único e 25, §1º do CDC.
+A data prevista para conclusão da unidade, sem considerar a cláusula de prorrogação, era 01/09/2010. Autores que estão inadimplentes desde 10/03/2010.
+Os atores deixaram de pagar as prestações pactuadas muito antes da data prevista para a entrega do imóvel, demonstrando seu desinteresse na manutenção do negócio jurídico. Irrelevância de eventual atraso na entrega do imóvel pela parte ré.
+Desistência dos compradores, que interromperam o pagamento das parcelas avençadas. Não cabimento da restituição integral dos valores pagos à parte ré. Direito dos autores à devolução da quantia paga, com retenção de 10% do valor, consideradas as peculiaridades do caso concreto.
+Dano moral não configurado. Inexistência de falha na prestação do serviço, imputável à parte ré, por ocasião em que a parte autora manifestou seu desinteresse em manter o negócio jurídico.
+Reforma parcial da sentença para condenar as empresas rés solidariamente a restituir aos autores 90% de todo o montante pago, acrescido de correção monetária desde a data do desembolso, e de juros de 1% a contar da citação, afastando-se a condenação das empresas rés relativa ao pagamento de indenização a título de dano moral.
+Sucumbência recíproca. Na forma dos parágrafos 8º e 14 do art. 85 do CPC/2015, condena-se a parte autora ao pagamento de honorários sucumbenciais no valor de R$ 2.000,00 na proporção de R$ 1.000,00 para o advogado da 1ª ré e R$ 1.000,00 para o advogado da 2ª ré e condena-se as empresas rés solidariamente ao pagamento de honorários sucumbenciais ao advogado da parte autora em quantia equivalente à 10% do valor da condenação.
+NEGA-SE PROVIMENTO AO AGRAVO RETIDO DA 2ª RÉ.
+DÁ-SE PARCIAL PROVIMENTO ÀS APELAÇÕES DA PARTE RÉ.
+Os embargos de declaração opostos pela corré ZG PARTICIPAÇÃO SPE 03 LTDA. não foram conhecidos, ante a sua intempestividade (e-STJ, fls. 346-350).
+Em suas razões de recurso especial, a parte recorrente alegou violação do art. 485, VI, do CPC/2015, defendendo sua ilegitimidade passiva para o ressarcimento de prejuízos e de valores não recebidos pela construção do imóvel, ao argumento de não ter sido parte do contrato celebrado entre a parte autora e a outra corré, no qual foi indevidamente indicada como construtora.
+Contrarrazões não apresentadas (e-STJ, fl. 410).
+É o relatório. Decido.
+Inicialmente, diante da intempestividade dos embargos de declaração opostos pela corré ZG PARTICIPAÇÃO SPE 03 LTDA., declara-se a tempestividade do presente recurso especial interposto por GERCON CONSTRUÇÕES E INCORPORAÇÕES LTDA. Isso porque o não conhecimento daquele recurso pelo Tribunal de origemfoi fundamentado no incorreto protocolo da petição recursal pela outra corréem sistema de processamento eletrônico distinto daquele estabelecido como adequado, ainda que dentro do prazo recursal.
+Portanto, é inviável a conclusão pela inequívocapossibilidade de a parte ora recorrente verificar antecipadamentea intempestividade reconhecida no julgamento dos embargos de declaração opostos pela outra ré, motivo pelo qual não pode ser prejudicada pelo referido não conhecimento dos declaratórios.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSOS. PRESSUPOSTOS RECURSAIS. EMBARGOS DE DECLARAÇÃO INTEMPESTIVOS. INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DE NOVOS RECURSOS.
+I - Quanto ao embargante, os embargos de declaração intempestivos não interrompem o prazo para a interposição de novos recursos, mas interrompem, quanto ao embargado, que não tem como verificar de plano a referida intempestividade.
+II - Recurso Especial provido.
+(REsp 869.366/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 17/06/2010, DJe 30/06/2010)
+No caso dos autos, o Tribunal de origem concluiu pela responsabilidade daré, ora recorrente, na restituição dos valores pagos em virtude da resolução contratual de compra e venda de imóvel, com fundamento na qualidade de construtora do empreendimento imobiliário e parceira negocial, além dasolidariedade legal frente ao consumidor, prevista pelos arts. 7º, parágrafo único, e 25, § 1º, do CDC (e-STJ, fls. 305-306).
+Entretanto, as razões recursais não combateram asolidariedade legal, motivo suficiente para manter incólume o acórdão recorrido, circunstância que impossibilitao conhecimento do recurso especial, nos termos da Súmula 283/STF.
+Além disso, o acolhimento da tese de irresponsabilidade contratual pela ausência de participação do instrumento decontrato, que conteria apenas sua indevida referência como construtora, não pode ser acolhido sem reexame direto dasprovas dos autos, especialmente do contrato, providência manifestamente proibida nesta instância, nos termos das Súmulas 5 e 7 do STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial interposto porGERCON CONSTRUÇÕES E INCORPORAÇÕES LTDA.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte recorrente de 10% para 11% sobre o valor atualizado da condenação.
+Publique-se.
