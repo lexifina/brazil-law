@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Embargos de Declaração contra decisão monocrática (fls. 564-566, e-STJ) que deu provimento do Recurso Especial da Fazenda do Estado de São Paulo.
+Em síntese, os embargantes alegam a existência de erro de fato:
+É imperativa a correção do erro de fato e não se pode querer atribuir mais do que a necessidade de sanar o equívoco involuntário da decisão monocrática, essencialmente quando a v. decisão embargada emitiu juízo que não guarda pertinência com as razões recursais, e, a esta hipótese, o Exmo. Ministro Ricardo Lewandowski já deu a resposta jurídica mais correta quando consignou que "erro de fato quanto à identificação da questão debatida nos autos enseja a adoção dos efeitos infringentes" (RE 550218 ED, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 19/08/2014, ACÓRDÃO ELETRÔNICO DJe-166 DIVULG 27-08-2014 PUBLIC 28-08-2014) 5. Com o máximo respeito à Vossa Excelência, a decisão ora objurgada não considerou o fato incontroverso de que a ação de cobrança quanto ao quinquênio anterior à impetração do mandado de segurança coletivo só poderia ser ajuizada por partes diversas daquelas que integraram a ação mandamental, portanto a figura do impetrante (associação como substituta processual) não se confunde com a dos autores da presente (associados substituídos na ocasião da impetração).
+Cabe ressaltar que os substituídos no writ coletivo representam um grupo de pessoas que sequer chegam a integrar a relação processual. Na verdade, são beneficiados pela concessão da ordem que se dá de forma genérica, são sujeitos determinados ou determináveis que se beneficiam do êxito tido na ação mandamental coletiva, e, desde que mantenham algum vínculo com a impetrante e comunguem do mesmo direito vindicado no writ coletivo 4 , poderão, por via própria e autônoma, exigirem os efeitos concretos do que fora obtido com a concessão da ordem, bem como aqueles não discutidos no mandamus, como é o caso dos valores pretéritos à impetração, portanto, para que fique bem claro: a associação impetrante jamais se confundirá com a figura dos agora autores, nem poderia, sob pena de alteração da regra processual.
+Houve impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 19 de fevereiro de 2020.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Com efeito, a controvérsia foi decidida de forma estreme de dúvidas, não havendo falar em omissão.
+No caso, a decisão agravada decidiu a controvérsia dos autos com base na aplicação da Súmula 85 do STJ. Assim, a alegação dos embargantes denota o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que a reiteração será considerada expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+Publique-se.
+Intimem-se.
