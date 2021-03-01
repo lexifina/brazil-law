@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 1.805/1.828) opostos à decisão desta relatoria quenegou provimento ao agravo nos próprios autos(e-STJ fls. 1.786/1.803).
+Aembargante alega, em síntese, a existência de vícios na decisão embargada, argumentando o seguinte (e-STJ fl. 1.806):
+(..) a r. decisão restouomissa quanto ao fato de que a embargante (a) impugnou o fundamentoutilizado pelo E. Tribunal a quo para afastar a alegação de nulidade e (b)impugnou os fundamentos utilizados acerca do julgamento extra petita, e (c)contraditória, pois, embora tenha reconhecido que o v. acórdão não semanifestou sobre pontos levantados nos embargos de declaração, afirmou quenão haveria ausência na prestação jurisdicional.
+Acerca daprimeiraomissão, esclareceque impugnou o fundamento arespeito danulidade por prevenção, haja vista que o acórdão assentou que a EC n. 45/2005 "previu a extinção da prevenção, o que não aconteceu, como se extrai (..) da leitura dessa EC" (e-STJ fl. 1.809).
+Quanto ao segundo ponto, afirma que a decisão embargada consignou que não teria havido impugnação sobre os fundamentos utilizados para rejeitar o alegado julgamento extra petita. No entanto, "ao contráriodo que constada decisão embargada, a embargante impugnou SIM tais fundamentosquando apontou e demonstrou violação aos artigos 264,293, 294, 2º, 262 e 460do CPC" (e-STJ fl. 1.812). Ressalta que (e-STJ fl. 1.820):
+Uma coisa é o pedido implícito, que pode ser fixadona sentença sem pedido expresso. Outra coisa completamente diferente éum pedido condenatório, um pedido principal, ser concedido sem pedidopara tanto. Bem por isso É VEDADO O JULGAMENTO EXTRA PETITA.
+Entende ser contraditório afirmar "(i) que não teria havido negativa deprestação jurisdicional" (e-STJ fl. 1.821)e que o TJSP não analisou as questões sobre ilegitimidade ativa do condomínio para receber por alegados danos de terceiros e enriquecimento sem causa.
+Requersejam sanados"os pontos omissos e a contradição apontados (..), de modo a verificar as impugnações realizadas aosfundamentos que rejeitaram a alegação de nulidade por prevenção e ojulgamento extra petita, bem como para analisar a negativa de jurisdição porausência de julgamento de (dois) pontos do declaratórios, como reconheceu ar. decisão ora embargada"(e-STJ fl. 1.827).
+Impugnação apresentada às fls. 1.831/1.845(e-STJ).
+É o relatório.
+Decido.
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Ademais, os embargos declaratórios, em regra, não permitem rejulgamento da causa, como pretende a parte ora embargante, sendo certo que o efeito modificativo pretendido é possível apenas em casos excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado, o que não se evidencia no caso em exame.
+Sob esse enfoque, os seguintes precedentes:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. ALEGADA OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. PRETENSÃO DA PARTE EM OBTER EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. É inadmissível a interposição de embargos declaratórios para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide. Precedentes.
+2. O simples descontentamento com o decisum, a despeito de legítimo, não tem o condão de tornar cabíveis os embargos de declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AgRg no AREsp 738.681/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/11/2018, DJe 12/11/2018.)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. SÚMULA 568 DO STJ. ARGUMENTO DE NÃO INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. REDISCUSSÃO DE TEMA JÁ APRECIADO. IMPOSSIBILIDADE. MULTA PREVISTA NO ART. 557, § 2º DO CPC/1973 (ART. 1.021, § 4º, DO CPC/2015). NÃO INCIDÊNCIA.
+1. Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022). A ausência do enquadramento fático às hipóteses mencionadas não permite o acolhimento do presente recurso.
+2. Não há qualquer omissão concernente à possibilidade de julgamento monocrático, visto que esta Corte Superior possui firme jurisprudência no sentido de que a legislação processual (art. 557 do CPC/1973, equivalente ao art. 932 do CPC/2015, combinados com a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal, sendo certo, ademais, que a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade.
+3. No que tange ao argumento de não incidência da Súmula nº 7 do STJ, verifica-se que está nítido o propósito da parte embargante de rediscutir temas que foram devidamente apreciados, o que, contudo, não é cabível na via estreita dos embargos de declaração.
+4. Em consonância com a jurisprudência pacífica desta Corte Superior, a simples interposição de agravo contra decisão do relator não implica a imposição de multa.
+5. Embargos de declaração parcialmente acolhidos, apenas para excluir a multa do art. 557, § 2º, do CPC/1973
+(EDcl no REsp 1.269.844/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/10/2018, DJe 23/10/2018.)
+Arecorrentebuscaafastar a aplicação daSúmulan. 7/STJ e reitera suposta ausência de prestação jurisdicional do Tribunal de origem.
+Com efeito, nãohá omissão quanto à incidênciadas Súmulas n. 283 e 284 do STF, pois, conforme explicitado na decisão embargada, a parte não impugnou os fundamentos do acórdão recorrido sobre prevenção e julgamento extra petita, de forma clara e objetiva.
+Acerca da contradição apontada, oportuno ressaltar que "aquestão jurídica sobre a qual o Tribunal de origem não estava obrigado a se manifestar, por não haver sido provocado a tanto em momento oportuno, não pode ensejar ofensa ao artigo 535 do Código de Processo Civil. Além disso, se, a despeito dos embargos de declaração opostos, o Tribunal não se pronuncia sobre determinada questão, porque encontrou fundamentos diversos para o deslinde da controvérsia, inclusive de âmbito constitucional, falta o requisito do prequestionamento, incidindo, assim, a Súmula n. 211/STJ" (EDcl nos EDcl no REsp 1190734/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/06/2011).
+Em casos tais, inexiste contradição em afastar a tese de ofensa aoartigo 535 do CPC/1973e, ao mesmo tempo, não conhecer do mérito do recurso por ausência de prequestionamento.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Assim, não se constata nenhuma das hipóteses de cabimento dos embargos declaratórios.
+Em face do exposto, REJEITO os embargos de declaração.
+Publique-se e intimem-se.
