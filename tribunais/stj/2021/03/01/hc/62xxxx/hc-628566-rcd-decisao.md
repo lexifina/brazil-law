@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de pedido de reconsideração contra decisão desta relatoria que não conheceu dohabeas corpusimpetradoem favor de REINALDO VIEIRA, ante o vício incontornável da supressão de instância.
+O requerente aponta a existência de erro material na decisão ora impugnada, esclarecendo que o objeto da impetração "cinge-se no reconhecimento de flagrante ilegalidade do acórdão impugnado para substituir a pena privativa de liberdade imposta por multa e uma restritiva de direitos, conforme se vê do trecho da peça inaugural" (fl. 336)
+Dessa forma, afirma que não houve supressão de instância,e requer a reconsideração dodecisum para que seja conhecido o writ e julgado o mérito da impetração.
+É o breve relatório.
+Decido.
+De fato, da análise da decisão ora impugnada, reconheço a existência de erro material, o qual deve ser corrigido nesta oportunidade.
+Dessa forma, onde se lê: "Requer, ao final, seja reformado o v. acórdão objurgado para que seja fixado o regime aberto, ou, subsidiariamente, o regime semiaberto, para o início do desconto da pena corporal." (fl. 326), leia-se: "Requer, ao final,seja reconhecida a suposta ilegalidade do acórdão impugnado para o fim de substituir as penas privativas de liberdade por multa e uma restritiva de direitos".
+Contudo, quanto à alegação de que não houve supressão de instância, o pedido não prospera.
+Alega a defesa que o o eg. Tribunal de origem se manifestou quanto ao pedido, em sede de embargos de declaração naquela Corte opostos.
+Para melhor delimitar aquaestio, transcrevo o seguinte excerto do v. acórdão que rejeitou os aclaratórios:
+"Na hipótese, o embargante apontou a existência de omissão indireta no acórdão, sob a alegação de que este Órgão Fracionário deveria ter substituído, de ofício, a pena privativa liberdade por restritivas de direito, pois, além de a existência de reincidência genérica, por si só, não impedir a concessão do direito previsto no art. 44 do Código Penal: a) todas as circunstâncias judiciais foram valoradas favoravelmente ao recorrente; b) o crime foi praticado sem violência ou grave ameaça; e c) a condenação anterior, por crime contra a vida, não guarda nenhuma relação com o delito apurado neste processo.
+Contudo, da análise das razões recursais apresentada pelo embargante às fls. 179-183, dos autos n. 0000433-65.2018.8.24.0022, nota-se que ele não arguiu a referida tese naquela oportunidade, tampouco manifestou sua irresignação acerca da suposta ilegalidade. Pelo contrário, a pretensão formulada no apelo limitou-se ao afastamento da qualificadora da fraude, prevista no inciso II do § 4º do art. 155 do Código Penal (fl. 183).
+A bem verdade, percebe-se que o recorrente busca discutir matéria não suscitada em sede de apelação, o que, todavia, não é possível pela estreita via dos embargos declaratórios. Aliás, no caso de contrariedade ao acórdão, a parte deve redirecionar seu inconformismo às instâncias superiores por meio de instrumento processual cabível.
+Sob esse prisma, salienta-se que esta Câmara, em observância ao princípio do tantum devolutum quantum apellatum, não tem acolhido os aclaratórios que inovam acerca das questões não levantadas em recurso de apelação.  ..
+Portanto, uma vez que a respectiva insurgência foi suscitada somente na ocasião dos presentes aclaratórios, em patente inovação recursal, torna-se incabível a análise da suposta omissão indireta." (fls. 25-27, grifei).
+Portanto, repita-se, a matéria ora suscitada sequer foi analisada pelo eg. Tribunal a quo, nos autos do recurso de apelação n. 0000433-65.2018.8.24.0022, objeto da presente impetração, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.
+Destarte, quanto ao pedido de reconsideração, verifico que a presente petição não traz, em seu bojo, qualquer argumento novo apto a ensejar a alteração do entendimento firmado por ocasião do não conhecimento do mandamus.
+Ante o exposto, indefiro o pedido de reconsideração.
+P. e I.
