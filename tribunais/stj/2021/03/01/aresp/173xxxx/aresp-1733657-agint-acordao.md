@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. REEXPEDIÇÃO DE NOVO REQUISITÓRIO. POSSIBILIDADE. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão proferida nos autos do cumprimento de sentença, a qual afastou a ocorrência da prescrição intercorrente, indeferindo o pleito do ente público. No Tribunal a quo, a decisão objeto do recurso foi mantida.
+II - O decisum vergastado inadmitiu o recurso exclusivamente com fundamento na Súmula n. 284/STF, e não na Súmula n. 283/STF. A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+III - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+IV - Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, trata-se de agravo de instrumento interposto contra decisão proferida nos autos do cumprimento de sentença, a qual afastou a ocorrência da prescrição intercorrente, indeferindo o pleito do ente público. No Tribunal a quo, a decisão objeto do recurso foi mantida, conforme a seguinte ementa do acórdão:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. REEXPEDIÇÃO DE NOVO REQUISITÓRIO. POSSIBILIDADE. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Cinge-se a controvérsia em verificar sobre eventual ocorrência de prescrição, ante o transcurso de mais de cinco anos entre a data da expedição da RPV e a data do requerimento para expedição de novo requisitório de pagamento, em virtude de seu cancelamento, por força da Lei nº 13.463/2017.
+2. No presente caso, a RPV foi depositada em 30/01/2009, vindo a ser cancelada por força do advento da Lei nº 13.463/2017. Em 21/05/2019, foi postulada a expedição de nova ordem de pagamento.
+3. Em sendo assim, a partir do momento em que o executado realizou o pagamento, o processo executivo judicial foi extinto e, ainda que o depósito tenha sido realizado numa instituição financeira, forçoso reconhecer que o valor depositado passou para esfera patrimonial do beneficiário, e inaplicável, portanto, a prescrição quinquenal, em virtude da ausência de previsão legal acerca de prazo prescricional entre a expedição de precatório/RPV e o seu levantamento.
+4. A Lei nº 13.463/2017 em nenhum momento dispôs sobre um prazo prescricional para a reexpedição de novo requisitório, de modo que a prescrição não deve ser simplesmente presumida pelo fato de se ter decorrido relevante lapso temporal entre o depósito do precatório/RPV e a sua reexpedição.
+5. Agravo de instrumento não provido.
+No recurso especial, a parte recorrente alega violação dos arts. 1º do Decreto-Lei n. 20.910/32; 3º do Decreto-Lei n. 4.597/42; e 2º da Lei n. 13.463/2017, no que concerne à ocorrência da prescrição em razão de ultrapassado o prazo de 5 anos para a expedição de nova RPV, e traz o(s) seguinte(s) argumento(s):
+Como se vê, o art. 2º da Lei nº 13.463/2017 estabelece que o cancelamento tem prazo certo e determinado, não fazendo distinção sobre as causas que impossibilitaram o pagamento do precatório, ou seja, ocorrendo o decurso do prazo de dois anos por inércia do interessado ou outra razão que RPV impossibilitou liberação dos recursos do precatório, estes devem retornar ao Ente Público conforme art. 2º, § 2º, da norma elaborada pelo Congresso Nacional dentro dos limites dados pelo âmbito de proteção da garantia constitucional do regime de precatórios. (fls. 159).
+Com o simples requerimento do credor, novo ofício requisitório será expedido, conservando-se a ordem cronológica anterior e a remuneração correspondente a todo o período. A manutenção da ordem cronológica e a garantia da remuneração correspondente ao período demonstra que os efeitos da decisão transitada em ocorrendo tão somente a transferência de numerários de uma conta para julgado são mantidos durante o tempo, outra, que a qualquer momento poderão retornar, bastando, para tanto, que haja manifestação do credor.
+Outrossim, como já exposto, a lei prevê tão somente que os valores depositados em uma instituição financeira oficial sejam repassados à Conta Única do Tesouro Nacional, após o lapso de 2 anos sem levantamento pelo credor. Nos casos em que os precatórios ou RPVs federais ainda forem objeto de questionamentos , também não existe violação a qualquer norma constitucional, uma vez que, pela regra do art. 3º, judiciais parágrafo único, haverá a conservação da ordem cronológica e a remuneração correspondente ao período em que o precatório esteve cancelado  ..  Os autores não dispõem do direito de expedição de nova RPV nos termos da lei 13.463/2017, pois o próprio direito de levantamento de valores depositados anteriormente está fulminado pela prescrição (art. 1º do Decreto 20.910/32, violado).
+Uma vez transitada em julgado, a sentença foi objeto de execução, que findou com a expedição deprecatório, ocasião em que as partes foram devidamente intimadas daquele ato, sem qualquer oposição.
+Contudo, as importâncias atinentes à referidas RPV foram devolvidas, haja vista o cancelamento do requisitório por inércia da parte exequente, que não demonstrou interesse em levantar os valores que lhes eram devidos e foram disponibilizados por mais de 5 anos.
+Aplica-se, pois, os prazos e critérios de contagem previstos nos decretos 20.910/32 e 4.597/42, violados pelo v. acórdão, "verbis":
+ ..  Extrai-se desse cipoal jurídico que o prazo legal para exercício do direito de ação em face da FAZENDA PÚBLICA é - ordinariamente - de CINCO ANOS.
+E esse prazo "data vênia" se aplica ao direito de postular levantamento de crédito depositado em ação judicial, conforme se passa a demonstrar.
+ ..  Assim sendo e considerando a inércia dos interessados em promover o levantamento no tempo hábil e que não restou comprovada pelos agravados a ocorrência de qualquer causa de suspensão/interrupção desse direito, temos que PERECEU O DIREITO dos credores para promover os atos necessários ao recebimento de seus créditos e - de consequência - não fazem mais jus a expedição de nova RPV para quitação dos valores prescritos (fls. 160/161).
+De outro lado, não merece prosperar o entendimento de que com a realização do depósito, o valor deixa de ser da "parte executada", pois a verba depositada continua sendo pública, e está a disposição do beneficiário pelo prazo legal de levantamento (cinco anos como antes visto).
+Assim sendo, resta claro que com o depósito e liberação não há transferência de titularidade da verba, mas tão somente nascimento do direito de levantamento, sobre o qual também se opera a prescrição.
+Por fim, calha ressaltar que a Lei 13.463/2017, ao garantir o direito de expedição de nova Requisição, não implicou em renúncia, pois a prescrição é instituto de ordem pública (fls. 162).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+(..)
+Inicialmente, destaca-se que o presente agravo interno se limita a atacar o capítulo da decisão que não conheceu o fundamento da União relativo a incidência da prescrição no caso concreto, aplicando a Súmula 283 do STF, para manter a imprescritibilidade acolhida pelo acórdão regional, conforme autoriza o art. 1.002 do CPC/15, que se refere ao recurso parcial.
+(..)
+Ocorre, Excelência, que o fundamento foi devidamente impugnado pela União no apelo extremo, na medida em que defendeu a limitação temporal do direito a levantamento do crédito em contraposição à imprescritibilidade defendida pelo Tribunal de origem.
+(..)
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. REEXPEDIÇÃO DE NOVO REQUISITÓRIO. POSSIBILIDADE. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO À FUNDAMENTAÇÃO. SÚMULA N. 182 DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto contra decisão proferida nos autos do cumprimento de sentença, a qual afastou a ocorrência da prescrição intercorrente, indeferindo o pleito do ente público. No Tribunal a quo, a decisão objeto do recurso foi mantida.
+II - O decisum vergastado inadmitiu o recurso exclusivamente com fundamento na Súmula n. 284/STF, e não na Súmula n. 283/STF. A parte agravante, em seu agravo interno, não impugna esses fundamentos.
+III - É entendimento desta Corte que não se conhece do agravo interno que não impugna os fundamentos da decisão recorrida. Incidência do enunciado n. 182 da Súmula do STJ.
+IV - Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Na hipótese dos autos, aduz a parte recorrente o seguinte:
+Inicialmente, destaca-se que o presente agravo interno se limita a atacar o capítulo da decisão que não conheceu o fundamento da União relativo a incidência da prescrição no caso concreto, aplicando a Súmula 283 do STF, para manter a imprescritibilidade acolhida pelo acórdão regional, conforme autoriza o art. 1.002 do CPC/15, que se refere ao recurso parcial.
+Ocorre que o decisum vergastado inadmitiu o recurso exclusivamente com fundamento na Súmula n. 284/STF, e não na Súmula n. 283/STF.
+Nesse diapasão, verifica-se que a parte agravante deixa de atacar especificamente os fundamentos da decisão ora agravada, ensejando, assim, a incidência do enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada". Ressalta-se que a mesma exigência é prevista no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+Ademais, também é aplicável o óbice da própria Súmula n. 284/STF, uma vez que as razões recursais delineadas no agravo estão dissociadas dos fundamentos utilizados no decisum impugnado, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.) Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, não conheço do agravo interno.
+É o voto.
