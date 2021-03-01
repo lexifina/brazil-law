@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por MUNICÍPIO DE AMERICANA, contra a decisãoque inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105,inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdãodo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"RECURSO  AGRAVO RETIDO - Interposição pela Municipalidade contra decisão homologatória de acordo, de natureza interlocutória  Alegação de ilegitimidade passiva e impossibilidade de prosseguimento da ação contra si  Matéria suscitada também no bojo do recurso de apelação, devendo ser enfrentada juntamente com o mérito  Agravo prejudicado.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS  Contrato de empréstimo consignado com desconto das parcelas em folha de pagamento - Alegação de ausência de repasse dos valores à Instituição Financeira  Pertinência subjetiva da Prefeitura de Americana para figurar no polo passivo de ação judicial que discute os alegados prejuízos decorrentes da falta de repasse dos valores  Preliminar rejeitada.
+AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÍVIDA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS  Contrato de empréstimo consignado  Desconto das parcelas em folha de pagamento  Ausência de repasse à Instituição Financeira  Inscrição de nome em cadastros desabonadores em virtude da não quitação das parcelas  Responsabilidade da Municipalidade configurada  Danos morais caracterizados  Indenização devida  Montante indenizatório mantido  Recurso não provido" (fl. 250 e-STJ).
+Os embargos de declaração opostos foram acolhidos, com efeito integrativo (fl. 301 e-STJ).
+No recurso especial, o recorrente alega, além de divergência jurisprudencial, violação do art. 485, VI, do Código de Processo Civil de 2015, do art. 5º,§ 2º, da Lei nº 10.820/2003 e dos arts. 884, § 3º, e 927 do Código Civil. Sustenta a ausência de responsabilidade quanto a inscrição indevida do recorrido em cadastro de inadimplentes; a extinção do feito em relação ao Município e aredução da majoração dos honorários advocatícios e dos valores devidos como danos morais.
+DECIDO.
+A lide envolve matéria referente à responsabilidade civil do Estado, decompetência da Primeira Seção desta Corte Superior, nos termos do artigo9º, § 1º, VIII, do Regimento Interno do Superior Tribunal de Justiça.
+Ante o exposto, determino a redistribuição dos autos.
+Publique-se.
+Intimem-se.
