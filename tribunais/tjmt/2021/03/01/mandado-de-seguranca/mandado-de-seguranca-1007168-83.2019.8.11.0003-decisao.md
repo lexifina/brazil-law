@@ -1,0 +1,6 @@
+VISTOS.
+O interessado (impetrante) noticia o não cumprimento da segurança concedida na origem, e requer novo mandado de intimação para que o impetrado “junte aos autos comprovação de cumprimento da segurança concedida em r. sentença, devendo o pedido n.o 9.186/2019 de expedição de PPP (Perfil Profissiográfico Previdenciário) ser analisado conclusivamente no prazo máximo de 48 (quarenta e oito) horas, sob pena de multa diária [...]” (id. 68325951).
+Considerando que os autos ainda encontram-se nesta instância, pendente o trânsito julgado do v. acórdão que ratificou a r. sentença reexaminada, hei por bem analisar o pedido.
+Conforme consta, a r. sentença confirmou a liminar anteriormente concedida, para a qual não existe qualquer óbice ao imediato cumprimento (art. 14, § 3o, Lei 12.016/2009), inclusive fora solicitada “baixa e arquivamento do mandado de segurança [...], em razão de o instituto impetrado ter concluído o processo administrativo”, contudo, ao menos em aparência, a parte teria sido intrujada.
+Como primeira providência, diante do inusitado retardamento no cumprimento de ordem judicial destinada a fazer valer direito/obrigação previdenciária, determino a intimação do impetrado para que, no prazo de 5 (cinco) dias, cumpra a decisão judicial ou justifique a impossibilidade, sob pena das consequências legais.
+Cumpra-se.
