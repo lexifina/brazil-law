@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarinaassim ementado:
+APELAÇÃO CÍVEL, AÇÃO DE REPETIÇÃO DE INDÉBITO QUE OBJETIVA O ENQUADRAMENTO RURAL DAS ATIVIDADES DESENVOLVIDAS PELA DEMANDANTE (ABATE DE BOVINOS E DISTRIBUIÇÃO DE CARNE) E, CONSEQUENTEMENTE. MODIFICAR SUA TARIFA DE ENERGIA ELÉTRICA DE "COMERCIAL" PARA "RURAL". SENTENÇA DE PARCIAL PROCEDÊNCIA QUE CONDENOU A REQUERIDA A RESTITUIR REQUERENTE O DOBRO DO QUE FOI PAGO INDEVIDAMENTE ATÉ VINTE ANOS ANTERIORES PROPOSITURA DA AÇÃO.
+(1) RECURSO DÉ APELAÇÃO CÍVEL INTERPOSTC PELA DEMANDADA.
+(1.1) ADMISSIBILIDADE.
+SUSTENTAÇÃO DE QUE OS VALORES A SEREN RESTITUÍDOS DEVEM SER SOBRE A DIFERENÇA ENTRE A TARIFA RURAL E A COMERCIAL E NÃO SOBRE O TOTAL PAGO. FALTA DE INTERESSE RECURSAL. DISPOSITIVO DA SENTENÇA QUE CONDENOU REQUERIDA/APELANTE A DEVOLVER SOMENTE OS VALORES INDEVIDAMENTE COBRADOS REQUERENTE, DE MODO QUE APENAS O QUE FO COBRADO A MAIS DEVERÁ SER RESTITUIDO E NAC SOBRE O TOTAL PAGO. (1.2) MÉRITO. (A) SUSTENTADA EXISTÊNCIA DE PRESCRIÇÃO POIS DECORRIDO O PRAZO PRESCRICIONAL DE ANOS PARA O AJUIZAMENTO DA AÇÃO, PREVISTO NC ART. 206, S 30, DO CÓDIGO CIVIL DE 2002 (CC"2D02). TESE REJEITADA.
+1.2) MÉRITO.
+(A) SUSTENTADA EXISTÊNCIA DE PRESCRIÇÃO POIS DECORRIDO O PRAZO PRESCRICIONAL DE TRÊS ANOS PARA O AJUIZAMENTO DA AÇÃO, PREVISTO NO ART. 206, § 3º, DO CÓDIGO CIVIL DE 2002 (CC/2002). TESE REJEITADA. INTELIGÊNCIA DA SÚMULA 412 DO SUPERIOF TRIBUNAL DE JUSTIÇA QUE ANUNCIA SER APLICÁVEI AO CASO AS REGRAS DE PRESCRIÇÃO PREVISTAS NA LEGISLAÇÃO CIVIL.
+PRECEDENTES.
+AÇÃO AJUIZADA EM 2011.
+PARTE DAS PARCELAS DISCUTIDA NOS AUTOSREGIDAS PELO PRAZO DE VINTE ANOS DO CÓDIGO CIVIL DE 1916 (ART. 177), NÃO ATINGIDAS PEU PRESCRIÇÃO (REGRA DE TRANSIÇÃO PREVISTA ART. 2.028 DO CC/2002). OUTRA PARTE DAS PARCELAS REGULADA PELA PRESCRIÇÃO DE DEZ ANOS DO CÓDIGO CIVIL DE 2002: (ART. 205), TAMBÉM NAO PRESCRITAS (PRAZO DE DE DEZANOS QUE INICIOU-SE APÓS A VIGÊNCIA DO CC/2002(EM 11-1-2003).
+(B) REFERIDO EQUIVOCO NA SENTENÇA AOCONSIDERAR QUE A MUDANÇA DE TARIFA SE DEUSOMENTE EM 2011, PORQUANTO A REQUERENTE JÁSE ENCONTRAVA CADASTRADA COMO RURAL DESDE 2009.
+TESE EXITOSA.
+DOCUMENTO QUE COMPROVA A MUDANÇA DE CLASSE DE TARIFA PARA RURAL AINDA EM 13-10-2009.
+RESTITUIÇÃO QUE DEVE SE LIMITAR ATÉ ESTADATA.
+REFORMA DA SENTENÇA QUE SE IMPÕE.
+(C) DEFENDIDA INAPLICABILIDADE DO CÓDIGO DEFESA DO CONSUMIDOR (CDC), PORQUE REQUERIDA É UMA COOPERATIVA, E A REQUERENTE SUA ASSOCIADA E, PORTANTO, NÃO EXISTE RELAÇÃ( DE CONSUMO ENTRE ELAS. TESE RECHAÇADA.
+AS PERMISSÍONARIAS E CONCESSIONÁRIAS DE SERVIÇO PUBLICO SÃO SUBMETIDAS AO CDC CONFORME PRESCREVE O ART. 22 E PARÁGRAFOÚNICO DE REFERIDO ESTATUTO. PRECEDENTES.
+(D) ALEGADO NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS PARA A MUDANÇA DA TARIFA UMA VEZ QUE O IMÓVEL ESTÁ LOCALIZADO EM ÁREA URBANA E NÃO RURAL, ALÉM DE NÃO HAVER PRODUÇÃO DE GADO NO ESTABELECIMENTO.
+TESE AFASTADA.
+IRRELEVÂNCIA DA LOCALIZAÇÃO DA REQUERENTE EM ÁREA URBANA, POIS COMPROVADO QUE DESENVOLVIA ATIVIDADES RURAIS DE ABATEDOURC DE BOVINOS E DISTRIBUIÇÃO DE CARNES, DE ACOROC COM OS ESTATUTO SOCIAIS.
+INTELIGÊNCIA DO DECRETO N. 62.724/1968 E DARESOLUÇÃO N. 456/2000 DA ANEEL E PRECEDENTES.
+SENTENCA MANTIDA.
+(E) ALEGADA CORRETA E OPORTUNA MUDANÇA DE CLASSE DE ACORDO COM A LEGISLAÇÃO EM VIGOR À ÉPOCA, PORQUE SOMENTE EM 28-11-2008 APELANTE FIRMOU "CONTRATO DE PERMISSÃO PARA PRESTAÇÃO DO SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA N. 018/2008", QUE PASSOU TER VALIDADE SOMENTE APÓS A PUBLICAÇÃO DIÁRIO OFICIAL DA UNIÃO, EM 2-2-2009, QUANDO AINDA NÃO ESTAVA EM VIGOR A RESOLUÇÃO 414/2010, OPORTUNIDADE EM QUE RECADASTROU APELADA COMO RURAL EM SETEMBR012009, MESMOSEM DESENVOLVER ATIVIDADE AGROPECUÁRIA, MAS O DIREITO AO REENQUADRAMENTO SÓ SURGIU A RESOLUÇÃO 41412010.
+TESE PREJUDICADA.
+CONFORME VISTO NO ITEM "B", O RECURSO FOI PROVIDO PARA CONSIDERAR QUE A MUDANÇA DE TARIFA SE EFETIVOU AINDA EM 2009. (F  ARGUIÇÃO DE QUE INDEVIDA A DEVOLUÇÃO EN DOBRO, PORQUE AUSENTE MÁ-FÉ E INJUSTIFICADA DEVOLUÇÃO EM DOBRO, DE ACORDO COM A SÚMUU 159 DO SUPREMO TRIBUNAL FEDERAL (STF), DE MODOQUE SE MANTIDA A CONDENAÇÃO À REPETIÇÃO ESTA DEVERÁ SER DE FORMA SIMPLES.
+TESE PROVIDA.
+INEXISTÊNCIA DE MÁ-FÉ.
+APELANTE QUE APENAS APLICOU A LEGISLAÇAC DE ACORDO COM UMA INTERPRETAÇÃO EQUIVOCADA O QUE REPRESENTA UM MERO ENGANC JUSTIFICÁVEL. PRECEDENTES. TESE PROVIDA PARA DETERMINAR A RESTITUIÇAC DE FORMA SIMPLES DOS VALORES COBRADOS INDEVIDAMENTE. A SEREM APURADOS EMLIQUIDAÇÃO DE SENTENÇA.
+(G) PLEITO DE INVERSÃO DO ÓNUS SUCUMBENCIAL, NO CASO OE PROVIMENTO DC RECURSO. PEDIDO INDEFERIDO. PARCIAL PROVIMENTO DO RECURSO TÃOSOMENTE PARA CONSIDERAR QUE A RESTITUIÇÃODEVERÁSE DAR ATÉ A DATA DE SETEMBRO DE 2009 E DE FORMA SIMPLES. SUCUMBÊNCIA MINIMA DO PEDIDO DA REQUERENTE/APELADA INALTERADA (ART. 21, PARAGRO UNICO, DO CPCf1973). SENTENÇA MANTIDA.
+(2) PRELIMINAR DE AUSÊNCIA DE DIALETICIDADE ARGUIDA NAS CONTRARRAZÕES, PORQUE APENAS UMA REPETIÇÃO DO QUE JÁ HAVIA SIDO EXPOSTO NA CONTESTAÇÃO.
+PRELIMINAR REJEITADA.
+NÃO HOUVE OFENSA AO PRINCIPIO DA DIALETICIDADE. UMA VEZ QUE A APELAÇÃO, ALÉM DE NÃO SER MERA REPETIÇÃO DA CONTESTAÇÃO COMBATEU OS TEMAS ABRANGIDOS NA SENTENÇA.
+RECURSO DE APELAÇÃO CÍVEL INTERPOSTO PEU DEMANDADA CONHECIDO EM PARTE E PROVIDC PARCIALMENTE PARA: (A) DECLARAR QUE DESDE OUTUBRO DE 2009 A REQUERENTE ESTAVACADASTRADA NA CLASSE TARIFA RURAL, NÃO HAVENDO COBRANÇA INDEVIDA A PARTIR DE ENTÃO (B) DETERMINAR A RESTITUIÇÃO DOS VALORES DE FORMA SIMPLES, CUJO VALOR DEVERÁ SEF APURADO EM LIQUIDAÇÃO DE SENTENÇA.
+Os Embargos de Declaração foram rejeitados.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17.02.2021.
+Esta Corte perfilha o entendimento de que é necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775, DJe 30.11.2018. Nessa linha de raciocínio:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. ART. 544, § 4º, INCISO I, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA Nº 182/STJ. EXECUÇÃO. ERRO DE CÁLCULO E ERRO DE DIREITO. COISA JULGADA. CRITÉRIOS UTILIZADOS NA LIQUIDAÇÃO DA SENTENÇA. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO NO MOMENTO OPORTUNO. PRECLUSÃO. SÚMULA Nº 83/STJ. SÚMULA Nº 283/STF. AGRAVO IMPROVIDO.
+(..) 2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 544, § 4º, inciso I, do CPC).
+3. Para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, que reconheceu a preclusão decorrente da coisa julgada, mister se faz a revisão do conjunto fático-probatório dos autos, o que, como já decidido, é inviabilizado, nesta instância superior, pela Súmula nº 7/STJ. (..)
+6. A ausência de impugnação dos fundamentos do acórdão recorrido, mormente quanto à juntada de substabelecimento pela advogada, conferindo-lhe poderes, e à procrastinação do feito, suficiente para a aplicação da multa, enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+7. Agravo regimental não conhecido. (AgRg no AREsp 16.627/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 11/9/2012).
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. PISO SALARIAL. HORAS EXTRAS. DIFERENÇAS. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTO SUFICIENTE PARA MANTER O ACÓRDÃO. SÚMULA 283/STF.
+1. A análise da controvérsia esbarra no óbice da Súmula 7/STJ, pois o Tribunal de origem, com base na análise de fatos e provas dos autos, concluiu pela inexistência de comprovação de horas extras trabalhadas.
+2. A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 925.488/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 08/06/2017, DJe 14/06/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. VIOLAÇÃO AO ART. 1021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO NÃO CONHECIDO.
+(..) 3. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à agravante, na petição do seu Agravo Interno, impugnar especificamente os fundamentos da decisão agravada. Era indispensável que a agravante, analiticamente, contrastasse todas as conclusões da decisão combatida, especificamente.
+4. A falta de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do Agravo Interno, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ.
+5. No mesmo sentido: AgInt no AREsp 1.070.028/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 17/10/2017, DJe 20/10/2017; AgRg no AREsp 807.252/RJ, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/10/2017, DJe 23/10/2017; AgInt no AREsp 1.003.118/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/10/2017, DJe 24/10/2017; AgInt no PUIL 318/MS, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/10/2017, DJe 18/10/2017; AgInt no AREsp 973.101/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017; AgInt no REsp 1.685.023/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2017, DJe 16/10/2017; AgInt no AREsp 1.077.966/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2017, DJe 17/10/2017.
+6. Agravo Interno não conhecido. (AgInt na Pet 10.274/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 22/11/2017, DJe 19/12/2017)
+No caso, o Tribunal de origem, ao analisar a admissibilidade do Recurso Especial, consignou que o conhecimento do apelo esbarra no entendimento daSúmula932 do STJ e das Súmulas 283e 284 do STF.
+Observa-se das razões do Agravo em Recurso Especial que a parte agravante apenas reapresentou os mesmos fundamentos do Recurso Especial.
+Logo, a pretensão recursal não merece conhecimento ante a incidência, por analogia, da Súmula 182/STJ.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
