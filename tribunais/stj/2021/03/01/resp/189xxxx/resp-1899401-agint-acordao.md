@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. PASEP. GESTÃO DO BANCO. LEGITIMIDADE PASSIVA DO BANCO DO BRASIL S.A. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. É entendimento do STJ que, em ações nas quais se pleiteia a recomposição do saldo existente em conta vinculada ao PASEP, a União deve figurar no polo passivo. No entanto, conforme delineado pelo acórdão recorrido, no caso dos autos, a demanda não versa sobre índices equivocados de responsabilidade do Conselho Gestor do Fundo, mas sobre responsabilidade decorrente da má gestão do banco, em razão de saques indevidos ou de não aplicação dos índices de juros e de correção monetária na conta do PASEP. Assim, tem-se a conclusão de que a legitimidade passiva é do Banco do Brasil S.A., o que define a competência da Justiça Comum Estadual. Precedentes: CC 161.590/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 20.2.2019, CC 43.891/RS, Rel. Ministro José Delgado, Rel. p/ Acórdão Ministro Luiz Fux, Primeira Seção, julgado em 13.12.2004, DJ 6.6.2005, p. 173.
+2. Por fim, ressalte-se que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão (fls. 534-538, e-STJ) de minha relatoria que negou provimento ao Recurso Especial.
+A parte agravante alega (fls. 541-558, e-STJ):
+Em julgado proferido pelo Eminente Ministro Castro Meira, ainda no ano de 2005 (REsp 747.628/MG), e em idêntica lide, expressou-se o entendimento de que "como a CEF é parte ilegítima para figurar no pólo passivo das ações relativas ao PIS (Súmula nº 77/STJ), também é ilegítimo o Banco do Brasil para figurar no pólo passivo das ações relativas ao PASEP".
+(..)
+Tal entendimento já foi posteriormente reafirmado (REsp 1.480.250/RS), tendo o Nobre Ministro Herman Benjamin negado provimento a recurso da União em ação que abordou a mesma questão, asseverando que "quanto ao polo passivo da demanda, a jurisprudência desta Corte Superior há muito tempo já afirma que o PIS/PASEP é arrecadado pela União sendo que a Caixa Econômica Federal e o Banco do Brasil, nos termos das leis complementares de regência, são meras instituições bancárias arrecadadoras".
+17 Mais recentemente, o Eminente Ministro Benedito Gonçalves, fazendo alusão a ambos os aludidos julgamentos, reafirmou que "como a CEF é parte ilegítima para figurar no pólo passivo das ações relativas ao PIS (Súmula nº 77/STJ), também se deve reconhecer a ilegitimidade do Banco do Brasil para figurar no pólo passivo das ações relativas ao PASEP" (REsp 1.867.305/DF - Decisão publicada em 1º/06/2020). Vide também o REsp 1.886.104/DF, da lavra do mesmo Douto Ministro.
+(..)
+Assim, em conclusão, tem-se que o Banco do Brasil não é responsável pela correção monetária em contas do PASEP, devendo, portanto, ações da espécie serem julgadas na Justiça Federal, pois que devida a inclusão da União no polo passivo.
+Requer, ao final, a reconsideração da decisão monocrática ou a remessa do presente Agravo Interno ao colegiado, para julgamento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. PASEP. GESTÃO DO BANCO. LEGITIMIDADE PASSIVA DO BANCO DO BRASIL S.A. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. É entendimento do STJ que, em ações nas quais se pleiteia a recomposição do saldo existente em conta vinculada ao PASEP, a União deve figurar no polo passivo. No entanto, conforme delineado pelo acórdão recorrido, no caso dos autos, a demanda não versa sobre índices equivocados de responsabilidade do Conselho Gestor do Fundo, mas sobre responsabilidade decorrente da má gestão do banco, em razão de saques indevidos ou de não aplicação dos índices de juros e de correção monetária na conta do PASEP. Assim, tem-se a conclusão de que a legitimidade passiva é do Banco do Brasil S.A., o que define a competência da Justiça Comum Estadual. Precedentes: CC 161.590/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 20.2.2019, CC 43.891/RS, Rel. Ministro José Delgado, Rel. p/ Acórdão Ministro Luiz Fux, Primeira Seção, julgado em 13.12.2004, DJ 6.6.2005, p. 173.
+2. Por fim, ressalte-se que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 7.1.2021.
+O Agravo Interno não merece prosperar.
+Conforme consta na decisão recorrida, nas ações nas quais se pleiteia a recomposição do saldo existente em conta vinculada ao PASEP, a União deve figurar no polo passivo, de acordo com o entendimento do STJ. No entanto, conforme delineado pelo acórdão recorrido, no caso dos autos, a demanda não versa sobre índices equivocados de responsabilidade do Conselho Gestor do Fundo, mas sobre responsabilidade decorrente da má gestão do banco, em razão de saques indevidos ou de não aplicação dos índices de juros e de correção monetária na conta do PASEP. Assim, tem-se a conclusão de que a legitimidade passiva é do Banco do Brasil S.A., o que define a competência da Justiça Comum Estadual.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. PASEP. SAQUES INDEVIDOS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. BANCO DO BRASIL. INSTITUIÇÃO GESTORA. SOCIEDADE DE ECONOMIA MISTA.SÚMULA 42/STJ. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 12a. VARA CÍVEL DE RECIFE -PE. 1. A Primeira Seção desta Corte tem entendimento predominante de que compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal).
+2. Incide, à espécie, a Súmula 42/STJ : Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento.
+3. Conflito de Competência conhecido para declarar competente o Juízo de Direito da 12a. Vara Cível de Recife -PE.(CC 161.590/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 20.2.2019)
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO ORDINÁRIA AJUIZADA CONTRA O BANCO DO BRASIL. SOCIEDADE DE ECONOMIA MISTA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA 42/STJ.
+1. A ação ajuizada contra o Banco do Brasil S/A, objetivando o cálculo da correção monetária do saldo da conta vinculada ao PASEP e a incidência de juros, impõe a aplicação das regras de fixação de competência concernentes às sociedades de economia, uma vez que o conflito de competência não é instrumento processual servil à discussão versando sobre a legitimidade ad causam.
+2. Destarte, sendo o Banco do Brasil uma Sociedade de Economia Mista, não se inclui na relação prevista no art. 109, I, da Constituição da República, de modo a excluir a competência da Justiça Federal, a teor do que preceitua a Súmula n.º 42 desta Corte: "Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento".
+3. Conflito conhecido para declarar competente o Juízo Estadual.
+(CC 43.891/RS, Rel. Ministro José Delgado, Rel. p/ Acórdão Ministro Luiz Fux, Primeira Seção, julgado em 13.12.2004, DJ 6.6.2005, p. 173)
+CONFLITO NEGATIVO DE COMPETÊNCIA. ALVARÁ JUDICIAL. LEVANTAMENTO DE VALORES RELATIVOS AO PASEP. TITULAR VIVO. JURISDIÇÃO VOLUNTÁRIA. BANCO DO BRASIL. GESTOR DO FUNDO. SOCIEDADE DE ECONOMIA MISTA. SÚMULA N.º 42/STJ.
+1. A expedição de alvará judicial, requerido pelo próprio titular da conta, para o levantamento de valores relativos ao PASEP é, a princípio, procedimento de jurisdição voluntária, devendo ser ajuizado perante à Justiça Comum Estadual. Precedentes.
+2. Ainda que o procedimento assuma caráter contencioso, observa-se que o Banco do Brasil figura como depositário dos valores perseguidos, sendo também o administrador do referido programa, de modo que deverá figurar, de forma exclusiva, no pólo passivo da demanda.
+3. Sendo essa instituição financeira uma sociedade de economia mista, não se inclui na relação prevista no art. 109, I, da Constituição da República, de modo a excluir a competência da Justiça Federal, a teor do que preceitua a Súmula n.º 42 desta Corte, segundo a qual "compete à justiça comum estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento".
+4. Conflito conhecido para declarar competente o Juízo de Direito, suscitado.
+(CC 44.202/BA, Rel. Ministro Castro Meira, Primeira Seção, julgado em 25.8.2004, DJ 27.9.2004, p. 181)
+Por fim, ressalto que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
