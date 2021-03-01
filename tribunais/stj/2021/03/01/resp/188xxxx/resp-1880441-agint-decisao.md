@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interno interposto por CURUÁ ENERGIA S.A. eBURITI ENERGIA S.A. contra a decisão (fls. 1.714/1.717) que conheceuparcialmente do recurso especial para, nessa extensão, negar-lhe provimento.
+Nas razões recursais (fls. 1.720/1.741), as agravantes reiterama alegação de ocorrência da prescrição trienal, dada a natureza de corretagem do pacto firmado entre as partes.
+Reprisam também a tese de que ocorreu a negativa de prestação jurisdicional na Corte de origem, visto que, quando do julgamento dos embargos de declaração,não foram sanadas as omissões e contradições apontadas, permanecendo deficiente de fundamentação o acórdão da apelação.
+Sustentam que
+"(..)
+Foram opostos embargos de declaração para fins de saneamento de alguns pontos e para prequestionamento, em que procurou demonstrar:
+OMISSÃO - PRESCRIÇÃO TRIENAL;
+OMISSÃO. AUSÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA DEANÁLISE DE PONTOS LEVANTADOS PELAS EMBARGANTES;
+CONTRADIÇÃO. PARECER DO INTERVENTOR.CONTINGENCIAMENTOPROCESSUAL; e
+CONTRADIÇÃO. CONTRATOS REDE COMERCIALIZADORA SEMFORÇA PROBATÓRIA.
+Rejeitados os Embargos de Declaração, foi interposto, por fim, Recurso Especial, que alega, em síntese, violação a dispositivos de Lei Federal (arts. 489 e 1022 do CPC e arts. 206 e 2.028 do CC) (..)
+(..)
+(..)pretendem a anulação do v. acórdão de lavra do Egrégio TJ/MT em razão da omissão quanto:
+(i) a falta de demonstração da necessidade do serviço prestado pela Agravada para que fosse alcançado o fim pretendido, qual seja, vender energia para a Celpa e receber o benefício decorrente da Conta de Consumo de Combustíveis. As Agravantes assegura que até o recebimento das autorizações de enquadramento na sub-rogação dos benefícios da Conta de Consumo de Combustível - CCC, que era o objeto do acordo em debate, houve um longo caminho a ser percorrido e tal fato não seconcretizou por intermédio dos serviços prestados pelas Agravantes, já que o processo teve início em 2002 e o acordo é datado de 01.06.2004.
+(ii) Ausência de manifestação sobre o fato de que a Agravada NÃO DETÉM A AUTORIZAÇÃO PARA COMERCIALIZAÇÃO E/OU ASSESSORAR A VENDA DE ENERGIA ELÉTRICA, regulamentado pela Resolução nº265 de 13 de agosto de 1998, conforme ofício da Aneel acostado aos autos e ofício da CCEE onde transcreve -se: "Como solicitado, foi realizada uma pesquisa na base de dados da CCE, onde consta todos os agentes e não-agentes (Consultorias, Transmissoras e etc.) e não encontramos nenhum associado com a razão social MB Service Engenharia e Representação Ltda nem pelo CNPJ 97.470.256/0001-02 como informado no e-mail. Sendo assim confirmamos que tal empresa não participa da Câmara de Comercialização de Energia Elétrica."Por isso, o contrato de cooperação comercial seria nulo em face da falta de autorização da Agravada.
+A interpretação da cláusula e a prestação do serviço não é presumida e muito menos intuitiva neste caso. Pelo contrário, exsurge da prova dos autos que a possibilidade do fornecimento de energia à CELPA não decorre da atuação de MB SERVICE, que inclusive já estaria encerrada sua participação como agente de representação" (fls. 1.722/1.733).
+A parte contráriaapresentou impugnação (fls. 1.745/1.761).
+É orelatório.
+DECIDO.
+Tendo em vista a relevância das argumentações, passa-sea novo exame das questões controvertidas.
+O acórdão impugnado pelorecurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar no que tange à alegação de negativa de prestação jurisdicional.
+Com efeito, ao acórdão da apelação, as recorrentes opuseram declaratórios com o objetivo de sanar omissões e contradições do julgado relativas às matérias probatórias, obrigacionaise regulatórias.
+Todavia, a Corte local, ao julgar os aclaratórios, deixou de se manifestar acerca dasquestões suscitadas pelas embargantes, relevantes para o deslinde da controvérsia, o que caracteriza ofensa ao art. 1.022do CPC/2015.
+É cediço quehá deficiência de fundamentação em acórdãos genéricos, que não examinam concretamente as circunstâncias fáticas e jurídicas da causa, como na espécie, em que o julgado foi por demais lacônico quanto à matéria de fundo.
+Ademais, no tocanteà prescrição, apesar de ter sido adotado o prazo quinquenal, não ficou claro qual foi a regra adotada pelo tribunal de origem, se o art. 206, § 5º, I, do CC ou o art. 44, parágrafo único, da Lei nº 4.886/1965, a influir na definição da natureza jurídica do contrato firmado (cooperação comercial, colaboração empresarial, representação comercialou corretagem).
+A propósito:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. POLÍCIA MILITAR. AVALIAÇÃO DE ESTATURA MÍNIMA. AFASTAMENTO DO LIMITE. FALTA DE RAZOABILIDADE E DE PROPORCIONALIDADE. PECULIARIDADES DA POPULAÇÃO LOCAL. CARACTERIZAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Incorre em negativa de prestação jurisdicional o Tribunal que prolata acórdão que, para resolver a controvérsia, apoia-se em princípios jurídicos sem proceder à necessária densificação, bem como emprega conceitos jurídicos indeterminados sem explicar o motivo concreto de sua incidência no caso. Inteligência dos arts. 489 e 1.022 do CPC/2015.
+2. Recurso especial provido." (REsp nº 1.890.464/AP, Rel.Ministro MAURO CAMPBELL MARQUES,DJe 27/11/2020)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO EM AGRAVO REGIMENTAL. POSSIBILIDADE. CPC/1973. TEMPESTIVIDADE. INDENIZAÇÃO POR DANO MORAL. MATÉRIA JORNALÍSTICA. PROCEDÊNCIA DO PEDIDO. APELAÇÃO DE AMBAS AS PARTES. FALECIMENTO DO AUTOR. SUBSTITUIÇÃO PROCESSUAL. AUSÊNCIA DE HABILITAÇÃO DO ESPÓLIO. NÃO CONHECIMENTO DAS APELAÇÕES. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO CONFIGURADA. VIOLAÇÃO DO ART. 535 DO CPC/73. AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Possibilidade de comprovação da tempestividade recursal por ocasião da interposição do agravo interno nos casos de recurso manejado sob a égide do Código de Processo Civil de 1973. Reconsideração.
+2. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+3. Hipótese em que o Tribunal de origem, reconhecendo a ausência de pressuposto válido para o prosseguimento da ação, em razão da morte do autor e da ausência de habilitação do espólio, limitou-se a não conhecer das apelações interpostas pelas partes, deixando de se pronunciar acerca da eventual extinção do processo e demais questões arguidas em embargos de declaração. Existência de omissão relevante.
+4. Agravo interno provido para dar provimento ao recurso especial." (AgInt no REsp nº 1.431.860/SP, Rel.Ministro RAUL ARAÚJO,DJe 26/8/2020)
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. ERRO MATERIAL RECONHECIDO. ART. 1.021, § 4º, DO NCPC. AUSÊNCIA DE CONDICIONAMENTO DE DEPÓSITO PRÉVIO DA MULTA. INAPLICABILIDADE DO ART. 1.026, § 3º, do NCPC. NOVO JULGAMENTO DO AGRAVO INTERNO. PROVIMENTO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. EXISTÊNCIA DE OMISSÕES E CONTRADIÇÕES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Nos termos do art. 1.022 do NCPC, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erromaterial.
+3. O caso não é de condicionamento ao depósito prévio do valor da multa, pois os embargos de declaração não foram reiterados, tampouco ficou condicionada a interposição de eventual recurso ao referido depósito.
+4. Constatada a violação do disposto no art. 1.022 do NCPC, diante da ausência de manifestação do Tribunal estadual sob temas indispensáveis ao deslinde da controvérsia, deve-se anular o v. acórdão recorrido para que sejam novamente julgados os embargos de declaração opostos.
+6. Embargos de declaração acolhidos para, corrigido o erro material, dar provimento ao agravo interno e ao recurso especial." (EDcl no AgInt nos EDcl no REsp nº 1.623.060/RS, Rel.Ministro MOURA RIBEIRO,DJe 27/5/2020)
+Ante o exposto, reconsidero a decisão de fls. 1.714/1.717paradarprovimento ao recurso especial, a fim deanular o acórdão que julgou osdeclaratórios, determinando o retorno dos autos ao tribunal de origem para que realize novo julgamento, suprindo as omissões e contradições apontadas.
+Publique-se.
+Intimem-se.
