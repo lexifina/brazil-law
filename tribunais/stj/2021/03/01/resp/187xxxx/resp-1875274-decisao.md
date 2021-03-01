@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto por Gatron Inovação em Compósitos S.A. - em recuperação judicial, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. PEDIDOS ADMINISTRATIVOS DE RESSARCIMENTO. PRAZO PARA ANÁLISE. LEI Nº 11.457/2007. Para os requerimentos administrativos protocolados na vigência da Lei nº 11.457/07, o prazo que o Fisco detém para analisar o pedido é de 360 dias, contado da data do protocolo do pedido. Entendimento pacificado no STJ, quando do julgamento de recurso sob o rito dos recursos repetitivos, art. 543-C do CPC (Primeira Seção, REsp nº 1.138.206/RS, Rel. Ministro Luiz Fux, publicado no DJe em 01.09.2010).
+No recurso especial, foi indicada a ofensa ao artigo 24, da Lei n. 11.457/2007; sob o fundamento de que o Tribunal de origem não poderia ter negado a imediata restituição dos valores reconhecidos por decisão administrativa.
+Foram apresentadas contrarrazões pela parte recorrida.
+É o relatório. Decido.
+O recurso especial não comporta seguimento.
+No caso, verifica-se que o acórdão recorrido não está em afronta aoquanto decidido pela Primeira Seção do Superior Tribunal de Justiça, que consolidou, em regime de recursos repetitivos, sob o Tema 1.003/STJ, o posicionamento de que "o termo inicial da correção monetária de ressarcimento de crédito escritural excedente de tributo sujeito ao regime não cumulativo ocorre somente após escoado o prazo de 360 dias para a análise do pedido administrativo pelo Fisco (art. 24 da Lei n. 11.457/2007)".
+Ademais, tem-se que o Tribunal de origem fundamentou o acórdão recorrido, decidindo que o efetivo ressarcimento dos créditos reconhecidos administrativamente em favor do contribuinte depende de prévia dotação orçamentária.
+No ponto, tem-se que o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que esse fundamento decisório acerca da necessidade de dotação orçamentária para o pagamento do débito, apontado no acórdão recorrido, é suficiente para manter o acórdão proferido pelo Tribunal de origem; contudo não foi rebatido no recurso especial, motivo que atrai os óbices dos Enunciados n. 283 e 284, ambos da Súmula do Supremo Tribunal Federal:
+Enunciado n. 283. É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Enunciado n. 284 É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Além disso, o texto do dispositivo invocado como violado possui o seguinte teor: "Art. 24. É obrigatório que seja proferida decisão administrativa no prazo máximo de 360 (trezentos e sessenta) dias a contar do protocolo de petições, defesas ou recursos administrativos do contribuinte."
+A parte recorrente, contudo, não logrou demonstrar de que forma esse dispositivo (que apenas obriga a que seja proferida decisão administrativa) abarcaria a obrigação de imediato pagamento, independentemente de dotação orçamentária, considerando a submissão aos princípios e restrições administrativas e financeiras que sofrem os pagamentos pelo Poder Público.
+Assim, apresenta-se evidente a deficiência do pleito recursal que não aponta a ofensa ao dispositivo invocado. Incidência, por analogia, do Enunciado Sumular n. 284/STF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
