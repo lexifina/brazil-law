@@ -1,0 +1,32 @@
+DECISÃO
+Esta medida de urgência foi ajuizada para que sejaatribuído efeito suspensivo ao recurso especial interposto por CBKV FLORESTAL LTDA E OUTROS (CBKV E OUTROS), no qual se objetivou a reforma do acórdão proferido pelo Tribunal de Justiça de São Paulo que, examinando agravo de instrumento lá manejado, negou provimento ao pedido formulado e manteve a decisão do Juízo de primeiro grau que rejeitou preliminar de incompetência suscitada, além de determinar a quebra de seus sigilos bancários.
+O recurso especial não foi admitido pelo Tribunal paulista (e-STJ, fls. 576/579).
+Nestes autos CBKV E OUTROS sustentaram, em suma, a existência do fumus boni iuris, em face dealegadas (1) incompetência da Justiça de São Paulo para o processamento e julgamento do compromisso de sentença arbitral; (2) existência deprevenção do Juízo da Comarca de Baião/PA, porque látramita a ação declaratória de nulidade anterior ao ajuizamento do feito alusivo a estes autos; e (3)irrelevância da definição de foro da cláusula compromissória para definição da competência para julgamento e processamento do cumprimento de sentença arbitral(e-STJ, fl. 4).
+Entenderamque o periculum in mora está configurado na medida em que (1) foi penhorado faturamento da CBKV; (2) ocorreu intervenção em empresas que sequer integram o processo; e (3) houve a prática de atos expropriatórios por "decisão surpresa"(e-STJ, fl. 4).
+Este, em síntese, o relatório.
+DECIDO.
+Frise-se, inicialmente, que a concessão de tutela antecipada condiciona-se à existência dos requisitos do periculum in mora e do fumus boni iuris.
+Assim, quando presentes ambos os requisitos, que são fundamentais, não há dúvidas em que se conceda liminarmente a medida cautelar.
+Ao caso, entretanto, faltam os elementos exigidos para o acolhimento da medida pleiteada.
+Na hipótese dos autos o especial não foi admitido na origem, tendo sido interposto agravo em recurso especial que nem sequer chegou a esta Corte Superior.
+Há no Superior Tribunal de Justiça, para casos assim, o firme entendimento de que apenas com a admissão do especial é que se inaugura a jurisdição desta Corte, não bastando, para tanto, apenas a interposição do agravo em recurso especial.
+Veja-se:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL CONTRA DECISÃO QUE INDEFERIU PLEITO PARA CONCESSÃO DE ORDEM LIMINAR.
+MEDIDA CAUTELAR. PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO DE INSTRUMENTO DE RECURSO ESPECIAL NÃO ADMITIDO NA ORIGEM. AÇÃO CAUTELAR DE EXIBIÇÃO. DOCUMENTOS PROVENIENTES DE PROCESSO ADMINISTRATIVO. AGRAVO DE INSTRUMENTO QUE NÃO ATACA O FUNDAMENTO CONDUTOR DA DECISÃO AGRAVADA.
+APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. NÃO CONFIGURAÇÃO DO FUMUS BONI IURIS E DO PERICULUM IN MORA.
+..
+3. A impossibilidade de concessão de excepcional efeito suspensivo a agravo de instrumento que pretende destrancar a subida de recurso especial inadmitido pela instância de origem é assente no Superior Tribunal de Justiça. Esta Corte perfilha entendimento segundo o qual o juízo positivo de admissão do apelo nobre pelo Tribunal a quo é que inaugura a jurisdição do STJ. Dessarte, a simples interposição de agravo de instrumento não supera o óbice da inadmissão do recurso especial pela instância "a quo" (Precedentes: AgRg na MC 13.655 - RO, Relatora Ministro Denise Arruda, Primeira Turma, DJ de 5 de maio de 2008 e EDcl no AgRg na MC 9.129 - SP, Relator Ministro Gilson Dipp, Quinta Turma, DJ de 28 de março de 2005).
+..
+(AgRg na MC nº 15.015, Ministro BENEDITO GONÇALVES, DJe de 2/4/2009).
+Somente em situações excepcionais é possível a concessão de efeito suspensivo a recurso especial ainda não admitido pelo Tribunal de origem e, mesmo assim, apenas quando demonstrada sua probabilidade de êxito, o risco de perecimento de direito ou teratologia no acórdão impugnado, o que não se vislumbra, de plano, neste caso.
+De fato, a decisão que não admitiu o especial consignou que (1) não se pode falar em ausência de fundamentação no acórdão recorrido, porque as questões suscitadas foram apreciadas naquilo em que o Colegiado julgador entendeu necessário para aapreciação do recurso; (2) não ficou demonstrada a alegada ofensa aos artigos do NCPC apontados como infringidos; e (3) ao decidir como decidiu, a Câmara julgadora o fez com base no elementos fático-probatórios dos autos,insusceptíveis de reexame pelo recurso especial a teor das Súmulas 5 e 7/STJ (e-STJ, fls. 576/579).
+Além disso, o acórdão recorrido asseverou que (1) decisão sucinta, não é, necessariamente, carente de fundamentação; (2) as partes firmaram convenção de arbitragem na qual constou, inclusive, eleição de foro para execução das obrigações; (3) a alegada conexão com ação proposta em outra comarca pende de apreciação de preliminar no referido Juízo; e (4) o deferimento da realização de pesquisas sobre movimentação bancária não configura quebra de sigilo e foi determinada porque os requerentes (executados) nitidamente estão se furtando a cumprir as obrigações advindas do título judicial(e-STJ, fl. 465, sem destaque no original).
+Assim sendo, o sinal do bom direito não se apresenta evidente ou cristalino, como exige a excepcionalidade da situação.
+Relativamente ao perigo na demora, o prosseguimento do feito e apossibilidade de execução são consectários imediatos da norma processualque prevê mecanismos de contracautela específicos, a cargo da prudência detodo julgador, como bem sabe a defesa dos interesses de CBKV E OUTROS.
+Ademais, do ato do Juízo de primeiro grau indicado à fl. e-STJ 4está sujeito, como se sabe, ao recurso próprio para o órgãojulgador competente com a possibilidade, inclusive, da concessão de efeitosuspensivo, que, conforme noticiado às fls. 4.739/4.740, nem sequer foi manejado.
+Não há pois falar nesse requisito.
+Nessas condições, estando ausentes os os pressupostos, INDEFIRO A LIMINAR.
+Em consequência, EXTINGO O PROCESSO, a teor do disposto no art. 485, IV do NCPC e art. 34, inciso XVIII, a, do Regimento Interno do Superior Tribunal de Justiça.
+Comunique-se o inteiro teor desta decisão aoao Juízo da 2ª Vara Empresarial e Conflitos de Arbitragem do Foro Central de São Paulo/SP(Processo nº 1074523-30.2018.8.26.0100) eao Juízo da Comarca de Baião/PA (Processo nº 0800018-73.2018.8.14.00070).
+Por oportuno, previno que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se.
