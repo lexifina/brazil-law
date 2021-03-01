@@ -1,0 +1,45 @@
+DECISÃO
+Os embargos de divergência tiveram origem em agravo de instrumento manejado por MANUEL ANTONIO CAMELO DA MOTA e SOLANGE MARLY DIAS MOTA (MANUEL e outra) contra decisão proferida no cumprimento de sentença promovido por CONDOMÍNIO EDIFÍCIO ARIMA (CONDOMÍNIO).
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo de instrumento, mantida a decisão do juízo de primeiro grau que indeferiu novo pedido de justiça gratuita em favor de MANUEL e outra e rejeitou a exceção de pré-executividade.
+Inconformados, MANUEL e outra interpuseram recurso especial que não foi admitido pelo Tribunal paulista, ensejando a interposição de agravo em recurso especial que não foi conhecido em decisão monocrática do Presidente do STJ, Ministro JOÃO OTÁVIO DE NORONHA.
+Na sequência foi interposto agravo interno que foi provido pela Quarta Turma para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial, em acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA RECONSIDERADA. NOVO EXAME DO FEITO. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. BENEFÍCIO DA JUSTIÇA GRATUITA. INDEFERIMENTO PELO EG. TRIBUNAL ESTADUAL. PATRIMÔNIO DOS REQUERENTES. INCOMPATIBILIDADE COM A HIPOSSUFICIÊNCIA ECONÔMICA. TRIBUNAL A QUO CONCLUIU QUE NÃO HÁ EXCESSO DE EXECUÇÃO. ART. 323 DO CPC/2015. INCLUSÃO DE PRESTAÇÕES SUCESSIVAS. REEXAME FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. TRIBUNAL ESTADUAL AFASTOU A EXISTÊNCIA DE VÍCIO NO LAUDO PERICIAL. REEXAME DOS FATOS E DAS PROVAS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada pela eg. Instância a quo.
+2. Não há violação do art. 489 do CPC/2015 quando o eg. Tribunal de origem analisa os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação.
+3. O Tribunal Estadual concluiu que não há excesso de execução nem vício no laudo pericial, na ação de cobrança de taxas condominiais, em fase de cumprimento de sentença. A pretensão de revisar tal entendimento, considerando as circunstâncias do caso concreto, exigiria revolvimento de matéria fático-probatória, providência incompatível com o recurso especial, a teor da Súmula 7/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+Nesta oportunidade MANUEL e outra interpuseram embargos de divergência em que sustentaram dissenso jurisprudencial, indicando como paradigma o acórdão proferido pela Terceira Turma no REsp 1.787.491/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, j. 9/4/2019, DJe 12/4/2019.
+Alegaram que o acórdão embargado divergiu do entendimento da Terceira Turma quanto a possibilidade ou não de se indeferir os benefícios da justiça gratuita sem que haja prévia intimação da parte para comprovar a hipossuficiência financeira alegada (e-STJ, fls. 740/759).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, conforme o Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Cinge-se a controvérsia a dirimir suposto dissenso entre as Turmas que compõem a Segunda Seção do STJ quanto à possibilidade ou não de se indeferir os benefícios da justiça gratuita sem que haja prévia intimação da parte para comprovar a hipossuficiência financeira alegada.
+A divergência viabilizadora dos embargos não ficou configurada, diante da ausência de similitude fática.
+MANUEL e outra sustentaram que o acórdão da Quarta Turma contrariou o entendimento da Terceira Turma no sentido de que é necessário, antes do indeferimento do pedido da gratuidade da justiça, a determinação para que a parte comprove a alegada hipossuficiência.
+A situação fática delineada pela Terceira Turma no acórdão paradigma, REsp 1.787.491/SP, constatou que não havia nos autos elementos que evidenciem a falta dos pressupostos legais para a concessão da benesse.
+O acórdão embargado da Quarta Turma, por seu turno, bem destacou a existência nos autos de elementos de prova aptos a indicar que MANUEL e outra não faziam jus à justiça gratuita diante do patrimônio que ostentavam. Confira-se trecho do julgado:
+ ..  o recurso não merece acolhimento, pois, como ressaltado pelo eg. Tribunal estadual, os recorrentes possuem patrimônio incompatível com a alegação de hipossuficiência econômica. Ressalta-se que também não prosperar a alegação dos recorrentes, no sentido de que deveriam ser intimados para acostar a declaração do imposto de renda atualizado. Isso porque, caso quisessem, poderiam acostá-la no momento de interpor o agravo de instrumento ou nos embargos de declaração opostos perante o eg. TJ-SP. Dessa forma, verifica-se que o v. acórdão estadual não violou os arts. 98, caput, e 99, §§ 2º e 3º, do CPC/2015. (e-STJ, fl. 732)
+Desse modo, enquanto o acórdão embargado tratou da suficiência de provas para a constatação da impossibilidade de se conceder a benesse da gratuidade da justiça aos embargantes, o julgado paradigma verificou que não foram produzidas provas no caso concreto para a análise de tal questão.
+Não há, portanto, similitude fática entre o acórdão embargado e os julgados paradigmas.
+O conhecimento dos embargos de divergência pressupõe a existência de similitude das circunstâncias fáticas e do direito aplicado nos acórdãos recorrido e paradigma, conforme reiterada jurisprudência do STJ:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. COMERCIALIZAÇÃO DE PRODUTOS CONTRAFEITOS. DANOS MORAIS. NECESSIDADE DE COMPROVAÇÃO. ACÓRDÃOS CONFRONTADOS NÃO SEMELHANTES.
+1. A ausência de semelhança fática entre os acórdãos confrontados impede o conhecimento dos embargos de divergência.
+2. No acórdão embargado, ficou claro que a condenação nos danos morais decorreu da efetiva comercialização dos produtos falsificados, não da contrafação em si, que nem mesmo teria sido atribuída à embargante. O paradigma, entretanto, acolheu a necessidade de comprovação do dano moral em situação na qual os produtos contrafeitos nem sequer teriam sido comercializados.
+3. Ademais, discutindo-se no acórdão embargado os danos morais oriundos da comercialização do produto, revela-se até mesmo desnecessário debater, neste recurso, se a mera contrafação gera, por si, danos morais, independentemente de prova do prejuízo.
+4. Agravo regimental desprovido.
+(AgRg nos EREsp 1.125.739/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, j. 25/2/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. ACÓRDÃOS EMBARGADO E PARADIGMA. AUSÊNCIA DE SIMILITUDE FÁTICA. PREVIDÊNCIA PRIVADA. MIGRAÇÃO DE PLANO. REVISÃO DO VALOR DO BENEFÍCIO. REGRAS DO CONTRATO EXTINTO. ANULAÇÃO DA TRANSAÇÃO EXTRAJUDICIAL. NECESSIDADE. DECADÊNCIA DO DIREITO. SÚMULA 168/STJ.
+ ..
+3. O cabimento dos embargos de divergência restringe-se às hipóteses em que restar configurada a diversidade de tratamento jurídico aplicado por esta Corte Superior a situações fáticas semelhantes (arts. 546 do CPC e 266 do RISTJ).
+4. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência da Corte estiver no mesmo sentido do acórdão embargado.
+5. Agravo regimental não provido.
+(AgRg nos EREsp 1.302.621/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, j. 9/12/2015 - sem destaque no original)
+Ressalte-se que a Corte Especial firmou o entendimento de que não cabe, em embargos de divergência, a análise de possível acerto ou desacerto do acórdão embargado, mas tão só a de eventual dissídio de teses jurídicas, a fim de uniformizar a interpretação do direito infraconstitucional no âmbito do STJ (AgRg nos EREsp 840.567/DF, Rel. Ministra LAURITA VAZ, Corte Especial, j. 29/6/2010, DJe 13/8/2010).
+Em suma, é o caso de rejeitar liminarmente os embargos de divergência diante da ausência de similitude do suporte fático dos arestos confrontados.
+Nessas condições, nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Deixo de majorar os honorários advocatícios com fundamento no art. 85, § 11, do NCPC, porque este recurso é oriundo de acórdão proferido por ocasião do julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. JUSTIÇA GRATUITA. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS. EMBARGOS REJEITADOS LIMINARMENTE.
