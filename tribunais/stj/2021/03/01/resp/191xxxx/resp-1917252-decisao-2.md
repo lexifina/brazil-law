@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por ÂMBAR BANK FOMENTO MERCANTIL LTDA., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal. O apelo extremo insurge-se contra acórdão doTribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL  EMBARGOS À EXECUÇÃO  PRELIMINAR DE OFÍCIO  NÃO CONHECIMENTO DO RECURSO  PAGAMENTO DO PREPARO RECURSAL  INTIMAÇÃO PARA JUNTADA DO COMPROVANTE ORIGINAL  DESATENDIMENTO  DESERÇÃO  HONORÁRIOS DE SUCUMBÊNCIA DEVIDOS  CRITÉRIOS DE FIXAÇÃO.
+I- Em se tratando de ação em que não há condenação a fixação dos honorários advocatícios de sucumbência deve ocorrer, em regra, com base nos critérios do art.85, §2º do CPC/15.
+II- Considerando que, no caso concreto, o processo não apresentou maior, os honorários advocatícios, excepcionalmente, devem ser fixados de forma equitativa e em observância aos critérios do art.85, §2º do NCPC, para bem remunerar o trabalho e evitar gravame excessivo à outra parte.
+V, v.: Os honorários advocatícios de sucumbência devem ser fixados por apreciação equitativa, nos termos do art. 85, §8º do CPC e com observância dos parâmetros traçados pelo §2º do mesmo dispositivo legal, não apenas quando o valor da causa for inestimável ou irrisório, mas também quando o proveito econômico buscado for elevado, sob pena de se permitir que a fixação alcance valor desproporcional ao trabalho realizado pelo advogado" (e-STJ fl. 321).
+Orecorrentealega, além de divergência jurisprudencial, violação do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015, ao fundamento de que os honorários advocatícios não devem ser arbitrados por equidade, mas em percentual sobre o valor da condenação, do proveito econômico ou valor da causa.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A controvérsia a respeito da "possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015" foi afetada a julgamento sob o sistema de recursos repetitivos (Tema 1.046), conforme julgados da relatoria do Ministro Raul Araújo, proferidos nos Recursos Especiais 1.812.301/SC e 1.822.171/SC, em 26/03/2020.
+Diante disso, em observância à economia processual e ao art. 256-L do Regimento Interno do Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do Código de Processo Civil de 2015.
+Somente após a análise de conformidade, se for o caso, o recurso especial deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para exame das demais questões jurídicas nele suscitadas que eventualmente não tenham ficado prejudicadas.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão dos recursos especiais repetitivos, observando-se, em seguida, os procedimentos previstos nos arts. 1.039 e 1.040 do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
