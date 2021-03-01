@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Defensoria Pública do Distrito Federal, no exercício da curadoria especial de Liliane Pereira de Araújo, com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugnando acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO. BLOQUEIO DE CONTA. DILIGÊNCIA. EXPEDIÇÃO DE OFÍCIO. NÃO CABIMENTO. ÔNUS DA PARTE. AGRAVOS DESPROVIDOS.
+1. Não cabe ao Judiciário substituir a parte em seu ônus, não se admitindo movimentar a máquina judiciária quando o próprio devedor se mantém inerte acerca da penhora em sua conta corrente, devendo se observar que a execução deve levar à satisfação do crédito perseguido.
+2. A Terceira Turma Cível, excepcionalmente, em caso de pessoa ausente, representada pela Defensoria Pública, no exercício da Curadoria Especial de ausentes, já admitiu a expedição de ofício, a fim de que seja viabilizada a defesa da pessoa Executada, desde que evidenciado que a Defensoria empreendeu esforços para realizar a diligência, mas não obteve êxito.
+3. Não ficou evidenciado o empreendimento de esforços pela Defensoria Pública, a fim de realizar diligência, bem como não foi demonstrado o insucesso de medidas empreendidas nesse sentido perante a Caixa Econômica.
+4. Se a parte Executada, mesmo após o bloqueio de valores em sua conta corrente, e o órgão de defesa, deixam de empreender esforços para demonstrar a impenhorabilidade do montante constrito, não cabe ao Judiciário realizar diligências em prol do devedor em procedimento de execução destinado a satisfação do crédito reclamado.
+5. Agravos conhecidos e desprovidos" (fl. 253, e-STJ).
+No recurso especial, a recorrente aponta, além de dissídio jurisprudencial, violação dos artigos 6º, 7º, 8º, 72, II, e parágrafo único, e 833, IV e X, do Código de Processo Civil 2015, 4º, XVI, da Lei Complementar nº 80/1994 e art 1º, caput, e § 4º da Lei Complementar nº 105/2001.
+Afirma que as instâncias de origem, ao negarem a diligência requerida, no sentido de oficiar a instituição financeira para que fornecesse os dados da conta da executada, especialmente sua natureza, violou as prerrogativas da curadoria especial exercida pela Defensoria Pública.
+Entende ser desproporcional o indeferimento do pedido, pois os dados bancários são sigilosos, sendo necessária ordem judicial para que seja franqueado acesso à informação. Além disso, não há como a Defensoria Pública ter contato com a parte para que ela forneça a informação requerida.
+Defende que a execução deve se dar pelo meio menos gravoso ao devedor, havendo dúvida se os valores bloqueados são ou não impenhoráveis.
+Ressalta que o suporte fático para a proteção da impenhorabilidade de que trata o artigo 833, X, do CPC/2015 é a natureza jurídica de conta poupança, devendo, nesse caso, ser observado o limite de 40 (quarenta) salários mínimos. Por outro lado, caso se trate de depósitos de natureza salarial são totalmente impenhoráveis, o que somente será esclarecido com a expedição de ofício ao banco.
+Repisaque a Defensoria Pública, no exercício da curadoria especial, não pode diligenciar diretamente à instituição bancária, pois as informações estão protegidas por sigilo, daí a necessidade de intervenção do Judiciário. Considera desproporcional, diante disso, a exigência de prévia demonstração de que a Defensoria empreendeu esforços para obter a informação acerca da natureza da conta bancária.
+Aponta como paradigma acórdão do Tribunal de Justiça do Estado de São Paulo - AG nº 2042510-72.2015.8.26.0000.
+Requer que o recurso especial seja provido para determinar o retorno dos autos à origem a fim de que sejam expedidos os ofícios na forma requerida.
+Contrarrazões às fls. 288/294 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015. (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+Conforme se colhe dos autos, em execução na qual houve diversas tentativas de citar a executada, a Defensoria Pública foi nomeada curadora especial, nos termos do art. 72, II, e parágrafo único, do CPC/2015.
+Em sequência, foi determinado o bloqueio de contas via Bacenjud, tendo sido encontrados valores em 3 (três) contas bancárias, sendo o valor mais significante de R$ 16.958,18 (dezesseis mil novecentos e cinquenta e oito reais e dezoito centavos), em conta vinculada à Caixa Econômica Federal.
+A Defensoria requereu a expedição de ofício à CEF para que informasse a natureza da conta bloqueada e se o valor encontrado teria natureza salarial.
+O Juízo de primeiro grau indeferiu o pedido sob o fundamento de que cabe somente à parte devedora apontar a impenhorabilidade das verbas constritas.
+O Tribunal de origem negou provimento ao agravo sob o entendimento de que: (i) com uma simples ligação telefônica para uma agência é possível obter informação sobre a natureza da conta bancária, (ii) não cabe ao Judiciário substituir a parte em seu ônus, não sendo o caso de movimentar a máquina judiciária quando o próprio devedor se mantém inerte, e (iii) não ficou demonstrada a realização de diligências em prol do devedor perante a Caixa Econômica Federal.
+Cumpre esclarecer, de início, que a ordem judicial de bloqueio excluiu expressamente o bloqueio de conta-salário (fl. 192, e-STJ).
+É oportuno consignar, ainda, que a atual jurisprudência desta Corte não distingue entre se tratar de conta corrente ou conta poupança para o fim de verificação da impenhorabilidade dos valores ali depositados (artigo 833, X, do CPC/2015), sendo necessário demonstrar apenas que se trata da única reserva em nome do devedor.
+Transcreve-se o seguinte trecho do voto da Ministra Isabel Gallotti no julgamento do REsp nº 1.230.060/PR:
+"(..)
+Penso, ademais, que a remuneração mensal protegida pela impenhorabilidade não deve exceder o limite do teto constitucional imposto aos servidores públicos, a saber, a remuneração do Ministro do Supremo Tribunal Federal (CF, art. 37, XI, XII).
+Com efeito, não seria razoável, levaria ao absurdo, em contradição com o espírito do sistema e com as finalidades a que se destina o instituto da impenhorabilidade, sustentar assistir ao devedor inadimplentes - com o fito de prover-lhe a subsistência digna, mas em prejuízo de seu credor insatisfeito - direito de ter a salvo de penhora valor superior ao limite constitucional de remuneração dos cargos mais elevados do país.
+Quanto às sobras, após o recebimento do salário do período seguinte, quer permaneçam na conta corrente destinada ao recebimento da remuneração, quer sejam investidas em caderneta de poupança ou outro tipo de aplicação financeira, não mais desfrutam da natureza de impenhorabilidade decorrente do inciso IV.
+(..)
+Assim, embora tenha eu reservas à proteção dispensada pelo inciso X à reserva de capital do devedor inadimplente em face de seu credor, diante do texto legal em vigor, e considerado o seu escopo, não vejo, data máxima vênia, sentido em restringir o alcance da regra apenas às cadernetas de poupança assim rotuladas, sobretudo no contexto atual em que diversas outras opções de aplicação financeira se abrem ao pequeno investidor, eventualmente mais lucrativas, e contando com facilidades como o resgate automático, várias delas também asseguradas pelo Fundo Garantidor de Créditos (FGC), conforme Resolução CMN 4.222/2013.
+(..)
+Considero, portanto, que o valor obtido a título de indenização trabalhista, após longo período depositado em fundo de investimento, perdeu a característica de verba salarial impenhorável (inciso IV). Reveste-se, todavia, de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (grifou-se).
+Confiram-se, ainda, os seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA. ATIVOS FINANCEIROS. CONTA-POUPANÇA VINCULADA À CONTA-CORRENTE. IMPENHORABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de que, até o limite de 40 (quarenta) salários mínimos depositados em qualquer tipo de conta bancária, a impenhorabilidade deve ser respeitada.
+3. Agravo interno não provido."
+(AgInt no AgInt no AREsp 1.643.889/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/8/2020, DJe 31/8/2020 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. EMBARGOS À PENHORA. IMPENHORABILIDADE DE VALOR DE ATÉ 40 (QUARENTA) SALÁRIOS MÍNIMOS MANTIDO EM CONTA BANCÁRIA. AUSÊNCIA DE COMPROVAÇÃO DO CARÁTER ESSENCIAL PARA MANUTENÇÃO DA PESSOA JURÍDICA. FUNDAMENTO INATACADO. SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, "reveste-se de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp 1.230.060/PR, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe de 29/8/2014).
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que a recorrente não comprovou que a quantia bloqueada consistia em única fonte de ativos, o que não foi impugnado nas razões do recurso especial.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF.
+4. Ademais, a alteração do que concluiu o Tribunal de origem, no que se refere à ausência de demonstração de que os valores depositados seriam a única reserva financeira do recorrente, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1833911/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/2/2020, DJe 17/2/2020 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. REVALORAÇÃO DE PROVAS. POSSIBILIDADE. NÃO INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. PENHORA. NÃO CABIMENTO. PRECEDENTES ESPECÍFICOS.
+1. A revaloração da prova constitui em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática admitida em sede de recurso especial, razão pela qual não incide o óbice previsto no Enunciado n.º 7/STJ.
+2. De acordo com entendimento do STJ, a legislação não faz distinção entre os tipos de contas ou cadernetas de poupança, sendo incabível a penhora de valores inferiores a quarenta salários mínimos nelas depositadas.
+3. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO DESPROVIDO."
+(AgInt no REsp 1.494.266/RO, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 17/8/2017, DJe 30/8/2017 - grifou-se)
+Nesse contexto, é irrelevante para o fim de verificar a impenhorabilidade estarem os valores depositados em conta corrente ou em conta poupança, de modo que não ficou demonstrado que a expedição de ofício à instituição financeira era imprescindível para a realização da defesa, ferindo prerrogativas da Defensoria Pública.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
