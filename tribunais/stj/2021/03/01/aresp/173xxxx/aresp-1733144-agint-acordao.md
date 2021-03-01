@@ -1,0 +1,82 @@
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE COBRANÇA. CONTRATAÇÃO DE CONSÓRCIO PARA REALIZAÇÃO DE OBRA. FERROVIA TRANSNORDESTINA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. PRODUÇÃO DE PROVAS. LIVRE CONVENCIMENTO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. "Os princípios da livre admissibilidade da prova e do livre convencimento motivado do juiz permitem ao julgador determinar as provas que entender necessárias ao julgamento do mérito e indeferir, em decisão fundamentada, as que considerar inúteis ou meramente" (REsp 1.707.861/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/09/2020, DJe de 28/09/2020).
+3. Hipótese em que o Tribunal a quo, examinando as circunstâncias da causa, concluiu pela higidez da perícia contábil e desnecessidade de realização de nova prova pericial. A alteração desse entendimento demandaria o revolvimento de suporte fático-probatório dos autos, inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por TRANSNORDESTINA LOGÍSTICA S/A contra a decisão de fls. 2445/2447, que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial na origem.
+Em suas razões, a parte agravante alega que impugnou especificamente todos os fundamentos da decisão de admissibilidade, razão pela qual deve ser reconsiderada a decisão agravada.
+Apresentou impugnação do agravo interno às fls. 2466/2484.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE COBRANÇA. CONTRATAÇÃO DE CONSÓRCIO PARA REALIZAÇÃO DE OBRA. FERROVIA TRANSNORDESTINA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA. PRODUÇÃO DE PROVAS. LIVRE CONVENCIMENTO. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. "Os princípios da livre admissibilidade da prova e do livre convencimento motivado do juiz permitem ao julgador determinar as provas que entender necessárias ao julgamento do mérito e indeferir, em decisão fundamentada, as que considerar inúteis ou meramente" (REsp 1.707.861/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/09/2020, DJe de 28/09/2020).
+3. Hipótese em que o Tribunal a quo, examinando as circunstâncias da causa, concluiu pela higidez da perícia contábil e desnecessidade de realização de nova prova pericial. A alteração desse entendimento demandaria o revolvimento de suporte fático-probatório dos autos, inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.733.144 - SP (2020/0183134-4)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+TRANSNORDESTINA LOGÍSTICA S.A
+ADVOGADOS
+:
+MARCOS PIMENTEL DE VIVEIROS - CE009801
+JULIANA DE ABREU TEIXEIRA - CE013463
+GILMARA MARIA DE OLIVEIRA BARBOSA - CE013461
+AGRAVADO
+:
+TIISA - INFRAESTRUTURA E INVESTIMENTOS S.A - EM RECUPERAÇÃO JUDICIAL
+AGRAVADO
+:
+CONSTRUTORA MONTEIRO DE CASTRO S A
+ADVOGADO
+:
+EDUARDO LAMONATO FAGGION - SP262991
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Afiguram-se relevantes as alegações da parte agravante e, ante a verificação da impugnação de todos os fundamentos da decisão que negou a admissibilidade do recurso especial, reconsidera-se a decisão agravada e passa-se à análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Apelação. Cobrança. Contratação de consórcio para a realização de obras e serviços referentes à superestrutura da Ferrovia Transnordestina, trecho entre Missão Velha/CE e Salgueiro/PE. Parte autora que pretende o recebimento dos encargos moratórios devidos sobre as parcelas desembolsadas com atraso e sobre os reajustes anuais previstos no contrato liberados tardiamente, apenas após aditamentos, além de indenização pelos danos sofridos em decorrência da não liberação das frentes de trabalho, resultando em gastos com mão de obra e equipamentos. Inexistência dos vícios apontados na sentença de procedência e nos laudos periciais. Representante indicado pela ré que não fazia parte do seu quadro ao longo de quase toda a relação contratual, não se cogitando de qualquer invalidade nas medições dos serviços. Laudo pericial de engenharia que atestou o atraso nas obras devido ao atraso na entrega da infraestrutura. Dever da ré de ressarcir os prejuízos que decorre de expressa previsão do contrato celebrado. Laudo pericial de contabilidade que confirmou o atraso de diversos pagamentos. Encargos de mora devidos pela ré, não se aplicando, porém, os abatimentos por pagamentos adiantados, por ausência de previsão em contrato. Reajuste anual de preços previsto em contrato. Autoras que, em notificação extrajudicial encaminhada à ré, mencionaram que a inadimplência nesse ponto estava sanada. Aplicação do princípio da boa-fé objetiva e da vedação a comportamento contraditório da parte. Definição do quantum devido pela ré às autoras, a partir dos laudos periciais elaborados. Apelo das autoras parcialmente provido e da ré improvido." (fl. 2239)
+Os embargos de declaração opostos foram rejeitados (fls. 2293/2297).
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 473, § 1º, 480, 489, § 1º, IV, 492, 1.022 e 1.025 do Código de Processo Civil de 2015, sustentando, em síntese: (a) negativa de prestação jurisdicional; (b) necessidade de realização de nova perícia, uma vez o próprio acórdão reconhecera a existência de discrepância nos cálculos e no laudo pericial; e (c) violação ao princípio da non reformatio in pejus, uma vez que não só deixou de atender aos pleitos apelatórios, como reformou o acórdão para piorar a situação da recorrente.
+Não foram apresentadas contrarrazões (fl. 2405).
+Não se verifica a alegada violação aos arts. 489, § 1º, e 1.022, II, do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, manifestando-se expressamente acerca dos temas necessários à integral solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator o eminente Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+Insurge-se a parte agravante contra a perícia contábil produzida nos autos, alegando, em síntese, a existência de inconsistências no laudo pericial que foram confessadas pelo acórdão recorrido.
+Contudo, ao contrário do alegado pela parte agravante, em nenhum momento o acórdão estadual reconhece a existência de erro de cálculo na perícia, tampouco que o perito se teria equivocado na confecção do laudo, mas apenas que o magistrado teria-se equivocado ao não incluir o valor relativo à folha de pagamento quando do sentenciamento do feito, o que não justifica a anulação da sentença, tampouco a reabertura da fase instrutória. É o que se extrai dos seguintes trechos do acórdão que julgou a apelação e os embargos de declaração, respectivamente:
+"O d. magistrado de primeiro grau, na sentença recorrida, dividiu tais pedidos em três partes e reconheceu o direito da parte autora ao recebimento dos encargos moratórios sobre pagamentos atrasados ou em valores incorretos e de indenização pela não liberação das frentes de trabalho (paralisações, desmobilização, remobilização e ociosidade), definindo como importância devida R$ 2.699.058,29, porém entendeu que não eram automáticos os reajustes de preço, inexistindo mora.
+De início, anoto que, como apontado pelo ilustre juiz de origem na decisão que rejeitou ambos os embargos declaratórios opostos contra a sentença, o valor condenatório tem apoio no laudo complementar de perícia contábil (fls. 2032/2040), que apurou três valores diversos como bem assinalam as próprias autoras nas suas razões recursais (fls. 2181), um deles referente a "folha de pagamento" (R$ 2.243.388,74), outro relativo a "despesas diversas" (R$ 2.556.706,16) e último atinente a "atrasos de pagamento e encargos moratórios" (R$ 142.352,13). E, apenas com base nessas informações, não é difícil perceber que o valor da condenação de R$ 2.699.058,29 é o mero produto da soma dos dois últimos dos três números acima destacados, não se justificando a anulação da sentença por tal motivo.
+De outra banda, não há se falar em reabertura da fase instrutória para a elaboração de nova perícia, como pretende a ré, pois o valor da condenação foi obtido a partir do laudo pericial, produzido a partir da documentação juntada aos autos e dos livros fornecidos pelas autoras, com fundamento no artigo 473, § 3º, do Código de Processo Civil, muito menos de anulação da sentença por ter usado como motivação um julgado no qual se discutia contrato administrativo, na medida em que nada afeta o dever de indenizar em decorrência de todos os outros pontos abordados." (fls. 2243/2245, g.n.)
+"Nesse sentido, também não merecem prosperar as alegações da embargante quanto às irregularidades nos laudos periciais e ao valor da condenação.
+O acórdão embargado afirmou, expressamente, que o quantum a ser pago pela ré às autoras foi definido "apoiando-se no laudo de contabilidade (fls. 2032/2040) para somar as quantias referentes a "folha de pagamento" (R$ 2.243.388,74), "despesas diversas" (R$ 2.556.706,16) e "atrasos de pagamento e encargos moratórios" (R$ 142.352,13)  a primeira das três provavelmente não incluída pela r. sentença por lapso  , acrescentando, ainda, o valor obtido a título de adiantamento de pagamentos (R$ 43.780,02), abatidos indevidamente pelo perito, o que resulta no total de R$ 4.986.227,05, atualizado e com encargos moratórios até agosto de 2016." (fl. 2296, g.n.)
+Nos termos da jurisprudência do STJ, os princípios da livre admissibilidade da prova e do livre convencimento do juiz permitem ao julgador determinar a produção ou a complementação das provas que entender necessárias para instrução do processo, bem como indeferir aquelas que considerar inúteis ou protelatórias. Nesse sentido:
+"RECURSO ESPECIAL. EMPRESARIAL. PRESTAÇÃO JURISDICIONAL. FALHA. AUSÊNCIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. REEMBOLSO DE VALORES. DUPLICATA. EMISSÃO. POSSIBILIDADE. PROVA. NECESSIDADE. LIVRE CONVENCIMENTO MOTIVADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir (i) se houve falha na prestação jurisdicional, (ii) se os valores que devem ser reembolsados ao prestador de serviços por força de contrato podem ser exigidos por meio da emissão de duplicata mercantil, (iii) se deixou de ser produzida prova indispensável ao deslinde da controvérsia e (iv) se foi determinada a produção de prova impossível.
+3. Não há falar em falha na prestação jurisdicional se o Tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível, ainda que em desacordo com a expectativa da parte.
+4. A prestação de serviços gera uma fatura ou uma nota fiscal-fatura, que conterá a discriminação dos serviços prestados e o correspondente valor a ser pago pelo contratante. Esse crédito, de qual o prestador de serviços é titular, é que poderá ser documentado na duplicata.
+5. Na hipótese dos autos, o contrato previa expressamente quais despesas efetuadas pela prestadora de serviços seriam reembolsadas posteriormente, motivo pelo qual esses valores poderiam ser cobrados mediante a emissão de duplicata.
+6. Os princípios da livre admissibilidade da prova e do livre convencimento motivado do juiz permitem ao julgador determinar as provas que entender necessárias ao julgamento do mérito e indeferir, em decisão fundamentada, as que considerar inúteis ou meramente protelatórias.
+7. Não há falar em prova de fato negativo absoluto no caso em debate, pois as alegações de descumprimento do contrato de prestação de serviços poderiam ser comprovadas pela ocorrência de fatos positivos.
+8. Recurso especial não provido.
+(REsp 1707861/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/09/2020, DJe 28/09/2020, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE SEGURO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE CONTRATUAL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. PRINCÍPIO DA PERSUASÃO RACIONAL. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou a matéria fática e o contrato para concluir pela responsabilidade da agravante pela falha na prestação do serviço contratado. Alterar tal conclusão é inviável em recurso especial, ante o óbice das mencionadas súmulas.
+4. O CPC/2015, em seus artigos 370 e 371, manteve o princípio da persuasão racional, reafirmando que compete ao magistrado dirigir a instrução probatória. Assim, cabe ao juiz (sempre em decisão fundamentada): (i) determinar, até mesmo de ofício, a produção das provas que entender necessárias ao julgamento de mérito, (ii) rejeitar as diligências inúteis ou protelatórias, e (iii) apreciar a prova, indicando os motivos de seu convencimento. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1581285/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/02/2020, DJe 02/03/2020, g.n.)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido, nos termos em que pleiteado pela parte recorrente, a fim de se determinar a realização de nova perícia contábil, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+Por fim, não há que se falar em reformatio in pejus, visto que a reforma da sentença para majorar o valor da condenação se deu em razão do provimento da apelação da parte autora, ora agravada, e não em razão do julgamento da apelação da parte ora agravante. Leia-se, a propósito, o dispositivo do acórdão estadual:
+"Ante o exposto, pelo meu voto, dou parcial provimento ao recurso das autoras e nego provimento ao recurso da ré." (fl. 2250, g.n.)
+Ante o exposto, dou provimento ao agravo interno e, em nova análise, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
