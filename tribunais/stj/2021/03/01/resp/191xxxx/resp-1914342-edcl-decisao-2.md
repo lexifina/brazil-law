@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JULIANO TARRAGO DA ROCHA, em face da decisão monocrática de fls. 474-483, assim ementada:
+"PENAL. PROCESSUAL PENAL. RECURSO ESPECIAL. REVISÃO CRIMINAL. NÃO ENQUADRAMENTO NAS HIPÓTESES LEGAIS. REDISCUSSÃO DE TESE DE DEFESA JÁ APRECIADA E REJEITADA NAS DUAS INSTÂNCIAS ORDINÁRIAS. VIOLAÇÃO AO ART. 621 DO CPP. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO".
+Nestes aclaratórios, o embargante, sustenta contradiçãocom o que consta no referido recurso especial, que não merece provimento pelas razões que passará a expor.
+Aponta que a pretensão do Ministério Público no recurso especialé de anular os efeitos da revisão criminal que reduziu a pena do embargante, pois o referido recurso teria, em tese sido utilizado como segundo recurso de apelação, a fim de reexaminar provas. Apontando, quais são as hipóteses em que são cabidas a revisão criminal, estão elencadas no art. 621 do Código de Processo Penal.
+Requer, ao final, o acolhimento do incidente declaratório, notadamente a contradição, "sob a ótica dos artigos 5º, LV, e 93 IX da CRFB/88 e artigo 1.022 do Código de Processo Civil, e enunciados das Súmulas 98 e 211 do STJ c/c Súmula 284 do STF" (fls. 499-500).
+É o relatório.
+Decido.
+Inicialmente, cumpre salientar que são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem, também, ser admitidos os referidos embargos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Pois bem.
+Como relatado, a defesa alega contradição na decisão embargada, todavia, sem sequer fundamentar adequadamente sua insurgência, não indicando como teria ocorrido o vício, limitando-se a afirmar quea pretensão do Ministério Público no recurso especial é de anular os efeitos da revisão criminal que reduziu a pena do embargante.
+Ademais, a jurisprudência desta eg. Corte de Justiça é assente no sentido de que: "A contradição que autoriza a utilização dos aclaratórios é aquela interna ao próprio voto e não em relação a fatos externos, normas ou entendimentos proferidos em outras decisões. Dessa forma, eventual contradição do entendimento assentado no voto embargado, em relação a decisões desta Corte ou mesmo do Supremo Tribunal Federal, não autoriza a oposição de aclaratórios, devendo ser manejado o recurso próprio" (EDcl no RHC n. 87.061/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 21/9/2018).
+Em reforço:
+"EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. ERRO MATERIAL NO VOTO CONDUTOR. INEXISTÊNCIA DE CONTRADIÇÃO INTERNA DO JULGADO. REDISCUSSÃO DA MATÉRIA JÁ APRECIADA. IMPOSSIBILIDADE. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA DA SUPREMA CORTE. EMBARGOS PARCIALMENTE ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão, nos termos do art. 619 do Código de Processo Penal - CPP .
+2. A contradição que autoriza a utilização dos aclaratórios é aquela interna ao próprio voto e não em relação a fatos externos, normas ou entendimentos proferidos em outras decisões. Dessa forma, eventual contradição do entendimento assentado no voto embargado, em relação a decisões desta Corte ou mesmo do Supremo Tribunal Federal, não autoriza a oposição de aclaratórios, devendo ser manejado o recurso próprio (EDcl no RHC 87.061/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/9/2018).
+3. Inconformado com o resultado do julgamento, busca o embargante rediscutir a matéria apreciada e já decidida pela Quinta Turma, providência para a qual os aclaratórios não se prestam.
+4. É de se reconhecer apenas o erro material para retificar o voto condutor do acórdão impugnado e excluir o trecho que trago para julgamento conjunto.
+5. Não se mostra cabível a utilização dos embargos de declaração para fins de prequestionamento de matéria constitucional, sob pena de invasão na competência da Suprema Corte.
+6. Embargos de Declaração parcialmente acolhidos" (EDcl no HC n. 334.806/PB, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 14/02/2019).
+O que pretende o embargante, na verdade, é o reexame da matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios. Assim, verifico que o julgado recorrido não padece de qualquer vício, porquanto analisou fundamentadamente o apelo nobre trazido à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses do ora embargante.
+Nesse sentido, colaciono precedentes dessa Corte Superior de Justiça:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. NÃO OCORRÊNCIA. REDISCUTIR QUESTÕES JÁ DECIDIDAS. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+2. "A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios." (EDcl no AgInt na CR 11.165/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/12/2017, DJe 9/2/2018).
+3. Embargos de declaração rejeitados." (EDcl no AgRg no REsp 1683591/PI, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 02/04/2018).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. VIOLAÇÃO AO ART. 203 DO CÓDIGO DE PROCESSO PENAL. NULIDADE DE DEPOIMENTO PRESTADO EM INQUÉRITO POLICIAL. EVENTUAL IRREGULARIDADE EM SEDE INQUISITIVA NÃO CONTAMINA A AÇÃO PENAL. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. INEXISTÊNCIA DE OMISSÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Conforme dispõe o art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no decisum.
+2. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+3. Embargos de declaração rejeitados." (EDcl no AgInt no AREsp 1277345/PR, Sexta Turma, Rel. Min. Laurita Vaz, DJe 25/09/2018).
+Ante o exposto, rejeito os embargos de declaração.
+P. e I.
+EMENTA
+PENAL. PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
