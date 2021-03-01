@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO. PROMOÇÃO AO CARGO DE DESEMBARGADOR. PONTUAÇÃO DETERMINADA EM PROCESSO ADMINISTRATIVO. DIREITO LÍQUIDO E CERTO ÀS INFORMAÇÕES UTILIZADAS PELA ADMINISTRAÇÃO PÚBLICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, juiz do Tribunal de Justiça do Estado de Minas Gerais impetrou mandado de segurança a fim de ter acesso às informações pessoais e dados utilizados por esse Tribunal para determinar a sua pontuação para promoção ao cargo de desembargadorpor merecimento.
+2. Os magistrados inscritospara promoção ao cargo de desembargador por merecimento possuem direito líquido e certode acessar as informações e dados que justificaram a redução da pontuação nos quesitos para a promoção nos termos dos arts. 13 e 14, ambos da Resolução CNJ n. 106/2010, e do art. 7º da Lei n. 12.527/2011.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo Estado de Minas Gerais em face de decisão de minha relatorianestes termos sintetizada (e-STJ fl. 924):
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. PROMOÇÃO AO CARGO DE DESEMBARGADOR. PONTUAÇÃO DETERMINADA EM PROCESSO ADMINISTRATIVO. DIREITO LÍQUIDO E CERTO ÀS INFORMAÇÕES UTILIZADAS PELA ADMINISTRAÇÃO PÚBLICA. RECURSO ORDINÁRIO PROVIDO.
+Nas razões do agravo interno, o Estado de Minas Gerais afirma não haver direito líquido e certo ao fornecimento de informações pessoais ao agravado que foram utilizadas para a sua pontuação ao cargo de desembargador por merecimento. Isso porque os documentos utilizados pelos avaliadores já eram de conhecimento do impetrante. Defende que os fundamentos presentes no acórdãoa quonão foram impugnados pelo recurso ordinário.
+Em contrarrazões, o agravado assevera que o objeto do mandado de segurança é o acesso aos dados utilizados pra redução de sua pontuação no certame para promoção ao cargo de desembargador por merecimento.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO. PROMOÇÃO AO CARGO DE DESEMBARGADOR. PONTUAÇÃO DETERMINADA EM PROCESSO ADMINISTRATIVO. DIREITO LÍQUIDO E CERTO ÀS INFORMAÇÕES UTILIZADAS PELA ADMINISTRAÇÃO PÚBLICA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese dos autos, juiz do Tribunal de Justiça do Estado de Minas Gerais impetrou mandado de segurança a fim de ter acesso às informações pessoais e dados utilizados por esse Tribunal para determinar a sua pontuação para promoção ao cargo de desembargadorpor merecimento.
+2. Os magistrados inscritospara promoção ao cargo de desembargador por merecimento possuem direito líquido e certode acessar as informações e dados que justificaram a redução da pontuação nos quesitos para a promoção nos termos dos arts. 13 e 14, ambos da Resolução CNJ n. 106/2010, e do art. 7º da Lei n. 12.527/2011.
+3. Agravo interno não provido.
+VOTO
+Inicialmente é necessário consignar que o presente recurso atrai a incidência doEnunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento noCPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+No caso dos autos, o impetrante defendeu que o Tribunal de Justiça de Minas Gerais não lhe forneceu as informações utilizadas para determinar a sua pontuação no processo administrativo ao cargo de desembargador por merecimento.
+Observa-se, como definido na decisão agravada, que acontrovérsia dos autos se refere ao exame de violação de direito líquidoe certo às informações - não necessariamente constantes em bancos de dados públicos - utilizadas em processo administrativo para designar a pontuação do recorrente emcertame para ascensão ao cargo de desembargador por merecimento.
+Desse modo, percebe-se a adequação do pedido feito por mandado de segurança, eis que"o direito à informação de interesseparticular ou coletivo (art. 52, XXXIII), se negado pela Administração, deve serprotegido pela via judicial ordinária ou pelo mandado de segurança e não pelo habeas data;" (REsp 781.969/RJ, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em08/05/2007, DJ 31/05/2007, p. 348).
+Ademais, as argumentações presentes no recurso ordinário contradizem totalmente as fundamentações presentes no acórdãoa quo, pois enquanto este declara a não existência de direito líquido e certo às informações requeridas pelo ora agravado (mais: até assevera que já houve fornecimento deinformações), o recurso ordinário assevera que há informações não prestadas pelo Tribunal.
+De fato, oart. 13 daResolução CNJ n. 106/2010 determina a notificação dos magistrados para tomarem ciência das informações levantadas para aferir as notas a serem atribuídas para a ascensão ao cargo de desembargador. Ademais, o art. 14 dessa Resolução ressalta que os fundamentos, os debates da votação devem ficar disponibilizados. Nesse sentido, vê-se:
+Art. 13 Finalizado o processo de levantamento de dados dos magistradosinscritos, serão eles notificados para tomar ciência das informações relativas atodos os concorrentes, facultando-lhes a impugnação emprazo não inferior a5 (cinco) dias, com direito de revisão pelo mesmo órgão que examinar apromoção e na mesma sessão.
+Art. 14 Todos os debates e fundamentos da votação serão registrados edisponibilizados preferencialmente no sistema eletrônico.
+Não só as normas editadas pelo CNJ devem ser observadas pelo Tribunal mineiro, mas também o disposto no art. 7º, II, § 3º, da Lei n. 12.527/2011 (Lei de Acesso à Informação). A propósito:
+Art. 7º O acesso à informação de que trata esta Lei compreende, entre outros,os direitos de obter:
+ ..
+II - informação contida em registros ou documentos, produzidos ou acumulados por seus órgãos ou entidades, recolhidos ou não a arquivospúblicos;
+ ..
+§ 3º O direito de acesso aos documentos às informações neles contidas comofundamento da tomada de decisão e do ato administrativo será assegurado com a edição do ato decisório respectivo.
+Assim, o recorrente possui direito de ter acesso aos documentos e informaçõesutilizadas para a definição de sua nota em concurso para promoção por merecimento aocargo de desembargador do TJMG. Quanto ao direito às informações utilizadas pelaAdministração Pública para tomar decisões em processos administrativos, os seguintesprecedentes, mutatis mutandis:
+ADMINISTRATIVO. CONSTITUCIONAL. MANDADO DE SEGURANÇA.FORNECIMENTO DE DADOS RELATIVOS AOS VALORES GASTOS PELAADMINISTRAÇÃO PÚBLICA COM PUBLICIDADE E PROPAGANDA.DIREITO À INFORMAÇÃO. PUBLICIDADE. DADOS NÃO SUBMETIDOSAO SIGILO PREVISTO NO ART. 5º, XXXIII, DA CONSTITUIÇÃOFEDERAL. SEGURANÇA CONCEDIDA.
+1. Mandado de segurança impetrado contra ato que negou o fornecimento dedados relativos aos valores gastos pelos órgãos da Administração Federal,direta e indireta, nos anos 2000 a 2010, e no atual, com publicidade epropaganda, discriminando-os por veículo de comunicação.
+2. Nos termos do art. 5º, XXXIII, da Constituição Federal, todostêm direito a receber dos órgãos públicos informações de seuinteresse particular, ou de interesse coletivo ou geral, que serãoprestadas no prazo da lei, sob pena de responsabilidade,ressalvadas aquelas cujo sigilo seja imprescindível à segurança dasociedade e do Estado.
+3. O art. 220, § 1º, da Constituição Federal, por sua vez, determina quenenhuma lei conterá dispositivo que possa constituir embaraço à plenaliberdade de informação jornalística em qualquer veículo de comunicaçãosocial, observado o disposto no art. 5º, IV, V, X, XIII e XVI .
+4. A regra da publicidade que deve permear a ação pública não só recomenda,mas determina, que a autoridade competente disponibilize à imprensa e aseus profissionais, sem discriminação, informações e documentos nãoprotegidos pelo sigilo.
+5. Os motivos aventados pela autoridade coatora, para não atender apretensão feita administrativamente - "preservar estratégia de negociação demídia" e que "Desnudar esses valores contraria o interesse público" (fl. 26e) -, não têm respaldo jurídico. Ao contrário, sabendo-se que milita em favor dosatos administrativos a presunção de legitimidade e que a regra é dar-lhes amais irrestrita transparência - sendo, ainda, as contratações precedidas dasexigências legais, incluindo-se licitações -, nada mais lídimo e consentâneocom o interesse público divulgá-los, ou disponibilizá-los, para a sociedade,cumprindo, fidedignamente, a Constituição Federal.
+6. Segurança concedida.
+(MS 16.903/DF, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRASEÇÃO, julgado em 14/11/2012, DJe 19/12/2012)
+ADMINISTRATIVO. RECURSO ORDINÁRIO. CONCURSO DEINGRESSO NA ATIVIDADE NOTARIAL. RECUSA EM PRESTARINFORMAÇÕES SOBRE PROVA DE TÍTULOS. ATO ILEGAL.DIREITO LÍQUIDO E CERTO COMPROVADO.
+1. O Mandado de Segurança foi impetrado contra ato doDesembargador Presidente da Comissão Examinadora do Concursopara Ingresso e Remoção nos Serviços Notariais e Registrais do Estadode Minas Gerais, consistente na recusa de fornecer informações sobreos títulos apresentados pelo candidato alçado a primeiro lugar naclassificação final.
+2. Consta dos autos que o recorrente solicitou, administrativamente,certidão com a relação dos processos que ensejaram a pontuação peloexercício da advocacia conferida ao mencionado candidato.
+3. A autoridade coatora indeferiu o requerimento, por entender que talinformação é de interesse exclusivo de terceiro e da ComissãoExaminadora.
+4. É notório o interesse e o direito do recorrente de secertificar da veracidade dos títulos apresentados pelo seuconcorrente, bem como do enquadramento às regraseditalícias.
+5. O ato coator, além de olvidar o princípio da publicidade dos atosadministrativos e a garantia do contraditório, viola o direito à certidãoestabelecido no art. 5º, XIV, "b", da Constituição da República.
+6. Concurso público, como o nome indica, exige a mais ampla eirrestrita transparência e publicidade, já que destas dependem alegitimidade, solidez, eficácia e credibilidade do sistema de admissãode servidores pelo Estado, baseado na meritocracia. Quem nega acessoa informações pertinentes a concurso público mutila a própria essênciado instituto, pouco importando que o faça de boa ou má-fé, emproveito próprio, de terceiros ou mesmo de ninguém.
+7. O fato de o recorrente ter ajuizado outros Mandados de Segurançacom relação ao mesmo concurso público não impede a apreciação dasua insurgência, pois cada impetração mencionada tem por objeto atosespecíficos e distintos que ele reputa ilegais ou abusivos.
+8. Tendo ou não o recorrente razão quanto a cada uma de suasimpetrações, deve ser anulado o ato apontado como coator nospresentes autos para assegurar a lisura e a publicidade do certame,conferindo, com isso, legitimidade ao resultado final.
+9. A ordem ora concedida apenas abona ao recorrente a obtenção deinformação sobre os títulos pontuados pelo outro candidato, nada mais, oque por si só não garante êxito no concurso, nem implica prejuízo aoconcorrente.
+10. Recurso Ordinário provido.
+(RMS 19.281/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA,julgado em 09/08/2011, DJe 16/03/2012)
+Portanto, como declarado na decisão ora impugnada, deve ser garantido, ao ora agravado (o impetrante), o fornecimento das informações utilizados pelo Tribunal de Justiça de Minas Gerais na aferição de pontuação para apromoção ao cargo de desembargador do TJMG por merecimento.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
