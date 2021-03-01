@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL Acidentária Lesões nos joelhos, ombros e na coluna da obreira Concessão de "aposentadoria por invalidez" Admissibilidade Caso especial Sequelas que impedem a segurada, pessoa simples com 49 anos de idade, de baixa escolaridade, sem maiores qualificações e que sempre exerceu atividades braçais, de desempenhar outra função laboral, ainda que de menor complexidade Ação julgada procedente para a concessão de "auxílio-doença" Recurso da autora e remessa obrigatória considerada interposta Honorários advocatícios Inaplicabilidade da Súmula nº 111, do STJ, à espécie Percentual a ser definido em fase de liquidação do julgado, nos termos do art. 85, §§3º e 4º, II, do novo CPC Precedentes Juros de mora contados de modo englobado até a citação e, após, mês a mês, decrescentemente, aplicando-se o IPCA-e na correção monetária dos atrasados desde 30.06.2009, data de vigência da Lei nº 11.960/09, na medida em que, ao rejeitar, por maioria de votos, em 03.10.2019, em acórdão publicado em 03.02.2020, todos os "embargos de declaração" opostos ao aludido Recurso Extraordinário, não modulando os efeitos da decisão anteriormente proferida, o Pretório Excelso considerou aquele índice empregável desde junho de 2009 em diante para a atualização dos débitos judiciais das Fazendas Públicas Isenção autárquica do pagamento de custas -- Apelo da obreira e reexame necessário providos, em parte, revogada a tutela de urgência deferida na r. sentença, cancelando-se, consequentemente, o pagamento do "auxílio-doença", e concedida, de ofício, a tutela de urgência para a imediata implantação da "aposentadoria por invalidez" acidentária.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente afirma que houve ofensa aos arts. 927, IV, e 1.022 do CPC/2015. Alega:
+O v. acórdão regional afastou a aplicação da Súmula nº 111 do STJ sob o argumento de que não foi recepcionada pelo Novo CPC.
+Entretanto, em uma análise mais criteriosa, verifica-se que inexiste qualquer fundamento para tal interpretação.
+Com efeito, o Novo Código de Processo Civil entrou em vigência no dia 18/03/2016 (Enunciado Administrativo nº 1), sendo que até o presente momento, o STJ não revogou a Súmula nº 111, ao contrário das Súmulas nº 512, 469 e 418.
+Contrarrazões às fls. 217-222, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 03.02.2021.
+Com efeito, a respeito do termo final da verba honorária, a orientação jurisprudencial do Superior Tribunal de Justiça é a de que este deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas, conforme determina a Súmula 111 desta Corte, mesmo em se tratando de questões decididas após a entrada em vigor do CPC/2015.A propósito:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Com efeito, a respeito do termo final da verba honorária, a orientação jurisprudencial do Superior Tribunal de Justiça é a de que este deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas, conforme determina a Súmula 111/STJ, mesmo em se tratando de questões decididas após a entrada em vigor do CPC/2015.
+2. Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento do STJ, razão pela qual merece prosperar a irresignação.
+3. Recurso Especial provido para reconhecer a aplicação da Súmula 111 do STJ.
+(REsp 1900790/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/11/2020, DJe 18/12/2020)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Conforme teor da Súmula 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser a decisão em que o direito do segurado foi reconhecido: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença".
+2. Na hipótese, o acórdão recorrido, que concedeu o direito à aposentadoria especial, deve ser considerado como termo final. Nesse sentido: AgRg no AREsp 271.963/AL, Rel. p/a. Acórdão, Min. Sérgio Kukina, Primeira Turma, DJe de 19/5/2014; EDcl no AgRg no REsp 1.271.734/RS, Rel. Min. Alderita Ramos de Oliveira (Desembargadora Convocada do TJ/PE), DJe de 18/4/2013; AgRg nos EDcl no AREsp 155.028/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/10/2012.
+3. Recurso Especial provido.
+(REsp 1.831.207/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019)
+Em idêntica direção, as recentes decisões monocráticas de ambas as Turmas da Primeira Seção que deram provimento ao Recurso Especial do INSS em caso análogos: REsp 1.883.980/SP, Rel. Min. Herman Benjamin, DJe 01/10/2020; REsp 1.900.926/SP, Rel. Min. Og Fernandes, DJe 03/11/2020; REsp 1.900.552/SP, Rel. Min. Gurgel de Faria, DJe 03/11/2020.REsp 1.87.1341, Rel. Min. Gurgel de Faria, DJe 1º/6/2020; REsp 1.884.087, Rel. Min. Benedito Gonçalves, DJe 12/8/2020; REsp 1.867.323/SP, Rel. Min. Francisco Falcão, 14/5/2020; REsp 1.864.990/SP, Rel. Min. Mauro Campbell Marques, DJe 13/5/2020; e REsp 1.864.988/SP, Rel. Min. Herman Benjamin, DJe 4/5/2020.
+Dessume-se que o acórdão recorrido não está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual merece prosperar a irresignação.
+Por tudo isso, dou provimento ao Recurso Especial para reconhecer a aplicação da Súmula 111 do STJ.
+Publique-se.
+Intimem-se.
