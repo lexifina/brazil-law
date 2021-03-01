@@ -1,0 +1,35 @@
+Decisão: Trata-se de pedido de extensão dos efeitos da decisão formulado em favor de Mauro Macedo com base no art. 580 do Código de Processo Penal (eDOC 34).
+    Em 12.2.2021 proferi decisão monocrática para conceder, de ofício, a ordem em favor de Marcelo Bezerra Crivella por entender excessivas e desproporcionais as medidas cautelares fixadas no HC 636.740 do Superior Tribunal de Justiça. (eDOC 18).
+    O requerente afirma encontrar-se na mesma situação fático-processual do paciente Marcelo Crivella, como já reconhecido pelo relator do HC 636.740 ao lhe estender as medidas cautelares diversas em lugar da prisão preventiva que sofria. Sustenta ser também sexagenário e sofrer com diabetes e pressão arterial.
+    Nesse sentido, pugna pela extensão dos efeitos da decisão que concedeu a ordem de habeas corpus.
+    É o relatório.
+    Passo a decidir.
+    A pretensão merece acolhida.
+    Conforme consignado anteriormente:
+    “Neste momento, o paciente se encontra em prisão domiciliar, com monitoramento eletrônico, proibido de sair sem autorização e de ter contato com terceiros, seja fisicamente, seja por qualquer meio de telecomunicação, como telefone, celular ou internet. Trata-se, portanto, de isolamento integral do paciente com o mundo externo.
+    Em juízo de proporcionalidade, próprio da avaliação das medidas cautelares no processo penal, observo que tal isolamento integral não mais se justifica, sobretudo diante do fato de que o paciente não exerce mais, desde 1º.1.2021, o cargo de Prefeito do Município do Rio de Janeiro, diminuindo assim drasticamente o risco que o paciente poderia representar para a higidez da instrução e para aplicação da lei penal.
+    De fato, pela própria atual conjuntura do cenário político do Município do Rio de Janeiro, com a troca de gestão, resta clara a ausência de qualquer poder de influência do paciente no governo municipal.
+    Nessa linha, é preciso mencionar que os delitos imputados ao paciente guardam todos relação com o exercício do cargo de prefeito, de modo que fica afastada, agora, a possibilidade de qualquer espécie de reiteração delitiva por parte do paciente.
+    Outro ponto importante a ser levantado acerca da ilegitimidade da prisão domiciliar é a ausência de contemporaneidade apta a lastrear a medida.
+    Em uma análise atenta dos autos, principalmente da denúncia e do decreto prisional (eDOCs 6 e 7), percebe-se que os fatos imputados ao paciente se concentram temporalmente nos anos de 2016 a 2019.
+    No ponto, cabe observar que a questão da contemporaneidade foi destacada pelas recentes alterações do Código de Processo Penal, trazidas pela Lei 13.964 (Pacote Anticrime). Confira-se:
+    ‘Art. 312. A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+    § 1º A prisão preventiva também poderá ser decretada em caso de descumprimento de qualquer das obrigações impostas por força de outras medidas cautelares 282, § 4.
+    § 2º A decisão que decretar a prisão preventiva deve ser motivada e fundamentada em receio de perigo e existência concreta de fatos novos ou contemporâneos que justifiquem a aplicação da medida adotada’.
+    Transcrevo, também, o entendimento da Segunda Turma a respeito:
+    ‘Habeas corpus. 2. Supostos desvios das verbas de fundos de pensão. Corrupção, lavagem de dinheiro e organização criminosa. Operação “Rizoma”. Prisão preventiva. 3. Impetração contra acórdão que indeferiu liminarmente anterior HC no STJ. 4. Ocorrência de constrangimento ilegal ensejadora do afastamento da incidência da Súmula 691 do STF. 5. Perigo que a liberdade do paciente representa à ordem pública ou à aplicação da lei penal pode ser mitigado, no caso, por medidas cautelares menos gravosas do que a prisão. Precedentes desta Segunda Turma: HCs 143.247/RJ, 146.666/RJ e 147.192/RJ (DJe 7.2.2018, 10.4.2018 e 23.2.2018, respectivamente). 6. Concessão da ordem para substituir a prisão preventiva decretada em desfavor do paciente por medidas cautelares diversas da prisão, na forma do art. 319 do CPP. Prejudicialidade de agravos regimentais interpostos pela Procuradoria-Geral da República’. (STF, HC 156.730/ RJ, Segunda Turma, j. 26.6.2018)
+    Considerando a natureza substitutiva da prisão domiciliar, entendo que esta deve encontrar lastro, igualmente, em fatos contemporâneos que justifiquem a sua imposição, o que não é o caso dos autos, principalmente após o paciente ter deixado o mandato de Prefeito do Município do Rio de Janeiro em 1º.1.2021.
+    Como venho me posicionando, é preciso reafirmar o entendimento de que prisão cautelar e mérito da ação penal demandam fundamentos fáticos e espaços axiológicos de apreciação distintos. Tanto o substrato empírico (plano descritivo) quanto a valoração desse substrato (plano normativo) não devem se embaralhar no âmbito desses diferentes momentos processuais. A carga de desvalor que o ilícito-típico representa para o mérito não deve contaminar o juízo cautelar.
+    O que tem-se verificado, principalmente no âmbito dos crimes contra a Administração Pública, é uma recorrente afirmação de vetores axiológicos etéreos e abstratos como o clamor social e a impunidade generalizada como critérios aptos a lastrear a prisão cautelar. Sobre isso, é preciso que se diga que a prisão preventiva, ainda que substituída pela domiciliar, revela medida gravosa e de natureza excepcional, que atinge um direito fundamental e demanda uma fundamentação que encontre guarida em um substrato empírico concreto, individualizado e atual, o que não foi demonstrado nestes autos.”
+    Dos excertos colecionados e da documentação carreada aos autos, entendo presentes os requisitos autorizadores do art. 580 do CPP.
+    Isso porque, como se vê da denúncia, os fatos imputados ao requerente Mauro Macedo são todos também referidos ao paciente Marcelo Crivella, datados de igual período, a atrair a conclusão pela extemporaneidade do decreto preventivo também para a presente hipótese.
+    Ante o exposto, defiro a extensão dos efeitos da decisão que beneficiou o paciente (eDOC 18) ao requerente Mauro Macedo. Assim, determino a revogação da prisão domiciliar e das demais cautelares fixadas contra o requerente. Determino, ainda, o cumprimento das seguintes cautelares, diversas da prisão, na forma do art. 319 do CPP:
+     a) comparecimento periódico em Juízo, no prazo e nas condições fixadas pelo juiz de origem, para informar e justificar atividades (inciso I);
+    b) proibição de manter contato com os demais investigados, por qualquer meio (inciso III);
+    c) proibição de deixar o País, devendo entregar seu(s) passaporte(s) em até 48 (quarenta e oito) horas (inciso IV e art. 320).
+    Comunique-se, com urgência, ao Juízo de origem, ao TJRJ e ao STJ
+    Publique-se.
+    Brasília, 1 de março de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
