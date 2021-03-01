@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por WESLEY SIMPLÍCIO FREITAS contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (HC n. 0020650-98.2019.8.19.0066).
+Infere-se dos autos que o recorrente foi preso preventivamente por suposta infração aos arts. 33 e 35 da Lei n. 11.343/2006.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem que denegou a ordem nos termos da seguinte ementa (e-STJ fls. 120/121):
+HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA TAL FIM. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ao paciente foi imputada a prática das condutas dos artigos 33 e 35 ambos da Lei n.º 11.343/06. E, examinando-se a decisão que convolou a prisão em flagrante em preventiva, verifica-se que está fundamentada em estrita obediência ao artigo 93, inciso IX, da Constituição da República e 315 do Código de Processo Penal, além de demonstrada a necessidade social da custódia cautelar diante da presença dos pressupostos ínsitos no artigo 312 do Código de Processo Penal, com as alterações trazidas pela Lei 12.403/2011, não havendo, portanto, de se falar em qualquer ilegalidade no decreto prisional, estando a referida decisão motivada na garantia da ordem pública, da instrução criminal e da aplicação da lei penal e ainda, sem que se viole o espírito do legislador ao editar a Nova Lei nº 12.403/2011, de ser a regra maior a liberdade do autor do fato, atendidos, também, aos artigos 312 e 313, inciso I e II, do Código de Processo Penal, não sendo hipótese de aplicação do artigo 580 do Código de Processo Penal, pois não estar o paciente em situação idêntica à do corréu LEONARDO, por ser reincidente específico; ao passo que para o reconhecimento de excesso de prazo, não basta o simples cômputo daqueles estabelecidos na norma processual penal, porque não se traduz num simples cálculo aritmético, não procedendo o pedido de concessão da liberdade provisória calcado no risco decorrente da pandemia do COVID-19, a UMA -porque não há, sequer alegação de estar no grupo de risco e/ou existência de casos suspeitos, ou comprovados, da doença na unidade prisional que está custodiado, e a DUAS - porquanto, em cumprimento ao Decreto Estadual 46.969, de 12.03.2020 e a Resolução SEAP n.º 809, de 24.03.2020, que instituiu o Gabinete de Crise da Secretaria de Administração Penitenciária do Estado do Rio de Janeiro, foram adotadas medidas de enfrentamento das emergências no âmbito prisional estadual, a fim de evitar o avanço da doença no sistema penitenciário.
+DENEGAÇÃO DA ORDEM
+Nas razões do presente recurso, a defesa alega, em síntese, a existência de constrangimento ilegal diante do excesso de prazo para a formação da culpa, destacando que o réu está preso há mais de um ano e ainda não houve a audiência de instrução e julgamento.
+Sublinha que o recorrente possui residência fixa e sempre teve sua vida pautada no trabalho lícito.
+Diante disso, requer a revogação da prisão preventiva do recorrente.
+Contrarrazões às e-STJ fls. 159/171.
+O Ministério Público Federal manifestou-sepelo desprovimento do recurso (e-STJ fls. 178/182).
+É o relatório. Decido.
+Consoante informações obtidas no endereço eletrônico do Tribunal de origem, verifica-se que em 26/1/2021 houve a prolação da sentença condenatória.
+Nesse contexto, fica sem objeto o pedido contido na inicial que se insurgia contra o excesso de prazo para a formação da culpa.
+Ante o exposto, com base no art. 34, incisos XI e XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso.
+Intimem-se.
