@@ -1,0 +1,9 @@
+DECISÃO
+A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente (v.g.: HC 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014).
+As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+Portanto, não se admite mais a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração.
+Entretanto, no caso de flagrante ilegalidade apta a gerar constrangimento ilegal, a jurisprudência recomenda a concessão da ordem de ofício.
+In casu, compulsando o procedimento, denota-se que o presente writ se trata de reiteração de pedido com os mesmos fundamentos, relacionado à ação penal n. 0001861-59.2020.8.14.0000, já apreciado em sede de julgamento liminar do habeas corpus n. 646.510/PA, oportunidade em que o pedido liminar não foi concedido.
+Nesse diapasão, o art. 210 do RISTJ dispõe que: "Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, nego seguimento aopresente habeas corpus, nos termos dos arts. 34, XX e 210, ambos do RISTJ.
+P. e I.
