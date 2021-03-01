@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo interno, com pedido de reconsideração, interposto por PORTANOVA &ADVOGADOS ASSOCIADOScontra decisão monocrática do Presidente deste Tribunal que não conheceu dorecurso especial em razão de suaintempestividade (e-STJ fls. 390-391).
+Oagravante alega que o seu recurso especial é tempestivo, pois "no presente caso, a nota de expediente intimando a parte recorrida da decisão foi disponibilizada em 17/02/2020 (segunda-feira) sendo publicada no dia útil subsequente, ou seja, em 18/02/2020 (terça-feira), iniciando-se a contagem processual no dia 19/02/2020 (quarta-feira), salientando-se que no interregno da contagem do prazo processual os dias 24/02/2020 e 25/02/2020 são considerados feriados nacionais notórios, conforme se pode observar da informação extraída do e. TJRS" (e-STJ fl. 397).
+Pugna, por fim, seja reconsiderada a decisão agravada.
+Impugnação apresentada (e-STJ fls. 408-412).
+É o relatório. Decido.
+Por considerar que o recurso especial é tempestivo, reconsidero a decisão de e-STJ fls. 390-391, tornando-a sem efeito. Analiso novamente as razões recursais:
+Trata-se de recurso especial interposto porPORTANOVA &ADVOGADOS ASSOCIADOS,com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão doTribunal de Justiça Estadual,assim ementado (e-STJ fl. 254):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA QUE RECONHECE A EXIGIBILIDADE DE OBRIGAÇÃO DE PAGAR QUANTIA CERTA PELA FAZENDA PÚBLICA. EXPEDIÇÃO DE PRECATÓRIO. DESCABIMENTO DE FRACIONAMENTO.
+Conforme revela a documentação carreada aos autos, a espécie trata de cumprimento de sentença condenatória lançada contra o instituto agravante acerca do pagamento de pensão previdenciária proposta por Angélica Peralta Peres, cumulando o valor da referida pensão, mais os honorários da sucumbência em favor de Portanova & Advogados Associados.
+O valor da condenação já foi devidamente homologado por sentença, tendo sido expedido o competente precatório.
+A Constituição Federal, no art. 100, §8º, veda a expedição de precatórios complementares ou suplementares de valor pago, bem como o fracionamento, repartição ou quebra de valor da execução para fins de enquadramento de parcela total ao que dispõe o §3º deste artigo.
+O art. 85, § 15, do CPC não tem o alcance pretendido pelo agravado, no sentido de que, após a expedição do requisitório, possa haver repartição do valor, em favor do advogado, que não figura na execução como parte.
+Descabimento do fracionamento do precatório em flagrante violação do art. 100, §8º da Constituição Federal, bem como, a ordem cronológica de apresentação dos precatórios (art. 100 do CF).Agravo provido
+Os embargos de declaraçãoforamrejeitados (e-STJ fl. 302).
+O recorrente alegaviolação doart.1.022do CPC/2015, ao argumento de que há julgamento extra petita e error in judicando, pois "não se trata de pedido de fracionamento do crédito para expedição de requisitório autônomo no tocante aos honorários sucumbenciais, trata-se de pura e simplesmente a alteração da titularidade da verba honorária sucumbencial, a qual consta no requisitório em favor dos sócios pessoas físicas enquanto estes postulam se dê em favor da sociedade Portanova & Advogados Associados, nos termos do que preceitua o art. 85, §15, do CPC" (e-STJ fl. 331).
+Sem contrarrazões (e-STJ fl. 369).
+É o relatório. Passo a decidir.
+O recurso merece prosperar.
+Com efeito, o recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de negativa de prestação jurisdicional que remanesce omisso o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito de várias questões trazidas nos embargos de declaração, dentre elas, a de quenão se trata de pedido de fracionamento do crédito para expedição de requisitório autônomo no tocante aos honorários sucumbenciais, trata-se de pura e simplesmente a alteração da titularidade da verba honorária sucumbencial, a qual consta no requisitório em favor dos sócios pessoas físicas enquanto estes postulam se dê em favor da sociedade Portanova & Advogados Associados, nos termos do que preceitua o art. 85, §15, do CPC.
+Com efeito, evidencia-se que as questões suscitadas guardam correlação lógico-jurídica com a pretensão deduzida nos autos e se apresentam imprescindíveis à satisfação da tutela jurisdicional.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, I e II, do CPC/2015, ensejando a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NORECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO EM RELAÇÃO À DECISÃO ANTERIOR. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. REQUISIÇÃO EM NOME DA SOCIEDADE ADVOCATÍCIA. ARTIGO 1.022, I E II, DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO PROVIDO.
