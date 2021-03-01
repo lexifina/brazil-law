@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração (e-STJ fls. 799-802) opostos por CONSÓRCIO ESTREITO ENERGIA - CESTE à decisão de fls. 795-797 (e-STJ), que determinou a devolução dos autos à instância de origem, nos termos do art. 1.040, I e II, do CPC/2015, tendo em vista a afetação da matéria, objeto do recurso especial, ao rito dos recursos repetitivos, Tema 978.
+A embargante aduz, em síntese, que
+"(..) a controvérsia sobre o prazo prescricional não envolve a UHE Rio Manso, e tampouco envolve a existência de ação coletiva na qual foi firmado acordo e que depois o autor acabou sendo excluído do pagamento".
+É o relatório.
+DECIDO.
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+A decisão embargada não padece de nenhum dos vícios ensejadores dos embargos declaratórios, enumerados no artigo 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+Concretamente, o embargante não aponta omissões, contradições ou obscuridades no acórdão que justifiquem esclarecimento, ao contrário, veicula inconformismo com a decisão proferida.
+Na hipótese, a decisão embargada, de forma clara e expressa, consignou que:
+"A Segunda Seção afetou o julgamento do tema dos autos em questão idêntica, conforme demonstram as seguintes ementas (Tema nº 978):
+"PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. AÇÃO INDENIZATÓRIA. CONSTRUÇÃO DE USINA HIDRELÉTRICA NO RIO MANSO. PERDAS E DANOS. DISCUSSÃO SOBRE O TERMO INICIAL DO PRAZO PRESCRICIONAL.1. Delimitação da controvérsia: Definir o termo inicial do prazo prescricional para o ajuizamento de ação indenizatória por terceiros que se alegam prejudicados em decorrência da construção de Usina Hidrelétrica no Rio Manso; se é da data da construção da Usina ou da negativa de pagamento ao recorrente, diante da não inclusão de seu nome no acordo entabulado perante a Justiça Federal.2. Recurso Especial afetado ao rito do art. 1.036 CPC/2015" (ProAfR no REsp 1667189/MT, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/06/2017, DJe 01/08/2017).
+"PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. AÇÃO INDENIZATÓRIA. CONSTRUÇÃO DE USINA HIDRELÉTRICA NO RIO MANSO. PERDAS E DANOS. DISCUSSÃO SOBRE O TERMO INICIAL DO PRAZO PRESCRICIONAL.1. Delimitação da controvérsia: Definir o termo inicial do prazo prescricional para o ajuizamento de ação indenizatória por terceiros que se alegam prejudicados em decorrência da construção de Usina Hidrelétrica no Rio Manso; se é da data da construção da Usina ou da negativa de pagamento ao recorrente, diante da não inclusão de seu nome no acordo entabulado perante a Justiça Federal.2. Recurso Especial afetado ao rito do art. 1.036 CPC/2015" (ProAfR no REsp 1665598/MT, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 28/06/2017, DJe 01/08/2017)".
+De acordo com a jurisprudência desta Corte, havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Nesse sentido: AgInt nos EDcl no AREsp 1.131.306/SP, SEGUNDA TURMA, DJe 15/2/2019; AgInt no REsp 1.615.887/PR, PRIMEIRA TURMA, DJe 12/2/2019.
+Somente após a análise de conformidade, se for o caso, o recurso especial deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para exame das demais questões jurídicas nele suscitadas que eventualmente não tenham ficado prejudicadas.
+Ressalte-se ainda que, esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte, e eventual argumentação de distinguish também pode ser formulada no juízo a quo.
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir algum erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
