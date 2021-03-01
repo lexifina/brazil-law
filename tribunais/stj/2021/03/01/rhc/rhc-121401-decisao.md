@@ -1,0 +1,20 @@
+DECISÃO
+Neste recurso, que se volta contra o acórdão proferido pelo Tribunal de Justiça de Minas Gerais no HC n. 1.0000.19.121806-4/000, pretende-se a imediata revogação da prisão preventiva de Italo Henrique Luis Venancio, decretada no Processo n. 0699.16.001309-9, da Vara Criminal e da Infância e da Juventude da comarca de Ubá/MG, ao argumento, em resumo, de falta de fundamentação idônea a amparar a custódia.
+Indeferi o pleito liminar (fls. 313/314).
+Informações à fl. 322.
+Parecer do Ministério Público Federal opinando pelo desprovimento do recurso (fl. 340):
+RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. RISCO CONCRETO DE REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. DESPROVIMENTO.
+1. Hipótese em que a manutenção da custódia cautelar está amparada em dados concretos, tendo em vista que o recorrente foi preso novamente, em razão da prática, em tese, do delito de homicídio, fato a indicar sua inclinação ao cometimento de crimes e justificar a decretação da prisão preventiva para a garantia da ordem pública e evitar o risco de reiteração delitiva.
+2 . "A garantia da ordem pública, para fazer cessar a reiteração criminosa, é fundamento suficiente para a decretação e manutenção da prisão preventiva" (RHC nº 55.992/SP, Relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/03/2015, DJe 16/04/2015).
+3. Parecer pelo desprovimento do recurso ordinário.
+É o relatório.
+No caso, o recorrente foi condenado à pena de 6 anos, 5 meses e 10 dias de reclusão, em regime inicial semiaberto, e pagamento de 15 dias-multa, pela prática do delito previsto no art. 157, § 2º, I e II, do Código Penal. O Juízo sentenciante considerou que, apesar de o réu ter respondido a quase todos os atos do processo em liberdade, em decorrência do interregno decorrido e da necessidade premente de dar à sociedade uma resposta, não se seria aplicável o direito de recorrer em liberdade (fl. 245).
+Outrossim, consta dos autos que, no interregno citado pelo Magistrado, o recorrente foi preso em flagrante delito pela suposta prática de homicídio (Autos n. 0134984-28.2017.8.130699), enquanto respondia solto à ação penal ora questionada (ante o relaxamento da prisão por demora na remessa do flagrante ao Juízo) - fl. 282.
+Concordo, pois, com a opinião da Subprocuradora-Geral da República Solange Mendes de Souza de que se afigura necessária a manutenção da custódia cautelar para a garantia da ordem pública, tendo em vista que em 2017, o recorrente foi preso novamente pela prática, em tese, do crime de homicídio, o que indica sua inclinação ao cometimento de delitos e constitui motivo suficiente para o encarceramento provisório, a fim de evitar a reiteração criminosa (fl. 342).
+Com efeito, a proibição de recorrer em liberdade está motivada em elementos concretos extraídos dos autos, para garantia da ordem pública, em virtude do risco da reiteração delitiva, tendo em vista que o recorrente, apesar de ter permanecido solto durante a instrução processual, praticou novo delito (RHC n. 106.217/CE, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/2/2019).
+Ressalte-se, ainda, que a jurisprudência desta Corte superior é pacífica no sentido de não haver incompatibilidade entre a fixação de regime semiaberto e o indeferimento do direito de recorrer em liberdade na sentença condenatória, sendo apenas necessária a compatibilização da custódia com o regime fixado (AgRg no HC n. 586.212/BA, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/8/2020).
+Assim, dou provimento ao recurso em menor extensão, tão somente para determinar que o recorrente aguarde o trânsito em julgado da condenação no regime prisional fixado pela sentença, qual seja, o semiaberto, salvo se houver prisão por outro motivo.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. REGIME INICIAL SEMIABERTO. NEGATIVA DO APELO EM LIBERDADE. FUNDAMENTAÇÃO. RISCO CONCRETO DE REITERAÇÃO DELITIVA. MOTIVO IDÔNEO. NECESSIDADE DE COMPATIBILIZAÇÃO DA CUSTÓDIA COM O MODO DE EXECUÇÃO ESTABELECIDO NO ÉDITO REPRESSIVO.
+Recurso provido em menor extensão, nos termos do dispositivo.
