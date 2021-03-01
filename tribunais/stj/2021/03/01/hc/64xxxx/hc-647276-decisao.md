@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor de ANDERSON MARTINS BRAZ contra acórdão do Tribunal de Justiça do Estado de São Pauloproferido na Apelação Criminal n.0000051-73.2018.8.26.0618.
+Consta dos autos que o Paciente foi condenado à pena de 5 (cinco) meses e 13 (dias) de reclusão, em regime fechado, e ao pagamento de 4 (quatro) dias-multa, no mínimo legal, como incurso no art. 155,caput, c.c. o art.14, inciso II, doCódigo Penal, porque no dia 13/01/2018, subtraiu"02 (duas) peças de carne Filé Mignon, conforme auto de exibição, apreensão e entrega de fls. 06, avaliadas em R$ 95,26"(fl. 137).
+O Tribunal de Justiçaa quonegou provimento ao recurso defensivo, mantendo a sentença apelada, por seus próprios fundamentos, nos termos do acórdão de fls. 387-393, sem ementa.
+Neste writ substitutivo de recurso, defende que o Impetrante que os maus antecedentes e a reincidência do Pacientenão obstam o reconhecimento da insignificância do delito.
+Busca, assim, o "recebimento e conhecimento do presente writ, para que seja liminarmente, concedida a ordem, reconhecendo a atipicidade da conduta do ora paciente e, por via de consequência, que este seja absolvido, nos termos do art. 386, inciso III, do Digesto Processual Penal. No mérito, seja confirmada a medida liminar concedida" (fl. 16).
+Subsidiariamente, requer a concessão da ordem para fixar o regime inicial aberto ao cumprimento da reprimenda, ou para que seja substituída a pena privativa de liberdade por restritiva de direito.
+É o relatório. Decido.
+A questão já foi analisada nos autos do HC n. 594.715/SP, impetrado em face da Corte paulista, em decisão monocrática da minha relatoria, publicada no DJe de 23/10/2020 e transitada em julgado, que guarda a seguinte ementa:
+"HABEAS CORPUS. PENAL. CRIME DE FURTO QUALIFICADO TENTADO. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. HABITUALIDADE DELITIVA. MAUS ANTECEDENTES E REINCIDÊNCIA.RES FURTIVAAVALIADA EM VALOR QUE EQUIVALE A 10% (DEZ POR CENTO) DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO FATO. REPROVABILIDADE DA CONDUTA. PERICULOSIDADE SOCIAL DA AÇÃO. EXIGÊNCIA DE APLICAÇÃO DO DIREITO PENAL. REGIME PRISIONAL FECHADO. CABIMENTO. ORDEM DEHABEAS CORPUSDENEGADA"
+Esta impetração, portanto, é mera reiteração de pedido anterior - com decisão transitada em julgado -, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas o mesmo acórdão. Assim, concluo pela inadmissibilidade domandamus, porquanto"não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado emwritanteriormente impetrado nesta Corte"(AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. CRIME DE FURTO QUALIFICADO TENTADO. PLEITOS DE APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA E DE REVISÃO DO REGIME PRISIONAL.REITERAÇÃO DO PLEITO FORMULADO NO HC N.594.715/SP. COISA JULGADA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL.
