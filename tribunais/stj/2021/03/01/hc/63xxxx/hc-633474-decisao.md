@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CAMILA GABRIELA DOS SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2253018-20.2020.8.26.0000).
+A paciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 45-50), em razão da suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na relevante quantidade de entorpecente apreendida - 497,4g de maconha -, destacando a inviabilidade da prisão domiciliar, seja porque a paciente não confirmara fazer parte do grupo de risco da covid-19, seja porque, ainda que mãe de filhos menores de 12 anos, não demonstrara sua imprescindibilidade aos cuidados deles e fora presa em flagrante no local em que reside com os filhos.
+Impetrado writ originário, a ordem foi denegada.
+A defesa sustenta que a paciente possui filhos menores de 12 anos, fazendo jus à prisão domiciliar sem a necessidade de comprovação da imprescindibilidade de seus cuidados. Destaca ainda a Recomendação CNJ n. 62/2020.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva e sua substituição pela prisão domiciliar ou, alternativamente, por outras medidas cautelares alternativas.
+O pedido de liminar foi indeferido (fls. 248-249).
+As informações foram prestadas às fls. 255-258 e 264-285.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 290-296).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, o pleito formulado no presente writ é dotado de plausibilidade jurídica, circunstância que autoriza a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo acerca da presença dos requisitos para a segregação cautelar e para o indeferimento do pedido de substituição por prisão domiciliar (fls. 241-242):
+Ao decretar a prisão preventiva da paciente, foram mencionadas pelo Juízo de primeiro grau as circunstâncias do flagrante que indicam a comercialização de drogas ilícitas, como a grande quantidade de entorpecentes apreendida, bem como os instrumentos para manipulação e embalo (fls. 39/44).
+Tais aspectos demonstram que a custódia cautelar deve ser mantida especialmente pela necessidade de se garantir a ordem pública, profundamente afetada em crimes dessa natureza, bem como a aplicação da lei penal.
+Presentes, pois, os requisitos da prisão preventiva previstos nos art. 312 e 313, ambos do Código de Processo Penal.
+ ..
+Além disso, no que tange à alegação de que a paciente é genitora de três crianças, cumpre ressaltar que é notório que as Leis nº. 13.257/2016 e nº. 13.769/2018 ao alterarem o Código de Processo Penal e os seus artigos 318 e 318-A, visavam proteger os interesses dos menores ou dependentes que eram privados da presença de seus responsáveis em razão da decretação de prisão preventiva.
+No entanto, é dos autos que a paciente, ao invés de se dedicar aos cuidados dos filhos, em tese, praticava o delito de tráfico de entorpecentes no local em que residia com eles, sendo que não há qualquer comprovação de que seja a única responsável pelos cuidados dos menores.
+Nesse sentido, verifica-se de fls. 24 que a paciente apontou sua irmã, Monique, como sendo a responsável pelos cuidados dos filhos, de modo que não se aplica, no caso, o art. 318, do Código de Processo Penal ou os precedentes mencionados pela d. Defesa.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Por sua vez, não obstante o disposto no art. 318 do Código de Processo Penal e a decisão do Supremo Tribunal Federal no HC coletivo n. 143.641/SP, a paciente não apresentou provas do grau de dependência entre ela e os filhos. Também houve apreensão de expressiva quantidade de entorpecentes aliada ao fato de o tráfico ser realizado na mesma residência dos filhos menores, o que, por evidenciar a dedicação a atividades delituosas voltadas ao tráfico, justifica a negativa da pretensão de substituição da prisão preventiva por domiciliar.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, o paciente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada. A propósito, assim se manifestou o Tribunal a quo (fl. 244):
+Portanto, como já dito, não há provas do comprometimento da saúde da paciente nos termos da Recomendação n.º 62,do CNJ, ou da ausência de equipe médica ou local para isolamento na unidade onde está recolhida.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus.
+Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
