@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos contra aresto prolatado pelaTerceira Turmadeste Tribunal Superiorassim ementado (e-STJ fl. 488):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EMRECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE.INTIMACÀO. DIÁRIO DE JUSTIÇA ELETRÔNICO. PUBLICAÇÃO.PREVALÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. O entendimento assente no Superior Tribunal de Justiça é no sentido deque, ocorrendo a intimação eletrônica e a publicação da decisão no Diáriode Justiça eletrônico, prevalece esta última quando ocorrida em primeirolugar, visto que, nos termos da legislação vigente, substitui qualquer outromeio de publicação oficial para quaisquer efeitos legais. Precedentes.
+3. Agravo interno não provido.
+O embargante sustenta, em síntese,que o acórdão recorrido contraria entendimento da Quarta Turma firmado nos autos do AgInt no AREsp n. 1.380.816/RJ e do AgInt nos EDcl no AREsp n. 1.343.785/RS, segundo o qual, havendo divergência entre as datas da intimação eletrônica e da publicação no Diário de Justiça, para fins de contagem do prazo recursal, prevalecia a data da intimação eletrônica (e-STJfls. 499/592).
+Eis as ementas dosacórdãos da Quarta Turma:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ANULAÇÃO DE LEILÃO EXTRAJUDICIAL. AÇÃO DE IMISSÃO NA POSSE APENSADA. JULGAMENTO CONJUNTO. PEDIDO DE IMISSÃO ACOLHIDO. FIXAÇÃO DE TAXA DE OCUPAÇÃO MENSAL. DÍVIDA. DEVEDORA-FIDUCIANTE. PLEITO ANULATÓRIO JULGADO IMPROCEDENTE. NULIDADE DO LEILÃO EXTRAJUDICIAL. AUSÊNCIA DE PROVA DA ALEGAÇÃO. PROPRIEDADE CONSOLIDADA NO CREDOR-FIDUCIÁRIO. VIOLAÇÃO DE LEI FEDERAL. DEFICIÊNCIA NA ARGUMENTAÇÃO. SÚMULAS 283 E 284 DO STF.APLICAÇÃO ANALÓGICA. REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO.SÚMULA 7 DO STJ. INCIDÊNCIA.
+1. "O Código de Processo Civil/2015 avançou ao delimitar o tema, prevendo, em seu artigo 272, que, quando não realizadas por meio eletrônico, consideram-se feitas as intimações pela publicação dos atos no órgão oficial"(AgInt no AREsp 1330052/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/03/2019, DJe 29/04/2019).
+2. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF. Aplicação analógica.
+3. Na espécie, não houve a demonstração clara e precisa dos motivos pelos quais o acórdão recorrido teria vulnerado o dispositivo apontado no apelo extremo, incidindo a Súmula nº 284/STF. Aplicação analógica.
+4. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+5. Agravo interno provido para afastar a intempestividade e negar provimento agravo em recurso especial por outros fundamentos.
+(AgInt no AREsp 1.380.816/RJ, RelatorMinistro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO. PREVALÊNCIA DA INTIMAÇÃO ELETRÔNICA SOBRE A PUBLICAÇÃO NO DJE. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. RESOLUÇÃO DE CONTRATO DE PARCERIA ENTRE ADVOGADOS. DIVISÃO DE HONORÁRIOS. CERCEAMENTO DE DEFESA. FUNDAMENTO NÃO IMPUGNADO.SÚMULA 283/STF. DANOS MORAIS E MATERIAIS. OMISSÃO CONFIGURADA. ART.1.022, II, DO CPC/2015. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.AGRAVO INTERNO PROVIDO.
+1. A Quarta Turma desta Corte, no julgamento do AREsp 1.330.052/RJ, decidiu pela prevalência da intimação eletrônica sobre a publicação no Diário de Justiça. Agravo interno provido para afastar a intempestividade.
+2. Quanto à alegação de cerceamento de defesa, verifica-se a ausência de impugnação de fundamento autônomo e suficiente à manutenção do acórdão recorrido, circunstância que atrai o óbice da Súmula 283/STF. 3. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (art. 1.022, II, do CPC/2015), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do recurso especial e dar-lhe parcial provimento, a fim de que a Corte de origem se manifeste sobre pontos omissos.
+(AgInt nos EDcl no AREsp 1.343.785/RJ, RelatorMinistro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/6/2019, DJe 28/6/2019.)
+Requero embargantea reforma do acórdão da Terceira Turma (e-STJ fl. 505).
+É o relatório.
+Decido.
+Os presentes embargos são tempestivos e indicam divergência entre acórdão da Terceira Turma, que entendeu prevalecer, para fins de início do prazo recursal, a intimação pelo DJe, e julgadosda Quarta Turma desta Corte Superior, no qual, segundo alegado, teria sidoapontadaa prioridade da intimação realizada eletronicamente,em situações semelhantesàdo caso tratado pela Terceira Turma.
+Com efeito, a Segunda Seção, recentemente, aceitou discutir esse tema, nos autos do AgInt nos EAREsp n. 1.342.507/RJ, tendo sido admitidos os embargos por decisão unânime do colegiado. O acórdão recebeu a seguinte ementa:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. DEBATE ACERCA DE MATÉRIA PROCESSUAL. PRAZO RECURSAL. TERMO A QUO. INTIMAÇÃO PELO DIÁRIO DA JUSTIÇA ELETRÔNICO OU INTIMAÇÃO ELETRÔNICA. NÃO APLICAÇÃO DA SÚMULA 315 DO STJ. 1. Havendo o juízo de valor acerca da questão controvertida  que pode versar tanto sobre tema de direito material quanto de direito processual  , deve ser afastada a Súmula 315 do STJ.
+2. A configuração da divergência jurisprudencial é evidente, uma vez que, enquanto o acórdão embargado entendeu que a publicação da decisão no Diário de Justiça eletrônico, prevalece sobre a intimação eletrônica para fins de contagem do prazo recursal, o aresto paradigma adotou posicionamento diametralmente oposto.
+3. Sem embargo da existência de precedente da Corte Especial no mesmo sentido do acórdão embargado, é certo que, naquela oportunidade, a matéria não foi analisada sob o enfoque do novo CPC, que trouxe mandamentos específicos sobre o tema, quais sejam o art.
+272 e o art. 246, § 1º, abrindo-se a oportunidade para que esta Corte Superior pacifique o tema sob o prisma dessa evolução legislativa.
+4. Agravo interno provido admitir os embargos de divergência.
+(AgInt nos EDv nos EAREsp 1.342.507/RJ, RelatorMinistro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 25/9/2019, DJe 27/9/2019.)
+Nesse contexto, a parte ora recorrente juntou cópia do acórdão paradigma, bem comorealizou o necessário cotejo analítico entre as decisões.
+Vale registrar, ainda, que não é hipótese de aplicação da Súmula n. 315/STJ, pois, no julgamento do agravo interno pela Terceira Turma, foi apreciada a questão que é objeto do méritodestesembargos de divergência (conflito entre as datas da intimaçãoeletrônica e da comunicação realizada pelo DJe).
+Desse modo,entendendoque, em princípio, foram observados os requisitos do art. 266,caput, § 4º, do RISTJ, ADMITO os embargos de divergência.
+Dê-se vista à parteembargadapara impugnação, no prazo de 15 (quinze) dias (art. 267 do RISTJ).
+Após, ao Ministério Público Federal (art. 266, § 4º, do RISTJ).
+Publique-se e intimem-se.
