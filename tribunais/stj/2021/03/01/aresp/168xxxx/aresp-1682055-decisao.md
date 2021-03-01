@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO FIBRA S.A. contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal. O apelo nobre insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Agravo de Instrumento- Execução de título extrajudicial - Ausência de localização de bens para satisfação da execução - Requerimento pelo exequente de expedição de ofício ao Conselho de Controle de Atividades Financeiras(COAF), a fim de obter informações a respeito dasmovimentações financeiras realizadas pelos executadosImpossibilidade - Órgão criado pela lei 9613/98 que visacombater o crime de lavagem de dinheiro Inexistência de notícia de eventual prática criminosa perpetrada pelosexecutados, não bastando a alegação de que a consulta a talórgão poderia auxiliar na busca de bens em nome dosdevedores para satisfazer a execução - Decisão mantidaRecurso improvido" (1.109 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 535-541e-STJ).
+No especial, a recorrente alega violação dos arts. 1.022 do Código de Processo Civil de 2015 e 1º e 14 da Lei nº 9.613/1998. Sustenta, em síntese, negativa de prestação jurisdicional e que deve ser deferido o pedido para expedição de ofício ao Conselho de Controle de Atividades Financeiras COAF, a fim de obter informações a respeito das movimentações financeiras realizadas pelos executados, ora recorridos.
+Afirma que aLei nº 9.613/1998não trata apenas sobre o combate ao crime de lavagem de dinheiro, mas também sobre a ocultação de bens direitos e de valores.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+De início, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao tema de fundo a Corte local concluiu o seguinte:
+"O Conselho de Controle de AtividadesFinanceiras COAF, órgão do Ministério da Fazenda, foi criado pela Lei 9613/98, que dispõe sobre os crimes de "lavagem"ou ocultação de bens, direitos e valores e a prevenção da utilização do sistemainanceiro para os ilícitos previstos nesta Lei. Trata-se de órgão que tem atribuições para identificar as ocorrências suspeitas de atividades ilícitas previstas em lei.
+No presente caso, porém, em que pese o valor perseguido pelo agravante e as tentativas infrutíferas de localizar bens passíveis de constrição para satisfação da execução, não se tem notíciade eventual prática criminosa perpetrada pelos executados, de modo que faltam elementos para reconhecer a utilidade da medida. A necessidadeda providência não pode ser configurada somente pela inexistência de ativos financeiros" (fl. 505 e-STJ - grifou-se).
+De fato, o art. 1º daLei nº 9.613/1998 é claro ao dispor que "ocultar ou dissimular a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de infração penal".
+Contudo, da leitura das razões do especial, verifica-se que o fundamento do acórdão recorrido acima em destaque não foi rebatido. No caso, a recorrente, de maneira genérica, afirma que "a principal razão para o Tribunal de origem rejeitar o pedido de expedição de oficio ao COAF, seria a finalidade da Lei Federal nº 9.613/98 para unicamente dispor sobre os crimes de lavagem de dinheiro" (fl. 524 e-STJ), o que configura a deficiência na fundamentação a atrair a incidência das Súmulasnºs 283 e 284/STF.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), tendo em vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
