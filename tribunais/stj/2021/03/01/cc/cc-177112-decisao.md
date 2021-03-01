@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, em que é suscitante ARANTES ALIMENTOSLTDA. - EM RECUPERAÇÃO JUDICIAL, tendo como suscitados o JUÍZO DE DIREITO DA 8ª VARA CÍVEL DE SÃO JOSÉ DO RIO PRETO/SP e o JUÍZO DA 30ª VARA DO TRABALHO DE BELO HORIZONTE/MG.
+Alega a suscitante que, em 9/3/2009, pleiteou os benefícios da recuperação judicial, nos termos da Lei nº 11.101/2005, cujo processamento foi deferido pelo primeiro suscitado. Como efeito natural de tal pleito, foi ordenada a suspensão das ações e execuções contra a requerente pelo prazo legal de 180 (cento e oitenta) dias.
+Sustenta na Reclamação Trabalhista nº 0001799-53.2011.5.03.0109, reclamante aora interessada, foi determinado o bloqueio de ativos financeiros da empresa recuperanda.
+Narra a suscitante que entendeu o Juízo do Trabalho como sendo competente para dar continuidade à execução das referidas verbas trabalhistas.
+Defende que somente o Juízo recuperacional detém competência para decidir sobre a execução de bens, justificando a concessão de liminar de suspensão dos atos executórios determinados pelo juiz do trabalho e, ao final, a procedência do conflito suscitado, declarando-se competente o juiz da recuperação para decidir sobre o destino dos bens.
+A liminar foi deferida(fls. 288/291 e-STJ).
+Os Juízos suscitados apresentaram as suas informações (fls. 295/310 e-STJ).
+Em seu parecer, o Ministério Público Federal opinou pelo não conhecimentodo conflito de competência (fls. 315/318 e-STJ).
+É o relatório.
+DECIDO.
+O conflito não merece conhecimento.
+Inicialmente, cumpre transcrever o entendimento exposto em parecer elaboradopelo Parquet federal:
+"6. Conforme as informações prestadas pelo Juízo Laboral foi determinada a expedição de certidão de habilitação do crédito da reclalmante no Juízo da recuperação judicial, contudo, apresentado o respectivo incidente naquele Juízo subjacente, foi julgado extinto ao argumento de que o Quadro Geral de Credores definitivo já havia sido apresentado e homologado, sendo inviável o prosseguimento de habilitação de nova reserva de crédito, o qual dependeria de ação própria.
+7. Destacou, ainda, o Juízo Laboral, que a referida decisão cível até mesmo esclareceu que a Credora poderia habilitar seu crédito diretamente no âmbito do Juízo Trabalhista que originalmente o reconheceu, transitando em julgado nesses termos. Assim, diante da impossibilidade de habilitação do crédito exequendo no Juízo Cível e após atualizados os cálculos de liquidação, a Executada foi citada a pagá-lo no prazo de 48 horas, sob pena de prosseguimento da execução (fls. 304/305).
+8. Por sua vez, o Juízo de Direito da 8ª Vara Cível de São José do Rio Preto informou que decretou o encerramento da recuperação judicial do Grupo Arantes, conforme sentença datada de 03/07/2019" (fl.317 e-STJ).
+Na hipótese dos autos, não há falar em conflito, tendo em vista que a recuperação judicial foi encerrada, o que impossibilitou a habilitação do crédito trabalhista.
+Dispõe o artigo 115 do Código de Processo Civil:
+"Art. 115. Há conflito de competência:
+I - quando dois ou mais juízes se declaram competentes;
+II - quando dois ou mais juízes se consideram incompetentes;
+III - quando entre dois ou mais juízes surge controvérsia acercadareunião ou separação de processos".
+Ademais, na linha da jurisprudência desta Corte, somente se instauraoconflito de competência quando dois Juízos se declarem competentesouincompetentes para processamento e julgamento de uma mesma demandaouquando, por regra de conexão, houver controvérsia entre eles acercadareunião ou separação dos processos.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO INTERNO NO CONFLITO DECOMPETÊNCIA. AÇÃODEINDENIZAÇÃO PROVENIENTE DE ACIDENTE DE TRABALHO. DECISÃO DO TRIBUNALDEJUSTIÇA DO ESTADO DE SÃO PAULO DECLINANDO DA COMPETÊNCIA.JUÍZOTRABALHISTA AO QUAL SE REMETEU OS AUTOS DA DEMANDA INDENIZATÓRIAQUEACEITOU A COMPETÊNCIA. AUSÊNCIA DE DECISÕES CONFLITANTES. UTILIZAÇÃODOINCIDENTE COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE, AINDA QUE SE TRATEDEMATÉRIA DE ORDEM PÚBLICA. CONFLITO NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. Nos termos do art. 66 do CPC/2015 (equivalente ao art. 115doCPC/1973), o conflito de competência se configura quando dois oumaisjuízes declaram-se competentes ou consideram-se incompetentes paraoprocessamento e julgamento de uma mesma matéria ou quandoexistircontrovérsia acerca da reunião ou separação de processos entreduas oumais autoridades judiciárias.
+2. O presente caso, contudo, não se amolda às hipóteses previstasnoreferido dispositivo, não merecendo, assim, conhecimento o conflito,aindaque verse sobre matéria de ordem pública, visto que não há nosautosdecisões conflitantes entre os juízos suscitados, pois o TribunaldeJustiça do Estado de São Paulo declinou da competência para o
+julgamentode ação indenizatória decorrente de acidente de trabalho, aopasso que aJustiça do Trabalho julgou aquela demanda em todas asinstâncias,aceitando, assim, a competência.
+3. Ademais, enfatiza-se que o conflito de competência não se prestaaatuar como sucedâneo recursal, como pretende arecorrente.
+4. Agravo interno desprovido."
+(AgInt no AgInt no CC 153.583/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE,SEGUNDA SEÇÃO, julgado em 29/10/2019, DJe 05/11/2019).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO CONFLITO POSITIVO DECOMPETÊNCIA.ART. 115 DO CPC. PRESSUPOSTOS. NÃO CONFIGURAÇÃO. PRÁTICA DEATORECONHECENDO A COMPETÊNCIA EM CONFLITO COM OUTRO ÓRGÃO JURISDICIONAL.NÃOOCORRÊNCIA. CONFLITO NÃO CONHECIDO. DECISÃO MANTIDA.
+1. "O conflito positivo de competência (art. 115, I, doCPC)caracteriza-se na hipótese em que, mesmo sem nenhum dos juízoster-sedeclarado competente para processar e julgar a causa em cursoperanteoutro, há a prática de atos que denotem implicitamente oreconhecimento dacompetência em paralelo com órgão judicial diverso" (AgRg no CC119.125/RN, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDASEÇÃO, julgadoem 28/08/2013, DJe 02/09/2013).
+2. Na presente hipótese, um dos juízos envolvidos no conflito, por meiodeseu órgão de 2ª instância (TJMT), sobrestou decisão queimplicitamentereconhecia sua competência para dispor acerca de bens
+supostamentesujeitos à recuperação, em trâmite na 1ª Vara de Falências eRecuperaçãoJudicial do Foro Central de Curitiba - PR.Nesses termos, nãohavendo mais atos que denotem o reconhecimento decompetência em conflitocom outro órgão jurisdicional, constata-se que opresente incidente perdeuo objeto, não podendo, pois, ser conhecido.
+3. Agravo regimental a que se nega provimento."
+(AgRg no CC 140.740/PR, Rel. Ministro ANTONIO CARLOS FERREIRA,SEGUNDASEÇÃO, julgado em 24/08/2016, DJe 29/08/2016).
+"PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS NO CONFLITO DE COMPETÊNCIA.AÇÃOCAUTELAR FISCAL E EXECUÇÕES FISCAIS. ART. 115 DO CPC. PRESSUPOSTOSDOCONFLITO. NÃO-CONFIGURAÇÃO. EXECUÇÕES FISCAIS EM TRÂMITE PERANTEDIVERSOSJUÍZOS. INEXISTÊNCIA DE DECLARAÇÃO OU PRÁTICA DE ATOS, PORQUALQUER DOSJUÍZOS SUSCITADOS, RECONHECENDO A COMPETÊNCIA PARA O MESMOPROCESSO.
+1. Para caracterizar-se o conflito de competência, é indispensávelamanifestação expressa de dois ou mais juízos que se consideremcompetentesou incompetentes para processar e julgar a "mesma demanda"(CorteEspecial, Rel. Min. Castro Meira, DJe de 14.10.2011). Com efeito,para aconfiguração de conflito, positivo ou negativo, é necessário queduas oumais autoridades judiciárias, de esferas diversas, declarem-secompetentesou incompetentes para apreciar e julgar o"mesmo feito", ouque incida aprática de atos processuais "na mesma causa", por mais de umjuiz(2ªSeção, AgRg no CC 120.584/GO Rel. Min. Massami Uyeda, DJede1º.8.2012).
+2. Quando não configurados os pressupostos do conflito de competência,talincidente processual pode ser decidido monocraticamente, a teor doquedispõem os arts. 34, XVIII, do RISTJ, 38, da Lei 8.038/90, e 120,parágrafoúnico, do CPC.
+3. No caso, não se está diante de um conflito positivo de competência,pois, além de cada juízo suscitado encontrar-se atuando em suaprópriaesfera de jurisdição, sem, portanto, praticar atos processuais na"mesmacausa", não se constata, principalmente, que tais atos sejamexcludentesentre si.
+4. O conflito de competência não pode ser utilizado comosucedâneorecursal, bem como não se presta a resolver questões que devemserdirimidas nas instâncias ordinárias.
+5. Agravos regimentais não providos".
+(AgRg no CC 121.226/DF, Rel. Ministro MAURO CAMPBELL MARQUES,PRIMEIRASEÇÃO, julgado em 13/3/2013, DJe 2/4/2013).
+Ante o exposto, revogo a liminar anteriormente deferida (fls. 288/291 e-STJ) e nãoconheçodoconflito de competência.
+Publique-se.
+Intimem-se.
+Comunique-se.
