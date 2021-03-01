@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJPR, o qual recebeu a seguinte ementa (e-STJ fls. 215/216):
+DIREITO CIVIL E PROCESSUAL CIVIL. NOMINADA "AÇÃO DECLARATÓRIA DE PRESCRIÇÃO DE COBRANÇA".COMPROMISSO DE COMPRA E VENDA DE IMÓVEL.INADIMPLEMENTO ADMITIDO. AUTORA QUE PRETENDE OBSTAR FUTURA COBRANÇA DE VALORES, TER DECLARADA JUDICIALMENTE A QUITAÇÃO DA DÍVIDA E DETERMINADA A TRANSFERÊNCIA DA PROPRIEDADE DO IMÓVEL PARA SEU PATRIMÔNIO. SENTENÇA PELA IMPROCEDÊNCIA DOS PEDIDOS, SOB O FUNDAMENTO DE ESTAR INTERROMPIDA A PRESCRIÇÃO PELA HABILITAÇÃO EM AÇÃO CIVIL PÚBLICA DE CARÁTER REVISIONAL - MESMO CONTRATO - ATO INEQUÍVOCO QUE IMPORTA RECONHECIMENTO DO DIREITO PELO DEVEDOR - INCISO VI DO ARTIGO 202 DO CÓDIGO CIVIL - LAPSO TEMPORAL QUE SE REINICIARÁ COM O TRÂNSITO EM JULGADO DA DECISÃO A SER PROFERIDA NAQUELA DEMANDA - INTELIGÊNCIA DO PARÁGRAFO ÚNICO DO ARTIGO 202 DO CÓDIGO CIVIL. DECISÕES ANTERIORES DO SUPERIOR TRIBUNAL DE JUSTIÇA QUE REFORÇAM ESSE ENTENDIMENTO. RECURSO DE APELAÇÃO CÍVEL CONHECIDO E NÃO PROVIDO.
+1. O instituto da prescrição tutela a legítima expectativa gerada pela inação de urna das partes por lapso temporal considerável e regulamentado legalmente.
+2. Todavia, quando o promitente vendedor aguarda, como no presente caso, o acertamento judicial de sua posição de credor, a contagem do prazo prescricional vai de encontro ao próprio escopo do instituto jurídico.
+3. Assim, na hipótese destes autos, em que a autora se habilitou em ação civil pública onde se questionam os parâmetros ajustados para os encargos incidentes no contrato de compromisso de compra e venda por ela firmado, não há inércia tampouco desídia do credor que justifique a extinção da pretensão por transcurso de prazo prescricional. Ao contrário. Há manifesto conhecimento por parte do devedor acerca do interesse do credor em receber aquilo que lhe era devido.
+4. O prazo para cobrança defendido pela autora foi, então, interrompido e somente voltará a ter fluxo com o trânsito em julgado da sentença a ser proferida na demanda de caráter revisional.
+Nas razões do recurso (e-STJ fls. 242/247), fundamentado no art. 105, III, "a" e "c", da CF, arecorrente alegou ofensa ao art. 206, § 5º, I, do CC/2002, sustentando, em síntese, que a ação de resolução contratual não seria apta para interromper o prazo prescricional para a cobrança das parcelas inadimplidas.
+Foramapresentadas contrarrazões (e-STJ fls. 251/266).
+É o relatório.
+Decido.
+A insurgência quanto à interrupçãodo prazo prescricional não pode ser sustentada apenas com base no art. 206, § 5º, I, do CC/2002, o qual não regula a matéria. O Tribunal aplicou ao caso o art. 202 do CC/2002. Incidente, portanto, a Súmula n. 284/STF por deficiência na fundamentação recursal.
+Além do mais, extraem-se as seguintes razões de decidir do aresto impugnado(e-STJ fls. 235/236):
+Segundo certidão solicitada por este Relator no dia 6/7/2016 via sistema mensageiro, verifica-se que a ação civil pública foi distribuída em 22/11/2002, que a ré foi citada em 5/2/2003 e que a autora se habilitou naquele processo no ano de 2004 - datas anteriores ao vencimento da última prestação e, portanto, ao decurso do lapso prescricional.
+(..)
+A jurisprudência acima citada, com embasamento no parágrafo do artigo 202 do Código Civil, assenta-se no sentido de que, em casos como este, o prazo prescricional interrompido reinicia-se após o trânsito em julgado da ação ajuizada para discussão do débito.
+(..)
+Aqui, independentemente da data (dentre as acima mencionadas) que se adote como termo interruptivo da prescrição, como ainda não foi proferida sentença na ação civil pública, não há que se falar em reinicio do prazo prescricional e muito menos em prescrição de eventual pretensão de cobrança do credor (promitente vendedor).
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, o Tribunal de origem reconheceu a interrupção da prescrição pela habilitação nos autos deação civil pública em que se discuteos parâmetros ajustados para os encargos incidentes no contrato de compromisso de compra e venda
+Portanto, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, o óbice da Súmula n. 284/STF.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
