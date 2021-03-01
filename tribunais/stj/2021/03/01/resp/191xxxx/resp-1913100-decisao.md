@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial interposto com fundamento no art. 105, III, "a", da Constituição da República contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - Execução fiscal - IPTU - Exercício de 2.008 - Exceção prévia de executividade acolhida em parte - Inocorrência de prescrição - CTN, art. 174 - Execução ajuizada antes de superado o lustro prescricional - Precedentes do STJ - Decisão mantida - Recurso desprovido.
+A recorrente alega que está consumado o prazo prescricional, pois a demanda foi ajuizada em 2012, tendo por objeto crédito tributário cujo fato gerador ocorreu em 2008, sendo que não foi proferido despacho de citação nos cinco anos posteriores à data do ajuizamento por força da inércia da exequente.
+Não há contrarrazões.
+É o relatório.
+Decido.
+Recebi os autos no Gabinete em 18 de janeiro de 2021.
+O recurso não ultrapassa o juízo de admissibilidade.
+Com efeito, a recorrente não especificou o dispositivo de lei federal que considera infringido. A petição recursal se limita a descrever os fatos ocorridos nos autos, fazendo referência constante ao art. 25 da Lei 6.830/1980 (dispositivo não prequestionado no acórdão hostilizado), mas não desenvolve argumentação vinculando o conteúdo do acórdão à tese de infringência à referida norma. Aplicação da Súmula 284/STF:
+PROCESSUAL CIVIL. ARTS. 113 E 267 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. PRESCRIÇÃO. ALEGAÇÃO GENÉRICA. INEXISTÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS. SÚMULA N. 284 DO STF. ART. 102 DA CF/88. VIOLAÇÃO PELO TRIBUNAL DE ORIGEM. INVIABILIDADE, EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. NÃO COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. RESPEITO À COISA JULGADA: REGRA NO ORDENAMENTO JURÍDICO BRASILEIRO. HIPÓTESE EXCEPCIONAL DE DESCONSTITUIÇÃO DA COISA JULGADA: INCONSTITUCIONALIDADE DECLARADA PELO SUPREMO TRIBUNAL FEDERAL. MEIOS TÍPICOS DE DESCONSTITUIÇÃO: IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA (ART. 475-L, § 1º, CPC), EMBARGOS À EXECUÇÃO CONTRA A FAZENDA PÚBLICA (ART. 741, PARÁGRAFO ÚNICO, CPC) E AÇÃO RESCISÓRIA. MEIO ATÍPICO: QUERELA NULLITATIS INSANABILIS. POSSIBILIDADE. REGIME JURÍDICO, HIPÓTESES E LIMITES: NECESSIDADE DE FIXAÇÃO JURISPRUDENCIAL. APLICAÇÃO POR ANALOGIA DO REGIME DOS ARTS. 475-L, §1º, E 741, PARÁGRAFO ÚNICO, DO CPC. DECISÃO TRANSITADA EM JULGADO ANTES DO PRONUNCIAMENTO DO SUPREMO TRIBUNAL FEDERAL: NÃO CABIMENTO DA IMPUGNAÇÃO, DOS EMBARGOS À EXECUÇÃO NEM, PORTANTO, DA QUERELA. NECESSIDADE DE DECLARAÇÃO DE INCONSTITUCIONALIDADE PELO SUPREMO TRIBUNAL FEDERAL. NORMA EIVADA DE INCOMPATIBILIDADE ANTERIOR À CF/88. OCORRÊNCIA DO FENÔMENO DA NÃO-RECEPÇÃO (REVOGAÇÃO). INEXISTÊNCIA DE INCONSTITUCIONALIDADE SUPERVENIENTE. VIOLAÇÃO DOS ARTS. 467, 468, 471 E 741 DO CPC CONFIGURADA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO DO CONHECIMENTO, PROVIDO.
+(..)
+2. Quanto à alegada prescrição, a admissibilidade do recurso especial exige a clara indicação dos dispositivos supostamente violados, bem como em que medida teria o acórdão recorrido afrontado cada um dos artigos atacados ou a eles dado interpretação divergente da adotada por outro tribunal, o que não se divisa na espécie. A deficiência na fundamentação do recurso, inviabilizando a exata compreensão da controvérsia, atrai, portanto, a Súmula n. 284 do STF.
+3. O STJ possui entendimento no sentido de que não lhe cabe, na via especial, a análise de violação de dispositivos constitucionais, ainda que com o objetivo de prequestionamento visando à interposição do apelo extraordinário, sob pena de haver usurpação de competência do Supremo Tribunal Federal.
+(..)
+10. Recurso especial parcialmente conhecido e, na extensão do conhecimento, provido.
+(REsp 1.353.324/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/12/2015).
+Não bastasse isso, a recorrente busca afastar a premissa fática estabelecida no acórdão hostilizado, segundo aqual deve ser afastada a prescrição porque a exequente exerceu o direito de ação dentro do prazo de prescrição, sendo que a citação da parte devedora (ou sua ausência) dependeu "apenas dos procedimentos inerentes ao mecanismo da Justiça" (fl. 292, e-STJ).
+O argumento de que a exequente veio aos autos em 2014 e somente nesta data (e não no próprio ajuizamento da Execução Fiscal) pediu a citação e indicou o endereço para a diligência, além de narrar fatos que destoam frontalmente da premissa estabelecida no acórdão recorrido, não foi analisado no acórdão hostilizado, tampouco cuidou a recorrente de indicar possível infringência ao art. 1.022 do CPC.
+Dessa forma, a reforma do acórdão da Corte local encontra óbice nas Súmulas 7 e 211 do STJ.
+Por todo o exposto, não conheço do Recurso Especial.
+Deixode aplicar o art. 85, § 11, do CPC/2015, pois não houve arbitramento de honorários advocatícios nas instâncias de origem.
+Publique-se.
+Intimem-se.
