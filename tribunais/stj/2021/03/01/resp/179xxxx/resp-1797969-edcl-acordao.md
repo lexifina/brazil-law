@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EMRECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS E A DISPOSITIVOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - São cabíveis Embargos Declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada.
+II - Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+III - Não há como ser apreciada questão de mérito quando o recurso não preencheu os pressupostos de admissibilidade por não haver impugnado, de maneira clara e específica, os fundamentos da decisão que visava reformar.
+IV - Não compete a este eg. Superior Tribunal se manifestar sobre violação a princípios ou a dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Pretório STF. (Precedente).
+V - Na hipótese em exame, verifica-se que, a conta de supostas omissões, o que pretende o embargante é a rediscussão da matéria, situação que não se coaduna com a estreita via dos aclaratórios.
+Embargos de Declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO FELIX FISCHER: Trata-se de Embargos de Declaração opostos por ENIVALDO QUADRADO, em face do v. acórdão proferido por esta e. Quinta Turma, que negou provimento ao Agravo Regimental interposto pelo ora embargante, em acórdão ementado nos seguintes termos (fls. 15.035):
+"DIREITO PENAL. PROCESSO PENAL. LAVAGEM DE DINHEIRO. LEI 9.613/1998. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. ARTIGO 932, INCISO III, DO CPC. AGRAVO REGIMENTAL DESPROVIDO.
+I - O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos.
+II - O art. 932, inciso III, do Código de Processo Civil e os arts. 34, inciso XVIII, "a" e 253, parágrafo único, inciso I, do Regimento Interno desta eg. Corte Superior permitem ao relator não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida.
+III - In casu, o agravante, ao que se observa, muito embora tenha colacionado os motivos de sua irresignação, deixou de infirmar, de maneira adequada e suficiente, o porquê de serem incabíveis à espécie os óbices sumulares 7/STJ e 284/STF, indicados na decisão que, na Corte de Origem, negou seguimento ao Recurso Especial, o que impede o conhecimento do respectivo agravo.
+Agravo regimental desprovido."
+Nas razões dos Aclaratórios, o embargante aponta vício de omissão no acórdão ora combatido, o que configura negativa de prestação jurisdicional e violação ao artigo 5º, incisos XXXV, LIV e LV, da Constituição Federal, ao argumento de que i) não houve manifestação quanto à tese de que os crimes antecedentes não geraram produto passível de ser objeto do crime de lavagem de dinheiro, bem como ii) não houve análise do pleito de redimensionamento da pena, tendo em vista a participação de menor importância, a ausência de fundamentação idônea para a exasperação da pena-base e o reconhecimento da confissão espontânea.
+Requer, ao final, o acolhimento do incidente aclaratório a fim de que sejam sanados os vícios apontados e, de conseguinte, reformado o acórdão embargado.
+O Ministério Público Federal opinou pela rejeição da insurgência (fls. 15.233/15.262).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS E A DISPOSITIVOS DE EXTRAÇÃO CONSTITUCIONAL. VIA INADEQUADA, AINDA QUE PARA FINS DE PREQUESTIONAMENTO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - São cabíveis Embargos Declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada.
+II - Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+III - Não há como ser apreciada questão de mérito quando o recurso não preencheu os pressupostos de admissibilidade por não haver impugnado, de maneira clara e específica, os fundamentos da decisão que visava reformar.
+IV - Não compete a este eg. Superior Tribunal se manifestar sobre violação a princípios ou a dispositivos de extração constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência do Pretório STF. (Precedente).
+V - Na hipótese em exame, verifica-se que, a conta de supostas omissões, o que pretende o embargante é a rediscussão da matéria, situação que não se coaduna com a estreita via dos aclaratórios.
+Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO FELIX FISCHER: Presentes os requisitos de admissibilidade, conheço dos Embargos.
+Destaque-se, ab initio, conforme pacífica jurisprudência desta eg. Corte, que são cabíveis Embargos Declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+No caso em exame, embora o embargante tenha apontado diversos fundamentos, os quais, em seu entender, configuram omissões no julgado, não vislumbro, na hipótese, a existência de eventual mácula, mas sim a pretensão de rediscussão da matéria já decidida por esta Corte, o que é inviável em sede de Embargos de Declaração.
+Saliento que, na hipótese, não há qualquer omissão existente no acórdão que desproveu o Agravo Regimental, tendo a col. Quinta Turma se manifestado de forma cristalina acerca do não conhecimento do Agravo em Recurso Especial, já que não foram impugnados todos os fundamentos empregados pelo Tribunal de origem para inadmitir o Apelo Nobre (Súmulas 7/STJ e 284/STF). Assim, não há como ser apreciada questão de mérito quando o recurso não preencheu os pressupostos de admissibilidade por não haver impugnado, de maneira clara e específica, os fundamentos da decisão que visava reformar.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. PRESCRIÇÃO. INADMISSÃO DO ARESP MANTIDA. TRÂNSITO EM JULGADO QUE RETROAGE AO FIM DO PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL CABÍVEL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. 1. Se o recurso especial foi inadmitido porquanto não superados os óbices processuais específicos dos recursos extraordinários e o consequente agravo não impugna todos os fundamentos da decisão de inadmissão, atraindo, por consequência, o óbice da s. 182/STJ, não há que se falar em omissão desta Corte na análise do mérito recursal, na medida em que não transposta a barreira da admissibilidade.  ..  3. Embargos de declaração rejeitados." (EDcl no AgInt no AREsp 732.589/RO, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 26/03/2018).
+Por fim, cumpre destacar que não cabe a este eg. Superior Tribunal de Justiça se pronunciar acerca de afronta a dispositivos ou a princípios de extração constitucional, em sede de Recurso Especial ou de seus consectários, sob pena de usurpar a competência do Excelso Supremo Tribunal Federal.
+Com efeito: "Não cabe a esta Corte manifestar-se, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal." (EDcl no AgRg no AREsp n. 407.885/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 6/10/2014).
+Ante o exposto, rejeito os Embargos de Declaração.
+É o voto.
