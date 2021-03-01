@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO DO BRASIL S.A. contra decisão proferida pela Terceira Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul que, relativamente ao recurso especial apresentado: i) negou-lhe seguimento quanto às questões da legitimidade ativa, eficácia territorial da sentença coletiva e necessidade de prévia liquidação da sentença, com base na conformidade do acórdão recorrido com as teses firmadas nos julgamentos dos recursos repetitivos REsps 1.391.198/RS (Temas 723 e 724) e 1.370.899/SP e 1.247.150/PR (Tema 482); e ii) inadmitiu-o no tocante ao termo inicial dos juros moratórios, com base na falta de prequestionamento, óbice das Súmulas 282 e 356 do STF (e-STJ, fls. 234-245).
+Nas razões do presente agravo (e-STJ, fls. 250-268), a parte agravante se insurge contra a negativa de seguimento do recurso especial em recurso denominado de agravo interno e dirigido ao Tribunal de origem.
+Contraminuta apresentada às fls. 284-294 (e-STJ).
+É o relatório. Decido.
+Como visto, trata-se de agravo interno dirigido ao Tribunal de origem e interposto contra a denegação de seguimento do recurso especial fundamentada em recurso repetitivo e publicada em 6/3/2020 (e-STJ, fl. 246), após a vigência do CPC/2015 (18/3/2016).
+Cumpre destacar que a parte recorrente aparentemente se utilizou do recurso cabível e o endereçou ao órgão jurisdicional competente, nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015 (v.g. AREsp 959.991/RS, Rel. Ministro Marco AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/8/2016, DJe 26/8/2016; AgInt no AREsp 1.053.970/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/4/2017, DJe 12/5/2017; e AgInt no AREsp 982.074/PR, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 25/10/2016, DJe 17/11/2016).
+Entretanto, observa-se que a petição recursal foi erroneamente cadastrada naquele Tribunal como agravo em recurso especial (e-STJ, fls. 248-249) e, por isso, os autos remetidos à esta instância.
+Diante do exposto, não conheço do agravoe determino o retorno dos autos ao Tribunal de origem para a sua apreciação como agravo interno.
+Publique-se.
