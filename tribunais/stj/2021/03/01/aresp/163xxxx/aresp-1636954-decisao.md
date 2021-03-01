@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela CONSTRUTOTA VERSÁTICA LTDA., contra decisão que inadmitiu recurso especial fundamentado no artigo 105,inciso III, alínea"a", da Constituição Federal. O apelo nobre insurge-se contra acórdão do Tribunal de Justiça do Estado do Espírito Santoassim ementado:
+"APELAÇÃO CÍVEL. POSSESSÓRIA. VAGA DE GARAGEM EM CONDOMÍNIO. AUSÊNCIA DE CONVENÇÃO CONDOMINIAL. 1.PRELIMINAR DE NULIDADE DE SENTENÇA EXTRA PETITA. REJEITADA. 2. PRELIMINARDE NULIDADE DE SENTENÇA CONDICIONAL. REJEITADA.3.PRELIMINAR DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FORMAÇÃO DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. REJEITADA. 4. PRELIMINAR DE NULIDADEDE SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. REJEITADA. 5. OBJETO. RECONHECIMENTODE POSSEDO PROPRIETÁRIO/CONDÓMINO ATÉ REALIZAÇÃO DE CONVENÇÃO DO CONDOMÍNIO PARA ESSA FINALIDADE. HONORÁRIOS ADVOCATÍCIOS. OBSERVÂNCIA DOS CRITÉRIOS LEGAIS. INCIDÊNCIA DE HONORÁRIOS RECURSAIS. MAJORAÇÃO PERCENTUAL FIXADO NAORIGEM. RECURSO CONHECIDO E DESPROVIDO" (fl. 320 e-STJ).
+No especial, a recorrente alega violação dos arts. 86, 114, 115, 141 e 492 do Código de Processo Civil. Sustenta, em síntese: i) a existência de julgamento extra petita e condicional, ao argumento de que a sentença impôs o restabelecimento das vagas de garagem até a realização de convenção condominial; ii) que terceiros não integrantes na lide serão afetados com cumprimento do julgado e iii) a necessidade de inversão do ônus da sucumbência ou a sua redução.
+Contrarrazões às fls. 406-417(e-STJ) e não admitido o recurso na origem,
+adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao
+exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado navigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão recursal não merece prosperar.
+Isso porque, no que diz respeito às alegações de julgamento extra petita, de sentença condicional e de ausência de formação de litisconsórcio passivo necessário, a Corte local consignou o seguinte:
+"(..)
+No caso concreto, o autor/apelado busca a manutenção de posse nas vagas de garagem do subsolo e a marcação definitiva dessas vagas vinculadas ao seu imóvel, obtendo pela sentença o comando possessório, mas não a marcação definitiva.
+O julgador de origem entendeu, da análise que fez do conjunto probatório, que o autor comprovou a posse sobre as garagens do subsolo e o esbulho praticado pela ré, construtora, que procedeu à mudança da localização das vagas, todavia, compreendeu, pela análise da normatização regente, que a marcação definitiva das vagas demandaria convenção condominial exclusiva para esse fim, o que inexiste no caso concreto.
+Nesse contexto, ao contrário do que defende a ré/apelante, asentença não decidiu fora dos limites pleiteados, tratando daquestão possessória suscitada nos moldes em que proposta.
+(..)
+No caso, a sentença objurgada foi proferida de forma certa eprecisa, pondo fim ao litígio, sem qualquer dúvida, acolhendo o pedido possessório, mas rejeitando a pretensão de marcação definitiva das vagas de garagem, por demandar convenção condominial, inexistente no caso concreto.
+Assim, não há que se falar em nulidade da sentença, que nãofoi proferida de forma condicional.
+(..)
+No caso, caso fosse acolhida a pretensão de marcação definitiva das vagas, vislumbrar-se-ia a nulidade da sentença proferida sem a integração do contraditóriodos demais condôminos (art. 115,I, CPC/2015).
+Todavia, esse pedido foi rejeitado e o autor não interpôs recurso. Em relação ao proprietário da cobertura 01, observa-se que fato apontado como esbulho foi atribuído à construtora/ré,quando ainda era proprietária da referida cobertura, tanto que, em contestação, a própria ré/apelante consignou que (fls.57/58):
+As vagas que estavam sendo indevidamente ocupadaspelo autor são destinadas à unidade de cobertura 01, de propriedade da construtora requerida. E ao contrário do que alega o autor, o que ocorreu foi que a empresa ré, perplexa ao chegar ao local e verificar que as vagas relativas à sua unidade haviam sido indevidamente remarcadas como se fossem de propriedade da unidade de n. 503, tratou de corrigir a indevida identificação. Tal fato se deu em 29 de abril de 2012, momento em que a construtora imediatamente, agindo no exercício de seu direito de posse e propriedade, retornou a marcação das vagas à sua origem, de modo a não permitir o uso indevido ou apossamento de suas vagas pelo autor. Assim, ao contrário do alegado pelo autor, foi ele mesmo - o autor - que alterou a marcação das vagas de garagens sem qualquer autorização da proprietária da cobertura 01, ora requerida.
+Registra-se que essa questão foi tratada pela primeira vez em sede de apelação, protocolizada em 24/10/2016, quando aré/apelante juntou um contrato particular de promessa decompra e venda datado de 27/04/2012 (fls. 241/245) e a sua declaração de informações sobre atividades imobiliárias, relativa ao ano -calendário 2012, na qual inseriu essa negociação (fl. 247), muito embora a ação tivesse sido ajuizada em 13/07/2012. Observa-se que, em suas alegações finais, protocolizadas em 03/02/2016, a ré/apelante ainda afirmava que "a Ré, no exercício de seu direito de posse e propriedade, retornou a marcação das vagas à sua origem" (f1.183).
+Nesse contexto,não há que sefalar em formação delitisconsórcio passivo necessário do eventual adquirente dareferida unidade habitacional" (fls. 324-328 e-STJ).
+Assim, a reforma doaresto, demanda inegável necessidade de reexame de matériafático-probatória, providência inviável de ser adotada em recursoespecial, haja vista os óbices das Súmulas nºs 5 e 7desta Corte.
+De igual maneira, quanto ao critério de distribuição da sucumbência, a revisão do acórdãorecorrido demandaria a incursão fático-probatória, o que também esbarra noóbice da Súmula nº 7/STJ.
+Nesse sentido:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. TELEFONIA. INDENIZAÇÃO POR DANOSMORAIS. AUSÊNCIA DE COMPROVAÇÃO DE MÁ-FÉ. REEXAME. SÚMULA 7/STJ.SUCUMBÊNCIA RECÍPROCA. EXAME DO GRAU DE DECAIMENTO DE CADA UMA DAS PARTES.REEXAME DE FATOS E DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. NÃOCONHECIMENTO DO RECURSO PELA ALÍNEA "A". ANÁLISE DO DISSÍDIO PRETORIANOPREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Na espécie, o Tribunal de origem afirmou que não houve a demonstraçãoda má-fé da prestadora do serviço, tampouco a configuração do dano moral.Decidir de forma contrária ao que foi expressamente consignado no acórdãorecorrido implicaria o necessário revolvimento do conjuntofático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+2. O STJ tem entendimento pacífico de que a aferição do quantitativo emque autor e réu saíram vencidos na demanda, bem como da existênciade sucumbência mínima ou recíproca, mostra-se inviávelem RecursoEspecial, tendo em vista a circunstância obstativa decorrente do dispostona Súmula 7 desta Corte.
+3. Fica prejudicada a análise da divergência jurisprudencial quando a tesesustentada já foi afastada no exame do Recurso Especial pela alínea "a" dopermissivo constitucional.
+4. Agravo Interno não provido" (AgInt no AREsp 918.616/SP, Rel. MinistroHERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/10/2016, DJe 8/11/2016 -grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (dozepor cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
