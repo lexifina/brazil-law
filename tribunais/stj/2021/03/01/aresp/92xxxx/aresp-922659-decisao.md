@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto por GENISSON FRAGA ANDRADE contra decisão de inadmissibilidade do recurso especial apresentado, com fundamento no art. 105, III, a, da Constituição Federal, em desafio a acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe assim ementado:
+Apelação Cível - Expurgos inflacionários - Plano Verão - Ação civil pública - Sentença coletiva - Título executivo condicionado aos requisitos do artigo 586 do CPC - Necessidade de liquidação da sentença - Aplicabilidade do artigo 475-A do CPC - Impossibilidade de ajuizamento direto do cumprimento de sentença em detrimento de fase de liquidação a fim de apurar o titular do crédito e o quantum debeatur supostamente devido - Precedentes do STJ - Sentença mantida - Recurso conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 468-476).
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts. 475-B e 475-E do CPC/1973, defendendo a desnecessidade de liquidação da sentença coletiva previamente à sua execução, ante a possibilidade daliquidação por simples cálculos aritméticos e o exercício dadefesa do executado por meio de impugnação ao cumprimento ou embargos à execução.
+É o relatório. Decido.
+A Segunda Seção desta Corte, por ocasião do julgamento do EREsp 1.705.018/DF, em 9/12/2020, acórdão pendente de publicação, pacificou o entendimento de que é necessária a fase de liquidação da sentença genérica oriunda de ação civil pública que condena a instituição bancária ao pagamento de expurgos inflacionários em caderneta de poupança, a fim de determinar o sujeito ativo da relação de direito material e o valor da prestação mediante a garantia da ampla defesa e do contraditório pleno à parte executada.
+Conforme essa posição, não é suficiente a impugnação ao cumprimento de sentença para o exercício do contraditório, tendo em vista a limitação à averiguação da legitimidade processual e do excesso de execução.
+  No caso dos autos, o Tribunal de origem confirmou a necessidade da prévia liquidação da sentença coletiva que condenou o banco ao pagamento de expurgos inflacionários em poupança relativos ao Plano Verão (e-STJ, fls. 470-475).
+Desse modo, constatada a conformidade do acórdão recorrido com o entendimento jurisprudencial do STJ, é inviável o provimento do recurso especial, nos termos da Súmula 83/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
