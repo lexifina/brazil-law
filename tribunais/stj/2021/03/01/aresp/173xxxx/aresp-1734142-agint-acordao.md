@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO COMINATÓRIA CUMULADA COM INDENIZATÓRIA. DANOS MORAIS NÃO CONFIGURADOS. REFORMA DA PRETENSÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do aresto recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+RELATÓRIO
+V. Z. promoveu ação cominatória cumulada com indenização por danos morais contra UNIMED DO ESTADO DE SANTA CATARINA FEDERAÇÃO ESTADUAL DAS COOPERATIVAS MÉDICAS (UNIMED), narrando que sofre de paralisia cerebral e necessita de acompanhamento multidisciplinar. Explicou que apresenta quadro de insuficiência respiratória e utiliza ventilação mecânica, além de ostentar atraso em seu desenvolvimento psicomotor. Alegou que existe a necessidade de terapia ocupacional por 2 (duas) vezes na semana, por tempo indeterminado, o que foi indeferido pelo plano de saúde. Requereu, assim, a procedência dos pedidos.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes para determinar que o plano de saúde custeie integralmente as sessões de terapia ocupacional, que foram indicadas a V. Z, sem limitação de número.
+Em virtude da sucumbência recíproca e proporcional, cada parte ficou condenada ao pagamento, na proporção de 50%,das custas processuais e dos honorários advocatícios fixados em 10% sobre o valor da causa, observada a justiça gratuita deferida em favor de V. Z.
+A apelação interposta por V. Z. não foi provida pelo Tribunal de Justiça do Estado de Santa Catarina, nos termos do acórdão assim ementado:
+PROCESSUAL CIVIL E CONSUMIDOR. PLANO DE SAÚDE. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E OBRIGAÇÃO DE FAZER. SENTENÇA DE PARCIAL PROCEDÊNCIA. RECURSO DA AUTORA. COBERTURA DE TERAPIA OCUPACIONAL LIMITADA A 40 (QUARENTA) SESSÕES POR ANO. DANOS MORAIS. DIAGNÓSTICO DE PARALISIA CEREBRAL. NEGATIVA DA UNIMED PARA TRATAMENTO DE TERAPIA OCUPACIONAL COM DUAS SESSÕES POR SEMANA. CONDUTA DA OPERADORA QUE, POR SI SÓ, NÃO CARACTERIZA LESÃO INDENIZÁVEL. INEXISTÊNCIA DE RETARDO SIGNIFICATIVO OU QUALQUER COMPROVAÇÃO DE PREJUÍZO AO TRATAMENTO DA PACIENTE. TUTELA DEFERIDA NA ORIGEM. ABALO PSICOLÓGICO NÃO COMPROVADO. REQUISITOS DO ART. 5o, X, DA CONSTITUIÇÃO FEDERAL E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL NÃO DEMONSTRADOS. DEVER DE INDENIZAR INEXISTENTE. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS EM 10% (DEZ POR CENTO) SOBRE O VALOR DA CAUSA NO PRIMEIRO GRAU PARA 20% (VINTE POR CENTO) SOBRE O VALOR DA CONDENAÇÃO. PORCENTAGEM MANTIDA. OBSERVÂNCIA AOS CRITÉRIOS DO ART. 85, § 2o, DO CPC. FIXAÇÃO DE HONORÁRIOS RECURSAIS. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+"O inadimplemento do contrato, por si só, pode acarretar danos materiais e indenização por perdas e danos, mas, em regra, não dá margem ao dano moral, que pressupõe ofensa anormal à personalidade. Embora a inobservância das cláusulas contratuais por uma das partes possa trazer desconforto ao outro contratante - e normalmente o traz - trata-se, em principio, do desconforto a que todos podem estar sujeitos, pela própria vida em sociedade" (STJ, Resp. n.º 202.654/RJ, Min. Sálvio de Figueiredo Teixeira) (e-STJ, fl. 452).
+Os embargos de declaração opostos por V. Z. foram rejeitados.
+Inconformada, V. Z. manejou recurso especial, amparado no art. 105, III, alíneas a e c, da CF, alegando ofensa aos arts. 186, 187 e 927 do CC/2002, além de divergência jurisprudencial. Sustentou que a indenização por danos morais é devida, porque a negativa de cobertura ultrapassa o mero aborrecimento, abalando a integridade emocional do paciente e de seus familiares.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ.
+Seguiu-se o agravo em recurso especial, que, em decisão monocrática do Ministro Presidente, foi conhecido para não conhecer do apelo nobre, com amparo no art. 21-E, V, do RISTJ, por força da incidência da Súmula nº 7 do STJ.
+Nas razões do presente agravo interno, V. Z. alegou que (1) foram violados os arts. 186, 187 e 927 do CC/2002; (2) não é caso de incidência da Súmula nº 7 do STJ, porque sua pretensão não demanda reexame de prova; (3) houve descumprimento contratual em uma situação de urgência; e(4) ocorreu negativa ilícita de fornecimento de tratamento.
+Houve impugnação ao recurso (e-STJ, fls. 603/608).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO COMINATÓRIA CUMULADA COM INDENIZATÓRIA. DANOS MORAIS NÃO CONFIGURADOS. REFORMA DA PRETENSÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do aresto recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+VOTO
+O presente recurso não comporta provimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+Na hipótese dos autos, V. Z. apontou ofensa aos arts. 186, 187 e 927 do CC/2002, sustentado que indenização por danos morais é devida, porque a negativa de cobertura ultrapassa o mero aborrecimento, abalando a integridade emocional do paciente e de seus familiares.
+O Tribunal de Justiça de Santa Catarina, soberano na análise das provas, concluiu que não ficou caracterizada situação fática que ensejasse a indenização por danos morais, no seguintes termos:
+No caso em análise, infere-se que a autora foi diagnosticada com Paralisia Cerebral, tendo o médico especialista determinado o tratamento com duas sessões por semana de terapia ocupacional (fls. 46/52). Entretanto, a ré negou a realização do procedimento na frequência eleita, sob o argumento de que o contrato entabulado entre as partes limitava a modalidade de tratamento para 40 (quarenta) sessões por ano.
+Em que pese a angústia por que passou a autora pelo fato de a Unimed ter recusado o tratamento de que necessitava, não se vislumbra qualquer situação vexatória ou comprovado agravamento do quadro de saúde da paciente por culpa da ré.
+Ao compulsar os autos, ainda que haja necessidade de tratamento constante das condições da autora, verifica-se que a negativa da Unimed deu-se em 28.09.2018 (fl. 206) e, logo após o protocolo da inicial (em 22.11.2018), a tutela de urgência foi concedida em 28.11.2018 (fls. 97/102).
+Assim, apesar do incômodo pelo qual passou, não ficou caracterizada situação fática que autorize concluir pela existência de danos morais.
+Portanto, a sentença deve ser mantida (e-STJ, fls. 458/459).
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJSC quanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula nº 7 do STJ.
+A propósito, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. RECUSA NA AUTORIZAÇÃO DE EXAME MÉDICO. DANOS MORAIS AFASTADOS PELO TRIBUNAL DE ORIGEM. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A superação da conclusão alcançada pelo Tribunal de origem, a fim de acolher a pretensão recursal no tocante à indenização por danos morais, demanda o reexame do contexto fático-probatório dos autos, providência inviável no âmbito do recurso especial, ante o óbice da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.721.670/RN, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 15/12/2020, DJe 18/12/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. PLANO DE SAÚDE. AUSÊNCIA DE VIOLAÇÃO AO ART. 489 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. RECUSA DE COBERTURA A PROCEDIMENTO CIRÚRGICO MAIS BENÉFICO. DANO MORAL NÃO CONFIGURADO. SIMPLES INADIMPLEMENTO CONTRATUAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts.
+11 e 489 do CPC/2015.
+2. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente no Superior Tribunal de Justiça, no sentido de que o descumprimento contratual por parte da operadora de saúde que culmina em negativa ilegítima de cobertura para procedimento de saúde somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico e prejuízos à saúde já debilitada do paciente. Precedentes.
+3. No caso, o Tribunal de origem concluiu que, apesar da injusta negativa de autorização, não ficou comprovado o abalo excepcional na esfera moral a justificar o acolhimento do pleito quanto à indenização por danos morais. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.865.692/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 16/11/2020, DJe 14/12/2020)
+De outra parte, a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+A propósito, veja-se o julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. DEVOLUÇÃO EM DOBRO. MÁ-FÉ DO CREDOR. INEXISTÊNCIA. REEXAME. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. APRECIAÇÃO EQUITATIVA. LIMITES. VALOR FIXO. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+3. Não há como rever a conclusão do tribunal de origem, acerca da ausência de má-fé do credor a justificar a devolução em dobro dos valores pagos indevidamente, sem a análise de fatos e provas, o que é inviável no recurso especial devido à incidência da Súmula nº 7/STJ.
+ ..
+6. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.231.900/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 8/5/2018, DJe 15/5/2018)
+Assim, como V. Z. não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial, por força da aplicação da Súmula nº 7 do STJ.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
