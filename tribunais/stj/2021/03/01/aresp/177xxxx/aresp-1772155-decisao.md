@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por WILLISMAR GARRIDO PEREIRA contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado no art. 105, III, alíneas "a" e "c", da Constituição Federal de 1988, desafia acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territóriosassim ementado:
+"CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRELIMINAR DE INOVAÇÃORECURSAL. REJEIÇÃO. MÉRITO. CONTRATO DE SEGURO DE VIDA EM GRUPOCELEBRADO MILITAR. PRETENSÃO DE RECONHECIMENTO DO DIREITO ÀINDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRABALHO. INCAPACIDADEPERMANENTE PARA O SERVIÇO MILITAR. AGRAVAMENTO DO QUADRO CLÍNICO EMVIRTUDE POR CULPA DO SEGURADO. COBERTURA SECURITÁRIA. NÃO CABIMENTO.LITIGÂNCIA DE MÁ-FÉ NÃO CARACTERIZADA.
+1. Tendo em vista que as matérias suscitadas pelo autor no recurso de apelação foram arguidas na inicial da demanda, não há como ser acolhida a preliminar de inovação recursal.
+2. Evidenciado que o segurado tinha conhecimento da extensão da cobertura securitária contratada, tem-se por insubsistente a tese de violação do direito à informação assegurado pelo Código de Defesa do Consumidor.
+3. Incabível o reconhecimento do direito à indenização securitária decorrente de acidente de trabalho, quando constatado, por laudo pericial judicial, que a incapacidade apresentada pelo segurado, além de não ser permanente, decorre de sua inércia quanto à realização dos tratamentos cirúrgicos e fisioterápicos necessários ao restabelecimento da função afetada.
+4. Não se encontrando caracterizada qualquer das hipóteses previstas no artigo 80 do Código de Processo Civil, tem-se por inviabilizado o acolhimento da pretensão de condenação do autor ao pagamento de multa por litigância de má-fé.
+5. Apelação Cível conhecida. Preliminar rejeitada. No mérito, recurso não provido.." (fl. 893e-STJ).
+Nas razões do especial (fls. 900/947 e-STJ), além da dissidência interpretativa, a parte recorrente aponta negativa de vigência dos arts. 4º, 6º, III, 46, 47, 51, IV, e 54 do Código de Defesa do Consumidor e 371 do Código de Processo Civil de 2015. Sustenta, em síntese, que encontra-se incapacitado permanentemente para o exercício das atividades militares, assim, cabível a indenização securitária.
+Oferecidas as contrarrazões (fls. 978/993 e 996/1.013 e-STJ), o recurso não foi admitido na origem. Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se à análise do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com efeito, apesar de apontar o malferimento aos arts. 4º, 6º, III, 46, 47, 51, IV, e 54 do Código de Defesa do Consumidor, a linha argumentativa desenvolvida no apelo extremo é incapaz de evidenciar as ofensas aos dispositivos legais invocados.Nesse contexto, a fundamentação recursal é absolutamente deficiente, o que atrai a incidência dos óbices contidos nas Súmulas nºs 283 e 284/STF.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA DE SEGURO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+2. Considera-se deficiente a fundamentação quando o conteúdo normativo dos dispositivos tidos como violados não são capazes de amparar a discussão posta a desate e/ou os argumentos invocados no recurso não demonstram como o acórdão recorrido violou o artigo arrolado, o que importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno não provido" (AgInt no AREsp 892.216/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Além disso, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+Portanto, ainda que a perita judicial tenha reconhecido que o autor se encontra incapaz para o serviço militar e se encontra inapto para as atividades da vida civil, até que seja efetuado o tratamento fisioterápico para fins de reabilitação, a incapacidade foi causada pelo próprio autor, ao deixar de buscar o tratamento adequado.
+Por certo, conforme ficou esclarecido no laudo pericial, a lesão apresentada pelo autor não se encontra consolidada e não foram esgotados todos os recursos terapêuticos, de modo que a incapacidade apresentada não pode ser atribuída ao acidente, mas ao fato de não ter o autor buscado o tratamento prescrito.
+Os atestados médicos acostados sob o ID 7769837 (doc. 09) e no decorrer da instrução do processo, emitidos por médicos que assistiram o autor, e que apontaram para sua incapacidade permanente, nãotêm o condão de infirmar as conclusões contidas no laudo judicial, emitido por perita nomeada judicialmente, e que atestou o caráter temporário da incapacidade, ante a possibilidade de tratamento cirúrgico seguido de fisioterapia, para corrigir o problema ortopédico apresentado.
+Dessa forma, o entendimento firmado na r. sentença não representa afronta portanto, às alegadas violações às disposições contidas nas Normas Técnicas sobre Perícias Médicas no Exército, nem tampouco dos artigos 371 e 373, inciso I, do Código de Processo Civil.
+Ademais, a alegação de falta de condições financeiras para a realização da cirurgia, não tem o condão de afastar a necessidade de esgotamento de todos os tratamentos possíveis para a cura da enfermidade.
+Nesse sentido, ainda que o ora apelante não reúna condições financeiras para custear a realização do tratamento, há possibilidade de acesso por meio do Sistema Único de Saúde ou mesmo em unidades hospitalares vinculadas ao Exército.
+Por certo, não há como ser imposta às seguradoras rés a obrigação de pagamento de indenização securitária decorrente de acidente de trabalho, nos casos em que a conduta do segurado, ao deixar de buscar o tratamento médico adequado, foi determinante para o agravamento do quadro clínico que levou a incapacidade para o serviço militar"(fls. 897/898 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe oenunciado da Súmula nº 7 deste Superior Tribunal.
+Por fim, além de o mesmo óbice sumular inviabilizar o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, a tese de dissídio jurisprudencial, diante das normas legais regentes da matéria (arts. 1.029 do CPC/2015 e 255 do RISTJ), exige confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários advocatícios foram fixados em 11% (quinze por cento) sobre o valor atualizado da causa, os quais deverão ser majorados para 15% (quinzepor cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
