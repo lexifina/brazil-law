@@ -1,0 +1,18 @@
+Trata-se de recurso especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS), com fundamento no art. 105, III, a, da Constituição Federal, contra o acórdão proferido pelo Tribunal Regional Federal da 4ª Região.
+O recurso tem origem no agravo de instrumento interposto por Eliete Buhler e Rony Almir Buhler (fls. 4-33) contra a decisão que, em execução complementar de sentença (fls. 357-362), indeferiu o pedido de pagamento de diferenças decorrentes da incorporação integral do coeficiente-teto estipulados pelas Emendas Constitucionais ns. 20/1998 e 41/2003, bem como o pagamento de juros de mora sobre as parcelas pagas mediante complemento positivo, as quais teriam sofrido apenas a incidência de correção monetária, relativo ao direito reconhecido a autora da revisão do valor da sua aposentadoria.
+Valor da execução: 24.500,54 (vinte e quatro mil, quinhentos reais e cinquenta e quatro centavos), em julho/2012, fl. 351).
+A decisão de fls. 368-370 indeferiu os pedidos para revisão/incorporação integral do coeficiente-teto na aposentadoria da autora, bem como a incidência de juros de mora sobre a diferença paga via complemento positivo.
+Eliete Buhler e Rony Almir Buhler interpuseram agravo pretendendo a revisão dos tetos introduzidos pelas ECs 20/98 e 41/03 e incidência de juros de mora sobre os valores objeto de restituição pelo INSS.
+No Tribunal a quo, negou provimento ao agravo, nos termos da seguinte ementa (fl. 396):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO/CUMPRIMENTO DE SENTENÇA. NOVO TETO ESTABELECIDO PELAS EMENDAS CONSTITUCIONAIS  20/1998 E 41/2003. AUSÊNCIA DE PREVISÃO NO TÍTULO EXEQUENDO. JUROS DE MORA. INCIDÊNCIA SOBRE PAGAMENTOS EFETUADOS NA VIA ADMINISTRATIVA MEDIANTE COMPLEMENTO POSITIVO.
+1. A aplicação do entendimento do STF tem lugar na fase de cumprimento de sentença, independentemente da previsão no título judicial em execução.
+2. O fato de o pagamento das diferenças existentes entre a data do cálculo de liquidação executado e a efetiva implantação da revisão haver sido efetuado através de procedimento administrativo, no caso o complemento positivo, não possui o condão de afastar a mora do Instituto Previdenciário. Precedentes.
+Opostos embargos de declaração pelo INSS, foram eles acolhidos para fins de prequestionamento, sem alteração do julgado (fls. 451-453).
+No recurso especial, o INSS alega violação aos arts. 104 da Lei n. 8.078/1990, 103, parágrafo único, da Lei n. 8.213/1991, 21 da Lei n. 7.347/1985, 269, IV e 535, ambos do CPC/2015. Sustenta a ocorrência da prescrição das parcelas vencidas há mais de cinco anos que precedem o ajuizamento desta ação, uma vez que, no caso dos autos, trata-se de uma ação individual de revisão de benefício, e não de ação executória de sentença coletiva.
+Foram apresentadas contrarrazões ao recurso especial às fls. 479-482, pela manutenção do acórdão.
+É o relatório. Decido.
+A tese do INSS, no recurso especial, relacionada à prescrição, configura inovação recursal em recurso especial, pois a matéria não foi debatida no julgamento do agravo de instrumento interposto pela parte adversa, e não foi alegada em contrarrazões do agravo de instrumento pelo INSS.
+O agravo de instrumento não devolve ao Tribunal o conhecimento de toda a matéria tratada na decisão recorrida.
+A discussão a respeito da matéria nesta Corte implicaria em supressão de instância. Nesse sentido: REsp 1671583/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/8/2017, DJe 13/9/2017; REsp 1661888/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 18/5/2017, DJe 19/6/2017.
+Ante o exposto, nos termos do art. 255, §4º, II, do RI/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
