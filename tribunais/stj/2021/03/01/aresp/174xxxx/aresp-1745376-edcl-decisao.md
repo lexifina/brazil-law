@@ -1,0 +1,52 @@
+DECISÃO
+M. V. L., por si e representando a menor C. V. L. (M. V. L. e outra) ajuizaram ação de indenização por danos morais contra SUPERMODA COMÉRCIO DE CALÇADOS LTDA. (SUPERMODA) alegando, em síntese, que foram divulgadas imagens do interior da loja na rede social sobre fatos ocorridos que envolveram mãe e filha, causando danos à honra.
+Em primeira instância, o pedido foi julgado improcedente. A parte autora foi condenada ao pagamento de custas processuais e honorários advocatícios fixados em 10% sobre valor da causa, ficando suspensa a exigibilidade nos termos do art. 98, § 3º, do NCPC (e-STJ, fls. 176/188).
+A apelação interposta por M. V. L. e outra não foi provida pelo TJSE nos termos do acórdão, assim ementado:
+APELAÇÃO CÍVEL  DIREITO DO CONSUMIDOR  AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS  SUPOSTA DIVULGAÇÃO INDEVIDA DA IMAGEM DAS AUTORAS PELA EMPRESA RÉ  SENTENÇA QUE JULGOU A DEMANDA IMPROCEDENTE  INSURGÊNCIA DAS SUPLICANTES  REQUERENTES QUE, QUANDO NO ESTABELECIMENTO DA RÉ, ENCONTRARAM SACOLA PLÁSTICA CONTENDO UM CELULAR, MAS NÃO A ENTREGARAM AOS FUNCIONÁRIOS DA LOJA, LEVANDO O APARELHO PARA CASA  PROPRIETÁRIO DO CELULAR QUE, ACOMPANHADO DE POLICIAL, SOLICITOU AS IMAGENS DO CIRCUITO INTERNO AO ESTABELECIMENTO, A FIM DE LOCALIZAR O APARELHO  DISPONIBILIZAÇÃO DAS IMAGENS PELA RÉ  AUSÊNCIA DE CONDUTA ILÍCITA  NÃO CONFIGURADO NEXO CAUSAL ENTRE A CONDUTA DA EMPRESA E OS DANOS ALEGADOS  AUSÊNCIA DE PROVA QUANTO À DIVULGAÇÃO DAS IMAGENS PELA RÉ EM REDES SOCIAIS  NÃO CONFIGURADO O DEVER DE INDENIZAR  SENTENÇA MANTIDA  HONORÁRIOS RECURSAIS  RECURSO CONHECIDO E NÃO PROVIDO, POR UNANIMIDADE (e-STJ, fl. 248).
+Os embargos de declaração opostos por M. V. L. e outra não foram acolhidos (e- STJ, fls. 263/265).
+Irresignadas, M. V. L. e outra manifestaram recurso especial com fulcro no art. 105, III, a e c, da CF, alegando violação dos arts 373, II, 489, § 1º, IV, 1.013 e 1.022, II, do NCPC ao sustentar que (1) não foram sanadas as questões apontadas nos embargos de declaração e a decisão não foi devidamente fundamentada; (2) foi comprovada a conduta ilícita praticada pela loja recorridacapaz de ensejar reparação a título de danos morais. Afirmaramque inexiste prova nos autos que possam validar as alegaçõesda parte demandada(e-STJ, fls. 273/289)
+Foram apresentadas contrarrazões (e-STJ, fls. 308/314).
+O apelo nobre não foi admitido em virtude da (1) ausência de omissão que torne a fundamentação deficiente; (2) impossibilidade de revolvimento fático-probatório;e(3) incidência da Súmula nº 7 do STJ que impede a admissão do recurso especial pelas alíneas a e c do permissivo constitucional (e-STJ, fls. 317/321)
+Seguiu-se a interposição de agravo que foi conhecido para conhecer, em parte, do recurso especiale negar-lhe provimento, em decisão de minha relatoria, assim sumariada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO.INOCORRÊNCIA. ALEGAÇÃO DE DIVULGAÇÃO INDEVIDA DE IMAGEM. AUSÊNCIA DE CONDUTA ILÍCITA POR PARTE DA LOJA.DEVER DE INDENIZAR NÃO CONFIGURADO. ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DE ÓBICE SUMULAR. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+Nas razões dos presentes embargos de declaração,M. V. L. e outra sustentaram a existência de violação do art. 1.022 do NCPC, reiterando a alegação de omissão do Tribunal Estadual em relação aos seguintes pontos: (i) as infundadas acusações de furto veiculadas pela empresa requerida em sua contestação, as quais configuram crime de calúnia, não foram sequer mencionadas no relatório da apelação, tampouco foram enfrentadas no acórdão recorrido; e (ii) a loja demandada não se desincumbiu do ônus de comprovar que as imagens das autoras, ora embargantes, foram repassadas para outrem na presença de autoridade policial.
+Não houve o oferecimento de impugnação (e-STJ, fl. 442).
+É o relatório.
+Os embargos de declaração devem ser rejeitados.
+Inicialmente, vale pontuar que o presente recurso integrativo foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Conforme assinalado na decisão embargada, o acórdão recorrido não foi omisso e, com clareza e coerência, concluiu fundamentadamente que a tese autoral de M. V. L. e outra-no sentido de que a empresa requerida seria responsável por divulgação indevida de vídeo do circuito interno da loja, expondo as autoras a situação vexatória e ofensiva à sua honra -não deveria ser acolhida.
+A controvérsia foi enfrentada pelo Tribunal Estadual aos seguintes fundamentos:
+Como se sabe, nos casos de responsabilidade objetiva, para que reste configurado o dever de indenizar, é imprescindível a presença dos seguintes pressupostos: ato ilícito, dano e nexo causal entre ambos.
+Analisando a situação narrada nos autos e as provas produzidas em juízo, entendo que a requerida não praticou qualquer conduta ilícita, nem há nexo de causalidade entre os atos atribuídos à demandada e o suposto dano sofrido pelas autoras.
+Ora, como bem exposto pela magistrada de piso, as imagens do circuito interno do estabelecimento réu foram disponibilizadas ao dono do celular, na companhia de policial, a fim de possibilitar que o seu aparelho fosse localizado.
+Não há qualquer prova nos autos de que a ré tenha divulgado as referidas imagens em redes sociais, ou repassado mensagens atribuindo a pecha de ladra às autoras.
+Assim, não há que se falar em ilicitude praticada pela empresa requerida.
+Ressalto que nenhuma das justificativas apresentadas pelas autoras afasta a reprovabilidade da conduta consistente em guardar o aparelho entre os seus pertences e levá-lo para casa, deixando de entregá-lo aos funcionários da loja no exato momento em que encontraram a sacola plástica.
+Comungo do entendimento esposado pela sentenciante, no sentido de que toda a situação narrada nos autos decorreu da própria conduta das autoras, não havendo que se falar em responsabilidade civil da empresa demandada nem em dever de indenizar (e-STJ, fl. 249).
+Assim, tem-se que o TJSE decidiu a lide de forma fundamentada e integral, não havendo que se falar, portanto, em ofensa ao art. 1.022 do NCPC. Na verdade, a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir a matéria fático-probatória que foi analisada nas instâncias ordinárias.
+Com efeito, a jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL.PROCESSO CIVIL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. AÇÃO DE INDENIZAÇÃO. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. DANOS MORAIS.DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. LIMITAÇÃO DE COBERTURA. REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO IMPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. Verifica-se que o Tribunal estadual analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n.
+283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento das cláusulas contratuais e do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice disposto nas Súmulas 5 e 7 do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.500.162/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 25/11/2019, DJe 29/11/2019 - sem destaques no original)
+RECURSOS ESPECIAIS. AÇÃO DE RESTITUIÇÃO E COBRANÇA MOVIDA POR SOCIEDADE EMPRESÁRIA CONTRA EX-SÓCIO ADMINISTRADOR. EMPRÉSTIMOS E DESPESAS IRREGULARES.AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA.
+CERCEAMENTO DE DEFESA NÃO VERIFICADO. COMPROVAÇÃO DOS FATOS CONTROVERTIDOS. SÚMULAS 5 E 7 DO STJ.VIOLAÇÃO DO PRINCÍPIO DA CORRELAÇÃO.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.DISTRIBUIÇÃO DA SUCUMBÊNCIA. SÚMULA 7/STJ.FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+ ..
+3. O acórdão recorrido apresenta fundamentação adequada, tendo os julga
+dores reconhecido, à unanimidade, com base em ampla incursão no acervo probatório dos autos, a obrigação do recorrente em restituir os valores ali elencados. Ausência de violação ao art. 489 do CPC/15.
+4. Não há nulidade processual quando o Tribunal julga integralmente a lide e soluciona a controvérsia em conformidade com o que lhe foi apresentado.
+O julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa de suas teses, devendo, apenas, enfrentar a demanda observando as questões relevantes e imprescindíveis à sua resolução. Precedente.
+ ..
+RECURSO ESPECIAL DA SOCIEDADE EMPRESÁRIA NÃO CONHECIDO. RECURSO ESPECIAL DO EX-SÓCIO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+(REsp 1.837.445/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/10/2019, DJe 28/10/2019 - sem destaques no original)
+Dessa forma, mantém-se integralmente o que foi asseverado na decisão embargada, porque não há motivos para a sua alteração.
+Nessas condições, REJEITO os presentes embargos de declaração, nos termos acima explicitados.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. OMISSÃO DA DECISÃO EMBARGADA.INOCORRÊNCIA. EMBARGOS REJEITADOS.
