@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso ordinário em mandado de segurança interposto por Marcelo Sebastiao do Nascimento, com amparo no art. 33 et seqda Lei n. 8.038/1990, contra acórdão do Tribunal de Justiça do Estado de São Paulo, indicando como autoridade coatorao Governador do Estado respectivo, responsável pela decisão de não conhecimento do recurso contra a expulsão dos quadros da Polícia Militar local por extorsão de comerciantes, em serviço.
+O acórdão impugnado foi assim ementado:
+MANDADO DE SEGURANÇA - ALEGAÇÃO DE NULIDADE DO DESPACHO DA AUTORIDADE IMPETRADA POR DESPIDO DE FUNDAMENTAÇÃO IDÔNEA - INEXISTÊNCIA DE QUALQUER VÍCIO OU ILEGALIDADE NO ENTANTO - AUSÊNCIA DE DIREITO LIQUIDO E CERTO.
+Defende a parte recorrente, em síntese, falta de fundamentação do ato administrativo.
+Contrarrazões às fls. 145-147 (e-STJ).
+Parecer pelo desprovimento (e-STJ, fls. 174-177).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC, combinado coma Meta 2/CNJ/2021- "Identificar e julgar, até 31/12/2021, 99% dos processos distribuídos até 31/12/2016e 95% dos distribuídos em 2017").
+É o relatório.
+Assentou-se no julgado (e-STJ, fl. 110):
+O ato decisório do governador, portanto, contém fundamentação apta à compreensão dos motivos de decidir pelos quais desacolheu a pretensão do ora impetrante. Nulo seria não contivesse qualquer motivação, mas não o é por conter fundamentação sucinta na expressão, mas assentada em razões contidas e desenvolvidas nos atos em que se escora. A jurisprudência consolidada dos Colendos Supremo Tribunal Federal e Superior Tribunal de Justiça é no sentido de que não importa nulidade da decisão a fundamentação "per relationem"
+A parte, desde logo, não rebate a existência de fundamentação por referência, razão bastante para manutenção do acórdão, nos termos da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."). A dialeticidade deficiente impõe o não conhecimento do recurso.
+Ainda que se avançasse no exame do feito, melhor sorte não teria. Em sua inicial, narra o impetrante, ex-policial militar,com precisão, os fatos que ensejaram a punição: ter exigido, em serviço, fardado e em viatura oficial, R$ 100 de proprietáriade bar sem alvará de funcionamento (e-STJ, fls. 2-3).
+Juntou ainda aos autos a Decisão Final do Conselho de Disciplina, que aponta, entre outros elementos do processo disciplinar, prova do diálogo travado entre o policial e a proprietária, que foi ameaçada de fechamento do estabelecimento, o que seria evitado caso "ajudasse" o policial com o "cafezinho", em troca de "ser ajudada"(e-STJ, fls. 22-23). Os fatos foram presenciados pela vítima e seu cônjugee narrados a terceiro, membro do Conselho de Segurança do local.
+Em arremate, imputou o Conselho de Disciplina atos violadores da moral e deveres éticos da corporação, nos termos da legislação de regência (e-STJ, fl. 28, § 34), concluindo pela expulsão dos acusados (e-STJ, fl. 29, § 40).
+A seu turno, o ato tido por coator é o não conhecimento do recurso contra tal decisão (e-STJ, fl. 42). Tal "despacho" do Governador faz referência àmanifestaçãodaassessoriajurídica e outros documentos do processo, para concluir pela ausência de cabimento da via. Já teria, anote-se, havido recurso da decisão do Conselho, que foi improvido pelo Secretário de Estado (e-STJ, fl. 31).
+O impetrante não providenciou os documentos referenciados, mas o impetrado os juntou em informações. No Parecer n. 717/2015-AJG, consta a informação de que: i) inexistiu pedido de reconsideração da punição à autoridade competente; ii) o recurso ao Secretário foi manejado passados 22 (vinte e dois) meses da sanção; iii) o recurso ao Governador foi interposto passados outros 5 (cinco) meses da decisão do Secretário. Acresce o parecerista que, nos termos da Lei Complementar  estadual  n. 893/2001, inexiste recurso contra decisão do Comandante-Geral da Polícia Militar de São Paulo, cabendo, unicamente, pedido de reconsideração. Especificamente, transcrevo (e-STJ, fl. 72):
+9.4. Logo, diante do comando que emerge dosartigos 83 e 84 da LC nº 893/2001, no sentido de que as decisões finais proferidas peloComandante Geral não desafiam recurso, forçoso reconhecer que o recurso interpostopelo interessado não deve ser conhecido por falta de amparo legal, o que, por sua vez,redunda na constatação do não preenchimento dos requisitos de admissibilidade.
+Convém colacionar o manifesto do Ministério Público na origem (e-STJ, fl. 93 et seq.):
+Prima facie, cumpre observar que o senhor Secretário de Segurança Pública recebeu o recurso interposto pelo impetrante da r. Decisão que o expulsou das fileiras da Corporação com fundamento no Direito de Petição previsto no artigo Sº, inciso XXXIV, "a", da Constituição da República, porquanto incabível o recurso diante da referida Decisão (cf. fls.31). Com efeito, o artigo 83 da Lei Complementar Estadual n. 893/2001 assim preceitua:
+ ..
+Sucede que um novo recurso interpôs o impetrante, desta vez dirigido ao senhor Governador do Estado, com o propósito de revisão do ato administrativo que o expulsou da corporação. O recurso não fora conhecido justamente pelo óbice legal acima apontado; e se conhecido fosse, teria o seu provimento negado pelas razões expostas na r. Decisão do senhor Secretário de Estado e no parecer emitido pela Assessoria Jurídica do Governo (cf. fls.42).
+A referência ao parecer da sua assessoria jurídica e à decisão do senhor Secretário de Segurança Pública feita pelo senhor Governador do Estado de São Paulo, ao contrário do que sustentou o impetrante em seu pedido inicial, motivou de modo adequado a r. Decisão ora combatida.
+ ..
+Parágrafo único - A motivação do ato no procedimento
+administrativo poderá consistir na remissão a pareceres ou
+manifestações nele proferidos. "
+ ..
+A remissão à motivação constante em pareceres e decisões anteriores mostra-se suficiente à exigência estabelecida no artigo 93, inciso IX, da Constituição da República, como é assente na jurisprudência do colendo Superior Tribunal de Justiça:
+ ..
+Feitas estas considerações, cumpre observar que nos pareceres da Assessoria Jurídica do Governo e da Consultoria Jurídica da Secretaria de Segurança Pública, utilizado como motivação do ato administrativo em debate, foram expressamente abordadas a regularidade formal do Processo Administrativo Disciplinar e a suficiência do quadro probatório a justificar a aplicação da pena de expulsão pelo senhor Comandante Geral da Polícia Militar do Estado de São Paulo, assim como a ausência de previsão legal de Recurso Administrativo (cf. fls.68-85).
+Portanto, plenamente cognoscível pela parte as razões tanto de sua expulsão - extorsão de comerciantes - quanto do não conhecimento do recurso ao Governador - ausência de previsão legal para a via-, tudo nos termos dos documentos produzidos nos respectivos processos. Isto é: o ato está suficientemente fundamentado.
+Ressalte-se, porém, que a hipótese é mesmo de não conhecimento, em face da falta de dialeticidade.
+Ante o exposto, com fulcro no art. 932 do CPC, c/c o art. 34, XVIII e XIX, do RISTJ, não conheçodo recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
