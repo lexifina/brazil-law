@@ -1,0 +1,33 @@
+DECISÃO
+Vistos.
+Fls. 1.281/1.440e - Trata-se de petição apresentada por ERNESTO DE SOUZA ANTUNES, na forma de apelação, contra decisão mediante a qual foi indeferida liminarmente Ação Rescisória, declarando-se extinto o processo sem resolução do mérito.
+Aduz-se que "o recurso ora cabível é a apelação", pugnando-se, "caso eventualmente se entenda pela adequação de outra forma recursal", pela aplicação do princípio da fungibilidade (fl. 1.282e).
+Sustenta-se, em síntese, que o Código de Processo Civil de 2015 "é explícito em permitir exceção para decisão que impeça a admissibilidade de recurso" (fl. 1.283e), bem como veda "a mera repetição de julgado anterior" (fl. 1.285e).
+Alega-se, ademais, que a decisão atacada "indeferiu liminarmente esta ação rescisória 6895/DF, cujo fundamento é existência de erro que se confunde com o mérito" (fl. 1.286e), sendo possível a correção de erro material.
+Feito breve relatório, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+A aplicação do princípio da fungibilidade depende do preenchimento de dos seguintes requisitos: i) dúvida objetiva quanto ao recurso a ser interposto; ii) inexistência de erro grosseiro; e iii) que o recurso interposto erroneamente tenha sido apresentado no prazo daquele que seria o correto.
+No caso, o Peticionante interpôs apelação, quando deveria ter interposto agravo interno da decisão mediante a qual foi extinta sem resolução de mérito a ação rescisória proposta nesta Corte, circunstância que revela erro grosseiro, afastando-se, por conseguinte, a incidência da fungibilidade recursal.
+Nessa linha, os seguintes julgados:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NA APELAÇÃO NA AÇÃO RESCISÓRIA. RECURSO MANIFESTAMENTE INCABÍVEL. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. AGRAVO NÃO PROVIDO.
+1. É manifestamente incabível a interposição de apelação contra acórdão que julga improcedente o pedido em ação rescisória. Erro grosseiro que impede a aplicação do princípio da fungibilidade recursal.
+2. Agravo regimental não provido.
+(AgRg na PET na AR 4.395/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, julgado em 26/06/2013, DJe 02/08/2013).
+PREVIDENCIÁRIO E PROCESSO CIVIL. INTERPOSIÇÃO INTEMPESTIVA DE APELAÇÃO. RECEBIMENTO COMO RECURSO ADESIVO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE.
+1. Conforme entendimento firmado neste Tribunal, na hipótese de interposição de recurso nominado pela parte como apelação, com fundamento no art. 1009 do CPC, não há falar em afastamento de intempestividade para fins de recebimento de recurso principal como adesivo. Da mesma forma, não se revela possível a aplicação do princípio da fungibilidade recursal, por se tratar de erro grosseiro.
+2. Agravo interno improvido.
+(AgInt no AREsp 1.609.677/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 04/09/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA. INTERPOSIÇÃO DE APELAÇÃO EM AÇÃO RESCISÓRIA. DECISÃO DA PRESIDÊNCIA DO TRIBUNAL DE ORIGEM QUE A RECEBEU COMO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRECLUSÃO. RECURSO MANIFESTAMENTE INCABÍVEL. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. ERRO GROSSEIRO. APLICAÇÃO DE MULTA E MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS, EM AGRAVO INTERNO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+I. Agravo interno aviado contra decisão monocrática, integrada por embargos de declaração, publicada em 1º/08/2016, que, por sua vez, julgara recurso interposto contra acórdão publicado na vigência do CPC/73.
+II. In casu, trata-se de "RECURSO DE APELAÇÃO EM AÇÃO RESCISÓRIA" - recebido, pelo Vice-Presidente do TRF/4ª Região, como Recurso Ordinário em Mandado de Segurança -, interposto contra acórdão que reconhecera a decadência e julgara improcedente a ação rescisória, ajuizada pelo ora agravante.
+III. A Presidência do Tribunal de origem recebeu o recurso de apelação, interposto pela parte ora agravante, como recurso ordinário em mandado de segurança, de cuja decisão a parte não recorreu, tendo os autos sido remetidos a esta Corte, restando, pois, preclusa a matéria.
+IV. A jurisprudência desta Corte "é no sentido de que a interposição de recurso ordinário, ao invés de recurso especial, ou o inverso, constitui-se de erro grosseiro, o que impede a aplicação do princípio da fungibilidade recursal" (STJ, AgRg no Ag 1.384.526/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 13/06/2011).
+V. Ademais, "é manifestamente incabível a interposição de apelação contra acórdão que julga improcedente o pedido em ação rescisória.
+Erro grosseiro que impede a aplicação do princípio da fungibilidade recursal" (STJ, AgRg na PET na AR 4.395/PR, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe de 02/08/2013).
+VI. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+VII. Conforme já decidiu esta Corte, "o pedido de arbitramento/majoração da verba honorária de sucumbência no Agravo Interno, formulado pela embargante, deve ser rejeitado, em razão do entendimento da Escola Nacional de Formação e Aperfeiçoamento de Magistrados Ministro Sálvio de Figueiredo Teixeira - Enfam - adotado no seminário "O Poder Judiciário e o Novo CPC", no qual se editou o enunciado 16, com o seguinte teor: "Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015)". Dito de outro modo, como se trata (o Agravo Interno) de recurso que apenas prorroga, no mesmo grau de jurisdição, a discussão travada no Recurso Especial, o caso concreto não comporta a aplicação do art. 85, § 11, do CPC/2015" (STJ, EDcl no AgInt no REsp 1.578.347/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 08/11/2016).
+VIII. Agravo interno improvido.
+(AgInt nos EDcl no RMS 49.999/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 06/04/2017, DJe 26/04/2017).
+Anote-se, por oportuno, que, à vista da disciplina legal e regimental deste Tribunal Superior, não existe dúvida objetiva quanto ao recurso a ser interposto, configurando-se, também por isso, o erro grosseiro.
+Posto isso, com fundamento no art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, NÃO CONHEÇO do pedido.
+Publique-se e intime-se.
