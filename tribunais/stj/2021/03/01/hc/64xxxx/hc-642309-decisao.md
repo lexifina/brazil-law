@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em face de acórdão, assim ementado (fl. 70):
+AGRAVO EM EXECUÇÃO ALEGAÇÃO DE QUE A AGRAVANTE FAZ JUS AO LIVRAMENTO CONDICIONAL, NÃO HAVENDO QUE SE FALAR EM APLICAÇÃO DO CONTIDO NO ART. 83, V, DO CP, AO CASO CONCRETO, VEZ QUE CONDENADA PELA PRÁTICA DE TRÁFICO DE DROGAS PRIVILEGIADO.
+CASO EM QUE A AGRAVANTE FOI CONDENADA AO CUMPRIMENTO DE PENAS PELA PRÁTICA DO DELITO PREVISTO NO ART. 33, § 4º, DA LEI 11.343/06, E 33, CAPUT, DESSA LEI ESPECIAL (POR DUAS VEZES), E EMBORA A RECENTE DECISÃO PROFERIDA NO HC Nº SUA 118.533, DO STF TENHA AFASTADO A NATUREZA EQUIPARADA AOS DELITOS HEDIONDOS, PARA O DENOMINADO TRÁFICO PRIVILEGIADO, TAL NÃO ENCONTRA APLICAÇÃO NO PRESENTE CASO, ALÉM DE NÃO SE TRATAR ESSA DE DECISÃO DE NATUREZA VINCULANTE, DEVENDO SER MANTIDA A MONOCRÁTICA, JÁ QUE NÃO FAZ A AGRAVANTE JUS AO BENEFÍCIO DO LIVRAMENTO CONDICIONAL, POR SER REINCIDENTE ESPECÍFICA NA PRÁTICA DE CRIMES EQUIPARADOS AOS HEDIONDOS.
+Recurso desprovido.
+Consta dos autos que o juízo de execuções indeferiu o pedido de livramento condicional àpaciente.
+A defesa interpôs agravo em execução perante a Corte de origem, a qual lhe negou provimento.
+No presente habeas corpus, alega quea paciente não foi condenada por crime equiparado a hediondo na primeira guia de execução (GR 1). Verifica- se, de plano, que a hediondez não pode se compatibilizar com o privilégio concedido(fl. 5). Destaca quea vedação prevista no art. 44, parágrafo único, da Lei nº 11.343/06, apenas alcança os delitos previstos "nos arts. 33, caput e § 1º, e 34 a 37", por expressa dicção legal. Não está incluída, portanto, a figura prevista no §4º do artigo 33 do referido diploma legal, sob pena de inaceitável interpretação extensiva(fl. 6).
+Requer a concessão da ordem constitucional para que seja afastada a hediondez do crime de tráfico privilegiado, concedendo-se o livramento condicional.
+A liminar foi indeferida, informações prestadas, o Ministério Público Federal manifestou-se pela concessão da ordem.
+É o relatório.
+DECIDO.
+Quanto ao pleito de concessão de livramento condicional, a Corte de origem, por sua vez, entendeu que (fls. 72-73):
+2 - No caso vertente, o presente recurso não merece acolhida.
+Certo é que o artigo 2º, da Lei 8.072/90, que se encontra em pleno vigor, equipara aos hediondos o delito de tráfico de drogas, e a Lei nº 11.343/2006 estabelece que para a concessão de progressão de regime aos condenados, pela prática de crimes hediondos, seja necessário o desconto de 2/5, se primários, ou de 3/5, se reincidentes, bem como o Código Penal estipula que a concessão de livramento condicional a esses condenados somente se dará após o desconto de 2/3 das penas a eles impostas, sendo vedada essa benesse aos reincidentes específicos na prática de crimes hediondos.
+De outra banda, tem-se a recente decisão do Supremo Tribunal Federal, proferida no julgamento do habeas corpus nº 118.533, que exclui do rol dos delitos hediondos, ou a esses equiparados, o que denominou como tráfico de drogas privilegiado, figura inovadora na sistemática penal, que estaria desvinculada dos rigores da execução reservada ao narcotráfico na sua forma clássica.
+Certo é, ainda, que essa nova figura, de natureza excepcional, não compõe o regramento da definição do narcotráfico, que portanto deve ser regido, quanto a temas de execução penal, pela forma convencional, o que vai de encontro, inclusive, ao rigorismo imposto para a questão no artigo 5º, XLIII e LI, da Constituição Federal, e na Convenção de Viena, de 1991, de Combate ao Tráfico de Drogas, promulgada no pais pelo Decreto nº 154/91, especialmente quanto aos seus artigos 4º, "a", 6º e 7º, que se sobrepõe às outras leis.
+E tal decisão há que encontrar eficácia tão somente do processo em que foi proferida, posto que desprovida de caráter vinculante, ou de efeito erga omnes.
+Assim, não há como se atender ao reclamo defensivo.
+Isto posto, nega-se provimento ao agravo ajuizado em prol de Elaine Oliveira Tavares.
+O acórdão combatido, ao negar o direito ao livramento condicional, decidiu de forma contrária ao entendimento pacífico desta Corte, no sentido de que "não se reconhecerá a reincidência específica em crimes que, conquanto figurem em mesmo tipo penal, possuam natureza distinta, de que é exemplo o tráfico privilegiado em face do tráfico comum" HC 511.850/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 01/10/2019, DJe 09/10/2019.
+No mesmo entendimento: AgRg no HC 592.398/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 06/10/2020, DJe 20/10/2020; AgRg no HC 604.376/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/09/2020, DJe 17/09/2020; AgRg no HC 547.502/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020.
+Destarte, verifica-se o alegado constrangimento ilegal no entendimento das instâncias ordinárias, porquanto mantiveram o reconhecimento da reincidência específica entre o tráfico comum e o tráfico privilegiado, em desconformidade com o entendimento consolidado no âmbito desta Corte Superior.
+Ante o exposto, concedo liminarmente o habeas corpus para afastar a reincidência específica quanto ao delito de tráfico privilegiado, reconhecendo a sua natureza de crime comum, e determinando que o Juízo da Execução observe essa diretriz ao refazer a análise do pedido de livramento condicional.
+Comunique-se.
+Publique-se.
+Intimem-se
