@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de GRAZIELE SOUSA PERES, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2181601-07.2020.8.26.0000).
+O Juízo da execução penal determinou a atualização do cálculo de penas da paciente, retificando a data-base para progressão parao regime aberto.
+Impetrada a ordem no Tribunal de origem, dela não se conheceu.
+A impetrante aponta constrangimento ilegal, já que a decisão que defere a progressão de regime tem natureza declaratória e, portanto, o marco inicial para contagem de progressão para o regime aberto deve ser a data em que preenchidos os requisitos para a primeirapromoção.
+Requer a retificação do cálculo de penas.
+O Ministério Público Federal manifestou-se pelo não conhecimento da impetração, mas pela concessão da ordem de ofício, para que o Tribunal de origem aprecie o mérito do habeas corpus. Subsidiariamente, opinou pela concessão da ordem a fim de que conste como a data-base o dia em que a paciente cumpriu os requisitos para o regime semiaberto.
+É o relatório. Decido.
+Da análise dos autos, verifica-se que a questão discutida neste recurso não foi objeto de exame no acórdão impugnado. Desse modo, o STJ está impedido de apreciá-la, sob pena de indevida supressão de instância.
+Do writ originário não se conheceu por não caber habeas corpus para discussão de questões afetas à execução penal, sendo incabível sua utilização como sucedâneo recursal, nestes termos (fls. 213-214):
+A presente ordem não deve ser conhecida.
+Esclarece-se que, conforme reiteradamente decidido, o habeas-corpus não é meio idôneo para análise de referido pedido, tampouco para apreciar decisões relativas à execução de penas, uma vez que necessário exame aprofundado dos requisitos objetivos e subjetivos, incabíveis nos estreitos limites do remédio heroico.
+É de ser observado, que a matéria aqui tratada é de competência originária da Vara de Execuções Criminais e a via eleita não se constitui como meio idôneo para análise do conjunto probatório, inviável nos estreitos limites do remédio constitucional.
+Contudo, o Superior Tribunal de Justiça firmou jurisprudência no sentido de que, embora não se admita a impetração do writ substitutivo de recurso próprio, cabe ao órgão julgador aferir a existência de eventual coação ilegal imposta ao paciente, a justificar a concessão da ordem de ofício.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE SUSTENTAÇÃO ORAL. INADMISSIBILIDADE. DESCABIMENTO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO RETROATIVA DA LEI N. 13.964/2019. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MATÉRIA DE DIREITO. VIABILIDADE DO MANDAMUS ORIGINÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA, DE OFÍCIO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. É incabível o pedido de sustentação oral no julgamento de agravo regimental na esfera penal, pois, nos termos dos arts. 159, inciso IV, e 258 do Regimento Interno do Superior Tribunal de Justiça, o agravo regimental em matéria penal deve ser levado para julgamento em mesa.
+2. Como a matéria arguida não foi analisada pelo Tribunal a quo, não pode ser originariamente examinada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito, consubstanciada na análise da possibilidade de retificação do cálculo de penas do Paciente, com a aplicação retroativa da Lei n. 13.964/2019. A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante.
+4. Ressalte-se que, apesar de ser o agravo o recurso próprio cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas e exista possibilidade de lesão à liberdade de locomoção do indivíduo, como na espécie.
+5. Agravo regimental desprovido. (AgRg no HC n. 609.783/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/10/2020.)
+RECURSO ORDINÁRIO DE HABEAS CORPUS. AUSÊNCIA DE EXAME DO MÉRITO DA CAUSA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DO CONHECIMENTO DAS TESES DEFENSIVAS. NECESSIDADE DE RETORNO DOS AUTOS. RECURSO ORDINÁRIO PARCIALMENTE PROVIDO.
+1. In casu, constata-se que a Corte estadual limitou-se ao não conhecimento do writ originário, sem avaliar a existência de eventual ilegalidade perpetrada em desfavor do ora recorrente.
+2. De plano, mostra-se inviabilizado o conhecimento da questão suscitada no presente recurso, diretamente por esta Corte, sob pena de indevida supressão de instância, uma vez que o tema não chegou a ser apreciado pelo Tribunal a quo.
+3. Com efeito, nos moldes da orientação do STJ e do STF, é indispensável que se afaste por completo a existência de flagrante constrangimento ilegal, sob pena de ofensa ao art. 5º, LXVIII, da CF.
+4. Nesse contexto, a solução passa pelo retorno dos autos ao Tribunal de origem para que examine a fundamentação expendida pelo impetrante, ora recorrente.
+5. Recurso ordinário em habeas corpus a que se dá parcial provimento para determinar o retorno dos autos à instância de origem, a fim de que se examine o mérito do pedido, como for de direito. (RHC n. 104.808/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/12/2018.)
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem de ofício, para determinar que o Tribunal de origem examine o mérito da impetração (HC n. 2181601-07.2020.8.26.0000) a fim de verificar a existência ou não de flagrante ilegalidade a justificar a concessão da ordem.
+Publique-se. Intimem-se.
