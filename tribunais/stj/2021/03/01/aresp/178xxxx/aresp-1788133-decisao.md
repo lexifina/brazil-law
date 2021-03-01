@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ANA PAULA REIS DE SÁ, contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. NÃO DEMONSTRAÇÃO. PROVA PRÉ-CONSTITUÍDA. INEXISTÊNCIA.ADMINISTRAÇÃO PÚBLICA. DISCRICIONARIEDADE. INTERESSE PÚBLICO. JUDICIÁRIO. CONTROLE DE LEGALIDADE. FISCALIZAÇÃO.
+1. O mandado de segurança constitui instrumento idôneo para proteger direito líquido e certo, demonstrado de plano, por meio de prova pré-constituída, sem a necessidade de dilação probatória.
+2. Não demonstrada por provas pré-constituídas a situação concreta que caracterize violação de direito líquido e certo, configura-se ausente o pressuposto específico para concessão do Mandado de Segurança.
+3. É defeso ao Poder Judiciário, no exame do ato administrativo, interferir na análise do mérito, incumbência que se restringe à própria Administração Pública, na medida em que a sua atuação limita-se ao controle de legalidade.
+4. O substantivo controle expressa duas realidades jurídicas distintas: a de origem francesa, segundo a qual controle é fiscalização formal; seja ela hierárquica, administrativa (de tutela) ou judiciária, é sempre um instrumento sancionatório. E a de origem anglo-saxônica, na qual control é comando, domínio, direção e governo. Ambas foram acolhidas pelo sistema jurídico brasileiro, em situações distintas, expressamente previstas na Constituição Federal. (Diaulas Costa Ribeiro, Ministério Público: Dimensão Constitucional e Repercussão no Processo Penal. São Paulo: Saraiva, 2003, p. 183-185).
+5. Não há dúvidas de que o controle judicial da legalidade do ato administrativo, no Brasil, segue o modelo francês, segundo o qual controle é fiscalização formal; seja ela hierárquica, administrativa (de tutela) ou judiciária, é sempre um instrumento sancionatório. (Idem).
+6. O Poder Judiciário não pode, na acepção anglo-saxônica do termo controle, adotar condutas próprias de controle, de comando, domínio, direção e governo, e substituir o ato administrativo do Poder Executivo por mera conveniência do Juiz. (Ibidem).
+7. Recurso conhecido e não provido" (fls. 208/209e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 215/217e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. INVIABILIDADE. ART. 1.022 DO CPC/15. HIPÓTESES TAXATIVAS. ERRO, OMISSÃO, OBSCURIDADE E CONTRADIÇÃO. INEXISTÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Os embargos de declaração têm aplicação estrita e taxativa, nos termos do art. 1.022 do CPC/2015, e não se prestam à rediscussão do mérito da causa.
+2. Verificado que o acórdão embargado apreciou de forma clara e específica as questões expostas na apelação, em todos os seus aspectos relevantes, não há como prover os embargos de declaração.
+3. A mera inconformidade com o resultado da demanda não autoriza a revisão de temas satisfatoriamente debatidos e devidamente fundamentados, cuja urgência deve ser discutida na via adequada.
+4. Recurso conhecido e não provido" (fl. 227e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aoart. 1.022, II, do CPC/2015, sustentando que:
+"In casu, houve nítida violação à norma do artigo 1022, II, CPC. O objeto de devolutividade e prova pré-constituídas restaram demonstradas por meio de cópia de matrícula e o próprio texto normativo suficiente para o reconhecimento do direito da ora Recorrente que sofreu autuação com fundamento em norma refogada. A sentença e acórdãos passaram a o lado do objeto posto pelo ora Recorrente.
+O fundamento não se sustenta. Ainda que não tivesse o ora Recorrente postulado efeito suspensivo ao Recurso Voluntário, esse não poderia ser o fundamento para a negativa da pretensão, isso porque se a norma de regência nega a existência de efeito suspensivo ao mesmo, não há o porquê de ser este postulado contra legem em sede administrativa, caberia ao Judiciário lhe emprestar esse feito ou retirar a eficácia da decisão que nele é atacada.
+O ora Recorrente apontou não ser o legitimado passivo na autuação, vejamos:
+(..)
+Caberia a autuação ser destinada ao usufrutuário vitalício, especialmente se o ato inquinado de ilícito é tão somente o de cercamento de área, supostamente pública, vejamos:
+(..)
+Se uma pessoa pratica um suposto ato ilícito, deve ser essa a responsável pelo seu desfazimento. O proprietário do imóvel, se a edificação ilegal é nele; mas se supostamente é em área pública, somente aquele que praticou o ato.
+Daí que a autuação é ilegal por recair em pessoa estranha à aquela que detém a posse da área que no entender da AGEFIS seria pública, seja contígua ou não aos lotes em questão.
+O ora Recorrente também suscitou tema atinente à ausência de fundamento legal na autuação, vez que não citada legislação atual no auto, apenas legislação revogada, especificamente a Lei nº 6.138/2018 e regulamentado pelo Decreto nº 39.272/18.
+Daí ser o cerne da questão a obrigatoriedade ou não de licenciamento de cercamento. O novo Código de Edificações, Lei nº 6.138, de 26/04/2018, verbis :
+(..)
+Como não houve definição de limites dos lotes pela AGEFIS a fim de que se pudesse corretamente delimitar se o alembrado se encontra ou não erigido sobre área pública, a determinação para sua demolição se tornou ilegal, por cercear o direito de defesa e contraditório em sede administrativa. Se o alambrado estiver em área da propriedade ou em sua área verde, o licenciamento seria dispensável e a autuação ilegal.
+(..)
+Precipitou -se a AGEFIS em autuar pessoa ilegítima e aplicar sanção de demolição sem que se permitisse previamente a definição administrativa dos limites legais de ocupação e ao fazê -lo coloca em risco a posse, ameaça a propriedade e turba atividade fiscalizada pelo IBAMA "fls. 242/249e)
+Por fim, requer o provimento do recurso.
+Contrarrazões a fls. 259/263e.
+Inadmitido o Recurso Especial (fls. 265/266e), foi interposto o presente Agravo (fls. 269/286e).
+Contraminuta a fls. 294/297e.
+A irresignação não merece prosperar.
+Em relação ao art. 1.022, II,do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Com efeito, a Corte de origem, ao apreciar o recurso de apelação, decidiu sob o seguintes fundamentos:
+"20. No caso, o mandado de segurança foi impetrado contra ato demolitório da Agência de Fiscalização do DF (Agefis), que determinou a retirada de cerca indevidamente construída em área pública.
+21. A apelante defende que deve ser concedido efeito suspensivo ao recurso administrativo voluntário interposto contra o ato demolitório da Agefis, sob o argumento de que o procedimento estaria repleto de ilegalidades, dentre as quais a fundamentação em lei revogada, a ilegitimidade do polo passivo e a inviabilização de atividade legal exercida no local com autorização e fiscalização do IBAMA.
+22. A apelante, contudo, não comprovou situação concreta que demonstre violação de direito líquido e certo, pois nenhuma de suas alegações foi corroborada por prova documental pré-constituída, exceto o indeferimento do efeito suspensivo pleiteado em sede administrativa. Ausente, portanto, pressuposto específico para concessão do mandado de segurança, como orienta a jurisprudência deste Tribunal: (..)" (fl. 210e).
+Ao analisar os aclaratórios, esclareceu, ainda, que: "o entendimento proferido no acórdão (..) deixou claro que não foi demonstrado o direito líquido e certo vindicado, pressuposto do mandado de segurança", bem como que "sua tese de ilegalidade do ato administrativo, baseada em ilegitimidade passiva e na ausência de motivação da decisão administrativa, não constituíram situação jurídica demonstrada e comprovada de plano, mediante prova documental pré-constituída" (fls. 228/229e).
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados" (STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/04/2020)
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo, para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, já que, conforme orientação fixada pela Súmula 105/STJ, não é admitida a condenação ao pagamento de honorários advocatícios em Mandado de Segurança.
+I.
