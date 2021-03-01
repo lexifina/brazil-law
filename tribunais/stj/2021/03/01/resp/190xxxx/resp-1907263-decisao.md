@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por CELIPA EMPREENDIMENTOS IMOBILIÁRIOS LTDA., com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"COMPROMISSO DE COMPRA E VENDA. Rescisão e devolução de valores. A pretensão de fundo do autor, legítima, é a rescisão do contrato. E esta pretensão foi bem acolhida, não com inexistente base na teoria da imprevisão ou no vício de consentimento, mas diante da impossibilidade de o comprador continuar suportando sozinho o pagamento das prestações contratadas. Aplicação das Súmulas 1, 2 e 3 do TJSP e 543 do STJ. Inaplicabilidade da Lei n. 13.786/2018 aos contratos firmados anteriormente. Inteligência do art. 6º da LINDB. Devolução de 80% do valor pago, em parcela única. Retenção de 20% para cobrir os gastos da vendedora nos termos do contrato, incluindo a multa moratória. Inexistência de abusividade nesse ponto. Correta incidência do art. 53 do CDC. Precedentes do STJ. Exclusão da taxa de fruição. Aplicação da cláusula 25ª do contrato. Recurso do autor provido e parcialmente provido o da ré"(e-STJ fl. 150).
+Em suas razões recursais (e-STJ fls. 218-231), arecorrente aponta violação doart. 884 e seguintes do Código Civil e da Súmula nº 1 doTJSP, alegando serdevida,na espécie, a denominada taxa de fruiçãoem virtude da desistência manifestada pelo comprador, que passou a deter a posse do imóvel desde a assinatura do contrato.
+Apresentadas as contrarrazões (e-STJ fls. 195-209), e admitido o recurso na origem, subiram os autos a esta Corte Superior.
+Éo relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Ressalta-se, de início, que não pode ser conhecido o recurso na parte que indica contrariedade a enunciado sumular, conforme já reiteradamente decidido por esta Corte Superior:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA DE OBRIGAÇÃO DE FAZER. ASTREINTES. ALEGAÇÃO. VIOLAÇÃO. SÚMULA 410/STJ.IMPOSSIBILIDADE. INTIMAÇÃO. PESSOAL. DEVEDOR. CUMPRIMENTO. MULTA.OBRIGAÇÃO DE FAZER. NECESSIDADE. AGRAVO IMPROVIDO.
+1. Não cabe ao STJ apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante a Súmula 518 desta Corte.
+(..)
+3. Agravo interno a que se nega provimento."(AgInt no AREsp 951.600/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/12/2018, DJe 19/12/2018).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. APELAÇÃO. REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO BB GIRO RÁPIDO. NÃO INDICAÇÃO DO ARTIGO DE LEI FEDERAL VIOLADO. INCIDÊNCIA DA SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL. ALEGAÇÃO DE NÃO PACTUAÇÃO DE JUROS REMUNERATÓRIOS E CAPITALIZAÇÃO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL A QUE FOI DADA INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. ACÓRDÃO QUE ASSENTOU A CONTRATAÇÃO. AUSÊNCIA DE SIMILITUDE FÁTICA. REVISÃO.IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+2. Nas razões do recurso especial, a parte recorrente aponta negativa de vigência às Súmulas 530 e 539/STJ. Todavia, não se admite recurso especial por negativa de vigência ou violação de súmula, uma vez que esta não se equipara a dispositivo de lei federal para fins de interposição do referido recurso.
+(..)
+5. Agravo interno não provido."(AgInt no REsp 1.885.318/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/11/2020, DJe 3/12/2020).
+No tocante à taxa de fruição, entendeu o Tribunal de origem que a referida taxa,por expressa previsão contratual, só poderia ser cobrada se estivessem concluídas as obras de infraestrura. No ponto, ovoto condutor do acórdão recorrido apresenta a seguinte fundamentação:
+"(..)tem razão o autor quando questiona a incidência da taxa de fruição de 0,5% ao mês imposta na sentença. A cláusula vigésima quinta do contrato, às expressas, regulou: "Imitido na posse precária do imóvel e desde que estejam concluídas as obras de água, luz e esgoto, e desde que as demais obras de infraestrutura do loteamento, ora em fase de execução, assim o permita, poderá o PROMISSÓRIO COMPRADOR realizar as benfeitorias e edificações no lote do terreno adquirido" (fls. 24).
+Ora, o contrato firmado entre as partes canalizou para a possibilidade efetiva de fruição somente após as conclusões das obras de água, luz, esgoto e de infraestrutura. Não há nada nos autos no sentido de indicar a posse plena. Não se esclareceu, à saciedade, se o autor já tinha, e a partir de quando, permissão para a realização de benfeitorias e edificações no terreno. Isso é o suficiente para se excluir a taxa de fruição na espécie"(e-STJ fls. 160-161 - grifou-se).
+De fato, aindenização devida pela fruição do imóvel somente se legitima quando há uso e gozo do bem, de modo que,se não era possível o livre uso e gozo do bem imóvel em virtude de pendências que estavam acargo do vendedor, ora recorrente, não se pode afirmar que o comprador já estava investido na possedo bem desde a assinatura do contrato.
+Na hipótese, ademais, o órgão colegiado baseou-se na interpretação das cláusulas do contrato celebrado e no contexto fático-probatório dos autos para decidir pelo descabimento de tal cobrança, a impedir o reexame da matéria na via recursal eleita, consoante o disposto nas Súmulas nº 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRATO DE COMPRA E VENDA DE IMÓVEL.PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. VALORES ACORDADOS. PAGAMENTO.TAXA DE OCUPAÇÃO INDEVIDA. BENFEITORIAS. COMPROVAÇÃO. AUSÊNCIA.REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+(..)
+3. Na hipótese, rever as conclusões do acórdão recorrido acerca do efetivo pagamento dos valores devidos no contrato, do descabimento da cobrança da taxa de ocupação e da ausência de comprovação das benfeitorias realizadas demandaria o reexame de cláusulas contratuais e de matéria fático-probatória, procedimentos inadmissíveis em recurso especial, nos termos das Súmulas nºs 5 e 7/STJ."(AgInt nos EDcl no AREsp 1.417.639/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/9/2019, DJe 4/10/2019).
+Ante o exposto, não conheço do recurso especial.
+Em atendimento ao disposto no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários fixados na origem para 15% (quinze por cento) sobre o valor da dívida.
+Publique-se.
+Intimem-se.
