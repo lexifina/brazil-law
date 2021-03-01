@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMT, o qual recebeu a seguinte ementa (e-STJ fls. 356/357):
+EMENTA AGRAVO DE INSTRUMENTO - EXECUÇÃO PARA ENTREGA DE COISA CERTA - CONTRATO PARTICULAR DE CONFISSÃO DE DÍVIDA - ENTREGA DE SOJA - INDIVIDUALIZAÇÃO - DESPACHO INICIAI, - ART. 621, E PARÁGRAFO ÚNICO, CPC/1973 - IMPOSIÇÃO DE MULTA - POSSIBILIDADE - EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS - MULTA DE I% SOBRE O VALOR DA CAUSA - AFASTADA - PENIIORA NO ROSTO DOS AUTOS DA RECLAMATÓRIA TRABALI IISTA - INAPEN1 IORABILIDADE - VERBAS DECORRENTES DE RELAÇÃO DE TRABALI 10 - DECISÃO PARCIALMENTE REFORMADA - RECURSO PARCIALMENTE PROVIDO A execução se processa sob o rito do art. 621 do CPC/1973, porquanto se trata de obrigação de entrega de coisa que se encontra individualizada no título executivo.
+Nas execuções que tem por objetivo obrigação de entregar coisa certa, a aplicação de multa, para o caso de descumprimento, é medida cabível, prevista no parágrafo único do art. 621, do CPC/1973.
+Embora de certo modo equivocada a pretensão do executado quanto ao procedimento da execução, tal fato, por si só, não revela ato de caráter protelatório para efeito de aplicação de multa, máxime se reconhecido o equívoco da decisão que impôs a segurança do juízo para apresentação dos Embargos à Execução, matéria que também foi objeto de impugnação nos declaratórios.
+Afastada a natureza alimentar do crédito executado, é impenhorável a verba de natureza trabalhista aqui arbitrada em Ação Reclamatória.
+Os embargos de declaração foram rejeitados (e-STJ fls. 484/490).
+Nas razões do recurso (e-STJ fls. 493/511), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de dissídio jurisprudencial, ofensa aos arts. 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Apontou ainda afronta ao art. 833, IV, do CPC/2015, sustentando em síntese, a possibilidade de efetuar a penhora no rosto dos autos de reclamatória trabalhista, de valores decorrentes de verbas rescisórias naquilo que ultrapassar o importe de quarenta salários mínimos.
+Foi apresentada contrarrazões (e-STJ fls. 593/604).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No caso, o Tribunal de origem reformou a decisão que determinou a penhora no rosto dos autos de reclamatória trabalhista no seguintes termos (e-STJ fl. 364):
+No que toca ao deferimento da penhora no rosto dos autos da reclamatória trabalhista, a decisão impugnada anotou que o feito sentenciado e com trânsito julgado em 07.03.2016, arbitrou, realça-se, em favor do aqui devedor agravante, o valor da condenação em R$ 150.000,00 (cento e cinquenta mil reais), Nesse ordem de entendimento, anotou que, embora sejam impenhoráveis os créditos trabalhistas decorrentes de verbas salariais de caráter alimentar, justificou que não há que se falar em verbas salariais, os valores acima de 40 salários mínimos, de maneira que determinou a impenhorabilidade dessa verba, tão somente referente a 40 salários mínimos.
+Ocorre que, a princípio, a verba penhorada, ainda que preservada a impenhorabilidade de 40 salários mínimos, envolve verba proveniente da relação de trabalho do executado agravante, a qual, frisa-se, a princípio, se submete ao regime da impenhorabilidade.
+A decisão recorrida está em confronto com a jurisprudência da Segunda Seção do Superior Tribunal de Justiça, que se firmou no sentido de admitir a mitigação da regra da impenhorabilidade quando a verba remuneratória (em sentido amplo) alcançar um montante considerável.
+No julgamento do EREsp 1.330.567/RS, por exemplo, fixou-se a tese de que as sobras salariais podem ser objeto de constrição.
+Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENHORA DE SALÁRIO. ALCANCE. APLICAÇÃO FINANCEIRA. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS.
+1. A Segunda Seção pacificou o entendimento de que a remuneração protegida pela regra da impenhorabilidade é a última percebida - a do último mês vencido - e, mesmo assim, sem poder ultrapassar o teto constitucional referente à remuneração de Ministro do Supremo Tribunal Federal. Após esse período, eventuais sobras perdem tal proteção.
+2. É possível ao devedor poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda.
+3. Admite-se, para alcançar o patamar de quarenta salários mínimos, que o valor incida em mais de uma aplicação financeira, desde que respeitado tal limite.
+4. Embargos de divergência conhecidos e providos" (EREsp 1330567/RS, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 10/12/2014, DJe 19/12/2014).
+No referido precedente, citaram-se vários precedentes das Turmas integrantes desta Seção, que analisaram a possibilidade de relativização da impenhorabilidade das verbas salariais, merecendo transcrição os seguintes trechos do voto condutor:
+A Segunda Seção desta Corte, recentemente, analisou situação que guarda bastante semelhança com o caso destes autos, tendo fixado limites à regra da penhorabilidade em se tratando de sobras salariais.
+De fato, no julgamento do Recurso Especial 1.230.060/PR, de relatoria da Ministra Isabel Gallotti - elaborando percuciente e aprofundado voto -, tratou-se a respeito da penhorabilidade de valores depositados em aplicação financeira. Consigne-se que, naquele caso, a verba também era de caráter trabalhista.
+De qualquer modo, ficou registrado que a remuneração protegida pela regra da impenhorabilidade é a última percebida - a do último mês vencido - e, mesmo assim, sem poder ultrapassar o teto constitucional referente à remuneração de Ministro do Supremo Tribunal Federal. Após esse período de tempo, eventuais sobras perdem tal proteção
+O precedente indicado no voto recebeu a seguinte ementa:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. IMPENHORABILIDADE. ARTIGO 649, IV e X, DO CPC. FUNDO DE INVESTIMENTO. POUPANÇA. LIMITAÇÃO. QUARENTA SALÁRIOS MÍNIMOS. PARCIAL PROVIMENTO.
+1. A remuneração a que se refere o inciso IV do art. 649 do CPC é a última percebida, no limite do teto constitucional de remuneração (CF, art. 37, XI e XII), perdendo esta natureza a sobra respectiva, após o recebimento do salário ou vencimento seguinte. Precedente.
+2. O valor obtido a título de indenização trabalhista, após longo período depositado em fundo de investimento, perde a característica de verba salarial impenhorável (inciso IV do art. 649). Reveste-se, todavia, de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta-corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento (inciso X do art. 649).
+3. Recurso especial parcialmente provido"
+(REsp 1.230.060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 29/08/2014.)
+Conferiu-se, assim, interpretação restritiva à regra do art. 649, IV, do CPC/1973 (atual 833, IV, do CPC/2015), ao fundamento de que não se mostra lógico que o devedor possa acumular aplicações financeiras em detrimento do direito do credor.
+No mesmo sentido:
+Processual civil. Recurso Especial. Ação revisional. Impugnação ao cumprimento de sentença. Penhora on line. Conta corrente. Valor relativo a restituição de imposto de renda. Vencimentos. Caráter alimentar. Perda. Princípio da efetividade. Reexame de fatos e provas. Incidência da Súmula 7/STJ.
+- Apenas em hipóteses em que se comprove que a origem do valor relativo a restituição de imposto de renda se referira a receitas compreendidas no art. 649, IV, do CPC é possível discutir sobre a possibilidade ou não de penhora dos valores restituídos.
+- A devolução ao contribuinte do imposto de renda retido, referente a restituição de parcela do salário ou vencimento, não desmerece o caráter alimentar dos valores a serem devolvidos.
+- Em princípio, é inadmissível a penhora de valores depositados em conta corrente destinada ao recebimento de salário ou aposentadoria por parte do devedor.
+- Ao entrar na esfera de disponibilidade do recorrente sem que tenha sido consumido integralmente para o suprimento de necessidades básicas, a verba relativa ao recebimento de salário, vencimentos ou aposentadoria perde seu caráter alimentar, tornando-se penhorável.
+- Em observância ao princípio da efetividade, não se mostra razoável, em situações em que não haja comprometimento da manutenção digna do executado, que o credor não possa obter a satisfação de seu crédito, sob o argumento de que os rendimentos previstos no art. 649, IV, do CPC gozariam de impenhorabilidade absoluta.
+- É inadmissível o reexame de fatos e provas em recurso especial.
+Recurso especial não provido"
+(REsp n. 1059781/DF, Relatora Min. NANCY ANDRIGHI, TERCEIRA TURMA, DJ de 14/10/2009.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 649, IV, DO CPC/73. IMPENHORABILIDADE. MITIGAÇÃO. PENHORA REALIZADA, NO LIMITE DE 30% DO SALÁRIO PARA PAGAMENTO DE SERVIÇOS EDUCACIONAIS. AGRAVO INTERNO DESPROVIDO.
+1. No tocante à impenhorabilidade preconizada no art. 649, IV, do CPC/73 esta eg. Corte adotou o entendimento de que a referida impenhorabilidade comporta exceções, como a que permite a penhora nos casos de dívida alimentar, expressamente prevista no parágrafo 2º do mesmo artigo, ou nos casos de empréstimo consignado, limitando o bloqueio a 30% (trinta por cento) do valor percebido a título de vencimentos, soldos ou salários. Some-se a este entendimento, outras situações, tidas por excepcionais, em que a jurisprudência deste eg. Tribunal tem se posicionado pela mitigação na interpretação do art. 649, IV, do CPC/73.
+2. Considerando o substrato fático descrito pelo eg. Tribunal a quo, evidencia-se a excepcionalidade apta a mitigar a impenhorabilidade, tendo em vista as infrutíferas tentativas de outras formas de garantir o adimplemento da dívida, bem como considerando que a dívida é referente a serviços educacionais, salientando que, como assentou o v. acórdão estadual, a educação também é uma das finalidades do salário.
+3. Agravo interno desprovido"
+(AgInt no AREsp n. 949.104/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 24/10/2017, DJe 30/10/2017.)
+DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIO. RELATIVIZAÇÃO DA REGRA DE IMPENHORABILIDADE. POSSIBILIDADE.
+1. Ação ajuizada em 25/05/2015. Recurso especial concluso ao gabinete em 25/08/2016. Julgamento: CPC/73.
+2. O propósito recursal é definir se, na hipótese, é possível a penhora de 30% (trinta por cento) do salário do recorrente para o pagamento de dívida de natureza não alimentar.
+3. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família. Precedentes.
+4. Na espécie, em tendo a Corte local expressamente reconhecido que a constrição de percentual de salário do recorrente não comprometeria a sua subsistência digna, inviável mostra-se a alteração do julgado, uma vez que, para tal mister, seria necessário o revolvimento do conjunto fático-probatório dos autos, inviável a esta Corte em virtude do óbice da Súmula 7/STJ.
+5. Recurso especial conhecido e não provido"
+(REsp n. 1658069/GO, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/11/2017, DJe 20/11/2017.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC/1973. NÃO OCORRÊNCIA. PENHORA. SALÁRIO. PERDA DO CARÁTER ALIMENTAR.
+1. Não viola os arts. 165, 458 e 535 do CPC/1973 o acórdão que motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+2. Esta Corte Superior firmou o entendimento de que a impenhorabilidade salarial não é absoluta, sendo que, existindo sobra salarial, esta poderá ser penhorada em razão da perda da natureza alimentar.
+3. Agravo regimental não provido
+(AgRg no REsp n. 1492174/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 23/6/2016, DJe 2/8/2016.)
+Assim, deve-se restabelecer, nesse ponto, a decisão que deferiu a penhora dos créditos constituídos na reclamação trabalhista n. 0000073-16.2014.23.0066.
+Diante do exposto, DOU PRIVMENTO ao recurso especial.
+Publique-se e intimem-se.
