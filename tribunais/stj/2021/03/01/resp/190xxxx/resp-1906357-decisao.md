@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto por MASSA FALIDA DO BANCO CRUZEIRO DO SUL S.A., em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Amazonas, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. COBRANÇA DE SALDO DE EMPRÉSTIMO CONSIGNADO DE SERVIDORA DO TRT-11 PELO BANCO CRUZEIRO DO SUL. MATÉRIA JÁ DECIDIDA POR ESTE TRIBUNAL EM OUTROS CASOS IDÊNTICOS. AUSÊNCIA DE INTERESSE-ADEQUAÇÃO NA PROPOSITURA DA AÇÃO MONITÓRIA. MORA NÃO IMPUTÁVEL À DEVEDORA. RECURSO CONHECIDO E PROVIDO." (fl. 374)
+Nas razões do apelo, a massa falida aponta ofensa ao art. 397 do Código Civil e dissídio jurisprudencial, sustentando, em síntese, ser admissível o processamento da ação monitória na espécie, pois "é de responsabilidade do recorrido  o inadimplemento, porquanto na qualidade de devedor, ciente de que os descontos não estavam sendo efetivado, tinha o encargo de fazer consignação de pagamento, solicitar boletos para a recorrente, tendo em conta o principio da boa-fé objetiva" (fl. 388).
+Sem contrarrazões (fl. 398).
+É o relatório.
+O Tribunal de origem extinguiu a ação monitória sem resolução de mérito, por entender que a suspensão do pagamento das parcelas do mútuo não decorreu de ato praticado pela mutuária (ora recorrida), mas sim em razão de ato praticado pelo Presidente do TRT da 11ª Região, com base noDecreto n. 6.386/2008 emitido pela Presidência da República, o qual autorizava a paralisação de descontos de empréstimo consignado por "interesse da administração" e por "ausência de informações" da instituição bancária. Colhe-se trecho do aresto recorrido:
+"A controvérsia pendente nos autos é recorrente neste Poder Judiciário. Após a instauração do processo de liquidação extrajudicial a cargo do Banco Cruzeiro do Sul, referida instituição financeira, ora Apelada, ajuizou diversas ações monitórias a fim de retornar a cobrança de créditos, entre eles, empréstimos consignados firmados com os servidores do Tribunal Regional do Trabalho da 11a Região, como é o caso da Apelante.
+No entanto, a suspensão dos pagamentos diretamente dos contracheques desses servidores não se deu em decorrência de ato de suas vontades, mas por ordem do Presidente do Tribunal ao qual estavam vinculados (fl. 164).
+Referida ordem, por sua vez, teve como fundamento o artigo 16, I, e o artigo 18, II, do Decreto n. 6.386/2008, os quais vigiam à época e assim estabeleciam:
+(..)
+Dessa forma, tem-se que a suspensão ocorrera tanto por interesse da Administração, quanto em razão da ausência de informações da instituição financeira. Logo, não há como imputar o inadirnplernento a uma conduta da Apelante, o que afasta a sua constituição em mora, conforme preconiza o artigo 396 do Código Civil: "Não havendo fato ou omissão imputável ao devedor, não incorre este em mora".
+Por consequência lógica, a inexistência de mora afasta o interesse - adequação na utilização da ação monitória, a qual exige, para seu desenvolvimento válido e regular, uma pretensão de cobrança de débito não pago, com o fim de atribuir-lhe força de título executivo. Assim previam os artigos 1.002-A c/c 1.002-C, §3º, do CPC/73, vigentes à época da propositura da ação:" (fls. 375/376)
+Diante disso, fica claro que a controvérsia a respeito da mora da mutuária foi decidida com base em ato infralegal (decreto emitido pela Presidência da República), ato normativo que não se confunde com tratado ou lei federal - único objeto do recurso especial, segundo a dicção do art. 105, III, da Constituição Federal. Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INSTAURAÇÃO DE SINDICÂNCIA ADMINISTRATIVA. DANO MORAL RECONHECIDO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na via estreita do recurso especial não cabe apreciação de suposta lesão à Súmula, bem como violação à Resolução, Portaria, Instrução Normativa, ou quaisquer outros atos normativos que não se enquadrem no conceito de lei federal, conforme disposto no art. 105, III, "a" da Constituição Federal.
+(..)
+4. Agravo interno não provido.
+(AgInt no AREsp 1425911/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)"
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
