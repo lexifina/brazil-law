@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por IGARASSU TURISMO EIRELIcontra decisão de fls. 1.223/1.224 e-STJ que inadmitiu o recurso especial.
+A parte recorrente não juntou o comprovante de recolhimento das custas, o que ensejou a decisão de fls. 1.268/1.271 e-STJ determinando o recolhimento em dobro.
+Conforme certidão de fl. 1.283 e-STJ, não houve manifestação da parte.
+O Ministério Público Federal, em seu parecer, opinou pela deserção do recurso especial (fls. 1.285/1.286 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+A irresignação não merece prosperar.
+A jurisprudência do Superior Tribunal de Justiça firmada na vigência doCPC/1973 determina que o recorrente deve comprovar o preparo, no ato dainterposição do recurso, com o recolhimento das custas judiciais, bem comodos valores locais, estipulados pela legislação estadual, sob pena dedeserção (art. 511 do CPC/73).
+O não recolhimento de uma das guias do preparo caracteriza preparoinsuficiente e enseja a complementação nos termos do § 2º do art. 511 doCPC/1973, sob pena de deserção.
+Nesse sentido:
+"PROCESSUAL CIVIL. PREPARO RECURSAL. NÃO RECOLHIMENTO DECUSTAS ESTADUAIS.CONCEPÇÃO DE "PREPARO INSUFICIENTE"PREVISTA NO ARTIGO 511, § 2º, DOCPC/1973. ADMISSIBILIDADE DA COMPLEMENTAÇÃO. INSTRUMENTALIDADE DAS FORMASE EFETIVIDADE DA TUTELA JURISDICIONAL. BOA-FÉ DA PARTE. EMBARGOS DEDIVERGÊNCIA PROVIDOS.
+1. Trata-se de Embargos de Divergência concernentes à possibilidade decomplementação do valor do preparo do Recurso Especial, quando recolhido,em um primeiro momento, somente o porte de remessa e retorno, sem opagamento de custas locais.
+2. O acórdão embargado considerou: "não há falar em complementação depreparo, porquanto, no presente caso, não houve a juntada de uma dasguias, o que, por si só, caracteriza a deserção porfalta de preparo, nãoo preparo insuficiente. Assim, não prosperam as alegações postas noregimental, incapazes de alterar os fundamentos da decisão impugnada".
+3. A resolução da questão divergente depende de definir se o recolhimentode apenas parte das verbas integrantes do valor do preparo equivale àsituação de "preparo insuficiente", prevista na legislação processual de1973 (art. 511, § 2º) e reiterada no Código de Processo Civil de 2015, emseu art. 1007, § 2º.
+4. No julgamento do Recurso Especial 844.440, a Corte Especial do SuperiorTribunal de Justiça definiu que a concepção de "preparo insuficiente"estabelecida na legislação processual, para fins de admissão dacomplementação, não deve ser restringida à hipótese de recolhimento "amenor", e sim abarca também as situações em que umas das verbascomponentes do gênero "preparo" não foi recolhida no momento dainterposição do recurso. O referido entendimento está em consonância comprincípios basilares da processualística contemporânea, que prioriza ainstrumentalidade das formas e a efetividade da tutela jurisdicional,especialmente diante de contexto em que a boa-fé da parte estádemonstrada.
+5. Embargos de Divergência conhecidos e providos. Retorno dos autos àTerceira Turma para novo julgamento do Agravo em Recurso Especial"
+(EAREsp689.490/SC, Rel. Ministro HERMAN BENJAMIN, Corte Especial, julgado em16/8/2017, DJe 19/10/2017).
+O Código de Processo Civil de 2015 manteve o mesmo entendimento o qualestá previsto no art. 1.007, § 2º: "A insuficiência no valor do preparo,inclusive porte de remessa e de retorno, implicará deserção se orecorrente, intimado na pessoa de seu advogado, não vier a supri-lo noprazo de 5 (cinco) dias".
+Na presente hipótese, houvea intimação da parte para recolheras custas em dobro. Entretanto, conforme certificado, não houve manifestação.
+Confira-se:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. PREPARO. COMPROVANTE ILEGÍVEL. INTIMAÇÃO PARA REGULARIZAÇÃO E COMPROVAÇÃO DO PAGAMENTO.FALTA DE ATENDIMENTO AO DESPACHO NA ÍNTEGRA. DESERÇÃO DO RECURSO.AGRAVO INTERNO IMPROVIDO.
+1. O STJ consolidou o entendimento "no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção"(AgRg no AREsp 731.504/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 5/10/2017). In casu, essa previsão não foi cumprida.
+2. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1.615.901/PB, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020 - grifou-se)
+"PROCESSUAL CIVIL. PREPARO DO RECURSO ESPECIAL. DEFICIÊNCIA DA COMPROVAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 187 DA SÚMULA DO STJ.TEMPESTIVIDADE. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+I - Na origem, trata-se de mandado de segurança impetrado contra ato do Gerente de Recursos Humanos da Unidade de Negócios do Espírito Santo da Petrobras, objetivando a reintegração dos impetrantes no concurso público para o cargo de técnico de operação júnior e consequente admissão para a realização do exame bio-psico-social e, sendo aprovados, para o curso de formação. Na sentença, foi concedida a segurança. No Tribunal a quo, a sentença foi mantida.
+Nesta Corte, não se conheceu do agravo em recurso especial.
+II - A petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ, apesar de presente o comprovante de pagamento.
+III - O Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp n. 1.132.940/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/8/2018; AgInt no AREsp n.1.207.816/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018; e AgRg no AREsp n. 794.865/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 8/8/2018.
+IV - A parte foi intimada para regularizar o vício, porém, apesar de sua manifestação, o preparo ainda ficou irregular, tendo em vista equívoco na fundamentação do despacho de regularização.
+V - Não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o Tribunal de origem deveria ter intimado a parte para efetuar o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+VI - No STJ, o recorrente foi intimado, nos termos do § 2º, c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de cinco dias, o vício apontado, complementando o recolhimento das custas. Porém, a parte não regularizou.
+VII - A petição trazida aos autos, em razão do despacho possibilitando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+VIII - O recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+IX - Ademais, mediante análise dos autos, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 26/2/2019, sendo o recurso especial interposto somente em 22/3/2019.
+X - A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso.
+XI - Recentemente, a Corte especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate do feriado de segunda-feira de Carnaval. Permite-se, assim, que a parte comprove, posteriormente à interposição do recurso, na primeira oportunidade, a ocorrência do feriado local, nessa hipótese. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se explicitou que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de segunda-feira de carnaval.
+XII - Assim, em se tratando de interposição de recurso em datas que não se referem ao feriado da segunda-feira de carnaval, é aplicável a jurisprudência desta Corte, no sentido já indicado acima, de impossibilidade de comprovação da tempestividade após a interposição do recurso.
+XIII - Agravo interno improvido."
+(AgInt no AREsp 1.667.577/ES, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/10/2020, DJe 22/10/2020 - grifou-se)
+Ante o exposto, não conheço do agravo.
+Publique-se.
+Intimem-se.
