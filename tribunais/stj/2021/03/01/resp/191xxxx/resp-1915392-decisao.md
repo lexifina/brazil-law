@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED DE JUNDIAI COOPERATIVA DE TRABALHO MEDICO com fundamento no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Sociedade cooperativa - ação cominatória Pretendido ingresso no quadro associativo - Decreto de procedência- Exigência de aprovação em processo seletivo, conjugada com a afirmação da adequadação da quantidade de médicos na especialidade de oftalmologia, não se justificando a abertura de vagas - Violação ao chamado princípio das portas abertas- Ressalva quanto ao posicionamento pessoal do relator- Necessidade de resguardo da possibilidade da cooperativa gerir seu quadro social, criando um equilíbrio entre os interesses dos cooperados, potencializadas disfunções colaterais de natureza econômica - Aplicação, no entanto, do Enunciado 10 do Grupo de Câmaras Reservadas de Direito Empresarial, editado, justamente, com o fim de evitar pudessem, no âmbito deste Tribunal, surgir veredictos totalmente discrepantes e prejudiciais à segurança jurídica - Sentença mantida - Recurso desprovido" (fl. 310 e-STJ).
+Em suas razões, a recorrente alega, além de divergência jurisprudencial, violação dos artigos 4º, I, e 29 da Lei 5.764/1971. Sustenta, em síntese, que "o ingresso nos quadros da Recorrente somente ocorre através de processo seletivo, que utiliza como base estudo técnico atuarial que analisa cada especialidade" (fl. 337 e-STJ).
+Sem contrarrazões.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação nãomerece prosperar.
+Verifica-se que o acórdão recorrido está em consonância com a jurisprudência desta Corte Superior no sentido de que, "salvo impossibilidade técnica do profissional para exercer os serviços propostos pela cooperativa, conforme art. 4º, I, da Lei 5.764/71, deve-se considerar ilimitado o número de associados que podem juntar-se ao quadro associativo, face a aplicação do princípio da adesão livre e voluntária que rege o sistema cooperativista" (REsp 1.124.273/CE, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 04/03/2010, DJe de 19/03/2010).
+No mesmo sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.COOPERATIVA DE TRABALHO MÉDICO. NOVO ASSOCIADO. INGRESSO. RECUSA.LIMITAÇÃO. PRINCÍPIO DA PORTA ABERTA (LIVRE ADESÃO).
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O ingresso nas cooperativas é livre a todos que desejarem utilizar os serviços prestados pela sociedade, sendo, em regra, ilimitado o número de associados, salvo impossibilidade técnica de prestação de serviços (arts. 4º, I, e 29 da Lei nº 5.764/1971).Incidência do princípio da livre adesão voluntária.
+3. Pelo princípio da porta aberta, consectário do princípio da livre adesão, não podem existir restrições arbitrárias e discriminatórias à livre entrada de novo membro na cooperativa, devendo a regra limitativa da impossibilidade técnica de prestação de serviços ser interpretada segundo a natureza da sociedade cooperativa, observados os requisitos do estatuto social.
+4. Agravo interno não provido."(AgInt nos EDcl no REsp 1846971/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 31/08/2020, DJe 03/09/2020, grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. COOPERATIVA MÉDICA.INGRESSO DE NOVO ASSOCIADO. RECUSA INDEVIDA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIMENTO DO STJ. INCIDÊNCIA DA SÚMULA N.83/STJ. AGRAVO IMPROVIDO.
+1. O entendimento desta Corte é de que "em regra, a limitação ao ingresso de novos associados condiciona-se à impossibilidade técnica do profissional para exercer os serviços propostos pela cooperativa, conforme art. 4º, I, da Lei nº 5.764/71, não bastando a simples alegação de conveniência para os que já integram o quadro de cooperados" (REsp n. 661.292/MG, Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 8/6/2010).
+2. O Tribunal de Justiça, ao analisar a situação fática dos autos, concluiu que: "a capacitação técnica do apelante, que comprovou graduação médica e a titulação de especialista na área médica em que busca ingresso na cooperativa (fls. 40/49), não é questionada pela apelada. Acontece que, a restrição do número de vagas (art. 11, do estatuto, fls. 118/119 e item 1, do edital a fls. 346), no processo seletivo de ingresso à cooperativa, vai de encontro ao princípio de portas abertas".
+3. Nesse contexto, a jurisprudência desta Corte destaca o princípio da "porta-aberta", consectário do princípio da livre adesão, segundo o qual não podem existir restrições arbitrárias e discriminatórias à livre entrada de novos membros nas cooperativas.
+4. Dessa forma, a conclusão alcançada pelo acórdão recorrido está alinhada à jurisprudência deste Tribunal Superior, incidindo, no ponto, a Súmula 83/STJ.
+5. Agravo interno improvido."(AgInt no REsp 1852780/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/05/2020, DJe 08/05/2020, grifou-se)
+Ante o exposto, nego provimentoao recurso especial.
+Em atendimento ao disposto no art. 85, § 11, do Código de Processo Civil de
+2015, majoro os honorários devidos ao advogado da parte recorrida para R$ 5.000,00 (cinco mil reais).
+Publique-se.
+Intimem-se.
