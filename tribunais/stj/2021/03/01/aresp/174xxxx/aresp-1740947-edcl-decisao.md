@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos declaratórios de folhas 1311/1318 opostos por PAULO CESAR DE SOUSA GUIRRA contra decisão de minha lavra de fls. 1301/1308 queadmitiu o seu agravo em recurso especial e, com fundamento na Súmula 568 do SUPERIOR TRIBUNAL DE JUSTIÇA -STJ, negou-lhe provimento para manter o julgamento do recurso em sentido estrito pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO- TJMT e a sentença de pronúncia.
+Para a tese de violação ao art. 927 do Código de Processo Civil - CPC veiculada no recurso especial, o embargantesustenta omissão a respeito de ter justificadamente e com antecedência requerido o adiamento da sessão de julgamento do recurso em sentido estrito. Destaca que não houve foi a devida apreciação do pedido pelo TJMT.
+Para a tese de violação aos artigos 26 do Código Penal -CP e 415, IV, do Código de Processo Penal- CPP, aponta omissão sobre o fato de haver estudo técnico-pericial realizado por duas perícias oficiais que atestam que o embargante era inimputável à época dos fatos. Ressalta que a afirmação do TJMT de inexistir laudo conclusivo acerca da incapacidade do acusado é descabida e não pode ser reafirmada na decisão embargada.
+Ainda para a tese de violação aos artigos 26 do CP e 415, IV, do CPP, que duas teses defensivas (legítima defesa e inimputabilidade) foram suscitadas, mas em momentos distintos. Consigna que ainimputabilidade passou a ser a tese adotada quando aferida pelos laudos periciais, enquanto a legítima defesa foi suscitada em momento anterior, qual seja, fase policial e início da ação penal.
+Requer sejam sanados os vícios com efeitos infringentes.
+É o relatório.
+Decido.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+Inexistem as omissões apontadas.
+Sabe-se que o recurso especial é decidido, em regra, com base naquilo que consta do acórdão proferido na origem e na sentença, pois vedado o revolvimento fático-probatório, consoante Súmula 7 do STJ.Pois bem, a respeito da primeira omissão, conforme decisão embargada, o Tribunal de origem expressamente afirmou que a pretensão de adiamento da sessão de julgamento do recurso em sentido estrito estava desprovida de justificativa acerca da impossibilidade de comparecimento. Assim, descabido mesmo seria o pedido de adiamento, conforme precedentes citados na decisão embargada.
+A respeito da segunda omissão, força comprobatória das provas dos autos a respeito da inimputabilidade do embargante não reconhecida pelo TJMT, constou expressamente na decisão embargada que não se fazia necessário adentrar nessa seara, pois odeterminante para a pronúncia foi o art. 415, parágrafo único, do CPP. Assim, competindo aos jurados decidir a respeito da inimputabilidade, consoante precedentes, desnecessária análise da avaliação do TJMT neste momento processual.
+A respeito da terceira omissão, também inexistente, pois constou na decisão embargada trecho da sentença que denota tersido suscitada a tese de legítima defesa (mais benéfica ao embargante)também na ação penal (resposta à acusação). Logo, escorreito o enquadramento no art. 415, parágrafo único, do CPP.
+Em verdade, o embargante pretende a modificação do provimento anterior, o que não se coaduna com a medida integrativa. No mesmo sentido, cito precedentes:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO NO EXAME DE PONTOS TRAZIDOS PELA DEFESA EM RESPOSTA PRELIMINAR. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. INVIABILIDADE DE INTEGRAÇÃO DO JULGADO PARA INSERÇÃO DE FUNDAMENTOS, QUANDO AUSENTES VÍCIOS QUE AUTORIZEM O MANEJO DO MEIO IMPUGNATIVO ELEITO.
+ ..
+6. Os Embargos não constituem via própria para fazer prevalecer tese jurídica diferente da que foi acolhida no Acórdão quando, em sua essência e finalidade, não se dirigem à omissão ou outro vício, mas à nova declaração de efeito infringente. Os argumentos de que não foram dissecadas todas as variantes e possibilidades cogitadas pela defesa trazem como consequência a certeza de que pretendem os Embargos a declaração inversa do fundamento jurídico da decisão, o que impede à Corte renovar o julgamento para declarar o que constituiria nova manifestação de mérito em sentido contrário.
+ ..
+14. Aclaratórios que pretendem, em realidade, a modificação do julgado proferido, com nítido conteúdo infringente.
+15. Ausentes os requisitos autorizadores da via integrativa (omissão, contradição, ambiguidade ou obscuridade), a simples pretensão de reexame de provas não tem o condão de viabilizar os Embargos Declaratórios, motivo pelo qual são rejeitados.
+(EDcl na APn 843/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 23/4/2018).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA, SONEGAÇÃO FISCAL E LAVAGEM DE DINHEIRO. PRELIMINAR DE NULIDADE.IMPOSSIBILIDADE DE REALIZAR SUSTENTAÇÃO ORAL. AGRAVO REGIMENTAL EM MATÉRIA PENAL APRESENTADO EM MESA. POSSIBILIDADE.DISPOSITIVO CONSTITUCIONAL.PREQUESTIONAMENTO. IMPOSSIBILIDADE.ATIPICIDADE DA CONDUTA DE LAVAGEM DE DINHEIRO. VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. PREJUÍZO NÃO DEMONSTRADO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REEXAME DA CAUSA. INVIABILIDADE.
+ ..
+III - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão e contradição no v.acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1478259/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/4/2018, DJe 27/4/2018).
+Ante o exposto, rejeita-se os embargos de declaração.
+Publique-se.
+Intimem-se.
