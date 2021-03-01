@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de requisição de pagamento oriunda da ExeMS 6864(200702576137), expedida em favor de ADELIA MARIA DE ARAUJO eMOTA E ADVOGADOS ASSOCIADOS S/C, esta beneficiária de destaque de honorários advocatícios.
+Intimada acerca da regularidade formal, a parte requerida informou o falecimento da beneficiária principal e a possibilidade de pagamento em duplicidade em razão da existência de outra execução decorrente do mesmo título judicial promovida em nome do instituidor de pensão de ADELIA MARIA DE ARAUJO(fl. 17).
+O Ministério Público Federal indicou que o mencionado instituidor de pensão "não participou da listagem principal do MS nº 6.864/DF", sendo dapensionista o direito legítimo ao recebimento do crédito. Opinou pelo cumprimento integral da ordem após a devida habilitação(fl. 35).
+Por meio da decisão de fl. 55, a então Presidente do Tribunal determinou fosse comprovada a habilitação dos herdeiros de ADELIA MARIA DE ARAUJO.
+Na sequência, veio aos autos notícia de homologação da desistência da execução promovida pelo instituidor de pensão, da qual, intimado, o INSS informou que "nos termos da decisão proferida nos autos da ExMS6864/DF (2007/0257537-8), a requerente está habilitada. Neste sentido, não se opõe à expedição do RPV" (fls. 63-65, 67 e 73).
+Em novo despacho, foi ratificada a necessidade de comprovação da habilitação dos herdeiros da beneficiária principal.
+Em razão de pedido formulado pela 1ª Vara de Órfãos e Sucessões (fls. 83-85) -e dado o afastamento da possibilidade de pagamento em duplicidade, por força da homologação da desistência da ação em que o instituidor de pensão figurava como parte -,determinei a transferência do valor requisitado em nome de ADELIA MARIA DE ARAÚJO para o juízo competente para decidir sobre a partilha do crédito.
+Vieram os autos conclusos com certidão de fl. 91 indicando que "não houve determinação de pagamento do valor requisitado desta RPV.
+É, no essencial, o relatório. Decido.
+Ao que se observa dos autos, a pendência de determinação de pagamento daRPV decorre da ausência de comprovação da habilitação de herdeiros da beneficiária principal.
+Entretanto, uma vez que requisitado o crédito apurado na execuçãohouve o esgotamento da prestação jurisdicional. Assim,o falecimento dabeneficiária do requisitórionão constitui óbice para o prosseguimento dopagamento, que poderáser realizado mediante depósito em conta a ser aberta em nome do espólio.
+Aguardar a habilitação dos herdeiros apenas faria com que se prolongasse o cumprimento da RPV e, consequentemente, imporia um ônus ainda maior para a Fazenda Pública, já que haveria um período mais longo de incidência de correção monetária até o efetivo pagamento.
+A Instrução Normativa STJ n. 3/2014 prevê que:
+Art. 19. No depósito de valores de precatórios e RPVs cujos credores originais já tiverem falecido, o crédito deverá ser apresentado pelos respectivos herdeiros em processo de arrolamento ou inventário, ou, no caso de estarem esses concluídos, em procedimento de sobrepartilha, cuja partilha será decidida pelo juízo competente em favor dos herdeiros ou do cônjuge sobrevivente, e deverá ser levantado mediante alvará expedido por essa autoridade judicial.
+Nesse contexto, também é possível que o montante principal seja transferido para o processo sucessório, onde o juízo competente pela partilha decidirá sobre o levantamento, tal como requerido às fls. 83-85.
+Ante do exposto, determino o pagamento desta requisição, condicionado à existência de dotação orçamentária,mediante abertura de conta remunerada em nome do(s) beneficiário(s) em instituição financeira conveniada, reservados os recursos das requisições anteriores pendentes de pagamento (art. 13, I, da Instrução Normativa STJ n. 3/2014).
+Ato contínuo, cumpra-se a decisão de fl. 87.
+Publique-se. Intimem-se.
