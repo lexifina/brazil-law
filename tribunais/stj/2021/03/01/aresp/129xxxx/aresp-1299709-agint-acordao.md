@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. DESPESAS MÉDICAS. REEMBOLSO. PRESCRIÇÃO. ENRIQUECIMENTO SEM CAUSA. PRAZO TRIENAL. RECUSA INDEVIDA. ABUSIVIDADE. COBERTURA CONTRATUAL. PROCEDIMENTOS INCLUÍDOS. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. DANOS MORAIS. INDENIZAÇÃO. VALOR ARBITRADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O prazo prescricional de 3 (três) anos deve reger as ações fundadas no inadimplemento contratual da operadora que se nega a reembolsar o usuário de seguro saúde ou de plano de saúde por despesas médicas realizadas em procedimento médico coberto.
+3. Na hipótese, acolher a tese pleiteada peloagravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame deprovas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. O Superior Tribunal de Justiça, afastando a incidência da Súmulanº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias atítulo de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRADESCO SAÚDE S.A. contra a decisão que conheceu do agravo para negar provimento ao recurso especial (fls. 687/693, e-STJ).
+Em suas razões, a agravante sustentaque deve ser aplicada a prescrição ânua, poisnão se trata de inadimplemento contratual, mas, sim, da validade das cláusulas contratuais.
+Assevera que inaplicáveis os óbices das Súmulas nºs 5 e 7/STJ e nº 284/STF.
+Reafirma a necessidade de redução do valor fixado atítulo de danos morais.
+Ao final, requera reforma da decisão atacada.
+Impugnação às fls. 713/719 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. DESPESAS MÉDICAS. REEMBOLSO. PRESCRIÇÃO. ENRIQUECIMENTO SEM CAUSA. PRAZO TRIENAL. RECUSA INDEVIDA. ABUSIVIDADE. COBERTURA CONTRATUAL. PROCEDIMENTOS INCLUÍDOS. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ. DANOS MORAIS. INDENIZAÇÃO. VALOR ARBITRADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O prazo prescricional de 3 (três) anos deve reger as ações fundadas no inadimplemento contratual da operadora que se nega a reembolsar o usuário de seguro saúde ou de plano de saúde por despesas médicas realizadas em procedimento médico coberto.
+3. Na hipótese, acolher a tese pleiteada peloagravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame deprovas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. O Superior Tribunal de Justiça, afastando a incidência da Súmulanº 7/STJ, tem reexaminado o montante fixado pelas instâncias ordinárias atítulo de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso.
+5. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Trata-se, na origem, de ação de indenização por danos materiais e morais decorrentes da recusa do plano de saúde de custear o tratamento prescrito ao paciente, que deve ser ressarcido das despesas médico-hospitalares desembolsadas.
+Naquela oportunidade, aCorte local concluiu pela aplicação do prazo prescricional anual ao caso dos autos e deu provimento à apelação dos ora agravados para majorar a indenização. Eis o excerto da referida decisão, transcrita no que interessa à espécie:
+"(..)
+O art. 206, § 1º, inciso II, alínea "b", do CC, disciplina o prazo de um (1) ano contado da ciência do fato gerador da pretensão para o segurado buscar a compensação de despesas médico-hospitalares pagas em virtude da recusa do plano de saúde em cobri-las.
+(..)
+Nesse passo, verifica-se que os pagamentos descritos nas notas fiscais indicadas se deram entre o período de janeiro de 2014 e junho de 2014. Logo, o prazo prescricional finalizaria no período de janeiro de 2015 e junho de 2015. Porém, a presente ação foi ajuizada no dia 23/9/2015. Portanto, assiste razão ao réu/apelante quanto à ocorrência da prescrição dos valores cobrados nas notas fiscais de fls. 50, 52, 54, 57/58, 60, 65/69, bem como aos autores é devida apenas a quantia de R$ 96.945,55 (noventa e seis mil e novecentos e quarenta e cinco reais e cinquenta e cinco centavos), correspondente à somados demais valores indicados nas notas fiscais nos créditos não atingidos pela prescrição.
+(..)
+O réu argumenta que não pode ser condenado a reembolsar o valor total pretendido, tendo em vista que o contrato prevê um limite de reembolso que deve ser observado. Entretanto, como se verifica dos autos, o tratamento de Demetrion Guedes Melo consistiu em despesas hospitalares, internação, quimioterapia, honorários médicos e cirurgia (fls. 41/74), e tais procedimentos estão incluídos na cobertura (fls. 188 verso - 189). Sendo assim, não há qualquer justificativa plausível para que a operadora se negue a reembolsar os valores despendidos, sob pena de violação ao disposto na Lei nº 9.656/98.
+Ademais, em que pese o réu apontar as cláusulas contratuais 2.11 e 2.24 como limitadoras do reembolso, observa-se que a definição dos limites para o ressarcimento das despesas não foi redigida de forma clara.
+(..)
+Com efeito, cláusulas contratuais que limitam valores de reembolso, quando não escritas de forma clara de modo a permitir a compreensão imediata do consumidor acerca da restrição, acabam por restringir direitos fundamentais inerentes à natureza do contrato, inviabilizando a consecução do respectivo objeto, razão pela qual deve ser anuladas, nos termos do art. 51, inciso IV, e § 1º, inciso II, do CDC.
+(..)
+Contudo, no caso, é inquestionável que a negativa de cobertura dos procedimentos médico-hospitalares para tratamento de doença grave, como câncer de reto - doença que acabou levando o paciente a óbito -, causou abalos psicológicos ao doente, assim como aos familiares que acompanharam toda a trajetória de recusa do plano de saúde em cobrir as despesas durante o tratamento.
+Registre-se que aquele que possui um plano de saúde espera a regular contrapartida para a qual fora contratado, como a autorização para procedimento médico-hospitalar necessário para o efetivo tratamento, a fim de combater o mal que lhe acomete.
+A recusa injustificada agrava o sofrimento e aumenta a angústia e a pressão psicológica de quem necessita do tratamento, e de seus familiares, configurando o dano moral passível de ser compensado.
+(..)
+Com relação ao valor da indenização, como se sabe, este deve atender aos princípios da razoabilidade e proporcionalidade, considerando a extensão e a gravidade do dano, a capacidade econômica do ofensor, além do caráter punitivo-pedagógico da medida.
+Nesse passo, a indenização não pode ser tão mínima que não consiga frear os atos ilícitos que atingem a sociedade de consumo. Considerando tais parâmetros, não se mostra razoável e adequado o valor de R$ 10.000,00 (dez mil reais) para ser distribuído entre as quatro vítimas, o que equivale, tão somente, à quantia de R$ 2.500,00 (dois mil e quinhentos reais) para cada. Esse valor não encontra similitude com os estabelecidos em outros julgados deste egrégio TJDFT, proferidos em situações semelhantes ao do presente caso (Acórdãos nº698.626, nº692.951, nº 766.019). Assim, a quantia deve ser majorada para R$ 40.000,00 (quarenta mil reais), ficando cada parte com R$ 10.000,00 (dez mil reais)"(fls. 391/396 -grifou-se).
+No recurso especial, aora agravante sustentou, inicialmente, a aplicação do prazo prescricional ânuo às notas fiscais emitidas mais de 1 (um) ano antes do ajuizamento da ação.
+Entretanto, o Superior Tribunal de Justiça possui entendimento no sentido de que o prazo prescricional de 3 (três) anos deve reger as ações fundadas no inadimplemento contratual da operadora que se nega a reembolsar o usuário de seguro saúde ou de plano de saúde por despesas médicas realizadas em procedimento médico coberto.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEMBOLSO. PRAZO PRESCRICIONAL TRIENAL. PRECEDENTES. DETERMINAÇÃO DE DESENTRANHAMENTO DOS COMPROVANTES DAS DESPESAS MÉDICAS EM OUTRO PROCESSO. IRRELEVÂNCIA PARA A FLUÊNCIA DO PRAZO PRESCRICIONAL. AGRAVO DESPROVIDO.
+1. Não se verifica, na espécie, a propalada negativa de prestação jurisdicional, tendo a decisão agravada resolvido satisfatoriamente as questões deduzidas no recurso, sem incorrer nos vícios de obscuridade, contradição, omissão ou erro material com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação da tutela jurisdicional.
+2. Nos termos da jurisprudência desta Corte Superior de Justiça, a pretensão de reembolso de despesas médicas pela operadora de plano de saúde ou de seguro-saúde prescreve em 3 (três) anos. Precedentes.
+3. O fato de terem os comprovantes das despesas médicas sido anexados em outro processo, no qual foi determinado o seu desentranhamento, em março de 2016, por referirem-se a despesas efetuadas após a propositura da ação, não influi no prazo prescricional da presente demanda.
+4. Agravo interno desprovido"(AgInt nos EDcl no AREsp 1.474.268/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/05/2020, DJe 19/05/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. PRESCRIÇÃO. SEGURO SAÚDE. DESPESAS MÉDICAS. REEMBOLSO. PRAZO TRIENAL. APLICABILIDADE. RESSARCIMENTO. ENRIQUECIMENTO SEM CAUSA. REGRAMENTO ESPECÍFICO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O prazo prescricional de 3 (três) anos deve reger as ações fundadas no inadimplemento contratual da operadora que se nega a reembolsar o usuário de seguro saúde ou de plano de saúde por despesas médicas realizadas em procedimento médico coberto. Precedente.
+3. Na hipótese, a instância ordinária decidiu em perfeita consonância com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a incidência da Súmula nº 568/STJ.
+4. Agravo interno não provido"(AgInt no REsp 1.769.697/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/11/2019, DJe 21/11/2019).
+No apelo nobre, aora agravante também argumentouque sua conduta não foi abusiva, pois houve previsão contratual expressa de limitação do reembolso de despesas de procedimentos médicos realizados fora da rede credenciada da seguradora.
+Contudo, o tribunal de origem entendeuque os procedimentos que foram objetoda cobrança estavam incluídos na cobertura contratual, a alteração das conclusões do acórdão demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, procedimentos vedados em recurso especial.
+Inafastável, assim, a aplicação dos óbices das Súmulas nºs 5 e 7/STJ.
+Confira-se:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA REALIZAÇÃO DE CIRURGIAS PÓS-BARIÁTRICA. DANO MORAL AFASTADO NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME DAS PROVAS DOS AUTOS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7, AMBAS DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Rever as conclusões a que chegou o Tribunal estadual quanto a inexistência de dano moral demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em recurso especial, nos termos das Súmulas nºs 5 e 7 do STJ.
+3. A incidência das Súmulas nºs 5 e 7, ambas do STJ, obsta o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido"(AgInt no AREsp 1.647.794/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020).
+Por fim, aagravante, no recurso especial, apontoudivergência jurisprudencial quanto ao valor fixado atítulo de danos morais, porquanto exorbitante a indenização arbitrada em R$ 40.000,00 (quarenta mil reais), trazendo precedente paradigma desta Corte Superior, no qual a condenação foi estabelecida em R$ 20.000,00 (vinte mil reais).
+No entanto, deixou de indicar o dispositivo legal objeto da interpretação divergente, por issoinafastável o óbice da Súmula nº 284/STF.
+Ademais, não prospera a pretensão de reduzir o valor fixado atítulo de danos morais porque, conforme ressaltado pela Corte local, a demanda é composta por 4 (quatro) autores, motivo pelo qual não se revela excessivo o valor indenizatório fixado em R$ 40.000,00 (quarenta mil reais), a ser dividido entre os autores, atendendo aos princípios da razoabilidade e da proporcionalidade.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE DEMONSTRAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. SÚMULA N. 284 DO STF. PLANO DE SAÚDE. RECUSA INDEVIDA. MEDICAMENTO DOMICILIAR. APLICAÇÃO DO CDC. CLÁUSULA ABUSIVA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DANOS MORAIS. VALOR. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Considera-se deficiente a fundamentação de recurso especial que alega violação do art. 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+2. A jurisprudência desta Corte Superior firmou o entendimento de que é "abusiva a recusa de custeio do medicamento prescrito pelo médico responsável pelo tratamento do beneficiário, ainda que ministrado em ambiente domiciliar"(AgInt no AREsp 1.433.371/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2019, DJe 24/9/2019).
+3. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83 do STJ).
+4. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+5. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+6. Agravo interno a que se nega provimento"(AgInt no AREsp 1.615.038/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/9/2020, DJe 1º/10/2020).
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. DANOS MORAIS CONFIGURADOS. REEXAME DE PROVAS. SÚMULA 7/STJ. DISPOSITIVO LEGAL IMPERTINENTE. SÚMULA N. 284/STF. AGRAVO NÃO PROVIDO.
+1. É inviável o recurso especial no qual são apontados dispositivos infraconstitucionais dissociados das razões de pedir, a teor da Súmula 284/STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de compensação por danos morais, quando ínfimo ou exagerado. Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo-se às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno a que se nega provimento"(AgInt no AgInt no AREsp 1.595.752/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/09/2020, DJe 24/09/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE MATERIAL PARA PROCEDIMENTO CIRÚRGICO PRESCRITO. DOENÇA COBERTA PELO PLANO. CONDUTA ABUSIVA. DANO MORAL. OCORRÊNCIA. VALOR DA INDENIZAÇÃO FIXADO COM RAZOABILIDADE. SÚMULA 7/STJ.
+1. Descabida a negativa de cobertura de procedimento indicado pelo médico como necessário para preservar a saúde e a vida do beneficiário do plano de saúde. Precedentes do STJ.
+2. A recusa indevida pela operadora do plano de saúde em fornecer o material necessário para a cirurgia, devidamente prescrito para o tratamento de doença coberta pelo plano, configurou danos morais indenizáveis, pois "não bastasse o sofrimento físico da autora, ainda teve de suportar a dor psíquica do constrangimento e da humilhação, ante a demora na autorização do referido procedimento".
+3. Montante indenizatório pelos danos morais estabelecido pelo Tribunal de origem que não se mostra excessivo, a justificar sua reavaliação em recurso especial. Incidência da Súmula 7/STJ.
+4. Agravo Interno não provido"(AgInt no REsp 1.837.756/PB, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 31/08/2020, DJe 04/09/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. TRATAMENTO. PREVISÃO CONTRATUAL. RECUSA INDEVIDA. ATO ILÍCITO. DANOS MORAIS. INDENIZAÇÃO. CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. VALOR ARBITRADO. REEXAME. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, rever as conclusões do tribunal de origem quanto à existência de ato ilícito demandaria o revolvimento fático dos autos, procedimento obstado em virtude do disposto na Súmula nº 7/STJ.
+3. A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório, e não que se colham novas conclusões acerca dos elementos informativos do processo.
+4. A jurisprudência deste Tribunal Superior está consolidada no sentido de que há direito ao ressarcimento do dano moral oriundo da injusta recusa de cobertura securitária médica. Aplicação da Súmula nº 83/STJ.
+5. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por esta Corte quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos, em que arbitrado em R$ 10.000,00 (dez mil reais).
+6. Agravo interno não provido"(AgInt no AREsp 1.450.601/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/02/2020, DJe 20/02/2020).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
