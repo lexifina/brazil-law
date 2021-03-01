@@ -1,0 +1,27 @@
+DECISÃO
+Cinge-se a controvérsia sobre ação de cobrança ajuizada por ADMINISTRADORA JARDIM ACAPULCO LTDA. (JARDIM ACAPULCO) contra JAIRO GREGORIO DE FREITAS e VALERIA MENDRONI DE FREITAS (JAIRO e VALERIA), objetivando o recebimento da importância de R$ 107.138,64 (cento e sete mil, cento e trinta e oito reais e sessenta e quatro centavos), referente às taxas de manutenção do loteamento.
+O Magistrado de 1º Grau julgou parcialmente procedente o pedido para condenarJAIRO e VALERIA, solidariamente, ao pagamento do débito apontado na inicial, com a exclusão dos débitos anteriores a 13/6/2008 (e-STJ, fls. 448/450).
+O Tribunal bandeirantedeu provimento ao recurso de apelação deJAIRO e VALERIA para julgarimprocedente a pretensão inicial, em acórdão da relatoria do Des. JOÃO FRANCISCO MOREIRA VIEGAS assim ementado:
+AÇÃO DE COBRANÇA - Associação de Moradores - Condomínio Atípico - Cotas resultantes de despesas em prol da Segurança e conservação de área comum - Prescrição - Pretensão de cunho pessoal que não se amolda as hipóteses previstas no art. 206 do Código Civil - Aplicação do artigo 205 do Código Civil - Cobrança de quem não é associado - Impossibilidade- Consoante precedentes dos Tribunais Superiores, "as taxas de manutenção criadas por associação de moradores, não podem ser impostas a proprietário de imóvel que não é associado, nem aderiu ao ato que instituiu o encargo - Autora que não comprovou a adesão - Recurso dos réus provido e parcialmente provido o recurso da autora (e-STJ, fl. 607).
+Os embargos de declaração opostos porJARDIM ACAPULCO foram rejeitados (e-STJ, fls. 632/637).
+JARDIM ACAPULCO interpôs recurso especial com fundamento no art. 105, III, alíneasaec, da CF, apontando dissídio jurisprudencial e violação dos arts. 489, § 1º, III, e 1.022, ambos do NCPC, 884 e 886, ambos do CC/02, e 26 e 29 da Lei nº 6.766/79. Sustentou, em síntese, (1) omissão/contradição no acórdão recorrido quanto (1.a) ao cabimento da tese sedimentada nos REsps nºs 1.280.871/SP e 1.439.163/SP, pois não se está falando em liberdade de associação; (1.b) à demonstração de adesão inequívoca dos recorridos; e(1.c)à cláusula contratual que obriga os demandados ao pagamento das taxas de manutenção (art. 29 da Lei nº 6.766/79); (2)o presente processo possui particularidades que não amoldam à tese fixadas nos recursos especiais representativos, incidindo a teoria dodistinguishing; (3)enriquecimento ilícito de JAIRO e VALERIA pelos serviços prestados sem a devida contraprestação.
+Apresentadas contrarrazões (e-STJ, fls. 640/658), o recurso foi admitido na origem (e-STJ, fls. 676/678).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+1) Da negativa de prestação jurisdicional
+O Tribunal bandeirante, ao analisar os embargos de declaração, incorreu em omissão consubstanciada na alegação(i) de quea tese sedimentada nos REsps nºs 1.280.871/SP e 1.439.163/SP não é aplicável ao caso dos autos, pois não se está falando em liberdade de associação;(ii) da demonstração de adesão inequívoca dos recorridos; e (iii)da existência de cláusula contratual que obriga os demandados ao pagamento das taxas de manutenção (art. 29 da Lei nº 6.766/79).
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se o TJSP a se manifestar sobre a questão federal terminou por negar prestação jurisdicional à Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Fica prejudicadaa análise das demais violações apontadas.
+Nessas condições, DOU PROVIMENTO recurso especial, determinando o retorno dos autos ao TJSP para que analise as questões trazidas nos embargos de declaração, como entender de direito.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO CIVIL PÚBLICA.CÉDULAS DE CRÉDITO RURAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. OMISSÃO. RECURSO ESPECIAL PROVIDO.
