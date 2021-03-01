@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição, interposto por EDSON SILVEIRA FILHO em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado da Bahia, assim ementado:
+"APELAÇÕES CÍVEIS SIMULTÂNEAS - PLANO DE SAÚDE COLETIVO  GEAP  RELAÇÃO DE CONSUMO CONFIGURADA  INCIDÊNCIA DAS NORMAS PROTETIVAS - PREVALÊNCIA SOBRE REGRA DO REGULAMENTO INTERNO  PROBLEMAS ADMINISTRATIVOS ENTRE A PRESTADORA DE SERVIÇOS E A COOPERATIVA DE MÉDICOS QUE NÃO PODEM PREJUDICAR O ATENDIMENTO AOS FILIADOS  DEVER DE  GARANTIR DANOS A SAÚDE DO PACIENTE BENEFICIADO MORAIS NÃO CONFIGURADOS  AUSÊNCIA DE PROVAS NOS AUTOS  ESPECIFICIDADE DO CASO - APELOS IMPROVIDOS 1. Ao colocar à disposição de seus beneficiários prestação de serviços de atendimento médico hospitalar, a GEAP se equipara a plano privado de assistência à saúde, sendo a atividade securitária objeto dos autos abrangida pelo Código de Defesa do Consumidor, consoante disposição do artigo 3º. § 2º, devendo suas cláusulas obedecer às regras dispostas na legislação consumerista, de modo a evitar eventuais desequilíbrios entre as partes, especialmente em virtude da hipossuficiência do consumidor em relação ao fornecedor, máxime no caso em tela onde o autor é idoso.
+2. Não pode o regulamento da apelante se sobrepor às leis de defesa do consumidor, devendo a interpretação de seus termos ser vista de acordo com mais favorável ao consumidor, parte mais fraca na relação e que apenas aderiu às regras que lhe foram apresentadas.
+3. O associado adimplente tem direito de receber o tratamento médico mais eficiente para o pronto restabelecimento de sua saúde, máxime quando se está diante de risco de morte e encontra procedimento cirúrgico adequado a seu tratamento.
+4. Associado que não pode ser atingido por problemas administrativos havidos entre a parte ré e a cooperativa CARDIOTÓRAX, que não são objeto da ação inicial.
+5. Danos morais não comprovados nos autos.
+6. Apelos improvidos." (fl. 312)
+Nas razões do apelo, o usuário do plano de saúde aponta violação aos arts. 186, 927 do Código Civil, 6º, VI, 39, 51, IV e XI, §§ 1º e 2º, do CDC e dissídio jurisprudencial, sustentando, em síntese, que a negativa de cobertura de tratamento médico expressamente previsto no contrato de plano de saúde gera dano moral ao consumidor, independentemente da necessidade de prova do efetivo abalo.
+Contrarrazões às fls. 374/382.
+É o relatório.
+Com efeito, o Tribunal de origem julgou improcedente o pedido de indenização por danos morais ao autor, por entender que este deixou de provar a culpa da operadora do plano de saúde pela demora na efetivação do procedimento cirúrgico requerido na inicial; além disso, a Corte anotou que a pretensão do autor foi prontamente atendida pelo Judiciário com a concessão de medida liminar, evitando eventual agravamento do risco à sua saúde. Destacam-se trechos do acórdão recorrido a esse respeito:
+"De forma surpreendente, ambas as partes não comprovaram a realização ou não do procedimento em cumprimento da ordem judicial liminar, em que data foi realizada a cirurgia.
+Na verdade ambas as partes admitem que houve pedido e impossibilidade de realização de cirurgia administrativamente, mas nenhuma das partes trouxe aos autos documentos que comprovem excessos ou outros dados que permitissem perceber a efetiva ocorrência de dano à moral da parte autora.
+Acrescento que, de fato, tornou-se também incontroverso a existência da cooperativa dos cardiologistas e os prejuízos que a mesma pode gerar a planos de saúde por impor valores que julga corretos sem os quais, sem pagamento, não se realizam as cirurgias.
+A tese de defesa é negativa, de não existência de negativa de pedido de onde redunda que a prova recai sobre a autoria por não poder o plano ser submetido a "prova diabólica - .
+Seria impor ao plano de saúde prova do que sustenta não ocorreu.
+Estes requerimentos são formulados pelos segurados e contam com cópias que ficam em posse daqueles que os requerem.
+Não há nos autos sequer um documento ou correspondência dirigida ao plano, urna cobrança administrativa, uma tentativa de contato, notificação ou algo que o valha e que demonstre minimamente a existência de tentativa administrativa.
+Não havendo nos autos mínima prova de verossimilhança entre os fatos alegados e a efetiva ocorrência do evento apontado como danoso resta afastada, máxime quando a negativa dos fatos devolve o ônus probatório ao consumidor.
+Tendo preferido socorrer-se imediatamente do Judiciário e tendo o pleito liminarmente atendido com internamento, tratamento e sucesso do mesmo no período inicialmente indicado não há danos morais a serem indenizados." (fls. 327/328)
+Nesse aspecto, não tendo sido provada situação de agravamento psicológico causado ao autor, em decorrência da prática da operadora do plano, deve ser mantida a improcedência do pedido de indenização. Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE COBERTURA DE TRATAMENTO MÉDICO. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. DANOS MORAIS. PEDIDO DE REDUÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE.
+1. Ação de obrigação de fazer c/c indenização por danos morais, fundada na indevida negativa de cobertura do tratamento prescrito.
+2. A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+3. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso. Dano moral mantido em R$20.000,00.
+4. Agravo interno nos embargos de declaração no recurso especial não provido.
+(AgInt nos EDcl no REsp 1842234/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)"
+Incidente, portanto, o óbice da Súmula n. 83/STJ.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários devidos ao advogado do recorrido de 10% para 11% do valor da causa, observado o benefício da gratuidade da justiça deferido ao recorrente.
+Publique-se.
