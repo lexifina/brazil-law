@@ -1,0 +1,7 @@
+DECISÃO
+Às fls. 2.552-2.553 (e-STJ), as recorrentes ELECTRONIC ARTS NEDERLAND B.V. e OUTRA informam que em 24/11/2020, por ocasião do julgamento, dos REsps 1.861.295/SP e 1.861.289/SP, a Quarta Turma do STJ acolheu sua tese sobre o termo inicial do prazo prescricional corresponder ao lançamento ou edição dos jogos eletrônicos para videogames, sendo irrelevante a continuidade da comercialização de edições anteriores por terceiros. Aduzem a juntada posterior de cópia doscorrespondentes acórdãos quando forem publicados.
+É o relatório. Decido.
+O acórdão recorrido eorecurso especial não analisaram a contagem do prazo prescricional, mas apenas o cabimento do agravo de instrumento contra decisão acerca da prescrição. Daí porque, pordecisão monocrática desta relatoria de fls. 2.546-2.549 (e-STJ), o recurso especial foi parcialmente provido, a fim dedeterminaro retorno dos autos ao Tribunal de origem para o julgamento do agravo de instrumento que não havia sido conhecido em tal hipótese e, logicamente, sem que tenha ocorrido o julgamento daquela matéria de mérito.
+Nesse contexto, é incompreensível a arguição sobre o termo inicial do prazo prescricional nesta instância, ainda mais por meio de expediente que não é recurso.
+Diante do exposto, não há nada a decidir.Cumpra-sea determinação de devolução dos autos à origem para o julgamento do agravo de instrumento, nos termos da decisão proferida às fls. 2.546-2.549 (e-STJ), tão logo certificado o seu trânsito em julgado.
+Publique-se.
