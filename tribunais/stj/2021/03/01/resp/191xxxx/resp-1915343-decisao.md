@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado:
+PREVIDENCIÁRIO: APOSENTADORIA POR IDADE. TRABALHADOR RURAL. INÍCIO DE PROVA MATERIAL INSUFICIENTE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. RESP REPETITIVO 1352721/SP. HONORÁRIOS ADVOCATÍCIOS.
+1. A ausência de prova material apta a comprovar o exercício da atividade rural caracteriza carência de pressuposto de constituição e desenvolvimento válido do processo a ensejar a sua extinção sem exame do mérito.
+2. Honorários de advogado a cargo da autora, que deu causa à extinção do processo sem resolução do mérito, observada a gratuidade da Justiça deferida nos autos.
+3. Remessa oficial não conhecida. De ofício, processo extinto sem resolução de mérito.
+Apelação prejudicada.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aoart. 1.022 do CPC, por omissão no jugado:
+O Recorrente inconformado com o acórdão opôs embargos de declaração, afirmando que após análise do voto da Relatora Desembargadora Federal verificou-se omissão ao ignorar convincente prova testemunhal produzida no feito, e que, segundo a jurisprudência dominante, é suficiente para o reconhecimento do tempo de serviço rural, desde que amparada em início de prova material, e no caso concreto o Recorrente juntou aos autos documentos que comprovam a sua atividade rural, complementado por documentos dos filhos que também atestam o convívio com o Recorrente na mesma fazenda.
+Alega, ainda, violação dos arts. art. 373, I, e art. 1.013 do CPC, sob o argumento de que houve início de prova materialmediante a juntada de documentação comprobatória do labor rural, amparada por suficiente prova testemunhal, conforme conclusão do juízo daprimeira instância.
+Transcorreu in albis o prazo para apresentação de contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.2.2021.
+Caso em que, na origem, o recorrente ajuizou Ação Previdenciária com pedido de concessão de aposentadoria híbrida por idade, julgada procedente pelo juízoa quo.
+A sentença foi reformada, com o argumento de que a parte autora não teria acostado documentos para comprovar o labor rural no período de carência - em que pese ter afirmado a juntada de comprovação de atividade campesiana -, e extintaa ação sem julgamento do mérito, por falta de interesse processual:
+Diz a petição inicial que a parte autora laborou durante toda a vida na área rural, tanto na condição de diarista (boia-fria), como em regime de economia familiar, alternando com pequenos períodos de atividade urbana, e que desde 2013 trabalha como pescador profissional.
+Assim, ajuizou a presente ação pretendendo a concessão da aposentadoria por idade rural, prevista no artigo 48, §§1º e 2º, da Lei nº 8.213/91, in verbis:
+(..)
+Para a obtenção da aposentadoria por idade, deve o requerente comprovar o preenchimento dos seguintes requisitos: (i) idade mínima e (ii) efetivo exercício da atividade rural, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, por tempo igual ao da carência exigida para a sua concessão, sendo imperioso observar o disposto nos artigos 142 e 143, ambos da Lei nº 8.213/91.
+Feitas essas considerações, no caso concreto, a idade mínima exigida para a obtenção do benefício restou comprovada pela documentação trazida aos autos, onde consta que a parte autora nasceu em , implementando o requisito etário em 19/06/1952 2012.
+E, para comprovar o labor rural, o autor acostou aos autos os seguintes documentos: certidão de casamento em 1976, onde está qualificado como rurícola; certidão de nascimento do filho em 1979, sem indicação de sua profissão; histórico escolar do filho; cadastro eleitoral, carteirinha de pescador profissional com o primeiro registro em 2013.
+Emerge dos autos que o conjunto probatório é insuficiente à comprovação do efetivo exercício pela parte autora da atividade rural pelo período de carência exigido.
+Com efeito, a parte autora deveria ter comprovado o labor rural, mesmo que de forma descontínua, no período imediatamente anterior ao implemento da idade, ao longo de, ao menos, meses, conforme 180 determinação contida no art. 142 da Lei nº 8.213/91.
+E, no caso, ela não logrou acostar nenhum documento em seu nome capaz de caracterizar início de prova material do trabalho rural no período de carência.
+O acórdão diverge do entendimento do Superior Tribunal de Justiça.
+Isso porque, no julgamento do Recurso Especial Representativo da Controvérsia 1.674.221/SP, fixou-se a tese de que "otempo de serviço rural, ainda que remoto e descontínuo, anterior ao advento da Lei 8.213/1991, pode ser computado para fins da carência necessária à obtenção da aposentadoria híbrida por idade, ainda que não tenha sido efetivado o recolhimento das contribuições, nos termos do art. 48, § 3º da Lei 8.213/1991, seja qual for a predominância do labor misto exercido no período de carência ou o tipo de trabalho exercido no momento do implemento do requisito etário ou do requerimento administrativo."
+A propósito:
+PREVIDENCIÁRIO. MATÉRIA DEFINIDA SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. APOSENTADORIA HÍBRIDA. ART. 48, §§ 3º. E 4º. DA LEI 8.213/1991. PREVALÊNCIA DO PRINCÍPIO DE ISONOMIA A TRABALHADORES RURAIS E URBANOS. MESCLA DOS PERÍODOS DE TRABALHO URBANO E RURAL. EXERCÍCIO DE ATIVIDADE RURAL, REMOTO E DESCONTÍNUO, ANTERIOR À LEI 8.213/1991 A DESPEITO DO NÃO RECOLHIMENTO DE CONTRIBUIÇÃO. CÔMPUTO DO TEMPO DE SERVIÇO PARA FINS DE CARÊNCIA. DESNECESSIDADE DE COMPROVAÇÃO DO LABOR CAMPESINO POR OCASIÃO DO IMPLEMENTO DO REQUISITO ETÁRIO OU DO REQUERIMENTO ADMINISTRATIVO.
+(..)
+2. O Recurso Especial combatia decisum da Corte a quo no tocante à concessão de aposentadoria por idade híbrida nos termos do artigo 48, § 3º, da Lei 8.213/1991, para tanto considerando como preenchidos os requisitos com tempo de atividade rural laborado em tempos remotos, anteriores à edição da Lei 8.213/1991.
+3. Cabe ressaltar que o STJ decidiu a questão, sob a sistemática dos repetitivos, sendo firmada a seguinte tese: "O tempo de serviço rural, ainda que remoto e descontínuo, anterior ao advento da Lei 8.213/1991, pode ser computado para fins da carência necessária à obtenção da aposentadoria híbrida por idade, ainda que não tenha sido efetivado o recolhimento das contribuições, nos termos do art. 48, § 3o. da Lei 8.213/1991, seja qual for a predominância do labor misto exercido no período de carência ou o tipo de trabalho exercido no momento do implemento do requisito etário ou do requerimento administrativo". (REsp 1.674.221/SP, Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 4/9/2019; REsp 1.788.404/PR, Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 4/9/2019)
+4. Agravo em Recurso Especial não provido.
+(AREsp 1537749/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/10/2019, DJe 05/11/2019)
+Ressalte-se que o STJ entende que a prova material juntada aos autos possui eficácia probatória tanto para o período anterior quanto para o posterior à data do documento, desde que corroborado por prova testemunhal idônea.
+No caso dos autos, o acórdão impugnado foi expresso ao expor que o autor comprovou a atividade rural através da juntada de documentos, mas entendeu serem esses insuficientes:
+E, para comprovar o labor rural, o autor acostou aos autos os seguintes documentos: certidão de casamento em 1976, onde está qualificado como rurícola; certidão de nascimento do filho em 1979, sem indicação de sua profissão; histórico escolar do filho; cadastro eleitoral, carteirinha de pescador profissional com o primeiro registro em 2013.
+Emerge dos autos que o conjunto probatório é insuficiente à comprovação do efetivo exercício pela parte autora da atividade rural pelo período de carência exigido.
+A exigência de provas materiais para períodos posteriores ao advento da Lei 8.213/1991 não encontra respaldo na legislação nem na jurisprudência do STJ, que prevê que a comprovação do exercício de atividade rural pode ser efetuada mediante início de prova material, complementada por robusta prova testemunhal.
+Nesse sentido:
+PREVIDENCIÁRIO. SEGURADO ESPECIAL. APOSENTADORIA. REQUISITOS: IDADE E COMPROVAÇÃO DA ATIVIDADE AGRÍCOLA NO PERÍODO IMEDIATAMENTE ANTERIOR AO REQUERIMENTO. PROVA MATERIAL COMPLEMENTADA POR PROVA TESTEMUNHAL.
+(..)
+2. É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual, para a concessão do benefício de aposentadoria por idade rural, é necessário o preenchimento de forma concomitante dos requisitos de idade (55 anos de idade para mulher e 60 anos para homem) e de carência, previstos nos arts. 48 e 143 da Lei n. 8.213/91.
+3. Ressalta-se que o STJ entende que a prova material juntada aos autos possui eficácia probatória tanto para o período anterior quanto para o posterior à data do documento, desde que corroborado por prova testemunhal idônea.
+4. No caso dos autos, a Corte de origem asseverou que, "ainda que o autor tenha demonstrado seu labor rural, estes foram expedidos há tempos antigos, não restando prova material do seu labor rural após o advento da lei de benefícios (Lei nº 8.213/91) e no período imediatamente anterior a data do seu implemento etário que se deu no ano de 2013".
+5. A exigência de provas materiais para períodos posteriores ao advento da Lei 8.213/1991 não encontra respaldo na legislação nem na jurisprudência do STJ, que prevê que a comprovação do exercício de atividade rural pode ser efetuada mediante início de prova material, complementada por robusta prova testemunhal.
+6. Destaca-se que o Tribunal a quo entendeu pela necessidade de recolhimento de contribuições no período de carência exigido (180 meses) e pela não incidência da dispensa de contribuições previstas nos arts. 142 e 143 da Lei 8.213/1991.
+7. O final do prazo de 15 (quinze) anos estabelecido na norma transitória do art. 143 da Lei 8.213/91 não prejudica os segurados especiais, para os quais há previsão legal específica nos termos do artigo 39, inciso I, da Lei 8.213/91, que assegura a concessão do benefício de aposentadoria por idade no valor de um salário mínimo.
+8. Se a aposentadoria por idade rural exige apenas a comprovação do trabalho rural em determinada quantidade de tempo, tal situação deve ser considerada para fins do cômputo da carência, não sendo, portanto, exigível o recolhimento das contribuições da atividade campesina.
+9. Conclui-se que o aresto objurgado está em dissonância com a jurisprudência do Superior Tribunal de Justiça, razão pela qual sua reforma é medida que se impõe.
+10. Recurso Especial provido.
+(REsp 1655409/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2017, DJe 02/05/2017)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. RURAL. INÍCIO DE PROVA MATERIAL. VALIDADE DOS DOCUMENTOS EM NOME DO CÔNJUGE, DESDE QUE COMPLEMENTADA COM ROBUSTA PROVA TESTEMUNHAL. EFICÁCIA PROBATÓRIA DOS DOCUMENTOS APRESENTADOS. PERÍODO ANTERIOR E POSTERIOR. PEDIDO DE SUSPENSÃO DO FEITO. REPETITIVO COM TESE DIVERSA.
+1. O labor campesino, para fins de percepção de aposentadoria rural por idade, deve ser demonstrado por início de prova material e ampliado por prova testemunhal, ainda que de maneira descontínua, no período imediatamente anterior ao requerimento, pelo número de meses idêntico à carência.
+2. São aceitos, como início de prova material, os documentos em nome do cônjuge que o qualifiquem como lavrador, desde que a prova documental seja complementada com robusta e idônea prova testemunhal.
+3. No julgamento do Resp 1.348.633/SP, da relatoria do Ministro Arnaldo Esteves Lima, submetido ao rito do art. 543-C do CPC, esta Corte, examinando a matéria concernente à possibilidade de reconhecimento do período de trabalho rural anterior ao documento mais antigo apresentado, consolidou o entendimento de que a prova material juntada aos autos possui eficácia probatória tanto para o período anterior quanto para o posterior à data do documento, desde que corroborado por robusta prova testemunhal.
+(..) 5. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1550637/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/10/2015, DJe 16/10/2015, grifou-se)
+Dessa forma, por estar dissonante do entendimento desta Corte Superior, deve ser reformado o aresto proferido na origem.
+Por tudo isso, dou parcial provimento ao Recurso Especial para restabelecer a sentença.
+Publique-se.
+Intimem-se.
