@@ -1,0 +1,26 @@
+Trata-se de recurso extraordinário interposto em face de acórdão assim ementado:
+    “ADMINISTRATIVO. CONCURSO DE HABILITAÇÃO PARA INSCRIÇÃO NO CURSO DE FORMAÇÃO DE OFICIAIS DO EXÉRCITO BRASILEIRO. QUADRO COMPLEMENTAR. ESPECIALIDADE ENFERMAGEM. LIMITAÇÃO DE IDADE. 36 ANOS NO DIA 31 DE DEZEMBRO DO ANO DA INSCRIÇÃO NO CURSO DE FORMAÇÃO. LEI 12.705/2012, ART. 3º, III, "e". BUSCA DE PROVIMENTO JUDICIAL PARA SE INSCREVER COM 37 ANOS. IMPROCEDÊNCIA.
+    1. O Pleno do STF, no julgamento do RE 600.885, sessão de 09/12/2011, com repercussão geral, decidiu que o art. 142, § 3º, X, da CF, atribui exclusivamente à lei a definição dos requisitos para o ingresso nas Forças Armadas, inclusive quanto a referência constitucional taxativa ao critério de idade.
+    2. A Lei nº 12.705, de 08/08/2012, estabelece os requisitos para ingresso nos cursos de formação de militares de carreira do Exército, e fixa, no seu art. 3º, III, ‘e’, de forma expressa, a idade de 36 (trinta e seis) anos, como limite máximo para o ingresso nos cursos de formação de oficiais do quadro complementar.
+    3. Inexistindo na lei regulamentadora qualquer condição de distinção, não compete ao Judiciário, que não tem função legislativa, criar exceção.
+    4. Aplicação de princípios gerais do direito para decidir a lide somente teria cabimento se houvesse omissão legal, nos termos do art. 4º, do Decreto-Lei nº 4.657, de 04/09/1942 (Lei de Introdução às Normas do Direito Brasileiro).
+    5. Apelação improvida.” (pág. 101 do documento eletrônico 2).
+    Neste RE, fundado no art. 102, III, a, da Constituição, alega-se violação do art. 7º, XXX, da mesma Carta.
+    É o relatório necessário. Decido.
+    A pretensão recursal não merece acolhida.
+    Isso porque o Supremo Tribunal Federal firmou jurisprudência no sentido de que é legítimo o limite de idade quando previsto em lei. Nesse sentido, menciono este precedente:
+    “Agravo regimental no recurso extraordinário com agravo. Concurso público. Fixação de limite etário. Necessidade de previsão em lei e de observância da razoabilidade. Momento da aferição. Inscrição. Precedentes.
+    1. O Tribunal, no ARE n. 678.112/MG, julgado sob a sistemática da repercussão geral, reafirmou a jurisprudência segundo a qual somente se afigura constitucional a fixação de idade mínima em edital de concursos públicos quando respaldada por lei e justificada pela natureza das atribuições do cargo.
+    2. Ausência de razoabilidade na fixação de limite etário de 24 (vinte e quatro) anos para ingresso no cargo de policial militar do estado.
+    3. A Suprema Corte já firmou a orientação de que o requisito etário deve ser comprovado na data da inscrição no certame, e não em momento posterior. Precedentes. 4. Agravo regimental não provido.” (ARE 901.899-AgR/MS, Rel. Min. Dias Toffoli).
+    Outrossim, quanto à natureza e requisitos para ingresso no cargo público, a apreciação do pleito recursal demandaria o reexame da matéria fático-probatória, de cláusulas de edital e da legislação infraconstitucional aplicável à espécie (Lei 12.705/2012). Assim, a alegada contrariedade à Constituição, se houvesse, seria indireta, o que inviabiliza o recurso extraordinário. Incidem, na espécie, as Súmulas 279/STF e 454/STF. Nessa mesma linha de entendimento, seguem alguns julgados desta Corte:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. CONCURSO PÚBLICO. AGENTE DE POLÍCIA. LIMITE DE IDADE. PREVISÃO NA LEI ESTADUAL 5.406/1969. LEGITIMIDADE. CONTROVÉRSIA SOBRE A APLICAÇÃO DA LEI ESTADUAL 113/2010 AO CONCURSO PÚBLICO EM ANÁLISE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICOPROBATÓRIO DOS AUTOS E DE NORMAS LOCAIS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. AGRAVO IMPROVIDO.
+    I - Consoante a jurisprudência desta Corte, o limite de idade para inscrição em concurso público é legítimo quando previsto em lei e possa ser justificado pela natureza das atribuições do cargo a ser preenchido.
+    II - Para divergir do acórdão recorrido quanto à ocorrência, ou não, de revogação do limite etário máximo para ingresso na Polícia Civil do Estado de Minas Gerais e pela aplicação da Lei estadual 113/2000 à espécie, faz-se necessário o reexame do conjunto fático-probatório dos autos e das normas infraconstitucionais locais pertinentes ao caso , o que é vedado pelas Súmulas 279 e 280 do STF.
+    III - Agravo regimental improvido.” (RE 654.175-AgR/MG, de minha relatoria).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. CURSO DE FORMAÇÃO. LIMITE ETÁRIO. NECESSIDADE DO REEXAME DE PROVAS, DO EDITAL E DA LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULAS NS. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA SEGUIMENTO.” (ARE 722.467-AgR/MS, Rel. Min. Cármen Lúcia).
+    “AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. CONCURSO PÚBLICO. OBSERVÂNCIA DAS REGRAS DO EDITAL. IMPOSSIBILIDADE DE ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL E DO REEXAME DE PROVAS E DE CLÁUSULAS EDITALÍCIAS. INCIDÊNCIA DAS SÚMULAS N. 279 E 454 DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.” (AI 829.036-AgR/MG, Rel. Min. Cármen Lúcia).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Brasília, 01 de março de 2021.
+Ministro Ricardo Lewandowski
+Relator
