@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por OI S.A. - EM RECUPERAÇÃO JUDICIAL, contra acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. OFERECIMENTO DE FIANÇA BANCÁRIA ANTES DE EFETUADA PENHORA. EXIGÊNCIA DO ACRÉSCIMO DE 30% DO DÉBITO. §2º DO ART. 656 DO CPC/73. CABIMENTO. RECURSO PROVIDO.
+1- Trata-se de Agravo de Instrumento interposto contra decisão que rejeitou "a alegação de não cumprimento do artigo 656, § 2º do Código de Processo Civil, porque inaplicável aos casos de oferecimento originário de carta de fiança como garantia à execução".
+2- O Código de Processo Civil tem aplicação subsidiária nos processos de Execução Fiscal, conforme o art. 1º da Lei nº 6.830/1980. Da dicção do §2º do art. 656 do CPC/73, restou estabelecida a possibilidade expressa de substituição de penhora realizada nos autos de execução por carta de fiança bancária, desde que acrescida de 30% (trinta por cento) ao valor do débito cobrado.
+4- Por outro giro, certo é a conclusão de que, como ocorreu no caso em apreço, quando do oferecimento voluntário pela parte executada de carta de fiança bancária (art. 15, I, da Lei nº 6.830/80), antes mesmo de efetivada qualquer penhora nos autos, também cabe o acréscimo de 30% ao valor do débito de que trata o art. 656, §2º do CPC/73, pois não tem a carta de fiança, à evidência, o mesmo status que o depósito em dinheiro, devendo, pois, ante a inobservância da ordem preferencial de penhoras (art. 11, da LEF), ser privilegiada a execução em prol do interesse do exequente com a finalidade de satisfação da obrigação executada (art. 612 do CPC/73, atual art. 797 do CPC/15), sem com isso implicar em onerosidade excessiva ao devedor (art. 620 do CPC/73) que, ao contrário, se beneficia por manter a sua disponibilidade financeira e por não sofrer os efeitos negativos da demanda executiva.
+5- Agravo de Instrumento provido" (fl. 122e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 127/136e), os quais restaram rejeitados (fls. 271/275e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aosarts. 620 e 656, § 2º, do CPC/73, sustentando ofensa ao princípio da menor onerosidade e ser desnecessário o "acréscimo de 30% (trinta por cento) à carta de fiança bancária oferecida nos autos da execução fiscal originária" (fl. 279e).
+Por fim, requer o provimento.
+Contrarrazões a fls. 328/330e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 343/346e).
+A irresignação merece prosperar.
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou que:
+"Em que pesem os argumentos trazidos pela parte agravante, não vislumbro motivos que justifiquem a reforma da decisão agravada, vez que, posicionando-me na mesma linha do entendimento externado pelo Douto Juízo de primeiro grau, embora entenda que o art. 656, § 2º do CPC/1973, com redação estabelecida, atualmente, pelo art. 848, parágrafo único, do CPC/2015, possa ser aplicado subsidiariamente, tal regramento legal deve incidir apenas na situação nele prevista, na qual se trata de substituição de penhora já efetivada, sendo que, no caso em exame, não se está diante de penhora efetivada, mas sim, de garantias e requisitos inerentes a fiança bancária oferecida a priori pela parte agravada" (fl. 117e).
+Observa-se que o acórdão recorrido está em desacordo com a jurisprudência do STJ, firmada nosentido de que o acréscimo de 30%, referido no art. 848, parágrafo único,do CPC, aplica-se, em execução fiscal, à hipótese de substituição depenhora, não de penhora originária (como é o caso dos autos).
+Senão, vejamos:
+"PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARADESCONSTITUIR A DECISÃO ATACADA. EXIGÊNCIA MAIS GRAVOSA. SUBSTITUIÇÃO DAPENHORA POR FIANÇA BANCÁRIA. ACRÉSCIMO DE 30%. AUSÊNCIA DE PREVISÃO LEGAL.INAPLICABILIDADE. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em
+09.03.2016, o regime recursal será determinado pela data da publicação do
+provimento jurisdicional impugnado. Assim sendo, "in casu", aplica-se oCódigo de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo oqual a exigência mais gravosa para o executado relativa ao acréscimo de30%, na hipótese de substituição da penhora por fiança bancária ou segurogarantia judicial, não se aplica, em princípio, ao caso da penhorainicial, dada a ausência de previsão legal.
+III - O recurso especial, interposto pelas alíneas "a" e/ou "c" do incisoIII do art. 105 da Constituição da República, não merece prosperar quandoo acórdão recorrido encontra-se em sintonia com a jurisprudência destaCorte, a teor da Súmula n. 83/STJ.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes paradesconstituir a decisão recorrida.
+V - Agravo Interno improvido" (STJ, AgInt no REsp 1.316.037/MA, Rel.Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 22/09/2016).
+"TRIBUTÁRIO. EXECUÇÃO FISCAL. CARTA DE FIANÇA ACRESCIDA DE 30%.SUBSTITUIÇÃO DE PENHORA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. MULTA DE 1% SOBRE O VALOR DACONDENAÇÃO.
+1. A indicada afronta do art. 2º, § 2º, da LINDB não pode ser analisada,pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivolegal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos deDeclaração, haja vista a ausência do requisito do prequestionamento.Incide, na espécie, a Súmula 211/STJ.
+2. A recorrida foi condenada ao pagamento de multa processual no importe
+de 1% sobre o valor atualizado da condenação por reincidir na interposição
+de Embargos Declaratórios com a finalidade de rediscutir a matéria julgada. O Tribunal de origem decidiu corretamente em consonância com osprecedentes do STJ: AgRg no AREsp 559.850/PR, Rel. Ministro Herman
+Benjamin, Segunda Turma, DJe 10/2/2016.
+3. O Tribunal capixaba consignou: "Conforme relatoriado, trata-se derecurso de agravo de instrumento em que o agravante PETRÓLEO BRASILEIROS/A PETROBRAS pretende ver modificada a r. decisão a quo (fls. 76/76V)que, nos autos da ação de execução fiscal 0049675-23.2012.8.08,0030 emface do MUNICÍPIO DE LINHARES/ES acolheu o petitório do ora agravante nosentido de substituir a penhora on line por fiança bancária, a qualacresceu ao débito mais 30% (trinta por cento)".
+4. É importante enfatizar que o STJ possui entendimento de que norma doart. 656, § 2º, do CPC, apesar de seu caráter subsidiário, possuiaplicação nos processos de Execução Fiscal.
+5. Conforme exposto no acórdão impugnado, houve substituição da penhora online por fiança bancária, com o valor atualizado acrescido de 30%, comfulcro no art. do art. 656, § 2º, do CPC; portanto, a decisão está emconformidade com a legislação processual vigente. Diferente do alegado
+pela recorrente, apenas nas hipóteses de garantia originária da dívida fiscal não é razoável exigir acréscimo de 30%. Precedentes: REsp1.556.461/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 3/2/2016);AgRg na MC 24.947/RJ, Rel. Ministro Og Fernandes, Segunda Turma, DJe9/11/2015 e AgRg na MC 24.961/RJ, Rel. Ministra Diva Malerbi(Desembargadora Convocada TRF 3ª REGIÃO), Segunda Turma, DJe 9/12/2015).
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido"
+(STJ, REsp 1.564.097/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJede 24/05/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de afastar a exigência doacréscimo de trinta por cento sobre o valor da garantia.
+I.
