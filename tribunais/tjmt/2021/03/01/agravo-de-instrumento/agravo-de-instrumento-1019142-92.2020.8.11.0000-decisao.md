@@ -1,0 +1,64 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento n. 1019142-92.2020.8.11.0000
+RECORRENTE(s): JOÃO ALVES PEREIRA
+RECORRIDO(s): JANETE MARCIA GOMES DA ROSA, FABIO GOMES ROSA, GEAN HIGOR GOMES ROSA, OSVALDO JUNIOR ROSA GOMES E RAFAEL GOMES ROSA
+Vistos.
+Trata-se de Recurso Especial (ID 68364454) interposto por JOÃO ALVES PEREIRA, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, assim ementado (ID 64379485):
+"AGRAVO DE INSTRUMENTO – CUMPRIMENTO DE SENTENÇA - DECISÃO INTERLOCUTÓRIA QUE DEFERIU PENHORA DE 30% DOS VALORES LÍQUIDOS RECEBIDOS PELO DEVEDOR EM CADA PREFEITURA, ATÉ O LIMITE DO CRÉDITO EXECUTADO – MITIGAÇÃO DA REGRA DE IMPENHORABILIDADE – POSICIONAMENTO DO STJ – PERCENTUAL QUE PRESERVA A DIGNIDADE DO EXECUTADO - DECISÃO MANTIDA – AGRAVO CONHECIDO E DESPROVIDO.
+Não se desconhece o disposto no art. 833, IV, do CPC, no sentido de que a remuneração do devedor é impenhorável, exceto para pagamento de prestação alimentícia e relativamente às importâncias excedentes a cinquenta salários mínimos mensais, égide do § 2o do referido artigo, hipóteses distintas da dos autos.
+Todavia, a jurisprudência do Superior Tribunal de Justiça tem admitido, em casos excepcionais, a constrição de percentual do salário para satisfação de dívida que não se enquadre nas exceções acima elencadas, desde que não haja prejuízo ao sustento do executado.
+A situação excepcional de que trata a jurisprudência está delineada, eis que o Agravante figura como executado, bem ainda não foi encontrado valor suficiente para cobrir a dívida por meio da penhora online, motivo pelo qual, mesmo sendo verba de natureza salarial, é o único numerário encontrado para amortização do débito e pode ser penhorado, limitada a constrição em 30% (tinta por cento) para preservar a subsistência do executado.
+Considerando o “alto salário” do devedor – o qual possui renda bem acima da média nacional, a presente determinação não colocará em risco a subsistência do mesmo, pois a restrição no patamar de 30% terá como parâmetro a sua renda líquida (deduzidos os descontos pré-existentes, tanto obrigatórios como os contratuais).
+Resta evidente, portanto, que se está preservando o suficiente para garantir a sua subsistência e a de sua família, nos exatos termos do entendimento do Superior Tribunal de Justiça". (AI n. 1019142-92.2020.8.11.0000, Desembargador Relator Sebastião de Moraes Filho, Segunda Câmara de Direito Privado, data do julgamento 28.10.2020).
+Na espécie, o recurso foi interposto contra o aresto proferido em sede de Agravo de Instrumento, aviado por JOÃO ALVES PEREIRA, que manteve a decisão do juízo da 8a Vara Cível da comarca de Cuiabá, no sentido de determinar a penhora de 30% da verba salarial do Recorrente, a ser efetuada mensalmente, para pagamento de valor determinado em ação judicial, na qual reconhecida a responsabilidade ao pagamento de danos materiais e morais, que atualmente se encontra em fase de cumprimento de sentença.
+O Recorrente alega violação aos artigos 833, inciso IV, X, e § 2o, do Código de Processo Civil, aos artigos 1694 §1o e 1695, ambos do Código Civil, além de divergência jurisprudencial, ao argumento de que: (a) a verba em questão é impenhorável, não se encaixando em quaisquer exceções previstas em lei aptas ao deferimento do bloqueio ora objurgado, (b) não foi observado o binômio necessidade/ possibilidade de custeio, posto que a penhora de 30% sobre seus salários implica em violação à sua subsistência digna.
+Recurso tempestivo (ID 68407977) e preparado (ID 71753469).
+Sem contrarrazões (ID 74930991).
+É o relatório.
+Decido.
+1- Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+2- Decisão em conformidade com o entendimento do STJ (Súmula 83 STJ) e apreciação de fatos e provas (Súmula 07 STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+O Recorrente alega que é inviável a penhora de 30% sobre seus vencimentos, posto que não recebe valor superior a 50 salários-mínimos, tão menos a dívida em questão ostenta caráter alimentar, situações que, em tese, justificariam a excepcionalidade do bloqueio.
+No acórdão impugnado ficou consignado que:
+“Inicialmente, friso que não se desconhece o disposto no art. 833, IV, do CPC, no sentido de que a remuneração do devedor é impenhorável, exceto para pagamento de prestação alimentícia e relativamente às importâncias excedentes a cinquenta salários-mínimos mensais, égide do § 2o do referido artigo, hipóteses distintas da dos autos.
+Todavia, a jurisprudência do Superior Tribunal de Justiça tem admitido, em casos excepcionais, a constrição de percentual do salário para satisfação de dívida que não se enquadre nas exceções acima elencadas, desde que não haja prejuízo ao sustento do executado.
+(...) A impenhorabilidade, portanto, não pode ser utilizada como refúgio para o devedor descumprir suas obrigações.
+A situação excepcional de que trata a jurisprudência está delineada, eis que o Agravante figura como executado, bem ainda não foi encontrado valor suficiente para cobrir a dívida por meio da penhora online, motivo pelo qual, mesmo sendo verba de natureza salarial, é o único numerário encontrado para amortização do débito e pode ser penhorado, limitada a constrição em 30% (tinta por cento) para preservar a subsistência do executado.
+Por fim, considerando o 'alto salário' do devedor – o qual possui renda bem acima da média nacional – (ID 57246489) a presente determinação não colocará em risco a subsistência do mesmo, pois a restrição no patamar de 30% terá como parâmetro a sua renda líquida (deduzidos os descontos pré-existentes, tanto obrigatórios como os contratuais).
+Resta evidente, portanto, que se está preservando o suficiente para garantir a sua subsistência e a de sua família, nos exatos termos do entendimento do Superior Tribunal de Justiça.
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que, em situações peculiares, é possível a penhora sobre o salário do executado fora das hipóteses previstas em lei, desde que preservado o suficiente para garantia de sua subsistência e da sua família, conforme se extrai da ementa do julgado abaixo:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. PENHORA DO PERCENTUAL DE 15% DA APOSENTADORIA E DA PENSÃO. IMPOSSIBILIDADE DE MACULAR A SOBREVIVÊNCIA DO DEVEDOR E DE SUA FAMÍLIA. PRÉVIA APURAÇÃO ACERCA DE BENS PARA SALDAR A DÍVIDA. SÚMULA 7/STJ. CABIMENTO DA CONSTRIÇÃO. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Consoante o STJ, 'não há que se falar na flexibilização da impenhorabilidade com base, unicamente, no disposto no art. 833, IV, § 2o, do CPC/2015, porque a própria evolução jurisprudencial não impede que tal mitigação ocorra nas hipóteses em que os vencimentos, subsídios, soldos, etc. sejam inferiores a 50 (cinquenta) salários mínimos. O que a nova regra processual dispõe é que, em regra, haverá a mitigação da impenhorabilidade na hipótese de as importâncias excederem o patamar de 50 (cinquenta) salários mínimos, o que não significa dizer que, na hipótese de não excederem, não poderá ser ponderada a regra da impenhorabilidade' (EDcl nos EREsp 1.518.169/DF, Rel. Ministra Nancy Andrigui, Corte Especial, julgado em 21/5/2019, DJe 24/5/2019).
+2. A segunda instância atestou que a penhora do percentual de 15% dos montantes decorrentes da pensão e da aposentadoria não interferiria no sustento do devedor e de sua família, razão por que não haveria óbice à sua implementação. Essas conclusões, além de terem sido fundadas na apreciação fática da causa (aplicação da Súmula 7/STJ), estão de acordo com o entendimento deste Tribunal Superior sobre a questão, atraindo a aplicação da Súmula 83/STJ.
+3. Agravo interno desprovido". (AgInt no REsp 1815052/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/03/2020, DJe 20/03/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. PENHORA SOBRE SUBSÍDIO. IMPENHORABILIDADE. REGRA. EXCEÇÕES DISPOSTAS NO ART. 833, § 2o, DO CPC/2015. PAGAMENTO DE VERBA NÃO ALIMENTAR. GANHOS DO EXECUTADO SUPERIORES A 50 (CINQUENTA) SALÁRIOS MÍNIMOS. COMPROVAÇÃO DO CARÁTER ALIMENTAR DA VERBA. REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA No 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a regra geral da impenhorabilidade dos valores depositados na conta bancária em que o executado recebe a sua remuneração, situação abarcada pelo art. 833, § 2o, do CPC/2015, pode ser excepcionada quando o montante do bloqueio se revele razoável em relação à remuneração por ele percebida, não afrontando a dignidade ou a subsistência do devedor e de sua família.
+3. No caso, o tribunal local determinou a penhora de 30% (trinta por cento) da verba localizada na conta-corrente do executado, sendo viável a penhora do referido valor, pois preenchidas as condições para excepcionar a regra geral de impenhorabilidade.
+4. Os agravantes não se desincumbiram do ônus de comprovar o caráter alimentar da verba previdenciária. Rever tal conclusão demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula no 7/STJ.
+5. Agravo interno não provido". (AgInt no AREsp 1541492/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/03/2020, DJe 07/04/2020). (g.n.)
+Desse modo, deve ser aplicado o referido verbete sumular quanto à suposta afronta aos artigos 833 incisos IV e X do CPC, visto que o entendimento exposto no acórdão recorrido se encontra em sintonia com a orientação sedimentada no STJ.
+Por outro giro, ainda que superado o óbice supramencionado, é importante frisar que nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+Portanto, evidente que a análise da impenhorabilidade do salário do devedor, bem como o eventual ferimento ao binômio necessidade/possibilidade de custeio (artigos 1694 §1 e 1695 do CC), em cotejo a constatação da situação excepcional descrita pelo órgão ora recorrido, depende do revolvimento da matéria fático probatória, o que atrai o óbice sumular acima mencionado.
+Para ilustrar:
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIO.
+RELATIVIZAÇÃO DA REGRA DE IMPENHORABILIDADE. POSSIBILIDADE.
+1. Ação ajuizada em 25/05/2015. Recurso especial concluso ao gabinete em 25/08/2016. Julgamento: CPC/73.
+2. O propósito recursal é definir se, na hipótese, é possível a penhora de 30% (trinta por cento) do salário do recorrente para o pagamento de dívida de natureza não alimentar.
+3. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+Precedentes.
+4. Na espécie, em tendo a Corte local expressamente reconhecido que a constrição de percentual de salário do recorrente não comprometeria a sua subsistência digna, inviável mostra-se a alteração do julgado, uma vez que, para tal mister, seria necessário o revolvimento do conjunto fático-probatório dos autos, inviável a esta Corte em virtude do óbice da Súmula 7/STJ.
+5. Recurso especial conhecido e não provido". (REsp 1658069/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/11/2017, DJe 20/11/2017).
+Neste esteio, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, NEGO SEGUIMENTO ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
