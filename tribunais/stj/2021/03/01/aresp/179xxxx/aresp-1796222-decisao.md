@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTE DO TRABALHO - Benefício acidentário Sequelas no 3º dedo da mão esquerda Presentes o nexo ocupacional e a redução permanente da capacidade para o labor, o trabalhador faz jus ao auxílio-acidente.
+D.I.B. Auxílio-acidente devido a partir do dia seguinte a cessação do auxílio-doença (03.11.2016).
+Benefício concedido sob a égide da Lei nº 9.528/97.
+JUROS DE MORA - Contados da citação (31.08.2018), em conformidade com a Lei nº 11.960/2009.
+CORREÇÃO MONETÁRIA - Incidência do IPCA-E, com observância dos Temas nº 810 do S.T.F. e nº 905 do S.T.J..
+Apelo autárquico, desprovido - Recurso de ofício parcialmente provido.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 502 do CPC, no que concerne à ocorrência da coisa julgada em razão de já ter sido discutido o nexo causal entre a incapacidade do recorrido e a atividade exercida, independentemente da nova ação invocar razão acidentária, trazendo o(s) seguinte(s) argumento(s):
+Ao contrário do assumido pelo v. acórdão, a coisa julgada formada na Justiça Especial Federal é válida e produz efeitos, não importando que a parte agora invoque razão acidentária. Assim está redigido o art. 502 do Código de Processo Civil de 2015: "Art. 502. Denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito, não mais sujeita a recurso." (g.n.) O v. aresto ignorou o preceito contido na r. decisão transitada em julgado, em que o laudo médico, endossado pelo magistrado, avaliou incapacidade passível de indenização por benefício previsto em lei de caráter PREVIDENCIÁRIO (fl. 131).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 18 da Lei n. 8.213/91, no que concerne à inexistência de diferença entre benefício "acidentário" e "previdenciário", trazendo o(s) seguinte(s) argumento(s):
+A lei não discrimina se o benefício é "previdenciário" ou "acidentário", pois o que importa é o grau de incapacidade a ser avaliado. Da mesma forma, quando especifica os benefícios, nada consta acerca da diferenciação que se tornou comum fazer entre benefícios que, na verdade são exatamente iguais.
+ ..
+Assim, não existe diferença de pedido ou causa de pedir ao se pleitear um beneficio ora invocando que tal é "acidentário" ora dizendo que é "previdenciário" pois a causa de pedir sempre será a incapacidade invocada e o pedido sempre será o benefício descrito na lei (simplesmente auxílio-doença, auxílio-acidente ou aposentadoria por invalidez). O questionamento sobre se o acidente se deu ou não no labor é meramente uma questão de COMPETÊNCIA JUDICIAL e define qual será o Tribunal julgador, nada tendo a ver com o conceito jurídico de pedido e causa de pedir.
+ ..
+De tal forma, ao ingressar na Justiça Federal, fixou-se a competência no tocante à análise do beneficio cabível, não podendo, agora, o segurado inovar tentando ajuizar ação idêntica quando já está preclusa a questão atinente ao nexo causal (fls. 132-134).
+É, no essencial, o relatório. Decido.
+Quanto à ambas as controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor dos honorários sucumbenciais que serão fixados em liquidação de sentença, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
