@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se derecurso especialfundamentado no artigo 105, inciso III, alíneas "a" e "c", daConstituição Federal, interpostocontra acórdão proferido pelo Tribunal deJustiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. CONTRATO DE CRÉDITOPESSOAL CONTRATO DE CÉDULA DE CRÉDITOBANCÁRIO - CHEQUE ESPECIAL VINCULADO ACONTA CORRENTE. SUPERENDIVIDAMENTO DEDIREITO E DE FATO. BOA-FÉ OBJETIVA NUMAVERSÃO DE EQUIDADE E ABUSO DE DIREITO.PECULIARIDADE DO CASO CONCRETO EM QUESE FIXA TAXA DOS JUROS REMUNERATÓRIOS EM12% AO ANO.
+1. Dos juros remuneratórios. Cuida-se de açãorevisional cujo objeto se consubstancia nocontrato de "Cédula de Crédito Bancário -cheque especial" firmado em 08/07/2010, emque a parte autora pretende a declaração denulidade das cláusulas abusivas com aconseqüente readequação dos parâmetrosinsertos nas avenças.No caso concreto, o autor é instalador daempresa Brasil Telecom, e demonstrou suarenda atual através do holerite, o saláriomensal bruto da quantia de R$ 1.215,82, nomês de outubro/2015, e litiga sob pálio da AJG.Na época, em que foi aprovada a Proposta deAbertura de Conta Corrente, ocorrida em30/07/2010, os rendimentos da parte autoraeram de R$ 594,72.
+Quanto ao contrato, foram juntados aos autos aProposta de Abertura de Conta Corrente(cheque especial), cláusulas gerais, e osextratos da conta corrente, referentes a todoperíodo de movimentação bancária (julho/2010até novembro/2014). Denota-se ao longo dotempo, que o réu concedeu empréstimos,incompatíveis com a renda mensal do autor,sendo que nos extratos da movimentação daconta corrente (Outubro/2014), consta saldonegativo no valor de R$ - 2.679,31. Caso em queos juros remuneratórios ficam limitados em 12%ao ano, nos contratos avençados.
+2. Capitalização dos juros. É possível a cobrançada capitalização dos juros em periodicidadeinferior a anual, consoante entendimentoconsolidado do STJ (Resp. n 2 1.388.972/SC),necessária expressa previsão contratual.No caso dos autos, como não há cláusulaexpressa no contrato que prevê a capitalizaçãodos juros, de forma clara e específica, os jurosdevem ser computados de forma simples semcapitalização.
+3. IOF: Imposto previsto em lei, cujo valor érepassado à União. Não é indevida à inclusão dovalor do IOF de modo financiado sem apossibilidade de pagamento a vista domontante, quando ausente prova deabusividade ou onerosidade excessiva, como nocaso em exame.
+4. Comissão de permanência. Permitida desdeque expressamente prevista e não cumuladacom correção monetária e demais encargosmoratórias e remuneratórios. Súmulas nº. 30,294 e 296 do STJ.
+5. Dos juros e multa. Em caso deinadimplemento, incidem os juros moratórios nopercentual de 1% ao mês, acrescido de multano percentual de 2% sobre o valor do débito,consoante o disposto no artigo 52, § 1º, do CDC.
+6. Repetição do indébito/compensação: Admitidana forma simples, conforme Súmula nº. 322 doSTJ. Autorizada a compensação.
+7. Da Descaracterização da mora. Devidamentedescaracterizada a mora da parte autora, emvirtude da alteração de encargos previstos parao período da normalidade contratual, segundoorientação nº. 02 do STJ.
+POR MAIORIA, DERAM PARCIAL PROVIMENTO AOAPELO" (fls. 209/210 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+O Tribunal de origem, em juízo de retratação, manteve o acórdão anteriormente proferido (fls. 290/298 (e-STJ).
+O recorrente alega violação dos arts. 5º da Medida Provisória nº2.170-36/01, 1º a 5º do Decreto 22.626/1933, 1º e 4º, IX, da Lei nº4.595/1994, 406 e 591 do Código Civil.Pleiteia a reforma do acórdão quanto aos seguintes tópicos:
+a) os juros remuneratórios devem ser cobrados conforme pactuados,
+b) é possível a capitalização diária dos juros e
+c) não é cabível o afastamento da mora.
+Sem contrarrazões, o recurso foi admitido.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+A irresignação merece prosperar em parte.
+As instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada pela Lei de Usura (Decreto nº22.626/33), em consonância com a Súmula nº 596/STF, sendo também inaplicável o disposto no art. 591, c/c o art. 406, do Código Civil para esse fim, salvo nas hipóteses previstas em legislação específica.
+A redução dos juros dependerá de comprovação da onerosidade excessiva -capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes, de modo que a simples estipulação de juros remuneratórios superiores a 12% (doze por cento) ao ano, por si só, não indica abusividade, nos termos da Súmula nº 382 do Superior Tribunal de Justiça(STJ).
+Nesse sentido, o REsp nº 1.061.530/RS, da relatoria da Ministra Nancy Andrighi, submetido ao regime dos recursos repetitivos, julgado pelaSegunda Seção, com a seguinte ementa, na parte que interessa:
+"DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. (..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que aabusividade (capaz de colocar o consumidor em desvantagem exagerada  art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto".
+No caso presente, tendo em vista que o acórdão recorrido concluiu, por maioria, por aplicar a média de mercado segundo apurado pelo Banco central, decidiu de acordo com a jurisprudência desta Corte.
+Nesse sentido:
+"CONTRATOS BANCÁRIOS. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA.LIMITAÇÃO A 12% AO ANO. INCIDÊNCIA DA SÚMULA N.º 382/STJ.
+1. A estipulação de juros remuneratórios acima de 12% ao ano, por si só, não configura abusividade (Súmula 382/STJ). Isso porque os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto n.º 22.626/33 (Lei de Usura), nos termos daSúmula 596/STF. Com efeito, eventual abusividade na cobrança de juros remuneratórios deve ser episodicamente demonstrada, sempre levando-se em consideração a taxa média cobrada no mercado.
+2. Reconhecida a abusividade no caso concreto, os juros remuneratórios devem ser fixados à taxa média do mercado.
+3. Recurso especial parcialmente provido".
+(REsp 618.918/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 20/05/2010, DJe 27/05/2010 - grifou-se).
+No julgamento do REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, restou decidido que nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, admite-se a capitalização dos juros em periodicidade inferior a um ano, desde que pactuada de forma clara e expressa, assim considerada quando prevista a taxa de juros anual em percentual pelo menos doze vezes maior do que a mensal, consoante se colhe da ementa de referido julgado:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS.DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura)em intervalo inferior a um ano e permitida pela Medida Provisória2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC: - "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n.1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada." - "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido" (Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012).
+Na hipótese dos autos, o acórdão recorrido afirma terem sido pactuadas as taxas de 9,6600% ao mês e 202,39700% ao ano (fl. 213 e-STJ), considerando-se contratado o encargo nos termos da jurisprudência citada.
+Quanto à descaracterização da mora, foi identificada nos autos a contratação de taxa de juros superior à média de mercado segundo apurada pelo Banco Central, que à época era de 167,29% ao ano (fls. 159/160 e fl. 239 e-STJ).
+Desse modo, havendo a cobrança indevida de encargos no período da normalidade contratual, não há que se falar em afastamento da mora.
+No mesmo sentido:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CÉDULA DE CRÉDITO BANCÁRIO. DESCARACTERIZAÇÃO DA MORA. COBRANÇA DE QUANTIAS INDEVIDAS NO PERÍODO DA NORMALIDADE CONTRATUAL.
+1. A constatação de abuso na exigência de encargos durante o período da normalidade contratual afasta a configuração da mora. Na hipótese dos autos, o acórdão declarou que foram cobradas quantias indevidas a título de correção monetária e de despesas e honorários extrajudiciais.
+2. Agravo regimental não provido."
+(AgRg no AREsp 443.637/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA,TERCEIRA TURMA, julgado em 05/02/2015, DJe 12/02/2015)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL. REVISIONAL. CONTRATOS BANCÁRIOS. CAPITALIZAÇÃO MENSAL. JUROS. FALTA PREQUESTIONAMENTO. COMISSÃO DE PERMANÊNCIA. PERMITIDA. NÃO CUMULADA COM OS DEMAIS ENCARGOS MORATÓRIOS. MORA DESCARACTERIZADA. PROIBIÇÃO DE INSCRIÇÃO DO NOME DO DEVEDOR EM CADASTROS RESTRITIVOS DE CRÉDITO.A REPETIÇÃO DO INDÉBITO E A COMPENSAÇÃO DE VALORES PRESCINDEM DA PROVA DOERRO. DECISÃO MANTIDA.
+1. A matéria pertinente à capitalização de juros não foi objeto de discussão na decisão impugnada. Portanto, não se configura o prequestionamento, o que impossibilita a análise da questão ante o óbice da Súmula 282 do STF.
+2. Consoante entendimento assente na 2ª Seção desta Corte Superior, admite-se a comissão de permanência durante o período de inadimplemento contratual, à taxa média dos juros de mercado, limitada ao percentual fixado no contrato (Súmula nº 294/STJ), desde que não cumulada com os demais encargos moratórios. Precedentes.
+3. No caso ora em análise, verificada a existência de encargo abusivo no período da normalidade do contrato está descaracterizada a mora do devedor. Desse modo, inviável a inscrição de seu nome nos cadastros de inadimplência. (REsp n. 1.061.530, Segunda Seção, Rel.Min. Nancy Andrighi, julgado em 22/10/2008).
+4. A jurisprudência desta Corte Superior é assente no sentido de que a compensação de valores e a repetição de indébito são cabíveis sempre que verificado o pagamento indevido, em repúdio ao enriquecimento ilícito de quem o receber, independentemente da comprovação do erro. Precedentes.
+5. Agravo regimental não provido."
+(AgRg no AREsp 439.666/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 06/05/2014, DJe 13/05/2014)
+Ante o exposto,dou parcial provimento aorecurso especial paradeclarar a legalidade da capitalização mensal no caso, mantida a sucumbência fixada na origem.
+Publique-se.
+Intimem-se.
