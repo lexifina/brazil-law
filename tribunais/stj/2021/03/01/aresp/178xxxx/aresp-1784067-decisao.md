@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por MAGDA BORGES EVANGELISTA, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+ACIDENTÁRIA Bancária Transtornos psicológicos Dúvida quanto à redução da capacidade laborativa e quanto ao liame ocupacional Caso em que, convertido o julgamento em diligência, a nova perícia concluiu pela ausência de incapacidade laborativa Improcedência mantida Recurso desprovido.
+Os embargos de declaração opostos foram improvidos.
+No recurso especial, o recorrente apontou como violado os arts. 20, 21, 21-A, 59 e 86da Lei n. 8.213/1991 e 139, 156, 369, 370 e 480 do CPC/2015, sustentando, em síntese, que (i) houve cerceamento de defesa do segurado ao ser indeferido o pedido de realização de novo laudo pericial e que (ii) é devida a concessão do auxílio-acidente ao segurado, tendo em vista que restou comprovado o nexo de causalidade entre a lesão sofrida e a atividade laboral desempenhada pelo particular.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 7 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Com relação ao suposto cerceamento de defesa, o Tribunal de origem, baseado no conjunto probatório dos autos, consignou expressamente que "as incertezas que pairavam nos autos foram espancadas pela nova perícia, cujo resultado afigura-se suficientemente fundamentado, merecendo prevalecer sobre os pareceres do assistente técnico da obreira.".
+No que concerne à necessidade de concessão do auxílio-acidente, é irrefutável que o Tribunal de origem, também ao apreciar o conteúdo fático e probatório dos autos, atestou que "não há elementos no exame psiquiátrico e na documentação médica apresentada que permitam apontar que a parte autora esteja incapacitada.".
+Dessa forma, para rever tais posições, relativas à ausência de cerceamento de defesa e à suposta comprovação do nexo de causalidade entre a lesão sofrida e a atividade laboral desempenhada pelo segurado, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
