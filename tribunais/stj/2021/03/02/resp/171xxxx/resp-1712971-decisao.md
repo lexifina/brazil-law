@@ -1,0 +1,39 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por CAIXA DE PREVIDENCIA DOS FUNCS DO BANCO DO BRASIL, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE NÃO FAZER - SENTENÇA QUE DEU PROCEDÊNCIA AO PEDIDO DE LIMITAÇÃO DE DESCONTOS EM FOLHA DE PAGAMENTO DO AUTOR A 30% DOS SEUS PROVENTOS - CDC - APLICABILIDADE AO CASO - POSSIBILIDADE DE LIMITAÇÃO DOS DESCONTOS POR FORCA DA APLICAÇÃO DO DISPOSTO NA LEI 10.620/03 - SENTENÇA MANTIDA - RECURSO DE APELAÇÃO CONHECI DO E DESPROVI DÓ.
+Em suas razões recursais, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos 104, 122, 138, 166 e 402 do Código Civil; no Decreto-Lei 4.840/2003 e na Lei 10.820/2003.
+Sustenta a validade dos empréstimos tomados pela parte recorrida, de livre e espontânea vontade, de acordo com os preceitos legais vigentes, não ferindo qualquer norma de direito. Argumenta que o Recorrido contratou tais empréstimos de forma livre e espontânea, ciente das cláusulas e dos montantes a serem adimplidos futuramente, deixando de conferir razoabilidade às suas pretensões de responsabilizar a entidade Ré pelo descumprimento de sua obrigação.
+Defende não ser a Lei 10.820/2003 aplicável ao caso, pois a recorrente é entidade fechada de previdência complementar sem fins lucrativos, "ou seja, não é instituição financeira e nem sociedade de arrendamento mercantil, bem como a relação entre as partes aqui discutida não é regida pela Consolidação das Leis do Trabalho".
+Não foram apresentadas contrarrazões ao recurso especial, consoante certidão à fl. 453.
+Crivo positivo de admissibilidade na origem (fls. 461-463).
+É o relatório.
+DECIDO.
+2. Acerca do Decreto-Lei 4.840/2003 e da Lei 10.820/2003, o recorrente não indicou os dispositivos legais eventualmente violados pelo acórdão recorrido, não observando, portanto, a técnica própria de interposição do recurso especial. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento deste STJ. Aplicação da Súmula 284/STF.
+3. Os presentes autos tratam de limitação de descontos facultativos em folha de pagamento para pagamento de parcelas de empréstimo.
+Ao analisar a demanda, a Corte de origem consignou:
+2. - A limitação dos descontos e aplicação da Lei 10.820/03 Igual sorte socorre a Apelante ao postular a reforma da sentença por entender pela impossibiIidade de limitação dos descontos porque observado o disposto na Lei 1.046/50, que os admite em até 70% dos proventos e pela inaplicabilidade ao caso do disposto nas Leis 10.820/03, 82013/91 e do Enunciado 71. do TJRJ.
+Inicialmente, o art. 6º A da Lei 10820/06, não deixaria margem de dúvidas quanto a sua aplicabilidade às entidades de previdência complementar, pelo que a limitação de descontos em folha não poderia ultrapassar o limite de 30%, conforme bem observado pelo magistrado singular. Leia-se:
+(..)
+E, por mais que referido excerto legal tenha iniciado sua vigência em momento posterior à interposição da demanda (em razão do quo não seria possível aplicá-Io ao feito), para os fins aqui discutidos as entidades de previdência privada são equiparadas às instituições financeiras e, uma vez a elas equiparadas, também não restaria dúvida quanto à aplicabilidade das suas disposições no caso dos autos, o que confirma a correção da sentença ao determinar a limitação dos descontos a 30% dos proveitos percebidos pelo Apelado.
+Note-se, ainda que, ao contrário do afirmado nas razões recursais e como bem apontado pelo magistrado singular, a Lei 1.048/50 não se aplicaria ao caso, em especial porque a Apelante não se enquadra entro as possíveis consignatárias previstas no seu art. 5º:
+(..) Por outro lado, o En. 71, do TJRJ, foi aplicado ao caso por simples analogia e enquanto reforço argumentativo, o que afasta a efetiva necessidade de grande ilação quanto ao fato de mencionar descontos em conta corrente ao invés de descontos em folha de pagamento, afora o fato de que foi utilizado de maneira favorável à Apelante, justamente para afastar o pleito de restituição de valores pretéritos.
+No mais, é pacífico que os descontos realizados em folha de pagamento não podem ultrapassar o limite máximo de 30% dos rendimentos percebidos pela parte, sob pena de ofensa ao princípio da dignidade da pessoa humana. Neste sentido, já se manifestam o Superior Tribunal de Justiça e este E. Tribunal de Justiça:
+(..) E, considerando que os descontos dos dois empréstimos realizados em folhaultrapassem o montante de 50% dos proventos (vide, por exemplo, o doc. no mov. 1.1/i), não há dúvidas quanto ao acerto da sentença ao entender procedente a pretensão do Apelado. (fls. 423-427 e-STJ)
+Nesse aspecto, observa-se que o acórdão estadual ao limitar em 30% (trinta por cento) os descontos na folha de pagamento do devedor, decorrente de empréstimo contratado, decidiu em conformidade com a jurisprudência desta Casa.
+A esse respeito, confira:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Esta Corte Superior já reconheceu a validade da cláusula contratual que autoriza o desconto em folha de pagamento das parcelas do contrato de mútuo, pois é circunstância especial facilitadora da concessão do crédito em condições de juros e prazos mais vantajosos para o mutuário. Todavia, deve ser limitado a 30% dos rendimentos do trabalhador, tendo em vista o seu caráter alimentar e sua imprescindibilidade para manutenção do mutuário.
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1048796/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/10/2019, DJe 11/10/2019)
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. DESCONTOS DE EMPRÉSTIMO EM FOLHA. LIMITAÇÃO A 30% DOS DESCONTOS CONSIGNADOS DO SERVIDOR PÚBLICO ESTADUAL. POSSIBILIDADE. NORMATIZAÇÃO FEDERAL QUE NÃO COLIDE COM A NORMA ESTADUAL. RECURSO DESPROVIDO.
+1. É válida a cláusula que autoriza o desconto em folha de pagamento da prestação de empréstimo contratado, desde que não ultrapasse o limite de 30% do salário bruto do devedor, excluídos os valores relativos ao imposto de renda e fundo previdenciário.
+2. "Não há antinomia entre a norma estadual e a regra federal, pois os artigos 2º, § 2º, I, da Lei 10.820/2003; 45 da Lei 8.112/90 e 8º do Decreto 6.386/2008, impõem limitação ao percentual de 30% apenas à soma das consignações facultativas" (REsp 1.169.334/RS, Quarta Turma, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 29/9/2011).
+3. Agravo regimental desprovido. (AgRg no RMS 30.821/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/12/2013, DJe 04/02/2014) __________
+4. Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Intimem-se. Publique-se.
+EMENTA
+RECURSO ESPECIAL.PROCESSO CIVIL E DIREITO CIVIL.DECRETO-LEI 4.840/2003 E DA LEI 10.820/2003. DISPOSITIVO VIOALDO. FALTA DE ESPECIFICAÇÃO. SÚMULA 284/STF.CONTRATO DE MÚTUO. DESCONTO EM FOLHA DE PAGAMENTO.LIMITAÇÃO EM 30%.
+1. Os descontos de empréstimos na folha de pagamento do servidor são limitados ao percentual de 30% dos vencimentos, por se tratar de verba de natureza alimentar. Precedentes.
+2. Recurso especial conhecido em parte e não provido.
