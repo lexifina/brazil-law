@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por PRODERJ - CENTRO DE TECNOLOGIA DE INFORMAÇÃO E COMUNICAÇÃO DO ESTADO DO RIO DE JANEIRO, com respaldona alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado (e-STJ fl. 111):
+REVISÃO DE VENCIMENTOS URV CONVERSÃO. PRESCRIÇÃO. SÚMULA Nº 85/STJ
+Revisional proposta por servidor aposentado através - - da qual pretende a reposição das diferenças salariais decorrentes do Programa de Estabilização Econômica implantado pela Medida Provisória nº 43411994, que ao determinar a conversão dos vencimentos percebidos em URV, reduziu seus vencimentos no percentual de 11,98%.
+Requer a reposição das perdas, além das parcelas vencidas, observando-se o quinquênio.
+No que tange à prejudicial de mérito, o inconformismo não merece guarida, visto que é reiterado o entendimento de que, em sendo prestações de trato sucessivo, a prescrição atinge, tão somente, as parcelas anteriores aos cinco anos do ajuizamento da ação.Sumula nº 85/STJ
+O autor foi admitido no serviço público em 02/01/1986. Assim, quando houve a conversão de cruzeiroreal/URV/realno ano de 1994, pela aplicação da Lei na 8.880194 e das medidas provisórias de nº 434 e457, sua remunernção foi reduzida no percentual de 11,98%.
+A jurisprudência é pacífica no sentido de que a conversão deve observar as regras estabelecidas pela Lei na 8.880194, que determina que, para os cálculos, deve-se utilizar a data do pagamento, sob pena de redução salarial, conforme o disposto no art. 25 da citada lei.
+Recurso manifestamente improcedente. Seguimento negado.
+Embargos de declaração rejeitados (e-STJ fls. 154/155).
+Em suas razões, a parte recorrente aponta violação do art. 1º do Decreto n. 20.910/1932, afirmando a ocorrência da prescrição de fundo de direito.
+Sem contrarrazões.
+Juízo de retratação às e-STJ fls. 312/316, em que mantida a decisão.
+Juízopositivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 330/334.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Conforme entendimento pacificado no STJ, nas hipóteses de pleito de diferenças salariais oriundas da conversão de cruzeiros reais para URV, por configurar relação de trato sucessivo, incide a prescrição apenas em relação às parcelas vencidas no quinquênio anterior ao ajuizamento da ação, nos termos da Súmula 85 do STJ.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DOS SEUS PROVENTOS EM URV. PRESCRIÇÃO. SÚMULA 85/STJ. AGRAVO INTERNO DO ESTADO DE MATO GROSSO A QUE SE NEGA PROVIMENTO.
+1. Nos casos em que a pretensão envolve o pagamento de vantagem pecuniária de trato sucessivo, cujas prestações se renovam mensalmente, quando não tiver sido negado o próprio direito reclamado, não ocorre a prescrição do fundo de direito, mas tão somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, nos termos da Súmula 85 do STJ.
+2. Agravo Interno do ESTADO DE MATO GROSSO a que se nega provimento.
+(AgInt no AREsp 1681661/MT, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 16/11/2020, DJe 19/11/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. DIFERENÇAS SALARIAIS DECORRENTES DA CONVERSÃO EM URV. TRATO SUCESSIVO. SÚMULA 85/STJ. SISTEMÁTICA PREVISTA NA LEI 8.880/1994. PAGAMENTO NO FINAL DO MÊS. MATÉRIA SUBMETIDA AO RITO DO ARTIGO 543-C DO CPC/1973. DATA DO FECHAMENTO DA FOLHA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. O entendimento jurisprudencial do Superior Tribunal de Justiça em pleitos de diferenças salariais originadas da conversão de cruzeiros reais para URV é de que não se opera a prescrição do fundo de direito, mas apenas das parcelas vencidas antes do quinquênio anterior ao ajuizamento da ação, por configurar-se relação de trato sucessivo, conforme disposto na Súmula 85/STJ: "Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do qüinqüênio anterior à propositura da ação." 2. A orientação jurisprudencial do Superior Tribunal de Justiça, firmada no julgamento do REsp 1.101.726/SP, submetido ao rito do artigo 543-C do CPC/1973, é pela necessária observação da sistemática contida na Lei 8.880/94 para a adoção da URV, sendo que o suporte fático ao direito subjetivo em questão é o efetivo pagamento da remuneração/proventos ocorrer no final do mês.
+3. O Tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou (fl. 171, e-STJ): "No caso, o Estado não logrou provar que a data na qual houve o fechamento da folha salarial, bem com a URV aplicada na hipótese, descumprindo o disposto no art. 373, inciso II do CPC/2015." 4. Assim, modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+5. No tocante à divergência jurisprudencial, o dissenso deve ser comprovado, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a colação de trechos do relatório e do voto dos acórdã os recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. No caso dos autos, verifico que não foram respeitados tais requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ), o que impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+6. Agravo Interno não provido.
+(AgInt no REsp 1776074/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/11/2019, DJe 19/12/2019)
+In casu, o aresto hostilizado não diverge da orientação aludida.
+Assim, aplica-sena hipótesea Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
