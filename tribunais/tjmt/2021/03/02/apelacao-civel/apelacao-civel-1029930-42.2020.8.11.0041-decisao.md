@@ -1,0 +1,24 @@
+DECISÃO MONOCRÁTICA
+RECURSO DE APELAÇÃO CÍVEL – EMBARGOS DE TERCEIRO - SENTENÇA DE EXTINÇÃO – CERCEAMENTO DE DEFESA – OCORRÊNCIA – POSSE SOBRE O BEM – NÃO DEMONSTRADA – NECESSIDADE DE PRODUÇÃO DE PROVA - RECURSO CONHECIDO E PROVIDO.
+1 - Ocorre o cerceamento de defesa, quando prematuramente o processo é extinto por ausência de provas.
+Vistos, etc.
+Trata-se de recurso de apelação cível de n. 1029930-42.2020.8.11.0041 interposto por MARIO MARCIO DE OLIVEIRA em face de sentença proferida na “AÇÃO DE COBRANÇA DE SEGURO PRESTAMISTA C.C RESTITUIÇÃO DE VALORES”, onde litiga com BRADESCO VIDA E PREVIDENCIA S.A. perante a 2a Vara Especializada em Direito Bancário da Comarca de Cuiabá – Mato Grosso.
+Prolatada a sentença que consta sob ID. 74303962 o magistrado de piso não acolheu o pedido inicial, com fundamento no que dispõe o artigo 487–I do Código de Processo Civil, e, considerando que a parte requerente, ora apelante, é beneficiária da justiça gratuita, isentou-a do pagamento das custas, despesas processuais e honorários advocatícios.
+Em suma, aduz o apelante sob ID. 74303967 cerceamento de defesa por não realização de perícia médica judicial, uma vez que invalidez suscitada na inicial, a qual só pode ser comprovada após realização da perícia médica judicial, o que impede o julgamento do mérito antes da apuração da referida incapacidade; que o direito a indenização integral é justificado em face de sua incapacidade para desempenhar seu trabalho, sua profissão.
+Contrarrazões sob ID. 74303975.
+Síntese necessária.
+Conheço do recurso manejado, pois presentes os requisitos intrínsecos e extrínsecos de admissibilidade.
+DA PRELIMINAR DE CERCEAMENTO DE DEFESA.
+Sustenta a parte apelante que foi cerceada de seu direito de defesa quando não foi oportunizado produzir provas de seus alegados.
+Razão lhe assiste.
+O juiz pode apreciar livremente as provas e documentos carreados nos autos, em obediência ao princípio do livre convencimento motivado, quando em decisão fundamentada indefere produção de prova, seja ela testemunhal, pericial ou documental, todavia, a presente demanda está calcada em matéria factual, que pode ser demonstrada através do deslinde processual, inclusive realização de perícia médica.
+A sentença foi baseada ausência de documentos que comprovasse a invalidez permanente e total da parte demandante, inclusive dispensando a produção de provas que poderiam suprir os motivos ensejadores da improcedência da presente ação, cessando a marcha processual de forma prematura.
+É certo de que o CPC traz a possibilidade de realização de perícia médica em sede judicial, ou seja, é possível a utilização dessa ferramenta para a produção de prova para melhor elucidação da versão trazida na exordial, que, por conseguinte permitira ao magistrado melhores condições de proferir a sentença.
+Em consonância com o principio da ampla defesa, do contraditório e do devido processo legal, deve-se permitir às partes a prática dos atos necessários à comprovação de suas assertivas, para que o Julgador, com isso, decida de forma coerente com tudo aquilo que foi devidamente produzido nos autos. - Configura cerceamento de defesa o julgamento antecipado da lide sem oportunizar ao Autor o direito de produzir prova que possa ser relevante ao desfecho da lide.
+A jurisprudência não destoa:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA CARACTERIZADO. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. O laudo do órgão previdenciário oficial atestando a incapacidade laboral do segurado não o exonera de demonstrar efetivamente que se encontra inválido, total ou parcialmente, para fins de percepção de indenização fundada em contrato de seguro privado. 3. Na hipótese, o cerceamento de defesa está caracterizado diante do indeferimento, pelo tribunal local, da produção de perícia médica, capaz de aferir a incapacidade do autor para fins securitários, não sendo suficiente a utilização do parecer médico da Junta Superior de Saúde da Aeronáutica como única prova para atestar a invalidez do segurado, visto a sua presunção apenas relativa. 4. Agravo interno não provido.” (STJ - AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AgInt no AREsp 1150278 DF 2017/0211479-0 - Data de publicação: 20/02/2020).
+Isto posto, CONHEÇO do recurso e DOU-LHE PROVIMENTO, no sentido de determinar o retorno dos autos a sua origem para regular processamento e produção de provas da parte apelante.
+Publique-se para conhecimento e, transcorrido o prazo recursal sem qualquer irresignação, realizem-se as anotações e baixa de estilo para arquivamento destes autos.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho.
+= r e l a t o r =
