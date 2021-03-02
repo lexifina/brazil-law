@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de revisão criminal, com pedido liminar, impetrado em favor de JEFFERSON BATISTA DOS SANTOScontra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 12 anos e 6 meses de reclusão, em regime inicial fechado, como incurso no artigo 157, parágrafo 2º, inciso II e § 2º-A, inciso I, do Código Penal.
+O Tribunal a quo negou provimento aos recursos defensivo e ministerial, nos seguintes termos:
+"Apelações. Crimes de roubo majorado pelo emprego de arma e concurso de agentes em concurso formal. Sentença condenatória. Recursos da defesa. 1. Quadro probatório suficiente para firmar a condenação dos apelantes. Autoria e materialidade comprovadas. 2. Presentes as causas de aumento relativas ao emprego de arma de fogo e concurso de agentes. 3. Hipótese de concurso formal. Afastamento do pedido de reconhecimento de crime único. 4. Não configuração da participação de menor importância do corréu Natan. Protagonista da empreitada criminosa. 5. Sanções que não comportam alteração. Recursos desprovidos." (e-STJ, fl. 65)
+Neste writ, o impetrante sustenta, em síntese, que "a absolvição do denunciado, nos termos do 386, V e VII do Código de Processo Penal, é medida justa, visto não existirem provas suficientes e robustas para a condenação da acusada, bem como não existirem provas de ter a acusada concorrido para a infração penal" (e-STJ, fl. 21).
+Sustenta a desconsideração da agravante do emprego de arma de fogo, pois estaria a todo momento ficara fora do local do crime, não tendo acompanhado a abordagem das vítimas e não estando em momento algum armado.
+Requer, ao final, a concessão da ordem para que o paciente seja absolvido por falta de provas e subsidiariamente, afastada a causa de aumento de arma de fogo, igualmente, por falta de provas, adequando, se for o caso, o regime imposto.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do revisão criminal, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso, não se observa flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Primeiramente, o habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente ou alteração de classificação típica em razão de conclusões acerca do contexto fático, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ASSOCIAÇÃO PARA O TRÁFICO. FINANCIAMENTO DO TRÁFICO. RECURSO ESPECIAL PELA DIVERGÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO PARADIGMA EM HABEAS CORPUS. IMPOSSIBILIDADE. CONDENAÇÃO. BUSCA E APREENSÃO. INTERCEPTAÇÃO TELEFÔNICA. PROVA ORAL JUDICIAL E EXTRAJUDICIAL. REEXAME PROBATÓRIO. SÚMULA N.º 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A Corte estadual, com fundamento nos elementos do caderno fático-probatório, entre eles os testemunhos policiais e os resultados das diligências de busca e apreensão e de interceptação telefônica, concluiu pela comprovação da autoria e da materialidade dos crimes de associação para o tráfico e de financiamento do tráfico. A revisão da condenação exigiria, portanto, amplo reexame fático-probatório, o que não é possível no recurso especial, conforme se extrai da Súmula n.º 7/STJ.
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp n. 1804625/RO, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 05/06/2019).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.DOSIMETRIA. TRÁFICO DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO DO DELITO DE ASSOCIAÇÃO. INADMISSIBILIDADE NA VIA ELEITA.NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. PENA-BASE DOS CRIMES ACIMA DO MÍNIMO LEGAL. VALORAÇÃO NEGATIVA DA CULPABILIDADE. POSIÇÃO DE LIDERANÇA. FUNDAMENTAÇÃO ESCORREITA. ABRANDAMENTO DO REGIME PRISIONAL. PLEITO PREJUDICADO. NÃO ALTERAÇÃO DO QUANTUM DA PENA.PENA SUPERIOR A 8 ANOS DE RECLUSÃO. OBSERVÂNCIA DO ART. 33, § 2º, ALÍNEA "A", DO CÓDIGO PENAL - CP. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As instâncias ordinárias, com base no exame exauriente das provas dos autos, sobretudo as circunstâncias do delito, entenderam que o paciente praticava tráfico e associação para o tráfico de drogas. Ademais, para se afastar a materialidade do delito de associação para o tráfico, é necessário o reexame aprofundado de provas, inviável em sede de habeas corpus.
+ ..
+5. Habeas corpus não conhecido." (HC n. 502.868/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 20/05/2019)
+Nesse contexto, se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, haver prova da materialidade de autoria do crime de roubo, cometido mediante utilização de arma de fogo, inviável nesta célere via do habeas corpus, que exige prova pré-constituída, pretender conclusão diversa.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
