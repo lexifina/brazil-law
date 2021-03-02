@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fls. 260-261, e-STJ):
+ADMINISTRATIVO. ANP. DUPLA VISITA. LEI COMPLEMENTAR Nº 123/06. MULTA REDUZIDA.
+1. Mantidas as autuações pelas irregularidades apontadas, visto que a própria LC 123/2006 menciona expressamente que a dupla visita está limitada a "quando a atividade ou situação, por sua natureza, comportar grau de risco compatível com esse procedimento", o que não é o caso dos autos.
+2. Em relação ao valor da multa, deve prevalecer o princípio da razoabilidade, e reconhecimento da excessividade da multa imposta, sendo pertinente acolher a pretensão de redução desse quantum, para montante global aquém do mínimo previsto no art. 3º da Lei nº 9.847/99.
+Os Embargos de Declaração foram rejeitados (fl. 301, e-STJ).
+Aponta a parte recorrente, em Recurso Especial, violação dos arts. 489 e 1022 do CPC. Defende:
+O erro de fato do Tribunal de origem vicia a conclusão pela mera e simples possibilidade de redução da pena aquém do mínimo, já que de cominação no mínimo não se trata, ante o agravamento decorrente da pluralidade de condutas (cinco), elevando a multa do inciso VIII do art. 3º da Lei 9847/99 de R$ 20.000,00 para R$ 100.000,00.
+O tribunal de origem simplesmente optou por silenciar quanto ao ponto, limitando-se a afastar qualquer lacuna na decisão.
+Não houve, contudo, o exame da matéria especificamente arguida e necessária ao deslinde da lide.
+Portanto, violado o art. 1022 do CPC, razão pela qual impõe seja declarada nula a decisão guerreada, o que se requer.
+Contrarrazões às fls. 321-329 , e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 26 de fevereiro de 2021.
+Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 271-274):
+A empresa sofreu autuação, por terem sido constatadas, no momento da  scalização, irregularidades por infração aos incisos VIII e XV do art. 3º, sopesando e ponderando as demais circunstâncias previstas no art. 4º da Lei n.º 9.847/99 (gravidade, vantagem auferida, condição econômica, antecedentes) O arbitramento da penalidade de multa é  xada nos termos do art. 4º da Lei 9.847/99:
+"Art. 4º. A pena de multa será graduada de acordo com a gravidade da infração, a vantagem auferida, a condição econômica do infrator e os seus antecedentes." No caso, a penalidade foi aplicada no valor de R$ 105.000,00 (cento e cinco mil reais).
+Conquanto a Administração atue com discricionariedade no exercício de seu poder punitivo, não observou os princípios da razoabilidade e proporcionalidade na quanti cação da penalidade imposta aos apelantes, o que justi ca a intervenção do Judiciário, não havendo se falar em afronta à separação dos Poderes ou à legalidade, uma vez que a aplicação da legislação de regência deve pautar-se pelos parâmetros estabelecidos na Constituição. A própria Lei nº 9.847/99 dispõe, em seu art. 4º, que "a pena de multa será graduada de acordo com a gravidade da infração, a vantagem auferida, a condição econômica do infrator e os seus antecedentes".
+A análise dos autos demonstra ser incontroverso que os botijões de gás encontravam-se irregularmente armazenados, em desrespeito às distâncias mínimas estabelecidas pelas normas técnicas e, desse modo, em inquestionável prejuízos à segurança. Nesse contexto, deve ser mantida a presunção de veracidade dos fatos contidos no auto de infração, descritos pelos fiscais da ANP.
+E, não tendo sido capaz de afastar a presunção de veracidade e legitimidade dos atos administrativos, considero hígida a autuação, como bem salientou o magistrado singular.
+O que foi trazido nas razões de recurso não me parece su ciente para alterar o que foi decidido quanto a esses tópicos, mantendo o resultado do processo e não vendo motivo para reforma da sentença quanto à con guração da infração (materialidade) e à regularidade do procedimento administrativo (ausência de nulidade).
+Entretanto, quanto à redução do valor da penalidade aplicada, a sentença deixou de reduzir a penalidade aplicada por entender que esta havia sido  xada no mínimo legal e não se tinham nos autos elementos para sua redução aquém daquele mínimo legal cominado.
+Penso diferente do que consta da sentença apelada, porque existem precedentes do TRF4 no sentido de que a multa administrativa aplicada pela ANP pode ser  xada em valor aquém do mínimo legal e porque os elementos de prova permitem concluir que é cabível essa redução, como passo a examinar.
+Realmente, a jurisprudência vem entendendo que é possível, face a situações concretas excepcionais, reduzir o valor da multa aquém daquele mínimo legalmente cominado.
+Esse parece ser o caso dos autos, considerando tratar-se de microempresa, com capital social reduzido, nada demonstrando que se tratasse de infrator contumaz ou reincidente.
+Parece razoável que o valor das multas seja reduzido dos R$ 105.000,00 cominados para R$ 45.000,00, assegurando-se assim a higidez econômico- nanceira da empresa autuada e também tutelando os interesses decorrentes da atividade controlada fiscalizada pela ANP.
+Tenho que o recurso da parte autora merece acolhida para reduzir o valor da multa imposta,  xando-a em R$ 45.000,00 (quarenta e cinco mil reais), o que se afigura razoável e proporcional com a situação da demandante.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Assim, afasta-se a ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático-probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço parcialmente do Recurso Especial, apenas com relação à violação do art. 1022 do CPC e, nessa parte, não o provejo.
+Publique-se.
+Intimem-se.
