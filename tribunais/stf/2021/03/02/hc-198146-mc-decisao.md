@@ -1,0 +1,16 @@
+DECISÃO
+PRISÃO PREVENTIVA – FUNDAMENTOS – INSUBSISTÊNCIA.
+HABEAS CORPUS – LIMINAR – DEFERIMENTO.
+    1. O assessor Gustavo Mascarenhas Lacerda Pedrina prestou as seguintes informações:
+    O Juízo da Primeira Vara do Júri do Foro Central da Comarca de Porto Alegre/RS, no processo nº 001/2.19.0058821-6, determinou a prisão preventiva do paciente, ante os crimes dos artigos 121, § 2º, I, II, e IV (homicídio qualificado mediante paga de recompensa, por motivo fútil e com o uso de recurso que dificultou a defesa da vítima), e 121, § 2º, incisos I, II, e IV, combinado com o 14, inciso II (tentativa de homicídio qualificado por meio de paga de recompensa, por motivo fútil e com o uso de recurso que dificultou a defesa da vítima), combinados com o 29 (concurso de pessoas) do Código Penal. Ressaltou materialidade e indícios de autoria, aludindo a depoimentos de testemunhas e reconhecimento fotográfico. Assentou a gravidade do crime e o risco de intimidação das testemunhas. Concluiu necessária a custódia para garantir a ordem pública e a instrução processual.
+    No Superior Tribunal de Justiça, o Presidente inadmitiu o habeas corpus nº 644.825/RS.
+    Os impetrantes sustentam a insubsistência dos fundamentos da decisão, dizendo-a lastreada na gravidade abstrata dos crimes. Sublinham ausentes os requisitos do artigo 312 do Código de Processo Penal.
+    Requerem, no campo precário e efêmero, o afastamento. No mérito, buscam a confirmação da providência.
+    Consulta ao sítio do Tribunal de Justiça, em 1º de março corrente, revelou que o processo se encontra na fase de instrução. Não consta informação quanto ao cumprimento do mandado de prisão.
+    2. A análise do pronunciamento por meio do qual determinada a custódia revela haver o Juízo considerado a imputação. Inexiste a prisão automática ante o crime possivelmente cometido, levando à inversão da ordem do processo-crime, que direciona, ante o princípio da não culpabilidade, a apurar para, selada a culpa, prender, em verdadeira execução da pena. A materialidade e os indícios de autoria surgem como elementos neutros, insuficientes a respaldarem o argumento referente à garantia da ordem pública. Esta fica vinculada à observância da legislação em vigor, devendo a custódia basear-se no artigo 312 do Código de Processo Penal. O combate à delinquência não há de fazer-se a ferro e fogo, mas mediante política criminal normativa. O Juízo aludiu ao risco de intimidação de testemunhas, partindo da capacidade intuitiva, olvidando que a presunção seria de postura digna, ante o fato de achar-se o paciente submetido aos holofotes da Justiça. Tem-se a insubsistência das premissas lançadas.
+    3. Defiro a liminar. Expeçam alvará de soltura a ser cumprido com as cautelas próprias: caso o paciente não esteja preso por motivo diverso da custódia preventiva formalizada no processo nº 001/2.19.0058821-6, da Primeira Vara do Júri do Foro Central da Comarca de Porto Alegre/RS. Advirtam-no da necessidade de permanecer com a residência indicada ao Juízo, atendendo aos chamamentos judiciais, de informar possível transferência e de adotar a postura que se aguarda do cidadão integrado à sociedade.
+    4. Colham parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 2 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
