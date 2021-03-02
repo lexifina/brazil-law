@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto por NEI CASTELLI contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no HC n. 5629765-55.2020.8.09.0000.
+Consta dos autos que o Recorrente foi preso temporariamente, em 17/11/2020, e teve a prisão convertida em preventiva em 07/12/2020, pela suposta prática do crime previsto no art. 121, § 2.º, incisos I e IV, por duas vezes, na forma do art. 29,caput, ambos do Código Penal, "pelos fatos relativos aos crimes de homicídio qualificado, perpetrados em face dos advogados Marcus Aprígio Chaves e Frank Alessandro Carvalhães de Assis, no dia 28/10/2020, dentro do escritório profissional das vítimas" (fl. 1.142).
+A Defesa impetrouhabeas corpusperante o Tribunal de origem, que conheceu em parte da impetração e, nessa extensão, denegou a ordem.
+Nas razões recursais, a Defesaalega que não houve fundamentação idônea para a decretação da prisão preventiva do Paciente e que não estão presentes os requisitos autorizadores da custódia cautelar.
+Aduz que não há indícios suficientes de autoria e que "não se trouxe aos autos (ou mesmo se alegou) que o demandante soubesse que estaria sendo investigado, de modo que a fundamentação de fuga do distrito da culpa (ou de sua residência) se assenta em elucubrações sem nenhum suporte na realidade! O paciente estava a caminho de visita à família (mais nada)!" (fl. 1.166).
+Sustenta que houve nulidade das escutas telefônicas que levaram ao nome do Paciente, tratando-se de situação assemelhada ao flagrante preparado, por supostamente envolver interceptação de um telefone de uma advogada de um dos corréus, e que ocorreu cerceamento de defesa, decorrente do indeferimento de acesso integral às escutas.
+Argumenta que o Paciente possui ocupação lícita, domicílio certo ebons antecedentes e que se mostra suficiente a fixação de medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do Recorrente e a determinação de acesso a toda prova colhida, "no seu estado bruto e sem qualquer manipulação - bem como à identificação da pretensa advogada que teria recebido o dinheiro e desaparecido depois de ensejar a fundamentação da prisão temporária" (fl. 1.175).
+É o relatório. Decido.
+NoHC n. 640.940/GO, a mim distribuído em 22/01/2021, foi formulada idêntica pretensão, em favor doora Recorrente, o qual teve a liminar indeferida pela Vice-Presidência desta Corte e, posteriormente, pedido de reiteração da liminar por mim indeferido.
+O presente recurso, portanto, é merareiteraçãode pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambaso mesmo acórdão e a mesma matéria.
+Ocorre que não podem ser processados nesta Corte, concomitantemente,habeas corpuse recurso ordinário emhabeas corpusem que se constatalitispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade do recurso, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado emwritanteriormente impetrado nesta Corte" (AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido, v.g.: RCD no HC 423.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alíneaa, do RISTJ, INDEFIRO LIMINARMENTE a petição recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PROCESSUAL PENAL. REITERAÇÃO DO PLEITO FORMULADO NO HC N. 640.940/GO. LITISPENDÊNCIA. PETIÇÃO RECURSAL LIMINARMENTE INDEFERIDA.
