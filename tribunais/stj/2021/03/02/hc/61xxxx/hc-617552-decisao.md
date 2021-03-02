@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOSÉ CARLOS DE ARAUJO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono HC n.2185961-82.2020.8.26.0000.
+Colhe-se nos autos que,o Paciente, preso desde 18/06/2020 (fls. 82-85), foi condenado às penas de 5 (cinco) meses e 10 (dez) dias de reclusão,em regime inicial semiaberto,e 4(quatro) dias-multa pela tentativa de furto durante o repouso noturno, previsto no art. 155,§ 1.º, c.c. o art. 14, inciso II, ambos do Código Penal, negado o direito de recorrer em liberdade (fl. 107).
+Irresignada com a manutenção da segregação cautelar do Paciente, mantida desde a prisão em flagrante (18/06/2020), a Defesa impetrou prévio writ perante o Tribunal estadual, que denegou a ordem (fls. 109-120).
+Nestewrit,a Defensoria Pública Impetrante alega ausência de homogeneidade entre a prisão penal e a custódia processual, e alerta para os riscos derivados da pandemia do novo coronavírus no sistema prisional.
+Requer,liminarmente e no mérito, a concessão de liberdade provisória, ainda que cumulada com outras medidas alternativas previstas no art. 319 do Código de Processo Penal.
+O pedido liminar foi deferido (fls. 123-124).
+Foram prestadas informações às fls. 131-202; 206-224.
+O Ministério Público Federal manifestou-se pela "concessão parcial da ordem, a fim de que seja concedida liberdade provisória ao paciente, com a substituição de sua custódia cautelar por medidas alternativas previstas no art. 319 do Código de Processo Penal" (fl. 227).
+É o relatório.Decido.
+A ordem merece concessão.
+O decreto prisional está assim fundamentado (fl. 84; grifos diversos do original):
+"Outrossim, o caso revela gravidade acima do comum para a espécie, vez que, conforme já consignado, José é reincidente em crimes patrimoniais e foi preso em flagrante novamente há poucos meses - dezembro de 2019 (estamos em junho de 2020) - por roubo, ocasião em que foi beneficiado com a liberdade provisória. Agora, cá está o custodiado, novamente surpreendido enquanto cometia crime patrimonial."
+Ao aplicar o art. 387, § 1.º, do Código de Processo Penal, o Juízo de primeiro grau manteve a segregação cautelar nos seguintes termos (fl. 107; sem grifos no original):" o sentenciado, se insatisfeito com esta decisão, pelo fato de ser reincidente e por ter respondido ao processo custodiado, para garantia da ordem pública, dela não poderá recorrer em liberdade".
+No caso, ainda que tenha sido consignado a existência de contumácia delitivado Paciente,fundamentação que, a princípio, justifica a decretação da prisão cautelar, sobreleva na espécie setratar de tentativa de furto de4 (quatro) vergalhões avaliados em R$ 160,00 (cento e sessenta reais), compena reclusiva fixada em5 (cinco) meses e 10 (dez) dias, estando o Réu custodiado, em regime fechado, por temposuperior à pena imposta; tudo a revelara desproporcionalidade na manutenção damedida extrema.
+Em verdade, um dos vetores em que se decompõe oprincípio da proporcionalidade-proporcionalidade em sentido estrito -,impõe que, de um lado, há a proibição de proteção deficiente, por outrolado, todavia, há uma proibição de excesso.
+Ante o exposto, confirmando a liminar, CONCEDO A ORDEM de habeas corpuspara que possa o Paciente aguardar otrânsito em julgado da condenação em liberdade, se por outro motivo não estiver preso, advertindo-o da necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação da prisão preventiva, se concretamente demonstrada sua necessidade cautelar, ou de imposição de outras medidas alternativas, nos termos do art. 319 do Código de Processo Penal.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. TENTATIVA DE FURTO DURANTE O REPOUSONOTURNO. CONDENAÇÃO À PENA DE 5 MESES E 10 DIAS DE RECLUSÃO, EM REGIME INICIAL SEMIABERTO.NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. RÉU CUSTODIADO, EM REGIME FECHADO, POR TEMPOSUPERIOR À PENA IMPOSTA. DESPROPORCIONALIDADE DA MEDIDA EXTREMA. PROIBIÇÃO DE EXCESSO. LIMINAR DEFERIDA.ORDEM DE HABEAS CORPUS CONCEDIDA.
