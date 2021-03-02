@@ -1,0 +1,13 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CONSÓRCIO INTERNORTE DE TRANSPORTESem face da decisão que negou seguimento ao recurso especial, por sua vez manejado contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+"AGRAVO DE INSTRUMENTO MEDIDA CAUTELAR CONSÓRCIO INTERNORTE DE TRANSPORTES CONTRATO DE CONCESSÃO DE SERVIÇO PÚBLICO DE PASSAGEIROS POR ÔNIBUS NO MUNICÍPIO DO RIO DE JANEIRO
+1. Decisão agravada deferitória do pedido consistente em impedir o Consórcio de reter valores cobrados a título de multa pela não apresentação de certidões de quitação fiscal.
+2. Alteração do contrato de consórcio que viola decisão anterior, do colegiado, consistente em impedir a retenção dos valores inerentes aos tributos devidos.
+3. Manutenção da decisão agravada que se impõe.
+4. Desprovimento do recurso" (fls. 1549/1556 e-STJ).
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos artigos: a) 535, II, do CPC/1973, sustentando que houve omissão no acórdão recorrido "sobre relevantes peculiaridades do caso, as quais demonstram que a alteração ao contrato de constituição do consórcio promovida pelo aditivo nº 1 - e não do regulamento, como erroneamente afirmado - não constitui qualquer tipo de violação a decisão judicial anterior" (fls. 1.581-1.582); b) 112, 113 e 422 do CC, alegando que houve "violação do princípio da boa-fé por parte da PARANAPUAN, porquanto, num momento tentou se furtar às retenções para pagamento de tributos sob o argumento de que existia penalidade específica para o caso de não apresentação dos comprovantes de regularidade fiscal e, pouco depois, se insurgiu contra tal disposição - cuja validade ela mesma havia reconhecido" (fl. 1.586); e c) 278 da Lei nº 6.404/1976, aduzindo que "estando a penalidade para o caso de não cumprimento da obrigação de comprovar a regularidade fiscal expressamente prevista nos instrumentos que regulam a relação entre as consorciadas, não há motivos razoáveis para que, no caso de não atendimento da norma, seja a recorrida poupada da sua incidência" (fls. 1.590/1.591).
+Contrarrazões ao recurso especial às fls. 1.603-1.619.
+DECIDO.
+2. Em face das circunstâncias que envolvem a controvérsia e para melhor exame do objeto do recurso, com fundamento no artigo 34, inciso VII, do Regimento Interno do Superior Tribunal de Justiça, DOU PROVIMENTO ao presente agravo para determinar a sua conversão em recurso especial, sem prejuízo de novo exame acerca de seu cabimento, a ser realizado no momento processual oportuno.
+Publique-se. Intimem-se
