@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Consórcio Estreito Energia -Ceste (Consórcio) em face de decisão às fls. 797/799, que deu provimento ao recurso especial manejado por Marlene Rodrigues de Andrade.
+A parte embargante sustenta que "o que foi arguido e não enfrentado por este C. STJ, foi que uma vez que o Tribunal de Justiça do Maranhão consignou expressamente que para reconhecer a prescrição considerou a data em que foi constatada a lesão (enchimento do reservatório em 2010) e seus efeitos (logo após o enchimento foram sentidos os danos), em harmonia com a teoria da Actio Nata, não há que se falar em divergência de entendimento com o este C. Superior Tribunal de Justiça" (fl. 801).
+Também afirma a impossibilidade de conhecimento do recurso especial porque: (I) "em nenhum momento foi demonstrado em que medida houve violação do art. 435 do CPC, ao art. 104, III, e ao art. 166, IV e V, do Código Civil" (fl. 803); (II) o art. 286, § 3º, do CPC não possui substrato legal para sustentar a tese recursal; e (III) "a parte embargada não prequestionou o art. 189 do Código Civil, que seria o dispositivo atinente à teoria Actio Nata, e tampouco o art. 435 do CPC e o art. 104, III, e o art. 166, IV e V, do Código Civil, de modo a atrair a Súmula 211" (fl. 803).
+Por fim, caso mantida na íntegra a decisão embargada, requer que fique consignado expressamente que os autos devem retornar ao Tribunal de origem.
+A embargada apresentou impugnação (fls. 809/812).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o estatuído no art. 1.022 do CPC/2015, são cabíveis embargosde declaração nas hipóteses de obscuridade, contradição, omissão doacórdão atacado ou para correção de erro material, situações que não sevislumbram na hipótese.
+Entretanto, no caso dos autos, não se verifica a existência de nenhumdesses vícios, pois a decisão embargada examinou e decidiu, de maneiraintegral e com fundamentação suficiente, toda a controvérsia posta norecurso.
+Sobre a afirmativa de que, no acórdão dos embargos de declaração, ficou esclarecida a aplicação da teoria actio nata ao caso concreto, tem-se que o Tribunal de origem partiu da premissa absoluta de que, em demandas com pretensão indenizatória pela instalação de usina elétrica, o termo inicial para a prescrição é o enchimento da usina hidrelétrica.
+Veja-se:
+"Como se pode ver, o acórdão dito por omisso e contraditório, enfrentou a tese defendida no apelo deixando claro que adota o entendimento de que a prescrição começa a correr com o enchimento do reservatório da usina hidrelétrica, ou seja, esse é o momento do conhecimento dos danos e de seus efeitos, sendo uma clarividente aplicação da teoria Actio Nata" (fl. 633).
+Assim, o recurso especial foi provido porque divergiu do entendimento desta Corte no sentido de quea contagem do prazo inaugura-se na data em que a parte autora teve ciência do dano sofrido, o que pode, ou não, coincidir com o enchimento do reservatório, tornando necessário o exame de caso a caso.
+Também não se vislumbra qualquer dos vícios apontados para o conhecimento do recurso especial, pois, como expresso da decisão embargada, o recurso especial foi conhecido e provido pela afronta ao art. 206, § 3º, do CC/2002, único dispositivo indicado nas razões recursais.
+Por fim, importante destacar que os autos devem retornar ao Tribunal de origem para que, prosseguindo no julgamento da apelação, decida como entender de direito.
+Assim, os embargos não possuem condições de acolhimento pois a mera discordância com a solução do recurso e o claro propósito de reforma da decisão embargada não encontra espaço nesta via recursal.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
