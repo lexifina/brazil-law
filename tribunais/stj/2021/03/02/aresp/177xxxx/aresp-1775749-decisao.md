@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto peloESTADO DO CEARÁ contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, quenão admitiu recurso especial fundadona alínea "a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 77):
+DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. VENDEDOR AMBULANTE. PROIBIÇÃO VERBAL DE ENTRADA EM ESTÁDIO DE FUTEBOL. PRETENSÃO DA APRESENTAÇÃO DO DOCUMENTO ADMINISTRATIVO DO IMPEDIMENTO DO ACESSO. PROCEDÊNCIA. DIREITO À AMPLA DEFESA. APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Embargos de declaração rejeitados (e-STJ fl. 111/115).
+No recurso especial obstaculizado, a parte apontouviolação doart. 1.022, II, doCPC/2015, argumentando negativa de prestação jurisdicional.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Inicialmente, cumpre registrar que, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3 do STJ).
+Feita essa anotação, verifico que a pretensão não merece prosperar.
+Inicialmente registroque ajurisprudência desta Corte Superior é firme no sentido de que a decisão do Tribunal de origem de admissibilidade do recurso especial não vincula o Superior Tribunal de Justiça, o qual procederá a um novo juízo de admissibilidade, uma vez que é competência exclusiva desta Casa a análise definitiva de admissibilidade do recurso. Nesse sentido: AgRg no AREsp 570.216/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 05/04/2017.
+Ademais,forçoso convir que incide a Súmula 284 do STF quando a parte recorrente limita-se a sustentar violação do art. 1.022, II, do CPC/2015 de forma genérica, sem especificar em que consistiria a real ausência de pronunciamento e qual seria a relevância da tese suscitada apta a promover a alteração do julgado (EDcl na Rcl 28.431/DF, Rel. Ministro FRANCISCO FALCÃO, Primeira Seção, julgado em 09/08/2017, DJe 16/08/2017).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. IMPROBIDADE ADMINISTRATIVA. SÚMULA N. 568/STJ. APLICABILIDADE. REPRODUÇÃO DE FUNDAMENTOS EM DECISÃO. AUSÊNCIA DE FUNDAMENTOS NOVOS TRAZIDOS PELA PARTE. POSSIBILIDADE. ART. 1.022 DO CPC/15. OMISSÃO. AUSÊNCIA DE VIOLAÇÃO. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. AÇÃO DE IMPROBIDADE. FRAUDE EM LICITAÇÃO. AGENTE PÚBLICO. EMPRESAS CONTRATADAS. VIOLAÇÃO AO ART. 47 DO CPC/73. AUSÊNCIA DE LITISCONSÓRCIO PASSIVO NECESSÁRIO. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+V - Não se pode conhecer das demais violações apontadas ao art. 1.022 do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas, deixando de demonstrar, com transparência e precisão, quais seriam os pontos omissos, contraditórios ou obscuros do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+ ..
+X - Agravo Interno improvido.
+(AgInt nos EDcl no REsp 1.712.330/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 16/08/2018, DJe 20/09/2018) (Grifos acrescidos).
+AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. OFENSA AO ARTIGO 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. ÓBICE DA SÚMULA 284 DO STF. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. REPETIÇÃO DE INDÉBITO. TAXA SELIC. ACÓRDÃO RECORRIDO FUNDAMENTADO EM LEI ESTADUAL. SÚMULA 280/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Quanto à alegada violação ao artigo 1.022 do CPC/2015, verifica-se que as razões de recorrer são genéricas e desprovidas de argumentação jurídica, já que não apontam os temas supostamente omitidos, contraditórios ou obscuros. Trata-se de deficiência na fundamentação, caso em que se aplica, por analogia, o disposto na Súmula 284/STF.
+ ..
+3. Agravo interno não provido. (AgInt no REsp 1.738.778/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 18/09/2018, DJe 21/09/2018) (Grifos acrescidos).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
