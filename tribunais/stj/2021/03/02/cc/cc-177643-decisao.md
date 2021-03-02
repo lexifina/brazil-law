@@ -1,0 +1,10 @@
+DECISÃO
+O JUÍZO FEDERAL DA 9ª VARA CRIMINAL DE SÃO PAULO - SJ/SP suscita este conflito negativo de competência, em inquérito policial, diante do JUÍZO DE DIREITO DO DEPARTAMENTO DE INQUÉRITO POLICIAL - DIPO 4 - FORO CENTRAL CRIMINAL BARRA FUNDA - SP.
+Depreende-se dos autos que foi deflagrada investigação para apurar suposta prática de estelionato contra Petrobrás Transporte S.A. - Transpetro. No presente incidente processual, pretende-se seja definido qual o juízo competente para a prática de eventuais atos jurisdicionais, em âmbito inquisitorial, que envolva a referida empresa.
+Ouvido, manifestou-se o Ministério Público Federal pelo conhecimento do conflito para que seja fixada a competência do Juízo de Direito do Departamento de Inquérito Policial - Dipo 4 - Foro Central Criminal Barra Funda - SP, ora suscitado (fls. 756-759).
+Decido.
+Extrai-se dos autos, em síntese, que a investigação foi iniciada para apurar a prática do delito previsto no art. 171, § 3º, do CP, envolvendo os administradores da empresa SEEBLA - Serviços de Engenharia Emilio Baumgar Ltda., que teriam ocasionado um prejuízo à Petrobrás Transporte S.S - Transpetro, no valor de R$ 2.500.000,00.
+Como cediço, a Petrobrás Transporte S.A. - Transpetro é pessoa jurídica classificada como sociedade anônima de economia mista. Portanto, trata-se de típica hipótesede incidência da Súmula n. 42 do STJ: "Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento".
+Nesse sentido, exemplificativamente, já decidiu esta Corte em caso similar: "Compete à Justiça Estadual processar e julgar ilícitos penais praticados contra a Petrobrás Distribuidora S.A. que é sociedade de economia mista (Súmula nº 42/STJ)" (CC n. 30.344/BA, Rel. Ministro Felix Fischer, DJ 18/2002).
+À vista do exposto, conheço do conflito para declarar competente o Juízo de Direito do Departamento de Inquérito Policial - Dipo 4 - Foro Central Criminal Barra Funda - SP, ora suscitado.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
