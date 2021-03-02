@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto porBANCO DO BRASIL S.A., com base nas alíneasae c do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 457):
+APELAÇÃO CIVIL - REVISIONAL DE CONTRATO - EMPRESTIMO CONSIGNADO - DESCONTO FOLHA EM FOLHA DE PAGAMENTO -LIMITAÇÃO. É possível o desconto de parcela de empréstimo em folha de pagamento, no entanto, essa retenção não pode, obviamente, ultrapassar o percentual de 30% (trinta por cento) relativo à remuneração do correntista, sob pena de se comprometer a sua subsistência e a de sua família.
+Nas razões do recurso, o recorrente sustenta a existência de divergência jurisprudencial e de violação aos arts. 104, 110, 166 e 188 do CPC/2015; 52 do CDC; e 20 do CPC/1973.
+Defendeque, em caso de empréstimo pessoal,não é possível limitar os descontos em conta-corrente salarial.
+Afirma que a recorrida tinha pleno conhecimento das condições previstas no contrato de mútuo bancário, inclusive do percentual de desconto em sua conta-salário.
+Frisa que estão presentes todos os requisitos legais para a validade do negócio jurídico.
+Alega a desproporcionalidade do percentual fixado para os honorários sucumbenciais.
+Sendo assim, requer o provimento do presente recurso especial.
+A parte recorrida não apresentou contrarrazões.
+Brevemente relatado, decido.
+De início, é importante ressaltar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A respeito da tese defendida pelo recorrente, o Tribunal de origem assim se manifestou (e-STJ, fls. 460-462):
+Pois bem analisando, os autos cumpra-se salientar que o desconto em conta corrente salarial, é aceitável desde que estejam previamente compactuados entre as partes, quando da formalização da relação jurídica.
+Ocorre que, pela vasta jurisprudência desta colenda corte, e pelo que venho entendo em julgados de mesma semelhança, os descontos no salário da parte, é possível, desde que não acarretem a totalidade do provento, ou porcentagem que interfira no sustento familiar da parte, sobe pena de ofensa ao princípio da dignidade da pessoa humana.
+A jurisprudência pacificada pelos Tribunais superiores e da qual me filio e de que o desconto em folha de pagamento de pagamento deve respeitar o valor limite de 30%, com a finalidade de garantir o estrito cumprimento do pacto realizado entre às partes.
+A solução há de ser buscada mediante aplicação do princípio da razoabilidade, de modo a não se sacrificar unilateralmente direito de um ou de outro, atendendo os interesses de ambas as partes. É que o devedor não pode ser privado integralmente de seus rendimentos, enquanto que o credor, por sua vez, também não pode deixar de receber o valor que lhe é devido.
+Assim, ao contrário de que alega o banco, pode haver sim, uma limitação do percentual máximo de desconto, sobre pena de inviabilizar a vida financeira do devedor.
+ ..
+Depreende-se dos autos que o Apelado, celebrou vários contratos com o banco apelante, os quais somados totalizam R$ 68.374,90 (sessenta e oito mil trezentos e setenta e quatro reais e noventa centavos).
+Verifica-se, pelo documento de número 6, que o vencimento da apelada é de R$ 3.293,90(três mil e duzentos e noventa e três reais e noventa centavos). Contudo, os descontos oriundos dos empréstimos totalizam o valor de R$ 1.807,25 (um mil oitocentos e sete reais e vinte cinco centavos), o que configura um desconto maior que 55% do salário da parte, extrapolando claramente limite de 30% pacificado pela jurisprudência.
+Com efeito, a jurisprudência mais escorreita do Superior Tribunal de Justiça permite o desconto direto em conta bancária para pagamento de prestações de empréstimos financeiros, desde que respeitada, por analogia, a margem fixada pela Lei 10.820/03, qual seja, 30% dos rendimentos líquidos, de molde a preservar o mínimo existencial do devedor. E foi assim a decisão de primeiro grau.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual entendeu que, não obstante seja possível o desconto em conta-corrente salarial para pagamento de empréstimo pessoal, deve haver a limitação ao percentual de 30% dos rendimentos líquidos do correntista.
+De fato, segundo a jurisprudência do Superior Tribunal de Justiça, não há, em regra, limitação para os descontos em conta-corrente para pagamento de parcelas decorrentes de mútuo bancário, exceto quando se tratar de empréstimo consignado com desconto em folha de pagamento.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. MÚTUO. DESCONTO EM FOLHA. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DA SEGUNDA SEÇÃO.SÚMULA N. 168/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Os embargos de divergência são um recurso voltado para a uniformização de entendimento entre órgãos fracionários distintos do STJ. Tendo a jurisprudência se uniformizado no mesmo sentido do acórdão embargado, tornam-se incabíveis os embargos de divergência (Súmula n. 168/STJ).
+2. A matéria consolidou-se no Superior Tribunal de Justiça tal como no acórdão recorrido. Com efeito, em julgado da Segunda Seção que procedeu ao cancelamento da Súmula n. 603/STJ,entendeu-se que não haveria, em regra, limitação aos descontos em conta corrente para fins de pagamento de mútuo, excetuando-se os casos de empréstimo consignado garantido por descontos em folha de pagamento (REsp 1.555.722/SP, Relator Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), SEGUNDA SEÇÃO, julgado em 22/8/2018, DJe 25/9/2018).
+3. No acórdão embargado, entendeu a Terceira Turma que haveria um contrato de empréstimo com desconto em folha de pagamento e, dessa forma, seria válida a limitação dos descontos a 30% (trinta por cento)da remuneração da devedora. Evidencia-se, nesse ponto, que o decidido no julgado embargado corresponde à jurisprudência atual do STJ.
+4. Além disso, o conhecimento dos embargos de divergência exige similitude fático-processual entre o aresto embargado e os paradigmas.
+5. No caso dos autos, a Terceira Turma analisou hipótese envolvendo mútuo garantido por desconto em folha de pagamento.
+6. O paradigma da Quarta Turma, contudo, analisou hipótese diversa, na qual o contrato envolvia mútuo a ser quitado mediante descontos em conta-corrente, sendo que o relator, expressamente, destacou que se tratava de hipótese distinta dos empréstimos pagos comdesconto em folha. Portanto, o suposto paradigma não apresenta similitude fático-processual com o acórdão ora embargado, a fim de permitir o conhecimento dos embargos de divergência.
+7. Cabe destacar que, nos embargos de divergência, não se admite a alteração do contexto fático-processual objeto de exame pela Turma, pois é recurso que"tem por finalidade uniformizar a jurisprudência do próprio Superior Tribunal de Justiça, quando se verificarem idênticas situações fáticas nos julgados, mas tenha se dado diferente interpretação na legislação aplicável ao caso, não se prestando para avaliar possível justiça ou injustiça dodecisum(..)" (AgInt nos EREsp n. 1.322.449/RJ, Relator Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/8/2018, DJe 28/8/2018).
+8. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp 1305797/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 11/11/2020, DJe 16/11/2020)
+No caso em exame, consta dos autos que a recorrida celebrou vários contratos de empréstimos consignado,com desconto em sua conta-salário, situação que impede que a dedução dos valores depositados na conta-corrente extrapole o limite de 30%.
+Dessa forma, constata-se que o posicionamento do Tribunal originário encontra-se em sintonia com a jurisprudência desta Corte Superior.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CONTRATO DE MÚTUO BANCÁRIO. EMPRÉSTIMO CONSIGNADO.DESCONTO EM CONTA-CORRENTE SALARIAL. POSSIBILIDADE. LIMITAÇÃO AO PERCENTUAL DE 30%. RECURSO ESPECIAL DESPROVIDO.
