@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus interposto porSANDRO SEVERO DA PAZcontra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o Juízo da Execução, em 21/08/2020, deferiu aorecorrente opedidode progressão ao regime semiaberto (e-STJ, fl. 8).
+Inconformada, a defesa impetrou habeas corpus perante o TJSP, ao argumento de que até o momento o apenado não teria sido transferido para o regime menos gravoso. Todavia, a Corte local não conheceu dowrit, nos termos da seguinte ementa (e-STJ, fl. 33):
+"Habeas Corpus - Execução Penal - Insurgência contra amanutenção do condenado no regime fechado, após odeferimento da progressão ao semiaberto -Inadmissibilidade - Inidoneidade do meio para a análisede matéria de execução de pena - Hipótese em que nãofoi manifestada, por primeiro, ao Juiz das ExecuçõesCriminais a pretensão de imediata transferência dopreso para estabelecimento adequado ou, na ausência devagas, para prisão domiciliar - Não conhecimento daação constitucional - O Juízo das Execuções Criminais éo competente para conhecer e julgar incidentes emexecução de pena (cf. art. 66, III, "f", Lei 7.210/84),afigurando-se descabida a pretensão manifestadadiretamente nesta Corte de Justiça - A açãoconstitucional, portanto, não é de ser conhecida, máximepor afronta ao princípio do juiz natural (art. 5º, LIII,CF). Habeas corpus não conhecido."
+Neste recurso,o recorrente alega, em síntese, queestaria cumprindo pena em regime mais gravoso, por ausência de vagas, em confronto com o enunciado contido na Súmula Vinculante n. 56 do STF.
+Ressalta "a ausência de supressão de instância, uma vez que, nos termos do Art. 654, §2 º do CPP, "Os juízes e os tribunais têm competência para expedir de ofício ordem de habeas corpus, quando no curso de processo verificarem que alguém sofre ou está na iminência de sofrer coação ilegal" (e-STJ, fl. 41).
+Requer, assim, o provimento do recurso, para que o recorrente seja transferido de imediato ao regime adequado, ou, na sua ausência, ao regime aberto ou domiciliar.
+É o relatório.
+Decido.
+Na hipótese, o Tribunal a quo não conheceu do habeas corpus, mediante a seguinte fundamentação (e-STJ, fls. 34-35, grifou-se):
+"2. A presente ação constitucional não é de ser conhecida.
+Cabe registrar, de início, que se insurgem as ilustres impetrantes contra o fato de o paciente permanecer em regime prisional fechado, apesar de lhe ter sido deferida a progressão ao regime semiaberto, em 21 de agosto de 2020.
+Ademais, verifica-se que, segundo as informações prestadas pelo nobre Magistrado a quo, foi oficiado à unidade prisional, em 09 de outubro de 2020, comunicando a progressão de regime e requisitando a transferência do paciente para estabelecimento adequado ao regime semiaberto.
+Contudo, embora não se desconheça o comando normativo da Súmula Vinculante n.56 do Supremo Tribunal Federal, importa observar que não consta nos presentes autos que as ilustres impetrantes, antes de baterem às portas deste Tribunal, tenham, por primeiro, informado ao douto Magistrado de primeiro grau acerca do não cumprimento de sua decisão e requerido junto ao Juízo competente a adoção de providências para imediata remoção do paciente ao estabelecimento adequado ao atual regime de cumprimento de pena ou, no caso da ausência de vagas, para prisão domiciliar.
+Logo, não cabe a esta Corte de Justiça conhecer e decidir acerca desse pleito específico ainda não apreciado pelo Juízo das Execuções Criminais competente, nos termos da alínea "f"do inciso III do artigo 66 da Lei de Execução Penal, sob pena de perpetrar-se verdadeira supressão de instância, com inaceitável vulneração do princípio constitucional do juiz natural (art. 5º, LIII, CF).
+Frente a esse quadro, por não ser dado às ilustres impetrantes valerem-se da via eleita para discutir questão ainda não submetida à apreciação do Juízo de origem, a denunciar a falta de interesse de agir, na perspectiva da adequação processual, exsurge inafastável o não conhecimento do mandamus."
+Conforme se verifica dos autos, quanto à alegação de que o recorrente estaria cumprindo pena em regime mais gravoso,verifica-se que a análise do pleito por esta Corte Superior implicaria em incabível supressão de instância, posto que não apreciado pelo Tribunal de origem, tampouco suscitado pela defesa perante o Juízo da Execução.
+Nesse sentido, com destaques:
+" ..
+5. O pleito referente à possibilidade de o Acusado aguardar no regime aberto, até o surgimento de vaga no semiaberto, não foi ventilado nas instâncias de origem, sendo que o seu exame por este Tribunal Superior caracteriza indevida supressão de instância. Deve ser postulado, primeiramente, junto ao Juízo da Execução.
+6. Nos termos do art. 654, § 2.º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial ao arrepio das regras processuais.
+7. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido."
+(AgRg no AREsp 1550027/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 26/05/2020, DJe 02/06/2020).
+" ..
+3. No caso posto, portanto, a pretensão de remição da pena não foi apreciada pela Corte de origem.Este Superior Tribunal de Justiça possui pacífica jurisprudência no sentido de que, inexistindo discussão pelo Tribunal de origem acerca da tese debatida, fica impedida sua análise no presente recurso, sob pena de haver nítida supressão de instância.
+4. Ademais, não há qualquer censura na conduta adotada pela Corte de origem, porquanto, de fato, a análise dos demais pedidos deduzidos no writ pressupõe o conhecimento do primeiro deles, de modo que a comunicação acerca da adoção de medidas tendentes à classificação do apenado para fins de realização de trabalho intramuros configura a perda superveniente do objeto do mandamus.
+5. Tal posicionamento guarda harmonia com o entendimento desta Corte Superior no sentido de que a alegada omissão Estatal não tem o condão de ensejar a remição ficta. 6. Agravo regimental desprovido."
+(AgRg no RHC 112.454/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/08/2019, DJe 19/08/2019).
+Ante o exposto, nego seguimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
