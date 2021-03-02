@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA ALICE AURICCHIO BOTTURA contra decisãoque negou seguimento a recurso especial, fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado em face de acórdão assim ementado (fl. 1.174):
+AGRAVO DE INSTRUMENTO. Decisão determinou ao executado o adiantamento dos honorários do administrador judicial. Responsabilidade pelo pagamento da perícia que é da parte vencida, cabendo apenas ao agravante o adiantamento dos valores. Art. 907 do CPC. Recurso Repetitivo n º 1.274.466-SC. Decisão mantida. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos pelaora agravanteforam rejeitados com imposição de multa, sob a seguinte ementa (fl. 1.193):
+EMBARGOS DE DECLARAÇÃO. Acórdão que não apresenta omissão, contradição, obscuridade ou erro material a ser afastado. Caráter manifestamente infringente do recurso. Recurso manifestamente protelatório. Dicção do art. 1.026, §2º, do CPC. Multa fixada em 2% do valor atualizado da causa. EMBARGOS REJEITADOS.
+A agravantesustenta, nas razões de recurso especial, ofensa ao § 2º do art. 1.026 do Código de Processo Civil, alegando a impertinência da multaaplicada, uma vez que não houve intuito protelatório na oposição dos embargos de declaração, ainda que se considere como inexistente o vício apontado.
+Assim delimitada a controvérsia, passo a decidir.
+Verifico que o recurso de agravo de instrumento foi interposto contra a decisão do juízo da execução no sentido de que "Cabe aos executados o pagamento dos honorários do administrador judicial" (fl. 1.100), o que foi mantido peloacórdão recorrido.
+A exequente, por sua vez, opôsembargos de declaração apontando obscuridade no julgamento "pois não ficou registrado de maneira clara a forma de recebimento do administrador judicial" (fl. 1.190), tendo em vista que a verba pode ser paga por percentual incidente sobre a constrição, isto é, sobre a penhora dofaturamento da empresa.
+O Tribunal de origem, por sua vez, considerou protelatórios os embargos pelos seguintes fundamentos (fl. 1.194):
+Ao contrário do afirmado, o objeto do recurso se limitou ao ônus do pagamento dos honorários do administrador judicial. Demais questões relacionadas ao pagamento deverão ser analisadas pelo juiz de primeiro grau, sob pena de supressão de instâncias.
+Não há, pois, omissão, obscuridade, contradição ou erro material no julgado. Nenhum fundamento de fato ou de direito deixou de ser apreciado pela Turma Julgadora. É nítido, pois, o caráter infringente dos presentes embargos.
+Dessa forma, é de se condenar a parte embargante ao pagamento de multa fixada em 2% do valor atualizado da causa, nos termos do art. 1.026, §2º, do CPC, in verbis: "§2º Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa."
+Razão assiste àrecorrente.
+Não verifico intuito daagravanteem protelaro feito com a interposiçãodos embargos de declaração, especialmente porquanto é do seu interesse que o cumprimento da sentença seja efetuado da forma mais breve possível.
+Anoto queesta Corte Superior cristalizou o entendimento de que é descabida a multa prevista no § 2º do art. 1.026 do CPCquando ausente prática processual abusiva como objetivo de retardar o andamento do feito, ainda que não configurada nenhuma das hipóteses de cabimento dos embargos de declaração.
+No caso em exame, mesmo que tenha desbordado dos limites do recurso,era razoável a dúvida suscitada pelaexequentequanto à forma de pagamento do administrador judicial nomeado diante da determinação de que os executados devem arcar com os respectivos custos.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para afastar a multa aplicada com base no art. 1.026, § 2º, do Código de Processo Civil.
+Intimem-se.
