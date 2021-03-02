@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso especial interposto por NICOLAU JOSÉ GADBEM, fundamentado no art. 105, III, "a", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de Minas Gerais (TJ-MG), assim ementado (fl. 358):
+"EMENTA: EMBARGOS DO DEVEDOR. FIADOR CO-LEGITIMADO/QUE PODERIATER ADERIDO AOS EMBARGOS À EXECUÇÃO OPOSTOS PELO AFIANÇADO NACONDIÇÃO DE LITISCONSORTE UNITÁRIO FACULTATIVO ATIVO.EFEITOULTRA PARTES DA COISA JULGADA. RECURSO ADESIVO. SUCUMBÊNCIARECÍPROCA. AUSÊNCIA. NÃO CONHECIMENTO. Pela indivisibilidade do objeto da demanda e pela identidade das situações jurídicas dos legitimados, em litisconsórcio facultativo unitário a sentença deve necessariamente ser uniforme para todos os litisconsortes, embora, sendo o litisconsórcio facultativo, qualquer titular do direito de ação possa propor autonomamente sua demanda, hipótese em que a sentença pronunciada em processo proposto por um dos co-legitimados beneficia ou prejudica a todos os outros. Não pode o vencedor da demanda usar o recurso adesivo para discutir apenas o fundamento da decisão, necessitando para sua admissão a sucumbência recíproca."
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 394/401).
+As razões do recurso especial, fundamentadanaalínea"a"do permissivo constitucional, apontam a violação (i) dos arts. 128, 458, II, e 535 do CPC/73, ao argumento de que não fora apreciada a tese relativa ao art. 520, V, do CPC/73, segundo o qual a apelação será recebida sem efeito suspensivo quando a sentença julgar os embargos à execução improcedentes; (ii) do art. 206 do CC/02 e do art. 520, V, do CPC/73, porquanto, ausente efeito suspensivo à apelação, haveria prescrição intercorrente; (iii) do art. 472 do CPC/73, uma vez que os efeitos da sentença não atingiriam terceiros que não integram o feito, ainda que devedores solidários.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Outrossim, o recurso também aponta a violação do art. 206 do CC/02 e do art. 520, V, do CPC/73, porquanto, ausente efeito suspensivoà apelação, haveria prescrição intercorrente. O eg. Tribunal estadual, contudo, destacou que, apesar de a apelação ser recebida, em regra, apenas no efeito devolutivo, no caso dos autos a suspensão decorrera à luz do art. 739, § 1º, do CPC/73, com redação anterior à Lei n. 11.382/2006. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual (fl. 362):
+Dito isso, passando à análise da prescrição intercorrente, que ocorre quando o credor, após o ajuizamento de uma ação de execução, abandona a causa por um lapso temporal superior ao prazo prescricional, saliento que, in casu, citados todos os devedores solidários e realizada a penhora de bens suficientes para garantir a execução (f. 39 e 63), pela executada NOVA CASAMATERIAIS DE CONSTRUÇÃO LTDA. foram opostos embargos do devedor, os quais, por força do §1º do art. 739 do CPC (antes do advento da Lei 11.382/06), foram recebidos no feito suspensivo.
+Por seu turno, verifica-se que o recorrente não impugnou os fundamentos contidos no v. acórdão estadual relativo ao art. 739, § 1º, do CPC/73, que permitia ao juiz conceder efeito suspensivo. Nessa hipótese, em que remanesce fundamento autônomo suficiente para manter o julgado, o recurso especial esbarra na Súmula n. 283/STF. Corroboram essa conclusão os julgados a seguir:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+(..)
+2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+(..)
+5. Agravo interno desprovido."
+(AgInt no AREsp 1329238/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/03/2020, DJe 16/03/2020, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO CONTRATUAL. AUSÊNCIA DE ESPECIFICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA N. 284 DO STF. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. RESTITUIÇÃO DE VALORES. PRAZO PRESCRICIONAL. DEZ ANOS. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1835618/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/02/2020, DJe 28/02/2020, g.n.)
+Por fim, o recurso ainda apontado art. 472 do CPC/73, uma vez que os efeitos da sentença não atingiriam terceiros que não integram o feito, ainda que devedores solidários. O eg. TJ-MG, contudo, conforme as peculiaridades do caso concreto, assentou que os efeitos da sentença poderiam atingir devedores solidários a fim de evitar decisão conflitante com aquela proferida nos embargos do devedor n. 2.0000.00.330439-6/000. Para fins demonstrativos, segue transcrição correlata do v. acórdão objurgado (fls. 364/368):
+"E, ultrapassada a questão, quanto à alegada (impossibilidade de se estender aos fiadores/embargantes, os efeitos da coisa julgada opera danos autos dos embargos do devedor 2.0000.00.330439-6/000, melhor sorte não assiste aos recorrentes.
+Vige no ordenamento jurídico pátrio a regra de que a sentença gera efeitos inter partes, só se impondo para aqueles que figuraram no processo como parte (art. 472, CPC). Todavia, existem exceções a esta regra; situações em que a coisa julgada pode atingir a esfera jurídica de terceiros, sendo exemplos destas a substituição processual, a legitimação concorrente e as ações coletivas que versem sobre direitos coletivos em sentido estrito.
+Especificamente quanto à legitimação concorrente, trata-se, na verdade, de caso de litisconsórcio facultativo unitário em que, pela indivisibilidade do objeto da demanda e pela identidade das situações jurídicas dos legitimados, a sentença deve, necessariamente, ser uniforme para todos os litisconsortes, embora, sendo o litisconsórcio facultativo, qualquer titular do direito de ação possa propor autonomamente sua demanda, hipótese em que a sentença pronunciada em processo proposto por um dos co-legitimados beneficia ou prejudica a todos os outros.
+(..)
+E, assim, tendo os embargantes assinando o títuloextrajudicial que ora se executa na qualidade de fiadores, tornando-se devedores solidários de NOVA CASA MATERIAIS DE CONSTRUÇÃOLTDA. (afiançada), dúvidas não restam de que com esta possuíam legitimação concorrente para o ajuizamento dos embargos do devedor, em litisconsórcio unitário facultativo ativo, fato que faz com que devam sofrer os efeitos da coisa julgada operada no processo 2.0000.00.330439-6/000, do qual não participaram."
+Com efeito, este Sodalício diferencia coisa julgada dos efeitos da sentença, de modo que estes podem atingir terceiros, conforme as peculiaridades do caso. Corroboram essa conclusão os julgados a seguir:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS À ARREMATAÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO EMBARGANTE.
+(..).
+3. Os efeitos da sentença - que não se confundem com a coisa julgada e seus limites subjetivos - podem atingir aqueles que não figuraram como parte na relação jurídica processual. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no REsp 1606710/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/09/2019, DJe 07/10/2019, g.n.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL E DIREITO DE FAMÍLIA. SENTENÇA QUE RECONHECEU VÍNCULO ENTRE PAI E FILHO. EFEITOS ERGA OMNES. RELAÇÃO AVOENGA. CONSEQUÊNCIA JURÍDICA DA DECISÃO. COISA JULGADA. VIOLAÇÃO. NÃO OCORRÊNCIA. AÇÃO DECLARATÓRIA INCIDENTAL PROPOSTA PELO AVÔ CONTRA O NETO. PRETENSÃO DE AFASTAR A RELAÇÃO DE PARENTESCO SOB O EXCLUSIVO FUNDAMENTO DE INEXISTÊNCIA DE VÍNCULO BIOLÓGICO. INTERESSE DE AGIR. AUSÊNCIA.
+1. Os efeitos da sentença, que não se confundem com a coisa julgada e seus limites subjetivos, irradiam-se com eficácia erga omnes, atingindo mesmo aqueles que não figuraram como parte na relação jurídica processual.
+(..)
+3. Recurso especial não provido."
+(REsp 1331815/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/06/2016, DJe 01/08/2016, g.n.)
+Assim, considerando a peculiaridade ressaltada pelo eg. TJ-MG, no sentido de evitar decisões conflitantes, verifica-se que o v. acórdão estadual está em conformidade com a orientação deste Sodalício, o que atrai a Súmula n. 83/STJ.
+Diante do exposto, conheço negoprovimento ao recurso especial.
+Publique-se.
