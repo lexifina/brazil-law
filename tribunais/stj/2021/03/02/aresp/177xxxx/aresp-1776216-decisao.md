@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto por INCORPARAÇÃO GARDEN LTDAE OUTRA contra v. acórdão do eg. Tribunal de Justiça do Distrito Federal, assim ementado:
+"AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. BENS PENHORÁVEIS.AUSÊNCIA DE INDICAÇÃO PELO DEVEDOR. CERTIDÃO DE CRÉDITO. EXPEDIÇÃO.RECUPERAÇÃO JUDICIAL. HABILITAÇÃO. ATUALIZAÇÃO MONETÁRIA. TERMO FINAL. LIMITAÇÃO TEMPORAL. INAPLICABILIDADE.
+1. A certidão de crédito pode ser expedida quando não tenham sido localizados bens do devedor passíveis de penhora e o curso da fase de cumprimento da sentença esteja suspenso há mais de 6 (seis) meses.
+2. O artigo 9º, II, da lei n. 11.101/2005 aplica-se somente à habilitação de crédito realizada pelos credores nos casos em que estes, apresentam ao administrador judicial, suas habilitações ou divergências quanto aos créditos relacionados, após a publicação do edital previsto no artigo 52 §1º da Lei de Falências.
+3. Por se tratar de crédito constituído antes do pedido de recuperação judicial das agravantes e, diante da ausência de comprovação de sua inclusão no plano de recuperação, não se aplica a limitação temporal prescrita no artigo 9º, inciso II, da Lei n. 11.101/2005 para fins de atualização do débito e expedição de certidão de crédito.
+4. As obrigações anteriores à recuperação judicial observarão as condições originalmente contratadas ou definidas em lei, inclusive no que diz respeito aos encargos, salvo se de modo diverso ficar estabelecido no plano de recuperação judicial. Inteligência do artigo 49, § 2º, da Lei 11.101/2005.
+5. Recurso conhecido e desprovido." (e-STJ, fl. 119)
+Nas razões do recurso especial, o recorrente aponta, além de dissídio jurisprudencial, violação aoart. 9º, II, da Lei 11.101/05a limitação de atualização dos créditos até a data do pedido derecuperação.
+É o relatório. Decido.
+Quanto à alegada ofensa ao art. 9, II, da Lei 11.101/2005,extrai-se do acórdão trechos da fundamentação adotada pela Corte de origemna apreciação da questão, in verbis:
+"Afirmam as agravantes que o total da condenação deveria ter sido atualizado até a data do pedido de recuperação judicial, quer seja, 07/11/2017, com esteio no artigo 9º, II, da Lei de Falências.
+Ocorre que o artigo 9º, II, da lei n. 11.101/2005, disciplina a habilitação de crédito realizada pelo credor nos casos em que os credores apresentam, ao administrador judicial, suas habilitações ou divergências quanto aos créditos relacionados, após a publicação do edital previsto no artigo 52 §1º, conforme preceitua o artigo 7o, § 1o da Lei de Falências. Confira-se:
+(..)
+No entanto, este não é o caso dos autos, por se tratar de crédito constituído antes do pedido de recuperação judicial das agravantes/executadas, razão pela qual não se aplica a limitação temporal prescrita no artigo 9º, inc. II, da Lei n. 11.101/2005 para fins de atualização do débito e expedição de certidão de crédito.
+Portanto, aplicam-se ao presente caso as disposições contidas no art. 49, § 2º, da Lei n. 11.101/2005, in verbis:
+(..)
+Assim, como o crédito, objeto dos autos, foi constituído antes do pedido da recuperação judicial e não havendo demonstração de que se encontra previsto no plano de recuperação judicial, deve ser atualizado até a presente data."(e-STJ, fls. 121/123).
+Com efeito, a parte recorrente limitou-se a sustentar a vigência dodispositivo sem, no entanto, rebater o fundamento acima, suficiente de persi para a manutenção do julgado nesse ponto. Incide, portanto, o óbice daSúmula 283/STF à espécie, por analogia. A respeito, citem-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO.RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. EXECUÇÃO DE TÍTULOEXTRAJUDICIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. PENHORA SOBRE DIREITODE CRÉDITO. POSSIBILIDADE. TENTATIVAS ANTERIORES FRUSTRADAS. NÃOINDICAÇÃO, PELO DEVEDOR, DE OUTROS BENS PASSÍVEIS DE PENHORA. FUNDAMENTOAUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. LITIGÂNCIA DEMÁ-FÉ. NÃO OCORRÊNCIA. MULTA INDEVIDA. AGRAVO INTERNO PROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamentoautônomo e suficiente à manutenção do acórdão recorrido atrai o óbice daSúmula 283 do STF.
+2. Ressalta-se, como obIter dictum, que o STJ, por vários dos seusprecedentes, tem admitido penhoras fixadas em percentual do faturamento daempresa executada, com vistas, por um lado, a disponibilizar forma menosonerosa para o devedor e, por outro lado, a garantir forma idônea e eficazde satisfação do crédito, atendendo assim ao princípio da efetividade daexecução.
+3. Nos termos da Jurisprudência desta Corte, "o simples fato de haver olitigante feito uso de recurso previsto em lei não significa litigância demá-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel.Min. NANCY ANDRIGHI, DJe de 12/12/2008). A má-fé não pode ser presumida,sendo necessária a comprovação do dolo da parte, ou seja, da intenção deobstrução do trâmite regular do processo, nos termos do art. 17 do Código
+de Processo Civil de 1973.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novoexame, conhecer do agravo para dar parcial provimento ao recurso especial.
+(AgInt no AREsp 1634405/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 07/12/2020, DJe 01/02/2021)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DECOBRANÇA. RESPONSABILIDADE DA CONTRATANTE. MÁ CONDUTA DASUBCONTRATADA. SOLIDARIEDADE ORIGINÁRIA DE CONTRATO QUE REMETE AO ART. 72DA LEI Nº 8.666/93. PRETENSÃO QUE DEMANDA O REVOLVIMENTO DO CONJUNTOFÁTICO E PROBATÓRIO DOS AUTOS E A REINTERPRETAÇÃO DE CLÁUSULASCONTRATUAIS. ÓBICE DE INADMISSIBILIDADE. SÚMULAS 5 E 7 DO STJ.CONFIRMAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO ESPECÍFICO DO ACÓRDÃORECORRIDO. SÚMULA 283 DO STF. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284 DOSTF. AGRAVO INTERNO NÃO PROVIDO.
+1. O exame da pretensão recursal exigiria a alteração das premissasfático-probatórias estabelecidas pelo v. acórdão e a interpretação decláusulas contratuais, o que é vedado em sede de recurso especial, nostermos dos enunciados das Súmulas 5 e 7 do STJ.
+2. A subsistência de fundamento inatacado apto a manter a conclusão doaresto impugnado impõe o não-conhecimento da pretensão recursal, a teor doentendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso
+extraordinário quando a decisão recorrida assenta em mais de um fundamentosuficiente e o recurso não abrange todos eles."
+3. Quanto à alegação de não identificação da dívida com as hipóteses deresponsabilidade solidária do art. 71 da Lei 8.666/93, a ausência dedemonstração da violação aos dispositivos legais pelo acórdão recorridoimplica deficiência de fundamentação, conforme pacífico entendimento desteSTJ. Aplicação da Súmula 284 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1701966/TO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 10/12/2020, DJe 18/12/2020)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, doRISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
