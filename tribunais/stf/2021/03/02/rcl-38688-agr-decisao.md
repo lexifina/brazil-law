@@ -1,0 +1,25 @@
+DECISÃO
+AGRAVO – JUÍZO DE RETRATAÇÃO.
+RECLAMAÇÃO – AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 5.090 – DESRESPEITO – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Walina Rolim da Silva de Souza afirma haver o Vigésimo Quinto Juizado Especial Federal da Seção Judiciária do Distrito Federal, no processo nº 0030473-22.2019.4.01.3400, inobservado liminar deferida pelo ministro Luís Roberto Barroso na ação direta de inconstitucionalidade nº 5.090.
+    Narra o ajuizamento de ação voltada à cobrança de valores, a título de correção monetária, relativamente aos depósitos do Fundo de Garantia do Tempo de Serviço, considerado índice diverso da Taxa Referencial. Ressalta ter o Juízo, em 12 de dezembro de 2019, assentado a improcedência do pedido, surgindo o descompasso.
+    Salienta implementada, em 6 de setembro anterior, pelo Relator da ação direta, medida acauteladora que implicou a suspensão das demandas a versarem a atualização dos depósitos.
+    Requereu, no campo precário e efêmero, a paralisação da tramitação na origem. Busca a confirmação da providência e a cassação do ato impugnado.
+    Em 3 de fevereiro de 2020, Vossa Excelência deferiu a tutela de urgência e determinou a suspensão do processo até o desfecho da ação direta de nº 5.090.
+    O Juízo, em informações, noticia cumprida a liminar.
+    A Caixa Econômica Federal, em contestação, sustenta manuseada a reclamação como sucedâneo recursal. Cita precedentes.
+    O Ministério Público Federal opina pela procedência do pedido. Sublinha a identidade material considerados o ato atacado e o processo objetivo, destacando inobservado o que decidido nesse último.
+    Vossa Excelência, em 20 de outubro de 2020, negou seguimento à reclamação, revogando a medida acauteladora. Uma vez extrapolado o prazo de 180 dias previsto no artigo 21, parágrafo único, da Lei nº 9.868/1999 e ante a semelhança da ação direta com a declaratória de constitucionalidade, assentou esgotada a eficácia do pronunciamento.
+    A reclamante, em agravo interno, diz impertinente a aplicação do dispositivo da Lei nº 9.868/1999. Discorre sobre a demora do julgamento da ação direta de inconstitucionalidade nº 5.090, frisando não poder recair sobre si ônus e prejuízos processuais. Alude ao artigo 240, § 3º, do Código de Processo Civil, a teor do qual a parte não será prejudicada em virtude de demora imputável exclusivamente ao serviço judiciário.
+    A Caixa Econômica Federal, em contraminuta, evocando o enunciado nº 283 da Súmula do Supremo, realça a ausência de impugnação específica aos fundamentos do ato questionado.
+    2. Atendeu-se aos pressupostos de recorribilidade. A peça, subscrita por advogados credenciados, foi protocolada no prazo legal.
+     Reanalisado o caso a partir das razões veiculadas no agravo interno, concernentes à impertinência da aplicação do artigo 21, parágrafo único, da Lei nº 9.868/1999, mostra-se adequada a sequência da reclamação, uma vez em jogo liminar deferida em ação direta de inconstitucionalidade.
+    Questiona-se, na ação direta de nº 5.090, a compatibilidade, com a Carta da República, dos artigos 13 da Lei nº 8.036/1990 e 17 da Lei nº 8.177/1991, mediante os quais estabelecida a correção dos depósitos nas contas vinculadas do Fundo de Garantia do Tempo de Serviço a partir da Taxa Referencial. Em 6 de setembro de 2019, o Relator, ministro Luís Roberto Barroso, mediante pronunciamento individual, acolheu pedido de medida acauteladora, nos seguintes termos:
+    Considerando: (a) a pendência da presente ADI 5090, que sinaliza que a discussão sobre a rentabilidade do FGTS ainda será apreciada pelo Supremo e, portanto, não está julgada em caráter definitivo, estando sujeita a alteração (plausibilidade jurídica); (b) o julgamento do tema pelo STJ e o não reconhecimento da repercussão geral pelo Supremo, o que poderá ensejar o trânsito em julgado das decisões já proferidas sobre o tema (perigo na demora); (c) os múltiplos requerimentos de cautelar nestes autos; e (d) a inclusão do feito em pauta para 12/12/2019, defiro a cautelar, para determinar a suspensão de todos os feitos que versem sobre a matéria, até julgamento do mérito pelo Supremo Tribunal Federal.
+    Versando a demanda originária a atualização dos referidos depósitos, cabia ao Juízo proceder à suspensão do processo, tendo em conta o determinado em sede de controle concentrado. Ao prolatar sentença em momento posterior ao decidido no processo objetivo, acabou por inobservar o ato do Relator.
+    3. Reconsidero o pronunciamento de 20 de outubro de 2020, para, retomada a sequência do processo, julgar procedente o pedido formulado na reclamação e cassar o ato do Vigésimo Quinto Juizado Especial Federal da Seção Judiciária do Distrito Federal, de 12 de dezembro de 2019, formalizado no processo nº 0030473-22.2019.4.01.3400, mantendo a suspensão desse último até o julgamento definitivo da ação direta de inconstitucionalidade nº 5.090.
+    4. Publiquem.
+Brasília, 2 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
