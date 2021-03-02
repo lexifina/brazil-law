@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por EBO ENGENHARIA E INCORPORAÇÃO LTDA.dedecisão do Tribunal de Justiça do Distrito Federalque não admitiu o recurso especial, sob ofundamento danecessidade de interpretação de cláusulas contratuais e reexame de fatos e provas para alteração do resultado do julgamento tanto quanto à assinatura de contrato na condição de testemunha como em relação ao pretendido decote de juros(Súmulas 5 e 7, ambasdo STJ).
+É o relatório. Passo a decidir.
+O recurso não merece sequer conhecimento.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Observa-se que o agravo previsto no art. 1.042 do CPC/15 tem por objetivo o processamento do recurso especial inadmitido pela Corte de origem.Assim, é imperioso que, nas razões recursais, aagravante demonstre expressamente o desacerto da decisão agravada., impugnando especificamente cada um dos fundamentos apontados na decisão agravada.
+In casu, a parte agravante não rebateu, como lhe competia, todos os referidos fundamentos da decisão recorrida, pois se limitou a reprisar os argumentos expostos no próprio recurso especial, a fim de demonstrar a existência de violação a dispositivo legal.
+Com efeito, o princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar.
+Incide, na hipótese, o art. 932, III, do CPC/15, que permite ao Relator não conhecer de recurso que não impugna especificamente os fundamentos da decisão recorrida.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se.
