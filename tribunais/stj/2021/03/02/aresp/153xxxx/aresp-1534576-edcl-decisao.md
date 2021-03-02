@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por KOGA KOGA CIA LTDA. contra decisão em que se conheceu do agravo para dar provimento ao recurso especial, a fim de cassar o acórdão recorrido, porquanto contrário a jurisprudência do STJ, e determinar novo julgamento.
+A parte embargante alega, em síntese, a omissão na decisão que deixou de apreciar o real pedido do recorrente: reforma do acórdão e extinção do executivo fiscal.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo não haver vício de integração a ser sanado.
+O recurso especial origina-se de execução fiscal extinta no primeiro grau após o acolhimento de exceção de pré-executividade.
+No primeiro grau de jurisdição, acolheu-se a exceção de pré-executividade para reconhecer que a execução fiscal fora proposta enquanto vigorava a suspensão liminar da exigibilidade do crédito tributário, concedida em ação anulatória.
+O Tribunal a quo deu provimento à apelação do ESTADO DE GOIÁS para afastar a extinção da execução, consignando que, concedida a liminar em abril de 2016 e revogada em junho de 2017, a execução foi proposta (13/07/2016) após a revogação da liminar (e-STJ fls. 169/170).
+Opostos embargos de declaração, o Tribunal goiano, reiterando as datas referidas, corrigiu o evidente erro material ao referir-se à propositura da execução quando já revogada a liminar de suspensão do crédito.
+Entretanto, manteve a conclusão do acórdão embargado pela não extinção da execução ao consignar que "a declaração de nulidade do referido ato decisório teve o condão de retirar do mundo jurídico todo o suporte fático/normativo utilizado como amparo para a sentença extintiva do executivo fiscal, e restituir o trâmite da ação ao status quo ante, porquanto, resulta na invalidade de todos os atos posteriores àquele julgado nulo, sendo portanto válido o feito executivo" (e-STJ fls. 211).
+No especial, a parte alega violação dos arts. 485 e 803 do CPC/2015 e art. 151 do CTN, bem como a ocorrência de divergência jurisprudencial.
+Sustenta, em síntese, que se impõe a extinção da execução fiscal proposta enquanto suspensa a exigibilidade do crédito tributário em razão de liminar conferida.
+Pois bem.
+Como consignado na decisão embargada, o Tribunal local reconheceu, às e-STJ fls. 169/170, que a execução fiscal fora proposta enquanto suspensa a exigibilidade do crédito tributário descrito nos títulos executivos por liminar concedida em ação anulatória.
+Com efeito, observa-se dos autos que o crédito tributário executado encontrava-se com a exigibilidade suspensa por liminar concedida em ação anulatória meses antes da propositura da execução.
+No entanto, a Corte regional, reformando a sentença, decidiu pela manutenção da execução fiscal, ao fundamento de que a tutela antecipada que suspendia a exigibilidade da CDA foi cassada após a propositura da ação executiva, resultando no restabelecimento do status quo ante.
+Há muito, esta Corte Superior consolidou o entendimento contrário aquele adotado pelo Tribunal a quo no caso concreto, segundo o qual a suspensão da exigibilidade do crédito tributário nos termos dos incisos do art. 151 do CTN conduz à extinção da execução fiscal, se a causa da suspensão ocorreu antes da propositura do feito executivo ou a suspensão da execução, se a exigibilidade foi suspensa quando já proposta a execução (vide AgRg no AREsp 156.870/RJ, rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 21/05/2012; REsp 1.140.956/SP, rel. Ministro LUIZ FUX, PRIMEIRA SEÇÃO, DJe 03/12/2010).
+In casu, o entendimento adotado no acórdão originalmente impugnado não se coaduna com a orientação jurisprudencial consolidada nesta Corte Superior, o que impõe a cassação do acórdão proferido para que seja dada a oportunidade ao Tribunal a quo, que tem a atribuição de análise do contexto fático dos autos, para que perfaça novo julgamento da apelação, observada a referida diretriz jurisprudencial, decidindo, inclusive, sobre os ônus sucumbenciais dele decorrentes.
+Assim, não há a alegada omissão na decisão monocrática que, apreciando os fundamentos e pedidos do recurso especial, deu provimento ao recurso considerando as atribuições constitucionalmente conferidas a esta corte de cassação.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
