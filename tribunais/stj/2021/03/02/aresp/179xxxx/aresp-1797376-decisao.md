@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por GILBERTO SCHIOCHET contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+TRIBUTÁRIO AGRAVO DE INSTRUMENTO EXECUÇÃO FISCAL EXCEÇÃO DE PRÉ-EXECUTIVIDADE ILEGITIMIDADE PASSIVA.
+Quanto à controvérsia trazida aos autos, alega violação do art. 135, III, do CTN e divergência quanto à aplicação da Súmula n. 435 do Superior Tribunal de Justiça, no que concerne ao indevido redirecionamento da execução fiscal contra o recorrente em razão da ausência das condições autorizativas legais, sendo a não localização da empresa apenas indício da dissolução irregular, devendo ser comprovado também o elemento subjetivo na conduta ilícita do sócio, e traz o(s) seguinte(s) argumento(s):
+Ocorre Excelências que o redirecionamento se deu de forma ilegal. O artigo 135, III do CTN só autoriza o redirecionamento em caso de excesso de poderes, ou infração de contrato social, estatuto ou a lei, e a atuação lesiva deve ser intencional, pois a responsabilidade, prevista no artigo 135 do CTN é subjetiva.
+ ..
+Assim, a decisão ora recorrida fere o referido dispositivo visto que permite a responsabilização do sócio fora dos casos previstos no referido dispositivo.
+No caso dos autos o redirecionamento se deu em razão de que a empresa executada não foi localizada no endereço declinado pela exequente, não sendo motivo suficiente para responsabilizar o sócio administrador.
+É certo que a dissolução irregular conforme já pacificando por esta Corte - Súmula 435 - é causa ensejadora do redirecionamento da execução fiscal, contudo, a interpretação que se deve ter desse enunciado, diferentemente da constante no acórdão recorrido de que a simples não localização da empresa é suficiente para o redirecionamento da execução, é a de que a não localização da empresa no seu domicílio fiscal é indício de sua dissolução irregular, mas independentemente de qualquer outro elemento, é insuficiente a ensejar o redirecionamento da execução fiscal, que depende de prévia apuração das razões pelas quais tal fato ocorreu, bem como da comprovação do elemento subjetivo na conduta ilícita do sócio, a teor do artigo 135 do CTN.
+ ..
+Conforme se verifica o entendimento deste Egrégio Tribunal e do Tribunal de Justiça do Rio de Janeiro conforme demonstrado nas ementas acima transcritas é de que a mera não localização da empresa executada certificada pelo Mineirinho é um indício de dissolução irregular mas não é por si só suficiente a ensejar o redirecionamento (fls. 109-111).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
