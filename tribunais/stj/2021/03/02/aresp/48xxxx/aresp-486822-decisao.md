@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo recurso especial interposto por CAIXA ECONÔMICA FEDERALcontra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal Regional Federal da 2ª Região (TRF 2ª Região), assim ementado (fl. 100):
+"PROCESSUAL CIVIL.AÇÃO PROPOSTA EM FACE DA CEF.FIXAÇÃO DA COMPETÊNCIA.1. Trata-se de uma ação de abstenção de uso com um pedido acessório de reparação de danos, o que nos leva, em princípio, a concluir que a competência para o seu processamento e julgamento deve ser fixada segundo os termos dos arts. 94, caput, c/c 100, IV, "a", ambos do CPC2. Ocorre que a pessoa jurídica que figura como ré no caso em tela é a Caixa Econômica Federal- CEF, empresa pública que possui agências em todo o território nacional, sendo a sua Agência Central localizada no Rio de Janeiro, onde, inclusive, possui núcleo de representação judicial, o que confere ao autor, segundo a jurisprudência deste Tribunal, a possibilidade de escolher onde demandá-la, sem trazer, em contrapartida, nenhum ônus processual à aludida empresa pública.
+2. Agravo de instrumento desprovido"
+As razões do recurso especial, fundamentadas nas alíneas "a" do permissivo constitucional, apontam a violação dos arts. 94 e 100, IV, do CPC/73, ao argumento de que a ação pessoal contra empresa pública deveria ser promovida em Brasília - DF, local onde fica situada a sede da Caixa Econômica Federal.
+Decisão que inadmitiu o recurso especial àfl. 180.
+Contraminuta às fls. 200/212.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Nas razões do recurso especial, invoca-sea violação dos arts. 94 e 100, IV, do CPC/73, ao argumento de que a ação pessoal contra empresa pública deveria ser promovida em Brasília - DF, local onde fica situada a sede da Caixa Econômica Federal, bem como porque o contrato sobre o qual recai a controvérsia fora firmado também em Brasília. Afirma-se que a agência do Rio de Janeiro possui apenas funções administrativas.
+O eg. TRF 2ª Região, por sua vez, consignou que a Agência Central fica no Rio de Janeiro, bem como que não há qualquer prejuízo ao recorrente se a ação prosseguir nesta comarca. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão objurgado:
+"Em outras palavras, trata-se de uma ação de abstenção de uso com um pedido acessório de reparação de danos, o que nos leva, em princípio, a concluir que a competência para o seu processamento e julgamento deve ser fixada segundo os termos dos arts. 94, caput, c/c100, IV, "a", ambos do CPC:
+(..)
+Ocorre que a pessoa jurídica que figura como ré no caso em tela é a Caixa Econômica Federal - CEF, empresa pública que possui agências em todo o território nacional, sendo a sua Agência Central localizada no Rio de Janeiro, onde, inclusive, possui núcleo de representação judicial, o que confere ao autor, segundo a jurisprudência deste Tribunal, a possibilidade de escolher onde demandá-la, sem trazer, em contrapartida, nenhum ônus processual à aludida empresa pública.
+Com efeito, o eg. Tribunal analisou a competência à luz das circunstâncias do caso concreto, de modo que a pretensão de modificar essa conclusão - quanto à existência da agência central -, seria necessário revolver o acervo fático e probatório dos autos, providência incompatível com o recurso especial, a teor da Súmula n. 7/STJ. Ademais, o local onde fora firmado o contrato também é matéria fática, o que impede sua análise no apelo nobre, a teor da Súmula n. 5/STJ.
+Além disso, não houve impugnação específica do fundamento relativo à ausência de prejuízo ao recorrente, o que atrai a Súmula n. 283/STF.
+Assim, o recurso não merece prosperar.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se
