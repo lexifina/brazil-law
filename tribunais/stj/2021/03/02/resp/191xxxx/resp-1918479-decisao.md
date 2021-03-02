@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial, interposto pela CR2 EMPREENDIMENTOS SPE-9 LTDA e OUTRO, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"CIVIL E CONSUMIDOR. FRUSTRADA. INCORPORAÇÃO IMOBILIÁRIA INADIMPLEMENTO DO INCORPORADOR. MORAL.
+REPARAÇÕES MATERIAL E Incorporação imobiliária frustrada quanto ao prazo de conclusão e entrega da unidade autônoma.
+Responsabilidade da incorporadora inadimplente em compor as perdas e danos.
+Multa contratual pelo atraso na entrega da coisa e no patamar fixado que se mostra consentâneo com a postura adotada pela jurisprudência. Termo final da multa na data da entrega das chaves.
+Dano moral inconteste pela frustração de quem está esperando receber o seu imóvel e permanece por quase um ano sofrendo com a demora. Fixação do valor em R$ 10.000,00 (dez mil reais), que se mostra justa e proporcional ao dano infligido.
+Provimento do recurso dos autores para fixar a reparação moral e impor a sucumbência ao polo demandado. Provimento parcial do recurso das rés para fixar o termo final da multa na data da entrega das chaves. Unânime." (e-STJ fl. 6214)
+Opostos embargos de declaração por ambas as partes, foram rejeitados os embargos das rés e providos os dos autores para estabelecer como termo inicial dos juros a data da citação.
+Em suas razões recursais, as recorrentes apontam violação aos arts. 489, §1º, III e IV e 1.022, II, do CPC/2015 e arts. 186, 944 e 884, todos do Código Civil e a existência de dissídio jurisprudencial entre o entendimento do eg. STJ e o entendimento fixado na c. Câmara de origem, sustentando, em síntese, que: 1) o acórdão recorrido não foi devidamente fundamentado, pois não descreveu nenhuma circunstância excepcional advinda do atraso no cumprimento do contrato que justificasse o afastamento do art. 944 do CC; 2) não é cabível sua condenação em indenização por danos morais, pois o pequeno atraso na entrega do imóvel pela incorporadora constiui dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual e não implica lesão à honra ou violação da dignidade humana; e 3) o valor da indenização por danos morais é excessivo.
+É o relatório. Passo a decidir.
+O recurso merece prosperar.
+Inicialmente, não prospera a alegada ofensa ao art. arts. 489, §1º, III e IV e 1.022, II, do CPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Com relação ao dano moral, a Corte de origem assim se manifestou:
+"No pacto inicial ficou acordado que a entrega da unidade compromissada dar-se-ia em novembro/2010, e a entrega das chaves deu-se a 28 de junho de 2.011, (fls. 549, index 577), data em que os promitentes compradores foram imitidos na posse, termo final de incidência da multa.
+O dano moral, no caso, é inconteste, pela evidente angústia e frustração de quem está esperando receber seu imóvel e permanece por quase um ano sofrendo com a demora e a incerteza, o que, por óbvio, não pode ser entendido como mero aborrecimento do dia-a-dia." (e-STJ fl. 616)
+No ponto, verifica-se que o acórdão objurgado não apontou por quais razões, no caso concreto, o atraso acarretou danos morais, fundamentando-se a alegação do dano moral apenas no atraso na entrega do bem.
+Dessa forma, encontra-se em dissonância com a orientação jurisprudencial desta Corte Superior, a qual estabelece que, "o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais." (AgRg no AREsp 570.086/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/10/2015, DJe 27/10/2015). A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. MERO DESCUMPRIMENTO CONTRATUAL. DANOS MORAIS NÃO CONFIGURADOS. PRECEDENTES. VALORAÇÃO JURÍDICA DOS FATOS. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem reconheceu a ocorrência de dano moral em razão unicamente do atraso, sem tecer qualquer circunstância que evidenciasse violação a qualquer dos direitos da personalidade do autor, como se tratasse de consequência inerente ao descumprimento contratual, o que não se afigura correto na linha da mais recente orientação jurisprudencial desta Corte de Justiça.
+2. Não incide o óbice previsto no enunciado n. 7 da Súmula do STJ, tendo em vista se tratar de mera revaloração de prova, atribuindo-se o adequado valor jurídico às premissas fixadas na origem.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1843816/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/08/2020, DJe 01/09/2020)
+Assim, imperiosa a reforma do aresto recorrido, no ponto.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial para afastar a condenação da recorrente ao pagamento de indenização por danos morais.
+Em razão da sucumbência recíproca, arcará cada parte com 50% das custas e dos honorários advocatícios, estes fixados em 10% sobre o valor atualizado da condenação.
+Publique-se.
