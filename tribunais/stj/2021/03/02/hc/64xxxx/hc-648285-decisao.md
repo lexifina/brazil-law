@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de PAULO ROBERTO DA SILVA EVANGELISTA, no qualpleiteia a concessão do apelo em liberdade ao paciente.
+É o relatório.
+Decisão.
+Esta Corte -HC 535.063/SP, TerceiraSeção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, PrimeiraTurma, Rel. Min.Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, SegundaTurma, Rel. Min.Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Em que pesem os esforços doimpetrante, verifica-se que otemaora deduzidonão foi objeto de cognição pela Corte de origem, o que obsta a apreciação de tal matériapor este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+A fim de corroborar tal conclusão, trago à baila os seguintes precedentes:
+"HABEAS CORPUS. (..) MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MANIFESTO CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. (..) 6. Inviável a análise, diretamente por este Superior Tribunal, de matérias não analisadas pela Corte de origem, sob pena de, assim o fazendo, incidir na indevida supressão de instância. 7. Habeas corpus não conhecido." (HC 279.802/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/04/2014, DJe 05/05/2014.)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. (..) NULIDADES. SUPRESSÃO DE INSTÂNCIA. (..) NÃO CONHECIMENTO. 1. Se as apontadas nulidades no trâmite processual - informações anônimas, ausência de fundamentação para o recebimento da denúncia, revelia, vicio na oitiva de testemunha e impropriedade no laudo pericial -, deixaram de ser questionadas e debatidas perante a Corte originária, não merece conhecimento o writ nestes pontos, sob pena de supressão de instância. Precedentes. (..) 7. Recurso ordinário conhecido em parte e, nesta extensão, não provido." (RHC 42.294/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/04/2014, DJe 05/05/2014.)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
