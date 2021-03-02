@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS ALBERTO ROCHA ASTH contra decisão de minha lavra, ementada nos seguintes termos (fl. 49):
+"HABEAS CORPUS. DIREITO PROCESSUAL PENAL. TRÁFICO DE DROGAS. FUNDADO RISCO DE REITERAÇÃO CRIMINOSA. DUAS CONDENAÇÕES CRIMINAIS POR CRIMES DA LEI DE TRÁFICO EM DESFAVOR DO PACIENTE. PRISÃO PREVENTIVA FUNDAMENTADA IDONEAMENTE. PRECEDENTES. ORDEM DEHABEAS CORPUS DENEGADA."
+O Embargante aponta contradição na decisão ora impugnada,pois " c om a juntada da FAC completa do paciente, nota-se que a FAC de JOELSON de FL. 45, apresenta conteúdo criminal superior àora acostada na integralidade." (fl. 54).
+Requer o acolhimento dos embargos, para que "haja conclusão de que deve ter-se equidade entre os réus, e, por conseguinte, que seja ao menos deferido o writ com a concessão da prisão domiciliar ou com monitoramento" (fl. 54).
+É o relatório. Decido.
+Os embargos não podem ser acolhidos.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado,vícios inexistentes na hipótese.
+Confira-se, por oportuno, a fundamentação apresentada na decisão atacada (fls. 50-51; grifos no original):
+"Na hipótese, o Juízo singular, ao decretar a prisão preventiva do Acusado, ressaltou a gravidade concreta do delito, tendo em vista a quantidade de droga apreendida (419g de maconha), bem como o risco de reiteração delitiva, pois o Réu "é reincidente específico" (fl.32; grifos no original), o que justifica, em tese, a prisão preventiva como garantia da ordem pública.
+Por sua vez, o Tribunal de origem, ao esclarecer que o caso não era de aplicação do art. 580 do Código de Processo, consignou que "no que e refere ao Paciente, o mesmo ostenta duas condenações anteriores transitadas em julgado e também por crimes de tráfico e associação para o tráfico, o que foi expressamente asseverado pelo Juiz a quo. Isso posto, surge patente que as condições subjetivas do Paciente não são idênticas a do Corréu, o que impossibilita a pretendida extensão da benesse concedida para o outro acusado" (fl. 36; sem grifos no original).
+Considerada essa conjuntura, concluo que a custódia cautelar deve ser mantida, pois conforme jurisprudência do Superior Tribunal de Justiça, o fundado risco de reiteração criminosa, consubstanciado em condenações pretéritas, legitima a medida mais gravosa. Com igual conclusão:
+ ..
+No mais, vale referir que, na inicial do presente writ, a Defesa não narra que os crimes anteriores não são graves. Outrossim, conclusão nesse sentido não pode ser firmada pela documentação juntada. Ao não trazer a íntegra da folha de antecedentes criminais, a Parte Impetrante não se desincumbiu do ônus de acostar aos autos a prova pré-constituída de sua alegação de que o Réu tem condições favoráveis."
+Como se vê, a decisão embargada salientou que a prisão preventiva foi devidamente fundamentada com base na gravidade concreta da conduta,tendo em vista a quantidade de droga apreendida (419g de maconha), bem como o risco de reiteração delitiva, em razão da reincidência específica do Acusado.
+Ressalto que o Tribunal local afastou a aplicação do art. 580 do Código de Processo Penal pelo fato dascondições pessoais doAcusado seremdiversas, tendo em vista a existência de condenaçõespelos delitos de tráfico de drogas e associação para o tráfico, situação não verificada em relação ao Corréu, conforme folhade antecedentes juntadaaos autos pelo Embargante.
+Friso, ainda, queacontradição passível de ser sanada na via dos embargos declaratórios é a contradição interna, entendida como ilogicidade ou incoerência existente entre os fundamentos e o dispositivo do julgado em si mesmo considerado, e não a contradição externa, relativa à incompatibilidade do julgado com o entendimento da parte.
+Com efeito, "apenas a contradição interna, entre os fundamentos e o dispositivo do julgado, autoriza os embargos de declaração, por prejudicar sua coerência lógica, não a contrariedade entre a prestação jurisdicional e o entendimento sustentado pela parte"(EDcl no AgInt no RHC 83.405/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/02/2018, DJe 19/02/2018).
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOHABEAS CORPUS. PROCESSUAL PENAL. ART. 619 DO CÓDIGO DE PROCESSO PENAL. VÍCIOS INEXISTENTES. EMBARGOS REJEITADOS.
