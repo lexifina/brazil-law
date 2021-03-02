@@ -1,0 +1,30 @@
+DECISÃO
+VINICIUS AGNELO DA COSTA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que manteve a sua prisão preventiva nos autos do HC n. 1.0000.20.580190-5/000.
+Informam os autos que o paciente teve a prisão em flagrante convertida em preventiva em razão do suposto cometimento do delito previsto no art. 171, c/c o art. 14, II, do Código Penal.
+A defesa sustenta que o paciente sofre constrangimento ilegal, pois não seria possível a conversão do flagrante em preventiva de ofício, sem requisição do Parquet ou representação da autoridade policial.
+Aduz que "a preventiva foi imposta ao Paciente, mesmo que houvesse o requerimento do MP para a conversão ou decretação,  o que apenas se admite para argumentar  , mesmo assim os fundamentos invocados para a decretação da prisão se afiguram manifestamente inidôneos".
+Consigna que, "afora a imprestável presunção de (eventual) reiteração delitiva, o decreto prisional se limita a invocar a alegada gravidade concreta  "o fato é mais grave do que o comum", é o que se lê na decisão  para fundamentar a imposição da preventiva".
+Requer a concessão da ordem a fim de "reconhecer a ilegalidade da conversão de ofício de flagrante para prisão preventiva e relaxar imediatamente a prisão, e/ou conceder ao paciente a liberdade provisória observadas as medidas cautelares diversas da prisão".
+Indeferida a liminar e prestadas as informações de fls. 186-221, foram os autos enviados ao Ministério Público Federal, que oficiou "pela concessão da ordem, a fim de relaxar a prisão preventiva". Confira-se a ementa:
+EMENTA: Habeas Corpus. Estelionato tentado. Prisão em flagrante convertida em preventiva de ofício pelo magistrado. Ilegalidade. Artigos 310 e 311 do CPP. Nova redação pela Lei n. 13964/19. Reafirmação do sistema acusatório consagrado constitucionalmente, com expressa vedação à iniciativa do juiz na fase de investigação e à substituição da atuação probatória do órgão de acusação (art. 3º-A do CPP). Precedentes do STF e do STJ. Parecer pela concessão da ordem, a fim de relaxar a prisão preventiva. (fls. 223-228).
+Decido.
+No que tange à necessidade de representação da autoridade policial ou o Parquet para a conversão do flagrante em prisão preventiva, a Corte local afirmou o seguinte:
+ ..
+1- DA ALEGAÇÃO DE DECRETAÇÃO DA PRISÃO PREVENTIVA DE OFÍCIO
+Em primeiro lugar, a parte impetrante suscita tese de que houve decretação da prisão preventiva de ofício, sem requerimento da autoridade policial ou do Ministério Público.
+Pois bem. Inicialmente, deixo consignado que não desconheço as mudanças trazidas em nosso ordenamento jurídico pela Lei 13.964/2019, apelidada de "Pacote Anticrime", especialmente no que diz respeito à modificação do art. 311 do CPP, que agora veda a decretação da prisão preventiva de ofício em qualquer fase da investigação policial ou do processo penal. Confira-se a nova redação do referido dispositivo:
+Art. 311. Em qualquer fase da investigação policial ou do processo penal, caberá a prisão preventiva decretada pelo juiz, a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial.
+Entretanto, tenho que tal artigo deve ser interpretado levando-se em consideração o teor do art. 310, inciso II, do mesmo diploma, que apregoa:
+Art. 310. Após receber o auto de prisão em flagrante, no prazo máximo de até 24 (vinte e quatro) horas após a realização da prisão, o juiz deverá promover audiência de custódia com a presença do acusado, seu advogado constituído ou membro da Defensoria Pública e o membro do Ministério Público, e, nessa audiência, o juiz deverá, fundamentadamente:
+I - relaxar a prisão ilegal; ou
+II - converter a prisão em flagrante em preventiva, quando presentes os requisitos constantes do art. 312 deste Código, e se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão; ou
+III - conceder liberdade provisória, com ou sem fiança. (destacamos).
+Sendo assim, verifico que, no caso dos autos, o Juízo a quo não decretou de ofício a segregação cautelar do paciente, mas, sim, homologou a prisão em flagrante, convertendo-a em prisão preventiva (documento de ordem n. 02).
+Portanto, somente há que se falar em nulidade da decretação de ofício da custódia preventiva quando, estando o investigado solto, o juiz determinar sua segregação cautelar.
+Acerca da questão, impende trazer à baila os ensinamentos do ilustre jurista Guilherme de Souza Nucci. Confira-se:  ..
+No caso em apreço, o ato praticado pela Magistrada de primeiro grau não se encontra eivado de qualquer vício, uma vez que, após a análise dos requisitos do art. 312 do Código de Processo Penal, entendeu por bem converter a prisão em flagrante dos pacientes em prisão preventiva.
+Nesse sentido já decidiu o colendo Superior Tribunal de Justiça:  ..  (fls. 158-165)
+Segundo assentado pela Terceira Seção desta Corte Superior ao apreciar o RHC n. 131.263/GO, em sessão realizada no dia 24/2/2021, as inovações veiculadas pela Lei n. 13.694/2019 não permitem ao juiz, sem requerimento do Ministério Público ou representação da autoridade policial, converter em preventiva a prisão em flagrante. Embora minha compreensão pessoal, externada em voto escrito - tanto na Sexta Turma (em alguns julgados) quanto no julgamento do referido recurso ordinário -, seja diversa da que chegou o Colegiado, submeto-me à maioria, em nome da segurança jurídica e da fidelidade aos precedentes qualificados.
+No caso, portanto, destoa do entendimento firmado pelo STJ a afirmação contida no acórdão impugnado de que subsiste a possibilidade de conversão, de ofício, da prisão em flagrante em preventiva. Portanto, impõe-se a revogação da medida constritiva, o que acarreta a prejudicialidade das demais teses formuladas na inicial do habeas corpus.
+À vista do exposto, concedo a ordem para revogar a decisão que decretou a prisão preventiva, sem prejuízo que outra seja proferida, desde que devidamente motivada e precedida de requerimento do Ministério Público ou de representação da autoridade policial.
+Publique-se e intimem-se.
