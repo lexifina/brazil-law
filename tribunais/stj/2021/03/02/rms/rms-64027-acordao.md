@@ -1,0 +1,39 @@
+EMENTA
+PROCESSO CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRETENSÃO RECURSAL QUE NÃO SE VOLTA CONTRA O CONTEÚDO DA DECISÃO DENEGATÓRIA DO WRIT. AUSÊNCIA DO REQUISITO ADMISSIONAL CONCERNENTE AO CABIMENTO. NÃO CONHECIMENTO.
+1. O impetrante, em suas razões de inconformismo, não se volta contra o conteúdo da primeva decisão colegiada que lhe denegou a segurança no mérito; ao invés, seu pedido recursal almeja, única e tão somente, a reforma de posterior acórdão, pelo qual viu indeferido o pedido de homologação de desistência da ação, que formulou após a denegação da ordem.
+2. Como explica ARRUDA ALVIM, é necessário que desponte a existência de "vinculação entre a espécie de vício que se pretende arguir e a espécie recursal adequada para este fim" (Manual de direito processual civil. 18. ed. São Paulo: Thomson Reuters Brasil, 2019, p. 1230).
+3. Na espécie, tem-se que o recurso ordinário não se revela vocacionado para revisar o acerto, ou não, de decisão que indefere a homologação da desistência do writ, devendo, por consequência, ter seu trânsito bloqueado.
+4. Recurso ordinário não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso ordinário em mandado de segurança, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Regina Helena Costa, Gurgel de Faria (Presidente) e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de recurso ordinário em mandado de segurança interposto por Everaldo Dutra Barbosa da Silva contra o acórdão de fls. 297/309, proferido à unanimidade pela Segunda Seção Especializada Cível do Tribunal de Justiça do Estado da Paraíba, assim ementado:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA DE HOMOLOGAÇÃO DE DESISTÊNCIA. RETRATAÇÃO. INCONFORMISMO. MANDADO DE SEGURANÇA. JULGAMENTO DO MÉRITO. DESISTÊNCIA. POSSIBILIDADE. ENTENDIMENTO FIRMADO EM SEDE DE REPERCUSSÃO GERAL. JULGAMENTO DO RE Nº 669.367/RJ. EXCEÇÃO. INTUITO DE RECUSA À OBSERVÂNCIA DA JURISPRUDÊNCIA DA CORTE. PRECEDENTES DO STF. NÃO HOMOLOGAÇÃO. MANUTENÇÃO DO DECISUM. DESPROVIMENTO DO RECURSO.
+- O Plenário do STF, no julgamento do RE 669.367/RJ, sob o regime da repercussão geral, adotou o entendimento no sentido de que a desistência em mandado de segurança é prerrogativa de quem o impetra, podendo se dar a qualquer momento antes do trânsito em julgado, sem a anuência da parte demandada e independentemente de já ter havido decisão de mérito e de lhe ser desfavorável ou favorável.
+- Contudo, o próprio Supremo Tribunal Federal possui precedentes excepcionando a aplicação do entendimento acima esposado, quando na hipótese houver a demonstração do mero intuito do impetrante de recusar observância à jurisprudência pacífica da Corte.
+- Considerando que o impetrante/agravante já impetrou outras ações mandamentais discutindo a mesma questão debatida e decidida nos presentes autos, como também a matéria já se encontra pacificada nesta Corte de Justiça, incabível a homologação do pedido de desistência, ante o nítido desiderato de recusar observância a jurisprudência desta Corte, razão pela qual deve ser mantida a decisão combatida. (fl. 307)
+Nas razões recursais (fls. 338/348), o recorrente afirma que "os dois outros mandamus impetrados posteriormente, não foram uma reprodução do writ atual em litígio; constata-se também que os outros dois mandamus, impetrados posteriormente, tiveram suas causas de pedir e os pedidos distintos do writ atual em litígio; por fim, constata-se também que os dois mandamus que foram impetrados posteriormente, não foram uma reprodução do writ atual em litígio" (fl. 345/346).
+Aduz, ainda, que "Está claro que o desiderato do autor, nunca foi o de recusar à observância a jurisprudência da Corte a quo sobre o tema da implantação da bolsa desempenho profissional e do auxílio alimentação, simplesmente porque este pedido não existe no mundo processual destes autos" (sic. fl. 347).
+Requer, por essas razões, o provimento da presente súplica, inclusive para se "Deferir e homologar o pedido de desistência" (fl. 347).
+O Presidente da Paraíba Previdência - PBPrev apresentou contrarrazões (fls. 352/355), pelas quais solicita o desprovimento do recurso.
+O Ministério Público Federal, pelo ilustre Subprocurador-Geral da República Antonio Fonseca, manifestou-se pelo não provimento do recurso, consoante parecer de fls. 365/368, resumido na seguinte ementa:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. POLICIAL MILITAR INATIVO. BOLSA DE DESEMPENHO PROFISSIONAL. AUXÍLIO-ALIMENTAÇÃO. PARIDADE.
+Gratuidade de justiça deferida na Corte de origem (fl. 47).
+Recurso tempestivo, bem como regular a representação (fl. 14).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PRETENSÃO RECURSAL QUE NÃO SE VOLTA CONTRA O CONTEÚDO DA DECISÃO DENEGATÓRIA DO WRIT. AUSÊNCIA DO REQUISITO ADMISSIONAL CONCERNENTE AO CABIMENTO. NÃO CONHECIMENTO.
+1. O impetrante, em suas razões de inconformismo, não se volta contra o conteúdo da primeva decisão colegiada que lhe denegou a segurança no mérito; ao invés, seu pedido recursal almeja, única e tão somente, a reforma de posterior acórdão, pelo qual viu indeferido o pedido de homologação de desistência da ação, que formulou após a denegação da ordem.
+2. Como explica ARRUDA ALVIM, é necessário que desponte a existência de "vinculação entre a espécie de vício que se pretende arguir e a espécie recursal adequada para este fim" (Manual de direito processual civil. 18. ed. São Paulo: Thomson Reuters Brasil, 2019, p. 1230).
+3. Na espécie, tem-se que o recurso ordinário não se revela vocacionado para revisar o acerto, ou não, de decisão que indefere a homologação da desistência do writ, devendo, por consequência, ter seu trânsito bloqueado.
+4. Recurso ordinário não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): O recurso ordinário não comporta conhecimento.
+Como deflui da conjugada leitura dos arts. 105, II, "b", da Constituição Federal e 1.027, II, "a", do CPC, o emprego do recurso ordinário é cabível nos mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais de Justiça, quando a decisão for denegatória.
+No caso concreto, porém, o impetrante, em suas razões de inconformismo, não se volta contra o conteúdo da primeva decisão colegiada que lhe denegou a segurança no mérito (acórdãos de fls. 98/111 e 148/156); ao invés, seu pedido recursal almeja, única e tão somente, a reforma de posterior acórdão (fls. 297/309), pelo qual viu indeferido o pedido de homologação de desistência da ação, que formulou após a denegação da ordem.
+Como esclarece o próprio recorrente, "o autor busca com o presente recurso junto a esse Colendo Superior Tribunal de Justiça, obter a reforma da decisão que se retratou da homologação da desistência" (fl. 346).
+Desse modo, o autor não está utilizando o recurso ordinário para rediscutir e postular a reforma do mérito da decisão que lhe denegou a segurança, desejando, ao invés, modificar subsequente acórdão indeferitório de pleito de desistência da ação.
+Ressente-se o pleito recursal, portanto, do requisito admissional alusivo ao cabimento da insurgência. No ponto, como explica ARRUDA ALVIM, é necessário que desponte a existência de "vinculação entre a espécie de vício que se pretende arguir e a espécie recursal adequada para este fim" (Manual de direito processual civil. 18. ed. São Paulo: Thomson Reuters Brasil, 2019, p. 1230).
+Na espécie, tem-se que o recurso ordinário não se revela vocacionado para revisar o acerto, ou não, de decisão que indefere a homologação da desistência do writ, devendo, por consequência, ter seu trânsito bloqueado.
+ANTE O EXPOSTO, encaminho meu voto no sentido de não conhecer do presente recurso ordinário em mandado de segurança.
+É como voto.
