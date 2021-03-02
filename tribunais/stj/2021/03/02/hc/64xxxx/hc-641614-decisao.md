@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de JEFFERSON VASCONCELOS FREITAS contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0025035-89.2012.8.26.0050.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 7 (sete) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, mais o pagamento de 1.266 (mil duzentos e sessenta e seis) dias-multa, como incurso nas iras do art. 33, caput, § 4º, e art 35 c/c art. 40, VI, da Lei n. 11.343/2006 (fls. 11-17).
+Inconformada, a acusação interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, deu provimento ao recurso, a fim de afastar a figura do tráfico privilegiado, bem como majorar a pena-base, de modo a redimensionar a pena para o patamar de 10 (dez) anos e 8 (oito) meses de reclusão, mais o pagamento de 1.599 (mil quinhentos e noventa e nove) dias-multa, consoante voto condutor do v. acórdão de fls. 19-28.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois não houve justificativa para o emprego da fração de 1/4 (um quarto), em razão da causa de aumento de pena prevista no inciso VI do art. 40 da Lei de Drogas.
+Requer, assim, a concessão da ordem.
+Não houve pedido liminar.
+Informações prestadas às fls. 36-49.
+O Ministério Público Federal, às fls. 53-55, manifestou-se pelo não conhecimento do writ e, subsidiariamente, pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA OTRÁFICO. CONDENAÇÃO. DOSIMETRIA DA PENA. MAJORANTE DOART. 40, VI, DA LEI N.º 11.343/2006. AUMENTO DA PENA EM 1/3. PROPORCIONALIDADE. FORTE ENVOLVIMENTO DO ADOLESCENTE COM A PRÁTICA DA TRAFICÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. Parecer pela denegação da ordem." (fl. 53).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a aplicação da menor fração na terceira fase da dosimetria da pena, em razão da causa de aumento de pena prevista no inciso VI do art. 40 da Lei de Drogas.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Ainda, na terceira fase da dosimetria da pena, acertadamente declinada na r. sentença, mostrou-se presente a causa de aumento de pena prevista no artigo 40, inciso VI, da Lei de Drogas. As circunstâncias demonstram o envolvimento do adolescente na traficância.
+Verifica-se que o tipo penal determina o aumento da pena pela simples conduta de praticar o delito com uma criança ou adolescente, qualquer que seja.
+Reconhecida a causa de aumento de pena prevista no art. 40. VI, da Lei de Drogas, a MM Juiza a quo corretamente majorou as reprimendas em 1/3 (um terço), fixando-as em 06 anos e 08 meses de reclusão e pagamento de 666 dias-multa. para o delito de tráfico, 04 anos de reclusão e pagamento de 933 dias-multa, para o delito de associação para o tráfico" (fl. 27).
+Com efeito, "a aplicação das majorantes previstas no art. 40 da Lei n. 11.343/2006, quando estabelecida acima da fração mínima, exige motivação concreta, o que não ocorreu na hipótese" (HC n. 488.301/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 30/04/2019).
+Nesse contexto, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias, passo ao recálculo das penas.
+Aplico a fração de 1/6 (um sexto), na terceira fase, em razão da causa de aumento de pena prevista no inciso VI do art. 40 da Lei de Drogas, de modo a majorar as penas para o patamar de 5 (cinco) anos e 10 (dez) meses de reclusão, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa, para o delito tráfico ilícito de entorpecentes; e 3 (três) anos e 6 (seis) meses de reclusão, mais o pagamento de 816 (oitocentos e dezesseis) dias-multa, para o crime de associação para o tráfico.
+Em razão do concurso de crimes, torno definitiva a sanção em 9 (nove) anos e 4 (quatro) meses de reclusão, mais o pagamento de 1.399 (mil trezentos e noventa e nove) dias-multa.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de, tão somente, redimensionar a pena do paciente para patamar de 9 (nove) anos e 4 (quatro) meses de reclusão, mais o pagamento de 1.399 (mil trezentos e noventa e nove) dias-multa, mantidos os demais termos da condenação.
+P. e I.
