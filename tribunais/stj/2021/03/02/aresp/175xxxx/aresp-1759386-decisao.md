@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto peloESCRITÓRIO CENTRAL DE ARRECADAÇÃO E DISTRIBUIÇÃO ECAD,contra v. acórdão do Eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado:
+APELAÇÃO CÍVEL - PRELIMINAR DE OFENSAAO PRINCÍPIO DA DIALETICIDADE - AFASTADA.I) Apontados pela apelante, ainda que sucintamente e repetindo osargumentos da contestação, os motivos de seu inconformismo, contrapondo-os com osfundamentos lançados na sentença vergastada, não se verifica ofensa ao princípio dadialeticidade.
+II) Preliminar afastada.
+MÉRITO - DISCUSSÃO ACERCA DO VALOR A SERARRECADADO AO ECAD EM RAZÃO DE EVENTO MUSICAL - BASE DECÁLCULO INCONTROVERSA (RECEITA BRUTA DO EVENTO) - AUTORAQUE APRESENTOU EXTRATO COM OS NÚMEROS E VALORES DOSINGRESSOS VENDIDOS - AUSÊNCIA DE INDÍCIO QUE CONTRARIE AREFERIDA PROVA - RÉU QUE NÃO SE DESINCUMBE DE PROVAR FATOIMPEDITIVO DO DIREITO DO AUTOR CONSISTENTE NO NÚMERO DEPESSOAS QUE FREQÜENTARAM EVENTO REALIZADO EM CIDADE DOINTERIOR DO ESTADO - RECURSO IMPROVIDO - SENTENÇA MANTIDA.
+I) O artigo 373 do Código de Processo Civil estabelece um critériona distribuição do ônus da prova, a qual incumbe ao autor o ônus de provar os fatosconstitutivos de seu direito, produzindo prova acerca da matéria fática que alega em suapetição inicial, competindo ao réu carrear prova da existência de fato impeditivo,modificativo ou extintivo do direito do autor, ademais quando este alega fato negativo.
+II) Se o réu alega que o extrato de quantidade e valores de ingressosvendidos não corresponde à verdade, deveria comprovar o alegado e se, assim não ofez, o pedido afeto à redução do valor cobrado pelo ECAD deve ser julgado procedente.
+III) Recurso conhecido e improvido. Sentença mantida. (fl. 227)
+Os embargos declaratórios restaram desacolhidos.
+Nas razões do recurso especial, a agravante alega violação aos arts. 373, I, do NCPC e 68, § 5º,da Lei 9610/98, sustentando, em síntese, serônus do recorrido em comprovar a quantidade deingressos vendidos com documentos idôneos, os quaisencontram-se, exclusivamente, em poder do agravado, assim, não há como exigir do recorrenteuma prova eficaz da quantidade de ingressos vendidos se não participou de suarealização.
+É o relatório.
+Decido.
+Não colhe o recurso.
+Na hipótese,a Corte de origem assentou que restou comprovado pela agravada o valor do orçamento total doespetáculo em questão, o qual serviu de base para o cálculo do montante dos direitos autorais devidos,in verbis:
+No que tange ao valor devido já se deixouassentado que, nos casos de execução de música ao vivo, o valor dedireitos autorais será, a princípio, calculado em 10% (dez por cento)sobre o orçamento total do espetáculo, o que se comprovou ser de R$92.715,00 (noventa e dois mil setecentos e quinze reais), diante dodocumento de fl. 150.
+Ainda que impugnado pela requerida, a mesma nãotrouxe nenhum outro documento para comprovar suas alegações, dados que poderia ter solicitado junto a empresa responsável pelaarrecadação dos ingressos, mas não o fez. Apenas se limitou a trazero documento unilateral de fl. 95, cujos valores ali expressos foramdeclarados por estimativa, como dito, mediante uma "verificação inloco" no dia do evento e com parâmetros do local físico e "notíciasvinculadas na mídia", o que obviamente não precisa com exatidão o
+público do evento.
+Assim, merece prosperar o cálculo apresentado nainicial, que se aproxima de 10% (dez por cento) sobre o valor dodocumento de fl. 150, de R$ 92.715,00 (noventa e dois mil setecentose quinze reais), já que o ECAD poderia ter apresentado documentosacerca da receita bruta do evento, mas deixou transcorrer in albis oprazo concedido para produzir provas (f. 161).(fls. 233-234)
+Assim , a modificação de tais entendimentos lançados no v. acórdão recorrido, como ora postulado, demandaria o revolvimento de suportefático-probatório dos autos, o que é inviável na sede estreita dorecurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoroos honorários advocatícios devidos à parte recorrida de 15% sobre o valor atualizado da causa para 16% sobre o respectivo valor.
+Publique-se.
