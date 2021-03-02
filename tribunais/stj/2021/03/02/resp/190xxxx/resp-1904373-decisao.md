@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto, com amparo no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão assim ementado (fl. 277):
+PLANO DE SAÚDE COLETIVO EMPRESARIAL.MANUTENÇÃO DE EX-EMPREGADO DEMITIDO.ART. 30 DA LEI Nº 9.656/1998. Sentença de parcial procedência. Apelos das partes.
+1. Preliminar de inadmissibilidade de inovação em sede recursal rejeitada.
+2. Autor que busca a manutenção do benefício por prazo indeterminado. Ex-empregado demitido que tem o direito de ser mantido como beneficiário pelo prazo máximo de 2 anos. Art. 30 da Lei nº 9.656/98. Prazo máximo de remissão já esgotado. Ausência de comprovação de que a esposa do autor está em tratamento quimioterápico a fim de obstar o cancelamento do benefício até a sua conclusão, nos termos do art. 13, parágrafo único, inciso III, da Lei 9.656/98.
+Necessidade de notificação dos beneficiários após o esgotamento do prazo, para oportunizar a sua migração para plano individual da operadora sem cumprimento de carência ou ressalvas de doenças preexistentes. Art. 1º da Resolução do Consu nº 19. Exceção do art. 3º da mesma Resolução que se refere à inexistência de planos individuais no portfólio da operadora, e não à não comercialização atual. Obrigação de manutenção do plano coletivo até cumprimento da determinação.
+3. Dano moral inocorrente. Não ocorrência. Não houve violação de direito personalíssimo. Pleito do autor liminarmente concedido. Abalo que não ultrapassa mero aborrecimento.
+4. Recurso da ré parcialmente provido e recurso do autor desprovido.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 104, 138 e 166 do Código Civil; e dos arts. 1º, § 1º, e 30 da Lei nº 9.656/98; bem como divergência jurisprudencial.
+Sustenta que "o contrato de plano de saúde do qual o recorrido faz parte, previa claramente o prazo de vigência do plano, de forma que, obrigar esta operadora a manter o plano de saúde, até que a notificação de rescisão seja enviada, viola as disposições contratuais e, consequente, as disposições legais do código civil acerca da validade do contrato" (fl. 299).
+Assevera que "o artigo 30 da lei 9656/98 é claro em estabelecer os requisitos que dão direito à continuidade do plano de saúdee o prazo máximo de vigência da continuidade, não havendo na lei regulamentadora a hipótese trazida pelo V. acórdão no sentido de que a recorrente dever manter o plano ativo até que notifique previamente da rescisão e oferte a possibilidade de migração" (fl. 299).
+Alega, ainda, que "a Resolução Normativa nº 19 da CONSU, invocada pelo Tribunal Paulista, se aplica exclusivamente às operadoras de saúde que fornecem planos na modalidade individual ou familiar" (fl. 302), o que não é o caso da recorrente.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Inicialmente, observo que as normas dos arts. 104, 138 e 166 do Código Civil, bem comodoart. 1º, § 1º, da Lei nº 9.656/98, não foram objeto de exame pela Corte de origem, muito menos foram opostos embargos de declaração para suprir eventual omissão do julgado quanto a esse aspecto. Desse modo, revela-se inviável, no recurso especial, a análise da apontada violação ao texto legal, ante a ausência de prequestionamento da matéria. Incidem, na espécie, portanto, os óbices previstos nas Súmulas 282 e 356 do Supremo Tribunal Federal.
+A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE REPRESENTAÇÃO COMERCIAL. ILEGITIMIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NECESSIDADE DE AVISO PRÉVIO. MATÉRIA JÁ DECIDIDA. PRECLUSÃO. COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não enseja a interposição de recurso especial matéria que não tenha sido debatida no acórdão recorrido e sobre a qual não foram opostos embargos de declaração. A ausência do indispensável prequestionamento, requisito exigido inclusive para matéria de ordem pública, atrai, por analogia, o óbice das Súmulas 282 e 356 do STF.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.348.366/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020.)
+Além disso, anoto que a parte recorrentenão apresentou razões suficientes para evidenciar como teria ocorrido a alegada afronta aoart. 30 da Lei nº 9.656/98, considerando, sobretudo, o disposto no art. 1º da Resolução CONSU nº 19/99 e nos arts. 6º e 8º da Resolução Normativa nº 438/2018, as quais regulamentamo direito de migração dobeneficiário de plano de saúde coletivopara plano de saúde individual, bem como o dever de notificação prévia dobeneficiário, pela operadora, sobre o direito ao exercício da portabilidade, respectivamente.
+Confira-se, a propósito, o teor das referidas normas regulamentares:
+Art. 1º As operadoras de planos ou seguros de assistência à saúde, que administram ou operam planos coletivos empresariais ou por adesão para empresas que concedem esse benefício a seus empregados, ou ex-empregados, deverão disponibilizar plano ou seguro de assistência à saúde na modalidade individual ou familiar ao universo de beneficiários, no caso de cancelamento desse benefício, sem necessidade de cumprimento de novos prazos de carência.
+Art. 6º A portabilidade de carências poderá ser exercida por beneficiários que estiverem em gozo do período de remissão, podendo esta ser requerida após o término da remissão ou durante a remissão, que será encerrada a partir do início da vigência do seu vínculo com o plano de destino.
+ ..
+Art. 8º A portabilidade de carências poderá ser exercida em decorrência da extinção do vínculo de beneficiário e deverá ser requerida no prazo de 60 (sessenta) dias a contar da data da ciência pelo beneficiário da extinção do seu vínculo com a operadora, não se aplicando os requisitos de vínculo ativo, de prazo de permanência, e de compatibilidade por faixa de preço previstos, respectivamente, nos incisos I, III e V do caput do artigo 3º desta Resolução, nas seguintes hipóteses:
+ ..
+III - pelo beneficiário titular e seus dependentes, em caso de demissão, exoneração ou aposentadoria, tendo ou não contribuído financeiramente para o plano de origem, ou quando do término do período de manutenção da condição de beneficiário garantida pelos artigos 30 e 31 da Lei nº 9.656, de 1998;
+ ..
+§ 1º Os beneficiários mencionados nos incisos do caput deste artigo que tiveram seu vínculo extinto, deverão ser comunicados pela operadora do plano de origem sobre o direito ao exercício da portabilidade, por qualquer meio que assegure a ciência inequívoca do beneficiário, indicando o valor da mensalidade do plano de origem, discriminado por beneficiário, e o início e o fim do prazo disposto no caput.
+Assim, a deficiência das razões apresentadas pela recorrenteinviabilizaa admissão do recurso especial, ante a incidência da Súmula 284 do STF.
+Com efeito, o entendimento desta Corte Superior é no sentido de que "considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que, de forma genérica, alega violação de dispositivo legal, sem apresentar os motivos pelos quais o acórdão recorrido não teria observado tal norma" (AgInt no AREsp 1.532.334/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 19/12/2019).
+Quanto ao mais, observo que o Tribunal de origem, ao apreciar a controvérsia, exarou os seguintes fundamentos (fls. 286-287):
+Pontua-se ainda que, ao contrário do que defende a ré NOTRE DAME, para fins do art. 3º da Resolução do Consu nº 19 não importa a atual comercialização de planos individuais, e sim a sua existência no portfólio, o que ocorre para a operadora NOTRE DAME, conforme registros de planos na ANS (http://www.ans.gov.br/planos-de-saude-e-operadoras/informacoes-e-avaliacoes-e-operadoras/).
+ ..
+Por tais motivos, a ré NOTRE DAME deve notificar o autor, com 60 (sessenta) dias de antecedência, e oferecê-lo o ingresso em um plano individual ou familiar similar sem necessidade de cumprimento de carência ou ressalva de doenças preexistentes.
+Tal fundamento, suficienteà manutenção da conclusãoa que chegou o Tribunal estadual, não foi infirmado, de modo específico, nas razões do recurso especial, o que caracterizadeficiência de fundamentação. Incide à espécie, portanto, o verbete da Súmula 283 do STF.
+Exemplificativamente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO. COBRANÇA INDEVIDA. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO ESTADUAL. SÚMULAS 283 E 284 DO STF. AGRAVO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento suficiente à manutenção do acórdão estadual atrai a incidência das Súmulas 283 e 284 do STF.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.545.651/MA, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/11/2019, DJe 12/12/2019.)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
