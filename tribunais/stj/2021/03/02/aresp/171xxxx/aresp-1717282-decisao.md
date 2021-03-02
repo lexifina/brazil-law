@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 257):
+EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.AMBIENTAL. MULTA. PRESCRIÇÃO INTERCORRENTE. DECURSO DOPRAZO QUINQUENAL SEM MOVIMENTAÇÃO DO FEITO.A inércia está caracterizada pela paralisação do executivo fiscal por mais de cinco anos, sem que tenha havido qualquer requerimento ou providência por parte do exequente.
+Opostos embargos declaratórios, foram improvidos.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 17 daLei 10.910/04 e 25 da Lei 6.830/80.Sustenta que o acórdão recorrido merece ser reformado diante das irregularidades das intimações direcionadas à autarquia e levadas a efeito nos autos diante da prerrogativa de intimação pessoal dos procuradores federais. Alega que, por não ter sido intimado, orepresentante do IBAMA não se manifestouacerca de diligência que localizou bem passível de constrição judicial. Assim, defende a anulação da sentença extintiva do feito e posterior intimação da agravante para dar prosseguimento dos atos executórios à recuperação do crédito exequendo.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta êxito.
+De início, vale anotar que osarts.17 da Lei 10.910/04 e 25 da Lei 6.830/80, que tratam da prerrogativa de intimação pessoal do representante judicial da Fazenda Pública,não contém comando capaz de sustentar a tese recursal e infirmar o juízo formulado pelo acórdão recorrido, que concluiu que"que o inquestionável erro da Secretaria do Juízo - que intimou a Procuradoria da Fazenda Nacional quando o correto seria a Procuradoria Federal - não tem o condão de afastar a responsabilidade do exequente pelo andamento do feito. O fato é que decorreram 6 anos(suspensão mais arquivamento) sem que o IBAMA procurasse saber da situação dos autos ou apresentasse bem à execução." (fl. 262)
+Assim, se impõe ao caso concreto a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Por oportuno, destacam-se os seguintes precedentes: AgRg no AREsp 161.567/RJ, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 26/10/2012; REsp 1.163.939/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 8/2/2011.
+Ademais,a inversão da conclusão adotada pela Corte de origem, tal como postulada nas razões do apelo especial, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial a teor da Súmula 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. REDISCUSSÃO DE MATÉRIA FÁTICA. SÚMULA7/STJ. INCIDÊNCIA. SÚMULA 283/STF.
+1. A alteração das conclusões adotadas pela Corte de origem, quanto à efetiva ocorrência de prescrição da pretensão executória, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Ademais, incide o óbice previsto na Súmula 283 do STF, ante a ausência de impugnação de fundamentos basilares do acórdão recorrido.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1516412/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,julgado em 15/05/2018, DJe 18/05/2018)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXECUÇÃO INDIVIDUAL DE SENTENÇACOLETIVA. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. OFENSA AO ART. 1.022DO CPC/2015 NÃO DEMONSTRADA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal local consignou (fl. 764, e-STJ): "Assim, considerando o trânsito em julgado da decisão que negou seguimento ao agravo de instrumento interposto pelo ASSIBGE em 24/04/2014 (AI2013.02.01.004990-5, Rel. Des. Federal Guilherme Couto), e o ajuizamento da ação de execução, ora embargada, em 27/01/2015, não há que se falar em prescrição da pretensão executória".
+2. Não se conhece de Recurso Especial em relação à ofensa ao art.1.022 do CPC/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+3. Para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1726458/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/04/2018, DJe 25/05/2018)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC/2015).
+Publique-se.
