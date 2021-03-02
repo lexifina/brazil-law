@@ -1,0 +1,62 @@
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE DECLARATÓRIA INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANO MORAL – CONTRATAÇÃO NÃO COMPROVADA – ART. 373, II, CPC – INCLUSÃO NEGATIVA - PRINTS DE TELA SISTÊMICA – PROVA UNILATERAL – DANO MORAL DEVIDO – QUANTUM INDENIZATÓRIO ADEQUADO – RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+I – A tela de computador reproduzida no corpo da contestação não é prova suficiente para atestar a existência do segundo contrato, supostamente entabulado entre as partes.
+II – Nos termos do art. 373, II, competia à empresa apelada demonstrar a existência da relação contratual entre as partes.
+III - O “print” de tela sistêmica colacionada, não é prova suficiente para atestar a existência da relação contratual entre as partes, tampouco a legalidade do débito em questão, por tratar-se de prova unilateral. (Ap 51599/2017, DES. GUIOMAR TEODORO BORGES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 31/05/2017, Publicado no DJE 05/06/2017).
+IV – A inclusão ou manutenção indevida do nome do consumidor em órgão de proteção ao crédito acarreta dano moral in re ipsa, ou seja, presumido, sendo desnecessária a comprovação do abalo ou sofrimento psicológico.
+V - A indenização por danos morais deve atender ao caráter sancionatório e inibitório, suficiente a desestimular a repetição da conduta lesiva, dano moral arbitrado em R$ 4.000,00 (três mil reais), se mostram adequados.
+VI – por fim, nos termos do art. 85, § 11 do CPC, majoro os honorários sucumbenciais de 15% para 20% sobre o valor da condenação..
+Vistos etc.
+Recurso de Apelação Cível proposto por OI S.A., interposto contra a sentença proferida pelo juízo da 4a Vara Cível da Comarca de Várzea Grande-MT, na Ação Declaratória de Inexistência de Débito c.c Indenização por Danos Morais, no 0026445-47.2015.8.11.0002, proposta por VALDEMIRO DE JESUS DA CONCEICAO em desfavor do ora apelante.
+Na origem, a parte autora afirmou que mesmo sem possuir relação contratual com a empresa requerida, teve o seu nome incluso no rol de maus pagadores.
+Com tais considerações, requereu a declaração da inexistência do debito, e a condenação da empresa requerida ao pagamento de danos morais.
+Apresentada contestação aduziu a legalidade das suas ações, juntando aos autos telas sistema da suposta contratação.
+Após analise dos autos, o Juiz de piso proferiu a seguinte sentença:
+“Diante do exposto, JULGO PARCIALMENTE PROCEDENTE a ação, e entendo como justa fixar a indenização no valor de R$ 4.000,00 (quatro mil reais) a título de danos morais, a ser paga pela requerida OI S/A o autor VALDEMIRO DE JESUS DA CONCEIÇÃO, com juros de 1% ao mês a partir do evento danoso (Súmula 54 STJ) e correção monetária pelo INPC a partir do seu arbitramento (presente data), bem como declarar a inexistência do débito no valor de R$ 444,52 (quatrocentos e quarenta e quatro reais e cinquenta e dois centavos), com relação ao contrato no 0000005049282116.
+Confirmo, outrossim, a liminar deferida para todos os efeitos legais.
+Decaindo o autor em parte mínimo do pedido, é justo e razoável que a sucumbência seja suportada em sua totalidade pela requerida, nos termos do art. 86, parágrafo único, do CPC.
+Assim, condeno a parte requerida ao pagamento das custas e despesas processuais, bem como os honorários advocatícios que arbitro em 15% (quinze por cento) sobre o valor da condenação, conforme art. 85, § 2o, do CPC.”.
+Inconformada, a empresa requerida apresentou Recurso de Apelação (id. 75305981), requerendo a reforma integral da sentença, aduzindo que; (i) inexistência de ato ilício já que existe vinculo contratual entre as partes (ii) exercício regular de Direito; (iii) a legalidade das telas sistêmicas como meio de prova; (iv) inexistência de danos moral aplicável ao caso; (v) por fim faz prequestionamento.
+Devidamente intimada, a parte adversa deixou de apresentar contrarrazões.
+É o relatório.
+A meu viso, a pretensão recursal está a merecer imediato julgamento monocrático, na medida em que as matérias colocadas a exame já contam com soluções paradigmáticas na jurisprudência pacífica das Cortes Superiores e deste Tribunal.
+Pois bem.
+Da analise dos autos, verifico que a parte autora não reconhece a existência do vinculo contratual referente ao suposto serviço telefônico.
+Assim, nos termos do art. 373, II do CPC, competia parte apelante demonstrar a sua relação contratual com a parte apelada, razão pela qual, correta a sentença de piso.
+Nesse sentido:
+“APELAÇÃO - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO EM DOBRO C/C RESPONSABILIDADE CIVIL – CARTÃO DE CRÉDITO CONSIGNADO – CONTRATAÇÃO NÃO COMPROVADA – ART. 373, II, CPC– VALORES DESCONTADOS INDEVIDAMENTE EM FOLHA DE PAGAMENTO - RESTITUIÇÃO DEVIDA – RECURSO DESPROVIDO.
+Se a parte autora alega não ter celebrado contrato de cartão de crédito com o banco requerido, a este incumbe comprovar a existência de fato impeditivo, modificativo ou extintivo do direito do autor, como preceitua o art. 373, II, do CPC. Não comprovada pela instituição financeira à regularidade da contratação, torna-se inexistente o débito efetivado na folha de pagamento da autora, condição que enseja restituição. (TJ-MT - EMBARGOS DE DECLARAÇÃO CÍVEL: 0006112-07.2016.8.11.0013, JULGADO EM 11 DE MARÇO DE 2020, RELATOR: GUIOMAR TEODORO BORGES).
+Ademais, friso que as telas sistêmicas, documentos produzidos unilateralmente pela empresa telefônica, não servem para demonstrar a existência de relação contratual.
+Nesse sentido, colaciono o seguinte julgado do TJMT.
+“APELAÇÃO CÍVEL – AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS - INSCRIÇÃO INDEVIDA DO NOME DA APELANTE NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO – AUSÊNCIA DE PROVAS DA LEGALIDADE DA NEGATIVAÇÃO – PRINTS DE TELA SISTÊMICA – PROVA UNILATERAL – SENTENÇA REFORMADA – RECURSO PROVIDO.
+O “print” de tela sistêmica colacionada, não é prova suficiente para atestar a existência da relação contratual entre as partes, tampouco a legalidade do débito em questão, por tratar-se de prova unilateral.
+É fato gerador de danos morais, que decorrem do próprio fato (dano in re ipsa), a indevida manutenção de nome em cadastros dos órgãos de proteção ao crédito.
+O valor arbitrado a título de danos morais deve levar em conta tanto a capacidade econômica do ofensor quanto as condições do ofendido, a fim de atender o caráter reparatório e pedagógico da sanção. (Ap 51599/2017, DES. GUIOMAR TEODORO BORGES, QUARTA CÂMARA DE DIREITO PRIVADO, Julgado em 31/05/2017, Publicado no DJE 05/06/2017).
+“A tela de computador reproduzida no corpo da contestação não é prova suficiente para atestar a existência de contrato entre as partes. Não comprovado o débito, a inclusão em órgão restritivo de crédito configura ato ilícito cujos danos são presumidos e geram dever de indenizar. Se o valor fixado na sentença para a reparação mostra-se razoável, não comporta redução.” (Ap no 67451/2016 – Des: Relator: Rubens de Oliveira Santos Filho - Sexta Câmara Cível – 17.6.2016)
+Assim, a sentença de piso não merece reforma quanto à declaração da inexistência do debito, valor de R$ 444,52 (quatrocentos e quarenta e quatro reais e cinquenta e dois centavos)
+Da mesma forma, tratando-se de dano “in re ipsa”, entendo que a sentença de piso não merece ser reformada quanto à aplicação do dano moral.
+Quanto ao valor dos danos morais, é sabido que a finalidade da indenização é compensatória e educativa, devendo ser o valor arbitrado analisando-se cada caso concreto, observando-se os princípios da proporcionalidade e razoabilidade, não podendo ocorrer o enriquecimento ilícito de uma das partes, nem se afastar do caráter pedagógico da medida.
+Deve-se, assim, fixar a indenização em quantia que previna a prática de novos atos ilícitos pelo ofensor e, ao mesmo tempo, compense a vítima pelos prejuízos sofridos.
+Nesse sentido, colaciono o seguinte julgado:
+'APELAÇÃO CÍVEL – AÇÃO DECLARATORIA DE INEXISTÊNCIA DE DÉBITO – INCLUSÃO NEGATIVA - DANO MORAL DEVIDO – VALOR INFIMO DO ARBITRAMENTO DA SENTENÇA - MAJORAÇÃO NECESSÁRIA – CARÁTER DÚPLICE DA INDENIZAÇÃO - RECURSO CONHECIDO E PROVIDO EM PARTE.
+1. A inclusão ou manutenção indevida do nome do consumidor em órgão de proteção ao crédito acarreta dano moral in re ipsa, ou seja, presumido, sendo desnecessária a comprovação do abalo ou sofrimento psicológico.
+2. A indenização por danos morais deve atender ao caráter sancionatório e inibitório, suficiente a desestimular a repetição da conduta lesiva, dano moral arbitrado em R$ 3.000,00 (três mil reais), deve ser majorado para o valor de R$ 8.000,00 (oito mil reais).
+3. A indenização por dano moral somente adquire expressão pecuniária a partir de seu arbitramento pelo Magistrado, não havendo que se falar em mora do devedor antes mesmo de proferida a decisão. Nesta toada, é certo que o termo inicial dos juros moratórios consiste na data da sentença, como bem assinalado pelo Juízo singular.
+4. Recurso conhecido e parcialmente provido.' (Apelação TJMT 0001791-37.2015.8.11.0053 – Relator: Desembargador Sebastião de Moraes Filho)
+Ainda,
+“(...)Diante do exposto, reformo a sentença singular com a finalidade de majorar o valor fixado de R$ 5.000,00 (cinco mil reais) para R$ 8.000,00 (oito mil reais) a título de danos morais. Mantidos os demais termos do decisum. Em conformidade com o art. 85, § 11o do CPC, majoro os honorários determinados pelo juízo a quo para 20% (vinte por cento).” (Tribunal de Justiça do Mato Grosso TJ-MT - Apelação : APL 0002528-59.2016.811.0003, protocolo 32039/2018, Relator DES. SEBASTIÃO BARBOSA FARIAS, PRIMEIRA CÂMARA DE DIREITO PRIVADO, Julgado em 12/06/2018, Publicado no DJE 15/06/2018).
+Por fim,
+“AGRAVO REGIMENTAL NO AGRAVO. RESPONSABILIDADE CIVIL. NEGATIVAÇÃO EM CADASTROS DE INADIMPLENTES. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. DECISÃO AGRAVADA MANTIDA. IMPROVIMENTO.
+1.- "Nos casos de protesto indevido de título ou inscrição irregular em cadastros de inadimplentes, o dano moral se configura in re ipsa, isto é, prescinde de prova, ainda que a prejudicada seja pessoa jurídica." (REsp 1059663/MS, Rel. Min. NANCY ANDRIGHI, DJe 17/12/2008).
+2.- A intervenção do STJ, Corte de caráter nacional, destinada a firmar interpretação geral do Direito Federal para todo o país e não para a revisão de questões de interesse individual, no caso de questionamento do valor fixado para o dano moral, somente é admissível quando o valor fixado pelo Tribunal de origem, cumprindo o duplo grau de jurisdição, se mostre teratólogico, por irrisório ou abusivo.
+3.- Inocorrência de teratologia no caso concreto, em que, em razão da indevida inscrição do nome da autora em cadastros de inadimplentes, foi fixado o valor de indenização de R$ 7.000,00 (sete mil reais), a título de danos morais, devido pelo banco ora agravante à autora, a título de danos morais.
+4.- O agravante não trouxe nenhum argumento capaz de modificar a conclusão do julgado, a qual se mantém por seus próprios fundamentos.
+5.- Agravo Regimental improvido. (AgRg no AREsp 479175 MS 2014/0038533-6, terceira turma, Julgado em 24 de Abril de 2014, Relator Ministro SIDNEI BENETI).
+Por sua vez, sopesando os aspectos fáticos e probatórios específicos destes autos, bem como tendo em vista os princípios da proporcionalidade e da razoabilidade, entendo que o valor dos danos morais fixados em R$ 4.000,00 (quatro mil reais), estão consonância com o julgamento de casos semelhantes efetuados por essa Egrégia Câmara.
+Por fim, cumpre abordar, o requerimento da empresa ré para que este Tribunal manifeste-se, para fins de prequestionamento, acerca da possível violação do artigo 5°, inciso X, da Constituição Federal, bem Como, nos artigos 138, 139, 177, 186, 188, 927 e 944 do Código Civil; artigo 14, § 3°, inciso II, da Lei n° 8.078/90.
+Entretanto, ressalto que a exigência de prequestionamento para a interposição de recurso em instância superior deve ser cumprida pela parte e não pelo julgador, dispensado de apontar expressamente se restaram ou não violados dispositivos legais ou constitucionais.
+Em face dessas considerações, conheço do Recurso de Apelação e NEGO PROVIMENTO, nos termos da fundamentação acima.
+Ainda, em observância ao art. 85, § 11 do CPC, majoro os honorários sucumbenciais de 15% para 20% sobre o valor da condenação.
+Publique-se para conhecimento dos interessados e, transcorrido o prazo recursal sem irresignação, realizem-se as anotações de estilo para baixa dos autos.
+Às providências.
+Desembargador Sebastião de Moraes Filho.
+-Relator-
