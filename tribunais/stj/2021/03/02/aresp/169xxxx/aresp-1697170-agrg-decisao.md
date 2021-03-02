@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra decisão monocrática por mim proferida na Presidência do STJ que não conheceu do agravo em recurso especial ante a incidência da Súmula n. 182 do STJ.
+A agravante alega que os fundamentos da decisão foram devidamente impugnados, expondo considerações a respeito.
+Requer a reconsideração da decisão ou a submissão do recurso à Turma para conhecimento e provimento.
+O Ministério Público Federal opinou pelo provimento do agravo a fim de que não se conheça do recurso especial em face da incidência da Súmula n. 83 do STJ (fls. 573-577).
+É o relatório. Decido.
+Razão assiste a agravante.
+Em nova leitura das razões do agravo em recurso especial (fls. 473-492), verifico que foi desenvolvida argumentação suficiente para demonstrar a não incidência dos óbices eleitos pelo Tribunal de origem.
+Assim, na forma do art. 259, § 3º, do RISTJ, reconsidero a decisão (fls. 526-527) e passo a nova análise das razões do agravo.
+Trata-se de agravo em recurso especial interposto por ELIZE ARAÚJO KITANO MATSUNAGA contra decisão que inadmitiu recurso especial em decorrência da incidência da Súmula n. 283 do STF e da não comprovação da divergência jurisprudencial.
+Os acórdãos recorridos estão assim ementados (fls. 285 e 437):
+Remição - Preliminar - Ausência de fundamentação da decisão - Não acolhida - Pedido de remição de dias não trabalhados - Impossibilidade - Ausência de previsão legal - Pedido corretamente indeferido - Rejeitada a preliminar, foi improvido o agravo
+EMBARGOS DE DECLARAÇÃO - Omissão quanto ao pedido de recalculo do excedente trabalhado - Embargos declaratórios acolhidos para sanar omissão apontada pela embargante.
+Nas razões do recurso especial (fls. 304-320), fundamentado no art. 105, III, a e c, da Constituição Federal, a agravante aponta violação dos arts. 1º, 5º, 6º, 8º, 33 e 126 da Lei de Execução Penal, bem como divergência jurisprudencial, sustentando que o período de trabalho diário que exceder o limite mínimo de 6 horas deve ser contado para fins de remição, computando-se um dia de trabalho a cada seis horas trabalhadas.
+Também alega ofensa ao art. 126, § 4º, da LEP, porquanto, tendo sido impedida de trabalhar por 25 dias em razão de "falta de matéria prima", não pode ser prejudicada pela desídia do Estado, pelo que lhe deve ser garantido o direito ao cômputo da remição.
+Requer o provimento do recurso com a reforma do acórdão.
+Foram apresentadas as contrarrazões pelo Ministério Público (fls. 452-466).
+No agravo (fls. 473-492), afirma estarem presentes todos os requisitos de admissibilidade do especial, bem como não incidir em os óbices mencionados.
+Contraminuta apresentada (fls. 495-509).
+É o relatório. Decido.
+No que diz respeito à pretensão de ver reconhecida as horas adicionais ao mínimo diário de 6 horas trabalhadas, o relator no Tribunal de origem, no julgamento dos embargos de declaração, concluiu o seguinte (fls. 440-442):
+Na dicção do artigo 126, § 1º, da LEP, a contagem do tempo para fins de remição será feita à razão de um dia depena por três de trabalho. Já o art. 33, do mesmo diploma, menciona que a jornada normal de trabalho não será inferior a seis, nem superior a oito horas, com descanso nos domingos e feriados.
+Segundo preleciona Júlio Fabbrini Mirabete, em sua obra Execução Penal: "Somente podem ser considerados para os fins de remição os dias em que o condenado desempenhar sua atividade laboral durante a jornada completa de trabalho, que nunca poderá ser inferior a seis nem superior a oito horas  ..  se o sentenciado trabalhar cinco horas em determinado dia, tal jornada, por não satisfazer ao requisito temporal mínimo (de seis horas), não lhe é computada para o efeito questionado" (in op. cit, 9" Edição, São Paulo, 2000, p. 431).
+ ..
+É bem verdade que o instituto da remição constitui um direito subjetivo do sentenciado, que possibilita ao cativo abreviar sua pena privativa de liberdade, por intermédio do trabalho ou do estudo, porém, não é menos verdade que não há como burlar norma expressa, visando abreviar o cárcere.
+Em outras palavras, a benesse em exame deve sempre estar de acordo com os limites expressamente previstos no art.126, § 1º, inciso I, da LEP, sob pena de se negar sua eficácia.
+À vista disso, não há que se falar em reconhecimento de horas extraordinárias.
+O entendimento encontra amparo na jurisprudência do Superior Tribunal de Justiça de que, para a remição da pena pelo trabalho, nos termos dos arts. 33 e 126, § 1º, da LEP, exige-se jornada não inferior a 6 nem superior a 8 horas diárias, de forma que o cálculo se faz pelos dias efetivamente trabalhados, e não pelas horas.
+Ademais, deve-se observar os parâmetros fixados na norma de, no máximo, 8 horas diárias. Dessa forma, mesmo que o condenado trabalhe mais de 6 horas por dia, não é possível utilizar as horas excedentes para contagem de novo período de remição.
+A respeito da questão, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA. CÁLCULO COM BASE NOS DIAS TRABALHADOS. RECURSO NÃO PROVIDO.
+1. A remição de pena se dá por dias trabalhados, e não por horas, sendo que a contagem de tempo será feita à razão de um dia de pena a cada 3 dias trabalhados, exigindo-se, para cada dia a ser remido, o labor de no mínimo 6 e no máximo 8 horas. 2. Não obstante a remição da pena pelo trabalho seja um direito do condenado, é necessário que sejam observados os parâmetros fixados na norma, vale dizer, máximo de 8 horas diárias e remição de 1 dia a cada 3 de trabalho. Assim, ainda que o condenado trabalhe mais de 6 horas por dia, não é possível que sejam utilizadas as horas excedentes para contar um novo período de remição.
+3. Agravo regimental não provido. (AgRg no REsp n. 1.653.679/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 20/4/2017.)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REMIÇÃO DA PENA PELO TRABALHO. CÔMPUTO EM HORAS. IMPOSSIBILIDADE, SALVO AS HORAS EXCEDENTES À OITAVA HORA DIÁRIA. AGRAVO NÃO PROVIDO.
+1. Este Superior Tribunal, ao interpretar os arts. 33 e 126 da Lei de Execução Penal, firmou entendimento de que a remição pelo trabalho se dá em dias, exigindo-se para cada dia um período entre 6 (seis) e 8 (oito) horas trabalhadas.
+2. Não incide à espécie a Súmula 7/STJ, na medida em que se trata de matéria exclusivamente de direito, que não demanda exame dos aspectos fático-probatórios dos autos.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 593.922/MG, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 24/8/2016.)
+No que se refere ao pleito de ver considerada a remição ficta, negada na origem, é assente no STJ que, para a remição, deve-se considerar o trabalho efetivamente cumprido; portanto, a omissão do Estado em impossibilitar a realização das atividades laborais não autoriza a denominada remição fica ou automática.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. APROVAÇÃO PARCIAL NO ENEM. ENSINO MÉDIO CONCLUÍDO ANTERIORMENTE À EXECUÇÃO. POSSIBILIDADE DE REMIÇÃO. REMIÇÃO FICTA. IMPOSSIBILIDADE. NECESSIDADE DE EFETIVA COMPROVAÇÃO DE TRABALHO OU LABOR. ORDEM DENEGADA. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. "É cabível a remição pela aprovação no Exame Nacional do Ensino Médio - ENEM ainda que o Apenado já tenha concluído o ensino médio anteriormente, pois a aprovação no exame demanda estudos por conta própria mesmo para aqueles que, fora do ambiente carcerário, já possuem o referido grau de ensino" (REsp n. 1854391/DF, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 22/9/2020, DJe 6/10/2020), ressalvado o acréscimo de 1/3 (um terço) com fundamento no art. 126, § 5º, da Lei de Execução Penal.
+2. Não é cabível a remição ficta dos dias em que apenado não trabalhou nem estudou por não lhe ter sido oferecido labor e/ou estudo, uma vez que o entendimento desta Corte é o de que "a suposta omissão estatal não pode ser utilizada como causa a ensejar a concessão ficta de um benefício que depende de um real envolvimento da pessoa do apenado em seu progresso educativo e ressocializador (AgRg no HC n. 434.636/MG, Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 6/6/2018).
+3. Agravo regimental parcialmente provido para determinar que o Juízo das execuções reexamine o pedido de remição do recorrente, nos termos do art. 1º, inciso I, da Recomendação 44/2013/CNJ, considerando a aprovação parcial do ora agravante no Exame Nacional do Ensino Médio - ENEM. (AgRg no RHC n. 118.912/RO, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 16/11/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO. TRABALHO. ESTUDO. AUSÊNCIA DE DOCUMENTAÇÃO COMPROBATÓRIA. RITO CÉLERE. REMIÇÃO FICTA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. "Tratando-se o habeas corpus de uma ação de rito célere e cognição sumária, é ônus do impetrante reunir nos autos toda a documentação necessária para a imediata compreensão do pleito" (HC 250.651/MT, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), QUINTA TURMA, julgado em 2/5/2013, DJe 8/5/2013). Na hipótese, a defesa não juntou a documentação que comprove suas alegações, afirmando que poderiam ser comprovadas por agentes públicos e demais detentos.
+2. Segundo a "jurisprudência desta Corte de Justiça, deve-se considerar o labor ou o estudo efetivamente cumprido pelo sentenciado, sendo certo que a omissão estatal em oportunizar a realização de tais atividades não autoriza a denominada remição ficta ou automática, por ausência de previsão legal" (AgRg no REsp 1.305.450/RO, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 4/8/2015). Precedentes.
+3. Agravo desprovido. (AgRg no HC n. 576.748/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 14/9/2020.)
+Assim, em relação às matérias acima, incide a Súmula n. 83 do STJ, aplicável aos recursos fundados na alíneas a e aos recursos fundados na alínea c do permissivo constitucional.
+Ante o exposto, com fundamento no art. 259 do RISTJ, reconsidero a decisão agravada para conhecer do agravo em recurso especial e negar-lhe provimento .
+Publique-se. Intimem-se.
