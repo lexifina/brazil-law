@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se derecurso em habeascorpus interposto porPEDRO PAULO MAIA ENCARNAÇÃO contra acórdão do Tribunal de Justiça do Estadodo Amazonas(Processo n. 40037644020208040000).
+O recorrente encontra-se preso preventivamentepela prática, em tese, do crime previsto no art.121, § 2º,II, do Código Penal.
+Sustenta a ocorrência de constrangimento ilegal, sob o argumento de que se encontra preso há 2 anos, 4 meses e 2 dias, sem que tenha sido proferida sentença condenatória, a ponto de restar configurado o excesso de prazo de sua custódia cautelar, ressaltando que a defesa não teria contribuído para a demora na entrega da prestação jurisdicional.
+Asseveraaindaque não estariam preenchidos os requisitos necessários para a decretação de sua prisão preventiva, nos termos do art. 312 do CPP.
+Requera expedição de alvará de soltura em seu favor, para que possa responder ao processo em liberdade.
+O pedido de liminar foi indeferido (fls. 552-553).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 577-581).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunala quo(fls. 487-489):
+Compulsando os autos, vislumbra-se que embora o paciente esteja preso desde 23/03/2018 não subsiste o argumento de que esteja sofrendo constrangimento ilegal em função de excesso de prazo, especialmente porque, em05/05/2020, o magistrado de primeiro grau revisitou a análise dos fundamentos do decreto preventivo.
+Em sua decisão, fls. 446/451, importante destacar trecho:
+"No que diz respeito periculum liberta tis, observo que por meio dos elementos probatórios até aqui colhidos, quais sejam, o Inquérito Policial, consubstanciado pelos depoimentos das testemunhas, Denúncia Ministerial, Laudo Necroscápico e Instrução processual, que o acusado encontra-se preso, em da sólida presença dos indícios de autoria e materialidade delitiva. Deste modo, compreendo que existirem motivos suficientes para manter o decreto constritivo, tendo em vista a periculosidade concreta da conduta do acusado, revelando que, em liberdade, oferecerá risco à ordem pública.
+(..)
+Outrossim, saliento ainda o risco de reiteração delitiva, extraído dos apontamentos constantes na Certidão de Antecedentes Criminais fls. 422, dos quais se observa sua propensão para prática delitiva e personalidade perigosa e nociva ao meio social, uma vez que responde a diversos outros crimes.
+De outro giro, consoante se constata nos autos, decretou-se a prisão preventiva do réu no dia 24/05/2016 (fls. 221/223), como garantia de aplicação da lei penal, tendo o mandado de prisão sido cumprido no dia 28/03/18.
+Desta forma, a medida constritiva combatido encontra-se também apoiada em outro elemento concreto, qual seja, o fato do réu ter permanecido foragido do distrito da culpa por excessivo lapso temporal e ter sido encontrado tão somente por ocasião da possível prática de outro delito, na situação em flagrante, crime pelo qual, inclusive, foi condenado, conforme cópia de Sentença acostada aos autos.
+Portanto, os fundamentos da custódia cautelar continuam subsistindo em face das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a necessidade da medida para a garantia da aplicação da lei penal, haja vistaa nítida intenção do réu de prejudicar o bom andamento da persecução criminal." (sic)
+Desse modo, resta assentado que o processo tramita em tempo razoável, eis que, inclusive, já iniciada a instrução, como se depreende com as audiências já realizadas (fls. 369/374 e fls. 440 dos autos originais, consoante consulta SAVPG), sem olvidar que a decisão que revisitou o decreto preventivo se encontra devidamente fundamentada e demonstra em elementos concretos a necessidade da medida restritiva.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível asubstituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Além disso, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRgno HC n. 588.513/SP, relator Ministro RogerioSchiettiCruz, Sexta Turma,DJede 4/8/2020).
+No caso, em consulta ao site do TJAL, verificou-se, pelo andamento do processo de origem, que, em 19/11/2021,o recorrente foi pronunciado comoincurso nas sanções do art. 121, §2º, II (motivo fútil), c/c o art. 29, caput, todos do CP.
+Assim, em consonância com aorientação do STJ, pronunciado o réu, fica superada a alegação de constrangimento ilegal por excesso de prazo na instrução (Súmula n. 21 do STJ).
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário em habeas corpus.
+Publique-se.Intimem-se.
