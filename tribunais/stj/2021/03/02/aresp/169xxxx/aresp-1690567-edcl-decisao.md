@@ -1,0 +1,3 @@
+DECISÃO
+Manifeste-se a Fazenda Nacional sobre a alegação de suposta perda superveniente do objeto do Recurso Especial por ela interposto, tendo em vista que os Embargos à Execução Fiscal 0056939-11.2012.4.02.5101 apresentados pela executada Ana Lúcia Dias Ferreira foram julgados totalmente procedentes, fazendo com que a totalidade do valor da penhora no feito executivo 0509064-32.2005.4.02.5101, referente ao saldo da conta conjunta, fosse integralmente levantado por seus titulares. Sendo assim, não restou mais nenhum valor para ser discutido nos Embargos de Terceiro ajuizados pela ora embargante.
+Tendo em vista já ter sido intimada eletronicamente e o prazo decorrido sem sua manifestação, determino sua intimação pessoal para que se manifeste sobre a alegação supra.
