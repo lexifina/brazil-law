@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 76):
+HABEAS CORPUS  TRÁFICO DE ENTORPECENTES  ARTIGOS 33 E 35, DA LEI ANTIDROGAS - CONSTRANGIMENTO ILEGAL  PRISÃO CAUTELAR  ILEGALIDADE NO DECRETO DA MEDIDA CONSTRITIVA  FUNDAMENTAÇÃO GENÉRICA  AUSÊNCIA DOS REQUISITOS DO ARTIGO 312, DO CPP  NÃO CARACTERIZAÇÃO  ORDEM DENEGADA.
+1. Encontra-se suficientemente motivada a custódia cautelar do paciente com fulcro nas diretrizes da legislação processual penal, bem como na jurisprudência deste E. Tribunal, mormente no tocante à gravidade do fato supostamente praticado, bem como pela grande quantidade de entorpecentes encontrados com o coacto, demonstrando sua ligação com o tráfico. 3. Ordem denegada.
+O recorrente teve a sua prisão preventiva decretada em 2/8/2018, sendo denunciado pela prática dos delitos tipificados nos arts. 33, caput, e 35 da Lei 11.343/2006.
+Neste recurso, argumenta, em suma, ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+Na origem, Processo 0009748-94.2018.8.08.0012, oriundo da 1ª Vara Criminal de Cariacica/ES, realizou-se audiência de instrução e julgamento em 8/2/2021, conformeinformações processuais eletrônicas extraídas do site do TJES em 24/2/2021.
+É o relatório.
+DECIDO.
+A concessão de liminar em habeas corpus é medida excepcional, somente cabível quando, em juízo perfunctório, observa-se evidente constrangimento ilegal.
+No entanto, não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que converteu a prisão em flagrante em preventiva foi assim proferida (fl. 15):
+ ..  Os autos evidenciam a prática de crime de tráfico de drogas pelo denunciado juntamente as denunciadas ALINE e MICHELE. Cumpre ressaltar que foi apreendida na posse dos denunciados grande quantidade de drogas. Registro que as denunciadas ALINE e MICHELE informaram que estavam preparando os entorpecentes para a venda a pedido do denunciado LUCAS, em troca de contraprestação em dinheiro. ..
+Como se vê, consta do decreto prisional fundamentação idôneacom esteio na excessiva quantidade de drogas encontradas em poder do recorrente, qual seja: 470 gramas de crack, 958 gramas de cocaína e 3.097 gramas de maconha, além de petrechos comumente utilizados à traficância (fls. 34-35).
+Pacífico é o entendimento nesta Corte de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
