@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SESC-SERVICO SOCIAL DO COMERCIO-ADMINISTRACAO REGIONAL DO DF em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, alega que a decisão embargada padece de omissão, posto que ao contrário do que nela constou, o recorrente apontou o dispositivo legal objeto do dissídio interpretativo. Traz os seguintes argumentos:
+Verifica-se que a decisão embargada considerou que o embargante não indicou quais os dispositivos legais seriam objeto do dissídio interpretativo, resultando assim pelo não conhecimento do recurso.
+Todavia, com toda vênia, o recorrente não só seguiu os pressupostos processuais a luz da divergência jurisprudencial como indicou no cabimento do Recuso o dispositivo legal (art. 833 do CPC), o qual seria data interpretação divergente tocante a flexibilidade a regra de impenhorabilidade de salário (fl. 155).
+ ..
+ ..  o STJ pode desconsiderar vício formal de recurso tempestivo, quando a circunstância apresentada demonstre que trata de divergência notória, inclusive por interpretação aferida pelo próprio tribunal (fl. 155).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada:
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" (fl. 150, grifos meus).
+Da análise do recurso especial, observa-se que o embargante, se limitou a colacionar nos autos transcrições que mencionavam o art. 833 do CPC (fls. 52; 54 e 57) e a relatar entendimento do juízo a quo:
+O nobre julgado singular indeferiu o pedido do agravante fundamentando que o salário é impenhorável por força do art. 833, inciso IV, do CPC e, ainda, em jurisprudência que, data vênia, não é majoritária e não mais reflete a atual posição do C. Superior Tribunal de Justiça.
+Eis a razão da incidência da Súmula 284/STF, uma vez que apesar de mencionar o art. 833 do CPC em seu recurso, o embargante não o aponta de forma precisa e concreta como o dispositivo legal sob o qual se deu a alegada divergência jurisprudencial. Não há omissão portanto.
+Quanto a alegação de que é possível ao STJ desconsiderar "vício formal de recurso tempestivo" (fl. 155), ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
