@@ -1,0 +1,5 @@
+DECISÃO
+Em resposta ao ofício STF n. 336/2021 (fls. 138-174), que informou esta Relatoria que foinegado seguimento ao habeas corpus n.195.385/RJ(art. 13, V, alínea "e", c/c art. 21, § 1º, do RISTF), nacol. Corte Suprema impetrado, edeterminou a esta Relatoria,verbis: "que adote as providências que julgar cabíveis"; esclareço que a presente demanda já foi liminarmente indeferida (fls. 123-132), sob a premissa de ser substitutiva de revisão criminal (cujos pressupostos não foram demonstrados), pela indevida supressão de instância, pela demora na busca do direito pleiteado - preclusão (o acórdão objurgado conta com mais de 10 anos) - e pela impossibilidade de, de plano, se aferir o ato coator (revolvimento fático-probatório inviável).
+Assim, antes devidamente apreciada a total inviabilidade da via eleita, assim como porque já transitada em julgado a impetração (fl. 137) e porquanto nenhum fato novo, apto a desconstituir o julgado antecedente sobreveio,determino a imediata baixa dos autos.
+Ao arquivo.
+P. I. C.
