@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial de APARECIDO SALES DE SOUZAe OUTROS, com fulcro nas alíneas "a" e "c" do permissivo constitucionalinterpostocontra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fl. 218):
+AÇÃO ORDINÁRIA DE COBRANÇA - Pretensão ao recebimento de valores, relativos ao ALE, no período imprescrito, vantagem esta incorporada por força de ação mandamental - Conquanto diverso, hoje, o entendimento da E. Câmara acerca da matéria, e mais, embora não se possa falar na existência de coisa julgada em condições de vincular a decisão, no presente caso, é certo que não se afigura razoável pudesse prevalecer, quanto a período anterior àquele em que o órgão colegiado, em outros tempos, reconheceu o direito à incorporação do ALE, orientação atual - Recurso parcialmente provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 237/240).
+Nas suas razões, a parte recorrente aduz, além da divergência jurisprudencial, violação dos arts. 202 e 405 do CC/2002, sustentando que o termo inicial dos juros de mora deve ser a data da notificação da autoridade apontada como coatora no mandado de segurança que embasou esse ato (a notificação), porque é este o momento em que se constituiu em mora o devedor quanto ao pagamento dos efeitos patrimoniais vindicados (e-STJ fl. 290).
+Contrarrazões às e-STJ fls. 314/322.
+Passo a decidir.
+Inicialmente, cumpre destacar que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos dos requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feito o registro, verifico que o apelo nobremerece sucesso.
+A Corte de origem entendeu que "o fato de se ter reconhecido como marco do lustro prescricional a data do ajuizamento da ação coletiva em nada interfere com o termo da contagem dos juros de mora, pois a regra do art. 405 do Código Civil tem em conta a data da citação em que se acolheu a pretensão deduzida pela parte" (e-STJ fl. 225).
+Ocorre que é firme o entendimento desta Corte de que "o termo inicial dos juros de mora da ação de cobrança, lastreada no direito reconhecido na via mandamental, deve ser fixado na data da notificação da autoridade coatora no writ, pois é o momento em que, nos termos do art. 219 do CPC/1973, ocorre a interrupção do prazo prescricional e a constituição em mora do devedor" (REsp 1.692.635, Rel. Min. Napoleão Nunes Maia Filho, Dje de 11/04/2018). Na mesma esteira:
+PROCESSUAL CIVIL. TERMO INICIAL. JUROS DE MORA. MANDADO DE SEGURANÇA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA CORRETAMENTE. FALTA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+ ..
+3. O Tribunal de origem decidiu, em consonância com o entendimento dominante no STJ, que o "termo inicial para a incidência dos juros de mora deverá ser a data da notificação da autoridade coatora no mandado de segurança coletivo", porque é neste momento que o devedor é constituído em mora. Precedente: REsp 1.151.873/MS, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 23/3/2012.
+4. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.709.100/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 18/06/2019).
+Cito, ainda, as seguintes decisões monocráticas proferidas em feitos semelhantes: REsp 1.817.220/SP, Relatora Ministra REGINA HELENA COSTA, DJe de 28/06/2019, e REsp 1.817.834/SP, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 06/08/2019.
+Assim, considerando que o acórdão da Corte a quo encontra-se em dissonância com o posicionamento do Superior Tribunal de Justiça, merece amparo a pretensão formulada.
+Ante o exposto,com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao apelo nobrepara fixar como termo inicial dos juros de mora a data da notificação da autoridade apontada como coatora no mandado de segurança coletivo.
+Publique-se. Intimem-se.
