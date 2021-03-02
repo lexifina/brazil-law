@@ -1,0 +1,22 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO DE RECORRER EM LIBERDADE. COMPATIBILIDADE COM O REGIME FIXADO NA SENTENÇA. ILEGALIDADE. AUSÊNCIA. WRIT INDEFERIDO LIMINARMENTE. SÚMULA 691 DO STF. AUSÊNCIA DE FLAGRANTE DE ILEGALIDADE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Em casos excepcionais, quando evidenciada a presença de decisão teratológica ou sem fundamentação, a jurisprudência tem admitido a mitigação do enunciado contido na Súmula 691/STF.
+2. Não há falar em ilegalidade flagrante no indeferimento do pedido liminar do habeas corpus originário quando, negando o direito de recorrer em liberdade, o juízo sentenciante determina a adequação ao regime semiaberto imposto na sentença.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão da Presidência do Superior Tribunal de Justiça que indeferiu liminarmente o habeas corpus.
+Afirma o agravante ser o caso de afastamento da Súmula 691/STF, porque incompatível a negativa de recorrer em liberdade e o regime semiaberto fixado na sentença condenatória.
+Defende a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO(Relator):
+Consoante relatado, busca a defesa a mitigação da Súmula 691/STF, segundo o qual: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+Em casos excepcionais, quando evidenciada a presença de decisão teratológica ou sem fundamentação, a jurisprudência tem admitido a mitigação do referido enunciado.
+No caso, o indeferimento do pedido liminar no writ originário foi assim fundamentado (fls. 74-75):
+ ..  À vista disso, e confrontando os argumentos vertidos na exordial com a prova pré-constituída pelo impetrante, não constato, prima facie, patente ilegalidade, teratologia ou abuso de poder aptos a ensejar a concessão liminar do writ (CF/88 - art. 5º, LXVIII).E assim compreendo porque, conquanto o impetrante insista na ilegalidade da prisão supostamente imposta ao beneficiário deste writ e mantida por ocasião da solução de mérito do feito correlato; extrai-se de uma análise sumária dos autos que, aparentemente, o paciente sequer se encontra recolhido ao cárcere. Isso porque, ao proferir o édito condenatório, embora tenha afirmado ser "o caso de manter a prisão preventiva dos acusados", o d. magistrado singular determinou a adequação do regime de cumprimento de pena em relação ao paciente Gabriel Dias da Silva e seu comparsa Iago da Silva Barbosa, impondo-lhes a utilização de aparelho de monitoração eletrônica e determinando a expedição dos respectivos alvarás de autorização para cumprimento de pena em regime semiaberto (ID 67314459, p. 06). Desta feita, porque não verifiquei ilegalidades flagrantes, teratologias patentes ou abusos de poder manifestos aptos a violar o direito ambulatorial de locomoção do paciente; impede-se a concessão liminar da ordem, valendo destacar, ainda, que os argumentos por meio dos quais o impetrante busca a concessão liminar da ordem detém nítido caráter satisfativo e confundem-se com o próprio mérito da impetração, de modo que o esgotamento da sua análise deve ser resguardado ao momento oportuno, pelo juiz natural da ordem, que é a c. 3ª Câmara Criminal.  ..
+Como se vê, o pedido liminar foi indeferido pelo relator do habeas corpus originário, uma vez que, ao manter a prisão preventiva do paciente, negando o direito de recorrer em liberdade, o juízo sentenciante determinou a adequação ao regime semiaberto imposto na sentença.
+Dessa forma, inexistindo decisão teratológica ou flagrante ilegalidade, não cabe mitigar o entendimento consolidado na Súmula 691/STF, devendo se aguardar a análise de mérito pela Corte de origem, sob pena de supressão de instância.
+Ante o exposto, voto por negar provimento ao agravo regimental.
