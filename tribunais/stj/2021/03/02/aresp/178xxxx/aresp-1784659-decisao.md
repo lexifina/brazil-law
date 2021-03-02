@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo de IVANI MARIA DIAS MACANHÃOcontradecisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Paraná, assim ementado:
+"Apelação. Antecipação de legítima. Recebimento de terras objeto de litígio. Perda da propriedade anos depois. Assunção de responsabilidade pelos demais herdeiros. Controvérsia sobre o montante devido. Interpretação restritiva da transação. Analogia com o instituto da colação. Indenização que deve ser calculada com base no preço declarado no instrumento contratual. Índicecorreção monetária. IPCA.
+1."A integração do negócio jurídico tem por fontes principais as normas supletivas (sejam dispositivas ou cogentes), o princípio da boa-fé e os usos em função integrativa (ou normativa). Nesse sentido, é feliz a dicção do art. 1.135 do Code Civil: "Os contratos obrigam não somente ao que neles está expresso, mas ainda a todas as consequências quea equidade, os usos ou a lei dão à obrigação segundo a sua natureza"" (MARINO, Francisco Paulo De Crescenzo. Interpretação do negócio jurídico. São Paulo: Saraiva, 2011, p. 220).
+2. Em se tratando de transação, a interpretação é restritiva por força do art. 1.027 do Código Civil de 1916, reproduzido pelo art. 843 do Código Civil de 2002.3. Apelação não provida."
+(e-STJ, fls. 925)
+Opostosembargos de declaração, foram acolhidos parcialmente, nos seguintes termos:
+Embargos de declaração. Fixação do critério de correção monetária. Aclaramento. Demais matérias devidamente tratadas. Mero descontentamento com a decisão proferida. Impossibilidade na via eleita.
+1. Os embargos prestam-se a esclarecer, se existentes, dúvidas, omissões ou contradições no julgado. Não para que se adeque a decisão ao entendimento do embargante. (STJ, EDclAgRgREsp nº 10270-DF, rel. Min. Pedro Acioli, DJU 23.09.1991, p.13067).
+2. Recurso conhecido e parcialmente provido.
+(e-STJ, fls. 1.033)
+Nas razões do recurso especial, aagravante alegouviolação dos arts. 9º, 10, 141, 357, 489 e1.022 do Código de Processo Civil. Sustentou, em síntese, (i) a ausência de manifestação clara e expressa sobre questões relevantes para o julgamentoda lide; (ii) a ocorrência dejulgamento surpresa, em que não foi assegurada oportunidade de manifestação da parte quanto aos fatos utilizados como razão de decidir; e (iii)entrega de tutelade natureza diversa daquela delimitada e deduzida pelas partes.
+Contraminuta apresentadaàs fls. 1.216/1.231.
+É o relatório. Passo a decidir.
+Inicialmente, não se verifica a alegada ofensa aoart. 1.022, II do CPC/15, na medida em que todas as questões devolvidas em recurso de apelação foram enfrentadas pelo acórdão recorrido, o qual declinou, de forma expressa e coerente, os fundamentos utilizados como razão de decidir.
+Outrossim, ao julgar os aclaratórios, o Tribunal recorrido consignou expressamente o seguinte:
+"Com efeito, as matérias foram devidamente tratadas no acórdão, sendo o critério de apuração do valor devido simplesmente decorrente da interpretação da cláusula do contrato de antecipação de legítima. Em outras palavras, não há que se falar em acórdão ultra petita, uma vez que a controvérsia travada em todo processo era justamente o alcance da cláusula prevista contratualmente.
+Sendo assim, não há qualquer vício a modificar o decisium, sendo importante frisar que o mero descontentamento com a decisão proferida não encontra amparo para rediscussão pela via dos embargos. É trivial: os embargos declaratórios servem para sanar, se existentes, omissão, contradição e obscuridade na decisão atacada, e não para o julgamento da ação de forma a adequar aos interesses dos embargantes, utilizando-se da via inadequada para tanto."
+(e-STJ, fls. 296/297)
+De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela agravante, manifestou-se acerca dos temas necessários à solução da lide.
+Impende ressaltar que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte"(AgRg no Ag 56.745/SP, Rel. Ministro CESAR ASFOR ROCHA, DJ de 12/12/1994).
+Nesse sentido, confiram-se os seguintes julgados: REsp 209.345/SC, Rel.Ministro JOÃO OTÁVIO DE NORONHA, DJ de 16/5/2005; REsp 685.168/RS, Rel. Ministro JOSÉ DELGADO, DJ de 2/5/2005.
+No que tange à existência de decisão surpresa e afronta ao princípio da congruência, o recurso especial se funda na alegação de que"o acórdão enveredou-se sob a análise e interpretação da Escritura Pública de Compra e Venda, entendendo-a como transação, discorrendo sobre adiantamento da legítima e regras aplicáveis à colação de bens, quando isto não foi objeto de debate pelas partes" (e-STJ fl. 1.081). Contudo, essas matériasnão teriam sido objeto de contraditório, nem mesmo teria sido assegurado às partesoportunidade para que se manifestassem a seu respeito.
+Todavia, essa a alegação não procede, uma vez que a antecipação da legítima e todo arcabouço jurídico a ela atinente estavam umbilicalmente entremeados ao negócio jurídico que deu causa à obrigação posta sub judice.Isso porque, consta da própria petição inicial deduzida pelos ora agravantes, que o negócio jurídico teve origem em ato de antecipação de legítima.
+É o que se extrai do seguinte trecho:
+"No dia 13 de fevereiro de 1986, Luiz Macanhão e esposa Emilia Simião Macanhão transferiram para os Autores AIRTO MACANHAO e sua esposa IVANI MARIA DIAS MACANHAO, a titulo de antecipação da legítima, uma área de terras rurais, com 152,46ha.  .. "
+(e-STJfl. 10)
+Nesse contexto, não se vislumbra nos autos nenhuma violação aos dispositivos legais indicados como violados, uma vez que as questões enfrentadas foram deduzidas pelos próprios agravantes.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
