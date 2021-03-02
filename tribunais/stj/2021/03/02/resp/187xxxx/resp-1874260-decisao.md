@@ -1,0 +1,38 @@
+DECISÃO
+1. Trata-se de recurso especial interposto com fulcro nas alíneas "a" e "c" do permissivo constitucional, por VALÉRIO HORTA MACIEL, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que entendeu não ter ocorrido nulidade na intimação de um dos advogados do causídico, por não haver pedido expresso para que esta fosse realizada em nome de outro procurador,em acórdãoassim ementado:
+EMENTA: AGRAVO INTERNO - DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DA APELAÇÃO - SUBSTABELECIMENTO COM RESERVA DE IGUAIS PODERES - INTIMAÇÃO DOS ADVOGADOS NÃO SUBSTABELECENTES - NÃO INDICAÇÃO DO CAUSÍDICO RESPONSÁVEL PELAS INTIMAÇÕES DOS ATOS PROCESSUAIS - VÍCIO DE PUBLICAÇÃO -NÃO OCORRÊNCIA - NULIDADE PROCESSUAL NÃO VERIFICADA - DEVOLUÇÃO DESNECESSÁRIA DO PRAZO RECURSAL.
+Segundo orientação do Superior Tribunal de Justiça, havendo vários advogados habilitados a receber intimações, é válida a publicação realizada na pessoa de apenas um deles. A nulidade das intimações só se verifica quanto há requerimento prévio para que sejam feitas exclusivamente em nome de determinado patrono (REsp. AgRg nos EDcl no REsp 1575234 / RJ). A desídia do interessado na indicação ao juízo acerca do causídico responsável pelas intimações, não indica a devolução do prazo ou mesmo o decreto de nulidade do ato de intimação, salvo, porém, se a parte provasse que não o realizou por justa causa.
+Irresignada, a parte recorrente opôs embargos de declaração e estes foram rejeitados.
+Nas razões do especial, alega-se violação além de dissídio jurisprudencial, ofensa ao disposto nos arts. 272, § 2º, 489, § 1º, IV, V, VI, 1.007, § 6º, e 1.022, II, parágrafo único, II, do CPC.
+Alega omissão no acórdão recorrido enulidade da intimação da advogada substabelecida, contratada para acompanhamento do processo em comarca distinta da atuação dos substabelecentes, não cadastrada no feito quando do recebimento do recurso de apelação pelo Tribunal local.
+Sustenta, ainda, erro administrativo do Tribunal que não procedeu a ato de ofício, independente de requerimento expresso.
+Contrarrazões ao recurso especial às fls. 375-377.
+É o relatório.
+DECIDO.
+2. A celeuma gira em torno da omissão do acórdão recorrido com relação a ocorrência de possível erro no serviço administrativo do Tribunal que não cadastrou advogada substabelecida, bem como a validade daintimação emque não constou o nome desta para acompanhar o processo em 2ªinstância, bem como acerca da necessidade de requerimento expresso para intimação exclusiva da advogada.
+Inicialmente, observa-se que não se viabiliza o recurso especial pela indicada violação do artigo 1.022 do Código de Processo Civil de 2015, poisno que tange a omissão da decisão objurgada, o Tribunal, quando do julgamento dos embargos declaratórios entendeu à fl. 346 (grifei):
+Inobstante tal fato, a alegação de erro do serviço administrativo do TJMG, quanto ao não cadastramento da advogada substabelecida, cabe sinalizar que o Sistema de Consulta Processual, disponível no "sitio" do TJMG, permite que os advogados possam obter informações sobre o processamento dos autos. Desse modo, também em cumprimento ao dever de colaboração, insculpido no art. 6º do CPC/2015, poderia a procuradora acompanhar o andamento do processo junto ao Sistema informatizado à sua disposição.
+Portanto, não há como impor ao Setor de cadastramento de cadastro de partes e advogados que relacione todos os advogados com poderes para representação, mormente existência de casos, como por exemplo, instituições bancárias, em que o número e procuradores passa de centena.
+Logo, embora rejeitados os embargos de declaração, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+3. No tocante à alegada violação do artigo 272, §§ 2º e 5º do Código de Processo Civil, o acórdão recorrido consignouque consta da decisão impugnada queum dos três advogados que patrocinam a causa do autor substabeleceu, com reserva de poderes, em favor da advogada subscritora do recurso, os poderes que lhe foram conferidospara atuação judicial nestes autos, em especial, os poderes gerais para interpor recurso em qualquer juízo, instância ou Tribunal etais poderes conferidos com reserva, foi dado por apenas um dos advogados constituídos, ficando os demais com igual atribuição. (fls. 323).
+Restou comprovado, ainda, que não houve requerimento no substabelecimento para que a intimação fosse efetuada em nome da advogada substabelecida.
+Logo, oposicionamento manifestado pela Corte de origem está em consonância com a jurisprudência desta Corte Superior, no sentido de ser válida aintimaçãoveiculada com apenas um dos nomes dosvários advogadosda parte, que não requereu expressamente que as intimações fossem feitas em nome de determinado advogado. Incide, portanto a Súmula 83 do STJ.
+Vejamos:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.SUBSTABELECIMENTO. VÁRIOS ADVOGADOS. PUBLICAÇÃO. EM NOME DE UM DELES. VALIDADE.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 dias previsto no artigo 508 do Código de Processo Civil (CPC).
+2. Havendo substabelecimento com reserva de poderes, é válida a intimação feita em nome de qualquer dos advogados constituídos, salvo na hipótese de pedido expresso para que a publicação seja efetivada em nome de determinado defensor. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 690.607/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/03/2016, DJe 22/03/2016 - destaquei)
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AÇÃO DE MODIFICAÇÃO DE GUARDA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTE TRIBUNAL QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA DA REQUERIDA
+1. Consoante Enunciado Administrativo n. 3, do Plenário do Superior Tribunal de Justiça, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. É intempestivo o agravo em recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/2015.
+3. Havendo vários advogados habilitados a receber intimações, é válida a publicação realizada na pessoa de apenas um deles. A nulidade das intimações só se verifica quando há requerimento prévio para que sejam feitas exclusivamente em nome de determinado patrono. (AgRg nos EDcl no REsp 1575234/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/05/2016, DJe 09/05/2016)
+4. Agravo interno desprovido.
+(AgInt no AREsp 1051395/RN, Rel. MINISTRO MARCO BUZZI, QUARTA TURMA, julgado em 27/2/2018, DJe 2/3/2018- destaquei)
+4. Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. INTIMAÇÃO. MAIS DE UM ADVOGADO. SUBSTABELECIMENTO COM RESERVAS. AUSÊNCIA DE PEDIDO EXPRESSO. NULIDADE DA INTIMAÇÃO. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
+1. Não padece de nulidade a intimação feita a um dos advogados da parte que constituiu três advogados para atuarem na causa, e um deles substabeleceu, com reserva de poderes, a um quarto advogado, na hipótese em que a intimação não foi feita em nome do advogado substabelecido, uma vez que não existe pedido expresso nos autos, para que a intimação ocorresse em nome deste.
+2. Recuso especial não provido.
