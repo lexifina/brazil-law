@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por FABRICIO SOUSA DOS SANTOS, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 497):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL.PENAL E PROCESSUAL PENAL. ROUBO A AGENTE DOS CORREIOS. RECONHECIMENTO DO RÉU PELA VÍTIMA.VALIDADE. AUSÊNCIA DE VIOLAÇÃO DO ART. 226 DO CP. EXISTÊNCIA DE OUTRAS PROVAS PARA A CONDENAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que as disposições insculpidas no art. 226 do Código de Processo Penal configuram uma recomendação legal, e não uma exigência, não se cuidando, portanto, de nulidade quando praticado o ato processual (reconhecimento pessoal) de modo diverso.
+2. Não se pode falar em qualquer vício capaz de comprometer a instrução processual, notadamente porque o referido reconhecimento foi, oportunamente, convalidado pelas declarações e razões expendidas pela vítima, na fase inquisitorial, e confirmado em seu interrogatório judicial, inexistindo qualquer ilicitude da prova produzida pela acusação, que se revelou hígida e confirmada por outros elementos probatórios reunidos nos autos, não podendo se concluir pela ofensa ao art. 226 do CPP.
+3. Agravo regimental não provido.
+Sustenta o recorrente a repercussão geral da matéria tratada, aduzindo que o aresto impugnado teria violado o art. 5º, inciso LV, da Constituição Federal.
+Afirma que "o art. 226 do CPP estabelece um procedimento para o reconhecimento e identificação de pessoas, o que não foi observado no presente caso, além de ter sido quebrada a cadeia de custódia da prova, as quais são estruturadas de forma a zelar pelos princípios do contraditório e da ampla defesa, constituindo hipótese de nulidade nos termos do art. 564, IV do CPP" (e-STJ fl. 514).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 524/529.
+É o relatório.
+Pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa edo devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a suposta ofensa aos princípios da ampla defesa e do contraditóriodepende do exame do art. 226 do Código de Processo Penal, razão pela qual incide o Tema 660/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA.TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
