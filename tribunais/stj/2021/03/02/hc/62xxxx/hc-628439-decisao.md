@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EDUARDO LEAL LAUREANO, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0009287-11.2020.8.26.0996).
+O paciente cumpre pena de 22 anos, 11 meses e 27 dias de reclusão, com vencimento previsto para 29/5/2038, pela prática de roubos majorados e associação criminosa.
+Requerida progressão de regime, o pedido foi indeferido por não ter o paciente preenchido o requisito subjetivo.
+A impetrante aponta constrangimento ilegal por ausência de fundamentação idônea, não constituindo óbices à concessão do benefício pretendido a longa pena acumprir e a gravidade dos delitos.
+Requer, liminarmente e no mérito, a promoção do paciente ao regime semiaberto.
+O pedido de liminar foi indeferido (fls. 79-80).
+Prestadas as informações (fls. 85-94), o Ministério Público Federal opinou pelo não conhecimento da ordem (fls. 98-102).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+O Tribunal de origem concluiu que o paciente não cumprira o requisito subjetivo para a progressão de regime, adotando os seguintes fundamentos (fls. 66-69):
+Verte-se dos autos que o sentenciado cumpre penas que somam 22 anos, 11 meses e 27 dias de reclusão, com término previsto para 29/05/2038, em razão da prática dos crimes de roubos majorados e associação criminosa (fls. 10/14).
+Pleiteou a progressão ao regime semiaberto, benesse esta que restou indeferida pelo MM. Juiz a quo, por entender que o sentenciado não preenche o requisito de ordem subjetiva.
+Com razão o D. Magistrado singular, estando a r. decisão fundamentada, pautada no fato concreto. Vejamos.
+Inicialmente, deve-se considerar a extrema gravidade dos delitos praticados pelo sentenciado, praticados com seus comparsas de modo organizado e coordenado, com invasão e manutenção do policial que monitorava a agência bancária dominado no interior da própria Companhia da Polícia Militar, da qual foram subtraídas diversas armas para serem utilizadas em novas empreitadas delituosas, a demonstrar a periculosidade do sentenciado.
+Com efeito, ainda que a prática de crimes dessas naturezas não seja suficiente, por si só, para indeferir a progressão de regime, é certo que tal situação enseja cautela na concessão de qualquer tipo de benefício.
+Ademais, considerar a gravidade dos crimes perpetrados pelo sentenciado, quando da análise da viabilidade da progressão de regime, não caracteriza bis in idem, uma vez que os delitos pelos quais condenado são resultado de sua personalidade e de como ele se determina socialmente.
+O mesmo se pode dizer no tocante à longa pena a cumprir. Tratou-se, no presente caso, como já adiantado, de delitos de roubos e associação criminosa armada, minuciosamente premeditados, de modo que o agravante demonstra personalidade enraizada no mundo marginal. Ora, estes fatos não podem ser ignorados, uma vez que indicam que ele não é merecedor da benesse, já que "a progressão deve ser uma conquista do condenado pelo seu mérito" (Exposição de Motivos da LEP).
+De mais a mais, a colocação prematura do sentenciado no regime semiaberto pode ser prejudicial não apenas à sociedade como, também, ao próprio sentenciado que, ao ser colocado na semiliberdade, sem assimilação da terapêutica penal, pode tornar a delinquir ou, ao menos, enveredar-se na prática de falta disciplinar de natureza grave, caso em que a progressão ser-lhe-ia mais prejudicial do que benéfica.
+Desse modo, é certo que o sentenciado não preenche o requisito de ordem subjetiva para concessão da progressão de regime.
+Com efeito, não se pode falar que a sentença apresenta fundamentação inidônea, pois os motivos pelos quais o douto Magistrado indeferiu o pedido de progressão ao reeducando são plausíveis, eis que entendeu não estar preenchido o requisito subjetivo necessário à concessão da benesse, a qual, ainda que por breves períodos, permitirá o convívio em sociedade (fls. 18/19).
+Deveras, para aferir o requisito subjetivo, o Juiz precisa de elementos que indiquem o merecimento do reeducando, de que está apto para retornar ao convívio social, mormente quando se encontra cumprindo pena pela prática de crimes graves.
+E, a despeito de no atestado de conduta carcerária, eventualmente, constar bom comportamento, não são ali especificadas quais as condutas que foram consideradas boas, bem como o que se espera do sentenciado para o futuro e o quanto ressocializado já está.
+Isto porque não se pode resumir a atividade jurisdicional como sendo de chancelaria, de modo a ser o Poder Judiciário mero órgão burocrático ratificador de documentos emitidos pela direção da unidade prisional ou mesmo pelos profissionais que elaboram o exame criminológico.
+Vincular o Magistrado a tais documentos é tornar o juiz um mero homologador da atividade administrativa, num claro vilipêndio à jurisdicionalidade da execução da penal e ao princípio do livre convencimento motivado.
+O nosso sistema de valoração das provas é baseado justamente em tal princípio e, neste caso, cabe ao juiz ponderar tanto o deferimento da benesse quanto a segurança da sociedade.
+ ..
+Insta consignar, ainda, ser entendimento da Corte Suprema que a confecção do exame criminológico, ante o advento da Lei 10.792/03, não é mais obrigatória para fins de progressão de regime, sendo sua realização facultativa nos casos em que o Juiz, mediante decisão fundamentada, vislumbrar a sua necessidade.
+E, evidenciado de plano o não preenchimento do requisito subjetivo para a progressão, tanto pela análise do caso concreto, do perfil social do réu, da conduta carcerária e da ressocialização, desnecessária a determinação de realização do exame criminológico que, como sublinhado, é faculdade da autoridade judicial.
+Por esses motivos, inviável a concessão da progressão ao regime semiaberto ao sentenciado, por ausência de requisito subjetivo.
+A conclusão é contrária à orientação do STJ, razão pela qual está constatada hipótese de constrangimento ilegal, passível de ser sanado na presente via.
+O Superior Tribunal de Justiça entende que a gravidade abstrata dos crimes pelos quais o sentenciado foi condenado e a longa pena a cumprir não são fundamentos idôneos para negar os benefícios da execução penal.
+Nessa linha, confira-se o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. LONGA PENA E GRAVIDADE ABSTRATA. FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A gravidade abstrata do crime e a longa pena a cumprir não são aspectos relacionados ao comportamento do sentenciado durante a execução penal e não justificam o indeferimento dos benefícios do sistema progressivo das penas.
+2. Faltas disciplinares muito antigas também não podem impedir, permanentemente, a progressão de regime e o livramento condicional, pois o sistema pátrio veda as sanções de caráter perpétuo. É desarrazoado admitir que falhas ocorridas há vários anos maculem o mérito do apenado até o final da execução. A reabilitação do preso depende das peculiaridades de cada caso, mas, em regra, deve ser entendida como o aperfeiçoamento do seu comportamento por tempo relevante.
+3. Era de rigor a concessão da ordem, pois o benefício do art. 83 do CP foi indeferido com lastro em fundamentos inidôneos, consubstanciados na gravidade dos crimes praticados e em comportamento negativo regenerado.
+4. Agravo regimental não provido. (AgRg no HC n. 620.883/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/12/2020.)
+Ante o exposto, não conheço do habeas corpus, mas, de ofício, concedo a ordem para cassar as decisões das instâncias ordinárias e determinar que o Juízo da execução penal reaprecie o pedido de progressão de regime nos limites legais, afastando a fundamentação anterior.
+Publique-se. Intimem-se.
