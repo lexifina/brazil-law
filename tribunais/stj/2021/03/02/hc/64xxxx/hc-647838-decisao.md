@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCIENE GALVAO DE SOUZA LOPES CAVALCANTE contra decisão monocrática proferida por Desembargador Relator do Tribunal Regional Federal da 5.ª Região nos autos da Apelação Criminaln. 0809642-16.2020.4.05.8300.
+A Paciente foi presa em flagrante, junto com outros agentes, em razão de terem sido surpreendidos pelaPolícia Federal quando recepcionavam uma aeronave que transportava 650,429 kg de cocaína (fl. 91).A constriçãoem flagrante foi convertida em preventiva, a qual foi substituída pela prisão domiciliar, além de ter sido arbitradafiança no valor de R$ 30.000,00 (fl. 101).
+A Acusadafoi condenada pelo Juízo de primeira instância, em 06/08/2020, às penas de 15 (quinze) anos, 7 (sete) meses e 25 (vinte e cinco) dias de reclusão, e 1.971 (mil, novecentos e setenta e um) dias-multa, pela prática dos crimes previstos nos arts. 33, c.c. o art.40, inciso I,e 35, c.c. o art. 40, incisos I e VII, todos da Lei n. 11.343/2006 (fls. 90-207).
+Em 26/11/2020, o Desembargador Relator da Apelação Criminal n. 0809642-16.2020.4.05.8300 indeferiu o pleito de abrandamento das regras da prisão domiciliarapresentado em favor da Paciente (fls. 81-84).
+Neste habeas corpus, a Parte Impetrante sustenta, em suma, que a Paciente faz jus à flexibilização das regras impostas à prisão domiciliar, haja vista que "é mãe de filha menor de 12 anos e com necessidade de acompanhamento médico, o PAI encontra-se encarcerado, e a paciente é uma responsável por tudo ( acompanhar filha nos médicos e terapias, levar e buscar a filha na escola, acompanhar a menor nas atividades esportivas)  .. " (fl. 7).
+Requer, em liminar e no mérito, a flexibilizaçãoda prisão domiciliar imposta à Paciente.
+É o relatório. Decido.
+Observo que o presentewritfoi manejado contra decisão singular de Desembargador Relator do Tribunal de origem que indeferiu o pedido de abrandamento da prisão domiciliar apresentado em favor da Condenada nos autos da Apelação Criminal n. 0809642-16.2020.4.05.8300, conforme os seguintes fundamentos (fls. 82-84):
+"Primeiramente, importa considerar que a requerente já tinha feito um pedido de ampliação da área de monitoramento pelo mesmo fundamento da filha menor fazer caminhadas nos limites do condomínio por necessidade médica, tendo o pleito sido apreciado e indeferido pela juíza por ocasião da sentença com base nos seguintes fundamentos (item 2.1.7, cf. id.4058300.15481775):
+ ..
+Na realidade, não houve modificação do contexto fático, e a documentação juntada pela requerente não demonstra a imprescindibilidade da medida requerida, sendo insuficiente para os fins pretendidos de revogação da cautelar de monitoramento eletrônico a que se acha submetida.
+Com efeito, conforme destacado, não há documentação médica atestando o estado de saúde da menor e a recomendação de caminhadas, constando apenas guia ilegível do plano de saúde Hapvida com requisição de exames onde sequer consta o nome da menor no espaço destinado aos "dados do beneficiário"; "declaração nutricional" citando sobrepeso da menor e recomendando dieta e atividade física; receituário de vitamina D; indicação de dermatologista (de sabonetes e hidratantes para uso no corpo); dieta prescrita por nutricionista.
+Demais disso, há notícia nos autos da existência de um irmão maior na mesma residência e que poderia acompanhar a menor nas suas caminhadas na área do condomínio, não apresentando a requerente comprovação e justificativa verossímil para rejeitar a adoção de tal providência.
+Nesse contexto, indefere-se o pedido, considerando a proporcionalidade e a razoabilidade da medida implementada pela juíza sentenciante diante dos crimes perpetrados pela requerente e do interesse a que se visa resguardar com a manutenção da prisão domiciliar e o uso de tornozeleira eletrônica no caso concreto."
+Assim, ausente o exaurimento da instância ordinária, e, não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da presente ação mandamental.
+A propósito, confiram-se,mutatis mutandis, os seguintes julgadosdesta Cortee doSupremo Tribunal Federal, respectivamente:
+" ..
+1. Hipótese em queo presentewritfoi manejado contra decisão singular do Desembargador Relator do Tribunal de Justiça do Estado de Minas Gerais, não tendo havido a interposição de agravo regimentalobjetivando a manifestação do Órgão Colegiado.
+2.Ausente o exaurimentoda instância ordinária, e, não se tratando de hipótese excepcional de flagrante ilegalidade, impõe-se o não conhecimento da presente ação mandamental.
+ ..
+5. Agravo regimental desprovido."(AgRg no HC 556.467/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 03/03/2020, DJe 16/03/2020; sem grifos no original.)
+" .. .
+1.A jurisprudênciadesta Corte é pacífica no sentido de que, não tendo a parte recorrente interposto agravo regimental para esgotamento da instânciaanterior, com vistas a atender os ditames do art. 105, II, da Constituição Federal,é incabível a impetraçãodohabeas corpus, só se flexibilizando esse entendimento quando constatada ilegalidade flagrante. Precedentes.
+2. Agravo regimental improvido." (AgRg no HC 503.168/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 04/06/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS.IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA.NÃO ESGOTAMENTO DE JURISDIÇÃO. HOMICÍDIO QUALIFICADO. PRISÃO TEMPORÁRIA. SUPRESSÃO INSTÂNCIA.
+1.Há óbice ao conhecimento dehabeas corpusimpetrado contra decisão monocrática do Superior Tribunal de Justiça, cuja jurisdição não se esgotou. Precedentes.
+2. Inviável o exame de teses defensivas não analisadas pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. Agravo regimental conhecido e não provido." (HC 171.614 AgR, Rel. Ministra ROSA WEBER, PRIMEIRA TURMA, DJe 03/09/2019; grifos diversos do original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUS. 2. Penal e Processual Penal. 3. Sequestro e cárcere privado, extorsão e corrupção passiva (arts. 148, 158, § 1º, c/c o art. 29, e art. 317, § 3º e 4º,"a"e"c", da Lei 4.898/1965). 4. Retirada do monitoramento eletrônico. 5.Habeas corpusimpetrado contra decisão monocrática do STJ. Impossibilidade. Esgotamento das vias recursais. Precedentes.6. Agravo regimental a que se nega provimento." (HC 170.091 AgR, Rel. Ministro GILMAR MENDES, SEGUNDA TURMA, DJe 03/09/2019; grifos diversos do original.)
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL.WRITMANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA POR DESEMBARGADOR RELATOR DO TRIBUNAL DE ORIGEM. DESCABIMENTO. AUSÊNCIA DE EXAURIMENTO DA INSTÂNCIA ANTECEDENTE. PRECEDENTES. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
