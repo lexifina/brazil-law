@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo recurso especial interposto por ANA LÚCIA FISCHER DE OLIVEIRA JURASZEKcontra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a" e"c", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado do Paraná (TJ-PR), assim ementado (fl. 3877):
+"APELAÇÕES CÍVEIS. AÇÃO DE PRESTAÇÃO DECONTAS. SEGUNDA FASE. APELO (01). PERÍCIAJUDICIAL. CONCLUSIVA. PAGAMENTO DE JUROS.SOCIEDADE. NECESSIDADE DE CAPITAL DE GIRO.FUNDOFIXODECAIXA.INEXISTÊNCIADEIRREGULARIDADE.LUCROS.DISTRIBUIÇÃOCORRETA.VALORES NÃO CONTABILIZADOS.EXPURGO. RECURSO PROVIDO EM PARTE. APELO(02).SUCUMBÊNCIA.INVERSÃO.PRINCÍPIOINCIDENTE. PRIMEIRA E SEGUNDA FASE DA AÇÃODEPRESTAÇÃODECONTAS.DISTINÇÃO.RECURSO PROVIDO. SENTENÇA REFORMADA EMPARTE. APELO (01) PARCIALMENTE PROVIDO EAPELO (02) PROVIDO."
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 3.983/3.994).
+As razões do recurso especial, fundamentadas nas alíneas "a" do permissivo constitucional, apontam a divergência jurisprudencial e a violação (i) do art. 535 do CPC/73, pois haveria contradições no v. acórdão estadual ao igualar o "pagamento de mútuo" com "distribuição de lucros; ao considerar documentos acostados em apelação sem prévia oitiva da parte recorrente; a resposta dada pela instituição financeira não permite concluir que o numerário foi usadopara distribuir lucros (ii) dos arts. 125, I, 130, 397 e 398 do CPC/73, porquanto a ausência de prévia intimação do recorrente para se manifestar sobre os documentos juntados pela recorrido geraria cerceamento de defesa.
+Decisão que inadmitiu o recurso especial às fls 4.109/4.112.
+Contraminuta às fls.4.137/4.165.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Além disso, o recorrente ainda aponta a infringência dosarts. 125, I, 130, 397 e 398 do CPC/73, porquanto a ausência de prévia intimação do recorrente para se manifestar sobre os documentos juntados pela recorrido geraria cerceamento de defesa. O eg. TJ-PR, por sua vez, após oposição dos embargos de declaração e com arrimo nas provas dos autos, consignou que não houve cerceamento de defesa, pois os documentos acostados são cheques que já constam na contabilidade da empresa, bem como porque as demais cópias já estavam anexadas ao processo.
+Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual:
+"De início, aduz a embargante que o julgado deve ser declarado nulo, pois não foi oportunizada a manifestação, quanto aos documentos juntados nessa fase recursal, caracterizando-se, dessa forma, cerceamento de defesa. Razão não lhe assiste.
+Veja-se que, as microfilmagens trazidas nessa fase recursal, referem-se aos cheques que constam na contabilidade da empresa, objeto da discussão. Assim, não se verifica qualquer surpresa na sua juntada.
+Além disso, como se observa às fís. 2690/2 770, certo é que grande- parte das cópias dos cheques já se encontravam anexadas ao caderno processual. Com isso, não há que se falar em cerceamento de defesa. No mais, o referido cheque no valor de R$ 34.710,00, foi nominal à própria embargante, não podendo alegar desconhecimento.
+Frisa-se, ainda, que após a conclusão do laudo pericial, bem como os posteriores esclarecimentos, sempre foi garantido às partes a devida manifestação."(fls. 3.988/3.989)
+Com efeito, para alterar o entendimento do eg. TJ-PR, no sentido de que não houve cerceamento de defesa, pois os documentos acostados são de prévio conhecimento do recorrente, seria necessário revolver o acervo fático e probatório dos autos, providência incompatível com o recurso especial, a teor da Súmula n. 7/STJ.
+Por fim, o recurso não prospera pela divergência jurisprudencial. Isso porque, quanto ao RE 924.849/PR, não há similitude fática e jurídica com o v. acórdão estadual. E, no que diz respeito aos demais arestos paradigmas, houve mera transcrição das ementas, o que é insuficiente para dar ensejo ao apelo nobre pela alínea "c" do permissivo constitucional.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
