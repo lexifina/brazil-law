@@ -1,0 +1,25 @@
+Decisão: Trata-se de habeas corpus com medida liminar, impetrado por Renato da Costa Garcia, em favor de de Raphael Souza Gomes da Paizão, contra decisão proferida pelo Ministro Joel Ilan Paciornik do Superior Tribunal de Justiça (STJ), que não indeferiu o pedido liminar no HC 646.521 – SP.
+    Consta dos autos que o paciente foi preso em flagrante, posteriormente convertido em constrição preventiva, pela suposta prática do delito descrito no art. 157, § 2º, incisos II e V, do Código Penal (roubo qualificado).
+    Irresignada, a defesa impetrou habeas corpus no TJSP postulando, em suma, a revogação da constrição cautelar.
+    A ordem foi denegada nos termos da ementa a seguir transcrita:
+    “Habeas corpus - Alegação de excesso de prazo para formação da culpa - Pleito de concessão de ordem para soltura do paciente Impossibilidade - A análise do caso indica que não há excesso de prazo - Além do crime imputado ao paciente ser muito grave de modo a fazer presumir periculosidade, verifica-se que o juiz redesignou a audiência de instrução e julgamento porque houve choque de agendas ao ser designado para cobrir licença paternidade de outro magistrado, sem prejuízo de sua própria designação - Assim, não há que se falar em desídia do juízo - Precedentes - ORDEM DENEGADA" (eDOC 16).
+     Daí a impetração de novo writ no STJ, que indeferiu o pedido liminar, pendente o julgamento do mérito. (eDOC 15)
+    Nesta Corte, o impetrante sustenta inidônea a fundamentação da constrição cautelar do paciente, porquanto lastreada na gravidade abstrata do delito, além de ausentes os requisitos autorizadores previstos no art. 312 do CPP.
+    Alega, ainda, que não houve reconhecimento pessoal pela vítima, de modo que a prisão estaria lastreada apenas nos depoimentos dos policiais
+    É o relatório.
+    Passo a decidir.
+    De início, verifico que o pedido esbarra na Súmula 691 desta Corte, razão por que dele não posso conhecer.
+    É bem verdade que o rigor na aplicação da Súmula 691/STF tem sido abrandado por julgados desta Corte em hipóteses excepcionais em que: a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF (cf. as decisões colegiadas: HC 84.014/MG, 1ª Turma, unânime, Rel. Min. Marco Aurélio, DJ 25.6.2004; HC 85.185/SP, Pleno, por maioria, Rel. Min. Cezar Peluso, DJ 1º.9.2006; e HC 88.229/SE, Rel. Min. Marco Aurélio, Red. para o acórdão, Min. Ricardo Lewandowski, 1ª Turma, maioria, DJ 23.2.2007; e as seguintes decisões monocráticas: HC 85.826/SP (MC), de minha relatoria, DJ 3.5.2005; e HC 86.213/ES (MC), Rel. Min. Marco Aurélio, DJ 1º.8.2005).
+    Na hipótese dos autos, não vislumbro a ocorrência de manifesta e incontestável ilegalidade a reclamar a superação da referida súmula.
+    Isso porque a prisão do acusado justifica-se, sobretudo, da periculosidade do agente e do modus operando, pois o delito teria sido praticado mediante violência e a vítima permaneceu em cárcere por aproximadamente 3 horas.
+    Cito, a propósito, trechos da decisão proferida pelo juízo de origem que indeferiu o pedido de liberdade provisória:
+    “Com efeito. Segundo a denúncia, o paciente foi preso em flagrante porque, agindo em concurso com indivíduos não identificados, subtraiu para todos, mediante grave ameaça e restrição da liberdade de Carlos Alberto, o veículo Fiat/Ducato Cargo 8, placas ELE-4715, e a carga que nele se encontrava.
+    Apurou-se que o paciente e os seus comparsas estavam no interior do veículo GM/Onix, cor preta, quando visualizaram o ofendido Carlos Alberto parado na via pública, com a caminhonete carregada com mercadorias para entrega, e resolveram roubá-la. Assim, o paciente parou o carro e nele permaneceu, enquanto os seus asseclas abordaram a vítima, e anunciaram o assalto, obrigando-a a entrar no veículo de carga, com ela transitando por cerca de 15 minutos.
+    Em seguida, pararam os automóveis e transferiram o ofendido para o GM/Onix, onde Carlos Alberto teve que permanecer deitado, sob o jugo dos comparsas do paciente, que conduziu a caminhonete e a carga roubadas até o município de Itaquaquecetuba, local em que foi preso por policiais civis. Após ficarem sabendo da prisão de Raphael, os indivíduos não identificados libertaram a vítima, três horas após a privação de sua liberdade (fls. 102 a 103 dos autos originários).
+    Ora, esta Colenda 13ª Câmara de Direito Criminal tem perfilhado o entendimento de que a periculosidade do agente que, em tese, pratica o crime de roubo, máxime quando qualificado, como no caso em exame, é incompatível com a liberdade provisória”. (eDOC 16)
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se. Intime-se.
+    Brasília, 2 de março de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
