@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por JORGE CÂNDIDO SOAREScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISassim ementado (fl. 126):
+EMENTA: HABEAS CORPUS - FURTO - PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA - REVOGAÇÃO OU SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - IMPOSSIBILIDADE - REITERAÇÃO DELITIVA - DECISÃO DEVIDAMENTE FUNDAMENTADA - PACIENTE REINCIDENTE - CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. -Não acarreta constrangimento ilegal a manutenção da custódia cautelar fundada na presença de elementos concretos indicando a necessidade da manutenção da medida extrema como forma de garantia da ordem pública. -Se as medidas cautelares alternativas previstas no artigo 319 do Código de Processo Penal não se mostram suficientes para garantir a ordem pública, deve ser mantida a prisão preventiva, devidamente justificada com base nas hipóteses elencadas no artigo 312 do Código de Processo Penal.
+O recorrente teve sua prisão preventiva decretada, em razão da suposta prática do delito tipificado no art. 155, caput, do Código Penal.
+Sustenta ausência de fundamentação idônea no decreto de prisão preventiva, além de haver possibilidade de conversão da segregação cautelar em medida diversa.
+Requer o reconhecimento da nulidade por falta de fundamentação e ausência de requisitos legais para decretaçãoda prisão preventiva, expedindo-se alvará de soltura;subsidiariamente, pleiteia a substituição por medidas cautelares diversas.
+O pedido de liminar foi indeferido às fls. 153-154.
+O Ministério Público Federal manifestou-se pelodesprovimento do recurso (fls. 217-221).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 129-130):
+Consignou a douta autoridade apontada coatora que o paciente é reincidente específico em crimes contra o patrimônio, ostentando 5 (cinco) condenações pela prática de furtos(doc. de ordem 02). ..
+ ..
+Agiu acertadamente a nobre Magistrada a quo ao converter a prisão em flagrante do paciente em preventiva, ao fundamento de garantia da ordem pública, considerada a contumácia delitiva do paciente no envolvimento em delitos da mesma espécie, sendo inclusive reincidente pelo cometimento do crime de furto (CAC em documento de ordem nº 07).
+Registre-se, ainda, que a prisão provisória não fere o princípio constitucional do estado de inocência, pois, por vezes, a restrição cautelar do indivíduo é necessária com o fim de resguardar o interesse da coletividade.
+Preenchidos estão, ainda, os requisitos objetivos à manutenção da constrição cautelar, uma vez que o paciente é reincidente em crime doloso, não havendo, portanto, óbice à prisão, conforme o disposto no artigo 313, inciso II, do Código de Processo Penal.
+ ..
+Outrossim, as medidas cautelares alternativas previstas no artigo 319 do Código de Processo Penal não se mostram suficientes para garantir a ordem pública, diante da gravidade concreta do delito, sendo imperiosa, portanto, a manutenção da prisão preventiva devidamente justificada com base nas hipóteses elencadas no artigo 312 do Código de Processo Penal.
+No que tange às alegadas condições pessoais do paciente, cumpre registrar que elas não se mostram suficientes para elidir a prisão cautelar, quando presentes outros elementos que recomendam a manutenção da custódia preventiva, como na hipótese.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Dessa forma, não há constrangimento ilegal em negar ao réu o direito de recorrer em liberdade quando remanescerem os fundamentos que ensejaram a custódia cautelar, principalmente se, durante toda a instrução criminal, ficou preso provisoriamente (HC n. 463.428/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 9/4/2019).
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
