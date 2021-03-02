@@ -1,13 +1,13 @@
 Art. 4º Fica autorizada a criação da Câmara de Comercialização de Energia Elétrica - CCEE, pessoa jurídica de direito privado, sem fins lucrativos, sob autorização do Poder Concedente e regulação e fiscalização pela Agência Nacional de Energia Elétrica - ANEEL, com a finalidade de viabilizar a comercialização de energia elétrica de que trata esta Lei.
-§ 1º A CCEE será integrada por titulares de concessão, permissão ou autorização, por outros agentes vinculados aos serviços e às instalações de energia elétrica e pelos consumidores de que tratam art. 15 e art.16 da Lei nº 9.074, de 1995, e o § 5º do art. 26 da Lei nº 9.427, de 1996.
+§ 1º A CCEE será integrada por titulares de concessão, permissão ou autorização, por outros agentes vinculados aos serviços e às instalações de energia elétrica e pelos consumidores de que tratam os arts. 15 e 16 da Lei nº 9.074, de 7 de julho de 1995, e o § 5º do art. 26 da Lei nº 9.427, de 26 de dezembro de 1996.
 § 2º A regulamentação deste artigo pelo Poder Concedente deverá abranger, dentre outras matérias, a definição das regras de funcionamento e organização da CCEE, bem como a forma de participação dos agentes do setor elétrico nessa Câmara.
 § 3º O Conselho de Administração da CCEE será integrado, entre outros, por representantes dos agentes setoriais de cada uma das categorias de Geração, Distribuição e Comercialização.
 § 4º Os custeios administrativo e operacional da CCEE decorrerão de contribuições de seus membros e emolumentos cobrados sobre as operações realizadas, vedado o repasse em reajuste tarifário.
 § 5º As regras para a resolução das eventuais divergências entre os agentes integrantes da CCEE serão estabelecidas na convenção de comercialização e em seu estatuto social, que deverão tratar do mecanismo e da convenção de arbitragem, nos termos da Lei nº 9.307, de 23 de setembro de 1996.
 § 6º As empresas públicas e as sociedades de economia mista, suas subsidiárias ou controladas, titulares de concessão, permissão e autorização, ficam autorizadas a integrar a CCEE e a aderir ao mecanismo e à convenção de arbitragem previstos no § 5º deste artigo.
 § 7º Consideram-se disponíveis os direitos relativos a créditos e débitos decorrentes das operações realizadas no âmbito da CCEE.
-§ 8º O desligamento dos integrantes da CCEE, observado o disposto em regulamento da Aneel, poderá ocorrer, entre outras, nas seguintes hipóteses:
+§ 8º O desligamento dos integrantes da CCEE, observado o disposto em regulamento da Aneel, poderá ocorrer, entre outras hipóteses:
 I - de forma compulsória;
 II - por solicitação do agente; e
 III - por descumprimento de obrigação no âmbito da CCEE.
-§ 9º O desligamento de consumidores de que tratam os art. 15 e art. 16 da Lei nº 9.074, de 1995, e o § 5º do art. 26 da Lei nº 9.427, de 1996, da CCEE ensejará a suspensão do fornecimento de energia elétrica a todas as unidades consumidoras modeladas na CCEE.
+§ 9º O desligamento da CCEE de consumidores de que tratam os arts. 15 e 16 da Lei nº 9.074, de 7 de julho de 1995, e o § 5º do art. 26 da Lei nº 9.427, de 26 de dezembro de 1996, ensejará a suspensão do fornecimento de energia elétrica a todas as unidades consumidoras modeladas na CCEE.
