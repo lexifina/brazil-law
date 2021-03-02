@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito de competência estabelecido entre JUÍZO DE DIREITO DA 34ªVARA CRIMINAL DO RIO DE JANEIRO/RJ e oJUÍZO DE DIREITO DA 3ªVARA CRIMINAL DE PORTO VELHO/RO.
+O Ministério Público sumariou os fatos que deram ensejo ao presenteincidente nos seguintes termos (e-STJ fls. 820/821):
+2. Infere-se que o Ministério Público do Estado de Rondônia denunciou os interessados como incursos no artigo 1º, incisoII, c/c art. 12, I, todos da Lei nº 8.137/90, pois José Sérgio Gabrielli de Azevedo, na qualidade de Diretor Presidente, e Almir GuilhermeBarbassa, na qualidade de Diretor Financeiro e Relação com Investidores da sociedade Petróleo Brasileiro S/A (PETROBRÁS), teriam suprimido a arrecadação de ICMS de empresa filial com sede em Porto Velho/RO, mediante fraude à fiscalização tributária, omitindo operação em documento ou livro (fls. 08/14).
+3. O Juízo suscitado, na ocasião do recebimento da denúncia, declinou a competência em favor do Juízo do Rio de Janeiro/RJ, uma vez que a empresa estabelecida em Porto Velho/RO tratar-se-ia de filial, afirmando que a competência para conhecimento e processamento do feito seria o Juízo do local da sede da matriz sociedade, seu domicílio fiscal (fls. 20/21).
+4. O Juízo suscitante, por sua vez, pautado em parecer ministerial, suscitou o presente conflito por entender que a competência para processar e julgar a causa define-se pelo local da constituição definitiva do crédito tributário, no caso, no Estado de Rondônia.
+Após, o ParquetFederal manifestou-se pela competência do Juízosuscitado, em parecer que recebeu a seguinte ementa (e-STJ fl. 820):
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA ESTADUAL DE ENTES DA FEDERAÇÃO DIVERSOS. CRIME CONTRA A ORDEM TRIBUTÁRIA. SONEGAÇÃO DE ICMS. EMPRESA FILIAL. CONSUMAÇÃO. LANÇAMENTO DEFINITIVO DO CRÉDITO TRIBUTÁRIO. SÚMULA VINCULANTE N. 24. INTELIGÊNCIA DO ARTIGO 70 DO CPP. IRRELEVÂNCIA DO LOCAL DA SEDE DA MATRIZ. PARECER PELO CONHECIMENTO DO PRESENTE CONFLITO PARA DECLARAR A COMPETÊNCIA DO JUÍZO SUSCITADO PARA PROCESSAR E JULGAR A CAUSA.
+É, em síntese, o relatório.
+Decido.
+Cuida-se  de  incidente  instaurado  entre  juízes  vinculados  a  Tribunais  diversos,  razão  pela  qual,  nos  termos  do  art.  105,  I,  d,  da  Constituição  Federal,  conheço  do  conflito.
+A competência no processo penal, de regra, é estabelecida ratione loci, ouseja, em razão do local em que se consuma a infração penal ou, no caso detentativa, onde se realizar o último ato de execução, nos termos dodisposto no art. 70 do Código de Processo Penal.
+Assim, a definição do Juízo competente para processar e julgar a práticado crime previsto no art. 1º, I, da Lei n. 8.137/1990 reclama que sedefina o local em que se dá a consumação da referida modalidade criminosa.
+Acerca dessa questão, o STJ já pacificou o entendimento de que o delito de supressão ou redução de tributo descrito no art. 1º da Lei 8.137/90 é material, consumando-se no momento da constituição do crédito fiscal, nos termosda Súmula vinculante n. 24/STF, segundo a qual "não se tipifica crime material contra a ordem tributária, previsto no art. 1º, incisos I a IV, da Lei n. 8.137/90, antes do lançamento definitivo do tributo".
+In casu, na linha de manifestação do Ministério Público Federal, "o crédito tributário apurado nos autos de infração nº 20122700100144 e 20122700100145, referentes ao delito objeto da denúncia, foram processados e concluídos perante a autoridade fiscal do Estado de Rondônia, sendo inclusive objeto de Execução Fiscal nessa jurisdição, é de ser reconhecida a competência do suscitado para conhecimento e julgamento do feito" (e-STJ. fl. 823).
+Corroborando esse entendimento:
+PENAL E PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA.SONEGAÇÃO FISCAL. ICMS. TRIBUTO DE COMPETÊNCIA ESTADUAL. COMPETÊNCIA DA JUSTIÇA ESTADUAL. FORO DO LOCAL DA APURAÇÃO DO DÉBITO FISCAL.SÚMULA VINCULANTE 24 DO STJ. COMPETÊNCIA DE TERCEIRO JUÍZO, ESTRANHO AO CONFLITO.
+1. Trata-se de Inquérito Policial, instaurado para a apuração da suposta prática de crime contra ordem tributária, previsto na Lei 8.137/90, no qual figura como investigado o representante legal da empresa Rocha e Duran Ltda, que teria colocado à venda de combustível adulterado, sem a incidência do devido ICMS.
+ ..
+5. Como o processo administrativo para a apuração do débito fiscal foi realizado pela Inspetoria Fiscal de Marília/SP, o foro competente para processar e julgar o presente feito é a Comarca do referido Município, impondo-se, ainda, a verificação, em sendo o caso, da constituição definitiva do crédito tributário, conforme a Súmula Vinculante 24 do Supremo Tribunal Federal.
+6. Conflito conhecido, para declarar competente o Juízo de Direito da Comarca de Marília/SP, juízo estranho ao conflito.
+(CC 113.272/SP, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 11/06/2014, DJe 18/06/2014)
+Ante o exposto, conheço do conflito e dou por competente o Juízosuscitado.
+Publique-se. Comunique-se.
