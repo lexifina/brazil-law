@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por LEANDRO DE MOURA PIAU com fundamento nas alíneas "a" e "c" do permissivo constitucional em face de acórdão proferido pelo Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ Fl. 128):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS Alegação de ausência de prévia notificação para inclusão do nome do autor no Cadastro de Emitentes de Cheques sem Fundos Sentença de improcedência Apelo do demandante, pleiteando a reforma da r.
+decisão Insubsistência Cabe à entidade mantenedora do cadastro de inadimplentes a notificação prévia do devedor acerca da negativação de seu nome, com fulcro exclusivo no art. 43, §2º do CDC e na Súmula nº 359 do STJ Obrigação do banco sacado de prévia comunicação, nos termos do artigo 1º da Circular nº 2.250 do BACEN, que alterou o artigo 27, alínea "a", da Resolução nº 1.682/1990 do BACEN Ausência de irregularidade na conduta praticada pelo banco, nomeadamente porque coloca à disposição do correntista meios de controle de sua vida financeira Inexistente a responsabilidade civil, o pedido de indenização por danos morais não comporta acolhimento, por prejudicialidade lógica determinativa Sentença mantida, honorários majorados, observada a gratuidade processual Recurso não provido.
+Nas razões do recurso especial, o recorrente aponta ofensa do artigo 43 do CDC; 884 do CC; 371, 489, II, do CPC/15, bem como a configuração de dissídio jurisprudencial. Para tanto, sustenta, em síntese, que faz jus à indenização por parte do banco sacado, pois este não o notificou anteriormente à negativação de seu nome.
+É o relatório. Decido.
+Na hipótese em exame, aplica-se o Enunciado 3 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, em relação à alegada ofensa do art. 489 do CPC/15, verifica-se que o recorrente fez apenas alegação genérica de sua vulneração, apresentando uma fundamentação deficiente que impede a exata compreensão da controvérsia. Incide, na hipótese, a Súmula 284/STF.
+Nesse sentido, salienta o Ministro SIDNEI BENETI, que "a ausência de demonstração de como ocorreu a ofensa ao art. 535, do CPC é deficiência, com sede na própria fundamentação da insurgência recursal, que impede a abertura da instância especial, a teor do enunciado 284 da Súmula do Supremo Tribunal Federal, aplicável por analogia, também ao Recurso Especial" (AgRg no Ag 1.162.073/MG, Terceira Turma, DJe de 12/5/2010).
+No tocante ao pleito indenizatório, a Corte de origem o indeferiu, por compreender que não compete ao banco sacado a obrigação de notificar o devedor acerca da inadimplência, mas aos órgãos mantenedores de cadastro de proteção ao crédito, conforme se verifica do trecho do acórdão a seguir ( fls. 129/131):
+"Com efeito, trata-se de orientação sedimentada pelo Superior Tribunal de Justiça, inclusive em sede de julgamento de recurso repetitivo, no sentido de que a obrigação de notificação prévia, mesmo quando envolver informações constantes do CCF, compete aos órgãos mantenedores de cadastros de proteção ao crédito, porquanto são os responsáveis pela publicização correlata.
+(..)
+Referido entendimento foi, inclusive, objeto da súmula nº 359 do Superior Tribunal de Justiça, que assim preconiza, in verbis: "Cabe ao órgão mantenedor do Cadastro de Proteção ao Crédito a notificação do devedor antes de proceder à restrição." Assim, não há que se falar em indenização decorrente da falta de notificação prévia pela instituição financeira ora apelada."
+Ocorre que o acórdão recorrido está em consonância com a jurisprudência desta Corte de Justiça acerca da desnecessidade de notificação por parte da instituição financeira anteriormente à inscrição do nome do devedor no cadastro de inadimplentes, uma vez que tal dever compete ao órgão de cadastro de proteção ao crédito.
+Sobre o tema, confiram-se:
+CIVIL E PROCESSUAL. BANCÁRIO. RECURSO ESPECIAL. INSCRIÇÃO DE CHEQUE SEM FUNDO NO CADASTRO CCF DO BACEN. NOTIFICAÇÃO PRÉVIA. BANCO DO BRASIL. EXECUTOR DO CCF. ILEGITIMIDADE PASSIVA.
+(..)
+6. O Banco do Brasil, atuando na qualidade de agente público, executor do CCF do BACEN, não é parte legítima para responder, nos termos do art. 43 do CDC, pela ausência de notificação prévia de inscrição do nome do correntista no referido CCF.
+7. Recurso especial de que se conhece em parte e, nessa parte, nega-se provimento.
+(REsp 1366436/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/12/2013, DJe 22/09/2014)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE RESTRIÇÃO AO CRÉDITO. CARACTERIZAÇÃO E QUANTUM DEVIDO. REEXAME DE PROVAS. SÚMULA 7/STJ. NÃO INCIDÊNCIA DA SÚMULA 385/STJ À HIPÓTESE. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. Cumpre esclarecer que a Súmula 385/STJ ("Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral, quando preexistente legítima inscrição, ressalvado o direito ao cancelamento") tem aplicação específica, se referindo a hipóteses em que a indenização é pleiteada em face de órgão mantenedor de cadastro de proteção ao crédito, que deixa de providenciar a notificação de que cuida o art. 43 do CDC antes de efetivar a legítima anotação do nome do devedor no cadastro.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 142.777/ES, de minha relatoria, QUARTA TURMA, julgado em 19/04/2012, DJe 22/05/2012)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Deixo de majorar os honorários sucumbenciais, pois aplicados em patamar máximo na origem.
+Publique-se.
