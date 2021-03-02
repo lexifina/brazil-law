@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo interno ajuizado em face da decisão de fl. 237e-STJ.
+À vista dos fundamentos expostos, reconsidero a decisão ora agravada e passo à análise do agravo em recurso especial.
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSUAL CIVIL - APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL - CÉDULA DE CRÉDITO RURAL - EMBARGOS À EXECUÇÃO - IMPROCEDÊNCIA - IRRESIGNAÇÃO - PRELIMINAR DE PROPRIEDADE RURAL OFERTADA EM GARANTIA SER IMPENHORÁVEL - IMÓVEL QUALIFICADO COMO PEQUENA PROPRIEDADE RURAL - ART. 5º, INCISO XXVI, DA CONSTITUIÇÃO FEDERAL - ACOLHIMENTO - ENCARGOS CONTRATUAIS ABUSIVOS - INOCORRÊNCIA - PROVIMENTO PARCIAL DO APELO.
+- Para se saber se o imóvel possui as características para enquadramento na legislação protecionista é necessário ponderar as regras estabelecidas pela Lei n.º 8629/93 que, em seu artigo 40, estabelece que a pequena propriedade rural é aquela cuja área tenha entre 1 (um) e 4 (quatro) módulos fiscais. Identificação, na espécie. (STJ: REsp 1284708/PR).
+- Havendo prova de que o imóvel ofertado em garantia de contrato de Cédula Rural possui apenas 60 (sessenta) hectares, área igual a 01 (um) módulo fiscal, conclui-se pela impenhorabidadedo imóvel, ser pequena propriedade rural, nos termos do art. 5º, inciso XXVI, da Constituição Federal.
+- A capitalização de juros em cédulas de crédito comercial não é pratica ilegal das instituições financeiras, porquanto existe regulamentação legal e o STJ pacificou o entendimento a respeito da legalidade da cobrança. ( Súmula n.º 93, do STJ)
+- Os juros remuneratórios nos contratos bancários não estão limitados a 12% ao ano e somente devem ser reduzidos judicialmente se fixados em patamar muito elevado, acima da taxa média praticada no mercado, de modo a colocar o consumidor em desvantagem exagerada, caso contrário deve ser mantido no percentual livremente pactuado entre as partes, em respeito ao princípio pacta sunt servanda.
+A parte agravante sustenta ofensa aos arts.4º, II, III, da Lei n. 4.504/1964 e 3º, V,da Lei nº 8.009/1990, além de dissídio jurisprudencial.
+Incidem os enunciados 282 e 356 da Súmula do STF quanto à alegada violação dos dispositivos legais indicados pelo agravante, pois são estranhos ao julgado recorrido, a eles faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+O dissídio jurisprudencial não foi adequadamente demonstrado, uma vez que está ausente a indispensável semelhança fática entre as teses confrontadas, pois os julgados indicados como paradigmas não tratam da incidência doart. 4º, II, "a", da Lei n. 8.629/1993, para a caracterização da pequena propriedade rural.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
