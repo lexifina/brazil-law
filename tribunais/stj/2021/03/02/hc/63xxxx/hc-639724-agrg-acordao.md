@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. DECISÃO DO MINISTRO PRESIDENTE QUE INDEFERIU LIMINARMENTE O PEDIDO. TERATOLOGIA OU FALTA DE RAZOABILIDADE NÃO EVIDENCIADAS DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal (precedentes).
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Nefi Cordeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por MATEUS AUGUSTO MACHADO FURTADO contra decisão proferida pelo Presidente deste Tribunal Superior que indeferiu liminarmente o writ impetrado em seu favor, aplicando ao caso o entendimento consubstanciado na Súmula n. 691 do Supremo Tribunal Federal.
+Depreende-se dos autos que, no dia 4 de janeiro de 2021, o paciente foi preso em flagrante, prisão posteriormente convertida em preventiva, pela suposta prática do delito tipificado no art. 16, caput, da Lei n. 10.826/2003 (porte ilegal de arma de fogo de uso restrito).
+Impetrado habeas corpus na origem, o pedido liminar foi indeferido (e-STJ fls. 37/41).
+Na inicial deste writ, sustentou a defesa a ilegalidade da decretação da prisão preventiva do paciente, não precedida de audiência de custódia e realizada de ofício pelo juiz, sem representação da autoridade policial ou requerimento do Ministério Público.
+Requereu a concessão da ordem, inclusive liminarmente, para que fosse reconhecida a nulidade da decisão que decretou a prisão preventiva do paciente.
+O remédio constitucional foi indeferido liminarmente pela Presidência desta Corte às e-STJ fls. 67/68.
+Nas razões do agravo regimental, reitera a defesa as teses deduzidas na inicial.
+Requer o provimento do agravo regimental para que o writ seja regularmente processado e, assim, submetido à Turma julgadora.
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O recurso não merece prosperar tendo em vista a inexistência de argumentos capazes de infirmar os fundamentos da decisão recorrida.
+O Superior Tribunal de Justiça tem jurisprudência firmada de que não cabe habeas corpus contra decisão que indefere liminar, a não ser que fique demonstrada flagrante ilegalidade (enunciado 691 da Súmula do Supremo Tribunal Federal), o que não ocorre na espécie.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO CONTRA INDEFERIMENTO DE LIMINAR NO TRIBUNAL DE ORIGEM. SUMULA 691/STF. COMPETÊNCIA DESTA CORTE QUE AINDA NÃO SE INAUGUROU. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PROVA DO ALEGADO CONSTRANGIMENTO ILEGAL.
+1. Não cabe habeas corpus perante esta Corte contra o indeferimento de liminar em writ impetrado no Tribunal de origem. Aplicação da Súmula 691 do Supremo Tribunal Federal.  ..
+3. Agravo regimental improvido.
+(AgRg no HC 349.925/RJ, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/3/2016, DJe 16/3/2016)
+No caso, consta do decreto constritivo o seguinte (e-STJ fl. 35):
+Compulsando os autos, verifico que o réu responde por outas ações penais, como porte de arma de fogo e roubo, portanto, não se trata da primeira ocorrência policial, pelo que entendo que a custódia cautelar é necessária para a garantia da ordem pública e credibilidade da justiça, uma vez que apesar da oportunidade que lhe fora oferecida continuou a transgredir a norma penal.
+Consigno, também, que o referido autuado não apresentou comprovante de residência, assim a custódia cautelar é necessária para garantir a instrução criminal e uma eventual aplicação da lei penal, de modo que é inviável colocá-lo em liberdade.
+Reforço que, no caso em questão, principalmente pelo fato de o réu possuir outros antecedentes, não há outras medidas cautelares diversas da prisão (art. 319 do CPP) possíveis de serem aplicadas. Somente a segregação física será capaz de tomar-lhe a oportunidade de praticar outro delito e preservar a ordem pública, assim como a garantia da instrução criminal e a eventual aplicação da lei penal.
+Já a decisão que indeferiu o pedido liminar na origem está fundamentada nos seguintes termos (e-STJ fls. 25/27):
+Nos presentes autos, o impetrante sustenta a existência de constrangimento ilegal em face da liberdade do paciente, preso em flagrante por porte não autorizado de arma de fogo, de numeral de série raspado e contendo dez munições (Art. 16, §1º, IV da Lei nº 10.826/2003 - pena: reclusão de três a seis anos e multa) em decorrência da conversão de sua prisão em flagrante em prisão preventiva, uma vez que não houvera requerimento para tanto, tampouco foi realizada a devida audiência de custódia, ambos imprescindíveis à legalidade da medida.
+Assim, pede liminarmente, a concessão da ordem para colocar em liberdade o paciente, por entender preenchidos os requisitos do periculum in mora e do fumus boni iuris. Pois bem. No que tange à não realização da audiência de custódia, entendo que tal argumento não prospera, pois a simples análise da decisão ora impugnada, demonstra a imediata designação do ato para o dia 06.01.2021.
+É bem verdade que o direito de liberdade do paciente não pode ficar à mercê de arbitrariedades do Estado-Juiz, todavia, em tempos de pandemia por força do COVID-19, também não se pode levar ao extremo formalismos como o ora alegado, suscitando a ilegalidade da prisão pela demora na realização da audiência de custódia, a qual somente sofreu o atraso de um dia em decorrência das complicações inerentes ao contexto global vivido, em que se impõe ao poder público e à máquina estatal a adaptação a toda uma virtualidade nunca antes experimentada no mundo, a demandar uma logística nem sempre disponível no setor público de atividades.
+Dessa feita, tem-se que recebidos os autos de prisão em flagrante em 05.01.2021, a apresentação imediata do preso restou inviável, todavia, diligentemente, a juíza plantonista designou a audiência e determinou a apresentação dele no dia subsequente, em 06.01.2021.
+Analisou a legalidade da medida com base no auto de prisão em flagrante, como determinava a recomendação nº 62/2020 do CNJ, decretando a medida preventiva, porém reconhecendo ao juízo executor da audiência de custódia o poder decisório de rever a decretação da prisão. Lembre-se que, no trato da matéria atinente às prisões cautelares e a realização de audiência de custódia, as máximas da razoabilidade e da proporcionalidade hão de guiar todos os sujeitos processuais na análise das questões. Nesse sentido, já tem se manifestado a jurisprudência pátria:  ..
+Em relação ao argumento quanto à decretação de ofício da prisão preventiva, quando da conversão da prisão em flagrante, também entendo que não prospera.
+Isso porque, a despeito das alterações trazidas pelo pacote anticrime, materializado pela Lei nº 13.964/20, o art. 310 dispõe: Art. 310. Após receber o auto de prisão em flagrante, no prazo máximo de até 24 (vinte e quatro) horas após a realização da prisão, o juiz deverá promover audiência de custódia com a presença do acusado, seu advogado constituído ou membro da Defensoria Pública e o membro do Ministério Público, e, nessa audiência, o juiz deverá, fundamentadamente: I - relaxar a prisão ilegal; ou II - converter a prisão em flagrante em preventiva, quando presentes os requisitos constantes do art. 312 deste Código, e se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão; ou III - conceder liberdade provisória, com ou sem fiança. Dessa feita, o legislador não só autoriza, como impõe ao julgador, no ato de homologação da prisão em flagrante, a conversão da prisão em preventiva, desde que presentes os requisitos legais para decretação da prisão provisória, o que foi devidamente avaliado pelo juízo de origem, que analisou a periculosidade do agente, seus maus antecedentes, entre outros fatores, para considerar presentes os requisitos do periculum libertatis e do fumus comissi delicti.
+Sendo assim, não vislumbro nos autos qualquer prova pré-constituída da ilegalidade sustentada pelos impetrantes, muito pelo contrário, a análise dos autos milita em favor da legalidade da medida constritiva, de modo que fica totalmente inviável a concessão da liminar pleiteada, ao menos nesse momento, de cognição sumária.
+A princípio, tenho que o decisum apontou dados extraídos do caso concreto aptos a justificar o indeferimento do pedido liminar, razão pela qual não ressai, de plano, flagrante ilegalidade que autorize a superação do enunciado sumular referido.
+Assim, a questão em exame necessita de averiguação mais aprofundada pelo Tribunal estadual, que deverá apreciar a argumentação contida na impetração no momento adequado.
+Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e de incidir em patente desprestígio às instâncias ordinárias.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
