@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial, fundado no art. 105, III, "a" e "c", da Constituição Federal,interpostoporGIZELE STIVALcontra v.acórdão doeg.Tribunal de Justiça do Estado do Paraná, assim ementado(fls.310):
+"Apelação cível. Ação de indenização por danos morais. Sentença de improcedência. Insurgência da parte autora. Alegação de ingestão de produto impróprio para consumo. Fragilidade da prova. Ausência de dano à honra subjetiva. Mero aborrecimento. 1. "Mero dissabor, aborrecimento, mágoa, irritação ou sensibilidade exacerbada estão fora da órbita do dano moral porquanto, além de fazerem parte da normalidade do nosso dia-a-dia, no trabalho, no trânsito, entre os amigos e até no ambiente familiar, tais situações não são intensas e duradouras, a ponto de romper o equilíbrio psicológico do indivíduo. "(CAVALIERI, Sérgio Filho. Programa de Responsabilidade Civil. 8 ed. São Paulo: Atlas, 2008. p. 83-84).2. Recurso conhecido e não provido."
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 356-359.
+Nas razões do recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação aos arts. 5º, V e X, da Constituição Federal,6º, 8º e 12, § 3º, 18º do Código de Defesa do Consumidor, bem como aos arts. 186 e 927 do Código Civil. Sustenta, em síntese, que não há necessidade de comprovação da ingestão do produto impróprio para que seja configurado dano moral, porém, na hipótese, restou evidenciada a ingestão, de modo que faz jus à verba indenizatória.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com efeito, o recorrente alega violaçãodo5º, V e X, da ConstituiçãoFederal.Consoante oentendimento desta Corte, éinviável a análise de ofensa aos dispositivosconstitucionais, ainda quepara fins de prequestionamento, sob pena deusurpação da competênciareservada à Corte Suprema.Nesse sentido,confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIACONSTITUCIONAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA.LEILOCAL (SÚMULA280/STF). IMPOSSIBILIDADE DE APRECIAÇÃO. JUSTIÇA GRATUITA.INDEFERIMENTO.MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.AGRAVO NÃOPROVIDO.
+1. Inviável a análise de ofensa aos dispositivos constitucionais,aindaque para fins de prequestionamento, sob pena de usurpação dacompetênciareservada à Corte Suprema.
+2. Não há falar em negativa de prestação jurisdicional, pois a matériaemexame foi devidamente enfrentada pela Corte local, queemitiupronunciamento de forma fundamentada, ainda que em sentidocontrário àpretensão do recorrente.
+3. A análise de dispositivos de legislação local é pretensãoinsuscetívelde ser apreciada em Recurso Especial, conforme a Súmula280/STF: "Porofensa a direito local não cabe recurso extraordinário."
+4. As instânciasordinárias, examinando a situação patrimonial efinanceira do agravante,concluíram haver elementos suficientes paraafastar a declaração dehipossuficiência, indeferindo, por tal motivo, obenefício da justiçagratuita. A pretensão de alterar tal entendimento,considerando as circunstâncias do caso concreto, demandaria o reexame dematériafático-probatória, o que é inviável em sede de recurso especial,conformepreceitua a Súmula 7/STJ.
+5. Agravo interno desprovido."
+(AgInt no AREsp 1510092/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 26/11/2019, DJe 19/12/2019)
+Com efeito, ao apontar violação aos arts.6º,8º e 12, §3º,18º do CDC, bem como aos arts. 186 e 927 do CC, a parte recorrente defende a existência da dano moral, haja vista que restou comprovada a ingestão do produto vencido e, mesmo que assim não fosse, colocar à disposição do consumidor, expondo-o ao risco de contaminação, já enseja a reparação. Por sua vez, o TJ-PR assim decidiu a controvérsia:
+"A apelante pleiteia a indenização por dano moral pelacompra de uma massa de lasanha, da marca Petybon, que se encontravahá 14 dias vencida e apresentava insetos no interior da embalagem, epela aquisição de um requeijão da marca Frimesa, o qual estavaimpróprio para consumo.
+O Código do Consumidor, legislação norteadora dapresente controvérsia, é claro ao estabelecer em seu artigo 8º que osprodutos e serviços colocados no mercado de consumo não devemproduzir riscos à saúde do consumidor.
+(..)
+Muito embora se tratar de conduta reprovável praticadapelas apeladas, alio-me ao entendimento do Superior Tribunal de Justiçade que, na aquisição de produtos impróprios para consumo, somente édevido o dano moral quando há a ingestão do produto em que há vício:
+(..)
+E, nesse mesmo sentido, é o entendimento das turmasrecursais deste tribunal, as quais compreendem ser necessária acomprovação da ingestão do alimento para a configuração do danomoral.
+Em que pese a alegação da apelante de que efetivamenteingeriu o produto e tal fato possui respaldo no termo de constataçãoemitido pela Coordenação de Vigilância Sanitária à Saúde Municipal(eDoc. 1.5), considero a prova documental frágil, de modo que não épossível concluir o dano à saúde e à integridade da consumidora.
+Vislumbro que o documento em questão assevera que"conforme relato do consumidor, o produto apresentava "gosto de azedo" e foiapresentado a este serviço com as características organolépticas alteradas(aspecto coalhado). "
+Não há evidência alguma de que a apelante tenha passadomal ou situação semelhante pela ingestão do produto, não havendoprova contundente. Assevero, ainda, que não há prova alguma destaingestão, não tendo sido produzida prova oral a respeito do assunto, hajavista que a apelante pediu o julgamento antecipado da lide (eDoc. 75.1).
+Sendo assim, o documento, além de unilateral, não sedemonstra suficientemente hábil para provar o dano sofrido pelaapelante.
+Quanto à massa de lasanha Petybon, levando em conta quenão houve o consumo da mesma, entendo não ser devida a indenização,conforme explanado acima, ante a inexistência de ofensa à honrasubjetiva do consumidor.
+Pontanto, diante da inexistência de dano indenizável, votono sentido de conhecer e negar provimento ao presente recurso."
+Sobre o tema, tem-se que a iterativa jurisprudência desta Corte se firmou no sentido de que, ausente a ingestão do produto considerado impróprio para o consumo, em virtude da presença de corpo estranho no alimento, não se configura o dano moral indenizável. Nesse sentido, confira-se oseguinte precedente:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SUCO CONTAMINADO. INGESTÃO DO PRODUTO NÃO COMPROVADA. DANO MORAL. INEXISTÊNCIA. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior tem entendimento dominante de que, ausente a ingestão do produto considerado impróprio para o consumo, em virtude da presença de corpo estranho no alimento, não se configura o dano moral indenizável (AgInt no REsp 1.797.805/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/05/2019, DJe de 06/06/2019). Incidência da Súmula 83/STJ.
+2. Agravo interno não provido."
+(AgInt no REsp 1877119/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe 18/12/2020)
+Estando a decisão de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmulas 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Ademais, a pretensão de modificar o entendimento firmado, acerca da não ingestão do produto impróprio para consumo, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
