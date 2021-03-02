@@ -1,0 +1,10 @@
+PRIMEIRA CÂMARA CÍVEL DE DIREITO PRIVADO
+EMBARGOS DE DECLARAÇÃO CÍVEL (1689) 1021467-40.2020.8.11.0000
+EMBARGANTE: LAUDEMIR ANTONIO SEBBEN, IVANIA MARIA MATTANA SEBBEN
+EMBARGADO: BEDIN BIASOTTO ADVOGADOS ASSOCIADOS
+Vistos etc.
+Intime-se o embargado para apresentar contrarrazões.
+Cumpra-se.
+Cuiabá, 2 de março de 2021.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
