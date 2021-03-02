@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por ERALDO GUEDES DE OLIVEIRAcontra decisão do Tribunal de Justiça do Estado do Amazonas que inadmitiu o recurso especial aviado com fulcro naalínea"a" do permissivo constitucional.
+A controvérsia foi bem relatada no parecer ministerial, in verbis (e-STJ fl. 303):
+Trata-se de agravo em recurso especial interposto por Eraldo Guedes de Oliveira contra a decisão da Presidência do Tribunal de Justiça do Estado do Amazonas, que negou seguimento ao seu recurso especial.
+Consta dos autos que o agravante foi condenado a 8 meses de detenção, em regime aberto, pela prática do crime descrito no art. 129-§ 9o do Código Penal.
+A defesa ingressou com revisão criminal no Tribunal de Justiça do Estado do Amazonas que, por unanimidade, negou provimento à ação de revisão criminal (e-STJ fls. 214/222).
+Os embargos de declaração opostos pela defesa não foram conhecidos, pois interpostos intempestivamente (e-STJ fls. 243/247).
+Neste agravo em recurso especial, o agravante reitera as razões do recurso especial, limitando-se a mencionar superficialmente que não se trata de matéria fático- probatória (e-STJ fls. 278/285)
+Contraminuta apresentada (e-STJ fls. 260/267).
+Opinou, então, pelo não conhecimento do agravo.
+É o relatório.
+Decido.
+Vejo que o recurso está prejudicado pela ocorrência daprescrição.
+No caso, o ora recorrente foi condenado, pela prática do delito do art. 129, §9º, do Código Penal, à pena de 8meses de detenção, em regime inicial aberto.
+Ainda,embora o recurso especial não tenha sido admitido pelo Tribunal a quo, vejo que o apelo, na verdade, é admissível, de modo que não se aplica, aqui, o entendimento adotado no julgamento do EAREsp n. 386.266/SP.
+Outrossim, acerca dos prazos prescricionais, no recente julgamento do Habeas Corpus n. 176.473/RR, o Plenário do Supremo Tribunal Federal consignou que, "nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+A propósito, os precedentes desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRAZO PRESCRICIONAL. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. INTERRUPÇÃO. EMBARGOS DE DECLARAÇÃO COM EFEITOS MODIFICATIVOS ACOLHIDOS.
+1. Embora a jurisprudência desta Corte, à época do julgamento do recurso especial, assinalasse que o acórdão confirmatório da sentença condenatória não interrompia o lapso prescricional, foi omisso o acórdão relativamente ao dissenso interpretativo que existia no âmbito do STF, cuja uniformização jurisprudencial redundou em entendimento contrário ao então dominante neste Superior Tribunal.
+2. O Plenário do Supremo Tribunal Federal compreendeu que o Código Penal não faz distinção entre acórdão condenatório inicial ou confirmatório da decisão para fins de interrupção da prescrição. Por isso, o acórdão que confirma a sentença condenatória, por revelar pleno exercício da jurisdição penal, interrompe o prazo prescricional, nos termos do artigo 117, inciso IV, do Código Penal.
+3. O referido decisum foi exarado no julgamento do Habeas Corpus n. 176.473/RR, de relatoria do Ministro Alexandre de Moraes, fixou a seguinte tese: "Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+4. Na espécie, verifica-se a seguinte situação: a denúncia foi recebida em 16/3/2015. Entre a denúncia e a sentença condenatória, proferida em 20/10/2016, não transcorreu o prazo de que trata o art. 109, V, c/c art. 115, ambos do CP, isto é, de 2 anos, uma vez que o réu foi beneficiado com a redução do prazo pela metade. Tampouco entre a sentença e o acórdão que confirmou a decisão de primeiro grau, proferida em 27/9/2018.
+5. Embargos de declaração acolhidos, com efeitos modificativos, a fim de dar provimento ao agravo regimental e, por consequência, negar provimento ao recurso especial. Fica afastado, com isso, o reconhecimento da incidência da prescrição. (EDcl no AgRg no REsp 1837546/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/06/2020, DJe 01/07/2020)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CRIME DE FALSIDADE IDEOLÓGICA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. RÉU COM IDADE SUPERIOR A 70 ANOS AO TEMPO DA SENTENÇA CONDENATÓRIA. REDUÇÃO DO PRAZO PRESCRICIONAL PELA METADE. CABIMENTO. PRESCRIÇÃO CONFIGURADA. AGRAVO PROVIDO.
+1. Não configura negativa de prestação jurisdicional quando o Tribunal de origem decide a controvérsia de forma fundamentada, concluindo de forma contrária aos interesses da defesa.
+2. O Plenário do Supremo Tribunal Federal iniciou o julgamento do HC 176.473/RR, da relatoria do Ministro Alexandre de Moraes, que concluiu que "somente há se falar em prescrição diante da inércia do Estado", de modo que o art. 117, IV, do Código Penal "não faz distinção entre acórdão condenatório inicial e acórdão condenatório confirmatório da decisão", constituindo marco interruptivo da prescrição punitiva estatal, o que foi acompanhado por outros 7 ministros.
+3. Já tendo a tese recursal alcançado maioria de votos no Supremo Tribunal Federal, deve-se adotar o entendimento de que o acórdão confirmatório da condenação configura marco interruptivo da prescrição.
+4. Constatado que o agravante José Cardozo Campos possuía mais de 70 anos, ao tempo da sentença condenatória, cabível a redução do prazo prescricional, nos temos do art. 115 do CP.
+5. Transcorrido o lapso temporal entre a sessão de julgamento do acórdão confirmatório da condenação e até a presente data, deve ser extinta a punibilidade pela prescrição da pretensão punitiva apenas em relação ao agravante José Cardozo Campos.
+6. Considerando que os demais réus não fazem jus à redução do prazo prescricional, inviável o reconhecimento da prescrição da pretensão punitiva, pois não decorrido o lapso entre os marcos interruptivos, .
+7. Agravo regimental parcialmente provido para decretar a prescrição da pretensão punitiva apenas em relação ao agravante José Cardozo Campos. (AgRg nos EDcl no REsp 1723306/RO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020)
+Na espécie, verificoo transcorrer do prazo prescricional de 3anos (art. 109, VI, do CP) entreo acórdão que confirmou a condenação, proferido em 1º/12/2015 (e-STJ fl. 204), e a presente data.
+Ante o exposto, julgo prejudicadoo recurso edeclaroextinta, pela prescrição da pretensão punitiva estatal, a punibilidade de ERALDO GUEDES DE OLIVEIRA, em relação ao delito doart. 129, §9º, do Código Penal.
+Publique-se. Intimem-se.
