@@ -1,0 +1,44 @@
+Decisão: Trata-se de habeas corpus impetrado pela Defensoria Pública da União, em favor de Rogério Custódio Pinha, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do REsp 1.881.282/PR.
+    Colho da decisão impugnada:
+    “Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ com apoio no art. 105, III, "a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, assim ementado:
+    ‘RECURSO EM SENTIDO ESTRITO - HOMICÍDIO SIMPLES (DOLO EVENTUAL) - INCONFORMISMO DA DEFESA - PRETENSÃO DE DESCLASSIFICAÇÃO PARA HOMICIDIO CULPOSO NA DIREÇÃO DE VEÍCULO AUTOMOTOR - ALEGAÇÃO DE AUSÊNCIA CONDUTA DOLOSA (DOLO EVENTUAL) - DISPENSA DA CONCRETA COMPROVAÇÃO DOS FATOS ADUZIDOS NA EXORDIAL ACUSATÓRIA - ACUSADO QUE DIRIGIA VEÍCULO EM VELOCIDADE ACIMA DA REGULAMENTADA PARA A VIA DE DIREÇÃO, EMBRIAGUEZ E MANOBRAS PERIGOSAS, IGNORANDO AS ADVERTÊNCIAS DOS PASSAGEIROS – INDÍCIOS DE DOLO EVENTUAL - QUESTÕES A SEREM DIRIMIDAS PELO TRIBUNAL DO JÚRI - CONJUNTO PROBATÓRIO QUE INDUZ REMESSA DO CASO À APRECIAÇÃO DO JÚRI POLPULAR - APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO SOCIETATE – DELITO DE EMBRIAGUEZ AO VOLANTE - APLICAÇÃO DO PRINCÍPIO DA CONSUNÇÃO EX OFFICIO - ABSORÇÃO PELO CRIME DE HOMICÍDIO SIMPLES - INTEGRANTE COMO ELEMENTAR SUBJETIVA DA FIGURA DOLOSA - CABIMENTO – RECURSO DESPROVIDO COM A EXCLUSÃO, EX OFFICIO, DO CRIME DE EMBRIAGUEZ AO VOLANTE DA PRONÚNCIA." (e-STJ, fls. 546-547).
+    Os embargos de declaração opostos foram rejeitados (e-STJ, fl. 602).
+    O Parquet alega, em síntese, negativa de vigência aos artigos 78, I, e 413, § 1º, do Código de Processo Penal, e ao artigo 306 da Lei n. 9.503/97 (CTB).
+    Sustenta que "a Corte Paranaense, ao mesmo tempo em que ratificou a prática do crime previsto no art. 306, CTB, afastou-o em razão da indevida aplicação do princípio da consunção, ao argumento de que a embriaguez puniria o acusado duas vezes, já que tal crime foi utilizado para caracterizar o dolo eventual. Ao fazer isso, usurpou competência do Tribunal do Júri, uma vez que caberia ao Conselho de Sentença, por força da vis atrativa do art. 78, I, CPP, apreciar os crimes conexos ao de sua competência e, eventualmente, a absorção do ilícito conexo pelo homicídio" (e-STJ, fls. 661-662).
+    Aduz que "a afirmação de que a embriaguez ao volante constitui crime-meio para o crime-fim de homicídio é equivocada" (e-STJ, fl. 679).
+    Requer, assim, "a restauração da decisão de pronúncia proferida em 1º grau em desfavor do recorrido pela prática do crime de embriaguez ao volante (art. 306, CTB), conexo ao crime de homicídio doloso" (e-STJ, fl. 679).
+    Não foram apresentadas as contrarrazões (e-STJ, fl. 688).
+    Admitido o recurso (e-STJ, fls. 722-723), subiram os autos a este Superior Tribunal de Justiça.
+    O Ministério Público Federal manifestou-se pelo provimento do recurso especial”. (www.stj.jus.br)
+    No STJ, o recurso especial foi provido “para restabelecer a decisão de pronúncia proferida em 1º grau em desfavor do recorrido, pela prática do crime embriaguez ao volante (art. 306, CTB), conexo ao crime de homicídio doloso.”
+    Interposto agravo regimental, negou-se-lhe provimento.
+    Nesta Corte, a DPU diz que “a decisão proferida no âmbito do STJ para dar provimento ao recurso especial interposto pela acusação é ilegal porque demandou o revolvimento do arcabouço fático-probatório alterar as premissas fáticas assentadas pelo Tribunal de Apelação, soberano na análise dos fatos e das provas.”
+    Afirma que “houve contrariedade ao Enunciado 7 da Súmula da jurisprudência do STJ, segundo o qual, “a pretensão de simples reexame de prova não enseja recurso especial”.”
+    Argumenta que “a decisão ora atacada afigura-se ilegal também porque enseja a possibilidade de que o ora Paciente venha a ser punido duas vezes pelo mesmo fato, em inescondível bis in idem.”
+    Assevera que “o órgão julgador de primeiro grau compreendeu que o excesso de velocidade, a ingestão de bebida alcoólica e as manobras realizadas pelo ora Paciente seriam elementos suficientes para indicar a presença de dolo eventual. Porém, ao pronunciar o acusado, o Juiz de Direito sentenciante acabou por incorrer em bis in idem, vez que atribuiu àquele a prática dos crimes de homicídio simples (artigo 121, caput, do Código Penal) com dolo eventual e embriaguez ao volante (artigo 306 do Código de Trânsito Brasileiro – CTB).”
+    Assere que “observa-se que o estado de embriaguez do ora Paciente, aliado à alta velocidade e manobras arriscadas, já foram utilizados para caracterizar o dolo eventual. Ou seja, trata-se de circunstância invocada como elementar do crime considerado doloso.”
+    Pontua que “equivocaram-se o juízo de primeiro e a Quinta Turma do STJ ao incluírem na decisão de pronúncia o delito capitulado no artigo 306 do CTB, porquanto a conduta nele descrita já fora empregada e valorada no momento da adequação típica, não podendo, portanto, ser novamente utilizada por implicar em evidente bis in idem.”
+    Requer “a concessão definitiva da ordem para restabelecer o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ.”
+    A PGR opina pela denegação da ordem (eDOC 11).
+    É o relatório.
+    Decido.
+    Não tem razão a impetrante.
+    Para melhor compreensão da controvérsia, observem-se trechos do ato impugnado:
+    “A pretensão não merece êxito, na medida em que o agravante não apresentou argumentos capazes de modificar o entendimento anteriormente adotado.
+    Pretende a defesa do acusado, que seja excluída da decisão de pronúncia a imputação da prática, em tese, do crime de embriaguez ao volante, pois, entende que a referida conduta já teria sido considerada para atribuir o dolo eventual que justificou a submissão do homicídio a julgamento pelo Tribunal Popular.
+    Todavia, nos termos do art. 78, I, do Código de Processo Penal, bem como da jurisprudência firmada neste Superior Tribunal de Justiça, o julgamento dos delitos conexos aos crimes dolosos contra a vida, assim como a aplicação ou não do princípio da consunção, são de competência exclusiva do Tribunal do Júri.
+    […]
+    Desse modo, "a influência da embriaguez ao volante na construção do dolo eventual e, por consequência, a absorção ou não do delito do art. 306 do CTB pelo do art. 121 do CP são matérias que devem ser sustentadas em sessão plenária, de modo a oportunizar a apreciação e a deliberação do conselho de sentença, que, repita-se, é o órgão jurisdicional competente para apreciar os crimes conexos aos dolosos contra a vida" (REsp 1.822.179/PR, Rel. Ministro JORGE MUSSI, DJe 22/11/2019)”. (eDOC 6, p. 148)
+    Como se vê, a defesa diz que o paciente não pode ser punido pelo delito de embriaguez ao volante apenas porque foi pronunciado por homicídio praticado com dolo eventual, o que deve ser apreciado pelo Tribunal do Júri.
+    Nesse sentido, são os precedentes, mutatis mutandis:
+    “Habeas corpus. 2. Homicídio e roubo majorado em concurso material. 3. Competência do Tribunal do Júri. Decisão de pronúncia prudente e equilibrada. Ausência de fundamentação. Inocorrência. 4. Crimes conexos. A competência para apreciar os crimes conexos aos dolosos contra a vida é do Tribunal do Júri e é diretamente estabelecida pelo reconhecimento desta. 5. Ordem denegada”. (HC 122.287, de minha relatoria, Segunda Turma, DJe 5.8.2014)
+    “RECURSO ORDINÁRIO EM HABEAS CORPUS. RECORRENTE PRONUNCIADO POR INFRAÇÃO AOS ARTS. 121, § 2º, IV E V, C/C 29, CAPUT; 121, § 2º, IV E V, C/C 29, CAPUT; 121, § 2º, V, C/C 29 E 14, II; 157, § 2º, I E II; 157, § 2º, I, II E V; 157, I, II E III; 155, § 4º, I E IV, C/C 14, II; 288, PARÁGRAFO ÚNICO; E 307, TODOS DO CÓDIGO PENAL E ART. 14, CAPUT, DA LEI N. 10.826/03. ALEGAÇÃO DE INCOMPETÊNCIA DO JUÍZO DA ORIGEM PARA JULGAR OS CRIMES CONEXOS: IMPROCEDÊNCIA. IRREGULARIDADES NA PRISÃO EM FLAGRANTE E EXCESSO DE PRAZO PARA A CONCLUSÃO DO INQUÉRITO: IRRELEVÂNCIA JURÍDICA. EXCESSO DE PRAZO DA PRISÃO: SUPRESSÃO DE INSTÂNCIA E INOCORRÊNCIA. ALEGAÇÃO DE INÚMERAS NULIDADES NA AÇÃO PENAL: INADEQUAÇÃO DA VIA ELEITA E PREJUÍZO NÃO DEMONSTRADO. RECURSO ORDINÁRIO DESPROVIDO.
+    1. É firme a jurisprudência deste Supremo Tribunal Federal no sentido de que a competência penal do Júri tem base constitucional, estendendo-se - ante o caráter absoluto de que se reveste e por efeito da vis attractiva que exerce - às infrações penais conexas aos crimes dolosos contra a vida. Precedentes.
+    […] (RHC 98.731, Rel. Min. Cármen Lúcia, Segunda Turma, DJe 1º.2.2011)
+    Desse modo, não há qualquer ilegalidade no acórdão proferido pelo Superior Tribunal de Justiça, que determinou fosse a causa submetida à apreciação do Tribunal do Júri.
+    Ante o exposto, denego a ordem. (art. 192, caput, RISTF)
+    Publique-se.
+    Brasília, 2 de março de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
