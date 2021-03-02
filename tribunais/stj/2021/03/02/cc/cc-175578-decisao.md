@@ -1,0 +1,39 @@
+DECISÃO
+Sociedade de Ônibus Capivarense Ltda - Em Recuperação Judicial suscita o presente conflito de competência apontando como suscitados o Juízo de Direito da Vara Regional Empresarial de Novo Hamburgo-RS e o Juízo da Vara do Trabalho de Estância Velha-RS.
+Alega a suscitante que, em julho de 2019, ingressou com pedido de recuperação judicial (Processo n. 5001849-39.2019.8.21.0019/RS), nos termos dos arts. 47 e seguintes da Lei n. 11.101/2005, cujo processamento foi deferido pelo Juízo de Direito da Vara Regional Empresarial de Novo Hamburgo-RS por decisão assinada em 16/7/2019.
+Informa que figurou como requerida na Reclamação Trabalhista n. 0023009-43.2016.5.04.0341, ajuizada por Ivan da Silva, que tramitou no Juízo da Vara do Trabalho de Estância Velha-RS, tendo sido condenada ao pagamento de verbas trabalhistas ao reclamante.
+Diante do deferimento da recuperação judicial, a suscitante requereu a liberação dos valores referentes aos depósitos recursais realizados nos autos daquelareclamação, o que foi inferido pelo Juízo laboral.
+Por esses motivos, pediu que fosse designada, liminarmente, a competência exclusiva do Juízo da recuperação para dispor sobre o seu patrimônio, inclusive acerca dos depósitos recursais.
+No mérito, pugna pela declaração da competência do Juízo recuperacional como o único competente para decidir sobre os atos de constrição de seu patrimônio.
+A tutela de urgência foi deferida paradeterminar que os valores depositados a título de depósitos recursais na Reclamação n. 0023009-43.2016.5.04.0341, que tramita perante o Juízo da Vara do Trabalho de Estância Velha-RS., ficando designado o Juízo de Direito da Vara Regional Empresarial de Novo Hamburgo-RS para dirimir, em caráter provisório, as questões urgentes.
+OParquetopinou pelo conhecimento do conflito para declaração da competência do Juízo da recuperação (e-STJ, fls. 82-87).
+Brevemente relatado, decido.
+Conforme consignado na decisão que deferiu o pedido liminar,o entendimento do STJ é no sentido de ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que envolvam créditos apurados em outros órgãos judiciais (CC n. 110.941/SP, Relatora a Ministra Nancy Andrighi, DJe 1º/10/2010).
+No mesmo sentido:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO
+JUDICIAL. MEDIDAS DE CONSTRIÇÃO E DE VENDA DE BENS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES. DECISÃO AGRAVADAMANTIDA. IMPROVIMENTO.
+1.- A controvérsia posta nos autos encontra-se pacificada no âmbito da Segunda Seção desta Corte, no sentido de que compete ao Juízo da recuperação judicial tomar todas as medidas de constrição e de venda de bens integrantes do patrimônio da empresa sujeitos ao plano de recuperação judicial, uma vez aprovado o referido plano.
+2.- O agravo não trouxe nenhum argumento novo capaz de modificar o decidido, que se mantém por seus próprios fundamentos.
+3.- Agravo Regimental improvido. (AgRg no CC n. 130.363/SP, Relator o Ministro Sidnei Beneti, DJe 13/11/2013)
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUIZADO ESPECIAL CÍVEL. PROCESSO DE RECUPERAÇÃO JUDICIAL (LEI N. 11.101/05). AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. VALOR DA CONDENAÇÃO. CRÉDITO APURADO. HABILITAÇÃO. ALIENAÇÃO DE ATIVOS E PAGAMENTOS DE CREDORES. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES DO STJ.
+1. Com a edição da Lei n. 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, inclusive trabalhistas, ainda que tenha ocorrido a constrição de bens do devedor.
+2. Após a apuração do montante devido, processar-se-á no juízo da recuperação judicial a correspondente habilitação, sob pena de violação dos princípios da indivisibilidade e da universalidade, além de desobediência ao comando prescrito no art. 47 da Lei n. 11.101/05.
+3. Conflito de competência conhecido para declarar competente o Juízo de Direito da 1ª Vara Empresarial do Rio de Janeiro (RJ). (CC n. 90.160/RJ, Relator o Ministro João Otávio de Noronha, DJe 5/6/2009)
+Ademais, "o entendimento desta Corte preconiza que, via de regra, deferido o processamento ou, posteriormente, aprovado o plano de recuperação judicial, é incabível a retomada automática das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4º, da Lei 11.101/2005" (AgRg no CC n. 130.138/GO, Relator o Ministro Raul Araújo, DJe 21/11/2013).
+Como se não bastasse, a jurisprudência consolidada no âmbito da Segunda Seção desta Corte de Justiça reconhece ser o Juízo em que se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que tenham origem em créditos trabalhistas.
+Destaca-se que esses créditos englobam, também, os depósitos recursais realizados no curso de reclamação trabalhista, ainda que em momento anterior ao deferimento do processamento da recuperação judicial.
+A propósito:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO
+JUDICIAL. EXECUÇÕES INDIVIDUAIS. LEI N. 11.101/05. INTERPRETAÇÃO SISTEMÁTICO-TELEOLÓGICA DOS SEUS DISPOSITIVOS. DELIBERAÇÃO ACERCA DE VALORES RETIDOS A TÍTULO DE DEPÓSITO RECURSAL EM RECLAMAÇÃO TRABALHISTA, AINDA QUE REALIZADOS ANTERIORMENTE AO DEFERIMENTO DA RECUPERAÇÃO. COMPETÊNCIA DO JUÍZO RECUPERACIONAL. PRECEDENTES. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO. (AgInt no CC n. 160.819, Rel. Min. Paulo de Tarso Sanseverino, DJe3/2/2020)
+AGRAVO INTERNO EM CONFLITO DE COMPETÊNCIA. FALÊNCIA E EXECUÇÃO TRABALHISTA. DEPÓSITOS RECURSAIS. MOVIMENTAÇÃO E DESTINO. COMPETÊNCIA DO JUÍZO UNIVERSAL DA FALÊNCIA.PAR CONDITIO CREDITORUM. AGRAVO NÃO PROVIDO.
+1. É do juízo falimentar a competência para decidir sobre o destino dos depósitos recursais feitos no curso de reclamação trabalhista movida contra a falida, ainda que anteriores à decretação da falência. (AgRg no CC n. 87.194/SP, Relator Ministro HUMBERTO GOMES DE BARROS, SEGUNDA SEÇÃO, julgado em 26/9/2007, DJ 4/10/2007).
+2. A razão de ser da supremacia dessa regra de competência é a concentração, no Juízo universal da falência, de todas as decisões que envolvam o patrimônio da falida, a fim de não comprometer opar conditio creditorum.
+3. Agravo não provido. (AgInt nos EDcl no CC n. 165.415 /SP, Rel. Min. Luis Felipe Salomão, DJe 2/12/2019)
+Na hipótese dos autos, diante da ausência de informações prestadas pelos Juízos suscitados, deve-se tomar como parâmetro a decisão proferida pelo Juízo trabalhista (e-STJ, fls. 49-50), a qual indeferiu o pedido de liberação dos depósitos recursais e, portanto,desbordoudo entendimento perfilhado pelo STJ, na esteira da jurisprudência acima destacada.
+Há de se reconhecer, assim, a caracterização do conflito, a prevalecer a competência do Juízo recuperacional.
+Na esteira dos fundamentos acima adotados, conheço do presente conflito e
+declaro a competência do Juízo de Direito da Vara Regional Empresarial de Novo Hamburgo-RS para deliberar sobre quaisquer atos de constrição do patrimônio dasuscitanteno bojo do Processo n.0023009-43.2016.5.04.0341, em trâmite no Juízo da Vara do Trabalho de Estância Velha-RS, especialmente sobre a destinação de quantias referentes adepósitos recursaisefetuados pela suscitante na referida reclamação.
+Dê-se ciência aos juízos suscitados.
+Publique-se.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZOS DO TRABALHO E DA RECUPERAÇÃO JUDICIAL. DECISÃO SOBRE ADESTINAÇÃODE DEPÓSITOS RECURSAIS EFETUADOS PELA SOCIEDADE RECUPERANDA EMRECLAMAÇÃO TRABALHISTA. COMPETÊNCIA DOJUÍZO DA RECUPERAÇÃO JUDICIAL.
