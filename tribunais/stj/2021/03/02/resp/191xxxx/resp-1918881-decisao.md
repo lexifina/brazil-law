@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃOEMENTA:FISCAL. INDICAÇÃO INCORRETA DO SUJEITO PASSIVO NA CDA. SUBSTITUIÇÃO.INCABIMENTO DE EMENDA A INICIAL.
+I. Trata-se de agravo de instrumento interposto pelo DEPARTAMENTO NACIONAL DE PRODUCAO MINERAL contra decisão que indeferiu o pedido de emenda à inicial e determinou a intimação do exequente para requerer o que entender de direito. Entendeu o Juízo original que a indicação equivocada do nome do devedor em sede de execução fiscal não se enquadra na categoria de erro material, a permitira emenda da CDA.
+II. Em suas razões recursais, a parte agravante alega que o erro da CDA na indicação do executado enquadra-se na categoria de erro material. Argumenta que se faz presente o perigo da demora no caso, jáque, diante das tentativas infrutíferas de se conseguir identificar bens, frustrando definitivamente aexecução, dito perigo é imenso.
+III. O STJ, em sede de recurso repetitivo (REsp. 1.045.472/BA, Rel. Min. LUIZ FUX, DJe 18.12.2009),adotou o entendimento de que a Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até aprolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada amodificação do sujeito passivo da execução (Súmula 392/STJ).
+IV. É inviável a substituição do sujeito passivo no curso da lide, após a constatação da ilegitimidade passiva ensejadora da extinção do processo sem exame do mérito. A substituição da Certidão de Dívida Ativa é permitida até o momento em que for proferida decisão de primeira instância, somente quando se tratar de erro formal ou material, e não em casos que impliquem alteração do próprio lançamento.
+V. A emenda ou substituição de CDA facultada ao credor, nos termos dos arts. 203 do CTN e 2º, §8º, da LEF, só é possível na hipótese de erro material ou formal, o que não é o caso dos autos. Na hipótese, verifica-se a existência de vício na CDA que instrui o feito executivo, pois traz a incorreta indicação do contribuinte.
+VI. Agravo de instrumento improvido.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violados os arts. 489 e 1.022 do CPC/2015, sustentando, em síntese, que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca da possibilidade de retificação de mero equívoco na indicação do sujeito passivo na inicial da execução fiscal, situação que não se assemelha à incorreção de lançamento do sujeito passivo na CDA.
+É o relatório. Decido.
+Assiste razão ao recorrente, no que toca à alegada violação aos arts. 489 e 1.022 do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a ausência de manifestação do Tribunal de origem acerca da possibilidade de retificação de mero equívoco na indicação do sujeito passivo na inicial da execução fiscal, situação que não se assemelha à incorreção de lançamento do sujeito passivo na CDA.
+. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresentam-se violados os arts. 489 e 1.022 do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Com o mesmo diapasão, destaco os seguintes precedentes, in verbis:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. RECURSO ESPECIAL DO MPF PROVIDO PARA ANULAR O ACÓRDÃO PROFERIDO EM SEDE DE EMBARGOS DE DECLARAÇÃO E DETERMINAR O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM A FIM DE QUE SUPRA A OMISSÃO APONTADA, PREJUDICADA A ANÁLISE DAS DEMAIS QUESTÕES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Da análise dos autos, verifica-se de que as alegações apresentadas pelo Ministério Publico Federal, em sede de Embargos Declaratórios, especialmente quanto a importância ambiental da área, que abriga espécime raro e as falhas apontada no Estudo de Impacto Ambiental, não foram realmente analisados pela Corte local.
+2. Com a oposição dos Embargos de Declaração, foi expressamente solicitada a manifestação do colegiado acerca de tais questões, de forma que lhe cabia analisar o ponto omisso/contraditório e sanar a irregularidade apontada. Não tendo o Tribunal sequer feito referência a isso, de fato, houve violação do art. 535, II do CPC, o que importa a reforma da decisão.
+3. Agravo Regimental da UNIÃO desprovido.
+(AgRg no REsp n. 1.221.403/RS, Rel. Min. Napoleão Nunes Maio Filho, Dje de 23/8/2016.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. FUNGIBILIDADE E ECONOMIA PROCESSUAL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. VIOLAÇÃO. OMISSÃO EXISTENTE. SOLUÇÃO DA CONTROVÉRSIA. QUESTÃO RELEVANTE. RETORNO DOS AUTOS À ORIGEM.
+1. Os princípios da fungibilidade recursal e da economia processual autorizam o recebimento de embargos de declaração como agravo regimental.
+2. Caracteriza-se ofensa ao art. 535 do CPC quando a Corte de origem deixa de se pronunciar a respeito de questões essenciais ao julgamento da lide, as quais poderiam, em tese, levar a resultado diverso.
+3. Agravo regimental não provido.
+(EDcl no AgRg no REsp n. 1.561.073/AL, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 18/4/2016.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios.
+Publique-se. Intimem-se.
