@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de ROSE DE FÁTIMA WOLFF MORGADOe outro contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Paraná, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO CONTRATUAL.CUMPRIMENTO DE SENTENÇA. PENHORA SOBRE ÁREA DE LAZER DO CONDOMÍNIO AGRAVADO. IMPOSSIBILIDADE. VEDAÇÃO DA ALIENAÇÃO DE ÁREAS COMUNS EM SEPARADO DAS UNIDADES AUTÔNOMAS. AUSÊNCIA DE PROVA DA MÁ-FÉ DOS TERCEIROS ADQUIRENTES DOS IMÓVEIS DECORRENTES DO IMÓVEL EM CUJA MATRÍCULA FOI AVERBADA A PENHORA. ÔNUS QUE CABERIA AOS AGRAVANTES. RECURSO CONHECIDO, AO QUAL SE NEGA PROVIMENTO."
+(e-STJ fl. 52)
+Nas razões do recurso especial, osagravantes alegaramviolação doart. 3ºda Lei 4.591/64, ao argumento de que a vedação inserida no referido dispositivolegal não seria aplicável à área de lazer adjacente às unidades residenciais. Isso porque a referida áreapoderiaser destacadado conjunto imobiliário sem a repercussão no uso das demais áreas comuns. Acrescentaram quea dívida que embasa o pedido de penhora é anterior à instituição do condomínio e a penhora teria por objetivo ressarcir os compromissários compradores que deram seguimento às obras do empreendimento imobiliário após a insolvência da construtora.
+Decisão que inadmitiu o recurso especial às fls. 112/114.
+Prazo para contraminuta transcorreu in albis (e-STJ fl. 153).
+É o relatório. Decido.
+A despeito do esforço argumentativo dos agravantes, verifica-se que as razões deduzidas em seu recurso especial não são aptas a demonstrar a efetiva violação do dispositivo legal indicado como violado.
+De início, ressalta-se que é incontroverso nos autos que a área objeto da penhora se refere à área de lazer que compõe, portanto, área comum decondomínio. Desse modo, reconhecida como área comum do condomínio, é de todo aplicável o art.3º da Lei 4.591/64, como já reconhecido por esta Corte Superior de longa data.
+Nesse sentido, confira-se:
+CONDOMINIO. EDIFICIO DE APARTAMENTOS. PENHORA ELEVADOR.NÃO PODE SER PENHORADO, SEPARADAMENTE, O ELEVADOR DE UM EDIFICIO EM CONDOMINIO. ART. 3. DA LEI 4.591/64.
+RECURSO CONHECIDO EM PARTE E PROVIDO.
+(REsp 89.721/RJ, Rel. Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 21/05/1996, DJ 24/06/1996, p. 22774)
+PROCESSO CIVIL - RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - OBJETO DA PENHORA - ELEVADOR DE EDIFÍCIO DE APARTAMENTOS EM CONDOMÍNIO - IMPOSSIBILIDADE - BEM DE USO COMUM DOS CONDÔMINOS - ART. 3º DA LEI Nº 4.591/64 - DISSÍDIO PRETORIANO COMPROVADO.
+1 - Esta Corte de Uniformização Infraconstitucional tem decidido que, a teor do art. 255 e parágrafos do RISTJ, para comprovação e apreciação do dissídio jurisprudencial, devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, bem como juntadas cópias integrais de tais julgados ou, ainda, citado repositório oficial de jurisprudência. In casu, foi realizado o devido cotejo analítico, tendo sido, também, juntado o inteiro teor do acórdão paradigma, motivo pelo qual deve-se conhecer da divergência aventada.
+2 - É inadmissível a penhora de elevador de edifício de apartamentos, porquanto se encontra incorporado à estrutura do prédio, constituindo condomínio de todos e sendo insuscetível de divisão, de alienação em separado ou de utilização exclusiva por qualquer condômino. Incidência do art. 3º da Lei nº 4.591/64.
+3 - Precedente (REsp nº 89.721/RJ).
+4 - Recurso conhecido e provido para, reformando o v. acórdão recorrido, desconstituir a penhora efetuada sobre os elevadores do edifício de apartamentos em condomínio ora recorrente.
+(REsp 259.994/SP, Rel. Ministro JORGE SCARTEZZINI, QUARTA TURMA, julgado em 21/09/2004, DJ 22/11/2004, p. 345, g.n.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. BOX DE GARAGEM.PENHORA.
+1. Esta Corte já decidiu que "em condomínio edilício, a vaga de garagem pode ser enquadrada como: (i) unidade autônoma (art. 1.331, § 1º, do CC), desde que lhe caiba matrícula independente no Registro de Imóveis, sendo, então, de uso exclusivo do titular; (ii) direito acessório, quando vinculado a um apartamento, sendo, assim, de uso particular; ou (iii) área comum, quando sua fruição couber a todos os condôminos indistintamente".(REsp 1152148/SE, de minha relatoria, QUARTA TURMA, julgado em 13/08/2013, DJe 02/09/2013) 2. "A vaga de garagem que possui matrícula própria no registro de imóveis não constitui bem de família para efeito de penhora" (Súmula 449, CORTE ESPECIAL, julgado em 02/06/2010, DJe 21/06/2010).
+3. No caso dos autos, o benefício da impenhorabilidade que recai sobre o imóvel residencial do devedor não se estende ao box de garagem residencial, porque ele possui matrícula própria.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 779.583/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/03/2016, DJe 15/03/2016)
+Ademais, o acórdão recorrido consignou que, mesmo antes do registro efetivo do condomínio, já haviam sido realizadas diversas negociações de frações, impondo-se a prevalência da situação fática e a proteção da boa-fé objetiva de todos os compromissários-compradores.
+A propósito, assim fundamentou o acórdão recorrido:
+"Consoante mencionado na decisão agravada, as diversas manifestações de terceiros, apresentadas no curso do cumprimento de sentença em questão, deram conta que vários dos compromissos particulares de compra e venda dos sobrados foram firmados em momento anterior à averbação da penhora pelos autores, sendo precedentes, portanto, à própria instituição formal do condomínio.
+Essa constatação da magistrada singular não foi impugnada expressamente nas razões recursais dos agravantes, sendo possível presumir, pois, que várias das sessenta unidades habitacionais efetivamente foram vendidas a terceiros, por instrumento particular, antes do registro da penhora em questão.
+Mesmo que assim não fosse, para que se pudesse manter a penhora sobre a área de recreação do condomínio, seria necessário que os recorrentes fizessem prova da má-fé dos adquirentes das unidades, haja vista que, após as vendase desmembramentos de matrículas, a empresa devedora (Beta) deixou de ter a propriedade plena sobre o imóvel sob nº 34.637.
+ ..
+No entanto, considerando que o condomínio já está constituído desde 2005; que há certa dúvida em relação às datas das alienações das unidades autônomas; que não existe prova robusta da má-fé dos terceiros; e que os agravantes podem tentar a satisfação de seu crédito por outras vias; realmente se mostra mais razoável indeferir o pedido de penhora da área de lazer do condomínio"."
+(e-STJ fls. 79/80)
+À vista dessa fundamentação, ressai dos autos que o caso concreto foi decidido em razão do amplo procedimento probatório, em que se apurou diversas circunstâncias fáticas para se concluir pela incidência direta do comando legal, a fim de proteger a coletividade dos condôminos. Nesse cenário, a alteração da conclusão do acórdão recorrido não prescinde do vedado reexame de fatos e provas, o que é inviável nesta esfera recursal (Súmula 7/STJ).
+Com esses fundamentos, nos termos do art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecerdo recurso especial.
+Publique-se.
