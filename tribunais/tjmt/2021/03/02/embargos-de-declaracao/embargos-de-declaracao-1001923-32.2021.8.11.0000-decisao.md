@@ -1,0 +1,35 @@
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+EMBARGOS DE DECLARAÇÃO 1001923-32.2021.8.11.0000
+EMBARGANTE: VITTA SEEDS COMERCIAL AGRÍCOLA LTDA
+EMBARGADOS: T. C. DE PAULA CONSTANTINO - EPP e outros (3)
+DECISÃO MONOCRÁTICA – EMBARGOS DE DECLARAÇÃO
+Vistos etc.
+Trata-se de embargos de declaração contra decisão de indeferimento de liminar em agravo de instrumento e manutenção dos efeitos de decisão proferida em Ação Declaratória de Existência de Sociedade de Fato n.o 1002866-30.2020.8.11.0050, 1a Vara de Campo Novo do Parecis/MT, ajuizada contra T. C. DE PAULA CONSTANTINO - EPP e outros (3), em que se indeferiu pedido de consignação da existência da ação na junta comercial e para que se constasse nome dos agravados pessoas físicas no quadro societário.
+A embargante sustenta que “a demora na prestação jurisdicional poderá tornar difícil ou impossível reparação o prejuízo sofrido pelo Agravante, bem como tal fundamento ignora a própria razão de existência do mecanismo processual de concessão de tutela provisória de urgência e de antecipação da tutela recursal inaudita altera pars”.
+Argumenta que “o fundamento de possível interferência na atividade da agravada também não merece prosperar, notadamente por tal fundamento servir apenas para afastar, em tese, a segunda parte do pedido de antecipação da tutela recursal (“para que se faça constar que a referida pessoa jurídica possui sob seu quadro societário os Requeridos TELMA CORREIA DE PAULA CONSTANTINO, AFONSO SILVEIRA CONSTANTINO e MIGUELANGELO DE BARROS BASSO, cuja sociedade se rege sob a forma dos arts. 986 a 990 do Código Civil”), não o pedido de averbação da existência da ação nos registros da pessoa jurídica e das pessoas físicas perante a JUCEMAT, pois, se deferido o pleito inicial, poderá a Agravante anular os atos inválidos; se indeferido, em nada prejudicará os Agravados”.
+Alude que, “quanto ao fundamento de inexistência de situação palpável que possa causar prejuízo ao Agravante, olvidou-se que o Agravado MIGUELANGELO DE BARROS BASSO administra empresa de outro CNPJ, mas trabalhando no mesmo ramo e atividades, na mesma cidade da pessoa jurídica Agravada, fato que o permite continuar as atividades em prol da sociedade de forma paralela, deixando perder-se a pessoa jurídica Agravada que possui inúmeras dívidas em aberto; que o capital social da pessoa jurídica agravada é ínfimo (R$ 70.000,00) face às obrigações diversas contraídas – até R$ 2.000.000,00 ante a credora UNIGGEL INDÚSTRIA E COMÉRCIO DE SEMENTES LTDA (escritura pública, com garantia real de imóvel rural matrícula no 6331, Livro 2-RG, 1o Ofício de Brasnorte/MT), os mais de TRÊS MILHÕES DE REAIS cobrados pela Agravante em AÇÃO DE RESOLUÇÃO CONTRATUAL C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS em trâmite sob o no 1000975-71.2020.8.11.0050, fora a multiplicidade de ações em trâmite em desfavor da Agravada”.
+Pede o acolhimento dos embargos com o deferimento da medida liminar (id. 77706981).
+É a síntese.
+Decido.
+Nos termos do §2o do art. 1.024 do CPC/2015, “Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente.”
+Cabem embargos de declaração nas seguintes hipóteses:
+“Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.”
+Todas as fundamentações trazidas pelo embargante foram sopesadas para se proferir a decisão de indeferimento da liminar, e a reiteração dos fatos em embargos de declaração não são suficientes à alteração do entendimento, bem como não apontam qualquer vício na decisão embargada a ponto de terem efeito infringente.
+Eis o decidido:
+“[...] A pretensão exaure o mérito da ação, de maneira que entendo prudente o prévio contraditório para se aferir, com mais acuidade, as alegações da agravante, sob pena de conferir interferência na atividade da agravada.
+Ademais, aduzir perigo da demora sob a alegação de que “a medida vindicada visa evitar a dilapidação patrimonial e desfazimento de atos negociais em prejuízo da Agravante, que, se tiver, oportunamente, crédito constituído judicialmente a seu favor, poderá não conseguir a satisfação completa da obrigação”, não convence.
+Não existe qualquer situação palpável ou próxima a se ocorrer que traga danos à agravante. Sua alegação é calcada em suposições: suposta dilapidação de patrimônios; suposto desfazimento de negócios; crédito que pode vir a ser gerado; suposta não satisfação de obrigação. Não há provas neste sentido. [...]”
+Na decisão embargada não há vícios do art. 1022 do CPC/2015 e, conforme entendimento assente do Superior Tribunal de Justiça, os embargos de declaração só se revestem de efeito infringente quando existir, de fato, omissão, obscuridade, contradição ou erro material na decisão embargada, de maneira que a correção desses vícios implique, como consequência, na modificação do julgamento, o que não configura no caso em questão, tendo em vista que a intenção da parte embargante é de revisitar os autos, pois a decisão lhe foi desfavorável, o que não deve prosperar.
+Conforme ensinamentos de THEOTÔNIO NEGRÃO, “Os embargos de declaração não são palco para a parte simplesmente se insurgir contra o julgado e requerer sua alteração. Por isso, ‘não se admite embargos de declaração com efeitos modificativos quando ausente qualquer dos requisitos do art. 535 do Código de Processo Civil’ (STJ-Corte Especial, ED no REsp 437.380, rel. Min. Menezes Direito, j. 20.4.05, não conheceram, v.u., DJU 23.5.05, p. 119).” (Código de Processo Civil e legislação processual em vigor. Theotonio Negrão e José Roberto F. Gouvêa. 41. ed. São Paulo: Saraiva, 2009. nota 6 ao artigo 535. p. 742).
+Consigno que a oposição de novos embargos com os mesmos argumentos será entendida como atitude protelatória, estando sujeita aos ditames do art. 1.026, §§2o, 3o e 4o do CPC:
+“[...] § 2o Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa.
+§ 3o Na reiteração de embargos de declaração manifestamente protelatórios, a multa será elevada a até dez por cento sobre o valor atualizado da causa, e a interposição de qualquer recurso ficará condicionada ao depósito prévio do valor da multa, à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que a recolherão ao final.
+§ 4o Não serão admitidos novos embargos de declaração se os 2 (dois) anteriores houverem sido considerados protelatórios.”
+Ante o exposto, REJEITO OS EMBARGOS.
+Aguarde-se o decurso do prazo das contrarrazões ao agravo de instrumento para, posteriormente, enviar os autos conclusos.
+Cumpra-se.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
