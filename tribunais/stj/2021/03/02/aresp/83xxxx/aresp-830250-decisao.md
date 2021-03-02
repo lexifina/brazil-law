@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo recurso especial interposto por GLOBAL SECURITIES CAPITAL PARTNERS ADVISORS CORPcontra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado do Mato Grosso (TJ-MT),assim ementado (fls. 385/386):
+"RECURSO DE APELAÇÃO CÍVEL- EMBARGOSÀEXECUÇÃO-CÉDULA DE PRODUTO RURAL- INEXIGIBILIDADEDO TÍTULO-AVERBAÇÃO DO CANCELAMENTODA CÉDULA NOCARTÓRIO DE REGISTRO DE IMÓVEIS- EFEITO ERGA OMNES -INTELIGÊNCIA DO ARTIGO 12 DALEI Nº 8.929/94-AUSÊNICIA DEPROVA DA AVERBAÇÃO DO ENDOSSO EMDATA ANTERIOR AOCANCELAMENTO DACPR-INEFICÁCIADOATODETRANSFERÊNCIA- RECURSO CONHECIDO E DESPROVIDO-RECURSO ADESIVO-MAJORAÇÃO DA VERBA HONORÁRIA-INADMISSIBILIDADE- DEMANDA TOTALMENTE PROCEDENTE-AUSÊNIA DE SUCUMBÊNCIA RECÍPROCA- PRESSUPOSTOINTRÍNSECO DE ADMISSIBILIDADEDO APELO ADESIVO-EXEGESE DO ART. 500 DO CPC- RECURSO ADESIVO NÃOCONHECIDO.
+A Cédula de Produto Rural perde sua exigibilidade após seu cancelamento devidamente averbado no Cartório de Registro de Imóveis. Sendo a demanda totalmente procedente, a parte autora não tem interesse em interpor o recurso adesivo, já que, nos termos do art. 500 do CPC, para apelar adesivamente, é necessário que ambas as partes tenham sucumbido. Precedentes: (TRF-4 - AG: 28524 SC 1998.04.01.028524-9,Rela. LUIZA DIAS CASSALES, TERCEIRA TURMA, DJ 07.10.1998) e(TJ-DF- APC: 20120310066958DF 0006386-51.2012.8.07.0003, Rel.JOÃO EGMONT, Jul. em 23/04/2014, 58 Turma Cível, DJE 02.5.2014"
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 409/417).
+As razões do recurso especial, fundamentadas na alínea "a" do permissivo constitucional, apontam a violação (i) dos arts. 165, 458, incisos I e II, e 535 do CPC/73, porquanto o v. acórdão estadual seria omissoquanto às teses relativas aos princípios da autonomia, abstração e cartularidade, bem como incorreria em erro material ao aduzir que os recorridos seriam terceiros; (ii) dos arts. 16 e 17 do Anexo I do Decreto n. 57.663/1966, arts. 10 e 12 da Lei n. 8.929/94 e art. 916 do CC/02, uma vez que os títulos de créditos seriam regidos pelos princípios da autonomia, cartularidade e abstração, de modo que eventual distrato firmado na relação jurídica originária não alcançaria os recorrentes, endossatários.
+Decisão que inadmitiu o recurso especial às fls. 451/454.
+Não foi apresentada contraminuta (certidão de fl. 480).
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação dos arts. 165, 458, incisos I e II, e 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Outrossim, o recurso ainda apresenta a infringência dos arts. 16 e 17 do Anexo I do Decreto n. 57.663/1966, arts. 10 e 12 da Lei n. 8.929/94 e art. 916 do CC/02, uma vez que os títulos de créditos seriam regidos pelos princípios da autonomia, cartularidade e abstração, de modo que eventual distrato firmado na relação jurídica originária não alcançaria os recorrentes, endossatários. O eg. TJ-MT, por sua vez, assentou que houve distrato da relação originária dois meses antes do endosso, tendo averbado o cancelamento no registroda Cédula de Produto Rural. Consignou, por fim, que não restou comprovado o averbamento do endosso. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual (fls. 388/390):
+"Pois bem, analisando o caderno processual, verifico que os embargantes emitiram a Cédula de Produto Rural nº48874/032008, de fls.78/83,formalizando a promessa de entrega de 451.200 Kg (quatrocentos e cinquenta e um mil e duzentos quilos) de soja, com o objetivo de garantir o Contrato nº 48.874 (fl. 45)entabulado com a empresa Solo Vivo Indústria e Comércio de Fertilizantes Ltda.
+Na verdade, o negócio jurídico em tela revela-se uma permutapois as obrigações previstas são de entrega recíproca de produtos, quais sejam: 150t.(cento e cinquenta toneladas) de fertilizantese 80 t. (oitenta toneladas) de cloreto de potássio granulado, por parte da empresa Solo Vivo, e 451.200 Kg (quatrocentos e cinquenta e um mil e duzentos quilos) de soja, por parte dos embargantes.
+Não obstante os embargantes terem efetuado o Contrato nº48.874, em 05.3.2007, e emitido a CPR, em 13.6.2007, comprometendo-se em entregar o produto agrícola à empresa Solo Vivo Indústria e Comércio de Fertilizantes Ltda ,estes formalizaram um Termo de Distrato ,em 22.6.2007 (fls. 47/48), onde os embargantes figuraram como PRIMEIROS DISTRATANTES e a empresa Solo Vivo, como SEGUNDA DISTRATANTE, celebrando, conforme cláusula segunda, que:
+(..)
+Ainda, consoante à fl. 50, solicitaram o cancelamento do registro da CPR, perante o 1º Oficio de Registro de Imóveis e Documentos de Querência-MT, em 09.10.2007, cujo cancelamento fora averbado, em 15.10.2007, sob o Registro nº 1.771,conforme documento de fl. 52.
+No entanto, a credora da CPR, empresa Solo Vivo, endossou-a àprimeira apelante,em16.8.2007,ou seja, quase dois meses posterior ao Termo de Distrato.
+Analisando os autos, não se vislumbra o averbamento do endosso e nem se ocorreu antes de o cancelamento da CPR ter sido averbada, no Registro nº1.771.
+Embora tenha natureza cambiaria e possa ser objeto de endosso, não há que se consentir que a CPR subsista após a devida averbação do cancelamento no cartório de registro de imóveis, aliás, a lei especial que instituiu as cédulas de produto rural, em seu artigo 12, exige a inscrição das CPRs em cartório, para que gerem efeitos erga omnes, in verbis:
+(..)
+Destarte, pelo fato de a apelante não ter comprovado a averbação do endosso, anterior à averbação do cancelamento da CPR, não há que se falarem exigibilidade da cédula em análise, porquanto, à apelante não assiste razão em pretender lograr êxito na execução da cártula, pois esta já não existe no mundo jurídico."
+Por seu turno, verifica-se que o recorrente não impugnou o fundamento relativo ao distrato em momento anterior ao endosso, bem como a necessidade de inscrição no Cartório de Imóveis para conferir eficácia contra todos, inclusive terceiros.Nessa hipótese, em que remanesce fundamento autônomo suficiente para manter o julgado, o recurso especial esbarra na Súmula n. 283/STF. Corroboram essa conclusão os julgados a seguir:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+(..)
+2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+(..)
+5. Agravo interno desprovido."
+(AgInt no AREsp 1329238/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/03/2020, DJe 16/03/2020)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO CONTRATUAL. AUSÊNCIA DE ESPECIFICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA N. 284 DO STF. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. RESTITUIÇÃO DE VALORES. PRAZO PRESCRICIONAL. DEZ ANOS. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no REsp 1835618/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/02/2020, DJe 28/02/2020)
+Ademais, para alterar a conclusão do eg. TJ-MT, quanto à ocorrência de distrato anterior ao endosso, seria necessário revolver o acervo fático e probatório dos autos, providência incompatível com o recurso especial, a teor da Súmula n. 7/STJ.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
