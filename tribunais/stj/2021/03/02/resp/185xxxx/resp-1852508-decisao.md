@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de EDI DE OLIVEIRA VIEIRA, contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra contra acórdão do Tribunal de Justiça do Estado do Paraná , assim ementado:
+"APELAÇÃO CÍVEL INTERPOSTA POR EDI DE OLIVEIRA VIEIRA. PEDIDO DE REFORMA DA SENTENÇA PORQUE O APELANTE NÃO FOI INTIMADO PESSOALMENTE PARA REGULARIZAR A REPRESENTAÇÃO PROCESSUAL. A PARTE QUE, NOTIFICADA PELO ADVOGADO SOBRE A RENÚNCIA DO MANDATO, QUEDOU-SE INERTE. INTELIGÊNCIA DO ARTIGO 112 DO CPC/2015. PRECEDENTE DO STJ. SENTENÇA MANTIDA.HONORÁRIOS RECURSAIS MAJORADOS.
+RECURSO CONHECIDO E DESPROVIDO.
+RECURSO ADESIVO. PEDIDO DE JUSTIÇA GRATUITA. NÃO CONHECIDO. APELANTE QUE RECOLHEU AS CUSTAS E INFORMOU QUE NÃO MAIS NECESSITAVA DA BENESSE. PEDIDO DE MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FIXADOS NA SENTENÇA. HONORÁRIOS QUE SE MOSTRAM ADEQUADOS. SENTENÇA MANTIDA.
+RECURSO PARCIALMENTE CONHECIDO E, NESTE TOCANTE, DESPROVIDO. (e-STJ, fl. 338/339)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl.405/411)
+No especial, a recorrente aponta violação dos art. 1.022 e 248, §1º, ambos do CPC, sustentando, em síntese, que: 1) o acórdão foi omisso quanto ao fato de que o AR enviado ao endereço do recorrente retornou recusado, com assinatura de terceiro estranho à lide e 2) não tendo sido recebido pessoalmente pelo recorrente o AR enviado com objetivo de intimar o recorrente acerca da necessidade de regularizar sua representação processual, referida comunicação não atingiu seu objetivo, razão pela qual o feito não poderia ter sido extinto por ausência de pressuposto processual.
+É o relatório. Decido.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Quanto à alegação de ofensa ao art. 248,§1º do CPC, o Tribunal de origem consignou o seguinte:
+"O artigo 112 do Código de Processo Civil,estabelece que, o advogado poderá renunciar ao mandato a qualquer tempo, no entanto, deverá comprovar que comunicou a renúncia ao mandante, para que este nomeie sucessor. Dispõe, ainda, que durante os 10 (dez) dias seguintes, o advogado continuará a representar o mandante.
+(..)
+No caso dos autos, em que pese o Apelante afirme que não foi intimado pessoalmente para regularizar a representação no feito, o que se depreende do referido artigo é que, após a suspensão do decêndio legal, os prazos começam a contar independente de intimação da parte.
+O advogado que renunciou ao mandado, o fez de acordo com o que determina o artigo 112 do CPC/2015, eis que comunicou pessoalmente o mandante, ora Apelante, que estava renunciando ao mandato, conforme infere-se do mov.23 -Projudi. (e-STJ, fls. 342/343.)
+O entendimento acima encontra-se de acordo com a jurisprudência desta Corte Superior:
+PROCESSO CIVIL. AGRAVO INTERNO. RENÚNCIA DE MANDATO. ARTIGO 45, DO CPC/73. AUSÊNCIA DE REGULARIZAÇÃO DE REPRESENTAÇÃO NO PRAZO DE 10 DIAS. DESNECESSIDADE DE INTIMAÇÃO DA PARTE. PRECEDENTES. SÚMULA Nº 83/STJ. VALIDADE DA INTIMAÇÃO. SÚMULA Nº 7/STJ. AUSÊNCIA DE MENÇÃO A DISPOSITIVO PERTINENTE. NÃO DEMONSTRAÇÃO DE VIOLAÇÃO. SÚMULA 284/STF.
+1. Nos termos da jurisprudência desta Corte, "o artigo 45 do Código de Processo Civil constitui regra específica que afasta a incidência subsidiária do comando inserto no artigo 13 do mesmo diploma. Dessa maneira, tendo o advogado renunciado ao mandato e comunicado esse fato ao mandatário, cumpriria a este providenciar a constituição de novo patrono, sem o que os prazos processuais correm independentemente de intimação" (AgRg no AREsp 197.118/MS, Rel.
+Ministro Sidnei Beneti, Terceira Turma, DJe de 9/10/2012).
+2. A conclusão do Tribunal de origem no sentido de que a parte foi notificada da renúncia dos poderes outorgados a seu ex-patrono e, não obstante, deixou de providenciar a nomeação de outros é imune ao crivo do recurso especial, a teor do contido no enunciado nº 7 da Súmula desta Casa.
+3. A simples menção a dispositivos legais desacompanhada da demonstração da respectiva efetiva violação atrai as disposições do verbete nº 284, da Súmula do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp 569.381/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2017, DJe 09/06/2017)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RENÚNCIA DE MANDATO. ART. 45 DO CPC. AUSÊNCIA DE REGULARIZAÇÃO DE REPRESENTAÇÃO NO PRAZO DE 10 DIAS. RECURSO DE APELAÇÃO NÃO CONHECIDO. DESNECESSIDADE DE INTIMAÇÃO DA PARTE. AGRAVO NÃO PROVIDO.
+1. "Na linha dos precedentes desta Corte, o artigo 45 do Código de Processo Civil constitui regra específica que afasta a incidência subsidiária do comando inserto no artigo 13 do mesmo diploma. Dessa maneira, tendo o advogado renunciado ao mandato e comunicado esse fato ao mandatário, cumpriria a este providenciar a constituição de novo patrono, sem o que os prazos processuais correm independentemente de intimação" (AgRg no AREsp 197.118/MS, Rel.
+Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe de 9/10/2012) 2. In casu, o Tribunal de origem negou seguimento ao recurso de apelação, porque inequívoca a ciência da parte acerca da renúncia de seus procuradores, realizada nos termos do art. 45 do Código de Processo Civil.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1190688/RJ, de minha Relatoria, QUARTA TURMA, julgado em 07/05/2015, DJe 01/06/2015)
+Frise-se que o próprio recorrente afirma que fora devidamente notificado pelo seu causídico acerca da renúncia ao mandato, razão pela qual não há que se falar em nulidade na sentença que extinguiu o feito em virtude da ausência de regularização da representação processual.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% (percentual fixado na decisão que deu provimento ao recurso especial da ora agravada) para 11% sobre o valor da causa.
+Publique-se.
