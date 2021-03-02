@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por LAUDICEA FERREIRA DA SILVA, em face de decisão que não admitiu recurso especial manejado com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Pernambuco, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPETIÇÃO DE INDÉBITO E PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. COMPESA. COBRANÇA PELA TARIFA MÍNIMA. POSSIBILIDADE. PRECEDENTES DO STJ. LEGALIDADE DA COBRANÇA. SENTENÇA MANTIDA. RECURSO A QUE SE NEGA PROVIMENTO. DECISÃO UNÂNIME.
+1. A COMPESA e uma sociedade de economia mista vinculada ao Governo do Estado de Pernambuco que presta os serviços públicos de abastecimento de água e de coleta de esgoto em 173 dos 185 municípios do Estado. Submete-se ao regime jurídico da Lei ri" 11.445/07, que estabelece diretrizes nacionais para o saneamento básico; do Decreto nº 7.217/10, que regulamenta a Lei no 11.445/ 07; e do Decreto Estadual nº 18.251/94, que aprova o regulamento geral do fornecimento de água e da coleta de esgotos realizados pela COMPESA.
+2. Da leitura dos dispositivos citados acima depreende-se que as tarifas cobradas aos usuários, além de remunerar a prestação direta dos serviços de abastecimento de água e de esgotamento sanitário, destinam-se ao financiamento dos investimentos e das despesas operacionais do serviço público de saneamento, trazendo viabilidade econômico-financeira a todo o sistema operado pela companhia.
+3. o art.30 da Lei 11.445/07, que trata da estrutura de remuneração e cobrança dos serviços públicos de saneamento básico, prevê a possibilidade de cobrança de tarifa mínima, independentemente do consumo ou da utili7ação do serviço, com vistas a assegurar o implemento de politicas públicas no âmbito social  como a preservação da saúde pública e o atendimento dos usuários de menor renda- e custear a manutenção do sistema de saneamento.
+4. Importante destacar que, antes mesmo da vigência da Lei 11.445/07 (Código de Saneamento básico), o STJ já havia firmado entendimento no sentido de admitir a cobrança da tarifa mínima no consumo de água potável, independentemente do consumo para garantir a viabilidade econômico-financeira do sistema.
+5.Ademais, em sede de recurso repetitivo (REsp 1339313 RJ), o STJ novamente sustentou a regularidade da referida cobrança.
+6. A decisão da Primeira Seção deixa claro que a cobrança da tarifa não pressupõe a prestação integral do serviço de esgotamento sanitário, mas apenas parte dele.
+7.Pois bem, analisando todo o contexto probatório contido nos autos resta claro que a pretensão recursal não merece prosperar visto que os documentos colacionados aos autos demonstraram que, mesmo que de maneira incompleta, há a prestação do serviço público de esgotamento sanitário, se mostrando legítima a cobrança da taxa ora rechaçada.
+8.Por fim, diante do reconhecimento da legalidade da cobrança, não há o que se falar em devolução de valores pagos indevidamente, restando, portanto, prejudicada a questão atinente aos danos materiais, repetição de indébito e danos morais.
+9.Sentença mantida.
+10.Recurso a que se nega provimento.
+11.Decisão unânime." (e-STJ, fls. 141/142)
+Depreende-se dos autos que o recurso especial interposto discute sobre a concessão de serviço de abastecimento de água e saneamento de esgoto.
+Nos termos do art. 9º, caput, do RISTJ desta eg. Corte Superior, a competência das Seções e das respectivas Turmas é fixada em razão da natureza da relação jurídica litigiosa que, no presente caso, indica a competência de uma das Turmas que compõem a Primeira Seção, conforme dispõe o art. 9º, X e XIV, do RISTJ.
+Diante do exposto, determino a redistribuição deste feito a um dos eminentes Ministros que compõem a eg. Primeira Seção.
+Cumpra-se.
