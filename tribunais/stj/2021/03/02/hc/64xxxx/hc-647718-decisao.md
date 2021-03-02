@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de GUILHERME FLORENCIO PRESTES, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem originária e manteve a prisão preventiva do paciente, condenado como incursono art. 33, caput, da Lei 11.343/06, à pena de 5 anos de reclusão, em regime fechado, mais o pagamento de 500 dias-multa.
+Neste writ, a defesa alega que não há fundamento válido para a prisão cautelar.
+Sustenta ser ilícita as provas colhidas em busca domiciliar sem autorização ou justa causa.
+Afirma que o paciente tem direito ao reconhecimento do tráfico privilegiado, a fixação de regime mais brando e deferimento da permuta legal.
+Pleiteia, assim, o trancamento da ação penal ou revogação da prisão cautelar.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Inicialmente, vale anotar que a tese de invasão de domicílio, erro na dosimetria da pena e na definição do regime prisional não foram objeto de exame no acórdão impugnado, o que impede o conhecimento dos temas diretamente por esta Corte de Justiça, sob pena de indevida supressão de instância(RHC 131.062/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/11/2020, DJe 13/11/2020).
+Quanto ao pedido para que o paciente aguarde em liberdade o julgamento do apelo defensivo, não assiste razão à defesa.
+O Juiz sentenciante, ao manter a custódia cautelar na sentença condenatória, pontuou:
+"Trata-se de Réu com condenação anterior pela prática de tráfico de entorpecentes, assim, à vista da reiteração criminosa, para garantia da ordem pública, deverá interpor recluso eventual recurso, e, pelo mesmo motivo, incabível a substituição pelas cautelares diversas da prisão preventiva. Recomende-se no presídio em que se encontrar recolhido."
+De acordo como § 1º do art. 387 do CPP, o magistrado, ao proferir sentença condenatória, decidirá fundamentadamente sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+No caso, observa-se que, conforme pontuado no acórdão impugnado,a "negativa ao direito do recurso em liberdade foi fundamentada na reincidência específica do paciente e no risco concreto de reiteração delitiva" (e-STJ, fl. 208).
+Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal). 4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019).
+Ante o exposto, indefiro liminarmente ohabeas corpus, diante da ausência de manifesta ilegalidade.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
