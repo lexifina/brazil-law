@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUANA APARECIDA FERREIRA DE SOUZA contra decisão liminar de Desembargador do Tribunal de Justiça do Estado da Bahia(HC n. 8004116-63.2021.8.05.0000).
+Segundo consta dos autos, a paciente foi presa preventivamente em 3/11/2020, pela suposta prática do crime de tráfico de drogas.
+No writ originário, a defesa alegou a nulidade da decisão em razão da prisão preventiva ter sido decretada de ofício.
+O Relator da ação na origem, indeferiu a liminar (e-STJ fls. 9/10).
+Na presente oportunidade, a defesa reitera a alegação de nulidade da decisão que decretou a prisão preventiva da paciente, sem requerimento do Ministério Público.
+Assim, requer, em liminar e no mérito, a revogação da prisão preventiva da paciente.
+É o relatório. Decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Em relação à suposta irregularidade da conversão, de ofício, da prisão em flagrante em preventiva, realmente o art. 564, IV, do Código de Processo Penal dispõe que "a nulidade ocorrerá nos seguintes casos: IV - por omissão de formalidade que constitua elemento essencial do ato". Trata-se, entretanto, de nulidade relativa, que pode ser sanada e convalidada com a renovação do ato, desde que cumpridas as formalidades legais. Nesse sentido está o escólio de Guilherme de Souza Nucci (in Manual de Processo Penal e de Execução Penal, 13a ed., Forense, 2016, p. 796):
+8.6 Ausência de forma legal dos atos processuais Os atos processuais são realizados conforme a forma prevista em lei. Se algum ato for praticado, desrespeitada a forma legal, desde que se trate de formalidade essencial à sua existência e validade, a nulidade deve ser reconhecida. Entretanto, trata-se de nulidade relativa, que somente se reconhece havendo prejuízo para alguma das partes.
+As regras básicas para sanar os defeitos das nulidades relativas estão dispostas no art. 572 do Código de Processo Penal, dentre elas, está a prática do ato processual de outra forma, com o atendimento da sua finalidade. Confira-se:
+Art. 572. As nulidades previstas no art. 564, Ill, "d" e "e", segunda parte, "g" e "h", e IV, considerar-se-ão sanadas:
+I - se não forem arguidas, em tempo oportuno, de acordo com o disposto no artigo anterior;
+II - se, praticado por outra forma, o ato tiver atingido o seu fim;
+III - se a parte, ainda que tacitamente, tiver aceito os seus efeitos.
+Assim sendo, a apuração deste tópico depende da prévia análise da questão pelo Tribunal de origem após as informações quedevem ser ali prestadas pelo Juízo processante, a fim de verificar se houve requerimento/manifestação do Ministério Público acerca da prisão preventiva do paciente, bem como o teor de todas as decisões que decretaram/mantiveram a indigitada custódia cautelar.
+De outro vértice, no caso, ao que parece ao decretar a prisão preventiva, o Juízo de primeiro grau considerou o risco de reiteração delitiva.Confira-se (e-STJ fls. 45/50 - grifei):
+ ..
+Diante do exposto, NÃO HOMOLOGO O AUTO DE PRISÃO EM FLAGRANTE,por ausentes os pressupostos legais da prisão, e RELAXO A PRISÃO EM FLAGRANTE de LUANA APARECIDA FERREIRA DE SOUZA, já qualificada, o que faço com esteio no art.5º, LXV, da Constituição Federal Brasileira e art. 310, I, do CPP.
+De outra banda, calha salientar que a autuada se encontrava sob cumprimento de prisão domiciliar, conforme decisão prolatada no APF nº 0300439-69.2020.805.0244, no dia 18/09/2020, denunciada na ação penal nº 0501066-89.2020.805.0244, juntamente com o seu companheiro, MÁRIO SÉRGIO EVANGELISTA DE SOUZA, pela suposta prática dos crimes tipificados nos artigos 33 e 35 da Lei nº 11.343/2006 e, ainda, a conduta delitiva tipificada no art. 12, caput, da Lei nº 10.826/03, ausentou-se do seu domicílio sem autorização judicial e reiterou em nova conduta delitiva, visto que foi autuada, por Policiais Militares, na rua do Bairro Mutirão, neste município, quando trafegava na garupa de uma motocicleta, levando consigo a substância entorpecente conhecida por cocaína, conforme disposto acima.
+ ..
+No caso em exame, verificou-se que a presença acusada não é imprescindível aos cuidados da filha menor, nem sequer mostra-se recomendável a medida pretendida, pois as atividades de traficância, que lhe foram imputadas nos autos do APF nº 0300439-69.2020.805.0244, ocorriam dentro da sua própria residência, na presença da menor, colocando em risco a preservação do bem-estar e desenvolvimento saudável da infante.
+Não bastasse, mesmo em prisão domiciliar nos autos do APF nº 0300439-69.2020.805.0244, ausentou-se do lar e novamente presa, em menos de dois meses, levando consigo substância entorpecente (cocaína), ainda que não evidenciada a prática do tráfico nesta conduta, a ré reiterou em mais uma conduta delitiva (art. 28 da Lei nº 11.343/06) e descumpriu as condições de sua prisão domiciliar.
+ ..
+Portanto, o que se observa é que a requerente não é a responsável fática pela criação de sua filha, sendo que a sua companhia não atende ao melhor interesse da criança.
+ ..
+É o caso dos autos. Porquanto a reiteração delitiva e o descumprimento das condições da prisão domiciliar estabelecida no APF nº 0300439-69.2020.805.0244 são fatos supervenientes que motivam, concretamente, o restabelecimento da segregação cautelar corporal máxima da ré.
+Diante do exposto, converto a prisão domiciliar da ré LUANA APARECIDA FERREIRA DE SOUZA, estabelecida nos autos do APF nº 0300439-69.2020.805.0244 (ação penal nº 0501066-89.2020.805.0244), em PRISÃO PEVENTIVA, haja vista que restou comprovado que a prisão domiciliar não é medida suficiente à inibição de reiteração delitiva pela acusada, para fins de manutenção da ordem pública, consoante disposto pelos arts312 e 216, caupt, do CPP.
+Diante do contexto informativo apresentado nos autos, o Relator da ação originária entendeu não haver ilegalidade manifesta, motivo pelo qual indeferiu a liminar declinando as seguintes razões (e-STJ fl. 10):
+ ..
+Ao exame dos autos, observa-se que as alegações contidas na petição inicial necessitam de confronto com as informações judiciais, permitindo, assim, que este relator possa melhor formar o seu convencimento.
+Outrossim, os fundamentos que embasam o pedido de liminar têm natureza satisfativa e se confundem com o mérito do writ, daí porque o pleito será apreciado perante o Colegiado.
+Diante do exposto, e nada obstante as alegações ofertadas pelo Impetrante, tenho que maior cautela se impõe a este signatário, fazendo-se imperativo, por ora, indeferir a liminar, porquanto ausentes os requisitos indispensáveis para sua concessão.
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
