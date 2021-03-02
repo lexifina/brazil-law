@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de agravo apresentado por R. S. MEDEIROS & CIA LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE DESPEJO C/C COBRANÇA. SENTENÇA DE PROCEDÊNCIA. INSURGÊNCIA DA LOCATÁRIA. 1. COBRANÇA DE ENCARGOS LOCATÍCIOS (ÁGUA E ENERGIA ELÉTRICA). POSSIBILIDADE. ART. 23, INC. VIII DA LEI Nº 8.245/91. 2. PLEITO DE MAJORAÇÃO DOS HONORÁRIOS DO CURADOR ESPECIAL. ACOLHIMENTO. FIXAÇÃO QUE DEVE OBSERVAR O TRABALHO DESENVOLVIDO E OS VALORES PREVISTOS NA TABELA DE HONORÁRIOS DA RESOLUÇÃO CONJUNTA 04/2017 - PGE/SEFA. RECURSO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 23, VIII, da Lei n. 8.245/91, no que concerne à ilegitimidade da parte recorrida para cobrar a dívida referente às despesas de água e de energia elétrica, uma vez que elas se encontrariam em nome de terceiro, trazendo os seguintes argumentos:
+Data máxima vênia e com todo respeito ao Tribunal a quo, mas o V. acórdão contraria a vigência do artigo 23, inc. VIII, da lei 8.245/91, interpretando-o equivocadamente.
+Eis que, a dívida de água e energia elétrica aqui discutidas, estão em nome de terceiro, como se verifica ao seq. 1.10 e 1.11 dos autos e origem, sendo tais débitos de responsabilidade de "BROTTO, GROLLA CIA LTDA-ME" para com as respectivas concessionárias de serviços públicos.
+Daí, constata-se que "BROTTO, GROLLA CIA LTDA-ME", sequer faz parte desta lide.
+Ainda, a Recorrida não demonstra ter quitado tais débitos, a fim de sub-rogar no direito de receber os valores em questão.
+Ademais, o interesse de receber tais valores é das concessionárias que efetivamente prestaram os serviços e não da Locadora do imóvel.
+ ..
+Desta feita, pugna-se pela reforma do r. acordão, reconhecendo-se a ilegitimidade ativa da Recorrida para cobrar tais valores, declarando tais débitos de natureza propter person, pelas razões apresentadas, expurgando tal condenação dos valores pleiteados na exordial (fls. 1.012/ 1.013).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
