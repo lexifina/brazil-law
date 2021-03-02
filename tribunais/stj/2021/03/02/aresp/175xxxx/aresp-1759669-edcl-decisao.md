@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ERKAL ENGENHARIA LIMITADA em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Alega que a decisão embargada padece de omissão, na medida que o curso processual deveria ter sido suspenso até o julgamento dos recursos especiais que tratam do Tema n. 769 do STJ. Traz os seguintes argumentos:
+ ..  a e. Presidência do c. Superior Tribunal de Justiça proferiu a r. decisão monocrática embargada, em que conheceu do agravo em recurso especial para não conhecer do recurso especial.
+15. Contudo, verifica-se que a r. decisão monocrática embargada padece de omissão, eis que esta e. Presidência olvidou-se de que o c. Superior Tribunal de Justiça, em virtude da multiplicidade de recursos especiais com idêntica questão de direito, afetou a questão (Tema 769) relacionada à possibilidade penhora de faturamento de sociedade empresária em sede de execução, nos termos do art. 1.036 do CPC.
+16. Com efeito, diante da afetação da matéria, o c. Superior Tribunal de Justiça, nos moldes do art. 1.037, II, do CPC, determinou a suspensão de todos os processos pendentes no território nacional até o julgamento do recurso repetitivo (fl. 433).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recurso interposto sequer passou pelo juízo de admissibilidade recursal, de forma que não há falar em omissão da decisão recorrida por não ter sido suspenso o feito até julgamento do repetitivo.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
