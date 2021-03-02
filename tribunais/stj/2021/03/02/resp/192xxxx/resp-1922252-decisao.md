@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial de ADALBERTO APARECIDO RISSONIO e OUTROS, com fulcro nas alíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ fls. 252/253):
+POLICIAIS MILITARES. Quinquênios e sexta-parte sobre os vencimentos integrais de período anterior ao ajuizamento de mandado de segurança coletivo por associação de policiais militares.
+É fato notório que o Estado deixava de considerar para efeito dos adicionais temporais vantagens de natureza permanente como GAP, AOL, ALE e adicional de insalubridade e que os dos autores teriam dificuldade para reunir os elementos correspondentes, em relação ao período postulado, de 29-08-2003 a 28-08-2008, que a Administração terá melhores condições de apresentar, o que pode ser relegado para o momento da liquidação, cumprindo, por isso, afastar o fundamento adotado pela sentença para extinção do processo.
+Ação proposta por policiais militares inativos e da ativa.
+Ilegitimidade passiva de São Paulo Previdência, que não respondia pelos encargos das aposentadorias dos autores no período a que se refere a postulação, de 29-08-2003 a 28-08-2008.
+Não ocorrência do trânsito em julgado no mandado de segurança coletivo que não constitui óbice à demanda pelo período anterior ao seu ajuizamento. Não é caso de suspensão do processo porque haverá nova incursão no pedido e na causa de pedir, atendendo, ainda, à garantia de inafastabilidade da jurisdição.
+Ressalvado entendimento em contrário, adota-se a orientação fixada pelo Superior Tribunal de Justiça, pela interrupção da prescrição com o ajuizamento do mandado de segurança coletivo, voltando a fluir, pela metade, após o trânsito em julgado no referido processo.
+Legitimidade ativa. Repercussão geral que não abrange essa hipótese. Legitimidade extraordinária da associação no mandado de segurança coletivo. Não se exige autorização expressa dos associados, nem comprovação do momento da filiação e tampouco apresentação de rol dos associados. Toda a categoria é beneficiada.
+Matéria de fundo. Quinquênios e sexta parte. Incidência sobre todas as verbas não eventuais que integram a remuneração regular dos servidores e os proventos de aposentadoria.
+Cabimento. Regramento do artigo 129 da Constituição do Estado aplicável também aos servidores militares. Norma de superior hierarquia que prevalece sobre o dimensionamento mais restrito da Lei Complementar 731/1993.
+Adicional de Insalubridade e Adicional de Local de Exercício que integram a remuneração dos policiais militares em caráter regular e serão considerados para efeito dos quinquênios e da sexta-parte.
+Recomposição das correspondentes diferenças dos cinco anos anteriores ao ajuizamento do mandado de segurança coletivo.
+Para evitar repetição de embargos de declaração com objetivo de acesso aos tribunais superiores, são abordados os questionamentos que neles vêm sendo formulados.
+Recurso parcialmente provido para afastar a extinção do processo, mas extinguir, por ilegitimidade passiva, em relação a São Paulo Previdência, e julgar procedente a demanda somente em relação ao Estado.
+Os embargos de declaração opostos não foram conhecidos (e-STJ fls. 321/323).
+Nas suas razões, a parte recorrente aduz, além da divergência jurisprudencial, violação dos arts. 202 e 405 do CC/2002, sustentando que o termo inicial dos juros de mora deve ser a data da notificação da autoridade apontada como coatora no mandado de segurança que embasou esse ato (a notificação), porque é este o momento em que se constituiu em mora o devedor quanto ao pagamento dos efeitos patrimoniais vindicados (e-STJ fl. 282).
+Sem contrarrazões (e-STJ fls. 404).
+Passo a decidir.
+Inicialmente, cumpre destacar que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos dos requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feito o registro, verifico que o apelo nobre merece sucesso.
+No que tange ao apelo nobre interposto pelos particulares, melhor sorte socorre os recorrentes. A Corte de origem determinou a incidência de juros de mora "a contar da citação neste processo" (e-STJ fl. 266).
+Ocorre que é firme o entendimento desta Corte de que "o termo inicial dos juros de mora da ação de cobrança, lastreada no direito reconhecido na via mandamental, deve ser fixado na data da notificação da autoridade coatora no writ, pois é o momento em que, nos termos do art. 219 do CPC/1973, ocorre a interrupção do prazo prescricional e a constituição em mora do devedor" (REsp 1.692.635, Rel. Min. Napoleão Nunes Maia Filho, Dje de 11/04/2018). Na mesma esteira:
+PROCESSUAL CIVIL. TERMO INICIAL. JUROS DE MORA. MANDADO DE SEGURANÇA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA CORRETAMENTE. FALTA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+ ..
+3. O Tribunal de origem decidiu, em consonância com o entendimento dominante no STJ, que o "termo inicial para a incidência dos juros de mora deverá ser a data da notificação da autoridade coatora no mandado de segurança coletivo", porque é neste momento que o devedor é constituído em mora. Precedente: REsp 1.151.873/MS, Rel. Ministra Laurita Vaz, Quinta Turma, DJe 23/3/2012. 4. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1.709.100/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 18/06/2019)
+Cito, ainda, as seguintes decisões monocráticas proferidas em feitossemelhantes: REsp 1.817.220/SP, Relatora Ministra REGINA HELENA COSTA, DJe de 28/06/2019, e REsp 1.817.834/SP, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 06/08/2019.
+Assim, considerando que o acórdão da Corte a quo encontra-se em dissonância com o posicionamento do Superior Tribunal de Justiça, merece amparo a pretensão formulada.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao apelo nobre para fixar como termo inicial dos juros de mora a data da notificação da autoridade apontada como coatora no mandado de segurança coletivo.
+Publique-se. Intimem-se.
