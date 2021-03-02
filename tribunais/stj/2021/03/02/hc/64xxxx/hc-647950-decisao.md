@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido de liminar,impetrado em favor de SILAS LUIZ DA SILVAcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1500284-35.2019.8.26.0626).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 5 anos de reclusão, em regime inicial fechado, e 500 dias-multa, pela prática do crime previsto no art. 33,caput, da Lei n. 11.343/2006, incidente a minorante constante do§ 4º do mesmo artigo(e-STJ fls. 16/32).
+Irresignadas, as partes interpuseram recursos de apelação, os quais foram parcialmente providos para exasperar a pena-base em menor extensão e afastar o redutor previsto no§ 4º do art. 33 da Lei n. 11.343/2006, razão pela qual a pena do paciente foi redimensionada para 5 anos e 10 meses de reclusão e 583 dias-multa, mantidos os demais termos da condenação(e-STJ fls. 33/51). Segue a ementa do acórdão:
+Apelação. Tráfico de drogas. Associação para o tráfico. Art. 33, caput e § 4º, da Lei nº 11.343/06. Recursos dos réus e do Parquet. Autoria e materialidade devidamente comprovadas para ambos os acusados. Associação para o tráfico não comprovada de forma cabal. Pena-base exasperada em demasia. Possibilidade de aplicação da fração de 1/6. Redutor do art. 33, § 4º, da Lei Antidrogas afastado. Regime inicial fechado de rigor. Perdimento de bens mantido. Pleito de revogação da prisão preventiva. Impossibilidade. Requisitos mantidos. Recursos parcialmente providos.
+O recurso especial interposto pela defesa não foi admitido na origem (e-STJ fls. 63/64).
+No presentemandamus(e-STJ fls. 3/15),o impetrante sustenta que o acórdão impugnado impôs constrangimento ilegal ao paciente, pois afastou oredutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, embora ele preencha os requisitos legais para a incidência do benefício. Aduz que ele é primário, possui bons antecedentes e inexiste prova de que integra organização criminosa ou se dedique a atividades criminosas, com destaque para o fato de ter sido absolvido pelo crime de associação para o tráfico. Também aponta indevido bis in idem na utilização da quantidade e natureza das drogas apreendidas para exasperar a pena-base e para afastar a minorante.
+Ao final, liminarmente e no mérito, pede a concessão da ordem para que a pena do paciente seja reduzida.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não é possível dar seguimento ao presentewrit.
+Com efeito, esta Corte já se manifestou acerca doregular afastamento do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006 no HC n. 613.877/SP, o qual fundou-se em vários aspectos, anteriormente examinados, que transcendem a mera quantidade e natureza das drogas apreendidas, de forma que o apontadobis in idemrevela deficiência de fundamentação.
+Nesse contexto,trata-se de mera reiteração de insurgênciajá submetidaao exame desta Corte, revelando-se incabível nova impetração, na esteira do disposto no art. 210 do Regimento Interno do STJ,in verbis(grifei):Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou forreiteraçãode outro com os mesmos fundamentos, o relator oindeferirá liminarmente.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO PELO CONCURSO DE PESSOAS, MOTIVO FÚTIL E EMPREGO DE MEIO CRUEL. PRONÚNCIA. NULIDADES PROCESSUAIS. MATÉRIA NÃO EXAMINADA NO ACÓRDÃO TIDO POR COATOR. SUPRESSÃO DE INSTÂNCIA.
+1. Nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, o relator indeferirá liminarmente o habeas corpus quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos.
+ ..
+4. Agravo regimental desprovido.(AgRg no HC n. 517.821/SP, Quinta Turma, DJe 4/9/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+II - "Inexistindo fato superveniente, é incabível a impetração de habeas corpus com objeto idêntico a outro feito anteriormente examinado no âmbito desta Corte" (AgRg no HC n. 478.216/RJ, Quinta Turma, Relator Ministro RIBEIRO DANTAS, DJe 19/02/2019).
+III - In casu, a Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada. Agravo regimental desprovido.(AgRg no HC n. 509.639/SP, Relator Ministro FELIX FISCHER, Quinta Turma, DJe 4/6/2019)
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Traslade-se, para estes autos, cópia da decisão monocrática e inteiro teor do acórdão proferidono HC n. 613.877/SP.
+Intimem-se.
