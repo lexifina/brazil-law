@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por incidência da Súmula 7/STJ e ausência de ofensa aos artigos ditos violados.
+O acórdão foi assim ementado (fls. 447- 457,e-STJ):
+TRIBUTÁRIO - ICMS - AÇÃO ANULATÓRIA - PROGRAMA ESPECIAL DE PARCELAMENTO (PEP) - Demanda proposta contra a adoção dos juros da Lei Estadual 13.918/2009 - Sentença de procedência que afasta a incidência de taxa de juros superiores à SELIC - Manutenção - Adesão ao PEP que não inibe o questionamento judicial da obrigação tributária, no que se refere aos seus aspectos jurídicos - Jurisprudência do STJ - Apelação desprovida.
+Os Embargos de Declaração, visando à nulidade das Intimações por descumprimento do art. 272, §§ 2º e 5º, do CPC, foram desacolhidos (fls. 529-535, e-STJ).
+No REsp, a agravante afirma que houve, além de divergência jurisprudencial, ofensa aos §§2º e 5º do art. 272 do CPC. Sustenta que "a circunstância de ter havido publicações anteriormente viciadas, em nome de advogado diverso do requerido pela parte para constar das Intimações, não implica renúncia tácita ao requerimento".
+Contrarrazões às fls. 539-571, e-STJ.
+A agravante reclama que o genérico juízo de admissibilidade teria usurpado a competência do STJ. Afirma que a matéria é exclusivamente de direito, afastando a incidência da Súmula 7/STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14 de janeiro de 2021.
+O Tribunal a quo consignou (fls. 530-532, e-STJ):
+A embargante requer preliminarmente o reconhecimento da nulidade das intimações certificadas às fls. 437/438 que, respectivamente, destinavam-se a dar à peticionária e seus patronos ciência do teor da r. sentença de fls. 416/419 e do recurso de apelação interposto pela Fazenda Estadual às fls. 422/434. Argumenta que, em desconformidade com o disposto nos §§ 2o e 5o, do art. 272, do CPC, ambas as intimações foram realizadas unicamente em nome do advogado Paulo H. Patrezze Rodrigues quando, em verdade, deveriam ser direcionadas exclusivamente ao patrono Fernando Corrêa da Silva, conforme requerimento expressamente formulado às fls. 19 e ressalva, também expressamente realizada, no instrumento de fls. 30, que substabeleceu poderes aos demais advogados que atuam na causa.
+(..)
+Inicialmente, cumpre salientar não haver que se falar em nulidade das intimações realizadas por terem sido efetuadas em nome de advogado diverso do escritório do peticionante, mesmo sabendo-se da existência de requerimento expresso de intimações exclusivamente em nome do advogado Fernando Corrêa da Silva.
+Fato é que, apesar da ressalva feita logo no início do processo, todas as intimações foram realizadas em nome de Paulo Henrique Patrezze Rodrigues, tendo sido devidamente respondidas (manifestação sobre a contestação e especificação de provas), de forma que se convalidaram as publicações em nome deste advogado do mesmo escritório.
+No caso dos autos, os Embargos de Declaração foram utilizados indevidamente com pretensão de rever matéria preclusa, e não como instrumento hábil a corrigir eventuais vícios processuais. A questão não foi impugnada a tempo e modo oportunos pelo embargante.
+Nos termos da jurisprudência desta Corte, a nulidade de intimação deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão. Veja-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 245 DO CPC/1973. PEDIDO DE INTIMAÇÃO EXCLUSIVA. INTIMAÇÕES REALIZADAS ANTERIORMENTE EM NOME DE ADVOGADO DIVERSO. NULIDADE RELATIVA NÃO APONTADA NA PRIMEIRA OPORTUNIDADE EM QUE SE MANIFESTOU NOS AUTOS. PRECLUSÃO.
+1. Esta Corte de Justiça possui o entendimento firmado de que é nula a intimação quando não observado o pedido expresso de publicação exclusiva em nome de advogado específico.
+2. Tal nulidade relativa deve ser arguida na primeira oportunidade que houver para se manifestar nos autos, o que não ocorreu no caso dos autos.
+3. Conforme dispõe o art. 245 do CPC/1973, não tendo a recorrente suscitado a indigitada nulidade na primeira oportunidade que teve para se manifestar nos autos, tem-se operada a preclusão.
+4. Recurso especial a que se nega provimento. (REsp 1.503.084/CE, Rel. Min. Og Fernandes, Segunda Turma, DJe 26.2.2018)
+(..) Incabível o acolhimento da nulidade por ausência de intimação do causídico cujo nome foi consignado na peça de defesa como destinatário das publicações, se durante todo o curso processual as intimações foram realizadas em nome de advogados integrantes do mesmo escritório, e a irregularidade somente é aduzida no agravo em recurso especial, quando já consumada a preclusão ditada pelo art. 245 do CPC. Precedentes: Pet 9.971/DF, Rel. Min. Nancy Andrighi, Terceira Turma, julgado em 17.12.2013, DJe 3.2.2014; AgRg nos EDcl no AREsp 208.298/AM, Rel. Min. Humberto Martins, Segunda Turma, julgado em 16.5.2013, DJe 24.5.2013.
+É inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido de que "apesar da ressalva feita logo no início do processo, todas as intimações foram realizadas em nome de Paulo Henrique Patrezze Rodrigues, tendo sido devidamente respondidas (manifestação sobre a contestação e especificação de provas), de forma que se convalidaram as publicações em nome deste advogado do mesmo escritório". Aplica-se o óbice da Súmula 7/STJ.
+Sem motivos para afastar o sucinto juízo prelibatórioque não admitiu o Recurso Especial por incidência da Súmula 7/STJ e ausência de ofensa aos artigos ditos violados.
+Por tudo isso, não conheço do Agravo em Recurso Especial. Condeno a parte recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre a verba sucumbencial fixada na origem, observando-se eventual concessão do benefício da Justiça Gratuita deferida nos autos.
+Publique-se.
+Intimem-se.
