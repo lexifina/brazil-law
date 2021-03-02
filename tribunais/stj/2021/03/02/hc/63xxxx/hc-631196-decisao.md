@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de EDIELTON FLORES DE JESUS, apontando-se como autoridade coatora o Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Consta dos autos que o paciente foi condenado à pena de 4 anos de reclusão, em regime inicial aberto, e 10 dias-multa, pela prática do delito previsto no artigo 157, caput, do Código Penal.
+Interposto recurso de apelação pela defesa, o TJMG negou provimento ao apelo, nos termos da seguinte ementa:
+"EMENTA - APELAÇÃO CRIMINAL - ROUBO SIMPLES - PRELIMINAR DE NULIDADE POR CERCEAMENTO DE DEFESA -NÃO ACOLHIMENTO - TESTEMUNHA INDICADA A DESTEMPO - PRECLUSÃO E AUSÊNCIA DE PREJUÍZO -PREFACIAL REJEITADA.
+I - Inexiste cerceamento de defesa em razão de indeferimento de oitiva de testemunha não arrolada na resposta à acusação, sobretudo quando sua contribuição seria irrelevante para a apuração da realidade dos fatos.
+MÉRITO - ABSOLVIÇÃO - IMPOSSIBILIDADE - CONJUNTO PROBATÓRIO SEGURO - CONDENAÇÃO MANTIDA - RECURSO IMPROVIDO.
+II - Não há falar em absolvição quando presente nos autos provas suficientes a embasar o édito condenatório, quais sejam, a materialidade e a autoria, através de declarações da vítima corroboradas por harmônicos depoimentos de policiais e de testemunhas.
+III - Recurso improvido." (e-STJ, fl. 205)
+Nesta instância, a defesa sustenta, em síntese, nulidade do processo por cerceamento de defesa em virtude da decisão que indeferiu o pedido de inquirição de nova testemunha, não constante no rol inicial apresentado. Assevera a imprescindibilidade da testemunhapois "(ela)tem conhecimento de que a suposta vítima realizou programa de cunho sexual com ele (réu)." (e-STJ, fl. 5).
+Requer, liminarmente e no mérito, a concessão da ordem para que seja decretada a nulidade da sentença condenatória, com a reabertura da instrução criminal para inquirição da testemunha requerida pelo réu.
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal ofertou parecer pelo não conhecimento do habeas corpusou pela sua denegação.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sobre a controvérsia, asseverou o Tribunal de Justiça:
+"Inicialmente em relação a preliminar de nulidade, sustenta o apelante a ocorrência de cerceamento de defesa por não ter sido ouvida a testemunha Erlane Ferreira, que seria imprescindível à elucidação dos fatos.
+Sem razão, entrementes.
+Como é cediço, o momento oportuno para relacionar as testemunhas que serão ouvidas em juízo é o da resposta à acusação, conforme estabelece o art. 396-Ado Código de Processo Penal, verbis:
+Art. 396-A. Na resposta, o acusado poderá argüir preliminares e alegar tudo o que interesse à sua defesa, oferecer documentos e justificações, especificar as provas pretendidas e arrolar testemunhas, qualificando-as e requerendo sua intimação, quando necessário.
+ ..
+No caso dos autos, depreende-se da peça de defesa oferecida pelo apelante (p. 56-57) que dita testemunha não foi oportunamente arrolada, eis que requerida a oitiva das mesmas pessoas indicadas pelo Ministério Público Estadual.
+Ademais, a suposta nulidade deixou de ser arguida nas alegações finais e não foram declinadas razões que pudessem denotar a imprescindibilidade da oitiva da referida testemunha, pois somente há indicação no interrogatório judicial que tal pessoa possui conhecimento que o apelante e a vítima realizaram "programas sexuais", circunstância que, mesmo se correspondesse à verdade, não impediria a condenação pelo crime de roubo.
+Diante, portanto, da preclusão e da ausência de prejuízo, afasto a preliminar de nulidade." (e-STJ, fls. 206-208, grifou-se)
+Com efeito, a jurisprudência desta Corte é firme no sentido de que o rol de testemunhas deve ser apresentado pela defesa na resposta à acusação, sob pena de preclusão, nos termos do art. 396-A do Código de Processo Penal.
+A respeito: "Em respeito à ordem dos atos processuais, não configura cerceamento de defesa o indeferimento do pedido extemporâneo de substituição de testemunha, mesmo que o acusado venha a constituir outro patrono após a apresentação da defesa prévia." (AgRg no RHC 105.683/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/06/2019, DJe 14/06/2019).
+No mesmo sentido: "Na proposição de prova oral, prevê o Código de Processo Penal que o rol de testemunhas deve ser apresentado, sob pena de preclusão, na própria denúncia, para o Ministério Público, e na resposta à acusação, para a defesa. No caso vertente, não há ilegalidade na desconsideração do rol de testemunhas da defesa, apresentado fora do prazo legalmente estabelecido, ante a preclusão temporal desta faculdade processual." (HC n. 202.928/PR, Relator p/ Acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 08/09/2014).
+Na hipótese, conforme assentado pelas instâncias ordinárias, a inquirição da referidatestemunha, além de intempestivamente requerida, era desnecessária, porquanto não demonstrada sua imprescindibilidade pela defesa.Entendeu o Tribunal de Justiça que a comprovação ou não de suposto serviço sexual entre o réu e a vítima não seria suficiente para afastar a prática do roubo perpetrada.
+Imperioso ressaltar que, para uma melhor aferição acerca da concreta indispensabilidade da prova requerida - que, destaque-se, não indica ser o caso - seria necessário uma profunda incursão em todo o acervo fático-probatório dos autos, providência incompatível com a via eleita.
+Nesse mesmo sentido, cito:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO DA VIA ELEITA. CRIME DE RECEPTAÇÃO SIMPLES. INDEFERIMENTO DA OITIVA DE TESTEMUNHA ESTRANGEIRA POR MEIO DE CARTA ROGATÓRIA. ART. 222-A DO CPP. DECISÃO DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE DEMONSTRAÇÃO DA IMPRESCINDIBILIDADE DA MEDIDA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício. Precedentes: STF, STF, HC 147.210-AgR, Rel. Ministro EDSON FACHIN, DJe de 20/2/2020; HC 180.365AgR, Relatora Ministra ROSA WEBER, DJe de 27/3/2020; HC 170.180-AgR, Relatora Ministra CARMEM LÚCIA, DJe de 3/6/2020; HC 169174-AgR, Relatora Ministra ROSA WEBER, DJe de 11/11/2019; HC 172.308-AgR, Rel. Ministro LUIZ FUX, DJe de 17/9/2019 e HC 174184-AgRg, Rel. Ministro LUIZ FUX, DJe de 25/10/2019. STJ: HC 563.063-SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/6/2020; HC 323.409/RJ, Rel. p/ acórdão Ministro FÉLIX FISCHER, Terceira Seção, julgado em 28/2/2018, DJe de 8/3/2018; HC 381.248/MG, Rel. p/ acórdão Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção , julgado em 22/2/2018, DJe de 3/4/2018.
+2. Consoante o disposto no art. 222-A do Código de Processo Penal, "As cartas rogatórias só serão expedidas se demonstrada previamente a sua imprescindibilidade, arcando a parte requerente com os custos de envio.
+3. Estando fundamentada a negativa de oitiva das testemunhas residentes no exterior e não demonstrada a imprescindibilidade da prova, como determina o art. 222-A do CPP, é afastada a alegação de cerceamento de defesa e violação ao princípio do contraditório (RHC 42.954/PE, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 20/10/2016, DJe de 11/11/2016).
+4. Na hipótese, o indeferimento da oitiva da testemunha de nacionalidade argentina, por meio de carta rogatória, foi devidamente justificado pelas instâncias ordinárias, notadamente acerca da imprescindibilidade da medida para o deslinde do feito, em cotejo com os demais elementos probatórios dos autos.
+5. Para se concluir sobre a imprescindibilidade da oitiva de testemunha estrangeira, apta a comprovar a inocência do acusado, conforme pretende a defesa, seria necessário o revolvimento de matéria fático-probatória, providência incompatível com a via eleita.
+6. Habeas corpus não conhecido."
+(HC 614.507/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/10/2020, DJe 20/10/2020, grifou-se).
+Por fim, acerca do precedente de minha relatoria colacionado pela impetrante (e-STJ, fl. 9), no sentido da possibilidade de inquirição de testemunhas arroladas extemporaneamente pela acusação para que seja efetivada a busca pela verdade, verifique-se que aquele caso dizia respeito ao disposto no artigo 209 do CPP, tendo sido ouvida a pessoa na qualidade de testemunha do Juízo, hipótese distinta da presente.
+Desse modo, não se verifica ilegalidade apta a justificar a concessão da ordem por esta Corte.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
