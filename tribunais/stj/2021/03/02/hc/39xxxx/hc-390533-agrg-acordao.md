@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Felix Fischer votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+AGRAVO REGIMENTAL NO PEDIDO DE EXTENSÃO NOHABEAS CORPUS. CRIME DE LAVAGEM DE DINHEIRO. EXCLUSÃO DE CAUSA DE AUMENTO DE PENA. ART. 1º, § 4º, DA LEI N. 9.613/1998. EXTENSÃO DEFERIDA. ART. 580 DO CPP. DECISÃO REFORMADA.
+1.A extensão da decisão proferida em benefício de corréufica condicionada à identidade das situações fático-processuais e à inexistência de circunstância de caráter eminentemente pessoal, nos termos do art. 580 do CPP.
+2. Defere-se pedido de extensão para excluir a causa de aumento de pena prevista no § 4ºdo art. 1ºda Lei n. 9.613/1998 quandosão idênticas as situações fático-processuais de corréus.
+3. Agravo regimental provido.
+RELATÓRIO
+JULIANA MACHADO OLIVEIRA MARTINS interpõe agravo regimental contra a decisão de fls. 2.696-2.697, que não conheceu dopedido de extensão de fls. 2.684-2.687 porquantonão foram juntadas aos autos peças processuais indispensáveis àapreciação do pleito.
+Alega aagravanteque houve equívoco da defesa, que, ao tomarconhecimento da decisão, providenciou a juntada dos documentos a fim de que fosse sanado o vício eanalisado o pleito, conforme petição protocolizada em 29/6/2020.
+Defende ser possível e necessária sua intimação para sanar mencionado vício, nos termos dos arts. 932, parágrafo único, e 1.029, § 3º, do novo Código de Processo Civil.
+Afirma que faz jus ao deferimento do pedido extensivo, visto que éa única ré do processo penal sobre a qualainda recai, ilegalmente, a causa de aumento prevista no § 4ºdo art. 1ºda Lei n. 9.613/1998, pois, em relação a todos osoutros acusados,já foram deferidos ospedidos.
+Aduz ainda(fls. 3.017-3.018):
+Como explanado no pedido extensivo, o il. Magistrado de 1º grau, tanto no caso da Agravante como no do Sr. José Vanderlei (HC 390.533) feriu o princípio da correlação entre denúncia e sentença, pois ao proferir o édito condenatório aumentou a pena dos acusados com base em fatos não aventados pela r. exordial acusatória (doc. anexo).
+Em razão disso, foi impetrado habeas corpus em favor do corréu JOSÉ VANDERLEI LOMBARDI, distribuído sob o nº 390.533, sendo concedida ordem de ofício para afastar do cálculo da pena a causa especial de aumento prevista no § 4º, artigo 1º, da Lei 9613/1998, por entender que não houve pedido expresso do parquet federal para seu reconhecimento.
+Salienta-se que foram feitas referências às decisões favoráveis proferidas nos autos do AgRg no HC 263.196/SP, de vossa relatoria, julgado em 24/11/2015 (corréu José Antônio Martins), e na PExt no HC 263.196/SP, julgada em 23/05/2017 (corré Camila Fonseca Martins), as quais excluíram a causa de aumento constante do § 4º do artigo 1º da Lei 9.613/98, diante da cristalina violação do princípio da correlação.
+Argumentaque o princípio da correlação entre a denúncia e a sentença, por não ser motivo de caráter pessoal, justifica o pedido extensivo, conforme o disposto no art. 580 do Código de Processo Penal.
+Requero conhecimento e provimento deste recurso para que lhe sejam estendidos os efeitos pleiteados, excluindo-se a causa de aumento prevista no § 4ºdo art. 1ºda Lei n. 9.613/1998.
+O Ministério Público Federal opina pelo indeferimento do pedido, ratificando o posicionamento deausência de peças indispensáveis à análise do postulado (fls. 3.337-3.340).
+Às fls. 3.344-3.346, a agravante informa que, ante o trânsito em julgado da demanda, encontra-se na iminência de ver tolhida sua liberdade, razão de requerer preferência no julgamento.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO PEDIDO DE EXTENSÃO NOHABEAS CORPUS. CRIME DE LAVAGEM DE DINHEIRO. EXCLUSÃO DE CAUSA DE AUMENTO DE PENA. ART. 1º, § 4º, DA LEI N. 9.613/1998. EXTENSÃO DEFERIDA. ART. 580 DO CPP. DECISÃO REFORMADA.
+1.A extensão da decisão proferida em benefício de corréufica condicionada à identidade das situações fático-processuais e à inexistência de circunstância de caráter eminentemente pessoal, nos termos do art. 580 do CPP.
+2. Defere-se pedido de extensão para excluir a causa de aumento de pena prevista no § 4ºdo art. 1ºda Lei n. 9.613/1998 quandosão idênticas as situações fático-processuais de corréus.
+3. Agravo regimental provido.
+VOTO
+O recurso reúne condições de êxito.
+De antemão, em atenção aos princípios da economia e da celeridade processuais, é cabível acatar ajuntada depeçastidas como essenciais àapreciação do pleito.
+Da análise das peças destesautos, verifica-se a existência de denúncia contra a agravante e de outros réus, inclusive o paciente deste writ,JoséVanderleiLombardi Silva, pela prática do crime de lavagem de dinheiro, previsto no art. 1º da Lei n. 9.613/1998 (fls. 83-154).
+Os autos dopaciente foram desmembrados do Processo n. 0011440-88.2006.4.03.6102devido àsua citação ficta e aodecreto de revelia, tendo sido condenado em 29/5/2015, em sentença da lavra do Juiz Federal Augusto Martinez Perez, que assim dispôs quanto à causa de aumento dapena (fls. 2.032-2.033, destaquei):
+ ..
+Tais circunstâncias recomendam a fixação da pena acima do mínimo legal em 04 (quatro) anos de reclusão e 60 (sessenta) dias-multa, na proporção de 1/30 (um trinta avos) do salário mínimo cada.
+Ausentes circunstâncias agravantes e atenuantes, verifico estar presente a causa especial de aumento de pena prevista no artigo 1º, § 4º, da Lei nº 9.613 de 1998, quanto aos crimes previstos nos incisos V e VI do mesmo diploma legal.
+Com efeito, os crimes contra a Administração Pública (V) e o Sistema Financeiro Nacional (VI) que antecederam a "lavagem" aqui tratada foram praticados de forma habitual e por intermédio de uma organização criminosa capitaneada por José Antônio Martins.
+Houve requerimento expresso para a aplicação dessa causa especial de aumento de pena, e a prática dos crimes por intermédio de uma organização criminosa foi satisfatoriamente abordada durante a instrução e nas alegações derradeiras. O réu se defende de fatos e não de sua capitulação jurídica, vigendo na processualística brasileira o princípio jura novit cúria.
+Assim, aumento sua pena na proporção de 1/3, perfazendo o total de 5 (cinco) anos e 4 (quatro) meses de reclusão e 80 (oitenta) dias-multa, na proporção de 1/30 do salário mínimo cada.
+Ausentes outras causas especiais de aumento ou diminuição, torno a pena definitiva em 5 (cinco) anos e 4 (quatro) meses de reclusão e 80 (oitenta) dias -multa, no valor unitário de um trinta avos (1/30) do salário mínimo, por violação ao artigo 1º, incisos V, VI e VII, c.c. o § 4º, da lei n. 9.613/1998.
+O Tribunal impetradomanteve a aplicação da majoranteprevista no§ 4ºdo art. 1ºda Lei n. 9.613/1998.
+No julgamento deste writ, em decisão monocrática de fls. 2.526-2.560, oMinistro Jorge Mussidecidiu pela exclusão dareferida causa de aumento de penanestes termos(fl. 2.555, destaquei):
+A Corte Federal manteve o aumento procedido, consignando que "não há nulidade pelo fato de o Juízo a quo ter considerado a causa especial de aumento do § 4º do art. 1º da Lei n. 9.613/98, porque a prática reiterada do crime de lavagem decorrente da constituição de várias empresas no exterior, que praticaram vários negócios jurídicos simulados, com finalidades diversas, a saber, promover a blindagem de patrimônio ilicitamente adquirido e justificar a remessa de valores espúrios do e para o estrangeiro está suficientemente descrita na denúncia e por si só justifica a aplicação dessa majorante" (e-STJ fl. 2196).
+Frisou que "o réu defende-se dos fatos e não da sua capitulação jurídica", acrescentando que se tratam "de elementos relacionados diretamente com a atuação do apelante e apurados no decorrer da instrução criminal, na qual foi assegurada a ampla defesa" (e-STJ fl. 2196).
+Verifica-se, portanto, que a causa especial de aumento prevista no § 4º do artigo 1º da Lei 9.613/1998 foi aplicada e mantida sem que houvesse pedido expresso do órgão acusatório na peça vestibular, devendo, portanto, ser decotada do cálculo da pena, que fica definitivamente fixada em 4 (quatro) anos de reclusão e pagamento de 13 (treze) dias-multa.
+Por sua vez, a agravante foi condenadaem 2/10/2013, em sentença de lavra do Juiz Federal Augusto Martinez Perez, da qual constaa causa de aumento nestes termos (fls. 2.952-2.954, destaquei):
+Juliana Machado Oliveira Martins é tecnicamente primária, não ostentando antecedentes criminais.
+Todavia, ao lado de seu marido, o co-réu José Antônio Martins, ocupava posição estratégica na prática da "lavagem" de dinheiro, posto que participava ativamente da constituição de empresas "fantasma", emprestava suas contas bancáriaspara a movimentação de dinheiro proveniente dos ilícitos cometidos. De forma livre e consciente gerenciava empresa cuja venda foi simulada, para permitir o branqueamento de valores ilicitamente obtidos, tudoa demonstrar desvio de caráter e desrespeito às Instituições.
+Tais circunstâncias recomendam a fixação da pena acima do mínimo legal em 04 (quatro) anos de reclusão e 60 (sessenta) dias-multa, na proporção de 1/3 (um terço) do salário mínimo cada.
+Ausentes circunstâncias agravantes e atenuantes, verifico estar presente a causa especial de aumento de pena prevista no artigo 1º, § 4º, da Lei no 9.613 de 1998, quanto aos crimes previstos nos incisos V e VI do mesmo diploma legal.
+Com efeito, os crimes contra a Administração Pública (V) e o Sistema Financeiro Nacional (VI) que antecederam a "lavagem" aqui tratada foram praticados de forma habitual e por intermédio de uma organização criminosa capitaneada por José Antônio Martins.
+Ainda que não haja requerimento expresso para a aplicação dessa causa especial de aumento de pena, a prática dos crimes por intermédio de uma organização criminosa foi satisfatoriamente abordada durante a persecução, inexistindoqualquer prejuízo à amplitude de defesa. O réu se defende de fatos e não de sua capitulação jurídica, vigendo na processualística brasileira o princípio jura novit curia.
+Assim, aumento sua pena na proporção de 1/3, perfazendo o total de 5 (cinco) anos e 4 (quatro) meses de reclusão e 80 (oitenta) dias-multa, na proporção de 1/3 do salário mínimo cada. Ausentes outras causas especiais de aumento ou diminuição, torno a pena definitiva em 5 (cinco) anos e 4 (quatro) meses de reclusão e 80 (oitenta) dias-multa, no valor unitário de um terço do salário mínimo, por violação ao artigo 1 0 , incisos V, VI e VII, c.c. o §4 0 , da lei n. 9.613/1998.
+Na fixação do dia-multa, levei em conta a situação econômica da ré, que demonstrou ter patrimônio compatível com o valor fixado.
+A pena corporal será cumprida inicialmente em regime semi-aberto, na forma do art. 33, Código Penal.
+O decisum foi mantido pelo Tribunal de origem (fls. 2.987-3.008).
+Daí o pedido de extensão com amparo no art. 580 do Código de Processo Penal, buscando a agravante seja excluída de sua pena a mencionada majorante.
+A extensão da decisão proferida em benefício de um dos corréus fica condicionada à identidade das situações fático-processuais e à inexistência de circunstância de caráter eminentemente pessoal, nos termos do art. 580 do CPP.
+Nesse sentido:
+PEDIDO DE EXTENSÃO NO RECURSO EM HABEAS CORPUS. INTERCEPTAÇÃO TELEFÔNICA. NULIDADE. MEDIDA AUTORIZADA COM BASE EM FUNDAMENTOS GENÉRICOS. IMPRESCINDIBILIDADE DO MONITORAMENTO NÃO DEMONSTRADA.IDENTIDADE DE SITUAÇÕES. ART. 580 DO CPP. PLEITO DEFERIDO.
+1. Preconiza o art. 580 do Código de Processo Penal que, "no caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+2. Na espécie, mostra-se imperioso o acolhimento do pleito formulado, tendo em vista a identidade de situações entre o recorrente e o ora requerente, não existindo circunstâncias de natureza pessoal que obstem o deferimento do pedido.
+3. Pedido de extensão deferido a fim de declarar nulas as interceptações telefônicas que recaíram sobre o requerente A C M DE P, bem como para absolver o requerente dos crimes descritos no art.3º, inciso III, da Lei n. 8.137/1990.(PExt no RHC n. 99.411/RJ, relatorMinistro Antonio Saldanha Palheiro, Sexta Turma,DJe de 4/9/2020.)
+No caso dos autos, não obstante as sentenças tenham sido proferidas em momentos diversos, o prolator das decisões foi o mesmo julgador, utilizando-se dos mesmos fundamentos para manter o aumento de pena constante do§ 4ºdo art. 1ºda Lei n. 9.613/1998. Aliás, no caso da ora agravante, o próprio juiz já constatara não ter havido requerimento expresso do órgão ministerial para a aplicação da causa de aumento de pena, não havendo fundamentação diversa a justificar sua incidência, conforme trecho acima transcrito.
+Portanto, são idênticas as situações fático-processuais de JOSÉ VANDERLEI LOMBARDI SILVA e de JULIANA MACHADO OLIVEIRA MARTINS, não havendo circunstância exclusivamente pessoal que justifique afastar a incidência da regra do art. 580 do Código de Processo Penal.
+Ademais, conforme informou a agravante, referida causa de aumento de pena também já foi excluída das condenações dos réus José Antônio Martins e Camila Fonseca Martins nos autos do HC n. 263.196/SP, em julgados da Quinta Turma darelatoria do Ministro Jorge Mussi.
+Assim, excluída a causa de aumento de pena do§ 4ºdo art. 1ºda Lei n. 9.613/1998, fica a pena definitiva fixada em 4 anos de reclusão e em 60 dias-multana proporção de 1/3 do salário mínimo cada.
+Ante o exposto, dou provimento ao agravo regimental para acolher o pedido de extensão em favor da agravante e excluir a causa de aumento de pena,na forma acima exposta.
+É o voto.
