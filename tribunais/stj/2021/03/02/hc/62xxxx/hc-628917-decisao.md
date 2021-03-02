@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de JENNIFER NATALIA PEDRO, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o d. juízo de primeiro grau decretou a prisão preventiva da paciente, que foi posteriormente denunciada pela prática dos crimes previstos no artigo 121, § 2º, inciso IV, e § 4º, última parte (homicídio qualificado pelo recurso que dificultou a defesa da vítima, com causa de aumento em razão de a vítima ser menor de 14 anos), c/c artigo 13, § 2º, alínea "a" (omissão penalmente relevante por não observância do dever de agir de quem tem por lei obrigação de cuidado, proteção ou vigilância); e no artigo 211 (ocultação de cadáver), todos c/c artigo 61, inciso II, alínea "e" (agravante em virtude de crime cometido contra descendente), e no artigo 340 (comunicação falsa de crime), todos do Código Penal, em concurso material de crimes.
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a rejeição parcial da denúncia e a nulidade processual a partir da defesa prévia. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"Habeas Carpis  Júri  Homicídio qualificado  Pleitos de rejeição da denúncia, afastamento da qualificadora e de suspensão ou anulação do feito  Denúncia que preenche os requisitos do art. 41 do Código de Processo Penal  Incompatibilidade da qualificadora com o dolo eventual  Circunstâncias que demandam a análise de provas, impossível de ser feito por meio do remédio constitucional. Ordem denegada" (fl. 1.101).
+Neste writ, a defesa sustenta ausência de fundamentação da decisão que recebeu a exordial acusatória e de apreciação de teses defensivas.
+Aduz, ainda, excesso de acusação, diante da incompatibilidade do dolo eventual com a qualificadora do recurso que dificultou a defesa da vítima, destacando, para tanto, que "Estamos diante de uma qualificadora incompatível com o dolo eventual, notadamente em um crime omissivo, em que não houve uma ação. Se a paciente, de acordo com a acusação, faltou com o dever de cuidado, deixando de fazer o que dela se esperava, não empregou nenhum recurso, mas ainda assim o parquet acrescentou a mencionada qualificadora na acusação" (fls. 9-10).
+Pugna pela concessão da ordem para anular o processo a partir da juntada da resposta à acusação e pela exclusão da qualificadora do art. 121, § 2º, IV, do CP (recurso que dificultou a defesa da vítima).
+A liminar foi indeferida às fls. 1.1.13-1.114.
+As informações foram prestadas às fls. 1.118-1.122.
+O Ministério Público Federal, às fls. 1.126-1.129, manifestou-se pela denegação da ordem, em parecer assim ementado:
+"PROCESSUAL PENAL. HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. RECEBIMENTO DA DENÚNCIA. DECISÃO FUNDAMENTADA. DECOTE DA QUALIFICADORA. JUÍZO DE ADMISSIBILIDADE. COMPETÊNCIA DO TRIBUNAL DO JÚRI PARA ANÁLISE DAS QUALIFICADORAS. EXCLUSÃO APENAS DAS MANIFESTAMENTE IMPROCEDENTES. PRECEDENTES DO STJ. PARECER PELA DENEGAÇÃO DA ORDEM" (fl. 1.12)6).
+É o relatório.
+Decido.
+O habeas corpus padece de prejudicialidade.
+Consoante informações disponíveis no sítio eletrônico do eg. Tribunal de Justiça do Estado de São Paulo, nos autos da Ação Penal n. 1500208-69.2020.8.26.0272, em 24/2/2021, foi julgada extinta a punibilidade, nos termos do art. 107, I, do CP, em razão do falecimento da agravante no ambiente prisional, in verbis:
+"Diante da ocorrência do falecimento de JENNIFER NATALIA PEDRO (fl. 1445),JULGO EXTINTA A PUNIBILIDADE no presente feito, com base no disposto no artigo 107,inciso I, do Código Penal. Sem prejuízo, manifestem-se as partes acerca dos objetos apreendidos".
+Ante o exposto, nos termos do art. 34, XI, do RISTJ, julgo prejudicado o presente habeas corpus.
+P. e I.
