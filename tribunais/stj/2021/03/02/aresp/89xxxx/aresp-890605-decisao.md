@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. FALÊNCIA E CONCORDATA. MOINHO SÃO NICOLAU S.A. RECONHECIMENTO DE QUE O FEITO DEVE SER REGIDO PELO DECRETO-LEI N. 7.661/45.
+Extremamente pertinente a decisão do juízo a quo, chamando o feito à ordem e determinando o prosseguimento conforme a antiga Lei Falimentar. Não se olvida da boa intenção do juízo anterior, contudo, a "recuperação sui generis", sem prerrogativa legal alguma, acabou por complicar demais o andamento deste feito, frustrando o pagamento dos credores, que aguardam há aproximadamente 20 anos. O conjunto probatório evidencia que a falência do Moinho Nicolau S.A. foi decretada no ano de 1996, ocorrendo o deferimento de concordata suspensiva - nos moldes da antiga lei -, e não recuperação judicial, conforme novel legislação, ao contrário da argumentação da parte agravante. A confusão gerada nos autos decorre da tentativa da agravante aplicar o instituto da recuperação judicial ao invés do procedimento de concordata suspensiva, contudo, a incongruência legislativa é notável, especialmente se observada a data da falência e o disposto no artigo 192, caput, da Lei n.º 11.101/2005. Portanto, diante do quadro de créditos, do longo lapso temporal que os credores aguardam para o recebimento, da incompatibilidade do instituto aplicado, estou convencido que a manutenção da decisão é a melhor alternativa. Gratuidade judiciária mantida. Presunção de necessidade.
+À UNANIMIDADE, NEGARAM PROVIMENTO AO RECURSO.
+Alegou-se, no especial, violação dos artigos535, II, do revogadoCódigo de Processo Civil e47, 50, XIe XIV, 51 e 192 da Lei 11.101/05, sob a alegação de que o acórdão local é omisso e que é cabível a recuperação judicial da recorrente na hipótese dos autos.
+Assim delimitada a controvérsia, passo a decidir.
+Não é omissa, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia.
+Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+Quanto ao mais, arecorrente pretende a conversão da concordata suspensiva em recuperação judicial.
+Acontece que a falência da agravante já foi decretada e, como tal, o processo deve ser regido pela lei vigente ao tempo de sua decretação que, no caso, é o Decreto-Lei 7.665/45, já que a quebra foi decretada em 1996.
+A migração da concordata para a recuperação judicial, embora possível, depende da inexistência do decreto de falência anterior à vigência da Lei 11.101/05, o que, como se viu, não é o caso dos autos.
+A propósito:
+I - Não ofende o Art. 535 do CPC o acórdão que, apesar de rejeitar embargos declaratórios, examina todas as questões postas pelo embargante.
+II - A Súmula 99, ao declarar a legitimidade do Ministério Público para recorrer nos processos em que oficia como fiscal da lei, refere-se estritamente à defesa de interesses indisponíveis. Não alcança, pois, a concordata, onde se envolvem apenas interesses disponíveis do comerciante e de seus credores quirografários.
+III - No moderno Direito falimentar, o interesse social preponderante é manter a empresa em atividade (L. 11.101/05, Art.
+1º). Por isso o Ministério Público carece de interesse para pleitear a desconstituição da concordata.
+IV -  O despacho que manda processar a concordata é irrecorrível.  (3ª Turma - REsp 125126/Menezes Direito) V - A teor da Lei 11.101/05 (Art. 192), os processos de falência ou de concordata ajuizados anteriormente ao início de sua vigência, continuarão sob regência do Dec-Lei 7.661, de 21 de junho de 1945.
+VI - § 1º Ao vedar a concessão de concordata suspensiva nos processos de falência em curso, o § 1º do Art. 192 parece entrar em conflito com seu caput, afastando dos velhos falidos a regência da lei antiga e retirando-lhes o direito à concordata suspensiva. Fosse esse o sentido do § 1º, ele seria inconstitucional, porque atentaria contra os princípios da igualdade e do direito adquirido, reduzindo os velhos falidos a situação inferior à dos novos (que contam com a possibilidade de recuperação judicial).
+VII - O conflito, entretanto, é aparente. Em substância, o § 1º consagra norma autônoma, desvinculada do caput. O preceito nele contido determina que, enquanto as falências decretadas antes da Lei nova regem-se integralmente pela lei velha; as novas falências  em curso, mas não decretadas antes do estatuto novo  são insuscetíveis de resultar em concordata.
+(REsp 971.215/RJ, Rel. Ministro HUMBERTO GOMES DE BARROS, TERCEIRA TURMA, julgado em 21/08/2007, DJ 15/10/2007, p. 268)
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
