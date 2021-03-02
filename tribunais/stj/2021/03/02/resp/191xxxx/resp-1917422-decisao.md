@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo SINDICATO DOS TRABALHADORES DO SERVIÇO PÚBLICO FEDERAL DO ESTADO DE ALAGOASe OUTROS, com respaldo nas alíneas "a" e "c" do permissivo constitucional, que desafia acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado (e-STJ fl.359):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO.CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. AÇÃO INDIVIDUAL AJUIZADA NO JUIZADO ESPECIAL AMPARADA NA MESMA CAUSA DE PEDIR. COISA JULGADA.
+1. Agravo de Instrumento manejado pelo SINTSEP/AL e outro contra decisão proferida pelo Juízo da 4ªVara Federal da Seção Judiciária de Alagoas que, em sede de cumprimento de sentença contra a Fazenda Pública, excluiu o Exequente Jarbas de Sales Pitombeira do feito, em razão da coisa julgada.
+2. Trata-se de cumprimento de sentença intentado pelo Sindicato e pelos substituídos, em que se busca aintegralização de valores relativos à diferença a título de indenização de campo a que fora condenada a Funasa ora agravada.
+3. A parte Recorrente, em suas razões recursais, alega, em síntese, que não seria o caso de se reconhecer acoisa julgada, mas sim a continência, haja vista que o período cobrado na presente execução seria mais abrangente do que o período pleiteado no Juizado Especial (outubro de 2005 a maio de 2007).
+4. É incontroverso que a ação que tramitou no Juizado Especial já foi julgada, inclusive tendo ocorridoseu trânsito em julgado.
+5. A rigor, a situação de continência levaria segundo o Código de Processo Civil, à reunião das ações parajulgamento conjunto, a fim de se evitarem decisões conflitantes.
+6. Já tendo ocorrido, no entanto, o julgamento definitivo da ação anteriormente ajuizada, não há que sefalar em continência, mas em coisa julgada. Além disso, não haveria como a sentença proferida no JEF abranger o período ora executado, haja vista a sentença ter sido prolatada em 2007.
+7. Conclui-se, pois, que a ação de cumprimento de sentença originária, nesse ponto, tem por objeto pedido.
+que se ampara em causa de pedir já apreciada na ação individual anterior, de modo que o reconhecimento da coisa julgada material se impõe, em relação ao exequente Jarbas de Sales Pitombeira. Agravo de Instrumento improvido.
+Os embargos de declaração opostos foram desprovidos (e-STJ fls. 392/394).
+Nas suas razões, a parte recorrente sustenta, além da divergência jurisprudencial, violação dos arts. 141, 337, § 2º, 474, 490, 492, 508 e 525, III, § 1º, do CPC/2015, sustentando que"o cerne da controvérsia, vertida no presente recurso, seria a preclusão da alegação de excesso da execução pela suposta inclusão de parcelas, situação acobertada pela coisa julgada e não dedutível em sede de cumprimento de sentença (arts. 474, 508 E 525, III, § 1º do CPC) e a não ocorrência de coisa julgada entre ação individual e coletiva referente a pedido mais amplo não incluso na ação individual (arts. 141, 337 §2º, 490 e492doCPC/2015)" (e-STJ fl. 407).
+Contrarrazões às e-STJ fls. 459/463.
+Passo a decidir.
+O Plenário do STJ decidiu que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Extrai-se do acórdão atacado, na parte que interessa (e-STJ fls. 358):
+ ..
+Primeiramente, é incontroverso que a ação que tramitou no Juizado Especial já foi julgada, inclusive tendo ocorrido seu trânsito em julgado.
+A rigor, a situação de continência levaria segundo o Código de Processo Civil, à reunião das ações para julgamento conjunto, a fim de se evitarem decisões conflitantes.
+No entanto, já tendo ocorrido o julgamento definitivo da ação anteriormente ajuizada, não há que se falar em continência, mas em coisa julgada. Além disso, não haveria como a sentença proferida no JEF abranger o período ora executado, haja vista terem sido a sentença prolatada em 2007.
+Dessa forma, conclui-se que a ação de cumprimento de sentença originária , nesse ponto, tem por objeto pedido que se ampara em causa de pedir já apreciada na ação individual anterior, de modo que o reconhecimento da coisa julgada material se impõe, em relação ao exequente JARBAS DE SALES PITOMBEIRA.
+Logo, resta evidenciado que se operou a eficácia preclusiva da coisa julgada, entendida como tal a impossibilidade de discutir questões atinentes a aspectos da controvérsia, que poderiam ter sido suscitadas e não o foram. (grifos acrescidos)
+Pois bem. Verifica-se, em relação à possível violação dos dispositivos invocados, que, para ser realizada sua análise, nos moldes trazidos pela parte recorrente, seria necessário o revolvimento de matéria fático-probatória constante nos autos - no que se refere ao reconhecimento da coisa julgada material em relação ao exequente Jarbas de Sales Pitombeira- cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ. Nesse sentido:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. CÁLCULOS. PRESUNÇÃO DE VERACIDADE. AFASTAMENTO. SÚMULA 7 DO STJ. INCIDÊNCIA.
+ ..
+2. A via do apelo excepcional não se presta para verificar excesso na execução de título judicial, pois essa medida demanda reexame do acervo fáticoprobatório dos autos, o que esbarra no óbice estampado na Súmula 7 do STJ.
+ ..  (AgInt no AREsp 1.041.747/RS, Relator Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 23/04/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. CÁLCULOS DA CONTADORIA JUDICIAL. HONORÁRIOS ADVOCATÍCIOS. ALEGADA OFENSA AO ART. 535, II, DO CPC/73 (ART. 1.022, II, DO CPC/2015). INEXISTÊNCIA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO QUE, EM RAZÃO DA SUCUMBÊNCIA RECÍPROCA, DETERMINOU A COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS E PROVAS. INVIABILIDADE, ANTE O ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. O entendimento firmado pelo Tribunal a quo - no sentido de que não restou demonstrado, de forma precisa, o alegado excesso de execução, nem tampouco a imprecisão nos cálculos judiciais, confirmados pelo Juízo - não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, sob pena de ofensa ao comando inscrito na Súmula 7 desta Corte. IV. Ademais, "a jurisprudência do STJ é firme no sentido de que tecer considerações acerca dos critérios e informações contábeis utilizados para a liquidação da sentença exige incursão do STJ no conteúdo fático-probatório. Incidência da Súmula /7STJ" (STJ, REsp 1.622.353/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2017).
+ ..  (AgInt no AREsp 1.062.658/PI, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 23/10/2017).
+Por fim, fica prejudicada a análise da divergência jurisprudencial porque, "a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 24/09/2014).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
