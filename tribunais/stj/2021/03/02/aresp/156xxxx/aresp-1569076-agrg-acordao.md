@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. APREENSÃO DE 2.509 G DE COCAÍNA. PLEITO DE RECONHECIMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO POR SUPOSTO PREENCHIMENTO DOS REQUISITOS LEGAIS. ACÓRDÃO QUE ATESTA A DEDICAÇÃO DO RÉU AO TRÁFICO. ALTERAÇÃO QUE EXIGIRIA INCURSÃO FÁTICA. SÚMULA 7/STJ.REGIMENTAL. MERO INCONFORMISMO.
+1. No caso concreto, o que se pretende, com o recurso especial, é que esta Corte verifique se correta a conclusão do acórdão recorrido,e isso não é valoração jurídica da prova ou qualificação jurídica dos fatos, mas reexame do acervo de provas, vedado pela Súmula 7/STJ(AgRg no REsp n. 1.465.260/GO, de minha relatoria, Sexta Turma, DJe 31/10/2014).
+2. O agravante não logrou êxito em demonstrar argumento capaz de modificar as razões expostas na decisão ora combatida, em uma nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+3. Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Sérgio Alberto Castro Armaza contra a decisão monocrática lançada às fls. 405/408, por meio da qual conheci do agravo por ele interposto para não conhecer do recurso especial. Eis a ementa respectiva (fl. 405):
+AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. APREENSÃO DE 2.509 G DE COCAÍNA. PLEITO DE RECONHECIMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO POR SUPOSTO PREENCHIMENTO DOS REQUISITOS LEGAIS. ACÓRDÃO QUE ATESTA A DEDICAÇÃO DO RÉU AO TRÁFICO. ALTERAÇÃO QUE EXIGIRIA INCURSÃO FÁTICA. SÚMULA 7/STJ.
+Agravo conhecido para não conhecer do recurso especial.
+Segundo o agravante,a Súmula nº 7 não veda a (re)valoração da prova para o efeito de conferir nova qualificação jurídica à prova incontroversa mencionada no acórdão recorrido(fl. 415). Sustenta queas entradas anteriores, ainda que seja um sintoma de participação em organização criminosa, não ultrapassa o plano da suposição(fl. 416).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. APREENSÃO DE 2.509 G DE COCAÍNA. PLEITO DE RECONHECIMENTO DA MINORANTE DO TRÁFICO PRIVILEGIADO POR SUPOSTO PREENCHIMENTO DOS REQUISITOS LEGAIS. ACÓRDÃO QUE ATESTA A DEDICAÇÃO DO RÉU AO TRÁFICO. ALTERAÇÃO QUE EXIGIRIA INCURSÃO FÁTICA. SÚMULA 7/STJ.REGIMENTAL. MERO INCONFORMISMO.
+1. No caso concreto, o que se pretende, com o recurso especial, é que esta Corte verifique se correta a conclusão do acórdão recorrido,e isso não é valoração jurídica da prova ou qualificação jurídica dos fatos, mas reexame do acervo de provas, vedado pela Súmula 7/STJ(AgRg no REsp n. 1.465.260/GO, de minha relatoria, Sexta Turma, DJe 31/10/2014).
+2. O agravante não logrou êxito em demonstrar argumento capaz de modificar as razões expostas na decisão ora combatida, em uma nítida tentativa de rediscussão da matéria enfrentada e rechaçada monocraticamente.
+3. Agravo regimental improvido.
+VOTO
+A decisão agravada deve ser mantida.
+A bem da verdade, o presente regimental retrata tão somente o mero inconformismo do agravante, em uma tentativa de reverter a conclusão alcançada monocraticamente.
+Argumenta a defesa queas entradas anteriores, ainda que sejam um sintoma de participação em organização criminosa, não ultrapassam o plano da suposição (fl. 416).
+Todavia, consoante assevereimonocraticamente, talpretensão, nos moldes delineados, não comportaconhecimento por exigirindevido reexame das provas, esbarrando, assim, no óbice da Súmula 7/STJ.
+Ao rever a dosimetria, o Tribunal de origem manteve o afastamento da minorante do tráfico privilegiado, levando em conta as ponderações do magistrado sentenciante, para quem, pelas circunstâncias do delito, tais como os atos preparatórios e executórios da conduta criminosa e o efetivo transporte da droga,  ..  o acusado, de fato, integrou organização criminosa(fl. 322). Destacou que, compulsando os autos, verifica-se que além da viagem ora tratada, consta do passaporte do viajante outros registros migratórios em nome do acusado, sendo 6 (seis) trechos de entradas e saídas, de curto período, pelo Aeroporto Internacional de Guarulhos, desde o ano de 2015 - fls. 14/17, o que, supostamente, seria uma evidência de sua dedicação à atividades criminosas (tráfico internacional). Estas viagens de curto período não foram justificadas de forma satisfatória pelo recorrente em seu interrogatório, de modo que não restou comprovado que utilizava as referidas para atividades lícitas (idem).
+Ressaltou-se no acórdão, ainda, o fato de o acusado não haver justificado satisfatoriamente que possuía condição financeira favorável para arcar com viagens de alto custo como esta (fl. 322). Assim, concluiu-se que, a partir do contexto fático,a contribuição de Sérgio Alberto Castro Armaza para a logística de distribuição do narcotráfico internacional não se deu ocasionalmente, mas vinha ocorrendo de maneira contumaz, de modo a evidenciar sua adesão à organização criminosa ou, ao menos, sua dedicação a atividades criminosas(idem).
+Nesse panorama, entendi que, para rever o entendimento externado pelas instâncias ordinárias, com vistas a afastar a compreensão de que o réu se dedicava à atividade criminosa, implicaria necessário reexame de provas.
+Sobre o tema:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS 1,482KG (UM QUILO E QUATROCENTOS E OITENTA E DOIS GRAMAS) DE COCAÍNA. ART. 33, § 4.º, DA LEI N.º 11.343/2006. REQUISITOS. AFERIÇÃO. INVIABILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA N.º 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A conclusão da Corte a quo acerca do envolvimento da Agravante comatividades criminosas de tráfico de drogas decorreu do seu histórico de viagens ao exterior em curtos lapsos sem explicação plausível para tanto.
+2. Assim, a procedência do pleito de concessão do redutor da pena depende da aferição da insipiência da Agravante na lida do tráfico de drogas, o que demanda, sem sombra de dúvida, o reexame de fatos e provas, providência terminantemente vedada pelo óbice absoluto da Súmula n.º 7/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.642.527/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/6/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE ENTORPECENTES. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTO CONCRETO. AUMENTO PROPORCIONAL. ATIVIDADE DE TRANSPORTADORA. ELEMENTOS CONCRETOS. DEDICAÇÃO À ATIVIDADE CRIMINOSA. MINORANTE NEGADA. REGIMENTAL IMPROVIDO.
+1. A exasperação da pena-base em 1/6 (10 meses), com fundamento consistente na quantidade e natureza da droga apreendida - 2,462 Kg de cocaína - é válida e proporcional nos termos da jurisprudência desta Corte Superior.
+2. A exigência de elementos outros que denotem o efetivo envolvimento do agente com o crime do tráfico de entorpecentes que não apenas a evidência do transporte da droga, restou efetivamente demonstrada no acórdão quando registrou que "A certidão de Movimentos Migratórios de fls. 111/112 confirma que a ré já esteve no Brasil, ao menos duas vezes, além dos fatos discutidos nesses autos", e que a agravante não comprovou "de onde provinham os recursos para custear as viagens internacionais feitas por ela", concluindo não tratar-se de simples caso de "mula" do tráfico, mas que os fatos evidenciam "a integração da acusada à organização criminosa ou dedicação à criminalidade", razão pela qual foi negada a benesse do art. 33, §4º da Lei n. 11.343/06. Incidência da Súmula . 7/STJ.
+3. Agravo regimental improvido.(AgRg no AREsp n. 1.156.792/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/5/2018)
+Logo, tenho que, no caso concreto, o que se pretende, com o recurso especial, é que esta Corte verifique se se revelacorreta a conclusão do acórdão recorrido,e isso não é valoração jurídica da prova ou qualificação jurídica dos fatos, mas reexame do acervo de provas, vedado pela Súmula 7/STJ(AgRg no REsp n. 1.465.260/GO, de minha relatoria, Sexta Turma, DJe 31/10/2014).
+A propósito:
+ ..
+1. Rever o entendimento consignado pela Corte local de que "as provas juntadas não são suficientes para comprovar as alegações genéricas do embargante de inexistência do devido processo legal, da ampla defesa e do contraditório no processo administrativo" requer revolvimento do conjunto fático-probatório, visto que a instância a quo utilizou elementos contidos nos autos para alcançar tal entendimento. Incidência da Súmula 7/STJ.
+ ..
+(REsp n.1.695.721/RS, Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2017)
+Assim, tenho que o agravante não logrou êxito em demonstrar argumento capaz de modificar as razões expostas na decisão monocrática ora combatida, a qual entendo que deve ser mantida por seus próprios fundamentos.
+Ante o exposto,nego provimentoao agravo regimental
