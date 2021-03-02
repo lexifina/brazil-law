@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deTHIAGO PIRES DOMINGUES,apontando como autoridade coatora o d. Juízo da 9ª Vara Federal de Campinas/SP.
+Da redação confusa da petição elaborada pela impetrante,sustenta-se a ocorrência de constrangimento ilegal sofrido pelo paciente em razão de r. decisão proferida pelo d. Juízo de origem, na qual teria sido decretada a prisão do paciente, bem como em razão de pedido de extradição ou deportação em seu desfavor.
+Requer, assim,"a concessão da liminar para determinar a imediata suspensão do pedido de Extradição contra THIAGO PIRES DOMINGUES, evitando assim, danos irreparáveis, ao que restou de sua família, com atitude tomada por Vivian Caumo Domingues"(fl. 4).
+Em homenagem ao princípio da ampla defesa, a Defensoria Pública da União foi intimada para atuar no feito, tendo se manifestado às fls. 56-57pugnando pela apreciação dos pleitos da impetrantea fim de se resguardar o direito do paciente.
+Alega que o apenado respondeu ao processo criminal em liberdade, bem como tambémestárespondendo ao de extradição livre, além de possuir endereço fixo tanto no Brasil quanto nos Estados Unidos da América.
+Aduz que a prisão é incompatível com o regime a que fora condenado, ferindo o princípio da individualização da pena e da humanidade, bem como o crime pelo qual foi condenado não foi cometido com violência ou grave ameaça, não podendo ser usada a alegação genérica danecessidade da prisão para garantia da ordem pública e conveniência da instrução criminal.
+O Ministério Público Federal, às fls. 65-66, manifestou-se pelo não conhecimento dowrit, em parecer sem ementa.
+É o relatório.
+Decido.
+O presentehabeas corpusnão pode ser conhecido.
+Do que se pode depreender dos autos, a matéria trazida nestewritnão foisubmetida à apreciação pelo eg. Tribunal de origem, razão pela qualfica impedida esta Corte Superior de Justiça de proceder à sua análise, sob pena de incorrer emindevida supressão de instância.
+Nesse sentido, é o entendimento desta eg. Corte de Justiça,in verbis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE NO DECRETO DA PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA. TRIBUNAL DE ORIGEM NÃO CONHECEU DO WRIT POR SE TRATAR DE REITERAÇÃO DE PEDIDO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. INSTRUÇÃO DEFICIENTE. AGRAVO DESPROVIDO.
+1. Os argumentos deduzidos no writ originário não foram analisados pelo Tribunal a quo no acórdão impugnado na presente impetração, por configurar reiteração de pedido, uma vez que já havia sido examinado em outro habeas corpus, cujo acórdão não consta dos autos. 2. O agravante não trouxe aos autos sequer cópia do acórdão proferido no Habeas Corpus n. 2077465-61.2017.8.26.0000, inviabilizando a análise da alegação de que não há identidade entre as teses deduzidas, caracterizada, também, a deficiente instrução do feito.
+3. Resta afastada a competência do Superior Tribunal de Justiça para a análise das alegações trazidas no presente mandamus, pois compete ao impetrante demonstrar: 1) que tais teses foram previamente submetidas ao Tribunal a quo, sob pena de incorrer em indevida supressão de instância; ou 2) que a Corte de origem indevidamente negou a prestação jurisdicional.
+Agravo regimental desprovido." (AgRg no HC 403.678/SP,Quinta Turma, Rel. Min.Joel Ilan Pacionik,DJe 26/10/2017)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. FLAGRANTE CONVERTIDO EM PREVENTIVA. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. PRETENDIDA APLICAÇÃO. REGIME INICIAL MENOS GRAVOSO. MATÉRIAS NÃO APRECIADAS PELA CORTE DE ORIGEM NO ACÓRDÃO COMBATIDO. APELAÇÃO CRIMINAL PENDENTE DE JULGAMENTO. INCOMPETÊNCIA DESTE STJ E SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. NÃO CONHECIMENTO.
+1. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, da pretendida aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei nº 11.343/06 e da fixação de regime inicial menos gravoso, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da pendência de apelação criminal lá aforada em favor do condenado.
+ ..  4. Recurso parcialmente conhecido e, nesta extensão, improvido"(RHC n. 57.352/CE,Quinta Turma, Rel. Min.Jorge Mussi, DJe de 23/02/2016).
+Ante o exposto,não conheçodohabeas corpus.
+P. I.
