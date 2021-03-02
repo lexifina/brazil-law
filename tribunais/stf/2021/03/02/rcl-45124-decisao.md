@@ -1,0 +1,30 @@
+Trata-se de reclamação com pedido de liminar proposta por Ivo José Pereira, na qual alega usurpação de competência do Supremo Tribunal Federal - STF.
+    O reclamante relata, em síntese, que
+    “[...] INTERPÔS RECURSO EXTRAORDINÁRIO, sustentado a violação a dispositivos constitucionais, arguindo a existência de repercussão geral, requerendo fosse admitido e remetido ao STF para ser CONHECIDO E PROVIDO para reformar o v. acórdão nos termos ali propostos.
+    7.- O Exm°. Sr. Dr. Juiz Presidente das Turmas Recursais que muito honra e dignifica a galeria da Magistratura Baiana e Nacional inadmitiu o recurso extraordinário, conforme se verifica da cópia integral do processo.
+    8.- Desta decisão a parte Reclamante interpôs recurso de agravo no RE para ver destrancado o seu recurso, no entanto, o MM. Reclamado julgou prejudicado o recurso […]
+    9.- Julgado prejudicado o agravo no Recurso extraordinário, sob o fundamento de que o Agravo n. 835.833, Tema n. 800 não permite a subida dos RE oriundos dos Juizados Especiais em virtude da simplicidade e pronta solução, no entanto, no caso em tela o recurso extraordinário tem preliminar de repercussão geral que ainda não foi apreciada pelo STF […]
+    7.- O que é pior após julgar prejudicado o recurso de agravo no RE, negando a remessa para o STF, o Exm°. Sr. Dr. Reclamado usurpou a autoridade constitucional do STF, eis que a preliminar de repercussão geral que se pede seja reconhecida afeta a todo o território nacional, com impacto em todo o País, e ainda não foi apreciada pelo STF, por isso é inaplicável o Agravo n. 835.833, Tema n. 800 do STF no caso vertente.
+    […]” (págs. 16, 24 e 26 do documento eletrônico 1).
+    Ao final, requer “[...] seja JULGADA PROCEDENTE A RECLAMAÇÃO para reconhecer que o Reclamado usurpou a competência do STF, cassando a v. decisão atacada, avocando o conhecimento do processo em que se verifica a usurpação da competência do STF” (pág. 40 do documento eletrônico 1).
+    É o relatório necessário. Decido.
+    Anoto, inicialmente, que a reclamação “não é recurso e não se destina a examinar o ato impugnado com vistas a repudiá-lo por alguma invalidade processual-formal ou corrigi-lo por erros em face da lei ou da jurisprudência” (Rcl 3.800-AgR/PR, Rel. Min. Ellen Gracie, Tribunal Pleno).
+    A ementa do referido leading case é a seguinte:
+    “CONSTITUCIONAL. ART. 102, I, l, DA CF. RECLAMAÇÃO. PRESSUPOSTOS DE ADMISSIBILIDADE. ART. 13 DA LEI 8.038/90. PROCESSUAL CIVIL. ART. 542, § 3°, DO CPC. RETENÇÃO DO RECURSO EXTRAORDINÁRIO. USURPAÇÃO DE COMPETÊNCIA NÃO CONFIGURADA. IMPOSSIBILIDADE DE PROVIMENTO DE NATUREZA RECURSAL EM SEDE DE RECLAMAÇÃO. 1. A pretensão de afastamento da decisão que fez incidir o teor do § 3º, do art. 542 do CPC, escapa aos pressupostos previstos na alínea i do inciso I do artigo 102 da Constituição, reproduzidos no art. 13 da Lei 8.038, de 28 de maio de 1990. 2. Reclamação não é recurso e não se destina a examinar o ato impugnado com vistas a repudiá-lo por alguma invalidade processual-formal ou corrigi-lo por erros em face da lei ou da jurisprudência. 3. Usurpação de competência desta Corte não configurada”.
+    Registre-se, também, que “[não] cabe recurso de agravo ou reclamação contra decisão com que o órgão de origem, fundado em entendimento firmado em regime de repercussão geral, não admite recurso extraordinário” (Rcl 28.735-ED-AgR/SP, Rel. Min. Dias Toffoli).
+    Feitos esses registros, transcrevo trechos da decisão reclamada no que pertine ao exame desta reclamação:
+    “[...] Com espeque no art. 1036 do NCPC, os Recursos Repetitivos com fundamento em idêntica questão de direito, enviados para apreciação do STF, foram devolvidos a este Juízo com entendimento firmado, ou seja, negado o seguimento por ausência de repercussão geral, requisito de admissibilidade perante a E. Corte.
+    Processado devidamente, o Agravo de Instrumento, interposto contra a decisão que inadmitiu o respectivo Recurso Extraordinário, fez menção aos julgamentos, reiteradamente realizados pela Suprema Corte e com entendimento pacificados sobre os temas suscitados no presente feito, os quais afastam a existência de repercussões gerais e/ou inexistência de questões constitucionais a serem deslindadas, posto que, se presentes, as sugeridas violações à Constituição Federal, seriam decorrentes de anteriores afrontas a dispositivos infraconstitucionais, não se cogitando violações diretas e frontais a quaisquer normas constitucionais.
+    Assim, na forma da apreciação dispensada pelo STF ao Agravo, apresentado, devem ser aplicadas as regras insertas no art. 1.039, § único do NCPC, dando-se especial relevo ao Regimento Interno do STF.
+    Nos termos do § 1º do art. 328-A do Regimento Interno do STF, em casos da espécie, o agravo interposto deve ser julgado prejudicado, encerrando-se, assim, a sua tramitação, sepultando, definitivamente, o recurso extraordinário interposto.
+    […]
+    O Supremo Tribunal Federal já firmou a orientação de que não caracteriza usurpação da competência do STF o não conhecimento pela Corte local do agravo previsto no art. 1.042, caput, do CPC nas hipóteses em que a negativa de seguimento do recurso extraordinário se deu exclusivamente com base na sistemática da repercussão geral, haja vista tratar-se de recurso manifestamente inadmissível.
+    […]
+    Assim, JULGO PREJUDICADO o Agravo ofertado, determinando o retorno dos autos ao juizado de origem, para o trâmite regular da ação.
+    […]” (págs. 71-73 do documento eletrônico 25).
+    Conforme se verifica, a decisão de inadmissibilidade do recurso extraordinário está fundada em entendimento firmado por esta Suprema Corte em regime de repercussão geral, o que, como visto, inviabiliza o conhecimento deste incidente processual.
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal). Prejudicado o pleito cautelar.
+    Publique-se.
+    Brasília, 2 de março de 2021.
+Ministro Ricardo Lewandowski
+Relator
