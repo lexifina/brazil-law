@@ -1,0 +1,11 @@
+SEÇÃO DE DIREITO PÚBLICO
+RECLAMAÇÃO (12375) 1012088-75.2020.8.11.0000
+RECLAMANTE: GILMAR ANTONIO BRUNETTO, GLACI DUCATTI, IVON PEREIRA DA SILVA, ILTON BATISTA CAMILO, IVA MARTINS DE OLIVEIRA, IEDA PINHEIRO DE LIMA, GLORIA SIGARINI DA SILVA, IREZE MORAES FERREIRA, INES GONCALINA DE SOUZA, INACIA GONCALVES GUEDES
+RECLAMADO: TURMA RECURSAL DO TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO
+TERCEIRO INTERESSADO: ESTADO DE MATO GROSSO
+Vistos etc.
+Cite-se o beneficiário da decisão impugnada, que terá prazo de 15 (quinze) dias para apresentar a sua contestação, conforme estabelece o art. 989, III, do CPC.
+Após, vista dos autos à Procuradoria Geral de Justiça, nos termos do art. 991 do CPC/15 c/c art. 234 do RITJMT.
+Cumpra-se.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
