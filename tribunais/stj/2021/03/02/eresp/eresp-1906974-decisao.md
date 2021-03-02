@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundadonoart. 105, III, "a" e "c", da Constituição Federal, interposto por NILZA ANTÔNIA BARBOSA MARTINScontra v. acórdão do eg. TribunaldeJustiça do Estado do Mato Grossodo Sul, assim ementado (fl. 306):
+"EMENTA- AÇÃODOSEGURADOCONTRAA SEGURADORA- SEGURO DE RESPONSABILIDADE CIVIL- PRESCRIÇÃOÂNUA- TERMO INICIAL- DATA DA CITAÇÃO DO SEGURADO PARARESPONDER A AÇÃO DE INDENIZAÇÃO PROPOSTA PELO TERCEIROPREJUDICADO- PRETENSÃO PRESCRITA- SENTENÇA MANTIDA- RECURSOIMPROVIDO O marco inicial da prescrição ânua do pleito de cobertura do seguro, nos casos em que o segurado é demandado por terceiro prejudicado, deve começar a fluir do momento em que o segurado toma conhecimento de demanda contra ele proposta, ou seja, desde a citação."
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 352-354.
+Nas razões do recurso especial, a recorrente alegou, além de dissídio jurisprudencial,violação aos arts. 1.022 e 489 do Código de Processo Civil de 2015, além do art. 206, § 1º, II, "a", do Código Civil. Afirma, em síntese, que "somente foi citada para responder a ação indenizatória, obviamente ainda não há o dever de indenizar, de modo que o direito de regresso do segurado contra a seguradora somente pode ser exercido após o pagamento de eventual indenização".
+É o relatório. Decido.
+Cumpre salientar que o presente recurso será examinado à luz doEnunciado3 do Plenário do STJ: "Aos recursos interpostos com fundamentono CPC/2015(relativos a decisões publicadas a partir de 18 de março de2016) serãoexigidos os requisitos de admissibilidade recursal na forma donovo CPC."
+A irresignação não merece prosperar.
+Inicialmente, no que tange à alegada violação dos arts. 489 e 1.022, inciso II,doCPC/2015, verifica-se que a parte recorrente limita-se aapresentaralegação genérica de sua violação, sem especificar quais seriamexatamenteas omissões e qual a relevância das questões supostamenteomitidas parasolução da lide, o que atrai a exegese da Súmula 284 do STF,aplicada poranalogia. Nesse sentido confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECOBRANÇA.SEGURO DE VIDA. ART. 1.022 DO CPC/2015. NÃO ESPECIFICAÇÃO DOVÍCIO. SÚMULAN. 284 DO STF. ALEGAÇÃO DE VIOLAÇÃO DE SÚMULA. DESCABIMENTO.SÚMULA N. 518DO STJ. EMBRIAGUEZ DO SEGURADO. SÚMULAS N. 83 E 620 STJ.CORREÇÃOMONETÁRIA. SÚMULA N. 632 DO STJ. DISSÍDIO JURISPRUDENCIAL.SIMPLESTRANSCRIÇÃO DE EMENTAS. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284 do STF,afundamentação de recurso especial que alega violação do art. 1.022doCPC/2015, mas não demonstra, clara e objetivamente, qual o vícionãosolucionado no julgamento dos embargos de declaração.
+(..)
+6. Agravo interno a que se nega provimento."
+(AgInt no REsp 1829871/MG, Rel. Ministro ANTONIO CARLOS FERREIRA,
+QUARTATURMA, julgado em 17/02/2020, DJe 20/02/2020 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DETÍTULOEXTRAJUDICIAL. DÉBITO CONDOMINIAL. PENHORA SOBRE O IMÓVEL GERADORDODÉBITO QUE ESTÁ ALIENADO FIDUCIARIAMENTE. IMPOSSIBILIDADE. AGRAVOINTERNONÃO PROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegaçãodeofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, semademonstração exata dos pontos em relação aos quais o acórdão sefezomisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+(..)
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1819186/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 04/02/2020, DJe 13/02/2020 - grifou-se)
+Em relação à alegada ofensa ao art. 206, § 1º, II, "a", do CC, a recorrente defende que somente foi citada para responder a ação indenizatória, obviamente ainda não há o dever de indenizar, de modo que o direito de regresso do segurado contra a seguradora somente pode ser exercido após o pagamento de eventual indenização. Por sua vez, o TJ-SP assim decidiu a controvérsia:
+"Isso porque o marco inicial da prescrição ânua do pleito de cobertura do seguro, nos casos em que o segurado é demandado por terceiro prejudicado, deve começar a fluir do momento em que o segurado toma conhecimento de demanda contraele proposta, ou seja, desde a citação.
+Essa a conclusão que se extrai do que prescreve o art.206, § 1º, II, a, do CC, in verbis:
+(..)
+Na hipótese em apreço, a parte autora, ora apelante, pretende o ressarcimento, pela seguradora, do valor pago a terceiro prejudicado por danos por ela provocados. Portanto, tratando-se de seguro de responsabilidade civil, a regra prescricional é aquela do dispositivo legal acima citado, não havendo que se falar que o termo inicial na prescrição é a data do trânsito em julgado da sentença que condenou a apelante a reparar os danos causados a terceiro.
+Sendo assim, embora não haja documento constando a data exata da citação da autora na Ação nº 0049576-37.2009.8.12.0001, movida em seu desfavor pelo terceiro prejudicado, como bem pontuado pelo magistrado sentenciante: "é possível verificar que a sentença daquele processo foi proferida em 14.04.2014 (f. 42-46),concluindo-se que, por óbvio, a citação da requerente ocorreu antes dessa data. Dessa forma, considerando que o prazo prescricional a ser aplicado é de um ano, nos termos do art. 206, §1º, I, do CC, não restam dúvidas de que quando do ajuizamento da presente ação, em 16.02.2017, a pretensão da autora já se encontrava prescrita. "Vale ressaltar que este entendimento é pacificado no âmbito na Corte Superior, não havendo espaço para interpretação diversa, dada a clareza da norma legal aplicável a espécie."
+Sobre o tema, tem-se que a iterativa jurisprudência desta Corte se firmou no sentido de que"O marco inicial da prescrição do pleito de cobertura do seguro, nos casos em que o segurado é demandado por terceiro prejudicado, deve começar a fluir do momento em que o segurado toma conhecimento de demanda contra ele proposta, ou seja, desde a citação" (AgRg no Ag 666658/MG, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 23/8/2005, DJ 26/9/2005, p. 391). Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE SEGURO. PRESCRIÇÃO.OCORRÊNCIA. PRECEDENTES. MARCO INICIAL. REEXAME DE PROVAS. SÚMULA 7/STJ. NÃO PROVIMENTO.
+1. "O marco inicial da prescrição do pleito de cobertura do seguro, nos casos em que o segurado é demandado por terceiro prejudicado, deve começar a fluir do momento em que o segurado toma conhecimento de demanda contra ele proposta, ou seja, desde a citação" (AgRg no Ag 666658/MG, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 23/8/2005, DJ 26/9/2005, p. 391).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt no REsp 1818902/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/03/2020, DJe 02/04/2020)
+Nesse contexto, estando a decisão recorrida de acordo com a jurisprudência desta Corte, o recurso especial encontra óbice na Súmula 83/STJ, que incide pelas alíneas "a" e "c" do permissivo constitucional.
+Com essas considerações, conclui-se que o recurso especial não merece prosperar.
+Ante o exposto, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios de 10% para 11% sobre o valor da causa, observando eventual gratuidade de justiça, nos termos do art. 98, § 3º, do CPC/2015.
+Publique-se.
