@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARCIA MOURA DA COSTA, fundamentado no art. 105, III, "a", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS),assim ementado (fls. 150/151):
+"AÇÃO RESCISÓRIA. PREVIDÊNCIA PRIVADA. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. AUSÊNCIA DE VIOLAÇÃO A LITERAL DISPOSITIVO DE LEI. INOCORRÊNCIA. ART. 485,INCISO V, DO CPC.
+Dispositivo de Lei. O dispositivo legal invocado pela parte autora não dispõe acerca da questão posta nos autos, a qual reconhece de ofício a prescrição da ação. Pedido rescisório não acolhido, pois a pretensão da demandante se funda no reconhecimento de situação inicial, a qual lhe criaria o direito, e não no reconhecimento de conseqüência quantitativa de direito fundamental já deferido.
+AÇÃO RESCISÓRIA JULGADA IMPROCEDENTE.MAIORIA."
+As razões do recurso especial, fundamentadas nas alíneas "a" e "c" do permissivo constitucional, apontam a divergência jurisprudencial e a violação (i) do art. 485, inciso V, do CPC/73,considerando ser cabível a ação rescisória por violação literal do art. 75 da Lei n. 109/2001, porquanto a prescrição para pedido de revisão do benefício de pensão por morte não atingiria o fundo do direito, mas apenas as parcelas superiores ao prazo de 5 anos.
+É o relatório. Decido.
+No apelo nobre que pretende trânsito, a recorrente aponta a infringênciado art. 485, inciso V, do CPC/73,considerando ser cabível a ação rescisória por violação literal do art. 75 da Lei n. 109/2001, porquanto a prescrição para pedido de revisão do benefício de pensão por morte não atingiria o fundo do direito, mas apenas as parcelas superiores ao prazo de 5 anos.
+O eg. TJ-RS, por sua vez, por maioria de votos, consignou que a autora não possui reconhecimento pretéritode sua situação jurídica, pois a pretensão recai sobre a revisão de pensão por morte.Diante disso, ratificou o acórdão que aplicou a prescrição do fundo de direito.Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual:
+"Não há violação ao art. 75 da LC 109/2001, posto que a decisão rescindenda é clara quanto a diferenciação da situação dos autos e a situação que a demandante pretende ser reconhecida.
+Explico.
+O caso dos autos não diz respeito a situação de trato sucessivo, pois como bem referiu o E. Des. Gelsom Rolim Stocker, quando do julgamento da AC nº 70044802288, não há reconhecimento pretérito da situação jurídica buscada naquela demanda. A pretensão da demandante se funda no reconhecimento de situação inicial, a qual lhe criaria o direito, e não no reconhecimento de conseqüência quantitativa de direito fundamental já deferido, pelo que nãohá falar em violação à literal disposição de lei.
+(..)
+Propositadamente repetindo, as obrigações de trato sucessivo são aquelas decorrentes de uma situação jurídica fundamental já reconhecida, o que não se confunde com o caso dos autos, pelo que não há falar em violação à disposição legal, conforme preconiza o art. 485, V, do CPC."(fls. 518/519)
+O recurso merece prosperar. Isso porque o entendimento do eg. Tribunal estadual viola a orientação deste Sodalício, há muito pacificada, no sentido de que opedido de revisão do benefício não está sujeito à prescrição do fundo de direito devido à natureza de trato sucessivo. Corroboram essa conclusão os julgados a seguir:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE APOSENTADORIA.REVISÃO DE VALOR. PRESCRIÇÃO. PRAZO QUINQUENAL. RELAÇÃO DE TRATO SUCESSIVO. PATROCINADOR. ILEGITIMIDADE PASSIVA. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que, nas ações em que se postula a complementação da aposentadoria ou a revisão desse benefício, o prazo prescricional quinquenal (Súmula nº 291/STJ) não incide sobre o fundo de direito, mas atinge tão somente as parcelas anteriores aos 5 (cinco) anos de propositura da ação. Precedentes.
+3. O Superior Tribunal de Justiça, ao julgar o REsp nº 1.370.191/RJ sob a sistemática dos recursos repetitivos, fixou tese acerca da ilegitimidade passiva do patrocinador para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, tais como a concessão e a revisão de benefício ou o resgate da reserva de poupança.
+4. Agravo interno não provido."
+(AgInt nos EDcl no AREsp 1182376/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/12/2020, DJe 17/12/2020)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA REQUERIDA.
+1. Nos termos da jurisprudência desta Corte, em se tratando de demanda buscando a revisão da renda mensal inicial do benefício de previdência privada, por se tratar de prestação de trato sucessivo, o decurso do prazo prescricional não atinge o próprio fundo do direito invocado, mas apenas as parcelas vencidas anteriormente ao quinquênio que antecede o ajuizamento da ação. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido."
+(AgInt no AREsp 1056178/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/04/2019, DJe 03/05/2019)
+Assim, verifica-se que, de fato, o reconhecimento da prescrição do fundo de direito no acórdão rescindendo viola o art. 75 da Lei n. 109/2001, o que dá ensejo à ação rescisória, nos termos do art. 485, V, do CPC/73.
+Diante do exposto, dou provimento ao recurso especial, nos termos da fundamentação supra.
+Publique-se.
