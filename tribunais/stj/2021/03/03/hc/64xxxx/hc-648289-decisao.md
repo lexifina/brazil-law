@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de SILVANA ALVES DA SILVA contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO proferido no julgamento do Habeas Corpus n. 5000315-56.2021.4.04.0000.
+Extrai-se dos autos que a paciente está foragida com mandado de prisão em aberto expedido em seu desfavor. A paciente está cumprindo pena em regime fechado devido ao seu comportamento faltoso. Requerida a substituição do regime fechado para a prisão domiciliar, o pleito foi indeferido (fls. 13/15). A defesa interpôs agravo em execução, que está pendente de julgamento.
+Impetrou também habeas corpus na origem, buscando a substituição da prisão em regime fechado pela prisão domiciliar. O Tribunal a quo indeferiu liminarmente o writ. Apresentado agravo regimental, a Turma negou provimento ao recurso, conforme acórdão assim ementado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. AGRAVO EM EXECUÇÃO PENDENTE DE JULGAMENTO. SUPRESSÃO DE INSTÂNCIA.
+1. Caso em que o impetrante, ora agravante, manejou de forma antecipada o presente habeas corpus em relação ao pedido de concessão de prisão domiciliar, visto que a matéria em discussão se encontra pendente de análise pelo juízo da execução no Agravo de Execução Penal nº 5002724- 37.2020.404.7017.
+2. Não compete a esta Corte analisar os motivos diretamente, sem que a autoridade impetrada apresente suas razões de convencimento, até mesmo porque já foi instaurado o incidente apropriado para tanto.
+3. O exame do pedido diretamente nesta Corte Recursal evidencia supressão de instância, desvirtuando o princípio hierárquico e o regime de sucessividade dos recursos, vigentes no sistema processual penal.
+4. Agravo regimental não provido. (fl. 70).
+No presente writ, o impetrante alega que "não obstante as condenações expedidas em desfavor da paciente sejam todas menos gravosas do que o regime fechado, o r. Juizo a quo manteve o regime fechado" (fl. 4).
+Aduz que o STF, no julgamento do HC 143.641/SP coletivo, concedeu a ordem para determinar a substituição da prisão preventiva por domiciliar para mulheres presas, que sejam gestantes ou mãe de crianças de até 12 anos.
+Nesse ordem de idéias, afirma que a paciente tem o direito de cumprir a pena em prisão domiciliar, caso não venha a ser colocada em regime imposto na sentença, o semiaberto, pois émãe de 4 filhos menores.
+Pugna, assim, em liminar e no mérito, pela expedição do contramandado de prisão ou salvo conduto, ou que seja colocada no regime adequado ou em prisão domiciliar.
+É o relatório. Decido.
+Não há como conhecer do pedido.
+Com efeito, a tese deduzida acerca da prisão domiciliarnão foi submetida ou analisado pela Corte Estadual, circunstância que impede a manifestação desta Corte Superior sobre o tema, vedada a supressão de instância. São precedentes nossos:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DECISÃO DE PRONÚNCIA. NULIDADE. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. SENTENÇA SEM NECESSIDADE DE FUNDAMENTAÇÃO EXAURIENTE. PRECLUSÃO. VÍCIO NÃO ALEGADO NA PRIMEIRA OPORTUNIDADE. NULIDADE DE ALGIBEIRA. PRÁTICA NÃO TOLERADA. VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A questão relativa à ocorrência de vícios ensejadores de nulidade absoluta não foi objeto de debates na instância de origem, de modo que este Superior Tribunal está impedido de decidir, originariamente, acerca do tema, sob pena de indevida supressão de instância.
+2. A decisão de pronúncia possui natureza interlocutória mista e encerra apenas um juízo preliminar de admissibilidade da acusação pela prática de crime doloso contra a vida, sem debater questões referentes à responsabilidade penal do acusado.
+3. Além disso, a defesa, de fato, deixou de alegar a suposta nulidade nas diversas oportunidades que teve antes da impetração do habeas corpus, o que caracteriza a chamada nulidade de algibeira. Esse procedimento é incompatível com o princípio da boa-fé, que norteia o sistema processual vigente, exigindo lealdade e cooperação de todos os sujeitos envolvidos na relação jurídico-processual.
+3. Agravo regimental desprovido. (AgRg no RHC 131.676/CE, Rel. Ministro REYNALDO SOARRES DA FONSECA, QUINTA TURMA, DJe 21/09/2020)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E ARMA COM NUMERAÇÃO SUPRIMIDA. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CPP. HISTÓRICO INFRACIONAL DO AGENTE. REITERAÇÃO. RISCO CONCRETO. PERICULOSIDADE SOCIAL. GARANTIA DA ORDEM PÚBLICA. CUSTÓDIA JUSTIFICADA E NECESSÁRIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA E INADEQUAÇÃO. DESPROPORCIONALIDADE DA CUSTÓDIA. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. RECURSO, EM PARTE, CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+ ..
+4. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, da alegação de desproporcionalidade da medida extrema em relação ao resultado do processo penal, sob pena de incidir-se em indevida supressão de instância, tendo em vista que a matéria não foi analisada pelo Tribunal impetrado no aresto combatido.
+5. Recurso parcialmente conhecido e, nessa extensão, improvido. (RHC 83.530/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 23/08/2017)
+Ante todo o exposto, nos termos do art. 210 do Regimento Interno do STJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intime-se.
