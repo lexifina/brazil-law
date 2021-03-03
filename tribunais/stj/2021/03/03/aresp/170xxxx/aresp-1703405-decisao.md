@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo da FAZENDA NACIONAL contra decisão que inadmitiu recurso especial interpostocom base na alínea "a" do permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 136):
+HONORÁRIOS ADVOCATÍCIOS. LEI Nº 10.522, DE 2002. PERDA DO OBJETO.
+1. Ainda que reconheça, no prazo para resposta, a procedência do pedido, a União Federal deve ser condenada ao pagamento de honorários de sucumbência quando a questão discutida não é daquelas prevista no art. 19 da Lei nº 10.522, de 2002.
+2. Nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo (art. 85, §10 do Código de Processo Civil).
+No apelo nobre, a parte recorrente aponta violação do art. 19, § 1º, da Lei n. 10.522/2002, por entender, em essência, que "nas hipóteses em que o reconhecimento baseia-se em matéria em relação à qual há tese fixada em sede de recurso repetitivo ou repercussão geral também é indevida a condenação ao pagamento de honorários advocatícios. No caso, o reconhecimento do pedido baseou-se nos Temas 269 e 270 da lista de recursos repetitivos do STJ. Logo, mostra-se descabida a condenação ao pagamento de honorários" (e-STJ fl. 181).
+Contrarrazões apresentadas.
+Contra a decisão que não admitiu o recurso especial foi interposto agravo, o qual foi devidamente contraminutado.
+Passo a decidir.
+Inicialmente, destaco que, conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3 do STJ).
+O acórdão recorrido, ao condenar a Fazenda Nacional ao pagamento de honorários em ação em que reconheceu, na contestação, a procedência do pedido, com fundamento na Lei n. 10.522/2002, atuou em desconformidade com a orientação da jurisprudência do Superior Tribunal de Justiça.
+Nesse sentido, julgados de ambas as Turmas que compõem a Primeira Seção:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO. DECISÃO MONOCRÁTICA DO RELATOR CONFIRMADA PELO COLEGIADO. EVENTUAL NULIDADE. SUPERAÇÃO. EXECUÇÃO FISCAL. OPOSIÇÃO DE EMBARGOS. RECONHECIDA A PROCEDÊNCIA PELA FAZENDA NACIONAL. HONORÁRIOS ADVOCATÍCIOS. ISENÇÃO. NOVA REDAÇÃO DO ART. 19, § 1º, I, DA LEI N. 10.522/02. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO ADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A confirmação de decisão monocrática do Relator pelo órgão colegiado supera eventual violação do art. 932 do Código de Processo Civil.
+III - Esta Corte firmou posicionamento segundo o qual, a teor do disposto no 19, § 1º, I, da Lei n. 10.522/2002, com redação dada pela Lei n. 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido e da respectiva extinção da execução fiscal.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.871.998/ES, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 21/09/2020, DJe 23/09/2020).
+TRIBUTÁRIO E PROCESSUAL CIIVL. AGRAVO INTERNO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. EXTINÇÃO DO FEITO. RECONHECIMENTO PELA FAZENDA. CONDENAÇÃO EM HONORÁRIOS DESCABIDA. ATUAL REDAÇÃO DO ART. 19, § 1º, DA LEI 10.522/2002. SÚMULA 83/STJ. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. Conforme consignado anteriormente, não houve ofensa aos arts. 489, 1.013 e 1.022 do CPC/2015, pois o Tribunal de origem fundamentadamente afastou a condenação da recorrida em honorários em razão do princípio da causalidade e das peculiaridades do caso concreto (fls. 562-564, e-STJ).
+2. A sentença foi exarada quando já estava em vigor a norma do art. 19, § 1º, da Lei 10.522/2002, com a redação dada pela Lei 12.844/2013. O Tribunal a quo consignou no acórdão que, na exceção de pré-executividade, "a União prontamente reconheceu a consumação da prescrição", ademais "não existem notícias de que o Fisco tenha oferecido qualquer resistência, inclusive na via extrajudicial" (fl. 563, e-STJ).
+3. "Com o advento da Lei n. 12.844/2013, prevalece o entendimento de que "a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002."" (AgInt no AgInt no AREsp 886.145/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe em 25/5/2016).
+ ..
+6. Agravo Interno não provido.
+(AgInt no REsp 1.850.404/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/10/2020, DJe 12/11/2020).
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim deafastar a condenação da Fazenda Nacional ao pagamento de honorários advocatícios.
+Publique-se. Intimem-se.
