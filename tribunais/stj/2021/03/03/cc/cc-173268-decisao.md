@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o Juízo de Direito da Vara de Execuções Penais em Meio Fechado de Teresina (PI)e o Juízo de Direito da 1ª Vara das Execuções Criminais de São Paulo (SP)nos autos do Processo de Execução da Pena n. 1003985-09.2020.8.26.0050.
+O Juízo de São Paulodeterminou o encaminhamento dos autos da execução ao Juízo de Teresina, local onde o sentenciado se encontrarecolhido.
+O Juízo de Teresina, discordando, suscitou o conflito, pois entende que não cabe à transferência da execução da pena.
+O Ministério Público Federal opinou pelo conhecimento do conflito com a declaração de competência do Juízo suscitado.
+Informações prestadas pelo Juízo suscitado (fls. 55-63.
+É o relatório. Decido.
+O presente conflito negativo de competência comporta conhecimento, pois refere-se a incidente estabelecido entre juízes vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, razão pela qual passo aseu exame.
+O entendimento do STJ é que o fato de o condenado estar preso em comarca diversa dacompetente para a execução da sentençanão implica o deslocamento da competência originária para a execução da pena.
+Nesse sentido, confiram-se os seguintes precedentes da Terceira Seção:
+PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL.MANDADO DE PRISÃO CUMPRIDO EM LOCALIDADE DIVERSA DO JUÍZO DA CONDENAÇÃO. COMPETÊNCIA PERMANECE COM O JUÍZO CONDENATÓRIO.POSSIBILIDADE DE FISCALIZAÇÃO PELO JUÍZO DO NOVO DOMICÍLIO POR MEIO DE CARTA PRECATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória. (CC 161.783/DF, Rel.Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 28/11/2018, DJe 14/12/2018).
+2. Assim, " .. o simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena." (CC 148.926/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe 27/10/2016).
+3. Nada impede, porém, que, não obstante a competência do processo de execução permaneça sendo do juízo condenatório, seja expedida carta precatória à nova localidade em que o apenado está preso e possui laços familiares consolidados, para fins de fiscalização e supervisão do desconto da reprimenda, como ocorre no caso em apreço.
+Precedentes nesse sentido.
+4. Agravo regimental não provido.(AgRg no CC n. 166.472/RO, relatorMinistro RibeiroDantas, TerceiraSeção, DJe de 15/10/2019.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO DE PENA. PRISÃO EM CUMPRIMENTO DE MANDADO EM COMARCA DIVERSA. COMPETÊNCIA DO JUÍZO DA EXECUÇÃO DO LOCAL EM QUE FOI PROFERIDA A SENTENÇA CONDENATÓRIA DEFINITIVA. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. O simples fato de o condenado ter sido preso em Comarca diversa em cumprimento de mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória não constitui causa legal de deslocamento da competência originária para a execução da pena.
+Ressalte-se que o enunciado n. 192 da Súmula do STJ se restringe aos casos nos quais o sentenciado já estava cumprindo pena em estabelecimento prisional estadual.
+Conflito conhecido para declarar competente o Juízo de Direito da Vara de Execuções Criminais de Juiz de Fora - MG, o suscitado.(CC n. 156.747/BA, relatorMinistro JoelIlanPaciornik, TerceiraSeção, DJe de 11/5/2018.)
+Ademais, também já decidiu o STJ pela impossibilidade de transmissão da execução da pena para o juízo para o qual o sentenciado pretende ser transferido, sem que tenha havido a prévia consulta a respeito da disponibilidade de vagas ou de condições adequadas para o cumprimento da pena.
+A propósito, oseguinte julgado:
+AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. TRANSFERÊNCIA DE CONDENADO. CUMPRIMENTO DA PENA. AUSÊNCIA DE ESTRUTURA E DE VAGAS.IMPOSSIBILIDADE DE DECISÃO UNILATERAL DO JUÍZO DEPRECANTE.NECESSIDADE DE PRÉVIA ACEITAÇÃO DO JUÍZO DEPRECADO. INOCORRÊNCIA.AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O exame de um conflito de competência não pode se imiscuir na solução de controvérsias de fato ou de direito suscitadas dentro do processo, cujo esclarecimento se dará no decorrer da execução. Deve, tão somente, se ater aos elementos incontroversos do incidente processual para, com base neles, extrair o melhor critério de definição da competência, tendo em conta, em qualquer caso, o momento processual e a possibilidade de sua modificação posterior por circunstâncias supervenientes.
+2. A jurisprudência desta Corte firmou a compreensão de que a transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local.
+3. No caso, o suscitado destacou a deficiência estrutural do sistema carcerário da Comarca de Goiânia - GO, que nem sequer dispõe de tornozeleira eletrônica para implementar o início da execução penal, o que, a priori, justifica a inviabilidade de transferência do condenado.
+4. Agravo regimental não provido.(AgRg no CC n. 150.563/CE, relatorMinistro RogerioSchiettiCruz, TerceiraSeção,DJe de 2/10/2018.)
+Ante o exposto, conheço do conflito para declarar a competência doJuízo de Direito da 1ª Vara das Execuções Criminais de São Paulo (SP).
+Comunique-se. Publique-se.
+Cientifique-se o Ministério Público Federal e, oportunamente, encaminhem-se os autos ao Juízo competente.
