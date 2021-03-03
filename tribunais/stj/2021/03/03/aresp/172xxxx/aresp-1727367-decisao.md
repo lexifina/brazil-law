@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão do Tribunal de origem que inadmitiu recurso especial em razão da ausência de omissão e obscuridade e da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 407):
+APELAÇÃO CÍVEL - AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. PRELIMINARES - REJEITADAS. ATO DE IMPROBIDADE ADMINISTRATIVA QUE ATENTA CONTRA OS PRINCÍPIOS DA ADMINISTRAÇÃO PÚBLICA - COMPROVADO. IMAGEM PESSOAL VEICULADA EM PROPAGANDA DA ADMINISTRAÇÃO, CUSTEADA COM DINHEIRO PÚBLICO. DOLO GENÉRICO- CONFIGURADO.PENALIDADES- RAZOÁVEIS E PROPORCIONAIS. PRELIMINARES REJEITADAS, RECURSO DESPROVIDO
+Embargos rejeitados
+No apelo especial, o recorrentesustenta ofensa aos a art. 522, do Código de Processo Civil anterior; art. 373,I, e art. 1.009,§1º, do Código de Processo Civil vigente; art .11 e o art. 17,§6º, ambos da Lei n. 8.429/92, sob inexistência elemento doloso desonesto violador de princípios para que seja imputado ato de improbidade administrativa por promoção pessoal, caso em que suscita "ausência de interesse em promoção pessoal, sendo ignorada a assunção de precedentes ministeriais de que o dolo deveria ter sido fulminado na origem" (fl. 489).
+Por fim, argui que "a pretensão aqui deduzida está restrita à requalificação jurídica que se deva emprestar aos fatos delineados no próprio acórdão recorrido, o qual, repisa-se, descreve suficientemente o contexto fático em torno das condutas ímprobas" (fl. 485). No mais, "pugna-se, assim, pela concessão da ampla defesa e do contraditório, oportunizando, à vista disso, a confecção de provas pertinentes e necessárias para a confirmação do alegado em sede de contestação. Rogando, por consequência, a reabertura do momento instrutório, e designação da audiência de instrução e julgamento para inquirição das testemunhas arroladas às fls. 190/191"(fl. 488).
+Decisão de inadmissibilidade às fls. 540-544
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Com contraminuta.
+Reconsideração da decisão agravada de fls. 581-583(fl. 614).
+É o relatório. Decido.
+A insurgência não merece prosperar.
+De início, quanto ao enquadramento da conduta nos artigos. 9º, 10 e 11 da Lei 8.429/1992, esta Corte Superior possui entendimento uníssono segundo o qual, "para que o ato praticado pelo agente público seja enquadrado em alguma das previsões da Lei de Improbidade Administrativa, é necessária a demonstração do elemento subjetivo, consolidado no dolo para os tipos previstos nos arts. 9º e 11 e, ao menos, pela culpa nas hipóteses do art. 10 da Lei nº 8.429/92". (grifo nosso)
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. ATO CONFIGURADO. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. INCIDÊNCIA. DOSIMETRIA. EXCESSO. CONFIGURAÇÃO.
+ ..
+4. Hipótese em que, em face das premissas fáticas assentadas no acórdão objurgado, que reconheceu o enquadramento do recorrente nos atos de improbidade administrativa (art. 11 da Lei n. 8.429/1992), com a indicação expressa do elemento subjetivo (dolo), a modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, a teor da Súmula 7 do STJ.
+5. De acordo com a jurisprudência do STJ, para a configuração dos atos de improbidade que atentam contra os princípios da Administração (art. 11 da LIA), não se exige a comprovação do enriquecimento ilícito do agente ou prejuízo ao erário
+6. Esta Corte consolidou o entendimento de que é viável a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa quando, da leitura do acórdão recorrido, verificar-se a desproporcionalidade entre os atos praticados e as sanções impostas.
+8. Agravo interno parcialmente provido para manter apenas a multa civil imposta pelo Tribunal de origem. (AgInt no AREsp 818.503/RS, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 17/10/2019) (grifos acrescidos).
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA. INDÍCIOS DE COMETIMENTO DE ATO ÍMPROBO AFIRMADOS A PARTIR DO CONJUNTO FÁTICO E PROBATÓRIO CONSTANTE DOS AUTOS. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. ELEMENTO SUBJETIVO. NECESSIDADE DE REGULAR INSTRUÇÃO PROBATÓRIA.
+1. A presença de indícios de cometimento de atos de improbidade autoriza o recebimento da petição inicial da Ação Civil Pública destinada à apuração de condutas que se enquadrem na Lei 8.429/1992 . Deve, assim, prevalecer o princípio do in dubio pro societate. Precedentes do STJ.
+2. No caso em concreto, foi com base no conjunto fático e probatório constante dos autos que o Tribunal de origem entendeu pela presença de indícios de prática de improbidade administrativa pela parte ora recorrente, a autorizar o recebimento da petição inicial. A revisão de tais fundamentos descabe na via recursal eleita, consoante a Súmula 7/STJ.
+3. É necessária a regular instrução probatória a fim de que se demonstre a efetiva presença de elemento subjetivo exigido para a configuração do ato de improbidade administrativa, o que reforça, por sua vez, a necessidade de recebimento da petição inicial.
+4. Recurso Especial não conhecido. (REsp 1.770.305/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2019)
+Com efeito, o Tribunal a quo, analisando as condutas tidas por ímprobas, se manifestou-se no sentido de que há presença do elemento subjetivo (dolo), visto que as imagens inseridas nas publicidades, estas bancadas pelos cofres públicos, caracterizaram divulgação indevida dos agentes públicos, como forma de promoção pessoal,conduta enquadra-se no artigo 11, da Lei 8.429/92.
+Segue trecho do acórdão recorrido (e-STJ fls.407-411):
+ ..
+Nesse contexto, é evidente que as imagens inseridas nas publicidades, estas bancadas pelos cofres públicos, caracterizaram divulgação indevida dos agentes públicos, como forma de promoção pessoal. Inafastável, portanto, a conclusão de que "os elementos de prova encartados aos autos demonstram cabalmente que houve a utilização do patrimônio público material e imaterial, com o custeio de painel publicitário e o emprego do logotipo municipal, como o objetivo de favorecimento a imagem e consequente promoção pessoal dos recorrentes, entãoPrefeito do Município de Novo Horizonte do Sul e Secretário Municipal de Agricultura, na divulgação de ato administrativa que teria beneficiado diversos municipes" (fl. 424).
+Não se tratou, portanto, de mera propagando institucional, antes a conduta enquadra-se no artigo 11, da Lei 8.429/92, incidindo as sanções do art. 12, inciso III. Bastando configuração do dolo genérico, que vislumbra no caso em tela, sendo desnecessariamente a existência de dano ou enriquecimento ilícito.
+ ..
+(grifos acrescidos)
+Sendo assim, foi com base no conjunto fático e probatório constante dos autos que o Tribunal de origem confirmou a prática de ato de improbidade administrativa previsto noart.11, da Lei 8.429/92, posto que configurada a presença do elemento subjetivo (dolo). Caso em que incide, portanto, a Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. ACÓRDÃO QUE CONSIGNA O ELEMENTO SUBJETIVO APTO A CARACTERIZAR O ATO ÍMPROBO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. REVISÃO DAS SANÇÕES IMPOSTAS. VERIFICAÇÃO. REEXAME DE MATÉRIA FÁTICO PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO.
