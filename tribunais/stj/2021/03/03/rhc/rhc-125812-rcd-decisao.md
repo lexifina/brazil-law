@@ -1,0 +1,27 @@
+DECISÃO
+IGOR GUILHERME MARCELINO DE SOUZAagrava de decisão em que julguei prejudicado o habeas corpus.
+Reconsidero a decisão agravada.
+Quanto à custódia cautelar, expõem os autos que o paciente foi condenado a 15 anos de reclusão, em regime fechado, pela prática dosdelitos de homicídio qualificado e corrupção de menores.
+Em apelação, o Tribunal de origem deu provimento ao recurso da defesa e determinou a realização de novo Júri.
+O Magistrado de primeiro grau, ao pronunciar o réu e manter a custódiafez remissão ao fundamentos já elencados por ocasião da decisão que decretou a prisãopreventiva.
+Por sua vez, o referido decisum mencionou que, no caso,"nenhuma das cautelares previstas no art. 319 do CPP são suficientes para ilidir as justificativas da Autoridade Policial e do Parquet pela prisão preventiva do denunciado  .. , sobretudo em face da gravidade da conduta delituosa em tese delineada e das próprias circunstâncias em que os fatos teriam ocorrido" (fl. 108).
+Nessa trilha, destacou o Tribunal de origem que "a custódia cautelar como garantia da ordem pública, sobretudo, pelo modus operandi adotado pelo paciente, o qual alvejou a vítima com diversos disparos de arma de fogo, circunstância a revelar a maior reprovabilidade da conduta" (fl. 338).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessas premissas, observo que são bastantes as razões invocadas pelo Juízo singular para embasar a ordem de segregação do paciente, porquanto contextualizou, em dados concretos, o periculum libertatis.
+Justifica-se o cárcere cautelar do acusado, diante da sua periculosidade social, constatada pela gravidade em concreto dos delitos praticados pelo acusado.Concluo, portanto, haver sido demonstrada a exigência cautelar justificadora da prisão preventiva do acusado. A esse respeito, destaco os seguintes precedentes:
+ ..  2. O decreto da prisão preventiva evidencia a gravidade em concreto da conduta e a periculosidade dos acusados que agiram com peculiar modus operandi, visto que o crime foi cometido mediante o concurso de pessoas, por motivo fútil e com recurso que dificultou a defesa da vítima, contra quem foram desferidos diversos golpes de facão e barra de ferro em direção à sua cabeça.
+3. Diante da gravidade da conduta perpetrada e do risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Recurso não provido.
+(RHC n. 104.138/MT, Rel. Ministro Rogerio Schietti Cruz, 6ª T., DJe 26/3/2019).
+ ..  2. A prisão preventiva está adequadamente fundamentada na espécie, tendo em vista que as circunstâncias concretas do delito evidenciam a necessidade da constrição cautelar para a garantia da ordem pública, pela periculosidade do Recorrente, considerando- se, sobretudo, o modus operandi dos delitos. Precedentes.
+3. No caso, o recorrente é o suposto mandante do homicídio, movido por vingança, por um desentendimento anterior com a vítima, tendo sido efetuados vários disparos sem chance de defesa, por meio de emboscada.
+4. As condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não têm o condão de, por si sós, desconstituir a custódia antecipada, caso estejam presentes outros requisitos de ordem objetiva e subjetiva que autorizem a decretação da medida extrema. 5. Recurso ordinário desprovido.
+(RHC n. 100.877/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/10/2018).
+Quanto ao excesso de prazo,adespeito dosargumentos externados no habeas corpus, os quais indicamcerta demora nodesfecho do processo, observoa existência deespecificidades queafastam o alegadoconstrangimentoilegal.
+Além da complexidade ínsita ao caso, que envolveoutroacusadoe a ocorrência deincidentes, como a determinação de realização de novo Júri, há indicação de que vem sendo realizadosos esforços necessários para o desenvolvimentoregular dapersecução penal.
+Ressalto, inclusive, que a principal alegação era a demora no trâmite do recurso especial interposto pela acusação e que, à época do julgamento do mandamus originário (12/3/2020), os autos encontravam-sejustamente com a defesa para a apresentação de contrarrazões desde 30/1/2020.
+Esclareço, ainda, que o referido recurso especial foi julgado monocraticamente em 26/2/2021, havendo a defesa interposto agravo regimental, que aguarda julgamento.
+Pondero, por fim, que conforme a orientação desta Corte, "os prazos processuaisprevistos na legislação pátria devem ser computados de maneira global e oreconhecimento do excesso deve-se pautar sempre pelos critérios darazoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF),considerando cada caso e suas particularidades" (RHC n. 123.814/ES, Rel.Ministro Rogerio Schietti, 6ª T., DJe 8/6/2020).
+Assim, considero que as nuances do caso justificam a maior delonga, não se verificando desídia do Judiciário.
+À vista do exposto, reconsidero a decisão de fls. 486-487 edenego a ordem.
+Publique-se e intimem-se.
