@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ANTONIO GOMES GONCALVES FILHO contra acórdão proferido em sessão permanente e virtual da Câmara de Direito Criminal do Tribunal de Justiça do Estado do Acre (Agravo em execução n. 0101313-05.2020.8.01.0000).
+Consta dos autos que Juízo das Execuções Criminais indeferiu pedido de retificação do cálculo de penas para fins de progressão de regime, considerando o lapso temporal de 3/5 (60%), por ser o réu reincidente (e-STJ fls. 63/67).
+Inconformado, a defesa interpôs agravo em execução perante a Corte estadual, pugnando, dentre outros argumentos, pela retificação do cálculo de penas do sentenciado. O Tribunal de Justiça, contudo, negou provimento ao recurso, nos termos da seguinte ementa (e-STJ fl.157):
+AGRAVO EM EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ALTERAÇÃO DE RELATÓRIO CARCERÁRIO. APLICAÇÃO DA FRAÇÃO CORRESPONDENTE A 40% (QUARENTA POR CENTO). IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. AGENTE REINCIDENTE.
+1. Por expressa previsão legal, o percentual de 40% (quarenta por cento) da pena é requisito objetivo para progressão de regime apenas do apenado primário, condenado pela prática de crime hediondo ou equiparado.
+2. Agravo conhecido e desprovido.
+Na presente impetração, a Defensoria Pública relata que o paciente é reincidente simples, de modo que o lapso aplicável ao caso do sentenciado é de 40% (quarenta por cento) para progressão de regime.
+Ressalta que, no caso dos autos, não cabe o argumento de que o prazo de 40% (quarenta por cento) só se aplica aos condenados primários e que não seria este o caso do paciente.
+Argumenta, então, que se de um lado o executado não é primário, como mencionado pelo inciso V, do artigo 112 da Lei de Execução Penal, de outro, não é reincidente específico, como expressamente exige o inciso VII do mesmo artigo, deve ser aplicada a norma mais favorável a ele, como consequência lógica do princípio do favor rei.
+Pede, assim, liminarmente e no mérito, seja reconhecida a incidência do disposto no inciso V do artigo 112 da LEP com redação dada pela Lei n. 13.964/2019, determinando-se a aplicação da fração de 40% (quarenta por cento) no cálculo de penas da parte paciente.
+Às fls. 185/187, indeferi a liminar.
+Foram prestadas informações pelo Juízo das Execuções (e-STJ fls. 194/195), nas quais esclareceu que "Em juízo de retratação, a decisão que indeferiu referida impugnação foi revogada, determinando-se a retificação dos cálculos de pena para que conste o percentual previsto no art. 112, V, da LEP, qual seja, 40%, conforme entendimento já pacificado pela Egrégia Corte Superior de Justiça".
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou pelo não conhecimento da impetração, ante a perda superveniente de seu objeto, em parecer assim ementado:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADMISSIBILIDADE. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO OBJETIVO. NOVA REDAÇÃO DO ART. 112, DA LEI DE EXECUÇÃO PENAL, DADA PELA LEI Nº 13.964/2019. APENADO REINCIDENTE. PERCENTUAL DE CUMPRIMENTO DA PENA DE 60%. CÁLCULO DE PENA RETIFICADO PARA QUE CONSTE O PERCENTUAL PREVISTO NO ART. 112, V, DA LEP, QUAL SEJA, 40%. PEDIDO PREJUDICADO. NÃO CONHECIMENTO DA SÚPLICA.
+Parecer pela prejudicialidade da impetração.
+É o relatório. Passo a decidir.
+Tendo em conta que a única irresignação posta na presente impetração dizia respeito à realização de novo cálculo da pena do paciente, aplicando-se o percentual de 40% (quarenta por cento) previsto no art. 112, V, da Lei de Execuções Penais, para fins de progressão de regime, e que, nas informações prestadas, o Juízo de 1º afirmou ter reconsiderado sua decisão anterior para determinar a realização de novo cálculo, nos moldes pleiteados pela defesa, não remanesce interesse na discussão posta nestes autos.
+Ante o exposto, com amparo no art. 34, XI e XX, do Regimento Interno do STJ, não conheço do presente habeas corpus, ante a perda superveniente de seu objeto.
+Intimem-se.
