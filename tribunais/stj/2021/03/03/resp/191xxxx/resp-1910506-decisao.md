@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fl. 119):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO DESTINADA AO SENAR.SUBSTITUIÇÃO TRIBUTÁRIA.
+1. A obrigação do adquirente da produção rural dos produtores rurais pessoas físicas de descontar (do valor devido aos produtores rurais) e recolher, na condição de substituto tributário, a contribuição social ao SENAR, incidente sobre a receita bruta proveniente da comercialização da produção, está instituída no artigo 11, parágrafo 5º, alínea "a", do Decreto nº 566, de 10 de junho de 1992, na redação dada pelo Decreto nº 790, de 31 de março de 1993.
+2. Somente a lei poderia atribuir ao adquirente da produção rural do produtor rural pessoa física ou empregador rural a responsabilidade pela retenção da contribuição devida ao SENAR, instituindo-o na função de substituto tributário.
+3. Inexiste previsão legal para o regime de substituição tributária fixado pelo art. 11, § 5º, a, do Decreto nº 566/92, obrigando a parte autora à retenção e ao subsequente recolhimento da contribuição destinada ao SENAR, instituída pela Lei nº 8.315/91, regulamentada pelo Decreto nº 566/92 e Lei nº 9.528/97, relativamente a operações de comercialização de produção rural por produtores rurais, sujeitas ao indigitado regime de substituição tributária.
+4. Na ausência de lei, a obrigação instituída pelo Decreto 566/92 viola frontalmente o disposto no art. 97 do CTN e, portanto, é ilegal, sendo desnecessário confrontá-la com a Constituição Federal.
+Os embargos de declaração foram parcialmente providos em acórdão assim ementado (e-STJ fl. 155):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO.OMISSÃO. PREQUESTIONAMENTO. ALTERAÇÃO LEGISLATIVA SUPERVENIENTE. SENAR. LEI Nº 13.606, DE 2018. CORREÇÃO.
+1. São cabíveis embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, conforme dispõe o artigo 1.022 do CPC.
+2. Devem ser providos os embargos de declaração para sanar omissão do acórdão sobre legislação superveniente sobre a matéria.
+3. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, encontra disciplina no artigo 1.025 do CPC, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração.
+No apelo especial (e-STJ fls.170-176 ), a Fazenda Nacional pugna em síntesepelo provimento do recurso especialpara reafirmar a vigência dos artigos 2º e 3º da Lei 11.457/2007, art.30, IV, da Lei 8.212/91, e artigos 97, III, 121, § único, II, e 128, do CTN, reformando-se o acórdão recorrido, de modo a reconhecer a obrigação da parte autora à retenção e subsequente recolhimento da contribuição destinada ao SENAR, no período anterior à vigência da Lei nº 13.606/2018.
+Com contrarrazões.
+Decisão de admissibilidade à fl. 220.
+Parecer do MPF às fls. 239-244, pelo não conhecimento do recurso especial.
+É o relatório. Passo a decidir.
+Com efeito, esta Corte possui entendimento no sentido de que aexigência, de retenção pelo adquirente, no regime de substituição tributária, do valor da contribuição para o SENAR, instituído por decreto, se apresenta indevida porque vai de encontro à previsão contida nos arts. 121, parágrafo único, II e o art. 128 do CTN, que condicionam a instituição da substituição tributária à edição de lei em sentido formal.
+Nesse sentido:
+TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SENAR. RECOLHIMENTO PELO ADQUIRENTE DA PRODUÇÃO RURAL. REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA. EXIGÊNCIA DE PREVISÃO EM LEI FORMAL. NECESSIDADE. ART. 30, IV, DA LEI N. 8.212/91. INAPLICABILIDADE.
+I - A questão se desenvolve em torno da contribuição ao Serviço Nacional de Aprendizagem Rural - SENAR erigida no art. 3º da Lei n. 8.315/1991. A teor do art 6º da Lei n. 9.528/1997, o empregador rural pessoa física e o segurado especial são contribuintes da exação, no percentual de 0,2% sobre a receita bruta proveniente da comercialização de sua produção rural.
+II - De acordo com a previsão do art. 11, § 5º, a, do Decreto n. 566/92, incluído pelo Decreto n. 790/93, a referida contribuição deve ser recolhida pelo adquirente da produção rural, que fica sub-rogado, para tal fim, nas obrigações do produtor.
+III - A referida exigência, de retenção pelo adquirente, no regime de substituição tributária, do valor da contribuição para o SENAR, instituído por decreto, se apresenta indevida porque vai de encontro à previsão contida nos arts. 121, parágrafo único, II e o art. 128 do CTN, que condicionam a instituição da substituição tributária à edição de lei em sentido formal.
+IV - Por outro lado, não se aplica na hipótese a égide da Lei n. 8.212/1991, que no seu art. 30, IV, determinou que "o adquirente, o consignatário ou a cooperativa ficam sub-rogados nas obrigações da pessoa física de que trata a alínea a do inciso V do art. 12 e do segurado especial pelo cumprimento das obrigações do art. 25 desta lei, exceto no caso do inciso X deste artigo, na forma estabelecida em regulamento." (grifos não constam do texto original). Apesar de a referida lei estabelecer a instituição da substituição tributária, validamente ela o fez para as obrigações (contribuições) do art. 25 da referida Lei n. 8.212/91, que se destinam à seguridade social.
+V - Recursos especiais improvidos (REsp 1.651.654/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 7/12/2020, grifo nosso).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO PARA O SENAR. RECOLHIMENTO PELO ADQUIRENTE DA PRODUÇÃO RURAL. REGIME DE SUBSTITUIÇÃO TRIBUTÁRIA. EXIGÊNCIA DE PREVISÃO EM LEI FORMAL. NECESSIDADE. ART. 30, IV, DA LEI N. 8.212/91. INAPLICABILIDADE. PRECEDENTE. RECURSO ESPECIAL NÃO PROVIDO.
