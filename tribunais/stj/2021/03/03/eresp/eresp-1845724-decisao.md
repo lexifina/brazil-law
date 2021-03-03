@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por MARCO ANDRE KERBER, EDITE BERTÉ e JONATAN KATZcontra acórdão prolatado pela Segunda Turma, Relator Ministro Herman Benjamin, assim ementado (e-STJ fl. 651):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO.EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE.EXEQUENTE. CONCORDÂNCIA. CONDENAÇÃO DA FAZENDA EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. ART. 19, § 1º, DA LEI 10.522/2002.
+1. Hipótese em que o Tribunal de origem decidiu a demanda em sintonia com o entendimento desta Corte Superior de que, "de acordo com a atual redação do inciso I do § 1º do art. 19 da Lei n. 10.522/2002, que foi dada pela Lei n.12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002" (AgInt no AgInt no AREsp 886.145/RS, Rel. Min. Benedito Gonçalves, DJe 14.11.2018).
+2. Recurso Especial não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 680/686).
+Nas suas razões, os embargantesapontam divergência do julgado com o decidido nos autos do EREsp 1.215.003/RS, Rel. Min. Benedito Gonçalves, Primeira Seção, doAgintno AResp 1.455.358/SP, Rel. Min. Gurgel de Faria, Primeira Turma, e doAgintnoREsp 1.648.462/MG, Rel. Min. Og Fernandes, Segunda Turma.
+Em síntese, alegam (e-STJ fl. 692):
+Em se tratando de exceção de pré-executividade oposta em 01.04.2013 (e-STJ, fl. 11), antes da vigência da Lei 12.844/2013 (que remonta a 19.07.2013), prevalece o entendimento firmado por esta Egrégia Primeira Seção no julgamento do EREsp 1.215.003/RS no sentido do cabimento de honorários de sucumbência mesmo diante de reconhecimento da procedência do pedido pela Fazenda Pública. A referida norma legal (que atribuiu nova redação ao art. 19 da Lei Federal 10.522/2002 para dispensar a incidência de honorários de sucumbência quando houver reconhecimento da procedência do pedido pela Fazenda Pública "inclusive em embargos à execução fiscal e exceções de pré-executividade") somente se aplica para situações posteriores.
+Decido.
+Inicialmente, destaco que"aoposição de embargos de divergência fundado em acórdão paradigma da mesma turma que proferiu a decisão embargada somente é admitida quando houver a alteração de mais da metade dos seus membros (art. 1.043, § 3º, do NCPC), o que não ocorreu." (AgInt nos EAREsp 1.157.501/SP, Relatora Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 20/8/2019, DJe 22/8/2019)(AgInt nos EAREsp 1577823/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 01/12/2020, DJe 09/12/2020).
+Assim, no que diz respeito ao paradigma oriundo da Segunda Turma, os embargos não comportam conhecimento.
+No mais, em relação aos outros dois paradigmas invocados, verifica-se, neste juízo perfunctório, a tempestividade do recurso e a plausibilidade das alegações da parte embargante quanto à existência de divergência interna sobre a questão jurídica por ela suscitada.
+Ante o exposto, ADMITO os embargos para discussão.
+Abra-se vista à parte embargada para impugná-los no prazo legal (art. 267 do RISTJ).
+Publique-se. Intimem-se.
