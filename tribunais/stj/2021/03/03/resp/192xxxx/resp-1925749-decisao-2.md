@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto porEDUARDO ROCHA DE OLIVEIRA eMARGARETE TEIXEIRA DA ROCHA contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 566):
+AÇÃO DE REINTEGRAÇÃO DE POSSE E RECONVENÇÃO -COMPROMISSO DE COMPRA E VENDA DE IMÓVEL COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA - MODALIDADE CONTRATUAL REGIDA PELA LEI Nº 9.514/97 - RESTITUIÇÃO DAS PARCELAS PAGAS - INADMISSIBILIDADE - INAPLICABILIDADE DO ARTIGO 53 DO CDC - TAXA DE OCUPAÇÃO DE 1% SOBRE O VALOR DE AVALIAÇÃO DO IMÓVEL - CABIMENTO - EXISTÊNCIA DE DISPOSIÇÃO LEGAL E CONTRATUAL A RESPEITO - DIREITO DE INDENIZAÇÃO POR BENFEITORIAS - EXISTÊNCIA DE CLÁUSULA CONTRATUAL PREVENDO SUA INCORPORAÇÃO AO IMÓVEL OBJETO DA GARANTIA - FATOS CONSTITUTIVOS DO DIREITO, ADEMAIS, NÃO DEMONSTRADOS PELOS RÉUS/RECONVINTES - PRETENSÃO AFASTADA - SENTENÇA MODIFICADA - APELAÇÃO PROVIDA.
+Os embargos de declaração opostos pela parte ora recorrida foram acolhidos sem efeitos infringentes e os da recorrente, rejeitados (e-STJ fls. 596-602).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 373, I; 357 e 1.022 do CPC; 884 do CC; e 26, § 1º, e 37-A da Lei 9.514/1997. Afirma que a consolidação da propriedade em favor dos recorridos é nula, pois a segunda recorrente não foi constituída em mora, na medida em que notificada por hora certa pelo oficial de justiça. Assevera que os recorrentes não foram notificados da data e hora do leilão, sendo patente a nulidade dos atos administrativos praticados pelos recorridos. Defende que a taxa de ocupação em 1% do valor do imóvel destoa do valor de mercado do imóvel e sua respectiva locação, implicando enriquecimento indevido do recorrida. Aduz não apreciado o pedido de prova pericial quanto ao valor do aluguel, acarretando cerceamento de defesa. Entende que a sentença, que fixou a taxa de ocupação em 0,5% por ser mais sensível à realidade econômica atual deve ser restabelecida. Acredita que, no caso, houve enriquecimento sem causa da parte recorrida que além do imóvel ficou com as parcelas pagas e as benfeitorias.
+Foram apresentadas contrarrazões (e-STJ fls. 692-709).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 711-713), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Para melhor análise da controvérsia, converto o presente agravo em recurso especial.
+Ante o exposto dou provimento ao agravo, determinando sua conversão em recurso especial.
+Após a regularização do novo registro, retornem os autos conclusos para julgamento.
+Intimem-se.
