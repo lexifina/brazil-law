@@ -1,0 +1,19 @@
+DECISÃO
+RECLAMAÇÃO – COMPETÊNCIA DO SUPREMO – USURPAÇÃO – LIMINAR – DEFERIMENTO.
+    1. O assessor Eduardo Lasmar Prado Lopes prestou as seguintes informações:
+    Usina Cerradão Ltda. afirma haver a Primeira Turma do Tribunal Superior do Trabalho, no agravo de instrumento no recurso de revista nº 11002-19.2016.5.03.0156, usurpado a competência do Supremo e inobservado o decidido na arguição de descumprimento de preceito fundamental nº 324 e, sob a sistemática da repercussão geral, no recurso extraordinário nº 958.252 – Tema nº 725.
+    Narra estar em debate a possibilidade da terceirização de mão de obra de atividade-fim. Ante o reconhecimento da ilicitude, pelo Tribunal Regional do Trabalho da 3ª Região, menciona a formalização de recurso de revista, inadmitido. Ressalta desprovido agravo de instrumento, a seguir protocolado em virtude da ausência de transcendência da questão, surgindo o descompasso.
+    Sustenta inobservada a competência deste Tribunal, uma vez assentada a falta de transcendência de matéria em relação à qual o Supremo admitiu configurada a repercussão maior no recurso extraordinário nº 958.252, de modo a impedir a interposição de extraordinário neste caso. Diz proclamada, na arguição de descumprimento de preceito fundamental nº 324, a licitude da terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada.
+    Requer, no campo precário e efêmero, a suspensão dos efeitos do ato atacado. No mérito, busca a cassação.
+    2. Da leitura da decisão impugnada, proferida em 21 de setembro de 2020, depreende-se, a despeito de assentada a ausência de transcendência da matéria veiculada, em jogo discussão sobre a licitude da terceirização de atividade-fim, sem que seja configurada a relação de emprego entre os contratantes. Confiram trecho:
+    Em relação ao segundo tema, o Regional concluiu na validade do auto de infração aplicado pela autoridade fiscalizatória, que identificou cerca de 1.417 trabalhadores contratados “com todos os elementos fático-jurídicos da relação de emprego, inclusive subordinação, em benefício da parte autora”. Registrou que restaram presentes os requisitos exigidos pelo artigo 3º, caput, da CLT, no desempenho das atividades desses empregados e, ainda, ficou evidenciada a terceirização ilícita.
+    [...]
+    Assim, verifico que a questão objeto do recurso de revista não oferece transcendência hábil a impulsionar o apelo. Isso porque a pretensão recursal, no sentido de desconstituir a assertiva firmada pelo Regional implica, necessariamente, o reexame dos fatos e provas, procedimento vedado pela Súmula 126 do TST. Assim, tem-se que o recurso de revista não se viabiliza por ausência de transcendência.
+    O Pleno, em 6 de setembro de 2019, proclamou, no julgamento da arguição de descumprimento de preceito fundamental nº 324 e do recurso extraordinário nº 958.252, analisado sob o ângulo da repercussão, a licitude da terceirização de qualquer atividade, meio ou fim, independentemente do objeto social das empresas envolvidas, e sem que se configure relação de emprego entre a contratante e o empregado da contratada.
+    Ao assentar a falta de transcendência do tema mediante decisão dita irrecorrível, o Tribunal Superior do Trabalho, além de desconsiderar a envergadura maior da controvérsia, impediu a sequência do processo originário, de forma a ver submetida a lide, com questão constitucional, ao Supremo.
+    3. Defiro a liminar, para suspender a eficácia da decisão formalizada pelo Tribunal Superior do Trabalho, em 21 de setembro de 2020, no agravo de instrumento em recurso de revista nº 11002-19.2016.5.03.0156.
+    4. Citem o interessado e solicitem informações. Com o recebimento, colham o parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 3 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
