@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por POSTO ILHEUS LTDA. eJOSE BARTOLOMEU DE ALMEIDA MELOcontra decisão do Tribunal de Justiça de Pernambuco que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA FUNDADA NO SINISTRO MORTE DO SEGURADO. DIREITO CIVIL E DO CONSUMIDOR. SEGURO DE AUTOMÓVEL. RECUSA DE PAGAMENTO PELA SEGURADORA. TRÂNSITO. EMBRIAGUEZ DO CONDUTOR. AGRAVAMENTO INTENCIONAL DO RISCO. EXCLUSÃO DA INDENIZAÇÃO.
+1- A direção do veículo por um condutor alcoolizado já se mostra como agravamento essencial do risco avençado, sendo lícita a previsão contratual da seguradora que determina a exclusão da cobertura securitária.
+2- Inexiste o dever de indenizar, pois restou comprovado o agravamento intencional do risco, considerando o cansaço de horas de jornadas, bem como a constatação de álcool no sangue do motorista.
+2- Cumpre ressaltar ainda que a seguradora comprovou o estado de embriaguez do condutor do veículo, o que enseja presunção relativa de que o risco foi agravado, com aplicação da pena do art. 768 do CC..
+3- Recurso a que se dá provimento.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: artigo 1.022 do Código de Processo Civil, artigos 187 e 768 do Código Civil, artigo 6º, inciso VIII, e 47 do Código de Defesa do Consumidor e artigo 306 da Lei 90503/97.
+Sustenta preliminarmente que o acórdão deve ser anulado porque o Tribunal de origem não se manifestou a respeito dos motivos pelos quais "não considerou (NÃO VALOROU) a) a existência de cláusula contratual que obriga a seguradora a comprovar o nexo de causalidade entre a ingestão alcóolica e o sinistro; b) a inexistência de indicação, no laudo necroscópico, da quantidade de concentração de álcool por litro de sangue; c) O fato de o sinistro ter ocorrido antes da alteração do Código de Trânsito Brasileiro pela Lei 12.760/2012; d) O princípio do "in dubio pro consumidor"". Sustenta ainda que o Tribunal de origem teria apenas invocado"precedente desse Colendo Superior Tribunal de Justiça sem, no entanto, ter corretamente aplicado o distinguishing", argumentando que "no caso específico destes autos, é o próprio contrato de seguro que transfere à seguradora o dever de comprovar o nexo de causalidade entre a ingestão do álcool e o sinistro, afastando a presunção relativa do agravamento do risco"
+Quanto ao mérito, pede a reforma do acórdão por entender, em síntese, que "o próprio instrumento elaborado pela seguradora afasta a presunção relativa, CONDICIONANDO A EXCLUSÃO à prova do nexo causal entre a ingestão de álcool e o sinistro e, ainda que não expressamente estivesse, o princípio do "in dubio pro consumidor"exige interpretação mais favorável a este último", argumentando que a "lei vigente exigia a comprovação da concentração de álcool por litro de sangue acima do limite estabelecido", algo que "não foi apontado pelo laudo"
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+As razões veiculadas pela agravante mostram-se relevantes, exigindo, assim, uma análise mais profunda.
+Ante o exposto, acolho o agravo para, em juízo de retratação, determinar a sua reautuação como recurso especial a fim de permitir um melhor exame da controvérsia.
+Após a regularização do novo registro, voltem conclusos para julgamento do recurso especial.
+Intimem-se
