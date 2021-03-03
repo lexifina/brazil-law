@@ -1,0 +1,34 @@
+7. Cumpra-se.” (destaquei).
+Todavia, tal decisão se encontra suspensa por decisão da Desa. Antônia Siqueira Gonçalves nos autos do Recurso de Agravo de Instrumento n. 1026142-46.2020.8.11.0000, por entender que “não foi observada pelo juízo a quo a impossibilidade de determinar desde logo a reintegração no imóvel, haja vista a necessidade de analisar primeiramente os embargos de declaração opostos em face da decisão que deferiu tal ato” (sic).
+Quando foram analisados os embargos opostos pelo agravante, o juízo a quo, por considera-los protelatórios, aplicou a multa de 1% (um por cento) sobre o valor atualizado da causa em favor do embargado, razão da interposição do presente recurso.
+Feito este introito para tornar mais clara a questão aventada, passo à análise da pretensão inicial formulada pelo agravante.
+Denota-se, pois, diante dos argumentos constantes nas razões recursais em confluência com os documentos apresentados e com a decisão agravada, que a primeira vista não tem procedência o pleito concernente à antecipação da tutela recursal para, desde logo, imitir o agravante na posse do imóvel.
+Isso porque tal assunto é correlato ao mérito da ação de origem. Além do mais, a uma análise singela que o momento propicia, não resta aparente o periculum in mora, mesmo porque a reintegração do autor/agravado na área encontra-se suspensa até o julgamento do Agravo de Instrumento n. 1026142-46.2020.8.11.0000.
+Com relação à aplicação da multa nos embargos declaratórios, transcrevo na parte que interessa a decisão recorrida:
+“(...) As alegações dos embargantes não merecem prosperar, haja vista que os temas abordados não comporta matéria pertinente a Embargos Declaratórios.
+Assim, a matéria objurgada não é passível de análise por meio dos Embargos de Declaração, devendo os embargantes proporem o recurso cabível à matéria, visto que os embargos têm por fito analisar omissão, contradição ou obscuridade na decisão embargada.
+Nesse mesmo passo, necessário expor os requisitos necessários para a interposição de embargos de declaração.
+Adentrando especificamente nas hipóteses que possibilitam a oposição de embargos declaratórios: “Obscuro é o ato decisório ambíguo, capaz de propiciar interpretações díspares; contraditório é aquele cujas asserções, porque contrastantes, se apresentam de entendimento inconciliável , e omisso é o que silencia acerca de pontos argüidos, hipótese inexistente na hipótese (TJSC, EDMS n. 5.884, da Capital, rel. Des. Francisco Oliveira Filho, j. em 13.12.95).
+Dessa forma, entende-se que os embargantes pleiteiam pela reforma decisão, devendo, portanto, analisar melhor o feito e requerer o que entender de direito em momento adequado.
+Assim sendo, não há que se falar em propositura de Embargos de Declaração, mormente quando o objetivo dos presentes não é sanar irregularidades contidas na decisão.
+De mais a mais, os Embargos de Declaração só tem sido admitidos em casos excepcionais e ainda assim se demonstrado a ausência de outros recursos cabíveis, o que não se subsumi ao caso em espécie.
+Eventual error in iudicando do juízo e/ou descontentamento ser externado em via própria adequada, no caso, pela via recursal.
+Desta forma, mantenho a decisão atacada por todos os seus fundamentos.
+Diante do exposto, com fundamento no art. 1.022 do CPC, nego provimento aos Embargos de Declaração, por se tratarem de mero inconformismo que deveria ser buscado na via adequada.
+Consideram-se protelatórios os Embargos de Declaração opostos em total inobservância aos requisitos contidos na lei processual.
+Cabível, portanto, a aplicação da multa prevista no parágrafo único do art. 1.026, § 2o do CPC. Assim aplico aos embargantes multa de 1% (um por cento) sobre o valor atualizado da causa em favor do embargado (...)” (Id. 76517464).
+Como é cediço, o artigo 1.022 do diploma processual civil prevê que o Recurso de Embargos de Declaração é oponível para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o Juiz de ofício ou a requerimento e/ou corrigir erro material.
+Pode-se dizer que há indícios que o embargante/agravante, utilizando como pretexto a infundada alegação de vícios no decisum, não escondeu de fato o propósito de reavaliação da matéria, o que é terminantemente inadequado e inadmissível por meio da via elegida.
+Nesse sentido:
+“EMBARGOS DE DECLARAÇÃO – AGRAVO DE INSTRUMENTO – OMISSÃO – INOCORRÊNCIA – VÍCIO SUSCITADO COMO MERO PRETEXTO À REDISCUSSÃO DO MÉRITO RECURSAL JÁ ENFRENTADO E DECIDIDO – INADMISSIBILIDADE – MANIFESTO CARÁTER PROTELATÓRIO DA INTERPOSIÇÃO – EMBARGOS REJEITADOS, COM APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, §2o, DO CPC.
+Os embargos de declaração têm finalidade específica, exigindo indicação clara, precisa e fundamentada do ponto da decisão impugnada que se mostra viciado pela contradição, obscuridade e/ou omissão (CPC, art. 1.022), de modo que, versando a interposição de aclaratórios sobre os temas recursais já enfrentados e decididos, ou seja, como mero pretexto à rediscussão dos fundamentos decisórios, tanto a rejeição dos embargos é medida impositiva quanto a imposição da multa prevista no art. 1.026, §2o, do CPC é perfeitamente cabível ante o caráter manifestamente protelatório da interposição. (ED 1016133-25.2020.8.11.0000, DES. JOÃO FERREIRA FILHO, Primeira Câmara de Direito Privado, Julgado em 02/02/2021, Publicado no DJE 09/02/2021).
+Assim, tenho que os fundamentos lançados na decisão recorrida são relevantes, e o agravante não apresentou elementos necessários que indiquem a probabilidade de provimento do recurso.
+Da mesma forma, entendo não demonstrado o risco de dano grave, de difícil ou impossível reparação até que se decida o mérito recursal, já que não foi estabelecido, pelo juízo de primeiro grau, prazo para pagamento da multa em questão.
+Em outras palavras, se o agravante não comprovou, de modo concreto, que a decisão a quo lhe trará dano irreversível no decorrer do processamento do recurso, não há perigo da demora a justificar modificação no decisum recorrido.
+Logo, não evidenciados os requisitos para a concessão da pretensão inicial, mostra-se prudente a manutenção da decisão recorrida até o julgamento deste agravo pelo colegiado.
+Com essas considerações, em razão da ausência dos requisitos previstos no artigo 1019, I c/c artigo 300, caput e artigo 995, parágrafo único, todos do Código de Processo Civil, INDEFIRO/NÃO CONCEDO a antecipação da tutela recursal/efeito suspensivo vindicados.
+Intime-se o agravado para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 03 de março de 2021.
+Des. Carlos Alberto Alves da Rocha
+Relator, em Substituição Legal
