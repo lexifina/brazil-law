@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto porWeston Cleiton de Abreu Soares,com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão doTribunal de Justiça do Distrito Federal e dos Territórios,assim ementado (e-STJ fl. 244):
+APELAÇÃO. AÇÃO DE REVISÃO CONTRATUAL. DÉBITO EM CONTA CORRENTE. LIMITAÇÃO DE DESCONTOS A 30% DO VALOR DA REMUNERAÇÃO. AUSÊNCIA DE PREVISÃO LEGAL. SENTENÇA MANTIDA.
+1. Hipótese de descontos procedidos no contracheque e na conta corrente do autor em razão de contratos de mútuo celebrados com instituição financeira.
+2. Os descontos procedidos na conta corrente de mutuário, oriundos de contratos de empréstimo aos quais anuiu expressa e voluntariamente, não podem sofrer limitação de 30% por ausência de previsão legal. A designação de margem para esses descontos somente pode ser estabelecida pelo titular da conta, que conhece sua capacidade de endividamento. Precedentes.
+3. O autor, ao celebrar contrato de mútuo bancário, com débito diretamente em sua conta corrente/salário, opta por modalidade que lhe é mais benéfica ou conveniente, inclusive por se beneficiar de encargos contratuais mais vantajosos.
+4. No caso em exame, o fato deduzido na causa de pedir não se enquadra como retenção indevida dos valores existentes na conta do correntista e sim como mera modalidade de adimplemento da obrigação assumida livre e conscientemente.
+5. Recurso conhecido e desprovido.
+Osembargos de declaração foram rejeitados(e-STJ fl. 281).
+Orecorrente alega, além de divergência jurisprudencial, violação dos artigos 489, VI, 833, IV, 926 e 927, do CPC/2015; 3º, § 2º, da Resolução CMN 3.695/2009; 6º, I, e 51, IV, do Código de Defesa do Consumidor, ao argumento de que "a previsão de irrevogabilidade da cláusula de autorização para que os descontos sejam efetivados diretamente em conta corrente se mostra abusiva, devendo ceder lugar às disposições previstas na resolução de regência da matéria bem como na disposição de vontade da correntista, em respeito ao Código de Defesa do Consumidor e à proteção por ele conferida à parte hipossuficiente e vulnerável da relação de consumo"(e-STJ fl. 289).
+Com contrarrazões (e-STJ fls. 326-344).
+Juízo positivo de admissibilidade àe-STJ fl. 380.
+É o relatório. Passo a decidir.
+Na origem, cuida-se de ação em que o autor objetiva a revisão contratual de Contratos de Empréstimo firmados com o Banco deBrasília - BRB.
+Consoante o art. 9º do Regimento Interno do Superior Tribunal de Justiça, a competência das Seções e das respectivas Turmas é fixada em função da natureza da relação jurídica litigiosa.
+O inciso II do § 2º do referido artigo estabelece que cabe à Segunda Seção processar e julgar os feitos relativos a "obrigações em geral de direito privado, mesmo quando o Estado participar do contrato".
+Desta forma, a Primeira Seção é incompetente para processar e julgar o presente recurso, tendo em vista que os pedidos dos autos não estão consubstanciados em relação de direito público, versando a questão sobre relação contratual privada e aplicabilidade, ou não, da norma consumerista em direito bancário.
+A Primeira Turma, em 06.03.2018, na Questão de Ordem no AREsp 1.168.380/RJ, examinando a controvérsia relativa à possibilidade de penhora de salários em decorrência de dívida originada de "contrato de adesão de empréstimo simples", constatou que, não obstante uma das partes ostentar a condição de servidor público, o caso não se amolda à orientação firmada pela Corte Especial, no julgamento da Questão de Ordem no EREsp 1.163.337/RS, segundo a qual a competência das Turmas que integram a Seção de Direito Público limita-se ao julgamento de "recursos referentes a limite percentual de desconto em pagamento de empréstimo consignado feito por servidor público, com débito em conta-corrente e desconto na folha de pagamento".
+Precedentes:REsp 1.903.956/MG, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe 2/2/2021;AREsp 1.738.009/SP, Relator Ministro Francisco Falcão, Segunda Turma, DJe 1/12/2020;eREsp 1.895.828/DF, Relator Ministro Sérgio Kukina, Primeira Turma, DJe26/10/2020.
+Ante o exposto, determino a devolução dos autos à Secretaria Judiciária para que o feito seja redistribuído a um dos Ministros da Segunda Seção.
+Publique-se. Intimem-se.
