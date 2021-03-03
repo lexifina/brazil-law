@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por JAGUAR TRADING COMPANY IMPORTACAO E EXPORTACAO LTDA, com fundamento no art. 102, inciso III, alínea "a", da Constituição, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 539):
+PROCESSUAL CIVIL E TRIBUTÁRIO. IPI. IMPORTADOR COMERCIANTE. DESEMBARAÇO ADUANEIRO. SAÍDA DO ESTABELECIMENTO. INCIDÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado 2).
+2. A Primeira Seção do Superior Tribunal de Justiça, quando do julgamento do EREsp 1.403.532/SC, submetido ao art. 543-C do CPC/73, modificou o seu anterior entendimento para fixar a tese de que "seja pela combinação dos artigos 46, II, e 51, parágrafo único do CTN - que compõem o fato gerador, seja pela combinação do art. 51, II, do CTN, art. 4º, I, da Lei n. 4.502/1964, art. 79, da Medida Provisória n.2.158-35/2001 e art. 13 da Lei n. 11.281/2006 - que definem a sujeição passiva, nenhum deles até então afastados por inconstitucionalidade, os produtos importados estão sujeitos a uma nova incidência do IPI quando de sua saída do estabelecimento importador na operação de revenda, mesmo que não tenham sofrido industrialização no Brasil".
+3. Agravo regimental desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 590-595).
+Sustenta a recorrente a existência de repercussão geral da matéria debatida, bem como a ocorrência de violação ao "perfil constitucional do Imposto sobre Produtos Industrializados, traçado no artigo 153, §3º, da Constituição Federal de 1988,e, ainda, ofende o artigo 5º, §2º, da CF/88" (e-STJ fl. 575).
+Destaca que "há ofensa, também, ao GATT, acordo do qual o Brasil é país signatário e que prevê o tratamento tributário isonômico, que deve ser garantido aos produtos de origeminternacional, ou seja, não pode existir tratamento tributário distinto para produtos nacionais e aqueles de origem estrangeira" (e-STJ fl. 576).
+Aponta violação ao"princípio da isonomiatributária, previsto de forma taxativa no art. 150, inciso II, da CF/88" (e-STJ fl. 576).
+Defende a inconstitucionalidade da incidência do IPI na saídados produtos importados que não tenham sofrido processo de industrialização após a entrada no território nacional, tendo em vista que o referido tributo já teria sido exigido na ocasião do desembaraço aduaneiro.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 607-622.
+O eminente MinistroHumbertoMartins, então Vice-Presidente desta Corte, determinou o sobrestamento do feito até a publicação da decisão de mérito do Supremo Tribunal Federal nos autos do RE n. 946.648/SC, leading case referente ao Tema de Repercussão Geral n. 906 (e-STJ fls. 627-628).
+É o relatório.
+No RE n. 946.648/SC, julgado sob o regime da repercussão geral, o Supremo Tribunal Federal definiu a tese, por maioria, de que " é  constitucional a incidência do Imposto sobre Produtos Industrializados - IPI no desembaraço aduaneiro de bem industrializado e na saída do estabelecimento importador para comercialização no mercado interno".
+Confira-se, por oportuno, a ementa do julgado:
+CONSTITUCIONAL E TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS. BENS IMPORTADOS. INCIDÊNCIA NO DESEMBARAÇO ADUANEIRO E NA SAÍDA DO ESTABELECIMENTO IMPORTADOR PARA COMERCIALIZAÇÃO NO MERCADO INTERNO. CONSTITUCIONALIDADE.
+1. A sistemática legal de tributação dos bens importados pelo imposto sobre produtos industrializado - IPI é compatível com a Constituição.
+2. Recurso Extraordinário a que se nega provimento, com a fixação da seguinte tese de julgamento para o Tema 906 da repercussão geral: "É constitucional a incidência do Imposto sobre Produtos Industrializados - IPI no desembaraço aduaneiro de bem industrializado e na saída do estabelecimento importador para comercialização no mercado interno".
+(RE 946648, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 24/08/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-272 DIVULG 13-11-2020 PUBLIC 16-11-2020)
+Cumpre transcrever excerto do voto vencedor, da lavra do Ministro Alexandrede Moraes:
+INCIDÊNCIA DO IPI SOBRE O BEM INDUSTRIALIZADO IMPORTADO, QUE SERÁ COMERCIALIZADO NO MERCADO INTERNO SEM NOVO PROCESSO DE INDUSTRIALIZAÇÃO
+Como referi de início, no tocante ao IPI, a Constituição Federal limitou-se a estabelecer as balizas traçadas no artigo 153 e seu parágrafo terceiro, cabendo às normas gerais de direito tributário, bem como a legislação ordinária, complementar o regramento do imposto.
+Tanto isso é verdade que a incidência da exação na importação de bens nem foi prevista no texto constitucional, como ocorreu com o ICMS, consoante demonstra o art. 155 da CARTA MAGNA:
+(..)
+Assim, atendendo ao comando do artigo 146, III, "a", da CF ("Cabe à lei complementar: (..) III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre: a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes"), coube ao Código Tributário Nacional - CTN, recepcionado pela CF/88 com status de lei complementar, estabelecer o regramento do IPI.
+(..)
+Dessas disposições normativas, depreende-se que as hipóteses ali previstas não são excludentes. Em outras palavras, o mesmo contribuinte, realizando fatos geradores distintos, pode ser sujeito passivo do tributo, desde que observada a não cumulatividade prescrita no art. 153, 3º, II, da Constituição Federal. Ou seja, quando importa o produto, no desembaraço aduaneiro, recolhe o IPI, na condição de importador (arts. 46, I, c/c 51, I); e, ao revendê-lo, figurará, por equiparação, ao industrial (arts. 46, II, c/c 51, II e § único).
+Assim, embora as duas operações sejam realizadas pelo mesmo contribuinte, configuram-se dois fatos geradores distintos.
+Por esse motivo, deve-se, desde logo, adiantar que bitributação, bis in idem, ou dupla tributação não há.
+Na espécie, compulsando-se os autos verifica-se que o entendimento firmado por esta Corte Superior de Justiça encontra-se em consonância com o entendimento perfilhado pelaSuprema Cortenos autos do RE n. 946.648/SC (Tema 906/STF), segundo o qual a sistemática legal de tributação dos bens importados pelo imposto sobre produtos industrializados - IPI é compatível com a Constituição Federal, não havendo falar em bitributação ou ofensa ao princípio da isonomia em virtude daincidência do IPI no desembaraço aduaneiro de bem industrializado e na saída do estabelecimento importador para comercialização no mercado interno.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS. BENS IMPORTADOS. INCIDÊNCIA NO DESEMBARAÇO ADUANEIRO E NA SAÍDA DO ESTABELECIMENTO IMPORTADOR PARA COMERCIALIZAÇÃO NO MERCADO INTERNO. CONSTITUCIONALIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE. TEMA 906/STF. SEGUIMENTO NEGADO.
