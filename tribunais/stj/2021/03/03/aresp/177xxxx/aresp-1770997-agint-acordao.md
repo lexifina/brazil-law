@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA.
+1. Ação de imissão na posse.
+2. É inepta a petição de agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interposto por MARINA ZABEL DE MELO SOARES, contra decisão da Presidência do STJ que não conheceu do agravo em recurso especial que interpuseram.
+Ação: de imissão na posse, ajuizada por ADEALDO MORAES DO NASCIMENTO e ELCY APARECIDA FRANCISCHINI DO NASCIMENTO, em face da agravante.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+IMISSÃO NA POSSE DE BEM IMÓVEL - Sentença de procedência da ação de imissão na posse e improcedência da reconvenção Imóvel original adquirido pelos autores no ano de 2009, com expressa ressalva de que o bem não se encontrava livre e desembaraçado, pois declarado indisponível por decisão proferida nos autos de ação civil pública por improbidade administrativa - Previsão expressa no contrato que os vendedores obteriam a liberação do gravame - Um segundo imóvel oferecido em garantia para a hipótese de impossibilidade de outorga da escritura do imóvel original - Lavratura de escritura pública de transferência do imóvel objeto da garantia aos autores, devidamente levada ao registro imobiliário, permanecendo, contudo, a ré de posse direta do prédio - Superveniência do trânsito em julgado de sentença condenatória nos autos da ação civil pública, mantendo a indisponibilidade do imóvel principal - Indisponibilidade que somente será levantada caso os executados, ora réus, paguem o valor da indenização fixada em ação de improbidade - Ação de imissão na posse do imóvel objeto da garantia que tem natureza petitória, exigindo relação jurídica preexistente que confere ao titular o direito à posse (ius possidendi) - Autores que comprovam o direito à posse, em razão de registro imobiliário e cláusula negocial expressa de que seria o imóvel dado em garantia transferido aos compradores caso a indisponibilidade não fosse levantada em relação ao imóvel original - Irrelevância da ausência de termo certo para outorga da escritura do bem principal objeto do contrato de compra e venda devidamente liberado da indisponibilidade - Natureza da obrigação que impõe a fixação de prazo moral para seu cumprimento - Decurso de uma década para cumprimento da prestação de levantamento da indisponibilidade que já esgotou o prazo moral - Reconvenção em que se pretende a condenação dos autores ao pagamento de indenização decorrente da "destruição" do imóvel objeto principal do contrato de compra e venda, em relação ao qual exerceram posse por mais de dez anos - Inexistência de comprovação do estado do imóvel anterior ao início da posse direta dos autores - Fotografias que demonstram depreciação compatível com desgaste natural do imóvel - Orçamentos juntados aos autos relativos aos reparos necessários no imóvel que preveem serviços e obras compatíveis com manutenção ordinária de bem imóvel - Indenização descabida e, consequentemente, rejeitada a pretensão de retenção do bem - Recurso desprovido.
+Decisão unipessoal: não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos decorrentes da aplicação dos óbices da Súmula 284/STF, da ausência de afronta a dispositivo legal e da Súmula 7/STJ.
+Razões do agravo: Nas razões do presente recurso a agravante argumenta que não teria ocorrido a perda definitiva do imóvel, razão pela qual a ação deveria ser extinta sem o julgamento do mérito, devido a carência da ação. Além disso, defende que os agravados teriam a obrigação de indenizar pelos prejuízos causados no imóvel.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA.
+1. Ação de imissão na posse.
+2. É inepta a petição de agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo interno no agravo em recurso especial não conhecido, com a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada não conheceu do agravo em recurso especial interposto pela agravante devido à ausência de impugnação específica dos fundamentos decorrentes da aplicação dos óbices da Súmula 284/STF, da ausência de afronta a dispositivo legal e da Súmula 7/STJ.
+Veja-se o que constou na decisão (e-STJ, fls. 264/266):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF, ausência de afronta a dispositivo legal e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Contudo, da análise das razões deduzidas neste agravo interno, verifica-se que a agravante se limita a sustentar que, por não ter ocorrido a perda definitiva do imóvel, a ação deveria ser extinta sem o julgamento do mérito, em razão da carência da ação, bem como que os agravados teriam a obrigação de indenizar pelos prejuízos causados no imóvel.
+Desta forma, deixou de impugnar, de forma específica e consistente, os fundamentos da decisão agravada quanto à ausência de impugnação específica dos óbices da Súmula 284/STF, da ausência de afronta a dispositivo legal e da Súmula 7/STJ.
+Assim, não procedendo a agravante à impugnação específica da decisão agravada, como o exige o princípio da dialeticidade, o presente agravo interno também não comporta conhecimento, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno no agravo em recurso especial.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de não ser conhecido este recurso, à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
