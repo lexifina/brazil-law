@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Impedidos os Srs. Ministros Paulo de Tarso Sanseverino (Presidente) e Ricardo Villas Bôas Cueva.
+Presidiu o julgamento o Sr. Ministro Marco Aurélio Bellizze.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS.INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA.
+1. Ação de indenização por perdas e danos.
+2. É inepta a petiçãode agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo internono agravo em recurso especial não conhecido, com a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+RELATÓRIO
+Cuida-se de agravo interno interposto por GABRIEL DE ARAÚJO,contra decisão da Presidência do STJ que conheceu do agravo para não conhecer dorecurso especial que interpusera.
+Ação:de indenização por perdas e danos ajuizada por GABRIEL DE ARAÚJOem face deALLIANZ SEGUROS S/A e OUTROS na qual requer reparação pelas perdas materiais decorrentes de insumos e serviços prestados na plantação de tomatecomprometida por doenças fúngicas cumulados com lucros cessantes; pagamento de indenização atinente à cobertura de capital em contrato de seguro; e compensação por danos morais em virtude darestrição ao crédito a que foi acometido.
+Acórdão:deu provimento às apelações interpostas por ALLIANZ SEGUROS S/A e por MONSOY LTDA,nos termos da seguinte ementa:
+"APELAÇÃO - AÇÃO DE INDENIZAÇÃO DE PERDAS E DANOS E DANOS MORAIS - CÓDIGO DE DEFESA DO CONSUMIDOR - APLICABILIDADE - CONSUMIDOR INTERMEDIÁRIO - VULNERABILIDADE - MITIGAÇÃO DA TEORIA FINALISTA - SISTEMA LEGAL DO ÔNUS DA PROVA - APLICAÇÃO - REQUISITOS DA REPARAÇAO CIVIL - AUSENCIA COMPROVAÇÃO. Apesar de a doutrina majoritária consagrar o conceito finalista, reconhece a necessidade de sua mitigação para permitir a aplicação da legislação consumerista a determinados consumidores profissionais, desde que demonstrada a sua vulnerabilidade, sendo reconhecida a figura do consumidor intermediário, entendido como tal aquele que adquire o produto ou o serviço para utilizá-lo em sua atividade profissional, e, em tal condição, sendo passível de ser beneficiado com a aplicação do CDC, quando demonstrada sua vulnerabilidade técnica, jurídica ou econômica, frente a outra parte. Mesmo em caso de responsabilidade civil objetiva, decorrente de relação de consumo, aplica-se a regra do art. 373 do CPC, que prevê o sistema legal do ônus da prova. Para a caracterização da responsabilidade civil, faz-se necessária a presença do ato ilícito praticado pelo agente, o dano sofrido pela vítima e o nexo de causalidade entre um e outro. Não restado comprovado tais requisitos, resta afastado o dever de indenizar." (fl. 677, e-STJ).
+Decisão monocrática:conheceu do agravo para não conhecer do recurso especial em virtude daincidência daSúmula284/STF no tocante: i)àalega violação do Código de Defesa do Consumidor, por ser necessária a mitigação da teoria finalista para que a parte recorrente seja considerada consumidora, por equiparação; ii) à divergência jurisprudencial quanto à possibilidade do agricultor ser considerado hipossuficiente em comparação às empresas multinacionais; e iii) à alegação de que"a não realização da perícia trouxe prejuízo processual ao autor" (fl. 774).
+Agravo interno:alega, em síntese, a inaplicabilidade daSúmula284/STF porquanto sustenta que "no caso do Recurso Especial, o que se pretendia e se pretende é a Mitigação da Teoria Finalista (LEI 8078/90: ART. 6,VIIII; ART.29), então, não se paira nenhuma dúvida a respeito da pretensão do autor / recorrente, não havendo nenhuma necessidade de descrição de artigo legal" (fl. 944, e-STJ - grifos nossos).
+Por, fim, quanto ao dissídio jurisprudencial, alega que "não há necessidade de seguir rigorosamente uma forma determinada, a não ser que tenha exigência por Lei, e ainda, os Julgadores deverão considerar válidos os atos realizados de outro modo e que preencham a finalidade essencial" (fl. 946, e-STJ).
+Pugna, por fim, pelo conhecimento e provimento do agravo interno e pela reforma da decisão agravada.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE INDENIZAÇÃO POR PERDAS E DANOS.INÉPCIA. IMPUGNAÇÃO DA DECISÃO AGRAVADA. AUSÊNCIA.
+1. Ação de indenização por perdas e danos.
+2. É inepta a petiçãode agravo interno que não impugna, especificamente, os fundamentos da decisão agravada.
+3. Agravo internono agravo em recurso especial não conhecido, com a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+VOTO
+A decisão agravadaconheceu do agravo para não conhecer do recurso especial, com base nos seguintes fundamentos:i) à alega violação do Código de Defesa do Consumidor, por ser necessária a mitigação da teoria finalista para que a parte recorrente seja considerada consumidora, por equiparação; ii) à divergência jurisprudencial quanto à possibilidade do agricultor ser considerado hipossuficiente em comparação às empresas multinacionais; e iii) à alegação de que "a não realização da perícia trouxe prejuízo processual ao autor" (fl. 774).
+Pela análise das razões recursais apresentadas, verifica-se que oagravantenão trouxequalquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Isso porque nas razões de seu agravo interno, deixouderealizara adequada impugnação quanto aoóbicerelativoàincidência da Súmula 284/STF quantoà alegação de que "a não realização da perícia trouxe prejuízo processual ao autor" (fl. 774).
+Assim, não procedendo o agravante à impugnação específica da decisão agravada, como exige o princípio da dialeticidade, o presente agravo interno não comporta conhecimento, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+Forte nessas razões, NÃO CONHEÇO do agravo interno no agravo em recurso especial.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/2015, razão pela qual, na hipótese de não ser conhecido este recurso, à unanimidade, fixo multa de 3% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/2015.
