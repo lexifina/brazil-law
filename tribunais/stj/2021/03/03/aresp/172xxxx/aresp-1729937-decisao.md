@@ -1,0 +1,38 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por MULTIGRAIN COMÉRCIO LTDA eOutracontra decisão do Tribunal de Justiça do Distrito Federalque não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO. COMPRA E VENDA. DEMORA NA APRESENTAÇÃO DE DOCUMENTOS. NÃO PAGAMENTO. DESPROPORCIONALIDADE. RESCISÃO. CULPA DA RÉ
+1. A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento(art. 475 do CC).
+2. Incabível a aplicação inversa de cláusula contratual, não cabendo ao julgador inovar no contrato.
+3. Deu-se parcial provimento ao apelo da autora e negou-se provimento ao apelo da ré.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 422, 472, 473 474 e 476 do Código Civil.
+Sustenta (i) que a falta de pagamento pela soja por parte da recorrente, ainda que de forma injustificada - o que não é o caso dos autos -, não é e nem pode ser considerada como causa de rescisão do contrato celebrado entre as partes, mas tão somente o estopim para o nascimento de eventual dever de indenização com pagamento acrescido dos devidos consectários legais. (e-STJ fl. 541);(ii) que o acórdão recorridonão observou a ordem cronológica das obrigações que justificaram a suspensão do pagamento da obrigação pela recorrente, dada a indubitável mora e conduta de má-fé perpetrada pela recorrida. (e-STJ fl. 549)
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A controvérsia foi resolvida pela Corte de origem nos seguintes termos:
+A ré alega, ainda, não ter realizado o pagamento porque a fornecedora não apresentou, no prazo pactuado, os documentos previstos na cláusula 3.2.1. Segundo a demandada, estava faltante especificamente o contrato assinado por JOANA com firma reconhecida. De fato, embora isso fosse necessário para a efetivação do pagamento até 21/4, apenas em 25/4 houve o reconhecimento da firma da autora.
+Verifico, de toda sorte, que o dever anexo de disponibilização do contrato com a firma reconhecida foi cumprido com apenas 3 dias de atraso, durante os quais, portanto, apenas não deveriam recair os encargos da mora contra a compradora. Apesar disso, por respeito ao princípio da preservação do contrato e à cláusula geral boa-fé objetiva (art. 422 do Código Civil), a demora de 3 dias para entrega do documento tal como pactuado não justifica a recusa da adquirente em pegar a mercadoria a ela disponibilizada e em deixar de realizar o pagamento, dada a desproporcionalidade da alegação de rescisão do contrato nesse caso.
+Ainda no intuito de justificar a ausência de pagamento, a comprador aduziu que a Cooperativa recusou-se a autorizar a transferência da soja, o que seria possível de constatar pelo documento de folha 22. Inexiste nos autos, todavia, comprovação da tentativa de retirada da mercadoria por parteda compradora e da recusa da Cooperativa, sendo certo que todos esses fatos não podem ser extraídos da constatação de que referido documento não está assinado pelaCooperativa onde os bens encontravam-se depositados. Em verdade, consoante Declaração de folha 50, a ausência de autorização de liberação da soja apenas ocorreu em 28/4/2016, quando a ré já se encontrava em mora.
+Na mesma linha, a compradora argumenta que a soja depositada pela demandante não lhe foi disponibilizada, na realidade. Isso porque a nota fiscal acostada à folha 38, emitida pela Cooperativa, foi registrada como de saída a JOANA, e não à adquirente MULTIGRAIN S.A. A despeito desse registro, realizado não pela vendedora, mas pela Cooperativa, a requerida, reitero, sequer comprovou ter tentado retirar a mercadoria e ter encontrado empecilhos a isso, o que seria imprescindível para o reconhecimento da inadimplência da vendedora.
+Não assiste razão à demandada quanto à alegação de que, antes mesmo de cumprir sua obrigação contratual, a requerente externou sua intenção de desfazimento do contrato, o que seria possível extrair das mensagens eletrônicas trocadas entre as partes. Em verdade, a primeira manifestação de vontade da vendedora nesse sentido está evidenciada no documento de folha 31, datado, de 11/5/2016. Trata-se, portanto, de manifestação posterior à configuração do inadimplemento da adquirente ,e ,que estava fundamentada, justamente, na ausência de pagamento.
+Assim, não tendo a demandada sé desincumbido ônus da prova do inadimplemento contratual por parte da vendedora (art. 373, II, do Código de Processo Civil), o reconhecimento de que foi ela quem deu causa à inexecução do contrato está amparado nos autos. Por conseguinte, além da rescisão da avença nos termos do artigo 475 do Código Civil, cabe à requerida arcar com os consectários legais e contratuais da inadimplência.(..) (e-STJ fls.510/511)
+A reforma de tal entendimento exige reexame do conjunto probatório dos autos e a interpretação das cláusulas do contrato entabulado entre as partes, tarefas inadmissíveis em sede de recurso especial, em face dos impedimentos das Súmulas 5 e 7 desta Corte.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS. 1. AUSÊNCIA DE PREQUESTIONAMENTO.SÚMULAS N. 282 E 356/STF. PREQUESTIONAMENTO IMPLÍCITO NÃO VERIFICADO. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO ACERCA DO DESCUMPRIMENTO CONTRATUAL POR PARTE DA AGRAVANTE. REVISÃO.IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 3. DANOS MORAIS. QUANTUM.REDUÇÃO. REEXAME. SÚMULA 7/STJ. 4. HONORÁRIOS ADVOCATÍCIOS.REDISTRIBUIÇÃO. SÚMULA 7/STJ. 5. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COTEJO ANALÍTICO NÃO REALIZADO. 6. AGRAVO IMPROVIDO.
+1.  ..
+2. A desconstituição da convicção estadual, no tocante à comprovação do descumprimento contratual por parte da agravante, é providência que demandaria a interpretação de cláusulas contratuais e o reexame de fatos e provas, medidas defesas na via eleita, ante a incidência dos enunciados n. 5 e 7 da Súmula do STJ.
+3.  ..
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1708537/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/02/2021, DJe 12/02/2021)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BENS IMÓVEIS. VIOLAÇÃO DO ART. 535 DO CPC/1973. OMISSÃO. NÃO OCORRÊNCIA.NULIDADE DE PROVA PERICIAL CONTÁBIL. ADOÇÃO DO INSTITUTO DO ADIMPLEMENTO SUBSTANCIAL. PRINCÍPIO DA BOA-FÉ OBJETIVA. ALIENAÇÃO DE ESTABELECIMENTO. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO DE PROVAS. SÚMULAS N. 5 E 7 DO STJ.
+1. Inexiste afronta ao art. 535 do CPC/1973 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusulas contratuais ou revolvimento de provas dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 595.277/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/11/2020, DJe 09/12/2020)
+Por fim, com fundamento no §11 do art. 85 do CPC, majoro o percentual dos honorários de advogado a que condenada a ré na origem em 2%, observada a eventual e anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATO DE COMPRAE VENDA DE SOJA. DESCUMPRIMENTO CONTRATUAL DA COMPRADORA CONSTATADO. REVISÃO. SÚMULAS 5 E 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
