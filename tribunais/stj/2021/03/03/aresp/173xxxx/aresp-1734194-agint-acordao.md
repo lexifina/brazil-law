@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INTEMPESTIVIDADE. FERIADO LOCAL, RECESSO, PARALISAÇÃO OU INTERRUPÇÃO DO EXPEDIENTE FORENSE. AUSÊNCIA DE COMPROVAÇÃO. APLICAÇÃO DO CPC/15.
+1. Ação de cobrança decorrente de expurgos infacionários.
+2. A ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+3. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por BANCO BRADESCO S/A, contra decisão emitida pela Presidência do STJ que não conheceu do agravo em recurso especial que interpusera.
+Ação: cobrança ajuizada por JANAINA PASSOS LUCIANO E OUTROS em face do agravante, em razão de expurgos inflacionários das diferenças apuradas pela não aplicação dos índices correção monetária sobre o saldo mantido em conta poupança, referentes ao Plano Collor II.
+Sentença: julgou improcedente o pedido e condenou os agravados ao pagamento de honorários advocatícios.
+Acórdão: deu provimento ao recurso interposto pelos agravados para reformar a sentença e julgar procedente o pedido, para condenar o agravante ao pagamento de expurgos inflacionários referentes ao Plano Econômico Collor II, conforme a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. EXPURGOS INFLACIONÁRIOS. PLANOCOLLOR II. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEIÇÃO. PREJUDICIALDE PRESCRIÇÃO. LAPSO PRESCRICIONAL VINTENÁRIO. OBSERVÂNCIA. PLANO COLLOR II. APLICAÇÃO COM ANIVERSÁRIO NA SEGUNDA QUINZENA. INDIFERENÇA.SENTENÇA DE IMPROCEDÊNCIA REFORMADA. AUSÊNCIA DE EXIBIÇÃO DE EXTRATO BANCÁRIO. PROVA DA RELAÇÃO JURÍDICA E DE PEDIDO ADMINISTRATIVO PRÉVIO. INVERSÃO DO ÔNUS DA PROVA. REGULARIDADE E PRECLUSÃO. HSBC. LEGITIMIDADE. SUCESSOR DO BANCO BAMERINDUS NA RELAÇÃO COM POUPADORES. SENTENÇA MANTIDA.
+1. A preliminar de cerceamento de defesa por falta de exibição de documentos é impertinente, pois mesmo tendo sido deferida a inversão do ônus da prova em decisão preclusa, o banco apelado se recusou reiteradamente a exibir em juízo os extratos bancários da conta do autor, de modo que restou frustrada a produção de provas por inércia do réu.
+2. Aplica-se o prazo prescricional vintenário, estipulado no artigo 177 do CC anterior para as ações pessoais em que se postula a cobrança de expurgos inflacionários de Plano Econômicos suprimidos no ano de 1990, incidente por força da regra de transição prevista no artigo 2.028 do atual estatuto civil REsp 1147595/RS)(Recurso repetitivo,.
+3. Consoante jurisprudência consolidada, deve ser observado o índice de correção monetária IPC no PlanoEconômico Collor II ( para atualização do saldo de cadernetas de(janeiro/fevereiro de 1991 - 21,87%)poupança com vencimento anterior à data de vigência das novas regras de atualização monetária.
+3.1. Com relação ao planos encômios Bresser, Verão e Collor I, faz jus à diferença de expurgos inflacionários apenas as contas poupança com vencimento na primeira quinzena dos meses em que entraram em vigor as novas regras de correção monetária. Já com relação ao Plano Collor II, faz jus aos expurgos inflacionários todos os poupadores com poupança com vencimento no mês de janeiro de 1991, já que o plano entrou em vigor em 31 de janeiro daquele ano (REsp 1147595/RS).
+4. Na hipótese dos autos, havendo demonstração de existência da relação jurídica e recusa de apresentação de extrato bancário, com decisão preclusa invertendo o ônus da prova, e reiterada inércia nas oportunidades dadas para produção da prova imputado ao réu, é imperativa a procedência do pedido inicial.
+5. Tendo autor comprovado que manteve aplicação financeira na conta poupança em que funda sua pretensão condenatória, e que o banco recorrido não atendeu a solicitação de exibição de extrato formalizada antes do ajuizamento da ação, deve ser mantida a inversão do ônus da prova, de acordo com REsp 1133872/PB, notadamente se está preclusa o entendimento firmado sede de recursos repetitivos na decisão que inverteu o ônus da prova no curso do processo.
+6. Não há dúvidas quanto a legitimidade passiva do banco HSBC BANK BRASIL S.A. e da sua obrigação de exibir em Juízo os extratos bancários do autor, pois sucedeu o banco BAMERINDUS nas relações com consumidores que mantinham conta poupança com a referida instituição financeira.Precedentes deste Tribunal de Justiça.
+7. Preliminar rejeitada. Recurso de apelação provido. Ação de cobrança julgada procedente.
+Recurso especial: alegam violação dos arts. 267, IV e VI, 333, I, do CPC; 160, I, 178, §1º, III, 205 e 206, §3º, III, 1.277, do CC, bem como dissídio jurisprudencial. Sustenta, em síntese, a ilegitimidade passiva, a carência da ação e a prescrição.
+Decisão monocrática emitida pela Presidência: não conheceu do agravo em recurso especial em razão da intempestividade.
+Agravo interno: a parte agravante sustenta que o recurso é tempestivo, uma vez que não foi intimada da decisão recorrida.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INTEMPESTIVIDADE. FERIADO LOCAL, RECESSO, PARALISAÇÃO OU INTERRUPÇÃO DO EXPEDIENTE FORENSE. AUSÊNCIA DE COMPROVAÇÃO. APLICAÇÃO DO CPC/15.
+1. Ação de cobrança decorrente de expurgos infacionários.
+2. A ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+A decisão agravada emitida pela Presidência do STJ não conheceu do agravo em recurso especial, nos termos da seguinte fundamentação:
+Mediante análise do recurso de BANCO BRADESCO S/A, a parte Recorrente foi intimada do acórdão recorrido em 26/07/2019, sendo o recurso especial interposto somente em 16/03/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts. 1.003, § 5.º, 1.029, e 219, caput, todos do Código de Processo Civil. (e-STJ, fl. 882).
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+De fato, compulsando os autos, verifica-se que o recurso é inadmissível por ser intempestivo, pois a agravante foi regularmente intimada do acórdão recorrido em 26/07/2019, conforme certidão de fls. 504/505 (e-STJ), sendo o recurso especial interposto somente em 16/03/2020, não tendo comprovado por meio de documento idôneo a ocorrência de feriado local no ato da interposição do recurso. Dessa forma, não prospera a alegação de ausência de intimação.
+Na hipótese dos autos, o recurso foi interposto quando já em vigor o novo Código de Processo Civil. Desse modo, conforme ressalvado na decisão agravada, nos termos do art. 1.003, §6º, do CPC/15, a recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+Ademais, conforme fundamentado na decisão ora agravada, o STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (AgInt no REsp n. 1.686.469/AM, 2ª Turma, DJe de 27/3/2018; AgRg no AREsp 615093/PE, 3ª Turma, DJe 02/06/2015; AgRg no Ag 1288387/MG, 4ª Turma, DJe 18/02/2015).
+Assim, considerando que o recurso especial foi interposto sob a égide do novo regramento processual e deixando a agravante de comprovar a ocorrência da suposta suspensão dos prazos processuais quando de sua interposição, não há como ser afastada a intempestividade do recurso.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
