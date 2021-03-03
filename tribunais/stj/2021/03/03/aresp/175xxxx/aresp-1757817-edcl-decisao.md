@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EDMILSON CLARETE SCOPINHO, SOFIA SCOPINHO, NATALIA SCOPINHO, RAISSA SCOPINHO, SANDRA GONÇALVES DA SILVA SCOPINHO contra decisão monocrática de minha relatoria (e-STJ Fls. 415/416), que determinou o retorno dos autos à origem, até o julgamento dos recursos especiais repetitivos ligados ao Tema 1046 desta Corte.
+Em suas razões recursais, às e-STJ Fls. 418/421, alegam erro de fato, pois a Segunda Seção deste C. STJ, ao julgar a Proposta de Afetação no Recurso Especial sob nº1.812.301, não suspendeu a tramitação de processos sobre a mesma controvérsia.
+Aduzem, que resta evidente a ocorrência de erro de fato, tendo em vista que a r.decisão de fls. 415/416 determinou a devolução dos autos ao Tribunal de Origem para que o agravo em recurso especial permaneça sobrestado até a publicação do acórdão paradigma, enquanto que a decisão proferida pela Segunda Seção deste C. STJ, em votação unânime, não suspendeu a tramitação dos demais processos sobre a mesma controvérsia objeto do Tema 1046.(e-STJ Fls. 420)
+Houve impugnação às e-STJ Fls. 424/428.
+É o relatório.
+Os Embargos de Declaração não merecem acolhimento.
+Na espécie, os embargantes, sob alegação de erro de fato, buscam afastar o sobrestamento do feito, ao argumento de não ter sido determinada a suspensão nacional dos processos que versem sobre a controvérsia afetada ao rito dos recursos repetitivos, bem assim que outro recurso tratando sobre a matéria foi apreciado pela Quarta Turma deste Tribunal Superior.
+Os embargos de declaração devem ser rejeitados.
+Consoante assinalado na decisão embargada, discute-se no apelo nobre "a possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015", controvérsia afetada pela Segunda Seção desta Corte à sistemática de recursos repetitivos, cadastrado como Tema 1046.
+Ademais, ainda que não tenha sido determinada a suspensão nacional dos processos, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 1.040 do CPC de 2015, conforme o caso, tendo em vista, também, a economia processual, não havendo falar, assim, na apontada contradição, como sugere o embargante.
+Com efeito, de acordo com a pacífica jurisprudência desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015) não possui carga decisória, por isso se trata de provimento irrecorrível.
+Nesse sentido: AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 20/09/2017; AgInt no REsp 1.663.877/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 04/09/2017; AgInt no REsp 1.661.811/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 29/06/2018.
+Deste modo, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/15 na decisão hostilizada, cuidando-se o presente recurso de mera irresignação da parte quanto à solução adotada, o que resta vedado na estreita via recursal sob foco.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
