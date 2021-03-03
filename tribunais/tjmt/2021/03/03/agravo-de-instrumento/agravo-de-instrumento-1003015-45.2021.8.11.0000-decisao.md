@@ -1,0 +1,35 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1003015-45.2021.8.11.0000
+AGRAVANTE: BANCO DO BRASIL S/A
+AGRAVADO: SIDIANE SOUZA QUEIROZ
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto pelo BANCO DO BRASIL S/A, contra decisão proferida pela MM. Juíza de Direito da 7a Vara Cível da Comarca de Cuiabá-MT, Dra. Ana Paula da Veiga Carlota Miranda, lançada nos autos da Ação Declaratória de Inexistência de Dívida c/c Dano Moral no 1002068-62.2021.8.11.0041, ajuizada por SIDIANE SOUZA QUEIROZ, que deferiu a tutela provisória de urgência, determinando que o réu/agravante suspenda a cobrança discutida nos autos - do valor de R$ 3.989,85 (três mil novecentos e oitenta e nove reais e oitenta e cinco centavos) -, e exclua o nome da autora/agravada dos órgãos de proteção ao crédito referente ao débito ali discutido, sob pena de aplicação de multa diária para o caso de descumprimento.
+Em suas razões recursais, o banco agravante aduz que “no caso em tela não há nenhum dos pressupostos necessários à concessão da tutela de urgência deferida, uma vez que as alegações da Parte Agravada foram insubsistentes e não trouxeram aos autos nenhuma prova capaz de ser considerada inequívoca, como é exigido pelo artigo 300 do Código de Processo Civil” (sic).
+Discorre que “na medida em que se autorizar que um tomador de empréstimo claramente inadimplente - caso típico dos autores - deixe de ter seu nome inserido no rol do SERASA (e também do SPC e demais órgãos similares), ferir-se-á o constitucional princípio de igualdade (art. 5o, caput, da Constituição Federal), posto que não haverá distinção entre a pessoa que honra pontualmente seus compromissos e aquela que se torna inadimplente, o que é inadmissível” (sic).
+Destaca que “todas as condições estabelecidas no contrato estão de acordo com as regras do Sistema Financeiro Nacional e sob fiscalização e autorização do Conselho Monetário Nacional (CMN) e do Banco Central do Brasil (BACEN). Portanto, não pode ser imputada ao Banco Agravante qualquer penalidade ao exercer o seu direito de cobrar parcelas relativas a financiamento concedido” (sic).
+Entende que “não merece ser acolhida a tutela antecipada requerida pela Parte Agravada, no que se refere à retirada de seu nome nos órgãos de cadastros restritivos” (sic).
+Anota, ainda, que “o arbitramento das astreintes no patamar atual, sem limitação, irá caracterizar enriquecimento ilícito da Parte Autora/Agravada. A multa é um meio de coerção para que o devedor cumpra a sua obrigação, razão pela qual, ela deve ser fixada com base nos princípios da razoabilidade e da proporcionalidade, a fim de que ela não se torne um meio de enriquecimento do credor” (sic).
+Afirma que “procurando evitar que o foco da demanda seja outro, necessário se faz REVOGAR a tutela concedida, ou mesmo REDUZIR a multa aplicada” (sic).
+Por fim, aduz que “considerando a necessidade de prequestionamento para fins de acesso às instâncias superiores, requer a manifestação EXPRESSA relacionada a todos os dispositivos acima citados, indicados como violados, para fins de prequestionamento” (sic).
+Com estes argumentos, pugna pela concessão do efeito suspensivo recursal, e no mérito, pelo provimento do recurso.
+Preparo recolhido (Id. 77667481).
+É o relatório.
+Decido.
+Por tempestivo e próprio, recebo o recurso na forma dos artigos 1.015, inc. I c/c 1.017 do Código de Processo Civil.
+Como visto, o agravante pretende suspender os efeitos da decisão que deferiu a tutela de urgência para promover a exclusão provisória do nome da requerente/agravada dos cadastros de restrição ao crédito, impondo multa em caso de descumprimento.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Da análise dos autos, nesta fase de cognição incompleta, observo que não estão presentes os requisitos legais para a concessão da medida initio litis, isso porque, os documentos juntados aos autos não demonstram, de forma conclusiva, a probabilidade do direito invocado pelo recorrente e nem o perigo da demora, se deixar a análise do pleito para a ocasião do julgamento do mérito recursal.
+Verifica-se que a agravada interpôs perante o juízo de primeiro grau, ação declaratória de inexistência de dívida, onde, em sede liminar buscou o fim de seu constrangimento com a negativação, em tese indevida, nos órgão de proteção ao crédito.
+Observa-se que o débito inscrito nos órgãos de proteção ao crédito perfaz o valor de R$ 3.989,85 (três mil novecentos e oitenta e nove reais e oitenta e cinco centavos), o qual é oriundo de dívida que a agravante diz não conhecer, alegando em sua peça de ingresso na origem, nunca ter entabulado qualquer negócio jurídico com o réu/agravante.
+Observa-se que o banco agravante não apresentou nenhum contrato ou outro documento que fizesse prova do suposto crédito. De modo que, neste primeiro momento, não ficou evidenciada a verossimilhança de suas alegações em relação ao direito perquirido.
+Aliás, como salientou o Douto Magistrado de primeiro grau, “no pedido para que o réu retire o nome da autora dos órgãos de restrição creditícia, eis que foi inscrito por uma dívida desconhecida, o perigo de dano é evidente, haja vista que a negativação do nome das pessoas de forma indevida gera abalo financeiro, prejudicando as relações comerciais e imagem” (sic) (Id. 47703083 – autos de origem).
+Assim, o perigo de dano é inverso, pois há grave risco de comprometimento da prática de atos da vida civil e aquisição de bens de consumo se persistir a inscrição do nome da agravada nos cadastros de proteção ao crédito.
+Imperioso ressaltar, também, que caso não seja verdadeira a pretensão deduzida pela autora/recorrida na origem, e ao final sejam julgados improcedentes os seus pedidos, não haverá grandes transtornos para o requerido/agravante, que poderá cobrar, então, o valor devido acrescido de seus consectários legais.
+De outro norte, o acatamento da pretensão do agravante, nesta fase, implicará em reconhecer de forma sumária a responsabilidade da agravada sem nenhum documento que evidencie a contração do suposto crédito, o que importaria em precipitação temerária.
+No tocante à astreinte fixada pelo juízo a quo, tenho que foi estabelecida em patamar razoável, de modo que não comporta redução neste momento, principalmente porque o cumprimento da decisão liminar não acarretará perda alguma à instituição financeira.
+Diante o exposto, NÃO CONCEDO o efeito suspensivo pleiteado, sem prejuízo do convencimento que formarei por ocasião do julgamento do mérito.
+Intime-se a agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá - MT, 3 de março de 2021.
+Des. Carlos Alberto Alves da Rocha
+Relator, em Substituição Legal
