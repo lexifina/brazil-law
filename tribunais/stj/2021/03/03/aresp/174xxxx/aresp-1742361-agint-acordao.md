@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ALÍNEA C. SÚMULA 284/STF. AUSÊNCIA DE COTEJO. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial interposto com fundamento na alínea cdo permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284/STF.
+2.Esta Corte possui entendimento no sentido de que a divergência jurisprudencial, nos termos do art.266, § 1º, c/c o art.255, §§ 1º e 2º, do RISTJ, exige comprovação e demonstração com a transcrição dos trechos dos julgados que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (AgRg nos EREsp n.1.213.614/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, j. 13/4/2016, DJe 18/4/2016).
+3. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por E. M. DOS R.contra decisão monocrática proferida pela Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 331-333).
+Nas razões do recurso (e-STJ, fls. 337-344), o agravante pondera ter indicado o dispositivo de lei federal violado, bem como ter realizado devidamente o cotejo entre as decisões dos Tribunais.
+Requer a reconsideração da decisão agravada.
+Impugnação apresentada (e-STJ, fls. 347-354).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ALÍNEA C. SÚMULA 284/STF. AUSÊNCIA DE COTEJO. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial interposto com fundamento na alínea cdo permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284/STF.
+2.Esta Corte possui entendimento no sentido de que a divergência jurisprudencial, nos termos do art.266, § 1º, c/c o art.255, §§ 1º e 2º, do RISTJ, exige comprovação e demonstração com a transcrição dos trechos dos julgados que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (AgRg nos EREsp n.1.213.614/RJ, Rel. Ministro Ricardo Villas Bôas Cueva, Segunda Seção, j. 13/4/2016, DJe 18/4/2016).
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Na decisão recorrida, concluiu-se pela incidência da Súmula 284/STF ao caso, uma vez que a parte recorrente não teria indicado quais os dispositivos legais seriam objeto de dissídio interpretativo, pela ausência de cotejo analítico no que se refere à alegação de que deveria ser seguido precedente obrigatório do STJ, bem como pela ausência de impugnação a fundamento do acórdão recorrido.
+Faz-se necessário consignar que, diferentemente do alegado,o recorrente não apontou o dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a matéria, providência obrigatória inclusive para os reclamos interpostos pela alínea c. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Importante ponderar que o recurso especial é reclamo de natureza vinculada e, para o seu cabimento, é imprescindível que se demonstrem, de forma clara, os dispositivos apontados como malferidos ou interpretados distintamente de outro tribunal pela decisão recorrida, sob pena de inadmissão.
+Sobre o tema, confiram-se os seguintes precedentes (sem grifos no original):
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. IMPROBIDADE ADMINISTRATIVA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal local consignou que o conjunto probatório presente nos autos é capaz de atestar a prática de ato de improbidade administrativa praticado pelos ora agravantes decorrente de "contratação de pessoas que nunca prestaram regularmente serviços à edilidade" e "realização de despesas incompatíveis com combustível, restaurantes, churrascarias, choperias etc". (fl. 1.218, e-STJ).
+2. O Recurso Especial, apesar de ter sido interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. A simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do apelo nobre, não supre a exigência de fundamentação adequada do Recurso Especial. Dessa forma, ante a deficiência na argumentação, não se pode conhecer do Recurso Especial. Aplicação, por analogia, da Súmula 284/STF.
+3. Com relação ao dissídio jurisprudencial, a divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles.
+4. Ainda quanto à divergência jurisprudencial, segundo a firme jurisprudência assentada neste Superior Tribunal, a interposição do Recurso Especial com fundamento na alínea "c" não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem tenha dado interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo também a incidência do contido no enunciado 284 da Súmula do Supremo Tribunal Federal.
+5. Além disso, é inviável analisar a tese defendida no Recurso Especial de que inexiste dolo, má-fé e enriquecimento ilícito, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido.
+Aplica-se, portanto, o óbice da Súmula 7/STJ.
+6. Agravo Interno não provido (AgInt no AREsp 839.897/SP, Rel. Ministro Herman Benjamin, SEGUNDA TURMA, julgado em 15/12/2016, DJe 01/02/2017)
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. SÚMULA 07 DO STJ. RECURSO NÃO PROVIDO.
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF.
+2. O Tribunal de origem concluiu, após análise das provas dos autos, que não é cabível a indenização por danos morais no presente caso, uma vez que não se vislumbrou, no caso concreto, qualquer violação a direito da personalidade do recorrente. Alterar o entendimento do acórdão recorrido demandaria reexame do conjunto - fático probatório dos autos, o que é vedado em razão da incidência da Súmula 7 do STJ.
+3. Agravo interno não provido (AgInt no REsp 1610194/PR, Rel. Ministro Luis Felipe Salomão, QUARTA TURMA, julgado em 13/12/2016, DJe 02/02/2017)
+Outrossim, no que se refere ao pedido de aplicação de precedente obrigatório do STJ, também não foi realizado o cotejo analítico entre o acórdão do Tribunal estadual e o citado precedente desta Corte.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento expresso no julgado impugnado, permanece inalterada a decisão.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
