@@ -1,0 +1,25 @@
+RECURSO DE APELAÇÃO CÍVEL – AUTOS N.o 1006422-09.2016.8.11.0041 – COMARCA DE CUIABÁ/MT.
+Apelante: Estado de Mato Grosso
+Apelada: Janete Ferreira Padilha
+Vistos.
+Trata-se de recurso de apelação cível interposto pelo Estado de Mato Grosso contra sentença proferida pelo Juízo da 2a Vara Especializada da Fazenda Pública da Comarca de Cuiabá/MT, que nos autos de ação de cobrança manejada por Janete Ferreira Padilha, julgou procedente a pretensão inicial para reconhecer o direito da autora à percepção das diferenças salariais decorrentes da conversão do Cruzeiro Real para URV com a incidência sobre quaisquer verbas percebidas no período, inclusive 13 salário, férias, gratificações e demais vantagens que compõem a remuneração, observada a prescrição quinquenal, sendo determinado a liquidação da sentença por arbitramento, a par de aferir se houve a reestruturação da carreira da servidora e se esta supriu por completo eventual defasagem remuneratória.
+Em suas razões recursais, suscita, o apelante, a incidência de prescrição do fundo de direito, ao passo que a ação proposta é posterior aos cinco anos da data da reestruturação da carreira dos servidores.
+No mérito, requereu o provimento do apelo.
+A apelada apresentou suas contrarrazões, pugnando pelo desprovimento do recurso (id. 76648120).
+A Procuradoria-Geral de Justiça deixou de se manifestar, ante a ausência de interesse público capaz de ensejar sua intervenção (id. 77988464).
+É o relatório
+Decido.
+Compulsando os autos originários, verifica-se que a requerente, ora apelante, requer o recebimento de diferenças salariais, originados da conversão indevida de Cruzeiros Reais para URV, em que foi atribuído à causa o valor de R$ 45.504,41 (quarenta e cinco mil, quinhentos e quatro reais e quarenta e um centavos), não havendo que se falar em valor da causa superior a 60 (sessenta) salários mínimos.
+Logo, os autos se amoldam ao que foi fixado pela Seção de Direito Público e Coletivo, nos autos de no 85560/2016, este que foi o recurso eleito como paradigma, para a resolução do Incidente de Resolução de Demandas Repetitivas – IRDR, que tramitou sob o Tema no 1.
+Ademais, em consonância com a tese fixada em sede de IRDR, a Turma de Câmaras Cíveis Reunidas do TJMT, na sessão realizada em 6-6-2019, editou o enunciado no 1, que dispõe:
+“Enunciado 01. Compete ao Juizado Especial processar e julgar as ações de conhecimento, em que o valor da causa não ultrapasse 60 (sessenta) salários-mínimos, independentemente da complexidade da matéria e da necessidade de prova pericial.”
+Esse também é o entendimento dos tribunais pátrios. Nesse sentido, perfilho os seguintes julgados:
+“PROCESSUAL CIVIL – AGRAVO INTERNO – APELAÇÃO CÍVEL – URV – VALOR ATRIBUÍDO À CAUSA INFERIOR A 60 (SESSENTA) SALÁRIOS MÍNIMOS – COMPETÊNCIA ABSOLUTA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA – TESE FIXADA IRDR – SEÇÃO DE DIREITO PÚBLICO – TEMA N.1 – OBSERVÂNCIA – NECESSIDADE – REMESSA DOS AUTOS À TURMA RECURSAL DOS JUIZADOS ESPECIAIS – DECISÃO MANTIDA – RECURSO DESPROVIDO. Aplica-se a tese fixada, no Incidente de Resolução de Demandas Repetitivas, pela Seção de Direito Público (Tema n. 1) que estabeleceu a competência absoluta do Juizado Especial da Fazenda Pública para processar e julgar as causas de valor inferior a 60 (sessenta) salários mínimos, independentemente da complexidade da matéria e da necessidade de prova pericial. Ausente qualquer circunstância válida a dar ensejo à inversão da decisão recorrida, o Agravo Interno há de ser desprovido. (N.U 1009251-07.2017.8.11.0015, Câmaras Isoladas Cíveis De Direito Público, Marcio Vidal, Primeira Câmara de Direito Público e Coletivo, Julgado em 08/02/2021, DJE 10/02/2021) (grifou-se)
+Logo, considerando que o valor atribuído à causa não ultrapassa a 60 (sessenta) salários mínimos, bem como a matéria não se enquadra em nenhuma das excludentes de incompetência do Juizado Especial da Fazenda Pública, previstas na Lei n. 12.153/2009; além da tese jurídica fixada no IRDR n. 85560/2016, sob o tema n. 01, e diante da reunião ocorrida entre a Presidência, as Câmaras de Direito Público e Coletivo desta Corte, em 25-4-2019, acerca do tema, impõe-se que seja reconhecida a incompetência desta Câmara, para julgar o presente recurso.
+Dessa forma, como o valor da causa referente ao feito é inferior a 60 (sessenta) salários mínimos, entendo que os autos devem ser remetidos ao Juízo competente, a fim de que se dê regular prosseguimento.
+Ante o exposto, DECLARO a incompetência deste egrégio Tribunal de Justiça para apreciar o feito e, por conseguinte, determino a remessa dos autos à Turma Recursal competente. Conservados os efeitos dos atos decisórios já proferidos até a sua reapreciação pelo Juízo competente.
+Publique-se. Intimem-se.
+Decorrido in albis o prazo recursal, certifique-se e remetam-se os autos, na forma determinada.
+Cuiabá, 03 de março de 2021.
+Alexandre Elias Filho
+Relator convocado
