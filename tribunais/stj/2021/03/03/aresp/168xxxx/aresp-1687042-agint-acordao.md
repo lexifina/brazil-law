@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. RECLAMAÇÃO QUE PERSEGUE CRÉDITO ORIUNDO DE TRABALHO REALIZADO EM MOMENTO POSTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. NÃO SUBMISSÃO AOS SEUS EFEITOS. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Consoante precedentes da Terceira Turma desta Corte, o crédito reconhecido em sentença trabalhista, decorrente de relação empregatícia anterior ao pedido da recuperação judicial, aos seus efeitos se submete. Por conseguinte, o valor oriundo de prestação de serviço efetivada em momento posterior ao pedido de recuperação judicial, deve ser concebido como extraconcursal.
+2. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se, na origem, de agravo de instrumento interposto por Construlev Indústria e Comércio de Plásticos Ltda. - em recuperação judicial -contra decisão que indeferiu o pedido de habilitação de crédito formulado por Elenildo dos Santos.
+A Primeira Câmara Reservada de Direito Empresarial do Tribunal de Justiça de São Paulo negou provimento ao agravo, em acórdão assim ementado (e-STJ, fls. 467):
+AGRAVO DE INSTRUMENTO. HABILITAÇÃO DE CRÉDITO TRABALHISTA. INDEFERIMENTO. MANUTENÇÃO. VERBAS DECORRENTES DA RESCISÃO DO CONTRATO DE TRABALHO, O QUEOCORREU APÓS O PEDIDO DE RECUPERAÇÃO. RELAÇÃO DE TRABALHO QUE TAMBÉM É POSTERIOR AO PEDIDO DE RECUPERAÇÃO. CRÉDITOS DE NATUREZA EXTRACONCURSAL, NOS TERMOS DO ART. 49, CAPUT, DA LEI Nº 11.101/05. PLANO DE RECUPERAÇÃO QUE AFASTA A POSSIBILIDADE DE HABILITAÇÃO DESSES CRÉDITOS. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 502-505).
+No recurso especial, fundamentado na alíneaado permissivo constitucional, Construlev Indústria e Comércio de Plásticos Ltda. - em recuperação judicial - apontou violação dos arts. 47 e 66 da Lei n. 11.101/2005.
+Sustentou, em síntese, a possibilidade de habilitação, na recuperação judicial, de créditos trabalhistas, ainda que extraconcursais.
+Afirmou que, havendo concordância do credor e da recuperanda, nada impede a habilitação do referido crédito.
+Contrarrazões apresentadas às fls. 513-518 (e-STJ).
+Por decisão monocrática desta relatoria (e-STJ, fls. 576-580), negou-se provimento ao recurso especial, nos termos da seguinte ementa:
+AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO TRABALHISTA. CONSTITUIÇÃO. MOMENTO POSTERIOR À INSTAURAÇÃO DO JUÍZO UNIVERSAL. HABILITAÇÃO. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões do presente agravo interno (e-STJ, fls. 584-598), ainsurgentereiteraa tese do recurso especial de possibilidade de habilitação, na recuperação judicial, de créditos trabalhistas, ainda que extraconcursais, sobretudo diante da concordância do credor e das recuperandas.
+Impugnação ao agravo apresentada às fls. 601-607(e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. RECLAMAÇÃO QUE PERSEGUE CRÉDITO ORIUNDO DE TRABALHO REALIZADO EM MOMENTO POSTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. NÃO SUBMISSÃO AOS SEUS EFEITOS. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+1. Consoante precedentes da Terceira Turma desta Corte, o crédito reconhecido em sentença trabalhista, decorrente de relação empregatícia anterior ao pedido da recuperação judicial, aos seus efeitos se submete. Por conseguinte, o valor oriundo de prestação de serviço efetivada em momento posterior ao pedido de recuperação judicial, deve ser concebido como extraconcursal.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pelainsurgentenão são capazes de modificar as conclusões da deliberação unipessoal.
+Segundo o entendimento da Terceira Turma desta Corte, para o fim de sujeição aos efeitos da recuperação judicial nos termos do art. 49,caput, da Lei n. 11.101/2005, a constituição de um crédito (ainda que inexigível e ilíquido) pressupõe a existência de um vínculo jurídico entre as partes, não dependendo de provimento judicial que o declare e muito menos do transcurso de seu trânsito em julgado.
+A propósito, confira-se a ementa do precedente desta relatoria, que firmou a referida tese ao tratar da subordinação à recuperação judicial de crédito trabalhista oriundo de trabalho desempenhado anteriormente ao pedido de recuperação, que, por sua vez, antecedeu à sentença da reclamação trabalhista correspondente:
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO TRABALHISTA. DISCUSSÃO QUANTO AO MOMENTO DA CONSTITUIÇÃO DO CRÉDITO TRABALHISTA. RECLAMAÇÃO TRABALHISTA QUE PERSEGUE CRÉDITO ORIUNDO DE TRABALHO REALIZADO EM MOMENTO ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. SUBMISSÃO AOS SEUS EFEITOS, INDEPENDENTE DE SENTENÇA POSTERIOR QUE SIMPLESMENTE O DECLARE. RECURSO ESPECIAL PROVIDO.
+1. Estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos (art. 49, caput, da Lei n. 11.1.01/2005).
+1.1 A noção de crédito envolve basicamente a troca de uma prestação atual por uma prestação futura. A partir de um vínculo jurídico existente entre as partes, um dos sujeitos, baseado na confiança depositada no outro (sob o aspecto subjetivo, decorrente dos predicados morais deste e/ou sob o enfoque objetivo, decorrente de sua capacidade econômico-financeira de adimplir com sua obrigação), cumpre com a sua prestação (a atual), com o que passa a assumir a condição de credor, conferindo a outra parte (o devedor) um prazo para a efetivação da contraprestação. Nesses termos, o crédito se encontra constituído, independente do transcurso de prazo que o devedor tem para cumprir com a sua contraprestação, ou seja, ainda, que inexigível.
+2. A consolidação do crédito (ainda que inexigível e ilíquido) não depende de provimento judicial que o declare e muito menos do transcurso de seu trânsito em julgado, para efeito de sua sujeição aos efeitos da recuperação judicial.
+2.1 O crédito trabalhista anterior ao pedido de recuperação judicial pode ser incluído, de forma extrajudicial, inclusive, consoante o Superior Tribunal de Justiça disposto no art. 7º, da Lei 11.101/05. É possível, assim, ao próprio administrador judicial, quando da confecção do plano, relacionar os créditos trabalhistas pendentes, a despeito de o trabalhador sequer ter promovido a respectiva reclamação. E, com esteio no art. 6º, §§ 1º, 2º e 3º, da Lei n. 11.101/2005, a ação trabalhista que verse, naturalmente, sobre crédito anterior ao pedido da recuperação judicial deve prosseguir até a sua apuração, em vindoura sentença e liquidação, a permitir, posteriormente, a inclusão no quadro de credores. Antes disso, é possível ao magistrado da Justiça laboral providenciar a reserva da importância que estimar devida, tudo a demonstrar que não é a sentença que constitui o aludido crédito, a qual tem a função de simplesmente declará-lo.
+3. O tratamento privilegiado ofertado pela lei de regência aos créditos posteriores ao pedido de recuperação judicial tem por propósito, a um só tempo, viabilizar a continuidade do desenvolvimento da atividade empresarial da empresa em recuperação, o que pressupõe, naturalmente, a realização de novos negócios jurídicos (que não seriam perfectibilizados, caso tivessem que ser submetidos ao concurso de credores), bem como beneficiar os credores que contribuem ativamente para o soerguimento da empresa em crise, prestando-lhes serviços (mesmo após o pedido de recuperação). Logo, o crédito trabalhista, oriundo de prestação de serviço efetivada em momento anterior ao pedido de recuperação judicial, aos seus efeitos se submete, inarredavelmente.
+4. Recurso especial provido.
+(REsp n. 1.634.046/RS, Relatora Ministra Nancy Andrighi, Relator p/ Acórdão Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/4/2017, DJe 18/5/2017).
+No mesmo sentido:
+RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. DEVEDOR EM RECUPERAÇÃO JUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. CONSTITUIÇÃO DO CRÉDITO. EVENTO DANOSO OCORRIDO EM MOMENTO ANTERIOR AO PEDIDO RECUPERACIONAL. SUBMISSÃO AOS SEUS EFEITOS. SENTENÇA CONDENATÓRIA PROFERIDA POSTERIORMENTE. IRRELEVÂNCIA.
+1. Ação ajuizada em 20/5/2013. Recurso especial interposto em 27/9/2017 e concluso ao Gabinete em 8/3/2018.
+2. O propósito recursal é definir se o crédito de titularidade das recorridas, decorrente de sentença condenatória transitada em julgado após o pedido de recuperação judicial do devedor, deve sujeitar-se ao plano de soerguimento.
+3. Devidamente analisadas e discutidas as questões controvertidas, e suficientemente fundamentado o acórdão recorrido, não há como reconhecer a ocorrência de negativa de prestação jurisdicional.
+4. Para os fins do art. 49, caput, da Lei 11.101/05, a constituição do crédito discutido em ação de responsabilidade civil não se condiciona ao provimento judicial que declare sua existência e determine sua quantificação. Precedente.
+5. Na hipótese, tratando-se de crédito derivado de fato ocorrido em momento anterior àquele em que requerida a recuperação judicial, deve ser reconhecida sua sujeição ao plano de soerguimento da sociedade devedora. Superior Tribunal de Justiça.
+6. Recurso especial provido.
+(REsp n. 1.727.771/RS, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/5/2018, DJe 18/5/2018 - sem grifo no original).
+No caso dos autos, o Tribunal de origem manteve a decisão agravada que indeferiu a inclusão do crédito no plano de recuperação judicial, sob o fundamento de que é extraconcursal, pois decorre de acordo firmado, em reclamação trabalhista, após o pedido de recuperação.
+Outrossim, constata-se dos autos (e-STJ, fl. 468), que a relação empregatícia do recorrido com a recuperanda, a qual deu origem ao crédito, teve início em novembro de 2014, ou seja, após o pedido de recuperação judicial (22/1/2014).
+Desse modo, o acórdão recorrido não merece reparo.
+Por fim, vale destacar que, embora o crédito em comento não se submeta aos efeitos do plano de recuperação judicial da parte recorrente, por se tratar de crédito extraconcursal, o Juízo da recuperação deverá analisar a melhor forma de pagamento desse crédito, não sendo possível ao Juízo trabalhista determinar atos de constrição do patrimônio das recuperandas de forma genérica, sob pena de se inviabilizar por completo o reerguimento da empresa.
+A esse respeito, confira-se:
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. EXECUÇÃO TRABALHISTA. PROSSEGUIMENTO. ATOS DE CONSTRIÇÃO.
+COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. No caso de deferimento da recuperação judicial, a competência da Justiça do Trabalho se limita à apuração do respectivo crédito (processo de conhecimento), sendo vedada a prática, pelo citado Juízo, de qualquer ato que comprometa o patrimônio da empresa em recuperação (procedimento de execução).
+2. Classificam-se como extraconcursais os créditos de obrigações que se originaram após o deferimento do processamento da recuperação, prevalecendo estes sobre os créditos concursais, de acordo com os arts. 83 e 84 da Lei nº 11.101/2005.
+3. Segundo a jurisprudência desta Corte, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, a execução de créditos trabalhistas constituídos depois do pedido de recuperação judicial deve prosseguir no Juízo universal.
+4. Conflito de competência conhecido para declarar competente o Juízo de Direito da 2ª Vara Cível de Blumenau/SC. (CC n. 145.027/SC, Relator o Ministro Ricardo Villas Bôas Cueva, DJe de 31/8/2016)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
