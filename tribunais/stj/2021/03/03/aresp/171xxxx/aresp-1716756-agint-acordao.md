@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO PRESCRITO PELO MÉDICO. LIMITAÇÃO DE SESSÕES DE TERAPIA. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. AGRAVO DESPROVIDO.
+1.A jurisprudência desta Corte entende ser abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS.
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por A. A. M. I. S. contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 662):
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO PRESCRITO PELO MÉDICO. LIMITAÇÃO DE SESSÕES DE TERAPIA.CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. COBRANÇA DE COPARTICIPAÇÃO.SÚMULA N. 283/STF. CUSTEIO E REEMBOLSO. REQUISITOS.AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N.211/STJ. LIMITAÇÃO DO REEMBOLSO. SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões deste agravo interno (e-STJ, fls. 673-682), a recorrentealega a nãoincidência da Súmula 283/STF ao caso. Sustenta inexistir abusividade na limitação do número de sessões por ano. Pondera que, por não se tratar de recurso manifestamente inadmissível, protelatório ou improcedente, não poderão ser aplicadas as penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Contraminuta ao agravo interno apresentada (e-STJ, fls. 685-696).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. TRATAMENTO PRESCRITO PELO MÉDICO. LIMITAÇÃO DE SESSÕES DE TERAPIA. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. AGRAVO DESPROVIDO.
+1.A jurisprudência desta Corte entende ser abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS.
+2. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela agravantenão são capazes de modificar as conclusões da deliberação unipessoal.
+Ao que se depreende das razões infracitadas, o Tribunal estadual entendeu que a limitação imposta excluiria o tratamento que foi prescrito como meio adequado e indispensável à tentativa de recuperação da higidez física do paciente. Vejamos (e-STJ, fls. 564-566):
+Portador de "Transtorno do Espectro Autista" foi indicado ao autor acompanhamento especializado com psicologia comportamental de análise aplicado do comportamento em ABA, fonoaudiologia, terapia ocupacional com integração sensorial, psicomotricidade, psicopedagogia e psicologia, com recusa da ré para cobertura sob alegação de que o tratamento indicado não consta do rol de procedimentos obrigatórios da ANS.
+Sem razão, porém, a ré.
+Isto porque, não obstante as alegações da apelante de que o tratamento não consta do rol de cobertura da ANS, no contrato celebrado não há qualquer cláusula contratual de exclusão de cobertura para a doença que atingiu o menor apelado.
+(..)
+Nesse passo, a negativa de cobertura do convênio, consubstanciada em cláusula que veda tratamento claramente viola as normas de proteção do consumidor, como a boa-fé contratual, bem como ameaça o objeto e o equilíbrio da avença, quando atestado pelo médico como sendo a melhor forma de recuperação da saúde do paciente.
+Em outras palavras, a limitação imposta excluiria o tratamento que foi prescrito como meio adequado e indispensável à tentativa de recuperação da higidez física do paciente, negando, pois, o próprio objetivo do contrato, o que não pode ser admitido.
+O entendimento firmado no âmbito desta Corte Superior foi no sentido de que "há abusividade na cláusula contratual ou em ato da operadora de plano de saúde que importe em interrupção de tratamento de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS, visto que se revela incompatível com a equidade e a boa-fé, colocando o usuário (consumidor) em situação de desvantagem exagerada (art. 51, IV, da Lei 8.078/1990).Precedente" (REsp 1.642.255/MS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 17/04/2018, DJe 20/04/2018).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANO MORAL. COBERTURA DE TRATAMENTO MÉDICO. RECUSA. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022, II, DO CPC/2015. TRATAMENTO EXPERIMENTAL. FORNECIMENTO DE ÓRTESES E ACESSÓRIOS.REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. LIMITAÇÃO OU RESTRIÇÃO A PROCEDIMENTOS. CLÁUSULA ABUSIVA. DANOS MORAIS. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem concluiu que não havia prova de que o tratamento era experimental e que não se trata de fornecimento de órtese e acessórios sem vínculo com o ato cirúrgico.
+Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n.
+83/STJ).
+5. "À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fisioterápicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fisioterapia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no REsp n. 1.349.647/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/11/2018, DJe 23/11/2018).
+6. "A recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico, a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Caracterização de dano moral in re ipsa. Precedentes" (AgRg no AREsp n. 527.140/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 2/9/2014, DJe 16/9/2014).
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1544942/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/06/2020, DJe 26/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. IRRESIGNAÇÃO SUBMETIDA AO NCPC. PLANO DE SAÚDE. PACIENTE NO ESPECTRO AUTISTA. LIMITAÇÃO DE SESSÕES DE TRATAMENTO PSICOLÓGICO, FISIOTERÁPICO E OCUPACIONAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. LIMITAÇÃO AO NÚMERO DE SESSÕES IMPOSSIBILIDADE.
+COPARTICIPAÇÃO ADMITIDA EM TESE, MAS QUE NÃO PODE SER EXAMINADA NO CASO CONCRETO POR FALTA DE PREQUESTIONAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Não se verifica omissão de julgamento na hipótese dos autos, porque os temas suscitados foram efetivamente examinados pelo TJSP.
+3. A jurisprudência desta Corte entende abusiva a cláusula contratual ou o ato da operadora de plano de saúde que importe em interrupção de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS.
+4. Conquanto admitida, em tese, a legalidade da cláusula contratual que prevê coparticipação do segurado para as sessões que excedem o limite mencionado, não é possível examinar o tema no caso dos autos, por falta de prequestionamento.
+5. Agravo interno não provido.
+(AgInt no AREsp 1574594/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/06/2020, DJe 18/06/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. PREQUESTIONAMENTO. HARMONIA ENTRE O ACÓRDÃORECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.AUSÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1.Ação de obrigação de fazer cumulada com compensação por danos morais, fundada na negativa de autorização para a continuidade de tratamento de saúde prescrito.2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.3. Há abusividade na cláusula contratual ou em ato da operadora de plano de saúde que importe em interrupção de tratamento de terapia por esgotamento do número de sessões anuais asseguradas no Rol de Procedimentos e Eventos em Saúde da ANS, visto que se revela incompatível com a equidade e a boa-fé, colocando o usuário (consumidor) em situação de desvantagem exagerada. Precedentes.4. A recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário. Precedentes.5. Ante o entendimento dominante do tema na s Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.6. O reexame de fatos e provas em recurso especial é inadmissível.7. Agravo Interno no recuso especial não provido" (AgInt no REsp 1796197/RN, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/09/2019, DJe 04/09/2019).
+Assim, o acórdão recorrido julgou em conformidade com o entendimento desta Corte.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece incólume a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
