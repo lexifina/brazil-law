@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCIANA COELHO ZAVAGLI GONÇALVES SUAREZ, com fundamento no permissivo constitucional, contra acórdão assim ementado (e-STJ fl. 878):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO - RESPONSABILIDADE CIVIL DO ESTADO - MORTE DE AGENTE DE SEGURANÇA PENITENCIÁRIO EM TRABALHO - DANOS MORAIS SUPORTADOS PELA GENITORA - "QUANTUM" - VALOR EXCESSIVO - MINORAÇÃO - POSSIBILIDADE - JUROS E CORREÇÃO MONETÁRIA - ALTERAÇÃO DE OFÍCIO - HONORÁRIOS ADVOCATICIOS.
+- O valor da indenização por danos morais deve ser encontrado levando- se em conta as condições do ofensor, do ofendido e do bem jurídico afetado, assim como a intensidade e duração do sofrimento e o prudente arbítrio. O quantum indenizatório deve ser suficiente para recompor os prejuízos causados, sem importar em enriquecimento sem causa por parte do ofendido.
+- O valor da indenização por danos morais deve ser corrigido pelo IPCA, a partir do arbitramento (Súmula 362 do STJ) e acrescido de juros de mora pelos índices da caderneta de poupança, a partir do evento danoso (Súmula 54, do STJ).
+- A fixação ou alteração regular da correção monetária e dos juros de mora, ainda que de oficio pelo Tribunal, não representa reforma em prejuízo da Fazenda Pública, uma vez que tais consectários legais decorrem da própria pretensão inicial.
+- O disposto no §8º do art. 85 do CPC concede discricionariedade ao Magistrado, para a fixação dos honorários advocatícios, somente em causas nas quais o valor se apresente irrisório, muito baixo ou inestimável. Mesmo que se entenda como excessivo o valor da condenação, não cabe a modificação da verba honorária tendo como base tal premissa, uma vez que não se pode confundir o conceito de inestimável com exorbitante, pois ao contrário se estaria pretendendo dizer além daquilo que o legislador dispôs em lei.
+- Nos termos do art. 85, §11, do NCPC, ao julgar o recurso o Tribunal deve majorar os honorários advocatícios anteriormente fixados, observados o trabalho adicional realizado em grau recursal e os requisitos previstos nos seus §§ 2º e 3º.
+V.v.: - Na fixação da indenização por dano moral, deve ser observada a condição particular da vítima, as posses do causador do dano, devendo o quantum refletir a indenização mais completa possível, sem tornar-se fonte de lucro indevido. O numerário deve proporcionar à vítima satisfação na justa medida do abalo sofrido, produzindo, no causador do mal, impacto bastante para dissuadi-lo de igual procedimento, forçando- o a adotar uma cautela maior diante de situação como a descrita nestes autos. - Os honorários advocatícios devem ser fixados segundo o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e a importância da causa e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço, os quais, se não forem bem observados, dão ensejo à majoração da verba.
+Embargos de declaração rejeitados.
+A recorrente sustenta, em síntese, além do dissídio, que o acórdão recorrido vulnerou os arts. 186 e 927 do Código Civil. Postula a majoração do valor arbitrado a título de danos morais.
+Contrarrazões.
+Admissão do apelo nobre (e-STJ fls. 1.014/1.019).
+Passo a decidir.
+Inicialmente, observo que "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC." (Enunciado Administrativo 3 do STJ).
+Considerado isso, verifico que o recurso especial não comporta conhecimento.
+É que, no tocante à impugnação alusiva ao quantum da indenização fixada, os dispositivos apontados pela recorrente (arts. 186 e 927 do Código Civil) não apresentam comando normativo suficiente para infirmar os fundamentos do aresto impugnado quanto ao ponto, de modo a incidir a Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. DISPOSITIVO LEGAL APONTADO SEM COMANDO HÁBIL A INFIRMAR O ARESTO RECORRIDO. DEFICIÊNCIA. SÚMULA 284 DO STF. INCIDÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Inexiste violação do art. 535 do CPC/1973 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+3. Quando o conteúdo do dispositivo legal invocado no especial não possui comando normativo suficiente à impugnação dos fundamentos do aresto recorrido, há incidência do teor da Súmula 284 do STF.
+4. O art. 18 da Lei n. 7.347/1985 não apresenta comando normativo suficiente para infirmar os fundamentos do aresto impugnado, visto que a condenação imposta ao Ministério Público a título de honorários advocatícios foi levada a efeito no bojo do feito rescisório, processo de natureza autônoma.
+5. Agravo interno desprovido. (AgInt no REsp 1.502.794/MG, minha relatoria, PRIMEIRA TURMA, DJe 20/2/2019).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
