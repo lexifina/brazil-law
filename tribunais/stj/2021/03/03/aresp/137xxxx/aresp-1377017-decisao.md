@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da incidência da Súmula 7 do STJ.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 659):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA POR IMPROBIDADE ADMINISTRATIVA. ASSESSOR JURÍDICO DO MUNICÍPIO DE CHIAPETTA. ADREDE EXERCÍCIO DA ADVOCACIA PRIVADA CONTRA OS INTERESSES DA FAZENDA PÚBLICA QUE REMUNERAVA, NA OCASIÃO, O CAUSÍDICO. ART. 30, I, DA LEI 8.906/94. AFRONTA AO DEVER DE LEALDADE DO SERVIDOR PARA COM A INSTITUIÇÃO A QUE SERVE, A CARACTERIZAR, NA FORMA DO ART. 11 DA LEI 8.429/92, IMPROBIDADE ADMINISTRATIVA, ANTE A PRESENÇA DO ELEMENTO SUBJETIVO DO TIPO.
+Evidenciado está, pelo conjunto probatório, o consciente e intencional indevido patrocínio, pelo réu, enquanto ocupante de cargo em comissão de assessor jurídico de Chiapetta, de defesa de ex-prefeito daquele ente parcelar em ação de execução promovida pelo Ministério Público, cujo titulo executivo judicial corporifica ressarcimento à respectiva Fazenda Pública Municipal de valores consolidados em ação civil pública por improbidade administrativa na qual o Município de Chiapetta figura como litisconsórcio ativo. De efeito, a afronta ao dever de lealdade do servidor para com a instituição a que serve, previsto no art. 30, I, da Lei 8.906/94, decorrente do próprio princípio constitucional da moralidade administrativa insculpido no art. 37 da CF, caracteriza ato de improbidade administrativa, na forma do disposto no art. 11, caput, da Lei 8.429/92, a justificar, in casu, a manutenção do juízo condenatório.
+APELO DESPROVIDO. UNÂNIME.
+No recurso especial o recorrente alega violação dos artigos 11 e 12 da Lei n. 8.429/1992, ao argumento de que somente estaria impedido de exercer a advocacia privada enquanto assessor jurídico do Município nas causas contra a fazenda municipal.
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+Parecer do MPF às fls. 756-758.
+É o relatório. Decido.
+Quanto ao artigo 12 da Lei n. 8.429/1992 (e a tese a ele vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+No que diz respeito alegação de que não houve a prática de ato ímprobo, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que "emerge do conjunto probatório o imputado agir doloso do apelante, a evidenciar o exercício, enquanto assessor jurídico do Município de Chiapetta, de advocacia privada contra a Fazenda Pública Municipal que, à época, o remunerava, conduta vedada pelo art. 30, I, da Lei nº 8.906/94, em afronta aos princípios da legalidade e lealdade à instituição (ato de improbidade administrativa tipificado no art. 11 da Lei nº 8.429/92)" (fls. 663-664).
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide à hipótese a Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. ADVOCACIA PRIVADA CONTRA A FAZENDA PÚBLICA. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
