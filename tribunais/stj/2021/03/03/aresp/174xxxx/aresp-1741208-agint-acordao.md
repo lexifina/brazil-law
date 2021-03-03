@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA.FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de conhecimento em fase de cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno no agravo em recurso especialnão provido.
+RELATÓRIO
+Cuida-se de agravo interposto por VIACAO MOTTA LIMITADA contra decisão unipessoal proferida pelo Ministro Presidente desta Corte que conheceu do agravo para não conhecer do recurso especialque interpusera.
+Ação: de conhecimento em fase de cumprimento de sentença, na qual se insurge a agravante contra a decisão que indeferiu pedido de remessa dos autos à contadoria para realização de cálculos, mantendo os valores homologados anteriormente, nos autos da ação de Indenização por dano material, em fase de cumprimento de sentença.
+Decisão interlocutória: indeferiu pedido de remessa dos autos à contadoria para realização de cálculos.
+Acórdão: negou provimento ao agravo de instrumentointerpostopela agravante, nos termos da seguinte ementa:
+Agravo de Instrumento - Indenização por dano material - Fase de cumprimento de sentença - Impugnação aos valores homologados - Pedido de remessa dos autos à contadoria judicial - improcedência - Inércia e Preclusão caracterizados - Agravo improvido. (e-STJ Fl. 544)
+Embargos de declaração: opostos pelaagravante, foram parcialmente acolhidos, sem efeitos infringentes.
+Recurso especial: alega violação dos arts. 840 e 844 do CC. Sustenta que a manutenção dos cálculos, do modo como elaborados pelo juízo de origem, acarretará no enriquecimento ilícito na parte agravada.
+Decisão unipessoal: proferida pelo Ministro Presidente desta Corte, conheceu do agravo para não conhecer do recurso especial.
+Agravo interno: nas razões do presente recurso, aagravante sustenta que as razões do recurso especial foram devidamente fundamentadas, de modo a afastar a aplicação da Súmula 284/STF à espécie. Assevera que os dispositivos arrolados foram prequestionados na origem, ainda que de forma implícita.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA.FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.
+1. Ação de conhecimento em fase de cumprimento de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. Agravo interno no agravo em recurso especialnão provido.
+VOTO
+A decisão agravada foi assim fundamentada, na parte em que impugnada pela agravante:
+"Cuida-se de agravo apresentado por VIAÇÃO MOTTA LIMITADA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO, assim resumido:
+Agravo de Instrumento - Indenização por dano material - Fase de cumprimento de sentença - Impugnação aos valores homologados - Pedido de remessa dos autos à contadoria judicial - improcedência - Inércia e Preclusão caracterizados - Agravo improvido. (fl. 544)
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a violação dos arts. 840 e 884 do CC, aduzindo que deve ser afastada a preclusão para que seja determinada a retificação dos cálculos com relação ao erro material e exclusão da planilha de débito dos valores que já foram efetivamente pagos pela recorrente referente a pensão de agosto/1999 até maio/2009, em respeito ao princípio de vedação ao enriquecimento ilícito, trazendo os seguintes argumentos:
+No presente caso, houve homologação dos cálculos apresentados pela parte agravada em razão da não manifestação da agravante no processo, contudo, nos cálculos que foram homologados consta a incorreta inclusão das pensões já adimplidas de agosto/1999 até maio/2009.
+Assim, verificado o erro material nos cálculos, bem como que mencionado equivoco gera um enriquecimento ilícito da parte contrária em valor aproximado de R$ 500.000,00 (quinhentos mil reais), não poderia o Juízo de origem deixar determinar a retificação dos cálculos sob o argumento de que teria ocorrido a preclusão.
+Não se está tratando de mero excesso de execução ou de rediscussão de matérias preclusas, mas sim de impedir o pagamento em duplicidade de uma mesma parcela, surgindo a necessidade de retificação dos cálculos.
+Nesta senda, é sabido que a exatidão do cálculo que instrui a execuçãoconsiste em matéria de ordem pública, de forma que pode, e deve, ser conhecida de ofício pelo magistrado, ou mesmo mediante petição da parte interessada.
+Com efeito, o visível erro material nos cálculos da parte recorrida acarreta prejuízos a parte contrária, ora recorrente, uma vez aumentar em quase meio milhão de reais o débito existente.
+Desse modo, em que pese o Tribunal de Justiça a quo ter considerado que o transcurso dos prazos para manifestações por parte da empresa recorrente quanto à impugnação do cálculo importam na aplicação do princípio da preclusão, em se tratando de erro material não vigora esta regra, que deve ser mitigada para correção do erro material e retificação do cálculo, sob pena da empresa pagar valores já adimplidos, em violação ao art. 884 do Código Civil
+ ..
+Com efeito, efeito, a questão posta em discussão transcende o instituto da preclusão, uma vez que não deve ser admitido que o devedor seja compelido a pagar valores que já foram pagos anteriormente, razão pela qual os cálculos homologados deverão ser retificados com a exclusão das pensões já adimplidas (agosto/1999 até maio/2009).
+ ..
+Assim, não há que se falar em ocorrência de preclusão quanto à discussão do débito, pois não há interesse em saber se é devido ou não, mas sim se os parâmetros impostos na sentença foram devidamente cumpridos quando da elaboração dos cálculos que embasaram a execução.
+É certo que é defeso ao magistrado modificar decisões anteriormente tomadas nos autos, conforme determina o art. 505 do CPC. Porém, no caso em tela, se trata de matéria de ordem pública, da qual não pode o juiz competente se furtar de analisar.
+ ..
+Com essas considerações, é que o princípio o enriquecimento ilícito deve se sobrepor a qualquer tese de preclusão que possa ser alegada, devendo no caso concreto o acórdão ser reformado por violação ao art. 884 do CCB.
+No caso em tela, em havendo a manutenção da homologação dos cálculos apresentados pela recorrida, cuja última atualização indicou o montante de R$ 1.870.649,46 (um milhão oitocentos e setenta mil seiscentos e quarenta e nove reais e quarenta e seis centavos), haverá nítido enriquecimento indevido de sua parte, posto que irá se beneficiar indevidamente de quase meio milhão de reais, cifra esta que pode ficar muito maior após a atualização monetária para a presente data.
+Desse modo, imperativa a reforma do acórdão proferido pelo TJSP para que seja afastada a tese impeditiva de preclusão, para que seja determinada a retificação dos cálculos com relação ao erro material e exclusão da planilha de débito dos valores que já foram efetivamente pagos pela recorrente referente a pensão de agosto/1999 até maio/2009. (fls. 573/576)
+É, no essencial, o relatório. Decido.
+Na espécie, em relação à alegação de violação ao art. 840 do CC, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente não demonstra, de forma direta, clara e particularizada, como o acórdão recorrido violou o dispositivo de lei federal apontado, o que atrai, por conseguinte, a aplicação do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, esta Corte Superior de Justiça já se manifestou no sentido de que a "argumentação recursal em torno de normas infraconstitucionais não pode ser meramente genérica, sem o desenvolvimento de teses efetivamente vinculadas a elas e sem a demonstração objetiva de como o acórdão recorrido as teria violado. Incidência da Súmula n. 284/STF". (REsp n. 1.293.548/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/6/2018.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.442.952/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/2/2017; EDcl no AgRg no AREsp n. 422.103/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/10/2014; AgRg no AREsp n. 413.345/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 22/10/2015; e AgRg no AREsp n. 634.545/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/5/2015.
+Ademais, em relação à alegação de violação ao art. 884 do CC, incide o óbice da Súmula n. 284/STF, uma vez que o artigo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula nº 284 do STF". (AgInt no REsp n. 1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020.)
+Confiram-se também os seguintes julgados: REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019; AgRg no REsp n. 1.754.394/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/9/2018; AgInt no REsp n. 1.503.675/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/3/2018.
+Além disso, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg nos EREsp 1138634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; e AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se." (e-STJ Fls. 1.032/1.035)
+Pela análise das razões recursais apresentadas no agravo interno, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+1. Da ausência de prequestionamento
+De fato, os arts. 840 e 844 do CC não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Ressalto ainda que, nos termos da reiterada jurisprudência do STJ, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais, ao decidir por sua aplicação ou afastamento em relação a cada caso concreto, o que não se deu na espécie.
+Ademais, a alegação da agravante de que a oposição de embargos de declaração perante o Tribunal de origem, por si só, haveria de ser suficiente para se considerar prequestionado o tema em análise só encontra guarida se o Tribunal superior considerar existentes erro, omissão, contradição ou obscuridade, o que, a toda evidência, não retrata a hipótese dos autos.
+2. Da fundamentação deficiente
+No que tange à fundamentação deficiente, a agravante não indicou, de forma clara, precisa e consistente, em que consistiu a pretensa ofensa aos arts. 840 e 844 do CC.
+Consigne-se, ainda, que as razões da agravante, em seu recurso especial, encontram-se dissociadas da decisão prolatada pelo Tribunal de origem, o que torna deficiente a fundamentação recursal e impede a abertura da via especial. Inafastável, pois, a incidência da Súmula 284/STF.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
