@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação civil pública.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CELG DISTRIBUIÇÃO S.A. - CELG D contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: civil pública, ajuizada por MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, em face da agravante, na qual alega - em síntese - que o Município de Cavalcante/GO tem sido vítima constante da interrupção do fornecimento de energia elétrica, gerando sérios prejuízos para diversos setores da vida social de seus cidadãos.
+Alega o demandante que os estabelecimentos comerciais, principalmente aqueles que manipulam alimentos perecíveis, usualmente incidem em prejuízos de todas as espécies em decorrência das diuturnas quedas de energia. Aduz, ainda, que no próprio fórum da Comarca de Cavalcante/GO é comum a suspensão de audiências por problemas desta natureza. Afirma que a região nordeste do Estado de Goiás, da qual o Município de Cavalcante é um típico expoente, possui notoriamente os piores índices de desenvolvimento humano do referido Estado. Diante deste quadro social, a comunidade local luta incansavelmente para reverter tais estatísticas. Todavia, a falta de qualidade no serviço de energia elétrica tem sido um grande adversário no objetivo de atrair empresas capazes de fomentar o desenvolvimento regional.
+Dessa forma, requer que a ré tome as providências técnicas necessárias para resolver os problemas descritos na exordial, melhorando efetivamente o serviço público essencial de energia elétrica na cidade de Cavalcante/GO, equiparando-os, no mínimo, aos da média do Estado de Goiás.
+Sentença: julgou procedente o pedido, para condenar a agravante ao cumprimento da obrigação de fazer, consistente na implementação e comprovação das providências técnicas e investimentos para a melhoria da qualidade do serviço público essencial de energia na cidade de Cavalcante/GO, equiparando-o, no mínimo, à média goiana, conforme indicadores de medição de desempenho próprio da ANEEL.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, para reformar a sentença, no sentido de diminuir o montante das multas aplicadas, sendo estas definidas no importe de R$ 300,00 por dia, devida a partir da intimação da decisão liminar, e R$ 50.000,00 para cada mês em que a média dos indicadores FEC e DEC (Cavalcante Região e Urbano) permanecerem abaixo da média goiana, exigidos pela ANEEL, esta última devida a partir do trânsito em julgado, devendo as mesmas serem revertidas ao Fundo Estadual de Defesa do Consumidor.
+Nesse sentir, é a ementa do julgado:
+Apelação cível. Ação civil pública. Queda constante de energia elétrica. Índices DEC (duração equivalente de interrupção por unidade consumidora) e FEC (frequência equivalente de interrupção por unidade consumidora) abaixo dos estabelecidos pela ANEEL. Regime de permissão e concessão de serviços públicos. Lei nº 8.987/85. Aplicação do Código de Defesa do Consumidor. Responsabilidade objetiva. Multa reduzida. Caráter pedagógico não atingido.
+1. Demonstrado nos autos que os serviços prestados pela concessionária foram deficientes, considerando a ocorrência de várias interrupções no fornecimento de energia elétrica no município, devem ser mantidas as providências determinadas na sentença no sentido de manutenção e melhoria das redes, devendo a prestadora se ater aos índices mínimos da DEC (Duração Equivalente de Interrupção por Unidade Consumidora) e FEC (Frequência Equivalente de Interrupção por Unidade Consumidora), estabelecidos pela ANEEL.
+2. Serviço adequado é o que satisfaz as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas (artigo 69, § 19, da Lei nº 8.987/85). 3. Responde pela má prestação de serviço (pela grande ocorrência de queda de energia comparada nos padrões da ANEEL), a não ser que comprove a inexistência do defeito, fato de terceiro ou culpa exclusiva do consumidor, o que aqui não se verifica.
+4. No tocante à aplicação da multa diária por descumprimento da obrigação, imposta na decisão liminar e confirmada no ato vergastado, no valor de R$ 1.000,00 (mil reais), entendo que mesmo estando a concessionária de energia, aquém da meta estabelecida pela ANEEL, o montante foge do caráter pedagógico de penalidade, fixo para tanto R$ 300,00 (trezentos reais).
+5. Quanto à multa astreintes entendo por razoável e proporcional reduzir o valor da multa diária para R$ 300,00 (trezentos reais), a partir da data do descumprimento da medida, e ainda, para R$ 100.000,00 (cem mil reais) para cada mês em que a média dos indicadores FEC e DEC (Cavalcante Região e Urbano) permanecerem abaixo da média goiana, conforme exigência da ANEEL, devendo ser revertido ao Fundo Estadual de Defesa do Consumidor, devendo esta multa ter como marco inicial o trânsito em julgado da sentença.
+Apelação cível conhecida e parcialmente provida. Sentença parcialmente reformada. (e-STJ, fl. 879)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão Monocrática: não conheceu do agravo em recurso especial, nos termos do art. 932, III, do CPC/15, em razão da ausência de impugnação de todos os fundamentos constantes da decisão que negou seguimento ao recurso especial (e-STJ, fls. 1.091/1.092).
+Agravo interno: alega, em síntese, a não incidência da Súmula 7/STJ, na situação em análise (e-STJ, fls. 1.097/1.100).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação civil pública.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial ante a incidência da Súmula 182/STJ, haja vista que, naquele recurso, não foram impugnados todos os fundamentos utilizados pelo TJ/GO para negar seguimento ao recurso especial.
+Examinando-se os autos, verifica-se que o Tribunal de origem negou seguimento ao recurso especial diante da inadmissibilidade de recurso especial fundamentado na incidência da Súmula 7/STJ (e-STJ, fls. 1.048/1.049).
+Todavia, nas razões do agravo em recurso especial, a parte agravante não impugnou, de forma consistente, o seguinte óbice: incidência da Súmula 7/STJ (e-STJ, fls. 1.056/1.066).
+Necessário salientar que o afastamento do óbice deve ocorrer com a devida explicação por parte do recorrente do porquê de sua não aplicação de maneira concreta na hipótese em análise.
+Desse modo, nos termos da Súmula 182/STJ, mostra-se correto o não conhecimento do agravo em recurso especial, tendo em vista a ausência de impugnação específica de todos os fundamentos contidos na decisão agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
