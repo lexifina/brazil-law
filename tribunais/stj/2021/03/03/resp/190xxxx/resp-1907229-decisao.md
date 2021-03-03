@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. INÉPCIA RECURSAL. ATO QUE POSTERGA DECISÃO. IRRECORRIBILIDADE. NÃO MERECE CONHECIMENTO O AGRAVO QUE ATACA ATO JUDICIAL QUE NÃO DECIDE QUESTÃO INCIDENTAL E, PORTANTO, NÃO PASSÍVEL DE RECURSO. EXEGESE DOS ARTIGOS 203, 1.001 E 1.015 DO CPC/15. - CIRCUNSTÂNCIA DOS AUTOS EM QUE NÃO FOI INDEFERIDO O PEDIDO DE TUTELA DE URGÊNCIA, MAS POSTERGADA SUA ANÁLISE; E SE IMPÕE NÃO CONHECER DO RECURSO, NO PONTO. - RECEBIMENTO DOS EMBARGOS. EFEITOS. A INTERPOSIÇÃO DE EMBARGOS À EXECUÇÃO, EM REGRA, NÃO SUSPENDE A EXECUÇÃO. A CONCESSÃO DO EFEITO SUSPENSIVO AOS EMBARGOS TEM POR PRESSUPOSTO O REQUERIMENTO PELO EMBARGANTE, A DEMONSTRAÇÃO DOS REQUISITOS À CONCESSÃO DA TUTELA PROVISÓRIA E A SEGURANÇA DO JUÍZO POR MEIO DE PENHORA, DE DEPÓSITO OU DE CAUÇÃO SUFICIENTES, NOS TERMOS DO ART. 919, §1º DO CPC/15. - CIRCUNSTÂNCIA DOS AUTOS EM QUE NÃO SE JUSTIFICA A CONCESSÃO DO EFEITO SUSPENSIVO, POIS AUSENTE OS SEUS REQUISITOS.
+RECURSO EM PARTE CONHECIDO E DESPROVIDO.
+Nas razões do especial, apontam os recorrentes existência de dissídio jurisprudencial, além de violação do artigo 1.015 do Código de Processo Civil.
+Defendem o cabimento do agravo de instrumento contra decisão que indefere efeito suspensivo aos embargos à execução, diante de uma interpretação extensiva do preceito legal.
+O recurso foi admitido na origem, nos termos de decisão de fls. 85-88, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Anoto que a Segunda Seção consolidou seu entendimento no julgamento do Recurso Especial n.1.696.396/MT, sob o rito dos repetitivos, do qual foi Relatora a Ministra NANCY ANDRIGHI. Firmou-se, a orientação de que "O rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação".
+No caso dos autos, aCorte local reconheceu o cabimento de agravo de instrumento para a presente hipótese, no entanto, concluiu que não estão configurados os requisitos para a atribuição de efeito suspensivo aos embargos à execução, conforme se extrai dos seguintes excertos (fl. 43, e-STJ):
+No caso dos autos a parte recorre da decisão que indeferiu o pedido de efeito suspensivo aos embargos à execução.
+No entanto, além da ausência de garantia suficiente e idônea, não há comprovação de que o prosseguimento da execução enseje situação particular que evidencie a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.
+Assim, por qualquer aspecto que se analise, a decisão recorrida deve ser mantida, a qual restou assim fundamentada:
+(..)
+Com efeito, a interposição de embargos à execução, em regra, não suspende a execução. A concessão do efeito suspensivo aos embargos tem por pressuposto o requerimento pelo embargante, a demonstração dos requisitos à concessão da tutela provisória e a segurança do juízo por meio de penhora, de depósito ou de caução suficientes, nos termos do art. 919, §1º do CPC/15.
+Circunstância dos autos em que não se justifica a concessão do efeito suspensivo, pois ausente os seus requisitos.
+Anoto que a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo fático dos autos, procedimento que, em sede de especial, encontra óbice no enunciado n. 7 da Súmula do STJ. Nesse sentido, confira-se:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ART. 739-A, § 1º, DO CPC. VERIFICAÇÃO DA PRESENÇA DOS REQUISITOS AUTORIZADORES DA SUSPENSÃO. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Consoante prevê o art. 739-A, § 1º, do Código de Processo Civil, o magistrado poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo.
+2. É vedado, em sede de recurso especial, o exame da presença dos pressupostos para a atribuição de efeito suspensivo aos embargos à execução previstos no art. 739-A, § 1º, do Código de Processo Civil, porquanto tal providência demandaria a incursão nos elementos fático-probatórios dos autos, atraindo a incidência da súmula nº 7 do STJ, cuja aplicação obsta, igualmente, o conhecimento do apelo extremo fundamentado na alínea "c" do permissivo constitucional.
+3. Nos termos dos arts. 541, parágrafo único, do CPC e 255, § 2º, do RISTJ, para a correta demonstração da divergência jurisprudencial, deve haver o cotejo analítico, expondo-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, a fim de demonstrar a perfeita similitude fática entre o acórdão impugnado e os paradigmas colacionados o que, no caso, não restou evidenciado.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.236.545/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 18.10.2010)
+Outrossim, o fundamento manejado no acórdão recorrido de que os recorrentes não demonstraram o preenchimento dos requisitos para a atribuição de efeito suspensivo aos embargos à execução, não foi impugnado satisfatoriamente no recurso especial.
+Desse modo, inafastáveis as disposições dos enunciados n. 283 e 284 do STF.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
