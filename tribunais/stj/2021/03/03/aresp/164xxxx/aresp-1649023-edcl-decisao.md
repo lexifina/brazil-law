@@ -1,0 +1,28 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos declaratórios opostos por DANIEL BAHIANO PEDRAL SAMPAIO contra decisão monocrática de minha lavra assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CITAÇÃO. PARTE QUE COMPARECE ESPONTANEAMENTE AOS AUTOS, APRESENTANDO DEFESA À PRETENSÃO DO AUTOR. HIPÓTESE EM QUE A CITAÇÃO TORNA-SE PRESCINDÍVEL, AINDA QUE O ADVOGADO NÃO TENHA PODERES PARA RECEBÊ-LA, TENDO EM VISTA QUE A APRESENTAÇÃO DE DEFESA EXTERNA QUE A PARTE POSSUI PLENA CIÊNCIA DA DEMANDA. PRECEDENTES.
+AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões deste recurso, o embargante afirma que haveria omissão quanto às Súmulas 284/STF e 7/STJ. Sustenta que o "reexame do conjunto fático probatório e do instrumento de procuração, julgado como AUSENTE de poderes para receber citação, encontra o óbice insuperável da SUMULA 07 STJ". Sustenta ainda que houve "flagrante cerceamento de defesa por infração ao devido processo(art. 5º, caput, LIV e LV CF), o que alijou a segurança jurídica e fez vicejar um autêntico "pomar"de frutos da árvore venenosa, inclusive a preclusão configurada por superação do prazo legal de 30 (trinta) dias do CPC/73 para recolher custas processuais (demorou em carga 36 dias), isso mesmo DEPOIS de intimada UNICRED para suprir a ausência na exordial". Destaca que o acolhimento da tese recursal implicaria no "cabal afastamento de conteúdo da norma de regência (arts.214/215 CPC/73 e art. 239 e 242 NCPC) resulta indireta declaração de inconstitucionalidade, o que vedado para órgão fracionário, nos termos da Súmula Vinculante 10 STF (art. 97 c/c art. 103-A CF)".
+É o relatório.
+Passo a decidir.
+Os embargos de declaração devem ser rejeitados.
+Trata-se de recurso de fundamentação vinculada, destinando-se unicamente a "esclarecer obscuridade ou eliminar contradição"; "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento"; ou "corrigir erro material", conforme dispõe o artigo 1.022 do Código de Processo Civil.
+Trata-se, assim, de recurso destinado a sanar eventuais falhas na estrutura argumentativa da decisão, na concatenação das ideias apresentadas, ou omissões quanto ao substrato fático ou jurídico relevantes ao julgamento do feito.
+Não é o que se observa na espécie, em que os pontos indicados em nada alterariam o quanto decidido.
+Inicialmente, cumpre enfatizar que a pretensão da embargada não encontra óbice na Súmula 7/STJ.
+Aplica-se este enunciado aos casos em que a análise da pretensão recursal demande o revolvimento do quadro fático-probatório dos autos. Destarte, a fundamentação recursal deve adotar como premissa as conclusões a que o Tribunal de origem tenha chegado com a análise das provas e fatos constantes nos autos para que o recurso possa ser conhecido.
+Ao partir de conclusão diversa da esposada pelo Tribunal de origem para fundamentar a alegação de violação à legislação federal ou de dissídio jurisprudencial, para que se possa verificá-las, o recorrente torna imprescindível o reexame da matéria fática para que se possa averiguar a veracidade da premissa, atribuindo a este Tribunal papel que não lhe cabe.
+Não é o que se observa na espécie, em que o substrato fático considerado pode ser observado no próprio acórdão recorrido. Destaque-se que a apreciação da tese recursal prescinde do "reexame do conjunto fático probatório e do instrumento de procuração", sendo irrelevante ao caso se o patrono do embargante detinha ou não poderes para ser citado.
+Como consignado na decisão embargada, a despeito de restar consolidado no âmbito deste Tribunal Superior o entendimento de que o protocolo de petição por advogado destituído de poderes para receber citação não pode ser equiparado ao comparecimento espontâneo da parte, não tornando prescindível a sua citação, também resta consolidado o entendimento de que caso a parte apresente defesa à pretensão, seja por meio de exceção de pré-executividade, seja por meio de embargos à execução, externando que possui ciência do processo, ainda que o advogado não possua tais poderes, se deverá considerar que houve o comparecimento espontâneo.
+Em outras palavras, o entendimento deste Tribunal é no sentido de que a prática de atos capazes de evidenciar que a parte tenha plena ciência do caso, como a apresentação de defesa, ainda que por advogado sem poderes para ser citado, torna desnecessária a citação da parte, tendo em vista que já esgotada a sua finalidade com a apresentação da defesa.
+Se no próprio acórdão é possível verificar que fora apresentada defesa pelo embargante, não há que se falar em revolvimento do acervo fático-probatório dos autos, tratando-se de claro caso de revaloração do substrato fático considerado pelo Tribunal de origem, o que não encontra óbice na Súmula 7/STJ.
+Quanto à Súmula 284/STF, sequer é possível compreender qual seria a sua pertinência ao caso.
+No que tange à alegação de que teria havido "indireta declaração de inconstitucionalidade", o que seria "vedado para órgão fracionário, nos termos da Súmula Vinculante 10 STF", há de se observar que a discussão reside na interpretação dos dispositivos legais indicados, em nenhum momento se tendo afastado a sua aplicação.
+Ademais, há de se ponderar que a decisão embargada está fundamentada em precedente da Corte Especial deste Tribunal Superior, tornando inócuo o argumento apresentado.
+Nestes termos, não há que se falar em omissão, pois as questões indicadas em nada alteram o quanto decidido.
+Ante o exposto, rejeito os embargos declaratórios.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NÃO CONFIGURAÇÃO. QUESTÕES QUE NÃO SE MOSTRAM APTAS A ALTERAR O QUANTO DECIDIDO.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
