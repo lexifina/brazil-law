@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por DALVA & DITO RESTAURAMENTE LTDA. e MILAD ALEXANDRE MACK ATALA, contra a negativa de seguimento a recurso especial ajuizado em face de acórdão assim ementado:
+Compra e venda de mercadoria importada. Cozinha industrial.Entrega estimada para 90 dias após o pagamento do sinal.Mercadoria que chegara ao país dentro do prazo assinado, porém, nãoentregue em razãodas obras que se realizavam no restaurante adquirente. Vendedora que se utilizou de expediente do entreposto aduaneiro. Obras finalizadas em agosto de 2008. Equipamento retido pela Receita Federal, liberado apenas apósa impetração de Mandado de Segurança, açãoesta distribuídano mês de outubro daquele ano. Culpa de ambas as partes. Parcial procedência das açõesindenizatóriasmovimentadas por ambas. Devoluçãodo valor despendido pela importadora com a manutenção da mercadoria no Porto, devendo esta restituir ao restaurante a quantia que este quitara com o parte do preço contratado. Valores que admitem compensação. Recurso da em presa Next Challenge parcialmente provido. Negado o apelo de Dalva & Dito Restaurante e Malid Alexandre Mack Atala.
+A parte agravante sustenta que o acórdão estadual é omisso, e que decaiu de parte mínima do pedido, sendo de rigor determinar que a parte ex adversasuporte integralmente os ônus sucumbenciais.
+Quanto à alegada violação aosarts. 165, 458 e 535 do Código de Processo Civil de 1973, sem razão os recorrentes, haja vista que enfrentadas fundamentadamentetodas as questões levantadas pela parte, porém em sentido contrário ao pretendido, o que afasta a invocada declaração de nulidade.
+Relativamente ao grau de sucumbência, nos termos da jurisprudência desta Corte, a verificação da sucumbência recíproca ou em parte mínima estabelecida pelo Tribunal de origem, envolve o reexame do contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula n. 7 do STJ. Confira-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS. MULTA ESTABELECIDA EM CONTRATO PARA O CASO DE PROPOSITURA DE AÇÃO JUDICIAL. SÚMULAS n. 5 E 7/STJ. LEGALIDADE DA RESTRIÇÃO AO DIREITO DE AÇÃO. TESE NÃO DEBATIDA PELA ÚLTIMA INSTÂNCIA ESTADUAL. SÚMULAS N. 282 E 356/STF. GRAU DE SUCUMBÊNCIA. REVISÃO OBSTADA PELA SÚMULA N. 7/STJ. PRECEDENTES.
+1. A conclusão do acórdão estadual acerca da incidência da multa
+contratual decorreu da análise do instrumento contratual. Súmulas n.
+5 e 7/STJ.
+2. A tese relativa à legalidade da cláusula contratual que prevê restrição ao direito de ação não foi debatida pela última instância estadual, não havendo, por isso, que se falar em causa decidida, conforme exigido pelo art. 105, III, da Constituição Federal. Súmulas n. 282 e 356/STF.
+3. A sucumbência recíproca ou em parte mínima, estabelecida pelo Tribunal de origem, envolve contexto fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ. Precedentes.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 371.701/MG, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 16/03/2016)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
