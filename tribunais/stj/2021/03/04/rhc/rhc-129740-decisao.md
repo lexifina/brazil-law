@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por BRUNO RAFAEL RODRIGUES MOREIRAcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, no julgamento do HC n. 2028050-07.2020.8.26.0000.
+Extrai-se dos autos que orecorrentefoi preso em flagrante em 4/2/2020 como incursonoart. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal (roubo majorado). Referida custódia foi convertida em preventiva (fls. 13/16).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, nos termos do acórdão que restou assim ementado:
+"Habeas Corpus. Roubo. Revogação da prisão preventiva. Paciente preso em flagrante. Decisão Fundamentada. Presentes os requisitos previstos no artigo 312 do Código de Processo Penal. Gravidade do crime praticado. O delito possui pena máxima em abstrato elevada, circunstância a fundamentar a garantia da ordem pública. Ordem denegada"(fl. 41).
+No presente recurso, sustentaa inexistência dos requisitos necessários à manutenção da custódia, de maneira que não estaria suficientemente fundamentada nos termos do art. 312 do CPP.
+Ressalta as condições pessoais favoráveis e a suficiência das medidas cautelares menos gravosas.
+Alega ser aplicável à hipótese a Recomendação n. 62/2020 do CNJ, argumentando o alto risco de contágio do vírus COVID-19 dentro dos presídios.
+Pretende, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante a substituição por medidas cautelares diversas,com expedição de alvará de soltura.
+A liminar foi indeferida (fl. 75), as informações foram prestadas (fls. 78/93) e oMinistério Público se manifestou pelo desprovimento do recurso (fls. 96/100).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Inicialmente,no tocante à aplicação da Recomendação n. 62/2020 do CNJ, não foiobjeto de análise pelo Tribunal de origem, o que obsta o exame por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância.
+Nesse sentido, éoseguinteprecedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL.SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. QUANTIDADE DE DROGA APREENDIDA. REITERAÇÃO DELITIVA. PLEITO DE SUBSTITUIÇÃO POR PRISÃO DOMICILIAR EM RAZÃO DA PANDEMIA DO NOVO CORONAVÍRUS. REVOLVIMENTO FÁTICO. ALEGAÇÃO DE EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, para a garanti a da ordem pública, seja pela quantidade do entorpecente apreendido - setecentos quilos de maconha - a indicar um maior desvalor da conduta perpetrada, seja em razão de o paciente ostentar registros criminais diversos, o que revela a probabilidade de repetição de condutas tidas por delituosas, em virtude do fundado receio de reiteração delitiva. Precedentes.
+III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese.
+Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+IV - In casu, o agravante não é idoso, tem 28 anos de idade, e tampouco alegou possuir qualquer comorbidade preexistente, não integrando o grupo de risco para a mencionada doença. Ademais, o eg.Tribunal a quo consignou que não há nos autos comprovação de que o paciente integre grupo de risco, ou que esteja com a saúde fragilizada, tampouco de que o presídio no qual está recolhido não tenha condições de lhe prestar assistência médica adequada.Precedentes.
+V - A alegação de excesso de prazo para a formação da culpa sequer foi analisada pelo o eg. Tribunal a quo, nos autos do HC n.1.0000.20.056052-2/000, objeto da presente impetração, de maneira que sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.Precedentes.
+VI - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC 608.687/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/12/2020, DJe 16/12/2020).
+Por outro lado,quanto aos motivos para a manutenção da prisão preventiva, em consulta à página eletrônica do Tribunal de origem,embora constatada a superveniência de sentença condenatória,através da ciência pelo Ministério Público em 8/1/2021,não foi publicado o inteiro teor do julgado.
+É cediço que esta Quinta Turma firmou posicionamento no sentido de que a manutenção da custódia cautelar por ocasião de sentença superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo. Nesse sentido: RHC 53.194/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016.
+O entendimento revela-se substancialmente claro: a superveniência de sentença que mantém a prisão cautelar constitui título novo, que substitui - e supera - o decreto prisional impugnado mediante habeas corpus, exceto se o Magistrado sentenciante não adota fundamentos novos e diversos daqueles apresentados por ocasião da decretação da segregação preventiva.
+In casu, a manutenção da custódia cautelar afigura-se verossímil, pois não há notícias da expedição de alvará de soltura.
+Entretanto, não há como aferir se a segregação antecipada foi mantida sem a adoção de novos e diversos fundamentos para a cautela - requisito indispensável ao prosseguimento do recurso que busca revogá-la, diante da notícia da produção de novo título judicial que examinou a necessidade de manutenção da constrição.
+Tratando-se o habeas corpus de rito célere, no qual não se admite a dilação probatória e cuja devida instrução compete ao impetrante, a este incumbiria, diante da superveniência de fato novo, a diligência de acostar aos autos o novo título judicial produzido no feito principal, a fim de demonstrar que o aludido julgado não tem o condão de afastar, no caso concreto, a impugnabilidade da decisão combatida pelo presente reclamo.
+Constatado o silêncio do recorrente, afigura-se forçoso entender pela perda de objeto do presente recurso em habeas corpus, diante da superveniência de novo título.
+Por adotar idêntico raciocínio, faço menção à decisão prolatada nos autos do RHC n. 63.337/MG, Rel. Ministro GURGEL DE FARIA, Quinta Turma, DJe 5.2.2016.
+Ante o exposto, nos termos do art. 34, inciso XVIII, alínea a, do RISTJ, não conheço do recurso ordinário em habeas corpus.
+Publique-se.
+Intimações necessárias.
