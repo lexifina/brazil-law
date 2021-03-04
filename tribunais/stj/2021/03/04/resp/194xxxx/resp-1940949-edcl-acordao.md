@@ -1,0 +1,104 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu do agravo interno.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Da leitura da minuta de agravo de instrumento, extrai-se que ILSE LUDOVICA DA SILVA TREVISAN (ILSE) propôs execução contra a OI S.A. - EMRECUPERAÇÃO JUDICIAL (OI).
+Em fase de cumprimento de sentença proposto por ILSE, o d. Juízo de primeira instância julgou a impugnação improcedente (e-STJ, fls. 76/79).
+O Tribunal de Justiça do Rio Grande do Sul deu parcial provimento ao apelo da OI em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. TELEFONIA. SUBSCRIÇÃO DE AÇÕES. IMPUGNAÇÃO À FASE DE CUMPRIMENTO DE SENTENÇA. CONVERSÃO DAS AÇÕES DE TELEFONIA MÓVEL EM PECÚNIA. RENDIMENTOS. TERMO FINAL.
+Preliminar Contrarrecursal.
+Artigo 1.018, § 2º do Código de Processo Civil.
+Indicada expressamente a juntada de cópia integral dos autos originários para a formação do instrumento, resta suprida a diligência prevista pelo artigo 1.018 do Código de Processo Civil.
+Mérito.
+1Conversão das ações em pecúnia. Telefonia Móvel.
+O título executivo judicial determinou a aplicação do valor patrimonial vigente na Assembleia Geral anterior à cisão, como critério de cálculo para a conversão das ações de telefonia móvel em pecúnia.
+Considerando que as ações de telefonia móvel passaram a existir justamente em razão da cisão da companhia telefônica havida em 29 de janeiro de 1999, em momento anterior ao referido marco inexistia valor patrimonial das ações da Celular CRT.
+Por se tratar de critério de conversão que mais se assemelha ao fixado pelo título executivo judicial, a dobra acionária deferida nos autos deverá ser apurada com base no valor patrimonial vigente na data da cisão, ocorrida em 29 de janeiro de 1999 (R$ 0,1076643).
+Termo Final. Dividendos.
+Conforme entendimento deste colegiado, e em consonância com o julgamento do Recurso Especial nº 1.301.989-RS, afetado à sistemática dos recursos repetitivos, os rendimentos deverão ser computados até a data do trânsito em julgado da decisão proferida na fase de conhecimento, que reconheceu o direito ao diferencial acionário. Cálculo que deverá ser mantido, no ponto.
+RECURSO PROVIDO EM PARTE (e-STJ, fl. 1.153)
+Os declaratórios opostos pela OI foram rejeitados (e-STJ, fls. 1.234/1.242).
+Os embargos de declaração opostos por ILSE foram rejeitados (e-STJ, fls. 1.260/1.270 e 1.291/1.301).
+Inconformada, ILSE manejou recurso especial com fundamento no art. 105, III, a e c, da CF, alegando, além de dissídio jurisprudencial, a violação dos arts. 371, 373 e 1.022 do NCPC, sob os argumentos de (1) negativa de prestação jurisdicional; (2) equivocada a alteração do valor patrimonial da ação; (3) inexistência de prova de que o valor patrimonial da ação seria diferente do que foi indicado e considerado correto pelo julgador singular; (4) violado o princípio da congruência; e (5) o julgamento foi extra petita, pois não foi buscada a alteração do valor patrimonial da ação, mas quefosse aplicado o valor nominal da ação da Celular CRT (e-STJ, fls. 1.323/1.336).
+Contrarrazões ao recurso especial apresentadas (e-STJ, fls. 1.354/1.363).
+Em juízo de admissibilidade, o TJRS negou seguimento ao recurso especial sob os fundamentos de (a) ausência de ofensa ao art. 1.022 do NCPC; (b) incidência da Súmula nº 7 do STJ; (c) consonância do acórdão recorrido com jurisprudência do STJ (Súmula nº 568 do STJ); e (d) deficiência de cotejo analítico (e-STJ, fls. 1.383/1.400).
+Sobreveio agravo, no qual ILSE alegou o preenchimento dos requisitos de admissibilidade recursal, bem como repisou os fundamentos do apelo nobre (e-STJ, fls. 1.452/1.468).
+Em decisão da lavra do Ministro Presidente desta Corte, foi negado conhecimento ao agravo em recurso especial, por ausência de impugnação específica dos fundamentos da decisão impugnada, em especial o da consonância do acórdão recorrido com a jurisprudência do STJ, nos termos da Súmula nº 568 do STJ (e-STJ, fls. 1.494/1.495). sustenta que impugnou todos os fundamentos da decisão agravada e pede o provimento do recurso (e-STJ, fls. 1.497/1.501).
+A impugnação foi apresentada (e-STJ, fls. 1.505/1.513)
+Contra essa decisão, ILSE manejou agravo interno, que não foi conhecido pela Terceira Turma desta Corte, em acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade(incidência da Súmula nº 568 do STJ).
+3. Agravo interno não provido(e-STJ, fl. 1.521).
+Nas razões dos presentes embargos de declaração, ILSE alegou que o julgado foi omisso, porque (1)rebatera especificamentetodos os fundamentos de inadmissão de seu recurso especial; e que (2)o TJRS não negara seguimento sob o fundamento de consonância do acórdão recorrido com jurisprudência do STJ (Súmula nº 568 do STJ)(e-STJ, fls. 1.530/1.536).
+Houve impugnação ao recurso (e-STJ, fls. 1.540/1.541).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu do agravo interno.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+A propósito, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+O acórdão recorrido não foi obscuro, omisso ou contraditório, tampouco apresentou erro material, tendo concluído que, no caso, incide a Súmula nº 182 do STJ, porque não foi refutada, de forma arrazoada, a aplicação daSúmulanº568do STJ que diz respeito à alegada errônea valoração da prova, pois o TJRS inadmitiu o apelo nobre sob o fundamento também de que:
+Importante registrar que, ao contrário do que argumenta a parte recorrente, não se trata de errônea valoração de prova, mas, em verdade, da intenção recursal de uma nova análise de todo o acervo probatório, o que não se admite em recurso especial, sob pena de instaurar-se um terceiro grau de jurisdição. A valoração de prova pressupõe contrariedade a um princípio ou a uma regra jurídica no campoprobatório, portanto, somente o erro de direito quanto ao valor da prova dá ensejo ao conhecimento do recurso especial sob tal ótica.
+ ..
+Relembre-se a firme orientação do Superior Tribunal de Justiça "Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento, assim como a livre apreciação das provas dasquais é o destinatário"(AgInt no AREsp 1201100/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/05/2018, DJe 22/05/2018)"(e-STJ, fls. 1.397/1.398).
+Ficou explicitado no acórdão recorrido que, na hipótese, ILSE olvidou-se de infirmar os óbices apontados, tendo apenas afirmado que seu recurso preencheu os requisitos de admissibilidade, o que acarreta a aplicação da Súmula nº 182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Ficou registrado que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ficou evidenciado que, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Ademais, ainda foi ressaltado que a Corte Especial, aos 19/9/2018, em acórdão publicado aos 30/11/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, tanto no Código de Processo Civil de 1973 quanto no atual, existem regras que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Dessa maneira, foram citados conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, considerando-se que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Ficou assentado, ao final, que a ausência de impugnação de fundamentos não configura defeito meramente formal, uma vez que, conforme consignado acima, existe a necessidade de que todos os fundamentos sejam infirmados, sob pena de desrespeito ao princípio da dialeticidade e de aplicação da Súmula nº 182 do STJ, pois isso constitui ônus do agravante.
+Por oportuno, transcreve-se o seguinte trecho do voto proferido no julgamento do agravo interno:
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento de que o agravo em recurso especial anteriormente interposto não rebateu a aplicação das Súmulas nºs 284 do STF e 7 do STJ.
+Isso porque, nas razões do presente agravo interno, NELSON limitou-se a alegar que (1) foram preenchidos todos os requisitos formais e materiais necessários ao conhecimento do seu recurso; (2) todas as informações necessárias para o correto processamento da insurgência estão contidas no bojo recursal; (3) o princípio da instrumentalidade das formas merece ser respeitado com a edição do Código de Processo Civil de 2015; e(4) o defeito meramente formal merece ser sanado.
+Na hipótese, NELSON olvidou-se de infirmar os óbices apontados, tendo apenas afirmado que seu recurso preencheu os requisitos de admissibilidade, o que acarreta a aplicação da Súmula nº 182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que,na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor:É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, citou conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator quea ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo(EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaques no original)
+Por derradeiro, cumpre registrar que a ausência de impugnação de fundamentos não configura defeito meramente formal, uma vez que, conforme consignado acima, existe a necessidade de que todos os fundamentos sejam infirmados, sob pena de desrespeito ao princípio da dialeticidade e de aplicação da Súmula nº 182 do STJ, pois isso constitui ônus do agravante.
+Assim, porque os argumentos que NELSON trouxe não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto,NÃO CONHEÇOdo agravo interno (e-STJ, fls. 162/164 - destaques no original).
+Em suma, a pretensão desborda da previsão do art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração.
