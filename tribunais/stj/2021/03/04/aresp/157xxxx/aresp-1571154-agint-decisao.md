@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno de decisão da Presidência desta Corte de não conhecimento do agravo em recurso especial do Sindicato dos Trabalhadores Federais em Saúde, Trabalho e Previdência Social no Estado do Espírito Santo - SINDPREV/ES.
+Tal recurso decorre de ação constitutiva ajuizada pela ora agravada - Construtora e Incorporadora Araguaia Ltda. -, atualmente em fase de cumprimento de sentença.
+Por isso, adespeito da anterior atribuição à minha relatoria de outros recursos dessas partes, relacionados à mesma demanda, é caso de redistribuição dos autos em razão de arelação jurídica travada entre as partes ser de naturezaprivada,nos termos do inciso II do art. 2º do RISTJ ("À Segunda Seção cabeprocessar e julgar os feitos relativos a: (..) II - obrigações em geralde direito privado, mesmo quando o Estado participar do contrato;").
+Para ilustrar, transcrevo trecho do agravo de instrumento de que decorre o presente recurso:
+3 - SÍNTESE DO PROCESSO ORIGINÁRIO
+Naação originaria, a Construtorae Incorporadora Araguaia Ltda, em 31/10/2000, ajuizou em face do SINDPREV/ES a Ação Constitutiva (tombada sob o nº 024.00.016479-8, perante a 7ª Vara Civil de Vitória -ES) pleiteando a anulação da decisão de processo licitatório (Coletade Preços nº 01/99) que considerou vencedora a empresa Construtora Centro Sul Ltda.
+Alegou a referida Construtora, ter sido a vencedora do processo licitatório convocado pelo SINDPREV/ES e, por ter sido preterida, postulou tutela antecipada para que ela pudesse realizar a OBRA (Construção da Área de Lazer do Sindicato) e receber o pagamento dos serviços descritos no referido processo licitatório (fls. 4/5-e).
+Em suma, a contratação de um particular por outro, ainda que por meio de certamelicitatório, evidencia relação jurídica de natureza privada, por isso a Primeira Seção não detém competência para processar e julgar o presente recurso.
+Assim sendo, DECLINO da competência para apreciar e julgar o presenteagravo interno e DETERMINO A REDISTRIBUIÇÃO dos autos a algum dos eminentes paresintegrantes da Segunda Seção deste Tribunal.
