@@ -1,0 +1,43 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Bruno Luiz de Arruda Campos, com amparo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+ADMINISTRATIVO. MILITAR TEMPORÁRIO. LEGALIDADE DA DESINCORPORAÇÃO. LEI 6.880/80. LAUDO PERICIAL. AUSÊNCIA DE INCAPACIDADE. NÃO HÁ IMPEDIMENTO PARA EXERCER ATIVIDADES LABORATIVAS. SEM DIREITO À REFORMA. SENTENÇA MANTIDA.
+1. Cuida-se de decisão proferida na regência do CPC de 1973, sob o qual também foi manifestado o recurso, e conforme o princípio cio isolamento dos atos processuais e o da irretroatividade da lei, as decisões já proferidas não são alcançadas pela lei nova, de sorte que não se lhes aplicam as regras do CPC atual, inclusive as concernentes à fixação dos honorários advocatícios, que se regem pela lei anterior.
+2. Nos termos da Lei nº 6.880/80, a reforma do militar temporário não estável é devida: a) por incapacidade total para qualquer trabalho, ainda que sem nexo causal entre o trabalho e a incapacidade; b) por incapacidade para o serviço militar, se decorrente de uma das situações ou doenças especificadas nos incisos IV e V, respectivamente, do art. 108; ou c) por incapacidade para o serviço militar, se houver nexo causal entre o serviço e a incapacidade.
+3. Na hipótese dos autos, em nenhum momento o autor foi diagnosticado como sendo incapaz definitivamente para o serviço ativo das Forças Armadas, situação imprescindível para a concessão da pretendida reforma, nos termos do art. 106, inciso II, da Lei nº 6.880/80, por isso que não há qualquer irregularidade na sua desincorporação realizada em 24/04/2009.
+4. Apelação do autor desprovida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 173-177).
+O recorrente aponta violação do art. 149 do Decreton. 57.564/1965. Defende a necessidade de tratamento médico, alegando que o aresto impugnado desconsiderou conclusão pericial nesse sentido.
+Alega que, conforme a perícia, " ..  o recorrente está acometido da doença e que apresenta episódio incontroverso, o que foi reconhecido tanto pelo juízo de piso, como também pelo tribunal" (e-STJ, fl. 184).
+Indica violação do art. 1.022, I e II, do CPC/2015 caso se entenda pela ausência de prequestionamento.
+Contrarrazões às e-STJ, fls. 189-196.
+É o relatório.
+A assertiva de violação do art. 1.022 do CPC/2015 é genérica, pois o insurgente não expõe adequadamente as falhas supostamente praticadas pelo colegiado, tampouco demonstra haver apontado o problema no momento oportuno. Desse modo, ficou comprometida a fundamentação do recurso, circunstância que atrai o óbice da Súmula 284/STF.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO SOB A DISCIPLINA DO CPC/73. VIOLAÇÃO AO ART. 535 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PENSÃO POR MORTE. ACÓRDÃO QUE APONTA A AUSÊNCIA DE DEMONSTRAÇÃO DA DEPENDÊNCIA ECONÔMICA DO EX-CÔNJUGE. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 745.172/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 7/4/2016, DJe 13/4/2016.)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ART. 535 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE ESPECIAL NÃO RECONHECIDA. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS SOBRE O QUAL SUPOSTAMENTE RECAI A CONTROVÉRSIA. SÚMULA 284/STF. SUCUMBÊNCIA RECÍPROCA. SÚMULA 7/STJ.
+1. A alegação genérica de violação do art. 535 do CPC, sem explicitar os pontos em que teria sido omisso o acórdão recorrido, atrai a aplicação do disposto na Súmula 284/STF.
+ ..
+Agravo regimental improvido.
+(AgRg no AREsp 824.609/SP, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/2/2016, DJe 17/3/2016.)
+Quanto ao mais, o Tribunala quo, em apelação, confirmou a sentença que julgou improcedente o pedido do autor. Para tanto, fez o seguinte registro (e-STJ, fl. 155):
+O autor foi desincorporado do Exército em abril de 2009, após ter sido considerado Apto para o Serviço do Exército (fl. 18).
+Os documentos e informações constantes dos autos não demonstram, em nenhum momento, estar ele incapaz definitivamente para o serviço do Exército, situação imprescindível para a concessão da pretendida reforma, nos termos do art. 106, inciso II, da Lei nº 6.880/80.
+, De acordo com o laudo pericial juntado aos autos, o autor é portador de síndrome da hiperpressão patelar lateral e desequilíbrio muscular do joelho esquerdo, não sendo lesões visíveis e que não deixam sequelas (f1.59).
+Esclareceu o perito que o autor não está incapacitado para o desempenho de atividade normal da vida diária e da atividade laborai, apenas dificulta atividades que envolvem trabalhos intensos da articulação do joelho.
+Por fim, não há qualquer comprovação nos autos de que o autor tenha sido indevidamente desincorporado do serviço militar, já que a patologia da qual é podador, síndrome da hiperpressão patelar lateral, não guarda qualquer relação de causa e efeito com as atividades por ele exercidas enquanto incorporado ao serviço militar.
+Evidencia-se, pois, da perícia médica realizada e das demais provas constantes dos autos, que o autor não tem direito à pretendida reforma nem sua manutenção nos quadros do Exército na condição de adido, considerando-se que não há incapacidade ou ou fatores que o impeçam de exercer atividades laborativas, e nem mesmo comprovação da necessidade de tratamento médico.
+Conforme o colegiado regional, portanto, inexiste comprovação da necessidade do tratamento médico. A afirmação do contrário, como pretende a parte, dependeria do reexame de fatos e provas, providência incabível nessa sede, nos termos da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MILITAR TEMPORÁRIO. INCAPACIDADE PARCIAL E TEMPORÁRIA. REINTEGRAÇÃO PARA TRATAMENTO MÉDICO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REVISÃO DE MATÉRIA FÁTICA.IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. O Tribunal de origem adotou a seguinte fundamentação: "Determinada a realização de perícia judicial, o expert concluiu, em seu laudo médico, que o autor apresenta ruptura do ligamento cruzado anterior do joelho esquerdo, decorrente de acidente ocorrido quando da prestação do serviço militar. Afirmou que o requerente possui incapacidade total, de grau 0,30, e, se não realizar o tratamento cirúrgico, a incapacidade é permanente para o serviço militar. Não há o que se reparar na sentença recorrida que, diante das provas dos autos, reconheceu que o autor, ora apelado, tem direito a ser reintegrado ao serviço militar para o restabelecimento de sua saúde. (..) No caso em tela, verifica-se que o autor foi incluído, em setembro de 2015, em lista de espera para cirurgia pelo Hospital Militar e, até o momento da prolação da sentença (05/09/2017), o referido ato cirúrgico não tinha sido realizado. Em face da longa espera para obter o restabelecimento de sua plena saúde, o que gera angústia, dores e restrições físicas, ficou comprovada a existência de dano moral passível de reparação, bem como o nexo causal entre o dano ocorrido e o resultado, o que gera o dever de indenizar. (..) Considerando as circunstâncias fáticas do caso, tem-se como razoável o quantum arbitrado na sentença no valor de RS 5.000,00 (cinco mil reais)" (fls. 261-263, e-STJ).
+2. Nesse contexto, observa-se que a desconstituição das premissas lançadas pela instância de origem acerca da incapacidade parcial e temporária do autor, da existência de relação entre a doença suportada pelo demandante e o serviço militar, bem como da respectiva necessidade de sua reintegração na condição de adido para fins de tratamento de saúde, enseja revolvimento do acervo fático, procedimento que, em Recurso Especial, encontra óbice na Súmula 7/STJ.
+3. Agravo conhecido para conhecer parcialmente do Recurso Especial apenas em relação à preliminar de violação do art. 1.022 do CPC/2015 e, nessa parte, não provê-lo.
+(AREsp 1.540.780/PE, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/11/2019, DJe 19/12/2019.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
