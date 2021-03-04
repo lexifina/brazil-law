@@ -1,0 +1,31 @@
+Extradição. Prisão preventiva do Extraditando. Interrogatório. Art. 91 da Lei de Migração. Expedição de carta de ordem para realização do ato.
+    Vistos etc.
+    Trata-se de pedido de extradição formulado pelo Governo do Chile em desfavor do nacional chileno Francisco Javier Zavala Díaz, por meio da Nota Verbal nº 159/2020, nos termos do Acordo de Extradição entre os Estados Partes do Mercosul e a República da Bolívia e a República do Chile (fls. 02-104).
+    Em 03.02.2021, decretei a prisão preventiva do Extraditando, em decisão assim exarada:
+    ‘(...).
+    A documentação encaminhada pela respectiva missão diplomática revela que o Extraditando está sendo processado criminalmente pela prática, em tese, de crimes de roubo perante a justiça chilena, que decretou a prisão do extraditando – (i) ‘ordem de detenção em vigor, despachada em 7 de janeiro de 2020 pelo Primeiro Tribunal de Garantia de Santiago, nos autos RUC 1600965421-K’; (ii) ‘ordem de detenção em vigor, despachada em 12 de novembro pelo Quarto Tribunal de Julgamento Oral no Penal de Santiago nos autos RUC 1601125505-5’; (iii) ‘ordem de detenção em vigor, despachada em 14 de outubro de 2019 pelo Quinto Tribunal de Garantia de Santiago nos autos RUC 1601077203-K’; (iv) ‘ordem de detenção em vigor, despachada em 27 de novembro de 2019 pelo Primeiro Tribunal de Julgamento Oral no Penal de Santiago nios autos RUC 1600865345-7’; e (v) ‘ordem de detenção em vigor, despachada em 24 de outubro de 2019 pelo Quinto Tribunal de garantia de Santiago nos autos RUC 1501128831-3’.
+    Extraio do breve resumo dos fatos:
+    “... No dia 28 de novembro de 2016, aproximadamente às 20h45, na via pública, cruzamento das ruas de San Martin com Companhia de Jesus, na comuna de Santiago, o acusado Francisco Javier Zavala Díaz, se aproximou da vítima Sergio Galaz Martínes e de forma surpreendente e à força introduziu uma das mãos em seu bolso, arrebatando-lhe o celular da marca samsung, que entregou a um terceiro que fugiu com a espécie.
+    ... No dia 11 de fevereiro de 2017, aproximadamente às 19h00, no cruzamento das ruas Nataniel Cox com Franklin, na comuna de Santiago, os acusados Hernán Gajardo Gajardo e Francisco Javier Zavala Díaz se aproximaram da vítima, Denis Maccet, para proceder o acusado Gajardo Gajardo a intimidar a vítima com um canivete, subtraindo sua carteira, na qual guardava $140.000 – em dinheiro, tudo enquanto o acusado Zavala Días ameaçava e intimidava também a vítima com o gargalo de uma garrafa, fugindo os acusados com as espécies em seu poder.” (fl. 11)
+    O Ministério Público Federal, em parecer da lavra do Vice-Procurador-Geral da República, Humberto Jacques de Medeiros, opina pela decretação da prisão preventiva para fins de extradição (fls. 110-3).
+    É o relatório.
+    Decido.
+    Na hipótese, o pedido de prisão formulado pelo Governo do Chile está instruído com a informação do mandado de prisão expedido por autoridade judicial estrangeira, bem como as indicações sobre local, data, natureza, circunstâncias do fato criminoso, identidade e paradeiro do Extraditando, em observância ao Acordo de Extradição (art. 29) e à Lei de Migração (art. 84, § 1º).
+    O presente feito colima submeter posteriormente o Extraditando à justiça chilena pela suposta prática de crimes de roubo – arts. 432 e 436 do Código Penal chileno - com pena máxima prevista de 20 (vinte) anos.
+    Em análise sumária do caso, observo que os fatos configurariam no Brasil, em tese, o crime de roubo (arts. 157 do CP). Além disso, o crime não estaria prescrito pelas leis espanhola e brasileira.
+    O crime encontra-se abrangido pelo Tratado de Extradição pertinente (Decreto nº 5.867/2006) e não se detectam óbices à prisão preventiva para a extradição no referido diploma ou ainda na Lei de Migração.
+    Por outro lado, a prisão, em processos de extradição, é necessária para “assegurar a executoriedade da medida de extradição” (art. 84, caput, da Lei 13.445/2017) e prevenir a fuga, máxime no caso de acusado foragido no país de origem.
+    Preenchidos os requisitos do art. 84 da Lei 13.445/2017 e do art. 29 do Acordo de Extradição, defiro o pedido e decreto a prisão preventiva para fins de extradição do nacional chileno Francisco Javier Zavala Díaz, nascido em 29.6.1998, portador da cédula nacional de identidade 0019904784-1.
+    Encaminhe-se, com urgência, o mandado à Polícia Federal, com cópia desta decisão para cumprimento.
+    Se efetivado o mandado prisional, deve esta Egrégia Corte ser comunicada imediatamente.
+    Vindo a notícia da efetivação da prisão para fins de extradição, comunique-se ao Ministério da Justiça, a quem caberá informar, via diplomática, o Governo do Chile, que terá que formalizar o pedido de extradição, nos termos do art. 84, § 4º, da Lei 13.445/2017.
+    Determino à autoridade policial que proceda, após o cumprimento do mandado prisional, a comunicação formal da prisão ao Consulado do Chile com jurisdição sobre o distrito consular em que custodiado o Extraditando, para o fim de assegurar a respectiva assistência, nos termos do art. 36 da Convenção de Viena sobre Relações Consulares.
+    Esta decisão somente deverá ser publicada após a efetivação da prisão cautelar do estrangeiro em questão.” (fl. 114-6)
+    Em 10.2.2021, a autoridade policial informou o cumprimento do mandado de prisão, estando recolhido o Extraditando no Centro de Detenção Provisória (CDP) ASP William Nogueira Benjamin – Pinheiros/SP (fls. 126-7).
+    Ao exame da documentação apresentada pelo Estado Requerente, observo, em juízo de delibação, que se encontra aparentemente regular o pedido extradicional, atendendo às exigências do art. 88, § 3º, da Lei 13.445/2017 (Lei de Migração).
+    Expeça-se carta de ordem à Justiça Federal de São Paulo/SP, com cópia desta Ext 1.652, para a realização do interrogatório do Extraditando, acompanhado de defensor, com nomeação de intérprete se necessário, na forma do art. 91 da Lei 13.445/2017. Não tendo defensor constituído, deverá ser provocada a Defensoria Pública da União. Na oportunidade, deverá ser intimado para apresentar defesa escrita por advogado no prazo de 10 dias (art. 91, § 1º, da Lei 13.445/2017).
+    Fixo o prazo de 30 dias para o cumprimento da carta.
+    Publique-se.
+    Brasília, 04 de março de 2021.
+Ministra Rosa Weber
+Relatora
