@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por Salvador Raimundo Fernandes, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 307):
+AGRAVO INTERNO INDEFERIMENTO DE JUSTIÇA GRATUITA EM 2º GRAU  AUSÊNCIA DE ATAQUE AOS FUNDAMENTOS DA DECISÃO PRETENSA TRAMITAÇÃO  IMPOSSIBILIDADE. Se o recurso aviado contra a decisão do Relator que determinou o pagamento do preparo nesta instância, sob pena de deserção, não encontra atacado nos fundamentos do agravo interno, que busca as condições recursais que levariam ao deferimento da assistência judiciária gratuita em 1º Grau, o caso será de seu não conhecimento, mormente quando nem mesmo quando esteja o agravante acobertado pelo beneficio se afastariam as condições declinadas na decisão que fundamentou a determinação no art. 13 da Lei Federal 1.060/50. Não conhecido.
+Opostos embargos de declaração, foram eles rejeitados (acórdão às fls. 342/347).
+O recorrente aponta violação aos arts. 98 e 99 do CPC/15. Sustenta, em síntese, que o Tribunal de origem, nada obstante a pretensa comprovação da impossibilidade de arcar com as custas processuais, indeferiu o pedido de concessão da gratuidade de justiça. Aduz que "a perpetuação das omissões e contradições desta C. Câmara Cível quanto às circunstâncias acima demonstradas, acabaram por violar disposições legais e constitucionais atinentes à matéria posta em debate" (quais sejam, os arts. 11, 489 e 1.022 do CPC/15, bem como 93, IX, da Constituição Federal).
+Recebidos os autos nesta Corte, o Ministério Público Federal, em parecer de lavra da Subprocuradora-Geral da República Maria Caetana Cintra Santos, opinou pelo desprovimento do recurso especial (fls. 382/09/386 ).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, anotoque édeficiente a fundamentação do recurso especial no que respeitaaos arts. 11, 489 e 1.022 do CPC/15, porquanto asalegações pertinentes são genéricas, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório,obscuro ou carente de fundamentação, circunstância que atrai a incidência do anteparo sumular 284/STF.
+Por outro lado, relembro que, em recurso especial, não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido quanto à apontada ofensa aoart. 93 da Constituição Federal.
+Quanto ao mais, o Tribunal de origem, ao indeferir o pedido de concessão de justiça gratuita, assentou o seguinte (fl. 315):
+ ..
+No caso dos autos, muito embora faça o apelante juntar aos autos cópia de seu demonstrativo de pagamento relativo ao mês de abril de 2019 (fls. 224), este demonstra possuir e/e rendimentos líquidos mensais de aproximadamente R$3.064,00 (três mil e sessenta e quatro reais), considerados apenas os descontos legais (INSS e Imposto de Renda), gerando presunção exatamente contrária à alegada hipossuficiência.
+Ademais, no caso dos autos, conforme se vê do citado demonstrativo de pagamento, tem o recorrente imposto de renda retido na fonte, mas não juntou aos autos a última declaração de imposto de renda, impossibilitando a avaliação dos rendimentos em face das despesas mensais, de modo que não se dispôs a atender na íntegra o despacho anterior.
+Cumpre ressaltar que o despacho foi claro em determinar a juntada da última declaração entregue ao imposto de renda ou, na sua falta, cópia dos recibos de pagamento de salários dos últimos quatro meses.
+ ..
+Nesse contexto, como bem pontuou o parecer ministerial público, para se dissentir das premissas adotadas pela Corte de origem, imprescindível seria o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula 7/STJ.
+ANTE O EXPOSTO, não conheço do recurso.
+Publique-se.
