@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de William Diego Ferreira Egri - cumprindo pena privativa de liberdade e beneficiado com a remição pelo estudo -, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que deu provimento ao agravo de execução penal ali interposto pelo Ministério Público estadual (Agravo em Execução n. 0010869-46.2020.8.26.0996) para cassar a remição concedida pelo Juízo de Direito da Vara de Execuções Criminais da comarca de Presidente Prudente/SP (PEC n. 0002394-76.2018.8.26.0154).
+Alega a impetrante, em síntese, constrangimento ilegal na cassação da remição pelo estudo deferida pelo Juízo de primeiro grau, ao argumento de que o art. 126 daLEP é límpido e cristalino em sua dicção, autorizando a remição por leitura, orientação esta de conhecimento da comunidade jurídica em geral, prestando-se a atividade ao abatimento da pena (fl. 4).
+Postula, então, a concessão liminar da ordem para que seja restabelecida a remição deferida pelo Juízo de primeiro grau.
+É o relatório.
+A presente ordem merece concessão, inclusive liminarmente.
+O direito à remição de parte do tempo de execução da pena pelo estudo está previsto no art. 126, § 1º, da Lei n. 7.210/1984, na contagem de 1 dia de pena a cada 12 horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 dias, dispondo, ainda, a necessidade de certificação pelas autoridades educacionais competentes dos cursos frequentados, o que não se verifica no presente caso.
+Nesse contexto, o Superior Tribunal de Justiça passou a admitir a prática da leitura, devidamente comprovada nos termos da Portaria Conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, bem como da Recomendação n. 44/2013 do Conselho Nacional de Justiça, como hipótese de concessão do benefício, considerando tratar-se de perfeita analogia in bonam partem da remição por estudo, expressamente prevista no art. 126 da Lei de Execuções Penais (HC n. 349.239/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/10/2016).
+No mesmo sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO A QUE SE NEGOU SEGUIMENTO. EVIDENCIADO CONSTRANGIMENTO ILEGAL. ORDEM EXPEDIDA DE OFÍCIO. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELA LEITURA. POSSIBILIDADE.
+1. Apesar de se ter solidificado o entendimento da impossibilidade de utilização do habeas corpus como substitutivo do meio cabível, o Superior Tribunal de Justiça analisa, com a devida atenção e caso a caso, a existência de manifesta coação à liberdade de locomoção.
+2. A jurisprudência da Sexta Turma é firme quanto a admitir a remição da pena pela leitura nos termos da Portaria conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, bem como da Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+3. A norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento, em razão de atividades que não estejam expressas no texto legal (REsp n. 744.032/SP, Ministro Felix Fischer, Quinta Turma, DJe 5/6/2006).
+4. Sendo um dos objetivos da Lei de Execução Penal, ao instituir a remição, incentivar o bom comportamento do sentenciado e sua readaptação ao convívio social, a interpretação extensiva do mencionado dispositivo impõe-se nessas circunstâncias, o que revela, inclusive, a crença do Poder Judiciário na leitura como método factível para o alcance da harmônica reintegração à vida em sociedade.
+5. Na espécie, embora não fosse cabível o habeas corpus no lugar do recurso especial, diante dos precedentes a respeito do tema, ficou caracterizada a existência de manifesto constrangimento ilegal a ser reparado, justificando-se, assim, a concessão, de ofício, da ordem para restabelecer o decisum do Juízo da execução que declarou remidos 8 dias da pena do paciente.
+6. Agravo regimental improvido.
+(AgRg no HC n. 323.766/SP, de minha relatoria, Sexta Turma, DJe 9/10/2015 - grifo nosso)
+Ante o exposto, concedo liminarmente a ordem para restabelecer a decisão do Juízo da execução (fls. 41/42), que deferiu o pedido de remição de penas pela leitura, nos autos do PEC n. 0002394-76.2018.8.26.0154.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. REMIÇÃO PELA LEITURA DEFERIDA PELO JUÍZO DA EXECUÇÃO. CASSAÇÃO PELO TRIBUNAL DE JUSTIÇA POR FALTA DE PREVISÃO LEGAL. FLAGRANTE ILEGALIDADE. INTERPRETAÇÃO EXTENSIVA IN BONAM PARTEM DO ART. 126 DA LEP. PRECEDENTES.
+Ordem concedida liminarmente nos termos do dispositivo.
