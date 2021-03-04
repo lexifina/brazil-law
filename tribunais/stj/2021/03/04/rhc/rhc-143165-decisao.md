@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por ANTÔNIO EUDACY DIAS DE SOUSA, preso cautelarmente e denunciado pela suposta prática de crime tipificado no art. 121,§2º, II, do Código penal,contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios (HC n. 0702577-06.2021.8.07.0000), assim ementado (e-STJ, fl. 174):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO POR MOTIVO FÚTIL. DECRETAÇÃO DA PRISÃO PREVENTIVA. MANUTENÇÃO DA CUSTÓDIA CAUTELAR. ORDEM PÚBLICA, CONVENIÊNCIA DA INSTRUÇÃO PROCESSUAL E GARANTIA DA APLICAÇÃO DA LEI PENAL. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PANDEMIA COVID-19. ORDEM DENEGADA.
+1. A prisão preventiva do paciente, acusado da prática do crime de homicídio qualificado pelo motivo fútil, consistente na conduta de assediar a filha da vítima de 11 (onze) anos de idade, e depois esfaqueá-la até a morte, é situação que causa descontrole social, tanto que o acusado nem ao menos se apresentou às autoridades policiais para ser qualificado, e interrogado querendo, diante da intensidade das condutas e das circunstâncias de tanta censura que o delito apontado ao paciente causou.
+2. Não obstante a preocupação acerca do contágio pelo novo coronavírus (Covid-19), as autoridades penitenciárias do Distrito Federal estão cientes da gravidade da situação e estão, além dos seus deveres de ofício, estão no empenho de adotar medidas de prevenção, nos moldes da Portaria Interministerial nº 07/2020 - Ministério da Justiça e Ministério da Saúde.
+3. Ordem denegada.
+Em suas razões(e-STJ, fls. 184/213), o recorrente nega peremptoriamente a autoria dos fatos ediz não estar foragido, pois nunca foi intimado (seu endereço constante nos autos está incompleto).Afirma, ainda, que foi a vítima quem agrediu o paciente.
+Sustenta haver constrangimento ilegal porque o decreto prisional não possui fundamentação idônea, uma vez que estão ausentes da espécie os requisitos legais autorizadores da prisão cautelar,bem como diante das condições pessoais favoráveis do paciente, que é primário, possui residência fixa e trabalho lícito (pedreiro).
+Pugna, liminarmente e no mérito, pela concessão de liberdade provisória ou, subsidiariamente, pela imposição de medidas cautelares.
+É o relatório. Decido.
+De plano, verifico que nesta Corte também foi impetrado o HC n. 645.815/DF, igualmente em favor do ora recorrente e em face do mesmo ato aqui impugnado, apontando-se, ainda, as mesmas ilegalidades quanto à manutenção da custódia cautelar.
+Em decisão proferida aos 22/2/2021, não conheci do writ, assim fundamentando:
+I) Das preliminares
+Inicialmente, é de se notar que a tese de insuficiência das provas de autoria e
+materialidade quanto ao tipo penal imputado consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+Da mesma forma, a via mandamental, de rito célere e cognição sumária, não se mostra viável à análise da presença (ou não) de causa excludente da culpabilidade (legítima defesa).
+ ..
+II) Da fundamentação da prisão preventiva.
+ ..
+No particular, as decisões que decretaram mantiveram a prisão preventiva do
+paciente estão fundamentadas no modus operandi do delito (o paciente teria efetuado o golpe de faca que causou a morte da vítima, em virtude de desentendimento gerado pelo assédio praticado em desfavor da filha da vítima, de 11 anos, quem presenciou os fatos). A conduta, sem prejuízo da conclusão a ser aferida pelo Juízo processante após o fim da instrução criminal, extrapola os limites objetivos dos tipos penais envolvidos eevidencia, ao menos para fins de decretação da prisão preventiva, a periculosidade social do agente. Ademais, o Juízo processante noticiou que o paciente não foi localizado após a prática delitiva. Há, portanto, adequação aos requisitos do art. 312 do Código de Processo Penal.
+De fato, a gravidade concreta do crime como fundamento para a decretação ou manutenção da prisão preventiva deve ser aferida, como no caso, a partir de dados colhidos da conduta delituosa praticada pelo agente, que revelem uma periculosidade acentuada a ensejar uma atuação do Estado cerceando sua liberdade para garantia da ordem pública, nos termos do art. 312 do Código de Processo Penal.
+ ..
+Ora,ao acusado que comete delitos, o Estado deve propiciar meios para o processo alcançar um resultado útil. Assim, determinadas condutas, como a não localização, ausência do distrito da culpa, a fuga (mesmo após o fato) podem demonstrar o intento do agente de frustrar o direito do Estado de punir, justificando, assim, a custódia.
+Isso porque "nos termos da jurisprudência desta Quinta Turma, a evasão do distrito da culpa, comprovadamente demonstrada nos autos e reconhecida pelas instâncias ordinárias, constitui motivação suficiente a justificar a preservação da segregação cautelar para garantir a aplicação da lei penal" (AgRg no RHC n. 117.337/CE. Relator Ministro JORGE MUSSI. Quinta Turma, julgado em 21/11/2019, DJe 28/11/2019).
+ ..
+Portanto, mostra-se legítimo, no caso, o decreto de prisão preventiva, uma vez ter demonstrado, com base em dados empíricos, ajustados aos requisitos do art. 312 do CPP,o efetivo risco à ordem pública gerado pela permanência da liberdade.
+Registre-se, ainda, que eventuais condições subjetivas favoráveis, tais como primariedade. bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+ ..
+Ademais, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal são insuficientes para a consecução do efeito almejado. Ou seja, tendo sido exposta de forma fundamentada e concreta a necessidade da prisão, revela-se incabível sua substituição por outras medidas cautelares mais brandas.
+Ressalte-se que o processamento do mencionado habeas corpus foi admitido em homenagem ao princípio da ampla defesa, a fim de se examinar a existência de eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício, conforme entendimento adotado por esta Corte e pelo Supremo Tribunal Federal. Nesse sentido, confiram-se os seguintes precedentes: HC n. 320.818/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 21/5/2015, DJe 27/5/2015 e STF, HC n. 113.890, Relatora Ministra ROSA WEBER, Primeira Turma, julg. em 3/12/2013, DJ 28/2/2014.
+Todavia, a utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou igualmente o ordenamento processual, por se tratar de mera reiteração, motivo pelo qual não pode prosseguir o presente recurso.
+Nesse sentido, a título de exemplo:
+AGRAVO REGIMENTAL. HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MERA REITERAÇÃO DE PEDIDO (HC N. 316.928/GO). INADMISSIBILIDADE. PRECEDENTES DESTA CORTE.
+1. Deve ser mantida por seus próprios fundamentos a decisão monocrática que negou seguimento ao writ, porquanto a questão relativa ao excesso de prazo na formação da culpa já foi objeto de apreciação por parte deste Tribunal Superior, quando da impetração do HC n. 316.928/GO, de minha relatoria, cuja liminar foi indeferida em 24/2/2015 e cujo julgamento está designado para a data de 1º/9/2015.
+2. Agravo regimental improvido(AgRg no RCD no HC n. 329.224/GO, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1/9/2015, DJe 22/9/2015).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso ordinário emhabeas corpus.
+Intimem-se.
