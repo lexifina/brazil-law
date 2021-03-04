@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo interposto por LQF DE SOUSA REPRESENTAÇÕES LTDA., contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de LQF DE SOUSA REPRESENTAÇÕES LTDA., a parte recorrente foi intimada do acórdão recorrido em 08/04/2019, sendo o recurso especial interposto somente em 07/05/2019.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Ainda, a parte recorrente foi intimada da decisão agravada em 05/03/2020, sendo o agravo somente interposto em 08/06/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Não se desconhece os documentos juntados às fls. 953/954, porém, insuficientes para afastar a intempestividade dos recursos.
+Ainda, o documento juntado às fls. 949/952 não é apto à comprovação de feriado local e/ou suspensão de expediente forense. Conforme jurisprudência desta Corte, os feriados e suspensões devem ser comprovados por meio de documento idôneo, não servindo cópia de calendário (AgInt no AREsp n. 1.158.537/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/06/2018, DJe 08/08/2018
+Ressalta-se, ainda, que em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ n. 313, de 19 de março de 2020, voltando a fluir o prazo, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
