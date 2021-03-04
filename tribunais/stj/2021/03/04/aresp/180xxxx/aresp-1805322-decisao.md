@@ -1,0 +1,51 @@
+DECISÃO
+Cuida-se de agravo apresentado por PATRÍCIA MARTINS MONTANARI contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. JUSTIÇA GRATUITA. PESSOA FÍSICA. Presunção relativa, que deve prevalecer caso não haja indícios de capacidade financeira da parte (CPC/15, art. 99, §3º). Elementos dos autos que são capazes de infirmar a declaração realizada pela agravante. Possibilidade de ser requerido o recolhimento de eventuais custas e despesas de modo parcelado. Inteligência do art. 98, §6º, CPC. Decisão mantida. Recurso improvido.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, a parte alega violação dos arts. 85, 98 e 99 do CPC e divergência de interpretação jurisprudencial em relação aos mesmos dispositivos, no que concerne à gratuidade de justiça, trazendo o(s) seguinte(s) argumento(s):
+Boa parte da renda mensal da Recorrente está comprometida para pagamento de dívidas, porém, o acórdão nada refere sobre isso. Deixa de enxergar um fato de extrema relevância.
+A Recorrente sustenta a mãe idosa, porém, o acórdão nada refere sobre tal fato.
+O acórdão reconhece que a Recorrente celebrou empréstimos, que é professora assalariada, e por tais motivos não faz jus à gratuidade.
+O valor emprestado foi utilizado como fundamento para o relator negar a gratuidade, o que muito se estranha, pois, se a pessoa toma empréstimo, significa que não está em boas condições financeiras.
+ ..
+A interpretação do acórdão recorrido se mostra contrária à interpretação do artigo 85 e 98 do CPC nas decisões do Superior Tribunal de Justiça, uma vez que o STJ reconhece que a parte tem direito à gratuidade processual, até prova em contrário,
+ ..
+Em que pese os sábios conhecimentos exarados na decisão, entende que não se levou em consideração as despesas fixas da RECORRENTE, o elevado valor da causa que trará como consequência a possível condenação em honorários advocatícios com elevado valor, entre R$ 25.000,00 e R$ 50.000,00, além do elevado valor das custas processuais, que tornariam impossível a interposição da apelação para a Recorrente.
+ ..
+Vejam Excelências que o valor da causa era R$ 250.000,00, em 30 de agosto de 2018. Eventual condenação acarretaria a fixação de honorários advocatícios superiores a R$ 25.000,00 (Vinte e Cinco Mil Reais), quantia cujo pagamento seria inviável para a RECORRENTE.
+É fácil perceber que os vencimentos mensais da Recorrente são insuficientes para arcar com tal quantia, que seria necessário a aproximadamente Cinco meses de salário da Embargante para arcar com honorários advocatícios de 10%.
+ ..
+Ante as diversas despesas apresentadas na planilha de Fls. 254, e comprovadas às Fls. 255/288, entende que a gratuidade processual se mostra adequada e necessária (fls. 415/417).
+Boa parte da renda mensal da Recorrente está comprometida para pagamento de dívidas, porém, o acórdão nada refere sobre isso. Deixa de enxergar um fato de extrema relevância.
+A Recorrente sustenta a mãe idosa, porém, o acórdão nada refere sobre tal fato.
+O acórdão reconhece que a Recorrente celebrou empréstimos, que é professora assalariada, e por tais motivos não faz jus à gratuidade.
+O valor emprestado foi utilizado como fundamento para o relator negar a gratuidade, o que muito se estranha, pois, se a pessoa toma empréstimo, significa que não está em boas condições financeiras.
+ ..
+A interpretação do acórdão recorrido se mostra contrária à interpretação do artigo 85 e 98 do CPC nas decisões do Superior Tribunal de Justiça, uma vez que o STJ reconhece que a parte tem direito à gratuidade processual, até prova em contrário,
+ ..
+Em que pese os sábios conhecimentos exarados na decisão, entende que não se levou em consideração as despesas fixas da RECORRENTE, o elevado valor da causa que trará como consequência a possível condenação em honorários advocatícios com elevado valor, entre R$ 25.000,00 e R$ 50.000,00, além do elevado valor das custas processuais, que tornariam impossível a interposição da apelação para a Recorrente.
+ ..
+Vejam Excelências que o valor da causa era R$ 250.000,00, em 30 de agosto de 2018. Eventual condenação acarretaria a fixação de honorários advocatícios superiores a R$ 25.000,00 (Vinte e Cinco Mil Reais), quantia cujo pagamento seria inviável para a RECORRENTE.
+É fácil perceber que os vencimentos mensais da Recorrente são insuficientes para arcar com tal quantia, que seria necessário a aproximadamente Cinco meses de salário da Embargante para arcar com honorários advocatícios de 10%.
+ ..
+Ante as diversas despesas apresentadas na planilha de Fls. 254, e comprovadas às Fls. 255/288, entende que a gratuidade processual se mostra adequada e necessária (fls. 415-417).
+É, no essencial, o relatório. Decido.
+Na espécie, no que tange à alegação de violação do art. 85 do CPC, incide o óbice da Súmula n. 284/STF, uma vez que o artigo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula nº 284 do STF". (AgInt no REsp n. 1.846.655/PR, Terceira Turma, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020.)
+Confiram-se também os seguintes julgados: REsp n. 1.798.903/RJ, relator para o acórdão Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 30/10/2019; AgInt no REsp n. 1.844.441/RN, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgInt no AREsp n. 1.524.220/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgRg no AREsp n. 1.280.513/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/5/2019; AgRg no REsp n. 1.754.394/MT, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/9/2018; e AgInt no REsp n. 1.503.675/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 27/3/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Os elementos do processo não corroboram a tese de hipossuficiência da agravante, como se verá adiante.
+Extrai-se dos demonstrativos de pagamento de fs.
+256/258 que agravante aufere como remuneração mensal, aproximadamente, R$ 7.000,00, o que, por si só, não é compatível com as benesses da gratuidade judiciaria.
+Outrossim, além de bens imóveis indicados na declaração de imposto de renda de fs. 311/317 e outros rendimentos percebidos, além de seu cargo como professora (fs. 311), identifica-se que a agravante tem valores depositados em aplicações financeiras e fundos de investimento que somam quase R$ 32.000,00 (fs. 314).
+Ademais, ninguém em frágil situação econômica, contraria empréstimos e financiamentos superiores a R$ 350.000,00, conforme se denota a fs. 315.
+No mais, as despesas indicadas pela agravante a fs.
+263, em nada alteram o decidido, uma vez que se referem apenas a despesas cotidianas, e algumas, até supérfluas, corroborando o fato de que possui condições de arcar com as custas processuais (fls. 326-327)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em âmbito de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; e REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Além disso, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige a transcrição de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e o(s) paradigma(s) indicado(s).
+Nesse sentido: "O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ". (AgInt no REsp n. 1.840.089/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; e AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
