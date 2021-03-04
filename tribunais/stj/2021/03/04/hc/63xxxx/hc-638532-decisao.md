@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MICHEL MESSIAS RAMOS, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (HC 1.0000.20.070469-0/000).
+Extrai-se dos autos que o paciente foi condenado pela prática do delito previsto no art. 121, par. 2º, incisos I e IV do CP em relação à vítima Izadora, à pena de 15 anos e 3 meses de reclusão, tendo sido negado o recurso em liberdade (e-STJ, fls. 48/55).
+A defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, nos termos da seguinte ementa:
+"EMENTA: HABEAS CORPUS -HOMICÍDIO QUALIFICADO -SENTENÇA CONDENATÓRIA -NEGADO DIREITO DE RECORRER EM LIBERDADE -PRESENÇA DE FUNDAMENTOS IDÔNEOS CAPAZES DE JUSTIFICAR A CUSTÓDIA CAUTELAR -MEDIDAS CAUTELARESDIVERSAS DA PRISÃO -IMPOSSIBILIDADE -CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. MODIFICAÇÃO DA SENTENÇA -VIA IMPRÓPRIA -PRINCÍPIO DA UNIRRECORRIBILIDADE -PEDIDO NÃO CONHECIDO. Atendido ao menos um dos pressupostos do art. 312 do CPP, qual seja a garantia da ordem pública, bem como um dos requisitos instrumentais do art. 313 do CPP, deve ser a prisão ser mantida, não havendo que se falar em sua revogação, ou mesmo em substituição pelas medidas cautelares diversas da prisão previstas no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes. Quando as matérias aduzidas no writ são também objeto de apelação criminal, deverão ser analisadas nesta, recurso próprio e mais amplo, em obediência ao princípio da unirrecorribilidade das decisões." (e-STJ, fl. 14)
+Neste writ, a defesa alega, em suma, que houve erro na quesitação, sendo temerária a prisão cautelar do paciente.
+Pondera que foram formulados os costumeiros quesitos para cada réu iniciando-se pelo corréu Maurício, porém, quando os quesitos foram direcionados para o ora paciente, na segunda série que trata da autoria, no que tange à vítima Izadora Gomes de Pontes, foi descrito o nome de seu irmão e também réu, Mauricio Barbosa Ramos, para a votação dos jurados, ocasionando evidente confusão e prejudicando a votação, tanto que o paciente restou absolvido dos demais homicídios juntamente com o terceiro réu.
+Aduz que não estão presentes os requisitos autorizadores da prisão preventiva previstos no artigo 312 do Código de Processo Penal.
+Sustenta que, em que pese a novel redação do artigo 492, inciso I, alínea "e", do Código de Processo Penal, deve-se analisar com muita cautela a necessidade da prisão, eis que o Tribunal do Júri pertença à primeira instância.
+Requer a concessão de ordem, inclusive liminarmente, para que seja revogada a prisão preventiva do paciente com aplicação das medidas cautelares diversas e que seja reconhecida a nulidade da quesitação.
+A liminar foi indeferida em 7/1/2021 (e-STJ, fls. 71-72).
+Informações prestadas às fls. 75/97 (e-STJ).
+O Ministério Público Federal opina pela não conhecimento do writ (e-STJ, fls. 102-108).
+É o relatório.
+Decido.
+Da análise dos autos, em relação à prisão preventiva, note-se que o presente habeas corpus, cuja liminar foi indeferida em 7/1/2021, constitui mera reiteração do pedido formulado no RHC 130301/MG, de minha relatoria, cuja liminar foi indeferida em 31/7/2020 e encontram- se conclusos.
+Em que pese às impetrações voltarem-se contra decisões diferentes, esta contra o acórdão proferido no HC 1.0000.20.070469-0/000 e aquela em desfavor do HC 1.0000.20.034774-8/000, observa-se que possuem o mesmo pedido e causa de pedir.
+Assim, entendo tratar-se este habeas corpus de mera reiteração daquele recurso em habeas corpus, o que é inadmissível, conforme a jurisprudência pacífica deste Tribunal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DO PLEITO FORMULADO NO HC N.º 481.921/DF. LITISPENDÊNCIA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O pedido formulado no HC n.º 483.855/DF é mera reiteração daquele veiculado no HC n.º 481.921/DF, pois há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão e a mesma matéria
+2. Não podem ser processados, nesta Corte, concomitantemente, habeas corpus nos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+3. Agravo Regimental desprovido." (AgRg no HC 483.855/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/02/2019, DJe 19/02/2019)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. REITERAÇÃO DE HABEAS CORPUS. IDENTIDADE DE PARTES, CAUSA DE PEDIR E PEDIDOS. NÃO CABIMENTO DE NOVA IMPETRAÇÃO. DECISÃO QUE INDEFERIU LIMINARMENTE O HABEAS CORPUS MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não se conhece de habeas corpus que deduz pretensão já apreciada e julgada em anterior impetração.
+2. Hipótese em que a irresignação manifestada no presente habeas corpus tem por objeto as mesmas questões já debatidas por esta Corte no julgamento do HC n. 451.646/SP, impetrado em favor do mesmo paciente, oportunidade em que o Superior Tribunal de Justiça emitiu juízo sobre a legalidade dos fundamentos exarados pelo Tribunal local para não aplicar o redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, para refutar a tese de ocorrência de bis in idem na primeira e terceira fases da dosimetria e para manter o regime prisional mais gravoso, prejudicadas as demais teses.
+3. (..).
+4. Agravo regimental improvido."
+(AgRg no HC 469.249/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Quanto à alegação de nulidade da quesitação, o Tribunal de origem, assim se manifestou:
+"Com efeito, referido pleito deve ser alegado em sede de apelação criminal e, conforme se infere dos autos e em consulta ao sítio eletrônico deste eg. Tribunal de Justiça, é possível observar que já foi aviado o devido recurso contra a sentença proferida pelo d. magistrado primevo, de modo que em atenção ao princípio da unirrecorribilidade, entendo que tal arguição deverá ser apreciada junto àquele recurso, e não na estreita via do writ. Assim, existindo recurso próprio, torna-se descabido o exame, até porque, a via estreita do habeas corpus não permite a cassação da sentença vergastada" (e-STJ, fl. 27).
+Dessa forma , verifica-se que a questão não foi objeto de julgamento no acórdão impugnado, o que impede seu conhecimento por este Tribunal Superior, sob pena de indevida supressão de instância, consoante entendimento desta Corte:
+"A questão relativa à alegada demora injustificada na instrução processual não foi objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância." (RHC 107.631/CE, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/10/2019, DJe 18/10/2019)
+"Em relação à prisão preventiva e ao excesso de prazo, verifica-se que as irresignações da defesa não foram objetos de cognição pela Corte de origem, o que torna inviável a sua análise nesta sede, sob pena de incidir em indevida supressão de instância, conforme reiterada jurisprudência desta Corte." (RHC 111.394/SP, de minha relatoria, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
