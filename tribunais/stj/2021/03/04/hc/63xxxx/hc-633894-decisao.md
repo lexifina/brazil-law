@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deJOSE GUILHERME DA SILVA RIBEIROcontra acórdãodoTribunal de Justiça do Estado de São Paulo proferido no julgamento do Agravo Regimental no HC n. 2252483- 91.2020.8.26.0000/50000.
+Constados autos que o paciente foi condenadopor tráfico de entorpecentes (art. 33,caput, da Lei n. 11.343/06), à pena de 5 anos de reclusão, em regime inicial fechado, negado-lhe o direito de recorrer em liberdade.
+Pleiteando a soltura do acusado, a defesa impetrouhabeas corpusperante o Tribunal de origem.
+A Corte de Justiça estadual,por decisão singular do desembargador relator, indeferiu liminarmente owrit, entendendo que "constituindo a manutenção da prisão desdobramento da decisão terminativa, não se vislumbra ilegalidade flagrante ou ato teratológico a merecer reparação"(fl. 41).
+Foi interposto agravo regimental contra referido decisum, tendo sido negado provimento pelo órgão colegiado, nos termos do acórdão acostado às fls. 60/66.
+No presente writ, a defesa sustenta que a custódia cautelar foi baseada na gravidade abstrata do delito, estando ausentes os requisitos previstos no art. 312 do CPP.
+Aponta ausência de fundamentação para manutenção da prisão preventiva do paciente.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva do paciente.
+O pedido de liminar foi indeferido (fls. 82/83). As informações foram prestadas pelas instâncias ordinárias (fls. 89/103 e 113/141).
+O Ministério Público Federal opinou pelo não conhecimento domandamus(fl. 148).
+É o relatório
+Decido.
+Conforme relatado, busca-se, no presente writ, a revogação da prisão preventiva do paciente.
+No tocante aos fundamentos do decreto da preventiva, não comporta conhecimentoem razão de terem sido formulados pedidos idênticos em benefício do mesmo paciente nos autos do HC 602.136/SP, de minha relatoria, o qual a egrégia Quinta Turma desta Corte Superior não conheceu domandamus,nos termos da seguinte ementa:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE ENTORPECENTES. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE NÃO AGREGA FUNDAMENTOS AO DECRETO PRISIONAL. AUSÊNCIA DE PREJUDICIALIDADE. FLAGRANTE CONVERTIDO EM PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. GRANDE QUANTIDADE DE DROGAS APREENDIDAS. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. A manutenção da custódia cautelar por ocasião de sentença condenatória superveniente não possui o condão de tornar prejudicado o writ em que se busca sua revogação, quando não agregados novos e diversos fundamentos ao decreto prisional primitivo.
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente motivada, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta e a periculosidade do paciente, evidenciadas pela grande quantidade de drogas apreendidas - 4kg e 300g de maconha -, além de uma balança de precisão, recomendando a sua custódia cautelar especialmente para garantia da ordem pública, "consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva" (AgRg no HC 550.382/RO, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 13/3/2020).
+4. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+5. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+6. Habeas corpus não conhecido (DJe 23/10/2020).
+Nesse contexto, é inadmissível o conhecimento do presente habeas corpus, tendo em vista a impossibilidade de reiteração de pedidos, conforme a jurisprudência pacífica deste Tribunal Superior, consoante se extrai dos seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. JULGAMENTO MONOCRÁTICO. EFETIVIDADE DO PRINCÍPIO CONSTITUCIONAL DA RAZOÁVEL DURAÇÃO DO PROCESSO. REGIME INICIAL DE CUMPRIMENTO DE PENA. REITERAÇÃO DE PEDIDO. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. PRISÃO DOMICILIAR. INOVAÇÃO RECURSAL. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+3. A impetração de habeas corpus com objeto parcialmente idêntico ao de anterior habeas corpus, com objeto mais amplo e já julgado por esta Corte Superior de Justiça, caracteriza indevida reiteração de pedido e, portanto, impossibilita o conhecimento do writ.
+4. Configura inadmissível inovação recursal a apresentação de tese jurídica somente por ocasião do agravo regimental, de maneira que não há como ser analisada a pretendida concessão de prisão domiciliar ao acusado.
+5. Agravo regimental parcialmente conhecido e, nessa extensão, não provido.
+(AgRg no HC 564.671/SP, Rei. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, DJe 04/06/2020).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA ARMADA. TRÁFICO DE DROGAS. TRÁFICO INTERNACIONAL DE ARMA DE FOGO. NULIDADE DE PROVAS DERIVADAS DA QUEBRA DO SIGILO TELEFÔNICO. NÃO OCORRÊNCIA. DECISÃO DEVIDAMENTE FUNDAMENTADA. QUEBRA ILEGAL DE SIGILO. NÃO CONFIGURAÇÃO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. REITERAÇÃO DE PEDIDO JÁ ANALISADO POR ESTA CORTE EM OUTROS AUTOS. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. SÚMULA N.52/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - No que concerne à tese de ausência de fundamentação idônea do decreto prisional, verifica-se que a alegação é insuscetível de conhecimento. Isto porque, no ponto, o presente mandamus consubstancia mera reiteração de pedido, uma vez que o tema ora ventilado já foi objeto de análise por esta eg. Corte Superior, por ocasião do julgamento do HC n. 508.248/MS, em 01/10/2019, oportunidade em que o writ não foi conhecido, tendo o mérito sido analisado de ofício, não verificada a existência de flagrante ilegalidade.
+IV - A alegação de excesso de prazo para a formação da culpa encontra-se, por ora, superada. Com efeito, em consulta ao sítio eletrônico do eg. Tribunal de origem (www.trf3.jus.br), verifica-se que a instrução criminal já foi encerrada, já tendo sido apresentadas as alegações finais do Ministério Público e da Defesa, encontrando-se os autos conclusos para a prolação de sentença desde o dia 13/12/2019. Dessarte, incide no caso o enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo".
+V - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Agravo regimental desprovido.
+(AgRg no RHC 118.730/SP, Rei. Ministro FELIX FISCHER, QUINTA TURMA, DJe 04/05/2020).
+Por tais razões, não conheço dopresente habeas corpus.
+Publique-se.
+Intimem-se.
