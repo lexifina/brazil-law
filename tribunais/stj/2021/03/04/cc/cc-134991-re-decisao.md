@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por SINDICATO NACIONAL DOS AERONAUTAS, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 1718):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CIVIL PÚBLICA AJUIZADA NA JUSTIÇA TRABALHISTA POR EX-EMPREGADOS DA VASP NA FASE DE EXECUÇÃO.RECUPERAÇÃO JUDICIAL DA AGROPECUÁRIA VALE DO ARAGUAIA JULGADA EXTINTA. MEDIDA LIMINAR CONCEDIDA PELO JUÍZO DA FALÊNCIA DA VASP DETERMINANDO O BLOQUEIO DOS BENS DA EMPRESA SUSCITANTE. JUÍZO LABORAL QUE PROSSEGUIU COM ATOS EXECUTÓRIOS. FAZENDA RIO VERDE. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. COMPETÊNCIA DO JUÍZO UNIVERSAL.
+AGRAVO INTERNO NÃO PROVIDO.
+1. Não há falar em desatendimento ao princípio da colegialidade uma vez que nos termos do disposto no art. 34, XXII, do RISTJ é possível o julgamento do conflito de competência por decisão monocrática com base na jurisprudência dominante desta Corte. Ademais, a legislação processual prevê meios idôneos para provocar o reexame da decisão, como agora faz o agravante.
+2. A prática de atos aparentemente colidentes por juízos que, implicitamente, se consideram competentes configura o conflito de competência previsto no art. 66 do NCPC.
+3. O conflito foi conhecido para fixar a competência do Juízo universal para decidir sobre o destino dos valores arrecadados com a venda da Fazenda Rio Verde efetivada pela Justiça Trabalhista.
+4. Os bens sujeitos ao pagamento dos credores falimentares devem ser geridos pelo Juízo falimentar, por ser este o competente para decidir sobre a destinação do patrimônio da massa falida conforme o regramento da lei de quebra, visando respeitar a ordem de preferência estabelecida nos arts. 83 a 86 da Lei nº 11.101/2005.
+5. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (e-STJ fls. 1908/1909).
+Sustenta o recorrente a repercussão geral da matéria tratada, aduzindo que o aresto impugnado teria violado o art. 5º, incisos XXXVI e LIV, da Constituição Federal.
+Afirma que "referida decisão manifestamente ofende a coisa julgada, notadamente em razão dos termos do v. acórdão proferido pelo próprio STJ nos autos do Conflito de Competência nº CC º 120.972/SP, onde já havia sido determinado que os bens da Suscitante, Agropecuária Vale do Araguaia Ltda, não se submetem ao processo de falência da VASP" (e-STJ fl. 2055/2056).
+Alega que "a argumentação traçada pela própria Suscitante demonstra que, na verdade, o manejo do presente Conflito de Competência foi adotado como manifesto sucedâneo recursal, o que ofende o comando contido no artigo 5º, inciso LIV, da Constituição Federal, violando o princípio do devido processo legal" (e-STJ fl. 2064).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 2316/2329.
+É o relatório.
+Pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa edo devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a suposta ofensa ao princípio do devido processo legal e aos limites da coisa julgadadepende do exame da análise dos arts. 83 a 86 da Lei 11.101/2005, razão pela qual incide o Tema 660/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOPRINCÍPIODO DEVIDO PROCESSO LEGAL E AOS LIMITES DA COISA JULGADA.TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
