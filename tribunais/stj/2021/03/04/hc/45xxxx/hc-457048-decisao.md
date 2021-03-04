@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ERNANDES PIRES MATIAS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 0002128-61.2016.8.26.0477).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções dosdelitos de tráfico de drogas e receptação (art. 33, caput, da Lei n. 11.343/2006 e art. 180 do Código Penal), à pena de 9anos de reclusão, em regime fechado, mais pagamento de 720dias-multa, por haver sido flagrado na posse de 1.547 pinos de cocaínacom peso de aproximadamente 1,304kg(um quilo, trezentos e quatro gramas) e 137 porções de maconha com peso de 187,6g (cento e oitenta sete gramas e seis decigramas), bem como com um veículo que sabia ser produto de crime (e-STJ fls. 27/33).
+Irresignadas, apelaram as partes, tendo sidodesprovido o recurso ministerial e provido o da defesa pelo Tribunal de origem, apenas para suspender a exigibilidade das custas processuais(e-STJ fls. 36/44, sem ementa).
+Daí o presente writ, no qual sustenta a defesa, inicialmente, a nulidade em razão da invasão de domicílio, pela ausência de fundadas razões que indicassem a ocorrência de flagrante delito.
+Aduz, outrossim, ilegalidade na dosimetria da pena, pelo aumento na primeira fase sem fundamentação idônea, e, "para o delito de receptação, a pena foi dobrada, apenas em razão do tipo de bem receptado" (e-STJ fl. 10).
+Afirma, outrossim, que o julgador deixou de reconhecer a circunstância atenuante da confissão, em contrariedade ao disposto na Súmula n. 545/STJ.
+Pondera, ainda, o cabimento da minorante contida no art. 33, §4º, da Lei n. 11.343./2006 (e-STJ fl. 17).
+Requer, ao final, "a concessão da ordem, a fim de: a) absolver o paciente diante da ilicitude da prova produzida; b) adequar a fração de pena aplicada na primeira fase; c) reconhecer a atenuante da confissão; d) aplicar o art. 33, §4º da Lei de Drogas; e) fixar o regime inicial diverso do fechado" (e-STJ fl. 18).
+Não houve pedido liminar.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writou, caso conhecido, pela denegação da ordem (e-STJ fls. 68/77).
+É o relatório.
+Decido.
+Nulidade por invasão de domicílio sem fundadas razões
+Preliminarmente, quanto à verificação da presença de fundadas razões que justificaram a entrada dos policiais no domicílio do paciente, no intuito de legitimar ou não a atuação policial para dar máxima efetividade à garantia constitucional prevista no inciso XI do art. 5º da Constituição Federal, tem-se que o Tribunal a quo assim discorreu acerca da controvérsia (e-STJ fl. 38):
+Preliminarmente Inexistiu invasão de domicílio, eis que o crime de tráfico é permanente, sendo-o também o estado de flagrância (art. 303, do Diploma Processual). Assim, a diligência em tela na qual houve entrada em residência é completamente constitucional (art. 5º, XI, CF).
+Aliás, este Egrégio Sodalício já se pronunciou a respeito:
+"A garantia constitucional da inviolabilidade de domicílio admite exceções, não protegendo o indivíduo em atividade criminosa no recesso da habitação. Em se tratando de tráfico de entorpecentes, delito de natureza permanente, a ausência da autoridade ou a falta do respectivo mandado, não maculam a busca e apreensão, inocorrendo, igualmente, nulidade da prisão em flagrante".
+Portanto, fica repelida a preliminar arguida.
+Como visto, o Tribunal de origem, ao examinar a questão, limitou-se a afirmar a natureza permanente do delito de tráfico de entorpecentes, olvidando-se de apreciar a questão quanto à existência de fundadas razões que evidenciassem, no caso, a possibilidade de entrada forçada no domicílio do paciente, nos termos do precedente do Supremo Tribunal Federal firmado em recurso submetido à sistemática da repercussão geral.
+Dessa forma, da leitura do acórdão ora impugnado, verifica-se a presente irresignação, na forma em que levantada pelaimpetrante, nem sequer foi discutida na Corte local, tampouco foi objeto de embargos de declaração para sanar eventual omissão, razão pela qual se mostra inviável o exame da quaestio diretamente por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. CERCEAMENTO DE DEFESA. PROVAS PRODUZIDAS QUE NÃO CONSTAM DOS AUTOS. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Incabível a análise, por este Tribunal Superior, da alegação de cerceamento de defesa, porquanto não apreciada pelo Tribunal de origem, sob pena de indevida supressão de instância.
+3. Não sendo certo nos autos a alegação do desaparecimento de provas contidas em fitas de áudio e vídeo, alegadamente submetidas à perícia, sequer os requerimentos para que fosse oficiado o órgão pericial com vista à juntada dos laudos respectivos, não cabe o enfrentamento do tema na via do habeas corpus.
+4. Habeas corpus não conhecido. (HC 120.507/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2015, DJe 18/06/2015)
+Dosimetria - Pena-base da receptação
+Como é cediço, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus, e no recurso ordinário que lhe faz as vezes, apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Quanto ao aumento da pena-base em relação ao delito de receptação, verifica-se que o Tribunal de origem manteve integralmente os fundamentos da sentença, que assim dispuseram acerca da controvérsia (e-STJ fl. 31):
+a) Quanto ao crime de receptação:
+Na primeira fase da dosimetria, considerando que o objeto receptado se tratava de um veículo, bem de elevado valor pecuniário e cuja ilícita posse pelo réu trouxe elevado prejuízo à vítima, sem falar que estimula outras cadeias de crimes, como o roubo que lhe antecedeu, arbitro penas de 02 anos de reclusão e 20 dias multa, estes pelo mínimo unitário legal.
+Nesse palmilhar, não vislumbro a existência de ilegalidade flagrante em relação à fundamentação utilizada, uma vez que a jurisprudência é assente no sentido de que o alto valor do bem receptado confere maior reprovabilidade à conduta, a justificar o incremento da pena atitulo de culpabilidade ou circunstâncias do crime.
+No entanto, in casu, o aumento operado foi desproporcional, devendo ser utilizada a fração de 1/6 pela negativação da referida circunstância judicial.
+Dessarte, fica a pena-base do delito de receptação definida em 1 ano e 2 meses de reclusão e 12 dias-multa, a qual, diante da ausência de circunstâncias agravantes e atenuantes ou causas de aumento ou diminuição de pena, fica assim mantida.
+Dosimetria - Tráfico de drogas
+Transcrevo, no ponto, os fundamentos utilizados pelo Tribunal de origem acerca da dosimetria do delito de tráfico (e-STJ fls. 40/42)
+a) Quanto ao crime de tráfico:
+Atendendo aos critérios norteadores dos artigos 59 do Código Penal e 42 da Lei 11.343/06, a pena-base foi corretamente fixada acima do mínimo legal, na fração de 1/5, considerando-se, para tanto, a quantidade e diversidade dos entorpecentes, dentre os quais a cocaína, substância de elevado grau de nocividade e potencialidade lesiva.
+Assim:
+ ..
+Ausentes circunstâncias atenuantes ou agravantes a serem consideradas.
+Com efeito, não há que se falar na incidência da atenuante da confissão espontânea em favor do réu, pois, para que haja o seu reconhecimento, faz-se necessário que a confissão seja completa, o que não ocorreu no caso sub examine, já que, embora tenha admitido a traficância, negou o envolvimento do adolescente, bem como a ciência quanto à origem espúria do veículo.
+Neste sentido:
+ ..
+Na terceira fase, foi bem reconhecida a causa de aumento de pena elencada no artigo 40, VI, da Lei de Drogas, eis que inconteste o envolvimento do menor no tráfico, consoante conjunto probatório amealhado aos autos.
+Incabível a incidência da causa especial de diminuição de pena do parágrafo 4º, do artigo 33, da Lei 11.343/06, pois, em que pese a primariedade do réu, há que se considerar as circunstâncias do caso concreto, o fato de que ele agia com um adolescente, bem como a quantidade e natureza da droga apreendida. Tais fatores evidenciam que o apelante exercia atividade criminosa com habitualidade, fazendo do nefasto comércio de tóxicos seu meio de vida.
+Nesse sentido, posicionou-se o Egrégio Superior Tribunal de Justiça:
+ ..
+Do exame dos fundamentos do acórdão ora impugnado, verifica-se que o Tribunal a quo, não obstante tenha mencionado a prática do delito na companhia de um adolescente,utilizou a quantidade/natureza da droga apreendida como fundamento tanto para exasperar a pena-base quanto para justificar a não incidência da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+Todavia, em atenção ao que decidido pelo Supremo Tribunal Federal no ARE n. 666.334/AM, julgado sob o regime da repercussão geral, paraevitar a ocorrência de bis in idem, o mesmo critério, qual seja, a quantidade e a natureza da droga, não pode ser adotado para agravar a reprimenda básica e, também, para afastar ou modular a fração do redutor do § 4º do art. 33 da Lei de Drogas.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. QUANTIDADE DA DROGA CONSIDERADA NA PRIMEIRA E NA TERCEIRA FASES DA DOSIMETRIA. BIS IN IDEM RECONHECIDO. REGIMENTAL DESPROVIDO.
+1. A Sexta Turma desta Corte Superior firmou interpretação de que, uma vez valorada a quantidade e a natureza da droga na primeira etapa da dosimetria, mostra-se inviável sua utilização na terceira etapa para negar ou mesmo modular o fator de diminuição da pena pelo privilégio do tráfico de drogas. Precedentes.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 870.676/ES, de minha relatoria, SEXTA TURMA, julgado em 11/02/2020, DJe 17/02/2020, grifei)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. QUANTIDADE E NATUREZA DAS DROGAS VALORADAS NA PRIMEIRA E TERCEIRA FASES. BIS IN IDEM RECONHECIDO. QUANTIDADE NÃO RELEVANTE. DOSIMETRIA DA SENTENÇA RESTABELECIDA. RECURSO IMPROVIDO.
+1. Vigora, atualmente, perante a Sexta Turma dessa Corte Superior, interpretação no sentido de que, uma vez valorada a quantidade e a natureza da droga na primeira etapa da dosimetria, inviável sua utilização na terceira etapa para negar ou mesmo modular o fator de diminuição da pena pelo privilégio do tráfico de drogas.
+2. Considerando a quantidade não relevante do entorpecente apreendido - 65 gramas de cocaína -, justifica-se o restabelecimento da dosimetria fixada na sentença condenatória, visto que, não obstante a natureza danosa do estupefaciente, entende esta Corte Superior que a quantidade não relevante e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, etc.) desautorizam a exasperação da pena-base, a vedação à minorante do tráfico, o agravamento do regime prisional ou a negativa à substituição das penas. Precedentes.
+3. Agravo regimental improvido.
+(AgRg no HC 498.388/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/09/2019, DJe 10/09/2019, grifei)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. QUANTIDADE DA DROGA. VALORAÇÃO NA PRIMEIRA E NA TERCEIRA FASE. BIS IN IDEM. MANIFESTA ILEGALIDADE VERIFICADA. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITO. INAPLICABILIDADE. FUNDAMENTAÇÃO IDÔNEA. HABEAS CORPUS NÃO CONHECIDO. CONCESSÃO DA ORDEM DE OFÍCIO.
+ .. .
+2. A utilização da quantidade e da natureza da droga, cumulativamente, na primeira e na terceira fase da dosimetria da pena, seja para modular ou negar a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006, configura bis in idem, consoante entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, no ARE 666.334/AM (Rel. Ministro GILMAR MENDES, DJ 6/5/2014). Precedentes do STJ e do STF.
+ ..
+4. Habeas Corpus não conhecido. Ordem concedida, de ofício, para determinar que o Tribunal de origem proceda à nova dosimetria da pena e, assim, afaste o bis in idem ora identificado, mantido no mais o acórdão impugnado.
+(HC 297.115/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/06/2016, DJe 16/06/2016, grifei.)
+Diante desse cenário, imperiosa a realização pelo Tribunal a quo de nova dosimetria da pena do delito de tráfico ilícito de entorpecentes, devendo a quantidade/natureza da droga apreendida ser levada em consideração em apenas uma das etapas do cálculo.
+Já quanto à ilegalidade na dosimetria do delito de tráfico pela desconsideração da confissão do paciente, assiste razão à defesa.
+Com efeito, destacou a Corte de origem que "não há que se falar na incidência da atenuante da confissão espontânea em favor do réu, pois, para que haja o seu reconhecimento, faz-se necessário que a confissão seja completa, o que não ocorreu no caso sub examine, já que, embora tenha admitido a traficância, negou o envolvimento do adolescente, bem como a ciência quanto à origem espúria do veículo" (e-STJ fl. 41).
+Contudo, como visto, o paciente confessou a traficância, fazendo jus à atenuante da confissão, nos termos da Súmula n. 609.STJ, segundo a qual "a incidência da atenuante daconfissãoespontânea no crime detráficoilícito de entorpecentes exige o reconhecimento da traficância pelo acusado, não bastando a mera admissão da posse ou propriedade para uso próprio" (Súmula 630, TERCEIRA SEÇÃO, julgado em 24/4/2019, DJe 29/4/2019).
+Ademais, ainda que o paciente não tenha admitido a participação do menor no delito, não se pode desconsiderar o enunciado545 da Súmula desta Corte, que dispõe que,"quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no artigo 65, III, d, do Código Penal", ainda que a confissão tenha sido parcial, como na hipótese.
+Ante o exposto, conheço em parte da impetração e, nesta extensão, concedo parcialmente a ordem para reduzir a pena do paciente, em relação ao delito de receptação, para 1 ano e 2 meses de reclusão, mais pagamento de 12 dias-multa, mantidos os demais termos da condenação, bem como paradeterminar que o Tribunal de Justiça do Estado de São Paulo realize nova dosimetria da pena do delito de tráfico de drogas,considerando a quantidade/naturezade droga apreendida em apenas uma etapa do critério trifásico e fazendo incidir a atenuante da confissão espontâneae, após, proceda à nova análise acerca do regime inicial de cumprimento da reprimenda.
+Publique-se. Intimem-se.
