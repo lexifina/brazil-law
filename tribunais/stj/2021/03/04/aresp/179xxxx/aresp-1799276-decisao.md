@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por DORIVAL TEMPORINI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA C.C INDENIZAÇÃO POR DANOS MORAIS - CARTÃO DE CRÉDITO CONSIGNADO - ALEGAÇÃO DE NEGATIVA SOLICITAÇÃO DO CARTÃO DE CRÉDITO CONSIGNADO DO BANCO RÉU - AUSÊNCIA DE VEROSSIMILHANÇA - CONTRATAÇÃO DO CARTÃO DE CRÉDITO CONSIGNADO DEMONSTRADA, COM EXPRESSA AUTORIZAÇÃO DE DÉBITO EM BENEFÍCIO PREVIDENCIÁRIO (LEI 10.820/2003) - SAQUE COM O CARTÃO DE CRÉDITO DEMONSTRADA - VÍCIO DE CONSENTIMENTO NÃO DEMONSTRADO - LEGITIMIDADE DA COBRANÇA, EM EXERCÍCIO REGULAR DE DIREITO DO CREDOR - RECURSO NEGADO. (fls. 180).
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação dos art. 6º, III, IV, V, VI; art. 39, I,III, IV, V; e art. 51, IV, do CDC, no que concerne à efetivação de descontos indevidos no benefício previdenciário do recorrente, atinente a cartão de crédito consignado, traz o(s) seguinte(s) argumento(s):
+A parte recorrente tem salientado desde a peça inaugural as ilegalidades praticadas pelo banco recorrido; ilegalidades estas que consistem no fornecimento de um serviço/produto (RMC) no lugar de outro (empréstimo consignado ordinário), condicionando-o à aquisição de outro produto/serviço (cartão de crédito), estabelecendo uma dívida perene, impagável na forma consignada pelos descontos mensais em seu benefício previdenciário.
+O banco recorrido em momento algum no curso processual negou o fornecimento de produto ou serviço diverso daquele pretendido pelo consumidor, limitando-se a afirmar a legalidade da operação financeira que teria sido pactuada por contrato escrito.
+ ..
+Esse frágil argumento foi aceito pelo r. Juízo singular e equivocadamente ratificado pelo E. Tribunal a quo, sobressaindo a vulneração aos retro referido preceitos do Código de Defesa do Consumidor.
+ ..
+O negócio jurídico controvertido (empréstimo RMC) está essencialmente vinculado à aquisição de um cartão de crédito, o que configura a prática da malsinada venda casada, também vedada pelo CDC.
+ ..
+O empréstimo consignado RMC, embora guarde semelhança superficial com o empréstimo consignado ordinário, diverge deste pela constituição de dívida infinita/impagável. Isso porque, não obstante o consumidor tenha mensalmente descontado de seu benefício previdenciário uma pequena parcela equivalente a 5% ou 10% da renda, tal quantia não assegura abatimento de parte do capital emprestado, alcançando, quando muito, apenas o pagamento dos juros acumulados do período, o que torna o empréstimo impagável na forma parcelada em razão da perenidade que se verifica.
+Ou seja, ainda que se pudesse considerar válida suposta contratação por escrito, o negócio jurídico por adesão imposto pelo banco recorrido estabelece cláusulas que impõe ao consumidor obrigação iníqua e nitidamente abusiva, que coloca o consumidor em desvantagem exagerada o que se verifica incompatível com a boa-fé e a equidade, circunstâncias estas que não foram observadas pelo v. acórdão vergastado e que, consequentemente, fazem daquele julgamento, data venia, um equívoco pela solução aplicada baseada em violação e/ou negativa de vigência à disposição do art. 51, IV do Código de Defesa do Consumidor. (fls.197-200).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, o Tribunal de origem se manifestou nos seguintes termos:
+O conjunto probatório produzido, a despeito do alegado na inicial, denota não ter o réu apelado cometido qualquer ato ilícito ao realizar desconto relativo ao cartão de crédito consignado no benefício previdenciário do requerente apelante.
+A tese defendida pelo autor na inicial é de que não contratou cartão de crédito consignado, com reserva de margem consignada (RMC), sendo ilegítimos os descontos realizados em seu benefício previdenciário.
+Sem razão.
+O Banco réu comprovou ter o autor apelante assinado a proposta de adesão a cartão de crédito consignado, tomando ciência que a ausência do pagamento integral do valor da fatura na data do vencimento implicaria no financiamento do saldo devedor.
+O autor sacou com o cartão de crédito o valor de R$ 2.092,00, com transferência dos referidos valores para a sua conta (..), saque este sequer impugnado pelo requerente.
+Não há prova do pagamento integral do valor sacado na data do vencimento, optando o requerente pelo pagamento do valor mínimo.
+Sabe-se que se o valor do pagamento mínimo não for suficiente para amortizar os juros do valor principal sacado, o saldo devedor, evidentemente, somente aumentará.
+Não há prova de que o valor é impagável.
+A medida em que o autor efetuou o saque com o cartão de crédito consignado, sem que tal fato fosse desmentido, a falta de pagamento integral do valor representaria locupletamento ilícito que o direito não tolera.
+Não há prova de vício de consentimento na contratação questionada, sendo frágeis as alegações a respeito.
+ ..
+No caso vertente, como referido, o réu apelante exibiu documento comprobatório da formal adesão a contrato de cartão de crédito e autorização para reserva da RMC e descontos no benefício previdenciário, comprovando-se o cumprimento da exigência prevista no mencionado art. 15 da instrução normativa INSS/PRES nº28 de 2008 e Lei nº 10.820/2003, a denotar a regularidade da contratação.
+Nesse cenário, entendo inexistir qualquer ilícito no cartão de crédito consignado. (fls.181-182).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
