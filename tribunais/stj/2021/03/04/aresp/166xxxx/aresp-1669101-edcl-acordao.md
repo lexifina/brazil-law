@@ -1,0 +1,110 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 3º, DO NCPC. EMBARGOS REJEITADOS, COM MAJORAÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que rejeitou os primeiros embargos de declaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituir prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre o valor atualizado da causa, observada a justiça gratuita.
+5. Embargos de declaração rejeitados, com majoração de multa.
+RELATÓRIO
+LUZIA RAIMUNDA FONSECA (LUZIA) ajuizou ação declaratória de inexistência de débito cumulada comrepetição de indébito e danos moraiscontra BANCO DO ESTADO DO RIO GRANDE DO SUL S.A. (BANRISUL).
+A sentença julgou improcedentes os pedidos iniciais(e-STJ, fls. 154/160).
+O recurso de apelação manejado por LUZIA não foi provido pelo Tribunal de Justiça de Mato Grosso do Sulnos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL - DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - DESCONTOS DE PARCELAS EM BENEFÍCIO PREVIDENCIÁRIO - RELAÇÃO JURÍDICA DEMONSTRADA - DISPONIBILIZAÇÃO DO PRODUTO DO MÚTUO - LITIGÂNCIA DE MÁ-FÉ MANTIDA - RECURSO NÃO PROVIDO.
+Demonstrados que houve o empréstimo e seu produto foi disponibilizado ao mutuário, não há como considerar válida a justificativa apontada de que não celebrou a relação contratual, tampouco de que não se beneficiou do mútuo.
+Restando comprovado que a parte tentou alterar a verdade dos fatos a fim de locupletar-se ilicitamente, deve ser condenada por litigância de má-fé(e-STJ, fl. 225).
+Os embargos de declaração interpostos foram desprovidos (e-STJ, fls. 254/257).
+Inconformada, LUZIA manifestou recurso especial com fulcro no art. 105, III,aec, da CF, sob o fundamento de dissídio interpretativo e afronta aos arts. 79, 80, II,81, 373, I e II,489, II, § 1º, IV e VI, e 1.022, II, todos do NCPC; 104, III, e 166, IV, ambos do CC/02; e 37, § 1º, da Lei nº6.015/73.
+O recurso foi inadmitido na origem por (1) ausência de omissão ou negativa de prestação jurisdicional no acórdão recorrido (Súmula nº 83 do STJ); (2) incidência daSúmulanº7 do STJ; e (3) prejudicialidadedo dissídio (e-STJ, fls. 449/556).
+Ainda inconformada, LUZIA manejou agravo em recurso especial, que, em decisão monocrática da lavra da Presidência do STJ, não foi conhecido porque não foram atacados especificamente os fundamentos da decisão de inadmissibilidade (e-STJ, fls. 499/500).
+Noagravo interno, LUZIAalegou quepara se verificar que o acórdão contrariou ou negou vigência à lei federal ou deu interpretação divergente de outro tribunal a um mesmo dispositivo legal, não haveria a necessidade de uma reincursão no acervo fático probatório, mas sim, de se atribuir uma definição jurídica diversa aos fatos expressamente mencionados no acórdão do tribunal(e-STJ, fls. 502/510).
+Pleiteou, ao final, que a decisão atacada fosse reconsiderada.
+A impugnação foi apresentada (e-STJ, fls. 514/525).
+Esta eg. Terceira Turma negou provimento ao agravo interno nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo internofoi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+3. Agravo interno não provido(e-STJ, fl. 531).
+Nos primeiros embargos de declaração, LUZIAreiterouseu agravo em recurso especial, bem como sustentou, em resumo, que o acórdão embargado foi omisso porque
+ .. não havia a necessidade de a Embargante fazer menção expressa ao artigo de lei violado, pois foi adotada tese a respeito. Da mesma forma, com relação a inaplicabilidade da Súmula nº 7 do STJ, pois para se verificar que a r. Decisão contrariou ou negou vigência à lei federal ou deu interpretação divergente de outro tribunal a um mesmo dispositivo legal, não haveria a necessidade de uma reincursão no acervo fático probatório, mas sim, de se atribuir uma definição jurídica diversa aos fatos expressamente mencionados no acórdão do tribunal.
+ ..
+Assim sendo, ao contrário do entendimento contido no despacho denegatório, houve impugnação específica de todos os fundamentos contidos no despacho denegatório.
+ .. restou demonstrado nos autos a omissão apontada com relação a não aplicação na multa de litigância de má-fé, tendo em vista a sua previsão no Código de Processo Civil e, ainda, o não enquadramento do artigo 80 do CPC no caso em debate, já que não restou apurado nenhuma conduta de seus incisos(e-STJ, fls. 541/548).
+A impugnação foi apresentada (e-STJ, fls. 551/556).
+Esta eg. Terceira Turma rejeitou os embargos declaratórios em acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DONCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSOESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INTEGRATIVO REJEITADO.
+1. O presente recurso foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão embargado não foi omissoe, com clareza, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugnou os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+3. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhida os embargos de declaração, que têm nítido caráter infringente.
+4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+5. Diante da manifesta improcedência dos embargos, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta eg. Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual se aplica aos embargantes a multa do art. 1.026, § 2º, do NCPC, fixadaem 2% sobre o valor atualizado da causa.
+6. Embargos de declaração rejeitados, com aplicação de multa (e-STJ, fls. 560/561).
+Nas razões destessegundos embargos de declaração, LUZIA alegou que o julgado contém omissão porque(1)a multa imposta com fulcro no art. 1.026, § 2º, do NCPC não é cabível, uma vez que os primeiros aclaratórios foram opostos com o intuito de se aclarar "algumas lacunas"; e(2)não houve intuito protelatório na oposição dos primeiros embargos de declaração, considerando que a mera interposição do recurso cabível não traduz má-fé e não justifica a aplicação da multa(e-STJ, fls. 572/575).
+Houve impugnação ao recurso (e-STJ, fls. 578/582).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 3º, DO NCPC. EMBARGOS REJEITADOS, COM MAJORAÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que rejeitou os primeiros embargos de declaração.
+4. Em razão de a oposição dos segundos embargos de declaração constituir prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC, deve ser aplicada a multa prevista em seu art. 1.026, § 3º, no percentual de 3% sobre o valor atualizado da causa, observada a justiça gratuita.
+5. Embargos de declaração rejeitados, com majoração de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+A propósito, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+No mais, oacórdão embargado não foi obscuro, omisso ou contraditório,tampouco apresentou erromaterial, tendo concluído que, no caso, os primeiros embargos de declaração opostos foram rejeitadosporquenão se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugnou os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+Ficou destacado que LUZIAse limitoua alegar quepara se verificar que o acórdão contrariou ou negou vigência à lei federal ou deu interpretação divergente de outro tribunal a um mesmo dispositivo legal, não haveria a necessidade de uma reincursão no acervo fático probatório, mas sim, de se atribuir uma definição jurídica diversa aos fatos expressamente mencionados no acórdão do tribunal(e-STJ, fl. 465), sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Em suma, LUZIA manejou o agravo em recurso especial com inobservância do princípio da dialeticidade.
+Além do mais, ficou evidenciado que,não havendo que se falar sequer no conhecimento do agravo em recurso especial, por ausência de impugnação específica detodosos fundamentos da decisão recorrida (incidência da Súmula nº 7 do STJ), com incidência do art. 932, III, do NCPC, descabe, por consectário lógico, afirmar que houve omissão quantoa não aplicação na multa de litigância de má-fé, tendo em vista a sua previsão no Código de Processo Civil e, ainda, o não enquadramento do artigo 80 do CPC no caso em debate, já que não restou apurado nenhuma conduta de seus incisos(e-STJ, fls. 541/548).
+Por derradeiro, foi ressaltado que,diante da manifesta improcedência dos embargos, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta eg. Terceira Turma, ficou caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual foi aplicadaa LUZIAa multa do art. 1.026, § 2º, do NCPC, fixadaem 2% sobre o valor atualizado da causa.
+Agora, LUZIA, em seus segundos embargos de declaração, interpostos sob o pretexto de existir uma infundada omissão, buscou, em caráter manifestamente infringente, apenas a reforma do acórdão embargado para afastar a multa imposta, sem, contudo, apontar sequer algum dos vícios do art. 1.022 do NCPC.
+Logo, ao visar unicamente a reforma do acórdão embargado, LUZIA novamente impede a entrega definitiva da prestação jurisdicional, apresentando recurso manifestamente improcedente, por objetivar tão somente a rediscussão do julgado.
+Desse modo, a jurisprudência do STJ entende que a oposição dos segundos aclaratórios, pretendendo a rediscussão do julgado, em que não se apontou vícios, caracteriza o manifesto intuito protelatório, sendo correta a aplicação e/ou majoração da multa.
+Sobre o tema, vejam-seos precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE RECONSIDEROU DELIBERAÇÃO ANTERIOR E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDANTE.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento.
+Incidência da Súmula 211/STJ.
+1.1. Na hipótese, não fora alegada violação ao artigo 1.022 do CPC/15 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema 2. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre inexistência de ato ilícito e de dano moral indenizável, bem como acerca da não comprovação do alegado dano material. Incidência das Súmulas 5 e 7/STJ.
+3. A oposição de segundos declaratórios, pretendendo a rediscussão do julgado, e reiterando os vícios alegados nos primeiros, devidamente afastados, caracteriza o manifesto intuito protelatório, sendo correta a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015. Precedentes.
+4. Agravo interno de fls. 1130-1141 e-STJ desprovido.
+(AgInt nos EDcl nos EDcl no AgInt no AREsp 1.093.321/MG, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 26/10/2020, DJe 12/11/2020 - sem destaque no original)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado.
+2. A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do artigo 1.022 do estatuto processual civil de 2015.
+3. A impropriedade da alegação dos segundos embargos de declaração opostos com o escopo de rediscutir a suposta existência de vícios no julgado, enfrentados anteriormente nos primeiros embargos declaratórios, constitui prática processual abusiva e manifestamente protelatória, sujeita à aplicação da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil de 2015.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt no AREsp 1.610.240/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 19/10/2020, DJe 29/10/2020- sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO.
+REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS NÃO CONHECIDOS COM APLICAÇÃO DE MULTA.
+1. A ausência, no acórdão, de quaisquer dos vícios previstos no art.
+619 do Código de Processo Penal, torna inviável o acolhimento dos embargos declaratórios.
+2. A insistência do embargante, diante das sucessivas oposições de embargos de declaração contra acórdão impugnado, revela não só o exagerado inconformismo, bem como o desrespeito ao Poder Judiciário e o seu nítido caráter protelatório, constituindo abuso de direito, em razão da violação dos deveres de lealdade processual e comportamento ético no processo, bem como do desvirtuamento do próprio postulado da ampla defesa, circunstâncias que autorizam a imposição de multa.
+3. Embargos não conhecidos, com imposição de multa de 1% sobre o valor atualizado da causa.
+(EDcl nos EDcl no AgInt no RE no AgInt nos EDcl no RMS 51.602/PR, Rel. Ministro JORGE MUSSI, Corte Especial, j. 13/10/2020, DJe 21/10/2020- sem destaque no original)
+PROCESSUAL CIVIL. SEGUNDOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. AÇÃO REIVINDICATÓRIA. NECESSIDADE DE PRÉVIO CANCELAMENTO DE TÍTULO DE PROPRIEDADE APRESENTADO. VIOLAÇÃO AO ART. 252 DA LEI 6.015/1973. TESE NÃO PREQUESTIONADA. INVALIDADE DO TÍTULO DE PROPRIEDADE APRESENTADO. REVISÃO. SÚMULA 7/STJ. EMBARGOS REJEITADOS, COM APLICAÇÃO DE MULTA.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Nos termos da jurisprudência vigente no Superior Tribunal, consideram-se protelatórios os novos embargos de declaração opostos com objetivo de reexaminar argumentos já afastados em julgamento de anteriores aclaratórios.
+3. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl nos EDcl no AgInt no REsp 1.433.064/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 28/10/2019, DJe 5/11/2019- sem destaque no original)
+PROCESSUAL CIVIL (CPC/1973). SEGUNDOS EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. INOVAÇÃO RECURSAL. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. EMBARGOS DE DECLARAÇÃO REJEITADOS, COM APLICAÇÃO DE MULTA.
+(EDcl nos EDcl no REsp 1.552.434/GO, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 21/5/2019, DJe 23/5/2019)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, na medida em que a oposição dos segundos embargos de declaração constitui prática processual abusiva e protelatória, por ausência dos vícios previstos no art. 1.022 do NCPC, condeno LUZIAao pagamento da multa de 3% sobre o valor atualizado da causa em favor do BANRISUL, nos termos do art. 1.026, § 3º, do NCPC.
+Nessas condições, pelo meu voto,REJEITOos embargos de declaração, com majoração de multa, observada a justiça gratuita, se for o caso.
