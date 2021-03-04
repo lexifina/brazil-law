@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial de SILVANE SOARES DE CARVALHO MACEDO fundado nasalíneas "a" e "c" do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado de Tocantins, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MORAIS. SERVIDORA PÚBLICA. NÃO PAGAMENTO DE VERBAS SALARIAIS. DANO MORAL NÃO EVIDENCIADO. MULTA DO ART. 334, § 8º, CPC/2015. INAPLICABILIDADE. FATO NEGATIVO. ÔNUS DA PROVA. ART. 373, INCISO II, DO CPC/15. AUSÊNCIA DE COMPROVAÇÃO DO PAGAMENTO PELO MUNICÍPIO. AUSÊNCIA DE PRÉVIA DOTAÇÃO ORÇAMENTÁRIA. IRRELEVÂNCIA. AUSÊNCIA DE MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO. NULIDADE PROCESSUAL NÃO VERIFICADA. APELOS CONHECIDOS E IMPROVIDOS. SENTENÇA MANTIDA.
+1. O dano em razão do não pagamento de salário de servidor público, em não extrapolando a sua esfera patrimonial, não enseja indenização por danos morais.
+2. Incabível a aplicação da multa do art. 334, § 8º, do CPC/15, ante o não comparecimento injustificado do Município à audiência de conciliação, eis que se revela desnecessária, inclusive, sua designação, posto se tratar de direitos indisponíveis os quais, em regra, não admitem composição.
+3. No que tange ao ônus da prova, o art. 373, do CPC/15 estabelece que cabe ao autor o dever de provar o fato constitutivo do seu direito, e, em contrapartida, cabe ao réu comprovar a existência de fato impeditivo, modificativo ou extintivo do direito do autor. Neste passo, em se tratando de "fato negativo" alegado pelo autor, qual seja, a inexistência de pagamento de verbas salariais, o ônus da prova cabe ao réu, devendo este comprovar o adimplemento, sob pena de ser condenado a saldar o débito a ele imputado.
+4. In casu, ausente a prova de que foram pagos os salários dos meses de novembro e dezembro/2016 e do 13º (décimo terceiro) salário do mesmo ano, a procedência da pretensão é medida que se impõe.
+5. É irrelevante a alegação de impossibilidade do pagamento de verbas salariais a servidor público ou a ausência de dotação orçamentária, mormente em se tratando de obrigação de natureza alimentar.
+6. Dispensada a intervenção do Ministério Público na hipótese, por força do art. 178, do CPC/15. Demanda que versa sobre direito patrimonial individual disponível de pessoa física, maior, capaz, devidamente representada, que busca, via Ação Ordinária, o recebimento de verbas salariais e indenização.
+7. Recursos conhecidos e improvidos. Sentença mantida.
+No recurso especial, a parte recorrente aponta, além da divergência jurisprudencial, violação dosarts. 186 e 927 do Código Civil, aduzindo, em síntese,que".. aquele que por ação ou omissão violar direito e causar dano a outrem tem o dever de indenizar, pois cometeu ato ilícito" (fl 95 e-STJ).
+Não houve contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece prosperar.
+O Tribunal de origem, ao analisar a controvérsia, assentou que:
+O ordenamento jurídico apenas admite a configuração do dano moral quando restarem comprovados fatos capazes de lesar moralmente a pessoa, sendo imprescindível a comprovação do sofrimento, do abalo psíquico sofrido, não apenas pela perda pecuniária, mas também de modo a atingir o âmago do indivíduo, ferindo-lhe direito da personalidade, resultando em intensa dor, angústia ou humilhação, o que, adianto, não se verifica no caso concreto.
+No caso dos autos, ao contrário do que sustenta a primeira apelante, não há que se falar em dano moral in re ipsa. Apesar de ser inquestionável que a ausência de pagamento de salários e 13º (décimo terceiro) salário tenha lhe causado prejuízo material, tal violação, per si, não configura, necessariamente, dano moral passível de indenização.
+Ausente nos autos a demonstração da existência de dano de ordem extrapatrimonial à primeira apelante, tenho que o não recebimento das verbas remuneratórias configura, tão somente, prejuízo material, não havendo presunção absoluta de abalo moral.
+Dessa forma, em que pese as alegações de que não teria conseguido honrar com os seus compromissos financeiros, tendo que se socorrer com amigos, parentes e empréstimos financeiros, a apelante não trouxe ao feito qualquer indícios de tais fatos.
+Oportuno reiterar que é fato inegável os transtornos causados na economia da servidora pelo atraso ou não pagamento do salário, mas isso, por si só, não tem o condão de caracterizar o abalo moral, os efeitos na esfera extrapatrimonial, a autorizar a condenação do Município em indenização por dano moral.
+O acolhimento das proposições recursais, em detrimento da conclusão do Tribunal de origem quanto ao dano moral em questão,como insurgência que se funda na verificação das provas produzidas nos autos e sua valoração, demanda inafastável incursão no universo fático-probatório.
+Cediço é, porém, que não pode este Superior Tribunal de Justiça atuar como terceira instância revisora ou tribunal de apelação reiterada, a teor do verbete da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial" (cf. AgRg no REsp 1116290/SP, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 03/08/2010; AgRg no AREsp 436.034/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 16/12/2013).
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO.RETENÇÃO PARCIAL EM CONTA SALÁRIO. DANO MORAL NÃO CONFIGURADO.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1586812/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/06/2020, DJe 26/06/2020)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO.PARCELAMENTO DE SALÁRIOS. DANO MORAL. AUSÊNCIA DE COMPROVAÇÃO.REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO CONSTANTE DOS AUTOS. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. DIVERGINDO DO RELATOR, MINISTRO NAPOLEÃO NUNES MAIA FILHO.
+(AREsp 1340433/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 09/04/2019, DJe 11/04/2019)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DANOS MORAIS. SERVIDOR PÚBLICO MUNICIPAL. ATRASO NO PAGAMENTO DE APOSENTADORIA. DEVER DE INDENIZAR. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. A Corte local se baseou nos fatos e nas provas dos autos para concluir que o simples atraso salarial, no caso dos autos, não é suficiente para ensejar o dever de indenizar. Além disso, verificou que não houve comprovação do sofrimento de cunho psicológico, motivo pelo qual afastou a condenação do recorrido ao pagamento de danos morais.
+2. Rever o entendimento consignado pelo Tribunal de origem demanda revolvimento do conjunto fático-probatório, inadmissível na via estreita do Recurso Especial, ante o óbice da Súmula 7/STJ.
+ ..
+4. Recurso Especial não conhecido.
+(REsp 1.717.512/AL, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/5/2018)
+DIREITO ADMINISTRATIVO E DIREITO CIVIL. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. REMUNERAÇÃO. PAGAMENTO INFERIOR. DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 557, § 2º, DO CPC.
+1. Havendo o Tribunal de origem reconhecido a não ocorrência do alegado dano, não cabe ao Supremo Tribunal Federal reanalisar os fatos e provas constantes nos autos. Incidência da Súmula 279/STF.
+ ..
+4. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 557, § 2º, do CPC
+(AgRg no ARE 909.982/DF, Rel. Min. Roberto Barroso, Primeira Turma, DJe: 7/4/2016).
+Por fim, nas mesmas conclusões já firmadas, cito as seguintes decisões monocráticas proferidas nesta Corte Superior: AREsp n. 1.335.039/RS, Rel. Min. Gurgel de Faria, DJe: 18/9/2018; AREsp n. 1.314.460/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe: 6/8/2018; AREsp n. 1.341.121/RS, Rel. Min. Sérgio Kukina, DJe: 6/9/2018; AREsp n. 1.340.368/RS, Rel. Min. Sérgio Kukina, DJe: 6/9/2018.; AREsp n. 1.310.134/RS, Rel. Min. Benedito Gonçalves, DJe: 28/8/2018; AREsp n. 1.378.074/RS, Rel. Min. Benedito Gonçalves, DJe: 13/12/2018; REsp n. 1.781.136/RS, Rel. Min. Francisco Falcão, DJe: 13/2/2019; REsp n. 1.765.809/RS, Rel. Min. Herman Benjamin, DJe: 14/12/2018; AREsp n. 1.301.958/RS, Rel. Min. Og Fernandes, DJe: 8/6/2018; AREsp n. 1.305.606/RS, Rel. Min. Mauro Campbell Marques; DJe: 18/6/2018; AREsp n. 1.331.503/RS, Rel. Min. Mauro Campbell Marques, DJe: 13/8/2018; AREsp n. 1.330.227/RS, Rel. Min. Mauro Campbell Marques, DJe: 8/8/2018.
+Por fim, resta prejudicada a análise do dissídio jurisprudencial em virtude do óbice sumular aplicado à alínea "a" do permissivo constitucional.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. NÃO PAGAMENTO DE VERBAS SALARIAIS. INDENIZAÇÃO. DANOS MORAIS. AUSÊNCIA DE COMPROVAÇÃO. REVISÃO. IMPOSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
