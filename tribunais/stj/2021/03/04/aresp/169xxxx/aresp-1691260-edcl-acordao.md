@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da incidência da Súmula nº 282 do STF.
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem a este recurso, pode-se aferir que o BANCO SAFRA S.A. (BANCO) promoveu execução de título extrajudicial contra CVS ADMINISTRAÇÃO DE BENS E PARTICIPAÇÕES LTDA. (CVS), GEOSONDA S.A. (GEOSONDA) e RUYMAR DE MAGALHÕES SALIONI e CLOVIS SALIONI - ESPÓLIO (RUYMAR e outro), CLOVIS SALIONI JÚNIOR e PATRÍCIA VISNEVKI SALIONI (JÚNIOR e outra).
+No curso do processo, o d. Juízo, ao reconsiderar sua decisão, determinou o prosseguimento da execução, fixando a intimação do leiloeiro do juízo para nova tentativa de leilão dos imóveis penhorados (e-STJ, fl. 50).
+Essa interlocutória foi desafiada por agravo de instrumento, no qual RUYMAR e outro sustentaram a impenhorabilidade do imóvel por ser bem de família.
+O Tribunal de Justiça de São Paulonão proveu o recurso, nos termos do v. acórdão da Des. Fernando Sastre Redondo, assim ementado:
+EXECUÇÃO. Bem de família. Pretensão à produção de prova emprestada. Questão já decidida em recurso precedente. Preclusão. Reconhecimento. Notícia de falecimento de um dos executados. Inclusão do espólio no polo passivo. Citação da inventariante. Desnecessidade. Caso em que a inventariante já integra a relação processual. Prosseguimento da execução. Herança que responde pelas dívidas do de cujus até a conclusão da partilha. Decisão mantida. RECURSO NÃO PROVIDO, na parte conhecida (e-STJ, fl. 73).
+Inconformados, RUYMAR e outro interpuseram recurso especial, com base no art. 105, III, a, da CF, alegando violação dos arts. 75, 242 e 689 do NCPC.
+O apelo nobre não foi admitido em virtude da não demonstração da vulneração dos dispositivos arrolados.
+Seguiu-se o agravo em recurso especial, que, em decisão monocrática do Ministro Presidente do STJ, foi conhecido para não conhecer do recurso especial, em virtude da incidência da Súmula nº 211 do STJ.
+Ainda inconformados, RUYMAR e outro manejaram agravo interno, que não foi provido pela Terceira Turma desta Corte, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REPARAÇÃO DE DANOS. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A matéria referente aos arts. 75, VII, e 242 do NCPC não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia
+3. Agravo interno não provido (e-STJ, fl. 178 - com destaque no original).
+Nas razões dos presentes embargos de declaração, RUYMAR e outro, repisando os argumentos trazidos nas razões do agravo interno, alegaram (1) omissão, pois não se seguiram os precedentes invocados pelos embargantes nem foi demonstrada a existência de distinção da jurisprudência; e(2) que houve o prequestionamento implícito da matéria.
+Houve impugnação ao recurso (e-STJ, fls. 194/200).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno em virtude da incidência da Súmula nº 282 do STF.
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão recorrido não foi obscuro, omisso ou contraditório,tampouco apresentou erro material, tendo concluído pela incidência da Súmula nº 282 do STF.
+Ficou explicitado que os temas referentes a violação dos arts. 75, VII, e 242 do NCPC, quais sejam, serão representados em juízo, ativa e passivamente, o espólio pelo inventariante e a citação será pessoal, podendo, no entanto, ser feita na pessoa do representante legal ou do procurador do réu, do executado ou do interessado, no que concerne à necessidade do curso processual da ação de execução permanecer suspenso até a regular citação do espólio, não obstante a inventariante já integrar o polo passivo da presente ação, mas na condição de pessoa natural e não como representante do espólio, incidiria a Súmula nº 282 do STF.
+Salientou-seque não houve o indispensável debate prévio, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional. Inafastável a incidência da Súmula nº 282 do STF, por analogia, in verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ressaltou-se, que o v. acórdão proferido pelo Tribunal local se limitou a consignar que:
+A respeitável decisão, acertadamente, determinou o prosseguimento da execução, com a intimação do leiloeiro para nova tentativa de venda dos imóveis penhorados.
+Com efeito, a alegação de que o imóvel objeto da matrícula nº 88.448 do 4º Cartório de Registro de Imóveis de São Paulo é bem de família da impetrante Ruymar e, portanto, não pode ser alienado para satisfação do crédito perseguido na execução em que proferidas as decisões ora impugnadas (feito nº 1112182-44.2016.8.26.0100), já foi rejeitada por decisão proferida em 17/8/2017 (fls. 392/397 daqueles autos), confirmada pelo v. acórdão que negou provimento ao agravo de instrumento nº 2179113-84.2017.8.26.0000, cujo trânsito em julgado ocorreu em 25/2/2019.
+Nota-se, ademais, que a tese de que a matéria deveria ser reanalisada em virtude do que foi constatado e decidido no feito nº 1013751-48.2016.8.26.0011, foi rejeitada pelo juízo a quo em 24/1/2019 (fls. 933 dos autos originários), em decisão que, posteriormente, foi confirmada por esta C. 38ª Câmara de Direito Privado em sede de julgamento do recurso de agravo de instrumento nº 2036742-29.2019.8.26.0000.Logo, no que se refere o pedido para reconhecimento da impenhorabilidade do imóvel, fundada em alegação de que se trata de bem de família, não comporta conhecimento.
+Quanto ao mais, de fato, o espólio está regularmente representado nos autos por sua inventariante, a agravante Ruymar, inexistindo razão para determinar que esta última seja novamente citada.
+Evidente que, se "o comparecimento espontâneo do réu ou do executado supre a falta ou a nulidade da citação, fluindo a partir desta data o prazo para apresentação de contestação ou de embargos à execução" (art. 239, § 1º, do CPC), com muito mais razão, a prática de tal ato é dispensada quando endereçada a quem já integra a relação processual, como no caso.
+E, ante a regularização da representação processual do espólio, mediante intimação da agravante Ruymar para que o represente nos autos, de rigor o prosseguimento do feito, pois, nos termos do artigo 1.997 do Código Civil, "a herança responde pelo pagamento das dívidas do falecido" (e-STJ, fls. 74/75).
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, evidenciado o caráter manifestamente protelatório dos aclaratórios, uma vez verificado o não conhecimento do agravo interno e a rejeição dos presentes aclaratórios com pretensão de efeito infringente, postergando a efetividade da prestação jurisdicional, condeno RUYMAR e outro, proporcionalmente, ao pagamento da multa de 2% sobre o valor atualizado da causa, em favor do BANCO, nos termos do art. 1.026, § 2º, do NCPC, observada a suspensão da exigibilidade dos ônus sucumbenciais, a teor do art. 98, § 3º, do mesmo diploma legal.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração, com imposição da multa.
