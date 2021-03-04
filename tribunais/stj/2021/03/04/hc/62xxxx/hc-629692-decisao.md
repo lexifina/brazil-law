@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Daniel de Jesus Alves, apontando-se como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, que denegou o HC n. 0743371-06.2020.8.07.0000 (fl. 112):
+PROCESSO PENAL E PENAL.HOMICÍDIO. CONVERSÃO DA PRISÃOHABEAS CORPUSEM FLAGRANTE PARA PREVENTIVA DEVIDAMENTE FUNDAMENTADA. RISCOEVIDENTE À ORDEM PÚBLICA. NECESSIDADE DA PRISÃO. INSUFICIÊNCIA DEMEDIDAS CAUTELARES DIVERSAS DA PRISÃO.
+1. As condições pessoais do paciente, por si sós, não são aptas a afastar a custódia cautelar.
+2. O Supremo Tribunal Federal admite que, desde que "atendidos os requisitos do artigo 312 do Código de Processo Penal, a conversão de flagrante em preventiva independe de provocação do Estado-acusador ou da autoridade policial" (HC 174102/RS, Relator: Ministro Marco Aurélio. Julgamento: 18/02/2020.Publicação: 09/03/2020. Órgão Julgador: 1ª Turma).
+3. Ordem denegada.
+Narram os autos que o paciente foi preso em flagrante pela prática, em tese, do delito previsto no art. 121, § 2º, IV, do Código Penal.
+Alega a impetrante, em síntese, constrangimento ilegal decorrente da conversão do flagrante em prisão preventiva de ofício, sem manifestação do Ministério Público.
+A liminar foi deferida para revogar a prisão preventiva imposta ao paciente (fls. 134/136).
+Informações prestadas às fls. 145/149.
+O Ministério Público Federal manifestou-se nos termos da seguinte ementa (fls. 151/152):
+Habeas corpus impetrado como sucedâneo de recurso próprio. Homicídio qualificado (artigo 121 -§2º -IV). I - Conversão do flagrante em preventiva ex officio. Vício que não acarreta revogação da custódia, especialmente quando secundada por decisão posterior proferida com amparo em prévia manifestação do Parquet, estando presentes os requisitos exigidos para a referida medida cautelar. Ausência de ilegalidade manifesta, visto que a medida restou decretada segundo linha interpretativa idônea - inclusive chancelada pela Sexta Turma deste Superior Tribunal de Justiça. II - Descabimento de revogação automática de decisão amparada em interpretação distinta daquela proferida pela Segunda Turma do Supremo Tribunal Federal. Vício que, à semelhança da interpretação dada pela Suprema Corte em reclamações anteriores (27206, 27294, 27748, 29787 e31637) e quanto ao artigo 316 do Código de Processo Penal, não acarreta a revogação imediata da custódia, mas enseja a necessidade de renovação do ato na forma da lei. III - Sanidade dos fundamentos da prisão preventiva. Gravidade concreta do crime e fundado receio de reiteração delitiva: paciente reincidente, com extensa folha de antecedentes criminais.- Promoção pelo não conhecimento do writ, ou, caso conhecido, por que se determine a feitura da audiência de custódia no prazo de 24h, medianteprévia intimação do Ministério Público, a contar da ciência desta decisão.
+É o relatório.
+O presente writ perdeu seu objeto.
+Na hipótese, a medida liminar foi deferida para revogar a prisão preventiva imposta ao paciente, sem prejuízoda aplicação de medidas cautelarespelo Juiz do processo ou mesmo de novo decreto de prisão, desde que precedido de requerimento do Ministério Público nesse sentido (fl. 135). E, conforme informações de fls. 145/149, houve a superveniência de decretação da prisão preventiva do réu, inclusive, precedida de prévio requerimento do Ministério Público, o que constitui novo título e esvazia o objeto do presente habeas corpus.
+Em casos como o dos autos, o habeas corpus, segundo o entendimento que prevalece na jurisprudência do Superior Tribunal de Justiça e do Supremo Tribunal Federal, perde o objeto. Afinal, a prisão cautelar decorre de novo título judicial, de modo que prosseguir na análise deste feito implicaria inadmissível supressão de instância, pois a decisão não foi submetida à análise do Tribunal de origem.
+Ante o exposto, julgo prejudicado ohabeas corpus, cassando a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+HABEAS CORPUS.HOMICÍDIO QUALIFICADO. CONVERSÃO DO FLAGRANTE EM PRISÃO PREVENTIVA DE OFÍCIO. LIMINAR REVOGANDO A CONSTRIÇÃO CAUTELAR.SUPERVENIÊNCIA DE DECRETAÇÃO DA PRISÃO PREVENTIVA PRECEDIDA DE PRÉVIO REQUERIMENTO DO MINISTÉRIO PÚBLICO. NOVO TÍTULO. PERDA DO OBJETO.
+Habeas corpus prejudicado.Liminar cassada.
