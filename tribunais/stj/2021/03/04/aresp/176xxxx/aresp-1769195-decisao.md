@@ -1,0 +1,27 @@
+DECISÃO
+RICARDO POLACOW ZYLBERMAN e LEVI ZYLBERMAN (RICARDO e outro) ajuizaram ação de indenização por danos materiais contra ADRIANO ANDREANI VALENTE(ADRIANO), em decorrência de acidente de trânsito em rodovia, sem vítima.
+Em primeira instância, o pedido foi julgado parcialmente procedentepara condenar ADRIANO a pagaro valor da franquia, descontadas as quantias relativas aos apoios de cabeça, com atualização pela tabela do TJSP desde o desembolso e juros de mora de 1% ao mês a partir da citação. Diante da sucumbência recíproca, foi determinado quecada parte arcasse com as custas despendidas e metade das custas finais, além de honorários advocatícios fixados em 10% do valor da condenação, observada a gratuidade deferida a ADRIANO (e-STJ, fls. 256/259).
+A apelação interposta por RICARDO e outrofoi provida parcialmentepelo Tribunal Paulistanos termos do acórdão de relatoria do Des. VIANNA COTRIM, assim ementado:
+Acidente de trânsito - Ação indenizatória - Legitimidade ativa do autor Ricardo caracterizada - Materialidade do sinistro e culpa do réu incontroversas - Boletim policial concludente no tocante às avarias causadas aos protetores dos encostos de cabeça do veículo BMW - Reparação por danos materiais a ser arbitrada de acordo com o valor total consignado no orçamento de fls. 49/50, incluídos os gastos com os apoios de cabeça dianteiros - Ressarcimento por despesas com táxi indevido- Ação julgada parcialmente procedente- Sucumbência proporcional reconhecida - Apelo provido em parte (e-STJ, fl. 311)
+Os embargos de declaração opostos por ADRIANO foram rejeitados (e-STJ, fls. 327/333).
+Os embargos declaratórios opostos em duplicidade não foram conhecidos(e-STJ, fls. 329/342).
+Irresignado, ADRIANO interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação dos arts. 17, 373, I e 485,VI,489, I, do NCPC,art. 186 do CC e art. 93, IX,da CF, além de dissídio jurisprudencial,ao sustentar que (1) houve falha na fundamentação da decisão recorrida; (2) RICARDO não é parte legítima para figurar no polo ativo da demanda; e, (3) inexistiu qualquer documento capaz de demonstrar o dano (e-STJ, fls. 345/368)
+Foram apresentadas as contrarrazões (e-STJ, fls. 390/403).
+O apelo nobre não foi admitido em virtude da (1)ausência de ofensa ao art. 489, §1º, do NCPC; (2) falta de demonstração da alegada vulneração dos dispositivos arrolados; (3) ausência de comprovação do dissídio jurisprudencial nos moldes legais; (4) Incidência da Súmula nº 7 do STJ;e, (5)impossibilidade de apreciação de dispositivos constitucionais (e-STJ, fls. 404/408)
+Nas razões do presente agravo em recurso especial, ADRIANOafirmou que (1) o art. 489, §1º, do NCPC foi violado por não satisfazer os requisitos de fundamentação presentes no dispositivo de lei federal; (2) a ofensa aos dispositivos de lei federal foi exposta minuciosamente; (3) foi demonstrado de forma analítica o dissídio jurisprudencial; e, (4) a Súmula nº 7 do STJ é inaplicável ao caso(e-STJ, fls. 410/424).
+Foi apresentada contraminuta (e-STJ, fls. 428/433).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de impugnação aos fundamentos da decisão agravada
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra o fundamento da decisão agravada, pois ADRIANO não refutou, de forma arrazoada, a impossibilidade de apreciação dedispositivos constitucionais.
+E isso não fez porque somente mencionou o art. 93, IX, da CFnas razões do seu agravo em recurso especial, deixando de atacar, portanto, o fundamentoda decisão agravada. Ressalte-seque não basta repisar as razões contidas no especial sem infirmar, especificamente, todos os fundamentos da decisão agravada.
+Assim, como não houve a demonstração do adequado enfrentamento do fundamento de impossibilidade de apreciação de dispositivos constitucionais, o recurso não deve ser admitido.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo interposto.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor de RICARDO e outro, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ACIDENTE DE TRÂNSITO. RECURSO QUE NÃO INFIRMA O FUNDAMENTO DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
