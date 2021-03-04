@@ -1,0 +1,24 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pelo Instituto Nacional do Seguro Social - INSS, com amparo no art. 105, III, "a", da Constituição Federal, contra acórdão assim ementado (e-STJ, fl. 272):
+1. Verificados o nexo causal e a incapacidade laborativa parcial e permanente, de rigor a concessão de auxílio-acidente, no caso, a partir do dia seguinte da primeira alta médica. 2. O abono anual é devido por imposição legal. 3. A concessão de auxílio-doença pelo mesmo fato gerador determina a suspensão do auxílio-acidente durante a sua vigência. Inteligência do art. 104, § 6º, do Decreto nº 3.048/99. 4. Os juros de mora são devidos a partir da citação contados de forma englobada até então e, após, decrescentemente, mês a mês, conforme delineado no tema 810 do STF. 5. Nos termos do artigo 85, §§ 3º e 4º, II do CPC, os honorários serão fixados na liquidação da sentença, momento em que o respectivo juízo levará em consideração também a sucumbência recursal das partes, nos termos do art. 85, § 11 do CPC. 6. Não se aplica a limitação do cômputo dos honorários advocatícios às parcelas vencidas até a sentença. Inteligência do art. 85 do CPC. 7. A partir da edição da Lei nº 11.960/09, aplica-se o IPCA-E como índice de correção monetária, conforme definido no julgamento do TEMA 810 do STF (Leading Case RE. 870.947). 8. A autarquia é isenta de custas.
+Os embargos de declaração opostos foramrejeitados (e-STJ, fls. 291-294).
+O insurgente alega violação do disposto noart.927, IV, do CPC, sustentando, em síntese, que a decisão recorrida teria divergido da jurisprudência do STJ, ao afastar, quanto à fixação dos honorários advocatícios, a aplicação da Súmula 111/STJ.
+Pugna pelo "provimento do Recurso Especial para reconhecer a imposição do preceito contido na Súmula 111 do Superior Tribunal de Justiça, tendo em vista a afronta ao art. 927, inciso IV do diploma processual vigente, ocorrida no Tribunal de Justiça do Estado de São Paulo, com a consequente exclusão das parcelas vincendas após a sentença da base de cálculo da verba honorária "(e-STJ, fl. 331).
+Contrarrazões às e-STJ, fls. 348-354.
+É o relatório.
+A questão recursal gira em torno da base de cálculo para fixação dos honorários de advogado.
+No caso, oacórdão recorrido, ao decidir sobre o tema,não limitou a verba honorária até a data de prolação da sentença que reconheceu o direito do segurado, nos termos estabelecidos pela Súmula 111 do STJ.
+No ponto, o seguinte trecho do voto condutor do mencionado aresto (e-STJ, fl.277):
+A verba honorária deverá ser fixada na fase de liquidação, conforme disposto no artigo 85, §§ 3º e 4º, II do CPC, momento em que o respectivo juízo levará em consideração também a sucumbência recursal das partes, nos termos do art. 85, § 11 do CPC.
+No tocante à limitação da verba honorária sobre as parcelas vencidas até a sentença (Súmula 111 do STJ), não se identifica tal óbice no estatuto processual vigente.
+Contudo, tal posicionamento contraria aquele firmado por este Superior Tribunal, que entende quea verba honorária deveser fixada sobre as parcelas vencidas até a prolação da decisão concessiva do benefício, em consonância com o disposto na Súmula 111 do STJ.
+No ponto:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Conforme teor da Súmula 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser a decisão em que o direito do segurado foi reconhecido: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença".
+2. Na hipótese, o acórdão recorrido, que concedeu o direito à aposentadoria especial, deve ser considerado como termo final. Nesse sentido: AgRg no AREsp 271.963/AL, Rel. p/a. Acórdão, Min. Sérgio Kukina, Primeira Turma, DJe de 19/5/2014; EDcl no AgRg no REsp 1.271.734/RS, Rel. Min. Alderita Ramos de Oliveira (Desembargadora Convocada do TJ/PE), DJe de 18/4/2013; AgRg nos EDcl no AREsp 155.028/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/10/2012.
+3. Recurso Especial provido.
+(REsp 1.831.207/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/11/2019, DJe 19/12/2019.)
+Em idêntica direção, as seguintes decisõesmonocráticas de ambas as Turmas da Primeira Seção que deram provimento ao recurso especial do INSS em casos análogos:REsp 1.87.1341,Rel. Min.Gurgel de Faria, DJe1º/6/2020;REsp 1.884.087, Rel. Min. Benedito Gonçalves, DJe 12/8/2020;REsp 1.867.323/SP, Rel. Min. Francisco Falcão, 14/5/2020;REsp 1.864.990/SP, Rel. Min.Mauro Campbell Marques, DJe 13/5/2020; e REsp 1.864.988/SP,Rel. Min.Herman Benjamin, DJe 4/5/2020.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer a aplicação da Súmula 111 do STJ.
+Publique-se. Intimem-se.
