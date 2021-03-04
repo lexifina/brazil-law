@@ -1,0 +1,97 @@
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO INDIVIDUAL. CONDENAÇÃO GENÉRICA. LIQUIDAÇÃO.
+1. O cumprimento de sentença coletiva demanda fase prévia de liquidação. Precedentes.
+2. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: ISAURA MOREIRA DE FARIAS, JOSÉ FRANCISCO M. CAVALCANTI (ESPÓLIO, representado por CREUSA DE MORAIS CAVALCANTI) e MARIA GOMES DA SILVA RAMOS (sucessora de DIÓGENES DANTAS RAMOS), não contentes com a decisão por meio da qual dei provimento ao recurso especial interposto por BANCO DO BRASIL S.A., interpõem agravo interno.
+Alegam que o executado pôde alegar excesso de execução e ilegitimidade de parte na impugnação ao cumprimento de sentença.
+Afirmam que, por economia processual, a liquidação do título oriundo da ação civil pública é prescindível, entendimento que está de acordo com a jurisprudência do Superior Tribunal de Justiça (STJ).
+Ponderam que, no caso, a apuração do montante devido foi realizada pelo contador judicial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO INDIVIDUAL. CONDENAÇÃO GENÉRICA. LIQUIDAÇÃO.
+1. O cumprimento de sentença coletiva demanda fase prévia de liquidação. Precedentes.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Tributado o devido respeito aos argumentos dos agravantes, não me convenci da existência de equívoco na fundamentação da decisão recorrida, que está nestes termos redigida:
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+AGRAVO LEGAL NO AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. AUSÊNCIA DA NECESSIDADE DE PROVAR FATO NOVO. PRÉVIA LIQUIDAÇÃO. DESNECESSIDADE. RECURSO IMPROVIDO. 1. Inexistindo necessidade de provar-se fato novo na execução individual da sentença que determinou, em Ação Civil Pública, os índices a serem adotados na correção monetária dos saldos de caderneta de poupança, e sendo suficiente para a apuração do quantum debeatur a elaboração de simples cálculos aritméticos, não há que se falar em liquidação por artigos, mas da aplicação à espécie o comando do art. 475-B, do CPC; 2. A necessidade de verificação da titularidade da conta, bem corno o saldo credor à época do plano são dados que não implicam na necessidade de liquidação por artigos, posto serem de fácil apuração no início da execução de quantia certa efetivada por cálculo aritmético.
+3. Agravo Legal a que se nega provimento.
+Apreciando novamente a necessidade de prévia liquidação do título oriundo da ação civil pública, tema julgado pelo Superior Tribunal de Justiça (STJ) sob o regime de recurso repetitivo - Código de Processo Civil (CPC) de 1973, artigo 543-C, § 7º, inciso II -, o Colegiado originário proferiu acórdão assim ementado:
+RECURSO REPRESENTATIVO DE CONTROVÉRSIA. ACÓRDÃO DO AGRAVO INTERNO SUBMETIDO A REEXAME POR SUPOSTA DIVERGÊNCIA DA ORIENTAÇÃO ADOTADA PELO STJ NO RECURSO REPETITIVO (RESP 1.247.150/ PR). EXPURGOS INFLACIONÁRIOS. PRÉVIA LIQUIDAÇÃO. DESNECESSIDADE. MULTA DO ART. 475-J INAPLICABILIDADE. ACÓRDÃO CONFIRMADO. RECURSO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça, em entendimento repetitivo (REsp 1.247.150/PR - Tema 482), considera genéricas as sentenças prolatadas nas ações civis de caráter coletivo, porquanto estabelecem tão somente a responsabilidade do réu pelos danos causados. Contudo, o tema não se aplica ao caso concreto porque, ao se analisar o recurso representativo da controvérsia, conclui-se que o cerne da tese é a inaplicabilidade da multa do art. 475-J, do CPC, pois impossível ao devedor conhecer, de plano, do valor do débito.
+2. Acórdão confirmado.
+A parte recorrente alega que o acórdão recorrido contrariou os artigos 467, 468, 471 a 474, 475-A, 475-B, 475-E e 586 do CPC de 1973; o artigo 95 do Código de Defesa do Consumidor (CDC); os artigos 502, 503, 505 a 509, 513 e 783 do CPC de 2015.
+Acusa ofensa à coisa julgada.
+Afirma a necessidade de liquidação do título oriundo da ação civil pública.
+O Tribunal de origem entendeu desnecessária a liquidação por artigos, adotando a seguinte fundamentação:
+Por meio de decisão monocrática, o Agravo de Instrumento 421624-8 foi negado seguimento ao Agravo de Instrumento, mantendo a decisão interlocutória de primeiro grau que, nos autos da Ação de Execução por Título Judicial, em fase de Cumprimento de Sentença, não conheceu da Exceção de Pré-Executividade interposta pelo ora agravante.
+Trago à colação trechos relevantes da decisão monocrática de fls. 191/193, ora fustigada:
+"(..) Pois bem. O agravado é exequente de título judicial prolatado em ação coletiva referente aos expurgos inflacionários sobre os depósitos em caderneta de poupança, entendendo o Col. SUPERIOR TRIBUNAL DE JUSTIÇA, na espécie, que:
+"A sentença de procedência na ação coletiva tendo por causa de pedir danos referentes a direitos individuais homogêneos (art. 95 do CDC) será, em regra, genérica, dependendo, assim, de superveniente liquidação, não apenas para simples apuração do quantum debeatur, mas também para aferição da titularidade do crédito (art. 97 CDC)". (STJ, AgRg no AREsp 281.767/MS, Rel. Ministro LUÍS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/04/2013, Dje 05/04/2013)
+No caso, instruiu-se o feito com o resumo dos cálculos (fl. 83), a planilha de atualização da diferença da poupança (fls. 84/86) e provas de que eram titulares das contas poupança no período (fls. 42, 49 e 55), atendendo, assim, a previsão do art. 475-B, CPC. Inexistindo necessidade de provar-se fato novo e sendo suficiente para a apuração do quantum debeatur a elaboração de cálculos aritméticos, não há que se falar em liquidação por artigos, mas da aplicação à espécie o comando do art. 475-B, do CPC.
+Igualmente, o Col. SUPERIOR TRIBUNAL DE JUSTIÇA já expressou entendimento no sentido de que "diante das circunstâncias específicas do caso, a execução coletiva pode dispensar a prévia liquidação por artigos ou por arbitramento, podendo ser feita por simples cálculos, na forma da antiga redação do art. 604, CPC". (STJ, REsp 880385/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/09/2008, DJe 16/09/2008)
+Acerca da temática, já tive a oportunidade de me pronunciar recentemente, quando do julgamento da Apelação Cível 379564-2, conforme se extrai da ementa abaixo:
+"EMENTA: APELAÇÃO CÍVEL. AÇÃO DE CUMPRIMENTO DE SENTENÇA. EXPURGOS INFLACIONÁRIOS. EXTINÇÃO DA EXECUÇÃO POR NULIDADE. LIQUIDAÇÃO PRÉVIA. DESNECESSIDADE. SIMPLES CÁLCULO ARITMÉTICO. OBRIGAÇÃO DE PAGAR.
+1. Nos casos de execução individual da sentença que determinou, em Ação Civil Pública, os índices a serem adotados na correção monetária dos saldos de caderneta de poupança, é despiscienda a prévia liquidação por artigos do julgado, sendo suficiente o mero cálculo aritmético.
+2. A necessidade de verificação da titularidade da conta, bem como o saldo credor à época do plano são dados que não implicam na necessidade de liquidação por artigos, posto serem de fácil apuração no início da execução de quantia certa efetivada por cálculo aritmético.
+3. Apelação Provida. Decisão Unânime."
+(TJPE, Apelação Cível 379564-2, Relator Des. Stênio Neiva Coêlho, Órgão julgador: 1ª Câmara Cível, Data do Julgamento: 15/72/2015).
+No tocante à alegação de que a ausência de liquidação prévia traria danos irreparáveis ao Banco, tenho que não assiste razão ao agravante, uma vez que o magistrado de primeiro, acertadamente, dispôs na decisão fustigada que: "(..) apresentados os cálculos em cumprimento de sentença, e havendo discrepância pode o julgador buscar junto ao contador judicial os devidos acertos dos cálculos, é a previsão do § 3º, do art. 475-B, do CPC (..)".
+Ante do exposto, NEGO SEGUIMENTO ao Agravo de Instrumento, com fulcro no art. 557, do CPC, mantendo-se incólume a decisão agravada. Publique- se. Intimem-se. Cumpra-se. Recife, Des. Stênio Neiva Coêlho - Relator em Exercício Cumulativo"
+Tenho como inconsistentes os argumentos empreendidos pelo recorrente no presente recurso de Agravo. Atente-se que o mesmo não trouxe qualquer elemento novo capaz de ensejar nova discussão a respeito do tema.
+Com essas considerações, não resiste qualquer fato novo capaz de suplantar a decisão monocrática tomada por esta Relatoria. Sendo assim, meu voto é pelo improvimento do presente recurso de agravo, ratificando os termos do decisum ora impugnado.
+Nesse aspecto, o acórdão recorrido diverge da jurisprudência do STJ, para quem o cumprimento de sentença coletiva demanda fase prévia de liquidação com vistas à apuração não apenas do valor devido como também da titularidade do crédito pleiteado. Assim:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC)" (REsp 1.247.150/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe de 12/12/2011).
+2. Se há a necessidade de apurar a titularidade do crédito e o montante devido a título de condenação dos expurgos inflacionários, revela-se notório o devido respeito ao procedimento de prévia liquidação da sentença coletiva, nos temos do art. 475-A do CPC de 1973. Precedentes.
+3. Agravo regimental não provido.
+(AgRg no REsp 1580295/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 5/4/2016, DJe 14/4/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. NECESSIDADE DE LIQUIDAÇÃO DE CONDENAÇÃO GENÉRICA CONTIDA EM SENTENÇA COLETIVA. PRECEDENTES. CÁLCULOS COMPLEXOS. INVIABILIDADE DE REEXAME EM RECURSO ESPECIAL. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Na linha dos precedentes desta Corte, o cumprimento individual de sentença coletiva, no qual pleiteada a satisfação de interesses individuais homogêneos, demanda, necessariamente, fase prévia de liquidação com vistas à apuração não apenas do quantum debeatur (valor devido), como também da titularidade do crédito pleiteado (cui debeatur).
+(..)
+(AgInt no REsp 1606950/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 18/10/2016, DJe 28/10/2016)
+DIREITO PROCESSUAL. RECURSO REPRESENTATIVO DE CONTROVÉRSIA (ART. 543-C, CPC). DIREITOS METAINDIVIDUAIS. AÇÃO CIVIL PÚBLICA. APADECO X BANESTADO. EXPURGOS INFLACIONÁRIOS. ALCANCE SUBJETIVO DA SENTENÇA COLETIVA. LIMITAÇÃO AOS ASSOCIADOS. INVIABILIDADE. OFENSA À COISA JULGADA. MULTA PREVISTA NO ART. 475-J, CPC. NÃO INCIDÊNCIA.
+1. Para efeitos do art. 543-C do CPC:
+(..)
+1.2. A sentença genérica prolatada no âmbito da ação civil coletiva, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC). A condenação, pois, não se reveste de liquidez necessária ao cumprimento espontâneo do comando sentencial, não sendo aplicável a reprimenda prevista no art. 475-J do CPC.
+2. Recurso especial parcialmente provido.
+(REsp 1247150/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/10/2011, DJe 12/12/2011)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COLETIVA. EXECUÇÃO INDIVIDUAL. LIQUIDAÇÃO PRÉVIA. NECESSIDADE. DIVERGÊNCIA JURISPRUDÊNCIA. AUSÊNCIA DE SIMILITUDE. SÚMULAS Nº 7/STJ E 284/STF.
+1. É necessária a liquidação sentença coletiva proferida em ação civil pública pelo particular que pretende executá-la, oportunidade em que se provará tanto a sua qualidade de credor quanto o valor do seu crédito.
+(..)
+3. Agravo regimental não provido.
+(AgRg no AREsp 370.244/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/10/2015, DJe 23/10/2015)
+DIREITO PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1. "A sentença proferida em ação civil pública, por si, não confere ao vencido o atributo de devedor de "quantia certa ou já fixada em liquidação" (art. 475-J do CPC), porquanto, "em caso de procedência do pedido, a condenação será genérica", apenas "fixando a responsabilidade do réu pelos danos causados" (art. 95 do CDC)" (REsp 1247150/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/10/2011, DJe 12/12/2011).
+2. Agravo regimental não provido.
+(AgRg no AREsp 510.687/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 28/04/2015, DJe 05/05/2015)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IDEC. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. SENTENÇA. PRÉVIA LIQUIDAÇÃO. NECESSIDADE. RECURSO NÃO PROVIDO.
+1. De acordo com o entendimento desta Corte, é necessária a liquidação da sentença genérica proferida em ação civil pública para a definição da titularidade do crédito e do valor devido. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1593751/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2016, DJe 16/08/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO DE SENTENÇA. NECESSIDADE. REGULARIZAÇÃO DO PROCEDIMENTO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Há necessidade de prévia liquidação de sentença proferida na ação coletiva para apuração do an debeatur e do quantum debeatur, sob pena, inclusive, de indeferimento liminar do pedido de execução do título executivo judicial. Entendimento firmado no REsp n. 1.247.150/PR (art. 534-C do CPC/1973). É possível que instâncias ordinárias regularizem o vício formal, notadamente quando ausente qualquer prejuízo para a instituição financeira devedora.
+2. Agravo interno desprovido.
+(AgInt no AREsp 991.977/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/12/2016, DJe 03/02/2017)
+Merece reforma, portanto, o acórdão recorrido.
+Em face do exposto, dou provimento ao recurso para determinar a liquidação do título oriundo da ação civil pública.
+Essa motivação não merece reforma, pois está adequada à realidade do caso concreto e em harmonia com a orientação do Superior Tribunal de Justiça (STJ) quanto à matéria em debate nos autos.
+A jurisprudência do STJ está pacificada no sentido de que a sentença proferida em ação civil pública, dada sua generalidade, exige, para ser executada individualmente, a instauração de fase prévia de liquidação. Essa tese já foi assentada inclusive no julgamento de recurso repetitivo, conforme demonstrado na decisão ora agravada.
+Vale recordar, a propósito do tema, que é nula a execução desacompanhada de título líquido. Veja-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO. ALEGAÇÃO DE ILIQUIDEZ DO TÍTULO EXECUTIVO. NULIDADE DA EXECUÇÃO. SUSPENSÃO DA EXECUÇÃO. INVIABILIDADE. VIOLAÇÃO DIRETA DA LEI. RESP 1.001.655/DF, JULGADO NA SISTEMÁTICA DO 543-C, DO CPC. INAPLICABILIDADE. INEXISTÊNCIA DE VALOR INCONTROVERSO. EXTINÇÃO DA EXECUÇÃO. POSSIBILIDADE DE RENOVAÇÃO.
+1. A empresa agravante, executada para a cobrança de ISS, referente ao período de 07/85 a 07/1986, no valor de CR$ 488.155.113,03, opôs embargos do devedor e os teve julgados improcedentes, sendo condenada ao pagamento de honorários advocatícios de 10% sobre o valor da execução.
+2. Transitada em julgado a sentença, a Fazenda Municipal ajuizou a execução dos honorários, no valor de R$ 1.736.941,22, requerendo ainda a penhora de tantos bens quantos necessários para a satisfação da dívida, valor que a agravante afirma que deveria ser de apenas R$ 23.886,60, já considerando o valor atualizado da dívida executada na ação fiscal.
+3. Novos embargos à execução, ao fundamento de excesso e de iliquidez do título, vieram a ser acolhidos para reconhecer a nulidade originária do título executivo judicial e julgar extinta a execução dos honorários, decisão reformado pela Corte de origem.
+4. Entendeu o acórdão, mesmo reconhecendo a iliquidez do título exeqüendo, que a situação surgira depois do ajuizamento da execução, não justificando a extinção do processo, por ausência de título líquido, certo e exigível, senão a suspensão da execução dos honorários "até que sobrevenha a realização de perícia para apuração do quantum da execução perseguida..", invocando os termos do art. 265, IV, "b" - CPC, que não se aplica ao processo de execução, que, sob pena de nulidade, não prescinde de título executivo (judicial ou extrajudicial) certo, líquido e exigível.
+5. No REsp 1.001.655, julgado pelo rito do art. 543-C do CPC, a 1ª Seção decidiu que "A repetição do indébito que desconsidera a restituição de imposto de renda, supostamente não abatida do quantum exeqüendo, configura excesso de execução (art. 741, V, do CPC). Com efeito, incorre em excesso quando se pretende executar quantia superior àquela constante do título. Nesse sentido, é assente na doutrina que: "O excesso de execução (art. 741, 1.ª parte) está definido no art. 743. A primeira hipótese corresponde, efetivamente, ao significado da palavra excesso. "Há excesso de execução", diz o Código, "quando o credor pleiteia quantia superior à do título" (art. 743, I). Nesse caso, se a única alegação dos embargos foi essa, temos uma hipótese de embargos "parciais", de modo que de acordo com o art. 739, § 2º, o processo de execução poderá prosseguir quanto à parte não embargada".
+6. Não há no caso, todavia, parte incontroversa sobre a qual possa andar a execução. A exeqüente cobra R$ 1.736.941,22, montante que a agravante afirma que deveria ser de R$ 23.886,60, já considerando o valor atualizado da dívida executada na ação fiscal, valor também não reconhecido pela exeqüente.
+7. Embora a obrigação esteja definida no plano de existência (an debeatur), executou-se uma dívida sem o requisito do título da obrigação líquida e exigível (quantum debeatur). Não se conhece o correto valor do crédito exeqüendo, conforme já reconhecido pelo acórdão do TJ/SE quando do julgamento do Agravo de Instrumento n. 67/2002.
+8. O julgado, mesmo bem intencionado, violou de forma direta os preceitos dos arts. 586 ("A execução para cobrança de crédito fundar-se-á sempre em título de obrigação certa, líquida e exigível") e 618, I ("É nula a execução: I - se o título executivo extrajudicial não corresponder a obrigação certa, líquida e exigível (art. 586)") do CPC.
+9. Provimento do agravo regimental e, na sequência, do recurso especial. Extinção da execução, sem prejuízo da possibilidade da sua renovação, uma vez presente o requisito do título executivo líquido e exigível.
+(AgRg no REsp 1292923/SE, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 16/02/2016, DJe 22/02/2016)
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
