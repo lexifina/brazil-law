@@ -1,0 +1,24 @@
+D E C I S Ã O
+    Reputo correto o acórdão recorrido.
+    Trata-se de recurso extraordinário interposto, com fundamento em permissivo constitucional, em face de acórdão do Tribunal de Justiça do Estado do Ceará que concluiu que a recorrida, na condição de gestante, faz jus à percepção da indenização substitutiva em decorrência da estabilidade provisória, independentemente do regime jurídico de trabalho, persistindo o direito ainda que o contrato seja nulo.
+    Em suas razões recursais, o recorrente, em síntese, alega violação ao art. 37, IX, da Constituição da República, no sentido de que a anulação de contrato temporário não gera quaisquer efeitos jurídicos válidos em relação aos servidores contratados, com exceção do direito à percepção dos salários referente ao período trabalhado e ao levantamento dos depósitos efetuados no FGTS, de forma que a recorrida não faria jus à estabilidade provisória decorrente do estado gravídico.
+    De início, importante pontuar que, a respeito da matéria em causa, ambas as Turmas deste Supremo Tribunal Federal firmaram entendimento contrário ao pretendido pela parte ora recorrente. É o que se extrai dos seguintes julgados (com meus grifos):
+    “CONSTITUCIONAL. ADMINISTRATIVO. LICENÇA MATERNIDADE. MILITAR. ADMISSÃO EM CARÁTER TEMPORÁRIO. ESTABILIDADE PROVISÓRIA. POSSIBILIDADE. ISONOMIA. ART. 7º, XVIII, DA CONSTITUIÇÃO E ART. 10, II, b, DO ADCT. AGRAVO IMPROVIDO.
+    I – As servidoras públicas e empregadas gestantes, independentemente do regime jurídico de trabalho, têm direito à licença-maternidade de cento e vinte dias e à estabilidade provisória desde a confirmação da gravidez até cinco meses após o parto, conforme o art. 7º, XVIII, da Constituição e o art. 10, II, b, do ADCT.
+    II – Demonstrada a proteção constitucional às trabalhadoras em geral, prestigiando-se o princípio da isonomia, não há falar em diferenciação entre servidora pública civil e militar.
+    III - Agravo regimental improvido.”
+    (RE 597.989-AgR/PR, Ministro Ricardo Lewandowski)
+    “SERVIDORA PÚBLICA GESTANTE OCUPANTE DE CARGO EM COMISSÃO – ESTABILIDADE PROVISÓRIA (ADCT/88, ART. 10, II, “b”) – CONVENÇÃO OIT Nº 103/1952 – INCORPORAÇÃO FORMAL AO ORDENAMENTO POSITIVO BRASILEIRO (DECRETO Nº 58.821/66) - PROTEÇÃO À MATERNIDADE E AO NASCITURO – DESNECESSIDADE DE PRÉVIA COMUNICAÇÃO DO ESTADO DE GRAVIDEZ AO ÓRGÃO PÚBLICO COMPETENTE – RECURSO DE AGRAVO IMPROVIDO.
+    – O acesso da servidora pública e da trabalhadora gestantes à estabilidade provisória, que se qualifica como inderrogável garantia social de índole constitucional, supõe a mera confirmação objetiva do estado fisiológico de gravidez, independentemente, quanto a este, de sua prévia comunicação ao órgão estatal competente ou, quando for o caso, ao empregador. Doutrina. Precedentes.
+    – As gestantes – quer se trate de servidoras públicas, quer se cuide de trabalhadoras, qualquer que seja o regime jurídico a elas aplicável, não importando se de caráter administrativo ou de natureza contratual (CLT), mesmo aquelas ocupantes de cargo em comissão ou exercentes de função de confiança ou, ainda, as contratadas por prazo determinado, inclusive na hipótese prevista no inciso IX do art. 37 da Constituição, ou admitidas a título precário – têm direito público subjetivo à estabilidade provisória, desde a confirmação do estado fisiológico de gravidez até cinco (5) meses após o parto (ADCT, art. 10, II, “b”), e, também, à licença-maternidade de 120 dias (CF, art. 7º, XVIII, c/c o art. 39, § 3º), sendo-lhes preservada, em consequência, nesse período, a integridade do vínculo jurídico que as une à Administração Pública ou ao empregador, sem prejuízo da integral percepção do estipêndio funcional ou da remuneração laboral. Doutrina. Precedentes. Convenção OIT nº 103/1952.
+    – Se sobrevier, no entanto, em referido período, dispensa arbitrária ou sem justa causa de que resulte a extinção do vínculo jurídico-administrativo ou da relação contratual da gestante (servidora pública ou trabalhadora), assistir-lhe-á o direito a uma indenização correspondente aos valores que receberia até cinco (5) meses após o parto, caso inocorresse tal dispensa. Precedentes.”
+    (RE 634.093-AgR/DF, Ministro Celso de Mello)
+    Em casos fronteiriços, há – entre muitos outros –, os seguintes precedentes: ARE 696.332/PB, Ministro Dias Toffoli, RE 1.069.999/SP, Ministro Edson Fachin, RE 1.244.113/SE, Ministro Alexandre de Moraes.
+    O acórdão recorrido está em conformidade com o aludido entendimento.
+    Honorários advocatícios recursais
+    Ao amparo do § 11 do art. 85 do CPC, majoro em 1% (um por cento), a verba honorária fixada pelas instâncias de origem, observados os limites previstos nos §§ 2º e 3º.
+    Diante do exposto, com fundamento no inciso VIII do art. 932 do CPC c/c § 1º do art. 21 do RISTF, nego provimento ao recurso extraordinário.
+    Publique-se.
+    Brasília, 04 de março de 2021.
+Ministro NUNES MARQUES
+Relator
