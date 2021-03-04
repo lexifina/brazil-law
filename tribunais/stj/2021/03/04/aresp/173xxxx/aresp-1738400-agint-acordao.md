@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE REINTEGRAÇÃO DE POSSE CUMULADA COM CONDENATÓRIA EM PERDAS E DANOS. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+3. Agravo interno não provido.
+RELATÓRIO
+CAIXA ECONÔMICA FEDERAL (CAIXA) promoveu ação de reintegração de posse cumulada com condenatória em perdas e danos contra CRISTIAN EDWARD KOHL (CRISTIAN), objetivando a imissão na posse de unidade imobiliária negociada em contrato por instrumento particular de venda e compra de imóvel, mútuo e alienação fiduciária em garantia no Sistema Financeiro de Habitação (SFH), firmada, aos 7/3/2014, com a mutuária ROSIANE VIEIRA RUAS. Afirmou que a ex-mutuária inadimpliu as obrigações contratuais e legais. Explicou que a consolidação se deu aos 27/12/2016 após os devidos procedimentos. Alegou que CRISTIAN ocupa o imóvel regularmente. Requereu, assim, a procedência dos pedidos.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes para imitir/reintegrar a CAIXA no imóvel versado nos autos, tendo CRISTIAN sido condenado a pagar as cotas condominiais no período entre 6/2018 e 10/2018, além do IPTU no período entre 2/2017 a 12/2018. Na ocasião, CRISTIAN foi condenado ao pagamento das custas processuais e dos honorários advocatícios fixados em 10% sobre o valor atribuído à causa, observada a justiça gratuita.
+A apelação interposta por CRISTIAN não foi provida pelo Tribunal Regional Federal da 4ª Região, em acórdão assim ementado:
+ADMINISTRATIVO. CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. IMISSÃO NA POSSE. REGULARIDADE DO PROCEDIMENTO. REINTEGRAÇÃO/IMISSÃO DEFERIDA.
+O esbulho do imóvel restou demonstrado nos documentos acostados aos autos, e evidenciando-se que a CEF é proprietária da referida unidade imobiliária, há legitimidade para propor a ação de reintegração/imissão na posse do imóvel (e-STJ, fl. 452).
+Inconformado, CRISTIAN manejou recurso especial, com amparo no art. 105, III, alínea a, da CF, alegando ofensa aos arts. 1º e 9º da Lei nº 10.188/2001, 17, 75, XI, 337, XI, e 784, VIII, do NCPC. Sustentou que (1) integra população de baixa renda e, preenchidos os requisitos para o ingresso no programa de arrendamento residencial, deve ser mantida sua situação no imóvel, a fim de que não seja despejada uma família; (2) a CAIXA não detém legitimidade para promover a cobrança de débitos condominiais; e(3) ocorreu irregularidade na notificação, que permitiria purgar a mora.
+O apelo nobre interposto por CRISTIAN não foi admitido em virtude da incidência das Súmulas nºs 282 e 356 do STF e 7, 83 e 211 do STJ.
+Seguiu-se o agravo em recurso especial que, por decisão monocrática da relatoria do Ministro Presidente do STJ, foi conhecido para não conhecer do apelo nobre, com amparo no art. 21-E, V, RISTJ, por força da incidência das Súmulas nºs 282 e 356 do STF.
+Nas razões do presente agravo interno, CRISTIAN alegou que (1) foram violados os arts. 1º e 9º da Lei nº 10.188/2001, 17, 75, XI, 337, XI, e 784, VIII, do NCPC; (2) a propriedade arrendada deve cumprir sua função social; e(3) ocorreu o prequestionamento implícito.
+Não houve impugnação ao recurso (e-STJ, fl. 518).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE REINTEGRAÇÃO DE POSSE CUMULADA COM CONDENATÓRIA EM PERDAS E DANOS. TEMA NÃO DEBATIDO PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA Nº 282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A matéria referente ao enfrentamento de todos os argumentos deduzidos no processo não foi objeto de debate prévio nas instâncias de origem. Ausente, portanto, o devido prequestionamento nos termos da Súmula nº 282 do STF, aplicável por analogia.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, CRISTIAN insurgiu-se contra o aresto recorrido, alegando que foram ofendidos os arts.1º e 9º da Lei nº 10.188/2001, 17, 75, XI, 337, XI e 784, VIII, do NCPC.
+No entanto, de uma simples leitura do aresto recorrido, pode-se observar que os temas referentes aos arts.1º e 9º da Lei nº 10.188/2001, 17, 75, XI, 337, XI, e 784, VIII, do NCPC,que versam sobre a instituição do programa de arrendamento residencial para atendimento da necessidade de moradia da população de baixa renda, inadimplemento do arrendamento, prazo de notificação e configuração de esbulho, legitimidade para postular em juízo, representação em juízo do condomínio, ausência de legitimidade ou interesse recursale acerca da comprovação documental decorrente de aluguel de imóvel ou referente a outros encargos acessórios, não foram apreciados pelo acórdão rebatido, não tendo havido a oposição dos embargos de declaração.
+Com efeito, o Tribunal regional concluiu que CRISTIAN havido firmado contrato de locação com a antiga mutuária em momento posterior àconsolidação da propriedade em favor da CAIXA(e-STJ, fl. 457).
+Assim, não houve o indispensável debate prévio, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional.
+Inafastável, assim, a incidência da Súmula nº 282 do STF, por analogia, inverbis:É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A propósito, seguem os julgados:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO À SÚMULA. DISPOSIÇÃO QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. DISSÍDIO NOTÓRIO. AUSÊNCIA DE DEMONSTRAÇÃO DO COTEJO ANALÍTICO. OMISSÃO. INEXISTÊNCIA. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A análise do apelo especial fundado em alegado dissídio jurisprudencial deve ser demonstrado nos moldes exigidos pelos artigos 1.029, § 1º do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, o que não ocorreu no caso sob análise.
+2. "Não é possível a interposição do Recurso Especial sob a alegação de contrariedade a ato normativo secundário, tais como Resoluções, Portarias, Regimentos, Instruções Normativas e Circulares, bem como a Súmulas dos Tribunais, por não se equipararem ao conceito de lei federal" (REsp 1722614/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/04/2018, DJe 23/05/2018)  g.n. .
+3. A ausência de manifestação judicial a respeito da matéria trazida à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.494.832/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 18/2/2020, DJe 3/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMÓVEL. BEM DE FAMÍLIA. IMPENHORABILIDADE. ALTERAÇÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DISTRIBUIÇÃO DO ÔNUS DA PROVA FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem quanto à impenhorabilidade de imóvel bem de família demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior.
+2. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo acórdão recorrido, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.368.197/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+Assim, como CRISTIAN não demonstrouo equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial, por força da aplicação daSúmulanº282 do STF.
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
