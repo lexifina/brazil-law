@@ -1,0 +1,30 @@
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, a totalidade dos fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. Ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado pela Associação Nacional dos Contribuintes de Tributos desafiando decisão de fls. 692/696, por meio da qual se conheceu parcialmente do recurso especial e, na parte conhecida, negou-se-lhe provimento, sob os seguintes fundamentos: (I) inexistência de ofensa ao art. 535 do CPC/73; (II) natureza constitucional da controvérsia; (III) incidência da Súmula 284/STF, em virtude de deficiência na fundamentação do recurso no tocante à apontada ofensa aos arts. 1º, caput, e 21, parágrafo único, da Lei 12.016/2019; e (IV) o dissídio jurisprudencial não observou as exigências legais e regimentais, ante os óbices acima indicados.
+Os embargos declaratórios opostos foram rejeitados (fls. 720/721).
+A parte agravante sustenta que: (I) deixará de impugnar o fundamento quanto ao art. 535 do CPC/73, por assistir razão à decisão agravada; (II) a controvérsia não tem contornos constitucionais; (III) não se aplica a Súmula 284/STF, pois o reconhecimento da desnecessidade de juntada da lista de associados, prevista nos referidos dispositivos de lei federal e no art. 5º, LXX, "b", da Constituição Federal, levaria à conclusão de que a Associação teria legitimidade para impetrar o mandado de segurança coletivo.
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Aberta vista à parte agravada, transcorreu in albis o prazo para apresentação de impugnação (fl. 746).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, a totalidade dos fundamentos da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. Ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro Sérgio Kukina, DJe 21/02/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, REPDJe 4/10/2018).
+O entendimento jurisprudencial assim consolidado conta, também, com o aval da autorizada doutrina. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. Ed. Curitiba: Alteridade, 2015, p. 50).
+Pois bem, nas razões do agravo interno em exame, não se impugnou o fundamento segundo o qual dissídio jurisprudencial não observou as exigências legais e regimentais, ante os óbices acolhidos para o não conhecimento pela alínea "a" do permissivo constitucional. Nesse contexto, incide a Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
