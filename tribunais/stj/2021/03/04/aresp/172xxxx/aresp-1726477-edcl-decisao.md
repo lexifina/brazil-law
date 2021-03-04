@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Mercantil Nova Era Ltda, contra decisão de fls. 981/985, que negou provimento a seu agravo em recurso especial com base nos seguintes fundamentos:(I)incidência da Súmula 284/STF no que concerne à alíneabdo permissivo constitucional, porquanto a parte não apontou qual ato de governo local teria sido julgado válidoem face de lei federal;(II)aplicação da Súmula 284/STF com relação à suposta violação aos arts. 944, IV, e 1.022 do CPC/2015, uma vez que a parte não demonstrou de forma clara e precisa a maneira pela qual os referidos dispositivos foram malferidos;(III)existência de razões dissociadas (Súmula 284/STF)entre o acórdão recorrido e o apelo especial, no que concerne ao art. 166 do CTN;(IV)incidência da Súmula 211/STJ no que concerne ao argumento de que as vendas para a Zona Franca de Manaus são equiparadas exportações para efeitos fiscais; e(V)ausência de pertinência entre as teses de ofensa aos arts.13, § 1º, II, b, da LC 87/96; e 128 do CTN e as razões do acórdão recorrido, o que ensejou nova aplicação da Súmula 284/STF. O dissídio jurisprudencial foi tido por prejudicado.
+Sustenta a embargante, em resumo, obscuridade no julgado embargado uma vez que: (I) no que concerne à alegação de omissão, os dispositivos e argumentos não enfrentados pela instância de origem foram indicados na fundamentação do recurso especial;(II)nas razões do apelo nobre, restou demonstrado que "nos casos em que o substituto tributário não efetua o transporte, nem o engendra por sua conta e ordem, o valor do frete não deve ser incluído na base de cálculo do imposto" (fl. 990), devendo ser aplicados os precedentes do STJ pertinentes a essa situação; e(III)"desde que a mercadoria tenha destinatário final naZona Franca de Manaus, deve-se considerá-la equiparada, "para todos os efeitos fiscais" (art. 4º, caput, do DL 288/67), a uma exportação" (fl. 992).
+Requer o acolhimento dos presentes embargos para que sejam sanados os vícios apontados.
+Impugnação às fls. l.015/1.022.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignado no aresto hostilizado a impossibilidade de incursão no mérito da controvérsia em virtude dos seguintes fundamentos:(I) aplicação da Súmula 284/STF com relação à suposta violação aos arts. 944, IV, e 1.022 do CPC/2015, uma vez que a parte não demonstrou de forma clara e precisa a maneira pela qual os referidos dispositivos foram malferidos; (II) existência de razões dissociadas (Súmula 284/STF) entre o acórdão recorrido e o apelo especial, no que concerne ao art. 166 do CTN; (III) incidência da Súmula 211/STJ no que concerne ao argumento de que as vendas para a Zona Franca de Manaus são equiparadas exportações para efeitos fiscais; e (IV) ausência de pertinência entre as teses de ofensa aos arts. 13, § 1º, II, b, da LC 87/96; e 128 do CTN e as razões do acórdão recorrido, o que ensejou nova aplicação da Súmula 284/STF.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada obscuridade no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Em outras palavras, se a parte entende por indevida a aplicação dos mencionados óbices sumulares, deve expor sua irresignação pela via de agravo interno, não se confundindo a discordância da parte com a solução adotada com eventual omissão, obscuridade ou erro material no decisum.
+Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC/2015, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,
+destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária
+manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no
+mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se
+ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro Og Fernandes, Primeira Seção, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+Publique-se.
