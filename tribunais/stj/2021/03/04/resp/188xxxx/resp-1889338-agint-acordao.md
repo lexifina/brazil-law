@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. RECURSO MANEJADOSOB A ÉGIDE DO NCPC. PROVIMENTO JUDICIAL AGRAVADOQUE, EM OBSERVÂNCIA À COMPETÊNCIA INTERNA ESTABELECIDA NO REGIMENTO INTERNO DO STJ, ANULOU A DETERMINAÇÃO DE REDISTRIBUIÇÃO DO PROCESSO A OUTRA SEÇÃO. ATO ORDINATÓRIO. AUSÊNCIA DE CONTEÚDO DECISÓRIO.DESPACHO IRRECORRÍVEL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É irrecorrível o despacho que determina a redistribuição ou atribuição dos autos, considerando-se tratar-se de ato meramente ordinatório, bem como inexistir conteúdo decisório apto a causar gravame às partes (AgRg na Rcl 9.858/CE, Rel. Ministro FELIX FISCHER, Corte Especial, DJe de 25/4/2013).
+3. Agravo interno não conhecido.
+RELATÓRIO
+COMPANHIA DE ENERGIA DO MARANHÃO (CEMAR) ajuizou ação declaratória de direitos e obrigações cumulada com consignação em pagamento em desfavor de ELIOMAR DE SOUZA NOGUEIRA (ELIOMAR), buscando o reconhecimento, como únicos e corretos, dos métodos de apuração aplicados por ela na elaboração dos cálculos do quantum indenizatório relativo à incorporação de rede elétrica particular, construída em imóveis na zona rural dos Municípios de Fortaleza dos Nogueira/MA e Nova Colinas/MA.
+Cumulativamente, pediu autorização para consignação do valor apurado nos termos da lei, com fim de purgação da mora e sua liberação da obrigação quanto ao dever de pagar indenização pela incorporação de rede particular.
+Em ação reparatória por dano material cumulada com obrigação de não fazer reconhecida como conexa, ELIOMAR DE SOUZA NOGUEIRA (ELIOMAR) afirmou que, em 2003, instalou, com recurso próprio, 39 km (trinta e nove quilômetros) de redes elétricas trifásicas em zona rural, exclusivamente destinadas para uso próprio, atendendo fazendas de sua propriedade, todas no Município de Nova Colinas/MA.
+Em primeira instância, o pedido apresentado pela CEMARfoi julgado procedente para reconhecer como legais, corretos e suficientes ao pagamento os valores por ela apurados e depositados, liberando-a da obrigação pelo pagamento da indenização pela incorporação da citada linha de transmissão. Por conseguinte, foi determinada a expedição do competentealvará judicial para o levantamento do valor consignado nos autos, e seus acréscimos legais, em favor de ELIOMAR, para fins de ressarcimento pela incorporação da rede elétrica particular, nos termos da imposição da Resolução nº 299/2006. Por sua vez, opedido conexo formulado por ELIOMAR foi julgado parcialmente procedente para condenar a CEMAR a restituir o montante de R$ 236.449,95 (duzentos e trinta e seis mil, quatrocentos e quarenta e nove reais e noventa e cinco centavos), já consignados, correspondentes aos valores por ele despendidos para construção e instalação da rede elétrica, avaliados conforme a metologia de cálculo estabelecida pelo órgão regulador (Resolução nº 299/2006), reconhecidos como legítimos no bojo dos Autos nº 793-85.2012.8.10.0026.
+A apelação interposta por ELIOMAR não foi provida pelo Tribunal de Justiça do Maranhão, já o recurso da CEMAR foi provido, nos termos do acórdão assim ementado:
+INCORPORAÇÃO DE REDE PRIVADA DE ENERGIA ELÉTRICA PELO CONCESSIONÁRIO.AUSÊNCIA DE PROCESSO FORMAL. IRRELEVÂNCIA.DIREITO À INDENIZAÇÃO DO PARTICULAR. CRITÉRIOS PARA A APURAÇÃO DO QUANTUM DEBEATUR.
+1. Independentemente da existência de procedimento formal, já estando consumada a incorporação da rede de energia privada pela concessionária do serviço de distribuição de energia elétrica; remanesce ao particular apenas o direito de discutir o quantum indenizatório, tal como ocorre nas desapropriações indiretas. 2. Existindo regime jurídico específico a ser aplicado para a aferição da indenização em casos do jaez, conforme previsto no art. 9º da Resolução 229/2006 da ANEEL e art. 15 da*Lei 10.848/2004, é incabívela pretensão do particular de participar dos lucros decorrentes da exploração da rede de energia elétrica relativamente ao período em que a concessionária fez uso da rede privada de energia sem a prévia indenização, na medida em que o direito de ser remunerado pela prestação do serviço público é " exclusivo do concessionário. 3. Apelações conhecidas, com o improvimento da Primeira e provimento da Segunda. Maioria (e-STJ, fl. 654).
+Os embargos de declaração isolados opostos por CEMAR eELIOMAR foram rejeitados (e-STJ, fls. 676/679 e 719/723).
+Inconformado, ELIOMAR interpôs recurso especial com base no art. 105, III, a, da CF, alegando ofensa aos arts. 85, 86, 489, II e § 1º, IV, e 1022, I e II, do NCPC; 71 do Decreto nº 5.163/2004; 335, 402, 404, 884, 927, caput e parágrafo único, e 1228 do CC.
+Do mesmo modo, foi interposto recurso especial por LARA, PONTER & NERY ADVOGADOS, com fundamento no art. 105, III, a, da CF, sendo alegada a violação do art. 85, § 2º, do NCPC.
+O apelo nobre de ELIOMAR foi admitido pelo TJMA, já o de LARA, PONTER & NERY ADVOGADOS foi inadmitido.
+Seguiu-se o agravo em recurso especial interposto por LARA, PONTER & NERY ADVOGADOS.
+Em virtude da natureza da relação jurídica litigiosa, determinei a redistribuição do processo a um dos Ministros integrantes das Turmas que compõem a Primeira Seção desta Corte (e-STJ, fls. 1141/1148).
+A referida ordem foi anulada nos termos do provimento judicial de fls. 1194/1196 (e-STJ).
+Nas razões do presente agravo interno, EQUATORIAL MARANHÃO DISTRIBUITORA DE ENERGIA S.A. (EQUATORIAL), atual denominação da CEMAR, alegou que a matéria em exame é de competência da Primeira Seção.
+Foi apresentada impugnação (e-STJ, fls. 1223/1230).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. RECURSO MANEJADOSOB A ÉGIDE DO NCPC. PROVIMENTO JUDICIAL AGRAVADOQUE, EM OBSERVÂNCIA À COMPETÊNCIA INTERNA ESTABELECIDA NO REGIMENTO INTERNO DO STJ, ANULOU A DETERMINAÇÃO DE REDISTRIBUIÇÃO DO PROCESSO A OUTRA SEÇÃO. ATO ORDINATÓRIO. AUSÊNCIA DE CONTEÚDO DECISÓRIO.DESPACHO IRRECORRÍVEL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É irrecorrível o despacho que determina a redistribuição ou atribuição dos autos, considerando-se tratar-se de ato meramente ordinatório, bem como inexistir conteúdo decisório apto a causar gravame às partes (AgRg na Rcl 9.858/CE, Rel. Ministro FELIX FISCHER, Corte Especial, DJe de 25/4/2013).
+3. Agravo interno não conhecido.
+VOTO
+A irresignação não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra despacho publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Como já relatado, cuida o presente recurso de agravo interno interposto contra despacho de minha relatoria, em que foi anulada a redistribuição do processo a um dos Ministros integrantes das Turmas que compõem a Primeira Seção desta Corte.
+Nessa linha de intelecção, cumpre observar que éassente nesta Corte o entendimento no sentido de serirrecorrível o despacho que determina a redistribuição ou atribuição dos autos, haja vista tratar-se de ato meramente ordinatório bem como inexistir conteúdo decisório apto a causar gravame às partes (STJ, AgRg na Rcl 9.858/CE, Rel. Ministro FELIX FISCHER, Corte Especial, DJe de 25/4/2013).
+Mutatis mutandis, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESPACHO. PREVENÇÃO ACOLHIDA. IRRECORRIBILIDADE. PRECEDENTES.
+1. É irrecorrível o despacho que acolhe a prevenção, haja vista tratar-se de ato meramente ordinatório e inexistir conteúdo decisório apto a causar gravame às partes.
+2. Agravo regimental não conhecido.
+(AgRg no AREsp 519.715/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/2/2015 - sem destaque no original)
+AGRAVO REGIMENTAL. COMPETÊNCIA INTERNA. REDISTRIBUIÇÃO. ATO ORDINATÓRIO. AUSÊNCIA DE PREJUÍZO.
+1. "É irrecorrível o despacho que determina a redistribuição ou atribuição dos autos, haja vista tratar-se de ato meramente ordinatório bem como inexistir conteúdo decisório apto a causar gravame às partes" (STJ, AgRg na Rcl 9.858/CE, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe de 25/4/2013).
+2. Agravo regimental não conhecido.
+(AgRg no Ag 1.160.555/BA, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 6/11/2013 - sem destaque no original)
+Nessas condições, pelo meu voto, NÃO CONHEÇO do agravo interno.
+Por oportuno, previno as partes que a interposição de recurso contra esse acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar as penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
