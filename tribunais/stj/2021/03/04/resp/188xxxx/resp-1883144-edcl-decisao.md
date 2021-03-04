@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face dadecisão de fls. 2641/2650, em que neguei provimento ao recurso especial.
+Ao contrário do que decidido na decisão hostilizada, alega o embargante que considerar que os crimes de tráfico de armas e de comércio ilegal de armas são de espécies distintas é uma interpretação demasiadamente restritiva que revela falha de fundamentação.
+Afirmaque tais delitos são damesma espécie e protegem os mesmos bens jurídicos.Assim, pretende que, a partir desse entendimento, seja aplicada tão somente a regra do crime continuado, na medida em que, segundo a jurisprudência do STJ, havendo concurso formal entre doisdelitos cometidos em continuidade delitiva somente incidirá um aumento de pena, qual seja, a relativa ao crime continuado.
+Impugnação apresentada às fls. 2661/2665.
+É o relatório.
+DECIDO.
+A decisão embargada, na parte que interessa ao deslinde da controvérsia, foi proferida nos seguintes termos (fls. 2648/2650):
+ ..
+Assevera, ainda, o recorrente que a aplicação cumulativa do concurso formal e da continuidade delitiva importa em dupla punição, e que, tratando-se de duas infrações praticadas em continuidade delitiva, deve incidir apenas um aumento na fração de 1/6.
+Acerca do assunto, o Tribunal a quo assim referiu (fls. 2542/2544):
+2.3. Continuidade delitiva entre os Fatos 02 e 03
+Conforme já exposto no item "III.3.4", no que tange ao comércio ilegal, os Fatos 02 e 03 foram praticados em continuidade delitiva, nos termos do art. 71 do CP:
+Art. 71 - Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes da mesma espécie e, pelas condições de tempo, lugar, maneira de execução e outras semelhantes, devem os subsequentes ser havidos como continuação do primeiro, aplica-se-lhe a pena de um só dos crimes, se idênticas, ou a mais grave, se diversas, aumentada, em qualquer caso, de um sexto a dois terços. (Redação dada pela Lei nº 7.209, de 11.7.1984)
+A propósito, entendo perfeitamente possível a aplicação cumulativa do aumento de pena relativo ao crime formal (Fato 02 - arts. 17 e 18) com o aumento de pena referente à continuidade delitiva (Fatos 02 e 03 - art. 17).
+Explico.
+É verdade que a Corte Superior tem o entendimento de que a majoração da pena pelo concurso formal, em concomitância com o aumento decorrente do crime continuado, configura indevido bis in idem. Contudo, aprofundando a origem desse regramento, é possível concluir que ele não deve ser aplicado de forma indiscriminada, mas apenas em algumas situações específicas.
+Com efeito, essa orientação surgiu inicialmente nos crimes de roubo. Em tais hipóteses, tinha-se, por exemplo, o cometimento de roubo contra duas vítimas diversas (portanto, praticados em concurso formal) e, a seguir, a prática do mesmo crime contra uma terceira vítima (em continuidade delitiva com o anterior). Nesse casos, o STJ passou a apontar que, se o concurso formal se estabelece entre dois delitos componentes da continuação, não é possível reconhecer as duas causas de aumento. Em verdade, o que se teria seriam três condutas (no exemplo citado), fazendo parte de um mesmo elo de continuidade delitiva, de modo que deveria ser reconhecida apenas a continuação entre todos os atos, afastando-se a exasperação decorrente do concurso formal. Nesse sentido:
+ ..
+Entretanto, o mesmo não ocorre nas hipóteses em que um dos crimes que integra o concurso formal não compõe o nexo de continuidade delitiva dos demais - ou seja, sendo ele de espécie diversa, tutelando bem jurídico diferente, etc. Nessas circunstâncias, é perfeitamente pertinente a concomitância das figuras do crime formal e do crime continuado. Nessa linha, veja-se:
+ ..
+No mesmo sentido, veja-se, ainda: STJ, AgRg no AREsp 1380061/GO, Rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe 01/02/2019; STJ, HC 165.224/DF, Rel. MinistroNefi Cordeiro, Sexta Turma, julgado em 25/08/2015, DJe 15/09/2015.
+Na hipótese dos autos, o crime continuado se observou entre os delitos de comércio ilegal de arma de fogo (art. 17 da Lei nº 10.826/2003), ao passo que o concurso formal se verificou entre uma dessas condutas e o crime de tráfico internacional de arma de fogo (art. 18 da Lei nº 10.826/2003). Assim, o crime que permitiu a caracterização do concurso formal (art. 18) não integra o nexo de continuidade das demais condutas, visto que se trata de espécies diversas e que, inclusive, não tutelam exatamente os mesmos bens jurídicos.
+Logo, trata-se de situação em que a jurisprudência permite a coexistência das duas figuras.
+Dessa feita, nessa caso, não constitui bis in idem a aplicação simultânea das causas de aumento decorrentes do concurso formal e do crime continuado.
+Não se olvida que, nos termos da jurisprudência desta Corte, em sintonia com a do STF, havendo concurso formal entre dois delitos cometidos em continuidade delitiva, somente incidirá um aumento de pena, qual seja, a relativa ao crime continuado.
+Todavia, tal regra não tem aplicabilidade nas hipóteses em que um dos crimes não faça parte do nexo da continuidade delitiva do outro delito, cometidos em concurso formal, exatamente como se verifica, na espécie, em que o delito de tráfico internacional de armas e munições - de espécie diversa, inclusive - não integra a continuidade delitiva relativa ao outro delito - de comércio ilegal.
+A propósito, o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE FURTO EM CONTINUIDADE DELITIVA (ART. 71 DO CÓDIGO PENAL - CP). CONCURSO FORMAL (ART. 71 DO CP) COM O DELITO DE CORRUPÇÃO DE MENORES. CUMULAÇÃO DE AUMENTOS. DELITO DE CORRUPÇÃO DE MENORES NÃO INTEGRANTE DO NEXO DE CONTINUIDADE DELITIVA DOS DEMAIS DELITOS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR DUAS RESTRITIVAS DE DIREITOS. PENA SUPERIOR A 1 ANO. DISCRICIONARIEDADE DO JULGADOR. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, em sintonia com a do STF, havendo concurso formal entre dois delitos cometidos em continuidade delitiva, somente incidirá um aumento de pena, qual seja, a relativa ao crime continuado. Todavia, tal regra não tem aplicabilidade nas hipóteses em que um dos crimes não faça parte do nexo da continuidade delitiva do outro delito, embora cometidos em concurso formal, tal como ocorre com o delito de corrupção de menores - de espécie diversa -, o qual não integra a continuidade delitiva relativa ao outro delito - de roubo majorado. (HC 165.224/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/8/2015, DJe 15/9/2015)
+2. Esta Corte tem entendido que fixada a pena corporal em patamar superior a 1 ano, compete ao julgador a escolha do modo de aplicação da benesse legal prevista no art. 44, § 2º, segunda parte, do Código Penal. Precedentes.
+Dessa forma, observada a discricionariedade do julgador e o respeito aos parâmetros legais, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+3. Agravo regimental desprovido.
+(AgRg no HC 396946 / SC, AGRAVO REGIMENTAL NO HABEAS CORPUS 2017/0090100-6, Relator(a) Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, Datado Julgamento: 05/02/2019, Data da Publicação/Fonte: DJe 14/02/2019)
+Assim, nos termos da jurisprudência desta Corte, não há óbice à aplicação simultânea das causas de aumento decorrentes do concurso formal e do crime continuado no caso em tela. Incide, pois, a Súmula 83/STJ.
+Consoante já assinalado na decisão impugnada, operou-se a continuidade delitiva entre os crimes de comércio ilegal de arma de fogo e o concurso formal se deu entre um desses delitos e o crime de tráfico internacional de arma de fogo.
+Assim, reitero o entendimento de que não há como reconhecer a continuidade delitiva entre todos os delitos, pois o crime de tráfico internacional de arma de fogo (art. 18 da Lei 10.826/03) é de espécie distinta dos crimes de comércio ilegal de arma de fogo (art. 17 da Lei 10.826/03), o que, inclusive, facilmente se constata pelo fato de que estão previstos em tipos penais distintos,não tutelando, portanto,os mesmos bens jurídicos.
+Nestes termos, assinalo mais uma vez que, no presente caso, certa é a aplicação simultâneado concurso formal e do crime continuado, sem que se constate o vedado bis in idem.
+Por fim, assinalo queos embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do Código de Processo Penal - ambiguidade, obscuridade, contradição ou omissão - hipóteses, como visto, inexistentes no julgado embargado.
+Observa-se, portanto, que o embargante pretende apenas a rediscussão da matéria, visando alterar a conclusão que lhe resultou desfavorável, o que é incabível na via eleita.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
