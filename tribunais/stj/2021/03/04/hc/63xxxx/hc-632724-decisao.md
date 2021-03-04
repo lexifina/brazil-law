@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de THUANY MYCHELLY MARIANOcontra decisão do Tribunal de Justiça do Estado de Santa Catarina proferido na Apelação Criminal n. 0000257-53.2018.8.24.0033.
+Infere-se dos autos que a paciente foi condenada, em primeirograu, a 2 anos e 6 meses de reclusão, em regime aberto, substituída a pena por restritiva de direitos, por infração ao art. 33, § 4º, da Lei n. 11.343/06 (tráfico de drogas).
+O Tribunala quonegou provimento à apelação defensiva, em acórdão assim ementado:
+"APELAÇÃO CRIMINAL. CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/06). SENTENÇA CONDENATÓRIA. RECURSO DEFENSIVO.
+DOSIMETRIA. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO §4º DO ART. 33 DA LEI N. 11.343/2006 FIXADA EM 1/2 (UM MEIO).PRETENSA ALTERAÇÃO PARA O PATAMAR MÁXIMO DE 2/3 (DOIS TERÇOS). NÃO ACOLHIMENTO. QUANTIDADE E NATUREZA DO ENTORPECENTE APREENDIDO QUE RECOMENDAM A APLICAÇÃO DA FRAÇÃO DE 1/2 (UM MEIO). ADEMAIS, OBSERVÂNCIA À DISCRICIONARIEDADE DA SENTENCIANTE. PRECEDENTES DESTA CORTE. REPRIMENDA IRRETOCÁVEL.
+SEGUNDA FASE DA PENA. PRETENSO RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA.PLEITOPREJUDICADO.CIRCUNSTÂNCIA JÁ ADOTADA SENTENCIALMENTE EM FAVOR DA CONDENADA. AUSÊNCIA DE INTERESSE RECURSAL. ADEMAIS, INVIABILIDADE DA REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL.EXEGESE DA SÚMULA 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO" (fl. 70).
+No presente mandamus, a defesa sustenta, em síntese, que não foi apresentada fundamentação idônea para a aplicação da minorante do § 4º do art. 33 da referida Lei em patamar inferior ao máximo (1/2).Aduz não ser"possível a utilização dissociada dos elementos atinentes à natureza e à quantidade dos entorpecentes apreendidos"(fl. 7).
+Requer, assim, a redução da pena.
+Indeferido o pedido de liminar e dispensadas as informações, o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 393/396).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Conforme relatado, a impetrante aduz que apenas a quantidade da droga não pode impedira aplicação da fração máxima do redutor previsto no art. 33, § 4º, da Lei n. 11.343/06.
+No caso, apaciente tinha em depósito aproximadamente 1kg de maconha, razão pela qual foi presa em flagrante, denunciada e condenada por tráfico de drogas.
+O Juiz sentenciante aplicou a redutora em questão à fração de 1/2, tendo em vistaa quantidade das drogas apreendidas. O Tribunal a quo ratificou a sentença, conforme se verifica dos seguintes trechos:
+Sentença:
+" ..
+Na terceira fase da dosimetria, reconhecendo a incidência da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.11.343/2006, minoro a pena em 1/2, haja vista a quantidade da droga apreendida (967,6g  17,8g  6,4g de maconha - pp. 45-47), tornando-a definitiva em 2 anos e 6 meses de reclusão e 250 dias-multa." (fl. 28).
+Acórdão:
+" ..
+Já na terceira fase, vislumbra-se que a magistrada singular aplicou a causa especial de diminuição prevista no §4º do art. 33 da Lei n. 11.343/06 em 1/2 (um meio), em face da quantidade do entorpecente apreendido.
+Isso porque, no caso em análise, foram apreendidos na residência da acusada 1 (um) torrão grande, 2 (duas porções médias) e 1 (uma) porção pequena de maconha, totalizando aproximadamente 1kg (um quilo) da substância entorpecente, conforme auto de exibição e apreensão (evento 1 - doc. 16) e, Laudo Pericial de evento 21, dos autos.
+E em situações como esta, leia-se em que a quantidade do entorpecente somada às circunstâncias da apreensão transparecem maior gravidade do crime, mostrando-se inviável a aplicação do benefício anotado no art. 33, §4º, da Lei n.11.343/06 em seu grau máximo.
+Nesse ponto, a contrario sensu do alegado pela defesa, o Pleno do Supremo Tribunal Federal, em sessão realizada no dia 19.12.2013, ao julgar os processos de Habeas Corpus de números 112.776 e 109.193, ambos de relatoria do Min. Teori Zavaski, assentou o entendimento de que na condenação por trá co de entorpecentes a natureza e quantidade da droga apreendida somente poderá ser levada em consideração em uma das fases dosimétricas, inexistindo óbice, todavia, que estas circunstâncias sejam consideradas, alternativamente, na primeira (pena-base prevista nos art. 42 da Lei n.11.343/06 combinado com o art. 59 do Código Penal) ou terceira fase da dosimetria ( xação de causa especial de redução de pena prevista no §4º, do art. 33, da Lei n.11.343/06).
+E como visto, no caso dos autos, a magistrada singular agiu com acerto, quando, na terceira fase dosimétrica, considerou a quantidade da droga apreendida, para então inviabilizar a fixação do quantum maior de diminuição." (fl. 66).
+O tráfico ilícito de drogas é classificado como delito de perigo abstrato, isto é, não depende de efetiva lesão ao bem jurídico tutelado pela norma - saúde pública. Quanto maior a quantidade ou mais forte for a droga, maior será o perigo.
+Sendo assim, de acordo como disposto no art. 42 da Lei n. 11.343/06 ecom a jurisprudência desta Corte, a expressiva quantidade da droga, por si só, pode justificar a aplicação do § 4º em fração inferior a 2/3. Se a natureza também possuir maior poder deletério, a redução deveraser menor.
+Confira-se, a propósito, precedentes referentes à casos semelhantes ao dos autos:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA (§ 4º DO ART. 33 DA LEI N. 11.343/06). QUANTUM DE REDUÇÃO. FRAÇÃO MÍNIMA (1/6). POSSIBILIDADE. CIRCUNSTÂNCIAS DA PRISÃO EM FLAGRANTE. NATUREZA E QUANTIDADE DA DROGA. FUNDAMENTAÇÃO IDÔNEA. ART. 42 DA LEI N. 11.343/06. REGIME INICIAL FECHADO. POSSIBILIDADE. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS DE RECLUSÃO. FUNDAMENTAÇÃO IDÔNEA. PENA-BASE ACIMA DO MÍNIMO LEGAL. GRAVIDADE CONCRETA DO DELITO. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. PLEITO PREJUDICADO. DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR PARA ALTERAÇÃO DO REGIME INICIAL. AUSÊNCIA DE INFORMAÇÕES SUFICIENTES NOS AUTOS PARA CARACTERIZAÇÃO DO CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+2. O art. 42 da Lei n. 11.343/2006 é expresso ao afirmar: o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto.
+Na hipótese, a Corte estadual destacou a quantidade de droga apreendida (um tablete de maconha com peso de 188,42g com o paciente Renan Augusto e dois tabletes de maconha pesando 108,31g com o paciente Jhonson), para justificar a aplicação da fração da minorante no mínimo, entendimento que está em consonância com esta Corte Superior.
+(..)
+7. Habeas corpus não conhecido.
+(HC 478.730/SP, de minha Relatoria, QUINTA TURMA, DJe 14/2/2019).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. MINORANTE. POSSIBILIDADE DE INCIDÊNCIA NA FRAÇÃO DE 1/2 (METADE) EM RAZÃO DA QUANTIDADE DE DROGA APREENDIDA (488,1G DE MACONHA). READEQUAÇÃO DA PENA DEFINITIVA COM O ABRANDAMENTO DO REGIME PARA O ABERTO E A SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. De acordo com o aludido art. 33, § 4º, da Lei de Drogas, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja, cumulativamente, primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa.
+2. No caso em apreço, a despeito da quantidade de droga apreendida - 488,1g (quatrocentos e oitenta e oito gramas e um decigrama) de maconha -, o réu faz jus à concessão da minorante na fração de 1/2 (metade), uma vez que é primário e não tem antecedentes desabonadores, além de não haver nos autos informações concretas dando conta de que ele, de forma habitual, se dedicava a atividades criminosas ou integrava organizações dessa natureza.
+3. Diante do novo quantum da sanção definitiva - 2 (dois) anos e 6 (seis) meses de reclusão -, fixada a pena-base no mínimo legal e concedido o redutor, ainda que em patamar aquém do máximo, o regime prisional foi alterado para o aberto e a pena privativa de liberdade foi substituída por restritivas de direitos, nos moldes do art. 44 do Código Penal.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 619.537/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 09/02/2021, DJe 18/02/2021).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
