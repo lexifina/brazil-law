@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fls. 345346):
+PREVIDENCIÁRIO.ATIVIDADE ESPECIAL. AGENTES NOCIVOS RUÍDOE HIDROCARBONETOS. HABITUALIDADE E PERMANÊNCIA. EPIS.APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO.TERMO INICIAL. CORREÇÃO MONETÁRIA E JUROS DE MORA.
+1. O reconhecimento da especialidade e o enquadramento da atividade exercida sob condições nocivas são disciplinados pela lei em vigor à época em que efetivamente exercidos, passando a integrar, como direito adquirido, o patrimônio jurídico do trabalhador.
+2. Até 28-04-1995 é admissível o reconhecimento da especialidade por categoria profissional ou por sujeição a agentes nocivos, admitindo-se qualquer meio de prova (exceto para ruído e calor); a partir de 29-04-1995 não mais é possível o enquadramento por categoria profissional, sendo necessária a comprovação da exposição do segurado a agentes nocivos por qualquer meio de prova até 05-03-1997 e, a partir de então, através de formulário embasado em laudo técnico, ou por meio de perícia técnica.
+3. A exposição a hidrocarbonetos aromáticos e a ruído em níveis superiores aos limites de tolerância vigentes à época da prestação do labor enseja o reconhecimento do tempo de serviço como especial.
+4. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade do tempo de labor correspondente.
+5. A habitualidade e permanência do tempo de trabalho em condições especiais prejudiciais à saúde ou à integridade física referidas no artigo 57, § 3º, da Lei 8.213/91 não pressupõem a submissão contínua ao agente nocivo durante toda a jornada de trabalho. Não se interpreta como ocasional, eventual ou intermitente a exposição ínsita ao desenvolvimento das atividades cometidas ao trabalhador, integrada à sua rotina de trabalho. Precedentes desta Corte.
+6 (..)
+11. (..)
+Opostos embargos de declaração, foram rejeitados (fl. 385).
+Aponta o recorrente violação aos arts. 85, caput e § § 2º, 4º e 11 e 1.022, II, do CPC/2015, sustentando, além de negativa de prestação jurisdicional, que a majoração da verba sucumbencial foi desproporcional.
+Afirma que o acórdão recorrido "ao majorar a verba sucumbencial em 50% daquela inicialmente arbitrada, deixou de observar os critérios do § 2º, do art. 85 do CPC" (fl. 398).
+Aduz que "a fixação dos honorários recursais apenas deve se dar a respeito daquilo que estiver afeto ao apelo sucumbente. Ante o exposto, podemos concluir que a majoração da verba sucumbencial em 50% daquela originalmente fixada, e sem levar em conta apenas a matéria devolvida pelo recurso, é manifestamente desproporcional, restando claro que a decisão recorrida viola os critérios do art. 85, §2 e §11 do CPC" (fl. 399).
+Ao final, "requer seja o recurso conhecido e provido, a fim de que haja a reforma do acórdão regional, afastando-se a majoração da verba sucumbencial: ou, subsidiariamente, para que a fixação dos honorários recursais se atenha ao proveito econômico do tema devolvido na apelação e observe ainda a proporcionalidade em relação à matéria objeto do recurso" (fl. 400).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 407/411.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/15, pois o recorrente, nas razões dos embargos de declaração, alega que (fl. 369):
+Ademais, reitera o INSS os argumentos expendidos no item anterior, no sentido de que a fixação dos honorários recursais apenas deve se dar a respeito daquilo que estiver afeto ao Tribunal julgar. Ante o exposto, podemos concluir que a majoração da verba sucumbencial em 50% daquela originalmente fixada, e sem levar em conta apenas a matéria devolvida pelo recurso sucumbente, é manifestamente desproporcional, restando claro que a decisão embargada é omissa quanto aos critérios do art. 85, § 2º, e § 11 do CPC.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 1.022 do CPC/15, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial para determinar o retorno dos autos à origem, a fim de que proceda a novo julgamento dos embargos de declaração lá opostos.
+Publique-se.
