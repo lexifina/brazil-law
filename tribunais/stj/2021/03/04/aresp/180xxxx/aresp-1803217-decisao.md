@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por KLEITON IVANIR LOPES CAXITO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO REVISIONAL DE CONTRATO BANCÁRIO - PRELIMINARES DE OFÍCIO - JULGAMENTO "ULTRA PETITA" - VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE - ARRENDAMENTO MERCANTIL - CAPITALIZAÇÃO DE JUROS - INEXISTÊNCIA DE PREVISÃO CONTRATUAL - TARIFA DE SERVIÇO DE TERCEIRO SEM ESPECIFICAÇÃO - ABUSIVIDADE - DISTRIBUIÇÃO DOS ÔNUS DE SUCUMBÉNCIA - ART. 86 DO CPC.
+1. A sentença que analisa pedido não constante na exordial possui vício "ultra petita".
+2. Constitui pressuposto objetivo de admissibilidade do recurso a motivação, sob pena de não conhecimento (art. 514, inciso II, do CPC/1 973).
+3. O contrato de arrendamento mercantil não envolve concessão de financiamento e tampouco cobrança de juros remuneratórios, capitalizados ou não, mas apenas a estipulação devida pelo arrendatário, como contraprestação pela locação do bem.
+4. Inexistindo previsão contratual de cobrança de juros remuneratórios e capitalização de juros, e não havendo a parte se desincumbido do ônus de comprovar a sua cobrança, não há abusividade a ser declarada.
+5. E abusiva a cláusula que prevê a cobrança de tarifa de serviços de terceiros, sem a especificação do trabalho a ser efetivamente prestado.
+Precedente.
+6. A distribuição dos ônus sucumbenciais deve observar o art. 86 do CPC. (fl. 221)
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega a violação do art. 4º do Decreto n, 22626/1933 e ainda divergência jurisprudencial, aduzindo que deve ser reconhecida a ilegalidade e ilicitude da cobrança de encargos remuneratórios de forma capitalizada mensalmente, e assim, condenando o recorrido à restituição do indébito, trazendo os seguintes argumentos:
+Não se trata de matéria de prova, pois incontroverso entre as partes que a instituição financeira, ao conceder valor a titulo de empréstimo, procedeu ao cálculo dos juros de forma capitalizada.
+Relevante destacar, desde logo, que não há se cogitar de inviabilidade do recurso com base no art. 1.040 do CPC, uma vez que, neste ponto especifico da insurgência, a capitalização mensal é indevida por ausência de previsão contratual, o que implica, pelo contrário, consonância com a jurisprudência do STJ
+ ..
+No presente caso, houve cobrança de juros remuneratórios de forma capitalizada mensalmente
+ ..
+Daí o equívoco do r. voto ora recorrido, quando reputou inexistente a incidência de encargos mensais e capitalizados no empréstimo concedido ao Recorrente.
+Esclareça-se que a taxa anual superior ao duodécuplo da mensal, apenas implica previsão da capitalização para o período de um ano, ou seja, a capitalização ANUAL. Não se pode inferir da previsão dos juros na forma acima descrita que se autorizou a capitalização mensal. Indevida, destarte, a inteligência dispensada pelo TJ/MG quando reputou ser a referida estipulação (taxa mensal X taxa anual) suficiente para comprovar acordo pela capitalização mensal.
+ ..
+Pelo todo exposto, impõe-se reconhecer que a decisão recorrida não está em consonância com o entendimento da Corte Superior, pelo que deve ser o Recurso Especial provido a fim de declarar a inexigibilidade da capitalização mensal do juros, mantendo-se a cobrança da taxa anual. (fls. 240/243)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Assim, o contrato de arrendamento mercantil não envolve concessão de financiamento e tampouco cobrança de juros remuneratórios, capitalizados ou não, mas, apenas a estipulação devida pelo arrendatário como contraprestação pela locação do bem.
+Destaque-se que a cobrança antecipada do valor residual garantido não descaracteriza o contrato de arrendamento mercantil.
+ ..
+Assim, iriexistindo no contrato ora discutido previsão expressa de cobrança de juros remuneratórios mensalmente capitalizados, impertinente a insurgência recursal relativa à suposta ilegalidade de capitalização mensal dos juros remuneratórios, já que não houve demonstração da incidência de tais encargos.
+Nesse contexto, a manutenção da sentença, nesse ponto, ainda que por fundamentos diversos, é medida que se impõe.(fls. 228/229)
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ademais, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige a transcrição de trechos dos julgados confrontados, bem como a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e os paradigmas indicados.
+Nesse sentido: "O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ". (AgInt no REsp n. 1.840.089/CE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
