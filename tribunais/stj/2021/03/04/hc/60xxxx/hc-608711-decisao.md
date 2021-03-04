@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpuscompedido de liminar impetrado em favor de ELIZIA EDUARDA DO ESPÍRITO SANTO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás(Processo n. 5354206.76.2020.8.09.0000).
+A paciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 29-33), em razão da suposta prática dodelitodescritonoart. 33, caput, daLei n. 11.343/2006.
+O decreto prisional fundou-se na quantidadee nocividadede entorpecentes apreendida.
+A defesa alega que não estão preenchidos os requisitos da custódia cautelar. Argumenta que a paciente é primária, possui bons antecedentes, residênciafixae bom convívio familiar.
+Requer, liminarmente e no mérito, seja revogada aprisão preventiva, expedindo-se o alvará de soltura. Alternativamente, pleiteia a substituição da prisão pela imposição de medidas alternativas previstas no art. 319 do CPP ou pela prisão domiciliar,consoante o art. 318, V, do CPP, por ser mãe de criançacom menosde 12 anos de idade.
+O Tribunal de Justiça do Estado de Goiásapresentou informações às fls. 49-55 e 58-82.
+O Ministério Público Federalopinou pela concessão da ordem de ofício(fls. 83-90).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP,não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo(fl. 36, destaquei):
+Desse modo, clarividente está a motivação da manutenção do decreto prisional, que lastreado em elementos fáticos, ressaltou a necessidade da prisão da paciente para garantia da ordem pública, sendo ressaltado que a acusada, em tese, teria transportado de Araguari/MG atéo município de Cumari/GO, em hipotético contexto de tráfico de drogas interestadual, elevada quantidade de "maconha", a saber, 05 (cinco) tabletes, pesando 3,780 kg (três quilos, setecentos e oitenta gramas), possivelmente, destinados à disseminação ilícita, panorama fático que evidencia requisito para a constrição cautelar (periculum libertatis).
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+O Tribunal de origem, quanto à inaplicabilidade do art. 318, V, do CPP à espécie, consignou o seguinte (fl. 38, destaquei):
+A despeito de a paciente ser genitora de uma criança de 02 (dois) anos de idade, a hipótese em exame evidencia situação excepcional reveladora de que não faz jus à prisão domiciliar, em razão da gravidade concreta da conduta, já que a mesma transportava 05 (cinco) tabletes de maconha, pesando 3,780 kg (três quilos, setecentos e oitenta gramas) entre Estados da Federação, situação que demonstra sua alta periculosidade, não havendo que se falar em concessão de prisão domiciliar.
+Não obstante o disposto no art. 318 do Código de Processo Penal e a decisão do Supremo Tribunal Federal no HC coletivo n. 143.641/SP, houve apreensão de grande quantidade de entorpecentes (5 tabletes de maconha, pesando 3,7800kg), o que, por evidenciar a dedicação a atividades delituosas voltadas ao tráfico, justifica a negativa da pretensão de substituição da prisão preventiva por domiciliar.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
