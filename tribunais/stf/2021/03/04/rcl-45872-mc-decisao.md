@@ -1,0 +1,20 @@
+DECISÃO
+RECLAMAÇÃO – ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL Nº 556 – ACÓRDÃO – INOBSERVÂNCIA – RELEVÂNCIA – LIMINAR – DEFERIMENTO.
+    1. O assessor Vinicius de Andrade Prado prestou as seguintes informações:
+    Companhia de Águas e Esgotos do Rio Grande do Norte – CAERN afirma haver o Juízo da Segunda Vara Cível da Comarca de Natal/RN, no processo nº 0819465-64.2020.8.20.5001, inobservado o decidido na arguição de descumprimento de preceito fundamental nº 556.
+    Diz figurar como ré em processo no qual discutida rescisão de contrato administrativo firmado com certa empresa privada, na área da tecnologia da informação. Esclarece determinado, na fase de conhecimento, bloqueio de valores – R$ 366.355,83 –, ante o descumprimento de liminar, surgindo o descompasso.
+    Ressalta a natureza de sociedade de economia mista, prestadora de serviço público, integrante da Administração indireta do Estado do Rio Grande do Norte. Frisa que, no julgamento do processo objetivo, foi reconhecida a prerrogativa de sujeitar-se ao regime de precatórios. Sustenta contrariedade aos princípios da separação de poderes, legalidade orçamentária, continuidade dos serviços públicos, eficiência, segurança jurídica e observância da ordem cronológica dos precatórios.
+    Requer, no campo precário e efêmero, a suspensão do ato impugnado, a devolução das quantias bloqueadas e a determinação ao Juízo para que se abstenha de novas constrições. Pretende, no mérito, a cassação.
+    2. Tem-se por desrespeitado o assentado na arguição de descumprimento de preceito fundamental nº 556, relatora ministra Cármen Lúcia. Na sessão do Plenário Virtual encerrada em 13 de fevereiro de 2020, o Colegiado julgou procedente o pedido “para suspender as decisões judiciais nas quais se promoveram constrições patrimoniais por bloqueio, penhora, arresto, sequestro e determinar a sujeição ao regime de precatórios à Companhia de Águas e Esgotos do Rio Grande do Norte – CAERN”.
+    Ao determinar a constrição nas contas da sociedade de economia mista, o Juízo deixou de observar o pronunciamento formalizado no processo objetivo. Confiram o seguinte trecho:
+    […]
+    Para garantir o resultado prático equivalente do que foi determinado nas decisões proferidas nos autos, verifico ser suficiente o bloqueio de valores em desfavor da parte demandada até o montante devido à parte autora, referente ao contrato firmado entre as partes, o que se afigura possível por força do que dispõe o art. 536 do NCPC, mutatis mutandi, segundo o qual “No cumprimento de sentença que reconheça a exigibilidade de obrigação de fazer ou de não fazer, o juiz poderá, de ofício ou a requerimento, para a efetivação da tutela específica ou a obtenção de tutela pelo resultado prático equivalente, determinar as medidas necessárias à satisfação do exequente.” , corroborado pelo art. 139, IV do mesmo diploma legal, segundo o qual, “O juiz dirigirá o processo conforme as disposições deste Código, incumbindo-lhe: (…) IV - determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária;”.
+    Assim, concedo ao autor o prazo de 05 (cinco) dias para que informe nos autos o valor em aberto referente ao contrato firmado entre as partes.
+    Em seguida, determino seja realizada a pesquisa e bloqueio de ativos financeiros da parte ré até o montante informado, através do Sistema SISBAJUD, pelo(a) servidor(a) autorizado(a) por este Juízo a realizar tal procedimento.
+    [...]
+    3. Defiro a liminar, para suspender a eficácia da decisão proferida pelo Juízo da Segunda Vara Cível da Comarca de Natal/RN, no processo nº 0819465-64.2020.8.20.5001, e determinar a restituição dos valores bloqueados.
+    4. Citem a interessada e solicitem informações. Com o recebimento, colham parecer da Procuradoria-Geral da República.
+    5. Publiquem.
+Brasília, 4 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
