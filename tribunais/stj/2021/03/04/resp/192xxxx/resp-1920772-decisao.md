@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por DIRCEU BRANCO PEREIRA, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, cuja ementa, na parte que interessa, é a seguinte (e-STJ fl. 332):
+APELAÇÃO. CÓDIGO PENAL. CRIMES CONTRA O PATRIMÔNIO. ART. 155, § 4º, I E IV. FURTO QUALIFICADO E MAJORADO. CONCURSO DE PESSOAS. ROMPIMENTO DE OBSTÁCULO. REPOUSO NOTURNO. EXISTÊNCIA DOS FATOS E AUTORIA.
+1º FATO. Depreende-se do contexto probatório que o réu, juntamente com um adolescente, ingressou na residência da vítima, durante o repouso noturno e mediante rompimento de obstáculo consistente em quebrar o vidro da porta dos fundos da residência, e subtraiu um notebook e uma gaita, objetos estes que foram apreendidos na casa do apelante, durante cumprimento de mandado de busca e apreensão.
+2º FATO. O acusado, em conjunção de esforços com o adolescente, no período da madrugada, arrombou a porta da residência do ofendido e de lá subtraiu um televisor, três pneus novos, dois liquidificadores e uma caixa de som. Todos os bens foram restituídos à vítima. Existência dos fatos e autoria estão suficientemente demonstradas, não sendo caso de absolvição por falta de provas.
+REPOUSO NOTURNO. Demonstrado que os delitos foram cometidos durante a noite, período de maior vulnerabilidade, incidindo, portanto, a majorante.
+ ..
+ROMPIMENTO DE OBSTÁCULO. Inafastável, pois a prova oral dá conta de que houve efetivo rompimento das portas das residências dos ofendidos.
+ ..
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls. 403/418).
+Nas razões do recurso especial (e-STJ fls. 423/429), alega a parte recorrente violação do art. 155, §§1º e 4º, inciso I, do CP e dos artigos 158, 159 e 169 do CPP. Sustenta: (i) o afastamento da qualificadora do rompimento de obstáculo, tendo em vista a ausência de perícia técnica; (ii) a não aplicação da majorante do repouso noturno, uma vez que não há prova da sua ocorrência.
+Apresentadas contrarrazões (e-STJ fls. 445/452), o recurso foi admitido (e-STJ fls. 454/461), manifestando-se o Ministério Público Federal pelo não provimento do recurso (e-STJ fls. 479/488).
+É o relatório. Decido.
+O recurso merece parcial acolhida.
+De início, o Tribunal de origem manteve o reconhecimento da incidência da qualificadora do rompimento de obstáculo, nos seguintes termos (e-STJ fls. 367):
+ROMPIMENTO DE OBSTÁCULO.
+A qualificadora do rompimento de obstáculo restou comprovada pelo no Auto de Constatação de Dano (fl. 09), bem como pelos depoimentos das vítimas, que afirmaram ter a porta de suas residências arrombadas.
+A vítima Odair (1º fato) narrou em juízo que ao chegar em casa, constatou que o vidro da porta da residência estava quebrado.
+Igualmente, o ofendido Waldemar (2º fato) relatou que não estava em casa no momento do furto. Quando chegou em sua residência, a porta estava arrombada.
+Ademais, segundo precedentes desta e. Corte, a realização de perícia técnica não constitui o único meio probatório a demonstrar a presente qualificadora, que vai aqui suprida pela prova testemunhal uníssona:
+Contudo, no que tange à imprescindibilidade da prova técnica para o reconhecimento do furto qualificado por rompimento de obstáculo, vale lembrar que a jurisprudência tem-se orientado no sentido de que o exame de corpo de delito direto, por expressa determinação legal, é indispensável nas infrações que deixam vestígios, podendo apenas supletivamente ser suprido pela prova testemunhal quando o delito não deixar vestígios, se estes tiverem desaparecido ou, ainda, se as circunstâncias do crime não permitirem a confecção do laudo. Assim, se era possível a realização da perícia, mas esta não ocorreu, a prova testemunhal e as fotografias não suprem a sua ausência.
+Nessa linha, os seguintes julgados:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTO DUPLAMENTE QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE EXAME PERICIAL. IMPRESCINDIBILIDADE. INEXISTÊNCIA DE JUSTIFICATIVAS PARA A NÃO REALIZAÇÃO DA PERÍCIA. FLAGRANTE ILEGALIDADE CONSTATADA. REGIME PRISIONAL FECHADO. PENA INFERIOR A 4 ANOS DE RECLUSÃO. RÉU REINCIDENTE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME JUSTIFICADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. A incidência da qualificadora prevista no art. 155, § 4º, inciso II, do Código Penal, exige exame pericial para a comprovação do rompimento de obstáculo, somente admitindo-se prova indireta quando justificada a impossibilidade de realização do laudo direto, o que não restou explicitado nos autos.
+4. Na hipótese, tendo a qualificadora sido aplicada apenas com base em prova testemunhal e registros fotográficos, deve ser afastado o rompimento de obstáculo e reconhecida a prática de furto simples, pois, além de não ter sido demonstrada a impossibilidade de realização da perícia técnica, tais provas não suprem a necessidade de sua efetivação.
+ ..
+7. Writ não conhecido. Ordem concedida, de ofício, para redimensionar a pena imposta ao paciente, fixando-a em 2 anos, 1 mês e 3 dias de reclusão, mantido o regime prisional fechado para o desconto da reprimenda corporal.
+(HC 622.501/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 9/12/2020, DJe 14/12/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. RECONHECIMENTO. PERÍCIA PAPILOSCÓPICA. PERITOS POLICIAIS. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No julgamento do REsp n. 1.320.298/MG, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade - na qual fiquei vencido -, firmou-se o entendimento de que o exame pericial é imprescindível para a configuração da qualificadora da escalada, entendimento este também aplicado ao rompimento de obstáculo.
+2. Laudo pericial papiloscópico que incidentalmente atesta a configuração do rompimento de obstáculo (avaria na janela) é suficiente para caracterizar a qualificadora prevista no inciso I do § 4º do art. 155 do Código Penal.
+3. É válida a perícia realizada por dois policiais com formação superior e nomeados pelo delegado de polícia para essa finalidade.
+4. Agravo regimental não provido (AgRg no HC 564.811/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 23/6/2020, DJe 1º/7/2020).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO E ESCALADA. LAUDO PERICIAL. DESAPARECIMENTO DOS VESTÍGIOS. REPAROS EFETUADOS PELA VÍTIMA. OUTROS ELEMENTOS DE PROVAS. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 158 do Código de Processo Penal determina que, quando a infração deixar vestígios, será indispensável o exame de corpo de delito. Todavia, o art. 167 deste mesmo diploma normativo prevê que, não sendo possível o exame de corpo de delito, por haver desaparecido os vestígios, a prova testemunhal poderá suprir-lhe a falta.
+2. No caso, a Corte de origem expressamente consignou que houve o desaparecimento dos vestígios, pois a própria vitima esclareceu, ainda na fase do inquérito, que não preservou o local para a realização da perícia técnica.
+3. A jurisprudência desta Corte Superior entende ser admissível a prova testemunhal na comprovação das qualificadoras do delito de furto quando os vestígios da infração forem removidos/alterados pela vítima após os fatos com o objetivo de garantir a sua segurança.
+4. Agravo regimental desprovido (AgRg no REsp 1.809.401/MS, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 23/6/2020, DJe 4/8/2020).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO SIMPLES. QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO AFASTADA. AUSÊNCIA EXAME PERICIAL DIRETO. PROVA TESTEMUNHAL INSUFICIENTE PARA COMPROVAR A QUALIFICADORA. RECURSO DESPROVIDO.
+1. Segundo o entendimento desta Corte, o reconhecimento da qualificadora do rompimento de obstáculo exige a realização de exame pericial direto, admitindo-se a constatação indireta nos casos em que a infração não deixar vestígios ou esses forem insubsistentes ou inexistentes no momento da apuração do crime, devendo tais circunstâncias estarem bem demonstradas nos autos.
+2. In casu, os julgamentos estaduais reconheceram a qualificadora tão somente em razão da prova testemunhal sem indicarem qualquer circunstância que justificasse a não realização da perícia técnica.
+3. A decisão agravada que afastou a qualificadora do rompimento de obstáculo deve ser mantida tendo em vista o acórdão recorrido ter contrariado a jurisprudência do Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento (AgRg no REsp 1.708.616/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 3/5/2018, DJe 15/5/2018).
+No presente caso, não foi apresentada qualquer justificativa para a ausência de elaboração do exame direto, devendo ser afastada a qualificadora referente ao rompimento de obstáculo, tendo em vista a ausência de laudo pericial.
+Contudo, embora afastada a qualificadora do rompimento de obstáculo, remanesce a qualificadora relativa ao concurso de pessoas, tal como reconhecido pelas instâncias ordinárias.
+Assim, uma vez que fixada a pena-base, sem se considerar como negativa a circunstância do delito pelo rompimento de obstáculo (e-STJ fls. 372) , o afastamento da referida qualificadora não implicará, na espécie, alteração do quantum da pena.
+Por fim, o Tribunal a quo, ao manter a majorante do repouso noturno, entendeu:
+Restou comprovado nos autos que o furto foi cometido a noite, horário em que há uma natural diminuição da circulação de pessoas Município, e da vigilância sobre as coisas, principalmente no interior do reduções essas que têm como consequência uma maior vulnerabilidade para as residência e para os dentro delas. bens que se encontram Assim, é forçoso reconhecer a majorante do repouso noturno prevista no 1º do art. 155 do CP (e-STJ fls. 359).
+Do repouso noturno:
+No presente caso está configurada a causa de aumento em face do repouso noturno, pois o crime foi praticado em horário bastante tarde da noite (23horas).
+Portanto, a tese alegada pela defesa de que a circunstância do repouso noturno não tenha contribuído para o crime, não assiste razão (e-STJ fls. 361).
+Dessa forma, rever tais fundamentos para concluir que não há prova de que os furtos tenham ocorrido por volta de 23h, como requer a parte recorrente, importa revolvimento de matéria fático-probatória, vedado em recurso especial, segundo óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, c/c o art. 255, § 4º, inciso III, do RISTJ e na Súmula n. 568/STJ, conheço parcialmente e, nessa parte, dou provimento ao recurso especial para afastar a qualificadora de rompimento de obstáculo, sem reflexos no quantum das penas do acusado, ante a presença do concurso de pessoas (art. 155, §4º, inciso IV, do CP).
+Intimem-se.
