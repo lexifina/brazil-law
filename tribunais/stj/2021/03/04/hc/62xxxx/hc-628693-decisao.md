@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de DAIANE OLIVEIRA IGNACIOcontra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2226245-35.2020.8.26.0000.
+Consta dos autos que o Juízo de primeiro grau condenou a paciente a 5 anos e 10 meses de reclusão, em regime inicialmente fechado, como incursa no art. 33, caput, e art. 40, inciso V, ambos da Lei 11.343/06(tráfico de drogas).
+Irresignada, a defesa interpôs apelação, pendente de julgamento, e impetrouhabeas corpus, o qual teve a ordem denegada pelo Tribunal a quo,em acórdão assim ementado:
+"Habeas corpus. Tráfico de drogas. Processo penal. Sentença penal condenatória. Apelação. O processo judicial, com os postulados da ampla defesa e do contraditório a ele inerentes, tem importante razão política de ser. Não cabe abreviá-lo e suprimi-lo pela via do habeas corpus. Agasalhar a modificação do julgado - para dizer se a paciente tem direito ao não à modificação do regime já estabelecido por sentença definitiva - fazendo-o por outra via que não o recurso legal cabível seria, em última análise, colher das partes - inclusive do Ministério Público em primeira instância -o direito de também vir ao tribunal debater a sentença em contrarrazões de recurso, suprimindo parcela substancial do contraditório. O ônus da justiça é dar a prestação jurisdicional. O ônus das partes é buscá-la pelas vias corretas que estão dispostas na lei processual, sem abreviações" (fl. 14).
+No presente mandamus, a defesa aponta a existência de ilegalidade na dosimetria da pena, visto que teria sido considerado o mesmo fundamento na primeira e terceira fases da dosimetria da penaena fixação do regime fechado.
+Requer, assim, a concessão da ordem para que seja determinada "a imediata suspensão dos efeitos da dosimetria da pena aplicada em desfavor da paciente, bem como seja determinada a fixação de regime inicial compatível com suas condições pessoais, bem como que se determine possa a paciente aguardar a solução da controvérsia em liberdade"(fl. 11).
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 328/333).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos, conforme passo a expor.
+Primeiramente, o tema reverente à custódia cautelar imposta ao paciente não foi submetido à apreciação do Tribunal a quo. Sendo assim, a sua análise diretamente por esta Corte acarreta indevida supressão de instância.
+Nesse sentido:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+3. A alegada inidoneidade da negativa do direito de recorrer em liberdade não foi objeto de julgamento pela Corte de origem, o que impede seu conhecimento por este Tribunal, sob pena de indevida supressão de instância.
+ ..
+5. Ordem parcialmente conhecida e, nessa extensão, denegada, com recomendação.
+(HC 521.587/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/08/2019, DJe 20/08/2019).
+Quanto às aventadas ilegalidades referentes à dosimetria da pena e ao regime, asseverou o Tribunal de origem:
+" ..
+Neste contexto, no tocante aos pedidos formulados - modificação da pena e do regime inicial para seu cumprimento a alteração do regime imposto para o seu cumprimento  inviável sua modificação em sede de habeas corpus, sendo o caso de denegar a ordem nessa dimensão, sem prejuízo da consideração desses e de outros argumentos em sede de cognição mais ampla, se o caso.
+Isso porque a reforma da decisão demanda de análise aprofundada através de meio processual adequado, qual seja, recurso de apelação criminal que, aliás, já foi interposto pela acusada, o que demonstra a ausência de constrangimento ilegal sofrido pela paciente.
+Impende lembrar que, somente à luz do exame aprofundado do mérito mais íntimo da prova, em sede de apelação e à luz dos postulados próprios do processo de conhecimento, é que se poderá, no caso, dizer se a paciente tem ou não direito ao instituto de direito material invocado na presente impetração, notadamente no que se refere à modificação da pena e do regime prisional de cumprimento inicial aplicado na origem" (fl. 16).
+Verifica-se que a Corte estadual reservou a análise dos referidos temas ao julgamento do recurso de apelação, já interposto. A esse respeito, o Superior Tribunal de Justiça tem o entendimento no sentido de que, se há simultânea interposição de apelação e impetração de habeas corpus versando sobre os mesmos temas, inexiste ilegalidade em se reservar a decisão das questões para o recurso adequado, mormente quando sua análise reclama - como entendeu a Corte estadual - o exame do conjunto fático-probatório da ação penal.
+Com efeito, "se mostra prematura a revisão da dosimetria da pena e do regime prisional na via do habeas corpus, quando já interposta a apelação, recurso próprio à análise das aludidas alegações, as quais dependem de análise fático-probatória, a ser realizada pelas instâncias ordinárias" (AgRg no RHC n. 40.054/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 21/10/2014).
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DETRAÇÃO PENAL, REGIME INICIAL, SUBSTITUIÇÃO DA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS E DIREITO DE RECORRER EM LIBERDADE. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR, QUE INDEFERIU MEDIDA DE URGÊNCIA EM MANDAMUS ORIGINÁRIO. SÚMULA 691/STF. CONHECIMENTO. IMPOSSIBILIDADE. LIMINAR DEFERIDA APENAS NO TOCANTE AO DIREITO DE RECORRER EM LIBERDADE, EM RAZÃO DA EXISTÊNCIA DE APELAÇÃO INTERPOSTA SIMULTANEAMENTE. WRIT ORIGINÁRIO JULGADO. ORDEM DENEGADA. NECESSIDADE DE CONFIRMAÇÃO DA TUTELA DE URGÊNCIA. NEGATIVA DE RECORRER EM LIBERDADE COM FUNDAMENTO, APENAS, NO FATO DE O PACIENTE SER SOLTEIRO E DESEMPREGADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. A impetração busca o reconhecimento do direito à detração penal prevista no art. 387, § 2º, do Código de Processo Penal, fixação do regime inicial aberto de cumprimento da pena e substituição da privativa de liberdade por restritiva de direitos, bem como a concessão do direito de recorrer em liberdade.
+2. Evidenciada a interposição simultânea do recurso de apelação, a análise da insurgência deve se limitar à negativa de o paciente recorrer em liberdade, pois os demais temas serão examinados pelo Tribunal a quo em cognição mais ampla, até porque não se admite, em regra, habeas corpus substitutivo do recurso adequado.
+ ..
+5. Writ não conhecido. De ofício, concedida a ordem de habeas corpus para assegurar ao paciente o direito de aguardar em liberdade o esgotamento do segundo grau de jurisdição.
+(HC 477.541/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 21/02/2019, DJe 12/03/2019).
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. DOSIMETRIA. FIXAÇÃO DE REGIME. PRÉVIO WRIT. PENDÊNCIA DE APELAÇÃO. NÃO CONHECIMENTO DA IRRESIGNAÇÃO. ILEGALIDADE. NÃO RECONHECIMENTO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. ORDEM DENEGADA.
+1. Inexiste ilegalidade em aresto que deixa de conhecer de impetração no que concerne a tema cujo exame pode melhor ser cuidado no seio de concomitante apelação. Hipótese em que a revisão da dosimetria e a fixação do regime inicial de cumprimento de pena poderão ser melhor analisadas em sede recursal ordinária.
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade concreta dos fatos delituosos, cifrada na expressiva quantidade de substância entorpecente apreendida (aproximadamente 1,5 kg de maconha e 35,24 g de crack), tudo a conferir lastro de legitimidade à medida extrema.
+3. Ordem denegada.
+(HC 398.644/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 14/08/2017).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
