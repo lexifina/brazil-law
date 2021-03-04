@@ -1,0 +1,37 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso, ainda que para fins de prequestionamento.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos contra acórdão proferido por esta Quarta Turma, o qual negou provimento ao agravo interno interposto.
+Em seu recurso, os embargantes sustentam existência de omissão e contradição no julgamento, alegando que nas razões do recurso especial não há questionamento ao lapso temporal prescricional, outrossim, a tese apresentada foi de que o marco inicial da contagem prescricional é o da incorporação da rede de eletrificação rural, não se admitindo a data do desembolso ou da energização.
+A parte embargada não apresentou impugnação (fl. 512, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso, ainda que para fins de prequestionamento.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não assiste razão aos embargantes.
+De início, não se verificam os vícios procedimentais apontados, devendo-se manter o acórdão recorrido por seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+A decisão embargada foi clara ao pontuar que a parte autora não logrou comprovar a data da incorporação da rede de eletrificação rural que requer reparação econômica, compelindo o Tribunal de origem a admitir outro marco temporal com base no acervo probatório produzidos nos autos.
+Consignou-se expressamente, do mesmo modo, que, diante das peculiaridades do caso concreto, a Corte local concluiu pela ocorrência da prescrição do direito vindicado, assim como fundamentada a aplicação das Súmulas 7 e 547/STJ, conforme se depreende da leitura dos seguintes trechos (fls. 497-498, e-STJ):
+Em nova análise do recurso, observo que o TJRO relatou que "No caso em comento, não existe contrato com a concessionária de serviço público para a construção e posterior incorporação, sendo o prazo o prescricional trienal, nos termos do artigo 206, §3º, IV, do Código Civil/2002, devendo incidir a partir da data do desembolso ou da energização, sendo que esta poderia ser comprovada com a juntada da primeira conta de energia elétrica. Contudo, como o próprio apelante afirmou na inicial, a sua propriedade não teve rede de energia elétrica até meados de 2014 e, ademais, não há nos autos documento indicando a data da finalização da obra, nem comprovantes do valor despendido e nem fatura emitida pela concessionária que comprove a efetiva data da ligação da energia elétrica".
+Encontra-se, ainda, no acórdão estadual a conclusão de que "tendo em vista que o documento mais recente é de 28/04/2014 e a ação proposta em 30/08/2017, infere-se que a pretensão encontra-se prescrita".
+De modo que a fundamentação da origem está em ressonância com a jurisprudência desta Corte Superior, consolidada na Súmula 547/STJ, no sentido de que "Nas ações em que se pleiteia o ressarcimento dos valores pagos a título de participação financeira do consumidor no custeio de construção de rede elétrica, o prazo prescricional é de vinte anos na vigência do Código Civil de 1916. Na vigência do Código Civil de 2002, o prazo é de cinco anos se houver previsão contratual de ressarcimento e de três anos na ausência de cláusula nesse sentido, observada a regra de transição disciplinada em seu art. 2.028".
+Ademais, inviável a apreciação dos fatos e provas constantes dos autos, bem como a conclusão da origem acerca destes, a fim de verificar sobre a demonstração de fato constitutivo, quanto aos marcos prescricionais do direito vindicado, por exigir o reexame fático e esbarrar no óbice da Súmula 7/STJ.
+Acrescento que a decisão agravada, como se demonstrou supra, adotou, também, a motivação da incidência da Súmula 7/STJ.
+Anoto que os argumentos dos embargantes não são convincentes, dada a ausência de superação do óbice da Súmula 182/STJ. Intransponível, portanto, o exame dos demais temas devolvidos no agravo interno, não servindo de fundamento a conclusão adotada pelo Tribunal estadual, inclusive, para as matérias de ordem pública.
+Verifico, assim, que os embargantes pretendem, sob o pretexto de existência de vício, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio. Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha eventualmente a prequestionar os pontos levantados pela parte.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SERVIDORA PÚBLICA REMOVIDA CONTRA A SUA VONTADE. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA INOCORRÊNCIA DE DANOS MORAIS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO PELAS MESMAS RAZÕES QUE INVIABILIZARAM O RECURSO PELA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 19/12/2018.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, pela inexistência da alegada violação ao art. 1.022 do CPC/2015, pela incidência da Súmula 7/STJ e pelo não cabimento do Recurso Especial, com base no dissídio jurisprudencial (alínea c), em face das mesmas razões que inviabilizaram o conhecimento do apelo pela alínea a do permissivo constitucional.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp 1321153/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 13/5/2019)
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
