@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por TIAGO SILVA DE MELLOcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (fls. 56-57):
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. HIPÓTESE EXCEPCIONALÍSSIMA. INÉPCIA DA DENÚNCIA E FALTA DE JUSTA CAUSA. CONSTATAÇÃO DE PLANO. INOCORRÊNCIA. TESES DEFENSIVAS QUE DEMANDAM DILAÇÃO PROBATÓRIA. INCABÍVEL O EXAME EM SEDE DE HABEAS CORPUS. IMPETRAÇÃO MANIFESTAMENTE INADMISSÍVEL.
+1. O trancamento de ação penal por inépcia da denúncia ou ausência de justa causa pela via do habeas corpus é medida excepcionalíssima, admissível apenas quando demonstrado, de plano, inequívoca deficiência a impedir a compreensão da acusação, em flagrante prejuízo à defesa do acusado, ou quando o fato narrado na denúncia não configurar, nem mesmo em tese, conduta delitiva, quando restar evidenciada a ilegitimidade ativa ou passiva das partes ou quando incidir qualquer causa extintiva da punibilidade do agente, o que não se verifica na espécie.
+2. Não é inepta a inicial que preenche os requisitos previstos no art.41 do CPP - com indicação clara do fato, do responsável pela prática delitiva e da classificação do crime -, propiciando, de forma plena, o exato conhecimento dos fatos imputados, sem qualquer prejuízo à defesa.
+3. A aferição da efetiva participação do paciente no crime imputado é matéria que demanda exame de provas a ser realizado durante a instrução e no curso da ação penal - em especial na audiência de instrução já aprazada, quando o paciente poderá apresentar sua versão dos fatos -, o que se mostra incabível na via estreita do writ, o mesmo ocorrendo quanto à presença do elemento subjetivo, indispensável para eventual juízo condenatório, mas não para justificar o processamento da ação penal quando comprovada a materialidade e presentes indícios de autoria delitiva.
+4. Inexistindo ilegalidade no prosseguimento da ação penal, não servindo a via estreita do writ para exame de questões que demandam instrução probatória, e não havendo risco ao direito de liberdade do pacienteque se encontra preso por ordem da Justiça Estadual -, não se tem justificado o excepcional cabimento do habeas corpus para prematuro trancamento de ação penal.
+5. É manifestamente inadmissível, a ensejar indeferimento liminar nos termos do art. 148 do Regimento Interno desta Corte, a impetração de habeas corpus quando ausente ilegalidade e inexistente violação ou ameaça ao direito de liberdade do paciente.
+O recorrente teve sua prisão preventiva decretada em razão da suposta prática do delito descritono art. 289, § 1º, do CP.
+Sustentaque a denúncia não respeitou os requisitos previstos no art. 41do CPP, sobretudo quanto à descrição do elemento subjetivo do tipo penal dito praticado.
+Requero provimento do presente recurso ordinário para que seja suspensa a Ação Penal n.5026360-74.2020.4.04.7100, em trâmite na 22ª Vara Federal de Porto Alegre,e, ao final, seja reformadoo acórdão recorrido com a consequente concessão da ordem para decretar o imediato trancamento da referida ação penal.
+O pedido de liminar foi indeferido às fls. 87-88.
+O Ministério Público Federal manifestou-se pela prejudicialidade do writem razão da superveniente perda de objeto(fls. 112-116).
+É o relatório. Decido.
+Consoante parecer do Ministério Público Federal, a pretensão foi atendida na origem. Assim, esvaziou-se o objeto do presente recurso, tendo em vista a decisão absolutória superveniente (fl. 116).
+Nesse contexto, está evidenciada a superveniente perda de objeto da presente impetração em face da nova realidade fático-processual.
+Ante o exposto, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
