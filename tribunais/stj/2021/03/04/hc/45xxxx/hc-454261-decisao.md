@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CHRISTIAN FELIPE RIBEIRO LETTIEREapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelaçãon. 0000824-71.2017.8.26.0548).
+Depreende-se dos autos que o paciente foi condenado, como incurso nas sanções dodelito de tráfico de drogas, à pena de 7 anos, 9 meses e 10 dias de reclusão, em regime fechado, mais pagamento de 777 dias-multa, por haver sido flagrado na posse de 330 porções de crackcom peso de 161,3g (cento e sessenta e um gramas e três decigramas)-e-STJ fls. 37/42.
+Irresignada, a defesa apelou, sendo o recurso desprovido pelo Tribunalde origem(e-STJ fls. 95/100, sem ementa).
+Daí o presente writ, no qual sustenta a defesa, inicialmente, a nulidade em razão da invasão de domicílio, pela ausência de fundadas razões que indicassem a ocorrência de flagrante delito.
+Aduz, outrossim, ilegalidade na dosimetria da penapelo aumento na primeira fase em razão da quantidade de drogaapreendida, bem como pelo aumento em razão da reincidência na fração de 1/3, sem a devida fundamentação.
+Requer, ao final, o reconhecimento da nulidade ou, subsidiariamente, a redução da pena do paciente.
+Não houve pedido liminar.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Preliminarmente, quantoà verificação da presença de fundadas razões que justificaram a entrada dos policiais no domicílio do paciente, no intuito de legitimar ou não a atuação policial para dar máxima efetividade à garantia constitucional prevista no inciso XI do art. 5º da Constituição Federal, tem-seque o Tribunal a quo assim discorreu acerca da controvérsia (e-STJ fl. 97):
+No que diz respeito à afirmação de que houveviolação do domicílio do apelante por parte dos policiais civis e do guardamunicipal, registro que o artigo 5º, inciso XI, da Constituição Federal,excepciona a inviolabilidade de domicílio na hipótese de flagrante delito, oque ocorreu no caso vertente, posto que tráfico de drogas é crimepermanente. Diante disso, não era necessário o mandado de busca eapreensão.
+Como visto, o Tribunal de origem, ao examinar a questão, limitou-se a reafirmar a natureza permanente do delito de tráfico de entorpecentes, olvidando-se de apreciar a questão quanto à existência de fundadas razões que evidenciassem, no caso, a possibilidade de entrada forçada no domicílio do paciente, nos termos do precedente do Supremo Tribunal Federal firmado em recurso submetido à sistemática da repercussão geral.
+Dessa forma, da leitura do acórdão ora impugnado, verifica-se que a presente irresignação, na forma em que levantada peloimpetrante, nem sequer foi discutida na Corte local, tampouco foi objeto de embargos de declaração para sanar eventual omissão, razão pela qual se mostra inviável o exame da quaestio diretamente por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. CERCEAMENTO DE DEFESA. PROVAS PRODUZIDAS QUE NÃO CONSTAM DOS AUTOS. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO.
+1. Ressalvada pessoal compreensão diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Incabível a análise, por este Tribunal Superior, da alegação de cerceamento de defesa, porquanto não apreciada pelo Tribunal de origem, sob pena de indevida supressão de instância.
+3. Não sendo certo nos autos a alegação do desaparecimento de provas contidas em fitas de áudio e vídeo, alegadamente submetidas à perícia, sequer os requerimentos para que fosse oficiado o órgão pericial com vista à juntada dos laudos respectivos, não cabe o enfrentamento do tema na via do habeas corpus.
+4. Habeas corpus não conhecido.
+(HC 120.507/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2015, DJe 18/06/2015)
+No mais, quanto ao aumento operado na primeira fase da dosimetria na fração de 1/6 emvirtude da natureza e da quantidade de entorpecenteapreendido, não vislumbro nenhum constrangimento ilegal.
+Com efeito,consoante dispõe o art. 42 da Lei n. 11.343/2006, "o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Não constitui demasia enfatizar, no particular, que, "como se trata de crime contra a saúde pública, quanto mais nociva a substância ou quanto maior a quantidade de droga apreendida, maior será o juízo de censura a recair sobre a conduta delituosa. De fato, não se pode equiparar a conduta daquele indivíduo que é flagrado trazendo consigo um quilograma de maconha com a daquele que é preso com um quilograma de cocaína, já que esta droga tem um caráter viciante e destrutivo bem mais elevado que aquela" (LIMA. Renato Brasileiro. Legislação Criminal Especial Comentada. Salvador: editora Juspodivm. 2015.p. 808).
+A jurisprudência desta Casa é pacífica nesse sentido, senão vejamos:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DO VERBETE N. 7 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ATENUANTE DA MENORIDADE. PENA ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. ENUNCIADO N. 231 DO STJ. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO § 4º DO ART. 33 DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO À ATIVIDADE CRIMINOSA. CAUSA DE AUMENTO PELA TRANSNACIONALIDADE DO DELITO. BIS IN IDEM. INOCORRÊNCIA. SUBSTITUIÇÃO DA PENA. AUSÊNCIA DOS REQUISITOS DO ART. 44, I, DO CÓDIGO PENAL - CP. REPRIMENDA SUPERIOR A 4 ANOS. AGRAVO REGIMENTAL DESPROVIDO.
+- A fixação da pena-base em patamar acima do mínimo legal foi devidamente fundamentada pelas instâncias ordinárias que, a teor do art. 42 da Lei n. 11.343/2006, consideraram, com preponderância sobre o previsto no art. 59 do CP, a natureza e a quantidade da droga apreendida (3,5kg de cocaína).
+ ..
+Agravo regimental desprovido.
+(AgRg no AREsp 487.774/SP, Rel. Ministro ERICSON MARANHO, DESEMBARGADOR CONVOCADO DO TJSP, SEXTA TURMA, julgado em 06/08/2015, DJe 28/08/2015, grifei.)
+No caso, não obstante alegue a defesa queo montante líquido de princípio ativo apreendido seriade 57,5g (cinquenta e sete gramas e cinco decigramas), consta da denúncia e da sentença que foram apreendidos 161,3g (cento e sessenta e um gramas e três decigramas) de crack, não se revelando desproporcional ou desarrazoado o aumento operado na primeira fase da dosimetria.
+Já quanto ao aumento realizado em virtude da reincidência específica do paciente, melhor sorte socorre a defesa.
+Isso, porque, não obstante a matéria não tenha sido enfrentada de maneira específica no acórdão reprochado, verifico a existência de ilegalidade flagrante passível de ser sanada pela concessão da ordem, ainda que de ofício.
+No caso em tela, o magistrado de piso assim consignou acerca da controvérsia (e-STJ fl. 41):
+Na segunda fase, tratando-se de reincidente especifico (fls. 158/159) apliconova majoração de 1/3, totalizando 07 (sete) anos, 09 (nove) meses e 10 (dez) dias de reclusão epagamento de 777 (setecentos e setenta e sete) dias-multa, que torno definitiva ante a inexistênciade outras circunstâncias modificadoras.
+Da análise do excerto transcrito, pois, vislumbro a existência de ilegalidade em relação ao aumento na fração de 1/3 na segunda fase da dosimetria, em virtude de a reincidência ser específica.
+Isso, porque "a quantidade de aumento de pena em decorrência das agravantes genéricas deve se pautar pelo patamar mínimo fixado para as majorantes, que é de 1/6 (um sexto). A reincidência específica não enseja aumento da pena na segunda fase da dosimetria, de forma isolada, em patamar mais elevado" (AgRg no HC n. 543.365/SP, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 10/12/2019, DJe 17/12/2019).
+Aliás, corroborando o entendimento de que a reincidência específica não consubstancia fundamento idôneo, por si só, apto a ensejar o aumento na segunda etapa da dosimetria em fração superior a 1/6, a Terceira Seção desta Corte, por ocasião do julgamento do HC n. 365.963/SP, fixou posicionamento no sentido de ser possível a integral compensação da atenuante da confissão espontânea com a reincidência, ainda que específica.
+Eis a ementa do referido julgado:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO. REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+IV - A col. Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013), firmou entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência."
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação.
+(HC 365.963/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017, grifei)
+Deve ser fixada, pois, na segunda fase da dosimetria, a fração mínima em razão da reincidência do paciente.
+Passo assim, à nova dosimetria.
+Na primeira fase, mantém-se o aumento de pena na fração de 1/6, fixando-se a pena-base em 5 anos e 10 meses de reclusão, mais pagamento de 583 dias-multa.
+Na segunda fase, em virtude da reincidência, exaspera-se a pena em 1/6, alcançando a pena intermediária 6anos, 9 meses e 20 dias de reclusão, mais pagamento de 680dias-multa.
+Na terceira etapa, ausentes causas de aumento ou diminuição de pena, consolida-se a pena do paciente em 6 anos, 9 meses e 20 dias de reclusão, mais pagamento de 680 dias-multa.
+Ante o exposto, conheço em parte da impetração e, nessa extensão, denego a ordem. Contudo, concedo a ordem, de ofício, para redimensionar a pena do paciente para6 anos, 9 meses e 20 dias de reclusão, mais pagamento de 680 dias-multa,mantidos os demais termos da condenação.
+Publique-se.
+Intimem-se.
