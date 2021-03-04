@@ -1,0 +1,50 @@
+DECISÃO
+Vistos etc.
+Trata-se recurso especial interposto por METROPOLITAN LOGÍSTICA COMERCIAL SA. eMETROPOLITAN TRANSPORTS S/A em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+Recuperação judicial. Impugnação de crédito. Banco que aduz a extraconcursalidade de seu crédito, tido como quirografário. Contratos com dupla garantia: cessão fiduciária de recebíveis e alienação fiduciária de imóvel.
+Ausência de registro junto ao Cartório de Registro de Imóveis que afasta a incidência do § 3º do art. 49 da Lei 11.101/05.Inteligência do art. 23 da Lei 9.514/97. Improcedência da pretensão, desse modo, quanto à alienação fiduciária.
+Cessão fiduciária de recebíveis que remanesce íntegra. Requisito do registro da garantia no Cartório de Títulos e Documentos no domicílio das recuperandas devidamente atendido. Créditos, efetivamente, extraconcursais.
+Cédulas de crédito que foram, posteriormente, objeto de acordo judicial de renegociação de dívida celebrado entre ainstituição bancária e a garantidora.
+Ratificação das garantias fiduciárias prestadas nos contratos originais e inclusão de nova cessão de direitos creditórios, que também foi devidamente registrada.
+Decisão que, após referida ratificação, estendeu os efeitos da recuperação judicial à garantidora, incluindo-a no polo ativo.
+Garantias registradas, portanto, antes da inclusão de nova recuperanda no procedimento de reestruturação, o que resulta no reconhecimento da natureza extraconcursal dos créditos.
+Reforma da decisão agravada. Agravo de instrumento provido.
+Os embargos de declaração foram rejeitados.
+No recurso especial, as recorrentes apontam, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos: (a) arts. 494, II, 994, IV e 1.022, I e II, do CPC, alegando que o acórdão recorrido padece de omissão, contradiçãoe obscuridade; e (b) arts.6º, 9º, III, 47, 49, §§ 2º e 3º, 59, 60, parágrafo único, 83, VI, "a", e 126, da Lei 11.101/2005; 23 e 26 da Lei 9.514/97; 167, I, 35, da Lei de Registros Públicos; 1.361, § 1º, e 1.368-A, do CC e4º, da Lei de Introdução às Normas do Direito Brasileiro, sustentando que (i) orecorrido, de má-fé, invocou a Súmula 60 do TJSP, que se refere a bens móveis,para alegar a suposta inexigibilidade de registro para a consolidação da propriedade fiduciária de bem imóvel, (ii) oacórdão admite que os referidos direitos creditórios têm por objeto a alienação fiduciária de imóvel (matrícula 24.699, do 2º CRI de Osasco) e, mesmo assim, dispensou a necessidade de seu registro na respectiva matrícula do Cartório de Registro de Imóveis, para que o crédito seja extraconcursal em relação à recuperação judicial da devedora, (iii) ofato da alienação fiduciária ter sido objeto de transação judicial ou objeto de cessão de créditoé absolutamente irrelevante quanto à necessidade de seu registro em cartório de Registro de Imóveispara a constituição da propriedade fiduciária.
+Sem contrarrazões.
+Em parecer, o Ministério Público Federal opina pelo desprovimento do recurso especial.
+Pedido de tutela provisória de urgência foi indeferido pela decisão de e-STJ Fls. 1610-1619.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece prosperar.
+Quanto à apontada violação aos arts. 494, II, 994, IV e 1.022, I e II, do CPC,não há nulidade por omissão, tampouco negativa de prestação jurisdicional, noacórdão que decide de modo integral e com fundamentação suficiente acontrovérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio deforma suficientemente ampla e fundamentada, consignando que (a) com relação à alienação fiduciária do imóvel, considerando que não houve o registro no Cartório de Registro de Imóveis, não foi constituída a garantia, de acordo com o art. 23 da Lei 9.514/97, (b) no tocante à cessão de direitos creditórios, as garantiasforam registradasno Cartório de Títulos e Documentos, em data anterior ao procedimento recuperacional e no domicílio do devedor, nos termos da Súmula 60 deste Tribunal, razão pela qual, comrelação às recuperandas Metrofile Gerenciamento Logística de Arquivos Ltda. e Metropolitan Logística Comercial Ltda, ocrédito é extraconcursal, e (c) não há omissão quanto às alegações trazidas a respeito do "Imóvel Rio", já que extrapolam o objeto recursal, tendo em vista que tal propriedade não foi objeto de garantia fiduciária nos contratos de crédito em discussão.
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+O mero inconformismo da parte com o julgamento contrário à pretensão daparte não caracteriza falta de prestação jurisdicional.
+Quanto ao mais, a tese recursal está calcada unicamente no argumento de que,no tocante à segunda garantia firmada, oacórdão admite que os referidos direitos creditórios têm por objeto a alienação fiduciária de imóvel (matrícula 24.699, do 2º CRI de Osasco) e, mesmo assim, dispensou a necessidade de seu registro na respectiva matrícula do Cartório de Registro de Imóveis, para que o crédito seja extraconcursal em relação à recuperação judicial da devedora.
+Sobre essa questão, lê-se do acórdão recorrido o seguinte:
+O banco agravante celebrou com as recuperandas Metrofile Gerenciamento Logística de Arquivos Ltda. e Metropolitan Logística Comercial Ltda. contratos de cédula de crédito bancária com dupla garantia: alienação fiduciária de imóvel e cessão fiduciária de direitos creditórios (fls. 531/539 e 561/569).
+Com relação à alienação fiduciária do imóvel, considerando que não houve o registro no Cartório de Registro de Imóveis, não foi constituída a garantia, de acordo com o art. 23 da Lei 9.514/97.
+Nesta linha decidiu a 2ª Câmara Reservada de Direito Empresarial deste Tribunal, em caso semelhante:
+"Recuperação Judicial. Credor com garantia fiduciária sobre imóveis. Não sujeição ao procedimento. Propriedade fiduciária de coisa imóvel que se constitui mediante registro no competente Registro de Imóveis. Princípio da concentração da matrícula. Execução extrajudicial que deve prosseguir, mesmo porque o prazo de 180 dias, previsto no art. 6º, §4º, da Lei nº 11.101/2005, já foi ultrapassado há muito. Recurso desprovido, revogado o efeito ativo."(AI 2009418-40.2014.8.26.0000, ARALDO TELLES; grifei).
+Improcedente o pedido do banco agravante fundado na alienação fiduciária.
+Pois bem.
+No tocante à cessão de direitos creditórios para a sua formação o crédito deve ser registrado no Cartório de Títulos e Documentos, em data anterior ao procedimento recuperacional e no domicílio do devedor, nos termos da Súmula 60 deste Tribunal. Nesta linha, leiam-se julgados das Câmaras Reservadas de Direito Empresarial deste Tribunal.
+(..)
+Ora, estes requisitos foram atendidos, já que houve o registro das garantias nos domicílios das agravadas em 28/9/2011 e 19/10/2011 (fls. 531/539 e 561/569), portanto anteriormente ao ajuizamento da recuperação judicial, que se deu em janeiro de 2012.
+Assim, em relação às recuperandas Metrofile Gerenciamento Logística de Arquivos Ltda. e Metropolitan Logística Comercial Ltda. o crédito é extraconcursal.
+Ocorre que, a garantidora das cédulas de crédito bancário, Bavet SP Participações S/A, transacionou com o banco agravante quanto a tais créditos nos autos do processo de execução 583.00.2012.134396-5, em trâmite perante a 12ª Vara Cível do Foro Central da Comarca de São Paulo (fls. 466/475).
+Em razão da transação houve a novação das dívidas (fls. 466/475), sendo ratificadas todas as garantias prestadas nos contratos originais e, ademais, incluída nova garantia, consistente na cessão fiduciária em garantia de direitos de promissória compradora quanto ao imóvel de matrícula 24.699 do 2º Oficial de Registro da Comarca de Imóveis, a qual foi devidamente registrada (fls. 588/592).
+Deu-se, em sequência, nos autos da recuperação judicial, a extensão da recuperação à garantidora Bavet (fls. 441/442), que foi incluída, desse modo, na reestruturação.
+Assim, considerando que, conforme exposto, foram as garantias prestadas ratificadas e devidamente registradas antes da inclusão da Bavet no procedimento recuperacional, os créditos são extraconcursais também em relação a esta.
+Posto isso, reformo a r. decisão agravada, para reconhecer a extraconcursalidade dos créditos do agravante em relação às recuperandas Metrofile Gerenciamento Logística de Arquivos Ltda., Metropolitan Logística Comercial Ltda. e Bavet SP Participações S/A.
+Como se vê,as razões recursaisnão refutam, direta e especificamente, os fundamentos do acórdão recorrido,atraindo o óbice do enunciado da Súmula 283/STF, aplicável por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso nãoabrange todos eles".
+Ademais, acatar os argumentos do recurso especial demandaria a incursão no conjunto fático-probatório dos autos, providência vedada à luz doenunciado da Súmula 7/STJ.
+Com efeito,não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o Tribunal de origem a concluir acerca da existência de uma garantia decorrente de uma simples cessãofiduciária de direitos creditórios e não de uma alienação fiduciária de imóvel propriamente dita.
+Como se sabe, o recurso especial possui fundamentação vinculada, com forma econteúdo próprios, e se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa.
+Por fim, registro que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", o que prejudica aanálise do dissídio jurisprudencial.
+Diante do exposto, não conheço do recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO EMPRESARIAL E PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO AO CRÉDITO. CARÁTER EXTRACONCURSAL RECONHECIDO PELO TRIBUNAL DE ORIGEM. FUNDAMENTOS SUFICIENTES NÃO ATACADOS. SÚMULA 283/STF. PRETENSÃO RECURSAL QUE DEMANDA O REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
