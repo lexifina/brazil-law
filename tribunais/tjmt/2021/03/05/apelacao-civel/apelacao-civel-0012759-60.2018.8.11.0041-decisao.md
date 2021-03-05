@@ -1,0 +1,28 @@
+RECURSO DE APELAÇÃO CÍVEL N.o 0012759-60.2018.8.11.0041
+Vistos etc.
+Trata-se de Recurso de Apelação interposto pela Associação dos Pequenos Produtores Fonte de Luz e outros, em virtude da sentença proferida pela Juíza da Vara Especializada em Direito Agrário da Capital, nos autos dos Embargos de Terceiros opostos em face da Indústria de Derivados da Mandioca Santa Cruz Ltda., em dependência aos autos da Ação de Reintegração de Posse, em fase de cumprimento de sentença – Código 245563.
+A Julgadora extinguiu o feito sem resolução do mérito, por reconhecer que os Autores/Apelantes integram à lide principal, de forma que não têm legitimidade para a oposição dos Embargos, por não serem terceiros.
+Ao final, condenou os Recorrentes ao pagamento das custas processuais, com observância da regra do artigo 98, § 3.o, do CPC, isentando-os do pagamento de honorários advocatícios porque não houve angularização processual.
+Em suas razões, os Recorrentes pugnam pela concessão de medida liminar, com expedição de mandado de manutenção de posse, respectivamente da área de 1.426,956 ha arrecadadas pelo Estado de Mato Grosso, consoante matrícula n.o 92.578, do Cartório do 2.o Ofício de Cuiabá, eis que presentes a plausibilidade do direito e o receio de dano irreparável, diante da pré-constituição das provas documentais.
+Também requerem a suspensão do cumprimento da ordem de reintegração de posse proferida nos autos da Ação principal.
+DECIDO.
+Nos termos do artigo 932 da Lei de Ritos, incube ao Relator a apreciação do pedido de tutela provisória, que abrange a antecipação de tutela, formulado em quaisquer Recursos.
+Contudo, nos termos do artigo 300 do CPC, para que tal pleito seja acolhido, devem estar presentes dois requisitos: a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo.
+Assim, para a concessão da tutela pretendida pelos Apelantes é necessária constatação de elementos que evidenciem a probabilidade da existência do direito sustentado e o perigo de dano ou risco ao resultado útil do processo, que se consubstancia no perigo ao direito material diante da morosidade ou retardamento no trâmite processual que podem se tornar irreversíveis em prejuízo da parte.
+A respeito dos referidos requisitos, oportuna a lição de Luiz Guilherme Marinoni, in verbis:
+3. Probabilidade do direito. [...] A probabilidade que autoriza o emprego da técnica antecipatória para a tutela dos direitos é a probabilidade lógica – que é aquela que surge da confrontação das alegações e das provas com os elementos disponíveis nos autos, sendo provável a hipótese que encontra maior grau de confirmação e menor grau de refutação nesses elementos. O juiz tem que se convencer de que o direito é provável para conceder tutela provisória.
+4. Perigo na demora. [...] A tutela provisória é necessária simplesmente porque não é possível esperar, sob pena de o ilícito ocorrer, continuar ocorrendo, ocorrer novamente, não ser removido ou de dano não ser reparado ou reparável no futuro. Assim, é preciso ler as expressões perigo de dano e risco ao resultado útil do processo como alusões ao perigo na demora. Vale dizer: há urgência quando a demora pode comprometer a realização imediata ou futura do direito. [...] (in MARINONI. Luiz Guilherme. ARENHART. Sérgio Cruz. MITIDIERO. Daniel. Novo código de processo civil comentado. 1a ed. em e-book baseada na 1a ed. impressa. São Paulo: RT. 2015).
+Na hipótese, não verifico a confluência desses pressupostos.
+Ao que se observa do caderno processual, a Juíza singular constatou que os Apelantes não são efetivamente terceiros, mas partes ou meros sucessores das partes nos autos da ação principal.
+Consultei os autos da Ação de Reintegração de Posse que deu causa à oposição destes Embargos pelos Apelantes e constatei que foi ajuizada pela Indústria de Derivados da Mandioca Santa Cruz Ltda. em face da Associação dos Acampados da Gleba Boa Sorte, a qual é representada pela Sra. Ivone Maria da Silva Portugal, que também é presidente da Associação dos Pequenos Produtores Fonte de Luz, aqui Apelante e representante dos demais Recorrentes.
+Logo, nesta análise perfunctória dos autos, tenho que não subsiste a alegada probabilidade do direito, e não há como acolher o pedido de antecipação da tutela recursal.
+Quanto ao pedido de efeito suspensivo, consoante dispõe parágrafo único, do artigo 995, do Código de Processo Civil, “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.”
+Para justificar o deferimento do pleito, portanto, não basta a aparente situação de prejuízo, mas é imprescindível a comprovação do perigo de que este prejuízo se torne irreversível ou de improvável recomposição caso não sejam sobrestados os efeitos da decisão recorrida, bem como se exige a probabilidade de que o recurso seja provido.
+Na hipótese, considerando que a Ação de Reintegração de Posse foi sentenciada e que aquela sentença transitou em julgado em 11/02/2014, bem como que os Requeridos da Ação Possessória, ao que se extrai do Sistema PRIMUS, requereram a suspensão da ordem de reintegração de posse e que pleito foi indeferido pelo Juiz singular em 15/09/2020, tenho que a prudência recomenda o indeferimento do pedido, até o que seja analisado o mérito do Apelo.
+Nesse contexto, indefiro tanto o pedido de antecipação de tutela, quando o efeito suspensivo ao Recurso de Apelação.
+Intimem-se.
+Decorrido o prazo recursal, conclusos para análise do mérito.
+Cumpra-se.
+Cuiabá-MT, 05 de março de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
