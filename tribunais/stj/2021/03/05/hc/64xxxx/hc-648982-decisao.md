@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim relatado(fls. 132-134):
+Os advogados Victor Hugo Anuvale Rodrigues e Ana Beatriz de Castro Laudino impetram este habeas corpus, com pedido liminar, em favor de ALLISSON RYAN DE ALENCAR ANTONIO que foi condenado à pena de 01 (um) ano, 09 (nove) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e ao pagamento de 13 (treze) dias-multa, por infração ao art. 157, § 2º, inciso II, c.c. o art. 14, inciso II, ambos do Código Penal, tendo o r. decisum transitado em julgado para o Ministério Público, em 26.02.2020, e para o paciente, em 02.03.2020 (fls. 96/97).
+Afirmam os impetrantes que o regime imposto deve ser redimensionado, ponderando que não houve fundamentação idônea para a fixação da modalidade maisgravosa, não bastando invocar a gravidade empregada na execução do delito, ainda mais sendo o paciente primário e de bons antecedentes.
+Assim, pleiteiam a fixação do regime prisional aberto e a aplicação do instituto previsto no artigo 387, § 2º, do Código de Processo Penal.
+A liminar restou indeferida por esta Relatoria (fls. 115/116) e as informações prestadas pela autoridade apontada como coatora foram juntadas aos autos (fls. 119/120).
+Nesta instância, a douta Procuradoria Geral de Justiça opinou pelo não conhecimento da ordem (fls. 124/125).
+Em 14.12.2020, esta Colenda 3ª Câmara de Direito Criminal, por votação unânime, não conheceu do writ (fls. 127/131).
+Inconformado, perante o Colendo Superior Tribunal de Justiça, apresentou o ora paciente o Habeas Corpus nº 634.222/SP, tendo a referida Corte Superior, em decisão proferida em 15.12.2020, determinado que este Egrégio Tribunal aprecie o mérito do mandamus, nos seguintes termos: "No caso, o Tribunal deJustiça entendeu que o habeas corpus não seria o recurso adequado para a discussão do regime prisional. Não obstante, nota-se que a sentença transitou em julgado, não cabendo mais, portanto, a interposição da apelação criminal.
+Além do mais, embora efetivamente o meio correto e legal para ver reformada sentença transitada em julgado seja a revisão criminal, não pode ser impedido o célere acesso pela via do habeas corpus para o enfrentamento de temas de direito, como se tem na espécie. Assim, constata-se do acórdão impugnado que a Corte de origem não examinou alegação essencial do writ, configurando constrangimento ilegal diante da negativa de prestação jurisdicional, conforme jurisprudência desta Corte: (..) Ante o exposto, concedo liminarmente o habeas corpus para determinar que o Tribunal de Justiça examine, como entender de direito, o pleito formulado pelo impetrante, relativamente ao regime prisional, face à possibilidade de flagrante ilegalidade."  sic  (fls. 139/141).
+É O RELATÓRIO.
+O pacientefoicondenadoàs penas de 01 (um) ano e 09 (nove) meses de reclusão, em regime inicial fechado, e ao pagamento de 04 (quatro) dias- multa, como incurso no artigo 157, §2º, II, c.c. art. 14, II, do CP.
+A defesa busca sejafixado o regime abertopara o cumprimento da pena.
+Requer, liminarmente e no mérito, a fixaçãodo regime aberto.
+É o relatório.
+DECIDO.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Acerca do regime fixado, o Tribunal de origem assim dispôs (fls. 135-136):
+O MM. Juízo a quo, acertadamente, fixou o regime fechado para o início de cumprimento de pena, deixando de aplicar o instituto previsto no artigo 387, §2º, do Código de Processo Penal, assim ponderando:
+"Fixo, como regime inicial de cumprimento da pena, nos termos do artigo 33, §2º, "c", do Código Penal, o regime fechado para o delito de roubo, o único compatível com a gravidade em concreto demonstrada pela forma de execução do delito. (..) Deixo de aplicar o quanto disposto no art. 387, §2º, do Código de Processo Penal, vez que ausente elemento subjetivo imprescindível para análise do dispositivo."  sic  (fls. 12)
+De fato, correta a fixação da modalidade prisional fechada, considerando, sobretudo, a gravidade concreta da hipótese vertente (crime de roubo majorado pelo concurso de agentes, praticado mediante grave ameaça exercida pela simulação da arma de fogo e com o emprego de violência, consistente em dar um puxão na vítima pelo pescoço), nos termos do artigo 33, § 3º, do Código Penal.
+No tocante ao regime estipulado para cumprimento da pena, porquanto fundamentado essencialmente na gravidade abstrata do delito, tratando-se de réuprimário, com bons antecedentes e circunstâncias judiciais favoráveis (fls. 14), faz jus ao regime aberto, conforme disposto na Súmula 440/STJ: fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Ante o exposto, concedo liminarmente a ordem de habeas corpus, a fim fixar o regime aberto para o cumprimento da pena fixada ao paciente.
+Publique-se.
+Intimem-se.
