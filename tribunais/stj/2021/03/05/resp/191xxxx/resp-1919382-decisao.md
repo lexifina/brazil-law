@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto por VICTOR GABRIEL PEREIRA DOS SANTOS com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, alegando violação ao art. 68, parágrafo único, do Código Penal.
+Sustenta, em síntese, que houve indevido aumento da pena na terceira fase da dosimetria, com base exclusivamente no número de majorantes, sem que houvesse fundamentação idônea, afrontando o dispositivo legal citado e o entendimento da Súmula n. 443/STJ.
+Requer, assim, a reforma do acórdão recorrido, para que seja reduzida a pena, aplicando-se um só aumento, considerando-se a causa mais grave.
+Contrarrazões (fl. 405-414).
+Parecer do Ministério Público Federal, pelo provimento do recurso (fl. 427-429).
+É o relatório.
+Decido.
+Extrai-se dos autos que VICTOR GABRIEL PEREIRA DOS SANTOS foi condenado às penas de 10 (dez) anos e 08 (oito) meses de reclusão, em regime inicial fechado, e 25 dias-multa, pela prática do delito previsto no art. no artigo 157, §2º, inciso II e §2º-A, inciso I, por três vezes, na forma do artigo 70, do Código Penal.
+Por sua vez, a Corte de origem deu parcial provimento aos recursos das partes, redimensionando as penas para 10 (dez) anos e 08 (oito) meses de reclusão, em regime fechado, e 63 (sessenta e três) dias-multa, no mínimo legal, em acórdão assim ementado (fl. 366):
+"Apelações e Recurso em Sentido Estrito. Roubos, em concurso formal, circunstanciados pelo concurso de pessoas e emprego de arma. Art. 157, § 2º, inciso II e §2º-A, inciso I, por três vezes, na forma do art. 70, caput, do CP.
+Recurso em sentido estrito julgado em conjunto ao de apelação, considerando a matéria tratada e o princípio da unirrecorribilidade das decisões.
+Órgão de acusação busca o reconhecimento da nulidade da sentença, em razão do não recebimento do aditamento. Não acolhida. Circunstância da alegada restrição de liberdade da vítima que já era conhecida quando do oferecimento da denúncia. Aditamento que não se presta para mera correção da incoativa, se relacionando a fatos novos, constatados no decorrer da instrução.
+Acusado que não manteve os ofendidos sob seu poder em período acima do necessário para a consumação do delito. Autoria e materialidade bem delineadas. Pena-base fixada no mínimo legal, reduzida consoante apelo defensivo. Compensação da reincidência com a confissão. Entendimento consolidado do C. STJ. Causas de aumento aplicadas de forma cumulativa, conforme requerido pelo Parquet. Concurso formal dos delitos. Aplicação do artigo 72 do Código Penal.
+Regime mantido, pois bem fixado e fundamentado.
+Apelos defensivo e da acusação parcialmente providos. Recurso em sentido estrito não provido".
+No que se refere à dosimetria da pena, eis os fundamentos da sentença (fls. 118-119):
+Passo ao cálculo da pena, com fundamento nos artigos 59, 60, 61 e 65 do Código Penal.
+Para efeitos do artigo 59 do Código Penal, observa-se que as circunstâncias e consequências do crime não extrapolam as elementares do tipo penal, partindo-se do mínimo legal de quatro anos de reclusão e dez dias-multa. Presentes duas causas especiais de aumento de pena, concurso de pessoas (aumento de 1/3 até a metade), emprego de arma de fogo (aumento de 2/3). Melhor entendimento é a aplicação do artigo 68 do Código Penal, devendo ser limitado o aumento de pena a uma só, prevalecendo a maior. A causa restante deverá ser considerada como circunstancia judicial desfavorável na primeira fase da dosimetria da pena, em patamar mínimo legal de 1/3, desde que as circunstancias da conduta não extrapolem as elementares do tipo penal qualificado. Por tais fundamentos, a pena base fica acrescida de 1/3, em cinco anos e quatro meses de reclusão e treze dias-multa.
+A reincidência (Processo 26612-92.2018 - desta Vara) deve ser sopesada pena atenuante genérica de confissão judicial espontânea, conforme reiterado entendimento jurisprudencial: (..)
+Não constam outras circunstancias agravantes ou atenuantes previstas nos artigos 61 e 65 do Código Penal. Pela causa especial de aumento de pena, emprego de arma, acrescida de 2/3 a pena, em oito anos, dez meses e vinte dias de reclusão e vinte e um dias multa.
+Por fim, o acréscimo de 1/5 pelo concurso formal de crimes, nos termos do artigo 70 do Código Penal, totalizando as penas de dez anos e oito meses de reclusão, e vinte e cinco dias multa.
+Sobre o ponto, eis os fundamentos do acórdão (fls. 375-379):
+Assim determinada a reprovação penal, passa-se à análise da dosimetria da pena.
+Na primeira fase de estimação, verifica-se que o juízo monocrático fixou a pena em 1/3 (um terço) acima do piso legal, considerando a circunstância do concurso de agentes e diante da presença de duas majorantes, com a aplicação do quanto disposto no artigo 68, §único, do Código Penal na terceira etapa da dosimetria.
+Contudo, este relator possui o entendimento de que o concurso entre as duas majorantes do roubo citadas implica na aplicação separada e cumulativa das causas de aumento, inclusive em conformidade com a jurisprudência do C. Superior Tribunal de Justiça:
+(..)
+Desse modo, considerando que a circunstância do concurso de agentes será considerada na terceira fase da dosimetria, de rigor o afastamento do aumento na pena-base, a fim de evitar-se o bis in idem. De outro lado, salvaguardando o entendimento esposado pelo Parquet, não se vislumbram motivos outros aptos a ensejar a exasperação na primeira fase, considerando que, consoante prova oral, a grave ameaça empregada não desborda aquela própria do tipo penal em questão. Assim, fixo a pena-base do acusado no piso legal, qual seja, 04 (quatro) anos de reclusão e 10 (dez) dias-multa, no mínimo.
+Na segunda etapa, o juízo compensou a atenuante da confissão com a reincidência do acusado (fls. 49/50), com o que não concorda o Ministério Público. Nesse tocante, malgrado este relator tenha, no passado, apresentado entendimento de que a agravante da reincidência deveria preponderar, mas sem se deixar de considerar a presença da atenuante da confissão, verificou-se a necessidade de mudança de posição.
+Isto porque, a viabilidade de compensação integral entre reincidência e confissão é atualmente entendimento consolidado no C. Superior Tribunal de Justiça. Com essa exegese:
+(..)
+Assim, necessária a compensação entre a atenuante e a agravante acima destacadas, mantendo-se a reprimenda tal como aplicada na primeira fase.
+Na terceira etapa, como já explorado, em razão da causa de aumento do concurso de agentes, a pena deve ser aumentada em 1/3 (um terço), de modo que alcança 05 (cinco) anos e 04 (quatro) meses de reclusão e pagamento de 13 (treze) dias-multa. Ainda nesta fase, devidamente majorada a reprimenda em 2/3 (dois terços) pelo emprego de arma de fogo, totalizando 08 (oito) anos, 10 (dez) meses e 20 (vinte) dias de reclusão e pagamento de 21 (vinte e um) dias-multa.
+Considerando que três foram os patrimônios atingidos e que o incriminado tinha condições de conhecer esta circunstância, mantém-se a elevação da pena no patamar de 1/5 (um quinto), pelo reconhecimento do concurso formal entre os delitos (cf. art. 70, caput, primeira parte, do CP) fração a ser aplicada, segundo reiterada jurisprudência. Com isso, chega-se a uma reprimenda equivalente 10 (dez) anos e 08 (oito) meses de reclusão.
+Quanto à pena de multa, verifica-se que as sanções devem ser somadas, na forma do artigo 72 do Código Penal, alcançando 63 (sessenta e três) dias-multa, no mínimo legal.
+O regime inicial de cumprimento pena há de ser o fechado.
+Nos termos do entendimento cristalizado na Súmula 443/STJ, o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+No caso dos autos, verifica-se que as circunstâncias concretas do crime de roubo - cometido com o emprego de arma de fogo e em concurso de agentes em 17/12/2019 - autorizam a majoração da pena, na forma determinada após a vigência da Lei 13.654/2018.
+Entretanto, na terceira fase da dosimetria, não houve violação da Súmula 443/STJ, porquanto aplicada fração mínima legal de 1/3 pelo concurso de agentes.
+Da mesma forma, de rigor a incidência da majorante de 2/3 do art. 157, § 2º-A, I, do Código Penal, na medida em que, sendo o delito cometido com o emprego de arma de fogo, a elevação é arbitrada em índice fixo pelo legislador, não cabendo ao julgador, portanto, ponderar sobre o quantum da exasperação.
+Desse modo, na terceira etapa, devem ser mantidas as causas de aumento de pena previstas no art. 157, § 2º, II, e § 2º-A, I, do CP, exasperando a pena em 1/3 pelo concurso de agentes, e, em seguida, em 2/3, pelo emprego de arma de fogo, resultando na pena de 8 anos, 10 meses e 20 dias de reclusão e ao pagamento de 21 dias-multa.
+Com o acréscimo de 1/5 (um quinto), pelo reconhecimento do concurso formal entre os delitos (art. 70, caput, primeira parte, do CP) fração a ser aplicada, chegou-se a uma reprimenda equivalente 10 (dez) anos e 08 (oito) meses de reclusão, e de 63 (sessenta e três) dias-multa, no mínimo legal.
+Ausente, portanto, ilegalidade a ser sanada por esta Corte Superior, não havendo falar em apenamento excessivo.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
