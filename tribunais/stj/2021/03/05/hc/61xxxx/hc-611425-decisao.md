@@ -1,0 +1,21 @@
+DECISÃO
+RENATO VIEIRA MOREIRA alega sofrer constrangimento ilegal em virtude de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que julgou extinto sem apreciação de mérito o HC n. 2001961-10.2021.8.26.0000.
+Nesta Corte, a defesa sustenta a (a) ilegalidade da prisão decorrente da ausência de exame de corpo de delito do preso; a (b) violação da Recomendação n. 62/2020 do CNJ; a (c) ausência do preenchimento dos requisitos da prisão preventiva, bem como a (d) ausência de fundamentação idônea do decreto preventivo.
+Requer o relaxamento da prisão ou, alternativamente, a sua revogação ou, ainda, subsidiariamente, a aplicação do art. 319 o CPP.
+Decido.
+O Tribunal de origem assim dirimiu a questão:
+ ..
+Além disso, reitero que o Impetrante não noticiou nenhuma situação concreta, como infecção por Covid-19 na unidade prisional em que se encontra custodiado o Paciente ou o agravamento de seu estado de saúde, que induzisse à premência da concessão de sua liberdade.
+Verifica-se, deste modo, que os fundamentos trazidos pelo Agravante já foram apreciados exaustivamente pela Decisão vergastada, consubstanciando-se a pretensão, na verdade, em reexame do mérito do "writ" e abuso manifesto dos mecanismos de exercício da pretensão. Há evidente manobra de supressão de instância, eis que o Agravante não alegou, por ocasião da impetração, nenhuma das hipóteses previstas no art. 648 do CPP.
+Salienta-se que, nos termos do art. 31, VIII, do Regimento Interno do TJERJ, houve expressa indicação da Súmula nº 69 desta Corte  ..  (fl. 28)
+Logo, não houve nenhum pronunciamento sobre a alegação posta na inicial do mandamus por parte do Tribunal de Justiça do Estado de São Paulo. Assim, a "matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/10/2018).
+As questões foram suscitadas no habeas corpus originário, que "julgou extinto o "habeas corpus", sem apreciação do mérito", "diante da manifesta ausência de pressuposto processual do HC - cabimento - e da flagrante supressão de instância, à luz da Súmula nº 69 desta Corte" (fls. 65-66)
+Este Superior Tribunal de Justiça compreende que o Tribunal de origem sempre deve averiguar a existência ou não de ilegalidade flagrante, relacionada a questão de direito. Com efeito:
+II - A não manifestação do eg. Tribunal a quo sobre o mérito da impetração, na hipótese, configurou indevida negativa de prestação jurisdicional. Tratando-se de questão relevante, devidamente suscitada no writ originário, e não apreciada, devem os autos ser remetidos à eg. Corte estadual para que se pronuncie acerca da quaestio.
+III - Embora a via estreita do writ não se preste à análise aprofundada do tema debatido, é preciso que a ilegalidade prima facie seja afastada de forma fundamentada. Assim, não obstante a previsão de recurso próprio no ordenamento jurídico, é admissível a utilização do mandamus, quando a pretensão não demanda, em princípio, revolvimento de matéria probatória.
+ ..  Ordem concedida, de ofício, para anular o v. acórdão do eg. Tribunal a quo, determinando que este aprecie, como entender de direto, a questão deduzida no mandamus originário.
+(HC n. 398.690/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 10/8/2017).
+As matérias discutidas pela defesa são eminentemente de direito, relacionadas às teses de ilegalidade da prisão decorrente da ausência de exame de corpo de delito do preso; de violação da Recomendação n. 62/2020 do CNJ; de ausência do preenchimento dos requisitos da prisão preventiva e de ausência de fundamentação idônea do decreto preventivo.
+Assim, os autos devem retornar à origem, para que o Tribunal de Justiça analise se a questão de direito foi corretamente dirimida e se manifeste sobre a possibilidade de concessão da ordem.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus, haja vista a falta de manifestação da Corte estadual sobre o mérito da causa. Contudo, concedo a ordem, de ofício, para determinar o retorno dos autos ao Tribunal de Justiça do Estado de São Paulo, a fim de que se pronuncie acerca da ocorrência de eventual ilegalidade do ato apontado como coator.
+Publique-se e intimem-se.
