@@ -1,0 +1,12 @@
+DECISÃO
+JOEL PEREIRA alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à apelação defensiva.
+Neste writ, pretende o impetrante, em síntese, ver afastado o aumento de 1/3 decorrente da apreensão de munições junto com a arma. Afirma que a "munição apreendida não é fundamento apto para avaliar negativamente a circunstância do crime, porquanto tal moduladora é inerente ao tipo penal" (fl. 6).
+Sem pedido de liminar. Prestadas as informações, foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento da ordem (fls. 124-128).
+Decido.
+Depreende-se dos autos que, ao majorar a pena-base, em razão da apreensão de munições junto com a arma, assinalou o Magistrado de primeiro grau, cuja decisão foi ratificada pelo Tribunal de origem, o seguinte (fl. 40, destaquei):
+ ..
+Assim, por tal fato as penas devem ser fixadas acima do mínimo legal em 1/6. Todavia, quanto ao delito de porte ilegal de arma, houve a apreensão não somente de uma arma de fogo, mas também de munição. Logo, em um único contexto fático vários objetos ilícitos foram encontrados, o que deve influir na quantificação da pena-base, que aumentarei de 1/3, deste modo fixo em 04 anos e 06 meses de reclusão, e 15 dias-multa (arma com aumento de 1/3  1/6 =  ) e em 02 anos e 04 meses, e 11 dias-multa (falso com aumento de 1/6).
+Como se observa pelo referido trecho da sentença condenatória, o juiz aumentou em 1/3 a pena-base, em virtude da apreensão de munições no mesmo contexto fático que redundou na condenação do paciente pelo porte ilegal de arma de fogo, aumento esse que se somou a 1/6 pelas circunstâncias judiciais desfavoráveis.
+Entretanto, segundo a orientação desta Corte, "no crime de porte ilegal de arma de fogo, o fato de a arma apreendida estar municiada não constitui condição necessária para a configuração do tipo penal descrito no art. 16 da Lei 10.826/2003, e não evidencia maior grau de censura da ação, o que impede o aumento da pena-base" (AgRg no AREsp n. 896.648/DF, Rel. Ministro Ribeiro Dantas, DJe 1º/3/2019, grifei). Nesse mesmo sentido, ainda, como bem indicou a defesa, o acórdão proferido no AgRg no HC n. 547.030/SP, de relatoria do Ministro Nefi Cordeiro, publicado no DJe 14/02/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem para afastar o aumento de 1/3 da pena-base, em decorrência da apreensão de munição junto com a arma de fogo.
+Publique-se e intimem-se.
