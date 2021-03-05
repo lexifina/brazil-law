@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em face de acórdão, assim ementado (fl. 457):
+Apelação. Crimes de tráfico de drogas, e de associação ao tráfico. Preliminar de nulidade por irregularidade na prisão em flagrante. Rejeição. Absolvição do crime de associação ao tráfico por insuficiência de provas.
+Impossibilidade. Materialidade e autoria demonstradas.
+Desclassificação do crime de tráfico de drogas para o crime de posse de drogas para consumo pessoal. Não cabimento. Fixação da pena-base no mínimo legal. Não cabimento. Aplicação do redutor especial de penas. Não cabimento. Diminuição da pena de multa.
+Impossibilidade. Modificação do regime inicial para outro de menor intensidade. Não cabimento. Restituição de coisa apreendida. Impossibilidade. Não provimento aos recursos.
+Consta dos autos que os pacientes foram condenados à 10 anos de reclusão, em regime inicial fechado, mais 1400 dias-multa, pela prática dos delitos de tráfico de drogas e associação para o tráfico.
+A defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe negou provimento.
+No presentehabeas corpus, alega que deveria ser revogada a prisão preventiva dos pacientes imposta pelo Tribunal de origem, em sede de apelação. Destaca que, na sentença, foi concedido aos pacientes o direito de recorrer em liberdade.
+Aduz, ainda, que a prisão preventiva teria sido decretada de ofício, e tratar-se-ia, de fato, de execução antecipada da pena.
+Requer a concessão da ordem constitucional para que seja revogada a prisão preventiva.
+A liminar foi indeferida, contudo, após pedido de reconsideração o pleito sumário foi deferido (fls. 498-450).
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela concessão da ordem.
+É o relatório.
+DECIDO.
+No tocante à alegação de ilegalidade por decretação da prisão preventiva, em sede de apelação, tem-se que a segregação cautelar foi determinada pelo Tribunal de origem, nos seguintes termos (fls. 472-474):
+Por fim, seja em face da inadequada permissão para os Réus aguardarem o julgamento de recurso em liberdade (reforçada agora pela mantença das condenações), seja pelanecessidade de se assegurar a paz pública (na qual se embutem, tanto a garantia da ordem pública, quanto a asseguração da efetiva aplicação da lei penal), seja pela regra específica do artigo 59 da Lei nº 11.343/06, e especialmente pela situação fática concreta (Repetindo: Réus que, associados, produziam e comercializavam maconha na forma de "skunk", droga com potencial tóxico em média quatro vezes superior à maconha, guardando e mantendo em depósito considerável quantidade e variedade dessa substância), sabendo-se também que eventuais recursos, desta fase em diante, têm cabimento restrito e sem efeito suspensivo, como, aliás, já reconheceu o Superior Tribunal de Justiça  .. DECRETA-SE A PRISÃO PREVENTIVA DOS RÉUS de acordo com a situação fática suso exposta (destacado que NÃO SE TRATA, PORTANTO, DE PRISÃO AUTOMÁTICA PELO JULGAMENTO EM SEGUNDA INSTÂNCIA, fiquem os desavisados bem alertados e cientes disso!!), com fundamento no artigo 387 § 1º, c/c artigo 312, ambos doCódigo de Processo Penal, com a imediata expedição de mandado de prisão.
+O art. 311 do CPP passou a determinar que"Em qualquer fase da investigação policial ou do processo penal, caberá a prisão preventiva decretada pelo juiz, a requerimento do Ministério Público, do querelante ou do assistente, ou por representação da autoridade policial".
+Portanto, deixou de existir a previsão legal da decretação da prisão preventiva de ofício pelo Juiz no curso do processo judicial.
+O art. 312, §1º, determina que"A prisão preventiva também poderá ser decretada em casode descumprimento de qualquer das obrigações impostas por força de outras medidas cautelares (art. 282, §4º)".
+Ainda que o Juiz tenha o poder de cautela em geral, isto é, sempre deverá analisar a cautelaridade, no curso do processo, das medidas já impostas, o art. 282, §4º, é claro ao determinar que "No caso de descumprimento de qualquer das obrigações impostas, o juiz,mediante requerimento do Ministério Público, de seu assistente ou do querelante, poderá substituir a medida, impor outra em cumulação, ou, em último caso, decretar a prisão preventiva, nos termos do parágrafo único do art. 312 deste Código".
+Então, seja para decretar, ou substituir medidas cautelares pela prisão preventiva, ainda que no curso do processo judicial, é necessário pedido préviodo Ministério Público, de seu assistente ou do querelante.
+Nesse sentido o precedente do Supremo Tribunal Federal-STF:
+ ..
+A Lei n. 13.964/2019, ao suprimir a expressão "de ofício" que constava do art. 282, §§ 2º e 4º, e do art. 311, todos do Código de Processo Penal, vedou, de forma absoluta, a decretação da prisão preventiva sem o prévio "requerimento das partes ou, quando no curso da investigação criminal, por representação da autoridade policial ou mediante requerimento do Ministério Público", não mais sendo lícita, portanto, com base no ordenamento jurídico vigente, a atuação "ex officio" do Juízo processante em tema de privação cautelar da liberdade. A interpretação do art. 310, II, do CPP deve ser realizada à luz dos arts. 282, §§ 2º e 4º, e 311, do mesmo estatuto processual penal, a significar que se tornou inviável, mesmo no contexto da audiência de custódia, a conversão, de ofício, da prisão em flagrante de qualquer pessoa em prisão preventiva, sendo necessária, por isso mesmo, para tal efeito, anterior e formal provocação do Ministério Público, da autoridade policial ou, quando for o caso, do querelante ou do assistente do MP. Magistério doutrinário. Jurisprudência (STF, HC 186490, Relator(a): CELSO DE MELLO, Segunda Turma, julgado em 10/10/2020, PROCESSO ELETRÔNICO DJe-255 DIVULG 21-10-2020 PUBLIC 22-10-2020).
+Ante o exposto, concedo o habeas corpuspara a soltura dos paciente, EURICO VELLOSO DE FARIA e CAROLINA ELENA DO NASCIMENTO SILVA, o que não impede nova e fundamentada decisão de necessária medida cautelar requerida nos termos legais, inclusive menos grave que a prisão processual.
+Comunique-se.
+Publique-se.
+Intimem-se.
