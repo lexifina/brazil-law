@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JÚNIOR CEZAR DO CARMO SILVAouJÚNIOR CESAR DO CARMO SILVA (e-STJ fls. 504/509) contra decisão monocrática de e-STJ fls. 494/496, proferida pela Presidência desta Corte Superior, que conheceu do agravo para não conhecer do seu recurso especial.
+A parte agravante alega: (i) a não incidência da Súmula 283/STF; (ii) a possibilidade da fixação do regime aberto para o cumprimento da pena.
+Requer, assim, a reconsideração da decisão agravada.
+Instado a se manifestar, o Ministério Público Federal opinou pela intimação do Parquet estadual (e-STJ fls. 520).
+É o relatório. Decido.
+Com razão a agravante no que tange a não incidência da Súmula n. 283/STF, uma vez que todos os fundamentos do acórdão recorrido foram atacados.
+Assim, o recurso merece conhecimento.
+Em relação ao regime de cumprimento de pena, ajurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência.
+Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual,fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Portanto, é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do CP ou em outra situação que demonstre a gravidade concreta do crime. Precedentes: HC n. 325.756/SP, RelatorMinistro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, RelatorMinistro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, RelatorMinistro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+No caso dos autos,verifica-se que o regime mais gravoso foi fixado com base no fato de queJUNIOR intimidou a vítima com um cano de 50 cm de comprimento (fls. 60) e subtraiu expressiva importância em dinheiro(e-STJ fls. 439), no caso, R$ 5.000,00, o queconfiguramotivação concreta a justificar regime semiaberto, mesmo sendo o acusadoprimárioe apena-base tersido fixadano mínimo legal. Precedentes:AgRg no AREsp n. 1.708.535/RJ, RelatorMinistro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 8/9/2020, DJe 15/9/2020;HC n. 410.645/SP, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 23/11/2017, DJe 1º/12/2017.
+Ante o exposto, reconsidero a decisão de e-STJ fls. 494/496, ecom fundamento no art. 932, inciso VIII, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ e na Súmula n. 568/STJ,conheçodo agravo, paranegarprovimento ao recurso especial.
+Intimem-se.
