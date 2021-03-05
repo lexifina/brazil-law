@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Leandro Viana Santos, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo - que deu parcial provimento à apelação defensiva, redimensionando a pena imposta para 6 anos, 9 meses e 20 dias de reclusão, e 680 dias-multa (fls. 24/31), alterando, assim, a sentença prolatada pelo Juízo de Direito da 4ª Vara Criminal da comarca de Osasco/SP, que o condenou a 7 anos, 5 meses e 25 dias de reclusão, em regime inicial fechado, e ao pagamento de 747 dias-multa (fls. 10/23 - Ação Penal n. 0031308-81.2015.8.26.0405), pela prática do crime de tráfico de drogas (29,7 g de cocaína, 22,85 g de maconha e 20,78 g de crack) -, alegando-se constrangimento ilegal na dosimetria da pena imposta.
+Sustenta a impetrante, em síntese, negativa de reconhecimento da atenuante da confissão e sua compensação com a agravante da reincidência, ao argumento de que, contrariando a jurisprudência do Superior Tribunal de Justiça, o Tribunal a quo reconheceu a confissão, mas considerou que a reincidência é preponderante em relação a ela (fl. 4).
+Postula, então, a concessão liminar da ordem para que seja redimensionada a pena imposta.
+É o relatório.
+Busca a impetração o redimensionamento da pena imposta ao paciente - na condenação a 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, e 680 dias-multa, pela prática do crime de tráfico de drogas (29,7 g de cocaína, 22,85 g de maconha e 20,78 g de crack) -, com a compensação entre a atenuante da confissão e a agravante da reincidência.
+Inicialmente, transcreve-se a fundamentação da sentença condenatória em relação à pretensão mandamental (fls. 12/14, 19 e 21 - grifo nosso):
+4.) Interrogado (fls.195), o réu confessou o tráfico, mas, negou participação do menor; afirmou ser usuário de crack e que, ao deixar a prisão, não conseguiu emprego, pelo que decidiu traficar para sustentar seu vício.
+ ..
+11.) Quanto à autoria e tipificação do delito de tráfico, dúvidas não restam em afirmar que o réu traficava no local, pois, confessou em juízo, confissão esta confirmada pelo depoimento da testemunha Paulo Correa, que confirmou cada linha de fato descrito na denúncia, ou seja, de que através de denúncia anônima obteve informações que no local dos fatos o dois indivíduos traficavam, sendo que o denunciante inclusive forneceu as características físicas e as vestimentas que ambos usavam.
+ ..
+Passo a dosar a pena
+ ..
+19.) Agravantes e atenuantes: não obstante confesso, o réu é reincidente, circunstância que deve preponderar; da F.A. às fls.136/136, vislumbra-se que o réu terminou de cumprir a pena por roubo (Processo nº 250/2003) somente em 27/2/2015, como aliás consta da certidão de fls. 199/203; destarte, aumento a pena em 1/6, para fixa-la em 6 anos e 5 meses de reclusão, e pagamento de 641 dias-multa.
+A seu turno, a Corte local alterou a sentença, apenas afastando a exasperação da pena-base, dispondo sobre a alegação mandamental, aos seguintes fundamentos (fl. 30):
+Na segunda fase, no cotejo entre a agravante da reincidência - certidão de fl. 166 - e a atenuante da confissão, aplicou-se o incremento de 1/6, o que se afigurou adequado, porquanto referida agravante é preponderante sobre a atenuante, nos termos do CP, art. 67 (JSTJ 196/182 e 197/327), atingindo-se, agora, 5 anos, 10 meses de reclusão e 583 dias-multa.
+Ao que se tem, a existência de um registro de reincidência (fl. 21) foi fundamento para que as instâncias ordinárias considerassem a preponderância da agravante da reincidência sobre a atenuante da confissão.
+Sobre o tema, esta Corte Superior, no julgamento do REsp n. 1.341.370/MT, apreciado sob o rito dos recursos repetitivos, firmou a seguinte tese: é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência (Tema Repetitivo n. 585 - REsp n. 1.341.370/MT, de minha relatoria, Terceira Seção, DJe 17/4/2013).
+Ademais, tem-se que a Corte catarinense reconheceu tanto a agravante da reincidência quanto a incidência da atenuante da confissão espontânea, contudo, não operou a compensação integral entre ambas, por considerar a preponderância daquela sobre esta, fundamento inidôneo, nos termos da atual jurisprudência dessa Corte Superior, devendo ser operada a compensação integral entre ambas (AgRg no HC n. 578.712/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/6/2020).
+Necessário, então o redimensionamento da pena imposta.
+Mantida a pena-base fixada no mínimo legal, no acórdão da apelação (fl. 30), em 5 anos de reclusão e 500 dias-multa. Na segunda fase, mantida a aplicação da atenuante da confissão e da agravante da reincidência (fl. 32), compenso-as integralmente, mantendo a reprimenda no quantum da fase anterior. Na terceira fase, aplica-se a causa de aumento de pena do envolvimento de adolescente (art. 40, VI, da Lei n. 11.343/2006), na fração definida na sentença, em 1/6 (fl. 22), ausentes outras causas de diminuição ou aumento de pena, torna-se a reprimenda definitiva em 5 anos e 10 meses de reclusão, e 583 dias-multa.
+Conclui-se, então, que a impetração logrou evidenciar o alegado constrangimento ilegal no acórdão ora hostilizado.
+Em razão disso, concedo liminarmente a ordem impetrada para redimensionar a pena imposta ao paciente para 5 anos e 10 meses de reclusão, e 583 dias-multa, referente à condenação na Ação Penal n. 0031308-81.2015.8.26.0405, da 4ª Vara Criminal da comarca de Osasco/SP.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DOSIMETRIA. TRÁFICO DE DROGAS (29,7 G DE COCAÍNA, 22,85 G DE MACONHA E 20,78 G DE CRACK). SEGUNDA FASE. COMPENSAÇÃO DA AGRAVANTE DA REINCIDÊNCIA COM A ATENUANTE DA CONFISSÃO. POSSIBILIDADE. PRECEDENTE. PENA REDIMENSIONADA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida liminarmente nos termos do dispositivo.
