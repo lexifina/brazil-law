@@ -1,0 +1,19 @@
+DECISÃO
+MONICA MARIA DE MENEZES alega sofrer constrangimento ilegal em decorrência de decisão proferida por desembargador do Tribunal a quo no Habeas Corpus n. 2303625-37.2020.8.26.0000, em que foi concedida medida liminar para permitir que a paciente seja atendida na unidade prisional por médico de sua confiança
+Assere a defesa que a paciente é portadora de quadro de Doença Pulmonar Obstrutiva Crônica. Destaca que, "na data do cumprimento do mandado de prisão, fazia 03 dias que a paciente havia deixado a UTI do Hospital Anália Franco - São Paulo, onde passou por tratamento devido ao seu quadro de saúde DPOC, sendo inclusive mantida em isolamento devido ao seu quadro respiratório" (fl. 5, grifei).
+Aponta que, "nos autos da execução, foi comprovado a má condição da saúde na referida unidade prisional, onde a um Dossiê apresentado pelo próprio Ministério Público" (fl. 6).
+Por fim, salienta que, "mesmo com a decisão no Tribunal de Justiça de São Paulo, a paciente não vem conseguindo atendimento dos seus médicos particulares na Penitenciária Feminina de Santana, sendo que desde seu ingresso no sistema penitenciário (26 de julho de 2020), ainda não passou com médico essencial ao seu tratamento, qual seja, pneumologista, sendo que a unidade prisional, se recusa a agendar pneumologista, bem como, fisioterapeuta pulmonar, configurando a ilegalidade sofrida pela paciente" (fl. 8, destaquei).
+Requer, assim, seja concedida medida liminar "para possibilitar que este possa aguardar em prisão domiciliar, na modalidade albergue domiciliar, o final julgamento deste habeas corpus" (fl. 26).
+Todavia, em consulta ao sítio eletrônico do Tribunal a quo, verifica-se que, em 27/2/2021, foi julgado o mérito do habeas corpus originário, oportunidade em que a Corte de origem cassou a liminar concedida e denegou a ordem.
+Assim, como este writ foi interposto contra decisão monocrática de desembargador, que agora foi substituída pelo julgamento de mérito pelo colegiado, é forçoso reconhecer a perda de objeto da presente impetração, que deve ser examinada nos limites de sua propositura. Neste sentido:
+ ..
+3. Uma vez apreciado o mérito do habeas corpus originário, resta esvaído o objeto do writ impetrado nesta Corte no qual se insurgia contra a decisão do Desembargador Relator, indeferitória do pedido de liminar. Precedentes.
+4. Reconsideração recebida como agravo regimental, ao qual se nega provimento (RCD no HC n. 349.107/BA, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 1º/6/2016, destaquei).
+ ..
+2. Nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do writ originário, impetrado em 2º Grau, torna prejudicada a análise do habeas corpus, impetrado neste Superior Tribunal de Justiça.
+3. Prejudicado o agravo regimental, em face da perda superveniente de objeto deste writ, pelo julgamento do habeas corpus na origem.
+4. Agravo Regimental prejudicado (AgRg no HC n. 288.056/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 26/5/2015, destaquei).
+Cabe transcrever, ainda, precedente do Supremo Tribunal Federal:
+ ..  Os Impetrantes, subscritores deste recurso, questionaram a decisão monocrática do Ministro Adilson Vieira Macabu, Relator do Habeas Corpus n. 227.930, impetrado no Superior Tribunal de Justiça, cujo objeto era o indeferimento da medida liminar requerida no Habeas Corpus n. 2011.016729-4, no Tribunal de Justiça do Rio Grande do Norte. Essa decisão, base da controvérsia que ensejou a impetração de habeas corpus neste Supremo Tribunal, não mais existe, pois substituída pelo julgamento de mérito havido no Tribunal de Justiça potiguar  ..  (HC n. 111.804 AgR, Rel. Ministra Cármen Lúcia, 1ª T., DJe 4/6/2012).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus.
+Publique-se e intimem-se.
