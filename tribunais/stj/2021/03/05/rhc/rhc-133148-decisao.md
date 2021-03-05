@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANDREIA DIAS SILVA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do HC n. 1.0000.20.469744-5/000.
+Extrai-se dos autos que arecorrente foi presapreventivamente em 22/10/2019 por ter supostamente praticado os delitos tipificados nos arts. 2º, § 2º e § 4º, incisos I, II e IV, da Lei n.12.850/13 e 333 do Código Penal (organização criminosa e corrupção ativa).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem, nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS - ASSOCIAÇÃO CRIMINOSA, ROUBO MAJORADO, ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR E USO DE DOCUMENTO FALSO - EXCESSO DE PRAZO - INOCORRÊNCIA - INSTRUÇÃO ENCERRADA - SUMULA 52 DO STJ - CONSTRANGIMENTO ILEGAL NÃO CONSTATADO - ORDEM DENEGADA. - "Encerrada a instrução criminal, fica superada a alegação do constrangimento por excesso de prazo" (fl. 80).
+No presente recurso, sustentaexcesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por período acima do razoável,sem que tenha havido reavaliação, nos termos do disposto no art. 316, parágrafo único, do Código de Processo Penal - CPP.
+Requer, em liminar e no mérito, a revogação da custódia, ainda que com a determinação de medidas cautelares diversas, para que aguarde o julgamento do presente recurso em liberdade.
+A liminar foi indeferida (fls. 61/62), as informações foram prestadas (fls. 112/114 e 117/119) e oMinistério Público se manifestou pelo não provimento do recurso (fls.121/126).
+É o relatório.
+Decido.
+Inicialmente, no tocante à reavaliação da prisão a cada 90 dias, nos termos do art. 316, parágrafo único, do CPP, e à possibilidade de substituição da constrição por medidas cautelares alternativas, vê-se que as alegações não foramobjeto de análise no acórdão impugnado, o que obsta o exame por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância.
+Nesse sentido, são é o seguinteprecedente:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE PROPORCIONALIDADE E DE CONTEMPORANEIDADE DA MEDIDA EXTREMA. TESES NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. INIDONEIDADE DOS FUNDAMENTOS DO DECRETO CONSTRITIVO. NÃO CONFIGURAÇÃO. CUSTÓDIA PROCESSUAL AMPARADA NOS TERMOS DO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. MODUS OPERANDI. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. MEDIDAS CAUTELARES MAIS BRANDAS. INSUFICIÊNCIA E INADEQUAÇÃO. COAÇÃO ILEGAL NÃO DEMONSTRADA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Não há como se examinar as teses de desproporcionalidade da prisão cautelar frente eventual condenação e de ausência de contemporaneidade entre a medida extrema e os fatos investigados, pois tais questões não foram objeto de deliberação pelo Tribunal de origem no acórdão ora impugnado, circunstância que inviabiliza a aspirada análise direta por este Sodalício, sob pena de indevida supressão de instância.
+2. Não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem pública, dada a gravidade das condutas investigadas (modus operandi).
+3. Na espécie, a prisão cautelar faz-se necessária diante das graves circunstâncias em que supostamente praticados os delitos - em que o recorrente, em comparsaria e em apenas duas apreensões, teria importado ilicitamente enorme quantidade de maços de cigarro (cerca de 1.726.510 unidades), suprimindo dos cofres públicos vultosa quantia em impostos (R$ 5.626.200,88) em apenas duas apreensões. Os ilícitos foram intensamente investigados pela autoridade policial, inclusive com interceptação legalmente autorizada.
+4. Além disso, soma-se a notícia de que, mesmo após o início das investigações, o grupo criminoso continua atuando e, ainda, que o agente tem residência no exterior. Tais fatos, evidenciam a reprovabilidade acentuada da sua conduta, mostrando que a prisão é mesmo devida para o fim de se acautelar o meio social.
+5. Considerando-se a imprescindibilidade da preventiva, está clara a insuficiência das medidas cautelares diversas da prisão, que não se mostram adequadas e suficientes para reprimir a atividade ilícita desenvolvida.
+6. Agravo regimental ao qual se nega provimento.
+(AgRg no AgRg no RHC 124.066/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 03/06/2020).
+Quanto ao excesso de prazo para a formação da culpa, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, foiencerrada a instrução processual, atraindo ao caso a incidência da Súmula n. 52 deste Superior Tribunal de Justiça, que prevê:
+"Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ante o exposto, nos termos do art. 34, inciso XVIII, alínea a, do RISTJ, não conheço do recurso ordinário.
+Publique-se.
+Intimem-se.
