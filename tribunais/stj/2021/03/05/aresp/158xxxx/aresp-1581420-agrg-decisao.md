@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JULIO CESAR DE ANDRADEcontra decisão proferida no recurso em epígrafe.
+Consta nos autos que oagravantefoi condenadoà pena total de 17anos, 3 meses e 10 diasde reclusão, em regime inicial fechado,pela prática do crime do art.121, § 2º, I, III e IV, do Código Penal (homicídio triplamente qualificado).
+Aapelaçãointerpostapelo Ministério Público foijulgadanos termos da ementa de e-STJ fl. 522:
+APELAÇÃO CRIMINAL - Homicídio qualificado - Três qualificadoras - Recurso ministerial objetivando o aumento da pena - Parcial procedência - Dois maus antecedentes reconhecidos pela depuração das reincidências Três reincidências - Confissão espontânea compensada com uma reincidência - Afastamento - Distinguishing do caso com o quanto decidido pelo STJ no julgamento do REsp Repetitivo 1.341.370/MT - Personalidade desajustada do apelado, possuidor de dois maus antecedentes, três reincidências e, agora, condenado por homicídio com três qualificadoras, ou seja, hediondo - Confissão espontânea absolutamente irrelevante à comprovação da autoria - Afastada a compensação - Não acolhido o pleito para aumento dobrado quanto às qualificadoras do meio cruel e recurso que dificultou a defesa da vítima - Formulação dos quesitos acolhidos pelos jurados que não permite a dupla reprovação - Regime inicial fechado mantido - Recurso parcialmente provido.
+No recurso especial, a defesa alegou, em suma, ofensa àlei federal contida nosarts. 59, 65, II, e 68, todosdo Código Penal, pois o acórdão vergastado aumentaraa pena em fração desproporcional e desconsideraraa confissão reconhecida em primeiro grau.
+Em decisão às e-STJ fls. 593/594, a Presidência desta Cortenão conheceu do agravo em recurso especial, pela incidência da Súmula n. 182/STJ.
+Daí o presente regimental, no qual a defesa aduz, em suma, que houve impugnação específica dos fundamentos da decisão que inadmitirao recurso especial.
+É o relatório.
+Decido.
+Assiste razão ao agravante. Com efeito, observo que, nas razões do agravo em recurso especial, foram integralmente impugnados os fundamentos da decisão que havianegadoseguimento ao apelo extremo.
+Dessa forma, reconsidero a decisão agravada.
+Cumpridos os requisitos de admissibilidade do agravo, passo ao exame do apelo extremo.
+Inicialmente, quanto às argumentaçõesdeduzidas no recurso especial de que "não houve incorreção ao aplicar o aumento uma única vez, pois ao validar a aplicação do aumento em relação a cada uma das qualificadoras proceder-se-ia bis in idem" (e-STJ fl. 544) e de que o aumento operado pelo Tribunal de origem na primeira fase seria desproporcional,não houve debate de forma específica na origeme nem a oportuna provocação do exame da quaestio por meio de embargos de declaração (os aclaratórios opostos não trataram de tais temas). Em tal particularidade, ausente o necessário requisito do prequestionamento (Súmulas n. 282 e 356/STF).
+A propósito:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE DROGAS. FIXAÇÃO DA PENA. ERRO MATERIAL NO ACÓRDÃO RECORRIDO. SÚMULAS 282 E 356 DO STF. ART. 33, § 4º, DA LEI 11.343/2006. INAPLICABILIDADE. SÚMULA 7/STJ. REGIME SEMIABERTO. ART. 33, § 2º, "b", e § 3º, DO CP. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. A suposta existência de erro material na fixação da reprimenda não foi tratada pelo acórdão recorrido e tampouco foram opostos embargos de declaração para sanar o suposto defeito. Aplica-se, por analogia, as Súmulas 282 e 356 do STF.
+ ..
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 980.386/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2017, DJe 17/03/2017)
+Outrossim, quanto ao reconhecimento daconfissão espontânea, vejo que osfundamentosutilizados pelo Tribunal de origem-de que seria irrelevante, pois o réu havia sido preso em flagrante após reconhecimento de testemunha e de que a reincidência derivada de três condenações seria preponderante sobre a atenuante em questão-, suficientes, per se, à manutenção do acórdão recorrido, não foram impugnados especificamente pela defesa nas razões recursais. Desse modo, incide na espécie a Súmula n. 283/STF.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 370, § 1º, DO CPP. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+2. Segundo a legislação processual penal em vigor, é imprescindível quando se trata de nulidade de ato processual a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, o que não ocorreu na espécie.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.597.699/SC, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.)
+Ante o exposto, dou provimento ao agravo regimental a fim de, reconsiderada a decisão agravada, conhecer do agravo e negar provimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
