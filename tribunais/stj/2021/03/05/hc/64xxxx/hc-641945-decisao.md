@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado:
+HABEAS CORPUS. Prisão preventiva. Artigo 35 da Lei nº 11.343/06. Postula a impetrante, a revogação da prisão preventiva, por ausência de fundamentação e desnecessidade da medida imposta.
+Os elementos colhidos expõem o "fumus comissi delicti" e o "periculum libertatis", diante dos indícios suficientes de autoria e materialidade delitivas, bem como, pelos vestígios de envolvimento com o tráfico local. Presença dos requisitos previstos nos artigos 312 e 313, I, do Código de Processo Penal, como bem avaliou o juízo primevo. Rejeita-se a alegação de ofensa ao princípio da homogeneidade, diante de uma possível aplicação de reprimenda restritiva de direito, o que não se sustenta em razão da pena máxima prevista para o delito ultrapassar 4 anos, autorizando a segregação cautelar. Ademais, tal fundamento confunde-se com o mérito da ação, não sendo cabível tecer maiores argumentos na estreita via do "mandamus". Ademais, as circunstâncias pessoais favoráveis não são, por si sós, suficientes para impedir a segregação. Precedentes.
+Inexistência do constrangimento ilegal apontado.
+Ordem conhecida e denegada.
+O paciente foi preso preventivamente pela suposta prática do delito tipificado no artigo 35 da Lei 11.343/06.
+A impetrante sustenta que o decreto constritivo carece de fundamentação idônea, não estando presentes os requisitos necessários para a custódia cautelar, acrescentando que não teria sido apontado qualquer elemento específico que pudesse servir de fundamento para a manutenção da prisão.
+Aduz que o acusado é primário, possuindo ficha criminal limpa, podendo aguardar o deslinde do processo em liberdade, em atenção ao princípio da homogeneidade.
+Argumenta que a medida extrema poderia ser substituída por cautelares diversas.
+Requer, liminarmente e no mérito, a concessão da ordem para revogar a prisão preventiva, reconhecendo-se ao paciente o direito de responder ao processo em liberdade ou que sejam aplicadas as medidas cautelares diversas da prisão, expedindo-se alvará de soltura.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.O decreto de prisão preventiva restou assim fundamentado (fls. 37-38):
+Considerando que a hipótese é de análise acerca de eventual prisão em flagrante, já reconhecida legal, em prisão preventiva, à luz da novel redação do artigo 310 do CPP, em seu inciso II, imperiosa a análise acerca da presença dos requisitos previstos no artigo 312 do referido ordenamento, justificadores da manutenção da custódia.
+Pela análise dos autos, verifica-se que assiste razão ao MP. A materialidade delitiva está evidenciada diante do rádio transmissor encontrado em poder do indiciado, em uma localidade sabidamente destinada ao tráfico, bem como existem indícios suficientes de autoria, considerando-se os depoimentos prestados em sede policial. Desta forma, presente o fumus comissi delicti.
+Não há nos autos qualquer documento apto a comprovar ocupação lícita e residência fixa do acusado, sendo, portanto, prematura sua soltura, nada impedindo sua reapreciação em momento posterior, nos moldes do artigo 316 da Lei de Regência, sobretudo pelo Juízo natural.
+Observo, ainda, que a associação para o tráfico de drogas tem pena privativa de liberdade que varia entre 3 (três) a 10 (dez) anos, estando presente o requisito objetivo previsto no art. 313, I do CPP.
+Descabe a fixação de fiança nos exatos termos do art. 323, II do CPP.
+As medidas cautelares diversas da prisão e previstas na nova redação do artigo 319 do CPP se revelam insuficientes, uma vez que há registros de envolvimento do indiciado com o tráfico. Assim, evidenciado periculum libertatis, diante do perigo concreto de reiteração da conduta, com violação à ordem jurídica, nos termos do art. 312 do CPP.
+Assim, de modo a garantir a instrução criminal, ainda a iniciar-se, a aplicação da Lei Penal, bem como a ordem pública, de eventuais novas investidas delitivas do indiciado, CONVERTO A PRISÃO EM FLAGRANTE em PRISÃO PREVENTIVA, com fulcro no artigo 310, II uma vez que presentes os pressupostos no artigo 312 do mesmo diploma legal.
+O Tribunal de origem, por sua vez, assim referiu (fls. 16-18):
+Consta dos informes, permanecerem hígidos os requisitos da prisão cautelar, não tendo a defesa demonstrado, qualquer modificação fática a lastrear a revogação da medida. Acrescentou-se, não ter sido realizada AIJ, no dia 19/10/2020, em razão da ausência da Defensora Pública, que cumpria quarentena de 14 dias, tendo sido redesignada para 22/02/2021.
+Percebe-se, que os elementos apontados revelam a necessidade de resguardar-se a ordem pública e a aplicação da lei penal, em consonância com os requisitos legais, como bem avaliou o juízo primevo, em atenção ao disposto no art. 315 do CPP, observado o inciso IX do art. 93, da CR/88.
+Ressaltou-se ainda, a gravidade concreta da conduta perpetrada, além de indícios de envolvimento com o meio pernicioso, ao ponto de abalar a paz social e pôr em risco a instrução criminal, na forma dos artigos 312 e 313, I do Código de Processo Penal.
+Dessa forma, as medidas alternativas, previstas nos artigos 318 e 319 do Código de Processo Penal, não se mostram adequadas e suficientes às circunstâncias apresentadas no caso concreto, cabendo por ora a segregação.
+Evidenciado o "fumus comissi delicti" pelos indícios suficientes de autoria e materialidade delitivas, angariados pelos depoimentos prestados.
+Igualmente positivado, o "periculum libertatis", diante dos indícios de envolvimento com o tráfico local e da gravidade concreta do delito, que abala a instrução penal e a ordem pública.
+Neste caminhar, não é ilegal o encarceramento provisório fundado em dados concretos a indicar a necessidade da medida, considerando ainda os elementos extraídos da ação delitiva e o "modus operandi" do crime.
+Noutro giro, afasta-se a alegação de ofensa ao princípio da homogeneidade diante de uma possível aplicação de reprimenda restritiva de direito, o que não se sustenta em razão da pena máxima prevista para o delito ultrapassar 4 anos, autorizando a segregação cautelar.
+Ademais, tal fundamento confunde-se com o mérito da ação, não sendo cabível tecer maiores argumentos na estreita via do "mandamus".
+Neste ponto, manifestou-se o Ministro Nefi Cordeiro, no RHC 79.041/MG, publicado em 04/04/2017: "A alegação de desproporcionalidade da medida somente poderá ser aferível após a prolação de sentença, não cabendo, na via eleita, a antecipação da análise quanto a possibilidade de cumprimento de pena em regime menos gravoso, caso seja prolatado édito condenatório, sob pena de exercício de adivinhação e futurologia, sem qualquer previsão legal".
+Outrossim, incabível assumir, que em futura condenação, o paciente fará jus à causa de diminuição de pena da Lei de Drogas, porquanto fundamental o deslinde da ação originária para melhor avaliar-se a conduta e as circunstâncias pessoais.
+Destaca-se ainda, que as "condições pessoais favoráveis, tais como primariedade, bons antecedentes e residência fixa, não têm o condão de, por si sós, desconstituir a custódia processual, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema" (STJ - HC 586264 PR 2020/0131176-5, Sexta turma, DJe 19/08/2020, julgamento 04/08/2020, Relatora Ministra Laurita Vaz).
+Destarte, o alegado constrangimento ilegal não restou configurado.
+Por tais razões, integrando neste voto, na forma regimental, o parecer da douta Procuradoria de Justiça, voto no sentido de conhecer e denegar a ordem.
+Como se pode observar, consta do decreto prisionalfundamentação acerca da gravidade abstrata do crime,não trazendo qualquer motivação concreta para aprisão, fazendo referência às circunstâncias já elementares do delitoe com genérica regulação da prisãopreventiva, além de presunções e conjecturas, evidenciando a ausência defundamentos para o decreto prisional.
+Destarte, não se tendo no tema, com a clara motivação genérica, divergência nestaSexta Turma do Tribunal, reconheço a ilegalidade arguida.
+Ante o exposto, concedo o habeas corpus para a soltura dopaciente, o quenão impede a fixação de medida cautelar diversa da prisão, pelo juízo de piso, por decisão fundamentada.
+Comunique-se.
+Publique-se.
+Intimem-se.
