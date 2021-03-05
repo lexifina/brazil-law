@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão (fls. 699-700) quetornou sem efeitodecisumanterior (fl. 683)para anular a homologação do acordo entabulado entre as partes.
+O embargante, aduzindo a ocorrência de omissão e contradição, sustenta que: (a) a redação do art. 5º, V e § 2º, da LC 41/2002, alterada pela LC 121/2019, permite a realização de acordo ao limite de 150.000 UPF-PA; (b) considerando que a UFP-PA é de R$ 3,5751, o teto para a realização de acordo é de R$ 536.265,00. Como no caso concreto o valor do acordo envolve quantia menor, há clara capacidade postulatória do Procurador-Geral do Estado; (c) o Estado do Pará e a sua respectiva Procuradoria-Geral devem controlar o regime dos pagamentos dos entes da administração indireta, onde se inclui o Instituto que subscreveu o instrumento ora impugnado.
+Com impugnação.
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Conquanto a nova redação do artigo 5º, V e § 2º, da LC 41/2002, introduzida pela LC 121/2019, autorize o Procurador-Geral do Estado do Pará celebrar acordo até o limite de 150.000 UPF-PA, bem como tenha sido comprovada a designação do Sr. Ilton Giussepp Stival Mendes da Rocha Lopes da Silva, para responder pela Presidência do IGEPREV (fl. 726), remanesce obstaculizada a homologação do acordo entabulado entre as partes.
+De fato, como consignado pela decisão embargada, além da petição não está instruída com a aprovação da Diretoria Executiva para o Presidente da autarquia celebrar o acordo, não consta dos autos parecer jurídico relativo ao ajuste, consoante previsto nos artigos 12, II, e 16, VIII, do Regimento Interno do IGEPREV, aprovado pelo Decreto n. 1.751/2005.
+Com essas considerações, acolhoos embargos de declaração, semefeitos infringentes, nos termos da fundamentação.
+Após, voltem-me os autos conclusos para apreciação do agravo interno interposto pelo Estado do Pará às fls. 631-641.
+Publique-se. Intimem-se.
