@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial manejado por ROBSON PACHECO PEREIRA, com fundamento naalínea"a" do art. 105, III, da CF/1988, no qual se insurgecontra acórdão do TJ/RJ, assim ementado (e-STJ, fls. 1.518-1.535):
+"Apelação. Interceptação de comunicações deinformática e telemática. Artigo 10 da Lei 9.296/96.Ambas as partes apelaram, o Ministério Públicovisando à majoração da pena aplicada. A defesapostula: a extinção da punibilidade pelo decurso doprazo prescricional e, subsidiariamente aabsolvição com as teses de: fragilidade probatória,
+cerceamento de defesa e atipicidade da conduta. Acondenação está lastreada em vasto acervoprobatório, consistente este na prova oral,documental e pericial, sendo o laudo conclusivoquanto ser o autor o responsável pelo acesso naconta de email da vítima. Restou indubitável que osatos praticados pelo acusado trouxeram enormetranstorno para a vida profissional e pessoal davítima, merecendo ser revista a dosimetria paramajorar a pena-base, o que, de plano, já afasta aprescrição. Quanto à atipicidade da conduta, aocontrário do entendimento esposado pela defesa, otipo alberga também a comunicação telemática,consistente esta na conversação mantida por meiode computador. Dosimetria revista. Provimentoparcial do recurso do Ministério Público edesprovimento do apelo da defesa".
+Opostos embargos de declaração, foram estes rejeitados (e-STJ, fls. 1.561-1.569).
+Nas razões de seu recurso especial, o recorrenteaponta ofensa aos arts. 59 do CPe 155, 157e 619 do CPP. Aduz para tanto, em síntese, que: (I) o acórdão teria permanecido omisso sobre pontos relevantes da causa; (II) a pena-base deveria ter sido fixada no mínimo legal; (III) seria ilícita a prova decorrente de apreensão feita sem mandado judicial; e (IV) a falta de realização de perícia violaria a ampla defesa.
+Com contrarrazões (e-STJ, fls. 1.628-1.639), o apelo nobre foi inadmitido na origem (e-STJ, fls. 1.642-1.645), ao que se seguiu a interposição de agravo.
+Já nesta Corte Superior, o MPF propôs o desprovimento do recurso (e-STJ, fls. 1.709-1.710).
+É o relatório.Decido.
+O agravo impugna adequadamente os fundamentos da decisão de inadmissão do recurso especial, pelo que deve ser conhecido.
+Entretanto, antes de adentrar no exame meritório do apelo nobre propriamente dito, deve ser reconhecida, de ofício, a existência daprejudicial relativa àconsumação da prescrição da pretensão punitiva.
+Na sentença (e-STJ, fls. 1.306-1.317), o recorrente foi condenado a penasde 2 anos de reclusão e 10 dias-multa, pelo crime do art. 10 da Lei 9.296/1996. Ao julgar a apelação, o Tribunal de origem majorou a reprimenda para 2 anos e 8 meses de reclusão e 13 dias-multa, no acórdão cuja ementa se transcreveu acima.
+Neste cenário, a pretensão punitiva se encontra prescrita, uma vez que, nos termos dos arts. 109, IV, e 110, § 2º, do CP, a pena inferior a 4 anos prescreve em 8 anos.
+O último marco interruptivo da prescrição foi a publicação do acórdão que manteve a sentença condenatória, em 22/11/2012(e-STJ, fl. 1.570). Como já transcorreram mais de 8anos desde esta data, até o presente momento, é forçoso reconhecer que está consumada a prescrição.
+Ante o exposto,declaro extinta a punibilidade de ROBSON PACHECO PEREIRA, em virtude da prescrição da pretensão punitiva.
+Publique-se. Intimem-se.
