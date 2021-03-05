@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em face de acórdão, assim ementado (fl. 226):
+ENTORPECENTES. TRÁFICO. Prisão preventiva.
+Revogação. Impossibilidade. Existência de prova da materialidade da infração e de indícios suficientes de autoria. Prisão decretada e mantida por decisões suficientemente fundamentadas. Presença dos requisitos da custódia cautelar. Substituição da prisão pelas medidas cautelares previstas no artigo 319, do CPP. Impossibilidade. Medidas que seriam inadequadas e insuficientes. Prisão domiciliar. Inviabilidade. Constrangimento ilegal inexistente.
+Ordem denegada.
+Consta dos autos que o paciente foi preso preventivamente pela prática do delito de tráfico de drogas.
+A defesa impetrouhabeas corpusperante a Corte de origem, a qual lhe denegou a ordem.
+No presente mandamus, alega que o decreto preventivo fundamentou-se exclusivamente na gravidade abstrata do delitobem como na presunção de que as drogas seriam destinadas ao tráfico(fl. 5). Afirma ser possível a fixação de medidas cautelares diversas da prisão.
+Aduz, ainda, que, caso o paciente seja condenado, possivelmente será aplicada a causa de diminuição do art. 33, § 4º, da Lei de Drogas.
+Requer a concessão da ordem constitucional para que seja revogada a prisão preventiva.
+É o relatório.
+DECIDO.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão de prisão preventiva restou assim fundamentada (fls. 105-106):
+Trata-se de auto de prisão em flagrante lavrado em desfavor de FRANCISCO DE CAMARGO LAVANDOSKY, pela prática, em tese, do crime de tráfico de entorpecentes.
+O acusado é PRIMÁRIO.
+Policiais em patrulhamento por região com grande incidência de ocorrências de tráfico receberam informações de popular, dando conta de que o vulgo "Francisquinho" estaria promovendo o tráfico em sua residência. Foram até o local e, em contato com a mãe do imputado, obtiveram autorização para ingresso no imóvel. Nesse momento chegou o imputado que, de pronto, assumiu que havia entorpecentes na residência. No interior da geladeira apreenderam mais de 2.450,00 gramas de maconha (fotografia fls. 13).
+É caso de conversão da prisão em flagrante em preventiva.
+Com efeito, apesar de primário, com o acusado foram apreendidos mais de dois quilogramas de maconha, entorpecente com grande capacidade de dano social. A substituição por medidas cautelares é devida quando o Juízo entender adequada à gravidade do crime, circunstâncias do fato e condições pessoais do acusado (CPP, art. 282, II). Devem, portanto, ser conjugadas estas circunstâncias àquelas inscritas no inciso I do mesmo artigo. Nestes autos, a grande quantidade de droga apreendida aponta para a gravidade concreta do delito (Lei 11343/2006, artigo 42), decorrente do já elevado dano social retromencionado, autorizando a manutenção da custódia como mecanismo de acautelamento do meio social (STF HC 113186/SP, 111760/DF, dentre outros) decorrente da necessidade da garantia da ordem pública, que deve ser verificada pelo binômio gravidade da infração e repercussão social.
+Anote-se, ainda, que, da mesma forma, que se afigura possível, em tese, o envolvimento do acusado com organização criminosa dada a dificuldade de manipulação detamanho volume desse entorpecente, revelando-se a constrição, nesse momento, necessária, adequada e proporcional ao presente caso.
+Não é o caso, igualmente, de aventar-se, nesse momento processual, eventual violação ao princípio da homogeneidade das cautelares ou da proporcionalidade, decorrente da possível condenação do acusado e da pena e regime dela derivados. Com efeito, o acusado está preso preventivamente e a análise e imposição da pena, em sua dosimetria e regime, serão objetos de verificação após a instrução processual, quando da prolação da sentença.
+ ..
+Dessa forma, presentes os requisitos do artigo 312 do CPP e com fundamento no artigo 310, inciso II da mesma Lei, CONVERTO a prisão em flagrante em PREVENTIVA, relativamente ao acusado FRANCISCO DE CAMARGO LAVANDOSKY, RG: 40037985, devidamente qualificado nos autos, expedindo-se mandado de prisão.
+Conforme observa-se, a prisão em flagrante foi convertida em preventiva em razão da gravidade concreta da conduta, demonstrada pela quantidade de entorpecentes apreendidos -2.450,00 gramas de maconha.
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Por fim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
