@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Marco Buzzi (Presidente).
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSOLUÇÃO DE SOCIEDADE E APURAÇÃO DE HAVERES. DATA-BASE.MATÉRIA INVOCADA NÃO DISCUTIDA NA ORIGEM. SÚMULA N. 211/STJ. COMPREENSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. INCIDÊNCIA DASÚMULAN. 284 DO STF.DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2. A dissociação entre as razões recursais e os fundamentos doacórdão recorrido obsta o conhecimento do recurso especial, ante aincidência da Súmula n. 284 do STF.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 838/851) interposto contra decisão do Ministro Presidente desta Corte que conheceu do agravo nos próprios autos para não conhecer do recurso especial.
+Em suas razões, oagravante refuta a incidência das Súmulas n. 211 do STJ e 284doSTF e reitera as razões do especial, no qual se insurge contra a fixação da data-base para a apuração de haveres nodia da manifestação de vontade de retirada da sociedade.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram apresentadas contrarrazões (e-STJ fl. 855).
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISSOLUÇÃO DE SOCIEDADE E APURAÇÃO DE HAVERES. DATA-BASE.MATÉRIA INVOCADA NÃO DISCUTIDA NA ORIGEM. SÚMULA N. 211/STJ. COMPREENSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE. INCIDÊNCIA DASÚMULAN. 284 DO STF.DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+2. A dissociação entre as razões recursais e os fundamentos doacórdão recorrido obsta o conhecimento do recurso especial, ante aincidência da Súmula n. 284 do STF.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida. Oagravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 832/835):
+Trata-se de agravo apresentado por ELEANDRO JOSE DA VEIGA E SOUZA,contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visareformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINASGERAIS, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE DISSOLUÇÃO DE SOCIEDADE -CERCEAMENTO DE DEFESA - PROVA TESTEMUNHAL - PRECLUSÃO -DESCONTO DA CONDENAÇÃO DE VALORES A TÍTULO DE TRIBUTOSE SEGUROS DO VEÍCULO - IMPOSSIBILIDADE - AUSÊNCIA DEPROVAS - APURAÇÃO DE HAVERES - DATA BASE - RETIRADA DOSÓCIO.
+A produção de prova é um direito fundamental previsto no artigo 5º,inciso LVI, da CRF13I88, ao deixar claro que, desde que admissíveis (lícitas), háo direito fundamental à prova no processo civil. Entretanto, o direito à produçãode provas não é absoluto, comportando exceções. Dentre essas exceções,encontra-se o instituto da preclusão. Incumbia à Ré o ônus de demonstrar que asdespesas cobradas foram suportadas exclusivamente por ela, sendo certo,inclusive, o fato de que não trouxe aos autos qualquer apólice de seguro referenteao automóvel, bem como recibos de pagamento do respectivo prêmio, tampoucoos comprovantes de pagamento do IPVA e demais encargos incidentes sobre oveículo. É consabido que os danos materiais apenas são devidos quandoefetivamente comprovados, o que não é o caso dos autos. A apuração dos haveresem favor do Autor deve considerar o patrimônio social existente à época daretirada da sociedade confessadamente efetivada em abril de 2010, não havendoque se falar em recebimento dos lucros obtidos em data posterior pela sociedade(fl. 735).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional,alega violação dos arts. 604, I, 605, IV e 608 do CPC, no que concerne à necessidade de quedata da resolução seja a do trânsito em julgado da ação que dissolve a sociedade, sendo que atétal data, "a participação dos lucros sobre o capital próprio declarado pela sociedade integra ovalor devido ao ex-sócio" (fl. 789). Traz os seguintes argumentos:
+É incontroverso nos autos que a quebra affectio societatis deu-se em abrilde 2010, daí porque se justifica o ajuizamento da demanda. Contudo, a obrigaçãode pagamento dos lucros obtidos não pode se limitar à referida data, porcaracterizar evidente enriquecimento ilícito da sociedade.
+Para possibilitar a apuração dos haveres, é necessário que se proceda àfixação da data da resolução da sociedade, na forma do artigo 604, inciso I,doCPC:
+  .
+Assim, tanto a decisão do Magistrado de primeiro grau, quanto o acórdãocolidem com os dispositivos legais.
+Nesse sentido, este Superior Tribunal de Justiça já manifestou que "nostermos do art. 605, IV, do Novo Código de Processo Civil, para os casos deretirada judicial de sócio, a data da, resolução será a do trânsito em julgadoda sentença que dissolve a sociedade" (ARE5p Nº 1.133.722 - MG(2017101(38263-0), Relator: Ministro Marco Buzzi, 0210412018).
+Reitera ainda que nos moldes do ad. 608 do Novo CPC, até a data daresolução, a participação dos lucros sobre o capital próprio declarado pelasociedade integra o valor devido ao ex-sócio  - (fl. 789) - negritei.
+Quanto à segunda controvérsia, alega que "a vontade do sócio retirante, oraRecorrente, foi manifestada judicialmente, ressaltando que não houve previsão contratualquanto a prazos para notificação da retirada e tampouco com relação a data para apuração dehaveres" (fl. 792). Traz os seguintes argumentos:
+  no mínimo, deve ser considerada como data-base para apuração dehaveres a data do ajuizamento da ação, observando-se o prazo de 60 (sessentadias) de que trata o artigo 1.029 do Código Civil e artigo 605, inciso II do Códigode Processo Civil (fl. 792).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 211/STJ,uma vez que a alegada violação dos arts. 604, I; 605, IV e 608 do CPC não foi examinada pelaCorte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisitodo prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro HumbertoGomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relatorMinistro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n.1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Ademais, o acórdão recorrido entendeu que na espécie, seria aplicável o art. 1.031do CPC:
+Com efeito, a "affectio societatis" consiste na livre e espontânea vontadeexpressa e manifestada dos sócios de permanecerem na sociedade, sendo que, odesejo de se retirar caracteriza a quebra desta condição, não havendo comoobrigá-lo a permanecer associado.
+Assim dispõe o art. 1.031 do CC:
+"Nos casos em que a sociedade se resolver em relação a um sócio, ovalor da sua quota, considerada pelo montante efetivamente realizado,liquidar-se-á, salvo disposição contratual em contrário, com base na situaçãopatrimonial da sociedade, à data da resolução, verificada em balançoespecialmente levantado."
+Nesse aspecto, a apuração dos haveres do sócio que se retira dasociedade deve ser a data da sua manifestação de vontade, pois é nestemomento que se quebra a affectio societatis (fls. 742/743) - negritei.
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razõesrecursais delineadas no especial estão dissociadas dos fundamentos utilizados no arestoimpugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seusfundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível orecurso extraordinário, quando a deficiência na sua fundamentação não permitir a exatacompreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "nãoatacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, oque inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula doSupremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi,Quinta Turma, DJe de 24/8/2018).
+Confiram-se ainda os seguintes julgados: REsp n. 1.682.077/RS, relator MinistroHerman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt no AREsp n. 734.966/MG,relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 4/10/2016; AgRg nosEDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJede 2/5/2018; e AgRg no AREsp n. 673.955/BA, relator Ministro Nefi Cordeiro, Sexta Turma,DJe de 8/3/2018.
+Quanto à segunda controvérsia, incide o óbice da Súmula n. 284/STF, uma vezque a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sidoviolados, ressaltando que a mera citação de artigo de lei na peça recursal não supre aexigência constitucional.
+Nesse sentido: "Impossível o conhecimento do recurso pela alínea "a". Isto porquenão há na petição do recurso especial a clara indicação dos dispositivos legais que se entendepor violados. A citação de passagem de artigos de lei não é suficiente para caracterizar edemonstrar a contrariedade a lei federal, já que impossível identificar se o foram citadosmeramente a título argumentativo ou invocados como núcleo do recurso especial interposto"(AgInt no REsp n. 1.615.830/RS, relator Ministro Mauro Campbell Marques, Segunda Turma,DJe de 11/6/2018).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do SuperiorTribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honoráriosde advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nasinstâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+A matéria, tal como alegada pelorecorrente, defendendo a data-base do trânsito em julgado da ação que julga a dissolução da sociedade (art. 605, IV, do CPC/2015),não foi debatida na Corte de origem, sendo que a parte não invocou a violação do art. 1.022 do CPC/2015, a fim de suprir eventual vício no julgamento. Desse modo, incide a Súmula n. 211/STJ.
+Além do mais, não se trata, no caso, de retirada judicial de sócio, pois, nos termos consignados no acórdão, a retirada ocorreu ainda antes da proprositura da presente ação, quando da quebra daaffectio societatis.
+Por fim, os artigos 604, I, e 608 do CPC/2015, apontados como violados, não amparam a pretensão do recorrente. Encontrando-se, portanto, as razões recursais dissociadas dos fundamentos do acórdão, tem-se a deficiência na fundamentação do recurso, sendo de rigor a aplicação da Súmula n. 284/STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
