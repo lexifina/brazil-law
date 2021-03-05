@@ -1,0 +1,33 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO E ROUBOS MAJORADOS. TESES DE NULIDADE POR OFENSA AOS ARTS. 226 E 260 DO CPP. QUESTÕES NÃO SUSCITADAS OPORTUNAMENTE. INOVAÇÃO DE PEDIDO. ALEGAÇÕES DE FALTA DE FUNDAMENTAÇÃO PARA A PRISÃO PREVENTIVA E DE EXCESSO DE PRAZO. QUESTÕES NÃO APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A ofensa aos arts. 226 e 260 do CPP, somente arguida após a decisão que indeferiu a liminar, não podem ser conhecidas nesta impetração, tratando-se de inovação de pedido.
+2. As teses de falta de fundamentação para a prisão preventiva, por alegada ausência dos requisitos do art. 312 do CPP, de excesso de prazo para a formação da culpa e de falta de reavaliação da prisão, não foram previamente analisadas pelo Tribunal de origem, sendo, pois, inviável o exame diretamente por esta Corte superior, sob pena de indevida supressão de instância.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão de minha lavra que denegou o habeas corpus.
+Nas razões recursais, reitera o agravante as teses de constrangimento ilegal por falta de fundamentação idônea no decreto prisional, além de excesso de prazo para a formação da culpa. Insiste, ainda, na tese de nulidade do reconhecimento, por ofensa aos arts. 226 do CPP e em desobediência ao rito da condução coercitiva, nos termos do art. 260 do CPP.
+Requer, assim, a reconsideração da decisão agravada, ou a submissão do recurso a julgamento pela Turma.
+É o relatório.
+VOTO
+MINISTRO NEFI CORDEIRO (Relator):
+Por oportuno, trago à colação os seguintes excertos da decisão agravada,in verbis:
+De início, não merecem ser conhecidos os pedidos constantes à petição de fls. 111-119, referentes à ilegalidade da confissão extrajudicial e a nulidade do reconhecimento pessoal do acusado face à inobservância do artigo 226, do CPP, por terem sido formulados após a decisão que indeferiu a liminar (fls. 99-100), configurando- se, assim, inovação de pedido. Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. EXCESSO PRAZO PARA O JULGAMENTO DA APELAÇÃO. TOTAL DA PENA. GUIA PROVISÓRIA DE EXECUÇÃO DA PENA EXPEDIDO. EVENTUAIS DIREITOS ASSEGURADOS. NÃO DEMONSTRADO OCORRÊNCIA DE ILEGALIDADES. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. COM RECOMENDAÇÃO.
+ ..  III - E mais, a questão sobre a suspensão dos prazos processuais até o dia 31/5/2020, conforme ato emanado da presidência da Corte estadual, ou ainda, do CNJ, é matéria nova que não foi arguida nas razões do presente habeas corpus, tratando-se, em realidade, de inovação de pedido, motivo pelo qual não foi apreciado.
+ ..  (AgRg nos EDcl no HC 569.411/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/06/2020, DJe 23/06/2020)
+No mais, quanto às demais ventiladas no presente writ - falta de fundamentação da decisão de prisão preventiva, ausência dos requisitos do art. 312 do CPP, excesso de prazo para a formação da culpa e falta de reavaliação da prisão - , verifica-se as questões não foram previamente analisadas pela instância ordinária nos acórdãos de apelação (fls. 17-48), embargos de declaração (fls. 49-54) e embargos infringentes (fls. 55-76), descabendo o exame inaugural da controvérsia diretamente por este Tribunal, sob pena de incursão em indevida supressão de instância. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. INDEFERIMENTO LIMINAR DO WRIT. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. MITIGAÇÃO DA SÚMULA 691/STF. INDÍCIOS DE AUTORIA E MATERIALIDADE. DILAÇÃO PROBATÓRIA. CONTEMPORANEIDADE, EXCESSO DE PRAZO E ERRO DE FUNDAMENTAÇÃO NO DECRETO. SUPRESSÃO DE INSTÂNCIA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. VIOLAÇÃO DO ART. 316, PARÁGRAFO ÚNICO, DO CPP. IMPOSSIBILIDADE DE ANÁLISE EM JUÍZO PERFUNCTÓRIO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. No procedimento do habeas corpus, não se permite a produção de provas, pois a ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, razão pela qual não é possível aferir a materialidade e a autoria delitiva.
+2. As questões referentes à contemporaneidade, excesso de prazo e erro de fundamentação não foram debatidas pelo Tribunal de origem, não devendo ser conhecidas diretamente por esta Corte Superior, sob pena de supressão de instância.
+3. Apresentada fundamentação concreta, evidenciada no fato do agravante integrar organização criminosa e na reiteração delitiva, não há ilegalidade no decreto prisional.
+4. O prazo de 90 dias para reavaliação da prisão preventiva, determinado pelo art. 316, paragrafo único, do CPP, é examinado pelo prisma jurisprudencialmente construído de valoração casuística, observando as complexidades fáticas e jurídicas envolvidas, admitindo- se, assim, uma eventual e não relevante prorrogação da decisão acerca da manutenção da necessidade das cautelares penais.
+5. Não havendo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+6. Agravo regimental improvido.
+(AgRg no HC 624.342/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/12/2020, DJe 07/12/2020)
+Ante o exposto, não conheço do habeas corpus.
+Com efeito, como já assinalado, as alegadas nulidades constantes da petição de fls. 111-119, consubstanciadas nas teses de ofensa aos arts. 226 e 260 do CPP, na medida em que deduzidas após a decisão que indeferiu a liminar (fls. 99-100), não podem ser conhecidas, tratando-se de inovação de pedido.
+Tampouco devem ser conhecidas as demais arguições, concernentes às teses de falta de fundamentação para a prisão preventiva, por alegada ausência dos requisitos do art. 312 do CPP, de excesso de prazo para a formação da culpa e de falta de reavaliação da prisão, na medida em que não foram previamente analisadas pelo Tribunal de origem, sendo, pois, inviável o exame diretamente da controvérsia por esta Corte superior, sob pena de indevida supressão de instância.
+Ante o exposto, voto por negar provimento ao agravo regimental.
