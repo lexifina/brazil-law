@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetradoem benefício de Sinval Ferreira dos Santos Junior (PEC n. 0000744-64.2020.8.26.0496 - fl. 51), no qual se aponta constrangimento ilegal decorrente do julgamento do Agravo de Execução Penal n. 0007439-34.2020.8.26.0496 pelo Tribunal de Justiça de São Paulo (fls. 81/86):
+AGRAVO EM EXECUÇÃO PENAL - DECISÃO DE 1º GRAU QUE APLICOU A FRAÇÃO DE 40% (QUARENTA POR CENTO) PARA CÁLCULO DE EBENFÍCIOS - INSURGÊNCIA MINISTERIAL COM PEDIDO DE RETIFICAÇÃO DO CÁLCULO DA PENA SOB O ARGUMENTO DE SER DESNECESSÁRIA A REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO PARA APLICAÇÃO DA FRAÇÃO DE 60% (SESSENTA POR CENTO) OU 3/5 (TRÊS QUINTOS) - CABIMENTO - NOVA REDAÇÃO DO ARTIGO 112 DA LEP QUE NÃO CONDICIONA A APLICAÇÃO DO LAPSO MAIS GRAVE À REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO OU EQUIPARADO - PRECEDENTES - DECISÃO REFORMADA - RECURSO PROVIDO.
+Postula-se, em síntese,a concessão liminar da ordem de habeas corpus, para que seja reconhecida a incidência do disposto no art.112, V, da Lei 7210/1984, com redação dada pela Lei n. 13.964/2019, determinando-se a aplicação da fração de 40% (quarenta por cento) para fins de progressão de regime no cálculo de penas da parte paciente, porquanto reincidente simples, e, no mérito, seja confirmada a decisão liminar(fl. 11 - grifo no original).
+É o relatório.
+A matéria aqui suscitada é idêntica àquelatratada no HC n. 647.255/SP, no qual concedi liminarmente a ordem em favor do ora paciente, em 25/2/2021, nos termos da seguinte ementa:
+EXECUÇÃO PENAL. HABEAS CORPUS. PERCENTUAL PARA A PROGRESSÃO DE REGIME. NOVA REDAÇÃO DO ART. 112 DA LEP. LACUNA EM RELAÇÃO AOS REINCIDENTES SIMPLES. INTEGRAÇÃO DA NORMA PELA ANALOGIA IN BONAN PARTEM QUE SE IMPÕE. APLICAÇÃO DO PERCENTUAL DE 2/5 (40%) EM VEZ DE 3/5 (60%). POSSIBILIDADE. PRECEDENTES DESTA CORTE SUPERIOR. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida liminarmente nos termos do dispositivo.
+Constata-se, assim, tratar-se de mera reiteração de pedido, o que não é admitido nesta Corte. Confiram-se estes precedentes: AgRg no RHC n. 124.697/MG, Ministro Felix Fischer, Quinta Turma, DJe 17/4/2020; AgRg no HC n. 546.302/MG, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 3/12/2019; AgRg no HC n. 474.992/ES, de minha relatoria, Sexta Turma, DJe 11/3/2019; RCD no HC n. 423.298/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/12/2017, dentre outros.
+Ante o exposto, indefiro liminarmenteo presente writ(art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PERCENTUAL PARA A PROGRESSÃO DE REGIME. NOVA REDAÇÃO DO ART. 112 DA LEP. LACUNA EM RELAÇÃO AOS REINCIDENTES SIMPLES. MERA REITERAÇÃO DE WRIT (HC N. 647.255/SP). LITISPENDÊNCIA CONFIGURADA (IDENTIDADE DE PARTE E FUNDAMENTOS). NÃO CABIMENTO.
+Habeas corpus indeferido liminarmente.
