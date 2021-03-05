@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DAVID HENRIQUE PONCIANO contra acórdão do Tribunal de Justiça do Estado deSão Paulo (HC n. 2287306-91.2020.8.26.0000).
+Consta dos autos que o paciente foi preso em flagrante no dia 21 de fevereiro de 2020 e denunciadopela suposta prática do crime previsto no artigo 157, do Código Penal, porque "  ..  subtraiu para si, mediante violência ou grave ameaça, uma corrente de ouro e um celular Sannsung S6, avaliados, respectivamente, em R$ 2.000,00 (dois mil reais) e R$ 3.000,00 (três mil reais)  ..  "(e-STJ fls. 34/39).
+Inconformada, a defesa impetrou habeas corpus na Corte estadual alegando, em síntese, fundamentação insuficiente baseada na gravidadeabstrata, sustenta ser o paciente primário com bons antecedentes e residência fixa, possível a aplicação de medidas cautelares diversas da prisão.
+O Tribunal de origem, contudo, denegou a ordem (e-STJ fls. 81):
+HABEAS CORPUS com pedido liminar. Suposta prática de roubo majorado. Defesa sustenta não haver fundamentação idônea para a custódia cautelar. Sem razão. Indícios de autoria e materialidade. Crime concretamente grave, envolvendo violência, grave ameaça à pessoa. A simples presença de atributos pessoais favoráveis não autoriza por si só, a concessão da ordem. Presentes os requisitos dos artigos 312 e 313. Constrangimento ilegal não configurado. Ordem denegada.
+Na presente oportunidade, o impetrante alega fundamentação insuficiente baseadano art. 312 do CPP, pormenção genérica ao requisito dagarantia da ordem pública bem como, afirma ser o paciente primário e de bons antecedente.
+Diante do exposto, pede, liminarmente e no mérito que seja concedido o benefício da liberdade provisória, com a expedição do respectivo alvará de soltura.
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque o presente habeas corpus configura reiteração do HC 644.642/SP, cujo mérito foi julgado no dia 19/2/2021, em decisão que reconsiderou a anterior, que indeferiuliminarmente o writ por deficiência de instrução, mas não conheceu do habeas corpus por ausência de flagrante ilegalidade a justificar a ordem de ofício.
+É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
