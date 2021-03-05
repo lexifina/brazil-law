@@ -1,0 +1,38 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que TANIA MARCHETI - MICROEMPRESA (TANIA)ajuizou ação de execução de título extrajudicialcontra DURON USINA DE TRATAMENTO DE MADEIRAS LTDA. (DURON).
+No curso da ação, o d. Juízo de primeira instância rejeitou a exceção de pré-executividade oposta pela DURON e considerou prejudicado o pedido liminar, que visava à manutenção da devedora como depositária da "pá carregadeira Michigan" penhorada.
+Contra essa decisão interlocutória, DURONinterpôs agravo de instrumento, desprovido pelo TJSC em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TITULO EXTRAJUDICIAL. REJEIÇÃO À EXCEÇÃO DE PRÉ - EXECUTIVIDADE. RECURSO DA EXECUTADA. ALEGADA NULIDADE PELA NECESSIDADE DE LIQUIDAÇÃO POR ARBITRAMENTO. INSUBSISTÊNCIA. CONVERSÃO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS.CÁLCULO ARITMÉTICO SIMPLES. LIQUIDAÇÃO INDEPENDENTE DESNECESSÁRIA. QUESTÃO PRECLUSA. AUSÊNCIA DE INTIMAÇÃO PARA MANIFESTAÇÃO. INSUBSISTÊNCIA. PARTE INTIMADA PARA QUITAR O MONTANTE DEVIDO E OPOR EMBARGOS À EXECUÇÃO, NOS QUAIS SE PODERIA DISCUTIR O ARGUIDO EXCESSO DE EXECUÇÃO.PENHORA. BEM MÓVEL. EXECUTADA QUE ALMEJA SER SUA DEPOSITÁRIA. IMPOSSIBILIDADE. ART. 840, § 1º, DO CPC. INDISPENSABILIDADE NÃO COMPROVADA.DEVEDORA QUE APRESENTOU ENTRAVES À LOCALIZAÇÃO DO BEM. DECISÃO MANTIDA.RECURSO DESPROVIDO. (e-STJ, fl. 42)
+Inconformado, DURONmanejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 9º, 509, 510 e 816 do NCPCao sustentar que (1)é indispensável, no caso dos autos, a liquidação por arbitramento; (2)não foi intimado para impugnar o cálculo apresentado e possivelmente carrear aos autos parecer mercadológico, elaborado porexpert, que tratasse tecnicamente sobre o valor da locação para fins de lucros cessantes (e-STJ, fls. 50/59).
+O apelo nobre não foi admitido pelo TJSC em virtude da incidência das Súmulas nº 284 do STF e 7 do STJ (e-STJ, fls. 465/467).
+Nas razões do presente agravo em recurso especial, DURON defendeu o afastamento dos óbices à admissão do seu apelo nobre (e-STJ, fls. 469/474).
+Houve contraminuta.
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da incidência da Súmula nº283 do STF, por analogia
+Nas razões do presente recurso, DURONafirmou a violação dos arts. 509, 510 e 816 do NCPC sustentando que, quando as perdas e danos forem consubstanciadas em lucros cessantes, o valor da obrigação deve ser, necessariamente, apurado por meio de liquidação por arbitramento. Sobretudo se, para apuração da indenização (obrigação convertida), forem indispensáveis conhecimentos técnicos, próprios de um expert, a exemplo de um corretor de imóveis ou de um profissional especialista em perícia contábil, como entender ser o caso dos autos.
+Contudo, da acurada análise do acórdão recorrido é possível verificar que o TJSCfundamentoua rejeição do pedido de liquidação por arbitramento na preclusão, ex vi:
+No que tange à alegação de necessidade de liquidação por arbitramento, conforme a decisão proferida nos autos executivos às fls. 151-152 e mencionada no trecho acima transcrito, houve a conversão da obrigação de fazer em perdas e danos e, por conseguinte, a definição de que a liquidação do valor devido se daria por simples cálculo aritmético, o que, por si só, afasta o alegado, uma vez que desnecessária liquidação independente. Note-se que a parte não se insurgiu quanto à decisão no momento adequado, operando-se a preclusão. (e-STJ, fl. 46)
+Assim, da análise das razões do presente recurso verifica-se que o referido fundamento não foi impugnado, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA E VENDA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO EVIDENCIADA. 2. FALÊNCIA. ART. 28 DO CDC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. TEORIA MENOR. POSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. 3. FALTA DE REQUERIMENTO EXPRESSO. PRECLUSÃO.AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO.INCIDÊNCIA DA SÚMULA 283 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. A matéria controvertida foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, com enfoque suficiente a autorizar o conhecimento do recurso especial, não havendo que se falar em ofensa ao art. 1.022 do CPC/2015.
+2. Esta Corte tem entendimento que, "de acordo com a Teoria Menor, a incidência da desconsideração se justifica: a) pela comprovação da insolvência da pessoa jurídica para o pagamento de suas obrigações, somada à má administração da empresa (art. 28, caput, do CDC); ou b) pelo mero fato de a personalidade jurídica representar um obstáculo ao ressarcimento de prejuízos causados aos consumidores, nos termos do § 5º do art. 28 do CDC" (REsp 1735004/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 26/06/2018, DJe 29/06/2018).
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1518388/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 21/11/2019 - destacou-se)
+O recurso, portanto, não pode ser conhecido quanto ao ponto.
+(2) Da incidência da Súmula nº7 do STJ
+DURON sustentou quenão foi intimado para impugnar o cálculo apresentado e possivelmente carrear aos autos parecer mercadológico, elaborado por expert, que tratasse tecnicamente sobre o valor da locação para fins de lucros cessantes
+Sobre o tema o TJSCconsignou que DURON foi devidamente intimado e, no entanto, quedou-se inerte. A propósito,confira-se:
+3. Quando à aduzida ausência de intimação para manifestação, bemcomo à questão do excesso de execução, igualmente, não merecem prosperar.
+Isso porque, compulsando os autos na origem, verifica-se despacho (fl. 25), intimando a parte para quitar o débito e, na sequência, explicitando a possibilidade de ajuizar embargos à execução a fim de questionar os valores demonstrados; no entanto, não houve manifestação da parte nesse sentido (fl.259). (e-STJ, fl. 46)
+Assim, rever as conclusões quanto à intimação de DURONdemandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. AGRAVO DE INSTRUMENTO.PRECLUSÃO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. INTIMAÇÃO PARA MANIFESTAÇÃO SOBRE OS CÁLCULOS APRESENTADOS. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
