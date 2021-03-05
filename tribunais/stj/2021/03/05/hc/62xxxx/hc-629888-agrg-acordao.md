@@ -1,0 +1,38 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO NÃO CONHECIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão combatida atrai a incidência dos arts. 1.021, § 1º, do CPC e da Súmula 182 desta Corte.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO(Relator):
+Trata-se de agravo regimental interposto em face da decisão que denegou o habeas corpus.
+Afirma a defesa que falta de prévio credenciamento da instituição de ensino não fere o disposto na Recomendação 44/2013 do Conselho Nacional de Justiça, de modo que faria jus o paciente à remição por estudo.
+Argumenta que, "considerando a importância da educação à recuperação do custodiado que a Lei 12.433, de 29 de junho de 2011, alterou os artigos 126 e 129 da Lei de Execução Penal (Lei 7.210/84), seguindo a já consolidada orientação do Superior Tribunal de Justiça (Súmula 341 do STJ), sacramentando a possibilidade da concessão da remição da pena por horas de estudo" (fl. 181).
+Defende a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi proferida nos seguintes termos:
+Consta dos autos que o paciente participou de "Curso Operação de Máquina CNC com carga horária de 210 (duzentas e dez) horas", tendo o juízo da execução indeferido o pedido de remição pelo estudo, ao entendimento de que o curso realizado não estaria conveniado ao DEPEN/PR.
+Alega que faz jus à remição da pena pelo estudo, sustentando que "a LEP não indica como requisito para validação da remição o prévio convênio entre instituição de ensino e unidade prisional ou, no caso, a credencial, tampouco qualquer outra imposição que restrinja o acesso do paciente à remição do quantum da sua reprimenda  ..  Desta maneira, resta evidente que a Recomendação nº 44/2013 não pode ser utilizada pelo colegiado para impedir a remição por estudo por ausência de credenciamento, uma vez que o texto normativo apenas exige a apresentação do certificado" (fl. 6).
+Requer a concessão da ordem "para que seja reconhecido o direito do apenado à remição por estudo, considerando o certificado apresentado" (fl. 7).
+Prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+DECIDO.
+O acórdão combatido negou provimento ao agravo em execução, afastando o direito à remição pelo estudo, pelos seguintes fundamentos (fls. 70-72):
+ ..
+Tendo vista, que o curso ofertado pela instituição Metalkraft "Operação de Máquina CNC", não está credenciado na portaria nº 1013/15 do DEPEN e também não houve nenhum acompanhamento pelo setor de Pedagogia da unidade prisional, não é possível conceder a remição da pena pelo estudo baseado somente em um único documento, que não traz informações da metodologia de ensino, se presencial ou a distância, não traz informações suficientes que o curso foi realizado da forma correta. Sem este tipo de informação e sem a fiscalização do setor de pedagogia da unidade prisional, esse tipo de ato fica sujeito a fraudes.
+ ..
+Tendo em vista a Recomendação e a Lei de Execução Penal, se verifica a ausência de alguns critérios para a realização da remição pelo estudo, como a falta de instituição autorizada ou conveniada com o poder público, como consta no mov. 131.1 - Autos de Execução da Pena. A ausência de informações sobre a modalidade do ensino, a distância ou presencial, que é de extrema relevância, pois a unidade prisional não tinha ciência da ocorrência desse curso, e para a ocorrência do mesmo é necessário que a unidade designe um educador ou tutor para acompanhar a atividade a ser realizada. Desse modo, não se verifica a possibilidade de remição da pena para o agravante.
+Tem-se que o acórdão deixou de reconhecer o direito à remição pelo estudo sobretudo em razão da ausência de credenciamento do curso realizado junto à DEPEN (P ortaria nº 1013/15), bem como pelo fato de que "não houve nenhum acompanhamento pelo setor de Pedagogia da unidade prisional".
+Tal entendimento harmoniza-se com a jurisprudência desta Corte, segundo a qual "A remição de pena pelo estudo, nos termos do art. 126, § 2º, da Lei de Execução Penal, depende da certificação do curso frequentado pelas autoridades educacionais competentes, por meio de documento idôneo, a fim de cumprir os requisitos exigido na Recomendação n. 44 do Conselho Nacional de Justiça", de forma que, "encontrando-se o sentenciado sob a custódia do Estado, a remição depende de fiscalização acerca do efetivo cumprimento dos requisitos legais" (AgRg no HC 460.196/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 25/06/2019, DJe 01/07/2019).
+Outrossim, tendo o acórdão concluído pela ausência de idoneidade do documento apresentado, porquanto este "não traz informações da metodologia de ensino, se presencial ou a distância, não traz informações suficientes que o curso foi realizado da forma correta", a revisão da referida conclusão demandaria reexame do acervo fático-probatório dos autos, o que é inviável na estreita via do habeas corpus. Nesse entendimento: AgRg no HC 574.605/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 08/09/2020, DJe 22/09/2020.
+Ante o exposto, denego o habeas corpus.
+Observa-se que o habeas corpus foi denegado ao entendimento de que a conclusão da Corte de origem se harmoniza com a jurisprudência do Superior Tribunal de Justiça de que "A remição de pena pelo estudo, nos termos do art. 126, § 2º, da Lei de Execução Penal, depende da certificação do curso frequentado pelas autoridades educacionais competentes, por meio de documento idôneo, a fim de cumprir os requisitos exigido na Recomendação n. 44 do Conselho Nacional de Justiça".
+Salientou ademais que, "tendo o acórdão concluído pela ausência de idoneidade do documento apresentado, porquanto este "não traz informações da metodologia de ensino, se presencial ou a distância, não traz informações suficientes que o curso foi realizado da forma correta", a revisão da referida conclusão demandaria reexame do acervo fático-probatório dos autos, o que é inviável na estreita via do habeas corpus".
+O regimental, contudo, deixou de enfrentar tais fundamentos de modo específico, notadamente a impossibilidade de revisão fático-probatória na via eleita, não comportando conhecimento, nos termos do art. 1.021, § 1º, do CPC e da Súmula 182/STJ. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. 6,40 G DE COCAÍNA E 10,25 G DE CRACK. QUANTIDADE DE DROGA QUE NÃO JUSTIFICA A UTILIZAÇÃO DE PATAMAR MÉDIO DE REDUÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. DESPROPORCIONALIDADE NA DOSIMETRIA FEITA PELO TRIBUNAL DE ORIGEM, QUE CONFIGURA FLAGRANTE ILEGALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido (Súmula 182/STJ).
+2. Agravo regimental não conhecido. (AgRg no HC 543.574/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/05/2020, DJe 04/06/2020.)
+Ante o exposto, voto por não conhecer do agravo regimental.
