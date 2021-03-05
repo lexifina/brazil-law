@@ -1,0 +1,16 @@
+DECISÃO
+Por meio deste habeas corpus, pretende-se a imediata concessão da ordem liberatória, com ou sem aplicação de medidas cautelares diversas, a Marcelo Bezerra da Silva nos Autos n. 201756500770, da 2ª Vara Criminal da comarca de Propriá/SE, garantindo-se a ele o direito de recorrer da sentença ali proferida em liberdade, pelo reconhecimento de que há excesso de prazo no julgamento da apelação interposta e de que há risco de contágio pelo novo coronavírus em razão de ter sido confirmado o primeiro caso no presídio Santa Maria, local onde o paciente se encontra custodiado (fl. 5).
+Liminar indeferida (fls. 179/180).
+Informações (fls. 222/227).
+Parecer do Ministério Público Federal opinando pelo não conhecimento dowritou pela denegação da ordem (fls. 238/242).
+É o relatório.
+O feito perdeu seu objeto no que diz respeito ao alegado excesso de prazo no julgamento da apelação. Isso porque, em 22/10/2020, houve o julgamento do recurso e, posteriormente, dos embargos de declaração opostos a esse acórdão.
+A custódia cautelar do paciente foi mantida na sentença, uma vez que o Magistrado não visualizoumotivos para a revogação da prisão anteriormente decretada (fl. 96).
+Estamos diante de um caso envolvendo acusado reincidente, cujo primitivo decreto deprisão preventiva está amparado nagravidade concreta da conduta, evidenciada no fato de ele (paciente)integrar associação criminosa voltada à prática de crimes relacionados ao tráfico de entorpecentes, inclusive, delitos violentos. Odecisumindica que, na estrutura criminosa, traficantes em liberdade destinavamparcela do produto dos crimes a presidiários envolvidos no esquema, que mesmo encarcerados se mantinham ativos nas atividades do grupo(fls. 18/23).
+Com efeito, a gravidade em concreto do delito, ante o modus operandi empregado, e a reincidência delitiva permitem concluir pela periculosidade social do paciente e pela consequente presença dos requisitos autorizadores da prisão cautelar, elencados no art. 312 do Código de Processo Penal, em especial para garantia da ordem pública(STF:AgRg no HC n. 176.246, Rel. Ministro RICARDO LEWANDOWSKI, SEGUNDA TURMA, julgado em 5/11/2019, DJe 18/11/2019) - (HC n. 506.418/BA,Ministra Laurita Vaz, Sexta Turma,DJe 25/6/2020).
+Quanto à aplicação da Recomendação n. 62/CNJ ao caso, diante da não comprovaçãoda maior vulnerabilidade do paciente ao contágio pela Covid-19e da ausência dedemonstração de queas medidas adotadas pelo estabelecimento prisional sejam insuficientes ou de que inexiste possibilidade de tratamento médico adequado no local, caso necessário, não se mostra, ao menos por ora, exigível a substituição da custódia cautelar por medida cautelar diversa.
+Ante o exposto, julgo parcialmente prejudicado o write, no mais, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS.ASSOCIAÇÃO PARA O TRÁFICO E FINANCIAMENTO DO TRÁFICO. EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. PREJUDICIALIDADE. PRISÃO PREVENTIVA. NEGATIVA DO RECURSO EM LIBERDADE.FUNDAMENTAÇÃO IDÔNEA. GRAVIDADE CONCRETA DA CONDUTA. REINCIDÊNCIA.RECOMENDAÇÃO N. 62/CNJ. COMPROVAÇÃO DA MAIOR VULNERABILIDADE. AUSÊNCIA. INEVIDÊNCIA DECONSTRANGIMENTOILEGAL.
+Writ parcialmente prejudicado e, no mais, ordem denegada.
