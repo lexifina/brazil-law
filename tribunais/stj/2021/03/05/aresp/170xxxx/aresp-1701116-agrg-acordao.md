@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOAGRAVO EM RECURSO ESPECIAL. CRIME DE RECEPTAÇÃO. PRISÃO EM FLAGRANTE. LEGALIDADE. REVISÃO DO ENTENDIMENTO. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1."A pretensão de simples reexame de prova não enseja Recurso Especial" (Súmula n. 7 do STJ).
+2. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ.
+3. Agravo regimental desprovido.
+RELATÓRIO
+BRUNO SANABRIA SOUSA interpõe agravo regimentalcontra a decisão de fls. 475-477, que proferi como presidente do STJ, conhecendo do agravo para não conhecer do recurso especial e aplicando ao caso aSúmulan. 7 do STJ.
+Alegaoagravante o seguinte(fls. 482-483):
+O entendimento de que o recurso especial ora interposto pela Defensoria Pública, demandaria incursão no conjunto fático probatório dos autos, o que violaria o Enunciado nº 7 da Súmula do Colendo Superior Tribunal de Justiça, não merece prosperar. Isso porque o recurso especial não se cuida de provar ou deixar de provar fatos ou circunstâncias, mas da aplicação correta do nosso ordenamento jurídico, vez que, quando da utilização de provas ilícitas, advindas da violação de domicílio, o Tribunal a quo ofendeu não somente a Constituição Federal, em seu artigo 5º, inciso XI, mas também o artigo 157 do Código de Processo Penal.
+Portanto, o que se demanda é apenas a aplicação da legislação, atribuindo-se, ao fato incontroverso, a aplicação jurídica correta, o que se insere no âmbito de competência desse Colendo Superior Tribunal de Justiça. Isso porque é irrazoável manter umacondenação que contraria veementemente a Constituição Federal, bem como o artigo infraconstitucional supramencionado. No caso dos autos, mesmo que ausentes de autorização judicial, os policiais ainda assim ingressaram no domicílio do agravante tendo como base unicamente a existência de denúncias genéricas, o que não é, por si só, suficiente para configurara suspeita sobre o agravante.
+Expõe considerações fáticas e jurídicas sobre o delito pelo qual foi condenado, bem como sobre aprisão e as provas daí decorrentes.
+Requer,não havendo retratação, que o presente agravo seja submetido à Turma para provimento do recurso especial mediante a reforma do acórdão.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOAGRAVO EM RECURSO ESPECIAL. CRIME DE RECEPTAÇÃO. PRISÃO EM FLAGRANTE. LEGALIDADE. REVISÃO DO ENTENDIMENTO. REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1."A pretensão de simples reexame de prova não enseja Recurso Especial" (Súmula n. 7 do STJ).
+2. Mantém-se a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ.
+3. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+O decisum ora atacado é de seguintes termos(fls. 475-477):
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 157, caput, e § 1º, do Código de Processo Penal, no que concerne à absolvição do acusado em razão da ilicitude das provas adquiridas, e traz o(s) seguinte(s) argumento(s):
+O reconhecimento da ilicitude das provas obtidas mediante violação às garantias constitucionais, bem como seu desentranhamento dos autos, não implica revaloração do acerco fático probatório, porquanto uma vez reconhecida no próprio acórdão a ação arbitrária dos policiais militares, que adentraram à residência do acusado sem indícios mínimos razoáveis que apontassem para existência de crime, tampouco sem autorização judicial, resta apenas a esta Corte Superior a aplicação da regra do art. 157 do CPP, desprezada pelo Tribunal de Justiça de Goiás ao aceitar como aptas à condenação do recorrente as provas eivadas de ilicitude e inconstitucionalidade acostadas aos autos (fls. 371).
+Conforme dito alhures, a Corte estadual condenou o recorrente, rechaçando a tese defensiva que suscitou a nulidade das provas obtidas mediante a violação do dispositivo constitucional que consagra o direito fundamental à inviolabilidade do domicílio. Nada mais equivocado. A violação ao texto constitucional é patente, de modo que não resta alternativa senão o desentranhamento de tais provas, assim como as que dela derivam, consoante reza o artigo 157 do Código de Processo Penal. (fls. 372).
+Violada, pois, a garantia constitucional da inviolabilidade de domicílio, temos que a prova consubstanciada na apreensão no interior da residência de Bruno Sousa apresenta-se ilícita, e deve ser inadmitida e desentranhada do processo, conforme dispõe art. 157 do Código de Processo Penal:
+ ..
+Assim, considerando que a materialidade da conduta criminosa imputada ao recorrente decorreu de diligência ilícita, sendo, por esse motivo, inválida, pois inadmissível que diligências informais fundamentem, alheio ao crivo judicial, a possibilidade de ferir o direito fundamental que garante a inviolabilidade do domicílio. Impõe-se, assim, sua absolvição por ausência de provas, nos termos do art. 386 II ou VII do CPP. (fls. 376).
+É o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, sustentou-se que policiais adentraram na residência do apelante sem mandado judicial. Entretanto, em sede judicial, policiais afirmaram que receberam denúncia anônima de que a motocicleta subtraída encontrava-se na residência do apelante, razão pela qual para lá se dirigiram e localizaram o veículo. A dona do imóvel autorizou a entrada dos policiais. A propósito, a mãe do apelante confirmou que a motocicleta estava em sua residência há alguns dias e que ele, no dia dos fatos, saiu da casa conduzindo-a, deu uma volta no quarteirão e ao retornar a polícia já estava em seu encalço (fls. 179/182).Nesse sentido, note-se que a prisão do apelante decorreu da atividade de policiais que, percebendo que ele estava conduzindo uma motocicleta subtraída em via pública, efetuaram sua prisão em flagrante após adentrar a residência. Assim, sendo o crime de receptação considerado permanente e, principalmente, caracterizada justa causa, consubstanciada em razões indicadoras de situação de flagrante delito, não se evidencia ilegalidade na busca domiciliar. (fl. 354)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Inexiste incorreção ou ilegalidade no julgado ao adotar o óbice da Súmula n. 7 do STJ.
+Com efeito, constatou a Corte de origemque a prisão em flagrante ocorrerade modo legal, uma vez que os policiais, percebendo a condução pelo réu de motocicleta subtraída em via pública, adentraram a residência e efetuaram a prisão.
+Por sua vez, a defesa sustenta a ilegalidade da prisão, porquantoos policiais adentraram a residência do acusado sem que houvesseindícios mínimos razoáveis da existência de crime.
+Desse modo, paraalterar o entendimento do Tribunal a quono tocante à percepção pelos policiais da existência de consumação de delito no momento da efetivação da prisão, de modo a reconhecersuailegalidade, é necessária a incursão no conjunto fático-probatório dos autos, providência inviável no STJ, nos termos doóbice sumular já mencionado, que ora é ratificado.
+Nesse mesmo sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. TRÁFICO DE ENTORPECENTES. ILEGALIDADE DA PRISÃO PREVENTIVA. ILICITUDE DE PROVAS. IMPOSSIBILIDADE DE EXAME. SÚMULA N.7/STJ. 2. PENA INFERIOR A 8 ANOS DE RECLUSÃO. REGIME FECHADO.POSSIBILIDADE. NATUREZA, QUANTIDADE E VARIEDADE DAS DROGAS. 3.AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Entendendo as instâncias ordinárias, soberanas na análise das circunstâncias fáticas da causa, que o recorrente teve sua prisão fundamentada e de forma lícita, além de ter sido preso em flagrante, já que as drogas foram apreendidas em sua residência, concluir de forma diversa implica exame aprofundado do material probatório, inviável em recurso especial, a teor do enunciado n. 7 da Súmula do STJ.
+2. Embora a pena reclusiva do paciente tenha sido fixada em patamar inferior a 8 anos de reclusão (5 anos), o regime fechado mostra-se adequado para o início do cumprimento da sanção imposta, diante da aferição desfavorável da natureza, variedade e quantidade dos entorpecentes apreendidos, nos termos dos art. 33 do CP, c/c o art.42 da Lei n. 11.343/2006 (182 pedras de crack - 61,88g; 40 invólucros de cocaína - 8,69g e outras 24 porções de maconha - 72, 17g).
+3. Agravo regimental a que se nega provimento.(AgInt no AREsp n. 1.503.628/SP, relatorMinistro Reynaldo Soares da Fonseca, QuintaTurma, DJe de 5/8/2019.)
+Assim, fica mantida a decisão agravada, cujos fundamentos estão em conformidade com o entendimento do STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
