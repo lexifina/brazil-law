@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de LARISSA FERNANDA BATISTA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HCN. 2304483-68.2020.8.26.0000).
+A paciente foi presaem flagrante,no dia 22/12/2020, pela suposta prática do crime tipificado no art. 121, incisos II e IV, c/c o art. 14, II, ambos do Código Penal. Aprisão em flagrantefoiconvertida em preventiva.
+No STJ, oimpetrante sustenta que "os fundamentos utilizados para a manutenção da prisão preventiva não podem ser utilizados de maneira genérica, sendo NECESSÁRIA A FUNDAMENTAÇÃO JUDICIAL COM FATOS CONCRETOS E NÃO COM FATOS INEXISTENTES BASEADOS EM SUPOSIÇÃO, conforme esculpido no artigo 5º, inciso LXI, da Carta Magna" (e-STJ fl. 9).
+Aduzque "só é possível a mantença do acusado preso durante o feito mediante substancial fundamentação. É dizer: motivação concreta idônea, calcada nas peculiaridades do caso concreto, e não a genérica referência às hipóteses previstas no texto legal da prisão preventiva; apelo à gravidade, à natureza do crime, ou à possibilidade abstrata de influência na colheita das provas; indicação de conjecturas, deduções ou ilações, que se não assentem em elementos probantes confiáveis; não atendem aos motivos cautelares constantes do artigo 312 do CPP. É cediço que o crime de homicídio qualificado, em sua modalidade tentada, também é considerado hediondo. Tal afirmação, entretanto, também não impossibilita a revogação da prisão preventiva. A singela alegação de gravidade abstrata do crime não tem o condão de justificar a prisão cautelar de um réu, ainda que se lhe impute a prática de crime hediondo" (e-STJ fl. 15).
+Alega, por fim, que "a r. decisão aqui veementemente fustigada vai de encontro a Lei Fundamental bem como fere de morte o Pacto de San José da Costa Rica, ao lastrear o decreto de prisão preventiva da paciente em fundamentos inidôneos, pois nenhum elemento concreto, presente nas provas dos autos, foi mencionado ou apontado para sustentar o preenchimento tanto do requisito da conveniência da instrução criminal quanto o da garantia da ordem pública" (e-STJ fl. 21).
+Requer a concessão da liminar e, no mérito, a suspensãoda ordem de prisão decretada pela autoridade coatoraaté julgamento final do habeas corpus.
+Liminar indeferida às e-STJ fls. 208/209.
+O Ministério Público Federal manifestou-se pela prejudicialidade do writ(e-STJ fls. 228/229).
+É, no essencial, o relatório.
+Decido.
+Consoanteinformações prestadas pelaCorte estadual (e-STJ fl. 214), foi proferida em 11/1/2021decisão que concedeu liberdade provisória ao ora paciente, tendo sido expedidoalvará de soltura.
+Fica, portanto, sem objeto o pedido contido neste writ, em que a defesa insurgia-se contra a prisão cautelar. Não há mais interesse processual, por não existir necessidade e utilidade da prestação jurisdicional.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
