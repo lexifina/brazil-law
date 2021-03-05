@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União em oposição a acórdão doTRF da 5ª Região assim ementado (e-STJ, fls. 367-368):
+Administrativo e Processual Civil. Apelação ante sentença que extinguiu a execução de sentença. Execução de título judicial decorrente de Ação Civil Pública que tramitou perante a 19ª Vara Federal da 1ª Subseção Judiciária de São Paulo. Ação Civil Pública nº 0050616-27.1999.43.6100.
+Ressarcimento de valores do FUNDEF. Diferenças decorrentes do cálculo equivocado do VMAA - valor mínimo anual por aluno. Ilegitimidade do Município requerente. Multiplicidade de precedentes. Rejeitado o pedido de suspensão do feito, tendo em vista que resta reconhecida a ilegitimidade do Município para executar o julgado coletivo. Honorários sucumbenciais fixados no valor de R$ 10.000,00 (dez mil reais), nos termos do art. 85, parágrafos 2º e 8º, do CPC. Apelação improvida.
+A União argumentao valor arbitrado a título de honorários advocatícios deverá seguir os termos do arts. 85, §§ 2º, 3º, 4º, 6º e 8º, do CPC, porquanto o texto legal não exclui a incidência do dispositivo em casos de elevado valor da causa.
+É o relatório.
+Verifica-se que a matéria deduzida no presente recurso especial ("Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados") foi afetada para julgamento sob a sistemática do repetitivo, Tema 1.076, nos autos dos REsps 1.877.883/SP e 1.850.512/SP, de minha relatoria, submetidos ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC.
+Nesse contexto, faz-se necessária a devolução dos autos à Corte regionalpara a observância da sistemática dos recursos repetitivos, consoante determinam os arts. 1.040 e 1.041 do Código de Processo Civil, que possuem a seguinte redação:
+Art. 1.040. Publicado o acórdão paradigma:
+I - o presidente ou o vice-presidente do tribunal de origem negará seguimento aos recursos especiais ou extraordinários sobrestados na origem, se o acórdão recorrido coincidir com a orientação do tribunal superior;
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior;
+ ..
+Art. 1.041. Mantido o acórdão divergente pelo tribunal de origem, o recurso especial ou extraordinário será remetido ao respectivo tribunal superior, na forma do art. 1.036, § 1º.
+§ 1º Realizado o juízo de retratação, com alteração do acórdão divergente, o tribunal de origem, se for o caso, decidirá as demais questões ainda não decididas cujo enfrentamento se tornou necessário em decorrência da alteração.
+§ 2º Quando ocorrer a hipótese do inciso II do caput do art. 1.040 e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao tribunal superior para julgamento das demais questões.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem,após a apreciaçãodo agravo em recurso extraordinário pelo STF, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
