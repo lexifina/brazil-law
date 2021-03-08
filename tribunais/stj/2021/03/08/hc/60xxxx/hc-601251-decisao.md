@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Paulo Rogério dos Santos, em que se aponta como autoridade coatora a Quinta Câmara Criminal do Tribunal de Justiça do Paraná, que negou provimento ao Agravo em Execução n. 0014022-47.2019.8.16.0173.
+Colhe-se dos autos que o Juízo da Vara de Execução em Meio Fechado e Semiaberto de Cruzeiro do Oeste/PRindeferiu o pedido de prisão domiciliar formulado pela defesa do paciente, com fulcro no art. 117, II, da LEP (fls. 28/30 - Processo n. 0014022-47.2019.8.16.0173).
+Irresignada, a defesa interpôs Agravo emExecução Penalna origem. O Tribunala quonegou provimento ao recurso, por unanimidade, em 19/6/2020 (fls. 12/18).
+Daí o presentemandamus, em que se sustenta, em suma, que, devido à pandemia provocada pelo coronavírus (Covid-19), bem como à Recomendação CNJ n. 62/2020, o paciente faz jusà prisão domiciliar.
+Assevera-se que o paciente faz parte do grupo de risco por ser portador de Bronquite.
+Afirma-se que o estabelecimento prisional onde o paciente se encontranão possui estrutura suficiente para combater um possível surto da Covid-19,pois é um ambiente superlotado.
+Requer-se, assim, o direito dopaciente de ser colocadoem prisão domiciliar.
+Em 5/8/2020, o pedido liminar foi por mim indeferido(fls. 58/61).
+Prestadas as informações às fls. 68/93 e 96/108, o Ministério Público Federal, em seu parecer, opinoupela denegação da ordem(fls. 110/111).
+É o relatório.
+Em relação ao pleito de revogação da prisão em razão do novo coronavírus, não há dúvidas de que, ante a crise de pandemia mundialmente causada pela Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades públicas, inclusive do Poder Judiciário.
+Entretanto, tais atitudes devem ser tomadas em conformidade com a recente Recomendação n. 62/2020 do Conselho Nacional de Justiça, que orienta aos magistrados com competência para a fase de conhecimento que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, reavaliem as prisões provisórias.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, ressalte-se que esta Corte Superior firmou o entendimento de que o risco trazido pela propagação da Covid-19 não é fundamento hábil a autorizar a revogação automática de toda custódia cautelar, sendo imprescindível, para tanto, que haja comprovação de que o réu se encontra inserido na parcela mais suscetível à infecção, bem comoque haja possibilidade da substituição da prisão preventiva imposta (HC n. 578.982/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/6/2020). Confiram-se, também, o AgRg no RHC n. 127.112/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/6/2020; e o HC n. 575.241/SP, Ministra Laurita Vaz, Sexta Turma, DJe 3/6/2020.
+Para tanto, é necessária a demonstração de que o paciente preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à Covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/5/2020).
+O Magistrado singular, ao indeferir o pedido de prisão domiciliar dopaciente, fundamentou sua decisão nestes termos (fl. 29- grifo nosso):
+ ..
+a concessão de prisão domiciliar ao apenado que cumpre sua reprimenda em regime diverso do aberto (fechado ou semiaberto), somente será permitida em casos excepcionalíssimos e, especificamente, quando por motivo de doença grave, se restar cabalmente demonstrado que o apenado não poderá receber o atendimento de que necessita pela equipe médica do estabelecimento penal em que cumpre pena.
+No caso dos autos, não restou comprovado enfermidade que indique a necessidade de prisão domiciliar, tão pouco restou comprovado o risco concreto de contágio, pois não há notícias de contágio por coronavírus na unidade prisional em que se encontra o sentenciado. Condição que, uma vez evidenciada, poderá ensejara revisão do presente benefício.
+Portanto, não constatada situação excepcional que conduza à concessão do benefício, a rigor o seu indeferimento, ressaltando que, caso a situação de fatos e altere, o pedido poderá ser reapreciado.
+ ..
+No caso, verifica-se que o Tribunal estadual, convalidando a decisão do Magistrado singular, afirmou que, até o momento, não há provas de que opaciente faça parte do grupo de risco ou não esteja recebendo o tratamento adequado, ressaltando que (fls. 12/18- grifo nosso):
+ ..
+Depreende-se dos autos, que o reeducando, condenado nos Autos de Ação Penal nº 0003512-72.2019.8.16.0173, pela prática de tráfico de drogas, possui 40 (quarenta) anos de idade e é portador de bronquite crônica (mov. 37.2).Atualmente, encontra-se recluso na Cadeia Pública de Umuarama, cumprindo a pena de 08 (oito) anos e 02 (dois)meses, em regime fechado, da qual resta remanescente o período de 07 (sete) anos e 13 (treze) dias.
+ ..
+Com efeito, verifica-se que a previsão acerca da prisão domiciliar diz respeito apenas a casos de pessoa presa com diagnóstico suspeito ou confirmado de COVID-19 (na ausência de espaço de isolamento adequado no estabelecimento penal) ou para pessoas presas em cumprimento de pena em regime aberto e semiaberto, o que não é o caso de PAULO ROGÉRIO.
+A hipótese invocada em favor do agravante - grupo de risco em regime fechado - demanda apenas a concessão de saída antecipada, nos termos das diretrizes da Súmula Vinculante 56 do STF.
+ ..
+In casu, mesmo considerando que o reeducando está recluso em cadeia pública, não é possível concluir, de forma simples e rasa, que se trata de estabelecimento inadequado ou mais gravoso ao cumprimento da pena em regime fechado.
+ ..
+Com relação a questão em debate, não se pode perder de vista que, não há qualquer confirmação de caso de coronavírus dentro da Cadeia Pública de Umuarama.
+Atualmente, portanto, não se vislumbra diferença entre o agravante realizar eventual tratamento para bronquite em casa ou no estabelecimento penal e que tomadas as devidas precauções, o risco de contaminação não difere dentro e fora das carceragens, devendo prevalecer, por ora e sob este ponto de vista, o interesse do Estado e da sociedade no sentido de que o reeducando cumpra o restante pena custodiado, até que preencha os requisitos legalmente previstos para progressão de regime ou outros benefícios previstos na lei penal.
+ ..
+Não foi outra a opinião daSubprocuradora-Geral da República Julieta E. Fajardo Cavalcante de Albuquerque em seu parecer, ressaltando quea conclusão de que oora paciente não se encontra em situação de vulnerabilidade, sendo, outrossim, evidente que a prisão domiciliar não se revela medida minimamente adequada às particularidades que envolvem a sua situação, sobremodo por já ter descumprido medida domiciliar determinada anteriormente (fls. 110/111).
+Ademais, de acordo com as informações encaminhas pelo Magistrado singular, nota-se que a unidade prisional onde se encontra o paciente, tem adotado todas as medidas sanitárias necessárias para a preservação da vida dos detentos e controle da pandemia (fls. 69/70).
+Portanto, eventual conclusão no sentido da ilegalidade na manutenção da segregação em regime fechado, à luz da referida recomendação, depende da análise das condições do estabelecimentoprisional em si (art. 4º, I,b, da Recomendação n. 62/CNJ).
+Entretanto, as decisões vergastadas dão conta de que o paciente, embora possa serportador de bronquite, não está inserido na excepcionalidade para fazerjusao benefício da prisão albergue domiciliar, pois não comprovou que esteja em situação devulnerabilidade no ambiente prisional.
+Com efeito, precedente desta Corte Superior de Justiça sobre o tema em análiseressalta quea prisão domiciliar só é admitida em favor de preso inserido no regime aberto, a teor do que dispõe o art. 117 da Lei de Execução Penal. Contudo, comprovado que o recluso - não obstante cumpra pena nos regimes fechado ousemiaberto - esteja acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não possa ser prestado no ambiente prisional, admite-se, de forma excepcional, sua colocação em prisão domiciliar(AgRg no HC n. 557.255/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 16/4/2020).
+Sendo assim, não verifiquei o alegado constrangimento ilegal sustentado pelaimpetrante.
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO. REGIME FECHADO. PEDIDO DE PRISÃO DOMICILIAR EM RAZÃO DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. PACIENTE NÃO INSERIDO NA EXCEPCIONALIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
