@@ -1,0 +1,82 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Joel Ilan Paciornik, Felix Fischer, João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de embargos de declaração opostos por DANIEL MEDEIROS ADADA contra acórdão de minha Relatoria, sintetizado na seguinte ementa:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 306 DO CTB. EMBRIAGUEZ AO VOLANTE. OFENSA AOS ARTS. 10 E 505 DO CPC, 564, IV, DO CPP E 89, CAPUT, DA LEI N. 9.099/1995. NÃO OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. O benefício previsto no art. 89, caput, da Lei n. 9.099/1995, nem sequer chegou a ser oferecido, uma vez que se verificou que o ora agravante já respondia a outra ação penal (autos 0023947-04.2015.8.16.0013), em razão da prática do mesmo crime, qual seja embriaguez ao volante - art. 306 do CTB, na data de 29/9/2015. E, ainda, que foi agraciado, no âmbito da referida ação penal, com a suspensão condicional do processo. Desse modo, não se verifica a alegada negativa de vigência ao art. 10 do CPC ou ao art. 89, caput, da Lei n. 9.099/1995, haja vista que a suspensão condicional do processo não será oferecida se o réu estiver sendo processado por outro crime, como no caso dos autos.
+2. Quanto à alegada violação ao art. 564, IV, do CPP, em razão da abertura de vista para o Parquet se manifestar após a resposta à acusação ofertada pelo recorrente, o Tribunal de origem entendeu que não ficou caracterizada a apontada nulidade, uma vez que o referido procedimento constitui mera irregularidade, estando o acórdão recorrido em sintonia com a jurisprudência desta Corte sobre o tema.
+3. A comprovação de que não existiam outras infrações de trânsito registradas em nome do acusado, em nada alteraria o resultado do julgamento. Ao contrário, caso houvessem registros de infrações cometidas, essas poderiam ser usadas para exasperar a pena-base, por ocasião do exame das circunstâncias judiciais do art. 59 do Código Penal. Desse modo, não se verifica a existência de prejuízo para a parte e, consequentemente, não procede a alegação de ofensa ao art. 505 do CPC.
+4. Este Superior Tribunal de Justiça firmou entendimento no sentido de que o reconhecimento de nulidade exige a demonstração do prejuízo, à luz do art. 563 do Código de Processo Penal, segundo o princípio pas de nullité sans grief, o que, como visto, não se ocorreu no caso.
+5. Agravo regimental não provido." (e-STJ, fl. 945).
+O embargante alega, inicialmente, que "a partir da leitura da manifestação do Parquet de fl. 90, entende que o órgão acusatório ofereceu a suspensão condicional do processo ao Sr. Daniel Adada. De outro lado, o acórdão embargado asseverou que tal benefício não chegou a ser oferecido ao embargante. Entretanto, no modesto sentir da defesa, o decisum foi omisso ao não apontar o motivo pelo qual a mencionada petição ministerial não pode ser classificada como um oferecimento do sursis processual" (e-STJ, fl. 960).
+Aduz, ainda, que "o acórdão embargado analisou unicamente a tese defensiva de violação ao art. 89, caput, da Lei nº 9.099/95, sem empregar fundamentação específica no que tange ao art. 10 do CPC. E isto porque não foram tecidas quaisquer considerações sobre a (i)legalidade da decisão que cancelou a oitiva na qual seria acordado o sursis processual do embargante, sem oportunizar a manifestação prévia da defesa" (e-STJ, fl. 961).
+Aduz que "o acórdão embargado não teceu considerações acerca da aplicabilidade, ou não, das súmulas de nº 243/STJ e nº 723/STF, assim como do entendimento firmado pelo STF no julgamento HC 83163, ao presente caso" (e-STJ, fl. 962).
+Afirma ter demonstrado no bojo de seu agravo regimental "que não responde por outras supostas infrações penais além daquela processada nos presentes autos, haja vista a prescrição do crime processado na ação penal nº 23947- 04.2015.8.16.0013" (e-STJ, fl. 962).
+Alega que o acórdão embargado, ao analisar a tese de violação ao art. 89 da Lei 9099/95, não apontou por quais motivos o entendimento contido no enunciado sumular de nº 337/STJ e no HC 469.142 não seriam aplicáveis ao presente caso (e-STJ, fl. 963).
+Quanto à negativa de vigência ao art. 564, inciso IV, do CPP, diz que "colacionou aos autos precedentes de ambas as turmas dessa Corte, nos quais foram acolhidas pretensões idênticas à tese defensiva ora em comento. De outro lado, o acórdão embargado apontou que a manifestação do Ministério Público após a resposta à acusação seria apenas uma irregularidade, segundo a jurisprudência desse" (e-STJ, fl. 963).
+Acerca da violação ao art. 505 do CPC, sustenta que apontou, "no bojo de seu agravo regimental, que a nulidade decorrente da "volta atrás" do Magistrado singular caracteriza nulidade absoluta, de modo que o prejuízo decorrente dela se presume, haja vista tal violação ferir os princípios constitucionais da segurança jurídica e do devido processo legal" (e-STJ, fl. 964).
+Desse modo, requer:
+"a) Com fundamento no que dispõe o art. 619 do CPP e o art. 263, inciso II, do RISTJ, sejam sanadas as omissões acima indigitadas, inclusive com a atribuição de efeitos infringentes naquilo que for aplicável como desdobramento natural do acolhimento dos embargos.
+b) Sucessivamente, a defesa reitera sua petição de fls. 880, a fim de que o presente feito seja suspenso até a remessa definitiva do segundo Recurso Especial a essa Corte." (e-STJ, fl. 965).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO OCORRÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão recursal não merece acolhimento.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão, no caso de mero inconformismo da parte.
+Ilustrativamente, veja-se o seguinte julgado desta Corte:
+" ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados."
+(EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015).
+No que toca à suscitada ofensa ao art. 10 do CPC, sob o argumento de que o magistrado de primeiro grau deixou de intimar a defesa para se manifestar sobre o fundamento que foi utilizado para cancelar a audiência em que seria proposto o benefício da suspensão condicional ao recorrente, o Tribunal a quo assim se pronunciou:
+"Em análise detida dos movimentos colacionados, é possível verificar que em nenhum momento foi concedido o benefício da suspensão condicional do processo ao réu, pois, da análise da decisão de mov. 29.1, extraiu-se a palavra "será", ou seja, no dia designado para a audiência seria oferecido o referido benefício.
+Assim sendo, não merece prosperar a alegação de nulidade da decisão que cancelou o sursis processual, sem sua prévia manifestação de vez que este benefício ainda não havia sido concedido.
+DA PRELIMINAR QUE DEVE SER REAVALIADO A POSSIBILIDADE DE SUSPENSÃO CONDICIONAL DO PROCESSO, DE VEZ QUE O APELANTE RESPONDE APENAS A DUAS AÇÕES PENAIS, CUJAS PENAS MÍNIMAS NÃO ULTRAPASSAM O PATAMAR MÍNIMO Essa preliminar também não merece prosperar porque, nos termos do art. 89 da Lei 9.099/95, a suspensão condicional do processo não será oferecida se o réu estiver sendo processado por outro crime.
+No caso, sobreveio informação de que o réu já havia sido beneficiado com a suspensão condicional do processo nos autos 0023947-04.2015.8.16.0013, também pelo crime de embriaguez, na data de 29/09/2015. Portanto, incabível referida preliminar." (e-STJ, fls. 540-541, sem grifos no original).
+O benefício previsto no art. 89, caput, da Lei n. 9.099/1995, não foi concedido, uma vez que sobreveio informação de que o ora agravante já respondia a outra ação penal (autos 0023947-04.2015.8.16.0013), em razão da prática do mesmo crime, qual seja embriaguez ao volante - art. 306 do CTB, na data de 29/9/2015. E, ainda, que foi agraciado, no âmbito da referida ação penal, com a suspensão condicional do processo.
+Tem-se, portanto, que o réu não preenchia os requisitos necessários à obtenção do pretendido benefício, nos termos do art. 89 do CPP.
+A propósito, confira-se a redação do referido dispositivo legal:
+"Art. 89. Nos crimes em que a pena mínima cominada for igual ou inferior a um ano, abrangidas ou não por esta Lei, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo, por dois a quatro anos, desde que o acusado não esteja sendo processado ou não tenha sido condenado por outro crime, presentes os demais requisitos que autorizariam a suspensão condicional da pena (art. 77 do Código Penal).
+(..)"
+A corroborar esse entendimento:
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO CONDICIONAL DO PROCESSO. NÃO CUMPRIMENTO DOS REQUISITOS LEGAIS. REINCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Os requisitos de admissibilidade da suspensão condicional do processo encontram-se taxativamente elencados no art. 89, caput, da Lei n. 9.099/95, a saber: (I) pena mínima cominada igual ou inferior a um ano; (II) inexistência de outro processo em curso ou condenação anterior por crime; (III) presença dos requisitos elencados no art. 77 do Código Penal: não reincidência em crime doloso aliada à análise favorável da culpabilidade, dos antecedentes, da conduta social, da personalidade do agente, bem como dos motivos e circunstâncias do delito que autorizem a concessão do benefício" (RHC 91.575/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 19/6/2018, DJe 29/6/2018).
+2. A existência de processos anteriores revela que o recorrente não preenche os requisitos legais, previstos pelo art. 89 da Lei n. 9.099/95, para a obtenção do sursis processual.
+3. Agravo regimental desprovido." (AgRg no AREsp 1691132/TO, Rel.
+Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/09/2020, DJe 28/09/2020)
+Desse modo, não se verifica a alegada negativa de vigência ao art. 10 do CPC ou ao art. 89, caput, da Lei n. 9.099/1995, haja vista que a suspensão condicional do processo não será oferecida se o réu estiver sendo processado por outro crime, como no caso dos autos.
+Acrescente-se, ademais, que o Ministério Público tem somente a legitimidade de oferecer a proposta de suspensão condicional do processo, sendo a concessão do benefício função judicial e, portanto, obrigatória quando preenchidos os requisitos legais, o que não se observou no caso dos autos.
+No que tange à alegação da defesa, no sentido de que "apontou, no bojo de seu agravo regimental, que a nulidade decorrente da "volta atrás" do Magistrado singular caracteriza nulidade absoluta, de modo que o prejuízo decorrente dela se presume, haja vista tal violação ferir os princípios constitucionais da segurança jurídica e do devido processo legal" (e-STJ, fl. 964), ficou expressamente consignado que o magistrado de primeiro grau indeferiu a produção da prova anteriormente deferida, uma vez que essa não teria utilidade para o réu, de modo que não se verifica a existência de prejuízo para a parte e, consequentemente, não procede a alegação de ofensa ao art. 505 do CPC.
+Ademais, não compete ao Superior Tribunal de Justiça o enfrentamento de suposta ofensa a dispositivos ou princípios constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A propósito:
+" ..
+8. Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal. 9. Embargos de declaração rejeitados."
+(EDcl nos EDcl no AgRg nos EAREsp 571.532/PR, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 27/02/2019, DJe 13/03/2019).
+Registre-se que o presente recurso especial foi interposto com fundamento na alínea "a" do permissivo constitucional e não com base na existência de dissídio jurisprudencial, razão pela qual não procedem as alegações de que o acórdão recorrido foi proferido em dissonância com outros julgados desta Corte Superior.
+Também não há falar negativa de vigência às Súmulas nº 243/STJ e nº 723/STF, pois, de acordo com o entendimento pacificado neste Superior Tribunal de Justiça, "para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ).
+Em relação à assertiva do embargante de que "não responde por outras supostas infrações penais além daquela processada nos presentes autos", verifica-se que essa tese não foi aventada nas razões do recurso especial, tratando-se, pois, de nítida inovação recursal, vedada em sede de agravo regimental ou de embargos de declaração.
+Registre-se por derradeiro que, "conforme a consolidada jurisprudência desta Corte, o órgão julgador não está obrigado a se manifestar sobre todos os pontos alegados pela parte, mas somente sobre os que entender necessários ao deslinde da controvérsia, de acordo com o livre convencimento motivado, tal como ocorre no presente caso." (EDcl no AgRg no AREsp 1503460/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/08/2020, REPDJe 19/10/2020, DJe 15/09/2020).
+Assim, à míngua de omissão, contradição ou obscuridade no acórdão, verifica-se que o embargante busca, com a oposição destes embargos declaratórios, tão somente um novo reexame da causa. Entretanto, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia.
+A propósito:
+" ..
+2. Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do CPP, e não à revisão de decisão de mérito que resultou desfavorável.
+3. Embargos rejeitados." (EDcl no AgRg no HC 361.372/PB, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 4/4/2017, DJe 17/4/2017).
+" ..
+1. Em essência, a oposição de embargos de declaração almeja o aprimoramento da prestação jurisdicional por meio da integração de julgado que se apresenta ambíguo, omisso, contraditório, obscuro ou com erro material (art. 619 do CPP).
+Omissis.
+5. Embargos de declaração rejeitados."
+(EDcl no AgInt no REsp 1.601.757/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/2/2017, DJe 23/2/2017).
+Quanto ao pedido sucessivo, verifica-se que os embargos infringentes (e-STJ, fls. 665-669) dizem respeito à dosimetria da pena, razão pela qual se verifica a necessidade de sobrestamento do presente recurso.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
