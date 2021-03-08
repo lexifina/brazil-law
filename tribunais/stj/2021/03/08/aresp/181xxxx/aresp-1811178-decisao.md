@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo apresentado por OBJETIVA ATACADISTA DA CONSTRUÇÃO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim resumido:
+PROCESSO CIVIL SUSTAÇÃO DE PROTESTO RETIRADA VOLUNTÁRIA DO APONTAMENTO PERDA SUPERVENIENTE DO OBJETO
+Alega a recorrente violação do art. 1.022, II, do CPC, diante da omissão do acórdão recorrido quanto à aplicação do princípio da causalidade, trazendo os seguintes argumentos:
+30. Ocorre que, como destacado na apelação, o d. magistrado deixou de enfrentar aspectos relevantes da controvérsia sobre os quais deveria manifestar-se para julgar a causa por inteiro, nos limites da lide.
+31. Como se demonstrou na apelação, a recorrente postulou na exordial que as recorridas fossem impedidas de levar as duplicatas frias a protesto, sendo que, após o ajuizamento da ação, as próprias recorridas praticaram a desistência prevista no art. 16 da Lei 9.492/97.
+32. Ressalte-se, pois, que o pedido de obstar os protestos foi deferido em medida liminar, ainda que após a interposição de agravo de instrumento, o que levou à desistência por parte das recorridas na efetivação dos protestos. (fls. 318).
+36. Em outras palavras, o d. magistrado olvidou-se ao fato de que a emissão e envio ao cartório das duplicatas fraudulentas, no caso, são suficientes a ensejar o ajuizamento da preventiva ação cautelar, pelo principio da causalidade.
+37. Quanto ao ponto, manteve-se omisso também o acórdão recorrido, posto que a matéria de ordem pública deveria ter sido analisada. Afinal, embora houvesse interesse de agir e justa causa para a propositura da ação, conforme reconhecido no decisum, a recorrente foi condenada ao pagamento de honorários advocaticios sucumbenciais.
+38. Não obstante, em que pese tenha sido alegada a referida omissão nos embargos de declaração, a Turma julgadora manteve o posicionamento, por entender que o caso não se amolda à previsão legal do art. 1.022 do Processo Civil. (fls. 319).
+52. Observe-se, pois, que a apelação foi desprovida, todavia, o interesse de agir no momento da propositura da ação foi reconhecido pelo acórdão combatido, nos mesmos moldes requeridos pela recorrente.
+53. Contudo, como já destacado, a Eg. Turma manteve a condenação da recorrente ao pagamento de honorários sucumbenciais, em notável contradição e omissão, haja vista que questão relativa a honorários advocatícios deve ser tratada ex officio. (fls. 323).
+É, no essencial, o relatório. Decido.
+Na espécie, impende ressaltar que, nos limites estabelecidos pelo art. 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como a corrigir erro material.
+Nesse sentido, os seguintes arestos da Corte Especial: EDcl no AgInt no RE nos EDcl no AgInt no AREsp 475.819/SP, relator Ministro Humberto Martins, Corte Especial, DJe de 23/3/2018, e EDcl nos EDcl nos EDcl no AgInt nos EDcl nos EREsp 1491187/SC, relator Ministro Mauro Campbell Marques, Corte Especial, DJe de 23/3/2018.
+No caso em exame, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, verifica-se que não há omissão, contradição ou obscuridade a serem sanadas, uma vez que se encontram devidamente expostas as razões do entendimento adotado no sentido de que houve perda superveniente do interesse processual, em face da retirada dos apontamentos pelo apresentante. Confira-se:
+(..)
+No entanto, a apelante/autora sequer comprovou o cjuizamento da ação principal no prazo legal.
+Ademais, os apontamentos de protesto foram retirados em 29/10/2015, ou séja, antes mesmo que o cfício que déferiu a liminar chegasse ao Cartório de Protesto de Títulos (20/03/2017), corforme 1D 12893875.
+Couforme bem explicitado na sentença a quo, entre a intimação do protesto e a sua lavratura, a parte ré praticou o ato de desistência previsto no artigo 16 da Lei 9492/97, verbis:
+Art. 16. Antes da lavratura do protesto, poderá o apresentante retirar o título ou documento de dívida, pagos os emolumentos e demais despesas.
+Ainda que se possa vislumbrar a inexistência de causa debendi para os apontamentos realizados pela ré, a sustaç ão de protesto tornou-se supervenientemente desnecessária.
+Ao contrário do que afirma a apelante, a liminar somente foi concedida em segunda instância, quando os apontamentos já haviam sido retirados pela ré.
+Dessa forma, de fato havia interesse processual da apelante/autora no momento da prcpositura da demanda, todavia, houve perda shperveniente do interesse, o que just fica a corfirmaçã" o da sentença recorrida.
+Os demais títulos mencionados, que sequer foram levados a protesto somente podem ser cancelados mediante ação própria, declaratória de inexistência de débito.
+Ademais, a embargante/apelante sequer recorreu da condenação em honorários, conforme se verifica de ID 12893905 - Pág. 15, não cabendo tal postulação neste momento.
+Note-se que esta Terceira Turma Cível procedeu à análise pormenorizada acerca dos fatos narrados nos autos, razão pela qual não há falar-se em omissão no entendimento adotado.
+Na verdade, é possível perceber que o interesse da parte embargante é no sentido de trazer, novamente, a discussão sobre matéria já analisada por esta Turma no julgamento do apelo  providência incompatível com o presente manejo recursal.
+Vale consignar, ainda, que para fins de prequestionamento da matéria é suficiente que a questão seja efetivamente debatida nas instâncias originárias, sem que se faça necessário juízo de valor expresso ou menção específica a determinados dispositivos legais, segundo Jurisprudência do colendo Superior Tribunal de Justiça e deste Tribunal, a ver:
+EMBARGOS DE DECLARAÇÃO. CONSUMIDOR E CIVIL. PROMESSA DE COMPRA E VENDA. RESILIÇÃO. CLÁUSULA PENAL. REDUÇÃO DO PERCENTUAL. RESTITUIÇÃO. CONDENAÇÃO.
+SENTENÇA MANTIDA. AUSÊNCIA DE CONTRADIÇÃO NO ACÓRDÃO.
+1. Os embargos de declaração não se prestam a rediscutir a matéria ou as teses jurídicas. Ademais, exigível nos julgamentos a ífetiva fundamentação, não havendo necessidade de manfestação do julgador sobre todas as teses jurídicas ou análise de todos os dispositivos elencados.
+2. O prequestionamento da matéria impõe que haja alguma hipótese legal para os declaratórios, o que não ocorre no caso. De todo modo,o art. 1.025 do Código de Processo Civil estabelece o prequestionamento capaz de preencher o requisito para o conhecimento de eventual recurso.
+3. Embargos conhecidos e não providos.
+(Acórdão n.1042417, 20160710017747APC, Relator: FÁBIO EDUARDO MARQUES 7 a TURMA CÍVEL, Data de Julgamento: 23/08/2017, Publicado no DJE: 30/08/2017. Pág.: 338-343) (grfed)
+Destarte, ausente qualquer vício catalogado pelo artigo 1.022 do Código de Processo Civil, o caso não se amolda à previsão legal, o que torna incabível a via manejada, destinada exclusivamente à correção de falha do julgado, e não meio de substituição de provimentos judiciais, fim para o qual assiste à parte os remédios processuais específicos.
+Ante o exposto, CONHEÇO dos embargos de declaração e a eles NEGO PROVIMENTO. (fls. 304/305)
+Assim, a alegada afronta ao art. 1.022 do CPC não merece prosperar, porque o acórdão recorrido examinou devidamente a controvérsia dos autos, fundamentando suficientemente sua convicção, não havendo se falar em negativa de prestação jurisdicional porque inocorrentes quaisquer dos vícios previstos no referido dispositivo legal, não se prestando os declaratórios para o reexame da prestação jurisdicional ofertada satisfatoriamente pelo Tribunal a quo.
+Confiram-se, nesse sentido: AgInt no AREsp n. 1.652.952/MG, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt no AREsp n. 1.606.785/SC, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/8/2020; AgInt no AREsp n. 1.674.179/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 28/8/2020; AgInt no REsp n. 1.698.339/CE, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 14/8/2020; AgRg no AREsp n. 1.631.705/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/6/2020; e AgRg no REsp n. 1.867.692/SP, relator Ministro Jorge Mussi, DJe de 18/5/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
