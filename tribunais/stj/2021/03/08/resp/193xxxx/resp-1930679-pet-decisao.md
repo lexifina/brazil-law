@@ -1,0 +1,17 @@
+DECISÃO
+A Associação Brasileira dos Terminais de Contêineres (Abratec), por meio da Petição eletrônica 00129388/2021, juntada aos autos em 1º.3.2021, requer sua admissão como amicus curiae.
+Sustenta (fls. 2.825-2.826, e-STJ):
+(i.a) a discussão dos autos envolve matéria relevante e específica, cuja repercussão social é inegável;
+(i.b) detém representatividade adequada, com fundamento: na expressividade da coletividade representada, no interesse institucional e na pertinência temática;
+(ii) bem como a apreciação das contribuições ora ofertadas e que cristalinamente indicam a necessidade de reforma do acórdão recorrido, afinal restou demonstrada a legalidade da cobrança do serviço de segregação e entrega de contêineres, nas perspectivas:
+(ii.a) regulatória, já que a regulação setorial portuária discutida nestes autos - que inclui acórdãos e resoluções da ANTAQ, bem como decisões normativas da CODESP - é válida e atesta que o serviço de segregação eentrega existe e pode ser cobrado do recinto alfandegado retroportuário, já que oneroso e autônomo em relação à chamada THC do armador;
+(ii.b) civil, porque a relação jurídica entre recinto alfandegado retroportuário e o operador portuário decorre da requisição e efetiva prestação do serviço de segregação e entrega;
+(iii.c) concorrencial, uma vez que não existem indícios mínimos de tipicidade da conduta anticompetitiva a que aludiu o acórdão recorrido, nem mesmo sob o ponto de vista da potencialidade dos efeitos (perigo de dano) da cobrança do serviço de segregação e entrega. Ainda que assim não fosse, seria o caso de concluir que a conduta imputada ao operador portuário estaria resguardada por excludente de ilicitude.
+Na forma da jurisprudência do STJ, a admissão da assistência simples pressupõe demonstração de interesse jurídico do terceiro requerente, situação não demonstrada nos presentes autos.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DA CFOAB. ASSISTENTE SIMPLES OU AMICUS CURIAE. DEMANDA DE CUNHO PARTICULAR. AUSÊNCIA DE INTERESSE JURÍDICO. IMPOSSIBILIDADE.
+1. "Na forma da jurisprudência do STJ, para o ingresso de terceiro nos autos, como assistente simples, é necessária a presença de interesse jurídico, ou seja, a demonstração da existência de relação jurídica integrada pelo assistente que será diretamente atingida pelo provimento jurisdicional, não bastando o mero interesse econômico, moral ou corporativo. (..) Na hipótese dos autos, a pretensão do agravante tem, como primordial objetivo, atuar na defesa da OAB/MS, que objetiva a promoção de execução judicial de dívidas referentes a anuidades, em quantum inferior a 4 (quatro) vezes o valor cobrado anualmente, o que caracteriza nítido interesse institucional e econômico na lide, não se demonstrando o interesse jurídico, nos termos preconizados pela legislação processual civil" (STJ, AgInt na PET no AREsp 1.382.509/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA). 2. Agravo interno não provido. (AgInt no AREsp 1382704/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+A alegação da peticionante evidencia mero interesse econômico, fundamento insuficiente, conforme acima mencionado, para justificar seu ingresso no feito.
+Diante do exposto, indefiro o pedido de ingresso daAssociação Brasileira dos Terminais de Contêineres (Abratec) como assistente simples.
+Publique-se.
+Intimem-se.
