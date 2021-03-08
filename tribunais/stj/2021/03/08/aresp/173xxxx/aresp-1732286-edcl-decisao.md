@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face da decisão de fls. 522/527, e-STJ, por meio da qual conheci do agravo e dei provimento ao recurso especial para determinar o retorno dos autos ao TJMS para que o colegiado analisasse o recurso.
+A parte embargante sustentou a ocorrência de omissão, pela falta de análise da preliminar de intempestividade do recurso. Afirmou que o feriado de Corpus Christi é local, sendo indispensável a comprovação da sua ocorrência, o que não foi feito pelo embargado.
+A parte embargada, regularmente intimada, apresentou contrarrazões de fls. 534/536, e-STJ. Assinalou que, no dia 11/6/2020 (Corpus Christi), não houve expediente neste Superior Tribunal de Justiça, de modo que o seu agravo em recurso especial é tempestivo.
+Assim delimitada a controvérsia, passo a decidir.
+Houve, de fato, omissão na análise da tese de intempestividade.
+A decisão de inadmissibilidade do recurso especial, na origem, foi publicada em 27/5/2020, mas o agravo foi interposto somente em 18/6/2020, fora dos quinze dias úteis, nos termos dos arts. 219, caput, 994, VIII, 1.003, § 5º, e 1.042, todos do Código de Processo Civil.
+Observo que, conforme o art. 1.003, § 6º, do CPC/15, o recorrente deve comprovar a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior. Além disso, o dia de Corpus Christi (que, em 2020, ocorreu no dia 11 de junho) não é previsto como feriado nacional em lei federal e, por isso, é considerado feriado local e necessita ser comprovado.
+Por fim, ressalto que "os recursos interpostos na instância de origem, mesmo que endereçados a esta Corte Superior, observam o calendário de funcionamento do tribunal local, não podendo se utilizar, para todos os casos, dos feriados e das suspensões previstas em Portaria e no Regimento Interno do Superior Tribunal de Justiça, que muitas vezes não coincidem com os da Justiça estadual" (AgRg no AREsp 700.715/MG, Rel, Ministro Ricardo Villas Bôas Cuevas, Terceira Turma, j. 17/5/2016, DJe 23/5/2016).
+Em face do exposto, acolho os embargos de declaração e, reconhecendo a intempestividade do agravo em recurso especial, reconsidero a decisão recorrida para dele não conhecer.
+Intimem-se.
