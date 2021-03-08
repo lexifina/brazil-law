@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial manifestado por Jor Luiz Neves da Silva e outra contra decisãoque negou seguimento a recurso especial, no qual se alega violação doart. 450 do Código Civil.Oacórdão recorrido está retratado naseguinte ementa (fls. 312/313):
+Agravo Regimental em Apelação Cível. Ação de restituição de importâncias pagas c/c indenização e pedido liminar. I - Existência de penhora e adjudicação do imóvel na Justiça do Trabalho. Evicção. Restituição do preço pago. Deve ser julgado procedente o pedido de restituição do valor pago pela aquisição do imóvel, quando houver penhora e adjudicação dobem, mormente quando o vendedor deu causa à constrição. Aplicação dos artigos 447 e 450 do Código Civil. II - Recebimento de valor gasto com alugueis. Matéria estranha à lide. Não pode esta instância julgadora decidir acerca de matéria que não foi objeto da inicial e nem da sentença apelada, sob pena de supressão de instância.III - Ônus sucumbenciais. Sendo refutadas as teses expostas nos dois apelos, deve-se manter incólume a condenação dos ônus sucumbenciais ali impostos. IV- Nenhumelemento a ensejar a reconsideração da decisão. Não trazendo o agravante nenhum elemento capaz de sustentar a pleiteada reconsideração da decisão proferida em sede de apelo, deve ser desprovido o agravo regimental, mantendo-se incólume a decisão vergastada.
+Agravo Regimental conhecido e desprovido.
+Sustentam que a petição inicial dos autores postulou expressamente pela condenação da parte ré às perdas e danos.
+Afirmam que têm o direito de receber o valor gasto com o pagamento de aluguéis, uma vez que foram obrigados a pagar essa despesa em razão da conduta praticada pela construtora.
+Assim posta a questão, passo a decidir.
+Observo que o Tribunal de origem se absteve de analisar a questão da indenização referente ao pagamento de aluguéis, uma vez que implicaria em supressão de instância, conforme se extrai dos seguintes trechos(fls. 300/306):
+(..)No presente caso, alega o recorrente a necessidade de reforma do ato judicial combatido, afirmando que obteve um prejuízo de R$ 13.390,00 (treze mil trezentos e noventa reais) referente ao pagamento de alugueis, em razão do ônus existente sobre o imóvel adquirido.
+Ocorre que, conforme bem exposto no decisum rechaçado, não houve pedido na inicial e nem foi decidido na sentença a matéria referente aos gastos suportados com os alugueis, motivo pelo qual não há se falar em pagamento daquele valor, vejamos:(..)
+Assim, não tendo a referida matéria sido decidida no juízo singular, me abstenho de analisá-la aqui, sob pena de supressão de instância.(..)
+Com efeito, verifico que rever as conclusões do acórdão recorrido demandaria o reexame fático dos autos, o que encontra óbice na Súmula n. 7do STJ. A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CERCEAMENTO DE DEFESA. SUPRESSÃO DE INSTÂNCIA.MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do art. 1.022 do CPC/2015. Isso porque, embora rejeitados os embargos de declaração, todas as matérias foram devidamente enfrentadas pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. As conclusões do acórdão recorrido apontadas acima, no tocante à inexistência de cerceamento de defesa, e supressão de instância, não podem ser revistas por esta Corte Superior, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+3. Em sede de recurso especial, ainda que a matéria de ordem pública seja ventilada nas razões recursais, é indispensável, para que não ocorra supressão de instância, que a tese tenha sido apreciada pela origem, o que não ocorreu no presente caso. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.379.343/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11.6.2019, DJe de 14.6.2019)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
