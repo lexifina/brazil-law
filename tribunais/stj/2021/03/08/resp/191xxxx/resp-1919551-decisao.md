@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República)interposto contra acórdão assim ementado (fl. 283, e-STJ):
+EMBARGOS À EXECUÇÃO. MANDADO DE SEGURANÇA COLETIVO. VPE. COMPENSAÇÃO DE VALORES. POSSIBILIDADE.
+1 - Título transitado em julgado condenou a UNIÃO FEDERAL a incorporar a Vantagem Pecuniária Especial - VPE, aos proventos dos militares inativos e pensionistas do antigo Distrito Federal. O CPC (art. 509, §2º c/c art. 524, §3º) prevê que, sendo possível a liquidação por cálculo aritmético, o credor promoverá o seu cumprimento instruindo o pedido com a memória discriminada e atualizada do cálculo e, caso os documentos necessários ao pleno cômputo estejam em poder do executado, poderão ser requisitados pelo juiz, como ocorreu no caso. Conferida certeza (existência do crédito) e exigibilidade (atualidade do crédito) pelo trânsito em julgado, a liquidez (determinação do objeto da obrigação) depende de simples cálculos, possíveis de elaboração com base nas fichas financeiras.
+2 - Infere-se do título executivo judicial não haver óbice à compensação da mencionada vantagem com outras incompatíveis com ela. Deve ocorrer, assim, a devida compensação de valores, tais como com as VPNI, GEFM e GFM, no momento do cálculo.
+3 - A atualização monetária das condenações impostas à Fazenda Pública deve observar as teses já fixadas pelo STF (tema 810 - RE n.º 870.947/SE) e pelo STJ (tema 905 - REsp nº 1.495.146/MG, REsp nº 1.492.221/PR e REsp nº 1.495.144/RS). Apelação parcialmente provida para reconhecer a necessidade de retificação dos cálculos elaborados pela Contadoria Judicial, a fim de que sejam compensados os valores referentes às vantagens incompatíveis com a VPE.
+Os Embargos de Declaração foram rejeitados (fls. 306-310, e-STJ).
+A parte recorrente alega violação dos arts. 489, § 1º, 508, 524, 525, VII, 535, VI, e 1.022 do Código de Processo Civil. Afirma, em síntese, que, "no caso concreto, as verbas a que o d. decisum recorrido determina compensação, induvidosamente, não são supervenientes à coisa julgada.  ..  Desse modo, sob a proteção dos dispositivos de Lei Federal ora arguidos, conclui-se ser descabida a compensação das suscitadas verbas, em cumprimento de sentença, se a causa é anterior ao trânsito em julgado da sentença coletiva.  .. " (fl. 332, e-STJ).
+Contrarrazões às fls. 340-346, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 23.2.2021.
+A parte recorrente apresenta preliminar de violação dos arts. 489 e 1.022 do CPC/2015 nos seguintes termos (fls. 320-322, e-STJ):
+Com efeito, o exame do primeiro acórdão - o que foi impugnado pelos embargos - denota que o silogismo ali desenvolvido - de que é possível a arguição de compensação como matéria de defesa na fase de cumprimento de sentença - encerra, sim, patente omissão sobre aspecto relevante do tema, qual seja, o reconhecimento de que o dispositivo suscitado, que autoriza a compensação em execução, ressalva essa possibilidade apenas para valores cuja causa seja superveniente ao trânsito em julgado da fase de conhecimento.
+ ..
+Apesar do caráter decisivo dessa alegação (verificação de que se tratam de verbas contemporâneas à fase cognitiva e que não foram impugnadas pela União), a partir da qual a impossibilidade de compensação haveria de ser reconhecida, a e. Sexta Turma do TRF da 2º Região a desconsiderou, incorrendo, assim, em uma prestação jurisdicional viciada e deficiente.
+14. Portanto, sob a perspectiva do segundo acórdão, também a deficiência da prestação jurisdicional emerge de forma clara, seja porque este último provimento não se pronunciou sobre matéria relevante - a comprovada preclusão do pedido de compensação de vantagens com as verbas a serem recebidas com o crédito obtido no título judicial -, seja porque adotou uma formulação genérica de julgamento  .. .
+O acórdão que apreciou os Embargos de Declaração, por sua vez, limitou-se a transcrever o argumento da decisão embargada, que não trata do fato de que a compensação, na fase de execução, é viável apenas se os valores forem supervenientes ao trânsito em julgado da fase de conhecimento;do contrário, será hipótesede preclusão da matéria.
+Destaco o trecho transcrito no acórdão dos Embargos (fl. 308, e-STJ):
+"Já no que tange às outras vantagens recebidas pelo exequente e a corresponde compensação, o apelo deve ser provido.
+O magistrado de 1º grau ponderou "Quanto à dedução das parcelas relativas à VPNI, à GEFM e à GFM, não há nenhuma determinação nesse sentido no título exequendo, de modo que não há que se falar em dedução das referidas parcelas." (cf. fl. 233).
+Contudo, infere-se do título executivo judicial não haver óbice à apuração, em momento posterior, do quantum a ser azferido como vantagem pecuniária especial. Mencionada decisão, por um lado, reconheceu a possibilidade de recebimento da VPE, porém não estipulou que ela deva ser recebida cumulativamente com parcelas não cumuláveis. Portanto, a alegada tese de violação à coisa julgada não deve prosperar.
+Desse modo, é imperioso reconhecer que a percepção da mencionada vantagem está condicionada ao não recebimento de vantagens incompatíveis com ela. Deve ocorrer, assim, a devida compensação de valores, tais como com as mencionadas VPNI, GEFM e GFM, no momento do cálculo.
+Os autos devem retornar, pois, para que os cálculos da Contadoria Judicial sejam refeitos aplicando-se a referida compensação."
+Na presente hipótese, a corte de origem, ao julgar os Aclaratórios, manteve-se em silêncioquanto à questão, que configura matéria relevante para o deslinde da controvérsia. Dessa forma, justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios. Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO DO ACÓRDÃO RECORRIDO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Os embargos de declaração são cabíveis quando houver no acórdão ou sentença, omissão, contrariedade ou obscuridade, nos termos do art. 1022 do CPC.  .. .
+2. Na hipótese, apesar de devidamente provocada, a Corte de origem não se pronunciou acerca de importantes pontos suscitados atinentes à delimitação da responsabilidade pelo atraso na obra, inclusive, em relação ao prazo, o próprio julgado reconheceu que a construtora atrasou mais do que 180 dias para a entrega do imóvel.
+3. Agravo interno não provido.
+(AgInt no REsp 1.861.114/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 21/9/2020, DJe 29/9/2020).
+Diante do exposto, dou provimento ao Recurso Especial edetermino o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração.
+Publique-se.
+Intimem-se.
