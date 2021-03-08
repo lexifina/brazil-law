@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpuscompedido de liminar impetrado em favor de ISABELLE GOLDANI VEIGA AMANCIOem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul (Processo n. 1415450-90.2020.8.12.0000).
+A paciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 129-135), em razão da suposta prática do delitodescritonoart. 33, caput,daLei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade, variedade e nocividadede entorpecentes apreendida.
+A defesa alega que não estão preenchidos os requisitos da custódia cautelar. Argumenta que a paciente é primária, possui residência fixa e formação profissional.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva, expedindo-se o alvará de soltura. Alternativamente, pleiteia a substituição da custódia cautelarpela prisão domiciliar, consoante o art. 318, V, do CPP, por ser mãe de criança com menos de 12 anos de idade.
+O Tribunal de Justiça do Estado de Mato Grosso do Sulapresentou informações às fls. 203-222.
+O Ministério Público Federalopinou pelo não conhecimento do writ(fls. 229-236).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP,não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fls. 34-35 e 37, destaquei):
+Durante as buscas ao veículo Gol, lograram êxito em encontrar 5 mochilas contendo substância análoga à maconha, totalizando 227 kg da droga, além de 3 tabletes de cocaína, que pesaram 3,100 kg.
+Em entrevista com os policiais, Isabelle informou que seu pai está preso na cidade de São Paulo/SP e que fez contato com Aroldo para que a acompanhasse até a cidade de Ponta Porã, ao passo que José Ricardo confessou informalmente que foi contrato para transportar a droga para São Paulo/SP, pelo que receberia R$7.000,00 (sete mil reais).
+ ..
+E esse quadro não se amolda à paz social por todos almejada,principalmente tendo em vista que o caso versando estaria a realçar concretos indicativos do envolvimento de várias pessoas, algumas não identificadas e, ao que consta, domiciliadas no Estado de São Paulo, observando-se, também, que a situação versa sobre expressiva quantidade de entorpecente - mais de 200 quilos de maconha e 3 quilos de cocaína.
+ ..
+Não pode passar despercebido, ainda,que a situação versa sobre considerável quantidadede entorpecente, trazendo a lume indicativos de considerável planejamento e estrutura, panorama que, diante das peças até agora coletadas, estaria a realçar a alta reprovabilidade da conduta, a sua periculosidade e a grande probabilidade de frustrar futura execução da pena, por sinal, elevada.
+Confira-se, ainda,excerto da decisão mantida pelo Tribunal de origem que,diante das circunstâncias em que ocorria a prática delitiva, converteu aprisão em flagrante em preventiva (fls. 130-131, destaquei):
+No particular , observo que os presos foram autuados pelo transporte de 227 k g (duzentos e vinte e sete quilos) de substância entorpecente análoga à maconha, além de 3, 100 kg (três quilos e cem gramas de cocaína) , com destino a outro Estado da Federação.
+O transporte de expressiva quantidade de entorpecente, sendo um deles cocaína, droga de elevado valor comercial e um a das mais viciantes, com a assistência de dois batedores e com destino a outro Estado da Federação são circunstâncias que evidenciam a gravidade em concreto da conduta e, em princípio, indicam a dedicação à atividades criminosas, o que torna imprescindível a segregação cautelar a fim de acautelar a ordem pública.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+O Tribunal de origem, quanto à inaplicabilidade do art. 318, V, do CPP à espécie, consignou o seguinte (fl. 40, destaquei):
+No caso versando sequer foi colacionado ao writ prova documental de que a paciente possui filho menor de 12 anos. Não existe qualquer comprovação a respeito, tanto que, em seu interrogatório na fase policial, declarou não possuir filhos (fl. 13 - autos nº 0009574-67.2020.8.12.0800).
+Não fosse isso, inexiste, ainda, qualquer confirmação segura de que tal convivência seja salutar, ao contrário, das peças até agora vislumbradas emerge que tampouco existe convivência com a genitora.
+Tanto é verdade que teria se deslocado do seu Estado de origem para cometer crimes, o que indica ter deixado o filho aos cuidados de outrem.
+Não obstante o disposto no art. 318 do Código de Processo Penal e a decisão do Supremo Tribunal Federal no HC coletivo n. 143.641/SP, a defesanão apresentou provas do grau de dependência entre a paciente e o filho. Além disso, houve apreensão de grande quantidade de entorpecentes (227kg de maconha e 3,100kg de cocaína), o que, por evidenciar a dedicação a atividades delituosas voltadas ao tráfico, justifica a negativa da pretensão de substituição da prisão preventiva por domiciliar.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
