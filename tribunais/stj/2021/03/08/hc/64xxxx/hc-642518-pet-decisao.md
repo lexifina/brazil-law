@@ -1,0 +1,18 @@
+DECISÃO
+Às fls. 1.837-1.839, a Defesa pugna pela reconsideração da decisão que indeferiu o pedido liminar (fls. 1.784-1.786), ao argumento de que o Paciente "tem passado de cirurgia cardíaca que ocasionou cardiopatia restritiva e segundo o laudo, atualmente apresenta calcificações pericardíacas (CID 10 I48 Flutter e fibrilação atrial  CID 10 - I31.9 Doença não especificada do pericárdio) o que o torna extremamente vulnerável e com maior risco de óbito caso seja infectado pelo vírus do covid-19" (fl. 1.837).
+Requer seja suspenso o cumprimento do mandado de prisão, até o julgamento final destewrit.
+Também há pedido de sustentação oral.
+À fl. 1.848, a Coordenadoria de Processamento de Feitos de Direito Penal relata o seguinte:
+"Peço vênia para consultar Vossa Excelência acerca do procedimento a ser adotado nos presentes autos, tendo em vista que, após a juntada automática, em 23/02/2021, da petição PROC 00115158/2021 (e-STJ fls. 1844/1846), e a tentativa de inclusão, na autuação do feito, do nome do Advogado André Soares, inscrito na OAB/DF 17915, o Sistema Individualizado da Atividade Judiciária do STJ (SIAJ) informou que a inclusão do referido advogado registraria automaticamente o impedimento de Vossa Excelência, em razão do processo 0002/2014, enviado via Fluxus em 12/3/2014.
+À elevada consideração de Vossa Excelência."
+É o relatório. Decido.
+Inicialmente, cumpre registrar que o advogado André Soares, OAB/DF n. 17.915, não está listado nos casos em que esta Relatora se dá por impedida, consoante Cadastro de Impedimento de Ministro n. 00002/2014. Desse modo, inexiste o obstáculo alegado para a inclusão do mencionado patrono na autuação do feito.
+De outra parte, não prospera opedido de reconsideração de fls. 1.837-1.839, notadamente porque se trata de mera reiteração de pleito liminar já indeferido, sem trazer nenhuma alteração no quadro fático já devidamente apreciado na decisão de fls. 1.784-1.786, que está assim fundamentada:
+"A propósito, "" o  acolhimento da tese relativa à tentativa de homicídio prejudica a análise da suposta desistência voluntária. Ademais, a impugnação à formulação dos quesitos deve ocorrer no julgamento em Plenário, sob pena de preclusão, nos termos do art. 571, inciso VIII, do Código de Processo Penal, ressalvadas as nulidades absolutas, não configuradas na hipótese. Precedentes" (REsp 1190774/CE, Quinta Turma, Relª. Minª. Laurita Vaz, DJe de 03/11/2010; grifei)"(AgRg no REsp 1.621.722/RO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 14/08/2018, DJe 17/08/2018).
+Por fim, os demais pleitos formulados neste writ demandam, em princípio, o revolvimento do conjunto fático-probatório dos autos, providência inviável por meio da ação constitucional do habeas corpus."
+Ademais, o estado de saúde do Paciente e o suposto risco de infecção pelo novo coronavírus, ao que parece, não foram apreciados no acórdão impugnado, o que impede a manifestação desta Corte Superior, sob pena de indevida supressão de instância.
+Pelo exposto, INDEFIROopedido de reconsideração de fls. 1.837-1.839.
+Providencie a Coordenadoria de Processamento de Feitos de Direito Penal a inclusão do advogado informado à fl. 1.845.
+Publique-se. Intimem-se.
+Após, aguarde-se a apresentação do parecer do Ministério Público Federal.
+Oportunamente, esclareço que a Defesa deverá observar o procedimento das sessões por videoconferência, previsto em Resolução da Presidência desta Corte (orientações em https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/10022021-STJ-prorroga-julgamentos-por-videoconferencia-ate-31-de-marco.aspx), e a notifico de que o dia da sessão será informado no site do Superior Tribunal de Justiça, com até 48 (quarenta e oito) horas de antecedência.
