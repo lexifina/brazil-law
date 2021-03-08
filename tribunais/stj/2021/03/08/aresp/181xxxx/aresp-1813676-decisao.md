@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERNANDA DOS SANTOS contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. MUNICÍPIO DE POMPÉIA. DESÍDIA NOS ATENDIMENTOS EMERGENCIAL MÓVEL E HOSPITALAR. AFERIÇÃO DA MORTE SEM OS DEVIDOS PROCEDIMENTOS TÉCNICOS. CONSTRANGIMENTO E FORTE EMOÇÃO CAUSADOS À GENITORA. VELÓRIO INTERROMPIDO, PARA POSTERIOR AVERIGUAÇÃO DA MORTE DE FATO. SENTENÇA DE PROCEDÊNCIA. VALOR CONCEDIDO A MENOR. PRETENSÃO DE REFORMA DAS PARTES. IMPOSSIBILIDADE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 944, caput, do CC, no que concerne à majoração do valor fixado a título de reparação por danos morais, trazendo os seguintes argumentos:
+Ocorre que, data maxima venha, ao contrário do que se concluiu a sentença e o acordão regional, a situação vivenciada pela Recorrente/Autora revela-se extremamente grave e traumática.
+Não bastasse a Recorrente já estar fragilizada com a morte de seu filho, viu-se diante de situação indescritivelmente impactante, vez que seu filho, deitado naquele caixão, já com o velório em andamento, passou a apresentar sinais indicativos de que ainda haveria um folego de vida!
+ ..
+Muito embora o dano moral seja algo de difícil materialização e quantificação, revela-se importante que o julgador se coloque no lugar daquela mãe que, estando a velar seu próprio filho, passou a notar sinais no corpo do filho que poderia representar estar ele vivo! Neste instante, interrompe-se o velório, retira-se o seu filho daquele caixão para ir até o hospital a fim de verificar se ele estaria vivo, criando-se, além de tudo, uma expectativa angustiante. Após realizar os procedimentos e exames médicos necessário, retorna o médico ao encontro da mãe, para arrancar-lhe qualquer esperança e dizer que, realmente, seu filho está morto!
+ ..
+Ademais, a situação econômica da Recorrida (Prefeitura Municipal de Pompéia) é suficiente para demonstrar a necessidade de majoração da condenação, pois o Município, só no ano de 2019 o Município Arrecadou R$ 612.353.688,13.
+Note-se que o valor mantido pelo acordão regional também não servirá como desestímulo a uma prestação de serviço de saúde condizente, digno, respeitoso e eficiente.
+ ..
+Portanto, não obstante a demonstração das circunstancias que permearam o caso em concreto, o acordão recorrido concluiu que o valor arbitrado em primeira instância se mostrou condizente com o dano experimentado, violando assim o disposto no artigo 944, caput, do Código Civil (fls. 286-289).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No que diz respeito ao montante indenizatório, conquanto subjetiva a estipulação do valor da indenização por dano moral, uma vez que não existem critérios determinados para a quantificação, a compensação deve ser fixada em montante que possa penalizar a conduta negligente do ofensor, sem constituir enriquecimento indevido.
+O arbitramento da indenização por dano moral deve ser feito com moderação, tendo em vista a natureza do dano, suas consequências na vida e nas condições econômicas das partes.
+ ..
+No caso dos autos, a considerar os infortúnios pelos quais sofreu a autora, não há nenhum manifesto exagero ou miniaturização no arbitramento pelo Juízo a quo quanto ao produto da indenização, eis que na aplicação do ordenamento jurídico atendeu aos fins sociais e às exigências do bem comum, resguardando e promovendo a dignidade da pessoa humana e observando a proporcionalidade, a razoabilidade e a legalidade.
+Assim, mantém-se o justo valor tal como arbitrado na r. sentença a título de dano moral, conforme os termos bem lançados na r. sentença pelo magistrado de primeiro grau ao fundamentar a questão (fls. 276-277)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, essa restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
