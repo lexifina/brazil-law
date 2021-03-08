@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpuscompedido de liminar impetrado em favor de ADAILDE OLIVEIRA MAIAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás(Processo n. 5479847-74.2020.8.09.0000).
+O paciente teve a prisão em flagrante convertida em preventiva(fls. 18-19), em razão da suposta prática dodelitodescritonoart. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade, variedade e nocividadede entorpecentes apreendidos.
+A defesa aponta excesso de prazo para o encerramento da instrução processual. Argumenta que o paciente é primário, possui bons antecedentes, trabalho e residência fixa e um filho de 1 ano de idade.
+Requer, liminarmente e no mérito,a revogação da prisão preventiva do paciente, expedindo-se o alvará de soltura. Alternativamente, pleiteia a substituição da prisão pela imposição de medidas alternativas previstas no art. 319 do CPP
+O Tribunal de Justiça do Estado de Goiásapresentou informações às fls. 346-352.
+Em nova petição (n. 00920829/2020), o impetrante reiterao pedido de liminar, destacando que a carta precatória expedida para oitiva de testemunhas da acusação na Comarca de Ipixuna (PA) retornou sem cumprimento (fls. 356-376).
+A liminar foi indeferida às fls. 378-379.
+O Ministério Público Federalopinoupelo não conhecimento do write, caso dele se conheça, pela denegação da ordem (fls. 385-391).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 63-64, destaquei):
+Concernente ao excesso de prazo para a conclusão da instrução criminal,tenho que não assiste razão ao paciente.
+Com efeito, percebe-se, sem maiores esforços, que realmente houve a vulneração do lapso temporal legalmente previsto no ordenamento jurídico. Todavia ,para que reste configurado o constrangimento ilegal pelo excesso de prazo não bastaa simples soma aritmética dos prazos legalmente estabelecidos.
+Em que pese a prisão preventiva ultrapassar o lapso temporal de 148 dias, para a finalização da instrução nos casos de crime de competência do juízo de origem(procedimento ordinário), consoante Ofício Circular nº 042/2011/ASSJ, atendendo recomendação da Corregedoria Nacional de Justiça (Ofício Circular nº 008/DMF), não há constrangimento ilegal. Explico.
+O atraso na marcha processual decorreu da necessidade de expedição de carta precatória para diversas comarcas, sobrevindo a pandemia do novo coronavírus e a digitalização dos processos.
+Verifica-se, assim, um somatório de motivos que resultaram no atraso dos prazos processuais, sendo que os autos principais estão aguardando a devolução de carta precatória expedida ao juízo da Comarca de Ipixuna no Estado do Pará, que por sua vez informou que "as oitivas da testemunhas foram aprazadas para dia 31 de março de 2020, entretanto em razão da pandemia e consequente suspensão das atividades presenciais não foi possível a realização da mesma. Informo-lhe, ainda, que nossa comarca está em processo de retorno gradual das atividades presenciais a partir de amanhã, dia 12 de agosto de 2020, estando cumprindo a princípio as audiências de réus presos da comarca, considerando o grande volume de instruções iniciadas e não concluídas, bem como as instruções ainda não iniciadas. Tão logo seja redesignada as oitivas da presente deprecata a informaremos prontamente."
+Se de um lado há lentidão no encerramento da instrução criminal, por outro, é inegável que a autoridade impetrada tem expendido demasiados esforços para concluí-la.
+Não bastasse isso, não se pode olvidar que o paciente foi preso em flagrante trazendo consigo 23 (vinte e três) porções de maconha, perfazendo massa de 8,145kg; e 06 (seis) porções de cocaína, perfazendo massa de 6,175kg (Laudo deExame de Constatação).
+ ..
+Em suma, repito, há excesso de prazo para conclusão da instrução criminal.No entanto, levando-se em consideração a gravidade do crime apurado, a necessidade de expedição de cartas precatórias, a pandemia do novo coronavírus, a digitalização dos processos e a vultuosa quantidade de drogas apreendidas (maconha e cocaína), hei por bem manter a custódia preventiva, aplicando-se o princípio da razoabilidade.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+Por fim, a matéria relativa à possibilidade de substituição da prisão por medidas cautelares alternativasnão foi apreciada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
