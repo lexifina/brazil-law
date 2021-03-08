@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado em favor deSamuel Oliveira dos Santos, apontando-se como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça de São Paulo(Apelação Criminal n. 1504841-61.2020.8.26.0228).
+Narram os autos que o paciente foi condenado a 6 anos e 5 meses de reclusão, em regime inicial fechado, e 15 dias-multa, pela prática do crime previsto noart.157, § 2º,II e § 2º-A, I, do Código Penal.
+Neste mandamus, a Defensoria Pública alega que, na terceira fase de aplicação da pena, NÃO há motivação idônea para elevar a pena da forma realizada pela r. sentença de primeiro grau e mantida pelo v. acórdão recorrido(fl. 4).
+Destaca que o Magistradoaumentou a pena em3/8 tão somente em razão da quantidade de majorantes, violando a Súmula 443 do Superior Tribunal de Justiça.
+Requer, inclusiveem liminar,seja afastada a elevação da pena realizada na terceira fase da aplicação da pena, em razão das majorantes, no quantum de 3/8, fixando-se o mínimo legal de 1/3(fl. 14).
+É o relatório.
+In casu, a ordem comporta concessãoin limine.
+No tocante à dosimetria,vejamos o que consta da sentença condenatória(fl. 30 - grifo nosso):Na primeira fase de dosimetria, em razão dos maus antecedentes, processo (0011008-67.2013.8.26.0050 - 9ª Vara Criminal; cf. fls. 24/25), aumento as penas em 1/6 (um sexto), o que implica 4 (quatro) anos e 8 (oito) meses de reclusão, além do pagamento de 11 (onze) dias-multa. Ainda que francamente abalada a vítima pela ação criminosa, restou demonstrado, inclusive pelas palavras dela própria, que o réu tentou acalmá-la durante a tentativa de roubo, o que permite limitar, nessa fase, o acréscimo a 1/6, respeitados os argumentos do MINISTÉRIO PÚBLICO. Na segunda fase, a reincidência se compensa com a confissão espontânea do réu, considerada na formação da convicção motivada.Na derradeira terceira fase, reconhecidas as duas causas de aumento imputadas na acusatória - delito praticado mediante concurso de agentes e emprego de arma de fogo, procedo ao aumento de 3/8 à pena, o que implica 6 (seis) anos e 5 (cinco) meses de reclusão, além do pagamento de 15 (quinze) dias-multa.
+O Tribunal de Justiça, ao negar provimento ao recurso defensivo, concordou com os fundamentos apresentados pelo Juízo de primeiro grau.
+Contudo, do trecho acima, vê-se, pois, que as instâncias ordinárias fixaram o percentual de aumento em razão da existência de duas majorantes, em patamar acima do mínimo (3/8), sem tecer fundamentação concreta e objetiva para tanto, o que caracteriza manifesto constrangimento ilegal, porquanto o critério de elevação da reprimenda, na terceira fase da dosimetria, possui caráter subjetivo, por ser mais favorável ao réu e por obedecer ao princípio constitucional da individualização da pena, e não meramente matemático, a depender, pois, das circunstâncias do caso concreto.
+Nesse contexto, faz-se necessária a aplicação do preceituado na Súmula 443/STJ:O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+Com essas considerações, passo, então, a redimensionar a pena do paciente em relação ao crime de roubo majorado.
+Fica a pena-base mantida em 4 anos e 8 meses de reclusão, e 11 dias-multa. Na segunda fase do cálculo da pena, a agravante da reincidência foi compensada com a atenuante da confissão espontânea, ficando a pena intermediária fixada em4 anos e 8 meses de reclusão, e 11 dias-multa.Na terceira fase, a incidência das majorantes (concurso de agentes e emprego de arma de fogo) implica acréscimo de 1/3 da pena, ficando a reprimenda estabelecida em 6anos, 2meses e 20 dias de reclusão, e14 dias-multa, a qual torno definitiva.
+Ante o exposto,concedo liminarmentea ordempara redimensionar a pena do paciente, em relação ao crime de roubo majorado, para 6anos, 2 meses e 20 dias de reclusão, e 14 dias-multa,mantendo-se, no mais, a sentença condenatória.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. CRITÉRIO MATEMÁTICO ADOTADO NA TERCEIRA FASE DO CÁLCULO DA PENA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 443 DO STJ. PENA REDIMENSIONADA.
+Ordem concedida liminarmentenos termos do dispositivo.
