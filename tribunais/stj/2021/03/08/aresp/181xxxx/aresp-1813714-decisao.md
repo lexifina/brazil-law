@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por MERIVALDO ANTONIO MIOSSO CARDOSO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CRIME - PORTE DE ARMA DE FOGO DE USO PERMITIDO (ART 14 LEI 108262003) - PROCEDÊNCIA APELO DO ACUSADO - 1 INEXIGÊNCIA DE CONDUTA DIVERSA - CAUSA EXCLUDENTE DE CULPABILIDADE NÃO EVIDENCIADA - 2 - NÃO CONFIGURAÇÃO - 3 ADEQUAÇÃO DE ABOLITIO CRIMINIS OFÍCIO DE UMA DAS CONDIÇÕES DO REGIME ABERTO - RECURSO DESPROVIDO ADEQUANDOSE DE OFÍCIO EM UMA DAS CONDIÇÕES DO REGIME ABERTO.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, a parte alega divergência de interpretação jurisprudencial em relação à atipicidade da conduta de portar arma de fogo por agente penitenciário temporário exposto aos mesmos riscos inerentes à natureza da atividade desempenhada por servidor efetivo, trazendo o(s) seguinte(s) argumento(s):
+Em decorrência disso passou a portar arma de fogo de uso permitido, devidamente registrada e autorizada pela autoridade policial competente.
+ ..
+No caso dos autos, o Recorrente desenvolvia a função de Agente Penitenciário, e, apesar de ser temporário e não ter o mesmo direito ao porte de arma, estava sujeito às mesmas ameaças e atentados como se efetivo fosse.
+Neste diapasão, diante da existência de identidade entre o caso dos autos e o julgado apresentado como paradigma, passamos a discorrer efetivamente acerca disso.
+ ..
+Sim, porque ambos eram Agentes Penitenciários temporários, sujeitos aos mesmos riscos inerentes à natureza da atividade desempenhada, e ambos responderam a processo crime por porte ilegal de arma de fogo e munições (fls. 516-517).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar com precisão quais dispositivos legais seriam objeto de dissídio interpretativo, o que atrai, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nessa linha, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.616.851/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; AgInt no AREsp 1.518.371/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 15/5/2020; AgInt no AREsp 1.552.950/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 8/5/2020; AgInt no AREsp 1.023.256/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24/4/2020; e AgInt nos EDcl no AREsp 1.510.607/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 1º/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
