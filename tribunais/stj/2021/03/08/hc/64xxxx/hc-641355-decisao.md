@@ -1,0 +1,11 @@
+DECISÃO
+Em petição endereçada a esta Corte Superior (e-STJ fls. 226/229), relataa defesa que "estão em curso dois inquéritos propostos contra a Paciente para apurar o mesmo fato, em instâncias diversas, uma com competência para apurar especificamente crime federal e outra para apurar crime comum, em ambos os casos a suposta violação do artigo 171, do Código Penal. A identidade dos inquéritos policiais em foco é inarredável porquanto apuram a mesma notitia criminis, veiculada pela mesma pessoa, através do mesmo método, mas o certo é que apenas uma instância detém competência para prosseguir" (e-STJ fl. 227).
+Alega que "em nenhum dos dois inquéritos em tela foi cumprida a exigência do artigo 171, § 5º, do CP, onde consta que a iniciativa estatal é condicionada à representação, aliás, no mesmo sentido o artigo 5º, § 4º, do CPP, onde que: "o inquérito, nos crimes em que a ação pública depender de representação, não poderá sem ela ser iniciado" (e-STJ fl. 229).
+Requer, ao final, "sejam sobrestados ambos os inquéritos até definição da competência por Vossa Excelência, ou para que sejam trancados em virtude de que, um e outro, padece do mesmo vício, ou seja, a falta da oitiva e representação por parte da suposta vítima" (e-STJ fl. 229).
+É o relatório. Decido.
+Quanto a existência deduplicidade de inquéritos policiais para apurar os mesmos fatos supostamente delituosos, esclareço que o tema não foi objeto de enfrentamento da Corte de origem, o que impede este Superior Tribunal de Justiça de examinar a matéria, sob pena de indevida supressão de instância.
+Quanto à necessidade de representação do ofendido para apuração do crime de estelionato, em que pese o esforço da defesa, não foram trazidos argumentos novos capazes de infirmar os fundamentos do decisum cuja reconsideração se pretende.
+No caso vertente, não obstante os fundamentos apresentados na inicial, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, para se aferir a existência de constrangimento ilegal.
+Ademais, o pedido liminar confunde-se com o próprio mérito, o qual deverá ser apreciado em momento oportuno, por ocasião do julgamento definitivo do pedido.
+Ante o exposto, indefiro o pedido formulado.
+Intimem-se.
