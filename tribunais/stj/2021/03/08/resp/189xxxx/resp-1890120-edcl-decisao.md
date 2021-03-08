@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra a decisão em que dei parcial provimento ao recurso especial da UNIVERSIDADE FEDERAL DA PARAÍBA para cassar o aresto recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim de que prossiga no julgamento do feito, analisando a prescrição, no caso concreto, com base na orientação do STJ indicada na fundamentação: a execução daobrigação de fazer não interrompe o prazo prescricional para a execução da obrigação de pagar.
+A parte embargante alega, em síntese, que a decisão foi omissa quanto às suas alegações trazidas em contrarrazões, no sentido de estabelecer o "distinguishing entre o caso em apreço e a tese firmada no REsp 1.344.440/RS" (e-STJ fl. 5154).
+Aduz que a ação coletiva originária transitou em julgado em 09/03/2013, sendo ajuizada execução coletiva da obrigação de pagar em 2017, na qual foi determinado o desmembramento em grupos de até dez substituídos, ficando extinta a execução coletiva, com a respectiva intimação da Universidade.
+Nesse contexto, destaca que "ingressou com a execução do julgado dentro do prazo prescricional E A RÉ FOI DEVIDAMENTE INTIMADA DA DECISÃO, OCORRENDO O APERFEIÇOAMENTO DA RELAÇÃO PROCESSUAL", razão pela qualindiscutível a interrupção da prescrição, não havendo "que se falar em ocorrência de prescrição, porquanto fora o próprio Juiz Titular da Vara Federal que determinou o desmembramento da execução em grupos de 10 substituídos, fato que deu ensejo às execuções desmembradas, entre as quais a objeto do Agravo de instrumento em apreço" (e-STJ fl. 5.155).
+Afirma, ainda, a impossibilidade de aplicação dos precedentes invocados pela Universidade, havendo a necessidade de modulação de efeitos quando há mudança de entendimento, bem como que, na hipótese, "a própria decisão do Juízo singular determinou EXPRESSAMENTE que a execução da obrigação de pagar apenas teria início após o efetivo cumprimento da obrigação de fazer, consoante decisão de fls. 356 dos autos originários que segue anexa" (e-STJ fl. 5.170).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada deobscuridade, contradição, omissão ou erro material.
+In casu , não ocorreu nenhum dos vícios supracitados.
+Com efeito, o Tribunal de origem, ao afastar a prescrição da execução, destacou apenas que (e-STJ fls. 4.929/4.030):
+(..) conquanto o título judicial tenha transitado em julgado em 09/03/2013, apenas em 2017 houve o efetivo cumprimento da obrigação de fazer e seu trânsito em julgado pela parte executada. Somente após cumprida a obrigação de fazer pelo executado é que há possibilidade de o autor postular a execução da obrigação de pagar, uma vez necessária informação quanto ao termo final da conta, a qual corresponde à data do respectivo cumprimento.
+(..)
+Assim, tendo a parte autora promovido o cumprimento de sentença quanto à obrigação de pagar em 2018, dentro do prazo quinquenal a partir do reconhecimento judicial de cumprimento da obrigação de fazer (2017), não há que se falar em prescrição.
+Acolhida a tese em questão, fica prejudicado o argumento subsidiário da recorrente no sentido de que não se operou a interrupção do prazo prescricional pelo ajuizamento do processo n.º 0801761-02.2017.4.05.8200.
+Na decisão embargada, ficou claramente explicitado que a conclusão adotada está em desconformidade com o entendimento do STJ de que a execução da obrigação de fazer não interrompe o prazo prescricional para a execução da obrigação de pagar.
+Assim, em razão da adoção de premissa equivocada,foi cassado o aresto recorrido, com a determinação de retorno dos autos ao Tribunal de origem, a fim de que prossiga no julgamento do feito, analisando a prescrição no caso concreto, de acordo com a orientação do STJ.
+Note-se que todas as questões suscitadas pelaora embargante - especialmente a interrupção do prazo prescricional pelo ajuizamento de execução coletiva - somente poderão ser analisadas pelo Tribunal a quo por ocasião do novo julgamento.
+Não há, portanto, qualquer vício a ser sanado.
+Registre-se, por fim, que o mero inconformismo com o posicionamentoemitido não permite o manejo de aclaratórios.
+Ante o exposto, REJEITO os embargos de declaração.
+Intimem-se. Publique-se.
