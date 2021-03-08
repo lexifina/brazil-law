@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de RAVEL DA SILVA MOREIRA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS no julgamento do HC n. 0005125-72.2020.8.27.2700.
+Extrai-se dos autos que o paciente foi preso preventivamente por ter supostamente praticado os delitos tipificados no art. 121, § 2º, inciso IV, c/c art. 14, inciso II, ambos do Código Penal, e no art. 12 da Lei n. 10.826/2003 (homicídio qualificado e posse ilegal de arma de fogo de uso permitido).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. DELITO PREVISTO NO ARTIGO 21, §2º, IV (RECURSO QUE DIFICULTOU A DEFESA DO OFENDIDO) C/C ARTIGO14, II, AMBOS DO CÓDIGO PENAL E ARTIGO 12, DA LEI Nº 10.826/03. PRISÃO PREVENTIVA. REQUISITOS PREENCHIDOS. EXCESSO DEPRAZO. INOCORRÊNCIA. CONSTRANGIMENTO ILEGAL NÃOEVIDENCIADO. ORDEM DENEGADA.
+1- Não há dúvida quanto à presença do fumus commissi delicti, consubstanciado na prova da materialidade e fortes indícios da autoria do crime de tentativa de homicídio qualificado, colhidos por ocasião do Inquérito Policial nº 0001992-75.2019.8.27.2726, com apontamento de dados reais consistentes no Laudo de Exame de Corpo de Delito - Lesão Corporal nº02.1941.07.19 (ev. 2), Exame Pericial de Vistoria e Teste de Eficiência em Arma de Fogo nº573/2019 (ev. 14, LAU2), Laudo Pericial de Exame de Corpo de Delito Complementar nº 04.0018.09.19 (ev. 21, LAU1), bem como pelos depoimentos da vítima, testemunhas e confissão do acusado, elementos s que deram ensejo a instauração da ação penal correspondente.
+2-Verifica-se nos autos da Ação Penal n. 0002775-67.2019.8.27.2726, que a denúncia foi recebida em 24/10/2019(evento 1 dos autos originários). Foi realizada em 31/01/2020audiência, oportunidade em que o Ministério Público requereu vista dos autos para tentativa de localização dos endereços da vítima e testemunhas, providência esta, fundamental para a comprovação dos fatos narrados na denúncia.
+3-Percebe-se que no juízo de origem estão sendo tomadas as providências para, dentro da realidade, dar ao feito a atenção merecida, observados os limites físicos e tecnológicos disponíveis.
+4-Ademais, em relação a duração da custódia, o Código de Processo Penal não estabelece um prazo máximo de duração da prisão preventiva, devendo ser revogada em caso de ausência de motivos para que ela subsista, conforme previsão do artigo 316 do Código de Processo Penal, e no presente caso os motivos são suficientes para a manutenção da segregação do paciente.
+5-Os prazos indicados para a consecução da instrução criminal servem apenas como parâmetro geral, porquanto variam conforme as peculiaridades de cada processo, só havendo configuração de constrangimento ilegal quando o excesso de prazo for injustificado, o que não ocorre in casu, não configurando constrangimento ilegal capaz de autorizar a concessão de ordem de Habeas Corpus. Desta forma, considerando que os prazos não podem ser analisados isoladamente, mas sim, relativizados de acordo com as necessidades da ação e limitações da Comarca, consoante entendimento do Superior Tribunal de Justiça, não há excesso a ser reconhecido neste momento.
+6-Ordem denegada" (fls. 58/59).
+No presente mandamus, alega excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de 270 dias sem que a instrução tenha sido encerrada.
+Invoca o princípio da razoável duração do processo. Pondera que mesmo quando considerada a complexidade da causa, não há justificativa para a demora do Juízo em prolatar a sentença de pronúncia.
+Requer, assim, em liminar e no mérito, o relaxamento da prisão preventiva, ainda que mediante aplicação de cautelares alternativas previstas no art. 319 do CPP.
+A liminar foi indeferida às fls. 72/74. Informações prestadas às fls. 81/85. O Ministério Federal opinou pela denegação da ordem em parecer acostado às fls. 87/95.
+É o relatório.
+Decido.
+O presente writ encontra-se prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, em 2/3/2021, o paciente foi pronunciado pela prática dos delitos previstos no art. 121, § 2º, inciso IV, c/c art. 14, inciso II, ambos do Código Penal, e no art. 12 da Lei n. 10.826/2003, o que atrai o entendimento do Enunciado n. 21 da Súmula do Superior Tribunal de Justiça, in verbis:
+Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução.
+A propósito:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO. SUPERVENIÊNCIA DE DECISÃO DE PRONÚNCIA. MANUTENÇÃO DA CUSTÓDIA PELOS MESMOS FUNDAMENTOS. AUSÊNCIA DE PREJUDICIALIDADE. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. ALEGAÇÃO SUPERADA COM A DECISÃO DE PRONÚNCIA. SÚMULA N. 21/STJ. PRISÃO PREVENTIVA. GRAVIDADE DA CONDUTA. MODUS OPERANDI. FUNDAMENTAÇÃO IDÔNEA. RECURSO ORDINÁRIO DESPROVIDO.
+1. A superveniência de decisão de pronúncia não enseja a prejudicialidade do writ, no ponto relacionado à fundamentação da prisão preventiva, quando os fundamentos que levaram à manutenção da custódia foram os mesmos apontados por ocasião da decisão primeva.
+2. A alegação de tempo excessivo para a formação da culpa em razão da demora para o julgamento do Recorrente encontra-se superada, uma vez que já foi proferida sentença de pronúncia, incidindo, pois, o Enunciado da Súmula n. 21 deste Superior Tribunal de Justiça.
+3. A manutenção da custódia cautelar encontra-se suficientemente fundamentada no modus operandi diante da especial gravidade da conduta, evidenciada pelas circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública.
+4. Recurso ordinário desprovido.
+(RHC 130.345/GO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 17/02/2021).
+Assim, diante do novo contexto fático, evidente a perda do objeto da presente impetração nesta Corte.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
