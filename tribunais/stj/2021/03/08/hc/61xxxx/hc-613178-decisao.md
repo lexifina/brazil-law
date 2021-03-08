@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de MARCELINO COELHO DA COSTA NETO, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás.
+Segundo se infere dos autos, o pacientefoi preso em flagrante pelasuposta prática dodelitotipificadonos art. 33da Lei 11.343/2006, tendo sido concedida, por ocasião da audiência de custódia, a liberdade provisória, mediante monitoramento eletrônico.
+Nesta Corte, o impetrante sustenta haver excesso de prazo na formação da culpa.
+Ressalta que o paciente está com restrição em sua liberdade de locomoção pelo uso de tornozeleira eletrônica desde o dia 21/2/2020, sem que tenha sido sequer denunciado.
+Indica que o outro investigado -Sandiomar-, preso em flagrante juntamente com o ora paciente, teve a prisão preventiva decretada na audiência de custódia, enquanto o paciente foi posto em liberdade, ante o reconhecimento, pelo Juiz de primeiro grau, de sua situação mais benéfica em relação ao outro investigado.
+Não obstante, esclarece que Sandiomar já teve sua prisão preventiva revogada, de ofício, pelo Juízo processante, sem a imposição de medida cautelar de monitoramento eletrônico. No entanto, a situação do ora paciente não foi revista por aquele Juízo, de forma que, se em um primeiro momento foi reconhecida sua situação mais benéfica em relação ao investigado Sandiomar, agora houve uma inversão dos fatos, eis que agora somente o paciente segue submetido à medida cautelar mais gravosa de monitoramentoeletrônico.
+Pleiteia, assim, a revogação da medida cautelar de monitoramentoeletrônico; ou, a extensão da decisão concedida ao investigado Sandiomar, nos termos do art. 580 do CPP.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pelo não conhecimento ou pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+De início, convém destacar que o pedido de extensão da decisão concedida ao investigado Sandiomar não foi objeto de análise pelo Tribunal de origem, eis que pendente seu enfrentamento pelo Juiz sentenciante. Logo, é inviável sua cognição por esta Corte Superior, sob pena de incorrer em indevida supressão de instância (AgRg no RHC 113.160/PI, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/08/2019, DJe 10/09/2019; RHC 116.635/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/10/2019, DJe 09/10/2019).
+No mais, relativamente ao excesso de prazo na formação da culpa, o acórdão impugnado assim dispôs:
+"Fica prejudicada alegação de excesso de prazo na remessa da peça inquisitiva, tendo em vista que em contato telefônico no gabinete judicial, obtida a informação de que o inquérito policial foi concluído e remetido ao Poder Judiciário. A denúncia ainda não foi oferecida.
+Informado, ainda, que o feito principal está com vista ao Ministério Público desde o dia 31.08.2020. Nota-se que embora excedido o prazo para o oferecimento da denúncia, o paciente está solto, razão pela qual o atraso na marcha processual não deve ser visto com tanto rigor."
+Segundo orientação dos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz dos princípios da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+Na hipótese, observa-se que ao paciente foi concedida liberdade provisória em 22/2/2020, mediante o cumprimento de medida cautelar de monitoramentoeletrônico.
+Conforme consta do acórdão impugnado, o inquérito policial já foi concluído e remetido ao Poder Judiciário.
+Ademais, em consulta ao site do Tribunal de origem, verifica-se que o processo já foi digitalizado e tramita em meio eletrônico, o quelhe permitirá um deslinde mais célere, ante às restrições impostas no atual contexto de pandemia.
+Sob tal contexto, não há se falar, por ora, em manifesto constrangimento ilegal decorrente de excesso de prazo na formação da culpa, haja vista o trâmite razoável do feito, destacando-se, ainda, que o paciente não se encontra encarcerado.
+Ante o exposto, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
