@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedidoliminar, interposto em face de acórdão assim ementado (fl. 147):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. ROUBOS COM EMPREGO DE ARMA BRANCA E CONCURSO DE AGENTES. CRIMES COMETIDOS EM SUCESSÃO. INDÍCIOS DE PREMEDITAÇÃO. PACIENTE QUE RESPONDE A OUTRAS AÇÕES PENAIS. RISCO DE REITERAÇÃO DELITIVA. ORDEM CONHECIDA E DENEGADA.
+I - A prisão preventiva está devidamente fundamentada em dados concretos e se mostra necessária para garantia da ordem pública, ante a gravidade concreta do fato e o risco de reiteração delitiva.
+II - O paciente é acusado da prática de uma série de roubos em concurso de agentes, com emprego de veículo automotor e arma branca, em detrimento de vítimas do sexo feminino.
+III - Verifica-se, ademais, que o paciente, reconhecido pelas vítimas na fase investigatória, responde a outras ações penais.
+IV - Ordem denegada.
+Consta dos autos que orecorrente foi preso preventivamente, em 24/7/2020, pela suposta prática de diversos crimes de roubo e tentativa de roubo.
+Sustenta a defesa a ocorrência de constrangimento ilegal, em razão da ausência de fundamentação idônea para a decretação da prisão preventiva, bem como dos requisitos autorizadores previstos no art. 312 do CPP.
+Requer, liminarmente e no mérito, o provimento do recurso para que seja revogada a prisão preventiva, expedindo-se alvará de soltura em favor do recorrente.
+Indeferida a liminar, o Ministério Público Federal manifestou-se pelo não provimento do recurso.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto de prisão preventiva foi assim fundamentado (fl. 55):
+No respeitante aos indícios de materialidade e autoria, destaco que houve o reconhecimento fotográfico do representado pelas vítimas, conforme os termos de fls. 8, 17, 21 e 26.
+A gravidade do crime em comento praticado com emprego de violência e arma branca e o risco à ordem pública demonstrado pelo considerável número de crimes cometidos no mesmo dia em face de pessoas diferentes, bem como a contumácia do representado, o que se nota das acusações que pesam sobre ele no Juízo de Direito de Salvador/BA e na 1ª Vara deste juízo de Delmiro Gouveia/AL, são indícios suficientes capazes de ensejar o decreto prisional preventivo, com o fim de resguardar a ordem pública.
+Como se vê, a decisão de prisão apresenta fundamento que deve ser considerado válido, o qual está consubstanciado nagravidade do crime em comento praticado com emprego de violência e arma branca e o risco à ordem pública demonstrado pelo considerável número de crimes cometidos no mesmo dia em face de pessoas diferentes, bem como a contumácia do representado, o que se nota das acusações que pesam sobre ele no Juízo de Direito de Salvador/BA e na 1ª Vara deste juízo de Delmiro Gouveia/AL, são indícios suficientes capazes de ensejar o decreto prisional preventivo, com o fim de resguardar a ordem pública.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na propensão à prática delitiva e conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior 2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - DJe 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 31/3/2014.
+Ademais, esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Vale destacar, por fim, que: "Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas" (AgRg no HC 573.598/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
