@@ -1,0 +1,12 @@
+DECISÃO
+FRANCISCO PEREIRA DE SOUSAalega sofrer coação ilegal ante acórdão do Tribunal a quo.Explica que a sentença prolatada no Processo n. 1000183-33.2017.8.26.0462, em 24/10/2018,foi anuladapara que os réus fossem novamente interrogados após o término da instrução criminal,pois o Juiz observouo rito especial da Lei n. 8.666/1993. O postulante requer o desentranhamento do primeiro interrogatório, realizado no dia 7/3/2017.
+Decido.
+O Tribunal de Justiça declarou a nulidade dasentença condenatória e determinou que fossem o paciente e os corréus submetidos a novo interrogatório, com oportunidade de outras alegações finais antes dojulgamento da ação penal.
+Se o meio de provafoi praticado prematuramente, em inobservância aosprincípios da ampla defesa e do contraditório, seu conteúdo deve ser considerado imprestável.
+O acusado não conhecia todos os elementos eventualmente incriminadores enão poderáexercer livrementea autodefesa se estiver vinculado às suas primeiras palavras,pois, afinal, sem o desentranhamento do interrogatório dos autos,seu conteúdoainda poderá ser apreciado para aformação do convencimento judicial. Outra versão diferente dos acontecimentos, no mínimo, retirará a credibilidade do denunciado, ante a falta de coincidência de sua narrativa.
+O Supremo Tribunal Federal, no julgamento do HC n. 127.900/AM,assinalou que a norma contida no art. 400 do CPP, com redação dada pela Lei n. 11.719/2008, por ser harmoniosa com a Constituição Federal, deveria preponderar sobre os procedimentos penais regidos por legislação especial.
+Desde a prolação do julgamento,no dia 10/3/2016, em relação aos processos cuja instrução estava em curso,firmou-se o entendimento de que ointerrogatório passa a ser sempre o último ato da instrução, mesmo nos procedimentos regidos por lei especial.
+In casu, a atofoi realizado em7/3/2017. A violaçãoà autodefesa ensejou a anulação da sentençae a participação pessoal do réu é preponderante para o deslinde da ação penal. Não se pode retirar do paciente o exercício do meio de prova sem limitações, para que, efetivamente, tenha chances deinterferir na formação do convencimento dojuiz natural.
+Assim, é derigor o acolhimento do pleito defensivo.
+À vista do exposto,concedo o habeas corpus, in limine, para determinar a inutilização e o desentranhamento do processodo primeiro interrogatório do paciente, pois obtido em inobservância ao princípio da ampla defesa.Com fulcro no art. 580 do CPP, estendo os efeitos da decisão aos demais corréus.
+Publique-se e intimem-se.
