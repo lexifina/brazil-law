@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade nodecisum. Na espécie, o acórdão embargado não ostenta nenhum dos aludidos vícios.
+2. Observa-se que o embargante pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em face do acórdão proferido pela Quinta Turma desta Corte Superior que, por unanimidade, negou provimento ao agravo regimental (fls. 474/488).
+Nos presentes aclaratórios, o embargante aponta contradição no acórdão embargado, uma vez que a ementa e os fundamentos do acórdão vão de encontro com a parte dispositiva, pois, embora tenha citado jurisprudência no sentido de que o art. 8º do Decreto n. 9.246/2017 não é norma proibitiva e, portanto, não veda a concessão de indulto aos que estejam cumprindo pena no regime semiaberto ou fechado, em clara contradição com os fundamentos exarados, negou provimento ao agravo regimental para negar o indulto ao ora embargante.
+Argumenta que os fundamentos exarados no acórdão embargado, no sentido de que o art. 8º do Decreto n. 9.246/2017 não veda a concessão de indulto aos reeducandos que cumprem pena no regime semiaberto, estão de acordo e coerente com as decisões anteriormente proferidas por este relator quando do julgamento de casos idênticos, entretanto, a parte dispositiva destoa da fundamentação exarada no voto, uma vez que indefere a concessão de indulto ao sentenciado.
+Requer sejam conhecidos e acolhidos os embargos de declaração, para dar provimento ao agravo regimental.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO. EMBARGOS REJEITADOS.
+1. Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade nodecisum. Na espécie, o acórdão embargado não ostenta nenhum dos aludidos vícios.
+2. Observa-se que o embargante pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+3. Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios não merecem acolhida.
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade nodecisum.
+Na espécie, o acórdão embargado não ostenta nenhum dos aludidos vícios, tendo sido explícito que o Tribunal de origem entendeu que o agravante não preencheu os requisitos objetivamente previstos no Decreto Presidencial n. 9.246/2017, uma vezque "o art. 8º do Decreto n. 9.246/2017, em seus incisos I a IV, expressamente limita o deferimento da comutação a quem teve a pena privativa de liberdade substituída por restritiva de direitos, esteja cumprindo a pena em regime aberto, tenha sido beneficiado com a suspensão condicional do processo ou esteja em livramento condicional" (AgRg no HC 498.547/MS, Rel.Ministro JORGE MUSSI, QUINTA TURMA, DJe 13/8/2019).
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO.DECRETO PRESIDENCIAL N. 9.246/2017. REQUISITO OBJETIVO. ART. 8º.REGIME SEMIABERTO. IMPOSSIBILIDADE. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. O art. 8º, incisos I a IV, do Decreto n. 9.246/2017 expressamente limita o deferimento da comutação a quem teve a pena privativa de liberdade substituída por restritiva de direitos, esteja cumprindo a pena em regime aberto, tenha sido beneficiado com a suspensão condicional do processo ou esteja em livramento condicional.
+2. No caso dos autos, verifica-se que, como o Tribunal de origem cassou a decisão de primeiro grau concessiva da comutação de pena ao sentenciado em razão da ausência de preenchimento do requisito objetivo exigido pela norma, dado que o paciente cumpria pena em regime semiaberto, inviável o deferimento do benefício a teor do Decreto Presidencial n. 9.246/2017.
+3. "A interpretação extensiva das restrições contidas no decreto concessivo de comutação de penas consiste, nos termos do art. 84, XII, da Constituição Federal, em invasão à competência exclusiva do Presidente da República, motivo pelo qual, não preenchidos os requisitos estabelecidos na norma legal para a concessão do indulto ou da comutação, o benefício deve ser indeferido, sob pena de ofensa ao princípio da legalidade.Precedentes." (AgRg no HC 489.977/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/05/2019, DJe 28/05/2019).
+4. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, incabível e não concedeu a ordem de ofício em razão da ausência de constrangimento ilegal a ser sanado.
+5. Agravo regimental desprovido.
+(AgRg no HC 498.531/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 30/9/2019).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO.EXECUÇÃO PENAL. CONDENADO CUMPRINDO PENA EM REGIME SEMIABERTO.COMUTAÇÃO DE PENA. DECRETO PRESIDENCIAL N. 9.246/17. BENEFÍCIO CASSADO PELO TRIBUNAL ESTADUAL. AUSÊNCIA DE PREENCHIMENTO DO REQUISITO OBJETIVO. FUNDAMENTAÇÃO EM PERFEITA OBSERVÂNCIA AO REFERIDO ATO NORMATIVO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Da leitura conjugada dos artigos 7º e 8º do Decreto Presidencial n. 9.246/17, observa-se que para o apenado adquirir o direito à comutação da pena, são exigidos cumulativamente quatro requisitos de ordem objetiva: a) condenação privativa de liberdade; b) fração de pena cumprida, variável conforme o apenado seja ou não reincidente, bem como mulheres, que cometeram crimes sem violência ou grave ameaça a pessoa - reincidentes e não reincidentes - em situações especiais; c) não ter obtido comutação de decretos anteriores e d) estar o sentenciado cumprindo a pena em regime aberto ou usufruindo de livramento condicional.
+3. A definição das hipóteses e dos requisitos para a concessão de comutação de penas ou indulto é de competência privativa do Presidente da República, sendo vedado ao magistrado deixar de observar as exigências legais para a concessão da benesse, sob pena de interferir, indevidamente, em ato do chefe do Poder Executivo.In casu, o acórdão impugnado está em consonância com o entendimento desta Corte Superior de Justiça, porquanto, não obstante o paciente tenha preenchido três requisitos objetivos, deixou de atender a última exigência, uma vez que estava cumprindo a reprimenda em regime semiaberto.
+4. Habeas corpus não conhecido.
+(HC 492.778/MS, de minha relatoria, QUINTA TURMA, DJe 29/4/2019).
+AGRAVO REGIMENTAL EM EMBARGOS EM DECLARAÇÃO EM RECURSO ESPECIAL.EXECUÇÃO PENAL. CONTRARIEDADE AO ART. 8º, II, DO DECRETO N.9.246/2017. COMUTAÇÃO. APENADO CUMPRINDO PENA EM REGIME SEMIABERTO.NÃO PREENCHIMENTOS DA TOTALIDADE DOS REQUISITOS OBJETIVOS PREVISTOS NO DECRETO PRESIDENCIAL. MANUTENÇÃO DA CASSAÇÃO DA CONCESSÃO DA COMUTAÇÃO QUE SE IMPÕE.
+1. Observa-se da interpretação dos arts. 7º e 8º do Decreto Presidencial n. 9.246/2017 que, para o apenado adquirir o direito à comutação da pena, é exigido, dentre outros requisitos de ordem objetiva: estar o sentenciado cumprindo a pena em regime aberto.Conforme se extrai do documento de fls. 15/18, o ora agravante estava cumprindo pena em regime semiaberto.
+2. Nos termos da jurisprudência desta Corte Superior, estando ausente a implementação dos requisitos exigidos pelo decreto presidencial, não há como ser deferido ao agravante o direito à comutação de pena pleiteada.  ..  O art. 8º do Decreto n.9.246/2017, em seus incisos I a IV, expressamente limita o deferimento da comutação a quem teve a pena privativa de liberdade substituída por restritiva de direitos, esteja cumprindo a pena em regime aberto, tenha sido beneficiado com a suspensão condicional do processo ou esteja em livramento condicional.  ..  Caso em que o paciente cumpre pena em regime semiaberto e, conforme consignado no acórdão impugnado, não preenche requisito objetivo, tornando-se inviável o deferimento do benefício previsto no Decreto Presidencial n. 9.246/2017 (AgRg no HC n. 498.547/MS, Ministro Jorge Mussi, Quinta Turma, DJe 13/8/2019).
+3. Agravo regimental improvido.
+(AgRg nos EDcl no REsp 1823966/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA,DJe 11/10/2019).
+Observa-se que o embargante pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INOCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DO JULGADO. INADEQUAÇÃO.
+1. Inexiste omissão a ser sanada, no caso, uma vez que o acórdão embargado explicitou adequadamente as razões pelas quais negou provimento ao agravo regimental.
+2. Não se prestam os embargos de declaração para rediscutir matéria já devidamente enfrentada e decidida pelo aresto objurgado.
+(..)
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 1277044/ES, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 17/10/2018).
+Ante o exposto, voto no sentido de rejeitar os embargos declaratórios.
