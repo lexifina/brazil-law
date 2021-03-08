@@ -1,0 +1,56 @@
+Decisão:
+    Trata-se de Recurso Ordinário em Habeas Corpus interposto contra acórdão da Quinta Turma do Superior Tribunal de Justiça (Agravo Regimental no Habeas Corpus 613.949/SP, Rel. Min. NEFI CORDEIRO).
+    Consta dos autos, em apertada síntese, que o recorrente Armando Carvalho foi condenado à pena de 01 (um) ano e 06 (seis) meses de reclusão, em regime inicial fechado, e 15 (quinze) dias-multa, no mínimo legal, pela prática de crime previsto no art. 180, caput, do Código Penal.
+    Interposto recurso de apelação, a 12ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, por unanimidade, deu parcial provimento ao apelo defensivo, para afastar as circunstâncias judiciais desfavoráveis e reduzir a pena para 01 (um) ano e 02 (dois) meses de reclusão e 11 (onze) dias-multa, no mínimo legal, bem como para alterar o regime inicial de cumprimento de pena para o semiaberto, conforme a ementa abaixo:
+    APELAÇÃO CRIMINAL - RECEPTAÇÃO (ARTIGO 180, CAPUT, CÓDIGO PENAL) RECURSO DEFENSIVO - PLEITO ABSOLUTÓRIO - Inviabilidade. Autoria e materialidade que emergem cristalinas dos elementos de prova carreados aos autos.
+    REDUÇÃO DA PENA-BASE - Possibilidade. Circunstâncias judiciais indevidamente valoradas. Também incabível a valoração negativa da personalidade quando não houver elementos concretos para sua aferição. Penas redimensionadas.
+    REDUÇÃO DO 'QUANTUM' DE AUMENTO RELATIVO À REINCIDÊNCIA - Cabimento. Aumento de pena em 1/4 (um quarto). Desproporcionalidade. Redução do patamar para 1/6 (um sexto).
+    ALTERAÇÃO DO REGIME DE CUMPRIMENTO DE PENA PARA O ABERTO - Inviabilidade. Cabível, entretanto, o abrandamento para o regime intermediário. Se o condenado é reincidente, mas ostenta imposição de pena privativa de liberdade não superior a quatro anos, deverá cumpri-la, desde o início, em regime inicial semiaberto (art. 33, §2º, 'b' e 'c', do Código Penal). Súmula 269, do STJ.
+    Recurso parcialmente provido.
+    Contra essa decisão, impetrou-se Habeas Corpus, com pedido de liminar, no Superior Tribunal de Justiça, apontando-se como autoridade coatora a 12ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo, objetivando, em linhas gerais, a fixação de regime prisional aberto. A liminar foi indeferida. Por decisão monocrática, o Min. NEFI CORDEIRO denegou o writ, nos seguintes termos:
+    (…)
+    Sobre o regime prisional semiaberto imposto para a pena privativa de liberdade, assim fundamentou o Tribunal de origem (fls. 37-38):
+    [...]
+    Do regime inicial de cumprimento de pena
+    No tocante ao regime prisional fixado, inviável o regime aberto.
+    O artigo 33, §2°, c, do Código Penal, impede ao condenado reincidente, de iniciar o cumprimento da pena igual ou inferior a quatro anos em regime aberto; não proíbe, porém, o semiaberto.
+    Com efeito, a pena corporal imposta ao apelante é inferior a 04 (quatro) anos de reclusão, tendo sido afastadas as circunstâncias judiciais desfavoráveis.
+    A saber:
+    REGIME CARCERÁRIO. O regime de cumprimento da pena deve ser o semiaberto, aplicando-se o imediatamente mais gravoso ao previsto em abstrato pela quantidade da pena, considerando-se ser o réu reincidente. (TJRS; ACr 70032651770; Santa Maria; Oitava Câmara Criminal; Relª Desª Isabel de Borba Lucas; Julg. 30/06/2010; DJERS 02/08/2010).
+    A reincidência e algumas circunstâncias judiciais desfavoráveis ao acusado não afastam a possibilidade de cumprimento da pena no regime “semiaberto”, conforme precedentes do superior tribunal de justiça (HC 81680/SP). 4- Dado parcial provimento ao recurso para modificar o regime de cumprimento da pena e minorar a pena de multa. (TJDFT APR 20040610094382 1ª T.Crim. Rel. João Timóteo DJU 05.11.2008).
+    Orienta o STJ, através da Súmula 269, que "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+    Eis o entendimento de Guilherme Souza Nucci, citando o posicionamento do STJ em situações tais:
+    "(...) o entendimento do STJ permite que o magistrado, no caso concreto, emita juízo de valor acerca das condições pessoais do réu, valendo-se das circunstâncias previstas no art. 59 do Código Penal, para inseri-lo, a despeito de reincidente, no regime semiaberto, mais condizente com penas não superiores a quatro anos." (Código Penal Comentado, 4ª Edição, Editora RT, p. 221).
+    "II. É admissível a adoção de regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais. Súmula 269 do STJ." (20090110476018APR, Relator SANDRA DE SANTIS, 1ª Turma Criminal, julgado em 28/01/2010, DJ 01/03/2010 p. 181).
+    Mantenho a negativa ao apelante, reincidente, da substituição da pena privativa de liberdade aplicada por restritivas de direitos, até porque essa medida não se mostra socialmente recomendável.
+    É cediço que para a substituição da pena privativa de liberdade por restritiva de direitos faz-se necessário o preenchimento dos requisitos estampados no artigo 44 do Código Penal, quais sejam:
+    [...]
+    3 - Ante o exposto, afastada a preliminar, dá-se parcial provimento ao recurso interposto por Armando Carvalho para afastar as circunstâncias judiciais desfavoráveis e reduzir as penas para 01 (um) ano e 02 (dois) meses de reclusão e pagamento de 11 (onze) dias- multa, e alterar o regime inicial de cumprimento de pena para o semiaberto, mantendo-se, no mais, a r. sentença por seus próprios e jurídicos fundamentos.
+    Como se vê, o acórdão do Tribunal de origem está em conformidade com entendimento sumulado desta Corte Superior, pois, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" (Súmula 269, do STJ).
+    Portanto, apesar de ter sido imposta reprimenda inferior a 4 anos e a pena-base ter sido estabelecida no piso previsto no preceito secundário do tipo penal incriminador, tratando-se de réu reincidente, não há falar em fixação do regime prisional aberto, por não restarem preenchidos os requisitos do art. 33, §2º, "c", do Estatuto Repressor.
+    (…)
+    Ante o exposto, denego o habeas corpus.
+    Sobreveio, então, Agravo Regimental, julgado pela Sexta Turma do Superior Tribunal de Justiça, acórdão do Min. NEFI CORDEIRO, que negou provimento ao recurso interposto, conforme a ementa abaixo:
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO. REGIME PRISIONAL SEMIABERTO. FUNDAMENTO IDÔNEO. RÉU REINCIDENTE. AGRAVO IMPROVIDO.
+    1. O acórdão do Tribunal de origem está em conformidade com entendimento sumulado desta Corte Superior, pois, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" (Súmula 269, do STJ). Apesar de ter sido imposta reprimenda inferior a 4 anos e a pena-base ter sido estabelecida no piso previsto no preceito secundário do tipo penal incriminador, tratando-se de réu reincidente, não há falar em fixação do regime prisional aberto, por não restarem preenchidos os requisitos do art. 33, §2º, "c", do Estatuto Repressor.
+    2. Agravo regimental improvido.
+    Neste Recurso Ordinário Constitucional, a defesa sustenta que "a reincidência, por si só, não constitui motivação idônea que justifique a não aplicação do artigo 33, §2º, "b" ou "c", do Código Penal, no que diz respeito à fixação do regime de cumprimento de pena.".
+    Alega que "é completamente desproporcional que, somente devido à agravante da reincidência, o recorrente inicie a condenação em regime intermediário ou fechado. A proporcionalidade deve ser observada.".
+    Assevera, por fim, que, "sendo as circunstâncias judiciais plenamente favoráveis, fixando-se a pena-base no mínimo e permanecendo a pena no patamar do regime aberto ou semiaberto, fixadas bem abaixo do máximo permitido para o regime, é possível a fixação do regime aberto/semiaberto, mesmo se tratando de réu reincidente.".
+    Requer, assim, "seja recebido e provido o presente recurso para que a ordem de Habeas Corpus impetrada seja concedida a fim de que seja MODIFICADO o regime inicial de cumprimento da pena do SEMIABERTO para o ABERTO, haja vista o manifesto constrangimento ilegal, o periculum in mora e o fumus boni iuris, plenamente demonstrados.".
+    É o relatório. Decido.
+    No caso em tela, o Superior Tribunal de Justiça, na trilha do que foi decidido pela instância recursal, negou a ocorrência de flagrante ilegalidade na fixação do regime prisional semiaberto para o início de cumprimento da pena imposta, nos seguintes termos:
+    (…)
+    Não há motivo para reformar a decisão agravada, porque o acórdão do Tribunal de origem está em conformidade com entendimento sumulado desta Corte Superior, pois, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais" (Súmula 269, do STJ).
+    Portanto, apesar de ter sido imposta reprimenda inferior a 4 anos e a pena-base ter sido estabelecida no piso previsto no preceito secundário do tipo penal incriminador, tratando-se de réu reincidente, não há falar em fixação do regime prisional aberto, por não restarem preenchidos os requisitos do art. 33, §2º, "c", do Estatuto Repressor.
+    (…)
+    Ante o exposto, voto por negar provimento ao agravo regimental.
+    A fixação do regime inicial de cumprimento da pena não está atrelada, de modo absoluto, ao quantum da sanção corporal aplicada, devendo-se considerar as especiais circunstâncias do caso concreto. Assim, desde que o faça em decisão motivada, o Magistrado sentenciante está autorizado a impor ao condenado regime mais gravoso do que o recomendado nas alíneas do §2º, do art. 33, do Código Penal. Esse entendimento se amolda à jurisprudência cristalizada na Súmula 719 ("A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea") e replicada em diversos julgados: RHC 134.494 AgR/SP, Rel. Min. CELSO DE MELLO, Segunda Turma, DJe de 09/05/2017; RHC 128.827/MT, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/03/2017; RHC 122.620/ES, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 13/08/2014; HC 118.733/SP, Rel. Min. DIAS TOFFOLI, Primeira Turma, DJe de 17/12/2013.
+    Ademais, o Superior Tribunal de Justiça entendeu que não há que se falar em abrandamento para o regime inicial aberto, apesar de ter sido imposta reprimenda inferior a 04 (quatro) anos e pena-base fixada no mínimo legal, por se tratar de réu reincidente, o que justifica a segregação inicial no regime intermediário, pois se mostra adequado e suficiente para a repressão e prevenção do crime.
+    Em conclusão, não há reparo a fazer, pois o Recurso Ordinário Constitucional não apresentou qualquer argumento apto a desconstituir os fundamentos apontados.
+    Diante do exposto, com fundamento no art. 21, §1º, do Regimento Interno do SUPREMO TRIBUNAL FEDERAL, NEGO PROVIMENTO AO RECURSO ORDINÁRIO EM HABEAS CORPUS.
+    Publique-se.
+    Brasília, 8 de março de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
