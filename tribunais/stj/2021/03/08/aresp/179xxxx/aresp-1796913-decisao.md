@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado pela UNIÃO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO POR AUSÊNCIA DOS PRESSUPOSTOS PROCESSUAIS DE VALIDADE. NÃO ATUALIZAÇÃO DA PROCURAÇÃO.
+MUDANÇA DE MANDATÁRIO DO MUNICÍPIO. IRRELEVÂNCIA. ARTIGO 105, §4º DO CPC.
+PROCURAÇÃO OUTORGADA NA FASE DE CONHECIMENTO É EFICAZ EM TODAS AS DEMAIS FASES PROCESSUAIS. APELAÇÃO PROVIDA 1. Apelação interposta pelo Município de Luis Gomes/PE, contra a sentença que extinguiu o feito sem resolução do mérito, nos termos do artigo 76, caput e §1º, inciso I e 485, inciso IV, do CPC, por ausência de pressuposto processual de validade, ante a ausência de apresentação de nova procuração pelo representante processual do Município de Luis Gomes/PE.
+2. O artigo 75 do CPC prevê a forma de representação processual das pessoas jurídicas de direito público, estabelecendo que os Municípios podem ser representados por seu prefeito ou procurador.
+3. Os atos praticados pelo prefeito são atos do próprio órgão, assim, os atos do representante são atos do próprio ente representado. Dessa forma, têm-se que a procuração outorgada pelo então prefeito para ajuizamento da ação de conhecimento da qual este cumprimento de sentença se origina está totalmente acobertado pela regularidade de sua forma. Ausênte qualquer necessidade de sua atualização.
+4. Estando o procurador devidamente habilitado para o ajuizamento da ação, também está para executar o julgado, nos termos do ordenamento processual vigente, artigo 105, §4º do CPC.
+5. Não havendo revogação explicita do mandato outorgado ao representante processual do Município de Luis Gomes/PE não há que se falar em juntada de nova procuração.
+6. Apelação provida.
+Quanto à primeira controvérsia, alega negativa de prestação jurisdicional.
+Quanto à segunda controvérsia, requer extinção do processo sem resolução do mérito, tendo em vista a ausência de pressuposto de constituição válida e regular do processo.
+É, no essencial, o relatório. Decido.
+No que concerne às duas controvérsias, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
