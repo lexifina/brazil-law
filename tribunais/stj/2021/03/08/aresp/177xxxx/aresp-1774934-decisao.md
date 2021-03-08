@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LEONIDES TEREZINHA TRENHAGO e outro, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/09/2020.
+Concluso ao gabinete em: 25/02/2021.
+Ação: embargos opostos pelosagravantes à execução manejada pelo Banco do Brasil S.A.
+Sentença: julgou parcialmente procedentes os pedidos.
+Acórdão: não conheceu da apelaçãointerpostapelos agravantes.
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: Sustentam violação doart. 1022do CPC/15. Alegam, em síntese, que houve negativa de prestação jurisdicional, tendo em vista que o Tribunal de origem teria deixado de se manifestar sobre matérias essenciais ao deslinde da controvérsia, em que pese teremopostos o devido recurso integrativo.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art.1.022 do CPC
+É firme a jurisprudência nesta Corte, no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão proferido, em sede de embargos de declaração, decidiu de forma fundamentada e expressamente acerca das questões tidas como omissas/obscuras pelos agravantes - observância ao princípio da dialeticidade- conforme se verifica dos trechos a seguir:
+Pela analise das razões apresentadas, tem-se que a parte recorrente entendeu perfeitamente o desfecho dado ao recurso e apenas reagita questão já superada, por não se conformar com o resultado obtido.Na decisão embargada, restou bem consignado que o recorrente não combate precisamente os argumentos que levaram o Julgador a quo à procedência parcial da ação, mas sim, tece considerações genéricas e por tópicos, os mesmos já utilizados anteriormente, que em nada infirmam a robustez probatória indicada na sentença ou à construção jurídica vigorosa.Esclareceu-se que a relação entre as razões de reforma da decisão e os motivos desta, convencionou-se chamar de princípio da dialeticidade. A jurisprudência do Superior Tribunal de Justiça já pacificou o entendimento de que é dever do recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, sendo insuficiente a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia, a propósito: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja especifica e suficientemente demonstrada. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação especifica, dos fundamentos da decisão agravada"(AgInt no AREsp 855.681/RS, Rel.Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 15/04/2016). "À luz da jurisprudência desta Corte e do princípio da dialeticidade, deve a parte recorrente impugnar, de maneira especifica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia.
+(..)
+Em conclusão, tem-se que o emprego de tese recursal que não ataca a fundamentação da sentença suprime a norma processual inserta no art. 1.010 do CPC e importa em não conhecimento do recurso. Como se vê, a real intenção aqui tratada é revolver a questão já apreciada, o que não se enquadra nas hipóteses de interposição de embargos de declaração. (e-STJ, fls. 617/618).
+Assim sendo, devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação doart.1022 do CPC, incidindo, quanto ao ponto, a Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Alerto que a interposição de recurso contra esta decisão, declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1021, §4º e 1026, §2º do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOART. 1022 DO CPC/15. NÃO OCORRÊNCIA.
+1. Embargos à execução.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 1022 do CPC/15.
+3. Agravo conhecido. Recurso especial não provido.
