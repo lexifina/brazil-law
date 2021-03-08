@@ -1,0 +1,34 @@
+DECISÃO
+ROBERTO LOPES DE ANDRADE (ROBERTO) ajuizou ação revisional de contrato cumulada com repetição de indébito contra BANCO SANTANDER S.A. (BANCO), objetivando afastar os encargos contratuais exorbitantes e ilegais.
+Em primeira instância, o pedido foi julgado improcedente, sendo interposto pedido revisional para manter as estipulações pactuadas no contrato.
+O Tribunal de Justiça do Rio Grande do Sul deu parcial provimento ao apelo de ROBERTO, em acórdão ementado nos seguintes termos:
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL DE CONTRATO DE CARTÃO DE CRÉDITO.
+JUROS REMUNERATÓRIOS. A ABUSIVIDADE DA TAXA DOS JUROS REMUNERATÓRIOS EM CONTRATOS BANCÁRIOS NÃO SE CONFIGURA TÃO SOMENTE POR TER SIDO PACTUADA ACIMA DE 12% AO ANO, DEVENDO SER OBJETO DE ANÁLISE CASUÍSTICA, MEDIANTE COTEJO ENTRE A TAXA MÉDIA ESTIPULADA E DIVULGADA PELO BACEN PARA A ESPÉCIE CONTRATUAL E A CORRESPONDENTE DATA DA CONTRATAÇÃO. CASO EM QUE OS JURIS REMUNERATÓRIOS FORAM ESTIPULADOS ACIMA DO LIMITE PREVISTO PELO BANCO CENTRAL, CONSTATANDO-SE SUA ABUSIVIDADE.
+CAPITALIZAÇÃO DE JUROS. A INCIDÊNCIA DE JUROS COMPOSTOS É PERMITIDA SOMENTE QUANDO HOUVER EXPRESSA PACTUAÇÃO NO INSTRUMENTO CONTRATUAL (STJ RESP REPETITIVO Nº 1.388.972/SC). DO CONTRÁRIO, IMPERATIVO SEU AFASTAMENTO.
+COMISSÃO DE PERMANÊNCIA. A COMISSÃO DE PERMANÊNCIA, PREVISTA PELO CONTRATO PARA O PERÍODO DA INADIMPLÊNCIA E APURADA PELO BANCO CENTRAL DO BRASIL PELA MÉDIA DOS JUROS DE MERCADO, É VÁLIDA, DESDE QUE NÃO CUMULADA COM OS DEMAIS ENCARGOS MORATÓRIOS. INTELIGÊNCIA DAS SÚMULAS 294, 296 E 472, TODAS DO E. STJ.
+REPETIÇÃO DO INDÉBITO. CONSTATADA A ABUSIVIDADE DOS JUROS REMUNERATÓRIOS APLICADOS, É CABÍVEL A REPETIÇÃO SIMPLES DO INDÉBITO OU A COMPENSAÇÃO DE VALORES PAGOS EM EXCESSO.
+APELAÇÃO PARCIALMENTE PROVIDA (e-STJ, fl. 173).
+Irresignado, o BANCO interpôs recurso especial com fundamento no art. 105, III, a e c, da CF, BANCO alegando, além do dissídio jurisprudencial, ofensa aos arts.5º da MP nº 2.170/01 e 4º, IX, da Lei nº 4.595/64, ao sustentar (1) que é possível a capitalização em período inferior a um ano prevista no contrato entabulado entre as partes; e (2) que os juros remuneratórios em contrato bancário apenas podem ser considerados abusivos quando exigidos em percentual superior a uma vez e meia a taxa média de mercado; e (3) que a mora deve ser restabelecida.
+O recurso foi admitido na origem (e-STJ, fls. 229/231).
+O apelo nobre foi parcialmente provido em decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. CONSUMIDOR. RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC.NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE REVISÃO DE CONTRATO. RENEGOCIAÇÃO DE DÍVIDA. CARTÃO DE CRÉDITO E CHEQUE ESPECIAL.CAPITALIZAÇÃO DIÁRIA DE JUROS. PACTUAÇÃO CLARA E EXPRESSA. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. SIGNIFICATIVA DISCREPÂNCIA NÃO CARACTERIZADA. DISSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. CARACTERIZAÇÃO DA MORA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PROVIDO PARCIALMENTE (e-STJ, fl. 243).
+Nas razões dos presentes embargos de declaração, BANCO afirmou a existência de violação do art. 1.022, do NCPC em virtude da contradição na fixação dos ônus sucumbenciais, visto que o acolhimento das questões relativas aos juros remuneratórios e da capitalização ocasionam a improcedência da demanda. Alegou que é necessária a redistribuição da sucumbência (e-STJ, fls. 252/254).
+É o relatório.
+DECIDO.
+A irresignaçãomerece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, BANCO afirmou a existência de violação do art. 1.022, do NCPC em virtude da contradição na fixação dos ônus sucumbenciais, visto que o acolhimento das questões relativas aos juros remuneratórios e da capitalização ocasionam a improcedência da demanda. Alegou que é necessária a redistribuição da sucumbência.
+Com razão.
+Da acurada análise dos autos verifica-se que na sentença de improcedência do pedido revisional foi fixadaa sucumbência de 15% sobre o valor atualizado da causa, nos termos do art. 85, § 2, do NCPC.
+No julgamento do recurso de apelação interposto porROBERTO o TJRS reconheceu (i)a abusividade dos juros contratados e(ii)a impossibilidade de capitalização, invertendo os ônus sucumbenciais e determinando o seu pagamento pelo BANCO,nos moldes estabelecidos pelo Juízo de primeiro grau (e-STJ, fls. 172).
+Portanto, com o provimento do recurso especial para determinar o restabelecimento dacapitalização diária dos juros na forma como contratada eafastar a limitação dos juros remuneratórios, é imperioso reconhecer que houve o restabelecimento da sentença proferida em primeira instância.
+Assim, os ônus sucumbenciais devem ser suportados integralmente por ROBERTO, nos termos fixados na sentença, inclusive no que se refere à suspensão em virtude da assistência judiciária gratuita deferida.
+Nessas condições, ACOLHO os embargos de declaração para sanar a contradição apontada nos termos da fundamentação supra.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE REVISÃO DE CONTRATO. ABUSIVIDADE DOS ENCARGOS NÃO VERIFICADA. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. VIOLAÇÃO DO ART. 1.022, DO NCPC. CONFIGURADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS
