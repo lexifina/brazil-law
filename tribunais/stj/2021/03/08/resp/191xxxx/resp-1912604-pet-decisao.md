@@ -1,0 +1,7 @@
+DECISÃO
+Em petição de e-STJ fls. 327/337, a segurada, ora recorrida, manifestou sua renúncia notocante à correção monetária, informando que se conforma com os termos do recurso especial formulado peloINSS.
+Afirmou, ainda, que "já deu início à execução provisória dos benefícios atrasados, e já houve inclusive a homologação dos cálculos" (e-STJ fl. 327). Por esse motivo, requereu a certificação do trânsito em julgado a fim de que o cumprimento de sentença prossiga para protocolo e pagamento da Requisição de Pequeno Valor - RPV(e-STJ fls. 327/328).
+Intimada, a autarquia apresentou petição em que concordou com o término do litígio por meio de transação, postulando sua homologaçãonos termos propostos pela recorrida(e-STJ fl. 343).
+Dessa forma, considerando que os causídicos possuem poderes para transigir (e-STJ fls. 14 e art. 75, VI, do CPC, c/c o art. 10Lei n. 10.480/2002) e que a transação é causa para a extinção do processo com resolução do mérito, nos termos do art. 487, III, "b", do CPC/2015, cuja manifestação pode dar-se em sede de recurso especial, é o caso de deferir o pleito de homologação do acordo.
+Ante o exposto, com base no art. 487, III, "b", do CPC/2015, c/c o art. 34, IX, do RISTJ, HOMOLOGO o acordo proposto pela parte autora, a fim de que a correção monetáriaseja na forma requerida pela autarquia no apelo nobre.Por conseguinte, julgo EXTINTO o processo, com resolução do mérito.
+Publique-se e intimem-se.
