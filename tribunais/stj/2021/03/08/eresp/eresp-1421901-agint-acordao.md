@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina e Regina Helena Costa votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Gurgel de Faria (Presidente).
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ANALISE DE CLÁUSULAS CONTRATUAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. INSTRUÇÕES NORMATIVAS 468/2004 E 658/2006. NORMAS QUE NÃO SE ENQUADRAM NO CONCEITO DE LEI FEDERAL.
+1. Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. Na hipótesedos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, notadamente do instrumento contratual e suas cláusulas, firmou compreensão de que a ora recorrente não se enquadrava na incidência do art. 10, XI, c, da Lei 10.833/03.Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incidem à hipótese as Súmulas 5/STJ e 7/STJ.
+3. Não é possível conhecer das instruções normativas nº 468/2004 e 658/2006, tendo em vista que não se incluem no conceito de lei federal a que se refere o art. 105, inc. III, a, da Constituição da República, não sendo, desse modo, hipótese constitucional de cabimento desse recurso.
+4. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES: Trata-se de agravo interno interposto contra decisão que negou seguimento ao Recurso Especial, assim ementada (e-STJ fl. 528):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ANALISE DE CLÁUSULAS CONTRATUAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. INSTRUÇÕES NORMATIVAS 468/2004 E 658/2006. NORMAS QUE NÃO SE ENQUADRAM NO CONCEITO DE LEI FEDERAL. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+Em suas razões, a agravante insiste na alegação de violação ao art. 535, II, do CPC/1973; argumenta ser inaplicávela Súmula 7/STJ e por fim aponta que não pretende analise de normas infralegais.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. ANALISE DE CLÁUSULAS CONTRATUAIS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5/STJ E 7/STJ. INSTRUÇÕES NORMATIVAS 468/2004 E 658/2006. NORMAS QUE NÃO SE ENQUADRAM NO CONCEITO DE LEI FEDERAL.
+1. Afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+2. Na hipótesedos autos, a Corte de origem, após ampla análise do conjunto fático-probatório, notadamente do instrumento contratual e suas cláusulas, firmou compreensão de que a ora recorrente não se enquadrava na incidência do art. 10, XI, c, da Lei 10.833/03.Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incidem à hipótese as Súmulas 5/STJ e 7/STJ.
+3. Não é possível conhecer das instruções normativas nº 468/2004 e 658/2006, tendo em vista que não se incluem no conceito de lei federal a que se refere o art. 105, inc. III, a, da Constituição da República, não sendo, desse modo, hipótese constitucional de cabimento desse recurso.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+De início, afasta-se a alegada violação do artigo 535 do CPC/1973, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacifica no sentido de que não incorre em deficiência de argumentação o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não adotando a tese defendida pelo recorrente.
+Na hipótese dos autos, o Tribunal a quo assim se manifestou sobre o enquadramento da recorrente na incidência do art. 10, XI, "c", da Lei 10.833/2003 (e-STJ fl. 432/433):
+ ..
+In casu, verifico que embora a proposta apresentada em processo licitatório tenha sido anterior à 31 de outubro de 2003, a empresa impetrante não se enquadra na hipótese aludida, vez que contrato de concessão celebrado com a ANNEL não tem por objeto o fornecimento de serviço público de energia elétrica, mas tão-somente a construção, operação e manutenção das instalações de transmissão de energia elétrica.
+O fornecimento de serviços de transmissão de energia elétrica pela impetrante não decorreu do contrato de concessão, mas dos contratos CPST e CUST, firmados respectivamente com o ONS e o ONS e as distribuidoras usuárias, em 16 de março de 2004.
+Portanto, além de ter sido firmado em data posterior à determinada pela Lei 10.833/2003, o contrato foi celebrado entre pessoas jurídicas de direito privado, o que afasta, de plano, a incidência do art. 10, XI, c, da Lei 10.833/03, à hipótese em comento.
+ ..
+Com efeito, a Corte de origem, após ampla análise do conjunto fático-probatório, notadamente do instrumento contratual e suas cláusulas, firmou compreensão de que a ora recorrente não se enquadrava na incidência do art. 10, XI, c, da Lei 10.833/03.
+Ademais, da leitura da petição de Recurso Especial infere-se que toda a fundamentação busca a interpretação das clausulas contratuais. Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incidem à hipótese as Súmulas 5/STJ e 7/STJ.
+Por fim, no tocante ao afastamento da aplicação das instruções normativas nº 468/2004 e 658/2006 não é possível seu conhecimento, tendo em vista que não se incluem no conceito de lei federal a que se refere o art. 105, inc. III, a, da Constituição da República, não sendo, desse modo, hipótese constitucional de cabimento desse recurso.
+Nesse sentido:
+PROCESSUAL CIVIL. ATIVIDADE ECONÔMICA DE INDÚSTRIA RURAL.ENQUADRAMENTO PARA EFEITO DE APLICAÇÃO DE TARIFA DE ENERGIA ELÉTRICA. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. ACÓRDÃO FUNDAMENTADO NA RESOLUÇÃO NORMATIVA N. 456/2000 DA ANEEL. NORMA QUE NÃO SE AMOLDA AO CONCEITO DE LEI FEDERAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. O Tribunal de origem concluiu que a atividade econômica principal desenvolvida pela recorrente não se enquadra no classificação de "indústria rural", para efeito de aplicação de tarifa de energia elétrica. Insuscetível de revisão o referido entendimento, por demandar reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ, a qual alcança a análise de eventual divergência jurisprudencial.
+2. Não cabe falar em ofensa ao art. 535 do CPC quando o acórdão recorrido se pronuncia de modo inequívoco e suficiente sobre a questão posta nos autos.
+3. A Resolução Normativa n. 456/2000 da ANEEL refoge ao conceito de lei federal, não podendo ser analisada por esta Corte, ante o óbice, por analogia, da Súmula 280/STF.
+Agravo regimental improvido.
+(AgRg no REsp 1384186/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 17/09/2013, DJe 25/09/2013)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TARIFAÇÃO DE CONSUMO DE ENERGIA ELÉTRICA. RECLASSIFICAÇÃO DE CONSUMIDOR "INDUSTRIAL" PARA "INDUSTRIAL RURAL". ART. 535 DO CPC. VIOLAÇÃO NÃO VERIFICADA. RESOLUÇÃO 456/2000 DA ANEEL. VIOLAÇÃO REFLEXA. APRECIAÇÃO INVIÁVEL. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. tarifação menos onerosa. ausência de atendimentos aos deveres acessórios de informação. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Os órgãos julgadores não estão obrigados a examinar todas as teses levantadas pelo jurisdicionado durante um processo judicial, bastando que as decisões proferidas estejam devida e coerentemente fundamentadas, em obediência ao que determina o art. 93, IX, da Constituição da República vigente. Isto não caracteriza ofensa ao art. 535 do CPC.
+2. Apesar de o recorrente apontar violação a dispositivos de lei federal, a questão implica análise da Resolução n. 456/2000 da ANEEL, a qual não se inclui no conceito de lei federal a que se refere o art. 105, III, "a", da Constituição da República, fugindo, assim, da hipótese constitucional de cabimento desse recurso.
+3. A Corte de origem, ao analisar o conteúdo fático-probatório dos autos, concluiu que inexiste engano justificável pela concessionária para reenquadrar a parte autora com a cobrança da tarifa industrial convencional, bem como que a consumidora tinha conhecimento da necessidade de informar a concessionária acerca da mudança na sua atividade para ter direito ao pagamento de tarifa diferenciada, ao contrário do que alega a recorrente. Assim, para alterar a conclusão supracitada seria imprescindível adentrar a seara dos fatos, o que esbarra na Súmula 7/STJ.
+4. Firmando o acórdão recorrido a inexistência de má-fé, com engano justificável por parte da concessionária em relação à cobrança indevida, não é dado a esta Corte Superior discutir a incidência do artigo 42, parágrafo único, do CDC, por incidência, também, da Súmula 7/STJ.
+5. Agravo regimental não provido.
+(AgRg no AREsp 137.204/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 16/08/2012, DJe 22/08/2012).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
