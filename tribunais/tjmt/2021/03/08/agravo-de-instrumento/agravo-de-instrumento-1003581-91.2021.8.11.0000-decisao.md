@@ -1,0 +1,20 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por LAYZE PACHECO SAMPAIO, com o fito de suspender a decisão que, nos Autos do Cumprimento de Sentença no 1007833-19.2018.8.11.0041, manejado em face de BEM BENEFÍCIOS ADMINISTRADORA DE BENEFÍCIOS LTDA, julgou parcialmente procedente a impugnação, para reduzir a multa cominatória aplicada na fase de conhecimento para o montante de R$ 10.000,00 (dez mil reais).
+Para tanto, a agravante narra que ajuizou ação de obrigação de fazer em face da agravada e das corrés Unimed Angra dos Reis Cooperativa de Trabalho Médico, Associação de Funcionários da Sociedade de Economia Mista e do Sistema de Petrobrás – AFSEMSP e Associação Brasileira de Bioenergia – ASSOBIO, para compelir as demandadas a garantirem a continuidade a seu tratamento oncológico.
+Aduz que, liminarmente, o Juízo de origem determinou a manutenção do plano de saúde, sob pena de multa diária no valor de R$ 1.000,00 (mil reais), a qual, diante da recalcitrância das agravadas, foi majorada para o valor de R$ 5.000,00 (cinco mil reais), contudo, sem que houvesse cumprimento da decisão.
+Alega que, após o julgamento da lide, com o trânsito em julgado da sentença, manejou a execução da sentença, em que apresentou o montante apurado de R$ 3.405.000,00 (três milhões quatrocentos e cinco mil reais) a título de astreintes, a qual foi drasticamente reduzida para o montante de R$ 10.000,00 (dez mil reais).
+Assevera que, a decisão de base privilegia a recalcitrância da agravada, a qual descumpriu a medida judicial de forma injustificada por período superior a 837 (oitocentos e trinta e sete), causando severo prejuízo a sua saúde e à vida, razão pela qual, mostra-se descabida a redução da multa.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sendo isto o que basta relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, por mais que a agravante insista no contrário, não se observa a presença dos requisitos legais para a concessão da medida liminar pleiteada.
+É que, ao menos em sede de Juízo sumário de cognição, não há argumento suficiente que indique a necessidade de medida urgente e que reclame o deferimento do efeito suspensivo, sobretudo, porque a questão atinente as astreintes e a redução do montante executado, poderá ser apreciada no exame do mérito do presente recurso, sem que até lá a parte agravante sofra qualquer prejuízo.
+Assim, com base nessas considerações, impõe-se o indeferimento da liminar pleiteada.
+Ante o exposto, NÃO ATRIBUIO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se os agravados do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
