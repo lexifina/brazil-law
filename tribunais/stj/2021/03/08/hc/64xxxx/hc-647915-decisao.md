@@ -1,0 +1,18 @@
+DECISÃO
+LUCIANO LUIS MORAIS e WAGNER CASSIO MORAIS alegam ser vítimas de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n.1510347-18.2020.8.26.0228.
+Consta dos autos que os pacientes foram condenados, cada um, à pena de 2 anos e 4 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 155, § 4º, IV, do CP.
+A defesa pleiteia, em síntese, seja fixado aos réus o regime inicial semiaberto, "tendo em vista o quantum de pena as circunstâncias do caso concreto, nos termos do art. 33, §§ 2º e 3º, do CP, ainda com aplicação do disposto no art. 387, §2º, do CPP" (fl. 8).
+A liminar foi indeferida e, diante da suficiente instrução dos autos, foi dispensada a solicitação de informações à autoridade apontada como coatora.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+Decido.
+Segundo o enunciado na Súmula n. 269 do STJ, "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+No caso, não há nenhuma ajuste a ser feito em relação ao regime de cumprimento de pena, devendo ser mantida, ao menos por ora, a imposição do regime inicial fechado. Isso porque, embora os pacientes hajam sido definitivamente condenados a reprimenda inferior a 4 anos de reclusão, eram reincidentes ao tempo do crime e tiveram a pena-base fixada acima do mínimo legal, em razão dos maus antecedentes.
+Assim, conforme bem decidiu a Corte de origem, " e m que pese o total da reprimenda autorize a fixação do regime mais brando, a teor do artigo 33, § 2º, alínea "c" do Código Penal, a reincidência e os maus antecedentes impõem manutenção do regime fechado, inaplicável a Súmula 269 do E. Superior Tribunal de Justiça, ante as circunstâncias judiciais desfavoráveis, portanto, não há que se cogitar de inobservância das Súmulas 718 e 719 do E. Supremo Tribunal Federal" (fl. 286).
+Já no tocante à detração penal, consideroassistir razão à defesa, ao menos em parte.
+Faço o registro de que jurisprudência desta Corte Superior entende que "incumbe ao juiz sentenciante a verificação da possibilidade de se estabelecer um regime inicial mais brando, tendo em vista a detração no caso concreto.Notabiliza-se que o mencionado artigo não evidencia progressão de regime, motivo pelo qual não há falar em exame dos critérios objetivo (lapso temporal) e subjetivo (comportamento carcerário), até porque tal avaliação invadiria a competência do Juízo das Execuções prevista no art. 66, III, b, da Lei de Execuções Penais" (HC n. 321.808/SP, Rel. Ministro Maria Thereza de Assis Moura, DJe 18/6/2015).
+No caso, nem o Juiz sentenciante nem a Corte de origem se manifestaram acerca do instituto previsto no art. 387, § 2º, do CPP, o que evidencia o apontado constrangimento ilegal de que estariam sendo vítimas os pacientes nesse ponto.
+Assim, deve ser determinado o retorno dos autos ao Juízo de primeiro grau, para que aplique a detração penal em favor dos acusados.
+Registro, por oportuno, a impossibilidade de se aplicar, desde já, a detração penal, porque não há, no processo, informações precisas acerca de quanto tempo os pacientes efetivamente estiverampresos provisoriamente.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo em parte a ordem, paradeterminar o retorno dos autos ao Juízo da 11ª Vara Criminal da Comarca de São Paulo - SP, para que aplique o instituto da detração penal em favor dos acusados, consoante o disposto no art. 387, § 2º, do CPP.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
