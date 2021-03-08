@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de DANILO FERREIRA DE MOURA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Agravo de Execução Penal n. 0002636-60.2020.8.26.0996).
+Depreende-se dos autos que o Juízo da execução penal indeferiu o pedido de livramento condicional formulado em favor do paciente(e-STJ fl. 44).
+Irresignada, a defesa interpôs recursono Tribunal de origem.Contudo, a Corte estadual negou provimento à referida irresignação recursal em acórdão assim ementado (e-STJ fl. 57):
+AGRAVO EM EXECUÇÃO PENAL -LIVRAMENTO CONDICIONAL - ALEGAÇÃO DEINCONSTITUCIONALIDADE DO ARTIGO 90 DOREGIMENTO INTERNO PADRÃO DA SAP QUANTO AOPRAZO PARA REABILITAÇÃO - IMPOSSIBILIDADE -PREVISÃO CONSTITUCIONAL PARA EDIÇÃO DARESOLUÇÃO - PREENCHIMENTO DO REQUISITOSUBJETIVO QUE, NO MAIS, NÃO RESTOU DEMONSTRADO- DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+Nesta instância, a defesa afirma que "aprevisão de prazo de reabilitação do comportamento em caso deprática de faltas disciplinares (previsto no art. 89, Res. SAP), fere oprincípio da reserva legal, decorrente do próprio fundamento do Estadode Direito brasileiro" (e-STJ fl. 5).
+Assevera: "mostra-se inconstitucional o art. 89 da Resolução SAP que institui o Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo, porquanto não foi respeitado o princípio da reserva legal, devendo ser desconsiderado pelo Magistrado ao aferir o requisito subjetivo para obtenção de benefícios. Não podendo o magistrado indeferir o pedido com fundamento em circunstâncias não previstas em lei e preenchendo o executado tanto o requisito objetivo quanto o subjetivo, deve ser deferida a progressão de regime"(e-STJ fl. 5).
+Diante disso, requer "seja concedida LIMINARMENTE a presente ORDEMDE HABEAS CORPUS, para deferir o livramento condicional ou mesmoconceder/expedir alvará de soltura para que o Paciente possa aguardar odesfecho de seu processo em liberdade ou mesmo seja progredido"(e-STJ fl. 7).
+O pedido liminar foi indeferido (e-STJ fls. 71/72).
+Foram prestadas as informações (e-STJ fls. 78/81 e 84/92).
+O Ministério Público Federal, ao se manifestar, opinou pelo não conhecimento do habeas corpusou, caso dele se conhecesse, pela denegação da ordem (e-STJ fls. 94/99).
+É, em síntese, o relatório.
+No  caso  dos  autos,  o  Juízo  da  Unidade Regional de Departamento Estadual de Execução Criminal da  Comarca  de  Presidente Prudente/SP  indeferiu  o  pedido  de  concessão  de  livramento  condicional,  consignando,  para  tanto,  que  (e-STJ  fl.  44):
+A pretensão é improcedente.
+Com efeito, o sentenciado não demonstrou méritos suficientes para o almejado benefício, tendo praticado faltas disciplinares de natureza grave, encontrando-se atualmente com MAU comportamento carcerário e em fase de reabilitação de conduta, devendo permanecer no atual estágio (grifei).
+O  Tribunal  de  origem,  ao  negar  provimento  ao  agravo  em  execução  interposto  pela  defesa,  manteve  a  decisão  de  primeiro  grau  com a  seguinte  fundamentação (e-STJ  fls.  58/61):
+ ..  observo que o apenado não preencheu o requisito de ordem subjetiva, vez que, conforme atestado pelo Diretor do presídio, possui mau comportamento carcerário (fls. 29). Vale lembrar que com a modificação trazida pela Lei nº 13.964/19, agora é expressamente exigido que o sentenciado apresente boa conduta carcerária atestada pelo Diretor doPresídio, o que por si só já bastaria para afastar o merecimento da benesse.
+Isto porque, pelo que se depreende dos autos, Danilo praticou infrações disciplinares de natureza grave em 29/10/2017, 10/08/2018 e 20/03/2019 (fls. 32), de forma que, quando apresentou pedido de progressão de regime, estava em fase de reabilitação de conduta, diante da incidência do artigo 89, inciso III, c.c. o artigo 90, parágrafo único, inciso III, ambos do Regimento Interno Padrão das Unidades Prisionais do Estado de São Paulo - Resolução SAP nº 144/2010, razão pela qual teve indeferido tal pedido.
+Nesse ponto, sem razão à Defesa quando argui a inconstitucionalidade da Resolução SAP nº 144/2010.
+Isto porque a referida norma não apresenta inovações no ordenamento jurídico e não cria requisitos por si só, apenas regulamenta o artigo 24, inciso I, da Constituição Federal e artigo 112 da Lei de Execuções Penais.
+ ..
+Assim, nenhum benefício pode ser concedido enquanto não reabilitada a falta.
+ ..
+Não fosse por isso, observo que o sentenciado praticou crime grave, envolvendo violência e grave ameaça contra a vítima, e observado ainda o comportamento descompromissado do sentenciado, porquanto cometeu quatro faltas disciplinares graves, reincidindo inclusive em desobediência, de modo que maior cautela deve mesmo haver para o deferimento de qualquer benefício, exigindo uma análise mais detalhada, sobretudo quanto ao requisito subjetivo.
+Portanto, não preenchido um dos requisitos necessários para a concessão da benesse e inexistindo qualquer ilegalidade no ato do MM. Juiz de Direito de 1º grau, impossível o deferimento da progressão de regime  (grifei).
+Com efeito, disciplina a Constituição Federal:
+Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar concorrentemente sobre:
+I - direito tributário, financeiro, penitenciário, econômico e urbanístico;
+ ..
+§ 2º A competência da União para legislar sobre normas gerais não exclui a competência suplementar dos Estados.
+A Lei de Execuções Penais também prevê a competência das autoridades administrativas estaduais, da seguinte forma:
+Art. 47. O poder disciplinar, na execução da pena privativa de liberdade, será exercido pela autoridade administrativa conforme as disposições regulamentares.
+Art. 73. A legislação local poderá criar Departamento Penitenciário ou órgão similar, com as atribuições que estabelecer.
+Art. 74. O Departamento Penitenciário local, ou órgão similar, tem por finalidade supervisionar e coordenar os estabelecimentos penais da Unidade da Federação a que pertencer.
+Como se pode ver, aos estados compete suplementar a legislação penal da União, assim como o poder disciplinar também compete às autoridades administrativas estaduais, tanto que a legislação local pode criar departamento penitenciário, de forma que o governo paulista criou a Secretaria de Administração Penitenciária, a qual, por sua vez, editou a Resolução n. 144/2010.
+Com base nessa competência legal, a referida resolução da Secretaria de Administração Penitenciária disciplinou a reabilitação de faltas disciplinares da seguinte forma:
+Artigo 89 - o preso em regime fechado ou em regime semiaberto tem, no âmbito administrativo, os seguintes prazos para reabilitação do comportamento, contados a partir do cumprimento da sanção imposta:
+I- 03 (três) meses para as faltas de natureza leve;
+II- 06 (seis) meses para as faltas de natureza média;
+III- 12 (doze) meses para as faltas de natureza grave.
+Artigo 90 - o cometimento de falta disciplinar de qualquer natureza, durante o período de reabilitação, acarreta a imediata interrupção do tempo até então cumprido.
+Parágrafo único - com a prática de nova falta disciplinar, exige-se novo tempo para reabilitação que deve ser somado ao tempo estabelecido para a falta anterior, sendo detraído do total o período já cumprido(grifei).
+Enfim, o Estado de São Paulo, ao editar a Resolução SAP n. 144/2010, nada mais fez do que se valer da competência que lhe foi outorgada pela Constituição Federal, ante a inexistência de regulamentação específica sobre o tema.
+Nessas circunstâncias, não verifico a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que as instâncias ordinárias, considerando o histórico prisional do sentenciado, o qual registra o cometimento de 3 (três) faltas de natureza grave (29/10/2017, 10/8/2018 e 30/3/2019), indeferiram, com base nos arts. 89 e 90 da Resolução SAP n. 144/2010, o pedido de concessão de livramento condicional.
+Dessa forma, ainda que se considere que a pretensão da defesa se limita à declaração de inconstitucionalidade dos dispositivos do Regimento Interno Padrão das Unidades Prisionais do Estado de São Pauloque dispõem sobre a interrupção do prazo de reabilitação quando do cometimento de nova falta disciplinar grave no curso de período depurador de outra anteriormente praticada, verifica-se que, ao julgar o Habeas Corpusn. 360.262/SP, em situação similar àdos presentes autos, o Ministro Felix Fischer entendeu que eventual inconstitucionalidade deveria ser perquirida ao Supremo Tribunal Federal, sob pena de usurpação de competência.
+Nesse mesmo sentidoos precedentes a seguir:
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. REGIME PRISIONAL. ART. 2º, § 1º, DA LEI N. 8.072/1990. FUNDAMENTO INVÁLIDO. DISPOSITIVO DECLARADO INCONSTITUCIONAL PELO STF. ALEGADA OMISSÃO NO JULGADO. NÃO OCORRÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. VIOLAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE ANÁLISE. COMPETÊNCIA DO STF. EMBARGOS REJEITADOS.
+ ..
+4. Não compete ao Superior Tribunal de Justiça o enfrentamento de dispositivos constitucionais, ainda que para efeito de prequestionamento da matéria, sob pena de usurpação da competência do Supremo Tribunal Federal.
+5. Embargos de declaração rejeitados (EDcl no AgRg no HC n. 269.951/SP, relator o Ministro Ribeiro Dantas, Quinta Turma, DJe de 17/2/2016, grifei).
+HABEAS CORPUS SUBSTITUTIVO. DESVIRTUAMENTO. ARTIGO 324 DO CÓDIGO PENAL MILITAR. INÉPCIA DA DENÚNCIA. TESE ALEGADA APÓS A SENTENÇA CONDENATÓRIA. PRECLUSÃO E SUPRESSÃO DE INSTÂNCIA. ABSOLVIÇÃO. DILAÇÃO PROBATÓRIA. IMPROPRIEDADE DA VIA ELEITA. ATO PREJUDICIAL À ADMINISTRAÇÃO MILITAR. CARACTERIZAÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA.TESE NÃO DEDUZIDA PERANTE O TRIBUNAL DE ORIGEM. CONTROLE ABSTRATO DE CONSTITUCIONALIDADE. IMPROPRIEDADE DA VIA ELEITA.
+ ..
+8. A ação constitucional do habeas corpus não é via adequada para se requerer a declaração de inconstitucionalidade de lei, em tese, pois tal matéria é reservada ao controle concentrado de normas, de competência do Supremo Tribunal Federal.
+9. Ordem não conhecida (HC n. 291.368/SE, relato o Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 6/6/2014, grifei).
+Por fim, cumpre-me asseverar, ainda, que  é  firme  o  posicionamento  desta  Corte  Superior  de  ser  inviável,  em  habeas  corpus,  desconstituir  a  conclusão  a  que  chegaram  as  instâncias  ordinárias  sobre  o  não  preenchimento  do  requisito  subjetivo,  uma  vez  que  tal  providência  implica  o  reexame  do  conjunto  fático-probatório,  procedimento  incompatível  com  os  estreitos  limites  da  via  eleita.
+A  propósito:
+AGRAVO  REGIMENTAL  NO  HABEAS  CORPUS.  EXECUÇÃO  PENAL.  LIVRAMENTO  CONDICIONAL  REVOGADO.  FALTA  GRAVE.  FUNDAMENTAÇÃO  CONCRETA.  AUSÊNCIA  DO  REQUISITO  SUBJETIVO.  IMPOSSIBILIDADE  DE  REEXAME  DE  FATOS  E  PROVAS.
+1.  No  caso,  o  Tribunal  de  origem  revogou  a  benesse  do  livramento  condicional,  ante  a  falta  do  elemento  subjetivo,  ao  entendimento  de  que  o  paciente,  no  curso  da  execução,  cometera  falta  disciplinar  grave  (fuga  praticada  em  2016),  revelando,  portanto,  um  comportamento  carcerário  não  satisfatório  que  gera  demérito  para  o  alcance  da  benesse  pretendida.
+2.  Desconstituir  a  conclusão  a  que  chegou  a  Corte  de  origem  sobre  o  não  preenchimento  do  requisito  subjetivo  implicaria  o  reexame  do  conjunto  fático-probatório  dos  autos  da  execução,  o  que  é  incompatível  com  os  estreitos  limites  da  via  eleita.
+3.  Agravo  regimental  a  que  se  nega  provimento  (AgRg  no  HC  386.742/RS,  de  minha  relatoria,  Sexta  Turma,  DJe  de  4/10/2017,  grifei).
+HABEAS  CORPUS  SUBSTITUTIVO  DE  RECURSO  PRÓPRIO.  NÃO  CABIMENTO.  PROGRESSÃO  DE  REGIME.  LIVRAMENTO  CONDICIONAL.  DECISÃO  FUNDAMENTADA.  AUSÊNCIA  REQUISITO  SUBJETIVO.  CONSTRANGIMENTO  ILEGAL  NÃO  CONFIGURADO.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO.  IMPOSSIBILIDADE.  HABEAS  CORPUS  NÃO  CONHECIDO.
+1.  Diante  da  hipótese  de  habeas  corpus  substitutivo  de  recurso  próprio,  a  impetração  sequer  deveria  ser  conhecida,  segundo  orientação  jurisprudencial  do  Supremo  Tribunal  Federal  e  do  próprio  Superior  Tribunal  de  Justiça.  Nada  impede,  contudo,  que  se  verifique  a  eventual  existência  de  flagrante  constrangimento  ilegal  que  autorize  a  concessão  da  ordem  de  ofício.
+2.  O  Tribunal  de  origem  indeferiu  fundamentadamente  o  pedido  de  progressão  de  regime  e  de  livramento  condicional,  por  entender  que  não  estava  preenchido  o  requisito  subjetivo  para  obtenção  dos  benefícios.  Na  oportunidade,  foi  destacado  o  laudo  do  exame  criminológico  realizado  concluiu  pela  inaptidão,  até  o  momento,  do  retorno  do  paciente  ao  convívio  social  .
+3.  O  Superior  Tribunal  de  Justiça  possui  entendimento  reiterado  no  sentido  da  impossibilidade  de,  na  via  estreita  do  habeas  corpus,  desconstituir  as  conclusões  das  instâncias  ordinárias  sobre  o  não  preenchimento  de  requisito  subjetivo  necessário  à  concessão  de  progressão  de  regime  e  livramento  condicional,  uma  vez  que  tal  providência  implica  no  reexame  do  conjunto  fático-probatório.
+Habeas  corpus  não  conhecido  (HC  376.544/SP,  relator  o  Ministro  Joel  Ilan  Paciornik,  Quinta  Turma,  DJe  de  20/2/2017,  grifei).
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
