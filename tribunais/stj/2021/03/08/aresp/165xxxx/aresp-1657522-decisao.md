@@ -1,0 +1,7 @@
+DECISÃO
+Vistos, etc.
+A controvérsia devolvida ao conhecimento desta Corte Superior mediante o recurso especial interposto por LUCAS REIS CORTE limita-se à questão afetada ao rito do art. 1.036 do Código de Processo Civil de 2015 (Tema 1046), com o objetivo de uniformizar o entendimento acerca da"possibilidade de fixação de honorários advocatícios com fundamento em juízo de equidade, nos termos do art. 85, §§ 2º e 8º, do Código de Processo Civil de 2015."
+Nesse contexto, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015, apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para análise das demais questões jurídicas nele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo ou pelo novo pronunciamento do Tribunal de origem.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça sobrestado até a publicação do acórdão paradigma, nos termos do art. 1.037, inciso II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Intimem-se.
