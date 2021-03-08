@@ -1,0 +1,46 @@
+EMENTA
+PROCESSUAL CIVIL. CONTRADIÇÃO ENTRE A FUNDAMENTAÇÃO E O DISPOSITIVO DO JULGADO. PREVALÊNCIA DO DISPOSITIVO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. O Superior Tribunal de Justiça possui ampla jurisprudência no sentido de que, em hipóteses de existência de contradição entre a fundamentação e o dispositivo da sentença prolatada, deve prevalecer o último, em respeito ao art. 504 do Código de Processo Civil: "Não fazem coisa julgada: I - os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentença; II - a verdade dos fatos, estabelecida como fundamento da sentença."
+2. A divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. É indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de caracterizar a interpretação legal divergente. O recorrente limitou-se a transcrever ementas de decisões desta Corte, sem, ao menos, delimitar um acórdão paradigma. Nesta conjuntura, é inviável o recebimento do presente recurso pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática (fls. 500-502, e-STJ) que negou provimento ao recurso.
+O agravante alega:
+Inicialmente, não merece prosperar o entendimento de que a jurisprudência do STJ é uníssona no sentindo de que deve haver a prevalência do dispositivo ante o conflito deste com a fundamentação da decisão.
+No caso em tela, não se trata de mera incompatibilidade entre os trechos da decisão. O que se trata, na verdade, é de flagrante erro material. Por isso, deveria haver a correção deste a tempo, uma vez que vigora o entendimento de que erro material constante no dispositivo não faz coisa julgada.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CONTRADIÇÃO ENTRE A FUNDAMENTAÇÃO E O DISPOSITIVO DO JULGADO. PREVALÊNCIA DO DISPOSITIVO. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. O Superior Tribunal de Justiça possui ampla jurisprudência no sentido de que, em hipóteses de existência de contradição entre a fundamentação e o dispositivo da sentença prolatada, deve prevalecer o último, em respeito ao art. 504 do Código de Processo Civil: "Não fazem coisa julgada: I - os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentença; II - a verdade dos fatos, estabelecida como fundamento da sentença."
+2. A divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. É indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de caracterizar a interpretação legal divergente. O recorrente limitou-se a transcrever ementas de decisões desta Corte, sem, ao menos, delimitar um acórdão paradigma. Nesta conjuntura, é inviável o recebimento do presente recurso pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 12.2.2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignado na decisão agravada, o Superior Tribunal de Justiça possui ampla jurisprudência no sentido de que, em hipóteses de existência de contradição entre a fundamentação e o dispositivo da sentença prolatada, deve prevalecer o último, em respeito ao art. 504 do Código de Processo Civil: "Não fazem coisa julgada: I - os motivos, ainda que importantes para determinar o alcance da parte dispositiva da sentença; II - a verdade dos fatos, estabelecida como fundamento da sentença."
+A propósito:
+PROCESSUAL CIVIL. COISA JULGADA. SENTENÇA. DIVERGÊNCIA ENTRE FUNDAMENTAÇÃO E DISPOSITIVO. PREVALÊNCIA DESTE, EM REGRA. PREQUESTIONAMENTO DE FATO E DE DIREITO EXISTENTES. NÃO APLICAÇÃO DAS SÚMULAS 7 E 211/STJ.
+1. A parte ora agravada, em seu Recurso Especial, assevera que o dispositivo da sentença faz coisa julgada e nele não é possível constatar comando no sentido da devolução em dobro do indébito na forma do art. 42 do CDC.
+2. Como se abstrai dos fundamentos trazidos no acórdão recorrido, a matéria relativa ao exame da coisa julgada e a questão da prevalência do dispositivo sobre a fundamentação foram expressa e motivadamente apreciadas (fls. 283-284/STJ), o que afasta a tese de falta de prequestionamento (Súmula 211/STJ).
+3. Quanto ao revolvimento fático-probatório, não houve necessidade, pois a decisão agravada, que proveu o Recurso Especial, se baseou exclusivamente nas premissas fáticas constantes no acórdão recorrido. O conteúdo da Súmula 7/STJ busca vedar hipóteses em que, para acolher o Recurso Especial, é indispensável adotar premissas fáticas diferentes das que o acórdão de origem adotou mediante revisão da prova dos autos, o que não se afigura na hipótese. No mesmo sentido: AgRg no REsp 1.309.425/MG, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 14.10.2014; AgRg no REsp 384.658/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19.12.2008.
+4. Em observância ao art. 469, I, do CPC somente o dispositivo da sentença faz coisa julgada. Nesse sentido: REsp 968.384/RJ, 2ª Turma, Rel. Min. Castro Meira, DJe de 27.2.2009; EDcl no AgRg no Ag 1.238.609/RJ, Rel. Ministro Gilson Dipp, Quinta Turma, DJe 17.12.2010.
+5. Não havendo menção, portanto, de devolução em dobro do indébito (art. 42 do CDC) na parte dispositiva da sentença, viola a coisa julgada o cômputo duplicado de tais parcelas.
+6. Ademais, o simples fato de que na condenação houve referência ao art. 42, parágrafo único, do CDC, não impõe de forma absoluta a devolução em dobro do indébito, pois tal dispositivo também prevê repetição simples em hipóteses de engano justificável.
+7. Agravo Regimental não provido.
+(AgRg no AgRg no AREsp 515.791/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2014, DJe 03/02/2015)
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. TÍTULOS DA DÍVIDA AGRÁRIA. DIVERGÊNCIA ENTRE FUNDAMENTAÇÃO E DISPOSITIVO. PREVALÊNCIA DESTE. JUROS MORATÓRIOS. TERMO INICIAL. OFENSA À COISA JULGADA. OCORRÊNCIA.
+1. Tem-se que, existindo eventual contradição entre a fundamentação da decisão e o dispositivo final, prevalece o disposto no dispositivo, porquanto é ele que transita em julgado.
+Precedentes: AgRg no AgRg no AREsp 515.791/RJ.7, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 03/02/2015; AgRg no AREsp 337.075/MS, Rel. Ministro Ari Pargendler, Primeira Turma, DJe 11/10/2013; REsp 594.372/PE, Rel. Ministro Castro Filho, Terceira Turma, DJ 14/03/2005;.
+2. No caso dos autos, transitado em julgado o acórdão que negou provimento à apelação Estatal e à remessa necessária, restou mantida a sentença na parte em que concedeu os juros moratórios de 0,5% ao mês, a contar do vencimento do título. Por outro lado, a apelação do particular foi provida para aplicar juros moratórios de 1% a partir da citação.
+3. Assim, deve ser prestigiado o dispositivo do julgado da apelação, adequando-o ao histórico do processo, sob pena de afronta à coisa julgada.
+4. Recurso especial provido.
+(REsp 1450106/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/04/2015, DJe 14/04/2015, grifo meu)
+Por fim, em relação ao dissídio jurisprudencial, destaco que a divergência deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. É indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de caracterizar a interpretação legal divergente.
+O recorrente limitou-se a transcrever ementas de decisões desta Corte, sem, ao menos, delimitar um acórdão paradigma. Nesta conjuntura, é inviável o recebimento do presente recurso pela alínea "c" do inciso III do art. 105 da Constituição Federal.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
