@@ -1,0 +1,96 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Marco Buzzi.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. EFEITOS INFRINGENTES. OMISSÃO. ART. 1.026 DO CPC. PRAZO DO AGRAVO INTERNO. INTERROMPIDO. TEMPESTIVIDADE. MÉRITO DO AGRAVO INTERNO. CAPITAL SEGURADO. CORREÇÃO MONETÁRIA. TERMO INICIAL. APÓLICE RENOVADA. DATA DO SINISTRO.
+1. Omissão constatada em razão de ter sido desconsiderada a interrupção da contagem do prazo recursal para interposição de agravo interno, uma vez que a parte contráriahavia oposto embargos de declaração.
+2.Acorreção monetária incide desde a data da celebração do contrato de seguro de vida até o dia do efetivo pagamento da indenização, pois a apólice deve refletir o valor contratado atualizado.
+3. Em caso derenovações sucessivas de contrato de seguro, entende-se que a cada renovação há uma novo capital segurado, de modo que o termo inicial de correção monetária dele é a data da renovação que vigia ao tempo do sinistro.
+4. Embargos de declaração acolhidos com efeitos modificativos, para negar provimento ao recurso especial interposto pela parte embargada.
+RELATÓRIO
+1.Trata-se de embargos de declaração opostos por ZURICH SANTANDER BRASIL SEGUROS E PREVIDÊNDCIA S.A. em acórdão assim sintetizado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO FORA DO PRAZO. NÃO CONHECIMENTO.
+1. É intempestivo o agravo interno interposto após o decurso do prazo de quinze dias previsto nos arts. 1.003 e 1.070 do CPC/2015.
+2. Agravo interno não conhecido.
+A parte embargante sustenta que houve omissão consistente no fato de ter sido desconsiderada a interrupção do prazo recursal para interposição de agravo interno, causada pela oposição de embargos de declaração pela parte contrária.Argumenta que o aresto ora embargado considerou apenas a publicação da decisão monocrática que analisou o recurso especial como marco para contagem do prazo. Defende não ter sido observada a existência de outra subsequente decisão integrativa em razão do julgamento dos embargos de declaração opostos pela parte contrária.
+Impugnação aos presentes embargos de declaração à fl. 512.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. EFEITOS INFRINGENTES. OMISSÃO. ART. 1.026 DO CPC. PRAZO DO AGRAVO INTERNO. INTERROMPIDO. TEMPESTIVIDADE. MÉRITO DO AGRAVO INTERNO. CAPITAL SEGURADO. CORREÇÃO MONETÁRIA. TERMO INICIAL. APÓLICE RENOVADA. DATA DO SINISTRO.
+1. Omissão constatada em razão de ter sido desconsiderada a interrupção da contagem do prazo recursal para interposição de agravo interno, uma vez que a parte contráriahavia oposto embargos de declaração.
+2.Acorreção monetária incide desde a data da celebração do contrato de seguro de vida até o dia do efetivo pagamento da indenização, pois a apólice deve refletir o valor contratado atualizado.
+3. Em caso derenovações sucessivas de contrato de seguro, entende-se que a cada renovação há uma novo capital segurado, de modo que o termo inicial de correção monetária dele é a data da renovação que vigia ao tempo do sinistro.
+4. Embargos de declaração acolhidos com efeitos modificativos, para negar provimento ao recurso especial interposto pela parte embargada.
+VOTO
+2. O artigo 1.022, e seus incisos, do novo Código de Processo Civil, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+3. Sobre as hipóteses de cabimento acima mencionadas, Daniel Amorim Assumpção, na obra intitulada Novo Código Civil Comentado, ao discorrer sobre os vícios que legitimam o ingresso dos embargos de declaração, assim informa:
+Os incisos do art. 1.022 do Novo CPC consagram quatro espécies de vícios passíveis de correção por meio dos embargos de declaração: obscuridade e contradição (art. 1.022, I, do Novo CPC), omissão (art. 1.022, II, do Novo CPC) e erro material (art. 1.022, III, do Novo CPC).
+(In: Novo Código de Processo Civil Comentado. Salvador: JusPodivm, 2016, pp. 1.711)
+Logo a seguir, o citado processualista passa a discorrer sobre cada um desses vícios e afirma, primeiramente, quanto à omissão:
+A omissão refere-se à ausência de apreciação de ponto ou questão relevante sobre a qual o órgão jurisdicional deveria ter se manifestado, inclusive as matérias que deva conhecer de ofício (art. 1.022, lI, do Novo CPC). Ao órgão jurisdicional é exigida a apreciação tanto dos pedidos como dos fundamentos de ambas as partes a respeito desses pedidos. Sempre que se mostre necessário, devem ser enfrentados os pedidos e os fundamentos jurídicos do pedido e da defesa, sendo que essa necessidade será verificada no caso concreto, em especial na hipótese de cumulação de pedidos, de causas de pedir e de fundamentos de defesa.
+Na cumulação de pedidos o acolhimento ou a rejeição de um deles pode tornar os demais prejudicados, não havendo nenhum sentido exigir do juiz o enfrentamento e solução de tais pedidos em sua decisão: (a) na cumulação sucessiva prejudicial, rejeitado o pedido anterior, o pedido posterior perde o objeto; (b) na cumulação subsidiária o acolhimento do pedido anterior torna o pedido posterior prejudicado; (c) na cumulação alternativa o acolhimento de qualquer um dos pedidos torna os demais prejudicados.
+Nessas circunstâncias, é incorreto apontar omissão na decisão do juiz que deixa de enfrentar pedidos prejudicados.
+Fenômeno semelhante ocorre no tocante à cumulação de causas de pedir e de matérias de defesa. Nesse caso é possível estabelecer uma regra: quando a omissão disser respeito à matéria alegada pela parte vencedora na demanda, não haverá necessidade de seu enfrentamento, faltando interesse de agir na interposição de embargos de declaração.
+O parágrafo único do dispositivo ora analisado especifica que se considera omissa a decisão que deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos (recursos especial ou extraordinário repetitivos e incidente de resolução de demandas repetitivas) ou em incidente de assunção de competência aplicável ao caso sob julgamento ou que incorra em qualquer das condutas descritas no art. 489, § 1.º, do Novo CPC, dispositivo responsável por inovadoras exigências quanto à fundamentação da decisão.
+O dispositivo na realidade não inova ou tão pouco complementa o inciso II do art. 1.022 do Novo CPC, já que as especificações presentes no dispositivo ora comentado são claras hipóteses de omissão de questões sobre as quais o juiz deve se pronunciar.
+4. Na espécie, o embargante alega que houve omissão acerca da interrupção da contagem do prazo recursal para interposição de agravo interno, uma vez que a parte contráriahavia oposto embargos de declaração.
+5. Com razão a parte embargante, pois a interrupção do prazo decorrenteda oposição de embargos de declaração em face de decisão monocrática é fato relevante que deveria ter sido considerado.
+Oart. 1.026 do CPC prescreve queos aclaratórios não possuem efeito suspensivo e interrompemo prazo para a interposição de recurso.Sendo assim, logo que publicado o julgamento dos embargos de declaração, o prazo para interposição recursal começaria a correr novamente.
+Tendo ocorrido a publicação da decisão de julgamentode embargos declaratórios em 02.03.2020 (fls. 476 e-STJ) e tendo ocorrido a suspensão dos prazos processuais no período de 19/03/2020 a 30/04/2020, por força da RESOLUÇÃO STJ/GP N. 6/202, tempestiva foi a apresentação da petição do agravo interno em 03.04.2020 (e-STJ. fls. 478).
+6. Afastada a intempestividade declarada no aresto ora embargado, passo à apreciação do mérito do agravo interno.
+Nas razões do agravo interno, a parte ora embargante sustentou quehavia sido estabelecido no julgamento monocrático do recurso especial, equivocadamente, a data de contratação do seguro como marco inicial para incidência da correção monetária do capital segurado.
+Argumentouser equivocada tal fixação, porqueo entendimento desta Corte Superior é de que o termo inicial deve ser a datada contratação ou da última renovação do seguro e, no caso em análise, existiram várias renovações do contrato de seguro com uma específica em vigência quando do sinistro.
+7. Em nova leitura do aresto recorrido e da sentença, verifico que, de fato, não fora atendido o pedido de correção monetária do capital segurado desde a primeira contratação, pois fora pago o capital estabelecido na apólice renovada. A propósito, cabe transcrever trechos da sentença e do aresto:
+Postulam os autores a correção do valor do capital do seguro de vida. contratado pela sua genitora com á ré, visto que, em que pese tenha ocorrido o pagamento de indenização em virtude de sinistro, a quantia paga montou valor inferior ao efetivamente devido. Incontroversa nos autos a contratação, bem como a ocorrência de uma das hipóteses de sinistro que ensejou o pagamento docapital segurado.
+A controvérsia, pois, cinge-se ao termo inicial de cômputo do índice de correção incidente sobre "o valor da indenização, se da data da contratação, como postulam os autores, ou da última renovação, como sustenta a ré.
+Com efeito, conforme prevê a súmula 38, do TJRS:
+38. Nos contratos de seguro de vida e de acidente pessoaisacorreção monetária começa a fluir a partir do evento danoso. Na hipótese de nãoter sido emitido o certificado individual com o capital segurado vigente para a data do sinistro, a correção monetária incide desde a contratação, se utilizado o Capital segurado da data em que firmado o Pacto securitário. Já os juros de mora começam a incidir a partir da citação.
+In casu, logrou a ré comprovar a emissão de certificado individual na data do sinistro, qual seja, abril de 2016, vide fl. 10, tudo na forma da apólice juntada à fl.174, com vigência para o período de 31/07/2015 até 31/07/2016, assim como o pagamento da indenização com base no valor previsto na respectiva apólice. Por conta disso, imperiosa a utilização da previsão contida na primeira parte da súmula transcrita, a qual prevê a correção monetária a contar da data do evento danoso. Nesse contexto:
+(..)
+Definido o critério, passo à análise da forma como deverá ser realizado o cálculo da quantia devida em razão do pacto securitário discutido nos autos. A fim de evitar prejuízos aos autores e enriquecimento sem causa à ré, a atualização da quantia "deverá observar os seguintes parâmetros: o marco inicial para correção monetária é a data do sinistro, ocorridoem 26/04/2016, vide fl. 10, e a data final é a do pagamento total realizado na esfera extrajudicial que, conforme restou incontroverso nos autos, ocorreu em 01/07/2016.
+Para correta apuração do quantum devido, - deve a parte autora corrigir o capital segurado, pelo IGP-M, desde a data do sinistro até a data do pagamento parcial, ocorrido em 01/07/2016, amortizando-o nessa data. Feito isso, sobre o saldo segue incidindo correção monetária até a datado pagamento futuro. Somente em relação a estadiferença incidem juros de1% ao mês, a partir da citação, tudo na forma do artigo 405, do CC..
+DIANTE DO EXPOSTO, forte no art. 487, inciso I, do NCPC, julgo PARCIALMENTE PROCEDENTE a presente ação ordinária, a fim de condenar a ré ao pagamento da diferença securitária devida em razão da forma de cômputo da correção monetária, tudo em observância ao que constou na forma da fundamentação. (fls. 260-262 e-STJ)
+No caso concreto o certificado individual acostado pela seguradora, fl. 174, apontava o valor da cobertura em R$ 111.432,00 e início de vigência em 31.07.2015, sendo que o falecimento da segurada ocorreu em 26.04.2016. Desta forma, existindo nos autos documento que demonstre o valor do capital segurado vigente na época do evento danoso, consoante o entendimento da Súmula 38 do 6Q Grupo Cível deste egrégio Tribunal de Justiça, deve ser incidente a correção do capital segurado desde o sinistro.
+Todavia, a seguradora adimpliu o valor da cobertura securitária somente em 01.07.2016 e pelo valor nominal da apólice, o que não se mostra adequado, havendo sido condenado ao pagamento da diferença com base na aplicação da correção monetária entre a data do sinistro e a data do pagamento.
+Não há que se falar em nulidade do certificado individual de seguro. Conforme bem referido pelo juízo quando da apreciação dos embargos de declaração opostos pelos autores, tal pedido embasa-se em argumentos genéricos, não apontando a causa da eventual nulidade do documento, e visando exclusivamente a basear a tese de incidência da correção a partir da contratação. Em razões de apelo, os autores não trouxeram quaisquer argumentos que fundamentem a necessidade de reforma da decisão no tópico. Assim, mantenho a sentença por seus próprios fundamentos (fls. 317-318 e-STJ)
+Esta Corte tem entendimento de quea correção monetária incide desde a data da celebração do contrato de seguro de vida até o dia do efetivo pagamento da indenização, pois a apólice deve refletir o valor contratado atualizado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE SEGURO. ANÁLISE. SÚMULAS 5 E 7/STJ. CORREÇÃO MONETÁRIA. TERMO INICIAL. IMPOSSIBILIDADE. REFORMATIO IN PEJUS.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Nos termos da jurisprudência desta Corte, no tocante ao termo inicial da correção monetária, os valores da cobertura de seguro de vida devem ser acrescidos de correção monetária a partir da data da celebração do contrato,o que não se altera, todavia, para não piorar a situação do agravante.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1044956/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/05/2019, DJe 31/05/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. TERMO A QUO DA CORREÇÃO MONETÁRIA. JURISPRUDÊNCIA DESTA CORTE QUE NÃO AMPARA A PRETENSÃO RECURSAL. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte é no sentido de que a correção monetária nos seguros de vida incide a partir da data em que celebrado o contrato entre as partes.
+2. Não aplicação desse entendimento ao caso concreto ante o reformatio in pejus.
+3. Agravo interno desprovido.
+(AgInt no AREsp 921.913/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/04/2017, DJe 12/05/2017)
+RECURSO ESPECIAL. CIVIL. DIREITO SECURITÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. APÓLICE COLETIVA. ESTIPULANTE E CORRETORA DE SEGUROS. LEGITIMIDADE PASSIVA AD CAUSAM. GRUPO ECONÔMICO. RELAÇÃO DE CONSUMO. CONTRATO FIRMADO NO INTERIOR DO BANCO. SÚMULA Nº 7/STJ. SEGURO DE VIDA E ACIDENTES PESSOAIS. MORTE DO SEGURADO. CHOQUE SÉPTICO PÓS-OPERATÓRIO. CIRURGIA BARIÁTRICA. ACIDENTE PESSOAL. CARACTERIZAÇÃO. INFECÇÃO DECORRENTE DE TRAUMA FÍSICO. MORTE NATURAL POR DOENÇA. AFASTAMENTO. INDENIZAÇÃO SECURITÁRIA DEVIDA. QUESTIONÁRIO DE RISCO. OMISSÃO DE ENFERMIDADE PREEXISTENTE. IRRELEVÂNCIA. MORTE ACIDENTAL. FALTA DE CORRELAÇÃO COM O SINISTRO. CORREÇÃO MONETÁRIA. ALTERAÇÃO DE OFÍCIO. POSSIBILIDADE. MULTA PROTELATÓRIA. NÃO APLICAÇÃO. SÚMULA Nº 98/STJ.
+(..)
+8. O Superior Tribunal de Justiça consagrou o entendimento de que, nas indenizações securitárias, a correção monetária incide desde a data da celebração do contrato até o dia do efetivo pagamento do seguro, pois a apólice deve refletir o valor contratado atualizado.
+(..)
+10. Recurso especial do BANCO CITIBANK S.A. e da CITIBANK CORRETORA SEGUROS S.A. não provido. Recurso especial da METROPOLITAN LIFE SEGUROS E PREVIDÊNCIA PRIVADA S.A. parcialmente provido, apenas para afastar a multa processual. (REsp 1.673.368/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/08/2017, DJe 22/08/2017)
+8. Não obstante, especificamente para situações de renovações sucessivas de contrato de seguro, entende-se que a cada renovação há uma novo capital segurado de modo que o termo inicial de correção monetária dele é a data da renovação que vigia ao tempo do sinistro.
+A propósito:
+SEGURO DE VIDA EM GRUPO. Indenização. Correção monetária. Termo inicial.
+De acordo com precedentes deste Tribunal, o valor da indenização em caso de seguro de vida deve ser corrigido desde a data da contratação, e não do óbito.
+Recurso não conhecido.
+(REsp 479.687/RS, Rel. Ministro RUY ROSADO DE AGUIAR, QUARTA TURMA, julgado em 1/4/2003, DJ 4/8/2003, p. 318).
+EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. SEGURO DE VIDA. PAGAMENTO DA COBERTURA. CORREÇÃO MONETÁRIA. JUROS DE MORA.
+1. Os valores da cobertura de seguro de vida devem ser acrescidos de correção monetária a partir da data em que celebrado o contrato entre as partes. Precedentes.
+2. Os juros de mora devem fluir a partir da citação, na base de 0,5% ao mês, até a entrada em vigor do novo Código Civil (11.1.2003) e, a partir daí, nos termos de seu art. 406.
+3. Embargos de declaração parcialmente acolhidos.
+(EDcl no REsp 765.471/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/5/2013, DJe 6/6/2013).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA. CORREÇÃO MONETÁRIA. TERMO INICIAL. RENOVAÇÕES CONTRATUAIS SUCESSIVAS.ATUALIZAÇÃO. NOVA CONTRATAÇÃO. REANÁLISE. INVIABILIDADE. REEXAME CONTRATUAL E FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DA SÚMULA DO STJ.LIVRE CONVENCIMENTO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO.INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar conteúdo contratual (Súmula 5/STJ), bem como matéria fático-probatória (Súmula n.
+7/STJ).
+2. Cabe ao magistrado a interpretação da produção probatória, necessária à formação do seu convencimento.
+3. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+4. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1575797/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/06/2016, DJe 15/06/2016)
+9. Verifico, assim, que o aresto proferido pela Corte a quo encontra-seem harmonia com específico entendimento desta Corte, de modo que a decisão monocrática de fls. 466-468 (e-STJ) deve ser retratada, sem provimento do recurso especial dos ora embargados.
+10. Ante o exposto, acolho os embargos de declaração para conhecer do agravo interno e, em juízo de retratação, negar provimento ao recurso especial interposto pela parte ora embargada.
+É o voto.
