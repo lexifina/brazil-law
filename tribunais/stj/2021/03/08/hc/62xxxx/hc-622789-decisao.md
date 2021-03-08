@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de VINICIUS DE LUNA BENTO, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento ao apelo defensivo a fim de reduzir a pena do paciente para 5 anos, 9 meses e 13 dias de reclusão, mais 578 dias-multa, como incurso no art. 33, § 4º, da Lei n. 11.343/2006, mantido o regime inicial fechado.
+Nesta Corte, a defesa alega que o paciente tem direito ao reconhecimento do tráfico privilegiado.
+Afirma, ainda, que não há fundamento concreto para o regime mais severo, bem como deve ser considerado o tempo de prisão provisória para o seu abrandamento.
+A liminar foi indeferida (e-STJ, fls. 463-464).
+O Ministério Público Federal opinou pela concessão da ordem, de ofício (e-STJ, fls. 56-88).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem de ofício.
+O Tribunal de origem reduziu a pena aplicada na sentença condenatória sob a seguinte motivação:
+"Subsidiariamente, pedem os réus a redução da pena-base ao mínimo legal, bem como a aplicação do redutor previsto no art. 33, § 4º, da Lei de Drogas, a fixação de regime prisional inicial semiaberto e a substituição da pena privativa de liberdade por restritiva de direito.
+No cálculo da pena de ambos os acusados, o juízo monocrático elevou corretamente a pena-base para 8 anos e 4 meses de reclusão e pagamento de 833 dias-multa em razão da expressiva quantidade de maconha apreendida. No caso de Vinícius foi aplicada a atenuante da menoridade relativa, reduzida em 1/6, alcançando 6 anos, 11 meses e 10 dias de reclusão, além do pagamento de 694 dias-multa.
+Depois, no tocante ao pedido de aplicação da causa especial de diminuição de pena, cumpre frisar que a quantidade de droga apreendida não impediria sua incidência, pois, conforme decidiu o Supremo Tribunal Federal, tal circunstância deve ser avaliada na imposição da pena, visto que os réus foram considerados primários, não havendo indicativos de que se dedicassem habitualmente às atividades criminosas ou integrassem organização dessa natureza, critérios norteadores para estabelecimento da redução.
+Anote-se, no ponto, a impossibilidade de inferir da circunstância de os acusados estarem na posse da quantidade de drogas descrita nos autos, se dedicassem com habitualidade ao comércio ilícito. Para além desta circunstância, seria necessário que outras provas fossem colhidas, o que, entretanto, não se viu. Por óbvio, aquele que se predispõe à consecução do comércio espúrio de drogas, se sujeitará, como condição necessária e prévia a este intento, a um enlace, ainda que mínimo, com outros agentes já iniciados no mundo do crime, sem o qual a aquisição do entorpecente a ser comercializado posteriormente não seria possível. Entretanto, esta relação estabelecida, em sentido oposto ao que pretende o comando contido na norma, não tem o condão de inferir habitualidade ou vínculo com o crime organizado.
+ ..
+Nesse passo, deve incidir na hipótese, no sentido do reclamo defensivo, a diminuição em 1/6 por conta da expressiva quantidade de droga apreendida, restando definitiva para Vinícius 5 anos, 9 meses e 13 dias, e 578 dias-multa e para Marcos Paulo 6 anos, 11 meses e 10 dias, e 694 dias-multa.
+Como se verifica, o Tribunal de origem se utilizou da quantidade de droga para agravar a pena-base e escolher o índice do redutor do art. 33, § 4º, da Lei n. 11.343/2006.
+Entretanto, conforme entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, no ARE 666.334/AM (Rel. Ministro GILMAR MENDES, DJ 6/5/2014), está vedada a dupla aferição da quantidade e da natureza da droga, concomitantemente, na primeira etapa da dosimetria para exasperar a pena-base e na terceira fase para modular a minorante, sob pena de indevido bis in idem.
+Dessa forma, afim de se afastar a referida ilegalidade, a valoração da quantidade de droga será feita apenas na terceira fase (1/6), decisão que estendo ao corréu, nos termos do art. 580 do CPP.
+Passo à readequação da pena.
+A pena-base parte do mínimo legal. Na segunda fase, embora reconhecida a atenuante da menoridade em favor de Vinícius, a pena fica inalterada com fundamento na Súmula 231/STJ.
+Na última fase, reduzo-a na fração de 1/6, pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006 (4 anos e 2 meses de reclusão mais o pagamento de 416 dias-multa).
+O regime prisional permanece o inicial fechado.
+Na definição do modo inicial de cumprimento de pena, necessário à prevenção e reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento as diretrizes do art. 33 do Código Penal e, na hipótese de condenado pelo crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006.
+Consigne-se, ainda, que, conforme entendimento cristalizado nas Súmulas 440 do STJ e 718 e 719 do STF, a fixação de regime mais gravoso, do que o legalmente previsto para a sanção imposta, exige fundamentação idônea e amparada em elementos concretos extraídos dos autos.
+No caso, observa-se que o Tribunal de origem destacou a quantidade de droga para justificar o regime mais severo (e-STJ, fl. 499 - 4kg de maconha).
+Dessa forma, estabelecida a pena em 4 anos e 2 meses de reclusão, o regime fechado mostra-se adequado para o início do cumprimento da sanção imposta, diante da maior gravidade do fato, conforme motivação acima exposta, nos termos dos art. 33 do CP c.c o art. 42 da Lei n. 11.343/2006.
+Confiram-se:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉUS QUE SE DEDICAM À ATIVIDADE CRIMINOSA. INAPLICABILIDADE. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE PROVAS. REGIME PRISIONAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MODO FECHADO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. WRIT NÃO CONHECIDO.
+ ..
+4. Na identificação do modo inicial de cumprimento de pena, o magistrado deve observar as regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, também o art. 42 da Lei de Drogas.
+5. Estabelecida a pena definitiva dos pacientes em patamar inferior a 8 anos de reclusão, o regime inicial fechado (imediatamente mais grave segundo o quantum da sanção aplicada) é o cabível à espécie, tendo em vista a valoração desfavorável das circunstâncias judiciais (quantidade e natureza da droga), que justificou o aumento da pena-base acima do mínimo legal, nos exatos termos do art. 33, § 2º, "a", e § 3º, c/c o art. 59, ambos do Código Penal, e art. 42 da Lei n. 11.343/2006.
+ ..
+7. Habeas corpus não conhecido."
+(HC 390.987/SP, de minha relatoria, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017);
+"PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. NULIDADE DO V. ACÓRDÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONDENAÇÕES AINDA SEM TRÂNSITO EM JULGADO. POSSIBILIDADE DE UTILIZAÇÃO PARA NEGATIVA DA REDUTORA. REGIME INICIAL FECHADO. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. ILEGALIDADE NÃO CONFIGURADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. REQUISITOS DO ART 44 DO CÓDIGO PENAL NÃO ATENDIDOS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Conquanto se saiba que o col. Supremo Tribunal Federal, por ocasião do julgamento do HC n. 111.840/ES (Rel. Min. Dias Toffoli, DJe de 17/12/2013), declarou incidentalmente a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990, com redação dada pela Lei n. 11.464/2007, afastando a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, in casu, verifica-se que as circunstâncias judiciais do art. 59 são desfavoráveis aos ora pacientes, o que impede a fixação inicial do regime semiaberto para início de resgate da reprimenda.
+ ..
+Habeas corpus não conhecido."
+(HC 385.942/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/6/2017, DJe 30/6/2017).
+Ante o exposto, não conheço do habeas corpus . Todavia, concedo a ordem, de ofício, para afastar o bis in idem verificado, redimensionando a pena do paciente para 4 anos e 2 meses de reclusão, mantido o regime inicial fechado, mais o pagamento de 416 dias-multa . Ordem estendida ao corréu Marcos Paulo Pastorini Passos.
+Publique-se. Intimem-se.
