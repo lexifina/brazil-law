@@ -1,0 +1,48 @@
+EMENTA
+PROCESSUAL CIVIL. PETIÇÃO RECEBIDA COMO TERCEIROS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUCESSIVAS TENTATIVAS DE REFORMA DO ACÓRDÃO PROFERIDO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA.
+1. Em homenagem aos princípios da celeridade e da instrumentalidade das formas, acolho a presente Petição como Embargos de Declaração.
+2. De acordo com o entendimento da Corte Especial, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF." (EDcl no AgInt nos EAREsp 635.459/MG, Rel. Min. João Otávio de Noronha, Corte Especial, DJe 15/3/2017)
+3. Como se vê, a matéria suscitada nestes terceiros Embargos de Declaração evidencia o seu caráter protelatório, bem como o nítido escopo de tentar, pela terceira vez, obter a reforma do julgado, medida que se revela absolutamente impossível em decorrência do não conhecimento do seu recurso.
+4. Terceiros Embargos de Declaração, protelatórios, rejeitados. Imposição de multa de 1% do valor atualizado da causa, com fulcro no art. 1.026, § 2º, do CPC.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Primeira Turma do Superior Tribunal de Justiça, por unanimidade, decidir rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de Petição interposta contra acórdão desta Primeira Seção, por mim relatado e assim ementado (fl. 715):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM.
+1. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+2. Agravo interno não provido.
+Contra o referido acórdão a parte interpôs dois Embargos de Declaração que foram rejeitados (fl. 758-760 e 778-780).
+O ora requerente apresenta a presente petições alegando (fls. 784-789 e 794-801), em síntese:
+ ..
+Ora, como o devido respeito, não se pode deixar de catalogar pontos vitais da decisão e dizer ao final que o recorrente não atendeu ao que não foi sequer desenvolvido pelo decisum em referência..
+O fato de ainda no TRF2 e antes o fato de ainda no TRY2  antes de ofertar o ARESPpresente o recorrente  et embargos de declaração àquela decisão atípica para que fosse ADEQUADO o decisum de modo que pudesse o recorrente bem formular e seu ARESP,
+e ato á protegido por alo, lá transcrita no ARESP bem como empetições respeitosas perante essa INCLITA TURMA, Dad. Corte Especial do STJ.
+ ..
+De modo que não passa desprovida de contraposição a decisão a quo quando diz que o recorrente deixou de abordar isso, ou aquilo, pois, exatamente esse abordamento é que está sendo mostrada pelo recorrente
+Tanto naqueles embargos que na origem foram simplesmente rejeitados sem exame de qualquer pontos ofertados a apreciação.
+Quanto ao teor desse ARESp e no teor das seguintes petições de folha e folhas,
+Ponto que não está sendo considerado nas presente eruditas decisões colegiadas a que se pese vital considerar para uma plena entrega jurisdicional."
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PETIÇÃO RECEBIDA COMO TERCEIROS EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SUCESSIVAS TENTATIVAS DE REFORMA DO ACÓRDÃO PROFERIDO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER PROTELATÓRIO. IMPOSIÇÃO DE MULTA.
+1. Em homenagem aos princípios da celeridade e da instrumentalidade das formas, acolho a presente Petição como Embargos de Declaração.
+2. De acordo com o entendimento da Corte Especial, "a ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF." (EDcl no AgInt nos EAREsp 635.459/MG, Rel. Min. João Otávio de Noronha, Corte Especial, DJe 15/3/2017)
+3. Como se vê, a matéria suscitada nestes terceiros Embargos de Declaração evidencia o seu caráter protelatório, bem como o nítido escopo de tentar, pela terceira vez, obter a reforma do julgado, medida que se revela absolutamente impossível em decorrência do não conhecimento do seu recurso.
+4. Terceiros Embargos de Declaração, protelatórios, rejeitados. Imposição de multa de 1% do valor atualizado da causa, com fulcro no art. 1.026, § 2º, do CPC.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Em homenagem aos princípios da celeridade e da instrumentalidade das formas, acolho a presente Petição como Embargos de Declaração.
+Os embargos de declaração são cabíveis quando o provimento jurisdicional padece de obscuridade, contradição ou omissão, nos ditames do artigo 1.022 do CPC/2015, bem como para sanar a ocorrência de erro material.
+O embargante na petição de fls.784-789 e 794-801 apresenta argumentação desconexa, sem demonstrar ter havido contradição, obscuridade, omissão ou erro material a justificar a oposição dos embargos de declaração, vícios que não foram, sequer, apontados, como exige o art. 1.023, caput, do CPC/2015, ao assim dispor: "Art. 1.023. Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+Convém ressaltar que a ausência de indicação dos vícios que justificariam a oposição dos Embargos de Declaração, além de inobservar a exigência do art. 1.023 do CPC/2015, impede a exata compreensão da controvérsia, atraindo a incidência da Súmula 284 do STF, por analogia. A propósito, já decidiu a Corte Especial do STJ:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. NÃO DEMONSTRAÇÃO DE NENHUM DOS VÍCIOS PREVISTOS NO ART. 1.022 DO NOVO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF.
+2. Embargos de declaração não conhecidos. (EDcl no AgInt nos EAREsp 635.459/MG, Rel. Min. João Otávio de Noronha, Corte Especial, DJe de 15/3/2017)
+No mesmo sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE DO ESTADO. RECURSO ESPECIAL INTEMPESTIVO. JULGAMENTO DE AGRAVO INTERNO QUE MANTÉM A DECISÃO. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - A jurisprudência deste Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+II - Embargos de declaração não conhecidos (EDcl no AgInt no AREsp 865.398/PR, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 8/3/2017)
+Por fim, quanto a petição n. 00121102/2021, o requerente apresenta razões dissociadas sob os seguintes argumentos "em a DJ, notícia, de que haverá julgamento, colegiado, anime, em data especificada, desse processo, bem como de outros.. Pedindo especial licença, e com devido respeito, o modesto pólo recorrente, (alcides augusto da silva), precisa dizer, por oportuno, que, em se tratando de agravo em REsp oriundo do e- TRF2, onde se fez a digitalização dos autos originais físicos, entendendo-se processo físico desde o nascedouro que seguiu assim em recurso ao TRF2 e lá foi decidido, momento de interposição de recurso especial, ainda em papel, assim como o AREsp, quando, então, tudo foi digitalizado; deve essa parte forcejar a seguinte cautelar defesa (..) Desse modo, roga proteção, se no referido julgamento, se considerar, ausente, elemento, que deveria fazer parte do processo no STJ."(fls. 809-810).
+Nesse ponto, resta evidente que a argumentação recursal se revelavaga e inapta a demonstrar efetivamente a suposta ofensa ao direito de defesa, revelando-se dissociada dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia.
+Ante o exposto, não conheço dos terceiros Embargos de Declaração e, com base no art. 1.026, § 2º, do CPC, condeno o embargante ao pagamento de multa de 1% do valor corrigido da causa.
+É como voto.
