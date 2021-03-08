@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de reclamação ajuizada por BECKENKAMP e JORDÃO ADVOGADOS ASSOCIADOS em face do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO.
+Em suas razões, alegam que o Tribunal reclamado usurpou a competência deste Tribunal Superior ao obstar o seguimento do agravo em recurso especial que interpusera. Argumentam, ademais, ser nula a decisão, porquanto não indica qual precedente do STJ apreciou a questão sob o rito dos recursos repetitivos.
+É O RELATÓRIO. DECIDE-SE.
+Nos termos do art. 1.042, § 4º, do CPC/2015, a competência para o julgamento do agravo interposto contra decisão que inadmite recurso especial é, de fato, deste Superior Tribunal de Justiça, razão pela qual, a princípio, ocorre usurpação de competência quando o Tribunal de origem obsta a subida do agravo em recurso especial. Nesse sentido, veja-se: Rcl 14.462/RJ, Corte Especial, DJe de 02/02/2016.
+Na espécie, constata-se que o Tribunal a quo inadmitiu o recurso especial interposto pela reclamante com base no art. 1.030, I, "b", do CPC/2015, tendo ressaltado que:
+Abstraindo a aplicação, por analogia, do verbete nº 284 da Súmula do STF, eis que o recorrente não indicou expressamente a norma violada, nem sua violação, verifico que o presente recurso especial versa sobre matéria repetitiva representada Tema 706 do Superior Tribunal de Justiça, objeto do REsp nº 1.333.988/SP ("Possibilidade de rediscussão do cabimento das astreintes após preclusão do decisum que as cominou."), cujo mérito já foi julgado definitivamente, tendo sido definida a seguinte tese:
+"A decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada."
+Significa dizer, à luz do paradigma, que a decisão que comina astreinte pode ser modificada a qualquer tempo pelo julgador, ainda que objeto de anterior decisão.
+Com tais considerações, verifica-se que o acórdão recorrido está em perfeita harmonia com a tese fixada em sede de recurso repetitivo, não havendo que se falar, inclusive, em dissídio jurisprudencial, pelo que o recurso excepcional deve ter seu seguimento negado. (e-STJ, fl. 117)
+Da leitura do excerto colacionado, dessume-se que o Tribunal estadual indicou expressamente a tese aplicável à hipótese, não havendo que se falar em nulidade.
+Em face dessa decisão, a parte reclamante interpôs recurso de agravo, o qual foi inadmitido pela Corte local (e-STJ, fls. 130-131).
+Com efeito, quando a decisão que nega seguimento ao recurso especial está fundada em entendimento firmado em julgamento de recurso repetitivo, não cabe a interposição de agravo ao STJ (art. 1.042, caput, do CPC/2015). Nessas situações, conforme prevê expressamente o art. 1.030, § 2º, do CPC/2015, somente é cabível a interposição de agravo interno para a Corte de origem, in verbis:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+ ..
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021. (grifou-se)
+Antes da vigência do CPC de 2015, por ocasião do julgamento da questão de ordem no Ag 1.154.599/SP, a Corte Especial já havia se manifestado no sentido de que não cabe o agravo, previsto no art. 544 do CPC, contra decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC, podendo a parte manejar agravo interno ou regimental na origem, para demonstrar a especificidade do caso concreto.
+Pelas razões expostas, a jurisprudência do STJ entende inexistir usurpação de competência quando o agravo obstado na origem é manifestamente incabível. Veja-se, por exemplo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. PROCESSUAL CIVIL. CPC/2015. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO STJ PARA APRECIAÇÃO DE AGRAVO INTERPOSTO CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL, COM FUNDAMENTO EM TESE JULGADA EM RECURSO ESPECIAL REPETITIVO (ART.1.030, INCISO I, "B" DO CPC/2015). UTILIZAÇÃO DA RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. ERRO GROSSEIRO NA INTERPOSIÇÃO DO AGRAVO FUNDADO NO ART. 1.042 DO CPC. PRECEDENTES. DESCABIMENTO DA RECLAMAÇÃO VISANDO AO CONTROLE DA APLICAÇÃO DE ENTENDIMENTOS FIRMADOS PELO STJ EM JULGAMENTO DE RECURSOS REPETITIVOS. PRECEDENTE ESPECÍFICO DA CORTE ESPECIAL NA RCL 36.476/SP. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO. (AgInt nos EDcl na Rcl 40.311/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020 - grifou-se)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. USURPAÇÃO DA COMPETÊNCIA DO STJ. INEXISTÊNCIA.
+1. É da competência desta Corte Superior o exame da admissibilidade do agravo em recurso especial quando intentado contra a decisão da instância ordinária que inadmite o recurso especial por outros fundamentos que não o previsto no art. 543-C do CPC (art. 1.036 do CPC/2015), nos termos do art. 1.042, caput e § 4º, do CPC/2015.
+2. Não se verifica usurpação de competência deste Tribunal Superior quando o agravo, obstado na origem, é manifestamente incabível, razão pela qual não se admite o manejo da via reclamatória. Precedentes.
+3. Agravo interno não provido.
+(AgInt na Rcl 35.666/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 23/05/2018, DJe 28/05/2018 - grifou-se)
+CPC. AGRAVO EM RECURSO ESPECIAL. RECURSO OBSTADO NA ORIGEM. INEXISTÊNCIA DE USURPAÇÃO DE COMPETÊNCIA. RECLAMAÇÃO EXTINTA SEM RESOLUÇÃO DO MÉRITO.
+1. O Tribunal Regional Federal da 4ª Região, ao julgar os recursos de apelação e a remessa necessária, acolheu a tese de decadência defendida pelo INSS, amparando-se no decidido pelo STJ no REsp 1.326.114/STJ e no STF no RE 626.489/SE. O recurso especial interposto pela ora recorrente foi declarado prejudicado pela incidência do disposto no art. 543-C do CPC; ingressou, então, com agravo regimental, ao qual foi negado provimento; por fim, interpôs agravo, com fundamento no art. 544 do CPC, o qual não foi conhecido.
+2. A reclamação foi liminarmente extinta, ao argumento de que a Corte Especial do Superior Tribunal de Justiça, ao apreciar a questão de ordem no Agravo de Instrumento 1.154.599/SP, Relator Ministro Cesar Asfor Rocha, DJe 12/5/2011, firmou o entendimento de que "não cabe agravo de instrumento contra decisão que nega seguimento a recurso especial com
+base no art. 543-C, § 7º, inciso I, do CPC".
+3. Naquela oportunidade, decidiu-se também que eventual equívoco na aplicação da tese sufragada no recurso repetitivo ao caso concreto poderá ensejar agravo interno na instância de origem. Por fim, julgado o agravo,
+descabe reclamação a esta Corte.
+4. Desse modo, na hipótese de recurso incabível, o seu trancamento na origem não importa em usurpação de competência desta Corte Superior, consoante a iterativa jurisprudência deste Tribunal.
+Agravo regimental improvido.(AgRg na Rcl 26.796/RS, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 14/10/2015, DJe 22/10/2015 - grifou-se)
+Nesse contexto, impõe-se o indeferimento liminar da petição inicial.
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO QUE INADMITIU O RECURSO ESPECIAL COM BASE NO ART. 1.030, I, "b", DO CPC/2015. AGRAVO EM RECURSO ESPECIAL INADMITIDO PELO TRIBUNAL DE ORIGEM. USURPAÇÃO DE COMPETÊNCIA DO STJ. INOCORRÊNCIA.
+1. Cuida-se de reclamação que aponta usurpação de competência do STJ pelo Tribunal local, que obstou o seguimento de agravo em recurso especial.
+2. Quando a decisão que nega seguimento ao recurso especial está fundada em entendimento firmado em julgamento de recurso repetitivo, não cabe a interposição de agravo ao STJ (art. 1.042, caput, do CPC/2015). Nessas situações, conforme prevê expressamente o art. 1.030, § 2º, do CPC/2015, somente é cabível a interposição de agravo interno para a Corte de origem.
+3. A jurisprudência do STJ entende inexistir usurpação de competência quando o agravo obstado na origem é manifestamente incabível. Precedentes.
+4. Petição inicial indeferida. Reclamação extinta sem resolução de mérito.
