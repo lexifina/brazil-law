@@ -1,0 +1,21 @@
+DECISÃO MONOCRÁTICA
+EMENTA
+APELAÇÃO CÍVEL – ERRO MATERIAL NÃO CONSTATADO – MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS – NECESSIDADE – RECURSO CONHECIDO E DESPROVIDO.
+(1)- A data do acidente correta é 01.03.2016, como bem dirimido pela própria sentença guerreada. Embora constando na sentença data diversa, o que deve ser levado em consideração são os documentos constantes dos autos. É com base nestes que, analisando as provas, o magistrado faz suas razões de decidir e prolata a sentença meritória em face da questão que lhe é apresentada pelas partes. (2)- Vencido em grau recursal, de ofício, deve o Tribunal majorar os honorários advocatícios, pelos serviços desempenhados pelo profissional do direito, após a prolação da sentença de piso.
+VISTOS E EXAMINADOS.
+Recurso de Apelação Cível oposto por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS, contra sentença de ID: 74473515, na Ação de Cobrança de Seguro DPVAT no 1012335-35.2017.8.11.0041, proposta em seu desfavor por SERGIO DO NASCIMENTO ARAUJO, que julgou o feito parcialmente procedente para condenar a requerida apelante ao pagamento de R$ 2.362,50 (dois mil trezentos e sessenta e dois reais e cinquenta centavos), acrescidos de correção monetária pelo INPC/IBGE, a partir da data do acidente (01.03.2016) e juros de mora de 1% ao mês, desde a citação; condenar ao pagamento das custas processual e honorários advocatícios fixados em R$1.500,00, art.85, §§ 2.° e 8o, do CPC.
+Em resumo, a razões de ID: 74473517 alega: (i) erro material, apontado no dispositivo da sentença, quanto ao termo inicial da correção monetária; (ii) a data explicitada nas sentença, é que o sinistro teria ocorrido em 01.03.2016, quando na verdade o sinistro ocorreu em 28.01.2017, como se da inicial. Pugna ao final pela correção do erro material apontado para que se conste como data do evento danoso o dia 28.01.2017.
+Contrarrazões não apresentadas, certidão de ID: 74473522.
+FUNDAMENTAÇAO E DECISÃO.
+De começo se vê que a questão e por demais conhecida, quer neste sodalício pantaneiro, quer junto ao colendo SUPERIOR TRIBUNAL DE JUSTIÇA em firmes e repetidas jurisprudências a respeito do assunto. Desta forma, privo de legar este julgamento à consideração da colenda 2a. Câmara Cível e passo a decidi-lo de forma unipessoal.
+Pois bem!
+No caso em apreciação recursal, em que pesem os argumentos vertidos, não assiste razão à apelante quanto ao erro material apontado, compulsando os autos vê-se que de fato que a data do sinistro é 01.03.2016, como consta da narrativa do Boletim de Ocorrência de ID: 74473453 página 9.
+Destaco ainda que a própria sentença guerreada trate da inconsistência levantada quanto às datas, dirimindo qualquer entendimento ao contrario como segue:
+“...Em análise aos documentos acostados aos autos, verifica-se que a data do acidente de fato ocorreu no dia 01/03/2016, conforme documentação anexada à inicial...”
+Por fim, em se tratando de grau recursal, aplicando em todo o seu contexto o Código de Processo Civil vigente (artigo 14), houve, por imposição do § 11, do artigo 85, do referido comando processual os chamados honorários recursais. Estes visam à remuneração do advogado pelos seus serviços desempenhados após a prolação da sentença pelo juízo de primeiro grau de jurisdição.
+E, com relação a esta situação, que deve ser tomada de ofício pelo Tribunal, a sentença arbitrou em R$1.500,00, dentro do especificado no § 8o, do artigo 85, do CPC. Impõe-se, neste caso, sua majoração para R$1.600,00 (mil e seiscentos reais), sendo a majoração feita (R$100,00) pelos serviços recursais do profissional do direito que deve ser condignamente remunerado, admitido constitucionalmente como administrador da justiça, égide do artigo 133 da CF e Estatuto da Classe, colocando o valor em sintonia pelo que vem sendo aplicado, por este julgador, nestes casos.
+Isto posto, CONHEÇO do apelo e NEGO-LHE PROVIMENTO, mantendo in totum a sentença guerreada; e com fulcro no § 11, do artigo 85, do CPC, nos termos da fundamentação anterior, majoro os honorários recursais sucumbenciais para R$1.600,00 (mil e seiscentos reais)
+Intimem-se. Cumpram-se.
+Decorrido o prazo recursal, baixem os autos à instância de piso para a liquidação do julgado.
+Desembargador SEBASTIÃO DE MORAES FILHO.
+RELATOR.
