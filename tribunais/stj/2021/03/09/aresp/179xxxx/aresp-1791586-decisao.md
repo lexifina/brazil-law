@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por FAZENDA DO ESTADO DE SÃO PAULOem face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AV. BRIGADEIRO, que negou admissibilidade a recurso contra acórdão assim ementado:
+Agravo de instrumento. Cumprimento de sentença. Ausência de informes oficiais. Culpa da executada. Inexistência de reclamação substancial. Alegação de nulidade bem afastada. Inércia da fazenda pública, e não do credor. Prescrição intercorrente não consumada. Decisão mantida. Aplicação de penalidade por litigância de má-fé. Recurso improvido.
+Os embargos de declaração apresentados na origem foram rejeitados.
+No especial, o Estado defende a reforma da multa por litigância de má-fé que lhe foi imposta indevidamente. Para tanto, defende a violação dos arts. 79 a 81, todos do CPC/2015. Aduz, com base nos arts.489, § 1º, 1.022, ambos do CPC/2015, a nulidade do acórdão a quopor ausência de fundamentos robustos para a condenação dessa multa. Defende, por fim, a redução do valor da multa, se a condenação for mantida.
+Apresentadas contrarrazões.
+O Tribunal de origem não admitiu o recurso especial por não haver omissões no acórdão devidamente fundamentado e pela impossibilidade de revisão do conjunto probatório dos autos.
+Nas razões do agravo, o recorrente sustenta a não incidência dos óbices indicados na decisão ora recorrida e afirma a presença dos requisitos de admissibilidade do especial.
+Ofertada contraminuta.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Com efeito, verifica-se não ter ocorrido ofensa aos artigos 489 e 1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ora, a condenação ao pagamento de multa está sustentada em fundamentação clara e suficiente. Confira-se (e-STJ fl. 36/37):
+Como se verifica, a falta de informes oficiais na fase de liquidação do julgado decorreu de culpa da própria impugnante, ora recorrente, fato do qual se extraiu a consequência da validade do procedimento executivo.
+No presente recurso, a agravante não demonstrou o desacerto da premissa adotada pela decisão agravada.
+Ademais, nenhuma reclamação substancial quanto ao cálculo foi ofertada.
+Pela mesma razão não se pode reconhecer consumada a prescrição intercorrente.
+A fazenda pública atazana o credor e desatende ao interesse público primário ao protelar o cumprimento de sua obrigação instrumental na fase de liquidação, e não pode ver nisto reconhecida algum tipo de inércia de sua vítima.
+O caso presente só autoriza reconhecer a litigância de má-fé da agravante que apresenta recurso protelatório e por tal deve pagar multa de 5% do valor da execução conforme as disposições dos art. 80, inciso VII, e 81, do CPC.
+Ademais, a jurisprudência desta Corte não considera fundamentado o recurso especial (a) genérico, sem a efetiva demonstração de contrariedade à lei federal (cf. AgRg no AREsp 288.596/MG, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 11/03/2016), (b) dissociado do contexto nos autos (cf. REsp 1337635/PE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 01/08/2013), (c) em que os dispositivos apontados não possuem comando normativo apto para infirmar os fundamentos do decisum (cf. AgRg no REsp 1279021/BA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 11/11/2013).
+No caso o recorrente limita-se a apontar que o valor da multa se encontra excessiva sem indicar como o valor arbitrado destoa do sistema processual ou da realidade dos autos. Adeficiência na fundamentação resta clara e atrai a aplicação do óbice da Súm. n.284/STF.
+Por fim, sabe-se que o exercício do direito de recorrer não justifica, por si, conduta arbitrária capaz de atrair a incidência de multas processuais por litigância de má-fé. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA. LITIGÂNCIA DE MÁ-FÉ. POSSIBILIDADE DE AFASTAMENTO. AUSÊNCIA DE INTUITO PROTELATÓRIO. EXERCÍCIO REGULAR DE DIREITO. SÚMULA 7/STJ. AFASTAMENTO. SÚMULA 182/STJ. NÃO INCIDÊNCIA.
+1. Conforme entendimento pacífico do STJ, o exercício regular do direito constitucional de recorrer não deve ensejar condenação do recorrente às penalidades por litigância de má-fé e multa.
+2. No caso, as razões dos embargos declaratórios não denotam qualquer intuito protelatório ou capaz de evidenciar abuso do direito de recorrer, motivo pelo qual não há falar na condenação em litigância de má-fé. 3. É admissível que esta Corte determine o afastamento da multa aplicada por embargos de declaração reputados protelatórios, em caráter excepcional, quando a ausência do manifesto propósito de protelar for aferível mediante a leitura da peça recursal, providência que não se confunde com o reexame de matéria fática.
+4.Nas razões do agravo em recurso especial, a parte empreendeu argumentação suficiente e necessária a combater do óbice então aplicado pelo Tribunal de origem, de modo que restou assegurado o conhecimento da insurgência.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 967.034/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/08/2019, DJe 16/08/2019)
+Contudo, o trecho do acórdão ora mencionado demonstra umaresistência injustificada pelo Estado de São Paulo no cumprimento do título judicial, razão pela qual não é possível afastar a litigância de má-fé reconhecida pelo Tribunal de origem. Nesse sentido, vê-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO RESCISÓRIA. SERVIDORES PÚBLICOS INATIVOS. CONTROVÉRSIA SOLUCIONADA COM AMPARO EM NORMA CONSTITUCIONAL. COMPETÊNCIA DO STF. SEGUNDOS ACLARATÓRIOS COM INTUITO PROTELATÓRIO. MULTA. ART. 1.026, 1.026, § 2º, CPC/2015.MANUTENÇÃO.
+1. Hipótese em que os insurgentes alegam que a suposta violação do art. 966, V, do CPC decorre do fato de que o Tribunal local teria negado vigência ao art. 40, § 8º, da Constituição Federal.
+2. Não é possível analisar a tese recursal, uma vez que apreciar possível afronta a dispositivo constitucional resultaria em usurpação da competência do Supremo Tribunal Federal estabelecida nas alíneas do inciso III do artigo 102 da Constituição Federal.
+3. O Superior Tribunal de Justiça possui jurisprudência no sentido de que "o acórdão que, julgando o mérito de Ação Rescisória, afirma a existência ou a inexistência de violação da Constituição, está sujeito a controle por Recurso Extraordinário, e não por Recurso Especial, porquanto tal análise demanda interpretação de matéria cuja competência é exclusiva do Supremo Tribunal Federal, nos termos do art. 102, III, a, da Constituição da República" (AgInt no REsp 1.763.042/CE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 21.3.2019).
+4. Confirmado o intuito protelatório, diante da situação fática analisada pelo Tribunal de origem, demonstra-se resistência injustificada ao andamento do processo, caracterizando a litigância de má-fé, o que justifica a manutenção da multa.
+5. Agravo Interno não provido.
+(AgInt no REsp 1786179/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 06/06/2019, DJe 18/06/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE OMISSÕES. ALEGAÇÕES GENÉRCIAS. FUNDAMENTAÇÃO DEFICIENTE. ANULAÇÃO DE MULTA PROCESSUAL. RESISTÊNCIA INJUSTIFICADA AO CUMPRIMENTO DE TÍTULO JUDICIAL.LITIGÂNCIA DE MÁ-FÉ. MANUTENÇÃO DA CONDENAÇÃO AO PAGAMENTO DE MULTA PROCESSUAL. PRECEDENTE. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
