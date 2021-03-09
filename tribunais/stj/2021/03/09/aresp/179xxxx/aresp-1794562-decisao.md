@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por TANIA MARIA SALDANHA MARQUEScontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 145):
+EXECUÇÃO FISCAL. DÉBITO DECORRENTE DE VALORES INDEVIDAMENTE RECEBIDOS A TÍTULO DE BENEFÍCIOPREVIDENCIÁRIO. PROSSEGUIMENTO DA EXECUÇÃO.
+1. De acordo com o § 3º do art. 115 da Lei nº 8.213/91,acrescentado pela Lei nº 13.494/2017, serão inscritos em dívida ativa pela Procuradoria-Geral Federal os créditos constituídos pelo INSS em razão de benefício previdenciário ou assistencial pago indevidamente ou além do devido, hipótese em que se aplica o disposto na Lei nº 6.830, de 22 de setembro de 1980, para a execução judicial.
+2. O fato de se tratar de fatos anteriores à lei nova não obsta a inscrição em dívida ativa e posterior ajuizamento de execução.
+Nas razões do recurso especial, a parte agravante aponta violação aoart. 115,§ 3º, da Lei n. 8.213/1991.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Do exame acurado dos autos, observa-se que,no presente recurso, discute-se a possibilidade de cobrança de valores recebidos indevidamente a título de benefício previdenciário via dívida ativa, questão que foi afetada pela Primeira Seção, nos termos do art. 1.036 do CPC/2015, conforme o Tema Repetitivo nº 1.064:Possibilidade de inscrição em dívida ativa para a cobrança dos valores indevidamente recebidos a título debenefício previdenciário: verificação da aplicação dos §§3º e 4º, do art. 115, da Lei n. 8.213/91 aos processos em curso.
+Ainda sobre o tema repetitivo, verifica-se que houve expressasuspensão do julgamento de todos os processos envolvendo a matéria, conforme o art. 1.037, II, do CPC/2015.
+ANTE O EXPOSTO,, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: I) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça; II) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, I e II, do novo CPC/2015).
+Publique-se.
