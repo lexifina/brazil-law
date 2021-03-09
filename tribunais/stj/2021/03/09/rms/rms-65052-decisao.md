@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto por Maria Izabel dos Santos com fundamento na alínea b do inciso II do artigo 105 da Constituição Federal contra acórdão da Seção de Direito Público do Tribunal de Justiça do Estado da Bahia que, às fls. 215-231, extinguindo o feito, sem resolução de mérito, com base na Lei n. 12.016/2009, "diante da ausência de prova pré-constituída a embasar o pleito", visto que "aparidade requerida não pode ser analisada de forma genérica, sem descrição das vantagens, e as parcelas declinadas no documento de evento 2243479, a mesma certidão "se vivo fosse"atualizada até 2018, não traz clarividente exposição quanto a todas as parcelas percebidas pelos servidores em atividade".
+A recorrente assevera que, "ao contrário do quanto esposado na decisão recorrida, a presente ação mandamental preencheu os requisitos necessários para sua impetração, eis que foram carreados aos autos os documentos que se encontravam em poder da impetrante, ora recorrente, que demonstram a certeza e liquidez do seu direito" (fl. 128), visto que "anexou aos autos o seu contracheque, o qual comprova a defasagem de seus proventos, bem como a declaração de remuneração fornecida pela Administração Pública" (fl. 129).
+Requer, ao final, o provimento do recurso, a fim de "reformar a decisão monocrática teratológica proferida pelo Douto Desembargador" (fl. 135).
+Os embargos declaratóriosforam rejeitados (fls. 240-258).
+O Ministério Público Federal, às fls. 273-275, oficia pelo não provimento do recurso.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Na espécie, a recorrente, na qualidade de pensionista do Estado por ser esposa do investigador,impetrou mandado de segurança, em face de ato do Governador do Estado da Bahia e do Secretário da Administração do Estado da Bahia para que estes procedam a equiparação dos proventos do impetrante aos profissionais da ativa.
+O Tribunal estadual extinguindo o feito, sem resolução de mérito, com base na Lei n. 12.016/2009, "diante da ausência de prova pré-constituída a embasar o pleito", visto que "a paridade requerida não pode ser analisada de forma genérica, sem descrição das vantagens, e as parcelas declinadas no documento de evento 2243479, a mesma certidão "se vivo fosse" atualizada até 2018, não traz clarividente exposição quanto a todas as parcelas percebidas pelos servidores em atividade".
+Por importante, destaco parte da fundamentação do voto condutor (fls. 215-231):
+O presente recurso beira a mal ferir a necessária dialeticidade porque defende o direito do impetrante, ora agravante, sem atacar de forma contundente as razões que levaram ao indeferimento da inicial da ação mandamental.
+A admissibilidade do Mandado de Segurança deve ser analisada no momento do ajuizamento, tendo esta Relatoria oportunizado a correção, o que é condenado por parte da Doutrina, não podendo ser considerados documentos juntados a posteriori, decorrido o prazo assinalado para correção.
+A parte impetrante instruiu o feito com documentos de representação, um contracheque de maio/2018 e uma declaração "se vivo fosse" emitida no ano de 2009, ainda que a exordial tenha sido distribuída em 18/10/2018.
+Se é fato que a declaração "se vivo fosse" comprova que a pensão paga em 2009 estava a menor que a devida, não comprova o Direito a paridade e a atual situação em que estaria o servidor, "se vivo fosse" e não descreve quais as prestações, gratificações e demais parcelas estariam sendo suprimidas.
+Os fatos são descritos de forma singela e não narram as parcelas que entende usurpadas nos seguintes termos:
+ ..
+Como bem observou a Douta Procuradoria de Justiça em seu bem lançado parecer de evento 5741287 destes autos:
+A agravante refere-se de forma genérica a gratificações por função policial e adicional por tempo de serviço, sem contudo, identificar qual gratificação teria direito o ex-investigador e em qual nível a perceberia se estivesse em atividade.
+A despeito do rito estabelecido na Lei nº 12.016/09, observa-se que foi oportunizado à autora, nos autos do mandado de segurança, a renovação da instrução processual, tendo a mesma colacionado o documento de ID. 2760874, com vistas a provar o quanto deduzido.
+Entretanto, a análise do referido documento revela que o mesmo não descreve a situação jurídica do servidor, haja vista que o mesmo exerceu função de agente de polícia e os documentos referem-se à " atividade de delegado de polícia.
+De fato, observa-se queo documento juntado aos autos revela que não descreve a situação jurídica do de cujus.
+Consoante jurisprudência desta Corte,em razãoda celeridade do rito do mandado de segurança, incumbe ao impetranteapresentar prova pré-constituída do direito alegado, sob pena de nãoconhecimento da impetração. No mesmo sentido:AgInt no MS 24.517/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL,DJe 21/11/2018.
+Dessa forma, em consonância com o parecer ministerial, o presente recurso não merece prosperar, visto que, em sede de mandado de segurança, mostra-se indispensável a prova pré-constituída do alegado direito líquido e certo, o que não se comprovou na espécie.
+Ante o exposto, nego provimento ao recurso em mandado de segurança.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR PÚBLICO CIVIL. DECISÃO QUE INDEFERIU A INICIAL.PARCELAS PLEITEADAS NÃO ESPECIFICADAS.DOCUMENTAÇÃO ACOSTADA DESATUALIZADA. DILAÇÃO PROBATÓRIA NA VIA DO MANDAMUS. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
