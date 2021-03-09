@@ -1,0 +1,39 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo ESTADO DE ALAGOAS contra acórdão prolatado, por unanimidade, pela 3ª Câmara do Tribunal de Justiça do Estado de Alagoas no julgamento de apelação, assim ementado (fl. 257e):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE PROVOCADO POR BURACO EM VIA PÚBLICA DECORRENTE DE OBRA PÚBLICA. RESPONSABILIDADE OBJETIVA DO ENTE PÚBLICO POR OMISSÃO ESPECÍFICA. DEVER LEGAL DO ESTADO DE SINALIZAR ADEQUADAMENTE SUAS OBRAS ATÉ QUE SEJAM CONCLUÍDAS, EVITANDO A OCORRÊNCIA DE DANO. TEORIA DO RISCO ADMINISTRATIVO. DANO MATERIAL E MORAL RECONHECIDOS. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA. FIXAÇÃO DOS CONSECTÁRIOS LEGAIS. RECURSO DE APELAÇÃO CONHECIDO E PROVIDO.
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 944 do Código Civil - a indenização pelo dano moral sofrido fixado pelo tribunal de origem ultrapassou os critérios de razoabilidade e proporcionalidade, merecendo nova análise e adequação para valores condizentes com as circunstâncias do fato.Com contrarrazões (fls. 292/296e), o recurso foi inadmitido (fl. 298/299e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 355e).
+O Ministério Público Federal manifestou-se às fls. 365/370e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir o acórdão recorrido, no qual foi fixado o montante arbitrado a título de danos morais, consoante trecho que ora transcrevo (fls. 267/269e):
+34 Com relação à compensação por dano moral, no caso em estudo, é
+notório o dano sofrido pelas autoras, posto que não há como se negar o abalo causado na vida destes pela morte trágica e prematura de seu companheiro e pai.
+35 Nesse sentido é o posicionamento firmado pelo Superior Tribunal de
+Justiça, devidamente acompanhado por este Tribunal de Justiça do Estado de Alagoas, nos termos que seguem:
+(..)
+40 A meu sentir, na hipótese dos autos, diante da extensão do dano sofrido, decorrente da conduta do apelado, entendo por fixar a condenação no valor correspondente a 100 (cem) salários mínimos em favor de cada uma das apelantes, em consonância com casos semelhantes julgados por esta 3a Câmara Cível do Tribunal de Justiça de Alagoas, postos, inclusive, à minha relatoria, como o que se verifica, in verbis:
+A jurisprudência desta Corte firmou-se no sentido de que somente é cabível a revisão do valor fixado a título de danos morais quando exorbitante ou ínfimo.
+No caso, como não houve excesso ou valor irrisório, haja vista a gravidade e a magnitude da situação, torna-se inviável a análise da questão sem que se proceda ao reexame do contexto fático-probatório dos autos, o que atrai o óbice da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO ILEGAL. DANO MORAL. QUANTIFICAÇÃO DO DANO MORAL. INEXISTÊNCIA DE EXORBITÂNCIA OU IRRISORIEDADE. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO E PROBATÓRIO. SÚMULA Nº 7 DO STJ.
+1. No que concerne ao valor arbitrado a título de danos morais, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento no sentido de que somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, em afronta aos princípios da razoabilidade e da proporcionalidade, sob pena de ofensa ao disposto na Súmula 7 desta Corte.
+2. No caso, o Tribunal a quo manteve o valor de R$ 50.000,00 (cinquenta mil reais) a título de reparação por danos morais, em razão de erro judicial que resultou em prisão preventiva que perdurou por onze meses, quantum este que merece ser mantido. Conclusão em contrário esbarraria no óbice da citada Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no REsp 1.397.288/AC, Rel. Ministra MARGA TESSLER - JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO, PRIMEIRA TURMA, julgado em 26/05/2015, DJe 05/06/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do STJ admite a revisão do quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando configurada situação de anormalidade nos valores, sendo estes irrisórios ou exorbitantes.
+2. Na hipótese em questão, foi com base nas provas e nos fatos constantes dos autos que o Tribunal de origem entendeu que é justo o valor de R$ 25.000,00 (vinte e cinco mil reais), arbitrado a título de indenização por danos morais, em decorrência de prisão ilegal.
+Desta forma, a acolhida da pretensão recursal demanda prévio reexame do conjunto fático-probatório dos autos, o que é vedado ante o óbice preconizado na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 677.188/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/05/2015, DJe 27/05/2015).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+Assim, nos termos do art. 85, §§ 2º e 11, de rigor a majoração, em 10% (dez por cento), dos honorários anteriormente fixados (fl. 274e).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
