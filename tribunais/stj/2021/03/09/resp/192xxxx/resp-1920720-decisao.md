@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaMOINHO ESTRELA LTDA., com respaldonaalínea"a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ fl. 285):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. AÇÃO ORDINÁRIA. EXTINÇÃO DO CRÉDITO TRIBUTÁRIO. EXTINÇÃO DA EXECUÇÃO FISCAL. MERA DECORRÊNCIA. CUMULAÇÃO DE HONORÁRIOS ADVOCATÍCIOS.
+1. Sendo a extinção da execução Fiscal consequência direta do que foi decidido em ação anulatória ou embargos à execução Fiscal, a jurisprudência desse Tribunal tem entendido que não há falar em condenação da exequente ao pagamento dos honorários advocatícios nos autos executivos.
+2. Apelação desprovida.
+Em suas razões, a parte recorrente apontaviolação do art. 85 do CPC/2015, sob o argumento de que (e-STJ fl. 297):
+quando houver sentença, deve haver remuneração ao procurador da parte vencedora pelo trabalho feito naquele processo. Logo, se há sentença em ambas as ações - anulatória e execução fiscal - deve ser fixada verba sucumbencial em ambas as ações.
+Tal entendimento é lógico e desnecessita de grandes explanações para ser compreendido: se o procurador atuou e desenvolveu seu trabalho ativamente em ambos os processos, mesmo que sejam conexos, deve ser remunerado em ambos. Isto porque as ações, embora conexas, são autônomas entre si.
+Pugna pela reforma da sentença com a condenação da parte recorrida ao pagamento de honorários advocatícios.
+Contrarrazões às e-STJ fls. 310/314.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 317.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Dito isso, verifica-se que o juízo sentenciante extinguiu o processo de execução fiscal sem resolução do mérito, nos termos do art. 485, IV, do CPC/2015(e-STJfl. 238), deixando de condenar a exequente em honorários de sucumbênciaao fundamento de que "o arbitramento da verba sucumbencial já foi analisado nos autos da ação ordinária supracitada, abrangendo os valores excluídos da CDA em execução nestes autos" (e-STJ fls. 238/239).
+O Tribunal de origem manteve a conclusão do juízo de primeira instância nos seguintes termos (e-TJ fls. 281/283):
+A União promoveu a execução fiscal em junho/12, e a parte executada, citada, ajuizou ação anulatória nº 5003984-34.2015.4.04.7112, visando a desconstituição dos créditos exequendos, em maio/15, tendo sido prolatada sentença, nestes autos, em 29.11.16, extinguindo a presente execução fiscal, e condenando a Fazenda Nacional ao pagamento de honorários advocatícios, na forma prevista nas alíneas I a V, do §3º, do art. 85, do CPC, os quais restaram majorados neste Regional, por força do art.85, §11, do mesmo diploma processual, em 10%.
+Em decorrência do trânsito em julgado da ação ordinária referida, restou extinta a execução fiscal, nos termos dos arts. 485, IV e 803, I, do CPC, sem condenação em honorários, pois já arbitrada a verba sucumbencial nos autos da demanda anulatória, abrangendo os valores excluídos da CDA em execução nestes autos.
+A parte executada, irresignada, interpôs Apelação, pretendendo a condenação da Fazenda Nacional ao pagamento de honorários advocatícios na execução fiscal, considerando o entendimento do STJ, no Tema Repetitivo 587, segundo o qual é possível a cumulação da verba honorária fixada nos embargos à execução com a arbitrada na própria execução contra a Fazenda Pública, bem como o fato de a ação anulatória equivaler aos embargos à execução fiscal.
+Entretanto, não lhe assiste razão.
+Percebe-se, na hipótese, que a extinção da presente execução fiscal foi consequência de decisão judicial transitada em julgado em outro processo.
+Ora, em situação como essa, em que a extinção da execução fiscal é consequência direta do que foi decidido em ação anulatória ou embargos à execução fiscal, a jurisprudência desse Tribunal tem entendido que não há falar em nova condenação da parte exequente ao pagamento dos honorários advocatícios nos autos executivos. Nesse sentido:
+ ..
+Ou seja, entende a jurisprudência ser descabida a condenação, por ter sido remunerado o labor do causídico na ação que deu origem à extinção do crédito.
+Ademais, apesar de, efetivamente, se equivalerem, na hipótese, a ação anulatória oposta pelo executado, e os embargos de devedor, não há falar em condenação em verba honorária, sob pena de dupla condenação.
+No tema 587, discutiu-se, sob a égide do CPC/1973, a cumulação de honorários fixados em execução de sentença contra a Fazenda Pública com aqueles fixados nos embargos à execução opostos pela Fazenda (honorários fixados em favor do exequente na execução somados àqueles decorrentes do seu êxito nos embargos opostos pela Fazenda Pública), bem como, na situação oposta, de compensação entre as verbas (honorários fixados em favor do exequente na execução compensados com aqueles devidos à Fazenda Pública em razão do seu êxito nos embargos).
+ ..
+Assim, sendo a extinção desta execução fiscal mero reflexo da sentença de ação anulatória, na qual já fixada a sucumbência em razão da cobrança indevida do débito, é indevida nova condenação desta natureza.
+Quanto ao tema, a orientação jurisprudencial desta Corte Superior é a de que a verba de sucumbência devida nas ações fiscais é independente daquelaarbitrada em ações conexas, como embargos do devedor ou ações anulatórias. Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. CUMULAÇÃO COM A CONDENAÇÃO EM AÇÃO ANULATÓRIA. POSSIBILIDADE. SÚMULA N. 568/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A condenação em honorários na ação de embargos à execução independe da existência de outra condenação no próprio juízo executivo ou na ação anulatória. Precedentes.
+III - O Relator está autorizado, por meio de decisão monocrática, a negar provimento a recurso ou pedido contrário à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ.
+IV - A Agravante não apresentou argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.616.301/RS, Rel.Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 22/08/2018).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO ANULATÓRIA E EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. CUMULATIVIDADE E QUANTIFICAÇÃO.
+1. Trata-se na origem de Execução Fiscal por débitos de ICMS referente a importação de peças de automóvel, no valor histórico de R$1.823,28.
+2. Tramitaram conjuntamente Ação Anulatória, Execução e os respectivos Embargos. A primeira foi julgada procedente para declarar nulo o auto de infração, em virtude da inconstitucionalidade da legislação estadual que previa a incidência do imposto sobre operação de importação de bens para uso próprio, com fixação de honorários em R$ 300,00. Por conseguinte, os Embargos foram julgados procedentes em razão da nulidade do título pela desconstituição da relação jurídico-tributária extraída da decisão da Ação Anulatória, com fixação de honorários em R$ 500,00.
+3. De acordo com a jurisprudência do STJ, não se tratando de valor irrisório ou exorbitante, rever o quantum fixado e os critérios utilizados pelo juiz levaria ao reexame do conteúdo fático-probatório dos autos, o que não se admite, nos termos do verbete da Súmula 7 do STJ.
+4. Embargos à Execução e Ação Anulatória são ações autônomas que não geraram litispendência, legitimando a incidência igualmente autônoma de honorários.
+5. Ainda que examinado pelo princípio da causalidade, o entendimento do Tribunal de origem (que não foi devolvido a este Tribunal pelo Recurso Especial ora em debate) atesta que a relação jurídico-tributária era inexistente. A partir dessas premissas, foi a Fazenda que "deu causa" tanto ao procedimento administrativo quanto ao judicial, tidos por indevidos.
+6. Agravo Regimental não provido.
+(AgRg no Ag1.400.158/PR, Rel.Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 09/09/2011).
+Nesse passo, verifica-se que a conclusão do aresto combatido está emdissonância com a jurisprudência desta Casa de Justiça.
+Todavia, tendo em vista que a fixação de honorários está relacionada a questões fáticas, notadamente os critérios previstos nos incisos do § 2ºdo art. 85do CPC de 2015, os quais devem ser sempre observados, ainda que o caso possibilite o arbitramento de tal condenação por equidade, devem os autos retornar ao Tribunal de origem para que sejaadequadamente estabelecido.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para reconhecer o cabimento de honorários na execução fiscal extinta em decorrência do resultado de ação autônoma, determinando o retorno dos autos ao Tribunala quopara que promova a fixação dos honorários.
+Publique-se. Intimem-se.
