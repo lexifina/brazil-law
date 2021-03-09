@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado(fl214):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-DOENÇA. REQUISITOS. QUALIDADE DE SEGURADO. INCAPACIDADELABORAL. PROVA.
+1. São três os requisitos para a concessão dos benefícios previdenciários por incapacidade: 1) a qualidade de segurado; 2) o cumprimento do período de carência, salvo nos casos excepcionados por lei; 3)a incapacidade para o trabalho, de caráter permanente (aposentadoria porinvalidez) ou temporário (auxílio-doença).
+2. O segurado portador de enfermidade que o incapacita definitivamente para a sua atividade habitual, com remota possibilidade de recuperação para outra profissão, considerando sua idade e condições pessoais, tem direito à concessão do benefício de aposentadoria por invalidez.
+Opostos embargos de declaração, foram rejeitados (fl. 246).
+Aponta o recorrente violação aos arts. 85, caput e § § 2º, 4º e 11 e 1.022, II, do CPC/2015, sustentando, além de negativa de prestação jurisdicional, que a majoração da verba sucumbencial foi desproporcional.
+Aduz que "a fixação dos honorários recursais apenas deve se dar a respeito daquilo que estiver afeto ao apelo sucumbente. Ante o exposto, podemos concluir que a majoração da verba sucumbencial em 50% daquela originalmente fixada, e sem levar em conta apenas a matéria devolvida pelo recurso, é manifestamente desproporcional, restando claro que a decisão recorrida viola os critérios do art. 85, §2 e §11 do CPC" (fl. 260).
+Ao final, "requer seja o recurso conhecido e provido, a fim de que haja a reforma do acórdão regional, afastando-se a majoração da verba sucumbencial: ou, subsidiariamente, para que a fixação dos honorários recursais se atenha ao proveito econômico do tema devolvido na apelação e observe ainda a proporcionalidade em relação à matéria objeto do recurso" (fl. 260).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fl. 263.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/15, pois o recorrente, nas razões dos embargos de declaração, alega que (fl. 231):
+Ademais, reitera o INSS os argumentos expendidos no item anterior, no sentido de que a fixação dos honorários recursais apenas deve se dar a respeito daquilo que estiver afeto ao Tribunal julgar. Ante o exposto, podemos concluir que a majoração da verba sucumbencial em 50% daquela originalmente fixada, e sem levar em conta apenas a matéria devolvida pelo recurso sucumbente, é manifestamente desproporcional, restando claro que a decisão embargada é omissa quanto aos critérios do art. 85, § 2º, e § 11 do CPC.
+Contudo, o Tribunal de origem quedou silente sobre tal argumentação, rejeitando os pertinentes aclaratórios do ora agravante, em franca violação ao art. 1.022 do CPC/15, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial para determinar o retorno dos autos à origem, a fim de que proceda a novo julgamento dos embargos de declaração lá opostos.
+Publique-se.
