@@ -1,0 +1,46 @@
+EMENTA
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. AÇÃO CIVIL PÚBLICA. ALEGAÇÃO DE OCORRÊNCIA DE IMPROBIDADE ADMINISTRATIVA. PRESIDENTE DA CÂMARA MUNICIPAL. AFASTAMENTO DETERMINADO NA ORIGEM E SUSPENSO EM SEDE DE ANTECIPAÇÃO DA TUTELA RECURSAL REQUERIDA. SUSPENSÃO DA LIMINAR DA CORTE LOCAL INDEFERIDA. LESÃO À ORDEM PÚBLICA. NÃO COMPROVAÇÃO.
+1. O deferimento do pedido de suspensão está condicionado à demonstração de interesse público e para evitar grave lesão à ordem, à saúde, à segurança ou à economia públicas, não servindo o instituto como sucedâneo recursal para exame do acerto ou do desacerto da decisão impugnada.
+2. O agravante não conseguiu demonstrar como a decisão impugnada poderia prejudicar a instrução processual de fatos pretéritos na ação civil pioneira.
+3. O incidente da suspensão de liminar e de sentença, por não ser sucedâneo recursal, é inadequado para a apreciação do mérito da controvérsia.
+Agravo interno improvido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Corte Especial do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Felix Fischer, Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO e pelo MINISTÉRIO PÚBLICO FEDERAL contra indeferimento do pedido de liminar (fls. 1.882-1.884) que requereu a suspensão da decisão proferida pela Desembargadora Nelma Celeste Souza Silva Costa, do Tribunal de Justiça do Estado do Maranhão (TJMA), que, por seu turno, deu provimento ao Agravo de Instrumento n. 0800485-50.2019.8.10.0000 para determinar a recondução de Josebeliano Chagas Farias, ora interessado, ao cargo de Presidente da Câmara de Vereadores de Açailândia (MA).
+O referido agravo faz referência à ação civil pública por ato de improbidade administrativa contra o agravado, que, em decisão proferida pelo Juízo de primeiro grau, fora afastado cauterlamente da Presidência da Câmara Municipal de Açailândia. Contra tal decisão o ora agravado interpôs agravo de instrumento na Corte local, ao qual foi dado provimento para determinar seu imediato retorno ao cargo de Presidente, sob o argumento de não ter sido comprovado o risco de prejuízo à instrução processual.
+O Ministro João Otávio de Noronha, então Presidente do Superior Tribunal de Justiça, entendeu que o requerente não apresentou elementos concretos para a comprovação da ofensa aos bens tutelados pela legislação de regência, restando nítido o caráter recursal do pleito suspensivo, assim como deixou de demonstrar o efetivo risco de prejuízo à instrução processual, rejeitando a pretensão suspensiva.
+No recurso apresentado contra essa decisão (fls. 1.886-1.901), o agravante reitera a alegação da ocorrência de grave lesão à ordem pública, uma vez que a decisão de afastamento cautelar do agravado do exercício da Presidência da Câmara de Vereadores de Açailândia se mostra necessária, tendo em vista que sobre ele pesam fortes suspeitas de prática de atos de improbidade administrativa e de crime, em razão do apontado desvio da quantia de R$ 281.283,07 dos cofres públicos.
+O agravante igualmente questiona a possibilidade jurídica de admissibilidade do agravo de instrumento interposto no segundo grau do Tribunal de Justiça do Estado de São Paulo, bem como os fundamentos jurídicos adotados pela Desembargadora Nelma Celeste Souza Silva Costa na decisão que se buscou suspender com a presente medida de contracautela.
+O agravado, apesar de devidamente notificado (fl. 1.917), deixou de apresentar impugnação ao presente recurso.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. AÇÃO CIVIL PÚBLICA. ALEGAÇÃO DE OCORRÊNCIA DE IMPROBIDADE ADMINISTRATIVA. PRESIDENTE DA CÂMARA MUNICIPAL. AFASTAMENTO DETERMINADO NA ORIGEM E SUSPENSO EM SEDE DE ANTECIPAÇÃO DA TUTELA RECURSAL REQUERIDA. SUSPENSÃO DA LIMINAR DA CORTE LOCAL INDEFERIDA. LESÃO À ORDEM PÚBLICA. NÃO COMPROVAÇÃO.
+1. O deferimento do pedido de suspensão está condicionado à demonstração de interesse público e para evitar grave lesão à ordem, à saúde, à segurança ou à economia públicas, não servindo o instituto como sucedâneo recursal para exame do acerto ou do desacerto da decisão impugnada.
+2. O agravante não conseguiu demonstrar como a decisão impugnada poderia prejudicar a instrução processual de fatos pretéritos na ação civil pioneira.
+3. O incidente da suspensão de liminar e de sentença, por não ser sucedâneo recursal, é inadequado para a apreciação do mérito da controvérsia.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O Ministério Público do Estado do Maranhão, irresignado com a decisão de fls. 1.882-1.884, que indeferiu o pedido de suspensão da decisão liminar proferida pela Desembargadora Nelma Celeste Souza Silva Costa, do Tribunal de Justiça do Estado do Maranhão, manejou o presente agravo interno.
+A decisão que se busca suspender foi originariamente proferida em ação civil pública por ato de improbidade administrativa contra o ora agravado, que o afastou cautelarmente da Presidência da Câmara Municipal de Açailândia.
+Contra tal decisão o agravado interpôs agravo de instrumento, ao qual foi dado provimento para determinar seu imediato retorno ao mencionado cargo, sob o argumento de não ter sido comprovado o risco de prejuízo à instrução processual na origem.
+Repise-se que a mens legis do instituto da suspensão de segurança ou de sentença é o estabelecimento de prerrogativa justificada pelo exercício da função pública na defesa do interesse do Estado.
+Tal instituto não tem natureza jurídica de recurso, razão pela qual não propicia a devolução do conhecimento da matéria para eventual reforma e não possibilita a análise quanto ao mérito discutido na ação de origem.
+A sua análise deve restringir-se à verificação de possível lesão à ordem, à saúde, à segurança ou à economia públicas nos termos da legislação de regência.
+No presente caso, o agravante justifica o pedido de contracautela ao argumento de lesão à ordem pública ocasionada em razão da decisão proferida pelo juízo reformador, que, em antecipação de tutela, possibilitou o retorno do agravado ao exercício da Presidência da Câmara Municipal de Açailândia para o mandato 2018/2020, ora encerrado, no qual teriam ocorrido atos de improbidade administrativa.
+As razões apresentadas não conseguiram demonstrar concretamente a relação entre o afastamento do cargo e o prejuízo na instrução processual dos fatos pretéritos indicativos dos desvios em apuração a comprometer a suposta violação da norma suspensiva de regência.
+Destaque-se ainda que, não obstante o mérito da questão de fundo ainda se encontrar sub judice, a medida suspensiva não pode ser a via eleita para a reforma das questões jurisdicionais que envolvem o mérito da demanda.
+Esta Corte possui o entendimento de que a suspensão de segurança não se afeiçoa como sucedâneo recursal para possível apreciação do mérito da controvérsia. Nesse sentido, confira-se precedente:
+AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA À ORDEM E À SAÚDE PÚBLICAS, BEM COMO À ORDEM JURÍDICA; ESTA ÚLTIMA NÃO CONSTA DO ROL DOS BENS TUTELADOS PELA LEI DE REGÊNCIA. AGRAVADA VENCEU EM CINCO LOTES DE PREGÃO ELETRÔNICO, POSTERIORES AO PEDIDO SUSPENSIVO INDEFERIDO. FALTA DE PLAUSIBILIDADE DAS ALEGAÇÕES DE GRAVE LESÃO. AGRAVO INTERNO DESPROVIDO.
+1. O pedido de suspensão visa à preservação do interesse público e supõe a existência de grave lesão à ordem, à saúde, à segurança ou à economia públicas, sendo, em princípio, seu respectivo cabimento, alheio ao mérito da causa. É uma prerrogativa da pessoa jurídica de direito público ou do Ministério Público decorrente da supremacia do interesse público sobre o particular, cujo titular é a coletividade, cabendo ao postulante a efetiva demonstração da alegada ofensa grave a um daqueles valores.
+2. Tal pedido, por sua estreiteza, é vocacionado a tutelar tão somente os citados bens tutelados pela lei de regência (Leis n.ºs 8.437/92 e 12.016/2009), não podendo ser manejado como se fosse sucedâneo recursal, para que se examine o acerto ou desacerto da decisão cujos efeitos pretende-se sobrestar. Sustentada alegação de lesão à "ordem jurídica" não existe no rol dos bens tutelados pela lei
+de regência.
+3. A ora Agravada ainda presta serviço ao Agravante, com participação em certames licitatórios no âmbito do fornecimento de refeições hospitalares, tendo vencido em cinco lotes de pregão eletrônico, posteriores ao pedido de suspensão indeferido. Ausência da plausibilidade sustentada pelo Agravante, no tocante às graves lesões à ordem e à saúde públicas.
+4. Agravo interno desprovido. (AgInt na SS n. 2.887/BA, relatora Ministra Laurita Vaz, Corte Especial, DJe de 27/9/2017.)
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Relator
