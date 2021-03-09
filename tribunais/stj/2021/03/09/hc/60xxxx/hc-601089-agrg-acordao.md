@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PENAL.AGRAVO REGIMENTAL NOHABEAS CORPUS. DELITODE ROUBO MAJORADO. REGIME INICIAL PARA O CUMPRIMENTO DA PENA. CONCURSO DE AGENTES. GRAVE AMEAÇA. EMPREGO DE ARMA DE FOGO. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. REGIME FECHADO. DECISÃO MANTIDA.
+1.Na fixação do regime inicial de cumprimento de pena, deve o julgador, nos termos doart. 33, §§ 1º, 2º e 3º, do Código Penal, observar a quantidade da pena aplicada, bem como a primariedade do agente e a existência das circunstâncias judiciais desfavoráveis do art. 59 do CP.
+2. Admite-se a imposição de regime prisional mais gravoso do que o indicado pelo quantum da pena quando presente a gravidade concreta do delito, evidenciada pelo modus operandi.
+3. Ainda que oréusejaprimárioe não apresentecircunstâncias judiciais desfavoráveis,é correta a fixação do regime inicial mais gravoso para o cumprimento da pena quandoo delito de roubofoi praticado em concurso de agentes, mediante grave ameaça, exercida com emprego de arma de fogo para forçar a vítima a entregarobjetos,o que evidencia maior periculosidade doagente.
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre amatériasuscitada.
+5. Agravo regimental desprovido.
+RELATÓRIO
+FÁBIO LUCAS DUTRA DOS SANTOS e WESLLEY PASSOS GOMES MENDONÇA interpõem agravo regimental contra a decisão monocrática que não conheceu do habeas corpus.
+Inicialmente,discorrem sobreos fatos da causa.
+Após, alegam (fl. 276):
+Não basta repetir a fórmula legal, e tampouco expressar fundamentos genéricos para justificar a imposição de regime prisional mais gravoso que o estabelecido no art. 33, §§ 2º e 3º, do Código Penal, pois é indispensável apontar objetivamente se a conduta praticada desbordou dos limites traçados no figurino legal, o que, data venia, não ocorreu no caso trazido ao tapete das discussões.
+Em um crime de roubo circunstanciado pelo emprego de arma de fogo, o ato de apontar a arma para a vítima é circunstância integrante do tipo crime. Portanto, apontar a arma para a cabeça, para o peito ou a perna da vítima, com a devida vênia não altera a essência do delito, de forma a ensejar o recrudescimento do tratamento penal a ser ministrado.
+Colacionam jurisprudência sobre a matéria.
+Requerem a reconsideração da decisão ou o regular processamento doagravo regimentalpara julgamento pela Turma para a concessão da ordem efixação do regime semiaberto para o início do cumprimento da pena.
+O Ministério Público Federal opinoupelo desprovimento do agravo regimental (fls. 296-299).
+O Ministério Público do Estado do Rio de Janeiro apresentoucontrarrazões (fls. 310-319).
+É o relatório.
+EMENTA
+DIREITO PENAL.AGRAVO REGIMENTAL NOHABEAS CORPUS. DELITODE ROUBO MAJORADO. REGIME INICIAL PARA O CUMPRIMENTO DA PENA. CONCURSO DE AGENTES. GRAVE AMEAÇA. EMPREGO DE ARMA DE FOGO. GRAVIDADE CONCRETA DO DELITO. MODUS OPERANDI. REGIME FECHADO. DECISÃO MANTIDA.
+1.Na fixação do regime inicial de cumprimento de pena, deve o julgador, nos termos doart. 33, §§ 1º, 2º e 3º, do Código Penal, observar a quantidade da pena aplicada, bem como a primariedade do agente e a existência das circunstâncias judiciais desfavoráveis do art. 59 do CP.
+2. Admite-se a imposição de regime prisional mais gravoso do que o indicado pelo quantum da pena quando presente a gravidade concreta do delito, evidenciada pelo modus operandi.
+3. Ainda que oréusejaprimárioe não apresentecircunstâncias judiciais desfavoráveis,é correta a fixação do regime inicial mais gravoso para o cumprimento da pena quandoo delito de roubofoi praticado em concurso de agentes, mediante grave ameaça, exercida com emprego de arma de fogo para forçar a vítima a entregarobjetos,o que evidencia maior periculosidade doagente.
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre amatériasuscitada.
+5. Agravo regimental desprovido.
+VOTO
+O recurso não reúne condições de êxito.
+Considerandoo que dispuseram as instâncias ordinárias acerca do pleito de fixaçãoderegime inicial menos gravoso, a decisão agravada dispôs o seguinte(fl. 271):
+Quanto à fixação do regime inicial para o cumprimento de pena, deve o julgador, nos termos dos arts. 33, §§ 1º, 2º e 3º, do Código Penal, observar a quantidade da pena aplicada, bem como a primariedade do agente e a existência das circunstâncias judiciais desfavoráveis do art. 59 do Código Penal.
+Ademais, admite-se a imposição de regime prisional mais gravoso do que o indicado pelo quantum da pena quando presente a gravidade concreta do delito, evidenciada pelo modus operandi.
+No presente caso, não obstante a inexistência de circunstâncias judiais desfavoráveis e a primariedade dos réus, correta a fixação do regime inicial mais gravoso para o cumprimento da pena, porque o delito de roubo foi praticado em concurso de agentes, mediante grave ameaça, exercida com o emprego de arma de fogo, que foi apontada para a cabeça das vítimas visando à entrega dos objetos roubados, o que evidencia maior periculosidade dos agentes.
+Diante do entendimento acima, não há falar em flagrante ilegalidadeque legitimea concessão da ordemde ofício.
+Afundamentação é idônea e está amparada na jurisprudência doSuperior Tribunal de Justiça.
+Assim, deve ser mantido o entendimento de que, não obstante a inexistência de circunstâncias judiciais desfavoráveis e a primariedade dos réus, é correta a fixação do regime inicial mais gravoso para o cumprimento da pena, porque o delito de roubo foi praticado em concurso de agentes, mediante grave ameaça, exercida com o emprego de arma de fogo, que foi apontada para a cabeça das vítimas, forçando-as aentregar objetos, o que evidencia maior periculosidade dos agentes.
+A propósito, confiram-se os seguintes julgados:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO CIRCUNSTANCIADO. REGIME FECHADO. ENUNCIADO N. 440 DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ. NÃO INCIDÊNCIA. GRAVIDADE CONCRETA. MODUS OPERANDI. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal -STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se constatada flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais do art. 59 do Código Penal -CP ou de outro dado que demonstre a extrapolação da normalidade do tipo.Na hipótese, o paciente praticou o delito demonstrando ousadia, abordando a vítima em plena via pública, mediante concurso de agentes e, sobretudo, com uso de arma de fogo, artefato que possui grande potencial lesivo. Todos esses elementos, em conjunto, demonstram a maior gravidade do delito e a elevada periculosidade do paciente, justificando, assim, a aplicação do regime fechado.Precedentes.
+3. Habeas corpus não conhecido.(HC n. 602.016/RJ, relatorMinistro JoelIlanPaciornik, QuintaTurma, DJe de 23/10/2020.)
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CABIMENTO. ROUBO DUPLAMENTE CIRCUNSTANCIADO. PLEITO DE INCIDÊNCIA DA SÚMULA N. 440/STJ. INAPLICABILIDADE. REGIME FECHADO ESTABELECIDO MOTIVADAMENTE. GRAVIDADE CONCRETA DA CONDUTA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, não tem admitido a impetração de habeas corpus em substituição ao recurso próprio, prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ, visto permitir a concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+- Nos termos da jurisprudência pacífica desta Corte, a definição do regime prisional não está condicionada, de forma absoluta, à quantidade de pena aplicada, uma vez que se deve dar relevo aos demais elementos concretos do delito.
+- Na hipótese, não se verifica constrangimento ilegal na fixação do regime inicial fechado, em razão da gravidade concreta do crime, o que foi destacado pelo Tribunal a quo, ao enfatizar o modus operandi do delito, o qual extrapolou a prática delituosa comum para o tipo, tendo em vista a participação organizada de dois agentes, a violência física exacerbada, o uso de arma de fogoapontada à vítima, a qual foi abordada enquanto estava no interior do estabelecimento comercial em que trabalhava, após a destruição da porta de vidro que a protegia. Precedentes desta Corte.
+- Habeas corpus não conhecido. (HC n. 432.357/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 12/4/2018.)
+PENAL. ROUBO MAJORADO (ART. 157, § 2º, II e V, DO CP). CONTINUIDADE DELITIVA. PLEITO DE APLICAÇÃO DA DESISTÊNCIA VOLUNTÁRIA COM RELAÇÃO AO SEGUNDO FATO. NÃO RECONHECIMENTO PELAS INSTÂNCIAS DE ORIGEM POR AUSÊNCIA DE VOLUNTARIEDADE E INTENÇÃO DE PRATICAR O ILÍCITO COM RELAÇÃO A COISA DIVERSA. DESISTÊNCIA DELIBERADA PELO COMPARSA (MANDANTE). POSSIBILIDADE DE O EXECUTOR (RECORRENTE) PROSSEGUIR NA EMPREITADA CRIMINOSA. DESISTÊNCIA VOLUNTÁRIA CONFIGURADA. APLICAÇÃO DO ART. 15 DO CP DEVIDA. REGIME INICIAL FECHADO. GRAVIDADE CONCRETA. MODO MAIS SEVERO DEVIDAMENTE JUSTIFICADO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. O art. 15 do Código Penal determina que nos casos em que o agente, voluntariamente, desiste de prosseguir na execução só responde pelos atos já praticados. Assim, nota-se que, para a caracterização da desistência voluntária, o agente deve, livre de coação física ou moral, deixar de praticar os atos, ainda que estejam a sua disposição.
+2. É devido o reconhecimento da figura descrita no art. 15 do CP, mesmo que a ordem de cessar a realização dos atos executórios tenha partido do comparsa (mandante), inclusive porque a finalização da empreitada criminosa ainda estaria disponível ao recorrente (executor).
+3. Com relação ao regime inicial, tem-se que esta Corte superior entende que, ainda que as circunstâncias pessoais do acusado sejam todas favoráveis e o quantum de pena indique a possibilidade de modo prisional mais brando, é possível o seu recrudescimento quando baseado em fundamento concreto.
+4. Hipótese em que as características do roubo ultrapassaram o comum à espécie, notadamente pelo fato de a arma ter sido apontada para a cabeça da vítima, afigurando-se correta a fixação de regime inicial fechado.
+5. Recurso especial parcialmente provido para reconhecer a desistência voluntária com relação ao 2º fato, redimensionando-se a reprimenda nos termos do voto. (REsp n. 1.500.416/SP, relator Ministro Nefi Cordeiro, Sexta Turma DJe de 14/8/2017.)
+Dessa forma, deveser mantidaintegralmente a decisão agravada,cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
