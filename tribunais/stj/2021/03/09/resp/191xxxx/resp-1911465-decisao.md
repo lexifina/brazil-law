@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJPR assim ementado (e-STJ fl. 615):
+APELAÇÃO CÍVEL - DIREITO PROCESSUAL CIVIL - AÇÃO DE COBRANÇA - COTAS CONDOMINIAIS - SENTENÇA DE PARCIAL PROCEDÊNCIA - IRRESIGNAÇÃO AUTORAL - HONORÁRIOS ADVOCATÍCIOS CONVENCIONAIS DEFINIDOS EM 20% DE MONTANTE EVENTUALMENTE PERSEGUIDO JUDICIALMENTE - IMPOSSIBILIDADE DE PREDEFINIÇÃO DAVERBA HONORÁRIA A SER ARBITRADA PELO JUÍZO E IMPOSTA AO SUCUMBENTE NOS TERMOS DO ART. 82, § 2º, E 85DO CPC/15 - DESCABIDA A INCLUSÃO DE HONORÁRIOS CONTRATUAIS NA CONDENAÇÃO MATERIAL DO SUCUMBENTE - PRECEDENTES - RECURSO CONHECIDO E NÃO PROVIDO.
+No recurso especial (e-STJ fls. 628/638), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente alega ofensa ao art. 50, I, da convenção do condomínio e 389, 395 e 404 do CC/2002 e dissídio jurisprudencial.
+Sustenta que (e-STJ fls. 631/636):
+O juízo a quo e ad quem afastaram a fixação dos honorários contratuais previstas no regimento interno do condomínio em seu art. 50, inciso I, se omitindo ainda acerca de tal previsão, arguindo "não se fazer possível a pré-fixação de honorários de sucumbência", a r. decisão dos juízos, no tocante a não condenação do recorrente ao pagamento dos honorários contratuais merece reforma pelos motivos que seguem abaixo. De fato, não se trata de honorários de sucumbência pré-fixados, mas sim de honorários contratuais definidos no regimento interno do condomínio, os quais se originam através da convenção doscondôminos, sendo ratificados pela assembleia geral, sendo assim vinculam todos os proprietários dos imóveis junto ao recorrente.
+ .. é uníssono o entendimento acerca da possibilidade da condenação ao pagamento dos honorários contratuais nas obrigações oriundas do inadimplemento de cotas condominiais,
+ .. há verossimilhança na pretensão do recorrente, pois os honorários de sucumbência fixados pelo juízo a quo estão muito aquém do estabelecido na convenção e no regimento interno do condomínio, pelas quais se estabelecem o percentual de 20% sob o débito inadimplido.
+ .. Além da previsão regimental arguida acima, tal ressarcimento a título de honorários contratuais possuem resguardo no Código Civil Brasileiro  ..
+A recorrida apresentou contrarrazões (e-STJ fls. 649/661).
+O recurso foi admitido na origem (e-STJ fls. 677/678).
+É o relatório.
+Decido.
+Inicialmente, destaca-se que o artigo da convenção de condomínio não se enquadra no conceito de lei federal estabelecido nasalíneas do inciso III do art. 105da CF.
+A Corte local assim decidiu (e-STJ fls. 617/618):
+Diante do requerido, o Juízo afastou a incidência da cobrança (mov. 89.1), por entender que "não se a quo faz possível a pré-fixação de honorários de sucumbência, eis que a atividade de arbitramento é privativa do magistrado, impassível de delegação aos particulares".
+Com efeito, nos termos da legislação processual civil, em especial ao art. 82, §2º e art. 85, a condenação ao pagamento das despesas processuais e honorários advocatícios é medida a ser imposta ao vencido em demanda judicial pelo Juízo  ..
+Logo, não se pode olvidar que a regra convencional não se sobrepõe à lei.
+Ademais, em que pese o demandante enfatize a distinção entre a natureza dos honorários advocatícios de sucumbência dos convencionais, cediço o entendimento no Superior Tribunal no sentido de que os honorários advocatícios de origem contratual não compõem a indenização a título de perdas e danos prevista nos arts. 389, 395 e 404 do Código Civil, e, portanto, não podem ser objeto de ressarcimento,  ..
+Outrossim, diferentemente do que alega o apelante, a jurisprudência não é pacífica quanto à possibilidade de cobrança de honorários convencionais do condômino demandado em Juízo, prevalecendo, em verdade, o entendimento no sentido contrário  ..
+A jurisprudência deste Tribunal é firme no sentido de que, no caso da atuação judicial do advogado, a condenação do vencido se limita aos honorários de sucumbência, não havendo previsão legal para se acrescentar uma condenação ao ressarcimento dos honorários contratuais. A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.PROCESSUAL CIVIL. AÇÃO MONITÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. RESSARCIMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS PARA DEFESA DOS INTERESSES DA PARTE EM JUÍZO.IMPOSSIBILIDADE. SÚMULA 83/STJ. AGRAVO IMPROVIDO.
+1. Ainda que não examinados individualmente cada um dos argumentos suscitados pela parte, se o acórdão recorrido decide integralmente a controvérsia, apresentando fundamentação adequada, não há que se falar em ofensa ao art. 1.022 do CPC/2015. Nos termos da jurisprudência consolidada do Superior Tribunal de Justiça, "Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução" (REsp 1.814.271/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 1º/7/2019).
+2. Os honorários advocatícios contratuais são de responsabilidade da parte contratante, cabendo à parte contrária apenas os honorários sucumbenciais. "A Corte Especial e a Segunda Seção do STJ já se pronunciaram no sentido de ser incabível a condenação da parte sucumbente aos honorários contratuais despendidos pela vencedora.(..)" (AgInt no AREsp 1.332.170/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 07/02/2019, DJe de 14/02/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1675516/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/11/2020, DJe 18/12/2020.)
+RECURSOS ESPECIAIS. PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO INDENIZATÓRIO. PARCERIA AGRÍCOLA. LUCROS CESSANTES. COMPROVAÇÃO. AUSÊNCIA. DEVER DE FUNDAMENTAÇÃO. ART. 489, § 1º, IV, DO CPC/2015. OBSERVÂNCIA. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. RESSARCIMENTO. INADMISSIBILIDADE. GRAU DE SUCUMBÊNCIA.AFERIÇÃO. MATÉRIA FÁTICA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação de resolução de contratos de parceria agrícola cumulada com pedido de indenização por lucros cessantes.
+3. Nos termos do art. 489, § 1º, IV, do CPC/2015, não se considera fundamentada a decisão judicial que não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador.
+4. Apresenta fundamentação adequada o acórdão que, ao entender que a parte autora não comprovou a existência de lucros cessantes, deixa de se pronunciar a respeito das conclusões do laudo pericial que, no contexto examinado, serviriam apenas para a quantificação de eventuais prejuízos.
+5. Os custos decorrentes da contratação de advogados não são indenizáveis, sob pena de atribuir ilicitude a qualquer pretensão questionada judicialmente. Ademais, a atuação judicial na defesa de interesses das partes é inerente ao exercício regular de direitos constitucionais, como o contraditório, a ampla defesa e o amplo acesso à Justiça.
+6. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser inviável, em recurso especial, a revisão do grau de sucumbência em que autor e réu saíram vencidos na demanda, porquanto implicaria análise do conteúdo fático-probatório. Incidência da Súmula nº 7/STJ.
+7. Recursos especiais parcialmente conhecidos e, nessa extensão, não providos.
+(REsp 1837453/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/03/2020, DJe 13/03/2020.)
+Incide, portanto, a Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Publique-se e intimem-se.
