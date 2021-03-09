@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado contra ato do Secretário de Segurança Pública e Defesa Social do Estado do Espírito Santo, que objetivaa anulação da Portaria n.º 062-S, publicada em 15.02.12, que designou o autor para exercer a função de Delegado Titular do 8º Distrito Policial, em Goiabeiras.
+Observou-se que o ato indicado como ilegal ocorreu em 2012, havia fundada dúvida se ainda operava efeitos.
+Por cautela, em atenção ao disposto nos arts. 10 e 317 do CPC, intimou-se a parte recorrente para, no prazo de 15 (quinze) dias, manifestar-se fundamentadamente sobre a provável perda superveniente do objeto da ação, ciente, naquele momento, de que em caso de inércia o feito poderia ser extinto sem exame de mérito.
+Embora extemporaneamente, o recorrente insiste na necessidade de julgamento do recurso. Afirma que: a) "a transferência arbitrária é uma forma de assédio moral, de moeda de opressão. E a relevância dos motivos em que se assenta o pedido deve-se observar que as lesões morais, psicológicas e profissionais, a que o Recorrente foi submetido jamais poderão ser compensadas a contento, especialmente porque a sua dignidade não tem preço"; b) "desde fevereiro de 2012, o Impetrante deixou de receber os valores relativos às funções de chefias que deveria estar ocupando na Instituição Policial Civil."
+Entendo não demonstrado o interesse recursal.
+Conforme antecipei, de modo a evitar qualquer tipo de surpresa, cuidando-se de ato praticado em 2012, seria factível presumir não haver mais interesse no julgamento do mérito do recurso, porque dificilmente o ato ainda estaria válido.
+A presunção, porém, poderia ser facilmente elidida com simples demonstração de perpetuação dos efeitos do ato apontado como ilegal, ou ao menos fundamentação clara nesse sentido.
+Todavia, em petição, a parte recorrente se limita a alegar genericamente manutenção no interesse recursal, porque supostamente pretende ver reconhecida a ilegalidade como forma de reconhecimento de um abalo moral sofrido pelo impetrante, ou mesmo obter eventual reparação material pelo afastamento do autor das chefias as quais poderia ter desempenhado.
+Ocorre que o processo em apreço não tem natureza declaratória, mas mandamental. Sem mais existir eventual ato ilegal a ser corrigido, não pode o writ ter seguimento com o fim exclusivo de atestar direito em abstrato.
+Além disso, as questões associadas a eventual abalo moral ou material sofrido pelo autor sequer eram objeto do mandamus, o qual, corretamente, limitava-se a obter a exclusão dos efeitos do ato supostamente ilegal.
+Ante o exposto, JULGO EXTINTO o presente mandado de segurança com fundamento no art. 485, VI, do CPC, por não estar demonstrado a manutenção do interesse de agir.
+Custas ex lege.
+Sem condenação em honorários (Súmula n. 105/STJ).
