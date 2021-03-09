@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por SERGIO DA SILVA SANDI, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fls. 211):
+"APELAÇÃO CRIMINAL - RECEPTAÇÃO - PRINCÍPIO DA INSIGNIFICÂNCIA - REPROVABILIDADE - HABITUALIDADE DELITIVA - VALOR CONSIDERÁVEL DA RES - CIÊNCIA DA ORIGEM ILÍCITA - INDUÇÃO - ART. 239 DO CPP - PENA - CORREÇÃO - FATOS POSTERIORES COM TRÂNSITO EM JULGADO ANTERIOR - REINCIDÊNCIA NÃO VERIFICADA - EXTINTA A PUNIBILIDADE - REGIME INICIAL MODIFICADO AO ABERTO - RECURSO PARCIALMENTE PROVIDO."
+Nas razões do recurso especial, o recorrente sustenta a violação do art. 44 do Código Penal, ao argumento de que o v. acórdão recorrido deixou de deferir a substituição da pena privativa de liberdade em restritiva de direitos utilizando de fundamentos diversos dos requisitos exigidos na lei.
+Assevera ser " cabível a substituição da pena privativa de liberdade por pena restritiva de direitos, nos termos do artigo 44, inciso I, do Código Penal, tendo em vista que a pena cominada não foi superior a 4 anos, o crimenão foi cometido com violência ou grave ameaça à pessoa e o apelante é primário" (fl. 239).
+Apresentadas as contrarrazões (fls. 264-268), o recurso foi admitido na origem e os autos ascenderam a esta eg. Corte de Justiça.
+O Ministério Público Federal apresentou parecer pelo provimento do recurso especial (fls. 291-296).
+É o relatório.
+Decido.
+Consta dos autos que o ora recorrente foi condenado, em primeira instância, como incurso na sanção do art. 180, caput, do Código Penal, à pena de 1 (um) ano, 5 (cinco) meses e 15 (quinze) dias de reclusão, em regime inicial fechado.
+Em segunda instância, o eg. Tribunal a quo deu parcial provimento ao recurso de apelação da defesa para reduzir a pena imposta ao recorrente, e abrandar-lhe o regime inicial, negando-lhe, contudo, a possibilidade de substituição da pena privativa de liberdade por restritiva de direitos.
+A questão a ser analisa cinge-se à verificação dos requisitos legais para a concessão da substituição da pena privativa de liberdade por restritiva de direitos. Colhe-se do v. acórdão guerreado (fl. 215):
+"Incabível a substituição da pena privativa de liberdade por penas restritivas de direitos, pois, como se depreende dos autos, trata-se de indivíduo já em cumprimento de pena em regime fechado.
+Consequentemente, nos termos do art. 44, § 5º, do Decreto-Lei n.º 2.848/1940 (CP), eventual substituição da sanção corporal resultaria na reconversão em sede de execução"
+Verifica-se que a conclusão quanto à impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos merece reparo.
+Não obstante as considerações do eg. Tribunal de origem, no sentido de verificar que o apena já cumpre pena em regime fechado por outro delito, no caso em tela, a sua pena final não ultrapassa quatro anos, o crime foi cometido sem violência ou grave ameaça e as suas circunstâncias judiciais são todas favoráveis. Desse modo, estão preenchidos os requisitos insertos no art. 44 do Código Penal.
+Nesse sentido:
+"PENAL. HABEAS CORPUS SUBSTITUTO DE RECURSO ESPECIAL. NÃO CABIMENTO. RECEPTAÇÃO. PENA-BASE ACIMA DO MÍNIMO LEGAL. VÍTIMA QUE NÃO CONTRIBUIU PARA O DELITO. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Somente em situações excepcionais, o Superior Tribunal de Justiça procede ao reexame da individualização da sanção penal, notadamente quando é flagrante a ofensa aos critérios legais que regem a dosimetria da resposta penal ou a ausência de fundamentação.
+3. Hipótese em que as instâncias ordinárias consideraram que a comportamento da vítima não influenciou a prática delitiva, porém o Tribunal a quo utilizou tal fundamento para elevar a pena-base, sem demonstrar como a referida circunstância extrapolou os limites normais do tipo penal.
+4. Esta Corte Superior possui o entendimento de que o comportamento neutro da vítima não pode ser considerado como desfavorável ao réu na dosimetria da pena. Precedentes.
+5. Sendo as circunstâncias judiciais favoráveis ao paciente e presentes os requisitos do art. 44 do Código Penal, é possível, em tese, a substituição da pena privativa de liberdade por restritivas de direito.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar a pena-base no mínimo legal, a qual torna-se definitiva em 1 ano de reclusão e 10 dias-multa, e determinar ao Juízo da Vara de Execuções Criminais que verifique a viabilidade da substituição da pena privativa de liberdade por penas restritivas de direitos, a serem por ele definidas." (HC 203.754/MS, Quinta Turma, Rel. Ministro Gurgel de Faria, DJe 01/09/2015)
+Dessa forma, verifico nos autos que as circunstâncias judiciais são favoráveis ao recorrente e estão presentes os requisitos do art. 44 do Código Penal, sendo, portanto, autorizada a substituição da pena privativa de liberdade por restritivas de direito, cuja escolha ficará à critério do Juízo das Execuções.
+Ante o exposto, com fulcro no art. 255, § 4º, inciso III, do Regimento Interno do STJ, dou provimento ao recurso especial, nos termos da fundamentação retro.
+P. e I.
+EMENTA
+PENAL. RECURSO ESPECIAL. RECEPTAÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. ART. 44 DO CP. REQUISITOS PREENCHIDOS. SÚMULA 568/STJ. RECURSO ESPECIAL PROVIDO.
