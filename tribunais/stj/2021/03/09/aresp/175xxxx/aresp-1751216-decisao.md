@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por GILVANETE DE ASSUNÇÃO OLIVEIRAcom fundamento nasalíneas "a" e "c" do permissivo constitucionalcontra acórdão assim ementado (e-STJ fls. 295/296):
+APELAÇÃO CÍVEL AÇÃO ORDINÁRIA  SERVIDOR PÚBLICO MUNICIAL APOSENTADO PELO DO RGPS  EXONERAÇÃO DE OFÍCIO IMPOSSIBILIDADE - DIREITO AO RETORNO DAS FUNÇÕES, SEM PAGAMENTO DOS VENCIMENTOS RETROATIVOS, ANTE A INEXISTÊNCIA DE PRESTAÇÃO DE SERVIÇO JULGAMENTO PARCIALMENTE PROCEDENTE DO PEDIDO SENTENÇA REFORMADA PARCIALMENTE.
+O STF, n O julgamento da ADI 1721, sedimentou o entendimento de que a aposentadoria voluntária não configura hipótese derompimento automático do vínculo, uma vez que a relação previdenciária entre o trabalhador e o INSS é diverso do vínculo firmado entre referido trabalhador e seu empregador.
+Conforme já decidiu esta Corte de Justiça, a aposentadoria voluntária do servidor público pelo RGPS não é causa de extinção automática do vínculo estatuário mantido com a Administração quando o Servidor não percebe qualquer verba previdenciária do mesmo ente a que está vinculado. Em respeito ao princípio da vedação do enriquecimento ilícito, não tendo havido a prestação do serviço, não pode haver o pagamento dos vencimentos.
+  RECURSO CONHECIDO E PARCIALMENTE PROVIDO  DECISÃO UNÂNIME.
+No especial, a parte recorrente defende, além de divergência jurisprudencial,ofensa do art. 884 do Código Civil, porquanto o requisito necessário para se caracterizar a ilicitude do enriquecimento é "que ele ocorra sem justa causa. Ora, como a exoneração ilícita se deu, obviamente, por iniciativa do ente público não há caracterização da ilegalidade" (e-STJ fl. 365).
+Contrarrazões (e-STJ fls. 418/429).
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo n. 3).
+Feita essa consideração, observa-se que a irresignação recursal merece prosperar.
+Com efeito,é firme o entendimento do Superior Tribunal de Justiça, no sentido de que a pronúncia da nulidade do ato de demissão que redunda na reintegração de servidor público ao cargo de origem, ainda que ele se encontre em estágio probatório, opera efeitos ex tunc, de modo a garantir o pagamento integral das vantagens pecuniárias que seriam pagas no período do indevido desligamento do serviço público.
+Nessa esteira:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. REINTEGRAÇÃO. DIREITO AO RESSARCIMENTO DE TODAS AS VANTAGENS. ACÓRDÃO RECORRIDO CONSOANTE A JURISPRUDÊNCIA DESTE CORTE.
+1. A jurisprudência desta Corte Superior é firme no sentido de que "o servidor reintegrado deve ser ressarcido dos vencimentos a que faria jus desde o desligamento indevido, a fim de restabelecer a situação injustamente desconstituída" (AgRg no AREsp 165.575/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/11/2013, DJe 29/11/2013). Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.276.939/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/08/2018, DJe 23/08/2018).
+ADMINISTRATIVO. SERVIDOR PÚBLICO. OFENSA AO ART. 535 DO CPC/1973 NÃO CARACTERIZADA. REINTEGRAÇÃO. EFEITOS FINANCEIROS RETROATIVOS.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. A decisão que declara a nulidade do ato de demissão e determina a reintegração de servidor público ao cargo de origem, ainda que em estágio probatório, opera efeitos ex tunc, ou seja, restabelece o in statu quo ante, de modo a garantir o pagamento integral das vantagens pecuniárias que seriam pagas no período do indevido desligamento do serviço público. (STJ, AgRg no REsp 1284571 / SP, rel. Ministro Napoleão Nunes Maia Filho, DJe 19.5.2014; STJ, AgRg no REsp 1.372.643/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22/5/2013; AgRg no REsp 1424447/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/10/2015, DJe 22/10/2015.
+3. Recurso Especial não provido.(REsp 1.676.137/GO, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 14/09/2017).
+Assim, incide, na espécie, a Súmula 83 do STJ.
+Ante o exposto, com base no art. 253, II, parágrafo único, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial erestabelecer a sentença.
