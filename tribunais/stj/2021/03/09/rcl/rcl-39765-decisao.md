@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de reclamação, com pedido de liminar, ajuizada por EDUARDO DE FARIA JÚNIOR contra a TURMA DE UNIFORMIZAÇÃO DO SISTEMA DOS JUIZADOS ESPECIAIS DO ESTADO DE SÃO PAULO, que objetivapreservar a competência desta Corte Superior para apreciar e julgar pedido de uniformização de interpretação de lei federal fundado no art. 18, § 3º, da Lei 12.153/2009.
+O reclamante sustenta, em suma, que a reclamada, ao rejeitar o pedido de uniformização, usurpou a competência do Superior Tribunal de Justiça prevista no aludido dispositivo legal.
+Às e-STJ fls. 239/240, deferi o pedido de liminar para suspender os efeitos da decisão impugnada, até ulterior julgamento da presente reclamação.
+Solicitadas as informações à Turma Recursal do Juizado Especial do Estado de São Paulo,a autoridade reclamada permaneceu inerte, apesar de reiterados pedidos desta Casa de Justiça (e-STJ fls. 238,247 e 290).
+O Ministério Público Federal manifestou-se às e-STJ fls. 286/288.
+Passo a decidir.
+Da análise dos autos, verifica-se que o ora requente apresentou pedido de uniformização de interpretação de lei federal com respaldo no art. 18, § 3º, da Lei 12.153/2009, confrontando o acórdão recorrido, proferido pela Turma Recursal do Juizado Especial da Fazenda de São Paulo/SP, com o entendimento das Turmas Recursais do Rio Grande do Sul e desta Corte de Justiça (e-STJ fls. 22/31), e que a autoridade reclamada não conheceu de tal incidente (e-STJ fls. 211/215 e 226).
+Alega o reclamante, em suma, a possibilidade de expedição de Carteira Nacional de Habilitação - CNH definitiva a motorista que cometa, na qualidade de proprietário do veículo, e não de condutor, infração administrativa que não coloque em risco a segurança no trânsito ou a coletividade.
+Como é sabido, a Lei n. 12.153/2009, que trata dos Juizados Especiais da Fazenda Pública, disciplina um sistema próprio de uniformização jurisprudencial, mediante o denominado pedido de uniformização de interpretação de lei, o qual poderá ser processado e julgado tanto pelo Poder Judiciário local quanto pelo Superior Tribunal de Justiça, a depender da divergência apontada. Se instaurada entre acórdãos de Turmas Recursais de um mesmo Estado, o pedido será apreciado pela reunião dessas Turmas Recursais, sob a presidência de um desembargador indicado pelo
+Tribunal de Justiça (art. 18, § 1º); se instaurada entre acórdãos de Turmas Recursais de diferentes Estados ou quando o acórdão recorrido estiver em desacordo com súmula do STJ, a este caberá decidir (art. 18, § 3º).
+Frise-se que a citada Lei n. 12.153/2009 não prevê juízo prévio de
+admissibilidade pela Turma Recursal, cabendo a esta apenas processar o pedido, intimar a parte recorrida para responder ao reclamo e, depois disso, remeter os autos ao Superior Tribunal de Justiça, sob pena de usurpação de competência desta Corte.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO RECORRIDA PROFERIDA POR TURMA RECURSAL DO JUIZADO ESPECIAL DE INTERESSE DA FAZENDA PÚBLICA (LEI N. 12.153/2009). REGIME PRÓPRIO DE SOLUÇÃO DE DIVERGÊNCIA (ARTS. 18 E 19 DA LEI N. 12.153/2009). CABIMENTO DA RECLAMAÇÃO PREVISTA NO ART. 105, I, "F", DA CF/88 PARA DAR SEGUIMENTO AO PEDIDO DE UNIFORMIZAÇÃO DIRIGIDO AO STJ.
+1. Quando houver somente uma Turma Recursal no Estado, a existência de divergência com Turma Recursal de Estado diferente ou a divergência com a jurisprudência dominante do STJ abre a possibilidade de Pedido de Uniformização a ser julgado pelo Superior Tribunal de Justiça - STJ, na forma do art. 18, §3º, da Lei n. 12.153/2009.
+2. A negativa de processamento do Pedido de Uniformização assim interposto enseja violação do referido artigo de lei e usurpação da competência do STJ que pode ser preservada mediante o remédio da reclamação constitucional (art. 105, I, "f", da CF/88). Precedentes: Rcl 16.909 / RS, Primeira Seção, Rel. Min. Benedito Gonçalves, julgado em 27.05.2015; Rcl 12.381-DF, Primeira Seção, Rel. Min. Herman Benjamin, DJe 18.9.2013.
+3. Reclamação julgada procedente para determinar o processamento do Pedido de Uniformização (Rcl 28.980/RO, Rel. Ministro MAURO CAMPBELL
+MARQUES, PRIMEIRA SEÇÃO, julgado em 25/02/2016, DJe 31/03/2016).
+CONSTITUCIONAL E PROCESSUAL CIVIL. RECLAMAÇÃO. PEDIDO DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. ART. 18, § 3º, DA LEI N. 12.153/2009. PROCESSAMENTO INDEFERIDO PELA TURMA RECURSAL. USURPAÇÃO DA COMPETÊNCIA DESTA CORTE.
+1. A decisão do Juiz Presidente da Turma Recursal que inadmite o processamento do pedido de uniformização previsto no art. 18, § 3º, da Lei
+n. 12.153/2009 usurpa a competência desta Corte Superior.
+2. A tese do juízo preliminar de admissibilidade não pode ser albergada, por inexistir, no Juizado da Fazenda Pública, previsão desse procedimento e, sobretudo, de recurso cabível.
+3. Reclamação julgada procedente (Rcl 17.120/RS, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), PRIMEIRA SEÇÃO, julgado em 09/12/2015, DJe 17/12/2015)
+A propósito, veja-se, ainda: Rcl 37.780/SP, rel. Ministro OG FERNANDES, Primeira Seção, DJe 1/8/2019; Rcl 28.630/RO, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Seção, DJe 22/6/2018.
+Ante o exposto, JULGO PROCEDENTE o pedido deduzido na reclamação, para determinar à autoridade reclamada que processe o pedido de uniformização de interpretação de lei, encaminhando-o oportunamente para esta Corte Superior.
+Transcorrido(um) ano sem que a autoridade reclamada tenha prestadoas informações solicitadas napresente reclamação, não obstante os reiterados pedidos desta Corte Superior,oficie-se à Corregedoriado Tribunal de Justiça de São Paulo, para que, ciente do presente caso, adote as medidas que entender cabíveis.
+Publique-se. Intimem-se.
