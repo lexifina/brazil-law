@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo regimental para conhecer do recurso especial e negar-lhe provimento, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. VIOLAÇÃO DO ART. 33, § 2º, DO CP. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. PRIMARIEDADE. PENA DEFINITIVA DISPOSTA EM 4 MESES E 20 DIAS DE RECLUSÃO. DESPROPORCIONALIDADE NA FIXAÇÃO DO REGIME SEMIABERTO. PARECER FAVORÁVEL DO MPF. DECISÃO RECONSIDERADA.
+1. Não se desconhece a jurisprudência desta Corte Superior no sentido da exasperação do regime prisional quando presentes circunstâncias judiciais negativas.
+2. Contudo, nos termos do parecer do Ministério Público Federal, levando em consideração que o agravante é primário e foi condenado a uma pena privativa de liberdade inferior a quatro anos, com apenas uma circunstância judicial desfavorável -maus antecedentes, cuja condenação já foi alcançada pelo período depurador -, com suporte na proporcionalidade, tenho que o regime aberto é suficiente e adequado para a reprovação e prevenção de outros delitos.
+3. Agravo regimental providopara conhecer do recurso especial e negar-lhe provimento.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Helton da Silva Primak contra a decisão da Presidência desta Corte, que não conheceu do agravo em do recurso especial por ele manejado (fls. 230/231).
+Sustenta o agravante que a questão relativa à referida súmula (83/STJ) foi tratada, ainda que de modo amplo, pela abordagem da nulidade absoluta da decisão recorrida com base no art. 93, IX, da Constituição, por ausência de fundamentação, já que a decisão recorrida não levantou elemento concreto ligado ao caso em tela, se limitou a elementos genéricos e de cunho abstrato, tanto que foi pleiteado de forma subsidiária que, caso não conhecido o agravo.  ..  Além do mais, caso não seja entendimento de V. Excelências que a decisão não está fundamentada, é cristalino que o Agravo em Recurso especial atacou a fundamentação da decisão, inclusive quanto à Súmula 83 (fl. 242).
+Ao final da peça recursal, pede o conhecimento e provimento do recurso para a) em juízo de retratação, conhecer e prover o Agravo em Recurso especial e submeter o Recurso Especial inadmitido para julgamento; b) inexistindo retratação, pede-se a que o presente recurso seja devidamente processado e submetido a julgamento pelo colegiado, com seu posterior provimento (fl. 244).
+Instadoa manifestar-se (fl. 253), o Ministério Público Federal colacionou as contrarrazões de fls. 254/257, anuentes com o pleito formulado.
+PENAL E PROCESSUAL PENAL. Furto qualificado tentado. Condenação à pena de quatro meses e vinte dias de reclusão, em regime inicial semiaberto. Recurso especial não admitido. Agravo em recurso especial não conhecido, com fundamento na Súmula nº 182/STJ. Agravo interno. Procedência. Impugnação específica aos fundamentos da decisão agravada. Satisfação do requisito da dialeticidade. Agravo em recurso especial que deve ser conhecido. Mérito. Procedência. Alegada violação ao art. 33, § 2º, do CP demonstrada. O Agravante é primário e foi condenado a uma pena privativa de liberdade inferior a quatro anos, com apenas uma circunstância judicial desfavorável - maus antecedentes, cuja condenação já foi alcançada pelo período depurador. Regime aberto que se mostra suficiente e adequado para a reprovação e prevenção de outros delitos. Princípio da proporcionalidade. Parecer pelo provimento do agravo interno e do agravo em recurso especial, para que seja conhecido e provido o especial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO TENTADO. VIOLAÇÃO DO ART. 33, § 2º, DO CP. PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. PRIMARIEDADE. PENA DEFINITIVA DISPOSTA EM 4 MESES E 20 DIAS DE RECLUSÃO. DESPROPORCIONALIDADE NA FIXAÇÃO DO REGIME SEMIABERTO. PARECER FAVORÁVEL DO MPF. DECISÃO RECONSIDERADA.
+1. Não se desconhece a jurisprudência desta Corte Superior no sentido da exasperação do regime prisional quando presentes circunstâncias judiciais negativas.
+2. Contudo, nos termos do parecer do Ministério Público Federal, levando em consideração que o agravante é primário e foi condenado a uma pena privativa de liberdade inferior a quatro anos, com apenas uma circunstância judicial desfavorável -maus antecedentes, cuja condenação já foi alcançada pelo período depurador -, com suporte na proporcionalidade, tenho que o regime aberto é suficiente e adequado para a reprovação e prevenção de outros delitos.
+3. Agravo regimental providopara conhecer do recurso especial e negar-lhe provimento.
+VOTO
+Conheço da presente insurgência, notadamente por estar satisfeito o requisito da dialeticidade.
+No que se refere ao pleito de abrandamento do regime inicial, assim dispôs a Corte a quo (fls. 171/173):
+ ..
+No tocante à dosimetria da pena, pequeno reparo a ser feito.
+Na primeira fase, em razão das circunstâncias judiciais do artigo 59 do Código Penal serem desfavoráveis ao apelante, notadamente os maus antecedentes, a pena -base foi fixada em 01 ano e 02 meses de reclusão e pagamento de 11 dias -multa.
+ ..
+Na terceira fase, tendo em vista se tratar de delito na forma tentada e o quantum de diminuição de 2/3 fixado na r. sentença, perfaz-se a pena definitiva de 04 (quatro) meses e 20 (vinte) dias de reclusão, e pagamento de 03 (três) dias -multa.
+Com relação ao regime de início de cumprimento de pena, ainda que afastada a reincidência, o acusado ostenta maus antecedentes, portanto cabível o estabelecimento de regime mais rigoroso para início de cumprimento da pena privativa de liberdade. Mantenho, neste contexto, o regime semiaberto imposto na sentença.
+ ..
+Não se desconhece a jurisprudência desta Corte Superior, no sentido da exasperação do regime prisional, quando presentes circunstâncias judiciais negativas.
+Contudo, nos termos do parecer do Ministério Público Federal, levando em consideração que o agravante é primário e foi condenado a uma pena privativa de liberdade inferior a quatro anos, com apenas uma circunstância judicial desfavorável -maus antecedentes, cuja condenação já foi alcançada pelo período depurador (fl. 257) -, com suporte na proporcionalidade, tenho que o regime aberto é suficiente e adequado para a reprovação e prevenção de outros delitos.
+Ante o exposto, dou provimento ao agravo regimentalpara conhecer do recurso especial e negar-lhe provimento.
