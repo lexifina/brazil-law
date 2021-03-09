@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo BANCO NACIONAL DE DESENVOLVIMENTO ECONÔMICO E SOCIALem face de decisão monocrática sintetizada na seguinte ementa:
+ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO RESCISÓRIA. ERRO NA INTIMAÇÃO DO PATRONO NA AÇÃO ORIGINÁRIA. PREJUÍZO COMPROVADO. RECURSO ESPECIAL PROVIDO.
+O embargante sustenta que o conjunto fático probatório dos autos já foi analisado pelo Tribunal de origem e que se omitiuem examinar "os demais pontos do conjunto fático probatório firmado pelo Acórdão proferido pelo TRF2, uma vez que não somente na publicação de pauta de julgamento da ação de origem foi feita no nome de "Silvério Cabral", mas também em fls. 1845/1859, 1868, 1884, 1892, 1904,1989 e 2006, sendo que em nenhuma das manifestações subsequentes da recorrente foi suscitada irregularidade, acarretando, por consequência, a preclusão e a inexistência de qualquer nulidade"(e-STJ, fl. 2.811).
+Houve apresentação de impugnação aos embargos de declaração.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+Para que os aclaratórios, que são recurso de fundamentação vinculada, possam prosperar, faz-se necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição, omissão ou - como previsto na novel legislação - erro material em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+No caso dos autos, não há falar omissão no tocante aos demais pontos do conjunto fático probatório dos autos, que não teriam sido examinados na decisão embargada.
+Com efeito, na decisão embargada foi consignado que a "diferença entre o nome completo do procurador (Silvério Luiz Nery Cabral) e o nome que constou na publicação (Silvério Cabral) não pode ser qualificada como erro insignificante e não causador de prejuízo à ciência dos procuradores da parte, de modo que fica evidenciado que a intimação não cumpriu sua finalidade de cientificação da parte" e que "houve a comprovação do prejuízo, pois a parte ora recorrente não ofertou a sustentação oral pretendida e teve seu recurso de apelação desprovido na ação originária".
+Acrescente-se que as intimações que o embargante referiu em sua razões recursais dizem respeito, como consta no acórdão do Tribunal de origem, a despachos publicados antes do acórdão cuja rescisão é visada pelo embargado, de modo que essa circunstância não tem a aptidão de fazer precluir o vício de intimação quanto ao julgamento da apelação.
+Destarte, o que se verifica é que o embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração. Como já explicitado inicialmente, os declaratórios apenas são cabíveis nos casos de omissão, obscuridade, contradição ou erro material, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+Sobre o tema, os seguintes precedentes desta Corte Superior:
+EMBARGOS DE DECLARAÇÃO REJEITADOS. PRESCRIÇÃO. NÃO OCORRÊNCIA. TÍTULO EXECUTIVO JUDICIAL ILÍQUIDO. EXECUÇÃO DO JULGADO COLETIVO DE FORMA INDIVIDUALIZADA. NECESSIDADE. REPETITIVO. NÃO APLICAÇÃO.
+ ..
+4. A atribuição de efeitos infringentes, em Embargos de Declaração,somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de qualquer dos vícios previstos no art. 1.022 do CPC/2015.
+5. Embargos de Declaração rejeitados.
+(EDcl no REsp 1725784/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/08/2018, DJe 20/11/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. NÃO OCORRÊNCIA. HIPÓTESE DE SUPOSTO ERROR IN JUDICANDO. AUSÊNCIA DE IMPUGNAÇÃO OPORTUNA. TRÂNSITO EM JULGADO. AGRAVO INTERNO NÃO PROVIDO.
+1. O erro material, passível de ser corrigido de ofício, e não sujeito à preclusão, é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito.
+2. No caso, o alegado equívoco constante na decisão do agravo em recurso especial quanto à aplicação da Súmula 115 do STJ, haja vista a suposta presença nos autos da procuração/substabelecimento que conferiu poderes ao advogado Dr. Lucas Diniz Ayres de Freitas, OAB/SP nº 238.140, subscritor do agravo e do recurso especial, não configura hipótese de erro material, mas sim, de erro no conteúdo decisório propriamente dito do julgado (error in judicando), o qual, porém, não foi impugnado no momento oportuno, por meio da interposição do recurso adequado. Portanto, incabível a apresentação intempestiva de petição para corrigi-lo, depois de exaurida a prestação jurisdicional desta Corte, ante a ocorrência do trânsito em julgado.
+3. Agravo interno não provido.
+(AgInt nos EDcl na PET no AREsp 860.223/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/09/2017, DJe 25/09/2017)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. AÇÃO RESCISÓRIA.INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. INCONFORMISMO DO EMBARGANTE. EFEITOS INFRINGENTES. INVIABILIDADE. ORIENTAÇÃO JURISPRUDENCIAL DO STJ. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
