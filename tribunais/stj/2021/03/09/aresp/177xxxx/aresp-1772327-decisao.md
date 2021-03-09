@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO BRADESCO S/A, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em:10/02/2020.
+Concluso ao gabinete em:28/01/2021.
+Ação:de cobrança expurgos inflacionários do Plano Verão, em fase de cumprimento de sentença, ajuizada por PREVINOR ASSOCIAÇÃO DE PREVIDÊNCIA PRIVADAem desfavor de BANCO ECONÔMICO S/A - EM LIQUIDAÇÃO JUDICIAL, sucedido pelo BANCO BRADESCO S/A.
+Decisão interlocutória:homologou cálculos realizados pelo contador judicial.
+Acórdão:negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. EXPURGOS INFLACIONÁRIOS DO PLANO VERÃO SOBRE APLICAÇÕES FINANCEIRAS. Cumprimento de sentença. Preliminares de cerceamento de defesa e de nulidade da decisão. Rejeição. Decisão interlocutória que rejeitou a impugnação e homologou o laudo pericial. Cálculos elaborados pelo perito que estão em consonância com a sentença e o acórdão. Esclarecimentos do perito acerca dos índices a serem utilizados nos cálculos. Decisum que determinou o pagamento da diferença da correção monetária do Plano Verão. A questão referente à correção monetária dos expurgos inflacionários do Plano Verão (janeiro 1989/índice de 42,74%) sobre as aplicações financeiras é incontroversa. Discussão em sede de cumprimento de sentença que se restringe ao quantum debeatur. Pretensão de atacar o conteúdo do título executivo judicial. Impossibilidade, nos termos do art. 509, § 4º, do CPC. Mero inconformismo com o resultado da perícia que não autoriza a realização de uma nova. Precedentes. RECURSO A QUE SE NEGA PROVIMENTO.
+Embargos de declaração:opostos pelo agravante, foram rejeitados.
+Recurso especial:alega violação dos arts. 7º, 11, 189, 479, 480, 489, §1º e, IV, 934, 935, 1.022, II, e 1024, todos do CPC/2015. Aponta negativa de prestação jurisdicional, ao argumento de que "nenhum dos fundamentos lançados pelo ora recorrente em seu agravo de instrumento foramanalisados". Sustentacerceamento de defesa, tendo em vista que"o acórdão recorrido manteve a r. decisão agravada que homologou os cálculos apresentados pelo i. Perito, sem apreciar o pedido de realização de nova perícia";que o Tribunal não lhe oportunizou a promoção de sustentação oral; e que "a vagueza dos termos da r. decisão de primeiro grau foi confirmada pelo v. acórdão recorrido que, limitando-se a repetir a conformidade dos cálculos com os termos da sentença  sem explicar como e o porquê -, não apresentou qualquer justificativa para sua homologação".
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca dos pontos tidos por omissos, nos seguintes termos:
+Primeiramente, rejeita-se a preliminar de cerceamento de defesa, na medida em que foi oportunizada ao agravante se manifestar sobre o laudo, conforme se verifica às fls. 813 e 849, tendo o perito do Juízo prestado as informações (fls. 901) que entendeu pertinentes para esclarecimentos acerca dos cálculos elaborados.
+Também não há que se falar em nulidade da decisão interlocutória, porquanto encontra-se devidamente fundamentada, na forma do art. 93, IX, da CR, explicitando os motivos que levaram à homologação do laudo e à negativa de realização de nova perícia.
+No mérito, verifica-se que os cálculos elaborados pelo perito estão em consonância com o que foi determinado na sentença, e confirmado pelo acórdão.
+Ademais, verifica-se que a questão referente à correção monetária dos expurgos inflacionários do Plano Verão (janeiro 1989/índice de 42,74%) sobre as aplicações financeiras da agravada é incontroversa, conforme definido na sentença e confirmado pelo acórdão (index 145 do apenso):
+(..)
+Na verdade, o agravante pretende se eximir de pagar o valor a que foi condenado por sentença transitada em julgado, sob o pretexto de que nada deve à agravada. Ora, a discussão acerca do direito ao recebimento dos expurgos já foi ultrapassada. O que se discute aqui é apenas o quantum debeatur, devendo ser afastada a tese do agravante.
+Dessa forma, o cumprimento da sentença deve se ater ao dispositivo do decisum que transitou em julgado, o que foi respeitado pelos cálculos realizados pelo perito do Juízo, conforme se verifica às fls. 901.
+Nota-se que a controvérsia foi dirimida de forma clara, de maneira que os embargos de declaração opostos pelo banco agravante,de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art.1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram, de forma objetiva, como o acórdão recorrido violou os arts. 7º, 11, 189, 479, 480, 934, 935, e 1024, do CPC/2015, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+No que concerne aos argumentos recursais atinentes ao cerceamento dedefesa ante ao indeferimento de neva perícia contábil, bem como à alegação de nulidade do julgamento dos embargos de declaração, o TJ/RJ consignou que (i) "o cumprimento da sentença deve se ater ao dispositivo do decisum que transitou em julgado, o que foi respeitado pelos cálculos realizados pelo perito do Juízo, conforme se verifica às fls. 901"; que (ii) "o embargante protocolou os embargos de declaração aos 08/08/19 e o julgamento foi realizado aos 14/08/19, na sessão imediatamente subsequente, conforme regra específica do art. 1.024, § 1º, do CPC (..), o embargante não comprova qualquer prejuízo por ocasião do julgamento dos aclaratórios, ressaltando-se que, em sede de declaratórios, não é facultada a sustentação oral, consoante se infere do artigo 937 do CPC"; e que (iii) "à míngua de qualquer prejuízo comprovado, descabe reconhecer a nulidade do julgado, mormente porque tal declaração implicaria a mera renovação do ato processual, sem qualquer proveito à celeridade processual e ao devido processo legal".
+Assim, alterar o decidido no acórdão impugnado exige o reexame de fatos e
+provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários na fase recursal, nos termos do art. 85, § 11, do CPC/15, ante a ausência de fixação na origem.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de cobrança de expurgos inflacionários,em fase de cumprimento de sentença.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, improvido.
