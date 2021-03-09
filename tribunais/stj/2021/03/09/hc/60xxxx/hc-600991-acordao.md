@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, conceder o habeas corpusnos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO VÁLIDA. ANTERIOR CONDENAÇÃO.PEQUENA QUANTIDADE DE ENTORPECENTES (15,1 G DE COCAÍNA E 45,8 G DE MACONHA). MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. LIMINAR CONFIRMADA.
+1. Não obstante as relevantes considerações formuladas pelas instâncias ordinárias, relativas à anterior condenação do réupor outro crime, as demais circunstâncias descritas nos autos revelam que a aplicação de medidas alternativas à prisão mostram-se suficientes para evitar a reiteração delitiva, notadamente por se tratarde apreensão de 15,1 g de cocaína e 45,8 g de maconha. Precedentes.
+2. Ordem concedida parasubstituir a prisão preventiva imposta ao paciente por medidas cautelares a serem fixadas pelo Juízo de origem, sem prejuízo da decretação da custódia provisória em caso de descumprimento de qualquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+RELATÓRIO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Caue Rodrigues da Silva, apontando-se constrangimento ilegal praticado pelo Tribunal de Justiça de São Paulo, que, nos autos do HC n. 2137300-72.2020.8.26.0000, denegou a ordem, mantendo-o preso preventivamente pela suposta prática de conduta descrita no art. 33, caput, da Lei n. 11.343/2006 (Processo n. 1512880-47.2020.8.26.0228, em curso na 1ª Vara Criminal da comarca de São Paulo/SP).
+Consta dos autos que o paciente foi preso em flagranteem 16/6/2020, por guardar e trazer consigo, para fins de tráfico, 15,1 g de cocaína e 45,8 g de maconha.
+Sustenta a impetrante, em resumo, que estão ausentes os fundamentos e requisitos autorizadores da custódia preventiva; que o acusado possui bons predicados pessoais, e o crime não envolve violência ou grave ameaça à pessoa, de modo que aplicáveis, ao caso, os termos da Recomendação n. 62/2020 do Conselho Nacional de Justiça; que a prisão em flagrante é ilegal, uma vez que inexiste materialidade delitiva apta a caracterizar o suposto fato criminoso.
+Requer, inclusive em caráter liminar, a expedição de ordem liberatória em favor do paciente.
+Deferi a medida de urgência parasubstituir a prisão preventiva imposta ao paciente por medidas cautelares a serem fixadas pelo Juízo de origem (fls. 76/77).
+Informações àfl. 83.
+Parecer do Ministério Público Federal opinando pelo não conhecimento da impetração (fls. 102/103).
+Na origem, a ação penal encontra-se em fase de instrução - há audiência designada para o dia 29/3/2021.
+É o relatório.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO VÁLIDA. ANTERIOR CONDENAÇÃO.PEQUENA QUANTIDADE DE ENTORPECENTES (15,1 G DE COCAÍNA E 45,8 G DE MACONHA). MEDIDAS CAUTELARES ALTERNATIVAS À PRISÃO. PROPORCIONALIDADE, SUFICIÊNCIA E ADEQUAÇÃO. LIMINAR CONFIRMADA.
+1. Não obstante as relevantes considerações formuladas pelas instâncias ordinárias, relativas à anterior condenação do réupor outro crime, as demais circunstâncias descritas nos autos revelam que a aplicação de medidas alternativas à prisão mostram-se suficientes para evitar a reiteração delitiva, notadamente por se tratarde apreensão de 15,1 g de cocaína e 45,8 g de maconha. Precedentes.
+2. Ordem concedida parasubstituir a prisão preventiva imposta ao paciente por medidas cautelares a serem fixadas pelo Juízo de origem, sem prejuízo da decretação da custódia provisória em caso de descumprimento de qualquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
+VOTO
+Apesar da custódia estar fundamentada na renitência delituosa do réu(existência de condenação em primeiro grau por outro crime - fl. 36), a quantidade de entorpecentesapreendida é pequena (15,1 g de cocaína e 45,8 g de maconha - fl. 60) e não há indicativo, nos autos, de queele se dedique aotráfico de grandes proporções.
+Apesar das relevantes considerações expressadas pelas instânciasordinárias,as demais circunstâncias descritas neste feito revelam que aaplicação de medidas alternativas à prisão mostram-se suficientes paraevitar a reiteração delitiva.
+Repito, a apreensão de 15,1 g de cocaína e 45,8 g de maconhanão pode ser considerada de grandemonta.Outrossim, consta do auto de prisão em flagrante que não foram localizadastestemunhas, tampouco usuários, de modo que a traficância fora presumidaem razão da proximidade do acusado a um ponto de venda de drogas e dosobjetos e da soma em dinheiro (R$ 169,00 - cento e sessenta e nove reais) apreendidos em seu poder (fls. 41/64).
+A propósito doque se tem neste writ,os seguintes precedentes da SextaTurma desta Corte:HC n. 469.324/SP, Ministro Antonio Saldanha Palheiro, DJe 21/3/2019; e o RHC n. 127.942/MG, da minha relatoria, DJe 3/9/2020.
+Osargumentos referentes à ausência de materialidade delitiva (fl. 6) não foram alegados nem debatidos na Corte de origem. Inviável, portanto, a pretendida supressão de instância.
+Ante o exposto, confirmando a liminar, concedo a ordem para substituir a prisão preventiva imposta ao paciente por medidas cautelares a serem fixadas pelo Juízo de origem, sem prejuízo da decretação da custódia provisória em caso de descumprimento de qualquer das obrigações impostas por força das cautelares ou de superveniência de motivos concretos para tanto.
