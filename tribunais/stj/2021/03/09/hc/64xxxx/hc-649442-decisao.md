@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Roberto Morais Alves contra acórdão de apelação proferido pelo Tribunal de Justiça de Minas Gerais nos autos da Ação Penal n. 1.0702.18.006514-7/001, assim ementado (fl. 14):
+APELAÇÃO CRIMINAL - ROUBO MAJORADO TENTADO - CONDUTA TIPIFICADA NO ARTIGO 157, §2º, INCISO I, C/C ARTIGO 14, INCISO II, AMBOS DO CÓDIGO PENAL - APLICAÇÃO DA FRAÇÃO MÁXIMA REFERENTE À TENTATIVA - ITER CRIMINIS PERCORRIDO - NÃO CABIMENTO. - Para a fixação do quantum de redução pela tentativa, deve-se analisar o iter criminis percorrido pelo agente, isto é, se a conduta se aproximou ou não do resultado pretendido. Na hipótese, diante das particularidades do caso em comento, tendo sido percorrida grande parte da atuação delitiva em busca do resultado lesivo almejado, afigura-se correta a fração aplicada pelo magistrado a quo, não havendo razão para que seja alterada. V.V.: Para escolha da fração da mais adequada para minoração da pena em virtude da tentativa, deve a autoridade judiciária considerar o iter criminis percorrido pelo agente. Se o agente empregou violência ou grave ameaça à pessoa, mas não iniciou a subtração da res furtiva, a pena deve ser reduzida de metade. A expedição de mandado de prisão para execução provisória da pena privativa de liberdade é desnecessária e desproporcional quando fixado o regime aberto, baseado na autodisciplina e senso de responsabilidade do condenado.
+Narram os autos que o Juízoda Primeira Vara Criminal de Uberlândia/MG condenou o paciente a 3 anos, 6 meses e 20 dias de reclusão, em regime aberto, pela prática do crime do art. 157, § 2º, I, na forma do art. 14, II, do Código Penal, garantido o direito de recorrer em liberdade.
+Mantida a condenação, o Tribunal de Justiça mineiro determinou a expedição de mandado de prisão, destacando a necessidade da segregação cautelar.
+A defesa alega, na presente impetração, constrangimento ilegal na segregação cautelar decorrente do acórdão confirmatório da condenação, por entender que o regime aberto fixado é incompatível com a decretação da prisão preventiva.
+É o relatório.
+Ao que se observa, oimpetrante não juntou aos autos documentos essenciais ao deslinde da controvérsia relacionados ao paciente, notadamente os acórdãos do Tribunal de Justiça mineiro que se seguiram ao da apelação, apreciando a necessidade da segregação cautelar.
+O habeas corpus não comporta dilação probatória e exige prova pré-constituída das alegações. Cabe ao impetrante o ônus processual de produzir elementos documentais consistentes, destinados a comprovar as alegações suscitadas no writ.
+Nesse sentido, por exemplo: HC n. 317.882/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 31/8/2015; e RHC n. 45.789/RJ, Ministro Newton Trisotto (Desembargador convocado do TJ/SC), Quinta Turma, DJe 30/9/2015.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PEÇAS ESSENCIAIS À COMPROVAÇÃO DAS ALEGAÇÕES.
+Writ não conhecido.
