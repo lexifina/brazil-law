@@ -1,0 +1,60 @@
+DECISÃO
+1. Trata-se de conflito positivo de competência, com pedido de liminar, instaurado por DOCE SERVIÇOS ADMINSTRATIVOS LTDA, em que aponta como suscitados o Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo - SP e o Juízo da 5ª Vara do Trabalho de São Paulo - SP.
+Alega a suscitante que o Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo - SP decretou a falência da empresa Soemeg Terraplanagem, Pavimentação e Construções Ltda em 23/9/2016.
+Nada obstante a decretação da falência da referida empresa, informa que o juízo laboral, nos autos da reclamação trabalhista nº 0001407-25.2015.5.02.0005 reconheceu a formação de grupo econômico entre a suscitante a empresa Soemeg, determinando a inclusão da suscitante no polo passivo do processo executivo e, por conseguinte, a penhora do imóvel de propriedade da suscitante (matrícula n. 107.368 - 15º Cartório de Registro Imóveis de São Paulo), sendo designada a realização de leilão para o próximo dia 03/11/2020.
+Assere que jamais existiu grupo econômico entre a suscitante e a empresa falida, ao passo que entende ser indevido o prosseguimento da execução trabalhista contra si, sendo imperativo que o credor trabalhista receba o crédito no âmbito do processo falimentar, a teor do regramento previsto no art. 76 da Lei 11.101/2005.
+Nesta linha, requereu a concessão de liminar para "em caráter inaudita altera pars, seja determinado o imediato sobrestamento do processo trabalhista 0001407-25.2015.5.02.0005, que tem curso perante a Suscitada 5ª Vara do Trabalho de São Paulo - SP, determinando-se, a desconstituição da penhora que recaiu sobre o imóvel da Suscitante Doce, caracterizado como o de Matrícula 107.368, perante o 15º Cartório de Registro de Imóveis de são Paulo, localizado na rua Tapaxamas, s/nº, Lote 42, Quadra 01, Parque Petrópolis, no 22º Subdistrito Tucuruvi, São Paulo - SP, e mais, seja determinado o cancelamento do Leilão designado para o dia 03/11/2020, ou, na hipótese de vir este a ter se realizado, anular eventual arrematação, restituindo-se o preço pago a eventual licitante, restabelecendo-se assim o status quo ante, determinando, por fim, a competência exclusiva da Suscitada 2ª Vara de Falências e Recuperações Judiciais da Comarca da Capital de São Paulo.
+O pedido liminar foi indeferido, haja vista a não demonstração dos requisitos necessários, especialmente, a probabilidade do direito vindicado.
+Irresignada com o indeferimento do pedido liminar, a suscitante interpôs o agravo interno de fls. 118-132.
+Informações dos Juízos suscitados às fls. 259-262 e 264-267.
+O Ministério Público Federal opinou pelo não conhecimento do conflito em parecer ementado nos seguintes termos:
+Conflito positivo de competência. Justiça Comum Estadual e Justiça Especializada do Trabalho. Recuperação judicial. Ausência de controvérsia. Súmula 480/STJ.
+Parecer pelo não conhecimento do conflito de competência.
+É o relatório.
+DECIDO.
+2. O conflito não merece ser conhecido.
+É certo que a jurisprudência desta Corte de Justiça firmou-se no sentido de que os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo juízo universal.
+Confira-se o teor do art. 76 da Lei de Falência:
+Art. 76. O juízo da falência é indivisível e competente para conhecer todas as ações sobre bens, interesses e negócios do falido, ressalvadas as causas trabalhistas, fiscais e aquelas não reguladas nesta Lei em que o falido figurar como autor ou litisconsorte ativo.
+Nessa linha, via de regra, não se verifica a possibilidade de prosseguimento automático das execuções individuais posteriormente à decretação da falência ou ao deferimento da recuperação judicial e, por conseguinte, à aprovação do plano de recuperação judicial, de modo que é atribuída exclusividade ao juízo universal para a prática de atos de execução do patrimônio da massa falida ou da sociedade recuperanda, estendendo-se tal entendimento também às hipóteses em que a constrição patrimonial determinada por outro juízo lhe seja anterior.
+Nesse sentido, os seguintes precedentes da Segunda Seção:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. DECRETAÇÃO DE FALÊNCIA. ATOS CONSTRITIVOS ANTERIORES. CRÉDITO TRABALHISTA. DECLARAÇÃO DE COMPETÊNCIA DO JUÍZO UNIVERSAL. DECISÃO MANTIDA.
+1. Encontra-se pacificado, na jurisprudência desta Corte, o entendimento de que, deferido o pedido de falência, os atos de execução relacionados a crédito trabalhista incidentes sobre o patrimônio da massa falida devem ser processados no âmbito do juízo universal, mesmo nos casos de penhora anterior. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no CC 148.987/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 13/09/2017, DJe 21/09/2017)
+CONFLITO DE COMPETÊNCIA. JUÍZES VINCULADOS A TRIBUNAIS DIVERSOS. COMPETÊNCIA DO JUÍZO FALIMENTAR PARA A PRÁTICA DE ATOS QUE IMPLIQUEM RESTRIÇÃO PATRIMONIAL.
+1. Conflito de competência suscitado em 21.10.2013 Autos conclusos ao Gabinete em 04.02.2013, após resposta dos ofícios enviados e parecer do MPF.
+2. Discute-se a competência para a prática de atos de execução determinados pelo juízo trabalhista, tendo em vista a falência da empresa executada.
+3. O patrimônio da sociedade empresária não pode ser afetado por decisões prolatadas por juízo diverso daquele em que tramita seu processo de falência. Precedentes.
+2. A jurisprudência desta egrégia Corte é firme no sentido de que, decretada a falência, as execuções contra a falida não podem prosseguir, mesmo havendo penhora anterior (EDcl nos EDcl no AgRg no CC 109.541/PE, Rel. Min. PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe 16/04/2012).
+6. Conflito conhecido, para declarar a competência do JUÍZO DE DIREITO DA 1ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO - SP.
+(CC 130.994/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 13/08/2014, DJe 19/08/2014)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. FALÊNCIA. TERMO LEGAL. RECLAMAÇÃO TRABALHISTA. BEM IMÓVEL PRACEADO PELO JUÍZO TRABALHISTA. DECRETAÇÃO DA FALÊNCIA. PRODUTO ARRECADADO PELO JUÍZO TRABALHISTA SEM REMESSA AO JUÍZO FALIMENTAR. NECESSIDADE. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. Trata-se de conflito de competência suscitado por empresa submetida ao processo de falência, que teve seu bem imóvel praceado pelo Juízo Trabalhista.
+2. A jurisprudência do STJ tem entendimento firmado no sentido de que os atos de execução dos créditos individuais promovidos contra empresas em falência ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo Juízo Universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei nº 11.101/05. Precedentes.
+3. O valor arrecadado com o praceamento do bem da falida no Juízo Trabalhista deve ser remetido ao Juízo falimentar, a quem compete a administração dos bens daquela, bem como o pagamento dos débitos por ela contraídos e apurados no âmbito do processo de falência.
+4. Conflito de competência conhecido para declarar a competência do Juízo Falimentar.
+(CC 146.657/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 07/12/2016)
+3. No caso em tela, o Juízo da 2ª Vara de Falências e Recuperações Judiciais de São Paulo/SP decretou a falênciada sociedade SOEMEG Terraplanagem Pavimentação e Construções Ltda.em 23/9/2016 (fls. 69-73) cujos efeitos não se estendem à suscitante.
+Confira-se as informações do Juízo da falência:
+c) A suscitante Doce Serviços Administrativos Ltda., não é parte deste processo de falência, razão pela qual, em tese, este Juízo não teria competência para decidir sobre eventuais medidas constritivas que porventura recaiam sobre o patrimônio social da suscitante. Em verdade, a suscitante Doce Serviços Administrativos Ltda., segundo narra a própria suscitante foi criada por Donino de Freitas Rosset e sua esposa para fazer a sucessão de bens do casal Donino e esposa ainda em vida (fl. 06). Nestes autos falimentares o ex-sócio Donino de Freitas Rosset e sua esposa não foram incluídos no polo passivo. (fl. 265)
+Assim, os efeitos da declaração de falência não se estende aosdevedores solidários conforme pacífico entendimento desta Corte Superior:
+AGRAVO REGIMENTAL - CONFLITO DE COMPETÊNCIA - JUSTIÇA ESTADUAL E JUSTIÇA DO TRABALHO - PROSSEGUIMENTO DE EXECUÇÃO TRABALHISTA CONTRA DEVEDORA SOLIDÁRIA (EM RAZÃO DE RECONHECIMENTO DE EXISTÊNCIA DE GRUPO ECONÔMICO PELA JUSTIÇA TRABALHISTA), CUJOS ATIVOS NÃO INTEGRAM O PLANO DE RECUPERAÇÃO JUDICIAL DA EMPRESA, PRIMEIRA EXECUTADA - ENTENDIMENTO RATIFICADO PELA E. SEGUNDA SEÇÃO DESTA A. CORTE - TAL ORIENTAÇÃO SE ESTENDE TAMBÉM PARA AS HIPÓTESES DE FALÊNCIA, UMA VEZ QUE É VIÁVEL A EXECUÇÃO CONTRA EVENTUAIS DEVEDORES SOLIDÁRIOS NÃO FALIDOS FORA DO JUÍZO UNIVERSAL DA FALÊNCIA - CONFLITO DE COMPETÊNCIA NÃO CONHECIDO, com ressalva do posicionamento pessoal desta Relatoria - RECURSO IMPROVIDO.
+(AgRg nos EDcl no CC 105.709/RJ, Rel. Ministro MASSAMI UYEDA, SEGUNDA SEÇÃO, julgado em 14/10/2009, DJe 09/12/2009)
+--
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. CONFLITO POSITIVO DE COMPETÊNCIA. SOLIDARIEDADE PASSIVA. FALÊNCIA. DEVEDOR SOLVENTE.EXECUÇÃO TRABALHISTA. COMPETÊNCIA DA JUSTIÇA TRABALHISTA.
+1 - Tendo o credor optado por mover a execução em face apenas da empresa solvente, condenada solidariamente nos autos da reclamação trabalhista, a competência do Juízo Falimentar deve ser afastada.
+2 - Embargos de declaração acolhidos para, emprestando-lhes efeitos modificativos, declarar a competência do Juízo da 50ª Vara do Trabalho do Rio de Janeiro/RJ.
+(EDcl no AgRg no CC 39.984/RJ, Rel. Ministro FERNANDO GONÇALVES, SEGUNDA SEÇÃO, julgado em 24/11/2004, DJ 13/12/2004, p. 210)
+--
+Súmula 581 - A recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória. (Súmula 581, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 19/09/2016)  g.n.
+--
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC E RESOLUÇÃO STJ N. 8/2008. DIREITO EMPRESARIAL E CIVIL. RECUPERAÇÃO JUDICIAL. PROCESSAMENTO E CONCESSÃO. GARANTIAS PRESTADAS POR TERCEIROS. MANUTENÇÃO. SUSPENSÃO OU EXTINÇÃO DE AÇÕES AJUIZADAS CONTRA DEVEDORES SOLIDÁRIOS E COOBRIGADOS EM GERAL. IMPOSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 6º, CAPUT, 49, § 1º, 52, INCISO III, E 59, CAPUT, DA LEI N. 11.101/2005.
+1. Para efeitos do art. 543-C do CPC: "A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005".
+2. Recurso especial não provido.
+(REsp 1333349/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/11/2014, DJe 02/02/2015)  g.n.
+--
+Assim, verifica-se que oJuízo da 5ª Vara do Trabalho de São Paulo - SP não promoveuqualquer ato de constrição ao patrimônio da empresa falida, restringindo-se a direcionar à execução contra devedores solidários, ao passo que inexiste qualquer violação à competência do Juízo universal, devendo a execução tramitar normalmente.
+Assim, firme na premissa que inexiste nos autos qualquer documento que comprove a constrição de patrimônio da empresa falida, mas tão somente de coobrigados solidários, não há se falar em conflito de competência.
+4. Ante o exposto, não conheço do conflito de competência.Prejudicada a análise do agravo interno de fls. 118-132.
+Publique-se. Intimem-se. Oficiem-se.
