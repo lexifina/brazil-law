@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por CREDIT BRASIL FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS MULTISSETORIAL MASTER contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"CESSÃO DE CRÉDITO - INEXIGIBILIDADE DE DUPLICATAS - Pretensão do cessionário de que seja reconhecida a exigibilidade do crédito expresso nas duplicatas - Desprovimento - Natureza do contrato de cessão de crédito que admite a oponibilidade de exceções pessoais pelo devedor - Cessionário que responde pela existência, validade e eficácia do negócio jurídico subjacente à emissão do título - Precedentes do STJ - RECURSO DESPROVIDO" (e-STJ fl. 398).
+Os embargos de declaração opostos foram acolhidos com a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO - Existência de erro material e omissão - Acolhimento parcial - Hipótese em que há erro material no acórdão, uma vez que não se trata aqui de empresa faturizadora - Omissão quanto à distribuição proporcional dos encargos sucumbenciais - EMBARGOS ACOLHIDOS EM PARTE" (e-STJ fl. 450).
+Interposto recurso especial, foi provido por este Superior Tribunal de Justiça, determinando-se o retorno dos autos à origem para expressa manifestação sobre matéria omissa. O acórdão recebeu a seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO - RETORNO DOS AUTOS DO PROCESSO DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA, PARA REAPRECIAÇÃO DOS EMBARGOS DE DECLARAÇÃO - Pretensão de que seja sanada omissão - Acolhimento - Hipótese em que há omissão quanto à apresentação de exceções ao crédito cedido, a qual, embora sanada, não conduz a uma alteração do teor do venerando acórdão embargado - EMBARGOS ACOLHIDOS, sem efeito modificativo" (e-STJ fl. 519).
+No recurso especial ora em exame o recorrente alega, além de divergência jurisprudencial, violação dos arts. 17 da Lei Uniforme de Genebra e 294 do Código Civil, pretendendo o reconhecimento da exigibilidade das duplicatas ao argumento de que, por ser terceiro de boa-fé, não são oponíveis as exceções pessoais.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O Tribunal de origem, à luz da prova dos autos, concluiu pela inexigibilidade das duplicatas, conforme se extrai da leitura dos votos condutores da apelação e dos embargos de declaração, merecendo destaque os seguintes trechos:
+"(..)
+Com efeito, a despeito de concretizada a compra e venda que motivou a emissão das duplicatas objeto dos reclamados protestos, esta foi desfeita após o recebimento dos produtos, conforme ficou suficientemente demonstrado nos autos do processo.
+Ainda que o apelante aponte suposta divergência nas datas dos fatos narrados pela autora e pela outra corré, não há nos autos elementos de convicção suficientes para desconstituir a documentação por elas juntada aos autos.
+O apelante parece pretender o reconhecimento de que haveria um conluio entre sacadora e sacada; entretanto, deixou de produzir provas que indicassem má-fé, o que, sem dúvida, era ônus que lhe cabia.
+A todas as notas fiscais referentes à aquisição da mercadoria pela sacada (NF18968, fls. 42; NF18969, fls. 46; NF18970, fls. 50; e NF18972, fls. 54) corresponde uma nota de devolução dos produtos à sacadora (NF280.968, fls. 40; NF280.989, fls. 44; NF280.990, fls. 48; e NF281.009, fls. 52).
+E mesmo que a devolução tenha se operado posteriormente ao vencimento da obrigação de pagar, não estava a compradora impedida de alegar os vícios a fim de extinguir o crédito da vendedora ou do cessionário.
+A própria vendedora reconheceu em sua contestação que o negócio foi desfeito em razão de defeito nas mercadorias (fls. 100); salientando que reconhece a existência do crédito do apelante perante si, o qual está inclusive listado no quadro geral de credores da recuperação judicial.
+O laudo produzido pela vendedora posteriormente à devolução dos produtos ainda confirma a existência dos vícios apontados (fls. 67-68), demonstrando, sem sombra de dúvidas, a devolução das mercadorias" (e-STJ fls. 404/405).
+"(..)
+Nesse tocante, em abril de 2015, compradora e vendedora deram início às discussões acerca da qualidade das mercadorias adquiridas; ou seja, sobre a própria existência do crédito (fls.67-68 e 71-72).
+Acordaram definitivamente o desfazimento do negócio em 9 de junho de 2015 (fls.71-72), quando apenas reconheceram os vícios que o ensejaram, os quais já estavam presentes e eram conhecidos de ambas as partes.
+Assim, no momento em que se deu a notificação pelo cessionário do crédito, em 7 de maio de 2015 (fls.217-218), a constatação dos vícios já se iniciara no mês de abril.
+E, como constou do venerando acórdão que julgou a apelação, "nos termos do já mencionado artigo 294 do Código Civil, "as exceções ligadas ao crédito e todas aquelas exceções que o devedor teria em relação ao antigo credor, no momento do conhecimento da transferência, podem ser levantadas, isto porque sua situação não pode ser agravada em decorrência da transferência do crédito"." (fls.403).
+Nesse contexto, as exceções, ligadas ao crédito e já existentes no momento do conhecimento da transferência, podiam ser levantadas pela devedora, como de fato o foram, ainda que não extrajudicialmente.
+Tendo a cessionária pretendido o protesto das duplicatas em julho de 2015, a devedora se opôs à existência do crédito por meio da presente ação declaratória, proposta já em 3 de agosto de 2015, de modo que não se pode falar em perda do seu direito, com fundamento no artigo 294 do Código Civil" (e-STJ fls. 520/521).
+Nesse contexto, denota-se que a reforma desse entendimento demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Registre-se, outrossim, que, consoante iterativa jurisprudência desta Corte, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+É o que se observa do seguinte julgado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. PRESCRIÇÃO CONSUMADA. DESCONSTITUIÇÃO DO ENTENDIMENTO DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ANÁLISE FEITA COM BASE NO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AGRAVO INTERNO DESPROVIDO.
+1. Rever as conclusões das instâncias ordinárias quanto à ocorrência de prescrição da ação declaratória de inexistência de débito cumulada com repetição de indébito e indenização por danos morais exige, necessariamente, a incursão no material fático-probatório dos autos, notadamente porque as alegações da recorrente são no sentido de considerar outro termo inicial para a contagem do prazo prescricional, o que atrai a aplicação da Súmula 7/STJ.
+2. No que toca ao conhecimento do apelo especial por divergência jurisprudencial, também não colhe êxito. Isso porque julgado fundado em fatos e provas (incidência da Súmula 7/STJ) não enseja a possibilidade de demonstração da similitude fática, conforme tranquilo entendimento desta Corte Superior.
+3. Agravo interno desprovido" (AgInt no AREsp 1.114.253/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 6/11/2017 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao art. 85, § 11, do Código de Processo Civil de 2015, deixo de majorar os honorários advocatícios, haja vista que, na origem, já foram estipulados no patamar máximo (20% sobre o valor atualizado da causa).
+Publique-se. Intimem-se.
