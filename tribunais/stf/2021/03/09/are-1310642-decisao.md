@@ -1,0 +1,21 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "APELAÇÃO CÍVEL. REINTEGRAÇÃO DE POSSE. ESBULHO CARACTERIZADO. PRELIMINAR DE CERCEAMENTO DE DEFESA REJEITADA. PROVA DOCUMENTAL QUE SUSTENTA A TESE DA INICIAL.
+    1. Consta nos autos que a parte autora foi ouvida com as devidas provas. A parte ré participou da referida audiência. Aproveitando o Magistrado de piso ouviu as testemunhas, não houve naquela audiência exibição de documentos e demais provas. O magistrado baseado no princípio da celeridade, e no princípio da verdade real entendeu que os elementos trazidos pela apelante não ensejaram a concessão da tutela de urgência dando procedimento conforme os ditames ordinários e posteriormente marcada a audiência de instrução e julgamento. Assim, rejeito a preliminar levantada.
+    2. Comprovado nos autos os requisitos do artigo 561 do NCPC.
+    3. Comprovada a posse anterior da autora, bem como a prática do esbulho por parte dos apelados, através da documentação acostada aos autos e depoimentos pessoais das testemunhas colhidos em audiência.
+    4. Sentença reformada. Apelo a que se dar provimento."
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5°, caput e XXIII; 93, IX; 153, § 4º; 156, § 1º, I e II; 170, III; 182, §2°; 184; 185, § único; e 186 da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo e Previdenciário. Servidor estadual. Previdência complementar. Adesão. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inadmissível, em recurso extraordinário, a análise da legislação infraconstitucional, bem como do conjunto fático-probatório dos autos. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.210.720/SP - AgR, Tribunal Pleno, Min. Rel. Dias Toffoli (Presidente), DJe de 18/09/19).
+    “Recurso extraordinário: descabimento: questão decidida à luz de legislação infraconstitucional e da análise de fatos e provas, ausente o prequestionamento dos dispositivos constitucionais tidos por violados (Súmulas 282 e 279); alegada ofensa que, se ocorresse, seria reflexa ou indireta: incidência, mutatis mutandis, da Súmula 636” (AI nº 518.895/MG-AgR, Primeira Turma, Rel. Min. Sepúlveda Pertence, DJ de 15/4/5).
+    No mesmo sentido: RE nº 1.231.979/RJ - ED, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 18/12/19; RE nº 1.173.779/RS-AgR, Segunda Turma, Rel. Min. Gilmar Mendes, DJe de 31/5/19 e RE nº 832.960/DF-AgR, Primeira Turma, Rel. Min Luiz Fux, DJe de 21/5/19.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 9 de março de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
