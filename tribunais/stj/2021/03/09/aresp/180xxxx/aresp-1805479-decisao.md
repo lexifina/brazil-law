@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. TRABALHADORA RURAL/SEGURADO ESPECIAL. ATIVIDADE CAMPESINA. CONJUNTO PROBATÓRIO SUFICIENTE. CARÊNCIA CUMPRIDA. APELAÇÃO IMPROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 39, I , 25, II, 142 e 143, c/c o art. 55, § 3º, todos da Lei n. 8.213/91, no que concerne à comprovação do exercício de atividade rural pelo período exigido em lei, trazendo os seguintes argumentos:
+Acerca dos documentos mencionados no acórdão, constatamos o seguinte:
+a) recibo de compra e venda de imóvel rural com firma reconhecida em cartório em 14/08/2014(identificador 4050000.17419532 - fl. 30);
+b) declaração do INCRA de assentamento em nome de COSME JESUS SANTOS, proprietário da terra cedida em comodato ao autor (identificador 4050000.17419532 - fl. 4)
+c) Certidão do TRE/SE, consignando a ocupação de trabalhador rural do apelado (identificador4050000.17419532 - fl. 2)
+A declaração do INCRA está em nome de terceiro, de modo que não comprova a atividade rural pelo recorrido.
+A certidão do TRE foi emitida em 10/05/2018, após o requerimento administrativo que foi formulado em 23/02/2018, não servindo como prova da atividade rural anterior.
+O recibo de comprova e venda do imóvel de 2014 não é suficiente para comprovar a atividade rural no período idêntico à carência do benefício.
+Portanto, não há nos autos prova material suficiente no sentido de que a parte demandante exerceu atividade rural nos 180 meses anteriores ao requerimento em realizado 2018, conforme dispõem os arts. 39, I, 25, II, e 142 da Lei 8.213/91.
+Assim, a concessão do benefício mostra-se contrária à lei, visto que o r. acórdão não observou as regras dos artigos 39, I, 25, II, 142 e 143 da Lei 8.213/91, combinadas com a do art. 55, § 3º da mesma lei. (fl. 163).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O requisito da idade mínima exigido pela legislação para a concessão do benefício foi atendido, porquanto a parte apelante já contava com idade superior a 60 (sessenta anos) na DER em 23/02/2018 (identificador 4050000.17419532 - fl. 5), nascida em 15/08/1957 (identificador 4050000.17419532 - fl. 24). Logo, resta comprovar sua condição de rurícola, ou seja, o efetivo labor rural pelo período de 180 (cento e oitenta meses) anteriores ao requerimento administrativo (23/02/2018), ou ao alcance da idade mínima, nos termos do arts. 142 e 143 da Lei nº 8.213/91.
+Nos autos há várias provas que prestam como início de prova material: a) recibo de compra e venda de imóvel rural com firma reconhecida em cartório em 14/08/2014 (identificador 4050000.17419532 - fl. 30); b) declaração do INCRA de assentamento em nome de COSME JESUS SANTOS, proprietário da terra cedida em comodato ao autor (identificador 4050000.17419532 - fl. 4; c) Certidão do TRE/SE, consignando a ocupação de trabalhador rural do apelado (identificador 4050000.17419532 - fl. 2).
+Além da prova material acima referida, foi colhido em juízo o depoimento da testemunha Cosme de Jesus Santos, proprietário da terra lavrada pelo autor, que afirmou conhecer a parte apelada há 30 (trinta) anos e confirmou a atividade campesina pela parte apelada.
+Assim, o conjunto probatório colacionado aos autos é suficiente para comprovar o cumprimento da carência (180 meses) necessária para fins de concessão da aposentadoria por idade na condição de trabalhadora rural/segurada especial (fl. 113).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
