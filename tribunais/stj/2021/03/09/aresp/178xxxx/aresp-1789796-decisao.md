@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por Orgbristol Organizações Beistro Ltda., com fundamento no art. 105, III, a, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fls. 288-299):
+AGRAVO INTERNO. PROCESSO CIVIL. DECISÃO DE MÉRITO. IMPUGNAÇÃO VIA AGRAVO DE INSTRUMENTO. ARTIGO 1.009. CÓDIGO DE PROCESSO CIVIL. INTERPOSIÇÃO DE APELAÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE.
+1. O agravo de instrumento é o recurso cabível como meio de impugnação de decisão parcial de mérito. Inteligência do §5º, do artigo 356, do Código de Processo Civil.
+2. É inadmissível a interposição de agravo de instrumento como sucedâneo do recurso de apelação cível, por configurar, erro grosseiro, o que desampara sequer a aplicação do princípio da fungibilidade recursal.
+3. O entendimento sufragado pelo Superior Tribunal de Justiça, no enunciado administrativo n.º 6, bem como pelo Supremo Tribunal Federal, nos julgamentos do ARE 953.221 e do ARE 956.666, impossibilita a concessão de prazo para sanar o vício apontado, diferente da regra contemplada no artigo 932, parágrafo único, do Código de Processo Civil, que trata do saneamento de vício estritamente formal.
+4. Recurso conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 329-338).
+Nas razões do apelo especial (e-STJ, fls. 342-362), arecorrentealegou a violação dos arts. 133, 134, 136, 203, 1.015 e1.022 do Código de Processo Civil de 2015; 50 do Código de Civil de 2002; e 28 do Código de Defesa do Consumidor.
+Sustentou, em síntese, a ausência de prestação jurisdicional; que a decisão que acolhe ou rejeita o pedido de desconsideração da personalidade jurídica é interlocutória e deve ser impugnada por meio de agravo de instrumento; não ser a devedora principal, mas apenas a devedora solidária, e que houve desvio de finalidade e abusividade de conduta da empresa One Place Parauapeba, o que justifica a procedência do incidente de desconsideração da personalidade jurídica apresentado.
+Foram apresentadas contrarrazões (e-STJ, fls. 372-375).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a inexistência de violação doart.1.022 do CPC/2015; a deficiência de fundamentação, incidindo as Súmulas n. 283 e 284 do STF;e a falta de prequestionamento, aplicando-se asSúmulas n. 211/STJ e 282/STF (e-STJ, fls. 380-382).
+Brevemente relatado, decido.
+Consoante análise dos autos, a alegação de violação do art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente.
+O Tribunal de origem, ao julgar o recurso interposto, consignou o seguinte (e-STJ, fls. 300-303):
+Consoante relatado, busca a agravante a reforma da decisão (ID. 9271631) que não conheceu do recurso de agravo de instrumento interposto contra sentença que extinguiu o processo de incidente de desconsideração da personalidade jurídica (processo n.º 0709978-24.2019.8.07.0001), sem resolução de mérito.
+Em suas razões recursais (ID. 9715135), a agravante sustenta que a decisão recorrida possui natureza de interlocutória por se tratar de pronunciamento em sede de incidente processual, portanto, impugnável através de agravo de instrumento.
+Renova a argumentação de mérito deduzida em sede de agravo de instrumento.
+Ressalta não ser a devedora principal da obrigação, mas apenas a devedora solidária, e que houve desvio de finalidade e abusividade de conduta da empresa One Place Parauapebas.
+Ao final, pugna pelo recebimento do recurso de agravo instrumento para analise do mérito, permitindo a instauração, processamento e julgamento do incidente de desconsideração da personalidade jurídica proposto.
+Contudo, sem razão.
+Assim, mantenho a decisão agravada (ID.9271631) e submeto o agravo interno (ID. 9715135) a esta Terceira Turma Cível.
+Por ocasião da analise liminar esclareci que o Código de Processo Civil estabeleceu um rol taxativo de decisões agraváveis e apesar do parágrafo único do artigo 1015 permitir a interposição de agravo de instrumento em feitos relacionados ao cumprimento de sentença e em sede de incidente de desconsideração da personalidade jurídica, verifico que a presente hipótese trata-se de (e não sentença de decisão interlocutória) que extinguiu o incidente processual em comento.
+Assim, não estamos diante de decisão interlocutória proferida no curso de cumprimento de sentença, mas de sentença que pôs fim ao processo apartado de incidente de desconsideração da pessoa jurídica(Processo nº 0709978-24.2019.8.07.0001), sendo apelação o recurso cabível.
+Destaco que a decisão impugnada (ID. 9163253 - pág. 8/9) através do recurso de agravo de instrumento não conhecido por esta relatoria foi proferida com lastro no artigo 1.009 do Código de Processo Civilque dispõe, in verbis:
+Art. 1.009. Da sentença cabe apelação.
+Como visto, a legislação de regência aponta claramente que o pronunciamento judicial que soluciona definitivamente a lide deve ser impugnado por apelação. O artigo transcrito restringe a interposição do recurso de apelação à hipótese de impugnação de sentença.
+Ademais, resta evidente que o agravo de instrumento é recurso cabível como meio de impugnação de decisão parcial de mérito, o que não reflete o caso analisado nos autos.
+Portanto, a interposição de recurso de agravo de instrumento contra decisão de mérito revela erro grosseiro que não comporta a aplicação do princípio da fungibilidade recursal.
+Esse é o entendimento deste Tribunal de Justiça:
+(..)
+Dessa forma, inadmissível a interposição de agravo de instrumento como sucedâneo do recurso de apelação cível, por configurar, na espécie, erro grosseiro, o que desampara sequer a aplicação do princípio da fungibilidade recursal.
+Por fim, cumpre ressaltar que, em consonância com o entendimento sufragado pelo Superior Tribunal de Justiça, no enunciado administrativo n.º 6, bem como pelo Supremo Tribunal Federal, nos julgamentos do ARE 953.221 e do ARE 956.666, não há possibilidade de concessão de prazo para que o vício apontado seja sanado, tendo em vista que o disposto no art. 932, parágrafo único, do Código de Processo Civil, refere-se ao saneamento de vício estritamente formal, não havendo possibilidade, destarte, de complementação da fundamentação do recurso.
+(..)
+No caso concreto, o devedor, especificamente a sociedade empresária Organizações Bristol Ltda requereu a desconsideração da personalidade jurídica de outro devedor (One Place Paraupebas SPE) para que os respectivos sócios sejam considerados também devedores.
+Ao considerar que a previsão dessa modalidade de intervenção de terceiros na fase de cumprimento de sentença tem por finalidade propiciar ao credor a satisfação do crédito, desde que comprove os requisitosespecíficos para a espécie, a sua instauração pelo devedor é, no mínimo, inusitada.
+Em verdade, o devedor almeja que o valor do crédito seja dividido por outras pessoas que não participaram da respectiva fase de conhecimento, em manifesta afronta à norma do art. 513, § 5º, do CPC.
+Por isso, o Juízo de origem, de forma correta, indeferiu a petição inicial do referido "incidente".
+Mas a questão fulcral do presente agravo interno é se o ato processual que indeferiu a inicial do incidente de desconsideração da personalidade jurídica tem natureza de sentença ou de decisão interlocutória.
+Em regra, nos termos do art. 136 combinado com o art. 1015, inc. IV, ambos do CPC, o referido incidente deve ser resolvido por decisão interlocutória e impugnado por meio de agravo de instrumento, respectivamente.
+Ocorre que, no caso concreto, apesar da denominação de incidente da desconsideração da personalidade jurídica, o devedor intentou apenas coobrigar outras pessoas pela dívida que possui. Em verdade não houve a instauração de incidente de desconsideração da personalidade jurídica na fase de cumprimento de sentença, mas o ajuizamento de ação autônoma com finalidade semelhante.
+Assim, foi acertado o indeferimento da petição inicial por meio de sentença, o que impõe a interposição do recurso de apelação e não o de agravo de instrumento. (Sem grifo no original).
+A recorrente não se desincumbiu de demonstrar as razões pelas quais considera violadas as normas legais apontadas, tampouco impugnou os fundamentos do acórdão recorrido, incidindo, por analogia, os enunciados sumulares n. 283 e 284/STF, que dispõem respectivamente: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por fim,os dispositivos legais apontados pela recorrente - arts. 133, 134 e 203 do Código de Processo Civil de 2015; 50 do Código de Civil de 2002; e 28 do Código de Defesa do Consumidor - não foram enfrentados pelo acórdão impugnado, incidindo o óbice da Súmula n. 211/STJ. ,
+Diante do exposto, conheço do agravo paraconhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.PROCESSO CIVIL. DECISÃO DE MÉRITO. IMPUGNAÇÃO POR MEIO DE AGRAVO DE INSTRUMENTO. AUSÊNCIA DE AFRONTA AOART.1.022 DO CPC/2015. INEXISTÊNCIA DE INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. AÇÃO AUTÔNOMA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.AGRAVO CONHECIDO PARACONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
