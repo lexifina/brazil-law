@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Marcelo Lucas Alves, apontando-se como autoridade coatora o Tribunal de Justiça deSão Paulo (Apelação n. 1500675-05.2020.8.26.0545).
+Consta dos autos que o paciente foi condenado, ao lado de Kauane Karine da Rosa Lopes, pelo Juízo da 1ª Vara Criminal da comarca de Bragança Paulista/SP, à pena de 5 anos de reclusão, em regime fechado,e pagamento 500 dias-multa, pela prática do crime de tráfico.
+Em 1º/2/2021, a Corte estadual negou provimento ao apelo defensivo, mantendo os termos da sentença de primeiro grau.
+Aqui, a defesa alega, em síntese, queo REGIME PRISIONAL de cumprimento de pena estabelecido no v. acórdão é incompatível a pena a ele imposta de acordo as regras esculpidas no art.33, § 2º, do Código Penal(fl. 4), bem como que não houve fundamentação idônea para o afastamento do disposto no art. 33, § 4º, da Lei n. 11.343/2003.
+Requer, inclusive em caráter liminar, seja concedido o regime semiaberto ao paciente, bem como a aplicação da causa especial redutora prevista na Lei de Drogas.
+É o relatório.
+Na hipótese, há constrangimento ilegal na negativa de aplicação da causaredutora prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+A Corte de origem manteve inalterada a sentença condenatória acerca dotema em questão. Para tanto, considerou a variedade (cocaína e maconha) e quantidade de droga apreendida, o comportamento social e a ousadia dos réus, eles não fazem jus à diminuição de pena, prevista no art.33, § 4º, da Lei n.11.343/2006, conforme o pleiteado(fl. 36).
+Ora, asimples referência ao comportamento social e àsupostaousadia dos acusados, sem especificação de dados concretos, não é elemento apto a evidenciarque os agentes se dedicam a delitosou integramorganizaçãocriminosa, ou seja, é insuficiente para afastar a aplicação doredutor.
+Outrossim, a quantidade de droga apreendida, apesar de não ser irrisória, não pode ser considerada expressiva (cerca de 240g de cocaína e 75 g de maconha - fl. 35).
+Com efeito, isoladamente considerada, a quantidade da droga ainda que relevante, é insuficiente para afastar a causa de diminuição do art. 33, §4º, da Lei 11.343/06 (AgRg no HC n. 612.401/SP,Ministro Nefi Cordeiro, Sexta Turma,DJe 17/02/2021).
+Diante das circunstâncias do caso concreto, sobretudo da primariedade e dos bons antecedentes do paciente,deveserreconhecida a incidência da minorante do tráfico privilegiado nafração de2/3, reduzindo-se a pena dapaciente a 1 ano e 8 meses dereclusão, epagamento de 166 dias-multa.
+Assim, aplicada pena inferior a 4 anos, com fixação da pena-base nomínimolegal, em razão da análise favorável das circunstâncias judiciaisdo art.59 do Código Penal, e sendo o paciente primário, é de rigor afixação doregime inicial aberto, conforme o disposto no art. 33, § 3º, doCódigoPenal (HC n. 418.057/SP, Ministro Antonio Saldanha Palheiro, SextaTurma,DJe 5/4/2018).
+Da mesma forma, a favorabilidade de todas essas circunstânciasevidenciaque a substituição da pena privativa de liberdade porrestritivas dedireitos se mostra medida socialmente recomendável, deacordo com o art.44, III, do Código Penal (HC n. 355.299/SP, MinistroRogerio SchiettiCruz, Sexta Turma, DJe 1º/6/2018).
+Em face do exposto,concedo liminarmentea ordem paraaplicar o redutordo art.33, § 4º, da Lei n. 11.343/2006, na fração de 2/3, ficando a pena do paciente estabelecida em 1 ano e 8 meses de reclusão, e 166 dias-multa,noregime inicial aberto, devendo o Juízo competente proceder àsubstituiçãoda pena privativa de liberdade por restritivas de direitos,consoante odisposto no art. 44 do Código Penal.Evidenciada a identidadede situações, estendo os efeitos desta decisão à corréKauane Karine da Rosa Lopes.
+Intime-se o Ministério Público estadual desta decisão.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. REDUTORA DO ART. 33, § 4º, DA LEI N.11.343/2006. INCIDÊNCIA DA FRAÇÃO DE 2/3. VIABILIDADE. REGIME INICIAL.PENA INFERIOR A 4 ANOS. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAISDESFAVORÁVEIS. PRIMARIEDADE. ADEQUAÇÃO DO ABERTO. SUBSTITUIÇÃO DA PENA.POSSIBILIDADE. EVIDENTE CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmentecom extensão dos efeitos desta decisão à corré Kauane Karine da Rosa Lopes, nos termos do dispositivo.
