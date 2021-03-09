@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por CASSINANO DA COSTA DANIEL contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal. O apelo nobre insurge-se contra acórdão do TribunalRegional Federal da 2ª Região assim ementado:
+CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. PROCEDIMENTO DE EXECUÇÃOEXTRAJUDICIAL. ANULAÇÃO. PRETENSÃO FULMINADA PELA DECADÊNCIA. ARTIGO 179DO CÓDIGO CIVIL.
+1. Os mutirões de conciliação que vêm sendo realizados na Justiça Federal nada mais sãodo que uma liberalidade da Caixa Econômica Federal, que, objetivando compor as lides queenvolvem contratos vinculados ao SFH, seleciona determinadas demandas nas quais sevislumbra a possibilidade de transação, após criteriosa análise técnica, o que inocorreu nahipótese em tela.
+2. In casu, configurada a inadimplência do apelante, foi promovido o registro, no cartóriocompetente, da consolidação da propriedade fiduciária do imóvel em nome da Caixa EconômicaFederal, em 3/10/2012, procedimento que tem como escopo levar a existência do gravameincidente sobre o imóvel ao conhecimento de terceiros, conferindo-lhe efeitos erga omnes.
+3. A pretensão de anulação da execução extrajudicial é constitutiva sujeitando-se ao prazodecadencial, impondo-se a aplicação das disposições contidas no art. 179 do Código Civil, queprevê o prazo decadencial bienal a contar da data da conclusão do ato que se pretende anular,no caso, o registro de averbação da consolidação da propriedade em favor da Caixa EconômicaFederal.
+4. A presente ação somente foi ajuizada em julho de 2016, ou seja, quase quatro anosapós o registro da consolidação da propriedade do imóvel em favor da CEF, de modo que apretensão encontra-se fulminada pela decadência.
+5. Majorada a verba honorária, fixada na sentença em 10%, para 12% sobre o valoratualizado da causa, nos termos do artigo 85, §2º, §4º, inciso III do CPC.
+6. Apelação desprovida" (fl. 228 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 256-272 e-STJ).
+No especial, o recorrente alega violação dos arts.543-B, §3º do Código de Processo Civil de 1973; 167, 178, 179, 185, 280, 783, 799, 803, I e 805 doCódigo de Processo Civil de 2015; 421, 422, 586, 778 e 1.022 do Código Civil; 5º e 6º lei 4.380/1964, bem como 31 e 32 doDecreto -Lei nº 70/1966 e art. 167, I , 21 da Lei nº 6015/1973; arts. 26 e 27 da Lei 9514/1997, arts. 2º, 3º, 6º, VIII, 51 do Código de Defesa do Consumidor.
+Contrarrazões (e-STJ fls. 363-369), o recurso foi inadmitido na origem em exame de prelibação, motivo pelo qual adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial, que, todavia, não merece prosperar.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao tema de fundo, o Tribunal de origem, negando provimento ao recurso de apelação, manteve a sentença que extinguiu o processo, em razão de dadecadência do direito do autor ver anulada a arrematação do imóvel objeto da execução, pois ocorrida há mais de dois anos.
+Contrariada, a parte recorrente se insurgiu, em longa peça recursal, resumidamente, com o reconhecimento da decadência e com a alegada falta de intimaçãopessoal do devedor acerca do leilão.
+No que diz respeitoà apontada violação aos diversos artigos indicados, o recurso especial não pode ser conhecido quanto a todos, pois, sobre a matéria versada nessas normas, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 211/STJ.
+O acórdão recorrido tratou tão somenteda decadência do direito de ver anulada a execução extrajudicial, concluindo o seguinte:
+"(..) tendo em vista que a anulação da execução extrajudicial é constitutiva, tal pretensão se sujeita ao prazo decadencial, impondo-se a aplicação das disposições contidas noart. 179 do Código Civil, que prevê o prazo decadencial bienal a contar da data da conclusão do ato que se pretende anular, no caso, o registro de averbação da consolidação da propriedade em favor da CEF" (fl. 225 e-STJ grifou-se).
+No caso, orecorrente, de maneira genérica insistiu em afirmar quenão se trata de mera anulabilidade, mas de nulidade de ato jurídico, sem rebater o fundamento do acõrdão recorrido, o que configura a deficiência na fundamentação a atrair a incidência das Súmulas nºs 283 e 284/STF.
+De fato, "a interposição do recurso especial à moda de apelação, deixando a parte recorrente de efetivamente demonstrar no que consistiu a violação da lei federal e de infirmar especificamente os fundamentos do acórdão, limitando-se a reiterar as razões dos recursos anteriores, atrai a incidência das Súmulas nºs 283 e 284 do Supremo Tribunal Federal" (AgRg no AgRg no AREsp 171.093/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/8/2013, DJe 26/8/2013 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (dozepor cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
