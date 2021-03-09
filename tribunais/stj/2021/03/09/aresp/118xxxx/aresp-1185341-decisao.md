@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto por MARIA VICTA MARCIANO DE OLIVEIRA contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 589/591).
+O acórdão recorrido está assim ementado (e-STJ fl. 524):
+APELAÇÃO - EMBARGOS DE TERCEIRO - RESCISÃO CONTRATUAL C.C. REINTEGRAÇÃO DE POSSE E COMPRA E VENDA - CERCEAMENTO DE DEFESA - Não há cerceamento de defesa quando o, julgamento da lide independe de dilação probatória - Elasticidade probatória que era mesmo despicienda sendo suficientes ao julgamento os elementos que dos autos constam - Trânsito em julgado da decisão prolatada nos autos da ação de rescisão contratual c.c. reintegração de posse - Efeitos que alcançam a embargante, nos termos do § 3º, do art. 42, do CPC - Precedentes - Inadimplemento que perdura há anos - Recurso improvido. Sentença mantida.
+Os embargos de declaração foram rejeitados (e-STJ fls. 546/548).
+Nas razões do recurso especial (e-STJ fls. 552/574), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou que a sentença de rescisão de compromisso de compra e venda e reintegração de posse faz coisa julgada, produzindo efeito contra quem foi parte no processo, conforme prevê o art. 472 do CPC/1973. Entretanto, não atinge quem estava há muitos anos na posse, que era de ciência da COHAB, sendo inaplicável o art. 42, § 3º, do CPC/1973.
+Indicou ofensa ao art. 330, I, do CPC/1973, uma vez que deveria ter sido afastado o julgamento antecipado do feito e determinada a produção de provas requeridas, para que ela comprovasse que houve o contato e aorientação da COHAB para o não pagamento de prestações relacionadas ao imóvel,aguardando formalizar-senova composição com a companhia de habitação.
+No agravo (e-STJ fls. 594/616), afirma a presença de todos os requisitos de admissibilidade do especial.
+Houve contraminuta (e-STJ fls. 619/622).
+É o relatório.
+Decido.
+Sobre a posse do imóvel e sua reintegração, os julgadores assim esclareceram (e-STJ fls. 526/527):
+Segundo consta, os mutuarios originários verbalmente cederam os direitos sobre o imóvel à embargante, que não cumpriu com as prestações mensais do preço do imóvel.
+Não se olvide que a COHAB comercializa imóveis populares destinados à população de baixa renda e financiados por recursos públicos, com condições de pagamento adaptadas à realidade financeira dos adquirentes, menos favoráveis que as dos mutuários em geral, que se socorrem de instituições financeiras. Aliás, não por outro motivo o contrato proíbe a cessão a terceiros, que só é admitida em casos excepcionais.
+Contudo, não houve qualquer comprovação do pagamento das prestações avençadas. A apelante limitou-se a afirmar que está na posse do bem há mais de vinte anos, sem nada afirmar a respeito dos correspondentes pagamentos.
+Sendo assim, inviável a pretensão deduzida nos embargos de terceiro.
+Tendo a Turma julgadora assim decidido com base nos elementos de prova constantes dos autos, concluir diversamente demandaria seu reexame, inviável em recurso especial, de acordo com a Súmula n. 7 do STJ.
+Esta Corte Superior consagrou o entendimento de que "compete ao juiz a direção da instrução probatória, apreciando livremente as provas produzidas nos autos, a fim de formar a sua convicção acerca da controvérsia submetida a sua apreciação, desde que devidamente fundamentada, não havendo que se falar na violação desses dispositivos legais quando o juiz, sopesando todo o conjunto probatório produzido e carreado ao feito, julga a causa em sentido oposto ao pretendido pela parte, como no caso dos autos" (AgInt no REsp n. 1.784.052/CE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/6/2019, DJe 25/6/2019).
+Sendo o juiz o destinatário da prova, cabe a ele avaliar a necessidade desta e exercer o juízo acerca da suficiência das provas produzidas, podendo determinar sua produção até mesmo de ofício. No caso, os julgadores da origem destacaram(e-STJ fl. 525):
+De inicio afasto o alegado cerceamento de defesa, visto que o feito contemplava mesmo julgamento antecipado, poisas provas então coligidas mostraram-seplenamente suficientes para a solução da demanda, tornandodesnecessária e despicienda elasticidade da fase instrutória.
+Afinal, como destinatário da prova, cabe ao juizdeterminar as provas pertinentes para a instrução do feito, indeferindo aquelas inúteis ou protelatórias (Código de Processo Civil, art. 130, II) e, na hipótese, a produção de outras provas era despicienda, pois o que dos autos consta era suficiente para o pronunciamento de mérito.
+Não há cerceamento de defesa quando o magistrado decide de forma suficientemente fundamentada sobre a desnecessidade da prova requerida. Compete às instâncias originárias exercer juízo acerca da suficiência das provas produzidas.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
