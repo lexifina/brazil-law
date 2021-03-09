@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de recurso extraordinário interposto por GABRIEL SCHROEDER,com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 1.388):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. ENUNCIADO 182 DA SÚMULA DO STJ. AGRAVO IMPROVIDO.
+1. A decisão que não admitiu o recurso especial assentou que a pretensão recursal esbarraria nos óbices das Súmulas n. 7, 83 e 211 do STJ. No entanto, no agravo em recurso especial, o réu limitou-se a tecer considerações acerca da desnecessidade de reexame do conjunto fático-probatório dos autos, sem particularizar em relação a qual questão, e a apontar que o entendimento da Corte de origem vai de encontro com a orientação jurisprudencial de outros Tribunais pátrios genericamente.
+2. Se a parte agravante deixa de impugnar especificamente o fundamento da decisão agravada, é de se aplicar o Enunciado 182 da Súmula deste Superior Tribunal.
+3. Agravo regimental a que se nega provimento.
+Opostos embargos de declaração, foram rejeitadosnos termos da seguinte ementa (fl. 1.423):
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL DESPROVIDO. OMISSÃO. NÃO OCORRÊNCIA. PREQUESTIONAMENTO DE DISPOSITIVOS CONSTITUCIONAIS. MERO INCONFORMISMO DA PARTE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado (art. 619 do CPP).
+2. É inviável o STJ intervir em matéria da competência do STF, ainda que para prequestionar questões constitucionais, sob pena de contrariedade às rígidas atribuições recursais previstas na Carta Magna.
+3. O mero inconformismo da parte com o resultado do julgamento não é suficiente para o acolhimento dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+O recorrente alega a existência de repercussão geral, bem como violação dos arts. 5º, LIV e LV, e 93, IX, da Constituição Federal.
+Alegaque "Como se sabe todo cidadão tem o direito ao amplo acesso ao poder judiciário e jamais poderá ser privado de sua liberdade sem o devido processo legal, assegurada a ampla defesa (art. 5ºincisos LIV e LV, todos da Constituição Federal de 1988). O aresto que julgou o Agravo Regimental proferido pela Quinta Turma do Superior Tribunal de Justiça contrariou a Constituição Federal de 1988, qual seja art. 105, inciso III, e o art. 93, inciso IX, todos da Constituição Federal de 1988, ao obstar o seguimento do recurso especial sem devida fundamentação, ceifando, por conseguinte, os direitos fundamentais do devido processo legal e a ampla defesa" (fl. 1.442).
+Foram apresentadas contrarrazões (fls. 1.452-1.456 e1.457-1.462).
+É, no essencial, o relatório. Decido.
+O Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339 do STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão".
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral. (AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL  MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118.)
+Na espécie, da leitura do acórdão questionado, constata-se que o mérito recursal não foi analisadopor não ter o recurso ultrapassado a barreira de admissibilidade. O agravo regimental no agravo em recurso especial foi desprovidoem decorrência do óbice da Súmula n. 182/STJ.
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral no Tema n. 339.
+Vejam-se julgados:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO.
+ ..
+5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral).
+ ..
+7. Agravo a que se nega provimento. (Rcl n. 41.510-ED, relator Ministro Luiz Fux, Primeira Turma, DJe de 1º/9/2020.)
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF.
+1. No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente.
+2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL.
+3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final). (ARE n. 1.266.033-AgR, relator Ministro Alexandre de Moraes, Primeira Turma, DJe de 17/8/2020.)
+Ademais, o Supremo Tribunal Federal, por meio do ARE n. 478.371/RG (TEMA 660/STF), firmou entendimentono sentido de quea alegada afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada (art. 5º, incisos LV, LVII, LXI e LXVI, da Constituição Federal), quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, exatamente como no caso dos autos, que trata de regra técnica de admissibilidade recursal.
+Eis a ementa do Tema 660/STF:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da
+coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais.
+Rejeição da repercussão geral. (ARE n. 748.371 RG, relator Ministro Gilmar Mendes, DJe de 1º/8/2013.)
+No mesmo sentido, confiram-se precedentes:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. OFENSA AOS PRINCÍPIOS CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA 660/STF. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. JULGAMENTO EM CONFORMIDADE COM O TEMA 225/STF. DESPROVIMENTO DO RECLAMO.
+1. A suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema 660/STF).
+2. A alegada violação ao princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+3. O acórdão recorrido está em perfeita consonância como o que decidido pelo STF no Tema n. 225, de que a Lei 10.174/01 não atrai a aplicação do princípio da irretroatividade das leis tributárias, tendo em vista o caráter instrumental da norma, nos termos do artigo 144, § 1º, do CTN.
+Agravo interno não provido. (AgInt no RE nos EDcl no AgInt no AREsp n. 1528929/PE, relator Ministro Jorge Mussi, Corte Especial, DJe de 7/12/2020.)
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. TEMAS 895, 660 E 182 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. A alegada violação ao princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+3. A suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema 660/STF).
+4. A insurgência quanto à valoração das circunstâncias judiciais previstas no art. 59 do Código Penal tem natureza infraconstitucional, não tendo repercussão geral (Tema 182/STF).
+Agravo regimental não provido. (AgRg no RE nos EDcl no AgRg no AgRg no AREsp n. 1637025/SP, relator Ministro Jorge Mussi, Corte Especial, DJe de 7/12/2020.)
+Não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, em decorrência da incidência da Súmula n. 182/STJ, não há repercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação dos artigos da Constituição Federal aventada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
