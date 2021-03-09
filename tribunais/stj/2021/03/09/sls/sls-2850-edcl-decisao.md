@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se deembargos de declaração opostos por VIAÇÃO ITAPEMIRIM LTDA. e VIAÇÃO CAIÇARA LTDA.contra decisão monocráticade minha relatoria que indeferiu o pedido de suspensão de liminare de sentençaformulado pelas ora embargantes,ao fundamentode quenãoficou demonstrada a alegada gravelesão à ordem e à economia públicas.
+Nas razões dos declaratórios, as embargantes alegam omissão na decisão, uma vez que demonstraram como a extensão do passe livre impacta em risco de dano grave, de difícil ou impossível reparação.
+Sustentam que foram juntados diversos estudos que evidenciam o forte impacto financeiro ante o aumento da gratuidade, notadamente em época de pandemia decovid-19, e que, caso persevere a tutela pleiteada pelo órgão ministerial, a imposição refletirá no rendimento das empresas que estão em precário estágio financeiro.
+Apresentam gráfico que indicaqueda no faturamento e fluxo de caixa do grupo Itapemirim, que era de aproximadamente 800 mil reais por dia, antes da pandemia, passando para 80 mil, após as medidas restritivas (quarentena).
+Aduzem, desse modo,que "resta evidente que as empresas embargantes não possuem meios de custear com ampliação dos benefícios idealizadospelo MPF" (fl. 271).
+Requerem sejam acolhidos os aclaratórios, a fim de sanar as omissões apontadas.
+É, no essencial, o relatório. Decido.
+Os embargos de declaração,cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, visam esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide ou corrigir erro material.
+No caso em exame, a decisão embargada deixou claro que a lesão ao bem jurídico deve ser grave e iminente, e o requerente deve demonstrar, de modo cabal e preciso, tal aspecto da medida impugnada, o que não ocorreu no caso, uma vez queasora embargantes,não demonstraram, concretamente, de que modo a extensão do passe livre resulta em risco de dano grave, de difícil ou impossível reparação.
+Assim, inexistem omissões que justifiquem a interposição dos embargos declaratórios.
+Verifica-se que as embargantes não seconformam com o indeferimento da suspensão e que, ainda neste momento,pleiteiam transmudar em omissão a fundamentação que está em desconformidade com seuentendimento sobre o ocorrido no julgado.
+Registre-se queo órgão julgador não é obrigado a rebater, um a um, todosos argumentos trazidos pelas partes em defesa da tese que apresentaram.Deve apenas enfrentar a demanda, observando as questões relevantes eimprescindíveis à sua resolução (REsp n. 927.216/RS, SegundaTurma, relatora Ministra Eliana Calmon, DJ de 13/8/2007; REsp n.855.073/SC, Primeira Turma, relator Ministro Teori Albino Zavascki, DJ de28/6/2007; e EDcl nos EDcl no REsp n. 1.642.531/SC, relatorMinistro HermanBenjamin,SegundaTurma, DJe de 22/4/2019).
+Comojá afirmado,ressaltou-se,na decisão de origem, queficou evidenciada a probabilidade do direito perseguido na ação civil pública e o dano à população de idosos e jovens privados do passe livre.
+Desse modo, ainsatisfação das empresas ora requerentes com a decisão impugnada e o seuevidente interesse econômicoaparentam transcender o interesse público em discussão.
+Frise-se que verificaras questões discutidas nesta ação - em especial, alegalidadedos dispositivos regulamentares executivo (decretos) acerca do benefício da gratuidade do transporte coletivo interestadual conferido pelas Leis n.10.741/2003 e 12.852/2013 aos idosos e adolescentes de baixa renda, respectivamente-transformaria o instituto da suspensão de liminar e de sentença em sucedâneo recursal e demandaria a indevida apreciação do mérito da controvérsia principal, que é matéria alheia à via suspensiva.
+Esses argumentos, por si sós, representam fundamentos suficientes para a decisãoembargada.
+Nesse sentido, é evidente que os presentes embargos são incabíveis, pois veiculampretensão exclusivamente infringente do julgado, sem o propósito específico desanar obscuridade, contradição, omissão ou erro material. Confira-se julgado com semelhante entendimento:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA SUSPENSÃO DESEGURANÇA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DACAUSA. NÃO CABIMENTO.
+1. Os embargos de declaração, recurso de natureza integrativa destinado a sanarobscuridade, contradição, omissão ou erro material, são incabíveis quando a parteembargante pretende apenas a obtenção de efeitos infringentes.
+2. Embargos de declaração rejeitados. (EDcl no AgInt na SS n. 3135/BA, relatorMinistro João Otávio de Noronha, Corte Especial,DJe de 16/6/2020.)
+Ante o exposto, rejeito os embargosde declaração.
+Publique-se. Intimem-se.
