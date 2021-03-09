@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu o recurso especial. O apelo extremo, interposto com base no art. 105, inciso III, alínea "a", da Constituição Federal,insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE RESPONSABILIDADE CIVIL. ATROPELAMENTO EM VIA FÉRREA. DECISÃO QUE INDEFERE INVERSÃO DO ÔNUS DA PROVA. INCONFORMISMO DO AUTOR. CONSUMIDOR POR EQUIPARAÇÃO. HIPOSSUFICIÊNCIA TÉCNICA E VEROSSIMILHANÇA PRESENTES. REFORMA QUE SE IMPÕE. PROVIMENTO AO AGRAVO DE INSTRUMENTO.
+1.Cuida-se de ação de responsabilidade civil em face da concessionária agravada (SUPERVIA) objetivando o recebimento de verbas indenizatórias em razão de atropelamento por composição férrea de propriedade da empresa ré.
+2.Nos termos do que dispõe o art. 17 do CDC, o autor, ora agravante, se enquadra no conceito de consumidor por equiparação (bystander - espectador), na medida em que foi atingido em sua segurança em virtude de fato do serviço, embora não tenha relação jurídica direta com a ré.
+3.A dinâmica dos fatos descrita no Boletim de Ocorrência de fls.28/31 (índice 000015) perante a autoridade Policial, bem como Boletim de Atendimento do Hospital Municipal Pedro II de fls. 41 (índice 000035), dos autos originários (proc. 0059799-73.2017.8.19.0001), denotam a existência de prova mínima dos fatos constitutivos do direito alegado.
+4.Presentes a verossimilhança e hipossuficiência técnica, impõe-se a inversão do ônus da prova com o objetivo de facilitar a defesa dos direitos do consumidor em juízo. PRECEDENTES DESTA CORTE.
+5.AGRAVO DE INSTRUMENTO A QUE SE DÁ PROVIMENTO para deferir a inversão do ônus da prova" (fl. 50 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+As razões do recurso especial alegam a violação dos arts.373 e1.022, inciso II, do Código de Processo Civil/2015 e 6º, inciso III, do Código de Defesa do Consumidor.
+Afirmam que houve negativa de prestação jurisdicional, que não está configurada relação de consumo e que é incabível a inversão do ônus da prova devido à impossibilidade de constituir prova negativa.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No tocante à violação do art. 1.022 do CPC/2015, verifica-seque o Tribunal de origem motivou adequadamente sua decisão, solucionando acontrovérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão apenas pelo fato de ojulgado recorrido ter decidido em sentido contrário à pretensão da parte.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REVISÃO DE ENCARGOSFINANCEIROS E RESTITUIÇÃO DE VALORES. AUSÊNCIA DE PREQUESTIONAMENTO.SÚMULA 211/STJ. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO -PROBATÓRIO DOS AUTOS. SUMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM OENTENDIMENTO FIRMADO NO STJ . AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo1022 do Código de Processo Civil de 2015. Isso porque, embora rejeitadosos embargos de declaração, a matéria em exame foi devidamente enfrentadapelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada,ainda que em sentido contrário à pretensão da parte recorrente.
+2. Não há falar, no caso, em negativa de prestação jurisdicional. A CâmaraJulgadora apreciou as questões deduzidas, decidindo de forma clara econforme sua convicção com base nos elementos de prova que entendeupertinentes. No entanto, se a decisão não corresponde à expectativa daparte, não deve por isso ser imputado vicio ao julgado.
+(..)
+5. Agravo interno não provido"
+(AgInt no AREsp 1.035.430/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 9/5/2017, DJe 16/5/2017- grifou-se).
+Sobreo argumento de que não estaria caracterizada de relação de consumoentre as partes envolvidas, sendo incabível a incidência do art. 6º, III,do Código de Defesa do Consumidor, fundamentou o tribunal local:
+"É certo que a inversão do ônus da prova, nas hipóteses em que for aplicável o CDC, ficará a critério do julgador que, ao apreciar a possibilidade de inversão, analisará a verossimilhança da alegação do consumidor e a sua hipossuficiência, como expressamente exige o art. 6º, inciso VIII. Mas, uma vez presentes tais requisitos, não pode o juiz se abster de aplicar a regra da inversão do ônus probatório, por se tratar de direito básico do consumidor, como expressamente afirma a Súmula 229 deste Tribunal.
+Frise-se, como reforço à inversão da prova no caso tem tela, que o transporte coletivo de passageiros circula por via pública, em exercício de atividade lucrativa, o que, induvidosamente, gera potencialidades de riscos para a sociedade e, como tal, se encaixa na teoria do risco-proveito, razão porque se impõe a inversão do ônus probatório, como forma de facilitar a defesa dos interesses do autor/agravante.
+(..)
+Portanto, em que pese o merecido respeito ao nobre magistrado de primeiro grau, ouso dele discordar. Entendo que estão, sim, presentes os pressupostos exigidos pelo inciso VIII, do Art. 6 do Código de Defesa do Consumidor, pelo que não pode ser afastada a Súmula 229 deste Tribunal.
+Com efeito, não há como negar a presença do requisito da verossimilhança, estampada nos fatos alegados pelo autor, noBoletim de Atendimento do Hospital onde o autor foi socorrido e no boletim da ocorrência policial (índice 0035 e 0015, respectivamente), e isso já seria suficiente para a inversão do ônus da prova. Também se acha preenchido o requisito da hipossuficiência do autor perante a concessionária ré (SUPERVIA). Esta, induvidosamente, tem melhores condições de produzir as contraprovas aos fatos arguidos pelo autor, isto é, a concessionária tem melhor condição de produzir a prova dos fatos impeditivos, modificativos e extintivos, do que o autor de comprovar os fatos constitutivos do seu direito. A hipossuficiência, que não é requisito cumulativo com a verossimilhança das alegações autorais (o art. 6º, VIII, do CDC usa a conjunção alternativa "ou"),não é apenas relacionada à produção da prova técnica, mas também ao aspecto econômico e social, já que interdependentes. A preocupação do julgador em evitar que o consumidor fique em desequilíbrio perante o fornecedor de serviços ou produtos há que considerar a desigualdade social e econômico entre ambos. Quanto maior essa desigualdade, maior a dificuldade do menos favorecido para comprovar seu direito. Isso é uma realidade que o operador do Direito não pode desconsiderar, sob pena de negar aplicação a um dos mais importantes e básicos direitos do consumidor.
+Portanto, presentes a verossimilhança nas alegações do autor/consumidor e o desequilíbrio em desfavor dele relativamente às forças sociais e econômicas, a tornar desigual a relação processual das partes, não pode ser negada à parte autora a proteção da inversão do ônus probatório, eis que direito básico assegurado na legislação consumerista e afirmado na Súmula 229 deste Tribunal" (fl. 54/55 e-STJ).
+Nesse contexto, rever o entendimento do acórdão impugnado a fim de afastara inversão do ônus da prova em favor da vítima doacidente, demandaria oreexame do contexto fático-probatório, procedimento inadmissível no âmbitode recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão desimples reexame de prova não enseja recurso especial".
+Não bastasse isso, cumpre assinalar que em relação à inversão do ônus daprova, o aresto combatido encontra-se alinhado à jurisprudência doSuperior Tribunal de Justiça, segundo a qual incide o Código de Defesa doConsumidor em casos como o dos autos, de atropelamento por composiçãoférrea de concessionária de prestação de serviço de transportes.
+A propósito:
+"RESPONSABILIDADE CIVIL. RECURSO ESPECIAL. ATROPELAMENTO FATAL. TRAVESSIANA FAIXA DE PEDESTRE. RODOVIA SOB CONCESSÃO. CONSUMIDORA POR EQUIPARAÇÃO.CONCESSIONÁRIA RODOVIÁRIA. RESPONSABILIDADE OBJETIVA EM RELAÇÃO ATERCEIROS USUÁRIOS E NÃO USUÁRIOS DO SERVIÇO. ART. 37, § 6º, CF. VIA EMMANUTENÇÃO. FALTA DE ILUMINAÇÃO E SINALIZAÇÃO PRECÁRIA. NEXO CAUSALCONFIGURADO. DEFEITO NA PRESTAÇÃO DO SERVIÇO CONFIGURADO. CULPA EXCLUSIVADA VÍTIMA. INOCORRÊNCIA. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DEVIDOS.
+1. Inexiste violação do art. 535 do Código de Processo Civil se todas asquestões jurídicas relevantes para a solução da controvérsia sãoapreciadas, de forma fundamentada, sobrevindo, porém, conclusão em sentidocontrário ao almejado pela parte.
+2. As concessionárias de serviços rodoviários, nas suas relações com ousuário, subordinam-se aos preceitos do Código de Defesa do Consumidor erespondem objetivamente pelos defeitos na prestação do serviço.Precedentes.
+3. No caso, a autora é consumidora por equiparação em relação ao defeitona prestação do serviço, nos termos do art. 17 do Código consumerista.Isso porque prevê o dispositivo que "equiparam-se aos consumidores todasas vítimas do evento", ou seja, estende o conceito de consumidor àquelesque, mesmo não tendo sido consumidores diretos, acabam por sofrer as
+consequências do acidente de consumo, sendo também chamados de bystanders.
+(..)
+10. Recurso especial parcialmente provido"
+(REsp 1.268.743/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe7/4/2014 - grifou-se).
+"RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DE TRANSPORTADOR AÉREO PERANTETERCEIROS EM SUPERFÍCIE. PRETENSÃO DE RESSARCIMENTO POR DANOS MATERIAIS EMORAIS. PRAZO PRESCRICIONAL. APARENTE ANTINOMIA ENTRE NORMAS. CÓDIGO CIVILDE 1916. CÓDIGO BRASILEIRO DE AERONÁUTICA. CÓDIGO DE DEFESA DO CONSUMIDOR.PRESCRIÇÃO QUINQUENAL. JULGAMENTO: CPC/73.
+1. Ação de indenização por danos materiais e compensação de dano moralajuizada em 05/12/02, da qual foi extraído o presente recurso especial,interposto em 14/03/14 e atribuído ao gabinete em 25/08/06.
+(..)
+7. Na hipótese, o terceiro na superfície, que suporta o prejuízo causadodiretamente por aeronave em voo ou manobra, ou por coisa ou pessoa delacaída ou projetada, equipara-se a consumidor (bystander), na medida emque, embora não tenha utilizado o serviço como destinatário final, foivítima do evento danoso.
+8. Assim caracterizada a relação de consumo, o prazo prescricional a serobservado é o previsto no art. 27 do CDC: 5 anos.
+9. Recurso especial conhecido e provido"
+(REsp 1.678.429/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe17/9/2018 - grifou-se).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015) porque o recurso especial é oriundo de acórdão proferido em julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
