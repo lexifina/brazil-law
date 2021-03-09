@@ -1,0 +1,13 @@
+DECISÃO
+MATEUS GOMES RIBEIRO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que denegou o HC n. 1.0000.20.532904-8/000.
+Consta dos autos que o recorrente foi preso em flagrante e, posteriormente, teve a custódia convertida em preventiva pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. Os autos dão conta da apreensão de, aproximadamente, 650 gramas de maconha.
+A defesa aduz, em síntese, que "a prisão preventiva foi decretada de ofício pelo i. magistrado, violando o Código de Processo Penal e o sistema acusatório" (fl. 158). Afirma, ainda, que as instâncias ordinárias não fundamentaram, concretamente, a impossibilidade de substituição da custódia preventiva por medidas cautelares alternativas à prisão e, por fim, sustenta que não está evidenciada nenhuma das hipóteses previstas no art. 312 do CPP.
+Requer o provimento do recurso, para que seja revogada a custódia do réu. Subsidiariamente, pugna pela substituição da segregação preventiva por medidas cautelares alternativas.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não provimento do recurso.
+Decido.
+Segundo ficou assentado pela Terceira Seção, ao apreciar o RHC n. 131.263/GO, em sessão realizada no dia 24/2/2021,as inovações veiculadas pela Lei n. 13.694/2019 (Pacote "Anticrime") não permitem ao juiz, sem requerimento do Ministério Público ou representação da autoridade policial, converterem preventiva a prisão em flagrante.
+Embora minha compreensão pessoal, externada em voto escrito, tanto na Sexta Turma (em alguns julgados), quanto no julgamento do referido recurso ordinário, seja diversa daque chegou o Colegiado, submeto-me à maioria, em nome da segurança jurídica e da fidelidade aos precedentes qualificados.
+Assim, à luz da atual jurisprudência desta Corte acerca da matéria,assiste razão à defesaao sustentar a impossibilidade deconversão, de ofício, da prisão em flagrante em preventiva.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, dou provimento ao recurso em habeas corpus, pararevogar a decisão que decretou a prisão preventiva do recorrente, nos autos do Processo n.5121491-76.2020.8.13.0024,sem prejuízo de que outra seja proferida, desde que devidamente motivada e precedida de requerimento do Ministério Público ou de representação da autoridade policial.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
