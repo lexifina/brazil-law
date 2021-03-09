@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Pedro Santiago Nunez Gonzales, em que se aponta como autoridade coatora o Tribunal de Justiça deMato Grosso do Sul (Apelação n. 0006432-41.2018.8.12.0019).
+Consta dos autos que o paciente foi condenado à pena de 1 ano de reclusão, em regime inicial aberto, e pagamento de 50 dias-multa, pela prática do delito tipificado no art. 155 do Código Penal (fls. 209/222).
+Interpostas apelações, o Tribunala quodeu provimento ao recurso da acusação para reconhecer a majorante do repouso noturno e a qualificadora do rompimento de obstáculo, bem como para fixar indenização em favor da vítima e, de outro lado, deu parcial provimento ao apelo da defesa para substituir a pena privativa de liberdade por duas restritivas de direitos (fls. 325/340).
+Requer a Defensoria Pública, em suma, a concessão da ordem, para o fim de afastar a qualificador do rompimento de obstáculo, haja vista a ausência de prova técnica hábil para a comprovação desta (fl. 15).
+Prestadas as informações (fls. 362/372), o Ministério Público Federal manifestou-se pelo não conhecimento do write pelo descabimento de uma ordem de habeas corpus de ofício (fls. 374/381).
+É o relatório.
+Do atento exame dos autos, verifica-se que não há ilegalidade a ser sanada.
+A respeito do reconhecimento da qualificadora do rompimento de obstáculo, a Corte de origem asseverou (fl. 331- grifo nosso):
+2. Qualificadora do rompimento de obstáculo.
+A vítima Nayde Garcia de Souza relata em seu depoimento judicial que é proprietária da Autoescola Porsche que foi furtada pelo autor, e também informou que ele arrombou o cadeado para adentrar no estabelecimento e subtrair o notebook (fl.167 - arquivo de mídia). Infere-se pelo depoimento da vítima que foi por meio da análise pela autoridade policial das imagens registradas pelas câmeras de segurança da Autoescola, que foi possível identificar as características do autor.
+Ademais, é possível verificar por meio das imagens de fls. 33-35 e laudo pericial de fls. 172-176 que o apelado passou pelos portões que estavam fechados, liberando os cadeados para adentrar no estabelecimento.
+Destarte, é possível a incidência da qualificadora decorrente do rompimento de obstáculo, apesar da ausência do exame pericial, nos termos do art. 171, do CPP.
+Impede destacar que, conforme entendimento majoritário jurisprudencial, embora seja dispensável as fotografias e laudos periciais no local do crime, quando consta nos autos tais elementos, e corroborados com as demais provas comprovaram a qualificadora de rompimento de obstáculo, devendo tal qualificadora ser reconhecida em desfavor ao agente.
+No presente caso, ainda que não tenha sido confeccionado laudo pericial, com base nas imagens do circuito interno de segurança da estabelecimento comercial (fls.33-35), constatou-se que o apelado, aproveitando-se da menor vigilância que era exercida na Autoescola, arrombou o portão/porta do referido estabelecimento comercial e apoderou-se do notebook, empreendendo fuga do local logo em seguida.
+Neste sentido, em situação análoga, esta E. Corte decidiu "o fato de inexistir nos autos laudo pericial, constatando o rompimento/destruição de obstáculo, não impede o reconhecimento desta qualificadora, visto que o processo penal tem como escopo a elucidação da verdade real." (TJMS.Apelação n. 0017616-19.2016.8.12.0001,Campo Grande, 2ª Câmara Criminal, Relator (a):Des. Luiz Gonzaga Mendes Marques,j: 04/09/2017, p: 11/09/2017).
+ ..
+Verifica-se, do exposto, que o acórdão vergastado se encontra em consonância com a atual jurisprudênciadesta Corte, segundo a qual,para a configuração de furto qualificado pelo rompimento de obstáculo, o exame pericial não se constitui o único meio probatório possível para a comprovação da qualificadora de rompimento de obstáculo no crime de furto, sendo lícito, considerando o sopesamento das circunstâncias do caso concreto, a utilização de outras formas, tais como a prova a documental e a testemunhal, desde que devidamente justificada a impossibilidade de realização do laudo pericial(AgRg no HC n. 615.510/PR, Ministro Felix Fischer, Quinta Turma, DJe 23/11/2020).
+Na hipótese, como bem asseverou o Tribunala quo, inafastável anecessidade de o estabelecimento efetuar o conserto do obstáculo rompido com a maior brevidade possível (fls. 150-151), não sendo razoável exigir que o estabelecimento comercial mantivesse seu patrimônio vulnerável à espera de um momento em que os peritos pudessem realizar o laudo direto (fl. 333).
+No mesmo sentido:
+HABEAS CORPUS. PROCESSUAL PENAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AFASTAMENTO DA QUALIFICADORA. LEVANTAMENTO FOTOGRÁFICO. EXAME INDIRETO. PROVA IDÔNEA. AUSÊNCIA DE EXAME PERICIAL.IRRELEVÂNCIA. PRECEDENTES QUINTA E SEXTA TURMA DESTA CORTE. RÉU REINCIDENTE. REGIME SEMIABERTO. CABIMENTO.HABEAS CORPUS DENEGADO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, a falta de laudo pericial no local do delito não impede o reconhecimento da qualificadora do rompimento de obstáculo quando "realizada perícia indireta, além do mais as fotografias e filmagens juntadas aos autos comprovam o modus operandi da ação (AgRg no REsp n. 1.715.910/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 25/6/2018)." (AgRg no REsp 1.823.838/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/03/2020, DJe 16/03/2020).
+2. No caso, além da confissão do Réu, o auto de verificação do local e o acervo fotográfico existente comprovam o arrombamento de uma das portas da residência da vítima.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, ao réu reincidente condenado à pena inferior a quatro anos de reclusão aplica-se o regime prisional semiaberto, se consideradas favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal.
+Súmula n. 269/STJ.
+4. Ordem de habeas corpus denegada.
+(HC n. 583.044/SC,Ministra Laurita Vaz, Sexta Turma, DJe 6/10/2020)
+No caso em análise, depreende-se que o Tribunala quoentendeuser desnecessária a realização do exame pericial, uma vez que a ação criminosa foi capturada e registrada pelas câmeras do sistema interno de vigilância e monitoramento do estabelecimento comercial, corroborada pelo depoimento da vítima, o que, como visto, encontra amparo na jurisprudência desta Corte.
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO PELO ROMPIMENTO DE OBSTÁCULO. EXAME PERICIAL. AUSÊNCIA. AÇÃO CRIMINOSA CAPTURADA PELAS CÂMERAS DO SISTEMA DE SEGURANÇA E CORROBORADA PELO DEPOIMENTO DA VÍTIMA EM JUÍZO. MATERIALIDADE COMPROVADA. PRECEDENTES.
+Ordem denegada.
