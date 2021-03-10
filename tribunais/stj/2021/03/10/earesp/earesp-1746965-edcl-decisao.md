@@ -1,0 +1,34 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso infere-se que PREVINORTE - FUNDAÇÃO DE PREVIDÊNCIA COMPLEMENTAR (PREVINORTE) ajuizou execução de título extrajudicial contra GRUPO OK CONSTRUÇÕES E INCORPORAÇÕES LTDA (GRUPO OK).
+No curso da demanda foi proferida decisão pela 8ª Vara cível de Brasília, que rejeitou impugnação à penhora, por considerar que a matéria veiculada na objeção encontra-se sepultada pela preclusão, uma vez que os temas debatidos pela parte agravante foram ou deveriam ter sido debatidos nos embargos à execução opostos pelo recorrente quando da instauração do processo executivo.
+De tal decisão, o GRUPO OK interpôs agravo de instrumento, que foi parcialmente provido, nos termos do acórdão a seguir ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. IMPUGNAÇÃO À PENHORA. CÁLCULOS. ATUALIZAÇÃO DA DÍVIDA. ALEGAÇÃO DE INEXISTÊNCIA DOS ATRIBUTOS DO TÍTULO EXECUTIVO. COISA JULGADA. VALOR DO CRÉDITO EXEQUENDO.ESTABILIZAÇÃO. JULGAMENTO. EMBARGOS À EXECUÇÃO.ATUALIZAÇÃO DA DÍVIDA PÓS EMBARGOS. JUROS MORATÓRIOS. ALEGAÇÃO DA INCIDÊNCIA DA TAXA SELIC PARA ATUALIZAR E REMUNERAR O CRÉDITO EXEQUENDO. ÓBICE.COISA JULGADA. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS POR FORÇA DA REJEIÇÃO À IMPUGNAÇÃO À PENHORA. DESCABIMENTO.
+1. Por força do óbice da coisa julgada e da preclusão, o devedor fica impedido, uma vez rejeitados os embargos à execução, de revolver alegações relacionadas aos atributos do título executivo, já examinadas na objeção à cobrança.
+2. No julgamento dos embargos à execução, proclamou-se que o valor demandado pelo credor era líquido, certo e exigível, circunstância que impõe óbice ao revolvimento do valor do crédito demandado na inicial do processo executivo.
+3. Se, nos embargos à execução, discutiu-se o critério de atualização monetária da dívida, não há como, tanto por conta da coisa julgada, como também pela incidência da preclusão, revolvê-lo em sede de impugnação à penhora.
+4. Estabilizada a forma de correção monetária do débito, a superveniente incidência do art. 406, do CC/02, ainda que passível de discussão em embargos à penhora, não enseja sua substituição pela taxa SELIC, devendo ser calculados os juros moratórios, assim como ocorreu nos cálculos elaborados pela Contadoria Judicial, a partir da vigência do citado Código, no percentual de um por cento (1%), conjuntamente com o índice contratual de correção monetária que fundamentou a cobrança exequenda.
+5. Consoante pacífico entendimento sufragado pelo colendo STJ, descabe cogitar de honorários advocatícios ao se rejeitar impugnação ao cumprimento de sentença (Enunciado nº 519, da Súmula do STJ).
+A mesma exegese jurídica deve se aplicar à rejeição da impugnação à penhora.
+6. Agravo de instrumento parcialmente provido (e-STJ, fls. 1396/1397).
+Os embargos de declaração opostos pelo GRUPO OK foram parcialmente acolhidos, a fim de sanar ocorrência de erro material (e-STJ, fls. 1454/1458).
+No recurso especial, interposto com base no art. 105, III, a e c, da CF, o GRUPO OK alegou, a par de dissídio jurisprudencial, violação dos arts. 406 do CC/02 e 927, III, do NCPC, ao sustentar a necessidade de aplicação da Taxa SELIC para apuração dos valores relativos aos juros de mora e correção monetária.
+Após a apresentação das contrarrazões, o recurso foi inadmitido na origem (e-STJ, fls. 1531/1540 e 1552/1553).
+O agravo em recurso especial que se seguiu não foi provido, em decisão monocrática de minha relatoria, ementada nos seguintes termos:
+CIVIL. PROCESSUAL CIVIL. IRRESIGNAÇÃO MANIFESTADA NA VIGÊNCIA DO NCPC. AGRAVO DE INSTRUMENTO. EXECUÇÃO.CORREÇÃO MONETÁRIA. TAXA SELIC. MATÉRIA DE ORDEM PÚBLICA (PRECLUSÃO) OBJETO DE PRÉVIA DECISÃO NÃO IMPUGNADA. IMPOSSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A ORIENTAÇÃO FIRMADA NO AMBITO DESTA CORTE.INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. AGRAVO CONHECIDO.RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 1626).
+No presente recurso aclaratório, o GUPO OK alegou omissão no julgado, ao sustentar que "não há nenhum ponto no acórdão recorrido no qual se tenha discutido o o índice de juros ou mesmo de correção monetária", apontando, ainda,contradição, pois, ao contrário do que constou do acórdão recorrido "a aplicação da Taxa SELIC aos cálculos da presente execução mostra-se necessária e plenamente possível, haja vista o enquadramento da hipótese dos autos aos termos do artigo 406 do CC/2002"(e-STJ, fl. 1648).
+Foi apresentada impugnação.
+É o relatório.
+DECIDO.
+Os presentes embargos, não comportam acolhimento.
+Com efeito, constou da decisão embargada que a matéria atinente à aplicação da taxa SELIC aos cálculos da execução se encontrava preclusa, porquanto não impugnada no momento processual oportuno, senão vejamos:
+ ..
+Saliente-se que os embargos à execução foram integralmente rejeitados e que a sentença, a esse respeito, no julgamento do apelo interposto pela parte agravada, não sofreu alteração por parte desta egrégia Turma, como se verifica da consulta ao inteiro teor do acórdão citado.
+Portanto, inclusive em relação à cobrança estampada na execução nº 57572/95, estabilizou-se o valor demandado na execução ora em curso, impondo-se, tão-somente, a atualização da dívida. Com outras palavras, por força da coisa julgada que se formou no julgamento dos embargos à execução, bem como, ante a eficácia preclusiva que decorre da extinção de embargos à execução ofertados contra a cobrança espelhada no executivo nº 4.524/97, revela-se descabido o revolvimento do valor demandado no feito de origem, bem assim o critério de atualização monetária da dívida, eis que objeto dos embargos à execução (como deixa ver o documento id.3845539), ainda que mediante alegação de que poderá culminar em enriquecimento indevido da parte exequente.
+Contudo, a pretendida não-incidência da taxa Selic de forma cumulada com a atualização monetária da dívida não está acobertada pela preclusão, eis que se fundamenta em norma que entrou em vigor depois de resolvidos os embargos à execução.
+Nesse caso, referida matéria é passível de ser discutida em sede de embargos à penhora .. (e-STJ, fls. 1629, sem destaque no original).
+Assim, tendo a decisão embargada se manifestado de formaclara e fundamenta acerca dos pontos tidos por omissos e contraditórios, afasta-se a alegada vulneração ao art. 1022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração do GRUPO OK.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ACLARATÓRIOS DO GRUPO OK. ART. 1022 DO NCPC. ALEGADA OMISSÃO QUANTO A FORMA DE ATUALIZAÇÃO DO DÉBITO (APLICAÇÃO DA TAXA SELIC). OMISSÃO NÃO VERIFICADA. EMBARGOS REJEITADOS.
