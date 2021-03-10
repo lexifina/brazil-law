@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/15. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022, do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios forreconhecido.
+2. EMBARGOS DE DECLARAÇÃO REJEITADOS
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARIA ANTONIA FERRAZ DA SILVA em face de acórdão que rejeitou os embargos de declaração.
+A embargante alega que "houve suspensão dos prazos no egrégio TJMG, nos dias 25.05.18 (sexta-feira); 28 (segunda-feira); 29 (terça-feira), 30.05.18 (quarta-feira), por conta da Greve dos Caminhoneiros (Portarias-Conjuntas da Presidência do TJMG, nº 749, 750 e 751/2018 -atos normativos anexos), tendo sido feriado de Corpus Christi no TJMG o dia 31.05.18, também sem expediente o dia 1º.06.18 (Portaria Conjunta da Presidência do TJMG, nº 743/PR/2018 -ato normativo anexo)" (e-STJ, fl. 734).
+Defende que "o prazo recursal, em dobro, de 30 dias, por que há litisconsortes com procuradores distintos (art. 229 do NCPC), passou a fluir, na verdade, do dia 04.06.18, segunda-feira, para expirar em 13.07.18, sexta-feira, observado, ainda, o disposto nos art. 219 e 224 e §§ do NCPC" (e-STJ, fl. 734).
+É o breve relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/15. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 1.022, do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios forreconhecido.
+2. EMBARGOS DE DECLARAÇÃO REJEITADOS
+VOTO
+Eminentes Colegas, a pretensão não merece ser acolhida.
+Nos termos do art. 1.022 do CPC/15, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do julgado.
+De início, a parte embargante sustenta que houve suspensão do prazo processual, que não fora considerada no acórdão embargado.
+Contudo, mencionado na decisão que houve uma confusão nas datas, mas que tal questão não altera o julgado proferido, até porque o prazo em dobro pleiteado pela embargante não se aplica ao presente caso.
+Assim, conforme acertadamente consignado no acórdão embargado, o prazo em dobro previsto no art. 229 do NCPC, correspondente ao art. 191 do CPC/73, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos de escritórios de advocacia distintos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO. TEMPESTIVIDADE DO RECURSO ESPECIAL NÃO COMPROVADA. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. GREVE DOS CAMINHONEIROS. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO POR OCASIÃO DA INTERPOSIÇÃO DO APELO. INCIDÊNCIA DO ART. 1.003 DO CPC/2015. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ é sólida no sentido de que o prazo em dobro previsto no art. 229 do CPC/2015 não se aplica ao Agravo interposto contra a decisão que nega seguimento a Recurso Especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer, já que não se pode presumir que o recorrente que teve seu Apelo Nobre inadmitido pelo Tribunal de origem irá necessariamente agravar.
+2. Por outro lado, em função de determinação expressa no atual Código de Processo Civil, a jurisprudência do STJ é de que eventual suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, deve ser comprovada, por ocasião da interposição do recurso, no Tribunal de origem.
+3. Na hipótese dos autos, não houve comprovação, por documento idôneo, quando da interposição do Recurso Especial, de que foram suspensos os prazos processuais no Tribunal de origem nas datas apontadas pelo agravante, razão por que não há como alterar a decisão agravada.
+4. Ressalte-se que, embora a greve dos caminhoneiros, ocorrida em 2018, tenha sido em si fato amplamente noticiado, não é possível conferir a mesma notoriedade à decisão acerca dos prazos processuais no Tribunal estadual, especialmente porque a alegada suspensão não decorreu de determinação normativa com âmbito nacional, mas de deliberação em cada Corte.
+5. A Corte Especial assentou, em Questão de Ordem no REsp 1.813.684/SP, o entendimento de que é possível a comprovar a tempestividade do recurso, em momento posterior, na hipótese do feriado de segunda-feira de Carnaval, mas não quanto aos demais feriados, confirmando-se o posicionamento antes adotado.
+6. Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+7. Agravo Interno não provido.
+(AgInt no AREsp 1590511/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/11/2020, DJe 18/12/2020 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. FALTA DE COMPROVAÇÃO DO PAGAMENTO OPORTUNO. INTIMAÇÃO. PAGAMENTO EM DOBRO.NECESSIDADE. NÃO RECOLHIMENTO. DESERÇÃO. INTEMPESTIVIDADE. PRAZO EM DOBRO. INAPLICÁVEL À ESPÉCIE.
+1. A ausência de regular comprovação do preparo, no ato de interposição do recurso, implica a incidência do § 4º do art. 1.007 do CPC. Quem não prova o pagamento a tempo e modo, sem o amparo de justa causa (§ 6º), nem efetua o recolhimento em dobro quando intimado (§§ 4º e 5º) sofre a pena da deserção (Súmula 187/STJ). Não há falar em possibilidade de comprovação tardia, visto que a hipótese não se equipara às situações de regularização posterior previstas no § 2º (insuficiência no valor) e no § 7º (equívoco no preenchimento da guia).
+2. O prazo em dobro previsto no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer (AgInt no AREsp 1.081.447/GO, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 24/10/2017, DJe 19/12/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1635507/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/10/2020, DJe 21/10/2020 - grifou-se)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. "O prazo em dobro previsto no art. 229 do NCPC, correspondente ao art. 191 do CPC/73, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos de escritórios de advocacia distintos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer."(AgInt no AREsp 1294240/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 26/06/2019).
+2. O recurso especial é inadmissível quando couber, perante o Tribunal de origem, recurso contra a decisão impugnada. Aplicação analógica da Súmula 281 do STF.
+3. Agravo interno desprovido.
+(AgInt no REsp 1616363/MG,Rel.Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/05/2020, DJe 19/05/2020 - grifou-se)
+Portanto, o que a parte almeja nada mais é do que o rejulgamento da lide, repisando os mesmos argumentos, já afastados neste Tribunal.
+Na linha do que se argumentou acima, vejamos:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. TRIBUTÁRIO. FASE DE CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS. PRECATÓRIO. QUESTÃO PRECLUSA. ART. 473 DO CPC. AUSÊNCIA DE OMISSÃO. PRETENSÃO DE ALTERAÇÃO DO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O art. 535 do CPC é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração, cuidando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de obscuridade, contradição ou omissão no do julgado.
+2. Destarte, infere-se que, a par da pacífica orientação acerca da natureza recursal dos Declaratórios, estes não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas, apenas, à elucidação ou ao aperfeiçoamento do decisum em casos de obscuridade, contradição ou omissão.Não tem, pois, de regra, caráter substitutivo ou modificativo, ou seja, o condão de alterar, livre e substancialmente, o decisório, em seu dispositivo, mas, sim, aclarar ou integrar, razão por que seu processamento não é norteado pelos princípios do contraditório e da igualdade.
+3. Na hipótese, nenhum dos pressupostos de cabimento dos Declaratórios estão presentes; o acórdão embargado foi claro ao declinar as razões pelas quais a questão referente à possibilidade de expedição de precatório em nome do Advogado estava efetivamente preclusa, salientando haver decisão anterior nos autos da execução indeferindo o pleito, a qual não foi adversada pela exequente ou pelo Advogado.
+4. Não há que se falar, ademais, que inexistiria a preclusão reconhecida, porque a decisão sobre o precatório teria cunho administrativo; isso porque, no caso, referido decisum foi proferido no bojo do processo de execução de sentença, não se confundindo a hipótese dos autos com o julgado citado pela Embargante (RMS 14.940/RJ, Rel. Min. HUMBERTO GOMES DE BARROS, DJ 25.22.2002), que tratou de decisão de Presidente do Tribunal relativa a resgate de precatórios, posterior ao processo da execução.
+5. Embargos Declaratórios rejeitados.
+(EDcl no AgRg no Ag 1317568/PR, Rel. MinistroNapoleão Nunes Maia Filho, Primeira Turma, julgado em 17/12/2013, DJe 04/02/2014 - grifou-se)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. PLEITO DE SUSPENSÃO DO FEITO EM RAZÃO DE ADMISSIBILIDADE DE RECURSO REPETITIVO. IMPOSSIBILIDADE. INEXISTÊNCIA DE PREVISÃO LEGAL QUE IMPONHA AOS MEMBROS DESTA CORTE A SUSPENSÃO DOS RECURSOS QUE JÁ SE ENCONTRAM NO STJ EM TAL CASO. EMBARGOS REJEITADOS.
+1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado.
+2. Os embargos de declaração não se prestam ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+3. A suspensão prevista no art. 543-C do Código de Processo Civil somente é dirigida aos Tribunais locais, não abrangendo os recursos especiais já encaminhados ao STJ.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1392463/RS, Rel. MinistroLuis Felipe Salomão, Quarta Turma, julgado em 21/11/2013, DJe 03/12/2013 - grifou-se)
+Portanto, a matéria está decidida, sendo que os vícios apontados não se fazem presentes, pois realmente os óbices devem ser aplicados. A embargante busca, com o seu inconformismo, apenas rediscutir pontos já examinados.
+Ademais, o cerne da questão está no fato de que o prazo em dobro não se aplica ao presente caso, não possuindo qualquer influência a suspensão do prazo pelo Tribunal de origem.
+No caso, portanto, não se configura a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso, tendo em vista a ausência de impugnação específica.
+Amolda-se à espécie, pois, o entendimento pretoriano consolidado no sentido de que, "quando o Tribunal de origem, ainda que sucintamente, pronuncia-se de forma clara e suficiente sobre a questão posta nos autos, não se configura ofensa ao artigo 535 do CPC. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte" (AgRg no Ag 1.265.516/RS, 4ª Turma, Min. João Otávio de Noronha, DJe de 30/06/2010)
+Assim, não podem ser acolhidos embargos de declaração que, em verdade, traduzem inconformismo com a decisão posta, pretendendo rediscutir o que já foi decidido.
+Destarte, devem ser rejeitados os embargos opostos.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto
