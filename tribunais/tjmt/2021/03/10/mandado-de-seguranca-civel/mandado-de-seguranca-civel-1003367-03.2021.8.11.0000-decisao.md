@@ -1,0 +1,34 @@
+TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO E COLETIVO
+PJE - MANDADO DE SEGURANÇA CÍVEL (120) 1003367-03.2021.8.11.0000
+IMPETRANTE: PATRICIA DE OLIVEIRA SANTOS
+IMPETRADO: GOVERNADOR DO ESTADO DE MATO GROSSO
+Trata-se de Mandado de Segurança interposto por PATRICIA DE OLIVEIRA SANTOS, em face de ato acoimado coator atribuído ao EXMO. GOVERNADOR DO ESTADO DE MATO GROSSO, consistente na ausência de sua nomeação para o cargo de Agente de Segurança do Sistema Socioeducativo - Feminino – Polo de Lucas do Rio Verde.
+Sustenta a Impetrante que submeteu-se ao Concurso Público regido pelo Edital no 01/2018/SEJUDH, de 1o de agosto de 2018, no qual restou classificada no 7o lugar.
+Aduz que aguardava a sua nomeação, desde a homologação do certame, até que foram nomeadas, em 1o.02.2021, dezenas de candidatas ao cargo, inclusive agentes femininas, para o polo para o qual a Impetrante concorreu, em Lucas do Rio Verde, por meio do Ato n. 961/2021, atingindo até a sexta colocada.
+Alude que a quinta colocada, em conversa de redes sociais (Whatsapp), manifestou publicamente o seu desinteresse em tomar posse do cargo, tendo esta inclusive protocolizado sua desistência formal junto à Secretaria de Estado de Planejamento e Gestão, com firma reconhecida.
+Ressalta que foi publicado, por meio do DOE 27.938, de 16.02.2021, a Portaria n.005/2021/SAJU/SESP, dando início ao Curso de Formação aos classificados e nomeados por meio do Ato Governamental n. 951/2021, com início aos 02.03.2021.
+Aponta que a lesão ao seu direito líquido e certo decorre da convocação precoce dos candidatos para o curso de formação, posto que se iniciará antes do fim do prazo de 30 dias para que os nomeados tomem posse, o que não possibilitará constatar vacância da vaga ofertada, antes do início do curso de formação, destacando que não há divulgação quanto a situação de posse dos candidatos no sítio eletrônico da SEPLAG.
+Ressalta que a vacância do cargo é inequívoca, ante a declaração da 5a colocada, demonstrando a sua preterição, porquanto estará impossibilitada de participar do curso de formação e de efetivamente entrar no exercício da função, gerando ainda despesas adicionais à administração pública, com a realização de novo curso de formação.
+Informa que protocolizou requerimento administrativo visando sua nomeação, diante do exposto, visando a resolução administrativa do pleito, sem, contudo, obter resposta da Administração Pública.
+Aponta que o direito invocada encontra precedente em decisão proferida em regime de repercussão geral perante o Supremo Tribunal Federal (RE 837.311/PI).
+Requer a concessão de liminar, a fim de que seja imediatamente nomeada e empossada no cargo de Agente de Segurança do Sistema Socioeducativo – Feminino – Polo de Lucas do Rio Verde, salvaguardando seu direito de participação no Curso de Formação que se iniciou no dia 02 de março de 2021, com o abono das faltas eventualmente ocorridas até o cumprimento da decisão, e, alternativamente, a sua nomeação e posse, resguardando o direito de recebimento integral dos proveitos econômicos em função administrativa, até que seja viabilizada novo Curso de Formação, com fixação de multa diária de R$ 5.000,00 (cinco mil reais) em caso de descumprimento.
+É o relatório.
+Decido.
+Para a concessão de liminar em sede de ação mandamental, necessária a demonstração conjunta do fumus boni iuris e do periculum in mora.
+Em juízo de cognição sumária, é possível extrair dos documentos colacionados à inicial que a Impetrante sagrou-se classificada na 7a colocação, no cadastro de reserva, no Concurso Público regido pelo Edital n. 01/2018.
+A Impetrante comprovou, ainda, que o Impetrado promoveu a convocação dos 06 primeiros classificados no concurso (id. 78089969) e que a 5a colocada – Jéssica Cristina Catafesta – protocolizou formalmente Termo de Desistência de Posse junto à Secretaria de Estado de Segurança Pública, aos 08.02.2021, em documento com firma reconhecida (id. 78089971 – p. 01).
+Desta forma, a Impetrante, que possuía mera expectativa de direito, passou a contar com direito líquido e certo à sua nomeação, diante da desistência de candidato melhor classificado.
+Nesse sentido, posicionou-se este Colegiado:
+MANDADO DE SEGURANÇA — CONCURSO PÚBLICO — CANDIDATO CLASSIFICADO – PRAZO DE VALIDADE DO CERTAME EXPIRADO — DESISTÊNCIA EXPRESSA DE CANDIDATO APROVADO EM 1o LUGAR — COMPROVAÇÃO — EXISTÊNCIA DE VAGA — CONSTATAÇÃO — DIREITO À NOMEAÇÃO – SEGURANÇA CONCEDIDA.
+O direito à nomeação se estende ao candidato aprovado fora do número de vagas previstas no edital, mas que passe a figurar entre as vagas em decorrência da desistência de candidatos classificados em colocação superior.”. (STF, ARE 1058317). Segurança deferida. (N.U 1007059-15.2018.8.11.0000, (N.U 1014943-61.2019.8.11.0000, CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO, HELENA MARIA BEZERRA RAMOS, Turma de Câmaras Cíveis Reunidas de Direito Público e Coletivo, Julgado em 04/02/2021, Publicado no DJE 18/02/2021)
+MANDADO DE SEGURANÇA - CONCURSO PÚBLICO – APOIO ADMINISTRATIVO EDUCACIONAL – EDITAL 001/2017 - CANDIDATO CLASSIFICADO FORA DO NÚMERO DE VAGAS – DESISTÊNCIA DE APROVADO NOMEADO – ATO POSITIVO DA ADMINISTRAÇÃO – INTERESSE NO PREENCHIMENTO DO CARGO - EXPECTATIVA DE DIREITO CONVOLADA EM DIREITO LÍQUIDO E CERTO – ORDEM CONCEDIDA – AGRAVO INTERNO PREJUDICADO.
+Os candidatos classificados em concurso público fora do número de vagas previstas no edital possuem mera expectativa de direito à nomeação. Precedentes do STF e STJ.
+A mera expectativa de nomeação dos candidatos classificados em concurso público (fora do número de vagas) convola-se em direito líquido e certo quando, dentro do prazo de validade do certame, há surgimento de vagas em decorrência da desistência de candidatos aprovados e nomeados. (N.U 1013054-09.2018.8.11.0000, CÂMARAS CÍVEIS REUNIDAS DE DIREITO PÚBLICO, GILBERTO LOPES BUSSIKI, Turma de Câmaras Cíveis Reunidas de Direito Público e Coletivo, Julgado em 04/02/2021, Publicado no DJE 18/02/2021)
+De igual maneira, resta patente o prejuízo decorrente da não participação da Impetrante no curso de formação, iniciado no dia 02.03.2021, caso tenha que aguardar o término do trâmite da Ação Mandamental ou que venha se iniciar novo curso de formação para que possa entrar em exercício dentro do cargo para o qual encontra-se habilitada a exercer.
+Ante o exposto, CONCEDO A LIMINAR para determinar a nomeação da Impetrante no cargo de Agente de Segurança do Sistema Socioeducativo – Feminino – Polo de Lucas do Rio Verde, salvaguardando seu direito de participação no Curso de Formação que se iniciou no dia 02 de março de 2021, com o abono das faltas eventualmente ocorridas até o cumprimento da decisão.
+Intime-se imediatamente.
+Cumpra-se art. 7o, I e II da Lei n. 12.016/2009.
+Após, colha-se o parecer da i. Procuradoria Geral de Justiça.
+Cuiabá-MT, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
