@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por BRATA - BRASÍLIA TRANSPORTE E MANUTENÇÃO AERONÁUTICA S/A, contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"PROCESSUAL CIVIL. SOCIEDADE EMPRESÁRIA. PENHORA. FATURAMENTO. POSSIBILIDADE. AUSÊNCIA DE BENS PASSÍVEIS DE CONSTRIÇÃO. LIMITAÇÃO. PERCENTUAL. RAZOÁVEL.
+1. Nos termos do artigo 866, do Código de Processo Civil, a penhora sobre o faturamento da pessoa jurídica executada é possível, desde que preenchidos os requisitos legais, dentre eles, a inexistência de bens penhoráveis.
+2. Diante da inviabilidade de constrição de outros bens ou de adoção de meio menos gravoso para a devedora, impõe-se a penhora de percentual razoável incidente sobre o faturamento da sociedade empresária.
+3. A penhora sobre o faturamento da sociedade empresarial deve ser fixada em percentual que não comprometa a sua atividade empresarial" (fl. 30e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 39/41e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. AUSÊNCIA DE VÍCIO. REDISCUSSÃO DA MATÉRIA. MERO INCONFORMISMO. IMPOSSIBILIDADE. VIA INADEQUADA. PREQUESTIONAMENTO.
+1. A via dos embargos de declaração destina-se a corrigir falha do comando judicial que comprometa seu entendimento, quando decorrente de contradição, omissão, obscuridade ou, por construção jurisprudencial, correção de erro material.
+2. Ausente qualquer dos vícios catalogados no artigo 1.022 do Código de Processo Civil, revela-se incabível a via manejada, destinada exclusivamente à correção de falha do julgado e não meio de substituição de provimentos judiciais, fim para o qual assiste à parte os remédios processuais específicos.
+3. Quando o fundamento exposto for capaz de embasar a decisão, o julgador não é obrigado a rechaçar, um a um, todos os argumentos elencados pelos litigantes.
+4. Não há necessidade de menção específica dos dispositivos legais para fins de prequestionamento, bastando, para tanto, que a questão constitucional ou federal seja efetivamente discutida nas instâncias ordinárias.
+5. Recurso conhecido e desprovido" (fl. 49e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 605, 805, 829, §2º, 866, 1.022, I e II, do CPC/2015, sustentando que:
+"(..) no Agravo de Instrumento a parte alegou: i) a excepcionalidade da penhora sobre a renda da Recorrente, ante a existência de bens outros passíveis de penhora; e ii) a substituição da penhora por crédito que possui perante o próprio credor (Distrito Federal).
+Ocorre, porém, que o acórdão limitou-se a tratar sobre o pedido i) e, ainda, não disse se o crédito indicado poderiaser óbice à penhora sobre o faturamento, devidamente nomeado.
+Por isso, opôs os competentes aclaratórios. Entretanto, a Turma manteve-se silente.
+Veja, nobres julgadores, que até o momento não sabe porque entendeu que o crédito nomeado não poderia servir, mesmo terceiro (o qual autorizou a constrição). Tampouco, sabe o crédito em que o devedor é o próprio Recorrente, NÃO PÔDE SER PENHORADO, SUBSTITUINDO A PENHORA SOBRE O FATURAMENTE DA RECORRENTE.
+(..)
+(..) a penhora sobre faturamento é medida excepcional e, portanto, somente cabível quando esgotados todos os meios necessários à apuração de outros haveres que sirvam à garantia do débito.
+(..)
+(..) o ordenamento jurídico brasileiro homenageou o Princípio da Menor Onerosidade do Devedor. É dizer: havendo mais de um meio, a execução deve correr da forma que menos onere o Executado, conforme disposto no art. 805, do CPC"(fls. 59/64e).
+Por fim, requer o provimento do recurso.
+Contrarrazões a fls. 76/83e.
+Inadmitido o Recurso Especial (fls. 85/87e), foi interposto o presente Agravo (fls. 90/103e).
+Contraminuta não apresentada.
+A irresignação não merece prosperar.
+Em relação ao art. 1.022, I e II,do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mérito, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que :
+Neste contexto, no caso dos autos, em uma análise perfunctória,típica do exame liminar que ora se impõe, ao analisar todas as decisões proferidas no processo originário, tem-se a agravante nomeou a penhora parte de crédito de outra ação (ID 23321669 dos autos originários), em que o juízo a quo entendeu que não é de sua titularidade e que o titular autorizou apenas que fosse utilizado para fins de garantia (decisão de ID 27646980).
+Ato contínuo, foram solicitadas ao i) Banco Central informações acerca da existência de conta bancária de titularidade da agravante e quanto ao saldo existente até integral satisfação do crédito; ii) ao Detran, por meio eletrônico (Renajud), informações acerca da existência de veículos cadastrados em nome da recorrente; iii) aos Cartórios de Registro de Imóveis, por meio do sistema eRIDF e do Sistema de Penhora Eletrônica de Imóveis, informações acerca da existência de imóveis em nome da agravante, mas todas estas diligências restaram infrutíferas (conforme decisão de ID 29574514 cumprimento de sentença n.º 0708648-09.2017.8.07.0018 do).
+Por tal razão, foi deferida a penhora sobre 10% (dez por cento) do faturamento da empresa devedora (ID 33310186 dos autos originários).
+Neste contexto, apesar das alegações despendidas pela agravante, a análise dos autos originários conduz a conclusão de inexistência de outros bens penhoráveis, ao passo em que o exequente, ora agravado, já utilizou de todas as formas disponíveis para localização de patrimônio passível de constrição.
+Ademais, o pedido de penhora de 10% (dez por conto) faturamento da empresa encontra respaldo jurídico (artigo 866 do Código de Processo Civil) e, ao menos nessa análise preliminar, não causa onerosidade excessiva ao executado/agravante e atende aos princípios da razoabilidade e proporcionalidade.
+(..)
+No caso dos autos, restou evidente que o agravado esgotou todos os meios para localizar bens passíveis de penhora, haja vista que o juiz a quo deferiu e realizou pesquisas de bens do agravante junto ao Renajud, Bacenjud e eRIDF, todas infrutíferas, sendo que o crédito existente nos autos n.º 23.365/96, indicado pelo agravante como garantia do débito, a ser utilizado sob a forma compensação, não deve ser aceito por não ser de titularidade do agravante, conforme entendeu o juiz a quo.
+Ressalta-se, ainda, que a penhora foi deferida no importe de 10% (dez por cento) sobre o faturamento do agravante, o que não inviabiliza a continuidade de sua atividade empresarial, bem como foi nomeado administrador depositário o próprio representante legal da empresa agravante, em atenção ao disposto no artigo 866 do Código de Processo Civil" (fls. 35/36e).
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, paraconhecer em partedo Recurso Especial e, nessa extensão, negar-lhe provimento.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
