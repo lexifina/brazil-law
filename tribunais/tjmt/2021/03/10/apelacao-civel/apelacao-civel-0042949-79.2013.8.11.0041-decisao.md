@@ -1,0 +1,65 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 0042949-79.2013.8.11.0041
+RECORRENTE: EDIFÍCIO AMADEUS COMMERCE LTDA.
+RECORRIDOS: SELMA CIRSTINA AGNELLO DE CARVALHO E JACSON MARIANO DE CARVALHO
+Vistos.
+Trata-se de Recurso Especial (id 74942957) interposto por EDIFÍCIO AMADEUS COMMERCE LTDA., com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, assim ementado (id 67342523):
+“APELAÇÃO CÍVEL - AÇÃO DE NUNCIAÇÃO DE OBRA NOVA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS – IRREGULARIDADE NA CONSTRUÇÃO – COMPROVAÇÃO – VIOLAÇÃO AO DIREITO DE VIZINHANÇA – DANOS MATERIAIS COMPROVADOS – DANOS MORAIS CONFIGURADOS – RECURSO NÃO PROVIDO.
+Ação de nunciação de obra nova possui, como finalidade precípua, impedir o abuso no direito de construção, porque este encontra limites no direito de vizinhança.
+Assim, mesmo sendo proprietário do seu imóvel, a pessoa deve se abster de ofender o patrimônio, a intimidade e a integridade dos seus vizinhos.
+O apelado agiu com abuso no direito de propriedade e violação ao direito de vizinhança, já que, mesmo a obra tendo sido iniciada com a aprovação do projeto e a concessão de alvará pela Prefeitura, a execução não obedeceu aos ditames legais, ensejando as graves avarias constatadas no imóvel dos autores e, por conseguinte, o direito à reparação pelos prejuízos experimentados.
+A conduta ilícita perpetrada pelos requeridos, extrapolou, em muito, o mero dissabor da vida cotidiana, porquanto interferiram gravemente, por anos, no direito de moradia digna, segura e saudável dos autores, ensejando, assim, indubitavelmente, na ocorrência do dano moral indenizável”. (TJMT – Quarta Câmara de Direito Privado – Apelação n. 0042949-79.2013.8.11.0041, Relatora: Desa SERLY MARCONDES ALVES, j. em 18/11/2020, p. 25/11/2020).
+Opostos Embargos de Declaração (id 68991476), estes foram rejeitados no acórdão de 71049475.
+Na espécie, o presente recurso foi interposto contra o aresto que, em sede de Apelação, interposto pelo Edifício Amadeus Commerce Ltda., manteve a sentença proferida pelo Juízo da 10a Vara Cível da Comarca de Cuiabá, que julgou parcialmente procedentes os pedidos formulados na Ação de Nunciação de Obra Nova C/C Perdas e Danos e Danos Morais, ajuizada por Selma Cristina Agnello de Carvalho e Jackson Mariano de Carvalho, para determinar que a parte requerida se exima de continuar com a obra, até que devidamente aprovados os projetos construtivos e cumprida a legislação municipal, e enquanto isso, deverá promover a manutenção/limpeza do terreno; condenar a parte ré ao pagamento de indenização pelos danos causados no imóvel da parte autora, a ser apurado mediante perícia técnica, em sede de liquidação de sentença; condenar a parte ré ao pagamento de R$ 15.000,00 (quinze mil reais) para cada autor, a título de danos morais.
+O Recorrente alega violação aos artigos 489, § 1o, IV, e 1.022, parágrafo único, II, do Código de Processo Civil, ao argumento de que o acórdão teria sido omisso.
+Argui contrariedade ao artigo 1.229 do Código Civil, porquanto a obra de atiramento de concreto não é irregular, pois tinha alvará de construção, além do que a obra no subsolo dos Recorridos não é ilegal, visto que não é área útil utilizada por eles.
+Recurso tempestivo (id 74948951) e preparado (id 76306965).
+Contrarrazões no id 77206973.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação aos artigos 489, § 1o, IV, e 1.022, parágrafo único, II, do CPC
+A partir da suposta ofensa aos artigos 489, § 1o, IV, e 1.022, parágrafo único, II, do CPC, o Recorrente alega que o órgão fracionário deste Tribunal não teria analisado o fato de que a obra estava licenciada pelo Município de Cuiabá com Alvará de Construção em vigor na época, além de estar prevista no projeto aprovado na Prefeitura de Cuiabá, bem como de que a obra de atiramento de concreto era para segurança de ambos, tanto dos vizinhos quanto do próprio empreendimento.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Com efeito, ficou consignado que, já de início, foram verificadas falhas administrativas na execução da obra, que se desenvolvia sem a observância de exigências legais.
+Somente após a inspeção fiscalizatória e a lavratura dos autos de infração, com o consequente embargo da obra, é que os requeridos, ora embargantes, se apressaram na tentativa de regularizar, junto ao órgão competente, as pendências apontadas pelo agente público, consoante se denota do requerimento administrativo colacionado ao id. 62883015 (fls. 52/53), datado de 15/04/2013.
+Como resultado da continuidade da obra, levada a efeito em razão do desembargo administrativo galgado pelos requeridos, o que se viu foi uma verdadeira destruição do imóvel dos embargados.
+As irregularidades, tanto na documentação (ausente ou inexistente), quanto na forma de execução do projeto, assim como os transtornos causados à vizinhança, foram tamanhos, que motivou, inclusive, a interferência do Ministério Público Estadual, por meio do ajuizamento da Ação Civil Pública de no 1134-42.2014.811.0082, em face do Município de Cuiabá e da Construtora Athos S.A.
+(...)
+Naquela mesma demanda, foi produzido o Laudo Pericial, colacionado aos id’s. 62885094, 62885095 e 62885096 (fls. 176/191), que foi conclusivo ao apontar a responsabilidade da obra de construção do Edifício Amadeus Commerce Ltda., pelos danos causados às moradias da vizinhança.
+Desse modo, ficou sobejamente comprovado, pelos elementos de prova colacionados aos autos, que, de fato, o apelado agiu com abuso no direito de propriedade e violação ao direito de vizinhança, já que, mesmo a obra tendo sido iniciada com a aprovação do projeto e a concessão de alvará pela Prefeitura, a execução não obedeceu aos ditames legais, ensejando as graves avarias constatadas no imóvel dos autores e, por conseguinte, o direito à reparação pelos prejuízos experimentados”. (id 70854475 - p. 1-2)
+Diante desse quadro, não há evidência de violação ao artigo 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação ao artigo 1.229 do CC, está amparada na assertiva de que a obra de atiramento de concreto não é irregular, pois tinha alvará de construção, além do que a obra no subsolo dos Recorridos não é ilegal, visto que não é área útil utilizada por eles.
+No entanto, consignou-se no aresto recorrido que “em 11/04/2013, a obra recebeu a “visita” de um agente de fiscalização do meio ambiente do município, o Sr. Márcio Carvalho, responsável pela lavratura do Auto de Infração de no 008104 (id. 62883014 - Pág. 4, fls. 50), que, de pronto, identificou que a obra, a qual se encontrava em fase de movimentação de terra, com corte próximo às moradias dos confinantes, estava sendo realizada sem qualquer autorização do setor competente municipal e sem a presença de um responsável técnico pela terraplanagem no local, contrariando aos artigos 1o, 2o, I, II e II, da Lei Complementar no 102/2003, aos artigos 422, 423, §§1o, 2o e 3o, 424, 252 e 253, todos da Lei Complementar no 231/2011. No mesmo documento, o fiscal do município consignou que a situação observada era de extrema gravidade, por se tratava de obra com perfuração, em subsolo de propriedades vizinhas, sem qualquer autorização dos proprietários e sem acompanhamento de responsável técnico, ensejando o embargo da obra. (Id. 62883014 - Pág. 4, fls. 50)”. (67342523 - p. 4)
+Constou, ainda do acórdão que “o Relatório de Visita Técnica, realizada de forma independente pelo autor Jacson Mariano, elaborado pelo Engenheiro Civil Renato Duarte (id. 62883020, fls. 73), datado de 19/06/2013, identificou a existência de percolação de nata de cimento junto ao gramado do quintal do autor, proveniente da ‘execução de injeção de nata de cimento, em 1 dos furos da cortina atirantada’ (sic.), conforme demonstrado pelas fotografias impressas no documento. Também foram identificadas fissuras em volta da piscina e próximo ao muro de divisa, de igual modo, tudo demonstrado por fotografias (id. 62883019 - Pág. 5, fls. 74). O relatório apontou, ainda, que, na mesma região, observou-se o desplacamento da piscina, junto ao seu entorno, indicando movimentação vertical. Tudo demonstrado, por meio de fotografias. (Id. 62883020 - Pág. 1)”. (id 70854475 - p. 1)
+Logo, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o exame dos fatos e provas dos autos, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONSTRUÇÃO DE CONDOMÍNIO DE PRÉDIOS. DANOS NO IMÓVEL VIZINHO. LEGITIMIDADE PASSIVA DE PARTICIPANTE DO EMPREENDIMENTO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A empresa que veicula propaganda do empreendimento e ostenta tapumes na obra com placa indicativa de seu nome, fazendo crer ser responsável pelo empreendimento, é parte legítima para compor o polo passivo da ação fundada nos danos da construção, com base na teoria da aparência. Precedentes.
+2. Evidenciado, pela prova dos autos, que a edificação do empreendimento imobiliário por parte das rés concorreu eficazmente para os danos constatados no imóvel residencial dos autores, causando insegurança e uma série de outros transtornos.
+Quantificação e valoração dos danos materiais pela prova pericial, sem possibilidade de revisão no âmbito estreito do recurso especial, em razão do óbice disposto na Súmula 7 desta Corte.
+3. Quanto à caracterização do dano moral, o acórdão recorrido ressaltou que o sofrimento imposto aos autores foi excessivo, notadamente por serem pessoas idosas, que tiveram, por longo período de tempo, efetivo embaraço e insegurança, diferenciando a situação experimentada de um mero dissabor ou aborrecimento comumente tolerável em obras e construções.
+4. Somente é possível a revisão do montante da indenização por danos morais nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que não ocorreu no caso em exame.
+5. Agravo interno não provido”.
+(AgInt no REsp 1512069/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5a REGIÃO), QUARTA TURMA, julgado em 25/09/2018, DJe 28/09/2018). (g.n.)
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“PROCESSUAL CIVIL. FIXAÇÃO IRRISÓRIA DE HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7 DO STJ. DIVERGÊNCIA PREJUDICADA.
+(...)
+2. A jurisprudência do STJ é firme no sentido de que o quantum da verba honorária, em razão da sucumbência processual, está sujeito a critérios de valoração delineados na lei processual. Sua fixação é ato próprio dos juízos das Instâncias ordinárias, e só pode ser alterada em Recurso Especial quando tratar de valor irrisório ou exorbitante, o que não se configura.
+3. Dessa forma, modificar o entendimento proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme sua Súmula 7: ‘A pretensão de simples reexame de prova não enseja Recurso Especial’.
+4. A análise do dissídio jurisprudencial fica prejudicada, em virtude da aplicação da Súmula 7 do STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+5. Recurso Especial não conhecido”. (REsp 1765987/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2018, DJe 23/11/2018). (g.n.)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
