@@ -1,0 +1,7 @@
+DECISÃO
+MATEUS ROBERTE CARIAS opõe embargos de declaração contra a decisão de fls. 1.916, que não conheceu do agravo interposto, porquanto manifestamente incabível.
+Em suas razões, alega que "a respeitável decisão, foi omissa no que diz respeito ao apontar que o Embargante incorreu no mesmo equívoco na medida em que se restringiu a argumentar, tal como fez no agravo, a ocorrência de cerceamento de defesa, sem, contudo, afastar o fundamento externado pela decisão desta Corte" (fl. 1921). Assinala que "a defesa rebateu sim nas razões do Agravo regimental todos os fundamentos da decisão que se pretende ver reformada" (fl. 1.921, destaquei).
+Entretanto, como se observa, a aventada omissão suscitada pelo embargante diz respeito ao acórdão proferido em agravo regimental e não à decisão de fls. 1.916. Ocorre que o referido acórdão não foi embargado a tempo e modo. Ao invés disso, utilizou-se o insurgente do agravo como meio de impugnação, situação que ensejou seu não conhecimento.
+Ora, não há como pretender, nesta oportunidade, o esclarecimento de eventual omissão ocorrida no julgamento do agravo regimental, seja porque estes embargos se voltam contra decisão unipessoal que considerou manifestamente incabível o agravo, seja porque, com o transcurso do prazo após a publicação do acórdão, houve a preclusão em relação à existência de eventual vício.
+À vista do exposto, rejeito os embargos.
+Publique-se e intimem-se.
