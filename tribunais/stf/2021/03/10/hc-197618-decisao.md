@@ -1,0 +1,26 @@
+decisão
+    Trata-se de Habeas Corpus no qual se alega constrangimento ilegal em decorrência da excessiva demora do Superior Tribunal de Justiça para julgar o HC 525.931/PR, submetido à relatoria do Ministro RIBEIRO DANTAS.
+    Nesta ação, a defesa alega a existência de constrangimento ilegal, tendo em vista que não há justificativa plausível para que, passados quase um ano e meio da conclusão para julgamento do processo do paciente em trâmite no Superior Tribunal de Justiça, o Ministro Relator não o tenha sequer inserido em pauta para que seja julgado pela Turma.
+    Requer, assim, a concessão da ordem, para sanar a demora na prestação jurisdicional do Superior Tribunal de Justiça, determinando-se que o Ministro Relator do HC nº 525.931 PR inclua o processo na próxima sessão de julgamento da citada Corte de Justiça ou imprima máxima celeridade à tramitação do feito já concluso para este fim.
+    Em 10 de fevereiro de 2021, solicitei informações ao Ministro Relator do HC 525.931/PR, do Superior Tribunal de Justiça.
+    Foram prestadas as informações pelo STJ (Doc. 10).
+    É o relato do essencial. Decido.
+    A EC 45/2004 (Reforma do Judiciário) assegurou a todos, no âmbito judicial e administrativo, a razoável duração do processo e os meios que garantam a celeridade de sua tramitação, pois, como proclamado por esta SUPREMA CORTE,
+    “o direito ao julgamento, sem dilações indevidas, qualifica-se como prerrogativa fundamental que decorre da garantia constitucional do ‘due process of law’” (HC 89751, Relator: Min. GILMAR MENDES, DJ 5/12/2006).
+    A constitucionalização da razoável duração do processo veio reiterar a consagração constitucional de celeridade processual, contemplada, tanto na consagração do princípio do devido processo legal, quanto na previsão do princípio da eficiência aplicável ao Poder Judiciário (CF, art. 37, caput), pois, como bem lembrado pelo Decano da CORTE, Ministro CELSO DE MELLO,
+    “Cumpre registrar, finalmente, que já existem, em nosso sistema de direito positivo, ainda que de forma difusa, diversos mecanismos legais destinados a acelerar a prestação jurisdicional (CPC, art. 133, II e art. 198; LOMAN, art. 35, incisos II, III e VI, art. 39, art. 44 e art. 49, II), de modo a neutralizar, por parte de magistrados e Tribunais, retardamentos abusivos ou dilações indevidas na resolução dos litígios” (Mandado de injunção nº 715/DF).
+    O processo judicial deve garantir todos os direitos às partes, sem, contudo, esquecer a necessidade de desburocratização de seus procedimentos na busca de qualidade e máxima eficácia de suas decisões, que devem ser proferidas em tempo razoável, pois a inércia estatal pode resultar tanto na consolidação de constrangimento ilegal quanto na inefetividade da Justiça Penal (AP 568, Rel. Min. ROBERTO BARROSO, Primeira Turma, julgado em 14/4/2015, DJe de 18/5/2015; HC 136.435, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 22/11/2016, DJe de 6/12/2016).
+    No presente caso, em consulta ao sítio eletrônico do STJ, é possível verificar que o HC 525.931/PR foi autuado em 8/8/2019. Instruídos com as informações solicitadas, os autos foram enviados, também em 12/8/2019, ao Ministério Público Federal, para parecer. Em 4/9/2019, o processo foi concluso ao Ministro RIBEIRO DANTAS.
+    Em resposta ao pedido de informações solicitadas por esta CORTE, a autoridade apontada como coatora registrou:
+    1. Os autos foram a mim distribuídos em 08/08/2019, por prevenção ao processo HC 455.381/PR.
+    2. Em 12/08/2019, os autos foram encaminhados ao Ministério Público Federal.
+    3. Em 04/09/2019, o processo retornou do Ministério Público Federal com parecer pela não concessão da ordem.
+    4. Concluso, o processo será julgado até o final do próximo mês de abril.
+    Na presente hipótese, portanto, o alongado período de trâmite processual não demonstra razoabilidade, ferindo o princípio constitucional proclamado no inciso LXXVIII do artigo 5º, em que pese a quantidade e complexidade de demandas em processamento junto ao Superior Tribunal de Justiça, fatores que não podem ser ignorados no exame de regularidade do desenvolvimento do processo.
+    Sob essa perspectiva, o SUPREMO TRIBUNAL FEDERAL já decidiu que o Habeas Corpus poderá ser utilizado como meio processual adequado para determinar o julgamento de processo em trâmite no Superior Tribunal de Justiça na hipótese em que configurada excessiva demora para sua apreciação (HC 139.166, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 6/2/2018; HC 136.435, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 6/12/2016; HC 118.916-ED, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 19/12/2014; HC 119.542, Rel. Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 23/5/2014; HC 108.643, Rel. Min. LUIZ FUX, Primeira Turma, DJe de 26/10/2012; HC 104.636, Rel. Min. AYRES BRITTO, Segunda Turma, DJe de 1º/2/2011; HC 103.833, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 14/12/2010).
+    Diante do exposto, com base no art. 192, caput, do Regimento Interno do Supremo Tribunal Federal, CONCEDO A ORDEM DE HABEAS CORPUS para determinar ao Superior Tribunal de Justiça que proceda ao julgamento do HC 525.931/PR, no prazo máximo de quatro sessões. Comunique-se.
+    Publique-se.
+    Brasília, 10 de março de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
