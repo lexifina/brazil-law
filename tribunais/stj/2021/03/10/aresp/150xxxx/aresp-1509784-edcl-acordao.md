@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO A SER SANADA.
+EMBARGOS REJEITADOS.
+RELATÓRIO
+Trata-se de embargos de declaração nos embargos de declaração no agravo interno no agravo em recurso especial opostos por THIAGO PINTO ALEXANDRE contra acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VÍCIOS QUE PUDESSEM JUSTIFICAR A OPOSIÇÃO DE EMBARGOS DECLARATÓRIOS. EMBARGOS OPOSTOS COM CLARO INTUITO DE REDISCUSTIR O MÉRITO DA DECISÃO.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Nas razões deste recurso, o embargante afirma que haveria omissão quanto à "condenação em honorários de sucumbência em relação a Embargada LPS BRASIL CONSULTORIA DE IMÓVEIS S/A".
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO A SER SANADA.
+EMBARGOS REJEITADOS.
+VOTO
+Eminentes colegas, os embargos devem ser rejeitados.
+Resta assente na jurisprudência deste Tribunal Superior que o arbitramento de honorários recursais depende de três requisitos: "a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso".
+Observe-se que tal questão foi apreciada pela Corte Especial deste Tribunal Superior, órgão responsável pela uniformização jurisprudencial das Seções que a compõem. Transcrevo a ementa deste julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO MONOCRÁTICA NÃO ATACADA. INADMISSIBILIDADE. REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. VIABILIDADE. RECURSO NÃO PROVIDO.
+1. Não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, conforme a Súmula 315/STJ.
+2. A questão que sobeja em divergência é quanto ao cabimento ou não de honorários de advogado nesta fase recursal, novidade instituída pelo Novo Código de Processo Civil.
+3. Os critérios de cabimento dos honorários advocatícios recursais, previstos no § 11 do art. 85 do novo CPC, já foram tema de discussão na Terceira Turma, na sessão de 4 de abril de 2017, no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, o que levou à uniformização do tema no âmbito daquele órgão julgador.
+4. Tais critérios foram reavaliados pela Segunda Seção, no julgamento do AgInt nos Embargos de Divergência em REsp 1.539. 725-DF, os quais passam a ser adotados como entendimento desta egrégia Corte Especial.
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.
+7. Com a interposição de Embargos de Divergência em Recurso Especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento.
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer do respectivo Agravo Interno ou negar-lhe provimento, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+11. In casu, denota-se: a) a majoração da verba, no caso que ora se examina, decorre da inadmissão dos Embargos de Divergência - o que, como visto, trouxe novo grau recursal com sua interposição; b) a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários. O trabalho adicional realizado pelo advogado da parte recorrida, em grau recursal, deve ser tido como critério de quantificação, e não como condição para majorar os honorários.
+12. Quanto à matéria, precedentes do Pretório Excelso: ARE 898.896 AgR-EDv-AgR/RJ - Relator Ministro Dias Toffolli, julgado em 24/02/2017, Tribunal Pleno, DJe de 15/3/2017; ARE 859.077 AgR-ED-EDv-AgR/AC - Relator Ministro Marco Aurélio, julgado em 23/03/2017, Tribunal Pleno, DJe de 29/5/2017.
+13. Cabível a majoração dos honorários recursais em desfavor da parte insurgente, nos termos da decisão agravada.
+14. Agravo Interno não provido.
+(AgInt nos EAREsp 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe
+07/03/2019)
+Na espécie, um destes requisitos não está presente, a prévia condenação em honorários advocatícios.
+Observo que o Tribunal de origem rejeitou os embargos de declaração opostos pelo ora recorrente, tendo consignado de maneira expressa que restara"vencido em relação a ré Ogisa e LPS, e vencedor em relação à PDG e Jardim das Vertentes" (e-STJ fls. 2.512/2.513), bem como acolheu os embargos declaratórios opostos pela embargada às e-STJ fls. 2.741/2.742, sanando omissão quanto à distribuição dos ônus sucumbenciais. Tendo considerado que a sucumbência deLPS BRASIL CONSULTORIA DE IMÓVEIS S/A fora mínima, inverteu a condenação ao pagamento de custas e honorários advocatícios (e-STJ fls. 2.748).
+Nestes termos, não há que se falar em omissão quanto à "condenação em honorários de sucumbência", pois descabido o arbitramento de honorários recursais na espécie.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
