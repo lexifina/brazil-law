@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto porJOAO NARCISO FILHO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONVERSÃO INVERSA. EXPOSIÇÃOA ATIVIDADE ESPECIAL. CONVERSÃO EM TEMPO COMUM.
+1. O e. STJ no julgamento do recurso representativo da controvérsia nº 1310034/PR pacificou a questão no sentido de ser inviável a conversão de tempo comumem especial. quando o requerimento da aposentadoria é posterior à lei 9.032/95.
+2. A aposentadoria integral exige o tempo mínimo de contribuição (35 anos para homem. e 30 anos para mulher) e será concedida levando-se em conta somente o tempo de serviço, sem exigência de idade ou pedágio,nos termos do Art. 201. § 7º. 1. da CF.
+3. Até 29/04/95 a comprovação do tempo de serviço laborado em condiçõesespeciais era feita mediante o enquadramento da atividade no rol dos Decretos 53.831/64 e 83.080/79. A partir daquela data até a publicação da Lei9.528/97. em 10/03/1997,por meio da apresentação de formulário que demonstre a efetiva exposição de forma permanente,não ocasional nem intermitente, a agentes prejudiciais a saúde ou a integridade física. Após 10/03/1997,tal formulário deve estar fundamentado em laudo técnico das condições ambientais do trabalho,assinado por médico do trabalho ou engenheiro do trabalho. Quanto aos agentes ruído e calor, o laudo pericial sempre fui exigido.
+4. Os formulários PPP"s emitidos pelos empregadores comprovam a exposição do trabalhador aos agentes químicos catalogados no anexo IV do Decreto 3.48/99.
+5. O uso do equipamento de proteção individual - EPI,pode ser insuficiente para neutralizar completamente a nocividade a que o trabalhador esteja submetido. (STF. ARE 6643351SC. Tribunal Pleno. Relator Ministro Luiz Fux. j. 04112/2014. DJe-029 DIVULG. 11/02/2015 Public 12/02/2015).
+6. Possibilidade de conversão de atividade especial cm comummesmo após 28/05/1998.
+7. O tempo de contribuição constante dos trabalhos registrados na CTPS, satisfaz a carência exigida pelo Art. 25,II,da Lei 8213/91.
+8. Preenchidos os requisitos,o autor faz jus ao benefíciode aposentadoria integral por tempo de contribuição.
+9. A correção monetária, que incide sobre as prestações em atraso desde as respectivas competênciase os juros de mora devem ser aplicados de acordo com o Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal,observando-se a aplicação do IP"CA-E conforme decisão do e. STF. em regime de julgamento de recursos repetitivos no RE 870947. e o decidido também por aquela Corte quando do julgamento da questão de ordem nas ADIs 4357 e 4425.
+10. Os juros de mora incidirão até a data da expedição do precatório/RPV. conforme decidido em 19.04.2017 pelo Pleno do e. Supremo Tribunal Federal quando do julgamento do RI. 579431,com repercussão geral reconhecida. A partir de então deve ser observada a Súmula Vinculante nº 17.
+11. Os honorários advocatícios devem observar as disposições contidas no inciso II,do § 4º, do Art. 85, do CPCe a Súmula 111,do e. SIJ.
+12. Remessa oficial e apelações providas em parte.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta, inicialmente, como violadooart. 1.022, II, do CPC/2015, sustentando, em síntese, que o acórdão foi omisso na apreciação das matérias suscitadas em sede de embargos de declaração.
+Alega, ainda, violação aos arts.54 e57, § 2º c/c 49, incisos I e II, da Lei n. 8.213/91. Aduz que o acórdão recorrido fixou a data de início dos efeitos financeiros do benefício concedido apenas na data do segundo requerimento administrativo (DER: 21.01.2014, NB 163.9111.341-7), embora já preenchidos os 35 anos de atividade especial ainda no primeiro requerimento (DER: 14.09.2009, NB148.006.555-0), sob a alegação de que o formulário que possibilitou o reconhecimento da natureza especial dos períodos não constou no primeiro pedido administrativo.
+É o relatório. Decido.
+Em relação à alegada violação do art.1.022, II,do CPC/2015, verifica-se que o recorrente limitou-se a afirmar, em linhas gerais, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos embargos de declaração, fazendo-o de forma genérica, sem desenvolver argumentos para demonstrar especificamente a suposta mácula.
+Nesse panorama, a apresentação genérica de ofensa aos arts. 1.022, II, do CPC/2015 atrai o comando do Enunciado Sumular n. 284/STF, inviabilizando o conhecimento dessa parcela recursal.
+Sobre o assunto, confiram-se:
+ADMINISTRATIVO. REDIRECIONAMENTO DE EXECUÇÃO FISCAL DE NATUREZA NÃO TRIBUTÁRIA. DISSOLUÇÃO IRREGULAR NÃO COMPROVADA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. IMPOSSIBILIDADE. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF.
+I - Não se conhece do recurso especial com alegação genérica de violação do art. 535 do Código de Processo Civil de 1973. Incidência do enunciado n. 284 da Súmula do STF. Necessidade de reexame de fatos e provas para modificar o entendimento do Tribunal de origem quanto à regularidade da dissolução da sociedade empresária.
+Incidência do enunciado n. 7 da Súmula do STJ.
+II - Agravo interno improvido.
+(AgInt no AREsp n. 962.465/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 6/4/2017, DJe 19/4/2017.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CSLL. MAJORAÇÃO DE ALÍQUOTA. VIOLAÇÃO DO ART. 535 DO CPC/73. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. A genérica alegação de ofensa ao art. 535 do CPC, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro, atrai o óbice da Súmula 284 do STF.
+2. É vedada a análise das questões que não foram objeto de efetivo debate pela Corte de origem, estando ausente o requisito do prequestionamento. Incidência da Súmula 211/STJ.
+3. Quanto à elevação da alíquota da CSLL, o aresto recorrido está em conformidade com a jurisprudência deste Tribunal Superior, que considera que a Instrução Normativa n. 81/99 não desbordou dos limites da MP 1.807/99.
+4. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 446.627/RJ, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 6/4/2017, DJe 17/4/2017.)
+O Tribunal de origem consignouque o formulário Perfil Profissiográfico Previdenciário - PPP de fls.83/86,emitido pelo empregador somente aos 23/01/2010,no integrou o primeiro procedimento administrativo - N1342/148.006.555-0 com a DER em 14/09/2009,portanto, o marco inicial do benefício é de ser mantido tal como fixado pelo douto Juízo sentenciante,ou seja, em 21/01/2014 (fl. 426).
+Contudo, a Primeira Seção do STJ, no julgamento da Pet 9.582/RS, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+Confira-se, por pertinente, a ementa do referido julgado:
+PREVIDENCIÁRIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. APOSENTADORIA ESPECIAL. TERMO INICIAL: DATA DO REQUERIMENTO ADMINISTRATIVO, QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA PROVIDO.
+1. O art. 57, § 2o., da Lei 8.213/91 confere à aposentadoria especial o mesmo tratamento dado para a fixação do termo inicial da aposentadoria por idade, qual seja, a data de entrada do requerimento administrativo para todos os segurados, exceto o empregado.
+2. A comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+3. In casu, merece reparos o acórdão recorrido que, a despeito de reconhecer que o segurado já havia implementado os requisitos para a concessão de aposentadoria especial na data do requerimento administrativo, determinou a data inicial do benefício em momento posterior, quando foram apresentados em juízo os documentos comprobatórios do tempo laborado em condições especiais.
+4. Incidente de uniformização provido para fazer prevalecer a orientação ora firmada.
+(Pet 9.582/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 26/08/2015, DJe 16/09/2015)
+Assim, estando o acórdão recorrido em dissonância com a jurisprudência desta Corte, o provimento do recurso é medida que se impõe.
+Ante o exposto, com fundamento no art. 255, § 4º, I e III, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, dou-lhe provimento para fixar o termo inicial do benefício na data do requerimento administrativo.
+Publique-se. Intimem-se.
