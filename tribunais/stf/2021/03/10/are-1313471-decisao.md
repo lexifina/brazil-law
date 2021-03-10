@@ -1,0 +1,29 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "APELAÇÕES CRIMINAIS. TRÁFICO DE ENTORPECENTES. Ministério Público e Defesa. Condenação do acusado por tráfico. Pena readequada. Afastamento do redutor do art. 33, § 4º da Lei nº 11.343/06. Regime fechado. APELO MINISTERIAL PROVIDO E APELAÇÃO DA DEFESA DESPROVIDA."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5°, inciso XLVI, alínea a, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "A pena-base foi exasperada em 1/6 em razão da quantidade de droga encontrada com o réu, quase 1 quilo de maconha. A quantidade de droga apreendida deve ser considerada nesta etapa, em respeito à individualização das penas e ao art. 42 da Lei nº 11.343/06, que preceitua 'o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente'.
+    E, realmente, conquanto as nefastas consequências do tráfico sejam inerentes ao tipo penal, a natureza e a quantidade de droga apreendida traduz motivo mais do que suficiente para a fixação da penabase em patamar superior ao mínimo legal. Em razão da confissão, voltou ao mínimo legal, qual seja, 05 anos de reclusão e pagamento de 500 dias-multa.
+    Agora respondendo ao apelo ministerial, a benesse referida destina-se ao agente que incide nas condutas do caput ou do § 1º, do art. 33, da Lei 11.343/2006, de forma ocasional, ou seja, na situação em que o tráfico só ocorreu por um desvio de conduta e que tende a não se repetir.
+    Seu objetivo é o de adequar a pena prevista no preceito secundário do artigo 33, 'caput', ao fato delituoso que represente menor gravidade, ou seja, reduzida ofensa, menor perigo social, uma vez que se dirige as pessoas que não tenham envolvimento anterior com crimes e que, a despeito de terem praticado uma conduta relacionada ao tráfico de drogas, não se dediquem à traficância, o que não é o caso como expendido.
+    O apelado foi surpreendido, repita-se, na posse de quase um quilo de maconha.
+    No caso em tela, ainda que não tenha restado demonstrada efetiva participação do réu em organização criminosa em si, é inegável que mantinha ele ligação com estruturas mais elaboradas do tráfico, caso contrário, não teria em seu poder tamanha quantidade de entorpecente.
+    Além disso, a quantidade de porções indica claramente sua intenção em praticar reiteradamente o delito.
+    Assim, fica afastada a redutora.
+    Quanto ao regime de cumprimento de pena, o fechado se mostra o adequado, de acordo com a determinação constante no artigo 2º, § 1º, da Lei 8.072/90, que regula os crimes hediondos, hipótese equiparada ao caso concreto.
+    Aliás, a modalidade é, na verdade, a única compatível com a gravidade do delito praticado e está em sintonia com o rigor com que o legislador tratou o traficante, negando-lhe benefícios outros que normalmente concede a infratores de normas diversas, ainda mais no caso levando-se em conta a quantidade de pena aplicada e a reincidência do réu. Pelos mesmos motivos expostos, impossível a substituição da pena por restritivas de direitos.
+    Embora o Supremo Tribunal Federal (HC 111.840/ES) tenha declarado a inconstitucionalidade do sç 1° do art. 2° da Lei 8.072/90, a. r. decisão não foi unânime e foi feita de forma incidental, não possuindo eficácia erga omnes e nem efeito vinculante."
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa Reflexa. Precedentes. 1. Não se presta o recurso extraordinário para o reexame dos fatos e das provas constantes dos autos, tampouco para a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 2. Agravo regimental não provido” (ARE 1183314/CE - AgR, Tribunal Pleno, Rel. Min. Dias Toffoli (Presidente), DJe de 15/4/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. MANUTENÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. REEXAME DE FATOS E PROVAS. SÚMULA 279 DO STF. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão recorrida. 2. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 3. Agravo regimental desprovido” (ARE 1165382/SP - AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 4/3/20).
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – MATÉRIA PENAL – ALEGADA VIOLAÇÃO AO PRECEITO INSCRITO NO ART. 5º, LVII, DA CONSTITUIÇÃO DA REPÚBLICA – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – AGRAVO INTERNO IMPROVIDO” (ARE 1131709 AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 30/10/18).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 10 de março de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
