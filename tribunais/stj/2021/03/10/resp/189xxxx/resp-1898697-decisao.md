@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto porJOSE RICARDO DE CAMARGO VAZ DOURADO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+DIREITO PREVIDENCIÁRIO. SENTENÇA NULA. JULGAMENTO CONDICIONAL. APOSENTADORIA ESPECIAL. TRABALHO ESPECIAL RECONHECIDO. PREENCHIMENTO DOS REQUISITOS. CONSECTÁRIOS LEGAIS.
+I. A Lei nº 8.213/91 preconiza, no art.57, que o beneficio previdenciário da aposentadoria especial será devido, uma vez cumprida a carência exigida, ao segurado que tiver trabalhado sujeito a condições especiais que prejudiquem a saúde ou a integridade física, durante 15 (quinze), 20 (vinte) ou 25 (vinte e cinco) anos, conforme dispuser a lei.
+II. Tempo de serviço especial reconhecido.
+III. A somatória do tempo de serviço laborado pela parte autora autoriza a concessão do beneficio pleiteado, ante o preenchimento dos requisitos legais.
+IV. A data de início do beneficio é, por força do inciso II, do artigo 49 combinado com o artigo 54, ambos da Lei nº 8.213/91, a data da entrada do requerimento e, em caso da não apresentação dos documentos quando do requerimento administrativo, será fixado na data da citação do INSS.
+V. Os juros de mora são devidos a partir da citação na ordem de 6% (seis por cento) ao ano, até a entrada em vigor da Lei nº10.406/02, após, à razão de 1% ao mês, consonante com o art. 406 do Código Civil e, a partir da vigência da Lei nº 11.960/2009 (art. 1º-F da Lei9.494/1997), calculados nos termos deste diploma legal.
+VI. A correção monetária deve ser aplicada em conformidade com a Lei n. 6.899/81 e legislação superveniente (conforme o Manual de Cálculos da Justiça Federal), observados os termos da decisão final no julgamento do RE n.870.947, ReI. Min. Luiz Fux.
+VII. Os honorários advocatícios deverão ser fixados na liquidação do julgado, nos termos do inciso II, do § 4º, c.c. § 11, do artigo85,do CPC/2015.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violados os arts. 57, § 2ºc/c art.49, I, b,ambos da Lei n. 8.213/91, sustentando, em síntese, que o termo inicial do benefício deve ser fixado na data do requerimento administrativo, ainda que haja a comprovação extemporânea do exercício da atividade especial.Indica divergência jurisprudencial.
+É o relatório. Decido.
+O Tribunal de origem consignou que adata de início do beneficio é, por força do inciso II, do artigo 49 combinado com o artigo 54, ambos da Lei nº 8.213/91, a data da entrada do requerimento e, em caso da não apresentação dos documentos quando do requerimento administrativo, será fixado na data da citação do INSS.
+Contudo, a Primeira Seção do STJ, no julgamento da Pet 9.582/RS, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+Confira-se, por pertinente, a ementa do referido julgado:
+PREVIDENCIÁRIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. APOSENTADORIA ESPECIAL. TERMO INICIAL: DATA DO REQUERIMENTO ADMINISTRATIVO, QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA PROVIDO.
+1. O art. 57, § 2o., da Lei 8.213/91 confere à aposentadoria especial o mesmo tratamento dado para a fixação do termo inicial da aposentadoria por idade, qual seja, a data de entrada do requerimento administrativo para todos os segurados, exceto o empregado.
+2. A comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+3. In casu, merece reparos o acórdão recorrido que, a despeito de reconhecer que o segurado já havia implementado os requisitos para a concessão de aposentadoria especial na data do requerimento administrativo, determinou a data inicial do benefício em momento posterior, quando foram apresentados em juízo os documentos comprobatórios do tempo laborado em condições especiais.
+4. Incidente de uniformização provido para fazer prevalecer a orientação ora firmada.
+(Pet 9.582/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 26/08/2015, DJe 16/09/2015)
+Assim, estando o acórdão recorrido em dissonância com a jurisprudência desta Corte, o provimento do recurso é medida que se impõe.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar o termo inicial do benefício na data do requerimento administrativo, respeitada a prescrição quinquenal.
+Publique-se. Intimem-se.
