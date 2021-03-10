@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de HIGOR DA SILVA LIMA, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOSassim ementado (fl. 251):
+HABEAS CORPUS. TENTATIVA DE EXTORSÃO. EXCESSO DE PRAZO. INEXISTÊNCIA.RAZOABILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ORDEM DENEGADA.
+I - O excesso de prazo deve ser analisado à luz dos princípios da razoabilidade e da proporcionalidade, considerando-se no caso concreto a natureza e a complexidade da causa.
+II - Ordem denegada.
+A defesa alega que a decisão que manteve a prisão preventiva carece de fundamentação precisa acerca da necessidade de manutenção da medida.
+Afirma que, apesar de o paciente responder por outros crimes -todos em liberdade -,nunca deixou de comparecer em juízo quando solicitada sua presença.
+Aduzque não foi demonstrado o emprego de violência na conduta do paciente, uma vez que a vítima não se apresentou para realizar o exame de corpo de delito.
+Aponta contradição nos depoimentos datestemunha e do policial, que serviram de fundamento para a manutenção da prisão preventiva.
+Relata que o paciente não demonstrou nenhuma resistência no momento da prisão, além de possuir emprego e residência fixa.
+Sustenta excesso de prazo na instrução processual, pois a prisão ocorreu no dia 28/1/2020, sem previsão para o encerramento.
+Requer, liminarmente e no mérito, a concessão da ordem para que aopaciente seja garantido o direito de aguardar o julgamento do processo em liberdade, determinando-sesua imediata soltura.
+O pedido de liminar foi indeferido às fls. 270-271.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ(fls.300).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+No que diz respeito à carência de fundamentação da decisão que manteve a prisão preventiva, à contradição nos depoimentos das testemunhas, aos predicados pessoais favoráveis e aoemprego de violência na conduta delitiva, as questõesnão foramenfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciá-las, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 14/9/2018). Portanto, nessespontos, o recurso não merece conhecimento.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRgno RHC n. 123.274/RJ, relator MinistroAntonioSaldanha Palheiro,DJede 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 90-92):
+ ..
+Não se pode olvidar que os prazos prescritos na referida Instrução além de constituírem uma "recomendação", não são peremptórios nem rígidos, pois a observância da duração razoável do processo deve se pautar na análise percuciente das peculiaridades do caso concreto, admitindo-se flexibilização quanto à duração da instrução processual, tudo à luz do princípio da razoabilidade, porquanto não podem ter tratamento igualitário ou similar, processos com complexidade, trâmites e natureza diversos, sob pena de se infringir o devido processo legal.
+Da análise dos autos, verifica-se que o paciente foi preso em flagrante em 28/1/2020, sendo a custódia convertida em preventiva em 30/1/2020 (fls. 21/22). A denúncia foi oferecida em 7/2/2020 (fls. 24/26) e recebida em 17/2/2020, consoante consulta ao sistema informatizado deste Tribunal de Justiça. O paciente foi citado em 30/3/2020 e apresentou resposta à acusação em 11/5/2020 (fls. 29/38). A audiência de instrução e julgamento foi designada para o dia 16/7/2020 (fl. 42), e, determinada nova data para continuação, pois a Defesa do paciente não concordou com a oitiva das vítimas após a oitiva das testemunhas (fls. 58/59).
+O processo diz respeito ao crime de tentativa de extorsão, em tese, praticado por três agentes. Além disso, contou com ao menos três intervenções defensivas voltadas a obter a liberdade do paciente, tudo a indicar que, até o presente momento, não houve atraso injustificado no decorrer da instrução criminal, tampouco desídia estatal.
+Frise-se que, conquanto o paciente esteja preso há 176 (cento e setenta e seis) dias, não se pode afirmar que ele esteja sendo submetido a constrangimento ilegal. Isso porque a análise do excesso de prazo deve ser feita de acordo com as peculiaridades do caso e não apenas com base em cálculo aritmético.
+Nestes termos, em um exame perfunctório que o momento oportuniza, não se vislumbra o alegado excesso de prazo, tampouco desídia estatal ou violação aos princípios da razoável duração do processo, dignidade da pessoa humana e presunção de inocência.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie" (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 12/3/2019).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
