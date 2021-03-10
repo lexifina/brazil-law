@@ -1,0 +1,25 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "AGRAVO INTERNO. MANDADO DE SEGURANÇA. CONCURSO. AUTODECLARAÇÃO DE COR JULGADA FALSA. PRESUNÇÃO DE LEGALIDADE DO JULGAMENTO PELA COMISSÃO. DEFERIMENTO PARCIAL DA LIMINAR PARA A CANDIDATA PROSSEGUIR NA LISTA DE AMPLA CONCORRÊNCIA. RAZOABILIDADE.
+    I – Para a concessão de liminar em sede de mandado de segurança, a Lei nº 12.016/2009 exige a presença conjunta do fumus boni iuris e do periculum in mora, conforme disposto em seu artigo 7º, inciso III, ou seja, a relevância dos motivos em que se assenta o pedido inicial e a possibilidade da ocorrência de lesão irreparável ao direito do impetrante.
+    II – Esta Corte deliberou no sentido de que a decisão da comissão técnica do concurso acerca da autodeclaração de cor tem presunção de veracidade, não comportando reanálise para efeito de prosseguimento do candidato na lista de cotista, especialmente em sede de liminar.
+    III – Com relação à eliminação do certame, porém, mostra-se uma medida desproporcional, devendo ser garantido o direito do candidato em prosseguir na lista de ampla concorrência, se tiver pontuação para tanto."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, II, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "Nos termos do Decreto Estadual nº 32.435/2016 e do Estatuto da Igualdade Racial, Lei nº 12.288/2010, o critério utilizado para a comissão para confirmar a autodeclaração é o fenótipo, e devem ser levadas em conta as características observáveis do indivíduo. Estão afastados reconhecimentos com base em registros ou documentos pretéritos apresentados, inclusive imagem e certidões referentes a confirmação em procedimentos de heteroidentificação realizados em outros concursos públicos federais, estaduais, distritais e municipais.
+    Diante desse contexto, não se verifica a plausibilidade das alegações da impetrante quanto à ausência de fundamentação da decisão de seu recurso ou de que já havia sido admitida como cotista em outro concurso, posto que resta demonstrado que a comissão apreciou a autodeclaração da autora e foi oportunizada a apresentação de recurso, na qual foi considerada falsa sua afirmação, sendo mantida a decisão.
+    Assim, adentrar nos fundamentos utilizados pela comissão técnica importaria, a princípio, em ofensa ao mérito do ato administrativo.
+    Por outro lado, tem-se que o candidato que teve a autodeclaração de cor negada não deve ser eliminado do concurso , apenas deveria deixar o sistema de cotas raciais. Isto porque, a princípio, não se pode considerar tenha o candidato agido de má-fé."
+    Desse modo, verifica-se que o acolhimento da pretensão recursal demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como da legislação infraconstitucional pertinente, o que se mostra inviável no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas 279, 280 e 454 desta Corte. Nesse sentido, confira-se:
+    “Agravo regimental nos embargos de declaração no recurso extraordinário com agravo. Concurso público. Prescrição. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Cláusulas editalícias. Reexame. Impossibilidade. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria ínsita ao plano normativo local, tampouco para o reexame de fatos e provas ou de cláusulas de edital de concurso público. Incidência das Súmulas nºs 279, 280 e 454/STF. 2. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.135.628/DF-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 3/12/18).
+    Também nesse sentido: RE nº 1.105.413/GO-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 6/8/18, RE nº 795.924/AL-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 2/5/17 e ARE nº 909.505/SP-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 19/11/15.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 10 de março de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
