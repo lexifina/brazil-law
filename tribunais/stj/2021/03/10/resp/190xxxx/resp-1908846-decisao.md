@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de recurso especial ministerial interposto com base no art. 105, III, a, CF, arguindo violação ao art. 68, CP.
+Busca-se com o recurso que seja reestabelecida a sentença de primeiro grau com aaplicação de duas causas de aumento de penaconsiderando também o concurso de agentes, subtração de veículo automotor que venha a ser levado para outro Estado e restrição da liberdade da vítima.
+A manifestação ministerial foi pelo provimento.
+É o relatório.
+DECIDO.
+O Tribunal local assim se manifestou acerca da dosimetria (fl. 2064/2069):
+PENA DO RÉU DAMILTON
+O acusado Damilton sustenta a aplicação do art. 29, §1º do Código Penal argumentando uma participação de menor importância. Sem razão.
+Isto porque, a partir das provas colacionadas aos autos restou confirmado que o crime foi praticado por todos os corréus, sendo que apelante estava com a ré Ingrid logo após os fatos, foi a pessoa responsável a levar o veículo até o Paraguai, efetuar a revenda e posteriormente entregar tal valor a Ingrid e Bruno.
+Ou seja, os fatos acima apontados comprovam que o acusado estava ciente e bem como participou de toda a empreitada criminosa sendo um dos coautores do delito.
+Contudo, embora não tenha sido objeto da insurgência do réu, entendo a aplicação das majorantes em relação ao delito de roubo deve ser revista.
+Recentemente, esta Câmara alterou seu entendimento acerca da aplicação de duas majorantes previstas na parte especial do Código; até então, admitia-se que, diante de duas causas de aumento previstas na parte especial, ambas incidissem na pena intermediária, de modo cumulado ou independente.
+Todavia, o raciocínio deste Colegiado é no sentido de que o dispositivo mencionado, ao fazer uso do verbo "pode", traz uma imposição ao Magistrado, devendo este, sempre, aplicar tão somente a majorante mais gravosa, muito embora eu compreenda que a incidência de ambos os aumentos é possível, desde que haja fundamentação idônea para tanto, mas respeitando o entendimento da maioria. Vejamos o presente julgado:
+ ..
+Assim, procedo à nova dosimetria da pena do apelante.
+Em relação ao delito de roubo, mantenho a pena-base tal como fixada na primeira e segunda fase, qual seja 05 anos de reclusão e 60 dias-multa. Na terceira fase, aplico apenas causa de aumento prevista no art. 157, § 2º-A, I, do Código Penal na fração de 2/3 (dois terços) restando a pena de 08 anos e 04 meses de reclusão e 100 dias-multa.
+Por fim, aplicando a regra do concurso material com o delito de associação criminosa, fica o réu Damilton definitivamente condenado à pena de 10 anos e 01 mês de reclusão e 100 dias-multa a ser cumprida em regime inicial fechado.
+PENA DO RÉU RODRIGO
+Já o acusado Rodrigo assevera a impossibilidade da aplicação da causa de aumento prevista no art. 288, §1º, do Código Penal, pois isso configuraria uma dupla punição, vez que o acusado também foi condenado pelo roubo com emprego de arma de fogo. Sem razão.
+Isso porque consignam delitos de naturezas distintas, bem como cada um visa a proteger um determinado bem jurídico, segundo a consolidada jurisprudência. Veja-se:
+ ..
+Contudo, pelos motivos já explicados no tópico anterior, passo ao refazimento da pena em relação ao crime de roubo.
+Mantenho a pena-base tal como fixada na primeira e segunda fase na sentença, qual seja 04 anos de reclusão e 10 dias-multa. Na terceira fase, aplico apenas causa de aumento prevista no art. 157, § 2º-A, I, do Código Penal na fração de 2/3 (dois terços) restando a pena de 06 anos e 08 meses de reclusão e 16 dias-multa.
+Por fim, aplicando a regra do concurso material com o delito de associação criminosa, fica o réu Rodrigo definitivamente condenado à pena de 08 anos de reclusão e 16 dias-multa a ser cumprida em regime inicial semiaberto.
+PENA DA RÉ PALOMA
+A ré Paloma pugna pelo reconhecimento da atenuante da confissão e da menoridade relativa com a consequente redução da pena aquém do mínimo legal. Também sem razão.
+Não se nega a existência de defensores de que as penas intermediárias não estão limitadas aos parâmetros legais.
+Contudo, há que se ressaltar que esse posicionamento é minoritário na doutrina e quase inexistente na jurisprudência.
+A esse respeito, Guilherme de Souza Nucci leciona que  1  "as atenuantes não fazem parte do tipo penal, de modo que não têm o condão de promover a redução da pena abaixo do mínimo legal. Quando o legislador fixou, em abstrato, o mínimo e o máximo para o crime, obrigou o juiz a movimentar-se dentro desses parâmetros, sem possibilidade de ultrapassá-los, salvo quando a própria lei estabelecer causas de aumento ou diminuição".
+ ..
+Sendo assim, resta inaplicável a atenuante nos casos em que a pena provisória é reduzida para aquém do mínimolegal estabelecido, mantendo os termos fixados a sentença.
+Contudo, pelos motivos já explicados, passo ao refazimento da pena em relação ao crime de roubo.
+Mantenho a pena-base tal como fixada na primeira fase da sentença, qual seja 05 anos de reclusão e 60 dias-multa.
+Presente a atenuante da confissão, reduzo a pena em 1/6 (um sexto) fixando a reprimenda em 04 anos e 02 meses de reclusão e 50 dias multa.
+Na terceira fase, aplico apenas causa de aumento prevista no art. 157, § 2º-A, I, do Código Penal na fração de 2/3 (dois terços) restando a pena de 06 anos e 11 meses e 10 dias de reclusão e 83 dias-multa.
+Por fim, aplicando a regra do concurso material com o delito de associação criminosa, fica a ré Paloma definitivamente condenada à pena de 08 anos, 03 meses e 10 dias de reclusão e 83 dias-multa a ser cumprida em regime inicial fechado.
+PENA DA RÉ INGRID
+Ingrid também aduz a redução da pena ao mínimo legal, sustentando a ocorrência apenas de um roubo simples. Sem qualquer razão.
+Isso porque restou exaustivamente confirmado que o crime foi praticado por 05 pessoas, as quais se utilizaram arma de fogo, mantiveram as vítimas sob sua custódia restringindo sua liberdade, bem como que o produto do assalto foi levado para o Paraguai sendo alienado no local.
+Ressalto que se tratando de crime praticado em coautoria, as majorantes configuram circunstâncias objetivas do crime se comunicando a todos os corréus, não importando quem, de fato, estava na posse de arma de fogo, ou que apenas um deles tenha efetuado o transporte do veículo ao exterior. Neste sentido:
+ ..
+Neste cenário, o pedido da ré não encontra qualquer respaldo, mormente porque em suas razões não há nenhum argumento que justifique a redução da pena, visto que o pedido foi feito de maneira genérica sem apontar qualquer defeito na sentença condenatória.
+Contudo, pelos motivos já explicados, passo ao refazimento da pena em relação ao crime de roubo.
+Mantenho a pena-base tal como fixada na primeira fase da sentença, qual seja 05 anos de reclusão e 60 dias-multa.
+Presente a atenuante da confissão, reduzo a pena em 1/6 (um sexto) fixando a reprimenda em 04 anos e 02 meses de reclusão e 50 dias multa.
+Na terceira fase, aplico apenas causa de aumento prevista no art. 157, § 2º-A, I, do Código Penal na fração de 2/3 (dois terços) restando a pena de 06 anos e 11 meses e 10 dias de reclusão e 83 dias-multa.
+Por fim, aplicando a regra do concurso material com o delito de associação criminosa, fica a ré Ingrid definitivamente condenada à pena de 08 anos, 03 meses e 10 dias de reclusão e 83 dias-multa a ser cumprida em regime inicial fechado.
+PENA DO RÉU BRUNO
+Apesar de o apelante não ter se insurgido quanto à pena aplicado, passo ao seu refazimento, nos termos do art. 580 do CPP.
+Em relação ao crime de roubo, mantenho a pena-base tal como fixada na primeira e segunda fase na sentença, qual seja 04 anos de reclusão e 10 dias-multa. Na terceira fase, aplico apenas causa de aumento prevista no art. 157, § 2º-A, I, do Código Penal na fração de 2/3 (dois terços) restando a pena de 06 anos e 08 meses de reclusão e 16 dias-multa.
+Por fim, aplicando a regra do concurso material com o delito de associação criminosa, fica o réu Bruno definitivamente condenado à pena de 08 anos de reclusão e 16 dias-multa a ser cumprida em regime inicial semiaberto.
+Como se observa, o Tribunal local decotou a sentença de piso para aplicar apenas uma causa de aumento de pena sob o raciocínio de queo dispositivo mencionado, ao fazer uso do verbo "pode", traz uma imposição ao Magistrado, devendo este, sempre, aplicar tão somente a majorante mais gravosa.
+Entretanto, o juízo de piso justificou o concurso de causas de aumento diante dos seguintes fundamentos (fl. 1459/1462):
+Incidem as causas de aumento previstas no artigo 157, § 2º, incisos II, IV e V, do Código Penal, motivo pelo qual aumento a pena em 1/2 (metade), já que três foram as majorantes, quais sejam, concurso de duas ou mais pessoas e restrição de liberdade da vítima.
+Em respeito ao que preleciona a Súmula nº. 443, do Superior Tribunal de Justiça  1 , Restou comprovado nos presentes autos que os cinco réus, previamente ajustados e mancomunados entre si, adentraram na residência das vítimas e lá, restringiram a liberdade das mesmas, mantendo-as em seu poder por horas.
+Além disso, um dos réus transportou um dos veículos subtraídos para outro país, cruzou a fronteira e lá o vendeu por R$ 9.500,00 (nove mil e quinhentos reais).
+Cabível o aumento da pena em virtude das duas majorantes, mas principalmente o aumento pela incidência de uma terceira, qual seja, a do concurso de duas ou mais pessoas, ainda que não constante da tipificação inicial.
+Tal manobra é viável e é legal por este magistrado, eis que se encontra descrita no bojo da peça inaugural e os réus dela já se defenderam. Além disso, saliento que a referida majorante, mesmo em concurso com o delito de associação criminosa, deverá incidir, já que é pacifico o entendimento de que não configura bis in idem.
+ ..
+Incide, ainda, a causa de aumento capitulado no § 2º-A, inciso I, do artigo 157, do Código Penal, razão pela qual aumento a pena em 2/3 (dois terços), diante do emprego de armas de fogo pelo acusado, e a todos comunica, por se tratar de circunstância objetiva.
+O entendimento constante do acórdão vergastado diverge da interpretação consolidada na Corte, que admite o concurso de causas de aumento desde que devidamente fundamentada. Na espécie, adequada a sanção fixada pelo sentenciante que destacou a maior gravidade da prática delitiva diante doconcurso de cinco agentes, da privação da liberdade da vítima que perdurou por várias horas, a efetiva venda do veículo automotor em outro país, além do emprego de arma de fogo. Assim, deve ser reestabelecida a sentença,veja-se:
+PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO TRIPLAMENTE CIRCUNSTANCIADO.
+CÚMULO DE CAUSAS DE AUMENTO DE PENA. MOTIVAÇÃO IDÔNEA. VIOLAÇÃO DO ARTIGO 68 DO CP NÃO CARACTERIZADA. AGRAVO DESPROVIDO.
+1. A jurisprudência da Supremo Tribunal Federal e desta Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+2. No caso, o Magistrado processante apresentou fundamento concreto para a adoção das frações de aumento de forma cumulada, destacando que o crime foi praticado com a participação de quatro agentes.
+3. O número agentes, quando superior ao mínimo para a configuração do concurso de agentes, assim como a longa duração da restrição da liberdade da vítima, servem como fundamento para que o aumento da pena se dê em fração superior à mínima prevista na lei, sendo, portanto, fundamento apto a manter a incidência cumulativa das causas de aumento referentes à comparsaria, ao emprego de arma de fogo e à restrição da liberdade da vítima. Nesse contexto, não resta evidenciada flagrante ilegalidade na aplicação cumulativa das causas de aumento previstas no art. 157, § 2º, II eV, e § 2º-A, I, do Código Penal.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no HC 618.507/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/02/2021, DJe 26/02/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. DOSIMETRIA.TERCEIRA FASE. APLICAÇÃO CUMULATIVA DAS CAUSAS DE AUMENTO.POSSIBILIDADE. SUPERIORIDADE NÚMERICA. GRAVE AMEAÇA. EMPREGO DE ARMAS DE FOGO. RESTRIÇÃO DE LIBERDADE DAS VITIMAS POR TEMPO RAZOÁVEL. OUSADIA. PERICULOSIDADE. MAIOR REPROVABILIDADE NA CONDUTA.AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de ser  possível a aplicação das majorantes de forma cumulada na terceira etapa do cálculo da reprimenda. O art. 68, parágrafo único, do Código Penal não obriga que o magistrado aplique apenas uma causa de aumento quando estiver diante de concurso de majorantes" (AgRg no HC 615.932/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 27/10/2020).
+2. As circunstâncias do caso concreto evidenciam o grau mais elevado de periculosidade e reprovabilidade das condutas dos agravantes, que abordaram as vítimas em superioridade numérica de agentes, com o emprego de grave ameaça e apontando armas de fogo, além de restringirem as suas liberdades por tempo razoável, ensejando um tratamento mais rigoroso na dosimetria, em observância ao princípio da individualização da pena.
+3. Agravo regimental desprovido.
+(AgRg no HC 598.746/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. FRAÇÃO DECORRENTE DAS MAJORANTES DE EMPREGO DE ARMA DE FOGO E CONCURSO DE AGENTES. AUMENTO DE 3/8. FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Nos termos do entendimento pacificado da Súmula 443/STJ,  o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+2. O acréscimo aplicado(fração de 3/8)na terceira fase da dosimetria da pena foi devidamente motivado em virtude dos fatos ocorridos-divisão de tarefas entre os 6 (seis) agentes (vê-se que um vigiava o local de fora da casa, um mantinha as vítimas rendidas, outros separavam os diversos bens e, ainda, alguns eram responsáveis por transportaras res furtivas até o carro a ser roubado) - frutos certamente de premeditação - fulminaram a capacidade de resistência dos ofendidos e, mais do que isso, garantiram o êxito da empreitada delituosa, que se consumou antes da chegada dos policias no local-, não havendo falar-se em ilegalidade, de acordo com a jurisprudência desta Corte.
+3. Agravo regimental improvido.
+(AgRg no HC 624.621/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/02/2021, DJe 18/02/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONCURSO DE AGENTES E EMPREGO DE ARMA DE FOGO. APLICAÇÃO CUMULATIVA DAS CAUSAS DE AUMENTO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. AGRAVO DESPROVIDO 1. Nos termos da orientação desta Casa, presentes duas causas de aumento, possível a aplicação das majorantes de forma cumulada na terceira etapa do cálculo da reprimenda. O art. 68, parágrafo único, do Código Penal não obriga que o magistrado aplique apenas uma causa de aumento quando estiver diante de concurso de majorantes.
+Precedentes.
+2. "No entanto, optando o magistrado sentenciante pela incidência cumulativa de causas de aumento da parte especial, a escolha deverá ser devidamente fundamentada, lastreada em elementos concretos dos autos, a evidenciar o maior grau de reprovação da conduta e, portanto, a necessidade de sanção mais rigorosa" (HC n. 501.063/RJ, relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/8/2020, DJe 4/9/2020).
+3. Na espécie, não foram declinados motivos suficientes e idôneos para a aplicação cumulada das majorantes, mas apenas a sua configuração. Desse modo, deve incidir apenas o aumento mais grave (2/3) na dosimetria da pena.
+4. Agravo regimental a que se nega provimento.
+(AgRg no HC 615.932/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/10/2020, DJe 27/10/2020)
+Ante o exposto, dou provimento ao recurso especial para reestabelecer a sentença de primeiro grau em desfavor dos recorridos.
+Publique-se.
+Intimem-se.
