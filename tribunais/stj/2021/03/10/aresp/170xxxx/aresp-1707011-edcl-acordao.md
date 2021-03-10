@@ -1,0 +1,103 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+Da leitura da minuta de agravo que deu origem ao presente recurso, pode-se aferir que SUSANA TERESINHA ARNALD DA FONTE (SUSANA) ajuizou ação de complementação de obrigação contra OI S.A. - EM RECUPERAÇÃO JUDICIAL (OI S.A.).
+No curso da ação, o Juízo de primeiro grau homologou o cálculo da contadoria e determinou a liberação de valores em favor dos agravados.
+Essa interlocutória foi desafiada por agravo no qual OI S.A. sustentou que o cálculo homologado foi elaborado em critérios equivocados, desrespeitando os critérios estabelecidos pelo juízo universal, bem como os valores penhorados não devem ser liberados em favor dos exequentes, ante a novação dos créditos.
+O Tribunal de Justiça do Rio Grande do Sul negou provimento ao agravo, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. EXECUÇÃO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. BRASIL TELECOM. HOMOLOGAÇÃO DE CÁLCULO. LIBERAÇÃO DE VALORES À EXEQUENTE. CRÉDITO CONCURSAL.
+MANUTENÇÃO DA DECISÃO.
+Novo posicionamento da Câmara. Crédito de natureza concursal, considerando que o fato gerador, que corresponde à data do evento que ocasionou a lide, ocorreu em data anterior ao recebimento do pedido de Recuperação Judicial (20/06/2016). Entendimento atualmente adotado pelo STJ -RESP nº 1.727.771/RS. Cuidando-se de crédito concursal, deverá ser atualizado até 21.06.2016 e emitida certidão pelo juízo de origem, para que o credor se habilite nos autos da recuperação judicial, com a extinção do processo, exceto se, no juízo de origem, tiver ocorrido depósito/penhora de valores, com trânsito em julgado da impugnação até 21.06.2016, hipótese em que, nos termos do Ofício-circular 042/2018/CGJ, permite-se a expedição de alvará.
+No caso, possível o levantamento dos valores mencionados na decisão agravada pelo credor, sendo que o restante do valor deve ser habilitado no juízo recuperacional, o que já restou determinado pelo juízo de origem.
+INCORREÇÃO DOS CÁLCULOS. DESPROVIMENTO. Não prospera o intento da parte agravante, considerando que os cálculos elaborados pela contadoria Judicial observaram os critérios estabelecidos nas decisões que contam com trânsito em julgado.
+ART. 354 DO CÓDIGO CIVIL. A agravante não comprovou eventual excesso de execução e a aplicação do disposto no art. 354 do Código Civil não induz a existência de anatocismo no cálculo.
+LEVANTAMENTO DE VALORES PELA RECUPERANDA. Considerando a liberação de valores à parte credora e diante da não comprovação de outros depósitos judiciais, é caso de indeferimento do pedido.
+AGRAVO DE INSTRUMENTO DESPROVIDO. UNÂNIME (e-STJ, fl. 985).
+Os embargos de declaração opostos pela OI S.A. foram desacolhidos (e-STJ, fls. 1.051/1.060).
+OI S.A. interpôs recurso especial com base no art. 105, III, a e c, da CF, em que alegou violação dos arts. 509, § 4º, 1.022, II, do NCPC, e 6º, 49, 52, III, e 59 da Lei nº 11.101/2005 e 354 do CC/02. Sustentou, em síntese,(1) que houve negativa de prestação jurisdicional; (2) a impossibilidade de liberação de valores, pois os créditos devem ser submetidos ao plano de recuperação judicial; (3) que o acórdão recorrido contrariou a competência exclusiva do juízo recuperacional para decidir acerca da concursalidade dos créditos; e (4) não pode ser aplicável o disposto no art. 354 do CC/02, pois não consta essa determinação na decisão transitada em julgado.
+Em juízo de admissibilidade, a presidência do Tribunal de Justiça do Rio Grande do Sul inadmitiu o apelo nobre.
+Dessa decisão, foi interposto agravo, que foi conhecido para conhecer em parte do apelo nobre e, nessa extensão, negar-lhe provimento em decisão monocrática de minha lavra assim sintetizada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. TELEFONIA. VIOLAÇÃO DO ART. 1.022 DO NCPC QUE NÃO SE VERIFICA. PEDIDO DE LEVANTAMENTO DE VALORES. REQUISTOS DEFINIDOS PELO JUÍZO UNIVERSAL. REEXAME. SÚMULA Nº 7/STJ. COMPETÊNCIA EXCLUSIVA DO JUÍZO RECUPERACIONAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. EXCESSO DE EXECUÇÃO. NÃO COMPROVADO. FUNDAMENTO DO ARESTO COMBATIDO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 1.238).
+Irresignada, a OI manejou agravo interno, que não foi provido pela Terceira Turma desta Corte, nos termos do acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.IRRESIGNAÇÃO SUBMETIDA AO NCPC. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. VIOLAÇÃO DO ART. 1.022 DO NCPC QUE NÃO SE VERIFICA. LIBERAÇÃODE VALORES. PREENCHIMENTO DE EXIGÊNCIAS LEGAIS. REEXAME. SÚMULA Nº 7 DO STJ. COMPETÊNCIA EXCLUSIVA DO JUÍZO RECUPERACIONAL.TEMA NÃO DEBATIDO PELOTRIBUNAL ESTADUAL.AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE, MESMO EM SE TRATANDO DEMATÉRIA DE ORDEM PÚBLICA. PRECEDENTES. EXCESSO DE EXECUÇÃO. NÃO COMPROVADO. FUNDAMENTO DO ARESTO COMBATIDO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. ALTERAÇÃO DO CONCLUÍDO PELO TRIBUNAL ESTADUAL. SÚMULA Nº 7 DO STJ.AGRAVO IMPROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes omissão, contradição ou obscuridade, vícios elencados no art. 1.022 do NCPC, forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pelo acórdão vergastado.
+3. A modificação do entendimento lançado no v. acórdão, a fim de vedar o levantamento de valores, no caso concreto, demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial a teor do enunciado nº 7 da Súmula do STJ.
+4. Não é possível o exame, nesta instância recursal, de questão que nãofoi debatida pelo Tribunal estadual, ainda que se trate de matéria de ordempública cognoscível de ofício pelas instâncias ordinárias. Precedentes.
+5. É inviável o recurso especial que deixa de impugnarfundamentosuficiente do acórdão recorrido. IncidênciadaSúmulanº283 doSTF.
+6. OTJRS consignou que a Contadoria Judicial apurou corretamente o valor da cotação das ações da telefonia fixa, consoante o disposto no título executivo transitado em julgado.Para alterar tal conclusão, seria necessário o reexame do conjunto fático-probatório dos autos, o que não é possível na via eleita ante o óbice da Súmula nº 7 do STJ.
+7. Agravo interno não provido(e-STJ, flS. 1.278/1.279).
+Nas razões dos presentes embargos de declaração, a OI alegou que o acórdão embargado partiu de premissa equivocada ao não reconhecer a violação do art. 1.022 do NCPC, já que foi demonstrado, de forma específica e fundamentada, as omissões presentes no acórdão recorrido. Sustentou também a ausência do óbice da Súmula nº 7 do STJ, na medida em que o recurso trata de matéria exclusivamente de direito - negativa de vigência adispositivos de lei federal, bem como a inaplicabilidade dasSúmulas nºs 211 do STJ e 283 do STF, uma vez que a matéria foi devidamente prequestionada e houve impugnação específica dos fundamentos do acórdão recorrido.
+Houve impugnação ao recurso (e-STJ, fls. 1.318/1.321).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+A propósito, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016)
+Há que se destacar que o acórdão embargado não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído que o Tribunal estadualapreciou as questões relevantes para o julgamento da controvérsia de maneira expressa e fundamentada;que, para alterar as conclusõeslançadas no acórdão recorrido a fim de vedar a liberação dos valores no caso concreto, seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é inviável em recurso especial a teor da Súmula nº 7 do STJ; a questão relativaa competência exclusiva do juízo recuperacional para decidir acerca da concursalidade dos créditosnão foi enfrentada pelo Tribunal estadual, nem mesmo depois da oposição dos embargos de declaração, incidindo aSúmula nº 211 do STJ; e que o fundamento do acórdão recorrido de que não houve a comprovação do alegado excesso de execução não foi devidamente impugnado nas razões do recurso especial, a ensejar a aplicação da Súmula nº 283 do STF.
+Por relevante, transcreve-se o seguinte trecho do voto proferido no julgamento do agravo interno:
+(1) Da violação do art. 1.022 do NCPC
+OI S.A. alegou que o Tribunal estadual se absteve de observar os corretos critérios para liberação e amortização de valores.
+A esse respeito, a decisão unipessoal assinalou a inexistência de violação do art. 1.022 do NCPC.
+Com efeito, da análise do acórdão objurgado, verifica-se que o TJRS concluiu, de maneira expressa, pela possibilidade de amortização dos valores, nos termos do seguinte excerto:
+De acordo com o art. 49 da Lei 11.101/2005, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos.
+Assim, cuidando-se de crédito constituído em momento anterior à data do processamento da recuperação judicial, deve ser submetido ao plano, enquadrando-se, portanto, na categoria dos concursais, pois existente àquela data, ainda que não vencido.
+Ressalto que a habilitação deve ser feita posteriormente, quando liquidado o valor do crédito, o que pressupõe a existência do trânsito em julgado da sentença.
+ ..
+Na hipótese, o processamento da recuperação judicial da agravada foi deferido em 21/06/2016. O fato jurídico que inaugurou a lide, por sua vez, é anterior a essa data (conforme dados da distribuição da petição inicial do processo de origem, fl. 110), de forma que se configura a natureza concursal do crédito.
+Por sua vez, com base no Ofício nº 613/2018/OF da recuperação judicial, a Corregedoria-Geral da Justiça expediu a seguinte determinação, conforme Ofício 042/2018 - CGJ:
+CONSIDERANDO a edição dos Ofícios-Circulares nº 093/2016, 009/2017 e 036/2017-CGJ, orientando a suspensão de todas as ações, execuções e atos tendentes à constrição de bens das Sociedades Empresárias OI S.A., TELEMAR NORTE LESTE S.A., OI MÓVEL S.A., COPART 4 PARTICIPAÇÕES S.A., COPART 5 PARTICIPAÇÕES S.A., PORTUGAL TELECOM INTERNATIONAL FINANCE B.V. e OI BRASIL HOLDINGS CO PERATIEF U.A., processo nº 0203711-65.2016.8.19.0001;
+CONSIDERANDO os termos do Ofício nº 249/2018/OF e 295/2018/OF recebidos pelo Tribunal de Justiça do Rio de Janeiro, solicitando a comunicação aos órgãos julgadores deste Poder Judiciário Estadual, quanto ao retorno da tramitação dos processos do Grupo OI/TELEMAR, NOTICIO a Vossa Excelência a decisão do juízo da 7ª Vara Empresarial da Comarca do Rio de Janeiro:
+a) "com a realização da Assembléia Geral de Credores realizada em 19.12.2017, os processos ajuizados em face do Grupo OI/TELEMAR que se encontravam suspensos podem retomar seu curso, sendo certo que aqueles que cuidam de créditos concursais (constituídos antes de 20.06.2016) deverão ser pagos na forma do plano aprovado, extinguindo-se, então, os processos em curso. Com relação aos créditos extraconcursais, as ações seguem seu curso natural, mas, na esteira do posicionamento da doutrina e da jurisprudência, os atos de constrição devem ser determinados pelo juízo da recuperação";
+b) "com a aprovação do plano de recuperação judicial do Grupo OI, permanece inalterada a decisão do juízo da 7ª Vara de Direito Empresarial, confirmada pelo Tribunal de Justiça do Estado do Rio de Janeiro nos autos do AI 0034576-58.2016.8.19.0000, permitindo a expedição de alvarás para liberação de valores espontaneamente depositados pelas Recuperandas antes de 21/06/2016, com a expressa finalidade de pagamento dos credores, bem como os valores depositados antes da referida data em execuções nas quais tenha havido preclusão ou trânsito em julgado de sentença de embargos à execução ou da decisão final de impugnação ao cumprimento de sentença".
+ORIENTO, por fim, que eventuais comunicações ao juízo da 7ª Vara Empresarial do Rio de Janeiro sejam realizadas via malote digital, nos termos do Ofício-Circular nº 039-2017-CGJ (e-STJ, fls. 991/996).
+Desse modo, não se identificam as omissões apontadas no agravo interno, tendo o acórdão recorrido apreciado as questões relevantes para o julgamento da controvérsia de maneira expressa e fundamentada, não se prestando os embargos de declaração a veicular mero inconformismo da parte com o entendimento firmado no decisum.
+ ..
+(2) Da inaplicabilidade da Súmula nº 7 do STJ
+OI S.A. sustentou ser vedada a possibilidade de levantamento e amortização de quaisquer valores depositados a título de garantia do juízo em casos que a liquidez do crédito ocorrerá posteriormente ao deferimento da recuperação judicial.
+O Tribunal gaúcho assim se manifestou sobre a questão:
+Na hipótese, houve o depósito de valores em data anterior à homologação da recuperação judicial (conforme fls. 334 e 412, e -autos), assim como o trânsito em julgado ocorreu em momento anterior à referida homologação (em 04.10.2010, fl. 514).
+Desse modo, não se verifica óbice à liberação dos valores mencionados na decisão à parte agravada, devendo o restante do valor ser habilitado no juízo recuperacional, o que já restou determinado pelo juízo de origem (e-STJ, fl. 996).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão, a fim de vedar a amortização dos valores, no caso concreto, demandaria o reexame do conjunto fático-probatório dos autos, procedimento vedado em recurso especial, a teor do enunciado nº 7 da Súmula do STJ.
+ ..
+(3) Da Súmula nº 211 do STJ
+Conforme consignado na decisão agravada, a questão relativa a competência exclusiva do juízo recuperacional para decidir acerca da concursalidade dos créditos não foi enfrentada pelo Tribunal estadual, nem mesmo depois da oposição dos embargos de declaração. Incidência da Súmula nº 211 do STJ.
+Esta Corte possui o pacífico entendimento no sentido de que mesmo as matérias de ordem pública, cognoscíveis de ofício pelas instâncias ordinárias, devem ser prequestionadas de modo a viabilizar o acesso à via especial.
+ ..
+(4) Da Súmula nº 283 do STF
+OI S.A. sustentou que não se aplica o disposto no art. 354 do CC/02, pois não consta essa determinação na decisão transitada em julgado.
+Em relação a questão, o Tribunal assim se manifestou:
+No que diz respeito à alegação da incidência de juros sobre juros, não prospera a pretensão recursal.
+No caso, a agravante não comprovou eventual excesso de execução e, a aplicação do disposto no art. 354 do Código Civil não induz a existência de anatocismo no cálculo, aliás, a impugnação aos cálculos de contadoria exige demonstração pontual de que os critérios utilizados resultam em valor diverso daquele que a parte entenda correto (e-STJ, fl. 998).
+Observa-se que, nas razões do recurso especial, a OI S.A. não impugnou o fundamento do acórdão de que não houve a comprovação do excesso de execução pela empresa. Assim, forçoso é o reconhecimento do óbice da Súmula nº 283 do STF: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Ademais, o TJRS consignou que a Contadoria Judicial apurou corretamente o valor da cotação das ações da telefonia fixa, consoante o disposto no título executivo transitado em julgado (e-STJ, fl. 997).
+Dessa forma, para alterar tal conclusão, seria necessário o reexame do conjunto fático-probatório dos autos, o que não é possível na via eleita ante o óbice da Súmula nº 7 do STJ(e-STJ, fls. 1.284/1.289).
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração.
