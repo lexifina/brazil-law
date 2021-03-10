@@ -1,0 +1,28 @@
+Decisão: Trata-se de pedido de extensão da decisão liminar, com fundamento no artigo 580 do CPP (Pet. STF 24357/2021, eDOC 12), concedida nestes autos em 22.02.2021 (eDOC 5), formulado pela defesa de Thais Alana Aguiar de Lima e Jhonata Washington Santos da Silva.
+     Os requerentes sustentam, em síntese, a similitude entre sua situação fática e aquela do paciente Francisco Udson Pereira da Silva, já que são corréus nos autos da AÇÃO PENAL N.º 0001808-14.2020.8.22.0014 que tramita perante a 1ª Vara Criminal da Comarca de Vilhea – RO.
+    Em 22.2.2021 concedi a ordem para fixar o regime semiaberto para cumprimento inicial da pena do paciente.
+    É o relatório.
+    Decido.
+    Preliminarmente, ao apreciar o pedido do writ, asseverei:
+    “Ainda, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial somente pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder, o que é o caso dos autos.
+    Isso porque observo que o regime inicial fechado foi fixado apenas em virtude do tipo penal: tráfico de drogas. Vejamos:
+    “Estabeleço para Francisco o regime inicial fechado, eis que o delito de tráfico de substância entorpecente é crime assemelhado a hediondo, a pena ultrapassa quatro anos, é significativa a quantia de drogas apreendida, e a culpabilidade do acusado bem como as circunstâncias do crime lhe são desfavoráveis, o que merece maior reprovabilidade”. (eDoc 2, p. 27)
+    Ocorre que, como sabido, em sessão realizada em 27.6.2012 (DJe 17.12.2013), o Plenário do Supremo Tribunal Federal, ao analisar o HC 111.840/ES, de relatoria do Ministro Dias Toffoli, por maioria, declarou, incidenter tantum, a inconstitucionalidade do § 1º do art. 2º da Lei 8.072/90, com a redação dada pela Lei 11.464/2007. Desse modo, ficou superada a obrigatoriedade de início do cumprimento de pena no regime fechado aos condenados por crimes hediondos ou a eles equiparados.
+    Diante disso, resta claro que não há motivação idônea para justificar a imposição de regime inicial mais gravoso. A gravidade em abstrato do fato não é justificativa legítima, especialmente diante da primariedade do paciente. Nos termos das súmulas deste Supremo Tribunal Federal:
+    “Súm. 718, STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+    Súm. 719, STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.“
+    Além disso, destaca-se os seguintes julgados:
+    “HABEAS CORPUS. PENAL. ROUBO TRIPLAMENTE CIRCUNSTANCIADO. PACIENTE CONDENADO À PENA INFERIOR A OITO ANOS DE RECLUSÃO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA-BASE ESTABELECIDA NO MÍNIMO LEGAL. FIXAÇÃO DO REGIME INICIAL FECHADO COM BASE NA INVOCAÇÃO ABSTRATA DAS CAUSAS DE AUMENTO DE PENA DOS INCISOS I, II E III DO § 2º DO ART. 157 DO CP. INVIABILIDADE. SÚMULA 718/STF. ORDEM CONDEDIDA.
+    1. A fixação da pena-base (art. 59) no mínimo legal, porque favoráveis todas as circunstâncias judicias, e a imposição do regime mais gravoso do que aquele abstratamente imposto no art. 33 do Código Penal revela inequívoca situação de descompasso com a legislação penal. A invocação abstrata das causas de aumento de pena não podem ser consideradas, por si sós, como fundamento apto e suficiente para agravar o regime prisional, por não se qualificarem como circunstâncias judicias do art. 59. Inteligência do enunciado 718 da Súmula do STF. Precedentes.
+    2. Ordem concedida para que o juízo competente aplique ao paciente o regime semiaberto de cumprimento de pena .(HC 117.813/SP, 2ª Turma, DJe 6.3.2014 )
+    (…)
+    5. Réu primário, condenado à pena de cinco anos e quatro meses de reclusão, goza do direito de cumprir pena em regime inicialmente semiaberto (alínea b do § 2º do art. 33 do CP), mormente quando a sentença considera favoráveis as circunstâncias judiciais (§ 3º do art. 33 do CP) . A fixação de regime mais gravoso exige fundamentação idônea. Fundamentação que não se confunde com a mera alusão à gravidade do delito de roubo. Súmulas 718 e 719 deste Supremo Tribunal Federal”. (HC 94468, Rel. Min. Ayres Britto, 1ª Turma, DJe 3.4.2009) Ante o exposto, concedo a ordem do presente habeas corpus para fixar o regime semiaberto para cumprimento inicial da pena. ”
+    Da mesma forma foram fixados os regimes iniciais dos pacientes em questão, vejamos:
+    “Estabeleço para Thais o regime inicial fechado, eis que o delito de tráfico de substância entorpecente é crime assemelhado a hediondo, a pena ultrapassa quatro anos, é significativa a quantidade de drogas apreendida, e as circunstâncias do crime lhe são desfavoráveis, o que merece maior reprovabilidade. (…)
+    Estabeleço para Jhonata o regime inicial fechado, eis que o delito de tráfico de substância entorpecente é crime assemelhado a hediondo, a pena ultrapassa quatro anos, é significativa a quantidade de drogas apreendida, e as circunstâncias do crime lhe são desfavoráveis, o que merece maior reprovabilidade”. (eDoc 2, p. 25-26)
+    Portanto, no presente caso (HC 197.303 Extn), identificando adequação fática e jurídica com os argumentos e razões de decidir contidos na decisão proferida por mim em 22.02.2021, estendo a ordem para fixar o regime semiaberto para cumprimento inicial da pena dos pacientes Thais Alana Aguiar de Lima e Jhonata Washington Santos da Silva nos exatos termos do julgamento do pedido original.
+    Publique-se. Comunique-se com urgência.
+    Brasília, 10 de março de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
