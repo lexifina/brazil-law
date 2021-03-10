@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO SUL, com apoio no art. 105, III, "a", da Constituição Federal, contra acórdão do respectivo Tribunal de Justiça, assim ementado:
+"RECURSO EM SENTIDO ESTRITO. CRIME CONTRA A VIDA. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO.PRONÚNCIA MANTIDA. QUALIFICADORA DO MEIO CRUEL AFASTADA. CAUSA DE AUMENTO DE PENA MANTIDA.
+Manutenção da pronúncia. Materialidade e indícios suficientes de autoria aptos a manter a pronúncia da ré. A despeito de a ré ter alegado que seu filho já teria nascido morto, e que ela teria apenas o enterrado, os elementos objetivos aportados nos autos indicariam o contrário. Auto de necropsia concluiu que o feto teria nascido com vida e que teria entre sete e quarenta e cinco dias de vida quando teria falecido. Causa da morte seria traumatismo craniano causado por instrumento contundente. Versão defensiva que não veio amparada por outros elementos. Duas versões sobre o mesmo fato. Inviável a despronúncia.
+Competência do Conselho de Sentença.
+Qualificadora do meio cruel. Afastamento. Apesar de o auto de necropsia responder sim ao quesito do meio cruel, não restou minimamente demonstrado nos autos o intenso sofrimento que teria sido causado à vítima para além do ordinário em um homicídio.
+Manutenção da causa de aumento do §4º. Não houve violação ao princípio da correlação. O fato de a vítima ser menor de 14 anos já constava na denúncia na qualificadora do recurso que dificultou a defesa da vítima, que foi afastada justamente por ser a idade uma circunstância que enseja a majorante.
+RECURSO PARCIALMENTE PROVIDO." (e-STJ, fls. 481)
+O Parquet aponta negativa de vigência ao artigo 121, parágrafo 2º, III, do Código Penal, e aos artigos 74, § 1º, 413 e 414,do Código de Processo Penal.
+Sustenta, em síntese, que a fase de pronúncia encerra mero juízo de admissibilidade da denúncia, informado pelo princípio in dubio pro societate, sendo defeso, por isso, maior aprofundamento na análise do mérito da causa.
+Aduz, ainda, que apenas as qualificadoras manifestamente improcedentes podem ser expungidas da pronúncia, como forma de se preservar a competência do Tribunal do Júri, pois se trata de decisão caracterizada como mero juízo de admissibilidade da denúncia.
+Requer, assim, seja admitido o presente recurso especial e, ao final, seja integralmente provido na Superior Instância, ao efeito de reformar a decisão recorrida, para restabelecer a qualificadora do artigo 121, § 2º, III, do Código Penal.
+Foram apresentadas as contrarrazões (e-STJ, fls. 519-528).
+Admitido o recurso, subiram os autos a este Superior Tribunal de Justiça.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial (e-STJ. fls. 548-554).
+É o relatório.
+Decido.
+A pretensão recursal merece acolhimento.
+"Conforme entendimento firmado no âmbito desta Corte, as qualificadoras somente podem ser excluídas na fase do iudicium accusationis se manifestamente improcedentes" (REsp 1.415.502/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/12/2016, DJe 17/02/2017).
+Com efeito, tem-se entendido que "não se pode afastar uma qualificadora por mera opção hermenêutica, de modo que o julgador somente pode retirar da pronúncia a qualificadora que, objetivamente, inexista, mas não a que, subjetivamente, julgar não existir. Em outros termos, não se pode subtrair da apreciação do Conselho de Sentença uma circunstância que, numa análise objetiva, mostra-se viável, ao menos em tese." (REsp 1.547.658/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/11/2015, DJe 07/12/2015).
+No caso em apreço, o acórdão recorrido decotou a qualificadora do meio cruel, com base nos seguintes fundamentos:
+"Constou na denúncia que o fato teria ocorrido mediante meio cruel, "uma vez que ao golpear a criança na cabeça infligiu-lhe dor física e padecimento excessivo e desnecessário" (fl. 154v).
+É caso de afastar referida qualificadora da denúncia.
+Conquanto tenha sido reconhecido o meio cruel no exame de corpo de delito realizado na vítima (fl. 29), verifico que esse incorre em bis in idem com a própria conduta supostamente realizada pela ré para consumar o fato da acusação, não havendo demonstração do intenso sofrimento no caso em concreto.
+Na espécie, o auto de necropsia apenas concluiu que a morte ocorreu por trauma craniano, e que isso seria um meio cruel, mas não apontou o que teria causado intenso sofrimento, para além do fato de a morte ter sido causada por instrumento contundente, capaz de qualificar a gravidade do fato em questão, que já tem a pena mínima em 12 anos justamente por sua gravide.
+Desse modo, não restou esclarecido se houve intensidade exacerbada no golpe, repetição de golpes, ou algum outro meio que, além de consumar o fato, teria causado sofrimento que extrapolasse o ordinário sofrimento que uma vítima de homicídio sofre ao sofrer um golpe letal.
+Portanto, não sendo possível punir a ré pela mesma conduta duas vezes, afasto essa qualificadora." (e-STJ, fls. 495-496).
+Como se vê, o Tribunal a quo entendeu que a qualificadora do meio cruel se confunde com a própria conduta supostamente realizada pela ré para consumar o fato da acusação, configurando, assim, o indevido bis in idem.Os fundamentos, objetivamente considerados, não repelem, por si só, o meio cruel empregado, de modo que a avaliação sobre sua incidência deve ficar a cargo do Conselho de Sentença.
+Ilustrativamente:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. HOMICÍDIO TRIPLAMENTE QUALIFICADO. AUSÊNCIA DE ALEGAÇÕES FINAIS. ALEGAÇÃO DE NULIDADE. NÃO CONFIGURAÇÃO. PROCEDIMENTO DO JÚRI. PEÇA NÃO ESSENCIAL. RECONHECIMENTO DE QUALIFICADORAS. FUNDAMENTAÇÃO. EXISTÊNCIA DE ELEMENTOS MÍNIMOS. QUESTÃO QUE DEVE SER SUBMETIDA AO CONSELHO DE SENTENÇA. ORDEM NÃO CONHECIDA.
+- O Superior Tribunal de Justiça, na esteira do entendimento firmado pelo Supremo Tribunal Federal, tem amoldado o cabimento do remédio heróico, adotando orientação no sentido de não mais admitir habeas corpus substitutivo de recurso ordinário/especial. Contudo, a luz dos princípios constitucionais, sobretudo o do devido processo legal e da ampla defesa, tem-se analisado as questões suscitadas na exordial a fim de se verificar a existência de constrangimento ilegal para, se for o caso, deferir-se a ordem de ofício.
+- Esta Corte é assente no sentido de que as alegações finais não são peça essencial nos julgamentos perante o Tribunal do Júri, uma vez que a sentença de pronúncia não forma convicção definitiva a respeito da autoria e materialidade, mas mero juízo provisório.
+- Compete ao Conselho de Sentença a decisão a respeito da configuração ou não de qualificadoras de uso de recurso que impossibilitou a defesa da vítima e de meio cruel, sendo suficiente a existência de inícios mínimos, os quais se verificam na notícia constante dos autos de que o paciente, supostamente, surpreendeu a vítima com tiros inopinados durante negociação de dívida, bem como que, em tese, executou um novo disparo quando esta estava ferida e já caída ao chão.
+- O decote de qualificadoras na fase de pronúncia somente é possível quando manifestamente improcedentes ou descabidas. Precedentes.
+Ordem não conhecida.
+(HC 224.208/SP, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), SEXTA TURMA, julgado em 20/03/2014, DJe 10/04/2014)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, a fim de restabelecer a qualificadora do artigo 121, § 2º, inciso III, do Código Penal,constante da pronúncia.
+Publique-se. Intimem-se.
