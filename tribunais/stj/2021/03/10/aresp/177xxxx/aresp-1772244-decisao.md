@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto por LUCIA DE FATIMA JORDAO, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. DESPACHO QUE DETERMINA O BLOQUEIO DE BENS VIA SISTEMAS BACENJUD E RENAJUD. AGRAVANTE QUE SE INSURGE CONTRA O BLOQUEIO EFETUADO EM SUA CONTA CORRENTE Nº. 8267-8,AGÊNCIA nº. 5639 -BANCO BRADESCO S/A, NA QUAL O INSS DEPOSITA O NUMERÁRIO REFERENTE A SUA APOSENTADORIA. ALEGAÇÃO NO SENTIDO DE QUE O VALOR BLOQUEADO SERIA IMPENHORÁVEL. QUESTÃO NÃO SUSCITADA NO JUIZO DE ORIGEM.INSURGÊNCIA QUE NÃO PODE SER APRECIADA DIRETAMENTE POR ESTA CORTE DE JUSTIÇA SOB PENA DE SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO CONHECIDO PORQUANTO INADMISSÍVEL, CONFORME O ART. 932, III, DO NCPC.
+Os embargos de declaração opostos foram improvidos.
+No recurso especial, o recorrente aponta como violado o art. 833 do CPC/2015, sustentando, em síntese, que a impenhorabilidade da aposentadoria do contribuinte é matéria de ordem pública que prescinde da apreciação do juízo singular para ser analisada pelo Tribunal de origem.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 284 do STF, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Mediante o simples cotejo analítico entre o v. acórdão recorrido e as razões do presente recurso especial, percebe-se que a ratio decidendi adotada pelo Tribunal de origem limita-se a assentar o entendimento de que a análise da impenhorabilidade dos proventos de aposentadoria da contribuinte resultaria em supressão de instância, enquanto o dispositivo legal indicado como violado pelo particular (art. 833 do CPC/2015) não possui comando normativo capaz de infirmar qualquer conclusão acerca da mencionada supressão de instância.
+Dessa forma, ante a patente ausência de correlação entre o teor do v. acórdão recorrido e o dispositivo legal invocado como violado pelo contribuinte em seu recurso especial, torna-se necessária a aplicação da Súmula n. 284 do STF.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
