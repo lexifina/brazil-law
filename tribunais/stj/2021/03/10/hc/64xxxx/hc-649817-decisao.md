@@ -1,0 +1,10 @@
+DECISÃO
+WERLES ALVES DOS SANTOS JÚNIOR e THIAGO HENRIQUE FERNANDES alegam sofrer constrangimento ilegal nos seus direitos de locomoção em decorrência de acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais na Apelação n.1.0024.19.048582-1/001.
+Os pacientes estão presos preventivamente desde 28/2/2019 pela prática, em tese, de tráfico de drogas. Após a prolação de sentença condenatória, que manteve a custódia cautelar dos agentes, aCorte de origem anulou o decisum de primeira instância e determinou a realização de nova audiência de instrução e julgamento.
+A defesa busca, neste writ, o relaxamento da prisão dos réus ou a sua substituição por cautelares alternativas, em razão deexcesso de prazo da medida constritivae deausência de data para a renovação da audiência. Invoca, ainda, a Resolução n. 62 do CNJ para subsidiar o pleito de liberdade.
+Decido.
+Observo que o Tribunal local não analisou a matéria formulada neste habeas corpus. Com efeito, o Juízo de segundo grau declarou a nulidade do processo desde a audiência de instrução e julgamento, por quebra de imparcialidade do julgador e nada mencionou acerca da prisão cautelar dos acusados.Portanto, inviável o conhecimento deste writ, sob pena de vedada supressão de instância.
+A alegação de excesso de prazo na prisão e na conclusão do feito deve ser previamente analisada pela Corte estadual, a fim de que seja inaugurada a competência do STJ para dirimir sobre a matéria, se for o caso. Nota-se que a parte impetrou habeas corpus perante o Tribunala quo, todavia os autos foram remetidos ao STJ sem o prévio exame do tema pelo órgão colegiado (fl. 50).
+À vista do exposto, com fundamentono art. 210 do RISTJ, indefiro liminarmente o processamento do habeas corpus. No entanto, concedo a ordem, de ofício e in limine, para determinar ao Tribunal estadual que se manifeste sobre as teses veiculadas neste habeas corpus.
+Registro, contudo, que não há prejuízo de futura análise da insurgência por esta Corte, em eventual impetração que venha a ser aforada já a partir de ato coator atribuído a órgão de segundo grau.
+Publique-se e intimem-se.
