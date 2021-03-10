@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar,interposto por FILIPE GABRIEL JAQUES DE PAULA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do HC n. 0805611-40.2018.8.02.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 30/8/2019 por ter supostamente praticado odelitotipificadonoart. 157, § 2º, inciso II, e §2º-A, inciso I, do Código Penal (roubo majorado). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. ROUBO MAJORADO. RECEPTAÇÃO. LEGALIDADE DA PRISÃO PREVENTIVA. EXCESSO DE PRAZO. AUSÊNCIA DE HIPÓTESE DE CONSTRANGIMENTO ILEGAL.
+-REQUISITOS DA PRISÃO PREVENTIVA. JUÍZO NEGATIVO DE ADMISSIBILIDADE. A ação constitucional merece parcial conhecimento, pois, em favor da paciente, foi impetrado o habeas corpus nº 70083087866, julgado em 29.11.2020, oportunidade em que foram examinadas por este Órgão Fracionário as alegações de ausência dos pressupostos autorizadores da segregação cautelar e da existência de condições pessoais favoráveis à paciente. Reiteração de argumentos. Não conhecimento do writ em tais pontos.
+-DESPROPORCIONALIDADE DA MEDIDA CONSIDERANDO POSSÍVEL REPRIMENDA A SER APLICADA. A prisão preventiva é hipótese de segregação cautelar sob pressupostos específicos, não se tratando de antecipação de pena. É irrelevante que aprovável reprimenda a ser aplicada, em caso de condenação, ensejaria a fixação de regime mais brando ou justificaria a substituição por restritivas de direitos.
+-ALEGAÇÃO DE EXCESSO DE PRAZO. Não se encontra configurada qualquer ilegalidade, pois não se verifica mora processual decorrente de inércia imputável ao aparato judicial ou à acusação. Observada a regular tramitação do feito, não se constata constrangimento apto a ensejar a concessão da ordem pelo fundamento do excesso de prazo na formação da culpa.
+-NECESSIDADE DE REVISÃO DA SEGREGAÇÃO. ART. 316, § ÚNICO, CPP. Ao contrário do alegado pelo impetrante, a prisão do paciente foi revisada em 22.07.2020 e 18.08.2020, motivo pelo qual não há falar em ilegalidade por inobservância do artigo 316, parágrafo único, do Código de Processo Penal.
+Ordem denegada, na parte em que conhecido o writ"(fl. 212).
+No presente recurso, alega que o decreto prisional carece de fundamentação idônea, uma vez que não apresentados fatos contemporâneospara justificar a manutenção da custódia. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Ressalta o excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por 455 dias sem que a instrução tenha sido encerrada.
+Destaca a extrapolação no prazo previsto no art. 316 para a reavaliação da necessidade da segregação antecipada.
+Requer, assim, a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 285/286. O Ministério Público Federal opinou pelo parcial conhecimento do recurso e seu desprovimentoem parecer acostado às fls. 291/296.
+É o relatório.
+Decido.
+O presente recursoestá prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônica do Tribunal de origem, observa-se que, em 12/1/2021, nos autos da Ação Penal n.0016219-66.2019.8.21.0033, o recorrente foi condenadoà pena de 10 anos, 8 meses e 10 dias de reclusão, em regime inicial fechado, pela prática dodelitoprevistonoart. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal,tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar da ré, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+Como poderão recorrer
+Atentando ao disposto no §1º do artigo 387 do Diploma Processual Penal, admoesto que, se encontrando os denunciados recolhidos cautelarmente, desde a prisão em flagrante, e não existindo motivos para modificação do entendimento anteriormente esposado, mormente diante do resultado da presente demanda, entendo por bem manter a segregação, visto que hígidos os elementos que a determinaram.
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor da ora recorrente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido é a jurisprudência deste Tribunal:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar. 2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+Noutro giro, proferida sentença condenatória, resta superada a alegação de excesso de prazo para a formação da culpa, uma vez que entregue a prestação jurisdicional, incidindo ao caso a Súmula 52 deste Superior Tribunal de Justiça, que prevê: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Ademais, cumpre registrar que "O período de noventa dias assinalado no art. 316, par. ún, do CPP para o reexame da necessidade de prisão preventiva pelo órgão emissor não tem natureza peremptória, de modo que sua não observância não resulta, per si, em ilegalidade da segregação cautelar nem autoriza a imediata e automática colocação do investigado ou acusado em liberdade" (AgRg no HC 614.298/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 18/12/2020).
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
