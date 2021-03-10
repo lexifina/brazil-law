@@ -1,0 +1,19 @@
+VISTOS.
+Trata-se de recurso extraordinário interposto por AMAZON CONFECÇÕES, COMÉRCIO DE CALÇADOS E ARTIGOS PARA VESTUÁRIO LTDA, contra acórdão proferido pela Segunda Câmara de Direito Público e Coletivo, assim ementado (Id. 29299484).
+“AGRAVO DE INSTRUMENTO – MANDADO DE SEGURANÇA – APREENSÃO DE MERCADORIA – POSSIBILIDADE – AUSÊNCIA DE NOTA FISCAL VINCULADA – JULGAMENTO DE IRDR 12085/2017 PELO TRIBUNAL DE JUSTIÇA DE MATO GROSSO - DECISÃO MANTIDA – RECURSO DESPROVIDO.
+“Inexiste ilegalidade na apreensão que visa cessar infração material instantânea de efeitos permanentes, consubstanciada no transporte de mercadorias desacompanhadas de nota fiscal a acobertar a operação. (...).” (N.U 0014097-74.2015.8.11.0041, Luiz Carlos Da Costa, Segunda Câmara De Direito Público E Coletivo, julgado em 22/05/2018, publicado no dje 06/08/2018)
+“Desde que estritamente relacionada à operação fiscalizada e sem a intenção de cobrança de valores pretéritos, inexiste ilegalidade na apreensão de mercadoria que visa coibir infração material de caráter continuado, seja: a) por ausência de documentação fiscal; b) por estar a mercadoria desacompanhada do recolhimento do diferencial de alíquota quando o destinatário for contribuinte do ICMS; c) pelo não recolhimento do ICMS em razão do regime especial a que esteja submetido o contribuinte, conforme legislação estadual.” (IRDR 12085/2017, TJMT)
+Inconformado, alega em seu recurso “ofensa ao artigo 170 da Constituição Federal e Súmulas 323 e 547 do STF”.
+É o relatório.
+Decido.
+Nos termos do artigo 1.007, caput, e §§ 4o e 7o, do Código de Processo Civil, o não pagamento do preparo, o recolhimento parcial sem complementação, ou o equívoco no preenchimento da guia de custas não sanados após a intimação da parte para regularização, conduz à deserção do recurso, obstando, assim, o seu seguimento.
+No caso em concreto, certificou-se no Id. 75975971 que “(...) Recurso Extraordinário, protocolizado sob o no 75690508, foi recebido neste Tribunal e não foi efetuado o pagamento, pois as custas judiciais não foram pagas e deveria ser efetuado pagamento em Guia de Recolhimento da União-GRU ficha de compensação no endereço eletrônico do STF”.
+Diante desse quadro, com fundamento no artigo 1.007, § 4o, do CPC, determinou-se a intimação do recorrente para que, no prazo de 05 (cinco) dias, realizasse o recolhimento, em dobro, do valor das custas, sob pena de deserção (Id 76627454).
+O recorrente, por sua vez, devidamente intimado, não sanou a irregularidade, consoante certidão de ID 78460476, o que implica na deserção recursal.
+Não é outro o entendimento do Supremo Tribunal Federal, senão vejamos:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE RECOLHIMENTO DA COMPLEMENTAÇÃO DO PREPARO RECURSAL NO PRAZO LEGAL. DESERÇÃO DO RECURSO EXTRAORDINÁRIO. PRECEDENTES. 1. O recurso extraordinário não foi devidamente preparado, uma vez que a parte recorrente, intimada, não supriu a insuficiência do valor do preparo no prazo legal (artigo 511, § 2o, do CPC/1973 – atual artigo 1.007, § 2o, do CPC/2015). Deserção do recurso. 2. Agravo interno não provido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4o, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2o e 3o e a eventual concessão de justiça gratuita. (STF - ARE: 1277038 PR 0001690-44.2006.8.16.0160, Relator: LUIZ FUX (Presidente), Data de Julgamento: 11/11/2020, Tribunal Pleno, Data de Publicação: 15/12/2020)
+Ante o exposto, configurada a deserção, nego seguimento ao recurso.
+Publique-se. Cumpra-se.
+Às providências.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
