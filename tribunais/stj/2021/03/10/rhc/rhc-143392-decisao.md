@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 425):
+PENAL E PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. COVID-19. RECOMENDAÇÃO 62 DO CNJ. REAVALIAÇÃO E PRISÃO PREVENTIVA MANTIDA. VIOLÊNCIA E GRAVE AMEAÇA. SISTEMA PRISIONAL COM ADOÇÃO DE MEDIDAS PREVENTIVAS SANITÁRIAS. SUSPENSÃO DE VISITAS E ISOLAMENTO DO GRUPO DE RISCO. ORDEM CONHECIDA E DENEGADA.
+1  É sabido que a pandemia exige cuidados e atitudes, dentro dos limites legais, a serem tomadas pelo Poder Judiciário, prezando pela questão sanitária, mas sem esquecer da garantia da ordem pública. A existência da pandemia não significa salvo conduto para soltura em massa de presos preventivos. No presente caso, nem mesmo se aplica a Recomendação nº 62 do CNJ, na medida em que o paciente responde por diversas ações penais, sendo duas pelo crime de homicídio, o que já demonstra sua periculosidade.
+2  Ordem conhecida e denegada.
+O recorrente foi denunciado e encontra-se presopreventivamente pelo cometimento dos crimes de homicídio qualificado e associação criminosa, previstos nos arts. 121 § 2º, incisos I, III e IV e art. 288, parágrafo único ambos do Código Penal.
+Sustenta a defesa que deve ser concedida prisão domiciliar, com fundamento na Recomendação 62 do CNJ, porquanto integra grupo de risco por ser portador de hanseníase.
+Aduz que o Estado de Alagoas possui uma superlotação carcerária, logo, as unidades prisionais não apresentam condições mínimas de higiene e salubridade, estando os presossubmetidos a um tratamento desumano, cruel e degradante.
+Requer a concessão da ordem, liminarmente, para inserir o paciente em prisão domiciliar.
+É o relatório.
+DECIDO.
+Não havendo divergência da matéria no órgão colegiado, admissível seu examein liminepelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+O Tribunal de origem indeferiu o pedido de prisão domiciliar sob o fundamento de que: No presente caso, nem mesmo se aplica a Recomendação nº 62 do Conselho Nacional de Justiça, na medida em que o paciente está preso preventivamente sob a acusação do crime de homicídio, ou seja, delito com uso de violência ou grava ameaça, além de responder a outras ações penais, o que por si só já demonstra sua periculosidade, o que legitima sua prisão cautelar sob o fundamento da garantia da ordem pública (fl. 427).
+Ressaltou, ademais, que: reiterando as razões expostas pelo magistrado, no que diz respeito as medidas de isolamento adotadas no Sistema Prisional como a suspensão das visitas e controle dos apenados que compõe o grupo de risco, concluo que os argumentos lançados pela impetrante não procedem, entendendo pela denegação da ordem (fl. 429).
+Consoante ressaltado no acórdão, não faz jus o paciente à prisão domiciliar, por se tratar cometido mediante violência ou grave ameaça à pessoa. Nesse sentido: AgRg no HC 580.840/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020.
+Ausente, outrossim, ilegalidade, pois o art. 4º da Resolução 62 do CNJ dispõe que cabe ao magistrado sopesar a situação em observância ao contexto local de disseminação do vírus, não havendo a demonstração nos autos de que exista, atualmente, a possibilidade de agravamento do seu estado geral de sua saúde a partir do contágio no estabelecimento prisional.
+De fato, "A recomendação contida na Resolução n. 62, de 18 de março de 2020, do CNJ não implica automática substituição da prisão decorrente da sentença condenatória pela domiciliar. É necessário que o eventual beneficiário do instituto demonstre: a) sua inequívoca adequação no chamado grupo de vulneráveis da COVID-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida, inocorrente na espécie" (AgRg no HC 587.407/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2020, DJe 13/08/2020).
+Ante o exposto, indefiro liminarmente o recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
