@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AUGUSTO LEITE- INSScontra decisão de fls. 420/422,que não conheceu dorecurso especial ao fundamento segundo o qual, "É pacífica a jurisprudência desta Corte Superior, no sentido de que ".. o conhecimento do Recurso Especial, pela alínea c do permissivo constitucional, exige a indicação de qual dispositivo legal teria sido objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal, tal como ocorreu, no caso." (AgInt no AREsp 873.096/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/03/2017, DJe de 27/03/2017)
+Em suas razões, a parte embargante, com fulcro nos arts. 1.022, I e II e 494, II, do CPC, aduz a existência de "contradição, omissão e obscuridade em referida decisão, mormente porque o recurso especial não foi conhecido por incidir a Súmula 284 do Supremo Tribunal Federal.." (fl. 428).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveisembargos de declaração nas hipóteses de obscuridade, contradição ouomissão dodecisumatacado ou, ainda, para corrigir erro material.
+No caso, não se verifica a existência de nenhuma das referidasdeficiências, na medida em que a decisão monocrática foi clara aoasseverar a incidência da Súmula 284/STF em relação à alegada divergência jurisprudencial, uma vez quea parte ora embargante,nas razões de recurso especial, não apontou de forma clara eprecisa o dispositivo de lei federal ao qual o Tribunal de origem teriadado interpretação divergente daquela firmada por outros tribunais, quanto aos efeitos financeiros da revisão do benefício, que deveria retroagir à data da concessão deste.Assim, escorreita a incidência, na espécie, aSúmula 284 do STF.
+Nesse sentido, anote-se o seguinte julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVOS LEGAIS TIDOS PORVIOLADOS. INDICAÇÃO. AUSÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. DEMONSTRAÇÃO.INEXISTÊNCIA. COISA JULGADA. ANÁLISE. REEXAME FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE.
+1. Não se conhece de recurso especial que não aponta odispositivo legal violado no acórdão recorrido, incidindo na hipótese, poranalogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Ressalvado oentendimento do relator, idêntica compreensão é aplicada ao apelo nobreinterposto com fundamento em divergência pretoriana, na esteira do
+posicionamento da Corte Especial (AgRg no REsp n. 1.346.588/DF, relatorMin. ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+3. Ainda que superada a ausência de demonstração da divergência, oespecial não ultrapassaria o âmbito do conhecimento, uma vez que o acórdãorecorrido extraiu sua convicção do acervo probatório dos autos paradecidir pela ocorrência da coisa julgada, sem delinear o quadro fático deforma a permitir a verificação da identidade entre pedido e causa depedir. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1501224/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA,julgado em 01/07/2019, DJe 02/08/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. CONCURSOPÚBLICO. PROVA DISCURSIVA. ALEGAÇÃO DE INADEQUAÇÃO AO CONTEÚDO DO EDITAL.PREQUESTIONAMENTO. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DODISPOSITIVO SUPOSTAMENTE APLICADO DE MODO DIVERGENTE. SÚMULA 284/STF.INTERPRETAÇÃO DE CLÁSULA DO EDITAL. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 5 E7/STJ.
+1. O Tribunal de origem não apreciou a controvérsia sob o enfoque dodispositivo legal apontado como violado (artigo 19, XIII, do Decreto6.944/99), tampouco foram opostos embargos declaratórios para suprir
+eventual omissão neste aspecto. Portanto, ante a falta do necessárioprequestionamento, incide o óbice da Súmula 282/STF.
+2. Também no recurso especial lastreado na alegada existência dedivergência pretoriana se exige do recorrente a precisa indicação dodispositivo de lei federal que se afirma violado, sob pena de incidênciada Súmula 284/STF. Precedentes: AgRg no REsp 1.346.588/DF, Rel. MinistroArnaldo Esteves Lima, Corte Especial, DJe 17/3/2014; AgRg no REsp1.527.274/MG, Rel.ª Ministra Regina Helena Costa, Primeira Turma, DJe23/9/2015; AgRg no AREsp 736.813/SP, Rel. Ministro Sebastião Reis Júnior,Sexta Turma, DJe 22/9/2015; AgRg no Ag 1.088.576/RS, Rel.ª Ministra MariaIsabel Gallotti, DJe 26/8/2015.
+ ..
+4. Agravo regimental a que se nega provimento
+(AgRg no AREsp n. 770.014/SC, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, DJe3/2/2016)
+Ademais, nos termos da jurisprudência do Superior Tribunal de Justiça, acontradição sanável por meio dos embargos de declaração é aquela internaao julgado embargado,por exemplo, a incompatibilidade entre afundamentação e o dispositivo da própria decisão.
+Em outras palavras, o parâmetro da contrariedade não pode ser externo,como outro acórdão, ato normativo ou prova.
+Confiram-se, a propósito, osseguintes precedentes: EDcl no REsp 1.200.563/RJ, Rel. Ministro MauroCampbell Marques, Segunda Turma, DJe 14/9/2012; EDcl no AgRg no AREsp18.784/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe17/3/2012; e EDcl no AgRg no REsp 1.224.347/SC, Rel. Ministro HamiltonCarvalhido, Primeira Turma, DJe 6/12/2011.
+Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ouerro material no julgado embargado, conforme exige o artigo 1.022 do NovoCPC/2015, mas, mero inconformismo da parte com a decisão embargada, não hácomo acolher os embargos.
+ANTE O EXPOSTO, rejeitam-se os embargos declaratórios.
+Publique-se.
