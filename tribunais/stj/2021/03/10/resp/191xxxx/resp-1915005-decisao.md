@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS (e-STJ fls. 516/521), com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça local, cuja ementa, na parte que interessa,é a seguinte (e-STJ fl. 569/570):
+PENAL. CRIME TRIBUTÁRIO - ARTIGO 1º, INCISO II, DA LEI 8.137/1990. CONJUNTO PROBATÓRIO ROBUSTO: DOSIMETRIA. PENA-BASE. CULPABILIDADE. CAUSA DE AUMENTO DO ART. 12, I, DA LEI 8.137/1990. PENA DE MULTA. EXCLUSÃO.
+ ..
+Os delitos contra a ordem tributária ocorreram após a vigência da Lei nº 8.177/1991, que extinguiu o BTN como indexador para a pena de multa. Necessária a exclusão da pena de multa, já que impossível sua substituição por outro índice, não previsto em lei, sob pena de ferir o princípio da taxatividade da norma penal.
+Apelo da defesa parcialmente provido. Negou-se provimento ao recurso do Ministério Público.
+Nas razões do recurso especial, alega a parte recorrente violação doartigo 8º da Lei nº 8.137/1990. Sustenta que encontra-se em pleno vigor o preceito primário e secundário da norma penal incriminadora - art. 1º c/cc art. 8ºda Lei 8.137/1990 - e extirpar a aplicação da multa pelo fundamento único da extinção de índice de reajuste, revela-se equivocado (e-STJ fls. 520).
+Apresentadascontrarrazões (e-STJ fls. 540/546),o recurso foi admitido (e-STJ fls. 581/582), tendoo Ministério Público Federal opinado pelo provimento do recurso especial (e-STJ fls. 624/632).
+É o relatório.Decido.
+O recursomerece acolhida.
+Sobre a exclusão da pena de multa, o TJDFT assim se pronunciou (e-STJ fls. 511):
+Por derradeiro, quanto à pena pecuniária fixada, é de ser salientadoque, pela letra do parágrafo único do art. 8º da Lei 8.137/1990, o dia-multa não tem como parâmetro o salário mínimo, mas o BTN - Bônus do Tesouro Nacional, extinto pela Lei 8.177/1991. Assim, a multa, no que se refere aos crimes tributários, não pode ser aplicada, porquanto incabível a substituição pelo salário mínimo, vedada a analogia in matam partem.
+Veja-se que assiste razão ao recorrente, isso porque nos termos da jurisprudência desta Corte Superior, a extinção do índice utilizado como parâmetro para a fixação da pena pecuniária (multa) não elimina o preceito secundário, previsto na norma incriminadora, devendo ser restaurados os efeitos da lei geral, aplicando-se ao caso concreto o Código Penal, mais especificamente o disposto no § 1º do art. 49 do Código Penal, que fixa o salário-mínimo como unidade de valor para a fixação da pena de multa (REsp 1.386.317/DF, Rel. MinistroSEBASTIÃO REIS JÚNIOR, DJe 25/5/2015).
+Nessa linha, os seguintes julgados:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. ..  CRIME CONTRA A ORDEM TRIBUTÁRIA. PENA PECUNIÁRIA. EXTINÇÃO DE ÍNDICE. BTN. ART. 49, § 1º, DO CP. MULTA. PRECEDENTE. Agravo regimental improvido. (AgRg no AREsp 617.156/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 1º/12/2015, DJe 17/12/2015).
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO AO ART. 8º DA LEI Nº 8.137/90. OCORRÊNCIA. PENA PECUNIÁRIA. EXTINÇÃO DO ÍNDICE BTN. ART. 49, § 1º, DO CÓDIGO PENAL. MULTA. ADEQUAÇÃO LEGAL. RESTABELECIMENTO DA MULTA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O entendimento deste Tribunal Superior é no sentido de que a extinção da BTN, a que faz referência o artigo 8º, parágrafo único, da Lei nº 8.137/1990, não conduz à inaplicabilidade da pena de multa, pois tratando-se dos crimes contra a ordem tributária, aplica-se, subsidiariamente, a regra geral contida no artigo 49, § 1º do Código Penal.
+2. Agravo regimental a que se nega provimento(AgRg no REsp 1.531.334/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 1º/10/2015, DJe 23/10/2015).
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, e no art. 255, § 4º, inciso III, do RISTJ e na Súmula 568/STJ,dou provimentoao recurso especial, pararestabelecer a sentença condenatória no tocante à pena de multa.
+Intimem-se.
