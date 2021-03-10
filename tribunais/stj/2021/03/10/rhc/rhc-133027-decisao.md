@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Cristiano Correia de Carvalho - preso preventivamente pela prática, em tese, dos delitos de tráfico e associação para o tráfico de drogas - contra o acórdão proferido pelo Tribunal de Justiça de São Paulo, que denegou a ordem no writ ali impetrado, mantendo a prisão preventiva do recorrente, decretada pelo Juízo de Direito da 16ª Vara Criminal da comarca de São Paulo/SP (Autos n. 1506331-21.2020.8.26.0228).
+Alega o recorrente, em síntese, constrangimento ilegal consistente na ausência de fundamentação na decisão que decretou a prisão preventiva, além de sua manutenção no estabelecimento prisional em que se encontra, mesmo após apresentar sintomas de contaminação pelo coronavírus (Covid-19).
+Requer, ao final, a concessão da liminar para que aguarde em liberdade ou prisão domiciliar o julgamento de mérito do presente recurso.
+A liminar foi indeferida às fls. 291/292.
+Solicitadas informações, essas foram prestadas às fls. 226/329.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não provimento do recurso(fl. 334).
+É o relatório.
+O presente recursoperdeu o objeto.
+Isso porque, diante das informações obtidas em consulta realizada na página eletrônica do Tribunal a quo, nota-se que, em 10/2/2021, no Processo n. 1506331-21.2020.8.26.02228, da 16ª Vara Criminal da comarca de São Paulo/SP, foi proferida sentença condenando o ora recorrente como incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 6anos e 8 meses de reclusão, em regime inicial semiaberto, além de 666dias-multa. Na oportunidade, foi mantida a prisão cautelar, vedando-lhe o direito de recorrer em liberdade.
+A sentença condenatória constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+Consoante precedentes desta Corte, h avendo sido prolatada sentença condenatória em desfavor de um dos acusados, ainda que lhe tenha sido vedado o direito de apelar em liberdade, é de se julgar prejudicado o exame do habeas corpus quanto à higidez dos fundamentos invocados originariamente pelo Juízo de primeiro grau para imposição de sua custódia preventiva, para não incorrer em supressão de instância(HC n. 423.213/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/6/2018).
+De qualquer maneira, o primitivo decreto de prisão não revelava nenhuma ilegalidade aparente, uma vez que baseado em fator real de cautelaridade ante as circunstâncias do crime e a periculosidade doacusado, evidenciada pelaquantidade de droga apreendida (7 kg de cocaína - fl. 182).
+Por fim, constata-se que o pleito de substituição da prisão preventiva por domiciliar, em razão da pandemia, não foi apreciado pelo Tribunala quo, razão pela qual, a análise da referida tese por este Superior Tribunal esbarra na supressão de instância.
+Ainda que assim não fosse, ao que consta dos autos,o recorrente teria apresentado sintomas de eventual contágio peladoençano mês de abril de 2020, quadro certamente superado a essa altura.
+Destaca-se, por oportuno, que consoante precedentes desta Corte, o risco trazido pela propagação da Covid-19 não é fundamento hábil a autorizar a revogação automática de toda custódia  .. , sendo imprescindível, para tanto, que haja comprovação de que o réu encontra-se inserido na parcela mais suscetível à infecção  .. . No caso,  ..  o recorrente não comprovou estar inserido no grupo de risco de agravamento da Covid-19, não havendo, portanto, falar em  ..  substituição da custódia por prisão domiciliar em razão da pandemia (HC n. 608.402/GO, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 28/9/2020).
+Ante o exposto, julgo prejudicado o recurso em habeas corpus quanto à parte conhecida.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. SUPERVENIENTE SENTENÇA CONDENATÓRIA. PERDA DO OBJETO QUANTO AO PONTO. NOVO TÍTULO JUDICIAL. PLEITO SUBSIDIÁRIO DE PRISÃO DOMICILIAR EM RAZÃO DORISCO DE CONTAMINAÇÃO PELACOVID-19.SUPRESSÃO DE INSTÂNCIA.
+Recurso emhabeas corpusprejudicado quanto àparte conhecida.
