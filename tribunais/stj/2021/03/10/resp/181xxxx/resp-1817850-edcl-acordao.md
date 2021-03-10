@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. ASTREINTES. AFASTAMENTO COM BASE NO ENUNCIADO 372/STJ.
+1. Não há omissão acerca da distribuição da sucumbência, pois o acórdão embargado reconhecera a incidência do enunciado 284/STF no que concerne, já que ausente a indicação clara, nas razões recursais, de dispositivo de lei federal interpretado de modo dissonante.
+2. Presente omissão acerca dos honorários recursais, há de se saná-la, analisando a questão.
+3. Em conformidade com legislação disciplinante, tendo sido o desprovido ou não conhecido o recurso, hão de ser fixados os honorários recursais. Pouco relevante aeventual continuidade do processo de execução, já que se está em sede de impugnação ao cumprimento de sentença acolhida pelo acórdão recorrido, ocasião em que se afastou a quase totalidade dos valores executados, como registrou-se às fls. 746/747 e-STJ.
+4. EMBARGOS DE DECLARAÇÃO ACOLHIDOSEM PARTESEM EFEITOS INFRINGENTES.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por RIDAN LABORATÓRIO DE ANÁLISES LTDA. contra o acórdão desta Terceira Turmaque negou provimento ao seu agravo interno e que está assim ementada:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. ASTREINTES. AFASTAMENTO COM BASE NO ENUNCIADO 372/STJ. DISSÍDIO. AUSÊNCIA DE DEMONSTRAÇÃO E NECESSIDADE DE REVISÃO DE CONTEXTO FÁTICO PROBATÓRIO (ENUNCIADOS 284/STF E 7/STJ). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.
+1. Inexistência de qualquer dos vícios do art. 1.022 do CPC. O cerne da fundamentação dos acórdãos recorridos era a inoponibilidade da objeção de coisa julgada em relação a instituto (astreintes) que, por lei, a flexibiliza. As alegações ditas não analisadas eram irrelevantes, ou diretamente incompatíveis com os fundamentos adotados pelo acórdão ou, ainda, foram devidamente analisadas, arrostando a má-fé a alegação de omissão.
+2. A Corte Especial do Superior Tribunal de Justiça, no julgamento do Agravo Regimental no Recurso Especial 1.346.588/DF, reafirmou a necessidade da parte recorrente identificar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio e de ferir a ampla defesa e contraditório ante a dificuldade do recorrido de identificar de forma clara e precisa a tese jurídica a ser impugnada.
+3. Não há como se conhecer do recurso especial pelo dissídio quando o acórdão recorrido encontra sintonia com a orientação desta Corte Superior, e, por outro lado, a questão exigiria, apenas, a revisão do contexto fático probatório.
+4. AGRAVO INTERNO DESPROVIDO.
+Em suas razões recursais, disse omisso o aresto quanto à inversão integral da sucumbência e à fixação (e majoração em sede recursal) da verba honorária. Disse não ser caso deinversão integral dos ônus sucumbenciais e tampouco seria de majoração dos honorários recursais, afinal, a Execução de Sentença prossegue em relação ao cumprimento da obrigação de fazer. Enfatizouabsolutamente injusto e indevido penalizar o Laboratório, impondo-lhe os ônus integrais de sucumbência, por simplesmente ter executado uma sentença judicial a seu favor, reiteradamente descumpridapela parte devedora, que apenas recentemente entregou os documentos objeto da Ação Cautelar.Pediu o provimento.
+Houve contrarrazões.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. ASTREINTES. AFASTAMENTO COM BASE NO ENUNCIADO 372/STJ.
+1. Não há omissão acerca da distribuição da sucumbência, pois o acórdão embargado reconhecera a incidência do enunciado 284/STF no que concerne, já que ausente a indicação clara, nas razões recursais, de dispositivo de lei federal interpretado de modo dissonante.
+2. Presente omissão acerca dos honorários recursais, há de se saná-la, analisando a questão.
+3. Em conformidade com legislação disciplinante, tendo sido o desprovido ou não conhecido o recurso, hão de ser fixados os honorários recursais. Pouco relevante aeventual continuidade do processo de execução, já que se está em sede de impugnação ao cumprimento de sentença acolhida pelo acórdão recorrido, ocasião em que se afastou a quase totalidade dos valores executados, como registrou-se às fls. 746/747 e-STJ.
+4. EMBARGOS DE DECLARAÇÃO ACOLHIDOSEM PARTESEM EFEITOS INFRINGENTES.
+VOTO
+Eminentes Colegas, o embargante sustenta omisso o acórdão em relação a questões sobre as quais houve expressa manifestação do colegiado, e, ainda, sobre a fixação dos honorários recursais.
+O acórdão negou provimento ao agravo interno, reconhecendo a incidência do enunciado 284/STF em relação à inversão da sucumbência e redistribuição proporcional dos honorários e pretensa causalidade quando de sua distribuição, pois não houve a indicação clara, nas razões recursais,de dispositivo de lei federal interpretado de modo dissonante.
+A propósito, pontuou-se:
+A Corte Especial do Superior Tribunal de Justiça, no julgamento do Agravo Regimental no Recurso Especial 1.346.588/DF, reafirmou a necessidade da parte recorrente identificar o dispositivo de lei federal com interpretação divergente, sob pena de se impor aos membros desta Corte a identificação, de ofício, do texto legal sobre o qual se alega o dissídio e de ferir a ampla defesa e contraditório ante a dificuldade do recorrido de identificar de forma clara e precisa a tese jurídica a ser impugnada.
+A propósito, vale lembrar que "O Superior Tribunal de Justiça não é terceira instância revisora ou tribunal de apelação reiterada. O recurso especial é recurso excepcional, de fundamentação vinculada, com forma e conteúdo próprios, que se destina a atribuir a adequada interpretação e uniformização da lei federal, e não ao rejulgamento da causa porque o sistema jurídico pátrio não acomoda triplo grau de jurisdição" (AgRg no REsp 1.716.998/RN, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe de 16/05/2018).
+Não tendo sido conhecido o recurso especial no que respeita, não haveria falar em omissão deste colegiado.
+Por fim, tenho por presente a existência de omissão em relação à alegada impossibilidade de majoração dos honorários, tendo em vista os honorários recursais aos procuradores do Agravado/embargado.
+Aduziu-se que "o Cumprimento de Sentença prossegue em relação às demais matérias, não sendo razoável, até pelo princípio da causalidade, a condenação em sucumbência integral daquele que intenta obter a prestação jurisdicional com base em sentença transitada em julgado, havendo de se observar, ao menos, a sucumbência recíproca."(fl. 1.083 e-STJ).
+De pronto estou em afastar o argumento.
+Em conformidade com legislação disciplinante, tendo sido o desprovido ou não conhecido o recurso, hão de ser fixados os honorários recursais, desimportando eventual continuidade do processo de execução, já que se está em sede de impugnação ao cumprimento de sentença acolhida pelo acórdão recorrido, ocasião em que se afastou quase a totalidade dos valores executados, como registrou-se às fls. 746/747 e-STJ.
+Ante o exposto, acolho em parte os embargos de declaração, sem efeitos infringentes.
+É o voto.
