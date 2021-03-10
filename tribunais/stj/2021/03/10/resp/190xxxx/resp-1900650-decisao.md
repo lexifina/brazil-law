@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por GERALDO FREIRE ANDRADE com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado, in verbis:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO. ARTIGO 1.021 DO NOVO CPC. TERMO INICIAL. CITAÇÃO. RETROAÇÃO INDEVIDA. CORREÇÃO MONETÁRIA. OPÇÃO POR BENEFICIO MAIS VANTAJOSO. RECURSO PARCIALMENTE PROVIDO.
+- Discute-se no recurso o direito da parte autora à retroação do termo inicial do seu benefício à DER, afastamento da TR como índice de correção monetária e a aplicação do artigo 188-A e 188-B do Decreto 3.048/99 para implantação do benefício mais vantajoso.
+- A irresignação da parte agravante não merece provimento, pois a comprovação do trabalho rural somente foi possível nestes autos, mormente em razão da produção de prova testemunhal apta a corroborar o início de prova material. Cabe frisar que, sem o reconhecimento deste lapso, não seria possível a concessão da almejada aposentadoria por tempo de serviço/contribuição.
+- O julgamento do RE 870.947, de relatoria do Ministro Luiz Fux, foi reconhecida a existência de nova repercussão geral sobre correção monetária e juros de mora a serem aplicados na liquidação de sentenças, pois referidos acessórios, nas ADIs de ns. 4.357 e 4.425, tiveram por alvo apenas a fase do precatório. Em conclusão, observa-se do decisum total congruência entre a correção monetária e percentual de juro de mora por ele eleita, na forma da Lei n.11.960/09, com o decidido pela Suprema Corte, a qual sufragou o entendimento de que o índice de remuneração básica da caderneta de poupança (TR) deverá continuar a ser adotado.
+- Vale esclarecer, por oportuno, que a autarquia deverá computar todos os interstícios e possibilitar à parte requerente a opção pelo beneficio mais vantajoso, respeitados os tempos de serviço aferidos na data da Emenda Constitucional 20/98 e quando do requerimento administrativo, observado o dispostos nos artigos 188-A e 188-B do Decreto 3048/99.
+- Agravo parcialmente provido.
+Os embargos de declaração acolhidos para ajustar a correção monetária ao IPCA-E, conforme entendimento sufragado no RE-G 870.947.
+No presente recurso especial, o recorrente aponta como violados os arts. 57, §2º e 105, ambos da Lei 8213/91 e; art. 20, §3º d CPC/1973.
+Sustentou, em síntese, que o marco inicial da aposentadoria deveria ser fixado na data do requerimento administrativo do benefício, a despeito de a complementação das provas terem sido juntadas no curso do processo.
+Argumento, ainda, em suma, que os honorários foram fixados com base em cálculo inferior ao devido, ou seja, não teria sido fixado de acordo com o valor da condenação.
+Alegou ainda, divergência jurisprudencial.
+É o relatório. Decido.
+Em relação ao marco inicial da aposentadoria, tenho que assiste razão ao recorrente.
+É que o Tribunal a quo entendeu que o recorrente havia comprovado o trabalho rural de forma a gozar o benefício, entretanto como a produção da prova ocorreu no âmbito do processo, o termo a quo na data da citação. Entretanto, tal entendimento vai de encontro ao entendimento deste Superior Tribunal de Justiça no sentido de resguardar a situação jurídica consolidada, mesmo após a comprovação extemporânea, impondo o reconhecimento do direito ao benefício desde o momento do requerimento administrativo.
+Neste diapasão, confira-se:
+Sobre a alegada violação ao art. 20, §3º do CPC/1973, verifica-se que o acórdão recorrido está de acordo com a jurisprudência deste Superior Tribunal de Justiça sob o entendimento de que o termo final dos honorários advocatícios em matéria previdenciária deve ser fixado na data do julgamento favorável à concessão do benefício, excluindo-se as parcelas vincendas, a teor da súmula 111/STJ.
+Sobre o assunto, confira-se:
+PROCESSUAL CIVIL. DEMANDA PREVIDENCIÁRIA. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL. DECISÃO CONCESSIVA DO BENEFÍCIO. PRINCÍPIOS DA EFETIVIDADE E DA DURAÇÃO RAZOÁVEL DO PROCESSO. APLICAÇÃO.
+1. A respeito do termo final dos honorários advocatícios em matéria previdenciária, a orientação jurisprudencial do Superior Tribunal de Justiça é a de que deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas, conforme determina a Súmula 111 desta Corte.
+2. O Código de Processo Civil de 2015 não inovou em relação aos critérios para a fixação da verba honorária sucumbencial estabelecidos no § 2º do art. 85, pois a referida norma consubstancia-se repetição da legislação anterior (art. 20, § 3º, do CPC/1973).
+3. A própria natureza da tutela previdenciária (dirigida a suprir os segurados, ou seus dependentes, em caso de idade avançada, doença, e morte ou os assistidos da Previdência Social, em situação de vulnerabilidade), aliada ao princípio da efetividade, evidencia a necessidade de adoção de instrumentos que assegurem a duração razoável do processo, motivo pelo qual permanece inalterado o escopo da Súmula 111 do STJ, de modo a evitar possível conflito de interesses entre o patrono e seu representado.
+4. Agravo interno desprovido.
+(AgInt no REsp 1888117/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Conforme teor da Súmula 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser a decisão em que o direito do segurado foi reconhecido: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença".
+2. Na hipótese, o acórdão recorrido, que concedeu o direito à aposentadoria especial, deve ser considerado como termo final. Nesse sentido: AgRg no AREsp 271.963/AL, Rel. p/a. Acórdão, Min. Sérgio Kukina, Primeira Turma, DJe de 19/5/2014; EDcl no AgRg no REsp 1.271.734/RS, Rel. Min. Alderita Ramos de Oliveira (Desembargadora Convocada do TJ/PE), DJe de 18/4/2013; AgRg nos EDcl no AREsp 155.028/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/10/2012.
+3. Recurso Especial provido.
+(REsp 1831207/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/11/2019, DJe 19/12/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento parcial ao recurso especial para determinar a data do requerimento administrativo como termo a quo para o recebimento do benefício.
+Publique-se. Intimem-se.
