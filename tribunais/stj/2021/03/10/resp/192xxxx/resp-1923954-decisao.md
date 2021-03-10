@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Banco do Brasil S.A. com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (fl. 78):
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. RESTITUIÇÃO DE VALORES DESFALCADOS DE CONTA VINCULADA AO PASEP. LEGITIMIDADE DO BANCO DO BRASIL S.A. RECONHECIDA. SENTENÇA CASSADA. APELAÇÃO CONHECIDA E PROVIDA. DECISÃO POR MAIORIA.
+1. Na hipótese, pretende a parte autora a restituição de eventuais valores desfalcados de sua conta vinculada do pasep depositados até 1988, devidamente atualizados, bem como, ser indenizada pelos danos morais advindos da realização de débitos indevidos na referida conta.
+2. Tratando-se a causa de supostos desfalques na conta vinculada ao PASEP (e não somente de ausência de correção do valor depositado na conta da apelante), o Banco do Brasil é parte legítima para figurar no polo passivo da lide, por força do art. 5º da lei complementar nº 08/1970.
+3. Apelação conhecida e provida. Sentença cassada. Decisão por maioria.
+A parte recorrente aponta violação aos seguintes dispositivos da legislação federal:
+(I) art. 485, VI, do CPC/15, afirmando quenão é responsável pelas questões atinentes a levantamento de abono salarial vinculado ao PIS/PASEP, uma vez que atua como mero depositário dos valores recolhidos e mero executor dos comandos determinados pelo Conselho Diretor do Fundo de Participação Social, sendo a União a gestora desse fundo; e
+(II) art. 509 do CPC/15, na medida em que o Tribunal de origemreformou a sentença semoportunidade de contraditório e ampla defesa. Aduz, então, que, em se tratando de cálculos de alta complexidade, fica evidente a necessidade de se instaurar liquidação por arbitramento.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece acolhida. Inicialmente, convém registrar que, no caso dos autos, o Tribunal a quo solucionou a controvérsia asseverando a legitimidade do Banco do Brasil e determinando o retorno dos autos ao Juízo de origem pare regular processamento do feito (fl. 75). Assim, os argumentos postos no presente apelo quanto à alegada violação ao art. 509 do CPC/15 não guardam pertinência com os fundamentos do aresto atacado, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+Ademais, sobre o tema da legitimidade passiva nas ações que visem ao ressarcimento dos valores depositados nascontas vinculadas ao PIS/PASEP, este Superior Tribunal de Justiça já manifestou o entendimento de que cabe à Justiça Estadual processar e julgar as causas cíveis relativas ao PASEP,porquanto o Banco do Brasil é o gestor das referidas contas, compreensão essa que evidenciasua legitimidade para constar no polo passivo da presente demanda.Confira-se, a propósito, o seguinte precedente:
+CONFLITO DE COMPETÊNCIA. PASEP. SAQUES INDEVIDOS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. BANCO DO BRASIL. INSTITUIÇÃO GESTORA. SOCIEDADE DE ECONOMIA MISTA. SÚMULA 42/STJ. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 12a. VARA CÍVEL DE RECIFE -PE.
+1. A Primeira Seção desta Corte tem entendimento predominante de que compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal).
+2. Incide, à espécie, a Súmula 42/STJ : Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento.
+3. Conflito de Competência conhecido para declarar competente o Juízo de Direito da 12a. Vara Cível de Recife -PE.
+(CC 161.590/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 13/02/2019, DJe 20/02/2019)
+No caso, o acórdão recorrido está em consonância com o entendimento desta Corte Superior sobre o tema, merecendo subsistir.
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
