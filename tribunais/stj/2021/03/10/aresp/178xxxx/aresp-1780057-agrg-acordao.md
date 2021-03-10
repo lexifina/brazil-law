@@ -1,0 +1,41 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALSIDADE IDEOLÓGICA. REEXAME DE PROVAS. AUSÊNCIA DE PREQUESTIONAMENTO. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS.
+1. O Superior Tribunal de Justiça não é competente para a análise de violação a dispositivo da Constituição Federal, nem sequer para fins de prequestionamento, sob pena de usurpação de competência do Supremo Tribunal Federal.
+2. No caso, para o acolhimento da pretensão formulada no recurso especial, que busca a absolvição da agravante, implicaria vedado reexame de provas. Além disso, o recurso carece de prequestionamento no ponto em que se alega a ausência de potencialidade lesiva da conduta.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz e Nefi Cordeiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por FERNANDA POLTRONIERI DA SILVA contra decisão por mim proferida que conheceu do agravo para não conhecer do recurso especial.
+Depreende-se dos autos que a agravante interpôs recurso de apelação contra a sentença que a condenou, como incursa no art. 299 do Código Penal, à pena de 1 ano de reclusão no regime semiaberto.
+Foi negado provimento ao recurso em acórdão assim ementado (e-STJ fls. 597/598):
+APELAÇÃO CRIMINAL - RECURSO DEFENSIVO - FALSIDADE IDEOLÓGICA - PLEITO ABSOLUTÓRIO - ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO - SENTENÇA SUFICIENTE E IDONEAMENTE MOTIVADA - ALEGAÇÃO DE ATIPICIDADE DA CONDUTA POR AUSÊNCIA DE DOLO - TESE AFASTADA - PRETENDIDA A DESCLASSIFICAÇÃO PARA O DELITO DE EXERCÍCIO IRREGULAR DA PROFISSÃO - INCABÍVEL - PEDIDO DE REDUÇÃO DA PENA INTERMEDIÁRIA AQUÉM DO MÍNIMO LEGAL EM FACE DA CONFISSÃO ESPONTÂNEA - IMPOSSIBILIDADE - SÚMULA 231/STJ - ALMEJADA A SUBSTITUIÇÃO DA PENA DE PRESTAÇÃO DE SERVIÇOS POR PRESTAÇÃO PECUNIÁRIA - COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL - RECURSO NÃO PROVIDO.
+I - Depreende-se dos autos que, ao contrário da alegação defensiva, a condenação decorreu de análise lógica das provas angariadas aos autos, consistente nos documentos, interrogatórios e depoimentos das testemunhas, restando a sentença suficiente e idoneamente fundamentada.
+II - O conjunto probatório carreado aos autos é robusto e demonstra, com clareza, que a apelante atribuiu-se a falsa identidade de advogada, informando número aleatório dos quadros da OAB/MS, induzindo a erro os integrantes da comissão processante em processo administrativo movido pela Secretaria Estadual de Educação (34/2014) contra servidora pública, mediante o artifício ardil de afirmar que era advogada da professora e informar um número de inscrição que posteriormente revelou-se pertencer a terceiro advogado regularmente inscrito. Não há falar em absolvição por atipicidade da conduta por ausência de dolo específico, pois a versão da apelante foi desconstituída pelo depoimento firme prestado pelas testemunhas, no sentido de que se apresentou como advogada e informou número de inscrição da OAB pertencente a outra pessoa, permitindo que se inserisse no termo de audiência sua presença e "atuação profissional" naquele ato, com o fim de alterar verdade sobre fato juridicamente relevante, qual seja, uma estudante de direito atuar como profissional devidamente inscrito nos quadros da OAB.
+III - A despeito da presença da atenuante da confissão espontânea, a pena intermediária foi mantida no mínimo legal, mostrando-se impossível reduzi-la aquém deste patamar por força da Súmula 231 do STJ.
+IV - Não merece conhecimento o pleito para que a pena seja substituída por prestação pecuniária no importe de dois salários mínimos, haja vista que a análise das condições de viabilidade para o cumprimento da pena é de competência do Juízo da Execução Penal, nos termos do art. 66, V, "a" e VI, e art. 148, ambos da Lei de Execução Penal.
+IV - Recurso não provido, com o parecer.
+A defesa então interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, no qual apontou violação ao art. 109, V, da Constituição Federal, ao art. 47 da LCP e ao art. 299 do Código Penal.
+Assevera que as provas produzidas não indicam a prática da figura típica acima referida. Além disso, afirma que a conduta não apresentou potencialidade lesiva.
+Contrarrazões às e-STJ fls. 629/632.
+Inadmitido o recurso, foi interposto o presente agravo.
+O MPF manifestou-se pelo desprovimento ao agravo (e-STJ fls. 670/671).
+Tendo em vista que o recurso especial a que se refere o agravo não foi conhecido, foi interposto o presente agravo regimental, no qual aduz a defesa que, ao contrário do que decidido, a matéria levantada no recurso especial foi debatida na origem. Assevera que o referido recurso não esbarra no óbice da Súmula n. 7 desta Corte.
+Por fim, reitera que, "no caso em tela, o dolo e a potencialidade lesiva estão intimamente ligados. Logo para ser considerada idônea a conduta criminosa deve ser capaz de trazer a potencialidade de produzir o efeito danoso, de outro lado não sendo capaz de produzir tal resultado há crime impossível. Tão logo nos autos fora mencionado por diversas vezes que o resultado do processo administrativo não teve qualquer condão com a participação da ré, não há que se falar em delito, requerendo melhor análise desta corte e a absolvição da ré" (e-STJ fl. 684).
+É, em síntese, o relatório
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Não assiste razão à agravante.
+Os fundamentos invocados para o não conhecimento do recurso especial a que se refere o agravo permanecem hígidos.
+Em primeiro lugar, foi suscitado no recurso especial, indevidamente, malferimento a dispositivos constitucionais, o que não se admite, pois ao Supremo Tribunal Federal, e somente a ele, compete examinar esse tipo de alegação.
+Além disso, pretende-se no recurso especial o reexame do acervo probatório como forma de demonstrar a atipicidade da conduta e a ausência de provas suficientes para a condenação.
+Tal intento, contudo, esbarra no entendimento firmado na Súmula n. 7 desta Corte.
+No caso, o Tribunal a quo, soberano no exame do conjunto probatório, concluiu pela presença de elementos que comprovam a prática do delito (e-STJ fl. 604):
+Logo, o conjunto probatório carreado aos autos é robusto e demonstra, com clareza, que a apelante Fernanda atribuiu-se a falsa identidade de advogada profissional, informando número aleatório dos quadros da OAB/MS, induzindo a erro os integrantes da comissão processante em processo administrativo movido pela Secretaria Estadual de Educação (34/2014) contra a servidora Aldacir de Oliveria Krein, mediante o artifício ardil de afirmar que era advogada da professora e informar um número de inscrição que posteriormente revelou-se pertencer a terceiro advogado inscrito, opondo inclusive sua assinatura no termo de audiência, praticando o crime tipificado no artigo 299 do Código Penal.
+Desta forma, não há falar em absolvição por atipicidade da conduta por ausência de dolo específico, pois em que pesem as alegações defensivas, verifica-se que a versão da apelante foi desconstituía pelo depoimento firme prestado pelas testemunhas, no sentido de que a recorrente se apresentou como advogada e informou número de inscrição da OAB pertencente a outra pessoa, permitindo que se inserisse no termo de audiência sua presença e "atuação profissional" naquele ato, com o fim de alterar verdade sobre fato juridicamente relevante, qual seja, uma estudante de direito atuar como profissional devidamente inscrito nos quadros da OAB.
+Vale consignar, por fim, que o tema referente à ausência de potencialidade lesiva da conduta não foi alvo de discussão pela Corte de origem, que se limitou a examinar a questão referente ao dolo da agravante. Portanto, nesse ponto, carece o recurso do indispensável prequestionamento.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
