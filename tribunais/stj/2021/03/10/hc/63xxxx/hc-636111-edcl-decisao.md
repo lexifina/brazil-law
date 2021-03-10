@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ALDO JOSÉ MARQUES BRANDÃO contra decisão de minha relatoria, que concedeu a ordem, de ofício, para determinar ao Juízo da Execução que retifique o cálculo de pena da parte paciente, a fim de que conste o percentual previsto no art. 112, V, da Lei de Execução Penal - 40% (quarenta por cento) para progressão de regime, salvo se cometida falta grave (e-STJ, fls. 257-261).
+O embargante aponta a existência de erro material e contradição, uma vez que, no relatório da decisão ora embargada, "constou que a defesa teria afirmado que seria o embargante reincidente específico" (e-STJ, fl. 281), no seguinte trecho:
+"Neste writ, a defesa alega constrangimento ilegal sofrido pelo paciente, porquanto deveria ter sido aplicado, no Juízo das Execuções, o inciso V do art. 112 da LEP, e não o inciso VII do mesmo dispositivo legal, uma vez que o apenado é reincidente específico" (e-STJ, fl. 257).
+Acrescenta: "Todavia, como se vê claramente, a defesa jamais afirmou que o embargante seria reincidente específico, mas sim, que o mesmo NÃO POSSUI REINCIDÊNCIA EM CRIME HEDIONDO OU EQUIPARADO, tanto que isso foi verificado por Vossa Excelência quando da concessão da ordem de Habeas - Corpus de ofício" (e-STJ, fl. 281).
+Ao final, "pugna a defesa apenas que sejam acolhidos os embargos de declaração, constando no citado parágrafo - aqui reproduzido no item II -, a expressão "uma vez que o apenado NÃO é reincidente específico"." (e-STJ, fl. 282).
+É o relatório.
+Decido.
+Dispõe o Código de Processo Penal:
+"Art. 619. Aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão."
+Assiste razão ao embargante, pois observa-se que, no relatório da decisão de e-STJ, fls. 257-261, consignou-se a assertiva "Neste writ, a defesa alega constrangimento ilegal sofrido pelo paciente, porquanto deveria ter sido aplicado, no Juízo das Execuções, o inciso V do art. 112 da LEP, e não o inciso VII do mesmo dispositivo legal, uma vez que o apenado é reincidente específico" (sem grifo no original), quando, de fato, deveria constar a seguinte redação:
+"Neste writ, a defesa alega constrangimento ilegal sofrido pelo paciente, porquanto deveria ter sido aplicado, no Juízo das Execuções, o inciso V do art. 112 da LEP, e não o inciso VII do mesmo dispositivo legal, uma vez que o apenado é reincidente não específico."
+Verificam-se, portanto, erro material e contradição, passíveis de correção, nos termos acima explicitados.
+Ante o exposto, acolho os aclaratórios, sem efeitos infringentes, para sanar o erro material e a contradição apontados, de modo que passe a constar na decisão, especificamente à e-STJ, fl. 257, a seguinte redação: "Neste writ, a defesa alega constrangimento ilegal sofrido pelo paciente, porquanto deveria ter sido aplicado, no Juízo das Execuções, o inciso V do art. 112 da LEP, e não o inciso VII do mesmo dispositivo legal, uma vez que o apenado é reincidente não específico."
+Publique-se. Intimem-se.
+Após, retornem-me os autos para apreciação do agravo regimental de e-STJ, fls. 265-248.
