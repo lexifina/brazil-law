@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara da Fazenda Pública e Autarquias de Belo Horizonte/MG e o Juízo Federal da 18ª Vara Cível de Belo Horizonte - SJ/MG, nos autos da ação ajuizada por Abel Camilo de Souza contra o Município de Belo Horizonte e o Estado de Minas Gerais, objetivando a realização de procedimento cirúrgico para o tratamento de enfermidade, em razão de não possuir recursos financeiros para tanto.
+O presente conflito de competência foi distribuído por prevenção do CC n. 174.843/MG, também de minha relatoria, cujos interessados, juízo suscitante, juízo suscitado, causa de pedir e pedido são rigorosamente os mesmos, conforme inclusive consta da certidão de fl. 428 acerca da prevenção,restando caracterizada, assim, a litispendência entre os processos.
+Ressalta-se que no referido feito foi proferida decisão designando o juízo estadual de forma precária para deliberar acerca de pedidos e medidas urgentes que se fizerem necessárias, tendo os autos já retornado com parecer do Ministério Público Federal pela competência do mesmo juízo designado.
+Desse modo, extingo o presente conflito de competência sem resolução do mérito, nos termos do art. 485, V, do CPC/2015.
+Publique-se. Intimem-se.
