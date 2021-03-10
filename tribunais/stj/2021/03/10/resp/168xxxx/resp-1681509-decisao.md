@@ -1,0 +1,72 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MN ALIMENTOS LTDA ME contra acórdão prolatado, por unanimidade, pela 5ª Turma do Tribunal Regional Federal da 2ª Região no julgamento de apelação cível, assim ementado (fls. 222/230e):
+ADMINISTRATIVO. CONTRATO DE CESSÃO DE USO DE ÁREA PÚBLICA. NÃO PAGAMENTO DE CONTAS DE ÁGUA E ENERGIA ELÉTRICA. PRESCRIÇÃO.
+1. Trata-se de Apelações interpostas em face de sentença que julgou parcialmente procedente o pedido formulado na inicial, condenando a Demandada ao pagamento de valores relativos ao consumo de energia elétrica e água durante a vigência do contrato de concessão de uso mantido entre as partes.
+2. No caso de ação de cobrança ajuizada por autarquia em face da empresa particular, incide o prazo prescricional do Código Civil de 2002 (art. 206, §3º, III). Afastada a aplicação do Decreto nº 20.910/1932, que trata das dívidas passivas dos entes públicos, bem como dos direitos e ações contra a Fazenda Pública.
+3. A pretensão da Demandante surge com o inadimplemento contratual, vale dizer, com a ocupação do imóvel sem o pagamento da devida contraprestação pelo consumo de água e energia. Inexistindo prova cabal acerca da data de desocupação do imóvel, deve- se considerar aquela indicada pelo servidor público responsável pela fiscalização do local, em razão da presunção de veracidade dos atos administrativos.
+4. Não comprovado o adimplemento das obrigações contratuais, por meio da quitação dos valores em aberto, deve ser mantida a sentença de condenação ao pagamento das prestações devidas. Precedentes: TRF3, 68 Turma, AC 200061000267522, Rel. Juiz Fed.
+Conv. NINO TOLDO, DJF3 12.8.2011; TRF2, 88 Turma Especializada, AC 9602363169, Rel. Juíza Fed. Conv. MARIA ALICE PAIM LYARD, DJU 13.7.2009.
+5. Apelação da Demandada não provida. Apelação da Demandante parcialmente provida, apenas para modificar as parcelas alcançadas pela prescrição, tendo em vista a data de desocupação do imóvel indicada pelo agente administrativo.
+Opostos embargos de declaração, foram rejeitados (fls. 261/270e).
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+I. Arts. 458 e 535 do Código de Processo Civil de 1973 (fl. 283e) -
+Ressalte-se que, quanto a violação dos arts. 458, II, e 535, II, do CPC, não há que se falar de prequestionamento, posto que a nulidade ocorreu no julgamento dos embargos de declaração e se trata de vício na origem.
+Por ventura ultrapassada esta preliminar de nulidade, é de se concluir, por força da lógica consequencial, que houve o devido prequestionamento quanto a contrariedade do art. 219 e parágrafos do CPC, pelo menos implicitamente, posto que o v. acórdão recorrido fez retroagir a data da interrupção da prescrição a do ajuizamento da ação.
+Também houve o prequestionamento quanto à análise da matéria fática e a violação do art. 206, § 3º, III, do CC, expressamente ventilados no acórdão recorrido.
+II. Arts. 219, § § 2º, 3º e 4º, do Código de Processo Civil de 1973 (fl. 286e) -
+Como sabido, o art. 219 do CPC prevê que "a citação válida torna prevento o juízo, induz litispendência e faz litigiosa a coisa; e, ainda quando ordenada por juiz incompetente, constitui em mora o devedor e interrompe a prescrição." O § Iº deste artigo dispõe, por sua vez, "que a interrupção da prescrição retroagirá à data da propositura da ação." Contudo, "incumbe à parte promover a citação do réu nos 10 (dez) dias subsequentes ao despacho que a ordenar a citação, não ficando prejudicada pela demora imputável exclusivamente ao serviço judiciário", e que não "sendo citado o réu, o juiz prorrogará o prazo até o máximo de 90 (noventa) dias", como soa respectivamente os parágrafos 2º e 3º deste mesmo artigo.
+Porventura o autor não se encarregue devidamente do seu ônus, o § 4a do art. 219 do CPC estabelece como sanção processual que "não se efetuando a citação nos prazos mencionados nos parágrafos antecedentes, haver-se-á por não interrompida a prescrição".
+III. Art. 206, § 3º, III, do Código Civil (fls. 287/288e) -
+Diga-se, inicialmente, que a r. sentença de piso fixou o entendimento no sentido de que as atividades da recorrente e o imóvel foi desocupado em 20.5. 2002, em razão da leitura da cópia da petição inicial da ação monitória proposta pela recorrida que está nos autos e que assim o declara, contudo, o v. acórdão entendeu que a desocupação ocorreu em março de 2006.
+(..)
+De fato, o documento às fls. 105 dos autos, elaborado quando já passados quase 04 anos da suposta desocupação, declara que esta "deve ter sido entre os dias 28 a 29 de junho de 2006".
+Ora, a cópia da ação monitória ajuizada pela UFES em face da recorrente às fls. 19/21 dos autos, que foi juntada, esclareça-se, para que fosse averiguada eventual prevenção do Juízo, é categórica no sentido de que "não obstante o período de vigência do contrato ter sido expirado em março de 2000 (como consta na Sub-Cláusula Primeira do Contrato de Concessão de Uso), a efetiva desocupação do imóvel somente ocorreu em 20105102..- (grifei)
+Com contrarrazões (fl. 293e), o recurso foi admitido (fl. 300e).
+O Ministério Público Federal, no parecer de fls. 325/332e, opina pelo não conhecimento do recurso.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, caput, do Código de Processo Civil, combinado com o art. 34, XVIII, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Não se pode conhecer a apontada violação ao art. 535 do Código de Processo Civil, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, bem como a sua importância para o deslinde da controvérsia, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+Nesse sentido:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. AFASTAMENTO. AUSÊNCIA DE INÉRCIA DO CREDOR. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO NÃO COMPROVADO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+(AgRg no REsp 1450797/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/06/2014, DJe 11/06/2014)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 535 DO CPC. SÚMULA 284/STF. SERVIDOR PÚBLICO. PROFISSIONAL DA ÁREA DA SAÚDE. IMPOSSIBILIDADE DE ACUMULAÇÃO DE CARGOS. ACÓRDÃO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INCOMPATIBILIDADE DE HORÁRIOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ELEITA. SÚMULA 7/STJ. PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC, a agravante não evidencia qualquer vício no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgRg no AREsp 422.907/RJ, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 18/12/2013; AgRg no AREsp 75.356/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 21/10/2013.
+(AgRg no AREsp 318.883/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/06/2014, DJe 01/07/2014, destaque meu).
+No que se refere à questão da suposta interrupção da prescrição, verifico que a insurgência carece de prequestionamento, uma vez que não foi analisada pelo tribunal de origem.
+Com efeito, o requisito do prequestionamento pressupõe prévio debate da questão pelo tribunal de origem, à luz da legislação federal indicada, com emissão de juízo de valor acerca dos dispositivos legais apontados como violados.
+No caso, malgrado a oposição de embargos declaratórios, o tribunal de origem não analisou, ainda que implicitamente, a aplicação do suscitado art. 219 do Código de Processo Civil de 1973.
+Desse modo, não tendo sido apreciada tal questão pelo tribunal a quo, a despeito da oposição de embargos de declaração, aplicável, à espécie, o teor da Súmula n. 211/STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 535 DO CPC. APLICAÇÃO DA SÚMULA N. 284 DO STF, POR ANALOGIA. BENS PÚBLICOS. TERRENO DE MARINHA. ILEGALIDADE DO PROCEDIMENTO DEMARCATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211 DESTA CORTE SUPERIOR. REGISTRO IMOBILIÁRIO. CARACTERIZAÇÃO DO BEM COMO TERRENO DE MARINHA. MANDADO DE SEGURANÇA. VIA ADEQUADA. QUESTÃO MERAMENTE DE DIREITO. OPONIBILIDADE EM FACE DA UNIÃO. CARACTERIZAÇÃO DO BEM COMO PROPRIEDADE PARTICULAR. IMPOSSIBILIDADE. PROPRIEDADE PÚBLICA CONSTITUCIONALMENTE ASSEGURADA (CR/88, ART. 20, INC. VII).
+(..)
+2. A controvérsia acerca da ilegalidade do procedimento demarcatório na espécie, pela desobediência do rito específico previsto no Decreto-lei n. 9.760/46 - vale dizer: ausência de notificação pessoal dos recorrentes - não foi objeto de análise pela instância ordinária, mesmo após a oposição de embargos de declaração, razão pela qual aplica-se, no ponto, a Súmula n. 211 desta Corte Superior.
+(..)
+5. Recurso especial parcialmente conhecido e, nesta parte, não provido. Julgamento submetido à sistemática do art. 543-C do CPC e à Resolução n. 8/2008.
+(REsp 1183546/ES, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 08/09/2010, DJe 29/09/2010, destaque meu).
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou a ocorrência de prescrição, nos seguintes termos (fls. 226e):
+Portanto, considerando-se que o imóvel permaneceu ocupado até junho de 2006 e tendo em vista que a demanda foi proposta em agosto do mesmo ano, encontram-se prescritas as parcelas anteriores a agosto de 2003, nos termos do disposto no art. 203, § 3º, III, do CC/02.
+Prosseguindo na análise do mérito, observa-se que o contrato sub judice estabelecera a responsabilidade da UFES pela apuração dos valores devidos pelo consumo de água e energia elétrica na área cedida, devendo o pagamento ser realizado pela concessionária. Comprovando seu direito de crédito, a Demandante trouxe aos autos os demonstrativos do cálculo do débito total (fls. 112/114), tendo a empresa (Demandada) sustentado apenas a ilegalidade das estimativas, que teriam sido realizadas unilateralmente. Não obstante, a Demandada não apresentou nenhum elemento capaz de demonstrar a incorreção das quantias apuradas, tampouco comprovou o pagamento de qualquer verba.
+Desssa forma, não tendo sido apresentado nenhum fato extintivo, modificativo ou impeditivo do direito da UFES, deve ser mantida a condenação da Demandada ao pagamento das contraprestações não prescritas, referentes ao mencionado lapso temporal.
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "A pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO. OCORRÊNCIA. DEMORA NA CITAÇÃO ATRIBUÍDA AO FISCO. REEXAME. SÚMULA 7/STJ.
+1. Os recursos interpostos com fulcro no CPC/1973 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo n. 2 do Plenário do STJ.
+2. Para que a interrupção da prescrição retroaja à data da propositura da ação, nos termos do art. 219, § 1º, do CPC/1973, é necessário que a demora na citação não seja atribuída ao Fisco.
+Precedentes.
+3. A alteração da conclusão do Tribunal de origem de que a citação tardia da executada decorreu da inércia da Fazenda Pública demandaria o revolvimento do acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no REsp 1483361/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/03/2017, DJe 04/04/2017)
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. ART. 174, I DO CTN. DESPACHO CITATÓRIO NÃO REALIZADO. CONDIÇÃO NECESSÁRIA PARA RECONHECIMENTO DA PRESCRIÇÃO. SÚMULA 106/STJ. MORA DO JUDICIÁRIO. SÚMULA 7/STJ.
+1. Em julgamento de apelação interposta contra sentença que extinguiu execução fiscal, o Tribunal local reconheceu o decurso da prescrição aplicando o § 5º do art. 219 do Código de Processo Civil de 1973 e o inciso I do art. 174 do Código Tributário Nacional.
+Também consignou que a execução fiscal foi ajuizada dentro do prazo quinquenal, bem como que não foi ordenado despacho citatório.
+2. O entendimento da Turma é no sentido de que "nas hipóteses em que o despacho citatório ainda não foi proferido, é incabível falar-se em ocorrência de prescrição." (AgRg no AREsp 425.986/DF, Rel.
+Ministra Assusete Magalhães, Segunda Turma, julgado em 23/6/2015, DJe 1º/7/2015).
+3. Aplicação do entendimento da Súmula 106/STJ, pois o acórdão recorrido, reconheceu a desídia do Judiciário na condução do processo. Inaplicabilidade da Súmula 7/STJ ante a impossibilidade de modificar a conclusão a que chegou o Tribunal a quo.
+4. Recurso Especial provido.
+(REsp 1856910/AL, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/02/2020, DJe 13/05/2020)
+Posto isso, com fundamento no art. 557, caput, do Código de Processo Civil, NEGO SEGUIMENTO ao Recurso Especial.
+Publique-se e intimem-se.
