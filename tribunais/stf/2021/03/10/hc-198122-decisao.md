@@ -1,0 +1,55 @@
+Decisão: Trata-se de habeas corpus, com pedido de medida liminar, impetrado pela Defensoria Pública da União, em favor de Gustavo da Silva Andrade de Oliveira, contra acórdão proferido pela Quinta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao agravo regimenta no RHC 138.914 – SP.
+    Consta dos autos que o paciente foi preso preventivamente pela suposta prática do delito descrito no art. 157, § 2º, do Código Penal.
+    Irresignada, a defesa impetrou habeas corpus no TRF/3ª postulando, e em suma, a revogação da constrição cautelar.
+    A ordem foi denegada nos termos da ementa a seguir transcrita:
+    “PENAL. PROCESSUAL PENAL. HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA DECRETADA. MOTIVAÇÃO IDÔNEA. REITERAÇÃO DELITIVA. CIRCUNSTÂNCIAS PESSOAS FAVORÁVEIS NÃO DEMONSTRADAS. ORDEM DENEGADA.
+    1. Decorre dos autos que o paciente foi preso em flagrante, no dia 02.07.2020, pela suposta prática do delito do artigo 157, §2º, II, do Código Penal.
+    2. O crime em tese praticado pelo paciente possui pena máxima em abstrato superior a 4 (quatro) anos de reclusão, encontrando-se preenchido, assim, o requisito previsto no artigo 313, I, do Código de Processo Penal.
+    3. Além disso, o paciente já foi condenado anteriormente pela prática de delito semelhante, de forma que reiterou na conduta delitiva.
+    4. O paciente é pessoa jovem e não comprovou ser portador de nenhuma doença que o enquadre nos grupos de risco para o coronavírus, bem como o delito praticado envolve grave ameaça ou violência a pessoa.
+    5. Necessidade de manutenção da prisão.
+    6. Insuficiência das medidas cautelares.
+    7. Ordem denegada”. (eDOC 2, p. 96)
+    Impugnou-se o acórdão por meio de recurso ordinário endereçado ao Superior Tribunal de Justiça, o qual foi monocraticamente desprovido ante a ausência de ilegalidade na prisão.
+    Sobreveio agravo regimental que também restou desprovido sob os seguintes fundamentos:
+    “PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO DO DECRETO PRISIONAL. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO DESPROVIDO.
+    I - A segregação cautelar deve ser considerada exceção, já que tal medida constritiva só se justifica caso demonstrada sua real indispensabilidade para assegurar a ordem pública, a instrução criminal ou a aplicação da lei penal, ex vi do artigo 312 do Código de Processo Penal.
+    II - Na hipótese, o decreto prisional encontra-se devidamente fundamentado em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, em razão de o paciente ostentar diversos registros criminais, inclusive com condenação anterior, dados que revelam a periculosidade concreta do agente e a probabilidade de repetição de condutas tidas por delituosas tudo a demonstrar a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva. Precedentes.
+    III - A presença de circunstâncias pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não tem o condão de garantir a revogação da prisão se há nos autos elementos hábeis a justificar a imposição da segregação cautelar, como na hipótese. Pela mesma razão, não há que se falar em possibilidade de aplicação de medidas cautelares diversas da prisão.
+    IV - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes. Agravo regimental desprovido”. (eDOC 2, p. 194)
+     Nesta Corte, o impetrante reitera os pedidos pretéritos e enfatiza o argumento no sentido de que o acusado sofre constrangimento ilegal em razão da carência de fundamentação concreta do decreto cautelar, reputando ausentes os requisitos autorizadores da medida, previstos no artigo 312 do CPP.
+    Alega que o fato do réu já ter sido condenado anteriormente não pode ser determinante para a manutenção da prisão provisória.
+    É o relatório.
+    Decido.
+    De modo geral, a prisão preventiva deve indicar, de forma expressa, os seguintes fundamentos para sua decretação, nos termos do artigo 312 do CPP: I) garantia da ordem pública; II) garantia da ordem econômica; III) garantia da aplicação da lei penal; e IV) conveniência da instrução criminal.
+    Na linha da jurisprudência deste Tribunal, porém, não basta a mera explicitação textual dos requisitos previstos, sendo necessário que a alegação abstrata ceda à demonstração concreta e firme de que tais condições realizam-se na espécie.
+    Dessa forma, a tarefa de interpretação constitucional para análise de excepcional situação jurídica de constrição da liberdade exige que a alusão a esses aspectos esteja lastreada em elementos concretos, devidamente explicitados.
+    Por oportuno, transcrevo trechos do acórdão proferido pelo Tribunal de origem que manteve a prisão preventiva do acusado:
+    “Decorre dos autos que o paciente foi preso em flagrante, no dia 02.07.2020, pela suposta prática do delito do artigo 157, §2º, II, do Código Penal.
+    O crime em tese praticado pelo paciente possui pena máxima em abstrato superior a 4 (quatro) anos de reclusão, encontrando-se preenchido, assim, o requisito previsto no artigo 313, I, do Código de Processo Penal.
+    Além disso, o paciente já foi condenado anteriormente pela prática de delito semelhante, de forma que reiterou na conduta delitiva (processo 100891/2013 da 31ª Vara Criminal de São Paulo).
+    Nesse ponto, ressalte-se que o próprio paciente, em seu Boletim de Vida Pregressa (ID 136423360 – pág. 30/32), informou já ter sido preso anteriormente. Na ocasião, consignou que teria sido preso em duas oportunidades pelo delito de roubo.
+    Consta também a informação de que o paciente nunca trabalhou, existindo indícios de que se utiliza da atividade criminosa como um meio de sobrevivência, de forma que uma vez solto poderá voltar a delinquir. Logo, para a garantia da ordem pública, forçoso considerar que não atende aos requisitos legais para fazer jus à revogação da prisão preventiva.
+    Cumpre ressaltar que o fato de o paciente possuir um vício em cocaína e maconha não configura uma fundamentação, que por si só, possa justificar a segregação. Contudo, no caso dos autos, existem outros elementos que justificam a manutenção da medida extrema.
+    Nota-se, ainda, que o cometimento do delito no momento atual evidencia uma maior reprovabilidade da conduta, vez que evidente que o paciente se aproveitou do menor fluxo de pessoas nas ruas para facilitar a conduta criminosa.
+    A Defensoria Pública da União também suscita questões referentes ao coronavírus (Covid-19) para requerer a concessão de liberdade ao paciente.
+    Nesse ponto, ressalta-se que o Conselho Nacional de Justiça emitiu a Recomendação 62/20, dirigida aos magistrados com atuação no sistema penal e penitenciário.
+    Num momento tão difícil, em que os prognósticos sobre a evolução da epidemia são incertos, e diante do inusitado da situação, é louvável que o E. Conselho Nacional de Justiça tenha rapidamente expedido a Recomendação em tela, como forma de auxiliar os juízes na sua difícil missão.
+    Entretanto, na hipótese dos autos, o requerimento formulado carece de maiores elementos que possam demonstrar o risco concreto para se cogitar do deferimento da liberdade ao paciente, uma vez que é pessoa jovem e não comprovou ser portador de nenhuma doença que o enquadre nos grupos de risco para o coronavírus, bem como o delito praticado envolve grave ameaça ou violência a pessoa.
+    Ademais, a determinação atual não é de libertação de todos os agentes que se encontram no sistema prisional, a análise é feita de acordo com as particularidades de cada caso em concreto.
+    A par desses fundamentos, e considerando, outrossim, que não se demonstrou qualquer ilegalidade concernente à prisão preventiva decretada em desfavor da paciente, não se tendo, ademais, aventado qualquer alteração fática que permita a revogação da aludida medida constritiva, é o caso, pois, de mantê-la.
+    Incabível, ainda, a substituição da prisão preventiva por medidas cautelares previstas no artigo 319, do Código de Processo Penal, por se mostrarem, ao menos por ora, insuficientes e inadequadas”. (eDOC 2, p. 94-95)
+    Cito, ainda, trechos da decisão proferida pelo STJ:
+    “Ora, da análise dos excertos transcritos, observa-se que a segregação cautelar do paciente está devidamente fundamentada em dados concretos extraídos dos autos, que evidenciam de maneira inconteste a necessidade da prisão para garantia da ordem pública, em razão de o paciente ostentar diversos registros criminais, inclusive com condenação anterior, dados que revelam a periculosidade concreta do agente e a probabilidade de repetição de condutas tidas por delituosas tudo a demonstrar a indispensabilidade da imposição da segregação cautelar, em virtude do fundado receio de reiteração delitiva”.
+     Assim, da leitura dos trechos acima transcritos, verifico que o decreto prisional encontra-se devidamente fundamentado em dados concretos, não apenas na gravidade abstrata do delito.
+    As circunstâncias da prisão em apreço – paciente, em concurso de agentes e utilizando-se de grave ameaça, teria assaltado funcionário dos correios - autorizam a conclusão pela necessidade da segregação cautelar para garantia da ordem pública e para assegurar a aplicação da lei penal.
+    Ademais, a prisão justifica-se, sobretudo, diante da possibilidade de reiteração delitiva, tendo em vista a notícia dos autos de que o acusado já teria sido condenado por delito de mesma natureza.
+    Por oportuno, destaco precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta do crime (HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+    Além disso, menciono que a jurisprudência do Supremo Tribunal Federal sedimentou-se no sentido de que primariedade, bons antecedentes, residência fixa e ocupação lícita, por si sós, não afastam a possibilidade da prisão preventiva (cf.: RHC 124.486/DF, de minha relatoria, Segunda Turma, DJe 19.2.2015; HC 126.051/MG, rel. Min. Dias Toffoli, Segunda Turma, DJe 29.5.2015; e HC 124.535/SP, rel. Min. Teori Zavascki, Segunda Turma, DJe 19.12.2014).
+    Vê-se, portanto, que a medida extrema lastreou-se em elementos concretos colhidos dos próprios autos, harmonizando-se a constrição da liberdade do acusado com a jurisprudência do STF.
+    Ante o exposto, com fundamento no artigo 192, caput, do RISTF, denego a ordem.
+    Publique-se.
+    Brasília, 10 de março de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
