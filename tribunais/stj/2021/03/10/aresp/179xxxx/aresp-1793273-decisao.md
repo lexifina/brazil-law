@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial fundado na alínea "a" do permissivo constitucional interposto contra acórd ão do Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+DIREITO ADMINISTRATIVO. APELAÇÃO. PENSÃO POR MORTE. POLICIAL MILITAR EXPULSO DA CORPORAÇÃO. EXCLUSÃO A BEM DA DISCIPLINA. LEI N. 3.765/1960 E LEI 10.486/2002. CONTRIBUIÇÃO ESPECIAL DE 1,5% APÓS A EXCLUSÃO DO MILITAR. NECESSIDADE DE PAGAMENTO. CONTRIBUIÇÃO FICTA. IMPOSSIBILIDADE. MORTE REAL. NÃO OCORRÊNCIA. RECURSO CONHECIDO E DESPROVIDO.
+1.O militar excluído pode continuar como contribuinte da pensão militar, a partir da data da exclusão, desde que efetue o pagamento da respectiva contribuição (§ 3º do art. 36 da Lei n. 10.486/02 e o art. 2º da Lei n. 3765/60) e tenha optado até 5/9/2001 continuar naquele regime.
+2.Os requisitos para percepção da pensão por morte estão descritos nas Leis 3.765/1960 e Lei 10.486/2002, quais sejam: mais de 10 (dez) anos de serviço, existência de herdeiro habilitado, contribuição após a expulsão e morte real.
+3.Não há como reconhecer o direito alegado pelo autor ao pretenso benefício, pois, caso contrário, estar-se-ia instituindo benefício previdenciário mediante contribuição ficta e sem morte real, o que é vedado expressamente.
+4.Apelação conhecida e desprovida.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente aponta violação dos arts. 36, §§3º, I e §4º, 37, I e III, 38, parágrafo único, da Lei n. 10.486/2002, 6º do Decreto-Lei n. 4.657/1942 (LINDB), aduzindo que "A comparação deixa claro que há direito adquirido à pensão por morte ficta nos mesmos moldes da legislação anterior, cuja garantia se quis resguardar. Entender que mesmo cumpridos os requisitos mínimos de 10 anos de efetivo exercício da função (art. 38, parágrafo único) e de contribuição com o adicional de 1,5% após 2001 (art. 36, 2 3 2 ) seria afrontar o direito adquirido de proteção constitucional (art. 5 2 , XXXVI) e as normas gerais do Direito Brasileiro (art. 6 2 do Decreto-Lei n 2 4.657, de 4 de setembro de 1942). Quanto ao emprego da expressão "herdeiros" quando a produção de efeitos patrimoniais depende do evento morte, o Código Civil é expresso ao mencionar o evento ou este é presumido em função da explícita lógica do instituto, como na transmissão da obrigação de prestar alimentos (art. 1.700), na interrupção da prescrição contra um dos herdeiros (art. 204) e na transmissão do obrigação do fiador aos seus herdeiros (art. 836). Como reforço de que a expressão "herdeiros" é utilizada sem que se exija a morte, ficta ou real, se tem a legitimidade aos herdeiros para anulação da doação inoficiosa, ainda que o doador esteja vivo, portanto exercível desde que se ache na condição de herdeiro. Assim, justamente por trazer hipótese de "morte ficta", necessariamente a legislação teria que fazer menção aos titulares da capacidade de herdar do militar excluído, ainda que este como regra permaneça vivo, como já reconhecido na jurisprudência, já que o dispositivo determina expressamente a concessão após o agente ter se licenciado ou excluído da corporação e não após a sua morte. Portanto, no caso de exclusão da corporação não há exigência de morte real na Lei nº 10.486 ou na Lei nº 3.675, implicando verdadeira interpretação contra legem eventual entendimento diverso, como fez o Tribunal recorrido." (fl. 186 e-STJ)
+Houve contrarrazões.
+É o relatório. Passo a decidir.
+Sobreveio juízo negativo de admissibilidade fundado na incidência da Súmula 7/STJ.
+Houve contraminuta.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece prosperar.
+O Tribunal de origem, ao analisar a controvérsia, assentou que:
+A Lei nº 3.765/1960, em seu artigo 20, previa que o militar excluído ou expulso da corporação seria considerado falecido e seus dependentes teriam direito ao recebimento de pensão militar.
+Contudo, com o advento da Medida Provisória nº 2.218/01, convertida na Lei nº 10.486/2002, passou-se a entender que os dependentes de militar expulso ou excluído da corporação não mais fariam jus à pensão militar, sendo o benefício concedido somente no caso de morte física do militar.
+Tal entendimento decorreu da recente interpretação dada ao artigo 38 da Lei 10.486/2002, que dispõe que o militar deixará a pensão a seus herdeiros, e não a seus dependentes.
+ ..
+Com efeito, a partir da mencionada alteração legislativa, passou-se a depreender que a qualificação da pessoa como herdeira decorre necessariamente do evento morte do titular benefício.
+Para assegurar o princípio da dignidade da pessoa humana, a legislação permite o pleito civil de alimentos ou o pagamento de pensionamento, tanto na esfera civil como na criminal.
+Dessa forma, somente ocorrendo a morte física do militar é que surge o direito do herdeiro à pensão militar, não sendo mais suficiente a morte ficta.
+Este entendimento foi expresso desde a edição da Lei 10.486/2002, onde a figura da "morte ficta" do militar excluído dos quadros da corporação restou expressamente ilidida, não sendo mais admitida como fato gerador de pensão militar.
+Outrossim, o Tribunal de Contas do Distrito Federal - TCDF reconheceu a ilegalidade da pensão militar por morte ficta e publicou a decisão nº 4091/2010- TCDF, orientando o Distrito Federal a não mais conceder tais pensões e a cancelar as pensões estabelecidas a partir de 5/9/2001.
+Efetivando a decisão do TCDF, o Distrito Federal não só deixou de conceder o benefício aos dependentes de policiais expulsos, como vem excluindo todas as pensões deferidas a partir de 5/9/2001, o que, inclusive, vinha sendo objeto de inúmeras ações judiciais neste egrégio Tribunal.
+ ..
+Ademais, com a promulgação da Lei 10.486/2002 ficou assegurado a manutenção dos benefícios previstos na Lei nº 3.765/60, mediante contribuição específica, somente até 29/12/2000. Tendo a exclusão do militar, pai do postulante do benefício sido efetivada posteriormente, não lhe aproveita o direito de opção pelos direitos vigentes no regime legal daquela época.
+Em vista das premissas expostas, para que o militar excluído da corporação deixe pensão aos herdeiros, há a necessidade de preenchimento cumulativo dos requisitos supracitados, que pontuo de forma assertiva: a) morte real; b) mais de 10 anos de serviço; c) existência de herdeiro habilitado; d) contribuição após a expulsão.
+No caso vertente, não houve preenchimento do primeiro requisito, morte, real, o que, por si só, afasta o direito a percepção do benefício de pensão morte.
+O reconhecimento do direito alegado pelo autor ao pretenso benefício, significaria instituição de benefício previdenciário mediante contribuição ficta, o que é vedado.
+O entendimento exarado no aresto estadual está em consonância com o entendimento desta Corte Superior, no sentido de que o art. 38 da Lei 10.486/2002 apenas possibilita que o militar excluído da corporação contribua para o pagamento do benefício de pensão a fim de que seus dependentes recebam pensionamento após sua morte, e não no caso de ter sido excluído da corporação (morte ficta). (AgRg no RMS. 38.819/DF, Rel. Min. HERMAN BENJAMIN, DJe 4.10.2013).
+A propósito:
+ADMINISTRATIVO. EX-POLICIAL MILITAR. EXCLUSÃO. CORPORAÇÃO. PENSÃO MILITAR AOS DEPENDENTES. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO DE BENEFÍCIO SIMILAR NO REGIME GERAL DE PREVIDÊNCIA SOCIAL.
+1. O Superior Tribunal de Justiça entende que a Lei Federal 9.717/1998, em seu art. 5º, veda aos seus destinatários a concessão de benefícios distintos dos previstos no Regime Geral da Previdência Social pela Lei Federal 8.213/1991, exceto quando houver previsão em sentido contrário na Constituição Federal.
+2. Assim, é vedada a concessão de vantagens não constantes nas normas gerais estabelecidas pela legislação federal aos Policiais Militares dos Estados-Membros e do Distrito Federal.
+3. Ademais, o art. 38 da Lei 10.486/2002 apenas possibilita que o militar excluído da corporação contribua para o pagamento do benefício de pensão a fim de que seus dependentes recebam pensionamento após sua morte, e não no caso de ter sido excluído da corporação (morte ficta).
+4. O falecimento do militar é requisito para que surja o direito subjetivo à pensão militar.
+5. Agravo Regimental não provido.
+(AgRg no RMS 38.819/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/09/2013, DJe 04/10/2013)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO DISTRITAL. MILITAR EXCLUÍDO DA CORPORAÇÃO. PENSÃO POR MORTE FICTA. IMPOSSIBILIDADE.
+1. A denominada morte ficta, não encontra respaldo na jurisprudência desta Corte, firmada no sentido de que, com o advento da Lei n. 9.717/1998, que fixou regras gerais para a organização e funcionamento dos regimes próprios de previdência dos servidores da União, Estados, Distrito Federal e Municípios, e dos militares dos Estados e do Distrito Federal, ficou vedada a concessão de benefício diverso dos previstos no Regime Geral de Previdência Social.
+Precedente: AgRg no AREsp 397.997/DF, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 25/10/2013.
+2. Agravo regimental não provido
+(AgRg no REsp. 1.498.331/DF, Rel. Min. MAURO CAMPBELL MARQUES, DJe 23.6.2015).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. POLICIAL MILITAR EXCLUÍDO DA CORPORAÇÃO. PENSÃO POR MORTE FICTA. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
