@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas nºs 283 e 284 do STF).
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+RELATÓRIO
+FÁBIO DE JESUS DA SILVA(FÁBIO) ajuizou ação de indenização por danos materiais e morais contra TERRA NOVA RODOBENS INCORPORADORA IMOBILIÁRIA LONDRINA II SPE LTDA. (TERRA NOVA), alegando a existência de vícios construtivos no imóvel objeto do contrato de compra e venda firmado entre as partes.
+Em primeira instância, os pedidos foram julgados procedentes para condenar TERRA NOVA ao pagamento de R$ 16.665,99(dezesseis mil, seiscentos e sessenta e cinco reais e noventa e nove centavos) a título de danos materiais e R$ 10.000,00 (dezmil reais) por danos extrapatrimoniais (e-STJ, fls. 637/639).
+A apelação interposta pela TERRA NOVA foi parcialmente provida peloTribunal de Justiça do Paraná, consoante o acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. COMPRA E VENDA DE IMÓVEL. VÍCIOS CONSTRUTIVOS. PROCEDÊNCIA DOS PEDIDOS INICIAIS. RECURSO DA REQUERIDA. PARCIAL SUBSISTÊNCIA.
+1. REVISÃO DO CONTRATO. ONEROSIDADE EXCESSIVA.QUESTÕES NÃO DISCUTIDAS NOS AUTOS. AUSÊNCIA DE INTERESSE RECURSAL.
+- Inexiste interesse recursal quando a parte recorre de matéria sequer discutida nos autos.
+2. PREJUDICIAIS DE MÉRITO. DECADÊNCIA. INOCORRÊNCIA.PATOLOGIAS QUE CONSUBSTANCIAM FATO DO PRODUTO, E NÃO VÍCIO DO PRODUTO. INAPLICABILIDADE DO PRAZO DECADENCIAL DE 90 (NOVENTA) DIAS. PRESCRIÇÃO TRIENAL.IMPERTINÊNCIA. INCIDÊNCIA DO PRAZO PRESCRICIONAL DE 05 (CINCO) ANOS. INTELIGÊNCIA DO ART. 27, DO CDC. AÇÃO AJUIZADA DENTRO DO PRAZO PRESCRICIONAL.
+- Considerando que as patologias construtivas consubstanciam fato do produto, e não vício do produto, não há que se falar em aplicabilidade do prazo decadencial de 90 (noventa) dias ou o prescricional trienal previsto no Código Civil, mas sim do prazo prescricional de 05 (cinco) anos, previsto no art. 27, do CDC.
+- Tendo em vista que entre a entrega do imóvel e o ajuizamento da ação decorreram menos de 05 (cinco) anos, conclui-se ter sido respeitado o prazo prescricional aplicável à espécie.
+3. DANOS MATERIAIS. DEMONSTRAÇÃO DE VÍCIOS CONSTRUTIVOS, MEDIANTE PERÍCIA JUDICIAL. DEFEITOS DE PROJETO E DE CONSTRUÇÃO. DEVER DE INDENIZAR CONFIGURADO. RECEBIMENTO DAS CHAVES, SEM QUALQUER RESSALVA. ALTERAÇÃO DO PROJETO ORIGINAL PELOS COMPRADORES. DESINFLUÊNCIA. NECESSIDADE. EXCLUSÃO DOS VALORES RELATIVOS À INSTALAÇÃO DE FORRO NOS BEIRAIS.IMPOSSIBILIDADE. VÍCIO DE PROJETO, DE RESPONSABILIDADE DA RÉ. CONDUTA QUE AFETA AS BOAS PRÁTICAS DA ENGENHARIA. AUSÊNCIA DE COBRANÇA DE VALORES A MAIOR.NECESSIDADE DE REVISÃO DE TODO O TELHADO EM RAZÃO DAS FALHAS E MOFO CAUSADOS PELA FALTA DOS BEIRAIS E CALHAS.REFORMA DA REDE ELÉTRICA. DEVER. INSTALAÇÃO INADEQUADA. CIRCUITOS ELÉTRICOS MISTURADOS.SUBSTITUIÇÃO DO PISO DA TOTALIDADE DA CASA. IMPOSIÇÃO PARA GARANTIR A UNIFORMIDADE. EXCLUSÃO DO VALOR REFERENTE AO "BDI". IMPOSSIBILIDADE. PERCENTUAL DE 30% (TRINTA POR CENTO). MANUTENÇÃO, NO CASO CONCRETO.
+- Constatando o perito judicial que o imóvel foi entregue ao autor com diversos vícios de projeto e construção, está a ré obrigada a efetuar o pagamento de indenização pelos danos materiais causados, ainda que o comprador tenha recebido as chaves sem realizar qualquer ressalva.
+- O fato de o autor ter construído cobertura na área aberta da casa e erigido muros na lateral não afasta o dever de indenizar, sobretudo porque o perito concluiu que as patologias constatadas não guardam qualquer relação com as mencionadas reformas.
+- O valor referente à instalação de forro nos beirais deve ser mantido, vez que a ausência de previsão no memorial descritivo consubstancia falha de projeto, o que atenta contra as boas práticas da engenharia.
+- Deve ser mantido o valor total da condenação para revisão completa do sistema de cobertura e instalação de calha de beiral e condutores verticais no entorno do telhado do imóvel, a fim de que a estrutura como um todo seja capaz de coletar e dar a destinação correta para água das chuvas.
+- Considerando que os mofos e manchas existentes nas paredes decorreram de infiltração causada pela falta de beiral na cobertura, a repintura deve integrar a indenização pelos danos materiais.
+- Impõe-se a reforma na estrutura elétrica diante da constatação de que ainstalação, mesmo tendo sido utilizados os materiais constantes no material descritivo, foi realizada de forma inadequada, misturando-se os circuitos elétricos.
+- Conquanto as anomalias atinjam apenas algumas peças de cerâmica, cabível a substituição do piso de toda a casa, a fim de garantir-se homogeneidade.
+- De rigor a manutenção do BDI em 30% (trinta por cento), até porque a requerida não justificou de forma pormenorizada as razões pelas quais entende que, no caso concreto, o percentual mostra-se exacerbado.
+4. DANOS MORAIS. CARACTERIZAÇÃO. VÍCIOS CONSTRUTIVOS.JUSTA EXPECTATIVA FRUSTRADA E DIREITO À MORADIA DIGNA.PRECEDENTES. INDENIZATÓRIO. NECESSÁRIA QUANTUM REDUÇÃO.
+- A frustração da justa expectativa de receber o imóvel sem qualquer vício construtivo e a violação do direito à moradia digna são causas suficientes para gerar dano moral.
+- Para aferição do quantum indenizatório, é necessário ponderar a gravidade do dano, a condição econômica da vítima e do ofensor, com o intuito de atribuir um valor suficiente para reparar o dano sofrido, bem como punir o ofensor e evitar que a vítima enriqueça sem causa.
+Recurso parcialmente conhecido, e, na parte conhecida, parcialmente provido(e-STJ, fls. 772/774).
+Os embargos de declaração opostos pelaTERRA NOVA foram rejeitados.
+Inconformada, TERRA NOVA interpôs recurso especial, com base no art. 105, III, a e c, da CF, alegando a violação dos arts. 2º,§ 2º, e 6º,§1º, da LINDB;e 138, 171, II, 422 e 427 do CC/02, ao sustentar que (1) em respeito ao ato jurídico perfeito, o contrato firmado entre as partes deve prevalecer, uma vez que não houve descumprimento dos seus termos por sua parte; (2) FÁBIO não alegou, no momento dacelebração do contrato, a existência de vício resultante de erro, dolo, coação, simulação ou fraude; (3) não pode ser responsabilizada pelos vícios construtivos indicados na inicial, os quais não foram identificados no laudo pericial; (4) deve ser afastada sua condenação ao pagamento de indenização por danos morais, ou, alternativamente, que seja reduzido o referido valor, observando-se os princípios da razoabilidade e da proporcionalidade; e (5) demonstrou o dissídio jurisprudencial.
+Foram oferecidas contrarrazões.
+O apelo nobre foi inadmitido pelo Tribunal estadual em virtude da incidência das Súmulas nºs 7 e 211, ambasdo STJ, e 283 e 284, ambas do STF.
+Seguiu-se o agravo em recurso especial interposto pela TERRA NOVA que, em decisão proferida pelo Ministro Presidente desta Corte, não foi conhecido em virtude da ausência de impugnação dos fundamentos da decisão agravada.
+Nas razões do presente agravo interno, TERRA NOVA afirmou ter impugnado a integralidade dos fundamentos da decisão hostilizada.
+Houve a apresentação de impugnação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência das Súmulas nºs 283 e 284 do STF).
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não deve ser acolhido por não ter trazido nenhum elemento apto a infirmar a conclusão externada na decisão recorrida.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão impugnada, o agravo em recurso especial não se dirigiu especificamente contra todos os fundamentos da decisão que negou seguimento ao apelo nobre, pois TERRA NOVA, na ocasião, não refutou, de forma arrazoada, a incidência das Súmulas nºs 283 e 284, ambas do STF.
+E isso não fez porque somente alegou, nas razões de seu agravo em recurso especial, que (1) a solução das questões controvertidas independe do reexame de provas; (2) a matéria em testilha foi devidamente prequestionada; (3) é incabível sua condenação ao pagamento de indenização por danos morais a pretexto da existência de vícios construtivos; e (4) no próprio Tribunal estadual, existem precedentes que divergem da conclusão do acórdão recorrido.
+Não houve, portanto, a demonstração do adequado enfrentamento do fundamento da decisão agravada no que tange à incidência das Súmulas nºs 283 e 284, ambas do STF.
+Cumpre registrar que, na hipótese em que se pretende impugnar, a incidência das Súmulas nºs 283 e 284, ambas do STF, impõe-se à parte demonstrar que não houve deficiência na fundamentação e que apontou o dispositivo de lei federal contrariado, bem como impugnou os fundamentos que foram suficientes para manter o acórdão recorrido, apresentando razões recursais não dissociadas dos fundamentos utilizados pela Corte de origem, o que não se observa no caso concreto.
+Desse modo, o agravo em recurso especial não impugnou adequadamente os óbices anteriormente mencionados, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), devendo ser mantida a decisão agravada.
+Nesse sentido, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO DO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O PROCESSAMENTO DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. FIXAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS EM CONFORMIDADE COM O DISPOSTO NO ART. 85, § 11, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade recursal proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do art. 932, III, do CPC/2015.
+2. Consoante o entendimento da Segunda Seção do STJ, nas hipóteses de não conhecimento ou de improvimento dos recursos interpostos na vigência do Código de Processo Civil de 2015, é cabível o arbitramento dos honorários advocatícios recursais, ante a incidência da norma do art. 85, § 11, do referido diploma processual.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.620.321/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 30/3/2020, DJe 6/4/2020 - sem destaque no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+ ..
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.643.618/DF, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 23/3/2020, DJe 26/3/2020 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DUPLICIDADE DE RECURSOS. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO NÃO CONHECIDO. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+ ..
+3. Não pode ser conhecido o agravo em recurso especial que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no artigo 932, inciso III, do CPC/2015.
+4. Agravo interno nã o provido.
+(AgInt no AREsp 1.578.985/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 23/3/2020, DJe 26/3/2020 - sem destaque no original )
+Assim, como a TERRA NOVA não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial, visto que não é admissível a impugnação de seus fundamentos somente no âmbito do agravo interno, em virtude da preclusão.
+Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão objurgada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
+Advirto que eventual recurso interposto contra este acórdão estará sujeito ao possível cabimento de multa (arts. 77, §§ 1º e 2º, 1.021, § 4º, e 1.026, § 2º, todos do NCPC).
