@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CRISTIANO JOSÉ PACCOLA, EXIO PACCOLA e GILMAR DIMAS PACCOLAem face de decisão sintetizada na seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA.AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO SUPOSTAMENTE VIOLADO.SÚMULA 284/STF. CUMPRIMENTO DE SENTENÇA. APREENSÃO DA CNH E PASSAPORTE DOS EXECUTADOS. REEXAME DO CONJUNTO FÁTICO- PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O embargante defende a ocorrência de contradição, erro material e omissão, pois: a) ao contrário do pontuado na decisão embargada, houve indicada violação à Constituição Federal e ao art. 805 do CPC/2015; b) a afirmação destacada do acórdão recorrido não refletea verdade dos autos (fl. 879 e-STJ); c) inaplicável a Súmula 7/STJ; d) o dissídio foi adequadamente demonstrado.
+É o relatório.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" A pretensão não merece acolhida.
+Para que os aclaratórios, que são recurso de fundamentação vinculada possam prosperar, faz-se necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição, omissão ou - como previsto na novel legislação - erro material em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+No caso, o embargante aponta contradição, erro material e omissão, pois: a) ao contrário do pontuado na decisão embargada, houve indicada violação à Constituição Federal e ao art. 805 do CPC/2015; b) a afirmação destacada do acórdão recorrido não reflete a verdade dos autos (fl. 879 e-STJ); c) inaplicável a Súmula 7/STJ; d) o dissídio foi adequadamente demonstrado.
+Ocorre que, em verdade, não há falar em vício na hipótese, pois a decisão embargada analisou a integralidade do recurso tendo concluído pelo não conhecimento do apelo em razão da incidência dos óbices das Súmulas 284/STF e 7/STJ. A propósito, os seguintes trechos:
+Nas razões do recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, os recorrentes defendem a violação ao art. 805 do CPC/2015 sustentando a impossibilidade de apreensão de suas carteiras de habilitação e dos passaportes na fase executiva nos autos da ação de improbidade administrativa.
+Ademais, aponta genericamente que o acórdão recorrido incorreu em omissão quanto a temas relevantes apontados pelos ora recorrentes na instância de origem. Por fim, o recorrente suscita pela concessão de efeito suspensivo ao apelo nobre.
+ ..
+Os recorrentes argumentam que o Tribunal de origem teria incorrido em omissão, mas não apontou qual comando normativo a alegada negativa de prestação jurisdicional teria violado. Sendo assim, neste ponto, as razões do recurso especial se revelam genéricas, vez que deficiente a sua fundamentação, o que evidencia a incidência do óbice da Súmula 284/STF.
+ ..
+Na hipótese dos autos, o Tribunal de origem, no âmbito do cumprimento de sentença de ação civil pública por ato de improbidade administrativa, reconheceu a possibilidade de imposição de medida coercitiva excepcional consistente da apreensão da CNH e do passaporte dos executados, nos termos do art. 139, IV, do CPC/2015.
+ ..
+Verifica-se, portanto, que o Tribunal de origem, com fundamento na prova dos autos, concluiu que a medida imposta é adequada e proporcional ao caso dos autos, haja vista o exequente não está logrando êxito em encontrar bens dos executados para satisfazer o débito que estes possuem com a coletividade. Nesse sentido, não se está adotando a medida mais onerosa aos devedores, eis que outras possibilidades já lhes foram apresentadas, sem qualquer êxito.
+Com efeito, é certo que a revisão de tais fundamentos demanda o revolvimento do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial em razão da incidência da Súmula 7/STJ.
+Assim, verifica-se que o embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração. Como já explicitado inicialmente, os declaratórios apenas são cabíveis nos casos de omissão, obscuridade ou contradição, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso.
+Sobre o tema, os seguintes julgados desta Corte Superior:
+PROCESSUAL CIVIL AÇÃO CIVIL PÚBLICA. APP. REMOÇÃO DE EDIFICAÇÕES. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973.
+INEXISTENTE. CITAÇÃO. JULGAMENTO EXTRA PETITA. PRESCRIÇÃO. RESTRIÇÃO ADMINISTRATIVA. PRETENSÃO DE REEXAME FÁTICO- PROBATÓRIO. SÚMULA N. 7/STJ.
+ ..  V - Com relação à alegada omissão acerca da inexistência de curso d"água, verifica-se que a matéria não constou dos embargos de declaração opostos, o que inviabiliza essa parcela de inconformação.
+VI - A oposição de embargos de declaração, com fundamento nas omissões acima, demonstra, tão somente, o objetivo de rediscutir a matéria sob a ótica do recorrente, sem que tal desiderato objetive o suprimento de quaisquer das baldas descritas no dispositivo legal mencionado, mas sim, unicamente, a renovação da análise da controvérsia. No mesmo diapasão, destacam-se:
+AgInt no AREsp 1.323.892/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 13/11/2018, DJe 22/11/2018 e AgInt no REsp 1.498.690/RS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/3/2017, DJe 20/3/2017.
+ ..  X - Agravo interno improvido.
+(AgInt no AREsp 1128424/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/12/2019, DJe 11/12/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. OMISSÃO.
+INEXISTÊNCIA. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO.
+ENTENDIMENTO NO SENTIDO DA AUSÊNCIA DE NOVAÇÃO. MERO PARCELAMENTO DA DÍVIDA. SÚMULAS 5 E 7/STJ. APLICAÇÃO.
+AGRAVO INTERNO DESPROVIDO.
+1. Inexistem omissões ou mesmo contradição a serem sanadas no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 10, 489, § 1º, IV e VI, e 1.022 do CPC/2015 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, o que não se confunde com omissão ou contradição, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+2. A segunda instância, analisando o contrato assinado entre as partes, concluiu que não se tratou de novação, mas sim de mera tolerância da locadora. Também estipulou-se que a confissão de dívida visou à quitação de débitos pretéritos, sem a intenção de novar, porquanto não se verificou a busca pela substituição de uma dívida por outra, mas o simples parcelamento da dívida anterior. Essas conclusões foram fundadas na análise de fatos, provas e termos contratuais, atraindo a aplicação das Súmulas 5 e 7/STJ por quaisquer das alíneas do permissivo constitucional.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1445088/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Ante o exposto, rejeito os embargos de declaração, por ausência dos vícios previstos na lei processual.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA.INEXISTÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC/2015. INCONFORMISMO DO EMBARGANTE. EFEITOS INFRINGENTES.INVIABILIDADE. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
