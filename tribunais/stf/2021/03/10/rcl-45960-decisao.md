@@ -1,0 +1,17 @@
+DECISÃO
+RECLAMAÇÃO – INADEQUAÇÃO – SEGUIMENTO – NEGATIVA.
+    1. Eis as balizas reveladas pelo assessor Vinicius de Andrade Prado:
+    Jhosef Vieira de Melo afirma haver o Superior Tribunal de Justiça, no julgamento do agravo interno em recurso especial nº 1.446.952, usurpado a competência do Supremo.
+    Narra ter sido condenado ante apontada prática de homicídio culposo, considerados depoimentos de testemunhas, sem realização de prova pericial. Mantida a óptica no Tribunal de Justiça e no Superior Tribunal de Justiça, ressalta a interposição de recurso extraordinário, cuja sequência foi indeferida.
+    Frisa caber ao Supremo apreciar agravo formalizado ante o previsto no artigo 1.042 do Código de Processo Civil. Diz que o Tribunal de origem, relativamente à arguida inobservância de princípios constitucionais, a par de evocar a ligação da controvérsia ao que debatido nos Temas nº 181, 339 e 660 do repertório da repercussão geral, inadmitiu o recurso extraordinário sem fazer menção a precedente decidido sob o regime da repercussão maior, a implicar a pertinência da remessa do agravo ao Supremo. Cita jurisprudência.
+    Requer, no campo precário e efêmero, a suspensão do processo originário. Pretende, no mérito, a cassação do ato e o envio do processo a este Tribunal.
+    2. No recurso extraordinário, articula-se com ofensa aos artigos 11 e 489 do Código de Processo Civil, 5º, cabeça, incisos LIV e LV, e 93, inciso IX, da Constituição Federal, em virtude de condenação com apoio em prova testemunhal, sem a feitura de perícia.
+    Conclui-se ausente erronia na observância da sistemática da repercussão geral. Além de inadequado recurso extraordinário protocolado a partir da violação de preceitos do Diploma Processual, o Superior Tribunal de Justiça, ante a arguida negativa de prestação jurisdicional, ao impedir o processamento do recurso, considerou o proclamado no agravo de instrumento nº 791.292 – Tema nº 339 –, no qual fixado entendimento pela obrigatoriedade da fundamentação das decisões judiciais. Tendo em conta a apontada contrariedade aos princípios da isonomia, ampla defesa, contraditório e devido processo legal, o desfecho da controvérsia pressupõe a análise de matéria infraconstitucional, no que a condenação decorreu do exame das provas reunidas no processo-crime. O Pleno assentou a falta de repercussão maior no recurso extraordinário com agravo nº 748.371. Confiram:
+ Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+          (Recurso extraordinário com agravo nº 748.371, Plenário Virtual, relator ministro Gilmar Mendes, acórdão publicado no Diário da Justiça eletrônico de 1º de agosto de 2013.)
+    A glosa de recurso inadequado – agravo do artigo 1.042 do Código de Processo Civil – não implica usurpação da competência do Supremo. A partir do disposto no artigo 1.030, inciso I, alínea “a”, e § 2º, cabe negar seguimento a recurso extraordinário se versada discussão em relação à qual não reconhecida a repercussão geral. Contra o pronunciamento, caberá agravo direcionado ao Tribunal de origem.
+    3. Nego seguimento à reclamação.
+    4. Publiquem.
+Brasília, 10 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
