@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei dirigido ao Superior Tribunal de Justiça, com pedido de liminar, fundado no art. 18, § 3º, da Lei nº 12.153/2009, apresentado por ÉRICO FERREIRA PEREIRAem face de acórdão da Turma Recursal do Juizado Especial da Fazenda Pública do Estado da Bahia.
+O requerente sustenta que "outras turmas recursais, ao interpretarem a aplicação dos dispositivos referentes a responsabilidade civil, mora e regulamentação do SUS (previstos, inclusive, no art. 247, 395 e 927 do Código Civil, bem como no art. 2º e seguintes da Lei 8.080/90) reconhecem que ainda que a internação inicial seja em hospital particular, havendosolicitação de transferência para hospital público, estaria caracterizada a MORA, a RESPONSABILIDADE CIVIL e o DEVER DE RESSARCIR/INDENIZAR por parte do poder Público, independentemente de prévia propositura de ação judicial" (e-STJ, fls. 10/11).
+Defende a presença dos requisitos necessários ao deferimento de pedido de liminar, a fim de evitar o transito em julgado da decisão impugnada. Requer o acolhimento do pedido de uniformização de interpretação de lei.
+É o relatório.
+A pretensão não merece acolhimento.
+Com efeito, o microssistema relacionado aos Juizados Especiais no país é regido por três leis: a) Lei 9.099/1995 que rege os Juizados Especiais Estaduais; b) Lei 12.153/2009 que regula os Juizados Especiais da Fazenda Pública Estadual e Municipal; e c) Lei 10.259/2001 dos Juizados Especiais Federais.
+Acrescente-se que somente os regramentos da Lei nº 10.259/2001 e da Lei nº 12.153/2009 incluíram na dinâmica processual pátria a possibilidade de apresentação de Pedido de Uniformização de Lei Federal perante o STJ, respectivamente, nos artigos 14, §4º, da Lei nº 10.259/2001 e 18, § 3º, e 19, da Lei nº 12.153/2009.
+Em primeiro lugar, o requerente não fez suficiente cotejo analítico entre os acórdãos confrontados, pois limitou-se a transcrever a ementa dos julgados paradigmas, delas destacando expressõesque corroborariam o seu entendimento.
+Não havendo suficiente demonstração das circunstâncias que assemelham os casos confrontados, a divergência não está comprovada.
+Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. RECURSO CONTRA DECISÃO DO PRESIDENTE DA TNU. QUESTÃO PROCESSUAL. AUSÊNCIA DE COTEJO ANALÍTICO. NÃO CONHECIMENTO.
+(..)
+Ademais, em relação à suposta divergência jurisprudencial há de se adotar o mesmo entendimento firmado por ocasião da análise dos Recursos Especiais com fundamento no art. 105, III, "c", da CF/1988, quando deve o recorrente, para demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, indicar a similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente, o que não ocorreu no caso em análise. Precedentes: AgInt no PUIL 268/RN, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 15/5/2017;Pet 9.554/SP, Rel. Ministro Humberto Martins, Primeira Seção, DJe 21/3/2013.Agravo Interno não conhecido.
+(AgInt no PUIL 1.068/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 14/05/2019, DJe 31/05/2019)
+De qualquer forma, a Turma Recursal do caso concreto foi enfática no sentido de que, "Com efeito, verifico que a parte autora se dirigiu, inicialmente e por conta própria, a instituição particular de saúde, e somente após o internamento buscou a central da regulação, em que pese o Estado disponibilize unidades para atendimento de urgência e emergência. Não houve, ademais, qualquer comprovação de negativa de atendimento na rede pública de saúde" (e-STJ, fl. 42- destaquei).
+Assim, não se verifica divergência com osjulgados paradigmas em que a condenação se restringiu ao período em que o Estado incorreu em mora no dever de transferir o paciente para a rede pública.
+Por outro lado, o acolhimento da tese da requerente de que houve mora do Estado na transferência para a rede pública de saúde pressupõe reexame de matéria fática, providência incabível na presente via, nos termos da jurisprudência desta Corte. Nesse sentido:
+PROCESSUAL CIVIL. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA.JUIZADO ESPECIAL DA FAZENDA PÚBLICA. MONTANTE ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCOS. ASPECTOS FÁTICOS. NÃO CABIMENTO.
+1. Nos termos do art. 18, § 3º, da Lei n. 12.153/2009, o mecanismo de uniformização de jurisprudência e de submissão das decisões das turmas recursais ao crivo do Superior Tribunal de Justiça, no âmbito dos juizados especiais da Fazenda Pública, restringe-se a questões de direito material, quando as turmas de diferentes estados derem a lei federal interpretações divergentes, ou quando a decisão proferida estiver em contrariedade com súmula do SuperiorTribunal de Justiça.
+2. Hipótese em que a parte promovente pretende discutir o montante arbitrado a título de honorários advocatícios, matéria de natureza fática, o que inviabiliza o processamento do presente feito.
+3. Agravo interno desprovido.
+(AgInt no PUIL 116/RO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, julgado em 24/05/2017, DJe 30/06/2017)
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do Pedido de Uniformização de Interpretação de Lei (PUIL).
+Prejudicada a análise do pedido de liminar.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI (PUIL) DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. ART. 18, § 3º, DA LEI 12.153/2009. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA DE COTEJO ANALÍTICO. DISCUSSÃO SOBRE MATÉRIA FÁTICA. NÃO CABIMENTO.PRECEDENTES DO STJ. PUIL NÃO CONHECIDO.
