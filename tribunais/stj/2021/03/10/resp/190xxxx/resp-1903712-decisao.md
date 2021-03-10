@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto porADEMIR DANIEL CAMARGO com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+AGRAVO INTERNO. PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. EFEITOS FINANCEIROS. PPP JUNTADO APÓS REQUERIMENTO ADMINISTRATIVO. FIXAÇÃO A CONTAR DA CITAÇÃO. CORREÇÃO MONETÁRIA.VERBA HONORÁRIA. ILEGALIDADE OU ABUSO DE PODER INEXISTENTE. AGRAVO IMPROVIDO.
+1. O termo inicial do beneficio é a DER. Contudo, os efeitos financeiros da condenação incidem a partir da citação, uma vez que a alegada atividade especial só restou comprovada com a vinda aos autos do PPP, emitido em data posterior à apresentação do requerimento na via administrativa.
+II. Tratando-se de sentença ilíquida, o percentual da verba honorária será fixado somente na liquidação do julgado, na forma do disposto no art. 85, § 40, II, e § 11, e no art. 86, ambos do CPC/2015, e incidirá sobre as parcelas vencidas até a data da sentença (Súmula 111 do STJ).
+III. Mantida a incidência da correção monetária, nos termos do julgamento em repercussão geral no RE 870947/SE (20.9.2017), ressalvada a possibilidade de, em fase de execução do julgado, operar-se a modulação de efeitos, por força de decisão a ser proferida pelo STF.
+IV. Tendo em vista que a decisão se pronunciou sobre todas as questões suscitadas, não há que se falar em sua alteração.
+V. Razões recursais que não contrapõem tal fundamento a ponto de demonstrar o desacerto da decisão, limitando-se a reproduzir argumento visando rediscutir a matéria nele decidida.
+VI. Agravos improvidos.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente apontaviolação aoart.57, da Lei n. 8.213/91, sustentando, em síntese, que o termo inicial do benefício deve ser fixado na data do requerimento administrativo.
+Requer, ainda, a fixação de honorários advocatícios nos termos do art. 85, § 11 e 14 do CPC/2015.
+É o relatório. Decido.
+O Tribunal de origem consignou que o termo inicial do beneficio é a DER. Contudo, os efeitos financeiros da condenação incidem a partir da citação, uma vez que a alegada atividade especial só restou comprovada com a vinda aos autos do PPP, emitido em data posterior à apresentação do requerimento na via administrativa(fl. 399).
+Contudo, a Primeira Seção do STJ, no julgamento da Pet 9.582/RS, Relator Ministro Napoleão Nunes Maia Filho, DJe 16.9.2015, consolidou o entendimento de que a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+Confira-se, por pertinente, a ementa do referido julgado:
+PREVIDENCIÁRIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. APOSENTADORIA ESPECIAL. TERMO INICIAL: DATA DO REQUERIMENTO ADMINISTRATIVO, QUANDO JÁ PREENCHIDOS OS REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA PROVIDO.
+1. O art. 57, § 2o., da Lei 8.213/91 confere à aposentadoria especial o mesmo tratamento dado para a fixação do termo inicial da aposentadoria por idade, qual seja, a data de entrada do requerimento administrativo para todos os segurados, exceto o empregado.
+2. A comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+3. In casu, merece reparos o acórdão recorrido que, a despeito de reconhecer que o segurado já havia implementado os requisitos para a concessão de aposentadoria especial na data do requerimento administrativo, determinou a data inicial do benefício em momento posterior, quando foram apresentados em juízo os documentos comprobatórios do tempo laborado em condições especiais.
+4. Incidente de uniformização provido para fazer prevalecer a orientação ora firmada.
+(Pet 9.582/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 26/08/2015, DJe 16/09/2015)
+Assim, estando o acórdão recorrido em dissonância com a jurisprudência desta Corte, o provimento do recurso é medida que se impõe.
+Quanto aos honorários advocatícios, esta Corte possui firme entendimento de que, em regra, não é possível a revisão do valor fixado a título de verba honorária em sede de recurso especial, assim porque implica, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado pela incidência da Súmula n. 7/STJ.
+Entretanto, o referido óbice pode ser afastado quando for verificado que o valor arbitrado pelas instâncias ordinárias se mostra irrisório ou exorbitante, não sendo essa a hipótese dos autos. Precedentes: REsp 1684753/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 10/10/2017; AgInt no AgRg no REsp 1230148/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/08/2017, DJe 17/08/2017.
+Ante o exposto, com fundamento no art. 255, § 4º, I e III, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, dou-lhe provimento para fixar o termo inicial do benefício na data do requerimento administrativo.
+Publique-se. Intimem-se.
