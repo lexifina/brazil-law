@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se dehabeas corpus, sem pedido liminar, impetrado em face de acórdão assim ementado (fls. 139/140):
+AGRAVO DE EXECUÇÃO PENAL. DECISÃO PROFERIDA PELO JUÍZO DA EXECUÇÃO QUE DETERMINOU A RETIFICAÇÃO DE CÁLCULO PARA FINS LIVRAMENTO CONDICIONAL CONSIDERANDO HEDIONDO O DELITO DO ART. 33, § 4º, DA LEI 11.343/06 PELO QUAL O AGRAVANTE FOI PRIMEIRAMENTE CONDENADO. PLEITO DEFENSIVO DE APLICAÇÃO DO ENTENDIMENTO FIXADO PELO SUPREMO TRIBUNAL FEDERAL NO HABEAS CORPUS Nº 118.533/MS NO SENTIDO DE QUE O CRIME DE TRÁFICO PRIVILEGIADO NÃO TEM NATUREZA HEDIONDA, AFASTANDO-SE A REINCIDÊNCIA ESPECÍFICA COM FIXAÇÃO DAS FRAÇÕES DE 2/3 (DOIS TERÇOS) REFERENTE À SEGUNDA CONDENAÇÃO PARA FINS DE LIVRAMENTO CONDICIONAL E DE 2/5 (DOIS QUINTOS) PARA PROGRESSÃO DE REGIME PRISIONAL.
+1. Apenado condenado por infração ao artigo 33, § 4º, da Lei 11.343/06 e posteriormente por infração ao artigo 33, caput, do mesmo diploma legal, que pretende a aplicação do entendimento firmado pelo plenário do Supremo Tribunal Federal nos autos do Habeas Corpus nº 118.533/MS.
+2. Interpretação implicitamente conferida pelo Juízo da execução ao artigo 44, parágrafo único, da Lei 11.343/06, no sentido de que o regime mais severo ali previsto seria aplicável ao delito do art. 33, § 4º, da Lei 11.343/06, que deve ser afastada.
+3. Cancelamento da Súmula nº 512 pela Terceira Seção do Superior Tribunal de Justiça em sintonia com o realinhamento da posição jurisprudencial do Supremo Tribunal Federal.
+4. Retificação de cálculo que se impõe, com fixação da fração de 2/3 (dois terços) referente à segunda condenação para fins de livramento condicional, afastando-se do apenado a condição de reincidente específico.
+5. Quanto à progressão de regime, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a Lei dos Crimes Hediondos não faz distinção entre a reincidência comum ou específica ao determinar a fração de 3/5 (três quintos) como lapso temporal para a progressão.
+RECURSO DEFENSIVO CONHECIDO E PARCIALMENTE PROVIDO
+Consta dos autos que foi elaborado cálculo de penaque considerava necessário o cumprimento de apenas 2/5 da pena do crime de tráfico de drogas para a progressão de regime, tendo em vista que o cumprimento de 3/5 somente deve ser exigido nas hipóteses de reincidência específica na prática de crime hediondo ou equiparado.O Ministério Público requereu a retificação do cálculo, o que foi deferido.
+Sustenta a impetrante, em síntese, a não configuração de reincidência específica do paciente em crime hediondo ou equiparado, pela condenação por tráfico privilegiado, motivo pelo qual deve ser assegurado ao paciente o direito de progressão de regime mediante cumprimento de 2/5 de pena, e não 3/5, como calculado equivocadamente pelo Juízo de Execução.
+Sem pedido liminar.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pelo não conhecimento dowrit, mas pela concessão da ordem de ofício, para alterar para 2/5 (40%), a fração necessária para progressão de regime.
+É o relatório.
+DECIDO.
+No presentewrit, a impetrante requer o direito de progressão de regime mediante cumprimento de 2/5 de pena, e não 3/5.
+Sobre o tema, o Tribunal de Justiça assim se manifestou (fls. 142/146):
+Presentes os requisitos de admissibilidade do agravo de execução penal, que possibilitam o seu conhecimento, passo à análise das razões recursais.
+Assiste razão ao agravante.
+O apenado foi condenado por infração ao artigo 33, § 4º, da Lei 11.343/06, às penas de 04 (quatro) anos e 02 (dois) meses de reclusão em regime semiaberto e 417 (quatrocentos e dezessete) dias-multa, pena esta já extinta conforme consulta ao sistema Projudi, vindo a ser novamente condenado por infração ao art. 33, caput, do mesmo diploma legal, às penas de 05 (cinco) anos, 03 (três) meses e 05 (cinco) dias de reclusão sob o regime fechado e 500 (quinhentos) dias-multa, havendo previsão de progressão ao regime semiaberto em 24/08/2021 em razão da aplicação da fração de 3/5 (três quintos), e de término do cumprimento da pena em 02/10/2023, coincidente com a data de livramento condicional, nos termos do cálculo de pena determinado pela decisão ora agravada.
+Nada obstante, a execução penal do agravante tem-se pautado pela premissa do caráter hediondo do delito de tráfico privilegiado objeto da primeira condenação, a qual não corresponde ao entendimento atual do Supremo Tribunal Federal sobre a questão, com evidente prejuízo ao recorrente decorrente da aplicação de frações maiores para o cálculo dos benefícios.
+Não se olvida do entendimento pretérito do Superior Tribunal de Justiça cristalizado na Súmula nº 512, verbis:
+"A aplicação da causa de diminuição de pena prevista no artigo 33, parágrafo 4º, da Lei 11.343/2006 não afasta a hediondez do crime de tráfico de drogas"
+A Terceira Seção do Superior Tribunal de Justiça, entretanto, acompanhou de forma unânime o entendimento do Supremo Tribunal Federal sobre a questão e em 23/11/2016 decidiu cancelar a Súmula 512.
+O Juízo recorrido consignou que a decisão proferida pelo Supremo Tribunal Federal no habeas corpus nº 118.533/MS afastou a aplicação dos dispositivos da Lei 8072/90, nada mencionando com relação à Lei 11343/06 que, em seu artigo 44, parágrafo único, conteria determinação expressa quanto ao prazo para livramento condicional. Ademais, o Juízo da Execução lembrou que "o § 4º do artigo 33 da Lei 11343/06 tem natureza jurídica de causa especial de diminuição de pena e não de tipo penal autônomo, razão pela qual não se poderia exigir que o parágrafo único do artigo 44 o mencionasse expressamente, já que, de fato, o crime cometido é o do artigo 33, ainda que com a pena diminuída."
+Por outro lado, o plenário do Supremo Tribunal Federal assentou recentemente:
+ ..
+Ao contrário do entendimento do Juízo recorrido, não há dúvida que a decisão do Supremo Tribunal Federal em comento é clara ao irradiar amplamente seus efeitos, alcançando também o livramento condicional. Neste sentido, o voto da E. Relatora encampou expressamente o parecer ministerial, in verbis:
+ ..
+O enunciado 512 do Superior Tribunal de Justiça inclinava-se pelo entendimento de que a causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/06 é baseada em critérios subjetivos, não no fato em si - "seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Entretanto, e a despeito de a norma do § 4º do art. 33 da Lei nº 11.343/06 ter a natureza jurídica de causa de diminuição de pena, o Supremo Tribunal Federal entendeu que tais hipóteses denotam que o envolvimento com o tráfico de drogas - e com o crime em geral - é episódico, e tal caráter isolado do envolvimento com o crime autoriza o afastamento do regime constitucional.
+A decisão ora recorrida assenta que o acórdão do Supremo Tribunal Federal acima transcrito não possui eficácia erga omnes e efeitos vinculantes, não tendo a suprema corte declarado a inconstitucionalidade de dispositivos da Lei 8072/90 ou da Lei 11.343/06.
+Entretanto, não há como ignorar interpretação firmada pelo Supremo Tribunal Federal em matéria penal quando até mesmo o processo civil brasileiro admite a flexibilização da coisa julgada em razão de sua inconstitucionalidade em sede de execução, nos termos do art. 525 do Código de Processo Civil.
+Dessa forma, impõe-se a remoção dos óbices apresentados pelo Juízo da Execução, sob pena de não se conferir ao apenado o entendimento atual do Supremo Tribunal Federal sobre o crime cuja pena ora se executa, já que não se trata o apenado de reincidente específico.
+Em outro ponto, pretende a Defesa que a progressão de regime ocorra após o cumprimento de 2/5 (dois quintos) da pena, sob os seguintes argumentos:
+ ..
+Não assiste razão, no ponto, ao agravante. Com efeito, a jurisprudência de ambas as turmas competentes do Superior Tribunal de Justiça firmou-se no sentido contrário ao seu pleito, tendo como suficiente a presença da reincidência, ainda que não específica. Nessa linha:
+ ..
+Gize-se que a Lei nº 13.964/2019, na nova redação conferida ao art. 112 da Lei de Execução Penal, não alterou a fração necessária para a progressão de regime na situação do agravante.
+Pelo exposto, voto pelo CONHECIMENTO E PARCIAL PROVIMENTO do recurso defensivo para afastar a hediondez do delito do art.33, § 4º, da Lei nº 11.343/06,objeto da primeira condenação, e determinar ao Juízo da Execução, no que tange à segunda condenação, a elaboração de novo cálculo com fixação da fração de 2/3 (dois terços) para fins de livramento condicional.
+Oficie-se.
+Como se vê, a Corte de origem negou provimento ao agravo em execução defensivo, por entender que, para fins de progressão de pena do réu reincidente, não se exige que a reincidência seja específica, devendo, em tais casos, observar o disposto no art. 112 da Lei de Execuções Penais.
+Importa destacar que, "Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo)" (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+Tal entendimento era fundamentado na Lei de Crimes Hediondos, em especial no revogado § 2º do art. 2º da Lei n. 8.072/1990: "A progressão de regime, no caso dos condenados pelos crimes previstos neste artigo, dar-se-á após o cumprimento de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5 (três quintos), se reincidente, observado o disposto nos §§ 3º e 4º do art. 112 da Lei nº 7.210, de 11 de julho de 1984 "(Lei de Execução Penal).
+Ocorre que, com o advento da Lei n. 13.964/2019 (Pacote Anticrime), os requisitos objetivos para a progressão de regime foram levemente alterados, conforme a nova redação do art. 112 da Lei de Execução Penal, no que interessa:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferênciapara regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos: (Redação dada pela Lei nº 13.964, de 2019)
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário; (Incluído pela Lei nº 13.964, de 2019)
+VI - 50% (cinquenta por cento) da pena, se o apenado for: (Incluído pela Lei nº 13.964, de 2019)
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional; (Incluído pela Lei nº 13.964, de 2019)
+b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou (Incluído pela Lei nº 13.964, de 2019)
+c) condenado pela prática do crime de constituição de milícia privada; (Incluído pela Lei nº 13.964, de 2019)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado; (Incluído pela Lei nº 13.964, de 2019)
+Constata-se, assim, que o § 2º do art. 2º da Lei n. 8.072/1990 não diferenciava a reincidência específica da genérica para o cumprimento de 3/5 da pena para fins de progressão de regime, ao contrário da nova redação do inciso VII do art. 112 da LEP.
+Nessa linha de entendimento, a situação prevista no inciso VII do art. 112 da LEP refere-se aos casos de reincidência de crimes hediondos em geral, deixando o Pacote Anticrime de tratar sobre a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+Assim, em razão da omissão legal, não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% que trata sobre a reincidência em crime hediondo ou equiparado. Ao contrário, merece na hipótese o uso da analogiain bonam partempara fixar o percentual de 40% previsto no inciso V do art. 112, relativo ao primário e ao condenado por crime hediondo ou equiparado.
+O referido entendimento foi acatado pela Sexta Turma do Superior Tribunal de Justiça que, no julgamento do HC 581.315/PR, concluído em 6/10/2020, e por unanimidade de votos, concedeu a ordem dehabeas corpus(DJe 16/10/2020).
+Há, portanto, constrangimento ilegal passível do deferimento do pedido.
+Ante o exposto, concedo ohabeas corpus, para que seja adotado o percentual de 40% de cumprimento da pena para o preenchimento do requisito objetivo da progressão do regime prisional.
+Comunique-se.
+Publique-se.
+Intimem-se.
