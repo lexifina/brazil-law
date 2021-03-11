@@ -1,0 +1,33 @@
+DECISÃO
+DELCIA MELO alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso do Sul (Apelação Criminal n. 0037233-57.2019.8.12.0001).
+Consta dos autos que apaciente foi condenadaà pena de 2anosde reclusão, em regime inicial aberto, mais multa, pela prática docrimeprevisto noart. 33, caput, c/c art. 40,V, ambos da Lei n. 11.343/2006.
+Requer, liminarmente e no mérito, seja fixada a pena-base no mínimo legal e substituída a pena privativa de liberdade por restritiva de direitos.
+Não houve pedido de liminar. Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem.
+Decido.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto, cumprindo-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+Contudo, não se pode olvidar que, tratando-se de crime previsto na Lei de Drogas - como ocorre na espécie -, o juiz deve considerar, ainda e com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, bem como a personalidade e a conduta social do agente, a teor do estabelecido no art. 42 da Lei n. 11.343/2006.
+O Tribunal de origem manteve a pena-base acima do mínimo, conforme trechos abaixo (fls. 577-583, grifei):
+No presente caso, a acusada, no dia 13.09.2019, por volta das 20h4Omin, na BR-163, Km 454, bairro Chácara das Mansões, nesta cidade de Campo Grande, MS, transportou/trouxe consigo 01 tablete e 02 porções de haxixe, pesando no total 1,370 Kg, para fins de comercialização.
+ ..
+Patente, portanto a existência de circunstância negativa contra a ré, validando a exasperação da pena-base em razão da apreensão de haxixe, substância dotada de alto potencial lesivo, mormente considerando maior concentração de tetrahidrocanabinol em sua composição (THC).
+Neste ponto, destaco que esta 3 a Câmara Criminal já se posicionou no sentido de que a substância haxixe tem caráter pernicioso, mostrando-se mais lesiva do que a maconha, justificando a valoração negativa nos termos do dispositivo retro mencionado.
+ ..
+Realce para o fato de que a negativação deve ocorrer por conta da natureza da droga (1,370 Kg de haxixe), não porque a quantidade seja irrisória, mas sim porque não é considerável o suficiente, no presente caso, para configurar uma das moduladoras do artigo 42 da Lei de Drogas.
+D"outro vértice, a exasperação deve se efetivar à luz da proporcionalidade e da razoabilidade e, nessa esteira, consoante critério sugerido por Ricardo Augusto Schmitt, deve incidir para cada circunstância negativa, o acréscimo de 1/8 (um oitavo) da diferença entre as penas mínima e máxima cominadas em abstrato ao delito.
+ ..
+Assim, considerando que o delito tipificado no artigo 33 da Lei 11.343/06 prevê pena em abstrato situada entre 05 a 15 anos, realçando elastériocorrespondente a dez anos ou 120 meses, a incidência da fração de 1/10 dantes mencionará conduzirá a acréscimo, por cada moduladora negativada, correspondente a 01 (um) ano.
+Nesse contexto, mesmo considerando a existência de apenas uma vetorial negativa (vide fl.451 da sentença), o juízo a quo fixou a pena-base em 05 anos e 06 meses de reclusão e pagamento de 540 dias-multa, ou seja, patamar até mesmo inferior ao comumente utilizado em situações semelhantes.
+Logo, considerando que a fixação da pena até mesmo se mostrou benéfica ao acusado, e levando-se em conta o princípio do non reformatio in pejus, mantenho a basilar tal como consta da sentença.
+Pelo acima transcrito, constato que o Tribunal de origem mantevea pena-base acima do mínimo legal, em razão da naturezadadroga apreendida, qual seja, 1.370 kg de haxixe, o que evidencia que atuouem estrita consonância com o disposto no art. 42 da Lei n. 11.343/2006. Esta Corte tem entendido que a quantidade e a natureza das drogas são suficientes para ensejar o aumento da pena-base.
+Faço lembrar que, segundo entendimento consolidado no Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que, no entanto, não ficou caracterizada nos autos.
+Portanto, concretamente fundamentada a exasperação da pena-base daacusada, fica afastado o apontado constrangimento ilegal.
+II. Substituição da pena
+Quanto à pretendida substituição da pena privativa de liberdade por restritivas de direitos, verifico que o Tribunal de origem justificou a impossibilidade de concessão do benefício com base nas peculiaridades do caso concreto, com o destaque de que "a ré ostenta circunstância prejudicial do artigo 42 da Lei de Drogas, concernente à natureza do entorpecente apreendido" (fl. 588, grifei).
+Tais circunstâncias, de fato, evidenciam que a substituição da reprimenda privativa de liberdade por restritiva de direitos não se mostra, no caso, medida socialmente recomendável, ex vi do disposto no art. 44, III, do CP.
+Assim, porque concretamente fundamentada a impossibilidade de substituição da reprimenda e tendo em vista que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado, fica afastado o constrangimento ilegal apontado.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se
