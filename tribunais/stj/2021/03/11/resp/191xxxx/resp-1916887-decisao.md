@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso manejado por Gravasul Projetos e Matrizes de Solados Ltda., com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 337):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA.SAT/RAT. CÁLCULO DO FAP. ACIDENTE DE TRAJETO. CNP N.º 1329/2017. ACIDENTES GERADORES DE AFASTAMENTOS INFERIORES A 15 DIAS.COMPUTADOS NO FAP.
+1. O Fator Acidentário de Prevenção - FAP tem como finalidade última a redução dos riscos e a proteção dos trabalhadores, pelo que não se verifica ilegalidade que autorize o afastamento do cálculo do índice dos acidentes ocorridos no trajeto entre o local de trabalho e a residência do empregado (os quais são equiparados pela lei previdenciária a acidente de trabalho).
+2. A Resolução n.º 1.329/2017 não tem o condão de produzir efeitos retroativos, pois, ainda que tenha excluído expressamente os acidentes de trajeto da base de dados do FAP, o fez somente a partir do ano de 2018.
+3. Os acidentes que não geram afastamentos superiores a 15 dias devem ser considerados no cálculo do FAP. Não é necessário que o acidente gere a concessão de benefício acidentário para que seja computado no cálculo do FAP.
+Opostos embargos de declaração, foram rejeitados. Eis a ementa (fl. 378):
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO.OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. INEXISTÊNCIA.PREQUESTIONAMENTO.
+1. São cabíveis embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, conforme dispõe o artigo 1.022 do CPC.
+2. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, encontra disciplina no artigo 1.025 do CPC, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts.1.022,do CPC/2015; 10 e 106, I e II, a e b do CTN, Decreto n. 6.042/07 e 10.666/03. Sustenta, em resumo: (I) tese de negativa de prestação jurisdicional; (II) "o direito da recorrente à compensação administrativa dos créditos tributários oriundos dos recolhimentos indevidos de GIIL-RAT, em decorrência da ilegal e inconstitucional contabilização dos acidentes de trajeto e dos acidentes que geraram afastamentos laborais menores de quinze dias (sem benefícios previdenciários) no critério de apuração do FAP regido pela Resolução 1.316/2010 (antiga sistemática)." (fl. 400)
+Contrarrazões às fls. 472/492.
+Parecer ministerial às fls. 533/537.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC/15, pois a parte recorrente, com o objetivo de ver sanada a omissão opôs embargos declaratórios, sustentando que o julgado restou omisso nos seguintes pontos, in verbis (fls. 356/357):
+1) CÔMPUTO DOS ACIDENTES DE TRAJETO NO FAP
+a) ilegalidade por violação da finalidade do Decreto nº 6.042, de 12 de fevereiro de 2007 e à Lei 10.666/03, na linha do disposto pela Introdução ao Anexo da Resolução MPS/CNPS nº 1.316/2010, ao afirmar que "o objetivo do FAP é incentivar a melhoria das condições de trabalho e da saúde do trabalhador estimulando as empresas a implementarem políticas mais efetivas de saúde e segurança no trabalho para reduzir a acidentalidade";
+b) inconstitucionalidade, diante da violação ao Princípio da Capacidade Contributiva (art. 145, §1º, CF), uma vez que não podem ser prevenidos ou sequer reduzidos, sendo considerados acidentes de trabalho apenas para fins previdenciários e proteção do trabalhador;
+c) inconstitucionalidade, em decorrência de violação ao artigo 195, §9º, da Constituição Federal, já que a diferenciação das alíquotas e bases de cálculo do GIIL-RAT foi permitida apenas de acordo com a conduta da empresa;
+2) CÔMPUTO DOS ACIDENTES LABORAIS COM AFASTAMENTOS INFERIORES A QUINZE DIAS E/OU SEM BENEFÍCIOS PREVIDENCIÁRIOS, NO FAP
+a) ilegalidade, diante da ausência de onerosidade à previdência social, violando o artigo 22, II, da Lei nº 8.212/91, que instituiu a contribuição ao RAT para financiar os benefícios concedidos em razão do grau de incidência de incapacidade laborativa;
+b) inconstitucionalidade, por violação ao Princípio da Isonomia Tributária (art.
+150, inciso II, CF) e da Equidade Previdenciária (art. 194, parágrafo único, inciso V, CF), conclusão que encontra respaldo nas afirmações do próprio CNPS, que admitiu que a inclusão dos acidentes que não geraram benefícios previdenciários no índice de frequência do FAP acabava por fazer serem equiparadas empresas com acidentes de baixa gravidade àquelas com acidentes de gravidade elevada;
+c) aplicação dos efeitos retroativos da Resolução nº 1.329/2017 do Conselho Nacional da Previdência Social, em decorrência do disposto pelo art. 106, I, do CTN;
+d) existência de manifestações expressas do Conselho Nacional da Previdência Social por meio da 231ª e 233ª reuniões ordinárias realizadas, onde reconheceram a incorreção dos critérios aventados;
+Contudo, observa-se que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou-se silente sobre essas argumentações que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 1.022 do CPC/15.
+ANTE O EXPOSTO, dou provimento ao recurso especial, em ordem a anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão aqui tida por omitida.
+Publique-se.
