@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 64):
+HABEAS CORPUS - Pretensão de que seja reformada decisão que converteu a prisão em flagrante em preventiva - Impossibilidade - Indícios de autoria e de materialidade - Circunstâncias do caso concreto que justifica a manutenção da custódia. ORDEM DENEGADA.
+Consta dos autos que o paciente foi preso em flagrante, convertido em preventiva, pelo delito de roubo circunstanciado.
+A defesa alega excesso de prazo na instrução processual, aponta condições pessoais favoráveisrelembra a excepcionalidade da segregação preventiva em tempos de pandemia da Covid-19.
+Requer a revogação da custódiaou a substituição por cautelares alternativas, além da extensão dos efeitos ao corréu.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal ofertou parecer, manifestando-se pela não admissão dowritou sua não concessão de ofício.
+Na origem, processo n. 1502325-68.2020.8.26.0616, foi designada audiência de instrução e julgamento para 29/6/2021, consoante informações disponíveis na página da Corte local em 9/3/2021.
+É o relatório.
+DECIDO.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Inicialmente, verifico que a alegação de excesso de prazo e possibilidade de incidência da Recomendação 62/CNJ não foram debatidas na instância de origem. Inviável, portanto, sua análise inaugural por esta Corte Superior, sob pena de indevida supressão de instância. Neste sentido: HC 612.101/SE - Rel. Min. Joel Ilan Paciornik - 5T - DJe 20/11/2020; HC 476.064/AL - Rel. Min. Antonio Saldanha Palheiro - 6T - DJe 02/04/2019; HC 360.484/BA - Rel. Min. Jorge Mussi - 5T - DJe 28/06/2018; AgRg no HC 363.567/SP - Rel. Min. Rogerio Schietti Cruz - 6T - DJe 2/10/2017.
+Isto posto, a custódia preventiva foi decretada aos seguintes fundamentos (fls. 33-34):
+Os indiciados foram presos logo após a prática da infração penal, próximos ao local do cometimento do delito, em circunstâncias que denotavam serem eles os autores do crime, tendo sido, inclusive, reconhecidos pela vítima na Delegacia de Polícia. Ao menos em princípio, e sem adentrar no mérito, diante dessas circunstâncias, não houve nenhum equívoco na sua prisão, não havendo que se falar em relaxamento da prisão em flagrante.
+Passo a analisar o cabimento da conversão do flagrante em prisão preventiva, ou a aplicação de medida cautelar diferente da prisão. No caso em tela estão presentes os requisitos da prisão preventiva para os indiciados.
+O crime imputado aos indiciados, de roubo circunstanciado pelo concurso de agentes, tem pena máxima cominada superior a 4 (quatro) anos de reclusão, possibilitando a decretação da preventiva, nos termos do artigo 313, I, do Código de Processo Penal.
+Por outro lado, o crime foi cometido com utilização de grave ameaça contra a vítima. As circunstâncias em que o crime foi cometido denotam a periculosidade dos agentes e recomendam a sua segregação cautelar, como forma de garantia da ordem pública.
+Outrossim, o indiciado Paulo Felipe Santana Santos é reincidente, o que corrobora as razões para a segregação cautelar.
+Frise-se, ademais, que não há prova de ocupação lícita dos indiciados, sendo forçoso concluir que, em sendo libertados, podem se evadir, furtando-se à aplicação da lei penal.
+Nestes termos, a liberdade provisória e as medidas cautelares diversas da prisão (previstas no artigo 319 do Código de Processo Penal) são inadequadas e insuficientes para o caso concreto aqui analisado, razão pela qual, nos termos do artigo 310, II, do Código de Processo Penal, a decretação da prisão preventiva mostra-se de rigor.
+Como se vê, ainda que o magistrado tenha apontado fundamento válido para a prisão preventiva do corréu Paulo, pois ele é reincidente, em relação ao paciente, entretanto,apontou a necessidade dacustódia porque "o crime foi cometido com utilização de grave ameaça contra a vítima. As circunstâncias em que o crime foi cometido denotam a periculosidade dos agentes e recomendam a sua segregação cautelar".
+Como direito de estatura constitucional, a liberdade, para ser restrita, demanda concreta fundamentação a evidenciar que, de outro modo, restaria em risco um dos pressupostos do art. 312 do CPP.
+No caso, não está justificada a aplicação da cautelar extrema, valendo-se o decreto de fundamentação abstrata e genérica, sem discriminar qualquer conduta do paciente que extrapole as elementares do tipo penal em tela. Neste sentido:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. SUPERAÇÃO DA SÚMULA 691/STF. PRISÃO PREVENTIVA. RECEPTAÇÃO. FUNDAMENTAÇÃO ABSTRATA. FALTA DO REQUISITO OBJETIVO PREVISTO NO ART. 313, I DO CPP. ILEGALIDADE. PRESENÇA. HABEAS CORPUS CONCEDIDO, COM EXTENSÃO AOS CORRÉUS DA AÇÃO PENAL.
+1. In casu, o decreto de prisão não traz qualquer motivação do caso concreto, fazendo referência à gravidade do delito em abstrato ou de genérica regulação da prisão preventiva, bem como sustenta a medida pela presença de indícios de autoria e materialidade, o que indica a ausência de fundamentos para o decreto prisional.
+2. Obsta a manutenção da constrição cautelar o fato dos acusados terem sido denunciados pela prática do crime tipificado no art. 180, caput, do Código Penal cuja pena máxima é de 4 anos inatendido, portanto, o requisito objetivo previsto no art. 313, I do CPP.
+3. Havendo identidade fático-processual do paciente e corréus da ação penal, na medida em que a fundamentação do decreto prisional é comum, sem que tenham sido apontados quaisquer elementos subjetivos aptos a obstar a aplicação do art. 580 do CPP, deve o referido dispositivo ser aplicado de ofício para soltura dos acusados.
+4. Habeas corpus concedido, para soltura do paciente EDUARDO VILELA DA SILVA, e, de ofício, aplicação o artigo 580 do CPP para estender a ordem de soltura aos corréus da ação penal MARCO ANTONIO FARDIN e GEORGES SAMIR EL CHAWICHE, o que não impede nova e fundamentada decisão cautelar penal, inclusive menos gravosa do que a prisão processual, por decisão devidamente fundamentada. (HC 389.328/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/05/2017, DJe 30/05/2017).
+Não se tendo no tema, com a clara motivação genérica, divergência nesta Sexta Turma do Tribunal, reconheço a ilegalidade arguida.
+Quanto ao pedido de extensão ao corréu, entretanto, existe justificativa idônea à manutenção da custódia, pois apontada sua reincidência delitiva.
+A jurisprudência desta Corte Superior é pacífica no sentido de que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública, como no caso dos autos. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ante o exposto, concedo o habeas corpus para a soltura do paciente MATHEUS DE MENEZES CRUZ, o que não impede nova e fundamentada decisão de necessária medida cautelar penal requerida nos termos legais, inclusive menos grave que a prisão processual.
+Comunique-se.
+Publique-se.
+Intimem-se.
