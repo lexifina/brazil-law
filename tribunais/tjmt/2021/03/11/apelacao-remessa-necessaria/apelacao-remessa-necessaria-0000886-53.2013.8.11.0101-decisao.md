@@ -1,0 +1,10 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+PJE - APELAÇÃO / REMESSA NECESSÁRIA CÍVEL (1728) 0000886-53.2013.8.11.0101 – COMARCA DE CLAUDIA
+APELANTE: MINISTÉRIO PÚBLICO DE MATO GROSSO
+APELADO: ESTADO DE MATO GROSSO
+Vistos etc.
+À douta Procuradoria Geral de Justiça para parecer.
+Conclusos, após.
+Cuiabá, data da assinatura digital.
+Desa. MARIA EROTIDES KNEIP
+Relatora
