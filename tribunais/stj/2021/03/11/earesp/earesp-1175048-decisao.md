@@ -1,0 +1,39 @@
+DECISÃO
+ANADEC - ASSOCIAÇÃO NACIONAL DE DEFESA DA CIDADANIA E DO CONSUMIDOR (ANADEC) ação civil pública contra GRUPON AGÊNCIA DE VIAGENS E TURISMO LTDA. (GRUPON), pretendendo a declaração de nulidade da cláusula da proposta de adesão que impõe à massa de consumidores multas desproporcionais de 20%, 50% até a perda total dos valores pagos (100%) em caso de cancelamento da viagem por parte do consumidor.
+A sentença julgou o pedido procedente para o fim de declarar a nulidade das cláusulas penais nos contratos padrões de adesão que exorbitem os limites definidos na sentença - a retenção ao percentual de 10% dos valores pagos se o cancelamento ocorrer com prazo superior a 30 (trinta) dias e 20% se o cancelamento for inferior a 30 (trinta) dias, além de condenar o GRUPON ao pagamento dos valores cobrados a maior.
+Contra a decisão foi interposto recurso de apelação por GRUPON, não provido pelo Tribunal de Justiça do Estado de São Paulo.
+Opostos embargos de declaração por GRUPON foram eles rejeitados.
+Inconformado, GRUPON interpôs recurso especial, não admitido pelo Tribunal paulista, ensejando a interposição de agravo em recurso especial que, em decisão monocrática do Relator, Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), conheceu do agravo para negar provimento ao recurso especial.
+Na sequência, GRUPON interpôs agravo interno que foi provido pela Quarta Turma do STJ para conhecer do agravo e dar parcial provimento ao recurso especial, para julgar improcedentes os pedidos formulados na ação civil pública. O acórdão recebeu a seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CONTRATO DE AGENCIAMENTO DE VIAGEM. CLÁUSULA PENAL COMPENSATÓRIA. PERDA DE VALORES PAGOS EM CASO DE CANCELAMENTO. DIREITO NÃO HOMOGÊNEO. IMPROPRIEDADE DA VIA ELEITA. CARÁTER ABUSIVO QUE DEVE SER VERIFICADO EM CADA CASO. DEMANDAS INDIVIDUAIS. RECURSO PROVIDO.
+1. Ação civil pública que busca a limitação, em abstrato, de percentual a ser retido, a título de cláusula penal compensatória, em caso de desistência do consumidor, independentemente da existência de motivo para o cancelamento e da antecedência em relação à data do início do pacote turístico.
+2. Julgando demanda similar à dos presentes autos, a colenda Quarta Turma concluiu que "o cancelamento de contrato de agenciamento de viagem pelo usuário, por envolver o fornecimento de serviços a serem contratados de terceiros e gastos feitos em cadeia sucessiva de prestadores variados nacionais e internacionais, cuja revenda depende de regras de fornecedores diversos e da antecedência da comunicação à operadora, deve analisado casuisticamente, não se tratando, nos termos em que postos na genérica inicial, de direito homogêneo a ser tutelado por meio de ação civil pública." (REsp 1.314.884/SP, Relatora p/ acórdão a Ministra Maria Isabel Gallotti, DJe de 05/02/2019).
+3. No presente caso, não há como se decidir a lide de modo uniforme para todos os consumidores, reconhecendo-se como abusivas as cláusulas dos variados contratos de turismo, pois eventual ilegalidade ou abuso somente poderá ser reconhecida caso a caso.
+4. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial, para julgar improcedentes os pedidos formulados na ação civil pública.
+Nesta oportunidade, ANADEC apresentou embargos de divergência em que sustentou dissenso jurisprudencial, indicando como paradigmas (1) a decisão monocrática proferida no AREsp 807.137/SP, Rel. Ministro LUIS FELIPE SALOMÃO, j. 10/11/2015; (2) a decisão monocrática proferida no REsp 1.683.315/SP, Rel. Ministro LUIS FELIPE SALOMÃO, j. 6/10/2017; e (3) o acórdão proferido pela Terceira Turma no REsp 1.580.278/SP, Rel. Ministra NANCY ANDRIGHI, j. 21/8/2018.
+Alegou que o dissenso ficou caracterizado porque enquanto o acórdão embargado entendeu que não há como decidir a lide de modo uniforme para todos os consumidores, reconhecendo-se como abusivas as cláusulas dos variados contratos de turismo, pois eventual ilegalidade ou abuso somente poderá ser reconhecida caso a caso, os julgados paradigmas que é abusiva a imposição de multa contratual de 100% em caso de desistência de pacote turístico (e-STJ, fls. 940/1.058).
+É o relatório.
+DECIDO.
+Os embargos de divergência não se revelam cognoscíveis.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, conforme o Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Cinge-se a controvérsia a dirimir suposto dissenso entre as Turmas que compõem a Segunda Seção do STJ quanto a abusividade de cláusulas em contratos de turismo com a imposição de multa contratual em caso de desistência de pacote turístico.
+(1) Da impossibilidade de indicar como paradigma decisão monocrática
+Os embargos de divergência visam harmonizar precedentes conflitantes proferidos em Turmas distintas em julgamentos de recurso especial ou em agravo que tenham analisado o mérito do recurso inadmitido pelo Tribunal de origem.
+A decisão monocrática embargada não viabiliza o conhecimento da divergência diante da exigência legal de que o dissídio de teses seja estabelecido entre acórdãos decorrentes de julgamentos colegiados.
+Nesse sentido é o disposto no art. 1.043, I, do NCPC e no art. 266, caput, do RISTJ:
+Art. 1.043. É embargável o acórdão de órgão fracionário que:
+I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+Art. 266. Cabem embargos de divergência contra acórdão de órgão fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro órgão jurisdicional deste Tribunal  ..
+Desse modo, tanto o julgado embargado como o paradigma devem ter sido proferidos por órgãos colegiados, uma vez que os embargos de divergência visam uniformizar o entendimento das Turmas formadoras da Segunda Seção.
+(2) Da falta de cotejo analítico
+Quanto ao paradigma da Terceira Turma, a divergência não ficou caracterizada diante da ausência do necessário cotejo analítico entre os acórdãos confrontados, de modo a demonstrar os trechos que eventualmente os identificassem.
+A embargante deveria ter comprovado o dissídio pretoriano nos moldes estabelecidos no art. 266, § 4º, combinado com o art. 225, §§ 1º e 2º, do RISTJ:
+Art. 266.  ..
+§ 4º O recorrente provará a divergência com certidão, cópia ou citação de repositório oficial ou credenciado de jurisprudência, inclusive em mídia eletrônica, em que foi publicado o acórdão divergente, ou com a reprodução de julgado disponível na internet, indicando a respectiva fonte, e mencionará as circunstâncias que identificam ou assemelham os casos confrontados.
+Com efeito, é necessário transcrever trechos dos julgados confrontados que comprovem a divergência, indicando as circunstâncias fáticas e jurídicas que identifiquem ou assemelhem os casos confrontados, o que não foi feito.
+Ao contrário do disposto nas normas acima, a embargante se limitou à mera transcrição de trechos do acórdão paradigma, o que é insuficiente à comprovação do dissídio jurisprudencial invocado.
+Nessas condições, nos termos do art. 266-C do RISTJ, INDEFIRO LIMINARMENTE os embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INDICAÇÃO DE DECISÃO MONOCRÁTICA COMO PARADIGMA. DESCABIMENTO. INTELIGÊNCIA DO ART. 1.043, I, DO NCPC E DO ART. 266, DO RISTJ. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO ENTRE OS ARESTOS CONFRONTADOS NOS MOLDES DO ART. 266, § 4º, DO RISTJ. EMBARGOS REJEITADOS LIMINARMENTE.
