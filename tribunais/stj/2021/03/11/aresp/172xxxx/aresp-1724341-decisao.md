@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por PETRÓLEO BRASILEIRO S A PETROBRAS em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+Agravo de Instrumento. Obrigação de fazer c./c. indenização por perdas e danos. Alegação de ilegitimidade passiva. Documentos constantes dos autos que demonstram a ocorrência de tratativas entre as partes. Necessidade de apuração da culpa que gerou os danos alegados na petição inicial e consequente responsabilidade pelo pagamento. Questões de mérito impossíveis de serem verificadas em juízo de cognição sumária. Decisão mantida. RECURSODESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta violação aos arts. 1.022, do CPC/2015, e 610 e seguintes do Código Civil.
+Em síntese, aduz que: a) o Tribunal de origem deixou de se manifestar sobre questões relevantes suscitadas nos aclaratórios; b) é parte ilegítima para figurar no polo passivo da ação porquantoo contrato celebrado entre a ora recorrente e a corré ALUMINIse tratava de um contrato de empreitada, no qual o proprietárioda obra/empreendimento contrata em empreiteiro, que se obriga a realizar uma obra/empreendimento específico, pessoalmente ou por intermédio de terceiros, mediante remuneração.
+A inadmissão do recurso especial se fez à consideração de que: i) o Tribunal de origem apreciou todas as questões versadas, decidindo de forma contrária aos interesses dos recorrentes, o que não incorre em ausência de prestação jurisdicional; ii) incidência da Súmula 284/STF quanto à alegada violação ao artigo 610 e seguintes do Código Civil;iii) a questão foi decidida com base nos fatos e provas expostas nos autos, incidindo na hipótese o óbice da Súmula 7/STJ.
+Nas razões de agravo postula o processamento do recurso especial haja vista ter cumprido todos os requisitos necessários à sua admissão.
+Decisão de redistribuição dos autos às fls. 372/373 (e-STJ).
+Interposto agravo interno contra a decisão de redistribuição, não foi conhecido.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do especial.
+A pretensão não merece acolhida.
+Isso porque, quanto à alegada violação ao artigo 1.022 do CPC/2015 sob a alegação de que o Tribunal de origem não se manifestou sobre todas as teses incorrendo em ausência de prestação jurisdicional, cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+A propósito, os seguintes trechos do acórdão embargado a corroborar referida fundamentação (fls. 185/188 e-STJ) :
+(..)
+No caso em testilha, já foram esclarecidas, na decisão embargada, as razões pelas quais o agravo de instrumento não comportou provimento, especialmente porque há indícios de que, embora a embargante sustente a aplicação do art. 611 do Código Civil, há nos autos indícios que as tratativas envolvendo todas as partes deram seguimento (fls.84/96) e, consequentemente, que estava em vigência o contrato.
+Para entender de forma diversa, seria necessário que a embargante tivesse realizado prova demonstrando a inexistência de relação jurídica entre as partes que se perduro, incumbência da qual não se desvencilhou.
+Insta ressaltar que a questão foi totalmente enfrentada no acórdão embargado. Senão, vejamos:
+(..)
+Assim, não há qualquer omissão, contradição ou obscuridade a serem sanadas, sendo certo que a decisão se encontra devidamente fundamentada, tendo enfrentado toda a matéria necessária para a resolução da lide.
+Registra-se que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Ademais, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa ao artigo 1.022 do CPC/2015.
+No tocante à suposta violação aos arts.610 e seguintes do Código Civil sob o argumento de que a recorrenteé parte ilegítima para figurar no polo passivo da ação porquanto o contrato celebrado com a corré ALUMINI se tratava de um contrato de empreitada, cumpre asseverar que o Tribunal de origem, soberano nos elementos probatórios dos autos, consignou expressamente que não havia como reconhecer a ilegitimidade passiva da recorrente porque havia nos autos documentos que demonstraram tratativas entre as partes.
+A propósito, destaco trechos do acórdão embargado (e-STJ fls. 151/152):
+(..)
+Conforme consta da petição inicial, a requerimento da corré "Alumini", a autora apresentou proposta comercial para produzir e fornecer equipamentos para serem instalados em sistema de exaustão de gases na refinaria da corré "Petrobrás", que contou com a aprovação de ambas as rés, cujos pagamentos não foram honrados.
+Solicitado o cancelamento do contrato pela corré "Alumini", este não foi possível diante do estágio avançado em que se encontrava o procedimento, cujos equipamentos não poderão ser reaproveitados, diante da especificidade de suas aplicações.
+A corré "Alumini" foi regularmente notificada para dar continuidade e concluir o contrato, bem como efetuar o pagamento das parcelas em atraso (fls. 78/83), havendo documentos emitidos com timbre da "Petrobrás", incluindo e-mails com as tratativas (fls. 84/96).
+A agravante se manifestou comunicando o cancelamento do contrato, tendo em vista "as condições gerais de fornecimento e condições de pagamento em desacordo com o requerido, bem como valor proposto não enquadrado na estimativa da Petrobrás" (fls. 97).
+Os documentos juntados aos autos demonstram que houve, ao menos em determinado momento, tratativas com a agravante, cujos equipamentos aqui discutidos seriam instalados em sua refinaria, unidade Abreu e Lima.
+Conforme constou da decisão hostilizada, é necessário apurar a quem será imputada a culpa que gerou os danos alegados na petição inicial e a responsabilidade pelo pagamento, se a ambas as rés ou apenas uma ou nenhuma delas, ocasião em que será verificada se a pretensão indenizatória é procedente ou não, tratando-se, portanto, de questão de mérito impossível de ser verificada em juízo de cognição sumária.
+Nesse contexto, a revisão do entendimento adotado conforme a pretensão recursal demandaria necessariamente em revolvimento das premissas fático-probatórias estabelecidas pelo acórdão recorrido, providência vedada no âmbito do recurso especial, nos termos da Súmula nº 7 do STJ.
+Ademais, arecorrente não trouxe impugnação específica à decisiva fundamentação do acórdão recorrido que expressamente concluiu que aapuração a quem será imputada a culpa que gerou os danos alegados na petição inicial e eventual procedência ou não do pedido de indenização, trata-sede questão de mérito impossível de ser verificada em juízo de cognição sumária. (fl. 152 e-STJ)
+Nesses termos, em que as razões recursais deixamde atacar diretamente fundamentosuficienteque mantéma decisão, o conhecimento do recurso especial esbarra noóbicedaSúmula283do STF.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO ART. 1022 DO CPC/2015. NÃO OCORRÊNCIA. ALEGADA ILEGITIMIDADE PASSIVA. ACÓRDÃO BASEADO NAS PROVAS E FATOS DOS AUTOS. VERIFICAÇÃO.REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.FUNDAMENTO SUFICIENTE INATACADO. INCIDÊNCIA DA SÚMULA 283 DO STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO.
