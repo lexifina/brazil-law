@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São Paulo contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 712):
+TAXA DE FISCALIZAÇÃO DE ANÚNCIOS (TFA) - Exercícios de 2014 a 2017 - Município de São Paulo - Ação anulatória julgada improcedente - Base de cálculo da exação - Metragem do anúncio fiscalizado - Lei Municipal nº 13.474/02 - Inadmissibilidade - Critério não relacionado à atividade fiscalizadora - Ofensa aos arts. 145 e 146 da CF e aos arts. 77 e 78 do CTN - Cobrança que deve ser afastada - Precedentes do STJ e desta 15ª Câmara de Direito Público - Procedência da demanda que se decreta nesta Instância - Sentença reformada. Recurso provido.
+HONORÁRIOS ADVOCATÍCIOS - Ação anulatória julgada procedente nesta Instância - Excepcionalidade do caso que exige a aplicação, por analogia, do art. 85, § 8º do NCPC - Verba honorária aqui fixada por equidade, de modo a remunerar condignamente o(s) advogado(s) da sociedade demandante - Observância dos princípios da proporcionalidade e da proibição do enriquecimento sem causa - Art. 8º do NCPC.
+Recurso provido em parte.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 77 e 78 do CTN; e 145 e 146 da CF/88.Sustenta que "a Taxa de Fiscalização de Anúncios instituída pela legislação municipal paulistana, se coaduna perfeitamente com os arts. 77 e 78 do Código TributárioNacional" (fl. 732), sendo que "os parâmetros eleitos pela Lei Municipal (localização, tipo e forma do anúncio) para a cobrança da TFA apresentam compatibilidade com a hipótese de incidência do tributo, já que a necessidade e o grau de atuação do Poder Público se encontram diretamente relacionados com o local, a forma e o tipo de anúncio" (fl. 734)
+Contrarrazões às fls. 843/885.
+Contraminuta ao agravo às fls. 924/968.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, constata-se a interposição de duas peças idênticas de agravo pela parte, a primeira de fls. 909/914 e a segunda de fls. 1.057/1.062. Em atenção ao princípio da unirrecorribilidade, deve ser analisado apenas o recurso de fls. 909/914.
+Feita essa observação, importa dizer quena data de hoje, proferi decisão em que determinei o retorno dos autos à instância ordinária, para que o apelo nobre de José Maurício Machado - Advogados e Consultores Jurídicos fosse submetido ao juízo de adequação previsto no art. 1.030 do CPC/2015, antes de realizada a admissibilidade daquele recurso especial.
+Nesse contexto, tendo em vista a impossibilidade de cisão do julgamento, bem como a própria devolução do feito à origem, é o caso de se ter por prejudicado o exame da presente irresignação no momento.
+ANTE O EXPOSTO, julgo prejudicado o exame do recurso especial no presente momento processual
+Publique-se.
