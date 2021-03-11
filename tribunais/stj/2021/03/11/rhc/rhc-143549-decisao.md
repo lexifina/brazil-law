@@ -1,0 +1,9 @@
+DECISÃO
+JOSÉ MIQUÉIAS DA SILVAalega sofrer coação em face de acórdão do Tribunal a quo, que não conheceu o HC n. 0621023-76.2021.8.06.0000.
+O suspeito daprática do delito tipificado no art. 2º, §§ 2º, 3º e 4º, I, da Lei nº 12.850/2013, teve sua prisão preventiva decretada em 25/12/2020. Explica que "éprimário, portador de modelares antecedentes, possui profissão lícita como auxiliar de produção, reside em Cascavel/Ceará", tudo a sinalizar a suficiência de medidas do art. 319 do CPP (fl. 228). Indica a falta de justificativa do periculum libertatis e requer, em liminar e no mérito, a concessão de alvará de soltura.
+Decido.
+Pelo princípio da dialeticidade, cabe à parte vencida impugnar objetivamenteos fundamentos do aresto recorrido para pleitear sua reforma.In casu, as razões de pedir estão dissociadas do que foi decidido pelo Tribunal, que não conheceu do "pedido de habeas corpus", por ser "merareiteração de impetrações anteriores, em evidente litispendência" (fl. 212). Não houve transcrição ou análise dos fundamentos das prisão preventiva e nem deliberação sobre o pedido de revogação ou substituição da medida.Assim, esse recurso ordinário é inadmissível.
+Os autos não estão instruídos com odecreto de prisão preventiva, com asdecisões que reexaminaram a medida de coação, com adenúncia ou com os acórdãosque, em habeas corpus anteriores, analisaram os pleitos da defesa, o queimpede a constataçãode patente ilegalidadeque autorize a concessão, ainda que de ofício, de ordem de habeas corpus.
+Cabe à defesa impugnar, por outroinstrumento, devidamente instruído, os"pleitos já formulados, anteriormente, e julgados em 3 de novembro de 2020, por esta 3ª Câmara Criminal, nos autos do HC nº 0635521-17.2020.8.06.000" (fl. 216).
+À vista do exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
