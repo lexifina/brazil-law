@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Flavio Leonardo de Sousa contra ato coator proferido pela Terceira Câmara Criminal do Tribunal de Justiça do Distrito Federal e dos Territórios, que, nos autos do Processo n.0702257-84.2020.8.07.0001, deu parcial provimento ao apelo defensivo para redimensionar a pena imposta ao paciente a5 anos de reclusão, em regime inicial semiaberto, e 500 dias-multa, à razão mínima, pela prática de conduta descrita no art. 33 da Lei n. 11.343/2006.
+A impetrante alega, em síntese, que a quantidade de entorpecente não é relevante e, por isso, deve ser aplicado o patamar máximo de diminuição da pena em razão da incidência do § 4º do art. 33 da Lei n. 11.343/2006.
+Pede a incidência da causa de diminuição no patamar máximo (fls. 3/10).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre a impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano,a viabilidade do presente writ.
+O Tribunal local fixou a fração de diminuição em 1/6 aos seguintes fundamentos(fl. 357 - grifo nosso):
+A Defesa trouxe aos autos cópia da sentença da ação penal nº 0712317-19.2020.8.07.0001, utilizada pela sentenciante para afastar a aplicação do benefício, pela suposta dedicação a atividades criminosas do apelante, ocorre que a condenação ainda não transitou em julgado e se deu apenas pelo crime do art. 28, caput, da LAD, declarando-se extinta sua punibilidade em razão da segregação cautelar.
+Assim, mostra-se desproporcional a negativa de aplicação do benefício sob tal fundamento, pois o porte de entorpecentes para consumo pessoal por si só, não implica no comprometimento com atividades ilícitas, razão pela qual prospera a tese defensiva, aplicando-se ao apelante a causa de diminuição de pena do art. 33, § 4º, da LAD.
+Por outro lado, friso que não escapa a análise desta relatoria que na referida ação penal o réu foi preso em flagrante com porções de droga, no campo de material sintético em condições semelhantes as do presente caso, portando inclusive cocaína. Nessa toada, levando tal aspecto em consideração, somado a quantidade e diversidade de drogas que o réu "tinha em depósito" na presente ação penal, bem como da necessidade e suficiência para a reprovação e prevenção do crime, aplico a fração redutora em 1/6 (um sexto).
+A jurisprudência do Superior Tribunal de Justiça admite a utilização da quantidade e da variedadede drogas para fins de fixação da pena, nos termos do art. 42 da Lei n. 11.343/2006, seja na primeira fase, exasperando pena base, seja na terceira fase, modulando a causa de diminuição do § 4º do art. 33 da Lei de Drogas eventualmente aplicado no caso concreto(AgRg no HC n. 635.412/RS, Ministro NefiI Cordeiro, SextaTurma, DJe 5/3/2021).
+O caso concreto cuida da apreensão de 37,1 g de cocaína, 0,3 g de 25E-NBOH,2,3 g de maconha, e 3,3 g de skunk(fls. 16/17), quantidades normais à espécie, incapazes de indicar gravidade exacerbada, a despeito da variedade das substâncias. Necessário aplicar a mencionada causa de diminuição em 2/3.
+Assim, mantida a pena provisória em 5 anos de reclusão, com a incidência da causa de aumento descrita no art. 40, III, da Lei Antidrogas, em 1/6e, em seguida,da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 em 2/3, passa a pena definitiva a 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, nos termos do art. 33 do Código Penal. A pena privativa de liberdade deve ser substituída por restritivas de direitos a serem especificadas pelo Juízo da execução.
+Ante o exposto, concedo liminarmente a ordem para reduzir a pena do paciente a 1 ano, 11 meses e 10 dias de reclusão, em regime aberto, e substituí-la por restritivas de direitosa serem especificadas pelo Juízo da Execução Penal.
+Comunique-se.
+Intime-se o Ministério Público do Distrito Federal e Territórios.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DA PENA.ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE DE ENTORPECENTE NORMAL À ESPÉCIE. PENA REDIMENSIONADA. REGIME ABERTO E SUBSTITUIÇÃO DA PENA CONCEDIDOS.
+Ordem concedidaliminarmente nos termos do dispositivo.
