@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO DO BRASIL S.A., com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, assim ementado (e-STJ fl. 210):
+RECURSO DE APELAÇÃO. DIREITO PROCESSUAL CIVIL. PASEP. CORREÇÃO. DEPÓSITOS. ILEGITIMIDADE PASSIVA. BANCO DO BRASIL. AFASTADA. SENTENÇA CASSADA. RECURSO PROVIDO.
+1. Em se tratando de demanda a qual se questiona a correção monetária indevida dos valores depositados pela União a título de PASEP e não a ausência de depósito destes ou ainda de eleição do índice pelo Conselho Diretor do PASEP para fins de atualização monetária, a Sociedade de Economia Mista, como depositária das contribuições, é parte legítima para figurar no polo passivo do feito.
+2. Em atenção ao artigo 5º da Lei Complementar nº 8/1970, correta a inclusão do Banco do Brasil S/A no polo passivo da relação jurídica processual, motivo pelo qual o apelo merece prosperar.
+3. Recurso conhecido e provido. Sentença cassada.
+Nas suas razões, a parte recorrente defende a sua ilegitimidade passiva ad causam, aponta violação dos arts. 7º, § 6º e 10, parágrafo único, do Decreto n. 4.751/2003, do art. 4º-A da Lei Complementar n. 26/1975 e dos arts. 17 e 485, VI, do CPC/2015e suscita divergência jurisprudencial.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 316/317.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Feita essa anotação, passo à análise da pretensão recursal.
+No caso concreto, a instância anterior reformou a sentença para reconhecer a legitimidade passiva do Banco do Brasil, nos termos da seguinte motivação(e-STJ fls. 212/214):
+Cinge-se a controvérsia recursal a respeito da legitimidade passiva ou não do Banco do Brasil para figurar no polo passivo de demanda a qual se discute os eventuais danos materiais oriundos da gestão dos recursos do PASEP depositados em conta individual pela União Federal.
+ ..
+Em seu pleito inicial a autora, servidora pública federal, requer a restituição dos valores desfalcados da conta PASEP - Programa de Formação do Patrimônio do Servidor Público, a título de danos materiais.
+Com efeito, o PASEP - Programa de Formação do Patrimônio do Servidor Público, criado pela Lei Complementar nº 8/1970, passou a incidir sobre as receitas orçamentárias das pessoas jurídicas de direito público, a fim de formar o patrimônio do servidor público, sendo tais recursos mantidos em contas individualizadas a cargo do Banco do Brasil.
+Posteriormente, em decorrência de modificações legislativas, ocorreu a unificação dos fundos PIS/PASEP e, com o advento da Constituição Federal de 1988, restou estabelecido que as contribuições não fossem mais creditadas aos participantes, mas sim ao Fundo de Amparo ao Trabalhador - FAT, para possibilitar o pagamento de seguro-desemprego e abono salarial, conforme redação do artigo 239 da Carta Magna.
+Contudo, o patrimônio acumulado pelo Fundo PIS/PASEP até a promulgação da Constituição Federal foi preservado e mantido em forma de cotas nas contas dos participantes, o qual permaneceu sendo reajustado com juros e correção monetária.
+No caso em apreço, não há como afastar a legitimidade do Banco do Brasil para figurar no polo passivo da presente ação, pois a causa de pedir se refere à ausência de atualização monetária dos depósitos efetuados pela União Federal a favor do servidor.
+Com efeito, a apelante questiona apenas a de correção indevida dos valores depositados pela União a título de PASEP, e não a ausência de depósito destes ou ainda de eleição do índice pelo Conselho Diretor do PASEP para fins de atualização monetária, tanto que a demanda foi ajuizada perante o administrador dos valores e não em face da União.
+Em outras palavras, a apelante insurge-se contra a gestão do Banco do Brasil, o qual, segundo alega, não corrigiu, de forma adequada, os valores depositados na conta pertencente à autora.
+Ora, à União competia tão somente efetuar os depósitos dos valores na conta vinculada e estipular os índices de correção a serem aplicados, o que não é objeto de discussão no presente feito.
+Por seu turno, à Sociedade de Economia Mista, como depositária das contribuições, incumbia a aplicação dos índices eleitos aos valores sobre sua custódia. Em assim sendo, patente a legitimidade passiva do Banco do Brasil para figurar no polo passivo da presente lide.
+ ..
+Nesse contexto, com especial atenção ao artigo 5º da Lei Complementar nº 8 /1970, correta a inclusão do Banco do Brasil S/A no polo passivo da relação jurídica processual, motivo pelo qual o apelo merece prosperar.
+3. Dispositivo
+Diante do exposto, CONHEÇO DO RECURSO E DOU-LHE PROVIMENTO, a fim de reconhecer a legitimidade do Banco do Brasil para figurar no polo passivo da lide e, por conseguinte, CASSAR a r. Sentença e determinar o retorno dos autos ao Juízo de Origem, para regular processamento do feito.
+Como se vê, os arts. 17 e 485, VI, do CPC/2015, o art. 4º-A da Lei Complementar n. 26/1975 e os arts. 7º, § 6º e 10, parágrafo único, do Decreto n. 4.751/2003 não foram alvo de debate no julgado impugnado, nem foram opostos embargos de declaração na origem, o que denota a falta do indispensável prequestionamento e faz incidir in casu, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Além disso, no caso concreto, o Tribunal de origem decidiu pela incompetência da Justiça Federal para julgar o feito, com base na interpretação do art. 5º da Lei Complementar n. 8/1970.
+Contudo, nas razões do especial, a parte recorrente não impugnou especificamente o referido fundamento, o que revela a deficiência da irresignação, nos termos das Súmulas 283 e 284 do STF. Nesse sentido: AgRg no AREsp 71.610/DF, Relator para Acórdão Ministro SÉRGIO KUKINA, Primeira Turma, DJe 19/12/2016; AgInt no REsp 1.604.184/RN, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 07/12/2016; e AgInt no REsp 1.626.816/PE, Relator Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 23/11/2016.
+Não bastasse isso, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas instâncias ordinárias, no sentido da legitimidade passiva da recorrente, demandaria induvidosamente o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRECLUSÃO. ACÓRDÃO RECORRIDO EM CONSON NCIA COM A JURISPRUDÊNCIA DO STJ. ILEGITIMIDADE PASSIVA. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM COM BASE NO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO. CONTRARIEDADE A PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME EM RECURSO ESPECIAL. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. A decisão agravada encontra-se em consonância com a jurisprudência desta Corte no sentido de reconhecer a preclusão consumativa quando a matéria for deduzida e apreciada em julgamento anterior de exceção de pré-executividade.
+2. Análise da controvérsia referente à alegada ilegitimidade passiva do Agravante para figurar no feito, demanda, necessariamente, o reexame de matéria fática-probatória constante dos autos, o que é inviável em sede de Recurso Especial.
+3. Não cabe ao STJ, em sede de Recurso Especial, conhecer da alegada ofensa de princípios constitucionais (REsp. 1.240.170/PR, Rel. Min. MAURO CAMPBELL MARQUES, DJe 15.4.2011).
+4. Agravo Interno do Particular desprovido. (AgInt no REsp 1.619.924/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/06/2017, DJe 28/06/2017).
+Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 16/09/2014, DJe 24/09/2014).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
