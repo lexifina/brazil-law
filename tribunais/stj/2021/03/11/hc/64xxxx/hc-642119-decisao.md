@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Diego dos Santos Garcia, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 6anos e 5 meses de reclusão, em regime fechado, e pagamento de 15dias-multa, como incursono art. 157, § 2º, II e V, do Código Penal (fls. 8/18 - Processo n. 1502523-93.2019.8.26.0114).
+Interpostaapelação pela defesa, o Tribunal a quonegou-lhe provimento(fls. 41/49).
+Sustenta a impetrante, em suma, violação do enunciado da Súmula 443/STJ, tendo em vista que o recrudescimento da pena na terceira fase de sua fixação se deu acima do mínimo legal apenas com base no número de majorantes.
+Requer, em suma,seja concedida a ordem para que seja reduzido o acréscimo na terceira etapa da dosimetria da pena a 1/3, pois ausentes tanto motivação idônea quanto justificada fundamentação para o aumento desproporcional operado em virtude do mero número de causas de aumento de pena ocorridas no caso concreto (fl. 7).
+Prestadas as informações (fls. 57/80), oMinistério Público Federal manifestou-se pelo não conhecimento do writ (fls. 84/89).
+É o relatório.
+É manifesto o constrangimento ilegal suportado pelo paciente.
+Por oportuno, confiram-se os fundamentos exarados pelo Magistrado de primeiro grauao fixar a pena (fls. 16/17 - grifo nosso):
+Na primeira fase de fixação da reprimenda, levo em consideração os ditames do artigo 59 do Código Penal.
+A culpabilidade do crime de roubo é normal à espécie, não extrapolando daquilo que já prevê as figuras típicas. O Réu não possui maus antecedentes. Saliento ainda que não há elementos para aferir a conduta social e a personalidade do agente, e aqui considero que estes elementos não dizem respeito à vida criminal do indivíduo, mas aos demais aspectos, razão pela qual não podem repercutir negativamente na fixação da pena base. Os motivos são normais à espécie (enriquecimento sem causa), as consequências do crime foram reduzidas e a vítima em nada contribuiu para o delito.
+Com base nisso, fixo a pena-base em 4 anos de reclusão e 10 dias-multa, cada qual no seu valor mínimo legal.
+Na segunda fase, observo a presença da circunstância agravante da reincidência, em razão de uma condenação anterior e definitiva. Assim, aumento a pena provisória em1/6, que passa a 4 anos e 8 meses de reclusão e 11 dias-multa, cada qual no seu valor mínimo legal.
+Na terceira e última fase, há causas de aumento de pena consistentes em concurso de agentes e restrição da liberdade da vítima. Na esteira do entendimento jurisprudencial que adoto, que prega o aumento da pena de maneira proporcional ao número de causas de aumento presentes, variando de 1/3 até 1/2 em razão das 5 (cinco) hipóteses previstas no tipo penal (redação anterior a Lei n. 13.654/2018), aumento a pena provisória em 3/8, perfazendo o montante de 6 anos e 5 meses de reclusão e 15 dias-multa, cada qual no valor mínimo legal.
+Inexistentes outrascausas que interfiram no cálculo penal, a reprimenda fica definitivamente fixada em 6 anos e 5 meses de reclusão e 15 dias-multa, cada qual no valor mínimo legal.
+É consabido que o Superior Tribunal de Justiça consagrou o entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo circunstanciado em fração mais elevada que 1/3 demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de majorantes, a teor da Súmula 443/STJ.
+Na hipótese, o Tribunal de origem fixou o percentual em patamar acima do mínimo (1/3) sem obedecer àreferida diretriz, o que caracteriza manifesto constrangimento ilegal, porquanto o critério de elevação da reprimenda pela presença de causas de aumento possui caráter subjetivo, por ser mais favorável ao réu e por obedecer ao princípio constitucional da individualizaçãoda pena, e não meramente matemático, a depender, pois, das circunstâncias do caso concreto. No mesmo sentido: HC n. 421.192/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 21/2/2018.
+Assim, deve ser alterada a fração aplicada pelo acórdão impugnado de 3/8 para 1/3, em consequência, a reprimenda do paciente passa a totalizar 6 anos, 2meses e 20 dias de reclusão, e pagamento de 14dias-multa.
+Por fim, verificando-se que o corréuTiagoLuís de Limase encontraem situação idêntica à do paciente, deve-lhe ser estendida a concessão dodireito reconhecido neste writ, nos termos do art. 580, c/c o art. 654, §2º, todos do Código de Processo Penal, em consequência a sua reprimenda passa a totalizar 7 anos, 3 meses e 3 dias de reclusão, e pagamento de 16 dias-multa.
+Ante o exposto, concedo a ordem para redimensionar a reprimenda do paciente Diego dos Santos Garcia, fixando-aem 6 anos, 2 meses e 20 dias de reclusão, e pagamento de 14 dias-multa, com a extensão da ordem ao corréuTiago Luís de Lima, fixando a sua pena em7 anos, 3 meses e 3 dias de reclusão, e pagamento de 16 dias-multa.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. TERCEIRA ETAPA DO CÁLCULO DA PENA. PRESENÇA DE DUAS MAJORANTES. EXASPERAÇÃO DA REPRIMENDA ALÉM DA FRAÇÃO MÍNIMA LEGAL. FALTA DE FUNDAMENTAÇÃO. CRITÉRIO MATEMÁTICO. INCIDÊNCIA DA SÚMULA 443/STJ. EXTENSÃO DA ORDEM AO CORRÉU.
+Ordem concedida com extensão ao corréuTiago Luís de Lima, nos termos do dispositivo.
