@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de VANDERLEI APARECIDO DA SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2002540-55.2021.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 71-73) e foi denunciado por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na expressiva quantidade e na forma de acondicionamento dos entorpecentes apreendidos (49 porções de cocaína).
+O Tribunal de origem manteve a custódia preventiva, pois entendeu que foram corretas a análise e a fundamentação do decreto de prisão preventiva.
+No presente writ, a defesa sustenta que o decreto prision al não foi devidamente fundamentado e que não estão presentes os requisitos para a decretação da prisão preventiva.
+Alega que a prisão em flagrante é ilegal por ter ocorrido agressão policial.
+Aduz que o paciente faz jus às medidas cautelares diversas da prisão ante os predicados pessoais, além de a quantidade de drogas ser pouca.
+Requer, inclusive liminarmente, a imediata soltura do paciente com ou sem a imposição de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido às fls. 96-97.
+O Ministério Público Federal manifestou-se pela concessão de ofício da ordem (fls. 128-132).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Quanto à alegação de que foi apreendida pouca droga, a verificação da existência de indícios de autoria e materialidade delitiva demanda reexame de fatos e provas, procedimento incompatível com a estreita via do habeas corpus, devendo a questão ser dirimida no trâmite da instrução criminal.
+Em relação à violência policial, o Tribunal de origem afastou qualquer vício que pudesse alcançar o decreto preventivo, nos seguintes termos (fls. 84-86):
+Inicialmente, cumpre observar que eventuais irregularidades do flagrante, se houvessem, foram superadas pela decretação da prisão preventiva, ocasião em que a legalidade, requisitos e necessidade da segregação foram analisados, com o que se fundou a medida e não somente no estado de flagrância quanto aos supostos crimes de furto e resistência.  ..
+Convém ressaltar, ainda, que a despeito de o D. Defensor ter afirmado que o paciente sofreu sevícias por parte dos policias para informar a localização das drogas, o próprio paciente, quando de seu interrogatório no flagrante, aduziu que: "..não tem nada a reclamar com relação a sua integridade física durante a sua prisão..". Desse modo, não há que falar em nulidade do flagrante.
+Assim, ainda que o preso tenha sofrido maus-tratos da polícia, fato a ser apurado em procedimento próprio, isso não enseja automática liberdade, pois a posterior conversão do flagrante em prisão preventiva constitui novo título a justificar a privação da liberdade, estando superada a alegação de eventual vício decorrente da atuação policial.
+Registre-se que a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, o Juízo de primeiro grau decretou a prisão preventiva nos seguintes termos (fl. 77):
+ ..  No caso dos autos, os guardas civis municipais já haviam recebido informações de que o acusado estaria praticando o tráfico de drogas, no bairro Menino de Deus.
+Na data dos fatos, ao realizarem patrulhamento, foram checar as informações recebidas, ocasião em que visualizaram LUCAS saindo da residência do acusado. Abordaram LUCAS, em cujo poder foram encontrados cinco microtubos de cocaína, os quais, segundo ele, foram adquiridos do acusado. Então, de conseguinte, dirigiram-se até a residência do acusado, que, contudo, empreendeu fuga.
+No interior do imóvel, encontrava-se também a companheira do acusado, ADRIANA, a qual indicou a existência de 49 microtubos de cocaína, além da quantia de R$ 935,05, em notas e moedas diversas.
+Posteriormente, o acusado foi abordado nas imediações da Delegacia.
+Interrogado, o acusado confirmou que a propriedade da droga, assim como da quantia apreendida.  ..
+No caso, a grande quantidade de drogas apreendida - 49 porções, forma de acondicionamento, além da quantia em dinheiro sem comprovação de origem, o depoimento do usuário que confirmou a compra das drogas do acusado, tendo, inclusive, assentido na análise das mensagens de seu celular, que comprovariam a negociação, bem como a admissão do acusado acerca da propriedade da droga e do dinheiro, fornecem indícios da prática do tráfico de drogas.
+Ademais, já havia denúncias acerca da prática do tráfico de drogas pelo acusado, motivo pelo qual a segregação cautelar se mostra imperiosa para fins de resguardo da ordem pública.
+O entendimento acima está em consonância com a orientação jurisprudencial da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva. Nesse sentido: AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020.
+Ademais, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Registre-se ainda que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 27/11/2020).
+Por fim, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do paciente não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
