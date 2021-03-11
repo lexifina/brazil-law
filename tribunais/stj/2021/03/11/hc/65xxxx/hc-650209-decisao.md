@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Helton Douglas Gonçalves, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais, que negou provimento ao Agravo em Execução Penal n. 10271120107211001 (fl. 178):
+AGRAVO EM EXECUÇÃO PENAL - INDULTO NATALINO - DECRETO Nº 9.246/17 - FALTA GRAVE COMETIDA NOS 12 MESES ANTERIORES À PUBLICAÇÃO DO DECRETO PRESIDENCIAL - DESCUMPRIMENTO DAS CONDIÇÕES DO LIVRAMENTO CONDICIONAL - HOMOLOGAÇÃO - DESNECESSIDADE - REQUISITO SUBJETIVO NÃO PREENCHIDO.
+1. A prática de falta grave nos 12 meses anteriores à publicação do Decreto Prisional impede a concessão do Indulto, ainda que não homologada pelo Juízo da Execução. Precedentes STJ.
+2. O descumprimento das condições fixadas para o Livramento Condicional, a qualquer tempo da Execução, obsta a concessão do benefício do Indulto, nos termos do art. 4º, IV, do Decreto nº 9.246/17.
+Alega-se, na impetração, quea não concessão do indulto natalino pelo cometimento de falta grave praticada pelo sentenciado só deve ser operada quando tal falta já tenha sofrido sanção pelo juízo competente nos doze meses anteriores àpublicação do Decreto n.9.246/2017, o que não se aplica ao caso em questão, já que, mesmo que o sentenciado tenha praticado a falta anterior àdecretação do indulto, essa só foi homologada e imposta sanção pelo juízo competente APÓS a decretação do indulto natalino de 2017 (fls. 5/6).
+É o relatório.
+O acórdão impugnado guarda harmonia com a jurisprudência desta Corte, não estando configurada a ilegalidade apontada. Confiram-se:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. EXECUÇÃO PENAL. INDULTO. IMPOSSIBILIDADE. DECRETO N.9.246/17. FALTA GRAVE COMETIDA NO PERÍODO PREVISTO NO ATO PRESIDENCIAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. 2. Na hipótese vertente, a falta disciplinar foi praticada pelo reeducando dentro do prazo previsto no art. 4º do Decreto Presidencial n. 9.246/2017 (doze meses de cumprimento da pena, contados retroativamente à data de publicação do decreto), a justificar o indeferimento do benefício. 3. Registre-se que não tratou o referido normativo acerca da data da homologação da falta grave. Contudo, ainda que a norma tivesse abordado tal tema, o entendimento desta Corte Superior de Justiça é de que tal homologação pode se dar antes ou depois do ato presidencial. Em suma, o que importa é que a falta tenha sido cometida dentro do prazo previsto no decreto. Precedentes.
+4. Habeas corpus não conhecido.
+(HC n. 496.728/RS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 9/4/2019, DJe 6/5/2019)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. PRÁTICA DE FALTA GRAVE NOS 12 (DOZE) MESES ANTERIORES À PUBLICAÇÃO DO DECRETO 8.172/2013. HOMOLOGAÇÃO POSTERIOR. AUSÊNCIA DE REQUISITO SUBJETIVO. POSSIBILIDADE. INSURGÊNCIA DESPROVIDA.
+1. No julgamento do ERESP n. 1.549.544/RS, a Terceira Seção deste Superior Tribunal de Justiça consolidou entendimento de que "Não haverá o direito de comutação de pena, o apenado que praticar falta grave no lapso de 12 meses anteriores à publicação do Decreto Presidencial, desde que homologada a falta, ainda que a decisão seja posterior ao Decreto". Precedentes.
+2. O apenado praticou falta disciplinar de natureza grave em 12/12/2013, isto é, nos 12 (doze) meses anteriores à publicação do Decreto n. 8.172/2013, o que demonstra o não cumprimento do requisito subjetivo exigido pela norma, mesmo que a homologação só tenha ocorrido após o referido período, em 10/06/2014.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.648.321/MG, Ministro Jorge Mussi, Quinta Turma, DJe 19/9/2018 - grifo nosso)
+DIREITO PENAL E PROCESSUAL PENAL. EMBARGOS DE DIVERGÊNCIA. DISSÍDIO CONFIGURADO. INDEFERIMENTO DE COMUTAÇÃO DA PENA EM RAZÃO DA PRÁTICA DE FALTA GRAVE NOS 12 MESES ANTERIORES AO DECRETO PRESIDENCIAL. HOMOLOGAÇÃO POSTERIOR. POSSIBILIDADE. EMBARGOS DE DIVERGÊNCIA PROVIDOS. RECURSO ESPECIAL PROVIDO.
+1. A Terceira Seção deste Tribunal, no julgamento do EREsp n. 1.549.544/RS, unificou o entendimento para considerar possível o indeferimento de indulto ou comutação de pena em razão de falta grave que tenha sido praticada nos doze meses anteriores ao decreto presidencial, ainda que homologada após a sua publicação.
+2. Embargos de Divergência providos, recurso especial provido para cassar o benefício de comutação do ora embargado.
+(EREsp n. 1.477.886/RS, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 17/8/2018 - grifo nosso)
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. AGRAVO EM EXECUÇÃO PENAL. INDULTO NATALINO. DECRETO N. 9.246/2017. FALTA GRAVE COMETIDA NOS 12 MESES ANTERIORES À PUBLICAÇÃO DO DECRETO PRESIDENCIAL. DESCUMPRIMENTO DAS CONDIÇÕES DO LIVRAMENTO CONDICIONAL. HOMOLOGAÇÃO POSTERIOR. POSSIBILIDADE.
+Writ indeferido liminarmente.
