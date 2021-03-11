@@ -1,0 +1,12 @@
+DECISÃO
+GEOVANE BARROS NASCIMENTO alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O impetrante aponta: a) a demora na realização de exame criminológico para análise do pleito de progressão de regime e b) erro nos cálculos do benefício, pois seu termo a quo foi alcançado em outubro de 2020.
+Explica quenão é possível realizar a perícia em tempos de endurecimento das medidas preventivas à Covid-19 e requer, em liminar e no mérito, a sua dispensa.
+Decido.
+Não é possível conhecer do habeas corpus.
+Consoante a narrativa da impetração, a matéria deduzida na exordial não foi conhecida pelo Tribunal de Justiça a quo. Ademais, estes autos não estão instruídos com acópia do acórdão estadual (ou decisão de Desembargador).
+As alegações da defesa (excesso de prazo e impossibilidade de realização doexame criminológico durante a pandemia), não estão comprovadas. A avaliaçãofoi determinada em 5/3/2021 e não se tem notícia de impugnação dosfundamentos da exigência. Passados apenas cinco dias desde a prolação do ato pelo Juiz de primeiro grau, não é possível, de ofício, identificar excesso de prazo para a realização do exame criminológico, tese, aliás, que parece não ter sido deduzida na primeira instância.No mais,não há comprovação de que profissionais da equipe multidisciplinar não estão exercendosuas atividadesna unidade penal do reeducando, como medida preventiva ao contágio da Covid-19. Assim, não é possível a concessão da ordem, ainda que de ofício.
+A repartição de competências prevista na Constituição Federal efetiva e garante o devido processo legal. Exige-se que um órgão com atribuição pré-estabelecida nas normasatue no julgamento como forma de assegurar a imparcialidade e otratamento isonômico aos jurisdicionados.Nesse contexto, cabe ao Superior Tribunal de Justiça julgarhabeas corpus decididos em única ou última instância pelos Tribunais de Justiça e Federais ou contra ato de pessoas mencionadas no art. 105 do CPP.
+Ainda, tratando-se deação constitucional de natureza mandamental, o writ exige prova pré-constituída das alegações, pois não comporta dilação probatória.Era obrigatórioao impetrante apresentar documentos suficientes para se permitir aferir se a controvérsia foi decidida pelo Tribunale, ainda,a suscitada ilegalidade, ônus que não cumpriu.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
