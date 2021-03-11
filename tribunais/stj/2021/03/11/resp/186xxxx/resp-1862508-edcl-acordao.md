@@ -1,0 +1,93 @@
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. FRANQUIA. BOA-FÉ OBJETIVA. ART. 422 DO CC/02. DEVERES ANEXOS. LEALDADE. INFORMAÇÃO. DESCUMPRIMENTO. FASE PRÉ-CONTRATUAL. EXPECTATIVA LEGÍTIMA. PROTEÇÃO. PADRÕES DE COMPORTAMENTO (STANDARDS). DEVER DE DILIGÊNCIA (DUE DILIGENCE). HARMONIA. INADIMPLEMENTO. CONFIGURAÇÃO. APELAÇÃO. PEDIDO SUBSIDIÁRIO. CONTRARRAZÕES. ALEGAÇÃO. OMISSÃO. OCORRÊNCIA. MATÉRIA FÁTICA. AUTOS. RETORNO. ORIGEM.
+1. Cuida-se de embargos de declaração por meio dos quais a embargante se insurge contra acórdão que, ao dar provimento ao recurso especial da parte adversa, teria deixado de prosseguir no exame das razões deduzidas em sua apelação contra a sentença de parcial procedência do pedido e reiteradas em suas contrarrazões ao recurso especial.
+2. O vício que autoriza a oposição dos embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decisões do STJ. Precedentes.
+3. Se consideram prequestionados os fundamentos adotados nas razões de apelação e desprezados no julgamento do respectivo recurso, desde que, interposto recurso especial, sejam reiterados nas contrarrazões da parte vencedora. Precedente da Corte Especial.
+4. A existência de omissão na decisão embargada conduz ao acolhimento da pretensão.
+5. Embargos de declaração parcialmente acolhidos, com efeitos infringentes para, complementando as conclusões do acórdão embargado e mantendo o provimento ao recurso especial de TMI TRATAMENTO TEXTIL LTDA, determinar o retorno dos autos à origem para que prossiga no exame da apelação interposta por 5 A SEC DO BRASIL FRANCHISING LTDA relativamente às divergências nos valores do dano material.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas constantes dos autos, por unanimidade, acolher em parte os embargos de declaração, com efeitos infringentes, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI:
+Cuida-se de embargos de declaração opostos por 5 A SEC DO BRASIL FRANCHISING LTDA contra o acórdão que, por maioria, deu provimento ao recurso especial de TMI TRATAMENTO TÊXTIL LTDA para restabelecer a sentença de parcial procedência dos pedidos da inicial, nos termos da seguinte ementa (e-STJ fls. 1.884/1.885):
+CIVIL E EMPRESARIAL. RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. FRANQUIA. BOA-FÉ OBJETIVA. ART. 422 DO CC/02. DEVERES ANEXOS. LEALDADE. INFORMAÇÃO. DESCUMPRIMENTO. FASE PRÉ-CONTRATUAL. EXPECTATIVA LEGÍTIMA. PROTEÇÃO. PADRÕES DE COMPORTAMENTO (STANDARDS). DEVER DE DILIGÊNCIA (DUE DILIGENCE). HARMONIA. INADIMPLEMENTO. CONFIGURAÇÃO. PROVIMENTO.
+1. Cuida-se de ação de resolução de contrato de franquia cumulada com indenização de danos materiais, na qual se alega que houve descumprimento do dever de informação na fase pré-contratual, com a omissão das circunstâncias que permitiriam ao franqueado a tomada de decisão na assinatura do contrato, como o fracasso de franqueado anterior na mesma macrorregião.
+2. Recurso especial interposto em: 23/10/2019; conclusos ao gabinete em: 29/10/2020; aplicação do CPC/15.
+3. O propósito recursal consiste em definir se a conduta da franqueadora na fase pré-contratual, deixando de prestar informações que auxiliariam na tomada de decisão pela franqueada, pode ensejar a resolução do contrato de franquia por inadimplemento
+4. Segundo a boa-fé objetiva, prevista de forma expressa no art. 422 do CC/02, as partes devem comportar-se de acordo com um padrão ético de confiança e de lealdade, de modo a permitir a concretização das legítimas expectativas que justificaram a celebração do pacto.
+5. Os deveres anexos, decorrentes da função integrativa da boa-fé objetiva, resguardam as expectativas legítimas de ambas as partes na relação contratual, por intermédio do cumprimento de um dever genérico de lealdade, que se manifesta especificamente, entre outros, no dever de informação, que impõe que o contratante seja alertado sobre fatos que a sua diligência ordinária não alcançaria isoladamente.
+6. O princípio da boa-fé objetiva já incide desde a fase de formação do vínculo obrigacional, antes mesmo de ser celebrado o negócio jurídico pretendido pelas partes. Precedentes.
+7. Ainda que caiba aos contratantes verificar detidamente os aspectos essenciais do negócio jurídico (due diligence), notadamente nos contratos empresariais, esse exame é pautado pelas informações prestadas pela contraparte contratual, que devem ser oferecidas com a lisura esperada pelos padrões (standards) da boa-fé objetiva, em atitude cooperativa.
+8. O incumprimento do contrato distingue-se da anulabilidade do vício do consentimento em virtude de ter por pressuposto a formação válida da vontade, de forma que a irregularidade de comportamento somente é revelada de forma superveniente; enquanto na anulação a irregularidade é congênita à formação do contrato.
+9. Na resolução do contrato por inadimplemento, em decorrência da inobservância do dever anexo de informação, não se trata de anular o negócio jurídico, mas sim de assegurar a vigência da boa-fé objetiva e da comutatividade (equivalência) e sinalagmaticidade (correspondência) próprias da função social do contrato entabulado entre as partes.
+10. Na hipótese dos autos, a moldura fática delimitada pelo acórdão recorrido consignou que: a) ainda na fase pré-contratual, a franqueadora criou na franqueada a expectativa de que o retorno da capital investido se daria em torno de 36 meses; b) apesar de transmitir as informações de forma clara e legal, o fez com qualidade e amplitude insuficientes para que pudessem subsidiar a correta tomada de decisão e as expectativas corretas de retornos; e c) a probabilidade de que a franqueada recupere o seu capital investido, além do caixa já perdido na operação até o final do contrato, é mínima, ou quase desprezível.
+11. Recurso especial provido.
+Nas razões do presente recurso, a embargante alega que o acórdão embargado é contraditório com outro julgado desta Corte, proferido pela e. Quarta Turma, que teria concluído pela impossibilidade de revisão da anulação do contrato de franquia, por incidência da Súmula 7/STJ.
+Aduz que há omissão no exame de pedido subsidiário, veiculado em suas contrarrazões de recurso especial, de que fossem adotados o parâmetros indenizatórios fixados pelo voto divergente proferido em sede de recurso de apelação, evitando duplicidade de ressarcimentos, sobretudo pela compensação com os lucros obtidos pela operação do empreendimento.
+Argumenta, ademais, que o voto condutor seria omisso e teria violado o óbice da Súmula 7/STJ ao desconsiderar as conclusões do acórdão recorrido e, em especial, as do laudo pericial de que o insucesso do negócio não teve como fator exclusivo a omissão da informação na fase pré-contratual.
+É O RELATÓRIO.
+EMENTA
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO CONTRATUAL. FRANQUIA. BOA-FÉ OBJETIVA. ART. 422 DO CC/02. DEVERES ANEXOS. LEALDADE. INFORMAÇÃO. DESCUMPRIMENTO. FASE PRÉ-CONTRATUAL. EXPECTATIVA LEGÍTIMA. PROTEÇÃO. PADRÕES DE COMPORTAMENTO (STANDARDS). DEVER DE DILIGÊNCIA (DUE DILIGENCE). HARMONIA. INADIMPLEMENTO. CONFIGURAÇÃO. APELAÇÃO. PEDIDO SUBSIDIÁRIO. CONTRARRAZÕES. ALEGAÇÃO. OMISSÃO. OCORRÊNCIA. MATÉRIA FÁTICA. AUTOS. RETORNO. ORIGEM.
+1. Cuida-se de embargos de declaração por meio dos quais a embargante se insurge contra acórdão que, ao dar provimento ao recurso especial da parte adversa, teria deixado de prosseguir no exame das razões deduzidas em sua apelação contra a sentença de parcial procedência do pedido e reiteradas em suas contrarrazões ao recurso especial.
+2. O vício que autoriza a oposição dos embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decisões do STJ. Precedentes.
+3. Se consideram prequestionados os fundamentos adotados nas razões de apelação e desprezados no julgamento do respectivo recurso, desde que, interposto recurso especial, sejam reiterados nas contrarrazões da parte vencedora. Precedente da Corte Especial.
+4. A existência de omissão na decisão embargada conduz ao acolhimento da pretensão.
+5. Embargos de declaração parcialmente acolhidos, com efeitos infringentes para, complementando as conclusões do acórdão embargado e mantendo o provimento ao recurso especial de TMI TRATAMENTO TEXTIL LTDA, determinar o retorno dos autos à origem para que prossiga no exame da apelação interposta por 5 A SEC DO BRASIL FRANCHISING LTDA relativamente às divergências nos valores do dano material.
+EDcl no RECURSO ESPECIAL Nº 1.862.508 - SP (2020/0038674-8)
+RELATORA
+:
+MINISTRA NANCY ANDRIGHI
+EMBARGANTE
+:
+5 A SEC DO BRASIL FRANCHISING LTDA
+ADVOGADO
+:
+RAFAEL BERTACHINI MOREIRA JACINTO - SP235654
+ADVOGADOS
+:
+RENATA MOQUILLAZA DA ROCHA MARTINS - SP291997
+LUCAS DE ALMEIDA CORREA - SP285717
+EMBARGADO
+:
+TMI TRATAMENTO TEXTIL LTDA
+ADVOGADOS
+:
+ROBERTO CORRÊA DE MELLO - SP050679
+MARIANA RODRIGUES DE CARVALHO MELLO - SP229571
+THIAGO JABUR CARNEIRO - SP255663
+CARLOS FERNANDO MATHIAS DE SOUZA - DF000530
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo enfrentamento se impunha ao juiz. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Na hipótese dos autos, verifica-se que as questões apontadas pelo embargante e relacionadas a: a) contradição do acórdão embargado com as conclusões de aresto proferido pela e. Quarta Turma; e b) omissão do acórdão embargado em examinar a integralidade dos elementos fáticos do acórdão recorrido; não constituem qualquer dos vícios acima mencionados, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+Primeiramente porque, nos termos da jurisprudência desta Corte, o vício que autoriza a oposição dos embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decisões do STJ. Nesse sentido: EDcl na PET na Pet 9844/AP, Corte Especial, DJe 26/05/2020; EDcl no AgInt nos EAREsp 498.082/SC, Corte Especial, DJe 13/03/2020.
+Não o suficiente, o acórdão objurgado se manifestou expressa e claramente sobre a moldura fática delimitada pelo acórdão recorrido, tendo concluído que (e-STJ, fls. 1.906-1.907):
+O acórdão recorrido consignou expressamente, no entanto, que a perícia teria concluído que "é inegável que a Ré alimentou uma expectativa junto à Autora de que o retorno da capital investido se daria em torno de 36 meses e para que isso pudesse ocorrer, as vendas e receitas de serviços precisariam ocorrer de uma forma saudável e no volume desejado, o que não se confirmou posteriormente" (e-STJ, fl. 1.744, sem destaque no original).
+Registrou, que "as informações fornecidas pela Franqueadora/Ré para subsidiar a decisão de investimento por parte da Franqueada/Autora foram transmitidas de forma clara e correta, porém com qualidade e amplitude insuficientes para que pudessem subsidiar a correta tomada de decisão e as expectativas corretas de retornos" (e-STJ, fl. 1.744, sem destaque no original).
+Diante desses fatores, é possível concluir que o único fundamento para a reforma da sentença de procedência em relação à resolução do contrato por descumprimento foi o de que fatos pré-contratuais não ensejam a resolução por inadimplemento.
+ ..
+Com efeito, na hipótese dos autos, a tese da recorrente, reconhecida pela moldura fática delineada pelo acórdão recorrido, foi a de que, embora não existisse falsidade de dados, a recorrida criou uma expectativa legítima de retorno de investimento que não tinha condições de se concretizar, não oferecendo à recorrente elementos mínimos para a tomada consciente da decisão de formalização do contrato.
+Referida circunstância caracteriza, a meu ver, respeitosamente, efetiva ofensa à boa-fé objetiva e aos deveres de lealdade, informação e cooperação, e violação da previsão do art. 422 do CC/02.
+Na presente hipótese, portanto, essas duas questões apontadas pela embargante constituem mera discordância com os fundamentos adotados no acórdão embargado, o que não se coaduna com a natureza de referido recurso aclaratório.
+Há, no entanto, de se reconhecer que, tendo sido formulado por 5 A SEC DO BRASIL FRANCHISING LTDA nas suas contrarrazões ao recurso especial e na sua apelação o pedido subsidiário de que, mantida a sentença ou provido o recurso especial, fossem adotados o parâmetros indenizatórios fixados pelo voto divergente proferido na Corte a quo, era imperioso que o acórdão recorrido se manifestasse a respeito do tema.
+De fato, essa é a orientação da Corte Especial, que consigna que "se consideram prequestionados os fundamentos adotados nas razões de apelação e desprezados no julgamento do respectivo recurso, desde que, interposto recurso especial, sejam reiterados nas contrarrazões da parte vencedora" (EAREsp 227.767/RS, Corte Especial, DJe 29/06/2020, sem destaque no original).
+Passa-se, assim, a seu enfrentamento.
+DA ADEQUAÇÃO DOS VALORES DO DANO MATERIAL
+Na hipótese dos autos, a sentença condenou a embargante - 5 A SEC DO BRASIL FRANCHISING LTDA - a ressarcir a embargada - TMI TRATAMENTO TÊXTIL LTDA - pelo montante de R$ R$ 1.238.561,00, valor indicado à inicial como relacionado aos gastos e aos custos com a aquisição e operacionalização da franquia frustrada.
+Como mencionado na sentença, "este valor principal que resta aqui consolidado conforme contabilidade apresentada pela autora em laudo anexo à exordial nos indica um patamar mínimo em matéria de danos materiais garantidos em favor da franqueada" (e-STJ, fl. 1.586, sem destaque no original).
+O tribunal de origem reformou a sentença, por maioria, para julgar integralmente improcedentes os pedidos, acolhendo a matéria prejudicial suscitada na apelação da ora embargante e deixando, assim, de examinar os pedidos subsidiários veiculados no referido apelo.
+O voto vencido, proferido pelo Tribunal de origem, superou essa matéria preliminar e, prosseguindo no julgamento da apelação, observou a possibilidade de existirem duplicidades e inconsistências no valor dos danos materiais requeridos pela embargada que poderiam gerar seu enriquecimento sem causa.
+Concluiu, quanto ao tema, que (e-STJ, fl. 1.757-1.758):
+Quanto ao valor do montante a ser indenizado pelos danos materiais, que não contemplaram, acertadamente, lucros cessantes, deve ser acolhida a pretensão da requerida, para que, em liquidação, sejam conferidos e definidos os dispêndios incorridos pelo autor, de forma a evitar duplicidade de ressarcimentos, inconsistências, e, consequentemente, enriquecimento sem causa, por parte do autor.
+Assim, a apuração do montante dos danos materiais deverá seguir as seguintes orientações:
+i() restringir aos itens que forem devidamente comprovados, tendo por fonte primária a escrituração comercial do autor (aportes financeiros feitos pelos sócios, além de patrimônio a descoberto decorrente da atividade operacional da franquia, inclusive dispêndios relativos ao encerramento de atividades, rescisões contratuais, rescisões trabalhistas, etc.);
+ii() os ativos operacionais remanescentes (móveis, automóveis e equipamentos) não deverão ser considerados como dispêndios a serem indenizados, devendo o montante a eles relativos ser deduzidos dos dispêndios totais considerado o valor constante dos livros do autor, ou, a critério do autor, poderão ser conferidos todos os ativos remanescentes à requerida, como proposto em sua apelação, que deverão ser indenizados ao autor pelo valor de livros líquido;
+iii() apenas deverão ser consideradas as despesas e os custos necessários incorridos e pagos durante a operação da franquia, inclusive tributos, bem como no seu período pré- operacional, excluídos os montantes estranhos à atividade,aqueles considerados não usuais ou inconsistentes com a atividade franqueada, aqueles considerados como liberalidade, devendo o valor de eventual pró-labore pago a sócios ser limitado ao montante mínimo constante das projeções do franqueador nas projeções fornecidas ao autor;
+iv() as despesas com royalties e taxa de propaganda, constituem despesas e custos operacionais e devem, sem dúvida, compor a base indenizável;
+v() análise do montante e dos itens de despesas e custos indenizáveis deverá ser aquele aceito para fins de dedutibilidade fiscal para fins de imposto de renda de sociedades sujeitas ao lucro real, independente do regime de tributação a que o autor estiver submetido; e ,
+vi() no que toca às receitas, deverão ser, por óbvio, consideradas, como redutor, na apuração dos dispêndios a serem indenizados, exceto aquelas não operacionais ou estranhas à atividade franqueada ou não relacionadas à venda dos ativos operacionais da franquia.
+Verifica-se, no entanto, que esse pedido subsidiário, preponderantemente fático, não foi enfrentado pelo totalidade do colegiado na origem, que deu provimento à apelação da embargante pelo acolhimento da tese prejudicial e principal da não configuração de ilícito contratual e de ausência de violação à boa-fé objetiva.
+De fato, apenas os votos vencidos proferidos na origem, que superavam esse argumento principal, adentraram no mérito do questionamento relativo aos limites dos valores a serem indenizados pela embargante.
+Portanto, como a matéria é eminentemente fática e não foi exaurida pelo Tribunal a quo, os autos devem retornar à origem para que se prossiga no julgamento da apelação interposta pela embargante especificamente em relação à definição do valor dos danos materiais, na forma que se entender de direito.
+CONCLUSÃO
+Forte nessas razões, acolho parcialmente os presentes embargos de declaração, com efeitos infringentes, para, sanando omissão e complementando a conclusão do acórdão embargado que deu provimento ao recurso especial de TMI TRATAMENTO TÊXTIL LTDA, determinar o retorno dos autos à origem para que prossiga no julgamento da apelação de 5 A SEC DO BRASIL FRANCHISING LTDA, apreciando a tese de ocorrência de inconsistências relativas ao valor a ser indenizado pelos danos materiais, como entender de direito.
