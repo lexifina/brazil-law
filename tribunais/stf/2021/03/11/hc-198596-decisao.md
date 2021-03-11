@@ -1,0 +1,27 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, no qual se alega constrangimento ilegal em decorrência da demora do Superior Tribunal de Justiça para julgar o Habeas Corpus 601.418/MG, submetido à relatoria do Ministro JOEL ILAN PACIORNIK.
+    Consta dos autos, em síntese, que o paciente foi preso preventivamente porque teria atraído e induzido à prostituição os adolescentes I.P.P.C., V.A.D., E.F.S., P.H.O.R., M.V.D.C., menores de dezoito (18) e maiores de quatorze (14) anos à época dos fatos, bem como teria praticado atos libidinosos com eles, mediante pagamento em dinheiro ou em bens de considerável valor econômico, com o intuito de satisfazer a sua lascívia.
+    O Tribunal de Justiça do Estado de Minas Gerais, em dezembro de 2018, revogou a prisão preventiva do paciente, impondo-lhe, porém, as seguintes medidas cautelares diversas:
+    - proibição de manter contato pessoal, por meio de telefone, computador e similares ou por interposta pessoa, com qualquer das vítimas e testemunhas arroladas na denúncia;
+    - proibição de se ausentar da comarca sem autorização judicial;
+    - recolhimento domiciliar no período noturno e nos dias de folga;
+    - suspensão do exercício de sua função de Prefeito Municipal de Baldim/MG, dada a incompatibilidade das suas condutas com esse múnus, uma vez que existem indícios suficientes de que houve grave violação ao princípio da moralidade;
+    - monitoração eletrônica.
+    Nesta ação, o impetrante alega demora do Superior Tribunal de Justiça para julgar a impetração, cujos autos estão conclusos para julgamento desde 9/9/2020. Enfatiza que o paciente está com restrições do direito de ir e vir há aproximadamente 3 (três) anos. Requer, assim, a concessão da ordem, para revogar as medidas cautelares diversas da prisão.
+    É o relatório. Decido.
+    A EC 45/2004 (Reforma do Judiciário) assegurou a todos, no âmbito judicial e administrativo, a razoável duração do processo e os meios que garantam a celeridade de sua tramitação, pois, como proclamado por esta SUPREMA CORTE,
+    o direito ao julgamento, sem dilações indevidas, qualifica-se como prerrogativa fundamental que decorre da garantia constitucional do due process of law (HC 89751, Relator: Min. GILMAR MENDES, DJ 5/12/2006).
+    A constitucionalização da razoável duração do processo veio reiterar a consagração constitucional de celeridade processual, contemplada, tanto na consagração do princípio do devido processo legal, quanto na previsão do princípio da eficiência aplicável ao Poder Judiciário (CF, art. 37, caput ), pois como bem lembrado pelo Decano da CORTE, Ministro CELSO DE MELLO,
+    Cumpre registrar, finalmente, que já existem, em nosso sistema de direito positivo, ainda que de forma difusa, diversos mecanismos legais destinados a acelerar a prestação jurisdicional (CPC, art. 133, II e art. 198; LOMAN, art. 35, incisos II, III e VI, art. 39, art. 44 e art. 49, II), de modo a neutralizar, por parte de magistrados e Tribunais, retardamentos abusivos ou dilações indevidas na resolução dos litígios (Mandado de injunção nº 715/DF).
+    O processo judicial deve garantir todos os direitos às partes, sem, contudo, esquecer a necessidade de desburocratização de seus procedimentos na busca de qualidade e máxima eficácia de suas decisões, que devem ser proferidas em tempo razoável, pois a inércia estatal pode resultar tanto na consolidação de constrangimento ilegal quanto na inefetividade da Justiça Penal (AP 568, Relator: Min. ROBERTO BARROSO, Primeira Turma, julgado em 14/4/2015, DJe de 18/5/2015; HC 136435, Relator: Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 22/11/2016, DJe de 6/12/2016).
+    No particular, é possível verificar que o HC 601.418/MG, autuado em 31/7/2020, teve o pedido de liminar indeferido em 4/8/2020. Foram requisitadas informações ao Tribunal estadual. Em 5/9/2020, os autos foram enviados ao Ministério Público Federal para parecer. Em 9/9/2020, o processo foi concluso ao Ministro Relator.
+    É de se ver que esse período de trâmite da ação constitucional não revela quadro de flagrante omissão ilegal imputável ao Tribunal Superior ou ao Ministério Público. A propósito, a quantidade de demandas em trâmite no órgão judicial, a complexidade e a natureza das causas postas em juízo são fatores que não podem ser ignorados nesse exame de regularidade do desenvolvimento do processo.
+    Em suma, não há inércia ou excesso de prazo atribuíveis ao Poder Judiciário a justificar a intervenção desta CORTE na ordem de trabalhos do Superior Tribunal de Justiça.
+    Por fim, qualquer juízo desta CORTE, enquanto não apreciadas pelo STJ as irresignações postas na presente impetração, implicaria supressão de instância e contrariedade à repartição constitucional de competências, o que não é admitido pela jurisprudência do STF (v.g., entre outros, HC 115.266, Relator(a): Min. GILMAR MENDES, Segunda Turma, DJe de 24-09-2013; HC 116717, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 26-09-2013; RHC 117.301, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, DJe de 16-10-2013; HC 111.773, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, DJe de 21-03-2013).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO a ordem de HABEAS CORPUS.
+    Remeta-se cópia desta decisão ao Superior Tribunal de Justiça (HC 601.418/MG).
+    Publique-se.
+    Brasília, 11 de março de 2021.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
