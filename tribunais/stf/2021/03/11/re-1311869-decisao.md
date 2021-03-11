@@ -1,0 +1,41 @@
+DECISÃO
+    Trata-se de Recurso Extraordinário interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (Vol. 7, fl. 2):
+    “DESAPROPRIAÇÃO. Fase de execução. Pedido de recálculo do montante devido com aplicação da Lei nº 11.960/09 e exclusão dos juros nos termos da Súmula Vinculante n. 17. INADMISSIBILIDADE. Impossibilidade de aplicação da Lei nº 11.960/09 quanto à correção monetária, em face da inconstitucionalidade declarada pelo STF ao julgar as ADIns 4.357 e 4.425. Inadimplemento que desatende o previsto na Súmula Vinculante. Decisão confirmada. Agravo não provido.”
+    Opostos Embargos de Declaração, foram rejeitados (Vol. 11).
+    No Apelo Extremo (Vol. 16), interposto com fundamento no art. 102, III, “a”, da CF/1988, a parte recorrente alega que houve violação aos artigos 78 do ADCT; 100, §5º, da Constituição, à Súmula Vinculante 17 e ao entendimento fixado no Tema 132 (RE 590.571-RG), pois:
+    (a) não há falar em preclusão ou violação à coisa julgada, pois as mudanças nas regras de atualização e cômputo de juros autorizam a revisão do que foi estatuído;
+    (b) “embora as disposições do artigo 78 do ADCT/CF tenham sido declaradas inconstitucionais na apreciação das ADI's n.ºs 2.356 e 2.362, por decisão do Plenário do STF de eficácia erga omnes e efeitos ex nunc (proferida em 25 de novembro de 2010 e publicada em 09 de dezembro de 2010), houve modulação de seus efeitos no julgamento do RE n.º 590.751/SP, que estabeleceu a interpretação do alcance do referido dispositivo, pelo período em que esteve em vigor” (Vol. 16, fl. 14);
+    (c) “[...] no parcelamento de precatório, como é o caso dos autos, este Supremo Tribunal Federal já pacificou entendimento de que incidem juros apenas em relação a eventuais parcelas pagas com atraso” (Vol. 16, fl. 16);
+    (c) “em caso de não pagamento, deve haver o cômputo de juros somente depois de vencido o prazo (e não desde o início, como se fez, contrariando a Súmula e a própria lógica do instituto da mora, que não se coaduna com a aplicação retroativa realizada)” (Vol. 16, fl. 17); e
+    (d) “[...] no julgamento do citado RE n.º 591.085-7, de repercussão geral, foram igualmente excluídos os juros de mora no interregno de dezoito meses compreendido entre a expedição do precatório e seu vencimento (...)” (Vol. 16, fl. 18).
+    Sem contrarrazões (Vol. 18).
+    É o relatório. Decido.
+    Reputam-se preenchidos todos os pressupostos de admissibilidade do apelo extremo, razão pela qual passo à análise do mérito.
+    O recurso merece ser provido.
+    No julgamento do Tema 132 (RE 590.751, Rel. Min. RICARDO LEWANDOWSKI), a seguinte tese de repercussão geral foi consolidada por este SUPREMO TRIBUNAL FEDERAL:
+    “O art. 78 do Ato das Disposições Constitucionais Transitórias possui a mesma mens legis que o art. 33 desse Ato, razão pela qual, uma vez calculado o precatório pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência desses nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo e corrigidas monetariamente.”
+    Ainda, esta CORTE, no julgamento do RE 1.169.289-RG (Tema 1037, Relator Min. MARCO AURÉLIO, Redator do Acórdão Min. ALEXANDRE DE MORAES, DJe de 1º/7/2020), fixou a seguinte tese: :
+    “O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o ‘período de graça’.”
+    Eis ementa do julgado:
+    “RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TEMA 1037. CONSTITUCIONAL. ADMINISTRATIVO. JUROS DE MORA. INCIDÊNCIA NO PERÍODO COMPREENDIDO ENTRE A DATA DA EXPEDIÇÃO DO PRECATÓRIO OU DA REQUISIÇÃO DE PEQUENO VALOR (RPV) E O EFETIVO PAGAMENTO. IMPOSSIBILIDADE.
+    1. Em 10/11/2009, a jurisprudência do SUPREMO TRIBUNAL FEDERAL no sentido de que, “durante o período previsto no parágrafo 1º do artigo 100 da Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos” atingiu o mais elevado grau de consolidação, consubstanciando o Enunciado 17 da Súmula Vinculante desta CORTE.
+    2. Pouco após, em 9/12/2009, foi promulgada a Emenda Constitucional 62, que promoveu ampla reformulação no art. 100 da Constituição, o qual versa sobre o regime de precatórios.
+    3. Não obstante a norma à qual se refere a SV 17 tenha sido deslocada do parágrafo 1º para o parágrafo 5º do art. 100, tal modificação não altera o sentido do enunciado sumular - que, aliás, não foi afetado por qualquer disposição da Emenda 62.
+    4. O período previsto no art. 100, parágrafo 5º, da Constituição (precatórios apresentados até 1º de julho, devendo ser pagos até o final do exercício seguinte) costuma ser chamado de “período de graça constitucional”.
+    5. Nesse interregno, não cabe a imposição de juros de mora, pois o ente público não está inadimplente.
+    6. Caso não haja o pagamento integral dentro deste prazo, os juros de mora passam a correr apenas a partir do término do “período de graça”.
+    7. Recurso extraordinário a que se nega provimento. Tese de repercussão geral: "O enunciado da Súmula Vinculante 17 não foi afetado pela superveniência da Emenda Constitucional 62/2009, de modo que não incidem juros de mora no período de que trata o § 5º do art. 100 da Constituição. Havendo o inadimplemento pelo ente público devedor, a fluência dos juros inicia-se após o 'período de graça'.”
+    Além disso, o STF já decidiu que a imposição de juros moratórios firmada na sentença com trânsito em julgado não impede a incidência da jurisprudência do SUPREMO TRIBUNAL FEDERAL, que afastou a caracterização da mora no prazo constitucional para pagamento de precatórios. Nesse sentido, citem-se os seguintes julgados:
+    “EMENTA: AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL E CONSTITUCIONAL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. JUROS MORATÓRIOS. SÚMULA VINCULANTE N. 17 DO SUPREMO TRIBUNAL FEDERAL. OFENSA À COISA JULGADA. INEXISTÊNCIA. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA. INEXISTÊNCIA DE DIVERGÊNCIA ENTRE ACÓRDÃO EMBARGADO E ACÓRDÃO PARADIGMA: ART. 332 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+    (RE 1179915 AgR-ED-EDv-AgR, Relator(a): CÁRMEN LÚCIA, Tribunal Pleno, julgado em 07/12/2020, PROCESSO ELETRÔNICO DJe-021 DIVULG 03-02-2021 PUBLIC 04-02-2021)”
+    “DIREITO CONSTITUCIONAL. SEGUNDO AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. PRECATÓRIO. JUROS MORATÓRIOS NO PRAZO PREVISTO NO ART. 100, § 5º, DA CONSTITUIÇÃO FEDERAL. SÚMULA VINCULANTE 17. INEXISTÊNCIA DE VIOLAÇÃO À COISA JULGADA. 1. O Supremo Tribunal Federal já assentou que a condenação ao pagamento de juros moratórios firmada na sentença com trânsito em julgado não impede a incidência da jurisprudência deste Supremo Tribunal Federal, que afastou a caracterização da mora no prazo constitucional para pagamento de precatórios (AI 850.091-AgR, Relª. Minª. Cármen Lúcia). Precedentes. 2. Inaplicável o art. 85, § 11, do CPC, uma vez que não houve prévia fixação de honorários advocatícios de sucumbência. 3. Agravo interno a que se nega provimento”. (RE 544.033- AgRsegundo, Rel. Min. ROBERTO BARROSO, Primeira Turma, DJe de 22/5/2018)
+    O acórdão recorrido divergiu desse entendimento, razão pela qual deve ser reformado.
+    Diante do exposto, com base no art. 21, §§ 1º e 2º, do Regimento Interno do Supremo Tribunal Federal, DOU PROVIMENTO AO RECURSO EXTRAORDINÁRIO, para determinar a exclusão dos juros moratórios sobre as parcelas adimplidas a tempo e corrigidas monetariamente, nos termos das teses de repercussão geral fixadas nos Temas 132 e 1037.
+    Ficam AMBAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 11 de março de 2021.
+Ministro ALEXANDRE DE MORAES
+Relator
+Documento assinado digitalmente
