@@ -1,0 +1,68 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por MB ENGENHARIA SPE 040 S.A. contra decisão do Tribunal de Justiça do Distrito Federal e dos Territórios que não admitiu recurso especial manejado contra acórdão assim ementado:
+"Compra e venda de imóvel em construção. Atraso na entrega da obra. Rescisão do contrato. Restituição de valores pagos. Cláusula penal moratória. Lucros cessantes. Cumulação. Comissão de corretagem. Honorários.
+1 -Atraso na liberação de alvará de construção, inerente ao risco da atividade exercida pelas empresas que atuam na construção civil, não afasta a obrigação de entregar o imóvel no prazo estipulado no contrato.
+2 - Havendo atraso na entrega de imóvel por culpa da construtora, procede o pedido de rescisão do contrato, com o retorno das partes ao estado anterior e devolução, ao comprador, dos valores pagos pelos promitentes compradores.
+3 - Para que se restitua em dobro valor cobrado indevidamente, necessária a demonstração de má-fé de quem cobra.
+4 -Se a rescisão é motivada pela inadimplência da promitente vendedora, não há direito a retenção de qualquer valor, a título de cláusula penal compensatória.
+5 - Na hipótese de rescisão do contrato por inadimplência da promitente vendedora, admite-se a condenação dessa na multa penal prevista no contrato em favor do consumidor, que incide sobre o valor efetivamente pago por esse, e não sobre o valor do contrato.
+6 - Não é acumulável indenização a título de lucros cessantes com multa penal estipulada no contrato. Ambas têm natureza indenizatória.
+7 -Fixados os honorários no percentual mínimo previsto no art. 85, § 2º, do CPC - 10% (dez por cento) do valor da condenação, inviável sua redução.
+8 - Apelação dos autores não provida. Provida, em parte, a da ré." (grifo nosso) (e-STJ, fl. 331).
+Os embargos de declaração opostos (e-STJ, fls. 339-345) foram rejeitados (e-STJ, fls. 373-378).
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 393, 408, 411, 421 e422 do Código Civil.
+Requer a reforma do acórdão por entender, em síntese, que: (i) "tendo em vista a ocorrência de caso fortuito no caso sub examine, o prazo para a entrega do imóvel restou naturalmente estendido para além do contratualmente previsto, não podendo a apelante serem obrigadas a responderem por prejuízo a que claramente não deram causa" (e-STJ, fl. 389); (ii) "o pedido de rescisão deve ser operado nos termos da cláusula do contrato firmado (cláusula 5.4), a qual dispõe expressamente os percentuais que o comprador perderá em favor da vendedora, a título de perdas e danos e despesas, em caso de rescisão do contrato" (e-STJ, fl. 391) e (iii)"proposta a demanda e realizada a rescisão contratual, não podem os compromissários compradores virem a juízo pleitear o pagamento de multa contratual, uma vez que esta somente é exigível com a manutenção do contrato, o que não ocorreu no caso em tela, uma vez que decretada a rescisão do contrato" (e-STJ, fl. 392).
+As recorridas deixaram de apresentarcontrarrazões(e-STJ, fl. 401).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ, fls. 403/404), o que ensejou a interposição do presente agravo.
+É o relatório.
+O presente recurso não merece ser integralmente conhecido.
+Inicialmente, verifica-se que o Tribunal a quo negou seguimento ao recurso especial, nos termos do art. 1.030, inciso I, alínea "b", do CPC/2015, em razão da aplicação do entendimento firmado no Tema 577.
+Observa-se, ainda, que a decisão de admissibilidade do recurso especial foi publicada em 09/06/2020, quando já se encontrava em vigor o Código de Processo Civil de 2015, o qual prevê, em seu artigo 1.030, §2º, que, uma vez negado seguimento ao recurso especial na instância de origem ante a conformidade do entendimento exarado pelo acórdão recorrido com aquele firmado em julgamento repetitivo por esta Corte Superior, a irresignação da parte deve se dar por meio de agravo interno, previsto no art. 1.021 do CPC/2015.
+Contudo, percebe-se que, em face da decisão que inadmitiu o recurso especial com base no art. 1.030, inciso I, alínea "b", do CPC/2015, foi interposto agravo em recurso especial.
+Nessa esteira, destaca-se que a Terceira Turma deste Superior Tribunal, no julgamento do AREsp 959.991/RS, Rel. Ministro Marco Aurélio Bellizze, em 16/08/2016, assentou que, quando a Corte de origem inadmitir o recurso especial com base em recurso repetitivo, a interposição de agravo em recurso especial constituirá erro grosseiro.
+Insta reproduzir a ementa do referido precedente:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. INTERPOSIÇÃO CONTRA DECISÃO PUBLICADA NA VIGÊNCIA DO CPC/2015. 1. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA (CPC/2015, ART 932, III). NECESSIDADE. 2. PARTE DO RECURSO ESPECIAL NÃO ADMITIDA NA ORIGEM PORQUE AS MATÉRIAS FORAM JULGADAS SEGUNDO O RITO DO ART. 543-C DO CPC: TAXA DE JUROS REMUNERATÓRIOS CONTRATADOS. CAPITALIZAÇÃO MENSAL DE JUROS. NÃO CABIMENTO DO AGRAVO NESSES PONTOS (CPC/2015, ART. 1.042). 3. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. CARACTERIZAÇÃO. 4. RECURSO CONHECIDO APENAS QUANTO À ALEGADA VIOLAÇÃO DO ART. 535 DO CPC/73. MÉRITO. AFASTAMENTO. 5. AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR PROVIMENTO AO RECURSO ESPECIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§ 8º E 11, DO CPC/2015.
+1. Com o advento do Código de Processo Civil de 2015 passou a existir expressa previsão legal no sentido do não cabimento de agravo contra decisão que não admite recurso especial quando a matéria nele veiculada já houver sido decidida pela Corte de origem em conformidade com recurso repetitivo (art. 1.042, caput). Tal disposição legal aplica-se aos agravos apresentados contra decisão publicada após a entrada em vigor do Novo CPC, em conformidade com o princípio tempus regit actum.
+2. A interposição do agravo previsto no art. 1.042, caput, do CPC/2015 quando a Corte de origem o inadmitir com base em recurso repetitivo constitui erro grosseiro, não sendo mais devida a determinação de outrora de retorno dos autos ao Tribunal a quo para que o aprecie como agravo interno.
+3.  ..
+4. Agravo parcialmente conhecido para, nessa extensão, negar provimento ao recurso especial, com majoração dos honorários advocatícios, na forma do art. 85, §§ 8º e 11, do CPC/2015. (grifo nosso).
+Na hipótese, portanto, como a decisão agravada foi publicada já na vigência do atual Código de Processo Civil, resta inviabilizada a aplicação do princípio da fungibilidade, uma vez que não há dúvidas objetivas acerca do recurso cabível.
+Destarte, mostra-se cristalino que o presente recurso não merece conhecimento, quanto a matéria repetitiva, por ser inadmissível a interposição de agravo em recurso especial obstado com base em recursos repetitivos.
+Inviável, pois, a pretensão da parte agravante.
+Atendidos os pressupostos de conhecimento parcial do agravo em recurso especial, passo à análise do recurso especial.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15, conforme Enunciado Administrativo n. 3/STJ.
+Ato contínuo, verifico que a irresignação não merece prosperar.
+A recorrente alega, em suas razões recursais, que: "A multa fixada pelo Juízo a quo não deve ser aplicada ante a ocorrência de caso fortuito/força maior" (e-STJ, fl. 389).
+Dessa forma, no tocante as alegações acima aludidas, o Tribunal a quo, após exame do conjunto fático-probatório acostado aos autos assentou que:
+"A ré sustenta que o atraso na entrega do imóvel foi por motivo de força maior, decorrente do embargo da obra pela Administração Pública.
+Caso fortuito e força maior decorrem de fato necessário, cujos efeitos não eram possíveis de evitar ou impedir (art. 393, § único, CC).
+As exigências feitas pela Administração Pública para expedir alvará de construção não isentam a construtora da responsabilidade de entregar a obra no prazo estipulado no contrato.
+Atraso na liberação de alvará de construção é inerente ao risco da atividade da construtora. Não pode ser considerado como causa para o atraso de meses na entrega da obra." (grifo nosso)(e-STJ, fl. 333).
+Além disso, a recorrente alega que: "não podem os compromissários compradores virem a juízo pleitear o pagamento de multa contratual, uma vez que esta somente é exigível com a manutenção do contrato, o que não ocorreu no caso em tela, uma vez que decretada a rescisão do contrato" (e-STJ, fl. 392).
+Sobre isso, o Tribunal de origem entendeu que:
+"O inadimplemento da Ré justifica a rescisão do contrato, com o retorno das partes ao estado anterior, e indenização por perdas e danos (art. 475, CC)" (grifo nosso) (e-STJ, fl. 333).
+E que:
+"Cláusula penal ou pena convencional -- que se estipula para o caso de uma das partes não cumprir a obrigação -- tem como finalidade obrigar ao cumprimento da obrigação principal e fixar previamente as perdas e danos para a hipótese de descumprimento.
+Na hipótese, a culpa pela rescisão do contrato é da ré, que não entregou o imóvel no prazo estipulado no contrato" (grifo nosso) (e-STJ, fl. 334).
+Assim, para acolher as alegações darecorrente e afastar as premissas assentadas pelo Tribunal de origem no que concerne a ocorrência de caso fortuitoe ausência de responsabilidadeda ré, seria necessário revolver o arcabouço fático-probatório dos autos, o que se mostra inviável na via especial, a teor do preconizado pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL E CIVIL. CONTRATO DE COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. FORÇA MAIOR. NÃO CONFIGURAÇÃO. MULTA POR RESCISÃO CONTRATUAL POR INADIMPLEMENTO. CABIMENTO. ANÁLISE. INTERPRETAÇÃO DAS CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. VEDAÇÃO. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. ÔNUS DA SUCUMBÊNCIA, PRINCÍPIO DA CAUSALIDADE E HONORÁRIOS ADVOCATÍCIOS. ANÁLISE. REEXAME DE PROVAS. VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. A conclusão a que chegou o Tribunal de origem, no sentido de que não se configurou nenhum motivo excludente de força maior previsto no contrato apto a causar o atraso na entrega do imóvel, ensejando a multa por rescisão contratual por inadimplemento, também prevista no instrumento, decorreu de convicção formada em face do contrato celebrado entre as partes e dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente na interpretação das cláusulas contratuais e no reexame de provas, o que é vedado nesta fase recursal. Incidência das Súmulas 5 e 7/STJ.
+2. O STJ possui entendimento uniforme no sentido de que a análise sobre a distribuição do ônus da sucumbência, a aplicação do princípio da causalidade e o valor dos honorários advocatícios demanda o reexame do conjunto fático-probatório, o que é inviável nesta via especial. Incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+(grifo nosso) (AgInt no AgInt no AREsp 1628525/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL NA PLANTA.CONTRATO DE COMPRA E VENDA. ATRASO. CASO FORTUITO. FORÇA MAIOR.SÚMULA Nº 7/STJ. RESCISÃO CONTRATUAL. PERCENTUAL DE RETENÇÃO.CLÁUSULAS CONTRATUAIS. PROVAS. REEXAME. INVIABILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Esta Corte já se pronunciou em inúmeras oportunidades no sentido de que rever as conclusões da Corte local para afirmar pela ocorrência de fatos extraordinários e imprevisíveis, enquadrando-se como hipóteses de caso fortuito ou força maior, esbarra no óbice da Súmula nº 7/STJ.
+2. A reforma do julgado demandaria interpretação de cláusulas contratuais e reexame do contexto fático-probatório, procedimentos vedados na estreita via do recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+3. Agravo interno não provido.
+(grifo nosso) (AgInt no AREsp 969.986/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 07/02/2017, DJe 14/02/2017)
+Portanto, não há como se conhecer o pedido do recurso especial ante a necessidade de reexamefático-probatóriodos elementos constantes dos autos.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, §11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 12% sobre o valor atualizado da condenação (e-STJ, fl. 336), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 14%sobre o valor atualizado da condenação é medida adequada ao caso, observada a eventual anterior concessão da gratuidade judiciária.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço parcialmente do agravo para não conhecer do recurso especial, com majoração de honorários.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. TEMA 577. AGRAVO PARCIALMENTE CONHECIDO. RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. NÃO OCORRÊNCIA DE CASO FORTUITO. RESPONSABILIDADEDA PROMITENTE VENDEDORA. CABIMENTO DE INDENIZAÇÃO. REVISÃO.IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7 DO STJ.
+RECURSO ESPECIAL NÃO CONHECIDO.
