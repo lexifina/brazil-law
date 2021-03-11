@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Felix Fischer, Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Paulo de Tarso Sanseverino votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF.OFENSA AOPRINCÍPIODA INAFASTABILIDADE DE JURISDIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 895/STF.PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2.A alegada violação aos princípios da inafastabilidade de jurisdição, da dignidade da pessoa humana, da legalidade e da propriedade, por implicar ofensa indireta à Constituição Federal ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+3. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência deste Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral (Tema 181/STF).
+4. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por APARECIDA ROCHA SOAREScontra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 694):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. TEMAS 895 E 181 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+Sustenta a agravante que a decisão impugnada é equivocada e alheia à realidade do caso concreto, não sendo aplicáveis na espécie os Temas 339, 895 e 181 do Supremo Tribunal Federal, pois o recurso extraordinário apresentado não trata especificamente de negativa de fundamentação do acórdão recorrido, nem questiona a inafastabilidade da jurisdição ou discute tema recursal.
+Aduz que o apelo extremo está centrado na violação do princípio da reserva material, pois, ao não aceitar a Reclamação proposta para garantir a observância de seus julgados proferidos em recursos especiais repetitivosviolados por Turma Recursal, este Superior Tribunal de Justiça não recebe como válido e eficaz o novo conjunto normativo previsto no Código de Processo Civil, "invadindo, por improdutiva exegese negativa, a competência material assegurada ao Poder Legislativo para inovar na ordem jurídica" (e-STJ fl. 704).
+Alega que, ante o cumprimento dos requisitos do art. 988, § 5º, incisos I e II, parte final e § 6º, do CPC, este Sodalício deveria receber a Reclamação.
+Requer o provimento do agravo a fim de que o recurso extraordinário seja remetido ao STF.
+Não foram apresentadas contrarrazões (certidão de e-STJ fl. 735).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF.OFENSA AOPRINCÍPIODA INAFASTABILIDADE DE JURISDIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 895/STF.PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2.A alegada violação aos princípios da inafastabilidade de jurisdição, da dignidade da pessoa humana, da legalidade e da propriedade, por implicar ofensa indireta à Constituição Federal ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+3. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência deste Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral (Tema 181/STF).
+4. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 29.9.2020 (e-STJ fl. 701), cumpre atestar a tempestividade da insurgência, pois interposta no dia 07.10.2020 (e-STJ fls. 703 e 729), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pelaagravante, a decisão monocrática deve ser mantida.
+Isso porque, ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag nº 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118)
+Na espécie, da leitura da decisão questionada, constata-se que foram declinadas as razões pelas quais o agravo interno foi desprovido,valendo destacar oseguinteexcertodojulgado(e-STJ fls. 578/584):
+"O Agravo Interno não merece prosperar.
+Conforme já disposto no decisum combatido:
+Inicialmente, lembre-se que aReclamação interposta com base no art. 988, IV, do CPC/2015, não é instrumento útil para adequar as decisões reclamadas aos julgados do STJ proferidos em Recurso Especial repetitivo, conforme se depreende da redação dada pela Lei 13.256/2016:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei 13.256/2016)
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei 13.256/2016)
+A redação original do supracitado inciso IV previa o cabimento da Reclamação para "garantir a observância de enunciado de súmula vinculante e de precedente proferido em julgamento de casos repetitivos ou em incidente de assunção de competência". No entanto, tal dispositivo foi alterado pela Lei 13.256/2016, limitando-se a hipótese à garantia de observância de acórdão proferido em julgamento de Incidente de Resolução de Demandas Repetitivas (IRDR) ou de Incidente de Assunção de Competência (IAC).
+Ressalte-se, ademais, que a interposição da Reclamação na forma do § 5º do art. 988, do CPC/15, em razão da suposta contrariedade a recurso firmado sob o rito dos repetitivos, é possível unicamente quando esgotadas as instâncias ordinárias e, mesmo assim, desde que não se dê como sucedâneo recursal e a decisão do STJ tiver sido desrespeitada na instância de origem.
+Essa é a compreensão da Primeira Seção do STJ, como se depreende dosseguintes julgados:
+ ..
+É assente no STJ que a Reclamação é ação de natureza constitucional, que visa preservar a competência desta Corte, garantir a autoridade de suas decisões e a observância de julgamento proferido em IRDR e IAC, sendo vedado o seu emprego como sucedâneo recursal.
+A propósito:
+ ..
+Diante do exposto, nos termos do art. 34, XVIII, "a", do RI/STJ, indefiro liminarmente a Reclamação.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno."
+E, no julgamento dos embargos de declaração opostos, foi consignado (e-STJ fl. 627):
+"Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando nenhuma das hipóteses do art. 1.022 do CPC/2015.
+Ademais, os Embargos de Declaração, ante a ausência de omissão, obscuridade ou contradição no acórdão embargado, não constituem instrumento adequado ao prequestionamento com vistas à interposição de Recurso Extraordinário. Nesse sentido: EDcl nos EDcl no AgRg no REsp 1.009.635/DF, Rel. Ministro Castro Meira, Segunda Turma, DJe 24.9.2009; EDcl no AgRg nos EDcl no Ag 1.118.983/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 19.8.2010.
+Portanto, a controvérsia foi solucionada de forma a responder a todos os argumentos trazidos pela parte embargante, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+Diante do exposto, rejeito os Embargos de Declaração."
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Por outro lado,éassente na Suprema Corteo entendimento de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema 895/STF).
+Essa tese foi estabelecida pelo Supremo Tribunal Federal no julgamento do RE n. 956.302/GO, que restou assim ementado:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE 956.302/GO RG, Relator(a): Min. EDSON FACHIN, julgado em 19/05/2016, PROCESSO ELETRÔNICO DJe-124 DIVULG 15-06-2016 PUBLIC 16-06-2016)
+Na ocasião, o eminente Relator, Ministro Edson Fachin, consignou que, "igualmente, colhe-se da jurisprudência desta Corte o reconhecimento uníssono de que são destituídos de repercussão geral temas correlatos dignidade da pessoa humana, legalidade, propriedade, acesso à Justiça, devido processo legal e consectários, todos demandando o reexame de legislação infraconstitucional e o contexto fático específico de sua incidência, o que leva à conclusão de que o caso não transcende os interesses subjetivos da causa, por constituir-se peculiar situação jurídica que não prescinde dos elementos específicos da discussão em concreto".
+Na espécie, a violação do art.5º, inciso XXXV, da Constituição Federal é reflexa, pois depende da análise do art. 988,§ 5º, incisos I e II, parte final e § 6º, do CPC.
+Finalmente, observa-se que o acórdão objeto do recurso extraordinário manteve a decisão monocrática que indeferiu liminarmente a Reclamação, tendo em vista a ausência de preenchimento dos seus pressupostos de admissibilidade, não sendo possível sua utilização nesta Superior Instância como sucedâneo recursal.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBJETO RECURSAL REJEITADO PELO STF. RE 598.365-RG/MG (TEMA 181). QUESTÃO CONSTITUCIONAL IMPUGNADA ORIGINARIAMENTE. NÃO OCORRÊNCIA. PRECLUSÃO. 1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, tema 181, por se tratar de questão infraconstitucional. 2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada em momento próprio, sob pena de preclusão, apenas sendo admissível recurso extraordinário de acórdão de recurso especial quando, no julgamento deste, originar-se a matéria constitucional impugnada. Precedentes. 3. Agravo interno a que se nega provimento.
+(ARE 768.691 ED, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/06/2018, PROCESSO ELETRÔNICO DJe-153 DIVULG 31-07-2018 PUBLIC 01-08-2018)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO. 1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365). 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação dos artigos da Constituição Federal aventada no recurso extraordinário.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
