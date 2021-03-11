@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+GESIVALDO NASCIMENTO BRITTO requer, às e-STJ fls. 16.211-16.213, a correção da certidão de e-STJ fl. 15.723 para que seja atestada a tempestividade da sua manifestação de e-STJ fls. 15.538-15.543.
+É o breve relatório.
+Em 9/10/2020, concedi prazo adicional de 5 dias para que os réus complementassem suas defesas prévias, anotando que,"em razão da disponibilização de documentos novos aos réus, e com a finalidade de evitar eventual alegação de nulidade por cerceamento de defesa, concedo aos acusados prazo de 5 dias para, querendo, complementarem suas defesas prévias, contados da intimação, por publicação, dos advogados constituídos nos autos" (e-STJ, fls. 15.169-15.173).
+A intimação, por publicação, dos advogados constituídos ocorreu em 15/10/2020 (e-STJ, fl. 15.181).
+O peticionante, no entanto, só apresentou sua manifestação em 26/10/020 (e-STJ fls. 15.538-15.543), portanto em situação de manifesta intempestividade, conforme atesta o seguinte trecho da certidão da Coordenadoria da Corte Especial: "certifico, ainda, que a complementação de Gesilvaldo Nascimento Britto (fls. 15538/15543) ocorreu fora daquele prazo, que fluiu do dia 16.10.2020 até 20.10.2020" (e-STJ, fl. 15.723).
+Na presente petição, a defesa do acusado alega que "somente obteve acesso aos documentos, em relação aos quais se manifestou, no dia 20 de outubro de 2020, consoante certidão de fl. 15542".
+No entanto, conforme acima exposto, a decisão deste Relator foi explícita ao estabelecer que o prazo adicional seria contado da intimação dos advogados constituídos nos autos, e não do pedido de cópia dos documentos, realizado pela defesa de cada réu.
+Caberia, portanto, à defesa do acusado diligenciar, com a maior brevidade possível, no sentido de obter as cópias dos novos documentos para, em seguida, respeitando o prazo de 5 dias, apresentar sua manifestação, se assim o pretendesse.
+Havendo eventual dificuldade para o cumprimento da determinação judicial, caberia à defesa do acusado apresentar suas razões e requerer dilação do prazo, desde que dentro do prazo de 5 dias inicialmente concedido.
+Nesses termos, a postura do acusado de aguardar passivamente o transcurso do lapso temporal e apresentar sua manifestação somente 11 dias após a sua intimação não se coaduna com os princípios processuais da boa-fé e da cooperação (arts.5º e 6º do CPC), nem com o postulado constitucional da razoável duração do processo (art. 5º, LXXVIII).
+Nada obstante o acima exposto, em virtudeda complexidade dos crimes apurados e da vasta gama de elementos probatórios amealhados no curso da investigação, entendo - ainda que por outro fundamento - que o pleito pode ser deferido, no sentido de considerar válida, para todos os efeitos, a manifestação da defesa de GESIVALDO NASCIMENTO BRITTO de e-STJfls. 15.538-15.543.
+Publique-se. Intimem-se.
