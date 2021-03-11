@@ -1,0 +1,35 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO interpõe recurso especial, com fulcro no art. 105, III, "a", da CF, em face de acórdão proferido pelo Tribunal local no Agravo em Execução n. 0003994-60.2020.8.26.0026, o qual determinou a aplicação do percentual de 40% da pena para progressão de regime.
+O recorrente alega que "ao não mencionar reincidência ESPECÍFICA na prática de crimes hediondos ou assemelhados na redação dada ao inc. VII do art. 112, o legislador deixou clara sua intenção de exigir o cumprimento de 60% da pena para aqueles que cometam crime hediondo ou assemelhado, sendo reincidentes pela prática de qualquer crime anterior" (fl. 88).Pugna pelo restabelecimento do cálculo da pena elaborado em primeira instância.
+O Ministério Público Federal manifestou-se pelo provimento do recurso (fls. 118-122).
+Decido.
+A Corte de origem se pronunciou nos seguintes termos sobre o tema (fls. 57-60, grifei):
+Com efeito, da ficha juntada aos autos, depreende-se que o agravante, reincidente doloso, foi condenado, nos autos do Processo nº 0000371-47.2016.8.26.0278, pela prática do delito descrito no art. 33, caput, da Lei nº 11.343/06, já tendo sido anteriormente condenado como incurso no art. 157, §2º, II, do CP (fls. 09/17).
+E embora se trate o crime de tráfico de drogas de delito equiparado a crime hediondo, o crime anterior pelo qual fora condenado, qual seja, o de roubo majorado, é considerado crime comum.
+Diante de tal constatação, sustenta a combativa defesa a aplicação da nova redação do art. 112, V, da LEP, que dispõe sobre a progressão para condenados por crime hediondo ou equiparado, se primário aduzindo que a redação do inciso VII do mencionado artigo tutela hipótese de sentenciado reincidente específico em crime hediondo ou equiparado, que não é o caso doagravante.
+Tal raciocínio, em detida análise, merece subsistir.
+Isso porque, como explanado, apesar de estabelecidos percentuais distintos para a progressão, as alterações legislativas se evidenciam omissas no tocante à situação do agravante, reincidente, mas não específico em crime hediondo ou equiparado.
+É certo que o novo regramento trazido pelo art. 112, V, da LEP destina-se aos condenados primários; no entanto, o disposto no art. 112, VII, da LEP menciona a reincidência em crime hediondo ou equiparado exigindo o lapso temporal de 60%, de acordo com a interpretação literal da norma, apenas para reincidentes específicos, qual seja, reincidentes em crimes de natureza hedionda ou equiparada.
+Nesse raciocínio, ao apenado reincidente simples - condenado pela prática de crime comum e delito hediondo - no cálculo das penas, na ausência de previsão legal expressa, somente resta adotar o percentual de 40%, constituindo o novo diploma legal em novatio legis in mellius, aplicando-se de forma imediata ao presente caso.
+ ..
+Nesses termos, tratando-se de sentenciado reincidente, porém não específico em crimes hediondos ou equiparados, de rigor a retificação dos cálculos elaborados, aplicando-se o percentual mais benéfico ao agravante.
+O entendimento do Tribunal a quo está de acordo com a atual jurisprudência desta Corte.
+A esse respeito, é imperioso ressaltar que, após as alterações promovidas pela Lei n. 13.964/2019, tornaram-se cruciais, para a avaliação do lapso de progressão de regime, fatores além da hediondez - quais sejam, ocorrência ou não do resultado morte e primariedade, reincidência genérica ou, ainda, reincidência específica do apenado.
+Na hipótese, o apenado foi condenado por crime comum e por crime hediondo, de modo que se trata de reincidente genérico. Todavia, os patamares definidos pela legislação atual não contemplam tal hipótese, ou seja, há uma lacuna legal.
+Nos termos do art. 112, V, VI, "a", e VII, da Lei de Execução Penal:
+ ..
+ a  pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for: a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;
+ ..
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado.
+Dessa forma, tendo em vista que a lei não dispõe sobre o lapso de progressão para condenado pela prática de crime hediondo e reincidente genérico, é necessário suprir a lacuna legal, o que se dá por meio da aplicação do patamar referente ao condenado primário, pois o percentual de 50% se destina aos delitos hediondos que resultam em morte da vítima, diferentemente dos autos, além do fato de o patamar de 60% fazer referência apenas aos reincidentes específicos, situação também diversa da apresentada.
+Urge consignar:
+ o  ato jurídico perfeito e a retroatividade da lei penal mais benéfica são direitos fundamentais de primeira geração, previstos nos incisos XXXVI e XL do art. 5º da Constituição Federal. Por se tratarem de direitos de origem liberal, concebidos no contexto das revoluções liberais, voltam-se ao Estado como limitadores de poder, impondo deveres de omissão, com o fim de garantir esferas de autonomia e de liberdade individual(HC n. 583.837/SC, Rel.Ministro Sebastião Reis Júnior, 6ª T., DJe 12/8/2020).
+Assim, dadas as ponderações acima, concluo que a hipótese em análise trata de lei penal mais benéfica ao apenado, de forma que é mister o reconhecimento de sua retroatividade, dado que o percentual por ela estabelecido - qual seja, de 40% das reprimendas impostas -é inferior à fração de 3/5, anteriormente exigida para a progressão de condenados por crimes hediondos, sejam reincidentes genéricos, sejam específicos.
+Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, "com a alteração promovida pela Lei 13.964/2019 (Pacote Anticrime), o legislador trouxe novas nuances ao tema, pois ao revogar o art. 2º, § 2º da Lei n.8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime, modificando também o art. 112 da Lei de Execução Penal" (HC n. 607.190/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/10/2020).
+Na oportunidade, o Ministro relator salientou que:
+ ..  n o caso dos autos, o paciente, que não é primário, não se enquadra nos exatos termos do inciso V, tampouco seu caso se amolda ao inciso VII, uma vez que não é reincidente na prática de crime hediondo ou equiparado. Desse modo, forçoso reconhecer que, diante das duas situações, em obediência ao princípio do favor rei, ao paciente se deve aplicar a norma penal mais benéfica, no caso a incidência do percentual de 40% previsto no inciso V do art. 112 da Lei 7.210/1984 para fins de progressão de regime.
+À vista do exposto, nego provimento ao recurso especial.
+Publique-se e intimem-se.
