@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por CENTRAL LUZ MATERIAIS ELÉTRICOS EIRELI-EPP. contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, no qual alega violação do art. 85 do CPC/2015, ao argumento de que, "não sendo possível mensurar o proveito econômico obtido, a condenação em honorários dar-se-á sobre o valor atualizado da causa e, não, com apreciação equitativa" (fl. 215).
+Contrarrazões apresentadas pela Fazenda Nacional, nas quais pede o desprovimento do recurso (fls. 309/313).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+O recurso se origina de ação ajuizada pela sociedade empresária recorrente contra a União Federal, objetivando: "a procedência da presente demanda, a fim de declarar o direito da Autora em não ser submetida à compensação de ofício dos créditos apurados a título de indébitos ou retenções previdenciárias sobre Notas Fiscais/Faturas de Prestação de Serviços com débitos do SIMPLES NACIONAL, parcelados, vincendos ou que estejam com a exigibilidade suspensa, e a condenação da Autora em promover o cancelamento das compensações de ofício que nestes termos tenham sido promovidas e, em abster-se de promover a retenção dos créditos reconhecidos e a promover a imediata liberação para pagamento do valor total reconhecido e de forma devidamente atualizada" (fl. 13).
+No primeiro grau, os pedidos foram julgados procedentes (fls. 117/123):
+ ..  : (a) declarar o direito de o autor não ser submetido à compensação de ofício com débitos oriundos do Simples Nacional, que estejam com a exigibilidade suspensa, ainda que parcelados sem garantia; (b) determinar que a ré proceda aos trâmites para o efetivo ressarcimento e liberação dos créditos reconhecidos nos pedidos de restituição nº 11040.721169/2014-51, 11040.721177/2016-69,11040.721176/2016-14 e 11040.721173/2016-81, corrigidos pela variação da Taxa Selic, a contar da data do protocolo administrativo do pedido de restituição. Condeno a União federal ao pagamento de honorários advocatício sem favor do patrono da autora que arbitro em R$ 5.000,00 (cinco mil reais), com fulcro no art. 85, § 8º, do CPC, devendo esse valor se corrigido a contar de hoje pelo IPCA-E.
+Em sede de apelação, o TRF manteve a sentença. Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 189/194):
+Cinge-se a controvérsia à possibilidade da demandante afastar a pretensão da União de, com base no art. 73 da Lei n.º 9.430, de 1996, realizar compensação de ofício com créditos tributários parcelados (Simples Nacional), bem como obter a liberação dos referidos valores já deferidos pelo Fisco, atualizados pela Selic.
+ ..
+A parte autora pede que os honorários de sucumbência sejam fixados sobre o valor do proveito econômico obtido pelo vencedor (que entende ser de R$ 393.955,11).
+Pois bem. O Código de Processo Civil atualmente em vigor (Lei13.105, de 2015) traz disposição específica para o arbitramento de honorários nos casos em que a Fazenda Pública for parte.
+ ..
+Ao contrário do que alega a demandante, não houve, in casu, a obtenção de benefício econômico estimável, tendo em vista que ocorreu apenas o afastamento da imposição de compensação de ofício com débitos que estejam com a exigibilidade suspensa.
+Não se travou discussão acerca do débito, somente sobre o direito de dispor livremente desses valores. Conforme esclareceu o juiz da causa, em caso de improcedência da demanda, esses mesmos valores seriam destinados ao pagamento de débitos do próprio autor.
+Não houve, pois, efetivo proveito econômico que possa ser estimado, nem, tampouco, condenação.
+Dessa forma, impõe-se a manutenção da sentença que determinou a aplicação do previsto no § 8º do art. 85 do CPC ao caso dos autos (Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º).
+Pois bem.
+À evidência, o valor atribuído à causa não tem correlação com a pretensão perseguida pelo ajuizamento da ação e, de outro lado, a procedência dos pedidos para impedir a compensação de ofício não revela valor estimável para a base de cálculo, autorizando, assim, a regra de arbitramento por apreciação equitativa, nos termos do § 8º do art. 85 do CPC/2015.
+Mutatis mutandis, confiram-se, dentre outros:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. COBRANÇA EM DUPLICIDADE. LITISPENDÊNCIA. EXTINÇÃO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. APRECIAÇÃO EQUITATIVA. POSSIBILIDADE. VIOLAÇÃO DOS ARTS. 489 A 1.022 DO CPC/2015. INEXISTÊNCIA.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. O reconhecimento de litispendência entre execuções fiscais, que cobram o mesmo crédito tributário, autoriza o arbitramento dos honorários advocatícios por apreciação equitativa, nos termos do § 8º do art. 85 do CPC/2015, pois, embora haja extinção do processo, o crédito ainda continua exigível do devedor e seu valor não representa proveito econômico algum nem pode servir de parâmetro de comparação para o fim de sustentar irrisoriedade. Precedente.
+3. No caso dos autos, o órgão julgador a quo, ao extinguir uma das execuções, manteve honorários advocatícios de sucumbência arbitrados por apreciação equitativa, pois  a aplicação direta das regras delineadas pelo novo CPC resultaria no valor de R$ 678.086,45  ..  desproporcional e exorbitante diante da simplicidade do caso em apreço, em que a Execução Fiscal foi extinta após a manifestação da executada informando a existência de ação idêntica em tramitação no mesmo juízo .
+4. Agravo interno não provido.
+(AgInt no REsp 1889799/MA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CAUTELAR. OBTENÇÃO DE CERTIDÃO POSITIVA DE DÉBITOS COM EFEITOS DE NEGATIVA. ACOLHIMENTO. CPD-EN. EMISSÃO. OBRIGAÇÃO DE FAZER. ATO ENUNCIATIVO DO FISCO. AUSÊNCIA DE PROVEITO ECONÔMICO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. ARBITRAMENTO POR EQUIDADE, COM OBSERVÂNCIA AOS CRITÉRIOS. ART. 85, §§ 8º E 2º, DO CPC/2015. CABIMENTO. PRECEDENTE. SÚMULA 568/STJ. JULGAMENTO MONOCRÁTICO E PRINCÍPIO DA COLEGIALIDADE. AFRONTA. NÃO OCORRÊNCIA.
+1. Trata a controvérsia a respeito de honorários advocatícios fixados por equidade, com fundamento no art. 85, §§ 8º e 2º, do CPC/2015, em ação cautelar para obter da Fazenda Pública a expedição de Certidão Positiva de Débitos com Efeitos de Negativa (CPD-EN).
+2. A obtenção da enunciação de regularidade fiscal não significa qualquer proveito econômico confundido com a dívida sobre a qual meramente se enuncia a regularidade, nem pode ser precificado. Por se tratar de uma obrigação de fazer, em termos econômicos, a enunciação estatal de regularidade fiscal é inestimável; dessa forma, os honorários advocatícios sucumbenciais não podem ser obtidos tendo como base de referência o "valor da condenação" ou o "valor da causa", devendo ser fixados por equidade, uma vez que não há como vincular o sucesso da pretensão ao valor do crédito tributário.
+3. "Nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo" (REsp 1.822.840/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 11/12/2019).
+ ..
+5. Agravo interno não provido.
+(AgInt no REsp 1798528/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 16/09/2020)
+PROCESSUAL CIVIL E TRIBUTÁRIO. PARCELAMENTO. REINCLUSÃO. PROVEITO ECONÔMICO. QUANTIFICAÇÃO. IMPOSSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA. JUÍZO DE EQUIDADE.
+ ..
+3. Nos casos em que o acolhimento da pretensão não tenha correlação com o valor da causa ou não permita estimar eventual proveito econômico, os honorários de sucumbência devem ser arbitrados, por apreciação equitativa, com observância dos critérios do § 2º do art. 85 do CPC/2015, conforme disposto no § 8º desse mesmo dispositivo.
+4. Hipótese em que a reinclusão da recorrente em programa de parcelamento não permite aferir, de imediato, o proveito econômico obtido, possibilitando a fixação dos honorários por apreciação equitativa, nos termos do art. 85, § 8º, do CPC/2015.
+5. Agravo interno desprovido
+(AgInt nos EDcl no REsp 1725865/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+ ..
+2. Nas ações em que se busca o fornecimento de medicação gratuita e de forma contínua pelo Estado, para fins de tratamento de saúde, o Superior Tribunal de Justiça tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, tendo em vista que o proveito econômico obtido, em regra, é inestimável.
+3. Na instância especial, a revisão do juízo de equidade para a fixação da verba honorária somente é admitida nos casos em que o valor arbitrado é irrisório ou exorbitante, circunstância que não se vislumbra nos autos.
+4. Agravo interno desprovido.
+(AgInt no REsp 1872161/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 16/10/2020)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO SOB O RITO ORDINÁRIO. COMPENSAÇÃO DE OFÍCIO PELA FAZENDA. IMPOSSIBILIDADE. PROVEITO ECÔMICO INESTIMÁVEL. VALOR DA CAUSA DESVINCULADO DA PRETENSÃO PERSEGUIDA. ARBITRAMENTO DE HONORÁRIOS POR APRECIAÇÃO EQUITATIVA. POSSIBILIDADE. RECURSO NÃO CONHECIDO.
