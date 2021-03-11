@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça estadunidense solicita que se proceda à citaçãode LUIZ FELIPE DA SILVA ALVES para responder a ação de indenização proposta por EDGAR MONTESDEOCA.
+Citado por aviso de recebimento, a parteinteressadacompareceu espontaneamente aos autos e apresentou impugnação às fls. 51-58, em queaduziu que a comissão é deficiente, seja porque "não está acompanhada da decisão judicial que ordenou a citação e a sua expedição ou mesmo a sua transcrição" (fl. 52), sejaporque "não se identifica o instrumento de procuração outorgado ao Dr. David L. Tomas, patrono subscritor da inicial" (fl. 55), ou ainda porque "inexiste nos autos prova de que a inicial foi traduzida por tradutor juramentado" (fl. 56).
+O Ministério Público Federal opinou pela devolução do processo à origem, visto que foi cumprida a diligência rogada (fls. 62-65).
+É, no essencial, o relatório. Decido.
+De início, não obstanteos argumentos do interessado, não lhe assiste razão, como se verá a seguir. Inicialmente, sem amparo está a alegação de que há deficiência nadecisão de citação, visto queo documento que consta às fl. 9-10 trata de documento oficial do Tribunal Distrital do Condado de Clark, Nevada, traduzidoàs fls. 19-20, expressamente destacando quanto à existência de ação em desfavor do interessado.
+Vale ressaltar que, tendo sido acomissão encaminhada pela via diplomática,presumem-se autênticos os documentos, inclusive a intimação acima despachada, sendo, do mesmo modo, dispensada da tradução oficial ou mesmo pormenorizada de todos os documentos existentes, bastando queos documentos que acompanham a comissão permitam a compreensão da controvérsia, não havendo comprometimento do direito de defesa.
+Neste sentido, confiram-se julgados:
+1. A tramitação oficial de carta rogatória - por intermédio da via diplomática - pressupõe a autenticidade dos documentos anexados e dispensa a tradução por profissional juramentado no Brasil.
+2. Inexiste prejuízo para a defesa da parte interessada quando é possível
+compreender o pedido e as informações contidas no documento traduzido em carta rogatória.(AgInt nos EDcl na CR n. 14.434/EX, relator MinistroJoão Otávio de Noronha, Corte Especial, DJe de 25/10/2019.)
+1. A solicitação da Justiça rogante, por intermédio da via diplomática, presume a autenticidade dos documentos anexados. A tramitação oficial faz dispensar a tradução por profissional juramentado no Brasil e, nos
+presentes autos, os documentos que acompanham a comissão permitem a compreensão da controvérsia, não havendo comprometimento do direito de defesa.(AgInt na CR n. 12.027/EX, relatora Ministra Laurita Vaz, Corte Especial, DJe de 23/5/2018.)
+Outrossim, milita em favor da regularidade da capacidade postulatória o aceite da ação pelo tribunal com determinação de sua intimação, com o destaque de que "o art. 260 do Código de Processo Civil é aplicável às cartas rogatórias ativas" (CR n. 13322, Ministra Laurita Vaz, Presidente, 30/08/2018).
+No mais, aprática de ato de comunicação processual é plenamente admissível em carta rogatória. A simples citação do interessado para responder à ação proposta no Tribunal alienígena, por si só, não caracteriza situação de afronta à ordem pública ou à soberania nacional.
+Finalmente, verifico que o objeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ, concedo o exequatur.
+Diante do cumprimento da diligência rogada, evidenciado pelo comparecimento espontâneo aos autos, considera-se consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal.
+A propósito:
+5. A manifestação espontânea da parte interessada consuma o objeto da comissão, caso em que os autos são devolvidos à Justiça rogante por intermédio da autoridade central competente, sendo desnecessária a remessa à Justiça Federal.(AgInt nos EDcl na CR 14.431/EX, Rel. Ministro João Otávio de Noronha, CorteEspecial, julgado em 22/10/2019, DJe 25/10/2019.)
+Ante o exposto, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
