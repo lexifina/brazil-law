@@ -1,0 +1,7 @@
+DECISÃO
+LUCAS HENRIQUE CANALE alega sofrer coação ilegal, em decorrência da manutenção da prisão cautelar, em acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, nos autos da Apelação Criminal n. 1500453-63.2018.8.26.0559.
+Inicialmente, consigno que - em que pese o acórdão impugnado ter aludido à custódia cautelar anteriormente decretada em desfavor de ambos os réus, ao determinar a expedição, após o esgotamento de todos os recursos, de mandados de prisão - a Corte local não analisou os fundamentos da prisão cautelar, evidenciando-se, assim, a impossibilidade de conhecimento da tese de ausência de fundamentação, sob pena de vedada supressão de instância.
+Ademais, ao analisar os autos, verifico que a inicial do writ não veio acompanhada da cópia do decreto preventivo, ao qual a sentença se refere, o que prejudica a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
