@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de NOVOS embargos de declaração opostos por PAULO CESAR RONQUE da decisão de fls. 538/541 que rejeitou os primeiros aclaratórios, demonstrando novamente sua irresignação contra decisão de fls. 527/528 que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça
+Em suas razões, sustenta a parte embargante que (fl. 552):
+Nulidade Da Decisão Monocrática, por Cerceamento de Defesa, segundo os Princípios do Contraditório & da Ampla Defesa, em Razão Do Julgador Não Ter Solicitado Vista ao Ministério Público do Estado do Rio de Janeiro (RJ), quando, na Oposição de Aclaratórios (..).
+Alega, ainda, que (fl. 553):
+Mostra-se necessário que o Colendo Tribunal Supra a Omissão Consistente na Não Apreciação de Prova Documental Apresentada em Consonância Com o Que Dispõe o Artigo 231 do CPP.
+(..)
+Há Obscuridade Pendente de Resolução, quanto a Impugnação Concreta & Específica da Decisão de Inadmissão do Recurso Especial. Portanto deve ser Afastado o Aludido Óbice, da Súmula nº 83, do STJ.
+Destarte, não se Trata Aqui de Mero & Caprichoso Inconformismo do Embargante, mas do Devido & Necessário Esclarecimento Por Parte do Poder Judiciário das Razões & Dos Fundamentos Que Suportam a Condenação de Um Jurisdicionado, Pelo Cometimento de um Delito INEXISTENTE.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Quanto à citada nulidade por falta de vista, consigna-se que a argumentação não é pertinente, uma vez que o Ministério Público do Estado do Rio de Janeiro foi intimado à fl. 537.
+Outrossim, quanto a alegação da omissão de não apreciação da prova documental apresentada, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre qualquer matéria de fundo porventura tratada no recurso especial.
+Registra-se, ainda, que não se desconhece do trecho do agravo em recurso especial de fl. 436 em que se discute a Súmula 83/STJ. No entanto, nenhuma das alegações lançadas no agravo em recurso especial constituem impugnação específica para fins de rebatimento da Súmula 83/STJ, que, segundo entendimento desta Corte Superior, exige a efetiva demonstração de que o julgado apontado na decisão de inadmissão do recurso especial foi superado pela jurisprudência do STJ, ou que exista distinção entre a matéria versada nos autos e aquela utilizada para justificar a aplicação da Súmula 83/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N.º 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA N.º 83/STJ. APLICÁVEL AOS RECURSOS INTERPOSTOS COM BASE NAS ALÍNEAS A E C DO PERMISSIVO CONSTITUCIONAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Agravante, nas razões do agravo em recurso especial, deixou de rebater, especificamente, o fundamento da decisão agravada, relativo à incidência, na hipótese dos autos, da Súmula n.º 83/STJ.
+2. Não foi demonstrado o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, no qual a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+3. O comando contido na Súmula n.º 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.433.473/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 5/6/2019.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO COMBATIDA. ART. 932, III, DO CPC/2015. INCIDÊNCIA DA SÚMULA 83 DO STJ. PRINCÍPIO DA DIALETICIDADE NÃO ATENDIDO.
+1. Em que pese ao agravante ter sustentado a inaplicabilidade da Súmula 83/STJ por se tratar de recurso amparado na alínea "a" do permissivo constitucional, a fundamentação expendida não foi apta a cumprir o requisito da dialeticidade.
+2. Cabia ao recorrente indicar julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada. Poderia ainda, se fosse o caso, demonstrar a existência de distinção do caso tratado nos autos. Precedentes.
+3. O óbice contido na Súmula 83/STJ também se aplica aos recursos especiais interpostos com base na alínea "a" do permissivo constitucional. Precedentes.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 827.751/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/5/2019.)
+Assim, a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020), o que não ficou evidenciada no presente caso.
+Importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou ambiguidade).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
