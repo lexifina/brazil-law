@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ACORDO HOMOLOGADO QUE SUBSTITUI A SENTENÇA CONDENATÓRIA.NECESSIDADE DE CUMPRIMENTO DAS CLÁUSULAS ESTABELECIDAS LIVREMENTE. RECURSO IMPROVIDO.
+1. Ao firmarem o acordo, os seus termos substituíram a sentença condenatória, não subsistindo os seus acessórios (custas e honorários advocatícios). Dessa forma, não cabe ao procurador da parte autora reclamar os honorários advocatícios de sucumbência, posto que o acordo celebrado sobrepôs-se ao disposto na sentença, substituindo-a em seus termos, sendo incabível a pretensão de pagamento das verbas que não mais existem.
+2. Estabelecida, portanto, a prevalência do ajuste sobre a condenação, tem-se a substituição da sentença condenatória pela homologatória de acordo, esta é a que fará coisa julgada entre as partes.
+Os embargos de declaração opostos foram rejeitados (fls. 80 - 85, e-STJ).
+Nas razões de recurso especial, alega a agravante, em suma, divergência jurisprudencial e violação aos artigos 85, 139, V, e 489 do Código de Processo Civil de 2015; 125, IV, doCódigo de Processo Civil de 1973; e 93, IX e 133 da Constituição Federal.
+Sustenta que: "A Justiça do Distrito Federal havia negado a homologação do acordo por entender que o julgamento da apelação encerraria a prestação jurisdicional e que o Poder Judiciário não precisaria validar acordo de natureza patrimonial" (e-STJ, fl. 98).
+Defende que: "não pode o juiz interpretar ou modificar acordo, como aconteceu na decisão ora atacada, assim sendo, requer-se seja modificada a r. decisão, para que seja respeitado os ônus sucumbenciais (custas e honorários) antes fixados e não alterados pelo acordo" (e-STJ, fl. 99).
+Informa que: "a requerida já tinha sido intimada para se manifestar quanto a tal depósito e se silenciou (mov. 117), inclusive com leitura de intimação após petição deste advogado, portanto já houve preclusão para a parte adversa para solicitar tal levantamento, desta feita, as correções nas decisões do primeiro grau são imperativas, primeiramente para decidir quanto às custas e quanto aos honorários sucumbenciais.Portanto a preclusão que é matéria de ofício, deve ser conhecido, e respeitado o acordo entre as partes nos seus exatos termos e ainda esclarecido quanto às custas e honorários, todas matérias de ordem pública, é o que se requer" (e-STJ, fl. 99).
+Apresentadas contrarrazões (e-STJ fls. 119 - 225), pugnando o não provimento do recurso.
+O recurso não foi admitido na origem, nos termos da decisão de fls. 127 - 130, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada depois da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Não assiste razão à parte agravante.
+Inicialmente cumpre destacar a impropriedade da via eleita para fins de análise da tese de violação de dispositivos da Constituição Federal, providência que não poderia ser adotada nesta oportunidade, sob pena de invasão da competência atribuída ao STF.
+O recurso também não comporta análise no que concerne à alegação de dissídio jurisprudencial, uma vez que a parte agravante não apresentou nenhum cotejo analítico entre o acórdão local e o acórdão paradígma ofertado. Incide no ponto a Súmula 284/STF.
+Quanto à alegação de violação aos artigos85, 139, V, e 489 do Código de Processo Civil de 2015, verifica-se que em nenhum trecho das razões recursais a parte agravante elucida de que forma teriam sido violados, sendo nítida a deficiência de fundamentação recursal acerca dos temas. Faz-seainda relevante destacar que a Corte de origem não emitiu nenhum nenhum juízo de valor acerca dos mencionados dispositivos legais, que carecem portanto do necessário prequestionamento a viabilizar sua apreciação na presente oportunidade. Respectivas circunstâncias atraem a aplicação das Súmulas 284/STF e 211/STJ.
+Em face do exposto, nego provimento ao agravo.
+Descabida a majoração de honorários advocatícios, porque a decisão alvo do recurso especial tem natureza interlocutória, não comportando o estabelecimento de verbas sucumbenciais.
+Intimem-se.
