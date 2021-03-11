@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto em face da decisão que inadmitiu o recurso especial, por deficiência de fundamentação e Súmula 7/STJ.
+Afirma o agravante que, no caso em testilha, não há necessidade do revolvimento fático-probatório e que o recurso especial apresentou suficiente fundamentação.
+Requer, assim, o provimento do agravo, para que se analise o méritodo recurso especial.
+Contraminuta apresentada.
+Parecer do Ministério Público Federal pelo improvimento do recurso.
+É o relatório.
+DECIDO.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, ao exame de seu mérito.
+Extrai-se dos autos que o recorrente foi condenado à pena de 7 anos de reclusão, em regime inicial fechado, e 70 dias-multa, pela prática do crime previsto no art. 157, caput, c.c o art. 14, II, ambos do Código Penal.
+Interposta apelação defensiva, foi dado parcial provimento ao recurso, reduzindo a pena para 3 anos, 2 meses e 12 dias de reclusão, e 8 dias-multa, mantida, no mais a sentença.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, aponta a defesa violação do art. 619 do Código de Processo Penal, por omissão não sanada em sede de embargos de declaração. Suscita, ainda, violação do art. 59 do Código Penal, alegando que o Tribunal de origem, em recurso exclusivo da defesa, deslocou a causa de aumento da arma branca para a primeira fase, mesmo não tendo sido utilizada para a prática do roubo, pois estava apenas disponível para o recorrente.
+Requer, assim, sejam os autos devolvidos ao Tribunal de origem para sanar a omissão apontada em embargos de declaração e, subsidiariamente, o afastamentoda circunstância judicial tida por desfavorável.
+De início, não vislumbro violação ao art. 619 do CPP porquanto o Tribunal de origem afirmou expressamente que a pena-base foi exasperada em 1/5 em razão dos maus antecedentes e pelo emprego de arma branca (fls. 386 e 409),adotando, contudo, solução jurídica contrária aos interesses do recorrente, não havendo falar, assim, em negativa de prestação jurisdicional.
+Conforme a jurisprudência desta Corte, somentea omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal(REsp 1653588/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/06/2017, DJe 21/06/2017).
+Ademais, esta Corte Superior compreende que o emprego de arma branca, embora nãoconfigure mais causa de aumento do crime de roubo, poderá ser utilizadopara majoração da pena-base, quando as circunstâncias do caso concretoassim justificarem (HC 436314/SC, Rel. Ministro FELIX FISCHER, QUINTATURMA, julgado em 16/08/2018, DJe 21/08/2018).No mesmo sentido,confira-se:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA LEI N.º13.654/2018. AUSÊNCIA DE REFLEXO CONCRETO NA DOSIMETRIA. CONTRARIEDADE AOART. 59 DO CÓDIGO PENAL. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL.FUNDAMENTO IDÔNEO. COMPROVAÇÃO DA REINCIDÊNCIA. NECESSIDADE DE DOCUMENTOHÁBIL E IDÔNEO. ART. 63 DO CÓDIGO PENAL. SISTEMA INFORMATIZADO DOSTRIBUNAIS. DADOS. UTILIZAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. No tocante à alegada aplicação da Lei n.º 13.654/2018 à espécie, aindaque fosse excluída a causa de aumento referente ao emprego de arma branca,nenhum reflexo concreto haveria na reprimenda do Agravante, tendo em vistaque a exasperação da pena, na terceira fase, foi fixada no patamar de 1/3,que é o mínimo previsto tanto na redação antiga como na atual do art. 157,§ 2.º, do Código Penal. Além disso, o Tribunal de origem utilizou uma dasmajorantes para exasperar a pena-base e lançou mão da outra para aplicar acausa de aumento, o que era amplamente admitido pela jurisprudência doSuperior Tribunal de Justiça.
+2. Mesmo após a edição da Lei n. 13.654/2018, "o emprego de arma branca,embora não configure mais causa de aumento do crime de roubo, poderá serutilizado para majoração da pena-base, quando as circunstâncias do casoconcreto assim justificarem" (HC 436314/SC, Rel. Ministro FELIX FISCHER,QUINTA TURMA, julgado em 16/08/2018, DJe 21/08/2018).
+ ..
+5. Agravo regimental desprovido (AgRg no AREsp 1340032/PI, Rel. MinistraLAURITA VAZ, SEXTA TURMA, julgado em 02/10/2018, DJe 23/10/2018).
+Nesse contexto, a jurisprudência desta Corte consolidou entendimento no sentido de que é possível às instâncias ordinárias, mantendo a pena e o regime inicial aplicados ao réu, lastrearem-se em fundamentos diversos dos adotados em primeira instância, ainda que emrecurso exclusivoda defesa, sem configurar ofensa ao princípio do ne reformatio in pejus, desde que observados os limites da pena estabelecida pelo Juízo sentenciante, bem como as circunstâncias fáticas delineadas na sentença e na exordial acusatória.
+No caso, porém, o Juízo sentenciante destacouque a vítima disse que não chegou a ver a faca que o acusado portava, de rigor o afastamento da causa de aumento de arma no delito(fl. 299).O Tribunal de origem também referiu que,Na primeira fase, a pena-base pode ficar acima do mínimo legal, pela disponibilidade da arma branca, dentro da mochila, e, ademais, pelos maus antecedentes (fl. 386).
+Assim, merece ser afastada a exasperação da pena-base quanto ao emprego da arma branca, em razão de não ter sido utilizada para o cometimento do crime.
+Passo ao redimensionamento da pena.
+Na primeira fase, afasto o emprego da arma branca, porém, mantenho a circunstância judicial dos maus antecedentes, na fração de 1/6, critério adotado por esta Corte Superior, perfazendo a pena inicial em 4 anos, 8 meses, e 11 dias-multa. Na segunda fase, compensa-se integralmente a agravante da reincidência com a atenuante da confissão. Na terceira fase, mantida a diminuição de 1/3 pela tentativa, fixando definitivamentea pena em 3 anos, 1 mês e 10 dias de reclusão, em regime fechado (Súmula 269/STJ), e7 dias-multa, mantido, no mais, o acórdão.
+Ante o exposto, conheço do agravo para dar parcial provimento ao recurso especial, diminuindo a pena do recorrente para3 anos, 1 mês e 10 dias de reclusão, mantido, no mais, o acórdão.
+Publique-se.
+Intimem-se.
