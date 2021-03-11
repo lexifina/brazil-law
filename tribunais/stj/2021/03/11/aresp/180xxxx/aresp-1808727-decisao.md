@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu recurso especial manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁassim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. ISS. EXERCÍCIO DE 2002 E 2003.PROCESSO EXTINTO ANTE O RECONHECIMENTO DA PRESCRIÇÃO.DESPACHO, ORDENANDO A CITAÇÃO, ANTERIOR AO ADVENTO DA LCNº 118/05 (QUE DEU NOVA REDAÇÃO AO INCISO I, DO PARÁGRAFOÚNICO, DO ART. 174 DO CTN). INTERRUPÇÃO DO LAPSOPRESCRICIONAL QUE, PORTANTO, OCORRERIA APENAS COM AFUTURA CITAÇÃO. COMPARECIMENTO ESPONTÂNEO EM .28/03/2012TRANSCURSO DO PRAZO PRESCRICIONAL ANTERIOR AOCOMPARECIMENTO. CONCORRÊNCIA DE CONDUTA OMISSIVA DOEXEQUENTE PARA A PARALISAÇÃO DO FEITO, DE MODO A NÃOJUSTIFICAR A APLICAÇÃO DA SÚMULA 106 DO STJ. PRESCRIÇÃOCARACTERIZADA. CONDENAÇÃO DO MUNICÍPIO AO PAGAMENTO DASCUSTAS PROCESSUAIS. POSSIBILIDADE QUANDO SE TRATAR DESERVENTIA ESTATIZADA. QUESTÃO JÁ DECIDIDA, POR ESTETRIBUNAL, NO INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA Nº1329914-8/01. RECURSO CONHECIDO E NÃO PROVIDO.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aos artigos 174 do CTN; e 8º, § 2º, 25 da Lei 6.830/1980.
+Aduz que não se pode cogitar de reconhecimento da prescrição ao caso concreto, uma vez que deve ser considerado o teor da Súmula 106/STJ.
+O Tribunal de origem inadmitiu o recurso especial por meio da decisão de fls. 211/218.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhimento.
+Antes de tudo, a decisão que inadmitiu o recurso especial na origem aplicou tese consolidada em sede de repetitivo proferido pelo STJ (Temas 566, 567, 568, 569, 570 e 571), quanto as causas de suspensão e interrupção da prescrição.
+Cumpre asseverar que a decisão de inadmissibilidade do especial proferida pelo Tribunala quo, em parte foi baseada no artigo 1.030, § 2º, do CPC/2015, que é expresso ao prever o cabimento de agravo interno contra decisão que, especado no artigo 1.030, I, b, do CPC/2015, nega seguimento ao recurso especial,in verbis:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+ ..
+V - realizar o juízo de admissibilidade e, se positivo, remeter o feito ao Supremo Tribunal Federal ou ao Superior Tribunal de Justiça, desde que:
+ ..
+§ 1º Da decisão de inadmissibilidade proferida com fundamento no inciso V caberá agravo ao tribunal superior, nos termos do art. 1.042.
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Destarte, inviável o presente agravo em recurso especial quanto ao ponto relacionado aos Temas mencionados.
+Por outro lado, no que tange à suposta violação ao art. 25 da Lei 6.830/1980, consta do acórdão de origem:
+Conforme entendimento jurisprudencial, intimado ou não, o Fisco deveria ter voltado ao processo, a fim de postular o seu regular prosseguimento e impedir a ocorrência da prescrição, inexistindo ofensa ao art. 25 da LEF. Não se trata de exigir que o Fisco controle a atuação da serventia, mas sim deque efetue o acompanhamento processual e promova o seu impulso necessário. Também não houve violação ao precedente firmado pelo Superior Tribunal de Justiça no julgamento do REsp nº 1.340.553/RS (temas 556 e 557), pois o caso não se trata de prescrição intercorrente. Ainda, considerando que o lapso prescricional se operou anteriormente ao comparecimento da devedora, não há que se falar em retroação da interrupção da prescrição à data da propositura da demanda (artigo 219, § 1º, do CPC/73).Desta maneira, transcorrido o quinquênio legal não pairam dúvidas de que o recorrente não promoveu as diligências necessárias para a realização da citação da devedora no prazo legal. Não se aplica, portanto, o enunciado da Súmula 106 do STJ ao caso, pois não houve falha exclusiva do mecanismo judiciário, tendo em vista que o apelante permaneceu inerte por diversos períodos, sendo que deveria ter voltado aos autos a fim de evitar a ocorrência da prescrição.
+Com efeito, eventual reforma do aresto, para efeito de considerar incidente à hipótese a Súmula 106/STJ, demanda, igualmente, o reexame da matéria de fato, o que é inviável em sede de recurso especial, tendo em vista o disposto na citada Súmula 7/STJ. Isso porque a verificação de responsabilidade pela demora na prática dos atos processuais, se atribuível ao exequente ou ao Poder Judiciário, enseja a incursão no material fático-probatório.
+A corroborar esse entendimento, confira-se:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO. SÚMULA 106/STJ. NÃO INCIDÊNCIA. SÚMULA 7/STJ.
+1. Afastada pela instância ordinária a ocorrência de culpa por parte do Poder Judiciário, e atribuída exclusivamente à exequente a responsabilidade pela demora na efetivação da citação, não se aplica o enunciado da Súmula nº 106 do Superior Tribunal de Justiça.
+2. No âmbito estreito do recurso especial não se pode aferir a veracidade da argumentação quanto à falta de desídia ou culpa da Fazenda Pública na prática dos atos processuais, de modo a afastar as assertivas fático-probatórias do acórdão recorrido. Incidência da Súmula 7/STJ.
+3. A Primeira Seção do Superior Tribunal de Justiça já decidiu, para fins de prescrição intercorrente em execução fiscal, que "a verificação de responsabilidade pela demora na prática dos atos processuais implica indispensável reexame de matéria fático-probatória, o que é vedado a esta Corte Superior, na estreita via do recurso especial, ante o disposto na Súmula 07/STJ" (REsp nº 1.102.431, RJ, Relator o Ministro Luiz Fux, DJe de 01.02.2010, julgado sob o regime do artigo 543-C do Código de Processo Civil).
+4. Agravo regimental desprovido.
+(AgRg no REsp 1368724/RS, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), PRIMEIRA TURMA, julgado em 20/10/2015, DJe 06/11/2015) (grifou-se)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art.253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recursoespecial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL.PRESCRIÇÃO. SÚMULA 106/STJ. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA FÁTICA. ÓBICE DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
