@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por ADEMIR TORRES BANDEIRA, ADIB JORGE, ARY JOSÉ MOREIRA, CLAUDIO DIAS DE OLIVEIRA, DERCY SANTOS OLIVEIRA, FRANCISCO AMANCIO SANCHES, JOSE FREIRE DE CARVALHO, JOSÉ PAULO HERCULES, OSWALDO PEREIRA DA SILVA e RAIMUNDO SABINO DE SOUZA contra decisão do Tribunal de Justiça do Estado deSão Paulo, que não admitiu recurso especial, fundado naalínea"a" do permissivo constitucional, oqualdesafia acórdão assim ementado (e-STJ fl. 202):
+APELAÇÃO Cumprimento de sentença contra a Fazenda Pública URV Impugnação Extinção da execução Decisão que reconhece o adimplemento da obrigação Condenação da Fazenda Estadual ao recálculo do valor dos ganhos dos autores aplicando-se os critérios de conversão de vencimentos em URV, ditados pela Lei Federal n.º 8.880/94 e ao pagamento das diferenças Fazenda do Estado que alega inexistir diferença diante da reestruturação remuneratória da carreira Sentença ilíquida Possibilidade de se levar em consideração tal parâmetro para fins de liquidação sem que se alegue eventual ofensa à coisa julgada Havendo reestruturação da carreira, com a edição da Lei Estadual nº 8.989/94, e das Leis Complementares n.º s 823/96, 830/97, 901/01, 957/04, 975/05, 1.065/08, 1.216/13, 1.249/14 e 1.317/18, correta a r. sentença que julgou extinto o cumprimento de sentença à vista do resultado zero na liquidação do julgado Precedente desta C. Câmara Sentença mantida Recurso desprovido, com observação quanto à verba honorária.
+Rejeitados os aclaratórios (e-STJ fls. 250/252).
+No especial obstaculizado, a parte recorrente, além de divergência jurisprudencial, apontou violação dos arts.336, 342,502,509, § 4º, do CPC/2015,sustentandoviolação da coisa julgada e ausência de comprovação da reestruturação da carreira.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+Contraminuta às e-STJ fls. 326/330.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Com efeito, entendeu aCortede origem pelo resultado zero naliquidaçãodo julgado, uma vez que o título executivo não determinou índice a ser aplicado, bem como que comprovada a reestruturação da carreira na fase de liquidação.
+A revisão dojulgado nos aspectos aludidos esbarra no óbice das Súmulas 7 do STJ e 280 do STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
