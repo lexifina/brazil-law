@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por PEDRO PAULO SOUZA AYUB e RAFAEL RODRIGO ACOSTA GOMES contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul proferido nos autos do HC n.1413498-76.2020.8.12.0000.
+Nas razões recursais, os Recorrentes alegam que "prisão preventiva foi decretada para garantia da ordem pública. Contudo, em nenhum momento demonstrou que a ordem pública estivesse ameaçada. Os argumentos utilizados para justificar a decretação e a manutenção da prisão preventiva não são argumentos válidos para sustentar uma prisão cautelar" (fl. 332).
+Requerem, em liminar e no mérito, o provimento do presente recurso, concedendo-se a "liberdade provisória aos recorrentes, por terem cessados os motivos ensejadores da prisão cautelar, pois primários, sem antecedentes criminais, possuem trabalho lícito, residência fixa, família constituída, com a expedição imediata do Alvará de Soltura".(fl. 335).
+Em consulta realizada ao endereço eletrônico do Tribunal de origem, verifiquei que, em 16/12/2020, o Juízo de primeiro grau julgou parcialmente procedente a denúncia para condenar os Recorrentes como incursos no art. 155, § 6.º e art. 288, ambos do Código Penal e absolver o Apenado RAFAEL RODRIGO ACOSTA GOMES do crime previsto no art. 14, da Lei n. 10.826/2003,às penas de 3 (três) anos e 4 (quatro) meses de reclusão, em regime inicial aberto, mais pagamento de 21 (vinte e um) dias-multa, sendo-lhes concedido o direito de recorrer em liberdade.
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGOPREJUDICADO o recurso ordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS.PENAL.PRISÃO PREVENTIVA. SUPERVENIÊNCIADE SENTENÇA CONDENATÓRIA. FIXAÇÃO DE REGIME ABERTO. CONCEDIDO O DIREITO DE RECORRER EM LIBERDADE.RECURSO PREJUDICADO.
