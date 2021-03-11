@@ -1,0 +1,9 @@
+DECISÃO
+ABREU SAMPAIO ADVOCACIA, mediante a petição de fls. 1-983, requereu o cumprimento do acórdão, que mantivera o indeferimento liminar da ação rescisória movida pelo BANCO SISTEMA S. A. em face de KYRTON BANK BRASIL S.A. - BANCO MÚLTIPLO e FELIPE MASLIONIS CABRAL FAGUNDES, no tocante aos honorários advocatícios sucumbenciais, no percentual de 10% (dez por cento) sobre o valor atualizado da causa, a que a parte autora fora condenada a pagar.
+Em atenção à intimação para cumprimento voluntário da obrigação de pagar quantia certa (art. 523 do CPC), o executado peticionou às fls. 988-993 para comprovar o depósito judicial do valor executado, no montante de R$ 611.112,38 (seiscentos e onze mil, cento e doze reais e trinta e oito centavos). Nesse sentido, alegando cumprimento integral da obrigação e que não impugnará a pretensão executiva, requereu a extinção do feito e arquivamento dos autos.
+Por fim, a exequente peticionou às fls. 996-998. Aludindo ao pagamento espontâneo realizado pelo executado, manifestou concordância erequereu o levantamento da quantia depositada por meio de transferência para conta bancária informada.
+É o relatório. Decido.
+A procuração fl. 865 dos autos da ação rescisória atesta que a sociedade exequente conta em seus quadros com os advogados regularmente constituídos pelo réuFELIPE MASLIONIS CABRAL FAGUNDES na ação rescisória, entre eles o subscritor da petição de fls. 1-983.
+Ante o exposto, com fundamento no art. 3º da Resolução STJ/GP nº 9, de 27/8/2018, defiro o pedido de fls. 996-998 para autorizar o levantamento do depósito judicial mediante transferência bancária em favor da sociedade de advogados ABREU SAMPAIO ADVOCACIA, conforme dados bancários de titularidade desta informados.
+Em consequência, satisfeita a obrigação, julgo extinto o cumprimento do acórdão, nos termos do art. 924, II, do CPC. Após cumprida a providência determinada no parágrafo antecedente, arquivem-se os autos.
+Publique-se. Intimem-se.
