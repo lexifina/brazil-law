@@ -1,0 +1,36 @@
+D E C I S Ã O
+    Trata-se de recurso ordinário em habeas corpus interposto contra acórdão do Superior Tribunal de Justiça que está assim ementado:
+    “PROCESSUAL PENAL. ‘HABEAS CORPUS’. FRAUDE À LICITAÇÃO, FALSIDADE IDEOLÓGICA E FORMAÇÃO DE QUADRILHA. OPERAÇÃO FRATELLI. AÇÃO CAUTELAR INOMINADA JULGADA. PRESENTE ‘WRIT’ SUBSTITUTIVO DE RECURSO ESPECIAL. VIA INADEQUADA. RECURSOS FEDERAIS. NECESSIDADE DA PRESTAÇÃO DE CONTAS PERANTE OS ÓRGÃOS DE CONTROLE DA UNIÃO. NÃO COMPROVAÇÃO. CONEXÃO PROBATÓRIA. INDISSOCIÁVEL INFLUÊNCIA DA PROVA DE UMA INFRAÇÃO EM OUTRA. NÃO CONFIGURAÇÃO. FLAGRANTE ILEGALIDADE. INEXISTÊNCIA. ‘HABEAS CORPUS’ NÃO CONHECIDO.
+    1. Por se tratar de ‘habeas corpus’ substitutivo de recurso especial, inviável o seu conhecimento, restando apenas a avaliação de flagrante ilegalidade.
+    2. Não demonstrada nos autos a necessidade da prestação de contas do recurso obtido perante os órgãos de controle da União, inexequível trasladar a competência para a Justiça Federal.
+    3. Embora compartilhado entre as esferas Estadual e Federal o material probatório das diversas infrações cometidas, dotadas de inegável similitude do ‘modus operandi’, não se evidenciou que a prova de um crime acomete a do outro, requisito indissociável para o reconhecimento da conexão instrumental ou probatória.
+    4. O simples fato de delitos terem sido elucidados na mesma oportunidade, em razão de diligências levadas a termo no âmago de investigações, não significa necessariamente que a prova de uma infração irá influenciar no arcabouço probatório das outras.
+    5. No contexto apresentado nestes autos, não há reconhecer conexão, devendo haver o trâmite independente dos feitos nas Justiças Estadual e Federal.
+    6. ‘Habeas corpus’ não conhecido.”
+    (HC 306.984/SP, Ministra Maria Thereza de Assis Moura – com meus grifos)
+    Em suas razões, os recorrentes pretendem, em síntese, que seja reconhecida “a conexão entre a ação penal nº 0008772-16.2013.8.26.0189 e 0000372-16.2013.403.6124 e a consequente competência da Justiça Federal de Jales para processar e julgar os feitos”.
+    O Ministro Celso de Mello, então relator, indeferiu a medida cautelar requerida.
+    A Procuradoria-Geral da República emitiu parecer pelo desprovimento do recurso ordinário em parecer assim ementado:
+    “PROCESSUAL PENAL. COMPETÊNCIA. PROCESSOS QUE TRAMITAM NA JUSTIÇA FEDERAL E NA JUSTIÇA ESTADUAL. CRIMES DE QUADRILHA, FRAUDES A LICITAÇÃO E FALSIDADE DOCUMENTAL. PRETENDIDA REUNIÃO DOS FEITOS PARA TRAMITAÇÃO CONJUNTA PERANTE A JUSTIÇA FEDERAL. ALEGADA CONEXÃO PROBATÓRIA. INEXISTÊNCIA. FATOS QUE NÃO GUARDAM RELAÇÃO ENTRE SI. PARECER PELO DESPROVIMENTO DO RECURSO.”
+    Tal o contexto, entendo não assistir razão à parte recorrente.
+    O E. Tribunal de Justiça do Estado de São Paulo, ao indeferir o pedido de reunião dos feitos formulado por um dos recorrentes na Ação Cautelar Inominada Criminal nº 2050045-86.2014.8.26.0000, assim conclui:
+    “Destarte, não basta a mera existência de pluralidade de crimes, praticados simultaneamente por vários agentes em concurso ou a eventual possibilidade da prova de uma infração influir na apuração de outras para a unidade do processo, sem a identificação de um elemento fundamental, material ou formal, que torne indispensável a reunião de todos os feitos.
+    (…)
+    Nesse quadro fático, as referências esparsas na denúncia, no tópico relativo à formação de quadrilha, a circunstâncias situadas no âmbito federal (emendas patrocinadas por deputados federais, recursos provenientes da Caixa Econômica Federal, negociações ou intermediações escusas ocorridas em Brasília, etc.), feitas somente para melhor explicar o funcionamento da organização criminosa, ou de individualizar a conduta dos acusados, mas dentro de contexto imensamente maior, de descrição minuciosa do esquema fraudulento e da atuação específica de cada réu, no âmbito estadual, não implicam reconhecer que o ilícito em pauta constitui repetição daquele que se apura na Justiça Federal.”
+    Tal orientação – no sentido da ausência de conexão probatória entre os fatos narrados na denúncia oferecida perante a Justiça Estadual e aqueles investigados em ação penal processada no âmbito da Justiça Federal - foi mantida pelo Superior Tribunal de Justiça, que assim se manifestou:
+    “Ao que se me afigura, o material probatório das diversas infrações cometidas foi compartilhado, contudo não se evidenciou, mediante sinais pré-constituídos, que a prova de um crime acomete a do outro, requisito indissociável para o reconhecimento da conexão instrumental ou probatória.
+    De se salientar que o simples fato de delitos terem sido elucidados na mesma oportunidade, em razão de diligências levadas a termo no âmago de investigações, não significa que a prova de uma infração irá influenciar no arcabouço probatório das outras.
+    Portanto, no contexto apresentado nestes autos, especialmente diante da autônoma dinâmica delitiva - não obstante comungue da similitude do ‘modus operandi’, itere-se -, não há reconhecer conexão, devendo haver o trâmite independente dos feitos, respectivamente, nas Justiças Estadual e Federal.” (com meus grifos)
+    Desta forma, para se acolher o pedido de reunião de processos formulado pelos recorrentes, acatando-se a tese de que os feitos “tiveram início na mesma operação, sustentam-se nas mesmas provas, apresentam os mesmos réus e apuram os mesmos crimes, tratando-se, pois, de fatos indissociáveis", seria indispensável o reexame minucioso de todo conjunto fático-probatório produzido nos autos, fato esse inviável na via estreita do habeas corpus, que não admite dilação probatória nos termos da jurisprudência pacífica desta Suprema Corte (HC 100.183/SP, Ministro Dias Toffoli; HC 113.259/SP, Ministra Cármen Lúcia; HC 133.377-AgR/RS, Ministra Rosa Weber):
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL EM ‘HABEAS CORPUS’. ESTELIONATO, DUPLICATA SIMULADA E FALSIDADE IDEOLÓGICA. INCOMPETÊNCIA DO JUÍZO. AUSÊNCIA DE ILEGALIDADE FLAGRANTE OU ABUSO DE PODER.
+    (...)
+    3. O acolhimento da pretensão defensiva – existência de conexão entre os fatos discutidos em três feitos criminais diversos, que apuram os crimes de estelionato, duplicata simulada e falsidade ideológica – exigiria o reexame do conjunto fático-probatório da causa, medida incabível na via processualmente restrita do HC.
+    4. Agravo regimental desprovido.”
+    (HC 170.652-AgR/ES, Ministro Roberto Barroso – com meus grifos)
+    Desse entendimento também não divergiu o Ministério Público Federal:
+    “5. Ressalte-se, primeiramente, que em razão da impossibilidade do exame e valoração de provas em sede de ‘habeas corpus’, a análise da pretensão tem necessariamente que ser feita tomando-se por base os fatos descritos nas duas denúncias apresentadas contra os recorrentes, os mesmos fatos que justificaram a improcedência da Medida Cautelar Inominada pelo Tribunal de Justiça do Estado de São Paulo e a denegação do ‘Habeas Corpus’ impetrado no Superior Tribunal de Justiça.” (com meus grifos)
+    Em face do exposto, nego provimento ao presente recurso ordinário em habeas corpus.
+    Intime-se. Publique-se.
+    Brasília, 12 de março de 2021.
+Ministro NUNES MARQUES
+Relator
