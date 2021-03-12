@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO NÃO CONHECIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão combatida atrai a incidência dos arts. 1.021, § 1º, do CPC e da Súmula 182 desta Corte.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que não conheceu do agravo em recurso especial.
+O agravante repisa as alegações trazidas no recurso especial a respeito da nulidade do flagrante.
+Requer, assim, a reconsideração do julgado ou o provimento do recurso pela 6ª Turma, a fim de que o recorrente seja absolvido.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi proferida nos seguintes termos:
+Cuida-se de agravo em recurso especial interposto por ALEXANDRE WAGNER FERREIRA contra decisão que negou seguimento ao recurso especial em razão de o acórdão recorrido encontrar-se em consonância com o entendimento firmado sob o rito da repercussão geral, bem como o inadmitiu quanto às demais questões.
+É, no essencial, o relatório. Decido.
+Inicialmente, registre-se que o Enunciado n. 77 aprovado na I Jornada de Direito Processual Civil do Conselho da Justiça Federal assim estabelece:
+Para impugnar decisão que obsta trânsito a recurso excepcional e que contenha simultaneamente fundamento relacionado à sistemática dos recursos repetitivos ou da repercussão geral (art. 1.030, I, do CPC) e fundamento relacionado à análise dos pressupostos de admissibilidade recursais (art. 1.030, V, do CPC), a parte sucumbente deve interpor, simultaneamente, agravo interno (art. 1.021 do CPC) caso queira impugnar a parte relativa aos recursos repetitivos ou repercussão geral e agravo em recurso especial/extraordinário (art. 1.042 do CPC) caso queira impugnar a parte relativa aos fundamentos de inadmissão por ausência dos pressupostos recursais.
+Com efeito, "no caso de inadmissibilidade de recurso especial com base no art. 543-C, § 7º, I, do CPC em relação a um ponto e de negativa de seguimento quanto aos outros, deve a parte interpor, simultânea e respectivamente, agravo regimental e agravo em recurso especial". (AgRg no AREsp n. 531.003/PR, relator Ministro João Otávio de Noronha, Terceira Turma, DJe de 12/12/2014.) Desta feita, no que tange à parte relativa a aplicação da sistemática dos recursos repetitivos, o recurso não comporta conhecimento, pois, de acordo com o disposto no art. 1.030, § 2º, do CPC, é cabível agravo interno contra o capítulo da decisão que nega seguimento a recurso especial com base nos incisos I e III do mencionado art. 1.030 do CPC.
+Assim, a interposição de recurso diverso do previsto expressamente em lei torna-o manifestamente incabível, o que afasta, inclusive, o princípio da fungibilidade recursal, uma vez que não há dúvida objetiva acerca do recurso cabível. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO ADMITE RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. APLICAÇÃO DO CPC/2015. NÃO CABIMENTO DE AGRAVO EM RECURSO ESPECIAL. PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO. FUNGIBILIDADE RECURSAL.
+INAPLICABILIDADE.
+1. Ação de compensação por dano moral e reparação por dano material.
+2. Agravo em recurso especial que está sujeito às normas do CPC/2015.
+3. Conforme determinação expressa contida no art. 1.030, I, "b" e § 2º, c/c 1.042, caput, do CPC/2015, é cabível agravo interno contra decisão na origem que nega seguimento ao recurso especial com base em recurso repetitivo.
+4. A interposição de agravo em recurso especial constitui erro grosseiro, porquanto inexiste dúvida objetiva, ante a expressa previsão legal do recurso adequado.
+5. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp n. 1.539.749/ES, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 12/02/2020.)
+Melhor sorte não assiste ao agravante em relação ao capítulo da decisão que inadmitiu o recurso especial em razão de não preencher os requisitos de admissibilidade recusais.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 284/STF, divergência não comprovada, impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente:
+Súmula 284/STF, divergência não comprovada e impossibilidade de alegação de divergência com paradigmas oriundos de habeas corpus, mandado de segurança ou recurso ordinário.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA.
+IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria
+quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp n. 746.775/PR, Corte Especial, relator Ministro João Otávio de Noronha, relator para Acórdão Ministro Luis Felipe Salomão, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula 182/STJ.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo.
+Observa-se que o agravante deixou de enfrentar os fundamentos que justificaram o não conhecimento do recurso, reeditando as teses do recurso especial, não comportando conhecimento, nos termos do art. 1.021, § 1º, do CPC e da Súmula 182/STJ.
+Nesse sentido: AgRg nos EDcl no AREsp 1264993/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 11/12/2018, DJe 01/02/2019; e AgInt no AREsp 1193179/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019.
+Ante o exposto, voto por não conhecer do agravo regimental.
