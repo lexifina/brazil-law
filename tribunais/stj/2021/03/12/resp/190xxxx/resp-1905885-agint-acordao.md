@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/06. FRAÇÃO DE 1/6. ATUAÇÃO COMO "MULA". FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a condição de mula do tráfico, por si só, não afasta a incidência do art. 33, § 4º, da Lei 11.343/2006, podendo, contudo, autorizar a aplicação da minorante em 1/6. Precedentes.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face de decisão que deu provimento ao recurso especial para reduzir a pena da recorrente para 4 anos, 10 meses e 10 dias de reclusão, além de 485 dias-multa, bem como para determinar ao Tribunal de origem que proceda à fixação do regime inicial de cumprimento da pena, com estrita observância às regras do art. 387, § 2º, do CPP.
+A defesa alega ser devida a aplicação da redutora do tráfico privilegiado em seu grau máximo, com a imposição do regime prisional aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Requer, assim, seja dado provimento ao recurso para reduzir a pena da recorrente em patamar superior ao mínimo, na forma do artigo 33, §4º, da Lei n. 11.343/06.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Conforme relatado, a defesa busca a aplicação da redutora do tráfico privilegiado em seu grau máximo, com a imposição do regime prisional aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+A decisão agravada, quanto ao ponto, foi assim proferida (fls. 487/500):
+Sobre a dosimetria da pena, verifica-se da sentença (fls. 366/367):
+Passo a dosagem da pena.
+Na primeira fase da dosimetria da pena, analiso as circunstâncias judiciais do artigo 42 da Lei nº 11.343/06 e do artigo 59 do Código Penal: culpabilidade (dolo inerente ao tipo, sem considerações que possam aumentar significativamente a reprovabilidade da conduta);
+antecedentes (a ré é primária); conduta social (nada a considerar); personalidade (nada a considerar); motivos do crime (inerentes à espécie); circunstâncias do crime (mais graves do que o usual, porquanto o delito foi cometido em caráter interestadual, o que será considerado na terceira fase da dosimetria); consequências do crime (inerentes à espécie); comportamento da vítima (nada a considerar); natureza e quantidade do entorpecente (a quantidade de droga apreendida é grande massa líquida total 1.146,00 gramas, cf. laudo de fls. 54/59, razão pela qual demonstra maior desvalor da conduta, ensejando maior reprovação).
+Assim, fixo a pena-base 1/6 (um sexto) acima do mínimo legal em virtude da quantidade, ou seja, em 05 (cinco) anos e 10 (dez) meses de reclusão, e 583 (quinhentos e oitenta e três) dias-multa.
+Na segunda fase da dosimetria, ausentes circunstâncias agravantes ou atenuantes.
+Na derradeira fase da dosimetria, presente a causa de diminuição de pena da confissão, pelo que reduzo a pena de 1/6 (um sexto).
+Em razão da condição de "mula do tráfico", inviável o reconhecimento do tráfico privilegiado. A condição do réu de mula impede que lhe seja aplicável a causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06. Isto porque o referido dispositivo legal dispõe que tem direito ao benefício o réu que, dentre outras coisas, "não se dedique às atividades criminosas nem integre organização criminosa".
+Entretanto, a condição de mula do acusado demonstra que, na verdade, ele não só se dedica a atividades criminosas com o intuito de lucro (in casu, mil dólares), como é peça fundamental para a disseminação das substâncias ilícitas pelo país, visto que ajuda a transportar drogas. Aliás, no caso em tela, o acusado transportou grande quantidade de cocaína (mais de três quilos), sendo essa droga um dos tipos de entorpecentes mais nefastos dos dias atuais. Assim já decidiu o Pretório Excelso:
+ ..  Também, no mesmo sentido, esclarecendo que "o agente que transporta drogas na qualidade de "mula" do tráfico, como regra, integra organização criminosa": STJ 5 a Turma, HC 288.046, Rel. Min. Reynaldo Soares da Fonseca, DJe 08/06/2016.
+Presente, entretanto, a causa de aumento de pena prevista no artigo 40, inciso V, da Lei de Drogas, uma vez que ficou demonstrado que o transporte da droga tinha caráter interestadual, porquanto envolveu dois Estados da Federação (Mato Grosso do Sul e São Paulo).
+Desta feita, majoro a reprimenda à razão de 1/6 (um sexto), totalizando 05 (cinco) anos e 10 (dez) meses de reclusão e a multa de valor de 583 (quinhentos e oitenta e tres dias).
+E do acórdão da apelação (fls. 445/446):
+As penas foram corretamente fixadas e não comportam reparo.
+A pena-base foi fixada 1/6 acima do mínimo legal, e assim deve ser mantida, uma vez que nada impede que a quantidade de entorpecentes seja considerada para exasperação da pena- base, nos termos do artigo 42, da Lei de Drogas.
+Embora a defesa alegue que a apelante não sabia da quantidade de maconha que trazia consigo, ela tinha todas as condições para tanto, e, por certo, esta alegação não retira sua responsabilidade.
+Presente a atenuante da confissão espontânea, a reprimenda retornou ao piso.
+Na terceira fase, foi devidamente afastado o emprego da causa de diminuição de pena do artigo 33, § 4º, da Lei de Drogas, nos seguintes termos:
+"(..) A condição da ré de mula impede que lhe seja aplicável a causa de diminuição (..).
+Isto porque o referido dispositivo legal dispõe que tem direito ao benefício o réu que, dentre outras coisas, não se dedique às atividades criminosas nem integre organização criminosa . Entretanto, a condição de mula da acusada demonstra que, na verdade, ela não só se dedica a atividades criminosas com o intuito de lucro (in casu, mil dólares), como é peça fundamental para a disseminação das substâncias ilícitas pelo país, visto que ajuda a transportar drogas. (..)" (fl. 367).
+Assim, o claro envolvimento da apelante na organização criminosa para distribuição de drogas no território nacional, impede a concessão de tamanha benesse.
+Finalmente, presente a causa de aumento de pena do art.40, inciso V, da Lei de Drogas, houve majoração em 1/6, atingindo, em definitivo, 05 anos e 10 meses de reclusão e pagamento de 583 dias-multa, no valor unitário mínimo.
+Como se vê, as instâncias ordinárias negaram a aplicação da redutora do tráfico privilegiado, uma vez que a condição da ré de mula impede que lhe seja aplicável a causa de diminuição (..). Isto porque o referido dispositivo legal dispõe que tem direito ao benefício o réu que, dentre outras coisas, não se dedique às atividades criminosas nem integre organização criminosa . Entretanto, a condição de mula da acusada demonstra que, na verdade, ela não só se dedica a atividades criminosas com o intuito de lucro (in casu, mil dólares), como é peça fundamental para a disseminação das substâncias ilícitas pelo país, visto que ajuda a transportar drogas.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a condição de mula do tráfico, por si só, não afasta a incidência do art. 33, § 4º, da Lei 11.343/2006, podendo, contudo, autorizar a aplicação da minorante em 1/6. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. CAUSA DE DIMINUIÇÃO DA PENA PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/06. FRAÇÃO DE 1/6. ATUAÇÃO COMO "MULAS". FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte, acompanhando o atual posicionamento do Supremo Tribunal Federal - STF, entende que a simples atuação do agente como "mula", por si só, não induz que integre organização criminosa, sendo imprescindível, para tanto, prova inequívoca do seu envolvimento, estável e permanente, com o grupo criminoso, a autorizar a redução da pena em sua totalidade. Contudo, embora o desempenho dessa função não seja suficiente para denotar que o agravante faça parte de organização criminosa, tal fato constitui circunstância concreta para ser valorada na definição do índice de redução pelo tráfico privilegiado, uma vez se reveste de maior gravidade (AgRg no AREsp 1534326/SP, Rel.
+Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/9/2019, DJe 24/9/2019).
+2. Agravo regimental desprovido.
+(AgRg no AREsp 1762871/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/12/2020, DJe 03/12/2020)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. FRAÇÃO DE REDUÇÃO DA PENA EM 1/6 PELA APLICAÇÃO DA MINORANTE DO § 4º, DO ART. 33, DA LEI N. 11.343/2006. JUSTIFICADA. "MULA". INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Supremo Tribunal Federal consolidou o entendimento de que a atuação do agente na condição de "mula", embora não seja suficiente para denotar que integre, de forma estável e permanente, organização criminosa, pode ser utilizada, na terceira fase da dosimetria, para modular a aplicação da causa especial de diminuição de pena pelo tráfico privilegiado, como é a hipótese dos autos (AgRg no REsp 1801745/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 7/11/2019, DJe 12/11/2019).
+2. Nessa esteira, a jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que o conhecimento do acusado de estar a serviço de organização criminosa voltada ao tráfico de drogas, como na hipótese dos autos, é circunstância apta a justificar a redução da pena no patamar mínimo, isto é, de 1/6 (um sexto), pela aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+3. A fração escolhida não se mostra desproporcional ou desarrazoada, porquanto fundamentada em elementos concretos e dentro do critério da discricionariedade vinculada do julgador.
+4. Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1667616/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2020, DJe 24/06/2020)
+Com efeito, a decisão agravada deve ser mantida por seus próprios fundamentos, pois foi proferida nos termos da jurisprudência do Superior Tribunal de Justiça, firme no sentido de que a condição de mula do tráfico, por si só, não afasta a incidência do art. 33, § 4º, da Lei 11.343/2006, podendo, contudo, autorizar a aplicação da minorante em 1/6.
+Ante o exposto, voto por negar provimento ao agravo regimental.
