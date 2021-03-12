@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravointerposto por POSTAL SAUDE - CAIXA DE ASSISTENCIA E SAUDE DOS EMPREGADOS DOS CORREIOS contra decisão do Tribunal de Justiça do Estado de Mato Grosso que não admitiu recurso especial manejado contra acórdão assim ementado:
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DEFAZER C/C INDENIZAÇÃO POR DANOS MORAIS - PLANO DE SAÚDE -PROCEDÊNCIA - NEGATIVA DE FORNECIMENTO DO MEDICAMENTO IPILIMUMABE ASSOCIADO AO NIVOLUMABE, NÃO PREVISTOS NO ROL DA ANS - POSSIBILIDADE - TAXATIVIDADE DO ROL DA ANS MITIGADA - CLÁUSULA CONTRATUAL - APLICAÇÃO DOS ART. 422 E 423, AMBOS DO CPC/15 - OBRIGAÇÃO DE CUSTEIO DO PROCEDIMENTO MANTIDA - DANO MORAL - INOCORRÊNCIA - MERO DESCUMPRIMENTO DE CLAÚSULA CONTRATUAL - RECURSO PARCIALMENTE PROVIDO. Em que pese o colendo Superior Tribunal de Justiça, em recentíssimo julgado, tenha se manifestado no sentido da superação do entendimento anteriormente firmado pela Corte, concluindo pela taxatividade do rolde procedimentos da ANS, desobrigando as operadoras da cobertura de eventos não relacionados no citado rol, quando há cláusula contratual no regulamento do plano de saúde prevendo cobertura superior ao rol definido pela ANS. Pensar de modo diverso resultaria em evidente desrespeito à norma do art. 422 do Código Civil, que determina aos contratantes a obrigação de guardar na conclusão do contrato e em sua execução, os princípios de probidade e boa-fé. A mera inobservância de cláusula contratual não se revela suficiente para causar ofensa anormal à personalidade, notadamente quando amparada em razoável interpretação contratual(e-STJ fls. 602/603).
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: 421 e 422 do Código Civil; 4º, III, da Lei nº 9.961/2000; e 10 da Lei nº 9.656/98, sustentando, em síntese, que a operadora do plano de saúde não está legal e contratualmente obrigada a fornecer medicamento/tratamento não previsto no rol de procedimentos obrigatórios editado pela ANS.
+Foram apresentadas contrarrazões às fls. 707/727 (e-STJ).
+Inadmitido o apelo nobre (e-STJ fls. 728/735), vieram os autos conclusos em virtude da interposição do agravo de fls. 739/748 (e-STJ).
+Impugnação às fls. 833/839 (e-STJ).
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo, prossigo com aanálise do recurso especial.
+A controvérsia diz respeito à recusa de fornecimentode medicaçãopara tratamento de câncer (melanoma maligno).
+O Tribunalde origem, ao apreciar a apelação interposta pelo agravante, assinalou:
+Cumpre ressaltar que, conforme entendimento do STJ (Súmula 608), as normas do Código de Defesa do Consumidor não se aplicam à espécie em exame, porquanto se trata de operadora de plano de saúde constituída na modalidade de autogestão. Assim, o contrato em questão, de adesão por natureza, é regido pelas normas do Código Civil.
+Assim é que da redação do art. 422 do Código Civil se observa a obrigatoriedade de que os contratantes são obrigados a guardar na conclusão do contrato e em sua execução, os princípios de probidade e boa-fé.
+Guardando relação de complementariedade, o art. 424 do mesmo regramento determina a nulidade das cláusulas insertas nos contratos de adesão que frustram a viabilidade do próprio objeto do negócio ou que restrinjam a obrigação inerente à natureza do contrato.
+Nesse sentido:
+(..)
+No caso dos autos, verifica-se do Manual do Beneficiário - Plano CORREIOSSAÚDE II, colacionado no ID nº 45427973, no CAPÍTULO 11 -DA COBERTURA DO PLANO CORREIOSSAÚDE II, item 11.1, que prevê:
+11.1. O Plano CorreiosSaúde II permite que você e seu(s) dependente(s) tenham uma ampla cobertura de procedimentos com base na tabela única de cobertura estabelecida para assistência médica e odontológica, a qual oferece cobertura superior ao rol definido pela Agência Nacional de Saúde Suplementar (ANS).
+E ainda, do Regulamento do Plano CORREIOSSAÚDE II, da POSTAL SAÚDE, colacionado no ID nº 45427974, pg. 17, no CAPÍTULO 09 -SERVIÇOS COBERTOS PELO PLANO CORREIOSSAÚDE II, item 9.1:
+9.1. O Plano tem cobertura de procedimentos com base em tabela única de cobertura estabelecida, a qual oferece cobertura superior ao rol definido pela ANS e acompanha todas as atualizações determinadas pela citada Agência Reguladora. A tabela de procedimentos cobertos pelo plano encontra-se disponível para consulta no portal da operadora.
+Como visto, a própria operadora POSTAL SAÚDE traz em seus normativos a expressa previsão de cobertura superior ao constante do rol da ANS.
+Assim, ainda que os medicamentos IPILIMUMABE associado ao NIVOLUMABE não estejam albergados no rol mínimo de cobertura da ANS, a operadora não pode valer-se da cláusula inserta em seus normativos para cooptar associados e, por outro lado, para desobrigar-se de custear o procedimento alegar que o rol da ANS vincula as obrigações do plano. Seria beneficiar-se da própria torpeza, em evidente afronta à máxima da vedação ao venire contra factum proprium, princípio base do Direito Civil.
+Desta feita, não se aplica o julgado da 4ª Turma do STJ no REsp. nº 1.733.013-PR, dada a existência de cláusula contratual aberta que permite a inserção e consequente cobertura dos procedimentos reivindicados pela autora, ainda que não inclusos no rol de procedimentos de eventos da ANS.
+Prestigia-se aqui o que foi pactuado entre as partes da avença.
+Assim, de ser mantida a sentença no ponto em que determinou a cobertura dos procedimentos pleiteados, mormente porque há também previsão contratual para a patologia acometida pela apelada. Ademais, os medicamentos possuem registro na ANVISA, diversamente do alegado pela apelante (e-STJ fls. 607/609).
+Nas razões recursais, contudo, a parte não impugnou os fundamentos em destaque, em especialo que consigna a existência de cláusula contratual aberta que permitiria a cobertura pleiteada pela parte recorrida, bem como o de que a operadora não pode valer-se de cláusula contratual para cooptar associados e, por outro lado, alegar que o rol da ANS vincula as obrigações do plano, para desobrigar-se de custear os remédios.
+Desse modo, mostra-se imperiosa a aplicação, por analogia, da Súmula 283/STJ
+Ademais, para afastar as premissas e conclusões a que chegou a Corte Estadual seria necessário revolver o conteúdo fático-probatório dos autos e interpretar cláusulas contratuais, procedimentos vedado em sede especial, conforme dispõem as Súmulas 5 e 7 do STJ.
+Ante o exposto,conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. PLANO DE SAÚDE. PRESCRIÇÃO DE MEDICAMENTO. NEGATIVA DE FORNECIMENTO. DOENÇA COBERTA PELO PLANO CONTRATADO. ROL DA ANS. ASSENTADA NO ACÓRDÃO A EXISTÊNCIA DE CLÁUSULA CONTRATUAL ABERTA QUE PERMITIRIA A COBERTURA PLEITEADA PELA PARTE RECORRIDA. FUNDAMENTO NÃO IMPUGNADO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 283/STF. REEXAME DE MATÉRIA FÁTICA E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
