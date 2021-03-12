@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor de MARCOS MATOS DE SENAcontra acórdão proferido pelo Tribunal de Justiça do Estado da Bahiano julgamento do HC n.8032116-10.2020.8.05.0000.
+Consta dos autos que a prisão em flagrante doPaciente foi convertida em prisão preventiva em 30/10/2020 (fls. 71-73). Em tese, teria praticado acondutadescritanoart. 33 da Lei de Drogas, pois estaria na posse de 22 (vinte e dois)quilogramas de "cocaína" (fl. 115).Inconformada, a Defesa impetrouhabeas corpus, cuja ordem foi denegadapela Corte local (fls. 114-137).
+Nestewrit, a Parte Impetrante sustenta, em síntese: a) a ausência de requisitos e de fundamentos idôneos para a prisão preventiva; b)a desproporcionalidade da medida extrema;e c) a suficiência de cautelares alternativas.
+Requer, em liminar e no mérito, a revogação da prisão preventiva.
+O pedido liminar foi indeferido pelo Ministro HUMBERTO MARTINS, no exercício da Presidência desta Corte Superior (fls. 141-142).As informações foram prestadas (fls. 149-181).O Ministério Público Federal, em parecer de fls. 183-185, opinou pelo não conhecimento ou pela denegação da ordem dehabeas corpus.
+É o relatório.Decido.
+No caso, oMagistrado de piso, ao converter a prisão em flagrante do Paciente em prisão preventiva, destacou a "natureza e quantidade expressiva (mais de vinte quilogramas de cocaína)  ..  o que aponta para a periculosidade concreta do agente".
+A manutenção da custódia cautelar encontra-se suficientemente fundamentada em razão das circunstâncias do caso que, pelas características delineadas, retratam, in concreto, a periculosidade do Agente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, considerando-se, sobretudo, a quantidade de droga apreendida -22 (vinte e dois) quilogramas de "cocaína" (fl. 115).
+Com efeito, a jurisprudência desta Corte entende pela idoneidade da fundamentação que decreta a prisão preventiva com base na gravidade concreta da conduta em razão da substancial quantidade da droga apreendida, conforme se observa doseguintejulgado:
+" ..
+2. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+3. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente, uma vez que foi apreendida elevada quantidade de entorpecentes (aproximadamente 1,050kg - um quilograma e cinquenta gramas - de cocaína). Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+4. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+5. Agravo regimental a que se nega provimento."(AgRg no RHC 125.192/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 12/05/2020, DJe 18/05/2020; sem grifos no original.)
+Ressalte-se que, nesta fase processual, não há como prever a quantidade de pena que eventualmente poderá ser imposta, caso seja condenado o Paciente, menos ainda se iniciará o cumprimento da reprimenda em regime diverso do fechado, de modo que não se torna possível avaliar a arguida desproporção da prisão cautelar imposta.
+E, demonstrada pelas instâncias ordinárias, com expressa menção à situação concreta, a presença dos pressupostos da prisão preventiva, não se mostra suficiente a aplicação de quaisquer das medidas cautelares alternativas à prisão, elencadas na nova redação do art. 319 do Código de Processo Penal, dada pela Lei n. 12.403/2011.
+Ante o exposto,DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. QUANTIDADE DE DROGA APREENDIDA. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. DESPROPORÇÃO ENTRE A PRISÃO CAUTELAR E A PENA DECORRENTE DE EVENTUAL CONDENAÇÃO. IMPOSSIBILIDADE DE AFERIÇÃO.ORDEM DENEGADA.
