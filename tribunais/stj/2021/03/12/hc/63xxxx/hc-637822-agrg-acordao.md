@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691/STF. TRÁFICO DE DROGAS. AUDIÊNCIA DE CUSTÓDIA. NÃO REALIZAÇÃO. MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO DE DOMICÍLIO. NULIDADE. ANÁLISE DO MÉRITO DA IMPETRAÇÃO. WRIT INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A questão referente à alegada nulidade da prisão por ausência de realização de audiência de custódia não foi apreciada pelas instâncias de origem, não cabendo a esta Corte a análise inaugural da matéria, sob pena de indevida supressão de instância.
+2. A pretensão de reconhecimento da ilegalidade do flagrante em razão da invasão de domicílio do paciente é passível de indeferimento do pedido de liminar, em habeas corpus, por demandar, inclusive, análise do próprio mérito da impetração.
+3. Não havendo ilegalidade para justificar a mitigação do enunciado da Súmula 691 do STF, o writ deve ser indeferido liminarmente.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão da Presidência desta Corte Superior, que indeferiu liminarmente o habeas corpus (fls. 248/249), pelo óbice da Súmula 691 do STF.
+Consta dos autos que o agravante foi preso preventivamente em 18/12/2020, pela prática dos crimes previstos no art. 33, caput, e art. 35, ambos da Lei n. 11.343/2006.
+Sustenta a defesa, ilegalidade no cumprimento do mandado de prisão ocorrido às 19h e, por isso, durante à noite, o que é vedado pela Constituição Federal em observância ao princípio da inviolabilidade domiciliar.
+Alega o agravante ser possível, apesar do enunciado da Súmula n. 691/STF, o conhecimento do writ quando evidenciada a presença de decisão teratológica ou desprovida de fundamentos.
+Menciona, ainda, ausência de realização da audiência de custódia.
+Pugna, portanto, seja reconhecida nulidade processual para revogar a prisão preventiva, com a expedição de alvará de soltura.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A teor do disposto no enunciado da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão queindeferiua liminar em writ impetrado no Tribunal a quo, sob pena de indevida supressão de instância.
+Contudo, a despeito de tal óbice processual, tem-se entendido que, em casos excepcionais, quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação, é possível a mitigação do referido enunciado.
+A decisão agravada foi assim fundamentada (fls. 248/249):
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.  ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar." No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular.
+Como relatado, sustenta o agravante ilegalidade no cumprimento do mandado de prisãoocorrido às19h e, por isso, durante à noite, o que é vedado pela Constituição Federal em observância ao princípio da inviolabilidade domiciliar.
+Afirma, ademais, nulidade decorrente de não realização da audiência de custódia.
+No entanto, compulsando os autos, não houve análise do Tribunal a quo acerca de eventual ilegalidade do horário de cumprimento do mandando de prisão preventiva, não trazendo, outrossim, respectivo decreto preventivo nesta via, restando, portanto, impossibilitada a análise da alegação de ilegalidade da medida extrema.
+Nesse contexto, a ausência de juntada de documentos essenciais ao deslinde da controvérsia e a ausência de flagrante ilegalidade no cumprimento do decreto prisional justificam o indeferimento da liminar, assim como realizado na origem, não se verificando, no caso, a ocorrência de ilegalidade apta a justificar a mitigação do enunciado da Súmula n. 691 do STF.
+Noutro passo, a questão referente à alegação de nulidade da prisão por ausência de realização de audiência de custódia não foi apreciada pelas instâncias de origem, não cabendo a esta Corte a análise inaugural da matéria, sob pena de indevida supressão de instância.
+Em relação ao tema, o entendimento majoritário desta Sexta Turma é no sentido de que sua não realização não enseja nulidade da prisão preventiva em que posteriormente convertida, pois observadas as outras garantias processuais e constitucionais, restando então superado o exame desse tema (AgRg no HC 353.887/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/05/2016, DJe 07/06/2016; RHC 76.906/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/11/2016, DJe 24/11/2016; RHC 63632/PR, Rel. Min.ROGÉRIO SCHIETTI CRUZ, Sexta Turma, julgado em 25/10/2016, DJe 18/11/2016).
+Fiquei vencido nos precedentes citados e permaneço com igual compreensão. É a audiência de custódia requisito de garantia para a prisão, que não resta superado pela conversão do flagrante em preventiva.
+Em temas fundamentais ao processo - e a prisão talvez seja aquele que mais diretamente atinja a pessoa do acusado - a forma é instrumento de garantia, inarredável pelos danosos efeitos que provoca, no caso tornando letra morta garantia de preservação pessoal assumida pelo país em compromissos internacionais e permitindo não somente a proliferação desnecessária da custódia cautelar, como impedindo o direito de contato pessoal do preso com seu juiz, assim como a constatação direta pelo magistrado das condições físicas do preso e das circunstâncias de sua prisão.
+Mais que forma, é garantia de preservação pessoal processualmente estabelecida em favor do cidadão.
+Não obstante, por segurança jurídica, pois à sociedade desserve a compreensão diversa de justiça unipessoal do integrante de colegiado, tão somente ressalvo meu entendimento no tema e acompanho o resultado esperado e acima citado de precedentes desta Sexta Turma.
+Ante o exposto, voto por negar provimento ao agravo regimental.
