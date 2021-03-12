@@ -1,0 +1,4 @@
+DECISÃO
+Tendo em vista a decisão de fl. 73, que julgou prejudicados os embargos à execução opostos pela UNIÃO, e diante da necessidade de adequação dos cálculos exequendos nos termos dos parâmetros fixados no julgamento dos EDcl no AgInt na ExeMS 7.200/DF - 2006/0092593-0 (Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/12/2018, DJe 19/02/2019), certifique a Coordenadoria de Processamento de Feitos em Execução Judicial o trânsito em julgado e promova o arquivamento dos autos com baixa na distribuição.
+Salientoque assim como consignado em decisão proferida em 5/3/2021 na execução conexa, após a adequação dos cálculos pelos exequentes a UNIÃO será intimada para, querendo, apresentar impugnação nopróprio feito executivo, nos termos do art. 535 do CPC.
+Publique-se. Intimem-se.
