@@ -1,0 +1,107 @@
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE MÚTUO BANCÁRIO. ABUSIVIDADE NA PACTUAÇÃO. AFASTAMENTO DE ENCARGOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SIMPLES TRANSCRIÇÃO DE JULGADOS. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2. No caso concreto, o Tribunal de origem concluiu pela desnecessidade da inversão do ônus da prova e pela inexistência de prova de cláusulas abusivas. Decidir de modo contrário demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Tratando-se de recurso interposto pela alínea "c", deve o recorrente comprovar, analiticamente, que os acórdãos confrontados deram ao mesmo artigo de lei interpretações divergentes. Descumprido tal requisito, incide, por analogia, a Súmula n. 284/STF.
+4. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 511/525) interposto contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial, em virtude da incidência das Súmulas n. 7/STJ e 284/STF (e-STJ fls. 504/508).
+Em suas razões, o agravante afirma serem inaplicáveis os referidos óbices.
+Sustenta que "por via de regra deve ser aplicado as normas de defesa do consumidor à situação em tela, devendo ser invertido o ônus da prova, eis que demonstrado as provas para que seja acolhido tal pedido" (e-STJ fl. 519).
+Argumenta ainda que "houve a devida indicação dos artigos legais e sua conotação recursal, a fim de demonstrar os pontos da decisão a quo que merecem reforma" (e-STJ fl. 524).
+Defende, por fim, a inversão do ônus sucumbencial.
+Ao final, pede o provimento do agravo.
+Foi certificado, à fl. 529 (e-STJ), o decurso de prazo para impugnação.
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE MÚTUO BANCÁRIO. ABUSIVIDADE NA PACTUAÇÃO. AFASTAMENTO DE ENCARGOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. SIMPLES TRANSCRIÇÃO DE JULGADOS. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+2. No caso concreto, o Tribunal de origem concluiu pela desnecessidade da inversão do ônus da prova e pela inexistência de prova de cláusulas abusivas. Decidir de modo contrário demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. Tratando-se de recurso interposto pela alínea "c", deve o recorrente comprovar, analiticamente, que os acórdãos confrontados deram ao mesmo artigo de lei interpretações divergentes. Descumprido tal requisito, incide, por analogia, a Súmula n. 284/STF.
+4. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.736.202 - RS (2020/0190291-7)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+OLI BATISTA GOLDANI
+ADVOGADO
+:
+CARLOS EDUARDO DE LA TORRES DIAS - RS054063
+AGRAVADO
+:
+CAIXA ECONÔMICA FEDERAL
+ADVOGADO
+:
+VOLNIR CARDOSO ARAGAO - RS028906
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 504/508):
+Cuida-se de agravo apresentado por OLI BATISTA GOLDANI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+CIVIL. PROCESSUAL. ADMINISTRATIVO. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE MÚTUO BANCÁRIO. REVISIONAL.
+1. É pacífico o entendimento de que se aplica o CDC às relações contratuais firmadas com as instituições financeiras, tendo em vista o disposto na Súmula 297 do STJ. Todavia, daí não resulta a automática inversão do ônus da prova, para o que se impõe a comprovação da hipossuficiência do devedor, além da plausibilidade da tese defendida por ele.
+2. Não existe base legal para a limitação dos juros remuneratórios em 12% ao ano. O Supremo Tribunal Federal decidiu pela impossibilidade de auto-aplicação do art. 192, § 3º, da Constituição Federal, ficando sua efetividade condicionada à legislação infraconstitucional relativa ao Sistema Financeiro Nacional, especialmente à Lei n.º 4.595/64, cujo art. 4º, inciso IX, atribui ao Conselho Monetário Nacional competência para limitar a taxa de juros e quaisquer outras remunerações de operações e serviços bancários ou financeiros, afastando, portanto, a incidência do Dec. nº 22.626/33.
+3. A utilização dos embargos do devedor não é o meio adequado para a embargante promover a revisão de contratos pretéritos, ainda que deles tenham originado o título exequendo, uma vez que seu processamento desvirtua a finalidade da ação de execução, diante do efeito protelatório da instrução probatória exigida para o conhecimento da questão. Registre-se que não se está negando ao embargante a possibilidade de revisar judicialmente em ação específica os contratos contratos anteriores com a finalidade de afastar eventuais ilegalidades praticadas pelo agente financeiro, conforme faculta o enunciado da Súmula n.º 286 do STJ. Sendo a execução baseada em título autônomo (cédula de crédito bancário), os pertinentes embargos só podem versar sobre defeitos ou vícios extrínsecos de sua natureza.
+4. A justiça só pode intervir ao pacto firmado entre as partes quando houver prova de arbitrariedades ou de prejuízos evidentes, o que não se confirma no presente caso, haja vista que o recorrente não indicou quais cláusulas pretende impugnar, nem demonstrou a cobrança de tarifas por parte da Contratante.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 6º, VIII, do CDC; e 373, § 1º, do CPC, no que concerne ao ônus da prova, trazendo os seguintes argumentos:
+Assim, por via de regra deve ser aplicado as normas de defesa do consumidor a situação em tela, devendo ser invertido o ônus da prova, eis que demonstrado as provas para que seja acolhido tal pedido.
+ ..
+No presente caso, a inversão do ônus da prova se faz cogente, além de outros preceitos legais impostergáveis expressos no Código de Defesa do Consumidor, dentre os quais citamos os Art. 39, incisos IV e V, Art. 46, Art. 47, Art. 51, incisos IV e X; e o Art. 52 militam em favor do recorrente outros dispositivos deste diploma legal, como por exemplo os Art. 3º, § 2º, Art. 6º incisos IV, V e VIII, e o Art. 29.
+Outrossim, na forma do Art. 6º, VIII do Código de Defesa do Consumidor, bem como Art. 373, § 1º do Código de Processo Civil, deveria a parte apelada ter trazido prova da constituição de seu débito, o que não fez, haja vista as razões supra, o que inclusive foi reconhecido pelo Tribunal a quo.
+ ..
+Portanto, vê-se que ao entender pela não juntada dos contratos anteriores, o Tribunal a quo além de caracterizado transparente conflito jurisprudencial, negou vigência aos Art. 6º, VIII c/c Art. 373, § 1º do Código de Processo Civil, merecendo provimento o presente recurso para cassar a sentença originária e ordenar a juntada dos contratos que deram origem à dívida exequenda (fls. 411/415).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, alega divergência de interpretação dos dispositivos supracitados.
+Quanto à terceira controvérsia, pela alínea "a" do permissivo constitucional, traz os seguintes argumentos:
+Cumpre referir que a recorrida pretende cobrança do valor do contrato na sua totalidade, sendo este indevido e abusivo, uma vez que não utilizado na sua apuração a taxa de juros aplicável.
+Ainda, é fundamental a discussão da causa debendi no presente caso, face ter sido aplicados taxas de juros acima do aceitável juridicamente, acarretando assim a evolução da dívida ao patamar lançado na presente ação. Logo, constatada a presença de abusividade na origem, viável a revisão dos negócios jurídicos que deram origem à Cédula de Crédito exequível.
+ ..
+Excelência, não necessita-se maiores digressões para o fato de que a jurisprudência nacional entende que todos os contratos devem atender ao limite de 1,00% a.m. ou da taxa média de mercado, qual apurado de forma legítima supra. Portanto, não resta dúvida que ao valor devido pelos embargantes deveria ser aplicada a taxa de 1,00% a.m. ou a taxa média praticada pelo mercado (fls. 421/423).
+É, no essencial, o relatório. Decido.
+No que concerne à primeira controvérsia, o Tribunal de origem se manifestou nos seguintes termos:
+Assim sendo, tem-se que os efeitos práticos da incidência das normas e princípios do CDC estão condicionados à comprovação de abuso praticado pelo agente financeiro, ônus excessivo, desvantagem exagerada, enriquecimento ilícito da mutuante, nulidade de cláusula contratual, ofensa aos princípios da transparência e da boa-fé, entre outros, o que não ocorreu in casu
+ ..
+Dessa forma, entendo que não se faz necessária, nestes embargos à execução, a apresentação de documentos referentes a contratos pretéritos, uma vez que o objeto da presente demanda está ligado estritamente à Cédula de Crédito Bancário GiroCAIXA 3140.183.1004-3 (fls. 393/395).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "Nos termos da jurisprudência desta Corte, a inversão do ônus da prova fica a critério do juiz, segundo apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em recurso especial." (AgInt no AgInt no AREsp 1.613.311/SP, relator Ministro Raul Araújo, Quarta Turma, DJe 5/8/2020).
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Em relação à segunda controvérsia, incide o óbice da Súmula n. 284/STF, pois, a despeito de ter sido apontada a alínea "c" do permissivo constitucional, a parte recorrente não indicou expressamente o acórdão tido por paradigma, o que impede eventual análise da divergência de interpretações.
+Nessa linha: "Nas razões do recurso especial, não foram apresentados acórdãos paradigmas para a comprovação do alegado dissídio jurisprudencial a respeito da configuração do dano moral. Tal deficiência impede a abertura da instância especial, nos termos da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, neste Tribunal". (AgRg no AREsp 728.706/RJ, relator Ministro Raul Araújo, Quarta Turma, DJe de 13/10/2015.)
+Vejam-se ainda os seguintes precedentes: AgRg no AgRg no AREsp 1.019.207/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 1º/8/2017; AgRg no AREsp 545.856/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 19/2/2015; e AgRg no AREsp 431.782/MA, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2014.
+No que tange à terceira controvérsia, também incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional. Aplicável, por conseguinte, o enunciado da citada súmula.
+Nesse diapasão: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Observem-se ainda os seguintes precedentes: AgInt no ARESP n. 1.611.260/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; AgInt nos EDcl no REsp n. 1.675.932/PR, relator Ministro Francisco Falcão, Segunda Turma, DJe de 4/5/2020; AgInt no REsp n. 1.860.286/RO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 14/8/2020; AgRg nos EDcl no AREsp n. 1.541.707/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 29/6/2020; AgRg no AREsp n. 1.433.038/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 14/8/2020; REsp n. 1.114.407/SP, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 18/12/2009; e AgRg no EREsp n. 382.756/SC, relatora Ministra Laurita Vaz, Corte Especial, DJe de 17/12/2009.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
+A Corte local, mediante a análise da prova dos autos, entendeu que, "a incidência da norma consumerista por si só não resulta na automática inversão do ônus da prova. Para isso tem de haver a comprovação da hipossuficiência do devedor, além da plausibilidade da tese defendida por ele, a critério do juiz, conforme o disposto no art. 6º, VIII,do CDC. Acrescente-se a isto, que o simples fato do contrato ser "por adesão", por si só, não o torna nulo, sendo necessária a demonstração de prática abusiva e excessiva onerosidade" (e-STJ fl. 393).
+Afirmou que não ocorreu a comprovação, por parte do agravante, de abuso praticado pelo agente financeiro, ônus excessivo, desvantagem exagerada, enriquecimento ilícito, nulidade de cláusula contratual ou ofensa aos princípios da transparência e da boa-fé.
+Aduziu que, no "referente à análise de contas e movimentações externas à Cédula de Crédito Bancário GiroCAIXA 3140.183.1004-3, adoto o entendimento de que a utilização dos embargos do devedor não é o meio adequado para a embargante promover a revisão de contratos pretéritos, ainda que deles tenham originado o título exequendo, uma vez que seu processamento desvirtua a finalidade da ação de execução, diante do efeito protelatório da instrução probatória exigida para o conhecimento da questão" (e-STJ fl. 394).
+Destacou que, "sendo a execução baseada em título autônomo (cédula de crédito bancário), os pertinentes embargos só podem versar sobre defeitos ou vícios extrínsecos de sua natureza" (e-STJ fl. 394).
+Por fim, concluiu pela manutenção da taxa de juros aplicada e pela inexistência de prova de cláusulas abusivas no contrato.
+Nestes termos, para dissentir das conclusões do acórdão recorrido quanto à inversão do ônus da prova e à abusividade da taxa de juros aplicada, seria necessário reexaminar o conjunto fático-probatório dos autos, o que não se admite em recurso especial, nos termos da Súmula n. 7 do STJ.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO PARA EMPRÉSTIMO DE CAPITAL DE GIRO. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SUFICIENTE. CAPITALIZAÇÃO DIÁRIA. MP 2.170-36/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. JUROS REMUNERATÓRIOS. TAXA MÉDIA DO MERCADO. COBRANÇA ABUSIVA. LIMITAÇÃO. NÃO COMPROVAÇÃO. SÚMULA 83/STJ. CARACTERIZAÇÃO DA MORA. AGRAVO NÃO PROVIDO.
+1. Não há violação aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. A eg. Segunda Seção do STJ, em sede de julgamento de recurso especial representativo da controvérsia, firmou tese no sentido de que: (a) "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada"; e (b) "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (REsp 973.827/RS, Ministra MARIA ISABEL GALLOTTI, Rel. p/ acórdão, SEGUNDA SEÇÃO, julgado em 08/08/2012, DJe de 24/09/2012).
+3. Na hipótese, o acórdão recorrido consignou a existência de pactuação de capitalização diária, razão pela qual não está a merecer reforma. Precedentes do STJ.
+4. A jurisprudência do STJ orienta que a circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+5. Na hipótese, ante a ausência de comprovação cabal da cobrança abusiva, deve ser mantida a taxa de juros remuneratórios acordada.
+6. O reconhecimento da validade dos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) implica a caracterização da mora.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.726.346/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/11/2020, DJe 17/12/2020.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. EMBARGOS À EXECUÇÃO. INVERSÃO DO ÔNUS DA PROVA. NÃO CABIMENTO NA ESPÉCIE. SÚMULA Nº 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Esta Corte Superior registra precedentes no sentido de que, havendo indícios suficientes da prática de agiotagem, nos termos da Medida Provisória n. 2.172-32, é possível a inversão do ônus da prova, imputando-se, assim, ao credor, a responsabilidade pela comprovação da regularidade jurídica da cobrança.
+2. "A inversão do ônus da prova fica a critério do juiz, conforme apreciação dos aspectos de verossimilhança da alegação do consumidor e de sua hipossuficiência, conceitos intrinsecamente ligados ao conjunto fático-probatório dos autos delineado nas instâncias ordinárias, cujo reexame é vedado em sede especial" (AgRg no REsp 662.891/PR, 4ª Turma, Rel. Min. Fernando Gonçalves, DJ 16/5/2005).
+3. Na hipótese, o acórdão recorrido afastou, categoricamente, qualquer indício da existência de prática de agiotagem. Assim, para prevalecer a pretensão em sentido contrário à conclusão do tribunal de origem, mister se faz a revisão do conjunto fático dos autos, o que, nos termos da Súmula nº 7 desta Corte, é vedado nesta instância especial.
+4. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 541, parágrafo único, do Código de Processo Civil e do art. 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, o que, no caso, não restou atendido.
+5. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp 123.650/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/02/2013, DJe 04/03/2013.)
+Por fim, quanto ao alegado dissídio jurisprudencial, anoto que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige que o recorrente demonstre, de forma expressa e clara, como foi contrariada a lei federal à qual foi atribuída interpretação divergente, bem como que comprove o dissídio mediante cotejo analítico entre o acórdão recorrido e os paradigmas (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015), ônus dos quais a parte não se desincumbiu, limitando-se à simples transcrição de julgados. Nesses termos, quanto ao dissenso, o recurso também encontra óbice na Súmula n. 284 do STF.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
