@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado por LIA RAQUEL ROCHA SANTOS contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre apresentado, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim resumido:
+PROCESSO CIVIL APELAÇÃO CÍVEL MANDADO DE SEGURANÇA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA PRELIMINARES ARGUIDAS PELA PARTE APELADA E PELO MINISTÉRIO PÚBLICO REJEITADAS SURDEZ UNILATERAL INTELIGÊNCIA DA SÚMULA 552 DO STJ RECURSO CONHECIDO E NÃO PROVIDO MANUTENÇÃO DA SENTENÇA RECORRIDA.
+Quanto à controvérsia, alega violação do art. 37, inciso VIII, da CF/88, no que concerne ao entendimento de que a perda auditiva unilateral não confere direito a concorrer para as vagas destinadas aos portadores de deficiência, trazendo o(s) seguinte(s) argumento(s):
+De fato, a matéria em análise não é tranquila, visto que a deficiência auditiva referida no decreto aduz perda bilateral, parcial ou total. Ocorre que, a matriz de tudo isso está na Constituição, na qual procurou, em muitas hipóteses, trazer a possibilidade de inclusão dos deficientes no mercado de trabalho, sobretudo no serviço público.
+Um indivíduo que tenha perda auditiva tão significativa, mesmo sendo de um ouvido, não tem a mesma condição que aqueles com a audição normal.
+Por esse motivo, está em consonância com o objetivo da própria Constituição lhe assegurar o direito de concorrer nas vagas destinadas a deficientes, conforme vários precedentes a respeito. Inclusive, essa questão não é tão diferente da visão monocular, que, conforme Súmula 377 editada pelo STJ, assegurou o direito àqueles que têm visão monocular de concorrerem como deficientes nos concursos, dentro das vagas reservadas para tal finalidade (fl. 243).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial porque visa discutir violação de norma constitucional que, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; e EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
