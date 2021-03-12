@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL INTEMPESTIVO. RECURSO POSTADO PELOS CORREIOS. DATA DO PROTOCOLO NO TRIBUNAL CONSIDERADA COMO A DATA DE INTERPOSIÇÃO DO RECURSO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. MÉRITO. FALTA DE PREQUESTIONAMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A falta de indicação do dispositivo de lei considerado violado ou a que se tenha dado interpretação divergente caracteriza a ausência de fundamentação, circunstância que atrai o enunciado da Súmula 284/STF.
+2. Não ficou caracterizada a violação do art. 489 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. Configura-se falta de prequestionamento quando a normatividade do dispositivo legal apontado violado não se encontra contemplada na fundamentação disposta pelo Tribunal de origem para solução da controvérsia.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUCIENE CRISTINA DE LIMAcontra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 312):
+AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL INTEMPESTIVO. DATA DO PROTOCOLO NO TRIBUNAL CONSIDERADA COMO A DATA DE INTERPOSIÇÃO DO RECURSO. AUSÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. FALTA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+Nas razões deste agravo interno (e-STJ, fls. 316-318), a recorrente alega que o prequestionamento ficto deve ser aplicado ao caso. Pondera ter apresentado embargos de declaração na tentativa de ver a matéria julgada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL INTEMPESTIVO. RECURSO POSTADO PELOS CORREIOS. DATA DO PROTOCOLO NO TRIBUNAL CONSIDERADA COMO A DATA DE INTERPOSIÇÃO DO RECURSO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. ART. 489 DO CPC/2015. NÃO OCORRÊNCIA. MÉRITO. FALTA DE PREQUESTIONAMENTO.AGRAVO INTERNO DESPROVIDO.
+1.A falta de indicação do dispositivo de lei considerado violado ou a que se tenha dado interpretação divergente caracteriza a ausência de fundamentação, circunstância que atrai o enunciado da Súmula 284/STF.
+2. Não ficou caracterizada aviolaçãodoart. 489 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. Configura-se falta de prequestionamento quando a normatividade do dispositivo legal apontado violado não se encontra contemplada na fundamentação disposta pelo Tribunal de origem para solução da controvérsia.
+4. Agravo interno desprovido.
+VOTO
+Os argumentos trazidos pela agravante não são capazes de modificar as conclusões da deliberação unipessoal.
+O Tribunal de origem, ao julgar o recurso, consignou o seguinte (e-STJ, fls. 177-178):
+Feitas essas considerações, preliminarmente, observa-se que o presente agravo regimental encontra-se intempestivo.
+Com efeito, a decisão agravada foi disponibilizada no Diário de Justiça Eletrônico em 08/03/2016, terça-feira (fl. 135), considerando-se publicada no dia 09/03/2016, de maneira que o prazo de cinco dias para interposição do agravo interno iniciou-se no dia 10/03/2016, quinta-feira, e findou-se em 14/03/2016 (certidão à fl. 136).
+Contudo, na espécie, verifica-se que a petição recursal foi enviada pelos Correios, e, de acordo com a jurisprudência dominante desta Corte e do Superior Tribunal de Justiça, a data a ser considerada como de interposição de recurso interposto na vigência do Código de Processo Civil de 1973 deve ser a do protocolo na Secretaria do Órgão Colegiado (15/03/2016 - fl. 139), e não a da postagem (10/03/2016 - fls. 138, 139 e 160).
+Nesse sentido, aplica-se analogicamente o disposto no Enunciado de Súmula nº 216 do STJ:
+(..)
+Posto isso, patente a intempestividade do regimental, considerando que o prazo recursal findou-se em 14/03/2016, mas o recurso somente foi protocolado na Secretaria da Câmara no dia 15/03/2016.
+Outrossim, ao analisar os embargos de declaração, definiu que (e-STJ, fls. 204-207):
+No mais, não assiste qualquer razão ao embargante, ao buscar a modificação do julgado no tocante à intempestividade reconhecida no agravo regimental.
+Cumpre asseverar que o acórdão embargado encontra-se em total consonância com a jurisprudência pacificada desta Corte e do Superior Tribunal de Justiça:
+(..)
+Apenas a título de esclarecimentos, cabíveis nessa modalidade recursal, observa-se que o embargante realizou a postagem da petição de agravo regimental por meio dos Correios, utilizando-se do SPP (Serviço de Protocolo Postal). A propósito, são conveniados ao mencionado protocolo, no âmbito do Distrito Federal, os seguintes órgãos públicos:
+(..)
+Como se pode observar, não se inclui no mencionado convênio o TJDFT, motivo pelo qual não há que se cogitar acerca da inclusão, como data de interposição do recurso, a data da postagem, permanecendo incólume o entendimento lançado no acórdão embargado, de que a data a ser considerada, para efeito de interposição do recurso, é a do protocolo na Secretaria do Órgão Colegiado.
+Não se pode perder de vista, ainda a título elucidativo, que, examinando o "comprovante do cliente", relativo às informações sobre a postagem do documento (fl. 138), consta que a petição recursal foi postada no dia 10/03/2016, quinta-feira, após o horário limite da agência dos correios, donde se conclui que o trânsito do referido documento somente teve início no dia seguinte, 11/03/2016, sexta-feira.
+Nesse sentido, há que se considerar que, em se tratando de um serviço dos correios, como é o caso do Sedex - serviço utilizado pela agravante/embargante para enviar seu documento (fl. 160) -, a movimentação normalmente ocorre em dias úteis. Assim, em vista do prazo de 5 dias corridos para interposição do antigo agravo regimental, e levando-se em conta que, no meio do prazo da recorrente, haveria final de semana, deveria esta ter diligenciado com maior celeridade, valendo-se de instrumentos legais colocados à sua disposição para a interposição de recursos, como é o caso do fác-símile previsto na Lei 9.800/99.
+Cumpre ressaltar, finalmente, que o prequestionamento pretendido pela embargante a fim de viabilizar a interposição de recursos extraordinários exige tão somente que a causa tenha sido decidida e fundamentada no julgado, não havendo necessidade de pronunciamento expresso sobre todos os dispositivoslegais mencionados pela parte.
+Como firmado na decisão recorrida, não houve prequestionamento do argumento utilizado para tentar modificar o deslinde da questão sobre a comprovação de convivência. Tendo o acórdão recorrido declarado aintempestividade do recurso interposto, não havia como analisar o mérito da questão, uma vez que, diante da intempestividade, o recurso não chega a merecer conhecimento. Não ultrapassando essa fase, o mérito não pode ser analisado. Assim, não há vício a ser suprido pelo prequestionamento ficto.
+No que tange à alegação de violação ao art. 489do CPC/2015, cumpre asseverar que o acórdão recorrido apreciou fundamentadamente a controvérsia dos autos, apenas decidindo de forma contrária à pretensão da recorrente. Não há, portanto, omissão, pelo que deve ser rejeitada a alegação de violação ao referido artigo.
+Relativamente à tempestividade do recurso interposto, impende registrar quea recorrente não apontou o dispositivo tido por violado a fim de viabilizar o conhecimento da insurgência sobre a matéria. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Contudo, apenas a título de esclarecimento, a jurisprudência desta Corte é firme nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.
+TEMPESTIVIDADE. AFERIÇÃO. DATA DO PROTOCOLO DA PETIÇÃO NO TRIBUNAL DE ORIGEM. SÚMULA 216/STJ. 1. A orientação desta Corte é no sentido de que a tempestividade do recurso interposto na vigência do CPC/1973, deve ser aferida pela data do protocolo da petição na Secretaria do Tribunal de origem, e não pela data da postagem na agência dos Correios, nos termos da Súmula 216 do STJ.
+2. A Corte Especial do STJ passou a admitir, para fins de verificação da tempestividade recursal, a data do protocolo postal integrado, desde que haja previsão em norma local. No presente caso, o recurso especial foi protocolizado em 2014, quando vigia a Resolução 747/TJMG, que vedava o uso do protocolo postal para recursos dirigidos aos Tribunais Superiores.
+3. Agravo interno não provido.
+(AgInt no REsp 1703632/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 11/12/2018, DJe 04/02/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO PUBLICADO NA VIGÊNCIA DO CPC/1973. APLICABILIDADE DO ENUNCIADO ADMINISTRATIVO DO STJ N. 2.
+PROTOCOLO POSTAL. AFERIÇÃO DA LEGITIMIDADE DO USO DO SISTEMA. POR CONVÊNIO OU RESOLUÇÃO DO TRIBUNAL DE ORIGEM. PRECEDENTE. RECURSO DE APELAÇÃO. INTEMPESTIVIDADE. REVISÃO DO JULGADO PROFERIDO NA INSTÂNCIA A QUO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Publicado o acórdão recorrido na vigência do Código de Processo Civil de 1973, deve ser aplicado, ao caso, o Enunciado Administrativo do STJ n. 2: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+2. A respeito do uso do sistema de Protocolo Postal para aferição da tempestividade das peças recursais, o Superior Tribunal de Justiça consolidou a orientação de que, "não sendo colacionado aos autos o inteiro teor de convênio ou resolução do Tribunal de origem que instituiu o protocolo postal, fica impossibilitada a verificação da sua legitimidade, inclusive quanto à possibilidade, ou não, de seu uso para petições dirigidas aos Tribunais Superiores. Nesse sentido: AgRg no AREsp 720.142/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 15/12/2016; AgRg no AREsp 804.869/DF, Rel.
+Ministro Sérgio Kukina, Primeira Turma, DJe de 6/10/2016" (AgInt no REsp 1.509.588/PE, Rel. Min. Benedito Gonçalves, Primeira Turma, julgado em 10/4/2018, DJe 19/4/2018).
+3. No caso, não foi demonstrada a existência de resolução ou convênio do Tribunal de Justiça local instituindo os serviços de protocolo postal no âmbito daquela Corte, situação que inviabiliza a análise da sua legitimidade, conforme o precedente mencionado.
+4. Rever o entendimento do Tribunal de origem quanto à intempestividade do recurso de apelação da recorrente implicaria o reexame das provas dos autos, o que é defeso em recurso especial ante o que preceitua a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial." 5. A presença de óbices sumulares impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional. Precedentes.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1289215/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/11/2018, DJe 03/12/2018)
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento anteriormente manifestado, permanece incólume a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
