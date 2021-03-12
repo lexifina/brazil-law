@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interposto por Tamara Sobreira Benvenuto, desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado de Pernambuco, que não admitiu recurso especial com base nos seguintes fundamentos: (I) descabe alegar violação de norma constitucional em sede especial; (II) falta de prequestionamento do tema inserto no art.16, § 4º, da Lei nº 8.213/99 (Súmula 282/STF); (III) inviável análise de lei loca (Súmula 280/STF); e (I) além de não apontar sobre qual dispositivo de lei federal ocorreu o dissídio pretoriano, sequer realizou o necessário cotejo analítico. Logo, aplicável quanto ao referido ponto a súmula nº 284 do STF (fls. 169/170).
+Parecer Ministerial às fls. 207/211, pelo não conhecimento do agravo.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, apesar de rebater, genericamente, a aplicação das Súmulas 284 e 282 do STF, e defender a configuração do dissídio jurisprudencial, a parte agravante não declinou os motivos pelos quais, no seu entender, osóbices apontados pela Corte de origem não seriam aplicáveis ao caso concreto, limitando-se, então, a repetir a fundamentação adotada no bojo das razões do apelo especial. Acrescente-se que sequerhouve ataque ao verbete nº 280/STF.
+Em outras palavras, o agravo deixou de infirmar, de modo específico, todos os fundamentos adotados pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+DIANTE DO EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
