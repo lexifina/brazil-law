@@ -1,0 +1,87 @@
+EMENTA – DECISÃO MONOCRÁTICA
+RECURSO INOMINADO – DECISÃO JÁ PACIFICADA EM TRIBUNAL SUPERIOR – EXISTÊNCIA DE SÚMULA SOB O NÚMERO 385 NO STJ - DECISÃO MONOCRÁTICA ART. 932, V, “a” DO CPC – PARCIAL PROVIMENTO AO RECURSO.
+Estando a sentença em desacordo com a decisão já pacificada em Tribunal Superior, no caso o STJ, com Súmula editada sob o número 385 e ainda em dissonância com o entendimento da Turma Recursal Única dos Juizados Especiais do Estado de Mato Grosso, pode ser DADO O PROVIMENTO PARCIAL AO RECURSO.
+Decisão monocrática em face ao disposto no art. 932, V, “a”, do Novo Código de Processo Civil e Súmula 02 da Turma Recursal Única de Mato Grosso.
+Em caso de interposição de agravo interno infundado, será aplicada a multa do artigo 1.021, §4° do CPC.
+Recurso a que se DÁ PARCIAL PROVIMENTO monocraticamente PARA FIXAR O DANO MORAL DIANTE DA INOCORRÊNCIA DE INSCRIÇÃO PREEXISTENTE.
+DECISÃO MONOCRÁTICA
+Vistos etc.
+Dispensado o relatório em face ao disposto no art. no 38 da Lei no 9.099 de 26 de setembro de 1995.
+Trata-se de recurso inominado contra a sentença em que o juízo a quo julgou parcialmente o pleito da exordial e declarou inexistente o débito apontado em cadastro de inadimplentes, DEIXANDO DE FIXAR A INDENIZAÇÃO POR DANOS MORAIS PELA APLICAÇÃO DA SÚMULA 385-J DO STJ.
+Porém, tal decisão de primeiro grau está em total desacordo com o que fora delineado na Súmula 385 do STJ, senão vejamos:
+Súmula no 385: "Da anotação irregular em cadastro de proteção ao crédito, não cabe indenização por dano moral quando preexistente legítima inscrição, ressalvado o direito ao cancelamento ".
+Ou seja, somente não se concede o dano moral, se, e somente se a inscrição de referência seja precedida de outra inscrição não discutida em juízo, apenas nesses casos.
+A matéria já está mais do que sedimentada perante a Turma Recursal, nos seguintes julgamentos: 0011407-34.2011.811.0001, 0011709-63.2011.811.0002 e 027205-33.2014.811.001, dentre outros tantos.
+Verificando que o Magistrado de primeiro grau aplicou a Súmula 385 do STJ de maneira equivocada, merece o devido reparo em sede de julgamento em segundo grau.
+Calha saber se a negativação indevida gera ou não o dano moral.
+Esse assunto já vem debatido de longa data nos Tribunais Superiores, sendo que, assim já se manifestou o Colendo Superior Tribunal de Justiça, senão vejamos:
+AGRAVO REGIMENTAL. INSCRIÇÃO INDEVIDA EM CADASTROS DE INADIMPLENTES. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. DANOS MORAIS. CONFIGURAÇÃO IN RE IPSA. REVISÃO DO QUANTUM INDENIZATÓRIO. SÚMULA N. 7 DO STJ.
+1. Não viola o art. 535 do CPC acórdão que, integrado por julgado proferido em embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais. 2. Em caso de inscrição indevida em cadastros de inadimplentes, o dano moral é in re ipsa.
+3. É inviável o reexame das questões fático-probatórias que ensejaram indenização por danos morais. Incidência da Súmula n. 7 do STJ.
+4. Agravo regimental desprovido.
+(STJ - AgRg no AREsp: 410701 SC 2013/0337986-4, Relator: Ministro JOÃO OTÁVIO DE NORONHA, Data de Julgamento: 18/02/2014, T3 - TERCEIRA TURMA, Data de Publicação: DJe 05/03/2014)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. DANO MORAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. CULPA IN RE IPSA. QUANTUM INDENIZATÓRIO. SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. BASES FÁTICAS DISTINTAS.
+1. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado por julgado proferido em embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Nos casos de inscrição indevida em cadastro de restrição ao crédito, o dano extrapatrimonial é considerado in re ipsa.
+3. Incide a Súmula n. 7 do STJ na hipótese em que a tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Não se conhece da divergência jurisprudencial quando os julgados dissidentes tratam de situações fáticas diversas.
+5. Agravo regimental desprovido.
+(STJ - AgRg no AREsp: 331184 RS 2013/0116432-0, Relator: Ministro JOÃO OTÁVIO DE NORONHA, Data de Julgamento: 24/04/2014, T3 - TERCEIRA TURMA, Data de Publicação: DJe 05/05/2014)
+O mesmo entendimento permeia ainda inúmeros outros Tribunais pelo país afora, confira-se:
+“ALIENAÇÃO FIDUCIÁRIA - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO - INDENIZAÇÃO INSCRIÇÃO INDEVIDA NO SERASA - DANO MORAL DEVIDO. A própria negativação indevida do nome do consumidor no serviço de proteção ao crédito, gera a obrigação de indenizar danos morais, eis que presumíveis os prejuízos causados, independentemente da prova de dano. Recurso não provido.
+(TJ-SP - APL: 17646220098260242 SP 0001764-62.2009.8.26.0242, Relator: Clóvis Castelo, Data de Julgamento: 19/09/2011, 35a Câmara de Direito Privado, Data de Publicação: 22/09/2011)”
+“APELAÇAO CÍVEL. AÇAO DE REPARAÇAO DE DANOS POR ABALO DE CRÉDITO. INDENIZAÇAO POR DANO MORAL. INSCRIÇAO INDEVIDA SPC E SERASA. ATO ILÍCITO. DANO PRESUMIDO. QUANTUM DEBEATUR. MANUTENÇAO DA CONDENAÇAO FIXADA PELO MAGISTRADO DE PISO. APELAÇAO CONHECIDA E IMPROVIDA.
+1. O apelante praticou ato ilícito ao inserir erroneamente o nome do apelante nos órgãos de proteção ao crédito. Inteligência do art. 186 do CC.
+2. O dano moral é presumido nos casos de inscrição indevida no SPC e SERASA, bastando apenas ser provado a efetiva inscrição. 3. O valor fixado na sentença à título de condenação por dano moral atendeu a extensão do dano causado.
+4. Recurso conhecido e improvido. Sentença mantida.
+(TJ-ES - AC: 23080011101 ES 023080011101, Relator: JOSENIDER VAREJÃO TAVARES, TERCEIRA CÂMARA CÍVEL, Data de Publicação: 02/06/2009)”
+“CIVIL, PROCESSO CIVIL E CÓDIGO DE DEFESA DO CONSUMIDOR. RECURSO DE AGRAVO CONTRA DECISÃO TERMINATIVA EM SEDE DE APELAÇÃO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CORTE DO FORNECIMENTO DE ENERGIA E INSCRIÇÃO INDEVIDA NOS ÓRGÃO DE PROTEÇÃO AO CRÉDITO (SPC/SERASA). DANO MORAL PRESUMIDO. RESPONSABILIDADE CONTRATUAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. RECURSO DE AGRAVO IMPROVIDO À UNANIMIDADE DE VOTOS.
+1- A jurisprudência majoritária do Superior Tribunal de Justiça, já definiu, acertadamente que a inscrição indevida em cadastros de restrição ao crédito, por si só, causa dano moral, e a ofensa à imagem e à honra é evidente nestes casos.
+2- O valor de R$2.800,00 (dois mil e oitocentos reais) fixado à título de danos morais atendeu aos princípios da razoabilidade e da proporcionalidade e ainda levou em conta os fatores relacionados às condições das partes bem como à gravidade do dano no caso concreto, concretizando, assim, a satisfação da vítima sem, contudo, caracterizar enriquecimento ilícito.
+3- O fornecimento de energia elétrica caracteriza negócio jurídico de natureza contratual e assim sendo, os juros da mora, em responsabilidade contratual incidem a partir da citação. (art. 405, Código Civil).
+4- Recuso improvido à unanimidade de votos.
+(TJ-PE - AGV: 2819761 PE 0017345-14.2012.8.17.0000, Relator: Josué Antônio Fonseca de Sena, Data de Julgamento: 25/09/2012, 1a Câmara Cível, Data de Publicação: 181)”
+“CIVIL. PROCESSO CIVIL. CONSUMIDOR. REPARAÇÃO POR PERDAS E DANOS MORAIS E MATERIAIS. PROCEDÊNCIA. APELAÇÃO CÍVEL. MANUTENÇÃO DE INSCRIÇÃO NOS CADASTROS DE INADIMPLENTES APÓS QUITAÇÃO DA PARCELA. SPC. NEGLIGÊNCIA. DANOS MORAIS. PRESUMIDOS. DESNECESSIDADE DE PROVA. VALOR DA INDENIZAÇÃO. NECESSIDADE DE ADEQUAÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. REDUÇÃO QUE SE IMPÕE. CONHECIMENTO E PARCIAL PROVIMENTO DO RECURSO VOLUNTÁRIO. CIVIL E PROCESSO CIVIL. APELAÇÃO CÍVEL E RECURSO ADESIVO. DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PRELIMINARES DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO E CERCEAMENTO DE DEFESA REJEITADAS. MÉRITO. INSCRIÇÃO INDEVIDA NO SERASA. DANO MORAL INDENIZÁVEL. NEXO CAUSAL ENTRE A CONDUTA DO BANCO E O EVENTO DANOSO DEVIDAMENTE COMPROVADO. NÃO OBSERVÂNCIA DA MAJORAÇÃO DO QUANTUM INDENIZATÓRIO. ARBITRAMENTO FEITO COM MODERAÇÃO PELO JUÍZO A QUO. MANUTENÇÃO DO PERCENTUAL DE HONORÁRIOS ADVOCATÍCIOS. RECURSOS DE APELAÇÃO E ADESIVO CONHECIDOS E DESPROVIDOS.
+(TJRN. Apelação. 2a Câmara Cível. Rel. Des. Aderson Silvino. Jul. 08/09/2009).
+APELAÇÃO CÍVEL. CIVIL E CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C PEDIDO DE TUTELA ANTECIPADA. CONTRATO DE CRÉDITO. INSCRIÇÃO INDEVIDA DO NOME DO AUTOR, ORA APELADO, NOS CADASTROS RESTRITIVOS DE CRÉDITO DO SPC E SERASA. RESPONSABILIDADE OBJETIVA DA EMPRESA APELANTE. DANO MORAL CONFIGURADO. QUANTUM ARBITRADO CORRETAMENTE. LIVRE CONVENCIMENTO DO MAGISTRADO A QUO. RESPONSABILIDADE CONTRATUAL. JUROS DE MORA QUE DEVEM SER FIXADOS A PARTIR DA CITAÇÃO. CORREÇÃO MONETÁRIA INCIDENTE SOMENTE A PARTIR DA DATA DA DECISÃO QUE FIXOU OS DANOS MORAIS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. REFORMA PARCIAL DA SENTENÇA. CONHECIMENTO E PROVIMENTO PARCIAL DO RECURSO.
+(TJRN. Apelação 3a Câmara Cível. Rel. Des. Amaury Moura. Jul. 04/06/2009) (TJ-RN - AC: 7269 RN 2009.007269-9, Relator: Des. Osvaldo Cruz, Data de Julgamento: 02/02/2010, 2a Câmara Cível)”
+De longa data esta Turma Recursal tem a jurisprudência firme no sentido de que, a simples inscrição indevida em cadastro de inadimplentes, gera o dano moral in re ipsa, não sendo necessário ao consumidor demonstrar nada além do que a própria inscrição indevida em cadastro de inadimplentes.
+Calha o destaque para os seguintes feitos julgados por esta Turma Recursal: 0010109-48.2014.811.0019, 011.2010.048.562-9, 001.2010.033.383-8, 001.2009.030.450-0, 0014550-29.2014.811.0001, 0047992-20.2013.811.0001, 0016871-37.2014.811.0001, 0019351-19.2013.811.0002, 0024393-18.2014.811.0001, 004134691.2013.811.0001, 0046587-80.2012.811.0001, dentre outros tantos.
+No que tange ao valor da indenização, este deve ser proporcional, justa e razoável, sendo que os valores fixados pelo juízo de primeiro grau estão dentro de tais parâmetros, bem como, dentro dos parâmetros fixados pelo Colendo Superior Tribunal de Justiça, senão vejamos:
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. INSCRIÇÃO INDEVIDA. DANO IN RE IPSA. MONTANTE FIXADO. PRINCÍPIO DA PROPORCIONALIDADE. DESNECESSÁRIA A INTERVENÇÃO DO STJ.
+1. A intervenção do STJ destina-se a firmar interpretação geral do direito federal para todo o país, e não para a revisão de questões de interesse individual, como se dá nas lides que aqui aportam para debater o valor fixado para o dano moral, ressalvando-se hipóteses em que o valor fixado pelo Tribunal de origem, cumprido o duplo grau de jurisdição, se mostrar teratológico, por irrisório ou abusivo, o que não é o caso em tela (R$ 12.440,00, por inscrição indevida). Precedentes.
+2. Agravo regimental não provido.
+(STJ - AgRg no AREsp: 577584 SP 2014/0207968-5, Relator: Ministro RAUL ARAÚJO, Data de Julgamento: 07/10/2014, T4 - QUARTA TURMA, Data de Publicação: DJe 24/10/2014)”
+“AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSCRIÇÃO INDEVIDA EM CADASTROS RESTRITIVOS DE CRÉDITO. DANOS MORAIS. COMPROVAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. VALOR DOS DANOS MORAIS. RAZOABILIDADE.
+1. O acolhimento da pretensão recursal, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ, impedindo o conhecimento do recurso.
+2. O STJ já firmou entendimento de ser razoável a condenação em valor equivalente a até 50 (cinqüenta) salários mínimos por indenização por dano moral decorrente de inscrição indevida em órgãos de proteção ao crédito. Precedentes.
+3. Agravo regimental a que se nega provimento.
+(STJ - AgRg no REsp: 1213857 RS 2010/0179365-0, Relator: Ministro LUIS FELIPE SALOMÃO, Data de Julgamento: 18/02/2014, T4 - QUARTA TURMA, Data de Publicação: DJe 25/02/2014)”
+“AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. INDENIZAÇÃO. VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é pacífica em admitir a revisão do quantum indenizatório nas condenações por danos morais, nos casos em que o valor fixado se revelar ínfimo ou exorbitante. Ausentes essas hipóteses, incide a Súmula n. 7 do STJ.
+2. No caso, não é exorbitante o valor da indenização por danos morais fixado em R$ 9.000,00 (nove mil reais), em razão de indevida inscrição no cadastro de inadimplentes, visto que observadas as peculiaridades do caso concreto e obedecidos os princípios da proporcionalidade e da razoabilidade pelo Tribunal de origem.
+3. Agravo regimental desprovido.
+(STJ - AgRg no AREsp: 536343 MG 2014/0151793-5, Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 07/10/2014, T3 - TERCEIRA TURMA, Data de Publicação: DJe 14/10/2014)”
+“AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO INDEVIDA EM CADASTRO DE INADIMPLENTES. DANOS MORAIS. REVISÃO DO VALOR DA INDENIZAÇÃO. SÚMULA 7/STJ.
+1. Consoante entendimento pacificado no âmbito desta Corte, o valor da indenização por danos morais só pode ser alterado na instância especial quando manifestamente ínfimo ou exagerado, o que não se verifica na hipótese dos autos.
+2. Agravo regimental a que se nega provimento.
+(STJ - AgRg no AREsp: 98762 SP 2011/0219512-7, Relator: Ministra MARIA ISABEL GALLOTTI, Data de Julgamento: 17/12/2013, T4 - QUARTA TURMA, Data de Publicação: DJe 04/02/2014)”
+Estes mesmos parâmetros de julgamentos, no que tange à valoração, também são observados nos inúmeros recursos já julgados por esta Turma Recursal, quais sejam: 0010109-48.2014.811.0019, 011.2010.048.562-9, 001.2010.033.383-8, 001.2009.030.450-0, 0014550-29.2014.811.0001, 0047992-20.2013.811.0001, 0016871-37.2014.811.0001, 0019351-19.2013.811.0002, 0024393-18.2014.811.0001, 004134691.2013.811.0001, 0046587-80.2012.811.0001, dentre outros tantos.
+Na atual redação do artigo 932, IV, “a” do CPC/2015 observa-se apenas a sua delimitação em relação à questão conceitual, ou seja, se determinado assunto já foi ou não submetido a Súmula do STF, STJ ou do Tribunal de Origem, sendo que, exatamente o que se discute nestes autos, sendo a questão da valoração subjetiva e impossível de ser sumulada e cada caso tem as suas peculiaridades, sendo perfeitamente possível o julgamento monocrático.
+E, levando-se em conta os argumentos acima esposados, bem como o valor da restrição de R$153,08 (cento e cinquenta e três reais e oito centavos), fixo o valor da indenização pelos danos morais no patamar de R$ 3.000,00 (três mil reais).
+Registra-se que a inscrição anterior em face do Banco Bradesco, no valor de R$ 1.264,53 foi declarada indevida no processo n° 1000302-63.2020.8.11.0055.
+O relator pode monocraticamente DAR PROVIMENTO PARCIAL a recurso que esteja em desacordo com a jurisprudência dominante do respectivo Tribunal, é o que dispõe o art. 932, V, “a” do Novo Código de Processo Civil:
+Art. 932. Incumbe ao relator:
+V – depois de facultada a apresentação de contrarrazões, dar provimento ao recurso se a decisão recorrida for contrária a:
+A - súmula do Supremo Tribunal Federal, do Superior Tribunal de Justiça ou do próprio tribunal;
+Art. 1.021. Contra decisão proferida pelo relator caberá agravo interno para o respectivo órgão colegiado, observadas, quanto ao processamento, as regras do regimento interno do tribunal.
+§ 4o Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa. (sublinhei).
+Em face à norma supra esta Turma Recursal editou a Súmula no 02, com a seguinte redação:
+SÚMULA 02: O Relator, em decisão monocrática, poderá dar provimento a recurso se a decisão recorrida estiver dentro das hipóteses do artigo 932, V, “a”, “b” e “c” do Novo CPC, cabendo recurso de agravo interno, no prazo de 15 (quinze) dias para a decisão colegiada da Turma Recursal. (nova redação aprovada em 12/09/2017).
+Ante o exposto, conheço o recurso inominado, e, em face ao disposto no art. 932, V, “a”, do Novo Código de Processo Civil e a Súmula no 02 desta Turma Recursal, monocraticamente, DOU-LHE PARCIAL PROVIMENTO para EXCLUIR A INCIDÊNCIA DA SÚMULA 385 DO STJ E CONDENAR O RECORRIDO AO PAGAMENTO DOS DANOS MORAIS NO VALOR DE R$ 3.000,00 (TRÊS MIL REAIS), CORRIGIDOS PELO INPC A PARTIR DESTA DATA E JUROS DE MORA A PARTIR DO EVENTO DANOSO (21/10/2019) mantidos os demais termos da sentença, nos moldes do art. 46 da Lei 9099/95.
+Diante do provimento parcial do recurso, nos moldes do art. 55 da Lei 9099/95, deixo de condenar o recorrente ao pagamento das custas ou honorários advocatícios.
+Eventual aviamento de Agravo Interno meramente protelatório, será aplicada a multa do art. 1.021, § 4o do CPC.
+Não havendo recurso desta decisão, certifique-se este fato e devolva-se este feito à origem.
+Intimem-se. Cumpra-se.
+Marcelo Sebastião Prado de Moraes
+Juiz de Direito - Relator
