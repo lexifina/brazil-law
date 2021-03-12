@@ -1,0 +1,11 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE AGRAVO DE INSTRUMENTO No 1010384-27.2020.8.11.0000
+AGRAVANTE: R D COM E REPRESENTAÇÕES LTDA.
+AGRAVADOS: EDSON DAL MOLIN E OUTROS.
+Vistos.
+Disponibilize ao douto Procurador de Justiça, Dr. JOSÉ ZUQUETI, a visualização do arquivo solicitado no Id. n.o 51302484 para que possa emitir o parecer.
+Às providências.
+DES. DIRCEU DOS SANTOS
+RELATOR
