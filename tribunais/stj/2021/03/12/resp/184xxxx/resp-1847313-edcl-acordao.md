@@ -1,0 +1,40 @@
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. HIPÓTESES TAXATIVAS DE CABIMENTO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada, o que não foi observado no presente recurso.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Joel Ilan Paciornik, Felix Fischer, Laurita Vaz, João Otávio de Noronha, Sebastião Reis Júnior, Rogerio Schietti Cruz e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Nefi Cordeiro.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por CÉSAR AUGUSTO MOREIRA contra acórdão da Terceira Seção desta Corte assim ementado:
+"AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. RECURSO ESPECIAL. ABSORÇÃO DO CRIME MEIO. IMPOSSIBILIDADE DE ANÁLISE. SÚMULA N. 7/STJ. ENFRENTAMENTO DO MÉRITO. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.1. Os embargos de divergência não são cabíveis entre julgado que examinou o mérito e acórdãos paradigmas que não ultrapassaram o juízo de admissibilidade.2. Este Superior Tribunal de Justiça não admite a interposição de embargos de divergência quando estes discutem a aplicação de regra técnica de conhecimento de recurso especial. 3. Agravo regimental improvido." (e-STJ, fl. 848).
+O embargante alega buscar, neste recurso,"aclaramento de duas pontuais questões e o sanar de uma omissão para que o acórdão publicado explicite por completo o objeto do debate, permitindo assim a continuação do exercício do direito de defesa, se o caso, em instância recursal" (e-STJ, fl. 871).
+Insiste que "Sua Excelência, a d. Ministra LAURITA VAZ, no exercício da relatoria do recurso especial que veio a tramitar pela 6ª Turma (REsp 1.847.313/SP), em que pese formalmente ter anotado a incidência do impedimento sumular nº 7 para apreciar parte do recurso especial, em duas ocasiões ainda que de forma objetiva e pontual manifestou o seu entendimento de que, ao caso caberia a aplicação da súmula 7 mas, mesmo se superado o impedimento, analisando o mérito da questão o pleito haveria de ser improvido." (e-STJ, fl. fl. 871).
+Superado esse ponto preliminar, volta a tecer considerações sobre a atipicidade da conduta:
+"O pleito defensivo em questâo, nobre Ministro, é singelo, entendemos que um cidadão que esteja a portar arma de fogo, ainda que irregularmente (14 da Lei n  10.826/2003), e que venha a ser agredido injustamente vindo a ser obrigado a usar o artefato para proporcionalmente se defender (como um assalto à mão armada), não pode vir a ser responsabilizado pela irregularidade do porte. Estamos a dizer que a circunstância da injusta agressão muda completamente o quadro fático, a exigir, em vista da relação de causalidade, a absorção (princípio da consunção) da conduta irregular de portar a arma pela conduta do delito principal (na hipótese dos autos lesão
+corporal leve) executado em estado de legítima defesa. Nessa linha é o acórdão do STJ aqui indicado como paradigma (acórdão REsp n. 748.773/RS - 5ª Turma - caso paradigma)" (e-STJ, fl. 871).
+Requer, assim, o acolhimento dos embargos.
+É o relatório.
+EMENTA
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. HIPÓTESES TAXATIVAS DE CABIMENTO. NÃO OCORRÊNCIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada, o que não foi observado no presente recurso.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Inicialmente, deve-se destacar que não restou comprovada nenhuma das hipóteses de cabimento dos aclaratórios.
+Como cediço, o art. 619 do Código de Processo Penal dispõe que os embargos de declaração destinam-se a suprimir omissão, afastar obscuridade ou eliminar contradição ou ambiguidade eventualmente existentes no julgado. Ou seja, o recurso em exame possui fundamentação vinculada.
+No caso concreto, ao contrário do que sustenta o ora embargante, não houve nenhum vício na decisão embargada. Conforme explicado, detalhadamente, no decisum, a em. Ministra Laurita Vaz apenas apresentou os fundamentos do acórdão e, a partir deles, enfatizou que prover o recurso especial exigiria o exame de matéria fático-probatória, o que é vedado pela Súmula n. 7/STJ. A propósito:
+"No caso concreto, a despeito de o agravante sustentar que a em. Ministra Relatora adentrara ao mérito quando afirma que o crime de porte ilegal de arma de fogo "realmente existiu", não é possível com esta tese concordar.
+Primeiro, porque a matéria controvertida nos embargos de divergência não é a existência ou não do crime do Estatuto do Desarmamento. Esta questão inclusive não foi questionada pela defesa, que, por dedução lógica, nem poderia, eis que sua pretensão pressupunha a existência deste crime, porém o resultado jurídico pretendido era outro (absorção). Portanto, a controvérsia, frise-se, reside em torno da absorção ou não do delito meio pelo crime fim, lesão corporal.
+Segundo, o fato de o julgador externar algumas conclusões sobre fatos relacionados, a partir do que restou consignado no acórdão, não configura exame do mérito. Há de se diferenciar o reexame de fatos e provas, obstado pela Súmula n. 7/STJ nesta instância, da revaloração de fatos e provas, permitida também nesta instância de julgamento.
+Note-se que a em. Ministra Relatora, após colacionar os dados fáticos anotados pelo acórdão recorrido, concluiu não ser possível inverter o decisum local sem esbarrar no óbice sumular e, por isso, negou provimento ao agravo regimental da defesa. A propósito:
+"O acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fl. 360; sem grifos no original):
+"Preliminarmente, rejeita-se a argüição relativa à consunção.Como já muito bem fundamentado na sentença condenatória, não se há de considerar juridicamente enlaçados os distintos momentos e condutas praticadas. Cesar foi condenado pela prática de portar arma de fogo de uso permitido, crime que se consumou antes que tivesse ocorrido o assalto ao qual reagiu disparando. O fato de ter sido reconhecida, em outra ação, a excludente de ilicitude quanto ao uso dessa arma não permite a extrapolação mental de que, estando aquela conduta acobertada pela legítima defesa, todas as eventuais condutas delituosas que a precederam também estivessem.Fica, portanto, afastada a preliminar."
+Como se vê, a Corte a quo, soberana quanto ao exame do contexto fático-probatório que instrui o caderno processual, concluir, pela inaplicabilidade do princípio da consunção à hipótese dos autos em razão da autonomia das condutas. Portanto, a inversão do julgado exigiria, necessariamente, reexame dos fatos e provas acostados ao processo, o que encontra óbice na Súmula n.º 7 do Superior Tribunal de Justiça. ..
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental." (e-STJ, fls. 731-734).
+Nos aclaratórios, o mérito (absorção do crime meio pelo delito fim) também não foi apreciado, mantendo-se a aplicação da Súmula n. 7/STJ.
+Aqui, vale salientar, conforme já realizado, que a menção quanto à existência do crime meio não configura enfrentamento do mérito. Portanto, não há como se admitir os embargos de divergência." (e-STJ, fls. 850-851).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime-se.
