@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de Diego Santos Borges, no qual a Defensoria Pública aponta constrangimento ilegal decorrente do julgamento, peloTribunal de Justiça de Mato Grosso do Sul, do Agravo de Execução Penal n. 0036320-46.2017.8.12.0001 (fls. 71/81), proferido em 4/2/2021, nos termos desta ementa (fl. 73):
+AGRAVO EM EXECUÇÃO PENAL - INSURGÊNCIA DEFENSIVA - PLEITO DE REFORMA DA DECISÃO QUE INDEFERIU O PEDIDO DE PROGRESSÃO DE REGIME COM BASE NO EXAME CRIMINOLÓGICO - EXAME DESFAVORÁVEL E PECULIARIDADES DO CASO QUE NÃO INDICAM, NESTE MOMENTO, O REGIME MENOS GRAVOSO - REQUISITO SUBJETIVO NÃO PREENCHIDO - RECURSO IMPROVIDO.
+Conforme dispõem as súmulas 26 e 439, respectivamente do STF e STJ, é cabível a realização do exame criminológico dependendo das peculiaridades do caso, sendo que tal laudo não vincula o magistrado, servindo como parâmetro para a aferição do requisito subjetivo, o que in casu, mostrou-se ausente.
+Constatando-se que o agravante não está apto a cumprir a reprimenda em regime mais brando, sendo as observações lançadas no laudo criminológico conclusivas e desfavoráveis ao pleito, o indeferimento da progressão deve ser mantido.
+O paciente cumpre pena total de 20 anos, 3 meses e 20 dias em razão de três condenações distintas pelos crimes de roubo circunstanciado;argumenta a impetrante que ele preencheu os requisitos objetivo e subjetivo para a concessão da progressão ao regime semiabertoe que a Corte estadual acabou portransformar um direito do reeducando em conjecturas totalmente abstratas, divorciando-se dos ditames legais e da situação fática amplamente constatada nos autos(fl. 10).
+Para a defesa, um simples exame da personalidade não apresenta elementos aptos a demonstrar se uma pessoa está ou não mais propensa a cometer crimes do que outras(fl. 15). No presente caso, os próprios quesitos acostados às f. 7 do laudo demonstram o total descaso com a saúde psicológica do Paciente(fl. 15).
+Pede a imediata concessão da ordem para deferir a progressão ao regime semiaberto.
+Em 5/3/2021, indeferi a liminar, sob estas razões (fl. 103):
+ ..
+À primeira vista, não percebo a presença concomitante dos pressupostos autorizadores da medida de urgência requerida, poiso exame da questão está a exigir uma ampla análise dos elementos de convicção carreados aos autos.Afora isso, conforme a Corte estadual,o exame foi elaborado à luz dos procedimentos técnicos e específicos recomendáveis para essa finalidade, com exposição detalhada da metodologia utilizada nos trabalhos, o que, numa análise final, atribui credibilidade às conclusões apresentadas pelo perito (fl. 81).
+Ora, concretizada a realização da perícia, o resultado desfavorável pode ser empregado pelo Magistrado para firmar sua convicção sobre o implemento do requisito subjetivo para o abrandamento do regime carcerário(HC 591.919/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 01/09/2020, DJe 17/09/2020).
+Indefiro o pedido liminar.
+Ouça-se o Ministério Público Federal.
+Publique-se.
+Dispensadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ; caso assim não se entenda, pela sua denegação (fl. 106):
+HABEAS CORPUS. DIREITO PENAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.
+1. Não é cabível habeas corpus substitutivo de recurso, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, conforme a jurisprudência do Superior Tribunal de Justiça.
+2. Concretizada a realização da perícia, o resultado desfavorável pode ser empregado pelo Magistrado para firmar sua convicção sobre o implemento do requisito subjetivo para o abrandamento do regime carcerário. Precedentes STJ.
+3. Parecer pelo não conhecimento do writ. Caso assim não se entenda, pela sua denegação.
+Petição da Defensoria Pública de Mato Grosso do Sul, à fl. 111,tomando ciência da decisão e-STJ, fls. 102-103 postulando, desde já, pela concessão da ordem.
+É o relatório.
+Está sob discussão no presente writa ilegalidade no indeferimento do benefício da progressão ao regime semiaberto ao ora paciente.
+A irresignação não merece prosperar.
+Aos fundamentos já apresentados por mim na decisão liminar, acrescento estas palavras doSubprocurador-Geral da República Onofre de Faria Martins,as quais, pela precisão e clareza dos elementos apontados, também adoto como razão de decidir, na parte em que interessa (fls. 107/108- grifo nosso):
+ ..
+Na espécie, não assiste razão à impetrante.
+O TJMS consignou que "o exame foi elaborado àluz dos procedimentos técnicos e específicos recomendáveis para essa finalidade, com exposição detalhada da metodologia utilizada nos trabalhos, o que, numa análise final, atribui credibilidade às conclusões apresentadas pelo perito" (f. 81).
+Bem como que "em que pese o agravante ter cumprido o requisito objetivo (cumprimento de parcela da pena) e ostentar comportamento carcerário sem histórico de falta disciplinar, com conduta classificada como ótima, entende-se que não é caso de deferimento do pleito, pois o expert concluiu que "o periciado revela ter consciência sobre os crimes cometidos, contudo suas respostas não são compatíveis com aquelas de quem demonstra arrependimento. Apesar de dispor de recursos psicológicos para lidar com as situações da vida diária, mostra-se predisposto a se desestabilizar diante de estresses situacionais, evidenciando certo prejuízo no autocontrole. O avaliado revela que tende a não reconhecer as normas, regras sociais e a desconsiderar os comportamentos convencionais e as consequências de seus atos. Por essas razões, no que concerne aos aspectos psicológicos, neste momento o resultado do periciado é desfavorável à progressão de regime" (f. 77-78).
+Nesse sentido, o entendimento da Corte Superior é que "concretizada a realização da perícia, o resultado desfavorável pode ser empregado pelo Magistrado para firmar sua convicção sobre o implemento do requisito subjetivo para o abrandamento do regime carcerário" (HC 591.919/MS, Rel. Ministra LAURITA VAZ, SEXTA TIRMA, julgado em 01/09/2020, DJe 17/09/2020).
+Assim, havendo a Corte a quo assentado que o exame criminológico foi regularmente realizado e, diante desse, concluiu-se que o paciente não cumpre o requisito subjetivo, não se verifica constrangimento ilegal a ser sanado, sendo certo, ademais, "que o afastamento dos fundamentos utilizados pelas instâncias ordinárias quanto ao mérito do paciente demandaria o reexame de matéria fático-probatória, providência inadmissível na via estreita do habeas corpus" (STJ: AgRg no HC n. 545.048/RJ, rel. JOEL ILAN PACIORNIK, Quinta Turma, DJe de 5/3/2020).
+Sobre o tema, de se mencionar, ainda, por oportuno, os seguintes precedentes: AgRg no HC n. 624.407/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 18/12/2020; AgRg no HC n. 572.409/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/6/2020; e AgRg no HC n. 549.693/MS, Ministra Laurita Vaz, Sexta Turma, DJe 21/5/2020.
+Sob essa moldura, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME.INDEFERIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. EXAME CRIMINOLÓGICO DESFAVORÁVEL. AUSÊNCIA DO REQUISITO SUBJETIVO. ILEGALIDADE AUSENTE. PRECEDENTES DESTA CORTE SUPERIOR.AFASTAMENTO DOS FUNDAMENTOS UTILIZADOS QUANTO AO MÉRITO DO APENADO. INVIABILIDADE NA ESTREITA VIA DO WRIT. NECESSIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA.
+Ordem denegada.
