@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo interposto por CENTRAL NACIONAL UNIMED, contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios assim ementado:
+"CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. EFEITO SUSPENSIVO. INADMISIBILIDADE. CANCELAMENTO DE PLANO DE SAÚDE COLETIVO. VIGÊNCIA DE DOZE MESES. NOTIFICAÇÃO PRÉVIA COM ANTECEDÊNCIA DE 60 DIAS. AUSÊNCIA. MIGRAÇÃO PARA PLANO INDIVIDUALOU FAMILIAR. DANO MORAL. CONFIGURADO. INDENIZATÓRIO QUANTUM EXCESSIVO. PRELIMINAR. OFENSA AO PRINCÍPIO DA DIALETICIDADE. REJEITADA. PRELIMINAR DE ILEGITIMIDADE PASSIVA DA ADMINISTRADORA. REJEITADA. CANCELAMENTO DO PLANO DE SAÚDE. IRREGULAR. SENTENÇA PARCIALMENTE REFORMADA.
+1. Trata-se de recursos de apelação interpostos em face de sentença que julgou procedentes os pedidos para: (a) determinar às rés que reintegrassem a autora e seus dependentes na cobertura de plano de saúde, com idêntica cobertura, nas mesmas condições anteriormente vigentes, sem qualquer período de carência; e (b) condenar as rés, solidariamente, ao pagamento de R$ 10.000,00 (dez mil reais) a título de compensação por danos morais.
+2. Nos termos do disposto no art. 1.012 do Código de Processo Civil, o recurso de apelação, em regra, terá efeito suspensivo, com exceção das hipóteses elencadas no § 1º daquele dispositivo. a apelante In casu, não demonstrou a probabilidade de provimento do recurso ou, sendo relevante a fundamentação, a existência de risco de dano grave ou de difícil reparação.
+3. A relação jurídica havida entre as partes está sujeita às diretrizes da Lei n.º 8.078/90 (Código de Defesa do Consumidor), bem como à disciplina da Lei n.º 9.656/98, que regula os planos e seguros privados de assistência à saúde preconiza: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde (Súmula 608-STJ), salvo os administrados por entidades de autogestão.
+4. Nos termos do parágrafo único do art. 17 da Resolução Normativa n. 195 da Agência Nacional de Saúde, os contratos de planos de saúde coletivos por adesão somente poderão ser rescindidos imotivadamente após a vigência do período de doze meses e mediante prévia notificação da outra parte com antecedência mínima de sessenta dias.
+5. De acordo com o art. 1º da Resolução n. 19/1999 do Conselho de Saúde Suplementar (CONSU), em caso de cancelamento de plano de saúde coletivo, a operadora tem o dever de oferecer ao segurado plano de assistência na modalidade individual ou familiar sem a necessidade de cumprimento de novo prazo de carência.
+6. Não tendo sido observada a vigência de doze meses, tampouco a antecedência mínima de sessenta dias, é forçoso reputar o cancelamento do plano de saúde como irregular, pois contrário à norma vigente.
+7. A exclusão unilateral da segurada, sem a observância dos prazos necessários para tanto, não envolve mero inadimplemento contratual, sendo clara a presença dos requisitos que ensejam abalo moral passível de compensação financeira, mormente por constar como beneficiário menor que necessita de cuidados médicos constantes.
+8. Afixação do valor devido a título de indenização por danos morais deve levar em consideração os princípios da razoabilidade e da proporcionalidade, assim como a extensão do dano, de forma a atender ao caráter compensatório e ao mesmo tempo desestimular a prática de novas condutas pelo agente causador do dano. In casu, considerando a ausência de intervalo entre a data prevista para cancelamento do plano e a concessão da tutela provisória, deve ser minorado o valor fixado na origem a título de danos morais.
+9. Não há se falar em ofensa ao princípio da dialeticidade quando a apelante se insurge contra pontos debatidos pela sentença recorrida. Preliminar rejeitada.
+10. A empresa administradora é responsável pela intermediação da contratação do plano de saúde coletivo e está, portanto, inserida na cadeia de consumo. Desse modo, responde solidariamente pelas obrigações decorrentes da rescisão indevida do contrato. Preliminar rejeitada.
+11. Não merece prosperar a alegação da administradora do plano de saúde de apenas ter seguido a determinação da operadora, na medida em que não respeitou o prazo mínimo para comunicação da segurada acerca do cancelamento do plano de saúde, além de responder solidariamente com a operadora pela falha na prestação do serviço, conforme já exposto.
+12. Recursos conhecidos. Recurso da operadora do plano de saúde parcialmente provido e recurso da administradora desprovido" (fls. 447/448, e-STJ).
+Os embargos de declaração foram rejeitados.
+No recurso especial, o recorrente alega a violação dos seguintes dispositivos com as respectivas teses:
+1) artigos 188, I, e 422 do Código Civil - sustentando que a rescisão contratual foi motivada diante da denúncia do contrato, situação permitida em cláusula contratual;
+2) arts. 186 e 927 do CC - porque não praticou qualquer ato ilícito a ensejar sua condenação ao pagamento de indenização por danos morais e materiais;
+3) arts. 944 e 884 do CC - alegando que valor fixado a título de danos morais é excessivo em relação ao suposto desconforto sofrido pela recorrida e
+4) arts. 35-A, da Lei nº 9.656/1998 e 373, I, do Código de Processo Civil de 2015 - defendendo a legalidade do procedimento adotado, considerando que não comercializa plano individual ou familiar na área geográfica da recorrida. Complementa que não foram demonstrados os atos constitutivos da pretensão autoral.
+O recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Quanto aos arts.188, I, e 422 do CC, consta no acórdão recorrido que a rescisão contratual foi imotivada sema notificação prévia do usuário pelo plano.
+É o que se colhe nos seguintes trechos do acórdão recorrido:
+"(..)
+No caso dos autos, verifica-se que, apesar de anterior comunicação da UNIMED à QUALICORP, esta comunicou à autora apenas em 11/10/2017 que a rescisão do contrato iniciado em 31/03/2017 ocorreria em 15/11/2017. Ou seja, não houve observância da vigência do período de doze meses nem da notificação com antecedência mínima de sessenta dias.
+Ressalte-se que o prazo de sessenta dias deve ser observado tanto para a notificação da empresa contratante quanto do próprio beneficiário, maior interessado na informação. Ademais, o período de doze meses deve ser contato da adesão do beneficiário, e não da instituição do plano de saúde coletivo.
+(..)" (fl. 453, e-STJ).
+Em relação à tese envolvendo os35-A, da Lei nº 9.656/1998 e 373, I, do CPC/2015, a Corte local decidiu o seguinte:
+"(..)
+A UNIMED sustenta a impossibilidade de oferta de plano individual ou familiar à autora por somente comercializar tais produtos na grande São Paulo. No entanto, por não ter sido observada a vigência de doze meses ou a antecedência mínima de sessenta dias, a discussão acerca da impossibilidade de oferta desses planos se torna irrelevante.
+No entanto, , registro que a eventual impossibilidade de cumprimento da ad argumentandum tantum obrigação de fazer deverá ser analisada em sede de cumprimento de sentença, havendo, inclusive, a possibilidade de conversão em perdas e danos.
+Vale ainda consignar que não consta nos autos prova de ter a apelante oferecido à autora/apelada outro plano de saúde coletivo.
+(..)" (fls. 453/454, e-STJ).
+Com efeito, além de terem sido alcançados à luz das provas dos autos, tais fundamentos suficientes do acórdão recorrido não foram impugnados pela recorrente, o que atrai a aplicação das Súmulas 283 e 284/STF.
+De fato, "a interposição do recurso especial à moda de apelação, deixando a parte recorrente de efetivamente demonstrar no que consistiu a violação da lei federal e de infirmar especificamente os fundamentos do acórdão, limitando-se a reiterar as razões dos recursos anteriores, atrai a incidência das Súmulas nºs 283 e 284 do Supremo Tribunal Federal" (AgRg no AgRg no AREsp 171.093/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/8/2013, DJe 26/8/2013).
+Em relação aos danos morais, não há como afastar as conclusões firmadas pelas instâncias ordinárias, acerca da ilegalidade da rescisão do contrato do plano de saúde, sem a incursão nos aspectos fático-probatórios da causa, o que esbarra no óbice da Súmula nº 7/STJ.
+Além disso, o referido óbice também incide em relação à pretensão recursal de reduzir o valor da indenização a título de danos morais, arbitrado em R$ 3.000,00 (três mil reais)de acordo com as peculiaridades da causa e atendendo ao princípio da razoabilidade.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. RESCISÃO UNILATERAL. DANO MORAL.MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem, soberano na análise do acervo fático-probatório dos autos, reconheceu o ato ilícito praticado pelo recorrente, apto a gerar o dever de indenizar, com base nas provas dos autos. A reforma de tal entendimento atrai o óbice da Súmula n. 7 do STJ. Ademais, a revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, o que não ocorreu no caso em comento. Salvo essas hipóteses, incide a Súmula n. 7 do STJ, impedindo o conhecimento do recurso, por ambas as alíneas do permissivo constitucional.
+2. Agravo interno não provido" (AgInt no AREsp 1.598.127/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 4/5/2020, DJe 12/5/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.RESCISÃO UNILATERAL INDEVIDA. MÁ-FÉ. OPERADORA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA Nº 284/STF. DANO MORAL. OCORRÊNCIA. SÚMULAS NºS 5 E 7/STJ. VALOR DA INDENIZAÇÃO. REDUÇÃO. CRITÉRIOS.RAZOABILIDADE E PROPORCIONALIDADE. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A agravante não demonstrou de forma direta, clara e particularizada como o acórdão de origem violou cada um dos dispositivos de lei federal trazidos como malferidos, incidindo o óbice da Súmula nº 284/STF.
+3. Para afastar as conclusões do Tribunal local acerca da ilegalidade da rescisão contratual de forma unilateral do plano de saúde com a parte agravada, seria necessário o revolvimento do conteúdo fático-probatório carreado aos autos e a interpretação de cláusulas contratuais, procedimentos inviáveis em recurso especial, ante o óbice das Súmulas nºs 5 e 7/STJ.
+4. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa e somente comporta revisão pelo Superior Tribunal de Justiça quando irrisório ou exorbitante.
+Incidência da Súmula nº 7/STJ.
+5. Agravo interno não provido" (AgInt no AREsp 1.496.290/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/3/2020, DJe 13/3/2020).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais, conforme determina o artigo 85, § 11, do Código de Processo Civil de 2015, haja vista que já foram fixados na origem no percentual máximo de 20% (vinte por cento) sobre o valor da condenação.
+Publique-se.
+Intimem-se.
