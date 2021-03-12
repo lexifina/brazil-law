@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO IMPROVIDO.
+1. A ausência de impugnação a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Consta como fundamento do recurso especial que a "absolvição do acusado, com base no NA TEORIA DA INEXIGIBILIDADE DA CONDUTA DIVERSA, vez que não poderia ter outra opção que não fosse assumir a propriedade da substancia entorpecente, caso contrário seria morto pelos seus companheiros de cela no estabelecimento prisional onde cumpria sua pena", ou seja, para analisar esse argumento da defesa é necessário o reexame fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão de fls. 390-391 que não conheceu do agravo em recurso especial.
+O agravante argumenta que "no presente recurso é clara a impugnação aos fundamentos da decisão que negou seguimento ao Agravo em Recurso Especial, pois de há impugnação dos fundamentos do v. acórdão a quo".
+Afirma que, "em sede de Agravo em Recurso Especial, tal fundamento foi devidamente impugnado, especificando o artigo de lei violado, uma vez que o r. Acórdão do Tribunal a quo, deixou de observar a exclusão da culpabilidade fundamentada no art. 24 do Código Penal".
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O recurso especial foi interposto sob o argumento de que "a materialidade resta comprovada, porém a autoria não; a droga localizada não pertencia a Nelson". Contudo, sem mencionar o fundamento constitucional, e qual dispositivo legal restou ofendido.
+Não sendo admitido na instância de origem, pelo óbice do verbete sumular n. 284/STF, por decisão que assim dispôs (fl. 349):
+NELSON VICENTE JUNIOR interpôs tempestivo recurso especial, contra o acórdão proferido pela 3 a Câmara Criminal deste Tribunal de Justiça.
+Da análise da peça recursal depreende-se que o Recorrente deixou de apontar, de forma clara e objetiva, os dispositivos da legislação federal afrontados pelo Colegiado, apenas sustentando "absolvição do acusado, com base no NA TEORIA DA INEXIGIBILIDADE DA CONDUTA DIVERSA, vez que não poderia ter outra opção que não fosse assumir a propriedade da substancia entorpecente, caso contrário seria morto pelos seus companheiros de cela no estabelecimento prisional onde cumpria sua pena" (Pet. 1, mov. 1.1., fl. 9)..
+Desta maneira, o recurso revelou-se deficiente em sua fundamentação, já que não se pode, em sede de especial, simplesmente impugnar o entendimento esposado pelo órgão julgador, como se de mera apelação se tratasse, sem ao menos procurar especificar os dispositivos violados, ensejando, assim, a aplicação da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Destaca-se, a propósito, a seguinte decisão do Superior Tribunal de Justiça:
+"O Superior Tribunal de Justiça tem entendimento consolidado no sentido de que o recorrente deve apontar os dispositivos legais que teriam sido objeto de ofensa pelo Tribunal de origem, sob pena de inviabilizar o conhecimento do apelo nobre por deficiência de fundamentação, de modo a atrair a incidência, na espécie, da Súmula nº 284 do Supremo Tribunal Federal. (..)" (REsp 1539634/RS, Rel. Ministro FELIX FIS CHER, QUINTA TURMA, julgado em 22/11/2016, DJe 30/11/2016).
+Diante do exposto, inadmito o recurso especial interposto por NELSON VICENTE JUNIOR.
+Conforme relatado, a decisão agravada não conheceu do agravo defensivo, porque não atacado, especificamente, o fundamento da decisão que inadmitiu o recurso especial - ausência/deficiência de fundamentação, isto é, Súmula 284 do STF.
+No presente caso deve ser aplicada a súmula 182/STJ, porque a petição de agravo regimental não rebateu os argumentos da decisão de fls. 390-391, e apenas reiterou os termos da petição recursal de fls. 359-368 que, por sua vez, repetiu todos os termos da petição de recurso especial de fls. 327-336.
+Portanto, compulsando as razões do agravo em recurso especial, constata-se que, de fato, a impugnação mostra-se deficiente, a justificar o não conhecimento do agravo, haja vista que não se indicou no recurso especial os dispositivos legais ofendidos. Ademais, consta como fundamento do recurso especial que a "absolvição do acusado, com base no NA TEORIA DA INEXIGIBILIDADE DA CONDUTA DIVERSA, vez que não poderia ter outra opção que não fosse assumir a propriedade da substancia entorpecente, caso contrário seria morto pelos seus companheiros de cela no estabelecimento prisional onde cumpria sua pena", ou seja, para analisar esse argumento da defesa é necessário o reexame fático-probatório, o que é vedado pela Súmula n. 7 do STJ.
+Vale lembrar, por fim, que, conforme salientado pela decisão ora combatida, ao recorrente incumbe demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível que impugne especificamente todos os óbices por ela apontados. A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC
+de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido (AgRg nos EDcl no AREsp 1199706/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/05/2018, Dje 24/05/2018).
+Ante o exposto, voto por negar provimento ao agravo regimental.
