@@ -1,0 +1,40 @@
+EMENTA
+AGRAVO REGIMENTAL NO PEDIDO DE EXTENSÃO NO AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO E PECULATO. PENA-BASE REDUZIDA. PERSONALIDADE E CONSEQUÊNCIAS DO CRIME. CIRCUNSTÂNCIAS DE CARÁTER PESSOAL. INEXISTÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. AGRAVO IMPROVIDO.
+1. As circunstâncias que motivaram a redução da pena no caso do corréu foram personalidade e consequências do crime, vetoriais estes que, a toda evidência, são de caráter pessoal, não podendo ser aproveitadas ao requerente.
+2. Não há similitude fático-processual entre o requerente e o corréu, uma vez que o primeiro atuou em todas as fases do delito, escolhendo as empresas com as quais o núcleo de pesquisas iria contratar, assinando os cheques referentes aos pagamentos e sendo sócio ou administrador de algumas das empresas, sendo, portanto, uma contribuição maior no cenário criminoso que o oferecido pelos demais corréus, motivo pelo qual teve sua pena exasperada em quantum mais elevado.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão que indeferiu o pedido de extensão da decisão que deu parcial provimento ao agravo para redimensionar a pena do corréu Aguedo Aragones .
+Afirma a defesa que a sentença condenatória e o acórdão que a confirmou valeram-se dos mesmos fundamentos para afastar do mínimo legal as penas impostas ao agravante e ao corréu, concluindo que a refutação desses fundamentos - porque ausente suportes concretos extraídos dos autos com emprego de elementos inerentes ao próprio tipo imputado - deve beneficiar também o agravante, uma vez que a exasperação de suas penas padece dos mesmos vícios (fl. 4204).
+Defende a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada apresentou a seguinte fundamentação (fls. 4193-4195):
+ ..
+A decisão que o requerente pretende ver estendida reduziu a pena-base pelos seguintes fundamentos (fls. 4177-4180):
+Quanto à tese de violação do art. 59 do CP, via de regra, não se presta o recurso especial à revisão da dosimetria das penas estabelecidas pelas instâncias ordinárias. Contudo, a jurisprudência desta Corte admite, em caráter excepcional, o reexame da aplicação das penas, nas hipóteses de manifesta violação aos critérios dos arts. 59 e 68 do Código Penal, sob o aspecto da ilegalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+Na espécie, as instâncias ordinárias exasperaram em 2 anos e 1 mês a pena-base relativa ao crime do art. 312, caput, do CP, e em 1 ano e 1 mês a pena decorrente do crime do art. 299 do CPP, tendo em vista a valoração negativa da personalidade do agente, das circunstâncias e das consequências do crime.
+Para tanto, consignou-se que as condições pessoais dos réus e as circunstâncias em que cometeram os crimes autorizam a elevação das reprimendas, justamente em razão da confiança neles depositadas para o manuseio de verbas públicas em prol da coletividade. Com efeito, os réus são professores universitários e empresários, com atuação marcante em uma faculdade de excepcional qualidade e reconhecimento no País na área de odontologia, referência em pesquisas tecnológicas no setor de periodontia (fl. 4.028).
+De acordo com o acórdão combatido, a reprovabilidade da conduta decorre do desvio de verba federal de natureza excepcional, eis que era destinada a área da saúde e não de natureza meramente pública, ademais o falso foi igualmente perpetrado contra órgão públicos, e com o intuito de acobertar o desvio da verba (fl. 4.029).
+Além disso, ressaltou-se que as ações deslindadas foram perpetradas em prejuízo a verbas federais recebidas da FINEP, mas em especial do Ministério da Saúde (fl. 4.026).
+No caso, a existência de elementos concretos para a exasperação da pena-base que desbordam o tipo penal, no que tange às circunstâncias dos crimes, evidenciam maior reprovabilidade da conduta a justificar a sua fixação acima do mínimo legal.
+Entretanto, no que se refere à personalidade, valorada negativamente e às consequências, entendo que o acórdão deixou de utilizar-se de elementos concretos dos autos para justificar o incremento da pena-base, utilizando-se de elementos ínsitos ao próprio tipo penal incriminador, razão pela qual deve haver o decote das mencionadas vetoriais na primeira fase da dosimetria. Nesse sentido:  ..
+Destarte, passo a redimensionar as penas.
+Mantidos os mesmos critérios estabelecidos na origem, na primeira fase da dosimetria, mantida apenas uma vetorial negativa, fixo a pena-base do crime do art. 299 do CP em 1 ano, 4 meses e 10 dias de reclusão, patamar mantido na segunda fase, dada a ausência de circunstâncias agravantes ou atenuantes. Na terceira fase, devido à continuidade delitiva (art. 71 do CP), exaspero a pena em 1/6, totalizando 1 ano, 7 meses e 2 dias de reclusão.
+No tocante ao crime do art. 312, caput, do CP, na primeira fase da dosimetria, mantida apenas uma vetorial negativa, a pena-base vai fixada em 2 anos, 8 meses e 10 dias de reclusão, quantum mantido na segunda fase, à míngua de agravantes ou atenuantes. Na terceira etapa da dosimetria, em razão da continuidade delitiva (art. 71 do CP), a pena resta fixada em 3 anos, 1 mês e 23 dias de reclusão.
+Aplicada a regra do concurso material de crimes, a pena total resta fixada em 4 anos, 8 meses e 25 dias de reclusão. Além disso, com apoio nos critérios já citados, fixo a pena pecuniária total em 30 dias-multa.
+No tocante ao regime prisional, é de se manter o regime semiaberto, diante do total da reprimenda aplicada, consoante o art. 33, § 2º, b, do CP.
+Como mencionado no parecer do Ministério Público Federal, ao requerente foram apontados elementos próprios ao recrudescimento da pena-base, conforme se extrai do seguinte trecho (fl. 3214):
+Com relação ao réu AGUINALDO CAMPOS JÚNIOR, uma vez que este atuou em todas as fases do delito, escolhendo as empresas com as quais o núcleo de pesquisas iria contratar, assinando os cheques referentes aos pagamentos e sendo sócio ou administrador de algumas das empresas, entendo necessária a aplicação de pena mais elevada do que as atribuídas aos demais réus.
+Dessa forma, com relação ao delito previsto no artigo 312, caput, segunda parte, do Código Penal aplico a pena de 5 (cinco anos) de reclusão, e com relação ao delito previsto no artigo 304 do Código Penal, aplico a pena de 2 (dois) anos e 6 (seis) meses de reclusão ao réu AGUINALDO CAMPOS JÚNIOR.
+Assim, encontrando-se a aumento da pena fundado em circunstância de caráter pessoal, não incide o art. 580 do CPP.
+Ante o exposto, indefiro o pedido.
+Não há motivo para conclusão diversa.
+Como se vê, as circunstâncias que motivaram a redução da pena no caso do corréu Aguedo Aragones foram personalidade e consequências do crime, vetoriais estes que, a toda evidência, são de caráter pessoal, não podendo ser aproveitadas ao requerente.
+Ademais, não há similitude fático-processual entre o requerente e o corréu, uma vez que o primeiro atuou em todas as fases do delito, escolhendo as empresas com as quais o núcleo de pesquisas iria contratar, assinando os cheques referentes aos pagamentos e sendo sócio ou administrador de algumas das empresas, sendo, portanto, uma contribuição maior no cenário criminoso que o oferecido pelos demais corréus, motivo pelo qual teve sua pena exasperada em quantum mais elevado.
+Ante o exposto, voto por negar provimento ao agravo regimental.
