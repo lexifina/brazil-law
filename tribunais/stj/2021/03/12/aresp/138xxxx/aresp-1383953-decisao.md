@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da incidência da Súmula n. 83/STJ (e-STJ fls. 346/359).
+O acórdão recorrido está assim ementado (e-STJ fls. 172/174):
+AGRAVO DE INSTRUMENTO. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. AÇÃO COLETIVA DE CONSUMO. IDEC. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.
+REATIVAÇÃO DO FEITO. Diante do julgamento do paradigma REsp 1.391.198/RS (Temas 723 e 724 do STJ) e da edição do Ato 21/2016-P, possível a reativação deste processo.
+DA ILEGITIMIDADE ATIVA. Tendo em vista a abrangência nacional da decisão objeto do cumprimento de sentença, e considerando que a parte demandante comprovou a titularidade do direito abrangido pelo título judicial transitado em julgado, não há falar em ilegitimidade ativa, notadamente porque prescindível a demonstração, pelo poupador, de eventual vinculação ao IDEC (autor da ação coletiva), ausente previsão legal nesse sentido (arts. 82 e 91 do Código de Defesa do Consumidor). Tema 724-STJ: "Os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do IDEC, de ajuizarem o cumprimento individual da sentença coletiva proferida na ação civil pública nº 1998.01.1.016798-9 pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF".
+LIMITAÇÃO TERRITORIAL. COISA JULGADA. ABRANGÊNCIA NACIONAL DA DECISÃO. TITULO EXECUTIVO VÁLIDO. Eficácia subjetiva da coisa julgada. Limitação. Inviabilidade. Título executivo válido. Aplicação do art. 103 do CDC, a estender a eficácia da decisão proferida em ação coletiva para além dos limites territoriais do Juízo Prolator, a fim de que a decisão abranja todo o território nacional. Tema 723-STJ: "A sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva nº 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal".
+LIQUIDAÇÃO DE SENTENÇA. A execução de título executivo que fixou o percentual dos rendimentos expurgados da remuneração das cadernetas de poupança dispensa prévia liquidação de sentença. Mero cálculo aritmético que se apresenta suficiente a embasar a pretensão, tomando como parâmetro as definições da sentença proferida nos autos da ação civil pública. Site do Tribunal de Justiça que, inclusive, disponibiliza ferramenta eletrônica (simulador de cálculo) para apuração do débito. Em razão da solução adotada, prejudicado o pedido de designação de perícia.
+EXCESSO DE EXECUÇÃO. A parte impugnante limita-se a apontar o suposto excesso em execução, sem consignar, contudo, as irregularidades do cálculo. Insurgência genérica. Art. 525, §1º do CPC/15.
+JUROS DE MORA - TERMO INICIAL. Mesmo em execuções ou cumprimentos de sentença individuais, os juros de mora incidem a partir da citação do devedor no processo de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza a mora, salvo a configuração desta em momento anterior. Entendimento pacificado em sede de julgamento repetitivo pelo Superior Tribunal de Justiça, no REsp 1.370.899/SP (Tema 685 dos Recursos Repetitivos), cuja aplicação deve ser observada em todos os recursos que ventilem a mesma controvérsia.
+JUROS REMUNERATÓRIOS. AUSÊNCIA NO TÍTULO EXECUTIVO. O título executivo (a sentença proferida na Ação Civil Pública movida pelo IDEC contra o Banco do Brasil) não previu expressamente a incidência de juros remuneratórios. O paradigma REsp 1.384.142/DF (Tema 887-STJ) afastou essa rubrica, ressalvando ao interessado, se possível, ajuizar ação individual de conhecimento.
+No caso concreto, embora a parte autora tenha elaborado a memória de cálculo do débito em 29/11/2016, (e-fl. 169) pela versão atualizada da ferramenta disponibilizada pelo Tribunal de Justiça, a qual permite a exclusão dos juros remuneratórios, os incluiu, sendo necessária a elaboração de novo cálculo, sem sua incidência.
+Recurso provido, no ponto.
+ÍNDICE DE 10,14% EM FEVEREIRO DE 1989. O simulador de cálculo de expurgos da caderneta de poupança disponibilizado no site do TJRS aplica corretamente a atualização monetária pelos índices oficiais da poupança, mesmo na sua versão anterior. Com a realização de novo cálculo, contudo, restará sanada tal questão.
+INCLUSÃO DE EXPURGOS INFLACIONÁRIOS POSTERIORES. A atualização monetária do débito judicial referente a expurgos inflacionários pelos índices aplicáveis à poupança deve incluir as diferenças dos Planos subsequentes a título de correção, conforme o Recurso Especial Repetitivo nº 1.314.478-RS.
+EFEITO DOS PARADIGMAS DOS TRIBUNAIS SUPERIORES.
+O moderno processo civil requer a observância, pelos aplicadores do Direito, dos paradigmas julgados pelo Supremo Tribunal Federal e pelo Superior Tribunal de Justiça, ao apreciar os representativos da controvérsia em Temas e Teses definidos como Repercussão Geral e Recursos Repetitivos. Corolário disso é que, no caso em estudo, as teses fixadas em sede repetitiva devem ser aplicadas a todos os recursos que ventilem as mesmas controvérsias.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 257/264).
+Nas razões do recurso especial (e-STJ fls. 270/282), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de dissídio jurisprudencial, ofensa aos arts. 2º e 12 da Lei n. 8.088/1990.
+Sustentou, em síntese, que a incidência de juros remuneratórios decorre de lei, e não de decisão judicial, de forma que não necessitam estar previstos na parte dispositiva da sentença transitada em julgado.
+Defendeu que o acessório - no caso, os juros remuneratórios - segue o principal.
+Além disso, nos termos da Lei n. 8.088/1990, "o juro remuneratório é um direito do poupador, que deve ser pago todo mês pela instituição financeira, conforme rezam os art. 2º e 12,da Lei n.º 8088, sobre o valor de correção monetária pago a menor ao poupador, decorrente dos Planos Econômicos, é corolário lógico a incidência dos juros remuneratórios sobre este capital" (e-STJ fl. 275).
+Afirmou que excluir os juros remuneratórios do cálculo exequendo é permitir o enriquecimento sem causa da instituição financeira, o que é vedado pelo art. 884 do CC/2002.
+Apontou ainda dissídio jurisprudencial sobre o tema.
+No agravo (e-STJ fls. 364/377), afirma a presença de todos os requisitos de admissibilidade do especial.
+O recorrido apresentou contraminuta (e-STJ fls. 416/420).
+É o relatório.
+Decido.
+O Tribunal de origem decidiu que os juros remuneratórios, para serem incluídos no cálculo do débito exequendo, devem estar expressamente previstos no título executivo.
+Esse entendimento está de acordo com a jurisprudência do Superior Tribunal de Justiça, a teor dos seguintes julgados:
+AGRAVO INTERNO. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CORREÇÃO MONETÁRIA. JUROS REMUNERATÓRIOS. COISA JULGADA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOVAÇÃO ARGUMENTATIVA.
+1. O Tribunal de origem, não obstante a rejeição dos embargos de declaração, dirimiu de modo fundamentado e claro a controvérsia. O acórdão recorrido não é omisso, obscuro ou contraditório, nem contém erro material.
+2. A correção monetária de débitos judiciais deve seguir os preceitos da Lei 6.899/1981 e não os índices da caderneta de poupança. Precedentes.
+3. A coisa julgada impede que os juros remuneratórios, não previstos no título exequendo, sejam objeto da execução. Precedentes.
+4. Nos termos dos artigos 932, inciso III, e 1.021, § 1º, do Código de Processo Civil/2015, do artigo 259 do Regimento Interno do STJ e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+5. Tese mencionada no agravo interno, mas não ventilada no recurso especial, não merece conhecimento por configurar inovação argumentativa.
+6. Agravo interno a que se nega provimento.
+(AgInt no REsp 1643618/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/03/2020, DJe 26/03/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. POUPANÇA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. COISA JULGADA.
+1. Não tendo havido condenação expressa no título ao pagamento de juros remuneratórios na forma capitalizada, descabe a inclusão dessa verba na fase de execução, sob pena de indevida ampliação do alcance objetivo da coisa julgada.
+2. Excesso reconhecido.
+3. AGRAVO DESPROVIDO.
+(AgInt no REsp 1532699/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 06/03/2018, DJe 13/03/2018.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CADERNETA DE POUPANÇA. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO. JUROS REMUNERATÓRIOS. VERBA IMPLÍCITA. COISA JULGADA. VIOLAÇÃO.
+1. A orientação desta Corte é no sentido de não ser possível incluir no cálculo da execução individual fundada em ação civil pública proposta para cobrança de diferenças de correção monetária em saldo de caderneta de poupança decorrentes de Planos Econômicos valor relativo a juros remuneratórios que não tenham sido expressamente contemplados no título exequendo.
+2. Agravo regimental não provido.
+(AgRg no REsp 1468483/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/04/2017, DJe 10/05/2017.)
+DIREITO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). EXECUÇÃO INDIVIDUAL. INCLUSÃO DE JUROS REMUNERATÓRIOS. OMISSÃO DO TÍTULO.
+1. Na execução individual de sentença proferida em ação civil pública que reconhece o direito de poupadores aos expurgos inflacionários decorrentes do Plano Verão (janeiro de 1989), descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, sem prejuízo de, quando cabível, o interessado ajuizar ação individual de conhecimento.
+2. Recurso especial provido.
+(REsp 1372688/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 27/5/2015, DJe 25/8/2015.)
+DIREITO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. PLANO VERÃO (JANEIRO DE 1989). EXECUÇÃO INDIVIDUAL. INCLUSÃO DE JUROS REMUNERATÓRIOS E DE EXPURGOS SUBSEQUENTES. OMISSÃO DO TÍTULO.
+1. Na execução individual de sentença proferida em ação civil pública que reconhece o direito de poupadores aos expurgos inflacionários decorrentes do Plano Verão (janeiro de 1989): 1.1. Descabe a inclusão de juros remuneratórios nos cálculos de liquidação se inexistir condenação expressa, sem prejuízo de, quando cabível, o interessado ajuizar ação individual de conhecimento; 1.2. Incidem os expurgos inflacionários posteriores a título de correção monetária plena do débito judicial, que terá como base de cálculo o saldo existente ao tempo do referido plano econômico, e não os valores de eventuais depósitos da época de cada plano subsequente.
+2. Recurso especial parcialmente provido.
+(REsp 1392245/DF, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 7/5/2015.)
+DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA N. 1998.01.016798-9 DE BRASÍLIA/DF. IDEC VS. BANCO DO BRASIL. JUROS REMUNERATÓRIOS. AUSÊNCIA DE CONDENAÇÃO. EXECUÇÃO INDIVIDUAL DE SENTENÇA. INCLUSÃO DA VERBA. IMPOSSIBILIDADE. COISA JULGADA.
+1. Não tendo havido condenação expressa ao pagamento de juros remuneratórios na ação civil pública n. 1998.01.016798-9 (Idec vs. Banco do Brasil), que tramitou na 12ª Vara Cível de Brasília/DF, descabe a inclusão dessa verba na fase de execução individual, sob pena de indevida ampliação do alcance objetivo da coisa julgada.
+2. Recurso especial provido.
+(REsp 1.349.971/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 15.9.2014.)
+Incidente, portanto, a Súmula n. 83 do STJ, que se aplica aos recursos interpostos com base tanto na alínea "a" quanto na "c" do permissivo constitucional.
+Ademais, em relação ao dissídio jurisprudencial, vale dizer que os paradigmas apresentados não discutem a tese apresentada no recurso - desnecessidade de previsão expressa no título executivo judicial dos juros remuneratórios - e, além disso, não cuidam de execuções referentes à sentença coletiva proferida pela 12ª Vara Cível da Circunscrição do Distrito Federal, na demanda movida pelo IDEC contra o Banco do Brasil, como no caso dos autos.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
