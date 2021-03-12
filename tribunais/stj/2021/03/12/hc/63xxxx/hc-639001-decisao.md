@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, sem pedido liminar, impetrado em favor de HENRIQUE DE SOUZA BRITO, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0000014- 96.2015.8.26.0603.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, como incurso nas sanções do artigo 157, §2º, incisos I e II, c.c. artigo 29 e artigo 70, por duas vezes, todos do Código Penal, ao cumprimento de 06 (seis) anos e 05 (cinco) meses de reclusão, em regime inicial fechado, e ao pagamento de 15 (quinze) dias- multa (fls. 19-29).
+Inconformada, a defesa interpôs recurso de apelação perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo, em v. acórdão assim ementado:
+"APELAÇÃO CRIMINAL - Roubo majorado consumado - Autoria e materialidade delitiva perfeitamente demonstradas - Prova robusta a admitir a condenação do réu - Manutenção da r. sentença - Recurso da defesa não provido" (fl. 31).
+Dai o presente writ, onde a impetrante alega, em síntese, a ocorrência de constrangimento ilegal na aplicação da fração de 3/8 (três oitavos) em razão da presença de duas causas de aumento, levando-se em conta apenas o critério matemático sem que fosse apresentada qualquer fundamentação para aplicação da referida fração.
+Requer, assim, a concessão da ordem para, na terceira fase da dosimetria, seja aplicada a fração mínima legal de 1/3 (um terço).
+Não houve pedido liminar.
+Informações prestadas às fls. 45-46.
+O Ministério Público Federal, às fls. 68-73, manifestou-se pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL. ROUBO MAJORADO. AUMENTO DE PENA. MAJORANTES. FRAÇÃO. APLICAÇÃO.
+INCOMPETÊNCIA. PRECEDENTES DO STJ. NÃO CONHECIMENTO.
+- 1ª Preliminar: não conhecimento de habeas corpus originário, substitutivo de revisão criminal.
+- 2ª Preliminar: não conhecimento de ofício; ausência de competência.
+- 3ª Preliminar: ausência de competência do STJ; compete ao próprio Tribunal que proferiu a decisão processar e julgar a revisão criminal de seus julgados.
+- Parecer pelo não conhecimento da ordem" (fl. 68).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+O presente writ investe contra r. decisum proferido em sede de apelação criminal interposta contra sentença condenatória e, verificando o v. acórdão combatido que a matéria ora suscitada não foi levantada nas razões da defesa, por conseguinte, não foi enfrentada pela eg. Corte de origem.
+Desse modo, considerando que a Corte de origem não se pronunciou sobre o tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Perfilhando esse entendimento, trago os seguintes julgados:
+"HABEAS CORPUS. FURTO SIMPLES. DETRAÇÃO (ART. 387, § 2.º, DO CÓDIGO DE PROCESSO PENAL). MATÉRIA NÃO SUSCITADA PERANTE A CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. REINCIDÊNCIA. FATOR DETERMINANTE PARA FIXAÇÃO DO REGIME INICIAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO. 1. A tese relativa à aplicação do instituto da detração não foi suscitada perante o Tribunal a quo, o que impede a sua apreciação diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.  ..  4. Habeas corpus não conhecido." (HC n. 480.651/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 10/04/2019, grifei).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. INADEQUAÇÃO. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO. SUBSTITUIÇÃO DA PENA. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PENA-BASE. CONSEQUÊNCIAS DO CRIME. DESCRÉDITO NO SERVIÇO REGISTRÁRIO MAIOR DO QUE A LESÃO INERENTE AO FALSO. REGIME DE CUMPRIMENTO DA PENA. PENA-BASE ACIMA DO MÍNIMO LEGAL. MOTIVAÇÃO IDÔNEA PARA A IMPOSIÇÃO DO REGIME SEMIABERTO. SÚMULAS 440 E 269 DO STJ. HABEAS CORPUS NÃO CONHECIDO.  ..  2. O capítulo da substituição da pena privativa de liberdade por restritiva de direito não foi devolvido para o Tribunal a quo, nem por ele apreciado. Como não há decisão de órgão colegiado, é inviável a apreciação do tema por esta Corte, sob pena de indevida supressão de instância e alargamento inconstitucional da hipótese de competência do Superior Tribunal de Justiça para julgamento de habeas corpus, constante no art. 105, I, "c", da Constituição da República, que exige decisão de Tribunal.  ..  7. Habeas corpus não conhecido." (HC n. 339.352/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 28/08/2017).
+Ante o exposto, não conheço do present e habeas corpus.
+P. e I.
