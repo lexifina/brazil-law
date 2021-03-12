@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por WEBERT BELIZÁRIO RODRIGUES JUNIOR, contra a decisão do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra o acórdão prolatado na Apelação Criminal n.1.0471.18.002214-0/001.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante às seguintes reprimendas: a) 7 (sete ) anos de reclusão, em regime inicial fechado, e 700 (setecentos) dias-multa (art. 33, caput, da Lei n.11.343/2006 - 32,20g de crack, 3,84g de maconha e 3,99g de cocaína); b) 8 (oito)meses e 5 (cinco) dias de detenção, em regime inicial semiaberto(art. 309 do Código de Trânsito Brasileiro, por duas vezes, na forma do art. 71 do Código Penal. Houve apelação somente defensiva, a que o Tribunal de origem deu parcial provimento, apenas para conceder a assistência judiciária gratuita. O acórdão ficou assim ementado (fl. 235):
+"EMENTA: APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS E DIRIGIR SEM HABILITAÇÃO - AUTORIA E MATERIALIDADE COMPROVADAS - CONDENAÇÕES MANTIDAS - REDUÇÃO DA PENA-BASE - INVIABILIDADE - ASSISTÊNCIA JUDICIARIA GRATUITA - CONCESSÃO. 1. Se as provas colacionadas no caderno processual se mostram irrefutáveis quanto ao comércio clandestino de drogas, bem como quanto ao fato de dirigir sem habilitação, as condenações devem ser mantidas, não havendo que se falarem absolvição ou desclassificação para o delito previsto no art.28 da Lei 11.343/06.
+2. Sendo desfavorável apenas uma das oito circunstâncias judiciais, e, considerada a natureza e a quantidade da droga apreendida, a pena deve ser aumentada de forma proporcional, devendo ser mantido o quantum de pena aplicado na sentença. 3. Assistido o acusado por Defensor Público, deve ser concedida a assistência judiciária gratuita, com a suspensão do pagamento das custas processuais, como se depreende do art. 804 do CPP."
+No recurso especial, alegou-se a violação aos arts. 617 do Código de Processo Penal e 59 do Código Penal, sustentando ter havido indevida reformatio in pejus no acórdão recorrido no tocante à dosimetria do crime de tráfico de drogasquando, ao apreciar recurso exclusivo da defesa,embora tenha excluído algumas das circunstâncias negativadas na sentença (motivos e consequências), manteve o mesmo patamar de aumento da pena-base efetivado pelo Julgador de primeiro grau.
+Pediu o provimento do recurso especial, com a fixação da pena-base próxima ao mínimo legal.
+Oferecidas contrarrazões (fls. 260-263), inadmitiu-se o recurso na origem (fls. 265-267), advindo o presente agravo (fls. 271-277), contraminutado às fls. 279-281.
+O Ministério Público Federal manifesta-se pelo conhecimento do agravo para não se conhecer do recurso especial (fls. 295-301).
+É o relatório.
+Decido.
+Evidenciada a viabilidade do agravo, prossegue-se na análise do recurso especial.
+O Tribunal de origem não debateu a tese de que teria havido reformatio in pejus na na manutenção da pena-base fixada na sentença. Na verdade, a questão surgiu apenas quando da prolação do acórdão recorrido, momento em que houve a exclusão de dois vetoriais negativos, mas se manteve o quantum deexasperação efetivadoem primeiro grau.
+Necessário, portanto, que houvesse a oposição de embargos de declaração para que a Corte a quo se manifestasse sobre o tema. Sendo assim, está ausente o necessário prequestionamento, nos termos da Súmula n. 282 do STF.
+Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ALEGADA NULIDADE NO JULGAMENTO DA APELAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. AGRAVO IMPROVIDO.
+1. O prequestionamento constitui requisito de admissibilidade do recurso especial, ainda que se trate de matéria de ordem pública.
+2. Ainda que a violação de lei federal ocorra no julgamento do acórdão recorrido, é indispensável a oposição de embargos de declaração para que o Tribunal de origem se manifeste sobre a tese jurídica que se pretende suscitar no recurso especial.
+3. Agravo regimental improvido." (AgRg no Resp 1.677.791/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 4/9/2018, DJe 12/9/2018.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. REGIME INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ÓBICE PREVISTO NO ENUNCIADO N.º 282 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. INSURGÊNCIA DESPROVIDA.
+1. No recurso especial interposto com fundamento na alínea a do permissivo constitucional, o agravante, apontando ofensa ao art. 33, § 2.º, alínea c, e § 3.º, do Código Penal, defende que faria jus a iniciar o cumprimento da pena privativa de liberdade imposta em regime aberto.
+2. O Tribunal a quo não emitiu nenhum juízo de valor acerca da possibilidade de fixação do regime inicial mais brando, tendo em vista que o recorrente não lhe devolveu, por meio de embargos de declaração, a análise da suposta contrariedade ao dispositivo infraconstitucional tido por violado.
+3. A ausência de debate de tese do apelo nobre no acórdão recorrido inviabiliza a sua análise nesta via especial ante o óbice do Enunciado n.º 282 da Súmula do STF, que impede o conhecimento de matéria não prequestionada por este Superior Tribunal de Justiça.
+4. Agravo regimental a que se nega provimento." (AgRg no AREsp 831.147/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 9/8/2016, DJe 26/08/2016.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. PENA-BASE. APELAÇÃO DEFENSIVA. REFORMATIO IN PEJUS. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
