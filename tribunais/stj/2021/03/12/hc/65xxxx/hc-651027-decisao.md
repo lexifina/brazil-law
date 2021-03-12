@@ -1,0 +1,15 @@
+DECISÃO
+TIAGO RIBEIRO DA SILVA alega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, que manteve a sua prisão preventiva nos autos do HC n. 5655550-19.2020.8.09.0000.
+A defesa pretende a revogação da prisão preventiva do paciente - preso preventivamente em 4/3/2020 e posteriormente pronunciado como incurso no art. 121, § 2º, I e IV, c/c o art. 29, ambos do Código Penal, sob o argumento de que não estariam presentes os requisitos necessários à custódia cautelar, nos termos do art. 312 do CPP.
+Decido.
+Apesar de o acórdão ora impugnado ter denegado a ordem - cuja impetração referia-se ao decreto preventivo -, não adentrou ao mérito da manutenção da prisão no âmbito da decisão de pronúncia, superveniente em relação ao writ e prejudicial, conforme se verifica do seguinte excerto:
+ ..
+Ocorre que pelo que consta dos autos principais, a decisão de pronúncia foi prolatada recentemente, em 05/02/2021 (mov. nº 197 - proc. nº 144348-52.2019.8.09.0024 ), pronunciando o paciente TIAGO RIBEIRO DA SILVA como incurso nas condutas descritas nos artigos 121, § 2º, I e IV, c/c 29, caput, do Código Penal, assim como foi decretada a sua prisão preventiva, por entender que "não se revela suficiente para se garantir a ordem pública a mera aplicação de medidas cautelares previstas no art. 319 do Código de Processo Penal, razão pela qual não permito aos pronunciados recorrerem em liberdade."
+Dessa maneira, como se comprova dos autos, a prisão atualmente decorre de novo título, não atacada na presente impetração, pelo que denega-se a ordem de habeas corpus, porque a custódia passa a ser fundamentada em novo título.
+No tocante ao tema, oportuno trazer à colação os seguintes julgados desta egr. Corte de Justiça, proferidos em caso com intelecção semelhante:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. DECRETO DE PRISÃO PREVENTIVA. PROLAÇÃO DE SENTENÇA PENAL CONDENATÓRIA NO CURSO DO WRIT. OUTRO TÍTULO. SUPERAÇÃO. INEXISTÊNCIA DE ILICITUDE MANIFESTA.
+Proferida sentença penal condenatória no curso do processamento do habeas corpus, com denegação do direito de recorrer em liberdade, fica superada eventual ilegalidade do decreto prisional impugnado na petição inicial do writ, pelo que julga-se improcedente o pedido, denegando-se a ordem de habeas corpus, porque a custódia passa a ser fundamentada em novo título, deixando-se de apreciá-lo, para não impedir, pela coisa julgada, uma impetração autônoma, restringindo-se a análise à verificação de manifesta ilegalidade, a qual não está presente no caso. ORDEM CONHECIDA E DENEGADA. (TJGO, 1ª Câmara Criminal, Habeas Corpus Criminal 5339816-04.2020.8.09.0000, Rel Dr. Fernando de Castro Mesquita, julgado em 25/09/2020, DJe de 25/09/2020). Destaquei.
+ .. (fls. 41-42)
+Portanto, como a Corte local, de fato, não conheceu do writ, sob o argumento de que "a prisão atualmente decorre de novo título, não atacada na presente impetração", evidencia-se a impossibilidadede conhecimento do habeas corpus, sob pena de vedada supressão de instância.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
