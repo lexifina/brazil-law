@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por MEYRIELE MENDES CIRINO contra a decisão que não admitiu seu recurso especial.
+O recurso especial, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186 e 927 do CC, no que concerne à necessidade de majoração do valor fixado a título de danos morais e estéticos, trazendo os seguintes argumentos:
+A presente demanda justifica-se em razão de grave situação que atingiu a recorrente em razão de procedimento médico de videolaparoscopia, ocasião em que conviveu com fortes dores durante 6 (seis) meses e necessitou realizar tratamento para tratar a infecção por microbactéria.
+Destarte, não se trata de mero aborrecimento ou situação com menor potencial ofensivo, mas de grave caso de erro médico deixando a Recorrente debilitada durante 6 (seis) meses, sendo obrigada a realizar .diversos tratamentos para ver-se curada.
+ ..
+Ora, é certo que, mantido o valor da r. Sentença, de R$15.000,00 (quinze) mil reais, não há qualquer se falar em enriquecimento ilícito, mas tão-somente em justo valor capaz de ressarcir a Recorrente.
+Do mesmo modo, o fato de inexistir incapacidade definitiva não é motivo para diminuir os valores de condenação, até mesmo porque, fosse o caso, o que se discutiria seria a hipótese de pagamento de pensão vitalícia, além dos danos morais.
+Igualmente, o valor de R$5.000,00 (cinco) mil reais quanto ao dano estético não é capaz de ressarcir os danos advindos da cicatriz permanente, como bem assevera a r. Sentença:
+ ..
+Portanto, considerando que os valores não se mostram compatíveis com os danos sofridos, requer seja reconhecida a violação aos artigos 186 e 927 do Código Civil com provimento do recurso e restabelecimento da r. Sentença de 1º grau ou majoração dos valores como entender devido este C. Tribunal (fls. 1763/1773).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Sob esse prisma, diante das circunstâncias hospedadas nos autos (autora com fortes dores, mal estar e uso de medicamentos por aproximadamente 06 meses, no entanto, não apresenta nenhuma incapacidade laborativa decorrente da infecção) e tomando-se como referencial as diretrizes retromencionadas, entendo que o" valor arbitrado na decisão objurgada, qual seja, R$ 15.000,00 deve , ser reduzido para R$ 10.000.00 quantia razoável à reparação dos danos extrapatrimoniais suportados pela paciente, evitando-se enriquecimento sem, causa; ao mesmo tempo, penalizando-se o ofensor.
+Em relação ao valor da indenização por danos estéticos, o montante devido é apurado de acordo com a gravidade da transformação causada ao corpo da vítima.
+Na espécie, as fotos colacionadas e o laudo pericial demonstram pequena sequela de aproximadamente dois centímetros no abdômen da autora (fls. 698/700 e 972, grifo meu).
+Inevitavelmente, em razão da videolaparoscopia, alguma cicatriz se faria presente.
+Contudo, os procedimentos invasivos a que a paciente teve que se submeter após constatada a infecção acentuaram as marcas permanentes, expondo a autora a relativo constrangimento.
+Dessa forma, de acordo com as circunstâncias do caso concreto e atento aos parâmetros adotados pela jurisprudência desta Corte em situações congêneres, entendo que o valor fixado pelo douto juízo a guo (R$ 10.000,00) deve ser minorado para R$ 5.000,00 (fl. 1744, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020.
+Ademais, quanto aos danos estéticos, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
