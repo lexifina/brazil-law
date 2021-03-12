@@ -1,0 +1,22 @@
+DECISÃO
+GILSON DOS SANTOS PINTO alega sofrer coação ilegalem face de acórdão do Tribunal a quo.
+A defesa assinala que o apenado faz jus à progressão de regime.Requer a declaração do benefício.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+O writ comporta pronta solução, pois existe entendimento pacífico sobre o tema.
+A progressão para regime menos rigoroso foi indeferida pelo Juiz da VEC, pois: a) "em que pese a atual boa conduta carcerária e o preenchimento do requisito objetivo, o sentenciado ainda possui longa pena por cumprir"; b) "cumpre pena por crimes graves, praticados com violência ou grave ameaça contra pessoa (dois latrocínios e roubo majorado)" e c) registra "faltas disciplinares de natureza grave" (fl. 14).
+O Tribunal de Justiça, por sua vez, assinalou (fl. 12):
+GILSON foi condenado por crimes extremamente graves, envolvendo emprego de arma, além de grave ameaça ou violência contra a pessoa. Durante o cumprimento de sua reprimenda, praticou faltas disciplinares de natureza grave consistentes em posse de invólucros contendo maconha e subversão à ordem e à disciplina. Ademais, verifica-se que possui longa pena a cumprir, com término previsto para a longínqua data de06/03/2036.
+A progressão para o regime menos rigoroso pressupõe o preenchimento dos requisitos objetivo e subjetivo (artigo 112 da LEP). Além do resgate de certa quantidade de pena, o apenado tem que ostentar bom comportamento carcerário para fazer jus aos favores legais.
+Impõe ressaltar que:
+ ..  1. O atestado de boa conduta carcerária não assegura, automaticamente, a progressão de regime ao apenado que cumpriu o requisito temporal, pois o Juiz das Execuções não é mero órgão chancelador de documentos emitidos pela direção da unidade prisional.
+ .. (AgRg no HC n. 525.070/MS, Rel. MinistroReynaldo Soaresda Fonseca, 5ª T., DJe 4/10/2019).
+Deveras: "a análise do requisito subjetivo pressupõe a verificação domérito do condenado, que não está adstrito ao "bom comportamento carcerário", como faz parecer a literalidade da lei, sob pena de concretizar-se o absurdo de transformar o diretor do presídio no verdadeiro concedente do benefício e o juiz em simples homologador"(RHC 121851, Rel. MinistroLuiz Fux, Primeira Turma, DJe 16/6/2014).
+A progressão de regime pode ser indeferidapor falta de aptidão do apenado, desde que o Juiz aponte"algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena. Precedentes do STJ" (AgRg no HC 588.110/SP, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 13/8/2020).
+Com efeito: "fatores relacionados ao crime são determinantes da pena aplicada, mas não fundamentam tratamento diverso à negativa da progressão de regime ou livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução"(AgRg no HC 567.402/SP, Rel. MinistroNefi Cordeiro, 6ª T.,DJe 8/6/2020).
+Ademais, esta Corte pacificou o entendimento de que comportamentos desabonadores muito antigos não podem impedir, permanentemente, a obtenção de benefícios executórios, pois o sistema pátrio veda a sanções de caráter perpétuo.Areabilitação do preso deve ser entendida como o aperfeiçoamento da disciplinapor decurso detempo relevante.
+Ilustrativamente:"faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime" (HC n. 508.784/SP, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019).
+In casu,verifica-se ailegalidade do ato coator, poisa gravidade dos crimes objeto da execução, a longa pena a cumprir e o registro de faltas graves antigas, a última delas perpetrada em 2014 (fl. 58), pautaram o indeferimento da progressão de regime.
+O apenado praticou o ato de indisciplina há anos (2014).Desde então, passados mais de seis anos, demonstrou bom comportamento carcerário e sua conduta está reabilitada pelo decurso de razoável período de tempo. Oato de indisciplina muito antigo não podeimpedir, indefinidamente, sua gradativa reinseração social.
+À vista do exposto,concedo o habeas corpus para determinarao Juiz que reexamineopedido do paciente, de progressão de regime,afastada a fundamentação anteriormente adotada (gravidade dos crimes, longevidade da pena e faltas graves praticadas em 2012 e 2014) e a consideraçãode fatos desabonadores muito antigos da execução penal, ocorridos há mais de 3 anos.
+Publique-se e intimem-se.
