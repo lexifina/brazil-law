@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Welington da Silva Espinosa contra a decisão que negou provimento ao recurso especial por ele apresentado (fls. 341/345):
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. VIOLAÇÃO DOS ARTS. 155, § 4º, I, DO CP, E 158 DO CPP. DESTRUIÇÃO OU ROMPIMENTO DE OBSTÁCULO À SUBTRAÇÃO DA COISA. CRIME QUE DEIXA VESTÍGIO. PLEITO DE DECOTE DA QUALIFICADORA. PERÍCIA REALIZADA. VERIFICAÇÃO. OCORRÊNCIA. REGULARIDADE CONSTATADA.
+Recurso especial improvido.
+Sustenta o agravante que,embora realmente tenha sido juntado aos autos laudo de constatação do local do crime (fls. 50/55), realizado por dois investigadores de polícia nomeados com perito pela autoridade policial, não há informação acerca de suas formações acadêmicas, sendo que somente a partir de da Lei Complementar n.114/2005 é que passou referido cargo a exigir nível superior, não sendo possível constatar se foi cumprida a exigência do art.159, § 1º, do CPP (fl. 355).
+Assevera que o laudo foi confeccionado por dois policiais civis nomeados pelo Delegado de Polícia responsável pela investigação do fato (fls. 50/55), inexistente a imprescindível imparcialidade exigida da perícia, tornando-a nula e insuficiente a embasar o reconhecimento da qualificadora.  ..  Logo, havendo condição para elaboração de um laudo de exame de corpo de delito por profissional devidamente habilitado (perito oficial ou não), outro meio de prova não é legítimo para qualificar o crime, ainda mais quando inexistem elementos concretos que indiquem a inviabilidade de sua confecção, como é o caso dos autos.  ..  Assim, se era possível a realização da perícia, mas esta não ocorreu, a prova testemunhal e o exame indireto não suprem a sua ausência (fl. 356).
+Pede a reconsideração da r. decisão monocrática. Caso entenda de modo diverso, que apresente o feito em mesa de julgamento para apreciação pela e. Sexta Turma, a fim de que seja dado provimento ao Recurso Especial, para que seja afastada a qualificadora do rompimento de obstáculo, visto que não houve a realização de perícia direta (fl. 360).
+Instado a manifestar-se (fl. 363), houve o decurso do prazo sem apresentação de impugnação pela parte agravada (fl. 375).
+É o relatório.
+Razão assiste ao agravante.
+Com efeito, embora a jurisprudência do Superior Tribunal de Justiça não vede a confecção de laudo pericial por policiais civis devidamente nomeados pela autoridade competente, tem-se que necessária a comprovação de que os referidos peritos ostentem curso superior.
+A propósito:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. LAUDO PERICIAL QUE EMBASOU DENÚNCIA FIRMADO POR DOIS PERITOS CRIMINAIS OFICIAIS. AUSÊNCIA DE REGISTRO NO CONSELHO PROFISSIONAL DE ENGENHARIA. INEXISTÊNCIA DE PREVISÃO NA LEI PROCESSUAL ACERCA DA NECESSIDADE. ART. 159 DO CPP. INOCORRÊNCIA DE NULIDADE. ASSISTÊNCIA JUDICIÁRIA GRATUITA. PEDIDO INDEFERIDO POR AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. NECESSIDADE DE REVOLVIMENTO FÁTICO PARA DESCONSTITUIR A CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS. WRIT NÃO CONHECIDO.
+1. O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram a orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. O Código de Processo Penal não prevê exigência legal de inscrição de perito oficial em entidade de classe, como o CREA, restando suficiente que ele ostente diploma de curso superior, sendo possível até mesmo a realização de exames por peritos não oficiais, nos termos do art. 159 do CPP. Jurisprudência do STJ e do STF.
+3. A alteração do julgado, para elidir as conclusões do acórdão impugnado quanto às convicções formadas pelas instâncias originárias acerca da ausência da comprovação da hipossuficiência do paciente, demandaria a análise do contexto fático-probatório dos autos, o que não é possível na via estreita deste mandamus.
+4. Writ não conhecido.
+(HC n. 490.550/AC, Ministro Ribeiro Dantas, Quinta Turma, DJe 25/6/2019 - grifo nosso).
+RECURSO ESPECIAL. LESÃO CORPORAL DE NATUREZA GRAVE. LAUDO PERICIAL. EXAME REALIZADO POR PERITO NÃO OFICIAL. ART. 159 DO CPP. INOBSERVÂNCIA. NULIDADE. PRECEDENTES. RECURSO PROVIDO.
+1. Dispõe o art. 158 do CPP que, Quando a infração deixar vestígios, será indispensável o exame de corpo de delito, direto ou indireto, não podendo supri-lo a confissão do acusado.
+2. Na falta de perito oficial, o exame será realizado por duas pessoas, portadoras de diploma de curso superior, preferencialmente com habilitação técnica relacionada à natureza do exame, consoante o art. 159 do CPP.
+3. Em se tratando de crime de lesão corporal de natureza grave, cujos vestígios não desapareceram, impõe-se a realização de perícia, a fim de comprovar a materialidade delitiva.
+4. Hipótese em que o laudo pericial foi confeccionado por apenas um médico, não oficial, em desrespeito ao art. 159 do CPP, o que impõe o reconhecimento da nulidade processual.
+5. Não se comprovando a materialidade delitiva, diante da ausência de exame de corpo de delito válido, em se tratando de crime de lesões corporais ocorrido em 2010, impõe-se a absolvição do réu.
+6. Recurso especial provido para declarar a nulidade do processo, absolvendo o réu da prática do delito previsto no art. 129, § 1º, II, do CP.
+(REsp n. 1.798.906/ES, Ministro Nefi Cordeiro, Sexta Turma, DJe 4/9/2019 - grifo nosso).
+Da leitura dos autos, não foi identificado o preenchimento de tal requisito, o que impõe o decote da qualificadora de rompimento de obstáculo.
+Ante o exposto, reconsidero a decisão agravada a fim de, com fundamento no art. 255, § 4º, III, do RISTJ,dar provimento ao recurso especial para afastar a qualificadora referente ao rompimento de obstáculo. Devolvam-se os autos ao Tribunal de origem para que, diante do quanto decidido, opere uma nova dosimetria.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. FURTO QUALIFICADO. VIOLAÇÃO DOS ARTS. 155, § 4º, I, DO CP, E 158 DO CPP. DESTRUIÇÃO OU ROMPIMENTO DE OBSTÁCULO À SUBTRAÇÃO DA COISA. CRIME QUE DEIXA VESTÍGIO. PLEITO DE DECOTE DA QUALIFICADORA. PERÍCIA REALIZADA. NÃO COMPROVAÇÃO DA ESCOLARIDADE DOS PERITOS NOMEADOS. CRIME QUE DEIXA VESTÍGIO. RETORNO DOS AUTOS PARA NOVA DOSIMETRIA.
+Reconsideradaa decisão agravada. Recurso especial provido nos termos do dispositivo.
