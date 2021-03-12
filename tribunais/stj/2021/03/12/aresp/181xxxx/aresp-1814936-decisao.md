@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo DISTRITO FEDERAL contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, ESTÉTICOS E MATERIAIS. ERRO MÉDICO. REDISTRIBUIÇÃO DO ÔNUS DA PROVA. ART. 373, §1º, CPC. CABIMENTO. AGRAVO DE INSTRUMENTO IMPROVIDO. AGRAVO INTERNO PREJUDICADO.
+Quanto à controvérsia, alega violação do art. 373, §§ 1º e 2º, do CPC, no que concerne à ausência dos requisitos para a inversão do ônus da prova, trazendo os seguintes argumentos:
+No caso dos autos, vislumbrou a Corte de Origem maior facilidade ao Distrito Federal na produção de prova relativa à ausência de falhas no tratamento médico ofertado à companheira do autor.
+Acontece que a decisão de inverter o ônus da prova de forma genérica prejudica sobremaneira o DF. Isso porque não há qualquer razoabilidade em atribuir integralmente ao Estado o ônus dever de produzir prova quanto à inexistência de falha no serviço médico prestado (fato controvertido no processo).
+O principal argumento do Distrito Federal relaciona-se ao fato de que, "a dificuldade de realização de perícia acarretou prejuízo ao trâmite da presente demanda, em afronta ao princípio da duração razoável do processo, insculpido no art. 5º, inciso LXXVIII, da CRFB. (..) Nesse contexto, em face da excessiva dificuldade da parte autora em cumprir o encargo probatório a si atribuído, deve ser aplicado o art. 373, §1º, do CPC, a fim de que se inverta o ônus da prova e incumba ao réu o ônus de comprovar o alegado acerto do procedimento médico prestado ao autor".
+Nesse cenário, não se fazia simplesmente presente o requisito legal da "maior facilidade de obtenção da prova do fato contrário", relativo à inexistência de falha no serviço médico prestado.
+Inaplicável, portanto, ao caso dos autos, a norma constante do art. 373, parágrafo 1º, da Lei de Ritos, equivocadamente invocada pelo Tribunal de Origem como fundamento da decisão que impôs ao Recorrente a inversão do ônus probatório do processo.
+ ..
+A violação ao sentido da regra é flagrante. Em verdade, estabeleceu o Tribunal Local a quebra da paridade de tratamento entre as partes do processo, com a transferência pura e simples da dificuldade probatória ao Recorrente, a quem imposta a produção de prova negativa, qual seja, a inexistência de falha no serviço médico prestado, ao contrário do quanto alegado pela parte autora.
+Mas a prova de algo que não ocorreu é reconhecidamente custosa, senão impossível, sendo por isso considerada diabólica.
+O que não se poderia dizer da comprovação do fato positivo alegado pela parte autora.
+Não admite, contudo, o parágrafo 2º do art. 372 da Lei de Ritos a imposição de prova diabólica reversa, consoante anteriormente salientado e amplamente reconhecido pela doutrina pátria:
+ ..
+Vê-se, assim, que o óbice imposto pelo parágrafo 2º do art. 373 do Estatuto Processual à aplicação da regra veiculada em seu parágrafo 1º não restou igualmente observado pelo Tribunal Local. O que traduz afronta aos aludidos dispositivos legais (fls. 63-66)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso, a hipossuficiência técnica da parte autora em produzir provas referentes ao direito que postula, no tocante ao acerto ou desacerto do procedimento médico empregado, bem como a maior facilidade do réu no acesso ao prontuário médico, revelam que a inversão do ônus da prova não comporta qualquer censura.
+Ao contrário do que alega o agravante, a inversão não impossibilita seu direito de defesa, na medida em que poderá valer-se de meios probatórios idôneos para elucidar os fatos, especialmente acerca da regularidade do atendimento médico a que foi submetida a autora, e, por conseguinte, afastar eventual nexo de causalidade entre a conduta e os alegados danos experimentados (fl. 56).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em âmbito de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
