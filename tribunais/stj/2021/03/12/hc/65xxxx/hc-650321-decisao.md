@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deALEXSANDER REZENDE CUSTODIO,apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Extrai-se dos autos que o paciente está preso preventivamente desde o dia 26/8/2020 pela suposta prática das condutas tipificadas no artigo 33da Lei n. 11.343/2006 e artigo 14 da Lei n. 10.826/2003
+Buscando o relaxamento da prisão por excesso de prazo, adefesa impetrouhabeas corpusoriginário, cuja medida liminar foi indeferida, nos termos da decisão de fls. 18-19 (e-STJ).
+Nesta instância, o impetrante renova a tese defensiva pelo reconhecimento deflagrante ilegalidade na prisão do paciente decorrente do excesso de prazo ocasionado por culpa exclusiva do Estado, sendo que a primeira audiência de instrução está marcada somente para 19/3/2021.
+Requer, inclusive liminarmente, a concessão da ordem para que seja reconhecido o constrangimento ilegal do excesso de prazo e determinado o relaxamento da prisão do paciente.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabehabeas corpuscontra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita. Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido."
+(AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019, grifou-se.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, tendo em vista que foi demonstrada a necessidade de manutenção da segregação cautelar, em virtude da "participação ativa do paciente na quadrilha voltada ao tráfico de entorpecentes, com a qual foi apreendida mais de 01 (uma) tonelada de cocaína, figurando o paciente na ORCRIM como piloto da aeronave".
+3. Conforme orientação desta Corte, a quantidade e a natureza da droga apreendida, bem como a necessidade de se interromper as atividades de organização criminosa, são circunstâncias aptas a justificar a segregação provisória.
+4. Agravo regimental desprovido.
+(AgRg no HC 496.205/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 01/04/2019, grifou-se.)
+Sobre a controvérsia,o Desembargador Relator destacou a necessidade de aguardar informações do Juízo de 1º grau acerca do andamento do processo, não sendo possível averiguar de imediato o excesso de prazo. Confira-se:
+"Não obstante serem relevantes os argumentos trazidos pela defesa do paciente, entendo que, por ora, não restou evidenciado o alegado constrangimento ilegal.
+A alegação de excesso de prazo para o encerramento da instrução criminal não pode ser apreciada sem a devida manifestação da autoridade tida como coatora.Isso porque, conforme é sabido, o andamento processual depende de vários fatores, tais como, a pluralidade de réus, a produção de prova pericial e a eventual necessidade de expedição de cartas precatórias, os quais poderiam justificar o atraso no encerramento da instrução criminal.
+Por fim, o pedido de liminar confunde-se com o mérito da causa, cuja apreciação compete à Turma Julgadora." (e-STJ, fls. 18-19)
+Nesse sentido, por ora, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem. Afinal, quanto à controvérsia, a jurisprudência desta Corte Superior é uníssona no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da indevida coação. Nesse sentido, cito:RHC 58.140/GO, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/9/2015, DJe 30/9/2015; RHC 58.854/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2015, DJe 30/9/2015.
+Dessa forma,revela-se ainda mais imprescindível que as questões ora aventadas pelo impetrantesejam inicialmente apreciadaspelo Colegiado mineiro, por ocasião do julgamento de mérito dohabeas corpusoriginário, a fim de verificar eventual excesso arbitrário na condução do processo, o quenãose observa imediatamente neste atual momento.
+Ante o exposto, com fundamento no art. 210 do RISTJ,indefiro liminarmenteohabeas corpus.
+Publique-se. Intime-se.
+Cientifique-se o Ministério Público Federal.
+Sem recurso, arquivem-se os autos.
