@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALEXANDRO DE ARAUJO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Apelação Cível - Obrigação de fazer - Quitação do preço do imóvel comprovada - Apelante que efetuou o depósito do valor do sinal e das parcelas do preço na totalidade - Soma dos valores do sinal, das parcelas cujos pagamentos restaram incontroversos e das quantias comprovadamente depositadas que equivale ao preço total do imóvel - Pagamento integral do preço reconhecido - Outorga da escritura devida Recurso provido.
+Sucumbência - Inversão do ônus - Fixação de honorários nos termos do artigo 85, § 8º, do CPC - Execução dos valores sujeita ao disposto no art. 98, §3º, do CPC.
+Quanto à controvérsia, alega violação do art. 320 do CC, trazendo os seguintes argumentos:
+Contudo, os Desembargadores contrariaram a Lei Federal, ou negaram sua vigência (art. 320 CC) quando entenderem que os "supostos recibos" que foram juntados pela autora/recorrida comprovaram o pagamento integral do imóvel.
+Ora Ministros, a quitação é declaração unilateral de conhecimento (enunciativa do fato) que entra no mundo como ato jurídico stricto sensu, abstrato, se a causa não se explicita na declaração, não pode ser considerada válida, em outras palavras, se não existe documento que comprove que houve a quitação conforme descrito no artigo 320 CC não houve o pagamento (fl. 130).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Contudo, os outros dois comprovantes juntados à fls.79 denotam que a apelante transferiu, via TED, em favor do apelado, os valores de R$ 10.000,00 e R$ 20.000,00, nos dias 14 e 27 de novembro de 2017.
+Por sua vez, os comprovantes anexados a fl. 80 atestam o depósito em conta poupança do apelado das quantias de R$ 10.000,00, R$ 10.000,00 e R$ 15.000,00, respectivamente nos dias 11, 15 e 20 de dezembro de 2017.
+Anote-se que a soma dos referidos valores equivale exatamente ao montante de R$ 65.000,00, representado pelas supramencionadas parcelas de número 1 a 5.
+Assim, somados todos os valores comprovadamente pagos pela apelante, de rigor o reconhecimento da quitação integral do preço do imóvel (R$ 460.000,00), a autorizar a procedência do pedido de condenação do apelado à outorga da escritura definitiva do imóvel negociado (fl. 122).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
