@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS JORGE DA SILVA, VALDECIR ANTONIO THOMES, JOÃO DE DEUS ALVES SENA, DEIVID RAPHAEL DE ANDRADE SOTERO E PATRÍCIA RAFAELE BARBOSA ARAÚJO contra decisão do Tribunal de Justiça do Distrito Federal e dos Territóriosque não admitiu recurso especial interposto, com fundamento no art. 105, inciso III, alíneaa, da Constituição da República.
+O Tribunal a quo realizou juízo negativo de admissibilidade da impugnação especial, razão pela qual foi interposto o presente agravo.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo (fls. 751-763).
+É o relatório.
+Decido.
+O agravo é tempestivo, entretanto, não infirmou especificamenteos fundamentos da decisão agravada; portanto, não comporta conhecimento.
+Conforme se observa nos autos, às fls. 594-595, o Tribunal de origem realizou o juízo negativo de admissibilidade do recurso especial com base nos seguintes fundamentos: a) ausência de violação aos arts. 489 e 1022, ambos do CPC; b.1) Verbete Sumular n. 7 do STJ, sobre opericulum in mora para a determinação de bloqueio de bens; eb.2)Verbete Sumular n.7do STJ, em relação à escolha e suficiência dos valores (art. 3.ºdo Decreto-Lei n.3.240/1941- individualização).
+A teor do art. 932, inciso III, do Código de Processo Civil de 2015, aplicável por força do art. 3.º do Código de Processo Penal, incumbe ao Relator "não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+No caso, quanto ao fundamento de inadmissão pautado no entendimento consolidado no Enunciado n.7 da Súmula do STJ sobre o periculum in mora para a determinação de bloqueio de bens, observa-se que o Agravante nem sequer se reportou.
+Ainda que assim não fosse,quanto ao mesmo óbiceem relação à escolha e suficiência dos valores (art. 3.º do Decreto-Lei n.3.240/1941 - individualização), o Agravante limitou-se a afirmar genericamente que " a  não individualização dos valores bloqueados de cada recorrente, demonstra a ausência na adequada valoração das provas" (fl. 616),sem demonstrar, todavia, com elementos de fato e razões de direito, como atesepoderiaser conhecidano espectro de cognição do recurso especial.
+Com efeito, " o  agravante deve expor, com particularidade, que a alteração do entendimento adotado pelo Tribunal de origem independe da apreciação fático-probatória dos autos" (AgRg nos EDcl no AREsp 1.542.356/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/10/2019, DJe 30/10/2019).
+Outrossim, "a mera afirmação em sentido oposto não é suficiente para desconstituir a decisão que se pretende ver reformada" (AgRg no AREsp 124.731/SP, Rel. MinistroNAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 06/04/2015), como na espécie, em que aDefesaregistra não haver "necessidade do reexame das provas para que seja reconhecido o direito do agravante, mas sim a revaloração" (fls. 609-610).
+Não basta a mera afirmação em sentido oposto ao óbice, com argumentos que se contrapõem a qualquer decisão que se funde no Enunciado n.7 da Súmula do STJ, deve-se particularizar o fundamento de inadmissão, na medida da admissibilidade, sob pena de vê-lo mantido e sustentando o juízo negativo prévio como um todo.
+Como se sabe, no julgamento do EAREsp 746.775, em 19/09/2018, a Corte Especial deste Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade (DJe 30/11/2018).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSO PENAL. ART. 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015, C.C. O ART. 3.º DO CÓDIGO DE PROCESSOPENAL.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DE INADMISSÃO. AGRAVO NÃO CONHECIDO.
