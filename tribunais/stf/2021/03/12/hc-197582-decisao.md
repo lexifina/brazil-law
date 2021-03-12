@@ -1,0 +1,32 @@
+D E C I S Ã O
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça proferido no julgamento do HC 630.704-AgRg/SP, Ministro Rogério Schietti Cruz.
+    Tal o contexto, reconheço a perda superveniente do objeto do presente habeas corpus.
+    É que, em consulta ao Portal do Tribunal de Justiça do Estado de São Paulo, constata-se que o ilustre relator Desembargador Fernando Torres Garcia, nos autos do Habeas Corpus nº º 2283046-68.2020.8.26.0000, ao apreciar o mérito da referida ação, denegou a ordem ao paciente.
+     O surgimento posterior de decisão de mérito proferida pela Corte Estadual constitui novo título, requer assim nova impetração de habeas corpus no Superior Tribunal de Justiça. A jurisprudência do Supremo Tribunal Federal, nestes casos, orienta pelo prejuízo da impetração, valendo destacar o seguinte trecho da ementa do Ministro Dias Toffoli:
+    “A superveniente alteração do quadro processual, resultante da prolação de outro ato decisório pelo Tribunal Estadual, instaura situação de prejudicialidade da ação de habeas corpus perante o Superior Tribunal de Justiça.”
+    (HC 109.142/SP, Ministro Dias Toffoli).
+    Em casos fronteiriços, esta Suprema Corte firmou orientação no sentido de que a perda superveniente do objeto do habeas corpus implica a extinção do processo (HC 192.940/GO, Ministra Rosa Weber; HC 117.747-AgR/SP, Ministra Cármen Lúcia; HC 84.077/BA, Ministro Gilmar Mendes).
+    Ainda que superado referido óbice, não assiste razão a parte impetrante.
+    Não se desconhece que a decretação da prisão preventiva é medida excepcional, sendo regra que o réu possa responder o processo em liberdade (HC 90.753/RJ, Ministro Celso de Mello).
+    Assim, para a restrição da liberdade de alguém antes do trânsito em julgado da sentença penal condenatória, impõe-se a presença, no momento da decretação dessa medida cautelar, dos pressupostos (materialidade, indícios de autoria e perigo gerado com o estado de liberdade) e dos requisitos e/ou fundamentos previstos nos arts. 312 e 313 do CPP.
+    Uma vez demonstradas pelo magistrado a real necessidade dessa medida cautelar e a presença dos pressupostos e requisitos que venho de referir, a decretação da prisão preventiva estará devidamente fundamentada, sem que se possa alegar que essa prisão processual violaria o princípio da presunção de inocência.
+    Fixadas tais premissas, observo que, no caso em exame, como bem ressaltou o Superior Tribunal de Justiça, ao destacar a legalidade do decreto prisional, pois “(...) o Desembargador plantonista considerou válida, a um primeiro olhar, a motivação exarada pelo Juízo singular para "converter em prisão em flagrante em preventiva especialmente pelo fato de o réu ser 'reincidente na prática de crimes contra o patrimônio, o que corrobora na necessidade de segregação cautelar para o resguardo da ordem pública'"”, evidenciando o risco de reiteração delitiva.
+    O Supremo Tribunal Federal, em precedentes de ambas as Turmas, tem reconhecido a idoneidade da segregação cautelar fundada na garantia da ordem pública, quando demonstrado o risco de reiteração delitiva (HC 149.759-AgR/RS, Ministro Dias Toffoli; HC 174.649-AgR/PR, Ministro Edson Fachin; HC 188.507-AgR/SP, Ministro Roberto Barroso; HC 190.769-AgR/SP, Ministra Cármen Lúcia; HC 193.485-ED, Ministro Alexandre de Moraes;):
+    “Se as circunstâncias concretas da prática do delito indicam, pelo ‘modus operandi`, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP. Precedentes.”
+    (HC 182.773-AgR/PB, Ministra Rosa Weber – com meus grifos)
+    “RECURSO ORDINÁRIO – CONVERSÃO – HABEAS CORPUS. Considerada a envergadura da ação, no que voltada à preservação da liberdade de ir e vir do cidadão, surge cabível receber, como habeas corpus, recurso ordinário inadmissível.
+    PRISÃO PREVENTIVA – FLAGRANTE – PERICULOSIDADE. Precedida a prisão preventiva de flagrante, tem-se sinalizada a periculosidade e viável a custódia provisória.
+    PRISÃO PREVENTIVA – REINCIDÊNCIA. Ante reincidência, viável é a custódia provisória.
+    PRISÃO PREVENTIVA – SUBSTITUIÇÃO – INTERNAÇÃO PROVISÓRIA – INVIABILDIADE. Não comprovada semi-imputabilidade ou inimputabilidade, inviável é a substituição de prisão preventiva por internação provisória.
+    (HC 168.578/CE, Ministro Marco Aurélio – com meus grifos)
+    Ademais, como bem explicitado pelo Superior Tribunal de Justiça, não procede o argumento de que a pena máxima imputada ao paciente é de apenas 4 anos, valendo transcrever o seguinte trecho do acórdão apontado como ato coator:
+    “Conquanto a defesa sustente que o delito imputado ao paciente prevê pena máxima de 4 anos de reclusão, a simples análise do tipo penal previsto no art. 311 do Código Penal – um dos ilícitos pelos quais o acusado foi preso em flagrante – permite verificar que é prevista a pena máxima de 6 anos de reclusão, de modo que está abarcado pela previsão do inciso I do art. 313 do CPP. Ademais, a menção à reincidência do agravante também atrai a incidência do inciso II do mesmo dispositivo legal.”
+    Finalmente, melhor sorte não socorre a parte impetrante no que toca à pretendida substituição da prisão preventiva imposta ao paciente por medidas cautelares diversas da prisão.
+    Em decorrência da circunstância de pandemia provocada pelo novo coronavírus (COVID-19), o Conselho Nacional de Justiça editou a Recomendação nº 62/2020 com o objetivo de reduzir os riscos de disseminação do vírus à população privada de liberdade.
+     No caso em espécie, não vislumbro demonstrada a situação de vulnerabilidade do paciente decorrente da crise sanitária provocada pelo novo coronavírus apta a merecer o alcance da Recomendação nº 62/2020 do Conselho Nacional de Justiça.
+    Nesse mesmo sentido se encontra consolidado o entendimento jurisprudencial desta Suprema Corte, conforme ilustram, em casos fronteiriços, os seguintes acórdãos: HC 188.716-AgR/SP, Ministro Celso de Mello; HC 189.421-ED/SP, Ministro Alexandre de Moraes; HC 189.752/SP, Ministro Marco Aurélio; HC 191.080-AgR/SP, Ministra Cármen Lúcia.
+    Em face do exposto, não conheço do presente pedido de habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 12 de março de 2021.
+Ministro NUNES MARQUES
+Relator
