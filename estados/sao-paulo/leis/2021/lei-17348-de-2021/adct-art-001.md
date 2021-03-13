@@ -1,0 +1,2 @@
+## DISPOSIÇÕES TRANSITÓRIAS
+Artigo 1º - Para o exercício de 2022, o critério previsto no inciso I do artigo 1º da Lei nº 3.201, de 23 de dezembro de 1981, modificado por esta lei, será de 75,5% (setenta e cinco vírgula cinco por cento), e os critérios previstos nos incisos VIII e IX do referido artigo 1º do mesmo diploma, incluídos por esta lei, serão de 0,25% (zero vírgula vinte e cinco por cento) cada um.
