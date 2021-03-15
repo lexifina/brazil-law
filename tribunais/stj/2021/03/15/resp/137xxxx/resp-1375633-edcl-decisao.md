@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Companhia Hidro Elétrica do São Francisco e outro à decisão monocrática proferida por este signatário, a qual conheceu do recurso especial para dar-lhe provimento a fim de majorar os honorários advocatícios, fixando-os em R$ 260.000,00 (duzentos e sessenta mil reais), conforme se verifica da seguinte ementa (e-STJ, fls. 1.115-1.120):
+RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO MONITÓRIA. EMBARGOS ACOLHIDOS. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO EM PATAMAR IRRISÓRIO, TOMANDO-SE POR BASE O VALOR DA CAUSA. NECESSIDADE DE MAJORAÇÃO. RECURSO ESPECIAL CONHECIDO E PROVIDO.
+Foi interposto agravo interno (e-STJ, fls. 1.123-1.133), no qual se alegou a ocorrência dereformatio in pejus, haja vista que o valor dos honorários fixados pela decisão monocrática seria inferior àquele determinado pelas instâncias ordinárias.
+Reconhecida a ofensa ao referido princípio, este signatário exerceu o juízo de retratação para fixar os honorários advocatícios em 1% sobre o valor da causa, estando a decisão assim ementada (e-STJ, fls. 1.152-1.154):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. HONORÁRIOS ADVOCATÍCIOS. REFORMATIO IN PEJUS. OCORRÊNCIA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. VALOR FIXADO PELO TRIBUNAL. IRRISORIEDADE. MAJORAÇÃO PARA 1% DO VALOR DA CAUSA. AGRAVO INTERNO CONHECIDO. DECISÃO RECONSIDERADA.
+Nas razões dos embargos de declaração (e-STJ, fls. 1.157-1.158), os embargantes alegam que não houve a determinação formal do valor da causa na inicial da ação monitória, de modo que o parâmetro para fixação dos honorários deve ser o proveito econômico buscado na demanda, estando obscura a decisão embargada.
+Impugnação às fls. 1.161-1.169 (e-STJ), com pedido de aplicação de multa.
+Brevemente relatado, decido.
+Com efeito, deve-se ressaltar que apenas são cabíveis os aclaratórios quando existir no julgado omissão, contradição ou obscuridade, nos termos do art. 1.022 do Código de Processo Civil de 2015, situação que, de fato, não se observa na espécie.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIAL EM FACE DE JUÍZO DO TRABALHO - AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO - REDISCUSSÃO DO JULGADO - EXECUÇÃO TRABALHISTA - DECLARAÇÃO DA COMPETÊNCIA DO JUÍZO UNIVERSAL - PRECEDENTES DO STJ.
+1. Os embargos de declaração, a teor das disposições do art. 1.022, do CPC/15 (art. 535, CPC/73), são inviáveis quando inexiste obscuridade, contradição ou omissão na decisão embargada.
+2. Ausência de omissão, contradição, obscuridade ou erro material doacórdão embargado. Recurso dotado de caráter manifestamente infringente. Inexistência de demonstração dos vícios apontados, objetivando à rediscussão da matéria, já repetidamente decida.
+ ..  4. Embargos de declaração rejeitados. (EDcl nos EDcl no AgRg no CC 122675/RJ, Rel. Min. Marco Buzzi, Segunda Seção, julgado em 14/06/2017, DJe 22/06/2017)
+Do reexame dos autos, vê-se que a decisão que exerceu o juízo de retratação (e-STJ, fls. 1.152-1.154) houve a expressa referência ao valor da causa, ou seja,R$ 25.729.532,73 (vinte e cinco milhões, setecentos e vinte e nove mil, quinhentos e trinta e dois reais e setenta e três centavos), pois, a despeito de não ter sido imputado formalmente um valor da causa, as instâncias ordinárias estabeleceram a referida quantia como o valor da causa, notadamente por ele se referir ao proveito econômico buscado na demanda.
+Portanto, não se vislumbra nenhum vício capaz de justificar a oposição dos presentes embargos, haja vista que o parâmetro para a fixação dos honorários está claramente determinado (R$ 25.729.532,73  vinte e cinco milhões, setecentos e vinte e nove mil, quinhentos e trinta e dois reais e setenta e três centavos , devidamente atualizado).
+Por fim, quanto à multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015, requerida pelos ora embargados, deve-se destacar que, no presente caso, não se verifica o nítido caráter protelatório dos aclaratórios que autorizaria a sua imposição, pelo que não se aplica a sanção.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. REINTEGRAÇÃO DE POSSE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO. EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DO ENUNCIADO N. 315 DA SÚMULA DO STJ. EMBARGOS LIMINARMENTE INDEFERIDOS. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL NO ACÓRDÃO. INEXISTÊNCIA DE OMISSÃO.
+(..) II - Não deve ser acolhido o requerimento para que seja imposta a multa prevista no § 2º do art. 1.026 do Código de Processo Civil de 2015, eis que o mero inconformismo com a decisão embargada não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório dos embargos de declaração.
+III - Embargos de declaração parcialmente acolhidos para suprir omissão no acórdão, sem efeitos modificativos. (EDcl no AgInt nos EAREsp 635.823/TO, Rel. Min. Francisco Falcão, Corte Especial, julgado em 21/02/2018, DJe 28/02/2018)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PRELIMINARES DE CONHECIMENTODO RECURSO. INEXISTÊNCIA DE VÍCIO. PRETENSÃO DE REJULGAMENTO DA QUESTÃO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
