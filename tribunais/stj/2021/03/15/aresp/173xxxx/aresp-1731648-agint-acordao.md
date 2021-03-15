@@ -1,0 +1,48 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PRESCRIÇÃO. TESE DEVIDAMENTE PREQUESTIONADA. ATO DE APOSENTADORIA. PEDIDO DE REVISÃO. TERMO INICIAL. DATA DA CONCESSÃO DA APOSENTADORIA.
+1. O tema relativo ao prazo prescricional foi devidamente prequestionado, ainda que de forma implícita, o que é admitido pela jurisprudência desta Corte, não havendo falar no não conhecimento do recurso por falta de prequestionamento.
+2. O STJ firmou o entendimento de que o termo inicial do prazo de prescrição para o aposentado postular a revisão da aposentadoria é a data da inatividade, isto é, a data da concessão do benefício pela Administração, e não a data do registro do ato concessivo da aposentadoria pelo TCU.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão (fls. 748-752, e-STJ) que deu provimento ao Recurso Especial da União para fixar a data da aposentadoria como termo inicial do prazo prescricional.
+O agravante sustenta, em suma:
+Verifica-se que na decisão ora agravada, ao analisar o recurso especial da União, o E. Relator partiu direto para a análise do mérito, sem se atinar para o importante fato - amplamente aduzido pelo Sindicato em suas contrarrazões ao recurso especial da União - de que a matéria recorrida não está prequestionada, uma vez que a prescrição do fundo de direito e a prescrição bienal não foram objeto de análise pelo E. TRF4, mas sim e tão somente a prescrição simples e a decadência administrativa, que são matérias distintas.
+(..)
+Portanto, não obstante a pretensão da União tenha sido pelo reconhecimento da prescrição bienal e do fundo de direito, com fixação do seu termo inicial na data da publicação do ato de concessão da aposentadoria/pensão, fato é que tal matéria não foi objeto de análise pelo E. TRF4, que tratou somente da prescrição simples (diante das previsões do art. 1º do Decreto 20.910/1932 e Súmula 85/STJ) e da decadência administrativa do art. 54 da Lei 9.784/99.
+Ora, a configuração jurídica do prequestionamento, que traduz elemento indispensável ao conhecimento do recurso, decorre da oportuna formulação, em momento procedimental adequado, das questões que se pretende ver reexaminadas. Mais do que a satisfação dessa exigência, impõe-se que a matéria questionada tenha sido explicitamente ventilada na decisão recorrida. Assim, sem o cumulativo atendimento desses pressupostos, não se viabiliza o acesso à via recursal extraordinária (fls. 759-760,e-STJ).
+Argumenta ainda que, "ao analisar o recurso da União e lhe dar provimento, o E. Relator olvidou de apreciar a prescrição bienal, sendo necessária específica manifestação quanto ao ponto, inclusive para, diante dela, dizer se o total provimento do recurso especial da União se mantém, ou se seria caso de mero parcial provimento, com a negativa do pedido recursal quanto à prescrição bienal, ante a pacificada jurisprudência desta E. Corte quanto à questão." (fl. 762, e-STJ).
+Ao final, pleiteia:
+(..) o provimento do presente agravo interno com a reconsideração da r. decisão agravada, para que seja aplicada por este E. Relator a Súmula 211/STJ ao recurso especial da União, negando-lhe conhecimento. Subsidiariamente, requer o suprimento da omissão quanto à prescrição bienal alegada pela União, dando-se ao final apenas parcial provimento ao recurso especial da ora Agravada.
+Subsidiariamente, requer-se a apresentação deste recurso à mesa para julgamento pelo órgão colegiado competente, ao qual pede o provimento do presente agravo interno, com a reforma da r. decisão ora agravada, a fim de que seja negado conhecimento ao recurso especial da União, ou, se conhecido, que lhe seja negado provimento quanto à prescrição bienal (fl. 762, e-STJ).
+Houve impugnação às fls. 778-784, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PRESCRIÇÃO. TESE DEVIDAMENTE PREQUESTIONADA. ATO DE APOSENTADORIA. PEDIDO DE REVISÃO. TERMO INICIAL. DATA DA CONCESSÃO DA APOSENTADORIA.
+1. O tema relativo ao prazo prescricional foi devidamente prequestionado, ainda que de forma implícita, o que é admitido pela jurisprudência desta Corte, não havendo falar no não conhecimento do recurso por falta de prequestionamento.
+2. O STJ firmou o entendimento de que o termo inicial do prazo de prescrição para o aposentado postular a revisão da aposentadoria é a data da inatividade, isto é, a data da concessão do benefício pela Administração, e não a data do registro do ato concessivo da aposentadoria pelo TCU.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 15 de dezembro de 2020.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Ao contrário do que sustenta o agravante, esclareço que o tema relativo ao prazo prescricional foi devidamente prequestionado, ainda que de forma implícita, o que é admitido pela jurisprudência desta Corte, não havendo falar no não conhecimento do recurso por falta de prequestionamento.
+Desse modo, conforme assentado na decisão monocrática, o STJ firmou o entendimento de que o termo inicial do prazo de prescrição para o aposentado postular a revisão da aposentadoria é a data da inatividade, isto é, a data da concessão do benefício pela Administração, e não a data do registro do ato concessivo da aposentadoria pelo TCU.
+Nessa linha:
+ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. DISTRITO FEDERAL. APOSENTADORIA DE SERVIDOR PÚBLICO. PEDIDO DE REVISÃO. PRESCRIÇÃO. TERMO INICIAL. DATA DA CONCESSÃO DA APOSENTADORIA. ENTENDIMENTO ATUAL E DOMINANTE FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I. Agravo Regimental aviado contra decisão que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Trata-se de Ação Ordinária, proposta por Ana Cunha Souza, em 03/10/2013, contra o Distrito Federal, objetivando a revisão de seus proventos de aposentadoria, concedida em 23/06/2000 e homologada pelo TCU em 21/06/2012, para que sejam pagos "com base na tabela remuneratória de 40 horas semanais, com todos os reflexos daí decorrentes, especialmente sobre a GDAT, o GDU, os anuênios e sobre a vantagem pessoal do art. 11, §3º, da Lei 804/94".
+III. O entendimento atual e dominante do Superior Tribunal de Justiça orienta-se no sentido de que o termo inicial do prazo prescricional, para revisão do ato de aposentadoria de servidor público, visando a concessão de vantagens que lhe seriam devidas, é a data da concessão da aposentadoria ao servidor público.
+Precedentes: STJ, AgInt no REsp 1.670.643/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 03/05/2019; REsp 1.730.407/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 04/02/2019; AgInt no AREsp 850.490/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 05/03/2018; AgInt no AgInt no REsp 1.645.143/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 27/06/2018; AgInt no REsp 1.639.534/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 16/05/2017; AgRg no AREsp 818.623/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/02/2016; EAg 1.172.802/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 05/10/2015; REsp 1.254.456/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado sob a sistemática do art. 543-C do CPC/73, DJe de 02/05/2012.
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1543134/DF, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 11/06/2019, DJe 18/06/2019).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ATO DE APOSENTADORIA. REVISÃO. INCORPORAÇÃO DE QUINTOS. PRESCRIÇÃO DE FUNDO DE DIREITO. OCORRÊNCIA. AGRAVO INTERNO DA SERVIDORA A QUE SE NEGA PROVIMENTO.
+1. O prazo prescricional para revisão do ato de aposentadoria, com a incorporação de quintos, tem como termo inicial a data de concessão do benefício.
+2. Desse modo, transcorridos mais de cinco anos entre a inativação do Servidor e o ajuizamento da ação que pretende a alteração desse ato, torna-se imperioso o reconhecimento da prescrição do chamado fundo de direito (AgRg no REsp. 1.112.291/PE, Rel. Min. JORGE MUSSI, DJe 8.10.2012).
+3. Agravo Interno da Servidora a que se nega provimento.
+(AgInt no AREsp 935.726/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/10/2020, DJe 08/10/2020).
+No mais, cumpre esclarecer que dei provimento ao Recurso Especial da União tão somente para fixar a data da aposentadoria como termo inicial do prazo prescricional. Quanto à tese da prescrição bienal, do recurso nem sequer conheci.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
