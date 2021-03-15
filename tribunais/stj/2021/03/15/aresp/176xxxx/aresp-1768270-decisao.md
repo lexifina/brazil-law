@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porITAÚ SEGUROS S/A,contra decisão que negou seguimento a recurso especial fundamentadona(s) alínea(s) "a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/02/2020.
+Concluso ao gabinete em: 26/02/2021.
+Ação:cobrança de seguro de vida em grupo, ajuizada por SANDRO APARECIDO DOS SANTOS, em face da agravante, em razão deinvalidez parcial permanente decorrente de acidente.
+Decisão interlocutória:afastou a preliminar de prescrição e inverteu o ônus probatório.
+Acórdão:deu parcial provimento ao agravo de instrumento interposto pelo agravante, para afastar a inversão do ônus da prova, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA DE SEGURO. PRESCRIÇÃO ÂNUA. TERMO INICIAL. LAUDO MÉDICO. DATA DA CIÊNCIA INEQUÍVOCA DA INVALIDEZ. PEDIDO ADMINISTRATIVO QUE SUSPENDE O PRAZO DA PRESCRIÇÃO ATÉ A DATA DA NEGATIVA.SÚMULA 229 STJ. INOCORRÊNCIA DA PRESCRIÇÃO.INVERSÃO DO ÔNUS DA PROVA. IMPOSSIBILIDADE.PONTOS CONTROVERTIDOS QUE DEPENDEM EXCLUSIVAMENTE DE PROVA A SER PRODUZIDA PELO AUTOR. INEXISTÊNCIA DE DIFICULDADE NA PRODUÇÃO DA PROVA. PERÍCIA MÉDICA QUE EXIGE A PRESENÇA DO AUTOR. PROVA PERICIAL QUE NÃO REVESTE QUALQUER DIFICULDADE PARA A PARTE.INVERSÃO AFASTADA. DECISÃO REFORMADA NESTE PONTO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Embargos de Declaração: opostos pelo agravante, foram acolhidos, sem efeitos infringentes, apenas para sanar omissões referentes ao laudo pericial utilizado pelo agravado e à perícia realizada nos autos da ação promovida em face do INSS.
+Recurso especial: alega violação dos arts. 9º, 10, 141, 374, II e III, 389 e 492 do CPC/15 e 206, §1º, II, "b", do CC/02, bem como dissídio jurisprudencial. Sustenta que: i) não é correto considerar o prazo prescricional apenas a partir de laudo pericial produzido de forma unilateral a qualquer momento pelo agravado, sob pena de tornar a ação imprescritível; ii) a questão dos laudos serem ou não conclusivos quanto à invalidez não impede a análise da prescrição, pois o agravado se considera inválido, tanto que interpôs ação judicial perante o Juizado Especial Cível;iii) seja da data em que o agravado tomou conhecimento de sua doençadegenerativa (02/11/2012) ou seja da ocorrência do acidente (29/08/2014), só requereu o pagamento da indenização securitária com a interposição da ação perante o 1º Juizado Especial Cível da Comarca de São José dos Pinhais (anterior à presente ação) em 18/07/2016,decorrendo o prazo prescricional de 1 ano para aquela ação; iv) do trânsito em julgado da ação judicial anteriormente proposta, ocorrido em 30/11/2016, até a distribuição da presente ação, se verifica a ocorrência da prescrição ânua; v) o aviso de sinistro formulado pelo agravado, após o trânsito em julgado da sentença que julgou extinto o processo por inadmissibilidade de procedimento sumaríssimo, não tem o condão de interromper novamente o prazo prescricional, porquanto já tinha sido interrompido pelo trânsito em julgado da ação anterior.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou os arts.9º, 10, 141, 374, II e III, 389 e 492 do CPC/15do CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere aomomento da ciência inequívoca do agravado acerca de sua incapacidade, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/2015, e 255, § 1º, do RISTJ.
+- Da Súmula 568/STJ
+O TJ/PR, ao entender pela ausência de prescrição, aplicou corretamente a jurisprudência do STJ no sentido de que a ação do segurado em grupo contra a seguradora prescreve em 1 ano, contado a partir da data em que tiver conhecimento inequívoco de sua incapacidade laboral, que, em regra, dá-se com o laudo médico ou com a concessão de aposentadoria por invalidez pelo INSS (AgInt nos EDcl no AREsp 362.427/MG, 4ª Turma, DJe de 16/11/2020;AgInt no AREsp 1.459.697/ES, 4ª Turma, DJe de 28/5/2020; AgInt no REsp 1.684.884/PR, 3ª Turma, DJe de 31/8/2018; e AgInt no AREsp 1.688.326/SC, 3ª Turma, DJe de 12/2/2021).
+Logo, o recurso especial não merece provimento, nos termos da Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA EM GRUPO. INVALIDEZ PARCIAL PERMANENTE EM RAZÃO DE ACIDENTE. DECISÃO QUE AFASTOU A PRELIMINAR DE PRESCRIÇÃO E INVERTEU O ÔNUS PROBATÓRIO.FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. PRESCRIÇÃO ÂNUA. TERMO INICIAL. CIÊNCIA INEQUÍVOCA DA INCAPACIDADE LABORATIVA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de cobrança de seguro de vida em grupoem razão de invalidez parcial permanente decorrente de acidente, no bojo da qual foi proferida decisão afastando a preliminar de prescrição e invertendo o ônus probatório.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Aação do segurado em grupo contra a seguradora prescreve em 1 ano, contado a partir da data em que tiver conhecimento inequívoco de sua incapacidade laboral, que, em regra, dá-se com o laudo médico ou com a concessão de aposentadoria por invalidez pelo INSS. Precedentes.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
