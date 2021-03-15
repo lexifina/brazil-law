@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL COM REPARAÇÃO DE DANOS. DISTRIBUIÇÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INAPLICABILIDADE DO ART. 1.025 DO CPC/2015. APROPRIAÇÃO DE VALORES PELO ADVOGADO. DEVER DE RESTITUIR. NOVAÇÃO DA DÍVIDA NÃO CONFIGURADA. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não houve pronunciamento do Tribunal de origem sobre os arts. 373, I eII, do CPC/2015, o que revela a falta de prequestionamento dotemasuscitado, atraindo a incidência das Súmulas 282 e 356/STF.
+2. Consoante entendimento deste Tribunal Superior, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+3. O Tribunal de origem consignou não haver configurada a novação da dívida. Infirmar tal conclusão demandaria o revolvimento do conjunto fático-probatório dos autos. Súmula 7/STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MS Consultoria e Cobrança Ltda. e Marcelo Moreira dos Santos contra a decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial.
+O apelo especial foi deduzido com fundamento na alínea a do permissivo constitucional, com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 285):
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL COM REPARAÇÃO DE DANOS MATERIAIS E MORAIS. APROPRIAÇÃO PELO ADVOGADO DOS VALORES RECEBIDOS EM NOME DO CLIENTE. DEVER DE RESTITUIR. NOVAÇÃO DA DÍVIDA NÃO CONFIGURADA. HONORÁRIOS ADVOCATÍCIOS. SUCUMBÊNCIA RECÍPROCA E NÃO PROPORCIONAL.REDISTRIBUIÇÃO DAS VERBAS SUCUMBENCIAIS. SENTENÇA PARCIALMENTE REFORMADA.
+1. Não configura novação o recebimento pelo cliente de cheques emitidos pelo advogado para ressarcir os valores que indevidamente se apropriou no processo.
+2. Se cada litigante for, em parte, vencedor e vencido, serão proporcionalmente distribuídas entre eles as despesas (artigo 86, caput, do Código de Processo Civil). Ocorrendo sucumbência recíproca não proporcional, as verbas decorrentes da sucumbência serem redistribuídas entre as partes.
+3. Apelação conhecida e parcialmente provida. Preliminar rejeitada. Unânime.
+Nas razões do recurso especial (e-STJ, fls. 294-305), os ora agravantes sustentaram, em síntese, que o Tribunal de origem, ao chancelar a distribuição incorreta do ônus da prova e ao rechaçar o instituto da novação, violou os arts. 373, I e II, e 561 do CPC/2015 e 360, I, do CC/2002. Asseveram, assim, diante da farta documentação produzida nos autos, que ficou comprovada a caracterização da novação, não sendo a ausência de novo contrato (atestando a negociação entre as partes)causa apta a afastar o ânimo de novar.
+Em face do juízo prévio negativo de admissibilidade do recurso especial, os ora insurgentes interpuseram agravo, do qual a Presidência desta Corte conheceu para não conhecer do recurso especial sob o fundamento da incidência das Súmulas 282/STF, 356/STF e 7/STJ (e-STJ, fls. 339-342).
+No presente agravo interno (e-STJ, fl. 345-352), argumentam que o art. 373 do CPC/2015, relativo ao ônus probatório, ficou devidamente prequestionado, ainda que de forma implícita, autorizando o exame da matéria por esta Corte. Por fim, rechaçam a aplicação da Súmula 7/STJ, por entenderem que os temas objetos de debate ventilam questão estritamente de direito.
+Assim, postulam a reforma da decisão para que seja provido o recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL COM REPARAÇÃO DE DANOS. DISTRIBUIÇÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INAPLICABILIDADE DO ART. 1.025 DO CPC/2015. APROPRIAÇÃO DE VALORES PELO ADVOGADO. DEVER DE RESTITUIR. NOVAÇÃO DA DÍVIDA NÃO CONFIGURADA. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não houve pronunciamento do Tribunal de origem sobre os arts. 373, I eII, do CPC/2015, o que revela a falta de prequestionamento dotemasuscitado, atraindo a incidência das Súmulas 282 e 356/STF.
+2. Consoante entendimento deste Tribunal Superior, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+3. O Tribunal de origem consignou não haver configurada a novação da dívida. Infirmar tal conclusão demandaria o revolvimento do conjunto fático-probatório dos autos. Súmula 7/STJ.
+4. Agravo interno desprovido.
+VOTO
+Reexaminando os autos, não se verificam razões para o provimento deste agravo interno.
+Destarte, a questão sobre a correta distribuição do ônus probatório (art. 373, I e II, do CPC/2015) não foi objeto de apreciação no julgado da segunda instância.
+Consoante entendimento deste Tribunal Superior, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe de 10/4/2017).
+Entretanto, no caso em testilha, a parte nem sequer opôs embargos de declaração a fim de suscitar sua discussão. Nesse contexto, é de rigor a aplicação das Súmulas 282 e 356/STF.
+Relativamente à aplicação e reconhecimento do instituto da novação, o TJDFT fundamentou a decisão nos seguintes termos (e-STJ, fls. 289-290):
+Dispõe o artigo 360, inciso I, do Código Civil que a novação ocorre "quando o devedor contrai com o credor nova dívida para extinguir e substituir a anterior".
+No caso, não houve a intenção de o Apelado (autor) novar dívida já existente.
+As partes firmaram o contrato de prestação de serviços advocatícios, na data 14 de fevereiro de 2012, ficando o primeiro Apelante (réu) obrigado a atuar em nome do Apelado (autor).
+Os documentos colacionados aos autos comprovam que o primeiro Apelante levantou R$ 9.085,61 (nove mil, oitenta e cinco reais e sessenta e um centavos) na data 9.8.2011; R$ 22.449,52 (vinte e dois mil, quatrocentos e quarenta e nove reais e cinquenta e dois centavos) na data 19.5.2011, e R$ 9.228,99 (nove mil, duzentos e vinte e oito reais e noventa e nove centavos) na data 9.5.2013, no total de R$ 40.764,12 (quarenta mil, setecentos e sessenta e quatros reais e doze centavos).
+Sucede que o primeiro Apelante se apossou da integralidade das importâncias sem prestar qualquer esclarecimento ao Apelado.
+O Apelado, em razão do não recebimento dos valores que lhe cabia, aceitou 25 (vinte e cinco) cártulas de cheque da empresa MS Consultoria e Cobrança Ltda. em substituição, no valor de R$ 2.037,00 (dois mil e trinta e sete reais) cada, no total de R$ 8.148,00 (oito mil, cento e quarenta e oito reais).
+Essa negociação, contudo, não configura novação de dívida, pois o Apelado buscou apenas ser ressarcido dos prejuízos sofridos. Não se pode afirmar que existia dívida anterior, mas sim a obrigação de o primeiro Apelante (réus) entregar ao Apelado (autor) os valores depositados em juízo.
+Ademais, somente 4 (quatro) dos 27 (vinte e sete) cheques entregues ao Apelado foram comprovadamente compensados, tornando-se a negociação realizada sem valor de quitação das importâncias que os Apelantes deviam lhe entregar.
+Da análise dos fundamentos do recurso e seu cotejo com as razões do acórdão recorrido, percebe-se que os insurgentes buscam emprestar entendimento diverso, para o tema, daquele que foi adotado pelo Tribunal de origem a partir da análise do conjunto probatório posto à sua disposição.
+Assim sendo, infirmar o entendimento alcançado pelo acórdão recorrido, com base nos elementos de convicção juntados aos autos, fazendo prevalecer a configuração de novação da dívida existente, tal como pretendem os recorrentes, esbarraria no enunciado n. 7 da Súmula desta Corte.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
