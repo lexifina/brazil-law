@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porCOMERCIO DE ALIMENTOS A.S EIRELI,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, naalínea"a" do permissivo constitucional.
+Agravo em recurso especial interposto em:17/09/2020.
+Concluso ao gabinete em: 09/03/2021.
+Ação:monitória ajuizada pelo agravado, em face do agravante, sob o fundamento de que possui como objeto social o comércio atacadista e varejista de frutas. Sustenta que forneceu diversos itens que, todavia, não foram pagos, não obstante diversas tentativas extrajudiciais.
+Sentença:acolheu em parteos embargos monitórios apresentados pelo agravante, com o fim de descontar o valor de R$57,56 (cinquenta e sete reais e cinquenta e seis centavos) do montante devido, e declarou constituído "de pleno direito o título judicial", em favor do agravado, no valor de R$58.136,68 (cinquenta e oito mil cento e trinta e seis reais e sessenta e oito centavos).
+Acórdão:negou provimento à apelação do agravante, sob o fundamento de que: i) não há falar em nulidade da sentença por ausência de fundamentação, isso porque o juízo sentenciante fundamentou adequadamente sua decisão e externou os motivos pelos quais decidiu não acolher integralmente os embargos monitórios; eii) no que diz respeito à alegada emissão irregular dos títulos, não há falar em aplicação do §2º do art. 2º da Lei das Duplicatas, tendo em vista que se trata, o presente, de procedimento monitório, ou seja, os documentos que instruem a inicial são hábeis aos fins pretendidos.
+Embargos de Declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489 e 1.022, do CPC/2015; e 2º, da Lei 5.474/68. Além de negativa de prestação jurisdicional, sustenta a irregularidade na emissão dos títulos que instruem a ação monitória.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+O Agravante sustenta, em suas razões, que o Tribunal de origem deixou de manifestar-se acerca de artigos expressos de lei aplicáveis à espécie, bem como no que diz respeito à alegada nulidade da sentença, em razão da deficiência de fundamentação, além da nulidade da ação, por irregularidades com relação aos títulos objeto da cobrança.
+Contudo, como se depreende dos presentes autos, o Tribunal de origem fundamentou seu acórdão de maneira a afastar qualquer alegação de omissão, tendo, inclusive, decidido, fundamentada e expressamente acerca das alegadas omissões, senão vejamos: i) no que diz respeito à alegadaomissão acerca de artigos expressos de lei aplicáveis à espécie (art. 2º, da Lei das Duplicatas), o Tribunal de origem foi imperativo ao afastar sua aplicação sob o fundamento de que: "Todavia, os efeitos da referida norma tem incidência nas ações de execução de título cambial, uma vez que a emissão de duplicata correspondente a mais de uma nota fiscal retira a certeza do título. Todavia, tratando-se o presente feito de procedimento monitório, os documentos que instruem a inicial são hábeis aos fins pretendidos" (e-STJ Fl. 260); ii) em relação à ausência de fundamentação da sentença, também não há omissão, haja vista o Tribunal ter sido expresso ao entender que: " .. o juízo sentenciante fundamentou adequadamente sua decisão e externou os motivos pelos quais decidiu não acolher integralmente os embargos monitórios." (e-STJ Fl. 259); e iii) por último, em relação a irregularidade dos títulos, ficou expresso no acórdão que: " ..  "é possível observar que a importância cobrada está devidamente representada pela documentação acostada", observado que "em todas as notas acostadas aos autos foram carimbados os recebimentos de mercadoria, de forma, que restou perfeitamente demonstrado o direito pleiteado pelo Autor .. " (e-STJ Fl. 261). Por isso, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento.
+Dessa forma, éfirme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da violação doart. 489do CPC/2015
+Como se extrai do presente, as questões de mérito foram devidamente analisadas e discutidas, tendo o Tribunal de origem fundamentado suficientemente oacórdão recorrido, de modo que não há falar em carência de fundamentação.
+Com isso, esgotadaa prestação jurisdicional, não há quese falar em violação doart. 489 do CPC/2015.
+- Da fundamentação deficiente
+O agravante, em suas razões, não demonstroucomo o acórdão recorrido violou o art. 2º, §2º, da Lei 5.474/68, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da existência de fundamento não impugnado
+O agravante não impugnou o fundamento utilizado pelo TJ/SC, no sentido de que: " ..  O Superior Tribunal de Justiça considera prova escrita hábil à instrução da ação monitória todo documento que sinalize o direito à cobrança e suficiente a convencer o juiz da pertinência da dívida, independente do modelo pré-definido" (e-STJ Fl. 260), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+O Tribunal de origem firmou entendimento com base no acervo fático-probatório no sentido de que: "Na hipótese, como bem consignado pelo magistrado a quo, "é possível observar que a importância cobrada está devidamente representada pela documentação acostada", observado que "em todas as notas acostadas aos autos foram carimbados os recebimentos de mercadoria, de forma, que restou perfeitamente demonstrado o direito pleiteado pelo Autor." (e-STJ Fl. 261), razão pela qual, alterar o decidido no acórdão impugnado,exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite máximo previsto no art. 85, § 2º, do CPC/2015.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.VIOLAÇÃO DOART. 489 DO CPC/2015. INOCORRÊNCIA.FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação monitória.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação doart. 489 do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
