@@ -1,0 +1,26 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1000500-37.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto pela seguradora PORTO SEGURO COMPANHIA DE SEGUROS GERAIS em virtude da decisão proferida pelo Juiz da 10.a Vara Cível da Comarca da Capital que, nos autos de Ação Sumária de Cobrança de Seguro DPVAT n.o 0034905-13.2009.8.11.0041 – Cód. 11142763, movida por AUXILIADORA GABRIEL DA CRUZ, determinou a intimação da Agravante para que efetuasse o pagamento do valor apurado em sede de liquidação de sentença, em razão da invalidez da Agravada.
+Em suas razões recursais, a Seguradora Recorrente alega que o Juiz a quo laborou em erro ao fixar o quantum debeatur em R$ 3.375,00 (três mil, trezentos e setenta e cinco reais), utilizando por base o teto legal de R$ 13.500,00 (treze mil e quinhentos reais), instituído pela MP 340 de 28 de dezembro de 2006.
+Afirma que a base de cálculo correta a ser aplicada neste caso é aquela disposta da Tabela de Danos Pessoais da Lei 6.194/74, eis que o sinistro ocorreu em 17/03/2006. Assim, “o salário a ser utilizado como parâmetro deve ser aquele vigente à época do sinistro, fazendo incidir correção monetária desde então e juros da citação.”
+Segue argumentando que ‘não há possibilidade de ser invocada Lei nova a fatos pretéritos, sendo totalmente infundado o pagamento da condenação com base R$ 13.500,00, motivos pelos quais pugna, em caso de eventual condenação, que seja utilizado como parâmetro o salário-mínimo vigente a época do evento danoso.”
+Por derradeiro, afirma que “não restam dúvidas que o salário-mínimo base para fixação do quantum indenizatório é a quantia de R$ 3.000,00, eis que utilizado como parâmetro o salário-mínimo vigente em 2006 (ano do sinistro).”
+Forte em tais argumentos, requer seja agregado efeito suspensivo ao recurso. No mérito, pugna pelo provimento do Instrumental para reconhecer a aplicabilidade da Lei 6.194/74 como base de cálculo à indenização objeto dos autos, cujo valor perfaz R$ 3.000,00 (três mil reais).
+Eis o relato essencial. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se encaixa na exceção prevista no parágrafo único artigo 1.015, inciso I, do CPC, bem como festá instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o do CPC.
+Como é cediço, o artigo 1.019 inciso I, do Código de Processo Civil, preconiza que o Relator poderá conceder efeito suspensivo ao Agravo de Instrumento, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Ademais, o parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.”
+Nesse contexto, é vedado nos estreitos limites deste Instrumental o exame de questões de fundo do direito discutido, sendo necessário, portanto, aferir se estão, ou não, presentes os pressupostos necessários para o deferimento da aludida medida. Isso porque, o Agravante busca sobrestar os efeitos da decisão objurgada até o julgamento definitivo do recurso.
+Da análise dos autos, nesta fase de cognição sumária, é possível entrever com a clareza necessária a confluência desses pressupostos para a concessão da medida in limine.
+Com efeito, observo que a controvérsia cinge-se no acerto ou desacerto do Juiz a quo ao determinar a intimação da Seguradora Agravante para efetuar o pagamento do débito objeto dos autos, no valor de R$ 3.375,00 (três mil, trezentos e setenta e cinco reais), com base nos parâmetros da M.P. 340 de 28 de dezembro de 2006.
+Neste ponto, é possível observar que, ao menos prima facie, a base de cálculo utilizada não é a aplicável ao caso concreto, pois o sinistro em que se envolveu o Agravado ocorreu em 17/03/2006, data em que vigorava a Lei 6.714/74, cujos parâmetros para fixação da indenização do seguro DPVAT, eram de acordo com a Tabela de Danos Pessoais, nos termos do art. 3.o, alínea “b” do referido dispositivo legal, in verbis;
+Art. 3.o Os danos pessoais cobertos pelo seguro estabelecido no artigo 2o compreendem as indenizações por morte, invalidez permanente e despesas de assistência médica e suplementares, nos valores que se seguem, por pessoa vitimada (...)
+b) - Até 40 (quarenta) vezes o valor do maior salário mínimo vigente no País - no caso de invalidez permanente;
+Neste contexto, pelo menos nesta fase de cognição preambular, vislumbro a plausibilidade do direito invocado pela Recorrente, bem como o periculum in mora, eis que o Magistrado singular delimitou à Seguradora Agravante o prazo de 05 (cinco) dias para efetuar o pagamento do débito, como se vê do ID. 72768967.
+Por tais considerações, defiro o pedido de efeito suspensivo.
+Comunique-se ao Juiz da causa.
+Intime-se a Agravada para, querendo, apresentar contrarrazões no prazo legal, nos termos do art. 1.019, II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 14 de março de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
