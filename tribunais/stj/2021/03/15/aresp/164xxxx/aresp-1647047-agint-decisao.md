@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interno interposto por OI S.A. (parte ré/executada) contra decisão da Presidência do Superior Tribunal de Justiça (STJ).
+Conforme o teor da decisão ora agravada, o agravo em recurso especial interposto por OI S.A. deixou de ser conhecido em virtude da ausência de impugnação específica dos fundamentos adotados pela Corte de origem para não admitir o recurso especial.
+No presente agravo interno, explica-se que o agravo em recurso especial impugnou todos os fundamentos da decisão lavrada pela Corte de origem, notadamente a incidência daSúmula83 do STJ.
+A argumentação da parte ora agravante procede. Verifico, com efeito, que o agravo em recurso especial atacou satisfatoriamente os fundamentos da decisão que não admitiu o recurso especial. Existe, nas razões de tal agravo, tópico específico contendo argumentos em desfavor da aplicação doóbicesumularque, segundo a decisão ora agravada, não teriasido impugnado. Em vista disso, entendo pertinente a reconsideração da decisão ora agravada.
+Promovo, assim, o exame do recurso especial, o qual foi interposto em face de acórdão assim ementado:
+Agravo por instrumento. Ação de adimplemento contratual. Cumprimento de sentença. Decisum impugnado que determina a exibição do contrato de participação financeira e da sua respectiva radiografia, sob pena de serem considerados corretos os cálculos apresentados pela parte exequente (art. 524, § 5º, do novo Código de Processo Civil). Insurgência da empresa de telefonia.Alegação de que o relatório de informações cadastrais contém as informações necessárias ao cálculo. Ajuste firmado na modalidade "Plano de Expansão - PEX". Valor integralizado pelo contratante que, a depender da norma vigente à época da pactuação, nem sempre era revertido em ações, uma vez que dependia da norma vigente à época da pactuação. Avença, in casu, pactuada após a vigência da Portaria 86/91. Dados constantes no "relatório de informações cadastrais" acostado aos autos insuficientes à elaboração do cálculo. Apresentação da avença, portanto, necessária. Relatório de informações cadastrais que informa praticamente os mesmos dados da radiografia (peças, portanto, que se mostram equivalentes). Desnecessidade, assim, da exibição da radiografia. Reforma do decisum nesse ponto.Recurso conhecido e provido em parte.
+Em seu recurso especial, OI S.A.alega que o acórdão recorrido contrariou oartigo 524 do Código de Processo Civil (CPC) de 2015e oartigo 100 da Lei 6.404/1976.
+Aponta divergência jurisprudencial.
+Sustenta que a radiografia do contrato de participação financeira contém as informações suficientes para a elaboração do cálculo do valor devido.
+Argumenta que não se pode reputar correto o cálculo elaborado pela parte credora, pois não houve recusa injustificada ou ilegítima ao cumprimento da ordem judicial de exibição documental.
+Primeiramente, observo que o acórdão recorrido não se manifestou a respeito da possibilidade de ser reputado correto o cálculo apresentado pela parte exequente, sendo que não foram opostos embargos de declaração para indicar a existência de omissão. Assim, sem o prequestionamento, exigido inclusive para as questões de ordem pública, entendo inviabilizado o conhecimento do recurso especial, no ponto. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+Prosseguindo, anoto que, ao modo de entender do Tribunal de origem, " ..  a radiografia/relatório de informações cadastrais, em regra, não apresenta  .. " informações imprescindíveis " ..  para a exata aferição do montante devido  .. ". A Corte estadual concluiu, assim, que a exibição do contrato se faz necessária.
+Nesse quadro, penso que investigar o acerto da conclusão do acórdão recorrido é questão cujo julgamento envolve reexame de matéria fática, a tanto não servindo o recurso especial.Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS. SÚMULA Nº 7/STJ.
+1. Na hipótese, a reapreciação da conclusão do aresto impugnado, no sentido de que a radiografia do contrato não contém todos os dados necessários ao deslinde da questão, encontra óbice na Súmula nº 7 do Superior Tribunal de Justiça, por ambas as alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 998.162/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/04/2017, DJe 07/04/2017)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. AQUISIÇÃO DE LINHA TELEFÔNICA. CUMPRIMENTO DE SENTENÇA. RADIOGRAFIA DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUFICIÊNCIA. SÚMULAS 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+1. O recurso especial discute a suficiência da radiografia do contrato de participação financeira para elaboração do cálculo do valor devido. O julgamento dessa questão demanda interpretação de cláusulas contratuais e reexame de matéria fática. Incidem as Súmulas 5 e 7 do Superior Tribunal de Justiça (STJ). Precedentes.
+ ..
+3. Agravo interno a que se nega provimento
+(AgInt no AREsp 856.199/SC, de minha relatoria, Quarta Turma, julgado em 6/9/2016, DJe 15/9/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. SUBSCRIÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. CÁLCULO DE PERITO HOMOLOGADO. BASE DE CÁLCULO. CONTRATO. REVISÃO. SÚMULA 7/STJ.
+1. O acórdão do Tribunal de origem consignou que os cálculos dos valores devidos observaram o contrato firmado entre as partes. Dessa forma, a análise da alegação de que no cálculo pericial não fora utilizado valor de radiografia de contrato que supostamente teria amparado a sentença demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial (Súmula 7/STJ).
+2. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 414.433/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2013, DJe 26/11/2013)
+Incide a Súmula 7 do Superior Tribunal de Justiça (STJ).
+Em face do exposto, reconsidero a decisão ora agravada e nego provimento ao agravo em recurso especial.
+Intimem-se.
