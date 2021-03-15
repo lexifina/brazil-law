@@ -1,0 +1,30 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFASTAMENTO PELO TRIBUNAL DE ORIGEM DOS MAUS ANTECEDENTES ANTE O DECURSO DE LONGO PERÍODO. POSSIBILIDADE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Sexta Turma, é possível, constatado grande período de tempo ou pequena gravidade do fato prévio, mitigar os efeitos das sentenças condenatórias anteriores, para o fim de reconhecimento de maus antecedentes. Precedentes.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão que negou provimento ao recurso especial.
+Sustenta que as condenações anteriores do ora recorrido foram pela prática de 2 (dois) crimes de roubo, todos com emprego de arma e concurso de agente (e-STJ fls. 52/53), o que não representam delitos de pequena gravidade. Do mesmo modo, não houve decurso de grande período de tempo entre a data da extinção da punibilidade das condenações anteriores e a prática do delito apurado nestes autos.
+Defende a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma.
+Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi proferida nos seguintes termos:
+O Tribunal de origem não reconheceu os maus antecedentes do recorrido, sob os seguintes fundamentos (fl. 250):
+Quanto ao recurso ministerial, verifica-se que todos os três pedidos formulados - exasperação da pena, afastamento da substituição da pena privativa de liberdade por restritivas de direitos e agravamento do regime prisional - giram em torno dos supostos maus antecedentes, os quais, entretanto, não estão configurados por conta do período depurador que atingiu as duas anotações da FAC.
+Assim é que se observa da FAC do acusado que as anotações de nº 01 e 02 referem-se a fatos muito antigos praticados no século passado, e as respectivas penas impostas foram cumpridas e declaradas extintas há mais de cinco anos antes dos fatos ora em análise, consoante dados do feito executivo disponibilizados pelo sistema Projudi - processo nº 0132222-71.1993.8.19.0001.
+Tais anotações não se revelam idôneas a consubstanciar maus antecedentes em razão de previsão expressa no art. 64, I, do Código Penal, exaltando o princípio da segurança jurídica para impedir que os condenados permaneçam sujeitos e penalizados, ad aeternum, por conta de situações jurídicas pretéritas já saldadas há muito perante a sociedade. Neste sentido já decidiram ambas as turmas do Supremo Tribunal Federal:
+Como se vê, o Tribunal a quo não considerou a presença dos maus antecedentes, pois se observa da FAC do acusado que as anotações de nº 01 e 02 referem-se a fatos muito antigos praticados no século passado, e as respectivas penas impostas foram cumpridas e declaradas extintas há mais de cinco anos antes dos fatos ora em análise, consoante dados do feito executivo disponibilizados pelo sistema Projudi - processo nº 0132222-71.1993.8.19.0001.
+De fato, é pacífico nesta Corte Superior que o período depurador de cinco anos, previsto no art. 64, I, do Código Penal, afasta a reincidência, mas não retira os maus antecedentes. Confiram-se: HC 443.769/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/06/2018, DJe 15/06/2018; HC 447.340/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/5/2018, DJe 29/5/2018.
+O conceito de maus antecedentes, por ser mais amplo, abrange não apenas as condenações definitivas por fatos anteriores cujo trânsito em julgado ocorreu antes da prática do delito em apuração, mas também aquelas transitadas em julgado no curso da respectiva ação penal, além das condenações transitadas em julgado há mais de cinco anos, as quais também não induzem reincidência, mas servem como maus antecedentes.
+Nesse sentido: HC n. 337.068/SP, minha relatoria, DJe 28/6/2016.
+Ressalte-se que em determinadas situações, em que constatado grande período de tempo ou pequena gravidade do fato prévio, tem a Sexta Turma mitigado os efeitos das sentenças condenatórias anteriores, para o fim de reconhecimento de maus antecedentes, conforme se verifica nos seguintes julgados: REsp 1160440/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/03/2016, DJe 31/03/2016; AgRg no AREsp 924.174/DF, minha relatoria, SEXTA TURMA, julgado em 06/12/2016, DJe 16/12/2016.
+Feitas essas considerações, verifica-se considerável decurso temporal a justificar o pretendido direito ao esquecimento, devendo ser mantida a exclusão da vetorial dos maus antecedentes nos termos do acórdão recorrido, incidindo, à espécie, a Súmula 82/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Como se vê, consoante constou da decisão agravada, nos termos da jurisprudência desta Sexta Turma, é possível, constatado grande período de tempo ou pequena gravidade do fato prévio, mitigar os efeitos das sentenças condenatórias anteriores, para o fim de reconhecimento de maus antecedentes.
+Na espécie, como assentado no acórdão recorrido, se observa da FAC do acusado que as anotações de nº 01 e 02 referem-se a fatos muito antigos praticados no século passado, e as respectivas penas impostas foram cumpridas e declaradas extintas há mais de cinco anos antes dos fatos ora em análise, consoante dados do feito executivo disponibilizados pelo sistema Projudi - processo nº 0132222-71.1993.8.19.0001, entendimento que está em sintonia com a jurisprudência da Turma, sendo descabida, de todo modo, a via do especial à revisão das premissas constantes do aresto recorrido ou o exame do material cognitivo produzido nos autos, a teor da Súmula 7/STJ.
+Ante o exposto, voto por negar provimento ao agravo regimental.
