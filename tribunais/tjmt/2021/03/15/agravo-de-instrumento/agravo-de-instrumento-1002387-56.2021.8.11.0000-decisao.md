@@ -1,0 +1,42 @@
+AGRAVO DE INSTRUMENTO – AÇÃO ORDINÁRIA - TUTELA DE URGÊNCIA DEFERIDA - OBRIGAÇÃO DE FAZER - IMPUGNAÇÃO DA MULTA E DO VALOR PELO DESCUMPRIMENTO - ATO NÃO CONTEMPLADO NO ROL DO ART. 1015 DO CPC E POSSIBILIDADE DE DISCUSSÃO EM SEDE DE APELAÇÃO - RECURSO NÃO CONHECIDO.
+1. O art. 1015 do CPC elenca as decisões passíveis de irresignação via agravo de instrumento.
+2. Não constando do rol, o ato judicial não é passível de agravo de instrumento.
+3. Hipótese em que não se verifica inutilidade do julgamento da questão em futura apelação, nos moldes do art. 1009, §1o, do CPC, que acabou alterando a incidência da preclusão em determinadas matérias.
+Vistos etc.
+Trata-se de Agravo de Instrumento com pedido de efeito suspensivo interposto por BANCO BRADESCO S.A., contra a decisão interlocutória proferida nos autos do n. 1002672 -96.2020.8.11.0028, que deferiu a liminar solicitada pela parte, determinando que a instituição financeira proceda com a suspensão da cobrança do empréstimo, do CARTÃO DE CRÉDITO RESERVA DE MARGEM CONSIGNÁVEL– RMC (contrato no 6363680095234701 ) no prazo de 15 dias, referente ao valor descrito R$ 41,80 sob pena de multa diária de R$ 100,00 (cem reais) limitada a R$ 5.000,00 (cinco mil reais).
+Anota o agravante, em resumo que não há necessidade de aplicação de multa, visto que a margem foi apenas reservada, sendo que os descontos não foram efetuados, ante a não utilização do cartão pela agravada. Afirma ser incabível o arbitramento de multa diária no valor de r $ 100,00 (cem reais), tendo em vista a inocorrência dos descontos. Fala sobre a nulidade da astreinte, e sua substituição por ofício. Ao final alega ser a astreinte excessiva, devendo ser reduzida.
+Pede pela concessão de efeito suspensivo sobre a decisão, no mérito, pede pelo provimento do recurso para afastar a aplicação da multa ora fixada ou, que seja estipulada multa por desconto realizado, e não diária, bem como seja reduzido o valor da multa aplicada.
+Relato necessário.
+O art. 932, III, do CPC permite que o relator não conheça do recurso quando constatar sua manifesta inadmissibilidade esteja o seu exame prejudicado ou a parte recorrente não tenha impugnado especificamente os fundamentos da decisão objurgada.
+A assertiva ganha relevo porque a pretensão de exclusão, limitação ou diminuição da multa prevista para o específico caso de descumprimento injustificado da ordem judicial não se enquadra nas situações elencadas no art. 1015 do CPC:
+“Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+I - tutelas provisórias;
+II - mérito do processo;
+III - rejeição da alegação de convenção de arbitragem;
+IV - incidente de desconsideração da personalidade jurídica;
+V - rejeição do pedido de gratuidade da justiça ou acolhimento do pedido de sua revogação;
+VI - exibição ou posse de documento ou coisa;
+VII - exclusão de litisconsorte;
+VIII - rejeição do pedido de limitação do litisconsórcio;
+IX - admissão ou inadmissão de intervenção de terceiros;
+X - concessão, modificação ou revogação do efeito suspensivo aos embargos à execução;
+XI - redistribuição do ônus da prova nos termos do art. 373, § 1o;
+XII - (VETADO);
+XIII - outros casos expressamente referidos em lei.
+Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário.”
+A propósito, destacam-se os seguintes julgados:
+“Ementa: AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. DETERMINAÇÃO DE RETIRADA DE PRODUTO, COM FIXAÇÃO DE MULTA POR DESCUMPRIMENTO. DECISÃO IRRECORRÍVEL. ART. 1.015 DO CPC/2015. ROL TAXATIVO. PRECEDENTES. As únicas decisões impugnáveis mediante o manejo de agravo de instrumento são aquelas explicitadas no rol taxativo do art. 1.015 do CPC/2015. Considerado que no sistema brasileiro é defeso às partes criar recurso não previsto em lei, tampouco ampliar as hipóteses recursais, a única conclusão possível é no sentido de que o despacho que intimou o agravante para promover a retirada do produto (adubo), sob pena de multa diária, não se encontra dentre as hipóteses previstas em lei, razão porque não pode ser conhecido o presente agravo de instrumento. Ademais, em se tratando de despacho, e não de decisão, não é cabível recurso, consoante preceitua o art. 1.001 do CPC. AGRAVO DE INSTRUMENTO NÃOCONHECIDO.” (Agravo de Instrumento, No 70084739374, Décima Primeira Câmara Cível, Tribunal de Justiça do RS, Relator: Guinther Spode, Julgado em: 29-11-2020)
+“Ementa: AGRAVO DE INSTRUMENTO. CONTRATOS DO SISTEMA FINANCEIRO DE HABITAÇÃO. AÇÃO DE REVISÃO DE CONTRATOS. DECISÃO QUE DETERMINA A RETIRADA DO IMÓVEL SUB JUDICE DO SITE DO LEILOEIRO, SOB PENA DE MULTA DIÁRIA. DELIBERAÇÃO NÃO AGRAVÁVEL. AUSÊNCIA DE PREVISÃO NO ROL DO ARTIGO 1.015 DO CPC. INADMISSÃO DA INSURGÊNCIA. PRECEDENTES. Hipótese, outrossim, em que inexistente a urgência a autorizar a possibilidade de mitigação reconhecida no julgamento do Recurso Repetitivo RESP N.o 1.696.393-MT. RECURSO NÃO CONHECIDO, EM DECISÃO MONOCRÁTICA DO RELATOR.(Agravo de Instrumento, No 70084113646, Décima Oitava Câmara Cível, Tribunal de Justiça do RS, Relator: Pedro Celso Dal Pra, Julgado em: 30-03-2020)
+“Ementa: AGRAVO DE INSTRUMENTO. EXPURGOS INFLACIONÁRIOS. AÇÃO DE COBRANÇA. COMINAÇÃO DE MULTA (ASTREINTES). DESCABIMENTO. 1. Com o advento do Código de Processo Civil de 2015, as hipóteses de cabimento do agravo de instrumento estão previstas em “numerus clausus” (art. 1.015), ainda que mitigadas pela jurisprudência do Superior Tribunal de Justiça. 2. Interposto contra decisão que não consta do rol previsto no novel diploma processual, qual seja, de cominação de multa diária (astreintes) para o caso de descumprimento de ordem judicial de exibição de documentos, resta ausente um dos requisitos intrínsecos de admissibilidade. 3. Interpretação analógica ou mitigada que não se impõe na espécie, não havendo prejudicialidade na apreciação da questão em eventual apelo sobre o tema, oportunidade em que poderá ser afastada a penalidade se eventualmente consolidada de forma indevida em desfavor da agravante. AGRAVO DE INSTRUMENTO NÃO CONHECIDO.” (Agravo de Instrumento, No 70083444356, Vigésima Terceira Câmara Cível, Tribunal de Justiça do RS, Relator: Ana Paula Dalbosco, Julgado em: 12-12-2019)
+Se não bastasse, o §1o do art. 537 do CPC prevê que o julgador poderá, de ofício ou a requerimento, modificar o valor ou a periodicidade da multa vincenda ou excluí-la, caso verifique que “se tornou insuficiente ou excessiva” ou “o obrigado demonstrou cumprimento parcial superveniente da obrigação ou justa causa para o descumprimento”.
+Logo, não se vislumbra a necessidade de imediata intervenção deste egrégio Tribunal de Justiça na causa, visto que não “verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.” (REsp 1696396/MT, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 05/12/2018, DJe 19/12/2018)
+Aliás, não se fala sequer em prejuízo da parte Agravante em virtude de que o ato judicial em questão pode ser futuramente discutido, nos moldes do art. 1009, §1o, do CPC, que acabou alterando a incidência da preclusão em determinadas matérias.
+Por fim, embora o parágrafo único do referido artigo condicione a negativa de seguimento do recurso à prévia abertura de prazo à parte interessada, essa oportunidade apenas tem incidência nos casos em que se vislumbra possível o saneamento de eventual irregularidade, inaplicável quando a correção se mostre incabível.
+Anota-se ainda que o prazo para suspensão das cobranças não comporta dilação, vez que não se exige diversas providências para o seu atendimento, mas simples procedimento.
+Com tais fundamentos, deixo de levar os autos ao Plenário e, em decisão monocrática, forte no art. 932, III, do CPC, NÃO CONHEÇO deste Agravo de Instrumento.
+Alerta-se que a tentativa de rediscutir a matéria em sede de agravo interno pode gerar a multa prevista no art. 1021, §4o, do CPC e em eventuais embargos declaratórios resultará na incidência da penalidade descrita no § 2o do art. 1026 do CPC, condicionando a interposição subsequente (2% sobre o valor atualizado da causa).
+Notifique-se o juízo singular.
+Intimem-se as partes e, transcorrido o prazo recursal sem qualquer irresignação, realizem-se as anotações e baixa de estilo para arquivamento destes autos.
+Cumpra-se.
+Desembargador Sebastião de Moraes Filho
+= r e l a t o r =
