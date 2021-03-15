@@ -1,0 +1,86 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão proferido em sede de retratação, assim ementado:
+"AGRAVO REGIMENTAL - DECISÃO MONOCRÁTICA EM AGRAVO DE INSTRUMENTO - SEGUIMENTO NEGADO - AÇÃO DE REINTEGRAÇÃO DE POSSE - ALEGAÇÃO DE EXCEÇÃO DE SUSPEIÇÃO DO JUÍZO A QUO EM AUDIÊNCIA DE JUSTIFICAÇÃO DE FORMA ORAL - INOBSERVAÇÃO PROCEDIMENTAL - NECESSIDADE DE PETIÇÃO ESCRITA - ART. 297 C/C ART. 312, AMBOS DO CPC - APONTAMENTO DE JUÍZ DE PRIMEIRO GRAU COMO PARTE AGRAVADA - FORMALIDADE INADEQUADA - AGRAVO DE INSTRUMENTO MANIFESTAMENTE IMPROCEDENTE - RECURSO CONHECIDO E DESPROVIDO.
+Não apresentado qualquer argumento novo capaz de modificar o decisum recorrido, sua manutenção é a medida que se impõe. O relator, tido como "porta voz" da Câmara a que pertence, calcado na lei e na jurisprudência dominante da Corte, tem o poder-dever de decidir monocraticamente o feito posto à sua apreciação."
+Nas razões do recurso especial, a parte recorrente alegou violação aos artigos 128 e 460 do Código de Processo Civil de 1973, tendo em vista a nulidade da decisão proferida pelo juiz excepto que recusa a própria suspeição. Apontou ofensa aos artigos 154, 244 e 312 do CPC/73, visto que a exceção de suspeição pode ser tomada a termo em audiência, prescindindo de petição avulsa.
+Da análise dos pressupostos de admissibilidade do presente recurso, verifico que esse não merece conhecimento.
+Nos termos do disposto no artigo 932, III, do novo Código de Processo Civil, incumbe ao relator, de forma singular, negar seguimento a recurso inadmissível.
+Para a devida compreensão da controvérsia, transcrevo trecho pertinente do acórdão estadual (fl. 175/180 e-STJ):
+"O agravo regimental tem por finalidade submeter o julgamento da contenda exposta no recurso ao Órgão Colegiado competente para o julgamento do recurso monocraticamente decidido.
+(..)
+Entretanto, sem fundamento a pretensão contida neste agravo regimental para alterar a decisão monocrática, anteriormente, proferida.
+(..)
+Trata-se de agravo de instrumento interposto por AGROPECUÁRIA RIO BRAVO LTDA. contra a decisão do Juízo da 3ª Vara da Comarca de Cáceres/MT, Dr. Ricardo Alexandre R. Sobrinho, que, na Ação de Reintegração de Posse originária, assim decidiu:
+"Inicialmente passo a análise da alegação de suspeição deste magistrado arguida pela parte Requerida Agropecuária Rio Bravo Ltda nos autos com código 186507.
+Quando da realização da audiência de justificação e após este juízo afastar preliminares e postergar a análise no momento processual oportuno a parte interpôs agravo retido, e sendo determinado o processamento nos termos do artigo 523, § 2º do CPC, solicitou a palavra e arguiu a suspeição deste magistrado pelos seguintes motivos:
+- magistrado esta demonstrando comprometimento com uma das partes por afastar matérias de ordem pública;
+- decisão são acometidas de erro in procedendo.
+A alegação de suspeição além de ser abusiva, revelou ser absolutamente inepta, sem a observância das formalidades legais.
+Com efeito, a parte não se conformando com a decisão que afastou preliminares, com evidente intento de protelar e impedir a realização da audiência de justificação, acabou alegando a suspeição deste magistrado, sem cumprir os requisitos legais.
+Muito embora a decisão do incidente que for apresentado em conformidade com a legislação tocam ao Tribunal de Justiça, este magistrado por entender objetivamente o descabimento da exceção, por invocação de fato que, à evidência, não esteja previstos nos artigos 134 e 135 do CPC, além da não observância das formalidades legais, acabou denegando liminarmente, utilizando o dever legal que lhe toca, de "velar pela rápida solução do litígio" e de "prevenir ou reprimir qualquer ato contrário á dignidade da justiça", conforme assegura o artigo 125, incisos I e II do CPC.
+Primeiro, o pedido não cumpriu os ditames do CPC, pois o incidente deve ser formulado através de petição, com especificação dos motivos da recusa e conterá o rol de testemunhas, conforme reza o artigo 312 do CPC. A arguição de suspeição durante a audiência por motivos sem respaldo legal, e especialmente sem observar requisito objetivo - através de petição para distribuição em apenso, pagamento de custas, etc .. caracteriza erro grosseiro, e aliado que o comportamento visava tão somente impedir a realização do ato, foi liminarmente denegado.
+Simples indeferimento e/ou erro no julgamento não traduz no interesse do julgador no resultado da causa. Os argumentos apresentados pela parte estão desprovidos do mínimo de razoabilidade e prova. Ademais, arguiu suspeição apenas no processo em que figura como parte demandada. Deixar de incluir o pedido no feito em que atua como Autora revela total contradição.
+Do exposto, estando o pedido em desconformidade com o disposto no artigo 312 do CPC, deixo de dar processamento ao pedido de suspeição. Superada a alegação de suspeição, passo a análise das demais matérias que versem sobre condição da ação e pressuposto processual. (..)" (fls. 26/27)
+Em suas razões, a recorrente aduz que a decisão combatida foi proferida por um juízo "suspeito", que indeferiu objeção por suspeição contra si e se mantém no processo, prosseguindo, neste, entregando jurisdição. Requer, dessa forma, que seja dado provimento ao seu recurso com o fito de suspender liminarmente os efeitos da decisão combatida e determinar a subida imediata da exceção de suspeição postulada em primeiro grau.
+Requer, ainda, a formação do recurso, com a intimação do "Juiz agravado" para contrarrazoar o presente agravo. No mérito, pugna pela confirmação da liminar vindicada, com a reforma definitiva da decisão atacada.
+Documentos exigidos pelo artigo 525, I, do Código de Processo Civil, devidamente presentes.
+Com as razões, acompanharam os documentos de fls. 22/116.
+Eis os relatos necessários.
+Decido.
+O artigo 527, I c/c o artigo 557, ambos do CPC, permite que o relator, a qualquer instante, negue seguimento ao recurso quando constatar sua manifesta inadmissibilidade, improcedência, estiver prejudicado ou em confronto com súmula ou com jurisprudência dominante do respectivo tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, in verbis:
+(..)
+Conforme já relatado, a agravante aduz a necessidade da suspensão dos efeitos da decisão vergastada, sob o fundamento de suspeição do Juízo a quo.
+Ao analisar os autos, verifico que o presente recurso não deve sequer ser conhecido, em razão de sua manifesta improcedência.
+A recorrente, em audiência de justificação, cuja cópia encontra-se encartada, às fls. 107/111 dos autos, buscou, oralmente, de forma equivocada, suscitar uma exceção de suspeição.
+Ocorre que a recorrente, ao arguir de forma oral a exceção, deixou de observar o procedimento adequado para a suscitação de suspeição, conforme rezam os artigos 297 e 312, ambos do CPC, in verbis:
+"Art. 297. O réu poderá oferecer, no prazo de 15 (quinze) dias, em petição escrita, dirigida ao juiz da causa, contestação, exceção e reconvenção." (grifo nosso)
+"Art. 312. A parte oferecerá a exceção de impedimento ou de suspeição, especificando o motivo da recusa (arts. 134 e 135). A petição, dirigida ao juiz da causa, poderá ser instruída com documentos em que o excipiente fundar a alegação e conterá o rol de testemunhas." (grifo nosso)
+Assim, existe uma série de procedimentos e atos, devidamente regulados pelo CPC, que determinam a forma que deve tramitar uma exceção de suspeição, formalidades legais estas que devem ser respeitadas.
+A propósito, eis a lição de Márcio Candido da Silva, exposta no artigo "Direito de defesa e as respostas do réu", de sua autoria e visualizável no seu sítio eletrônico (http://www.candidosilva.adv.br/conteudo.php id=26):
+"As exceções serão apresentadas em petição escrita, de forma autônoma, ou seja, se o juízo que tramita a ação é incompetente ou se o juiz da causa é impedido ou suspeito, deverão ser apresentadas exceções de forma independente (uma para a incompetência e outra para a suspeição ou impedimento).
+A petição será apresentada por escrito e será autuada em apartado, juntamente com os documentos que dela acompanhar.
+A exceção não é uma ação, mas instrumento de defesa, de forma que dará ensejo a instauração de um incidente processual, que terá autuação em apartado e será apensado aos autos do processo." (grifo nosso)
+Desta feita, estando demonstrado nos autos que a opção procedimental da recorrente foi inadequada para suscitar a suspeição do Juízo a quo, não tendo sido respeitado requisitos objetivos (petição escrita, distribuição em apenso, pagamento de custas, dentre outros), o presente recurso não deve sequer ser conhecido, em razão da sua manifesta improcedência.
+Ademais, ao distribuir este recurso de agravo de instrumento, o agravante apontou como parte agravada o Juízo a quo, que, obviamente, não é parte na lide, equivocando-se.
+(..)"
+Assim, calcado na lei e na jurisprudência dominante do Superior Tribunal de Justiça e desta Corte, o relator, tido como "porta voz" da Câmara a que pertence, tem o poder-dever de decidir monocraticamente o feito posto à sua apreciação."
+Com efeito, conforme consignado pelo Tribunal de origem, a exceção de suspeito deve ser feita por petição escrita, conforme determinação expressa contida nos artigos 297 e 312 do CPC/73:
+"Art. 297. O réu poderá oferecer, no prazo de 15 (quinze) dias, em petição escrita, dirigida ao juiz da causa, contestação, exceção e reconvenção.
+Art. 312. A parte oferecerá a exceção de impedimento ou de suspeição, especificando o motivo da recusa (arts. 134 e 135). A petição, dirigida ao juiz da causa, poderá ser instruída com documentos em que o excipiente fundar a alegação e conterá o rol de testemunhas."
+Tal exigência se mostra devida em razão da necessidade de se formar instrumento para posterior remessa ao Tribunal, com a juntada de documentos e produção de prova testemunhal para possibilitar o exercício do contraditório, nos termos do artigo 313 do antigo diploma processual.
+Ademais, trata-se de resposta do réu que possui forma determinada exigida por lei, justamente por dar origem a um incidente processual, de modo que a mera alegação oral em audiência de justificação não alcança a finalidade acima explicitada, qual seja, formação de instrumento apto a garantir o contraditório e posterior remessa ao Tribunal ad quem.
+Nesse contexto, não havendo violação aos artigos apontados, necessária se faz a incidência da Súmula nº 284, do STF, visto que a deficiência na fundamentação do recurso não permitiu a exata compreensão da controvérsia.
+Constou, ainda, que não houve sequer processamento da alegação oral de suspeição, em razão de sua inadequação procedimental, de modo que não há que se falar em decisão extra petita por o magistrado ter supostamente apreciado a própria exceção de suspeição.
+Assim sendo, assevero que o ora recorrente não rebateu de forma adequada os fundamentos despendidos pelo acórdão recorrido, de modo que o recurso especial igualmente encontra óbice na Súmula nº 283, do STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. REVISÃO DE SUPLEMENTAÇÃO QUE RESULTOU EM DIFERENÇA NOS PROVENTOS DA APOSENTADORIA. OFENSA A DISPOSITIVO CONSTITUCIONAL. RECURSO ESPECIAL INCABÍVEL. ART. 6º, § 1º, DA ANTIGA LICC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF. ALEGAÇÃO DE QUE O VALOR BUSCADO PELO AUTOR DA AÇÃO JÁ FOI DEPOSITADO EM SUA CONTA. SÚMULA 7 DESTA CORTE. RECURSO NÃO PROVIDO.
+(..)
+4. A ausência de impugnação dos fundamentos do aresto recorrido enseja o não conhecimento do recurso, incidindo, por analogia, as Súmulas 283 e 284 do Supremo Tribunal Federal.
+5. Ademais, a alegação de que o valor buscado pelo autor da ação já foi depositado em sua conta demandaria o revolvimento do acervo fático-probatório, situação que violaria a Súmula 7/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1040372/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 13/6/2017, DJe 27/6/2017)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR SEGUIMENTO AO RECURSO ESPECIAL. INSURGÊNCIA DOS AUTORES.
+1. A jurisprudência do STJ firmou-se no sentido de que a impugnação, no agravo, de capítulos autônomos da decisão recorrida apenas induz a preclusão das matérias não impugnadas.
+2. Inadmissíveis as alegações referentes à legitimidade ativa de duas das agravantes, pois as razões recursais não combateram os fundamentos apresentados pela Corte local, o que atrai a incidência dos óbices das súmulas 283/STJ e 284/STF.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp 878.843/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/6/2017, DJe 13/6/2017)
+Por fim, destaco que é pacificado nesta Corte que o dissenso jurisprudencial deve ser demonstrado de forma clara, realizando o cotejo analítico e mencionando as circunstâncias que identifiquem ou assemelhem os casos confrontados, não bastando a mera transcrição de ementas, nos moldes exigidos peloart. 255, do RISTJ, c/c 541, parágrafo único, do Código de Processo Civil de 1973 (atual 1029, § 1º), o que não verifico no caso ora em análise.
+Isso porque, em todos os julgados mencionados, a exceção foi oferecida em petição escrita, tendo o magistrado julgado o próprio mérito, diferentemente da situação dos autos, a qual foi alegada oralmente e não processada por inobservância procedimental.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES. INEXISTÊNCIA DE AFRONTA AO ART. 489 DO CPC/2015. CITAÇÃO DE PASSAGEM DE ARTIGOS. SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. MULTA DO ART. 1.021, § 4º, do CPC/2015. NÃO INCIDÊNCIA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 489 do CPC/2015 quando a decisão recorrida pronuncia-se, de forma clara e suficiente, acerca da aplicação de óbice ao exame do mérito recursal.
+2. "A mera indicação de artigos de lei pretensamente violados não enseja o conhecimento do recurso especial, porquanto este é apelo de fundamentação vinculada e não incide o brocardo iura novit curia" (REsp n. 794.537/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/3/2009, DJe 6/4/2009), o que ocorreu no caso.
+3. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF. Além disso, "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n.13/STJ).
+4. Conforme orienta a jurisprudência das Turmas que compõem a Segunda Seção do STJ, "a aplicação da multa prevista no § 4º do art.
+1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada" (AgInt nos EREsp n. 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/8/2016, DJe 29/8/2016).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1892017/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/12/2020, DJe 18/12/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. COBERTURA PARA DOENÇAS GRAVES. JULGAMENTO ANTECIPADO. INDEFERIMENTO DO PEDIDO DE PRODUÇÃO DE PROVA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a jurisprudência vigente no Superior Tribunal de Justiça, inexiste cerceamento de defesa quando o julgador indefere motivadamente a produção de provas, entendendo que a questão controvertida encontra-se suficientemente comprovada nos autos por outros elementos.
+1.1. Para se concluir pela imprescindibilidade da produção de prova pericial, seria necessário o reexame fático-probatório, o que encontra óbice no verbete sumular n. 7 deste Superior Tribunal.
+2. O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1741106/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1/3/2021, DJe 3/3/2021)
+Em face do exposto, não conheço do recurso especial.
+Intimem-se.
