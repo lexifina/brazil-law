@@ -1,0 +1,15 @@
+DECISÃO
+JOÃO ALFREDO DOS SANTOS COLESNIK alega sofrer coação ilegal em face de acórdão prolatado peloTribunal de Justiça do Estado do Rio Grande do Sul no Agravon.º 5065797-27.2020.8.21.7000.
+O paciente estava em livramento condicional quando foi acusado da prática de novo crime. O Juiz da VEC suspendeu cautelarmente o benefício, mas sobreveio a suaabsolviçãono Processo nº 037/2.19.0003986-1. A defesa, nestes autos, requer o restabelecimento do benefício, mesmo antes do trânsito em julgado da sentença.
+O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Dispõe o art. 89 do CP: "O juiz não poderá declarar extinta a pena, enquanto não passar em julgado a sentença em processo a que responde o liberado, por crime cometido na vigência dolivramento".
+Entretanto,o apenado não pode aguardar indefinidamente o desfecho do novo processo. Por isso, essa Corte Superior interpretou o dispositivo e editou aSúmula n. 617 do STJ: "aausência de suspensão ou revogação do livramento condicional antes do término do período de prova enseja a extinção da punibilidade pelo integral cumprimento da pena".
+Noticiada a prática de fato definido como crime doloso durante o benefício, o Juiz poderá suspendê-locom lastro no art. 145 da LEP. Confira-se:
+Art. 145. Praticada pelo liberado outra infração penal, o Juiz poderá ordenar a sua prisão, ouvidos o Conselho Penitenciário e o Ministério Público, suspendendo o curso do livramento condicional, cuja revogação, entretanto, ficará dependendo da decisão final.
+A suspensão do art. 145 da LEP é cautelar;não é obrigatória nem automática. Como qualquerato de natureza similar,está sujeita aos requisitosda plausibilidade do direito substancial invocadoe do periculum in mora.O princípio da razoabilidade orientará o magistrado na resolução do incidente daexecução penal. Mesmo com a notícia do crime, o Magistrado responsável pela fiscalização da pena não é obrigado a adotar a medida de urgência.
+In casu, o apenado obteve o livramento condicional em 3/10/2017 e o benefício perdurou até 8/5/2020, oportunidade em que "retornou ao regime aberto" (fl. 4) porque ocorreu a aplicação do art. 145 da LEP.
+Entretanto, passado algum tempo, sobreveio o julgamento do processo penal a que o apenado responde. Antes, existia a notícia de um crime, dada pela polícia. Agora, o réu foi submetido ao devido processo legal e tem-se a sua absolvição, prolatada por Juiz imparcial, após a produção de provas.
+Ainda que o julgamento não tenha transitado em julgado,não é mais verossímil orelato de que o liberado tenha cometidonovo crime durante o período de prova.Nãosubsisteofumus boni iuris (indícios de que o reeducando não agiu com autodisciplina e responsabilidade) enão é razoável ou proporcional penalizá-loapenas para que se aguardeo desfecho da apelação,quando oo término da execução estava previsto para "30/6/2020" (fl. 20).
+À vista do exposto, concedo o habeas corpus, para determinar o restabelecimento das condições do livramento condicional do paciente, sem prejuízo de extinção de sua punibilidade se já cumprida a pena.
+Publique-se e intimem-se.
