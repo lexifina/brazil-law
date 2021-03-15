@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA SECURITÁRIA. VÍCIOS DE CONSTRUÇÃO. APÓLICE DO SEGURO HABITACIONAL DO SISTEMA FINANCEIRO DE HABITAÇÃO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA APLICAÇÃO DA TESE JURÍDICA FIRMADA PELO STF. ATO DE DEVOLUÇÃO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. INEXISTÊNCIA DE PREJUÍZO.
+1. Ação de indenização securitária vinculada ao sistema financeiro de habitação.
+2. Conforme a jurisprudência do STJ, havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguish também pode ser formulada no juízo a quo. Precedentes.
+3. Não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que a aludida devolução não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível. Precedentes.
+4. Agravo interno não conhecido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+Cuida-se de agravo interposto por DANIEL XAVIER e OUTROS, contra decisão que determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para eventual exercício de juízo de retratação, conforme a sistemática dos arts. 1.040, II e 1.041, ambos do Código de Processo Civil de 2015.
+Ação: indenização securitária apresentada pelos agravantes em face de SUL AMÉRICA CIA NACIONAL DE SEGUROS S/A, em razão de vícios de construção em bem imóvel adquirido pelo SFH, segurado pela Apólice do Seguro Habitacional do Sistema Financeiro de Habitação.
+Sentença: julgou procedente o pedido para condenar a agravada ao pagamento de R$ 19.514,65 a ARILDO TORNEIRO; R$ 19.514,65 a EDNEI SART; R$ 19.514,65 a SEBASTIÃO FERREIRA DO CARMO; R$ 15.860,09 CIRSO MALAQUIAS; R$ 19.514,65 a ADILEUZA CORREIA LUZ; R$ 19.514,65 a JAIR LOPES; R$ 21.246,11 a CÉSAR AUGUSTO FERREIRA; R$ 19.514,65 a ANDRÉ RUBIO; R$ 13.934,93 a ROSÁRIA GARCIA; R$ 19.514,65 a DANIEL XAVIER; R$ 19.514,65 a ISAURA DA SILVA MARQUES; R$ 19.514,65 a JOSÉ CLÓVIS DA lio SILVA; R$ 22.461,17 a EDIO MASSOCA; R$ 19.433,87 a LUIZ CARLOS RAMOS e R$ 15.860,09 a RUBENS GENEBRA, bem como juros moratórios e correção. Fixou os honorários em 15% sobre o valor da condenação.
+Acórdão: deu provimento ao recurso da agravada para julgar improcedente o pedido inicial e inverteu os honorários advocatícios, nos termos da seguinte ementa:
+COMPETÊNCIA  Não configuração de legitimidade passiva da Caixa Econômica Federal  Seguro habitacional  Danos decorrentes de vícios de construção  Requisitos para legitimar a CEF  Ausência  Falta de prova do comprometimento do FCVS e do consequente risco efetivo de exaurimento da reserva técnica do Fundo de Equalização de Sinistralidade da Apólice (FESA)  Alteração de entendimento  Competência da Justiça Estadual  Preliminar afastada.
+PRELIMINARES - Legitimidade de partes  Ilegitimidade ativa e passiva  Não configuração - Presença de relação jurídica de direito material entre os litigantes  Interesse de agir - Ocorrência  Necessidade e adequação da via eleita  Preliminares afastadas.
+PRESCRIÇÃO  Seguro habitacional  Pretensão à incidência do disposto no art. 206, §1º, II, do Código Civil/2002  Inaplicabilidade - Hipótese que não diz respeito à ação de segurado contra seguradora e vice-versa, mas de estipulação em favor de terceiro  Recurso provido.
+SEGURO HABITACIONAL  Vícios em construção - Documentação e trabalho técnico que atestam falhas decorrentes de projeto, gerenciamento/fiscalização técnica e execução da obra  Afastamento da responsabilidade da seguradora pela existência de cláusula expressa sobre a não cobertura de risco de natureza interna  Admissibilidade  Falha na construção que figura como desconhecida à seguradora no momento de sua contratação no empreendimento, permitindo a exclusão na apólice  Multa decendial - Não incidência - Ação improcedente  Recurso provido.
+Embargos de declaração: opostos pelos agravante, foram rejeitados.
+Recurso especial: alegam os agravantes violação dos arts. 1.434 e 1.460 do Código Civil de 1916, 423 e 760 do atual Código Civil, 47, 48, 51, inciso IV, e 54, do Código de Defesa do Consumidor, 489, § 1º, IV e VI, e ao artigo 1.022, II e parágrafo único, II, do CPC/2015, bem como dissídio jurisprudencial.
+Decisão unipessoal: determinou a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para eventual exercício de juízo de retratação, conforme a sistemática dos arts. 1.040, II e 1.041, ambos do Código de Processo Civil de 2015.
+Agravo interno: nas razões do presente recurso, os agravantes repisam as razões dos embargos de declaração anteriormente opostos e insurgem-se contra a devolução à origem dos autos, em razão da tese jurídica firmada pelo STF na ocasião do julgamento do RE n.827.996/PR (Tema 1.011).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA SECURITÁRIA. VÍCIOS DE CONSTRUÇÃO. APÓLICE DO SEGURO HABITACIONAL DO SISTEMA FINANCEIRO DE HABITAÇÃO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA APLICAÇÃO DA TESE JURÍDICA FIRMADA PELO STF. ATO DE DEVOLUÇÃO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. INEXISTÊNCIA DE PREJUÍZO.
+1. Ação de indenização securitária vinculada ao sistema financeiro de habitação.
+2. Conforme a jurisprudência do STJ, havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguish também pode ser formulada no juízo a quo. Precedentes.
+3. Não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que a aludida devolução não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível. Precedentes.
+4. Agravo interno não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relator):
+A decisão agravada foi assim fundamentada, na parte em que impugnada pela agravante:
+Versa a presente demanda, na origem, sobre ação de indenização securitária vinculada ao Sistema Financeiro de Habitação, em que se discute, dentre outras questões, a competência da Justiça Federal e a legitimidade passiva da CEF.
+Em sessão plenária realizada em 29/06/2020, publicada em 21/08/2020, o Supremo Tribunal Federal proferiu a seguinte decisão:
+Recurso extraordinário.
+1. Repercussão geral.
+2. Sistema Financeiro da Habitação (SFH). Contratos celebrados em que o instrumento estiver vinculado ao Fundo de Compensação de Variação Salarial (FCVS) - Apólices públicas, ramo 66.
+3. Interesse jurídico da Caixa Econômica Federal (CEF) na condição de administradora do FCVS.
+4. Competência para processar e julgar demandas desse jaez após a MP 513/2010: em caso de solicitação de participação da CEF (ou da União), por quaisquer das partes ou intervenientes, após oitiva daquela indicando seu interesse, o feito deve ser remetido para análise do foro competente: Justiça Federal (art. 45 c/c art. 64 do CPC), observado o § 4º do art. 1º-A da Lei 12.409/2011. Jurisprudência pacífica.
+5. Questão intertemporal relativa aos processos em curso na entrada em vigor da MP 513/2010. Marco jurígeno. Sentença de mérito. Precedente.
+6. Deslocamento para a Justiça Federal das demandas que não possuíam sentença de mérito prolatada na entrada em vigor da MP 513/2010 e desde que houvesse pedido espontâneo ou provocado de intervenção da CEF, nesta última situação após manifestação de seu interesse.
+7. Manutenção da competência da Justiça Estadual para as demandas que possuam sentença de mérito proferida até a entrada em vigor da MP 513/2010.
+8. Intervenção da União e/ou da CEF (na defesa do FCVS) solicitada nessa última hipótese. Possibilidade, em qualquer tempo e grau de jurisdição, acolhendo o feito no estágio em que se encontra, na forma do parágrafo único do art. 5º da Lei 9.469/1997.
+Restaram fixadas por aquele Excelso Pretório as seguintes diretrizes:
+1) Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010):
+1.1.) Sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011.
+No caso dos autos, até 26/11/2010 não havia sido proferida sentença, aplicando-se ao caso a tese do item 1.1 supra. (fl. 2295/2296, e-STJ).
+- Da Súmula 568 do STJ.
+Conforme entendimento desta Corte:
+i) havendo o reconhecimento de repercussão geral, ou afetação para julgamento como repetitivo de recurso especial, é de rigor a devolução dos autos ao Tribunal de origem para que se aguarde o julgamento da matéria paradigma. Nesse sentido: AgInt nos EDcl no AREsp 1.131.306/SP, SEGUNDA TURMA, DJe 15/2/2019; AgInt no REsp 1.615.887/PR, PRIMEIRA TURMA, DJe 12/2/2019. Esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguish também pode ser formulada no juízo a quo.
+ii) não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível. Precedentes: AgInt no REsp 1.663.877/SE, TERCEIRA TURMA, DJe de 04/09/2017; AgInt no AREsp 1423595/AL, SEGUNDA TURMA, DJe 17/06/2019; AgInt no REsp 1577710/PR, SEGUNDA TURMA, DJe 07/06/2019.
+Ressalte-se que, esta decisão é irrecorrível, por não gerar nenhum prejuízo para a parte. Eventual argumentação de distinguish também pode ser formulada no juízo a quo.
+Forte nessas razões, NÃO CONHEÇO do agravo interno nos embargos de declaração no recurso especial.
