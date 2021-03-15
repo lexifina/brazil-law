@@ -1,0 +1,14 @@
+DECISÃO
+EMBARGOS DE DIVERGÊNCIA – PRESSUPOSTO ESPECÍFICO DE RECORRIBILIDADE – AUSÊNCIA – SEGUIMENTO – NEGATIVA .
+    1. Os embargos de divergência voltam-se a impugnar decisão da Segunda Turma que implicou o desprovimento de agravo regimental. Eis a ementa:
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. MAGISTRADO. EXERCÍCIO DA ADVOCACIA. REGRA DE TRANSIÇÃO DO ART. 4º DA EC 20/1998. CONTAGEM DE TEMPO SERVIÇO. APOSENTADORIA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – O Supremo Tribunal Federal, no exame do AI 727.410-AgR/SP, de relatoria do Ministro Gilmar Mendes, concluiu pela possibilidade da contagem do tempo de serviço prestado como advogado e estagiário, para fins de aposentadoria e disponibilidade no cargo, haja vista que a regra de transição do art. 4º da EC 20/1998 admite que o tempo de serviço considerado pela legislação vigente para efeito de aposentadoria, cumprido até que a lei discipline a matéria, seja contado como tempo de contribuição. Precedentes. II - As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada. IIII - Agravo regimental a que se nega provimento.
+    Nos embargos, a União aponta divergência entre o pronunciamento impugnado e o decidido pela Primeira Turma no julgamento do agravo regimental no mandado de segurança nº 33.585/DF, apesar da similitude fática.
+    Não merece prosperar o inconformismo. A decisão recorrida está em consonância com a jurisprudência do Tribunal. A Primeira Turma, no julgamento do mandado de segurança nº 34.401 evoluiu, concluindo pelo cômputo do tempo de advocacia, para efeito de aposentadoria de magistrado, independentemente do recolhimento das contribuições.
+    O artigo 330 do Regimento Interno do Supremo revela o cabimento de embargos de divergência contra decisão de Turma que, em recurso extraordinário ou em agravo de instrumento, divergir de julgado de outra Turma ou do Plenário na interpretação do direito federal, devendo a parte comprovar a discrepância jurisprudencial na forma do disposto no artigo 322 nele contido, ou seja, via certidão ou cópia autenticada ou mediante citação do repositório de jurisprudência, oficial ou autorizado, com a transcrição dos trechos que configurem o dissídio, mencionadas as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu no presente caso.
+    A par desse aspecto, o recurso encontra óbice também no artigo 332 do Regimento Interno do Supremo:
+    Art. 332. Não cabem embargos, se a jurisprudência do Plenário ou de ambas as Turmas estiver firmada no sentido da decisão embargada, salvo o disposto no art. 103.
+    2. Ante o quadro, nego seguimento a estes embargos.
+    3. Publiquem.
+Brasília, 15 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
