@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de JEFERSON CARLOS SOUZA DOS SANTOS, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (fls. 99-102):
+"AGRAVO EM EXECUÇÃO. Recurso interposto diante do indeferimento do pedido de retificação de cálculo de penas, mantendo-se o interstício temporal de 3/5 para obtenção da progressão de regime. Sentenciado reincidente que cumpre pena pela prática de crime equiparado a hediondo. Inteligência do artigo 112, inciso VII, da LEP. Dispositivo legal que NÃO exige a recidiva específica para observância da maior fração. Agravo improvido."
+Explicou-se que (fl. 101): "cumpre pena total de quatorze (14) anos e quinze (15) dias de reclusão, atualmente em regime fechado, por tráfico de drogas, tráfico "privilegiado" e roubo circunstanciado."
+Daí o presente habeas corpus, no qual a d. Defesa sustenta que o lapso imposto pelo eg. Tribunal de origem para a progressão de regime dependeria de reincidência específica em crime hediondo.
+Alega que a Lei nº 13.964/2019 é norma penal posterior mais benéfica.
+Requer a concessão da ordem, inclusive liminarmente, com a retificação dos cálculos da execução penal, para a progressão de regime. No mérito, a confirmação da liminar, com a ordem definitiva.
+Pedido liminar indeferido, às fls. 105-107.
+Informações, às fls. 112-121.
+O d. Ministério Público Federal oficiou pela denegação da ordem, em r. parecer de fls. 125-130, de seguinte ementa:
+"PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. RETIFICAÇÃO DE CÁLCULO DE LIQUIDAÇÃO DE PENAS.PACIENTE QUE CUMPRE PENA PELO CRIME DE TRÁFICO DE DROGAS (CRIME HEDIONDO POR EQUIPARAÇÃO). PACIENTE REINCIDENTE. CUMPRIMENTO DE 60% (OU 3/5) DA PENA COMO CONDIÇÃO PARA PROGRESSÃO DE REGIME PRISIONAL. LEI ANTICRIME. INTELIGÊNCIA DO ART. 112 DA LEP. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO.1. A impetrante pede a retificação do cálculo do lapso temporal para a progressão de regime do paciente, a fim de que se considere o percentual de 40% (ou 2/5) da pena, por não ser ele reincidente específico.3. O artigo 2º-§2º da Lei de Crimes Hediondos estabelecia a condição de cumprimento de 3/5 da pena (ou seja 60%) para progressão de regime prisional no caso de condenado por crime hediondo que fosse reincidente.4. Esta norma foi revogada pela nova Lei Anticrime (Lei 13.964/19) que restabeleceu a disciplina da matéria pelo artigo 112 da LEP. A nova lei distingue entre réus primários e reincidentes, mas não entre reincidentes específicos e inespecíficos, ao estabelecer o tamanho da pena cumprida como condição para pretender progressão de regime prisional. 5. Pela nova Lei Anticrime, os reincidentes, na prática de crime hediondo ou equiparado que não resulte em morte, devem cumprir 60% da pena (ou seja 3/5) como condição para pretender progressão de regime prisional.6. A situação jurídica do paciente restou inalterada pela lei nova. Na vigência da lei anterior, como reincidente e na prática de crime hediondo (tráfico de drogas), tinha que cumprir 3/5 da pena, que equivale a 60%, para pretender progressão de regime prisional. Sob a lei nova, a mesma condição prevalece.
+-Parecer pela denegação da ordem de habeas corpus."
+É o relatório.
+Decido.
+O presente habeas corpus encontra-se prejudicado, em razão da perda superveniente de seu objeto.
+As informações de fls. 112-114dão conta de que a ordem já foi concedida em sede de juízo de retratação pela origem.
+Isso foi confirmado pelo acesso aos autos de origem0001965-65.2015.8.26.0041, onde se verificou até mesmo a interposição de novo recurso de agravo em execução, na data de 02/03/2021.
+Tudo o que impede a análise aqui posta, pois a manifestação a quo constitui novo título, que modifica drasticamente a situação jurídica e torna ineficaz qualquer manifestação desta eg. Corte Superior, até mesmo pela falta de dialeticidade das razões aqui apresentadas, em face do julgado superveniente.
+Ante o exposto, julgo prejudicado o presente mandamus, em razão da perda superveniente do objeto.
+P. I.
