@@ -1,0 +1,54 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. CONCLUSÃO PELA CONTINUIDADE DELITIVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No presente caso, a Corte local entendeu que o modo de execução dos delitos de tráfico foi distinto, bem como a forma de atuação, o lugar e os envolvidos, de maneira a afastar o preenchimento dos requisitos objetivos e subjetivos necessários ao reconhecimento da ficção jurídica do crime continuado. Dessa forma, para se concluir pela continuidade delitiva, como requer a parte agravante, seria imprescindível o revolvimento do acervo fático-probatório, o que encontra óbice no disposto na Súmula 7/STJ.
+2. Agravo regimental não provido
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto pelo EMERSON GOMES DA SILVA (e-STJ fls. 506/535) contra decisão monocrática de e-STJ fls. 500/503, que reconsiderou a decisão de e-STJ fls. 457/458, para conhecer do agravo e não conhecer do seu recurso especial.
+A parte agravante alega: (i) a não incidência da Súmula 7/STJ; (ii) que o envolvido praticou uma única conduta, uma vez que o delito de tráfico de drogas é crime permanente; (iii) o reconhecimento da continuidade delitiva, tendo em vista que o intervalo entre as práticas dos delitos de tráfico de drogas é de apenas 34 dias, razão pela qual não se aplicam as regras do concurso material.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. CONCLUSÃO PELA CONTINUIDADE DELITIVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No presente caso, a Corte local entendeu que o modo de execução dos delitos de tráfico foi distinto, bem como a forma de atuação, o lugar e os envolvidos, de maneira a afastar o preenchimento dos requisitos objetivos e subjetivos necessários ao reconhecimento da ficção jurídica do crime continuado. Dessa forma, para se concluir pela continuidade delitiva, como requer a parte agravante, seria imprescindível o revolvimento do acervo fático-probatório, o que encontra óbice no disposto na Súmula 7/STJ.
+2. Agravo regimental não provido
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+O Tribunal a quo, em decisão devidamente motivada, entendeu que, do caderno instrutório, emergem elementos suficientemente idôneos de prova para a manutenção do concurso material entre os crimes de tráfico, conforme conclusão abaixo (e-STJ fls. 184/187):
+Inicialmente, observo que as disposições do concurso material de delitos foram aplicadas somente em relação ao crime de tráfico de drogas.
+Além disso, a sentença e o acórdão condenatórios reconheceram que o requerente e os seus corréus praticaram os crimes de tráfico nos dias 13/11/2011 e 17/12/2011, e que eles teriam se associado para o tráfico de entorpecentes.
+O reconhecimento das condutas como fatos distintos foi devidamente analisado na sentença de primeiro grau, que considerou (ID 122618253):
+"Segundo a denúncia, MARCOS CAETANO, WELTON DO PRADO VICENTE, MIRIAN GOMES DE OLIVEIRA, EMERSON GOMES DA SILVA são responsáveis pela internação em território nacional da substância entorpecente apreendida, no dia 13 de novembro de 2011, em poder de Mara Lúcia Alves, presa em flagrante delito, no município de Parapuã/SP, na posse de 4.073 kg de cocaína, conforme fazem prova documentos de fls. 636/638 e 1456/1488.
+Também atribui a denúncia a MARCOS CAETANO, GEOVANE CARDOSO DE SÁ e JOSIAS DIONÍSIO a responsabilidade pela internação de arma de fogo, carregador e munições, encomendadas por MARCELO SOARES DE OLIVEIRA, e de substância entorpecente (cocaína), destinada a EMERSON GOMES DA SILVA. E tanto a arma (pistola calibre 9 mm, marca BUL, modelo G/Cherokee, de fabricação israelense) o carregador, as munições (15 cápsulas) como a substância entorpecente (cocaína), cerca de 1,0kg, foram apreendidos, no município de Parapuã/SP, em poder dos adolescentes Darlon Wilian da Silva e Edílson de Souza, no dia 17 de dezembro de 2011, quando presos em flagrante delito - fls. 799/806.
+(..)
+EMERSON GOMES DA SILVA. O réu está sujeito às penas do art. 33, caput, por duas vezes, e art. 35, ambos da Lei 11.343/06.
+(..)
+Assim, considerando as penas abstratamente cominadas aos ilícitos fixo as penas-base (pena mínima aumentada em 1/6): a) para cada crime do art. 33, caput, da Lei de Drogas, em 5 anos e 10 meses de reclusão e 580 dias-multa; b) para o crime do art. 35 da Lei de Drogas, em 3 anos e 6 meses de reclusão e 810 dias-multa.
+(..)
+Conforme exposto, rejeito a aplicação do art. 71 do Código Penal, alusivo à continuidade delitiva, havendo de incidir, para os crimes de tráfico transnacional, a regra do art. 69 do Código Penal. Desta feita, para o tráfico transnacional de drogas objeto de apreensão em 13 de novembro de 2011 e para o crime de associação para o tráfico, aumento as penas em 1/6, fixando-as: 6 anos, 9 meses e 20 dias de reclusão e 670 dias-multa e 4 anos e 1 mês de reclusão e 940 dias-multa, respectivamente. Para o tráfico transnacional de drogas objeto de apreensão em 17 de dezembro de 2011, aumento as penas em 1/3, porque incidentes duas causas majorantes, fixando-as em: 7 anos, 9 meses e 10 dias de reclusão e 770 dias-multa.
+(..)
+Desta feita, as penas consolidadas somam: a) para os crimes do art. 33, caput, da Lei de Drogas, 6 anos, 9 meses e 20 dias de reclusão e 670 dias-multa e 7 anos, 9 meses e 10 dias de reclusão e 770 dias-multa; b) para o crime do art. 35 da Lei de Drogas, 4 anos e 1 mês de reclusão e 940 dias-multa.
+Ante o concurso material evidenciado (art. 69 do CP), somo as penas, resultando em 18 anos, 8 meses e 2.380 dias-multa, que fixo à razão de 1/10 do salário mínimo, haja vista ser o réu comerciante (art. 43 da Lei 11.343/2006)".
+Na presente ação, o requerente pleiteia uma mera rediscussão da matéria, ou seja, ele requer que sejam consideradas as condutas como crime permanente ou, de forma subsidiária, que seja aplicada as regras da continuidade delitiva, o que já foi apreciado na primeira e na segunda instância de maneira exaustiva.
+ ..
+Ademais, não há contrariedade ao texto expresso do artigo 71 do Código Penal, por ter o julgado deixado de reconhecer a hipótese de crime continuado e aplicado o concurso material de crimes.
+Ocorreram dois delitos de tráficos diferentes em relação ao modo de execução, tempo e desígnios.
+Conforme bem fundamentado no acórdão (ID 122618254 - fl. 11), "É preciso salientar não se tratar de crime único ou continuidade delitiva.
+Os crimes de tráfico de drogas cometidos pela organização criminosa e ora apurados, cometidos em 13/11/2011 e 17/12/2011, devem permanecer sendo isoladamente considerados, pois há inegável distância temporal (mais de um mês) entre um e outro, bem como porque foram praticados de formas distintas (em um dos casos utilizaram adolescentes para o transporte da droga).
+Note-se que este Tribunal já decidiu pela exclusão da continuidade delitiva quando o lapso temporal apurado foi bastante semelhante ao aqui analisado.
+ ..
+Por conseguinte, diante da inexistência dos requisitos do artigo 71 do Código Penal, não há como se falar em crime único, sendo correta a aplicação do concurso material de delitos.
+Note-se que o requerente, ao alegar contrariedade à lei e às provas dos autos, pretende uma reanálise de fatos já julgados. Contudo, suas alegações não foram minimamente comprovadas.
+Pelo exposto, verifica-se que o conjunto probatório foi exaustivamente examinado pela Turma Julgadora desta Corte Regional. Todos os julgadores, portanto, deram à prova dos autos interpretação aceitável e ponderada, não havendo fundamento para a desconstituição do decreto condenatório.
+Dessa forma, a defesa não demonstrou a contrariedade ao texto expresso de lei ou à evidência dos autos, fundamentos aptos a ensejar a revisão da sentença condenatória. Deve, pois, ser mantida a condenação pela prática dos crimes previstos no artigo 33, caput, c.c. artigo 40, incisos I, V e VI, e artigo 35, todos da Lei nº 11.343/2006, na forma do artigo 69, do Código Penal.
+Ora, no presente caso, a Corte local entendeu que o modo de execução dos delitos foi distinto, bem como a forma de atuação, o lugar e os envolvidos, de maneira a afastar o preenchimento dos requisitos objetivos e subjetivos necessários ao reconhecimento da ficção jurídica do crime continuado. Dessa forma, para se concluir pela continuidade delitiva, como requer a parte agravante, seria imprescindível o revolvimento do acervo fático-probatório, o que encontra óbice no disposto na Súmula 7/STJ. Precedentes: AgRg no AREsp 1.738.871/PR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 24/11/2020, DJe 27/11/2020; AgRg no AREsp 1.293.358/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 23/4/2019, DJe 10/5/2019; HC 469.096/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 27/11/2018, DJe 13/12/2018; HC 311.406/SC, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 23/2/2016, DJe 4/3/2016.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
