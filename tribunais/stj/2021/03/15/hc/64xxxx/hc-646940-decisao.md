@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MIGUEL SAGAScontra acórdão do Tribunal de Justiça do Estado de Santa Catarinaproferido na Apelação Criminal n.0000661-40.2018.8.24.0022.
+Consta nos autos que o Paciente foi condenado, em primeiro grau de jurisdição, àpena de 7 (sete) meses e 6 (seis) dias de detenção, em regime inicial semiaberto, como incurso nos arts. 306, § 1.º, inciso II e 309, ambos do Código de Trânsito Brasileiro e 329, caput, do Código Penal.
+Interposta apelação defensiva, o Tribunal estadual negou provimento ao recurso (fls. 376-383).
+Nesta impetração, a Impetrante alega constrangimento ilegal na negativa de substituição da pena privativa de liberdade por penas restritivas de direitos, pois "em se tratando de réu não reincidente específico e que tenha preenchido todos os requisitos dos incs. I, II e III do art.44 do CP, e não havendo fundamentação válida quanto ao fato de não ser a medida socialmente não recomendável (CP, art. 44, § 3.º), ao indeferir a substituição da pena" (fl. 11).
+Requer, liminarmente, a suspensão dos efeitos da condenação. No mérito, pleiteia a substituição dapena privativa de liberdade por multa ou, subsidiariamente, por penas restritivas de direitos.
+O pedido liminar foi indeferido (fls. 393-395).
+O Ministério Público Federal opinou pelaconcessão dowrit(fls. 398-400).
+É o relatório. Decido.
+O Tribunal de Justiça do Estado de Santa Catarinamanteve a sentença, ao negar provimento ao apelo defensivo, nos seguintes termos (fl. 380; sem grifos no original):
+"3. No tocante à pretensão subsidiária de substituição da pena privativa de liberdade por uma pena restritiva de direitos ou multa, nos termos do art. 44, §§2º e 3º, do Código Penal, também vislumbro impossível, porquanto, como bem pontuou o douto sentenciante, o apelante é reincidente em crime doloso (autos n. 0001209- 07.2014.8.24.0022 - evento 70), e o art. 44, II, do Código Penal veda tal benesse aos reincidentes.
+Ademais, ainda que o respectivo dispositivo legal ressalve no seu § 3º, "se o condenado for reincidente, o juiz poderá aplicar a substituição, desde que, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime", deve ser observada a discricionariedade do magistrado singular, que, atento às circunstâncias e particularidades do caso concreto, entendeu por não substituir a pena corporal, por não ser a medida socialmente recomendável ao caso concreto.
+E, mesmo que o delito seja distinto (lesão corporal no âmbito doméstico), tal fato por si só não corrobora o pedido de substituição, mas ao contrário denota o comportamento violento do réu e seu descaso com a vida alheia, de modo que a sanção alternativa não surtiria os efeitos necessários."
+Com efeito, segundo a jurisprudência do Superior Tribunal de Justiça, embora a reincidência genérica não impeça, por si só, a substituição da pena privativa de liberdade por restritivas de direitos, não há ilegalidade no seu indeferimento, quando declinadas razõesdemonstrando não ser socialmente recomendável a aplicação do art. 44 do Código Penal, como na espécie.
+A propósito:
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. REQUISITOS NÃO PREENCHIDOS (ARTS. 33 E 44, DO CÓDIGO PENAL). REINCIDÊNCIA EM CRIME DOLOSO. OMISSÃO CONFIGURADA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+ ..
+III - A reincidência em crime doloso do paciente, reconhecido na condenação, não autoriza a substituição de pena privativa de liberdade por outra restritiva de direitos, em virtude do não preenchimento de requisito subjetivo previsto no art. 44, inciso II, do Código Penal. Embargos de declaração acolhido, mas sem efeitos infringentes." (EDcl no HC 545.644/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO, DESEMBARGADOR CONVOCADO DO TJ/PE, QUINTA TURMA, julgado em 11/02/2020, DJe 19/02/2020.)
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.INADEQUAÇÃO. FURTO. REGIME PRISIONAL. CIRCUNSTÂNCIAS FAVORÁVEIS. RÉ REINCIDENTE. REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA. IMPOSSIBILIDADE. WRIT NÃO CONHECIDO.
+ ..
+4. Não faz jus a paciente à substituição da pena privativa de liberdade pela restritiva de direitos, haja vista ser reincidente em crime doloso e não ser socialmente recomendável a substituição, consoante vedação do art. 44, II, e § 3º, do Código Penal.
+5. Habeas corpus não conhecido." (HC 524.358/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019.)
+Ademais, concluir de modo diversoexigiria o revolvimento do conjunto fático-probatório dos autos, providência inviável emhabeas corpus.
+Cito o seguinte precedente,mutatis mutandis:
+"PENAL. AGRAVO INTERNO NOHABEAS CORPUS. CRIME DE TRÂNSITO.CONDUÇÃO DE VEÍCULO AUTOMOTOR SOB EMBRIAGUEZ(ART. 306, § 1º, II, DA LEI N.9.503/97). SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA.REINCIDÊNCIA NÃO ESPECÍFICA. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL.NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. ALTERAÇÃO DO ENTENDIMENTO.NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSÍVEL EM SEDE DE HABEAS CORPUS.AUSÊNCIA DE ILEGALIDADE. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. A decisão agravada deve ser mantida por seus próprios fundamentos, porquanto em sintonia com a jurisprudência pacífica do STJ.
+2. Nos termos do art. 44, § 3º, do CP e da jurisprudência desta Corte superior, a substituição da pena privativa de liberdade por restritiva de direitos, nos casos em que o agente possui reincidência não específica, somente deve ocorrer quando for socialmente recomendável.
+3.Dessa forma, afirmado, pelo Tribunala quo, a ausência de preenchimento dos requisitos legais, em razão de a medida não ser socialmente recomendável ao paciente, não se vislumbra ilegalidade a ensejar a concessão da ordem domandamus.Ademais, alterar o entendimento do Sodalício estadual demandaria a análise do conjunto fático-probatório, providência vedada na via do habeas corpus.
+4. Agravo regimental improvido."(AgInt no HC 389.274/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/05/2017, DJe 11/05/2017; sem grifos no original.)
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PENAL. ARTS. 306, § 1.º, INCISO II, E 309, AMBOS DO CÓDIGO DE TRÂNSITO BRASILEIRO.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS. EXPOSIÇÃO, PELO TRIBUNAL, DE DADOS CONCRETOS QUE EVIDENCIAM QUE A SUBSTITUIÇÃO NÃO É SOCIALMENTE RECOMENDÁVEL. IMPOSSIBILIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS EMHABEAS CORPUS. ORDEM DENEGADA.
