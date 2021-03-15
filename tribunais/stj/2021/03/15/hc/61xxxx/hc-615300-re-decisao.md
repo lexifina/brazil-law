@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto peloMINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 86):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LEI N. 13.964/2019. ALTERAÇÃO DOS PATAMARES DE PROGRESSÃO DO ART. 112 DA LEI DE EXECUÇÃO PENAL. RETROATIVIDADE DA LEI PENAL POSTERIOR MAIS BENÉFICA. ORDEM CONCEDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. " A  alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico)", de maneira que "não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V" (AgRg no HC n. 595.609/SP, relator o Ministro Nefi Cordeiro, Sexta Turma, julgado em 17/11/2020, DJe de 20/11/2020).
+2. Agravo regimental desprovido.
+Sustenta o recorrente a repercussão geral da matéria tratada, aduzindo que o aresto impugnado teria violado o art. 5º,incisos XLIII eXLVI, da Constituição Federal.
+Alega queteria havido opção legislativa legítima de seguir, tal como anteriormente à edição do Pacote Anticrime, com regras mais rigorosas de progressão de regime ao condenado reincidente em comparação com aquelas destinadas ao apenado primário.
+Destaca quea Lei n.13.964/2019 (Pacote Anticrime)estabeleceu a progressão de regime condicionada ao cumprimento de 40% (quarenta por cento) da pena apenas aos réus primários, poisseo réu forreincidente,"o percentual aplicável é de 60% (sessenta por cento) da pena, não tendo importância o fato de ser reincidente específico ou genérico" (e-STJ fl. 118).
+Aponta que a reincidência, genérica ou específica, é fator que exige regime mais rigoroso e fração maior de cumprimento de pena.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 130-138.
+É o relatório.
+Compulsando-se os autos, verifica-se que a controvérsia cinge-se à questão da alteração dos patamares de progressão de regime de cumprimento da pena pela Lei n. 13.964/2019, estando o acórdão recorrido assim fundamentado (e-STJ fls. 105 e 108):
+Não obstante os judiciosos argumentos do agravante, reitera-se que esta Sexta Turma vem decidindo no sentido de que, com a nova redação dos incisos IV e VI do art. 112 da Lei de Execução Penal, alterada pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência não específica, de maneira que tal situação, como prescrevem os princípios gerais do direito penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação por analogia da fração de 3/5 (ou 60%) realizada pelas instâncias ordinárias no caso em tela, por se tratar de analogia in malam partem, possibilidade vedada em nosso ordenamento.
+ ..
+Portanto, sendo o delito anterior não hediondo nem equiparado, de rigor a aplicação da fração de 2/5 (ou 40%) para efeitos de progressão de regime, não obstante a existência de precedentes da Quinta Turma desta Corte em sentido contrário.
+Desse modo,a análise da matéria ventilada depende do exame doart. 112 da Lei de Execução Penal e da Lei n. 13.964/2019, razão pela qualeventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Em casos semelhantes, assim tem decidido o Supremo Tribunal Federal:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROGRESSÃO DE REGIME. REQUISITOS. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DO DEVIDO PROCESSO LEGAL E DA TAXATIVIDADE. SÚMULA 282. OFENSA REFLEXA. DESPROVIMENTO. 1. É inadmissível o recurso extraordinário quando não ventilada, na decisão recorrida, a questão constitucional suscitada. Súmula 282/STF. 2. A matéria pertinente aos requisitos da progressão de regime pressupõem a incursão na legislação ordinária de regência, preconizada no art. 112 da Lei de Execução Penal e no art. 33, § 4º, do Código Penal, o que, por configurar suposta ofensa indireta à Constituição Federal, refoge à destinação constitucional do recurso extraordinário. 3. Agravo regimental desprovido.
+(ARE 1271576 AgR, Relator(a): EDSON FACHIN, Segunda Turma, julgado em 16/11/2020, PROCESSO ELETRÔNICO DJe-277 DIVULG 20-11-2020 PUBLIC 23-11-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ALTERAÇÃO DOS PATAMARES PREVISTOS NO ART. 112 DA LEI DE EXECUÇÃO PENAL.LEI N. 13.964/2019 (PACOTE ANTICRIME). RETROATIVIDADE. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
