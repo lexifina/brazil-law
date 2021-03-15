@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial, interposto por Tropical Fresh Alimentos S/A, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+MANDADO DE SEGURANÇA. ICMS. MULTA. Alegação de que a multa punitiva foi aplicada em montante superior a 200% do valor do imposto. Apelada que informa que a multa foi calculada após a atualização do principal, nos termos do artigo 85 § 9ª da Lei 6.374/89, bem como que a multa não ultrapassou 100% do valor do tributo. Controvérsia a respeito do percentual aplicado a título de multa punitiva. Necessidade de dilação probatória, incabível em sede de mandado de segurança. Sentença de concessão parcial da segurança mantida. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte recorrente apontou a ofensa ao art. 1.022, do CPC/2015, aduzindo, em síntese, que, não obstante a oposição dos embargos de declaração, não considerou o Tribunal de origem que o Fisco Estadual aplicou ao caso dos autos multa originária de 150% do valor do débito, conforme consta do próprio auto de infração, tendo o acórdão recorrido mantido evidente erro material.
+Foram apresentadas contrarrazões para que seja mantido o acórdão recorrido.
+É o relatório. Decido.
+Não há que se falar em negativa de prestação jurisdicional.
+No caso, o Tribunal de origem manifestou-se de forma fundamentada sobre o cerne dos pontos discutidos no caso concreto, considerando, em suma, a inadequação da via eleita do mandado de segurança, diante da necessidade de dilação probatória para a demonstração do valor excessivo da multa aplicada.
+Confira-se trecho do acórdão recorrido:
+Alega a autora, que a multa punitiva é excessiva, pois foi aplicada em montante superior a 200% do valor do tributo.
+Entretanto, não restou comprovado, de plano, que a multa aplicada excede o montante estabelecido para a infração praticada.
+Conforme as informações apresentadas pela Fazenda Estadual, "a multa não ultrapassou 100% do valor do tributo, sendo que o autor confunde porcentagem da multa com a atualização do valor principal antes da imposição da multa determinada pelo art. 85, § 9ª da Lei 6.374/89" (fls. 299).
+De fato, estabelece o § 9º do artigo 85, da Lei 6.374/89, que "as multas previstas neste artigo, excetuadas as expressas em UFESP, devem ser calculadas sobre os respectivos valores básicos atualizados observando-se o disposto no artigo 96 desta lei"
+É certo que, para fins de mandado de segurança, "direito líquido e certo é o que se apresenta manifesto na sua existência, delimitado na sua extensão e apto a ser exercitado no momento da impetração. Por outras palavras, o direito invocado, para ser amparável por mandado de segurança, há de vir expresso em norma legal e trazer em si todos os requisitos e condições de sua aplicação ao impetrante: se sua existência for duvidosa; se sua extensão ainda não estiver delimitada; se seu exercício depender de situações e fatos ainda indeterminados, não rende ensejo à segurança, embora possa ser defendido por outros meios judiciais. (..) Em última análise, direito líquido e certo é direito comprovado de plano" (Hely Lopes Meirelles, Mandado de Segurança, 29ª ed., São Paulo: Malheiros, 2006, p. 36/37).
+À evidência, a tese da impetrante revela a necessidade de dilação probatória, incompatível com o procedimento célere do mandado de segurança.
+Há controvérsia a respeito do percentual aplicado a título de multa punitiva. Não está demonstrado, de plano, que a apelada tenha aplicado multa em patamar superior ao previsto na legislação.
+(..) (fl. 328)
+Consoante a jurisprudência pacífica do Superior Tribunal de Justiça, tem-se que o julgador não está obrigado a rebater, um a um, todos os argumentos ou apreciar todos dispositivos de lei invocados pelas partes quando, por outros meios que lhe sirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia; devendo, assim, enfrentar as questões relevantes imprescindíveis à resolução do caso.
+Nesse sentido: AgInt no AREsp 1575315/PR, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2020; REsp 1.719.219/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 23/5/2018; AgInt no REsp n. 1.757.501/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 3/5/2019; AgInt no REsp n. 1.609.851/RR, Rel. Min. Regina Helena Costa, Primeira Turma, Dje 14/8/2018.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
