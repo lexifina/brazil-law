@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interno interposto por NILTON SCHROEDER (parte autora/exequente)contra decisão da Presidência do Superior Tribunal de Justiça (STJ).
+Conforme a decisão ora agravada, o agravo em recurso especial interposto pela parte exequente deixou de ser conhecido em virtude da ausência de impugnação específica dos fundamentos adotados pela Corte de origem para não admitir o recurso especial, em particular a incidência da Súmula 7 do STJ.
+No presente agravo interno, explica-se que o agravo em recurso especial impugnou especificamente a decisão lavrada pela Corte de origem, inclusive a incidência da Súmula 7do STJ.
+A argumentação da parte ora agravante procede. Verifico, com efeito, que o agravo em recurso especial atacou satisfatoriamente os fundamentos da decisão que não admitiu o recurso especial. Existe, na petição de tal agravo, tópico específico contendo argumentos em desfavor da aplicação do óbice sumular que, segundo a decisão ora agravada, não teria sido impugnado. Em vista disso, entendo pertinente a reconsideração da decisão ora agravada.
+Promovo, assim, o exame do recurso especial, o qual foi interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. TELEFONIA. AÇÃO DE ADIMPLEMENTO CONTRATUAL. DECISÃO AGRAVADA QUE DETERMINOU ENTENDEU DESNECESSÁRIA A APRESENTAÇÃO, PARA A ELABORAÇÃO DO CÁLCULO DA DÍVIDA, DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA FIRMADO ENTRE AS PARTES.INSURGÊNCIA DO AUTOR.ENUNCIADO ADMINISTRATIVO3 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO REGIDO PELO CÓDIGO DE PROCESSO CIVIL DE 2015.RECONHECIMENTO DA VALIDADE DA UTILIZAÇÃO DA RADIOGRAFIA DO CONTRATO COMO BASE PARA O CÁLCULO DO MONTANTE DEVIDO, NOS CASOS EM QUE A CONTRATAÇÃO OCORREU NA MODALIDADE PLANTA COMUNITÁRIA DE TELEFONIA. RECURSO DESPROVIDO.
+Os embargos de declaração opostos a esse acórdão foram rejeitados.
+Em seu recurso especial, NILTON SCHROEDERalega que o acórdão recorrido contrariou os artigos 509, 524 e 1.022 do Código de Processo Civil (CPC) de 2015 e o artigo 475-Gdo CPC de 1973.
+Reclama de negativa de prestação jurisdicional.
+Aponta ofensa à coisa julgada.
+Sustenta que a radiografia do contrato de participação financeira não contém os dados de que depende a parte exequente para elaborar o demonstrativo discriminado e atualizado do crédito.
+Argumenta que a parte ré/executada deve informar o valor integralizado, o qual consta do contrato.
+Primeiramente, não convence a conjectura de que o Tribunal de origem deixou de enfrentar ponto sobre o qual estaria obrigado a se pronunciar. Observo que os embargos de declaração, ainda que opostos para prequestionamento de normas jurídicas, são cabíveis quando a decisão padece de omissão (em relação a ponto relevante, necessário, útil e efetivamente influente para o julgamento da causa), contradição, obscuridade ou erro material.
+É legítimo, portanto, o manejo de embargos de declaração para suprir omissão de tema sobre o qual devia se pronunciar o julgador. É verdade também que este não está obrigado a enfrentar todos os pontos abordados pelas partes, mas deve, ao emitir juízo (com base em seu livre convencimento) acerca das questões que considerar suficientes e relevantes para fundamentar sua decisão, enfrentar motivadamente os argumentos das partes que, em tese, poderiam infirmar a conclusão adotada. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. DANO MORAL. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1226329/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/06/2018, DJe 29/06/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REJEIÇÃO.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+3. "Não configura omissão o simples fato de o julgador não se manifestar sobre todos os argumentos levantados pela parte, uma vez que está obrigado apenas a resolver a questão que lhe foi submetida com base no seu livre convencimento (art. 131, CPC)." (EDcl nos EDcl no Resp 637.836/DF, Rel. Ministro Felix Fischer, Quinta Turma, DJ 22/5/06).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1232995/PI, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018)
+No caso, o acórdão recorrido não se ressente de falta de clareza, nem padece de obscuridade, tampouco apresenta erros materiais, lacunas ou contradições.
+Note-se que o Tribunal local enfrentou motivadamente os argumentos apresentados no agravo de instrumento - e reiterados nos embargos de declaração -, com os quais a parte exequente tencionou ver reconhecida a necessidade de utilização, como base para elaboração do demonstrativo discriminado e atualizado docrédito, do valor indicado no contrato. Não identifico, delineado esse quadro, ilegalidade na rejeição dos embargos de declaração.
+O acórdão recorrido apresenta fundamentos coerentes e ideias concatenadas. Não contém afirmações (premissas) que se rechaçam ou proposições entre si inconciliáveis (incompatíveis). Existe, em suma, harmonia entre a motivação e a conclusão.
+Recordo, por oportuno, que não constituem motivos para o reconhecimento de deficiência da prestação jurisdicional: (i) a circunstância de o entendimento adotado no acórdão recorrido não ser o esperado/pretendido pela parte; (ii) a ausência de menção expressa às normas jurídicas suscitadas pela parte; (iii) e a falta de manifestação sobre aspectos que as partes consideram importantes (em geral, benéficos às suas teses), se na decisão houverem sido enfrentadas as questões cuja resolução influencia efetivamente a solução da causa.
+Adiciono que a finalidade da jurisdição é alcançar a composição da lide, não discutir teses jurídicas nos moldes expostos pelas partes.
+Avançando, observo que o acórdão recorrido não se manifestou a respeito da (suposta) ofensa à coisa julgada, sendo que o tema não foi suscitado no agravo de instrumento, nem nos embargos de declaração. Assim, sem o imprescindível prequestionamento da questão federal, requisito viabilizador da instância especial e exigido inclusive com relação às matérias de ordem pública, não se viabiliza o conhecimento do recurso especial, no ponto. Incidem, inarredavelmente, as Súmulas 282 e 356 do Supremo Tribunal Federal (STF). Confiram-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE ESCRITURA DE COMPRA E VENDA C/C REIVINDICATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO.PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. MATÉRIA DE ORDEM PÚBLICA. EXIGÊNCIA. AQUISIÇÃO DE IMÓVEL EM NOME PRÓPRIO COM RECURSOS DESVIADOS DA PESSOA JURÍDICA. CONVERSÃO DE OFÍCIO DA OBRIGAÇÃO DE FAZER EM PERDAS E DANOS. JULGAMENTO EXTRA ET ULTRA PETITA. NÃO OCORRÊNCIA. VALOR DA INDENIZAÇÃO. LUCROS CESSANTES E JUROS DE MORA. SUPOSTA INVERSÃO DO ÔNUS PROBATÓRIO. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E CONTRATUAL. SÚMULAS 282 E 356/STF E 5, 7 E 83/STJ.
+1. Acórdão recorrido publicado antes da entrada em vigor da Lei 13.105, de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte.
+2. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 131, 458 e 535 do Código de Processo Civil de 1973.
+3. Não tendo havido o prequestionamento de parte dos temas postos em debate nas razões do recurso especial, requisito do qual não estão imunes nem mesmo as matérias de ordem publica, incidentes os enunciados 282 e 356 da Súmula do Supremo Tribunal Federal.
+4. Não cabe, em recurso especial, reexaminar matéria fático-probatória e contratual (Súmulas 5 e 7/STJ).
+5. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 973.262/PB, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 07/12/2020)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. IRRESIGNAÇÃO DA PARTE.EFEITOS INFRINGENTES. IMPOSSIBILIDADE. PREQUESTIONAMENTO PARA FINS DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. INVIABILIDADE. RECURSO ESPECIAL. REVISÃO DO ENQUADRAMENTO JURÍDICO DOS FATOS.POSSIBILIDADE. ENUNCIADO Nº 07 DA SÚMULA/STJ. NÃO INCIDÊNCIA.
+1. A atribuição de efeitos modificativos aos embargos declaratórios é possível apenas em situações excepcionais, em que sanada a omissão, contradição ou obscuridade, a alteração da decisão surja como conseqüência lógica e necessária.
+2. Não há previsão no art. 535 do CPC, quer para reabertura do debate, quer para análise de questões não abordadas nos acórdãos recorridos, notadamente quando fundados os embargos de declaração no mero inconformismo da parte.
+3. Os embargos de declaração, mesmo quando manejados com o propósito de prequestionamento, são inadmissíveis se a decisão embargada não ostentar qualquer dos vícios que autorizam a sua interposição.
+4. Não se admite, no âmbito do recurso especial, a oposição dos embargos de declaração com a finalidade de prequestionamento de dispositivos constitucionais, como meio transverso de forçar a abertura da via extraordinária.
+5. O conhecimento do recurso especial como meio de revisão do enquadramento jurídico dos fatos realizado pelas instâncias ordinárias se mostra absolutamente viável; sempre atento, porém, à necessidade de se admitirem esses fatos como traçados pelas instâncias ordinárias, tendo em vista o óbice contido no enunciado nº 07 da Súmula/STJ. Precedentes.
+6. Embargos de declaração no recurso especial rejeitados.
+(EDcl no REsp 1286704/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/11/2013, DJe 09/12/2013)
+Prosseguindo, anoto que, ao modo de entender do Tribunal de origem, " ..  a radiografia do contrato é o documento que deve ser utilizado para a realização do estudo que irá apurar o valor devido.  .. ".
+Nesse quadro, penso que investigar o acerto da conclusão do acórdão recorrido é questão cujo julgamento envolve reexame de matéria fática, a tanto não servindo o recurso especial. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DE FATOS. SÚMULA Nº 7/STJ.
+1. Na hipótese, a reapreciação da conclusão do aresto impugnado, no sentido de que a radiografia do contrato não contém todos os dados necessários ao deslinde da questão, encontra óbice na Súmula nº 7 do Superior Tribunal de Justiça, por ambas as alíneas do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no AREsp 998.162/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/04/2017, DJe 07/04/2017)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. AQUISIÇÃO DE LINHA TELEFÔNICA. CUMPRIMENTO DE SENTENÇA. RADIOGRAFIA DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. SUFICIÊNCIA. SÚMULAS 5 E 7 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ.
+1. O recurso especial discute a suficiência da radiografia do contrato de participação financeira para elaboração do cálculo do valor devido. O julgamento dessa questão demanda interpretação de cláusulas contratuais e reexame de matéria fática. Incidem as Súmulas 5 e 7 do Superior Tribunal de Justiça (STJ). Precedentes.
+ ..
+3. Agravo interno a que se nega provimento
+(AgInt no AREsp 856.199/SC, de minha relatoria, Quarta Turma, julgado em 6/9/2016, DJe 15/9/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. SUBSCRIÇÃO DE AÇÕES. CUMPRIMENTO DE SENTENÇA. CÁLCULO DE PERITO HOMOLOGADO. BASE DE CÁLCULO. CONTRATO. REVISÃO. SÚMULA 7/STJ.
+1. O acórdão do Tribunal de origem consignou que os cálculos dos valores devidos observaram o contrato firmado entre as partes. Dessa forma, a análise da alegação de que no cálculo pericial não fora utilizado valor de radiografia de contrato que supostamente teria amparado a sentença demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial (Súmula 7/STJ).
+2. Agravo regimental não provido, com aplicação de multa.
+(AgRg no AREsp 414.433/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/11/2013, DJe 26/11/2013)
+Incide a Súmula 7 do Superior Tribunal de Justiça (STJ).
+Em face do exposto, reconsidero a decisão ora agravada e nego provimento ao agravo em recurso especial.
+Intimem-se.
