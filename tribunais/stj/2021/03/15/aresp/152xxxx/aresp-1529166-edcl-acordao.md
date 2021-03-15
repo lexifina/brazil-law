@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. INTEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL. PROTOCOLO. CERTIDÃO DE PUBLICAÇÃO. SECRETARIA DO TRIBUNAL. FALHA. ACOLHIMENTO. EFEITOS INFRINGENTES.
+1. Consoante o disposto no art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão acerca daqual devia se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no artigo 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válidae (c) corrigir o erro material.
+2. O erro da secretaria do tribunal de origempara o qual não concorreu a partenão pode prejudicá-la, de modo que, na hipótese, deve ser afastada a intempestividade do agravo em recurso especial.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para afastar o óbice da intempestividade do agravo em recurso especial.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por MARAJÓIMOBILIÁRIA LTDA. aoacórdãoassim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. TRIBUNAL DE ORIGEM. CERTIDÃO DE PUBLICAÇÃO. JUNTADA AOS AUTOS. ERRO. ÔNUS DA AGRAVANTE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça entende que constitui ônus do recorrente demonstrar, no ato da interposição do recurso e por meio de documento hábil, a sua tempestividade ou comprovar eventual erro na certidão de publicação.
+3. Agravo interno não provido" (e-STJ fl. 1.722).
+Nas presentes razões (e-STJ fls. 1.732/1.746), a embargante aponta omissão e obscuridade no julgado combatido, porquanto o agravo interno demonstrou a existência de erro material na certidão de publicação expedida pelo tribunal de origem.
+Afirma que, surpreendida com o reconhecimento da intempestividade do agravo em recurso especial, diligenciou junto à instância ordinária e ao Diário de Justiça eletrônico informações a respeito da data da disponibilização da decisão que inadmitiu o recurso especial, sendo constatado que ocorreu no dia 21/3/2019,não no dia 20/3/2019, como certificado.
+Sustenta que referido erro foi constatado pelo tribunal local, sendo emitida nova certidão para sua correção, aqual foi juntadaaos autos.
+Aponta que o prazo final para a interposição do recurso se deu no dia 12/4/2019, de modo que é tempestivo o agravo em recurso especial.
+Assevera, por se tratar de vício sanável, a possibilidade de juntada posterior de documento que comprove a tempestividade recursal.
+Defende a necessidade de aplicaçãodos princípios da primazia da resolução do mérito e da instrumentalidade das formas.
+Ao final, requer o acolhimento do recurso.
+A parte contráriaapresentou impugnação (e-STJ fls. 1.750/1.769).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL. INTEMPESTIVIDADE. AGRAVO EM RECURSO ESPECIAL. PROTOCOLO. CERTIDÃO DE PUBLICAÇÃO. SECRETARIA DO TRIBUNAL. FALHA. ACOLHIMENTO. EFEITOS INFRINGENTES.
+1. Consoante o disposto no art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração somente são cabíveis para (a) esclarecer obscuridade ou eliminar contradição, (b) suprir omissão de ponto ou questão acerca daqual devia se pronunciar o juiz, de ofício ou a requerimento, incluindo-se as condutas descritas no artigo 489, § 1º, do CPC/2015, que configurariam a carência de fundamentação válidae (c) corrigir o erro material.
+2. O erro da secretaria do tribunal de origempara o qual não concorreu a partenão pode prejudicá-la, de modo que, na hipótese, deve ser afastada a intempestividade do agravo em recurso especial.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para afastar o óbice da intempestividade do agravo em recurso especial.
+VOTO
+Os aclaratórios merecem ser acolhidos.
+Registra-se, de início, que a atribuição de efeitos infringentes aos embargos de declaração é possível, em hipóteses excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que, sanada a omissão, a contradição ou a obscuridade, a alteração da decisão surja como consequência necessária.
+Confira-se:
+"EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ACOLHIMENTO COM EFEITOS INFRINGENTES. TEMPESTIVIDADE DO AGRAVO REGIMENTAL COMPROVADA. PRORROGAÇÃO DO PRAZO DO RECURSO POR ATO DA PRESIDÊNCIA DO STJ. COMPROVAÇÃO DESNECESSÁRIA. CAPITALIZAÇÃO MENSAL À LUZ DA MP 2.170-36/2001. OMISSÃO DO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO ART. 535 DO CPC. ACOLHIMENTO DA TESE DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL DO ACÓRDÃO ESTADUAL. RETORNO DOS AUTOS À ORIGEM.
+(..)
+2. "A atribuição de efeitos modificativos aos embargos de declaração, a despeito de sua excepcionalidade, é medida perfeitamente cabível nas situações em que, sanada a omissão, contradição ou obscuridade, a alteração do julgado surja como consequência natural da correção ali efetuada." (AgRg nos EDcl nos EDcl no Ag 1156920/SP, relator Min. João Otávio de Noronha, DJe 21/9/2010).
+3. Tendo o Tribunal de origem no julgamento dos embargos declaratórios persistido na omissão quanto à incidência ao caso da regra do art. 5º da MP 2.170-36/2001, caracteriza-se como violado o art. 535 do Código de Processo Civil.
+4. Embargos de declaração acolhidos com efeitos infringentes, para anular os acórdãos de fls. 534/538 e 546/551, dar provimento ao agravo regimental e, acolhendo a preliminar de negativa de prestação jurisdicional quanto à vigência do art. 5º da MP nº 2.170-36/2001, prover o recurso especial, prejudicada a decisão de fls. 514/516 e as demais questões de mérito"(EDcl nos EDcl no AgRg no REsp nº 649.589/RS, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 5/9/2012 - grifou-se).
+Conquanto tenha ventiladoquestões estranhas ao agravo interno, referentes àcomprovação de feriadolocal, procede a irresignação manifestada nos presentes aclaratórios quanto à alegação de que houve omissão no tocante à certidão do tribunal de origem corrigindo certidão anterior, em que constou erro material no que tangeà data da disponibilização da decisão que inadmitiu o recurso especial.
+De fato, mediante análise dos autos, verificou-se que a decisão do tribunal deorigem que examinou a admissibilidade prévia do recurso especial foi disponibilizada em 20/3/2019 e considerada publicada no dia 21/3/2019, conforme certidão defl. 1.631 (e-STJ), sendo o agravo interposto somente em 12/4/2019 (e-STJ fl. 1.633), o que resultaria em suaintempestividade.
+Contudo, a embargante juntou aos autos certidão da instância ordinária corrigindo o erro material, restando consignado que a disponibilização da publicaçãoocorreu no dia 21/3/2019.
+Tal situaçãoenseja o reconhecimento da tempestividade doagravo em recurso especial.
+De fato, conforme o entendimento jurisprudencial desta Corte, oerro da secretaria do tribunal de origem, para o qual não concorreu a parte, não pode prejudicá-la.
+A propósito:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO OPOSTOS VIA FAC-SIMILE. ORIGINAL APRESENTADO TEMPESTIVAMENTE, NOS TERMOS DO ART. 2º DA LEI 9.800/99, MAS EQUIVOCADAMENTE ANEXADO, NO STJ, A OUTRA PETIÇÃO. CERTIDÃO, NOS AUTOS, DE QUE O ORIGINAL NÃO FORA APRESENTADO. JULGAMENTO PELO NÃO CONHECIMENTO DOS DECLARATÓRIOS. POSTERIOR CERTIDÃO DA SECRETARIA DO TRIBUNAL, RECONHECENDO O EQUÍVOCO NO PROCESSAMENTO DO ORIGINAL DOS DECLARATÓRIOS. NECESSIDADE DE PROCESSAMENTO DESSE RECURSO, ANTE A SUA MANIFESTA TEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO CONHECIDOS, COM EFEITOS INFRINGENTES. INTEMPESTIVIDADE AFASTADA. ALEGADA CONTRADIÇÃO. ART. 535, I, DO CPC. VÍCIO INEXISTENTE. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I.Dispõe o art. 66 do RISTJ que as petições e os processos serão registrados, no protocolo da Secretaria do Tribunal, nomesmo dia do recebimento. Assim, a parte não pode ser prejudicada por erro administrativo do Tribunal, que deixa de encaminhar, ao protocolo competente, o original da petição recursal, no mesmo dia em que recebida, ensejando equivocado julgamento, em 01/04/2014, pelo não conhecimento dos Embargos de Declaração, por não encaminhado o original do recurso, ao STJ, noprazo do art. 2º, caput, da Lei 9.800/99.
+II. Conforme ulteriormente reconhecido pela Seção de Protocolo de Petições do STJ, o original dos Embargos de Declaração opostos deu entrada, nesta Corte, em 18/02/2014 - tempestivamente, portanto -, e, por engano, foi anexado a outra petição. Percebido o equívoco, procedeu-se à devida correção, com o protocolo do original dos Declaratórios em 23/04/2014.
+III. Verificado o erro cometido pela Secretaria deste Tribunal, para o qual não concorreu a embargante, bem como que o original dos Embargos de Declaração deu entrada tempestivamente no STJ, deve esse recurso ter regular processamento. Precedentes do STJ: EDcl no AgRg no AREsp 269.661/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/06/2013; EDcl no AgRg nos EDcl nos EAg 905.050/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA SEÇÃO, DJe de 19/03/2013.
+IV. Embargos de Declaração conhecidos, com efeitos infringentes. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pelo embargante.
+V. Inexistindo, no acórdão embargado, a alegada contradição, nos termos do art. 535, I, do CPC, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da embargante com as conclusões do decisum.
+VI. Embargos de Declaração conhecidos, com efeitos infringentes, e, no mérito, rejeitados, à míngua de vícios"(RCD nos EDcl no REsp 1.405.787/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 5/6/2014, DJe 13/6/2014).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA. INTEMPESTIVIDADE. CERTIDÃO DE PUBLICAÇÃO EMITIDA PELO TRIBUNAL DE ORIGEM. ERRO MATERIAL. DECISÃO RECONSIDERADA. RECURSO PROVIDO.
+1. Agravo interno contra decisão da Presidência, que não conheceu do recurso especial, por intempestividade.
+2. Ocorrência de erro material na certidão exarada pelo Tribunal de Justiça, demonstrada com a juntada de cópia do Diário de Justiça Eletrônico, comprovando a tempestividade do recurso especial.
+3. Agravo interno provido para que, afastada a intempestividade, seja processado o recurso especial"(AgInt nos EDcl no REsp 1.718.021/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 30/8/2018, DJe 18/9/2018).
+Assim, verificado o erro cometido pela secretaria do tribunal local, há de se reconhecer a apresentação tempestiva do agravo em recurso especial, ocorrida em 12/4/2019.
+Ante o exposto, acolho os embargos de declaração, com efeitos modificativos, para afastar o óbice da intempestividadea fim de anular a decisão e o acórdão proferidos(e-STJ fls. 1.679/1.680 e 1.722/1.725) e possibilitar, oportunamente, a apreciação do agravo em recurso especial.
+É o voto.
