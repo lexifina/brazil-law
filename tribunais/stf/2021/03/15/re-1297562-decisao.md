@@ -1,0 +1,33 @@
+D E C I S Ã O
+    Trata-se de recurso extraordinário interposto contra acórdão do Tribunal Regional da 4ª Região que, confirmado em sede de embargos de declaração, está assim ementado:
+    “PROCESSO PENAL. CRIMES CONTRA A ORDEM TRIBUTÁRIA. COMPENSAÇÕES INDEVIDAS. TÍTULOS DA DÍVIDA PÚBLICA EXTERNA. INVIABILIDADE. ELEMENTOS DO DELITO CARACTERIZADOS. DOLO. DOSIMETRIA. CONSEQUÊNCIAS DO DELITO, MANUTENÇÃO. CONCURSO MATERIAL. AFASTAMENTO. CONTINUIDADE DELITIVA. ANUALIDADE. EXECUÇÃO PROVISÓRIA DAS PENAS. AFASTAMENTO
+    1. A tentativa de fraude, mediante a utilização de títulos da dívida pública, tem sido corriqueira junto à Receita Federal.
+    2. A a Secretaria do Tesouro Nacional, órgão responsável pela administração da dívida pública federal, interna e externa, alertou, recentemente, que todos os títulos emitidos na forma da Lei nº 10.179/01 foram resgatados nos respectivos vencimentos, não havendo nenhum na condição de 'vencido'.
+    3. Face à demonstração inequívoca dos elementos caracterizadores do delito, impõe-se a manutenção da condenação.
+    4. Sendo o réu é empresário experiente, estando à frente de empresa de grande porte, não sendo verossímil que desconhecesse o imbróglio que permeia a utilização e o reconhecimento destes títulos de crédito.
+    5. O réu causou um prejuízo cumulado aos cofres públicos que, acrescido dos consectários legais, é superior a R$ 100.000,00, patamar estabelecido por essa Corte da 4ª Região como divisor de águas para a valoração negativa desta circunstância judicial (cf. TRF4, ENUL 2003.71.07.011261-1, Quarta Seção, Relator Paulo Afonso Brum Vaz, D.E. 02/07/2010).
+    6. O que se considera para identificar a caracterização dos delitos de sonegação fiscal, em sua respectiva individualidade, não é o número de condutas, mas o número de fatos geradores, impondo-se o afastamento do concurso material.
+    7. Considerando a decisão do Plenário do Supremo Tribunal Federal, julgando procedentes as Ações Diretas de Constitucionalidade nº 43, 44 e 54, assentando a constitucionalidade do art. 283 do Código de Processo Penal, na redação dada pela Lei nº 12.403, de 4 de maio de 2011, afasta-se a possibilidade de execução antecipada das penas. ”
+    (Apelação Criminal n° 5029421-88.2016.4.04.7000/PR, Desembargadora Federal Claudia Cristina Cristofani)
+    Em suas razões, a parte recorrente alega que o acórdão recorrido violou as normas contidas no art. 5º, LIV, LV e LVII, da Constituição da República, em decorrência de alegada responsabilidade objetiva do recorrente e de suposta ocorrência de vício na dosimetria da pena.
+    Tal o contexto, reputo inadmissível o recurso extraordinário.
+    Observo, no que toca à alegada violação à norma contida no art. 5º, LV e LVII, da Constituição da República, em decorrência de suposta responsabilização objetiva do recorrente, que o acórdão recorrido, ao tratar da autoria e do dolo, assim afastou tal alegação:
+    “(...) da valoração probatória ressai evidente que a responsabilização do acusado não se dá pelo simples fato de ele figurar como administrador da pessoa jurídica, mas sim em razão de haver elementos suficientes nos autos que revelam o conhecimento e assentimento do apelante acerca da prática dos delitos contra a ordem tributária. Ressai do próprio interrogatório do réu a participação em várias reuniões com a assessoria tributária, a fim de decidir sobre a utilização dos títulos na compensação tributária.”
+    Vê-se, desse modo, que, para acolher a tese defensiva – ocorrência de responsabilização objetiva – e afastar as conclusões do acórdão recorrido, seria indispensável o reexame de todo o conjunto fático-probatório produzido nos autos. Incide, pois, o óbice do Enunciado 279 da Súmula do Supremo Tribunal Federal, que possui a seguinte dicção:
+    “Para simples reexame de prova não cabe recurso extraordinário.”
+    Em casos fronteiriços, há – entre muitos outros – os seguintes precedentes (RE 924.414-AgR/SC, Ministra Rosa Weber; ARE 723.458-AgR/RS, Ministro Luiz Fux; ARE 1.260.103-ED-segundos-AgR/RS, Ministro Ricardo Lewandowski; ARE 1.301.793-AgR/RS, Ministra Cármen Lúcia):
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Penal e Processual Penal. 3. Estelionato majorado. Art. 171, § 3º, do Código Penal. 4. Ofensa indireta e reflexa à Constituição Federal. 5. Questões atinentes à autoria e à materialidade do delito. Necessidade de revolvimento do conjunto fático-probatório dos autos. Óbice da Súmula 279/STF. 6. Tema 660 da sistemática de repercussão geral. 7. Precedentes. 8. Agravo regimental não provido.”
+    (ARE 1.281.309-AgR/PR, Ministro Gilmar Mendes – com meus grifos)
+    Por outro lado, melhor sorte não socorre a parte recorrente no que toca à alegada violação à norma contida no art. 5º, LIV, da Constituição da República, decorrente de suposta ocorrência de vício na dosimetria da pena.
+    Vejamos que o Supremo Tribunal Federal, na análise do Tema 660 da repercussão geral, entendeu ser destituída de repercussão geral a questão atinente à suposta violação aos princípios do contraditório, ampla defesa, dos limites da coisa julgada e do devido processo legal, em acórdão assim ementado:
+    “Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.”
+    (ARE 748.371-RG/MT, Ministro Gilmar Mendes – com meus grifos)
+    Observo que o acórdão recorrido, ao proceder à análise da dosimetria da pena, adotou fundamentação eminentemente infraconstitucional, modo que a suposta ofensa aos dispositivos constitucionais apontados pelo recorrente qualificar-se-ia como reflexa, circunstância que impede a via extraordinária.
+    Em casos fronteiriços, há – entre muitos outros – os seguintes precedentes (ARE 1.227.082-ED/MG, Ministro Lewandowski; ARE 1.279.027-AgR/RS, Ministro Presidente).
+    “3. Por ocasião do exame do AI nº 742.460/RJ, Relator o Ministro Cezar Peluso, o Supremo Tribunal Federal concluiu pela ausência de repercussão geral de questões relativas à individualização e à dosimetria de pena, por demandarem exame prévio da legislação infraconstitucional.”
+    (ARE 1.144.653-AgR/RJ, Ministro Dias Toffoli – com meus grifos)
+    Ante o exposto, com fundamento no art. 932, III, do CPC e no art. 21, § 1º, do RISTF, não conheço do recurso extraordinário.
+    Intime-se. Publique-se.
+    Brasília, 15 de março de 2021.
+Ministro NUNES MARQUES
+Relator
