@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO IMPROVIDO.
+1. A ausência de impugnação a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão de fls. 901-902 que não conheceu do agravo em recurso especial.
+O agravante sustenta que "a discussão que se propõe está adstrita à análise dos fundamentos lançados no acórdão recorrido. Para tanto, não se exige o reexame material cognitivo, mas, tão somente, revaloração da prova especificamente admitida e considerada suficiente no próprio acórdão, ora recorrido".
+Afirma que "o entendimento consolidado do STJ é no sentido de que como atividade discricionária vinculada do julgador, será revista nas hipóteses de manifesta ilegalidade ou arbitrariedade, quando não observados os parâmetros da legislação de regência e o princípio da proporcionalidade".
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+O recurso especial foi interposto com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Não sendo admitido na instância de origem, pelos óbices dos verbetes sumulares n. 284/STF, divergência não comprovada e 7/STJ e 83/STJ (fls. 901-902):
+VISTOS.
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, visando a impugnar o acórdão proferido pela 9 a Câmara de Direito Criminal.
+A Procuradoria Geral de Justiça opinou pelo indeferimento do recurso ou pelo desprovimento no mérito.
+É o relatório.
+Verifico a existência de óbice processual que implica na inadmissão do reclamo.
+Com efeito, a contrariedade à Constituição Federal somente deveria ser objeto de recurso extraordinário, não sendo preenchido, desse modo, o pressuposto objetivo da adequação. Importante salientar o entendimento firmado pelo Colendo Superior Tribunal de Justiçai:
+"(..) 6. A violação de preceitos, de dispositivos ou de princípios constitucionais revela-se quaestio afeta à competência do Supremo Tribunal Federal, provocado pela via do extraordinário; motivo pelo qual não se pode conhecer do recurso especial nesse aspecto, em função do disposto no art. 105, III, da Constituição Federal.".
+Outrossim, o recurso especial foi interposto sem a fundamentação necessária, apta a autorizar o seu processamento, deixando, assim, consoante determina o artigo 1.029 do Código de Processo CiviI 2 , de indicar precisamente as razões da vulneração, uma vez que não atacou todos os argumentos do aresto recorrido, bem como, suscitou afronta ao artigo 619 do Código de Processo Penal sem, no entanto, esclarecer as questões envolvidas na lide sobre as quais persistiu a omissão alegada.
+Deficiente a fundamentação, um dos requisitos formais de qualquer recurso, resta, necessariamente, afastada a possibilidade do conhecimento do reclamo.
+em julgamento do Superior Tribunal de Justiça que, em caso símile, consignou que (..) as razões recursais devem fazer a demonstração explicativa dos pontos nos quais os fundamentos do julgado (supostamente) atentam contra a norma positiva, sob pena de não conhecimento do recurso, com base na Súmula 284 do STF, aplicada por analogia: ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). 3 Nem mesmo com base no dissídio jurisprudencial o reclamo pode ser conhecido, uma vez que ausentes as condições exigidas pelo Código de Processo Civil, pelo Regimento Interno do Superior Tribunal de Justiça e pela própria Constituição Federal.
+O Diploma Processual Civil, no artigo 1.029, § 1º, bem como o RISTJ, em seu artigo 255, § 1º, dispõem que: "Quando o recurso fundar-se em dissídio jurisprudencial, o recorrente fará a prova da divergência com a certidão, cópia ou citação do repositório de jurisprudência, oficial ou credenciado, inclusive em mídia eletrônica, em que houver sido publicado o acórdão divergente, ou ainda com a reprodução de julgado disponível na rede mundial de computadores, com indicação da respectiva fonte, devendo-se, em qualquer caso, mencionar as circunstâncias que identifiquem ou assemelhem os casos confrontados.".
+Pertinente a decisão proferida perante o STJ de que "o recurso especial não pode ser conhecido no tocante à alínea c do permissivo constitucional. Isso porque a parte recorrente não citou o repositório oficial, autorizado ou credenciado em que fora publicado o acórdão paradigma. Ademais, não procedeu ao necessário cotejo analítico entre os julgados, deixando de evidenciar o ponto em que os acórdãos confrontados, diante da mesma base fática, teriam adotado a alegada solução jurídica diversa.". 4 Por fim, averiguo o interesse do recorrente quanto ao reexame da prova. Nesse passo, cabe reproduzir a Súmula nº 7 do STJ:
+"A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito, decidiu o Colendo Superior Tribunal de Justiça, no AgRg no AREsp 1156800/SP, Rel. Ministra Maria Thereza de Assis Moura, julgado em 28/11/2017, DJe 04/12/2017 que "(..) Nos termos do artigo 105, inciso III, da Constituição Federal, o Superior Tribunal de Justiça tem a missão constitucional de uniformizar e interpretar a lei federal, não lhe competindo, em sede de recurso especial, seja pelo permissivo da alínea "a", seja pelo permissivo da alínea "c", o revolvimento de todos os fatos da causa e do processo, à moda de recurso ordinário ou de apelação. Óbice do enunciado 7 da Súmula do STJ.".
+Ante o exposto, não preenchidos os requisitos exigidos, NÃO ADMITO o recurso especial. Procedidas as anotações de praxe, devolvam-se os autos à origem.
+Conforme relatado, a decisão agravada não conheceu do agravo defensivo porque não atacados especificamente os fundamentos da decisão que inadmitiu o recurso especial - óbice das Súmula 284/STF, divergência não comprovada e Súmula 7/STJ.
+No presente caso deve ser aplicada a súmula 182/STJ, porque a petição de agravo regimental não rebateu os argumentos da decisão de fls. 901-902, e apenas reiterou os termos da petição recursal de fls. 797-825 que, por sua, vez repetiu os fundamentos da petição de recurso especial de fls. 677-705.
+Vale lembrar que, conforme salientado pela decisão ora combatida, ao recorrente incumbe demonstrar o equívoco da decisão em face da qual se insurge, sendo imprescindível que impugne especificamente todos os óbices por ela apontados. A propósito:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC
+de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Agravo regimental improvido (AgRg nos EDcl no AREsp 1199706/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/05/2018, Dje 24/05/2018).
+Ante o exposto, voto por negar provimento ao agravo regimental.
