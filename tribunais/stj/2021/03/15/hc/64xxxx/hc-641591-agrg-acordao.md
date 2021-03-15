@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO EM FACE DE DECISÃO DEFERITÓRIA DE LIMINAR NA ORIGEM. INCIDÊNCIA DA SÚMULA 691/STF. DECISÃO FUNDAMENTADA. EXCEPCIONALIDADE NÃO DEMONSTRADA. NÃO CABIMENTO DO WRIT. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que a "admissibilidade de habeas corpus impetrado contra decisão que indeferiu a liminar em prévio writ se submete aos parâmetros do enunciado n. 691 da Súmula do Supremo Tribunal Federal, somente afastada no caso de situações excepcionais de flagrante ilegalidade" (AgRg no HC 287.547/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 11/03/2014, DJe de 26/03/2014).
+2. Uma vez ausente flagrante ilegalidade na decisão impugnada, que indeferiu a liminar na origem, em se considerando sobretudo a ausência dos pressupostos autorizativos - porquanto fundamentada a decisão que indeferiu a liminar na origem na inexistência dos requisitos legais autorizativos para a medida urgente -, não há falar em manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus impetrado em face de decisão de desembargador plantonista que indeferiu a liminar.
+Alega o agravante, em suma, que a manutenção da medida extrema de internação - que somente se justificaria se o socioeducando necessitasse de intervenções mais efetivas - configura evidente constrangimento ilegal ensejador da concessão da ordem (fl. 184), o que configura ilegalidade flagrante, a justificar a superação da Súmula 691/STF.
+Requer, assim, a reconsideração da decisão agravada ou a submissão da decisão agravada a julgamento pela Turma.
+É o relatório.
+VOTO
+MINISTRO NEFI CORDEIRO (Relator):
+Compulsando os autos, verifica-se que foi indeferido liminarmente o writ, com base nos seguintes fundamentos, in verbis:
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. APREENSÃO DE QUASE 3kg DE MACONHA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a prisão preventiva foi decretada em razão da periculosidade social do agravante, evidenciada a partir das circunstâncias concretas colhidas do flagrante, notadamente pela apreensão de expressiva quantidade de droga - quase 3kg de maconha.Precedentes. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental desprovido.(AgRg no HC 629.203/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar." No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, porquanto a decisão foi fundamentada.
+No ponto, colhe-se da decisão que decretou a prisão preventiva do paciente (e-STJ fls. 126-128):
+ ..  Diante dos fatos descritos na denúncia, bem como acima reproduzidos (sic), tem-se que a conduta do réu é ofensiva a ordem pública, na medida em que causou grave repercussão na seara patrimonial da vítima, despindo-a do seu próprio sustento e, ainda, causa grande repulsa à sociedade em geral e, principalmente, aos advogados, que tanto fazem para fazer valer os direitos de seus constituintes.
+Ainda, os requisitos da conveniência da instrução e para assegurar a aplicação da lei penal também restaram demonstrados, pois como bem salientado pelo Parquet, o acusado tem se valido de vários artificios para retardar o andamento processual, inviabilizando até mesmo a sua citação.
+Como bem salientado pelo M.P., o acusado vem se ocultando em inúmeras ações - cíveis e criminais, conforme se afere das certidões de fls. 122 e 138 destes autos e documentos de fls. 154/163. Anote-se ainda que o réu sequer vem cumprindo as obrigações que lhe são impostas pelo Juízo, motivo pelo qual, num dos processos mencionados pelo Parquet, a pena restritiva de direitos foi convertida em privativa.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Como visto, foi indeferido liminarmente o habeas corpus tendo em vista a inexistência no caso de manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, ausente teratologia na decisão impugnada, que concedeu a medida urgente.
+De fato, compulsando os autos, verifica-se que a decisão que indeferiu a liminar na origem encontra-se devidamente fundamentada na inexistência dos requisitos legais autorizativos, em se considerando, sobretudo, que a decisão que decretou a prisão preventiva está embasada na garantia da ordem pública, na conveniência da instrução, como forma de assegurar a aplicação da lei penal, justificando-se, assim, o indeferimento da medida urgente pelo Tribunal de origem.
+Ante o exposto, voto por negar provimento ao agravo.
