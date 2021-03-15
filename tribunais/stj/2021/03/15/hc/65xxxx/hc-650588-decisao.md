@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RAFAEL DA SILVA FRANCISCOcontraacórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro na Apelação Criminal n.0084991-37.2019.8.19.0001.
+OPaciente foi condenado como incurso no art. 158, § 1.º, do Código Penalàs penasde 5 (cinco) anos e 9(nove) meses de reclusão, em regime inicial semiaberto, e 18 (dezoito) dias-multa.
+O Tribunala quo, provendo parcialmente a apelação defensiva, afastou a forma majorada do delito e reduziu as penas do Paciente para 4 (quatro) anos de reclusãoe 10 (dez) dias-multa,mantendo o regime inicial semiaberto(fls. 87-100).
+Neste writ, sustenta-se que não há fundamentação idônea para afixação do regimeinicial semiaberto, pois ascircunstâncias judiciais foram integralmente favoráveis, com a fixação da pena-base no mínimo legal.
+Pleiteia-se, liminarmente e no mérito, a fixação doregime inicial aberto.
+É o relatório.
+Decido.
+Sublinho, inicialmente, que "as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020; sem grifos no original).
+Portanto, passo a analisar diretamente o mérito da impetração.
+Nos termos da Súmula n.440/STJ,fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção impostacom base apenas na gravidade abstrata do delito.
+No caso, apesar de a pena-base do Paciente haver sido fixada no mínimo legal e a pena total imposta ser iguala 4 (quatro) anos de reclusão, a Corte de origem manteve o regime inicial semiaberto nos seguintes termos (fls. 98-99, sem grifos no original):
+"Compulsando os autos, verifica-se que, em que pese o acusado possuir outras condenações em sua folha penal, as mesmas se referem a fatos posteriores ao do presente feito e, portanto, não podem ser consideradas como circunstância judicial desfavorável (FAC, index 159).
+Com efeito, a existência de anotações na FAC não esclarecidas, inquéritos policiais, decisão condenatória não definitiva, por força do princípio da não culpabilidade, não pode ser adotadacomo circunstância judicial desfavorável, seja como mau antecedente, seja como conduta social ou personalidade desfavorável.Entendimento pacificado no STJ (Súmula 444).
+ ..
+ .. reduzo a pena base do acusado para 04 anos de reclusão e multa de 10 dias, que torno definitiva, eis que ausentes agravantes/atenuantes, causas de aumento/diminuição de pena.
+Mantenho o regime semiaberto estabelecido na sentença de primeiro grau, eis que compatível com o quantum da pena, destacando-se, ainda, os outros processos que o acusado ostenta em sua folha penal, inclusive com condenação provisória, não puderam ser considerados na quantidade da pena, mas, a meu sentir, devem ser observados na qualidade da pena (regime)."
+De início,quanto à alusãofeita pela Corte de origem aoquantumda pena para fixar o regime inicial semiaberto, registre-se que, consoante estabelece o art. 33, § 2.º, alínea "c", do Código Penal, "o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto".
+A propósito: " o s requisitos para a imposição do regime aberto, constam no art. 33, § 2º, alínea c, e § 3º, do Código Penal, quais sejam, a ausência de reincidência, condenação por um período igual ou inferior a 4 (quatro) anos, bem como a inexistência de circunstâncias judiciais desfavoráveis"(HC 460.831/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/09/2018, DJe 21/09/2018; sem grifos no original).
+Assim, tendo a pena do Paciente sido estabelecida em patamar equivalente a4 (quatro) anos, não há falar emquantumde pena para embasar a fixação do regime inicial semiaberto.
+Outrossim, em que pese a existência de anotações penais pretéritas na folha de antecedentes penais do Paciente, observa-se que não há registro de condenação penal anterior com trânsito em julgado, mas apenas condenação provisória, como deixou claro o acórdão impugnado.
+Por tal razão, em atenção ao princípio da presunção de não culpabilidade, os referidos elementos não podem agravar o regime prisional.Nesse sentido:
+" ..
+A jurisprudência desta Corte firmou entendimento de que, considerando o princípio da presunção da inocência, inquéritos policiais ou ações penais em andamento não servem de base para valorar negativamente os antecedentes, a conduta social ou a personalidade do acusado e, por consectário, não permitem a imposição de regime prisional mais gravoso do que o indicado pelo quantum de sanção corporal estabelecido (Súmula 444/STJ). .. " (HC 454.657/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/08/2018, DJe 24/08/2018;sem grifos no original)".
+" ..
+1. Fixada a pena-base no mínimo legal, dada a ausência de circunstâncias judiciais desfavoráveis, considerada a primariedade e a inexistência de fundamentação concreta para a fixação do regime diverso do legal, não é possível infligir regime prisional mais gravoso. Precedentes. Entendimento sedimentado nos Verbetes Sumulares n.os 440/STJ, 718/STF e 719/STF.
+2. Nos termos da jurisprudência desta Corte, "condenações criminais não transitadas em julgado não são passíveis de valoração gravosa com o intuito de firmar regime inicial mais gravoso"(AgRg no HC 428.694/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/08/2018, DJe 03/09/2018). .. "(HC 455.731/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/10/2018, DJe 07/11/2018; sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO. REGIME MAIS GRAVOSO. FUNDAMENTO INIDÔNEA. PRECEDENTES DO STJ. AGRAVO IMPROVIDO.
+1. A existência de condenações posteriores não constitui motivação válida para elevação da pena-base, nem fixação do regime prisional mais gravoso. .. "(AgRg no REsp 1.714.634/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/09/2018, DJe 24/09/2018; sem grifos no original.)
+Ante o exposto, CONCEDO a ordem de habeas corpus a fim defixar oregime aberto para o início do cumprimento dapenaimpostaao Paciente, com as condições a serem definidas pelo Juízo das Execuções.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. PROCESSO PENAL. EXTORSÃO. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO INIDÔNEA.PENA FIXADA EM 4 (QUATRO) ANOS.CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. CABIMENTO DOREGIME INICIAL ABERTO. SÚMULA N. 440/STJ. ORDEM DE HABEAS CORPUS CONCEDIDA.
