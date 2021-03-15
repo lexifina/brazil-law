@@ -1,0 +1,22 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialmanejado porUNIÃO contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO com a seguinte ementa:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. MILITAR. FUNSA. FILHA MAIOR CAPAZ. BENEFICIÁRIA DE PENSÃO POR MORTE. CONDIÇÃO DE DEPENDENTE, SEGUNDO O ESTATUTO DOS MILITARES. COMPROVAÇÃO. REINSERÇÃO NO CADASTRO DE BENEFICIÁRIOS DA "ASSISTÊNCIA MÉDICO-HOSPITALAR COMPLEMENTAR - AMHC".
+1. Deseja a impetrante o reconhecimento do direito de ser recolocada no Cadastro do Fundo de Saúde da Aeronáutica - FUNSA, pois percebe pensão por morte de seu genitor.
+2. Prevê o art. 50, § 1º, "e", da Lei nº 6.880/80, entre os direitos dos militares, "a assistência médico-hospitalar para si e seus dependentes, assim entendida como o conjunto de atividades relacionadas com a prevenção, conservação ou recuperação da saúde, abrangendo serviços profissionais médicos, farmacêuticos e odontológicos, bem como o fornecimento, a aplicação de meios e os cuidados e demais atos médicos e paramédicos necessários". Por seu turno, o § 2º, III, do mesmo dispositivo, estabelece que se considera dependente "a filha solteira, desde que não receba remuneração".
+3. Uma vez que se trata de filha solteira dependente, portanto, pensionista (documento id. nº 4058100.7135206), enquadra-se na aludida regra, motivo pelo qual faz jus ao restabelecimento de assistência médico-hospitalar.
+4. O fato da filha solteira pensionista ser contribuinte do imposto de renda, nos termos da Lei nº 4.506/64, não lhe afasta a condição de dependente, porquanto o Estatuto dos Militares não traz tal previsão.Tampouco exclui o direito à assistência médico-hospitalar.
+5. Apelação não provida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 184-187).
+A recorrente, com fundamento na alínea "a" do permissivo constitucional, aponta violação do art. 50, IV, "e", §§ 2º, III, e 4º, da Lei n. 6.880/1980. Aduz que a condição de pensionista, não dependente de militar, é insuficiente para a configuração do direito à utilização do FUNSA.
+Refere contrariedade aos arts. 66 da Lei n. 4.328/1964; 76 a 78 da Lei n. 5.787/1972; 77 da Lei n. 728/1969; à Lei n. 8.237/1991. Sustenta que, " ..  da análise de toda a legislação acima, resta inequívoco que o legislador pátrio ordinário expressamente deixou de atribuir às Organizações de Saúde das Forças Armadas o dever de arcar com o ônus de prover assistência de saúde aos seus militares e familiares" (e-STJ, fl. 204).
+Argumenta que, após o recebimento da pensão, o então dependente tornou-se independente.
+Indica infringência ao art. 16, XI, da Lei n. 4.506/1964, alegando que a percepção desse tipo de vantagem constitui remuneração.
+Contrarrazões às e-STJ, fls. 220-226.
+É o relatório.
+A questão jurídica referente ao direito dopensionista à assistência médico-hospitalarfoi submetida ao regime dosprecedentes qualificados vinculantes pelo Superior Tribunal de Justiça nos seguintes termos:
+Tema 1.080/STJ:"Definir se há direito de pensionista de militar à assistência médico-hospitalar por meio do Fundo de Saúde da Aeronáutica (FUNSA). Os processos afetados tratam de instituidores falecidos antes da vigência da Lei nº 13.954/2019, razão pela qual a discussão da tese está adstrita à legislação vigente antes das alterações promovidas pelo referido diploma legal."
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
