@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. EXISTÊNCIA. EFEITO MODIFICATIVO. ATRIBUIÇÃO. ACÓRDÃO ANULADO.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, há vício de integração, o qual, sanado, implica na atribuição de efeito modificativo aos embargos de declaração para anular o acórdão do agravo interno. É que a conclusão do acórdão embargado deriva da premissa de que houvera fundamento constitucional no julgamento do TRF da 4ª Região, o que, porém, não se constata.
+3. Embargos de declaração acolhidos, com efeito modificativo, para anular o acórdão embargado.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por POSTO AVENIDA DAS COMUNIDADES EIRELI contra acórdão que negou provimento a agravo interno assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. BASE DE CÁLCULO. PIS E COFINS. CONCEITO DE FATURAMENTO. MATÉRIA CONSTITUCIONAL.
+1. Não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+2. Na hipótese, tem-se que o acórdão do Tribunal de origem está fundamentado exclusivamente no entendimento firmado pelo STF, no julgamento do RE nº 574.706/PR, de que O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS não considerou o regime de substituição tributária. Assim, dada a natureza estritamente constitucional do decidido pelo Tribunal a quo, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Por fim, verifica-se que o STJ tem entendido que a interpretação do conceito de faturamento para fins de incidência da contribuição ao PIS e à Cofins é matéria eminentemente constitucional, de modo que a sua análise é de competência exclusiva do STF. Precedentes: AgInt no REsp 1.435.966/RS, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 16/2/2018; AgInt no REsp 1.668.205/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 4/6/2019.
+4. Agravo interno não provido
+A parte embargante sustenta, em síntese (fls. 528/531):
+Há argumentos da empresa não analisados em sua totalidade, que demonstram que a controvérsia deve ser conhecida por este e. STJ, de modo a reconhecer que o ICMS-ST não pode ser incluído na base de cálculo do PIS e da COFINS, à luz da normativa infraconstitucional que fundamenta o recurso.
+Conforme item "29" do agravo interno, este C. Superior Tribunal de Justiça já apreciou, posteriormente ao julgamento do RE nº 574.706, o Agravo Interno no Recurso Especial nº 1.628.142/RS, interposto por contribuinte-substituto para apreciação de tese muito simular, relacionada à não incidência do PIS COFINS sobre o ICMS-ST, colocando, de uma vez, uma pá de cal sobre a discussão
+Sem impugnação pela parte embargada (fl. 538).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. EXISTÊNCIA. EFEITO MODIFICATIVO. ATRIBUIÇÃO. ACÓRDÃO ANULADO.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, há vício de integração, o qual, sanado, implica na atribuição de efeito modificativo aos embargos de declaração para anular o acórdão do agravo interno. É que a conclusão do acórdão embargado deriva da premissa de que houvera fundamento constitucional no julgamento do TRF da 4ª Região, o que, porém, não se constata.
+3. Embargos de declaração acolhidos, com efeito modificativo, para anular o acórdão embargado.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, o acórdão do agravo interno manteve decisão monocrática (fls. 458/488) ao fundamento de que (fl. 522):
+Do trecho acima, tem-se que o acórdão a quo está fundamentado exclusivamente no entendimento firmado pelo STF, no julgamento do RE nº 574.706/PR, de que O ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS não considerou o regime de substituição tributária. Dessa feita, dada a natureza estritamente constitucional do decidido pelo Tribunal de origem, refoge à competência desta Corte Superior de Justiça a análise da questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Todavia, a análise processual revela inexistência de fundamento constitucional no acórdão proferido pelo TRF da 4ª Região; vejamos, a propósito, trecho do voto condutor (fls. 530/531):
+O Supremo Tribunal Federal, no julgamento do RE nº 574.706/PR,não considerou o regime de substituição tributária do ICMS, em que um contribuinte é obrigado a recolher, além do imposto devido pela sua operação própria, o valor que seria devido pela ulterior operação de venda de empresa situada em etapa subsequente da cadeia econômica (substituída tributária).
+Ademais, no regime de substituição tributária, o ICMS é calculado "por fora", sendo adicionado ao valor de venda quando da emissão da nota fiscal, de modo que não integra a receita bruta do substituto tributário, nem tampouco ado substituído.
+Não há, pois, fundamentos para se reconhecer o direito de excluir o ICMS-ST da base de cálculo do PIS e da COFINS (v.g. TRF4 5021496-21.2018.4.04.0000, Segunda Turma, Relator Para Acórdão Andrei Pitten Velloso, juntado aos autos em 17/09/2018; TRF4, AC 5021827-24.2015.4.04.7108, Primeira Turma, Relator Alexandre Rossato da Silva Ávila, Juntado Aos Autos em 30/11/2018)
+Nesse contexto, tem razão a parte embargante, devendo o acórdão embargado ser anulado e revogada a decisão correlata com o fim de oportunizar novo julgamento do recurso especial.
+Ante o exposto, acolho os embargos de declaração, com efeito modificativo, para anular o acórdão embargado e revogar a decisão de fls. 485/488.
+É como voto.
