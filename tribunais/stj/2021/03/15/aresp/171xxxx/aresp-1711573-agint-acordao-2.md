@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. INCLUSÃO EM CADASTROS DE INADIMPLENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de responsabilidade em razão de inclusão da parte agravante em cadastros de inadimplentes. Na sentença, julgou-se improcedente o pedido. A decisão foi mantida no Tribunal a quo. Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de prequestionamento, Súmula n.7/STJ e deficiência de cotejo analítico. Entretanto, a parte agravante deixou de impugnar especificamente: ausência de prequestionamento e deficiência de cotejo analítico.
+II - A parte agravante protocola nova petição de agravo interno. Não cabimento. Preclusão consumativa.
+III - Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno contra decisão que não conheceu do agravo em recurso especial por falta de impugnação de fundamentos de inadmissibilidade do recurso especial na origem.
+O recurso especial foi interposto contra acórdão com a seguinte com o seguinte resumo da ementa:
+ADMINISTRATIVO REGISTRO DE PREÇOS CONTRATO REAJUSTE PRORROGAÇÃO DO CONTRATO CUSTOS ADICIONAIS TERMO ADITIVO ÔNUS DA PROVA INDENIZAÇÃO DANO MORAL PESSOA JURÍDICA AUSÊNCIA DE ATO ILÍCITO
+Foi protocolada nova petição de agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RESPONSABILIDADE CIVIL. INCLUSÃO EM CADASTROS DE INADIMPLENTES. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de responsabilidade em razão de inclusão da parte agravante em cadastros de inadimplentes. Na sentença, julgou-se improcedente o pedido. A decisão foi mantida no Tribunal a quo. Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de prequestionamento, Súmula n.7/STJ e deficiência de cotejo analítico. Entretanto, a parte agravante deixou de impugnar especificamente: ausência de prequestionamento e deficiência de cotejo analítico.
+II - A parte agravante protocola nova petição de agravo interno. Não cabimento. Preclusão consumativa.
+III - Agravo interno não conhecido.
+VOTO
+A petição de agravo interno não merece conhecimento.
+A interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Nesse sentido:
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO NO MANDADO DE SEGURANÇA, RECEBIDO COMO AGRAVO INTERNO. FUNGIBILIDADE. CABIMENTO. INTERPOSIÇÃO DE DOIS RECURSOS, PELA MESMA PARTE, CONTRA A MESMA DECISÃO. PRECLUSÃO CONSUMATIVA E VIOLAÇÃO AO PRINCÍPIO DA UNIRRECORRIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO.I. Pedido de Reconsideração formulado contra decisão publicada em 29/03/2019.II. No que tange ao Pedido de Reconsideração contra decisão monocrática, apesar de não possuir previsão normativa - seja à luz do CPC/73 ou do CPC vigente -, tem sido admitida, pelo Superior Tribunal de Justiça, a sua conversão em Agravo Regimental ou interno, desde que não tenha sido utilizado com má-fé, não decorra de erro grosseiro e tenha sido apresentado dentro do prazo legal.Precedentes.II. É assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro apelo, haja vista a preclusão consumativa e o princípio da unirrecorribilidade. Precedentes do STJ: EDcl no AgRg no RE no AgRg nos EDcl no AgRg nos EDcl no AREsp 501.366/RS, Rel.Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe de 28/11/2018; AgInt no MS 24.022/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 20/08/2018; AgInt no AREsp 872.839/SP, Rel.Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 29/05/2018; AgInt no REsp 1.661.733/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 26/09/2017; EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 09/06/2016; AgRg no AREsp 839.531/SP, Rel. Ministra DIVA MALERBI (Desembargadora Federal convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 31/03/2016.III. Isso porque, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último" (STJ, EDv no AgInt nos EAREsp 955.088/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 13/09/2018).V. Pedido de Reconsideração recebido como Agravo interno, e, como tal, não conhecido.
+(AgInt no MS 25.067/DF, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 15/12/2020, DJe 18/12/2020.)
+Ante o exposto, não conheço do recurso de agravo interno.
+É o voto.
