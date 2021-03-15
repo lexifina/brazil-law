@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURNÇA. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. BASES DE CÁLCULO PRESUMIDA E EFETIVAMENTE REALIZADA. DIFERENÇA. REGRA DE COMPROVAÇÃO DO ENCARGO FINANCEIRO DO TRIBUTO. NÃO INCIDÊNCIA.
+1. Pacífica a orientação deste Tribunal no sentido de que, "ocorrido o fato gerador com base de cálculo menor que a presumida em regime de substituição tributária é presumida a imposição direta do tributo, confundindo-se o contribuinte de fato com o contribuinte de direito, em razão da ausência de repercussão do tributo no preço praticado, de modo que inexigível a demonstração da assunção do encargo financeiro do tributo pelo contribuinte de direito. Inteligência do art. 166 do CTN" (AgRg no REsp 1.091.781/SP, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 04/08/2009, DJe 19/08/2009). Precedentes.
+2. No caso dos autos, o recurso foi provido porque a recorrente, substituída tributária, não pretende devolução de ICMS incluído no preço da mercadoria vendida, mas daquele decorrente da diferença entre a base de cálculo efetivamente praticada e a presumida, sendo que esta última, porque não ocorrida, não foi imposta ao consumidor, daí porque não se pode exigir comprovação do não repasse financeiro.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo Estado do Paraná contra decisão que deu provimento ao recurso especial do Auto Posto Alfa Ltda., declarando não ser necessária a comprovação do não repasse financeiro, na hipótese em que se pretende a devolução de ICMS decorrente da diferença entre a base de cálculo efetivamente praticada e a presumida.
+A parte agravante sustenta, em síntese (fls. 568/577):
+O recurso especial não poderia ter sido conhecido, uma vez que para superar a premissa estabelecida pelo E. TJPR no sentido de que "a impetrante não trouxe provas de ter assumido o encargo do ICMS a ser repetido, ou seja, não demonstrou que não repassou o ônus da incidência do imposto ao consumidor final" (e-STJ 258/259)seria indispensável o revolvimento de fatos e provas, o que não se pode admitir nesta etapa recursal, ante o óbice do enunciado de sumula n. 07/STJ.
+Para correta aplicação do artigo 150, § 7º, da Carta Maior, tratando-se de tributo indireto (ICMS1), a pretendida restituição deve atendimento aos requisitos elencados no artigo 166 do CTN.
+É que ainda que a base de cálculo efetiva da operação seja inferior à presumida - ainda assim - haverá o repasse econômico para o consumidor final, que é quem arca com a repercussão econômica da exação. Nessa perspectiva, observa-se que, ao contrário do que entendeu a r. decisão agravada, a recorrida pretende sim a devolução de ICMS incluído no preço final da mercadoria vendida, pois é nesse momento que o comerciante recupera o valor do tributo pago antecipadamente
+Impugnação apresentada pela sociedade empresária (fls.580/586).
+É o relatório.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURNÇA. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. BASES DE CÁLCULO PRESUMIDA E EFETIVAMENTE REALIZADA. DIFERENÇA. REGRA DE COMPROVAÇÃO DO ENCARGO FINANCEIRO DO TRIBUTO. NÃO INCIDÊNCIA.
+1. Pacífica a orientação deste Tribunal no sentido de que, "ocorrido o fato gerador com base de cálculo menor que a presumida em regime de substituição tributária é presumida a imposição direta do tributo, confundindo-se o contribuinte de fato com o contribuinte de direito, em razão da ausência de repercussão do tributo no preço praticado, de modo que inexigível a demonstração da assunção do encargo financeiro do tributo pelo contribuinte de direito. Inteligência do art. 166 do CTN" (AgRg no REsp 1.091.781/SP, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 04/08/2009, DJe 19/08/2009). Precedentes.
+2. No caso dos autos, o recurso foi provido porque a recorrente, substituída tributária, não pretende devolução de ICMS incluído no preço da mercadoria vendida, mas daquele decorrente da diferença entre a base de cálculo efetivamente praticada e a presumida, sendo que esta última, porque não ocorrida, não foi imposta ao consumidor, daí porque não se pode exigir comprovação do não repasse financeiro.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a conclusão da decisão agravada deve ser mantida.
+Como consta da decisão agravada, este Tribunal Superior definiu que, "na sistemática da substituição tributária para frente, quando da aquisição da mercadoria, o contribuinte substituído antecipadamente recolhe o tributo de acordo com a base de cálculo estimada, de modo que, no caso específico de revenda por menor valor, não tem como recuperar o tributo que já pagou, decorrendo o desconto no preço final do produto da própria margem de lucro do comerciante, sendo inaplicável, na espécie, o art. 166 do CTN" (AgRg no REsp 630.966/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 03/04/2018, DJe 22/05/2018).
+A respeito, confiram-se:
+TRIBUTÁRIO - PROCESSO CIVIL - ICMS - SUBSTITUIÇÃO TRIBUTÁRIA - INEXISTÊNCIA DE REPERCUSSÃO DO ÔNUS TRIBUTÁRIO - LEGITIMIDADE - ART. 166 DO CTN - COMPENSAÇÃO - BASE DE CÁLCULO PRESUMIDA MAIOR QUE A EFETIVADA - IMPOSSIBILIDADE - ART. 150, § 7º, DA CONSTITUIÇÃO.
+1. No regime de substituição tributária progressiva, autorizado pelo art. 150, § 7º, da CF, ocorrendo venda por preço inferior ao presumido, o substituído tem legitimidade processual para discutir eventual irregularidade na incidência de tributo sobre a diferença entre preço praticado e aquele previsto para a ocorrência do fato gerador presumido, uma vez que nesta hipótese não se constata o fenômeno da repercussão tributária ao consumidor, contribuinte de fato, sobre o desconto ofertado. Inteligência do art. 166 do CTN.
+ ..
+5. Recurso ordinário em mandado de segurança não provido.
+(RMS 34.389/MA, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 16/05/2013, DJe 24/05/2013)
+PROCESSO CIVIL - TRIBUTÁRIO - AGRAVO REGIMENTAL - ICMS - SUBSTITUIÇÃO TRIBUTÁRIA - RESSARCIMENTO - BASE DE CÁLCULO PRESUMIDA MAIOR QUE A EFETIVADA - ART. 166 DO CTN - INTERPRETAÇÃO - MANDADO DE SEGURANÇA - DECLARAÇÃO DO DIREITO À COMPENSAÇÃO - POSSIBILIDADE.
+ ..
+3. Ocorrido o fato gerador com base de cálculo menor que a presumida em regime de substituição tributária é presumida a imposição direta do tributo, confundindo-se o contribuinte de fato com o contribuinte de direito, em razão da ausência de repercussão do tributo no preço praticado, de modo que inexigível a demonstração da assunção do encargo financeiro do tributo pelo contribuinte de direito. Inteligência do art. 166 do CTN.
+4. Agravo regimental não provido.
+(AgRg no REsp 1091781/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 04/08/2009, DJe 19/08/2009)
+No caso dos autos, ainda que se trate de tributo indireto, a recorrente, substituída tributária, não pretende devolução de ICMS incluído no preço da mercadoria vendida, mas aquele decorrente da diferença entre a base de cálculo efetivamente praticada e a presumida, sendo que esta última, porque não ocorrida, não foi imposta ao consumidor, daí porque não se pode exigir comprovação do não repasse financeiro (art. 166 do CTN).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
