@@ -1,0 +1,39 @@
+DECISÃO
+GUSTAVO ALVES DE MACEDO e ALESSANDRA MEDEIROS CAMAZ DE MACEDO (GUSTAVO e outra) ajuizaram ação de rescisão contratual contra CALÇADAEMPREENDIMENTOS IMOBILIÁRIOS S/A e SPE QUALIDADE VI EMPREENDIMENTO IMOBILIÁRIO LTDA. (CALÇADA e outra).
+Narraram que firmaram com as demandas contrato de promessa de compra e venda de imóvel em construção. Contudo, após o pagamento de diversas parcelas, se viram com dificuldades financeiras, não tendo mais como manter a avença.
+Em primeira instância, o pedido foi julgado parcialmente procedente, a fim de fixar o perdimento em favor das rés dos valores pagos a título de arras e seguro prestamista, bem como para condenar as demandas à restituição do valor equivalente às mensalidades pagas pelo imóvel com juros e correção a contar da citação. Custas pro rata e sem honorários, ante a sucumbência recíproca (e-STJ, fls.298/300).
+Apelaram as partes.
+O Tribunal fluminense deu parcial provimento ao apelo dos autores, para determinar que as arras componham o valor a ser devolvido, este fixado em 10% (dez por cento) de todo o que foi pago, e deu parcial provimento ao apelo das rés, apenas para fixar o termo inicial dos juros de mora a partir do trânsito em julgado, nos termos do acórdão a seguir ementado:
+APELAÇÃO CÍVEL. CONSUMIDOR. DESISTÊNCIA DE PROMESSA DE COMPRA E VENDA DE IMÓVEL COM PEDIDO CUMULADO DE DEVOLUÇÃO PARCIAL DE VALORES ADIMPLIDOS, POR VONTADE DO CONSUMIDOR, EM RAZÃO DE DIFICULDADES FINANCEIRAS. LEGITIMIDADE PASSIVA DAS EMPRESAS QUE COMPÕEM O MESMO CONGLOMERADO IMOBILIÁRIO. TEORIA DA ASSERÇÃO.
+ATRAÇÃO DA PARTE FINAL DA SÚMULA 543/STJ.
+DEVOLUÇÃO DE 90% DO VALOR PAGO. ARRAS CONFIRMATÓRIAS QUE DEVEM INTEGRAR A QUANTIA A SER RESTITUÍDA. JUROS MORATÓRIOS QUE SÃO COMPUTADOS A PARTIR DO TRÂNSITO EM JULGADO, DATA DA CONSTITUIÇÃO EM MORA. PROVIMENTO DO RECURSO DOS AUTORES PARA DETERMINAR A DEVOLUÇÃO DE 90% DO QUE FOI PAGO.
+PROVIMENTO PARCIAL DO APELO DA PARTE RÉ, PARA QUE OS JUROS SEJAM COMPUTADOS A CONTAR DO TRÂNSITO EM JULGADO (e-STJ, fls. 378).
+Os embargos de declaração de CALÇADA e outra foram acolhidos parcialmente, a fim de sanar erro material verificado, no sentido de " determinar que as arras componham o valor a ser devolvido, com a retenção de apenas 10% (dez por cento) de todo o que foi pago, excluído o seguro prestamista" (e-STJ, fls. 405/498).
+No recurso especial, interposto com fundamento no art. 105, III, a e c, da CF, CALÇADA e outro alegaram violação dos arts. 1022 do NCPC e 418 do Código Civil, ao sustentar, em suma, (1) a existência de omissão no acórdão; (2) ailegitimidade passiva da corré CALÇADA, (3) a inaplicabilidade do CDC e a irretratabilidade da promessa de compra e venda; e, (4) a necessidade de majoração do percentual de retenção para 50% dos valores pagos e a retenção das arras (e-STJ, fls. 410/436).
+Após apresentadas as contrarrazões, o recurso foi inadmitido na origem ante a inexistência de omissão no julgado, pela incidência das Súmulas nº 5, 7 e 83 do STJ.
+O agravo em recurso especial que se seguiu foi conhecido a fim de julgar parcialmente procedente o apelo nobre, em decisão monocrática de minha relatoria, cuja ementa se transcreve:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DESFAZIMENTO CONTRATUAL POR INTERESSE EXCLUSIVO DO ADQUIRENTE.ART. 1022 DO NCPC. OMISSÃO E/OU FALTA DE FUNDAMENTAÇÃO INEXISTENTE. ILEGITIMIDADE PASSIVA NÃO CONFIGURADA. CORRÉ INTEGRANTE DO MESMO GRUPO ECONÔMICO E DA CADEIA DE PRESTAÇÃO DE SERVIÇOS.INCIDÊNCIA DO CÓDIGO DO CONSUMIDOR. ARRAS DE CARÁTER CONFIRMATÓRIO. RESTITUIÇÃO INDEVIDA.DEVOLUÇÃO DOS VALORES PAGOS. MAJORAÇÃO DO PERCENTUAL, DE 10% PARA 25%, SEGUNDO RECENTE ENTEDIMENTO FIRMADO NO ÂMBITO DAS TURMAS QUE COMPÕEM A TERCEIRA SEÇÃODO STJ. PRECEDENTES.AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO (e-STJ, fl. 605).
+No presente recurso integrativo,CALÇADA e outra alegaram omissão no julgado quanto à majoração da verba honorária recursal (e-STJ, fls. 911/918).
+Não foi apresentada impugnação (e-STJ, fl. 628).
+É o relatório.
+DECIDO.
+O inconformismo não merece acolhimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada violação do art. 1022 do NCPC
+No caso vertente, CALÇADA e outraafirmaram que a decisão embargada foi omissa quanto à majoração dos honorários recursais, prevista no art. 85, § 11, do NCPC.
+Sem razão, contudo.
+Com efeito, esta Corte assentou o entendimento de que é devida a majoração de honorários sucumbenciais, nos termos do artigo 85, § 11, do NCPC, quando presentes os seguintes requisitos de forma simultânea: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+A propósito, veja-se o precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS C/C LUCROS CESSANTES. ATRASO NA ENTREGA DO IMÓVEL. PAGAMENTO DO LAUDÊMIO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA N. 182/STJ. PEDIDO DE AFASTAMENTO DOS HONORÁRIOS RECURSAIS. INVIABILIDADE. DECISÃO MANTIDA.
+ .. .
+2. De acordo com a jurisprudência da Corte Especial do STJ, "é devida a majoração da verba honorária sucumbencial, na forma do art.85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.  ..  É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba" (AgInt nos EAREsp n. 762.075/MT, Relator para o acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019), sendo essa a situação evidenciada nos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1.597.640/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 1º/3/2021, DJe 5/3/2021).
+No caso vertente, destaca-se que o agravo em recurso especial de CALÇADA e outra foi conhecido, a fim de dar parcial provimento ao seu recurso especial, para majorar de 10% para 25% o percentual de retenção dos valores pagos pelos adquirentes do imóvel objeto do desfazimento contratual a que alude os autos;portanto, incábível a majoração da verba honorária recursal pretendida.
+Desse modo, uma vez que ausentes os requisitos previstos no art. 1022 do NCPC, não há falar em omissãono julgado.
+Nessas condições, REJEITO os presentes embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ART. 85, § 2º, DO NCPC. HONORÁRIOS RECURSAIS INCABÍVEIS, EM FACE DO PARCIAL PROVIMENTO DO RECURSO. ART. 1022 DO NCPC. OMISSÃO INEXISTENTE. EMBARGOS REJEITADOS.
