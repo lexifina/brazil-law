@@ -1,0 +1,18 @@
+DECISÃO
+RECLAMAÇÃO – VERBETE VINCULANTE Nº 11 DA SÚMULA – INOBSERVÂNCIA – PEDIDO – PROCEDÊNCIA.
+    1. O assessor Vinícius Machado Calixto prestou as seguintes informações:
+    Nilton Gomes de Barros afirma haver o Juízo da Vara Única da Comarca de Bastos/SP, no processo nº 0001308-05.2016.8.26.0069, inobservado o teor do verbete vinculante nº 11 da Súmula.
+    Narra figurar como acusado da prática do crime do artigo 121 do Código Penal. Afirma determinado o emprego de algemas durante sessão do Plenário do Júri, surgindo o descompasso. Assevera inadequada e genérica a justificativa ao uso do artefato, amparada na insuficiência de força policial, na necessidade de preservação da integridade dos presentes e no suposto perfil agressivo do acusado, considerada a natureza do crime. Evoca jurisprudência, referindo-se ao decidido por Vossa Excelência na reclamação nº 24.756.
+    Requer, no campo precário e efêmero, a suspensão da execução da pena e o deferimento da liberdade. Pretende, no mérito, a declaração de nulidade da sessão ocorrida no Júri e a realização de outra, sem algemas.
+    O Juízo, em informações, relata o histórico processual e transcreve os fundamentos da determinação do emprego do artefato. Reporta-se à insuficiente força policial, ao perfil agressivo do acusado e à presença expressiva de público.
+    O Ministério Público Federal manifesta-se pela improcedência do pedido. Discorre sobre o cabimento do uso das algemas, concluindo legítima a providência.
+    2. A leitura do pronunciamento impugnado revela haver o Juízo fundamentado de forma linear o emprego de algemas na sessão do Plenário do Júri. Confiram:
+    [...]
+    Pelo MM Juiz foi dito que: em relação ao requerimento de fls. 630/631, no que concerne ao uso de algemas no plenário do júri, tem-se que sua necessidade decorre da insuficiência de força policial à manutenção da integridade física dos presentes no local. Infelizmente, o quadro de agentes da força pública não dá conta de manter, com nível razoável, a segurança dos atores processuais, tampouco a do público presente, que se faz em número expressivo, notadamente por ser “cidade pequena” (com poucos habitantes) e pela repercussão que casos como o presente causam. Neste plenário, contamos com a presença de poucos policiais militares, sendo, por conseguinte, inviável a manutenção do acusado sem algemas, haja vista, inclusive, o perfil agressivo do acusado, o que se denota pela natureza do delito ao qual está sendo julgado nesta Sessão. Ao Juiz cabe zelar pela ordem dos trabalhos, segurança das testemunhas e garantia da integridade física dos presentes. Não há que se falar, portanto, em violação à Súmula Vinculante 11 do STF, haja vista as peculiaridades do caso sob exame.
+    [...]
+    A menção ao número de policiais e à preservação da integridade física dos presentes ou, até mesmo, ao suposto perfil agressivo do acusado, tendo em conta a natureza do crime imputado, sem a indicação precisa de fatos, é insuficiente a justificar a determinação. O uso de algemas pressupõe resistência ou fundado receio, devidamente motivados por circunstâncias concretas a sinalizarem risco de fuga ou perigo à integridade física do envolvido ou de terceiros, situação não verificada. O prejuízo mostra-se evidente ante as peculiaridades do julgamento por corpo de jurados, no que prescindível a fundamentação da convicção formada.
+    3. Julgo procedente o pedido formulado para assentar a nulidade da sessão do Tribunal do Júri realizada em 27 de setembro de 2018, no Juízo da Vara Única da Comarca de Bastos/SP, considerado o processo nº 0001308-05.2016.8.26.0069, determinando a realização de novo julgamento.
+    4. Publiquem.
+Brasília, 15 de março de 2021.
+Ministro MARCO AURÉLIO
+Relator
