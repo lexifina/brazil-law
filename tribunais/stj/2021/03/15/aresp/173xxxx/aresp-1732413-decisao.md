@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especialmanejado porUNIÃOcontra decisãodo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃOque não admitiu o recurso especial com amparo na Súmula 7/STJ.
+No apelo nobre, interposto com fundamento na alínea "a" do permissivo constitucional, a recorrente aponta violação do art. 50, §§ 2º e 4º, da Lei n. 6.880/1980, argumentando que " ..  pensionistas não são dependentes, razão pela qual a situação de pensionista de militar, per se, não é condição suficiente para que tais pessoas tenham o direito de ser beneficiárias do Fundo de Saúde Militar" (e-STJ, fl. 447).
+Sem contraminuta.
+A questão jurídica referente ao direito do pensionista à assistência médico-hospitalar foi submetida ao regime dos precedentes qualificados vinculantes pelo Superior Tribunal de Justiça nos seguintes termos:
+Tema 1.080/STJ: "Definir se há direito de pensionista de militar à assistência médico-hospitalar por meio do Fundo de Saúde da Aeronáutica (FUNSA). Os processos afetados tratam de instituidores falecidos antes da vigência da Lei nº 13.954/2019, razão pela qual a discussão da tese está adstrita à legislação vigente antes das alterações promovidas pelo referido diploma legal."
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniforme da tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverão ser encaminhados para os Tribunais Superiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorrido coincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergido da interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
