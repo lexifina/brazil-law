@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. NÃO ADMISSÃO DA ORIGEM ILÍCITA DO BEM. INAPLICABILIDADE. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, se em momento algum o paciente reconheceu que sabia que os bens revendidos tinham origem ilícita, não há que se falar em confissão e, pois, em incidência da atenuante prevista na alínea d do inciso III do art. 65 do Código Penal (HC 233.970/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 08/05/2012, DJe 17/05/2012).
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão que negou provimento ao agravo em recurso especial.
+Sustenta que, considerando o fato de que o agravante confirmou terem sido os aparelhos apreendidos na sua loja, sob a sua responsabilidade, requer, seja reconhecida na segunda fase de aplicação da pena, a circunstância atenuante decorrente da confissão espontânea, para após compensar o aumento decorrente da reincidência.
+Requer a reconsideração da decisão ou o provimento do agravo regimental.
+Impugnação apresentada (fls. 484-490).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi proferida nos seguintes termos (fls. 463-466):
+Como se vê, o Tribunal de Justiça adotou como razão de decidir parecer da Promotora de Justiça, do qual constou que deveras, a tipificação do crime de receptação dolosa exige o conhecimento acerca da origem criminosa da coisa. Por conseguinte, ao ter afirmado o desconhecimento da origem ilícita dos bens apreendidos - e, mais do que isso, ao afirmar que os celulares haviam sido deixados na loja pelos respectivos donos para conserto -, o apelante negou a prática do crime, não havendo, portanto, que se falar em confissão.
+Nos termos da jurisprudência desta Corte, se em momento algum o paciente reconheceu que sabia que os bens revendidos tinham origem ilícita, não há que se falar em confissão e, pois, em incidência da atenuante prevista na alínea d do inciso III do art. 65 do Código Penal (HC 233.970/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 08/05/2012, DJe 17/05/2012). Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS E RECEPTAÇÃO. DOSIMETRIA DA PENA. ATENUANTE DA CONFISSÃO ESPONTÂNEA. POSSE PARA USO PRÓPRIO. NÃO ADMISSÃO DA ORIGEM ILÍCITA DO BEM. CONFISSÃO TAMBÉM NÃO AFERIDA NA FORMAÇÃO DO JUÍZO CONDENATÓRIO. INAPLICABILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. WRIT NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. Conforme dicção da Súmula 545/STJ, a atenuante de confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando tal manifestação for utilizada para fundamentar a sua condenação.
+3. No que tange à condenação pelo delito de tráfico de entorpecentes, a jurisprudência desta Corte é assente que a confissão espontânea do réu de ser mero usuário de drogas não induz a incidência da atenuante prevista no art. 65, III, "d", do Código Penal (Precedentes).
+4. Em relação ao crime de receptação, tem-se decidido que "se em momento algum o paciente reconheceu que sabia que os bens revendidos tinham origem ilícita, não há que se falar em confissão e, pois, em incidência da atenuante prevista na alínea "d" do inciso III do art. 65 do Código Penal" (HC 233.970/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 8/5/2012, DJe 17/5/2012). Ademais, além de a paciente ter negado a prática do delito de receptação, pois não confessou ter ciência da origem ilícita do bem objeto de furto, o Magistrado processante amparou sua convicção condenatória em outros elementos probatórios produzidos nos autos, a saber os demais depoimentos testemunhais colhidos durante a instrução probatória, o que reforça a impossibilidade do reconhecimento da pretendida atenuante.
+5. Habeas corpus não conhecido. (HC 327.758/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 07/03/2017, DJe 15/03/2017)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Com efeito, nos termos da jurisprudência desta Corte, se em momento algum o paciente reconheceu que sabia que os bens revendidos tinham origem ilícita, não há que se falar em confissão e, pois, em incidência da atenuante prevista na alínea d do inciso III do art. 65 do Código Penal (HC 233.970/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 08/05/2012, DJe 17/05/2012).
+No caso, consta do acórdão que, ao ter afirmado o desconhecimento da origem ilícita dos bens apreendidos - e, mais do que isso, ao afirmar que os celulares haviam sido deixados na loja pelos respectivos donos para conserto -, o apelante  agravante  negou a prática do crime, não havendo, portanto, que se falar em confissão.
+Ante o exposto, voto por negar provimento ao agravo regimental.
