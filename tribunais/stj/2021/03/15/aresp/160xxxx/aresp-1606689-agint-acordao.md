@@ -1,0 +1,61 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ASSINATURA DIGITALIZADA OU ESCANEADA. IMPOSSIBILIDADE DE AFERIÇÃO DA AUTENTICIDADE. SÚMULA 115/STJ. INCIDÊNCIA. AUSÊNCIA DA GUIA DE RECOLHIMENTO DO PREPARO. IRREGULARIDADE. DESERÇÃO. NÃO PROVIMENTO.
+1. A assinatura digitalizada ou escaneada não permite a aferição de sua autenticidade, por se tratar de inserção de imagem em documento que não pode ser confundida com a assinatura digital que se ampara em certificado digital emitido por Autoridade Certificadora credenciada, a qual possui previsão legal.
+2. A jurisprudência do STJ entende que é essencial a guia de recolhimento para comprovação do preparo efetuado. Quando não apresentada ou apresentada em branco, dificultando a vinculação do recolhimento com o recurso apresentado, opera-se a deserção.
+3. Agravo interno a que se nega provimento.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Quarta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo e Antonio Carlos Ferreira votaram com a Sra. Ministra Relatora. Licenciado o Sr. Ministro Marco Buzzi (Presidente). Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por Antônio Ferreira da Cunha em face da seguinte decisão:
+Trata-se de agravo interposto por ANTONIO FERREIRA DA CUNHA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É o relatório. Decido.
+Mediante análise do recurso e conforme consignado na decisão de admissibilidade (fls. 369), além de o preparo ter sido juntado sem a guia de recolhimento das custas devidas ao STJ, o respectivo comprovante de pagamento encontrava-se ilegível, impossibilitando a verificação da regularidade do preparo.
+Não fosse isso, a petição de recurso especial não foi subscrita, uma vez que, conforme a mesma decisão de inadmissão do recurso especial (fl. 369), a rubrica nela constante é apenas uma assinatura digitalizada ou escaneada, e não uma assinatura digital.
+Em razão disso, o tribunal de origem intimou a parte para sanar os referidos vícios, mas, a parte quedou-se inerte (fl. 371).
+Assim, o recurso especial não foi devida e oportunamente preparado, bem como não regularizado em sua assinatura.
+O Superior Tribunal de Justiça consolidou o entendimento "no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção" (AgRg no AREsp 731.504/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe de 05/10/2017).
+Dessa forma, "não se conhece do recurso especial instruído com o comprovante de pagamento das custas processuais ilegível, pois impossível aferir a regularidade do preparo" (AgInt no AREsp n. 927.009/MG, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 3/10/2016).
+Além disso, o Superior Tribunal de Justiça firmou o entendimento de que "é considerado inexistente o recurso dirigido a instância especial sem assinatura do signatário da petição" (AgInt no AREsp 1019050/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 30/05/2018).
+Conforme a jurisprudência do STJ, a "assinatura digitalizada ou escaneada, por se tratar de mera inserção de imagem em documento, não se confunde com a assinatura digital baseada em certificado digital emitido por autoridade certificadora credenciada, prevista no art. 1º, § 2º, III, "a", da Lei n. 11.419/2006" (AgInt no AREsp 1173960/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 15/03/2018).
+Ademais, "a reprodução de uma assinatura, por meio do escaneamento, sem qualquer regulamentação, é arriscada na medida em que pode ser feita por qualquer pessoa que tenha acesso ao documento original e inserida em outros documentos. Não há garantia alguma de autenticidade, portanto. A aplicação do princípio da instrumentalidade das formas, invocado pelas recorrentes, deve encontrar limites exatamente no princípio da segurança jurídica. Não se trata de privilegiar a forma pela forma, mas de conferir aos jurisdicionados, usuários das modernas ferramentas eletrônicas, o mínimo de critérios para garantir a autenticidade e integridade de sua identificação no momento da interposição de um recurso ou de apresentação de outra peça processual" (REsp n. 1.442.887/BA, Terceira Turma, relatora Ministra Nancy Andrighi, DJe de 14/5/2014).
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+Alegou que a "petição original do REsp, assinada manualmente pelo advogado subscritor, na data de 29/05/2019, às 15:25:51 horas, sob o nº 2019.02.1511080-83, foi protocolada no fórum da Comarca de Marabá-PA, através do PROTOCOLO JUDICIAL INTEGRADO, disponibilizado pelo E. Tribunal de Justiça do Estado do Pará" (e-STJ, fl. 453) e que o "preparo do REsp de Fls. e-STJ 334/356, é comprovado através de sua respectiva Guia de Recolhimento da União - GRU, paga em dinheiro, no Banco do Estado do Pará, AG. 051/00 - Marabá Cidade Nova, no dia 29/05/2019, às 10:42 horas, no caixa 535, operador Bruno Pereira da Silva, Matrícula 00037524" (e-STJ, fl. 463).
+Impugnou a parte agravada dando pela manutenção da decisão recorrida (e-STJ, fls. 495/502).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ASSINATURA DIGITALIZADA OU ESCANEADA. IMPOSSIBILIDADE DE AFERIÇÃO DA AUTENTICIDADE. SÚMULA 115/STJ. INCIDÊNCIA. AUSÊNCIA DA GUIA DE RECOLHIMENTO DO PREPARO. IRREGULARIDADE. DESERÇÃO. NÃO PROVIMENTO.
+1. A assinatura digitalizada ou escaneada não permite a aferição de sua autenticidade, por se tratar de inserção de imagem em documento que não pode ser confundida com a assinatura digital que se ampara em certificado digital emitido por Autoridade Certificadora credenciada, a qual possui previsão legal.
+2. A jurisprudência do STJ entende que é essencial a guia de recolhimento para comprovação do preparo efetuado. Quando não apresentada ou apresentada em branco, dificultando a vinculação do recolhimento com o recurso apresentado, opera-se a deserção.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O inconformismo não merece acolhida.
+O recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE EMBARGOS À EXECUÇÃO. PRELIMINARES DE NULIDADE POR CERCEAMENTO DE DEFESA E POR AUSÊNCIA DE FUNDAMENTAÇÃO. PREJUDICADAS. PRAZO DECADENCIAL EM CASO DE VÍCIO DE CONSENTIMENTO. CARACTERIZADO. INTELIGÊNCIA DO ART. 178, II, DO CC/2002. RECURSO DESPROVIDO.
+1. Acerca das alegações de nulidade da sentença por cerceamento de defesa e por ausência de fundamentação; vislumbro que se encontram prejudicadas diante da constatação da decadência operada em desfavor do embargante sobre o vício de consentimento, uma vez que da data da celebração do negócio jurídico e do ajuizamento dos Embargos à Execução, transcorreram-se mais de 4 (quatro) anos, nos termos do art. 178, II, do CC/2002.
+2. Recurso conhecido e desprovido.
+Alegou, no especial, violação dos artigos 10, 487, parágrafo único, 1.022, 1.026, § 2º, e 1.046 do Código de Processo Civil.
+A Presidência do Tribunal local, constando cuidar-se de cópia a petição do recurso especial e carente da guia de recolhimento, determinou ao recorrente que procedesse à assinatura válida e recolhesse em dobro as custas.
+Leia-se o provimento:
+"Intime-se o advogado Ricardo de Almeida Rosa (OAB/PA 10.615), pelo DJe, para sanar o vício de representação (art. 938, § 1º, do CPC) e promover a assinatura válida no recurso especial (fls. 255-277), no prazo de 05 (cinco) dias úteis, sob pena de tê-lo como ato processual inexistente, uma vez que a assinatura escaneada e impressa em fotocópia no documento não equivale à escrita (Aglnt no AREsp 752.520/ES), assim como o recurso dirigido aos Tribunais Superiores não pode ser interposto via protocolo digital integrado (art. 8º, "e", da Portaria Conjunta n. 02/2014-GP).
+Ademais, realize o recolhimento em dobro do preparo recursal, no mesmo prazo, sob pena de deserção (art. 1.007, § 4º, do CPC), uma vez que a juntada apenas do comprovante de pagamento das custas e ilegível, desacompanhado da respectiva guia de recolhimento, é insuficiente à comprovação do preparo (STJ, Aglnt no REsp 1.622.574/RS)" (e-STJ, fl. 369).
+O recorrente, em vez de dar cumprimento à referida determinação presidencial, preferiu deixar transcorrer in albis o prazo dado, conforme certidão de fl. 371 (e-STJ).
+A decisão do Tribunal de origem está, portanto, em consonância com o entendimento desta Casa.
+A saber:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE PROVENTOS DE APOSENTADORIA. AUSÊNCIA DE PROCURAÇÃO DA SUBSCRITORA DO AGRAVO INTERNO. INTIMAÇÃO PARA REGULARIZAÇÃO DA REPRESENTAÇÃO PROCESSUAL. NÃO ATENDIMENTO. AGRAVO NÃO CONHECIDO.
+1. Nos termos do artigo 76, § 2º, I, do Código de Processo Civil de 2015, não se conhece do recurso quando a parte recorrente descumpre a determinação para regularização da representação processual.
+2. A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do AgRg na APn 675/GO, Relatora a Ministra NANCY ANDRIGHI (DJe de 12/12/2014), consolidou entendimento no sentido de que, sendo a assinatura eletrônica a única forma de identificação inequívoca do signatário da petição, ao se optar pela utilização do meio eletrônico de peticionamento, vincula-se o advogado - titular do certificado digital - ao documento chancelado. Ou seja, para efeitos processuais, o subscritor da peça assinada e enviada eletronicamente deverá ter procuração nos autos, não tendo valor eventual assinatura digitalizada de outro advogado, ou que venha a constar, fisicamente, da peça encaminhada e assinada eletronicamente, mesmo que este possua procuração nos autos (AgRg no REsp 1.404.615/AL, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 20/8/2015).
+3. No caso dos autos, a advogada titular do certificado digital utilizado para a transmissão eletrônica do agravo interno não possui procuração, e a parte recorrente, apesar de devidamente intimada para proceder à regularização da representação processual, permaneceu inerte, deixando de sanar o vício.
+4. Agravo interno não conhecido.
+(AgInt no REsp 1711048/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/5/2019, DJe 21/6/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. FALTA DE JUNTADA DA GUIA DE RECOLHIMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO. APRESENTAÇÃO APENAS DO COMPROVANTE DE PAGAMENTO. REGULARIZAÇÃO POSTERIOR. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. O STJ consolidou o entendimento de que, para comprovação do preparo recursal não basta o pagamento das custas processuais;
+impõe-se a juntada dos respectivos comprovantes e guias de recolhimento, sob pena de deserção.
+2. In casu, a petição de Recurso Especial foi protocolada, na origem, sem a guia de recolhimento do preparo, apesar de presente o comprovante de pagamento.
+3. Na vigência do Código Buzaid, a regularização posterior do preparo somente é admitida quando pago o valor de forma insuficiente, não por ausência das guias de recolhimento, tendo em vista a preclusão consumativa.
+4. Agravo Interno da Empresa desprovido.
+(AgInt no AREsp 986.774/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+Diante do exposto, nego provimento ao agravo interno.
+É como voto.
