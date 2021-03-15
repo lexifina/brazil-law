@@ -1,0 +1,6 @@
+DECISÃO
+O presente recurso especial(e-STJ fls. 584/604) versasobre tema afetado à Segunda Seção desta Cortenos autos do REsp n. 1.818.564/DF-para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de discutir o"cabimento de ação de usucapião tendo por objeto imóvel particular desprovido de registro, situado no Setor Tradicional de Planaltina-DF e inserido em loteamento que, embora consolidado há décadas, não foi autorizado nem regularizado pela Administração do Distrito Federal" (Tema n. 1.025/STJ).
+Nos termos do art. 256-L do RISTJ (Incluído pela Emenda Regimental n. 24, de 2016), o recurso especial que tenha como fundamento idêntica questão de direito afetadaserá devolvido ao Tribunal de origem, para nele permanecer suspenso.
+Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre o recurso especial representativo da controvérsia.
+Diante do exposto, DETERMINO A DEVOLUÇÃO dos autos ao TJDFT, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
