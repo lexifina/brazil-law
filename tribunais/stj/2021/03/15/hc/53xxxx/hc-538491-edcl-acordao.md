@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Nefi Cordeiro, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. OMISSÃO. NÃO APLICAÇÃO DO ART.492, § 4º, DO CÓDIGO DE PROCESSO PENAL. ALTERAÇÃO PROMOVIDA PELO PACOTE ANTICRIME. NÃO CONFIGURAÇÃO DA OMISSÃO. TESE NÃO SUSCITADA ANTERIORMENTE. TESE SUBSIDIÁRIA.ILEGALIDADE DAPRISÃO AUTOMÁTICA.NECESSIDADE DE FUNDAMENTOS CONCRETOS. PRECEDENTES.
+1. Se a possibilidade de prisão automática em condenações do júrique aplicam pena igual ou superior a 15 anosnão foi suscitada anteriormente, é descabido tachar o acórdão de omisso, por não ter tratado do tema.
+2.Ainda que assim não fosse, é pacífica a jurisprudência desta Corte no sentido de que é ilegal a execução provisória da pena como decorrência automática dacondenação proferida pelo Tribunal do Júri, mesmo nos casos em que a pena aplicada é igual ou superior a 15 anos.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos dedeclaração opostos pelo Ministério Público do Estadode Pernambucoao acórdão da minhalavra, em que a Sexta Turma desta Corte concedeu a ordem impetrada emfavor de Carlos Henrique Duarte da Silva,paraassegurar ao paciente o direito de aguardar em liberdade o trânsito em julgado da condenação, ressalvada a existência de motivos concretos, novos ou contemporâneos que justifiquem a necessidade da prisão preventiva.
+Eis a ementa (fl. 183):
+HABEAS CORPUS. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PRISÃO AUTOMÁTICA DECORRENTE DE CONDENAÇÃO PROFERIDA POR TRIBUNAL DO JÚRI. IMPOSSIBILIDADE. NECESSIDADE DE FUNDAMENTOS CONCRETOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. O decreto de prisão, in casu, está calcado, exclusivamente, no entendimento de que seria possível a execução provisória da pena, ante o veredicto condenatório proferido pelo Tribunal do Júri.
+2. No âmbito desta Corte Superior, é ilegal a prisão preventiva, ou a execução provisória da pena, como decorrência automática da condenação proferida pelo Tribunal do Júri. Precedentes.
+3. A compreensão do Magistrado, ainda que calcada em precedente oriundo da Primeira Turma do Supremo Tribunal Federal, não foi endossada pelo Plenário daquela Corte. Nesse toar, cabe salientar que existe precedente posterior da Segunda Turma do STF julgando pela impossibilidade da execução provisória da pena, mesmo em caso de condenação pelo Tribunal do Júri (STF: HC n. 163.814/MG, Ministro Gilmar Mendes, Segunda Turma, julgado em 19/11/2019).Vale ressaltar, ainda, que a referida decisão da Primeira Turma do STF foi tomada antes do resultado das ADCs n. 43/DF, n. 44/DF e n.54/DF, julgadas em 7/11/2019.
+4. Por outro lado, consta dos autos que o paciente estava solto desde 7/12/2010, ou seja, por mais de 8 anos, não tendo sido apresentado nenhum fato novo ou contemporâneo que justifique o seu encarceramento.
+5. No mais, também é da nossa jurisprudência que não cabe ao Tribunal a quo acrescentar motivação em decisão que pecou por sua carência. Como vem dizendo o Ministro Marco Aurélio, o habeas corpus não é ação de mão dupla, decorrendo dessa premissa a impossibilidade de órgão julgador vir a suplementar, em termos de fundamentos, o ato atacado (STF: HC n. 109.678/PR, Primeira Turma, DJe 8/11/2012).
+6. Ordem concedida, confirmando-se a liminar, para assegurar ao paciente o direito de aguardar em liberdade o trânsito em julgado da condenação, ressalvada a existência de motivos concretos, novos ou contemporâneos que justifiquem a necessidade da prisão preventiva.
+Alega o embargante que o acórdão se apresentou omisso, uma vez que a Sexta Turma desta Corte teria deixado de considerar que, na hipótesede condenação pelo Tribunal do Júri a uma pena igual ou superior a 15 anos de reclusão, nos termos da nova redação do art. 492, § 4º, do Código de Processo Penal, a apelação não terá efeito suspensivo.
+Aduz, ainda, que não seria o caso de enquadramento nas exceções previstas no§ 5º, poiso recurso interposto pela defesa pugna apenas pelo afastamento das qualificadoras, enão há como ser reduzida a pena a patamar inferior a 15 anos de reclusão, pois o acusado foi condenado por homicídio duplamente qualificado, existindo inúmeras circunstâncias judiciais negativas.
+Postula, ao final, o conhecimento e o provimento dos presentes embargos,a fim de determinara execução provisória da condenação do paciente(fl. 200).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. PROCESSO PENAL. HOMICÍDIO QUALIFICADO. OMISSÃO. NÃO APLICAÇÃO DO ART.492, § 4º, DO CÓDIGO DE PROCESSO PENAL. ALTERAÇÃO PROMOVIDA PELO PACOTE ANTICRIME. NÃO CONFIGURAÇÃO DA OMISSÃO. TESE NÃO SUSCITADA ANTERIORMENTE. TESE SUBSIDIÁRIA.ILEGALIDADE DAPRISÃO AUTOMÁTICA.NECESSIDADE DE FUNDAMENTOS CONCRETOS. PRECEDENTES.
+1. Se a possibilidade de prisão automática em condenações do júrique aplicam pena igual ou superior a 15 anosnão foi suscitada anteriormente, é descabido tachar o acórdão de omisso, por não ter tratado do tema.
+2.Ainda que assim não fosse, é pacífica a jurisprudência desta Corte no sentido de que é ilegal a execução provisória da pena como decorrência automática dacondenação proferida pelo Tribunal do Júri, mesmo nos casos em que a pena aplicada é igual ou superior a 15 anos.
+3. Embargos de declaração rejeitados.
+VOTO
+O julgado não possui a omissão apontada.
+Assim, se a possibilidade de prisão automática em condenações do júri que aplicam pena igual ou superior a 15 anosnão foi suscitada anteriormente, é descabido tachar o acórdão de omisso, por não ter tratado do tema. A via eleita pela acusação para indicar a necessidade de aplicação de artigo que se tornou vigente após a interposição do writ é indevida.
+Ainda que assim não fosse, é pacífica a jurisprudência desta Corte no sentido de que é ilegal a execução provisória da pena como decorrência automática da
+condenação proferida pelo Tribunal do Júri, mesmo nos casos em que a pena aplicada é igual ou superior a 15 anos.
+HABEAS CORPUS. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. EXECUÇÃO PROVISÓRIA DA PENA. CONDENAÇÃO PROFERIDA PELO TRIBUNAL DO JÚRI.AUSÊNCIA DE TRÂNSITO EM JULGADO. HABEAS CORPUS CONCEDIDO.
+1. Após o julgamento da Suprema Corte das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, houve alteração legal no art.492, inc. I, alínea "e", do CPP, em que é determinado que o Juiz Presidente do Tribunal de Júri proferirá sentença que, em caso de condenação, "mandará o acusado recolher-se ou recomendá-lo-á à prisão em que se encontra, se presentes os requisitos da prisão preventiva, ou, no caso de condenação a uma pena igual ou superior a 15 (quinze) anos de reclusão, determinará a execução provisória das penas, com expedição do mandado de prisão, se for o caso, sem prejuízo do conhecimento de recursos que vierem a ser interpostos".
+2. Contudo, é pacífica a jurisprudência desta Corte no sentido de que é ilegal a execução provisória da pena como decorrência automática da condenação proferida pelo Tribunal do Júri.
+3. Habeas corpus concedido para obstar as execuções provisórias das penas impostas aos pacientes.
+(HC 623.107/PA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020 - grifo nosso)
+Por fim, verifica-se que ainda não há deliberação final sobre o assunto no Supremo Tribunal Federal, haja vista a não conclusão do RE n. 1.235.340/SC, em que foi reconhecida a repercussão geral da matéria. Nesse contexto, deve-se dar vazão ao entendimento fixado nesta Corte Superior de Justiça.
+Ante o exposto, rejeito os embargos de declaração.
