@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NECESSIDADE DE O PRODUTOR RURAL (PESSOA FÍSICA) ESTAR INSCRITO NA JUNTA COMERCIAL HÁ MAIS DE 2 (DOIS) ANOS PARA FAZER JUS AO BENEFÍCIO DARECUPERAÇÃO JUDICIAL. IMPROCEDÊNCIA. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência atual desta Corte é pela desnecessidade de o produtor rural (pessoa física) estar inscrito há mais de 2 (dois) anos na Junta Comercial para ter direito ao benefício da recuperação judicial.
+2. A alegação de que o julgado colacionado como paradigma não reflete o entendimento desta Corte não é suficiente para a modificação da decisão.
+3. Razões recursais insuficientes.
+4. Agravo interno desprovido.
+RELATÓRIO
+Paulista Invest Fomento Mercantil Ltda. interpôs recurso especial contra o acórdão de fls. 510-517 (e-STJ), proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO DE EMPRESA. DEFERIMENTO DO PROCESSAMENTO. POSSIBILIDADE DE USUFRUTO DO BENEFÍCIO PELO EMPRESÁRIO RURAL PESSOA FÍSICA. DÚVIDA OBJETIVA. MATÉRIA AFETADA NOSTJ. COMPROVAÇÃO DA ATIVIDADE PELO GRUPO. 1. À vista da questão em torno da possibilidade ou não do empresário rural pessoa física pleitear o benefício da recuperação judicial, caracterizando-se divergência temática (Propostas de afetação de Recursos Especiais como repetitivos - ProAfR no REsp n. 1684994/MT, ProAfR no REsp 1685994/MT e ProAfR no REsp 1686022/MT), justificável o deferimento da medida, até como providência de maior racionalidade jurídica, para evitar riscos mais danosos do que a resultante do indeferimento, repercursão quanto à função social da empresa. 2. Não se mostra viável opor o registro como condição para o deferimento do benefício, tendo em vista, primeiramente, o fato de o mesmo possuir efeito meramente declaratório (não constitutivo) para a qualificação de empresário rural (art. 48, § 2º, da Lei de Falências e Recuperação Judicial). Agravo conhecido e desprovido.
+Nas razões do recurso especial (e-STJ, fls. 528-565), apontoua insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 1º e 48 da Lei 11.101/2015; e 971 do Código Civil. Sustentou, em síntese, a necessidade de o produtor rural (pessoa física) estar registrado na Junta Comercial há mais de 2 (dois) anos para ter direito ao benefício da recuperação judicial.
+Foram apresentadas contrarrazões às fls. 609-621 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 629-630), ascenderam os autos a esta Corte.
+Na sequência, em decisão monocrática de fls. 649-651 (e-STJ), esta relatoria conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Daí a apresentação deste agravo interno (e-STJ, fls. 654-660), no qual persiste a agravante na tese de necessidade de o produtor rural pessoa física estar registrado na Junta Comercial há mais de 2 (dois) anos para ter direito ao benefício da recuperação judicial.
+Impugnação às fls. 665-674 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NECESSIDADE DE O PRODUTOR RURAL (PESSOA FÍSICA) ESTAR INSCRITO NA JUNTA COMERCIAL HÁ MAIS DE 2 (DOIS) ANOS PARA FAZER JUS AO BENEFÍCIO DARECUPERAÇÃO JUDICIAL. IMPROCEDÊNCIA. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência atual desta Corte é pela desnecessidade de o produtor rural (pessoa física) estar inscrito há mais de 2 (dois) anos na Junta Comercial para ter direito ao benefício da recuperação judicial.
+2. A alegação de que o julgado colacionado como paradigma não reflete o entendimento desta Corte não é suficiente para a modificação da decisão.
+3. Razões recursais insuficientes.
+4. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo desprovimento do recurso especial, tendo em vista o entendimento desta Corte sobre a matéria.
+Veja-se às fls. 650-651 (e-STJ):
+Inicialmente, vale ressaltar que a controvérsia de número 29, a qual tratava do tema presente neste recurso, foi cancelada.
+Veja-se:
+A Segunda Seção que, em sessão eletrônica iniciada em 22/11/2017 e finalizada em 28/11/2017, deliberou, vencido o relator, Ministro Marco Buzzi, não afetar os processos ao rito dos recursos repetitivos (ProAfR 2).Nos termos do art. 256-G do Regimento Interno do STJ, a situação da presente controvérsia foi alterada para cancelada.
+Dessa forma, a jurisprudência atual desta Corte é pela desnecessidade de o produtor rural (pessoa física) estar inscrito a mais de 2 (dois) anos na Junta Comercial para ter direito ao benefício da recuperação judicial.
+Nesse sentido:
+RECURSO ESPECIAL. CIVIL E EMPRESARIAL. EMPRESÁRIO RURAL E RECUPERAÇÃO JUDICIAL. REGULARIDADE DO EXERCÍCIO DA ATIVIDADE RURAL ANTERIOR AO REGISTRO DO EMPREENDEDOR (CÓDIGO CIVIL, ARTS. 966, 967, 968, 970 E 971). EFEITOS EX TUNC DA INSCRIÇÃO DO PRODUTOR RURAL. PEDIDO DE RECUPERAÇÃOJUDICIAL (LEI 11.101/2005, ART. 48). CÔMPUTO DO PERÍODO DE EXERCÍCIO DA ATIVIDADE RURAL ANTERIOR AO REGISTRO. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.1. O produtor rural, por não ser empresário sujeito a registro, está em situação regular, mesmo ao exercer atividade econômica agrícola antes de sua inscrição, por ser esta para ele facultativa.2. Conforme os arts. 966, 967, 968, 970 e 971 do Código Civil, com a inscrição, fica o produtor rural equiparado ao empresário comum, mas com direito a "tratamento favorecido, diferenciado e simplificado (..), quanto à inscrição e aos efeitos daí decorrentes".3. Assim, os efeitos decorrentes da inscrição são distintos para as duas espécies de empresário: o sujeito a registro e o não sujeito a registro. Para o empreendedor rural, o registro, por ser facultativo, apenas o transfere do regime do Código Civil para o regime empresarial, com o efeito constitutivo de "equipará-lo, para todos os efeitos, ao empresário sujeito a registro", sendo tal efeito constitutivo apto a retroagir (ex tunc), pois a condição regular de empresário já existia antes mesmo do registro. Já para o empresário comum, o registro, por ser obrigatório, somente pode operar efeitos prospectivos, ex nunc, pois apenas com o registro é que ingressa na regularidade e se constitui efetivamente, validamente, empresário.4. Após obter o registro e passar ao regime empresarial, fazendo jus a tratamento diferenciado, simplificado e favorecido quanto à inscrição e aos efeitos desta decorrentes (CC, arts. 970 e 971), adquire o produtor rural a condição de procedibilidade para requerer recuperação judicial, com base no art. 48 da Lei 11.101/2005 (LRF), bastando que comprove, no momento do pedido, que explora regularmente a atividade rural há mais de 2 (dois) anos. Pode, portanto, para perfazer o tempo exigido por lei, computar aquele período anterior ao registro, pois tratava-se, mesmo então, de exercício regular da atividade empresarial.5. Pelas mesmas razões, não se pode distinguir o regime jurídico aplicável às obrigações anteriores ou posteriores à inscrição do empresário rural que vem a pedir recuperação judicial, ficando também abrangidas na recuperação aquelas obrigações e dívidas anteriormente contraídas e ainda não adimplidas.6. Recurso especial provido, com deferimento do processamento da recuperação judicial dos recorrentes.(REsp 1800032/MT, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/11/2019, DJe 10/02/2020).
+Assim, a decisão recorrida se mostra em sintonia com o entendimento atual deste Tribunal, razão pela qual não merece reforma.
+Diante do exposto, conheço do recurso especial e nego-lhe provimento.
+Na presente insurgência, defende a agravante que o julgado colacionado na decisão monocrática traz entendimento isolado enão é unânime, razão pela qual não reflete o entendimento da Corte.
+Ora, a tese de que o julgado paradigma traz entendimento isolado e não foi proferido por maioria não se mostra suficiente para a alteração da decisão.
+Vale ainda ressaltar que, se a agravante entende que há nesta Corte divergência de jurisprudência sobre a matéria, deve argui-la através da via adequada, a saber, os embargos de divergência.
+Dessa forma, prevaleceofundamentoda decisão agravada, por insuficiência das razões recursais.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
