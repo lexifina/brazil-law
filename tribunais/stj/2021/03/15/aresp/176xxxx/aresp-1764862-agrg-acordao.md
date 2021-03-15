@@ -1,0 +1,69 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. JULGAMENTO CONTRÁRIO À PROVA DOS AUTOS. INOCORRÊNCIA. SÚMULA 7/STJ. INCIDÊNCIA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Tendo o Tribunal de origem concluído no sentido de que a decisão condenatória pelo delito de homicídio qualificado encontra respaldo nos depoimentos das testemunhas, não há que falar em julgamento contrário à prova dos autos, de modo que para rever a conclusão do julgado combatido, seria necessário o confronto do veredicto do Conselho de Sentença com os fatos e provas dos autos, o que esbarra no óbice da Súmula 7 desta Corte.
+2. É firme a jurisprudência desta Corte no sentido de que, com a interposição de agravo regimental, torna-se superada a alegada nulidade, tendo em vista que se devolve a matéria recursal ao órgão julgador competente.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+Trata-se de agravo regimental interposto em face da decisão que negou provimento ao agravo em recurso especial.
+Alega a defesa que Não pretende o REsp a análise por este STJ das situações de fato que integram os autos, mas apenas a verificação que há ampla divergência entre o material obtido na fase inquisitiva e na fase judicial, desta vez, mediante manto do contraditório (fl. 740).
+Aponta, ainda, ofensa ao princípio da colegialidade.
+Requer, assim, a reconsideração da decisão ou o provimento do agravo regimental pelo Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO NEFI CORDEIRO (Relator):
+A decisão agravada foi proferida nos seguintes termos:
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+De início, aduz o recorrente violação do art. 619 do CPP, por negativa de prestação jurisdicional.
+No entanto, não vislumbro violação ao art. 619 do CPP porquanto o Tribunal de origem enfrentou todos os pontos relevantes ao deslinde da controvérsia nos acórdãos de apelação e dos embargos de declaração, adotando, contudo, solução jurídica contrária aos interesses do recorrente, não havendo falar, assim, em negativa de prestação jurisdicional.
+Conforme a jurisprudência desta Corte, somente a omissão relevante à solução da controvérsia não abordada pelo acórdão recorrido constitui negativa de prestação jurisdicional e configura violação do art. 619 do Código de Processo Penal (REsp 1653588/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/06/2017, DJe 21/06/2017).
+No tocante à anulação do julgamento, o acórdão recorrido assim referiu (fls. 457-459):
+A materialidade do fato pode ser ilustrada pelo laudo de perícia tanatoscópica de fls. 30.
+Quanto à autoria delitiva, os depoimentos das testemunhas são uníssonos em confirmar que o apelante Mauri Moura da Silva pode ter sido o autor intelectual do crime em comento.
+O substrato probatório coligido aos autos ampara o desfecho alcançado pelo Conselho de Sentença, não havendo falar em decisão manifestamente contrária à prova dos autos.
+Frise-se, que o veredicto do Conselho de Sentença, por força constitucional, é soberano, não cabendo ao Tribunal ad quem adentrar na análise meritória, podendo, tão somente, nos casos em que haja dúvida de ter sido o julgamento contrário à prova dos autos, submeter o acusado a novo julgamento.
+A testemunha Érika Rodrigues de Albuquerque, às fls. 44 do caderno processual, declarou o seguinte:
+"(..)Que um primo da sua genitora é ex PM (..); que meses mais tarde, sua genitora foi assassinada quando ela tinha ido lavar a casa uma vez que ela estava desocupada, e ela iria morar nela; que, ao terminar a limpeza quando voltava para casa acompanhada de seu filho Danilo, foi abordada por dois homens conduzindo uma moto; que dispararam contra ela atingindo-a fatalmente; que os dois homens estavam de capacete, porém no dia seguinte, ainda no cemitério, c depoente perguntou ao seu irmão Danilo, de 8 (oito) anos de idade, quem teria sido o autor dos disparos (..); que ele respondeu que teria sido o primo de sua genitora AMAURY, inclusive dizendo algumas características físicas dele (..)",
+A testemunha Danilo Rodrigues de Albuquerque, filho da vítima, em juízo confirma a versão acolhida pelo Tribunal Popular. Vejamos:
+Quando ele depoente foi na casa para carpintar, a mãe dele depoente já havia ganhado uma causa referente àquela casa na justiça; que os dois homens chegaram em uma moto e um deles efetuou vários disparos em sua genitora momento em que o amigo de sua mão correu (..)
+A testemunha Edvaldo Boaventura Rodrigues declinou em sede de inquérito
+"(..) que a ameaça sofrida por sua filha foi feita pelo sobrinho de sua esposa que teria dito: "eu saio da casa mas vou lhe matar; que acha que pode ter sido o sobrinho de sua falecido esposa, pois Edna/do não tinha intrigas com ninguém (..)".
+A testemunha Dirceu Pimentel de Albuquerque declinou em juízo, que 223v:
+"( ) Que Ednalva me disse que escutou a seguinte ameaça de Mauri: "se você vier, eu mostro a você que a gente não mora, mas também você não vai morar; que Ednalva contou isso lá na casa onde a gente morava na Boa Vista (,)".
+Das declarações transcritas, verifica-se que a decisão do Conselho de Jurados não contrariou o arcabouço probatório, mas sim, foi tomada com arrimo nos elementos constantes dos autos.
+A decisão do Conselho de Sentença deve prevalecer, em atenção à soberania dos veredictos no Tribunal do Júri (artigo 5º, XXXVIII, da Constituição Federal). Nos casos envolvendo Tribunal Popular, a desconstituição da convicção firmada pelo Conselho de Sentença somente pode ocorrer quando ausente qualquer elemento de prova que a sustente, o que não é o caso dos autos.
+Assim, demonstrada que a decisão do Júri Popular está em consonância com as demais provas, não merece amparo a tese defensiva.
+Como se vê, o Tribunal de origem concluiu no sentido de que a decisão condenatória pelo delito de homicídio qualificado tentado encontra respaldo nos depoimentos das testemunhas, não havendo que falar em julgamento contrário à prova dos autos, uma vez dissociada a tese exculpatória da prova dos autos. Nessa linha:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. REEXAME DE PROVAS. INADEQUAÇÃO DA VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO.
+ ..
+2. No caso concreto, a Corte local consignou, no voto condutor do acórdão, que: "(..) A tese de nulidade do julgamento não merece guarida e a hipótese é de manutenção da condenação tal como lançada. Os delitos restam comprovados. O apelante foi preso em flagrante e reconhecido pela prática de todos os delitos. A versão de legítima defesa não encontra amparo na prova colhida. (..) As testemunhas Demerval Farias e Cleber Alessandro (fls. 93/98 e 106) confirmaram os fatos de forma clara e segura. Ora, impossível entender que o julgamento do apelante ocorreu de forma contrária as provas dos autos, sendo que os Jurados atentaram para as provas orais e documentais apresentadas durante todo o julgamento, as quais amparam o a procedência da ação penal. Anote-se que o ora apelante foi reconhecido e não negou sua conduta, apenas indicando que teria agido em estado de legítima defesa, tese excludente que restou isolada nas provas dos autos. Assim, como já ressaltado, a materialidade e autoria restaram comprovadas pela prova colhida, não havendo nenhum indício de que os senhores jurados não tenham atentado aos fatos narrados. (..) Logo, os jurados, afastando a tese da defesa, não decidiram de maneira contrária às provas. As penas impostas estão fundamentadas pelo Juiz togado e não merecem reparo, já que atenderam a todas as fases processuais, dentro da realidade e limite dos fatos e da situação pessoal do apelante.(..)."
+3. A rediscussão da matéria mostra-se incompatível com a via mandamental eleita, porquanto, para se invalidar a conclusão da instância originária, torna-se imprescindível a reavaliação do contexto fático probatório.
+4. Inexistência, assim, de constrangimento ilegal, a justificar a concessão da ordem de ofício.
+5. Habeas corpus não conhecido.
+(HC 297.538/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/12/2015, DJe 02/02/2016).
+Ademais, cabe às instâncias ordinárias fazer o exame do conteúdo fático-probatório para aferir a existência de elementos aptos a embasar a condenação. Sendo assim, para rever a conclusão do julgado combatido, acolhendo-se a tese de julgamento contrário às provas dos autos, seria necessário o confronto do veredicto do Conselho de Sentença com os fatos e provas dos autos, o que esbarra no óbice da Súmula 7 desta Corte. Confira-se:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. TRIBUNAL DO JÚRI. JULGAMENTO CONTRÁRIO ÀS PROVAS DOS AUTOS. ANULAÇÃO DO DECRETO ABSOLUTÓRIO PELO TRIBUNAL A QUO. REEXAME DE PROVAS. SÚMULA 7/STJ. SOBERANIA DOS VEREDICTOS. VIOLAÇÃO. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Rever o entendimento externado pelo Tribunal a quo, de que a sentença seria manifestamente contrária às provas dos autos, implicaria o necessário reexame do contexto fático probatório, o que não se admite na via do recurso especial, nos termos da Súmula 7/STJ.
+2. Não tendo sido arguida tese outra afora a negativa de colaboração para o crime, a absolvição de policial que auxilia no crime de particular representa decisão que pode ser valorada como contrária à prova dos autos. Precedentes.
+3. Agravo regimental improvido. (AgRg no AREsp 920.656/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 30/03/2017, DJe 07/04/2017)
+Ante o exposto, nego provimento ao agravo em recurso especial.
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+Com efeito, tendo o Tribunal de origem concluído no sentido de que a decisão condenatória pelo delito de homicídio qualificado encontra respaldo nos depoimentos das testemunhas, não há que falar em julgamento contrário à prova dos autos, de modo que para rever a conclusão do julgado combatido, seria necessário o confronto do veredicto do Conselho de Sentença com os fatos e provas dos autos, o que esbarra no óbice da Súmula 7 desta Corte.
+Ademais, é firme a jurisprudência desta Corte no sentido de que, com a interposição de agravo regimental, torna-se superada a alegada nulidade, tendo em vista que se devolve a matéria recursal ao órgão julgador competente. Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSO PENAL.
+OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. ART. 387,
+IV, DO CPP. REPARAÇÃO CIVIL. DANOS MORAIS. POSSIBILIDADE.
+TESE FIRMADA NO RESP N. 1.643.051/MS, JULGADO SOB O RITO DOS
+RECURSOS REPETITIVOS. PEDIDO EXPRESSO DA ACUSAÇÃO NA
+DENÚNCIA. EXISTÊNCIA. INSTRUÇÃO PROBATÓRIA ESPECÍFICA.
+DESNECESSIDADE. PRECEDENTES.
+1. Não ocorre violação ao princípio da colegialidade, a teor do art. 34, XVIII, c, do
+RISTJ, e da Súmula 568/STJ, quando a decisão monocrática for proferida com base
+na jurisprudência dominante deste Superior Tribunal.
+ .. .
+3. Agravo regimental improvido (AgRg no REsp 1691763/MS, Rel. Ministro
+SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe
+03/04/2018).
+Ante o exposto, voto por negar provimento ao agravo regimental.
