@@ -1,0 +1,22 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por AMADEU BUENO E OUTROS com fundamento no art. 105, inciso III, alíneas "a" e "c" da Constituição da República, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (fls. 731/732 ):
+AÇÃO DE RESPONSABILIDADE OBRIGACIONAL SECURITÁRIA. DANOS DECORRENTES DE VÍCIOS NACONSTRUÇÃO. EXTINÇÃO DO PROCESSO POR PRESCRIÇÃO E ILEGITIMIDADE PASSIVA. INSURGÊNCIA DOS AUTORES.
+(A)CERCEAMENTODEDIREITODEDEFESA.INOCORRÊNCIA.PRINCÍPIODOLIVRECONVENCIMENTOMOTIVADO. ELEMENTOS PROBATÓRIOS SUFICIENTES PARARESOLUÇÃO DA CONTROVÉRSIA.
+(B) PRESCRIÇÃO RECONHECIDA EM RELAÇÃO A OITO DOS NOVE AUTORES. APLICAÇÃO DO ART. 178, § 6º, INCISO H, DO CÓDIGO CIVIL DE 1916 E ART. 206, §1º, INCISO II, DO CÓDIGO CIVIL DE 2002. AJUIZAMENTO DA DEMANDAA PÓS A FLUÊNCIADO PRAZO DE UM ANO DA EXTINÇÃO DOS CONTRATOS DE FINANCIAMENTO. CONTRATOS DE SEGURO QUE TEM SEUS EFEITOS RESTRITOS AO LIMITE TEMPORAL DEDURAÇÃO DAQUELES.
+(C) ILEGITIMIDADE PASSIVA. NÃO CONFIGURAÇÃO.CONTRATO DE FINANCIAMENTO VINCULADO AO SISTEMAFINANCEIRO DE HABITAÇÃO. RÉU QUE INTEGRAVA O "POOL"DE SEGURADORAS
+(D) DESMEMBRAMENTO DO FEITOE DECLINAÇÃO DACOMPETÊNCIA PARAA JUSTIÇA FEDERAL EM RELAÇÃOA UMDOS AUTORES EM RAZÃO DOINTERESSE DA CAIXA ECONÔMICAFEDERAL. REQUISITOS DO RECURSO ESPECIAL 1.483.620/SC, REPRESENTATIVO DA CONTROVÉRSIA, PREENCHIDOS. COMPETÊNCIA DA JUSTIÇAFEDERAL PARA JULGAR A CONTROVÉRSIA REFERENTEA CONTRATO CELEBRADO ENTRE02/12/1988 A 29/12/2009 COM APÓLICEDE SEGURO VINCULADAAO FCVS (RAMO 66), DIANTE DA DEMONSTRAÇÃO,A PRINCÍPIO, DO COMPROMETIMENTO DO FCVS, COM RISCODEEXAURIMENTO DA RESERVA TÉCNICA DOFESA. APLICAÇÃO DOART, 109, INCISO I, DA CONSTITUIÇÃOFEDERAL E SÚMULA 150DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO PARCIALMENTE PROVIDO, COM A DECLINAÇÃO, DE OFICIO,DA COMPETÊNCIA PARA A JUSTIÇA FEDERAL.
+Em suas razões recursais, os recorrentes sustentarama violação aoart.206, §1º, inciso II, do Código Civil, ao argumento de que não ocorreu a prescrição da pretensão.Aduziram contrariedade aos arts. 371, do Código de Processo Civil e 6º da Lei de Introdução ao CC, quanto ao termo inicial do prazo prescricional. Acenaram pela ocorrência de dissídio jurisprudencial.Requereram, por fim, o provimento do recurso especial.
+Houve contrarrazões.
+É o relatório.
+Passo a decidir.
+Acontrovérsiadevolvidaao conhecimento desta Corte Superior mediante o recurso especial interposto foi afetada ao rito do art. 1.036, do Código de Processo Civil de 2015, com ordem de sobrestamento da 2ª Seção nos Recursos Especiais n.º 1.799.288/PR e 1.803.225/PR, para uniformizar o entendimento sobre a "Fixação do termo inicial da prescrição da pretensão indenizatória em face de seguradora nos contratos, ativos ou extintos, do Sistema Financeiro de Habitação" (Tema 1.039).
+Impõe-se, assim, que o recursoaguardeno Tribunal de origem a solução das referidas questões, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Cumpre destacar que, em conformidade com o art. 1.041, § 2º, do CPC/2015,
+apenas após essas providências é que o recurso especial, se for o caso, deverá ser reencaminhado a este Tribunal Superior para análise das demais questões jurídicasnele suscitadas que eventualmente não fiquem prejudicadas pela conformidade do acórdão recorrido com a decisão sobre o tema repetitivo e repercussão geral ou pelo novo pronunciamento do Tribunal de origem.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, inciso II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, a presente decisão possui recorribilidade limitada à demonstração dodistinguishing, na forma do art. 1.037, §§9º e 10, inciso IV, do CPC, sendo que não será conhecido o eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. SEGURO HABITACIONAL. VÍCIO DE CONSTRUÇÃO. PRESCRIÇÃO. MATÉRIA AFETADA SOB O RITO DOS RECURSOS REPETITIVOS - RESP Nº1.799.288/PR E 1.803.225/PR.SUSPENSÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM.
