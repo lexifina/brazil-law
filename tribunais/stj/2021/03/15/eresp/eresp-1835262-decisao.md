@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos por SERGEN SERVIÇOS GERAIS DE ENGENHARIA S/A contra acórdão da Primeira Turma, relatado pela Ministra Regina Helena Costa, do qual se extraiu a seguinte ementa:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. MARCO TEMPORAL PARA DEFINIÇÃO DO REGIME DOS HONORÁRIOS ADVOCATÍCIOS. PROLAÇÃO DA SENTENÇA (OU ATO JURISDICIONAL EQUIVALENTE). APLICAÇÃO DE MULTA. ART. 1.021, § 4 o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte Especial consolidou a orientação segundo a qual a sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), configura ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, devendo ser considerada como o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4o, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido (e-STJ fl. 299).
+Em suas razões recursais, a embargante afirma que há dissídio jurisprudencial com relação ao ato processual a ser considerado para fins de arbitramento dos honorários advocatícios.
+Para tanto, indica como paradigma o acórdão proferido no EAREsp n. 1.255.986/PR, da Corte Especial, relatado pelo Ministro Luis Felipe Salomão.
+Assevera que, "enquanto a Colenda 1ª Turma do E. STJ entendeu que o marco temporal para fixação dos honorários seria a "(..) decisão de fls. 89/92 (..)" (que trata-se de mera decisão interlocutória), a Colenda Corte Especial do E. STJ assentou no EAREsp nº 1.255.986/PR que o indigitado marco temporal para a fixação dos honorários advocatícios de sucumbência é a data da prolação da sentença ou acórdão que julgar a lide" (e-STJ fl. 375-376).
+Contrarrazões, às e-STJ fls. 426-429.
+O Ministério Público Federal restituiu os autos sem apreciação do mérito, tendo em vista a prescindibilidade de sua intervenção como fiscal da lei no caso em exame (e-STJ fls. 431-433).
+É o relatório.
+Decido.
+Preliminarmente, cumpre registrar que, embora inicialmente admitidos os embargos de divergência, após o processamento do feito para sua devida instrução, o relator poderá, em nova análise dos autos, abordar os pressupostos extrínsecos e/ou intrínsecos do recurso uniformizador.
+Não há falar, na hipótese referida, em preclusão pro judicato, inexistindo afronta às disposições do Código de Processo Civil e ao Regimento Interno do Superior Tribunal de Justiça.
+Destaca-se, nesse sentido, o seguinte julgado da Corte Especial:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PRECLUSÃO PRO JUDICATO. INOCORRÊNCIA. COTEJO ANALÍTICO ENTRE O ACÓRDÃO EMBARGADO E O ARESTO PARADIGMA. NÃO DEMONSTRAÇÃO. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Cuida-se, na origem, de de execução de título extrajudicial, na qual foi penhorado bem supostamente de família.
+2. O exame da admissibilidade dos embargos de divergência não se sujeita à preclusão pro judicato, podendo o relator unipessoalmente rever seu posicionamento inicial acerca da presença dos pressupostos recursais. Precedente.
+3. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas ou pelo menos assemelhadas, nos termos do disposto no artigo 266, § 4º, do RISTJ. 4. Agravo interno não provido.
+(AgInt nos EREsp 956.942/RJ, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 12/11/2019, DJe 20/11/2019, grifos acrescidos.)
+Nesse contexto, de uma nova análise dos autos, verifica-se que o presente recurso não reúne condições de avanço no mérito da divergência.
+É que, os embargos de divergência ostentam característica de recurso de fundamentação vinculada, a teor do que dispõem os arts. 1.043 e 1.044 do CPC, os quais exigem, como pressuposto indispensável, a demonstração de divergência jurisprudencial entre sessões e turmas.
+Na dicção do art. 1.043 do Código de Processo Civil, é embargável o acórdão de órgão fracionário que:
+I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+ ..
+III - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia.
+A propósito, confira-se oseguintejulgadoda Corte Especial:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. PENAL. HOMICÍDIO. PRESCRIÇÃO. INTERRUPÇÃO. OCORRÊNCIA. TRÂNSITO EM JULGADO. TERMO INICIAL. DIVERGÊNCIA JURISPRUDENCIAL ATUAL. NECESSIDADE. COMPROVAÇÃO DO DISSÍDIO. AUSÊNCIA.
+ ..
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a admissão dos embargos de divergência está condicionada à comprovação da divergência jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fática entre o acórdão embargado e julgados paradigmas atuais.
+III - Os embargos de divergência, recurso de fundamentação vinculada, têm o propósito de compor divergência entre órgão fracionário do Supremo Tribunal Federal ou do Superior Tribunal de Justiça e qualquer outro órgão jurisdicional do mesmo tribunal (CPC/15, art. 1.043). Visa, portanto, a uniformizar a jurisprudência do tribunal.
+IV - Uma vez que goza de tal desiderato, são admitidos exclusivamente quando indicada e comprovada a existência de divergência interior no tribunal. Mais ainda, é necessário que a divergência seja atual (CPC, art. 1.044, caput, c.c. art. 266 do RISTJ - para o REsp).
+V - Compete ao embargante demonstrar analiticamente que os acórdãos têm similitude fática e jurídica, ou, como querem o art. 1.043, §4º, do CPC/15 e o art. 266, §4º, do RISTJ, "as circunstâncias que identificam ou assemelham os casos confrontados".
+VI - Quanto ao requisito da atualidade, confrontou acórdão da Quinta Turma com outro prolatado em 2008, portanto há mais de doze anos. Não demonstrou que a divergência persiste até hoje.
+VII - A respeito do tema, transcrevo ementas de julgados da Corte Especial que espelham o entendimento remansoso do Superior Tribunal de Justiça: (AgInt nos EREsp n. 1.806.207/SP, Rel. Ministro Francisco Falcão, Corte Especial, julgado em 9/6/2020, DJe 15/6/2020 e AgInt nos EREsp n. 1.621.875/SP, Rel. Ministra Nancy Andrighi, Corte Especial, julgado em 12/5/2020, DJe 15/5/2020).
+VIII - Além do descumprimento do requisito da atualidade, deixou a embargante de atender ao requisito formal da demonstração analítica da divergência, a evidenciar que órgãos fracionários do tribunal trataram de forma desigual questões jurídicas semelhantes. Nesse sentido, vejam-se os seguintes precedentes: (AgInt nos EREsp n. 1.430.325/PE, Rel. Ministro Francisco Falcão, Primeira Seção, julgado em 11/12/2019, DJe 17/12/2019, AgInt nos EDv nos EREsp n. 1.756.344/RJ, Rel. Ministro Gurgel de Faria, Primeira Seção, julgado em 3/12/2019, DJe 6/12/2019 e AgInt nos EREsp n. 1.580.178/SP, Rel. Ministro Mauro Campbell Marques, Corte Especial, julgado em 22/10/2019, DJe 25/10/2019).
+IX - Agravo interno improvido.
+(AgRg nos EAREsp 786.049/MT, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 16/12/2020, DJe 18/12/2020)
+No caso posto, do cotejo entre a fundamentação de ambos os arestos (acórdão embargado e paradigma), não se verifica a presença do dissídio pretoriano, tal qual delineado pela parte embargante.
+Depreende-se do voto condutor do acórdão embargado que a relatoria adotou o entendimento da Corte Especial "segundo a qual a sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015" (e-STJ fl. 303).
+Na sequência, houve a citaçãodo próprio acórdão ora apontado como paradigma, ementado nos seguintes termos:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRESERVAÇÃO DO DIREITO ADQUIRIDO PROCESSUAL.
+1. Em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova.
+2. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+3. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado. Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+4. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de o Tribunal de origemter reformado a sentença já sob a égide do CPC/2015, incidem, quanto aos honorários,as regras do diploma processual anterior.
+5. Embargos de divergência não providos (e-STJ fls. 379-380).
+Nesse contexto, em que pese o teor das razões recursais,verifica-se que o acórdão embargado alinhou-se ao entendimento da Corte Especial, o que atrai a incidência da Súmula n. 168 do STJ, no sentido de que "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Aliado a tal realidade, não restou demostrada a divergência jurisprudencial a ponto de justificar a uniformização pretendida. Desatendido orequisito imprescindível para a configuração do dissenso pretoriano, o presente recurso afigura-se inadmissível.
+Ante o exposto, com fundamento no art. 34, XVIII, alínea a, do RISTJ, não se conhecedos embargos de divergência.
+Publique-se.
+Intimem-se.
