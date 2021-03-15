@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por JOSE ERLAN DOS SANTOS contra acórdão prolatado pelo Tribunal de Justiça do Estado de Alagoas no HC n. 0803694-15.2020.8.02.0000.
+Depreende-se dos autos o recorrente foi condenado, pelo cometimento do crime de tráfico de drogas, previsto no art. 33, caput, da Lei n. 11.343/2006, àpena de 7 anos e 6 meses de reclusão, em regime inicialmente fechado.
+O Juízo da execução indeferiu o pedido de prisão domiciliar ou a antecipação do deferimento do regime semiaberto, formulado em razão da pandemia da Covid-19.
+Impetrado habeas corpus na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fl. 119):
+EXECUÇÃO PENAL. HABEAS CORPUS. PROGRESSÃO ANTECIPADA DA PENA. PRISÃO DOMICILIAR. COV1D-19. RECOMENDAÇÃO N. 62 DO CNJ. PACIENTE QUE INTEGRA O GRUPO DE RISCO. HIPERTENSÃO. AUSÊNCIA COMPROBATÓRIA QUE DEMONSTREM A NECESSIDADE DE TRATAMENTO EXTERNO. MEDIDAS SANITÁRIAS TOMADAS PARA EVITAR A CONTAMINAÇÃO DOS REEDUCANDOS. SUSPENSÃO DE VISITAS E ISOLAMENTO DO GRUPO DE RISCO. ORDEM CONHECIDA E DENEGADA.
+1  É sabido que a pandemia exige cuidados e atitudes, dentro dos limites legais, a serem tomadas pelo Poder Judiciário, prezando pela questão sanitária. A existência da pandemia não significa salvo conduto para soltura em massa de presos preventivos ou progressão antecipada. No presente caso, não ficou demonstrada a necessidade de tratamento médico fora do sistema prisional, sendo as medidas adotadas de prevenção satisfatórias para evitar a contaminação.
+2  Ordem conhecida e denegada.
+No presente recurso, sustenta a defesa que o recorrente é portador de hipertensão arterial, razão pela qual, de acordo com a Recomendação n. 62/2020 do CNJ, afigura-se cabível a progressão antecipada para o regime aberto ou a prisão domiciliar humanitária.
+Requer, liminarmente, "a progressão para o regime semiaberto, em prisão domiciliar e com monitoração eletrônica OU a prisão domiciliar humanitária ao recorrente, sendo, para tanto, expedido alvará de soltura" (e-STJ fl. 136).
+No mérito, pleiteia a confirmação da liminar.
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ fls. 170/172).
+É o relatório.
+Decido.
+Não verifico a existência do constrangimento ilegal alegado.
+Na linha da jurisprudência desta Corte Superior, "a recomendação contida na Resolução n. 62, de 18 de março de 2020, do CNJ não implica automática substituição da prisão cautelar pela domiciliar. É necessário que o eventual beneficiário do instituto demonstre: a) sua inequívoca adequação no chamado grupo de vulneráveis da COVID-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida, inocorrente na espécie" (RHC n. 133.853/MS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/9/2020, DJe 28/9/2020).
+No caso dos autos, consta no acórdão impugnado (e-STJ fl. 121):
+Instado a prestar informações, o juízo de 1º grau às apresentou em fls. 114/116, informando que manteve a prisão preventiva do ora paciente, "urna vez que, embora o paciente possua hipertensão, não restou comprovado a existência do comprometimento do seu estado de saúde ou que o tratamento a ela submetido dentro do sistema prisional esteja sendo prestado de forma deficitária, colocando-no em iminente situação de risco pela enfermidade que possui. Ademais, a doença pode ser facilmente tratada mediante uso de medicamentos."
+17  ademais, como bem pontuado no parecer da Procuradoria Criminal de Justiça não foi juntado aos autos do presente Habeas Corpus nenhum laudo, relatório médico ou documentação que comprove o comprometimento do estado de saúde do paciente, ou mesmo qual seria o tratamento ao qual a mesma não estaria conseguindo ter acesso no sistema prisional.
+Verifica-se, portanto, que, tendo o Tribunal de origem concluído pela ausência de comprovação da debilidade da saúde do paciente, o acolhimento do pleito defensivo demandaria, inevitavelmente, o revolvimento de fatos e provas, procedimento incompatível com a via estreita do habeas corpus.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. PANDEMIA. COVID-19. GRUPO DE RISCO. DIABÉTICO E HIPERTENSO. SITUAÇÃO DE VULNERABILIDADE CONCRETA NÃO EVIDENCIADA. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE NA VIA ESTREITA DO WRIT. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é assente no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. Conforme consignado no acórdão combatido, o agravante vem recebendo tratamento médico adequado inexistindo nos autos provas de qualquer comprometimento na saúde do paciente tampouco confirmação de situação de risco concreta no estabelecimento prisional em que está, não logrando êxito, assim, em comprovar que se encontraria em situação de vulnerabilidade no cárcere que pudesse ensejar, de forma excepcional, a concessão do pedido à prisão domiciliar.
+3. Para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+4. Agravo regimental não provido. (AgRg no HC 594.773/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/10/2020, DJe 16/10/2020)
+É de relevo mencionar, também, que o Poder Público não se quedou inerte diante da situação. O Conselho Nacional de Justiça já publicou a Recomendação n. 62/2020, pela qual adotou medidas preventivas à propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos sistemas de justiça penal e socioeducativo. O Ministério da Justiça e o Ministério da Saúde também publicaram a Portaria Interministerial n. 7, adotando uma série de medidas para o enfrentamento da situação emergencial.
+À vista do exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
