@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 263/273) interposto contra decisão desta relatoria que negou provimento ao recurso especial devido à incidência da Súmula n. 7 do STJ.
+Em suas razões, a parte agravante alega que, "em regra, a reiteração do recurso retido é feita no prazo de interposição de recurso especial ou extraordinário contra a decisão final, até porque a exigência de reiteração em sede de apelação, como assentado pelo TJRS e mantido pela decisão agravada, mostra-se ilógica, considerando que o Tribunal de segunda instância não tem competência para análise do apelo especial. Além disso, a parte poderá pretender aguardar o resultado da apelação interposta para fazer um juízo de conveniência quanto à necessidade, ou não, de recorrer aos tribunais superiores ou, ainda, de prosseguir com o recurso retido" (e-STJ fl. 267). Defende não ser aplicável ao caso a jurisprudência indicada na decisão monocrática.
+Sustenta não ser o caso de incidência da Súmula n. 7 do STJ, pois não pretende o reexame de provas uma vez que as premissas estão fixadas, tendo sido a parte devedora regularmente constituída em mora e pago apenas as parcelas vencidas. Entende que o pagamento de apenas uma parte das parcelas não pode retirar do credor fiduciário o direito de ajuizar ação de busca e apreensão.
+Ao final, pede a reconsideração da decisão agravada ou a apreciação deste recurso pelo Colegiado.
+Não houve contrarrazões (e-STJ fl. 284).
+É o relatório.
+Decido.
+Reapreciando os autos, verifico que houve a reiteração do recurso especial retido na petição do especial interposto contra o acórdão que julgou a apelação (e-STJ fl. 183). Sendo esse o recurso da decisão final, foi realizada no momento oportuno, de modo que é possível a análise do recurso retido.
+Dessa forma, prossigo na análise da matéria.
+Em suas razões (e-STJ fls. 111/124 do Ap.1 e 183/195), a parte sustentou que, nos termos da atual redação do art. 3º, § 2º, o Decreto-lei n. 911/1968, não é possível a purgação da mora, sendo que a restituição do bem apreendido depende do pagamento integral da dívida.
+De fato, conforme entendimento consolidado nesta Corte, inclusive em recurso especial julgado sob o rito do art. 543-C do CPC/1973, "nos contratos firmados na vigência da Lei n. 10.931/2004, compete ao devedor, no prazo de 5 (cinco) dias após a execução da liminar na ação de busca e apreensão, pagar a integralidade da dívida - entendida esta como os valores apresentados e comprovados pelo credor na inicial -, sob pena de consolidação da propriedade do bem móvel objeto de alienação fiduciária" (REsp n. 1.418.593/MS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/5/2014, DJe 27/5/2014.)
+Acrescente-se que a Segunda Seção do STJ firmou o entendimento de que não se aplica a teoria do adimplemento substancial para a alienação fiduciária regida pelo Decreto-Lei n. 911/1969 (REsp n. 1.622.555/MG, Relator para o Acórdão Ministro MARCO AURÉLIO BELLIZZE, DJe 16/3/2017).
+Assim, prospera o recurso no tópico.
+Ante o exposto, RECONSIDERO a decisão de fls. 258/260 (e-STJ) para DAR PROVIMENTO ao recurso especial e afastar a extinção do processo, determinando o retorno dos autos à origem, para que se prossiga no julgamento da demanda, nos termos do entendimento desta Corte quanto ao tema.
+Publique-se e intimem-se.
