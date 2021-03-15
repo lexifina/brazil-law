@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ANDERSON ANTONIO ELIAS ALVES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Agravo em Execução Penal n. 0552923-1).
+Depreende-se dos autos que o paciente cumpria pena em regime semiaberto quando, em tese, praticou novo delito, tendo sido determinada pelo Juízo das Execuções a regressão cautelar e a instauração de PAD.
+Irresignada, a defesa interpôs agravo, tendo o Tribunal de origem negado provimento ao recurso nos termos do acórdão de e-STJ fls. 43/43.
+Daí o presente writ, no qual alega a defesa, em síntese, que, "ante a ausência de audiência de justificação (artigo 118, parágrafo 2º, da Lei 7.210/1984), com a conseqüente ofensa ao contraditório e ampla defesa (artigo 59, inciso IV, da Constituição da República), assim como à garantia assegurada no artigo 8 .l. da Convenção Americana de Direitos Humanos, a Defesa Pública requer seja declarada nula a decisão combatida e cassado seus efeitos. O direito de ser ouvido é inerente ao devido processo legal e está inscrito no art. 8º, inciso I, do Pacto de San Jose da Costa Rica" (e-STJ fl. 9).
+Requer, liminarmente e no mérito, "seja reconhecida a nulidade da decisão que homologou a falta ante a não realização de audiência de justificação, bem como pela ausência de Defensor Público para se manifestar sobre a falta" (e-STJ fl. 11).
+Indeferido o pedido liminar e prestadas informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Consoante parecer do Parquet federal e informações prestadas pelo Juízo das Execuções, "o PAD foi devidamente homologo e decretada a regressão cautelar de regime prisional, decisão posteriormente objeto de recurso de agravo de execução que foi improvido pelo TJPE" (e-STJ fl. 62).
+Fica, portanto, sem objeto o pedido contido neste writ, em que a defesa insurgia-se contra a regressão cautelar de regime prisional.
+A esse respeito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. PRETENSÃO DE ANULAÇÃO DA REGRESSÃO CAUTELAR POR ALEGADOS VÍCIOS OCORRIDOS NO PAD. SUPERVENIÊNCIA DE DECISÃO DEFINITIVA HOMOLOGANDO O PAD E DETERMINANDO A REGRESSÃO DEFINITIVA DO PACIENTE. NOVO TÍTULO. PREJUDICIALIDADE VERIFICADA. TESE DE EXCESSO DE PRAZO PARA A APRECIAÇÃO DO PEDIDO DE RETORNO DO PACIENTE AO REGIME SEMIABERTO. QUESTÃO SUPERADA PELA REGRESSÃO DEFINITIVA. DECISÃO REFORMADA. AGRAVO REGIMENTAL PROVIDO. HC PREJUDICADO.
+1. Sobrevindo julgamento pelo juízo das execuções do processo administrativo disciplinar que visava à apuração de falta grave, resta prejudicada a análise do writ, no que diz respeito à pretendida anulação da regressão cautelar do paciente, por alegados vícios ocorridos no decorrer do PAD, uma vez que a regressão não mais ostenta natureza cautelar, mas definitiva, decorrendo, agora, de decisão final.
+2. Ainda que assim não fosse, tais alegações não poderiam ser apreciadas por esta Corte Superior sob pena de indevida supressão de instância, como já assinalado na decisão agravada.
+3. Pelas mesmas razões, eventual constrangimento ilegal por excesso de prazo para a apreciação do pedido de retorno do paciente ao regime semiaberto também resta superado, porquanto formulado em face de decisão que determinara a regressão cautelar do paciente, que não mais subsiste, sendo substituída por nova decisão, a decisão definitiva de regressão que reconheceu e homologou a falta grave.
+4. Agravo regimental provido para não conhecer do writ. (AgRg no HC 358.717/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2016, DJe 19/12/2016, grifei.)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
