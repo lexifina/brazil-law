@@ -1,0 +1,33 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTORA DO ART. 33, § 4.º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO DO AGENTE AO CRIME. REGISTRO DE AÇÃO PENAL EM CURSO. FUNDAMENTAÇÃO IDÔNEA PARA AFASTAR A MINORANTE. PRECEDENTE DA TERCEIRA SEÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- Os embargos de declaração possuem fundamentação vinculada, dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória, omissa ou eivada de erro material, conforme disciplina o art. 619, do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão colegiada, que negou provimento ao agravo regimental em habeas corpus, não viabiliza a oposição dos aclaratórios.
+- A Terceira Seção, no julgamento do EResp n. 1.413.091/SP, da relatoria do Ministro Félix Fischer, assentou o entendimento de que é possível a utilização de inquéritos policiais e/ou de ações penais em curso para a formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei n. 11.343/2006.
+- O referido precedente da Terceira Seção, a quem compete a uniformização da jurisprudência em matéria criminal no âmbito do Superior Tribunal de Justiça, ainda não foi modificado, a despeito de existirem julgados recentes da Sexta Turma em sentido contrário.
+- Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Felix Fischer e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de petição de embargos de declaração (fls. 589/594) oposta por JUDISON PEREIRA MACHADO contra acórdão (fls. 576/586) proferido por esta Quinta Turma, que negou provimento ao agravo regimental anteriormente interposto.
+Nestes aclaratórios, a defesa alega que há erro material na decisão impugnada. Aduz que a decisão se baseia em falsa premissa, pois não é mais pacífica a jurisprudência desta Corte sobre a possibilidade de processos em andamento caracterizarem dedicação às atividades criminosas para fins de afastamento da causa de diminuição da pena do tráfico privilegiado.
+Afirma que tudo indica que o tema será reapreciado pela Terceira Seção e que haverá overruling, considerando que a Sexta Turma já firmou entendimento em sentido contrário ao adotado na decisão embargada.
+Ao final, requer sejam conhecidos os presentes embargos e sanados os vícios apontados para, reanalisando a matéria sob a ótica do novo entendimento da Sexta Turma, rever a jurisprudência desta Quinta Turma, dando efeitos infringentes aos embargos para fazer incidir o § 4.º, do art. 33, da Lei de Drogas na dosimetria da pena do embargante.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NO ACÓRDÃO EMBARGADO. MERA IRRESIGNAÇÃO. NÃO CABIMENTO DE ACLARATÓRIOS. TRÁFICO DE DROGAS. DOSIMETRIA. REDUTORA DO ART. 33, § 4.º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO DO AGENTE AO CRIME. REGISTRO DE AÇÃO PENAL EM CURSO. FUNDAMENTAÇÃO IDÔNEA PARA AFASTAR A MINORANTE. PRECEDENTE DA TERCEIRA SEÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+- Os embargos de declaração possuem fundamentação vinculada, dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória, omissa ou eivada de erro material, conforme disciplina o art. 619, do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão colegiada, que negou provimento ao agravo regimental em habeas corpus, não viabiliza a oposição dos aclaratórios.
+- A Terceira Seção, no julgamento do EResp n. 1.413.091/SP, da relatoria do Ministro Félix Fischer, assentou o entendimento de que é possível a utilização de inquéritos policiais e/ou de ações penais em curso para a formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei n. 11.343/2006.
+- O referido precedente da Terceira Seção, a quem compete a uniformização da jurisprudência em matéria criminal no âmbito do Superior Tribunal de Justiça, ainda não foi modificado, a despeito de existirem julgados recentes da Sexta Turma em sentido contrário.
+- Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Os presentes embargos não merecem acolhimento.
+Como é cediço, os embargos de declaração possuem fundamentação vinculada, dessa forma, para seu cabimento, é necessária a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória, omissa ou eivada de erro material, conforme disciplina o art. 619, do Código de Processo Penal. A mera irresignação com o entendimento apresentado na decisão colegiada, que negou provimento ao agravo regimental em habeas corpus, não viabiliza a oposição dos aclaratórios.
+No caso dos autos, o acórdão que negou provimento ao agravo regimental em habeas corpus encontra-se devidamente motivado, não tendo incorrido em erro material nem em qualquer dos vícios listados no art. 619, do Código de Processo Penal.
+Com efeito, consignou que a Terceira Seção, no julgamento do EResp n. 1.413.091/SP, da relatoria do Ministro Félix Fischer, assentou o entendimento de que é possível a utilização de inquéritos policiais e/ou de ações penais em curso para a formação da convicção de que o Réu se dedica às atividades criminosas, de modo a afastar o benefício legal previsto no artigo 33, § 4º, da Lei n. 11.343/2006.
+O referido precedente da Terceira Seção, a quem compete a uniformização da jurisprudência em matéria criminal no âmbito do Superior Tribunal de Justiça, ainda não foi modificado, mesmo que existam julgados recentes da Sexta Turma em sentido contrário.
+A pretexto de sanar suposto erro material no acórdão, o embargante em verdade manifesta apenas irresignação com a decisão proferida, situação que não autoriza a utilização do instrumento processual dos embargos de declaração.
+Ante o exposto, rejeito os embargos.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
