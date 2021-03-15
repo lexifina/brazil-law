@@ -1,0 +1,69 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Empresa Brasileira de Correios e Telégrafos - ECT, com amparo na alínea a do inciso III do art. 105 da Constituição Federal, contra acórdão proferido pelo TRF da 5ª Região assim ementado (e-STJ, fls. 380-381):
+TRIBUTÁRIO. IMUNIDADE TRIBUTÁRIA RECÍPROCA. VALIDADE APENAS PARA IMPOSTOS. ABONO SALARIAL EM VIRTUDE DE ACORDO COLETIVO. NATUREZA JURÍDICA REMUNERATÓRIA. CONTRIBUIÇÃO PARA O SESI. INCIDÊNCIA. PRESCRIÇÃO QUINQUENAL.
+- Trata-se de apelação interposta pela Empresa Brasileira de Correios e Telégrafos (ECT) contra sentença que julgou procedente demanda do SESI para condená-la ao pagamento da quantia de R$ 116.060,98, correspondente ao não recolhimento de contribuição, apurado na Notificação no PB/62007, por diferença na base de cálculo.
+- O STF (RE 220.906) entendeu que a imunidade tributária recíproca do art. 150, VI, a, CF, seria extensível à ECT, vez que, embora seja empresa pública, explora serviço público sem caráter de atividade econômica.
+- No entanto, a imunidade tributária recíproca não inclui os demais tipos de tributos (taxas, contribuições ou contribuições de melhoria), sendo aplicável apenas aos impostos, de acordo com o entendimento pacificado pelo STF (RE 450314 AgR, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 25/09/2012, ACÓRDÃO ELETRÔNICO DJe-200 DIVULG 10-10-2012 PUBLIC 11-10-2012).
+- Em relação à natureza jurídica do abono salarial em virtude de acordo ou convenção trabalhista, dita verba tem caráter remuneratório, pois se presta a substituir reajuste salarial da categoria, motivo pelo qual deverá integrar a base de cálculo da contribuição para o SESI.
+- Precedente deste Tribunal (PROCESSO: 200681000148050, APELREEX9210/CE, RELATOR: DESEMBARGADOR FEDERAL GERALDO APOLIANO, Terceira Turma, JULGAMENTO: 15/03/2012, PUBLICAÇÃO:
+DJE 12/04/2012 - Página 215).
+- Não ocorrência da prescrição, haja vista que os créditos foram constituídos e cobrados nos prazos dos artigos 173 e 174 do Código Tributário Nacional.
+- Apelação improvida.
+Os embargos de declaração opostosforam rejeitados.
+Em suas razões, a recorrente levanta prefacial de ofensa ao art. 535 do CPC/1973, caso se entenda que a matéria não se encontra devidamente prequestionada.
+No mérito, aponta violação dos arts. 28, § 9º, e, item 7, da Lei n. 8.212/1991; 333, I, do CPC/1973; e 174 do CTN.
+Defende, em síntese, a não incidência de contribuição previdenciária sobre abono pagos por ocasião de acordos coletivos de trabalho entre os períodos de 2001 a 2006.
+Assevera, ainda, a ocorrência de prescrição e a ausência de comprovação dos valores cobrados.
+Contrarrazões recursais apresentadas às e-STJ, fls. 436-435.
+Admitido o recurso especial na origem (e-STJ, fl. 462), subiram os autos a esta Corte.
+É o relatório.
+No tocante à suposta contrariedade ao art. 535 do CPC/1973, a insurgente limitou-se a afirmar que o Tribunal a quo não deveria ter se recusado a pronunciar-se acerca das questões suscitadas nos aclaratórios sem, contudo, apontar precisamente de que modo as omissões poderiam influenciar no julgamento do acórdão impugnado e o porquê da deficiência de fundamentação, o que impede o conhecimento do apelo nobre quanto à alegada afronta aos citados dispositivos do Código de Ritos.
+Assim, é inadmissível o apelo especial nos casos em que a arguição é genérica, por incidir a Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."
+A título de ilustração, confiram-se os precedentes a seguir:
+PROCESSUAL. TRIBUTÁRIO. VIOLAÇÃO DO ARTIGO 535 DO CPC. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. NULIDADE DAS CDAs. SÚMULA 07/STJ. DECOTE DE EXCESSO DE EXECUÇÃO. POSSIBILIDADE. SELIC. LEGALIDADE. CARÁTER CONFISCATÓRIO DE MULTA. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DA SUPREMA CORTE. VERIFICAÇÃO DE SUCUMBÊNCIA, SE MÍNIMA OU RECÍPROCA, NA VIA ESPECIAL. INVIABILIDADE. SÚMULA 07/STJ.
+1. Alegações genéricas de afronta ao artigo 535 do CPC, sem apontar efetivamente as omissões e motivos pelos quais o Tribunal de origem deveria manifestar-se sobre elas, não bastam à abertura da via especial pela alínea "a" do permissivo da Constituição da República, nos termos da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+2. A investigação acerca do preenchimento dos requisitos formais da CDA que aparelha a execução fiscal demanda, necessariamente, a revisão do substrato fático-probatório contido nos autos, providência que não se coaduna com a via eleita, conforme vedação expressa da Súmula 7/STJ.
+3. Constatada a cobrança de valores indevidos, é possível a mera alteração da CDA, já que bastam cálculos aritméticos para tanto, com a diminuição respectiva, não induzindo sua nulidade. Precedentes.
+4. A apuração do caráter confiscatório da multa tributária depende da interpretação da norma prevista no artigo 150, V, da Constituição Federal, o que refoge ao âmbito do recurso especial.
+5. É devida a Taxa Selic nos cálculos dos débitos dos contribuintes para com a Fazenda Pública Federal.
+6. Mostra-se inviável, no âmbito de recurso especial, aferir o quantitativo em que autor e réu saíram vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, pois demanda análise de matéria fática, procedimento obstado, nos termos da Súmula 07/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+7. A recorrente não observou, no tocante à interposição do apelo pela alínea "c" do permissivo constitucional, as formalidades indispensáveis ao conhecimento do especial, porquanto não procedeu ao indispensável cotejo analítico no intuito de demonstrar que os arestos confrontados partiram de situações fático-jurídicas idênticas e adotaram conclusões discrepantes.
+8. Agravo regimental não provido
+(AgRg no Ag 1.354.461/PR, Rel. Min. CASTRO MEIRA, SEGUNDA TURMA, DJe 14/2/2010.)
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL - AGRAVO DE INSTRUMENTO - RESCISÓRIA - PERÍCIA - SUBIDA DE RECURSO ESPECIAL - AGRAVO REGIMENTAL PROVIDO.
+1. Ausência de peças. Quanto à viabilidade de conhecimento do agravo, mesmo com peças faltantes, tenho de ser acolhida essa tese. Na espécie, não se identifica a ausência total da peça, mas, tão somente, de algumas partes. Ante a possibilidade de entendimento da controvérsia, concordo que é de ser afastado esse obstáculo.
+2. Deficiência de fundamentação do art. 535, CPC. É de ser reconhecida a deficiência de fundamentação, ao estilo do que dispõe a Súmula 284/STF. A matéria não admite conhecimento. O caráter genérico das alegações reforça essa compreensão.
+3. Súmula 7/STJ e prequestionamento dos arts.130 e 330, CPC. Quanto a este óbice, entendo ser superável, especialmente pela decisão aqui já proferida, na ocasião em que se admitiu a eficácia suspensiva à cautelar. É de todo razoável que suba o especial e, em seu ambiente específico, sejam apreciadas essas questões de ordem procedimental. A relevância do interesse público e a total ineficácia de sua proteção ante o êxito de questões de técnica processual sobre as questões de fundo autorizam o provimento do agravo.
+Agravo regimental provido, para determinar a subida do recurso especial.
+(AgRg no Ag 934.704/SP, Rel. Min. ELIANA CALMON, Rel. p/ Acórdão Min. HUMBERTO MARTINS, SEGUNDA TURMA, DJe 20/8/2009.)
+Portanto, não se pode conhecer do recurso especial em relação à suscitada ofensa ao art. 535, II, do CPC/1973.
+Quanto ao mérito propriamente, este Superior Tribunalpossui entendimentode que, "por expressa determinação legal, o abono único não integra a base de cálculo do salário de contribuição (Lei n. 8.212/1991, artigo 28, § 9º, acrescentado pela Lei 9528/1997, letra "e", item 7, acrescentado pela Lei 9.711/1998)" (REsp 840.328/MG, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJU 25/9/2006).
+No mesmo sentido, a Segunda Turma do STJ proclamou tal orientação, ao afirmar que: "A fim de verificar se haverá ou não incidência da contribuição previdência sob as gratificações e prêmios é necessário verificar a sua habitualidade. Havendo pagamento com habitualidade, manifesto o caráter salarial, implicando ajuste tácito entre as partes, razão pela qual atraí a incidência da contribuição previdenciária. A propósito o STF possui entendimento firmado por meio da Súmula 207/STF de que "as gratificações habituais, inclusive a de natal, consideram-se tacitamente convencionadas, integrando o salário". Por outro lado, tratando-se de prêmio ou gratificação eventual fica afastado a incidência da contribuição, conforme entendimento extraído do disposto no art. 28, § 9º, "e", 7 da Lei n. 8.212/91" (REsp 1.275.695/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 31/8/2015).
+Nessa esteira de entendimento, confiram-se outros julgados:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. ABONO ÚNICO. CONVENÇÃO COLETIVA DE TRABALHO. NÃO INCIDÊNCIA. PRECEDENTES.
+1. A jurisprudência desta Corte é firme no sentido de que o abono recebido em parcela única, previsto em convenção coletiva de trabalho, não integra a base de cálculo do salário-de-contribuição.
+Precedentes: AgInt no AREsp 871.754/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 07/10/2016; e AgRg no REsp 1.386.395/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27/09/2013.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.581.674/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 8/5/2018, DJe 16/5/2018.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. PRÊMIO POR TEMPO DE SERVIÇO. ACÓRDÃO RECORRIDO QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA HABITUALIDADE E PERIODICIDADE DO PAGAMENTO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática que julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+II. Trata-se, na origem, de Ação Anulatória de Débito Fiscal, na qual se busca a anulação dos débitos fiscais apurados em NFLDs, ao argumento de que não deve incidir a contribuição previdenciária sobre a verba denominada "Prêmio por Tempo de Serviço", haja vista o seu caráter indenizatório e eventual.
+III. A jurisprudência desta Corte é firme no sentido de que, "a fim de verificar se haverá ou não incidência da contribuição previdência sob as gratificações e prêmios é necessário verificar a sua habitualidade. Havendo pagamento com habitualidade manifesto o caráter salarial, implicando ajuste tácito entre as partes, razão pela qual atraí a incidência da contribuição previdenciária. A propósito o STF possui entendimento firmado por meio da Súmula 207/STF de que "as gratificações habituais, inclusive a de natal, consideram-se tacitamente convencionadas, integrando o salário". Por outro lado, tratando-se de prêmio ou gratificação eventual fica afastado a incidência da contribuição, conforme entendimento extraído do disposto no art. 28, § 9º, "e", 7 da Lei nº 8.212/91" (STJ, REsp 1.275.695/ES, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/08/2015).
+ .. .
+V. Agravo interno improvido.
+(AgInt no REsp 977.744/RS, Rel. Min.ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 8/6/2017, DJe 27/6/2017.)
+TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL DO SESI. ABONO PREVISTO EM ACORDO COLETIVO DE TRABALHO. PAGAMENTO EM PARCELA ÚNICA. EVENTUALIDADE. NÃO INCIDÊNCIA DE CONTRIBUIÇÃO SOCIAL. PRECEDENTES.
+1. A jurisprudência do STJ firmou-se no sentido de que não incide contribuição social sobre o abono pecuniário recebido em parcela única (sem habitualidade), previsto em acordo coletivo de trabalho.
+2. Precedente idêntico: AgRg no REsp 1.386.395/SE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 19/09/2013, DJe 27/09/2013.
+3. Outros precedentes: AgRg no REsp 1.235.356/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/3/2011, DJe 25/3/2011; REsp 1.062.787/RJ, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, julgado em 19/8/2010, DJe 31/8/2010; REsp 1.155.095/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 21/6/2010; REsp 1.125.381/SP, Rel. Min. Castro Meira, Segunda Turma, DJe de 29/4/2010; REsp 819.552/BA, Rel. p/ acórdão Min. Teori Albino Zavascki, Primeira Turma, DJe de 18/5/2009; REsp 840.328/MG, Primeira Turma, Rel. Min. Teori Albino Zavascki, Primeira Turma, DJ de 25/9/2006, p. 241; REsp 434.471/MG, Rel. Min. Eliana Calmon, Segunda Turma, DJ de 14/2/2005, p. 155.
+Agravo regimental improvido.
+(AgRg no REsp 1.502.986/CE, Rel. Min.HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 10/3/2015, DJe 13/3/2015.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. FGTS. ABONO ÚNICO. IMPORTÂNCIA QUE NÃO INTEGRA A REMUNERAÇÃO, PARA FINS DA LEI 8.036/90. PRECEDENTES. RECURSO PROVIDO.
+1. Nos termos do art. 28, § 9º, e, item 7, da Lei 8.212/91 (alterada pelas Leis 9.528/97 e 9.711/98), "não integram o salário-de-contribuição para os fins desta Lei, exclusivamente,  ..  as importâncias  ..  recebidas a título de ganhos eventuais e os abonos expressamente desvinculados do salário".
+2. A importância paga a título de "abono único", prevista em norma coletiva (acordo ou convenção), não integra a remuneração, para os fins da Lei 8.036/90. Precedentes.
+3. Recurso especial provido.
+(REsp 1.062.787/RJ, Rel. Min.ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 19/8/2010, DJe 31/8/2010.)
+Ante o exposto, com fulcro no art. 932, III e V, do CPC, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, nos termos da fundamentação, para declarar a não incidência de contribuição previdenciária sobre o abono pago por ocasião dos referidos acordos coletivos de trabalho. Prejudicadas as demais questões.
+Ficam invertidos os ônus sucumbenciais.
+Publique-se. Intimem-se.
