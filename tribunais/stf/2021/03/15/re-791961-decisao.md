@@ -1,0 +1,17 @@
+DECISÃO:
+    Vistos.
+    Cuida-se de embargos de declaração, apresentados pelo Procurador-Geral da República, em face de acórdão do Plenário deste STF, que acolheu, em parte, anteriores recursos de embargos de declaração interpostos nos autos.
+    Aduziu, Sua Excelência, que referido acórdão padece de omissão, uma vez, que, “considerada a situação de grave emergência planetária em que nos inserimos hoje, há a necessidade de fazer a distinção e modulação dos efeitos em relação aos profissionais de saúde essenciais ao controle de doenças e à manutenção da ordem pública, listados no art. 3º-J da Lei nº 13.979/2020, que estejam trabalhando diretamente no combate à epidemia do novo coronavírus ou colaborando com serviços de atendimento daqueles atingidos por ela em hospitais ou instituições congêneres, públicas ou particulares”.
+    Acrescentou que, em não ocorrendo essa modulação, podem advir inúmeros pedidos de demissão, em massa, desses profissionais, a acarretar sérios problemas à gestão da saúde pública, que já se encontra extremamente sobrecarregada, nestes tempos de pandemia.
+    Postulou, assim, liminarmente, nos termos do art. 1.026, § 1º, do CPC, a suspensão dos efeitos do acórdão embargado, até o julgamento do recurso, ou o fim da declaração da situação de emergência, em relação aos profissionais de saúde listados no art. 3º-J, da Lei nº 13.979/2020, que estejam trabalhando diretamente no combate à epidemia do novo coronavírus ou colaborando com serviços de atendimento de pessoas atingidas pela doença em hospitais ou instituições congêneres, públicos ou particulares e, por fim, o acolhimento dos embargos, para modular os efeitos do acórdão recorrido, dessa mesma maneira.
+    O embargado manifestou sua concordância quanto à modulação de efeitos da decisão, porém exclusivamente em relação aos profissionais de saúde que estão atuando diretamente no combate à epidemia do novo coronavírus ou colaborando com serviços de atendimento de pessoas atingidas pela doença em hospitais ou instituições congêneres, públicas ou particulares, enquanto perdurar no Brasil a situação de emergência de saúde pública ocasionada pela pandemia da COVID-19, ressaltando que tal concordância não importa, em absoluto, a renúncia à tese de repercussão geral fixada nestes autos.
+    Seguiu-se a oposição de outro recurso de embargos de declaração, bem como manifestação de entidades de classe representantes de profissionais da saúde (e-docs. nºs 305 e 306).
+    É o relatório.
+    Decido:
+    Previamente à análise dos novos embargos de declaração interpostos nos autos, dada a gravidade da situação aqui descrita e, ainda, em vista da expressa concordância do embargado, acolho o pedido apresentado pelo Procurador-Geral da República e, nos termos do art. 1.026, § 1º, do CPC, suspendo, liminarmente, e em relação aos profissionais de saúde constantes do rol do art. 3º-J, da Lei nº 13.979/2020, e que estejam trabalhando diretamente no combate à epidemia do COVID-19, ou prestando serviços de atendimento a pessoas atingidas pela doença em hospitais ou instituições congêneres, públicos ou privados, os efeitos do acórdão proferido nos autos, que apreciou os anteriores recursos de embargos de declaração aqui opostos.
+    Manifeste-se o embargado sobre o outro recurso de embargos de declaração apresentado (e-doc. nº 305) e, a seguir, abra-se vista à douta PGR, para apresentação de parecer.
+    Publique-se.
+    Brasília, 15 de março de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
