@@ -1,0 +1,20 @@
+D E C I S Ã O
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal Militar assim ementado:
+    “EMENTA: APELAÇÕES. DEFESAS. PECULATO (ART. 303, §1º, DO CPM). PRELIMINAR. PGJM. NULIDADE. ATOS PROCESSUAIS. CONDUÇÃO MONOCRÁTICA. REJEIÇÃO. DECISÃO POR UNANIMIDADE. PRELIMINAR. DEFESA. NULIDADE DO JULGAMENTO. REJEIÇÃO. DECISÃO POR UNANIMIDADE. PRAÇA. INSUFICIÊNCIA DE PROVAS. IN DUBIO PRO REO. ABSOLVIÇÃO. GRADUADO. DESCLASSIFICAÇÃO. RECEPTAÇÃO (ART. 254 DO CPM). OFICIAL. PROVAS AUTORIA E MATERIALIDADE. ASSOCIAÇÃO CRIMINOSA (ART 288 DO CP COMUM). DESCARACTERIZAÇÃO. DOSIMETRIA DA PENA. AJUSTE.
+    1. A PGJM arguiu preliminar de nulidade absoluta do Processo, em razão da condução monocrática da instrução processual pelo Juiz Federal da Justiça Militar. O órgão colegiado revalidou toda a prova oral produzida durante a instrução criminal que fora conduzida de forma monocrática pelo Magistrado togado. As irregularidades foram sanadas pelo próprio Magistrado, em conformidade como o previsto nos arts. 507 e 508 do CPPM. Preliminar rejeitada. Decisão unânime.
+    2. A mera e isolada afirmação do Réu acerca de irregularidades na Sessão de Julgamento não tem o condão para embasar um pedido de nulidade. Preliminar rejeitada. Decisão unânime.
+    3. Restou caracterizado o delito de peculato cometido pelo Oficial, quer pelos aspectos objetivos, quer pelos aspectos subjetivos. Na qualidade de responsável pelo Rancho, o Oficial tinha posse e detenção dos bens desviados. Demonstrado o animus de apropriar-se dos bens pela farta prova testemunhal, além dos arquivos de áudio trazidos à colação.
+    4. A participação do Graduado restou fartamente demonstrada pela prova Testemunhal, pelo material aprendido em razão do Mandado de Busca e Apreensão e pelos arquivos de áudio que fazem referência expressa a ele.
+    5. A capitulação utilizada pelo MPM para o Graduado não foi a correta, uma vez que não foi demonstrado que tenha participado do peculato. As provas produzias contra ele são uníssonas no sentido de que sua conduta se restringiu ao recebimento do material, ou para proveito próprio, ou simplesmente para ocultá-lo, devendo ser procedida à desclassificação do art. 303 para o art. 254, tudo do CPM. Conformidade com a Súmula nº 5 do STM, uma vez que importou em evidente benefício ao Réu, além de constar da matéria fática. Decisão por maioria.
+    6. Em relação ao Praça, as provas são frágeis para a sua condenação. Contra ele existem apenas indícios isolados, não havendo qualquer relato de prática irregular realizada por ele que tenha sido presenciada por Testemunhas. O Réu nega qualquer participação nos fatos e não é incriminado pelos Corréus. Deve ser absolvido em homenagem ao Princípio do in dubio pro reo. Decisão por unanimidade.
+    7. A consequência da absolvição do Praça é a absolvição dos demais acusados pela prática do crime de associação criminosa, uma vez que o tipo penal exige a participação de no mínimo 3 agentes. Decisão por unanimidade.
+    (Apelação 7000206-04.2020.7.00.0000, Ministro Lúcio Mário de Barros Góes)
+    Em suas razões, a parte impetrante requer, liminarmente, a cassação do acórdão prolatado pelo Tribunal Castrense, ao argumento de que houve violação ao princípio da congruência.
+    Tal o contexto e abstendo-me de qualquer pronunciamento acerca do mérito do pedido, a mim me parecem ausentes os requisitos necessários à concessão da medida liminar pleiteada.
+    Em casos fronteiriços, Ministros desta Suprema Corte têm indeferido medidas liminares requeridas em habeas corpus com fundamento na carência de demonstração de probabilidade do direito invocado e de perigo da demora. Ilustram essa orientação as seguintes decisões: HC 190.587-MC/MG, Ministro Celso de Mello; HC 190.943-MC/PR, Ministro Edson Fachin; HC 191.847-MC/AC, Ministra Cármen Lúcia.
+    Em face do exposto, indefiro o pedido de medida liminar.
+    Vista ao Ministério Público Federal.
+    Intime-se. Publique-se.
+    Brasília, 15 de março de 2021.
+Ministro NUNES MARQUES
+Relator
