@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Açãode obrigação de fazer cumulada com compensaçãopor danos morais.
+2. Ausentes os vícios do art. 1.022do CPC, rejeitam-se os embargos de declaração.
+3. A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, mantém-se a aplicação, no particular, da Súmula 568/STJ.
+4. Agravo interno não provido.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por CLARISSA DE FÁTIMA CORREA, contra decisão que conheceu dorecurso especial e negou-lhe provimento.
+Ação: de obrigação de fazer cumulada com compensação por danos morais, com pedido de tutela antecipada, ajuizada pela agravante, em face de UNIMED CURITIBA - SOCIEDADE COOPERATIVA DE MÉDICOS, em razão de negativa de custeio de cirurgia de mamoplastia corretora.
+Sentença: julgou procedente o pedido, para condenar a agravada ao custeio do tratamento médico prescrito, bem como a compensar o dano moral sofrido, fixando seu valor em R$ 20.000,00.
+Acórdão: deu parcial provimento à apelação interposta pela agravada, para afastar o dano moral à hipótese, nos termos da seguinte ementa:
+DIREITO DO CONSUMIDOR - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E COM PEDIDO DE TUTELA ANTECIPADA - PACIENTE PORTADORA DE HIPERTROFIA MAMÁRIA UNILATERAL - NÃO LIBERAÇÃO DE PROCEDIMENTO DE MAMOPLASTIA - NEGATIVA DO FORNECIMENTO, SEJA POR AUSÊNCIA DE COBERTURA CONTRATUAL, SEJA POR NÃO PREVISÃO NO ROL DE PROCEDIMENTOS DA AGÊNCIA NACIONAL DE SAÚDE - PLANO DE SAÚDE QUE NÃO PODE LIMITAR CIRURGIA PRESCRITA PELO MÉDICO - PROCEDIMENTO MAIS ADEQUADO À PACIENTE INDICADO POR MÉDICO ESPECIALISTA - DEVER DO PLANO DE SAÚDE DE COBRIR O CUSTEIO DO PROCEDIMENTO RECUSA DE COBERTURA ILEGÍTIMA - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE DE JUSTIÇA - DANO MORAL NÃO CONFIGURADO - MERO INADIMPLEMENTO CONTRATUAL - AUSÊNCIA DE PREJUÍZOS À SAÚDE DO AUTOR - SENTENÇA REFORMADA NESTE TÓPICO - REDISTRIBUIÇÃO DA VERBA SUCUMBENCIAL - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1. Embora seja lícito às operadoras de plano de saúde restringirem orol de doenças abrangidas pela cobertura, é-lhes vedado limitar o tratamento ou a técnica prescrita pelo médico especialista que assiste o paciente.
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, o mero inadimplemento contratual não enseja condenação ao pagamento de indenização por danos morais, em tendo a negativa de cobertura ocorrido por divergência razoável de interpretação do contrato, acrescido do fato de que a situação vivenciada pelo beneficiário não foi apta a gerar danos à sua intimidade psíquica, caracterizando-se como mero aborrecimento. (e-STJ, fls. 615/616)
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 186 e 927 do CC, e 355 e1.022 do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, aduz que a negativa de custeio agravou a condição psicológica da recorrente.
+Decisão unipessoal: conheceu do recurso especial e negou-lhe provimento, em razão da ausência de violação do art. 1.022 do CPC e da incidência da Súmula 568 do STJ.
+Embargos de declaração: interpostos pela parte agravante, foram rejeitados.
+Agravo interno: nas razões do presente recurso, aagravante alega que deveria ser oportunizada a produção de provas com intuito de comprovar o dano moral sofrido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Açãode obrigação de fazer cumulada com compensaçãopor danos morais.
+2. Ausentes os vícios do art. 1.022do CPC, rejeitam-se os embargos de declaração.
+3. A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, mantém-se a aplicação, no particular, da Súmula 568/STJ.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):
+Cuida-se de agravo interno interposto por CLARISSA DE FÁTIMA CORREA, contra decisão que conheceu do recurso especial e negou-lhe provimentoem razão da ausência de violação do art. 1.022 do CPC e da incidência da Súmula 568 do STJ.
+- Da violação do art. 1.022 do CPC/2015
+Inicialmente, constata-se que o artigo 1.022 do CPC realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Na hipótese, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da ausência de configuração do dano moral, de maneira que os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento. Consoante decisão agravada, esclarece-se que o TJ/PRentendeu pela suficiência das provas produzidas nos autos e pela ausência de caracterização do dano moral na hipótese, e não pela carência do acervo probatório.
+Quanto a não caracterização do dano moral na presente demanda, assim asseverou o aresto recorrido:
+"Em continuidade, no tocante à indenização por danos morais, a demandada sustenta que não restou comprovado abalo ou prejuízo à saúde da autora, acrescido do fato de não ter havido ilicitude na negativa de cobertura do procedimento cirúrgico. E, mesmo que se tratasse de inadimplemento contratual, afirma que o Superior Tribunal de Justiça e esta Corte de Justiça já entenderam de hipótese apta à concessão de indenização por não se tratar danos morais.
+Analisando-se a presente lide, tem-se que a negativa de cobertura por parte da requerida sebaseou no fato de que esta entendia haver justificativa para isso, consubstanciada em disposições do próprio contrato, que somente neste momento estão sendo afastadas. Acresça-se, ainda, que é consolidado pelo Superior Tribunal de Justiça o entendimento deque o descumprimento contratual, por si só, não enseja indenização a título de dano moral: (..)
+Mesmo que a negativa da demandada tenha causado aborrecimento à demandante, este fato não se mostra capaz de configurar abalo moral indenizável.Isto porque não houveram prejuízos ou agravamento do estado de saúde da requerente, que conseguiu realizar seu procedimento e não foi exposta a situação vexatória ou humilhante. (..)
+Portanto, entendo que a situação narrada na exordial não possui o condão de ensejar o dano moral indenizável, tratando-se tão somente de mero aborrecimento, motivo pelo qual impõe-se o afastamento da condenação ao pagamento de indenização por dano moral (e-STJ, fls. 622/623)
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou das questões apontadas como omissas sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+- Da Súmula 568 do STJ
+Conforme asseverado na decisão agravada, a decisão do acórdão recorrido não destoa da jurisprudência das duas Turmas de Direito Privado do STJ, queentendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Nesse sentido: AgInt no REsp 1731656/RS, 4ª Turma, DJe de 29/04/2019; e REsp 1662103/SP, 3ª Turma, DJe 13/12/2018.
+Na hipótese, o Tribunal de origem, ao afastar a condenação em danos moraisno litígio, consignou que "Mesmo que a negativa da demandada tenha causado aborrecimento à demandante, este fato não se mostra capaz de configurar abalo moral indenizável. Isto porque não houveram prejuízos ou agravamento do estado de saúde da requerente, que conseguiu realizar seu procedimento e não foi exposta a situação vexatória ou humilhante." (e-STJ, fls. 623).
+Dessa forma, verifica-se que o acórdão recorrido encontra-seem consonância com o entendimento dominante sobre o tema nesta Corte. Mantem-se a aplicação,portanto, da Súmula 568/STJ no particular.
+Ressalte-se que a jurisprudência trazida pela parte agravante nas razões do presente recurso entendeu pela possibilidade de verificação de possível reparação moral quando hásituação que aponte a afronta àdireito da personalidade e, ainda, quando cause agravamento da condição da paciente, condições estas não constatadas pelo Tribunal local neste processo.
+Ademais, frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa ao óbice da Súmula 7 desta Corte.
+Dessa forma, adespeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
