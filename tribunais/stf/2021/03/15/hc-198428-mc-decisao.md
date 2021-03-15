@@ -1,0 +1,20 @@
+D E C I S Ã O
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça assim ementado:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO ‘HABEAS CORPUS’. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE. PREJUÍZO NÃO COMPROVADO. ‘PAS DE NULLITÉ SANS GRIEF’. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. DOSIMETRIA. PRIMEIRA FASE. REINCIDÊNCIA. NATUREZA E QUANTIDADE DE DROGA. AGRAVO IMPROVIDO.
+    1. O exercício do ‘jus puniendi’ por parte do Estado deve ser pautado pela observância das garantias constitucionais, sem tolerar arbitrariedades ou excessos que desequilibrem a dialética processual em prejuízo do acusado. Por isso, o reconhecimento de nulidades é necessário toda vez que se constatar a supressão ou a mitigação de garantia processual que possa trazer agravos ao exercício do contraditório e da ampla defesa.
+    2. Os Tribunais Superiores firmaram posicionamento no sentido de que a nulidade apenas será considerada causa determinante para o refazimento do ato se houver comprovação do prejuízo sofrido, obedecendo, em linhas gerais, às determinações da legislação penal em vigor, segundo a qual é imprescindível, quando se trata de alegação de nulidade de ato processual, a demonstração do prejuízo sofrido, em consonância com o princípio ‘pas de nullité sans grief’, consagrado pelo legislador no art. 563 do Código de Processo Penal, o que, na hipótese, não ficou demonstrado.
+    3. Quanto ao pedido de absolvição do crime de associação para o tráfico de drogas, não é demais lembrar que o ‘habeas corpus’ não é o instrumento jurídico adequado para se ventilar teses a respeito de absolvição ou desclassificação da conduta delitiva.
+    4. Neste caso, as instâncias antecedentes consignaram que o conjunto probatório carreado aos autos ao longo da instrução demonstra de modo suficiente que o vínculo entre os denunciados não é eventual, mas sim um empreendimento mútuo de esforços para a prática da traficância. Entendimento confirmado pelo Tribunal de origem, de modo que a desconstituição desse entendimento depende de nova incursão no acervo fático-probatório, providência inviável em sede de ‘habeas corpus’.
+    5. A revisão da dosimetria da pena somente é possível em situações excepcionais de manifesta ilegalidade ou abuso de poder, cujo reconhecimento ocorra de plano, sem maiores incursões em aspectos circunstanciais ou fáticos e probatórios (HC n. 304.083/PR, Rel. Min. FELIX FISCHER, Quinta Turma, DJe 12/3/2015).
+    6. Neste caso, a presença de antecedentes criminais foi confirmada pelo Tribunal de origem e, mais uma vez, sua desconstituição não pode ocorrer pela via mandamental, que não comporta dilação probatória. Além disso, as instâncias antecedentes indicaram a grande quantidade de drogas apreendidas (13 invólucros contendo 407g de crack) como circunstância ensejadora de acréscimo à pena-base, o que não está em desacordo com o entendimento jurisprudencial firmado nesta Corte Superior.
+    7. Agravo regimental improvido.”
+    (HC 619.245-EDcl-AgRg/SP, Ministro Reynaldo Soares da Fonseca)
+    Em suas razões, a parte impetrante pretende, liminarmente, “a imediata soltura do paciente para que aguarde o julgamento deste ‘writ’ em liberdade”.
+    Tal o contexto e abstendo-me de qualquer pronunciamento acerca do mérito do pedido, a mim me parecem ausentes os requisitos necessários à concessão da medida liminar pleiteada.
+    Em casos fronteiriços, Ministros desta Suprema Corte têm indeferido medidas liminares requeridas em habeas corpus com fundamento na carência de demonstração de probabilidade do direito invocado e de perigo da demora. Ilustram essa orientação as seguintes decisões: HC 190.587-MC/MG, Ministro Celso de Mello; HC 190.943-MC/PR, Ministro Edson Fachin; HC 191.847-MC/AC, Ministra Cármen Lúcia.
+    Em face do exposto, indefiro o pedido de medida liminar.
+    Vista ao Ministério Público Federal.
+    Intime-se. Publique-se.
+    Brasília, 15 de março de 2021.
+Ministro NUNES MARQUES
+Relator
