@@ -1,0 +1,88 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELO DEVEDOR. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015. CABIMENTO.
+I - Na origem, trata-se de agravo de instrumento interposto pelos ora recorrentes contra a decisão que indeferiu honorários advocatícios na fase de cumprimento da sentença que reconheceu ao pensionista do Estado direito à pensão integral. O Tribunal a quo negou provimento ao recurso.
+II - Esta Corte Superior firmou sua jurisprudência no sentido de que cabem honorários advocatícios no cumprimento de sentença proferida contra a Fazenda Pública em ação coletiva, independentemente de ter sido ou não apresentada impugnação. A propósito: REsp n. 1.648.238/RS, relator Ministro Gurgel de Faria, Corte Especial, julgado em 20/6/2018, DJe 27/6/2018.
+III - Todavia, no cumprimento de sentenças proferidas em ações plúrimas ou individuais, a apresentação da impugnação é relevante para hipótese da aplicação da norma contida no art. 85, § 7º, do CPC/2015.
+IV - Com efeito, a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se oponha ao cumprimento da obrigação prevista no título executivo. Dessarte, oferecida resistência à execução da sentença, por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade. Nesse sentido: AgInt no REsp n. 1.814.321/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe 19/12/2019; REsp n. 1.691.843/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/2/2020, DJe 17/2/2020 e REsp n. 1.666.182/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2017, DJe 19/12/2017.
+V - Outrossim, não há que falar em incidência das Súmulas n. 211/STJ ou 283/STF, uma vez que, além de prequestionada, a quaestio iuris foi especificamente tratada nas razões de recurso especial.
+VI - Agravo interno improvido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+Na origem, trata-se de agravo de instrumento interposto pelos ora recorrentes contra a decisão que indeferiu honorários advocatícios na fase de cumprimento da sentença que reconheceu ao pensionista do Estado direito à pensão integral.
+Valor da execução (fl. 97): R$ 53.615,25 (cinquenta e três mil, seiscentos e quinze reais e vinte e cinco centavos), em abril/2011.
+O Tribunal a quo negou provimento ao recurso, em acórdão assim ementado (fl. 275):
+AGRAVO DE INSTRUMENTO. DIREITO PÚBLICO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. PRECATÓRIO. HONORÁRIOS EXECUTIVOS INDEVIDOS TANTO NA VIGÊNCIA DO CPC/73 COMO NO CPC/15. HONORÁRIOS ADVOCATÍCIOS EM RAZÃO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INTERPRETAÇÃO DO ART. 85, § 7º, DO CPC/15.
+I - Por primeiro, impende não confundir honorários executivos com os honorários devidos em razão da impugnação ao cumprimento de sentença.
+II - Quanto aos honorários executivos, a partir do julgamento do RE 420.816-4, pelo E. STF, consolidou-se o entendimento de que não são devidos pela Fazenda Pública nas execuções por quantia certa que não tenham sido embargadas e cujo crédito deva ser pago mediante expedição de precatório, o que não foi alterado pelo advento do CPC/15, conforme art. 85, § 7º.
+III - Tendo havido impugnação pelo ente público ao pedido de cumprimento de sentença, viável a condenação em honorários, mas não em razão do cumprimento de sentença, e sim em virtude da impugnação ofertada, e de acordo com a sucumbência nesta verificada.
+IV - Caso concreto que não dá ensejo aos honorários, pois que a pretensão diz, exclusivamente, com o só fato da Fazenda Pública ter embargado a execução, e independentemente do resultado da decisão que os julgar.
+RECURSO DESPROVIDO.
+Os exequentes opuseram embargos de declaração, que foram rejeitados pelo acórdão de fls. 343-350.
+Nas razões do recurso especial, alegam a violação do art. 85, § 7º, do CPC/2015. Sustentam, em síntese, que o citado dispositivo se contenta com a apresentação de impugnação pela Fazenda Pública, para que a ela possam ser carreados os honorários advocatícios, no cumprimento da sentença.
+Contrarrazões às fls. 440-453, pelo não conhecimento ou desprovimento do recurso especial.
+A decisão recorrida tem o seguinte dispositivo:
+Ante o exposto, com esteio no art. 255, § 4º, III, do RISTJ, conheço do recurso especial para dar-lhe provimento, reconhecendo como devido o arbitramento de honorários advocatícios no cumprimento de sentença contra a Fazenda Pública, no caso em que esta apresentou impugnação.
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+(..)
+Com efeito, extrai-se do Acórdão recorrido que a Corte de origem reconhece os precedentes dos Tribunais Superiores, mas suscita uma distinção no caso em exame, já que, na hipótese, a pretensão diz, exclusivamente, com o só fato da Fazenda Pública ter embargado a execução, e independentemente do resultado da decisão que os julgar.
+Não se trata, pois, de contrariedade ao entendimento do STJ sobre o tema, mas sim de distinção específica no caso concreto.
+Não obstante, não se observa, nas razões do recurso especial, impugnação ao fundamento principal do Acórdão recorrido.
+(..)
+Por isso, suscita o ora agravante o não conhecimento do recurso especial interposto pela parte adversa, considerados os óbices da Súmula nº 211 do STJ e, por analogia, da Súmula nº 283 do STF.
+(..)
+Aliás, nem poderia ser diferente, porquanto eventual condenação em honorários deve observar o quantum impugnado, sob pena de onerar em demasia o ente público, já que, se mantido o entendimento da r. decisão agravada, mesmo na hipótese de acolhimento da impugnação, o montante de honorários atribuídos à execução superaria o benefício obtido com impugnação.
+(..)
+Assim, com a devida vênia, o Acórdão recorrido não destoa da jurisprudência do STJ, impondo-se o acolhimento da presente insurgência, para o fim de desprover o Recurso Especial interposto pela parte adversa.
+(..)
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELO DEVEDOR. PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015. CABIMENTO.
+I - Na origem, trata-se de agravo de instrumento interposto pelos ora recorrentes contra a decisão que indeferiu honorários advocatícios na fase de cumprimento da sentença que reconheceu ao pensionista do Estado direito à pensão integral. O Tribunal a quo negou provimento ao recurso.
+II - Esta Corte Superior firmou sua jurisprudência no sentido de que cabem honorários advocatícios no cumprimento de sentença proferida contra a Fazenda Pública em ação coletiva, independentemente de ter sido ou não apresentada impugnação. A propósito: REsp n. 1.648.238/RS, relator Ministro Gurgel de Faria, Corte Especial, julgado em 20/6/2018, DJe 27/6/2018.
+III - Todavia, no cumprimento de sentenças proferidas em ações plúrimas ou individuais, a apresentação da impugnação é relevante para hipótese da aplicação da norma contida no art. 85, § 7º, do CPC/2015.
+IV - Com efeito, a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se oponha ao cumprimento da obrigação prevista no título executivo. Dessarte, oferecida resistência à execução da sentença, por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade. Nesse sentido: AgInt no REsp n. 1.814.321/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJe 19/12/2019; REsp n. 1.691.843/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/2/2020, DJe 17/2/2020 e REsp n. 1.666.182/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2017, DJe 19/12/2017.
+V - Outrossim, não há que falar em incidência das Súmulas n. 211/STJ ou 283/STF, uma vez que, além de prequestionada, a quaestio iuris foi especificamente tratada nas razões de recurso especial.
+VI - Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO FRANCISCO FALCÃO (Relator):
+O recurso de agravo interno não merece provimento.
+Esta Corte Superior firmou sua jurisprudência no sentido de que cabem honorários advocatícios no cumprimento de sentença proferida contra a Fazenda Pública em ação coletiva, independentemente de ter sido ou não apresentada impugnação. A propósito:
+5. O procedimento de cumprimento individual de sentença coletiva, ainda que ajuizado em litisconsórcio, quando almeja a satisfação de direito reconhecido em sentença condenatória genérica proferida em ação coletiva, não pode receber o mesmo tratamento pertinente a um procedimento de cumprimento comum, uma vez que traz consigo a discussão de nova relação jurídica, e a existência e a liquidez do direito dela decorrente serão objeto de juízo de valor a ser proferido como pressuposto para a satisfação do direito vindicado.
+6. Hipótese em que o procedimento de cumprimento de sentença pressupõe cognição exauriente - a despeito do nome a ele dado, que induz à indevida compreensão de se estar diante de mera fase de execução -, sendo indispensável a contratação de advogado, uma vez que é necessária a identificação da titularidade do exequente em relação ao direito pleiteado, promovendo-se a liquidação do valor a ser pago e a individualização do crédito, o que torna induvidoso o conteúdo cognitivo dessa execução específica. (..)
+(REsp n. 1.648.238/RS, relator Ministro Gurgel de Faria, Corte Especial, julgado em 20/6/2018, DJe 27/6/2018.)
+Todavia, no cumprimento de sentenças proferidas em ações plúrimas ou individuais, a apresentação da impugnação é relevante para hipótese da aplicação da norma contida no art. 85, § 7º, do CPC/2015:
+Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada.
+Com efeito, a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se oponha ao cumprimento da obrigação prevista no título executivo. Dessarte, oferecida resistência à execução da sentença, por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade.
+Nesse sentido:
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO OFERTADA PELO DEVEDOR . PAGAMENTO MEDIANTE EXPEDIÇÃO DE PRECATÓRIO. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 7º, DO CPC/2015 CABIMENTO. SÚMULA 83/STJ. APLICAÇÃO.
+1. O Tribunal foi expresso ao afirmar que houve impugnação à Execução pelo recorrente, o que atraiu a fixação dos honorários advocatícios.
+2. A distinção feita pelo Tribunal de origem de que se trata de cabimento dos honorários advocatícios para a fase de cumprimento da sentença em execução sob regime de precatório, em razão da impugnação havida, em aplicação ao art. 85, § 7º, do CPC/2015, coincide com o atual entendimento do STJ. Precedente: REsp 1.666.182/RS, Rel. Min.
+Herman Benjamin Segunda Turma, DJe 19.12.2017.
+3. Não obstante a boa qualidade dos argumentos expendidos pelo agravante, o arrazoado, que somente reitera os argumentos do Recurso Especial, não tem o condão de infirmar as bases da decisão agravada.
+4 Agravo Interno não provido.
+(AgInt no REsp n. 1.814.321/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 10/12/2019, DJE 19/12/2019.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REDUÇÃO DE HONORÁRIOS PELA METADE EM CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA NÃO IMPUGNADO. ART. 90, § 4º, DO CPC/2015. IMPOSSIBILIDADE. EXISTÊNCIA DE NORMA ESPECÍFICA. ART. 85, § 7º, DO CPC/2015. NORMA INCOMPATÍVEL COM A SISTEMÁTICA DOS PRECATÓRIOS. INCIDÊNCIA DE HONORÁRIOS. RECURSO REPETITIVO. TEMA 973. RECURSO NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir se a previsão do § 4º do art. 90 do CPC/2015 se aplica aos cumprimentos de sentença não impugnados, total ou parcialmente, pela Fazenda Pública.
+2. Da análise sistemática do diploma legal, verifica-se não haver espaço para a incidência da norma em comento no cumprimento de sentença, pois a aplicação de dispositivos legais relativos ao procedimento comum nos procedimentos especiais e no processo de execução é expressamente subsidiária, nos termos do parágrafo único do art. 318 do Código de Ritos.
+3. Com relação ao cumprimento de sentença contra a Fazenda Pública, há previsão específica de isenção de honorários em caso de ausência de impugnação, qual seja, o § 7º do art. 85 do CPC/2015. Portanto, o próprio Código de Processo Civil rege a hipótese de ausência de impugnação, não havendo de se cogitar a aplicação de outra disposição normativa de forma subsidiária.
+4. Por outro lado, deve-se ressaltar que a previsão legal é incompatível com o procedimento de execução ao qual está sujeita a Fazenda Pública, por não haver possibilidade de adimplemento simultâneo da dívida reconhecida, ante a necessidade de expedição de precatório ou requisição de pequeno valor.
+5. Não assiste razão à autarquia recorrente em pretender obter o mesmo benefício dos particulares. Primeiro, porque os entes públicos já possuem prerrogativas constitucionais e legais que os colocam em situação favorável em relação aos particulares. Segundo, porque o art. 90, § 4º, do CPC/2015 não se aplica ao cumprimento de sentença que reconhece a exigibilidade de obrigação de pagar quantia certa, tendo em vista a existência de norma específica que isenta o executado do pagamento de honorários, em caso de pagamento voluntário do débito no prazo legal de 15 (quinze) dias (art. 523, caput e § 1º, do CPC/2015).
+6. Impende ainda destacar que a Corte Especial, no julgamento do REsp 1.648.238/RS, submetido ao rito dos recursos repetitivos, estabeleceu que o art. 85, § 7º, do CPC/2015 não afasta a aplicação do entendimento consolidado na Súmula 345 do STJ, de modo que são devidos honorários advocatícios nos procedimentos individuais de cumprimento de sentença decorrente de ação coletiva, ainda que não impugnados e promovidos em litisconsórcio.
+7. Recurso especial a que se nega provimento.
+(REsp n. 1.691.843/RS, relator Ministro Og Fernandes, Segunda Turma, julgado em 11/2/2020, DJe 17/2/2020.)
+PROCESSUAL CIVIL. EXECUÇÃO DE SENTENÇA CONTRA FAZENDA PÚBLICA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal local consignou (fl. 575, e-STJ): "No caso dos autos, contudo, houve impugnação à execução pelo IBAMA (evento 81, na origem). É caso, pois, de arbitramento de honorários de execução de 10% sobre o valor do crédito, nos termos do 85, § 3º, inciso II do CPC".
+2. Não se conhece de Recurso Especial em relação à ofensa ao art. 1.022 do CPC/2015 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+3. O STJ tem jurisprudência firme e consolidada no sentido de que, em se tratando de execução por quantia certa de título judicial contra a Fazenda Pública, a regra geral é a de que somente são devidos honorários advocatícios se houver Embargos. É o que decorre do art. 1º-D da Lei 9.494/97, introduzido pela Medida Provisória 2.180-35, de 24 de agosto de 2001. Ao dirimir a controvérsia, o Tribunal foi expresso ao afirmar que houve impugnação à Execução pelo recorrente, o que atraiu a fixação dos honorários advocatícios.
+4. O Superior Tribunal de Justiça atua na revisão da verba honorária somente quando esta tratar de valor irrisório ou exorbitante, o que não se configura neste caso. Assim, o reexame das razões de fato que conduziram a Corte de origem a tais conclusões significaria usurpação da competência das instâncias ordinárias. Incidência da Súmula 7/STJ.
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp n. 1.666.182/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/11/2017, DJe 19/12/2017.)
+Outrossim, não há falar em incidência das Súmulas n. 211/STJ ou 283/STF, uma vez que, além de prequestionada, a quaestio iuris foi especificamente tratada nas razões de recurso especial.
+Quanto ao pedido subsidiário, é inviável a análise de tese não suscitada no recurso especial, ou em contrarrazões ao recurso especial, por se tratar de evidente inovação recursal (AgInt nos EDcl no AREsp n. 1.496.470/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 31/8/2020, DJe 3/9/2020.)
+Da mesma forma, o STJ possui firme entendimento no sentido de ser incabível inovação recursal, em agravo interno, com base em alegação de fato novo. Precedentes: STJ, AgRg no AREsp n. 761.207/RJ, relator Ministro Humberto Martins, Segunda Turma, DJe de 29/4/2016; AgRg no Ag n. 1.424.188/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/2/2012; AgInt nos EDcl no MS n. 24.834/DF, relator Ministro Herman Benjamin, Primeira Seção, julgado em 1º/9/2020, DJe 9/9/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
