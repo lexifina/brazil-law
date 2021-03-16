@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, sem pedido liminar, interposto por TIAGO COELHO BOLIVAR contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no HC n. 70084626795.
+Consta dos autos que o Recorrente, juntamente com outro comparsa, foi preso em flagrante, em 18/07/2018, pela suposta prática dos delitos previstos nos arts. 157, § 2.º, inciso I, e 121, § 2.º, incisos V e VII, na forma do art. 14, inciso II, todos do Código Penal. A prisão em flagrante foi convertida em preventiva.
+Em 12/09/2019, houve a desclassificação do delito previsto no art. 121, § 2.º, incisos V e VII, na forma do art. 14, inciso II, do Código Penal, para outro que não da competência do Tribunal do Júri. Na ocasião, foi mantida a segregação cautelar (fl. 93).
+Em 25/09/2020, o Juízo processante analisou a necessidade de manutenção da custódia preventiva, nos termos do art. 316, parágrafo único, do Código de Processo Penal, ocasião em que manteve a segregação cautelar.
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 195-211).
+Neste recurso, a Defesa alega que "não é possível que depois de um laudo que informa que Tiago está com uma lesão aberta e fazendo episódios infecciosos recorrentes, HÁ DOIS ANOS E MEIO, que se imagine que o tratamento que ele está recebendo na Penitenciária seja adequado" (fl. 228).
+Aduz que " o s remédios fornecidos pela casa prisional são capazes de controlar as dores, bem como, manter a pele higienizada, entretanto, NÃO são eficazes para que a cicatrização na perna do recorrente "feche"" (fl. 229).
+Requer, assim, "a respectiva expedição de alvará de soltura, para que ele possa receber tratamento hospitalar adequado - sendo deferidas as medidas cautelares diversas da prisão" (fl. 234).
+O Ministério Público opinou pelo desprovimento do recurso (fls. 268-277).
+É o relatório. Decido.
+A pretensão recursal não prospera.
+No ato ora impugnado, o Tribunal de origem consignou o que se segue (fls. 210-211; sem grifos no original):
+"Com relação à saúde do acusado, diante da análise da documentação juntada pela defesa, bem como informações expostas nos sistemas do Tribunal de Justiça, não extraio a gravidade necessária para autorizar a concessão de liberdade provisória do paciente.
+De acordo com o PEC do paciente, nº 0003886- 78.2015.8.21.0015, em 22.07.2020, foi apresentado laudo médico no qual está exposto o seguinte:
+"Informo que o paciente encontra-se em bom estado geral de saúde. Apresenta lesão aberta em membro inferior direito após a retirada de fixador externo. Apresenta episódios infecciosos recorrentes no local citado, motivo pelo qual tem feito uso continuo de antibióticos - os quais tem sido fornecidos adequadamente pela enfermaria desta casa prisional, bem como materiais para trocas diárias de curativos (que são entregues semanalmente quando passa por atendimento). A ferida operatória tem apresentado boa evolução, com cicatrização progressiva por segunda intenção.
+Porém, provavelmente será necessário o uso de antibioticoterapia até cicatrização completa da mesma. Sem mais. À disposição." - Grifei
+Após o referido laudo médico, não há, no PEC de TIAGO, nenhum pedido da defesa que seja concernente ao seu estado de saúde.
+Em igual sentido, não há nenhuma postulação defensiva nos autos da ação penal originária com relação ao estado de saúde do paciente. Deste modo, além de TIAGO estar recebendo os devidos cuidados de saúde no interior da casa prisional em que se encontra, a defesa sequer levou à autoridade coatora qualquer alegação sobre o estado de saúde do paciente, o que permite a inferência de que não há qualquer risco para a sua integridade física neste momento."
+Como se vê, a instância ordinária afirmou a inexistência de excepcionalidade a demonstrar a possibilidade de concessão de prisão domiciliar ao Recorrente, ante a ausência de comprovação de que ele esteja extremamente debilitado e de que o estabelecimento prisional não possui condições de oferecer o tratamento adequado.
+Assim, o indeferimento da prisão domiciliar encontra-se amparada na jurisprudência desta Corte Superior, no sentido de que, à luz do disposto no art. 318, inciso II, do Código de Processo Penal, o Acusado deve comprovar o grave estado de saúde em que se encontra e a incompatibilidade entre o tratamento de saúde e o encarceramento, o que, como visto acima, não ocorreu na hipótese dos autos.
+Nesse sentido:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA.  ..  SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR PRISÃO DOMICILIAR EM RAZÃO DE GRAVE DOENÇA. AUSÊNCIA DE COMPROVAÇÃO DA NECESSIDADE. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E NESSA EXTENSÃO DESPROVIDO.
+ ..
+V - É firme a jurisprudência deste Tribunal Superior no sentido de que o deferimento da substituição da prisão preventiva por prisão domiciliar, nos termos do art. 318, inciso II, do Código de Processo Penal, depende da comprovação inequívoca de que o réu esteja extremamente debilitado, por motivo de grave doença, aliada à impossibilidade de receber tratamento no estabelecimento prisional em que se encontra, não bastando para tanto a mera constatação de que o recorrente sofre de doença que necessita de tratamento, como no caso dos autos. Precedentes.
+Recurso ordinário parcialmente conhecido e nessa extensão desprovido." (RHC 108.502/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/03/2019, DJe 26/03/2019; sem grifos no original.)
+"HABEAS CORPUS. PROCESSO PENAL. PRISÃO PREVENTIVA.  .. . SUBSTITUIÇÃO POR DOMICILIAR. AUSÊNCIA DE DEMOSTRAÇÃO DA INCOMPATIBILIDADE ENTRE O TRATAMENTO DE SAÚDE E O ENCARCERAMENTO. ORDEM DENEGADA.
+ ..
+6. O entendimento desta Corte Superior é o de que, à luz do disposto no art. 318, inciso II, do Código de Processo Penal, o Acusado deve comprovar o grave estado de saúde em que se encontra e a incompatibilidade entre o tratamento de saúde e o encarceramento - o que não se verificou na hipótese dos autos.
+7. Habeas corpus denegado" (HC 482.067/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 07/02/2019, DJe 01/03/2019; sem grifos no original.)
+Ademais, para se afastar as conclusões que justificaram a negativa do pedido de prisão domiciliar, seria necessário proceder ao revolvimento fático-probatório dos autos, o que não é cabível na via estreita do habeas corpus.
+A propósito:
+"AGRAVO REGIMENTAL. EXECUÇÃO. PRISÃO DOMICILIAR. ENFERMIDADE. INADEQUAÇÃO DO ESTABELECIMENTO PRISIONAL. IMPOSSIBILIDADE. BENEFÍCIO NÃO CONCEDIDO PELAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE REVOLVIMENTO DO ACERVO PROBATÓRIO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior se firmou no sentido de admitir, com lastro no princípio da dignidade da pessoa humana, a concessão da prisão domiciliar prevista no art. 117 da LEP aos condenados que, acometidos de graves enfermidades, cumpram pena em regime semiaberto ou fechado sem assistência adequada na unidade prisional.
+2. No caso dos autos, contudo, não há demonstração inequívoca de risco real e iminente à vida do apenado ou mesmo de impossibilidade em receber tratamento adequado no próprio estabelecimento prisional em que se encontra capaz de justificar, excepcionalmente, o deferimento da prisão domiciliar ao apenado.
+3. Ademais, para que se perquira a existência de doença grave apta a permitir a concessão do benefício da prisão domiciliar, de forma a possibilitar conclusão diversa da exarada pela Corte de origem, seria necessário aprofundar o exame do acervo probatório, o que não se permite nesta via mandamental.
+4. Agravo regimental não provido." (AgRg no RHC 83.714/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/12/2017, DJe de 19/12/2017; sem grifos no original.)
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. ROUBO MAJORADO. PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA. REQUERIMENTO DE PRISÃO DOMICILIAR. ART. 318, INCISO II, DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE COMPROVAÇÃO DA EXTREMA DEBILIDADE POR MOTIVO DE DOENÇA GRAVE E DA INCOMPATIBILIDADE ENTRE O TRATAMENTO MÉDICO E O ENCARCERAMENTO. ILEGALIDADE NÃO EVIDENCIADA. RECURSO ORDINÁRIO EM HABEAS CORPUS DESPROVIDO.
