@@ -1,0 +1,18 @@
+DECISÃO
+Vistos etc.
+Trata-se de Mandado de Segurançacom pedido de liminarimpetrado porJOSÉ DOMINGOS MORAIScontra decisões proferidas pelaVice-Presidência do STJ, que negaram admissibilidade ao recursoextraordinário interposto pelo impetrante.
+Aduz, além de alegações relacionadas ao próprio mérito do agravo em recurso especial, inclusive a suposta repercussão geral do recurso extraordinário apresentado, que o ato coator impediu o acesso à Suprema Corte.Pleiteia, ao final, "a esse egrégio Superior Tribunal de Justiça, nos termos das razões apresentadas, o provimento à presente ação que visa preservar a garantia do juiz natural, prevista no art. 5º, incisos XXXVII e LIII, da Carta Magna, dispositivos constitucionais afrontados pelas decisões proferidas nos autos de origem, e de consequência, determine o destrancamento do recurso extraordinário ao Supremo Tribunal Federal, guardião do Estado Democrático de Direito, para exame de sua admissibilidade e mérito, como previsto no art. 102, inciso III, da Constituição Federal" (e-STJ fl. 18).
+É o breve relatório.
+Decido.
+Nos termos do art. 10 da Lei 12.016/09, a petição inicial deve ser liminarmente indeferida, tendo em vista a manifesta inadmissibilidade do mandado de segurança para a hipótese.
+Cumpre relembrar que a via mandamental, de acordo com o art. 5º, LXIX, da Constituição Federal e nos termos do art. 1º da Lei 12.016/2009, é destinada "a proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça".
+A utilização do writ pressupõe, portanto, a existência de ato, comissivo ou omissivo, imputado a autoridade que afronte direito passível de ser demonstrado de plano.
+Tratando-se, como no caso, de impetração direcionada a ato jurisdicional, o cabimento do mandado de segurança, consoante orientação jurisprudencial já sedimentada no STF e STJ (v.g., AgRg no MS 34.471, Min. DIAS TOFFOLI, SEGUNDA TURMA, DJe de 21/02/2017; AgRg no MS 27.216, Min. CELSO DE MELLO, TRIBUNAL PLENO, DJe de 23/10/2009; PET no MS 25.661/DF, Min. FRANCISCO FALCÃO, CORTE ESPECIAL, DJe de 18/12/2020; AgInt no MS 26.603/DF, Min. JORGE MUSSI, CORTE ESPECIAL, DJe de 07/12/2020) se restringe a excepcionalíssimas hipóteses, sendo admitido apenas quando se constatar, de imediato, que o provimento esteja eivado de ilegalidade, teratologia ou abuso de poder, e que contra ele não caiba recurso com efeito suspensivo (Lei 12.016/2009, art. 5º, II).
+No caso concreto, não há comoreconhecer, à toda evidência, qualquer teratologia, manifestailegalidade ou abuso de poder nas decisões que negaram admissibilidade ao recurso extraordinário interposto pelo impetrante.
+Ao contrário, considerando que as decisões e acórdãos impugnados dizem respeitoexclusivamente ao cabimento dos recursos interpostos, o entendimentomanifestado está em estrita consonância com a jurisprudência do próprioSupremo Tribunal Federal (v.g. RE 598.365 RG/MG) sobre o tema.
+Desse modo, não se verifica a ocorrência de ato abusivo ou ilegal,tampouco a existência de direito líquido e certo amparável pela estreitavia procedimental do mandado de segurança.
+Ante o exposto, com base nos artigos 10da Lei n. 12.016/2009e 212do RISTJ, indefiro liminarmente a petição inicial.
+Intime-se.
+EMENTA
+MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. IMPETRAÇÃO CONTRA ATO JUDICIAL EXARADO NO ÂMBITO DE ADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO.INEXISTÊNCIA DE ATO ABUSIVO E ILEGAL AMPARÁVEL POR MANDADO DESEGURANÇA. PRECEDENTES.
+PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
