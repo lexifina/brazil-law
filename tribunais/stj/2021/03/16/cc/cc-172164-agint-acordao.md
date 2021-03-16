@@ -1,0 +1,58 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PRESSUPOSTOS DO CONFLITO. NÃO-CONFIGURAÇÃO. AÇÕES DECLARATÓRIAS C/C ANULATÓRIAS DIFERENTES QUE TRAMITARAM EM JUÍZOS DIVERSOS. INEXISTÊNCIA DE DECLARAÇÃO OU PRÁTICA DE ATOS, POR QUALQUER DOS JUÍZOS SUSCITADOS, RECONHECENDO A INCOMPETÊNCIA PARA O MESMO PROCESSO.
+1. No caso, não se está diante de um conflito negativo de competência, pois, além de cada juízo suscitado encontrar-se atuando em sua própria esfera de jurisdição, sem, portanto, praticar atos processuais na "mesma causa", não se constata, principalmente, que tais atos sejam excludentes entre si.
+2. Agravo interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Primeira Seção do Superior Tribunal de Justiça, por unanimidade, decidiu negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator."
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Assusete Magalhães, Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno de decisão de minha relatoria cuja ementa é a seguinte:
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. INEXISTÊNCIA DE MANIFESTAÇÃO DE DOIS OU MAIS JUÍZES SE CONSIDERANDO INCOMPETENTES E ATRIBUINDO UM AO OUTRO A COMPETÊNCIA PARA PROCESSAR E JULGAR O MESMO FEITO. CONFLITO DE COMPETÊNCIA NÃO CONHECIDO.
+Insurge-se o agravante contra a decisão monocrática sustentando que há sim decisões conflitantes entre os juízos suscitados, uma vez que à fl. e-STJ 404, o MM. Juízo do Juizado Especial Adjunto Cível da 29ª Subseção Judiciária -Registro/SP, decidiu: "Portanto, a esse respeito, é competente a Justiça Estadual paulista para a análise da correição dos referidos procedimentos de autuação e/ou auto de infração", enquanto que à fl. e-STJ 585, o MM. Juízo da 4ª Vara do Juizado Especial da Fazenda Pública de São Paulo/SP afirmou: "Dessa forma, a presente demanda deve ser deduzida em face do Denatran, perante a Justiça Federal, tendo em vista que se trata de órgão administrativo da União".
+Por fim, afirma pelo distinguishing quanto à incidência da Súmula 59/STJ porquanto tal enunciado presente refere-se à hipótese de existir sentença transitada em julgado que tenha resolvido o mérito por um dos juízos conflitantes, o que não é o caso dos autos.
+Pugna pela retratação da decisão monocrática ou que seja o presente recurso apreciado e julgado pelo Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. PRESSUPOSTOS DO CONFLITO. NÃO-CONFIGURAÇÃO. AÇÕES DECLARATÓRIAS C/C ANULATÓRIAS DIFERENTES QUE TRAMITARAM EM JUÍZOS DIVERSOS. INEXISTÊNCIA DE DECLARAÇÃO OU PRÁTICA DE ATOS, POR QUALQUER DOS JUÍZOS SUSCITADOS, RECONHECENDO A INCOMPETÊNCIA PARA O MESMO PROCESSO.
+1. No caso, não se está diante de um conflito negativo de competência, pois, além de cada juízo suscitado encontrar-se atuando em sua própria esfera de jurisdição, sem, portanto, praticar atos processuais na "mesma causa", não se constata, principalmente, que tais atos sejam excludentes entre si.
+2. Agravo interno não provido.
+VOTO
+Inicialmente, é necessário consignar que o presente processo atrai a incidência do Enunciado Administrativo n. 4/STJ: "Nos feitos de competência cível originária e recursal do STJ, os atos processuais que vierem a ser praticados por julgadores, partes, Ministério Público, procuradores, serventuários e auxiliares da Justiça, a partir de 18 de março de 2016, deverão observar os novos procedimentos trazidos pelo CPC/2015, sem prejuízo do disposto em legislação processual especial".
+Sustenta o agravante que houve decisões conflitantes entre os juízos suscitados, uma vez que à fl. e-STJ 404, o MM. Juízo do Juizado Especial Adjunto Cível da 29ª Subseção Judiciária -Registro/SP, decidiu: "Portanto, a esse respeito, é competente a Justiça Estadual paulista para a análise da correição dos referidos procedimentos de autuação e/ou auto de infração", enquanto que à fl. e-STJ 585, o MM. Juízo da 4ª Vara do Juizado Especial da Fazenda Pública de São Paulo/SP afirmou: "Dessa forma, a presente demanda deve ser deduzida em face do Denatran, perante a Justiça Federal, tendo em vista que se trata de órgão administrativo da União".
+Contudo, suas razões não merecem prosperar.
+Isso porque trata-se de conflito negativo de competência suscitado por JOSÉ LUIZ SOARES em face da 4ª Vara do Juizado Especial da Fazenda Pública da Comarca da Capital do Estado de São Paulo (Processo nº 1047400-04.2018.8.26.0053) e do Juizado Especial Federal Cível da 29ª Subseção Judiciária do Estado de São Paulo - Registro/SP (Processo nº 0002060-57.2019.4.03.6305), quanto ao processamento e julgamento de Ação Declaratória c/c Anulatória visando à reclassificação, no RENAVAM, de um veículo Mercedes Benz Sprinter, de caminhão para caminhonete, e à anulação de autos de infração decorrentes da classificação do veículo como caminhão.
+O Juízo de Direito da 4ª Vara do Juizado Especial da Fazenda Pública da Comarca da Capital do Estado de São Paulo (Processo nº 1047400-04.2018.8.26.0053) ora suscitado, julgou extinto o processo, sem resolução de mérito, por ilegitimidade passiva do DETRAN para a causa, considerando que a Prefeitura de São Paulo e o DETRAN/SP não dispõem de poderes para alterar a classificação de veículos constante do RENAVAM, devendo a presente demanda ser deduzida em face do Denatran, perante a Justiça Federal (fl. 585 e-STJ).
+O Juízo Federal do Juizado Especial Federal Cível de Registro/SP (Processo nº 0002060-57.2019.4.03.6305), também ora suscitado, não obstante ter declarado à fl. 404 (e-STJ) que seria competente para a causa a Justiça Estadual, julgou extinto sem resolução do mérito porquanto ausente a competência (absoluta) do Juizado Especial Federal, considerando que a parte autora demanda a anulação de ato administrativo do Município de São Paulo, referentes às diversas multas de trânsitos por excesso de peso no veículo, cujos atos administrativos não se amoldam a ato de natureza fiscal ou previdenciária, incidindo, assim, o teor do art. 3º, § 1º, III, da Lei nº 10.259/01.
+Pois bem.
+Segundo o CPC/2015:
+Art. 66. Há conflito de competência quando:
+I - 2 (dois) ou mais juízes se declaram competentes;
+II - 2 (dois) ou mais juízes se consideram incompetentes, atribuindo um ao outro a competência;
+III - entre 2 (dois) ou mais juízes surge controvérsia acerca da reunião ou separação de processos.
+Parágrafo único. O juiz que não acolher a competência declinada deverá suscitar o conflito, salvo se a atribuir a outro juízo.
+No caso dos autos, cada Juízo está atuando em conformidade com sua competência, tendo cada um julgado extinto o processo, sem resolução de mérito, por razões distintas, no âmbito de processos diferentes, que não possuem vínculo.
+Nesse sentido, "não enseja conflito de competência quando cada juízo atua em sua própria esfera de jurisdição, de modo que as decisões proferidas podem perfeitamente coexistir" (CC 130.563/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, publicada em 3/6/2015).
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONFLITO DE COMPETÊNCIA. DUAS AÇÕES DE IMPROBIDADE ADMINISTRATIVA SOBRE OS MESMOS FATOS E PEDIDOS PROCESSADAS EM JUÍZOS DIFERENTES. INEXISTÊNCIA DE MANIFESTAÇÃO DO JUÍZO FEDERAL DA COMARCA DE MAGÉ-RJ SOBRE A NECESSIDADE DE REUNIÃO OU SEPARAÇÃO DE PROCESSOS. CONFLITO DE COMPETÊNCIA INEXISTENTE.
+I - Trata-se, na origem, de ação civil pública por ato de improbidade administrativa proposta pelo Ministério Público Federal.
+II - A suscitante aduz conflito de competência em relação a duas ações de improbidade administrativa sobre os mesmos fatos e pedidos que estão sendo processadas em juízos diferentes, quais sejam Juízo da 1ª vara cível de magé - RJ e juízo federal da vara de magé - RJ.
+III - Verifica-se que a suscitante se insurge em face da decisão do juízo cível da Comarca de Magé-RJ que indeferiu o pedido de conexão entre as ações de improbidade administrativa.
+IV - Não há manifestação do juízo federal da Comarca de Magé-RJ sobre a necessidade de reunião ou separação de processos, e sequer consta qualquer declaração de competência ou incompetência para processar e julgar as demandas.
+V - Inexiste conflito de competência no caso em apreço, vez que não restou caracterizada as hipóteses elencadas no dispositivo legal.
+VI - O conflito de competência não pode ser utilizado como sucedâneo recursal, de modo que a suscitante deve se valer dos meios legais para a impugnação da decisão. Nesse sentido: AgRg nos EDcl no CC 151.936/SP, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 25/10/2017, DJe 07/11/2017; AgRg no CC 121.226/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 13/3/2013, DJe 02/4/2013.
+VII - Agravo interno improvido.
+(AgInt no CC 159.161/RJ, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, julgado em 27/03/2019, DJe 01/04/2019)
+PROCESSUAL CIVIL. AGRAVOS REGIMENTAIS NO CONFLITO DE COMPETÊNCIA. AÇÃO CAUTELAR FISCAL E EXECUÇÕES FISCAIS. ART. 115 DO CPC. PRESSUPOSTOS DO CONFLITO. NÃO-CONFIGURAÇÃO. EXECUÇÕES FISCAIS EM TRÂMITE PERANTE DIVERSOS JUÍZOS. INEXISTÊNCIA DE DECLARAÇÃO OU PRÁTICA DE ATOS, POR QUALQUER DOS JUÍZOS SUSCITADOS, RECONHECENDO A COMPETÊNCIA PARA O MESMO PROCESSO.
+1. Para caracterizar-se o conflito de competência, é indispensável a manifestação expressa de dois ou mais juízos que se considerem competentes ou incompetentes para processar e julgar a "mesma demanda" (Corte Especial, Rel. Min. Castro Meira, DJe de 14.10.2011). Com efeito, para a configuração de conflito, positivo ou negativo, é necessário que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes ou incompetentes para apreciar e julgar o "mesmo feito", ou que incida a prática de atos processuais "na mesma causa", por mais de um juiz (2ª Seção, AgRg no CC 120.584/GO Rel. Min. Massami Uyeda, DJe de 1º.8.2012).
+2. Quando não configurados os pressupostos do conflito de competência, tal incidente processual pode ser decidido monocraticamente, a teor do que dispõem os arts. 34, XVIII, do RISTJ, 38, da Lei 8.038/90, e 120, parágrafo único, do CPC.
+3. No caso, não se está diante de um conflito positivo de competência, pois, além de cada juízo suscitado encontrar-se atuando em sua própria esfera de jurisdição, sem, portanto, praticar atos processuais na "mesma causa", não se constata, principalmente, que tais atos sejam excludentes entre si.
+4. O conflito de competência não pode ser utilizado como sucedâneo recursal, bem como não se presta a resolver questões que devem ser dirimidas nas instâncias ordinárias.
+5. Agravos regimentais não providos.
+(AgRg no CC 121.226/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 13/3/2013, DJe 2/4/2013.)
+Assim, não existiu dois órgãos jurisdicionais afirmando-se simultaneamente incompetentes para o julgamento da mesma causa, o que seria pressuposto para a existência do alegado conflito.
+Por fim , ainda que o processo nº 1047400-04.2018.8.26.0053 não se encontrasse com trânsito em julgado, diante dos fundamentos acima expostos, resta prejudicada a análise do distinguishing quanto à incidência da Súmula 59/STJ.
+Com essas considerações, a decisão merece ser mantida.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
