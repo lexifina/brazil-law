@@ -1,0 +1,1 @@
+Art. 167-E. Fica dispensada, durante a integralidade do exercício financeiro em que vigore a calamidade pública de âmbito nacional, a observância do inciso III do caput do art. 167 desta Constituição.
