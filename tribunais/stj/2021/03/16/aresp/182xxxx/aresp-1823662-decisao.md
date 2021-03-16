@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por JUAREZ PEDRO DA SILVA contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+FURTO  APLICAÇÃO DO PREVISTO NO §2 DO ARTIGO 155 DO CÓDIGO PENAL CONFORME DETERMINADO PELO STJ  APLICADO O BENEFÍCIO DE ALTERAÇÃO DA PENA DE RECLUSÃO POR DETENÇÃO  APELO PARCIALMENTE PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 155, § 2º, do CP, no que concerne à possibilidade de aplicação de pena isolada de multa em razão do furto privilegiado, trazendo o(s) seguinte(s) argumento(s):
+Reconhecida a privilegiadora do §2º do art. 155 e aplicada a pena no mínimo legal, inexiste fundamento que justifique a escolha por modalidade de redução que não seja a mais benéfica para a pessoa acusada, que, sem dúvida alguma, é a multa (pena pecuniária).
+In casu, a pena-base do recorrente foi a menor possível, como se viu - 01 (um) ano para o furto simples, com a consideração favorável de todas as circunstâncias judiciais do art. 59 do CP -.
+Não há sentido em se aplicar a pena mínima e não aplicar a hipótese mais benéfica do rol que consta do §2º do art. 155 do CP, porquanto o que reflete o caso concreto são as circunstâncias judiciais do art. 59 do CP, as mesmas que seriam desfavoravelmente analisadas se algo justificasse o aumento da pena-base.
+Finalmente, ressalta-se que o celular foi recuperado e não houve prejuízo material a ninguém (fls. 342-344).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Na terceira fase, apesar da primariedade do acusado, é certo que o valor do bem furtado, mesmo sendo inferior a um salário mínimo, aproximou-se muito de sua totalidade, configurando, até mesmo, o total dos rendimentos para relevante parcela da população. Dessa feita, determino a substituição da pena de reclusão por detenção (fl. 332).
+Assim, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ademais, com base no mesmo excerto transcrito supra, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
