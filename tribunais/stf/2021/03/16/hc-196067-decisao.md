@@ -1,0 +1,37 @@
+D E C I S Ã O
+    Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal Militar que está assim ementado:
+    “AGRAVO INTERNO EM REVISÃO CRIMINAL. DEFESA CONSTITUÍDA. JUÍZO DE RETRATABILIDADE NEGATIVO. REVISÃO CRIMINAL MANIFESTAMENTE INCABÍVEL. AUSÊNCIA DOS REQUISITOS DE ADMISSIBILIDADE. SEGUIMENTO NEGADO. TESES DEFENSIVAS. DECRETO CONDENATÓRIO CONTRÁRIO À PROVA DOS AUTOS. NOVAS PROVAS DA INOCÊNCIA DO APENADO. IMPROCEDÊNCIA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REJEITADO. DECISÃO POR UNANIMIDADE.
+    1. O princípio que rege a Ação de Revisão Criminal é o da absoluta excepcionalidade, visando a corrigir erro judiciário quanto aos fatos, à sua apreciação, à avaliação e ao enquadramento.
+    2. O cabimento da Revisão Criminal condiciona-se ao disposto no art. 550, devendo ser admitida apenas quando se verificar uma das hipóteses taxativamente descritas no art. 551, ambos do CPPM.
+    3. É inadmissível a Ação Revisional baseada em teses já debatidas e rejeitadas pelo Tribunal no processo revivido, especialmente quando desacompanhada de argumentação capaz de debilitar a certeza do acervo probatório confirmado no decreto condenatório.
+    4. A prova nova apta ao posterior ingresso com a Revisional é aquela submetida ao crivo do contraditório e da ampla defesa, por meio de Justificação Criminal.
+    5. Mantida inalterada a Decisão que negou seguimento ao pleito Revisional.
+    6. Agravo Interno rejeitado. Decisão por unanimidade.”
+    (RC 7000505-78.2020.7.00.0000-AI, Ministro Gen Ex Marco Antônio de Farias)
+    Em suas razões, a parte impetrante, em síntese, pretende “seja determinado ao e. Superior Tribunal Militar a apreciação do mérito da Ação de Revisão Criminal nº 7000505-78.2020.7.00.0000”.
+    O Ministério Público Federal, ao opinar pelo não conhecimento do habeas corpus, formulou parecer assim ementado:
+    “MILITAR. HABEAS CORPUS CONTRA DECISÃO MONOCRÁTICA PROFERIDA NO ÂMBITO DO STM. DESCABIMENTO. ESTELIONATO. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL OBSTADA COM BASE NA AUSÊNCIA DOS REQUISITOS DOS ARTS. 550 E 551, AMBOS DO CPPM. WRIT PLEITEANDO O PROCESSAMENTO DA AÇÃO REVISIONAL. PRETENSÃO INVIÁVEL. PRESSUPOSTOS RECURSAIS INOBSERVADOS. INEXISTÊNCIA DE PROVA NOVA CAPAZ DE ENSEJAR A ABSOLVIÇÃO DO PACIENTE. AUSÊNCIA DE ILEGALIDADE NA ESPÉCIE. PARECER PELO NÃO CONHECIMENTO DO MANDAMUS.”
+    É o relatório. Decido.
+    Entendo não assistir razão a parte impetrante, porquanto ambas as turmas dessa Suprema Corte já fixaram orientação no sentido de que não se revela admissível a utilização do habeas corpus quando se objetiva discutir pressupostos de admissibilidade de recursos de outros Tribunais. É o que se extrai dos seguintes julgados:
+    “’HABEAS CORPUS’ – INVIABILIDADE DE SUA IMPETRAÇÃO, QUANDO VISA À DISCUSSÃO EM TORNO DOS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO INTERPOSTO PERANTE O E. SUPERIOR TRIBUNAL DE JUSTIÇA – PRECEDENTES – IMPETRAÇÃO FORMULADA, ADEMAIS, COM APOIO EM FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL APONTADO COMO COATOR – SUPRESSÃO DE INSTÂNCIA – INVIABILIDADE – RECURSO DE AGRAVO IMPROVIDO.”
+    (HC 142.201-AgR/SC, Ministro Celso de Mello – com meus grifos)
+    “PROCESSUAL PENAL. AGRAVO REGIMENTAL. HOMICÍDIO QUALIFICADO. ANÁLISE DOS PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSO INTERPOSTO PERANTE TRIBUNAL SUPERIOR. INADEQUAÇÃO DA VIA ELEITA.
+    1. Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao Supremo Tribunal Federal examinar a questão de direito discutida na impetração.
+    2. Não cabe habeas corpus para reexaminar os pressupostos de admissibilidade de recurso interposto perante Tribunal Superior (vg. HC 111.324, Redator para o acórdão o Min. Luís Roberto Barroso; HC 109.156, Rel. Min. Dias Toffoli; HC 115.357-AgR, Rel. Min. Dias Toffoli).
+    3. Declarada a ausência de repercussão geral da matéria pelo Plenário do Supremo Tribunal Federal, os recursos que versem sobre questão constitucional idêntica devem ser inadmitidos na origem, com base no artigo 543-B, § 3º, do Código de Processo Civil.
+    4. Agravo regimental desprovido.”
+    (HC 134.760-AgR/BA, Ministro Roberto Barroso – com meus grifos)
+    Ainda que superado referido óbice, melhor sorte não assiste a parte impetrante, eis que quanto à alegada prova nova que fundamentou a impetração da revisão criminal, assim se manifestou o relator no Superior Tribunal Militar (com meus grifos):
+    “O Requerente fundamenta, ainda, a sua pretensão na suposta existência de novas provas, nos termos da letra "c" do art. 551 do CPPM, colacionando aos autos o Laudo Técnico Pericial, de 16.4.2018, e a ART nº E0071630. Na sua óptica, esses documentos comprovariam a inexistência de dano ao Erário e de qualquer conduta ilícita do Apenado.
+    21. Quanto ao referido Laudo Técnico Pericial, a Defesa se apoiou no trecho segundo o qual "não há indícios de que houve dano ao Erário", esquecendo-se da outra parte da conclusão, ainda mais importante, in litteris: "Ratifica-se a necessidade de confirmação das premissas, sendo condição essencial para a validade deste laudo". Assim, o Laudo, sem a confirmação das premissas, não tem qualquer validade.
+    22. Esse também é o entendimento da Procuradoria-Geral da Justiça Militar, mediante o Parecer do Subprocurador-Geral de Justiça Militar Dr. ALEXANDRE CONCESSI, in verbis: "(...) Data maxima venia, o Laudo Técnico Pericial apresentado nesta sede como prova nova é repleto de incertezas e condicionantes, pautando-se em premissas vagas e desprovido do mínimo lastro documental necessário para afastar a certeza obtida quanto à autoria e a materialidade delitivas. (...).
+    23. Quanto à alegada ART, melhor sorte não lhe assiste. Trata-se de documento de 18.6.2006, tendo como contratada a engenheira HELIANE LEITE DE CARVALHO e, como contratante, a SECRETARIA MUNICIPAL DE OBRAS E VIAÇÃO (SEMOV), porém não há a assinatura da profissional contratada, o que, por si só, afasta a sua validade.”
+    Desse modo, divergir da instância anterior, quanto à tratar-se ou não de provas novas “que invalidem a condenação ou que determinem ou autorizem a diminuição da pena” é inviável para a via estreita do habeas corpus, que não admite dilação probatória, nos termos da jurisprudência de ambas as Turmas desta Suprema Corte: HC 175.924- -AgR/PR, Ministro Gilmar Mendes; HC 182.710-AgR/SP, Ministro Alexandre de Moraes; HC 190.845-AgR/PE, Ministro Ricardo Lewandowski; RHC 143.055-AgR/PR, Ministro Edson Fachin:
+    “’HABEAS CORPUS’ – SITUAÇÃO DE ILIQUIDEZ QUANTO AOS FATOS SUBJACENTES AO PROCESSO PENAL – CONTROVÉRSIA QUE IMPLICA EXAME APROFUNDADO DE FATOS E CONFRONTO ANALÍTICO DE MATÉRIA ESSENCIALMENTE PROBATÓRIA – INVIABILIDADE NA VIA SUMARÍSSIMA DO PROCESSO DE ‘HABEAS CORPUS’ – RECURSO DE AGRAVO IMPROVIDO.
+    – O processo de “habeas corpus”, que tem caráter essencialmente documental, não se mostra juridicamente adequado quando utilizado com o objetivo (a) de promover a análise da prova penal, (b) de efetuar o reexame do conjunto probatório regularmente produzido, (c) de provocar a reapreciação da matéria de fato e (d) de proceder à revalorização dos elementos instrutórios coligidos no processo penal de conhecimento. Precedentes.”
+    (HC 125.131-AgR/DF, Ministro Celso de Mello)
+    Em face do exposto, não conheço do presente habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+    Brasília, 16 de março de 2021.
+Ministro NUNES MARQUES
+Relator
