@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe- se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisãoagravada, conforme determina a lei processual civil e o princípio da dialeticidade. A propósito:EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, a decisão de não admissão do recurso especial contém os seguintes fundamentos: (a) não é admissível apelo especial contra suposta violação do art. 1º do Decreto n. 20.910/1932; (b) no que diz respeito à ofensa ao art. 1º-F da Lei n. 9.494/1997, aausência de trânsito em julgado dos recursos representativos da controvérsia não impede a aplicação datese no caso concreto; (c) no julgamento do RE n. 870.947 o STF decidiu que o art. 1º -F da Lei n. 9.797/1997,na parte em que disciplina a atualização monetária das condenações judiciais de natureza administrativa em geral, segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade; (d) no julgamento dosREsps ns. 1.492.221/PR, 1.495.144/RS e 1.495.146/MG pelo STJ, foi afirmada a inaplicabilidade doart. 1º -F da Lei n. 9.797/1997, no que diz respeito à correção monetária, e o caso dos autos não diverge da orientação da instância superior.
+Ocorre que o agravante impugnou, de forma específica,apenas o primeiro fundamento da decisão agravada, o que acarreta o não conhecimento do agravo em razão da falta de impugnação aos demais.
+Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
