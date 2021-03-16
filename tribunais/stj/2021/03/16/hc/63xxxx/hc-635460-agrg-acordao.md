@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, dar provimento ao agravo regimental paraconcedera ordem de ofício, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. MEDIDAS CAUTELARES ALTERNATIVAS. APREENSÃO DE PEQUENA QUANTIDADE DE ENTORPECENTES.
+1. A despeito da reprovabilidade decondutas imputadas ao paciente, substitui-se a prisão preventiva pormedidas cautelares previstas no art. 319 do CPP, menos gravosas, quandosuficientes para restabelecer ou garantir a ordem pública,assegurar a higidez da instrução criminal e a aplicação da lei penal.
+2. Agravo regimental provido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RICARDO DIZIMONE JUVENCIOcontra a decisão de fls. 67-68, que não conheceu do habeas corpus impetrado em seu favor, no qual fora apontado como autoridade coatora o Tribunal de Justiça do Estado do Paraná(Processo n. 0057395-31.2020.8.060.0000).
+O agravante teve sua prisão em flagrante decretada, posteriormente convertida em preventiva a pedido do Ministério Público (fls. 14-16), pela suposta prática dodelitodescritonoart. 33 da Lei n. 11.343/2006.
+No presente writ, foi mantida a segregação cautelar para garantia da ordem pública, a fim de conter o risco de reiteração delitiva, tendo em vista que o agravante, quando beneficiado por liberdade provisória em ação penal diversa, cometeu nova infração.
+Nas razões deste recurso, o agravante alega que foi apreendida pequena quantidade de entorpecente (0,6g de maconha e 1 dichavador) e que, na outra ação penal à qual responde, houve a apreensão de "1g de crack fracionado em uma pedra". Argumenta que "nitidamente se trata de conduta praticada por usuário de drogas", "razão pela qual não existe o risco de reiteração delitiva".
+Requer a reconsideração da decisão agravada ou o provimento do recurso e, consequentemente, a concessão da ordem para revogar a custódia cautelar, aplicando-se ou nãoas medidas alternativas previstas no art. 319 do CPP.
+O Ministério Público Federal apresentou contraminuta às fls. 92-95.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. MEDIDAS CAUTELARES ALTERNATIVAS. APREENSÃO DE PEQUENA QUANTIDADE DE ENTORPECENTES.
+1. A despeito da reprovabilidade decondutas imputadas ao paciente, substitui-se a prisão preventiva pormedidas cautelares previstas no art. 319 do CPP, menos gravosas, quandosuficientes para restabelecer ou garantir a ordem pública,assegurar a higidez da instrução criminal e a aplicação da lei penal.
+2. Agravo regimental provido.
+VOTO
+A irresignação reúne condições de prosperar.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, o Tribunal a quo limitou-se a fundamentar a necessidade da prisão preventiva na garantia da ordem pública, nos seguintes termos (fls. 12-13, destaquei):
+Tal qual explicitado pelo Douto relator originário, entendo que o decreto preventivo restou devidamente fundamentado, seja pela indicação de prova da materialidade e indícios suficientes de autoria, seja pela necessidade de garantia da ordem pública pela presença de anotação criminal, à indicar possibilidade de reiteração delitiva.
+ ..
+Destarte, presentes os requisitos da prisão preventiva, não há que se falarem concessão de medidas cautelares diversas da prisão, motivo pelo qual voto do sentido de denegar a ordem.
+O entendimento acima diverge da jurisprudência do STJ, que exige fundamentação concreta no tocante à necessidade de decretação da prisão preventiva em detrimento da aplicação de medidas cautelares alternativas, razão pela qual se deve afastar o constrangimento ilegal alegado.
+Em situações tais, não basta a referência à gravidade abstrata do delito ou sua repercussão social, visto que, para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar tenham caráter excepcional e provisório. Além disso, a decisão judicial deve ser suficientemente motivada, ou seja, deve conter a análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, do Código de Processo Penal (HC n. 603.685/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 12/11/2020).
+Assim, diante da natureza excepcional da prisão preventiva, a jurisprudência do STJ exige, além da fundamentação concreta e do preenchimento dos requisitos do art. 312 do CPP, que não seja possível a aplicação de medida cautelar alternativa prevista no art. 319 do CPP (HC n. 579.297/MS, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 12/11/2020).
+No presente caso,conforme bem salientado pelo Ministério Público Federal à fl. 94, o agravante responde a duas ações penais pela apreensão de pequena quantidade de entorpecente (1g de crack e 6g de maconha) e de 1 dichavador. Confira-se:
+Além da quantidade apreendida nas duas ações nãoser considerada expressiva (1g de crack e 6g de maconha), soma-se a isso o fato de o paciente voluntariamente ter se apresentado ao Distrito Policial indicando que nãopretende causar embaraço a aplicação da lei penal.
+Nesse sentido, estando demonstrada a possibilidade de substituição da medida extrema por cautelares diversas da prisão, a concessão da ordem de ofício é medida que se impõe.
+Sem prejuízo da aplicação de outras medidas a critério do juízo competente, a despeito da reprovabilidade das condutas imputadas ao paciente, sua submissão às medidas cautelares previstas no art. 319 do CPP, menos gravosas que o encarceramento, é adequada e suficiente, por ora, para restabelecer ou garantir a ordem pública, assegurar a higidez da instrução criminal e a aplicação da lei penal, especificamente aquelas previstas nos incisos I ("comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades"), IV ("proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução") e IX ("monitoração eletrônica").
+Ante o exposto, dou provimento ao agravo regimental paraconcedera ordem de ofício, nos termos do art. 654, § 2º, do Código de Processo Penal, a fim dedeterminar asubstituição da prisão preventiva doagravante pelas medidas cautelares previstas no art. 319, I, IV e IX, do CPP, se por outro motivo não estiverpresos, ressalvada a possibilidade de aplicação pelo Juízo de primeiro grau de outras medidas cautelares que entender necessárias ao caso concreto.
+Comunique-secom urgênciaao Juízo de primeira instância e ao Tribunal de origem.
+É o voto.
