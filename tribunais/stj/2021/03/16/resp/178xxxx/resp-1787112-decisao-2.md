@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/2015, manejado por Comercial Oliveira Lima Ltda e outros, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Alagoas, assim ementado (fls. 1.347/1.348):
+APELAÇÕES CÍVEIS. RECURSO INTERPOSTO PELO ESTADO DE ALAGOAS. TRIBUTÁRIO. EXECUÇÃO FISCAL. PRELIMINAR DE EXTINÇÃO DO FEITO POR AUSÊNCIA DE GARANTIA DO JUÍZO. AFASTADA. MÉRITO. COISA JULGADA INCONSTITUCIONAL NÃO DESFAZ, DE FORMA AUTOMÁTICA AS SENTENÇAS JUDICIAIS ANTERIORMENTE PROFERIDAS EM SENTIDO CONTRÁRIO. IINDISPENSABILIDADE DE MEDIDAS JUDICIAIS PARA SUA ALTERAÇÃO. EMBARGOS À EXECUÇÃO ORIGINÁRIOS DE AUTO DE INFRAÇÃO. INOBSERVÂNCIA À COISA JULGADA. AUTUAÇÃO INSUBSISTENTE. REDISCUSSÃO DE MATÉRIAS DEBATIDAS EM OUTRAS DEMANDAS. INVIABILIDADE. RECURSO CONHECIDO E NÃO PROVIDO. APELAÇÃO INTERPOSTA POR COMERCIAL OLIVEIRA LIMA LTDA. HONORÁRIOS ADVOCATÍCIOS CONTRA A FAZENDA PÚBLICA. ART. 20, § 4º DO CPC/73 VIGENTE À ÉPOCA DA SENTENÇA. OBSERVÂNCIA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Preliminar de rejeição dos embargos à execução - Havendo revogação da decisão que determinou a liberação dos bens dados em garantia à execução fiscal, afastada se toma a preliminar de extinção dos embargos à execução por ausência de segurança do juízo.
+2. Mérito.
+3. Recurso de Apelação interposto pelo Estado de Alagoas - 3.1. A decisão proferida pelo STF que declara a constitucionalidade de lei não produz de forma automática a alteração de decisões judiciais exaradas anteriormente, necessitando a interposição de medidas judiciais adequadas ao caso, para ver aplicado ao contexto fático o entendimento obtido pela Corte Suprema de Justiça.
+3.2. Não tendo a parte interessada interposto o recurso próprio ou ainda, proposto ação rescisória, ou tendo tomado essas medidas, essas foram infrutíferas, deve ser respeitado o teor das decisões que se encontram acobertadas pela coisa julgada.
+3.3. Deve ser extinta a execução fiscal fundada em auto de infração cujo fundamento encontra-se contrário à determinação judicial com trânsito em julgado.
+3.4. Da mesma forma, incabível se faz a discussão de matérias debatidas em outras demandas.
+3.5. Recurso conhecido e desprovido.
+4. Recurso de apelação interposto pela empresa Comercial Oliveira Lima Ltda. e outros.
+4.1. A condenação ao pagamento dos honorários advocatícios deve ser fixada com base no art. 20 e parágrafos do CPC/73 vigente à época da sentença.
+4.2. Tendo o juiz de primeiro grau fixado os honorários dentro dos parâmetros estabelecidos em lei, deve ser mantido valor da condenação.
+4.3. Recurso conhecido e desprovido.
+Opostos embargos declaratórios pela parte ora recorrente, foram acolhidos, sem efeitos modificativos, apenas para sanar erro material (fls. 1.410/1.419). Os aclaratórios do ora recorridoforam rejeitados (fls. 1.473/1.490).
+Nas razões do recurso especial, a parte agravante aponta, além de dissídio jurisprudencial, violação ao art. 20,§§ 3º e 4º,do CPC/73. Sustenta, em suma,que"se fosse atualizado de 2012 até hoje, o valor da causa e também o valor dos honorários fixados, o valor da causa atingiria a cifra de R$ 219.780.590,74 (duzentos e dezenove reais, setecentos e oitenta mil, quinhentos e noventa reais e setenta e quatro centavos), o que conduziria à ilação de que os honorários teriam sido fixados na proporção de 0,010% (dez milésimos por cento) do valor atualizado da causa, o que demonstra claramente que a estipulação foi irrisória, negando vigência, portanto, aos §§ 3º e 4º, do art. 20 do CPC, vigentes à época da fixação" (fl. 1.502), destacando-se, ademais, que a presente causa envolve alta complexidade. Requer a majoração da verba sucumbencial para que atinja, ao menos, 1% do valor atualizado da causa.
+Contrarrazões às fls. 1.817/1.832.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Segundo o entendimento consolidado pela Primeira Seção do Superior Tribunal de Justiça, em julgamento pelo rito previsto artigo no artigo 543-C do Código de Processo Civil, "vencida a Fazenda Pública, a fixação dos honorários não está adstrita aos limites percentuais de 10% e 20%, podendo ser adotado como base de cálculo o valor dado à causa ou à condenação, nos termos do art. 20, § 4º, do CPC, ou mesmo um valor fixo, segundo o critério de equidade." (REsp nº 1.155.125/MG, Relator Ministro Castro Meira, DJe de 6/4/2010).
+Ademais, a jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de honorários advocatícios, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ.
+Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância da importância arbitrada, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos.
+No caso, o Tribunal de origem manteve a verba honorária em R$ 20.000,00 (vinte mil reais), considerando as peculiaridades fáticas do presente feito, no qual se atribuiu à causa o valor deR$ 102.130.264,14 (cento e dois milhões cento e trinta mil e duzentos e sessenta e quatro reais e quatorze centavos).
+Dessarte, não configurada a excepcionalidade exigida pela jurisprudência desta Corte, não se mostra possível a majoraçãodos honorários advocatícios pleiteada pela parte ora agravante.
+A propósito, confira-se:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. HONORÁRIOS. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A revisão do valor dos honorários advocatícios arbitrado, é, em princípio, vedado nesta instância, à luz da Súmula 7/STJ. Como cediço, é admitida sua revisão por esta Corte quando o valor arbitrado extrapola os limites da razoabilidade, o que, todavia, não se verifica no presente caso.
+2. A tese jurídica veiculada nas razões do regimental não é capaz de modificar o posicionamento anteriormente firmado no decisum ora impugnado, que persevera, na íntegra, por seus próprios fundamentos.
+3. Agravo regimental não provido.
+(AgRg no AREsp 171.013/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 7/3/2013, DJe 13/3/2013)
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se
