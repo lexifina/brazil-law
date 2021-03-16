@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo TJ/TO, assim ementado (fls. 39-40):
+APELAÇÃO CÍVEL. BANCO DO BRASIL. PRELIMINARES SUSCITADAS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RESTITUIÇÃO DE VALORES SACADOS/DESFALCADOS DE CONTA VINCULADA AO PASEP.LEGITIMIDADE DO BANCO DO BRASIL S/A. ALEGAÇÃO DE SAQUES INDEVIDOS. INSTITUIÇÃO FINANCEIRA QUE É LEGITIMADA PARA FIGURAR NO POLO PASSIVO.PRECEDENTES. PRESCRIÇÃO. RELAÇÃO DE CONSUMO. ART.27 DO CDC. PRESCRIÇÃO QUINQUENAL. INÍCIO DA CONTAGEM DO PRAZO. CONHECIMENTO DO DANO. DATA DE ACESSO AO EXTRATO DE MOVIMENTAÇÃO DA CONTA.PRELIMINARES AFASTADAS. IMPOSSIBILIDADE DE APLICAÇÃO DA TEORIA DA CAUSA MADURA. RETORNO DOS AUTOS À ORIGEM. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA. SENTENÇA CASSADA.
+1. O BANCO DO BRASIL S/A POSSUI LEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DE AÇÃO EM QUE SE POSTULA INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS DECORRENTES DE SAQUES/DESFALQUES/DESCONTOS INDEVIDOS REALIZADOS EM CONTA VINCULADA AO PASEP, ORIUNDOS DE SAQUES INDEVIDOS, ESPECIALMENTE PELA ATRIBUIÇÃO QUE POSSUI DE PROCESSAR AS SOLICITAÇÕES DE SAQUE, NOS TERMOS DO DECRETO N. 9.978/2019.PRECEDENTES DO TJTO E DO STJ.
+2. INCIDÊNCIA DO ART. 27 CDC QUE DETERMINA QUE A PRESCRIÇÃO DA PRETENSÃO À REPARAÇÃO PELOS DANOS CAUSADOS POR FATO DO PRODUTO OU DO SERVIÇO OCORRE EM 05 ANOS, INICIANDO-SE A CONTAGEM DO PRAZO A PARTIR DO CONHECIMENTO DO DANO E DE SUAAUTORIA.
+3. CONSIDERANDO QUE A PARTE AUTORA SOMENTE TEVE ACESSO AOS EXTRATOS DO PASEP (DATA DO CONHECIMENTO DA LESÃO) EM 06/11/2019, E QUE A PRESENTE DEMANDA FOI PROPOSTA EM 28/11/2019, NÃO HÁ QUE SE FALAR EM PRESCRIÇÃO DA PRETENSÃO AUTORAL.. PRELIMINARES REJEITADAS.
+4. IMPOSSIBILIDADE DE APLICAÇÃO DA TEORIA DA CAUSA MADURA, UMA VEZ QUE A AÇÃO DE ORIGEM FOI PREMATURAMENTE EXTINTA SEM ANGULARIZAÇÃO PROCESSUAL.
+5. APELAÇÃO CONHECIDA E PARCIALMENTE PROVIDA.
+SENTENÇA CASSADA. RETORNO DOS AUTOS À ORIGEM PARA O REGULAR PROSSEGUIMENTO DO FEITO.
+O recorrente alega violação dos artigos 1º do DL n.20.910/1932, 4º-A da LC n. 26/1975, 7º e 10 do Decreto n. 4.751/2003 e 17 e 485, VI, do CPC/2015 e dissídio jurisprudencial, ao argumento de que o recorrente não possui legitimidade passiva para responder pela ineficiência e ingerência no que tange à administração do programa PASEP e à devida aplicação dos rendimentos devidos, pois é mero agente operador de normas previamente definidas pela União, através do Conselho Diretor do Fundo PIS/PASEP, sendo imprescindível, a inclusão da União para responder à pretensão da parte recorrida.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 159-161.
+É o relatório. Passo a decidir.
+No que diz respeito aoart.1º do DL n. 20.910/1932, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão pelo afastamento da prescrição, conforme o seguinte excerto (fl. 40):
+"Considerando que a parte autora somente teveacesso aos extratos do pasep (data do conhecimento da lesão) em 06/11/2019, e que a presente demanda foi proposta em 28/11/2019, não há que se falar em prescrição da pretensão autoral"
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incideà hipótese a Súmula 7/STJ.
+Acerca da controvérsia, o Tribunal de origem assim se manifestou (fl. 39):
+O Banco do Brasil possui legitimidade para figurar no polo passivo de ação em que se postula indenização por danos morais e materiais decorrentes de saques/desfalques/descontos indevidos realizados em conta vinculada ao PASEP, oriundos de saques indevidos, especialmente pela atribuição que possui de processar as solicitações de saque, nos termos do decreto n. 9.978/2019".
+Com efeito, de acordo com a orientação jurisprudencial predominante na Primeira Seção desta Corte, consubstanciada na Súmula 42/STJ, compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal), razão pela qual resta evidenciada sua legitimidade para constar no polo passivo da demanda.
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. PASEP. SAQUES INDEVIDOS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. BANCO DO BRASIL. INSTITUIÇÃO GESTORA. SOCIEDADE DE ECONOMIA MISTA. SÚMULA 42/STJ. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 12a. VARA CÍVEL DE RECIFE -PE.
+1. A Primeira Seção desta Corte tem entendimento predominante de que compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal).
+2. Incide, à espécie, a Súmula 42/STJ: Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento.
+3. Conflito de Competência conhecido para declarar competente o Juízo de Direito da 12a. Vara Cível de Recife -PE (CC 161.590/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 13/2/2019, DJe 20/2/2019.)
+CONFLITO DE COMPETÊNCIA. ALVARÁ JUDICIAL. LEVANTAMENTO DO SALDO DA CONTA VINCULADA DO PASEP. JURISDIÇÃO VOLUNTÁRIA. GESTÃO DO FUNDO PELO BANCO DO BRASIL. SOCIEDADE DE ECONOMIA MISTA. APLICAÇÃO DA SÚMULA N.º 42 DO STJ.
+1. A expedição de alvará judicial requerido pelo próprio titular da conta, objetivando a liberação de depósitos de PASEP, é simples procedimento de jurisdição voluntária, inexistindo qualquer litígio posto em juízo.
+2. Ainda que assim não seja entendido, não é possível olvidar, no caso, o teor do enunciado da Súmula n.º 42 do STJ, ao proclamar que compete a Justiça Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista.
+3. Conflito conhecido e declarada competência do Juízo de Direito da 1.ª Vara Cível da Comarca de Franca/SP (CC 34.778/SP, Rel. Ministra Laurita Vaz, Primeira Seção, DJe de 18/11/2002.)
+Em sentido similar, confira-se a seguinte decisão monocrática: REsp 1.852.193/PE, Rel. Ministro SÉRGIO KUKINA, DJe de 5/2/2020 e REsp 1.869.872/CE, Rel. Ministro HERMAN BENJAMIN, DJe de 30/4/2020.
+Ante o exposto, conheço em parte do recurso especial e, nesta extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS. PASEP. PRESCRIÇÃO. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.BANCO DO BRASIL. LEGITIMIDADE PASSIVA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
