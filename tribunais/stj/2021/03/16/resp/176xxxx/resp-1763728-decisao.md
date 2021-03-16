@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBA, fundado na alínea "a" do permissivo constitucional, contra acórdão assim ementado:
+MANDADO DE SEGURANÇA. TRIBUTÁRIO. CERTIDÃO DE DÍVIDA ATIVA APONTANDO COMO CO-RESPONSÁVEL SÓCIO DA EMPRESA. IMPETRANTE PESSOA FÍSICA QUE NÃO COMPUNHA O QUADRO SOCIETÁRIO DA EMPRESA À ÉPOCA DA CONSTITUIÇÃO DO CRÉDITO TRIBUTÁRIO.IMPOSSIBILIDADE DE ATINGIMENTO DE SEUS BENS PESSOAIS.DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA INAPLICÁVEL NA HIPÓTESE. RETIFICAÇÃO DA CERTIDÃO DE DÍVIDA ATIVA NECESSÁRIA. CONCESSÃO DA ORDEM.
+- O redirecionamento para atingimento dos bens pessoais do sócio da empresa não pode alcançar os créditos tributários cujos fatos geradores são anteriores ao ingresso da pessoa física na sociedade.
+- Os artigos 134 e 135 do CTN estabelece que são pessoalmente responsáveis pelos créditos correspondentes a obrigações tributárias resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos, entre outros, os sócios da empresa.
+- Se o Impetrante não detinha a condição de sócio à época da constituição do crédito tributário, não há que se cogitar de atos praticados com excesso de poderes ou infração de lei, de modo a justificar o redirecionamento da execução aos seus bens pessoais.
+Os embargos de declaração foram rejeitados.
+O recorrente, apontando violação doart. 1.022 do CPC e do art. 133, I, do CTN, sustenta que: (a) o acórdão recorrido é nulo, por negativa de prestação jurisdicional, visto que não foram examinados os dispositivos legais suscitados nos embargos de declaração; (b)o recorrido é responsável tributário, por sucessão empresarial, visto que teria adquirido a pessoa jurídica devedora.
+Sem contrarrazões.
+O Tribunal admitiu o apelo raro, determinando a subida dos autos.
+Parecer do Ministério Público Federal pelo desprovimento do recurso especial.
+Passo a decidir.
+Na origem, cuida de mandado de segurança impetrado por LUCIVALDO ROBSON GOMES MAGALHÃES, em que impugnou a inscrição de seu nome na dívida ativacomo corresponsável de débitos da pessoa jurídica referentes a débitos anteriores ao seu ingresso no quadro societário.
+O TJ/PB concedeu a ordem, com a seguinte motivação:
+O Impetrante objetiva a anulação da Certidão de Dívida Ativa de nº 7300004220170027 por ter constado como co-responsável, juntamente com a empresa CASA DO MARCENEIRO JP COMÉRCIO DE MATERIAL DE CONSTRUÇÃO - EIRELI (Id 1437613), sob o argumento de que a CDA refere-se a crédito tributário constituído por auto de infração Nº 93300008.09.00000417/2010-90, o qual foi lavrado em 16/08/2010, quando ainda não integrava a sociedade.
+O cerne da controvérsia reside, portanto, na inclusão do sócio, ora Impetrante, na CDA na qualidade de co-responsável tributário.
+O artigo 135 do CTN permite a responsabilidade pessoal dos sócios pelo pagamento de obrigação tributária da pessoa jurídica, quando resultantes de atos praticados com excesso de poderes ou infração de lei, contrato social ou estatutos, adotando a teoria da desconsideração da pessoa jurídica, in verbis:
+ ..
+Analisando a prova colacionada aos autos, infere-se que a CDA nº 730000420170027 (Id 1437613 - pág. 03) refere-se a débitos ocorridos entre maio de 2005 e dezembro de 2008, os quais foram objeto do processo administrativo nº 0947062010-0, de 03 de setembro de 2010.
+Por seu turno, o Auto de Infração que deu origem a referida CDA foi lançado em 01/09/2010 (Id 1437613 - pág. 04).
+Ou seja, o crédito se refere a período anterior ao ingresso do Impetrante Lucivaldo Robson Gomes Magalhães na sociedade, uma vez que a aquisição das cotas sociais da empresa Cleumy Indústria e Comércio de Madeiras Ltda. pelo Autor se deu apenas em 13/09/2012 (Id 1437617 - pág. 15/17), circunstância não analisada na Decisão do Recurso Fiscal proferida pela Gerente Operacional da Procuradoria da Fazenda.
+Desse modo, considerando que o crédito se refere a período anterior ao ingresso do Impetrante Lucivaldo Robson Gomes Magalhães na sociedade não há como se alegar que tenha agido com (art. 135, CTN), de modo a excesso de poderes ou infração de lei, contrato social ou estatutos permitir o redirecionamento da execução a seus bens pessoais.
+Por outro lado, não prospera a alegação do Estado da Paraíba (Id 1587248), no sentido de incidência ao caso do artigo 133 do CTN, segundo o qual:
+ ..
+O artigo 133, inciso I, se aplica aos casos de sucessão de atividade empresarial por aquisição de fundo de comércio ou estabelecimento comercial, quando uma pessoa jurídica ou natural adquire o estabelecimento comercial, cessando o alienante a exploração do comércio, indústria ou atividade.
+No caso concreto, o Impetrante adquiriu cotas sociais da empresa Cleumy Indústria e Comércio de Madeiras Ltda no ano de 2012, pertencentes a sócia minoritária Kristiany Quitéria Mourato Almeida da Gama, sendo incluído na referida sociedade comercial, que em nenhum momento deixou de existir (Id 1437617 - pág. 15).
+Posteriormente, em 07/03/2013, com a alteração contratual de nº 07, a empresa Cleumy Indústria e Comércio de Madeiras Ltda mudou a sua denominação social para CASA DO MARCENEIRO JP LTDA, a qual assumiu o ativo e passivo da denominação anterior (id 1437617 - pág.
+21).
+Desse modo, a pessoa jurídica de CNPJ nº 06.021.985/0001-18, efetivamente, nunca deixou de existir, não havendo uma empresa ou pessoa natural que a tenha sucedido, apenas ocorrendo a inclusão e retirada de sócios e posterior alteração de sua denominação para CASA DO MARCENEIRO JP LTDA.
+Inclusive, nesta data, o Impetrante Lucivaldo Robson Gomes Magalhães retirou-se da sociedade, transferindo suas cotas do capital social no valor de R$3.700,00 (três mil e setecentos reais) ao sócio Lander de Oliveira Silva (Cláusula terceira), não compondo atualmente o quadro societário (Id 1437617 - pág. 21).
+Ainda que se considerasse aplicável o artigo 133, inciso I, do CTN, sucessora da empresa Cleumy Indústria e Comércio de Madeiras Ltda seria a CASA DO MARCENEIRO JP LTDA, entendimento, no entanto, inaplicável, pois como visto elas possuem o mesmo CNPJ, sendo efetivamente a mesma empresa, que apenas alterou sua denominação social.
+O fato é que o Impetrante adquiriu cotas sociais da empresa Cleumy Indústria e Comércio de Madeiras Ltda e assim como os sócios originários não pode ser incluído como co-responsável pela dívida da pessoa jurídica, se não agiu com excesso de poderes ou infração de lei (nos exatos termos do que dispõe o art. 135 do CTN), imputações que sequer se pode cogitar, eis que não compunha a sociedade quando foi lançado o Auto de Infração que deu origem a referida CDA em 01/09/2010.
+Por essa razão, tratando-se de crédito cujo fato gerador é anterior ao ingresso do sócio na sociedade empresária, este não pode ser incluído na CDA na condição de co-responsável. Nesse sentido:
+ ..
+Desse modo, declaro a nulidade da CDA, determinando que outra seja confeccionada com a retificação do sujeito passivo da obrigação tributária, a fim de que seja retirado o nome do Impetrante como co-responsável, permanecendo como responsável pela obrigação tributária apenas a empresa CASA DO MARCENEIRO JP LTDA.
+Do que se observa, não há falar em negativa de prestação jurisdicional, visto que a fundamentação consignada no acórdão recorrido é suficientemente clara no sentido de que não é possível responsabilizar o impetrante pelos débitos da pessoa jurídica.
+Para tanto, no que aqui importa,assentou não estar caracterizada a responsabilidade por sucessão empresarial, haja vista queo impetrante não adquiriu a pessoa jurídica, mas cotas de sócia minoritária, e que empresa não deixou de existir, mas apenas continuou suas atividades com nova denominação social.
+Afasto, pois, a alegada infringência ao art. 1.022 do CPC.
+No que tange ao juízo de reforma, o recurso especial não comporta conhecimento.
+Conforme relatado, a tese defendida pela Fazenda Pública recorrente em torno da aplicação do art. 133 do CTN parte depremissa fática não delineada no julgado estadual, qual seja, a de que o impetrante teria adquiridoa pessoa jurídica devedora, sendo certo a que verificação dessa circunstância pressupõe reexame de prova, o que é inviável no âmbito do recurso especial, ante o veto contido na Súmula 7 do STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
