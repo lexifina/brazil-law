@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ÁLVARO JABUR MALUF JÚNIOR em face da decisão que indeferiu liminarmente os embargos de divergência em razão da incidência da Súmula 315/STJ.
+Em suas razões sustenta, quanto ao pedido feito às fls. 1.174/1.180; que o instituto do "Acordo de não persecução penal" é cabível em qualquer momento, desde que antes do trânsito em julgado.
+Alega que o pedido não integra as razões recursais dos embargos de divergência. E requer alfim o acolhimento dos presentes embargos de declaração a fim de que sejam sanadas as omissões apontadas e seja o presente feito convertido em diligência, encaminhando os autos ao MP.
+É, no essencial, o relatório. Decido.
+Os embargos declaratórios não reúnem condições de serem processados.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme fixado no decisum ora embargado, o pedido atravessado às fls. 1.174/1.180 padece de amparo legal para ser considerado por esta Corte nesta fase recursal e de forma avulsa; devendo ser formulado perante o juízo originário.
+Neste sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.
+TRÁFICO DE DROGAS. ALEGADA NULIDADE POR AUSÊNCIA DE ENVIO DOS AUTOS AO PARQUET PARA OFERTA DE ACORDO DE NÃO PERSECUÇÃO PENAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. INEXISTÊNCIA DE NULIDADE. NÃO PREENCHIMENTO DOS REQUISITOS AUTORIZADORES. DELITO COM PENA MÍNIMA SUPERIOR A QUATRO ANOS DE RECLUSÃO. NORMA DE CUNHO PROCESSUAL. TEMPUS REGIT ACTUM. PRECEDENTES. INVIABILIDADE DE PROPOSTA DE ANPP APÓS O RECEBIMENTO DA DENÚNCIA. DOSIMETRIA. AUMENTO DA FRAÇÃO DE REDUÇÃO PELO TRÁFICO PRIVILEGIADO. INVIABILIDADE. EXPRESSIVA QUANTIDADE E NATUREZA DO ENTORPECENTE APREENDIDO. PRECEDENTES.
+ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE.
+EXPRESSA PREVISÃO LEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+- A ausência de remessa dos autos ao Parquet para oferecimento de acordo de não persecução penal não foi submetida à apreciação e, tampouco analisada pela Corte paulista, tratando-se, portanto, de matéria nova, somente ventilada neste mandamus, não sendo possível sua análise diretamente por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+- Não obstante isso, verifica-se, de plano, o não preenchimento de um dos requisitos exigidos para a propositura do acordo, porquanto apesar de o delito de tráfico de drogas ser daqueles cometidos sem violência ou grava ameaça à pessoa, ele conta com uma pena mínima de 5 anos de reclusão.
+- Ademais, não é possível a aplicação do acordo de não persecução penal previsto no art. 28-A do Código de Processo Penal após o recebimento da denúncia, em respeito ao princípio do tempus regit actum, consignado no art. 2º do Código de Processo Penal. Desse modo, apesar de o acórdão de apelação que confirmou a condenação do paciente, haver sido proferido em 20/3/2019, quando já estava em vigor a Lei n. 13.964/2019 (23/1/2020), a denúncia contra ele já havia sido recebida, tanto é assim, que houve sentença condenatória exarada em 20/11/2018. Precedentes.
+- A legislação brasileira não prevê um percentual fixo para o aumento da pena-base em razão do reconhecimento das circunstâncias judiciais desfavoráveis, tampouco em razão de circunstância agravante ou atenuante, cabendo ao julgador, dentro do seu livre convencimento motivado, sopesar as circunstâncias do caso concreto e quantificar a pena, observados os princípios da proporcionalidade e da razoabilidade.
+- A expressiva quantidade e natureza especialmente deletéria do entorpecente apreendido - 980 gramas de cocaína -, justificam a fração de redução no piso legal de 1/6, nos termos do art. 42, da Lei n. 11.343/2006, haja vista que, na ausência de indicação pelo legislador das balizas para o quantum da redução aludida, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice. Precedentes.
+- Inalterado o montante da sanção (4 anos e 2 meses de reclusão), ficam mantidos o regime inicial semiaberto e a negativa de substituição da pena privativa de liberdade por medidas restritivas de direitos por imperativo legal, nos termos do art. 33, § 2º, "b", e do art. 44, I, ambos do Código Penal.
+- Agravo regimental não provido.
+(AgRg no HC 593.412/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO.
+RECEPTAÇÃO. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A DO CPP.
+IRRETROATIVIDADE DA LEI PROCESSUAL PENAL MAIS BENÉFICA. PRECLUSÃO DA FASE INSTRUTÓRIA. RÉU JÁ CONDENADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - Descabida a aplicação retroativa do acordo de não persecução penal, inserido pela Lei n. 13.964/2019, quando a persecução penal já ocorreu, com o feito sentenciado e condenação mantida pelo Tribunal de origem. Precedentes.
+Agravo regimental desprovido.
+(AgRg no HC 629.225/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. APLICAÇÃO RETROATIVA DO ART. 28-A DA LEI Nº 13.964/2019.
+ACORDO DE NÃO PERSECUÇÃO PENAL. RÉU CONDENADO. IMPOSSIBILIDADE. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA UTILIZADA PARA MODULAR A FRAÇÃO DE REDUÇÃO. POSSIBILIDADE. REGIME PRISIONAL. QUANTIA E ESPÉCIE DO ENTORPECENTE. MODO SEMIABERTO. ADEQUADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITO. FALTA DE PREENCHIMENTO DE REQUISITO SUBJETIVO. AGRAVO DESPROVIDO.
+1. No que tange à aplicação retroativa do Acordo de Não Persecução Penal (ANPP), introduzido no nosso ordenamento jurídico pela Lei n.
+13.964/2019 (art. 28-A e seguintes do Código de Processo Penal), mostra-se incompatível com o propósito do referido instituto quando recebida a denúncia e já encerrada a prestação jurisdicional na instância ordinária, com a condenação do acusado, como no presente caso.
+(..)
+(AgRg no HC 626.687/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/02/2021, DJe 17/02/2021)
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
