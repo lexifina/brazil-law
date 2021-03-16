@@ -1,0 +1,23 @@
+DECISÃO
+GEOVA LIMA DA SILVA agrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão na Apelação n.0001097-86.2018.8.10.0022.
+Depreende-se dos autos que o réu foi condenado a 5 anos de reclusão, em regime semiaberto, mais 68 dias-multa,pela prática do crime previsto no art. 157, caput, do CP.
+O Tribunal de origem negou provimento à apelação defensiva.
+Nas razões do especial, alegou a defesa que o acórdão recorrido violou o art. 61, I, do CP, ao argumento de que foi aplicada fração de aumento mais gravosa que 1/6 em decorrência da configuração da reincidência, sem que fosse apresentada fundamentação idônea para essa finalidade.
+Requereu fosse limitado à fração de 1/6 o aumento referente àreferida agravante.
+Não admitido o especial na origem e interposto o recurso de agravo, o Ministério Público Federal opinou pelo seu provimento.
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada.
+A sentença foi proferida nestes termos:
+Atendendo as diretrizes legais consubstanciadas no artigo 59, do Código Penal, passo a dosar a pena: culpabilidade normal à espécie, antecedentes imaculados, conduta social não investigada, não se colheu elementos suficientes para a análise da personalidade do réu, portanto, não se poderá valorá-la negativamente, motivos, comuns à espécie criminosa; circunstâncias normais; consequências do crime inerentes ao próprio delito, quanto ao comportamento da vítima, embora em nada tenha contribuído para a prática delitiva, não poderá ser considerado em desfavor do réu. À vista dessas circunstâncias fixo as penas-base em 04 (quatro) anos de reclusão e ao pagamento de 10 (dez) dias-multa, ao valor unitário de 1/30 (um trinta avos) do salário-mínimo da época do fato para o crime de roubo.
+Não há atenuantes. O réu é reincidente, conforme comprovado no processo de Execução Penal n, 0041520-34.2018.810.0525; é necessário agravar-lhe a pena nesta fase, elevando a reprimenda ao patamar de 05 (cinco) anos de reclusão e 68 (sessenta e oito) dias -multa, que torno definitiva à míngua de causas de diminuição ou causas de aumento.
+(fl. 83, grifei)
+O acórdão recorrido asseriu o seguinte:
+Por fim, quanto ao pedido de aplicação da agravante da reincidência no patamar de 1/6 (um sexto), eis que pelo Magistrado majorado a reprimenda na fração de 01 (um) ano, tenho que imerecedor de melhor sorte, na medida em que não existente imperativo legal que obrigue o Magistrado a aplicar as agravantes na fração pugnada, uma vez que o julgador, com base em umaanálise casuística de cada caso, pode aplicar a fração que mais se adéqua à hipótese analisada.
+Assim, não obstante a maioria dos magistrados aplicarem na segunda fase o patamar de 1/6 (um sexto), não torna obrigatória a adoção da suscitada quantia pelos demais, razão pela qual hei por bem manter o quantum aplicado pelo Juízo a quo, eis que não vislumbrado erro ou ilegalidade.
+(fls. 175-176, destaquei)
+Sobre o tema, cumpre salientar que o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não tenha mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a reprimenda, sem, contudo, fazer nenhuma menção ao quantum de redução.
+A doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade, desde que apresente motivação idônea para impor aumento mais gravoso que 1/6.
+No entanto, as instâncias ordinárias não se referirama nenhuma circunstância que esta Corte Superior considereidônea para justificaraumento mais severo que 1/6, como a múltiplareiteração delitiva, razão por que passo a refazer a dosimetria.
+A pena-base foi fixada em 4 anos de reclusão mais 10 dias-multa. Na segunda fase, limito a 1/6 a fração de aumento relativa à atenuante reincidência, o que resulta reprimenda intermediária de 4 anos e 8 meses de reclusão mais 11dias-multa, que coincide com a final, à míngua de minorantes e majorantes.
+Diante do exposto, conheço do agravo para dar provimento ao recurso especial, com o intuito de diminuir a pena para4 anos e 8 meses de reclusão mais 11 dias-multa, mantidos os demais termos do acórdão recorrido.
+Publique-se e intimem-se.
