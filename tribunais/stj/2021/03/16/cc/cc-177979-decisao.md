@@ -1,0 +1,18 @@
+DECISÃO
+Vistos, etc.
+Trata-se de conflito negativo de competência suscitado pelo Tribunal de Justiça do Estado do Paraná, em relação ao Tribunal Regional Federal da 4ª Região, nos domínios de ação proposta contra o Instituto Nacional do Seguro Social - INSS, mediante a qual pretende a parte autoraa concessãode aposentadoria por invalidez, com pedidos sucessivos de auxílio-doença ou auxílio-acidente decorrente de acidente de trabalho.
+De acordo com o Juízo suscitado (e-STJ, fl. 480):
+O processamento e o julgamento de ações que decorrem de acidente do trabalho não competem à Justiça Federal, mesmo que uma pessoa jurídica de direito público federal, no caso, o Instituto Nacional do Seguro Social, ocupe um dos polos da relação processual (artigo 109, inciso I, da Constituição Federal e Súmulas 501 do STF e 15 do STJ).
+Do ponto de vista do Juízo suscitante, entretanto (e-STJ, fl. 547):
+ ..  ainda que eventualmente entenda se tratar de questão acidentária, a solução jamais poderá ser o mero encaminhamento dos autos, em fase recursal, para a Justiça Estadual, uma vez que não cabe ao Tribunal de Justiça analisar o mérito, ou declarar a nulidade da sentença proferida pelo juízo da Vara de Competência delegada.
+Parecer do Ministério Público Federal pela competência do Juízo Estadual, com anulação do ato decisório proferido pelo juízo incompetente(e-STJ, fls. 570-573).
+É o relatório.
+Registro, inicialmente, que, segundo se infere dos autos, a postulação deduzida pela parte autora diz respeitoà concessão de aposentadoria por invalidez, ou sucessivamente, de auxílio-doença ou auxílio-acidente,referindo a acidente laboral.
+A definição da competência em razão da matéria é feita, a partir da petição inicial, pela aferição da natureza jurídica da demanda contida no pedido e na causa de pedir. Esse é o entendimento pacificado pelo Superior Tribunal de Justiça, conforme se observa no seguinte precedente:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. COMPETÊNCIA DA JUSTIÇA ESTADUAL PARA O PROCESSAMENTO E JULGAMENTO DAS DEMANDAS QUE VERSEM SOBRE CONCESSÃO E REVISÃO DE BENEFÍCIO DECORRENTE DE ACIDENTE LABORAL. SÚMULAS 15/STJ E 501/STF. COMPETÊNCIA FIXADA DE ACORDO COM O PEDIDO EXPRESSO NA PETIÇÃO INICIAL. AGRAVO REGIMENTAL DO MINISTÉRIO PÚBLICO FEDERAL A QUE SE NEGA PROVIMENTO.
+1. A Justiça Estadual é competente para processar e julgar ação relativa a acidente de trabalho, estando abrangida nesse contexto tanto a lide que tem por objeto a concessão de benefício decorrente de acidente de trabalho, como também as relações daí decorrentes (restabelecimento, reajuste, cumulação),uma vez que o art. 109, I da CF não fez qualquer ressalva a este respeito. Súmulas 15/STJ e 501/STF.
+2. O teor da petição inicial é elemento essencial ao deslinde do conflito, uma vez que a definição de competência decorre da verificação da causa de pedir e do pedido apresentados na inicial.  ..  (AgRg no CC 141.868/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017.)
+No caso, o pleito formulado na inicial mencionacausa acidentária e a sentença foi proferida por vara com competência delegada, razão de o Tribunal Estadual ter suscitado o conflito.
+Assim, nos termos do art. 957 do CPC/2015, reconhecida a incompetência do juízo prolator dos atos decisórios, cabe decretar-lhes a nulidade e indicar o juízo competência para dirimir a controvérsia.
+Ante o exposto, com fulcro nos arts. 66, II, e 955, parágrafo único, I, do CPC, conheço do conflito e declaro competente o Juízo de Direito da Vara de Santo Antônio da Platina - PR, anulando a sentença de mérito proferida pela vara de competência delegada daquela comarca.
+Publique-se. Intimem-se.
