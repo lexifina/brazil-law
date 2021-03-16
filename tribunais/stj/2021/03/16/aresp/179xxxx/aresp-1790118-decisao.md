@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO INTERNO EM RECURSO DE APELAÇÃO. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. - Ao contrário do defendido em sede de agravo interno, não houve cancelamento, nem superação da orientação estabelecida no Enunciado n. 541 da Súmula do Superior Tribunal de Justiça, que estabelece ser suficiente, para a aferição da prévia pactuação da capitalização mensal dos juros, a estipulação de taxa anual superior ao duodécuplo da taxa anual. -Incidência da multa prevista no art. 1.021, § 4 2 , do CPC. AGRAVO DESPROVIDO.
+Alegou-se, no especial, violação dos artigos 1.024, § 4º, do Código de Processo Civil, 6º, 47, 46 e 52, I a III, doCódigo de Defesa do Consumidor e28, §1º,I, da Lei 10.931/04, sob o argumento de que foi indevida a multa aplicada no agravo interno eque a capitalização de juros em qualquer periodicidade depende de pactuação expressa.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à capitalização dos juros, esta Corte tem entendimento no sentido de que, nos contratos firmados após a Medida Provisória 1.963-17/00, a estipulação da taxa de juros anual superior ao duodécuplo da mensal admite a cobrança daquela, como ensinam os verbetes n. 539 e 541 da Súmula desta Corte.
+No caso dos autos, o Tribunal local adotou expressamente o último enunciado mencionado.
+Quanto à multa prevista no artigo 1.021, § 4º, do Código de Processo Civil, bem verdade que simples inadmissão ou não provimento do recurso não autoriza a sua incidência, senão quando a inadmissibilidade ou improcedência das razões do recurso forem manifestas.
+No caso dos autos, já na decisão do relator houve fundamentação em torno do enunciado n. 541 da Súmula desta Corte, voltando a parte, no agravo interno, contra entendimento sumulado do Superior Tribunal de Justiça, sob a equivocada alegação de que estaria ele superado, razão pela qual era mesmo manifesta a improcedência das razões formuladas no agravo interno, a justificar a multa em questão.
+A propósito:
+AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL.CPC/2015. INCORPORAÇÃO IMOBILIÁRIA. ATRASO NA ENTREGA DOS IMÓVEIS.RESTITUIÇÃO INTEGRAL DAS PARCELAS. NECESSIDADE. ENTENDIMENTO FIRMADO NA SÚMULA 543/STJ. LUCROS CESSANTES. DANO PRESUMIDO. JURISPRUDÊNCIA PACÍFICA DESTA CORTE. AGRAVO MANIFESTAMENTE IMPROCEDENTE. APLICAÇÃO DE MULTA.
+1. Controvérsia acerca da resolução de promessa de compra e venda de unidade imobiliária na hipótese de atraso na entrega da obra.
+2. Nos termos da Súmula 543/STJ: "Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor  .. ".
+3. Caso concreto em que a culpa da incorporadora foi reconhecida pelo Tribunal de origem, sendo devida, portanto, a restituição integral das parcelas pagas, nos termos da Súmula 543/STJ.
+4. Presunção de lucros cessantes na hipótese de atraso na entrega do imóvel, sendo cabível a condenação ao pagamento dessa parcela indenizatória ainda que o contrato venha a ser resolvido por culpa da construtora/incorporadora. Jurisprudência pacífica desta Corte Superior.
+5. Manifesta improcedência do presente agravo interno, tendo em vista a dedução de alegações contrárias a entendimentos sumulado e pacificado desta Corte, sendo de rigor a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
+6. AGRAVO INTERNO DESPROVIDO, COM APLICAÇÃO DE MULTA.
+(AgInt no REsp 1833110/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
