@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por SHIRLEY RIBEIRO MARQUES contra acórdão prolatado, por unanimidade, pela Vigésima Oitava Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo, em sede de agravo de instrumento, assim ementado (e-STJ fl. 218):
+CUMPRIMENTO DE SENTENÇA. PENHORA DE PERCENTUAL DE SALÁRIO. Impossibilidade. Hipótese dos autos que não admite a penhora sobre os rendimentos percebidos pela Coexecutada, diante de vedação legal expressa. Inteligência do art. 833, IV do Código de Processo Civil. Precedentes do C. Superior Tribunal de Justiça. RECURSO DA EXEQUENTE NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+No recurso especial (e-STJ fls. 224/246), fundado no artigo 105, III, "c", da Constituição Federal, a parte recorrente aponta divergência jurisprudencial, bem como aduz que " ..  aventou a possibilidade de mitigação ao caráter absoluto da impenhorabilidade do salário, para adimplemento de obrigações de natureza não alimentar  .. " (e-STJ fl. 236).
+Alega que o " ..  devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei  .. " (e-STJ fl. 237).
+Afirma, ainda, que " ..  sugeriu a penhora do percentual de 25%, considerando os vultosos rendimentos da Recorrida, porém, é possível que esse valor seja diminuído ou aumentado, de acordo com a possibilidade x razoabilidade, sempre buscando um equilíbrio entre a dignidade da devedora e a efetividade da execução do credor  .. " (e-STJ fl. 241).
+Sem contrarrazões (e-STJ fl. 319).
+O recurso especial foi admitido na origem (e-STJ fls. 320/322).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à recorrente.
+De início, o recurso especial não pode ser conhecido com fundamento na alínea "c" do inciso III do artigo 105 da Constituição Federal, pois a parte recorrente deixou de indicar os dispositivos legais que teriam sido interpretados de forma divergente pelos acórdãos confrontados, o que caracteriza deficiência na fundamentação do recurso e atrai, por analogia, a incidência da orientação contida na Súmula n. 284 do Supremo Tribunal Federal, segundo a qual "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, destaco precedente da Corte Especial deste Tribunal Superior:
+ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+ ..
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido.
+(AgRg no REsp n. 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, julgado em 18/12/2013, DJe 17/3/2014 - sem destaques no original).
+Em face do exposto, nego provimento ao recurso especial e, ainda, deixo de majorar os honorários nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, visto que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve fixação de honorários.
+Intimem-se.
