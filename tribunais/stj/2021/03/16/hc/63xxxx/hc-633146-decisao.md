@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIS GUSTAVO CUSTÓDIO DE BRITO em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Mato Grosso do Sul (Habeas Corpus Criminal n. 1415150-31.2020.8.12.0000).
+Em primeiro grau, o paciente foi condenado às penas de 7 anos de reclusão em regime inicial fechado e de 700 dias-multa, pela prática do crime descrito no art. 33, caput, c/c o art. 40, V, ambos da Lei n. 11.343/2006. Foi-lhe indeferido o direito de recorrer em liberdade, pois, durante toda a instrução, esteve preso cautelarmente. Impetrado writ originário, a ordem foi denegada.
+A defesa sustenta que estão presentes todos os requisitos autorizadores para que o paciente responda ao processo em liberdade, destacando suas condições favoráveis.
+Requer assim, liminarmente e no mérito, a concessão da liberdade provisória ao paciente, com a imposição de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido (fls. 74-75).
+As informações foram prestadas às fls. 81-84 e 95-102.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 104-110).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 70-71):
+Extrai-se dos autos que o paciente foi condenado pela prática do delito de tráfico de drogas, pois estaria transportando, para fins de tráfico, no interior do veículo Renault/Logan, placas FVE-0708, de São Paulo/SP, 05 (cinco) fardos de maconha, os quais totalizaram 115 Kg (cento e quinze quilos).
+Neste passo, materializados estão os pressupostos embasadores da segregação, atraindo a presença do fumus commissi delicti.
+Já o periculum libertatis está fundado na necessidade de se ver garantida a ordem pública.
+E, com a sentença condenatória, os requisitos prisionais sedimentam-se, haja vista a gravidade concreta do delito, de modo que, em sede de cognição sumária, necessária a prisão preventiva, ante à inalterabilidade do exposto.
+O Judiciário deve atentar-se às agressões impingidas à sociedade, de maneira a não privilegiar interesse individual quando a coletividade é posta em risco, afastando-se, com isto, a espúria sensação de impunidade.
+Assim, observo que a manutenção da prisão do paciente foi lastreada em elementos concretos, os quais se confortam ao texto do artigo 312, do Código de Processo Penal, soterrando, assim, quaisquer argumentos de ilegalidade. Segundo se extrai o paciente estaria praticando o delito de tráfico de drogas, cujo entorpecente seria levado até São Paulo.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No presente caso, a quantidade do entorpecente apreendido (115kg de maconha) foi considerada pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a juris prudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorp ecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+Por fim, mantidas as circunstâncias que justificaram a decretação da prisão preventiva do paciente, que ficou preso durante toda a instrução processual, não há ilegalidade na sentença condenatória por não lhe conceder o direito de recorrer em liberdade (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e AgRg no HC n. 568.997/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 27/5/2020).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
