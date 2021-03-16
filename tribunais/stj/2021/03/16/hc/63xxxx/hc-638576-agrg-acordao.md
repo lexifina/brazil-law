@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO MANIFESTAMENTE DESPROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a quantidade e a diversidade de drogas apreendidas constituam, de fato, circunstâncias preponderantes a serem consideradas na dosimetria da pena e não obstante tenham sido apreendidos dois tipos de substâncias em poder do réu, a quantidade de drogas não foi excessivamente elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, tais circunstâncias para justificar a exasperação da pena-base.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL interpõe agravo regimental contra decisão de minha relatoria, em que concedi a ordem de habeas corpus, a fim de reduzir em parte a pena-base imposta ao réu e, por conseguinte, diminuir a sua reprimenda para 6 anos de reclusão, nos autos do processo em que foi condenado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+O agravante aduz, inicialmente, que "o habeas corpus somente se revela como via adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e se houver flagrante ilegalidade, o que não é o caso dos autos" (fl. 96).
+Afirma, na sequência, que "não há como conceber que 17 porções de cocaína, 25 porções de crack, entorpecentes de alta nocividade, e 14 porções de maconha, seja quantidade irrisória e irrelevante de drogas" (fl. 99).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja restabelecida a pena-base imposta ao réu pelas instâncias ordinárias.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE. AUMENTO MANIFESTAMENTE DESPROPORCIONAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Embora a quantidade e a diversidade de drogas apreendidas constituam, de fato, circunstâncias preponderantes a serem consideradas na dosimetria da pena e não obstante tenham sido apreendidos dois tipos de substâncias em poder do réu, a quantidade de drogas não foi excessivamente elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, tais circunstâncias para justificar a exasperação da pena-base.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos despendidos pelo agravante, entendo que não lhe assiste razão.
+O Juiz sentenciante, por ocasião da primeira fase da dosimetria, salientou "a grande quantidade e variedade de drogas apreendidas (42 porções com peso líquido de 31,8 g de cocaína e 14 porções com peso líquido de 9,24 g de maconha)" (fl. 19) e, por tal razão, exasperou a pena-base do réu.
+A Corte estadual, por sua vez, manteve a conclusão de que a pena-base deveria ser estabelecida acima do mínimo legalmente previsto, ocasião em que afirmou: " a s circunstâncias judiciais desfavoráveis, realçados as expressivas quantidades e a diversidade das drogas apreendidas e os maus antecedentes certificados três autorizam a exasperação levada a efeito na fase inicial do cálculo dosimétrico" (fl. 25).
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, conforme bem salientou o decisum recorrido, embora a quantidade e a diversidade de drogas apreendidas constituam, de fato, circunstâncias preponderantes a serem consideradas na dosimetria da pena e não obstante tenham sido apreendidos dois tipos de substâncias em poder do réu, a quantidade de drogas - 31,8 gramas de cocaína e 9,24 gramas de maconha - não foi excessivamente elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, tais circunstâncias para justificar a exasperação da pena-base.
+Considero, na verdade, que a apreensão de certa quantidade de drogas, em contexto como o dos autos, é inerente ao próprio crime previsto no art. 33, caput, da Lei n. 11.343/2006, até porque, em regra, o delito em questão exige, para fins de comprovação da sua materialidade, a apreensão de droga e a realização de laudo toxicológico definitivo, conforme entendimento, aliás, externado pela Terceira Seção desta Corte por ocasião do julgamento dos EREsp n. 1.544.057/RJ (Rel. Ministro Reynaldo Soares da Fonseca, DJe 9/11/2016).
+Diante de tais considerações, entendo irretocável a conclusão do decisum ora agravado de que deveria ser concedido o habeas corpus, a fim de afastar a desfavorabilidade dessas duas circunstâncias e, por conseguinte, reduzir a pena-base imposta ao acusado.
+À vista do exposto, nego provimento ao agravo regimental.
