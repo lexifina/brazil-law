@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PROVA PERICIAL. EXCEPCIONALIDADE NÃO DEMONSTRADA. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento da qualificadora do rompimento de obstáculo exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Na hipótese, é incontroverso que não foi realizado exame pericial para atestar o rompimento do obstáculo. Ademais, os motivos apresentados pelas instâncias antecedentes não demonstraram nenhuma excepcionalidade que justificasse a sua ausência, haja vista que suposta demora ou impedimento para a realização do exame nem sequer foram comprovados.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DE ALAGOAS agrava da decisão de fls. 284-288, na qual conheci do agravo para dar provimento ao recurso especial, a fim de afastar a qualificadora do rompimento de obstáculo.
+Nas razões deste regimental, o Parquet sustenta que "a falta de laudo pericial no local do delito não impede o reconhecimento da qualificadora do rompimento de obstáculo quando realizada perícia indireta que comprova o modus operandi da ação" (fls. 298-299). Assevera que, no caso, "as instâncias ordinárias apresentaram fundamento válido para afastar a prova pericial em crime que deixa vestígio" (fl. 299).
+Pugna, ao final, pela reconsideração do decisum ou pela submissão do recurso ao colegiado, para que seja restabelecida a incidência da referida qualificadora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. AUSÊNCIA DE PROVA PERICIAL. EXCEPCIONALIDADE NÃO DEMONSTRADA. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento da qualificadora do rompimento de obstáculo exige a realização de exame pericial, o qual somente pode ser substituído por outros meios probatórios quando inexistirem vestígios, o corpo de delito houver desaparecido ou as circunstâncias do crime não permitirem a confecção do laudo.
+2. Na hipótese, é incontroverso que não foi realizado exame pericial para atestar o rompimento do obstáculo. Ademais, os motivos apresentados pelas instâncias antecedentes não demonstraram nenhuma excepcionalidade que justificasse a sua ausência, haja vista que suposta demora ou impedimento para a realização do exame nem sequer foram comprovados.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+A decisão impugnada afastou a qualificadora do rompimento de obstáculo, haja vista a ausência de exame pericial para atestar a sua incidência no caso. Ademais, concluiu que os motivos apresentados pelas instâncias antecedentes para a não confecção do laudo não demonstraram nenhuma excepcionalidade que justificasse a sua ausência. Confira-se (fls. 284-287, grifos meus e no original):
+Consta dos autos que o réu foi condenado, pela prática do delito tipificado no art. 155, § 4º, I, do Código Penal, à pena de 3 anos, 2 meses e 15 dias de reclusão, mais multa.
+Sobre a configuração da qualificadora, ficou registrado na sentença que "é evidente que o réu rompeu obstáculo para se apropriar da res furtiva.  ..  conforme depoimento da vítima, da testemunha e do próprio réu, a trava do guidão se encontrava danificada e os cabos expostos através de ligação direta" (fl. 133).
+O Tribunal estadual manteve a incidência da qualificadora, por entender justificada a não elaboração do laudo pericial, nos seguintes termos (fls. 216-217, grifei):
+Está bem demonstrada nos autos, de acordo com o firme relato trazido pela vítima e testemunha que compareceram na ocorrência, que, para subtrair a motocicleta sem as suas chaves, necessário se faz romper a trava de segurança para poder movimentar a moto.
+A falta de perícia na motocicleta (objeto do furto) não inviabiliza a incidência da qualificadora em questão, até porque, como muito bem colocado na sentença pelo Dr. Filipe Ferreira Munguba, houve a justificativa para sua não realização, in verbis:
+In casu, é evidente que o réu rompeu obstáculo para se apropriar da res furtiva. A prova mais certeira reside no fato de que a vítima, mesmo sem o bem, estava com as chaves da motocicleta. Ademais, conforme depoimento da vítima, da testemunha e do próprio réu, a trava do guidão se encontrava danificada e os cabos expostos através de ligação direita.
+Não é razoável que o bem fique apreendido em poder da autoridade policial durante longo tempo, a espera de envio de perito para realização do exame, privando a vítima da utilização de seu meio de transporte rotineiro. Não bastasse a vítima ser destinatária de uma conduta delituosa, ainda ter que exigir que ela tenha a fruição de seu patrimônio restringida, significa impô-la uma dupla violação.
+Logo, este Juízo tem por justificada a impossibilidade de realização da perícia - pois a motocicleta foi devolvida à vítima no mesmo dia - e, em continuo, entende que deve ser reconhecida a aplicação da qualificadora em desfavor do réu, já que as provas carreadas aos autos indicam, acima de qualquer dúvida razoável, a demonstração do rompimento de obstáculo. Impossível, por conseguinte, a desclassificação para o delito de furto simples.
+A respeito do tema, registro que, no julgamento do REsp n. 1.320.298/MG, ocorrido no dia 15/12/2015, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste.
+ ..
+Com relação à qualificadora do rompimento de obstáculo, a Sexta Turma deste Tribunal Superior também conclui pela imprescindibilidade, em regra, da sua comprovação por laudo pericial, admitida, excepcionalmente, a realização de exame indireto ou a sua complementação por outros meios de prova, quando não subsistirem os vestígios materiais ou não forem suficientes para a confecção do laudo.
+A partir de então, com a ressalva de meu entendimento pessoal, aderi ao entendimento da Sexta Turma, para reconhecer, como regra, a imprescindibilidade da realização de exame pericial para constatação do rompimento de obstáculo.
+ ..
+Na hipótese dos autos é incontroverso que não foi realizado exame pericial para atestar o rompimento do obstáculo. Ademais, os motivos apresentados pelas instâncias ordinárias não demonstraram nenhuma excepcionalidade que justificasse a sua ausência, haja vista que suposta demora ou impedimento para a realização do exame nem sequer foram comprovados.
+No mesmo sentido, o parecer do Ministério Público Federal registrou que "na hipótese dos autos, não apresentou, o Tribunal de Justiça, nenhuma fundamentação idônea capaz de justificar a não realização do ato" (fl. 282).
+Assim, deve ser afastada a referida qualificadora.
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
