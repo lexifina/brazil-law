@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF/1988) interposto contra acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte (fl. 445, e-STJ):
+MANDADO DE SEGURANÇA. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. SISTEMÁTICA DE APURAÇÃO DO INCENTIVO FISCAL. LEI Nº 6.321/76. BENEFÍCIO FISCAL LIMITADO À ALÍQUOTA DO IMPOSTO. VEDAÇÃO RELATIVA AO ADICIONAL. PREJUÍZO FISCAL. APROVEITAMENTO.
+1. Não há ilegalidade na previsão, feita pelos decretos que regulamentam a matéria, de que os valores relativos ao Programa de Alimentação do Trabalhador - PAT, sejam deduzidos diretamente do imposto de renda devido, pois apenas conferiram precisão tributária ao comando do art. 1º da Lei nº. 6.321, de 1976, havendo posterior confirmação pelas Leis nºs. 8.849/94, 9.249/95 e 9.532/97. Precedentes deste Regional.
+2. Não se mostra devida a incidência da parcela adicional do IRPJ na base de cálculo da apuração do limite das deduções com o PAT, por expressa vedação pelo artigo 3º, § 4º, da Lei nº 9.249, de 1995 e pelos artigos 5º e 6º- caput da Lei nº 9.532, de 1997.
+Os Embargos de Declaração foram rejeitados (fl. 480, e-STJ).
+A recorrente, nas razões do Recurso Especial, alega que ocorreu violação dos arts. 489, § 1º, IV e V, e 1.022, I e II, do CPC/2015; 97, I, 99 e 110 do CTN; 3º da Lei 9.249/1995; 5º da Lei 9.532/1997; e 1º da Lei 6.321/1976. Sustentaque houve negativa de prestação jurisdicional. No mérito, aduz que os benefícios instituídos pela Lei 6.321/1976 (que instituiu o PAT) aplica-se ao adicional do Imposto de Renda. Afirma que "não há nenhuma norma que exclua do conceito de "imposto devido" o valor do adicional de IRPJ (10%), sobre o qual se deve aplicar o limitador de 4%" (fl. 516, e-STJ).
+Contrarrazões apresentadas às fls. 555-564, e-STJ.
+Decisão de admissibilidade do recurso às fls. 577-578, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26/2/2021.
+Merece parcial acolhida a irresignação.
+Consoante a jurisprudência do STJ, "os benefícios instituídos pelas Leis 6.297/1975 e 6.321/1976 aplicam-se ao adicional do imposto de renda, de forma que, primeiramente, proceder-se à dedução sobre o lucro da empresa, resultando no lucro real, sobre o qual deverá ser calculado o adicional do imposto de renda" (AgInt no REsp 1.747.097/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/09/2019).
+Na mesma linha, cito:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ART. 1º. DA LEI 6.321/1976. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO PROVIDO.
+1. As Turmas de Direito Público desta Corte, analisando todos os dispositivos legais pertinentes, consolidou o entendimento de que os benefícios concedidos por meio das Leis 6.297/75 e 6.321/73 devem ser aplicados ao adicional de imposto de renda, em que, primeiramente, deve haver a dedução sobre o lucro da empresa, resultando no lucro real, e, sobre este último, deverá ser calculado aquele adicional (AgInt no REsp. 1.491.935/RS, Rel. Min. SÉRGIO KUKINA, DJe 21.5.2020; AgInt no REsp. 1.747.097/RS, Rel. Min. BENEDITO GONÇALVES, DJe 25.9.2019; AgInt no REsp. 1.462.963/PE, Rel. Min. GURGEL DE FARIA, DJe 9.8.2019; e AgInt no AREsp. 1.359.814/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 19.2.2019).
+2. O posicionamento deste STJ está calcado no fato de que em nenhum momento a legislação posterior alterou essa forma de cálculo. Isto porque o art. 3º, §4º, da Lei n. 9.249/95 incide em um momento contábil posterior ao de incidência do incentivo. Dito de outra forma, se o incentivo reduz o Lucro Real e esse mesmo Lucro Real já reduzido é a base de cálculo do adicional do IRPJ, então indiretamente o incentivo reflete nesse adicional reduzindo-o. Veja-se que não se trata de dedução vedada pelo referido art. 3º, §4º, da Lei n. 9.249/95, pois esta se daria em momento posterior ao cálculo do adicional do IRPJ e a redução aqui concedida se dá antes do cálculo do adicional do IRPJ. Desse modo, não resta violado o art. 3º, §4º, da Lei n. 9.249/95 (AgInt no REsp. 1.695.806/RS, Rel. Min. MAURO CAMPBELL MARQUES, DJe 14.8.2018).
+3. Agravo Interno da FAZENDA NACIONAL não provido.
+(AgInt no REsp 1.833.178/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ART. 1º. DA LEI 6.321/1976. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Os benefícios instituídos pelas Leis 6.297/75 e 6.321/76 aplicam-se ao adicional do Imposto de Renda da seguinte maneira: deduz-se as correspondentes despesas do lucro da empresa, chegando-se ao lucro real, sobre o qual deverá ser calculado o adicional (REsp. 1.754.668/RS, Rel. Min. HERMAN BENJAMIN, DJe 11.3.2019).
+2. Agravo Interno da FAZENDA NACIONAL não provido.
+(AgInt no AREsp 647.485/PE, Rel. Ministro NAPOLEÃO NUNESMAIA FILHO, PRIMEIRA TURMA, julgado em 13/05/2019, DJe 20/05/2019)
+In casu, verifica-se que o acórdão impugnado não observou a exegese da legislação federal, conforme acima definido, motivo pelo qual merece acolhida a irresignação. Com efeito, o provimento da pretensão recursal acarreta a necessidade de devolução dos autos à origem, para que nova decisão seja proferida, respeitadas as premissas acima estabelecidas à luz da jurisprudência supra.
+Diante do exposto, dou parcial provimento ao Recurso Especial, determinando a devolução dos autos à origem.
+Publique-se.
+Intimem-se.
