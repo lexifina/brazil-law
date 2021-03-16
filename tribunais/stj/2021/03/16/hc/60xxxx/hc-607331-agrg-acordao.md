@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Felix Fischer, João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. RECEPTAÇÃO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO.TESE ABSOLUTORIA. RAZÕES CONCRETAS.REVISÃO.IMPOSSIBILIDADE. PENA RESTRITIVA DE DIREITOS. OPÇÃO PELO RÉU. DESCABIMENTO.ESCOLHA DO JULGADOR. DISCRICIONARIEDADE. AGRAVO DESPROVIDO.
+1. Se o acórdão recorrido tratou das teses absolutórias, no entanto, as afastou justificando concretamente suas razões diante dos elementos fáticos-probatórios contidos na demanda, tornam-se estasinviáveis de reexame por esta Corte Especial.
+2.Não cabe ao réu escolher qual a pena mais benéfica. Ojulgador é que é o competente para optar pela sanção cabível, diante da discricionariedade a ele conferida.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental no habeas corpus interposto em desfavor de decisão de minha relatoria que não conheceu do writ.
+A parte agravante afirma que o Tribunal de Apelação não conheceu de tese absolutória da defesa de inexigibilidade de conduta diversa requerendoque seja determinada a anulação do acórdão recorrido ea devolução dos autos para que aquela Corte novamente examine o apelo da deles.
+Subsidiariamente, requer que seja reconhecida a hipótese de substituição da pena privativa por pena de multa e uma restritiva de direitos.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. RECEPTAÇÃO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO.TESE ABSOLUTORIA. RAZÕES CONCRETAS.REVISÃO.IMPOSSIBILIDADE. PENA RESTRITIVA DE DIREITOS. OPÇÃO PELO RÉU. DESCABIMENTO.ESCOLHA DO JULGADOR. DISCRICIONARIEDADE. AGRAVO DESPROVIDO.
+1. Se o acórdão recorrido tratou das teses absolutórias, no entanto, as afastou justificando concretamente suas razões diante dos elementos fáticos-probatórios contidos na demanda, tornam-se estasinviáveis de reexame por esta Corte Especial.
+2.Não cabe ao réu escolher qual a pena mais benéfica. Ojulgador é que é o competente para optar pela sanção cabível, diante da discricionariedade a ele conferida.
+3. Agravo regimental desprovido.
+VOTO
+Não obstante os esforços da defesa, a decisão deve ser mantida por seus próprios fundamentos.
+A parte agravante sustenta que a decisão vergastada deixou de analisar a tese absolutória relativa à inexigibilidade de conduta diversa, razão pela qual pleiteia a anulação do acórdão recorrido e a remessa dos autos à instância de origem.
+Ao tratar do tema, o Tribunal de origem destacou em fls. 362/365:
+"No mais, nada obstante as ponderações constantes das razões recursais, a pretensão absolutória não merece prosperar. Com efeito, o acusado restou condenado pela prática do crime de receptação, assim previsto no Decreto-Lei 2.848/1940.Estabelecendo relação entre a norma referida e a conduta praticada, tem-se que a materialidade e autoria do ilícito encontram-se devidamente comprovadas por meio do auto de prisão em flagrante n.3.18.00808(fls.3), boletim de ocorrência (fls.4-5), consulta ao SINARM (fls.6-7) resumo da ocorrência policial (fls.8-9),auto de exibição e apreensão (fls.11), laudo pericial(fls.149-151)e demais substratos de convicção coligidos ao processado.(..)A procedência espúria do bem apreendido foi confirmada pelo conjunto probatório angariado.As assertivas do acusado, em que pese o esforço narrativo, traduzem não mais do que o escuso intento de subtrair-se às consequências penais de seu ato, como o cotejo atento com os demais elementos de convicção efetuado pela douta Togada singular comprova."
+Destarte, ao contrário do consignado pela defesa, o acórdão recorrido tratou das teses absolutórias, no entanto, as afastou justificando concretamente suas razões diante dos elementos fáticos-probatórios contidos na demanda, inviáveis de reexame por esta Corte Especial.
+Nesse sentido é a jurisprudência deste Sodalício:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE RECEPTAÇÃO. PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS OU DE DESCLASSIFICAÇÃO PARA A MODALIDADE CULPOSA. REEXAME DE PROVAS. IMPOSSIBILIDADE. AFRONTA AO ART. 155 DO CPP NÃO CONFIGURADA. CONDENAÇÃOEMBASADAEM PROVA CORROBORADA POR ELEMENTOS DE CONVICÇÃO PRODUZIDOS EM JUÍZO. AFASTAMENTO DA REINCIDÊNCIA. TEMA NÃO DEBATIDO NO TRIBUNALDE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PENA INFERIOR A 4 ANOS. REGIME SEMIABERTO. RÉU REINCIDENTE. POSSIBILIDADE. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. NEGATIVA AMPARADA NA REINCIDÊNCIA. MEDIDA CONSIDERADA SOCIALMENTE NÃO RECOMENDÁVEL. AUSÊNCIA DE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. O habeas corpus não se presta para a apreciação de alegações que buscam a absolvição do paciente, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável nesta via. Tampouco se mostra possível, na via do mandamus, a inversão do entendimento da Corte local acerca da presença do dolo na configuração do crime de receptação imputado ao paciente.
+2. No caso, ao contrário do que afirma a defesa, a condenação do recorrente não se deu com base apenas em elementos de informação colhidos na fase extrajudicial, mas também no depoimento do réu colhido sob o crivo do contraditório. Acerca do tema, a orientação jurisprudencial do Superior Tribunal de Justiça é no sentido de que a existência de prova judicial a corroborar a condenação afasta a violação ao disposto no artigo 155 do Código de Processo Penal.
+(..)
+5. A negativa das instâncias ordinárias do pleito de substituição da pena privativa de liberdade por restritivas de direitos baseou-se na reincidência do réu. Na hipótese, o agravante é reincidente em crime doloso e o Julgador considerou socialmente não recomendável a substituição, conquanto não seja reincidente específico. Alterar o entendimento a respeito da possibilidade de substituição da pena do réu demandaria revolvimento de matéria fático-probatória, procedimento inviável na presente via.
+6. Agravo regimental desprovido.
+(AgRg no HC 592.194/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 3/9/2020).
+Quanto ao pleito referente à substituição da pena, o acórdão exarou em fls. 367/368:
+"De resto, o pleito de readequação da pena substitutiva imposta também não comporta provimento.
+Por certo, cabe ao juiz prolator do decreto condenatório escolher as reprimendas mais adequadas dentre as disponibilizadas pela Lei de Regência. É, portanto, de sua discricionariedade, pois não há um rol de preferência a ser observado.
+(..)
+Por esse motivo, não sendo caso de manifesta inadequação, inviabilidade ou desproporcionalidade da providência adotada no decisum, incabível sua alteração, devendo ser mantido o juízo de conveniência e oportunidade da sentenciante, a qual conhece bem a realidade da sua comarca e possui aptidão para discernir sobre a opção substitutiva legalmente prevista que semostre mais apropriada aos apenados daquela subdivisão jurisdicional.
+Registra-se que no pronunciamento objurgado procedeu-se à substituição da sanção corporal pois," ..  vislumbrando que a substituição da pena se mostrará bastante para atender de forma necessária e suficiente a reprovação e a prevenção do crime, passo a substituir a pena privativa de liberdade aplicada por duas restritivas de direitos(art.44,§2º,do Código Penal) .. " (sic,fls.146), de maneira que devem ser mantidas as sanções alternativas escolhidas."
+Nesse contexto, verifica-se que o acórdão está em harmonia com o entendimento desta Corte, pois não cabe ao réu escolher qual a pena mais benéfica, o julgador é que éo competente para optar pela sanção cabível, diante da discricionariedade a ele conferida. A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENA RESTRITIVA DE DIREITOS FIXADA PELO TRIBUNAL DE ORIGEM. MODIFICAÇÃO DO ENTENDIMENTO.NECESSIDADE DO REEXAME DE PROVAS. SÚMULA 7 DO STJ. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. O Tribunal de origem afirmou que a pena de limitação de fim de semana é a mais adequada à espécie. Desse modo, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ.
+2. As penas restritivas de direitos arbitradas em substituição à privativa de liberdade devem ser escolhidas pelo juiz, observado seu poder discricionário, não cabendo ao réu optar por aquela que julgar mais benéfica. Consequentemente, não se vislumbra a ocorrência da reformatio in pejus, uma vez que o Tribunal apenas corrigiu um equivoco na aplicação da pena restritiva de direito, adotando aquela que achou mais adequada à espécie.
+3. Agravo regimental desprovido.
+(AgRg no REsp 1.792.063/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA,DJe 9/4/2019).
+Ante o exposto, voto no sentido de negar provimento ao agravo regimental.
