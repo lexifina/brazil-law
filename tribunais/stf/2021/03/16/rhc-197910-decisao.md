@@ -1,0 +1,33 @@
+Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por Marcos Antonio Antunes Barbosa, contra acórdão proferido pela Sexta Turma do Superior Tribunal de Justiça (STJ), que negou provimento ao Agravo Regimental no HC 624.964/SP.
+    Consta dos autos que o paciente foi condenado por fato ocorrido em:
+    a) 08.12.2011 – Artigo 157, § 2°. I do Código Penal – Processo N. 1001666-73.2011.8.26.0506 - pena: 05 anos 04 meses e 13 dias multa – regime semiaberto;
+    b) 23.12.2011 – Artigo 157, § 2°. I, II do Código Penal – Processo N. 0000275.66.2012.8.26.0506 - pena: 05 anos 04 meses e 13 dias multa – regime semiaberto;
+    c) 24.12.2011 – Artigo 157, § 2°. I, II do Código Penal – Processo N. 0007016.25.2012.8.26.0506 - pena: 05 anos 06 meses e 13 dias multa – regime fechado;
+    d) 15.01.2012 – Artigo 157, § 2°. I, II, V do Código Penal – Processo N. 0005096.16.2012.8.26.0506 - pena: 05 anos 08 meses e 14 dias multa – regime fechado;
+    e) 18.01.2012 – Artigo 157, § 2°. I, II, V do Código Penal – Processo N. 09337326420128260506- pena: 07 anos 05 meses e 07 dias de reclusão e 16 dias multa – regime fechado.
+    Irresignada, a defesa interpôs agravo em execução postulando, em suma, o reconhecimento da continuidade delitiva.
+    Foi negado provimento ao recurso. (eDOC 2, p. 35)
+    Daí a impetração de habeas corpus no STJ, que denegou liminarmente a ordem. (eDOC 2, p. 45)
+    Impugnou-se a decisão por meio de agravo regimental, o qual foi desprovido nos termos da ementa a seguir transcrita:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. CONTINUIDADE DELITIVA. NÃO RECONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A jurisprudência deste Superior Tribunal é pacífica em adotar a teoria objetivo-subjetiva para o reconhecimento da continuidade delitiva, por considerá-la mais adequada à interpretação do art. 71 do CP. 2. Consoante a moldura fática do aresto combatido, não existiu vínculo entre as aludidas empreitadas criminosas. O grande número de roubos e sua prática justificam o reconhecimento da habitualidade criminosa, que não pode ser premiada com a ficção legal do crime único. 3. Agravo regimental não provido”. (eDOC 1, p. 71)
+    Nesta Corte o impetrante reitera os pedidos pretéritos e enfatiza o preenchimento dos requisitos legais para o reconhecimento da continuidade delitiva prevista no art. 71 do Código Penal.
+    É o relatório.
+    Passo a decidir.
+    As razões não merecem acolhimento.
+    No presente writ, a defesa insiste na reforma da dosimetria da pena fixada ao acusado, haja vista a não aplicação do art. 71 do CP.
+    No entanto, verifica-se que o Tribunal de origem, ao julgar o agravo em execução, com base no acervo fático-probatório constante dos autos, consignou que estaria suficientemente comprovada a autoria e a materialidade dos delitos, de modo manter a condenação do réu por delitos diversos.
+    A esse propósito, cito o seguinte trecho do acórdão impugnado:
+    “Ora, o sentenciado praticou tais delitos em circunstâncias distintas, em datas diferentes, com vítimas diferentes, não havendo fruição das mesmas relações, oportunidades ou desfrute de ocasiões.
+    Os elementos fáticos evidenciam a caracterização de mera repetição de condutas ilícitas por criminoso contumaz, que reitera práticas delituosas indefinidamente, em verdadeiras atividades transgressoras habituais, na quais não se aplicam as benesses da continuidade delitiva.
+    Como bem assentado pelo ilustre preopinante, “...examinando os processos cuja unificação se pretende, verifica-se que não existe qualquer relação de causalidade entre os crimes. Primeiramente, para o reconhecimento da continuidade delitiva é indispensável que estejam presentes todos os pressupostos para sua caracterização, pois se trata de rol taxativo e não exemplificativo, ou seja, deve estar inequivocamente presentes a pluralidade de crimes da mesma espécie, condições objetivas semelhantes e unidade de desígnios, o que certamente não ocorreu no caso em tela. Com efeito, embora haja pluralidade de crimes, verifica-se a ausência das demais semelhanças entre as condições objetivas bem como da unidade de desígnios. É digno de nota, esclarecer que cada delito ocorreu de maneira completamente isolada, resultando de desígnios autônomos” (fls. 152), ressaltando que, “...dizer que o requerente, nestas hipóteses, agiu partindo de uma situação originária única, que se prolongou no tempo, é simplesmente inaceitável” (fls. 153), concluindo que, “acolher sob o manto da continuidade delitiva as condutas criminosas do sentenciado seria um incentivo à criminalidade. Mesmo a eventual proximidade de tempo e dos locais onde ocorreram as empreitadas criminosas, por si só não autorizam o deferimento da unificação se não restar provado que, na época dos crimes, o agente agiu com o mesmo nexo subjetivo. Para que se configure a ocorrência do crime continuado, é necessário ainda que os crimes apresentem-se como prolongamento ou desdobramento uns dos outros, o que não ocorreu no caso ora analisado” (fls. 155). ”. (eDOC 1, p. 80-81)
+    Portanto, não procede a alegação de equívoco suscitada pela parte.
+    Isso porque, conforme jurisprudência desta Corte, cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete somente o controle da legalidade e da constitucionalidade dos critérios empregados, com a correção apenas de eventuais decisões teratológicas e arbitrárias, que violem frontalmente dispositivo constitucional.
+    Desse modo, o acórdão impugnado atende aos princípios da proporcionalidade e da individualização da pena, possuindo motivação legítima.
+    Cito, a propósito, o seguinte precedente:
+    “HABEAS CORPUS. ROUBO QUALIFICADO. CIRCUNSTÂNCIAS DO CRIME SIMILARES. LAPSO TEMPORAL SIGNIFICATIVO ENTRE OS FATOS CRIMINOSOS. IMPOSSIBILIDADE DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. PRECEDENTES.1. A configuração da continuidade delitiva exige a prática de um ou mais crimes da mesma espécie em condições de tempo, lugar e modo de execução do delito indicativas de serem, as condutas subsequentes, continuação da primeira.2. O lapso temporal significativo, no caso cerca de oitenta e nove dias entre a prática dos crimes de roubo, inviabiliza o reconhecimento da continuidade delitiva. Precedentes.3. Ordem denegada”. (HC 106.173/PR, Rel. Min. Rosa Weber, 1ª Turma, DJe 1º.8.2012).
+    Ante o exposto, com fundamento no artigo 192, caput, do RISTF, nego provimento ao recurso.
+    Publique-se.
+    Brasília, 16 de março de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
