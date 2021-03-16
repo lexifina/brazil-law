@@ -1,0 +1,31 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO no 1003908-36.2021.8.11.0000
+AGRAVANTE: ANA DE JESUS DA SILVA
+AGRAVADO: BANCO BRADESCO S.A.
+Vistos.
+Trata-se de agravo de instrumento interposto por ANA DE JESUS DA SILVA contra decisão interlocutória proferida pela MMa. Juíza de Direito da Quarta Vara Cível da Comarca de Várzea Grande/MT, Dra. Silvia Renata Anffe Souza, lançada nos autos da Ação Declaratória de Inexistência de Dívida e Repetição do Indébito c/c Reparação de Danos Morais e Materiais no 1004310-14.2021.8.11.0002, ajuizada em face do BANCO BRADESCO S.A., que indeferiu a tutela de urgência, onde se pretendia a suspensão imediata dos descontos mensais realizados em sua conta, sob pena de multa.
+Aduz a agravante que desconhece a origem do empréstimo, cujas prestações vêm sendo descontadas em seu benefício mensal – pensão por morte -, no valor de R$124,00 (cento e vinte e quatro reais) desde o ano de 2017.
+Discorre que “a demora da agravante em perceber que os descontos estavam ocorrendo, pois a recorrente se trata de pessoa de baixíssima instrução, já de avançada idade que não tem o costume de analisar suas fichas financeiras”, prossegue fundamentando que “outro fator que contribuiu para que a mesma não percebesse de plano que os descontos eram efetivados mês a mês, foi o fato de que ela possui outros tantos empréstimos consignados (devidos) descontados na sua folha (conforme ficha inclusa), vindo a se deparar com o indevido, objeto desta demanda, apenas e tão somente no final do ano de 2020” (sic)
+Pontua que por estarmos em meio a uma pandemia de Covid-19, na chamada segunda onda, com leitos de UTI completamente lotados de pessoas infectadas, o que sem dúvidas tem gerado prejuízos imensuráveis no campo econômico em todo Brasil, ficando privada injustamente do valor de R$124,00 (cento e vinte e quatro reais) por mês, faz toda a diferença para uma idosa.
+Com base nos predicados legais, pugna pela concessão da tutela recursal para determinar a suspensão imediata das cobranças advindas do alegado débito, sob pena de aplicação de multa diária.
+Apresentou documentos eletronicamente, para instruir o recurso.
+É, em síntese, o relatório.
+Decido.
+Verifica-se que trata de pessoa hipossuficiente, inclusive teve a gratuidade judiciária deferida pelo juízo a quo, de modo que não há de se falar em recolhimento do preparo recursal. (Id 79094970)
+Por tempestivo e próprio recebo o recurso na forma do art. 1.015, inc. I c/c art. 1.017, ambos do CPC.
+Constata-se pela leitura do recurso interposto, que a agravante pretende a reforma da decisão atacada, com a imediata suspensão de cobranças relativas a empréstimo supostamente não contratado, sob pena de aplicação de multa diária.
+O artigo 1.019, inciso I, c/c o art. 300, ambos do Código de Processo Civil, dispõem que o relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, desde que demonstrada plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Atenta ao expendido na exordial, ao exame da documentação acostada em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, verifico que não restaram demonstrados os elementos autorizativos para a concessão da tutela recursal pleiteada.
+Trata-se de ação que discute a inexistência de débito, o que, por conseguinte, refere-se à ausência de consentimento da agravante na contratação do empréstimo, que necessita de conferência quanto a autenticidade da assinatura aposta em eventual contrato, cuja matéria está relacionada ao mérito da ação.
+Assim, necessário que seja esclarecido a existência ou não do negócio jurídico, verificando, nesta oportunidade, que a manutenção da decisão agravada é o entendimento mais acertado, até porque bem expresso na decisão recorrida que “Efetivamente a probabilidade do direito alegado pela parte autora, restou demonstrada através dos extratos anexados à inicial no Id. 48726310, que indica os descontos referentes a “Bradesco Financiamentos – Empréstimo”, realizados em sua folha de pagamento, o que corrobora a narrativa alegada. No entanto, de outra parte, o perigo de dano não restou comprovado nos autos, uma vez que analisando os documentos carreados com a inicial os descontos começaram a ser realizados em sua folha de pagamento desde o ano de 2017, ou seja, desde o referido ano os valores descontados seriam indevidos. Dessa forma, diante do considerável extenso lapso temporal decorrido, aproximadamente 04 (quatro) anos, até a propositura da presente demanda, é de se colocar em dúvida os fatos narrados, porquanto se realmente a parte autora entende como indevidos os respectivos descontos, deveria ter se insurgido contra eles há muito tempo, o que induz à vulnerabilidade dos fatos narrados pela parte autora, estando ausente a urgência da tutela pugnada” (Id 79059959)
+De forma que, prima facie, escorreita a decisão agravada, uma vez que a afirmação da recorrente, no mínimo depende de maiores informações, já que decorridos mais de 03 (três) anos de movimentação bancária da aludida conta, após o suposto empréstimo, sem qualquer providência por parte da agravante. (Id 79059956 – págs. 21 a 67)
+Ademais, não precisa muito esforço para chegar à conclusão de que a questão aventada no pleito antecipatório se confunde com o mérito recursal, diante disso a análise perquirida será feita pelo Colegiado, na ocasião do julgamento.
+Ausentes, pois, os pressupostos legais para concessão da tutela recursal.
+Desta maneira, nada obsta a manutenção da decisão agravada, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, tais como, o contraponto que será apresentado nas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Desse modo, INDEFIRO a tutela recursal pleiteada.
+Intime-se o agravado para, querendo, apresentar resposta no prazo de 15 (quinze) dias, nos termos do inciso II, artigo 1.019 do CPC.
+Considerando que a parte agravante é pessoa idosa na forma da lei, determino prioridade na tramitação do presente feito (art. 71 da Lei 10.741/2003).
+Intime-se. Cumpra-se.
+Cuiabá, 16 de março de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
