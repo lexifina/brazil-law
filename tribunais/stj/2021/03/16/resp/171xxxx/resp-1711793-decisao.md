@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado (e-STJ fl. 108):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MASSA FALIDA. TESE DE PRESCRIÇÃO INTERCORRENTE. 12 ANOS E OITO MESES ENTRE O TRÂNSITO EM JULGADO DA SENTENÇA QUE JULGOU OS EMBARGOS Ã EXECUÇÃO E NOVO IMPULSO DA EXEQUENTE. MASSA FALIDA. SUSPENSÃO DO DECRETO DE FALÊNCIA, ATÉ O FINAL DE 2011, POR ATOS DA PRÓPRIA FALIDA. DECURSO DE TEMPO SEM MANIFESTAÇÃO NOS AUTOS. PRESCRIÇÃO INTERCORRENTE QUE SE CARACTERIZA. PRECEDENTES. RECURSO PROVIDO.
+Nas razões do recurso especial (e-STJ fls. 123/130), interposto com base no art. 105, III, "a", da CF, a recorrente apontaviolação do art. 6º da Lei n. 11.101/2005, pois, segundo interpretação literal do dispositivo, a suspensão do prazo prescricional não estaria limitada, após o decreto de falência, às obrigações em que o falido seria devedor, aplicando-se tal regra também às demandas em que o falido seria credor, sendo essa a situação tratada.
+Alega que não teria ocorrido a prescrição intercorrente nos autos ante a: (a) suspensão do prazo, por força do art. 6º da Lei n. 11.101/2005, e (b) falta de intimação do administrador judicial da massa falida para dar andamento à execução, segundo o art. 76, parágrafo único, da Lei n. 11.101/2005. Ressalta que (e-STJ fl. 126):
+(..)Registre-se que não há uma substituição imediata da FALIDApela MASSA FALIDA nas obrigações que aquela é credora ou devedora, tendoestabelecido o art. 76, § único da Lei de Falências que as TODAS as ações, inclusive asexcetuadas no caput do referido artigo, terão prosseguimento com o administradorjudicial que deverá ser intimado para atuar em nome da MASSA FALIDA, sob pena denulidade.
+Busca, em suma, o provimento do recurso especial e a reforma do acórdão recorrido, "reconhecendo-se a contrariedade ao art. 6º da LFRJ" (e-STJ fl. 130).
+Contrarrazões apresentadas (e-STJ fls. 139/153).
+O agravo foi convertido em recurso especial para melhor análise da controvérsia (e-STJ fl. 210).
+O parecer do Ministério Público Federal foi pelo desprovimento do agravo (e-STJ fls. 205/208).
+É o relatório.
+Decido.
+O Tribunal de origem não se manifestou sobre a tese de que "não há uma substituição imediata da FALIDA pela MASSA FALIDA nas obrigações que aquela é credora ou devedora, tendo estabelecido o art. 76, § único da Lei de Falências que as TODAS as ações, inclusive as excetuadas no caput do referido artigo, terão prosseguimento com o administrador judicial que deverá ser intimado para atuar em nome da MASSA FALIDA, sob pena de nulidade" (e-STJ fl. 126). Ea parte não opôsembargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento. Assim, devem ser aplicadasas Súmulas n. 282 e 356 do STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282 E 356/STF. REEXAME DE MATÉRIA PROBATÓRIA.IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. O Tribunal de origem consigna a legitimidade somente de quem transferiu a posse e o domínio da coisa, para responder pelos riscos da evicção, nos termos do art. 453 c/c 1.219 do CC. Assim, salienta que a responsabilidade solidária daquele de quem o devedor direto adquiriu o bem alienado para o evicto não existirá sem prova de conluio e má-fé ou de responsabilidade pelo vício, hipóteses não configuradas no caso vertente. Outrossim, destaca que ante a ausência de erro ou vício no processo de registro, a conduta do oficial do cartório de registro não causou, tampouco contribuiu de forma relevante para o dano. A reforma do aresto, nestes aspectos, demanda reexame do acervo fático-probatório soberanamente delineado perante as instâncias ordinárias, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.142.635/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/5/2018, DJe 14/5/2018.)
+O Tribunal local deu provimento ao agravo de instrumento e declarou extinto o feito executivo n. 609/1993.Ademais, assentou que os autos permaneceram sem movimentação por quase 13 (treze) anos. Eis a fundamentação do acórdão recorrido(e-STJ fls. 109/111 e 113):
+Trata-se de agravo de instrumento,interposto por Ana Maria Frandsen Santos, em faceda decisão de fls. 22, que rejeitou a tese deocorrência de prescrição intercorrente, na hipótesedos autos.
+A agravante é executada pelaagravada, que teve sua falência decretada em
+23/10/2006.
+Sustenta que o transito em julgado dasentença que julgou os embargos à execução se deuem 28/11/2001 e que a agravada somente veio amovimentar o processo em abril de 2014,caracterizando, na hipótese, a prescriçãointercorrente da pretensão deduzida na execução.
+Pugna pelo provimento do recurso econsequente extinção do feito ou, alternativamente,pela adequação na restrição a veículos que seriam deuso profissional da agravante e em nada trariaprejuízos à agravada.
+Liminar concedida às fls. 79/80, paraefeito de suspender o processo de execução e determinar que a restrição de veículos se limite à impossibilidade de venda, permitida a circulação.
+(..)
+Fato inconteste nos autos é a inatividade da agravada por mais de 12 anos, deixando o processo de execução sem a devida movimentação.
+Sem embargo das ponderações trazidas na contraminuta ao agravo, pelo diligente administrador judicial da massa falida, fato é que o decurso de tempo restou caracterizado e a suspensão do decreto de falência, que o impediu de atuar nos feitos, dentre eles, a presente execução, se deu, como o próprio admite, por decorrência de inúmeros recursos manejados pela agravada.
+Assim, em que pese a inviabilidade circunstancial de atuação do administrador judicial, fato é que tramitava uma execução de título extrajudicial, por cujo impulso a exequente não zelou a contento e no prazo devido, restando caracterizada, na hipótese, a ocorrência de prescrição intercorrente.
+Na hipótese dos autos, a condição de credor da empresa agravada afasta a incidência das disposições do artigo 6º da Lei 11.101 de 09 de fevereiro de 2005.
+E conseqüência, não há interrupção da prescrição, como intenta a agravada.
+É o entendimento que se extrai da doutrina:
+"Em conformidade com o artigo 6º da LRE, durante o processo de falência fica suspenso o curso da prescrição relativo a obrigações de responsabilidade do devedor; e de acordo com o artigo 157 do mesmo diploma, após o trânsito em julgado da sentença de encerramento do processo falimentar, voltará a fluir o prazo prescricional das obrigações do devedor, que foram suspensos em razão da decretação da falência. A suspensão refere-se apenas ao falido e não às obrigações de terceiro para com o falido ou com a massa. Assim, não se suspende a prescrição das obrigações em que o falido é credor."(PIRES, Natália Taves; LEAL JÚNIOR, João Carlos. A sentença decretatória de falência na nova lei de recuperação de empresas. In: Âmbito Jurídico, Rio Grande, XI, n. 56, ago 2008.) - destaquei.
+Em suma, obrigações nascem para ser extintas, ainda que pelo simples decurso do tempo e, no caso em exame, parece mesmo tratar-se de caso de prescrição intercorrente que, diga-se, pode ser pronunciada sem providências antecedentes.
+(..)
+Assim, considerando o decurso de aproximadamente 13 anos, entre o trânsito em julgado da decisão proferida em sede de embargos à execução e a manifestação da agravada no feito, forçoso reconhecer a ocorrência da prescrição intercorrente, resultando na extinção do feito executivo e levantamento das restrições impostas à agravante.
+A massa falida, por sua vez, defende que a prescrição intercorrente deve ser afastada, ao argumento de que, em uma interpretação literal doart. 6º da Lei n. 11.101/2005, asuspensão da prescrição não estaria limitadaàs obrigações em que o falido é devedor, como decidido pelo acórdão recorrido.
+Menciona que, seo referidoartigo não prevê expressamente o limiteda suspensão da prescrição, não pode o órgão jurisdicional fazer interpretação restritiva, aplicando tal regra somente no caso deobrigações em que o falido é devedor, sob pena de desrespeito aoprincípio da isonomia.
+Aparte não impugnou os seguintes fundamentos do acórdão recorrido (e-STJ fl. 110):
+Sem embargo das ponderaçõestrazidas na contraminuta ao agravo, pelo diligenteadministrador judicial da massa falida, fato é que odecurso de tempo restou caracterizado e a suspensãodo decreto de falência, que o impediu de atuar nosfeitos, dentre eles, a presente execução, se deu,como o próprio admite, por decorrência de inúmerosrecursos manejados pela agravada.
+Assim, em que pese a inviabilidadecircunstancial de atuação do administrador judicial,fato é que tramitava uma execução de títuloextrajudicial, por cujo impulso a exequente não zeloua contento e no prazo devido, restando caracterizada,na hipótese, a ocorrência de prescrição intercorrente.
+Incidem, portanto, as Súmulas n. 283 e 284 do STF. Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. DEMORA INJUSTIFICADA NA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. RAZÕES DISSOCIADAS DA MATÉRIA TRATADA NO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF. DEFEITO NA PRESTAÇÃO DO SERVIÇO. DANO MORAL. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA 7/STJ. REVISÃO DO VALOR. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. NÃO PROVIMENTO.
+(..)
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não se conhece de recurso especial cujas razões estão dissociadas da matéria tratada pelo acórdão recorrido. Súmula 284/STF.
+(..)
+7. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 774.370/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/11/2015, DJe 23/11/2015.)
+CONSUMIDOR E CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. CLÁUSULA EXCLUDENTE DA COBERTURA. APOSENTADORIA POR INVALIDEZ. SFH. ACÓRDÃO FUNDADO NO CDC. NULIDADE DA CLÁUSULA. ART. 51, IV, DO CDC. ESPECIAL DISTANCIANDO-SE DA FUNDAMENTAÇÃO DO ACÓRDÃO. TESE SUFICIENTE NÃO IMPUGNADA. SÚMULAS 283 E 284 DO STF. PREQUESTIONAMENTO. INEXISTÊNCIA. AGRAVO NÃO PROVIDO.
+(..)
+3. A falta de combate a fundamento suficiente para manter o acórdão recorrido bem como as razões recursais dissociadas daquilo que ficou decidido pelo Tribunal de origem demonstram deficiência de fundamentação do recurso, o que atrai, por analogia, os óbices das Súmulas n. 283 e 284 do Supremo Tribunal Federal.
+4. Agravo regimental não provido.
+(AgRg no REsp 1.507.662/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/8/2015, DJe 28/8/2015.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
