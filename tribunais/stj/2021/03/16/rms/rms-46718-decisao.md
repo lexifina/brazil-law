@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de pedido de desistência apresentado pelorecorrente, por meioda petição de e-STJ fls. 105/106, em razão da perda de objeto, tendo em vista: "que a portaria regulamentando as saídas temporárias editada à época dos fatos foi revogada, mostrando-se prejudicado o pedido" (e-STJ fl. 105).
+De acordo com a orientação do Supremo Tribunal Federal, firmada em Repercussão Geral no RE n. 669.397 (relator Ministro LUIZ FUX, relatora para acórdão MinistraROSA WEBER, Tribunal Pleno, julgado em 2/5/2013, acórdão eletrônico repercussão geral - mérito, DJe-213, divulg., 29/10/2014, public. 30/10/2014), é faculdade do impetrante desistir da ação mandamental,independentemente de concordância da autoridade indigitada coatora ou do ente estatal que ela representa, a qualquer momento antes do término do julgamento, sem que seja necessária a oitiva da autoridade coatora ou da entidade estatal interessada.
+Ante o exposto, considerada a existência de poderes especiais para orequerimento, homologo a desistência, nos termos doart. 34, IX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
