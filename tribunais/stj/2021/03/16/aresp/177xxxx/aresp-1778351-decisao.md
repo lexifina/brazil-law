@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 338, e-STJ):
+Agravo de Instrumento. Cumprimento de sentença. Plano de saúde.
+Execução de astreintes. Decisão que acolheu em parte a impugnação ao valor da multa para a limitar ao prazo de 60 dias, fixando o valor executado no importe de R$ 120.000,00, corrigido em acrescido de juros de mora desde a data de intimação para pagamento, e em condenação da executada ao pagamento de honorários advocatícios em 10% do valor reconhecido como devido (R$ 120.000,00), e a exequente ao pagamento de honorários no importe de R$ 60.400,00, equivalente a 10% do valor em que sucumbiu (R$ 604.000,00), com exigibilidade suspensa em razão da gratuidade concedida.
+Determinado, ainda, o bloqueio online de ativos financeiros da executada pelo sistema BACEN-JUD. Já decidido anteriormente, em sentença, sobre a obrigação de fazer consistente em cobrir a cirurgia e tratamento de que a autora necessita. Execução da sucumbência suspensa em relação ao autor em razão da gratuidade concedida, em razão de artigo de lei (art. 98, §§ 2º e 3º do CPC) que não consistem em nenhuma arbitrariedade do juízo. No mais, a decisão deve ser mantida tal como lançada, inclusive com relação à multa imposta, já que a ré, desde a fase de conhecimento, reluta em dar cumprimento à obrigação de fazer. Recurso improvido.
+Os embargos de declaração opostos foram rejeitados (fls. 358/361, e-STJ).
+Nas razões do recurso especial, a parte ora agravante alega violação ao art. 537, § 1º, do Código de Processo Civil de 2015 e 884 do Código Civil.
+Afirma, de início, que não houve descumprimento de determinação judicial, razão pela qual não é cabível o arbitramento de multa. Argumenta, subsidiariamente, que o valor fixado a título de multa - R$ 120.000,00 (cento e vinte mil reais) - é exorbitante, devendo ser reduzido, sob pena de configuração de enriquecimento sem causa da parte recorrida.
+Foram apresentadas contrarrazões às fls. 378/382, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem, à vista do acervo fático-probatório produzido, confirmou a decisão de primeiro grau, que reconheceu o descumprimento de determinação judicial por parte da executada e reduziu o valor da multa cominatória para o montante de cento e vinte mil reais. Transcrevo excertos do acórdão (fl. 343, e-STJ) e, em seguida, da decisão de primeiro grau (fls. 309/311, e-STJ):
+Também não cabe mais à executada a discussão a respeito de sua recusa a fornecer o procedimento cirúrgico e tratamento indicados à autora exequente, que já restaram mais do que especificados na sentença e no v. acórdão que julgou a apelação da ré, que somente julgou improcedente o pedido de indenização por danos morais.
+No mais, a r. decisão deve ser confirmada pelos seus próprios e bem deduzidos fundamentos, os quais ficam inteiramente adotados como razão de decidir pelo desprovimento do recurso, nos termos do art. 252 do Regimento Interno deste Egrégio Tribunal de Justiça.
+(..)
+A executada fora condenada, conforme título executivo (fls. 158/160), ao cumprimento de obrigação de fazer, consistente em custear o procedimento cirúrgico de reconstrução de mandíbula com enxerto ósseo, nos moldes constantes da petição inicial, expedindo para tanto a competente autorização.
+A sentença, nesse ponto, fora integralmente confirmada pelo E. Tribunal de Justiça, consoante o V. Acórdão prolatado pela 82 Câmara de Direito Privado (fls. 239/252 dos autos principais).
+Já houve, inclusive, diante do tempo transcorrido, o trânsito em julgado (fls. 267 dos autos principais), de modo que se trata de cumprimento definitivo de título executivo judicial.
+A executada fora intimada, na pessoa de seus advogados (fls. 161), em 20 de maio de 2015 (DJE 19/05/2015), para dar cumprimento à ordem judicial dentro do prazo de 15 (quinze) dias, sob pena de multa diária de R$ 1.000,00 (mil reais). A multa posteriormente, por decisão proferida em 17 de julho de 2015 (fls. 167), foi elevada para a quantia diária de R$ 2.000,00 (dois mil reais).
+Assim, ainda que lhe incumbisse providenciar o cumprimento até o dia 04 de junho de 2015, a executada deixou de fazê-lo.
+A única providência adotada pela executada consistiu em agendar singela consulta médica, sob o fundamento de que seriam necessários novos exames e avaliação antes de se passar ao procedimento cirúrgico propriamente dito, tendo comunicado a exequente em 21/08/2015 (fls. 229).
+No entanto, ainda que a exequente tenha comparecido à consulta médica agendada, a operadora de saúde não deu sequência às providências necessárias para a realização do procedimento.
+Na ocasião, o médico "César A. A. Raposo do Amaral" assinalou que a paciente deveria ser encaminhada ao "buco-maxilo", informando à executada AMIL a respeito, em ofício a ela dirigido (fls. 228), datado de 28/08/2015.
+Todavia, a executada não adotou nenhuma nova providência, deixando de indicar médico competente e de agendar consulta para o prosseguimento das medidas prévias ao ato cirúrgico.
+Cabe ressaltar, nesse passo, que a providência não cabia à exequente, mas sim à executada, vez que foi quem compreendeu que eram necessários novos exames e avaliação e, por conta disso, escolheu determinado profissional médico e marcou consulta médica preparatória.
+Assim, a inocorrência do procedimento cirúrgico decorreu de inércia imputável exclusivamente à executada.
+De outro lado, a superveniente extinção da relação jurídica existente entre as partes não tem o condão de afastar o cumprimento da ordem judicial
+O pronunciamento jurisdicional reconheceu que, por força da relação havida entre as partes, incumbia à operadora de saúde custear o procedimento cirúrgico de reconstrução de mandíbula com enxerto ósseo.
+Assim, se a executada deixou de cumprir a obrigação no tempo oportuno, enquanto ainda existia contrato entre as partes, não pode invocar o término da relação contratual para se eximir da obrigação inadimplida.
+Nesse panorama, teve incidência a multa cominatória, fixada em sentença. Entretanto, o valor global da multa, no importe de R$ 724.000,00, atingiu valor exorbitante, incompatível com os princípios da razoabilidade e proporcionalidade, de modo que deve ser objeto de limitação.
+(..)
+Assim, a incidência da multa cominatória deve ser limitada ao prazo de 60 (sessenta) dias, correspondente à quantia total de R$ 120.000,00, condizente com sua natureza coercitiva, o tempo presumido que possui efetiva eficácia, a capacidade econômica da executada, e o bem jurídico em jogo (saúde).
+Com tais fundamentos, ACOLHO PARCIALMENTE a impugnação ao cumprimento de sentença, e, assim, limito a incidência da multa cominatória ao prazo de 60 (sessenta) dias, FIXANDO o valor executado no importe de R$ 120.000,00 (cento e vinte mil reais), a ser acrescido de correção monetária e de juros de mora de 1% (um por cento) ao mês desde 01º de setembro de 2016 (data de intimação para pagamento), além da multa de 10% (dez por cento), e de honorários advocatícios de 10% (dez por cento), previstos no artigo 523, § 1º, do CPC.
+A alteração da premissa de que houve descumprimento de ordem judicial demandaria a revisão da matéria fática, o que se veda em recurso especial, a teor da Súmula 7/STJ.
+Ademais, não sendo o caso de manifesta excessividade, é inviável o redimensionamento do valor da multa, pois esse procedimento exigiria, igualmente, o reexame de provas, o que, como ressaltado, é vedado em sede de recurso especial, a teor da Súmula 7/STJ.
+Nesse sentido, cito os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXECUÇÃO DE MULTA COMINATÓRIA. VALOR. ALTERAÇÃO. POSSIBILIDADE. REDIMENSIONAMENTO EFETUADO PELA CORTE DE ORIGEM. ALTERAÇÃO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. "A decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada" (REsp 1.333.988/SP, Relator Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 9.4.2014, DJe de 11.4.2014).
+2. A alteração das astreintes, após o redimensionamento efetuado pela Corte a quo, com base nas peculiaridades do caso, encontra óbice no enunciado n. 7 da Súmula desta Casa.
+3. Agravo interno não provido.
+(AgInt no AREsp 1344083/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2018, DJe 1/2/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVADO.
+1. Consoante jurisprudência estabelecida no âmbito do Superior Tribunal de Justiça, a decisão que aplica multa cominatória, não preclui e nem mesmo fica acobertada pelo manto da coisa julgada, de modo que, verificada a excessividade ou insuficiência do montante arbitrado, pode o magistrado alterar o valor para adequá-lo aos postulados da razoabilidade e proporcionalidade.
+2. Na hipótese, a Corte Estadual procedeu o cotejo dos elementos constantes dos autos para afirmar que o valor se revelava excessivo, reduzindo-o. Em sendo assim, não sendo o caso de manifesta irrisoriedade, descabida a modificação do quantum, pois implicaria no revolvimento do acervo fático-probatório, o que encontra óbice no enunciado da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1319708/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 8/11/2018, DJe 14/11/2018)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
