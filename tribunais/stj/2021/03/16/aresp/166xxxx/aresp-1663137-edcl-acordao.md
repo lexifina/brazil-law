@@ -1,0 +1,80 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE.
+1. Hipótese em que o acórdão embargado concluiu: a) com efeito, a jurisprudência do Superior Tribunal de Justiça é pacífica em reconhecer o direito do portador de visão monocular de inscrever-se em concurso público dentro do número de vagas reservadas a deficientes físicos. Incide, no caso, a Súmula 377 do STJ: "O portador de visão monocular tem direito de concorrer, em concurso público, às vagas reservadas aos deficientes."; b) contudo, o Tribunal de origem, à luz das provas dos autos, notadamente da perícia médica, concluiu que a recorrente "não constatou a alegada deficiência visual apta a justificar a participação no certame disputando vaga reservada a portadores de necessidades especiais" (fl. 388, e-STJ); c) desse modo, o acolhimento da pretensão recursal exige reexame do conjunto fático-probatório, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial; e d) além disso, averiguar as conclusões da perícia e dar-lhes aplicação judicial contrária à que deu a Corte de origem também requer revolvimento do conjunto fático-probatório, inadmissível conforme a Súmula 7/STJ.
+2. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, mas os Aclaratórios não se prestam a esse fim.
+3. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão da Segunda Turma do STJ assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO. CONCORRÊNCIA ESPECIAL DE DEFICIENTES. VISÃO MONOCULAR. TRIBUNAL A QUO, COM BASE NAS PROVAS E NA PERÍCIA MÉDICA, CONCLUIU QUE A CANDIDATA NÃO SE ENQUADRA NO ART. 4º DO DECRETO FEDERAL 3.298/1999. ALTERAÇÃO DO JULGADO. INVIABILIDADE. SÚMULA 7/STJ.
+1. Com efeito, a jurisprudência do Superior Tribunal de Justiça é pacífica em reconhecer o direito do portador de visão monocular de inscrever-se em concurso público dentro do número de vagas reservadas a deficientes físicos. Incide, no caso, a Súmula 377 do STJ: "O portador de visão monocular tem direito de concorrer, em concurso público, às vagas reservadas aos deficientes." 2. Contudo, o Tribunal de origem, à luz das provas dos autos, notadamente da perícia médica, concluiu que a recorrente "não constatou a alegada deficiência visual apta a justificar a participação no certame disputando vaga reservada a portadores de necessidades especiais" (fl. 388, e-STJ).
+3. Desse modo, o acolhimento da pretensão recursal exige reexame do conjunto fático-probatório, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial.
+4. Além disso, averiguar as conclusões da perícia e dar-lhes aplicação judicial contrária à que deu a Corte de origem também requer revolvimento do conjunto fático-probatório, inadmissível conforme a Súmula 7/STJ.
+5. Agravo Interno não provido.
+Nos Aclaratórios, a embargante sustenta, em suma:
+(..), a r. decisão foi omissa quanto aos pontos delineados abaixo, o que justifica a oposição dos presentes embargos.
+(..)
+A. OMISSÃO QUANTO AO RECONHECIMENTO NO PRÓPRIO ACÓRDÃO. POSSIBILIDADE DE REVALORAÇÃO DE PROVAS .
+FATOS DELINEADOS NO ACÓRDÃO REC ORRIDO.
+Em que pesem os argumentos desenvolvidos no v.
+acórdão recorrido, verifica-se que o recurso de agravo interno interposto pela ora EMBARGANTE apresentou relevantes fundamentos para a reforma da decisão agravada.
+Consoante restou demonstrado nas razões recursais, o v. ACÓRDÃO RECORRIDO se pronunciou sobre toda a matéria de fato constante dos autos, não sendo necessária o revolvimento da matéria fática por esse Colendo Superior Tribunal, mas tão somente a revaloração das provas consignadas no ACÓRDÃO, admitida em sede de recurso especial.
+Veja-se que a revaloração da prova não implica, necessariamente, na análise do conjunto fático probatório dos autos, mas, sim, na verificação da desobediência de norma que determina o valor que a prova pode ter, evidenciando uma dupla ilegalidade observada na valoração equivocada da prova, em conjunto com a qualificação errônea dos fatos.
+In casu, alegou-se a violação aos artigos 139, inciso IX e 480 do CPC, tendo em vista que a sentença e o próprio v. acórdão recorrido expressamente reconheceram o vício na perícia, razão pela qual seria necessário a realização de nova perícia ou, caso fosse desconsiderada, que o tribunal de origem fundamentasse em outras provas carreadas aos au tos, o que não ocorreu.
+(..)
+Assim, em razão de vício incontroverso reconhecido pelas instancias ordinárias, trata-se de recurso que visa atribuir o devido valor jurídico a tal fato incontroverso , aplicando-se os comandos dos artigos 139, inciso IX e 480 do CPC.
+Da mesma forma, em relação a violação aos artigos 3 e 4 do Decreto n. 3.298/1999, verifica-se que o próprio v.
+acórdão recorrido registrou que a RECORRENTE possui acuidade visual de 20/200. Assim, trata-se de acuidade incontroversa e que restou expressamente registrada no v.
+acórdão.
+Portanto, a análise do recurso depende tão somente na conferência se a acuidade registrada no acórdão pode ser enquadrada na definição de deficiente visual da legislação citada.
+(..)
+Ainda, verifica-se que o contexto fático-probatório restou bem ventilado pelo v. ACÓRDÃO, não necessitando do revolvimento dos fatos por este Col. Superior Tribunal de Justiça para dirimir a questão (fls. 518-520, e-STJ).
+Pleiteia, ao final, o provimento do presente recurso com efeitos modificativos.
+A União apresentou impugnação à fl. 528, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REDISCUSSÃO DA CONTROVÉRSIA. IMPOSSIBILIDADE.
+1. Hipótese em que o acórdão embargado concluiu: a) com efeito, a jurisprudência do Superior Tribunal de Justiça é pacífica em reconhecer o direito do portador de visão monocular de inscrever-se em concurso público dentro do número de vagas reservadas a deficientes físicos. Incide, no caso, a Súmula 377 do STJ: "O portador de visão monocular tem direito de concorrer, em concurso público, às vagas reservadas aos deficientes."; b) contudo, o Tribunal de origem, à luz das provas dos autos, notadamente da perícia médica, concluiu que a recorrente "não constatou a alegada deficiência visual apta a justificar a participação no certame disputando vaga reservada a portadores de necessidades especiais" (fl. 388, e-STJ); c) desse modo, o acolhimento da pretensão recursal exige reexame do conjunto fático-probatório, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial; e d) além disso, averiguar as conclusões da perícia e dar-lhes aplicação judicial contrária à que deu a Corte de origem também requer revolvimento do conjunto fático-probatório, inadmissível conforme a Súmula 7/STJ.
+2. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, mas os Aclaratórios não se prestam a esse fim.
+3. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 2 de fevereiro de 2021.
+Tratando-se de recurso de fundamentação vinculada, o conhecimento dos Aclaratórios pressupõe que a parte demonstre haver, pelo menos, um dos vícios previstos no art. 1.022 do CPC/2015, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Por meio do acórdão embargado, a Segunda Turma não conheceu do Recurso Especial da ora embargante, com os seguintes fundamentos:
+Conforme assentado na decisão monocrática, a jurisprudência do Superior Tribunal de Justiça é pacífica em reconhecer o direito do portador de visão monocular de inscrever-se em concurso público dentro do número de vagas reservadas a deficientes físicos. Incide, no caso, a Súmula 377 do STJ: "O portador de visão monocular tem direito de concorrer, em concurso público, às vagas reservadas aos deficientes." Contudo, o Tribunal de origem, à luz das provas dos autos, notadamente da perícia médica, concluiu:
+Ao que consta dos autos, a requerente participou de concurso público, na quota reservada a deficientes, ao argumento de que é portadora de visão monocular, tendo sido excluída pela perícia médica, razão por que pugna pela cassação do laudo médico elaborado pela organização do certame.
+O Decreto n. 3.298/1999 estabelece, em seu art. 3º, que:
+I - deficiência - toda perda ou anormalidade de uma estrutura ou função psicológica, fisiológica ou anatômica que gere incapacidade para o desempenho de atividade, dentro do padrão considerado normal para o ser humano;
+II - deficiência permanente - aquela que ocorreu ou se estabilizou durante um período de tempo suficiente para não permitir recuperação ou ter probabilidade de que se altere, apesar de novos tratamentos; e III - incapacidade - uma redução efetiva e acentuada da capacidade de integração social, com necessidade de equipamentos, adaptações, meios ou recursos especiais para que a pessoa portadora de deficiência possa receber ou transmitir informações necessárias ao seu bem-estar pessoal e ao desempenho de função ou atividade a ser exercida.
+O art. 4º desse Decreto, com as alterações inseridas pelo Decreto n. 5.296/2004, esclarece o que deve ser entendido por deficiência, nos seguintes termos:
+(..)
+III - deficiência visual - cegueira, na qual a acuidade visual é igual ou menor que 0,05 no melhor olho, com a melhor correção óptica; a baixa visão, que significa acuidade visual entre 0,3 e 0,05 no melhor olho, com a melhor correção óptica; os casos nos quais a somatória da medida do campo visual em ambos os olhos for igual ou menor que 60º; ou a ocorrência simultânea de quaisquer das condições anteriores; (Redação dada pelo Decreto nº 5.296, de 2004) (..) A jurisprudência pátria, contudo, em reiteradas oportunidades, já manifestou entendimento no sentido de que o portador de visão monocular deve ser considerado deficiente físico, dando ensejo, inclusive, à edição da Súmula n. 377 do Superior Tribunal de Justiça, do seguinte teor: "O portador de visão monocular tem direito de concorrer, em concurso público, às vagas reservadas aos deficientes".
+(..) De igual forma, a Súmula n. 45 da Advocacia -Geral da União disciplinou a matéria para pontificar que: "Os benefícios inerentes à Política Nacional para a Integração da Pessoa Portadora de Deficiência devem ser estendidos ao portador de visão monocular, que possui direito de concorrer, em concurso público, à vaga reservada aos deficientes." Ocorre que, na hipótese, como já foi anteriormente mencionado, a conclusão a que chegou a perita judicial, ao classificar a patologia apresentada pela demandante como "Baixa Visão Severa em olho esquerdo H54.5" (fl. 185), está em sintonia com a declaração da banca examinadora, que não constatou a alegada deficiência visual apta a justificar a participação no certame disputando vaga reservada a portadores de necessidades especiais (fls. 386-388, e-STJ).
+Desse modo, o acolhimento da pretensão recursal exige reexame do conjunto fático-probatório, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do Recurso Especial.
+Além disso, averiguar as conclusões da perícia e dar-lhes aplicação judicial contrária à que deu a Corte de origem também requer revolvimento do conjunto fático-probatório, inadmissível conforme a Súmula 7/STJ.
+Nessa linha:
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ESCREVENTE TÉCNICO JUDICIÁRIO DO TJSP. VAGAS DESTINADAS A PORTADORES DE NECESSIDADES ESPECIAIS. INEXISTÊNCA DE PROVA PRÉ-CONSTITUÍDA DE QUE A PATOLOGIA DA CANDIDATA SE
+ENQUADRA NO ART. 4º DO DECRETO FEDERAL 3.298/99. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. Da documentação acostada aos autos não é possível desconstituir os laudos médicos elaborados pela comissão do certame, que atestaram boa mobilidade ortopédica e boa acuidade visual em ambos os olhos.
+2. Assim, considerando que não restou comprovado que a patologia da candidata se enquadra no art. 4º do Decreto Federal 3.298/99, bem como que o rito do mandado de segurança não permite dilação probatória, não há como prosperar a presente insurgência.
+3. Agravo interno não provido.
+(AgInt no RMS 54.900/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/09/2019, DJe 25/09/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. CONCURSO PÚBLICO. CONCORRÊNCIA ESPECIAL DE DEFICIENTES. CANDIDATO COM VISÃO MONOCULAR. PERÍCIA JUDICIAL. DESENQUADRAMENTO. DECRETO 3.298/1999. VIOLAÇÃO A NORMATIVOS FEDERAIS. DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE REVISÃO DO ACERVO PROBATÓRIO. SÚMULA 07/STJ.
+1. Não se conhece do recurso especial interposto contra acórdão que indeferiu a pretensão de candidato consistente em figurar em concorrência especial de pessoas com deficiência, quando fundado em perícia judicial que concluiu pela inexistência de visão monocular no interessado.
+2. Agravo interno não provido.
+(AgInt no AREsp 1125556/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/11/2017, DJe 27/11/2017).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+(..)
+Por tudo isso, nego provimento ao Agravo Interno.
+Não verifico na espécie sub judice nenhuma omissão, obscuridade, contradição ou o erro de fato, senão o intuito da parte embargante de rediscutir matéria já decidida, atribuindo aos Embargos efeito infringente, o que é incabível nesta via.
+Ressalta-se que os temas submetidos ao crivo do Superior Tribunal de Justiça pela recorrente foram analisados, embora tenha-se firmado entendimento em sentido contrário ao da embargante, situação que, entretanto, não autoriza a oposição de Embargos de Declaração.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ademais, não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nessa senda: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13/08/2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28/06/2007.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no art. 1.026, § 2º , do CPC/2015.
+É como voto.
