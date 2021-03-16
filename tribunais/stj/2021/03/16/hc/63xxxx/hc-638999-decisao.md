@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DANIEL JOSE DA SILVA contra acórdão do Tribunal de Justiça do Estado de São Pauloproferido no HC n.2277348-81.2020.8.26.0000.
+Consta dos autos que o Pacientefoi preso em flagrante, em 24/09/2020, pela suposta prática do crime de roubo majorado. A prisão em flagrante foi convertida em preventiva no dia seguinte (fls. 85-89).
+O pedido de revogação da prisão foi indeferido em 16/12/2020 (fls. 168-169).
+A Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 15-42).
+Neste writ, o Impetrante sustenta, em suma, a inexistência de fundamentação idônea e dos requisitos autorizadores para a decretação da prisão preventiva.
+Aduz, ainda, que o Tribunal acrescentou fundamentação ao denegar a ordem.
+Requer, em liminar e no mérito, a revogação da custódia com ou sem a imposição de medidas cautelares alternativas.
+O pedido liminar foi indeferido pelo Exmo. Ministro HUMBERTO MARTINS, no exercício da Presidência (fls. 173-174).
+Foram prestadas informações às fls. 179-187.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 192-195).
+É o relatório. Decido.
+O Juízo de origemconverteu a prisão em flagrante em preventiva com base na seguinte fundamentação (fls. 87-89; sem grifos no original):
+"A prisão preventiva será determinada somente quando as outras cautelares se mostrarem insuficientes ou inadequadas para o caso (art. 282, § 6º,do Código de Processo Penal).
+Ainda, em se tratando de crime punido com pena privativa de liberdade máxima superior a 04 (quatro) anos, é permitida a prisão preventiva, nos termos do artigo 313, do CPP, situação esta que se amolda ao fato apurado nos autos, visto que os indiciados foram presos em flagrante pelo cometimento de crime de roubo com uso de grave ameaça exercida com o emprego de arma de fogo e em comparsaria, que tem pena máxima acima de 10 (dez) anos de reclusão.
+Destaco, ainda, que o delito, em tese, praticado pelos indiciados é considerado hediondo.
+Consta do boletim de ocorrência que logo após o cometimento do delito, a vítima seguiu um dos investigados e informou à polícia o local onde ele havia se escondido.
+Logo em seguida, a polícia foi ao local indicado e encontrou Daniel. Ele informou onde o celular roubado havia sido descartado e onde a polícia encontraria o seu comparsa Janderson.
+De fato, no local indicado por Daniel o aparelho roubado foi encontrado e, deste modo, devolvido à vítima. O seu comparsa, o indicado Janderson foi encontrado no local informado e preso em flagrante.
+Já em sede policial a vítima conseguiu reconhecer os dois indivíduos detidos como sendo os responsáveis pela prática do roubo. Disse ainda que foi utilizada uma arma de fogo (pistola) para a prática do crime.
+Assim, o delito cuja autoria é imputada aos investigados impõe a necessidade da custódia cautelar, para se garantir a ordem pública, nos termos do art. 312 do Código de Processo Penal. Além disso, a custódia é compatível com a situação individualizada dos investigados.
+Não se olvida que o art. 4º, inciso III, da Recomendação 62 do Conselho Nacional de Justiça orienta "a máxima excepcionalidade de novas ordens de prisão preventiva, observado o protocolo das autoridades sanitárias", bem como que o art. 8º, inciso I, alínea"c", da mesma Recomendação orienta a converter a prisão emflagrante em preventiva apenas excepcionalmente, em se tratando de crime cometido com o emprego de violência ou grave ameaça contra a pessoa e que as circunstâncias do fato indiquem a inadequação ou insuficiência das medidas cautelares diversas da prisão, observado o protocolo das autoridades sanitárias.
+Ocorre que, no caso concreto, o risco à integridade física e vida das pessoas durante a pandemia, caso concedida a liberdade aos indiciados, é evidente, haja vista que o crime foi praticado com ameaça à pessoa, mediante o uso de arma de fogo, e em comparsaria."
+O Tribunal estadualdenegou a ordem nos seguintes termos (fl. 17):
+"Com efeito, há indícios de autoria, tanto que foi oferecida e recebida a denúncia e o paciente está sendo acusado da prática de crime que apresenta gravidade in concreto, pois teria subtraído o celular da vítima, em concurso de agentes e mediante grave ameaça exercida com emprego de arma de fogo, o que demonstra que, em liberdade, representa risco à ordem pública.
+Consequentemente, as medidas cautelares alternativas não seriam suficientes e adequadas à hipótese (art. 282, I e II, do CPP), bem como perde relevância a existência de predicados pessoais favoráveis.
+Ressalte-se que a não apreensão da arma de fogo empregada no delito não tem o condão de infirmar a prisão preventiva."
+Constato que a custódia cautelarfoi devidamente fundamentada para a garantia da ordem pública, tendo em vista que o Pacientecometeu o crime de roubo na companhia de um comparsa e mediante grave ameaça exercida com o emprego de arma de fogo. A periculosidade demonstrada na ação delitiva evidencia a necessidade do seu encarceramento.
+Nesse sentido:
+"1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs delineou o modus operandi empregado pelo paciente, consistente em roubo tentado majorado pelo concurso de agentes, emprego de arma de fogo e restrição da liberdade das vítimas. Tais circunstâncias denotam sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.  .. " (HC 597.638/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 27/10/2020, REPDJe 12/11/2020, DJe 03/11/2020; sem grifos no original.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO DESPROVIDO.
+1. Nos termos do art. 312 do CPP, a prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado.
+2. Ademais, segundo o disposto no art. 387, § 1º, do CPP, quando da prolação da sentença, o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar
+3. In casu, a segregação cautelar encontra-se suficientemente fundamentada na necessidade de garantia da ordem pública, diante do modus operandi com o qual o delito teria sido praticado, pois os agravantes, em concurso de agentes e mediante emprego de arma de fogo, teriam prolongado a ação criminosa e mantido as vítimas reféns, aguardando dentro da agência o tempo necessário para que o cofre, equipado com fechadura de retardo, fosse aberto.  ..
+5. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa e a periculosidade dos agravantes indicam que a ordem pública não estaria acautelada com a soltura deles.
+6. Agravo regimental não provido." (AgRg no RHC 133.868/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 17/11/2020, DJe 23/11/2020; sem grifos no original.)
+"2. A prisão preventiva está suficientemente fundamentada na necessidade de garantir a ordem pública, diante da gravidade concreta da conduta delituosa, já que se trata de roubo praticado em concurso de agentes, com o emprego de arma de fogo e restrição da liberdade da vítima.  ..  7. Writ não conhecido." (HC 611.671/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/10/2020, DJe 22/10/2020; sem grifos no original.)
+Nessa conjuntura, as medidas cautelares alternativas à prisão não se mostram suficientes para o resguardo da ordem pública.
+A propósito: " m ostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes" (HC 550.211/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 10/03/2020, DJe 17/03/2020).
+Por fim, registro que o Tribunal nãoacrescentou fundamentação para manter a custódia, pois, conforme trechos do acórdãoacima transcritos, foram destacadosdados concretos já apresentadospelo Juízo de primeira instância.
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO MAJORADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CRIME COMETIDO NA COMPANHIA DE UM COMPARSA E MEDIANTE GRAVE AMEAÇA EXERCIDA COM EMPREGO DE ARMA DE FOGO. PERICULOSIDADE. FUNDAMENTAÇÃO IDÔNEA.AUSÊNCIA DE ACRÉSCIMO DE FUNDAMENTAÇÃO NO ACÓRDÃO IMPUGNADO. ORDEM DENEGADA.
