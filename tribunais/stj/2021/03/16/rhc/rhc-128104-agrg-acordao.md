@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas, Joel Ilan Paciornik e Felix Fischer votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. COVID-19. RECOMENDAÇÃO CNJ N. 62/2020. NÃO COMPROVAÇÃO DE ILEGALIDADE. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal
+2. Os maus antecedentes e a reincidência evidenciam o maior envolvimento do agente com a prática delitiva, podendo ser utilizados para justificar a manutenção da segregação cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva.
+3. A Recomendação CNJ n. 62/2020 não prescreve a flexibilização da medida extrema da prisão de forma automática, sendo indispensável a demonstração do inequívoco enquadramento do preso no grupo de vulneráveis à covid-19, da impossibilidade de receber tratamento médico na unidade carcerária em que se encontra e da exposição a maior risco de contaminação no estabelecimento prisional do que no ambiente social.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUCAS DE OLIVEIRA SILVA contra a decisão de fls. 626-629, que negou provimento ao recurso em habeas corpus.
+O agravante foi condenado à pena de 11 anos de reclusão em regime inicial fechado pela prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006 e 1º, § 1º, da Lei n. 9.613/1998, vedado o direito de recorrer em liberdade.
+O decreto prisional fundou-se nos maus antecedentes do recorrente, na ausência de vínculo com o distrito da culpa e no fato de estar foragido (fls. 527-536).
+O agravante reafirma a tese lançada na inicial, no sentido de que não há fundamentação idônea para a manutenção da prisão cautelar, bem como de que integragrupo de risco da covid-19, nos termos da Recomendação CNJ n. 62/2020, por sofrer de bronquite asmática.
+Requer a reconsideração da decisão ou a submissão do recurso a julgamento para que seja concedida a liberdade provisória.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. COVID-19. RECOMENDAÇÃO CNJ N. 62/2020. NÃO COMPROVAÇÃO DE ILEGALIDADE. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal
+2. Os maus antecedentes e a reincidência evidenciam o maior envolvimento do agente com a prática delitiva, podendo ser utilizados para justificar a manutenção da segregação cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva.
+3. A Recomendação CNJ n. 62/2020 não prescreve a flexibilização da medida extrema da prisão de forma automática, sendo indispensável a demonstração do inequívoco enquadramento do preso no grupo de vulneráveis à covid-19, da impossibilidade de receber tratamento médico na unidade carcerária em que se encontra e da exposição a maior risco de contaminação no estabelecimento prisional do que no ambiente social.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada merece ser mantida.
+Reitere-se que a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 455-456):
+Após análise minuciosa dos autos, tenho que a decisão do douto magistrado a quo, pelo decreto e mantença da segregação cautelar do paciente se revela acertada e está lastreada em elementos concretos, extraídos das informações e provas contidas nos autos. ..
+O fumus commissi delicti restou evidenciado a partir da vasta documentação do inquérito policial (fls. 348/370), que aponta o suposto envolvimento do mesmo nos delitos de lavagem de dinheiro, tráfico de drogas e associação para o tráfico, bem como o fato dele ter sido condenado em primeiro grau, tendo as penas somadas em um total de 11 anos de reclusão, em regime inicial fechado.
+Por outro lado, o periculum libertatis encontra respaldo na aplicação da lei penal, uma vez que segundo o juízo de primeiro grau, não há informações de vínculo do paciente com o distrito da culpa, podendo ele evadir do local. Além disso, ele possui diversos registros, de acordo com FAC (fls. 300/312), sendo muitos deles relacionados com o tráfico de entorpecentes.
+O entendimento acima está em consonância com a jurisprudência do STJ de que a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ressalte-se ainda que o fato de o agravante estar foragido, pois, até o presente momento, o mandado de prisãonão foi cumprido, reforça que a medida extrema é indispensável para assegurar a aplicação da lei penal (AgRg no HC n. 616.706/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/11/2020).
+Ademais, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do recorrente não impedem a prisão preventiva quando presentes os requisitos legais para sua decretação, como ocorreu no caso.
+No que diz respeito à alegada aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, ao contrário do alegado,o Tribunal a quoafirmou que o agravante "não se encontra no grupo de risco" (fl. 457).
+Para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em recurso em habeas corpus.Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Portanto, o agravante não apresentou argumentos novos capazes de infirmar o decisum impugnado, que deve ser mantido.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
