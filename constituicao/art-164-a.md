@@ -1,0 +1,2 @@
+Art. 164-A. A União, os Estados, o Distrito Federal e os Municípios devem conduzir suas políticas fiscais de forma a manter a dívida pública em níveis sustentáveis, na forma da lei complementar referida no inciso VIII do caput do art. 163 desta Constituição.
+Parágrafo único. A elaboração e a execução de planos e orçamentos devem refletir a compatibilidade dos indicadores fiscais com a sustentabilidade da dívida.
