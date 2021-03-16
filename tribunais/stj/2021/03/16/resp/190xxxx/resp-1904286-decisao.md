@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o acórdão prolatado pelo Tribunal de Justiça daquela Unidade Federativa na Apelação Criminal n.1.0082.18.001177-5/001.
+Consta dos autos que o Juízo de primeiro grau condenou o Recorrido às penas de 4 (quatro) anos de reclusão, em regime inicial semiaberto, e pagamento de 26 (vinte e seis) dias-multa, como incurso no art. 155, §§ 1.º e 4.º, inciso I, do Código Penal. Houve apelação somente defensiva, a que o Tribunal de origem deu provimento, a fim de excluir as qualificadoras do rompimento de obstáculo e do repouso noturno e, ainda, reduzir a pena-base, ficando as penas redimensionadas para 1 (um) ano, 1 (um) mês e 15 (quinze) dias de reclusão e 11 (onze) dias-multa, mantido o regime inicial intermediário. O acórdão ficou assim ementado (fl. 230):
+"EMENTA: APELAÇÃO - FURTO QUALIFICADO MAJORADO - AFASTAMENTO DA QUALIFICADORA DO ROMPIMENTO DE OBSTÁCULO - NECESSIDADE - AUSÊNCIA DE LAUDO - AFASTAMENTO DA CAUSA DE AUMENTO DE PENA DO REPOUSO NOTURNO - NECESSIDADE - AUSÊNCIA DE PESSOA REPOUSANDO - REDUÇÃO DAS PENAS - CABIMENTO. Por se tratar de crime que deixa vestígios, é imprescindível a realização de exame pericial para a caracterização do furto qualificado por rompimento de obstáculo, salvo quando os sinais desaparecerem ou as circunstâncias do delito não permitirem a confecção do laudo, exceções que não ocorreram no caso concreto. A majorante do repouso noturno não se caracteriza com base apenas no horário. E preciso, ainda, que os fatos aconteçam em local habitado. A pena-base deve ser revista e consequentemente reduzida sempre que uma ou mais circunstâncias judiciais forem indevidamente valoradas como negativas."
+Alega o Recorrente a violação do art. 155, § 1.º, do Código Penal, sustentando ser possível a incidência do qualificadora do repouso noturno, mesmo no caso de furto praticado contra estabelecimento comercial ou residência desabitada.
+Pede o provimento do recurso, com o restabelecimento da majorante.
+Oferecidas contrarrazões (fls. 259-266), admitiu-se o recurso na origem (fls. 267-269).
+O Ministério Público Federal manifesta-se pelo provimento do recurso especial (fls. 280-284).
+É o relatório.
+Decido.
+O Tribunal de origem, ao excluir a causa de aumento do repouso noturno, assim fundamentou (fl. 234):
+" .. impõe-se o afastamento da majorantedo repouso noturno.
+  que a simples circunstância de o delito de furto ocorrer durante a noite não é o bastante para a configuração da majorante do repouso noturno que exige, ainda, que o local do delito seja habitado e que as pessoas que ali se encontram estejam, no momento do crime, repousando, o que não se verifica na espécie"
+Segundo ajurisprudência do Superior Tribunal de Justiça, é possível a aplicação da causa de aumento do repouso noturno,em caso de furto praticado contra estabelecimento empresarial ou mesmo em via pública. Partindo da mesma ratio decidendi, concluiu-se se cabível a aplicação da qualificadora ao furto praticado durante o repouso noturno, contra órgão da Administração Pública, no caso, uma unidade pública de saúde (Posto de Saúde Familiar).
+Sobre o tema, mutatis mutandis:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. AFASTAMENTO DA QUALIFICADORA DO ROMPIMENTO OBSTÁCULO. EXAME PERICIAL INDIRETO. PROVA IDÔNEA. REVISÃO DO LAUDO. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. MAJORANTE DO REPOUSO NOTURNO. ESTABELECIMENTO EMPRESARIAL. ADMISSIBILIDADE. AGRAVO IMPROVIDO.
+ ..
+3. O Superior Tribunal de Justiça tem-se manifestado no sentido da incidência da majorante prevista no art. 155, § 1º, do Código Penal, mesmo na hipótese de furto praticado durante o repouso noturno em estabelecimento comercial vazio.
+4. Agravo regimental improvido." (AgRg no REsp 1.847.131/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 15/05/2020.)
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO PRATICADO DURANTE REPOUSO NOTURNO. PRETENSÃO DE AFASTAMENTO DA CAUSA DE AUMENTO DO ART. 155, § 1º, DO CÓDIGO PENAL. CRIME OCORRIDO EM ESTABELECIMENTO COMERCIAL. IRRELEVÂNCIA. PRECEDENTES. SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Para a configuração da circunstância majorante do § 1º do art. 155 do Código Penal, basta que a conduta delitiva tenha sido praticada durante o repouso noturno, dada a maior precariedade da vigilância e a defesa do patrimônio durante tal período, e, por consectário, a maior probabilidade de êxito na empreitada criminosa, sendo irrelevante o fato das vítimas não estarem dormindo no momento do crime, ou, ainda, que tenha ocorrido em estabelecimento comercial ou em via pública, dado que a lei não faz referência ao local do crime.
+ ..
+3. Agravo regimental a que se nega provimento." (AgRg no AREsp 1.234.013/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/08/2018, DJe 03/09/2018.)
+Passo ao redimensionamento das penas.
+A pena-base foi fixada em 1 (um) ano, 1 (um) mês e 15 (quinze) dias de reclusão e 11 (onze) dias-multa. Na segunda fase, houve a compensação da confissão com a reincidência. Pela causa de aumento do art. 155, § 1.º, do Código Penal, as reprimendas são majoradas em 1/3 (um terço), tornando-se definitivas em 1 (um) ano e 6 (seis) meses de reclusão e 14 (catorze) dias-multa, sendo mantidas as demais cominações do acórdão recorrido.
+Ante o exposto, DOU PROVIMENTO ao recurso especial para aplicar a causa de aumento do repouso noturno, ficando as penas redimensionadas nos termos da presente decisão.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. FURTO. VÍTIMA. ÓRGÃO DA ADMINISTRAÇÃO PÚBLICA (POSTO DE SAÚDE FAMILIAR). CAUSA DE AUMENTO. REPOUSO NOTURNO. APLICAÇÃO. POSSIBILIDADE. RECURSO ESPECIAL PROVIDO.
