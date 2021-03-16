@@ -1,0 +1,61 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por Agropecuária Dourados S.A. contra decisão de fls. 328-329 quedeterminou a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, sejam tomadas as providências previstas nos arts. 1.040 e.1.041 do CPC/2015.
+Nas razões recursais (fls. 333-335), a parte embargante alega omissão na decisão embargada quanto aos temas 1.046 e 1.076 não possuírem determinação de suspensão nacional, bem como omissão quanto ao não conhecimento do agravo em recurso especial ante a Súmula 182 do STJ, além da falta de prequestionamento e necessidade de reexame de provas que obstam o recurso especial trancado. Pede o acolhimento dos embargos de declaração.
+Decido.
+2. De início, observa-se que o art. 1.022, e seus incisos, do CPC/2015, claramente prescrevem as quatro hipóteses de cabimento dos embargos de declaração, tratando-se de recurso de fundamentação vinculada, restrito a situações em que patente a existência de (1) obscuridade, (2) contradição, (3) omissão no julgado, incluindo-se nesta última as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida, e por derradeiro, (4) o erro material.
+Nenhum desses vícios se faz presente na decisão ora embargada.
+Na espécie, a parte embargante, sob alegação de omissão, busca afastar o sobrestamento do feito, com a pretensão de não ser conhecido o agravo ou o recurso especial.
+Embora o órgão julgador não tenha determinado a suspensão nacional dos processos que versem sobre idêntica questão nos Temas Repetitivos nº 1.046 e 1.076, é possível ao relator, levando em consideração razões de economicidade processual, aprecie o recurso apenas quando exaurida a competência das instâncias ordinárias, na forma do artigo 1.040, II e III, do CPC/2015 e 34, XXIV, do RISTJ.
+No mesmo sentido, em situação semelhante a dos autos:AREsp 1.773.927-MA, Rel. Ministro Sérgio Kukina, in DJe 02.03.2021; REsp 1.918.146-SP, Rel. Ministro Paulo de Tarso Sanseverino, in DJe 23.02.2021;AREsp 1.772.644-SP, Rel. Ministro Raul Araújo, in DJe02.03.2021; REsp 1.866.724-PE, Rel. Ministro Francisco Falcão, in DJe 02.04.2020; e, AgInt no REsp nº 1.816.619-DF, Rel. Ministra Assusete Magalhães, in DJe 01.04.2020.
+Ademais, o procedimento adotado na decisão embargada quanto à devolução dos autos encontra respaldo no art. 256-L do Regimento Interno deste Tribunal Superior, introduzido pela Emenda Regimental n. 24, de 28/9/2016, que assim dispõe:
+Art. 256-L. Publicada a decisão de afetação, os demais recursos especiais em tramitação no STJ fundados em idêntica questão de direito:
+I - se já distribuídos, serão devolvidos ao Tribunal de origem, para nele permanecerem suspensos, por meio de decisão fundamentada do relator;
+II - se ainda não distribuídos, serão devolvidos ao Tribunal de origem por decisão fundamentada do Presidente do STJ.
+Nessa linha:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE CONTA CORRENTE.EXISTÊNCIA DE AFETAÇÃO PARA JULGAMENTO REPETITIVO. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA DEVOLUÇÃO. ENTENDIMENTO FIRMADO NA CORTE ESPECIAL DO STJ.
+1. Ação revisional de contrato de conta corrente.
+2. O art. 256-L, caput, do Regimento Interno do STJ determina a devolução dos autos ao Tribunal de origem, para nele permanecerem suspensos.
+3. A Corte Especial do STJ reafirmou o entendimento no sentido da devolução com fundamento, tanto no art. 256-L do Regimento Interno do STJ, como do art. 1.037 do CPC/2015, mesmo no julgamento de embargos de declaração. Nesse sentido: EAREsp 380.796/RS, Corte Especial, DJe 17/12/2018; AgInt nos EREsp 1.635.236/SE, Corte Especial, DJe 31/5/2019.
+4. Embargos de declaração acolhidos para tornar sem efeitos as decisões e votos proferidos nesta Corte; considerar prejudicados os recursos interpostos nesta Corte, e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia ou repetitivo: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+(EDcl no AgInt no AREsp 1622495/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/10/2020, DJe 21/10/2020)(g.n.)
+____________
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA AFETADA A JULGAMENTO REPRESENTATIVO DE CONTROVÉRSIA. TEMA N. 1.016/STJ. NECESSIDADE DE BAIXA DOS AUTOS À ORIGEM. ART. 1040 DO CPC C.C ART. 456-L DO RISTJ.EMBARGOS ACOLHIDOS.
+1. Nos termos do art 1.040 do CPC e art. 256-L do RISTJ, devem os autos retornarem ao Tribunal de origem a fim de aguardar a conclusão do julgamento de questão afetada como sendo representativa de controvérsia.
+2. Conforme entendimento da Corte Especial, deve tal providência ser tomada mesmo em sede de embargos de declaração, não havendo que se falar em inovação recursal - EAREsp 380.796/RS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 15/08/2018, DJe 17/12/2018.
+3. Embargos acolhidos para tornar sem efeito as decisões e votos proferidos nesta Corte, considerados prejudicados os recursos interpostos e determinar a devolução dos autos ao Tribunal de origem, com a devida baixa.
+(EDcl no AgInt nos EDcl no AREsp 1409167/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/12/2019, DJe 16/12/2019)(g.n.)
+____________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CUMULAÇÃO DE CLÁUSULA PENAL E LUCROS CESSANTES. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS. DECISÃO IRRECORRÍVEL. AGRAVO NÃO CONHECIDO.
+1. Verificada a identidade das questões discutidas no recurso especial e nos recursos representativos de controvérsia, deve ser observado o procedimento previsto no art. 256-L do RISTJ, o qual, para os recursos distribuídos, determina a devolução dos autos à Corte de origem, a fim de que ali aguardem, suspensos, o julgamento definitivo da matéria repetitiva.
+2. Conforme entendimento sedimentado no STJ, é irrecorrível a decisão que determina a devolução dos autos ao Tribunal de origem, a fim de aguardar o julgamento de matéria submetida ao rito dos recursos repetitivos. Precedentes.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 411.892/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/10/2017, DJe 20/10/2017)(g.n.)
+_____________
+PROCESSO CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. APLICAÇÃO DA REPETIÇÃO EM DOBRO PREVISTA NO ART. 42, PARÁGRAFO ÚNICO, DO CDC. TEMA Nº 929. MATÉRIA SUBMETIDA A RECURSO REPETITIVO. SUSPENSÃO. SOBRESTAMENTO NA ORIGEM. RETORNO DOS AUTOS. ART. 256-L DO RISTJ. DECISÃO IRRECORRÍVEL. AUSÊNCIA DE PREJUÍZO. RECURSO MANIFESTAMENTE INADMISSÍVEL. AGRAVO NÃO CONHECIDO.
+1. Inaplicabilidade do NCPC neste julgamento ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+2. A decisão que determina a devolução dos autos à instância de origem, para que lá permaneça sobrestado o recurso especial que versa sobre matéria submetida ao procedimento dos recursos repetitivos, está amparado no artigo 256-L do RISTJ, introduzido pela Emenda Regimental nº 24, de 28/9/2016.
+3. Esta Corte Superior é firme na orientação de ser incabível agravo contra provimentos jurisdicionais desse jaez, porque o sobrestamento em referência não possui o condão de acarretar qualquer prejuízo às partes, sendo, portanto, irrecorrível a decisão que o determina.
+4. Agravo regimental não conhecido.
+(AgRg no REsp 1362412/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/09/2017, DJe 13/10/2017)(g.n.)
+_____________
+Além disso, de acordo com precedentes desta Corte, é irrecorrível a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.040 e 1.041 do Código de Processo Civil de 2015, uma vez que ela não é capaz de gerar prejuízo às partes.
+A propósito,"Segundo o entendimento pacificado desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte local a fim de que lá seja exercido o competente juízo de retratação (conformação) (arts. 1.040 e 1.041 do NCPC), não possui carga decisória, por isso se trata de provimento irrecorrível"(AgInt nos EDcl no AgInt no AREsp 1505411/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/03/2020, DJe 18/03/2020).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO REPETITIVO.IRRECORRIBILIDADE DA DECISÃO QUE DETERMINA O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA AGUARDAR JULGAMENTO DE QUESTÃO REPRESENTATIVA DE CONTROVÉRSIA. AGRAVO INTERNO NÃO CONHECIDO.
+1. É irrecorrível a decisão que determina a devolução dos autos ao Tribunal de origem a fim de aguardar o julgamento de tema dos recursos repetitivos para posterior aplicação da sistemática prevista pelo art. 1.040 do CPC/2015. Precedentes.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1126047/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/02/2018, DJe 23/02/2018)(g.n.)
+_____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARRENDAMENTO MERCANTIL. LEASING. INADIMPLEMENTO. REINTEGRAÇÃO DE POSSE. VALOR RESIDUAL GARANTIDOR (VRG). FORMA DE DEVOLUÇÃO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA A OBSERVÂNCIA DA SISTEMÁTICA DOS RECURSOS REPETITIVOS. DECISÃO IRRECORRÍVEL.
+1. "Encontrando-se o acórdão a quo em contrariedade com o entendimento firmado em acórdão julgado sob a sistemática do recurso repetitivo, necessária a devolução dos autos à Corte de origem para o devido juízo de retratação, nos termos dos artigos 1.040 e 1.041 do CPC" (AgInt na PET no AREsp 644.832/GO, Rel.Ministra Nancy Andrighi, Terceira Turma, julgado em 25/04/2017, DJe 04/05/2017).
+2. "Conforme entendimento jurisprudencial adotado por esta Colenda Corte, a decisão que determina o retorno dos autor para origem, a fim de que seja observada a sistemática dos recursos repetitivos (juízo de conformação) é irrecorrível, por não se revelar capaz de gerar prejuízo às partes" (AgInt no REsp 1614945/SC, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 10/04/2018, DJe 18/04/2018).
+3. Agravo interno não conhecido.
+(AgInt no AREsp 648.276/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 11/09/2018, DJe 17/09/2018)(g.n.)
+_____________
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO QUE DETERMINA O RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA AGUARDAR JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA REPETITIVA, PARA OPORTUNA APLICAÇÃO DOS ARTIGOS 1.040 E 1.041 DO CPC/2015. AUSÊNCIA DE PREJUÍZO. IRRECORRIBILIDADE. PRECEDENTES.RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, §4º, DO CPC/2015. AGRAVO NÃO CONHECIDO.
+1. Segundo o entendimento pacificado desta Corte, o ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (artigos 1.040 e 1.041 do CPC/2015), não possui carga decisória, por isso se trata de provimento irrecorrível. . Precedentes. Recurso manifestamente inadmissível.
+2. Agravo interno não conhecido, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(AgInt no REsp 1734402/DF, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/06/2018, DJe 29/06/2018)(g.n.)
+_____________
+3. Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
