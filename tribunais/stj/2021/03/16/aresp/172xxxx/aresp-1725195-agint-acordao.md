@@ -1,0 +1,47 @@
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ICMS. TRANSMISSÃO DE GUIA DE ESCRITURAÇÃO FISCAL DIGITAL (EFD) RETIFICADA. PEDIDO DE RECEBIMENTO DA RETIFICADORA COM POSSIBILIDADE DE COMPUTAR CRÉDITO PRESUMIDO. FALTA DE PREQUESTIONAMENTO. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. EXEGESE DE LEI LOCAL. IMPOSSIBLIDADE. SÚMULA 280/STF.
+1. Não se pode conhecer da alegada violação dos arts. 926 e 927 do CPC, porquanto o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais, carecendo a matéria do necessário prequestionamento. Incide, pois, por analogia, o óbice disposto na Súmula 282/STF.
+2. Nas razões do Recurso Especial, verifica-se que o inconformismo funda-se, em verdade, na análise da legislação local - a exemplo, o Decreto Estadual 6.080/2012. Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exige avaliação de dispositivos constitucional e de legislação local, pretensão insuscetível de ser apreciada em Recurso Especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.")
+3. No presente Agravo Interno a agravante argui que "diante da superveniência do art. 2º da Lei Estadual 20.392/2020, tem-se que o direito líquido e certo da Agravante resta confirmado" (fls. 541, e-STJ). Como se vê, a análise desse argumento demanda exegese de lei local, vedada nos termos da Súmula 280/STF.
+4. O recurso não pretende aferir a interpretação da norma legal, mas a reanálise do conjunto fático-probatório dos autos. Assim, é evidente que alterar as conclusões adotadas pela Corte regional demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática que conheceu do Agravo para não conhecer do Recurso Especial (fls. 518-520, e-STJ).
+A agravante alega em síntese que a matéria foi devidamente prequestionada e que no caso dos autos não incide a Súmula 7/STJ nem a Súmula 280/STF. Ademais, defende que "diante da superveniência do art. 2º da Lei Estadual 20.392/2020, tem-se que o direito líquido e certo da Agravante resta confirmado." (fls. 541, e-STJ).
+Impugnação apresentada às fls. 567-570, e-STJ.
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. ICMS. TRANSMISSÃO DE GUIA DE ESCRITURAÇÃO FISCAL DIGITAL (EFD) RETIFICADA. PEDIDO DE RECEBIMENTO DA RETIFICADORA COM POSSIBILIDADE DE COMPUTAR CRÉDITO PRESUMIDO. FALTA DE PREQUESTIONAMENTO. CONTEXTO FÁTICO-PROBATÓRIO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. EXEGESE DE LEI LOCAL. IMPOSSIBLIDADE. SÚMULA 280/STF.
+1. Não se pode conhecer da alegada violação dos arts. 926 e 927 do CPC, porquanto o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais, carecendo a matéria do necessário prequestionamento. Incide, pois, por analogia, o óbice disposto na Súmula 282/STF.
+2. Nas razões do Recurso Especial, verifica-se que o inconformismo funda-se, em verdade, na análise da legislação local - a exemplo, o Decreto Estadual 6.080/2012. Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exige avaliação de dispositivos constitucional e de legislação local, pretensão insuscetível de ser apreciada em Recurso Especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.")
+3. No presente Agravo Interno a agravante argui que "diante da superveniência do art. 2º da Lei Estadual 20.392/2020, tem-se que o direito líquido e certo da Agravante resta confirmado" (fls. 541, e-STJ). Como se vê, a análise desse argumento demanda exegese de lei local, vedada nos termos da Súmula 280/STF.
+4. O recurso não pretende aferir a interpretação da norma legal, mas a reanálise do conjunto fático-probatório dos autos. Assim, é evidente que alterar as conclusões adotadas pela Corte regional demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 11 de fevereiro de 2021.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, não se pode conhecer da alegada violação dos arts. 926 e 927 do CPC, porquanto o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais, carecendo a matéria do necessário prequestionamento. Incide, pois, por analogia, o óbice disposto na Súmula 282/STF.
+No mais, observa-se que, nas razões de Recurso Especial, conquanto a ora agravante aponte ofensa à legislação federal, o inconformismo funda-se, em verdade, na análise da legislação local - a exemplo, o Decreto Estadual 6.080/2012.
+Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exige avaliação de dispositivos constitucional e de legislação local, pretensão insuscetível de ser apreciada em Recurso Especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.")
+Nesse sentido, confiram-se entre muitos:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ITBI. BASE DE CÁLCULO. VALOR VENAL DO IMÓVEL. INTERPRETAÇÃO DE NORMA LOCAL. SÚMULA 280/STF. FUNDAMENTO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA.
+1. O Tribunal de origem julgou procedente o pedido da contribuinte, afastando a majoração da base de cálculo do ITBI, ao fundamento de que os arts. 7º-A e 7º-B da Lei Estadual 11.154/1991 (com a redação dada pelas Lei local 14.256/2006) foram declarados inconstitucionais pelo respectivo Órgão Especial (por violação ao art. 150, I, da CF/1988 e aos princípios da reserva legal e da segurança jurídica).
+2. A tese de violação dos arts. 38, 97 e 148 do CTN não pode ser enfrentada nesta via recursal, tendo em vista que depende da obrigatória exegese de normas legais do ente federativo estadual (Súmula 280/STF).
+3. Por outro lado, há necessidade de superar o fundamento constitucional utilizado no acórdão recorrido, isto é, de que norma local infringiu dispositivos e princípios constitucionais.In casu, o Recurso Especial não constitui meio adequado para enfrentamento de matéria constitucional.
+4. Recurso Especial não conhecido. (REsp 1.793.497/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/10/2019).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ITBI. VALOR VENAL. DECRETO 46.228/05 DO MUNICÍPIO DE SÃO PAULO. INTERPRETAÇÃO. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Quanto à alegação de afronta aos arts. 33 e 38 do CTN, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Decreto Municipal 46.228/05), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF.
+2. Agravo regimental a que se nega provimento. (AgRg no AREsp 695.751/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 19/8/2015).
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. ARROLAMENTO SUMÁRIO. DISCUSSÃO ACERCA DO IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS (ITCMD) E APRESENTAÇÃO DE DOCUMENTOS AO FISCO. NÃO CABIMENTO. PEDIDO DE SOBRESTAMENTO. PROCEDIMENTO PREVISTO EM LEI LOCAL (LEI N. 10.705/2000). SÚMULA 280/STF.
+1. Consoante a pacífica jurisprudência deste Superior Tribunal, não cabe discussão sobre o ITCMD no curso do procedimento sumário de arrolamento.
+2. Quanto ao pedido de suspensão do feito até a apuração na seara administrativa do real valor devido e comprovação do respectivo pagamento, tal procedimento não se encontra previsto na lei federal,sendo defeso na via especial o exame de normas de direito local (Lei n. 10.705/2000), por incidência da Súmula 280/STF.
+3. Embargos de declaração recebidos como agravo regimental a que se nega provimento. (EDcl no AREsp 420.361/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 20/2/2014).
+Acrescenta-se que nas razões do presente Agravo Interno a agravante argui que "diante da superveniência do art. 2º da Lei Estadual 20.392/2020, tem-se que o direito líquido e certo da Agravante resta confirmado" (fls. 541, e-STJ).
+Como se vê, a análise desse argumento demanda exegese de lei local, vedada nos termos da Súmula 280/STF.
+Por fim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz dos elementos fático-probatórios dos autos, cujo reexame em Recurso Especial é obstado consoante o teor da Súmula 7/STJ
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
