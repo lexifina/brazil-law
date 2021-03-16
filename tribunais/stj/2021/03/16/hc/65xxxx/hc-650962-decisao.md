@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATHEUS CRISTIANO PAZETTI PALHANO contra acórdão do Tribunal de Justiça do Estado de Santa Catarina proferido no Agravo Interno n. 0006254-84.2019.8.24.0064.
+A Impetrante alega que o Juízo singular declarou remidos 66 (sessenta e seis) dias, tendo em vista a aprovação total do Apenado no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) relativo ao ensino médio. Irresignada, a Defesa solicitou a retificação do cálculo, o que foi indeferido pelo Magistrado singular.
+Contra a decisão que indeferiu o pedido de retificação do cálculo, a Defesa interpôs agravo em execução. O Desembargador Relator, na decisão monocrática de fls. 429-431, não conheceu do recurso. O agravo interno interposto contra essa decisão não foi provido (fls. 604-609).
+Nas razões deste writ, a Defesa argumenta que "o Paciente obteve aprovação total no Exame Nacional do Ensino Médio (ENEM), havendo sido aprovado em todos os campos de conhecimento avaliados no exame" (fl. 6).
+Alega que "deveria ser reconhecida a remição de 133 dias de sua pena, nos termos da Recomendação n. 44/2013 do CNJ" (fl. 6).
+Requer, inclusive liminarmente, a concessão da ordem "para reconhecer a remição de 133 dias da pena do paciente" (fl. 8).
+É o relatório. Decido.
+Amatériadebatidaneste habeas corpus já foiobjeto de exame pelo Superior Tribunal de Justiça no julgamento do HC n. 607.996/SC. Em 13/10/2020, a Sexta Turma desta Corte Superior mantevea decisão do Tribunal localque consideroucomo base de cálculo o parâmetro de 50% (cinquenta por cento)da carga horária de 1.200 horas (600 horas), com a divisão do total obtido por 12 (um dia de pena para cada doze horas), o que correspondeu a 50 (cinquenta) dias de remição, observando-se, na espécie, o disposto no art.126, § 5.º, da Lei de Execução Penal, totalizando 66 (sessenta e seis) dias remidos, em razão daaprovação total do Apenado no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) relativo ao ensino médio.
+Contra o referido acórdão a Defesa interpôs recurso ordinário emhabeas corpus. Em 30/11/2020, o Ministro DIAS TOFFOLI negou seguimento ao recurso (RHC n. 194.587), ao fundamento de que a decisão desta Corte Superior não divergiu da orientação firmada em diversos julgados da Suprema Corte. A mencionada decisãotransitou em julgado em 06/02/2021.
+Desse modo, o writ não pode ser conhecido, pois se trata de mera reiteração de pedido já formulado e devidamente refutado em acórdão proferidoem habeas corpus interposto contra o mesmo aresto ora impugnado.
+A propósito, " é  pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 10/09/2019, DJe 18/09/2019).
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. ENCCEJA. DIAS REMIDOS.MATÉRIA JÁ ANALISADA NOS AUTOS DO HC N. 607.996/SC.REITERAÇÃO DE PEDIDO.INADMISSIBILIDADE. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
