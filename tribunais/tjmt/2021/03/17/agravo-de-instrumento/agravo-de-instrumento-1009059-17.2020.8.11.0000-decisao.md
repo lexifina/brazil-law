@@ -1,0 +1,29 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL NO AGRAVO DE INSTRUMENTO No 1009059-17.2020.8.11.0000
+RECORRENTE: BANCO DO BRASIL S/A.
+RECORRIDOS: ALBERTO LUIZ FRANCIO E OUTROS
+Vistos.
+Trata-se de Recurso Especial, com pedido de efeito suspensivo, interposto pelo BANCO DO BRASIL S/A., com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra acórdão proferido pela Primeira Câmara de Direito Privado do Tribunal de Justiça do Estado de Mato Grosso, nos termos da seguinte ementa (Id. 65050994):
+“AGRAVO DE INSTRUMENTO – PEDIDO DE RECUPERAÇÃO JUDICIAL FORMULADO PELA PESSOA FÍSICA DO PRODUTOR RURAL – AUSÊNCIA DE PRÉVIA INSCRIÇÃO BIENAL NA JUNTA COMERCIAL – PEDIDO DEFERIDO – POSSIBILIDADE – ATIVIDADE AGRÍCOLA HISTÓRICA DEVIDAMENTE COMPROVADA – PRECEDENTES DO STJ – DECISÃO MANTIDA – AGRAVO DESPROVIDO.
+Após obter o registro e passar ao regime empresarial, fazendo jus a tratamento diferenciado, simplificado e favorecido quanto à inscrição e aos efeitos desta decorrentes (CC, arts. 970 e 971), o produtor rural adquire a condição de procedibilidade para requerer recuperação judicial, com base no art. 48 da Lei 11.101/2005 (LRF), bastando que comprove, no momento do pedido, que explora regular e historicamente a atividade rural, no mínimo há mais de 2 (dois) anos. Pode, portanto, para perfazer o tempo exigido por lei, computar aquele período anterior ao registro, pois tratava-se, mesmo então, de exercício regular da atividade empresarial. (...). (STJ – 4a Turma – REsp 1800032/MT – Rel. Ministro MARCO BUZZI – Rel. p/ Acórdão Ministro RAUL ARAÚJO – j. 05/11/2019, DJe 10/02/2020).”
+Os Embargos de Declaração opostos contra o acórdão (Id. 66320997) foram rejeitados (Id. 75420039).
+Nas razões do Recurso Especial (Id. 79265958), o Recorrente sustenta violação aos artigos 113, 117, 489, II, §1o, inciso IV, 1.022 e 1.025, todos do CPC, aos artigos 1o, 48 e 51, todos da Lei no 11.101/05, bem como aos artigos 961, 966 e 967, todos do Código Civil, ao argumento de que não foram examinadas as questões suscitadas em sede de embargos de declaração e que não foram preenchidos os requisitos para o deferimento da recuperação judicial, uma vez que o registro do produtor rural na Junta Comercial foi realizado há menos de 2 anos.
+Expõe como requisito à concessão de efeito suspensivo que “o perigo da demora caracteriza-se pelo fato de que o prosseguimento do feito pode culminar com nulidades e refazimento de atos, causando prejuízos ao recorrente e aos demais credores e até às devedoras”.
+Recurso tempestivo e preparo recolhido, conforme certidões de Ids. 79638474 e 79651476.
+É o relatório.
+Decido.
+Extrai-se da redação do artigo 1.029, § 5o, III do Código de Processo Civil que é da competência desta Vice-Presidência a análise do pedido de concessão do efeito suspensivo ao recurso especial no período compreendido entre a sua interposição e a publicação da decisão de sua admissibilidade.
+De outro lado, da leitura do artigo 995, parágrafo único, do Código de Processo Civil, em caso de recurso que, em regra, não é dotado de efeito suspensivo, é certo que a eficácia da decisão recorrida poderá ser suspensa quando da imediata produção de seus efeitos, houver risco de dano grave ou de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Assim, para a excepcional concessão do efeito suspensivo, mostra-se necessária a comprovação de dois requisitos legais, quais sejam, a evidente probabilidade do provimento do recurso, isto é, plausibilidade substancial do direito invocado com força suficiente a autorizar a suspensão da decisão recorrida, bem como o perigo da demora representado pela possibilidade de prejuízo advindo do retardamento da tutela jurisdicional pleiteada, pela insuportabilidade dos danos emergentes do próprio ato impugnado ou pela necessidade de se garantir a posterior eficácia do julgamento definitivo a ser proferido pelo Superior Tribunal de Justiça.
+Da leitura das razões recursais, não vislumbro a possibilidade de o acórdão causar ao recorrente lesão grave ou de difícil reparação, tanto pela ausência de prova objetiva neste sentido, como porque não é suficiente para demonstrar tal requisito a mera alegação de que “o prosseguimento do feito pode culminar com nulidades e refazimento de atos”.
+Como se sabe, para a suspensão da eficácia da decisão recorrida, em razão da excepcionalidade da medida, deve o recorrente demonstrar a presença de “risco concreto (e não hipotético ou eventual), atual (ou seja, o que se apresenta iminente no curso do processo) e grave (vale dizer, o potencialmente apto a fazer perecer ou prejudicar o direito afirmado pela parte)”. (ZAVASCKI, Teori Albino. Antecipação de tutela. São Paulo: Saraiva, 1997, p. 77)
+Por tais motivos, não há falar-se, portanto, em urgência e muito menos existência de dano irreparável ou de difícil reparação que não possa aguardar o eventual exame do mérito recursal pela Corte Superior.
+Afora isso, observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ no sentido de que, quanto ao requisito temporal de 2 (dois) anos de exercício regular da atividade empresarial para o produtor rural, a constituição do empresário rural dá-se a partir do exercício profissional da atividade econômica rural organizada para a produção e circulação de bens ou de serviços, sendo irrelevante, à sua caracterização, a efetivação de sua inscrição na Junta Comercial.
+Posto isso, INDEFIRO o pedido de efeito suspensivo.
+Intime-se a parte adversa para, querendo, apresentar contrarrazões no prazo legal, retornando concluso o feito para análise da admissibilidade do recurso interposto.
+Publique-se. Intimem-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
