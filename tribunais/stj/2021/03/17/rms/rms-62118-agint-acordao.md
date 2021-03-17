@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA.INTEMPESTIVO. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO POR JUNTADA DE DOCUMENTAÇÃO IDÔNEA.
+1. Caso em que o agravante se insurge contra decisão da Presidência do STJ que não conheceu do recurso em mandado de segurança por considerar intempestivo.
+2. Consoante jurisprudência desta Corte Superior, após a vigência do CPC/2015, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso, por meio de documento idôneo (documento oficial ou certidão expedida pelo Tribunal de origem), sob pena de não conhecimento, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Precedentes.
+3. No caso concreto, de fato, o recurso é manifestamente intempestivo, visto que o recorrente foi intimado do acórdão recorrido em 16/7/2019, e o recurso em mandado de segurança foi interposto apenas em 7/8/2019, ou seja, foram do prazo de 15 (quinze) dias, nos termos do artigo 1.003, § 5º, e 219, caput, do CPC/2015.
+4. Quanto ao pedido para que se possibilite "o saneamento do feito no prazo estabelecido no artigo 932, parágrafo único, do CPC/2015", a pretensão não merece guarida. Isso porque o artigo 1.003, § 6º, do mesmo diploma legal estabelece que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", não sendo possível a pretensão de comprovação da tempestividade após a interposição do recurso. Precedentes.
+5. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONAÇALVES (Relator): Trata-se de agravo interno interposto por Gerliano Mouzinho Nunes contra decisão da Presidência do STJ que, às fls. 188-189, não conheceu do recurso em mandado de segurança por considerar intempestivo.
+O agravante sustenta que houve comprovação do ferido local do dia 6/8/2019 (Início da Revolução Acriana), "com a juntada das razões recursais do Decreto Estadual n. 2.126/2009 e a referência por link do calendário do TJ/AC do ano de 2019",e que, "por mais que não se refira ao ano de 2019, é prova formal e hábil da ocorrência anual do feriado" (fl. 195).
+Requer, assim, a reconsideração da decisão agravada, "permitindo o regular processamento do recurso", ou, sucessivamente, que se possibilite "o saneamento no prazo estabelecido no artigo 932, parágrafo único, do CPC/2015" (fl. 196).
+Sem contraminuta (cf. certidão de fl. 212).
+O Ministério Público Federal oficia pelo não provimento do recurso, em parecer da Subprocuradora-Geral da República Maria Caetana Cintra Santos (fls. 218-220).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA.INTEMPESTIVO. FERIADO LOCAL. NECESSIDADE DE COMPROVAÇÃO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO POR JUNTADA DE DOCUMENTAÇÃO IDÔNEA.
+1. Caso em que o agravante se insurge contra decisão da Presidência do STJ que não conheceu do recurso em mandado de segurança por considerar intempestivo.
+2. Consoante jurisprudência desta Corte Superior, após a vigência do CPC/2015, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso, por meio de documento idôneo (documento oficial ou certidão expedida pelo Tribunal de origem), sob pena de não conhecimento, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Precedentes.
+3. No caso concreto, de fato, o recurso é manifestamente intempestivo, visto que o recorrente foi intimado do acórdão recorrido em 16/7/2019, e o recurso em mandado de segurança foi interposto apenas em 7/8/2019, ou seja, foram do prazo de 15 (quinze) dias, nos termos do artigo 1.003, § 5º, e 219, caput, do CPC/2015.
+4. Quanto ao pedido para que se possibilite "o saneamento do feito no prazo estabelecido no artigo 932, parágrafo único, do CPC/2015", a pretensão não merece guarida. Isso porque o artigo 1.003, § 6º, do mesmo diploma legal estabelece que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", não sendo possível a pretensão de comprovação da tempestividade após a interposição do recurso. Precedentes.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONAÇALVES (Relator):Como relatado, o agravante se insurge contra decisão da Presidência do STJ que não conheceu do recurso em mandado de segurança por considerar intempestivo.
+Em suas razões assevera que teria sido comprovado o feriado local do dia6/8/2019 (Início da Revolução Acriana), "com a juntada das razões recursais do Decreto Estadual n. 2.126/2009 e a referência por link do calendário do TJ/AC do ano de 2019".
+Ocorre que, consoante jurisprudência desta Corte Superior, após a vigência do CPC/2015, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este tribunal, por meio de documento idôneo (documento oficial ou certidão expedida pelo Tribunal de origem), sob pena de não conhecimento, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.A propósito, destaco julgados de ambas Turmas de Direito Público, inclusive de minha relatoria:
+PROCESSUAL CIVIL. RMS. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERPOSIÇÃO INTEMPESTIVA. NÃO CONHECIMENTO. PREVALÊNCIA DA PUBLICAÇÃO DO DIÁRIO DE JUSTIÇA ELETRÔNICO. PRECEDENTE DA CORTE ESPECIAL DO STJ. FALTA DE COMPROVAÇÃO DE FERIADO LOCAL. AGRAVO INTERNO NÃO PROVIDO.
+2. A Corte Especial do Superior Tribunal de Justiça, chamada à interpretação do art. 1.003, § 6.º, do CPC/2015, consolidou o entendimento de que a comprovação da tempestividade do recurso deve ocorrer no ato de interposição, inclusive quanto aos eventuais feriados locais, pena de não conhecimento, não admitindo atuação corretiva posterior da parte. Inteligência do AREsp 957.821/MS, relatora para o acórdão a Em. Ministra Nancy Andrighi.
+3. A mesma Corte Especial deliberou, com o julgamento do REsp 1.813.684/SP, relator para o acórdão o Em. Ministro Luís Felipe Salomão, que o feriado de segunda-feira de carnaval é também local e, portanto, exige comprovação por documento idôneo, com a ressalva, por modulação de efeitos, daqueles recursos interpostos anteriormente à publicação do acórdão do referido apelo raro, tal modulação não alcançando, contudo, outros feriados locais, como a quarta-feira de cinzas.
+4. Agravo interno não provido.
+(AgInt nos EDcl no RMS 62.679/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA.INTEMPESTIVIDADE. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO POR DOCUMENTO IDÔNEO. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do recurso especial n. 1.813.684/SP, manteve o entendimento de que é necessária, para os recursos interpostos sob a égide do CPC/15, a comprovação, por meio de documento idôneo e no ato de interposição do recurso, de eventual feriado local ocorrido no curso do prazo processual, bem como modulou os efeitos dessa decisão para, no caso de suspensão de prazos na segunda-feira de carnaval, permitir a comprovação posterior, nos recursos interpostos antes da publicação do mencionado acórdão (DJe 18/11/2019). Precedentes.
+2. A jurisprudência do STJ está consolidada no sentido de que a cópia de calendário editado pelo Tribunal de origem não é hábil a ensejar a comprovação da existência de feriado local, pois é necessária a juntada de cópia de lei ou de ato administrativo comprovando a ausência de expediente forense na data em questão.Precedentes.
+3. No caso dos autos, não é possível a posterior comprovação de feriado local porque o recurso foi interposto após do julgamento do citado julgado da Corte Especial e a controvérsia não gira somente em torno do feriado da segunda-feira de Carnaval.
+4. Agravo interno não provido.
+(AgInt no RMS 63.524/AP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA,DJe 18/12/2020)
+No caso concreto, de fato, o recurso é manifestamente intempestivo, visto que o recorrente foi intimado do acórdão recorrido em 16/7/2019, e o recurso em mandado de segurança foi interposto apenas em 7/8/2019, ou seja, foram do prazo de 15 (quinze) dias, nos termos do artigo 1.003,§ 5º, e 219, caput, do CPC/2015.
+Quanto ao pedido para que se possibilite"o saneamento do feito no prazo estabelecido no artigo 932, parágrafo único, do CPC/2015", tenho que a pretensão não merece guarida. Isso porque o artigo 1.003,§ 6º, do mesmo diploma legal estabelece que"o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", não sendo possívela pretensão de comprovação da tempestividade após a interposição do recurso.A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO EM MANDADO DE SEGURANÇA. ABANDONO DE CAUSA. INTEMPESTIVIDADE CONFIGURADA. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTO DESPROVIDO.
+ ..
+V - Nos termos do § 6.º do art. 1.003 do mesmo Código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+ ..
+Agravo regimental desprovido.
+(AgRg no RMS 63.902/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA,DJe 15/10/2020)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
