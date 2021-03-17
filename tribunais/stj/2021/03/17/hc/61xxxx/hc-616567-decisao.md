@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Cassio Andre da Silva Oliveira contra ato coator proferido pela Quarta Câmara Criminal do Tribunal de Justiça de Minas Gerais, que, nos autos do HC n. 1.0000.20.499156-6/000, denegou a ordem, mantendo o paciente preso preventivamente pela suposta prática de conduta descrita como tráfico e lesão corporal (Processo n.0145.20.353351-1).
+O impetrante alega, em síntese, que os argumentos lançados não podem ser substrato para a manutenção da prisão preventiva, uma vez que é contrária aos fatos, tornando-se inidônea para a manutenção da segregação da liberdade do paciente (fl. 8).
+Sustenta que o acórdão agregou fundamentos acerca da gravidade dos fatos para manter a prisão cautelar, contrariando entendimento pacífico sobre o tema.
+Afirma que nenhum julgador de primeira ou segunda instância apontou fundamentos concretos para obstar a substituição por medidas cautelares diversas da prisão, nos termos do art. 282, § 6º, do Código de Processo Penal.
+Argumenta que a autoridade coatora deixou de indicar concretamente quais os indícios de que a liberdade do paciente colocaria em risco a ordem pública.
+Requer a concessão definitiva da ordem (fls. 3/16).
+Liminar indeferida às fls. 258/260.
+Informações prestadas pela origem às fls. 264/270.
+O Ministério Público Federal pugna pela denegação da ordem (fls. 274/275).
+Memoriais às fls. 277/283.
+Pedido de preferência à fl. 284.
+É o relatório.
+A impetração pretende a revogação da prisão preventiva, haja vista a ausência dos requisitos do art. 312 do Código de Processo Penal.
+A impressão que tive ao analisar inicialmente o habeas corpus não se altera.
+O Juízo de piso decretou a prisão preventiva com base nos seguintes termos (fl. 184):
+Pois bem, a materialidade delitiva encontra-se comprovada pela apreensão da droga no interior do veículo do autuado, dividida em 15 barras ou tabletes, totalizando 282 g, quantidade e forma de acondicionamento apto, num primeiro momento, a caracterizar a traficância.
+Ademais, a periculosidade do agente se mostrou evidente, consoante demonstrou com propriedade o douto representante do Parquet, não somente em relação à gravidade do delito em virtude das nefastas consequências que a traficância causa à sociedade, mas também ao fato de o autuado ter retornado ao local juntamente com outros elementos e agredir um Policial, isto é, um agente do Estado, o que revela a audácia do autuado e dos comparsas que o acompanhavam na ocasião.
+O Tribunal local denegou a ordem aos seguintes fundamentos (fls. 20 e 29/30 - grifo nosso):
+Pelas informações judiciais e documentos trazidos ao feito, verifica-se que realmente não foi realizada a audiência de custódia no caso em apreço.
+Extrai-se, ainda, que o douto juízo de origem, dispensou a realização a realização da referida audiência, em razão destas estarem suspensas "por força da Portaria Conjunta 949/PR/2020 do TJMG e Recomendação 62 do CNJ".
+ ..
+E, com efeito, as circunstâncias referidas (prática, em tese, do crime de tráfico de drogas, com apreensão de significativa quantidade de entorpecentes, após o increpado ser flagrado por um policial militar dispensando as referidas drogas em sua residência -16 barras de maconha pesando 286,88 g -, bem como a quantia de R$ 10.408,00 no carro do increpado e de R$ 1.108,00 no automóvel do coautuado, além disso, consta que o increpado juntamente com outros indivíduos teriam agredido a vítima, Charles Guilherme, com um taco de beisebol, chutes e socos, na tentativa de recuperarem as drogas que teriam sido dispensadas no quintal da do ofendido) denotam a maior gravidade concreta do episódio.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, o decreto de prisão preventiva deve demonstrar a materialidade do crime e dos indícios de autoria de conduta criminosa, além de indicar fatos concretos e contemporâneos, que demonstrem o perigo que a liberdade do investigado ou réu represente para a ordem pública, para a ordem econômica, para a conveniência da instrução criminal ou para a garantia da aplicação da lei penal, conforme o art. 312 do Código de Processo Penal (HC n. 592.107/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 29/9/2020).
+Especificamente quanto ao periculum libertatis, o Superior Tribunal de Justiça considera idôneaa imposição de prisão preventiva diante decasos com agressão perpetrada contra policiais(HC n. 604.438/SP, Ministro FelixFischer, QuintaTurma, DJe 6/10/2020).
+Conforme expus ao indeferir a liminar,a prisão preventiva foi mantida com base em fundamentos idôneos, que dizem respeito à gravidade concreta da conduta, consistente na apreensão de 286,88 g de maconha, de pouco mais de R$ 10.000,00 (dez mil reais) em espécie, além de descrever a agressão contra a vítima, perpetrada com taco de beisebol, chutes e socos, o que, de fato, indica maior periculosidade e autoriza a imposição da cautelar de máxima restrição.
+Quanto aos temas levantados nos memoriais, relativos à falta de realização de audiência de custódia, importante destacar que tal tema não foi levantado na inicial. E, ainda assim, a jurisprudência do Superior Tribunal de Justiça tem admitido como válida a prisão em flagrante sem a realização da audiência de custódia, ainda mais no período excepcional de pandemia de Covid-19.
+Em reforço:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. AUDIÊNCIA DE CUSTÓDIA. PANDEMIA DA COVID-19. FUNDAMENTO VÁLIDO. ELEVADA QUANTIDADE DE DROGA. AGRAVO IMPROVIDO.
+1. O entendimento majoritário desta Sexta Turma é no sentido de que a não realização da audiência de custódia não enseja nulidade da prisão preventiva em que posteriormente convertida, pois, observadas as outras garantias processuais e constitucionais, resta superado o exame desse tema. A propósito: AgRg no HC 353.887/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 19/05/2016, DJe 07/06/2016; RHC 76.906/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 10/11/2016, DJe 24/11/2016; RHC 63632/PR, Rel. Ministro ROGÉRIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 25/10/2016, DJe 18/11/2016. Cabe ressaltar ainda que a excepcionalidade do período de pandemia da doença Covid-19, pelo qual estamos passando, validamente permite a decretação da custódia cautelar sem a audiência de custódia.
+2. O decreto prisional tem fundamentação válida, "para a garantia da ordem pública e em face do perigo gerado pelo estado de liberdade dos imputados, haja vista a gravidade concreta da conduta que lhes foi atribuída, indicada pelo possível número elevado de agentes envolvidos na prática de atividade ilícita, pela diversidade de substâncias encontradas na residência destes, quais sejam, maconha e cocaína, pela natureza destrutiva desta última, bem como pela quantidade expressiva de drogas e valores em espécie que foram apreendidos". Conforme se extrai do acórdão impugnado (fl. 27), trata-se da apreensão de 1,02kg de maconha e 130,85g de cocaína, além de grande quantia em dinheiro, R$12.447,00 (doze mil e quatrocentos e quarenta e sete reais). Ressaltou-se ainda, com relação ao paciente Robson, que este teria evadido-se após notar a presença dos policiais, encontrando-se foragido (fl. 27).
+3. Agravo regimental improvido.
+(AgRg no HC n. 630.066/MG, Ministro NefiCordeiro, SextaTurma, DJe 5/3/2021)
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS(286,88 G DE MACONHA).PRISÃO PREVENTIVA. MATERIALIDADE E AUTORIA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. AGRESSÃO AO POLICIAL. GARANTIA DA ORDEM PÚBLICA. PRECEDENTES. PERICULOSIDADE CONCRETA.
+Ordem denegada.
