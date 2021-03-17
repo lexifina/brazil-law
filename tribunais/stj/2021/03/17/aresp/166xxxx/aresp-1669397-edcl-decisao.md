@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RODRIGO MAXIMIANO FAVORETO à decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 904):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ARTS. 489 E 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO. OMISSÃO NÃO CONFIGURADA. AQUISIÇÃO DA PROPRIEDADE CELEBRADO PELO FILHO DO EXECUTADO APÓS SÉRIE DE ALIENAÇÕES. CONCLUSÃO DO ACÓRDÃO PELA AUSÊNCIA DE BOA-FÉ. REVISÃO DO JULGADO. IMPOSSIBILIDADE. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. VALORAÇÃO DE PROVAS PELO MAGISTRADO. PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. PRECEDENTES. SÚMULA 83/STJ. LITIGÂNCIA DE MÁ-FÉ. APLICAÇÃO DA MULTA. AFASTAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 914-919), sustenta que houve omissão na decisão embargada, reafirmando que o Tribunal de origem não emitiu pronunciamento sobre os questionamentos formulados, quanto à ausência de prova de sua má-fé, não se prestando para tal fim a relação de parentesco havida com o devedor do processo de execução, no qual foi penhorado o bem.
+Reitera que o acórdão recorrido adotou, erroneamente, a presunção absoluta de má-fé pelo terceiro adquirente, mesmo sem a existência de registro na matrícula do imóvel.
+Foi apresentada impugnação à fls. 923-935 (e-STJ), na qual a parte agravada postula a aplicação da multa do art. 1.026, § 2º do CPC/2015.
+Brevemente relatado, decido.
+Os embargos de declaração constituem recurso de fundamentação vinculada, sendo cabíveis tão somente quando, nas hipóteses previstas no art. 1.022 do Código de Processo Civil de 2015, forem detectadas omissão, obscuridade e contradição, bem como possível erro material.
+O referido meio de impugnação visa aperfeiçoar as decisões judiciais, com o intuito de prestar a tutela jurisdicional de forma clara e precisa, não tendo como objetivo central a alteração dos julgados impugnados, situação verificada apenas excepcionalmente, caso a correção dos vícios constatados seja apta a alterar, de algum modo, o decisum prolatado.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. Nos limites estabelecidos pelo artigo 1.022 do CPC/2015, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+2. Constitui erro material aquele que pode ser verificado e corrigido a partir de critérios objetivos, tratando-se de defeito manifesto, evidente e reconhecível à primeira vista.
+3. No caso, o erro material apontado é atribuído ao conteúdo do próprio julgamento em si, o que não é permitido.
+4. Ainda que admitido o exaurimento das instâncias ordinárias, o recurso especial não comportaria provimento.
+5. O Plenário do STJ, por meio do Enunciado Administrativo nº 2, decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+6. No caso dos autos, a certidão de e-STJ Fl. 876 atesta, de forma inequívoca, que a decisão que negou seguimento ao agravo de instrumento foi disponibilizada no dia 16/3/2016 no Diário de Justiça Eletrônico e publicada no dia 17/3/2016.
+7. Efetivada a publicação da decisão no Diário de Justiça Eletrônico no dia 17/3/2016, quando ainda vigorava o Código de Processo Civil de 1973, aplicável à espécie o prazo previsto no art. 557, § 1º, do CPC/73.
+8. A publicação da decisão ocorrida em dia em que "suspensos os prazos recursais no âmbito do Segundo Grau do Tribunal de Justiça do Maranhão" acarreta apenas a prorrogação do início da contagem do prazo recursal.
+9. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+(EDcl no AgInt no REsp 1.684.337/MA, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 18/02/2019, DJe 22/02/2019)
+No caso, a decisão agravada ressaltou a inexistência de violação aos arts. 489 e 1.022 do CPC/2015, tendo em vista que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente.
+Verifica-se que a controvérsia foi elucidada com base em fundamentação sólida, estando claras as circunstâncias que ensejaram a inviabilidade de conhecimento do recurso especial.
+Nesse contexto, foi salientado que o Tribunal local, ao manter a improcedência dos embargos de terceiros ajuizados pelo recorrente, consignou que a venda do imóvel objeto da demanda se deu entre familiares e, no curso da execução de sentença, foi declarada a fraude a execução.
+Com base na apreciação de fatos e provas, demonstrou-se que a revisão da conclusão alcançada pelo acórdão estadual atinente à ciência do ora embargante em relação ao comprometimento do imóvel com a execução ajuizada contra seu pai e a ausência de boa-fé não dependeria de mera valoração de provas, mas sim de verdadeiro reexame de matéria fático-probatória, pretensão que encontra óbice na Súmula 7/STJ.
+Na oportunidade, também se registrou que não há se falar em má valoração da prova, quando o Julgador, entendendo substancialmente instruído o feito, motiva a sua decisão na existência de elementos suficientes para formação da sua convicção, conforme o princípio do livre convencimento motivado ou da persuasão racional, tal como feito na hipótese. Incidência, no ponto, da Súmula 83/STJ.
+No que se refere ao reconhecimento da litigância de má-fé, consignou-se que a alteração da conclusão do Tribunal de origem no sentido de que a propositura dos embargos de terceiro e a interposição da apelação caracterizaram, no caso, má-fé processual, esbarraria no óbice da Súmula 7/STJ.
+Por fim, foi ressaltado que a modificação quanto ao percentual fixado na majoração dos honorários recursais importaria, necessariamente, no reexame de provas, procedimento vedado nesta fase recursal, nos termos da Súmula 7/STJ.
+Sendo assim, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo pretendido pela parte embargante, medida inadmissível nesta espécie recursal.
+Em relação à multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015, requerida pela parte ora embargada, no presente caso não se verifica o nítido caráter protelatório dos embargos de declaração que autorizaria a sua imposição, pelo que não a aplico.
+Confira-se:
+PROCESSUAL CIVIL. CIVIL. REINTEGRAÇÃO DE POSSE. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO. EMBARGOS DE DIVERGÊNCIA. INCIDÊNCIA DO ENUNCIADO N. 315 DA SÚMULA DO STJ. EMBARGOS LIMINARMENTE INDEFERIDOS. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL NO ACÓRDÃO. INEXISTÊNCIA DE OMISSÃO. (..)
+II - Não deve ser acolhido o requerimento para que seja imposta a multa prevista no § 2º do art. 1.026 do Código de Processo Civil de 2015, eis que o mero inconformismo com a decisão embargada não enseja a necessária imposição da sanção, quando não configurado o caráter manifestamente protelatório dos embargos de declaração.
+III - Embargos de declaração parcialmente acolhidos para suprir omissão no acórdão, sem efeitos modificativos.
+(EDcl no AgInt nos EAREsp 635.823/TO, Rel. Min. Francisco Falcão, Corte Especial, julgado em 21/02/2018, DJe 28/02/2018)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO NÃO VERIFICADA. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015 MULTA. INAPLICABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
