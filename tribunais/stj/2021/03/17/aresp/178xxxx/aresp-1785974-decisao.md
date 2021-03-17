@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por URBANIZADORA CONTINENTAL S.A. - EMPREENDIMENTOS E PARTICIPAÇÕES LTDA.. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas"a" e "c", da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Ação de Despejo por Falta de Pagamento c.c. Cobrança. Fase de Cumprimento de Sentença. Decisão que indeferiu o pedido de levantamento dos ativos financeiros bloqueados ante o reconhecimento da impenhorabilidade da verba constrita. INCONFORMISMO do executado deduzido no Recurso. EXAME: Interpretação ampliativa do artigo 833, inciso X, do Código de Processo Civil, consagrada pelo C. Superior Tribunal de Justiça no REsp 1340120/SP. Irrelevância da natureza da verba alcançada pelo bloqueio quando o valor não ultrapassa quarenta (40) salários mínimos. Impenhorabilidade, demais, da verba salarial auferida pelo executado, "ex vi"do artigo 833, inciso IV, do Código de Processo Civil. Decisão mantida. RECURSO NÃO PROVIDO"(fl. 33e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 53/57 e 97/101e-STJ).
+Nas razões do especial, além de dissídio jurisprudencial, aagravante alegouviolação doart. 489, § 1º, IV, V e VI, e 833, § 2º, do Código de Processo Civil de 2015.
+Sustentou, em síntese, que o acórdão recorrido não observou (i) os requisitos mínimos para suafundamentação e (ii) os precedentes por ela indicados do Superior Tribunal de Justiça quanto àpossibilidade de interpretação mitigada da impenhorabilidade de verbas salariais quando o executado não demonstra que o valor bloqueado é essencial para a sua subsistênciae de que a impenhorabilidade de reservas financeiras do devedor até 40 (quarenta) salários mínimos só se aplica quando ela for a única reserva.
+Afirmou que o recorrido não demonstrou que o valor tornado indisponível é impenhorável por se tratar de salário e por ser essencial para a sua subsistência.
+Requereu a declaração da
+"(..) legalidade da penhora realizada na conta corrente do Recorrido, deferindo-se o levantamento pela Recorrente; e
+- seja deferida a penhora mensal de 30% dos proventos mensais do Recorrido, até o limite do crédito da Recorrente"(fl. 134 e-STJ).
+Comas contrarrazões e i  nadmitido o recurso, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Segundo arecorrente, o tribunal de origem não observouos requisitos mínimos para a fundamentação do acórdão recorrido.
+No entanto, no tocante à alegada nulidade do acórdão recorrido por deficiência de fundamentação (artigo 489 do Código de Processo Civil de 2015), registra-se que o entendimento adotado pelo Tribunal local está em consonância com a jurisprudência desta Corte, que há muito se encontra pacificada no sentido de que, "se os fundamentos do acórdão não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Rel. Ministro Cesar Asfor Rocha, Primeira Turma, julgado em 16/11/1994, DJ 12/12/1994).
+Registra-se, a propósito, que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mormente se resultam implicitamente repelidos por incompatibilidade com os fundamentos contidos na decisão hostilizada, tidos por suficientes para solução da controvérsia.
+Sobre o tema, o seguinte precedente:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. (..)
+1. Não há falar em negativa de prestação jurisdicional nos embargos de declaração, se o Tribunal de origem enfrenta a matéria posta em debate na medida necessária para o deslinde da controvérsia, ainda que sucintamente. A motivação contrária ao interesse da parte não se traduz em maltrato ao art. 535 do CPC (..)"(AgRg no Ag 1.160.319/MG, Rel. Ministro VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 26/04/2011, DJe 06/05/2011).
+Com efeito, mesmo à luz do novel 489 do CPC/2015, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+Ademais, nas razões do presente recurso arecorrente alega queo acórdão recorrido não observou os precedentes por ela indicados desta Cortequanto à possibilidade de interpretação mitigada da impenhorabilidade de verbas salariais quando o executado não demonstra que o valor bloqueado é essencial para a sua subsistência e de que a impenhorabilidade de reservas financeiras do devedor até 40 (quarenta) salários mínimos só se aplica quando ela for a única reserva.
+No entanto, tal tese não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito.
+Para que se configure o prequestionamento, é necessário que o tribunal de origem se pronuncie especificamente acerca da matéria articulada pela parte, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que,a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Registra-se quea parte recorrente não indicou a contrariedade ao art. 1.022 do CPC/2015, embora opostos embargos de declaração com a finalidade de sanar omissão porventura existente.
+Na hipótese, a Corte de origem, soberana na análise do conjunto fático-probatório dos autos, assim se pronunciou a respeito da impenhorabilidade dos valores bloqueados em conta do recorrido, ante a sua natureza salarial:
+"(..)
+Conforme já relatado, cuida-se de Agravo de Instrumento interposto contra decisão nos autos da Ação de Despejo por Falta de Pagamento c.c. com Cobrança, ora em fase de cumprimento de sentença, que Urbanizadora Continental S.A. Empreendimentos e Participações moveu contra Allan Farias, proferida pela MM. Juíza "a quo" nos termos seguintes:
+"Vistos.
+Em sua impugnação, o executado alega, inicialmente, impenhorabilidade do valor penhorado, em razão do caráter alimentar da verba (salário).
+Entendo que o prazo de 5 dias para a impugnação conta da junta do AR de intimação do bloqueio (fls. 90). Dessa forma, a impugnação é tempestiva, ao contrário do alegado pela exequente.
+No mérito, a impugnação deve ser acolhida. De fato, os extratos bancários somados aos holerites comprovam que a conta objeto do bloqueio só tem como entrada verba de caráter salarial (transferida em razão da portabilidade). Não há outras entradas além da verba salarial.
+Assim, necessário reconhecer a impenhorabilidade da verba.
+Expeça-se guia de levantamento do valor bloqueado em favor do executado.
+No mais, diga a exequente em termos de prosseguimento. Int."("sic", fl. 105).
+Malgrado o inconformismo da exequente, ora agravante, a r. decisão agravada não comporta a pretendida reforma.
+Quanto ao bloqueio dos valores nas contas do executado, a questão comporta a interpretação ampliativa do artigo 833, inciso X, do Código de Processo Civil de 2015, conforme entendimento consagrado pelo C. Superior Tribunal de Justiça no Recurso Especial nº 1340120/SP, no sentido de que "é possível ao devedor, para viabilizar seu sustento digno e de sua família, poupar valores sob a regra da impenhorabilidade no patamar de até quarenta salários mínimos, não apenas aqueles depositados em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel moeda".
+A soma do valor bloqueado (R$ 2.219,40) é muito inferior ao limite equivalente a quarenta (40) salários mínimos e, embora a previsão legal faça referência à "conta-poupança", o entendimento pacificado atualmente é no sentido de que essa impenhorabilidade alcança qualquer ativo financeiro encontrado em conta bancária do devedor, em valor inferior a esse limite.
+Demais, quanto ao pedido de bloqueio de trinta por cento (30%) do salário mensal do executado, também sem razão a Empresa agravante. É que essa verba também é impenhorável por força do disposto no artigo 833, inciso IV, do Código de Processo Civil, que "in verbis"estabelece:
+(..)
+Ressalta-se, por oportuno, que a quantia recebida mensalmente pelo executado, ora agravado, também é inferior a cinquenta (50) salários mínimos, o que impede a constrição de eventual quantia excedente a esse montante, "ex vi"do artigo 833, §2º, do Código de Processo Civil"(fls. 34/36e-STJ grifou-se).
+Rever a conclusão da Corte local, para acolher a pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante o disposto na Súmula nº 7/STJ.
+Além disso, destaca-se que a aplicação das Súmulas nºs 7/STJ e 282/STF quanto ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Registra-se, ainda, que a divergência jurisprudencial, nos termos dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de majorar os honorários sucumbenciais, conformedetermina oartigo85, § 11, do Código de Processo Civil de 2015,haja vista aausência decondenação em honorários nas instâncias ordinárias.
+Publique-se.
+Intimem-se.
