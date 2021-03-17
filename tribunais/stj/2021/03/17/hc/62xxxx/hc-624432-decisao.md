@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de GABRIEL TORRES GALBIN contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no Agravo em Execução n. 9000140-12.2020.8.26.0637, no qual restou assentado:
+"Como se sabe, a detração é cômputo, na pena privativa de liberdade e da medida de segurança, do tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em hospital de custódia e tratamento ou estabelecimento similar.
+Também se admite a detração de prisões cautelares seguidas de absolvição, o que não se confunde com a pena definitiva, decorrente de sentença transitada em julgado, posteriormente extinta por indulto.
+Em suma, pena definitiva extinta por indulto não pode gerar direito à detração, como pretende a defesa, por completa falta de amparo legal do pedido." (fl. 60)
+Consta dos autos que o paciente obteve indulto da pena com fundamento no Decreto n. 8.615/2015.
+A defesa afirma que diante da existência de outras reprimendas a cumprir, a execução manteve seu curso com a elaboração de cálculos de penas. Mas que constou para efeito de início de cumprimento de pena o dia 23/09/2016, e não a data em que restou efetivamente extinta a pena da segunda execução em virtude do indulto.
+Requer, assim, em liminar e no mérito, a concessão da ordem para estabelecer a retificação do cálculo contabilizando a data do dia 25/12/2015 a 14/07/2017 como pena efetivamente cumprida.
+Medida liminar indeferida conforme decisão de fls. 66/67.
+Parecer ministerial de fls. 70/71 pela denegação da ordem.
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção do ora paciente, capaz de justificar a concessão da ordem de ofício.
+De todo modo, como visto do bem lançado parecer da lavra da douta Subprocuradora-Geral da República JULIETA E. FAJARDO CAVALCANTI DE ALBUQUERQUE, o qual adotou como razões de decidir o parecer do Parquet Estadual, "assim, como a prisão provisória e prisão por força de execução definitiva não demonstram similitude de fato e de direito suficientes para permitir a objetivada integração analógica do ordenamento jurídico, o tempo entre a data de publicação do decreto presidencial e a sentença que concede o indulto não gera crédito da reprimenda ao condenado, sendo, portanto, inviável a aplicação da Detração pleiteada".
+Em verdade, irreprochável o aresto objurgado o qual decidiu a questão posta de acordo com a orientação jurisprudencial deste Sodalício firmada sobre o tema - utilização da detração penal para fins de indulto, confira-se:
+"HABEAS CORPUS. EXECUÇÃO PENAL. INDULTO NATALINO. DECRETO PRESIDENCIAL N. 9.246/17. CONSIDERAÇÃO DO TEMPO DE PRISÃO CAUTELAR PASSÍVEL DE DETRAÇÃO PENAL. IMPOSSIBILIDADE. SEGREGAÇÕES COM NATUREZAS DISTINTAS. HABEAS CORPUS DENEGADO.
+1. Conforme precedentes desta Corte Superior, o período ao qual o Decreto Presidencial se refere para fins de indulto é aquele corresponde à prisão pena, não se alinhando para o preenchimento do requisito objetivo aquele alusivo ao da detração penal, no qual se está diante de constrição por medida cautelar.
+2. Habeas corpus denegado."(HC 534.826/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA,DJe 14/02/2020)
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. DECRETO PRESIDENCIAL N. 8.615/2015. INDULTO. REQUISITO OBJETIVO. PERÍODO QUE EXCEDEU AO NECESSÁRIO PARA A CONCESSÃO DO BENEFÍCIO. DESCONTO EM EXECUÇÃO REMANESCENTE. DETRAÇÃO.IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - "O instituto da detração não pode tangenciar o benefício do indulto porque, enquanto o período compreendido entre a publicação do Decreto Presidencial e a decisão que reconhece o indulto, decretando-se a extinção da punibilidade do agente, refere-se à uma prisão pena, a detração somente se opera em relação à medida cautelar, o que impede a sua aplicação no referido período." (REsp 1557408/DF, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 24/02/2016).
+III - In casu, a impetrante pleiteia que o lapso temporal que excedeu ao necessário para o preenchimento do requisito objetivo para a concessão do indulto, compreendido entre 20/11/2015 e 25/12/2015, seja descontado de execução remanescente.
+IV - Ocorre que, em razão da substancial diferença entre os institutos da detração e do indulto, conclui-se pela inviabilidade do aproveitamento do período que sobejou ao necessário para o preenchimento do requisito objetivo para o abatimento em execuções remanescentes.
+Habeas Corpus não conhecido."(HC 410.500/DF, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 26/04/2018)
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
