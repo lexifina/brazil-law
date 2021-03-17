@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por BRENDON ARAUJO RIBEIRO contra a decisão que não admitiu o seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO (ARTIGOS 33 E 35 DA LEI N 1134306) RESTITUIÇÃO DE VEÍCULO USADO NA PRÁTICA DE CRIME E APREENDIDO DEFERIMENTO PELO JUÍZO A QUO RECURSO PROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 118 e 120 do CPP, no que concerne à indevida determinação de perdimento do bem apreendido, visto que não comprovado que o recorrente tenha concorrido para o crime ou que houve utilização do veículo para a traficância, trazendo o(s) seguinte(s) argumento(s):
+O acordão não levou em conta todos documentos lançados aos autos, conforme decisão do MM. Juiz a quo, o requerente trouxe todos documentos necessário para a comprovação de que o bem requerido seria de sua legitima propriedade, ainda mais se caso tivesse algum envolvimento ou participação na ação criminosa, o requerente teria que responder criminalmente.
+ ..
+Assim, inexistente demonstração de que o recorrente e legítimo proprietário do veículo, tenha concorrido para o crime ou que o veículo tenha sido utilizado para a traficância, entende-se que o caso em apreço não se enquadra em perdimento do bem aprendido.
+ ..
+O recorrente não é parte nos autos da Ação Penal n º 1503013.25.2019.8.26.00047, em que figura os sentenciados Carlos Leonardo e Igor Ferraz, portanto é TERCEIRO PREJUDICADO, que não tem nenhuma ligação com o fato delituoso apurado na ação penal mencionada.
+O recorrente é TERCEIRA DE BOA-FÉ e comprovou nos autos a propriedade do veículo (recibo de compra e venda em branco) - fls. 143-144).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Convém lembrar que eventuais direitos de terceiros de boa- fé não se prestam a determinar a restituição da coisa. O proprietário poderá pleitear, por meio de ação regressiva própria contra os eventuais condenados, a reparação de possíveis prejuízos por ele sofridos (fl. 121).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas do embasamento utilizado no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Resguardada a preclara convicção do d. magistrado a quo, a comprovação da aquisição e propriedade lícita do veículo não elide os fortes indícios informados nos autos de que foi usado para a prática dos crimes de tráfico de entorpecentes e associação para o tráfico.
+ ..
+Ressalte-se que a apreensão se deu em ação penal ainda em curso. Contudo, nada impede que a questão seja novamente analisada, após o encerramento da instrução processual e formação da culpa, nos termos dos artigos 118, caput e 120 do Código de Processo Penal (fls. 120-121)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
