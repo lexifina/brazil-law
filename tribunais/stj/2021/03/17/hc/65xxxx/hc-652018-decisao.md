@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de VALERIO MATOS CAMARGO, apontando como autoridade coatora Desembargadora Relatorada QuintaCâmara Criminal, do Tribunal de Justiça do Estado de Santa Catarina.
+Neste writ (e-STJ, fls. 3/10), o impetrante afirma que o paciente sofre constrangimento ilegal, em virtude da ausência de justa causa para o recebimento da denúncia, em face da qualificadora do emprego de arma de fogo, no crime de formação de quadrilha ou bando.
+Diante disso, requer, liminarmente e no mérito, o decote da qualificadora prevista no § 2º do art. 2º da Lei n. 12.850/2013.
+É o relatório. Decido.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir. No entanto, sua natureza urgente exige prova pré-constituída das alegações, não comportando dilação probatória.
+A inicial do writ, contudo, não veio acompanhada de documentos aptosa comprovar o alegado constrangimento de que estaria o paciente sendo vítima, e até mesmo a inauguração da competência desta Corte Superior, o que prejudica, sobremaneira, o adequado exame do caso, haja vista que foi juntado aos autos apenas, acópiado acórdão proferido no julgamento do Agravo em Execução que indeferiu o pedido de detração da pena do paciente, nos autos de n. 0001155-55.2018.8.24.0069.
+É cogente ao impetrante, principalmente em se tratando de advogado constituído, apresentar elementos documentais suficientes para permitir a atuação do Superior Tribunal de Justiça no caso e a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que, "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, RelatorMinistro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Intimem-se.
