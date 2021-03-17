@@ -1,0 +1,39 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto porCST COMPANHIA DE SINTETICOS E TERMOPLASTICOS e MASB - SP-03 EMPREENDIMENTOS IMOBILIARIOS LTDA em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Ação declaratória c.c. restituição de valores pagos e condenação em obrigação de fazer. Contrato de promessa de compra e venda. Sentença de parcial procedência da ação.Inconformismo das rés. Laudo pericial contábil que atestou a quitação integral do saldo devedor pelo autor e laudo pericial de engenharia que concluiu a que as obras foram concluídas apenas parcialmente no que se refere à distribuição de água potável e de esgoto. Condenação das rés a restituírem valor dos juros contratados e à indenização referente ao aluguel mensal do imóvel adquirido. Devolução na forma simples, ante a ausência de má fé. Sentença reformada. Recurso parcialmente provido. (fl. 755)
+Opostos sucessivamente dois embargos de declaração, ambos foram rejeitados.
+Em suas razões, alega a parte recorrente violação aos arts. 393, 402, 403, 427 e 884 do Código Civil, sob os argumentos de legalidade da cobrança dos juros remuneratórios e inexistência de danos materiais a título de lucros cessantes.
+Contrarrazões às fls. 822/35.
+É o relatório.
+Passo a decidir.
+O recurso especial merece ser provido, em parte.
+No que tange aos juros remuneratórios (rectius: juros de obra) o juízo e o Tribunal de origem entenderam pela ilegalidade de sua cobrança no período "anterior" à entrega das chaves.
+A jurisprudência desta Corte Superior, porém, é pacífica no sentido de que a cobrança de juros de obra é lícita, para fazer face aos encargos financeiros assumidos pela empreendedora durante a realização do empreendimento, sendo abusiva a cobrança no período posterior à data prevista para entrega do imóvel, uma vez que a empreendedora não poderia se beneficiar da própria negligência em atender ao prazo contratual.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO PARTICULAR DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ATRASO DEMONSTRADO COM BASE EM FATOS, PROVAS E TERMOS CONTRATUAIS. SÚMULAS 5 E 7 DO STJ. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. RESTITUIÇÃO DOS JUROS DE OBRA. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O teor do art. 476 do CC não foi objeto de discussão do aresto estadual e as insurgentes, apesar de terem opostos embargos de declaração, não alegaram ofensa ao art. 1.022 do novo CPC no recurso especial (aplicação da Súmula 211/STJ - ausência de prequestionamento).
+2. A Corte de origem estipulou a ocorrência de lucros cessantes, pois não teria sido respeitado o prazo contratual para a entrega do imóvel. Esse entendimento, fundado em fatos, provas e na interpretação de termos contratuais (incidência das Súmulas 5 e 7/STJ), está em sintonia com a jurisprudência desta Corte Superior, a atrair o texto do verbete sumular n. 83/STJ.
+3. No tocante ao valor dessa indenização (lucros cessantes), o Tribunal estadual estipulou que não houve questionamento em relação ao percentual de indenização fixado na primeira instância. A premissa de que não existiu impugnação a respeito desse percentual na apelação não foi objeto de ataque no recurso especial, sendo o caso do óbice da Súmula 283/STF.
+4. A restituição dos juros de obra durante a mora da recorrente, ou seja, a partir do momento previsto para entrega do imóvel, está em harmonia com o entendimento deste Tribunal, ensejando novamente o texto da Súmula 83/STJ no tocante a essa questão.
+5. Agravo interno desprovido.
+(AgInt no REsp 1863187/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020)
+RECURSO ESPECIAL CONTRA ACÓRDÃO PROFERIDO EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. ART. 1.036 DO CPC/2015 C/C O ART. 256-H DO RISTJ. PROCESSAMENTO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. PROGRAMA MINHA CASA, MINHA VIDA. CRÉDITO ASSOCIATIVO. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. CONTROVÉRSIAS ENVOLVENDO OS EFEITOS DO ATRASO NA ENTREGA DO BEM. RECURSOS DESPROVIDOS.
+1. As teses a serem firmadas, para efeito do art. 1.036 do CPC/2015, em contrato de promessa de compra e venda de imóvel em construção, no âmbito do Programa Minha Casa, Minha Vida, para os beneficiários das faixas de renda 1,5, 2 e 3, são as seguintes: 1.1 Na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro negócio jurídico, exceto o acréscimo do prazo de tolerância.
+1.2 No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma.
+1.3 É ilícito cobrar do adquirente juros de obra ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância.
+1.4 O descumprimento do prazo de entrega do imóvel, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldo devedor com base em indexador setorial, que reflete o custo da construção civil, o qual deverá ser substituído pelo IPCA, salvo quando este último for mais gravoso ao consumidor.
+2. Recursos especiais desprovidos.
+(REsp 1729593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 25/09/2019, DJe 27/09/2019)
+No caso dos autos, portanto, impõe-se a reforma do acórdão recorrido limitar a condenação à devolução dos juros de obra para o período posterior à data prevista para entrega do imóvel (13/12/2012).
+De outra parte, no que tange aos lucros cessantes, trata-se de dano presumido do atraso na entrega da obra, à luz do entendimento firmado no julgamento do Tema 996, abaixo transcrito:
+Tema 996/STJ - No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma.
+Descabida, portanto, a pretensão de exclusão dessa parcela indenizatória.
+Ademais, a pretendida revisão do quantum arbitrado pelo Tribunal de origem a título de lucros cessantes (0,5% do valor do imóvel) demandaria reexame de provas, providência que encontra óbice na Sumula 7/STJ.
+Destarte, o recurso especial merece ser provido, em parte.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial para, julgando procedentes os pedidos em menor extensão, limitar a condenação à devolução dos juros remuneratórios (rectius: juros de obra) ao período compreendido entre a data prevista para a entrega do imóvel e a data em que efetivamente o imóvel foi ou vier a ser entregue.
+Mantida a sucumbência recíproca, conforme estabelecido na sentença.
+Advirta-se para o disposto nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL PROCESSUAL CIVIL. EN. 3/STJ. LOTEAMENTO. ATRASO NA ENTREGA DO IMÓVEL COM AS OBRAS DE INFRAESTRUTURA. COBRANÇA DE JUROS DE MORA DURANTE O PERÍODO DE ATRASO. DESCABIMENTO. PRECEDENTES. LUCROS CESSANTES. DANO PRESUMIDO. TEMA 996/STJ. REVISÃO DO "QUANTUM" ARBITRADO PELO TRIBUNAL DE ORIGEM. ÓBICE DA SÚMULA 7/STJ.RECURSO ESPECIAL PROVIDO, EM PARTE.
