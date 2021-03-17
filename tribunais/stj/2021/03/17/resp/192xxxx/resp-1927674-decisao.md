@@ -1,0 +1,16 @@
+DECISÃO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo cuja ementa é a seguinte:
+EMENTA: Crédito Tributário. Falência. Prescrição interrompida pelo parcelamento do débito tributário.
+Reinício da contagem do prazo que se dá a partir do momento em que o contribuinte deixa de pagar Prescrição bem decretada.
+Crédito Tributário. Falência. Pretensão de suspensão do prazo prescricional a partir da data da quebra. Pleito inadmissível. Dívida não sujeita ao concurso de credores.
+Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas, qual seja: "ocorre que não há nos autos qualquer alegação ou documento que comprove que a partir da data da quebra não teria havido qualquer pagamento" (fl. 457); bem como:
+Embora haja disposição legal dispondo sobre a rescisão do parcelamento por inadimplência e, ainda, tendo a União (Fazenda Nacional) juntado aos autos documentação que comprova a data exata em que houve a exclusão formal do falido do programa de parcelamento, preferiu a Colenda Turma Julgadora presumir que a partir da data da quebra teria ocorrido a inadimplência. Não considerou sequer o fato de que o Síndico Dativo, de forma expressa, reconheceu que inexiste prescrição no caso em tela.
+No mérito, alega violação aos arts. 5º, 29 da Lei 6.830/80; 76 da Lei nº 11.101/05; 187 do CTN; 111, I, 151, VI, e 204, parágrafo único, do CTN; 7º da Lei 11.101/2005; 3º, parágrafo único, da Lei 6.830/80; 7º da Lei 10.684/2003 (fl. 453), porquanto "a competência do Juízo Falimentar, conquanto indivisível, não abarca as causas de natureza fiscal. Eventuais questionamentos e impugnações efetuados pelos interessados a respeito dos créditos tributários, inclusive no que tange à prescrição, devem ser promovidos perante o juízo competente, qual seja, a Justiça Federal" (fl. 456); bem como "não há que se falar em prescrição, pois não transcorreu prazo superior a cinco anos entre a data em que o crédito tributário passou a ser exigível (23/07/2005) e ajuizamento da execução (30/04/2010), fato este que constitui o dies ad quem do prazo prescricional, conforme o entendimento solidificado pelo E. Superior Tribunal de Justiça no julgamento do REsp 1.120.295/SP, submetido ao regime do artigo 543-C, do CPC (Rel. Min. Luiz Fux, DJe de 21.5.2010)" (fl. 459).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 496/497, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Preenchidos os requisitos de admissibilidade recursal, dou provimento ao agravo, para que seja reautuado como recurso especial.
+Publique-se. Intimem-se.
