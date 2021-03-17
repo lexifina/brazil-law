@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RESIDENCIAL MIRANTE SANTA ROSALIA à decisão de fls. 251/252, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Assim, resta evidente o equívoco cometido pelo Relator, data venia, porque em momento algum o Embargante cogitou qualquer antecipação do feriado do de Corpus Christi na Comarca de Sorocaba e sim que o feriado previamente estabelecido no calendário do Próprio Tribunal de Justiça de São Paulo.
+Desta forma, em momento algum o feriado de Corpus Christi foi antecipado na Comarca de Sorocaba e sim mantido em seu dia original, ou seja, em 11 de junho de 2020 com a emenda do dia 12 de junho de 2020.
+ ..
+Nobre Ministro, desta feita resta evidente primeiro que o Embargante em momento algum alegou qualquer antecipação do feriado de Corpus Christi na Comarca de Sorocaba e segundo que o próprio Comunicado 89/2020 do Tribunal de Justiça de São Paulo demonstra de forma clara e cristalina a data do feriado municipal previamente informado no Recurso Especial, no Agravo de instrumento e no presente embargos declaratórios (fls. 254/255).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+No caso, em nada interfere a comprovação de suspensão de expediente na Comarca do interior (Sorocaba), uma vez que o agravo foi interposto perante o Tribunal de Justiça, que se localiza na capital do Estado.
+Portanto, só as suspensões e os feriados previstos para a tribunal poderiam interferir no prazo recursal, ou seja, os prazos dos recursos interpostos na instância de origem, endereçados para este Tribunal Superior, obedecem ao calendário de funcionamento do Tribunal local, sendo irrelevante para a verificação da tempestividade do recurso a existência de feriado nas comarcas do interior (AgInt nos EDcl no REsp 1196747/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/08/2017, DJe 08/09/2017).
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
