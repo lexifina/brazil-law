@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso extraordinário, interposto por ILKA GARCIA RIBEIRO, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 1.117):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE ATOS JUDICIAIS. BENEFÍCIO DA JUSTIÇA GRATUITA. PEDIDO INDEFERIDO. AUSÊNCIA DE MUDANÇAS NA SITUAÇÃO ECONÔMICA DA PARTE. PRECLUSÃO CONSUMATIVA DO PLEITO. EXECUÇÃO PROMOVIDA ANTES DA LEI 8.953/1994 E DA LEI 11.382/2006. INTIMAÇÃO POR EDITAL. POSSIBILIDADE. TENTATIVAS INFRUTÍFERAS PARA INTIMAÇÃO PESSOAL. AUSÊNCIA DE NULIDADE NO FEITO EXECUTIVO. AGRAVO DESPROVIDO.
+1. Conforme jurisprudência desta eg. Corte Superior, "Na vigência da pretérita redação do art. 687 do CPC, anterior às alterações trazidas pela Lei nº 11.382/06, se admitia que a intimação do executado acerca das praças se perfizesse via edital, desde que a circunstância que impedisse a ciência pessoal do devedor fosse razoável" (REsp 897.682/MS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 17/05/2007, DJ de 04/06/2007).
+2. In casu, não há nulidade do ato processual, pois o Tribunal de Justiça consignou que foram realizadas diversas tentativas para intimação pessoal, mas todas foram infrutíferas, motivo pelo qual procedeu à intimação por edital.
+3. Agravo interno desprovido.
+Os aclaratórios opostos foram rejeitados.
+Sustenta a recorrente que as alegações apresentadas na insurgência seriam de repercussão geral, pois o acórdão recorrido afrontaria o disposto no art. 5º, incisos LIV e LV, da Constituição Federal.
+Entende que o aresto vergastado teria mantido a ilegalidade operada na origem acerca da intimação por edital do cônjuge da insurgente quanto às praças a serem realizadas, quando a legislação exigiria a notificação pessoal, o que implicou em cerceamento à ampla defesa da parte, afrontando o devido processo legal.
+Aduz, ainda, "a necessidade do deferimento do benefício da assistência judiciária gratuita, uma vez que não possui condições de arcar com as custas processuais e honorários advocatícios sem comprometer a sua subsistência, nos termos do art. 4 da Lei nº 1.060/50."(e-STJ fl. 1.161).
+Requer a admissão do recurso extraordinário e sua remessa ao Supremo Tribunal Federal.
+Foram apresentadas contrarrazões por um dos recorridos às e-STJ fl. 1.168-1.222.
+É o relatório.
+Inicialmente, verifica-se a necessidade de deferimento do pleito acerca da gratuidade de justiça, haja vista o teor dos documentos juntados com as razões do recurso extraordinário.
+Compulsando-se os autos, verifica-se que a insurgência não merece seguimento.
+Isso, porque no que tange à afronta ao art. 5º, incisos LIV e LV, pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada violação aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na hipótese, a suposta ofensa aos princípios do devido processo legal, do contraditório, e da ampla defesa depende do exame do art. 687, § 5º, do CPC/73, com a redação anterior à Lei n. 13.382/2006, razão pela qual incide o Tema 660/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
