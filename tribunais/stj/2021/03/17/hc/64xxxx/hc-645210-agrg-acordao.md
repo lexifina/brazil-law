@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. HOMOLOGAÇÃO. PAD. NOVA OITIVA. PRESCINDIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior se firmou no mesmo sentido do acórdão impugnado, de que o art. 118, § 2º, da LEP não prevê a obrigatoriedade de nova oitiva do apenado em juízo antes da homologação da falta grave se ele foi previamente ouvido em procedimento administrativo disciplinar (PAD), sendo-lhe oportunizadas as garantias do contraditório e da ampla defesa.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+SILMARA DANIEL DE FREITAS interpõe agravo regimental contra decisão, por meio da qual indeferi liminarmente o habeas corpus.
+Nas razões deste recurso, a defesa insiste nos argumentos exposto na inicial, no sentido de ser nula a imputação da falta grave sem a realização de audiência de justificação.
+Pugna, por isso, pela reconsideração da decisão agravada ou pela submissão do feito ao órgão colegiado, para que a ordem seja concedida.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. FALTA GRAVE. HOMOLOGAÇÃO. PAD. NOVA OITIVA. PRESCINDIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior se firmou no mesmo sentido do acórdão impugnado, de que o art. 118, § 2º, da LEP não prevê a obrigatoriedade de nova oitiva do apenado em juízo antes da homologação da falta grave se ele foi previamente ouvido em procedimento administrativo disciplinar (PAD), sendo-lhe oportunizadas as garantias do contraditório e da ampla defesa.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Percebe-se que o Juízo da execução procedeu à regressão de regime da apenada, a despeito de não haver sido a sentenciada foi ouvida perante a autoridade judicial (fls. 61-64). A um primeiro olhar, esse entendimento contrariaria a jurisprudência consolidada desta Corte Superior, segunda a qual, em caso de prática de fato definido como crime doloso ou falta grave, consoante exegese do art. 118, § 2º, da Lei de Execução Penal, é necessária a prévia oitiva judicial do apenado antes que se proceda à regressão de regime. Confiram-se:
+ ..
+3. Na espécie, o Juízo da instância primeira e o Tribunal de origem determinaram a regressão definitiva ao regime prisional anterior, sem a oitiva do sentenciado, o que caracteriza flagrante ilegalidade.
+4. Habeas Corpus não conhecido. Contudo, ordem concedida de ofício para anular a decisão proferida pelo Juízo da instância primeira, no que concerne à determinação da regressão definitiva de regime, a fim de que, quanto a esse aspecto, outra seja proferida com a observância da prévia oitiva judicial do condenado (HC n. 478.958/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 19/12/2018,. grifei).
+ ..
+2. Confirmada a não oitiva do paciente antes da decisão definitiva de regressão de regime prisional, resta violado o comando do artigo 118, § 2º da LEP, que não é suprido pela oitiva administrativa.
+3. Embora não seja caso de liberdade ao paciente, porque corretamente caracterizada a decisão como cautelar, novo processamento, com oitiva e contraditório, deverá ser realizado para a adequada definição de regressão ou não do regime prisional.
+4. Habeas corpus não conhecido, mas concedida a ordem de ofício para anular a decisão proferida pelo juízo da execução que determinou a regressão de regime sem prévia oitiva judicial do condenado e determinar que outra seja proferida, com a observância do contraditório e da ampla defesa  ..  (HC n. 301.622/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 12/2/2015, destaquei).
+Todavia, na hipótese, não há mácula na manutenção da regressão cautelar de regime, porquanto " e sta Corte Superior possui entendimento pacífico no sentido de que, praticada falta grave pelo Condenado, é perfeitamente cabível a regressão cautelar do regime prisional, com fundamento na comunicação dessa infração ao Juízo, sem a oitiva prévia do Apenado, que somente é exigida na regressão definitiva (precedentes)" (HC n. 446.733/SE, Rel. Ministra Laurita Vaz, 6ª T., DJe 7/11/2018, destaquei).
+Por fim, deve-se frisar também que " a  jurisprudência desta Corte Superior é no sentido de que o art. 118, inciso I, da Lei de Execução Penal, estabelece que o apenado ficará sujeito à transferência para qualquer dos regimes mais gravosos quando praticar fato definido como crime doloso ou falta grave, não havendo que se observar a forma progressiva estabelecida no art. 112 do normativo em referência (STJ. AgRg no REsp 1575529/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/06/2016, DJe 17/06/2016) (AgRg no REsp 1672666/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, j. 13/03/2018, DJe 26/03/2018)" (AgRg no REsp n. 1.773.347/RO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 10/12/2018).
+Reitero o argumento expendido na decisão ora atacada, uma vez que, conforme dito, a paciente foi previamente ouvido em procedimento administrativo disciplinar (PAD), sendo-lhe oportunizadas as garantias do contraditório e da ampla defesa. Isso porque, conforme ressaltado pela Corte local, "SILMARA, ao prestar depoimento acerca da falta a ela atribuída (fls. 26/27), contou com a assistência de Advogado e teve a oportunidade de dar a sua versão acerca dos acontecimentos. Após, o seu defensor apresentou razões finais, pleiteando o arquivamento da sindicância, ou seja, o feito correu normalmente (fls. 38/39) (fl. 93, grifei).
+À vista do exposto, nego provimento ao agravo regimental.
