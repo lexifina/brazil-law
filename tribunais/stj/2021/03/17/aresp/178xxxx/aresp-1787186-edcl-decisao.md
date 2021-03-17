@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSÉ LOPES FERNANDES NETO à decisão de fls. 879/880, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Com efeito, em razão dos impactos da Pandemia, os prazos relativos aos processos físicos que tramitavam no e. Tribunal de Justiça do Estado de São Paulo foram suspensos a partir do dia 16/03/2020 e, após sucessivas prorrogações dessa suspensão, voltaram a correr apenas no dia 03/08/2020.
+É o que se extrai do Provimento CSM nº 2545/2020 (Doc.1) prorrogado pelos Provimentos CSM nº 2555/2020 (Doc.2), 2563/2020 (Doc.3) e, por fim, 2564/2020 (Doc.4), que determinou, em seu art. 3º, que os prazos processuais para os processos físicos, como no caso, voltariam a correr apenas no dia 03/08.
+Cumpre ressaltar que, em que pese a decisão ter invocado o disposto no art. 1003 do CPC/15, que dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", tal dispositivo não encontra aplicação no caso em questão.
+É que a suspensão em questão não diz respeito a um feriado local, mas, como explicitado, da Pandemia do Coronavírus, fato absolutamente público e notório, que produziu efeitos de enorme magnitude em todo o território nacional. Dessa forma, não há que se falar que o agravante não cumpriu com obrigação de informar a ocorrência de feriado local. (fls. 886/887).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do CPC, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Não procede a alegação de que é desnecessária a comprovação do feriado local por ser período absolutamente conhecido, tratando-se, portanto, de fato notório. A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso, providência que não foi cumprida.
+A propósito, confira-se este precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. DIA DE CORPUS CHRISTI. INEXISTÊNCIA DE FERIADO NACIONAL. AUSÊNCIA DE NOTORIEDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. Esta Corte adota o entendimento de que o Dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar no ato da interposição do recurso, por documento idôneo, a suspensão do expediente forense no Tribunal estadual, o que não ocorreu na hipótese.
+ ..
+5. A existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional.
+6 . Agravo interno não provido
+(AgInt nos EDcl no AREsp 1465673/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/05/2020.)
+Ressalte-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluir, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
