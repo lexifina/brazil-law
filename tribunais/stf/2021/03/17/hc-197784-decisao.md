@@ -1,0 +1,28 @@
+Decisão: Trata-se de habeas corpus impetrado por Rodrigo Gonçalves Trindade e outro em favor de Cláudia Luciana de Sousa Mascena Veras, apontando-se como atos coatores decisões nos processos HC 554.349/PB e HC 564.325/PB, do Superior Tribunal de Justiça.
+    Os impetrantes narram que a paciente foi presa preventivamente no âmbito da Operação Calvário II, teve a prisão preventiva substituída por cautelares diversas pelo STJ no acórdão do HC 554.349/PB (eDOC 12- extensão deferida à paciente), então sofreu o acréscimo de duas cautelares (recolhimento noturno e monitoramento eletrônico) pelo relator da ação penal de origem, perante o Tribunal de Justiça da Paraíba.
+    Alegam que outros corréus, em situação idêntica à da paciente, não tiveram sua situação agravada pelo TJPB (eDOC 1, p. 5); que o monitoramento eletrônico constitui medida desproporcional, pois a pena em abstrato do crime de que é acusada seria de 3 a 8 anos de reclusão (eDOC 1, p. 8); que a paciente teria sido convocada para auxiliar na vacinação contra Covid em áreas indígenas por todo o Estado da Paraíba. (eDOC 1, p. 6)
+    Pleiteiam a revogação das duas cautelares diversas impostas pelo relator da ação penal.
+    Em 2.3.2021 um dos impetrantes noticiou a concessão parcial de liminar no HC 647.077/PB, do Superior Tribunal de Justiça, impetrado em favor da paciente, para suspender a medida cautelar de recolhimento noturno, finais de semana e feriado. (eDOC 24).
+    É o relatório.
+    Decido.
+    O habeas corpus não pode ser conhecido.
+    Os impetrantes buscam desfazer os efeitos de ato monocrático do Tribunal de Justiça da Paraíba, que não está sujeito à apreciação originária desta Corte. Os atos do Superior Tribunal de Justiça indicados na inicial como coatores (HC 554.349/PB e HC 564.325/PB), além de não trazerem prejuízo ao direito de ir e vir da paciente, resultam de impetrações em favor de corréu (Ricardo Vieira Coutinho), em um dos quais se lhe deferiu pedido de extensão.
+    Já o HC 647.077/PB foi impetrado no STJ em 23.2.2021, após o protocolo deste writ (12.2.2021). Ainda que fosse possível, a posteriori, considerar que o ato coator a ser ora analisado fosse sua decisão liminar, que não concedeu a ordem para suspender o monitoramento eletrônico, a pretensão esbarraria no óbice da Súmula 691:
+    Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+    Embora a Súmula 691 possa ser afastada no caso de patente constrangimento ilegal, não vislumbro a possibilidade de conceder a ordem de ofício.
+    Para tanto, são relevantes os fundamentos da decisão que concedeu parcialmente a liminar:
+    “Lado outro, quanto ao monitoramento eletrônico, não verifico de plano a patente ilegalidade do decisum, tendo em vista que a medida cautelar foi imposta em substituição à prisão preventiva requerida pela Acusação, considerando-se a sua imprescindibilidade para a implementação e fiscalização daquelas fixadas pelo Superior Tribunal de Justiça, in verbis (fls. 497-499):
+    ‘(6) Monitoramento pelo uso de tornozeleira eletrônica (art. 319, IX, do CPP), porquanto, igualmente, em conjunto com as demais cautelares aplicadas, mostra-se proporcional e adequado às finalidades acautelatórias pretendidas, quais sejam, evitar o risco de reiteração delitiva e resguardar a ordem pública, na medida em que possibilita a constante localização do indigitado, o qual, ciente de sua monitoração, não medirá esforços em cumprir as outras restrições impostas pelo Judiciário, ao menos assim sendo esperado.
+    Disso, o uso da tornozeleira eletrônica justifica-se, outrossim, como medida de fiscalização do cumprimento das demais cautelares impostas, a maioria delas fixadas pela própria r. Corte Superior, sobretudo as previstas no art. 319, incisos III, IV e V, do CPP.
+    Nesse sentido, trago à colação os seguintes julgados do STJ: [...]
+    Portanto, a medida se revela adequada também para asseguramento da ordem pública, levando em consideração a complexidade da organização sob investigação, evidenciada pelo número de integrantes e presença de diversos núcleos de atuação, o papel de destaque por eles assumido no âmbito do suposto agrupamento delituoso, bem assim a influência econômica exercida no meio em que circulavam.
+    Diante de toda a base objetivamente fática aqui exposta, verifico íntima correlação das medidas coercitivas aplicadas com as peculiaridades a envolverem o caso concreto, bem assim porque encontram pertinência aos riscos que, com elas, se pretende evitar.
+    As referidas medidas cautelares, e aqui entendo oportuno ressaltar, guardam estreito liame etiológico com o tipo de criminalidade em liça, sendo proporcionais e adequadas, porquanto encerram, sobretudo, verdadeiras precauções tendentes à preservação da escorreita colheita da prova e da profilaxia de eventual renitência delitiva.’
+    Tal entendimento não se mostra, prima facie, desprovido de razoabilidade, notadamente diante da dimensão da suposta organização criminosa e do número de Investigados, alguns já denunciados, que tiveram a prisão preventiva substituída por medidas diversas”. (eDOC 24, p. 4)
+    Assim, não se tratando de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, descaberia afastar a aplicação da Súmula 691 do STF.
+    Ante o exposto, nego seguimento ao habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 17 de março de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
