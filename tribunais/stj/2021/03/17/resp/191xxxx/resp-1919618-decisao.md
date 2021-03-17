@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Ação declaratória de nulidade de cláusula contratual, cumulada com reparação de danos materiais - Plano de saúde - Sentença de procedência - Insurgência da requerida - Autor diagnosticado com adenocarcinoma de próstata - Recusa da requerida quanto ao custeio do procedimento de "prostato vesiculectomia radical robótica"sob alegação de que não está previsto pelo rol da ANS - Abusividade - Necessidade de cobertura pela requerida do tratamento indicado por médico assistente - Cláusula de exclusão genérica de caráter abusivo - Aplicação do Código de Defesa do Consumidor e da Súmula 102 do Tribunal de Justiça ao caso - Impossibilidade de discussão pelo plano de saúde acerca da pertinência da prescrição feita pelo médico assistente - Necessidade de cobertura - Exclusão contratual que coloca em risco o objeto do contrato - Prevalência do princípio ao acesso à saúde - Abusividade da negativa de cobertura - Reembolso de despesas referente ao procedimento cirúrgico indicado - Recurso não provido.
+Nega-se provimento ao recurso" (fl. 297 e-STJ).
+No especial (fls. 1.203/1.216 e-STJ), a recorrente alega violação dos arts. 10 e 35-F da Lei nº 9.656/98 e arts. 51, inciso IV e § 1º, inciso II, e 54, § 4º, do Código de Defesa do Consumidor. Aduz, em síntese, que
+"(..) no presente caso, não há que se falar em fornecimento ou custeio de tratamentos por métodos que não estão previstos no ROL DA ANS nem no contrato que beneficia o Apelado
+Além disso, como se verá adiante, há expressa exclusão contratual para o fornecimento de tratamentos que não constam no rol da ANS.
+(..)
+(..) o entendimento manifestado pelo Egrégio Tribunal de Justiça do Estado de São Paulo é contrário à Lei no 9.656/98, em especial aos artigos 10, e 35-F. (..)
+(..)
+(..) as coberturas obrigatórias dos planos de saúde regulamentados são determinadas pela ANS, não se tratando de liberalidade da Recorrente, consoante disposição da Lei 9.656/98:
+(..)
+(..) denota-se que o v. acórdão contrariou o art. 10, § 4º, da Lei no 9.656/98, quando determinou que a falta de inclusão do procedimento no rol da ANS não obsta a realização do serviço complementar.
+(..)
+Portanto, o v. acórdão recorrido, quando determinou que a falta de inclusão do procedimento no rol da ANS não obsta a realização do serviço complementar, contrariou o quanto disposto no art. 35-F, da Lei no 9.656/98, que determina que a observância da referida lei e do contrato firmado entre as partes é de natureza obrigatória.
+(..)
+Nesta esteira, resta comprovada a vulneração aos dispositivos de lei federal invocados pela Recorrente, tendo em vista que a prestacão de servicos é restrita aos procedimentos constantes no rol da ANS e descritos no contrato, não comportando entendimento diverso.
+Logo, não há que se falar em cobertura para o uso de robótica, pois a Recorrente se comprometeu apenas à prestação de serviços de assistência à saúde dentro dos limites legais e contratuais" (fls. 316/319 e-STJ).
+Contrarrazões às fls. 388/400 (e-STJ).
+O recurso foi admitido na origem (fls. 401/403 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+Havendo previsão de cobertura para a doença que o paciente apresenta (adenocarcinoma de próstata), é justa a sua expectativa de cobertura para o tratamento que lhe for recomendado pelo médico assistente. A finalidade do contrato em questão, assim como a aplicação do princípio da boa fé objetiva, com sustento no Artigo 51 do Código de Defesa do Consumidor e no Artigo 422 do Código Civil permite o reconhecimento de que a recusa foi injusta e cláusula contratual redigida de forma genérica não pode ser considerada válida para o fim de afastar a cobertura, tendo em vista que a natureza do contrato autoriza a aplicação da legislação consumerista.
+Nem mesmo a alegação de desrespeito ao equilíbrio contratual poderia justificar a aplicação da cláusula de exclusão de tratamento adequado à doença cuja cobertura é expressamente prevista. Conforme já ressaltado, ao conceder cobertura à doença, impossível o afastamento da terapia correspondente.
+Havendo cobertura para a doença não é possível negar cobertura ao procedimento necessário ao tratamento, cura e prevenção, sendo possível concluir que o equilíbrio financeiro do ajuste firmado pelas partes também estará atendido, pois a contratada conhece suas obrigações, não sendo possível, ademais, a ausência de cobertura para as hipóteses de inovação e atualização de procedimentos recomendados ao paciente.
+(..)
+(..) não se autoriza que a requerida afaste a cobertura/custeio do tratamento recomendado ao autor por médico assistente por não haver previsão de cobertura para o tratamento recomendado no rol de procedimentos da ANS e, com mais razão, por não atender às diretrizes de tratamento lá estipulada.
+Ademais, é certo que a inovação do tratamento não pode afastar a cobertura, pois a evolução das técnicas e da medicina exige atualização constante para a cura das doenças, de modo que, havendo prescrição do médico assistente acerca da necessidade de realização do tratamento prescrito, não se mostra legítima a negativa do plano em cobrir os procedimentos por não estar relacionado entre as diretrizes da agência reguladora referida.
+Assim, havendo prescrição médica acerca dos procedimentos recomendados, o plano de saúde não pode se recusar a cobri-lo, na medida em que integra o tratamento necessitado por beneficiário do plano de saúde.
+O relatório médico (fls. 36), atestou que o autor é portador de adenocarcinoma de próstata e que possui indicação de tratamento cirúrgico, sendo a alternativa mais segura e recomendada a cirurgia de prostato vesiculectomia radical robótica, tendo em vista que a cirurgia convencional apresenta alto risco a saúde do autor.
+Ademais, conforme ressaltado, não cabe ao plano discutir a pertinência da prescrição feita pelo médico assistente.
+(..)
+Desse modo, havendo previsão contratual de cobertura para a doença que acometia o autor, não se vislumbra a possibilidade de negativa de cobertura/custeio ao procedimento necessário à cura e prevenção.
+Portanto, deve a requerida ressarcir ao autor os valores desembolsados com a cirurgia, no montante de R$ 44.000,00, conforme documentos comprobatórios juntados com a inicial"(fls. 300/303 e-STJ).
+A Terceira Turma desta Corte Superior reafirmou a jurisprudência no sentido do caráter meramente exemplificativo do rol de procedimentos da ANS, reputando abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+Isso porque compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir sobre o tratamento, mas custear as despesas de acordo com a melhor técnica. Assim, ainda que admitida a possibilidade de conter o contrato de plano de saúde cláusulas limitativas dos direitos do consumidor, revela-se abusiva a que exclui o custeio dos meios e materiais necessários ao melhor desempenho do tratamento de doença coberta pelo plano.
+Confira-se:
+"AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL (CPC/2015). CIVIL. PLANO DE SAÚDE NA MODALIDADE AUTOGESTÃO. RECUSA DE COBERTURA DE CIRURGIA PARA TRATAMENTO DE DEGENERAÇÃO DA ARTICULAÇÃO TEMPOROMANDIBULAR (ATM). DIVERGÊNCIA QUANTO À ADEQUAÇÃO DO PROCEDIMENTO. INGERÊNCIA NA RELAÇÃO CIRURGIÃO-PACIENTE. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA TURMA. APLICABILIDADE ÀS OPERADORAS DE AUTOGESTÃO. PRECEDENTE EM SENTIDO CONTRÁRIO NA QUARTA TURMA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DESTA TURMA.
+1. Controvérsia acerca da recusa de cobertura de cirurgia para tratamento de degeneração da articulação temporomandibular (ATM), pelo método proposto pelo cirurgião assistente, em paciente que já se submeteu a cirurgia anteriormente, por outro método, sem obter êxito definitivo.
+2. Nos termos da jurisprudência pacífica desta Turma, o rol de procedimentos mínimos da ANS é meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde. Aplicação do princípio da função social do contrato.
+3. Caso concreto em que a necessidade de se adotar procedimento não previsto no rol da ANS encontra-se justificada, devido ao fato de o paciente já ter se submetido a tratamento por outro método e não ter alcançado êxito.
+4. Aplicação do entendimento descrito no item 2, supra, às entidades de autogestão, uma vez que estas, embora não sujeitas ao Código de Defesa do Consumidor, não escapam ao dever de atender à função social do contrato.
+5. Existência de precedente recente da QUARTA TURMA no sentido de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS.
+6. Reafirmação da jurisprudência desta TURMA no sentido do caráter exemplificativo do referido rol de procedimentos.
+7. AGRAVO INTERNO DESPROVIDO" (AgInt no REsp 1.829.583/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 22/6/2020, DJe 26/6/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de obrigação de fazer cumulada com reparação por danos morais, fundada na negativa de cobertura de medicamento.
+2. Ausentes os vícios do art. 1022 do CPC, rejeitam-se os embargos de declaração.
+3. É abusiva a recusa da operadora do plano de saúde de arcar com a cobertura do medicamento prescrito pelo médico para o tratamento do beneficiário, sendo ele off label, de uso domiciliar, ou ainda não previsto em rol da ANS, e, portanto, experimental, quando necessário ao tratamento de enfermidade objeto de cobertura pelo contrato. Precedentes.
+4. Agravo interno no recurso especial não provido" (AgInt no REsp 1.849.149/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 30/3/2020, DJe 1º/4/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. 1. TRATAMENTO PRESCRITO PELO MÉDICO. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. SÚMULA 83/STJ. 2. LIMITAÇÃO DE SESSÕES DE TERAPIA E COBRANÇA DE COPARTICIPAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. Com efeito, a jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "não é cabível a negativa de tratamento indicado pelo profissional de saúde como necessário à saúde e à cura de doença efetivamente coberta pelo contrato de plano de saúde". E o "fato de eventual tratamento médico não constar do rol de procedimentos da ANS não significa, per se, que a sua prestação não possa ser exigida pelo segurado, pois, tratando-se de rol exemplificativo, a negativa de cobertura do procedimento médico cuja doença é prevista no contrato firmado implicaria a adoção de interpretação menos favorável ao consumidor" (AgRg no AREsp 708.082/DF, Rel. Ministro João Otávio de Noronha, Terceira Turma, julgado em 16/2/2016, DJe 26/2/2016).
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+2.1. Cumpre ressaltar que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos declaratórios na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício.
+3. Agravo interno improvido"(AgInt no AREsp 1.471.762/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 23/3/2020, DJe 30/3/2020).
+Incide, portanto, a Súmula nº 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa corrigido (fl. 303 e-STJ), os quais devem ser majorados para 16% (dezesseis por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observada a assistência judiciária, se for o caso.
+Publique-se.
+Intimem-se.
