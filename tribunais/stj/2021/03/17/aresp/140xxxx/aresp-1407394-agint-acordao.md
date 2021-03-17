@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO DE VEÍCULO. AÇÃO MOVIDA CONTRA DEVEDOR FALECIDO. IMPOSSIBILIDADE DE SUCESSÃO PROCESSUAL. INCIDÊNCIA DA SÚMULA 284/STF QUANTO À ALEGAÇÃO DE OFENSA AOS ART. 110 DO CPC/2015. ARTS. 2º, § 2º, DO DECRETO-LEI N. 911/1969 E 884 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O recorrente não se desincumbiu de demonstrar as razões pelas quais considera violada o art. 110 do CPC/2015, não havendo falar em subsunção à norma processual vigente. Nesse contexto, estando as razões recursais dissociadas daquilo que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, a incidência da Súmula n. 284/STF.
+2. O conteúdo normativo referente aos arts. 2º, § 2º do Decreto-Lei n. 911/1969 e 884 do Código Civil, tidos por violados, não foi objeto de análise pelo acórdão impugnado e, apesar da oposição dos embargos de declaração, não serviram como fundamento à conclusão adotada pela Corte local. Desatendido, nesse ponto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Banco Toyota do Brasil S.A. contra decisão monocrática desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 501):
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO DE VEÍCULO. AÇÃO MOVIDA CONTRA DEVEDOR FALECIDO. IMPOSSIBILIDADE DE SUCESSÃO PROCESSUAL. INCIDÊNCIA DA SÚMULA 284 DO STF QUANTO À ALEGAÇÃO DE OFENSA AOS ART. 110 DO CPC/2015. ARTS. 2º, § 2º, DO DECRETO-LEI N. 911/1969 E 884 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
+Em suas razões (e-STJ, fls. 510-516), o agravante sustenta a necessidade de reforma da decisão agravada, ressaltando a inaplicabilidade dos óbices apontados.
+Refuta a incidência da Súmula n. 211/STJ, aduzindo que a matéria debatida no recurso especial está expressamente prequestionada, tecendo considerações ainda sobre a possibilidade do prequestionamento implícito. Alega que se insurgiu contra o acórdão estadual através do recurso de embargos de declaração, o que atrai a aplicação do art. 1.025 do CPC/2015.
+Ressalta que não é caso de aplicação da Súmula 284/STF, aduzindo que procedeu à impugnação do acórdão recorrido, ao defender a possibilidade de sucessão processual antes do procedimento citatório.
+Requer, ao final, a reconsideração da decisão agravada ou a submissão à Turma julgadora.
+Sem impugnação (e-STJ, fl. 520).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BUSCA E APREENSÃO DE VEÍCULO. AÇÃO MOVIDA CONTRA DEVEDOR FALECIDO. IMPOSSIBILIDADE DE SUCESSÃO PROCESSUAL. INCIDÊNCIA DA SÚMULA 284/STF QUANTO À ALEGAÇÃO DE OFENSA AOS ART. 110 DO CPC/2015. ARTS. 2º, § 2º, DO DECRETO-LEI N. 911/1969 E 884 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O recorrente não se desincumbiu de demonstrar as razões pelas quais considera violada o art. 110 do CPC/2015, não havendo falar em subsunção à norma processual vigente. Nesse contexto, estando as razões recursais dissociadas daquilo que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, a incidência da Súmula n. 284/STF.
+2. O conteúdo normativo referente aos arts. 2º, § 2º do Decreto-Lei n. 911/1969 e 884 do Código Civil, tidos por violados, não foi objeto de análise pelo acórdão impugnado e, apesar da oposição dos embargos de declaração, não serviram como fundamento à conclusão adotada pela Corte local. Desatendido, nesse ponto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+3. Agravo interno improvido.
+VOTO
+Da leitura das razões recursais, constata-se que o recorrente não trouxe nenhuma argumentação capaz de modificar a conclusão da decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
+Como visto, nas razões do recurso especial (e-STJ, fls. 359-370), o recorrente alegou violação aos arts. 2º, § 2º, do Decreto-Lei 911/1969; 110 do CPC/2015; e 884 do Código Civil.
+Insurgiu-se contra a conclusão do acórdão em manter incólume a sentença de primeiro grau que extinguiu a ação de busca e apreensão e determinou a restituição do veículo outrora apreendido e vendido segundo o valor da Tabela Fipe.
+Sustentou, em síntese, que, ao ajuizar a demanda, não possuía o conhecimento de que o recorrido era falecido, não havendo impedimento legal na sucessão antes do procedimento citatório.
+Aduziu que houve comprovação da mora, sendo válido o protesto do título em cartório.
+Ponderou que os sucessores processuais deveriam ter feito a comunicação do falecimento do recorrido, bem como a eventual mudança de endereço. Postulou a conversão da obrigação de restituir o veículo em prestação de contas ante a impossibilidade de os sucessores cumprirem a obrigação.
+Frisou que o valor a ser consignado em juízo deve corresponder ao preço real do bem, qual seja, o auferido com a venda em leilão, constante na nota fiscal, sob pena de caracterizar enriquecimento sem causa.
+Entretanto, conforme anotado na decisão agravada, o Tribunal de origem afastou a sucessão processual, com base nos seguintes fundamentos (e-STJ, fl. 312):
+No caso, não se cogita da hipótese de sucessão voluntária, pois o falecimento do réu ocorreu em 22/5/2015, antes da primeira tentativa de entrega da notificação extrajudicial (25/5/2015 - fl. 33), e da propositura da demanda, ocorrida em 18/12/2015. Isto é, a ação foi ajuizada contra pessoa falecida, e a tentativa de constituição em mora do devedor não se mostrou eficaz porque levada a efeito após o óbito do réu. Diante desse contexto, mostra-se correta a sentença que extinguiu o processo, por ausência de pressuposto de constituição e desenvolvimento válido e regular do processo.
+Como se depreende o acórdão recorrido, ao manter a sentença de extinção do processo, consignou expressamente que o ora agravante ajuizou ação de busca e apreensão contra pessoa já falecida, que não é parte da relação jurídica em comento, o que configura falta de pressuposto de constituição e de desenvolvimento válido e regular do processo.
+Verifica-se, assim, que o recorrente não se desincumbiu de demonstrar as razões pelas quais considera violada o art. 110 do CPC/2015, não havendo falar em subsunção à norma processual vigente.
+Por conseguinte, permanece a compreensão anteriormente perfilhada no sentido de que as razões recursais apresentadas encontram-se dissociadas daquilo que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, a incidência da Súmula n. 284 do STF.
+No mais, ratifica-se, que o conteúdo normativo referente aos arts. 2º, § 2º do Decreto-Lei n. 911/1969 e 884 do Código Civil, tidos por violados, não foi objeto de análise pelo acórdão impugnado e, apesar da oposição dos embargos de declaração, não serviram como fundamento à conclusão adotada pela Corte local. Desatendido, nesse ponto, o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
