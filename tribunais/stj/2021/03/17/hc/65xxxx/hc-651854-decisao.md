@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de MARIA JOSE MORAES DOS SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Amapá.
+A paciente foi presa preventivamente no dia 12/12/2020, pela suposta prática dos crimes de tráfico de drogas,associação para o tráfico de drogas e lavagem de capitais.
+O impetrante sustenta que estão ausentes os pressupostos da prisão preventiva, e, ao contrário,estão preenchidos todos os requisitos explicitados no HC Coletivo n. 143.641/SP, de modo que a prisão preventiva deve ser convertida em prisão domiciliar.
+Afirma que a paciente é a única responsável pelo cuidado de 3 filhos, um deles menor de 12 anos de idade.
+Requer, liminarmente, a concessão da ordem para que seja revogada a prisão preventiva da paciente, com a expedição do alvará de soltura, ou, subsidiariamente,a substituição da prisão cautelar em domiciliar. No mérito, pugna pela confirmação daordem.
+É, no essencial, o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte(e-STJ fl. 481):
+A investigação também concluiu que MARIA JOSÉ, juntamente com "PIXOTE", após receber a autorização de BENEDITO, espancaram covardemente uma mulher, e ainda publicaram as fotografias como forma de exemplo para outras pessoas que venham a atrapalhar os negócios ilícitos da organização criminal na área, tudo porque um dos filhos dessa senhora teria praticado furtos/roubos naquela área, e fugiu antes de os comparsas da acusada o pegarem para "dar a punição".
+Os fatos apontados nas investigações são graves, tendo em vista que tratam da prática dos crimes de organização criminosa, tráfico de drogas e lavagem de capitais, o que em tese, afastaria, inclusive, o tráfico privilegiado, o qual não foi arguido pela defesa. Contudo, necessário reconhecer que a dimensão da participação da acusada é matéria para análise sob o crivo do contraditório em instrução processual.
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
