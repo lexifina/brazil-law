@@ -1,0 +1,40 @@
+DECISÃO
+SANTOS TRANSPORTES TERRESTRES E LOCAÇÕES EIRELI ME e HUGNEY DOS SANTOS BORGES (SANTOS e outro) interpuseram agravo de instrumento contra decisão que, em ação de busca e apreensão proposta por BANCO BRADESCO FINANCIAMENTOS S/A em desfavor dos agravantes, deferiu liminarmente a busca e apreensão de automóvel alienado fiduciariamente em garantia, transferindo a posse direta à parte autora/agravada(e-STJ, fls. 92/93).
+O agravo de instrumento foi provido por decisão monocrática do relator assim ementada:
+EMENTA - AGRAVO DE INSTRUMENTO - AÇÃO DE BUSCA E APREENSÃO - ALIENAÇÃO FIDUCIÁRIA - AUSÊNCIA DE TENTATIVA EFETIVA DE NOTIFICAÇÃO PESSOAL DO DEVEDOR - PROTESTO DE TÍTULO - NOTIFICAÇÃO DO DEVEDOR POR EDITAL - NÃO-COMPROVAÇÃO DA MORA. RECURSO CONHECIDO E PROVIDO.
+- O protesto do título, cuja intimação do devedor para pagamento foi realizada por edital, somente é considerado válido para constituição da mora se comprovado nos autos que o devedor encontra-se em lugar ignorado.
+- Não tendo ocorrido esforço maior por parte do credor para empreender a notificação da devedora pessoalmente, reputa-se sem efeito a notificação editalícia, a qual somente pode se dar em circunstância excepcional comprovada nos autos.
+- Sendo a comprovação da mora imprescindível à busca e apreensão do bem alienado fiduciariamente (Súmula 72 do STJ), deve ser revogada a liminar.
+- Recurso conhecido e provido.(e-STJ, fl. 108).
+Os embargos de declaração opostos por BANCO foram rejeitados (e-STJ fls. 151/157).
+Irresignado, BANCO interpôs agravo interno, que foi desprovido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul em acórdão assim ementado:
+EMENTA- AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - AÇÃO DE BUSCA E APREENSÃO EM ALIENAÇÃO FIDUCIÁRIA - PRELIMINAR DE DESCUMPRIMENTO DO ART. 1017, I, DO CPC- REJEITADA - PRELIMINAR DE NULIDADE DA DECISÃO MONOCRÁTICA EM RAZÃO DA VEDAÇÃO DA DECISÃO SURPRESA - JULGAMENTO MONOCRÁTICO PELO RELATOR - POSSIBILIDADE - NULIDADE AFASTADA - JURISPRUDÊNCIA DOMINANTE DESTA EGRÉGIA CORTE - SÚMULA N. 568 DO STJ.
+I) Apesar do ora agravado ter colacionado peças a mais, tal fato não prejudicou a análise da matéria. Ademais, por se tratar de processo eletrônico, não há obrigatoriedade de juntada de peças essenciais para instrução do recurso, nos termos do art. 1.017, § 5º, do CPC.
+II) O artigo 932 da Lei n.º 13.105/15 permite o julgamento do recurso na forma monocrática. A técnica de julgamento monocrático pelo relator, que continua sendo aplicada no STJ por força da Súmula 568 daquele Colendo Tribunal, há de ser aqui também empregada, a despeito da redução de poderes contidas no referido artigo 932, V, do CPC/15, por contrariar regra maior, contida na Constituição Federal, de realização da razoável duração do processo, da efetividade dele, constituindo-se emmeio que garante a celeridade da tramitação recursal, tendo em vista o que consta do artigo 5º, LXXVIII, da Magna Carta.
+Outrossim, o controle do julgamento monocrático pode se dar por via do agravo interno, que a parte tem à sua disposição, fato que assegura a possibilidade de ser mantida a orientação do Código de Processo Civil de 2015, de ser o novo diploma um Código constitucionalizado, com vistas a concretizar os ideais do Estado Democrático Constitucional, mediante decisão de mérito justa, tempestiva e efetiva, nos termos do disposto nos artigos 1º, 4º, 5º e 6º, do CPC/15.
+Ademais, a manifestação do agravante não teria o condão de infirmar o entendimento esposado na decisão objurgada, conforme enunciado n.º 3 do ENFAM.
+MÉRITO - AUSÊNCIA DE TENTATIVA EFETIVA DE NOTIFICAÇÃO PESSOAL DO DEVEDOR - PROTESTO DE TÍTULO - NOTIFICAÇÃO DO DEVEDOR POR EDITAL - NÃO COMPROVAÇÃO DA MORA - RECURSO DE AGRAVO INTERNO IMPROVIDO - DECISÃO MANTIDA.
+III) O protesto do título, cuja intimação do devedor para pagamento foi realizada por edital, somente é considerado válido para constituição da mora secomprovado nos autos que o devedor encontra-se em lugar ignorado.
+Não tendo ocorrido esforço maior por parte do credor para empreender a notificação da devedora pessoalmente, reputa-se sem efeito a notificação editalícia, a qual somente pode se dar em circunstância excepcional comprovada nos autos.
+Sendo a comprovação da mora imprescindível à busca e apreensão do bem alienado fiduciariamente (Súmula 72 do STJ), deve ser revogada a liminar.
+IV) Recurso de agravo interno conhecido, mas improvido, mantendo a decisão monocrática que deu provimento ao agravo de instrumento.(e-STJ, fls. 202/203).
+Os embargos de declaração opostos por BANCO foram rejeitados (e-STJ fls. 242/256).
+Inconformado, BANCO interpôs recurso especial, com fundamento no art. 105, a e c, da CF, apontando a violação dos arts. 394, 421 e 422 do CC/2002 e arts.2º, §§ 2º, 3º e 15, do Decreto-lei 911/69, por reputar hígida a constituição em mora dos recorridos a partir da comprovação por notificação extrajudicial no endereço declinado no contrato firmado entre as partes, realizada por carta com aviso de recebimento, ainda que devolvidapor haver o recorrido se mudado do local e não haver comunicado tal alteração, além de subsidiariamente ainda ter protestado o respectivo título, estando demonstrado o esgotamento prévio de todos os meios para localizar o devedor e também a boa-fé e a lealdade processual.Também indicou dissídio jurisprudencial, tendo por paradigmas precedentes desta Corte Superior edoTribunalde Justiça doEstado do Ceará.
+Em juízo de admissibilidade, a Vice-Presidência do Tribunal mato-grossense-do-sul admitiu o apelo nobre(e-STJ fls. 339/343).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça.
+O STJ tem precedenteno sentido de que somente após o prévio exaurimento das providências no sentido de localizar o devedor é que se revela cabível a notificação por edital como meio de constituição da mora, sendo vedado, na via estreita do recurso especial, rever tal conclusão à luz do enunciado da Súmula 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSTITUIÇÃO EM MORA.NOTIFICAÇÃO POR EDITAL. ESGOTAMENTO DAS DILIGÊNCIAS. NECESSIDADE.ALTERAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1.Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, o tribunal local concluiu que as diligências para localizar o devedor não foram esgotadas. Rever tal entendimento atrai a incidência da Súmula nº 7/STJ.
+3. A notificação por edital para constituição do devedor em mora é permitida apenas quando esgotadas todas as possibilidades de sua localização.
+4. Agravo interno não provido.
+(AgInt no AREsp 1332202/ES, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/05/2019, DJe 29/05/2019)
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL DO BANCO DA AMAZÔNIA S/A. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. LIMINAR. NOTIFICAÇÃO EDITALÍCIA POSTERIOR AO ENVIO DE CARTA COM AVISO DE RECEBIMENTO PARA LOCAL DE ANTIGA RESIDÊNCIA DO DEVEDOR, CONSTANTE DO CONTRATO FIRMADO ENTRE AS PARTES.EXAURIMENTO DOS MEIOS DE LOCALIZAÇÃO DO RÉU. AUSÊNCIA. CONCLUSÃO ALCANÇADA PELO TRIBUNAL MATO-GROSSENSE-DO-SUL.REVOLVIMENTO. ÓBICE DA SÚMULA 7 DO STJ. RECURSO ESPECIAL NÃOPROVIDO.
