@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por Crescencio Alberto Pereira Centola contra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+AGRAVO. ART. 557 DO CPC. PREVIDENCIÁRIO E PROCESSUAL CIVIL. "DESAPOSENTAÇÃO". NOVA CONCESSÃO DO BENEFICIO COM A INCLUSÃO DE TEMPO DE SERVIÇO ADICIONAL. POSSIBILIDADE. LACUNA LEGAL. SOLUÇÃO DE ACORDO COM OS PRINCÍPIOS GERAIS DO DIREITO. PRINCÍPIO DA BOA-FÉ. PRINCÍPIO DO NÃO -ENRIQUECIMENTO ILÍCITO. PRINCÍPIO DA SEGURANÇA JURÍDICA. PRINCÍPIO DA ISONOMIA.
+- A relação jurídica entre a Previdência Social (aqui representada pelo INSS) e o titular do beneficio é de natureza continuativa, que a torna suscetível de revisão na ocorrência de novas circunstâncias de fato ou de direito, como denota o inciso 1 do art. 471 do CPC, ao afastar expressamente os efeitos da coisa julgada material deste tipo de relação, raciocínio que pode sei aplicado ao ato jurídico perfeito, dada a identidade de fundamentos.
+- Não há dispositivo legal que trate do assunto, gerando lacuna a ser resolvida mediante o emprego da analogia, dos costumes e dos princípios gerais do direito, na expressa dicção do art. 40 da Lei de Introdução ao Código Civil (Lei 4.657/1942).
+-São requisitos para a "desaposentação", sob pena de enriquecimento ilícito e desestabilização do sistema de custeio da Previdência Social: a) o recolhimento das contribuições relativas ao período de "desaposentação", para a inclusão no tempo de serviço a ser considerado no cálculo da renda mensal inicial do novo beneficio); b) a devolução dos valores recebidos a título deaposentadoria, com atualização monetária, nos termos da lei de regência.
+- Não há que se cogitar de juros ou multa de mora sobre os valores devolvidos, pois não se está a tratar de indenização por ato ilícito ou sanção por descumprimento de comando legal, que em regra justificam a imposição dos citados ônus.
+- A devolução dos valores percebidos deve corresponder 30% dos proventos mensais do novo beneficio ou o que lhe restou acrescido, quando comparado ao anterior, prevalecendo o menor valor nominal dentre estes dois critérios.
+- Inexistindo qualquer objeção concreta quanto aos interesses atuariais da Previdência Social, não se verifica afronta ao principio da segurança jurídica, visto que a "desaposentação" possibilita o incremento pecuniário dos proventos, sem provocar sensivel desequilíbrio nas relações da Previdência Social com os seus beneficiários.
+- Cabível a "desaposentação" e a nova concessão do mesmo beneficio, a partir da citação do INSS, com a inclusão do tempo de serviço correspondente nos cálculos da nova renda mensal inicial, desde que tenha havido o recolhimento das contribuições atinentes, em respeito à isonomia com os demais segurados da Previdência Social e ao principio do não-enriquecimento ilícito.
+- Agravo legal do INSS improvido e agravo legal da parte autora parcialmente provido, para afastar os juros e multa de mora sobre os valores a serem devolvidos pela parte autora, nos termos da fundamentação.
+Nas razões de recurso especial, fundamentado no artigo 105, III, c, do permissivo constitucional, o recorrente aponta dissídio jurisprudencial, defendendo a possibilidade de desaposentação no caso em análise.
+Pleiteia a reforma do acórdão, "condenando o requerido a aceitar a renúncia do benefício em manutenção com efeitos "ex nunc" e, ato contínuo, conceder nova aposentadoria, somando as contribuições vertidas até a dada da propositura do presenteou alternativamente da citação, sem a devolução dos valores recebidos, para que se faça Justiça ao obreiro".
+Não houve contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 2/STJ.
+Deveras, o recurso especial não merece guarida.
+Isto porque, a ausência de indicação de dispositivo infraconstitucional violado ou sobre o qual recaia o dissídio jurisprudencial atrai, em regra, a aplicação do óbice contido na Súmula284/STF, segundo o qual alude: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. OFENSA AO ARTIGO 535 DO CPC/1973. NÃO CARACTERIZAÇÃO. PARCELAMENTO FISCAL. OFENSA À LEI 11.941/2009. RECUSA NA CONSOLIDAÇÃO DOS DÉBITOS FISCAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Na hipótese dos autos, a recorrente deixou de particularizar o dispositivo de lei infraconstitucional tido por violado, o que caracteriza a deficiência na fundamentação do recurso interposto com fulcro na alínea "a" do permissivo constitucional, razão pela qual o conhecimento do apelo especial encontra óbice na Súmula 284 do Supremo Tribunal Federal, prejudicando, outrossim, a análise da alínea "c", do permissivo constitucional.
+3. Agravo interno não provido. (AgInt no AREsp 1030145/SP, de minha relatoria, SEGUNDA TURMA, DJe 02/10/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE ILEGIBILIDADE DE CRÉDITO CUMULADA COM INDENIZAÇÃO POR DANO MORAL. 1.AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO COMO VIOLADO.FUNDAMENTAÇÃO DEFICIENTE. SÚMULA284/STF.2. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA 518/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL.
+DANOS MORAIS. VALOR. IMPOSSIBILIDADE. 4. AGRAVO IMPROVIDO.
+1. Observa-se que o recorrentenão apontou o dispositivolegal tido como violado a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+ ..  4. Agravo interno a que se nega provimento.(AgInt no AREsp1.112.497/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe de 17/11/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. DESAPOSENTAÇÃO.FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
