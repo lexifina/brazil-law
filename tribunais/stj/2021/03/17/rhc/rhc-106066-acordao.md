@@ -1,0 +1,90 @@
+EMENTA
+RECURSO EM HABEAS CORPUS. OPERAÇÃO VEREDA SOMBRIA. INCOMPETÊNCIA DE VARA NÃO ESPECIALIZADA. NÃO OCORRÊNCIA. TEORIA DO JUÍZO APARENTE. PREJUÍZO. AUSÊNCIA. ORGANIZAÇÃO CRIMINOSA. IDENTIFICAÇÃO INICIAL. INCURSÃO FÁTICO-PROBATÓRIA. RECURSO NÃO PROVIDO.
+1. Conquanto seja decretada a incompetência do Juízo da 12ª Vara Federal da Seção Judiciária do Ceará, o reconhecimento da incompetência do juízo que se entendeu inicialmente competente não enseja - haja vista a teoria do juízo aparente, amplamente reconhecida pela jurisprudência desta Corte - a nulidade dos atos processuais já praticados no processo, os quais podem ser ratificados ou não no juízo que vier a ser reconhecido como competente.
+2. A defesa não se descurou de demonstrar o prejuízo concreto supostamente suportado pelo recorrente, derivado dos atos emanados do referido juízo, haja vista que foi garantido o exercício do contraditório e da ampla defesa ao longo de toda a instrução criminal.
+3. É inviável, na via eleita, a alegação de que antes de se iniciarem as investigações, a autoridades já tinham o conhecimento que se tratava de persecução do crime de organização criminosa, por ser premissa controversa, cuja solução demandaria incursão fático-probatória.
+4. Recurso não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao recurso ordinário, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Nefi Cordeiro, Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOSÉ AUDÍZIO SOARES JUNIOR alega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 5ª Região (Habeas Corpus n. 0812694-59.2018.4.05.0000).
+Depreende-se dos autos que o ora paciente foi preso preventivamente e denunciado pela suposta prática dos crimes de comercialização de anabolizantes, peculato, concussão e corrupção, após a deflagração da Operação Vereda Sombria.
+Nesta Corte, a defesa sustenta que, conforme fartamente comprovado, desde o início, tratava-se de investigação sobre organização criminosa, o que torna incompetente o Juízo da 12ª Vara Federal da Seção Judiciária do Estado do Ceará, e absolutamente nulos os atos que decretaram a prisão, as outras medidas acautelatórias e das sucessivas interceptações telefônicas.
+Para tanto, alega que a incompetência pela matéria não demanda o encerramento das investigações "para suspeitar de quais crimes os indivíduos viam (sic) sendo investigados, muito pelo contrário, o presente caso é bem peculiar, pois se originou de uma colaboração premiada, consubstanciada na Lei n. 12.850/2013" (fl. 398).
+Requer o provimento do recurso, a fim de que seja "reconhecida a nulidade (art. 564 CPP) desde o início  .. , de todas as decisões e seus efeitos (art. 573 do CPP) da 12º Vara Federal da Seção Judiciária do Ceará, por restar de clareza solar a incompetência absoluta em razão da matéria, tudo em consonância ao princípio do juiz natural" (fl. 412, grifei).
+Indeferida a liminar (fls. 430-432) e prestadas as informações (fls. 486-495), veio o parecer do Ministério Público Federal (fls. 460-470), que opinou pelo não provimento do recurso.
+EMENTA
+RECURSO EM HABEAS CORPUS. OPERAÇÃO VEREDA SOMBRIA. INCOMPETÊNCIA DE VARA NÃO ESPECIALIZADA. NÃO OCORRÊNCIA. TEORIA DO JUÍZO APARENTE. PREJUÍZO. AUSÊNCIA. ORGANIZAÇÃO CRIMINOSA. IDENTIFICAÇÃO INICIAL. INCURSÃO FÁTICO-PROBATÓRIA. RECURSO NÃO PROVIDO.
+1. Conquanto seja decretada a incompetência do Juízo da 12ª Vara Federal da Seção Judiciária do Ceará, o reconhecimento da incompetência do juízo que se entendeu inicialmente competente não enseja - haja vista a teoria do juízo aparente, amplamente reconhecida pela jurisprudência desta Corte - a nulidade dos atos processuais já praticados no processo, os quais podem ser ratificados ou não no juízo que vier a ser reconhecido como competente.
+2. A defesa não se descurou de demonstrar o prejuízo concreto supostamente suportado pelo recorrente, derivado dos atos emanados do referido juízo, haja vista que foi garantido o exercício do contraditório e da ampla defesa ao longo de toda a instrução criminal.
+3. É inviável, na via eleita, a alegação de que antes de se iniciarem as investigações, a autoridades já tinham o conhecimento que se tratava de persecução do crime de organização criminosa, por ser premissa controversa, cuja solução demandaria incursão fático-probatória.
+4. Recurso não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Contextualização
+Ao manter o recebimento da denúncia, o Juízo de origem consignou o seguinte sobre o tema:
+A decisão proferida por este juízo no dia 25.06.2018 deixa bem claro entendimento sobre a total validade dos atos até então praticados:
+ ..
+O fato é que as investigações, inicialmente, tinham como foco possível cometimento dos crimes previstos no art. 273, § 1º-B (comercialização de anabolizantes importados), art. 312 (peculato), no art. 316 (concussão), no art. 317 (corrupção passiva), todos previstos no Código Penal.
+Em um horizonte ainda bastante incerto e sequer cogitado pela autoridade policial, estavam os crimes de tráfico de drogas e de organização criminosa.
+De todo modo, este magistrado, atuando naquela Vara Federal, foi explícito em apontar que somente quando encerradas as investigações e estabelecida a imputação criminal se poderia fixar, definitivamente, a competência jurisdicional, com eventual declínio de competência para outros órgãos judiciais, sem prejuízo da total validade dos atos de investigação até então praticados
+ ..
+Com se vê, descabe cogitar de se declarar nula toda a investigação, porque supervenientemente imputada a prática do crime de organização criminosa.
+É bastante tênue a linha entre o reconhecimento de uma associação criminosa e de uma organização criminosa. Somente o desenrolar das investigações pode angariar elementos precisos para que autoridade policial, o Ministério Público Federal e o Juízo formem seus convencimentos sobre a efetiva existência de uma organização criminosa, a justificar a atração da competência da vara especializada.
+A prevalecer o entendimento da defesa, toda investigação relativamente complexa, envolvendo associações criminosas, seria deslocada para a vara especializada de organização criminosa - o que por certo não é compatível como espírito da norma, pois isso acabaria por sobrecarregar a vara especializada, em detrimento da finalidade da especialização, que é justamente conferir tramitação célere e aplicação de conhecimentos especializados (fls. 64-66, destaquei).
+A Corte regional denegou a ordem, nos seguintes termos:
+Entendo, todavia, que não assiste razão ao impetrante ao suscitar a nulidade dos atos decisórios praticados pelo Juízo da 12ª Vara Federal no âmbito do IPL 619/2016, haja vista que, segundo a jurisprudência do egrégio Superior Tribunal de Justiça, eventual inobservância da regra atinente à especialização de varas não importa automaticamente na nulidade do feito. Confira-se:
+ ..
+Embora isso já seja o bastante para afastar a alegada nulidade de todos os atos decisórios praticados pelo Juízo da 12ª Vara Federal, cabe levar em conta também que, segundo a jurisprudência consolidada do Supremo Tribunal Federal, nenhuma nulidade, nem mesmo as absolutas, deverá se (sic) decretada sem prova do prejuízo. Confira-se:
+ ..
+Em processo penal, entende-se por prejuízo o obstáculo imposto ao livre exercício das faculdades processuais penais, de maneira mais especifica ao direito de influir na apuração da verdade substancial ou na decisão da causa direito e de modo mais genérico ao exercício das prerrogativas inerentes ao contraditório e à ampla defesa. Em sentido semelhante já se posicionaram os egrégios Supremo Tribunal Federal e Superior Tribunal de Justiça nos acórdãos cujas ementas seguem transcritas:
+ ..
+Não se pode, portanto, dizer - não pelo menos para fins de decretação de nulidades - que a decretação da prisão preventiva pelo juízo aparentemente competente causou prejuízo ao paciente, uma vez que a defesa técnica teve plenas possibilidades de se insurgir contra o decreto de prisão, tanto que manejou, logo em seguida à prisão do paciente, o HC 0811631-96.2018.4.05.000 questionando a legalidade da segregação cautelar. Cumpre ainda observar a jurisprudência do Supremo Tribunal Federal já admitiu a validade dos atos praticados por juiz de vara especializada quando o feito deveria ter tramitado na vara comum, conforme se constata a partir do seguinte julgado (fls. 364-369, destaquei).
+Nas informações prestadas em 10/12/2020, o Juízo de origem esclareceu o seguinte:
+Em 27.07.2018, na audiência de custódia, este juízo, reiterando os fundamentos da prisão dispostos na decisão de recebimento da denúncia, entendeu pela manutenção da prisão preventiva dos réus.
+Em 14.08.2018, foi prolatada decisão de ratificação de recebimento da denúncia por este juízo da 32ª Vara.
+Na audiência realizada em 08.11.018, em continuidade da instrução, este juízo, considerando em razão da iminência de encerramento da instrução processual que manutenção prisão dos acusados não mais comprometeria à fase probatória ou a aplicação da lei, decidiu por converter a prisão preventiva de quatro acusados ainda presos, dentre os quais o ora paciente, na cautelar de afastamento das funções públicas.
+Informo, ainda, que, atualmente, o processo se encontra concluso para sentença e que análise de vasto material probatório existente em meio físico restou comprometida em razão das medidas de segurança decorrentes da pandemia causada pelo corona vírus, dentre as quais a suspensão do trabalho presencial no prédio da justiça federal (fls. 493-494, destaquei).
+II. Nulidade dos atos emanados do Juízo da 12º Vara Federal da Seção Judiciária do Ceará pela posterior reconhecida incompetência - não ocorrência
+Esta Corte Superior reconhece a teoria do juízo aparente de forma a admitir como válidos atos praticados por juízo aparentemente competente, cognição adequada à situação descrita.
+De fato, "nos termos da jurisprudência deste Tribunal, a modificação da competência não invalida automaticamente a prova regularmente produzida. Destarte, constatada a incompetência absoluta, os autos devem ser remetidos ao juízo competente, que pode ratificar ou não os atos já praticados" (HC n. 308.589/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 1º/9/2016).
+Tal orientação tem sido mantida pelo Superior Tribunal, conforme se verifica em recentes precedentes: RHC n. 114.053/BA, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T. DJe 4/11/2019 e AgRg no RHC 45.401/RJ, Rel. Ministro Rogeiro Schietti, 6ª T.,DJe 30/10/2018.
+Ou ainda: "mesmo em caso de incompetência absoluta, é possível ao juízo que recebe os autos do processo ratificar ou não os atos decisórios e provas colhidas" (RHC n. 76.745/RJ, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/4/2017, grifei).
+No mesmo sentido:
+ ..
+1. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento no sentido de que mesmo em caso de incompetência absoluta, é possível ao juízo que recebe os autos do processo ratificar ou não os atos decisórios e provas colhidas (RHC n. 76.745/RJ, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 4/4/2017).
+2. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento (EDcl no RHC n. 52.549/MT, Rel. Ministro Sebastião Reis Junior, 6ª T., DJe 31/8/2017, destaquei).
+ ..
+2. Ademais, conquanto o tema ainda dê ensejo a certa controvérsia o que evidencia ainda mais a necessidade de submissão ao colegiado, vem se pacificando nesta Corte o entendimento no sentido de que, mesmo em caso de reconhecimento de incompetência absoluta, podem os atos decisórios cautelares praticados pelo juiz incompetente serem ratificados pelo juiz a quem forem remetidos os autos. Precedentes.
+3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+(RCD no HC n. 383.513/BA, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 28/4/2017, grifei).
+ ..
+1. Na hipótese, não há se falar em constrangimento ilegal na prisão preventiva decretada pela Justiça estadual, tendo em vista que o reconhecimento da sua incompetência não possui o condão de anular ou tornar ilegal os decretos de prisão expedidos em desfavor do ora recorrente, uma vez que é pacífico neste Superior Tribunal de Justiça que mesmo nos casos de incompetência absoluta é possível a ratificação dos atos decisórios. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no HC 507.755/RJ, Rel. Ministro Ribeiro Dantas,5ª T., DJe 23/9/2019, grifei)
+ ..
+IV - No que pertine à arguição de nulidade absoluta do decreto prisional ante a incompetência do juízo, a jurisprudência deste Superior Tribunal de Justiça admite a possibilidade de ratificação implícita dos atos decisórios - inclusive da ordem de prisão cautelar - quando o juízo competente dá normal seguimento ao processo.
+Habeas corpus não conhecido.
+(HC n. 473.384/PB, Rel. Ministro Felix Fischer, 5ª T., DJe 13/2/2019, destaquei).
+ ..
+4. Pela teoria do juízo aparente, para a fixação da competência para a decretação da interceptação telefônica deve ser considerado o "fato suspeitado", vale dizer, o objeto do inquérito policial - ainda que, num momento subsequente, diverso venha a ser o "fato imputado".
+5. Recurso desprovido (RHC n. 73.637/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/9/2016)
+ ..
+5. A possibilidade de descoberta de outras provas e/ou evidências, no decorrer das investigações, levando a conclusões diferentes, demonstra não ser possível firmar peremptoriamente a competência definitiva para julgamento do presente inquérito policial. Isso não obstante, tendo em conta que a definição do Juízo competente em tais hipóteses se dá em razão dos indícios coletados até então, revela-se a competência da Justiça Federal para condução do Inquérito Policial.
+ ..  (CC n. 138.557/PR, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 4/9/2015)
+No caso dos autos, conforme exaustivamente explanado, o alvo das investigações, de início, era o cometimento dos delitos de descritos no art. 273, § 1º-B (comercialização de anabolizantes importados), art. 312 (peculato), no art. 316 (concussão), no art. 317 (corrupção passiva), todos do Código Penal. No decorrer das apurações, surgiram indícios da prática dos crimes de tráfico de drogas e de organização criminosa. Malgrado o posterior reconhecimento da incompetência daquela vara federal, foi, reiteradamente, enfatizado que "somente quando encerradas as investigações e estabelecida a imputação criminal se poderia fixar, definitivamente, a competência jurisdicional, com eventual declínio de competência para outros órgãos judiciais, sem prejuízo da total validade dos atos de investigação até então praticados", mormente porque atos como a manutenção da prisão preventiva foram devidamente ratificados.
+Dentro desse contexto, cumpre lembrar que a defesa não se descurou de demonstrar o prejuízo concreto que estaria sendo suportado pelo recorrente, derivado dos atos emanados do juízo da 12ª Vara Federal da Seção Judiciária do Ceará, haja vista que foi garantido o exercício do contraditório e da ampla defesa ao longo de toda a instrução criminal.
+Como advertido inicialmente, prevalece na jurisprudência a tese de que "Em matéria de nulidade, rege o princípio pas de nullité sans grief, segundo o qual não há nulidade sem que o ato tenha gerado prejuízo para a acusação ou para a defesa. Não se prestigia, portanto, a forma pela forma, mas o fim atingido pelo ato. Por essa razão, a desobediência às formalidades estabelecidas na legislação processual só pode acarretar o reconhecimento da invalidade do ato quando a sua finalidade estiver comprometida em virtude do vício verificado, trazendo prejuízo a qualquer das partes da relação processual" (HC n. 261.698/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 6/4/2015).
+Ademais, é inviável, na via eleita, a alegação de que antes de se iniciarem as investigações, as autoridades já tinham o conhecimento de que se tratava de investigação do crime de organização criminosa, por ser premissa controversa, cuja solução demandaria incursão fático-probatória.
+No mesmo sentido, o parecer do Ministério Público Federal:
+Está correta a compreensão do acórdão. A especialização de varas é uma forma de racionalização do trabalho jurisdicional, tratando-se de regra de organização judiciária. Sua inobservância circunstancial não implica, automaticamente, a nulidade do feito. O eventual vício, ao contrário do que alega a defesa, ostenta natureza relativa, exigindo, sob pena de preclusão, o manejo de exceção própria no momento processual adequado. Confira-se precedente sobre o tema:
+ ..
+A jurisprudência do Superior Tribunal de Justiça firmou, ademais, entendimento no sentido de que a demonstração de prejuízo para a parte é imprescindível tanto nas nulidades relativas quanto nas absolutas. Confira-se:
+ ..
+No caso, o recorrente não trouxe qualquer elemento apto a comprovar obstáculo imposto ao livre exercício das faculdades processuais penais, inclusive inerentes ao contraditório e ampla defesa.
+Como afirmou o acórdão (fl. 369), a atuação do Juízo, então aparentemente competente para o processamento da causa, não evidenciou prejuízo, inclusive no decreto de prisão provisória, eis que o paciente teve plena possibilidade de se insurgir contra as decisões proferidas.
+A inconsistência dos argumentos torna-se ainda mais explícita quando se constata que o mesmo réu deduziu, perante essa Corte Superior, nos autos do RHC 106.137/CE, pretensão recursal diametralmente oposta, defendendo, justamente, a competência absoluta da 12ª Vara Federal/CE (fls. 467-469, grifei).
+Afastada também, portanto, a tese de que o recorrente, nesse ponto, estaria sofrendo constrangimento ilegal passível de correção pela via estreita do writ of mandamus.
+III. Dispositivo
+À vista do exposto, nego provimento ao recurso em habeas corpus.
