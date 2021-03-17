@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Pedido de Reconsideração n. 993.653/2020 , apresentado por Juçara Soares, com o intuito de que os autos não sejam devolvidos à Corte de origem em decorrência das decisões de afetação nos autos dos REsps n. 1.845.943/SP e 1.867.199/SP, ambas de relatoria do Ministro Ricardo Villas Bôas Cueva, que delimitaram o Tema 1.068 da seguinte forma: "definir a legalidade da cláusula que prevê a cobertura adicional de invalidez funcional permanente total por doença (IFPD) em contrato de seguro de vida em grupo, condicionando o pagamento da indenização securitária à perda da existência independente do segurado".
+Em suas razões, a peticionante alega que a questão em análise não se restringe apenas à controvérsia sobre alegalidade da cláusula que prevê a cobertura adicional de IFPD em contrato de seguro de vida em grupo, objeto de afetação.
+Assevera que "há relação de prejudicialidade entre as apontadas controvérsias, motivo pelo qual, embora o julgamento do tema afetado possa implicar perda do objeto da outra pretensão recursal, também pode exigir nova remessa dos autos a esta Corte para julgamento da matéria remanescente" (e-STJ, fl. 852).
+Brevemente relatado, decido.
+Registra-se que, nos termos do art. 1.030, III, do CPC/2015, o sobrestamento abrange todo o processo, mesmo que no recurso especial interposto constem matérias outras que não estejam afetadas, razão pela qual é descabida a pretensão da recorrente de segregação do julgamento do recurso, o qual deve ocorrer em único momento.
+Assim, "somente nas hipóteses nas quais não haja nenhuma matéria submetida ao regime de julgamento de recursos repetitivos ou, havendo, o tribunal tenha refutado o juízo de retratação, é que poderá haver a remessa dos autos a esta Corte Superior, nos termos do art. 1.030, inciso V, do CPC", consoante as decisões subsecutivas da então Ministra Presidente do STJ: AREsp n. 967.336/SP; AREsp n. 967.129/PR; e AREsp n. 944.577/MG.
+Ante o exposto, indefiro o pedido.
+Publique-se.
+EMENTA
+PETIÇÃO. DETERMINAÇÃO DE SOBRESTAMENTO DO PROCESSO POR VERSAR SOBRE QUESTÃO AFETADA NESTA CORTE SUPERIOR. PRETENSÃO DE PROCESSAMENTO DAS DEMAIS QUESTÕES. ANÁLISE SEGREGADA DAS MATÉRIAS RECURSAIS NÃO AFETADAS. DESCABIMENTO. SUSPENSÃO DE TODO O FEITO QUE SE IMPÕE. ART. 1.030, III, DO CPC/2015. PEDIDO INDEFERIDO.
