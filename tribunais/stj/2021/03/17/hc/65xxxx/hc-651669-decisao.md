@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de GABRIEL SOUSA LARA- contra decisão liminar de Desembargador do Tribunal de Justiça do Estado de Minas Gerais(HC n. 1.0000.21.038769-2/000).
+Consta dos autos, que o paciente foi preso em flagrante em 26/1/2021, pela suposta prática dos delitos de desacato, ameaça e posse de drogas para consumo pessoal, sendo concedida liberdade provisória mediante pagamento de fiança. Logo após o Ministério Público estadual representou pela prisão preventiva, sob o fundamento de que o paciente tambémhavia cometido o crime de porte ilegal de arma de fogo, sendo decretada novamente a prisão preventiva do paciente em 1/3/2021.
+No writ originário a defesa requereu a revogação da prisão preventiva do paciente por falta de fundamentos para o decreto preventivo, como também,em virtude da pandemia causada pelo COVID-19.
+O Relator da ação originária, contudo, indeferiu a liminar (e-STJ fls. 152/124).
+Na presente oportunidade, a defesa sustenta, em síntese, a inexistência de fundamentação válida para a manutenção da prisão do paciente, ressaltando suas condições pessoais favoráveis - residência fixa, emprego lícito e ser menor de 21 anos.
+Alega, ainda, que encontra-se exposto aos riscos de contágio pelo COVID-19, devido às condições sanitárias do estabelecimento prisional.
+Diante disso, requer, em liminar e no mérito, a concessão da liberdade provisória ao paciente, tudo com superação do enunciado n. 691/STF.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Diante do contexto informativo apresentado nos autos, o Relator da ação originária entendeu não haver ilegalidade manifesta, motivo pelo qual indeferiu a liminar declinando as seguintes razões (e-STJ fl. 153):
+ ..
+Como é cediço, a concessão de liminar em habeas corpus objetiva acautelar situações excepcionais e pressupõe a verificação, de imediato, da satisfação cumulativa dos requisitos que sustentam as prisões provisórias: fumus commissi delicti (justa causa para a segregação cautelar - indícios de autoria e prova da materialidade) e periculum libertatis (garantia da ordem pública, da ordem econômica, da instrução criminal, ou da aplicação da lei penal).
+Contudo, após detida análise dos fundamentos da impetração, não se verificam, de plano, a ocorrência de constrangimento ilegal ou a coexistência dos supracitados requisitos, de maneira a justificar o acolhimento do pleito liminar.
+Ademais, o alegado na inicial demanda a análise das informações a serem prestadas pela autoridade apontada como coatora. Além disso, o deferimento da medida liminar pleiteada exauriria a pretensão deduzida, prejudicando um exame mais detido do mérito deste writ.
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
