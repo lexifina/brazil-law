@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por Jorge Elias Bittar Filho, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado doParaná, assim ementado (e-STJ fl. 165):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. IMPROBIDADEADMINISTRATIVA. 1. ÔNUS DA PROVA DO AUTORIMPOSSIBILIDADE DE INVERSÃO. 2. PROVA PERICIALDETERMINADA DE OFÍCIO. POSSIBILIDADE. 3. ADIANTAMENTODOS HONORÁRIOS DO PERITO. DISTRIBUIÇÃO ENTRE AS PARTES.FAZENDA PÚBLICA ESTADUAL QUE DEVERÁ ARCAR COM A COTAPARTE REFERENTE AO MINISTÉRIO PÚBLICO. REPETITIVO.RECURSO PARCIALMENTE PROVIDO.
+Foram rejeitados os embargos de declaração opostos peloora recorrente (e-STJ fl. 256).
+Orecorrente alega violação dos artigos 139, I, e 141 do CPC/2015, ao argumento de que "O princípio da inércia processual ou de jurisdição se impõe no poder -dever do Estado-Juiz a se pronunciar e dar impulso oficial somente ao ser provocadopelas partes ou interessados na busca da tutela jurisdicional e estará semprepresente até o final da demanda para que a atuação do Estado-Juiz não transbordeos limites impostos pela legalidade, do devido processo legal e das normas presentesno rito processual" (e-STJ fl. 328).
+Com contrarrazões.
+O apelo nobre foi inadmitido pela Corte de origem (e-STJ fls. 364-367), razão pela qual o ora recorrente manejou agravo (e-STJ fls. 417-437), o qual foi provido para determinara sua conversão em recurso especial (e-STJ fls. 522-523).
+O Ministério Público Federal, por meio do seu parecer de fls. 517-520, opinou pelo desprovimento do agravo em recurso especial.
+O ora recorrente requereu a concessão de tutela provisória (e-STJ fls.532-533).
+É o relatório. Passo a decidir.
+Preliminarmente, o recurso especial não merece ser conhecido. Isso porque não foi cumprido o requisito do prequestionamento. Infere-se que o Tribunal a quo não emitiu nenhuma consideração quanto aos temas insertos nos artigos 139, I, e 141 do CPC/2015.Deveras, a Corte de origem assentou a sua convicção com arrimo nos artigos95 e 370 do CPC/2015, ao assentar o seguinte:
+Entretanto, como destinatário final e pelos seus poderes instrutórios, é possível que oJuiz determine a realização de provas que entender pertinente, nos termos do artigo 370 doCódigo de Processo Civil. Neste sentido: "O juiz determina a produção de determinada provanão para favorecer uma das partes, mas para decidir de forma mais consistente e melhor".
+ ..
+Por fim, quanto ao ônus do adiantamento dos honorários periciais, deve ser aplicada aregra do artigo 95 do Código de Processo Civil, rateando as despesas entre as partes,observada também a regra do Repetitivo, em que a Fazenda Pública vinculada ao MinistérioPúblico, no caso, o Estado do Paraná, deve arcar com as despesas decorrentes, em relação àsua cota parte, sendo redistribuído a outra parte aos réus da ação civil pública.
+Logo, é defeso ao STJ sindicar acerca dos temas insertos no dispositivos tidos por violados.
+É imperioso que orecorrente, em caso de omissão, oponha embargos de declaração para que o Tribunal a quo se pronuncie sobre os dispositivos infraconstitucionais tidos por afrontados. Sucede que orecorrente, a despeito de ter manejado o recurso integrativo, furtou-se, todavia, a alegar violação do art. 1.022 do novel CPC do bojo das razões do recurso especial. Tem-se, inarredavelmente, a aplicação do disposto na Súmula n. 211 do STJ, que tem o seguinte teor: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Isso posto, não conheço do recurso especial. Outrossim, julgo prejudicado o requerimento para concessão de tutela de urgência
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. OPOSIÇÃO DE EMBARGOS DE DECLARATÓRIOS, SEM APONTAR AFRONTA AO ART. 1.022 DO NOVO CPC. RECURSO ESPECIAL NÃO CONHECIDO. PREJUDICADO O REQUERIMENTO PARA CONCESSÃO DE TUTELA DE URGÊNCIA.
