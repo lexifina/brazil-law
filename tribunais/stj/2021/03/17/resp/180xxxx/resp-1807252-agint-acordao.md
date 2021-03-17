@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Gurgel de Faria.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS MINERAIS - CFEM. CONCLUSÃO DA CORTE DE ORIGEM PELA AUSÊNCIA DE DEMONSTRAÇÃO DE DEDUÇÃO NA FASE DE COMERCIALIZAÇÃO DOS PRODUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. ACorte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que, a despeito de ser possível a dedução de tributos para o cálculo da CFEM na fase de comercialização do produto mineral, no caso específico dos autos não ficou demonstrado que a dedução tenha ocorrido em tal fase, pois "a Lei 8.001/1990, em seu art. 2º, vigente à época dos fatos geradores, permite a dedução de tributos para o cálculo da Compensação Financeira pela Exploração de Recursos Minerais - CFEM desde que que estes tenham incidido na fase de comercialização do produto mineral, o que não foi demonstrado nos autos". (fl. 404).
+2.Verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 562):
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL.COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS MINERAIS - CFEM. CONCLUSÃO DA CORTE DE ORIGEM PELA AUSÊNCIA DE DEMONSTRAÇÃO DE DEDUÇÃO NA FASE DE COMERCIALIZAÇÃO DOS PRODUTOS. REVISÃO. IMPOSSIBILIDADE.SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante alega que não há falar em reexame de fatos e provas para o deslinde da controvérsia, pois, "ao contrário do que concluiu a decisão ora agravada, não há que se falar em ausência qualquer comprovação de que os tributos a serem deduzidos foram recolhidos pela matriz ou pela filial, vez que o próprio acórdão recorrido na origem reconheceu expressamente que as referidas contribuições foram, de fato, recolhidas pela empresa matriz" (fl. 598).
+Comimpugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS MINERAIS - CFEM. CONCLUSÃO DA CORTE DE ORIGEM PELA AUSÊNCIA DE DEMONSTRAÇÃO DE DEDUÇÃO NA FASE DE COMERCIALIZAÇÃO DOS PRODUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. ACorte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que, a despeito de ser possível a dedução de tributos para o cálculo da CFEM na fase de comercialização do produto mineral, no caso específico dos autos não ficou demonstrado que a dedução tenha ocorrido em tal fase, pois "a Lei 8.001/1990, em seu art. 2º, vigente à época dos fatos geradores, permite a dedução de tributos para o cálculo da Compensação Financeira pela Exploração de Recursos Minerais - CFEM desde que que estes tenham incidido na fase de comercialização do produto mineral, o que não foi demonstrado nos autos". (fl. 404).
+2.Verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque, quanto aos artigos 15 da Lei n. 9.779/99 e 2º da Lei n. 8.001/1990, a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que, a despeito de ser possível a dedução de tributos para o cálculo da CFEM na fase de comercialização do produto mineral, no caso específico dos autos não ficou demonstrado que a dedução tenha ocorrido em tal fase (fls. 403/404):
+"Conforme restou observado dos autos, a empresa embargante é a matriz, responsável pela fabricação de pré-moldados. Por seu turno, quem realiza a atividade de exploração mineral é a empresa filial, portadora do CNPJ 11.661.623/002-97, e não a matriz do grupo empresarial, cujo CNPJ é diverso.
+A Lei 8.001/1990, em seu art. 2º, vigente à época dos fatos geradores, determina a exclusão dos tributos incidentes sobre a comercialização do produto mineral, as despesas de transporte e as de seguro para efeito de cálculo da Compensação Financeira pela Exploração de Recursos Minerais - CFEM.
+Nesse contexto, seria cabível a dedução dos tributos pagos pela empresa filial que realiza as atividades de exploração mineral. No entanto, os DARFs apresentados (fls. 39/94) para dedução se referem a tributos recolhidos pela empresa matriz, cuja atividade preponderante não é a exploração mineral e sim a fabricação de pré-moldados, portanto incabíveis para o fim pretendido. Em suma, a Lei 8.001/1990, em seu art. 2º, vigente à época dos fatos geradores, permite a dedução de tributos para o cálculo da Compensação Financeira pela Exploração de Recursos Minerais - CFEM desde que que estes tenham incidido na fase de comercialização do produto mineral, o que não foi demonstrado nos autos".
+Verifica-se que rever o entendimento do acórdão recorrido ensejaria o reexame do conjunto fático-probatório da demanda, providência vedada em sede de recurso especial, ante a Súmula 7 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
