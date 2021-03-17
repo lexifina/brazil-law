@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto porLEOMAR ABREU DA CRUZ, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg.Tribunal de Justiça do Estado do Mato Grosso do Sul.
+Conta dos autos que o juízo singular condenou o ora agravante como incurso no delito do art. 33, caput, da Lei n. 11.343/2006, à pena de 05 (cinco) anos e 10 (dez) meses de reclusão, em regime inicialfechado, e ao pagamento de 583 (quinhentos e oitenta e três) dias-multa (fls. 189-195).
+O eg Tribunal de Justiça do Estado do Mato Grosso do Sul deu parcial provimento ao recurso da defesa para redimensionar a pena do agravado para 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, nos termos da seguinte ementa (fl. 332):
+"APELAÇÃO CRIMINAL - RECURSO DEFENSIVO -TRÁFICO DE DROGAS - 820 QUILOS DE MACONHA - PENA-BASE - REDIMENSIONADA - TRÁFICO PRIVILEGIADO - NÃO CARACTERIZADO - RECURSO PARCIALMENTE PROVIDO -
+Inviável a utilização do modus operandi do delito para exasperar a pena-base, pois também foi empregado como fundamento para afastar a causa de diminuição do artigo 33, § 4º , da Lei 11.343/2006.
+Integração - ainda que eventual e em menor grau - à organização criminosa voltada ao narcotráfico que impede o reconhecimento tráfico privilegiado."
+Opostos embargos de declaração, pela combativa Defesa (fls. 385-390) estes foram rejeitados (fls. 408-412).
+A Defesa interpôs recurso especial, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, no qual alegou ofensa: i) ao 33, § 4º, da Lei n. 11.343/2006, porquanto o recorrente preenche todos os requisitos para a concessão do benefício; e ii) ao art.5º, incisos XV, LIV, LV, LVII e LXI, da CF, ao argumento de que foram feridos osprincípios constitucionais da isonomia, da ampla defesa e do contraditório.
+Apresentadas as contrarrazões (fls. 437-440), sobreveio juízo negativo de admissibilidade fundado: a)na incidência da Súmula 83/STJ, ao argumento de que o acórdão recorrido está em sintonia com a jurisprudência desta Corte Superior; e b)"Em relação a alegada violação ao art. 5º, XV, LIV, LV, LVII e LXI daConstituição Federal, o recurso não deve prosperar, pois não cabe ao SUPERIOR TRIBUNAL DE JUSTIÇA analisar infração a artigo constitucional, uma vez ser competência exclusiva do SUPREMO TRIBUNAL FEDERAL, nos termos do art. 102, III, da Constituição Federal." (fls. 443-444).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários a sua admissão (fls. 448-455).
+O Ministério Público Federal manifestou pelo não conhecimentodo agravo em recurso especial (fls. 478-482).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme relatado, o apelo nobre foi inadmitido pelo eg. Tribunal a quo em razão da incidência da Súmula 83/STJ e na ausência de competência desta Corte Superior para a análise de infração a artigo constitucional.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial.
+Digo, nas razões de fls. 448-455, o agravante, em uma breve explanação, limitou-se a dizer, em síntese,que"Com efeito, o Agravante, em seu Recurso Especial, não só apontou, como também justificou e fundamentou que o V. Acórdão recorrido teria, a toda evidência, contrariado (ou negado vigência) o disposto nos artigos apontados em suas razões recursais. "(fl. 454). Ou seja, não tocou na incidência da Súmula 83/STJ e nemna ausência de competência desta Corte Superior para a análise de infração a artigo constitucional.
+No entanto, caberia ao agravante comprovar, por meio da indicação de precedentes desta Corte Superior, a desarmonia do julgado ou da ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo, o que não ocorreu.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III, do CPC, impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos." (AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido." (AgRg no AREsp 1667698/SP, Quinta Turma , Rel. Ministro Jorge Mussi, DJe 29/05/2020)
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ. INCIDÊNCIA CONFIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO. EXECUÇÃO PROVISÓRIA DEFERIDA.
+1. O Agravante não infirmou, especificamente, todos os fundamentos da decisão combatida, o que atrai a incidência da Súmula n. 182 desta Corte.
+2. Os Tribunais Superiores, em recentes decisões, firmaram o entendimento de que, após esgotadas as via recursais ordinárias, apenas casuísticos efeitos suspensivos concedidos aos recursos excepcionais impedirão a execução provisória.
+3. Agravo regimental improvido e deferida a execução provisória da pena, determinando o imediato cumprimento da condenação, delegando-se ao Tribunal local a execução de todos os atos preparatórios" (AgRg no AREsp n. 984.287/RS, Sexta Turma, Rel. Min. Nefi Cordeiro , DJe de 26/6/2017, grifei).
+Diante do exposto, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
