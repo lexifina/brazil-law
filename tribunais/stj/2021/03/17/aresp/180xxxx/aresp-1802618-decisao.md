@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por RAMIRO JOSÉ TEIXEIRA E SILVA, em face de decisão proferida pelo Tribunal de Justiça do Estado de Roraima que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl.377e-STJ):
+APELAÇÃO CÍVEL. IMPROBIDADE ADMINISTRATIVA. AÇÃO CIVIL PÚBLICA. ATO ÍMPROBO. NOMEAÇÃO DE SERVIDOR PARA CARGO TÉCNICO, QUE EXERCIA FUNÇÃO DE MOTORISTA. CONJUNTO PROBATÓRIO CONSISTENTE. DEPOIMENTO DO PRÓPRIO SERVIDOR CONFIRMANDO OS FATOS DESCRITOS NA EXORDIAL. OFENSA AOS PRINCÍPIOS DA ADMINITRAÇÃO PÚBLICA.MORALIDADE E LEGALIDADE. CONDUTA QUE SE AMOLDA AO ART. 11 DA LEI 8.429/92. ATO DE IMPROBIDADE CONFIGURADO.MANUTENÇÃO DA SENTENÇA. RECURSO CONHECIDO E DESPROVIDO. CONSONÂNCIA COM O PARECER MINISTERIAL.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 417 e-STJ):
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. ALEGADA OMISSÃO NO JULGADO. PRELIMINAR DE INTEMPESTIVIDADE. ACOLHIMENTO.RECURSO MANEJADO ALÉM DO PRAZO ESTIPULADO PELO ART. 1.023 DO CPC.RECURSO NÃO CONHECIDO.
+No recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, defende a violação ao art. 37, II e V, da Constituição Federal, pois teria sido negada vigência aos comandos normativos insertos no dispositivos haja vista queo Recorrente agiu de acordo com a disposição constitucional, os cargos comissionados são declarados de livre nomeação e exoneração, ou seja, a autoridade competente para nomear poderá também exonerar os ocupantes de tais cargos através de ato discricionário (fl. 434 e-STJ). Ademais, aponta que a decisão recorrida também viola o Código de Processo Civil, em seu art. 1.022, inciso II ("cabem embargos de declaração contra qualquer decisão judicial para: (..) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento") - fl. 431/432 e-STJ.
+Contrarrazões às fls. 447/460 e-STJ.
+O recurso especial foi inadmitido à consideração de que: a) embora o recorrente alegue violação ao art. 1.022, II, do CPC, verifica-se que, na verdade, sua intenção é rediscutir a prova dos autos, providência vedada em sede de recurso especial, conforme disposto na Súmula 07 do STJ - fl. 464e-STJ; b) a indicada violação à Constituição é incabível em sede de recurso especial, sob pena de usurpação de competência do STF.
+O agravo defende que o recurso reúne condições para o seu conhecimento.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+A decisão agravada negou seguimento ao recurso especial sob o fundamento de que: a) embora o recorrente alegue violação ao art. 1.022, II, do CPC, verifica-se que, na verdade, sua intenção é rediscutir a prova dos autos, providência vedada em sede de recurso especial, conforme disposto na Súmula 07 do STJ - fl. 464 e-STJ; b) a indicada violação à Constituição é incabível em sede de recurso especial, sob pena de usurpação de competência do STF.
+Entretanto, a parte agravante limitou-se a defender que não há falar em incidência da Súmula 7/STJ.
+Conforme disposição dos artigos 932, III, do CPC/2015, e 253, parágrafo único, inciso I, do RISTJ, o agravo que não afasta todos os fundamentos que levaram à inadmissão do recurso especial, não deve ser conhecido. A propósito:
+Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente.
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá:
+I - não conhecer do agravo que for manifestamente inadmissível, intempestivo, infundado ou prejudicado, ou que não tiver atacado especificamente todos os fundamentos da decisão agravada; (RISTJ)
+Nesse sentido, ressalta-se o seguinte precedente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. FUNDAMENTOS.IMPUGNAÇÃO ESPECIFICA. AUSÊNCIA.
+1. A teor do disposto nos arts. 544, § 4º, I, do CPC/1973 e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos adotados pela Corte de origem para obstar o seguimento do recurso especial, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+2. Ratificando a orientação jurisprudencial firmada sob a égide do Código de Processo Civil revogado, a Corte Especial do STJ pacificou o entendimento acerca da necessidade de o recorrente, em agravo em recurso especial, impugnar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do recurso especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018).
+3. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, as razões que levaram à inadmissibilidade do apelo nobre.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1106426/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/02/2019, DJe 21/03/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. INSUFICIÊNCIA DE ALEGAÇÃO GENÉRICA. AGRAVO NÃO PROVIDO.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida no art. 544, § 4º, inc. I, do CPC/1973 (art. 932, III, do CPC/2015) e art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça - RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 939.050/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/10/2016, DJe 28/10/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. FUNDAMENTOS A DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL NÃO I MPUGNADOS. ARTIGO 932, III, DO CPC/2015. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
