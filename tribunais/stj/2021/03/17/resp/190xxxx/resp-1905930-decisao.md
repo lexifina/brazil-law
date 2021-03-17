@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por TG CENTRO-OESTE EMPREENDIMENTOS IMOBILIARIOS S.A. e OUTRA, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal,contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE RELAÇÃO DE CONSUMO CUMULADA COM REPARAÇÃO POR DANOS MORAIS E MATERIAIS E REPETIÇÃO DO INDÉBITO - DESISTÊNCIA IMOTIVADA DO PROMISSÁRIO COMPRADOR -RESTITUIÇÃO PARCIAL - DEVOLUÇÃO DOS VALORES PAGOS COM A RETENÇÃO DE 10%POR PARTE DA VENDEDORA EM CONFORMIDADE COM AS CIRCUNSTÂNCIAS FÁTICAS -JUROS DE MORA - TERMO INICIAL - TRÂNSITO EM JULGADO - PRECEDENTE FIRMADOEM JULGAMENTO DE RECURSO REPETITIVO - SENTENÇA REFORMADA EM PARTE -RECURSO PARCIALMENTE PROVIDO.A jurisprudência do Superior Tribunal de Justiça considera razoável a retenção, pelo promitente vendedor, dos valores pagos pelo promitente comprador, que deu causa à rescisão contratual, o percentual entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias. No caso, ao fixar o percentual de retenção em 10% da quantia paga pela promitente compradora a sentença recorrida se mostra escorreita e em conformidade com as circunstâncias fáticas analisadas e com a jurisprudência pátria. O STJ firmou o entendimento no sentido de que o termo inicial dos juros demora, na hipótese de devolução de valores decorrente de resolução de compromisso de compra e venda, por iniciativa do comprador, é a data do trânsito em julgado" (fl. 365, e-STJ).
+Os embargos de declaração foram rejeitados.
+Em suas razões, além de dissídio jurisprudencial, as recorrentes alegam violação dos artigos 104, 107, 110, 408, 421, 422, 423 e 424do Código Civil.
+Sustentam que deve haver adevolução dos valores pagos nos termos contratadosouno percentual de 25%, considerando que a rescisão contratual se deupor culpa do comprador do imóvel.
+Com as contrarrazões (fls. 443/451 e 452/454,e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No caso dos autos, o compromisso de compra e venda foi rescindido a pedido do promitente comprador, tendo o tribunal de origem considerado razoável a retenção de 10% (dez por cento) dos valores pagos.
+É o que consta noseguintetrechodo acórdão recorrido:
+"(..)
+No caso, em que pese a rescisão contratual ter ocorrido por culpa exclusiva da promitente compradora, que, por motivos alheios à sua vontade, não consegue mais honrar o compromisso firmado, mostra-se razoável a retenção de 10% (dez por cento) dos valores pagos pela adquirente, porquanto adequado para indenizar o vendedor das despesas gerais e desestimular o rompimento unilateral do contrato.
+(..)" (fl. 370, e-STJ).
+De fato, a jurisprudência desta Corte permite a retenção no percentual entre 10% e 25% dos valores pagos quando houver resolução do compromisso de compra e venda por culpadocompromitentecomprador, conforme consta nos seguintes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. INDENIZAÇÃO PELA FRUIÇÃO E PELAS DESPESAS INCIDENTES SOBRE IMÓVEL AFASTADA COM BASE NA INEXISTÊNCIA DE POSSE DIRETA DO COMPRADOR. AUSÊNCIA DE IMPUGNAÇÃO À SÚMULA 283/STF. PRECLUSÃO. RETENÇÃO DE PERCENTUAL DOS VALORES PAGOS EM CASO DE RESOLUÇÃO CONTRATUAL POR CULPA DO COMPRADOR. SÚMULAS 7 E 83 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. (..).
+2. A jurisprudência desta Corte Superior está orientada no sentido de permitir a retenção no percentual entre 10% e 25% dos valores pagos quando houver resolução do compromisso de compra e venda por culpa do compromitente comprador, bem como proibir a revisão do valor estabelecido nesta circunstância, por implicar reexame fático-probatório. Caso concreto no qual a multa contratualmente estabelecida para a supracitada hipótese foi reduzida pelo Tribunal de origem para 20% dos valores pagos, com base na suficiência reparatória do montante arbitrado.
+3. Agravo interno parcialmente conhecido e, nessa extensão, desprovido" (AgInt no AREsp 1.140.299/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE RESTITUIÇÃO DE QUANTIAS PAGAS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E/OU INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. ATRASO NA ENTREGA DE IMÓVEL. DISTRATO. INICIATIVA DO COMPRADOR. RETENÇÃO ENTRE 10% E 25% DAS PRESTAÇÕES PAGAS.
+(..)
+5. Nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por iniciativa do comprador, é admitida a flutuação do percentual da retenção pelo vendedor entre 10% a 25% do total da quantia paga. Precedentes.
+6. Agravo interno não provido" (AgInt no AREsp 1.537.311/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/11/2019, DJe 20/11/2019).
+Assim, tem incidência o enunciado da Súmula nº 83/STJ.
+Ademais, apenas a título de reforço de argumentação, esta Corte possui o entendimento de que proceder à reavaliação dopercentualderetençãoesbarra no óbice da Súmula nº 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DERESCISÃOCONTRATUAL C/C RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS.COMPRAEVENDA.DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. RETENÇÃO. PERCENTUALRETIDO QUE NÃO DESTOA DA JURISPRUDÊNCIA DESTE STJ. PARTICULARIDADES DO CASO. REEXAME. SÚMULAS 5 E 7 DO STJ.
+DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO, COM APLICAÇÃO DE MULTA" (AgInt no REsp 1825753/AM, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. CONTRATO DE PROMESSA DECOMPRAEVENDA. RESCISÃOUNILATERAL. COMPRADOR.RETENÇÃO. PERCENTUAL.REVISÃO. SÚMULAS NºS 5 e 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284/STF, aplicada por analogia.
+3. Nas hipóteses derescisãodo contrato de promessa decompraevendapor inadimplemento do comprador, a jurisprudência desta Corte admite a flutuação dopercentualderetençãopelo vendedor entre 10% (dez por cento) a 25% (vinte e cinco por cento) do total da quantia paga.
+4. No caso, rever a conclusão das instâncias ordinárias quanto aopercentualderetenção,fixado com base nas peculiaridades dos autos, demandaria o reexame de provas e do contrato estabelecido entre as partes, providência que atrai os óbices das Súmulas nºs 5 e 7/STJ.
+5. Nostermosdos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+6. Agravo interno não provido" (AgInt no AgInt no AREsp 1.579.612/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/8/2020, DJe 18/8/2020).
+Ante o exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem.
+Publique-se.
+Intimem-se
