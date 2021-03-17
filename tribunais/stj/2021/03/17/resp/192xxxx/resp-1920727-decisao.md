@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Instituto Brasileiro do Meio Ambiente e dos recursos Naturais Renováveis - Ibama, com amparo na alínea "a" do permissivo constitucional, contra acórdão assim ementado (e-STJ, fl. 50):
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. TAXA DE FISCALIZAÇÃO AMBIENTAL E CONSTRIÇÃO / PENHORA / AVALIAÇÃO /INDISPONIBILIDADE DE BENS.
+Os embargos de declaração opostos não foram providos(e-STJ, fls. 79-81).
+Sustenta a parte recorrente a existência de violação doart. 1.022 do CPC/2015. Aduz, em suma, que "persistiu a Corte de origem na omissão da matéria arguida, não se pronunciando sobre especificamente em relação ao Sócio Itamar Gonçalves, que era sócio tanto ao tempo dos fatos gerados, quanto ao tempo da dissolução irregular, tornando inócua, em relação a ele, a suspensão da execução fiscal" (e-STJ, fl. 88).
+Contrarrazões recursais às e-STJ fls. 146-152.
+O recurso foi admitido na origem (e-STJ, fl. 116), os autos vieramme conclusos.
+É o relatório.
+Assiste razão à parte insurgente no ponto em que alega contrariedade ao art. 1.022 do CPC, pois uma análise detida das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 50-53 e 79-81), em cotejo com a petição dos embargos de declaração (e-STJ, fls. 59-63), revela que houve omissão da Corte regional, em especial quanto à assertiva acerca da alegação de "ainda que o feito seja suspenso em relação à sócia Marlene a fim de aguardar a decisão do Tema 981/STJ, em relação ao sócio Sr. Itamar não remanesce fundamento bastante à suspensão e à vedação do redirecionamento, uma vez que era o sócio gerente tanto na dissolução quanto no fato gerador" (e-STJ, fl. 62).
+Tal alegação encontra amparo no entendimento desta Corte:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AOS ARTS. 371, 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR DA SOCIEDADE EXECUTADA. REDIRECIONAMENTO A SÓCIO-GERENTE. POSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DOMINANTE DO STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+II. Não há identidade entre a controvérsia objeto deste recurso e as relativas aos Temas 962 e 981 do STJ, visto que a parte ora agravante exercia a gerência da pessoa jurídica executada, tanto à época do fato gerador, quanto no momento em que constatada a dissolução irregular da sociedade, de modo que não há falar em sobrestamento do feito, como já esclarecido no acórdão recorrido.
+I ..
+(AgInt no REsp 1.838.658/SP, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 6/2/2020, DJe 14/2/2020.)
+Nesse aspecto, a jurisprudência do Superior Tribunal de Justiça é firme de que a parte deve vincular a interposição do recurso especial à tese de violação do art. 1.022 do CPC quando, mesmo após a oposição de embargos declaratórios, o Tribunal a quo se mantém em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum, ou, ainda, quando persista desconhecendo omissão ou contradição arguida como existente no decisum.
+Em idêntica direção:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CARÁTER INFRINGENTE. POSSIBILIDADE. OMISSÃO RECONHECIDA. NOVO JULGAMENTO DO AGRAVO EM RECURSO ESPECIAL. PROVIMENTO. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. EXISTÊNCIA DE OMISSÕES E CONTRADIÇÕES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.  ..  3. Constatada a violação do disposto no art. 1.022 do NCPC, diante da ausência de manifestação do Tribunal estadual sobre temas indispensáveis ao deslinde da controvérsia, deve-se anular o v. acórdão recorrido para que sejam novamente julgados os embargos de declaração opostos. 4. Embargos de declaração acolhidos para, sanada a omissão, dar provimento ao agravo interno e ao recurso especial. (EDcl no AgInt no AREsp 1.530.928/RS, Rel. Min. MOURA RIBEIRO, TERCEIRA TURMA, julgado em 29/6/2020, DJe 1º/7/2020).
+Por estar configurada a afronta ao disposto no art. 1.022 do CPC, impõe-se a decretação de nulidade do acórdão que apreciou os embargos declaratórios para que os vícios sejam sanados.
+Ante o exposto, com fulcro no art. 932, V, do CPC, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ, douprovimento ao recurso especial para anular o acórdão dos embargos de declaração.
+Determino o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado nos aclaratórios.
+Publique-se. Intimem-se.
